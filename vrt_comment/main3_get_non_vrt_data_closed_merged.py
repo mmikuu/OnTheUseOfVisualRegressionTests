@@ -7,16 +7,15 @@ import requests
 import time
 from datetime import datetime
 
-
-INPUT_CSV = '../../data/unique-vrt-comments-merged.csv'
+INPUT_CSV = '../../data/unique-vrt-comments-closed-and-merged.csv'
 PULL_LIST_CSV = '../../data/list-vrt-comments.csv'
-OUTPUT_CSV = '../../data/non_vrt/non-vrt-merged-merged-1.csv'
+OUTPUT_CSV = '../../data/non_vrt/non-vrt-merged-closed-and-merged.csv'
 NON_CHROMATIC_DIR = "../../data/non-chromatic"
 
 # GitHub GraphQL API Endpoint
 GITHUB_API_URL = "https://api.github.com/graphql"
-# GitHub Personal Access Token 
-GITHUB_TOKEN = "your_token"  
+# GitHub Personal Access Token
+GITHUB_TOKEN = "your_token"
 
 TARGET_EXTENSIONS = [
     '.tsx', '.ts', '.json', '.js', '.md',
@@ -39,7 +38,7 @@ def get_pr_modified_files(owner, repo, pull_number, token):
     cursor = None
     files_fetched_count = 0
     api_call_attempts = 0
-    max_attempts = 3  
+    max_attempts = 3
 
     while has_next_page and api_call_attempts < max_attempts:
         api_call_attempts += 1
@@ -95,7 +94,8 @@ def get_pr_modified_files(owner, repo, pull_number, token):
                                 f"Approaching rate limit ({remaining} remaining), waiting for {wait_seconds:.1f} seconds...")
                             time.sleep(wait_seconds)
                     else:
-                        print(f"Approaching rate limit ({remaining} remaining), reset time unknown. Waiting for 90 seconds...")
+                        print(
+                            f"Approaching rate limit ({remaining} remaining), reset time unknown. Waiting for 90 seconds...")
                         time.sleep(90)
 
             if 'errors' in data:
@@ -118,7 +118,7 @@ def get_pr_modified_files(owner, repo, pull_number, token):
             has_next_page = page_info.get('hasNextPage', False)
             cursor = page_info.get('endCursor')
 
-            api_call_attempts = 0 
+            api_call_attempts = 0
 
             if files_fetched_count > 1000 and has_next_page:
                 print(f"Warning: PR {owner}/{repo}#{pull_number} has over 1000 modified files. Halting file fetching.")
@@ -183,7 +183,6 @@ try:
         skipped_date_format = 0;
         skipped_no_url = 0;
         skipped_no_date = 0;
-        skipped_not_merged = 0
         required_columns = ["url", "created_at", "state"]
         if not all(col in reader.fieldnames for col in required_columns):
             print(
@@ -196,8 +195,7 @@ try:
             pr_state = row.get('state', '').upper()
             if not pr_url: skipped_no_url += 1; continue
             if not created_at_str: skipped_no_date += 1; continue
-            if pr_state != 'MERGED': skipped_not_merged += 1; continue
-            
+
             match_pull = REPO_PULL_PATTERN.match(pr_url);
             match_repo = REPO_PATTERN.match(pr_url);
             repo_name_from_url = None
@@ -205,7 +203,7 @@ try:
                 repo_name_from_url = f"{match_pull.group(1)}/{match_pull.group(2)}"
             elif match_repo:
                 repo_name_from_url = f"{match_repo.group(1)}/{match_repo.group(2)}"
-            
+
             if repo_name_from_url:
                 try:
                     created_at_date = datetime.strptime(created_at_str, "%Y-%m-%dT%H:%M:%SZ")
@@ -217,14 +215,16 @@ try:
             else:
                 skipped_url_format += 1
     print(
-        f"Step 1 Complete: Loaded oldest dates for {len(repo_oldest_created_at)} repositories. (Processed: {processed_rows}, Skipped [No URL:{skipped_no_url}, No Date:{skipped_no_date}, Not Merged:{skipped_not_merged}, URL Format:{skipped_url_format}, Date Format:{skipped_date_format}])")
+        f"Step 1 Complete: Loaded oldest dates for {len(repo_oldest_created_at)} repositories. (Processed: {processed_rows}, Skipped [No URL:{skipped_no_url}, No Date:{skipped_no_date}, URL Format:{skipped_url_format}, Date Format:{skipped_date_format}])")
 except FileNotFoundError:
-    print(f"Error: File not found - {PULL_LIST_CSV}"); exit(1)
+    print(f"Error: File not found - {PULL_LIST_CSV}");
+    exit(1)
 except Exception as e:
-    print(f"Error reading {PULL_LIST_CSV}: {e}"); exit(1)
+    print(f"Error reading {PULL_LIST_CSV}: {e}");
+    exit(1)
 
 print(f"\nStep 2: Loading target PR counts per repository from {INPUT_CSV}...")
-repo_target_counts = collections.defaultdict(int) # Renamed from chromaticDict
+repo_target_counts = collections.defaultdict(int)  # Renamed from chromaticDict
 try:
     with open(INPUT_CSV, "r", encoding="utf-8", newline="") as inputFile:
         reader = csv.DictReader(inputFile)
@@ -250,15 +250,16 @@ try:
     print(
         f"Step 2 Complete: Loaded target PR counts for {len(repo_target_counts)} repositories. (Processed: {processed_rows}, Skipped [Missing Data:{skipped_missing_col}, Value Error:{skipped_value_error}])")
 except FileNotFoundError:
-    print(f"Error: File not found - {INPUT_CSV}"); exit(1)
+    print(f"Error: File not found - {INPUT_CSV}");
+    exit(1)
 except Exception as e:
-    print(f"Error reading {INPUT_CSV}: {e}"); exit(1)
-
+    print(f"Error reading {INPUT_CSV}: {e}");
+    exit(1)
 
 print(f"\nStep 3: Processing non-chromatic PR data from {NON_CHROMATIC_DIR} and extracting candidates...")
-nonchromatic_candidates_per_repo = collections.defaultdict(list) 
+nonchromatic_candidates_per_repo = collections.defaultdict(list)
 processed_repo_count_step3 = 0
-total_repos_to_process_step3 = len(repo_target_counts) 
+total_repos_to_process_step3 = len(repo_target_counts)
 repos_with_file_not_found_step3 = []
 
 for repo_name_current_processing in repo_target_counts.keys():
@@ -274,15 +275,14 @@ for repo_name_current_processing in repo_target_counts.keys():
     try:
         with open(non_chromatic_file_path, "r", encoding="utf-8", newline="") as nonChromaticFileObj:
             reader = csv.DictReader(nonChromaticFileObj)
-       
+
             file_processed_pr_count = 0
             file_added_candidate_count = 0
             file_skipped_missing_data = 0
             file_skipped_date_error = 0
             file_skipped_too_old = 0
-            file_skipped_not_merged = 0
             file_skipped_url_parse = 0
-            
+
             oldest_date_filter = repo_oldest_created_at.get(repo_name_current_processing)
 
             for row in reader:
@@ -292,7 +292,6 @@ for repo_name_current_processing in repo_target_counts.keys():
                 pr_state = row.get('state', '').upper()
 
                 if not created_at_str or not pr_url: file_skipped_missing_data += 1; continue
-                if pr_state != 'MERGED': file_skipped_not_merged += 1; continue # Only consider MERGED PRs as candidates from non-chromatic files
 
                 owner, repo_short_name, pr_number_str_val = None, None, None
                 match_pr = REPO_PULL_PATTERN.match(pr_url)
@@ -332,8 +331,8 @@ for repo_name_current_processing in repo_target_counts.keys():
                     file_skipped_date_error += 1
                 except Exception as row_e:
                     print(f"  Warning: Unexpected error while processing row ({row_e}) - {row}")
-    except FileNotFoundError: 
-        if repo_name_current_processing not in repos_with_file_not_found_step3: 
+    except FileNotFoundError:
+        if repo_name_current_processing not in repos_with_file_not_found_step3:
             repos_with_file_not_found_step3.append(repo_name_current_processing)
     except Exception as file_e:
         print(f"  Error: An error occurred while processing {non_chromatic_file_path} - {file_e}")
@@ -342,18 +341,16 @@ print(f"Step 3 Complete: Extracted candidates for {len(nonchromatic_candidates_p
 if repos_with_file_not_found_step3:
     print(f"(Non-chromatic PR detail files not found for: {len(repos_with_file_not_found_step3)} repositories)")
 
-
 print(f"\nStep 4: Starting sampling, extension check (via API), and replacement process for each repository...")
-final_selected_prs = {} 
-total_selected_pr_count = 0 
-total_api_calls = 0 
-total_replacements = 0 
-repos_with_insufficient_selection = 0 
-repos_with_prs_missing_extensions = 0 
+final_selected_prs = {}
+total_selected_pr_count = 0
+total_api_calls = 0
+total_replacements = 0
+repos_with_insufficient_selection = 0
+repos_with_prs_missing_extensions = 0
 api_check_cache = {}
 
 processed_repo_count_step4 = 0
-
 
 for repo_name, target_pr_count_for_repo in repo_target_counts.items():
     processed_repo_count_step4 += 1
@@ -396,7 +393,7 @@ for repo_name, target_pr_count_for_repo in repo_target_counts.items():
         has_target_extension_status = api_check_cache.get(pr_url_to_check)
 
         if has_target_extension_status is None:
-            time.sleep(1) 
+            time.sleep(1)
             api_calls_for_this_repo += 1
             modified_files_list = get_pr_modified_files(
                 pr_to_check['owner'], pr_to_check['repo_short_name'],
@@ -411,15 +408,15 @@ for repo_name, target_pr_count_for_repo in repo_target_counts.items():
 
         if has_target_extension_status:
             pass
-        else: 
+        else:
             found_replacement_for_pr = False
-            for k_idx in range(len(replacement_candidate_pool_for_repo) - 1, -1, -1): # Iterate backwards to pop safely
+            for k_idx in range(len(replacement_candidate_pool_for_repo) - 1, -1, -1):  # Iterate backwards to pop safely
                 replacement_candidate = replacement_candidate_pool_for_repo[k_idx]
                 replacement_pr_url = replacement_candidate['pr_url']
 
                 replacement_has_extension_status = api_check_cache.get(replacement_pr_url)
                 if replacement_has_extension_status is None:
-                    time.sleep(1) 
+                    time.sleep(1)
                     api_calls_for_this_repo += 1
                     modified_files_for_replacement = get_pr_modified_files(
                         replacement_candidate['owner'], replacement_candidate['repo_short_name'],
@@ -427,23 +424,24 @@ for repo_name, target_pr_count_for_repo in repo_target_counts.items():
                     )
                     if modified_files_for_replacement is None:
                         replacement_has_extension_status = False
-                        print(f"        -> API error/No PR info for replacement candidate {replacement_pr_url}. Treating as no target extension.")
+                        print(
+                            f"        -> API error/No PR info for replacement candidate {replacement_pr_url}. Treating as no target extension.")
                     else:
                         replacement_has_extension_status = contains_target_extension(modified_files_for_replacement)
                     api_check_cache[replacement_pr_url] = replacement_has_extension_status
 
                 if replacement_has_extension_status:
-                    print(f"      -> Replacing PR #{pr_to_check['pull_number']} with PR #{replacement_candidate['pull_number']} (has target extension).")
+                    print(
+                        f"      -> Replacing PR #{pr_to_check['pull_number']} with PR #{replacement_candidate['pull_number']} (has target extension).")
                     current_selection_for_repo[i] = replacement_candidate_pool_for_repo.pop(k_idx)
                     replacements_for_this_repo += 1
                     found_replacement_for_pr = True
-                    break 
-          
+                    break
 
     final_selected_count_for_repo = len(current_selection_for_repo)
     print(
         f"  -> Processing complete for {repo_name}: Final selected count {final_selected_count_for_repo}, API calls {api_calls_for_this_repo}, Replacements {replacements_for_this_repo}")
-    
+
     final_selected_prs[repo_name] = current_selection_for_repo
     total_selected_pr_count += final_selected_count_for_repo
     total_api_calls += api_calls_for_this_repo
@@ -452,35 +450,38 @@ for repo_name, target_pr_count_for_repo in repo_target_counts.items():
     extensions_missing_in_final_selection = 0
     for final_pr_data in current_selection_for_repo:
         final_pr_url = final_pr_data['pr_url']
-        
-        if not api_check_cache.get(final_pr_url, False): 
+
+        if not api_check_cache.get(final_pr_url, False):
             extensions_missing_in_final_selection += 1
         elif final_pr_url not in api_check_cache and GITHUB_TOKEN and GITHUB_TOKEN != "YOUR_GITHUB_PAT_HERE" and "11APL6R7I0asGBprwXgznp_rg9Mi1kVL1akVFPfZyTthgeHsBQDGdxF8T4BXzle2mYA77GOHUUH8W1IIqF" != GITHUB_TOKEN:
-         
-            print(f"  Warning: PR {final_pr_url} is in final selection but missing from API check cache (token was valid). Counted as missing extension.")
+
+            print(
+                f"  Warning: PR {final_pr_url} is in final selection but missing from API check cache (token was valid). Counted as missing extension.")
             extensions_missing_in_final_selection += 1
 
-
-    if final_selected_count_for_repo < num_to_select_for_repo: 
+    if final_selected_count_for_repo < num_to_select_for_repo:
         repos_with_insufficient_selection += 1
-        print(f"  Warning: Final PR count for {repo_name} ({final_selected_count_for_repo}) is less than originally aimed selection count ({num_to_select_for_repo})")
+        print(
+            f"  Warning: Final PR count for {repo_name} ({final_selected_count_for_repo}) is less than originally aimed selection count ({num_to_select_for_repo})")
     if extensions_missing_in_final_selection > 0:
         repos_with_prs_missing_extensions += 1
-        print(f"  Warning: {extensions_missing_in_final_selection} PRs without target extensions remained in the final selection for {repo_name}.")
+        print(
+            f"  Warning: {extensions_missing_in_final_selection} PRs without target extensions remained in the final selection for {repo_name}.")
 
 print(f"\nStep 4 Complete: Selected a total of {total_selected_pr_count} PRs for output.")
 print(f"  (Total API calls (Step 4): {total_api_calls}, Total replacements: {total_replacements})")
 if repos_with_insufficient_selection > 0:
-    print(f"  ({repos_with_insufficient_selection} repositories had fewer selected PRs than candidates available or target count)")
+    print(
+        f"  ({repos_with_insufficient_selection} repositories had fewer selected PRs than candidates available or target count)")
 if repos_with_prs_missing_extensions > 0:
-    print(f"  ({repos_with_prs_missing_extensions} repositories could not be completely filled with PRs having target extensions)")
-
+    print(
+        f"  ({repos_with_prs_missing_extensions} repositories could not be completely filled with PRs having target extensions)")
 
 print(f"\nStep 5: Writing results to {OUTPUT_CSV}...")
 try:
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
     output_fieldnames = ['repo_name', 'pr_title', 'pr_url', 'created_at', 'closed_at',
-                  'total_comments', 'total_commits', 'state'] 
+                         'total_comments', 'total_commits', 'state']
     with open(OUTPUT_CSV, mode='w', newline='', encoding='utf-8') as outfile:
         writer = csv.DictWriter(outfile, fieldnames=output_fieldnames, extrasaction='ignore')
         writer.writeheader()
