@@ -1,0 +1,654 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+spark-app,Use HAR to record LiFi calls,https://github.com/sparkdotfi/spark-app/pull/67,2024-05-31T16:25:18Z,2024-06-03T10:52:36Z,5,7,MERGED
+spark-app,Do not use sentry for tracking,https://github.com/sparkdotfi/spark-app/pull/66,2024-05-31T13:35:35Z,2024-06-03T08:31:18Z,3,4,MERGED
+spark-app,Improve chromatic stories snapshots,https://github.com/sparkdotfi/spark-app/pull/65,2024-05-31T09:33:34Z,2024-06-03T08:06:20Z,3,12,MERGED
+spark-app,Test CORS,https://github.com/sparkdotfi/spark-app/pull/64,2024-05-31T08:25:31Z,2024-05-31T08:28:36Z,2,1,CLOSED
+spark-app,Update chromatic tablet viewport value,https://github.com/sparkdotfi/spark-app/pull/63,2024-05-31T05:53:01Z,2024-05-31T09:27:50Z,3,1,MERGED
+spark-app,Migrate to new endpoints,https://github.com/sparkdotfi/spark-app/pull/62,2024-05-29T13:04:04Z,2024-05-31T06:27:31Z,3,2,MERGED
+spark-app,Sort imports with biome,https://github.com/sparkdotfi/spark-app/pull/61,2024-05-29T12:26:58Z,2024-05-29T12:34:18Z,3,1,MERGED
+spark-app,"Simplify eslint config, migrate to biome linter",https://github.com/sparkdotfi/spark-app/pull/60,2024-05-29T06:38:29Z,2024-05-29T12:15:10Z,5,15,MERGED
+spark-app,Do not display airdrop amounts,https://github.com/sparkdotfi/spark-app/pull/59,2024-05-28T15:53:39Z,2024-05-31T09:47:18Z,5,10,MERGED
+spark-app,Upgrade storybook to v8,https://github.com/sparkdotfi/spark-app/pull/58,2024-05-28T14:13:36Z,2024-05-29T10:02:59Z,6,3,MERGED
+spark-app,Improve sentry integration,https://github.com/sparkdotfi/spark-app/pull/57,2024-05-28T10:54:24Z,2024-05-29T10:22:44Z,7,9,MERGED
+spark-app,Enable retries in react-query,https://github.com/sparkdotfi/spark-app/pull/56,2024-05-27T16:08:09Z,2024-05-29T11:49:35Z,6,1,MERGED
+spark-app,Migrate prettier to biome,https://github.com/sparkdotfi/spark-app/pull/55,2024-05-27T12:16:28Z,2024-05-27T13:53:24Z,4,6,MERGED
+spark-app,Disable sentry integration on preview environments,https://github.com/sparkdotfi/spark-app/pull/54,2024-05-27T11:50:28Z,2024-05-27T14:20:17Z,3,5,MERGED
+spark-app,Fix exchange objective key generation,https://github.com/sparkdotfi/spark-app/pull/53,2024-05-20T13:45:27Z,2024-05-20T13:54:21Z,3,1,MERGED
+spark-app,Enable action settings on production,https://github.com/sparkdotfi/spark-app/pull/52,2024-05-17T13:33:22Z,2024-05-27T10:43:32Z,3,10,MERGED
+spark-app,Enable waiving LiFi fees on Gnosis chain,https://github.com/sparkdotfi/spark-app/pull/51,2024-05-17T12:44:52Z,2024-05-17T14:24:17Z,3,1,MERGED
+spark-app,Add Spark airdrop info to market details,https://github.com/sparkdotfi/spark-app/pull/50,2024-05-17T10:26:19Z,2024-05-17T12:32:27Z,3,3,MERGED
+spark-app,Add Spark airdrop info in market details,https://github.com/sparkdotfi/spark-app/pull/49,2024-05-17T10:16:42Z,2024-05-17T10:16:58Z,2,0,CLOSED
+spark-app,Spark airdrop panel,https://github.com/sparkdotfi/spark-app/pull/48,2024-05-16T13:39:32Z,2024-05-17T10:16:11Z,6,13,MERGED
+spark-app,Add E2E tests for savings on Gnosis,https://github.com/sparkdotfi/spark-app/pull/47,2024-05-16T13:26:12Z,2024-05-17T10:15:36Z,3,5,MERGED
+spark-app,Spark air drop,https://github.com/sparkdotfi/spark-app/pull/46,2024-05-16T13:18:16Z,2024-05-16T13:39:25Z,1,10,CLOSED
+spark-app,MetaQueryEvaluator refactor,https://github.com/sparkdotfi/spark-app/pull/45,2024-05-16T10:04:28Z,2024-05-19T14:50:29Z,7,12,MERGED
+spark-app,Refactor lifi class,https://github.com/sparkdotfi/spark-app/pull/44,2024-05-16T09:35:17Z,2024-05-16T09:44:00Z,3,1,MERGED
+spark-app,Refactor lifi class,https://github.com/sparkdotfi/spark-app/pull/43,2024-05-16T08:25:09Z,2024-05-16T09:35:03Z,4,4,MERGED
+spark-app,Refactor LiFi class static,https://github.com/sparkdotfi/spark-app/pull/42,2024-05-16T08:24:48Z,2024-05-16T08:42:36Z,1,3,CLOSED
+spark-app,Replace DSR with APY across the app and add chain specific APY description,https://github.com/sparkdotfi/spark-app/pull/41,2024-05-16T06:20:57Z,2024-05-16T11:18:44Z,5,4,MERGED
+spark-app,Point airdrop link to the Spark Docs,https://github.com/sparkdotfi/spark-app/pull/40,2024-05-16T05:11:43Z,2024-05-16T08:48:14Z,3,1,MERGED
+spark-app,Enable Savings page on Gnosis chain,https://github.com/sparkdotfi/spark-app/pull/39,2024-05-15T15:38:14Z,2024-05-16T13:18:22Z,4,6,MERGED
+spark-app,Tweak discrepancy warnings on savings page,https://github.com/sparkdotfi/spark-app/pull/38,2024-05-15T10:42:54Z,2024-05-16T06:11:36Z,4,2,CLOSED
+spark-app,Add Gnosis chain savings APY and projections,https://github.com/sparkdotfi/spark-app/pull/37,2024-05-14T03:50:41Z,2024-05-15T14:33:04Z,5,11,MERGED
+spark-app,Add E2E tests for warning on savings deposit/withdraw,https://github.com/sparkdotfi/spark-app/pull/36,2024-05-13T16:28:26Z,2024-05-14T08:16:08Z,4,1,MERGED
+spark-app,Replay integration,https://github.com/sparkdotfi/spark-app/pull/35,2024-05-13T12:54:18Z,2024-05-15T12:41:35Z,4,5,CLOSED
+spark-app,Bunify repo,https://github.com/sparkdotfi/spark-app/pull/34,2024-05-13T07:21:51Z,2024-05-13T07:39:41Z,1,4,CLOSED
+spark-app,Fix markets table re-rendering issue by memoizing column defs,https://github.com/sparkdotfi/spark-app/pull/33,2024-05-12T15:38:25Z,2024-05-12T15:46:45Z,1,1,CLOSED
+spark-app,Add quote price difference warning,https://github.com/sparkdotfi/spark-app/pull/32,2024-05-10T15:57:02Z,2024-05-14T07:56:31Z,11,8,MERGED
+spark-app,Enable sentry error tracking,https://github.com/sparkdotfi/spark-app/pull/31,2024-05-10T10:34:04Z,2024-05-10T13:32:06Z,6,11,MERGED
+spark-app,Add navbar airdrop badge e2e tests,https://github.com/sparkdotfi/spark-app/pull/30,2024-05-10T07:00:08Z,2024-05-10T13:02:06Z,4,5,MERGED
+spark-app,Add RiskAcknowledgement component,https://github.com/sparkdotfi/spark-app/pull/29,2024-05-09T14:59:51Z,2024-05-10T07:32:59Z,3,2,MERGED
+spark-app,Add more fetchLiFiTxData tests,https://github.com/sparkdotfi/spark-app/pull/28,2024-05-09T13:52:12Z,2024-05-10T12:50:17Z,11,8,MERGED
+spark-app,Use real data at navbar airdrop hook,https://github.com/sparkdotfi/spark-app/pull/27,2024-05-09T10:18:46Z,2024-05-10T09:54:24Z,8,6,MERGED
+spark-app,Airdrop badge tooltip content,https://github.com/sparkdotfi/spark-app/pull/26,2024-05-09T06:15:56Z,2024-05-09T08:30:19Z,3,3,MERGED
+spark-app,Remove jetstream dependency,https://github.com/sparkdotfi/spark-app/pull/25,2024-05-08T14:57:37Z,2024-05-08T15:06:12Z,2,1,MERGED
+spark-app,Replace tooltips with popovers on touch screens,https://github.com/sparkdotfi/spark-app/pull/24,2024-05-08T14:05:08Z,2024-05-09T07:53:54Z,3,1,MERGED
+spark-app,Add navbar airdrop badge,https://github.com/sparkdotfi/spark-app/pull/23,2024-05-08T13:43:26Z,2024-05-09T08:49:21Z,3,7,MERGED
+spark-app,Bump vitest,https://github.com/sparkdotfi/spark-app/pull/22,2024-05-08T13:17:14Z,2024-05-09T09:32:17Z,3,5,MERGED
+spark-app,Revamp borrow table e-mode switch on the dashboard,https://github.com/sparkdotfi/spark-app/pull/21,2024-05-07T13:12:40Z,2024-05-08T11:34:39Z,3,3,MERGED
+spark-app,Add action settings E2E test,https://github.com/sparkdotfi/spark-app/pull/20,2024-05-07T11:01:06Z,2024-05-09T07:00:26Z,5,7,MERGED
+spark-app,Improve easy borrow page available assets filtering,https://github.com/sparkdotfi/spark-app/pull/19,2024-05-07T10:39:29Z,2024-05-08T11:23:15Z,3,2,MERGED
+spark-app,Improved Lifi integration,https://github.com/sparkdotfi/spark-app/pull/18,2024-05-01T13:06:56Z,2024-05-02T14:24:05Z,8,13,MERGED
+spark-app,Actions settings assembling,https://github.com/sparkdotfi/spark-app/pull/17,2024-04-30T14:58:08Z,2024-05-06T13:42:40Z,3,12,MERGED
+spark-app,Hide assets that cannot be used as collateral at easy borrow deposit selector,https://github.com/sparkdotfi/spark-app/pull/16,2024-04-30T06:56:10Z,2024-05-06T08:52:55Z,3,3,MERGED
+spark-app,Fix actions not updating when using Spark through Safe app,https://github.com/sparkdotfi/spark-app/pull/15,2024-04-29T12:54:27Z,2024-04-29T13:07:09Z,3,1,MERGED
+spark-app,Add Safe wallet to wagmi config,https://github.com/sparkdotfi/spark-app/pull/14,2024-04-29T09:56:05Z,2024-04-29T11:21:59Z,3,1,MERGED
+spark-app,Replace wallet connect project id,https://github.com/sparkdotfi/spark-app/pull/13,2024-04-28T19:41:36Z,2024-04-28T20:16:33Z,3,1,MERGED
+spark-app,Update Gnosis market page,https://github.com/sparkdotfi/spark-app/pull/12,2024-04-28T19:32:56Z,2024-04-28T20:02:20Z,3,2,MERGED
+spark-app,Modify token accent colours used in graphs,https://github.com/sparkdotfi/spark-app/pull/11,2024-04-26T09:42:14Z,2024-04-26T10:31:55Z,3,2,MERGED
+spark-app,Show liquidation price for ETH correlated assets mixed positions,https://github.com/sparkdotfi/spark-app/pull/10,2024-04-25T19:34:00Z,2024-04-26T10:48:35Z,3,3,MERGED
+spark-app,Disable CTA in dashboard when user has any deposits,https://github.com/sparkdotfi/spark-app/pull/9,2024-04-25T12:34:38Z,2024-04-25T19:46:51Z,3,1,MERGED
+spark-app,Add slippage input visuals,https://github.com/sparkdotfi/spark-app/pull/8,2024-04-25T12:13:51Z,2024-04-26T10:14:40Z,5,5,MERGED
+spark-app,Add link to github in navbar settings menu,https://github.com/sparkdotfi/spark-app/pull/7,2024-04-25T12:05:12Z,2024-04-25T16:58:55Z,5,2,MERGED
+spark-app,Fix utilisation charts on Safari,https://github.com/sparkdotfi/spark-app/pull/6,2024-04-25T10:46:48Z,2024-04-25T10:59:41Z,3,1,MERGED
+spark-app,Take borrow cap into account in validateBorrow and getBorrowMaxValue,https://github.com/sparkdotfi/spark-app/pull/5,2024-04-25T09:06:09Z,2024-04-25T10:15:28Z,3,4,MERGED
+spark-app,Fix repaying with a whole wallet balance of an asset,https://github.com/sparkdotfi/spark-app/pull/4,2024-04-25T05:56:00Z,2024-04-25T08:34:58Z,3,2,MERGED
+spark-app,Debounce form values,https://github.com/sparkdotfi/spark-app/pull/3,2024-04-24T15:49:41Z,2024-04-25T07:30:07Z,3,1,MERGED
+spark-app,Show airdrop info when connected to sandbox,https://github.com/sparkdotfi/spark-app/pull/2,2024-04-24T15:00:04Z,2024-04-24T15:42:26Z,3,1,MERGED
+spark-app,Add readme link to production environment,https://github.com/sparkdotfi/spark-app/pull/1,2024-04-24T14:16:41Z,2024-04-24T14:39:50Z,3,1,MERGED
+spark-app,Add NST to sNST deposit support,https://github.com/sparkdotfi/spark-app/pull/180,2024-07-31T22:07:50Z,2024-08-01T10:14:23Z,7,6,MERGED
+spark-app,Add Dai to sNST migration hook,https://github.com/sparkdotfi/spark-app/pull/179,2024-07-31T13:35:52Z,2024-08-01T09:55:29Z,5,3,MERGED
+spark-app,Invalidate allowance query for PSM actions hook,https://github.com/sparkdotfi/spark-app/pull/178,2024-07-30T13:09:39Z,2024-07-31T09:14:09Z,2,2,MERGED
+spark-app,Create basic new savings view,https://github.com/sparkdotfi/spark-app/pull/177,2024-07-30T07:00:54Z,2024-07-31T11:02:44Z,7,13,MERGED
+spark-app,Add NST pot parameters fetching,https://github.com/sparkdotfi/spark-app/pull/176,2024-07-29T14:54:44Z,2024-07-30T13:19:26Z,3,2,MERGED
+spark-app,Increase query client base retry delay,https://github.com/sparkdotfi/spark-app/pull/175,2024-07-29T12:28:59Z,2024-07-29T15:32:11Z,2,1,MERGED
+spark-app,Make easy borrow max buttons behave the same way as in dialogs,https://github.com/sparkdotfi/spark-app/pull/174,2024-07-26T15:08:15Z,2024-07-29T07:44:54Z,4,3,MERGED
+spark-app,Basic analytics,https://github.com/sparkdotfi/spark-app/pull/173,2024-07-26T10:00:51Z,2024-07-26T11:23:17Z,5,3,MERGED
+spark-app,Make savings page to work without market info hook,https://github.com/sparkdotfi/spark-app/pull/172,2024-07-26T06:52:16Z,2024-07-29T11:25:13Z,2,8,MERGED
+spark-app,Introduce useTokens hook,https://github.com/sparkdotfi/spark-app/pull/171,2024-07-25T13:58:29Z,2024-07-26T10:38:57Z,3,11,MERGED
+spark-app,Limit max ltv to 2 decimal places when calculating max borrow,https://github.com/sparkdotfi/spark-app/pull/170,2024-07-24T21:04:03Z,2024-07-25T07:27:12Z,2,1,CLOSED
+spark-app,Increase sentry max value length,https://github.com/sparkdotfi/spark-app/pull/169,2024-07-24T14:03:15Z,2024-07-24T14:45:39Z,2,1,MERGED
+spark-app,Allow to AssetInput to have input with up to token decimal decimals,https://github.com/sparkdotfi/spark-app/pull/168,2024-07-24T12:57:26Z,2024-07-24T14:58:53Z,2,2,MERGED
+spark-app,Strip white characters when pasting numbers to asset input,https://github.com/sparkdotfi/spark-app/pull/167,2024-07-24T12:21:54Z,2024-07-24T14:22:21Z,3,3,MERGED
+spark-app,Remove claim rewards dev flag and enable send feature on production,https://github.com/sparkdotfi/spark-app/pull/166,2024-07-24T08:21:58Z,2024-07-24T08:58:52Z,2,1,MERGED
+spark-app,Remove LiFi,https://github.com/sparkdotfi/spark-app/pull/165,2024-07-23T11:16:28Z,2024-07-25T13:51:12Z,2,11,MERGED
+spark-app,Add future market calculations to withdraw MAX logic,https://github.com/sparkdotfi/spark-app/pull/164,2024-07-22T13:20:21Z,2024-07-24T16:18:51Z,6,7,MERGED
+spark-app,Disable non-native routes for savings,https://github.com/sparkdotfi/spark-app/pull/163,2024-07-18T12:16:36Z,2024-07-18T12:26:32Z,2,1,MERGED
+spark-app,Disable non-native routes in savings,https://github.com/sparkdotfi/spark-app/pull/162,2024-07-16T14:02:29Z,2024-07-18T12:18:37Z,2,3,CLOSED
+spark-app,Disable lifi integration,https://github.com/sparkdotfi/spark-app/pull/161,2024-07-16T13:18:04Z,2024-07-16T14:04:10Z,2,4,CLOSED
+spark-app,Retain some native asset in wallet when depositing max,https://github.com/sparkdotfi/spark-app/pull/160,2024-07-05T22:17:12Z,2024-07-22T12:38:21Z,4,3,MERGED
+spark-app,feat: 🎸 mark ceiling indicator red when limit is reached (#158),https://github.com/sparkdotfi/spark-app/pull/159,2024-07-05T13:53:58Z,2024-07-05T14:05:04Z,3,1,MERGED
+spark-app,feat: 🎸 mark ceiling indicator red when limit is reached,https://github.com/sparkdotfi/spark-app/pull/158,2024-07-05T12:54:45Z,2024-07-05T13:53:21Z,2,3,MERGED
+spark-app,feat: 🎸 sum market details wallet asset with its native equiv (#154),https://github.com/sparkdotfi/spark-app/pull/157,2024-07-05T12:44:06Z,2024-07-05T13:00:40Z,3,1,MERGED
+spark-app,Add new logic for withdraw MAX,https://github.com/sparkdotfi/spark-app/pull/156,2024-07-05T12:08:37Z,2024-07-22T11:26:26Z,3,13,MERGED
+spark-app,Send from savings e2e tests,https://github.com/sparkdotfi/spark-app/pull/155,2024-07-05T11:31:04Z,2024-07-24T08:06:14Z,6,9,MERGED
+spark-app,feat: 🎸 sum market details wallet asset with its native equiv,https://github.com/sparkdotfi/spark-app/pull/154,2024-07-05T11:08:45Z,2024-07-05T12:43:50Z,3,8,MERGED
+spark-app,Tenderly vnets support,https://github.com/sparkdotfi/spark-app/pull/153,2024-07-04T18:42:53Z,2024-07-18T13:24:38Z,8,13,MERGED
+spark-app,Add more assertions to native withdraw hooks,https://github.com/sparkdotfi/spark-app/pull/152,2024-07-04T14:26:08Z,2024-07-18T13:11:41Z,7,6,MERGED
+spark-app,Refactor max value for borrow,https://github.com/sparkdotfi/spark-app/pull/151,2024-07-04T13:03:55Z,2024-07-05T10:38:38Z,4,5,MERGED
+spark-app,Fix failing CI,https://github.com/sparkdotfi/spark-app/pull/150,2024-07-04T06:33:36Z,2024-07-04T07:52:03Z,3,2,MERGED
+spark-app,Use receiver in native withdraw actions to enable sending,https://github.com/sparkdotfi/spark-app/pull/149,2024-07-03T14:46:47Z,2024-07-04T12:06:58Z,3,9,MERGED
+spark-app,Add debt and supply change indicators in dialogs,https://github.com/sparkdotfi/spark-app/pull/148,2024-07-03T12:07:48Z,2024-07-03T14:04:32Z,5,1,MERGED
+spark-app,Disable MAX button after click in AssetInput component,https://github.com/sparkdotfi/spark-app/pull/147,2024-07-03T11:21:31Z,2024-07-03T13:51:36Z,4,4,MERGED
+spark-app,Add receiver form validation,https://github.com/sparkdotfi/spark-app/pull/146,2024-07-03T00:03:12Z,2024-07-03T10:44:54Z,4,7,MERGED
+spark-app,Introduce minRemainingNativeAssetBalance and use it when repaying max,https://github.com/sparkdotfi/spark-app/pull/145,2024-07-02T18:41:56Z,2024-07-03T11:06:05Z,7,3,MERGED
+spark-app,Rename USDC.e to Bridged USDC,https://github.com/sparkdotfi/spark-app/pull/144,2024-07-02T13:23:31Z,2024-07-02T18:01:10Z,3,1,MERGED
+spark-app,Prepare withdraw dialog to serve as send dialog when needed,https://github.com/sparkdotfi/spark-app/pull/143,2024-07-02T13:14:42Z,2024-07-03T10:33:23Z,5,15,MERGED
+spark-app,Display actual max value instead of placeholder in repay dialog,https://github.com/sparkdotfi/spark-app/pull/142,2024-07-02T12:11:35Z,2024-07-03T09:56:06Z,9,9,MERGED
+spark-app,Add USDC.e token,https://github.com/sparkdotfi/spark-app/pull/141,2024-07-02T07:28:55Z,2024-07-02T09:33:40Z,5,3,MERGED
+spark-app,Display 404 when going to non-existent market details,https://github.com/sparkdotfi/spark-app/pull/140,2024-07-01T11:21:30Z,2024-07-02T07:39:14Z,6,3,MERGED
+spark-app,Add optional receiver to withdraw/redeem savings hooks,https://github.com/sparkdotfi/spark-app/pull/139,2024-07-01T10:52:57Z,2024-07-02T08:14:53Z,3,3,MERGED
+spark-app,Fix sDai market link in wallet table in dashboard,https://github.com/sparkdotfi/spark-app/pull/138,2024-06-28T16:40:13Z,2024-07-01T09:16:09Z,4,2,MERGED
+spark-app,Test liquidation risk warnings,https://github.com/sparkdotfi/spark-app/pull/137,2024-06-28T11:34:28Z,2024-07-01T08:39:03Z,3,5,MERGED
+spark-app,Tweak wording for native sDai actions to use Convert verb,https://github.com/sparkdotfi/spark-app/pull/136,2024-06-28T08:14:16Z,2024-06-28T11:48:30Z,3,2,MERGED
+spark-app,Add claim rewards E2E tests,https://github.com/sparkdotfi/spark-app/pull/135,2024-06-27T13:43:56Z,2024-06-28T08:24:55Z,5,4,MERGED
+spark-app,Show liquidation risk acknowledgement in dialogs,https://github.com/sparkdotfi/spark-app/pull/134,2024-06-27T10:55:45Z,2024-07-01T07:35:22Z,7,15,MERGED
+spark-app,Add markets page e2e tests,https://github.com/sparkdotfi/spark-app/pull/133,2024-06-26T11:50:47Z,2024-06-27T11:02:55Z,4,11,MERGED
+spark-app,Add claim rewards modal,https://github.com/sparkdotfi/spark-app/pull/132,2024-06-26T11:39:55Z,2024-06-27T09:26:34Z,5,4,MERGED
+spark-app,Add claim rewards badge,https://github.com/sparkdotfi/spark-app/pull/131,2024-06-25T13:56:19Z,2024-06-26T13:43:56Z,6,4,MERGED
+spark-app,Enable injecting RPC via URL,https://github.com/sparkdotfi/spark-app/pull/130,2024-06-24T16:28:02Z,2024-06-25T09:47:52Z,5,5,MERGED
+spark-app,Add reading user rewards and useClaimAllRewards hook,https://github.com/sparkdotfi/spark-app/pull/129,2024-06-24T15:56:37Z,2024-06-25T14:07:00Z,10,8,MERGED
+spark-app,Savings validation e2e tests,https://github.com/sparkdotfi/spark-app/pull/128,2024-06-24T11:55:39Z,2024-06-25T13:56:07Z,6,5,MERGED
+spark-app,Remove dev feature flags associated with savings,https://github.com/sparkdotfi/spark-app/pull/127,2024-06-24T09:32:06Z,2024-06-25T06:59:30Z,4,1,MERGED
+spark-app,Add E2E test for time-based max repay value calculations,https://github.com/sparkdotfi/spark-app/pull/126,2024-06-21T11:48:01Z,2024-07-24T14:34:46Z,6,3,MERGED
+spark-app,Add USDT gnosis savings dialog e2e tests,https://github.com/sparkdotfi/spark-app/pull/125,2024-06-21T11:01:23Z,2024-06-24T08:52:03Z,3,2,MERGED
+spark-app,"Add gnosis usdc deposit/withdraw tests, add mainnet usdt withdraw tests",https://github.com/sparkdotfi/spark-app/pull/124,2024-06-21T06:39:38Z,2024-06-21T10:08:27Z,3,3,MERGED
+spark-app,Add future market info calculations,https://github.com/sparkdotfi/spark-app/pull/123,2024-06-20T15:04:55Z,2024-06-24T09:06:29Z,9,5,MERGED
+spark-app,Use redeem for gnosis xdai max withdrawal,https://github.com/sparkdotfi/spark-app/pull/122,2024-06-20T10:31:47Z,2024-06-20T13:39:50Z,3,1,MERGED
+spark-app,Repay dialog use maxSelectedFieldName,https://github.com/sparkdotfi/spark-app/pull/121,2024-06-20T09:54:09Z,2024-06-21T09:45:45Z,3,2,MERGED
+spark-app,Show sandbox mode call to action,https://github.com/sparkdotfi/spark-app/pull/120,2024-06-19T16:38:03Z,2024-06-20T09:41:46Z,4,8,MERGED
+spark-app,Add xDai savings deposit/withdraw tests,https://github.com/sparkdotfi/spark-app/pull/119,2024-06-19T13:01:15Z,2024-06-20T08:28:30Z,4,1,MERGED
+spark-app,Fix isolated asset total debt display,https://github.com/sparkdotfi/spark-app/pull/118,2024-06-19T12:37:41Z,2024-06-19T15:57:21Z,4,3,MERGED
+spark-app,Make supply and borrow APY optional,https://github.com/sparkdotfi/spark-app/pull/117,2024-06-19T09:48:06Z,2024-06-19T11:41:52Z,6,4,MERGED
+spark-app,Add native xDai withdrawal and use separate actions for other native deposits,https://github.com/sparkdotfi/spark-app/pull/116,2024-06-18T16:43:37Z,2024-06-20T08:17:53Z,6,6,MERGED
+spark-app,Add easy borrow flow tooltip about some assets not being available,https://github.com/sparkdotfi/spark-app/pull/115,2024-06-18T14:05:38Z,2024-06-18T14:21:41Z,5,2,MERGED
+spark-app,Fix waiting for setup execution in borrow dialog E2E tests,https://github.com/sparkdotfi/spark-app/pull/114,2024-06-18T13:20:28Z,2024-06-18T13:36:49Z,3,1,MERGED
+spark-app,Enable native usdc routes on production,https://github.com/sparkdotfi/spark-app/pull/113,2024-06-18T13:07:59Z,2024-06-18T13:19:28Z,3,1,MERGED
+spark-app,Add custom lint rule,https://github.com/sparkdotfi/spark-app/pull/112,2024-06-18T12:09:21Z,2024-06-18T13:49:34Z,6,6,MERGED
+spark-app,Take into account borrow eligibility status in my wallet panel,https://github.com/sparkdotfi/spark-app/pull/111,2024-06-18T12:09:06Z,2024-06-18T12:57:36Z,3,1,MERGED
+spark-app,Fix debt ceiling unit for isolated assets,https://github.com/sparkdotfi/spark-app/pull/110,2024-06-18T10:35:01Z,2024-06-18T12:06:56Z,4,4,MERGED
+spark-app,Add tests for AssetInput component,https://github.com/sparkdotfi/spark-app/pull/109,2024-06-17T16:50:53Z,2024-06-19T12:03:34Z,5,3,MERGED
+spark-app,Patch 14.06.2024 release with weETH icon,https://github.com/sparkdotfi/spark-app/pull/108,2024-06-17T15:09:00Z,2024-06-17T15:28:42Z,3,2,CLOSED
+spark-app,Fix weETH icon,https://github.com/sparkdotfi/spark-app/pull/107,2024-06-17T14:21:42Z,2024-06-17T14:52:34Z,3,2,MERGED
+spark-app,Actions e2e redo,https://github.com/sparkdotfi/spark-app/pull/106,2024-06-17T13:56:22Z,2024-06-18T09:08:55Z,4,13,MERGED
+spark-app,Add native xDai deposit and use separate actions for other native deposits,https://github.com/sparkdotfi/spark-app/pull/105,2024-06-17T13:46:11Z,2024-06-20T07:54:13Z,4,15,MERGED
+spark-app,Add hooks for gnosis sexy dai interactions,https://github.com/sparkdotfi/spark-app/pull/104,2024-06-17T11:05:22Z,2024-06-18T07:03:47Z,3,2,MERGED
+spark-app,Add IP status endpoint response schema,https://github.com/sparkdotfi/spark-app/pull/103,2024-06-17T08:34:37Z,2024-06-17T10:34:41Z,8,3,MERGED
+spark-app,Add savings USDC deposit and withdraw tests,https://github.com/sparkdotfi/spark-app/pull/102,2024-06-14T12:55:25Z,2024-06-17T06:22:41Z,3,7,MERGED
+spark-app,Increase epsilon when asserting slippage,https://github.com/sparkdotfi/spark-app/pull/101,2024-06-14T09:58:14Z,2024-06-14T11:41:04Z,4,3,MERGED
+spark-app,Add weETH token icon,https://github.com/sparkdotfi/spark-app/pull/100,2024-06-14T08:06:42Z,2024-06-14T09:30:45Z,3,4,MERGED
+spark-app,Enable turbosnap for chromatic,https://github.com/sparkdotfi/spark-app/pull/99,2024-06-13T13:38:28Z,2024-06-13T19:13:41Z,3,1,MERGED
+spark-app,Simplify logs during test execution,https://github.com/sparkdotfi/spark-app/pull/98,2024-06-13T13:36:40Z,2024-06-13T14:57:59Z,3,2,MERGED
+spark-app,Add test with depositing asset that cannot be used as collateral,https://github.com/sparkdotfi/spark-app/pull/97,2024-06-13T10:56:08Z,2024-06-13T13:49:51Z,3,1,MERGED
+spark-app,Tweak wording in savings dialogs,https://github.com/sparkdotfi/spark-app/pull/96,2024-06-13T08:25:55Z,2024-06-13T08:32:51Z,3,2,MERGED
+spark-app,Enable native DAI routes for production,https://github.com/sparkdotfi/spark-app/pull/95,2024-06-13T06:38:32Z,2024-06-13T08:08:24Z,4,2,MERGED
+spark-app,Improve airdrop badge formatting for not growing airdrops,https://github.com/sparkdotfi/spark-app/pull/94,2024-06-13T06:37:07Z,2024-06-13T07:04:11Z,3,2,MERGED
+spark-app, Support USDC withdraw from savings through PSMActions,https://github.com/sparkdotfi/spark-app/pull/93,2024-06-12T14:52:49Z,2024-06-13T14:10:40Z,6,2,MERGED
+spark-app,Add e2e tests for native max DAI withdrawal,https://github.com/sparkdotfi/spark-app/pull/92,2024-06-12T13:22:40Z,2024-06-13T06:42:47Z,3,2,MERGED
+spark-app,Add DAI native withdrawal e2e tests,https://github.com/sparkdotfi/spark-app/pull/91,2024-06-12T12:02:45Z,2024-06-13T06:52:39Z,4,3,MERGED
+spark-app,Support USDC deposit to savings through PSMActions,https://github.com/sparkdotfi/spark-app/pull/90,2024-06-12T11:17:33Z,2024-06-13T09:55:20Z,9,6,MERGED
+spark-app,E2E repro for MAX repayment,https://github.com/sparkdotfi/spark-app/pull/89,2024-06-12T09:11:34Z,2024-06-12T13:57:47Z,3,4,CLOSED
+spark-app,Do not reload sandbox chain on refresh,https://github.com/sparkdotfi/spark-app/pull/88,2024-06-11T16:33:20Z,2024-06-13T09:29:30Z,6,5,MERGED
+spark-app,Add native DAI deposit e2e test,https://github.com/sparkdotfi/spark-app/pull/87,2024-06-11T16:29:01Z,2024-06-12T09:12:36Z,3,4,MERGED
+spark-app,Improve scripts and useTimestamp tests,https://github.com/sparkdotfi/spark-app/pull/86,2024-06-11T11:45:20Z,2024-06-12T06:57:20Z,4,7,MERGED
+spark-app,Sandbox chain selected with malformed sandbox config in storage,https://github.com/sparkdotfi/spark-app/pull/85,2024-06-11T10:38:31Z,2024-06-11T13:02:23Z,3,7,CLOSED
+spark-app,Add hooks for PSM actions,https://github.com/sparkdotfi/spark-app/pull/84,2024-06-10T13:23:13Z,2024-06-12T07:33:21Z,5,8,MERGED
+spark-app,Try to reproduce repay approval issue in test,https://github.com/sparkdotfi/spark-app/pull/83,2024-06-07T13:24:04Z,2024-06-10T08:12:58Z,3,4,CLOSED
+spark-app,E2E Tests for DAI -> USDT swap,https://github.com/sparkdotfi/spark-app/pull/81,2024-06-07T11:41:09Z,2024-06-11T08:33:48Z,7,9,MERGED
+spark-app,Improve savings transaction overview visuals,https://github.com/sparkdotfi/spark-app/pull/80,2024-06-07T11:10:00Z,2024-06-10T09:58:27Z,5,6,MERGED
+spark-app,Add support for native sDAI withdraw,https://github.com/sparkdotfi/spark-app/pull/79,2024-06-06T16:28:09Z,2024-06-07T08:21:17Z,5,3,MERGED
+spark-app,Add support for native sDAI deposit,https://github.com/sparkdotfi/spark-app/pull/78,2024-06-06T11:18:58Z,2024-06-07T07:56:41Z,10,6,MERGED
+spark-app,Migrate tiny-invariant to assert,https://github.com/sparkdotfi/spark-app/pull/77,2024-06-06T08:28:05Z,2024-06-07T10:47:20Z,3,7,MERGED
+spark-app,Make airdrop badge value dynamically growing,https://github.com/sparkdotfi/spark-app/pull/76,2024-06-05T13:50:51Z,2024-06-07T09:18:32Z,8,18,MERGED
+spark-app,Ignore errors coming from @WalletConnect,https://github.com/sparkdotfi/spark-app/pull/75,2024-06-05T13:08:27Z,2024-06-05T13:45:23Z,3,2,MERGED
+spark-app,Add E2E test for switching assets in deposit to savings dialog,https://github.com/sparkdotfi/spark-app/pull/74,2024-06-05T08:40:13Z,2024-06-05T13:59:23Z,5,3,MERGED
+spark-app,"Add deposit, withdraw, redeem tokenized vault hooks",https://github.com/sparkdotfi/spark-app/pull/73,2024-06-05T06:47:44Z,2024-06-05T14:38:40Z,10,13,MERGED
+spark-app,Correctly handle errors for approval actions + storybook fixes,https://github.com/sparkdotfi/spark-app/pull/72,2024-06-04T14:27:45Z,2024-06-05T11:26:56Z,4,5,MERGED
+spark-app,Remove unused HARs for USDC E2E tests,https://github.com/sparkdotfi/spark-app/pull/71,2024-06-04T07:27:42Z,2024-06-04T08:34:53Z,3,1,MERGED
+spark-app,Use getLogs method instead of watching events in useWaitForGnosisTransaction,https://github.com/sparkdotfi/spark-app/pull/70,2024-06-03T16:09:04Z,2024-06-05T06:57:24Z,11,5,MERGED
+spark-app,Use tunnel option for sentry integration,https://github.com/sparkdotfi/spark-app/pull/69,2024-06-03T12:38:14Z,2024-06-05T11:06:39Z,3,3,MERGED
+spark-app,Cleanup zod validators,https://github.com/sparkdotfi/spark-app/pull/68,2024-06-03T08:50:56Z,2024-06-03T09:51:37Z,3,1,MERGED
+spark-app,Redesign actions row and grid,https://github.com/sparkdotfi/spark-app/pull/403,2024-10-31T17:36:23Z,2024-11-01T22:55:09Z,4,10,MERGED
+spark-app,Add transaction overview building blocks,https://github.com/sparkdotfi/spark-app/pull/402,2024-10-31T16:02:25Z,2024-11-01T21:08:48Z,2,9,MERGED
+spark-app,Add new ltv slider component,https://github.com/sparkdotfi/spark-app/pull/401,2024-10-31T13:57:17Z,2024-10-31T14:58:06Z,2,3,MERGED
+spark-app,Remove postfix and prefix icons from button props,https://github.com/sparkdotfi/spark-app/pull/400,2024-10-31T11:31:41Z,2024-11-01T22:27:33Z,2,4,MERGED
+spark-app,Add TopbarWallet,https://github.com/sparkdotfi/spark-app/pull/399,2024-10-30T17:51:48Z,2024-10-31T12:43:03Z,2,15,CLOSED
+spark-app,Add new health factor indicator,https://github.com/sparkdotfi/spark-app/pull/398,2024-10-30T16:27:24Z,2024-10-31T11:04:01Z,3,4,MERGED
+spark-app,Update switch styles,https://github.com/sparkdotfi/spark-app/pull/397,2024-10-29T19:52:54Z,2024-10-30T13:46:44Z,2,1,MERGED
+spark-app,Refactor tailwind config colors,https://github.com/sparkdotfi/spark-app/pull/396,2024-10-29T19:10:24Z,2024-10-30T13:28:13Z,2,3,MERGED
+spark-app,Add AssetInput component,https://github.com/sparkdotfi/spark-app/pull/395,2024-10-29T18:53:28Z,2024-10-30T12:17:54Z,4,3,MERGED
+spark-app,Add new alert component,https://github.com/sparkdotfi/spark-app/pull/394,2024-10-29T18:32:04Z,2024-10-30T06:46:47Z,2,2,MERGED
+spark-app,Add Tooltip,https://github.com/sparkdotfi/spark-app/pull/393,2024-10-29T15:33:02Z,2024-10-30T12:02:44Z,2,4,MERGED
+spark-app,Change storybook tsconfig alias,https://github.com/sparkdotfi/spark-app/pull/392,2024-10-29T12:50:44Z,2024-10-29T13:25:01Z,2,2,MERGED
+spark-app,Add TopbarNavigation,https://github.com/sparkdotfi/spark-app/pull/391,2024-10-29T12:44:27Z,2024-10-29T22:01:07Z,4,13,MERGED
+spark-app,Add IconBox component,https://github.com/sparkdotfi/spark-app/pull/390,2024-10-29T10:49:00Z,2024-10-29T13:49:07Z,3,6,MERGED
+spark-app,Add new switch component,https://github.com/sparkdotfi/spark-app/pull/389,2024-10-29T06:43:49Z,2024-10-29T11:21:52Z,4,6,MERGED
+spark-app,Add select component,https://github.com/sparkdotfi/spark-app/pull/388,2024-10-28T22:16:05Z,2024-10-29T14:44:48Z,3,6,MERGED
+spark-app,Add new Button component,https://github.com/sparkdotfi/spark-app/pull/387,2024-10-27T23:33:12Z,2024-10-28T12:45:04Z,8,16,MERGED
+spark-app,Update config colors,https://github.com/sparkdotfi/spark-app/pull/386,2024-10-24T21:54:51Z,2024-10-25T12:40:32Z,2,8,MERGED
+spark-app,Redesign,https://github.com/sparkdotfi/spark-app/pull/385,2024-10-24T14:39:28Z,2024-11-11T01:33:16Z,2,58,MERGED
+spark-app,Remove hours from charts tooltip,https://github.com/sparkdotfi/spark-app/pull/384,2024-10-24T14:31:43Z,2024-10-25T09:51:06Z,2,7,MERGED
+spark-app,Add Spark UI referral code,https://github.com/sparkdotfi/spark-app/pull/383,2024-10-23T14:52:48Z,2024-10-24T12:25:34Z,2,2,MERGED
+spark-app,Remove merging DAI and sDAI markets,https://github.com/sparkdotfi/spark-app/pull/382,2024-10-23T14:26:32Z,2024-10-24T09:35:06Z,5,3,MERGED
+spark-app,Remove link to legacy app,https://github.com/sparkdotfi/spark-app/pull/381,2024-10-23T14:04:33Z,2024-10-23T14:58:26Z,2,2,MERGED
+spark-app,Improve text at convert stables panel,https://github.com/sparkdotfi/spark-app/pull/380,2024-10-23T14:00:17Z,2024-10-23T15:15:02Z,2,3,MERGED
+spark-app,Add PageNotSupportedWarning tests,https://github.com/sparkdotfi/spark-app/pull/379,2024-10-23T09:45:29Z,2024-10-23T14:14:51Z,4,6,MERGED
+spark-app,Add gas limit increase for specific transaction types mechanism,https://github.com/sparkdotfi/spark-app/pull/378,2024-10-22T16:04:24Z,2024-10-23T13:41:33Z,3,2,MERGED
+spark-app,Add base convert stables dialog tests,https://github.com/sparkdotfi/spark-app/pull/377,2024-10-22T14:57:36Z,2024-10-23T09:05:17Z,2,1,MERGED
+spark-app,Add convert ui to base,https://github.com/sparkdotfi/spark-app/pull/376,2024-10-22T12:45:36Z,2024-10-23T08:50:33Z,2,5,MERGED
+spark-app,Make Savings a main route,https://github.com/sparkdotfi/spark-app/pull/375,2024-10-22T12:17:46Z,2024-10-23T12:40:24Z,2,6,MERGED
+spark-app,Increase NotSupportedWarning height according to design,https://github.com/sparkdotfi/spark-app/pull/374,2024-10-22T11:47:14Z,2024-10-22T16:26:37Z,4,3,MERGED
+spark-app,Make connection to BA API only when available,https://github.com/sparkdotfi/spark-app/pull/373,2024-10-22T11:10:08Z,2024-10-23T13:54:22Z,8,14,MERGED
+spark-app,Change Base oracle price fetching,https://github.com/sparkdotfi/spark-app/pull/372,2024-10-21T15:38:02Z,2024-10-22T09:06:37Z,2,1,MERGED
+spark-app,Test mainnet convert stables dialog,https://github.com/sparkdotfi/spark-app/pull/371,2024-10-21T13:55:21Z,2024-10-22T13:57:22Z,5,11,MERGED
+spark-app,Add mainnet psm convert dialog,https://github.com/sparkdotfi/spark-app/pull/370,2024-10-21T06:06:53Z,2024-10-21T13:54:03Z,2,4,MERGED
+spark-app,Add Base Savings E2E tests,https://github.com/sparkdotfi/spark-app/pull/369,2024-10-18T17:19:19Z,2024-10-22T10:19:46Z,3,17,MERGED
+spark-app,Add convert stables button to stablecoins table in savings,https://github.com/sparkdotfi/spark-app/pull/368,2024-10-18T14:18:52Z,2024-10-18T15:05:52Z,2,5,MERGED
+spark-app,Add transaction overview for convert stables dialog,https://github.com/sparkdotfi/spark-app/pull/367,2024-10-18T13:14:07Z,2024-10-18T15:16:22Z,2,3,MERGED
+spark-app,Add stables convert form UI + logic,https://github.com/sparkdotfi/spark-app/pull/366,2024-10-18T12:57:45Z,2024-10-18T14:44:54Z,4,2,MERGED
+spark-app,Add success view for convert stables dialog,https://github.com/sparkdotfi/spark-app/pull/365,2024-10-18T10:46:08Z,2024-10-18T13:49:44Z,2,1,MERGED
+spark-app,Add gnosis savings page E2E tests,https://github.com/sparkdotfi/spark-app/pull/364,2024-10-18T10:09:13Z,2024-10-18T12:15:45Z,2,2,MERGED
+spark-app,Update timestamp when opening savings withdraw dialog,https://github.com/sparkdotfi/spark-app/pull/363,2024-10-18T08:02:03Z,2024-10-18T10:47:10Z,2,7,MERGED
+spark-app,Use current timestamp when returning price for bridged susds,https://github.com/sparkdotfi/spark-app/pull/362,2024-10-18T06:37:28Z,2024-10-18T10:02:07Z,2,3,MERGED
+spark-app,Fix switching to sandbox in select network dialog,https://github.com/sparkdotfi/spark-app/pull/361,2024-10-17T14:39:25Z,2024-10-18T13:07:54Z,4,3,MERGED
+spark-app,Refactor savings counter rendering,https://github.com/sparkdotfi/spark-app/pull/360,2024-10-17T12:25:56Z,2024-10-18T09:44:13Z,2,3,MERGED
+spark-app,Add convert stables objective,https://github.com/sparkdotfi/spark-app/pull/359,2024-10-16T15:20:07Z,2024-10-17T11:20:19Z,2,3,MERGED
+spark-app,Farms panels updates,https://github.com/sparkdotfi/spark-app/pull/358,2024-10-16T14:24:24Z,2024-10-17T14:09:17Z,6,7,MERGED
+spark-app,Add convert dai to usdc action,https://github.com/sparkdotfi/spark-app/pull/357,2024-10-16T13:57:18Z,2024-10-17T10:59:49Z,3,2,MERGED
+spark-app,Add Base deposit/withdraw psm3 actions,https://github.com/sparkdotfi/spark-app/pull/356,2024-10-16T07:34:11Z,2024-10-17T13:44:04Z,19,27,MERGED
+spark-app,Handle navbar links active state,https://github.com/sparkdotfi/spark-app/pull/355,2024-10-16T05:35:29Z,2024-10-16T14:23:41Z,4,2,MERGED
+spark-app,Make savings page to render on base,https://github.com/sparkdotfi/spark-app/pull/354,2024-10-16T04:40:34Z,2024-10-16T12:02:03Z,2,1,MERGED
+spark-app,Make navbar work when markets data not available,https://github.com/sparkdotfi/spark-app/pull/353,2024-10-16T04:24:43Z,2024-10-16T11:46:37Z,2,2,MERGED
+spark-app,Open select network dialog,https://github.com/sparkdotfi/spark-app/pull/352,2024-10-15T17:17:40Z,2024-10-16T11:10:46Z,4,2,MERGED
+spark-app,Add network select modal,https://github.com/sparkdotfi/spark-app/pull/351,2024-10-15T15:44:36Z,2024-10-16T10:52:30Z,3,2,MERGED
+spark-app,Refactor chain config,https://github.com/sparkdotfi/spark-app/pull/350,2024-10-15T14:22:34Z,2024-10-16T11:33:16Z,5,7,MERGED
+spark-app,Improve wording on savings page,https://github.com/sparkdotfi/spark-app/pull/349,2024-10-15T10:27:15Z,2024-10-15T11:35:35Z,2,4,MERGED
+spark-app,Use tenderly vnets for gnosis tests,https://github.com/sparkdotfi/spark-app/pull/348,2024-10-15T09:04:41Z,2024-10-15T09:46:39Z,2,1,MERGED
+spark-app,Add base savings info,https://github.com/sparkdotfi/spark-app/pull/347,2024-10-15T06:40:51Z,2024-10-15T10:21:36Z,2,4,MERGED
+spark-app,Refactor stake and unstake actions creation to use action path switch,https://github.com/sparkdotfi/spark-app/pull/346,2024-10-14T06:25:38Z,2024-10-14T13:33:29Z,2,1,MERGED
+spark-app,Add Base DevNet and preliminary chain config,https://github.com/sparkdotfi/spark-app/pull/345,2024-10-11T12:47:47Z,2024-10-14T15:42:26Z,5,3,MERGED
+spark-app,Display savings graph on additional views,https://github.com/sparkdotfi/spark-app/pull/344,2024-10-11T11:46:47Z,2024-10-15T10:09:00Z,5,19,MERGED
+spark-app,Simplify overlay handling and fix scroll bug,https://github.com/sparkdotfi/spark-app/pull/343,2024-10-11T07:36:01Z,2024-10-14T08:57:20Z,3,1,CLOSED
+spark-app,Display farms without third party api data,https://github.com/sparkdotfi/spark-app/pull/342,2024-10-10T16:27:58Z,2024-10-15T05:23:57Z,3,6,MERGED
+spark-app,Disable buttons when page not supported,https://github.com/sparkdotfi/spark-app/pull/341,2024-10-09T16:53:46Z,2024-10-10T11:28:02Z,1,1,CLOSED
+spark-app,Show points reward when staked balance is 0,https://github.com/sparkdotfi/spark-app/pull/340,2024-10-09T12:43:44Z,2024-10-09T13:14:20Z,2,2,MERGED
+spark-app,Do not set savings tokens balances in sandbox,https://github.com/sparkdotfi/spark-app/pull/339,2024-10-09T10:00:55Z,2024-10-09T10:24:02Z,2,1,MERGED
+spark-app,Unblock farms in UK,https://github.com/sparkdotfi/spark-app/pull/338,2024-10-09T09:54:28Z,2024-10-09T10:12:44Z,2,1,MERGED
+spark-app,Add supported page mechanism,https://github.com/sparkdotfi/spark-app/pull/337,2024-10-09T08:10:37Z,2024-10-14T15:28:30Z,3,11,MERGED
+spark-app,Display farms without third party api data,https://github.com/sparkdotfi/spark-app/pull/336,2024-10-08T13:25:12Z,2024-10-10T16:29:22Z,3,16,CLOSED
+spark-app,Add CLE farm E2E tests,https://github.com/sparkdotfi/spark-app/pull/335,2024-10-08T10:33:59Z,2024-10-09T08:19:37Z,2,2,MERGED
+spark-app,Handle charts visibility when data not available,https://github.com/sparkdotfi/spark-app/pull/334,2024-10-08T10:27:19Z,2024-10-09T11:59:27Z,5,11,MERGED
+spark-app,Add linear charts ,https://github.com/sparkdotfi/spark-app/pull/333,2024-10-07T18:04:07Z,2024-10-08T13:55:00Z,3,6,MERGED
+spark-app,Add balance calculating for points farm,https://github.com/sparkdotfi/spark-app/pull/332,2024-10-04T15:59:51Z,2024-10-07T22:05:02Z,2,6,MERGED
+spark-app,Assemble savings charts,https://github.com/sparkdotfi/spark-app/pull/331,2024-10-04T08:47:20Z,2024-10-08T06:29:37Z,7,37,MERGED
+spark-app,Configure CRO farm,https://github.com/sparkdotfi/spark-app/pull/330,2024-10-03T14:00:45Z,2024-10-07T17:55:31Z,3,9,MERGED
+spark-app,Add savings chart info hook,https://github.com/sparkdotfi/spark-app/pull/329,2024-10-03T10:00:38Z,2024-10-04T09:01:40Z,13,16,MERGED
+spark-app,Use chart tabs component at farm details page,https://github.com/sparkdotfi/spark-app/pull/328,2024-10-03T09:50:39Z,2024-10-03T14:08:00Z,2,10,MERGED
+spark-app,Refactor savings logic to use explicitly defined paths,https://github.com/sparkdotfi/spark-app/pull/327,2024-10-02T12:00:56Z,2024-10-03T10:27:03Z,2,2,MERGED
+spark-app,Add chart opaque type,https://github.com/sparkdotfi/spark-app/pull/326,2024-10-02T09:23:45Z,2024-10-02T09:35:38Z,2,1,MERGED
+spark-app,Make reward token price optional on farm details page,https://github.com/sparkdotfi/spark-app/pull/325,2024-10-01T15:20:45Z,2024-10-02T13:31:11Z,3,5,MERGED
+spark-app,Add ChartTabsPanel component,https://github.com/sparkdotfi/spark-app/pull/324,2024-10-01T15:05:56Z,2024-10-02T13:43:37Z,3,9,MERGED
+spark-app,Add tvl chart,https://github.com/sparkdotfi/spark-app/pull/323,2024-10-01T13:40:11Z,2024-10-02T09:28:39Z,2,2,MERGED
+spark-app,Set e2e test retries back to 3,https://github.com/sparkdotfi/spark-app/pull/322,2024-10-01T10:44:51Z,2024-10-01T10:53:29Z,2,1,MERGED
+spark-app,Refactor rewards chart panel to accept loading and error states,https://github.com/sparkdotfi/spark-app/pull/321,2024-10-01T10:01:45Z,2024-10-01T12:39:38Z,2,4,MERGED
+spark-app,Add SavingRateChart component,https://github.com/sparkdotfi/spark-app/pull/320,2024-10-01T08:18:09Z,2024-10-01T11:42:53Z,2,12,MERGED
+spark-app,Add MyEarningsChart component,https://github.com/sparkdotfi/spark-app/pull/319,2024-10-01T06:47:25Z,2024-10-01T11:08:51Z,6,7,MERGED
+spark-app,Refactor farm history hook to use regular query,https://github.com/sparkdotfi/spark-app/pull/318,2024-10-01T06:46:53Z,2024-10-01T10:31:07Z,2,4,MERGED
+spark-app,Refactor savings into tagged union,https://github.com/sparkdotfi/spark-app/pull/317,2024-09-30T12:05:42Z,2024-10-01T12:49:03Z,1,1,CLOSED
+spark-app,Display SSR instead of DSR in empty savings state,https://github.com/sparkdotfi/spark-app/pull/316,2024-09-30T08:52:32Z,2024-09-30T10:00:24Z,2,1,MERGED
+spark-app,Add geoblocking for farms,https://github.com/sparkdotfi/spark-app/pull/315,2024-09-27T13:21:50Z,2024-09-27T13:42:47Z,2,2,MERGED
+spark-app,Fix reverting to snapshots in E2E tests,https://github.com/sparkdotfi/spark-app/pull/314,2024-09-27T11:51:58Z,2024-10-01T08:23:21Z,4,8,MERGED
+spark-app,Use apy and rewards in farm details copy,https://github.com/sparkdotfi/spark-app/pull/313,2024-09-27T11:46:01Z,2024-09-27T11:58:26Z,2,1,MERGED
+spark-app,Add sandbox redirect for market page,https://github.com/sparkdotfi/spark-app/pull/312,2024-09-27T11:43:08Z,2024-09-30T13:02:41Z,4,4,MERGED
+spark-app,Adjust farm stories,https://github.com/sparkdotfi/spark-app/pull/311,2024-09-27T09:53:30Z,2024-09-30T12:22:23Z,3,4,MERGED
+spark-app,Remove USDS devnet,https://github.com/sparkdotfi/spark-app/pull/310,2024-09-27T09:46:51Z,2024-09-30T12:09:46Z,2,1,MERGED
+spark-app,Improve copy after feedback,https://github.com/sparkdotfi/spark-app/pull/309,2024-09-27T09:43:35Z,2024-09-27T10:28:53Z,3,1,MERGED
+spark-app,Fix ENS name and avatar display in navbar,https://github.com/sparkdotfi/spark-app/pull/308,2024-09-27T09:05:58Z,2024-09-27T09:47:45Z,2,1,MERGED
+spark-app,Adjust playwright test config to get test report faster,https://github.com/sparkdotfi/spark-app/pull/307,2024-09-27T05:59:55Z,2024-09-27T09:13:34Z,2,1,MERGED
+spark-app,Add oracles E2E tests,https://github.com/sparkdotfi/spark-app/pull/306,2024-09-26T15:13:34Z,2024-09-27T12:10:59Z,2,10,MERGED
+spark-app,Enable farms in production,https://github.com/sparkdotfi/spark-app/pull/305,2024-09-26T14:22:15Z,2024-09-27T07:39:26Z,2,1,MERGED
+spark-app,Clear sandbox when expired,https://github.com/sparkdotfi/spark-app/pull/304,2024-09-26T10:10:57Z,2024-09-27T14:20:07Z,4,5,MERGED
+spark-app,Restructure active farm info panel and add sandbox redirects,https://github.com/sparkdotfi/spark-app/pull/303,2024-09-25T20:57:14Z,2024-09-26T13:42:08Z,6,9,MERGED
+spark-app,Add max withdraw and exit from farms tests,https://github.com/sparkdotfi/spark-app/pull/302,2024-09-25T18:13:25Z,2024-09-26T08:42:23Z,3,5,MERGED
+spark-app,Rename stake to deposit and unstake to withdraw,https://github.com/sparkdotfi/spark-app/pull/301,2024-09-25T14:20:53Z,2024-09-26T15:16:07Z,3,4,MERGED
+spark-app,Adjust oracles implementation,https://github.com/sparkdotfi/spark-app/pull/300,2024-09-25T14:01:44Z,2024-09-26T14:05:44Z,9,8,MERGED
+spark-app,Add event-based amount calculations for savings tokens stake to farms,https://github.com/sparkdotfi/spark-app/pull/299,2024-09-25T11:46:14Z,2024-09-25T14:14:54Z,4,3,MERGED
+spark-app,Add exit option in withdraw dialog,https://github.com/sparkdotfi/spark-app/pull/298,2024-09-25T10:54:57Z,2024-09-25T14:55:58Z,8,10,MERGED
+spark-app,FRO-913-unstake-dialog-e2e,https://github.com/sparkdotfi/spark-app/pull/297,2024-09-25T10:06:20Z,2024-09-25T13:30:53Z,3,5,MERGED
+spark-app,Add claim farm rewards E2E tests,https://github.com/sparkdotfi/spark-app/pull/296,2024-09-24T13:30:02Z,2024-09-25T08:54:27Z,3,2,MERGED
+spark-app,Add UnstakeDialog component,https://github.com/sparkdotfi/spark-app/pull/295,2024-09-24T13:01:38Z,2024-09-25T09:45:45Z,17,16,MERGED
+spark-app,Tweak playwright configuration to fail after few failures,https://github.com/sparkdotfi/spark-app/pull/294,2024-09-24T12:18:21Z,2024-09-25T08:01:40Z,3,6,MERGED
+spark-app,Fix sandbox mode on gnosis,https://github.com/sparkdotfi/spark-app/pull/293,2024-09-24T11:27:34Z,2024-09-25T08:23:09Z,3,3,MERGED
+spark-app,Add cbBTC oracle config,https://github.com/sparkdotfi/spark-app/pull/292,2024-09-24T08:49:40Z,2024-09-24T12:00:45Z,3,2,MERGED
+spark-app,Display unsupported chain view at farms,https://github.com/sparkdotfi/spark-app/pull/291,2024-09-24T06:25:14Z,2024-09-24T14:45:20Z,5,7,MERGED
+spark-app,Add stake E2E tests,https://github.com/sparkdotfi/spark-app/pull/290,2024-09-23T18:05:24Z,2024-09-24T10:18:24Z,3,3,MERGED
+spark-app,Adjust oracles copy,https://github.com/sparkdotfi/spark-app/pull/289,2024-09-23T15:29:32Z,2024-09-24T06:46:49Z,2,3,MERGED
+spark-app,Hide savings tokens in stake dialog behind feature flag,https://github.com/sparkdotfi/spark-app/pull/288,2024-09-23T15:20:05Z,2024-09-24T09:35:29Z,2,2,MERGED
+spark-app,Make ipfs release on each push to main,https://github.com/sparkdotfi/spark-app/pull/287,2024-09-23T13:33:50Z,2024-09-24T07:47:31Z,4,2,CLOSED
+spark-app,Add Address component,https://github.com/sparkdotfi/spark-app/pull/286,2024-09-23T12:21:40Z,2024-09-24T09:49:34Z,5,18,MERGED
+spark-app,Add cbBTC asset logo,https://github.com/sparkdotfi/spark-app/pull/285,2024-09-23T11:30:00Z,2024-09-23T11:53:14Z,2,3,MERGED
+spark-app,Add claim farm rewards dialog,https://github.com/sparkdotfi/spark-app/pull/284,2024-09-20T14:42:19Z,2024-09-23T12:06:06Z,3,2,MERGED
+spark-app,Switch ToS disable state to IntersectionObserver,https://github.com/sparkdotfi/spark-app/pull/283,2024-09-19T14:26:44Z,2024-09-19T14:52:55Z,2,3,MERGED
+spark-app,Add unstake action flavor,https://github.com/sparkdotfi/spark-app/pull/282,2024-09-19T05:58:54Z,2024-09-23T12:34:58Z,5,7,MERGED
+spark-app,Add useOracleInfo hook,https://github.com/sparkdotfi/spark-app/pull/281,2024-09-18T17:21:17Z,2024-09-23T11:14:04Z,13,27,MERGED
+spark-app,Add claim farm rewards action,https://github.com/sparkdotfi/spark-app/pull/280,2024-09-18T12:04:09Z,2024-09-19T08:15:11Z,2,1,MERGED
+spark-app,Add Oracle components,https://github.com/sparkdotfi/spark-app/pull/279,2024-09-18T08:24:30Z,2024-09-19T14:09:14Z,14,21,MERGED
+spark-app,Update docs links,https://github.com/sparkdotfi/spark-app/pull/278,2024-09-18T07:41:44Z,2024-09-18T08:08:29Z,2,1,MERGED
+spark-app,Refresh savings deposit action after switching savings token after approval,https://github.com/sparkdotfi/spark-app/pull/277,2024-09-18T05:44:43Z,2024-09-18T08:41:57Z,2,3,MERGED
+spark-app,Fork mainnet instead of USDS devchain in E2E tests,https://github.com/sparkdotfi/spark-app/pull/276,2024-09-17T17:26:54Z,2024-09-18T08:31:40Z,6,5,MERGED
+spark-app,Add stake dialog,https://github.com/sparkdotfi/spark-app/pull/275,2024-09-17T14:55:45Z,2024-09-19T11:23:18Z,10,18,MERGED
+spark-app,Move usds related contracts to wagmi config,https://github.com/sparkdotfi/spark-app/pull/274,2024-09-16T14:54:00Z,2024-09-17T14:00:13Z,8,12,MERGED
+spark-app,Finalize copy improvements,https://github.com/sparkdotfi/spark-app/pull/273,2024-09-16T14:21:12Z,2024-09-17T09:59:35Z,6,11,MERGED
+spark-app,Add chain sensitivity for dialogs,https://github.com/sparkdotfi/spark-app/pull/272,2024-09-13T14:17:58Z,2024-09-17T07:06:08Z,3,7,MERGED
+spark-app,Add usds psm wrap action and use it in stake actions creation,https://github.com/sparkdotfi/spark-app/pull/271,2024-09-13T14:13:03Z,2024-09-16T12:31:27Z,2,3,MERGED
+spark-app,Update typescript to v5.6.2,https://github.com/sparkdotfi/spark-app/pull/270,2024-09-13T11:49:46Z,2024-09-13T12:53:45Z,2,4,MERGED
+spark-app,Add transaction overview to migration dialogs,https://github.com/sparkdotfi/spark-app/pull/269,2024-09-13T11:17:14Z,2024-09-17T06:36:00Z,2,7,MERGED
+spark-app,Rename cash & savings into savings,https://github.com/sparkdotfi/spark-app/pull/268,2024-09-13T10:57:40Z,2024-09-16T08:24:08Z,2,5,MERGED
+spark-app,Rename Dashboard route,https://github.com/sparkdotfi/spark-app/pull/267,2024-09-13T08:51:41Z,2024-09-16T07:58:20Z,6,9,MERGED
+spark-app,Add stake action flavor,https://github.com/sparkdotfi/spark-app/pull/266,2024-09-12T13:46:51Z,2024-09-13T12:40:38Z,2,6,MERGED
+spark-app,Display collateral info when LT is greater than 0,https://github.com/sparkdotfi/spark-app/pull/265,2024-09-12T13:39:28Z,2024-09-12T15:08:25Z,2,3,MERGED
+spark-app,Hide market overview for non borrowable tokens,https://github.com/sparkdotfi/spark-app/pull/264,2024-09-12T12:46:43Z,2024-09-12T14:40:21Z,3,6,MERGED
+spark-app,Update navbar,https://github.com/sparkdotfi/spark-app/pull/263,2024-09-12T08:44:49Z,2024-09-12T13:42:33Z,4,8,MERGED
+spark-app,Add inputs to downgrade and upgrade dialogs,https://github.com/sparkdotfi/spark-app/pull/262,2024-09-11T11:33:22Z,2024-09-12T10:24:44Z,5,9,MERGED
+spark-app,Update ToS ,https://github.com/sparkdotfi/spark-app/pull/261,2024-09-11T09:19:38Z,2024-09-11T11:32:43Z,4,4,MERGED
+spark-app,Enable USDS borrowing at easy borrow page,https://github.com/sparkdotfi/spark-app/pull/260,2024-09-10T10:51:21Z,2024-09-11T11:12:00Z,2,7,MERGED
+spark-app,Savings improvements from feedback,https://github.com/sparkdotfi/spark-app/pull/259,2024-09-10T08:26:45Z,2024-09-10T13:57:21Z,6,12,MERGED
+spark-app,Make sentry useful ,https://github.com/sparkdotfi/spark-app/pull/258,2024-09-09T13:38:25Z,2024-09-10T07:14:26Z,2,4,MERGED
+spark-app,Improve savings copy,https://github.com/sparkdotfi/spark-app/pull/257,2024-09-09T12:15:59Z,2024-09-11T10:15:43Z,3,6,MERGED
+spark-app,Handle dialog content overflow,https://github.com/sparkdotfi/spark-app/pull/256,2024-09-09T09:39:18Z,2024-09-09T13:03:38Z,2,4,MERGED
+spark-app,Add USDS borrow support in easy borrow flow,https://github.com/sparkdotfi/spark-app/pull/255,2024-09-06T16:29:32Z,2024-09-11T09:51:22Z,5,1,CLOSED
+spark-app,Reintroduce welcome modal after regression,https://github.com/sparkdotfi/spark-app/pull/254,2024-09-06T12:45:09Z,2024-09-06T14:07:39Z,2,2,MERGED
+spark-app,Add learn more links to cash in wallet items,https://github.com/sparkdotfi/spark-app/pull/253,2024-09-06T12:06:57Z,2024-09-06T13:51:59Z,2,1,MERGED
+spark-app,Update upgrade dialogs style,https://github.com/sparkdotfi/spark-app/pull/252,2024-09-06T10:20:50Z,2024-09-06T12:33:50Z,2,3,MERGED
+spark-app,Allow Farm APY to be greater than 100%,https://github.com/sparkdotfi/spark-app/pull/251,2024-09-06T09:37:50Z,2024-09-06T10:19:51Z,2,2,MERGED
+spark-app,Add today point on charts on APR over time chart,https://github.com/sparkdotfi/spark-app/pull/250,2024-09-04T13:16:37Z,2024-09-04T14:06:27Z,2,1,MERGED
+spark-app,Replace maker badge with sky badge,https://github.com/sparkdotfi/spark-app/pull/249,2024-09-04T12:34:10Z,2024-09-04T14:19:51Z,2,2,MERGED
+spark-app,Extend market details E2E tests,https://github.com/sparkdotfi/spark-app/pull/248,2024-09-04T12:26:43Z,2024-09-06T08:36:29Z,6,7,MERGED
+spark-app,Merge savings with USDS to savings feature,https://github.com/sparkdotfi/spark-app/pull/247,2024-09-04T10:43:53Z,2024-09-06T08:18:01Z,2,2,MERGED
+spark-app,Show upgrade benefits in a separate dialog,https://github.com/sparkdotfi/spark-app/pull/246,2024-09-03T17:13:01Z,2024-09-04T10:17:16Z,6,11,MERGED
+spark-app,Add USDC from sUSDS withdraw with E2E tests,https://github.com/sparkdotfi/spark-app/pull/245,2024-09-03T13:33:29Z,2024-09-04T09:28:20Z,2,2,MERGED
+spark-app,Restyle top banner,https://github.com/sparkdotfi/spark-app/pull/244,2024-09-03T12:40:36Z,2024-09-04T11:44:57Z,8,11,MERGED
+spark-app,Show apy benefit only when applicable,https://github.com/sparkdotfi/spark-app/pull/243,2024-09-03T12:18:14Z,2024-09-04T10:00:58Z,3,3,MERGED
+spark-app,New savings welcome dialog,https://github.com/sparkdotfi/spark-app/pull/242,2024-09-03T10:26:41Z,2024-09-04T09:45:37Z,6,8,MERGED
+spark-app,Add USDC to sUSDS deposit with E2E tests,https://github.com/sparkdotfi/spark-app/pull/241,2024-09-03T09:29:47Z,2024-09-03T13:30:12Z,2,3,MERGED
+spark-app,Extend D3M dss outline informations,https://github.com/sparkdotfi/spark-app/pull/240,2024-09-02T11:05:04Z,2024-09-03T07:18:14Z,7,7,MERGED
+spark-app,Display cap automator info on market details,https://github.com/sparkdotfi/spark-app/pull/239,2024-08-30T09:52:31Z,2024-09-03T12:29:10Z,12,14,MERGED
+spark-app,Rename all instances of nst to usds,https://github.com/sparkdotfi/spark-app/pull/238,2024-08-30T09:50:16Z,2024-09-02T13:32:32Z,7,15,MERGED
+spark-app,Fro 916 cooldown timer UI,https://github.com/sparkdotfi/spark-app/pull/237,2024-08-29T12:36:45Z,2024-08-30T09:48:20Z,8,12,MERGED
+spark-app,Add Farms page e2e tests,https://github.com/sparkdotfi/spark-app/pull/236,2024-08-29T10:43:31Z,2024-08-29T12:33:00Z,3,1,MERGED
+spark-app,Add market details links,https://github.com/sparkdotfi/spark-app/pull/235,2024-08-29T09:15:03Z,2024-08-29T13:33:49Z,4,8,MERGED
+spark-app,Update top banner announcements,https://github.com/sparkdotfi/spark-app/pull/234,2024-08-29T07:49:27Z,2024-08-29T10:20:44Z,4,4,MERGED
+spark-app,Assemble farm details page,https://github.com/sparkdotfi/spark-app/pull/233,2024-08-28T15:35:15Z,2024-08-29T09:21:51Z,4,3,MERGED
+spark-app,Add historical data fetching for APR chart,https://github.com/sparkdotfi/spark-app/pull/232,2024-08-28T11:57:39Z,2024-08-29T09:08:05Z,4,5,MERGED
+spark-app,Make key missing error more clear in wagmi config,https://github.com/sparkdotfi/spark-app/pull/231,2024-08-28T09:24:32Z,2024-08-28T09:46:52Z,2,2,MERGED
+spark-app,Add useCapAutomatorInfo hook,https://github.com/sparkdotfi/spark-app/pull/230,2024-08-28T08:02:11Z,2024-08-28T11:34:08Z,9,9,MERGED
+spark-app,Switch to LitePSM for USDC swaps,https://github.com/sparkdotfi/spark-app/pull/229,2024-08-27T09:00:37Z,2024-08-27T09:49:43Z,3,1,MERGED
+spark-app,Add useFarmsInfo hook,https://github.com/sparkdotfi/spark-app/pull/228,2024-08-26T15:55:34Z,2024-08-27T11:45:24Z,4,1,MERGED
+spark-app,Bootstrap farm details page,https://github.com/sparkdotfi/spark-app/pull/227,2024-08-26T13:21:58Z,2024-08-26T16:24:11Z,3,1,MERGED
+spark-app,Add TokensToDeposit component for farms,https://github.com/sparkdotfi/spark-app/pull/226,2024-08-26T11:57:40Z,2024-08-26T16:09:47Z,4,3,MERGED
+spark-app,Add AprOverTime component,https://github.com/sparkdotfi/spark-app/pull/225,2024-08-23T16:07:49Z,2024-08-26T12:30:13Z,3,2,MERGED
+spark-app,Add ActiveFarmInfoPanel component,https://github.com/sparkdotfi/spark-app/pull/224,2024-08-22T20:17:19Z,2024-08-26T12:17:00Z,4,3,MERGED
+spark-app,Add farm info panel component,https://github.com/sparkdotfi/spark-app/pull/223,2024-08-22T11:12:28Z,2024-08-22T20:16:37Z,3,1,MERGED
+spark-app,Add farms list to view,https://github.com/sparkdotfi/spark-app/pull/222,2024-08-21T13:32:52Z,2024-08-22T10:24:58Z,6,5,MERGED
+spark-app,Transaction overview maker badge UI,https://github.com/sparkdotfi/spark-app/pull/221,2024-08-21T09:48:41Z,2024-08-22T07:48:02Z,5,5,MERGED
+spark-app,Update transaction overview maker badge UI,https://github.com/sparkdotfi/spark-app/pull/220,2024-08-21T09:34:27Z,2024-08-21T09:45:05Z,1,1,CLOSED
+spark-app,Add farms tile component and draft first version of farms config,https://github.com/sparkdotfi/spark-app/pull/219,2024-08-20T13:06:52Z,2024-08-21T10:09:05Z,6,5,MERGED
+spark-app,Scaffold farms page,https://github.com/sparkdotfi/spark-app/pull/218,2024-08-20T06:30:02Z,2024-08-20T10:23:52Z,3,4,MERGED
+spark-app,Add sDAI to NST withdraw E2E tests,https://github.com/sparkdotfi/spark-app/pull/217,2024-08-19T13:11:23Z,2024-08-20T10:08:50Z,5,2,MERGED
+spark-app,Upgrade sDai dialog e2e tests,https://github.com/sparkdotfi/spark-app/pull/216,2024-08-19T12:27:16Z,2024-08-20T09:33:52Z,4,4,MERGED
+spark-app,Add sDAI to NST withdraw,https://github.com/sparkdotfi/spark-app/pull/215,2024-08-19T12:13:08Z,2024-08-20T07:14:09Z,3,1,MERGED
+spark-app,Add sDai to sNst migration dialog,https://github.com/sparkdotfi/spark-app/pull/214,2024-08-19T06:00:59Z,2024-08-19T12:21:25Z,2,3,MERGED
+spark-app,Downgrade e2e tests,https://github.com/sparkdotfi/spark-app/pull/213,2024-08-16T14:04:39Z,2024-08-16T14:28:09Z,2,2,MERGED
+spark-app,Add sDAI to sNST migration config and test it,https://github.com/sparkdotfi/spark-app/pull/212,2024-08-16T12:33:26Z,2024-08-16T18:32:17Z,2,1,MERGED
+spark-app,Add upgrade E2E tests,https://github.com/sparkdotfi/spark-app/pull/211,2024-08-16T09:42:18Z,2024-08-16T12:31:30Z,2,1,MERGED
+spark-app,Add downgrade dialog,https://github.com/sparkdotfi/spark-app/pull/210,2024-08-16T09:33:54Z,2024-08-16T12:13:15Z,2,4,MERGED
+spark-app,Add UpgradeSavingsBanner,https://github.com/sparkdotfi/spark-app/pull/209,2024-08-14T14:48:45Z,2024-08-16T09:50:11Z,3,2,MERGED
+spark-app,Add upgrade dialog and handle dai to nst case,https://github.com/sparkdotfi/spark-app/pull/208,2024-08-14T13:51:20Z,2024-08-14T16:46:57Z,3,4,MERGED
+spark-app,Add send NST E2E tests,https://github.com/sparkdotfi/spark-app/pull/207,2024-08-14T12:27:14Z,2024-08-16T08:32:24Z,3,2,MERGED
+spark-app,Add downgrade action flavour,https://github.com/sparkdotfi/spark-app/pull/206,2024-08-14T11:48:12Z,2024-08-16T06:03:56Z,5,4,MERGED
+spark-app,Add upgrade action flavour and cover dai to nst case,https://github.com/sparkdotfi/spark-app/pull/205,2024-08-14T06:39:39Z,2024-08-14T11:55:34Z,3,5,MERGED
+spark-app,Cash in wallet new buttons,https://github.com/sparkdotfi/spark-app/pull/204,2024-08-13T15:07:00Z,2024-08-14T11:33:54Z,6,8,MERGED
+spark-app,Add withdraw NST from sNST E2E tests,https://github.com/sparkdotfi/spark-app/pull/203,2024-08-13T11:55:37Z,2024-08-14T11:12:52Z,2,3,MERGED
+spark-app,Use readable error message when displaying tx error,https://github.com/sparkdotfi/spark-app/pull/202,2024-08-13T08:26:09Z,2024-08-13T10:07:07Z,2,1,MERGED
+spark-app,Add withdraw from sNST to NST,https://github.com/sparkdotfi/spark-app/pull/201,2024-08-12T21:33:28Z,2024-08-14T07:27:08Z,2,5,MERGED
+spark-app,Add eslint rule for object shorthand,https://github.com/sparkdotfi/spark-app/pull/200,2024-08-12T13:53:20Z,2024-08-12T14:29:35Z,2,1,MERGED
+spark-app,Savings withdraw action refactor,https://github.com/sparkdotfi/spark-app/pull/199,2024-08-12T06:43:20Z,2024-08-12T12:05:30Z,2,7,MERGED
+spark-app,Add deposit to savings action,https://github.com/sparkdotfi/spark-app/pull/198,2024-08-09T15:14:06Z,2024-08-09T15:27:28Z,2,1,MERGED
+spark-app,Refactor withdraw actions,https://github.com/sparkdotfi/spark-app/pull/197,2024-08-09T12:15:32Z,2024-08-09T12:42:19Z,2,2,MERGED
+spark-app,Refactor claim rewards action,https://github.com/sparkdotfi/spark-app/pull/196,2024-08-09T11:09:19Z,2024-08-09T12:19:14Z,2,1,MERGED
+spark-app,Refactor repay action,https://github.com/sparkdotfi/spark-app/pull/195,2024-08-09T10:30:02Z,2024-08-09T10:47:06Z,2,1,MERGED
+spark-app,Add e-mode action,https://github.com/sparkdotfi/spark-app/pull/194,2024-08-09T09:40:06Z,2024-08-09T09:51:20Z,2,1,MERGED
+spark-app,Refactor borrow & set collateral action,https://github.com/sparkdotfi/spark-app/pull/193,2024-08-09T05:55:29Z,2024-08-09T09:13:37Z,2,6,MERGED
+spark-app,Add hook for calling a callback after value change,https://github.com/sparkdotfi/spark-app/pull/192,2024-08-08T08:38:03Z,2024-08-08T09:54:01Z,3,2,CLOSED
+spark-app,Refactor actions to use action configs,https://github.com/sparkdotfi/spark-app/pull/191,2024-08-06T11:19:15Z,2024-08-13T08:50:25Z,6,34,MERGED
+spark-app,Remove APY row at send/withdraw savings tx overview,https://github.com/sparkdotfi/spark-app/pull/190,2024-08-06T06:48:09Z,2024-08-06T08:07:50Z,2,4,MERGED
+spark-app,Use supply pool function instead of legacy deposit,https://github.com/sparkdotfi/spark-app/pull/189,2024-08-06T06:25:32Z,2024-08-06T08:19:02Z,2,2,MERGED
+spark-app,Prevent risk acknowledgment from flashing at input changes,https://github.com/sparkdotfi/spark-app/pull/188,2024-08-06T06:02:00Z,2024-08-06T13:55:00Z,3,2,MERGED
+spark-app,Add DAI to sNST deposit,https://github.com/sparkdotfi/spark-app/pull/186,2024-08-02T15:19:51Z,2024-08-05T13:54:07Z,2,3,MERGED
+spark-app,Add NST deposit E2E tests,https://github.com/sparkdotfi/spark-app/pull/185,2024-08-02T13:24:16Z,2024-08-06T06:51:42Z,6,13,MERGED
+spark-app,Add EMode dialog E2E tests,https://github.com/sparkdotfi/spark-app/pull/184,2024-08-02T10:32:13Z,2024-08-02T12:11:55Z,2,4,MERGED
+spark-app,Add useMigrateSDAISharesToSNST hook,https://github.com/sparkdotfi/spark-app/pull/183,2024-08-01T14:35:10Z,2024-08-02T08:55:48Z,3,3,MERGED
+spark-app,Add sandbox-tx-sent event for plausible,https://github.com/sparkdotfi/spark-app/pull/182,2024-08-01T07:52:38Z,2024-08-01T08:28:42Z,3,1,MERGED
+spark-app,Add migrate from sDai to NST (withdraw & redeem) hooks,https://github.com/sparkdotfi/spark-app/pull/181,2024-08-01T06:31:23Z,2024-08-01T10:58:36Z,3,2,MERGED
+spark-app,Rewrite savings withdraw E2E tests,https://github.com/sparkdotfi/spark-app/pull/521,2024-12-21T19:37:00Z,2024-12-21T21:01:24Z,2,3,MERGED
+spark-app,Finish savings deposit E2E tests rewrite,https://github.com/sparkdotfi/spark-app/pull/520,2024-12-21T15:47:31Z,2024-12-21T15:57:22Z,2,1,MERGED
+spark-app,Rewrite borrow dialog tests,https://github.com/sparkdotfi/spark-app/pull/519,2024-12-21T10:45:07Z,2024-12-21T14:57:57Z,2,2,MERGED
+spark-app,Rewrite collateral dialog tests,https://github.com/sparkdotfi/spark-app/pull/518,2024-12-21T09:36:39Z,2024-12-21T14:36:12Z,2,1,MERGED
+spark-app,Rewrite convert stables tests,https://github.com/sparkdotfi/spark-app/pull/517,2024-12-21T08:46:41Z,2024-12-21T14:31:22Z,2,2,MERGED
+spark-app,Rewrite withdraw dialog tests,https://github.com/sparkdotfi/spark-app/pull/516,2024-12-21T08:21:06Z,2024-12-21T14:36:33Z,2,2,MERGED
+spark-app,Rewrite migrate E2E tests,https://github.com/sparkdotfi/spark-app/pull/515,2024-12-20T13:49:07Z,2024-12-20T17:43:31Z,2,2,MERGED
+spark-app,Autorelease flow for common-universal package,https://github.com/sparkdotfi/spark-app/pull/514,2024-12-20T13:48:24Z,2025-01-07T16:07:48Z,2,3,MERGED
+spark-app,Improvements to common packages,https://github.com/sparkdotfi/spark-app/pull/513,2024-12-20T09:47:33Z,2025-01-07T17:18:43Z,5,15,MERGED
+spark-app,Rewrite repay dialog tests,https://github.com/sparkdotfi/spark-app/pull/512,2024-12-20T08:32:30Z,2024-12-20T17:14:07Z,2,16,MERGED
+spark-app,Rewrite deposit to savings E2E tests,https://github.com/sparkdotfi/spark-app/pull/511,2024-12-19T17:11:28Z,2024-12-20T09:41:44Z,2,2,MERGED
+spark-app,Update links to vocs docs,https://github.com/sparkdotfi/spark-app/pull/510,2024-12-19T13:21:20Z,2024-12-19T14:55:15Z,2,1,MERGED
+spark-app,Change my earnings chart timeframes,https://github.com/sparkdotfi/spark-app/pull/509,2024-12-19T11:23:48Z,2024-12-19T13:00:23Z,2,1,MERGED
+spark-app,Rewrite claim rewards dialog tests,https://github.com/sparkdotfi/spark-app/pull/508,2024-12-19T11:04:17Z,2024-12-19T12:39:07Z,2,1,MERGED
+spark-app,Rewrite farm stake dialog tests,https://github.com/sparkdotfi/spark-app/pull/507,2024-12-19T10:55:16Z,2024-12-19T12:38:54Z,2,5,MERGED
+spark-app,Farm unstake tests,https://github.com/sparkdotfi/spark-app/pull/506,2024-12-19T08:00:19Z,2024-12-19T10:19:49Z,2,6,MERGED
+spark-app,Rewrite deposit dialog E2E tests,https://github.com/sparkdotfi/spark-app/pull/505,2024-12-18T22:07:45Z,2024-12-19T09:27:35Z,2,1,MERGED
+spark-app,Update topbar tests,https://github.com/sparkdotfi/spark-app/pull/504,2024-12-18T13:02:41Z,2024-12-19T09:48:56Z,3,2,MERGED
+spark-app,Rewrite e-Mode E2E tests,https://github.com/sparkdotfi/spark-app/pull/503,2024-12-18T12:54:09Z,2024-12-19T09:27:23Z,2,2,MERGED
+spark-app,Rewrite app layout e2e tests,https://github.com/sparkdotfi/spark-app/pull/502,2024-12-18T12:38:14Z,2024-12-18T13:53:46Z,2,1,MERGED
+spark-app,"Rewrite savings, farm and my portfolio pages tests",https://github.com/sparkdotfi/spark-app/pull/501,2024-12-18T12:31:42Z,2024-12-18T15:17:49Z,2,4,MERGED
+spark-app,Rewrite markets and market details tests,https://github.com/sparkdotfi/spark-app/pull/500,2024-12-18T11:54:49Z,2024-12-18T12:27:43Z,3,5,MERGED
+spark-app,Rewrite easy borrow e2e tests,https://github.com/sparkdotfi/spark-app/pull/499,2024-12-18T07:06:35Z,2024-12-18T11:39:50Z,4,8,MERGED
+spark-app,Remove mixpanel from staging,https://github.com/sparkdotfi/spark-app/pull/498,2024-12-17T15:34:09Z,2024-12-17T15:35:18Z,2,1,CLOSED
+spark-app,Add OKX wallet,https://github.com/sparkdotfi/spark-app/pull/497,2024-12-17T14:23:58Z,2024-12-17T14:51:25Z,2,1,MERGED
+spark-app,Savings page card adjustments,https://github.com/sparkdotfi/spark-app/pull/496,2024-12-17T07:39:16Z,2024-12-17T12:08:38Z,2,5,MERGED
+spark-app,Change SSR chart timeframe buttons,https://github.com/sparkdotfi/spark-app/pull/495,2024-12-16T16:45:00Z,2024-12-17T10:12:05Z,3,4,MERGED
+spark-app,"Add constant padding to random hexes, hashes and addresses",https://github.com/sparkdotfi/spark-app/pull/494,2024-12-16T16:04:23Z,2024-12-17T14:17:56Z,4,7,MERGED
+spark-app,Scroll to actions after hitting borrow button,https://github.com/sparkdotfi/spark-app/pull/493,2024-12-16T14:00:09Z,2024-12-17T07:32:39Z,3,3,MERGED
+spark-app,Place Base as a second chain in network selector,https://github.com/sparkdotfi/spark-app/pull/492,2024-12-16T13:15:31Z,2024-12-16T13:47:57Z,2,1,MERGED
+spark-app,Refactor e2e tests setup,https://github.com/sparkdotfi/spark-app/pull/491,2024-12-13T16:01:33Z,2025-01-07T17:07:31Z,9,33,MERGED
+spark-app,Add comment,https://github.com/sparkdotfi/spark-app/pull/490,2024-12-12T15:40:28Z,2024-12-12T15:44:16Z,2,2,CLOSED
+spark-app,Add common-testnets package,https://github.com/sparkdotfi/spark-app/pull/489,2024-12-12T11:43:20Z,2024-12-13T09:52:08Z,5,13,MERGED
+spark-app,Sort markets by supplied USD value,https://github.com/sparkdotfi/spark-app/pull/488,2024-12-11T16:33:58Z,2024-12-12T08:54:36Z,2,2,MERGED
+spark-app,Update pnpm version to 9.14.2 in IPFS release job,https://github.com/sparkdotfi/spark-app/pull/487,2024-12-11T15:00:28Z,2024-12-11T15:14:50Z,2,1,MERGED
+spark-app,Mixpanel post merge changes,https://github.com/sparkdotfi/spark-app/pull/486,2024-12-11T14:26:28Z,2024-12-11T14:46:53Z,2,2,MERGED
+spark-app,Add mixpanel integration,https://github.com/sparkdotfi/spark-app/pull/485,2024-12-10T17:41:21Z,2024-12-11T14:03:15Z,7,7,MERGED
+spark-app,MVP of mixpanel integration,https://github.com/sparkdotfi/spark-app/pull/484,2024-12-10T13:09:14Z,2024-12-11T08:51:31Z,2,2,CLOSED
+spark-app,Update typography to match design system,https://github.com/sparkdotfi/spark-app/pull/483,2024-12-10T07:30:21Z,2024-12-10T11:12:40Z,2,12,MERGED
+spark-app,Add icon colors classes,https://github.com/sparkdotfi/spark-app/pull/482,2024-12-09T16:25:48Z,2024-12-10T06:28:55Z,2,4,MERGED
+spark-app,Remove custom breakpoints,https://github.com/sparkdotfi/spark-app/pull/481,2024-12-09T13:07:42Z,2024-12-09T14:55:49Z,2,7,MERGED
+spark-app,`common-nodejs` package,https://github.com/sparkdotfi/spark-app/pull/480,2024-12-09T09:25:23Z,2024-12-11T12:56:53Z,2,28,MERGED
+spark-app,Replace more default tailwind classes,https://github.com/sparkdotfi/spark-app/pull/479,2024-12-09T07:27:10Z,2024-12-09T09:44:45Z,2,1,MERGED
+spark-app,Remove default tailwind font sizes,https://github.com/sparkdotfi/spark-app/pull/478,2024-12-07T10:18:03Z,2024-12-09T10:53:24Z,3,7,MERGED
+spark-app,Remove colors not from design system,https://github.com/sparkdotfi/spark-app/pull/477,2024-12-06T15:17:17Z,2024-12-09T13:02:59Z,2,7,MERGED
+spark-app,Delete unused files and exports,https://github.com/sparkdotfi/spark-app/pull/476,2024-12-06T11:21:29Z,2024-12-06T13:52:13Z,2,27,MERGED
+spark-app,Redesign debt ceiling progress,https://github.com/sparkdotfi/spark-app/pull/475,2024-12-05T15:15:19Z,2024-12-06T08:46:31Z,2,1,MERGED
+spark-app,Empty commit,https://github.com/sparkdotfi/spark-app/pull/474,2024-12-05T14:24:13Z,2024-12-05T14:24:57Z,2,1,CLOSED
+spark-app,Add link component,https://github.com/sparkdotfi/spark-app/pull/473,2024-12-05T14:23:48Z,2024-12-06T09:33:28Z,2,7,MERGED
+spark-app,Add loading state to network selector,https://github.com/sparkdotfi/spark-app/pull/472,2024-12-05T11:29:36Z,2024-12-05T12:48:25Z,2,4,MERGED
+spark-app,Change colors and add gradient at utilization rate chart,https://github.com/sparkdotfi/spark-app/pull/471,2024-12-05T10:51:43Z,2024-12-05T11:54:40Z,2,1,MERGED
+spark-app,Improve top bar dropdown items style,https://github.com/sparkdotfi/spark-app/pull/470,2024-12-05T10:29:48Z,2024-12-05T13:01:47Z,2,3,MERGED
+spark-app,Add readme note about enforcing pnpm version at Vercel's build,https://github.com/sparkdotfi/spark-app/pull/469,2024-12-05T07:11:05Z,2024-12-05T09:21:27Z,2,1,MERGED
+spark-app,Add network badge component,https://github.com/sparkdotfi/spark-app/pull/468,2024-12-04T13:46:40Z,2024-12-05T04:57:29Z,2,1,MERGED
+spark-app,Improve look of easy borrow success view,https://github.com/sparkdotfi/spark-app/pull/467,2024-12-04T11:48:21Z,2024-12-05T04:45:48Z,2,2,MERGED
+spark-app,Add new market details overview chart,https://github.com/sparkdotfi/spark-app/pull/466,2024-12-04T11:20:30Z,2024-12-05T08:50:59Z,3,7,MERGED
+spark-app,Improve markets table tooltips,https://github.com/sparkdotfi/spark-app/pull/465,2024-12-04T10:00:44Z,2024-12-04T20:00:47Z,2,5,MERGED
+spark-app,Reskin inactive farm info panel,https://github.com/sparkdotfi/spark-app/pull/464,2024-12-03T13:10:29Z,2024-12-03T14:10:55Z,2,2,MERGED
+spark-app,Make settings dialog open on the first click,https://github.com/sparkdotfi/spark-app/pull/463,2024-12-03T12:06:56Z,2024-12-03T12:26:17Z,2,1,MERGED
+spark-app,Update farm rewards counter card,https://github.com/sparkdotfi/spark-app/pull/462,2024-12-02T15:29:20Z,2024-12-03T13:06:34Z,4,9,MERGED
+spark-app,Skip small values in my wallet chart,https://github.com/sparkdotfi/spark-app/pull/461,2024-12-02T15:01:18Z,2024-12-03T07:47:16Z,2,2,MERGED
+spark-app,Remove and replace basics colors from tailwind config,https://github.com/sparkdotfi/spark-app/pull/460,2024-11-29T15:40:02Z,2024-12-02T15:36:47Z,2,8,MERGED
+spark-app,Improve e-mode dialog tiles and borrow table indicator,https://github.com/sparkdotfi/spark-app/pull/459,2024-11-29T12:49:44Z,2024-12-02T15:19:48Z,3,7,MERGED
+spark-app,Update lockfile and bump pnpm version,https://github.com/sparkdotfi/spark-app/pull/458,2024-11-29T10:00:46Z,2024-11-29T14:08:21Z,2,9,MERGED
+spark-app,`common-universal` package,https://github.com/sparkdotfi/spark-app/pull/457,2024-11-29T09:32:05Z,2024-12-03T13:46:01Z,3,15,MERGED
+spark-app,Add referral code to farm stake action,https://github.com/sparkdotfi/spark-app/pull/456,2024-11-28T15:23:03Z,2024-11-29T08:40:29Z,2,1,MERGED
+spark-app,Replace typography component with tailwind classes,https://github.com/sparkdotfi/spark-app/pull/455,2024-11-28T13:09:21Z,2024-12-02T13:13:39Z,2,6,MERGED
+spark-app,Remove html extension from terms of use and privacy links,https://github.com/sparkdotfi/spark-app/pull/454,2024-11-28T10:28:13Z,2024-11-28T14:26:48Z,2,1,MERGED
+spark-app,Unblock USA and remove VPN block,https://github.com/sparkdotfi/spark-app/pull/453,2024-11-22T08:09:37Z,2024-11-22T09:55:49Z,3,2,MERGED
+spark-app,Accidental PR,https://github.com/sparkdotfi/spark-app/pull/452,2024-11-22T03:02:30Z,2024-11-22T03:02:38Z,2,30,CLOSED
+spark-app,Improve meta tags,https://github.com/sparkdotfi/spark-app/pull/451,2024-11-19T03:31:10Z,2024-11-20T04:25:15Z,2,2,MERGED
+spark-app,Enable Base support in production,https://github.com/sparkdotfi/spark-app/pull/450,2024-11-18T08:36:38Z,2024-11-18T08:56:22Z,2,1,MERGED
+spark-app,Replace conic gradient in hf indicator with linear gradient,https://github.com/sparkdotfi/spark-app/pull/449,2024-11-17T07:49:52Z,2024-11-18T08:33:50Z,2,4,MERGED
+spark-app,Do not display transaction rows with label or content missing,https://github.com/sparkdotfi/spark-app/pull/448,2024-11-17T04:54:50Z,2024-11-17T09:54:53Z,2,1,MERGED
+spark-app,Update base api endpoints for savings,https://github.com/sparkdotfi/spark-app/pull/446,2024-11-14T03:52:52Z,2024-11-14T14:08:27Z,2,1,MERGED
+spark-app,Fix mobile dialog height,https://github.com/sparkdotfi/spark-app/pull/445,2024-11-12T13:12:24Z,2024-11-14T13:53:00Z,2,2,MERGED
+spark-app,Reset chromatic auto accept changes,https://github.com/sparkdotfi/spark-app/pull/444,2024-11-12T02:57:28Z,2024-11-14T03:28:43Z,2,1,MERGED
+spark-app,Add staked in farm tx overview row,https://github.com/sparkdotfi/spark-app/pull/443,2024-11-10T23:59:19Z,2024-11-11T00:45:38Z,2,2,MERGED
+spark-app,Change markets summary icons,https://github.com/sparkdotfi/spark-app/pull/442,2024-11-08T15:51:32Z,2024-11-08T21:47:28Z,2,2,MERGED
+spark-app,Add base network configuration,https://github.com/sparkdotfi/spark-app/pull/441,2024-11-08T15:33:52Z,2024-11-11T00:32:57Z,2,6,MERGED
+spark-app,Final ui updates,https://github.com/sparkdotfi/spark-app/pull/440,2024-11-08T15:19:40Z,2024-11-10T23:35:02Z,2,11,MERGED
+spark-app,Farms new icon,https://github.com/sparkdotfi/spark-app/pull/439,2024-11-08T14:11:14Z,2024-11-08T14:23:58Z,2,1,MERGED
+spark-app,add redesign top banner,https://github.com/sparkdotfi/spark-app/pull/438,2024-11-08T14:08:57Z,2024-11-08T21:47:13Z,2,4,MERGED
+spark-app,update page meta images,https://github.com/sparkdotfi/spark-app/pull/437,2024-11-08T13:34:15Z,2024-11-08T13:46:21Z,2,1,MERGED
+spark-app,My portfolio layout,https://github.com/sparkdotfi/spark-app/pull/436,2024-11-08T12:53:24Z,2024-11-08T15:38:09Z,2,4,MERGED
+spark-app,remove compact layout,https://github.com/sparkdotfi/spark-app/pull/435,2024-11-08T12:21:17Z,2024-11-08T13:44:32Z,3,1,MERGED
+spark-app,add new tabs,https://github.com/sparkdotfi/spark-app/pull/434,2024-11-08T12:17:22Z,2024-11-08T13:43:22Z,2,2,MERGED
+spark-app,New connect wallet cta,https://github.com/sparkdotfi/spark-app/pull/433,2024-11-08T10:50:09Z,2024-11-08T14:11:25Z,2,2,MERGED
+spark-app,Add my wallet chart,https://github.com/sparkdotfi/spark-app/pull/432,2024-11-08T00:06:34Z,2024-11-08T12:53:52Z,2,3,MERGED
+spark-app,Add Mobile Topbar UI,https://github.com/sparkdotfi/spark-app/pull/431,2024-11-07T22:48:03Z,2024-11-08T10:54:36Z,2,14,MERGED
+spark-app,Replace panels with new component,https://github.com/sparkdotfi/spark-app/pull/430,2024-11-07T21:46:41Z,2024-11-08T09:26:18Z,2,6,MERGED
+spark-app,Redesign and refactor success views,https://github.com/sparkdotfi/spark-app/pull/429,2024-11-07T18:46:57Z,2024-11-07T21:59:02Z,2,3,MERGED
+spark-app,Adjust easy borrow HF panel layout,https://github.com/sparkdotfi/spark-app/pull/428,2024-11-07T15:43:06Z,2024-11-07T15:58:43Z,2,1,MERGED
+spark-app,Replace buttons across the app,https://github.com/sparkdotfi/spark-app/pull/427,2024-11-07T15:14:48Z,2024-11-07T16:18:59Z,2,2,MERGED
+spark-app,Update easy borrow side panel,https://github.com/sparkdotfi/spark-app/pull/426,2024-11-07T14:46:04Z,2024-11-07T21:49:13Z,2,3,MERGED
+spark-app,Update link component,https://github.com/sparkdotfi/spark-app/pull/425,2024-11-07T12:45:27Z,2024-11-07T17:19:11Z,3,3,MERGED
+spark-app,Update address input styles,https://github.com/sparkdotfi/spark-app/pull/424,2024-11-07T11:41:52Z,2024-11-07T17:18:25Z,3,4,MERGED
+spark-app,update savings page,https://github.com/sparkdotfi/spark-app/pull/423,2024-11-06T14:47:22Z,2024-11-08T10:26:52Z,2,13,CLOSED
+spark-app,Update savings welcome dialog,https://github.com/sparkdotfi/spark-app/pull/422,2024-11-06T14:34:25Z,2024-11-07T09:17:41Z,3,2,MERGED
+spark-app,Add easy borrow form,https://github.com/sparkdotfi/spark-app/pull/421,2024-11-06T11:05:44Z,2024-11-07T10:25:35Z,5,7,MERGED
+spark-app,Adjust dialog container style,https://github.com/sparkdotfi/spark-app/pull/420,2024-11-05T20:09:40Z,2024-11-06T14:05:55Z,2,11,MERGED
+spark-app,update AppLayout,https://github.com/sparkdotfi/spark-app/pull/419,2024-11-05T17:10:15Z,2024-11-07T09:06:09Z,6,14,MERGED
+spark-app,Update dialog switch panels,https://github.com/sparkdotfi/spark-app/pull/418,2024-11-05T16:24:26Z,2024-11-05T20:07:19Z,2,2,MERGED
+spark-app,Update actions panel styles,https://github.com/sparkdotfi/spark-app/pull/417,2024-11-05T11:28:07Z,2024-11-05T16:50:30Z,4,11,MERGED
+spark-app,Add savings opportunity connected and guest modes,https://github.com/sparkdotfi/spark-app/pull/416,2024-11-05T10:47:15Z,2024-11-05T14:45:22Z,2,6,MERGED
+spark-app,assemble Topbar,https://github.com/sparkdotfi/spark-app/pull/415,2024-11-04T18:20:58Z,2024-11-05T13:53:34Z,3,3,MERGED
+spark-app,Use new inputs in dialogs,https://github.com/sparkdotfi/spark-app/pull/414,2024-11-04T15:36:47Z,2024-11-05T15:40:55Z,3,5,MERGED
+spark-app,adjust old nav components,https://github.com/sparkdotfi/spark-app/pull/413,2024-11-04T12:19:29Z,2024-11-05T12:30:55Z,6,16,MERGED
+spark-app,Update savings token card styles,https://github.com/sparkdotfi/spark-app/pull/412,2024-11-03T20:42:10Z,2024-11-04T12:56:38Z,2,3,MERGED
+spark-app,Redesign transaction overview,https://github.com/sparkdotfi/spark-app/pull/411,2024-11-03T19:03:15Z,2024-11-05T09:32:52Z,2,17,MERGED
+spark-app,add TopbarMenu,https://github.com/sparkdotfi/spark-app/pull/410,2024-11-03T15:44:37Z,2024-11-04T12:17:07Z,2,10,MERGED
+spark-app,Restyle upgrade savings dai banner,https://github.com/sparkdotfi/spark-app/pull/409,2024-11-03T13:26:37Z,2024-11-03T19:40:30Z,3,2,MERGED
+spark-app,Add base panel component,https://github.com/sparkdotfi/spark-app/pull/408,2024-11-03T10:20:00Z,2024-11-03T17:54:01Z,2,1,MERGED
+spark-app,Extend x button component so it can be used in other places,https://github.com/sparkdotfi/spark-app/pull/407,2024-11-03T10:19:33Z,2024-11-03T16:30:45Z,2,1,MERGED
+spark-app,Add remove button to input,https://github.com/sparkdotfi/spark-app/pull/406,2024-11-02T22:21:53Z,2024-11-03T16:40:35Z,2,3,MERGED
+spark-app,Add badge component,https://github.com/sparkdotfi/spark-app/pull/405,2024-11-01T18:51:25Z,2024-11-01T20:53:21Z,2,3,MERGED
+spark-app,add TopbarWallet,https://github.com/sparkdotfi/spark-app/pull/404,2024-11-01T18:26:08Z,2024-11-04T09:45:20Z,12,25,MERGED
+spark-app,Add setSparkReward function for E2E tests,https://github.com/sparkdotfi/spark-app/pull/656,2025-02-24T15:24:51Z,2025-02-25T09:46:40Z,5,2,MERGED
+spark-app,Add setNextBlockBaseFee to anvil client,https://github.com/sparkdotfi/spark-app/pull/655,2025-02-24T12:07:11Z,2025-02-24T15:43:37Z,4,8,MERGED
+spark-app,Add hook to fetch ongoing campaigns,https://github.com/sparkdotfi/spark-app/pull/654,2025-02-24T07:21:29Z,2025-02-24T14:33:39Z,3,3,MERGED
+spark-app,Add useActiveRewards hook,https://github.com/sparkdotfi/spark-app/pull/653,2025-02-21T14:49:02Z,2025-02-24T08:38:47Z,2,2,MERGED
+spark-app,Show savings liquidity stat only for usdc,https://github.com/sparkdotfi/spark-app/pull/652,2025-02-21T05:21:57Z,2025-02-21T11:02:48Z,3,2,MERGED
+spark-app,Add earn rewards panel,https://github.com/sparkdotfi/spark-app/pull/651,2025-02-21T04:41:20Z,2025-02-21T10:40:06Z,4,4,MERGED
+spark-app,Add ClaimSparkRewards dialog view,https://github.com/sparkdotfi/spark-app/pull/650,2025-02-20T20:28:13Z,2025-02-21T09:39:26Z,2,1,MERGED
+spark-app,Add claim action,https://github.com/sparkdotfi/spark-app/pull/649,2025-02-20T13:57:55Z,2025-02-21T09:29:49Z,4,2,MERGED
+spark-app,Add SparkRewards contract,https://github.com/sparkdotfi/spark-app/pull/648,2025-02-20T11:23:57Z,2025-02-20T14:50:42Z,2,1,MERGED
+spark-app,Put usds account first on base,https://github.com/sparkdotfi/spark-app/pull/647,2025-02-20T06:22:30Z,2025-02-20T10:22:34Z,2,2,MERGED
+spark-app,Add guest mode side panel,https://github.com/sparkdotfi/spark-app/pull/646,2025-02-20T06:19:53Z,2025-02-20T11:16:06Z,3,2,MERGED
+spark-app,Add claim all panel,https://github.com/sparkdotfi/spark-app/pull/645,2025-02-19T16:19:56Z,2025-02-20T12:23:31Z,5,5,MERGED
+spark-app,Add active rewards table,https://github.com/sparkdotfi/spark-app/pull/644,2025-02-19T07:54:50Z,2025-02-19T14:04:38Z,2,9,MERGED
+spark-app,Display liquidity tooltip at general stats bar only for USDC savings,https://github.com/sparkdotfi/spark-app/pull/643,2025-02-19T02:41:52Z,2025-02-19T13:57:27Z,2,1,MERGED
+spark-app,Update viewports to match commonely used devices,https://github.com/sparkdotfi/spark-app/pull/642,2025-02-18T05:22:21Z,2025-02-18T13:10:07Z,2,1,MERGED
+spark-app,Update Ethereum Mainnet logo,https://github.com/sparkdotfi/spark-app/pull/641,2025-02-18T05:02:13Z,2025-02-18T11:11:53Z,2,1,MERGED
+spark-app,Update markets page summary tiles,https://github.com/sparkdotfi/spark-app/pull/640,2025-02-18T04:48:52Z,2025-02-18T11:03:39Z,2,2,MERGED
+spark-app,Update repo link,https://github.com/sparkdotfi/spark-app/pull/639,2025-02-17T22:34:39Z,2025-02-18T08:33:10Z,2,2,MERGED
+spark-app,Make borrow liquidity renewable instead of borrow cap,https://github.com/sparkdotfi/spark-app/pull/638,2025-02-17T17:07:54Z,2025-02-18T15:44:57Z,3,3,MERGED
+spark-app,Use curve cardinal for rewards chart in farms,https://github.com/sparkdotfi/spark-app/pull/637,2025-02-17T10:38:55Z,2025-02-17T14:13:28Z,2,2,MERGED
+spark-app,Auto switch to injected chain,https://github.com/sparkdotfi/spark-app/pull/636,2025-02-17T10:11:04Z,2025-02-17T14:04:12Z,2,1,MERGED
+spark-app,Add e2e tests for USDC vault validation,https://github.com/sparkdotfi/spark-app/pull/635,2025-02-14T15:39:44Z,2025-02-17T08:11:02Z,2,2,MERGED
+spark-app,Rename a tokens to sp tokens in UI,https://github.com/sparkdotfi/spark-app/pull/634,2025-02-14T15:07:33Z,2025-02-17T08:49:07Z,2,5,MERGED
+spark-app,Add `setCode` to testnet clients,https://github.com/sparkdotfi/spark-app/pull/633,2025-02-14T14:54:44Z,2025-02-14T15:18:03Z,2,2,MERGED
+spark-app,Enable topbar on prod,https://github.com/sparkdotfi/spark-app/pull/632,2025-02-14T13:17:32Z,2025-02-14T13:34:58Z,2,4,MERGED
+spark-app,Add tooltip next to savings liquidity number,https://github.com/sparkdotfi/spark-app/pull/631,2025-02-14T11:45:42Z,2025-02-14T12:44:07Z,2,3,MERGED
+spark-app,Add increase gas limit for sUSDC interactions on mainnet,https://github.com/sparkdotfi/spark-app/pull/630,2025-02-14T11:05:22Z,2025-02-14T12:15:23Z,2,1,MERGED
+spark-app,Change wording order related to naming savings accounts,https://github.com/sparkdotfi/spark-app/pull/629,2025-02-14T10:20:06Z,2025-02-14T12:24:04Z,3,1,MERGED
+spark-app,Do not show sandbox button when in sandbox,https://github.com/sparkdotfi/spark-app/pull/628,2025-02-14T09:17:20Z,2025-02-14T11:50:16Z,2,1,MERGED
+spark-app,Reduce height of savings main panel,https://github.com/sparkdotfi/spark-app/pull/627,2025-02-14T06:07:34Z,2025-02-14T10:32:01Z,2,1,MERGED
+spark-app,Polyfill buffer to support mobile coinbase wallet connection,https://github.com/sparkdotfi/spark-app/pull/626,2025-02-13T15:34:59Z,2025-02-13T22:22:51Z,3,5,MERGED
+spark-app,Add psm3 balances validation for convert stables dialog,https://github.com/sparkdotfi/spark-app/pull/625,2025-02-13T13:53:56Z,2025-02-13T16:04:51Z,2,3,MERGED
+spark-app,Remove savings welcome dialog,https://github.com/sparkdotfi/spark-app/pull/624,2025-02-13T12:11:23Z,2025-02-13T13:13:10Z,2,2,MERGED
+spark-app,Align network available features text to left,https://github.com/sparkdotfi/spark-app/pull/623,2025-02-13T11:57:29Z,2025-02-13T12:40:17Z,2,1,MERGED
+spark-app,Disable convert dialog in guest mode,https://github.com/sparkdotfi/spark-app/pull/622,2025-02-13T11:50:45Z,2025-02-13T12:46:57Z,2,2,MERGED
+spark-app,Display dai legacy account banner,https://github.com/sparkdotfi/spark-app/pull/621,2025-02-13T07:55:01Z,2025-02-13T11:39:22Z,2,2,MERGED
+spark-app,Update description and apy tooltips,https://github.com/sparkdotfi/spark-app/pull/620,2025-02-13T07:22:37Z,2025-02-13T11:23:19Z,3,4,MERGED
+spark-app,Add external link to general stats bar,https://github.com/sparkdotfi/spark-app/pull/619,2025-02-13T03:50:50Z,2025-02-13T10:46:57Z,3,1,MERGED
+spark-app,Fetch only necessary tokens based on used feature,https://github.com/sparkdotfi/spark-app/pull/618,2025-02-12T22:44:29Z,2025-02-13T11:56:11Z,2,1,MERGED
+spark-app,Add arbitrum savings withdraw e2e tests,https://github.com/sparkdotfi/spark-app/pull/617,2025-02-12T13:33:41Z,2025-02-13T01:14:30Z,2,1,MERGED
+spark-app,Arbitrum convert dialog e2e tests,https://github.com/sparkdotfi/spark-app/pull/616,2025-02-12T07:18:40Z,2025-02-12T13:15:27Z,2,2,MERGED
+spark-app,Add arbitrum savings deposit tests,https://github.com/sparkdotfi/spark-app/pull/615,2025-02-12T06:24:52Z,2025-02-12T13:08:31Z,3,3,MERGED
+spark-app,Introduce automatic use as collateral check,https://github.com/sparkdotfi/spark-app/pull/614,2025-02-11T16:42:52Z,2025-02-12T08:48:18Z,2,1,MERGED
+spark-app,Add savings on arbitrum,https://github.com/sparkdotfi/spark-app/pull/613,2025-02-11T14:11:00Z,2025-02-12T04:38:16Z,2,8,MERGED
+spark-app,Update wagmi config with arbitrum contracts,https://github.com/sparkdotfi/spark-app/pull/612,2025-02-11T12:43:17Z,2025-02-12T04:16:05Z,2,1,MERGED
+spark-app,Improve suspense handling in withdraw dialog actions,https://github.com/sparkdotfi/spark-app/pull/611,2025-02-11T11:16:29Z,2025-02-12T04:08:44Z,2,1,MERGED
+spark-app,Bump wagmi to v2.14.11,https://github.com/sparkdotfi/spark-app/pull/610,2025-02-10T13:48:41Z,2025-02-10T15:04:57Z,3,1,MERGED
+spark-app,Display savings rate chart related to selected account,https://github.com/sparkdotfi/spark-app/pull/609,2025-02-10T11:17:36Z,2025-02-10T14:46:51Z,2,1,MERGED
+spark-app,Add usdc account feature flag,https://github.com/sparkdotfi/spark-app/pull/608,2025-02-10T07:40:33Z,2025-02-10T13:13:09Z,3,3,MERGED
+spark-app,Disable sandbox button when in sandbox,https://github.com/sparkdotfi/spark-app/pull/607,2025-02-10T07:16:10Z,2025-02-10T11:27:55Z,2,1,MERGED
+spark-app,Simulate transactions on pending block,https://github.com/sparkdotfi/spark-app/pull/606,2025-02-08T23:33:34Z,2025-02-10T14:00:54Z,3,5,MERGED
+spark-app,Invalidate converter query on withdraw dialog open,https://github.com/sparkdotfi/spark-app/pull/605,2025-02-07T13:23:46Z,2025-02-10T08:59:45Z,2,4,CLOSED
+spark-app,Split my earnings charts for different accounts,https://github.com/sparkdotfi/spark-app/pull/604,2025-02-07T12:28:46Z,2025-02-07T13:14:42Z,3,2,MERGED
+spark-app,Simplify chart apy label,https://github.com/sparkdotfi/spark-app/pull/603,2025-02-07T04:51:12Z,2025-02-07T05:21:40Z,2,2,MERGED
+spark-app,Fix percentage assertion when aggregating stats for markets page,https://github.com/sparkdotfi/spark-app/pull/602,2025-02-07T04:09:57Z,2025-02-07T12:27:05Z,2,1,MERGED
+spark-app,Use timestamp from blockchain in savings converters,https://github.com/sparkdotfi/spark-app/pull/601,2025-02-06T23:14:00Z,2025-02-07T04:32:50Z,2,1,MERGED
+spark-app,Add gnosis and arbitrum anvil support,https://github.com/sparkdotfi/spark-app/pull/600,2025-02-06T17:30:51Z,2025-02-07T07:57:40Z,2,3,MERGED
+spark-app,Add support for readonly arrays in env stringOf,https://github.com/sparkdotfi/spark-app/pull/599,2025-02-06T14:16:58Z,2025-02-07T07:51:21Z,2,2,MERGED
+spark-app,Increase step number in charts,https://github.com/sparkdotfi/spark-app/pull/598,2025-02-06T13:37:54Z,2025-02-06T23:11:40Z,2,1,MERGED
+spark-app,Fix solid fetch to finish after 5 retries,https://github.com/sparkdotfi/spark-app/pull/597,2025-02-06T13:14:45Z,2025-02-06T13:24:43Z,3,1,MERGED
+spark-app,Add description for savings accounts,https://github.com/sparkdotfi/spark-app/pull/596,2025-02-06T12:28:08Z,2025-02-06T13:16:43Z,3,4,MERGED
+spark-app,Update oracles with RedStone,https://github.com/sparkdotfi/spark-app/pull/595,2025-02-06T07:11:10Z,2025-02-07T02:45:23Z,2,3,MERGED
+spark-app,Display apy data when user has funds deposited,https://github.com/sparkdotfi/spark-app/pull/594,2025-02-06T06:11:51Z,2025-02-06T11:14:10Z,3,3,MERGED
+spark-app,Fill general stats bar with api data,https://github.com/sparkdotfi/spark-app/pull/593,2025-02-06T05:45:45Z,2025-02-06T10:36:59Z,4,4,MERGED
+spark-app,Add savings deposit/withdraw validation of PSM3 balance,https://github.com/sparkdotfi/spark-app/pull/592,2025-02-05T21:22:42Z,2025-02-06T11:22:12Z,2,3,MERGED
+spark-app,Add savings usdc account related tests,https://github.com/sparkdotfi/spark-app/pull/591,2025-02-05T05:32:09Z,2025-02-06T09:22:22Z,6,8,MERGED
+spark-app,Add new savings accounts banner,https://github.com/sparkdotfi/spark-app/pull/590,2025-02-04T10:14:58Z,2025-02-05T10:18:46Z,3,5,MERGED
+spark-app,Savings e2e tests update,https://github.com/sparkdotfi/spark-app/pull/589,2025-02-04T07:43:30Z,2025-02-04T11:16:11Z,2,6,MERGED
+spark-app,Update savings page skeleton,https://github.com/sparkdotfi/spark-app/pull/588,2025-02-03T16:13:05Z,2025-02-04T08:07:56Z,2,1,MERGED
+spark-app,Common packages improvements 03.02,https://github.com/sparkdotfi/spark-app/pull/587,2025-02-03T13:58:39Z,2025-02-04T10:31:41Z,3,5,MERGED
+spark-app,Add configurable supported stablecoins to savings accounts,https://github.com/sparkdotfi/spark-app/pull/586,2025-02-03T11:55:13Z,2025-02-03T14:00:22Z,7,4,MERGED
+spark-app,Fix chart width in savings view layout,https://github.com/sparkdotfi/spark-app/pull/585,2025-02-03T10:27:55Z,2025-02-03T12:23:57Z,2,1,MERGED
+spark-app,Display general stats bar,https://github.com/sparkdotfi/spark-app/pull/584,2025-02-03T07:40:59Z,2025-02-03T09:59:54Z,2,2,MERGED
+spark-app,Update stories,https://github.com/sparkdotfi/spark-app/pull/583,2025-01-31T12:49:36Z,2025-01-31T14:53:51Z,1,4,MERGED
+spark-app,Move `viem` as peer dependency for testnet package,https://github.com/sparkdotfi/spark-app/pull/582,2025-01-31T10:39:52Z,2025-01-31T10:48:07Z,2,1,MERGED
+spark-app,Savings account navigation,https://github.com/sparkdotfi/spark-app/pull/581,2025-01-31T08:02:52Z,2025-01-31T10:07:00Z,1,4,MERGED
+spark-app,Common packages improvements,https://github.com/sparkdotfi/spark-app/pull/580,2025-01-30T15:48:05Z,2025-01-31T09:24:23Z,3,9,MERGED
+spark-app,Add savings token as a withdraw dialog parameter,https://github.com/sparkdotfi/spark-app/pull/579,2025-01-30T06:11:32Z,2025-01-30T09:35:09Z,2,1,MERGED
+spark-app,Introduce saving accounts feature,https://github.com/sparkdotfi/spark-app/pull/578,2025-01-29T18:34:16Z,2025-02-10T15:27:47Z,2,33,MERGED
+spark-app,Make useSavingsChartsInfoQuery interface simpler,https://github.com/sparkdotfi/spark-app/pull/577,2025-01-29T15:09:11Z,2025-01-30T09:17:57Z,2,1,MERGED
+spark-app,Add parametrized savings account view,https://github.com/sparkdotfi/spark-app/pull/576,2025-01-29T09:54:50Z,2025-01-30T09:31:19Z,4,5,MERGED
+spark-app,Add component to display savings general stats,https://github.com/sparkdotfi/spark-app/pull/575,2025-01-28T11:17:02Z,2025-01-29T14:36:24Z,2,1,MERGED
+spark-app,Add fallback clipboard mechanism that will work in iframe environment,https://github.com/sparkdotfi/spark-app/pull/574,2025-01-28T09:43:48Z,2025-01-29T11:37:07Z,2,1,MERGED
+spark-app,Add more sentry error filters,https://github.com/sparkdotfi/spark-app/pull/573,2025-01-27T06:35:28Z,2025-01-29T11:28:32Z,2,2,MERGED
+spark-app,Use one chart component for multiple savings,https://github.com/sparkdotfi/spark-app/pull/572,2025-01-27T05:19:30Z,2025-01-29T14:29:31Z,3,2,MERGED
+spark-app,Make formatters methods protected not private,https://github.com/sparkdotfi/spark-app/pull/571,2025-01-25T12:12:35Z,2025-01-25T14:41:03Z,2,1,MERGED
+spark-app,Bring back E2E tests sharding,https://github.com/sparkdotfi/spark-app/pull/570,2025-01-24T14:32:56Z,2025-01-29T12:18:30Z,3,1,MERGED
+spark-app,Add USDC Savings config to mainnet and base,https://github.com/sparkdotfi/spark-app/pull/569,2025-01-24T14:10:00Z,2025-01-29T08:34:59Z,3,2,MERGED
+spark-app,Add support for more arguments in min function,https://github.com/sparkdotfi/spark-app/pull/568,2025-01-24T12:07:05Z,2025-01-24T13:12:09Z,4,4,MERGED
+spark-app,Add more unix time constants,https://github.com/sparkdotfi/spark-app/pull/567,2025-01-24T10:56:39Z,2025-01-24T12:28:12Z,4,5,MERGED
+spark-app,Capture errors at write hooks instead of query cache level,https://github.com/sparkdotfi/spark-app/pull/566,2025-01-24T10:41:30Z,2025-01-24T10:49:59Z,2,1,MERGED
+spark-app,Add usdc account withdraw and send actions,https://github.com/sparkdotfi/spark-app/pull/565,2025-01-24T07:24:42Z,2025-01-24T10:25:26Z,3,1,MERGED
+spark-app,Add deposit to sUSDC actions,https://github.com/sparkdotfi/spark-app/pull/564,2025-01-23T21:06:04Z,2025-01-24T10:14:42Z,4,2,MERGED
+spark-app,Multiple improvements to common packages,https://github.com/sparkdotfi/spark-app/pull/563,2025-01-23T13:51:48Z,2025-01-23T15:45:14Z,2,7,MERGED
+spark-app,Add updated sdai upgrade banner,https://github.com/sparkdotfi/spark-app/pull/562,2025-01-23T12:22:50Z,2025-01-23T14:31:20Z,2,1,MERGED
+spark-app,Use alchemy RPC for Gnosis and Base,https://github.com/sparkdotfi/spark-app/pull/561,2025-01-23T11:27:15Z,2025-01-23T11:38:33Z,2,1,MERGED
+spark-app,Fix sUSDS approve amount when withdrawing from Savings on Base,https://github.com/sparkdotfi/spark-app/pull/560,2025-01-23T10:54:33Z,2025-01-23T11:07:33Z,2,2,MERGED
+spark-app,Implement savings accounts navigation component,https://github.com/sparkdotfi/spark-app/pull/559,2025-01-23T07:13:09Z,2025-01-23T13:18:37Z,4,3,MERGED
+spark-app,Fix rounding error on base psm3,https://github.com/sparkdotfi/spark-app/pull/558,2025-01-22T16:08:49Z,2025-01-23T09:10:56Z,4,6,MERGED
+spark-app,Report query and mutation errors to sentry,https://github.com/sparkdotfi/spark-app/pull/557,2025-01-22T13:55:18Z,2025-01-23T10:27:55Z,3,3,MERGED
+spark-app,Add connected main panel group to savings,https://github.com/sparkdotfi/spark-app/pull/556,2025-01-22T13:36:04Z,2025-01-23T13:46:48Z,4,3,MERGED
+spark-app,Add deposit call to action component,https://github.com/sparkdotfi/spark-app/pull/555,2025-01-22T07:55:07Z,2025-01-22T11:54:10Z,4,2,MERGED
+spark-app,Export missing logger stuff,https://github.com/sparkdotfi/spark-app/pull/554,2025-01-21T21:53:36Z,2025-01-22T09:20:48Z,2,1,MERGED
+spark-app,Remove domain filtering from sentry index config,https://github.com/sparkdotfi/spark-app/pull/553,2025-01-21T11:29:28Z,2025-01-21T11:42:53Z,2,1,MERGED
+spark-app,Update sentry to use new project,https://github.com/sparkdotfi/spark-app/pull/552,2025-01-20T11:40:53Z,2025-01-20T13:33:45Z,2,1,MERGED
+spark-app,Add E2E tests for batching,https://github.com/sparkdotfi/spark-app/pull/551,2025-01-19T18:26:55Z,2025-01-20T14:11:48Z,3,4,MERGED
+spark-app,Fix common packages package.json,https://github.com/sparkdotfi/spark-app/pull/550,2025-01-19T14:30:36Z,2025-01-20T14:38:01Z,4,4,MERGED
+spark-app,Add no unnecessary await rule,https://github.com/sparkdotfi/spark-app/pull/549,2025-01-17T14:32:48Z,2025-01-19T19:38:18Z,2,1,MERGED
+spark-app,Assemble transaction batching functionality,https://github.com/sparkdotfi/spark-app/pull/548,2025-01-17T13:37:41Z,2025-01-20T13:57:33Z,2,10,MERGED
+spark-app,Actions master hook,https://github.com/sparkdotfi/spark-app/pull/547,2025-01-16T12:45:38Z,2025-01-20T13:45:45Z,4,13,MERGED
+spark-app,Introduce alchemy key from envs,https://github.com/sparkdotfi/spark-app/pull/546,2025-01-16T09:24:27Z,2025-01-16T09:34:03Z,2,1,MERGED
+spark-app,Update alchemy api keys,https://github.com/sparkdotfi/spark-app/pull/545,2025-01-16T06:28:37Z,2025-01-16T07:11:31Z,2,1,CLOSED
+spark-app,Add hook for getting batch action handler,https://github.com/sparkdotfi/spark-app/pull/544,2025-01-15T14:40:13Z,2025-01-17T10:24:15Z,3,5,MERGED
+spark-app,Add app manifest and required icons,https://github.com/sparkdotfi/spark-app/pull/543,2025-01-15T06:53:09Z,2025-01-15T11:22:56Z,2,1,MERGED
+spark-app,Add hook for writing batched transactions,https://github.com/sparkdotfi/spark-app/pull/542,2025-01-14T13:37:45Z,2025-01-15T12:17:24Z,5,9,MERGED
+spark-app,Rename packages,https://github.com/sparkdotfi/spark-app/pull/541,2025-01-14T12:23:51Z,2025-01-14T13:38:45Z,2,1,MERGED
+spark-app,Fix toString on BigNumber using scientific notation,https://github.com/sparkdotfi/spark-app/pull/540,2025-01-14T09:09:39Z,2025-01-14T11:36:12Z,4,3,MERGED
+spark-app,Be less strict when filtering errors with third party stack frames,https://github.com/sparkdotfi/spark-app/pull/539,2025-01-14T08:51:01Z,2025-01-14T09:02:36Z,2,1,MERGED
+spark-app,Add ONE_MINUTE const to UnixTime,https://github.com/sparkdotfi/spark-app/pull/538,2025-01-14T08:45:14Z,2025-01-14T08:53:26Z,2,1,MERGED
+spark-app,Bump viem and wagmi,https://github.com/sparkdotfi/spark-app/pull/537,2025-01-13T14:47:10Z,2025-01-13T14:56:49Z,3,1,MERGED
+spark-app,Increase sentry usefulness,https://github.com/sparkdotfi/spark-app/pull/536,2025-01-13T07:03:50Z,2025-01-14T08:39:05Z,3,3,MERGED
+spark-app,Fix promise logging,https://github.com/sparkdotfi/spark-app/pull/535,2025-01-11T11:47:54Z,2025-01-13T08:00:06Z,3,1,MERGED
+spark-app,Improve percentage type,https://github.com/sparkdotfi/spark-app/pull/534,2025-01-10T10:27:54Z,2025-01-10T13:17:16Z,2,1,MERGED
+spark-app,Improve stories viewport handling and reduce flakiness,https://github.com/sparkdotfi/spark-app/pull/533,2025-01-10T09:50:18Z,2025-01-13T14:29:18Z,3,4,MERGED
+spark-app,Add fromBips to percentage class,https://github.com/sparkdotfi/spark-app/pull/532,2025-01-08T18:44:17Z,2025-01-09T09:29:34Z,3,2,MERGED
+spark-app,Improve adding .js extensions in commons,https://github.com/sparkdotfi/spark-app/pull/531,2025-01-08T13:47:06Z,2025-01-08T15:28:46Z,3,4,MERGED
+spark-app,Smart wallet batching spike,https://github.com/sparkdotfi/spark-app/pull/530,2025-01-08T12:46:20Z,2025-01-15T14:48:01Z,3,2,CLOSED
+spark-app,Make sure to fix workspace versions while deploying packages,https://github.com/sparkdotfi/spark-app/pull/529,2025-01-08T11:20:47Z,2025-01-08T16:15:37Z,2,3,MERGED
+spark-app,Use numbers types from common-universal,https://github.com/sparkdotfi/spark-app/pull/528,2025-01-08T09:51:52Z,2025-01-08T14:27:15Z,4,2,MERGED
+spark-app,Bump biome,https://github.com/sparkdotfi/spark-app/pull/527,2025-01-08T09:01:39Z,2025-01-08T10:52:31Z,5,3,MERGED
+spark-app,Make markets TVL extract proportioned available DAI from D3M,https://github.com/sparkdotfi/spark-app/pull/526,2025-01-07T17:41:54Z,2025-01-08T08:57:54Z,3,3,MERGED
+spark-app,Fix package versions to 0.0.1 ,https://github.com/sparkdotfi/spark-app/pull/525,2025-01-07T16:25:52Z,2025-01-08T09:15:00Z,4,6,MERGED
+spark-app,Add declarationMap to common packages,https://github.com/sparkdotfi/spark-app/pull/524,2025-01-07T14:42:56Z,2025-01-07T16:20:14Z,2,3,MERGED
+spark-app,Set form isMaxSelected flag to false after switching asset,https://github.com/sparkdotfi/spark-app/pull/523,2025-01-07T13:49:07Z,2025-01-07T16:14:48Z,2,2,MERGED
+spark-app,Replace assert functions to ones from shared package,https://github.com/sparkdotfi/spark-app/pull/522,2025-01-07T12:53:58Z,2025-01-07T14:58:23Z,2,1,MERGED

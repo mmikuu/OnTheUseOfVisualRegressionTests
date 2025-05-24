@@ -1,0 +1,877 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+smarthr-design-system,netlifyでsharpライブラリのエラーが出る問題に対応,https://github.com/kufu/smarthr-design-system/pull/94,2022-05-31T05:02:49Z,2022-05-31T08:05:21Z,2,1,MERGED
+smarthr-design-system,Airtableコンテンツ用のコンポーネントをリファクタリング,https://github.com/kufu/smarthr-design-system/pull/93,2022-05-30T07:26:36Z,2022-06-03T05:56:32Z,4,2,MERGED
+smarthr-design-system,fix: :speech_balloon:「使用」と「利用」の使い分け、「使用します」→「使います」に,https://github.com/kufu/smarthr-design-system/pull/92,2022-05-30T03:02:20Z,2022-05-30T07:01:45Z,8,11,MERGED
+smarthr-design-system,イラストページの、不要なリンクを削除,https://github.com/kufu/smarthr-design-system/pull/87,2022-05-27T07:36:45Z,2022-06-01T04:07:23Z,1,2,MERGED
+smarthr-design-system,左ナビゲーションに子ページの開閉機能を追加,https://github.com/kufu/smarthr-design-system/pull/86,2022-05-27T02:47:29Z,2022-05-30T05:33:06Z,5,7,MERGED
+smarthr-design-system,mdxに埋め込むCodeBlockのコードを別のtsxファイルとして分離する,https://github.com/kufu/smarthr-design-system/pull/85,2022-05-26T01:49:54Z,2022-06-08T00:49:03Z,8,2,MERGED
+smarthr-design-system,Airtableの`order`順にソートして表示する,https://github.com/kufu/smarthr-design-system/pull/84,2022-05-26T01:48:48Z,2022-05-30T02:11:54Z,7,3,MERGED
+smarthr-design-system,ブレイクポイントと余白の調整,https://github.com/kufu/smarthr-design-system/pull/83,2022-05-24T06:33:56Z,2022-05-25T05:46:51Z,1,3,MERGED
+smarthr-design-system,Gatsbyをバージョンアップし、configまわりをTS化,https://github.com/kufu/smarthr-design-system/pull/82,2022-05-24T01:21:07Z,2022-05-24T03:56:29Z,1,1,MERGED
+smarthr-design-system,✨: コンポーネントに ThemeProvider を追加,https://github.com/kufu/smarthr-design-system/pull/81,2022-05-23T20:32:36Z,2023-11-27T08:08:58Z,2,1,CLOSED
+smarthr-design-system,Feature: ヘルプセンターに操作手順ガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/80,2022-05-23T04:39:08Z,2022-05-23T10:12:55Z,3,4,MERGED
+smarthr-design-system,📝: ドロップダウンボタンの説明文を修正,https://github.com/kufu/smarthr-design-system/pull/79,2022-05-23T00:14:26Z,2022-05-23T21:55:21Z,1,1,MERGED
+smarthr-design-system,Feature:コンテンツにUIテキストを追加,https://github.com/kufu/smarthr-design-system/pull/72,2022-05-20T07:01:30Z,2022-05-23T10:02:10Z,14,8,MERGED
+smarthr-design-system,Fix/content width,https://github.com/kufu/smarthr-design-system/pull/71,2022-05-19T02:11:02Z,2022-05-23T07:29:49Z,5,2,MERGED
+smarthr-design-system,コンテンツ運用｜ライティングガイドラインへのリンクを追加,https://github.com/kufu/smarthr-design-system/pull/70,2022-05-19T01:21:29Z,2022-05-20T01:42:40Z,4,4,MERGED
+smarthr-design-system,ローカルの VS Code 環境で mdx に対しても eslint がかかるように設定,https://github.com/kufu/smarthr-design-system/pull/69,2022-05-18T08:59:06Z,2022-05-19T04:18:04Z,4,2,MERGED
+smarthr-design-system,SmartHRスクールのキャプチャの差し替え,https://github.com/kufu/smarthr-design-system/pull/68,2022-05-18T03:07:46Z,2022-05-19T09:29:09Z,1,1,MERGED
+smarthr-design-system,Gochaの画像を変更,https://github.com/kufu/smarthr-design-system/pull/67,2022-05-18T02:52:01Z,2022-06-01T05:44:04Z,3,5,MERGED
+smarthr-design-system,ドロップダウンボタンのレイアウトを実装,https://github.com/kufu/smarthr-design-system/pull/66,2022-05-18T02:36:31Z,2022-05-18T09:49:29Z,2,6,MERGED
+smarthr-design-system,アイコンページに説明を追加,https://github.com/kufu/smarthr-design-system/pull/65,2022-05-17T07:58:54Z,2022-05-17T08:41:36Z,1,1,MERGED
+smarthr-design-system,上階層に戻るリンクのレイアウトを実装,https://github.com/kufu/smarthr-design-system/pull/64,2022-05-17T03:23:30Z,2022-05-18T03:10:41Z,4,7,MERGED
+smarthr-design-system,🐛: ProductWrapper が div になっていた,https://github.com/kufu/smarthr-design-system/pull/63,2022-05-16T08:43:32Z,2022-05-17T01:35:58Z,1,1,MERGED
+smarthr-design-system,ESCキー押下でデモのダイアログを閉じるように修正,https://github.com/kufu/smarthr-design-system/pull/62,2022-05-16T08:37:19Z,2022-05-17T01:58:30Z,1,1,MERGED
+smarthr-design-system,コードブロックの使い勝手をちょっとよくする,https://github.com/kufu/smarthr-design-system/pull/56,2022-05-13T05:51:25Z,2022-05-16T07:47:04Z,1,8,MERGED
+smarthr-design-system,SmartHR UI の Button 変更に追従,https://github.com/kufu/smarthr-design-system/pull/55,2022-05-12T21:13:07Z,2022-05-13T08:51:12Z,5,6,MERGED
+smarthr-design-system,印刷ガイドラインページを追加,https://github.com/kufu/smarthr-design-system/pull/54,2022-05-12T09:51:14Z,2022-05-31T04:47:45Z,1,3,MERGED
+smarthr-design-system,見出しの修正・出ていない画像の修正,https://github.com/kufu/smarthr-design-system/pull/53,2022-05-12T07:29:53Z,2022-05-18T04:39:35Z,2,4,MERGED
+smarthr-design-system,Update smarthr-ui to v21.0.0,https://github.com/kufu/smarthr-design-system/pull/52,2022-05-11T21:04:17Z,2022-05-12T01:09:25Z,1,2,MERGED
+smarthr-design-system,SmartHRロゴのデータを差し替え,https://github.com/kufu/smarthr-design-system/pull/51,2022-05-10T15:04:21Z,2022-05-12T04:20:11Z,1,1,MERGED
+smarthr-design-system,アイコンのまとめてダウンロード機能を追加,https://github.com/kufu/smarthr-design-system/pull/50,2022-05-10T04:08:35Z,2022-05-16T04:41:24Z,1,10,MERGED
+smarthr-design-system,ジングルムービーページの追加,https://github.com/kufu/smarthr-design-system/pull/46,2022-05-02T05:03:24Z,2022-05-13T07:19:36Z,5,9,MERGED
+smarthr-design-system,コンポーネントページにsmarthr-ui関連の情報が表示されなくなっていたので修正,https://github.com/kufu/smarthr-design-system/pull/38,2022-04-28T07:01:45Z,2022-04-28T07:31:10Z,1,2,MERGED
+smarthr-design-system,アクセシビリティ（/products/accessibility/）をヘッダーに移動,https://github.com/kufu/smarthr-design-system/pull/37,2022-04-27T06:35:24Z,2022-05-17T01:45:42Z,4,11,MERGED
+smarthr-design-system,iconページを基本要素に移動,https://github.com/kufu/smarthr-design-system/pull/36,2022-04-26T11:59:17Z,2022-05-09T09:06:55Z,1,7,MERGED
+smarthr-design-system,Airtableコンテンツでマークダウンが利用できるように,https://github.com/kufu/smarthr-design-system/pull/35,2022-04-26T08:42:32Z,2022-05-16T02:53:58Z,1,3,MERGED
+smarthr-design-system,.mdxファイルのFrontmatterからauthorとdateを削除,https://github.com/kufu/smarthr-design-system/pull/34,2022-04-26T06:31:48Z,2022-04-28T00:54:55Z,2,2,MERGED
+smarthr-design-system,ユーザー社の従業員_丸アイコン更新,https://github.com/kufu/smarthr-design-system/pull/33,2022-04-26T04:32:57Z,2022-05-12T05:51:41Z,1,7,MERGED
+smarthr-design-system,Gatsbyのバージョンを4.7.2に下げる,https://github.com/kufu/smarthr-design-system/pull/32,2022-04-26T02:47:32Z,2022-04-26T04:43:53Z,1,2,MERGED
+smarthr-design-system,エラーメッセージガイドライン追加,https://github.com/kufu/smarthr-design-system/pull/31,2022-04-25T09:44:19Z,2022-04-26T03:55:42Z,4,4,MERGED
+smarthr-design-system,gatsby-plugin-sharpのバージョンを戻す,https://github.com/kufu/smarthr-design-system/pull/30,2022-04-25T02:13:38Z,2022-04-25T07:49:15Z,2,1,CLOSED
+smarthr-design-system,🚸: ヘッダーの一部を EveryLayout 化,https://github.com/kufu/smarthr-design-system/pull/21,2022-04-22T06:42:10Z,2022-04-25T07:17:23Z,4,5,MERGED
+smarthr-design-system,プロダクト配下のディレクトリ構成の見直し,https://github.com/kufu/smarthr-design-system/pull/20,2022-04-21T08:37:31Z,2022-04-22T03:07:48Z,2,15,MERGED
+smarthr-design-system,Update smarthr-ui v20.3.0,https://github.com/kufu/smarthr-design-system/pull/19,2022-04-21T07:37:11Z,2022-04-22T02:39:10Z,2,7,MERGED
+smarthr-design-system,アイコンのガイドラインページを追加,https://github.com/kufu/smarthr-design-system/pull/18,2022-04-20T10:14:05Z,2022-05-09T07:34:03Z,11,22,MERGED
+smarthr-design-system,社労士セイジさんのイラストを「まとめてダウンロード」ボタンからダウンロードできるように修正,https://github.com/kufu/smarthr-design-system/pull/17,2022-04-20T10:09:10Z,2022-04-26T04:34:40Z,2,1,MERGED
+smarthr-design-system,feat: add contact email address to web accessibility policy,https://github.com/kufu/smarthr-design-system/pull/16,2022-04-20T08:16:46Z,2022-04-21T07:45:01Z,1,1,MERGED
+smarthr-design-system,TypeScriptの型エラーが増大していたので対応,https://github.com/kufu/smarthr-design-system/pull/15,2022-04-20T06:21:51Z,2022-04-21T08:16:53Z,1,2,MERGED
+smarthr-design-system,リリースノートのURL変更,https://github.com/kufu/smarthr-design-system/pull/14,2022-04-18T07:26:55Z,2022-04-18T07:49:41Z,1,4,MERGED
+smarthr-design-system,アイコンページの情報を最新化,https://github.com/kufu/smarthr-design-system/pull/13,2022-04-18T04:05:38Z,2022-04-26T11:21:54Z,6,18,MERGED
+smarthr-design-system,リポジトリ公開確認,https://github.com/kufu/smarthr-design-system/pull/1,2022-04-18T01:26:20Z,2022-04-18T03:59:43Z,2,1,CLOSED
+smarthr-design-system,Update operate-policy.mdx,https://github.com/kufu/smarthr-design-system/pull/209,2022-07-29T04:26:51Z,2022-07-29T05:44:12Z,1,1,MERGED
+smarthr-design-system,コンポーネントのページのiframeのリサイズUIを改善,https://github.com/kufu/smarthr-design-system/pull/208,2022-07-29T02:03:16Z,2022-08-01T02:09:58Z,1,2,MERGED
+smarthr-design-system,Reactをv18にバージョンアップ,https://github.com/kufu/smarthr-design-system/pull/207,2022-07-28T07:28:51Z,2022-08-01T08:47:25Z,3,1,MERGED
+smarthr-design-system,SCRIMとOVERLAYのカラーコードを修正,https://github.com/kufu/smarthr-design-system/pull/206,2022-07-27T04:28:07Z,2022-07-27T04:46:53Z,1,1,MERGED
+smarthr-design-system,(WIP) OGP画像生成スクリプトを追加,https://github.com/kufu/smarthr-design-system/pull/196,2022-07-22T04:51:34Z,2022-08-16T00:59:45Z,6,4,CLOSED
+smarthr-design-system,概要ガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/195,2022-07-21T09:43:10Z,2022-07-21T10:16:21Z,2,2,MERGED
+smarthr-design-system,コードからストーリー名を抽出する際の正規表現を修正,https://github.com/kufu/smarthr-design-system/pull/194,2022-07-21T01:12:03Z,2022-07-21T04:55:48Z,3,2,MERGED
+smarthr-design-system,テーブル内の一括操作のページを追加,https://github.com/kufu/smarthr-design-system/pull/193,2022-07-20T11:40:21Z,2022-08-03T06:15:45Z,52,58,MERGED
+smarthr-design-system,写真・動画の概要を追加,https://github.com/kufu/smarthr-design-system/pull/192,2022-07-20T10:45:37Z,2022-07-25T09:00:49Z,3,1,MERGED
+smarthr-design-system,第4階層のコンポーネントの並び順、サイドバーの開閉メニューを修正,https://github.com/kufu/smarthr-design-system/pull/191,2022-07-20T07:42:14Z,2022-07-21T01:31:21Z,1,2,MERGED
+smarthr-design-system,プロダクトの色をSmartHR UIの最新に追従する,https://github.com/kufu/smarthr-design-system/pull/190,2022-07-20T02:43:48Z,2022-07-20T05:44:44Z,2,1,MERGED
+smarthr-design-system,ヘッダーメニューの余白を調整,https://github.com/kufu/smarthr-design-system/pull/189,2022-07-19T05:29:13Z,2022-07-20T01:09:46Z,2,1,MERGED
+smarthr-design-system,コンポーネント配下のディレクトリ変更、非推奨コンポーネントの明記,https://github.com/kufu/smarthr-design-system/pull/181,2022-07-15T10:13:11Z,2022-07-20T06:41:29Z,4,11,MERGED
+smarthr-design-system,Thコンポーネントのスタイルを修正,https://github.com/kufu/smarthr-design-system/pull/180,2022-07-15T08:07:41Z,2022-07-19T05:42:41Z,1,1,MERGED
+smarthr-design-system,コンポーネントページの並び順を修正,https://github.com/kufu/smarthr-design-system/pull/179,2022-07-12T07:50:36Z,2022-07-13T01:37:48Z,1,3,MERGED
+smarthr-design-system,子ページのリンクリストを表示するページで、PageIndexコンポーネントを使用するように変更,https://github.com/kufu/smarthr-design-system/pull/178,2022-07-11T05:37:06Z,2022-07-11T07:04:20Z,1,1,MERGED
+smarthr-design-system,smarthr-uiで非推奨となったtable関連のコンポーネントを置き換え,https://github.com/kufu/smarthr-design-system/pull/177,2022-07-11T04:43:28Z,2022-07-11T07:03:39Z,1,1,MERGED
+smarthr-design-system,差し替え後のイラストレーションを表示,https://github.com/kufu/smarthr-design-system/pull/171,2022-07-07T06:47:09Z,2022-07-07T09:56:59Z,2,2,MERGED
+smarthr-design-system,テキストの折り返しが必要な部分のCSSを調整,https://github.com/kufu/smarthr-design-system/pull/170,2022-07-05T08:55:08Z,2022-07-11T04:37:42Z,1,1,MERGED
+smarthr-design-system,一部「フィードバック先」タイトルを「問い合わせ先」に変更,https://github.com/kufu/smarthr-design-system/pull/169,2022-07-05T07:37:59Z,2022-07-06T00:24:39Z,2,1,MERGED
+smarthr-design-system,一部イラストレーションの差し替え,https://github.com/kufu/smarthr-design-system/pull/168,2022-07-05T07:26:26Z,2022-07-05T09:13:23Z,3,2,MERGED
+smarthr-design-system,リンクチェッカーを追加,https://github.com/kufu/smarthr-design-system/pull/167,2022-07-05T06:38:51Z,2022-07-08T08:16:13Z,7,12,MERGED
+smarthr-design-system,ロゴaiデータのレイヤーをロック,https://github.com/kufu/smarthr-design-system/pull/166,2022-07-04T03:58:45Z,2022-07-04T05:03:55Z,1,4,MERGED
+smarthr-design-system,英単語が改行途中で折り返されてしまうのを防ぐ,https://github.com/kufu/smarthr-design-system/pull/156,2022-06-30T07:36:33Z,2022-07-01T06:06:01Z,2,1,MERGED
+smarthr-design-system,Update README.md,https://github.com/kufu/smarthr-design-system/pull/155,2022-06-29T10:21:50Z,2022-06-29T10:22:35Z,1,1,CLOSED
+smarthr-design-system,SVGアイコンのサイズを統一,https://github.com/kufu/smarthr-design-system/pull/154,2022-06-29T10:13:42Z,2022-07-04T04:42:23Z,3,2,MERGED
+smarthr-design-system,ウェブアクセシビリティ方針の更新,https://github.com/kufu/smarthr-design-system/pull/153,2022-06-28T04:07:49Z,2022-06-30T06:52:54Z,3,2,MERGED
+smarthr-design-system,Storybookに別画面で開くリンクを追加、ヘッダーを追加,https://github.com/kufu/smarthr-design-system/pull/152,2022-06-28T02:16:13Z,2022-06-28T05:28:21Z,1,2,MERGED
+smarthr-design-system,タイトルをフィードバック先に統一,https://github.com/kufu/smarthr-design-system/pull/151,2022-06-27T06:00:51Z,2022-07-04T04:12:19Z,2,2,MERGED
+smarthr-design-system,Gotchaの画像まわりの余白が出ないよう調整,https://github.com/kufu/smarthr-design-system/pull/141,2022-06-23T05:56:29Z,2022-06-27T02:13:33Z,1,1,MERGED
+smarthr-design-system,SmartHR UI v21.4.3 への更新に追従,https://github.com/kufu/smarthr-design-system/pull/139,2022-06-22T01:14:55Z,2022-06-22T01:55:02Z,3,3,MERGED
+smarthr-design-system,ロゴのaiデータのテキストをアウトライン化,https://github.com/kufu/smarthr-design-system/pull/138,2022-06-21T03:53:46Z,2022-06-30T08:44:04Z,1,2,MERGED
+smarthr-design-system,イラストレーションのデータを差し替え,https://github.com/kufu/smarthr-design-system/pull/125,2022-06-17T07:15:38Z,2022-07-01T06:25:14Z,1,1,MERGED
+smarthr-design-system,Storybookのiframeリサイズ機能をJSベースのものに置き換え,https://github.com/kufu/smarthr-design-system/pull/124,2022-06-17T05:21:15Z,2022-06-20T04:49:20Z,2,1,MERGED
+smarthr-design-system,「次へ」ナビゲーションの改良、関連する不具合の修正,https://github.com/kufu/smarthr-design-system/pull/123,2022-06-15T04:51:50Z,2022-06-17T06:04:49Z,2,3,MERGED
+smarthr-design-system,サウンドロゴの追加,https://github.com/kufu/smarthr-design-system/pull/122,2022-06-14T06:50:13Z,2022-07-14T06:57:37Z,4,7,MERGED
+smarthr-design-system,目次を表示するコンポーネントを追加,https://github.com/kufu/smarthr-design-system/pull/115,2022-06-10T09:07:37Z,2022-06-27T02:18:54Z,5,7,MERGED
+smarthr-design-system,登場人物一覧を追加,https://github.com/kufu/smarthr-design-system/pull/114,2022-06-10T03:31:58Z,2022-07-06T07:25:12Z,8,11,MERGED
+smarthr-design-system,⚡️: Gatsby インクリメンタルビルドを有効化,https://github.com/kufu/smarthr-design-system/pull/113,2022-06-10T01:11:20Z,2022-06-10T03:08:15Z,1,1,MERGED
+smarthr-design-system,デザインパターンとStorybookのコードを共通化,https://github.com/kufu/smarthr-design-system/pull/112,2022-06-09T08:39:54Z,2022-06-13T00:57:40Z,8,2,MERGED
+smarthr-design-system,アイコンの名称を変更,https://github.com/kufu/smarthr-design-system/pull/111,2022-06-07T09:35:51Z,2022-06-13T03:22:55Z,1,2,MERGED
+smarthr-design-system,機能名を正式名称に変更,https://github.com/kufu/smarthr-design-system/pull/110,2022-06-07T08:46:56Z,2022-06-07T09:23:32Z,1,2,CLOSED
+smarthr-design-system,開発コンソールに出ていたReactの警告に対処,https://github.com/kufu/smarthr-design-system/pull/109,2022-06-07T08:18:35Z,2022-06-09T01:53:06Z,1,2,MERGED
+smarthr-design-system,lintの警告、TypeScriptの型エラーに対処,https://github.com/kufu/smarthr-design-system/pull/108,2022-06-06T06:42:58Z,2022-06-07T01:50:48Z,1,3,MERGED
+smarthr-design-system,Chromatic を導入,https://github.com/kufu/smarthr-design-system/pull/101,2022-06-03T05:10:51Z,2022-06-07T06:10:50Z,6,4,MERGED
+smarthr-design-system,importのパスの書き方を統一・エイリアスを追加,https://github.com/kufu/smarthr-design-system/pull/100,2022-06-02T08:49:08Z,2022-06-07T01:49:14Z,5,1,MERGED
+smarthr-design-system,fix:Contens配下のリンクの修正,https://github.com/kufu/smarthr-design-system/pull/99,2022-06-02T06:21:07Z,2022-06-02T08:07:02Z,1,4,MERGED
+smarthr-design-system,ユーザビリティテストの手引と被験者になったらを載せる,https://github.com/kufu/smarthr-design-system/pull/98,2022-06-02T02:53:44Z,2022-06-14T09:19:01Z,39,48,MERGED
+smarthr-design-system,印刷ガイドラインページの画像の軽量化,https://github.com/kufu/smarthr-design-system/pull/97,2022-06-01T06:02:33Z,2022-06-01T06:59:37Z,1,1,MERGED
+smarthr-design-system,5点アイコンを差し替え,https://github.com/kufu/smarthr-design-system/pull/96,2022-06-01T05:29:32Z,2022-06-01T06:45:13Z,1,2,MERGED
+smarthr-design-system,新規作成した5点のアイコンを差し替え,https://github.com/kufu/smarthr-design-system/pull/95,2022-06-01T04:03:03Z,2022-06-01T05:30:45Z,2,5,CLOSED
+smarthr-design-system,textlint誤検知を回避するためのignoreを削除,https://github.com/kufu/smarthr-design-system/pull/345,2022-10-31T08:51:34Z,2022-10-31T09:08:01Z,1,3,MERGED
+smarthr-design-system,「伝わる文章の書き方」を「基本要素」に追加,https://github.com/kufu/smarthr-design-system/pull/339,2022-10-28T01:38:26Z,2022-11-02T00:33:00Z,20,9,MERGED
+smarthr-design-system,お問い合わせに専用メールアドレスを追加する,https://github.com/kufu/smarthr-design-system/pull/331,2022-10-21T09:32:21Z,2022-10-26T01:17:12Z,1,2,MERGED
+smarthr-design-system,Gocha画像の差し替え,https://github.com/kufu/smarthr-design-system/pull/330,2022-10-20T08:38:24Z,2022-10-21T02:40:03Z,1,2,MERGED
+smarthr-design-system,テーブル内のテキストは`break-all`→`break-word`に変更,https://github.com/kufu/smarthr-design-system/pull/329,2022-10-18T04:20:52Z,2022-10-19T06:55:00Z,1,1,MERGED
+smarthr-design-system,コンソールエラー回避のため、SSR時のGotchaの表示を調整,https://github.com/kufu/smarthr-design-system/pull/328,2022-10-18T02:17:01Z,2022-10-20T04:11:55Z,2,1,MERGED
+smarthr-design-system,イラストレーションの文章の細かな修正,https://github.com/kufu/smarthr-design-system/pull/319,2022-10-07T05:08:05Z,2022-10-07T05:23:38Z,1,3,MERGED
+smarthr-design-system,［ユーザビリティテストの計画をはじめる］で誤字を修正,https://github.com/kufu/smarthr-design-system/pull/318,2022-10-06T10:41:25Z,2022-10-07T01:07:00Z,1,1,MERGED
+smarthr-design-system,ヘルプセンター移行に伴う URI の書き換え,https://github.com/kufu/smarthr-design-system/pull/317,2022-10-06T05:51:15Z,2022-10-06T08:48:29Z,2,1,MERGED
+smarthr-design-system,サイトトップの事例画像を追加,https://github.com/kufu/smarthr-design-system/pull/316,2022-10-05T11:29:54Z,2022-10-07T11:55:53Z,1,3,MERGED
+smarthr-design-system,UXW-69｜通知メールガイドラインの追加,https://github.com/kufu/smarthr-design-system/pull/315,2022-10-05T08:43:34Z,2022-12-14T08:18:19Z,12,12,MERGED
+smarthr-design-system,フッターメニューにアクセシビリティを追加,https://github.com/kufu/smarthr-design-system/pull/314,2022-10-04T06:43:28Z,2022-10-24T06:15:49Z,6,2,MERGED
+smarthr-design-system,fix: typo in README.md,https://github.com/kufu/smarthr-design-system/pull/313,2022-10-03T12:37:40Z,2022-10-04T01:38:51Z,1,1,MERGED
+smarthr-design-system,smarthr-uiのアイコンのプロパティ名を修正,https://github.com/kufu/smarthr-design-system/pull/312,2022-10-03T02:33:52Z,2022-10-06T06:40:00Z,1,1,MERGED
+smarthr-design-system,SmartHR UI（Figmaライブラリ）の更新方法のページを追加,https://github.com/kufu/smarthr-design-system/pull/303,2022-09-29T01:07:58Z,2022-10-03T09:02:32Z,7,12,MERGED
+smarthr-design-system,eslintのルール更新に対応,https://github.com/kufu/smarthr-design-system/pull/292,2022-09-16T06:39:29Z,2022-09-20T01:59:54Z,6,3,MERGED
+smarthr-design-system,Buttonのラベルの判定フローのaltを差し替え,https://github.com/kufu/smarthr-design-system/pull/291,2022-09-16T05:37:32Z,2022-09-16T05:44:21Z,1,1,MERGED
+smarthr-design-system,DialogのPropsテーブルを追加,https://github.com/kufu/smarthr-design-system/pull/290,2022-09-15T06:01:07Z,2022-09-15T06:36:56Z,1,1,MERGED
+smarthr-design-system,ボタンのラベル判定フローを追加,https://github.com/kufu/smarthr-design-system/pull/289,2022-09-15T05:55:31Z,2022-09-16T04:41:43Z,3,3,MERGED
+smarthr-design-system,運営理念の修正,https://github.com/kufu/smarthr-design-system/pull/288,2022-09-13T04:56:37Z,2022-10-05T10:06:44Z,1,1,MERGED
+smarthr-design-system,ドロップダウンの画像を16px版に差し替え,https://github.com/kufu/smarthr-design-system/pull/287,2022-09-12T06:00:48Z,2022-09-12T06:08:01Z,2,2,MERGED
+smarthr-design-system,多言語化対応アイコンのリニューアル,https://github.com/kufu/smarthr-design-system/pull/278,2022-09-09T02:42:32Z,2022-09-09T09:29:12Z,2,1,MERGED
+smarthr-design-system,💬: ミッションを差し替え,https://github.com/kufu/smarthr-design-system/pull/277,2022-09-07T10:12:34Z,2022-09-08T04:44:43Z,3,3,MERGED
+smarthr-design-system,サイドバーの第4階層の開閉を修正,https://github.com/kufu/smarthr-design-system/pull/276,2022-09-07T05:13:34Z,2022-09-07T05:38:16Z,1,1,MERGED
+smarthr-design-system,ユーザビリティテストの計画と設計についてのドキュメント追加,https://github.com/kufu/smarthr-design-system/pull/275,2022-09-06T07:49:42Z,2022-09-27T09:02:58Z,39,38,MERGED
+smarthr-design-system,smarthr-patternsリポジトリからデザインパターンのコンポーネントを取り込む,https://github.com/kufu/smarthr-design-system/pull/274,2022-09-06T06:03:36Z,2022-09-14T01:46:24Z,8,11,MERGED
+smarthr-design-system,サービスビジョンの改訂,https://github.com/kufu/smarthr-design-system/pull/263,2022-08-31T09:42:19Z,2022-09-01T08:58:20Z,1,1,MERGED
+smarthr-design-system,UIテキストとヘルプセンター／リリースノートでのボタンを囲う括弧の統一に伴う、ドキュメントの修正,https://github.com/kufu/smarthr-design-system/pull/262,2022-08-30T12:09:54Z,2022-09-01T02:44:24Z,6,7,MERGED
+smarthr-design-system,ロゴのガイドラインのスタンスを追記,https://github.com/kufu/smarthr-design-system/pull/261,2022-08-29T02:58:55Z,2022-08-31T10:36:51Z,2,2,MERGED
+smarthr-design-system,OGP画像をCloudinaryで生成する方法に変更,https://github.com/kufu/smarthr-design-system/pull/253,2022-08-23T04:52:45Z,2022-09-16T02:23:21Z,5,3,MERGED
+smarthr-design-system,画像を16px化、古くなっていた内容を更新,https://github.com/kufu/smarthr-design-system/pull/252,2022-08-23T02:43:01Z,2022-08-23T10:37:20Z,1,9,MERGED
+smarthr-design-system,fix： [ ] を［ ］に変更,https://github.com/kufu/smarthr-design-system/pull/243,2022-08-19T08:07:46Z,2022-08-19T10:09:25Z,1,1,MERGED
+smarthr-design-system,テキストリンクの装飾の基準を最新化する,https://github.com/kufu/smarthr-design-system/pull/242,2022-08-18T10:24:23Z,2022-08-19T10:28:46Z,1,2,MERGED
+smarthr-design-system,MDXコンテンツ用のスタイルを調整,https://github.com/kufu/smarthr-design-system/pull/241,2022-08-16T07:12:25Z,2022-08-18T09:46:23Z,3,2,MERGED
+smarthr-design-system,テーブル内一括操作の「一括操作ボタンの例」にライティングパターンを追記,https://github.com/kufu/smarthr-design-system/pull/232,2022-08-10T01:22:38Z,2022-08-10T02:35:19Z,2,3,MERGED
+smarthr-design-system,Tdコンポーネント内のデザイントークンをcodeタグで表記,https://github.com/kufu/smarthr-design-system/pull/231,2022-08-08T09:00:13Z,2022-08-08T09:15:21Z,1,2,MERGED
+smarthr-design-system,ヘルプセンターリンクの装飾アイコンの基準見直し,https://github.com/kufu/smarthr-design-system/pull/230,2022-08-08T06:52:35Z,2022-08-09T01:53:43Z,8,10,MERGED
+smarthr-design-system,デザインパターンのコード例をStoryにする・プレビュー領域のサイズを可変にする,https://github.com/kufu/smarthr-design-system/pull/229,2022-08-08T06:44:42Z,2022-08-08T07:43:12Z,1,2,MERGED
+smarthr-design-system,トップのリンク集を最新化,https://github.com/kufu/smarthr-design-system/pull/228,2022-08-08T04:13:28Z,2022-08-15T07:25:18Z,3,2,MERGED
+smarthr-design-system,複数のエラーをまとめたヘルプページのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/227,2022-08-08T02:23:38Z,2022-08-09T01:57:31Z,3,7,MERGED
+smarthr-design-system,アイコンのindexにフィードバック先を追加,https://github.com/kufu/smarthr-design-system/pull/217,2022-08-05T06:48:24Z,2023-06-29T06:28:47Z,3,2,CLOSED
+smarthr-design-system,お問い合わせ先を最新化,https://github.com/kufu/smarthr-design-system/pull/216,2022-08-05T05:36:25Z,2022-08-05T06:21:50Z,3,1,MERGED
+smarthr-design-system,検索結果に表示するカテゴリーのラベルを更新,https://github.com/kufu/smarthr-design-system/pull/215,2022-08-04T02:51:54Z,2022-08-04T08:19:42Z,3,2,MERGED
+smarthr-design-system,インライン表示のコードタグも使えるように調整,https://github.com/kufu/smarthr-design-system/pull/214,2022-08-02T06:45:53Z,2022-08-04T00:37:10Z,7,2,MERGED
+smarthr-design-system,コピーライトから発行年を削除,https://github.com/kufu/smarthr-design-system/pull/441,2022-12-29T10:46:06Z,2023-01-04T02:32:56Z,2,1,MERGED
+smarthr-design-system,「伝わる文章」の記載見直し,https://github.com/kufu/smarthr-design-system/pull/440,2022-12-27T09:59:51Z,2023-01-16T03:57:30Z,11,12,MERGED
+smarthr-design-system,リンク切れの修正,https://github.com/kufu/smarthr-design-system/pull/439,2022-12-26T08:41:42Z,2022-12-26T09:13:30Z,1,1,MERGED
+smarthr-design-system,サービス画面キャプチャのレイアウトを変更,https://github.com/kufu/smarthr-design-system/pull/430,2022-12-22T08:18:17Z,2023-01-05T02:44:47Z,6,5,MERGED
+smarthr-design-system,「デザインパターン＞ドロップダウンボタン」を「コンポーネント＞…＞DropdownButton」に移植,https://github.com/kufu/smarthr-design-system/pull/429,2022-12-19T07:04:33Z,2022-12-21T04:53:31Z,5,6,MERGED
+smarthr-design-system,フッターとハンバーガーメニューで表示されるメニューリンクのクリック領域を広げた,https://github.com/kufu/smarthr-design-system/pull/428,2022-12-19T07:01:33Z,2022-12-20T07:33:00Z,2,1,MERGED
+smarthr-design-system,「リリースノートの書き方」の文字修正,https://github.com/kufu/smarthr-design-system/pull/427,2022-12-19T05:55:26Z,2022-12-19T07:05:28Z,2,1,MERGED
+smarthr-design-system,🆙 SmartHR UI to v24.3.0,https://github.com/kufu/smarthr-design-system/pull/425,2022-12-16T08:21:45Z,2022-12-19T05:30:04Z,1,2,MERGED
+smarthr-design-system,開発時のAlgoliaへのindex送信まわりを修正,https://github.com/kufu/smarthr-design-system/pull/424,2022-12-16T02:17:09Z,2022-12-19T02:20:39Z,1,2,MERGED
+smarthr-design-system,ハンバーガーメニューを開くボタンのaria-controlsの出力を調整,https://github.com/kufu/smarthr-design-system/pull/423,2022-12-15T04:59:11Z,2022-12-16T01:22:37Z,6,3,CLOSED
+smarthr-design-system,fix: 通知メール,https://github.com/kufu/smarthr-design-system/pull/422,2022-12-14T08:50:51Z,2022-12-14T08:53:51Z,1,1,MERGED
+smarthr-design-system,styled-components用のpropsが出力されるケースに対応,https://github.com/kufu/smarthr-design-system/pull/421,2022-12-12T07:14:27Z,2022-12-13T01:28:09Z,1,1,MERGED
+smarthr-design-system,ヘッダーのロゴ画像名からスペースを削除,https://github.com/kufu/smarthr-design-system/pull/420,2022-12-12T05:30:23Z,2022-12-13T01:17:14Z,1,1,MERGED
+smarthr-design-system,react-helmetプラグインをGatsby Head APIに置き換え,https://github.com/kufu/smarthr-design-system/pull/409,2022-12-09T07:35:44Z,2022-12-12T05:53:32Z,2,2,MERGED
+smarthr-design-system,.node-versionファイルを元に戻す,https://github.com/kufu/smarthr-design-system/pull/408,2022-12-08T05:45:01Z,2022-12-08T06:01:19Z,1,1,MERGED
+smarthr-design-system,Androidのホーム画面用のmaskableのアイコンが適用されるように調整,https://github.com/kufu/smarthr-design-system/pull/407,2022-12-08T02:59:41Z,2022-12-09T07:13:00Z,3,1,MERGED
+smarthr-design-system,tsc --noEmitチェックのエラーを解消,https://github.com/kufu/smarthr-design-system/pull/406,2022-12-06T06:35:57Z,2022-12-06T07:00:45Z,1,2,MERGED
+smarthr-design-system,fix: 母国語を使わない,https://github.com/kufu/smarthr-design-system/pull/405,2022-12-06T05:55:41Z,2022-12-06T06:15:02Z,1,1,MERGED
+smarthr-design-system,textlint-rule-preset-smarthrのバージョンアップ、自動修正,https://github.com/kufu/smarthr-design-system/pull/404,2022-12-06T04:51:58Z,2022-12-06T08:39:46Z,2,1,MERGED
+smarthr-design-system,gatsby-plugin-algoliaをバージョンアップ,https://github.com/kufu/smarthr-design-system/pull/403,2022-12-05T07:53:49Z,2022-12-06T01:43:16Z,1,1,MERGED
+smarthr-design-system,smarthr-ui v24.1.0 に追従,https://github.com/kufu/smarthr-design-system/pull/396,2022-12-02T08:11:53Z,2022-12-02T08:44:46Z,1,6,MERGED
+smarthr-design-system,リンクチェッカーを実行するGitHub Actionsを追加,https://github.com/kufu/smarthr-design-system/pull/395,2022-12-01T07:48:58Z,2022-12-08T04:12:01Z,1,1,MERGED
+smarthr-design-system,PARK onlineの画面キャプチャを追加,https://github.com/kufu/smarthr-design-system/pull/394,2022-11-30T08:29:15Z,2022-12-01T01:45:51Z,2,1,MERGED
+smarthr-design-system,ESLintのルールアップデートに対応,https://github.com/kufu/smarthr-design-system/pull/393,2022-11-29T02:01:18Z,2022-11-29T02:14:21Z,1,1,MERGED
+smarthr-design-system,Netlifyのdevサーバーの設定を調整,https://github.com/kufu/smarthr-design-system/pull/389,2022-11-24T06:26:42Z,2022-11-29T01:53:12Z,1,1,MERGED
+smarthr-design-system,リンクチェッカーのエラーメッセージを修正,https://github.com/kufu/smarthr-design-system/pull/388,2022-11-24T01:49:32Z,2022-11-24T04:38:17Z,1,1,MERGED
+smarthr-design-system,ロゴページのダウンロードセクション表記を調整,https://github.com/kufu/smarthr-design-system/pull/387,2022-11-22T06:11:50Z,2022-12-09T05:13:05Z,1,2,MERGED
+smarthr-design-system,コンテンツ配下の構成を見直し（リリースノートをヘルプセンター配下に）,https://github.com/kufu/smarthr-design-system/pull/386,2022-11-22T06:10:24Z,2022-11-25T10:38:20Z,5,12,MERGED
+smarthr-design-system,ページのリンク切れを修正,https://github.com/kufu/smarthr-design-system/pull/385,2022-11-22T01:39:30Z,2022-11-22T04:46:53Z,3,4,MERGED
+smarthr-design-system,見出しの外部リンクを参考ページとして本文からリンクした,https://github.com/kufu/smarthr-design-system/pull/384,2022-11-21T09:40:30Z,2022-11-21T09:57:10Z,2,2,MERGED
+smarthr-design-system,デザインデータの作り方へのリンクを修正,https://github.com/kufu/smarthr-design-system/pull/383,2022-11-21T09:25:07Z,2022-11-21T09:52:28Z,1,1,MERGED
+smarthr-design-system,ホーム画面でアイコンがきれいに見えるようにする,https://github.com/kufu/smarthr-design-system/pull/382,2022-11-21T04:55:31Z,2022-11-25T08:11:04Z,7,13,MERGED
+smarthr-design-system,「ヘルプページの基本的な書き方」を追加,https://github.com/kufu/smarthr-design-system/pull/376,2022-11-18T10:08:32Z,2022-11-21T09:40:53Z,13,13,MERGED
+smarthr-design-system,smarthr-ui v23.6.0 に追従,https://github.com/kufu/smarthr-design-system/pull/375,2022-11-18T07:08:30Z,2022-12-02T08:14:43Z,2,3,CLOSED
+smarthr-design-system,"""デザインレビュー""を最新に更新",https://github.com/kufu/smarthr-design-system/pull/374,2022-11-17T01:33:58Z,2022-11-18T06:57:45Z,3,2,MERGED
+smarthr-design-system,ファシリテーションの心得のドキュメントを追加,https://github.com/kufu/smarthr-design-system/pull/373,2022-11-16T08:16:38Z,2022-11-18T06:52:15Z,28,32,MERGED
+smarthr-design-system,「線」ページを追加,https://github.com/kufu/smarthr-design-system/pull/372,2022-11-14T10:03:18Z,2022-11-15T03:30:21Z,4,5,CLOSED
+smarthr-design-system,[WIP]SmartHR UIの運用・設計項目を追加,https://github.com/kufu/smarthr-design-system/pull/363,2022-11-10T17:35:43Z,2024-11-07T01:20:41Z,2,2,CLOSED
+smarthr-design-system,faviconを追加,https://github.com/kufu/smarthr-design-system/pull/362,2022-11-10T07:14:41Z,2022-11-21T04:45:45Z,3,3,CLOSED
+smarthr-design-system,faviconを追加,https://github.com/kufu/smarthr-design-system/pull/361,2022-11-10T07:04:07Z,2022-11-10T07:13:10Z,1,1,CLOSED
+smarthr-design-system,Stylelintの最新バージョンが動作しないため、PostCSSのバージョンを固定,https://github.com/kufu/smarthr-design-system/pull/360,2022-11-08T06:15:15Z,2022-11-09T07:37:08Z,1,1,MERGED
+smarthr-design-system,リポジトリへのリンクを追加,https://github.com/kufu/smarthr-design-system/pull/359,2022-11-08T03:02:30Z,2022-11-08T04:18:19Z,1,1,MERGED
+smarthr-design-system,サンプルテキストを追加,https://github.com/kufu/smarthr-design-system/pull/358,2022-11-07T10:15:20Z,2022-11-28T09:40:42Z,6,13,MERGED
+smarthr-design-system,カラーパレットを追加、rgbaで記述できるように変更,https://github.com/kufu/smarthr-design-system/pull/350,2022-11-04T03:59:56Z,2022-11-09T02:41:30Z,16,13,MERGED
+smarthr-design-system,アクセシビリティのリンクを修正,https://github.com/kufu/smarthr-design-system/pull/349,2022-11-04T03:46:54Z,2022-11-04T03:54:15Z,1,1,MERGED
+smarthr-design-system,ご覧ください→参照してください,https://github.com/kufu/smarthr-design-system/pull/348,2022-11-04T03:45:24Z,2022-11-04T03:55:49Z,1,1,MERGED
+smarthr-design-system,remark-pluginのコードを修正,https://github.com/kufu/smarthr-design-system/pull/347,2022-11-01T08:35:10Z,2022-11-04T04:26:49Z,1,1,MERGED
+smarthr-design-system,よくある質問に「なぜ？」のライティングパターンを追加,https://github.com/kufu/smarthr-design-system/pull/346,2022-11-01T01:51:46Z,2022-11-01T02:55:42Z,2,2,MERGED
+smarthr-design-system,ウェブアクセシビリティ方針を新しいミッションに準じたものに,https://github.com/kufu/smarthr-design-system/pull/605,2023-03-29T04:00:30Z,2023-04-03T02:28:23Z,1,1,MERGED
+smarthr-design-system,デザイントークンをsmarthr-uiの実態と合わせる,https://github.com/kufu/smarthr-design-system/pull/604,2023-03-27T03:11:42Z,2023-03-27T03:57:10Z,1,5,MERGED
+smarthr-design-system,SmartHR Mag.のサービス画面キャプチャを追加,https://github.com/kufu/smarthr-design-system/pull/594,2023-03-24T09:58:03Z,2023-03-28T01:04:38Z,2,4,MERGED
+smarthr-design-system,🆙 Smarthr UI を v30.2.0 に更新,https://github.com/kufu/smarthr-design-system/pull/593,2023-03-22T06:48:17Z,2023-03-22T06:57:00Z,1,2,MERGED
+smarthr-design-system,ComponentStoryコンポーネントのレイアウト・スタイル調整,https://github.com/kufu/smarthr-design-system/pull/592,2023-03-22T01:09:44Z,2023-03-27T00:30:59Z,5,4,MERGED
+smarthr-design-system,TSのバージョンアップに伴い、CDNのパスを修正,https://github.com/kufu/smarthr-design-system/pull/591,2023-03-20T10:16:57Z,2023-03-20T10:25:00Z,1,1,MERGED
+smarthr-design-system,ComponentStory内のリンク・プルダウンの不具合を修正,https://github.com/kufu/smarthr-design-system/pull/582,2023-03-17T05:52:41Z,2023-03-17T08:19:34Z,1,2,MERGED
+smarthr-design-system,ComponentStoryコンポーネントの操作エリアを修正,https://github.com/kufu/smarthr-design-system/pull/581,2023-03-17T04:16:00Z,2023-03-27T01:43:05Z,2,1,CLOSED
+smarthr-design-system,TableWrapperにセルの幅指定のpropsを追加,https://github.com/kufu/smarthr-design-system/pull/580,2023-03-17T03:21:10Z,2023-03-20T06:20:51Z,1,1,MERGED
+smarthr-design-system,ロゴのサンプル画像を修正,https://github.com/kufu/smarthr-design-system/pull/579,2023-03-16T03:31:01Z,2023-03-16T05:24:03Z,1,4,MERGED
+smarthr-design-system,文言の変更,https://github.com/kufu/smarthr-design-system/pull/578,2023-03-15T12:12:25Z,2023-03-15T12:59:45Z,2,1,MERGED
+smarthr-design-system,タイポフラフィページの利用範囲を修正,https://github.com/kufu/smarthr-design-system/pull/577,2023-03-14T13:40:19Z,2023-03-15T01:10:06Z,2,1,MERGED
+smarthr-design-system,globパッケージのアップデートに対応,https://github.com/kufu/smarthr-design-system/pull/576,2023-03-14T01:28:55Z,2023-03-15T05:54:04Z,1,1,MERGED
+smarthr-design-system,省略線の権限とダウンロードのURLを変更,https://github.com/kufu/smarthr-design-system/pull/575,2023-03-13T10:57:19Z,2023-03-29T09:00:25Z,5,10,MERGED
+smarthr-design-system,VideoEmbedコンポーネントを作成,https://github.com/kufu/smarthr-design-system/pull/574,2023-03-13T03:10:15Z,2023-04-06T01:56:51Z,14,6,MERGED
+smarthr-design-system,参照するSmartHR UIのバージョン切り替えを追加,https://github.com/kufu/smarthr-design-system/pull/567,2023-03-09T08:04:39Z,2023-03-16T04:32:52Z,10,11,MERGED
+smarthr-design-system,Figmaの古いレイヤー順序の制限に関する記述を削除,https://github.com/kufu/smarthr-design-system/pull/566,2023-03-08T16:26:45Z,2023-03-09T00:16:00Z,1,1,MERGED
+smarthr-design-system,リンク切れの修正,https://github.com/kufu/smarthr-design-system/pull/565,2023-03-08T06:15:53Z,2023-03-08T06:27:38Z,1,1,MERGED
+smarthr-design-system,📝: StatusLabel にプレビューを追加,https://github.com/kufu/smarthr-design-system/pull/558,2023-03-02T21:30:54Z,2023-03-03T00:40:06Z,3,1,MERGED
+smarthr-design-system,⬆️ SmartHR UI v30.0.1 に追従,https://github.com/kufu/smarthr-design-system/pull/557,2023-03-02T20:18:37Z,2023-03-03T03:29:24Z,1,8,MERGED
+smarthr-design-system,コードブロックに横スクロールを追加,https://github.com/kufu/smarthr-design-system/pull/556,2023-03-02T07:16:43Z,2023-03-08T03:45:23Z,2,2,MERGED
+smarthr-design-system,問い合わせ先Slackチャンネルについて「社内Slack」を明記した,https://github.com/kufu/smarthr-design-system/pull/555,2023-03-02T06:11:43Z,2023-03-03T00:59:08Z,1,1,MERGED
+smarthr-design-system,Status Labelから誤った説明を削除,https://github.com/kufu/smarthr-design-system/pull/554,2023-03-02T02:50:20Z,2023-03-02T08:01:07Z,2,1,MERGED
+smarthr-design-system,テーブルセルにグローバルにmin-widthを適用,https://github.com/kufu/smarthr-design-system/pull/553,2023-02-28T05:47:02Z,2023-03-01T00:36:05Z,1,1,MERGED
+smarthr-design-system,リンク切れとリンクチェッカーの修正対応,https://github.com/kufu/smarthr-design-system/pull/552,2023-02-27T06:27:41Z,2023-03-01T00:24:19Z,1,3,MERGED
+smarthr-design-system,リンクチェックの結果をサマリーに出力するように変更,https://github.com/kufu/smarthr-design-system/pull/551,2023-02-27T05:32:33Z,2023-03-01T00:20:39Z,1,1,MERGED
+smarthr-design-system,textlint・textlint-rule-preset-smarthrをアップデート,https://github.com/kufu/smarthr-design-system/pull/544,2023-02-21T07:34:53Z,2023-03-02T00:06:56Z,6,7,MERGED
+smarthr-design-system,リンクチェッカーでのissue作成をRest API経由に修正,https://github.com/kufu/smarthr-design-system/pull/543,2023-02-20T06:50:29Z,2023-02-22T07:55:11Z,1,1,MERGED
+smarthr-design-system,gatsby-plugin-typegenをGatsby本体のType generatorに置き換え,https://github.com/kufu/smarthr-design-system/pull/542,2023-02-20T03:04:56Z,2023-02-20T03:54:05Z,1,2,MERGED
+smarthr-design-system,環境変数の整理や関連する処理の改修,https://github.com/kufu/smarthr-design-system/pull/541,2023-02-20T01:14:03Z,2023-02-27T07:06:32Z,1,5,MERGED
+smarthr-design-system,「SmartHR UIが大切にしていること」を追加,https://github.com/kufu/smarthr-design-system/pull/536,2023-02-17T06:03:25Z,2023-02-21T13:53:51Z,1,2,MERGED
+smarthr-design-system,代替テキストのページを追加,https://github.com/kufu/smarthr-design-system/pull/535,2023-02-16T23:30:59Z,2023-02-27T04:49:03Z,7,4,MERGED
+smarthr-design-system,Airtableのキーが未設定の場合にモックデータを使ってビルドする,https://github.com/kufu/smarthr-design-system/pull/534,2023-02-14T08:57:51Z,2023-02-16T03:08:19Z,1,1,MERGED
+smarthr-design-system,配置シミュレーション機能のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/533,2023-02-14T01:11:39Z,2023-02-14T01:50:40Z,2,1,MERGED
+smarthr-design-system,配置シミュレーション機能の画面キャプチャを追加,https://github.com/kufu/smarthr-design-system/pull/532,2023-02-14T01:05:08Z,2023-02-14T02:13:21Z,3,2,MERGED
+smarthr-design-system,AlgoliaのKEYが設定されていない場合にメッセージを表示,https://github.com/kufu/smarthr-design-system/pull/531,2023-02-13T08:42:07Z,2023-02-16T02:27:10Z,3,3,MERGED
+smarthr-design-system,GitHub Actionsでビルドする際にNetlify上の環境変数を参照する,https://github.com/kufu/smarthr-design-system/pull/521,2023-02-09T06:28:35Z,2023-02-09T07:46:59Z,1,3,MERGED
+smarthr-design-system,SmartHR UIのStorybookのURLを更新,https://github.com/kufu/smarthr-design-system/pull/520,2023-02-07T06:47:25Z,2023-02-09T01:12:07Z,1,3,MERGED
+smarthr-design-system,Storybookのコード取得・iframeのレンダリングをクライアント→サーバーサイドへ変更,https://github.com/kufu/smarthr-design-system/pull/514,2023-02-03T03:57:05Z,2023-02-13T06:34:10Z,1,1,MERGED
+smarthr-design-system,ステータスのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/513,2023-02-02T09:20:02Z,2023-03-02T02:09:20Z,27,41,MERGED
+smarthr-design-system,タイポグラフィをアップデート,https://github.com/kufu/smarthr-design-system/pull/512,2023-01-31T09:01:05Z,2023-03-14T11:54:26Z,13,14,MERGED
+smarthr-design-system,docs: Update license file and add CoC file,https://github.com/kufu/smarthr-design-system/pull/511,2023-01-31T08:58:10Z,2023-01-31T23:58:43Z,4,2,MERGED
+smarthr-design-system,ESLintの`a11y-anchor-has-href-attribute`ルールをoffにする,https://github.com/kufu/smarthr-design-system/pull/510,2023-01-31T08:02:55Z,2023-02-01T04:42:34Z,1,2,MERGED
+smarthr-design-system,GitHub ActionsによるNetlifyのデプロイに環境変数が不足していたので追加,https://github.com/kufu/smarthr-design-system/pull/509,2023-01-30T13:25:47Z,2023-01-30T13:31:29Z,1,1,MERGED
+smarthr-design-system,テーブル幅が100%超える場合、レイアウトを崩さず横スクロールにする,https://github.com/kufu/smarthr-design-system/pull/508,2023-01-30T04:46:44Z,2023-01-31T06:42:34Z,1,3,MERGED
+smarthr-design-system,GOTCHA!に名刺の画像を追加,https://github.com/kufu/smarthr-design-system/pull/501,2023-01-26T08:57:11Z,2023-01-27T03:20:16Z,2,1,MERGED
+smarthr-design-system,アイキャッチのページを追加,https://github.com/kufu/smarthr-design-system/pull/500,2023-01-26T04:24:56Z,2023-07-28T01:22:54Z,11,20,MERGED
+smarthr-design-system,階層のあるsmarthr-uiコンポーネントのリンク先を修正,https://github.com/kufu/smarthr-design-system/pull/499,2023-01-26T03:01:06Z,2023-01-26T03:35:09Z,1,1,MERGED
+smarthr-design-system,Dropdown→DropdownMenuButton の名称変更に対応,https://github.com/kufu/smarthr-design-system/pull/498,2023-01-25T05:09:53Z,2023-01-25T05:34:34Z,1,3,MERGED
+smarthr-design-system,ダウンロードできる形式と色の種類のイメージを変更,https://github.com/kufu/smarthr-design-system/pull/497,2023-01-24T08:33:15Z,2023-01-27T03:20:27Z,2,1,MERGED
+smarthr-design-system,グローバルに`overflow-wrap: break-word`を追加・調整,https://github.com/kufu/smarthr-design-system/pull/496,2023-01-24T05:00:53Z,2023-01-24T08:09:11Z,2,1,MERGED
+smarthr-design-system,右サイドバーに表示するものがない場合は空divを出力しない,https://github.com/kufu/smarthr-design-system/pull/495,2023-01-24T02:26:41Z,2023-01-24T07:48:15Z,1,1,MERGED
+smarthr-design-system,textlint-rule-preset-smarthrのアップデートによって発生していたlintエラーを修正,https://github.com/kufu/smarthr-design-system/pull/494,2023-01-23T07:43:34Z,2023-01-25T05:13:30Z,2,1,MERGED
+smarthr-design-system,Airtableのタブ名変更に伴う修正,https://github.com/kufu/smarthr-design-system/pull/493,2023-01-23T07:02:08Z,2023-02-01T05:39:33Z,2,2,MERGED
+smarthr-design-system,ドロップダウンメニューページへのリンクを修正,https://github.com/kufu/smarthr-design-system/pull/492,2023-01-23T06:06:32Z,2023-01-24T07:38:43Z,1,1,MERGED
+smarthr-design-system,textlintのallow listに「ウィンドウ」「ダイアログ」「モーダル」を追加,https://github.com/kufu/smarthr-design-system/pull/481,2023-01-20T10:29:57Z,2023-01-23T02:34:06Z,1,1,MERGED
+smarthr-design-system,LayoutグループのコンポーネントのStorybookへのリンクを修正,https://github.com/kufu/smarthr-design-system/pull/480,2023-01-20T07:54:53Z,2023-01-20T08:13:11Z,1,1,MERGED
+smarthr-design-system,「NotificationBarの使い方」を追加,https://github.com/kufu/smarthr-design-system/pull/479,2023-01-20T04:58:12Z,2023-01-24T07:02:41Z,15,17,MERGED
+smarthr-design-system,SmartHR UI のグループ分けに対応,https://github.com/kufu/smarthr-design-system/pull/478,2023-01-19T07:20:11Z,2023-01-20T07:29:26Z,4,9,MERGED
+smarthr-design-system,SmartHR UI の v25.0.2 に追従,https://github.com/kufu/smarthr-design-system/pull/477,2023-01-18T23:47:31Z,2023-01-19T01:29:42Z,1,2,MERGED
+smarthr-design-system,表示できていない画像のデータ名を変更,https://github.com/kufu/smarthr-design-system/pull/476,2023-01-18T07:51:28Z,2023-01-19T02:05:50Z,2,2,MERGED
+smarthr-design-system,よくある質問のガイドラインに質問は常体で書く旨を追記,https://github.com/kufu/smarthr-design-system/pull/475,2023-01-18T01:57:24Z,2023-01-27T04:37:04Z,1,1,MERGED
+smarthr-design-system,input要素にname属性値を追加,https://github.com/kufu/smarthr-design-system/pull/474,2023-01-17T05:41:06Z,2023-01-19T08:06:57Z,1,1,MERGED
+smarthr-design-system,「操作のフィードバック」の追加,https://github.com/kufu/smarthr-design-system/pull/473,2023-01-17T01:36:22Z,2023-04-10T01:15:50Z,35,33,CLOSED
+smarthr-design-system,一部の画像内のUIで16px化されていなかったものを対応,https://github.com/kufu/smarthr-design-system/pull/472,2023-01-16T09:53:58Z,2023-01-16T10:12:27Z,1,3,MERGED
+smarthr-design-system,babelへの明示的な依存を除去,https://github.com/kufu/smarthr-design-system/pull/471,2023-01-16T09:18:59Z,2023-01-17T01:21:27Z,1,1,MERGED
+smarthr-design-system,見出し一覧が空の場合はIndexNavを出力しないように変更,https://github.com/kufu/smarthr-design-system/pull/470,2023-01-16T08:33:08Z,2023-01-17T01:12:02Z,1,1,MERGED
+smarthr-design-system,Gotchaの画像をCloudinaryに配置,https://github.com/kufu/smarthr-design-system/pull/469,2023-01-16T02:23:42Z,2023-01-26T05:54:48Z,5,4,MERGED
+smarthr-design-system,「PC」を「パソコン」に、「SP」を「スマートフォン」に変更,https://github.com/kufu/smarthr-design-system/pull/459,2023-01-13T07:56:44Z,2023-01-13T08:38:41Z,2,4,MERGED
+smarthr-design-system,Airtableコンテンツの見出し抽出処理を修正,https://github.com/kufu/smarthr-design-system/pull/458,2023-01-13T07:10:12Z,2023-01-16T01:22:17Z,1,1,MERGED
+smarthr-design-system,テーブル内の一括操作を更新,https://github.com/kufu/smarthr-design-system/pull/457,2023-01-12T06:56:05Z,2023-01-16T06:12:05Z,4,2,MERGED
+smarthr-design-system,名刺ページを追加,https://github.com/kufu/smarthr-design-system/pull/456,2023-01-10T04:40:06Z,2023-01-12T06:48:01Z,5,5,MERGED
+smarthr-design-system,本環境ではJSのソースマップURLが出力されないよう設定,https://github.com/kufu/smarthr-design-system/pull/455,2023-01-10T04:28:08Z,2023-01-12T00:52:21Z,3,4,MERGED
+smarthr-design-system,ログインチェックのリクエストメソッドをHEADに変更,https://github.com/kufu/smarthr-design-system/pull/446,2023-01-06T07:49:22Z,2023-01-10T01:53:33Z,1,1,MERGED
+smarthr-design-system,ライブエディタで使用するTypeScriptをCDNからの読み込みに変更,https://github.com/kufu/smarthr-design-system/pull/445,2023-01-04T07:00:57Z,2023-01-05T07:12:20Z,2,4,MERGED
+smarthr-design-system,ファビコンの追加,https://github.com/kufu/smarthr-design-system/pull/708,2023-05-31T09:37:10Z,2023-06-01T08:48:12Z,5,8,MERGED
+smarthr-design-system,スクリーンショットの使用ガイドラインに、スクリーンショットを使う基準について追記,https://github.com/kufu/smarthr-design-system/pull/707,2023-05-31T04:46:53Z,2023-06-01T06:16:12Z,11,6,MERGED
+smarthr-design-system,ファビコンの追加,https://github.com/kufu/smarthr-design-system/pull/706,2023-05-30T08:33:14Z,2023-05-30T08:34:40Z,2,1,CLOSED
+smarthr-design-system,markedの非推奨になった機能をオフに設定,https://github.com/kufu/smarthr-design-system/pull/705,2023-05-29T04:25:57Z,2023-05-29T05:21:38Z,1,1,MERGED
+smarthr-design-system,ComponentPropsテーブルもバージョン切り替えができるようにし、レイアウトを調整,https://github.com/kufu/smarthr-design-system/pull/697,2023-05-26T07:57:15Z,2023-05-31T05:03:40Z,4,4,MERGED
+smarthr-design-system,利用者・利用範囲をリライト,https://github.com/kufu/smarthr-design-system/pull/696,2023-05-25T11:29:59Z,2023-06-07T01:16:00Z,16,22,MERGED
+smarthr-design-system,端末モックに禁止事項を追加・階層を変更,https://github.com/kufu/smarthr-design-system/pull/695,2023-05-25T08:32:07Z,2023-05-29T10:55:06Z,3,11,MERGED
+smarthr-design-system,「コンセプト」→「はじめに」への変更に関連するフッター等の修正,https://github.com/kufu/smarthr-design-system/pull/694,2023-05-25T02:23:34Z,2023-05-25T02:47:29Z,1,3,MERGED
+smarthr-design-system,テーブルのスクロールに応じて影を入れる処理を実装,https://github.com/kufu/smarthr-design-system/pull/693,2023-05-24T07:43:33Z,2023-05-25T05:51:04Z,5,2,MERGED
+smarthr-design-system,Sketch関連のライブラリの提供を終了,https://github.com/kufu/smarthr-design-system/pull/692,2023-05-24T07:37:31Z,2023-05-24T07:47:01Z,1,2,MERGED
+smarthr-design-system,ロゴの禁止事項を追加,https://github.com/kufu/smarthr-design-system/pull/691,2023-05-23T10:57:13Z,2023-05-25T12:36:27Z,3,7,MERGED
+smarthr-design-system,「はじめに」ページのIntroduction→introduction・利用方法のorderの番号を変更,https://github.com/kufu/smarthr-design-system/pull/690,2023-05-23T07:18:30Z,2023-05-24T01:08:09Z,1,2,MERGED
+smarthr-design-system,バックグラウンド処理のエラーメッセージのライティングパターンを追加します,https://github.com/kufu/smarthr-design-system/pull/681,2023-05-19T08:55:51Z,2023-05-29T05:45:44Z,3,3,MERGED
+smarthr-design-system,ページタイトル「コンセプト」を「はじめに」変更,https://github.com/kufu/smarthr-design-system/pull/680,2023-05-19T08:01:49Z,2023-05-22T05:36:34Z,1,3,MERGED
+smarthr-design-system,Fix- twitterで指摘されたところを直した,https://github.com/kufu/smarthr-design-system/pull/679,2023-05-18T07:55:00Z,2023-05-18T08:07:59Z,1,1,MERGED
+smarthr-design-system,通知メールのガイドラインの表現を変更,https://github.com/kufu/smarthr-design-system/pull/678,2023-05-17T08:27:43Z,2023-05-17T08:36:51Z,1,1,MERGED
+smarthr-design-system,拡張子のタイポ修正,https://github.com/kufu/smarthr-design-system/pull/677,2023-05-15T07:54:04Z,2023-05-15T07:59:36Z,2,1,MERGED
+smarthr-design-system,ルール→ガイドラインに修正,https://github.com/kufu/smarthr-design-system/pull/676,2023-05-15T04:32:25Z,2023-05-15T06:52:32Z,1,1,MERGED
+smarthr-design-system,リンクを修正,https://github.com/kufu/smarthr-design-system/pull/675,2023-05-15T02:36:18Z,2023-05-15T02:53:41Z,1,1,MERGED
+smarthr-design-system,💬: セマンティクストークンをセマンティックトークンに置き換え,https://github.com/kufu/smarthr-design-system/pull/665,2023-05-13T23:04:38Z,2023-05-14T06:37:17Z,1,1,MERGED
+smarthr-design-system,✏️: DEFALUT を DEFAULT に修正,https://github.com/kufu/smarthr-design-system/pull/664,2023-05-13T01:34:45Z,2023-05-13T01:56:29Z,1,1,MERGED
+smarthr-design-system,ヘルプセンターの画像のガイドラインを切り出し、代替テキストのガイドラインを追記,https://github.com/kufu/smarthr-design-system/pull/663,2023-05-11T10:02:36Z,2023-05-12T05:14:20Z,2,1,MERGED
+smarthr-design-system,「権限による表示制御」の理由の表示方法を最新化,https://github.com/kufu/smarthr-design-system/pull/662,2023-05-10T10:33:23Z,2023-05-15T02:42:27Z,6,8,MERGED
+smarthr-design-system,[影トークン] セマンティクストークンの表に利用コンポーネントを追加、レイヤー順序との関係を廃止,https://github.com/kufu/smarthr-design-system/pull/661,2023-05-10T07:46:47Z,2023-05-11T06:27:56Z,1,2,MERGED
+smarthr-design-system,SmartHR UIのStorybook v6 → v7 アップデートのため*stories.tsxのパーサーを調整,https://github.com/kufu/smarthr-design-system/pull/660,2023-05-09T09:10:06Z,2023-05-11T23:47:35Z,1,1,MERGED
+smarthr-design-system,smarthr-patternsのコードの取得元をnode_modules→GitHubに変更,https://github.com/kufu/smarthr-design-system/pull/659,2023-05-09T02:03:41Z,2023-05-11T23:35:28Z,1,1,MERGED
+smarthr-design-system,コンポーネントキャプチャ一覧を作成,https://github.com/kufu/smarthr-design-system/pull/658,2023-05-08T05:37:54Z,2023-06-06T05:06:20Z,11,16,MERGED
+smarthr-design-system,Font Awesomeのタイポを修正,https://github.com/kufu/smarthr-design-system/pull/657,2023-05-08T05:00:05Z,2023-05-08T05:27:33Z,1,1,MERGED
+smarthr-design-system,react-liveの型定義を更新,https://github.com/kufu/smarthr-design-system/pull/650,2023-05-02T05:48:44Z,2023-05-08T01:09:48Z,1,2,MERGED
+smarthr-design-system,StorybookのURLチェッカーのPuppeteerを新しいモードに変更,https://github.com/kufu/smarthr-design-system/pull/649,2023-05-02T01:55:35Z,2023-05-08T01:08:24Z,1,1,MERGED
+smarthr-design-system,ComponentStoryのURLチェッカーを追加,https://github.com/kufu/smarthr-design-system/pull/641,2023-04-25T02:50:01Z,2023-04-26T04:35:27Z,2,2,MERGED
+smarthr-design-system,StorybookのURLが正しく設定できていないUIコンポーネントを修正,https://github.com/kufu/smarthr-design-system/pull/634,2023-04-21T06:55:34Z,2023-04-21T08:26:34Z,1,1,MERGED
+smarthr-design-system,バックグラウンド処理のデザインパターンを追加します,https://github.com/kufu/smarthr-design-system/pull/633,2023-04-20T05:04:19Z,2023-05-26T09:42:19Z,50,28,MERGED
+smarthr-design-system,ヘルプセンターガイドライン「操作手順の書き方」のライティングパターンを更新,https://github.com/kufu/smarthr-design-system/pull/632,2023-04-18T12:55:27Z,2023-04-19T00:47:26Z,1,1,MERGED
+smarthr-design-system,scroll-margin-topの調整,https://github.com/kufu/smarthr-design-system/pull/631,2023-04-17T07:57:05Z,2023-04-17T08:04:07Z,1,1,MERGED
+smarthr-design-system,「運転免許証」のイラストレーションのデータを差し替え,https://github.com/kufu/smarthr-design-system/pull/630,2023-04-17T02:38:07Z,2023-04-18T02:49:46Z,2,4,MERGED
+smarthr-design-system,SmartHR UI Iconのsizeプロパティを削除,https://github.com/kufu/smarthr-design-system/pull/623,2023-04-14T07:52:34Z,2023-04-17T01:47:35Z,1,2,MERGED
+smarthr-design-system,コンポーネントの非推奨のpropに警告アイコンを表示するように改修,https://github.com/kufu/smarthr-design-system/pull/622,2023-04-14T02:00:46Z,2023-04-14T06:19:41Z,4,2,MERGED
+smarthr-design-system,scroll-margin-topの値を調整,https://github.com/kufu/smarthr-design-system/pull/621,2023-04-14T00:53:26Z,2023-04-14T01:25:46Z,2,1,MERGED
+smarthr-design-system,コンポーネントに複数Propsが存在する場合、ページインデックスに反映されていなかった問題を修正,https://github.com/kufu/smarthr-design-system/pull/620,2023-04-13T00:40:06Z,2023-04-13T03:54:06Z,6,1,MERGED
+smarthr-design-system,Propsテーブルのレイアウトの改修,https://github.com/kufu/smarthr-design-system/pull/619,2023-04-10T00:16:44Z,2023-04-11T03:52:23Z,25,13,MERGED
+smarthr-design-system,検索ページの一覧の並び順を修正・カテゴリの並び順定義を共通化,https://github.com/kufu/smarthr-design-system/pull/612,2023-04-06T09:17:27Z,2023-04-10T05:27:32Z,2,4,MERGED
+smarthr-design-system,トップページのナビゲーションのレイアウトを修正,https://github.com/kufu/smarthr-design-system/pull/611,2023-04-04T08:51:10Z,2023-04-05T00:40:14Z,1,1,MERGED
+smarthr-design-system,textlint-rule-preset-smarthrの更新とエラー箇所の修正,https://github.com/kufu/smarthr-design-system/pull/610,2023-04-04T03:15:42Z,2023-04-04T04:07:17Z,2,3,MERGED
+smarthr-design-system,✏️: Pagenation を Pagination に修正,https://github.com/kufu/smarthr-design-system/pull/832,2023-07-31T00:57:02Z,2023-08-19T13:31:20Z,1,1,MERGED
+smarthr-design-system,イベントのアクセシビリティについてのページを追加,https://github.com/kufu/smarthr-design-system/pull/825,2023-07-28T07:57:46Z,2024-08-16T01:24:32Z,1,1,CLOSED
+smarthr-design-system,リンク切れを修正,https://github.com/kufu/smarthr-design-system/pull/824,2023-07-28T01:02:48Z,2023-07-28T01:19:47Z,1,1,MERGED
+smarthr-design-system,メタ情報・アイコンの出力内容・プラグインを整理,https://github.com/kufu/smarthr-design-system/pull/823,2023-07-27T08:02:41Z,2023-08-02T00:23:58Z,5,5,MERGED
+smarthr-design-system,人物のイラストレーションの喜怒哀楽表現の参照元について補足を追記,https://github.com/kufu/smarthr-design-system/pull/822,2023-07-27T03:43:28Z,2023-07-27T04:10:22Z,3,4,MERGED
+smarthr-design-system,localhostのリンクを修正,https://github.com/kufu/smarthr-design-system/pull/821,2023-07-26T05:29:06Z,2023-07-26T05:33:11Z,1,1,MERGED
+smarthr-design-system,postcssのバージョン固定を解除,https://github.com/kufu/smarthr-design-system/pull/820,2023-07-25T07:16:10Z,2023-07-26T03:46:57Z,2,1,MERGED
+smarthr-design-system,右サイドバーに現在地のハイライト表示を追加,https://github.com/kufu/smarthr-design-system/pull/819,2023-07-25T06:18:59Z,2023-07-27T05:58:12Z,3,4,MERGED
+smarthr-design-system,ツイートの画像の代替テキストを決めるためのフローチャートを追加,https://github.com/kufu/smarthr-design-system/pull/818,2023-07-24T07:29:29Z,2023-07-25T09:55:29Z,6,11,MERGED
+smarthr-design-system,わくわくチェックの挙動の記述を変更,https://github.com/kufu/smarthr-design-system/pull/809,2023-07-21T10:39:21Z,2023-07-26T03:01:59Z,1,1,MERGED
+smarthr-design-system,smarthr-ui v34のHeadingレベル周りのアップデートに対応,https://github.com/kufu/smarthr-design-system/pull/808,2023-07-18T06:26:00Z,2023-07-19T04:17:59Z,4,3,MERGED
+smarthr-design-system,🆙 SmartHR UI を v34.1.0 に更新,https://github.com/kufu/smarthr-design-system/pull/807,2023-07-17T23:46:22Z,2023-07-18T01:20:17Z,1,3,MERGED
+smarthr-design-system,用字用語：一覧のコンポーネントにReactのキーを追加,https://github.com/kufu/smarthr-design-system/pull/798,2023-07-14T02:18:58Z,2023-07-14T02:43:38Z,1,1,MERGED
+smarthr-design-system,サービス画面キャプチャ（端末モック入り）パターンBの画像をアップデート,https://github.com/kufu/smarthr-design-system/pull/797,2023-07-13T07:28:38Z,2023-07-14T01:05:48Z,1,3,MERGED
+smarthr-design-system,右サイドバーのページインデックスをCSRに変更,https://github.com/kufu/smarthr-design-system/pull/796,2023-07-11T06:03:57Z,2023-07-13T04:48:42Z,2,3,MERGED
+smarthr-design-system,Link/Storybookチェッカーの依存に@types/nodeを追加,https://github.com/kufu/smarthr-design-system/pull/795,2023-07-10T07:59:07Z,2023-07-11T00:37:31Z,1,1,MERGED
+smarthr-design-system,calendarのコンポーネントページに説明文を追加する,https://github.com/kufu/smarthr-design-system/pull/786,2023-07-07T08:52:05Z,2023-07-11T02:28:49Z,2,1,MERGED
+smarthr-design-system,PARKのリリースに伴い、サービス画面キャプチャとタイトルを変更,https://github.com/kufu/smarthr-design-system/pull/785,2023-07-05T02:44:48Z,2023-07-05T03:53:31Z,4,3,MERGED
+smarthr-design-system,游ゴシックがWindowsで見にくくなってしまう問題の対応,https://github.com/kufu/smarthr-design-system/pull/784,2023-07-04T07:03:35Z,2023-07-04T10:31:27Z,2,3,MERGED
+smarthr-design-system,追加・登録・作成のフローチャートをわかりやすくした,https://github.com/kufu/smarthr-design-system/pull/783,2023-07-04T01:10:34Z,2023-07-04T01:42:30Z,1,1,MERGED
+smarthr-design-system,レンジ記法のstylelint無効と差し戻し,https://github.com/kufu/smarthr-design-system/pull/782,2023-07-04T01:05:56Z,2023-07-04T01:27:21Z,2,1,MERGED
+smarthr-design-system,[人事評価機能] アクセシビリティ検証の結果ページ内のタイトルに不要な文字列が入っていたので修正しました,https://github.com/kufu/smarthr-design-system/pull/781,2023-07-03T08:41:05Z,2023-07-03T08:45:26Z,1,1,MERGED
+smarthr-design-system,リンク切れの修正・リンクチェッカーの調整,https://github.com/kufu/smarthr-design-system/pull/780,2023-07-03T07:14:24Z,2023-07-04T01:17:54Z,1,1,MERGED
+smarthr-design-system,StorybookのデータをJSONファイルから取得する,https://github.com/kufu/smarthr-design-system/pull/771,2023-06-30T08:10:11Z,2023-07-06T04:19:39Z,11,8,MERGED
+smarthr-design-system,Airtableコンテンツのモックデータを調整,https://github.com/kufu/smarthr-design-system/pull/770,2023-06-30T05:23:31Z,2023-06-30T06:55:27Z,1,2,MERGED
+smarthr-design-system,ライティングスタイルページを脱Airtable,https://github.com/kufu/smarthr-design-system/pull/769,2023-06-29T05:36:35Z,2023-06-30T01:12:46Z,1,4,MERGED
+smarthr-design-system,登録・追加・作成の使い分けを改訂,https://github.com/kufu/smarthr-design-system/pull/768,2023-06-29T02:09:41Z,2023-07-03T08:33:25Z,2,2,MERGED
+smarthr-design-system,人事評価機能のアクセシビリティ検証結果を書いた,https://github.com/kufu/smarthr-design-system/pull/767,2023-06-28T09:54:28Z,2023-06-29T07:30:37Z,6,5,MERGED
+smarthr-design-system,UIテキストのページをAirtableで管理しているのを止める,https://github.com/kufu/smarthr-design-system/pull/766,2023-06-28T06:51:28Z,2023-06-29T01:24:00Z,2,4,MERGED
+smarthr-design-system,問い合わせ先の詳細一覧を削除,https://github.com/kufu/smarthr-design-system/pull/765,2023-06-28T01:44:44Z,2023-06-28T01:48:11Z,1,1,MERGED
+smarthr-design-system,用字用語：一覧ページのデータ処理・表示を改善,https://github.com/kufu/smarthr-design-system/pull/764,2023-06-26T06:01:38Z,2023-06-27T04:03:06Z,5,4,MERGED
+smarthr-design-system,従業員サーベイ サーベイ回答の検証結果ページを追加,https://github.com/kufu/smarthr-design-system/pull/755,2023-06-21T10:40:42Z,2023-06-29T07:42:05Z,7,10,MERGED
+smarthr-design-system,Airtableプラグインを独自に実装し、CSVファイルも出力するように変更,https://github.com/kufu/smarthr-design-system/pull/754,2023-06-21T06:54:59Z,2023-06-22T05:30:58Z,9,3,MERGED
+smarthr-design-system,✏️: レベルA準拠の間違い,https://github.com/kufu/smarthr-design-system/pull/753,2023-06-21T05:46:15Z,2023-06-21T05:48:49Z,1,1,MERGED
+smarthr-design-system,📈: ウェブアクセシビリティ試験の達成結果と目標を更新,https://github.com/kufu/smarthr-design-system/pull/752,2023-06-21T05:15:31Z,2023-06-21T08:34:23Z,1,1,MERGED
+smarthr-design-system,ファビコン・アイコン、OGP、テーマカラー実装方法の追記,https://github.com/kufu/smarthr-design-system/pull/751,2023-06-20T09:46:05Z,2023-07-25T05:07:05Z,28,36,MERGED
+smarthr-design-system,アイコンページの表記ズレを修正,https://github.com/kufu/smarthr-design-system/pull/750,2023-06-20T09:04:07Z,2023-06-20T09:12:36Z,2,1,MERGED
+smarthr-design-system,アプリ（プロダクト）以外、ということをわかりやすくリライト,https://github.com/kufu/smarthr-design-system/pull/749,2023-06-20T05:01:52Z,2023-06-20T23:43:06Z,1,1,MERGED
+smarthr-design-system,リンクのURLを変更,https://github.com/kufu/smarthr-design-system/pull/748,2023-06-20T02:20:38Z,2023-06-20T02:24:46Z,1,1,MERGED
+smarthr-design-system,📝: コンポーネントテンプレートに Story と使用上の注意を追加,https://github.com/kufu/smarthr-design-system/pull/747,2023-06-20T00:10:48Z,2023-06-28T05:51:34Z,7,6,MERGED
+smarthr-design-system,コンポーネントのサムネイル生成に関するドキュメントを追加,https://github.com/kufu/smarthr-design-system/pull/746,2023-06-19T05:59:41Z,2023-06-20T00:53:56Z,1,1,MERGED
+smarthr-design-system,SmartHR UI アクセシビリティ試験結果｜202306,https://github.com/kufu/smarthr-design-system/pull/745,2023-06-19T02:04:38Z,2023-06-21T05:00:59Z,5,7,MERGED
+smarthr-design-system,RadioButtonとSelectの使い分けを記述,https://github.com/kufu/smarthr-design-system/pull/736,2023-06-17T21:48:02Z,2024-05-22T06:16:40Z,3,1,CLOSED
+smarthr-design-system,型エラーの解消,https://github.com/kufu/smarthr-design-system/pull/735,2023-06-16T06:58:39Z,2023-06-19T05:07:16Z,1,3,MERGED
+smarthr-design-system,コンポーネント一覧に表示するサムネイルをmdxファイルの有無で判定されるように修正,https://github.com/kufu/smarthr-design-system/pull/734,2023-06-15T06:40:48Z,2023-06-16T00:57:26Z,4,1,MERGED
+smarthr-design-system,端末モック入りキャプチャの一部を差し替え,https://github.com/kufu/smarthr-design-system/pull/733,2023-06-15T06:17:07Z,2023-06-15T06:39:56Z,1,1,MERGED
+smarthr-design-system,StoryNameとGitHub上のディレクトリ名が異なるケースに対応,https://github.com/kufu/smarthr-design-system/pull/732,2023-06-15T02:09:16Z,2023-06-16T03:55:31Z,7,4,MERGED
+smarthr-design-system,ファイルの命名ルールが異なっていたので修正,https://github.com/kufu/smarthr-design-system/pull/731,2023-06-15T01:56:13Z,2023-06-15T03:58:05Z,1,1,MERGED
+smarthr-design-system,:up: samrthr-ui を v32.0.1 に更新,https://github.com/kufu/smarthr-design-system/pull/730,2023-06-14T05:31:30Z,2023-06-14T07:53:50Z,2,6,MERGED
+smarthr-design-system,faviconを変更,https://github.com/kufu/smarthr-design-system/pull/729,2023-06-12T08:50:03Z,2023-06-12T08:59:40Z,1,1,MERGED
+smarthr-design-system,リンクチェッカーのスクリプトとリンク切れ箇所の修正,https://github.com/kufu/smarthr-design-system/pull/728,2023-06-12T08:21:37Z,2023-06-13T01:02:11Z,1,2,MERGED
+smarthr-design-system,コンポーネント一覧でのリンク切れの修正,https://github.com/kufu/smarthr-design-system/pull/727,2023-06-12T02:56:47Z,2023-06-12T03:46:42Z,1,2,MERGED
+smarthr-design-system,キャプチャ画像データの差し替え,https://github.com/kufu/smarthr-design-system/pull/726,2023-06-09T06:14:58Z,2023-06-09T08:48:49Z,1,2,MERGED
+smarthr-design-system,リンク切れを修正,https://github.com/kufu/smarthr-design-system/pull/725,2023-06-09T03:02:05Z,2023-06-09T03:07:51Z,1,1,MERGED
+smarthr-design-system,リンク切れの解消,https://github.com/kufu/smarthr-design-system/pull/724,2023-06-08T08:51:34Z,2023-06-08T23:32:57Z,1,1,MERGED
+smarthr-design-system,入社手続きのキャプチャの差し替え,https://github.com/kufu/smarthr-design-system/pull/723,2023-06-08T03:31:12Z,2023-06-08T05:55:59Z,1,3,MERGED
+smarthr-design-system,アクセシビリティ関連のページを全体的に更新,https://github.com/kufu/smarthr-design-system/pull/722,2023-06-07T09:55:51Z,2023-07-03T00:34:46Z,14,52,MERGED
+smarthr-design-system,各コンテンツページの利用者・利用範囲に関する記述を「はじめに」に合わせる,https://github.com/kufu/smarthr-design-system/pull/721,2023-06-07T07:40:32Z,2023-06-08T06:54:18Z,8,14,MERGED
+smarthr-design-system,ファビコンページを、基本要素配下に移動。メタ情報カテゴリを追加,https://github.com/kufu/smarthr-design-system/pull/720,2023-06-06T01:10:19Z,2023-06-08T03:14:47Z,3,1,MERGED
+smarthr-design-system,ファビコンをコミュニケーション配下に移動,https://github.com/kufu/smarthr-design-system/pull/719,2023-06-05T08:46:19Z,2023-06-05T08:49:56Z,1,1,MERGED
+smarthr-design-system,prism-react-rendererのメジャーアップデートに対応,https://github.com/kufu/smarthr-design-system/pull/718,2023-06-05T03:37:23Z,2023-06-05T05:13:46Z,1,1,MERGED
+smarthr-design-system,ログイン画面の説明を修正,https://github.com/kufu/smarthr-design-system/pull/709,2023-06-02T03:47:59Z,2023-06-05T08:10:39Z,3,5,MERGED
+smarthr-design-system,イラストレーション「アイテム」を2ページに分割,https://github.com/kufu/smarthr-design-system/pull/941,2023-10-27T08:54:01Z,2023-11-01T11:14:39Z,1,6,MERGED
+smarthr-design-system,イラストレーションの表情とTwemojiの説明をリライト,https://github.com/kufu/smarthr-design-system/pull/940,2023-10-27T00:19:24Z,2023-10-27T03:15:46Z,1,3,MERGED
+smarthr-design-system,LiveEditorをiframe内に入れてCSSノーマライズを適用,https://github.com/kufu/smarthr-design-system/pull/939,2023-10-26T03:21:51Z,2023-11-01T01:40:06Z,8,8,MERGED
+smarthr-design-system,リリースノートガイドラインの記載見直し,https://github.com/kufu/smarthr-design-system/pull/930,2023-10-20T09:39:55Z,2023-10-30T01:12:19Z,21,17,MERGED
+smarthr-design-system,アイコン作成後のガイドラインへの導線を追加,https://github.com/kufu/smarthr-design-system/pull/929,2023-10-19T04:10:22Z,2023-10-19T06:01:51Z,1,1,MERGED
+smarthr-design-system,HeadlineAreaの「非推奨」メッセージの表示崩れ修正,https://github.com/kufu/smarthr-design-system/pull/928,2023-10-18T06:11:18Z,2023-10-19T00:27:39Z,1,1,MERGED
+smarthr-design-system,Calendarを微修正,https://github.com/kufu/smarthr-design-system/pull/927,2023-10-18T04:45:31Z,2023-10-19T00:24:50Z,1,2,MERGED
+smarthr-design-system,fix-見出しの修正モレ対応,https://github.com/kufu/smarthr-design-system/pull/926,2023-10-18T01:43:57Z,2023-10-18T02:16:49Z,2,2,MERGED
+smarthr-design-system,fix-ライティングスタイルの修正,https://github.com/kufu/smarthr-design-system/pull/925,2023-10-18T01:20:58Z,2023-10-18T01:28:55Z,1,1,MERGED
+smarthr-design-system,Fieldsetのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/924,2023-10-17T05:03:13Z,2023-11-01T03:21:47Z,4,13,MERGED
+smarthr-design-system,リンク切れになっていたアンカーリンク先を再設定,https://github.com/kufu/smarthr-design-system/pull/923,2023-10-17T01:46:33Z,2023-10-17T02:18:23Z,1,1,MERGED
+smarthr-design-system,ダッシュボードの画面キャプチャをアップデート,https://github.com/kufu/smarthr-design-system/pull/922,2023-10-16T10:42:52Z,2023-10-17T08:57:25Z,2,11,MERGED
+smarthr-design-system,届出書類のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/921,2023-10-16T02:40:53Z,2023-10-16T03:55:50Z,1,3,MERGED
+smarthr-design-system,ESLintで警告の出ていたheadingとsectioning contentを調整,https://github.com/kufu/smarthr-design-system/pull/913,2023-10-13T05:09:57Z,2023-10-13T05:42:23Z,1,2,MERGED
+smarthr-design-system,Buttonコンポーネントページの表示不具合を修正,https://github.com/kufu/smarthr-design-system/pull/912,2023-10-12T02:21:35Z,2023-10-12T04:23:52Z,2,2,MERGED
+smarthr-design-system,FormControlのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/911,2023-10-12T01:31:38Z,2023-10-18T00:58:34Z,19,20,MERGED
+smarthr-design-system,右サイドバーのPC表示時のCSSを修正,https://github.com/kufu/smarthr-design-system/pull/910,2023-10-11T07:50:50Z,2023-10-11T08:44:44Z,1,2,MERGED
+smarthr-design-system,Baseを階層構造にして、BaseColumnをその配下に移動,https://github.com/kufu/smarthr-design-system/pull/909,2023-10-10T04:59:06Z,2023-10-12T07:41:06Z,3,2,MERGED
+smarthr-design-system,🍱: コンポーネント一覧の画像を最新化,https://github.com/kufu/smarthr-design-system/pull/900,2023-10-06T07:51:20Z,2023-10-06T08:44:50Z,1,1,MERGED
+smarthr-design-system,📝: Switch のラベル例として「アーカイブを表示」を追加,https://github.com/kufu/smarthr-design-system/pull/899,2023-10-04T07:59:04Z,2023-10-06T03:36:28Z,1,1,MERGED
+smarthr-design-system,⬆️: smarthr-ui を v35.4.0 に更新,https://github.com/kufu/smarthr-design-system/pull/898,2023-10-03T00:44:41Z,2023-10-03T01:11:44Z,2,1,MERGED
+smarthr-design-system,アイキャッチの利用者・利用範囲を追加,https://github.com/kufu/smarthr-design-system/pull/893,2023-09-29T07:48:52Z,2023-10-06T02:05:57Z,2,6,MERGED
+smarthr-design-system,Figmaアイキャッチテンプレのプロジェクト新設に伴う対応,https://github.com/kufu/smarthr-design-system/pull/892,2023-09-29T07:40:23Z,2023-10-03T04:36:54Z,1,1,MERGED
+smarthr-design-system,お辞儀イラストを「SmartHR社の従業員」でDLできるzipフォルダから除外,https://github.com/kufu/smarthr-design-system/pull/891,2023-09-28T10:46:41Z,2023-09-29T02:16:59Z,1,1,MERGED
+smarthr-design-system,SP表示時のサイト内・ページ内ナビゲーションを追加,https://github.com/kufu/smarthr-design-system/pull/890,2023-09-25T08:12:34Z,2023-10-02T01:05:24Z,11,6,MERGED
+smarthr-design-system,プライベートコンテンツのmdパーサーを変更,https://github.com/kufu/smarthr-design-system/pull/885,2023-09-21T06:59:40Z,2023-09-22T01:51:57Z,1,1,MERGED
+smarthr-design-system,端末モックのフィードバック先を追加,https://github.com/kufu/smarthr-design-system/pull/884,2023-09-19T07:42:02Z,2023-09-21T03:23:56Z,1,1,MERGED
+smarthr-design-system,画面キャプチャの名称変更とページ分割,https://github.com/kufu/smarthr-design-system/pull/879,2023-09-15T09:01:54Z,2023-09-21T03:35:41Z,1,3,MERGED
+smarthr-design-system,[WIP] 画面キャプチャ配下の整理,https://github.com/kufu/smarthr-design-system/pull/878,2023-09-15T08:54:14Z,2023-09-15T09:00:18Z,1,1,CLOSED
+smarthr-design-system,ページを検索エンジンにindexするかどうかを指定する機能を追加,https://github.com/kufu/smarthr-design-system/pull/877,2023-09-14T06:02:20Z,2023-09-14T06:30:38Z,1,1,MERGED
+smarthr-design-system,お問い合わせに追記,https://github.com/kufu/smarthr-design-system/pull/876,2023-09-13T08:40:44Z,2023-09-14T06:43:03Z,2,2,MERGED
+smarthr-design-system,選択できるSmartHR UIバージョンの数・並び順を改善,https://github.com/kufu/smarthr-design-system/pull/875,2023-09-11T08:52:50Z,2023-09-12T01:36:03Z,1,1,MERGED
+smarthr-design-system,Netlify上でキャッシュクリア・ビルドするGH Actionsを追加,https://github.com/kufu/smarthr-design-system/pull/874,2023-09-07T06:08:10Z,2023-09-11T01:17:14Z,7,2,MERGED
+smarthr-design-system,游ゴシックの指定方法のページを追加,https://github.com/kufu/smarthr-design-system/pull/873,2023-09-06T05:09:40Z,2023-09-08T02:39:39Z,12,7,MERGED
+smarthr-design-system,アイキャッチテンプレ新規追加に関する案内を追加,https://github.com/kufu/smarthr-design-system/pull/872,2023-09-05T02:37:50Z,2023-09-06T09:55:59Z,1,5,MERGED
+smarthr-design-system,リンクの変更箇所・末尾スラッシュなど修正,https://github.com/kufu/smarthr-design-system/pull/871,2023-08-28T06:20:23Z,2023-08-28T07:27:32Z,1,2,MERGED
+smarthr-design-system,"target=""_blank""の場合はLinkコンポーネントを使わないように修正",https://github.com/kufu/smarthr-design-system/pull/870,2023-08-25T08:09:11Z,2023-08-25T08:22:57Z,1,1,MERGED
+smarthr-design-system,a要素のカスタムコンポーネントに属性値の継承処理を追加,https://github.com/kufu/smarthr-design-system/pull/869,2023-08-25T07:09:53Z,2023-08-25T07:36:22Z,1,2,MERGED
+smarthr-design-system,ログインUIにHTMLのformを適用,https://github.com/kufu/smarthr-design-system/pull/868,2023-08-25T05:15:40Z,2023-08-25T06:30:50Z,2,2,MERGED
+smarthr-design-system,コンポーネントページのGitHubのリンク先を修正,https://github.com/kufu/smarthr-design-system/pull/867,2023-08-25T02:57:55Z,2023-08-27T23:58:15Z,1,1,MERGED
+smarthr-design-system,サービス画面キャプチャのページの画像が表示されなくなっていた問題を修正,https://github.com/kufu/smarthr-design-system/pull/866,2023-08-25T02:25:19Z,2023-08-25T03:02:07Z,3,2,MERGED
+smarthr-design-system,表記の変更「Twitter」→「X（旧Twitter）」,https://github.com/kufu/smarthr-design-system/pull/865,2023-08-24T08:36:29Z,2023-10-19T06:35:36Z,2,7,MERGED
+smarthr-design-system,ログイン画面を有効なものに戻す,https://github.com/kufu/smarthr-design-system/pull/864,2023-08-24T07:58:32Z,2023-08-25T01:52:27Z,1,1,MERGED
+smarthr-design-system,プライベートコンテンツへのリクエスト方法を変更,https://github.com/kufu/smarthr-design-system/pull/863,2023-08-24T05:05:01Z,2023-08-24T05:41:05Z,1,3,MERGED
+smarthr-design-system,スキル管理機能のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/862,2023-08-17T23:08:15Z,2023-08-22T09:24:23Z,6,6,MERGED
+smarthr-design-system,一時的にログインできない旨を表示,https://github.com/kufu/smarthr-design-system/pull/861,2023-08-16T05:16:17Z,2023-08-17T04:15:04Z,7,3,MERGED
+smarthr-design-system,(WIP) ログイン不具合の修正,https://github.com/kufu/smarthr-design-system/pull/860,2023-08-15T05:56:39Z,2023-08-16T04:43:03Z,2,5,CLOSED
+smarthr-design-system,「利用者のかたへ」に配色の説明・サンプルを追加,https://github.com/kufu/smarthr-design-system/pull/859,2023-08-15T05:11:34Z,2023-08-17T03:35:42Z,1,3,MERGED
+smarthr-design-system,「仕様の一覧の書き方」を追加します,https://github.com/kufu/smarthr-design-system/pull/858,2023-08-14T07:50:27Z,2023-08-25T01:41:12Z,15,17,MERGED
+smarthr-design-system,外部リンクに自動的にアイコン・target属性を付与する仕組みを追加,https://github.com/kufu/smarthr-design-system/pull/849,2023-08-10T06:56:59Z,2023-08-21T07:26:05Z,2,2,MERGED
+smarthr-design-system,External Linkの仕様をすべて更新,https://github.com/kufu/smarthr-design-system/pull/848,2023-08-09T01:54:07Z,2023-08-21T07:29:05Z,5,11,MERGED
+smarthr-design-system,コミット時の末尾スラッシュの自動修復を追加,https://github.com/kufu/smarthr-design-system/pull/847,2023-08-07T04:14:11Z,2023-08-27T23:48:44Z,1,1,MERGED
+smarthr-design-system,画像のサイズをリサイズ,https://github.com/kufu/smarthr-design-system/pull/839,2023-08-03T23:44:25Z,2023-08-10T02:19:05Z,1,5,MERGED
+smarthr-design-system,ロゴのアイソレーションチェック会場への導線を追加,https://github.com/kufu/smarthr-design-system/pull/838,2023-08-03T20:57:07Z,2023-08-04T00:36:35Z,1,5,MERGED
+smarthr-design-system,OGPメタタグの整理・更新,https://github.com/kufu/smarthr-design-system/pull/837,2023-08-02T05:01:54Z,2023-08-02T06:50:50Z,1,1,MERGED
+smarthr-design-system,サウンドロゴのお問い合わせ先メールアドレスを修正,https://github.com/kufu/smarthr-design-system/pull/836,2023-08-01T14:11:57Z,2023-08-02T01:17:45Z,1,2,MERGED
+smarthr-design-system,新アクセシビリティサイトへの誘導,https://github.com/kufu/smarthr-design-system/pull/835,2023-08-01T05:25:22Z,2023-08-28T02:04:41Z,4,5,MERGED
+smarthr-design-system,#1300 ステップ式の操作画面のタイトルの書き方,https://github.com/kufu/smarthr-design-system/pull/1053,2023-12-27T03:38:27Z,2024-11-07T01:37:45Z,43,27,CLOSED
+smarthr-design-system,弱視・ロービジョンの特性と利用環境に関する説明を追記した,https://github.com/kufu/smarthr-design-system/pull/1052,2023-12-26T11:42:44Z,2023-12-26T11:44:12Z,1,1,MERGED
+smarthr-design-system,限られた視覚のユーザのウェブ利用に関連する問題点と解決策のページを作った,https://github.com/kufu/smarthr-design-system/pull/1051,2023-12-26T08:21:42Z,2023-12-28T06:25:08Z,78,16,MERGED
+smarthr-design-system,デッドリンクを修正,https://github.com/kufu/smarthr-design-system/pull/1050,2023-12-26T02:50:00Z,2023-12-26T04:10:17Z,1,10,MERGED
+smarthr-design-system,Fix typo,https://github.com/kufu/smarthr-design-system/pull/1049,2023-12-25T17:54:59Z,2023-12-25T23:27:57Z,1,1,MERGED
+smarthr-design-system,LiveEditorのエディタをiframeの外に移動,https://github.com/kufu/smarthr-design-system/pull/1048,2023-12-25T02:01:12Z,2023-12-25T04:42:27Z,1,1,MERGED
+smarthr-design-system,:up: smarthr-ui を v40.1.2 に更新,https://github.com/kufu/smarthr-design-system/pull/1044,2023-12-22T04:16:21Z,2023-12-22T04:20:38Z,1,2,MERGED
+smarthr-design-system,Storybook checkerをプラグインに合わせて修正,https://github.com/kufu/smarthr-design-system/pull/1043,2023-12-21T08:57:51Z,2023-12-22T00:39:04Z,3,1,MERGED
+smarthr-design-system,Gatsby v5の導入テスト（v5.13.0）,https://github.com/kufu/smarthr-design-system/pull/1042,2023-12-21T07:47:26Z,2024-11-07T01:21:10Z,7,3,CLOSED
+smarthr-design-system,MDXファイルでのimport漏れ修正・不要なコンポーネントの削除,https://github.com/kufu/smarthr-design-system/pull/1041,2023-12-21T02:47:29Z,2023-12-21T07:16:52Z,1,2,MERGED
+smarthr-design-system,「権限設定の画面」を追加した,https://github.com/kufu/smarthr-design-system/pull/1040,2023-12-20T11:57:04Z,2023-12-25T06:33:36Z,55,49,MERGED
+smarthr-design-system,アクセシビリティの品質基準を追加,https://github.com/kufu/smarthr-design-system/pull/1039,2023-12-19T07:31:56Z,2023-12-20T00:50:36Z,2,1,MERGED
+smarthr-design-system,プロダクトのトップページに「デザインシステムをつくる目的」を追加,https://github.com/kufu/smarthr-design-system/pull/1038,2023-12-18T23:33:31Z,2023-12-20T02:24:11Z,9,7,MERGED
+smarthr-design-system,[人事評価機能]評価内容一覧画面のアクセシビリティ検証結果を書いた,https://github.com/kufu/smarthr-design-system/pull/1037,2023-12-18T09:08:59Z,2023-12-25T04:01:52Z,1,2,MERGED
+smarthr-design-system,🙏 MessageScree が非推奨になり ErrorScreen になったのを忘れていました,https://github.com/kufu/smarthr-design-system/pull/1027,2023-12-15T08:41:29Z,2023-12-18T02:10:57Z,1,2,MERGED
+smarthr-design-system,gatsby-source-ui-versionsプラグインにキャッシュ機能を追加,https://github.com/kufu/smarthr-design-system/pull/1026,2023-12-15T07:51:40Z,2023-12-19T07:12:48Z,4,4,MERGED
+smarthr-design-system,SmartHR UIをv40.1.0に更新,https://github.com/kufu/smarthr-design-system/pull/1025,2023-12-15T04:39:07Z,2023-12-15T04:43:22Z,1,2,MERGED
+smarthr-design-system,SP版のメインメニューのレイアウトを調整,https://github.com/kufu/smarthr-design-system/pull/1024,2023-12-11T02:56:23Z,2023-12-11T04:38:45Z,1,1,MERGED
+smarthr-design-system,fix: smarthr-ui.css の更新を反映,https://github.com/kufu/smarthr-design-system/pull/1015,2023-12-08T03:32:34Z,2023-12-08T03:36:35Z,1,1,MERGED
+smarthr-design-system,SPメニューのスタイルを調整,https://github.com/kufu/smarthr-design-system/pull/1014,2023-12-07T07:33:59Z,2023-12-08T01:46:00Z,1,2,MERGED
+smarthr-design-system,devサーバー起動時にNode.jsのメモリ指定を追加,https://github.com/kufu/smarthr-design-system/pull/1013,2023-12-07T05:39:28Z,2023-12-07T06:05:50Z,1,1,MERGED
+smarthr-design-system,SmartHR UI を v40.0.2に更新,https://github.com/kufu/smarthr-design-system/pull/1012,2023-12-07T02:13:54Z,2023-12-07T02:18:06Z,1,1,MERGED
+smarthr-design-system,組織図・名簿アイコンの追加,https://github.com/kufu/smarthr-design-system/pull/1011,2023-12-06T13:03:38Z,2023-12-07T09:18:44Z,1,3,MERGED
+smarthr-design-system,画面名に括弧をつけないガイドラインに変更,https://github.com/kufu/smarthr-design-system/pull/1010,2023-12-05T11:00:51Z,2023-12-08T02:23:15Z,2,4,MERGED
+smarthr-design-system,開発者用のドキュメントを追加,https://github.com/kufu/smarthr-design-system/pull/1009,2023-12-05T04:57:07Z,2023-12-15T01:43:39Z,3,6,MERGED
+smarthr-design-system,smarthr-ui.cssをコピーするしくみを追加,https://github.com/kufu/smarthr-design-system/pull/1008,2023-12-04T04:20:03Z,2023-12-08T03:30:22Z,7,2,MERGED
+smarthr-design-system,スクリーンショットのガイドラインに「過度にスクリーンショットを減らしていないか」の観点を追加,https://github.com/kufu/smarthr-design-system/pull/1001,2023-12-01T08:22:53Z,2023-12-01T09:17:51Z,1,1,MERGED
+smarthr-design-system,smarthr-uiをv39.1.0へ更新,https://github.com/kufu/smarthr-design-system/pull/1000,2023-12-01T04:21:58Z,2023-12-01T04:27:26Z,1,1,MERGED
+smarthr-design-system,プロダクトに「ユーザビリティ（使用性）」を追加,https://github.com/kufu/smarthr-design-system/pull/999,2023-12-01T03:19:55Z,2023-12-25T06:17:02Z,1,39,MERGED
+smarthr-design-system,リリースノートガイドラインのリライト,https://github.com/kufu/smarthr-design-system/pull/998,2023-11-30T11:05:00Z,2023-12-01T09:14:04Z,7,6,MERGED
+smarthr-design-system,フッターのログインボタン周辺の余白を修正,https://github.com/kufu/smarthr-design-system/pull/997,2023-11-30T07:12:06Z,2023-12-01T01:09:06Z,1,1,MERGED
+smarthr-design-system,リリースノートの不具合修正カテゴリーのガイドラインを修正,https://github.com/kufu/smarthr-design-system/pull/996,2023-11-28T10:02:51Z,2023-11-28T11:01:45Z,1,1,MERGED
+smarthr-design-system,Storybookのコードが取得できていない不具合を修正,https://github.com/kufu/smarthr-design-system/pull/995,2023-11-28T08:30:11Z,2023-11-28T08:50:51Z,1,1,MERGED
+smarthr-design-system,Storybookのiframe URLの初期値を予めセットしておくように変更,https://github.com/kufu/smarthr-design-system/pull/994,2023-11-28T06:29:22Z,2023-11-28T07:02:58Z,1,1,MERGED
+smarthr-design-system,stylelint-config-standardのアップデートに伴いルールを調整,https://github.com/kufu/smarthr-design-system/pull/993,2023-11-27T08:06:44Z,2023-11-27T08:28:30Z,1,1,MERGED
+smarthr-design-system,smarthr-uiを39.0.0にアップデート,https://github.com/kufu/smarthr-design-system/pull/984,2023-11-24T06:45:22Z,2023-11-24T06:49:46Z,1,1,MERGED
+smarthr-design-system,CSSファイルをreact-frame-componentから読み込むサンプルを追加,https://github.com/kufu/smarthr-design-system/pull/983,2023-11-24T01:34:00Z,2023-11-24T06:11:24Z,2,1,CLOSED
+smarthr-design-system,⬆️ smarthr-ui を v38.2.0 に更新,https://github.com/kufu/smarthr-design-system/pull/982,2023-11-22T03:05:53Z,2023-11-24T06:11:23Z,6,7,MERGED
+smarthr-design-system,型エラー回避のため@types/reactのバージョンを固定,https://github.com/kufu/smarthr-design-system/pull/981,2023-11-20T08:45:46Z,2023-11-21T00:53:27Z,1,1,MERGED
+smarthr-design-system,ダイアログページの誤字を修正した,https://github.com/kufu/smarthr-design-system/pull/972,2023-11-17T03:36:05Z,2023-11-17T08:26:54Z,1,1,MERGED
+smarthr-design-system,簡易チェックリストの項目を更新,https://github.com/kufu/smarthr-design-system/pull/971,2023-11-14T06:44:45Z,2023-11-21T07:08:25Z,1,2,MERGED
+smarthr-design-system,端末モック画像を冒頭に追加,https://github.com/kufu/smarthr-design-system/pull/962,2023-11-10T00:49:36Z,2023-11-10T06:03:49Z,1,6,MERGED
+smarthr-design-system,イラストページのアンカーリンクを修正,https://github.com/kufu/smarthr-design-system/pull/961,2023-11-09T02:29:00Z,2023-11-09T04:32:37Z,1,1,MERGED
+smarthr-design-system,TypeScriptの型エラーを解消,https://github.com/kufu/smarthr-design-system/pull/960,2023-11-07T08:13:03Z,2023-11-09T04:31:40Z,1,3,MERGED
+smarthr-design-system,画面キャプチャの作成ガイドラインを掲載,https://github.com/kufu/smarthr-design-system/pull/959,2023-11-06T04:41:28Z,2023-11-14T08:08:33Z,14,28,MERGED
+smarthr-design-system,MDX内のコンポーネントコードをサーバー側でもレンダリングするように変更,https://github.com/kufu/smarthr-design-system/pull/950,2023-11-01T04:56:01Z,2023-11-01T08:24:03Z,1,2,MERGED
+smarthr-design-system,SmartHR UIをv45.0.1に更新,https://github.com/kufu/smarthr-design-system/pull/1108,2024-03-29T04:38:30Z,2024-04-15T03:06:23Z,3,1,CLOSED
+smarthr-design-system,「リリースノートの書き方」の修正・分割,https://github.com/kufu/smarthr-design-system/pull/1107,2024-03-28T08:26:51Z,2024-04-10T08:48:14Z,33,35,MERGED
+smarthr-design-system,Loaderコンポーネントのガイドラインに使用上の注意を追加する,https://github.com/kufu/smarthr-design-system/pull/1106,2024-03-26T09:01:37Z,2024-04-17T03:08:41Z,8,9,MERGED
+smarthr-design-system,feat: font-familyに多言語の理由を追加,https://github.com/kufu/smarthr-design-system/pull/1105,2024-03-22T06:24:12Z,2024-03-27T03:45:25Z,3,1,MERGED
+smarthr-design-system,Update smarthr UI to v44.0.0,https://github.com/kufu/smarthr-design-system/pull/1104,2024-03-22T04:30:24Z,2024-03-22T07:48:12Z,1,5,MERGED
+smarthr-design-system,SmartHRスクール トップページの画面キャプチャをアップデート,https://github.com/kufu/smarthr-design-system/pull/1103,2024-03-21T10:17:28Z,2024-03-21T10:33:54Z,1,1,MERGED
+smarthr-design-system,SmartHR イラスト Portalへのリンクテキストを追加,https://github.com/kufu/smarthr-design-system/pull/1102,2024-03-21T07:41:48Z,2024-03-21T10:34:41Z,3,3,MERGED
+smarthr-design-system,🔧: yarn install がコケるので resolutions を追加,https://github.com/kufu/smarthr-design-system/pull/1101,2024-03-21T02:18:59Z,2024-03-26T08:16:12Z,1,1,MERGED
+smarthr-design-system,📝: 書籍「ちいさくはじめるデザインシステム」からコンポーネントの概要を転記,https://github.com/kufu/smarthr-design-system/pull/1100,2024-03-21T01:49:55Z,2024-03-26T08:29:38Z,14,5,MERGED
+smarthr-design-system,記載例として適切じゃないページの削除,https://github.com/kufu/smarthr-design-system/pull/1099,2024-03-21T01:26:30Z,2024-03-21T02:52:11Z,1,1,MERGED
+smarthr-design-system,ヘッダーのガイドラインを更新,https://github.com/kufu/smarthr-design-system/pull/1098,2024-03-15T10:15:35Z,2024-04-18T06:33:56Z,25,25,MERGED
+smarthr-design-system,"Revert ""Revert ""smarthr-uiをv43.3.0に更新""""",https://github.com/kufu/smarthr-design-system/pull/1097,2024-03-14T23:45:23Z,2024-03-15T00:21:22Z,1,2,MERGED
+smarthr-design-system,"Revert ""smarthr-uiをv43.3.0に更新""",https://github.com/kufu/smarthr-design-system/pull/1096,2024-03-14T22:58:55Z,2024-03-14T23:29:11Z,1,1,MERGED
+smarthr-design-system,smarthr-uiをv43.3.0に更新,https://github.com/kufu/smarthr-design-system/pull/1095,2024-03-14T11:13:32Z,2024-03-14T11:22:52Z,1,2,MERGED
+smarthr-design-system,テンプレートとグループに関するガイドラインをUI文言に追加,https://github.com/kufu/smarthr-design-system/pull/1094,2024-03-11T10:16:15Z,2024-03-12T06:51:52Z,1,1,MERGED
+smarthr-design-system,デザインパターン「削除ダイアログ」を大幅に変更,https://github.com/kufu/smarthr-design-system/pull/1093,2024-03-08T05:04:20Z,2024-03-14T02:09:47Z,16,31,MERGED
+smarthr-design-system,タイポを修正,https://github.com/kufu/smarthr-design-system/pull/1092,2024-03-05T07:14:01Z,2024-03-05T07:26:27Z,1,1,MERGED
+smarthr-design-system,テーブル内の一括操作のデザインパターンに「従業員に関連する数え方の表記」の関連リンクを追加＆誤字修正,https://github.com/kufu/smarthr-design-system/pull/1091,2024-03-01T06:27:20Z,2024-03-07T02:37:02Z,1,1,MERGED
+smarthr-design-system,Smarthr UI update 43.0.0,https://github.com/kufu/smarthr-design-system/pull/1090,2024-03-01T04:30:54Z,2024-03-01T05:32:42Z,1,2,MERGED
+smarthr-design-system,重複している「を」削除,https://github.com/kufu/smarthr-design-system/pull/1089,2024-02-28T02:57:45Z,2024-04-18T07:12:46Z,1,1,MERGED
+smarthr-design-system,Tooltipの使用上の注意をより具体化した,https://github.com/kufu/smarthr-design-system/pull/1088,2024-02-21T08:00:32Z,2024-03-12T10:24:49Z,20,10,MERGED
+smarthr-design-system,⬆️: smarthr-ui を v41.3.0 に更新,https://github.com/kufu/smarthr-design-system/pull/1087,2024-02-17T04:07:33Z,2024-02-19T00:29:01Z,1,1,MERGED
+smarthr-design-system,Skitchに関する情報を削除,https://github.com/kufu/smarthr-design-system/pull/1086,2024-02-16T00:31:33Z,2024-02-27T08:46:19Z,1,2,MERGED
+smarthr-design-system,UIテキストに「単位の表記」を追加,https://github.com/kufu/smarthr-design-system/pull/1085,2024-02-15T05:55:00Z,2024-03-01T05:24:46Z,9,7,MERGED
+smarthr-design-system,コンテンツ構成にアクセシビリティを追加,https://github.com/kufu/smarthr-design-system/pull/1084,2024-02-13T03:44:47Z,2024-02-27T09:01:32Z,2,5,MERGED
+smarthr-design-system,SmartHR UIをv41.2.0に更新,https://github.com/kufu/smarthr-design-system/pull/1083,2024-02-09T04:24:51Z,2024-02-16T11:57:16Z,1,2,MERGED
+smarthr-design-system,全角括弧を半角に,https://github.com/kufu/smarthr-design-system/pull/1082,2024-02-05T02:47:27Z,2024-02-05T02:56:00Z,1,1,MERGED
+smarthr-design-system,update smarthr ui to 41.1.2,https://github.com/kufu/smarthr-design-system/pull/1081,2024-02-02T04:27:47Z,2024-02-02T04:33:39Z,1,1,MERGED
+smarthr-design-system,「アイキャッチ」にKeynoteのブログ用アイキャッチテンプレートに関する情報を追記,https://github.com/kufu/smarthr-design-system/pull/1080,2024-01-31T08:55:02Z,2024-02-02T11:20:40Z,2,3,MERGED
+smarthr-design-system,キャリア台帳のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1079,2024-01-31T07:49:56Z,2024-02-01T12:28:00Z,1,1,MERGED
+smarthr-design-system,ヘルプセンターガイドラインにセクション内の並び順について追記,https://github.com/kufu/smarthr-design-system/pull/1078,2024-01-31T07:28:33Z,2024-02-01T10:48:40Z,3,4,MERGED
+smarthr-design-system,表記ルールに[]で囲む/囲まない場合の内容を追記しました,https://github.com/kufu/smarthr-design-system/pull/1077,2024-01-30T08:31:33Z,2024-01-30T08:36:40Z,1,1,MERGED
+smarthr-design-system,typo修正,https://github.com/kufu/smarthr-design-system/pull/1076,2024-01-29T10:03:18Z,2024-01-29T10:47:14Z,1,2,MERGED
+smarthr-design-system,update smarthr-ui to v41.1.0,https://github.com/kufu/smarthr-design-system/pull/1075,2024-01-26T04:10:35Z,2024-01-26T04:14:57Z,1,1,MERGED
+smarthr-design-system,キャリア台帳のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1074,2024-01-23T02:29:01Z,2024-01-31T07:50:19Z,2,2,CLOSED
+smarthr-design-system,表記「コミュニケーショングループ」を最適な表記に修正,https://github.com/kufu/smarthr-design-system/pull/1073,2024-01-22T14:16:10Z,2024-01-23T07:22:47Z,1,1,MERGED
+smarthr-design-system,アイコンパターンを追加,https://github.com/kufu/smarthr-design-system/pull/1072,2024-01-22T13:08:01Z,2024-01-23T07:22:33Z,1,1,MERGED
+smarthr-design-system,SmartHR UI v41.0.0 update,https://github.com/kufu/smarthr-design-system/pull/1068,2024-01-19T04:17:29Z,2024-01-19T04:22:30Z,1,1,MERGED
+smarthr-design-system,⬆️: smarthr-ui を v40.1.3 に更新,https://github.com/kufu/smarthr-design-system/pull/1066,2024-01-15T00:36:17Z,2024-01-15T00:40:20Z,1,1,MERGED
+smarthr-design-system,"Revert ""fix: private-fetch が動作していなそうなので URI を直で書き換え""",https://github.com/kufu/smarthr-design-system/pull/1063,2024-01-11T08:15:02Z,2024-01-11T08:17:36Z,1,1,MERGED
+smarthr-design-system,fix: private-fetch が動作していなそうなので URI を直で書き換え,https://github.com/kufu/smarthr-design-system/pull/1062,2024-01-11T06:53:13Z,2024-01-11T06:55:57Z,1,1,MERGED
+smarthr-design-system,「ヘルプページレビューの手引き」を更新,https://github.com/kufu/smarthr-design-system/pull/1061,2024-01-09T00:54:27Z,2024-01-23T00:16:55Z,3,4,MERGED
+smarthr-design-system,「写真・動画」のコンテンツの内容をindexに掲載,https://github.com/kufu/smarthr-design-system/pull/1059,2024-01-04T09:50:14Z,2024-01-12T01:52:38Z,1,1,MERGED
+smarthr-design-system,SmartHR Design Systemに掲載している表記「SmartHR Plus β版」から「β版」をトル,https://github.com/kufu/smarthr-design-system/pull/1058,2024-01-04T05:26:39Z,2024-01-12T01:51:50Z,1,2,MERGED
+smarthr-design-system,よくあるテーブルのガイドラインを更新,https://github.com/kufu/smarthr-design-system/pull/1179,2024-05-31T12:30:07Z,2024-06-11T01:45:05Z,13,12,MERGED
+smarthr-design-system,SmartHR UI v51.1.0 にupdate,https://github.com/kufu/smarthr-design-system/pull/1178,2024-05-31T04:29:06Z,2024-05-31T09:46:00Z,2,1,MERGED
+smarthr-design-system,ユーザー操作によるエラー状態を追加,https://github.com/kufu/smarthr-design-system/pull/1177,2024-05-29T10:54:46Z,2024-06-14T07:31:53Z,32,25,CLOSED
+smarthr-design-system,バックグラウンド処理受け付けのメッセージについて追記,https://github.com/kufu/smarthr-design-system/pull/1176,2024-05-29T08:19:30Z,2024-05-30T09:20:57Z,1,1,MERGED
+smarthr-design-system,不要なプライベートコンテンツの削除とオープンにできるプライベートコンテンツのパブリック化,https://github.com/kufu/smarthr-design-system/pull/1175,2024-05-27T08:16:49Z,2024-05-29T09:01:11Z,2,4,MERGED
+smarthr-design-system,「ルール」という表記を「基準」に変更,https://github.com/kufu/smarthr-design-system/pull/1173,2024-05-24T09:11:46Z,2024-05-27T01:40:33Z,1,1,MERGED
+smarthr-design-system,Inputのガイドラインを加筆,https://github.com/kufu/smarthr-design-system/pull/1172,2024-05-23T12:44:18Z,2024-06-20T04:49:30Z,23,20,MERGED
+smarthr-design-system,package.jsonのlintとformat scriptをyarn v1以降でも動くように修正,https://github.com/kufu/smarthr-design-system/pull/1171,2024-05-23T12:31:23Z,2024-06-21T08:16:54Z,1,1,CLOSED
+smarthr-design-system,Dropdownの派生コンポーネントへのリンク切れを修正,https://github.com/kufu/smarthr-design-system/pull/1170,2024-05-23T12:24:16Z,2024-05-27T08:15:16Z,2,1,MERGED
+smarthr-design-system,Buttonコンポーネントのガイドラインを更新,https://github.com/kufu/smarthr-design-system/pull/1169,2024-05-23T09:52:32Z,2024-06-12T10:22:37Z,26,1,MERGED
+smarthr-design-system,RadioButtonとRadioButtonPanelのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/1168,2024-05-23T06:34:04Z,2024-06-14T09:32:21Z,49,45,MERGED
+smarthr-design-system,LineClampに使用上の注意を追加した,https://github.com/kufu/smarthr-design-system/pull/1167,2024-05-22T01:42:23Z,2024-06-10T06:15:31Z,5,10,MERGED
+smarthr-design-system,🆙 smarthr-ui を v50.1.0 に更新,https://github.com/kufu/smarthr-design-system/pull/1166,2024-05-22T01:31:20Z,2024-05-22T01:58:29Z,1,1,MERGED
+smarthr-design-system,feat: 取り返しのつかない操作を追加,https://github.com/kufu/smarthr-design-system/pull/1165,2024-05-21T11:38:37Z,2024-05-22T01:02:22Z,1,1,MERGED
+smarthr-design-system,ErrorScreenの使用上の注意を追加する,https://github.com/kufu/smarthr-design-system/pull/1164,2024-05-21T07:38:49Z,2024-06-18T07:07:46Z,50,62,MERGED
+smarthr-design-system,構成の組み換えの案を作成,https://github.com/kufu/smarthr-design-system/pull/1163,2024-05-20T08:42:36Z,2024-07-08T01:14:59Z,3,4,CLOSED
+smarthr-design-system,ライティングガイドライン内の遷移先リンク名＆URL変更,https://github.com/kufu/smarthr-design-system/pull/1162,2024-05-17T04:33:19Z,2024-05-17T06:04:42Z,2,1,MERGED
+smarthr-design-system,🆙 smarthr-ui を v50.0.0 に更新,https://github.com/kufu/smarthr-design-system/pull/1161,2024-05-16T02:49:43Z,2024-05-17T05:18:01Z,1,4,MERGED
+smarthr-design-system,PageIndexの修正,https://github.com/kufu/smarthr-design-system/pull/1160,2024-05-15T08:52:31Z,2024-05-21T00:56:02Z,3,2,MERGED
+smarthr-design-system,Checkboxの概要説明とキャプチャのタイトルを修正,https://github.com/kufu/smarthr-design-system/pull/1159,2024-05-15T07:19:39Z,2024-05-16T04:23:12Z,2,2,MERGED
+smarthr-design-system,フィードバックのデザインパターンを追加,https://github.com/kufu/smarthr-design-system/pull/1158,2024-05-14T08:38:05Z,2024-06-12T01:35:52Z,45,21,MERGED
+smarthr-design-system,DefinitionListの基準を追加,https://github.com/kufu/smarthr-design-system/pull/1157,2024-05-14T07:14:43Z,2024-06-05T01:48:22Z,10,10,MERGED
+smarthr-design-system,不要な CSV（static/csv）を消す,https://github.com/kufu/smarthr-design-system/pull/1156,2024-05-13T07:24:59Z,2024-05-13T08:12:33Z,1,3,MERGED
+smarthr-design-system,feat: 取り返しのつかない操作のページを追加,https://github.com/kufu/smarthr-design-system/pull/1155,2024-05-13T04:47:01Z,2024-05-21T11:22:12Z,11,6,CLOSED
+smarthr-design-system,test,https://github.com/kufu/smarthr-design-system/pull/1154,2024-05-10T07:52:29Z,2024-05-10T08:31:11Z,1,2,CLOSED
+smarthr-design-system,update to v49.0.0,https://github.com/kufu/smarthr-design-system/pull/1153,2024-05-10T07:19:25Z,2024-05-13T06:42:35Z,2,2,CLOSED
+smarthr-design-system,Comboboxのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/1152,2024-05-07T07:13:28Z,2024-05-22T04:08:14Z,19,20,MERGED
+smarthr-design-system,SmartHRのホームの画面キャプチャを差し替え,https://github.com/kufu/smarthr-design-system/pull/1151,2024-05-02T01:03:19Z,2024-05-02T04:03:33Z,1,1,MERGED
+smarthr-design-system,CompactInformationPanelを非推奨にする,https://github.com/kufu/smarthr-design-system/pull/1150,2024-04-30T09:53:01Z,2024-05-09T03:02:27Z,2,3,MERGED
+smarthr-design-system,Add discription page-counter.mdx,https://github.com/kufu/smarthr-design-system/pull/1149,2024-04-30T07:14:49Z,2024-04-30T07:30:06Z,3,3,MERGED
+smarthr-design-system,smarthr-uiをv48.0.0に更新,https://github.com/kufu/smarthr-design-system/pull/1148,2024-04-26T04:25:06Z,2024-04-26T05:20:37Z,1,3,MERGED
+smarthr-design-system,UIデザイン使用性チェックリストのテーブルの見た目を変更,https://github.com/kufu/smarthr-design-system/pull/1147,2024-04-24T08:12:59Z,2024-04-25T05:25:35Z,1,2,MERGED
+smarthr-design-system,チェックボックスのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/1146,2024-04-23T08:24:36Z,2024-04-26T10:19:37Z,15,20,MERGED
+smarthr-design-system,InformationPanelに使用上の注意を追加する,https://github.com/kufu/smarthr-design-system/pull/1145,2024-04-23T07:56:59Z,2024-06-21T03:33:52Z,21,18,MERGED
+smarthr-design-system,削除ダイアログの軽微な修正,https://github.com/kufu/smarthr-design-system/pull/1144,2024-04-23T07:47:47Z,2024-04-23T07:57:06Z,1,1,MERGED
+smarthr-design-system,DropdownMenuButtonの目次の順番を変更,https://github.com/kufu/smarthr-design-system/pull/1143,2024-04-23T01:23:00Z,2024-04-23T07:23:42Z,1,1,MERGED
+smarthr-design-system,Textの内容を充実、デザイントークンからリンク,https://github.com/kufu/smarthr-design-system/pull/1142,2024-04-22T10:43:22Z,2024-04-23T03:06:51Z,1,3,MERGED
+smarthr-design-system,SegmentedControlの概要と使用上の注意を追加,https://github.com/kufu/smarthr-design-system/pull/1141,2024-04-22T08:27:48Z,2024-06-18T04:39:18Z,21,14,MERGED
+smarthr-design-system,DropdownMenuButtonをアップデート,https://github.com/kufu/smarthr-design-system/pull/1140,2024-04-22T08:05:42Z,2024-04-23T01:08:50Z,2,4,MERGED
+smarthr-design-system,SmartHR UI アップデート　,https://github.com/kufu/smarthr-design-system/pull/1138,2024-04-19T04:27:33Z,2024-04-19T05:15:14Z,1,1,MERGED
+smarthr-design-system,いえーい、みてるー?,https://github.com/kufu/smarthr-design-system/pull/1137,2024-04-17T12:42:48Z,2024-04-17T14:16:56Z,2,1,CLOSED
+smarthr-design-system,CODEOWNERS の指定ミスを修正,https://github.com/kufu/smarthr-design-system/pull/1136,2024-04-17T12:14:51Z,2024-04-17T12:25:20Z,1,1,MERGED
+smarthr-design-system,test: reviewers の自動アサイン確認三度,https://github.com/kufu/smarthr-design-system/pull/1135,2024-04-17T12:11:19Z,2024-04-17T12:25:03Z,1,1,CLOSED
+smarthr-design-system,test: reviewer の自動アサイン確認ふたたび,https://github.com/kufu/smarthr-design-system/pull/1134,2024-04-17T09:24:25Z,2024-04-17T12:25:19Z,2,1,CLOSED
+smarthr-design-system,[TEST] いえーい、みてるー?,https://github.com/kufu/smarthr-design-system/pull/1133,2024-04-17T07:53:11Z,2024-04-17T08:00:06Z,2,2,CLOSED
+smarthr-design-system,🔧: CODEOWNERS を追加,https://github.com/kufu/smarthr-design-system/pull/1132,2024-04-17T07:42:47Z,2024-04-17T07:46:33Z,1,1,MERGED
+smarthr-design-system,StatusLabelのコンポーネントのガイドラインに使用上の注意を追加する,https://github.com/kufu/smarthr-design-system/pull/1131,2024-04-17T02:55:39Z,2024-04-22T09:35:00Z,2,2,MERGED
+smarthr-design-system,Almostなコンポーネントの基準の充足（その1）,https://github.com/kufu/smarthr-design-system/pull/1130,2024-04-16T11:20:19Z,2024-04-17T03:04:07Z,13,15,MERGED
+smarthr-design-system,Update PULL_REQUEST_TEMPLATE.md,https://github.com/kufu/smarthr-design-system/pull/1129,2024-04-16T10:56:46Z,2024-04-17T03:02:01Z,1,1,MERGED
+smarthr-design-system,FormContorlに追記（エラーメッセージを表示を止めるタイミングについて）,https://github.com/kufu/smarthr-design-system/pull/1128,2024-04-16T09:36:44Z,2024-04-16T13:22:56Z,1,2,MERGED
+smarthr-design-system,Selectコンポーネントのガイドラインに使用上の注意を追加する,https://github.com/kufu/smarthr-design-system/pull/1127,2024-04-16T09:09:45Z,2024-05-14T01:36:35Z,26,20,MERGED
+smarthr-design-system,モーダルなUIの基準,https://github.com/kufu/smarthr-design-system/pull/1126,2024-04-15T21:03:56Z,2024-05-20T05:26:32Z,55,41,MERGED
+smarthr-design-system,コンポーネント配下のページのdescriptionを追記,https://github.com/kufu/smarthr-design-system/pull/1125,2024-04-15T09:26:35Z,2024-04-16T01:21:12Z,1,4,MERGED
+smarthr-design-system,カスタム社員名簿機能と組織図機能のアイコンを削除,https://github.com/kufu/smarthr-design-system/pull/1121,2024-04-12T02:11:25Z,2024-04-12T05:47:44Z,1,3,MERGED
+smarthr-design-system,🆙 smarthr-ui v46.0.1 に追従,https://github.com/kufu/smarthr-design-system/pull/1120,2024-04-12T01:49:48Z,2024-04-12T11:09:59Z,5,5,MERGED
+smarthr-design-system,「つくる」を表す文言のガイドラインのアップデート,https://github.com/kufu/smarthr-design-system/pull/1119,2024-04-11T02:32:44Z,2024-04-22T01:01:07Z,11,7,MERGED
+smarthr-design-system,👽: smarthr-ui の Storybook v8 対応に追従。,https://github.com/kufu/smarthr-design-system/pull/1118,2024-04-10T07:46:09Z,2024-04-10T08:11:03Z,1,2,MERGED
+smarthr-design-system,[WIP]デプロイの修正の検証,https://github.com/kufu/smarthr-design-system/pull/1117,2024-04-10T07:07:57Z,2024-04-10T08:11:29Z,1,2,CLOSED
+smarthr-design-system,[Merge禁止] ビルド修正,https://github.com/kufu/smarthr-design-system/pull/1116,2024-04-10T04:53:46Z,2024-04-10T08:35:40Z,2,1,CLOSED
+smarthr-design-system,TextLinkのアイコンのパターンを記述するページを整理,https://github.com/kufu/smarthr-design-system/pull/1114,2024-04-09T03:21:20Z,2024-04-16T03:06:26Z,3,8,MERGED
+smarthr-design-system,fix: ローカル環境が立ち上がらない問題の修正,https://github.com/kufu/smarthr-design-system/pull/1112,2024-04-05T06:10:36Z,2024-04-11T00:58:11Z,3,1,CLOSED
+smarthr-design-system,fix: ログイン時のコメントを追加,https://github.com/kufu/smarthr-design-system/pull/1111,2024-04-03T04:12:38Z,2024-04-03T08:22:02Z,2,1,CLOSED
+smarthr-design-system,ログイン機能が不安定な状態を暫定的に回避する,https://github.com/kufu/smarthr-design-system/pull/1110,2024-04-03T03:33:31Z,2024-04-11T00:57:08Z,2,3,MERGED
+smarthr-design-system,fix: mainブランチにpushされた時にnetlifyへdeployされるように変更,https://github.com/kufu/smarthr-design-system/pull/1109,2024-04-02T07:32:30Z,2024-04-05T03:21:33Z,2,1,CLOSED
+smarthr-design-system,IdPのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1248,2024-07-31T05:48:11Z,2024-08-01T04:15:52Z,1,3,MERGED
+smarthr-design-system,デザインシステムサイト更新v53.0.0 → v54.0.0,https://github.com/kufu/smarthr-design-system/pull/1247,2024-07-26T03:57:16Z,2024-07-26T09:14:43Z,1,2,MERGED
+smarthr-design-system,SmartHR UI更新追従 v53.0.0 → v53.1.0,https://github.com/kufu/smarthr-design-system/pull/1246,2024-07-19T04:43:29Z,2024-07-22T07:36:14Z,1,1,MERGED
+smarthr-design-system,smarthr-uiをv53.0.0へ更新,https://github.com/kufu/smarthr-design-system/pull/1245,2024-07-12T04:06:50Z,2024-07-12T05:11:18Z,1,2,MERGED
+smarthr-design-system,リンク切れを修正,https://github.com/kufu/smarthr-design-system/pull/1244,2024-07-11T06:11:16Z,2024-07-11T06:29:10Z,1,1,CLOSED
+smarthr-design-system,写真・動画 > コンテンツ内容のURLを変更,https://github.com/kufu/smarthr-design-system/pull/1243,2024-07-11T05:57:41Z,2024-07-12T01:09:50Z,3,6,MERGED
+smarthr-design-system,Update data.mdx,https://github.com/kufu/smarthr-design-system/pull/1242,2024-07-08T04:15:33Z,2024-10-10T04:22:54Z,20,77,MERGED
+smarthr-design-system,SmartHR UI更新 v52.1.0 → v52.2.0,https://github.com/kufu/smarthr-design-system/pull/1241,2024-07-04T05:16:04Z,2024-07-04T09:43:55Z,8,9,MERGED
+smarthr-design-system,💬: デフォルト値が入力できるコンポーネントを列挙し、並び替え,https://github.com/kufu/smarthr-design-system/pull/1239,2024-06-28T10:57:21Z,2024-11-05T03:06:27Z,1,1,CLOSED
+smarthr-design-system,✏️: Fixing typos.,https://github.com/kufu/smarthr-design-system/pull/1238,2024-06-28T10:50:38Z,2024-07-10T02:39:33Z,1,1,MERGED
+smarthr-design-system,UIデザイン使用性チェックリストを最新に更新 その2,https://github.com/kufu/smarthr-design-system/pull/1237,2024-06-28T10:37:01Z,2024-06-28T10:45:25Z,1,1,MERGED
+smarthr-design-system,UIデザイン使用性チェックリストを最新に更新,https://github.com/kufu/smarthr-design-system/pull/1236,2024-06-28T10:26:51Z,2024-06-28T10:33:01Z,1,1,MERGED
+smarthr-design-system,⬆️: smarthr-ui を v52.1.0 に更新,https://github.com/kufu/smarthr-design-system/pull/1235,2024-06-28T08:23:53Z,2024-07-04T07:40:02Z,1,1,MERGED
+smarthr-design-system,👷: yarn dev がよくコケるので predev で gatsby clean する,https://github.com/kufu/smarthr-design-system/pull/1234,2024-06-28T06:55:29Z,2024-07-10T02:39:20Z,1,1,MERGED
+smarthr-design-system,ページレイアウトを追加,https://github.com/kufu/smarthr-design-system/pull/1233,2024-06-28T01:51:24Z,2024-06-28T10:08:37Z,20,18,MERGED
+smarthr-design-system,Textareaの見出しレベルを修正する,https://github.com/kufu/smarthr-design-system/pull/1232,2024-06-27T09:15:57Z,2024-06-28T00:58:58Z,1,1,MERGED
+smarthr-design-system,fix: 「コンテンツ」カテゴリ名を「ライティング」に変更,https://github.com/kufu/smarthr-design-system/pull/1231,2024-06-27T08:49:42Z,2024-06-28T01:59:02Z,1,1,MERGED
+smarthr-design-system,MultiComboBox の「6個以上」の解説にSelectで使っていた一文を追加する,https://github.com/kufu/smarthr-design-system/pull/1230,2024-06-27T07:57:36Z,2024-08-05T07:03:50Z,1,1,MERGED
+smarthr-design-system,採用管理のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1229,2024-06-27T05:38:33Z,2024-06-27T06:43:57Z,1,4,MERGED
+smarthr-design-system,BottomFixedAreaとFloatAreaを更新,https://github.com/kufu/smarthr-design-system/pull/1228,2024-06-27T03:17:21Z,2024-10-28T00:17:45Z,18,8,CLOSED
+smarthr-design-system,デフォルト値を追加,https://github.com/kufu/smarthr-design-system/pull/1227,2024-06-27T01:48:43Z,2024-06-28T10:18:57Z,16,26,MERGED
+smarthr-design-system,Add default value renewal,https://github.com/kufu/smarthr-design-system/pull/1226,2024-06-27T01:29:47Z,2024-06-27T01:29:52Z,1,26,CLOSED
+smarthr-design-system,♻️: アクションボタンを操作ボタンに置き換え,https://github.com/kufu/smarthr-design-system/pull/1225,2024-06-26T05:02:48Z,2024-11-05T03:06:00Z,1,1,CLOSED
+smarthr-design-system,💬: SegmentedControl の記述から submit の概念を消す提案,https://github.com/kufu/smarthr-design-system/pull/1224,2024-06-26T03:57:48Z,2024-07-10T04:39:32Z,1,1,MERGED
+smarthr-design-system,InformationPanelにDo/Don'tの画像を追加する,https://github.com/kufu/smarthr-design-system/pull/1223,2024-06-26T02:52:35Z,2024-06-27T09:42:08Z,1,4,MERGED
+smarthr-design-system,♿️: TabBar 内アイコンの使い方を補足,https://github.com/kufu/smarthr-design-system/pull/1222,2024-06-26T02:49:10Z,2024-06-27T00:26:49Z,2,2,MERGED
+smarthr-design-system,InputFile/DropZoneの基準を追加,https://github.com/kufu/smarthr-design-system/pull/1221,2024-06-25T09:06:54Z,2024-06-27T02:20:37Z,7,4,MERGED
+smarthr-design-system,AccordionPanelのガイドライン更新,https://github.com/kufu/smarthr-design-system/pull/1220,2024-06-24T10:05:42Z,2024-06-27T00:34:29Z,16,9,MERGED
+smarthr-design-system,SideNavの使用基準を追加,https://github.com/kufu/smarthr-design-system/pull/1219,2024-06-24T08:11:57Z,2024-06-27T09:24:12Z,9,4,MERGED
+smarthr-design-system,Textareaのガイドラインを追加する,https://github.com/kufu/smarthr-design-system/pull/1218,2024-06-24T07:59:40Z,2024-06-25T07:26:26Z,10,12,MERGED
+smarthr-design-system,FilterDropdownの使い分けを追加,https://github.com/kufu/smarthr-design-system/pull/1217,2024-06-24T07:32:36Z,2024-06-28T01:24:02Z,13,10,MERGED
+smarthr-design-system,SmartHR UI更新 v51.2.0 → v52.0.1,https://github.com/kufu/smarthr-design-system/pull/1216,2024-06-21T05:34:53Z,2024-06-21T06:13:40Z,1,1,MERGED
+smarthr-design-system,Dialog群のStoryを一時的に変更,https://github.com/kufu/smarthr-design-system/pull/1215,2024-06-21T04:09:13Z,2024-06-21T06:15:36Z,2,1,CLOSED
+smarthr-design-system,NotificationBarのガイドラインをアップデート,https://github.com/kufu/smarthr-design-system/pull/1214,2024-06-20T10:10:29Z,2024-06-27T00:51:28Z,14,12,MERGED
+smarthr-design-system,アクセシビリティ簡易チェックリストの詳細ページ（ガイドライン）を追加する,https://github.com/kufu/smarthr-design-system/pull/1213,2024-06-19T13:58:06Z,2024-08-09T01:29:58Z,87,40,MERGED
+smarthr-design-system,Dialogコンポーネント群の説明の共通部分を別ファイルとして管理,https://github.com/kufu/smarthr-design-system/pull/1212,2024-06-19T08:12:10Z,2024-06-19T08:13:35Z,0,4,MERGED
+smarthr-design-system,デフォルト値を追加,https://github.com/kufu/smarthr-design-system/pull/1211,2024-06-19T00:35:17Z,2024-06-27T01:24:55Z,19,24,CLOSED
+smarthr-design-system,Chipの基準を追加する,https://github.com/kufu/smarthr-design-system/pull/1210,2024-06-18T16:31:22Z,2024-06-21T03:45:11Z,16,15,MERGED
+smarthr-design-system,コンポーネントのテンプレートに「{コンポーネント名}を使用したコンポーネント」を追加,https://github.com/kufu/smarthr-design-system/pull/1209,2024-06-18T10:46:42Z,2024-06-19T01:45:36Z,2,3,MERGED
+smarthr-design-system,削除ダイアログを更新,https://github.com/kufu/smarthr-design-system/pull/1208,2024-06-18T08:16:56Z,2024-06-20T02:05:50Z,5,10,MERGED
+smarthr-design-system,「フィードバック」が作成されたのに伴う更新,https://github.com/kufu/smarthr-design-system/pull/1207,2024-06-18T08:06:06Z,2024-06-20T02:05:01Z,1,7,MERGED
+smarthr-design-system,[Proposal] 記事の幅を広げる,https://github.com/kufu/smarthr-design-system/pull/1206,2024-06-17T01:24:25Z,2024-12-18T06:05:44Z,1,1,CLOSED
+smarthr-design-system,Dialogを更新,https://github.com/kufu/smarthr-design-system/pull/1205,2024-06-14T11:35:17Z,2024-06-21T03:32:18Z,26,58,MERGED
+smarthr-design-system,ModelessDialogを分離,https://github.com/kufu/smarthr-design-system/pull/1204,2024-06-14T08:50:50Z,2024-06-14T11:33:59Z,0,1,MERGED
+smarthr-design-system,MessageDialogを分離,https://github.com/kufu/smarthr-design-system/pull/1203,2024-06-14T08:20:57Z,2024-06-14T11:33:44Z,0,1,MERGED
+smarthr-design-system,ActionDialogを分離,https://github.com/kufu/smarthr-design-system/pull/1202,2024-06-14T08:13:16Z,2024-06-14T11:33:34Z,0,1,MERGED
+smarthr-design-system,Dialogを更新,https://github.com/kufu/smarthr-design-system/pull/1201,2024-06-14T08:03:02Z,2024-06-14T11:32:58Z,0,1,MERGED
+smarthr-design-system,SmartHR UI更新 v51.1.1 → v51.2.0,https://github.com/kufu/smarthr-design-system/pull/1200,2024-06-14T07:17:21Z,2024-06-14T07:47:54Z,1,1,MERGED
+smarthr-design-system,TabBarの基準を追加,https://github.com/kufu/smarthr-design-system/pull/1199,2024-06-14T05:59:24Z,2024-06-21T09:28:00Z,6,8,MERGED
+smarthr-design-system,「Table」のガイドラインを更新,https://github.com/kufu/smarthr-design-system/pull/1198,2024-06-14T02:22:53Z,2024-06-14T06:30:33Z,1,3,MERGED
+smarthr-design-system,新機能HRアナリティクスのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1197,2024-06-14T00:13:26Z,2024-06-19T02:56:24Z,1,3,MERGED
+smarthr-design-system,💬: 同期処理の “同期” を読み違える可能性があったので “同期的な” に修正,https://github.com/kufu/smarthr-design-system/pull/1196,2024-06-13T08:48:10Z,2024-06-17T01:49:23Z,1,1,MERGED
+smarthr-design-system,エラーの回復の記述をフィードバックとバックグラウンド処理に追加,https://github.com/kufu/smarthr-design-system/pull/1195,2024-06-13T06:25:48Z,2024-06-18T00:59:02Z,10,13,MERGED
+smarthr-design-system,👷: ログインが不安定なために定期実行していた rebuild を消す,https://github.com/kufu/smarthr-design-system/pull/1194,2024-06-13T06:19:46Z,2024-06-13T06:26:30Z,1,1,MERGED
+smarthr-design-system,デザインパターンのテンプレートに「用語定義」を追加、既存のガイドラインを追従修正,https://github.com/kufu/smarthr-design-system/pull/1193,2024-06-13T03:21:51Z,2024-06-14T09:34:13Z,3,7,MERGED
+smarthr-design-system,別ブランチのadd-guideline-buttonで行なった修正内容を反映するコミット,https://github.com/kufu/smarthr-design-system/pull/1192,2024-06-12T09:14:42Z,2024-06-12T09:16:19Z,1,1,CLOSED
+smarthr-design-system,✨: モバイル対応を書く,https://github.com/kufu/smarthr-design-system/pull/1191,2024-06-12T07:50:49Z,2024-06-28T08:40:04Z,42,20,MERGED
+smarthr-design-system,「余白の取り方」のガイドラインを更新,https://github.com/kufu/smarthr-design-system/pull/1190,2024-06-12T06:07:00Z,2024-06-27T00:50:18Z,33,44,MERGED
+smarthr-design-system,UIデザイン使用性チェックリストの対応状況をアップデート（2024.06.11）,https://github.com/kufu/smarthr-design-system/pull/1189,2024-06-11T03:29:41Z,2024-06-12T02:16:46Z,1,3,MERGED
+smarthr-design-system,DoAndDontコンポーネントにwidthプロパティを追加、使用ページの修正,https://github.com/kufu/smarthr-design-system/pull/1188,2024-06-07T09:08:43Z,2024-06-07T09:45:24Z,1,6,MERGED
+smarthr-design-system,SD-778「つくる」ガイドの更新を他ガイドにも反映する,https://github.com/kufu/smarthr-design-system/pull/1187,2024-06-07T08:40:55Z,2024-06-17T08:16:46Z,2,2,MERGED
+smarthr-design-system,🔥: ログイン関連コンポーネントと記述を消す,https://github.com/kufu/smarthr-design-system/pull/1186,2024-06-07T08:20:54Z,2024-06-07T09:23:29Z,3,2,MERGED
+smarthr-design-system,💬: プライベートコンテンツの文言を公開,https://github.com/kufu/smarthr-design-system/pull/1185,2024-06-07T06:31:51Z,2024-06-07T08:28:16Z,1,1,MERGED
+smarthr-design-system,smarthr-uiをv51.1.1に更新,https://github.com/kufu/smarthr-design-system/pull/1184,2024-06-07T04:16:03Z,2024-06-07T07:56:36Z,1,1,MERGED
+smarthr-design-system,「視線誘導の基準」を追加,https://github.com/kufu/smarthr-design-system/pull/1183,2024-06-04T10:37:17Z,2024-06-12T01:56:16Z,4,21,MERGED
+smarthr-design-system,学習管理機能のアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1182,2024-06-04T09:47:54Z,2024-06-06T01:50:41Z,1,2,MERGED
+smarthr-design-system,ヘルプのタイトル変更にあわせて、ヘルプへのリンクテキストを修正,https://github.com/kufu/smarthr-design-system/pull/1181,2024-06-04T08:52:48Z,2024-06-05T01:10:37Z,1,1,MERGED
+smarthr-design-system,画像のパスを実際のファイルの位置に変更,https://github.com/kufu/smarthr-design-system/pull/1180,2024-06-03T02:30:17Z,2024-06-04T04:44:02Z,1,1,MERGED
+smarthr-design-system,アクセシビリティのトップページから品質基準ページ（プロダクト内）へリンクさせる,https://github.com/kufu/smarthr-design-system/pull/1356,2024-10-31T05:01:04Z,2024-11-01T01:14:45Z,1,3,MERGED
+smarthr-design-system,デザインパターン「視覚的グルーピング」を追加,https://github.com/kufu/smarthr-design-system/pull/1355,2024-10-30T05:51:54Z,2024-12-03T04:21:38Z,41,28,MERGED
+smarthr-design-system,変数名・Propsのオプション名を変更,https://github.com/kufu/smarthr-design-system/pull/1354,2024-10-30T04:19:12Z,2024-10-30T04:19:52Z,1,3,MERGED
+smarthr-design-system,やさしい日本語のガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/1353,2024-10-29T10:09:31Z,2024-11-01T01:14:32Z,18,9,MERGED
+smarthr-design-system,プリフェッチを有効化,https://github.com/kufu/smarthr-design-system/pull/1352,2024-10-29T08:40:16Z,2024-10-29T08:54:55Z,1,1,MERGED
+smarthr-design-system,fix: GitHubのリンク先がファイルになっていたので修正,https://github.com/kufu/smarthr-design-system/pull/1351,2024-10-29T07:39:46Z,2024-10-29T08:37:27Z,0,1,MERGED
+smarthr-design-system,(WIP)「取り返しのつかない操作」を「注意が必要な操作」に変更,https://github.com/kufu/smarthr-design-system/pull/1350,2024-10-29T06:41:07Z,2024-11-07T01:38:28Z,2,2,CLOSED
+smarthr-design-system,📝: レイヤー順序に FloatArea を追加,https://github.com/kufu/smarthr-design-system/pull/1349,2024-10-29T04:16:02Z,2024-10-30T03:51:33Z,1,1,MERGED
+smarthr-design-system,アイランドコンポーネント部分のレイアウトシフトを軽減・改善,https://github.com/kufu/smarthr-design-system/pull/1348,2024-10-29T02:36:31Z,2024-10-29T06:52:11Z,1,4,MERGED
+smarthr-design-system,AppNaviを「［｛機能名｝］メニュー」と表記する用字用語を追加,https://github.com/kufu/smarthr-design-system/pull/1347,2024-10-28T07:17:52Z,2024-10-28T07:58:58Z,1,1,MERGED
+smarthr-design-system,細かな誤字やリンク切れの修正、画像差し替えを行ないました,https://github.com/kufu/smarthr-design-system/pull/1346,2024-10-28T06:47:40Z,2024-10-28T07:02:43Z,1,3,MERGED
+smarthr-design-system,PropTableのタグが適切に改行されず突き抜ける場合がある,https://github.com/kufu/smarthr-design-system/pull/1345,2024-10-28T05:01:58Z,2024-10-29T06:52:27Z,0,1,MERGED
+smarthr-design-system,ComponentStoryのレイアウトシフトを軽減,https://github.com/kufu/smarthr-design-system/pull/1344,2024-10-28T04:53:26Z,2024-10-29T05:31:17Z,0,1,MERGED
+smarthr-design-system,（再度）BottomFixedAreaとFloatAreaを更新,https://github.com/kufu/smarthr-design-system/pull/1343,2024-10-28T00:16:30Z,2024-11-01T02:15:27Z,10,19,MERGED
+smarthr-design-system,DoAndDontのslot名をtextからlabelに変更,https://github.com/kufu/smarthr-design-system/pull/1342,2024-10-25T08:40:13Z,2024-10-25T08:41:06Z,1,1,MERGED
+smarthr-design-system,テンプレートに変更になった書式について追記,https://github.com/kufu/smarthr-design-system/pull/1341,2024-10-25T05:46:33Z,2024-10-28T05:02:33Z,0,3,MERGED
+smarthr-design-system,SmartHR UIをv59.0.0へ更新,https://github.com/kufu/smarthr-design-system/pull/1340,2024-10-25T04:18:04Z,2024-10-25T05:02:07Z,1,1,MERGED
+smarthr-design-system,記事ページの修正,https://github.com/kufu/smarthr-design-system/pull/1339,2024-10-25T03:03:14Z,2024-10-28T02:25:55Z,1,14,MERGED
+smarthr-design-system,管理者が何を指すのかを明確にする,https://github.com/kufu/smarthr-design-system/pull/1338,2024-10-24T03:00:20Z,2024-10-29T08:51:20Z,1,1,MERGED
+smarthr-design-system,検索結果にaria-live属性を追加,https://github.com/kufu/smarthr-design-system/pull/1337,2024-10-23T08:27:53Z,2024-10-23T08:32:03Z,0,1,MERGED
+smarthr-design-system,使用していないスタイル関係の定数を削除,https://github.com/kufu/smarthr-design-system/pull/1336,2024-10-23T08:23:56Z,2024-10-23T08:30:15Z,1,1,MERGED
+smarthr-design-system,Algoliaのインデックスを更新するスクリプトを修正,https://github.com/kufu/smarthr-design-system/pull/1335,2024-10-23T07:45:23Z,2024-10-23T08:29:41Z,2,4,MERGED
+smarthr-design-system,fix(workflow): 実行できるように修正,https://github.com/kufu/smarthr-design-system/pull/1334,2024-10-23T04:42:37Z,2024-10-23T08:16:17Z,1,2,MERGED
+smarthr-design-system,"fix: Markdownの書式でCodeBlockのlayout=""product""が指定できない",https://github.com/kufu/smarthr-design-system/pull/1333,2024-10-22T08:38:50Z,2024-10-23T05:37:29Z,0,1,MERGED
+smarthr-design-system,不要になった codeBlock の指定を削除,https://github.com/kufu/smarthr-design-system/pull/1332,2024-10-22T07:02:23Z,2024-10-22T08:35:49Z,0,1,MERGED
+smarthr-design-system,Textlintのプラグイン追加・lintの修正,https://github.com/kufu/smarthr-design-system/pull/1331,2024-10-22T02:24:24Z,2024-10-22T07:03:18Z,0,3,MERGED
+smarthr-design-system,直接CustomLinkを使っていた箇所をMarkdown記法に修正,https://github.com/kufu/smarthr-design-system/pull/1330,2024-10-22T01:09:30Z,2024-10-22T01:09:55Z,1,2,MERGED
+smarthr-design-system,ドキュメントを更新,https://github.com/kufu/smarthr-design-system/pull/1329,2024-10-22T00:48:33Z,2024-10-22T00:49:14Z,1,7,MERGED
+smarthr-design-system,fix: サイドバーの挙動を修正,https://github.com/kufu/smarthr-design-system/pull/1328,2024-10-21T07:54:19Z,2024-10-21T07:55:01Z,0,1,MERGED
+smarthr-design-system,記事ページのレイアウト崩れを修正,https://github.com/kufu/smarthr-design-system/pull/1327,2024-10-21T07:06:10Z,2024-10-21T07:06:40Z,1,7,MERGED
+smarthr-design-system,fix: コンポーネント一覧に表示されていないものがある,https://github.com/kufu/smarthr-design-system/pull/1326,2024-10-21T04:28:48Z,2024-10-21T04:35:10Z,0,1,MERGED
+smarthr-design-system,ComponentStoryを改修,https://github.com/kufu/smarthr-design-system/pull/1325,2024-10-18T08:53:37Z,2024-10-18T08:53:53Z,0,2,MERGED
+smarthr-design-system,(Astro) SmartHR UI を v58.1.2 に更新,https://github.com/kufu/smarthr-design-system/pull/1324,2024-10-18T07:40:49Z,2024-10-18T07:41:46Z,1,2,MERGED
+smarthr-design-system,レイアウトの差異を修正,https://github.com/kufu/smarthr-design-system/pull/1323,2024-10-18T07:31:48Z,2024-10-18T07:32:35Z,1,30,MERGED
+smarthr-design-system,SmartHR UI をv58.1.2にアップデート,https://github.com/kufu/smarthr-design-system/pull/1322,2024-10-18T02:54:36Z,2024-10-18T03:38:01Z,1,1,MERGED
+smarthr-design-system,戻り値の名前を変更,https://github.com/kufu/smarthr-design-system/pull/1321,2024-10-17T03:14:42Z,2024-10-17T03:14:48Z,0,1,MERGED
+smarthr-design-system,fix: リンクテキストの左右に空白文字が入っている,https://github.com/kufu/smarthr-design-system/pull/1320,2024-10-17T02:58:19Z,2024-10-17T02:58:57Z,1,4,MERGED
+smarthr-design-system,SelectとRadioButtonのデフォルト値に関する説明を修正,https://github.com/kufu/smarthr-design-system/pull/1319,2024-10-16T10:07:07Z,2024-10-23T01:48:23Z,5,3,MERGED
+smarthr-design-system,fix: ページタイトルの形式が異なる,https://github.com/kufu/smarthr-design-system/pull/1318,2024-10-16T09:05:18Z,2024-10-17T02:56:27Z,1,1,MERGED
+smarthr-design-system,GTMを追加,https://github.com/kufu/smarthr-design-system/pull/1317,2024-10-16T08:34:30Z,2024-10-22T08:36:02Z,0,3,MERGED
+smarthr-design-system,404ページを実装,https://github.com/kufu/smarthr-design-system/pull/1316,2024-10-16T07:56:20Z,2024-10-22T07:03:35Z,0,1,MERGED
+smarthr-design-system,トップページを実装,https://github.com/kufu/smarthr-design-system/pull/1315,2024-10-16T07:46:49Z,2024-10-17T03:02:43Z,1,10,MERGED
+smarthr-design-system,アクセシビリティの検証結果ページにスキル管理を追加,https://github.com/kufu/smarthr-design-system/pull/1314,2024-10-16T07:35:47Z,2024-11-07T01:48:33Z,5,8,MERGED
+smarthr-design-system,pre-commit時にastro checkを実行するように,https://github.com/kufu/smarthr-design-system/pull/1313,2024-10-16T05:24:53Z,2024-10-16T05:25:01Z,0,3,MERGED
+smarthr-design-system,不要なファイルを削除・コメントを追加,https://github.com/kufu/smarthr-design-system/pull/1312,2024-10-16T05:13:34Z,2024-10-16T05:13:41Z,0,3,MERGED
+smarthr-design-system,buildでastro checkを実行しないように,https://github.com/kufu/smarthr-design-system/pull/1311,2024-10-16T04:31:38Z,2024-10-16T04:32:07Z,0,1,MERGED
+smarthr-design-system,lintのエラーを修正,https://github.com/kufu/smarthr-design-system/pull/1310,2024-10-16T04:19:43Z,2024-10-16T04:19:54Z,0,1,MERGED
+smarthr-design-system,Gatsby -> Astro 移行,https://github.com/kufu/smarthr-design-system/pull/1309,2024-10-16T04:12:33Z,2024-11-15T01:44:12Z,1,421,MERGED
+smarthr-design-system,検索を実装,https://github.com/kufu/smarthr-design-system/pull/1308,2024-10-16T02:06:14Z,2024-10-16T04:12:02Z,1,7,MERGED
+smarthr-design-system,構成を変更した際にリンク切れしてしまった箇所を修正しました,https://github.com/kufu/smarthr-design-system/pull/1307,2024-10-11T10:17:47Z,2024-10-15T07:18:34Z,1,3,MERGED
+smarthr-design-system,lintのワークフローを追加,https://github.com/kufu/smarthr-design-system/pull/1306,2024-10-11T08:55:45Z,2024-10-15T01:17:46Z,1,2,MERGED
+smarthr-design-system,huskyを導入,https://github.com/kufu/smarthr-design-system/pull/1305,2024-10-11T08:38:40Z,2024-10-15T01:00:33Z,1,2,MERGED
+smarthr-design-system,ESLintを導入,https://github.com/kufu/smarthr-design-system/pull/1304,2024-10-11T04:05:06Z,2024-10-15T00:57:22Z,2,7,MERGED
+smarthr-design-system,textlintを追加,https://github.com/kufu/smarthr-design-system/pull/1303,2024-10-10T07:53:05Z,2024-10-10T07:53:41Z,1,2,MERGED
+smarthr-design-system,Headerを移植,https://github.com/kufu/smarthr-design-system/pull/1302,2024-10-10T07:21:09Z,2024-10-10T07:24:13Z,1,1,MERGED
+smarthr-design-system,TableWrapper、CaptureImageWithDescを移植,https://github.com/kufu/smarthr-design-system/pull/1301,2024-10-10T02:33:51Z,2024-10-10T02:34:37Z,1,5,MERGED
+smarthr-design-system,デプロイ関係の設定・ワークフローを追加,https://github.com/kufu/smarthr-design-system/pull/1300,2024-10-09T23:09:41Z,2024-10-11T08:20:06Z,0,1,MERGED
+smarthr-design-system,⬆️: smarthr-ui を v58.1.1 に更新,https://github.com/kufu/smarthr-design-system/pull/1299,2024-10-09T22:45:57Z,2024-10-10T04:44:52Z,1,1,MERGED
+smarthr-design-system,ビルドできるように,https://github.com/kufu/smarthr-design-system/pull/1298,2024-10-09T06:58:12Z,2024-10-09T22:47:47Z,1,35,MERGED
+smarthr-design-system,linkCheckerと関連するGHAのワークフローを移植,https://github.com/kufu/smarthr-design-system/pull/1297,2024-10-08T06:17:17Z,2024-10-08T07:01:13Z,1,6,MERGED
+smarthr-design-system,主情報と副情報が逆になっているので修正,https://github.com/kufu/smarthr-design-system/pull/1296,2024-10-08T05:53:11Z,2024-10-09T02:28:34Z,1,1,MERGED
+smarthr-design-system,mixinの名前を変更,https://github.com/kufu/smarthr-design-system/pull/1295,2024-10-08T01:27:17Z,2024-10-08T01:27:45Z,1,1,MERGED
+smarthr-design-system,Footerを移植,https://github.com/kufu/smarthr-design-system/pull/1294,2024-10-08T01:14:08Z,2024-10-08T01:18:04Z,1,4,MERGED
+smarthr-design-system,RoundedBoxLinkを移植,https://github.com/kufu/smarthr-design-system/pull/1293,2024-10-07T06:59:14Z,2024-10-08T01:16:50Z,1,2,MERGED
+smarthr-design-system,Gridを移植,https://github.com/kufu/smarthr-design-system/pull/1292,2024-10-07T05:53:40Z,2024-10-08T03:23:18Z,0,2,MERGED
+smarthr-design-system,DoAndDontを移植,https://github.com/kufu/smarthr-design-system/pull/1291,2024-10-07T05:31:17Z,2024-10-08T01:15:58Z,1,1,MERGED
+smarthr-design-system,ColorPaletteを移植,https://github.com/kufu/smarthr-design-system/pull/1290,2024-10-07T04:57:59Z,2024-10-08T01:15:20Z,1,2,MERGED
+smarthr-design-system,IndexNavを移植,https://github.com/kufu/smarthr-design-system/pull/1289,2024-10-07T04:18:27Z,2024-10-07T05:55:08Z,1,6,MERGED
+smarthr-design-system,SDS更新58.0.3→58.1.0,https://github.com/kufu/smarthr-design-system/pull/1288,2024-10-04T06:50:01Z,2024-10-04T07:02:18Z,1,1,MERGED
+smarthr-design-system,Sidebarを移植,https://github.com/kufu/smarthr-design-system/pull/1287,2024-10-03T08:07:02Z,2024-10-04T04:02:23Z,1,14,MERGED
+smarthr-design-system,コンポーネントのリファクタ,https://github.com/kufu/smarthr-design-system/pull/1286,2024-10-03T01:39:58Z,2024-10-03T01:40:30Z,1,3,MERGED
+smarthr-design-system,`ImgWithDesc` `VideoEmbed` `PageIndex` を移植,https://github.com/kufu/smarthr-design-system/pull/1285,2024-10-03T00:35:40Z,2024-10-03T00:37:19Z,1,5,MERGED
+smarthr-design-system,fix: smarthr-ui の追従によるモバイルメニュー崩れを修正,https://github.com/kufu/smarthr-design-system/pull/1284,2024-10-02T13:12:10Z,2024-10-03T01:45:56Z,1,1,MERGED
+smarthr-design-system,DesignPatternCodeBlockを移植,https://github.com/kufu/smarthr-design-system/pull/1283,2024-10-02T04:03:01Z,2024-10-03T00:36:44Z,0,4,MERGED
+smarthr-design-system,ComponentCapturesを移植,https://github.com/kufu/smarthr-design-system/pull/1282,2024-10-02T03:04:16Z,2024-10-03T00:36:30Z,0,7,MERGED
+smarthr-design-system,default exportに統一,https://github.com/kufu/smarthr-design-system/pull/1281,2024-10-02T00:47:30Z,2024-10-02T00:48:06Z,1,1,MERGED
+smarthr-design-system,remark-emojiを追加,https://github.com/kufu/smarthr-design-system/pull/1280,2024-10-01T09:07:41Z,2024-10-01T09:08:17Z,1,1,MERGED
+smarthr-design-system,画像の最適化とレスポンシブ対応,https://github.com/kufu/smarthr-design-system/pull/1279,2024-10-01T08:30:13Z,2024-10-02T00:19:23Z,0,3,MERGED
+smarthr-design-system,ComponentPropsTableを移植,https://github.com/kufu/smarthr-design-system/pull/1278,2024-10-01T07:41:16Z,2024-10-02T00:19:35Z,0,2,MERGED
+smarthr-design-system,コンポーネントの整理,https://github.com/kufu/smarthr-design-system/pull/1277,2024-10-01T06:45:28Z,2024-10-01T06:46:43Z,1,3,MERGED
+smarthr-design-system,対象ファイルをまとめてフォーマット,https://github.com/kufu/smarthr-design-system/pull/1276,2024-10-01T04:58:30Z,2024-10-01T05:06:02Z,1,4,MERGED
+smarthr-design-system,ComponentStoryを移植,https://github.com/kufu/smarthr-design-system/pull/1275,2024-10-01T04:50:38Z,2024-10-01T04:51:44Z,1,6,MERGED
+smarthr-design-system,一部コンポーネントを CSS Modules 化,https://github.com/kufu/smarthr-design-system/pull/1274,2024-09-30T07:17:02Z,2024-09-30T07:19:09Z,1,10,MERGED
+smarthr-design-system,Update SmartHR UI to v58.0.3,https://github.com/kufu/smarthr-design-system/pull/1273,2024-09-27T06:34:56Z,2024-09-27T06:48:50Z,1,4,MERGED
+smarthr-design-system,コードブロック (ライブエディタ) を移植,https://github.com/kufu/smarthr-design-system/pull/1272,2024-09-27T04:55:32Z,2024-09-27T06:24:11Z,1,6,MERGED
+smarthr-design-system,MDXでレンダリングしている部分のレイアウトを移植,https://github.com/kufu/smarthr-design-system/pull/1271,2024-09-26T04:16:35Z,2024-09-26T04:18:50Z,1,12,MERGED
+smarthr-design-system,Smarthr UI update v58.0.2,https://github.com/kufu/smarthr-design-system/pull/1270,2024-09-24T06:54:23Z,2024-09-26T06:17:24Z,1,2,MERGED
+smarthr-design-system,gatsby-source-sds-airtable を移行,https://github.com/kufu/smarthr-design-system/pull/1269,2024-09-24T06:17:44Z,2024-10-02T23:11:00Z,2,1,MERGED
+smarthr-design-system,gatsby-source-component-captures を移行,https://github.com/kufu/smarthr-design-system/pull/1268,2024-09-24T05:28:04Z,2024-10-02T01:32:19Z,1,4,MERGED
+smarthr-design-system,"既存のMDX, scripts, コンテンツを移植",https://github.com/kufu/smarthr-design-system/pull/1267,2024-09-24T03:38:50Z,2024-09-24T05:24:55Z,1,8,MERGED
+smarthr-design-system,画面キャプチャ作成ガイドラインの改修,https://github.com/kufu/smarthr-design-system/pull/1266,2024-09-20T01:25:02Z,2024-10-30T04:35:55Z,7,13,MERGED
+smarthr-design-system,余白のガイドラインにUpwardLinkに関する項目を追加,https://github.com/kufu/smarthr-design-system/pull/1265,2024-09-18T10:59:07Z,2024-09-19T09:54:39Z,1,1,MERGED
+smarthr-design-system,【よくあるテーブル】リンクのURLを修正,https://github.com/kufu/smarthr-design-system/pull/1264,2024-09-17T10:59:35Z,2024-09-30T00:51:45Z,1,1,MERGED
+smarthr-design-system,(WIP)Smarthr UI update v57.1.0,https://github.com/kufu/smarthr-design-system/pull/1263,2024-09-17T02:54:58Z,2024-09-24T07:27:42Z,2,2,CLOSED
+smarthr-design-system,サービスカテゴリーロゴを追加,https://github.com/kufu/smarthr-design-system/pull/1262,2024-09-10T10:55:26Z,2024-09-12T08:21:48Z,5,19,MERGED
+smarthr-design-system,✏️: 1ページ未満 → 1ページ以内,https://github.com/kufu/smarthr-design-system/pull/1261,2024-09-09T06:34:35Z,2024-09-09T07:09:23Z,1,2,MERGED
+smarthr-design-system,RadioButtonページのリンクミスを修正,https://github.com/kufu/smarthr-design-system/pull/1260,2024-09-06T10:10:14Z,2024-09-09T01:32:56Z,1,1,MERGED
+smarthr-design-system,fix: リリースコミットの判定ロジックを修正,https://github.com/kufu/smarthr-design-system/pull/1259,2024-09-04T08:50:51Z,2024-09-05T02:59:12Z,1,1,MERGED
+smarthr-design-system,smarthr-uiをv56.0.1にアップデート,https://github.com/kufu/smarthr-design-system/pull/1258,2024-09-04T07:24:29Z,2024-09-09T07:08:16Z,7,13,MERGED
+smarthr-design-system,SD-810_ErrorScreenのコンポーネント_404エラーのメッセージテキストを修正する,https://github.com/kufu/smarthr-design-system/pull/1257,2024-08-23T10:02:03Z,2024-08-26T06:04:39Z,1,1,MERGED
+smarthr-design-system,fix: 実装に合わせて`isNarrowScreen` を `isNarrowView` に修正,https://github.com/kufu/smarthr-design-system/pull/1256,2024-08-19T10:33:58Z,2024-08-21T09:53:07Z,1,1,MERGED
+smarthr-design-system,smarthr-uiを `v55.1.0` にアップデート,https://github.com/kufu/smarthr-design-system/pull/1255,2024-08-16T07:28:18Z,2024-09-04T07:23:36Z,4,5,CLOSED
+smarthr-design-system,アクセシビリティガイドラインのうち、見出しに関する内容を修正,https://github.com/kufu/smarthr-design-system/pull/1254,2024-08-16T04:27:57Z,2024-08-29T02:26:18Z,2,3,MERGED
+smarthr-design-system,smarthr-ui の更新v54.1.0→v55.0.0,https://github.com/kufu/smarthr-design-system/pull/1253,2024-08-09T06:23:24Z,2024-08-09T06:47:46Z,1,2,MERGED
+smarthr-design-system,アイコン作成ページのtypoを修正,https://github.com/kufu/smarthr-design-system/pull/1252,2024-08-07T07:27:20Z,2024-08-07T08:09:20Z,2,2,MERGED
+smarthr-design-system,SD-809「つくる」操作を表す文言の説明に背景を追記,https://github.com/kufu/smarthr-design-system/pull/1251,2024-08-07T06:45:23Z,2024-08-09T01:38:00Z,3,3,MERGED
+smarthr-design-system,SD-829｜用字用語セクションのページ分割,https://github.com/kufu/smarthr-design-system/pull/1250,2024-08-05T06:47:56Z,2024-08-08T01:29:01Z,1,17,CLOSED
+smarthr-design-system,⬆️ smarthr-ui を v54.1.0 に更新,https://github.com/kufu/smarthr-design-system/pull/1249,2024-08-02T03:47:46Z,2024-08-02T07:18:04Z,2,2,MERGED
+smarthr-design-system,試験結果追加,https://github.com/kufu/smarthr-design-system/pull/1480,2024-12-27T08:19:35Z,2024-12-27T08:50:06Z,1,5,MERGED
+smarthr-design-system,権限編集ダイアログ内のRadioButtonPanelの個数制限を削除,https://github.com/kufu/smarthr-design-system/pull/1479,2024-12-27T05:56:33Z,2024-12-27T06:12:30Z,1,1,MERGED
+smarthr-design-system,TextLinkをボタンとして使わない旨を記載,https://github.com/kufu/smarthr-design-system/pull/1478,2024-12-27T02:29:48Z,2024-12-27T03:19:45Z,2,1,MERGED
+smarthr-design-system,Headerが何のためのコンポーネントであるかを実態に沿ったものへ変更,https://github.com/kufu/smarthr-design-system/pull/1477,2024-12-27T02:29:16Z,2024-12-27T06:30:30Z,8,7,MERGED
+smarthr-design-system,[SD-898]  ページレイアウトのベースのある見出し領域パターンの例画像を1120pxにおさめない形に変更,https://github.com/kufu/smarthr-design-system/pull/1476,2024-12-26T10:12:16Z,2024-12-26T10:21:27Z,1,1,MERGED
+smarthr-design-system,TabBarから「下線を省略できない」の表記を削除,https://github.com/kufu/smarthr-design-system/pull/1475,2024-12-26T10:01:44Z,2024-12-27T00:53:45Z,3,3,MERGED
+smarthr-design-system,[SD-896]削除前のクッションとしてDropdownMenuButtonの利用を推奨する一文を削除,https://github.com/kufu/smarthr-design-system/pull/1474,2024-12-26T09:24:35Z,2024-12-26T11:21:44Z,2,3,MERGED
+smarthr-design-system,smarthr-uiをv62.3.1へ更新,https://github.com/kufu/smarthr-design-system/pull/1473,2024-12-26T02:06:06Z,2024-12-26T04:53:53Z,6,7,MERGED
+smarthr-design-system,AppHeaderのページを追加,https://github.com/kufu/smarthr-design-system/pull/1472,2024-12-26T01:00:53Z,2024-12-27T05:29:59Z,10,17,MERGED
+smarthr-design-system,ErrorScreenのプロダクトのホームが何を指しているのかを明示する,https://github.com/kufu/smarthr-design-system/pull/1470,2024-12-25T08:02:37Z,2024-12-27T00:42:01Z,5,2,MERGED
+smarthr-design-system,不具合修正に関する追記,https://github.com/kufu/smarthr-design-system/pull/1469,2024-12-25T07:41:49Z,2025-01-07T08:41:49Z,9,7,MERGED
+smarthr-design-system,PRのテンプレートに追記,https://github.com/kufu/smarthr-design-system/pull/1468,2024-12-25T07:20:55Z,2024-12-26T02:13:18Z,1,3,MERGED
+smarthr-design-system,add_multilingual.mdx,https://github.com/kufu/smarthr-design-system/pull/1466,2024-12-24T09:56:16Z,2024-12-26T08:31:54Z,16,17,MERGED
+smarthr-design-system,リンクの指定ミスを修正,https://github.com/kufu/smarthr-design-system/pull/1465,2024-12-24T05:27:28Z,2024-12-24T05:30:55Z,1,1,MERGED
+smarthr-design-system,add multilingual.mdx,https://github.com/kufu/smarthr-design-system/pull/1464,2024-12-24T04:24:33Z,2024-12-24T08:47:26Z,1,3,CLOSED
+smarthr-design-system,VisuallyHiddenTextのわかりやすい使い方を追加,https://github.com/kufu/smarthr-design-system/pull/1463,2024-12-23T09:29:10Z,2024-12-26T08:52:50Z,4,8,MERGED
+smarthr-design-system,カスタム社員名簿機能の画面キャプチャを取り下げる,https://github.com/kufu/smarthr-design-system/pull/1461,2024-12-23T06:44:24Z,2024-12-24T09:16:39Z,1,1,MERGED
+smarthr-design-system,コミュニケーションデザイン関連組織名の表記変更,https://github.com/kufu/smarthr-design-system/pull/1460,2024-12-23T05:45:50Z,2024-12-24T09:08:58Z,1,2,MERGED
+smarthr-design-system,smarthr-ui v62.2.3に合わせてsmarthr-ui.cssを更新,https://github.com/kufu/smarthr-design-system/pull/1459,2024-12-23T01:56:04Z,2024-12-23T02:32:03Z,1,1,MERGED
+smarthr-design-system,掲載中のカスタム社員名簿の画面キャプチャを取り下げる,https://github.com/kufu/smarthr-design-system/pull/1458,2024-12-20T09:17:39Z,2024-12-20T11:45:34Z,0,1,CLOSED
+smarthr-design-system,⬆️: smarthr-ui を v62.2.3 に更新,https://github.com/kufu/smarthr-design-system/pull/1457,2024-12-20T04:48:23Z,2024-12-20T05:21:59Z,1,2,MERGED
+smarthr-design-system,ロゴの縦組み利用を非推奨にしたい,https://github.com/kufu/smarthr-design-system/pull/1456,2024-12-19T03:58:15Z,2024-12-20T03:02:40Z,1,6,MERGED
+smarthr-design-system,一括操作エリアの画像をワクワクチェックボタンのスタイルに変更,https://github.com/kufu/smarthr-design-system/pull/1454,2024-12-19T00:58:49Z,2024-12-19T06:03:20Z,1,2,MERGED
+smarthr-design-system,データ連携アイコンの追加,https://github.com/kufu/smarthr-design-system/pull/1453,2024-12-17T10:25:12Z,2024-12-18T01:29:50Z,1,1,MERGED
+smarthr-design-system,データ連携アイコンの追加,https://github.com/kufu/smarthr-design-system/pull/1452,2024-12-17T09:55:47Z,2024-12-17T10:14:13Z,1,2,CLOSED
+smarthr-design-system,Radio Buttonに並び順の基準を追記,https://github.com/kufu/smarthr-design-system/pull/1451,2024-12-16T08:21:21Z,2024-12-23T02:33:22Z,3,4,MERGED
+smarthr-design-system,[よくあるテーブル]ページネーションを最新のUIに変更,https://github.com/kufu/smarthr-design-system/pull/1448,2024-12-16T02:53:49Z,2024-12-16T10:03:14Z,1,1,MERGED
+smarthr-design-system,ページレイアウトのmaster-detailパターンの例画像を変更,https://github.com/kufu/smarthr-design-system/pull/1447,2024-12-13T10:04:34Z,2024-12-20T02:47:19Z,1,1,MERGED
+smarthr-design-system,[Merge禁止] test,https://github.com/kufu/smarthr-design-system/pull/1446,2024-12-13T09:20:32Z,2024-12-13T09:26:31Z,1,1,CLOSED
+smarthr-design-system,[Merge禁止] feat: スマートフォン向けアプリのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1445,2024-12-13T07:21:27Z,2024-12-13T09:26:35Z,2,4,CLOSED
+smarthr-design-system,Update smarthr UI to v62.2.0,https://github.com/kufu/smarthr-design-system/pull/1444,2024-12-13T07:11:05Z,2024-12-16T05:15:50Z,4,5,MERGED
+smarthr-design-system,feat: スマートフォン向けアプリのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1443,2024-12-13T07:04:06Z,2024-12-13T07:20:40Z,2,2,CLOSED
+smarthr-design-system,画面名、項目名、ボタンラベルに関連するライティングガイドを2つに集約,https://github.com/kufu/smarthr-design-system/pull/1436,2024-12-12T02:24:53Z,2024-12-17T03:22:20Z,2,6,MERGED
+smarthr-design-system,🔧: Astro 化に依る構成変更を CODEOWNERS に反映,https://github.com/kufu/smarthr-design-system/pull/1435,2024-12-11T13:37:45Z,2024-12-12T02:58:13Z,1,1,MERGED
+smarthr-design-system,fix: 弱視・ロービジョンのユーザーに付いてページのstorybookリンク切れ修正,https://github.com/kufu/smarthr-design-system/pull/1434,2024-12-11T11:35:47Z,2024-12-12T07:50:05Z,1,1,MERGED
+smarthr-design-system,SD-901 よくあるテーブルのオブジェクトの検索に対するコンポーネントをInputではなくSearchInputに変更,https://github.com/kufu/smarthr-design-system/pull/1433,2024-12-11T11:01:11Z,2024-12-13T08:46:24Z,1,2,MERGED
+smarthr-design-system,[TextLink]新規ウィンドウで開くときとヘルプページを開くときが同時のときを対処を記載,https://github.com/kufu/smarthr-design-system/pull/1432,2024-12-11T07:42:35Z,2024-12-25T07:20:44Z,6,7,MERGED
+smarthr-design-system,「デザインデータ」を更新,https://github.com/kufu/smarthr-design-system/pull/1431,2024-12-11T07:04:46Z,2024-12-13T04:25:12Z,1,7,MERGED
+smarthr-design-system,「情報設計のアウトプット」のサンプルを追加,https://github.com/kufu/smarthr-design-system/pull/1430,2024-12-11T05:43:00Z,2024-12-13T04:32:24Z,2,8,MERGED
+smarthr-design-system,スマートフォン向けアプリのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1429,2024-12-11T04:27:59Z,2024-12-16T05:45:04Z,4,8,MERGED
+smarthr-design-system,基本要素の「アイコン」欄にスマートフォン向けアプリのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1428,2024-12-11T04:00:08Z,2024-12-11T04:12:40Z,1,1,CLOSED
+smarthr-design-system,「取り返しのつかない操作」から「ワンクッション必要な操作」に変更した旨を記載,https://github.com/kufu/smarthr-design-system/pull/1427,2024-12-11T03:04:59Z,2024-12-11T06:41:09Z,1,1,MERGED
+smarthr-design-system,スマートフォン向けアプリのアイコンを追加,https://github.com/kufu/smarthr-design-system/pull/1426,2024-12-11T01:37:16Z,2024-12-11T01:39:08Z,1,1,CLOSED
+smarthr-design-system,[SD-951]使用と利用の使い分けをわかりやすくする,https://github.com/kufu/smarthr-design-system/pull/1425,2024-12-10T03:56:14Z,2024-12-11T00:00:42Z,1,1,MERGED
+smarthr-design-system,取り返しのつかない操作→ワンクッション必要な操作へのリダイレクト設定,https://github.com/kufu/smarthr-design-system/pull/1424,2024-12-10T02:37:08Z,2024-12-10T02:43:20Z,1,1,MERGED
+smarthr-design-system,[SD-875]リリースノートの掲載対象を記載する,https://github.com/kufu/smarthr-design-system/pull/1419,2024-12-09T02:09:49Z,2024-12-09T06:16:53Z,4,4,MERGED
+smarthr-design-system,[SD-945]不具合のリリースノートで気付いてほしいルールが目立つようにする,https://github.com/kufu/smarthr-design-system/pull/1418,2024-12-06T05:12:25Z,2024-12-08T23:13:36Z,3,2,MERGED
+smarthr-design-system,Definition Listの項目が1つでも使用できることを追記,https://github.com/kufu/smarthr-design-system/pull/1417,2024-12-06T03:05:02Z,2024-12-09T08:47:37Z,2,2,MERGED
+smarthr-design-system,用語用字の追加：「ヨミガナ」を推奨,https://github.com/kufu/smarthr-design-system/pull/1416,2024-12-05T07:47:54Z,2024-12-06T08:45:41Z,2,3,MERGED
+smarthr-design-system,改行位置の修正,https://github.com/kufu/smarthr-design-system/pull/1415,2024-12-05T01:38:32Z,2024-12-05T06:10:05Z,4,3,MERGED
+smarthr-design-system,使用性チェックリストの視覚的グルーピングに関するリンクを更新,https://github.com/kufu/smarthr-design-system/pull/1414,2024-12-03T07:41:48Z,2024-12-03T07:48:00Z,1,1,MERGED
+smarthr-design-system,"Base, BaseColumnの内容を追加・編集",https://github.com/kufu/smarthr-design-system/pull/1413,2024-12-03T06:21:46Z,2024-12-09T08:32:43Z,9,5,MERGED
+smarthr-design-system,smarthr-uiをv62.1.0へ更新,https://github.com/kufu/smarthr-design-system/pull/1412,2024-12-03T04:43:08Z,2024-12-12T02:52:36Z,1,3,MERGED
+smarthr-design-system,（再）「デザインレビュー」を更新,https://github.com/kufu/smarthr-design-system/pull/1411,2024-12-02T06:45:44Z,2024-12-02T08:51:10Z,13,17,MERGED
+smarthr-design-system,「デザインレビュー」を大幅更新,https://github.com/kufu/smarthr-design-system/pull/1410,2024-12-02T03:25:51Z,2024-12-02T07:24:54Z,2,11,CLOSED
+smarthr-design-system,デザインパターンの順序を変更,https://github.com/kufu/smarthr-design-system/pull/1409,2024-12-02T02:31:22Z,2024-12-02T06:03:22Z,1,7,MERGED
+smarthr-design-system,ファイル名の命名ルールのガイドラインを追加,https://github.com/kufu/smarthr-design-system/pull/1408,2024-11-29T03:09:05Z,2024-12-03T06:15:29Z,21,10,MERGED
+smarthr-design-system,「被扶養者」→「扶養する家族」のガイドライン化,https://github.com/kufu/smarthr-design-system/pull/1407,2024-11-28T10:40:03Z,2024-11-29T04:02:17Z,4,4,MERGED
+smarthr-design-system,スキル管理ページのリンクを修正,https://github.com/kufu/smarthr-design-system/pull/1406,2024-11-26T07:54:58Z,2024-11-26T08:03:04Z,1,1,MERGED
+smarthr-design-system,用字用語の追加: ZIPファイルは「展開」を推奨,https://github.com/kufu/smarthr-design-system/pull/1404,2024-11-22T12:46:13Z,2024-12-02T08:27:53Z,5,4,MERGED
+smarthr-design-system,linkが不適切な個所があったので修正,https://github.com/kufu/smarthr-design-system/pull/1403,2024-11-22T04:28:17Z,2024-11-22T07:43:04Z,1,1,MERGED
+smarthr-design-system,SmartHR UI v61.0.0に更新,https://github.com/kufu/smarthr-design-system/pull/1402,2024-11-22T01:22:25Z,2024-11-22T04:28:11Z,1,2,MERGED
+smarthr-design-system,update,https://github.com/kufu/smarthr-design-system/pull/1401,2024-11-22T01:16:34Z,2024-11-22T01:16:54Z,2,1,CLOSED
+smarthr-design-system,UIデザイン使用性チェックリストをアップデート,https://github.com/kufu/smarthr-design-system/pull/1393,2024-11-19T09:13:13Z,2024-11-26T07:21:01Z,1,2,MERGED
+smarthr-design-system,💚: pre-commit 時に linkChecker に必要な依存をインストール,https://github.com/kufu/smarthr-design-system/pull/1392,2024-11-19T08:18:44Z,2024-11-19T09:29:28Z,1,1,MERGED
+smarthr-design-system,lighthouseのアクセシビリティスコア向上のため、ガチャのリンク部分のスペースを広くする,https://github.com/kufu/smarthr-design-system/pull/1391,2024-11-18T17:48:45Z,2024-11-19T07:35:57Z,1,1,MERGED
+smarthr-design-system,「英語・数字・記号は半角で表記する」に手順番号や、FAQにおける「Q.」「A.」は例外だよって補足を入れる,https://github.com/kufu/smarthr-design-system/pull/1390,2024-11-18T04:37:37Z,2024-11-18T05:12:51Z,2,2,MERGED
+smarthr-design-system,除外するディレクトリを追加,https://github.com/kufu/smarthr-design-system/pull/1389,2024-11-18T02:23:32Z,2024-11-18T07:10:58Z,1,1,MERGED
+smarthr-design-system,検索に必要なenvが不足している場合警告を表示するように,https://github.com/kufu/smarthr-design-system/pull/1388,2024-11-18T02:18:00Z,2024-11-18T07:11:12Z,1,1,MERGED
+smarthr-design-system,GitHubのリンク先がコンポーネントのルートを指すように,https://github.com/kufu/smarthr-design-system/pull/1387,2024-11-18T01:51:17Z,2024-11-18T07:11:23Z,1,1,MERGED
+smarthr-design-system,アイコンの有無と新規ウィンドウを開く判断基準を追加,https://github.com/kufu/smarthr-design-system/pull/1386,2024-11-15T10:00:15Z,2024-11-25T07:43:05Z,4,5,MERGED
+smarthr-design-system,スキル管理のアクセシビリティ検証結果ページを最新化する,https://github.com/kufu/smarthr-design-system/pull/1385,2024-11-15T09:55:59Z,2024-11-18T01:43:38Z,1,1,MERGED
+smarthr-design-system,「取り返しのつかない操作」を「ワンクッションはさむ操作」にタイトルの変更と、記述を追加した,https://github.com/kufu/smarthr-design-system/pull/1384,2024-11-15T08:39:42Z,2024-12-03T04:27:35Z,43,48,MERGED
+smarthr-design-system,fix(README): サンプルコードを修正,https://github.com/kufu/smarthr-design-system/pull/1383,2024-11-15T04:45:31Z,2024-11-20T02:00:44Z,1,1,MERGED
+smarthr-design-system,chore: packageManagerのフィールドを追加,https://github.com/kufu/smarthr-design-system/pull/1382,2024-11-15T02:35:59Z,2024-11-15T02:59:39Z,1,2,MERGED
+smarthr-design-system,fix: Netlifyでのビルド時にAlgoliaのインデックスを更新するように,https://github.com/kufu/smarthr-design-system/pull/1381,2024-11-15T02:21:17Z,2024-11-15T02:25:02Z,1,1,MERGED
+smarthr-design-system,🆙 smarthr-ui を v60.1.1 に更新,https://github.com/kufu/smarthr-design-system/pull/1380,2024-11-15T02:12:43Z,2024-11-15T03:11:50Z,1,4,MERGED
+smarthr-design-system,画像のフォーマットと圧縮率を変更,https://github.com/kufu/smarthr-design-system/pull/1378,2024-11-13T02:55:38Z,2024-11-13T02:59:16Z,0,1,MERGED
+smarthr-design-system,フィードバック分の修正,https://github.com/kufu/smarthr-design-system/pull/1377,2024-11-13T02:29:06Z,2024-11-13T03:08:42Z,0,6,MERGED
+smarthr-design-system,MonthPickerのサムネイルを追加,https://github.com/kufu/smarthr-design-system/pull/1376,2024-11-12T09:42:43Z,2024-11-13T04:34:21Z,1,3,MERGED
+smarthr-design-system,⬆️: smarthr-ui を v60.0.1 に更新,https://github.com/kufu/smarthr-design-system/pull/1375,2024-11-12T05:07:45Z,2024-11-12T05:24:09Z,0,1,MERGED
+smarthr-design-system,BFA非推奨化に伴う「モーダルなUI」の更新,https://github.com/kufu/smarthr-design-system/pull/1366,2024-11-06T04:31:49Z,2024-11-07T01:35:29Z,1,2,MERGED
+smarthr-design-system,feat: リンクがビューポートに入ったらprefetchするように,https://github.com/kufu/smarthr-design-system/pull/1365,2024-11-06T01:26:37Z,2024-11-06T01:27:42Z,1,1,MERGED
+smarthr-design-system,各種ドキュメントの追加・更新,https://github.com/kufu/smarthr-design-system/pull/1364,2024-11-05T06:32:14Z,2024-11-05T07:09:04Z,0,6,MERGED
+smarthr-design-system,[RadioButton]Select推奨の一文を削除,https://github.com/kufu/smarthr-design-system/pull/1363,2024-11-05T06:23:32Z,2024-11-07T01:40:20Z,1,1,MERGED
+smarthr-design-system,BottomFixedAreaの非推奨メッセージを修正,https://github.com/kufu/smarthr-design-system/pull/1362,2024-11-04T21:35:51Z,2024-11-05T01:35:48Z,1,1,MERGED
+smarthr-design-system,「つくる」操作を表す文言の背景を再度追記,https://github.com/kufu/smarthr-design-system/pull/1361,2024-11-01T08:07:49Z,2024-11-05T01:20:03Z,1,1,MERGED
+smarthr-design-system,リリースノートにかかわるコンテンツを「アクセシビリティ」から「リリースノート」に移動する,https://github.com/kufu/smarthr-design-system/pull/1360,2024-11-01T05:53:19Z,2024-11-06T23:52:08Z,3,7,MERGED
+smarthr-design-system,fix: float-areaの記事が表示できるよう修正,https://github.com/kufu/smarthr-design-system/pull/1359,2024-11-01T05:34:11Z,2024-11-01T05:39:31Z,1,3,MERGED
+smarthr-design-system,🆙 smarthr-ui v60.0.0 に追従,https://github.com/kufu/smarthr-design-system/pull/1358,2024-11-01T01:18:51Z,2024-11-05T07:50:06Z,1,2,MERGED
+smarthr-design-system,「ほぐす」「解す」のルールを削除する,https://github.com/kufu/smarthr-design-system/pull/1357,2024-11-01T00:30:28Z,2024-11-01T03:16:15Z,3,1,CLOSED
+smarthr-design-system,SmartHR UI v65.2.0  update,https://github.com/kufu/smarthr-design-system/pull/1504,2025-02-21T06:45:45Z,2025-02-25T23:57:50Z,5,8,MERGED
+smarthr-design-system,「ヘルプページでは、企業名に敬称をつけない」ガイドラインの追記,https://github.com/kufu/smarthr-design-system/pull/1503,2025-02-20T05:49:56Z,2025-02-25T02:25:34Z,4,6,MERGED
+smarthr-design-system,権限がない場合のエラースクリーンに表示される［ホームへ戻る］のリンク先を、SmartHRのホームに変更する,https://github.com/kufu/smarthr-design-system/pull/1502,2025-02-19T07:26:15Z,2025-02-20T08:34:10Z,2,3,MERGED
+smarthr-design-system,簡易チェックリストの一部加筆修正,https://github.com/kufu/smarthr-design-system/pull/1501,2025-02-17T06:31:07Z,2025-02-25T05:36:58Z,1,3,MERGED
+smarthr-design-system,やさしい日本語のガイドラインを階層化し、内容を拡充,https://github.com/kufu/smarthr-design-system/pull/1500,2025-02-17T02:15:06Z,2025-02-21T01:14:43Z,2,5,MERGED
+smarthr-design-system,⬆️: smarthr-ui v65.1.0 に追従,https://github.com/kufu/smarthr-design-system/pull/1499,2025-02-14T00:42:49Z,2025-02-14T01:10:10Z,1,1,MERGED
+smarthr-design-system,SD-920: アカウントや従業員を選択するガイドラインの追加,https://github.com/kufu/smarthr-design-system/pull/1498,2025-02-07T06:15:54Z,2025-02-20T07:56:07Z,18,8,MERGED
+smarthr-design-system,アイキャッチの使い方Figmaのリンクを削除,https://github.com/kufu/smarthr-design-system/pull/1497,2025-01-30T04:14:39Z,2025-01-30T08:50:37Z,1,1,MERGED
+smarthr-design-system,smarthr-uiをv64.0.1に更新,https://github.com/kufu/smarthr-design-system/pull/1496,2025-01-24T08:40:05Z,2025-01-24T10:15:36Z,1,1,MERGED
+smarthr-design-system,📈: GA のページビューを送信する,https://github.com/kufu/smarthr-design-system/pull/1495,2025-01-24T02:33:44Z,2025-01-24T02:35:14Z,1,1,MERGED
+smarthr-design-system,SD-986「スクショに関するガイドラインの修正」,https://github.com/kufu/smarthr-design-system/pull/1494,2025-01-23T07:38:32Z,2025-01-24T01:54:40Z,2,2,MERGED
+smarthr-design-system,「通り」→「とおり」に修正する,https://github.com/kufu/smarthr-design-system/pull/1493,2025-01-21T00:40:31Z,2025-01-28T03:53:46Z,2,1,MERGED
+smarthr-design-system,配置シミュレーションの簡易チェック結果を載せる,https://github.com/kufu/smarthr-design-system/pull/1492,2025-01-17T09:03:15Z,2025-01-31T03:08:15Z,3,5,MERGED
+smarthr-design-system,操作手順でクリックする対象を続けて書く定型文を統一する,https://github.com/kufu/smarthr-design-system/pull/1491,2025-01-17T04:43:54Z,2025-01-23T06:31:47Z,1,3,MERGED
+smarthr-design-system,Smarthr UI v64.0.0にアップデート,https://github.com/kufu/smarthr-design-system/pull/1490,2025-01-17T03:08:50Z,2025-01-17T03:59:47Z,1,2,MERGED
+smarthr-design-system,Update file.mdx_アンダースコアとサブドメインについて補足を追加,https://github.com/kufu/smarthr-design-system/pull/1489,2025-01-16T05:15:54Z,2025-01-16T07:58:43Z,1,1,MERGED
+smarthr-design-system,SmartHRオプション機能の具体が、ヘルプ記事で分かるように修正,https://github.com/kufu/smarthr-design-system/pull/1488,2025-01-10T05:12:12Z,2025-01-15T08:08:04Z,2,3,MERGED
+smarthr-design-system,chore: test,https://github.com/kufu/smarthr-design-system/pull/1487,2025-01-10T02:13:42Z,2025-01-10T02:15:08Z,2,1,CLOSED
+smarthr-design-system,ライティングガイドのリード文を修正,https://github.com/kufu/smarthr-design-system/pull/1486,2025-01-10T01:09:40Z,2025-01-15T05:52:08Z,1,5,MERGED
+smarthr-design-system,ライティング>UIテキスト>エラーメッセージの内容をFlashMessageからNotificationBarに変更,https://github.com/kufu/smarthr-design-system/pull/1485,2025-01-07T10:59:30Z,2025-01-21T02:35:51Z,2,3,MERGED
+smarthr-design-system,ライティング>UIテキスト>エラーメッセージの内容をFlashMessageからNotificationBarに変更,https://github.com/kufu/smarthr-design-system/pull/1484,2025-01-07T10:49:11Z,2025-01-07T10:49:52Z,1,2,CLOSED
+smarthr-design-system,`ライティング`のリンク切れ修正と、リンク切れへの対策,https://github.com/kufu/smarthr-design-system/pull/1483,2025-01-06T12:45:40Z,2025-01-15T01:40:46Z,3,4,MERGED
+smarthr-design-system,SD-960,https://github.com/kufu/smarthr-design-system/pull/1482,2025-01-06T09:36:51Z,2025-01-06T12:45:47Z,1,6,CLOSED
+smarthr-design-system,CODEOWNERSを調整,https://github.com/kufu/smarthr-design-system/pull/1481,2025-01-06T03:21:11Z,2025-01-06T06:40:49Z,1,1,MERGED

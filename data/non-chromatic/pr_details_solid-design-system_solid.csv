@@ -1,0 +1,621 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+solid,docs: 📚 add figma connect,https://github.com/solid-design-system/solid/pull/99,2023-05-23T14:01:37Z,2023-05-24T08:59:51Z,0,3,MERGED
+solid,feat(#74): add 0-spacing,https://github.com/solid-design-system/solid/pull/98,2023-05-23T13:59:33Z,2023-05-24T09:40:57Z,0,5,MERGED
+solid,feat: update tokens,https://github.com/solid-design-system/solid/pull/96,2023-05-22T14:51:36Z,2023-05-24T10:09:21Z,2,5,MERGED
+solid,docs: 📚 improve storybook-helper,https://github.com/solid-design-system/solid/pull/91,2023-05-22T09:57:53Z,2023-05-22T14:46:11Z,0,22,MERGED
+solid,ci(close #34): Integrate tests in CI system (Quality Gate),https://github.com/solid-design-system/solid/pull/84,2023-05-16T14:43:12Z,2023-05-17T09:21:32Z,2,16,MERGED
+solid,build(close #72): ignore unused components,https://github.com/solid-design-system/solid/pull/83,2023-05-16T12:47:20Z,2023-05-16T13:29:52Z,5,4,MERGED
+solid,build: 📦 improve build setup for browser incl. versioning,https://github.com/solid-design-system/solid/pull/70,2023-05-08T18:40:33Z,2023-05-12T07:45:14Z,7,19,MERGED
+solid,ci: improve chromatic ci speed,https://github.com/solid-design-system/solid/pull/69,2023-05-08T09:22:11Z,2023-05-08T09:35:42Z,0,2,MERGED
+solid,feat: add ui-styles to sd-spinner component,https://github.com/solid-design-system/solid/pull/59,2023-05-03T15:49:39Z,2023-06-15T10:22:43Z,13,17,MERGED
+solid,Feat/UI styling,https://github.com/solid-design-system/solid/pull/17,2023-04-17T12:08:40Z,2023-04-17T12:09:47Z,0,43,MERGED
+solid,ci: 👷 use dist for tests on GitHub,https://github.com/solid-design-system/solid/pull/295,2023-07-31T09:32:23Z,2023-07-31T11:32:30Z,1,6,MERGED
+solid,ci: 👷 fix tests on GitHub,https://github.com/solid-design-system/solid/pull/294,2023-07-31T09:09:16Z,2023-07-31T09:31:32Z,0,18,CLOSED
+solid,ci: remove azure pipelines from GitHub repo,https://github.com/solid-design-system/solid/pull/293,2023-07-28T14:08:35Z,2023-08-08T10:03:02Z,3,2,MERGED
+solid,ci: fix feature branch deployment pipeline,https://github.com/solid-design-system/solid/pull/292,2023-07-28T10:24:11Z,2023-07-28T10:33:52Z,0,1,MERGED
+solid,ci: 👷 fix tests on GitHub,https://github.com/solid-design-system/solid/pull/291,2023-07-27T16:27:47Z,2023-07-31T09:08:44Z,0,16,CLOSED
+solid,ci: improve pipelines,https://github.com/solid-design-system/solid/pull/290,2023-07-27T15:10:12Z,2023-07-28T07:48:56Z,0,2,MERGED
+solid,ci: 👷 fix tests,https://github.com/solid-design-system/solid/pull/288,2023-07-27T09:47:02Z,2023-07-27T09:49:51Z,0,2,CLOSED
+solid,docs: ✏️ add storybook integration guide,https://github.com/solid-design-system/solid/pull/287,2023-07-27T09:15:57Z,2023-07-27T09:54:57Z,0,1,MERGED
+solid,feat: ✨ sd teaser,https://github.com/solid-design-system/solid/pull/286,2023-07-27T07:19:13Z,2023-08-03T13:30:47Z,26,14,MERGED
+solid,ci: purge all folders after deployment (hotfix),https://github.com/solid-design-system/solid/pull/268,2023-07-26T14:42:55Z,2023-07-28T07:49:27Z,5,1,CLOSED
+solid,chore: 🔧 update issue templates,https://github.com/solid-design-system/solid/pull/253,2023-07-25T14:21:41Z,2023-07-28T08:28:08Z,10,8,MERGED
+solid,feat: sd-brandshape,https://github.com/solid-design-system/solid/pull/252,2023-07-24T08:08:04Z,2023-08-04T14:13:37Z,12,28,MERGED
+solid,feat: ✨ sd divider,https://github.com/solid-design-system/solid/pull/248,2023-07-21T11:06:51Z,2023-07-27T15:23:16Z,7,11,MERGED
+solid,"feat: ✨ add styles (paragraph, mark, display, meta, leadtext)",https://github.com/solid-design-system/solid/pull/247,2023-07-20T13:37:45Z,2023-08-24T09:05:15Z,10,54,MERGED
+solid,feat: add css-components,https://github.com/solid-design-system/solid/pull/246,2023-07-20T13:26:19Z,2023-07-20T13:36:58Z,0,1,CLOSED
+solid,draft!,https://github.com/solid-design-system/solid/pull/240,2023-07-18T12:57:39Z,2023-07-18T13:13:46Z,0,4,CLOSED
+solid,docs: 📚 add migration guide for ui-accordion-panel and ui-accordion,https://github.com/solid-design-system/solid/pull/237,2023-07-13T04:14:14Z,2023-07-17T10:58:29Z,4,4,MERGED
+solid,chore: 🔧 create Contributing.md,https://github.com/solid-design-system/solid/pull/236,2023-07-11T14:42:35Z,2023-07-17T11:06:16Z,8,16,MERGED
+solid,docs: 📚 add Mouseless stories for a11y,https://github.com/solid-design-system/solid/pull/235,2023-07-11T14:28:02Z,2023-07-13T11:50:15Z,2,5,MERGED
+solid,feat: ✨  adding placeholder package (#225),https://github.com/solid-design-system/solid/pull/233,2023-07-11T09:28:37Z,2023-07-11T12:41:11Z,2,9,MERGED
+solid,chore: automate package index,https://github.com/solid-design-system/solid/pull/223,2023-07-06T14:47:28Z,2023-07-07T07:33:42Z,0,4,MERGED
+solid,fix: 🐛 update a11y tests + improve spinner a11y,https://github.com/solid-design-system/solid/pull/222,2023-07-06T13:36:15Z,2023-07-06T13:51:36Z,0,3,MERGED
+solid,fix: provide registerIconLibrary,https://github.com/solid-design-system/solid/pull/221,2023-07-06T13:33:15Z,2023-07-06T13:44:16Z,0,1,CLOSED
+solid,ci: improve size check,https://github.com/solid-design-system/solid/pull/217,2023-07-05T20:06:40Z,2023-07-05T20:16:31Z,0,3,MERGED
+solid,fix: provide registerIconLibrary,https://github.com/solid-design-system/solid/pull/213,2023-07-05T15:12:43Z,2023-07-05T15:37:22Z,0,1,MERGED
+solid,"docs: 📚 improve docs, changelog + ci (including bundle size)",https://github.com/solid-design-system/solid/pull/212,2023-07-05T10:55:00Z,2023-07-05T12:12:17Z,1,13,MERGED
+solid,docs: 📚 stabilize + add branding,https://github.com/solid-design-system/solid/pull/211,2023-07-05T07:51:24Z,2023-07-05T07:58:27Z,0,3,MERGED
+solid,chore: 🔧 setup packages,https://github.com/solid-design-system/solid/pull/210,2023-07-04T14:45:10Z,2023-07-04T15:58:18Z,0,19,MERGED
+solid,feat: ✨ accordion & accordion group,https://github.com/solid-design-system/solid/pull/201,2023-06-29T07:28:35Z,2023-07-07T11:01:14Z,14,28,MERGED
+solid,ci: add changelog.mdx auto generation,https://github.com/solid-design-system/solid/pull/197,2023-06-27T08:23:02Z,2023-06-27T11:23:16Z,2,6,MERGED
+solid,ci: workflow-adoptions,https://github.com/solid-design-system/solid/pull/196,2023-06-27T08:15:07Z,2023-06-27T12:55:52Z,3,15,MERGED
+solid,"docs: 📚 add docs for Intro, CSS, General & Testing",https://github.com/solid-design-system/solid/pull/195,2023-06-26T14:16:37Z,2023-06-28T13:35:22Z,6,10,MERGED
+solid,docs(closes #32): optimize props & events controls,https://github.com/solid-design-system/solid/pull/193,2023-06-26T08:01:14Z,2023-06-27T09:18:21Z,0,3,MERGED
+solid,docs(closes #33): show events in Storybook,https://github.com/solid-design-system/solid/pull/192,2023-06-26T06:58:10Z,2023-06-28T12:56:13Z,0,3,MERGED
+solid,ci: improve storybook tests (closes #66),https://github.com/solid-design-system/solid/pull/190,2023-06-23T12:38:11Z,2023-06-23T15:13:25Z,0,7,MERGED
+solid,docs: correct cdnBase on installation page,https://github.com/solid-design-system/solid/pull/189,2023-06-23T10:32:51Z,2023-06-23T14:14:32Z,1,1,MERGED
+solid,ci: feature branch deployment,https://github.com/solid-design-system/solid/pull/180,2023-06-21T10:14:35Z,2023-06-22T10:04:32Z,2,7,MERGED
+solid,feat: ✨ use correct system icons + update icon documentation in general,https://github.com/solid-design-system/solid/pull/179,2023-06-21T07:52:40Z,2023-06-21T09:24:26Z,1,3,MERGED
+solid,feat: sd-link,https://github.com/solid-design-system/solid/pull/169,2023-06-19T15:23:10Z,2023-06-22T14:41:38Z,13,20,MERGED
+solid,chore: 🔧 fix plop,https://github.com/solid-design-system/solid/pull/167,2023-06-19T09:04:09Z,2023-06-21T09:22:07Z,1,2,MERGED
+solid,ci: setup cdn deployment,https://github.com/solid-design-system/solid/pull/161,2023-06-14T13:46:09Z,2023-06-20T13:58:53Z,10,14,MERGED
+solid,docs: 📚 add frutiger (close #104),https://github.com/solid-design-system/solid/pull/150,2023-06-12T15:01:43Z,2023-06-14T13:22:40Z,4,2,MERGED
+solid,docs: 📚 show badges,https://github.com/solid-design-system/solid/pull/149,2023-06-12T14:35:42Z,2023-06-23T08:01:02Z,1,4,MERGED
+solid,chore: cleanup pnpm + dependencies,https://github.com/solid-design-system/solid/pull/147,2023-06-12T07:53:07Z,2023-06-12T09:12:32Z,1,2,MERGED
+solid,feat: ✨ add only-icon style for sd-button,https://github.com/solid-design-system/solid/pull/146,2023-06-09T14:21:59Z,2023-06-19T08:05:14Z,4,7,MERGED
+solid,docs: improve storybook code docs A LOT,https://github.com/solid-design-system/solid/pull/145,2023-06-09T12:20:19Z,2023-06-09T12:39:48Z,0,2,MERGED
+solid,Docs/interaction-test,https://github.com/solid-design-system/solid/pull/144,2023-06-09T12:18:49Z,2023-06-09T12:20:06Z,0,12,CLOSED
+solid,docs: add options for storybook templating,https://github.com/solid-design-system/solid/pull/143,2023-06-09T10:44:20Z,2023-06-09T10:54:57Z,0,1,MERGED
+solid,test: 🧪 make tests more reliable,https://github.com/solid-design-system/solid/pull/142,2023-06-09T08:05:23Z,2023-06-09T08:13:26Z,0,2,MERGED
+solid,feat(sd-icon): create component #105,https://github.com/solid-design-system/solid/pull/139,2023-06-07T15:35:40Z,2023-06-07T15:47:58Z,0,8,MERGED
+solid,Docs/interaction-test,https://github.com/solid-design-system/solid/pull/138,2023-06-07T15:32:35Z,2023-06-07T15:35:21Z,0,12,CLOSED
+solid,test: 🧪 interaction tests for button,https://github.com/solid-design-system/solid/pull/130,2023-06-05T12:19:55Z,2023-06-05T13:17:08Z,0,12,CLOSED
+solid,feat: ✨ add sd-header,https://github.com/solid-design-system/solid/pull/512,2023-10-31T07:55:43Z,2023-11-13T15:39:20Z,14,37,MERGED
+solid,chore: cleanup changelog,https://github.com/solid-design-system/solid/pull/511,2023-10-31T07:22:39Z,2023-10-31T13:37:40Z,0,4,MERGED
+solid,"chore: 🔧 Revert ""chore(deps): lock file maintenance (#506)""",https://github.com/solid-design-system/solid/pull/510,2023-10-31T07:07:46Z,2023-10-31T13:36:31Z,0,3,MERGED
+solid,chore: fix dependencies,https://github.com/solid-design-system/solid/pull/509,2023-10-30T14:15:39Z,2023-10-31T07:29:43Z,0,1,CLOSED
+solid,docs: interactive theme generator,https://github.com/solid-design-system/solid/pull/508,2023-10-30T12:11:54Z,2023-10-31T17:18:52Z,1,16,MERGED
+solid,feat: ✨ sd-checkbox & sd-checkbox-group,https://github.com/solid-design-system/solid/pull/507,2023-10-30T09:01:00Z,2023-11-10T08:28:59Z,38,118,MERGED
+solid,docs: 📚 changed component versions,https://github.com/solid-design-system/solid/pull/504,2023-10-27T10:33:41Z,2023-10-27T10:47:05Z,0,1,MERGED
+solid,ci: added executable permissions,https://github.com/solid-design-system/solid/pull/502,2023-10-26T15:38:56Z,2023-10-26T15:45:52Z,0,1,MERGED
+solid,chore: improve verify and fix broken repo,https://github.com/solid-design-system/solid/pull/499,2023-10-25T10:58:25Z,2023-10-25T12:04:57Z,5,1,MERGED
+solid,ci: 👷 stop major updates from automerging,https://github.com/solid-design-system/solid/pull/498,2023-10-25T09:32:40Z,2023-10-25T12:20:01Z,2,4,MERGED
+solid,docs: add section about milestones to contributing,https://github.com/solid-design-system/solid/pull/485,2023-10-18T13:25:17Z,2023-10-26T08:27:55Z,4,5,MERGED
+solid,docs: add pr handling section to contribution.md,https://github.com/solid-design-system/solid/pull/484,2023-10-18T12:51:18Z,2023-10-26T08:26:32Z,7,4,MERGED
+solid,ci: 👷 improve/automate renovate,https://github.com/solid-design-system/solid/pull/481,2023-10-13T14:43:47Z,2023-10-17T09:32:06Z,0,3,MERGED
+solid,docs: 📚 improve changelog,https://github.com/solid-design-system/solid/pull/480,2023-10-13T12:17:59Z,2023-10-17T09:32:38Z,0,1,MERGED
+solid,chore: change component detail structure,https://github.com/solid-design-system/solid/pull/478,2023-10-12T14:25:32Z,2023-10-12T15:36:13Z,0,1,MERGED
+solid,docs: 📚 adjust Storybook colors to meet AA criteria,https://github.com/solid-design-system/solid/pull/471,2023-10-11T13:53:35Z,2023-10-12T11:46:40Z,0,1,MERGED
+solid,fix: add new start icon,https://github.com/solid-design-system/solid/pull/470,2023-10-11T12:40:05Z,2023-10-13T09:01:39Z,3,2,MERGED
+solid,feat: add generic placeholder image,https://github.com/solid-design-system/solid/pull/457,2023-10-11T07:34:48Z,2023-10-11T12:05:17Z,1,1,MERGED
+solid,docs: ✨ accessibility checklist,https://github.com/solid-design-system/solid/pull/456,2023-10-11T07:29:02Z,2023-10-26T14:40:35Z,10,6,MERGED
+solid,fix: 🤔 added part selector to accordion content slot.,https://github.com/solid-design-system/solid/pull/454,2023-10-10T14:25:02Z,2023-10-13T09:01:04Z,7,3,MERGED
+solid,feat: ✨ sd-video,https://github.com/solid-design-system/solid/pull/451,2023-10-09T13:40:53Z,2023-10-26T14:26:47Z,64,38,MERGED
+solid,docs: ✨ documentation on used colors,https://github.com/solid-design-system/solid/pull/449,2023-10-06T11:08:36Z,2023-10-06T15:43:36Z,1,2,MERGED
+solid,fix: 🤔 PR Lint not identifying valid keywords ,https://github.com/solid-design-system/solid/pull/445,2023-10-04T12:06:27Z,2023-10-04T13:01:27Z,1,2,MERGED
+solid,docs: 📚 housekeeping – align slots,https://github.com/solid-design-system/solid/pull/443,2023-10-04T11:18:13Z,2023-10-06T12:48:31Z,6,5,MERGED
+solid,feat: ✨sd-radio & sd-radio-group ,https://github.com/solid-design-system/solid/pull/442,2023-09-29T14:52:24Z,2023-10-27T10:20:08Z,14,109,MERGED
+solid,ci: 👷 add PR title check workflow,https://github.com/solid-design-system/solid/pull/441,2023-09-29T13:54:15Z,2023-10-02T08:06:11Z,1,1,MERGED
+solid,"docs: 📚 add ""known browser issues"" section",https://github.com/solid-design-system/solid/pull/440,2023-09-29T13:14:13Z,2023-10-06T12:49:45Z,6,7,MERGED
+solid,docs: 📚 update contribution guide - //TODOs ,https://github.com/solid-design-system/solid/pull/439,2023-09-29T06:45:53Z,2023-10-04T14:20:10Z,6,4,MERGED
+solid,ci: turn off dependabot,https://github.com/solid-design-system/solid/pull/438,2023-09-28T08:54:12Z,2023-10-04T08:14:38Z,5,4,MERGED
+solid,feat: ✨ add sd-tooltip,https://github.com/solid-design-system/solid/pull/436,2023-09-27T14:59:10Z,2023-11-10T13:00:58Z,38,29,MERGED
+solid,feat: ✨ sd-headline,https://github.com/solid-design-system/solid/pull/435,2023-09-27T12:44:51Z,2023-10-06T09:00:47Z,26,32,MERGED
+solid,fix: 🐛 provide docs how to use registerIconLibrary with UMD bundle,https://github.com/solid-design-system/solid/pull/433,2023-09-25T13:38:18Z,2023-09-27T10:55:09Z,0,2,MERGED
+solid,chore: fix linting errors on main,https://github.com/solid-design-system/solid/pull/432,2023-09-25T11:36:50Z,2023-09-25T11:49:10Z,0,1,MERGED
+solid,docs: 📚 clarify usage of Pattern vs. Sample & Style vs. Component,https://github.com/solid-design-system/solid/pull/431,2023-09-25T11:28:51Z,2023-09-27T07:42:12Z,2,2,MERGED
+solid,fix: 🐛 fix CEM loading in Storybook,https://github.com/solid-design-system/solid/pull/427,2023-09-22T14:02:51Z,2023-09-25T09:47:03Z,1,7,MERGED
+solid,fix: 🐛 prevent rewrite of inset property when border variant was selected in sd-teaser,https://github.com/solid-design-system/solid/pull/422,2023-09-21T09:42:18Z,2023-09-22T08:30:06Z,0,3,MERGED
+solid,feat: ✨ sd-button with sd-badge sample,https://github.com/solid-design-system/solid/pull/420,2023-09-20T09:50:55Z,2023-10-06T12:49:19Z,10,9,MERGED
+solid,fix: 🤔changed paragraph default size to text-base,https://github.com/solid-design-system/solid/pull/419,2023-09-20T09:43:41Z,2023-09-21T10:43:05Z,0,1,MERGED
+solid,docs: 📚 make tailwind classes available in stroybook,https://github.com/solid-design-system/solid/pull/412,2023-09-18T11:10:54Z,2023-09-18T15:03:06Z,1,2,MERGED
+solid,fix: 🤔 styles not available on CDN,https://github.com/solid-design-system/solid/pull/411,2023-09-18T09:49:35Z,2023-09-25T10:01:56Z,0,2,MERGED
+solid,feat: ✨ quote pattern,https://github.com/solid-design-system/solid/pull/405,2023-09-15T14:06:18Z,2023-09-21T11:03:18Z,7,14,MERGED
+solid,feat: ✨ add inverted styles to sd-interactive,https://github.com/solid-design-system/solid/pull/385,2023-09-14T12:10:39Z,2023-09-15T07:57:49Z,0,2,MERGED
+solid,feat: ✨ add sd-table and sd-table-cell,https://github.com/solid-design-system/solid/pull/379,2023-09-13T07:04:31Z,2023-09-20T10:36:01Z,18,22,MERGED
+solid,feat: sd navigation item,https://github.com/solid-design-system/solid/pull/377,2023-09-12T14:13:36Z,2023-09-29T10:48:34Z,33,32,MERGED
+solid,docs: 📚 Change name for new component issue,https://github.com/solid-design-system/solid/pull/375,2023-09-12T12:19:29Z,2023-09-12T12:23:14Z,0,1,MERGED
+solid,feat/sd-navigation-item,https://github.com/solid-design-system/solid/pull/374,2023-09-11T15:53:22Z,2023-09-12T08:42:45Z,0,13,CLOSED
+solid,ci:👷 add dependabot,https://github.com/solid-design-system/solid/pull/373,2023-09-11T13:55:19Z,2023-09-14T14:15:53Z,17,17,MERGED
+solid,fix: firefox sd-button replication,https://github.com/solid-design-system/solid/pull/371,2023-09-08T13:46:23Z,2023-09-08T13:48:29Z,0,30,CLOSED
+solid,docs: add user story to templates and create new comp template,https://github.com/solid-design-system/solid/pull/370,2023-09-08T10:04:36Z,2023-09-08T14:26:40Z,0,1,MERGED
+solid,feat: sd-interactive,https://github.com/solid-design-system/solid/pull/365,2023-09-01T13:14:43Z,2023-09-05T13:10:51Z,9,4,MERGED
+solid,docs: create and implement migration template,https://github.com/solid-design-system/solid/pull/363,2023-08-31T19:12:33Z,2023-09-01T09:26:28Z,2,5,MERGED
+solid,docs: DOM-structure error in sd-accordion (local),https://github.com/solid-design-system/solid/pull/360,2023-08-30T14:45:14Z,2023-08-30T15:33:31Z,0,1,MERGED
+solid,docs: 📚 change defaults for sd-teaser,https://github.com/solid-design-system/solid/pull/358,2023-08-30T12:10:35Z,2023-08-31T14:26:59Z,0,2,MERGED
+solid,fix: implement correct boxShadows,https://github.com/solid-design-system/solid/pull/354,2023-08-29T09:29:28Z,2023-08-29T13:11:53Z,0,2,MERGED
+solid,feat: ✨ sd-dropdown,https://github.com/solid-design-system/solid/pull/353,2023-08-28T11:46:08Z,2023-08-30T12:26:00Z,21,33,MERGED
+solid,feat: ✨ add sd-tag,https://github.com/solid-design-system/solid/pull/352,2023-08-25T11:44:07Z,2023-09-05T07:33:38Z,9,38,MERGED
+solid,DRAFT - feat: ✨ add sd-tag (#148),https://github.com/solid-design-system/solid/pull/345,2023-08-18T12:49:51Z,2023-08-21T06:35:23Z,0,19,CLOSED
+solid,feat: ✨ add sd-drawer,https://github.com/solid-design-system/solid/pull/344,2023-08-18T11:23:20Z,2023-08-31T14:42:48Z,26,17,MERGED
+solid,feat: ✨Add sd-tag,https://github.com/solid-design-system/solid/pull/340,2023-08-16T12:15:00Z,2023-08-16T17:41:02Z,1,3,CLOSED
+solid,feat: ✨Add sd-tag (#148),https://github.com/solid-design-system/solid/pull/339,2023-08-16T12:10:28Z,2023-08-16T12:11:59Z,0,1,CLOSED
+solid,fix: 🤔 sd-accordion focus state,https://github.com/solid-design-system/solid/pull/338,2023-08-16T11:13:26Z,2023-08-17T08:40:45Z,0,1,MERGED
+solid, docs: 📚 Add privacy concerns to contributing.md,https://github.com/solid-design-system/solid/pull/337,2023-08-16T09:10:17Z,2023-08-21T09:22:07Z,1,3,MERGED
+solid,fix: brandshape whitespace,https://github.com/solid-design-system/solid/pull/333,2023-08-15T06:33:08Z,2023-08-16T10:12:14Z,0,5,MERGED
+solid,docs: improve opengraph and browser meta appearance,https://github.com/solid-design-system/solid/pull/332,2023-08-14T14:23:24Z,2023-08-24T07:10:43Z,18,26,MERGED
+solid,docs: 📚 whitelabel examples,https://github.com/solid-design-system/solid/pull/330,2023-08-10T12:43:47Z,2023-08-31T14:24:33Z,0,7,CLOSED
+solid,docs: 📚 Adding tokens and a11y to CONTRIBUTING.md,https://github.com/solid-design-system/solid/pull/328,2023-08-10T08:45:01Z,2023-08-15T07:31:04Z,2,7,MERGED
+solid,feat: ✨ add sd-badge (#232),https://github.com/solid-design-system/solid/pull/326,2023-08-10T07:37:44Z,2023-08-18T10:07:53Z,30,31,MERGED
+solid,docs: 📚 improve ui-teaser migration guide,https://github.com/solid-design-system/solid/pull/325,2023-08-09T09:08:06Z,2023-08-09T10:00:10Z,0,1,MERGED
+solid,feat: ✨sd-carousel,https://github.com/solid-design-system/solid/pull/324,2023-08-08T13:02:56Z,2023-10-10T14:09:32Z,27,80,MERGED
+solid,docs: 📚 add migration guide for ui-teaser and a story when meta slot is empty,https://github.com/solid-design-system/solid/pull/322,2023-08-07T09:47:32Z,2023-08-08T10:56:41Z,2,2,MERGED
+solid,docs: 📚 use correct version number for sd-teaser,https://github.com/solid-design-system/solid/pull/320,2023-08-03T13:34:55Z,2023-08-03T13:42:39Z,0,1,MERGED
+solid,docs: add info for feature branch deployments,https://github.com/solid-design-system/solid/pull/319,2023-08-02T12:56:02Z,2023-08-08T07:58:46Z,0,1,MERGED
+solid,feat: ✨ update tokens,https://github.com/solid-design-system/solid/pull/318,2023-08-01T13:48:48Z,2023-08-16T09:22:19Z,7,4,MERGED
+solid,chore: update-issue-templates,https://github.com/solid-design-system/solid/pull/313,2023-08-01T10:35:27Z,2023-08-01T13:11:40Z,0,2,MERGED
+solid,test: 🧪 improve tests locally,https://github.com/solid-design-system/solid/pull/312,2023-08-01T09:46:08Z,2023-08-01T10:26:28Z,1,4,MERGED
+solid,perf: 🚀 minify dynamic html tags (close #250),https://github.com/solid-design-system/solid/pull/311,2023-08-01T09:14:15Z,2023-08-01T10:24:30Z,0,2,MERGED
+solid,perf: 🚀 minify dynamic html tags (close #250),https://github.com/solid-design-system/solid/pull/310,2023-08-01T08:35:48Z,2023-08-01T09:16:12Z,0,5,CLOSED
+solid,feat: ✨ add sd-dialog,https://github.com/solid-design-system/solid/pull/668,2023-12-22T08:05:51Z,2024-01-30T09:58:27Z,20,29,MERGED
+solid,fix: 🐛 make setCustomValidity() + reportValidity() work with inputs' inline errors,https://github.com/solid-design-system/solid/pull/667,2023-12-21T16:04:34Z,2024-01-10T11:35:39Z,2,5,MERGED
+solid,docs: 📚 improve a11y on headline examples,https://github.com/solid-design-system/solid/pull/665,2023-12-21T07:17:52Z,2023-12-22T07:46:38Z,0,3,MERGED
+solid,"fix: 🤔 teaser variant 'white border-neutral-400', - no border around media slot",https://github.com/solid-design-system/solid/pull/663,2023-12-19T08:10:21Z,2023-12-22T07:47:12Z,2,4,MERGED
+solid,docs: 🤔 change status of CSS Style (Components) from experimental to stable,https://github.com/solid-design-system/solid/pull/660,2023-12-15T09:26:26Z,2023-12-15T15:30:24Z,0,2,MERGED
+solid,chore: complete GitHub community standards,https://github.com/solid-design-system/solid/pull/658,2023-12-13T10:27:16Z,2023-12-13T14:16:10Z,1,4,MERGED
+solid,fix: 🤔 sd-chip prevent text wrap,https://github.com/solid-design-system/solid/pull/657,2023-12-12T14:36:31Z,2023-12-13T07:14:47Z,0,1,MERGED
+solid,chore: 🔧 add draft-check job to PRs,https://github.com/solid-design-system/solid/pull/656,2023-12-12T13:37:35Z,2023-12-12T17:59:44Z,0,9,MERGED
+solid,chore: make Chromatic tests if `verify` has passed,https://github.com/solid-design-system/solid/pull/654,2023-12-12T08:54:26Z,2023-12-12T10:33:17Z,2,2,MERGED
+solid,feat: ✨ improve CSS inside components via PostCSS,https://github.com/solid-design-system/solid/pull/653,2023-12-11T14:26:41Z,2023-12-12T15:57:42Z,6,7,MERGED
+solid,feat: ✨ add inline validation + improve initial validation,https://github.com/solid-design-system/solid/pull/647,2023-12-08T13:22:30Z,2023-12-15T13:53:03Z,27,46,MERGED
+solid,docs: 📚 add migration guide for sd-input,https://github.com/solid-design-system/solid/pull/646,2023-12-08T06:57:03Z,2023-12-13T08:14:57Z,1,2,MERGED
+solid,feat: ✨ add sd-flag,https://github.com/solid-design-system/solid/pull/644,2023-12-07T12:22:31Z,2023-12-12T14:22:59Z,6,18,MERGED
+solid,fix: improve TailwindCSS parser,https://github.com/solid-design-system/solid/pull/643,2023-12-07T10:31:54Z,2023-12-07T12:03:13Z,0,2,MERGED
+solid,feat: ✨ add sd-chip,https://github.com/solid-design-system/solid/pull/637,2023-12-04T09:29:25Z,2023-12-06T12:50:40Z,8,8,MERGED
+solid,feat: ✨ add sd-select #258,https://github.com/solid-design-system/solid/pull/634,2023-12-01T16:32:33Z,2023-12-06T12:52:01Z,19,88,MERGED
+solid,docs: 📚 add migration guide for sd-leadtext ,https://github.com/solid-design-system/solid/pull/630,2023-11-29T08:38:11Z,2023-11-29T10:59:51Z,0,2,MERGED
+solid,docs: 📚 add migration guide for sd-paragraph,https://github.com/solid-design-system/solid/pull/629,2023-11-29T08:34:39Z,2023-11-29T11:01:31Z,0,2,MERGED
+solid,docs: 📚 add migration guide for sd-meta,https://github.com/solid-design-system/solid/pull/628,2023-11-29T08:32:07Z,2023-11-29T11:01:09Z,1,3,MERGED
+solid,docs: 📚 add migration guide for sd-quote,https://github.com/solid-design-system/solid/pull/626,2023-11-28T15:07:24Z,2023-11-29T15:07:09Z,1,3,MERGED
+solid,feat: ✨ add sd-radio-button,https://github.com/solid-design-system/solid/pull/622,2023-11-28T08:05:19Z,2023-12-14T12:50:46Z,20,17,MERGED
+solid,docs: 📚 add migration guide for sd-headline,https://github.com/solid-design-system/solid/pull/621,2023-11-28T01:31:25Z,2023-11-29T10:50:29Z,1,4,MERGED
+solid,docs: 📚 add migration guide for sd-video,https://github.com/solid-design-system/solid/pull/620,2023-11-27T23:24:16Z,2023-12-01T11:10:35Z,2,2,MERGED
+solid,feat: ✨ add sd-container - CSS style,https://github.com/solid-design-system/solid/pull/619,2023-11-27T19:29:38Z,2023-12-05T08:09:39Z,6,2,MERGED
+solid,docs: optimize contributing guidelines,https://github.com/solid-design-system/solid/pull/618,2023-11-27T13:04:20Z,2023-12-08T11:45:44Z,14,4,MERGED
+solid,ci: 👷 prevent renovate trigger checks multiple times,https://github.com/solid-design-system/solid/pull/597,2023-11-23T12:21:20Z,2023-11-24T11:32:34Z,0,1,MERGED
+solid,ci: 👷 refine PR title linting,https://github.com/solid-design-system/solid/pull/596,2023-11-23T12:14:34Z,2023-11-24T11:32:14Z,0,2,MERGED
+solid,docs: sort docs files and add QA section,https://github.com/solid-design-system/solid/pull/593,2023-11-22T09:57:12Z,2023-11-23T10:02:53Z,9,4,MERGED
+solid,docs: 📚 add bug-hint to Storybook ,https://github.com/solid-design-system/solid/pull/592,2023-11-22T09:49:50Z,2023-11-29T11:00:32Z,8,6,MERGED
+solid,feat: ✨ update tokens,https://github.com/solid-design-system/solid/pull/591,2023-11-22T09:41:35Z,2023-11-23T12:04:32Z,7,3,MERGED
+solid,feat: ✨ add sd-textarea,https://github.com/solid-design-system/solid/pull/589,2023-11-22T08:58:33Z,2023-12-06T14:13:44Z,22,23,MERGED
+solid,test: 🧪 DO NOT MERGE,https://github.com/solid-design-system/solid/pull/586,2023-11-20T11:08:47Z,2023-11-20T11:10:12Z,0,120,CLOSED
+solid,fix: 🤔 add z-index tokens ,https://github.com/solid-design-system/solid/pull/576,2023-11-16T09:34:17Z,2023-11-17T13:29:21Z,5,4,MERGED
+solid,feat: ✨ update sd-accordion meeting WCAG criteria / design refresh,https://github.com/solid-design-system/solid/pull/575,2023-11-16T05:38:47Z,2023-11-20T10:22:08Z,7,7,MERGED
+solid,docs: fix storybook,https://github.com/solid-design-system/solid/pull/574,2023-11-15T14:59:41Z,2023-11-15T15:03:48Z,0,1,MERGED
+solid,docs: update sd-input component version,https://github.com/solid-design-system/solid/pull/539,2023-11-13T14:51:59Z,2023-11-13T15:52:59Z,0,2,MERGED
+solid,feat: ✨ sd-switch,https://github.com/solid-design-system/solid/pull/538,2023-11-13T13:32:01Z,2023-11-17T10:57:29Z,18,12,MERGED
+solid,chore: update version in tooltip docs,https://github.com/solid-design-system/solid/pull/535,2023-11-10T13:05:54Z,2023-11-10T13:14:40Z,0,1,MERGED
+solid,chore(sd-checkbox): change version,https://github.com/solid-design-system/solid/pull/532,2023-11-10T09:31:40Z,2023-11-10T09:50:13Z,1,1,MERGED
+solid,refactor: sd-radio & sd-radio-group,https://github.com/solid-design-system/solid/pull/528,2023-11-09T14:42:46Z,2023-11-10T09:50:42Z,0,4,MERGED
+solid,chore: remove versioned web type generation,https://github.com/solid-design-system/solid/pull/526,2023-11-09T10:35:36Z,2023-11-09T11:15:54Z,0,1,MERGED
+solid,fix: 🤔 Typo -> sl-icon,https://github.com/solid-design-system/solid/pull/525,2023-11-09T08:43:40Z,2023-11-09T15:50:17Z,1,1,MERGED
+solid,docs: 📚 add README.md to each package,https://github.com/solid-design-system/solid/pull/524,2023-11-09T08:34:14Z,2023-11-10T11:44:04Z,0,9,MERGED
+solid,feat: ✨ update all dependencies,https://github.com/solid-design-system/solid/pull/523,2023-11-08T13:58:22Z,2023-11-08T14:27:00Z,0,4,MERGED
+solid,docs: prevent primary colors going black,https://github.com/solid-design-system/solid/pull/519,2023-11-06T13:39:04Z,2023-11-13T08:41:06Z,0,5,MERGED
+solid,feat: ✨ add sd-notification,https://github.com/solid-design-system/solid/pull/517,2023-11-06T08:59:17Z,2023-11-17T14:49:52Z,35,60,MERGED
+solid,feat: ✨ add sd-input,https://github.com/solid-design-system/solid/pull/515,2023-11-02T11:13:43Z,2023-11-13T14:39:46Z,53,127,MERGED
+solid,chore(deps): Revert update dependency typescript to v5.4.3,https://github.com/solid-design-system/solid/pull/890,2024-03-21T12:04:57Z,2024-03-21T12:46:39Z,0,1,MERGED
+solid,"Revert ""feat: ✨ add sd-footnote - CSS style""",https://github.com/solid-design-system/solid/pull/889,2024-03-21T11:06:25Z,2024-03-21T12:05:12Z,0,1,CLOSED
+solid,docs: optimize code output + add TOCs,https://github.com/solid-design-system/solid/pull/881,2024-03-20T10:03:04Z,2024-03-20T20:22:43Z,3,1,MERGED
+solid,fix: 🤔 logo for the Sample B Story of the sd-header,https://github.com/solid-design-system/solid/pull/879,2024-03-20T08:30:33Z,2024-03-20T11:28:25Z,0,1,MERGED
+solid,fix: remove wrong font stack from components,https://github.com/solid-design-system/solid/pull/876,2024-03-19T16:36:47Z,2024-03-19T17:23:09Z,0,2,MERGED
+solid,docs: 📚 add migration guide from ui-image to sd-media and sd-copyright [skip chromatic],https://github.com/solid-design-system/solid/pull/875,2024-03-19T08:19:53Z,2024-04-03T06:53:50Z,4,4,MERGED
+solid,feat: add sd-icon default library which points to new CDN,https://github.com/solid-design-system/solid/pull/873,2024-03-18T15:50:35Z,2024-03-20T11:46:13Z,0,9,MERGED
+solid,docs: 📚 add sd-tab-group samples that do not show the custom css & remove deprecated css properties,https://github.com/solid-design-system/solid/pull/870,2024-03-15T14:39:52Z,2024-03-18T12:11:59Z,2,6,MERGED
+solid,docs: 📚  Typo in Migration Guide for ui-quotation,https://github.com/solid-design-system/solid/pull/869,2024-03-15T13:37:53Z,2024-03-18T10:36:15Z,0,2,MERGED
+solid,docs: 📚 font-size tokens not represented in samples,https://github.com/solid-design-system/solid/pull/868,2024-03-15T08:48:22Z,2024-03-18T12:10:41Z,3,5,MERGED
+solid,docs: 📚 add explanation on token groups [skip chromatic],https://github.com/solid-design-system/solid/pull/864,2024-03-14T08:02:01Z,2024-03-18T14:08:09Z,2,3,MERGED
+solid,feat: ✨ add sd-footnote - CSS style,https://github.com/solid-design-system/solid/pull/863,2024-03-14T07:54:33Z,2024-03-21T09:24:48Z,7,11,MERGED
+solid,docs: 📚 create a list of deselected ui-components [skip chromatic],https://github.com/solid-design-system/solid/pull/862,2024-03-14T07:43:04Z,2024-03-15T09:01:29Z,0,1,MERGED
+solid,fix: adjusting vertical-transparent-white token + deprecating vertical-white-transparent,https://github.com/solid-design-system/solid/pull/851,2024-03-11T13:55:03Z,2024-03-12T14:20:26Z,0,1,MERGED
+solid,docs: add link to figma file structure to development guidelines [skip chromatic],https://github.com/solid-design-system/solid/pull/849,2024-03-08T15:48:31Z,2024-03-12T08:57:27Z,0,1,MERGED
+solid,fix: adjust vertical spacing of navigation-item#vertical,https://github.com/solid-design-system/solid/pull/847,2024-03-08T08:27:17Z,2024-03-14T15:04:54Z,5,2,MERGED
+solid,feat: ✨ add supernumber pattern ,https://github.com/solid-design-system/solid/pull/845,2024-03-07T11:43:02Z,2024-03-14T08:52:21Z,16,20,MERGED
+solid,docs: 📚 add migration guide from ui-container to sd-container and sd-brandshape [skip chromatic] ,https://github.com/solid-design-system/solid/pull/820,2024-03-05T17:00:57Z,2024-03-12T06:57:37Z,0,2,MERGED
+solid,fix: 🤔 CTA button color ,https://github.com/solid-design-system/solid/pull/810,2024-03-04T14:49:18Z,2024-03-05T13:24:24Z,1,1,MERGED
+solid,docs: 📚 deprecate ui-tile and add migration guide ,https://github.com/solid-design-system/solid/pull/804,2024-03-01T11:05:54Z,2024-03-01T15:35:03Z,2,1,MERGED
+solid,chore: revert update dependency @mariohamann/wc-storybook-helpers,https://github.com/solid-design-system/solid/pull/791,2024-02-28T15:46:40Z,2024-02-28T16:45:25Z,1,1,MERGED
+solid,fix: test,https://github.com/solid-design-system/solid/pull/790,2024-02-28T15:26:55Z,2024-02-28T15:56:18Z,0,3,CLOSED
+solid,fix: arbitrary values in container style,https://github.com/solid-design-system/solid/pull/788,2024-02-28T11:56:08Z,2024-02-29T10:36:54Z,1,4,MERGED
+solid,docs: 🤔 button group order/stacking,https://github.com/solid-design-system/solid/pull/782,2024-02-26T19:07:59Z,2024-02-29T11:32:57Z,5,11,MERGED
+solid,feat: add placeholder video,https://github.com/solid-design-system/solid/pull/781,2024-02-26T13:23:15Z,2024-02-27T16:09:32Z,0,1,MERGED
+solid,feat: ✨ add sd container triangle property,https://github.com/solid-design-system/solid/pull/776,2024-02-23T13:44:25Z,2024-02-28T09:36:37Z,16,11,MERGED
+solid,docs: 📚 improve sd-notification docs,https://github.com/solid-design-system/solid/pull/769,2024-02-20T18:12:00Z,2024-02-21T11:29:17Z,0,1,MERGED
+solid,docs: 📚 Add more helpful commands to CONTRIBUTING.md ,https://github.com/solid-design-system/solid/pull/768,2024-02-20T17:51:59Z,2024-02-21T11:29:32Z,0,1,MERGED
+solid,docs: replace FinanzAgenda logo with partner logo,https://github.com/solid-design-system/solid/pull/767,2024-02-20T08:02:39Z,2024-02-23T08:07:59Z,0,1,MERGED
+solid,docs: add more samples to sd-teaser,https://github.com/solid-design-system/solid/pull/766,2024-02-20T07:30:04Z,2024-02-21T06:36:01Z,1,3,MERGED
+solid,fix: remove unneeded gradient horizontal,https://github.com/solid-design-system/solid/pull/764,2024-02-19T13:45:45Z,2024-02-26T08:39:12Z,1,1,MERGED
+solid,fix: 🤔 sd-video accessibility test [skip chromatic],https://github.com/solid-design-system/solid/pull/758,2024-02-16T08:19:23Z,2024-02-20T07:30:49Z,0,2,MERGED
+solid,feat: ✨ add defined aspect ratios and additional colors,https://github.com/solid-design-system/solid/pull/757,2024-02-14T19:46:24Z,2024-02-27T14:11:52Z,10,10,MERGED
+solid,feat: ✨ extend placeholder package with placeholder texts,https://github.com/solid-design-system/solid/pull/756,2024-02-14T13:39:11Z,2024-02-16T10:16:27Z,3,9,MERGED
+solid,feat: ✨ add sd-media + sd-copyright - CSS style,https://github.com/solid-design-system/solid/pull/755,2024-02-14T12:34:35Z,2024-02-23T05:44:09Z,13,8,MERGED
+solid,fix: fix wrong customElement import + update eslint rule,https://github.com/solid-design-system/solid/pull/754,2024-02-14T11:54:34Z,2024-02-14T12:01:24Z,0,1,MERGED
+solid,feat: ✨ add sd-tab & sd-tab-group ,https://github.com/solid-design-system/solid/pull/753,2024-02-14T07:06:47Z,2024-02-23T15:10:14Z,25,40,MERGED
+solid,fix: add german language to bundle,https://github.com/solid-design-system/solid/pull/748,2024-02-09T15:22:05Z,2024-02-09T15:45:59Z,0,3,MERGED
+solid,docs: add additional info for tokens Readme [skip chromatic],https://github.com/solid-design-system/solid/pull/743,2024-02-08T10:41:09Z,2024-02-09T11:31:38Z,0,2,MERGED
+solid,fix: 🤔 sd-dropdown handle tab key event in deeper nested shadow root,https://github.com/solid-design-system/solid/pull/742,2024-02-08T08:25:04Z,2024-02-12T10:57:16Z,0,3,MERGED
+solid,docs: add feature-check-in section to contribution guide [skip chromatic],https://github.com/solid-design-system/solid/pull/741,2024-02-07T15:38:09Z,2024-02-13T08:59:17Z,0,1,MERGED
+solid,docs: add review comment section to guidelines [skip chromatic],https://github.com/solid-design-system/solid/pull/740,2024-02-07T15:19:19Z,2024-02-13T09:01:25Z,1,3,MERGED
+solid,docs: add pre-refinement info to contribution guide [skip chromatic],https://github.com/solid-design-system/solid/pull/739,2024-02-07T15:02:40Z,2024-02-14T16:11:03Z,1,5,MERGED
+solid,fix: 🤔 sd-headline does not include a line-height style,https://github.com/solid-design-system/solid/pull/734,2024-02-07T10:23:11Z,2024-02-08T08:48:53Z,2,1,MERGED
+solid,fix: 🤔 min-width of input element does not match responsiveness of sd-select/sd-input ,https://github.com/solid-design-system/solid/pull/733,2024-02-06T22:47:01Z,2024-02-16T06:10:23Z,3,5,MERGED
+solid,feat: Add opacity tokens,https://github.com/solid-design-system/solid/pull/732,2024-02-05T19:50:28Z,2024-02-07T09:16:49Z,2,1,MERGED
+solid,feat: ✨ sd-media-teaser – add component,https://github.com/solid-design-system/solid/pull/725,2024-01-31T07:15:13Z,2024-02-09T09:13:23Z,9,24,MERGED
+solid,docs: add imprint file to storybooks legal chapter [skip chromatic],https://github.com/solid-design-system/solid/pull/724,2024-01-30T14:16:37Z,2024-01-30T14:58:13Z,2,1,MERGED
+solid,fix: output of color-calculation.js for white and black color,https://github.com/solid-design-system/solid/pull/723,2024-01-30T13:50:25Z,2024-01-30T14:53:04Z,2,1,MERGED
+solid,docs: add license files to each package [skip chromatic],https://github.com/solid-design-system/solid/pull/722,2024-01-30T13:44:07Z,2024-01-30T14:50:12Z,0,2,MERGED
+solid,ci: update chromatic actions in pr-check,https://github.com/solid-design-system/solid/pull/720,2024-01-30T08:20:38Z,2024-01-30T08:35:03Z,0,1,MERGED
+solid,docs: 📚 clean up @state decorators and non-private methods in storybook,https://github.com/solid-design-system/solid/pull/717,2024-01-26T15:03:57Z,2024-01-31T15:09:19Z,0,4,MERGED
+solid,chore: use latest chromaui/action version,https://github.com/solid-design-system/solid/pull/716,2024-01-26T14:40:42Z,2024-01-26T16:12:26Z,0,1,MERGED
+solid,chore: 🔧 fix failing scrollend event related tests for sd-carousel [skip chromatic],https://github.com/solid-design-system/solid/pull/711,2024-01-25T08:25:51Z,2024-01-25T16:30:00Z,0,3,MERGED
+solid,fix: 🤔 re-integrate web-types generation [skip chromatic],https://github.com/solid-design-system/solid/pull/710,2024-01-25T05:48:14Z,2024-01-25T16:28:22Z,3,1,MERGED
+solid,feat: extract @solid-design-system/theming package,https://github.com/solid-design-system/solid/pull/708,2024-01-24T14:50:34Z,2024-01-30T12:16:04Z,0,21,MERGED
+solid,feat: ✨add shadow variant for sd-table-cell ,https://github.com/solid-design-system/solid/pull/704,2024-01-24T08:22:26Z,2024-02-06T09:19:18Z,5,31,MERGED
+solid,fix: remove automatic valid styling from form fields,https://github.com/solid-design-system/solid/pull/703,2024-01-23T11:32:07Z,2024-01-26T10:51:35Z,6,2,MERGED
+solid,docs: remove @state from docs [skip chromatic],https://github.com/solid-design-system/solid/pull/701,2024-01-22T14:07:42Z,2024-04-08T08:41:07Z,3,2,CLOSED
+solid,docs: 📚 add privacy statement to storybook [skip chromatic],https://github.com/solid-design-system/solid/pull/700,2024-01-22T12:31:47Z,2024-01-25T13:21:41Z,2,3,MERGED
+solid,docs: add tokens handling [skip chromatic],https://github.com/solid-design-system/solid/pull/697,2024-01-19T10:55:06Z,2024-01-26T11:54:20Z,7,11,MERGED
+solid,docs: 📚 npm package import stencil / webpack,https://github.com/solid-design-system/solid/pull/694,2024-01-18T08:16:21Z,2024-01-18T11:16:52Z,0,1,MERGED
+solid,fix: add missing navigation-item parts,https://github.com/solid-design-system/solid/pull/693,2024-01-18T07:39:32Z,2024-01-18T09:44:41Z,0,1,MERGED
+solid,fix: 🤔 parts not marked (red border) in storybook in sd-select,https://github.com/solid-design-system/solid/pull/690,2024-01-17T21:31:37Z,2024-01-19T07:41:12Z,0,1,MERGED
+solid,fix: 🤔 z-index in sd-select,https://github.com/solid-design-system/solid/pull/685,2024-01-16T13:01:38Z,2024-01-18T12:45:22Z,5,1,MERGED
+solid,chore: prevent Chromatic on PRs with [skip chromatic],https://github.com/solid-design-system/solid/pull/681,2024-01-12T14:58:27Z,2024-01-12T15:15:21Z,0,2,MERGED
+solid,docs: 📚 add developer starting guide [skip chromatic],https://github.com/solid-design-system/solid/pull/680,2024-01-12T14:22:00Z,2024-01-25T10:03:12Z,11,9,MERGED
+solid,fix: change gradients,https://github.com/solid-design-system/solid/pull/679,2024-01-11T19:38:53Z,2024-01-19T11:33:40Z,1,10,MERGED
+solid,docs: 📚 remove @state decorators and add non-private methods to Storybook,https://github.com/solid-design-system/solid/pull/678,2024-01-11T07:56:59Z,2024-01-15T09:19:39Z,2,2,MERGED
+solid,feat: ✨ add sd-list (CSS style),https://github.com/solid-design-system/solid/pull/677,2024-01-11T06:58:25Z,2024-01-23T12:16:33Z,12,33,MERGED
+solid,docs: 🤔 storybook code-view cleaned up,https://github.com/solid-design-system/solid/pull/676,2024-01-10T08:06:02Z,2024-01-10T09:12:43Z,0,1,MERGED
+solid,docs: 📚  sd-table-cell add sortable sample,https://github.com/solid-design-system/solid/pull/673,2024-01-09T08:27:44Z,2024-02-09T06:49:41Z,3,3,MERGED
+solid,Figma tokens -> Change overlay color,https://github.com/solid-design-system/solid/pull/672,2024-01-08T12:27:35Z,2024-01-12T12:14:15Z,3,41,CLOSED
+solid,feat: ✨ add interactive teaser sample,https://github.com/solid-design-system/solid/pull/670,2024-01-08T09:47:07Z,2024-01-15T12:47:37Z,18,6,MERGED
+solid,fix: 🤔 add missing part for accordion-border,https://github.com/solid-design-system/solid/pull/669,2024-01-04T13:44:53Z,2024-01-08T09:53:25Z,0,1,MERGED
+solid,ci: 👷 Remove Security Label from general PRs,https://github.com/solid-design-system/solid/pull/1123,2024-05-30T14:03:20Z,2024-05-31T08:23:53Z,1,3,MERGED
+solid,ci: 👷 Remove Security Label from general PRs,https://github.com/solid-design-system/solid/pull/1122,2024-05-30T13:28:22Z,2024-05-30T13:48:14Z,0,4,CLOSED
+solid,feat: ✨ add sd-flipcard,https://github.com/solid-design-system/solid/pull/1121,2024-05-30T12:31:01Z,2024-07-01T08:02:34Z,18,40,MERGED
+solid,ci(token): deprecating old gradient tokens for sd-expandable & sd-scrollable,https://github.com/solid-design-system/solid/pull/1119,2024-05-27T14:08:44Z,2024-05-27T14:21:45Z,0,1,MERGED
+solid,ci: 👷 Ensure Renovate PRs are Exclusively Security Related,https://github.com/solid-design-system/solid/pull/1117,2024-05-24T13:08:09Z,2024-05-29T07:47:11Z,0,2,MERGED
+solid,ci: update renovate security config,https://github.com/solid-design-system/solid/pull/1114,2024-05-22T12:31:14Z,2024-05-23T07:48:15Z,0,1,MERGED
+solid,ci: stop non-security renovate updates [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1093,2024-05-15T07:09:44Z,2024-05-15T14:12:18Z,0,9,MERGED
+solid,ci: update renovate process [skip chromatic],https://github.com/solid-design-system/solid/pull/1051,2024-05-07T14:33:25Z,2024-05-10T08:13:25Z,5,5,MERGED
+solid,feat: accept svg string in icon libraries,https://github.com/solid-design-system/solid/pull/1050,2024-05-07T07:03:15Z,2024-08-07T08:25:46Z,1,1,CLOSED
+solid,fix: 🤔 remove placeholder for fixed column sample,https://github.com/solid-design-system/solid/pull/1045,2024-05-06T13:42:55Z,2024-05-14T13:05:54Z,1,1,MERGED
+solid,feat: ✨ optimize `autocomplete-config` to allow max-height for listbox,https://github.com/solid-design-system/solid/pull/1043,2024-05-06T08:43:55Z,2024-05-06T14:48:59Z,0,3,MERGED
+solid,fix: accept full height of container,https://github.com/solid-design-system/solid/pull/1036,2024-05-03T12:34:15Z,2024-06-13T06:17:42Z,2,1,CLOSED
+solid,feat: ✨add placeholder video,https://github.com/solid-design-system/solid/pull/1032,2024-05-03T11:05:45Z,2024-05-06T09:56:41Z,1,2,MERGED
+solid,docs: 📚 supernumber pattern - add information/guidance,https://github.com/solid-design-system/solid/pull/1010,2024-05-02T11:57:24Z,2024-05-05T14:01:50Z,4,2,MERGED
+solid,feat: ✨ add sd-step & sd-step-group ,https://github.com/solid-design-system/solid/pull/1007,2024-05-02T07:40:42Z,2024-05-24T13:19:00Z,28,63,MERGED
+solid,ci(token): add *background-transparent|30 token for sd-map-marker,https://github.com/solid-design-system/solid/pull/1006,2024-05-02T07:34:32Z,2024-05-03T08:25:57Z,0,1,MERGED
+solid,ci: restructure issue templates to work with epics [skip chromatic],https://github.com/solid-design-system/solid/pull/1002,2024-04-30T12:02:00Z,2024-04-30T12:59:12Z,1,16,MERGED
+solid,feat: ✨ add custom localization (closes #852),https://github.com/solid-design-system/solid/pull/997,2024-04-29T14:33:22Z,2024-06-14T11:08:18Z,7,9,MERGED
+solid,fix: exclude event names from versioning,https://github.com/solid-design-system/solid/pull/995,2024-04-29T09:04:35Z,2024-04-29T09:45:23Z,0,1,MERGED
+solid,docs: add faq section,https://github.com/solid-design-system/solid/pull/993,2024-04-26T15:35:43Z,2024-05-22T10:49:44Z,17,14,MERGED
+solid,docs: fix documentation for styles (closes #984),https://github.com/solid-design-system/solid/pull/989,2024-04-25T09:41:32Z,2024-04-26T14:26:59Z,1,2,MERGED
+solid,feat: ✨ add sd-map-marker,https://github.com/solid-design-system/solid/pull/974,2024-04-22T05:16:31Z,2024-04-23T10:15:42Z,6,14,MERGED
+solid,docs: add new estimation (story points) section to developer guide [skip chromatic],https://github.com/solid-design-system/solid/pull/972,2024-04-19T14:49:37Z,2024-04-23T08:34:59Z,0,1,MERGED
+solid,ci: replace PR template metadata with comments [skip chromatic],https://github.com/solid-design-system/solid/pull/971,2024-04-19T14:19:05Z,2024-04-19T16:23:51Z,0,1,MERGED
+solid,docs: add provider disclaimer to sd-icon docs,https://github.com/solid-design-system/solid/pull/969,2024-04-19T13:51:08Z,2024-04-19T16:22:40Z,0,1,MERGED
+solid,docs: fix supernumber countup.js,https://github.com/solid-design-system/solid/pull/968,2024-04-19T09:25:38Z,2024-04-19T10:50:53Z,0,1,MERGED
+solid,ci(token): sd-scrollable update gradients,https://github.com/solid-design-system/solid/pull/967,2024-04-19T09:05:10Z,2024-04-19T15:01:50Z,0,3,MERGED
+solid,feat: ✨ add sd-scrollable,https://github.com/solid-design-system/solid/pull/966,2024-04-19T07:53:57Z,2024-05-22T20:26:19Z,12,20,MERGED
+solid,ci(token): sd-expandable deprecating old gradient tokens,https://github.com/solid-design-system/solid/pull/964,2024-04-18T09:50:05Z,2024-04-19T15:20:20Z,0,7,MERGED
+solid,fix: removing shadow-md token,https://github.com/solid-design-system/solid/pull/963,2024-04-18T09:05:48Z,2024-04-30T12:48:41Z,4,1,MERGED
+solid,feat: ✨ add autocomplete pattern + helper,https://github.com/solid-design-system/solid/pull/962,2024-04-18T07:47:52Z,2024-04-29T12:41:22Z,9,31,MERGED
+solid,feat: ✨ sd-footnotes,https://github.com/solid-design-system/solid/pull/958,2024-04-17T11:49:08Z,2024-04-26T10:31:09Z,4,7,MERGED
+solid,fix: 🤔 align horizontal list,https://github.com/solid-design-system/solid/pull/957,2024-04-17T06:13:09Z,2024-04-18T06:30:34Z,1,1,MERGED
+solid,fix: 🤔 sd-select - correct styling,https://github.com/solid-design-system/solid/pull/951,2024-04-15T12:12:18Z,2024-04-18T20:16:09Z,3,5,MERGED
+solid,docs: 🤔 images in ratio-tokens not displayed correctly,https://github.com/solid-design-system/solid/pull/950,2024-04-15T09:10:24Z,2024-04-17T05:58:40Z,1,1,MERGED
+solid,fix: 🤔 sd-button border-radius,https://github.com/solid-design-system/solid/pull/949,2024-04-15T08:59:38Z,2024-04-17T05:54:02Z,2,1,MERGED
+solid,fix: 🐛 sd-navigation-item remove default href + href when children,https://github.com/solid-design-system/solid/pull/934,2024-04-11T12:12:15Z,2024-04-12T10:04:36Z,0,2,MERGED
+solid,fix: 🤔 change HTML tag from div to p,https://github.com/solid-design-system/solid/pull/932,2024-04-10T17:37:28Z,2024-04-11T09:08:49Z,0,1,MERGED
+solid,feat: add sd-prose (CSS Style),https://github.com/solid-design-system/solid/pull/930,2024-04-10T08:08:59Z,2024-05-29T08:52:48Z,11,19,MERGED
+solid,feat: ✨ add sd-flatpickr style ,https://github.com/solid-design-system/solid/pull/927,2024-04-09T14:37:23Z,2024-04-22T12:48:29Z,9,29,CLOSED
+solid,fix: 🐛  add inverted color to sd-footnote,https://github.com/solid-design-system/solid/pull/926,2024-04-09T13:20:03Z,2024-04-09T15:19:47Z,0,1,MERGED
+solid,chore: improve pr template [skip chromatic],https://github.com/solid-design-system/solid/pull/915,2024-04-05T14:47:37Z,2024-04-09T15:38:41Z,0,1,MERGED
+solid,docs: add more ui-components to discontinued list [skip chromatic],https://github.com/solid-design-system/solid/pull/912,2024-04-05T08:06:14Z,2024-04-09T07:46:24Z,0,1,MERGED
+solid,fix: 🐛 remove TailwindCSS var from sd-copyright,https://github.com/solid-design-system/solid/pull/907,2024-04-03T12:39:29Z,2024-04-09T14:59:56Z,0,1,MERGED
+solid,fix: 🤔 tabs do not grow with longer tab titles ,https://github.com/solid-design-system/solid/pull/904,2024-04-03T10:17:21Z,2024-04-11T08:11:28Z,9,9,MERGED
+solid,docs: sd-link docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1227,2024-07-31T15:52:03Z,2024-08-09T08:47:52Z,16,13,MERGED
+solid,docs: sd-tag docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1226,2024-07-31T10:29:57Z,2024-08-09T07:52:21Z,16,19,MERGED
+solid,docs: fix deployment in PRs [skip chromatic],https://github.com/solid-design-system/solid/pull/1223,2024-07-29T07:57:00Z,2024-07-29T13:24:07Z,0,8,MERGED
+solid,docs: 📚 rewrite docs,https://github.com/solid-design-system/solid/pull/1221,2024-07-26T15:09:02Z,2024-09-16T14:16:43Z,20,106,MERGED
+solid,fix: sd-tooltip self closing with click focus trigger (close #1211),https://github.com/solid-design-system/solid/pull/1220,2024-07-26T10:55:55Z,2024-07-30T11:32:25Z,2,2,MERGED
+solid,fix: #1193 correct clear button color in sd-icon and sd-select,https://github.com/solid-design-system/solid/pull/1217,2024-07-24T12:01:12Z,2024-07-30T15:14:16Z,1,3,MERGED
+solid,feat: 🎸 adding min and max posibility for date type of input,https://github.com/solid-design-system/solid/pull/1215,2024-07-23T13:38:33Z,2024-07-26T07:04:57Z,3,2,MERGED
+solid,feat: add sd-expandable,https://github.com/solid-design-system/solid/pull/1214,2024-07-19T14:14:44Z,2024-08-02T08:31:20Z,15,25,MERGED
+solid,fix: solid faker seed for paragraphs and sentences,https://github.com/solid-design-system/solid/pull/1213,2024-07-18T12:21:17Z,2024-07-23T08:09:05Z,3,5,MERGED
+solid,fix: solid faker seed,https://github.com/solid-design-system/solid/pull/1210,2024-07-15T13:05:09Z,2024-07-16T08:03:13Z,0,1,MERGED
+solid,ci: add new issue templates for simple dev and design features (no-epic) [skip chromatic],https://github.com/solid-design-system/solid/pull/1208,2024-07-12T12:42:12Z,2024-07-12T12:54:20Z,0,3,MERGED
+solid,ci: testing workflows from external forks,https://github.com/solid-design-system/solid/pull/1200,2024-07-09T12:43:18Z,2024-07-09T13:11:41Z,0,4,CLOSED
+solid,docs: add proper link,https://github.com/solid-design-system/solid/pull/1199,2024-07-09T10:21:09Z,2024-07-09T15:21:29Z,0,1,CLOSED
+solid,fix: fix jumping text in navigation item,https://github.com/solid-design-system/solid/pull/1197,2024-07-08T15:02:08Z,2024-07-09T08:26:14Z,0,2,MERGED
+solid,feat: sd-audio,https://github.com/solid-design-system/solid/pull/1194,2024-07-07T22:12:42Z,2024-10-16T09:13:58Z,27,32,MERGED
+solid,feat: add quickfact,https://github.com/solid-design-system/solid/pull/1189,2024-07-03T05:48:22Z,2024-08-09T15:47:11Z,15,42,MERGED
+solid,feat: ✨ implement sd-quickfact component,https://github.com/solid-design-system/solid/pull/1188,2024-07-02T16:25:23Z,2024-07-12T08:11:31Z,12,16,CLOSED
+solid,ci(token): add 4 gradients for sd-flipcard [skip chromatic],https://github.com/solid-design-system/solid/pull/1187,2024-07-01T10:05:25Z,2024-07-01T10:51:38Z,0,1,MERGED
+solid,docs(README): Adding conventional-commits badge to README [skip chromatic],https://github.com/solid-design-system/solid/pull/1186,2024-07-01T08:15:59Z,2024-07-09T15:18:54Z,0,1,MERGED
+solid,docs(README): Correct link to code of conduct [skip chromatic],https://github.com/solid-design-system/solid/pull/1185,2024-07-01T08:14:29Z,2024-07-09T15:21:16Z,0,2,MERGED
+solid,Add token set for synced docs as PoC [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1184,2024-06-29T19:11:42Z,2024-07-26T15:08:07Z,2,10,CLOSED
+solid,fix: fix accent default color in icons,https://github.com/solid-design-system/solid/pull/1182,2024-06-27T10:17:10Z,2024-06-27T13:33:13Z,1,1,MERGED
+solid,fix: add missing tailwind classes,https://github.com/solid-design-system/solid/pull/1181,2024-06-27T09:47:52Z,2024-06-28T09:02:05Z,0,1,MERGED
+solid,feat: ✨ implement new brandshape variants,https://github.com/solid-design-system/solid/pull/1180,2024-06-27T06:38:25Z,2024-07-11T09:34:10Z,5,6,MERGED
+solid,ci(tokens): adding transparent primary.20 [skip chromatic],https://github.com/solid-design-system/solid/pull/1177,2024-06-26T07:43:45Z,2024-06-28T08:15:31Z,0,4,MERGED
+solid,ci: 👷 Remove chromatic's dependency on unit tests,https://github.com/solid-design-system/solid/pull/1163,2024-06-24T09:43:16Z,2024-06-25T08:21:45Z,0,1,MERGED
+solid,ci: update dependency dashboard,https://github.com/solid-design-system/solid/pull/1159,2024-06-19T09:28:32Z,2024-06-19T13:55:12Z,0,3,MERGED
+solid,ci: update all dependencies,https://github.com/solid-design-system/solid/pull/1157,2024-06-18T09:02:14Z,2024-06-19T07:17:20Z,1,1,MERGED
+solid,fix: add utilities to exports,https://github.com/solid-design-system/solid/pull/1156,2024-06-18T09:00:38Z,2024-06-21T12:47:55Z,2,1,MERGED
+solid,"ci(token): add spacing.0,25 token of 1px",https://github.com/solid-design-system/solid/pull/1152,2024-06-12T07:13:50Z,2024-06-25T14:00:20Z,3,6,MERGED
+solid,feat(PB2B-1085): setupautocomplete versioned [skip chromatic],https://github.com/solid-design-system/solid/pull/1150,2024-06-11T10:23:37Z,2024-07-22T11:03:50Z,4,27,CLOSED
+solid,docs: fix firefox bug in table cell example (close #911),https://github.com/solid-design-system/solid/pull/1132,2024-06-06T09:18:33Z,2024-06-06T10:15:49Z,0,1,MERGED
+solid,fix: Test new VRT tool [WIP],https://github.com/solid-design-system/solid/pull/1610,2024-10-31T16:59:30Z,2024-11-22T09:02:17Z,1,6,CLOSED
+solid,chore: add reproduction comment into fix and performance issue template [skip chromatic],https://github.com/solid-design-system/solid/pull/1609,2024-10-30T16:28:19Z,2024-10-30T16:41:28Z,1,1,MERGED
+solid,docs: update faq [skip chromatic],https://github.com/solid-design-system/solid/pull/1608,2024-10-30T16:16:03Z,2024-12-11T12:03:50Z,6,27,MERGED
+solid,fix: sd-carousel & sd-carousel-item a11y,https://github.com/solid-design-system/solid/pull/1607,2024-10-30T09:05:33Z,2024-11-20T15:40:48Z,15,15,MERGED
+solid,docs: add accessible label to tag stories,https://github.com/solid-design-system/solid/pull/1606,2024-10-30T08:57:03Z,2024-11-06T09:42:08Z,1,1,MERGED
+solid,docs: add a11y watchlist page to Storybook [skip chromatic],https://github.com/solid-design-system/solid/pull/1600,2024-10-29T10:23:12Z,2024-10-30T10:23:56Z,2,4,CLOSED
+solid,chore: update failing tests,https://github.com/solid-design-system/solid/pull/1592,2024-10-25T14:10:51Z,2024-10-30T14:34:51Z,3,2,MERGED
+solid,docs: remove primary story from templates,https://github.com/solid-design-system/solid/pull/1589,2024-10-24T16:03:54Z,2024-10-30T15:48:43Z,2,5,MERGED
+solid,fix: sd-brandshape a11y,https://github.com/solid-design-system/solid/pull/1585,2024-10-23T11:59:18Z,2024-10-24T13:27:21Z,1,2,MERGED
+solid,fix: dot controls in sd-carousel behave like numbered controls,https://github.com/solid-design-system/solid/pull/1584,2024-10-23T11:43:10Z,2024-10-29T16:11:03Z,8,5,MERGED
+solid,chore: include transcript in all stories,https://github.com/solid-design-system/solid/pull/1582,2024-10-23T10:58:37Z,2024-10-24T16:11:27Z,1,1,MERGED
+solid,feat: create tooltip slot for input elements,https://github.com/solid-design-system/solid/pull/1579,2024-10-23T07:29:45Z,2024-11-08T08:40:44Z,13,20,MERGED
+solid,fix: sd-navigation-item a11y,https://github.com/solid-design-system/solid/pull/1578,2024-10-23T06:26:03Z,2024-10-30T06:08:08Z,2,5,MERGED
+solid,fix: sd-map-marker a11y,https://github.com/solid-design-system/solid/pull/1577,2024-10-22T16:26:59Z,2024-10-31T18:01:30Z,12,18,MERGED
+solid,chore: refactor DoD in issue template [skip chromatic],https://github.com/solid-design-system/solid/pull/1576,2024-10-22T12:10:34Z,2024-10-30T16:49:13Z,2,3,MERGED
+solid,"Revert ""chore: main into accordion group template branch""",https://github.com/solid-design-system/solid/pull/1574,2024-10-18T10:58:50Z,2024-10-18T11:13:09Z,0,9,CLOSED
+solid,chore: main into accordion group template branch,https://github.com/solid-design-system/solid/pull/1573,2024-10-18T10:24:09Z,2024-10-18T10:26:31Z,0,30,MERGED
+solid,chore: fix false diffs on Chromatic (close #1394),https://github.com/solid-design-system/solid/pull/1572,2024-10-18T07:16:47Z,2024-10-18T09:56:20Z,0,2,MERGED
+solid,chore: add comment with link to PR [skip chromatic],https://github.com/solid-design-system/solid/pull/1569,2024-10-18T06:05:53Z,2024-10-18T07:54:30Z,1,3,MERGED
+solid,docs: add a11y warning for sd-notification [skip chromatic],https://github.com/solid-design-system/solid/pull/1568,2024-10-17T14:20:07Z,2024-10-18T07:54:58Z,0,1,MERGED
+solid,fix: make svgs in sd-map-marker visible on non-Chromium,https://github.com/solid-design-system/solid/pull/1567,2024-10-17T12:06:00Z,2024-10-18T10:19:27Z,1,4,MERGED
+solid,fix: improve regex [skip chromatic],https://github.com/solid-design-system/solid/pull/1565,2024-10-16T13:26:30Z,2024-10-17T15:14:35Z,9,6,MERGED
+solid,fix: sd badge a11y,https://github.com/solid-design-system/solid/pull/1563,2024-10-16T12:32:52Z,2024-10-31T17:19:21Z,19,19,MERGED
+solid,docs: update drawer template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1560,2024-10-15T21:27:25Z,2024-10-24T10:23:57Z,9,10,MERGED
+solid,docs: update quickfact template [skip chromatic],https://github.com/solid-design-system/solid/pull/1557,2024-10-15T16:04:04Z,2024-10-22T09:11:34Z,7,4,MERGED
+solid,docs: add disclaimer to address Storybook bug (wrong type in sd-carousel variant) ,https://github.com/solid-design-system/solid/pull/1551,2024-10-14T15:21:42Z,2024-12-19T12:31:42Z,7,1,CLOSED
+solid,feat: create docs package for solid components,https://github.com/solid-design-system/solid/pull/1550,2024-10-14T14:26:54Z,2024-11-08T11:19:20Z,19,84,MERGED
+solid,"feat: add 'md' size to sd-radio, sd-checkbox and sd-checkbox-group",https://github.com/solid-design-system/solid/pull/1549,2024-10-14T14:13:23Z,2024-10-18T07:10:34Z,7,5,MERGED
+solid,docs: update teaser template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1548,2024-10-11T17:49:03Z,2024-10-24T13:10:21Z,13,18,MERGED
+solid,fix: remove unapproved images & add logo license info,https://github.com/solid-design-system/solid/pull/1547,2024-10-11T14:45:58Z,2024-10-16T09:42:27Z,1,11,MERGED
+solid,docs: add forms template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1535,2024-10-09T19:51:03Z,2024-11-04T17:04:56Z,25,17,MERGED
+solid,docs: update tab template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1514,2024-10-09T16:05:29Z,2024-11-04T17:04:37Z,15,18,MERGED
+solid,fix: 🤔 pause not working in sd-carousel,https://github.com/solid-design-system/solid/pull/1467,2024-10-09T13:18:15Z,2024-10-17T08:05:38Z,7,8,MERGED
+solid,docs: update badge template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1464,2024-10-09T11:31:34Z,2024-10-11T08:01:30Z,2,5,MERGED
+solid,docs: add sample A - 02 to header template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1462,2024-10-08T16:52:49Z,2024-11-07T09:09:45Z,15,15,MERGED
+solid,docs: update tag template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1461,2024-10-08T07:46:47Z,2024-10-08T16:54:25Z,0,3,MERGED
+solid,docs: update accordion group template [skip chromatic],https://github.com/solid-design-system/solid/pull/1460,2024-10-08T07:43:32Z,2024-10-22T09:12:39Z,7,7,MERGED
+solid,docs: update link template docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1459,2024-10-08T07:39:19Z,2024-10-08T17:04:40Z,5,5,MERGED
+solid,docs: update quote template [skip chromatic],https://github.com/solid-design-system/solid/pull/1457,2024-10-01T16:58:30Z,2024-10-08T15:12:29Z,8,2,MERGED
+solid,docs: update supernumber template [skip chromatic],https://github.com/solid-design-system/solid/pull/1456,2024-10-01T16:56:29Z,2024-10-08T16:59:11Z,1,1,MERGED
+solid,docs: create button template [skip chromatic],https://github.com/solid-design-system/solid/pull/1454,2024-10-01T10:08:57Z,2024-10-09T17:02:58Z,2,2,MERGED
+solid,feat: breaking changes,https://github.com/solid-design-system/solid/pull/1429,2024-09-25T11:59:58Z,2024-12-11T09:37:18Z,1,4,CLOSED
+solid,docs: revert docs migrated to templates [skip chromatic],https://github.com/solid-design-system/solid/pull/1428,2024-09-24T15:03:20Z,2024-10-07T21:08:28Z,5,11,MERGED
+solid,docs: align styles and templates with design docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1427,2024-09-20T16:49:34Z,2024-09-24T09:49:21Z,13,1,CLOSED
+solid,docs: align components and templates with design docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1426,2024-09-20T16:41:47Z,2024-09-24T10:43:15Z,11,9,MERGED
+solid,docs: improve FAQ ,https://github.com/solid-design-system/solid/pull/1424,2024-09-20T09:21:36Z,2024-10-10T08:26:26Z,25,17,MERGED
+solid,fix: main to small-fixes-docs,https://github.com/solid-design-system/solid/pull/1419,2024-09-19T13:27:11Z,2024-09-19T16:22:44Z,0,7,CLOSED
+solid,ci: add test comment to PR template [skip chromatic],https://github.com/solid-design-system/solid/pull/1416,2024-09-19T09:41:17Z,2024-09-19T11:20:44Z,0,1,MERGED
+solid,fix: 🤔 sd-brandshape – improve image positioning,https://github.com/solid-design-system/solid/pull/1415,2024-09-19T09:40:30Z,2024-10-17T13:13:58Z,11,18,MERGED
+solid,feat: ✨ add vertical variant to sd-copyright,https://github.com/solid-design-system/solid/pull/1414,2024-09-19T09:33:38Z,2024-10-08T10:26:02Z,10,6,MERGED
+solid,ci: add icons to PR title linting [skip chromatic],https://github.com/solid-design-system/solid/pull/1413,2024-09-19T09:32:34Z,2024-09-19T11:19:35Z,1,1,CLOSED
+solid,fix: 🤔 sd-display main size variant,https://github.com/solid-design-system/solid/pull/1412,2024-09-19T08:31:23Z,2024-09-25T11:56:13Z,8,4,MERGED
+solid,fix: 🤔 sd-textarea doesn't accept full height of container,https://github.com/solid-design-system/solid/pull/1410,2024-09-19T05:53:03Z,2024-10-02T11:03:49Z,3,4,MERGED
+solid,fix: 🤔 sd-footnotes inverted variant color,https://github.com/solid-design-system/solid/pull/1409,2024-09-19T05:03:57Z,2024-09-20T08:02:17Z,0,1,MERGED
+solid,fix: 🤔 missing border when sd-select has not enough space ,https://github.com/solid-design-system/solid/pull/1408,2024-09-19T04:57:48Z,2024-10-02T11:03:33Z,4,3,MERGED
+solid,docs: 📚 replace randomized numbers in sortable table sample ,https://github.com/solid-design-system/solid/pull/1406,2024-09-19T03:55:28Z,2024-10-10T14:33:26Z,3,2,MERGED
+solid,docs: small fixes aligning with design docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1401,2024-09-18T08:13:07Z,2024-09-20T16:46:44Z,1,113,CLOSED
+solid,docs: 📚 improve icon docs,https://github.com/solid-design-system/solid/pull/1399,2024-09-18T07:34:37Z,2024-09-27T11:06:53Z,2,3,MERGED
+solid,fix: 🤔 (unchecked) checkbox in sd-select does not keep size while resizing sd-popup,https://github.com/solid-design-system/solid/pull/1397,2024-09-17T14:25:14Z,2024-09-25T14:32:17Z,4,2,MERGED
+solid,fix: 🤔 update experimental status,https://github.com/solid-design-system/solid/pull/1396,2024-09-17T13:43:58Z,2024-09-20T13:15:31Z,5,4,MERGED
+solid,docs: 📚 fix button.stories.ts,https://github.com/solid-design-system/solid/pull/1395,2024-09-17T13:16:36Z,2024-09-17T13:22:57Z,0,1,MERGED
+solid,"fix: 🤔 reduce clickable area to label length in sd-switch, sd-radio and sd-checkbox ",https://github.com/solid-design-system/solid/pull/1392,2024-09-17T07:04:03Z,2024-09-17T12:10:42Z,0,1,MERGED
+solid,fix: make sd-step-group more accessible,https://github.com/solid-design-system/solid/pull/1390,2024-09-17T06:10:10Z,2024-09-27T11:00:05Z,6,2,MERGED
+solid,fix: 🤔 map-marker main -> white circle,https://github.com/solid-design-system/solid/pull/1389,2024-09-17T06:07:05Z,2024-09-25T14:28:27Z,3,1,MERGED
+solid,docs: Update 10-FAQ.mdx,https://github.com/solid-design-system/solid/pull/1385,2024-09-16T10:55:47Z,2024-09-20T09:24:14Z,1,3,CLOSED
+solid,fix: 🤔 correct colors in form field validation ,https://github.com/solid-design-system/solid/pull/1381,2024-09-16T09:25:52Z,2024-09-17T12:08:41Z,1,3,MERGED
+solid,docs: 📚 add figma links to all component docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1378,2024-09-13T15:23:00Z,2024-09-16T10:11:54Z,0,3,MERGED
+solid,docs: sd-hidden-links docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1372,2024-09-12T20:30:16Z,2024-09-13T17:05:02Z,9,7,MERGED
+solid,docs: remove validation options from textarea,https://github.com/solid-design-system/solid/pull/1371,2024-09-12T11:37:34Z,2024-09-13T11:02:46Z,0,1,MERGED
+solid,docs: remove validation options story from textarea,https://github.com/solid-design-system/solid/pull/1370,2024-09-12T11:36:08Z,2024-09-12T11:36:35Z,0,80,CLOSED
+solid,docs: add v4 announcement page and hint on introduction page [skip chromatic],https://github.com/solid-design-system/solid/pull/1368,2024-09-11T15:09:24Z,2024-09-16T14:00:15Z,7,8,CLOSED
+solid,docs: sd-textarea label [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1367,2024-09-11T13:06:58Z,2024-09-13T14:08:36Z,0,2,MERGED
+solid,docs: small fixes [skip chromatic],https://github.com/solid-design-system/solid/pull/1365,2024-09-11T05:50:24Z,2024-09-14T00:12:18Z,5,2,MERGED
+solid,docs: 📚 Remove unused variable in Tokens.mdx docs ,https://github.com/solid-design-system/solid/pull/1363,2024-09-09T13:34:53Z,2024-09-10T08:34:01Z,0,1,MERGED
+solid,docs: sd-table-cell [skip chromatic],https://github.com/solid-design-system/solid/pull/1362,2024-09-09T12:06:42Z,2024-09-16T13:25:50Z,23,20,MERGED
+solid,docs: sd-table-cell docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1361,2024-09-09T08:20:15Z,2024-09-09T12:04:51Z,0,53,CLOSED
+solid,docs: sd-table-docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1360,2024-09-06T10:55:03Z,2024-09-12T20:31:19Z,6,3,MERGED
+solid,feat: hide default storie for styles components [skip chromatic],https://github.com/solid-design-system/solid/pull/1359,2024-09-06T09:00:06Z,2024-09-06T09:25:57Z,0,1,MERGED
+solid,docs: sd quickfact docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1358,2024-09-05T22:57:13Z,2024-09-10T16:15:24Z,11,8,MERGED
+solid,fix: typo leadtext related template link [skip chromatic],https://github.com/solid-design-system/solid/pull/1357,2024-09-05T17:25:26Z,2024-09-06T08:35:44Z,0,1,MERGED
+solid,"Revert ""docs: sd-leadtext docs [skip chromatic]""",https://github.com/solid-design-system/solid/pull/1356,2024-09-05T17:10:01Z,2024-09-05T17:10:33Z,0,1,CLOSED
+solid,docs: sd-list docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1351,2024-09-04T08:43:04Z,2024-09-10T13:08:43Z,9,5,MERGED
+solid,docs: sd-mark docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1350,2024-09-04T08:03:06Z,2024-09-06T15:09:38Z,1,4,MERGED
+solid,docs: sd-prose docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1349,2024-09-04T07:59:54Z,2024-09-12T20:47:20Z,23,11,MERGED
+solid,docs: sd-headline docs  [skip chromatic],https://github.com/solid-design-system/solid/pull/1348,2024-09-03T21:33:21Z,2024-09-11T13:10:34Z,6,13,MERGED
+solid,docs: sd-footnotes docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1347,2024-09-03T21:26:56Z,2024-09-06T18:22:59Z,15,5,MERGED
+solid,docs: sd-interactive docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1346,2024-09-03T21:25:35Z,2024-09-11T10:11:54Z,16,10,MERGED
+solid,docs: sd-media docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1337,2024-09-02T08:58:33Z,2024-09-10T13:07:26Z,14,10,MERGED
+solid,docs: sd-meta docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1336,2024-08-30T19:27:28Z,2024-09-09T17:52:03Z,9,8,MERGED
+solid,docs: sd-leadtext docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1335,2024-08-30T19:20:26Z,2024-09-05T17:06:47Z,6,3,MERGED
+solid,docs: sd-paragraph docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1334,2024-08-29T18:30:56Z,2024-09-09T18:12:36Z,8,6,MERGED
+solid,docs: sd-display docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1333,2024-08-29T18:25:56Z,2024-09-11T10:22:06Z,12,16,MERGED
+solid,docs: sd-navigation-item docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1332,2024-08-29T17:32:26Z,2024-09-11T13:46:37Z,20,43,MERGED
+solid,docs: sd-video docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1331,2024-08-29T14:40:19Z,2024-09-09T18:05:59Z,8,7,MERGED
+solid,fix: 🤔 add missing neutral-500 border on disabled+checked sd-radio-buttons,https://github.com/solid-design-system/solid/pull/1330,2024-08-29T12:25:38Z,2024-08-29T15:15:10Z,0,1,MERGED
+solid,fix: incorrect indent of sd-footnotes ,https://github.com/solid-design-system/solid/pull/1328,2024-08-29T09:19:28Z,2024-09-02T09:01:01Z,3,5,MERGED
+solid,fix: correct readonly background styles for sd-input,https://github.com/solid-design-system/solid/pull/1323,2024-08-28T11:54:56Z,2024-08-28T12:23:42Z,1,1,MERGED
+solid,docs: sd-input docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1322,2024-08-27T14:45:33Z,2024-09-13T13:39:04Z,24,27,MERGED
+solid,fix: add missing labels for close buttons,https://github.com/solid-design-system/solid/pull/1321,2024-08-27T11:26:27Z,2024-08-28T12:00:40Z,0,3,MERGED
+solid,docs: add codepen button,https://github.com/solid-design-system/solid/pull/1316,2024-08-26T10:02:38Z,2024-08-26T12:47:12Z,1,2,MERGED
+solid,feat: ✨ make sd-prose work better with sd-leadtext,https://github.com/solid-design-system/solid/pull/1305,2024-08-23T09:10:25Z,2024-08-23T12:18:00Z,2,1,MERGED
+solid,fix: neutral-100 should apply on readonly textarea,https://github.com/solid-design-system/solid/pull/1303,2024-08-23T08:35:15Z,2024-08-23T10:14:24Z,0,1,MERGED
+solid,docs: sd-flipcard docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1302,2024-08-23T07:34:49Z,2024-09-10T13:05:25Z,18,12,MERGED
+solid,feat: use new default green for ui icons,https://github.com/solid-design-system/solid/pull/1301,2024-08-21T10:43:43Z,2024-08-21T12:50:37Z,2,2,MERGED
+solid,docs: sd-divider make default interactive,https://github.com/solid-design-system/solid/pull/1298,2024-08-19T07:50:23Z,2024-08-19T13:09:43Z,0,3,MERGED
+solid,docs: 📚 deprecate ui-surrounding-map [skip chromatic],https://github.com/solid-design-system/solid/pull/1295,2024-08-16T08:53:01Z,2024-08-23T10:41:29Z,3,3,MERGED
+solid,docs: 📚 Add documentation to all discontinued ui-components from CL ,https://github.com/solid-design-system/solid/pull/1294,2024-08-15T15:12:32Z,2024-08-23T10:41:37Z,6,6,MERGED
+solid,docs: sd-qr-code – add documentation,https://github.com/solid-design-system/solid/pull/1293,2024-08-15T14:03:54Z,2024-08-20T12:24:34Z,3,7,MERGED
+solid,docs: 📚 add migration guide for sd-prose/ui-richtext,https://github.com/solid-design-system/solid/pull/1292,2024-08-15T13:04:43Z,2024-08-16T08:54:00Z,0,1,MERGED
+solid,docs: sd-switch docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1291,2024-08-14T17:48:53Z,2024-09-03T05:52:41Z,5,10,MERGED
+solid,docs: sd-teaser-media docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1290,2024-08-14T17:46:27Z,2024-09-10T10:56:18Z,43,19,MERGED
+solid,docs: sd-select docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1289,2024-08-14T17:39:41Z,2024-09-12T20:52:11Z,28,13,MERGED
+solid,docs: sd-textarea docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1288,2024-08-14T10:59:44Z,2024-09-04T12:31:14Z,23,15,MERGED
+solid,docs: sd-option docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1287,2024-08-14T08:55:03Z,2024-09-05T16:55:57Z,23,13,MERGED
+solid,docs: sd-spinner docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1286,2024-08-14T08:52:43Z,2024-08-23T07:31:41Z,7,9,MERGED
+solid,docs: sd-tooltip docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1285,2024-08-13T17:37:34Z,2024-09-10T10:57:43Z,13,9,MERGED
+solid,docs: sd-map-marker docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1284,2024-08-13T16:59:28Z,2024-09-10T16:12:50Z,14,12,MERGED
+solid,docs: sd-tab docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1283,2024-08-13T16:26:53Z,2024-09-05T13:04:27Z,9,8,MERGED
+solid,feat: update celum icons url,https://github.com/solid-design-system/solid/pull/1281,2024-08-13T11:44:38Z,2024-08-13T11:49:56Z,0,1,MERGED
+solid,docs: sd-copyright docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1280,2024-08-13T08:21:22Z,2024-09-03T05:43:10Z,6,4,MERGED
+solid,docs: sd-container docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1279,2024-08-13T08:17:33Z,2024-08-23T07:32:49Z,11,7,MERGED
+solid,docs: sd-flag docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1278,2024-08-13T08:15:57Z,2024-08-22T13:28:49Z,8,11,MERGED
+solid,docs: sd-chip docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1277,2024-08-13T08:14:30Z,2024-08-22T14:24:25Z,4,17,MERGED
+solid,docs: sd-expandable docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1276,2024-08-13T08:13:02Z,2024-09-03T05:42:31Z,12,16,MERGED
+solid,docs: fix code previews for strings (closes #1264) [skip chromatic],https://github.com/solid-design-system/solid/pull/1272,2024-08-09T12:16:14Z,2024-08-12T20:46:03Z,0,1,MERGED
+solid,docs: sd-step-group docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1266,2024-08-08T16:38:30Z,2024-09-05T13:00:15Z,25,10,MERGED
+solid,docs: sd-step docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1265,2024-08-08T15:56:48Z,2024-09-05T13:02:30Z,8,5,MERGED
+solid,docs: sd-scrollable docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1263,2024-08-08T14:58:31Z,2024-09-04T08:12:57Z,14,10,MERGED
+solid,feat: hide first default story in styles [skip chromatic],https://github.com/solid-design-system/solid/pull/1262,2024-08-08T12:57:50Z,2024-08-08T14:43:03Z,3,3,MERGED
+solid,feat: ✨ add style sd-hidden-links,https://github.com/solid-design-system/solid/pull/1261,2024-08-08T12:46:57Z,2024-08-20T13:58:39Z,17,5,MERGED
+solid,docs: sd-notification docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1260,2024-08-08T12:07:35Z,2024-09-05T11:14:32Z,18,10,MERGED
+solid,docs: sd-radio-button docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1258,2024-08-07T17:03:05Z,2024-09-03T09:03:03Z,25,10,MERGED
+solid,docs: sd-radio-group docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1257,2024-08-07T16:47:58Z,2024-08-26T13:08:21Z,31,15,MERGED
+solid,docs: sd-header docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1256,2024-08-07T16:25:30Z,2024-09-10T15:23:35Z,7,4,MERGED
+solid,docs: sd-divider docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1255,2024-08-07T13:44:58Z,2024-08-14T14:28:38Z,6,5,MERGED
+solid,docs: sd-button docs update [skip chromatic],https://github.com/solid-design-system/solid/pull/1254,2024-08-07T11:33:49Z,2024-08-09T07:56:14Z,1,2,MERGED
+solid,docs: sd-accordion-group docs update [skip chromatic],https://github.com/solid-design-system/solid/pull/1253,2024-08-07T11:31:56Z,2024-08-13T07:51:32Z,3,5,MERGED
+solid,docs: sd-radio docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1252,2024-08-06T16:35:07Z,2024-09-04T12:54:49Z,19,17,MERGED
+solid,docs: sd-dropdown docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1251,2024-08-06T16:23:52Z,2024-09-05T11:04:32Z,25,13,MERGED
+solid,docs: sd-drawer docs  [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1248,2024-08-06T15:20:35Z,2024-09-02T13:23:15Z,12,8,MERGED
+solid,fix: 🤔 sd-carousel - numbered variant - show total clicks,https://github.com/solid-design-system/solid/pull/1247,2024-08-06T14:40:08Z,2024-08-15T12:06:31Z,6,10,MERGED
+solid,chore: improve stability on CI [skip chromatic],https://github.com/solid-design-system/solid/pull/1245,2024-08-06T06:39:54Z,2024-08-06T09:09:12Z,0,3,MERGED
+solid,docs: sd-dialog docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1244,2024-08-05T12:12:11Z,2024-09-05T10:37:57Z,25,16,MERGED
+solid,docs: sd-checkbox-group docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1243,2024-08-05T11:31:54Z,2024-09-10T10:56:00Z,19,13,MERGED
+solid,chore: fix playwright on CI [skip chromatic],https://github.com/solid-design-system/solid/pull/1240,2024-08-05T09:19:34Z,2024-08-06T06:40:33Z,2,4,CLOSED
+solid,docs: sd-checkbox docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1238,2024-08-02T16:21:42Z,2024-09-03T08:03:04Z,15,7,MERGED
+solid,docs: sd-carousel docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1237,2024-08-02T15:38:15Z,2024-08-23T13:41:09Z,19,3,MERGED
+solid,feat: ✨ enable usage of link with children on sd-navigation-item,https://github.com/solid-design-system/solid/pull/1236,2024-08-02T15:22:05Z,2024-08-15T07:25:56Z,19,13,MERGED
+solid,docs: sd-carousel-item docs [skip chromatic] ,https://github.com/solid-design-system/solid/pull/1235,2024-08-02T14:54:32Z,2024-08-09T17:25:14Z,4,3,MERGED
+solid,"fix: pass empty download attr to ""a"" tag in sd-link",https://github.com/solid-design-system/solid/pull/1234,2024-08-02T14:19:50Z,2024-08-05T08:39:23Z,0,1,MERGED
+solid,docs: sd-brandshape docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1233,2024-08-01T16:25:24Z,2024-09-02T18:01:27Z,24,11,MERGED
+solid,feat: sd-badge docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1232,2024-08-01T14:43:41Z,2024-08-07T11:23:09Z,11,6,MERGED
+solid,feat: sd-accordion-group docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1231,2024-08-01T14:12:36Z,2024-08-06T08:24:15Z,1,31,MERGED
+solid,docs: sd accordion docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1230,2024-08-01T09:55:50Z,2024-08-09T08:48:42Z,7,15,MERGED
+solid,fix: missing border sd-container variant-border-neutral-400,https://github.com/solid-design-system/solid/pull/1229,2024-08-01T08:43:59Z,2024-08-01T08:51:58Z,0,1,MERGED
+solid,fix: improve quote template a11y,https://github.com/solid-design-system/solid/pull/1756,2024-12-31T11:28:40Z,2025-01-15T16:26:35Z,8,8,MERGED
+solid,fix: sd-tab broken padding-right,https://github.com/solid-design-system/solid/pull/1755,2024-12-30T11:03:38Z,2025-01-13T12:02:27Z,6,7,MERGED
+solid,fix: improve sd-quickfact a11y,https://github.com/solid-design-system/solid/pull/1754,2024-12-30T10:37:11Z,2025-01-06T15:03:04Z,3,2,CLOSED
+solid,fix: sd-hidden-links screenshot tests,https://github.com/solid-design-system/solid/pull/1753,2024-12-23T12:17:01Z,2025-01-13T15:52:37Z,4,3,MERGED
+solid,fix: update flipcard template,https://github.com/solid-design-system/solid/pull/1752,2024-12-23T11:02:02Z,2025-01-14T17:06:14Z,5,10,MERGED
+solid,fix: improve sd-divider a11y,https://github.com/solid-design-system/solid/pull/1751,2024-12-20T15:54:42Z,2025-01-07T11:28:31Z,3,3,MERGED
+solid,chore: add changeset to publish styles package,https://github.com/solid-design-system/solid/pull/1750,2024-12-20T14:40:38Z,2024-12-20T14:53:33Z,2,2,MERGED
+solid,chore: fix URLs in Codepens in dev Storybooks,https://github.com/solid-design-system/solid/pull/1749,2024-12-19T14:52:18Z,2024-12-19T15:16:24Z,3,3,MERGED
+solid,fix: improve sd-teaser a11y,https://github.com/solid-design-system/solid/pull/1748,2024-12-19T11:47:22Z,2024-12-20T12:51:08Z,2,3,MERGED
+solid,fix: improve sd-drawer a11y,https://github.com/solid-design-system/solid/pull/1743,2024-12-17T11:52:04Z,2025-01-29T16:12:28Z,13,34,MERGED
+solid,fix: sd-combobox and sd-select,https://github.com/solid-design-system/solid/pull/1742,2024-12-17T08:53:38Z,2025-01-14T08:27:43Z,11,18,MERGED
+solid,fix: sd-interactive a11y,https://github.com/solid-design-system/solid/pull/1740,2024-12-16T15:54:31Z,2024-12-18T11:02:44Z,3,4,MERGED
+solid,chore: cleanup docs changelog,https://github.com/solid-design-system/solid/pull/1736,2024-12-13T15:43:57Z,2024-12-16T14:05:14Z,2,2,MERGED
+solid,chore: test pre release,https://github.com/solid-design-system/solid/pull/1734,2024-12-12T16:36:51Z,2024-12-12T16:38:55Z,2,5,MERGED
+solid,fix: improve sd-icon a11y,https://github.com/solid-design-system/solid/pull/1733,2024-12-12T16:31:09Z,2024-12-16T16:26:18Z,2,2,CLOSED
+solid,chore: 🔧 re-update release pipeline...,https://github.com/solid-design-system/solid/pull/1732,2024-12-12T16:05:49Z,2024-12-12T16:06:52Z,2,2,MERGED
+solid,chore: 🔧 fix pre-release,https://github.com/solid-design-system/solid/pull/1731,2024-12-12T16:01:28Z,2024-12-12T16:02:34Z,1,2,MERGED
+solid,chore: 🔧 update release process,https://github.com/solid-design-system/solid/pull/1730,2024-12-12T15:58:04Z,2024-12-12T16:00:06Z,1,2,CLOSED
+solid,fix: improve sd-headline a11y,https://github.com/solid-design-system/solid/pull/1729,2024-12-12T15:40:10Z,2025-01-15T16:27:32Z,16,13,MERGED
+solid,chore: 🔧 update versions from main to next,https://github.com/solid-design-system/solid/pull/1728,2024-12-12T15:30:48Z,2024-12-12T15:50:56Z,2,4,MERGED
+solid,chore: 🔧 add ability to make pre-releases on next branch,https://github.com/solid-design-system/solid/pull/1727,2024-12-12T14:12:46Z,2024-12-12T15:20:04Z,2,10,MERGED
+solid,fix: correctly order bundle stats,https://github.com/solid-design-system/solid/pull/1726,2024-12-12T08:20:09Z,2024-12-12T11:22:46Z,2,2,MERGED
+solid,fix: improve sd-carousel template alt descriptions,https://github.com/solid-design-system/solid/pull/1725,2024-12-11T17:40:49Z,2024-12-12T14:18:16Z,2,2,MERGED
+solid,fix: improve sd-expandable a11y,https://github.com/solid-design-system/solid/pull/1724,2024-12-11T12:18:45Z,2025-01-15T16:24:36Z,18,20,MERGED
+solid,fix: typos and configure spell checker extension [skip chromatic],https://github.com/solid-design-system/solid/pull/1723,2024-12-11T12:10:29Z,2024-12-13T14:19:33Z,3,3,MERGED
+solid,fix: sd-dialog a11y,https://github.com/solid-design-system/solid/pull/1721,2024-12-10T16:30:02Z,2024-12-13T12:16:29Z,2,10,MERGED
+solid,fix: improve sd-dropdown a11y,https://github.com/solid-design-system/solid/pull/1715,2024-12-09T15:04:48Z,2024-12-11T10:39:54Z,3,6,MERGED
+solid,fix: make sd-tooltip more accessible,https://github.com/solid-design-system/solid/pull/1712,2024-12-06T12:56:29Z,2025-02-13T22:19:02Z,12,34,MERGED
+solid,chore: update changelogs,https://github.com/solid-design-system/solid/pull/1711,2024-12-06T12:07:01Z,2024-12-06T12:50:31Z,2,3,MERGED
+solid,fix: improve sd select a11y [skip chromatic],https://github.com/solid-design-system/solid/pull/1710,2024-12-06T11:35:05Z,2024-12-09T12:38:01Z,5,9,MERGED
+solid,fix: sd-checkbox accessible validation state,https://github.com/solid-design-system/solid/pull/1707,2024-12-05T11:31:15Z,2024-12-05T18:36:24Z,4,6,MERGED
+solid,fix: sd-flag improve a11y,https://github.com/solid-design-system/solid/pull/1705,2024-12-04T19:30:44Z,2024-12-06T10:06:01Z,2,2,MERGED
+solid,fix: sd-checkbox-group tab stops,https://github.com/solid-design-system/solid/pull/1704,2024-12-04T17:12:54Z,2024-12-06T13:34:06Z,2,3,MERGED
+solid,feat!: implement new sd-flipcard,https://github.com/solid-design-system/solid/pull/1703,2024-12-04T10:33:46Z,2024-12-11T09:37:48Z,15,13,CLOSED
+solid,chore: cleanup deprecated icon library references,https://github.com/solid-design-system/solid/pull/1701,2024-12-03T17:14:06Z,2024-12-06T11:22:09Z,5,7,MERGED
+solid,chore: improve changelogs,https://github.com/solid-design-system/solid/pull/1697,2024-12-02T17:18:57Z,2024-12-05T08:59:28Z,2,10,MERGED
+solid,chore: 🔧 fix deployment,https://github.com/solid-design-system/solid/pull/1695,2024-12-02T08:31:38Z,2024-12-02T08:35:28Z,2,2,MERGED
+solid,chore: test changesets,https://github.com/solid-design-system/solid/pull/1694,2024-11-29T15:44:21Z,2024-11-29T17:02:35Z,2,2,CLOSED
+solid,"feat: add shadow, position and color variants to copyright",https://github.com/solid-design-system/solid/pull/1691,2024-11-28T15:27:58Z,2024-12-13T14:13:46Z,5,24,MERGED
+solid,feat: ✨ architecture rewrite and breaking changes,https://github.com/solid-design-system/solid/pull/1689,2024-11-28T08:08:53Z,2024-12-19T11:00:59Z,11,134,MERGED
+solid,"fix: improve sd-step-group, sd-step and templates a11y",https://github.com/solid-design-system/solid/pull/1688,2024-11-27T15:52:11Z,2024-12-13T10:50:04Z,9,18,MERGED
+solid,docs: cleanup tokens changelog,https://github.com/solid-design-system/solid/pull/1687,2024-11-27T15:38:55Z,2024-11-27T16:41:41Z,1,1,MERGED
+solid,chore: test,https://github.com/solid-design-system/solid/pull/1685,2024-11-27T10:49:13Z,2024-11-27T11:06:30Z,1,1,CLOSED
+solid,feat: switch to changesets (wip),https://github.com/solid-design-system/solid/pull/1682,2024-11-25T23:16:44Z,2024-11-29T15:10:24Z,3,10,MERGED
+solid,fix: failling tests [skip chromatic],https://github.com/solid-design-system/solid/pull/1681,2024-11-25T13:38:40Z,2024-11-25T17:39:48Z,0,7,MERGED
+solid,chore: replace usage of bg-neutral-400 with border-neutral-400,https://github.com/solid-design-system/solid/pull/1680,2024-11-25T11:33:48Z,2024-11-27T11:06:07Z,4,3,MERGED
+solid,chore!: remove unused color tokens and update descriptions,https://github.com/solid-design-system/solid/pull/1671,2024-11-22T10:55:09Z,2024-11-27T15:23:16Z,2,5,MERGED
+solid,fix: improving sd-header a11y,https://github.com/solid-design-system/solid/pull/1668,2024-11-21T11:21:12Z,2024-12-13T12:10:24Z,24,22,MERGED
+solid,fix: improve table template a11y,https://github.com/solid-design-system/solid/pull/1664,2024-11-19T15:21:39Z,2024-11-29T10:28:18Z,22,10,MERGED
+solid,fix: set sd-select placeholder text-color to neutral-700,https://github.com/solid-design-system/solid/pull/1659,2024-11-19T07:47:26Z,2024-11-20T10:15:33Z,1,1,MERGED
+solid,chore!: replace ui-placeholder-video with sds-placeholder-video,https://github.com/solid-design-system/solid/pull/1657,2024-11-18T11:14:09Z,2024-11-18T14:05:04Z,6,3,MERGED
+solid,chore: adjust semantic release message from docs package,https://github.com/solid-design-system/solid/pull/1656,2024-11-18T10:52:21Z,2024-11-18T13:35:54Z,2,2,MERGED
+solid,ci: add action to prevent merges while frozen zone period (New Year transition) [skip chromatic],https://github.com/solid-design-system/solid/pull/1649,2024-11-15T10:39:50Z,2024-11-15T11:05:44Z,1,3,CLOSED
+solid,fix: improve sd-switch a11y,https://github.com/solid-design-system/solid/pull/1646,2024-11-14T15:42:33Z,2024-11-18T13:40:43Z,2,2,MERGED
+solid,chore: failling quality gate components test [skip chromatic],https://github.com/solid-design-system/solid/pull/1645,2024-11-14T14:14:51Z,2024-11-15T09:15:56Z,1,3,CLOSED
+solid,fix: improve sd-video a11y,https://github.com/solid-design-system/solid/pull/1644,2024-11-14T10:25:55Z,2024-11-27T15:19:42Z,18,14,MERGED
+solid,fix: sd-scrollable a11y,https://github.com/solid-design-system/solid/pull/1643,2024-11-13T17:39:03Z,2024-11-27T14:21:27Z,1,7,MERGED
+solid,fix: improve sd-textarea a11y [skip chromatic],https://github.com/solid-design-system/solid/pull/1642,2024-11-13T14:49:50Z,2024-11-20T09:09:54Z,9,6,MERGED
+solid,fix: improve sd-button a11y,https://github.com/solid-design-system/solid/pull/1641,2024-11-13T14:14:41Z,2024-11-21T09:52:36Z,1,3,MERGED
+solid,fix: improve sd-tag a11y,https://github.com/solid-design-system/solid/pull/1640,2024-11-13T13:21:51Z,2024-11-20T09:10:09Z,6,6,MERGED
+solid,feat: add new shadow token for copyright text on images,https://github.com/solid-design-system/solid/pull/1639,2024-11-12T20:14:35Z,2024-11-12T23:34:17Z,2,5,MERGED
+solid,docs: update sd-mark templates,https://github.com/solid-design-system/solid/pull/1635,2024-11-11T16:15:48Z,2024-11-13T11:21:05Z,3,2,MERGED
+solid,"fix: optimize tab navigation for sd-tab, sd-tab-group, sd-tab-panel a11y ",https://github.com/solid-design-system/solid/pull/1634,2024-11-11T15:49:15Z,2024-11-29T15:50:30Z,7,12,MERGED
+solid,feat: sd-combobox & sd-combobox a11y,https://github.com/solid-design-system/solid/pull/1633,2024-11-11T15:19:17Z,2024-12-11T09:33:39Z,57,105,MERGED
+solid,docs: update developer starting guide [skip chromatic],https://github.com/solid-design-system/solid/pull/1632,2024-11-11T15:05:09Z,2024-11-12T09:47:17Z,1,2,MERGED
+solid,docs: adjust storybook favicon and packages docs,https://github.com/solid-design-system/solid/pull/1630,2024-11-11T09:39:43Z,2024-11-13T11:19:02Z,2,10,MERGED
+solid,fix: add correct path to changelog of docs,https://github.com/solid-design-system/solid/pull/1629,2024-11-08T12:27:06Z,2024-11-08T12:38:11Z,1,1,MERGED
+solid,chore: update readme,https://github.com/solid-design-system/solid/pull/1628,2024-11-08T12:06:26Z,2024-11-08T12:13:47Z,1,2,MERGED
+solid,fix: sd-teaser and sd-teaser-media a11y,https://github.com/solid-design-system/solid/pull/1625,2024-11-07T16:12:18Z,2024-11-25T11:48:16Z,11,18,MERGED
+solid,Add new shadow token used for copyright text on images,https://github.com/solid-design-system/solid/pull/1623,2024-11-07T11:25:59Z,2024-11-07T11:39:54Z,1,2,CLOSED
+solid,Add new shadow token used for copyright text on images,https://github.com/solid-design-system/solid/pull/1622,2024-11-07T11:23:58Z,2024-11-07T11:24:49Z,2,1,CLOSED
+solid,fix: 🐛 make validation more accessible in all form elements,https://github.com/solid-design-system/solid/pull/1619,2024-11-06T12:09:07Z,2024-11-15T13:24:43Z,4,8,MERGED
+solid,docs: sd-radio-button a11y,https://github.com/solid-design-system/solid/pull/1618,2024-11-06T09:09:08Z,2024-11-07T13:56:46Z,1,2,MERGED
+solid,fix: sd-map-marker accessibility violation,https://github.com/solid-design-system/solid/pull/1617,2024-11-05T17:26:09Z,2024-11-13T11:41:38Z,3,6,MERGED
+solid,fix: sd-input a11y,https://github.com/solid-design-system/solid/pull/1615,2024-11-05T15:39:29Z,2024-11-14T11:35:25Z,4,21,MERGED
+solid,fix: sd-interactive a11y template ,https://github.com/solid-design-system/solid/pull/1614,2024-11-05T11:34:54Z,2024-11-07T10:19:03Z,1,1,MERGED
+solid,fix: sd-audio a11y,https://github.com/solid-design-system/solid/pull/1921,2025-02-24T16:40:05Z,2025-02-28T11:52:05Z,7,11,MERGED
+solid,feat: highlight all search occurences,https://github.com/solid-design-system/solid/pull/1920,2025-02-24T11:28:50Z,2025-03-10T11:30:27Z,8,11,MERGED
+solid,fix: dialog height,https://github.com/solid-design-system/solid/pull/1917,2025-02-20T15:23:28Z,2025-02-21T16:02:40Z,2,4,MERGED
+solid,feat: implement sd-pagination,https://github.com/solid-design-system/solid/pull/1916,2025-02-20T10:44:14Z,2025-03-11T14:50:58Z,42,38,MERGED
+solid,chore: improve contributing page with docs guidelines,https://github.com/solid-design-system/solid/pull/1913,2025-02-18T16:51:52Z,2025-02-28T22:31:45Z,19,18,MERGED
+solid,feat: add eslint-plugin docs [skip chromatic],https://github.com/solid-design-system/solid/pull/1912,2025-02-18T14:08:26Z,2025-02-18T14:45:17Z,2,1,MERGED
+solid,fix: update changelog text for checkbox-group template,https://github.com/solid-design-system/solid/pull/1911,2025-02-18T10:40:31Z,2025-02-18T14:41:58Z,2,3,MERGED
+solid,feat: add checkbox group required template,https://github.com/solid-design-system/solid/pull/1910,2025-02-17T20:49:21Z,2025-02-18T10:21:53Z,6,8,MERGED
+solid,chore: update dependencies,https://github.com/solid-design-system/solid/pull/1903,2025-02-14T08:33:16Z,2025-02-17T09:38:52Z,2,6,MERGED
+solid,fix: improve sd-notification a11y,https://github.com/solid-design-system/solid/pull/1902,2025-02-12T14:58:21Z,2025-02-18T11:22:45Z,3,10,MERGED
+solid,fix: sd-switch optical missmatch,https://github.com/solid-design-system/solid/pull/1900,2025-02-11T16:25:41Z,2025-02-14T15:13:18Z,2,4,MERGED
+solid,feat: disabled form elements,https://github.com/solid-design-system/solid/pull/1899,2025-02-11T16:25:15Z,2025-02-18T14:55:37Z,35,39,MERGED
+solid,chore: update general accessibility docs,https://github.com/solid-design-system/solid/pull/1898,2025-02-11T14:15:15Z,2025-02-11T15:47:48Z,2,2,MERGED
+solid,fix: docs a11y tests errors [skip chromatic],https://github.com/solid-design-system/solid/pull/1896,2025-02-11T10:00:34Z,2025-02-12T14:47:12Z,2,6,MERGED
+solid,feat!: implement eslint-plugin package [skip chromatic],https://github.com/solid-design-system/solid/pull/1864,2025-02-06T17:13:02Z,2025-02-18T13:53:37Z,4,25,MERGED
+solid,chore: update styles plop template,https://github.com/solid-design-system/solid/pull/1859,2025-02-06T11:05:32Z,2025-02-06T11:39:45Z,1,2,MERGED
+solid,ci: Update feature-issue-template [skip chromatic],https://github.com/solid-design-system/solid/pull/1846,2025-02-05T17:40:56Z,2025-02-06T09:55:29Z,2,1,MERGED
+solid,fix: storybook ui font ,https://github.com/solid-design-system/solid/pull/1842,2025-02-05T15:05:53Z,2025-02-06T11:49:06Z,3,4,MERGED
+solid,fix: urls in docs,https://github.com/solid-design-system/solid/pull/1834,2025-02-04T18:56:38Z,2025-02-05T11:26:54Z,3,5,MERGED
+solid,fix: docs show code font-family,https://github.com/solid-design-system/solid/pull/1833,2025-02-04T17:32:09Z,2025-02-05T14:34:20Z,2,4,MERGED
+solid,chore: update style component plop templates,https://github.com/solid-design-system/solid/pull/1821,2025-02-03T13:26:03Z,2025-02-05T10:00:33Z,3,4,MERGED
+solid,feat: add sd-status-badge,https://github.com/solid-design-system/solid/pull/1820,2025-02-03T13:11:51Z,2025-02-06T11:07:52Z,9,15,MERGED
+solid,fix: map marker shadow,https://github.com/solid-design-system/solid/pull/1818,2025-01-30T18:39:32Z,2025-02-03T08:09:35Z,4,6,MERGED
+solid,fix: codepen docs url,https://github.com/solid-design-system/solid/pull/1817,2025-01-30T16:39:48Z,2025-01-31T10:00:16Z,2,3,MERGED
+solid,fix: margin for input forms,https://github.com/solid-design-system/solid/pull/1815,2025-01-30T13:32:06Z,2025-02-05T10:54:56Z,3,3,MERGED
+solid,fix: sd-radio circle appearance when checked,https://github.com/solid-design-system/solid/pull/1814,2025-01-30T12:38:40Z,2025-01-30T15:10:13Z,2,2,MERGED
+solid,feat: implement jump between footnotes,https://github.com/solid-design-system/solid/pull/1813,2025-01-29T17:29:24Z,2025-02-11T15:47:28Z,4,27,MERGED
+solid,fix: tailwind gradients not working,https://github.com/solid-design-system/solid/pull/1810,2025-01-28T12:51:46Z,2025-01-28T13:31:12Z,2,2,MERGED
+solid,fix: sd-textarea placeholder disabled color,https://github.com/solid-design-system/solid/pull/1808,2025-01-27T15:47:19Z,2025-01-27T16:02:12Z,3,1,CLOSED
+solid,docs: update readme,https://github.com/solid-design-system/solid/pull/1807,2025-01-24T17:33:29Z,2025-01-27T09:02:34Z,2,2,MERGED
+solid,fix: cherry pick sd-select and sd-combobox,https://github.com/solid-design-system/solid/pull/1805,2025-01-23T12:42:20Z,2025-01-23T14:09:16Z,2,4,MERGED
+solid,fix: sd-carousel buttons focus,https://github.com/solid-design-system/solid/pull/1802,2025-01-22T17:26:44Z,2025-01-24T10:18:07Z,4,8,MERGED
+solid,fix: tags selected translation,https://github.com/solid-design-system/solid/pull/1801,2025-01-22T13:10:12Z,2025-01-22T14:08:15Z,2,3,MERGED
+solid,fix: codepen urls,https://github.com/solid-design-system/solid/pull/1800,2025-01-22T11:01:33Z,2025-01-22T11:30:30Z,2,2,MERGED
+solid,fix: improve tooltip,https://github.com/solid-design-system/solid/pull/1798,2025-01-21T17:35:04Z,2025-01-29T14:49:50Z,2,8,MERGED
+solid,feat: add a11y testing to storybook,https://github.com/solid-design-system/solid/pull/1797,2025-01-21T14:04:54Z,2025-02-05T14:32:59Z,5,35,MERGED
+solid,fix: improve storybook branding,https://github.com/solid-design-system/solid/pull/1796,2025-01-20T10:36:31Z,2025-01-21T17:35:05Z,2,5,MERGED
+solid,fix: wrong URLs in migration guide,https://github.com/solid-design-system/solid/pull/1792,2025-01-17T10:52:27Z,2025-01-20T10:27:10Z,2,2,MERGED
+solid,fix: use correct URLs in migration guide,https://github.com/solid-design-system/solid/pull/1788,2025-01-16T15:23:40Z,2025-01-16T16:08:32Z,2,1,MERGED
+solid,chore: dependencies update,https://github.com/solid-design-system/solid/pull/1787,2025-01-16T13:24:26Z,2025-01-17T09:19:36Z,2,8,MERGED
+solid,feat: ✨ merge `next` into `main`,https://github.com/solid-design-system/solid/pull/1785,2025-01-16T09:43:30Z,2025-01-16T10:13:13Z,2,52,MERGED
+solid,feat: implement radio button group template,https://github.com/solid-design-system/solid/pull/1779,2025-01-14T16:55:24Z,2025-01-27T15:08:29Z,5,7,MERGED
+solid,chore!: remove sd-video overlay feature,https://github.com/solid-design-system/solid/pull/1776,2025-01-14T10:58:22Z,2025-01-14T16:46:02Z,3,7,MERGED
+solid,fix: combobox tests,https://github.com/solid-design-system/solid/pull/1775,2025-01-14T10:55:22Z,2025-01-14T12:56:05Z,3,3,MERGED
+solid,feat: sd-badge variants naming,https://github.com/solid-design-system/solid/pull/1774,2025-01-14T10:54:05Z,2025-01-14T14:08:17Z,4,8,MERGED
+solid,fix: sd-select default scrollbar,https://github.com/solid-design-system/solid/pull/1769,2025-01-13T14:05:31Z,2025-01-15T16:22:47Z,2,3,MERGED
+solid,fix: fix disconnecedCallback in sd-tab-group,https://github.com/solid-design-system/solid/pull/1768,2025-01-13T08:13:59Z,2025-01-13T13:47:29Z,2,1,MERGED
+solid,fix: reactive translations,https://github.com/solid-design-system/solid/pull/1761,2025-01-09T13:16:06Z,2025-01-14T09:03:32Z,3,4,MERGED
+solid,fix: improve sd-flipcard hidden side a11y,https://github.com/solid-design-system/solid/pull/1760,2025-01-09T12:35:15Z,2025-01-13T15:51:24Z,2,3,MERGED
+solid,chore: 🔧 improve verify and test.watch,https://github.com/solid-design-system/solid/pull/1759,2025-01-07T16:10:06Z,2025-01-16T16:08:50Z,5,13,MERGED
+solid,fix: improve sd-accordion and sd-quickfact a11y,https://github.com/solid-design-system/solid/pull/1757,2025-01-06T15:02:19Z,2025-01-13T11:47:07Z,5,9,MERGED

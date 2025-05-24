@@ -1,0 +1,309 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+overdrive,Feature/input prefix suffix,https://github.com/autoguru-au/overdrive/pull/142,2019-07-30T23:52:42Z,2019-07-30T23:53:29Z,1,19,CLOSED
+overdrive,fix(Bullet): Dot margin is relative to current fontsize,https://github.com/autoguru-au/overdrive/pull/141,2019-07-30T02:04:49Z,2019-07-30T05:24:42Z,1,1,MERGED
+overdrive,feat(InputBase): Introduce prefix/suffic Icon props,https://github.com/autoguru-au/overdrive/pull/140,2019-07-29T23:20:40Z,2019-07-30T23:46:12Z,8,18,MERGED
+overdrive,feat(Button): New and improved buttons,https://github.com/autoguru-au/overdrive/pull/138,2019-07-26T05:03:32Z,2019-07-28T22:52:26Z,5,1,MERGED
+overdrive,feat(TextLink): Hover states with inset shadow instead,https://github.com/autoguru-au/overdrive/pull/137,2019-07-25T00:30:41Z,2019-07-25T00:53:00Z,1,1,MERGED
+overdrive,feat: SizeScales aligned to designer feedback,https://github.com/autoguru-au/overdrive/pull/136,2019-07-24T05:34:09Z,2019-07-24T06:20:56Z,1,1,MERGED
+overdrive,fix(BulletList): Increase density to align with parent li,https://github.com/autoguru-au/overdrive/pull/134,2019-07-23T04:57:16Z,2019-07-23T22:42:52Z,1,1,MERGED
+overdrive,feat(Actions): Init impl of the Actions component,https://github.com/autoguru-au/overdrive/pull/133,2019-07-23T04:35:04Z,2019-07-23T22:46:21Z,3,1,MERGED
+overdrive,feat(TextLink): Init impl of a TextLink component,https://github.com/autoguru-au/overdrive/pull/132,2019-07-23T02:54:25Z,2019-07-23T22:55:29Z,2,1,MERGED
+overdrive,fix(ModalBase): Backdrop taps now trigger on small viewports,https://github.com/autoguru-au/overdrive/pull/128,2019-07-17T04:20:17Z,2019-07-17T04:37:05Z,2,1,MERGED
+overdrive,feat(Button): Adds explicit colours for button states,https://github.com/autoguru-au/overdrive/pull/125,2019-07-11T23:26:46Z,2019-07-12T00:21:33Z,1,1,MERGED
+overdrive,feat: Replaces opacity from disabled checkable with text colour,https://github.com/autoguru-au/overdrive/pull/124,2019-07-10T02:32:19Z,2019-07-10T03:05:35Z,1,1,MERGED
+overdrive,feat(Stepper): Impl keyboard accessibility,https://github.com/autoguru-au/overdrive/pull/122,2019-07-08T00:28:31Z,2019-07-08T00:41:21Z,1,1,MERGED
+overdrive,chore: Unit-test framework migration to testing-library,https://github.com/autoguru-au/overdrive/pull/120,2019-07-04T06:32:57Z,2019-07-15T05:47:20Z,12,1,MERGED
+overdrive,feat(Icons): Icons are typed and components rationalized,https://github.com/autoguru-au/overdrive/pull/119,2019-07-04T01:01:11Z,2019-07-04T06:07:54Z,1,1,MERGED
+overdrive,fix(InputBase): Clear date no longer breaks ui,https://github.com/autoguru-au/overdrive/pull/110,2019-06-20T07:19:34Z,2019-06-21T00:22:32Z,1,1,MERGED
+overdrive,feat: Adds component child support to checkboxes and radios,https://github.com/autoguru-au/overdrive/pull/108,2019-06-14T05:50:04Z,2019-06-17T01:29:37Z,2,5,MERGED
+overdrive,feat(Tooltip): Impl a new tooltip component,https://github.com/autoguru-au/overdrive/pull/105,2019-06-10T07:26:55Z,2019-06-12T05:35:02Z,1,1,MERGED
+overdrive,chore: Introduce eslint into the project,https://github.com/autoguru-au/overdrive/pull/102,2019-06-07T03:33:27Z,2019-06-10T00:12:22Z,1,1,MERGED
+overdrive,fix(Stepper): Uses useRef rather than useState to memoize previous value,https://github.com/autoguru-au/overdrive/pull/100,2019-06-06T01:25:55Z,2019-06-06T03:49:59Z,1,1,MERGED
+overdrive, feat(Flyout): Initial impl of the Flyout component ,https://github.com/autoguru-au/overdrive/pull/93,2019-06-03T05:28:54Z,2019-06-04T01:18:10Z,1,1,MERGED
+overdrive,feat(Positioner): Initial impl of the positioning ulitiy component ,https://github.com/autoguru-au/overdrive/pull/92,2019-06-03T05:23:45Z,2019-06-04T00:37:43Z,4,8,MERGED
+overdrive,"feat(Button): Ref-forward to the ""root"" element",https://github.com/autoguru-au/overdrive/pull/90,2019-06-03T01:38:52Z,2019-06-03T05:06:31Z,3,1,MERGED
+overdrive,feat: Utilise new scroll contain css property,https://github.com/autoguru-au/overdrive/pull/211,2019-10-14T06:02:13Z,2019-10-21T02:09:00Z,1,1,MERGED
+overdrive,feat(Toaster): Init impl of a notification manager component,https://github.com/autoguru-au/overdrive/pull/199,2019-09-25T05:08:18Z,2019-10-25T05:12:10Z,1,2,MERGED
+overdrive,feat: Removes all deprecation warnings,https://github.com/autoguru-au/overdrive/pull/192,2019-09-18T22:48:48Z,2019-11-11T22:08:05Z,1,1,MERGED
+overdrive,feat(AutoSuggest): Init impl of a suggestion component,https://github.com/autoguru-au/overdrive/pull/178,2019-09-04T05:56:49Z,2019-09-10T03:47:12Z,2,1,MERGED
+overdrive,feat(withEnhancedInput): Forward Ref to the underlying input,https://github.com/autoguru-au/overdrive/pull/177,2019-09-03T03:04:36Z,2019-09-03T05:09:59Z,3,1,MERGED
+overdrive,feat(withEnhancedInput): Type safe events types,https://github.com/autoguru-au/overdrive/pull/173,2019-08-29T02:21:33Z,2019-08-29T02:39:02Z,1,1,MERGED
+overdrive,feat(Positioner): Enable triggerOffset overriding,https://github.com/autoguru-au/overdrive/pull/172,2019-08-29T00:53:16Z,2019-08-29T01:11:15Z,1,1,MERGED
+overdrive,feat(ProgressSpinner): Updates spinner layout use css grid,https://github.com/autoguru-au/overdrive/pull/170,2019-08-28T23:44:26Z,2019-08-29T00:34:29Z,1,2,MERGED
+overdrive,feat(Icons): Consume autoguru icons npm package,https://github.com/autoguru-au/overdrive/pull/166,2019-08-26T05:33:50Z,2019-08-28T00:49:11Z,1,1,MERGED
+overdrive,fix: Fixes text container header on edge,https://github.com/autoguru-au/overdrive/pull/165,2019-08-26T00:50:15Z,2019-08-26T01:01:21Z,1,1,MERGED
+overdrive,feat(Badge): Introduce the look prop which adds minimal,https://github.com/autoguru-au/overdrive/pull/162,2019-08-23T01:14:35Z,2019-08-26T06:21:51Z,2,1,MERGED
+overdrive,feat(InputBase): Removes the min-widths,https://github.com/autoguru-au/overdrive/pull/161,2019-08-22T23:54:35Z,2019-08-22T23:59:28Z,1,1,MERGED
+overdrive,feat(Button): Icon only size to default to 20,https://github.com/autoguru-au/overdrive/pull/157,2019-08-15T23:26:07Z,2019-08-26T06:22:13Z,1,1,MERGED
+overdrive,feat(Alert): Inline and non-dismissible props,https://github.com/autoguru-au/overdrive/pull/153,2019-08-12T10:24:18Z,2019-08-13T03:35:45Z,1,1,MERGED
+overdrive,feat(Alert): Init Alert component,https://github.com/autoguru-au/overdrive/pull/150,2019-08-08T04:57:41Z,2019-08-08T05:20:52Z,1,1,MERGED
+overdrive,feat: Addition of new screensizes,https://github.com/autoguru-au/overdrive/pull/149,2019-08-08T02:03:45Z,2019-08-08T04:14:08Z,1,2,MERGED
+overdrive,feat(OutsideClick): OutsideClick exposed as a utility component,https://github.com/autoguru-au/overdrive/pull/148,2019-08-08T02:00:25Z,2019-08-08T04:14:24Z,0,1,MERGED
+overdrive,feat: Adds new OverdriveProvider + useMedia hook,https://github.com/autoguru-au/overdrive/pull/253,2019-12-20T03:37:09Z,2020-01-07T00:15:22Z,3,5,MERGED
+overdrive,feat(reset): Button css globally resets,https://github.com/autoguru-au/overdrive/pull/244,2019-12-05T04:58:29Z,2019-12-06T01:34:26Z,1,1,MERGED
+overdrive,feat(Tabs): Re-working to allow more flexibility,https://github.com/autoguru-au/overdrive/pull/232,2019-11-19T06:03:18Z,2019-11-20T05:55:01Z,3,1,MERGED
+overdrive,feat(ProgressBar): Init ProgressBar component,https://github.com/autoguru-au/overdrive/pull/230,2019-11-18T00:24:15Z,2019-11-18T01:02:41Z,0,8,MERGED
+overdrive,fix(SelectInput): Arrow click target increased,https://github.com/autoguru-au/overdrive/pull/226,2019-11-13T05:58:34Z,2019-11-14T04:24:58Z,1,1,MERGED
+overdrive,chore(ci): Move to GH actions,https://github.com/autoguru-au/overdrive/pull/225,2019-11-12T12:52:37Z,2020-03-17T04:31:16Z,2,1,CLOSED
+overdrive,feat(Stack): Initial impl of an ability to stack,https://github.com/autoguru-au/overdrive/pull/224,2019-11-11T21:15:42Z,2019-11-12T04:21:28Z,1,1,MERGED
+overdrive,feat: Inline alignY prop,https://github.com/autoguru-au/overdrive/pull/340,2020-03-27T01:44:35Z,2020-03-30T02:15:38Z,2,4,MERGED
+overdrive,feat(Tabs): Support stretching tablist items,https://github.com/autoguru-au/overdrive/pull/339,2020-03-27T00:51:17Z,2020-03-30T02:40:51Z,5,2,MERGED
+overdrive,feat(Alert): Inline is has no width limit,https://github.com/autoguru-au/overdrive/pull/338,2020-03-25T00:57:19Z,2020-03-25T01:15:22Z,2,1,MERGED
+overdrive,feat: Deploy sites to surge,https://github.com/autoguru-au/overdrive/pull/329,2020-03-20T05:34:34Z,2020-03-20T06:29:33Z,2,1,MERGED
+overdrive,feat: Actions now filters out undefined or null children,https://github.com/autoguru-au/overdrive/pull/328,2020-03-20T00:59:47Z,2020-03-20T01:20:08Z,3,1,MERGED
+overdrive,feat: Anchors are now cursor pointer by default,https://github.com/autoguru-au/overdrive/pull/326,2020-03-19T14:26:50Z,2020-03-19T23:56:14Z,2,1,MERGED
+overdrive,feat: Adds new layout components,https://github.com/autoguru-au/overdrive/pull/325,2020-03-19T13:03:09Z,2020-03-20T06:59:13Z,5,3,MERGED
+overdrive,ci: Better use of the cache,https://github.com/autoguru-au/overdrive/pull/324,2020-03-17T12:08:37Z,2020-03-17T23:29:34Z,2,1,MERGED
+overdrive,chore: Introduces playroom,https://github.com/autoguru-au/overdrive/pull/323,2020-03-17T06:59:34Z,2020-03-17T23:29:55Z,2,1,MERGED
+overdrive,feat: Adds explicit colours to button states,https://github.com/autoguru-au/overdrive/pull/313,2020-03-13T01:55:00Z,2020-03-15T22:44:44Z,2,3,MERGED
+overdrive,chore(ci): Using changesets for releases,https://github.com/autoguru-au/overdrive/pull/311,2020-03-12T05:20:30Z,2020-03-12T06:03:42Z,1,1,MERGED
+overdrive,feat: Adds Portal component,https://github.com/autoguru-au/overdrive/pull/296,2020-02-21T01:14:43Z,2020-04-03T11:46:16Z,7,10,CLOSED
+overdrive,feat: Prevent safari from scrolling page for fullscreen overdrive,https://github.com/autoguru-au/overdrive/pull/288,2020-02-05T05:00:11Z,2020-02-05T05:16:30Z,1,1,MERGED
+overdrive,fix: Fixes prefocused mobile autosuggest option,https://github.com/autoguru-au/overdrive/pull/287,2020-02-05T02:30:31Z,2020-02-05T03:03:19Z,1,1,MERGED
+overdrive,feat: Removes forced autosuggest from fullscreen autosuggest,https://github.com/autoguru-au/overdrive/pull/283,2020-02-04T05:11:38Z,2020-02-04T05:39:26Z,1,1,MERGED
+overdrive,feat(AutoSuggest): Automatically close modal after selection,https://github.com/autoguru-au/overdrive/pull/277,2020-01-30T02:44:35Z,2020-02-04T02:00:19Z,5,5,MERGED
+overdrive,feat: Style migration to treat ,https://github.com/autoguru-au/overdrive/pull/273,2020-01-15T01:09:43Z,2020-03-12T06:02:36Z,2,1,MERGED
+overdrive,feat(AutoSuggest): Fullscreen on mobile,https://github.com/autoguru-au/overdrive/pull/263,2020-01-07T04:00:42Z,2020-01-08T01:19:06Z,1,9,MERGED
+overdrive,fix(InputBase): Fullwidth the input wrapper,https://github.com/autoguru-au/overdrive/pull/402,2020-05-28T03:47:57Z,2020-05-28T03:55:07Z,1,2,MERGED
+overdrive,feat: Tabs are now scrollable on smaller devices,https://github.com/autoguru-au/overdrive/pull/400,2020-05-26T03:45:34Z,2020-05-28T01:51:03Z,2,4,MERGED
+overdrive,feat: Flatten fragments when provided as children,https://github.com/autoguru-au/overdrive/pull/388,2020-05-08T05:38:33Z,2020-05-11T00:20:47Z,2,3,MERGED
+overdrive,feat(InputBase): Allows for notchless inputs,https://github.com/autoguru-au/overdrive/pull/377,2020-04-25T05:30:06Z,2020-04-27T01:28:41Z,3,4,MERGED
+overdrive,feat(Stack): Expose the Box width prop,https://github.com/autoguru-au/overdrive/pull/376,2020-04-23T07:00:25Z,2020-04-27T01:28:54Z,2,1,MERGED
+overdrive,feat(Box): Introduces overflow and passing in clsx compat prop,https://github.com/autoguru-au/overdrive/pull/375,2020-04-23T01:07:40Z,2020-04-23T06:59:14Z,2,2,MERGED
+overdrive,feat: expose box width property in tabs,https://github.com/autoguru-au/overdrive/pull/373,2020-04-21T22:46:12Z,2020-04-22T12:32:08Z,4,6,MERGED
+overdrive,feat(AutoSuggest): Introduce an autoWidth prop to size the flyout,https://github.com/autoguru-au/overdrive/pull/364,2020-04-14T07:33:10Z,2020-04-14T22:40:34Z,3,1,MERGED
+overdrive,feat(InputBase): Inputs to always full width,https://github.com/autoguru-au/overdrive/pull/363,2020-04-14T07:14:54Z,2020-04-14T07:18:41Z,2,1,MERGED
+overdrive,feat(AutoSuggest): Support forwardRef for AutoSuggest inputs,https://github.com/autoguru-au/overdrive/pull/362,2020-04-14T05:49:25Z,2020-04-14T06:26:59Z,2,1,MERGED
+overdrive,feat(Positioner): Move to popper.js instead of getOptimalPosition,https://github.com/autoguru-au/overdrive/pull/354,2020-04-08T11:29:35Z,2020-04-09T04:35:34Z,2,3,MERGED
+overdrive,feat: Columns width fix,https://github.com/autoguru-au/overdrive/pull/353,2020-04-08T06:33:58Z,2020-04-08T22:57:09Z,4,3,MERGED
+overdrive,feat: Upgrades Portals to support nested modals,https://github.com/autoguru-au/overdrive/pull/346,2020-04-03T11:43:12Z,2020-04-08T03:28:24Z,5,10,MERGED
+overdrive,fix: Add nowrap for meta component elements,https://github.com/autoguru-au/overdrive/pull/463,2020-07-28T00:47:07Z,2020-07-28T01:03:35Z,1,2,MERGED
+overdrive,fix: Center align simple pagination buttons,https://github.com/autoguru-au/overdrive/pull/462,2020-07-28T00:17:55Z,2020-07-28T01:03:45Z,1,2,MERGED
+overdrive,fix: Fix modal closing when dragging mouse outside of modal,https://github.com/autoguru-au/overdrive/pull/457,2020-07-26T23:38:09Z,2020-07-27T02:15:33Z,1,4,MERGED
+overdrive,chore: Migrate repo to a monorepo structure,https://github.com/autoguru-au/overdrive/pull/443,2020-07-17T03:25:40Z,2020-07-20T04:24:21Z,1,4,MERGED
+overdrive,feat: New project architecture,https://github.com/autoguru-au/overdrive/pull/442,2020-07-15T05:08:21Z,2020-07-16T10:23:07Z,1,9,MERGED
+overdrive,feat(Stepper): Home/End keys no longer jump the page,https://github.com/autoguru-au/overdrive/pull/427,2020-06-27T07:46:06Z,2020-06-29T23:50:58Z,1,1,MERGED
+overdrive,feat(Table): Introduces a Tables component suite,https://github.com/autoguru-au/overdrive/pull/423,2020-06-19T09:29:50Z,2020-07-01T03:50:18Z,4,25,MERGED
+overdrive,feat(Icon): Style child svg's properly,https://github.com/autoguru-au/overdrive/pull/421,2020-06-17T06:00:39Z,2020-06-17T06:17:21Z,1,1,MERGED
+overdrive,feat(Box): Introduce flex style props to box/useBox,https://github.com/autoguru-au/overdrive/pull/419,2020-06-15T11:38:30Z,2020-06-15T23:59:14Z,2,2,MERGED
+overdrive,feat(Inline): Supports dividers between inline elements,https://github.com/autoguru-au/overdrive/pull/409,2020-06-04T05:50:31Z,2020-06-07T23:29:58Z,2,4,MERGED
+overdrive,feat(Text): Supports a noWrap prop to not wrap its content,https://github.com/autoguru-au/overdrive/pull/408,2020-06-03T06:21:13Z,2020-06-07T23:30:38Z,1,1,MERGED
+overdrive,feat(Stack): Renamed spacing prop to space,https://github.com/autoguru-au/overdrive/pull/406,2020-06-02T05:27:26Z,2020-06-07T23:30:09Z,1,1,MERGED
+overdrive,fix: Incorrectly importing treat inside of treat,https://github.com/autoguru-au/overdrive/pull/403,2020-06-01T03:58:35Z,2020-06-01T04:21:15Z,1,1,MERGED
+overdrive,fix(Stepper): No longer re-render when incoming change happens,https://github.com/autoguru-au/overdrive/pull/533,2020-10-27T22:54:53Z,2020-12-09T01:09:49Z,2,2,MERGED
+overdrive,feat: Increases select input click area to cover full component width,https://github.com/autoguru-au/overdrive/pull/518,2020-10-22T02:15:50Z,2020-10-22T22:32:14Z,3,3,MERGED
+overdrive,fix: Corrected Box and Portal types,https://github.com/autoguru-au/overdrive/pull/513,2020-10-19T05:53:13Z,2020-10-19T06:15:02Z,1,3,MERGED
+overdrive,feat: Modal concurrent mode fixes + box changes,https://github.com/autoguru-au/overdrive/pull/506,2020-10-01T04:49:46Z,2020-10-01T05:16:45Z,2,2,MERGED
+overdrive,feat(Tabs): Adds new renderInactivePanes prop to TabPanes,https://github.com/autoguru-au/overdrive/pull/501,2020-08-26T05:44:45Z,2020-08-26T05:54:17Z,1,4,MERGED
+overdrive,feat: Adds a text-transform prop to Text,https://github.com/autoguru-au/overdrive/pull/490,2020-08-13T00:30:02Z,2020-08-13T02:25:52Z,1,2,MERGED
+overdrive,feat(Box): Allows sending in non-intrinsics,https://github.com/autoguru-au/overdrive/pull/474,2020-08-03T02:50:38Z,2020-08-03T04:46:52Z,1,2,MERGED
+overdrive,refactor: Applies fixes for typescript compiler errors,https://github.com/autoguru-au/overdrive/pull/553,2020-12-09T00:27:26Z,2020-12-09T01:44:05Z,1,3,MERGED
+overdrive,feat: StandardModal mobile and tablet view fix,https://github.com/autoguru-au/overdrive/pull/552,2020-12-08T05:15:05Z,2020-12-09T01:05:30Z,1,3,MERGED
+overdrive,feat: Introduces a new small option for width values,https://github.com/autoguru-au/overdrive/pull/550,2020-12-07T04:25:35Z,2020-12-07T05:26:40Z,1,1,MERGED
+overdrive,fix: Badge to use text style as source,https://github.com/autoguru-au/overdrive/pull/547,2020-11-30T02:55:37Z,2020-11-30T22:12:13Z,1,5,MERGED
+overdrive,fix: Fixes inverted badge text colour,https://github.com/autoguru-au/overdrive/pull/545,2020-11-30T01:12:31Z,2020-11-30T02:00:06Z,2,4,MERGED
+overdrive,feat: Reduces opacity of Checkbox and radio when disabled,https://github.com/autoguru-au/overdrive/pull/565,2021-03-16T06:08:47Z,2021-03-16T21:41:45Z,1,2,MERGED
+overdrive,chore: upgrades treat,https://github.com/autoguru-au/overdrive/pull/563,2021-03-09T21:47:24Z,2021-03-27T12:21:13Z,2,1,CLOSED
+overdrive,feat: Adds loading state for input types,https://github.com/autoguru-au/overdrive/pull/588,2021-05-17T05:07:57Z,2021-05-17T05:44:42Z,1,4,MERGED
+overdrive,feat: Adds forwardRef to all checkables,https://github.com/autoguru-au/overdrive/pull/586,2021-05-04T01:09:46Z,2021-05-04T01:35:16Z,1,1,MERGED
+overdrive,feat: Adds capitalise text transform option for Text,https://github.com/autoguru-au/overdrive/pull/584,2021-04-29T00:12:31Z,2021-04-29T01:14:24Z,1,1,MERGED
+overdrive,fix: Adds padding rest to field and filedset Box elements,https://github.com/autoguru-au/overdrive/pull/582,2021-04-20T00:31:18Z,2021-04-20T00:46:26Z,1,3,MERGED
+overdrive,feat: Removes excessive resetting of block elements,https://github.com/autoguru-au/overdrive/pull/579,2021-04-14T05:09:29Z,2021-04-14T06:06:56Z,1,8,MERGED
+overdrive,fix: Fixes blurring out of AutoSuggest throwing error,https://github.com/autoguru-au/overdrive/pull/575,2021-04-13T00:34:35Z,2021-04-13T00:55:11Z,1,2,MERGED
+overdrive,fix: Fixes TexLink to be displayed inline,https://github.com/autoguru-au/overdrive/pull/573,2021-04-12T04:17:32Z,2021-04-12T04:48:27Z,1,3,MERGED
+overdrive,feat: Adds explicit reset styles,https://github.com/autoguru-au/overdrive/pull/571,2021-04-12T00:20:04Z,2021-04-12T00:44:35Z,1,3,MERGED
+overdrive,fix: Fixes useBoxStyles not resting div element styles,https://github.com/autoguru-au/overdrive/pull/569,2021-04-08T02:27:30Z,2021-04-08T03:25:36Z,1,3,MERGED
+overdrive,fix: Fixes second instance of OD on the same page enforcing base reset styles,https://github.com/autoguru-au/overdrive/pull/567,2021-04-06T06:14:50Z,2021-04-06T06:36:14Z,1,2,MERGED
+overdrive,Auto suggest round edge fix,https://github.com/autoguru-au/overdrive/pull/622,2021-07-30T01:56:33Z,2021-07-30T02:06:43Z,1,2,MERGED
+overdrive,feat: Adds white background to AutoSuggest list of results,https://github.com/autoguru-au/overdrive/pull/616,2021-07-26T01:15:17Z,2021-07-26T01:28:55Z,1,1,MERGED
+overdrive,feat: Adds clear input button and inlined options to AutoSuggest,https://github.com/autoguru-au/overdrive/pull/610,2021-07-21T06:26:26Z,2021-07-22T04:57:37Z,1,8,MERGED
+overdrive,feat: Adds missing toaster variants,https://github.com/autoguru-au/overdrive/pull/608,2021-06-18T05:28:47Z,2021-06-18T05:33:11Z,1,1,MERGED
+overdrive,feat: Adds new MinimalModal component,https://github.com/autoguru-au/overdrive/pull/606,2021-06-17T06:14:33Z,2021-06-17T23:51:19Z,2,4,MERGED
+overdrive,feat: Uses theme secondary colour for secondary button border,https://github.com/autoguru-au/overdrive/pull/604,2021-06-16T01:48:35Z,2021-06-16T02:22:24Z,1,1,MERGED
+overdrive,fix: Fixes Autosuggest fullscreen view setting html element width to 0,https://github.com/autoguru-au/overdrive/pull/602,2021-06-15T02:13:20Z,2021-06-15T03:41:24Z,1,1,MERGED
+overdrive,feat: Adds input stories with no notch,https://github.com/autoguru-au/overdrive/pull/600,2021-06-11T06:36:38Z,2021-06-13T21:48:52Z,1,2,MERGED
+overdrive,feat: Adds a new sample flat theme,https://github.com/autoguru-au/overdrive/pull/598,2021-06-11T05:06:54Z,2021-06-11T05:59:51Z,1,10,MERGED
+overdrive,Streamlined custom theme creation,https://github.com/autoguru-au/overdrive/pull/596,2021-06-10T06:41:31Z,2021-06-11T00:05:24Z,1,22,MERGED
+overdrive,feat: Adds optional custom filed icon support for select type inputs,https://github.com/autoguru-au/overdrive/pull/593,2021-06-03T01:52:47Z,2021-06-03T02:00:35Z,1,1,MERGED
+overdrive,fix: Fixes StandardModal sizes,https://github.com/autoguru-au/overdrive/pull/641,2021-10-17T22:54:58Z,2021-10-17T23:08:15Z,1,1,MERGED
+overdrive,refactor: Migrates styling to vanilla extract,https://github.com/autoguru-au/overdrive/pull/640,2021-10-14T05:41:58Z,2021-11-29T02:20:13Z,1,173,MERGED
+overdrive,chore: Upgrades to React 18 alpha,https://github.com/autoguru-au/overdrive/pull/631,2021-08-09T00:02:07Z,2021-10-08T04:47:16Z,1,34,MERGED
+overdrive,feat: Increases AutoSuggest results flyout maxHeight value,https://github.com/autoguru-au/overdrive/pull/628,2021-08-05T02:39:10Z,2021-08-05T02:54:15Z,1,1,MERGED
+overdrive,feat: More distinct colour for unselected tab labels,https://github.com/autoguru-au/overdrive/pull/646,2021-12-10T00:32:35Z,2021-12-10T02:20:29Z,1,2,MERGED
+overdrive,fix: Applies type fixes,https://github.com/autoguru-au/overdrive/pull/644,2021-11-29T21:55:24Z,2021-11-29T22:03:47Z,1,1,MERGED
+overdrive,feat: Adds text size option to Tooltip,https://github.com/autoguru-au/overdrive/pull/694,2022-03-22T06:58:24Z,2022-03-22T07:42:50Z,1,1,MERGED
+overdrive,feat: Adds auto closing timeout option to Tooltip,https://github.com/autoguru-au/overdrive/pull/692,2022-03-20T22:51:40Z,2022-03-20T23:05:36Z,1,1,MERGED
+overdrive,fix: Fixes Button to keep its layout unchanged in loading mode,https://github.com/autoguru-au/overdrive/pull/690,2022-03-10T23:15:25Z,2022-03-10T23:22:34Z,1,1,MERGED
+overdrive,feat: Updates link colours,https://github.com/autoguru-au/overdrive/pull/688,2022-03-09T04:35:45Z,2022-03-09T05:34:21Z,1,3,MERGED
+overdrive,feat: Adds wordBreak prop to heading,https://github.com/autoguru-au/overdrive/pull/686,2022-03-08T04:17:24Z,2022-03-08T04:22:10Z,1,1,MERGED
+overdrive,feat: Adds word break option to Text,https://github.com/autoguru-au/overdrive/pull/684,2022-03-08T02:37:49Z,2022-03-08T03:54:38Z,1,2,MERGED
+overdrive,chore: Updates Image prop types,https://github.com/autoguru-au/overdrive/pull/678,2022-02-17T01:51:02Z,2022-02-17T01:58:09Z,1,1,MERGED
+overdrive,chore: Exports image component and provider from root,https://github.com/autoguru-au/overdrive/pull/676,2022-02-17T00:37:17Z,2022-02-17T00:44:52Z,1,2,MERGED
+overdrive,fix: Fixes onEnter trigger,https://github.com/autoguru-au/overdrive/pull/674,2022-02-10T05:35:43Z,2022-02-10T05:51:17Z,1,1,MERGED
+overdrive,fix: Fixes autosuggest ref type,https://github.com/autoguru-au/overdrive/pull/672,2022-02-10T04:54:27Z,2022-02-10T05:02:57Z,1,1,MERGED
+overdrive,fix: Fixes autosuggest ref type,https://github.com/autoguru-au/overdrive/pull/671,2022-02-10T04:08:19Z,2022-02-10T04:13:56Z,1,1,MERGED
+overdrive,feat: Autosuggest closes results when enter key is pressed,https://github.com/autoguru-au/overdrive/pull/669,2022-02-10T02:14:23Z,2022-02-10T02:30:45Z,1,1,MERGED
+overdrive,chore: useResponssiveValue type change,https://github.com/autoguru-au/overdrive/pull/667,2022-02-09T01:48:38Z,2022-02-09T02:02:38Z,1,2,MERGED
+overdrive,feat: Adds onEnter event callback to AutoSuggest,https://github.com/autoguru-au/overdrive/pull/665,2022-02-07T23:06:11Z,2022-02-07T23:32:33Z,1,1,MERGED
+overdrive,chore: Adds changeset,https://github.com/autoguru-au/overdrive/pull/660,2022-02-06T22:11:11Z,2022-02-06T22:20:38Z,1,15,MERGED
+overdrive,Image component,https://github.com/autoguru-au/overdrive/pull/659,2022-02-03T06:57:22Z,2022-02-06T21:54:41Z,1,14,MERGED
+overdrive,chore: Adds babel preset env dependency,https://github.com/autoguru-au/overdrive/pull/652,2022-01-11T01:01:24Z,2022-01-11T01:46:38Z,1,3,MERGED
+overdrive,fix: Fixes changest release,https://github.com/autoguru-au/overdrive/pull/649,2022-01-10T06:32:04Z,2022-01-10T06:32:16Z,0,1,MERGED
+overdrive,fix: Fixes text area min height,https://github.com/autoguru-au/overdrive/pull/648,2022-01-10T06:12:29Z,2022-01-10T06:21:28Z,1,1,MERGED
+overdrive,fix: Fixes clear button layout shift for small size,https://github.com/autoguru-au/overdrive/pull/744,2022-05-30T06:10:04Z,2022-05-30T06:14:35Z,1,1,MERGED
+overdrive,feat: Reduces small inputs font size to size 2,https://github.com/autoguru-au/overdrive/pull/742,2022-05-30T00:37:39Z,2022-05-30T00:42:04Z,1,1,MERGED
+overdrive,fix: Fixes small select input line height,https://github.com/autoguru-au/overdrive/pull/740,2022-05-29T22:33:27Z,2022-05-29T22:38:30Z,1,1,MERGED
+overdrive,feat: Adds small input size,https://github.com/autoguru-au/overdrive/pull/738,2022-05-27T05:55:20Z,2022-05-27T06:17:59Z,1,5,MERGED
+overdrive,Fix skipped tests,https://github.com/autoguru-au/overdrive/pull/733,2022-05-25T03:46:53Z,2022-05-25T03:58:04Z,1,7,MERGED
+overdrive,fix: Fixes react 18 warnings while running tests,https://github.com/autoguru-au/overdrive/pull/732,2022-05-25T00:56:41Z,2022-05-25T01:21:24Z,1,1,MERGED
+overdrive,fix: Fixes scrolled TextArea text covering shifted placeholder,https://github.com/autoguru-au/overdrive/pull/731,2022-05-24T23:01:08Z,2022-05-24T23:50:40Z,1,1,CLOSED
+overdrive,feat: Adds width prop to Inline component,https://github.com/autoguru-au/overdrive/pull/725,2022-05-23T22:59:46Z,2022-05-23T23:05:54Z,1,1,MERGED
+overdrive,chore: Fixes tsc not producing types,https://github.com/autoguru-au/overdrive/pull/723,2022-05-23T22:24:46Z,2022-05-23T22:31:10Z,1,1,MERGED
+overdrive,chore: Upgrades dependencies,https://github.com/autoguru-au/overdrive/pull/719,2022-05-23T05:18:43Z,2022-05-23T05:26:25Z,1,1,MERGED
+overdrive,Minimise chromatic changes,https://github.com/autoguru-au/overdrive/pull/718,2022-05-23T04:24:07Z,2022-05-23T04:42:11Z,1,4,MERGED
+overdrive,feat: Updates Inputs to get theme standard line height,https://github.com/autoguru-au/overdrive/pull/716,2022-05-18T04:09:31Z,2022-05-18T04:22:13Z,1,1,MERGED
+overdrive,fix: Fixes Number input passive event prevention,https://github.com/autoguru-au/overdrive/pull/714,2022-05-09T23:15:32Z,2022-05-09T23:29:51Z,1,1,MERGED
+overdrive,feat: Adds large number support to NumberBubble,https://github.com/autoguru-au/overdrive/pull/712,2022-05-09T04:54:28Z,2022-05-09T05:34:03Z,1,2,MERGED
+overdrive,fixes: Fixes warning and information Button text colours,https://github.com/autoguru-au/overdrive/pull/710,2022-05-04T05:05:55Z,2022-05-04T05:24:11Z,1,2,MERGED
+overdrive,feat: Adds new Button colour variants,https://github.com/autoguru-au/overdrive/pull/708,2022-05-04T02:37:48Z,2022-05-04T02:44:53Z,1,1,MERGED
+overdrive,fix: Fixes wrong sizing for the value of 10 for NumberBuble,https://github.com/autoguru-au/overdrive/pull/706,2022-04-29T04:42:14Z,2022-04-29T04:48:38Z,1,1,MERGED
+overdrive,feat: Adds NumberBubble component,https://github.com/autoguru-au/overdrive/pull/704,2022-04-29T04:22:06Z,2022-04-29T04:29:10Z,1,1,MERGED
+overdrive,feat: Removes extra right padding for radio and checkbox with no children,https://github.com/autoguru-au/overdrive/pull/702,2022-04-27T23:35:58Z,2022-04-27T23:42:03Z,1,1,MERGED
+overdrive,feat: Allows empty children for radio and checkbox,https://github.com/autoguru-au/overdrive/pull/700,2022-04-27T23:09:35Z,2022-04-27T23:15:34Z,1,1,MERGED
+overdrive,feat: Uses new intent border colours for Botton variants,https://github.com/autoguru-au/overdrive/pull/698,2022-04-27T00:17:45Z,2022-04-27T00:46:36Z,1,1,MERGED
+overdrive,feat: Changes event listeners to be passive,https://github.com/autoguru-au/overdrive/pull/696,2022-04-14T01:39:04Z,2022-04-14T01:45:18Z,1,1,MERGED
+overdrive,chore: Adds default exports for components,https://github.com/autoguru-au/overdrive/pull/756,2022-07-25T22:16:03Z,2022-07-25T22:22:09Z,1,1,MERGED
+overdrive,fix: Fixes toasts blocking page elements at the same page height,https://github.com/autoguru-au/overdrive/pull/754,2022-07-22T01:58:57Z,2022-07-22T02:10:29Z,1,1,MERGED
+overdrive,feat: Adds loading state to date picker,https://github.com/autoguru-au/overdrive/pull/752,2022-06-19T22:30:13Z,2022-06-19T22:36:51Z,1,1,MERGED
+overdrive,feat: Adds date picker component,https://github.com/autoguru-au/overdrive/pull/750,2022-06-17T05:37:59Z,2022-06-17T05:43:36Z,1,1,MERGED
+overdrive,feat: Allows tabs to have complex children,https://github.com/autoguru-au/overdrive/pull/748,2022-06-16T02:02:38Z,2022-06-16T02:08:37Z,1,1,MERGED
+overdrive,feat: Adds content vertical alignment options to MinimalModal,https://github.com/autoguru-au/overdrive/pull/746,2022-06-13T00:20:25Z,2022-06-13T00:30:15Z,1,1,MERGED
+overdrive,feat: Adds new colour helpers,https://github.com/autoguru-au/overdrive/pull/802,2022-10-27T21:51:49Z,2022-10-27T21:58:11Z,1,1,MERGED
+overdrive,wip: Dynamic theming,https://github.com/autoguru-au/overdrive/pull/800,2022-10-27T05:52:22Z,2022-10-27T05:52:34Z,1,1,MERGED
+overdrive,Theme contracts,https://github.com/autoguru-au/overdrive/pull/799,2022-10-27T03:50:53Z,2022-10-27T04:40:33Z,1,6,MERGED
+overdrive,fix: Fixes colour input stories,https://github.com/autoguru-au/overdrive/pull/797,2022-10-25T22:41:34Z,2022-10-25T22:48:17Z,1,3,MERGED
+overdrive,feat: Adds colour input,https://github.com/autoguru-au/overdrive/pull/795,2022-10-25T05:11:22Z,2022-10-25T05:33:51Z,1,3,MERGED
+overdrive,chore: Upgrades chromatic,https://github.com/autoguru-au/overdrive/pull/790,2022-10-04T05:40:49Z,2022-10-04T05:48:24Z,1,5,MERGED
+overdrive,chore(deps): @autoguru/icons 1.7.27,https://github.com/autoguru-au/overdrive/pull/789,2022-10-04T05:25:10Z,2022-10-04T05:29:07Z,1,1,MERGED
+overdrive,chore: Upgrades chromatic,https://github.com/autoguru-au/overdrive/pull/788,2022-10-04T04:50:09Z,2022-10-04T05:01:23Z,1,2,MERGED
+overdrive,feat: Adds tabindex of -1 to disabled elements,https://github.com/autoguru-au/overdrive/pull/786,2022-09-26T05:37:26Z,2022-09-26T05:55:26Z,1,1,MERGED
+overdrive,fix: Fixes fullscreen autosuggest loosing window scroll position,https://github.com/autoguru-au/overdrive/pull/785,2022-09-26T05:26:17Z,2022-09-26T05:39:50Z,1,1,MERGED
+overdrive,feat: Changes Switch to no longer keen an internal state,https://github.com/autoguru-au/overdrive/pull/784,2022-09-08T00:23:41Z,2022-09-08T00:40:29Z,1,2,MERGED
+overdrive,feat: Prevents double clicking as a default Button behaviour,https://github.com/autoguru-au/overdrive/pull/782,2022-09-08T00:05:04Z,2022-09-08T00:11:20Z,1,1,MERGED
+overdrive,fix: Fixes autosuggest mobile focus,https://github.com/autoguru-au/overdrive/pull/780,2022-09-06T23:13:29Z,2022-09-06T23:21:15Z,1,1,MERGED
+overdrive,feat: Automatically closes AutoSuggest mobile modal with value changes,https://github.com/autoguru-au/overdrive/pull/778,2022-09-06T22:19:43Z,2022-09-06T22:35:30Z,1,1,MERGED
+overdrive,Fix: Adds focused state to Switch,https://github.com/autoguru-au/overdrive/pull/776,2022-09-02T00:13:13Z,2022-09-02T01:23:19Z,1,2,MERGED
+overdrive,Stepper improvements,https://github.com/autoguru-au/overdrive/pull/774,2022-08-31T04:00:52Z,2022-08-31T04:15:59Z,1,2,MERGED
+overdrive,feat: Adds TextBubble component,https://github.com/autoguru-au/overdrive/pull/772,2022-08-24T04:26:03Z,2022-08-24T04:34:13Z,1,1,MERGED
+overdrive,chore: Upgrades dependencies,https://github.com/autoguru-au/overdrive/pull/767,2022-08-18T04:19:43Z,2022-08-18T04:36:35Z,1,3,MERGED
+overdrive,Renovate/autoguru,https://github.com/autoguru-au/overdrive/pull/758,2022-08-11T04:46:47Z,2022-08-11T04:56:33Z,1,3,MERGED
+overdrive,Theme updates,https://github.com/autoguru-au/overdrive/pull/832,2022-12-20T06:50:12Z,2022-12-20T22:46:22Z,1,4,MERGED
+overdrive,chore: Improves code linting,https://github.com/autoguru-au/overdrive/pull/831,2022-12-20T02:46:28Z,2022-12-20T06:16:53Z,1,4,MERGED
+overdrive,feat: Adds dynamic theme value provider,https://github.com/autoguru-au/overdrive/pull/827,2022-12-19T06:21:13Z,2022-12-19T23:18:58Z,1,9,MERGED
+overdrive,feat: Adds intent border colours for Box,https://github.com/autoguru-au/overdrive/pull/825,2022-12-01T03:32:59Z,2022-12-01T03:42:46Z,1,1,MERGED
+overdrive,fix: Fixes DividerLine size type,https://github.com/autoguru-au/overdrive/pull/823,2022-11-30T01:51:31Z,2022-11-30T01:51:37Z,1,1,MERGED
+overdrive,feat: Adds DividerLine component,https://github.com/autoguru-au/overdrive/pull/821,2022-11-30T01:28:00Z,2022-11-30T01:33:24Z,1,1,MERGED
+overdrive,feat: Adds none to box width,https://github.com/autoguru-au/overdrive/pull/819,2022-11-28T02:19:25Z,2022-11-28T02:24:27Z,1,1,MERGED
+overdrive,feat: Adds alignItems option to stack component,https://github.com/autoguru-au/overdrive/pull/817,2022-11-28T01:16:44Z,2022-11-28T01:49:38Z,1,3,MERGED
+overdrive,feat: Adds a neutral theme,https://github.com/autoguru-au/overdrive/pull/816,2022-11-24T05:07:59Z,2022-12-20T06:19:21Z,1,3,CLOSED
+overdrive,fix: Drops AutoSuggest borderMerge and attach in fullscreen mode,https://github.com/autoguru-au/overdrive/pull/810,2022-11-03T22:05:42Z,2022-11-03T22:13:16Z,1,1,MERGED
+overdrive,feat: adds input borderMerge option,https://github.com/autoguru-au/overdrive/pull/808,2022-11-03T03:53:07Z,2022-11-03T03:56:29Z,1,1,MERGED
+overdrive,feat: adds input attach option,https://github.com/autoguru-au/overdrive/pull/806,2022-11-03T00:24:15Z,2022-11-03T00:33:14Z,1,1,MERGED
+overdrive,fix: Fixes stepper decimals,https://github.com/autoguru-au/overdrive/pull/804,2022-11-02T00:25:18Z,2022-11-02T00:34:29Z,1,1,MERGED
+overdrive,feat: Updates useWindowHeightFill to listen to dom changes,https://github.com/autoguru-au/overdrive/pull/889,2023-03-29T07:33:00Z,2023-03-29T07:33:06Z,1,1,MERGED
+overdrive,feat: Updates useWindowHeightFill to listen to dom changes,https://github.com/autoguru-au/overdrive/pull/887,2023-03-29T07:12:47Z,2023-03-29T07:12:54Z,1,1,MERGED
+overdrive,Layout components,https://github.com/autoguru-au/overdrive/pull/885,2023-03-29T05:51:17Z,2023-03-29T06:03:46Z,1,9,MERGED
+overdrive,feat: Adds padding options to TabPanes,https://github.com/autoguru-au/overdrive/pull/883,2023-03-28T06:01:09Z,2023-03-28T06:01:20Z,1,1,MERGED
+overdrive,feat: Adds theme token utils,https://github.com/autoguru-au/overdrive/pull/881,2023-03-28T03:55:05Z,2023-03-28T04:29:37Z,1,1,MERGED
+overdrive,feat: Implements seo improvements,https://github.com/autoguru-au/overdrive/pull/879,2023-03-22T04:43:20Z,2023-03-22T05:00:41Z,1,2,MERGED
+overdrive,feat: Improves TextLink iconed version layout,https://github.com/autoguru-au/overdrive/pull/877,2023-03-21T05:55:34Z,2023-03-21T06:03:36Z,1,1,MERGED
+overdrive,feat: Adds icon support for TextLink,https://github.com/autoguru-au/overdrive/pull/875,2023-03-21T05:16:39Z,2023-03-21T05:24:33Z,1,1,MERGED
+overdrive,feat: Adds all box background colours support for DividerLine,https://github.com/autoguru-au/overdrive/pull/874,2023-03-21T04:36:58Z,2023-03-21T05:16:21Z,1,1,MERGED
+overdrive,fix: Fixes translateZ causing Safari overlay issues,https://github.com/autoguru-au/overdrive/pull/872,2023-03-20T04:37:49Z,2023-03-20T04:49:21Z,1,1,MERGED
+overdrive,feat: Adds swipe for HorizontalAutoScroller,https://github.com/autoguru-au/overdrive/pull/866,2023-03-16T06:46:53Z,2023-03-17T06:21:31Z,1,2,MERGED
+overdrive,Feat Adds HorizontalAutoScroller,https://github.com/autoguru-au/overdrive/pull/864,2023-03-16T05:24:54Z,2023-03-16T05:35:03Z,1,5,MERGED
+overdrive,fix: Fixes storybook dynamic theme,https://github.com/autoguru-au/overdrive/pull/862,2023-03-14T02:17:16Z,2023-03-14T02:25:30Z,1,1,MERGED
+overdrive,feat: Adds SliderProgress component,https://github.com/autoguru-au/overdrive/pull/860,2023-03-13T05:33:22Z,2023-03-13T06:41:45Z,1,3,MERGED
+overdrive,feat: Adds serverside fallback to useResponsiveValue hook,https://github.com/autoguru-au/overdrive/pull/858,2023-03-08T06:15:15Z,2023-03-08T06:22:04Z,1,1,MERGED
+overdrive,feat: Improves dynamic theming,https://github.com/autoguru-au/overdrive/pull/856,2023-02-23T05:40:43Z,2023-02-23T05:50:38Z,1,3,MERGED
+overdrive,feat: Updates ThemeOverriders to react to upstream updates,https://github.com/autoguru-au/overdrive/pull/854,2023-02-17T02:33:34Z,2023-02-17T02:40:04Z,1,1,MERGED
+overdrive,feat: Makes Theme override primary colours optional,https://github.com/autoguru-au/overdrive/pull/852,2023-02-14T04:19:26Z,2023-02-14T04:24:48Z,1,1,MERGED
+overdrive,feat: Removes OD Provider setting document body styles,https://github.com/autoguru-au/overdrive/pull/850,2023-02-13T22:39:49Z,2023-02-13T23:08:20Z,1,3,MERGED
+overdrive,feat: Adds modal mount point to OD provider,https://github.com/autoguru-au/overdrive/pull/848,2023-02-13T07:09:16Z,2023-02-13T07:14:40Z,1,1,MERGED
+overdrive,chore: Upgrades chromatic,https://github.com/autoguru-au/overdrive/pull/847,2023-02-03T03:32:38Z,2023-02-03T04:52:55Z,1,4,MERGED
+overdrive,chore: Upgrades storybook,https://github.com/autoguru-au/overdrive/pull/846,2023-02-03T03:13:47Z,2023-02-03T03:19:27Z,1,1,MERGED
+overdrive,chore: Upgrades vanilla extract,https://github.com/autoguru-au/overdrive/pull/845,2023-02-02T02:56:53Z,2023-02-03T03:02:25Z,1,4,MERGED
+overdrive,chore: Removes playroom,https://github.com/autoguru-au/overdrive/pull/843,2023-01-11T07:20:02Z,2023-01-11T07:38:34Z,1,4,MERGED
+overdrive,refactor: Improved intent colour reuse,https://github.com/autoguru-au/overdrive/pull/837,2023-01-09T05:44:48Z,2023-01-09T05:54:15Z,1,3,MERGED
+overdrive,chore: Fixes generated types,https://github.com/autoguru-au/overdrive/pull/835,2023-01-03T07:40:26Z,2023-01-03T07:40:33Z,1,1,MERGED
+overdrive,feat: Adds order prop for Box,https://github.com/autoguru-au/overdrive/pull/834,2023-01-03T07:22:24Z,2023-01-03T07:25:09Z,1,1,MERGED
+overdrive,feat: Updates background neutral colour,https://github.com/autoguru-au/overdrive/pull/899,2023-04-02T22:34:59Z,2023-04-02T23:00:45Z,1,1,MERGED
+overdrive,feat: Increases large breakpoint threshold,https://github.com/autoguru-au/overdrive/pull/917,2023-07-03T23:27:02Z,2023-07-03T23:42:45Z,1,2,MERGED
+overdrive,fix: Fixes images component passing unsupported imageWidth prop to Si…,https://github.com/autoguru-au/overdrive/pull/915,2023-06-28T22:19:17Z,2023-06-28T22:25:01Z,1,1,MERGED
+overdrive,fix: Fixes Select and AutoSuggest input heights,https://github.com/autoguru-au/overdrive/pull/913,2023-06-28T06:16:17Z,2023-06-28T06:23:37Z,1,1,MERGED
+overdrive,chore: Upgrades browserlist ,https://github.com/autoguru-au/overdrive/pull/907,2023-06-21T23:29:30Z,2023-06-21T23:41:21Z,1,2,MERGED
+overdrive,feat: Makes DatePicker size prop optional,https://github.com/autoguru-au/overdrive/pull/905,2023-06-09T07:22:30Z,2023-06-09T07:22:49Z,1,1,MERGED
+overdrive,feat: Adds valueLabel prop to DatePicker,https://github.com/autoguru-au/overdrive/pull/903,2023-06-09T06:11:30Z,2023-06-09T06:20:04Z,1,1,MERGED
+overdrive,feat: Adds Intent stripe,https://github.com/autoguru-au/overdrive/pull/901,2023-06-02T04:09:16Z,2023-06-02T04:14:51Z,1,2,MERGED
+overdrive,feat: Makes number inputs always clearable when in focus irrespective…,https://github.com/autoguru-au/overdrive/pull/946,2023-10-30T03:20:49Z,2023-10-30T03:26:15Z,1,1,MERGED
+overdrive,feat: Passes tab index to EditableText wrapper container,https://github.com/autoguru-au/overdrive/pull/944,2023-10-30T01:46:59Z,2023-10-30T01:55:14Z,1,2,MERGED
+overdrive,feat: Adds disableBackdropClick prop to Modal components,https://github.com/autoguru-au/overdrive/pull/941,2023-10-23T04:04:56Z,2023-10-23T04:10:33Z,1,1,MERGED
+overdrive,feat: Adds onModeChange callback to EditableText,https://github.com/autoguru-au/overdrive/pull/939,2023-10-19T05:43:27Z,2023-10-19T05:49:12Z,1,1,MERGED
+overdrive,fix: Fixes EditableText focus and blur event,https://github.com/autoguru-au/overdrive/pull/937,2023-10-19T05:08:59Z,2023-10-19T05:16:18Z,1,1,MERGED
+overdrive,feat: Fixes EditableText size,https://github.com/autoguru-au/overdrive/pull/935,2023-10-13T03:26:49Z,2023-10-13T04:02:09Z,1,1,MERGED
+overdrive,feat: Fixes EditableText size,https://github.com/autoguru-au/overdrive/pull/933,2023-10-13T02:41:58Z,2023-10-13T02:53:14Z,1,1,MERGED
+overdrive,feat: Improves EditableText width,https://github.com/autoguru-au/overdrive/pull/931,2023-10-13T02:20:11Z,2023-10-13T02:29:03Z,1,2,MERGED
+overdrive,chore: Reexports EditableText,https://github.com/autoguru-au/overdrive/pull/929,2023-10-13T00:29:59Z,2023-10-13T00:33:47Z,1,2,MERGED
+overdrive,feat: Adds EditableText component,https://github.com/autoguru-au/overdrive/pull/927,2023-10-13T00:04:09Z,2023-10-13T00:11:32Z,1,1,MERGED
+overdrive,feat: Adds background colour prop for inputs,https://github.com/autoguru-au/overdrive/pull/925,2023-09-13T07:00:13Z,2023-09-13T10:48:53Z,1,3,MERGED
+overdrive,feat: Adds open state as Tooltip prop,https://github.com/autoguru-au/overdrive/pull/923,2023-08-09T04:58:32Z,2023-08-09T05:05:07Z,1,2,MERGED
+overdrive,feat: Adds open state as Tooltip prop,https://github.com/autoguru-au/overdrive/pull/921,2023-08-04T05:30:46Z,2023-08-04T05:38:46Z,1,1,MERGED
+overdrive,feat: No longer shows empty tooltips,https://github.com/autoguru-au/overdrive/pull/919,2023-08-02T06:22:26Z,2023-08-02T06:27:35Z,1,1,MERGED
+overdrive,Fix: Fixes EditableTest change propagation,https://github.com/autoguru-au/overdrive/pull/966,2023-12-13T23:32:27Z,2023-12-13T23:36:05Z,1,1,MERGED
+overdrive,chore: Exports hooks from the package root,https://github.com/autoguru-au/overdrive/pull/965,2023-12-13T22:43:18Z,2023-12-13T23:36:29Z,1,1,MERGED
+overdrive,fix: Fixes EditableText not sizing correctly for type number,https://github.com/autoguru-au/overdrive/pull/963,2023-12-13T06:56:23Z,2023-12-13T07:02:19Z,1,3,MERGED
+overdrive,feat: Adds internal state management while EditableText is in edit mode,https://github.com/autoguru-au/overdrive/pull/961,2023-12-13T04:17:31Z,2023-12-13T04:24:07Z,1,2,MERGED
+overdrive,feat: Remove deployment step for storybook in ci.yml,https://github.com/autoguru-au/overdrive/pull/960,2023-11-17T01:43:31Z,2023-12-13T05:17:58Z,1,2,MERGED
+overdrive,feat: Add buildStorybook action,https://github.com/autoguru-au/overdrive/pull/959,2023-11-16T12:18:42Z,2023-11-16T23:14:24Z,1,1,MERGED
+overdrive,fix: Improves input placeholder width calculation in floating mode,https://github.com/autoguru-au/overdrive/pull/957,2023-11-10T01:01:39Z,2023-11-10T01:25:34Z,1,1,MERGED
+overdrive,fix: Fixes DropDown prop types,https://github.com/autoguru-au/overdrive/pull/955,2023-11-07T06:15:54Z,2023-11-07T06:23:27Z,1,1,MERGED
+overdrive,feat: Adds disabled prop to DropDown options,https://github.com/autoguru-au/overdrive/pull/953,2023-11-07T05:51:12Z,2023-11-07T05:57:01Z,1,1,MERGED
+overdrive,feat: Defaults DropDown options display value to flex,https://github.com/autoguru-au/overdrive/pull/951,2023-11-07T00:17:36Z,2023-11-07T02:21:33Z,1,1,MERGED
+overdrive,feat: Changes dropdown options to be passed in as children,https://github.com/autoguru-au/overdrive/pull/949,2023-11-06T22:41:20Z,2023-11-06T22:48:37Z,1,1,MERGED
+overdrive,feat: Adds DropDown component,https://github.com/autoguru-au/overdrive/pull/947,2023-11-02T02:15:36Z,2023-11-02T02:22:26Z,1,1,MERGED
+overdrive,feat: Adds SimpleImage component error fallback option,https://github.com/autoguru-au/overdrive/pull/974,2024-03-22T03:21:23Z,2024-03-22T03:30:14Z,1,1,MERGED
+overdrive,feat: Icons warn when passed empty icons in instead of throwing,https://github.com/autoguru-au/overdrive/pull/972,2024-03-20T22:50:37Z,2024-03-20T23:07:06Z,1,2,MERGED
+overdrive,feat: Adds grid display to box props,https://github.com/autoguru-au/overdrive/pull/970,2024-02-06T02:38:17Z,2024-02-06T02:43:08Z,1,1,MERGED
+overdrive,feat: Adds an optional maxHeight prop to FillHeightBox,https://github.com/autoguru-au/overdrive/pull/968,2024-01-31T05:56:04Z,2024-01-31T06:04:58Z,1,1,MERGED
+overdrive,"feat: Cap Input text, textarea and numbers",https://github.com/autoguru-au/overdrive/pull/976,2024-05-14T05:18:01Z,2024-05-14T23:26:18Z,3,7,MERGED
+overdrive,Theme update,https://github.com/autoguru-au/overdrive/pull/980,2024-07-29T05:12:13Z,2024-08-19T04:35:46Z,2,4,MERGED
+overdrive,feat: Adds small size badge,https://github.com/autoguru-au/overdrive/pull/978,2024-06-26T02:19:58Z,2024-06-26T05:46:24Z,1,6,MERGED
+overdrive,chore: Fixes Switch component prop type,https://github.com/autoguru-au/overdrive/pull/987,2024-09-12T00:20:18Z,2024-09-12T00:24:01Z,1,1,MERGED
+overdrive,chore: Upgrades css type and vanilla extract,https://github.com/autoguru-au/overdrive/pull/986,2024-09-11T23:40:20Z,2024-09-11T23:54:08Z,1,1,MERGED
+overdrive,feat: Adds new colors and animation to switch,https://github.com/autoguru-au/overdrive/pull/983,2024-08-21T00:29:53Z,2024-09-09T04:43:40Z,1,19,MERGED
+overdrive,Theme update,https://github.com/autoguru-au/overdrive/pull/982,2024-08-21T00:19:04Z,2024-08-21T00:34:32Z,1,4,CLOSED
+overdrive,Checkbox Buttons [AG-14023],https://github.com/autoguru-au/overdrive/pull/1013,2024-12-17T20:18:44Z,2025-01-14T02:14:04Z,5,19,CLOSED
+overdrive,Feat: Document tokens in Storybook,https://github.com/autoguru-au/overdrive/pull/1008,2024-12-04T05:09:08Z,2024-12-05T23:22:59Z,3,12,MERGED
+overdrive,chore(workflows): merge Chormatic config into single action,https://github.com/autoguru-au/overdrive/pull/1000,2024-11-29T00:32:01Z,2024-12-02T00:03:31Z,1,1,MERGED
+overdrive,chore(deps): dev dependencies,https://github.com/autoguru-au/overdrive/pull/996,2024-11-26T22:46:47Z,2024-11-27T22:50:06Z,1,10,MERGED
+overdrive,chore: Upgrade to Storybook 8,https://github.com/autoguru-au/overdrive/pull/993,2024-11-22T02:58:24Z,2024-11-25T05:21:37Z,1,15,MERGED
+overdrive,feat: reduce padding in icon input prefix,https://github.com/autoguru-au/overdrive/pull/990,2024-11-03T22:45:52Z,2024-11-06T01:16:29Z,1,5,MERGED
+overdrive,#1048 eslint v9,https://github.com/autoguru-au/overdrive/pull/1051,2025-02-20T23:47:43Z,2025-02-24T23:02:43Z,1,19,MERGED
+overdrive,Add ci test script,https://github.com/autoguru-au/overdrive/pull/1049,2025-02-19T05:46:28Z,2025-02-20T22:59:19Z,2,1,CLOSED
+overdrive,[AG-14044-SONARQUBE-INTEGRATION] Implement SonarQube Server,https://github.com/autoguru-au/overdrive/pull/1046,2025-02-18T19:17:10Z,2025-02-20T23:01:42Z,4,26,MERGED
+overdrive,Migrate from Jest to Vitest,https://github.com/autoguru-au/overdrive/pull/1043,2025-02-14T05:40:24Z,2025-02-18T04:28:23Z,2,11,MERGED
+overdrive,Improve Badge component,https://github.com/autoguru-au/overdrive/pull/1038,2025-02-07T05:40:56Z,2025-02-10T22:56:18Z,1,11,MERGED
+overdrive,Revert use of `globalThis`,https://github.com/autoguru-au/overdrive/pull/1036,2025-02-05T07:13:29Z,2025-02-06T03:25:40Z,1,8,MERGED
+overdrive,Refactor stories to CSF3,https://github.com/autoguru-au/overdrive/pull/1035,2025-02-05T03:40:16Z,2025-02-10T06:07:31Z,1,13,MERGED
+overdrive,Reduce Chromatic usage,https://github.com/autoguru-au/overdrive/pull/1034,2025-02-04T22:07:48Z,2025-02-04T23:40:17Z,1,6,MERGED
+overdrive,Date and Time Picker component (beta),https://github.com/autoguru-au/overdrive/pull/1033,2025-02-03T07:02:51Z,2025-02-10T06:05:45Z,3,13,MERGED
+overdrive,Skip CI jobs in some cases,https://github.com/autoguru-au/overdrive/pull/1032,2025-02-03T00:21:58Z,2025-02-03T21:31:22Z,2,11,CLOSED
+overdrive,React 19 upgrade,https://github.com/autoguru-au/overdrive/pull/1030,2025-01-29T07:01:15Z,2025-01-30T00:08:44Z,1,8,MERGED
+overdrive,Reorganise navigation,https://github.com/autoguru-au/overdrive/pull/1029,2025-01-29T03:49:14Z,2025-01-29T04:48:34Z,1,5,MERGED
+overdrive,Search Bar component,https://github.com/autoguru-au/overdrive/pull/1027,2025-01-24T02:28:24Z,2025-01-30T22:35:17Z,3,17,MERGED
+overdrive,Change publish CI behaviour,https://github.com/autoguru-au/overdrive/pull/1025,2025-01-23T22:58:31Z,2025-01-28T23:22:45Z,1,2,MERGED
+overdrive,Icon set story,https://github.com/autoguru-au/overdrive/pull/1024,2025-01-23T03:37:34Z,2025-01-24T01:26:21Z,1,5,MERGED
+overdrive,feat: OptionList beta and OptionGrid beta components,https://github.com/autoguru-au/overdrive/pull/1022,2025-01-19T22:37:48Z,2025-01-22T07:13:25Z,4,42,MERGED
+overdrive,[AG-14044] SonarQube integration,https://github.com/autoguru-au/overdrive/pull/1021,2025-01-16T16:38:22Z,2025-02-18T18:39:50Z,5,12,CLOSED
+overdrive,chore: Removes unwanted post install package patching,https://github.com/autoguru-au/overdrive/pull/1019,2025-01-14T23:46:08Z,2025-01-14T23:49:41Z,1,1,MERGED
+overdrive,feat: Adds id and test id props to text and headings,https://github.com/autoguru-au/overdrive/pull/1014,2025-01-08T05:07:47Z,2025-01-09T00:47:29Z,1,1,MERGED

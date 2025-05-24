@@ -1,0 +1,484 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+baklava,Added color palette,https://github.com/Trendyol/baklava/pull/3,2021-07-26T07:43:32Z,2021-07-26T07:43:49Z,0,8,MERGED
+baklava,google font cdn change to trendyol cdn,https://github.com/Trendyol/baklava/pull/2,2021-07-09T06:48:18Z,2021-07-09T06:48:24Z,0,1,MERGED
+baklava,google font cdn change to trendyol cdn,https://github.com/Trendyol/baklava/pull/1,2021-07-08T18:20:08Z,2021-07-08T18:22:29Z,0,1,MERGED
+baklava,"GImage, IntersectionObserver catch error",https://github.com/Trendyol/baklava/pull/22,2021-10-22T18:55:46Z,2021-11-01T06:03:32Z,0,1,MERGED
+baklava,fixed the disabling issue for GSelect component.,https://github.com/Trendyol/baklava/pull/21,2021-10-01T20:28:54Z,2021-10-20T11:50:38Z,0,1,MERGED
+baklava,"GBadge, better performance, class independence ",https://github.com/Trendyol/baklava/pull/20,2021-09-30T12:04:26Z,2021-11-29T14:34:00Z,0,4,MERGED
+baklava,Make datepicker read-only,https://github.com/Trendyol/baklava/pull/19,2021-09-08T11:11:46Z,2021-10-06T06:01:04Z,0,1,MERGED
+baklava,Added date picker custom select,https://github.com/Trendyol/baklava/pull/18,2021-09-06T13:34:14Z,2021-09-06T13:34:27Z,0,1,MERGED
+baklava,Add link variant to GButton,https://github.com/Trendyol/baklava/pull/17,2021-09-06T07:25:23Z,2021-09-07T18:20:09Z,0,1,MERGED
+baklava,Update date picker weekly format,https://github.com/Trendyol/baklava/pull/16,2021-09-03T11:46:51Z,2021-09-03T11:49:45Z,0,1,MERGED
+baklava,Add disabled feature to GSelect,https://github.com/Trendyol/baklava/pull/15,2021-08-31T12:21:44Z,2021-08-31T14:01:59Z,0,2,MERGED
+baklava,Add hovered feature to GTabs,https://github.com/Trendyol/baklava/pull/14,2021-08-31T10:58:43Z,2021-08-31T12:06:10Z,0,2,MERGED
+baklava,Update README.md,https://github.com/Trendyol/baklava/pull/13,2021-08-27T10:34:34Z,2021-08-31T06:37:43Z,0,1,MERGED
+baklava,Add slot to Tabs component and blur event to Select component,https://github.com/Trendyol/baklava/pull/12,2021-08-27T05:38:41Z,2021-08-31T06:39:56Z,0,1,MERGED
+baklava,Add showWeekNumber prop to date picker,https://github.com/Trendyol/baklava/pull/11,2021-08-19T13:06:49Z,2021-08-19T13:08:31Z,0,1,MERGED
+baklava,remove default src,https://github.com/Trendyol/baklava/pull/10,2021-08-18T14:01:46Z,2021-08-18T14:02:19Z,0,1,MERGED
+baklava,fix weekly mode hover,https://github.com/Trendyol/baklava/pull/9,2021-08-18T13:49:10Z,2021-08-18T13:55:41Z,0,1,MERGED
+baklava,Add date picker weekly select,https://github.com/Trendyol/baklava/pull/8,2021-08-16T12:46:43Z,2021-08-16T12:55:22Z,0,2,MERGED
+baklava,removed rubik font and font installation added to document,https://github.com/Trendyol/baklava/pull/7,2021-08-16T11:33:46Z,2021-08-17T13:03:23Z,0,1,MERGED
+baklava,fix wrong issue url,https://github.com/Trendyol/baklava/pull/6,2021-08-08T10:25:47Z,2021-08-12T14:49:31Z,0,1,MERGED
+baklava,"GImage, added lazyLoading",https://github.com/Trendyol/baklava/pull/5,2021-08-05T07:42:25Z,2021-08-05T07:45:02Z,0,1,MERGED
+baklava,"feature/GInputPrice-allowMinus, added allowMinus attr",https://github.com/Trendyol/baklava/pull/41,2021-12-31T10:57:48Z,2021-12-31T11:02:58Z,0,2,MERGED
+baklava,Fix Safari gradient button bug,https://github.com/Trendyol/baklava/pull/40,2021-12-31T07:31:35Z,2021-12-31T09:55:54Z,0,1,MERGED
+baklava,GCheckbox - added color props for checkbox component,https://github.com/Trendyol/baklava/pull/39,2021-12-30T12:25:28Z,2021-12-30T12:29:16Z,0,2,MERGED
+baklava,change version,https://github.com/Trendyol/baklava/pull/38,2021-12-23T12:26:00Z,2021-12-23T12:31:00Z,0,1,MERGED
+baklava,Fix slot props issue,https://github.com/Trendyol/baklava/pull/37,2021-12-23T11:56:34Z,2021-12-23T11:58:48Z,0,1,MERGED
+baklava,feature/GDrawer - style fix,https://github.com/Trendyol/baklava/pull/36,2021-12-22T08:51:05Z,2021-12-22T08:51:24Z,0,1,MERGED
+baklava,Update npm version to 1.0.17,https://github.com/Trendyol/baklava/pull/35,2021-12-21T14:52:56Z,2021-12-21T14:53:04Z,0,1,MERGED
+baklava,Feature/GDrawer,https://github.com/Trendyol/baklava/pull/34,2021-12-21T14:38:12Z,2021-12-21T14:38:51Z,0,2,MERGED
+baklava,GDrawer implementation,https://github.com/Trendyol/baklava/pull/33,2021-12-21T12:13:11Z,2021-12-21T12:45:18Z,0,1,MERGED
+baklava,version to 1.0.16,https://github.com/Trendyol/baklava/pull/32,2021-12-09T08:11:54Z,2021-12-09T08:12:07Z,0,1,MERGED
+baklava,bind attrs to GButtonDropDown,https://github.com/Trendyol/baklava/pull/31,2021-12-09T07:42:01Z,2021-12-09T07:45:26Z,0,1,MERGED
+baklava,1.0.15,https://github.com/Trendyol/baklava/pull/30,2021-12-08T11:19:16Z,2021-12-08T11:20:52Z,0,1,MERGED
+baklava,Add title props to g wizard buttons,https://github.com/Trendyol/baklava/pull/29,2021-12-08T10:42:24Z,2021-12-08T11:00:01Z,0,2,MERGED
+baklava,GTab update test,https://github.com/Trendyol/baklava/pull/28,2021-12-08T10:10:43Z,2021-12-08T10:10:49Z,0,1,MERGED
+baklava,"GBadge, added showBadge props data. hide/show from parent component",https://github.com/Trendyol/baklava/pull/27,2021-12-02T10:07:57Z,2021-12-08T09:57:36Z,0,1,MERGED
+baklava,"GTabs: title, subtitle color get from props data",https://github.com/Trendyol/baklava/pull/26,2021-12-02T10:07:49Z,2021-12-08T09:57:25Z,0,1,MERGED
+baklava,Remove toLocaleUpperCase from label,https://github.com/Trendyol/baklava/pull/25,2021-11-17T13:12:55Z,2021-11-17T13:41:19Z,0,1,MERGED
+baklava,1.0.13,https://github.com/Trendyol/baklava/pull/24,2021-11-01T14:19:53Z,2021-11-01T14:22:55Z,0,1,MERGED
+baklava,GButton variant fix,https://github.com/Trendyol/baklava/pull/23,2021-11-01T11:05:06Z,2021-11-01T11:06:07Z,0,2,MERGED
+baklava,GInputPrice bug caused by model change in GInput fixed,https://github.com/Trendyol/baklava/pull/70,2022-03-31T15:23:20Z,2022-04-01T06:16:43Z,0,1,MERGED
+baklava,GInputPrice bug caused by model change in GInput fixed,https://github.com/Trendyol/baklava/pull/66,2022-03-31T11:58:17Z,2022-03-31T12:48:54Z,0,1,MERGED
+baklava,trim prop & proper trimming functionality for GInput & unit tests added,https://github.com/Trendyol/baklava/pull/62,2022-03-30T06:59:38Z,2022-03-30T14:18:26Z,0,1,MERGED
+baklava,Set sticky header on mounted,https://github.com/Trendyol/baklava/pull/61,2022-03-25T06:50:50Z,2022-03-25T06:54:01Z,0,1,MERGED
+baklava,"fix/GDataTable_isAllSelected, isAllSelected condition changed",https://github.com/Trendyol/baklava/pull/60,2022-03-07T10:51:41Z,2022-03-07T10:55:28Z,0,2,MERGED
+baklava,fix(gselect): when component is disabled clear icon should not be dis…,https://github.com/Trendyol/baklava/pull/59,2022-03-02T11:35:17Z,2022-03-02T11:35:32Z,0,1,MERGED
+baklava,fix(gselect): show clear button should default to false,https://github.com/Trendyol/baklava/pull/58,2022-03-02T09:30:07Z,2022-03-02T09:30:23Z,0,1,MERGED
+baklava,Fix/g data table sticky header,https://github.com/Trendyol/baklava/pull/57,2022-02-23T10:53:49Z,2022-02-23T10:53:57Z,0,2,MERGED
+baklava,Feature/g select clear button,https://github.com/Trendyol/baklava/pull/56,2022-02-23T10:50:01Z,2022-02-23T23:05:45Z,0,5,MERGED
+baklava,GSelect dynamic keys and reduce value props,https://github.com/Trendyol/baklava/pull/49,2022-02-21T10:36:22Z,2022-02-22T11:49:21Z,0,4,MERGED
+baklava,Add not closing feature when click outside,https://github.com/Trendyol/baklava/pull/48,2022-02-18T11:48:34Z,2022-02-22T08:38:21Z,0,1,MERGED
+baklava,feat(rich-text): integrate rest of the quill events,https://github.com/Trendyol/baklava/pull/47,2022-02-09T13:19:01Z,2022-02-09T13:20:40Z,0,1,MERGED
+baklava,Added GDataTable sticky header,https://github.com/Trendyol/baklava/pull/46,2022-02-08T08:45:53Z,2022-02-08T08:45:58Z,0,1,MERGED
+baklava,Added GDataTable sticky header,https://github.com/Trendyol/baklava/pull/45,2022-02-08T08:01:16Z,2022-02-08T08:01:22Z,0,1,MERGED
+baklava,Added GDataTable sticky header,https://github.com/Trendyol/baklava/pull/44,2022-02-08T07:55:43Z,2022-02-08T07:55:51Z,0,1,MERGED
+baklava,Feature/g textarea maxlength,https://github.com/Trendyol/baklava/pull/43,2022-02-07T06:48:14Z,2022-02-07T07:34:14Z,0,3,MERGED
+baklava,Add body no scroll feature to Modal,https://github.com/Trendyol/baklava/pull/42,2022-01-20T08:38:29Z,2022-01-20T11:11:52Z,0,2,MERGED
+baklava,feat(icon): all of the current icons are added,https://github.com/Trendyol/baklava/pull/120,2022-05-31T23:08:13Z,2022-06-01T08:50:44Z,2,3,MERGED
+baklava,feat(icon): svg icon path set automatically for cdn usage,https://github.com/Trendyol/baklava/pull/119,2022-05-29T22:13:42Z,2022-05-30T15:09:37Z,2,2,MERGED
+baklava,feat: button component,https://github.com/Trendyol/baklava/pull/118,2022-05-29T18:34:45Z,2022-06-13T07:13:21Z,8,26,MERGED
+baklava,chore(storybook): storybook upgraded to v6.5.5,https://github.com/Trendyol/baklava/pull/117,2022-05-25T19:41:40Z,2022-05-30T15:11:10Z,2,4,MERGED
+baklava,Icon component,https://github.com/Trendyol/baklava/pull/116,2022-05-25T12:50:03Z,2022-05-26T11:38:38Z,2,8,MERGED
+baklava,event decorator for components,https://github.com/Trendyol/baklava/pull/115,2022-05-20T14:12:55Z,2022-07-05T21:47:26Z,5,13,MERGED
+baklava,Feature: GDatePicker language support,https://github.com/Trendyol/baklava/pull/111,2022-05-18T09:02:02Z,2022-05-18T12:23:18Z,2,3,MERGED
+baklava,Feature/g pagination language support,https://github.com/Trendyol/baklava/pull/110,2022-05-17T14:43:21Z,2022-05-17T15:01:49Z,1,2,MERGED
+baklava,feat: build system converted to esbuild,https://github.com/Trendyol/baklava/pull/109,2022-05-16T12:54:35Z,2022-05-16T14:22:26Z,1,4,MERGED
+baklava,feat: commit message validation with husky,https://github.com/Trendyol/baklava/pull/107,2022-05-10T20:34:35Z,2022-05-11T11:35:15Z,1,6,MERGED
+baklava,fix(storybook): fix for code sample issues,https://github.com/Trendyol/baklava/pull/106,2022-04-29T22:16:12Z,2022-05-09T10:57:58Z,1,1,MERGED
+baklava,Visual regression tests with chromatic,https://github.com/Trendyol/baklava/pull/105,2022-04-28T08:55:40Z,2022-05-09T12:28:33Z,1,2,CLOSED
+baklava,Implementation of testing mechanism,https://github.com/Trendyol/baklava/pull/101,2022-04-17T14:35:04Z,2022-04-29T08:32:43Z,2,11,MERGED
+baklava,Linting rules and making it part of workflow,https://github.com/Trendyol/baklava/pull/100,2022-04-17T14:09:57Z,2022-05-10T09:15:10Z,4,12,MERGED
+baklava,Implementation of storybook,https://github.com/Trendyol/baklava/pull/99,2022-04-08T07:45:04Z,2022-04-28T06:46:50Z,3,8,MERGED
+baklava,fixed Ginput clears value when type is number and key character is co…,https://github.com/Trendyol/baklava/pull/97,2022-04-07T09:28:43Z,2022-04-07T10:19:17Z,0,1,MERGED
+baklava,GPagination - added visible only property,https://github.com/Trendyol/baklava/pull/72,2022-04-05T14:41:57Z,2022-04-05T14:46:24Z,0,1,MERGED
+baklava,fix(tooltip): change max-width for tooltip,https://github.com/Trendyol/baklava/pull/177,2022-07-29T09:54:23Z,2022-07-29T10:10:30Z,3,1,MERGED
+baklava,146 visual regression test for component states in storybook stories,https://github.com/Trendyol/baklava/pull/174,2022-07-28T21:27:42Z,2022-08-03T09:34:37Z,12,20,MERGED
+baklava,Fix/GInputFormat input mask issue,https://github.com/Trendyol/baklava/pull/172,2022-07-27T10:42:02Z,2022-07-27T10:45:31Z,1,1,MERGED
+baklava,Fix/GInputFormat inputMask issue,https://github.com/Trendyol/baklava/pull/171,2022-07-27T10:38:56Z,2022-07-27T10:40:48Z,0,25,CLOSED
+baklava,refactor(tooltip): lint warnings are fixed,https://github.com/Trendyol/baklava/pull/170,2022-07-26T11:00:39Z,2022-07-26T11:33:02Z,3,2,MERGED
+baklava,fix(tooltip): lint fixes for tooltip,https://github.com/Trendyol/baklava/pull/169,2022-07-26T09:36:00Z,2022-07-26T22:25:12Z,1,1,CLOSED
+baklava,140 tooltip component,https://github.com/Trendyol/baklava/pull/168,2022-07-26T09:14:45Z,2022-07-26T09:21:56Z,0,11,CLOSED
+baklava,feat: browser support fine-tuned to cover older versions,https://github.com/Trendyol/baklava/pull/165,2022-07-25T13:22:23Z,2022-07-25T14:04:08Z,2,1,MERGED
+baklava,140 tooltip component fix,https://github.com/Trendyol/baklava/pull/162,2022-07-20T09:39:20Z,2022-07-20T09:48:10Z,0,7,CLOSED
+baklava,Upgrade inputmask version from 5.0.0 to 5.0.7,https://github.com/Trendyol/baklava/pull/161,2022-07-19T13:15:54Z,2022-07-19T13:18:49Z,1,1,MERGED
+baklava,feat: tab component,https://github.com/Trendyol/baklava/pull/160,2022-07-19T11:33:44Z,2022-08-09T09:40:24Z,30,53,MERGED
+baklava,140 tooltip component,https://github.com/Trendyol/baklava/pull/159,2022-07-19T11:21:03Z,2022-07-26T08:31:05Z,14,10,MERGED
+baklava,134 tab component,https://github.com/Trendyol/baklava/pull/158,2022-07-19T08:10:06Z,2022-07-19T11:32:44Z,0,30,CLOSED
+baklava,add slot to GDrawer component,https://github.com/Trendyol/baklava/pull/157,2022-07-19T07:18:14Z,2022-07-19T10:24:28Z,1,2,MERGED
+baklava,test: bl-icon is mocked for tests other than its own test,https://github.com/Trendyol/baklava/pull/155,2022-07-14T15:05:23Z,2022-07-22T13:48:20Z,2,1,MERGED
+baklava,feat(storybook): updated html title,https://github.com/Trendyol/baklava/pull/154,2022-07-06T17:03:30Z,2022-07-08T19:41:48Z,7,5,MERGED
+baklava,chore: prevent using old node versions,https://github.com/Trendyol/baklava/pull/153,2022-07-05T12:00:10Z,2022-07-05T21:30:01Z,3,1,MERGED
+baklava,ci: npm cache and remove playwright action,https://github.com/Trendyol/baklava/pull/152,2022-07-04T14:17:01Z,2022-07-05T21:30:18Z,4,1,MERGED
+baklava,chore(storybook): storybook update to v6.5.9,https://github.com/Trendyol/baklava/pull/150,2022-07-04T09:55:34Z,2022-07-05T16:06:22Z,3,1,MERGED
+baklava,fix/gInput-inherit-attrs-bug,https://github.com/Trendyol/baklava/pull/149,2022-07-01T10:44:56Z,2022-07-01T10:46:30Z,1,1,MERGED
+baklava,docs: using baklava in vue doc added,https://github.com/Trendyol/baklava/pull/148,2022-06-30T13:05:19Z,2022-07-01T15:25:16Z,20,4,MERGED
+baklava,fix: unit test missing styles,https://github.com/Trendyol/baklava/pull/133,2022-06-24T13:17:16Z,2022-06-24T13:28:07Z,2,1,MERGED
+baklava,docs: readme and contributing docs are created,https://github.com/Trendyol/baklava/pull/132,2022-06-24T10:25:53Z,2022-06-28T08:21:31Z,2,4,MERGED
+baklava,feat: badge component,https://github.com/Trendyol/baklava/pull/131,2022-06-23T10:58:06Z,2022-06-28T09:23:10Z,11,8,MERGED
+baklava,feat: input component,https://github.com/Trendyol/baklava/pull/129,2022-06-21T12:10:26Z,2022-07-01T13:30:16Z,15,41,MERGED
+baklava,intersection observer added to GSelect & synced with removeOptionsFro…,https://github.com/Trendyol/baklava/pull/128,2022-06-17T15:12:47Z,2022-06-17T15:26:42Z,1,1,MERGED
+baklava,Feature/remove options from dom,https://github.com/Trendyol/baklava/pull/127,2022-06-14T20:15:46Z,2022-06-14T20:16:01Z,1,3,MERGED
+baklava,remove options from dom prop added to GSelect,https://github.com/Trendyol/baklava/pull/126,2022-06-14T19:33:25Z,2022-06-14T19:55:12Z,1,1,MERGED
+baklava,add closeOutside functionality,https://github.com/Trendyol/baklava/pull/125,2022-06-09T07:46:15Z,2022-06-09T11:27:47Z,1,3,MERGED
+baklava,feat: design system renamed as baklava,https://github.com/Trendyol/baklava/pull/123,2022-06-02T13:27:50Z,2022-06-02T14:38:44Z,1,3,MERGED
+baklava,docs: adding new icons documantation addded,https://github.com/Trendyol/baklava/pull/122,2022-06-02T09:11:03Z,2022-06-02T11:13:13Z,2,1,MERGED
+baklava,feat(icon): arrangement icon is added,https://github.com/Trendyol/baklava/pull/121,2022-06-01T14:19:41Z,2022-06-07T13:34:43Z,2,2,CLOSED
+baklava,feat: dialog component,https://github.com/Trendyol/baklava/pull/306,2022-10-25T10:21:49Z,2022-10-27T11:42:40Z,3,20,MERGED
+baklava,feat: radio component,https://github.com/Trendyol/baklava/pull/301,2022-10-20T09:42:15Z,2022-11-17T08:45:56Z,6,10,MERGED
+baklava,feat: notification component,https://github.com/Trendyol/baklava/pull/300,2022-10-19T10:00:20Z,2023-01-19T14:14:14Z,4,4,CLOSED
+baklava,fix(progress-indicator): add reflect for props,https://github.com/Trendyol/baklava/pull/297,2022-10-19T07:41:21Z,2022-10-19T10:50:24Z,3,1,MERGED
+baklava,docs: warning added about npm and cdn versions,https://github.com/Trendyol/baklava/pull/283,2022-10-17T11:48:51Z,2022-10-17T12:07:02Z,3,1,MERGED
+baklava,added alias prop for fix GInput price currency,https://github.com/Trendyol/baklava/pull/282,2022-10-17T11:32:50Z,2022-10-17T11:33:29Z,1,1,MERGED
+baklava,Bug/g input price currency fix,https://github.com/Trendyol/baklava/pull/281,2022-10-17T11:29:22Z,2022-10-17T11:31:09Z,0,27,CLOSED
+baklava,fix(pagination): totalItems change control added,https://github.com/Trendyol/baklava/pull/279,2022-10-13T08:27:30Z,2022-10-13T09:14:03Z,3,1,MERGED
+baklava,fix: generate type declarations for build,https://github.com/Trendyol/baklava/pull/278,2022-10-12T14:45:08Z,2022-10-13T12:55:30Z,4,5,MERGED
+baklava,fix: featured and alternative colors fixed and new colors added,https://github.com/Trendyol/baklava/pull/277,2022-10-12T12:29:30Z,2022-10-13T10:25:58Z,4,1,MERGED
+baklava,chore: deprecated extension removed,https://github.com/Trendyol/baklava/pull/275,2022-10-11T07:34:52Z,2022-10-13T11:35:54Z,2,3,MERGED
+baklava,chore: generic code of conduct document added,https://github.com/Trendyol/baklava/pull/274,2022-10-07T09:19:24Z,2022-10-13T06:14:36Z,3,1,MERGED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/273,2022-10-05T08:56:09Z,2022-10-05T13:48:29Z,4,3,MERGED
+baklava,feat: refactor button variants,https://github.com/Trendyol/baklava/pull/271,2022-10-04T13:35:42Z,2022-10-06T12:15:22Z,13,10,MERGED
+baklava,feat: purge cache on cdn,https://github.com/Trendyol/baklava/pull/270,2022-10-03T21:13:57Z,2022-10-10T06:04:37Z,4,2,CLOSED
+baklava,feat: pagination component,https://github.com/Trendyol/baklava/pull/261,2022-09-29T12:36:00Z,2022-10-06T14:08:28Z,15,20,MERGED
+baklava,docs: theme customization document added,https://github.com/Trendyol/baklava/pull/260,2022-09-29T12:00:29Z,2022-09-30T09:24:00Z,4,3,MERGED
+baklava,fix(select): popover and selected issues,https://github.com/Trendyol/baklava/pull/257,2022-09-29T05:38:35Z,2022-09-29T10:49:43Z,3,2,MERGED
+baklava,fix(select): fix delay of arrow icon change on opening popup,https://github.com/Trendyol/baklava/pull/256,2022-09-28T19:28:55Z,2022-09-29T07:46:26Z,3,1,MERGED
+baklava,docs: release flow document added,https://github.com/Trendyol/baklava/pull/255,2022-09-28T19:13:42Z,2022-09-29T08:44:26Z,3,2,MERGED
+baklava,refactor: change typography variables and fix document,https://github.com/Trendyol/baklava/pull/254,2022-09-28T17:52:52Z,2022-10-03T07:05:21Z,5,6,MERGED
+baklava,fix(tooltip): use max-content width for tooltip content,https://github.com/Trendyol/baklava/pull/253,2022-09-28T08:25:21Z,2022-09-29T08:52:40Z,4,2,MERGED
+baklava,feat(icon): partial_approve and disable icons added,https://github.com/Trendyol/baklava/pull/249,2022-09-26T12:37:39Z,2022-09-28T07:32:45Z,4,1,MERGED
+baklava,Tooltip: Add max-content width,https://github.com/Trendyol/baklava/pull/248,2022-09-22T20:22:46Z,2022-09-28T08:25:53Z,2,2,CLOSED
+baklava,chore: improve the ide experience for design tokens,https://github.com/Trendyol/baklava/pull/243,2022-09-20T10:28:42Z,2022-09-20T10:50:19Z,3,3,MERGED
+baklava,docs: playground usage,https://github.com/Trendyol/baklava/pull/241,2022-09-20T07:05:02Z,2022-09-20T10:01:04Z,6,4,MERGED
+baklava,docs: add how to customize a components style,https://github.com/Trendyol/baklava/pull/238,2022-09-14T10:17:55Z,2022-09-19T07:25:46Z,6,5,MERGED
+baklava,docs(design): add sizing to design system,https://github.com/Trendyol/baklava/pull/237,2022-09-14T06:46:39Z,2022-09-14T14:00:12Z,6,5,MERGED
+baklava,feat(button): refactor hover state for text button,https://github.com/Trendyol/baklava/pull/234,2022-09-12T12:19:52Z,2022-09-13T08:32:56Z,6,2,MERGED
+baklava,feat: select component,https://github.com/Trendyol/baklava/pull/225,2022-09-08T15:18:10Z,2022-09-26T10:52:07Z,31,17,MERGED
+baklava,feat(input): elementinternals implementation for input component,https://github.com/Trendyol/baklava/pull/220,2022-09-07T15:20:04Z,2022-09-28T07:27:54Z,3,8,MERGED
+baklava,fix(input): listen value changes in native input,https://github.com/Trendyol/baklava/pull/219,2022-09-07T15:15:38Z,2022-09-08T07:03:09Z,2,1,MERGED
+baklava,feat: alert component,https://github.com/Trendyol/baklava/pull/217,2022-09-06T08:04:46Z,2022-09-12T07:59:23Z,35,36,MERGED
+baklava,chore: create license file,https://github.com/Trendyol/baklava/pull/215,2022-09-05T09:39:37Z,2022-09-06T10:17:11Z,2,1,MERGED
+baklava,docs: fix border radius rem variable,https://github.com/Trendyol/baklava/pull/214,2022-08-26T08:17:59Z,2022-08-26T08:26:14Z,2,2,MERGED
+baklava,chore: describe border radius variables,https://github.com/Trendyol/baklava/pull/213,2022-08-25T09:51:15Z,2022-08-26T06:48:57Z,6,7,MERGED
+baklava,chore: add visual regression test for button component states,https://github.com/Trendyol/baklava/pull/212,2022-08-25T07:39:19Z,2022-09-01T07:53:54Z,6,13,MERGED
+baklava,docs: badge links are fixed,https://github.com/Trendyol/baklava/pull/210,2022-08-24T13:53:07Z,2022-08-24T14:41:54Z,3,1,MERGED
+baklava,feat: minify css,https://github.com/Trendyol/baklava/pull/209,2022-08-24T08:22:17Z,2022-08-24T14:56:55Z,4,1,MERGED
+baklava,fix(tooltip): convert tooltip css variables to private,https://github.com/Trendyol/baklava/pull/204,2022-08-22T09:33:41Z,2022-08-22T15:08:24Z,3,2,MERGED
+baklava,fix(tooltip): tooltip positioning bug fix,https://github.com/Trendyol/baklava/pull/202,2022-08-18T18:20:40Z,2022-08-19T07:02:44Z,3,1,MERGED
+baklava,feat: checkbox component,https://github.com/Trendyol/baklava/pull/201,2022-08-17T13:40:02Z,2022-09-12T08:28:24Z,31,32,MERGED
+baklava,docs: add note for using inline styling at storybook components,https://github.com/Trendyol/baklava/pull/200,2022-08-17T10:24:15Z,2022-08-19T07:09:28Z,3,1,MERGED
+baklava,chore: pipeline and commit hook linters are synced,https://github.com/Trendyol/baklava/pull/195,2022-08-09T14:00:23Z,2022-09-02T17:00:03Z,5,12,MERGED
+baklava,docs: add Styling Components section to react doc,https://github.com/Trendyol/baklava/pull/193,2022-08-09T08:00:18Z,2022-08-10T22:40:37Z,7,3,MERGED
+baklava,fix(button)!: button attributes refactored,https://github.com/Trendyol/baklava/pull/191,2022-08-08T09:05:56Z,2022-08-15T08:32:49Z,10,8,MERGED
+baklava,chore: added vscode recommended extensions (#189),https://github.com/Trendyol/baklava/pull/190,2022-08-05T15:33:57Z,2022-08-08T14:53:44Z,5,2,MERGED
+baklava,fix(badge): css variables used as privately,https://github.com/Trendyol/baklava/pull/188,2022-08-05T09:39:30Z,2022-08-05T11:16:31Z,4,2,MERGED
+baklava,GImage error image && retry mechanism added,https://github.com/Trendyol/baklava/pull/186,2022-08-04T13:54:23Z,2022-08-04T15:23:10Z,1,3,MERGED
+baklava,feat: progress-indicator component,https://github.com/Trendyol/baklava/pull/184,2022-08-04T07:19:03Z,2022-08-09T11:08:01Z,15,6,MERGED
+baklava,feat: add react support,https://github.com/Trendyol/baklava/pull/181,2022-08-01T18:14:03Z,2022-08-04T10:42:20Z,18,16,MERGED
+baklava,fix(input): a11y improvements,https://github.com/Trendyol/baklava/pull/351,2022-12-29T23:38:37Z,2023-01-05T16:12:28Z,3,1,MERGED
+baklava,fix(tooltip): a11y and UI consistency improvements,https://github.com/Trendyol/baklava/pull/350,2022-12-29T23:32:11Z,2023-01-06T11:10:17Z,6,3,MERGED
+baklava,fix(button): fix css variable typo,https://github.com/Trendyol/baklava/pull/348,2022-12-26T12:38:37Z,2022-12-26T13:02:30Z,3,1,MERGED
+baklava,feat: textarea component,https://github.com/Trendyol/baklava/pull/347,2022-12-23T10:29:17Z,2023-02-02T15:10:20Z,38,22,MERGED
+baklava,docs: update fouce warning message,https://github.com/Trendyol/baklava/pull/346,2022-12-22T14:35:55Z,2022-12-22T14:44:44Z,3,3,MERGED
+baklava,fix: remove fouce effect styles from default theme,https://github.com/Trendyol/baklava/pull/345,2022-12-22T12:46:38Z,2022-12-22T14:14:28Z,4,1,MERGED
+baklava,feat: added search input for select component,https://github.com/Trendyol/baklava/pull/336,2022-12-07T16:48:08Z,2023-02-07T09:37:37Z,4,4,CLOSED
+baklava,feat(drawer): exit animation applied for drawer component,https://github.com/Trendyol/baklava/pull/335,2022-12-07T11:08:27Z,2022-12-08T08:08:42Z,7,3,MERGED
+baklava,feat: dropdown component,https://github.com/Trendyol/baklava/pull/333,2022-12-06T12:01:19Z,2022-12-19T10:43:22Z,18,21,MERGED
+baklava,fix: react wrapper for component files with multiple exports,https://github.com/Trendyol/baklava/pull/331,2022-12-02T14:42:25Z,2022-12-02T15:26:40Z,2,1,MERGED
+baklava,feat: drawer component,https://github.com/Trendyol/baklava/pull/327,2022-11-28T14:17:19Z,2022-12-05T13:08:05Z,11,10,MERGED
+baklava,fix(pagination): throw events only on page & total-items changes,https://github.com/Trendyol/baklava/pull/326,2022-11-24T07:47:45Z,2022-11-24T09:26:13Z,3,1,MERGED
+baklava,fix(pagination): add item per page value bl-change event,https://github.com/Trendyol/baklava/pull/325,2022-11-23T13:14:15Z,2022-11-23T13:43:29Z,3,1,MERGED
+baklava,feat: checkbox-group component,https://github.com/Trendyol/baklava/pull/324,2022-11-23T09:10:08Z,2022-12-07T08:40:45Z,5,9,MERGED
+baklava,fix: lazy react exports,https://github.com/Trendyol/baklava/pull/320,2022-11-16T10:51:45Z,2022-12-06T08:31:45Z,2,4,MERGED
+baklava,fix: support of dialog in old versions of browsers,https://github.com/Trendyol/baklava/pull/319,2022-11-16T06:47:48Z,2022-11-21T11:52:13Z,17,9,MERGED
+baklava,fix: pagination items per page options,https://github.com/Trendyol/baklava/pull/313,2022-11-07T11:33:10Z,2022-11-11T10:05:32Z,7,4,MERGED
+baklava,docs: add eslint info to the vue doc,https://github.com/Trendyol/baklava/pull/309,2022-11-02T07:35:31Z,2022-11-03T06:04:51Z,3,1,MERGED
+baklava,feat(icon): close icon updated,https://github.com/Trendyol/baklava/pull/308,2022-11-01T12:47:07Z,2022-11-02T12:29:43Z,3,1,MERGED
+baklava,docs(select): better form validation demo,https://github.com/Trendyol/baklava/pull/509,2023-03-31T15:29:40Z,2023-04-03T09:06:24Z,2,2,MERGED
+baklava,fix(checkbox): delegate focus in checkbox,https://github.com/Trendyol/baklava/pull/507,2023-03-30T13:52:37Z,2023-04-05T15:55:29Z,2,5,MERGED
+baklava,fix(input): label style and background color fixed,https://github.com/Trendyol/baklava/pull/506,2023-03-29T22:13:12Z,2023-04-05T09:30:05Z,4,13,MERGED
+baklava,feat(progress-indicator): transition on value changes,https://github.com/Trendyol/baklava/pull/505,2023-03-29T08:42:50Z,2023-03-30T13:17:31Z,2,1,MERGED
+baklava,docs(dialog): examples with full-width actions added,https://github.com/Trendyol/baklava/pull/504,2023-03-28T20:23:33Z,2023-03-30T13:16:59Z,2,1,MERGED
+baklava,feat(input): set custom error state,https://github.com/Trendyol/baklava/pull/503,2023-03-28T19:47:04Z,2023-04-05T15:43:21Z,2,5,MERGED
+baklava,feat(alert): update alert actions UI,https://github.com/Trendyol/baklava/pull/501,2023-03-28T07:14:37Z,2023-03-29T07:16:27Z,2,3,MERGED
+baklava,docs: add homepage field to package.json,https://github.com/Trendyol/baklava/pull/497,2023-03-27T10:35:55Z,2023-03-27T13:23:33Z,2,4,MERGED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/495,2023-03-24T07:41:34Z,2023-03-25T16:48:29Z,2,1,MERGED
+baklava,v2.0 - First stable release,https://github.com/Trendyol/baklava/pull/494,2023-03-22T14:23:59Z,2023-04-06T13:39:22Z,2,269,MERGED
+baklava,docs: readme preperation for stable release,https://github.com/Trendyol/baklava/pull/493,2023-03-22T00:30:47Z,2023-04-06T12:16:12Z,2,15,MERGED
+baklava,docs: create SECURITY.md,https://github.com/Trendyol/baklava/pull/492,2023-03-21T23:04:38Z,2023-03-27T13:23:15Z,1,1,MERGED
+baklava,fix(button): customize border raises with variable,https://github.com/Trendyol/baklava/pull/491,2023-03-21T14:32:02Z,2023-03-21T22:18:45Z,4,3,MERGED
+baklava,test(checkbox): focus snapshot testing fixed,https://github.com/Trendyol/baklava/pull/484,2023-03-15T15:16:01Z,2023-03-16T08:05:48Z,1,3,MERGED
+baklava,feat(popover): max-width and border-size css properties are added,https://github.com/Trendyol/baklava/pull/483,2023-03-15T08:43:23Z,2023-05-09T08:13:54Z,13,21,MERGED
+baklava,feat: z-index tokens are defined,https://github.com/Trendyol/baklava/pull/482,2023-03-14T22:20:32Z,2023-03-16T09:18:21Z,3,7,MERGED
+baklava,fix(select): fix additional selection number when value set empty,https://github.com/Trendyol/baklava/pull/481,2023-03-14T10:00:21Z,2023-03-15T08:38:57Z,2,4,MERGED
+baklava,feat: new attributes for form fields,https://github.com/Trendyol/baklava/pull/475,2023-03-13T23:23:44Z,2023-03-16T09:05:34Z,3,11,MERGED
+baklava,test(textarea): fix timeout test,https://github.com/Trendyol/baklava/pull/473,2023-03-10T09:50:26Z,2023-03-13T09:33:36Z,2,1,MERGED
+baklava,fix(input): fix listening value property changes,https://github.com/Trendyol/baklava/pull/460,2023-03-02T07:59:06Z,2023-03-09T09:25:05Z,4,3,MERGED
+baklava,fix(input): autofill styling,https://github.com/Trendyol/baklava/pull/459,2023-03-02T07:53:14Z,2023-03-07T13:20:01Z,7,6,MERGED
+baklava,feat(tab): accessibility improvements,https://github.com/Trendyol/baklava/pull/458,2023-03-01T15:49:50Z,2023-03-16T10:15:21Z,12,10,MERGED
+baklava,fix(react): fix custom element undefined error in electron,https://github.com/Trendyol/baklava/pull/457,2023-03-01T13:16:42Z,2023-03-02T07:47:11Z,2,1,MERGED
+baklava,fix(input): add 'small' to input size type,https://github.com/Trendyol/baklava/pull/455,2023-03-01T06:54:33Z,2023-03-01T07:56:59Z,2,1,MERGED
+baklava,feat: popover component,https://github.com/Trendyol/baklava/pull/453,2023-02-28T12:45:04Z,2023-03-13T13:56:20Z,28,23,MERGED
+baklava,fix: fix react event name mappings BREAKING CHANGE,https://github.com/Trendyol/baklava/pull/449,2023-02-27T13:19:09Z,2023-03-01T08:38:31Z,8,4,MERGED
+baklava,chore: update lit,https://github.com/Trendyol/baklava/pull/448,2023-02-24T12:22:54Z,2023-02-24T16:47:31Z,2,1,MERGED
+baklava,G select enhanced search,https://github.com/Trendyol/baklava/pull/447,2023-02-23T10:06:03Z,2023-02-23T10:06:10Z,1,10,MERGED
+baklava,G select enhanced search,https://github.com/Trendyol/baklava/pull/446,2023-02-23T10:05:24Z,2023-02-23T10:05:31Z,0,41,CLOSED
+baklava,G select enhanced search,https://github.com/Trendyol/baklava/pull/445,2023-02-23T09:50:22Z,2023-02-23T09:50:37Z,1,7,MERGED
+baklava,G select enhanced search,https://github.com/Trendyol/baklava/pull/444,2023-02-23T08:55:14Z,2023-02-23T08:55:45Z,1,6,MERGED
+baklava,G select enhanced search,https://github.com/Trendyol/baklava/pull/443,2023-02-23T08:54:48Z,2023-02-23T08:55:05Z,0,34,CLOSED
+baklava,G select enhanced search,https://github.com/Trendyol/baklava/pull/442,2023-02-23T08:46:37Z,2023-02-23T08:47:38Z,1,4,MERGED
+baklava,enhanced search added for g-select search,https://github.com/Trendyol/baklava/pull/441,2023-02-23T08:29:36Z,2023-02-23T08:30:25Z,1,2,MERGED
+baklava,fix(icon): influencer icon name changed and order_time icon fixed,https://github.com/Trendyol/baklava/pull/439,2023-02-21T11:33:02Z,2023-02-21T11:52:18Z,2,1,MERGED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/432,2023-02-17T11:15:10Z,2023-02-20T06:18:18Z,3,3,MERGED
+baklava,feat(select): native form integration and a11y improvements,https://github.com/Trendyol/baklava/pull/431,2023-02-17T07:59:11Z,2023-03-13T09:22:57Z,23,34,MERGED
+baklava,fix(select): disabled not reflecting,https://github.com/Trendyol/baklava/pull/430,2023-02-16T12:41:30Z,2023-02-16T13:58:10Z,3,2,MERGED
+baklava,feat(icon): add star_double icon,https://github.com/Trendyol/baklava/pull/427,2023-02-15T12:56:40Z,2023-02-16T08:09:04Z,9,2,MERGED
+baklava,feat(input): add loading state,https://github.com/Trendyol/baklava/pull/422,2023-02-13T08:57:44Z,2023-03-09T09:25:54Z,17,13,MERGED
+baklava,test(textarea): testing simplified to running it quicker,https://github.com/Trendyol/baklava/pull/421,2023-02-10T16:36:44Z,2023-02-13T10:08:56Z,2,2,MERGED
+baklava,style(input): style autofill input,https://github.com/Trendyol/baklava/pull/412,2023-02-10T11:53:26Z,2023-02-21T12:56:38Z,9,6,MERGED
+baklava,fix: form participation fixes,https://github.com/Trendyol/baklava/pull/411,2023-02-09T21:28:25Z,2023-02-10T14:50:15Z,2,1,MERGED
+baklava,chore: track dependency updates,https://github.com/Trendyol/baklava/pull/410,2023-02-09T13:03:13Z,2023-02-10T15:45:52Z,3,4,MERGED
+baklava,fix(pagination): accessibility improvements,https://github.com/Trendyol/baklava/pull/408,2023-02-08T10:27:37Z,2023-02-09T16:13:13Z,8,2,MERGED
+baklava,fix(button): submit type works,https://github.com/Trendyol/baklava/pull/407,2023-02-08T10:15:40Z,2023-02-09T08:16:20Z,2,1,MERGED
+baklava,feat(icon): sorting icon updated,https://github.com/Trendyol/baklava/pull/402,2023-02-07T10:52:41Z,2023-02-09T08:16:56Z,7,5,MERGED
+baklava,fix(textarea): unneeded padding cleared,https://github.com/Trendyol/baklava/pull/401,2023-02-07T09:11:04Z,2023-02-07T10:30:53Z,2,1,MERGED
+baklava,fix(button): designs for focused state,https://github.com/Trendyol/baklava/pull/395,2023-02-01T08:40:24Z,2023-02-07T19:43:51Z,7,2,MERGED
+baklava,fix(input): disabled style and small size fixes,https://github.com/Trendyol/baklava/pull/389,2023-01-25T15:52:50Z,2023-01-27T10:28:54Z,3,10,MERGED
+baklava,fix(select): reflect label-fixed attribute,https://github.com/Trendyol/baklava/pull/385,2023-01-24T13:27:16Z,2023-01-24T16:02:45Z,2,2,MERGED
+baklava,docs: adr and figma links have been added to component docs,https://github.com/Trendyol/baklava/pull/384,2023-01-23T15:48:30Z,2023-01-24T16:05:55Z,3,4,MERGED
+baklava,fix(drawer): visual fixes for viewport safe margins,https://github.com/Trendyol/baklava/pull/383,2023-01-21T21:47:22Z,2023-01-24T16:03:44Z,2,3,MERGED
+baklava,test(storybook): iframe url provided for drawer demo,https://github.com/Trendyol/baklava/pull/382,2023-01-20T13:54:43Z,2023-01-24T08:13:20Z,2,2,MERGED
+baklava,feat(input): implement password type to input,https://github.com/Trendyol/baklava/pull/381,2023-01-19T17:23:23Z,2023-02-07T10:24:33Z,14,28,MERGED
+baklava,fix(input): reflection of attributes used in styles,https://github.com/Trendyol/baklava/pull/379,2023-01-19T14:08:49Z,2023-01-19T15:40:06Z,3,1,MERGED
+baklava,ci: pr worklow rearranged,https://github.com/Trendyol/baklava/pull/377,2023-01-17T21:28:21Z,2023-01-20T11:16:11Z,4,1,MERGED
+baklava,feat(input): step feature added for number input,https://github.com/Trendyol/baklava/pull/371,2023-01-16T14:57:11Z,2023-01-20T11:40:41Z,4,4,MERGED
+baklava,fix(tab): tracking selected attribute for each tab,https://github.com/Trendyol/baklava/pull/369,2023-01-16T11:34:29Z,2023-01-16T11:58:08Z,3,1,MERGED
+baklava,docs: add requirements documentation,https://github.com/Trendyol/baklava/pull/365,2023-01-11T10:55:46Z,2023-01-12T12:03:25Z,5,3,MERGED
+baklava,ci: semantic-release node 18 requirement fix,https://github.com/Trendyol/baklava/pull/363,2023-01-09T10:40:52Z,2023-01-09T10:50:55Z,3,1,MERGED
+baklava,feat: new color palette,https://github.com/Trendyol/baklava/pull/359,2023-01-06T16:10:30Z,2023-04-06T13:11:23Z,6,37,MERGED
+baklava,GSelect components option key always sets [object Object] fixed,https://github.com/Trendyol/baklava/pull/357,2023-01-06T12:09:19Z,2023-01-06T12:11:36Z,1,1,MERGED
+baklava,feat: switch component,https://github.com/Trendyol/baklava/pull/356,2023-01-05T14:53:58Z,2023-01-19T10:08:58Z,16,4,MERGED
+baklava,fix(select): visual fixes over long texts,https://github.com/Trendyol/baklava/pull/355,2023-01-05T11:17:04Z,2023-01-06T13:34:58Z,3,3,MERGED
+baklava,fix(alert): visual arrangements for alerts and font line-heights,https://github.com/Trendyol/baklava/pull/354,2023-01-05T09:55:44Z,2023-01-09T09:52:53Z,5,6,MERGED
+baklava,chore(deps): rubik font version upgrade,https://github.com/Trendyol/baklava/pull/606,2023-05-30T13:28:33Z,2023-06-07T09:28:21Z,2,2,MERGED
+baklava,feat(button): form property added for setting target form,https://github.com/Trendyol/baklava/pull/605,2023-05-26T09:33:04Z,2023-05-30T13:21:28Z,3,1,MERGED
+baklava,fix(dialog): no bottom padding for content if actions exists,https://github.com/Trendyol/baklava/pull/604,2023-05-26T08:37:52Z,2023-05-30T13:21:14Z,2,1,MERGED
+baklava,docs: update bug_report.yml,https://github.com/Trendyol/baklava/pull/602,2023-05-26T06:35:04Z,2023-05-26T07:36:29Z,2,3,MERGED
+baklava,fix(tab): fix the persistent scrollbar issue for the tab-group component,https://github.com/Trendyol/baklava/pull/601,2023-05-26T06:29:47Z,2023-05-26T09:36:48Z,2,1,MERGED
+baklava,feat(dialog): bl-dialog-request-close event added,https://github.com/Trendyol/baklava/pull/594,2023-05-24T14:46:33Z,2023-06-01T07:07:45Z,14,5,MERGED
+baklava,fix(radio): fix aria label,https://github.com/Trendyol/baklava/pull/592,2023-05-24T09:29:34Z,2023-05-25T07:47:00Z,2,1,MERGED
+baklava,fix(dropdown): fix wrong labelledby definition,https://github.com/Trendyol/baklava/pull/591,2023-05-24T09:26:06Z,2023-06-07T11:48:10Z,2,1,MERGED
+baklava,fix(checkbox): wrong aria label definition removed,https://github.com/Trendyol/baklava/pull/590,2023-05-24T09:20:43Z,2023-06-07T11:48:37Z,2,1,MERGED
+baklava,fix(dropdown): dropdown group borders are not visible,https://github.com/Trendyol/baklava/pull/589,2023-05-24T09:14:47Z,2024-01-11T13:08:38Z,2,8,MERGED
+baklava,feat(select): accessibility improvement on select and option component,https://github.com/Trendyol/baklava/pull/588,2023-05-24T05:27:01Z,2023-07-14T12:59:23Z,7,3,MERGED
+baklava,fix(popover): dont take up space in layout when popover is hidden,https://github.com/Trendyol/baklava/pull/586,2023-05-23T14:25:18Z,2023-06-07T11:49:58Z,2,4,MERGED
+baklava,docs: update github issue and pr templates,https://github.com/Trendyol/baklava/pull/585,2023-05-23T14:16:27Z,2023-05-25T09:15:01Z,7,6,MERGED
+baklava,fix(dialog): closed dialog takes up space in layout,https://github.com/Trendyol/baklava/pull/584,2023-05-23T13:53:17Z,2023-05-23T15:50:01Z,2,1,MERGED
+baklava,docs: added neutral badge variant to the docs,https://github.com/Trendyol/baklava/pull/578,2023-05-21T09:41:05Z,2023-05-23T15:49:28Z,2,5,MERGED
+baklava,fix(input): add pattern mismatch to validity states,https://github.com/Trendyol/baklava/pull/576,2023-05-15T16:32:09Z,2023-05-23T08:31:38Z,4,2,MERGED
+baklava,fix: set package type as module,https://github.com/Trendyol/baklava/pull/570,2023-05-08T10:53:07Z,2023-05-08T14:09:12Z,5,3,MERGED
+baklava,docs(storybook): fix broken contribution guide link,https://github.com/Trendyol/baklava/pull/569,2023-05-05T22:46:41Z,2024-03-11T14:19:36Z,2,6,CLOSED
+baklava,fix(dialog): fire dialog close / open events by checking current open status,https://github.com/Trendyol/baklava/pull/562,2023-04-28T10:42:06Z,2023-06-04T05:51:21Z,8,4,CLOSED
+baklava,feat(icon): custom icon library support added,https://github.com/Trendyol/baklava/pull/555,2023-04-25T21:46:14Z,2024-06-27T11:13:35Z,0,3,CLOSED
+baklava,fix(select): separator is back,https://github.com/Trendyol/baklava/pull/552,2023-04-25T11:42:39Z,2023-04-26T10:10:40Z,2,1,MERGED
+baklava,fix(popover): prevent exiting fullscreen with popover close,https://github.com/Trendyol/baklava/pull/551,2023-04-25T11:17:50Z,2023-04-26T09:16:03Z,3,4,MERGED
+baklava,refactor(storybook): clean unneeded code,https://github.com/Trendyol/baklava/pull/550,2023-04-25T07:37:05Z,2023-04-25T10:29:09Z,2,1,MERGED
+baklava,fix(dialog): prevent exiting browser fullscreen with dialog close,https://github.com/Trendyol/baklava/pull/548,2023-04-24T21:15:02Z,2023-04-26T09:23:26Z,2,2,MERGED
+baklava,v2.1.0,https://github.com/Trendyol/baklava/pull/547,2023-04-24T21:04:14Z,2023-05-12T14:28:44Z,2,17,MERGED
+baklava,test: fix failing keyboard nav tests in webkit,https://github.com/Trendyol/baklava/pull/541,2023-04-21T10:56:26Z,2023-04-21T11:44:35Z,2,1,MERGED
+baklava,docs: storybook v7 upgrade,https://github.com/Trendyol/baklava/pull/540,2023-04-20T20:48:06Z,2023-04-24T11:08:36Z,2,7,MERGED
+baklava,fix(dropdown): close dropdown when an item is clicked,https://github.com/Trendyol/baklava/pull/533,2023-04-17T21:17:22Z,2023-04-20T14:19:49Z,2,2,MERGED
+baklava,fix: fix react wrapper types,https://github.com/Trendyol/baklava/pull/532,2023-04-17T13:53:15Z,2023-04-20T16:36:37Z,3,6,MERGED
+baklava,feat(icon): add type support for icon name,https://github.com/Trendyol/baklava/pull/531,2023-04-17T11:01:08Z,2023-07-14T12:50:55Z,5,5,CLOSED
+baklava,feat(switch): implement off color variable on bl-switch,https://github.com/Trendyol/baklava/pull/527,2023-04-13T08:10:14Z,2023-04-20T07:12:06Z,3,2,MERGED
+baklava,chore(deps): support node v18,https://github.com/Trendyol/baklava/pull/526,2023-04-12T14:39:30Z,2023-05-08T13:40:15Z,11,10,MERGED
+baklava,ci: fix safari chromatic snapshots,https://github.com/Trendyol/baklava/pull/516,2023-04-06T19:29:41Z,2023-04-20T14:22:15Z,1,2,CLOSED
+baklava,fix(popover): using min-width for fit-size,https://github.com/Trendyol/baklava/pull/510,2023-04-02T15:03:20Z,2023-04-05T09:30:33Z,5,5,MERGED
+baklava,fix(radio): focused option element on BlRadioGroup,https://github.com/Trendyol/baklava/pull/672,2023-07-27T07:08:48Z,2024-03-22T19:34:43Z,3,2,CLOSED
+baklava,feat(input): support more input types,https://github.com/Trendyol/baklava/pull/671,2023-07-26T08:11:02Z,2023-07-28T08:01:56Z,2,1,MERGED
+baklava,fix(checkbox): add stroke to checkbox disabled,https://github.com/Trendyol/baklava/pull/667,2023-07-21T13:13:57Z,2023-07-28T08:02:55Z,2,1,MERGED
+baklava,feat(select): add select clearable prop,https://github.com/Trendyol/baklava/pull/663,2023-07-18T07:00:03Z,2023-07-20T11:25:25Z,11,6,MERGED
+baklava,chore: update eslint/prettier configs,https://github.com/Trendyol/baklava/pull/657,2023-07-14T13:53:14Z,2023-08-18T14:54:48Z,8,10,MERGED
+baklava,chore(icon): add icon type support,https://github.com/Trendyol/baklava/pull/656,2023-07-14T12:26:11Z,2023-07-14T12:42:55Z,2,1,MERGED
+baklava,feat(tooltip): add css variable for set display of tooltip trigger,https://github.com/Trendyol/baklava/pull/655,2023-07-14T11:05:06Z,2023-07-14T12:31:48Z,2,1,MERGED
+baklava,v2.2.0,https://github.com/Trendyol/baklava/pull/653,2023-07-13T11:29:48Z,2023-07-14T13:29:12Z,1,48,MERGED
+baklava,docs: Update bug_report.yml,https://github.com/Trendyol/baklava/pull/652,2023-07-12T12:12:09Z,2023-07-12T14:10:17Z,2,1,MERGED
+baklava,fix(input): remove type from input min/max,https://github.com/Trendyol/baklava/pull/651,2023-07-12T08:40:33Z,2023-07-14T08:00:23Z,4,6,MERGED
+baklava,feat(react): export react component types,https://github.com/Trendyol/baklava/pull/650,2023-07-12T07:58:46Z,2023-07-14T08:00:09Z,5,3,MERGED
+baklava,Implement Icon slot for bl-input,https://github.com/Trendyol/baklava/pull/649,2023-07-11T13:26:07Z,2023-07-14T11:00:07Z,7,5,MERGED
+baklava,fix(input): invalid event triggers so many times,https://github.com/Trendyol/baklava/pull/647,2023-07-07T12:21:53Z,2023-07-13T11:07:54Z,2,2,MERGED
+baklava,feat(input): set padding-horizontal values with css properties,https://github.com/Trendyol/baklava/pull/643,2023-06-22T11:35:59Z,2023-07-03T12:00:47Z,3,3,MERGED
+baklava,feat(input): add attribute for remove icon,https://github.com/Trendyol/baklava/pull/642,2023-06-22T11:16:37Z,2023-09-28T07:13:36Z,6,1,CLOSED
+baklava,fix(radio): fix height limit and block flow improvements,https://github.com/Trendyol/baklava/pull/640,2023-06-19T13:58:38Z,2023-07-14T13:17:38Z,10,5,MERGED
+baklava,docs: fixed typo in customizing-baklava-theme file  fixes #638,https://github.com/Trendyol/baklava/pull/639,2023-06-18T03:33:51Z,2023-06-19T11:29:31Z,2,2,MERGED
+baklava,fix(tooltip): remove extra space,https://github.com/Trendyol/baklava/pull/637,2023-06-17T13:08:14Z,2023-06-19T13:14:47Z,2,2,MERGED
+baklava,fix(radio): radio button flex-shrink problem,https://github.com/Trendyol/baklava/pull/636,2023-06-16T14:22:02Z,2023-06-28T08:49:21Z,4,1,MERGED
+baklava,fix(radio): radio button flex-shrink problem fix,https://github.com/Trendyol/baklava/pull/635,2023-06-16T14:11:52Z,2023-06-16T14:17:42Z,0,0,CLOSED
+baklava,feat(dialog): add `polyfilled` property for setting native or polyfill,https://github.com/Trendyol/baklava/pull/633,2023-06-15T10:47:27Z,2023-06-16T11:49:00Z,4,3,MERGED
+baklava,fix(tooltip): dont take up space in layout when tooltip is hidden,https://github.com/Trendyol/baklava/pull/632,2023-06-15T07:35:35Z,2023-06-16T09:48:47Z,2,2,MERGED
+baklava,feat(icon): star_fill icon added,https://github.com/Trendyol/baklava/pull/631,2023-06-15T07:02:48Z,2023-06-16T06:23:22Z,2,3,MERGED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/629,2023-06-13T10:54:31Z,2023-06-13T14:23:00Z,2,1,MERGED
+baklava,feat(input): add readonly attribute,https://github.com/Trendyol/baklava/pull/619,2023-06-05T13:56:19Z,2023-06-07T11:47:00Z,4,2,MERGED
+baklava,fix(checkbox): remove gap if no label,https://github.com/Trendyol/baklava/pull/616,2023-06-03T21:49:55Z,2023-06-07T09:23:34Z,4,3,MERGED
+baklava,fix(input): wait for update to set custom error,https://github.com/Trendyol/baklava/pull/613,2023-06-01T21:16:20Z,2023-06-07T09:22:45Z,2,1,MERGED
+baklava,feat(select): render remove button on non required selects,https://github.com/Trendyol/baklava/pull/610,2023-06-01T12:42:35Z,2023-06-16T07:00:21Z,6,3,MERGED
+baklava,docs(dialog): improvement on docs,https://github.com/Trendyol/baklava/pull/609,2023-06-01T09:55:25Z,2023-06-02T06:58:06Z,4,5,MERGED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/735,2023-10-26T07:26:37Z,2023-11-02T12:45:48Z,2,2,MERGED
+baklava,docs: version upgrade,https://github.com/Trendyol/baklava/pull/734,2023-10-12T07:57:00Z,2023-10-12T07:57:53Z,1,1,MERGED
+baklava,v2.3.0,https://github.com/Trendyol/baklava/pull/733,2023-10-12T07:50:11Z,2023-10-12T08:13:44Z,1,36,MERGED
+baklava,feat(icon): review icon is added,https://github.com/Trendyol/baklava/pull/732,2023-10-09T08:38:19Z,2023-10-11T12:16:55Z,3,2,MERGED
+baklava,chore(deps): upgrade ts,https://github.com/Trendyol/baklava/pull/727,2023-10-02T08:56:07Z,2024-01-26T12:58:58Z,2,5,MERGED
+baklava,chore(vue): add vue typescript support,https://github.com/Trendyol/baklava/pull/726,2023-10-02T08:48:38Z,2023-10-03T07:31:45Z,4,2,MERGED
+baklava,chore(react): refactor generate-react-exports,https://github.com/Trendyol/baklava/pull/725,2023-10-01T12:09:46Z,2023-10-27T12:50:10Z,6,8,MERGED
+baklava,docs(test): Add testing with vitest section to react,https://github.com/Trendyol/baklava/pull/724,2023-10-01T09:42:44Z,2023-10-11T12:17:23Z,3,1,MERGED
+baklava,chore(react): infer component types,https://github.com/Trendyol/baklava/pull/721,2023-09-29T08:42:28Z,2023-09-29T09:12:43Z,2,1,MERGED
+baklava,fix(select): reflection added for proper styling,https://github.com/Trendyol/baklava/pull/720,2023-09-29T08:35:24Z,2023-10-03T07:23:00Z,2,1,MERGED
+baklava,refactor: default iconPath,https://github.com/Trendyol/baklava/pull/718,2023-09-28T19:03:01Z,2023-10-03T07:22:03Z,2,3,MERGED
+baklava,refactor: default iconPath,https://github.com/Trendyol/baklava/pull/717,2023-09-28T19:00:15Z,2023-09-28T19:02:28Z,0,6,CLOSED
+baklava,fix(react): wrap with React.lazy,https://github.com/Trendyol/baklava/pull/716,2023-09-28T14:14:34Z,2023-09-29T08:02:23Z,4,2,MERGED
+baklava,docs(readme): update cdn example,https://github.com/Trendyol/baklava/pull/714,2023-09-28T08:30:04Z,2023-09-29T08:02:36Z,2,1,MERGED
+baklava,feat(input): display type icons,https://github.com/Trendyol/baklava/pull/713,2023-09-26T09:04:56Z,2023-09-29T08:02:48Z,7,6,MERGED
+baklava,refactor: old array conversion,https://github.com/Trendyol/baklava/pull/712,2023-09-24T06:17:43Z,2023-09-28T08:20:59Z,12,4,MERGED
+baklava,chore(react): improve react event types & revert lazy loading,https://github.com/Trendyol/baklava/pull/711,2023-09-21T12:53:42Z,2023-09-27T07:22:39Z,3,1,MERGED
+baklava,feat(input): add showPicker to input,https://github.com/Trendyol/baklava/pull/710,2023-09-20T10:12:46Z,2023-09-27T07:36:31Z,3,4,MERGED
+baklava,chore(react): add jsdoc & upgrade lit,https://github.com/Trendyol/baklava/pull/709,2023-09-19T11:27:44Z,2023-09-20T07:53:35Z,3,2,MERGED
+baklava,fix(input): revalidate input on prop changes,https://github.com/Trendyol/baklava/pull/707,2023-09-15T08:41:00Z,2023-09-27T07:19:10Z,3,3,MERGED
+baklava,feat(select): work with auto width,https://github.com/Trendyol/baklava/pull/706,2023-09-15T08:24:31Z,2023-09-27T07:12:50Z,5,4,MERGED
+baklava,feat(popover): allow nested popovers,https://github.com/Trendyol/baklava/pull/705,2023-09-14T08:37:40Z,2023-09-15T07:03:04Z,4,3,MERGED
+baklava,chore(deps): update node version,https://github.com/Trendyol/baklava/pull/702,2023-09-12T14:42:52Z,2023-09-15T07:03:49Z,5,1,MERGED
+baklava,chore(engines): node version upgrade,https://github.com/Trendyol/baklava/pull/701,2023-09-12T13:28:10Z,2023-09-12T14:39:13Z,0,9,CLOSED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/699,2023-09-12T10:54:12Z,2023-09-12T11:58:49Z,2,2,MERGED
+baklava, fix(docs): fix broken link to Contribution Guideline document,https://github.com/Trendyol/baklava/pull/698,2023-09-11T15:26:13Z,2023-09-12T14:39:13Z,2,8,CLOSED
+baklava,chore(deps): lit version upgrade,https://github.com/Trendyol/baklava/pull/696,2023-09-08T14:03:47Z,2023-09-12T12:39:55Z,5,3,MERGED
+baklava,chore(deps): storybook v7.4 upgrade,https://github.com/Trendyol/baklava/pull/695,2023-09-08T13:55:26Z,2023-09-27T07:13:53Z,2,2,MERGED
+baklava,fix(checkbox): breaking long words better,https://github.com/Trendyol/baklava/pull/694,2023-09-08T13:46:16Z,2023-09-12T11:59:49Z,4,1,MERGED
+baklava,feat(pagination): use auto width on select,https://github.com/Trendyol/baklava/pull/692,2023-09-08T09:35:20Z,2023-10-03T07:29:48Z,3,5,MERGED
+baklava,feat(input): prevent enter to submit form,https://github.com/Trendyol/baklava/pull/691,2023-09-08T08:09:59Z,2024-08-08T11:07:36Z,1,2,MERGED
+baklava,fix(tab): changing the tooltip button in the tab with help text to an…,https://github.com/Trendyol/baklava/pull/689,2023-09-07T22:47:40Z,2024-01-11T12:25:34Z,3,1,CLOSED
+baklava,docs(storybook): fix some typos in documentation,https://github.com/Trendyol/baklava/pull/684,2023-08-28T22:58:50Z,2023-09-08T06:59:47Z,2,2,MERGED
+baklava,docs: Fixed grammar mistakes in contributing docs,https://github.com/Trendyol/baklava/pull/679,2023-08-11T20:42:30Z,2023-08-18T13:56:44Z,2,1,MERGED
+baklava,fix(select): return single value for single select,https://github.com/Trendyol/baklava/pull/677,2023-08-01T13:49:37Z,2024-01-11T11:58:05Z,7,3,MERGED
+baklava,docs(pagination): adding example of itemsPerPageOptions usage,https://github.com/Trendyol/baklava/pull/674,2023-08-01T07:26:41Z,2023-08-08T09:25:11Z,2,1,MERGED
+baklava,feat: add info color and implement it on alert and notification,https://github.com/Trendyol/baklava/pull/761,2023-12-27T13:15:17Z,2024-01-11T11:48:23Z,3,3,MERGED
+baklava,fix(select): Using label and placeholder on non label-fixed select br…,https://github.com/Trendyol/baklava/pull/760,2023-12-26T13:15:21Z,2024-01-11T11:43:12Z,3,1,MERGED
+baklava,feat(select): add search feature for select,https://github.com/Trendyol/baklava/pull/759,2023-12-25T07:14:02Z,2024-01-11T11:42:43Z,8,10,MERGED
+baklava,fix(select): return value instead of array on single select,https://github.com/Trendyol/baklava/pull/758,2023-12-23T21:30:07Z,2023-12-25T08:19:14Z,2,1,CLOSED
+baklava,fix(tooltip): invisible progress indicator,https://github.com/Trendyol/baklava/pull/757,2023-12-23T20:58:16Z,2024-02-20T11:41:56Z,3,2,CLOSED
+baklava,fix: EventDispatcher allow events without payload,https://github.com/Trendyol/baklava/pull/756,2023-12-23T18:20:08Z,2024-07-24T11:39:35Z,1,2,CLOSED
+baklava,fix(select): non label-fixed select breaks input styling,https://github.com/Trendyol/baklava/pull/755,2023-12-23T17:42:25Z,2023-12-27T13:43:28Z,1,1,CLOSED
+baklava,feat(switch): add bl-switch label,https://github.com/Trendyol/baklava/pull/754,2023-12-23T12:00:49Z,2024-01-11T12:15:10Z,3,2,MERGED
+baklava,feat(switch): add bl-switch label,https://github.com/Trendyol/baklava/pull/753,2023-12-23T11:45:49Z,2023-12-23T12:01:03Z,0,8,CLOSED
+baklava,fix(select): change select all default behaviour to off,https://github.com/Trendyol/baklava/pull/750,2023-12-15T12:09:00Z,2023-12-15T12:31:19Z,2,1,MERGED
+baklava,feat(select): implement select all,https://github.com/Trendyol/baklava/pull/746,2023-11-30T15:03:19Z,2023-12-15T10:36:49Z,8,4,MERGED
+baklava,fix(select): select check additional count event loop,https://github.com/Trendyol/baklava/pull/743,2023-11-22T12:25:42Z,2023-11-23T12:47:59Z,4,1,MERGED
+baklava,feat: notification component,https://github.com/Trendyol/baklava/pull/741,2023-11-16T08:27:53Z,2023-11-30T14:06:17Z,8,24,MERGED
+baklava,fix(theme): add missing font weights,https://github.com/Trendyol/baklava/pull/740,2023-11-16T05:59:37Z,2023-11-30T19:22:58Z,3,1,MERGED
+baklava,feature(drawer): add dynamic width to drawer,https://github.com/Trendyol/baklava/pull/819,2024-03-29T11:07:20Z,2024-03-29T11:21:53Z,0,1,CLOSED
+baklava,feat: accordion component,https://github.com/Trendyol/baklava/pull/818,2024-03-28T11:17:16Z,2024-04-25T11:10:30Z,10,15,MERGED
+baklava,fix(select): fix divider displaying for single variant,https://github.com/Trendyol/baklava/pull/817,2024-03-25T11:21:51Z,2024-03-26T14:30:43Z,3,4,MERGED
+baklava,fix(select): fix select value bug when undefined,https://github.com/Trendyol/baklava/pull/815,2024-03-25T06:57:02Z,2024-03-28T08:28:30Z,4,1,MERGED
+baklava,feat: split-button component,https://github.com/Trendyol/baklava/pull/814,2024-03-22T08:38:52Z,2024-03-29T22:58:59Z,6,2,MERGED
+baklava,fix(dialog): remove shadow from footer when scroll hits bottom,https://github.com/Trendyol/baklava/pull/809,2024-03-08T11:31:39Z,2024-03-18T15:06:47Z,3,2,MERGED
+baklava,fix(dialog): remove shadow from footer when scroll hits bottom,https://github.com/Trendyol/baklava/pull/808,2024-03-07T20:06:22Z,2024-03-08T11:30:38Z,0,1,CLOSED
+baklava,docs(storybook): add version button in storybook toolbar,https://github.com/Trendyol/baklava/pull/807,2024-03-04T13:52:10Z,2024-03-18T14:49:34Z,9,4,MERGED
+baklava,fix(select): do not close the popover if the user presses the space button when searching,https://github.com/Trendyol/baklava/pull/804,2024-02-20T11:38:08Z,2024-03-11T14:16:43Z,2,2,CLOSED
+baklava,fix(select): do not show popover if there are no options,https://github.com/Trendyol/baklava/pull/803,2024-02-20T10:57:49Z,2024-02-28T08:37:23Z,2,1,MERGED
+baklava,docs(using-baklava-in-vue.stories): 2 small improvements,https://github.com/Trendyol/baklava/pull/798,2024-02-12T15:36:01Z,2024-02-14T11:35:11Z,2,1,MERGED
+baklava,fix(select): fix the issue where the popover for a disabled select can still open using keydown events,https://github.com/Trendyol/baklava/pull/796,2024-02-08T13:59:06Z,2024-02-20T08:05:57Z,6,4,MERGED
+baklava,docs: update baklava logo for system theme,https://github.com/Trendyol/baklava/pull/790,2024-01-31T13:06:24Z,2024-03-10T04:31:38Z,4,2,CLOSED
+baklava,feat: table component,https://github.com/Trendyol/baklava/pull/788,2024-01-30T06:23:37Z,2024-02-28T08:28:56Z,31,27,MERGED
+baklava,feat: add localization,https://github.com/Trendyol/baklava/pull/787,2024-01-29T13:21:54Z,2024-02-05T08:52:35Z,6,6,MERGED
+baklava,Merge pull request #783 from Trendyol/next,https://github.com/Trendyol/baklava/pull/784,2024-01-25T13:19:53Z,2024-05-02T12:05:38Z,2,2,MERGED
+baklava,v3.0.0,https://github.com/Trendyol/baklava/pull/783,2024-01-25T12:57:50Z,2024-01-25T13:17:14Z,2,20,MERGED
+baklava,feat: major version release,https://github.com/Trendyol/baklava/pull/782,2024-01-25T12:41:46Z,2024-01-25T12:51:56Z,2,1,MERGED
+baklava,v3.0.0,https://github.com/Trendyol/baklava/pull/781,2024-01-25T11:59:33Z,2024-01-25T12:56:28Z,0,19,CLOSED
+baklava,overflow,https://github.com/Trendyol/baklava/pull/779,2024-01-24T22:19:29Z,2024-01-25T06:35:47Z,1,1,CLOSED
+baklava,fix(pagination): fix the event of the single select,https://github.com/Trendyol/baklava/pull/777,2024-01-23T08:53:39Z,2024-01-23T10:22:14Z,2,1,MERGED
+baklava,fix(select): add string to boolean converter for related prop,https://github.com/Trendyol/baklava/pull/775,2024-01-18T13:30:56Z,2024-01-18T14:15:24Z,2,2,MERGED
+baklava,v2.4.0,https://github.com/Trendyol/baklava/pull/772,2024-01-18T10:11:02Z,2024-01-25T08:22:29Z,0,18,CLOSED
+baklava,feat(icon): new icons added,https://github.com/Trendyol/baklava/pull/769,2024-01-15T12:43:08Z,2024-01-15T13:38:10Z,2,2,MERGED
+baklava,fix(select): label property added to bl-select-option to fix #764,https://github.com/Trendyol/baklava/pull/766,2024-01-11T14:30:34Z,2024-01-12T11:47:25Z,2,2,MERGED
+baklava,fix(select): label property added to bl-select-option to fix #764,https://github.com/Trendyol/baklava/pull/765,2024-01-09T08:06:58Z,2024-01-11T14:26:47Z,1,5,CLOSED
+baklava,feat: spinner component,https://github.com/Trendyol/baklava/pull/877,2024-05-21T17:38:14Z,2024-06-27T11:12:25Z,5,7,MERGED
+baklava,fix(drawer): fix drawer delay bug for removing from dom,https://github.com/Trendyol/baklava/pull/875,2024-05-17T14:31:16Z,2024-06-03T08:59:19Z,2,4,MERGED
+baklava,fix(select): fix disabled select option can be selected with enter,https://github.com/Trendyol/baklava/pull/874,2024-05-16T13:09:54Z,2024-06-06T07:15:00Z,2,4,MERGED
+baklava,style(dialog): tab-group inside dialog,https://github.com/Trendyol/baklava/pull/872,2024-05-15T12:19:55Z,2024-06-27T08:16:58Z,1,5,MERGED
+baklava,fix(popover): Fix bl-tooltip trigger issue,https://github.com/Trendyol/baklava/pull/871,2024-05-15T08:14:43Z,2024-05-16T11:06:47Z,2,1,MERGED
+baklava,feat(dialog): implement critical variant,https://github.com/Trendyol/baklava/pull/870,2024-05-14T08:54:17Z,2024-05-16T11:28:05Z,2,3,MERGED
+baklava,docs(ADR): move ADRs under components directories,https://github.com/Trendyol/baklava/pull/865,2024-05-08T13:49:41Z,2024-06-27T11:40:34Z,1,2,MERGED
+baklava,feat(select): fix search text is not clear bug when user click clear button,https://github.com/Trendyol/baklava/pull/858,2024-05-07T13:30:19Z,2024-06-13T11:08:44Z,2,2,MERGED
+baklava,feat(select): Improve select search international character support,https://github.com/Trendyol/baklava/pull/857,2024-05-07T13:01:12Z,2024-06-13T11:08:15Z,2,1,MERGED
+baklava,feat(select): improve option navigation by key,https://github.com/Trendyol/baklava/pull/856,2024-05-06T12:33:50Z,2024-05-09T11:10:11Z,2,1,MERGED
+baklava,feat(icon): add door and credit_card icons,https://github.com/Trendyol/baklava/pull/855,2024-05-06T09:43:42Z,2024-05-07T09:50:14Z,4,5,MERGED
+baklava,story(input): add input masking documentation,https://github.com/Trendyol/baklava/pull/854,2024-05-03T12:50:46Z,2024-06-12T14:19:48Z,1,5,CLOSED
+baklava,docs: bump version ,https://github.com/Trendyol/baklava/pull/852,2024-05-02T12:28:24Z,2024-05-02T12:37:33Z,2,3,MERGED
+baklava,docs: bump version in docs,https://github.com/Trendyol/baklava/pull/851,2024-05-02T12:14:57Z,2024-05-02T12:24:47Z,1,1,MERGED
+baklava,feat(tooltip): add target attribute,https://github.com/Trendyol/baklava/pull/848,2024-04-29T13:56:33Z,2024-05-16T11:19:34Z,2,3,MERGED
+baklava,fix(dialog): fix nested dialog propagation problem,https://github.com/Trendyol/baklava/pull/847,2024-04-29T07:28:53Z,2024-04-29T08:44:41Z,3,1,MERGED
+baklava,fix(select): fix recurring space closing select box issue,https://github.com/Trendyol/baklava/pull/844,2024-04-25T10:34:10Z,2024-04-29T08:04:33Z,2,1,MERGED
+baklava,feat(select): search locale support for  #830,https://github.com/Trendyol/baklava/pull/843,2024-04-24T20:43:37Z,2024-06-13T11:25:01Z,6,2,CLOSED
+baklava,fix(checkbox): fix error state of checkbox/ checkbox group,https://github.com/Trendyol/baklava/pull/832,2024-04-21T21:58:45Z,2024-04-26T13:32:54Z,4,7,MERGED
+baklava,docs(github): create codeowners,https://github.com/Trendyol/baklava/pull/831,2024-04-18T09:09:12Z,2024-04-18T10:12:43Z,2,1,MERGED
+baklava,fix(select): shouln't hide label on searchable,https://github.com/Trendyol/baklava/pull/829,2024-04-16T16:08:57Z,2024-04-17T08:33:25Z,2,1,MERGED
+baklava,fix(select): removing popover element from dom causes error on popover setup,https://github.com/Trendyol/baklava/pull/826,2024-04-16T07:15:33Z,2024-04-16T08:06:14Z,2,1,MERGED
+baklava,docs(storybook): add ssr and csr documentation for next,https://github.com/Trendyol/baklava/pull/824,2024-04-08T13:08:22Z,2024-04-18T06:32:29Z,2,2,MERGED
+baklava,feat: calendar component,https://github.com/Trendyol/baklava/pull/823,2024-04-04T12:58:52Z,2024-06-27T11:10:18Z,24,54,MERGED
+baklava,Calendar component - Calculate and rendering calendar date elements ,https://github.com/Trendyol/baklava/pull/822,2024-04-03T12:49:24Z,2024-04-04T12:59:40Z,21,3,CLOSED
+baklava,feat(drawer): add dynamic width feature to drawer,https://github.com/Trendyol/baklava/pull/820,2024-04-01T12:20:44Z,2024-04-03T13:53:37Z,5,5,MERGED
+baklava,refactor(icon): implement baklava-icons and remove icons folder,https://github.com/Trendyol/baklava/pull/898,2024-07-29T17:00:39Z,2024-08-01T13:19:39Z,1,3,MERGED
+baklava,fix(checkbox): add relative value for position in checkbox container,https://github.com/Trendyol/baklava/pull/896,2024-07-11T07:54:19Z,2024-07-11T08:26:34Z,1,1,MERGED
+baklava,feat(select): fix search text is not clear bug when user click clear button,https://github.com/Trendyol/baklava/pull/885,2024-06-13T12:08:52Z,2024-06-27T11:05:51Z,1,2,MERGED
+baklava,fix: Use lowercase script import in using-baklava-in-next.stories.mdx,https://github.com/Trendyol/baklava/pull/884,2024-06-13T11:18:39Z,2024-06-27T11:06:37Z,1,1,MERGED
+baklava,story(input): add input masking documentation,https://github.com/Trendyol/baklava/pull/883,2024-06-12T14:17:11Z,2024-06-13T13:18:19Z,1,1,MERGED
+baklava,chore: update dependabot.yml configuration,https://github.com/Trendyol/baklava/pull/882,2024-06-05T15:28:11Z,2024-06-12T08:14:09Z,2,1,MERGED
+baklava,fix(split-button): fix event bubbling for buttons inside split button,https://github.com/Trendyol/baklava/pull/879,2024-06-03T13:11:57Z,2024-06-04T06:43:12Z,2,1,MERGED
+baklava,"feat(radio, radio-group): Enhance accessibility with arrow key navigation and aria attributes",https://github.com/Trendyol/baklava/pull/951,2024-10-21T21:17:18Z,2025-03-10T13:52:51Z,3,7,MERGED
+baklava,"feat(dialog, drawer, progress-indicator): Add accessibility labels to…",https://github.com/Trendyol/baklava/pull/949,2024-10-21T21:04:46Z,2024-11-13T06:02:52Z,3,2,MERGED
+baklava,Feature/a11y improvements,https://github.com/Trendyol/baklava/pull/947,2024-10-18T23:48:01Z,2024-10-18T23:52:04Z,0,2,CLOSED
+baklava,feat(checkbox): Add keyboard handling for Enter and Space keys to tog…,https://github.com/Trendyol/baklava/pull/946,2024-10-18T22:44:23Z,2024-11-13T08:01:01Z,3,6,MERGED
+baklava,feat(pagination): Add input validation to restrict values between 1 a…,https://github.com/Trendyol/baklava/pull/945,2024-10-18T19:14:44Z,2024-10-18T19:33:55Z,0,2,CLOSED
+baklava,feat(switch): update cursor style to not-allowed when disabled,https://github.com/Trendyol/baklava/pull/943,2024-10-16T15:58:32Z,2024-10-17T12:16:42Z,2,2,MERGED
+baklava,feat(calendar): Enhance accessibility by adding visually hidden text …,https://github.com/Trendyol/baklava/pull/940,2024-10-15T19:46:24Z,2024-10-21T06:15:10Z,4,6,MERGED
+baklava,feat(rtl-support): trigger beta release,https://github.com/Trendyol/baklava/pull/937,2024-10-14T10:26:22Z,2024-10-14T10:56:57Z,1,9,MERGED
+baklava,v3.2.0,https://github.com/Trendyol/baklava/pull/935,2024-10-11T13:02:52Z,2024-10-11T13:05:58Z,1,52,MERGED
+baklava,fix: upgrade next version to resolve vulnerability,https://github.com/Trendyol/baklava/pull/929,2024-10-10T11:59:15Z,2024-10-10T12:08:48Z,1,1,MERGED
+baklava,docs: resolve conflict in storybook,https://github.com/Trendyol/baklava/pull/928,2024-10-10T11:53:21Z,2024-10-10T12:14:02Z,1,2,MERGED
+baklava,fix: resolve conflict,https://github.com/Trendyol/baklava/pull/927,2024-10-10T11:44:07Z,2024-10-10T11:46:26Z,0,49,CLOSED
+baklava,v3.2.0,https://github.com/Trendyol/baklava/pull/924,2024-10-10T11:39:40Z,2024-10-11T12:52:09Z,3,48,MERGED
+baklava,feat(datepicker): fix selected date color bug,https://github.com/Trendyol/baklava/pull/922,2024-10-07T13:36:52Z,2024-10-08T12:09:35Z,3,2,MERGED
+baklava,feature(rtl-support): add rtl support for baklava components,https://github.com/Trendyol/baklava/pull/920,2024-09-25T14:57:02Z,2024-10-14T09:40:33Z,4,7,MERGED
+baklava,feat(datepicker): remove calendar border,https://github.com/Trendyol/baklava/pull/917,2024-09-20T09:02:44Z,2024-10-07T11:04:01Z,2,1,MERGED
+baklava,fix(table): multiple checkbox should only handle currently rendered rows,https://github.com/Trendyol/baklava/pull/913,2024-09-13T19:28:25Z,2024-09-17T08:19:20Z,2,2,MERGED
+baklava,fix(tooltip): use mouseenter as event listener,https://github.com/Trendyol/baklava/pull/909,2024-09-05T10:46:53Z,2024-09-05T12:51:14Z,3,1,MERGED
+baklava,feat(datepicker): developing datepicker component,https://github.com/Trendyol/baklava/pull/907,2024-08-22T11:45:21Z,2024-12-04T06:58:01Z,22,40,MERGED
+baklava,fix(checkbox): fix validation state of checkbox,https://github.com/Trendyol/baklava/pull/904,2024-08-12T14:08:45Z,2024-08-15T11:30:42Z,2,1,MERGED
+baklava,feat(dialog): add width and caption line clamp css property,https://github.com/Trendyol/baklava/pull/902,2024-08-05T11:56:19Z,2024-08-15T11:31:28Z,3,6,MERGED
+baklava,fix: fix calendar datepicker bugs,https://github.com/Trendyol/baklava/pull/973,2024-12-26T10:54:42Z,2024-12-26T10:59:53Z,3,16,MERGED
+baklava,feat(dropdown): add dropdown icon integration,https://github.com/Trendyol/baklava/pull/971,2024-12-23T17:14:57Z,2024-12-23T17:24:34Z,3,21,MERGED
+baklava,docs: revamp contributing guidelines with visuals,https://github.com/Trendyol/baklava/pull/970,2024-12-23T14:19:11Z,2024-12-23T17:30:13Z,2,3,MERGED
+baklava,feature(dropdown): add dropdown icon integration,https://github.com/Trendyol/baklava/pull/969,2024-12-20T12:24:04Z,2024-12-23T16:48:49Z,5,19,MERGED
+baklava,feat(input): fix css bug,https://github.com/Trendyol/baklava/pull/967,2024-12-18T10:04:38Z,2024-12-18T10:16:13Z,0,1,CLOSED
+baklava,Calendar datepicker bug fix,https://github.com/Trendyol/baklava/pull/966,2024-12-16T18:12:30Z,2024-12-24T14:10:35Z,4,15,MERGED
+baklava,feat(calendar): fix next month selection fix when current month is de…,https://github.com/Trendyol/baklava/pull/963,2024-12-04T11:23:36Z,2024-12-04T13:35:05Z,3,4,MERGED
+baklava,refactor: improve form validation,https://github.com/Trendyol/baklava/pull/962,2024-11-28T11:19:51Z,2025-01-09T13:21:50Z,6,4,MERGED
+baklava,docs: implement trendyol tool hedwig to collect feedback (#957),https://github.com/Trendyol/baklava/pull/959,2024-11-14T11:23:36Z,2024-11-14T11:24:23Z,2,1,MERGED
+baklava,956 feedback implementation,https://github.com/Trendyol/baklava/pull/958,2024-11-14T11:12:53Z,2024-11-14T11:13:19Z,0,8,CLOSED
+baklava,docs: implement trendyol tool hedwig to collect feedback,https://github.com/Trendyol/baklava/pull/957,2024-11-13T11:16:41Z,2024-11-13T13:55:59Z,2,1,MERGED
+baklava,feat(tag-component): tag component,https://github.com/Trendyol/baklava/pull/955,2024-11-06T12:39:25Z,2025-02-19T14:45:06Z,10,16,MERGED
+baklava,chore(input): improve type-safety,https://github.com/Trendyol/baklava/pull/954,2024-11-04T07:38:52Z,2024-11-04T11:18:22Z,2,2,MERGED
+baklava,v3.3.0,https://github.com/Trendyol/baklava/pull/1033,2025-02-20T13:07:52Z,2025-02-20T13:20:24Z,3,50,MERGED
+baklava,fix(notification): fix duration time for rtl,https://github.com/Trendyol/baklava/pull/1032,2025-02-20T12:30:52Z,2025-02-20T12:40:38Z,3,1,MERGED
+baklava,docs: update Baklava stable versions,https://github.com/Trendyol/baklava/pull/1031,2025-02-20T12:29:43Z,2025-02-20T12:39:49Z,3,1,MERGED
+baklava,fix(button): button min-width,https://github.com/Trendyol/baklava/pull/1030,2025-02-20T11:16:49Z,2025-02-20T12:01:11Z,2,4,MERGED
+baklava,feat(datepicker): clear styles when value cleared,https://github.com/Trendyol/baklava/pull/1028,2025-02-20T09:45:49Z,2025-02-20T11:05:00Z,2,1,MERGED
+baklava,docs: improve rtl support examples,https://github.com/Trendyol/baklava/pull/1027,2025-02-18T13:27:22Z,2025-02-19T07:12:40Z,2,2,MERGED
+baklava,fix(calendar): fix range days design issues,https://github.com/Trendyol/baklava/pull/1026,2025-02-18T10:00:37Z,2025-02-18T12:27:05Z,2,2,MERGED
+baklava,ci: update securty gate artifact,https://github.com/Trendyol/baklava/pull/1023,2025-02-17T12:39:26Z,2025-02-17T13:12:36Z,2,2,MERGED
+baklava,docs: rtl support,https://github.com/Trendyol/baklava/pull/1022,2025-02-17T12:35:30Z,2025-02-17T13:27:32Z,2,7,MERGED
+baklava,feat(datepicker): fix type issue,https://github.com/Trendyol/baklava/pull/1021,2025-02-17T11:38:03Z,2025-02-17T12:03:46Z,2,1,MERGED
+baklava,v3.3.0,https://github.com/Trendyol/baklava/pull/1020,2025-02-17T09:59:59Z,2025-02-20T12:53:13Z,9,49,MERGED
+baklava,fix(popover): fix event bubbling,https://github.com/Trendyol/baklava/pull/1019,2025-02-13T09:46:18Z,2025-02-13T09:57:56Z,2,6,MERGED
+baklava,feat(dropdown): add support for disabling dropdown items,https://github.com/Trendyol/baklava/pull/1018,2025-02-13T09:19:11Z,2025-02-13T10:43:43Z,2,3,MERGED
+baklava,fix(dialog): improve footer visibility,https://github.com/Trendyol/baklava/pull/1014,2025-02-10T14:19:07Z,2025-03-06T12:01:53Z,2,3,MERGED
+baklava,ci: update upload-artifact action to use master branch,https://github.com/Trendyol/baklava/pull/1012,2025-02-04T09:14:15Z,2025-02-04T09:25:24Z,2,1,MERGED
+baklava,feat(popover): update bl-popover for event bubbling,https://github.com/Trendyol/baklava/pull/1011,2025-02-03T13:29:09Z,2025-02-12T07:50:54Z,2,4,MERGED
+baklava,feat: Add security-gates and update README,https://github.com/Trendyol/baklava/pull/1009,2025-02-03T11:19:20Z,2025-02-17T10:10:17Z,0,4,CLOSED
+baklava,feat(input): add clear button for search input (#715),https://github.com/Trendyol/baklava/pull/1008,2025-02-03T09:12:15Z,2025-02-10T10:06:30Z,2,4,MERGED
+baklava,feat(input): add clear button for search input (#715),https://github.com/Trendyol/baklava/pull/1007,2025-02-03T09:03:55Z,2025-02-03T09:04:51Z,0,2,CLOSED
+baklava,feat(input): add clear button for search input (#715),https://github.com/Trendyol/baklava/pull/1006,2025-02-03T08:53:17Z,2025-02-03T08:57:47Z,0,2,CLOSED
+baklava,feat: Add security-gates and update README,https://github.com/Trendyol/baklava/pull/1005,2025-02-03T08:47:07Z,2025-02-06T11:13:45Z,1,3,CLOSED
+baklava,feat: Add security-gates and update README,https://github.com/Trendyol/baklava/pull/1002,2025-01-30T11:21:44Z,2025-02-06T11:11:10Z,3,3,MERGED
+baklava,chore: undo playground template,https://github.com/Trendyol/baklava/pull/999,2025-01-30T08:02:06Z,2025-01-30T08:20:06Z,2,1,MERGED
+baklava,fix(bl-calendar): Add RTL support for arrow icons to prevent visual s…,https://github.com/Trendyol/baklava/pull/998,2025-01-29T12:42:44Z,2025-01-31T19:14:06Z,4,5,MERGED
+baklava,feat(datepicker): improve calendar and datepicker components,https://github.com/Trendyol/baklava/pull/995,2025-01-24T06:04:25Z,2025-01-29T06:45:45Z,4,3,MERGED
+baklava,feat(datepicker): flexible width for datepicker,https://github.com/Trendyol/baklava/pull/989,2025-01-13T20:03:58Z,2025-01-14T12:48:09Z,2,1,MERGED
+baklava,feat(datepicker): pass label to input when its defined,https://github.com/Trendyol/baklava/pull/988,2025-01-13T20:03:47Z,2025-01-14T12:48:24Z,2,1,MERGED
+baklava,feat(datepicker): fix selected date showing for all dates,https://github.com/Trendyol/baklava/pull/987,2025-01-08T14:05:09Z,2025-01-09T09:04:45Z,2,1,MERGED
+baklava,feat(datepicker): add request update for min and max date and adding …,https://github.com/Trendyol/baklava/pull/986,2025-01-08T12:53:24Z,2025-01-09T09:04:28Z,2,2,MERGED
+baklava,docs(storybook): add new import type for nextjs,https://github.com/Trendyol/baklava/pull/985,2025-01-08T08:55:08Z,2025-01-08T13:49:14Z,3,3,MERGED
+baklava,docs(storybook): add new import type for nextjs,https://github.com/Trendyol/baklava/pull/984,2025-01-08T08:52:02Z,2025-01-08T08:56:47Z,0,20,CLOSED
+baklava,feat(datepicker): when datepicker value updated datepicker input valu…,https://github.com/Trendyol/baklava/pull/983,2025-01-07T12:18:36Z,2025-01-08T09:05:59Z,2,2,MERGED
+baklava,feat(datepicker): fix clear dates event bug,https://github.com/Trendyol/baklava/pull/982,2025-01-07T08:50:56Z,2025-01-07T11:59:26Z,2,2,MERGED
+baklava,feat(datepicker): fix disabled dates type,https://github.com/Trendyol/baklava/pull/979,2025-01-06T11:03:03Z,2025-01-06T11:26:28Z,2,1,MERGED
+baklava,feat(calendar-component): fix calendar component test case,https://github.com/Trendyol/baklava/pull/977,2025-01-03T13:37:45Z,2025-01-06T07:25:14Z,2,1,MERGED

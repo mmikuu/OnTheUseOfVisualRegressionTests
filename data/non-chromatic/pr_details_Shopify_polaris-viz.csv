@@ -1,0 +1,1061 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+polaris-viz,Basic line chart,https://github.com/Shopify/polaris-viz/pull/29,2020-03-24T03:32:20Z,2020-04-03T14:06:41Z,10,3,MERGED
+polaris-viz,❌ remove shrink-ray,https://github.com/Shopify/polaris-viz/pull/28,2020-03-05T00:31:37Z,2020-03-05T22:24:18Z,0,1,MERGED
+polaris-viz,⬆️update to shrink-ray 2.0,https://github.com/Shopify/polaris-viz/pull/26,2020-03-04T21:02:00Z,2020-03-05T00:27:50Z,2,1,CLOSED
+polaris-viz,Unpin React dependency version,https://github.com/Shopify/polaris-viz/pull/23,2020-02-25T17:44:05Z,2020-02-25T19:18:15Z,0,1,MERGED
+polaris-viz,WIP linechart,https://github.com/Shopify/polaris-viz/pull/22,2020-02-24T03:29:44Z,2020-03-13T23:45:07Z,0,2,CLOSED
+polaris-viz,Fix dependencies,https://github.com/Shopify/polaris-viz/pull/21,2020-02-04T20:33:56Z,2020-02-04T20:52:00Z,0,1,MERGED
+polaris-viz,Update Changelog for v0.0.3,https://github.com/Shopify/polaris-viz/pull/20,2020-02-04T18:13:06Z,2020-02-04T18:17:25Z,0,1,MERGED
+polaris-viz,Use sass and esnext,https://github.com/Shopify/polaris-viz/pull/18,2020-02-01T20:10:48Z,2020-02-04T14:28:36Z,6,1,MERGED
+polaris-viz,Add PR template,https://github.com/Shopify/polaris-viz/pull/17,2020-02-01T19:52:36Z,2020-02-01T19:55:00Z,0,1,MERGED
+polaris-viz,Use esnext and sass,https://github.com/Shopify/polaris-viz/pull/16,2020-02-01T19:44:17Z,2020-02-01T20:02:27Z,0,2,CLOSED
+polaris-viz,Add ✨Sparkline ✨,https://github.com/Shopify/polaris-viz/pull/15,2020-01-29T16:14:29Z,2020-02-14T16:39:18Z,15,1,MERGED
+polaris-viz,Add Sparkline component,https://github.com/Shopify/polaris-viz/pull/14,2020-01-24T23:01:54Z,2020-01-31T18:36:34Z,0,1,CLOSED
+polaris-viz,Fix margin,https://github.com/Shopify/polaris-viz/pull/13,2020-01-23T21:54:05Z,2020-01-23T21:55:38Z,0,1,MERGED
+polaris-viz,Use .esnext files,https://github.com/Shopify/polaris-viz/pull/12,2020-01-21T18:01:45Z,2020-02-05T16:22:24Z,0,8,CLOSED
+polaris-viz,Add more stuff,https://github.com/Shopify/polaris-viz/pull/11,2020-01-17T20:35:10Z,2020-05-29T14:21:46Z,27,4,CLOSED
+polaris-viz,Add documentation for stacked bar component,https://github.com/Shopify/polaris-viz/pull/10,2020-01-15T16:41:50Z,2020-01-16T20:33:06Z,0,1,MERGED
+polaris-viz,Add matchers,https://github.com/Shopify/polaris-viz/pull/9,2020-01-14T19:38:09Z,2020-01-15T14:40:01Z,0,1,MERGED
+polaris-viz,Add normalized stacked chart,https://github.com/Shopify/polaris-viz/pull/7,2020-01-13T19:19:02Z,2020-01-15T14:17:26Z,19,1,MERGED
+polaris-viz,"Normalized stacked bar, with emotion",https://github.com/Shopify/polaris-viz/pull/6,2020-01-10T22:54:06Z,2020-01-13T21:11:45Z,0,3,CLOSED
+polaris-viz,"Use Emotion, remove Sass",https://github.com/Shopify/polaris-viz/pull/5,2020-01-10T22:23:54Z,2020-01-13T14:52:18Z,0,1,MERGED
+polaris-viz,Add CI via Github Actions,https://github.com/Shopify/polaris-viz/pull/4,2020-01-10T15:40:55Z,2020-01-10T16:19:33Z,0,3,MERGED
+polaris-viz,NormalizedStackedBar component,https://github.com/Shopify/polaris-viz/pull/3,2020-01-08T22:45:27Z,2020-01-13T21:11:50Z,0,2,CLOSED
+polaris-viz,Add license and readme,https://github.com/Shopify/polaris-viz/pull/2,2020-01-08T16:36:54Z,2020-01-08T16:37:13Z,0,1,MERGED
+polaris-viz,Clean up repo,https://github.com/Shopify/polaris-viz/pull/1,2020-01-08T15:19:48Z,2020-01-10T18:09:18Z,0,1,CLOSED
+polaris-viz,Skip tick labels without values,https://github.com/Shopify/polaris-viz/pull/51,2020-05-29T17:36:44Z,2020-06-01T23:27:55Z,0,1,MERGED
+polaris-viz,Only show chart once container has been measured,https://github.com/Shopify/polaris-viz/pull/50,2020-05-29T16:11:44Z,2020-06-01T14:31:00Z,0,1,MERGED
+polaris-viz,Line chart improve tooltip position,https://github.com/Shopify/polaris-viz/pull/48,2020-05-28T18:18:58Z,2020-05-29T16:07:35Z,5,3,MERGED
+polaris-viz,Improve tooltip bounds,https://github.com/Shopify/polaris-viz/pull/47,2020-05-26T23:09:41Z,2020-05-29T16:08:07Z,3,1,CLOSED
+polaris-viz,Line chart tests,https://github.com/Shopify/polaris-viz/pull/46,2020-05-20T17:31:21Z,2020-05-26T20:45:24Z,0,8,MERGED
+polaris-viz,Use series-specific y-value formatter when provided,https://github.com/Shopify/polaris-viz/pull/45,2020-05-19T21:54:11Z,2020-05-20T19:57:45Z,1,1,MERGED
+polaris-viz,Line chart docs,https://github.com/Shopify/polaris-viz/pull/44,2020-05-19T16:38:59Z,2020-05-20T00:48:41Z,2,1,MERGED
+polaris-viz,Line chart use window size,https://github.com/Shopify/polaris-viz/pull/43,2020-05-11T22:09:53Z,2020-05-13T05:28:11Z,0,1,MERGED
+polaris-viz,Line chart legends,https://github.com/Shopify/polaris-viz/pull/40,2020-05-11T21:13:05Z,2020-05-18T18:46:22Z,5,4,MERGED
+polaris-viz,"Use ""strict"" without exceptions",https://github.com/Shopify/polaris-viz/pull/39,2020-04-14T03:07:31Z,2020-04-15T13:31:43Z,0,1,MERGED
+polaris-viz,Line chart crosshair and points,https://github.com/Shopify/polaris-viz/pull/38,2020-04-13T18:09:25Z,2020-04-13T21:29:42Z,1,1,MERGED
+polaris-viz,Use DOMRect for chart dimensions,https://github.com/Shopify/polaris-viz/pull/37,2020-04-13T17:48:53Z,2020-04-13T18:05:30Z,0,1,MERGED
+polaris-viz,Line chart tooltips,https://github.com/Shopify/polaris-viz/pull/36,2020-04-10T02:56:47Z,2020-04-15T13:32:26Z,2,2,MERGED
+polaris-viz,Line chart release,https://github.com/Shopify/polaris-viz/pull/35,2020-04-03T16:55:26Z,2020-06-06T01:10:15Z,0,30,MERGED
+polaris-viz,Remove React from depedencies,https://github.com/Shopify/polaris-viz/pull/34,2020-04-03T11:57:01Z,2020-04-03T14:01:17Z,0,1,MERGED
+polaris-viz,showArea → includeArea,https://github.com/Shopify/polaris-viz/pull/33,2020-04-02T05:44:23Z,2020-04-02T13:06:08Z,0,1,MERGED
+polaris-viz,Put useWindowSize in shared hooks directory,https://github.com/Shopify/polaris-viz/pull/32,2020-04-02T05:39:24Z,2020-04-02T13:05:50Z,0,1,MERGED
+polaris-viz,[Sparkline] Fix resize,https://github.com/Shopify/polaris-viz/pull/92,2020-07-31T15:16:13Z,2020-08-05T13:37:48Z,1,1,MERGED
+polaris-viz,[Line chart] Fix label cutoff,https://github.com/Shopify/polaris-viz/pull/90,2020-07-30T20:16:41Z,2020-08-05T13:46:41Z,1,1,MERGED
+polaris-viz,Fix changelog,https://github.com/Shopify/polaris-viz/pull/86,2020-07-27T17:21:26Z,2020-07-27T18:39:05Z,0,1,MERGED
+polaris-viz,[GroupedBarChart] Final tweaks,https://github.com/Shopify/polaris-viz/pull/85,2020-07-22T14:49:39Z,2020-07-27T16:14:09Z,2,3,MERGED
+polaris-viz,[Grouped bar] Release,https://github.com/Shopify/polaris-viz/pull/83,2020-07-16T16:26:14Z,2020-07-27T17:15:19Z,0,1,MERGED
+polaris-viz,[GroupedBarChart] Add tests,https://github.com/Shopify/polaris-viz/pull/82,2020-07-13T13:30:37Z,2020-07-16T16:02:28Z,0,1,MERGED
+polaris-viz,[GroupedBarChart] Component,https://github.com/Shopify/polaris-viz/pull/81,2020-07-13T13:27:40Z,2020-07-16T16:12:28Z,6,5,MERGED
+polaris-viz,Add GroupedBarChart,https://github.com/Shopify/polaris-viz/pull/80,2020-07-08T21:57:06Z,2020-07-13T13:25:52Z,1,0,CLOSED
+polaris-viz,[Radial Gauge] Add component,https://github.com/Shopify/polaris-viz/pull/79,2020-07-08T21:44:46Z,2020-07-30T19:51:15Z,3,1,CLOSED
+polaris-viz,[Barchart] Fix imports and font size,https://github.com/Shopify/polaris-viz/pull/77,2020-07-08T15:37:05Z,2020-07-08T18:52:09Z,1,3,MERGED
+polaris-viz,[Bar chart] Ensure 0 bars have no minheight,https://github.com/Shopify/polaris-viz/pull/76,2020-07-08T13:31:34Z,2020-07-08T15:25:58Z,0,1,MERGED
+polaris-viz,[BarChart] X axis label improvement and fix for yAxis labels,https://github.com/Shopify/polaris-viz/pull/75,2020-07-07T16:52:51Z,2020-07-08T13:18:10Z,1,1,MERGED
+polaris-viz,Readme bar chart,https://github.com/Shopify/polaris-viz/pull/74,2020-07-06T18:26:38Z,2020-07-08T13:15:32Z,0,3,MERGED
+polaris-viz,Bar chart release,https://github.com/Shopify/polaris-viz/pull/73,2020-07-06T15:51:48Z,2020-07-08T19:03:06Z,1,1,MERGED
+polaris-viz,[Bar chart] Two small tweaks,https://github.com/Shopify/polaris-viz/pull/72,2020-06-30T22:45:10Z,2020-07-06T14:03:20Z,0,1,MERGED
+polaris-viz,[Bar chart] Add tests,https://github.com/Shopify/polaris-viz/pull/70,2020-06-30T19:49:10Z,2020-06-30T22:04:57Z,1,2,MERGED
+polaris-viz,[Bar chart] yAxis improvements,https://github.com/Shopify/polaris-viz/pull/68,2020-06-26T14:30:37Z,2020-06-30T00:06:59Z,1,1,MERGED
+polaris-viz,Improve histogram styles,https://github.com/Shopify/polaris-viz/pull/67,2020-06-25T21:17:44Z,2020-06-26T14:30:59Z,0,2,CLOSED
+polaris-viz,[Bar chart] Rename histogram,https://github.com/Shopify/polaris-viz/pull/66,2020-06-25T20:51:24Z,2020-06-30T23:04:39Z,2,1,MERGED
+polaris-viz,One possible solution,https://github.com/Shopify/polaris-viz/pull/65,2020-06-25T20:47:33Z,2020-06-26T14:31:12Z,0,1,CLOSED
+polaris-viz,[Bar Chart] Polish tooltip style and behaviour,https://github.com/Shopify/polaris-viz/pull/64,2020-06-25T16:30:24Z,2020-06-30T00:16:02Z,1,3,MERGED
+polaris-viz,Bar chart start 📊,https://github.com/Shopify/polaris-viz/pull/63,2020-06-17T21:07:51Z,2020-06-24T02:11:25Z,15,1,MERGED
+polaris-viz,Use tighter y-axis label spacing,https://github.com/Shopify/polaris-viz/pull/61,2020-06-12T02:42:23Z,2020-06-17T16:51:51Z,0,1,MERGED
+polaris-viz,Move yAxis so it can be shared,https://github.com/Shopify/polaris-viz/pull/59,2020-06-10T19:56:25Z,2020-06-10T20:32:58Z,0,1,MERGED
+polaris-viz,Make Tooltip component reusable by creating TooltipContainer ,https://github.com/Shopify/polaris-viz/pull/58,2020-06-10T18:04:26Z,2020-06-10T20:45:16Z,1,1,MERGED
+polaris-viz,Remove broken absolute imports,https://github.com/Shopify/polaris-viz/pull/57,2020-06-08T16:10:35Z,2020-06-08T16:23:05Z,0,1,MERGED
+polaris-viz,Make x-axis labels optional,https://github.com/Shopify/polaris-viz/pull/56,2020-06-05T21:41:19Z,2020-06-05T21:54:18Z,1,1,MERGED
+polaris-viz,WIP barchart,https://github.com/Shopify/polaris-viz/pull/55,2020-06-03T21:17:12Z,2020-06-22T16:57:49Z,0,14,CLOSED
+polaris-viz,Dynamic y axis margin,https://github.com/Shopify/polaris-viz/pull/54,2020-06-03T21:15:11Z,2020-06-04T18:06:07Z,6,3,MERGED
+polaris-viz,Line chart some tweaks,https://github.com/Shopify/polaris-viz/pull/52,2020-06-01T21:32:47Z,2020-06-01T23:28:29Z,0,4,MERGED
+polaris-viz,[MultiSeriesBarChart] Rename component and update docs,https://github.com/Shopify/polaris-viz/pull/156,2020-10-28T18:26:19Z,2020-10-29T18:22:04Z,3,6,MERGED
+polaris-viz,Replace #polaris-help with #polaris,https://github.com/Shopify/polaris-viz/pull/155,2020-10-28T01:20:17Z,2020-10-28T13:40:38Z,0,1,MERGED
+polaris-viz,[MultiSeriesBarChart] add stacked bar tests,https://github.com/Shopify/polaris-viz/pull/154,2020-10-27T18:57:55Z,2020-10-28T16:47:46Z,1,1,MERGED
+polaris-viz,[MultiSeriesBarChart] Update interaction,https://github.com/Shopify/polaris-viz/pull/151,2020-10-21T15:11:01Z,2020-10-23T16:58:31Z,8,2,MERGED
+polaris-viz,"Fix property ""isAnimated"" for Sparkline component",https://github.com/Shopify/polaris-viz/pull/150,2020-10-20T21:40:20Z,2020-10-20T23:46:20Z,0,1,MERGED
+polaris-viz,Add Playground info to README.md,https://github.com/Shopify/polaris-viz/pull/149,2020-10-15T15:38:56Z,2020-10-15T15:53:52Z,0,1,MERGED
+polaris-viz,Updates for new design language on axes,https://github.com/Shopify/polaris-viz/pull/145,2020-10-05T21:04:28Z,2020-10-09T18:28:27Z,8,1,MERGED
+polaris-viz,[MultiSeriesBarChart] Add stacked bar group,https://github.com/Shopify/polaris-viz/pull/142,2020-10-01T16:30:58Z,2020-11-04T18:23:56Z,14,1,MERGED
+polaris-viz,[Docs] Nicer readme,https://github.com/Shopify/polaris-viz/pull/138,2020-09-29T20:25:21Z,2020-10-06T17:10:05Z,11,1,MERGED
+polaris-viz,[GroupedBarChart] add stacked bar chart,https://github.com/Shopify/polaris-viz/pull/136,2020-09-28T20:54:07Z,2020-10-05T18:08:21Z,20,3,MERGED
+polaris-viz,Add playground dir to .gitignore,https://github.com/Shopify/polaris-viz/pull/135,2020-09-28T19:59:22Z,2020-09-29T14:39:13Z,0,1,MERGED
+polaris-viz,Change GH workflow,https://github.com/Shopify/polaris-viz/pull/134,2020-09-28T17:23:32Z,2020-09-28T17:24:28Z,0,1,MERGED
+polaris-viz,Update main.yml,https://github.com/Shopify/polaris-viz/pull/133,2020-09-28T15:56:07Z,2020-09-28T15:57:06Z,0,37,CLOSED
+polaris-viz,[Experiment] Use microbundle,https://github.com/Shopify/polaris-viz/pull/132,2020-09-28T15:51:19Z,2020-10-02T20:37:06Z,4,1,MERGED
+polaris-viz,[Docs] Grouped Bar Chart,https://github.com/Shopify/polaris-viz/pull/130,2020-09-25T19:01:02Z,2020-09-28T21:19:04Z,8,1,MERGED
+polaris-viz,[Docs] Bar Chart docs,https://github.com/Shopify/polaris-viz/pull/129,2020-09-25T18:27:18Z,2020-09-28T17:15:08Z,1,1,MERGED
+polaris-viz,Fix relative path issue,https://github.com/Shopify/polaris-viz/pull/128,2020-09-25T00:42:12Z,2021-11-08T20:53:33Z,1,1,CLOSED
+polaris-viz,fix imports,https://github.com/Shopify/polaris-viz/pull/126,2020-09-23T21:58:19Z,2020-09-23T21:59:38Z,0,1,MERGED
+polaris-viz,fix imports,https://github.com/Shopify/polaris-viz/pull/125,2020-09-23T21:54:02Z,2020-09-23T21:55:12Z,1,1,MERGED
+polaris-viz,[Docs] Line chart,https://github.com/Shopify/polaris-viz/pull/123,2020-09-22T18:27:36Z,2020-09-24T13:28:44Z,8,1,MERGED
+polaris-viz,Import polaris-tokens globally,https://github.com/Shopify/polaris-viz/pull/122,2020-09-22T15:28:50Z,2021-09-14T18:08:44Z,5,3,CLOSED
+polaris-viz,[Sparkline] Add gradient area option and remove animation on resize,https://github.com/Shopify/polaris-viz/pull/121,2020-09-21T21:20:36Z,2020-09-30T14:35:26Z,4,1,MERGED
+polaris-viz,[Area Chart] Only animate when data updates,https://github.com/Shopify/polaris-viz/pull/120,2020-09-21T20:47:48Z,2020-09-22T20:43:57Z,1,1,MERGED
+polaris-viz,[Docs] Normalized Stacked Bar Chart,https://github.com/Shopify/polaris-viz/pull/119,2020-09-21T19:40:16Z,2020-09-22T14:41:59Z,1,1,MERGED
+polaris-viz,[Area chart] Release,https://github.com/Shopify/polaris-viz/pull/118,2020-09-21T18:34:50Z,2020-10-02T20:07:07Z,2,1,MERGED
+polaris-viz,[Docs] Sparkline,https://github.com/Shopify/polaris-viz/pull/116,2020-09-18T20:24:16Z,2020-09-21T19:07:57Z,8,1,MERGED
+polaris-viz,Speed up render time for components,https://github.com/Shopify/polaris-viz/pull/115,2020-09-18T02:17:33Z,2020-09-18T15:01:50Z,0,1,MERGED
+polaris-viz,[Area chart] Add tests,https://github.com/Shopify/polaris-viz/pull/114,2020-09-15T14:37:18Z,2020-09-24T19:37:45Z,5,3,MERGED
+polaris-viz,93 remove constant duplication,https://github.com/Shopify/polaris-viz/pull/113,2020-09-13T15:32:47Z,2021-09-14T18:09:18Z,3,4,CLOSED
+polaris-viz,[Area chart] Add component,https://github.com/Shopify/polaris-viz/pull/112,2020-09-11T18:14:54Z,2020-09-21T18:33:14Z,24,1,MERGED
+polaris-viz,[AreaChart] Make components reusable so they can be used by AreaChart,https://github.com/Shopify/polaris-viz/pull/111,2020-09-11T17:11:53Z,2020-09-14T18:41:16Z,6,1,MERGED
+polaris-viz,Fix playground,https://github.com/Shopify/polaris-viz/pull/108,2020-09-10T00:24:14Z,2020-09-10T00:26:55Z,0,1,MERGED
+polaris-viz,Improve line chart interface and display proper label in tooltip,https://github.com/Shopify/polaris-viz/pull/105,2020-09-10T00:07:39Z,2020-09-11T15:55:42Z,1,1,MERGED
+polaris-viz,Handle new viz colors,https://github.com/Shopify/polaris-viz/pull/104,2020-09-09T18:24:15Z,2020-09-10T19:46:59Z,0,1,MERGED
+polaris-viz,[Area chart] Add chart / contains all animations,https://github.com/Shopify/polaris-viz/pull/100,2020-08-12T23:45:57Z,2020-09-18T02:24:45Z,0,6,CLOSED
+polaris-viz,[NormalizedStackedBar] Do not render bar for 0 values,https://github.com/Shopify/polaris-viz/pull/97,2020-08-06T02:03:19Z,2020-08-07T15:10:01Z,0,1,MERGED
+polaris-viz,[Bar chart] Improve label handling,https://github.com/Shopify/polaris-viz/pull/96,2020-08-06T01:41:08Z,2020-08-12T16:50:33Z,8,1,MERGED
+polaris-viz,[LineChart] Improve yAxis handling ,https://github.com/Shopify/polaris-viz/pull/95,2020-08-05T22:26:34Z,2020-08-07T15:06:02Z,0,1,MERGED
+polaris-viz,Fix paths for linechart xaxis,https://github.com/Shopify/polaris-viz/pull/94,2020-08-05T16:24:54Z,2020-08-05T16:32:53Z,0,1,MERGED
+polaris-viz,Add Render Tooltip to StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/172,2020-12-17T21:54:25Z,2021-01-04T17:30:48Z,3,1,MERGED
+polaris-viz,Better Tooltip Data Interface,https://github.com/Shopify/polaris-viz/pull/170,2020-12-14T21:50:00Z,2020-12-17T15:02:45Z,3,1,MERGED
+polaris-viz,Add Render Tooltip to MultiSeriesBarChart,https://github.com/Shopify/polaris-viz/pull/169,2020-12-14T19:42:22Z,2020-12-18T21:00:55Z,3,1,MERGED
+polaris-viz,Add Line Chart Tooltip,https://github.com/Shopify/polaris-viz/pull/168,2020-12-14T15:53:57Z,2020-12-15T19:17:59Z,4,1,MERGED
+polaris-viz,Add RenderTooltipContent,https://github.com/Shopify/polaris-viz/pull/167,2020-12-14T15:19:20Z,2021-01-11T19:23:30Z,5,1,MERGED
+polaris-viz,Add Bar Chart Tooltip,https://github.com/Shopify/polaris-viz/pull/165,2020-12-10T17:27:39Z,2020-12-14T15:17:37Z,9,5,MERGED
+polaris-viz,Combine tooltips,https://github.com/Shopify/polaris-viz/pull/164,2020-12-09T19:48:06Z,2020-12-10T17:12:16Z,5,1,MERGED
+polaris-viz,Fix broken CI,https://github.com/Shopify/polaris-viz/pull/162,2020-12-08T17:59:16Z,2020-12-08T18:06:45Z,3,1,MERGED
+polaris-viz,Add formatAxisLabel functions,https://github.com/Shopify/polaris-viz/pull/161,2020-12-04T20:52:35Z,2020-12-09T19:15:39Z,12,1,MERGED
+polaris-viz,WIP Hack Days Report Viewer Work,https://github.com/Shopify/polaris-viz/pull/160,2020-12-03T21:56:40Z,2020-12-17T22:25:06Z,1,2,CLOSED
+polaris-viz,Fix name of prop in Changelog,https://github.com/Shopify/polaris-viz/pull/159,2020-11-05T18:12:28Z,2020-11-05T18:48:40Z,0,1,MERGED
+polaris-viz,Update d3 subpackages,https://github.com/Shopify/polaris-viz/pull/158,2020-11-04T20:23:56Z,2021-06-18T18:17:46Z,0,1,CLOSED
+polaris-viz,Fix tooltip,https://github.com/Shopify/polaris-viz/pull/157,2020-11-03T18:16:23Z,2020-11-03T20:20:16Z,4,1,MERGED
+polaris-viz,[Bar chart] Only use ellipsis when necessary,https://github.com/Shopify/polaris-viz/pull/257,2021-03-26T21:11:17Z,2021-04-21T18:33:49Z,0,2,CLOSED
+polaris-viz,[Point] Remove focus outline on Point,https://github.com/Shopify/polaris-viz/pull/256,2021-03-25T18:32:55Z,2021-03-25T18:55:19Z,1,1,MERGED
+polaris-viz,Add gradient option to bar charts,https://github.com/Shopify/polaris-viz/pull/255,2021-03-25T12:46:54Z,2021-04-21T18:26:00Z,10,1,CLOSED
+polaris-viz,Update CHANGELOG.md,https://github.com/Shopify/polaris-viz/pull/254,2021-03-25T12:32:55Z,2021-03-25T12:37:22Z,0,1,MERGED
+polaris-viz,Improve responsiveness of line chart on touch devices,https://github.com/Shopify/polaris-viz/pull/253,2021-03-24T20:51:54Z,2021-03-24T21:29:54Z,1,1,MERGED
+polaris-viz,[Bar] Focus Outline Fixes,https://github.com/Shopify/polaris-viz/pull/252,2021-03-24T17:44:45Z,2021-03-25T18:33:10Z,5,1,MERGED
+polaris-viz,Update CHANGELOG to code format components,https://github.com/Shopify/polaris-viz/pull/251,2021-03-24T14:19:14Z,2021-03-24T14:42:29Z,0,1,MERGED
+polaris-viz,[BarChart] Fixing Unlabelled Image on Bar Chart,https://github.com/Shopify/polaris-viz/pull/249,2021-03-23T18:29:25Z,2021-03-23T19:20:24Z,0,1,MERGED
+polaris-viz,Add bar chart rounded corners option,https://github.com/Shopify/polaris-viz/pull/248,2021-03-22T18:31:11Z,2021-03-23T21:34:21Z,5,1,MERGED
+polaris-viz,Update Polaris tokens 3.0.0,https://github.com/Shopify/polaris-viz/pull/246,2021-03-18T19:53:55Z,2021-03-18T21:59:48Z,0,1,MERGED
+polaris-viz,Add spline option to line chart and sparkline,https://github.com/Shopify/polaris-viz/pull/245,2021-03-18T18:19:06Z,2021-03-22T19:17:15Z,13,1,MERGED
+polaris-viz,Pie chart,https://github.com/Shopify/polaris-viz/pull/244,2021-03-16T19:51:56Z,2022-08-26T15:40:28Z,6,13,CLOSED
+polaris-viz,Fix all-negative handling,https://github.com/Shopify/polaris-viz/pull/243,2021-03-15T22:13:20Z,2021-03-16T17:32:28Z,1,1,MERGED
+polaris-viz,Use initial height to get ticks for yAxis label calculations,https://github.com/Shopify/polaris-viz/pull/242,2021-03-15T20:20:22Z,2021-03-16T14:41:31Z,0,1,MERGED
+polaris-viz,[Linechart] Performance improvements,https://github.com/Shopify/polaris-viz/pull/240,2021-03-15T14:15:25Z,2021-03-16T20:21:20Z,5,1,MERGED
+polaris-viz,Use range instead of rangeround on barcharts,https://github.com/Shopify/polaris-viz/pull/238,2021-03-11T19:11:34Z,2021-03-11T19:51:19Z,0,1,MERGED
+polaris-viz,[MultiSeriesBarChart] Adding a11y to MultiSeriesBarChart,https://github.com/Shopify/polaris-viz/pull/237,2021-03-10T23:12:02Z,2021-03-19T23:10:37Z,22,1,MERGED
+polaris-viz,Small label tweaks,https://github.com/Shopify/polaris-viz/pull/235,2021-03-10T00:10:10Z,2021-03-10T20:21:23Z,1,1,MERGED
+polaris-viz,Fix circular dependency in Sparkline,https://github.com/Shopify/polaris-viz/pull/234,2021-03-09T16:10:59Z,2021-03-09T16:11:18Z,0,1,MERGED
+polaris-viz,Update node version to 12.20.1,https://github.com/Shopify/polaris-viz/pull/233,2021-03-09T16:07:47Z,2021-03-09T21:11:57Z,0,1,MERGED
+polaris-viz,Separate legend component from chart components,https://github.com/Shopify/polaris-viz/pull/228,2021-03-06T18:43:03Z,2021-03-15T12:49:30Z,13,1,MERGED
+polaris-viz,Improve bar chart xaxis label calculations,https://github.com/Shopify/polaris-viz/pull/227,2021-03-06T16:48:48Z,2021-03-08T18:48:30Z,2,1,MERGED
+polaris-viz,Allow non-unique line chart series,https://github.com/Shopify/polaris-viz/pull/226,2021-03-06T16:19:44Z,2021-03-08T21:19:19Z,0,1,MERGED
+polaris-viz,Fix xaxis label calculation,https://github.com/Shopify/polaris-viz/pull/225,2021-03-04T21:36:50Z,2021-03-05T16:56:39Z,0,1,MERGED
+polaris-viz,Fix normalizedstackedbar spacing,https://github.com/Shopify/polaris-viz/pull/223,2021-02-25T19:57:38Z,2021-02-25T20:05:42Z,0,1,MERGED
+polaris-viz,Component spacing fixes,https://github.com/Shopify/polaris-viz/pull/222,2021-02-25T19:10:19Z,2021-02-25T19:19:16Z,0,1,MERGED
+polaris-viz,[Line chart] Spacing fixes,https://github.com/Shopify/polaris-viz/pull/221,2021-02-25T15:51:48Z,2021-02-25T17:13:47Z,0,1,MERGED
+polaris-viz,Add missing image,https://github.com/Shopify/polaris-viz/pull/220,2021-02-24T03:45:02Z,2021-02-24T03:47:08Z,0,1,MERGED
+polaris-viz,[LinearXAxis] Make ariaHidden prop required,https://github.com/Shopify/polaris-viz/pull/219,2021-02-23T21:35:10Z,2021-02-24T20:57:29Z,1,1,MERGED
+polaris-viz,[NormalizedStackedBarChart] Adding A11y to NormalizedStackedBarChart,https://github.com/Shopify/polaris-viz/pull/218,2021-02-23T20:22:48Z,2021-02-25T19:32:17Z,14,1,MERGED
+polaris-viz,Update playground to show demos!,https://github.com/Shopify/polaris-viz/pull/217,2021-02-23T19:03:33Z,2021-02-23T19:59:59Z,3,4,MERGED
+polaris-viz,[Line chart] Add gradient option,https://github.com/Shopify/polaris-viz/pull/216,2021-02-23T03:58:35Z,2021-02-25T16:38:40Z,1,1,MERGED
+polaris-viz,Add metric prop to normalized stacked bar chart,https://github.com/Shopify/polaris-viz/pull/215,2021-02-22T22:55:01Z,2021-03-02T17:00:41Z,29,24,MERGED
+polaris-viz,Allow non-unique label values,https://github.com/Shopify/polaris-viz/pull/212,2021-02-22T21:54:29Z,2021-02-22T22:05:56Z,0,1,MERGED
+polaris-viz,"[Sparkline] API tweaks, animation tweaks and add comparison",https://github.com/Shopify/polaris-viz/pull/209,2021-02-18T18:23:12Z,2021-02-24T01:08:27Z,6,1,MERGED
+polaris-viz,[Bar Chart] Adding A11y to BarChart,https://github.com/Shopify/polaris-viz/pull/208,2021-02-16T21:07:54Z,2021-02-22T19:29:52Z,17,1,MERGED
+polaris-viz,ORV-21 Add accessibility handling to line chart,https://github.com/Shopify/polaris-viz/pull/207,2021-02-11T23:06:10Z,2021-02-17T14:08:35Z,5,1,MERGED
+polaris-viz,added default max y-axis value on charts for all zero data,https://github.com/Shopify/polaris-viz/pull/204,2021-02-05T15:44:40Z,2021-02-09T16:47:22Z,5,1,MERGED
+polaris-viz,Make xAxisLabels optional,https://github.com/Shopify/polaris-viz/pull/203,2021-02-02T22:33:19Z,2021-06-16T14:39:17Z,0,1,CLOSED
+polaris-viz,Linear axis label improvements,https://github.com/Shopify/polaris-viz/pull/202,2021-02-02T17:17:37Z,2021-02-03T19:41:01Z,3,1,MERGED
+polaris-viz,Improve area chart label handling,https://github.com/Shopify/polaris-viz/pull/201,2021-02-01T21:22:10Z,2021-02-02T17:17:04Z,9,1,MERGED
+polaris-viz,Add NullableData type,https://github.com/Shopify/polaris-viz/pull/200,2021-02-01T16:33:45Z,2021-02-01T18:04:48Z,1,1,MERGED
+polaris-viz,Implement table semantics through role attributes,https://github.com/Shopify/polaris-viz/pull/199,2021-01-28T22:44:16Z,2021-02-10T20:07:22Z,28,1,MERGED
+polaris-viz,Add optional title prop to LineChartTooltipContent,https://github.com/Shopify/polaris-viz/pull/198,2021-01-28T21:23:55Z,2021-01-29T15:53:22Z,3,1,CLOSED
+polaris-viz,Improve label handling on multiseries bar chart,https://github.com/Shopify/polaris-viz/pull/197,2021-01-28T21:19:59Z,2021-02-02T01:17:39Z,5,1,MERGED
+polaris-viz,Better label handling for line chart,https://github.com/Shopify/polaris-viz/pull/196,2021-01-28T14:00:19Z,2021-02-01T21:11:39Z,18,4,MERGED
+polaris-viz,fix formatting on changelog,https://github.com/Shopify/polaris-viz/pull/195,2021-01-26T23:26:45Z,2021-01-26T23:29:47Z,0,1,MERGED
+polaris-viz,Upgrade the dev dependencies related to sewing-kit,https://github.com/Shopify/polaris-viz/pull/193,2021-01-22T23:30:29Z,2021-06-16T17:18:46Z,5,3,CLOSED
+polaris-viz,Add separate README for NPM and Github,https://github.com/Shopify/polaris-viz/pull/192,2021-01-22T23:09:43Z,2021-01-25T14:16:19Z,0,1,MERGED
+polaris-viz,[Bar chart] Improve label handling,https://github.com/Shopify/polaris-viz/pull/191,2021-01-21T18:42:16Z,2021-01-26T16:05:53Z,12,1,MERGED
+polaris-viz,Bar chart labels foreignobject,https://github.com/Shopify/polaris-viz/pull/190,2021-01-21T00:18:00Z,2021-01-22T19:44:26Z,0,10,CLOSED
+polaris-viz,Default colors,https://github.com/Shopify/polaris-viz/pull/189,2021-01-20T21:10:42Z,2021-01-25T17:00:10Z,10,3,MERGED
+polaris-viz,Only show ticks for integers,https://github.com/Shopify/polaris-viz/pull/188,2021-01-20T15:51:38Z,2021-03-16T15:45:56Z,1,1,CLOSED
+polaris-viz,[Unify Chart Interfaces] Updated StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/187,2021-01-14T13:59:42Z,2021-01-19T14:34:18Z,2,1,MERGED
+polaris-viz,[Unify Chart Interfaces] Update MultiSeriesBarChart,https://github.com/Shopify/polaris-viz/pull/186,2021-01-14T13:56:42Z,2021-01-15T14:27:23Z,11,3,MERGED
+polaris-viz,[Unify Data Interfaces] Update Line Chart,https://github.com/Shopify/polaris-viz/pull/185,2021-01-13T15:53:55Z,2021-01-13T20:43:55Z,2,1,MERGED
+polaris-viz,Unify Chart Interfaces,https://github.com/Shopify/polaris-viz/pull/184,2021-01-13T15:51:28Z,2021-01-26T14:55:57Z,5,1,MERGED
+polaris-viz,"[Unify Data Interfaces] Introduce Data and DataSeries type, Bar chart",https://github.com/Shopify/polaris-viz/pull/183,2021-01-12T21:14:42Z,2021-01-13T15:50:38Z,1,1,MERGED
+polaris-viz,WIP Improve Chart Interfaces,https://github.com/Shopify/polaris-viz/pull/181,2021-01-08T22:01:04Z,2021-01-15T14:46:50Z,2,3,CLOSED
+polaris-viz,Rename NormalizedStackedBar to NormalizedStackedBarChart,https://github.com/Shopify/polaris-viz/pull/180,2021-01-08T21:30:14Z,2021-01-11T18:46:38Z,1,1,MERGED
+polaris-viz,Add missing open source files,https://github.com/Shopify/polaris-viz/pull/178,2021-01-07T17:30:07Z,2021-01-08T19:21:03Z,0,2,MERGED
+polaris-viz,[NormalizedStackedBar] Better handle long strings,https://github.com/Shopify/polaris-viz/pull/176,2021-01-05T20:26:21Z,2021-01-06T23:15:08Z,0,1,MERGED
+polaris-viz,Tooltip content docs,https://github.com/Shopify/polaris-viz/pull/175,2021-01-04T21:59:17Z,2021-01-06T19:24:41Z,6,3,MERGED
+polaris-viz,Export Props Interfaces,https://github.com/Shopify/polaris-viz/pull/174,2021-01-04T20:02:19Z,2021-01-05T17:58:54Z,2,1,MERGED
+polaris-viz,"[LineChart, BarChart, MultiseriesBarChart] Always show bottom axis",https://github.com/Shopify/polaris-viz/pull/394,2021-05-27T19:59:34Z,2021-06-01T17:05:09Z,2,1,MERGED
+polaris-viz,Fix match media for older safari,https://github.com/Shopify/polaris-viz/pull/393,2021-05-25T14:29:56Z,2021-05-25T14:41:46Z,1,3,MERGED
+polaris-viz,Viz constants updates,https://github.com/Shopify/polaris-viz/pull/391,2021-05-20T20:43:29Z,2021-06-16T14:42:01Z,27,3,CLOSED
+polaris-viz,Don't show middle label for even bars under a threshold,https://github.com/Shopify/polaris-viz/pull/390,2021-05-20T19:47:55Z,2021-05-20T21:51:47Z,4,1,MERGED
+polaris-viz,[BarChart and MultiSeriesBarChart] Add prop to hide min height bars,https://github.com/Shopify/polaris-viz/pull/389,2021-05-20T15:29:07Z,2021-05-20T21:42:11Z,7,1,MERGED
+polaris-viz,[BarChart and MultiSeriesBarChart] Fix min height bars not showing for all 0 datasets,https://github.com/Shopify/polaris-viz/pull/388,2021-05-19T21:13:24Z,2021-05-20T14:10:44Z,7,1,MERGED
+polaris-viz,Ensure line chart yScale includes 0,https://github.com/Shopify/polaris-viz/pull/387,2021-05-19T02:12:13Z,2021-05-19T02:21:10Z,0,1,MERGED
+polaris-viz,[LineChart] Remove transparency from points,https://github.com/Shopify/polaris-viz/pull/386,2021-05-18T21:16:36Z,2021-05-19T00:21:57Z,5,1,MERGED
+polaris-viz,Fix chart label spacing,https://github.com/Shopify/polaris-viz/pull/385,2021-05-18T17:15:07Z,2021-05-18T19:53:18Z,2,1,MERGED
+polaris-viz,Legend Polish Changes,https://github.com/Shopify/polaris-viz/pull/384,2021-05-18T15:14:59Z,2021-05-18T19:00:02Z,0,1,MERGED
+polaris-viz,[BarChart and MultiSeriesBarChart] Increase min bar height and radius,https://github.com/Shopify/polaris-viz/pull/382,2021-05-17T16:43:22Z,2021-05-18T18:44:12Z,12,1,MERGED
+polaris-viz,fade line chart area gradient,https://github.com/Shopify/polaris-viz/pull/381,2021-05-17T15:47:49Z,2021-05-17T19:07:20Z,8,2,MERGED
+polaris-viz,Fix bar chart circular dependencies,https://github.com/Shopify/polaris-viz/pull/380,2021-05-15T00:52:42Z,2021-05-15T03:03:08Z,0,1,MERGED
+polaris-viz,Bump Packages to Resolve Critical and High Severity Security Issues,https://github.com/Shopify/polaris-viz/pull/379,2021-05-14T21:21:02Z,2021-05-17T19:24:25Z,6,19,MERGED
+polaris-viz,Annotation line color tweaks,https://github.com/Shopify/polaris-viz/pull/378,2021-05-14T18:39:26Z,2021-05-14T19:20:31Z,1,1,MERGED
+polaris-viz,gradient prototype,https://github.com/Shopify/polaris-viz/pull/377,2021-05-14T16:06:31Z,2021-05-18T18:11:42Z,0,1,CLOSED
+polaris-viz,test,https://github.com/Shopify/polaris-viz/pull/376,2021-05-14T15:14:15Z,2021-05-14T16:06:44Z,0,1,CLOSED
+polaris-viz,Allow point stroke configuration,https://github.com/Shopify/polaris-viz/pull/375,2021-05-14T13:15:27Z,2021-05-14T16:10:42Z,2,1,MERGED
+polaris-viz,Fix missing border radius,https://github.com/Shopify/polaris-viz/pull/374,2021-05-14T01:16:54Z,2021-05-14T01:57:31Z,1,1,MERGED
+polaris-viz,Check for window.matchMedia before calling it,https://github.com/Shopify/polaris-viz/pull/373,2021-05-13T22:24:45Z,2021-05-13T22:24:57Z,0,1,CLOSED
+polaris-viz,Check for window.matchMedia before calling it,https://github.com/Shopify/polaris-viz/pull/372,2021-05-13T22:21:57Z,2021-05-13T22:23:46Z,0,1,CLOSED
+polaris-viz,Add only integers prop y axis,https://github.com/Shopify/polaris-viz/pull/371,2021-05-13T21:11:21Z,2021-05-18T18:53:25Z,3,1,MERGED
+polaris-viz,[BarChart and MultiSeriesBarChart] Update min bar height,https://github.com/Shopify/polaris-viz/pull/370,2021-05-13T19:31:52Z,2021-05-13T20:13:30Z,1,1,MERGED
+polaris-viz,Adds ability to set minimum bar height in `<Sparkbar/>` component.,https://github.com/Shopify/polaris-viz/pull/369,2021-05-13T19:23:59Z,2021-05-13T20:24:08Z,6,4,MERGED
+polaris-viz,[Line Chart] Fix error for animated series with one point,https://github.com/Shopify/polaris-viz/pull/367,2021-05-12T21:53:34Z,2021-05-13T20:12:31Z,2,2,MERGED
+polaris-viz,Resize charts for print @media,https://github.com/Shopify/polaris-viz/pull/364,2021-05-12T19:23:43Z,2021-05-13T20:04:55Z,12,3,MERGED
+polaris-viz,[Multi series bar chart] Fix missing labels bug,https://github.com/Shopify/polaris-viz/pull/363,2021-05-12T19:20:41Z,2021-05-13T14:15:32Z,1,1,MERGED
+polaris-viz,Add default width and height for test environments,https://github.com/Shopify/polaris-viz/pull/362,2021-05-12T15:26:24Z,2021-05-12T15:41:30Z,3,1,MERGED
+polaris-viz,Sparkline and Sparkbar offsets and nullable data,https://github.com/Shopify/polaris-viz/pull/361,2021-05-12T02:29:34Z,2021-05-13T20:11:38Z,9,6,MERGED
+polaris-viz,use custom CurveStepRounded instead of MonotoneX in line charts,https://github.com/Shopify/polaris-viz/pull/360,2021-05-11T21:19:54Z,2021-05-12T18:20:34Z,4,5,MERGED
+polaris-viz,Don't allow user select on charts,https://github.com/Shopify/polaris-viz/pull/359,2021-05-11T20:47:07Z,2021-05-11T22:39:50Z,1,1,MERGED
+polaris-viz,Fix inconsistent spacing in sparkline and sparkbar line dashes,https://github.com/Shopify/polaris-viz/pull/358,2021-05-11T13:07:24Z,2021-05-11T19:35:53Z,1,1,MERGED
+polaris-viz,Fix negative tick sometimes getting cut off,https://github.com/Shopify/polaris-viz/pull/356,2021-05-10T15:21:31Z,2021-05-11T19:24:31Z,0,1,MERGED
+polaris-viz,Only nice ticks/yScale when appropriate,https://github.com/Shopify/polaris-viz/pull/355,2021-05-08T01:12:26Z,2021-05-10T15:01:37Z,4,1,MERGED
+polaris-viz,Update colorGrayDark,https://github.com/Shopify/polaris-viz/pull/354,2021-05-07T21:46:16Z,2021-05-07T21:50:20Z,0,1,MERGED
+polaris-viz,Fix yAxis lineheight and bar chart ticks,https://github.com/Shopify/polaris-viz/pull/353,2021-05-07T20:26:58Z,2021-05-07T21:18:34Z,0,2,MERGED
+polaris-viz,Use resize observer on components,https://github.com/Shopify/polaris-viz/pull/351,2021-05-07T15:15:12Z,2021-05-11T19:41:34Z,5,1,MERGED
+polaris-viz,Make formatters in playground more accurate,https://github.com/Shopify/polaris-viz/pull/350,2021-05-07T14:21:34Z,2021-05-07T14:24:38Z,0,1,MERGED
+polaris-viz,Add overflow styles,https://github.com/Shopify/polaris-viz/pull/349,2021-05-06T19:19:52Z,2021-05-07T12:23:43Z,7,1,MERGED
+polaris-viz,Fix square preview showing up on legend,https://github.com/Shopify/polaris-viz/pull/346,2021-05-06T11:50:43Z,2021-05-06T17:49:33Z,0,1,MERGED
+polaris-viz,Fix overlap on xAxis when minimal labels used,https://github.com/Shopify/polaris-viz/pull/345,2021-05-05T23:12:20Z,2021-05-07T14:01:15Z,2,1,MERGED
+polaris-viz,[Orders Analytics in Context] added ResizeObserver for Sparkline and Sparkbar. Fixed Sparkbar radius,https://github.com/Shopify/polaris-viz/pull/344,2021-05-05T21:59:07Z,2021-05-10T16:21:32Z,16,13,MERGED
+polaris-viz,Add horizontal gridlines component and full width option,https://github.com/Shopify/polaris-viz/pull/343,2021-05-05T21:58:03Z,2021-05-06T18:19:31Z,5,1,MERGED
+polaris-viz,Increase spacing between labels and x axis,https://github.com/Shopify/polaris-viz/pull/342,2021-05-05T19:51:50Z,2021-05-07T14:54:09Z,6,1,MERGED
+polaris-viz,upgrade react-spring to v9,https://github.com/Shopify/polaris-viz/pull/341,2021-05-05T18:36:57Z,2021-05-26T14:02:05Z,10,1,MERGED
+polaris-viz,Add two new color tokens and updates annotation color type,https://github.com/Shopify/polaris-viz/pull/340,2021-05-05T17:08:15Z,2021-05-06T13:58:06Z,2,1,MERGED
+polaris-viz,[BarChart & MultiSeriesBarChart] Add outer padding,https://github.com/Shopify/polaris-viz/pull/338,2021-05-05T15:11:04Z,2021-05-06T14:32:04Z,8,1,MERGED
+polaris-viz,"Revert ""Dependatbot updates""",https://github.com/Shopify/polaris-viz/pull/331,2021-05-05T13:06:09Z,2021-05-05T13:09:35Z,2,1,MERGED
+polaris-viz,Fix bar chart types,https://github.com/Shopify/polaris-viz/pull/330,2021-05-05T12:46:19Z,2021-05-05T12:50:00Z,0,1,MERGED
+polaris-viz,Fix sparkbar margins,https://github.com/Shopify/polaris-viz/pull/328,2021-05-04T20:54:47Z,2021-05-05T16:57:11Z,8,1,MERGED
+polaris-viz,Add `SeriesColor` type to package exports,https://github.com/Shopify/polaris-viz/pull/327,2021-05-04T20:47:27Z,2021-05-05T12:47:37Z,2,1,MERGED
+polaris-viz,[Orders Analytics In Context] Added dark mode colour typings,https://github.com/Shopify/polaris-viz/pull/326,2021-05-04T15:25:04Z,2021-05-04T15:33:12Z,0,3,MERGED
+polaris-viz,Remove chromatic deploy step,https://github.com/Shopify/polaris-viz/pull/325,2021-05-03T23:06:08Z,2021-05-04T19:00:08Z,1,1,MERGED
+polaris-viz,[Orders Analytics in Context] Added dark mode colours,https://github.com/Shopify/polaris-viz/pull/320,2021-05-03T21:47:57Z,2021-05-03T22:06:23Z,1,1,MERGED
+polaris-viz,Dependatbot updates,https://github.com/Shopify/polaris-viz/pull/319,2021-05-03T21:39:16Z,2021-05-04T20:05:00Z,8,1,MERGED
+polaris-viz,[MultSeriesBarChart] Add margin to barOptions ,https://github.com/Shopify/polaris-viz/pull/316,2021-05-03T18:42:12Z,2021-05-04T19:01:01Z,5,1,MERGED
+polaris-viz,Fix perf regression in line chart,https://github.com/Shopify/polaris-viz/pull/312,2021-05-02T22:26:06Z,2021-05-03T20:23:08Z,0,1,MERGED
+polaris-viz,Use gradients and subduing in MultiSeriesBarChart,https://github.com/Shopify/polaris-viz/pull/311,2021-04-30T19:00:51Z,2021-05-04T16:06:12Z,19,5,MERGED
+polaris-viz,Check for SSR,https://github.com/Shopify/polaris-viz/pull/310,2021-04-29T20:51:13Z,2021-04-30T19:13:50Z,0,1,MERGED
+polaris-viz,Customizable BarChart Bar Colors,https://github.com/Shopify/polaris-viz/pull/309,2021-04-28T17:55:15Z,2021-05-04T17:18:23Z,10,1,MERGED
+polaris-viz,"Add labelBackgroundColor option for Line, Bar, and MultiSeriesBar charts",https://github.com/Shopify/polaris-viz/pull/307,2021-04-28T16:05:36Z,2021-05-13T13:14:48Z,9,2,CLOSED
+polaris-viz,Add sparkbar to readme,https://github.com/Shopify/polaris-viz/pull/306,2021-04-28T14:40:25Z,2021-04-28T15:57:33Z,0,1,MERGED
+polaris-viz,Fix broken image in README,https://github.com/Shopify/polaris-viz/pull/305,2021-04-27T21:39:30Z,2021-04-27T21:40:29Z,0,1,MERGED
+polaris-viz,apply gradient with mask and highlight,https://github.com/Shopify/polaris-viz/pull/299,2021-04-27T19:20:06Z,2021-04-29T15:08:34Z,16,2,MERGED
+polaris-viz,Line chart gradients,https://github.com/Shopify/polaris-viz/pull/297,2021-04-26T16:10:07Z,2021-04-29T14:42:25Z,38,1,MERGED
+polaris-viz,BarChart Annotations,https://github.com/Shopify/polaris-viz/pull/296,2021-04-23T22:36:20Z,2021-04-27T19:29:29Z,13,1,MERGED
+polaris-viz,Added LinePreview and SquareColorPreivew to package exports,https://github.com/Shopify/polaris-viz/pull/295,2021-04-23T03:40:56Z,2021-04-23T14:31:08Z,0,1,MERGED
+polaris-viz,[Line chart] Allow minimal xaxis label treatment,https://github.com/Shopify/polaris-viz/pull/294,2021-04-23T01:33:21Z,2021-04-23T15:52:23Z,3,1,MERGED
+polaris-viz,BarChart Annotations on a data level,https://github.com/Shopify/polaris-viz/pull/292,2021-04-21T18:19:21Z,2021-04-23T22:38:38Z,23,1,CLOSED
+polaris-viz,[MultiSeriesBarChart] Adding handling for empty state,https://github.com/Shopify/polaris-viz/pull/291,2021-04-21T17:41:14Z,2021-04-22T19:41:30Z,9,1,MERGED
+polaris-viz,[Bar charts] Make API more flexible,https://github.com/Shopify/polaris-viz/pull/289,2021-04-20T13:07:01Z,2021-04-21T12:48:40Z,10,1,MERGED
+polaris-viz,Update Tooltip Content readme,https://github.com/Shopify/polaris-viz/pull/288,2021-04-19T20:51:10Z,2021-04-20T14:31:37Z,1,1,MERGED
+polaris-viz,Adds option to add dot to a sparkline's series last data point,https://github.com/Shopify/polaris-viz/pull/287,2021-04-19T19:04:39Z,2021-04-22T15:09:26Z,20,2,MERGED
+polaris-viz,[BarChart] Adding handling for empty state,https://github.com/Shopify/polaris-viz/pull/285,2021-04-19T15:18:20Z,2021-04-19T20:47:18Z,3,1,MERGED
+polaris-viz,Fix lint,https://github.com/Shopify/polaris-viz/pull/284,2021-04-19T15:04:21Z,2021-04-19T15:10:34Z,0,1,MERGED
+polaris-viz,BarChart Annotation exploration,https://github.com/Shopify/polaris-viz/pull/283,2021-04-16T23:06:51Z,2021-04-23T22:46:22Z,1,9,CLOSED
+polaris-viz,Adds option to add point to Sparkline series' last data point,https://github.com/Shopify/polaris-viz/pull/282,2021-04-16T19:54:38Z,2021-04-19T19:28:19Z,1,2,CLOSED
+polaris-viz,Added `LineChart` story,https://github.com/Shopify/polaris-viz/pull/281,2021-04-16T15:56:11Z,2021-04-16T17:09:23Z,1,3,CLOSED
+polaris-viz,Include yarn add:story / dev add-story commands,https://github.com/Shopify/polaris-viz/pull/280,2021-04-15T22:33:34Z,2021-04-20T17:13:10Z,8,4,MERGED
+polaris-viz,[Line Chart] Make API more flexible,https://github.com/Shopify/polaris-viz/pull/279,2021-04-15T21:44:33Z,2021-04-20T22:56:13Z,6,1,MERGED
+polaris-viz,[Bar chart] Add minimal x axis labels option,https://github.com/Shopify/polaris-viz/pull/278,2021-04-15T21:44:18Z,2021-04-22T23:49:51Z,2,1,MERGED
+polaris-viz,add bars transition,https://github.com/Shopify/polaris-viz/pull/277,2021-04-15T16:50:55Z,2021-04-20T21:07:10Z,20,4,MERGED
+polaris-viz,Add basic line chart animation,https://github.com/Shopify/polaris-viz/pull/276,2021-04-15T15:20:50Z,2021-04-20T16:52:33Z,20,1,MERGED
+polaris-viz,Add Sparkbar Component,https://github.com/Shopify/polaris-viz/pull/275,2021-04-14T19:12:24Z,2021-04-27T21:11:29Z,82,1,MERGED
+polaris-viz,[BarChart] Add hardcoded instead of dynamic data to BarChart storybook,https://github.com/Shopify/polaris-viz/pull/274,2021-04-14T17:12:22Z,2021-04-14T21:21:17Z,2,1,MERGED
+polaris-viz,[LineChart] Adding option for dotted line to LineChart,https://github.com/Shopify/polaris-viz/pull/273,2021-04-14T15:46:59Z,2021-04-19T14:03:46Z,6,1,MERGED
+polaris-viz,Clean up service manifest,https://github.com/Shopify/polaris-viz/pull/272,2021-04-12T18:59:32Z,2021-04-19T14:42:44Z,0,1,MERGED
+polaris-viz,Move opinionated styles from TooltipContainer to TooltipContent,https://github.com/Shopify/polaris-viz/pull/271,2021-04-09T14:03:02Z,2021-04-09T20:52:47Z,0,2,MERGED
+polaris-viz,[LineChart] Adding handling for empty state,https://github.com/Shopify/polaris-viz/pull/270,2021-04-07T18:25:35Z,2021-04-14T14:03:02Z,14,1,MERGED
+polaris-viz,WIP left align changes,https://github.com/Shopify/polaris-viz/pull/269,2021-04-06T14:48:52Z,2021-04-16T03:24:50Z,0,1,CLOSED
+polaris-viz,Add points animation to LineChart,https://github.com/Shopify/polaris-viz/pull/268,2021-04-05T21:11:26Z,2021-04-23T21:06:05Z,61,1,MERGED
+polaris-viz,Design Sprint,https://github.com/Shopify/polaris-viz/pull/267,2021-04-01T20:04:36Z,2021-04-19T19:47:03Z,2,50,CLOSED
+polaris-viz,Add theming to sparkbar,https://github.com/Shopify/polaris-viz/pull/450,2021-07-29T18:31:10Z,2021-08-03T21:20:11Z,8,1,MERGED
+polaris-viz,Add theming to Sparkline,https://github.com/Shopify/polaris-viz/pull/445,2021-07-27T22:37:55Z,2021-08-03T16:30:38Z,8,1,MERGED
+polaris-viz,Theming MultiSeriesBarChart,https://github.com/Shopify/polaris-viz/pull/443,2021-07-08T19:30:23Z,2021-08-24T17:50:57Z,5,2,MERGED
+polaris-viz,test size limit,https://github.com/Shopify/polaris-viz/pull/439,2021-06-30T01:43:32Z,2021-06-30T01:47:07Z,1,1,CLOSED
+polaris-viz,Add size-limit and associated GitHub Action,https://github.com/Shopify/polaris-viz/pull/438,2021-06-29T21:08:51Z,2021-07-06T18:52:55Z,1,1,MERGED
+polaris-viz,Update SK and Storybook to the latest versions,https://github.com/Shopify/polaris-viz/pull/437,2021-06-29T14:48:31Z,2021-07-29T21:11:58Z,1,2,MERGED
+polaris-viz,remove polaris tokens,https://github.com/Shopify/polaris-viz/pull/436,2021-06-29T14:36:03Z,2021-07-08T19:13:14Z,11,1,MERGED
+polaris-viz,Improve dependencies,https://github.com/Shopify/polaris-viz/pull/435,2021-06-28T14:42:37Z,2021-07-07T21:04:47Z,4,2,MERGED
+polaris-viz,Theming - BarChart,https://github.com/Shopify/polaris-viz/pull/434,2021-06-23T23:02:25Z,2021-07-08T18:09:50Z,44,1,MERGED
+polaris-viz,Explicitly specify ^2.1.0 for tslib dependency,https://github.com/Shopify/polaris-viz/pull/431,2021-06-23T16:09:24Z,2021-06-23T16:11:20Z,0,1,MERGED
+polaris-viz,Align comparison line and bars in Sparkbar,https://github.com/Shopify/polaris-viz/pull/430,2021-06-23T12:24:25Z,2021-08-30T17:44:22Z,10,1,MERGED
+polaris-viz,Fix labels and round bars for large volume bar charts,https://github.com/Shopify/polaris-viz/pull/429,2021-06-22T21:45:57Z,2021-06-28T17:23:00Z,1,1,MERGED
+polaris-viz,Add more story coverage,https://github.com/Shopify/polaris-viz/pull/428,2021-06-22T17:51:15Z,2021-06-22T18:01:53Z,0,1,MERGED
+polaris-viz,Add tslib to our dependencies,https://github.com/Shopify/polaris-viz/pull/426,2021-06-17T18:09:52Z,2021-06-17T19:23:03Z,1,1,MERGED
+polaris-viz,Update CHANGELOG for version 0.17.0 re: tslib,https://github.com/Shopify/polaris-viz/pull/424,2021-06-16T21:23:04Z,2021-06-16T21:25:48Z,0,1,MERGED
+polaris-viz,Bump dependencies for security updates,https://github.com/Shopify/polaris-viz/pull/423,2021-06-16T17:20:38Z,2021-06-16T18:33:25Z,4,9,MERGED
+polaris-viz,Update docs and images,https://github.com/Shopify/polaris-viz/pull/417,2021-06-14T21:09:04Z,2021-06-16T16:01:34Z,5,1,MERGED
+polaris-viz,Storybook improvements,https://github.com/Shopify/polaris-viz/pull/412,2021-06-10T20:50:52Z,2021-06-11T20:18:06Z,12,1,MERGED
+polaris-viz,introduce themes through PolarisVizProvider,https://github.com/Shopify/polaris-viz/pull/411,2021-06-09T22:23:23Z,2021-06-16T13:54:08Z,7,1,MERGED
+polaris-viz,Upgrade dev tool packages,https://github.com/Shopify/polaris-viz/pull/402,2021-06-09T13:28:34Z,2021-06-16T15:49:35Z,9,9,MERGED
+polaris-viz,[Line Chart] Mounting performance improvement,https://github.com/Shopify/polaris-viz/pull/398,2021-06-04T18:37:14Z,2021-06-08T21:44:03Z,13,1,MERGED
+polaris-viz,[NormalizedStackedBarChart] Added label position prop,https://github.com/Shopify/polaris-viz/pull/658,2021-10-28T18:20:00Z,2021-10-29T17:39:11Z,7,4,MERGED
+polaris-viz,Make gradients full width of the chart,https://github.com/Shopify/polaris-viz/pull/657,2021-10-28T15:01:58Z,2021-10-29T16:25:03Z,3,1,MERGED
+polaris-viz,Better calculations for simple width label offsets,https://github.com/Shopify/polaris-viz/pull/654,2021-10-26T19:30:11Z,2021-10-27T18:30:19Z,7,1,MERGED
+polaris-viz,Better print support,https://github.com/Shopify/polaris-viz/pull/653,2021-10-25T19:27:40Z,2021-10-27T19:06:10Z,12,1,MERGED
+polaris-viz,Respect grid.showHorizontalLines theme setting,https://github.com/Shopify/polaris-viz/pull/652,2021-10-25T17:46:08Z,2021-10-26T19:21:04Z,1,1,MERGED
+polaris-viz,Add vertical lines to Bar charts,https://github.com/Shopify/polaris-viz/pull/651,2021-10-25T15:43:07Z,2021-11-01T15:38:40Z,3,1,MERGED
+polaris-viz,Upgrade to loom v1,https://github.com/Shopify/polaris-viz/pull/650,2021-10-25T13:14:40Z,2021-10-25T16:44:53Z,2,1,MERGED
+polaris-viz,Upgrade to Node 16,https://github.com/Shopify/polaris-viz/pull/646,2021-10-22T18:11:18Z,2021-11-01T19:05:21Z,2,1,MERGED
+polaris-viz,Add overflow styles to area chart,https://github.com/Shopify/polaris-viz/pull/644,2021-10-21T14:17:13Z,2021-10-21T16:44:31Z,1,2,MERGED
+polaris-viz,Fix bug with all 0 labels and display 1px bar for 0 values,https://github.com/Shopify/polaris-viz/pull/643,2021-10-20T18:47:37Z,2021-10-25T15:06:23Z,9,2,MERGED
+polaris-viz,Make yAxis label allowance consistent,https://github.com/Shopify/polaris-viz/pull/642,2021-10-20T18:46:40Z,2022-08-26T15:40:10Z,1,3,CLOSED
+polaris-viz,Remove the xAxisHeight for simple charts,https://github.com/Shopify/polaris-viz/pull/641,2021-10-20T18:09:44Z,2021-10-20T19:06:00Z,1,1,MERGED
+polaris-viz,Remove negative gradient,https://github.com/Shopify/polaris-viz/pull/640,2021-10-20T17:36:30Z,2021-10-20T19:04:23Z,1,1,MERGED
+polaris-viz,Only show negative bar color for series with single values,https://github.com/Shopify/polaris-viz/pull/639,2021-10-20T16:29:44Z,2021-10-20T17:36:45Z,3,1,CLOSED
+polaris-viz,Append theme to gradient def so it's unique to the theme,https://github.com/Shopify/polaris-viz/pull/638,2021-10-20T15:26:06Z,2021-10-20T16:48:06Z,1,1,MERGED
+polaris-viz,Add formatting to default tooltip,https://github.com/Shopify/polaris-viz/pull/637,2021-10-19T23:05:59Z,2021-10-20T15:22:50Z,1,2,MERGED
+polaris-viz,Tweak spacing between labels and groups,https://github.com/Shopify/polaris-viz/pull/636,2021-10-19T20:00:37Z,2021-10-20T16:32:14Z,2,1,MERGED
+polaris-viz,Adding tests for HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/634,2021-10-19T17:14:47Z,2021-11-30T20:55:32Z,40,1,MERGED
+polaris-viz,Label improvements,https://github.com/Shopify/polaris-viz/pull/632,2021-10-19T13:22:09Z,2021-10-20T15:07:11Z,6,1,MERGED
+polaris-viz,Add Horizontal Bar Chart,https://github.com/Shopify/polaris-viz/pull/631,2021-10-19T13:01:12Z,2021-10-27T18:56:31Z,3,1,MERGED
+polaris-viz,Add documentation to storybook,https://github.com/Shopify/polaris-viz/pull/630,2021-10-18T20:10:52Z,2021-11-01T15:38:20Z,1,1,MERGED
+polaris-viz,Fix labels using wrong axis color,https://github.com/Shopify/polaris-viz/pull/629,2021-10-18T19:33:30Z,2021-10-18T20:08:57Z,1,1,MERGED
+polaris-viz,Simplify the tooltip positioning logic,https://github.com/Shopify/polaris-viz/pull/627,2021-10-18T17:40:43Z,2021-10-18T19:33:54Z,2,1,MERGED
+polaris-viz,Fix scaling and ticks for Stacked chart,https://github.com/Shopify/polaris-viz/pull/626,2021-10-18T17:01:01Z,2021-10-18T19:34:03Z,3,1,MERGED
+polaris-viz,Update position on every move and fix issue with tooltip,https://github.com/Shopify/polaris-viz/pull/624,2021-10-15T17:31:54Z,2021-10-15T19:01:43Z,5,1,MERGED
+polaris-viz,Discussion: Wrap SVG text,https://github.com/Shopify/polaris-viz/pull/623,2021-10-15T16:22:09Z,2022-04-13T19:02:23Z,5,1,CLOSED
+polaris-viz,Fix broken hide labels logic,https://github.com/Shopify/polaris-viz/pull/622,2021-10-14T18:12:37Z,2021-10-15T15:19:21Z,1,1,MERGED
+polaris-viz,Add method to remap MultiSeriesBarChart data to HorizontalBarChart data,https://github.com/Shopify/polaris-viz/pull/619,2021-10-12T23:29:29Z,2021-10-18T21:37:22Z,3,1,CLOSED
+polaris-viz,Handle null and undefined data values,https://github.com/Shopify/polaris-viz/pull/618,2021-10-08T16:00:10Z,2021-10-15T16:03:25Z,1,1,MERGED
+polaris-viz,HorizontalBarChart sort animation,https://github.com/Shopify/polaris-viz/pull/617,2021-10-07T23:11:09Z,2021-10-19T13:21:40Z,8,1,MERGED
+polaris-viz,Document seriesColors and Tooltip,https://github.com/Shopify/polaris-viz/pull/616,2021-10-07T21:20:17Z,2021-10-14T19:00:20Z,1,1,MERGED
+polaris-viz,Allow each series to have any number of bars,https://github.com/Shopify/polaris-viz/pull/615,2021-10-07T18:58:53Z,2021-10-15T15:19:09Z,1,1,MERGED
+polaris-viz,Change data structure to align more with other components,https://github.com/Shopify/polaris-viz/pull/613,2021-10-07T14:26:07Z,2021-10-08T12:30:28Z,5,1,MERGED
+polaris-viz,Truncate labels at 3 lines,https://github.com/Shopify/polaris-viz/pull/612,2021-10-07T13:15:42Z,2021-10-07T19:26:07Z,6,1,MERGED
+polaris-viz,Change HorizontalBarChart to use fixed height,https://github.com/Shopify/polaris-viz/pull/611,2021-10-06T21:37:51Z,2021-10-07T15:53:36Z,4,1,MERGED
+polaris-viz,Document theme definition,https://github.com/Shopify/polaris-viz/pull/610,2021-10-06T21:35:18Z,2021-10-07T18:54:13Z,6,1,MERGED
+polaris-viz,Add overflow scale style to area chart + fix cutoff bug,https://github.com/Shopify/polaris-viz/pull/609,2021-10-06T21:27:48Z,2021-10-20T13:36:55Z,1,2,MERGED
+polaris-viz,HorizontalBarChart exports,https://github.com/Shopify/polaris-viz/pull/599,2021-10-06T00:09:31Z,2021-10-27T20:26:49Z,1,8,CLOSED
+polaris-viz,Fix circular dep,https://github.com/Shopify/polaris-viz/pull/594,2021-10-04T18:25:31Z,2021-10-04T18:47:14Z,1,2,MERGED
+polaris-viz,Document themes,https://github.com/Shopify/polaris-viz/pull/593,2021-10-01T14:12:38Z,2021-10-05T19:32:28Z,21,1,MERGED
+polaris-viz,Disable animations globaly when Reduce Motion is true,https://github.com/Shopify/polaris-viz/pull/592,2021-09-30T19:33:41Z,2022-04-13T19:02:14Z,3,1,CLOSED
+polaris-viz,Add animations to NormalizeStackedBarChart,https://github.com/Shopify/polaris-viz/pull/590,2021-09-30T18:10:43Z,2021-10-27T20:39:26Z,14,1,MERGED
+polaris-viz,UX tweaks to docs and some components,https://github.com/Shopify/polaris-viz/pull/589,2021-09-30T17:19:26Z,2021-10-01T16:15:22Z,1,1,MERGED
+polaris-viz,Add underline back to link on Storybook intro page,https://github.com/Shopify/polaris-viz/pull/588,2021-09-30T16:21:24Z,2021-09-30T16:22:18Z,2,1,CLOSED
+polaris-viz,Remove duplicated docs,https://github.com/Shopify/polaris-viz/pull/584,2021-09-29T21:28:12Z,2021-09-30T13:28:33Z,3,1,MERGED
+polaris-viz,Switch to React 17 and update peerDependencies,https://github.com/Shopify/polaris-viz/pull/583,2021-09-29T20:38:24Z,2021-10-27T21:31:19Z,7,4,MERGED
+polaris-viz,Switch build system to Loom,https://github.com/Shopify/polaris-viz/pull/581,2021-09-29T17:49:21Z,2021-10-22T15:24:09Z,41,15,MERGED
+polaris-viz,Make grid of components responsive on Intro page,https://github.com/Shopify/polaris-viz/pull/573,2021-09-28T21:42:35Z,2021-09-28T23:17:24Z,1,1,MERGED
+polaris-viz,Unignore docs,https://github.com/Shopify/polaris-viz/pull/569,2021-09-28T16:01:43Z,2021-09-28T16:02:21Z,1,2,MERGED
+polaris-viz,Add pipe to separate commands,https://github.com/Shopify/polaris-viz/pull/568,2021-09-28T15:44:53Z,2021-09-28T15:45:22Z,1,1,MERGED
+polaris-viz,Actually setup node for GH Storybook Action,https://github.com/Shopify/polaris-viz/pull/567,2021-09-28T15:37:07Z,2021-09-28T15:40:32Z,1,1,MERGED
+polaris-viz,Add GH action to deploy,https://github.com/Shopify/polaris-viz/pull/566,2021-09-28T14:09:07Z,2021-09-28T15:28:04Z,1,1,MERGED
+polaris-viz,Better docs,https://github.com/Shopify/polaris-viz/pull/565,2021-09-27T22:07:10Z,2021-09-28T17:14:30Z,7,1,MERGED
+polaris-viz,[BarChart] Remove stray semicolons,https://github.com/Shopify/polaris-viz/pull/564,2021-09-26T15:59:39Z,2021-09-27T13:34:08Z,2,1,MERGED
+polaris-viz,Fix bar chart and scale bugs,https://github.com/Shopify/polaris-viz/pull/563,2021-09-24T20:49:46Z,2021-09-27T19:42:02Z,1,1,MERGED
+polaris-viz,Add Horizontal Bar Chart,https://github.com/Shopify/polaris-viz/pull/560,2021-09-23T15:12:52Z,2021-10-07T15:37:50Z,62,1,MERGED
+polaris-viz,Fix label measurements for numbers,https://github.com/Shopify/polaris-viz/pull/559,2021-09-22T16:56:45Z,2021-09-22T19:05:42Z,2,1,MERGED
+polaris-viz,Update stories to showcase series colors,https://github.com/Shopify/polaris-viz/pull/556,2021-09-16T18:25:45Z,2021-09-17T14:18:25Z,1,1,MERGED
+polaris-viz,Bar chart mount animation performance,https://github.com/Shopify/polaris-viz/pull/555,2021-09-16T14:37:26Z,2021-09-20T18:51:14Z,5,1,MERGED
+polaris-viz,Remove outdated stories,https://github.com/Shopify/polaris-viz/pull/554,2021-09-15T21:03:21Z,2021-09-15T21:06:25Z,1,1,MERGED
+polaris-viz,Fix date formatting in bar chart story,https://github.com/Shopify/polaris-viz/pull/553,2021-09-15T20:53:11Z,2021-09-15T20:59:57Z,1,1,MERGED
+polaris-viz,update PolarisVizProvider docs,https://github.com/Shopify/polaris-viz/pull/551,2021-09-15T18:01:37Z,2021-09-15T18:09:03Z,2,2,MERGED
+polaris-viz,Use absolute imports,https://github.com/Shopify/polaris-viz/pull/550,2021-09-15T17:42:53Z,2021-10-27T20:27:36Z,4,1,CLOSED
+polaris-viz,Fix NSB legend gradient and required data type on Legend,https://github.com/Shopify/polaris-viz/pull/541,2021-09-13T21:31:14Z,2021-09-13T21:37:22Z,1,2,MERGED
+polaris-viz,Upgrade sewing-kit to 4.0.0,https://github.com/Shopify/polaris-viz/pull/540,2021-09-13T19:59:49Z,2021-10-25T13:40:47Z,2,1,CLOSED
+polaris-viz,Remove Playground and associated code,https://github.com/Shopify/polaris-viz/pull/539,2021-09-13T18:28:37Z,2021-09-14T18:37:31Z,1,1,MERGED
+polaris-viz,Force dashed/dotted lines to theme color & remove them from series count,https://github.com/Shopify/polaris-viz/pull/537,2021-09-13T16:36:20Z,2021-09-13T19:00:41Z,4,1,MERGED
+polaris-viz,Fix gradient direction of normalized stacked bar chart,https://github.com/Shopify/polaris-viz/pull/536,2021-09-13T16:23:57Z,2021-09-13T17:12:42Z,1,1,MERGED
+polaris-viz,Properly apply gradient to Sparkbar,https://github.com/Shopify/polaris-viz/pull/535,2021-09-13T16:06:14Z,2021-09-13T18:04:10Z,2,1,MERGED
+polaris-viz,Fix bug with all 0 spark line data,https://github.com/Shopify/polaris-viz/pull/534,2021-09-10T21:17:27Z,2021-09-13T18:44:25Z,1,1,MERGED
+polaris-viz,Update pull_request_template.md,https://github.com/Shopify/polaris-viz/pull/533,2021-09-10T20:52:31Z,2021-10-20T14:58:59Z,8,5,MERGED
+polaris-viz,"Remove tslib dependency, inline tslib helpers",https://github.com/Shopify/polaris-viz/pull/532,2021-09-10T16:07:55Z,2021-09-10T19:30:19Z,2,2,MERGED
+polaris-viz,Hotfix for mask making Sparkline 0 series hard to see,https://github.com/Shopify/polaris-viz/pull/531,2021-09-09T21:37:18Z,2021-09-09T21:45:25Z,1,2,MERGED
+polaris-viz,Hide xaxis option,https://github.com/Shopify/polaris-viz/pull/530,2021-09-09T20:17:05Z,2021-09-14T19:27:30Z,1,1,MERGED
+polaris-viz,use different color for single series charts,https://github.com/Shopify/polaris-viz/pull/526,2021-09-09T15:20:06Z,2021-09-09T15:28:22Z,1,1,MERGED
+polaris-viz,Revert polaris-viz/pull/511,https://github.com/Shopify/polaris-viz/pull/525,2021-09-08T20:25:32Z,2021-09-08T20:37:37Z,1,1,MERGED
+polaris-viz,Fix default sparkbar color,https://github.com/Shopify/polaris-viz/pull/524,2021-09-08T20:10:13Z,2021-09-08T20:14:44Z,1,1,MERGED
+polaris-viz,Revert #511 and fix animation issue,https://github.com/Shopify/polaris-viz/pull/523,2021-09-08T20:08:52Z,2021-09-08T20:26:00Z,3,1,CLOSED
+polaris-viz,Enabling Shopify Build Pipeline: polaris-viz-storybook,https://github.com/Shopify/polaris-viz/pull/522,2021-09-08T19:33:25Z,2022-09-19T14:31:51Z,14,2,CLOSED
+polaris-viz,Render bars above lines,https://github.com/Shopify/polaris-viz/pull/520,2021-09-08T17:58:56Z,2021-09-08T18:14:35Z,1,2,MERGED
+polaris-viz,"Remove theme values passed into Chart, always use useTheme",https://github.com/Shopify/polaris-viz/pull/519,2021-09-08T17:27:26Z,2021-09-14T14:19:27Z,9,1,MERGED
+polaris-viz,[Line Chart] Allow prop to configure hiding xAxis labels,https://github.com/Shopify/polaris-viz/pull/518,2021-09-08T14:54:56Z,2021-09-08T15:15:10Z,1,1,MERGED
+polaris-viz,Align all yAxis labels right by default,https://github.com/Shopify/polaris-viz/pull/516,2021-09-07T19:42:15Z,2021-09-08T16:20:37Z,1,1,MERGED
+polaris-viz,Update typo,https://github.com/Shopify/polaris-viz/pull/515,2021-09-07T18:59:06Z,2021-09-07T19:55:20Z,1,1,MERGED
+polaris-viz,Fixes Shopify/polaris-viz/issues/508,https://github.com/Shopify/polaris-viz/pull/511,2021-09-07T17:06:02Z,2021-09-07T18:31:46Z,3,1,MERGED
+polaris-viz,Setup react-docgen-typescript and change BarChart,https://github.com/Shopify/polaris-viz/pull/510,2021-09-07T15:44:45Z,2021-10-27T20:27:10Z,3,1,CLOSED
+polaris-viz,Vertical Line Animation,https://github.com/Shopify/polaris-viz/pull/509,2021-09-07T15:08:52Z,2021-09-27T19:32:24Z,16,1,MERGED
+polaris-viz,Assume no lineStyle means solid line,https://github.com/Shopify/polaris-viz/pull/506,2021-09-02T16:45:35Z,2021-09-02T18:42:40Z,1,1,MERGED
+polaris-viz,Use types so storybook will error,https://github.com/Shopify/polaris-viz/pull/505,2021-09-01T20:40:18Z,2021-09-01T23:24:23Z,1,1,MERGED
+polaris-viz,Use series for Legend. Fix bug with non-solid lines,https://github.com/Shopify/polaris-viz/pull/504,2021-09-01T19:38:13Z,2021-09-01T20:02:29Z,1,1,MERGED
+polaris-viz,Add Light theme,https://github.com/Shopify/polaris-viz/pull/501,2021-08-31T18:52:35Z,2021-09-01T17:29:22Z,3,1,MERGED
+polaris-viz,StackedAreaChart UX Improvements,https://github.com/Shopify/polaris-viz/pull/499,2021-08-31T16:02:41Z,2021-09-09T18:33:00Z,12,1,MERGED
+polaris-viz,Add ability to override sparkbar colors,https://github.com/Shopify/polaris-viz/pull/498,2021-08-30T14:29:02Z,2021-08-30T17:30:53Z,6,1,MERGED
+polaris-viz,"Apply themes to tooltip containers, update Dark Mode colors",https://github.com/Shopify/polaris-viz/pull/497,2021-08-27T19:30:09Z,2021-08-30T14:31:14Z,1,1,MERGED
+polaris-viz,Exploration: Remove unnecessary @mixin imports,https://github.com/Shopify/polaris-viz/pull/496,2021-08-27T16:50:10Z,2021-11-02T17:37:51Z,1,1,CLOSED
+polaris-viz,Remove unused constants,https://github.com/Shopify/polaris-viz/pull/495,2021-08-27T15:49:41Z,2021-09-08T18:19:13Z,1,1,MERGED
+polaris-viz,Use default theme color for axis labels,https://github.com/Shopify/polaris-viz/pull/494,2021-08-27T15:03:38Z,2021-08-31T15:04:55Z,1,1,MERGED
+polaris-viz,"Add series colors to BarChart, Sparkbar, LineChart & SparkLine",https://github.com/Shopify/polaris-viz/pull/493,2021-08-27T14:48:37Z,2021-08-27T15:16:49Z,1,1,MERGED
+polaris-viz,Introduce themes through PolarisVizProvider,https://github.com/Shopify/polaris-viz/pull/492,2021-08-25T21:55:18Z,2021-08-27T14:42:52Z,6,1,MERGED
+polaris-viz,Introduce themes through PolarisVizProvider,https://github.com/Shopify/polaris-viz/pull/491,2021-08-25T20:18:42Z,2021-08-25T21:55:31Z,0,1,CLOSED
+polaris-viz,SeriesColors audit,https://github.com/Shopify/polaris-viz/pull/490,2021-08-25T19:33:08Z,2021-08-27T14:21:08Z,12,1,MERGED
+polaris-viz,Tweaks based on UX review: NormalizedStackedBar + Sparkline,https://github.com/Shopify/polaris-viz/pull/489,2021-08-25T16:47:18Z,2021-08-30T15:41:20Z,5,1,MERGED
+polaris-viz,theming cleanup v2,https://github.com/Shopify/polaris-viz/pull/488,2021-08-25T13:26:39Z,2021-08-25T19:37:56Z,0,2,MERGED
+polaris-viz,Theming cleanup 2,https://github.com/Shopify/polaris-viz/pull/487,2021-08-25T13:16:54Z,2021-08-25T13:18:07Z,0,52,CLOSED
+polaris-viz,Cleanup of types and docs,https://github.com/Shopify/polaris-viz/pull/484,2021-08-23T18:43:09Z,2021-08-23T20:17:37Z,4,1,MERGED
+polaris-viz,Add useWatchMedia & useCallbackRef hooks,https://github.com/Shopify/polaris-viz/pull/483,2021-08-18T22:18:28Z,2021-10-26T16:42:31Z,8,1,CLOSED
+polaris-viz,Add theming to legend,https://github.com/Shopify/polaris-viz/pull/482,2021-08-18T21:04:41Z,2021-08-23T18:25:22Z,4,2,MERGED
+polaris-viz,Add logo to storybook. #298,https://github.com/Shopify/polaris-viz/pull/481,2021-08-18T18:21:55Z,2021-08-23T17:51:26Z,1,1,MERGED
+polaris-viz,Tooltip Performance,https://github.com/Shopify/polaris-viz/pull/478,2021-08-18T15:24:25Z,2021-10-01T13:35:24Z,46,2,MERGED
+polaris-viz,Update serialize-javascript package for Dependabot,https://github.com/Shopify/polaris-viz/pull/477,2021-08-18T14:03:49Z,2021-08-19T19:34:06Z,1,1,MERGED
+polaris-viz,Upgrade dependencies,https://github.com/Shopify/polaris-viz/pull/474,2021-08-17T16:57:54Z,2021-08-17T18:19:21Z,2,14,MERGED
+polaris-viz,Update changelog,https://github.com/Shopify/polaris-viz/pull/468,2021-08-16T21:03:22Z,2021-08-16T21:10:11Z,1,1,MERGED
+polaris-viz,Add theme to StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/461,2021-08-16T15:34:27Z,2021-08-23T14:54:20Z,29,1,MERGED
+polaris-viz,Add theming to normalized stacked bar chart,https://github.com/Shopify/polaris-viz/pull/460,2021-08-16T14:27:59Z,2021-08-18T19:49:11Z,3,1,MERGED
+polaris-viz,Count comparison data in Sparkbar scale,https://github.com/Shopify/polaris-viz/pull/459,2021-08-11T01:26:13Z,2021-08-11T13:36:06Z,1,1,MERGED
+polaris-viz,Theming linechart,https://github.com/Shopify/polaris-viz/pull/456,2021-08-09T20:53:07Z,2021-08-16T20:28:22Z,10,1,MERGED
+polaris-viz,Prevent TooltipContainer from blocking chart elements,https://github.com/Shopify/polaris-viz/pull/455,2021-08-04T16:55:51Z,2021-09-14T18:37:40Z,9,1,MERGED
+polaris-viz,Add xmlns and specific height/width values to svgs,https://github.com/Shopify/polaris-viz/pull/453,2021-08-03T18:30:51Z,2021-08-16T14:31:03Z,4,1,MERGED
+polaris-viz,Force print preview to show background colors,https://github.com/Shopify/polaris-viz/pull/452,2021-08-03T15:19:15Z,2021-08-03T15:52:41Z,2,1,MERGED
+polaris-viz,Add Donut chart,https://github.com/Shopify/polaris-viz/pull/451,2021-08-03T00:25:18Z,2021-08-04T15:57:37Z,14,1,CLOSED
+polaris-viz,Filter down ticks based on chart size,https://github.com/Shopify/polaris-viz/pull/765,2021-12-15T20:59:55Z,2021-12-20T13:41:47Z,3,1,MERGED
+polaris-viz,Remove tooltip when no child elements have focus,https://github.com/Shopify/polaris-viz/pull/764,2021-12-15T20:27:02Z,2021-12-20T13:49:12Z,3,1,MERGED
+polaris-viz,Add ChartContainer to SimpleNormalizedChart,https://github.com/Shopify/polaris-viz/pull/763,2021-12-15T19:54:50Z,2022-01-04T15:23:41Z,2,1,MERGED
+polaris-viz,Fix tooltip position for bar charts,https://github.com/Shopify/polaris-viz/pull/762,2021-12-15T19:39:01Z,2021-12-20T13:56:11Z,2,1,MERGED
+polaris-viz,Allow data with only comparison to render,https://github.com/Shopify/polaris-viz/pull/761,2021-12-13T20:59:01Z,2021-12-20T13:57:26Z,3,2,MERGED
+polaris-viz,Replace theme.line.dottedStrokeColor by theme.seriesColors.comparison,https://github.com/Shopify/polaris-viz/pull/759,2021-12-10T19:28:22Z,2021-12-13T17:59:57Z,1,1,MERGED
+polaris-viz,M3: Changes from web upgrade,https://github.com/Shopify/polaris-viz/pull/758,2021-12-10T18:11:17Z,2021-12-13T15:27:27Z,1,3,MERGED
+polaris-viz,Document DataSeries and DataPoint,https://github.com/Shopify/polaris-viz/pull/757,2021-12-09T21:19:54Z,2021-12-13T18:17:20Z,3,1,MERGED
+polaris-viz,Remove LegacyDataSeries,https://github.com/Shopify/polaris-viz/pull/756,2021-12-06T20:48:58Z,2021-12-07T13:51:23Z,1,1,MERGED
+polaris-viz,M3: Update docs to reflect new BarChart component,https://github.com/Shopify/polaris-viz/pull/755,2021-12-03T16:51:29Z,2021-12-07T18:00:21Z,3,1,MERGED
+polaris-viz,Move SkipLink and renderTooltipContent to main BarChart component,https://github.com/Shopify/polaris-viz/pull/754,2021-12-02T18:48:41Z,2021-12-02T20:12:03Z,1,1,MERGED
+polaris-viz,M3: Add annotations to Bar Charts,https://github.com/Shopify/polaris-viz/pull/753,2021-12-02T18:17:56Z,2021-12-06T15:50:37Z,4,1,MERGED
+polaris-viz,M3: Add BarChart that renders Vertical or Horizontal charts,https://github.com/Shopify/polaris-viz/pull/751,2021-12-01T21:51:24Z,2021-12-06T16:32:15Z,3,6,MERGED
+polaris-viz,apply position relative to the chart container,https://github.com/Shopify/polaris-viz/pull/747,2021-12-01T19:22:55Z,2021-12-01T19:28:40Z,1,1,MERGED
+polaris-viz,"remove PolarisVizProvider docs, in favour of Themes docs",https://github.com/Shopify/polaris-viz/pull/746,2021-12-01T18:31:35Z,2021-12-01T19:15:58Z,1,1,MERGED
+polaris-viz,Don't include comparison items in series color count,https://github.com/Shopify/polaris-viz/pull/745,2021-11-30T21:33:20Z,2021-12-01T19:04:03Z,3,1,MERGED
+polaris-viz,Add missing documentation,https://github.com/Shopify/polaris-viz/pull/744,2021-11-30T20:14:27Z,2021-12-01T19:03:54Z,1,1,MERGED
+polaris-viz,M3: Rename MultiSeriesBarChart to BarChart,https://github.com/Shopify/polaris-viz/pull/741,2021-11-30T17:41:04Z,2021-12-06T18:00:48Z,1,8,MERGED
+polaris-viz,M3: Remove BarChart,https://github.com/Shopify/polaris-viz/pull/740,2021-11-30T16:45:25Z,2021-12-01T21:49:01Z,1,1,MERGED
+polaris-viz,Feature: Component Rename Milestone 3,https://github.com/Shopify/polaris-viz/pull/739,2021-11-29T20:27:09Z,2021-12-07T18:44:10Z,1,1,MERGED
+polaris-viz,M3: Use DataSeries in LineChart,https://github.com/Shopify/polaris-viz/pull/738,2021-11-29T20:07:35Z,2021-12-06T20:21:34Z,2,1,MERGED
+polaris-viz,M3: Use DataSeries in StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/737,2021-11-29T17:37:10Z,2021-11-29T20:26:04Z,1,1,MERGED
+polaris-viz,Cleanup listeners correctly,https://github.com/Shopify/polaris-viz/pull/736,2021-11-26T23:36:33Z,2021-11-27T00:24:07Z,1,2,MERGED
+polaris-viz,Made nonSafari code more resilient in `usePrintResizing`,https://github.com/Shopify/polaris-viz/pull/735,2021-11-26T22:17:31Z,2021-11-26T22:36:31Z,9,1,MERGED
+polaris-viz,Prevents error when series are removed on `HorizontalBarChart` component,https://github.com/Shopify/polaris-viz/pull/734,2021-11-26T19:14:16Z,2021-11-26T19:28:20Z,2,1,MERGED
+polaris-viz,"M2: Don't format data, use real DataSeries",https://github.com/Shopify/polaris-viz/pull/733,2021-11-25T16:37:58Z,2021-11-30T19:56:03Z,8,2,MERGED
+polaris-viz,Add unique id to stop chart colors from clashing,https://github.com/Shopify/polaris-viz/pull/732,2021-11-22T22:18:25Z,2021-11-22T22:27:16Z,1,1,MERGED
+polaris-viz,Truncate group labels,https://github.com/Shopify/polaris-viz/pull/731,2021-11-22T20:22:02Z,2021-11-22T20:58:40Z,1,1,MERGED
+polaris-viz,Feature: Component Rename Milestone 2,https://github.com/Shopify/polaris-viz/pull/729,2021-11-22T15:30:12Z,2021-12-01T19:42:04Z,1,1,MERGED
+polaris-viz,Use average gradient color intead of first color in the gradient ( Areas on LineChart ) ,https://github.com/Shopify/polaris-viz/pull/728,2021-11-19T20:59:17Z,2021-11-25T21:04:18Z,2,1,MERGED
+polaris-viz,"fix transitions, remove isFirstRender, rely on initial",https://github.com/Shopify/polaris-viz/pull/727,2021-11-19T17:41:36Z,2021-11-22T18:19:37Z,1,2,CLOSED
+polaris-viz,M2: Rename NormalizedStackedBarChart to SimpleNormalizedChart,https://github.com/Shopify/polaris-viz/pull/726,2021-11-19T15:42:43Z,2021-11-30T19:43:09Z,3,2,MERGED
+polaris-viz,Spike: Format data for SimpleBarChart & HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/723,2021-11-18T15:52:40Z,2021-11-19T15:46:21Z,2,1,CLOSED
+polaris-viz,Use ChartContainer in SparkLineChart,https://github.com/Shopify/polaris-viz/pull/721,2021-11-17T16:13:36Z,2021-11-19T00:38:21Z,4,1,MERGED
+polaris-viz,Use ChartContainer in SparkBarChart,https://github.com/Shopify/polaris-viz/pull/720,2021-11-17T15:57:59Z,2021-11-19T15:15:07Z,2,2,MERGED
+polaris-viz,M2: Extract SimpleBarChart from HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/717,2021-11-16T20:36:54Z,2021-11-29T17:42:41Z,3,1,MERGED
+polaris-viz,Re-order storybook nav,https://github.com/Shopify/polaris-viz/pull/705,2021-11-16T18:30:21Z,2021-11-16T19:31:06Z,1,1,MERGED
+polaris-viz,Update CONTRIBUTING doc with Spin steps,https://github.com/Shopify/polaris-viz/pull/704,2021-11-16T17:02:29Z,2021-11-16T17:06:46Z,2,1,CLOSED
+polaris-viz,Update SparkChart docs,https://github.com/Shopify/polaris-viz/pull/703,2021-11-15T21:12:44Z,2021-11-16T17:11:26Z,1,1,MERGED
+polaris-viz,Add migration guide to CHANGELOG,https://github.com/Shopify/polaris-viz/pull/702,2021-11-15T16:14:10Z,2021-11-15T19:43:07Z,1,1,MERGED
+polaris-viz,Feature: Component Rename Milestone 1,https://github.com/Shopify/polaris-viz/pull/701,2021-11-15T15:45:26Z,2021-11-29T16:57:04Z,4,1,MERGED
+polaris-viz,Add overflow handling to area chart,https://github.com/Shopify/polaris-viz/pull/700,2021-11-12T21:28:09Z,2021-11-15T16:40:25Z,1,2,MERGED
+polaris-viz,SparkLineChart: Use new DataSeries type,https://github.com/Shopify/polaris-viz/pull/699,2021-11-12T18:36:31Z,2021-11-15T19:55:04Z,4,1,MERGED
+polaris-viz,Use new DataSeries type in theme series colors hooks,https://github.com/Shopify/polaris-viz/pull/698,2021-11-12T17:56:04Z,2021-11-15T19:39:04Z,2,1,MERGED
+polaris-viz,Add renderTooltipContent prop,https://github.com/Shopify/polaris-viz/pull/696,2021-11-10T21:30:43Z,2021-11-12T16:44:07Z,5,1,MERGED
+polaris-viz,Add print theme overwrite,https://github.com/Shopify/polaris-viz/pull/691,2021-11-10T17:16:21Z,2021-11-11T15:08:47Z,7,1,MERGED
+polaris-viz,Rename Sparkline to SparkLineChart,https://github.com/Shopify/polaris-viz/pull/690,2021-11-10T17:05:43Z,2021-11-15T19:47:13Z,1,1,MERGED
+polaris-viz,Use new DataSeries in SparkBarChart,https://github.com/Shopify/polaris-viz/pull/688,2021-11-10T16:45:34Z,2021-11-15T20:38:17Z,4,1,MERGED
+polaris-viz,Chart container deduplication,https://github.com/Shopify/polaris-viz/pull/687,2021-11-10T16:23:13Z,2021-11-10T17:26:49Z,4,1,MERGED
+polaris-viz,Rename Sparkbar to SparkBarChart,https://github.com/Shopify/polaris-viz/pull/685,2021-11-09T21:35:20Z,2021-11-10T16:01:10Z,1,1,MERGED
+polaris-viz,"Throwing this away, ignore it.",https://github.com/Shopify/polaris-viz/pull/683,2021-11-09T21:05:21Z,2021-11-09T21:09:32Z,0,1,CLOSED
+polaris-viz,Add new data structure to types,https://github.com/Shopify/polaris-viz/pull/682,2021-11-09T20:22:31Z,2021-11-10T16:12:27Z,2,1,MERGED
+polaris-viz,Round corners for Stacked bar types,https://github.com/Shopify/polaris-viz/pull/680,2021-11-09T18:42:19Z,2021-11-15T17:37:26Z,5,1,MERGED
+polaris-viz,"Use light mode for print, using context",https://github.com/Shopify/polaris-viz/pull/678,2021-11-08T21:33:14Z,2021-11-10T17:23:48Z,2,1,CLOSED
+polaris-viz,Respect 'Reduced Motion' setting,https://github.com/Shopify/polaris-viz/pull/669,2021-11-08T19:28:05Z,2021-11-15T15:41:37Z,1,2,MERGED
+polaris-viz,Print friendly colors,https://github.com/Shopify/polaris-viz/pull/664,2021-11-08T17:43:30Z,2021-11-08T22:00:40Z,3,2,CLOSED
+polaris-viz,Take into account word wrapping when measuring height,https://github.com/Shopify/polaris-viz/pull/663,2021-11-02T14:56:38Z,2021-11-02T15:05:33Z,1,1,MERGED
+polaris-viz,Use usePrintResizing inside HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/662,2021-11-01T19:14:36Z,2021-11-04T13:56:03Z,9,1,MERGED
+polaris-viz,Move all child components into their own folder,https://github.com/Shopify/polaris-viz/pull/661,2021-11-01T15:07:40Z,2021-11-02T14:51:16Z,1,1,MERGED
+polaris-viz,Chartcontainer revisit,https://github.com/Shopify/polaris-viz/pull/992,2022-03-31T21:21:37Z,2022-04-12T20:00:13Z,5,5,MERGED
+polaris-viz,Mixed Chart POC,https://github.com/Shopify/polaris-viz/pull/991,2022-03-31T16:48:02Z,2022-06-28T18:50:24Z,0,4,CLOSED
+polaris-viz,Docs update,https://github.com/Shopify/polaris-viz/pull/990,2022-03-29T20:02:24Z,2022-03-31T15:03:20Z,3,2,MERGED
+polaris-viz,Upgrade `loom-build-library-extended`,https://github.com/Shopify/polaris-viz/pull/982,2022-03-24T19:47:53Z,2022-03-24T20:20:22Z,3,3,MERGED
+polaris-viz,Updates `react-spring` packages to `9.2.6`,https://github.com/Shopify/polaris-viz/pull/978,2022-03-22T18:52:37Z,2022-03-23T19:19:15Z,1,3,MERGED
+polaris-viz,Fix docs issue,https://github.com/Shopify/polaris-viz/pull/977,2022-03-22T18:52:30Z,2022-03-24T15:20:33Z,1,1,MERGED
+polaris-viz,Changes `build-consumer` script to always copy `polaris-viz-core`,https://github.com/Shopify/polaris-viz/pull/976,2022-03-21T18:50:21Z,2022-03-24T15:16:48Z,1,1,MERGED
+polaris-viz,Add padding theme value,https://github.com/Shopify/polaris-viz/pull/966,2022-03-15T19:16:57Z,2022-03-17T18:54:29Z,5,1,MERGED
+polaris-viz,optional themes on providers,https://github.com/Shopify/polaris-viz/pull/965,2022-03-14T21:11:47Z,2022-03-14T21:33:30Z,1,1,MERGED
+polaris-viz,Fix `build-consumer` command,https://github.com/Shopify/polaris-viz/pull/964,2022-03-14T19:42:34Z,2022-03-18T18:20:54Z,2,2,MERGED
+polaris-viz,Adds `shipit.beta-test.yml` to alloow shipping of beta releases,https://github.com/Shopify/polaris-viz/pull/963,2022-03-14T19:25:56Z,2022-03-15T19:32:00Z,1,1,MERGED
+polaris-viz,"Clean up duplicated types, centralize shared types in core",https://github.com/Shopify/polaris-viz/pull/961,2022-03-14T17:51:05Z,2022-03-14T19:45:13Z,1,2,MERGED
+polaris-viz,Monorepo/nail polish docs,https://github.com/Shopify/polaris-viz/pull/957,2022-03-11T20:29:50Z,2022-03-14T14:14:47Z,2,1,MERGED
+polaris-viz,[Monorepo] Fix path to types in `polaris-viz` package,https://github.com/Shopify/polaris-viz/pull/953,2022-03-11T19:27:06Z,2022-03-11T19:50:40Z,2,1,MERGED
+polaris-viz,Changes all references from `master` to `main`,https://github.com/Shopify/polaris-viz/pull/950,2022-03-11T02:43:27Z,2022-03-11T03:29:59Z,2,1,MERGED
+polaris-viz,Include createThemes in the utilities page,https://github.com/Shopify/polaris-viz/pull/949,2022-03-10T20:48:17Z,2022-03-10T20:54:37Z,2,1,MERGED
+polaris-viz,Labels: Add documentation,https://github.com/Shopify/polaris-viz/pull/948,2022-03-10T19:46:35Z,2022-03-16T14:55:53Z,9,2,MERGED
+polaris-viz,[Monorepo] Add `1.0.0` release information to changelog,https://github.com/Shopify/polaris-viz/pull/946,2022-03-10T17:14:26Z,2022-03-11T19:16:59Z,8,5,MERGED
+polaris-viz,Labels: Drop labels for large data sets,https://github.com/Shopify/polaris-viz/pull/945,2022-03-10T16:22:04Z,2022-03-14T14:10:28Z,6,2,MERGED
+polaris-viz,Remove duplication from PV Core,https://github.com/Shopify/polaris-viz/pull/941,2022-03-08T23:27:34Z,2022-03-09T15:30:23Z,2,1,MERGED
+polaris-viz,Labels: Tests,https://github.com/Shopify/polaris-viz/pull/940,2022-03-08T20:51:17Z,2022-03-17T18:40:08Z,13,3,MERGED
+polaris-viz,"Improve core docs, hide playground on production storybook",https://github.com/Shopify/polaris-viz/pull/939,2022-03-08T18:40:48Z,2022-03-09T15:24:32Z,3,3,MERGED
+polaris-viz,Explicit exports from core package,https://github.com/Shopify/polaris-viz/pull/937,2022-03-07T19:31:25Z,2022-03-07T21:31:11Z,2,2,MERGED
+polaris-viz,Add labels to HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/936,2022-03-07T17:23:56Z,2022-03-10T18:44:15Z,7,2,MERGED
+polaris-viz,Labels: LineChart & StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/935,2022-03-04T16:42:34Z,2022-03-09T16:33:19Z,15,4,MERGED
+polaris-viz,Feature: Truncated xAxis Labels,https://github.com/Shopify/polaris-viz/pull/934,2022-03-04T16:40:47Z,2022-03-28T18:41:22Z,7,1,MERGED
+polaris-viz,[Monorepo] Add `@quilted/testing-library` to allow proper testing of react native components,https://github.com/Shopify/polaris-viz/pull/933,2022-03-04T16:30:16Z,2022-03-10T16:24:02Z,10,3,MERGED
+polaris-viz,Fix overlapping label on simple normalized chart and update docs,https://github.com/Shopify/polaris-viz/pull/932,2022-03-04T15:47:20Z,2022-03-08T17:15:25Z,1,2,MERGED
+polaris-viz,"Update README, rename Essentials to Shared",https://github.com/Shopify/polaris-viz/pull/930,2022-03-03T23:01:15Z,2022-03-04T17:18:30Z,13,1,MERGED
+polaris-viz,Add native Sparkbar,https://github.com/Shopify/polaris-viz/pull/926,2022-03-03T00:58:03Z,2022-03-04T18:54:41Z,6,1,MERGED
+polaris-viz,[Monorepo] Improve DX,https://github.com/Shopify/polaris-viz/pull/919,2022-02-24T20:23:33Z,2022-03-01T15:03:13Z,9,14,MERGED
+polaris-viz,"write tests for LineSeries and PolarisVizProvider, remove unused hook",https://github.com/Shopify/polaris-viz/pull/915,2022-02-22T23:39:09Z,2022-02-23T16:37:32Z,9,1,MERGED
+polaris-viz,Fix empty data line chart,https://github.com/Shopify/polaris-viz/pull/914,2022-02-22T23:08:00Z,2022-02-25T14:51:29Z,5,1,MERGED
+polaris-viz,Remove outline on horizontal bars,https://github.com/Shopify/polaris-viz/pull/912,2022-02-22T18:58:01Z,2022-02-22T21:18:25Z,1,1,MERGED
+polaris-viz,Updated Legend docs to reflect new changes,https://github.com/Shopify/polaris-viz/pull/911,2022-02-22T17:29:19Z,2022-02-23T16:08:46Z,2,2,MERGED
+polaris-viz,[Monorepo] QOL improvements,https://github.com/Shopify/polaris-viz/pull/898,2022-02-22T15:51:08Z,2022-02-24T20:09:35Z,15,12,MERGED
+polaris-viz,Squash and rebase polaris-viz-native branch,https://github.com/Shopify/polaris-viz/pull/896,2022-02-21T20:07:08Z,2022-03-11T21:18:41Z,7,1,MERGED
+polaris-viz,Fix wrong index used for bars,https://github.com/Shopify/polaris-viz/pull/893,2022-02-18T16:23:04Z,2022-02-18T20:15:09Z,1,1,MERGED
+polaris-viz,Revert initial opacity value,https://github.com/Shopify/polaris-viz/pull/892,2022-02-18T16:16:14Z,2022-02-18T16:33:20Z,1,1,MERGED
+polaris-viz,Jsonschema powered component example,https://github.com/Shopify/polaris-viz/pull/889,2022-02-17T19:08:02Z,2022-12-09T15:22:26Z,1,1,CLOSED
+polaris-viz,[Monorepo] Fix references to `PolarisVizProvider` in `polaris-viz` package.,https://github.com/Shopify/polaris-viz/pull/886,2022-02-16T15:42:56Z,2022-02-16T20:24:37Z,4,6,MERGED
+polaris-viz,Always reset bar state if index is -1,https://github.com/Shopify/polaris-viz/pull/885,2022-02-16T15:40:43Z,2022-02-16T16:13:19Z,1,1,MERGED
+polaris-viz,Remove outline on StackedArea,https://github.com/Shopify/polaris-viz/pull/884,2022-02-16T15:31:17Z,2022-02-16T16:02:02Z,5,1,MERGED
+polaris-viz,Allow roundness of sparkbar corners to be set by theme,https://github.com/Shopify/polaris-viz/pull/882,2022-02-16T15:04:11Z,2022-02-16T22:12:23Z,2,1,MERGED
+polaris-viz,fix broken legend image in readme,https://github.com/Shopify/polaris-viz/pull/878,2022-02-15T22:40:43Z,2022-02-15T22:50:07Z,1,1,MERGED
+polaris-viz,"Revert ""Switch issue action to approved GH action""",https://github.com/Shopify/polaris-viz/pull/877,2022-02-15T19:13:26Z,2022-02-15T19:16:41Z,1,1,MERGED
+polaris-viz,Switch issue action to approved GH action,https://github.com/Shopify/polaris-viz/pull/875,2022-02-15T18:57:41Z,2022-02-15T19:10:45Z,4,1,MERGED
+polaris-viz,Labels: Vertical Bar Chart,https://github.com/Shopify/polaris-viz/pull/873,2022-02-15T18:29:55Z,2022-03-04T16:40:22Z,46,1,MERGED
+polaris-viz,use platform specific usePrefersReducedMotion hooks,https://github.com/Shopify/polaris-viz/pull/872,2022-02-15T15:30:59Z,2022-02-16T21:48:07Z,3,3,MERGED
+polaris-viz,Have ChartContainer auto-calculate size based on container,https://github.com/Shopify/polaris-viz/pull/870,2022-02-14T22:32:52Z,2022-02-15T22:08:25Z,4,2,MERGED
+polaris-viz,Self hosted containers,https://github.com/Shopify/polaris-viz/pull/869,2022-02-14T20:52:43Z,2022-08-26T15:42:28Z,1,25,CLOSED
+polaris-viz,Ghaction changes,https://github.com/Shopify/polaris-viz/pull/868,2022-02-14T20:47:58Z,2022-02-17T15:24:07Z,1,2,CLOSED
+polaris-viz,[Monorepo] Fix tests,https://github.com/Shopify/polaris-viz/pull/867,2022-02-10T21:15:10Z,2022-02-15T20:56:03Z,3,6,MERGED
+polaris-viz,Automatically supply native SVG components when using `@shopify/polaris-viz-native`,https://github.com/Shopify/polaris-viz/pull/866,2022-02-10T20:50:25Z,2022-02-11T21:29:33Z,8,17,MERGED
+polaris-viz,Introduces PolarisVizProvider component mapping,https://github.com/Shopify/polaris-viz/pull/864,2022-02-10T17:28:41Z,2022-02-10T18:19:12Z,1,2,MERGED
+polaris-viz,Add Legends documentation,https://github.com/Shopify/polaris-viz/pull/863,2022-02-09T19:47:18Z,2022-02-10T19:30:40Z,2,2,MERGED
+polaris-viz,Shrink unused points,https://github.com/Shopify/polaris-viz/pull/861,2022-02-09T18:41:41Z,2022-02-09T20:02:31Z,1,1,MERGED
+polaris-viz,Add interactions fot SimpleNormalizedChart,https://github.com/Shopify/polaris-viz/pull/860,2022-02-09T18:24:35Z,2022-02-09T18:39:25Z,0,1,MERGED
+polaris-viz,"Simplify test setup, create root test folder",https://github.com/Shopify/polaris-viz/pull/859,2022-02-09T03:41:13Z,2022-02-09T19:16:48Z,6,3,MERGED
+polaris-viz,Remove expo dependency,https://github.com/Shopify/polaris-viz/pull/856,2022-02-08T19:42:19Z,2022-02-08T21:02:20Z,4,3,MERGED
+polaris-viz,Add color vision interactions to SimpleBarChart,https://github.com/Shopify/polaris-viz/pull/855,2022-02-08T19:29:53Z,2022-02-08T20:36:41Z,1,1,MERGED
+polaris-viz,"Fixing tests, add missing dependencies, test setup files",https://github.com/Shopify/polaris-viz/pull/853,2022-02-08T19:05:12Z,2022-02-08T19:41:50Z,0,4,MERGED
+polaris-viz,Remove debounced groups. Resize hit areas,https://github.com/Shopify/polaris-viz/pull/852,2022-02-08T19:04:20Z,2022-02-08T20:36:16Z,1,1,MERGED
+polaris-viz,"Clean up re-exports, smaller improvement to monorepo setup",https://github.com/Shopify/polaris-viz/pull/850,2022-02-08T15:48:41Z,2022-02-08T18:43:24Z,4,6,MERGED
+polaris-viz,Hide points when hovering other poitns,https://github.com/Shopify/polaris-viz/pull/849,2022-02-07T19:43:28Z,2022-02-08T19:32:08Z,1,1,MERGED
+polaris-viz,Highlight active group labels,https://github.com/Shopify/polaris-viz/pull/848,2022-02-07T17:42:57Z,2022-02-08T15:59:44Z,4,1,CLOSED
+polaris-viz,Rename to Color Vision,https://github.com/Shopify/polaris-viz/pull/847,2022-02-07T17:35:30Z,2022-02-08T15:34:03Z,1,1,MERGED
+polaris-viz,Fix rendering bug with bar mask,https://github.com/Shopify/polaris-viz/pull/845,2022-02-07T17:27:19Z,2022-02-07T22:07:32Z,1,1,MERGED
+polaris-viz,Color Vision Accessibility ,https://github.com/Shopify/polaris-viz/pull/844,2022-02-07T17:23:38Z,2022-02-11T15:45:35Z,4,1,MERGED
+polaris-viz,Disable events for single data points,https://github.com/Shopify/polaris-viz/pull/843,2022-02-07T17:01:28Z,2022-02-08T20:41:34Z,1,1,MERGED
+polaris-viz,Debounce events to reduce flashing,https://github.com/Shopify/polaris-viz/pull/842,2022-02-07T16:52:44Z,2022-02-07T22:07:24Z,2,1,MERGED
+polaris-viz,update docs,https://github.com/Shopify/polaris-viz/pull/841,2022-02-04T20:06:45Z,2022-02-11T15:15:52Z,6,10,MERGED
+polaris-viz,Add Legends to LineChart,https://github.com/Shopify/polaris-viz/pull/839,2022-02-04T14:30:41Z,2022-02-04T15:00:18Z,0,1,MERGED
+polaris-viz,Add Legends to HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/838,2022-02-04T13:38:27Z,2022-02-04T14:59:49Z,0,1,MERGED
+polaris-viz,Add react-native SparkBarChart,https://github.com/Shopify/polaris-viz/pull/831,2022-02-03T19:10:26Z,2022-03-31T15:30:11Z,0,1,CLOSED
+polaris-viz,Add Legends component,https://github.com/Shopify/polaris-viz/pull/830,2022-02-03T17:34:02Z,2022-02-07T19:41:40Z,18,4,MERGED
+polaris-viz,Animate sparkline,https://github.com/Shopify/polaris-viz/pull/829,2022-02-02T22:17:26Z,2022-02-11T15:05:26Z,4,9,MERGED
+polaris-viz,Document core utilities,https://github.com/Shopify/polaris-viz/pull/828,2022-02-02T19:30:26Z,2022-02-15T22:07:46Z,4,3,MERGED
+polaris-viz,Use context to access native flag,https://github.com/Shopify/polaris-viz/pull/825,2022-02-02T16:57:36Z,2022-02-04T02:09:07Z,2,3,MERGED
+polaris-viz,Native sparkline,https://github.com/Shopify/polaris-viz/pull/823,2022-02-01T18:54:33Z,2022-02-01T19:37:03Z,12,10,MERGED
+polaris-viz,CBA11y: Add color blind events to StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/822,2022-01-31T21:25:16Z,2022-02-04T15:14:47Z,2,2,MERGED
+polaris-viz,CBA11y: Add color blind events to LineChart,https://github.com/Shopify/polaris-viz/pull/821,2022-01-31T20:59:32Z,2022-02-01T19:50:13Z,2,2,MERGED
+polaris-viz,CBA11y: Add color blind events to HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/820,2022-01-31T20:21:33Z,2022-02-03T19:53:51Z,4,2,MERGED
+polaris-viz,"Optimize packages, verify correct builds, remove errors",https://github.com/Shopify/polaris-viz/pull/819,2022-01-31T18:39:55Z,2022-02-03T20:04:17Z,22,12,MERGED
+polaris-viz,CBA11y: Add events to VerticalBarChart,https://github.com/Shopify/polaris-viz/pull/816,2022-01-26T19:09:55Z,2022-01-31T17:37:30Z,3,4,MERGED
+polaris-viz,CBA11y: Add events to Stacked VerticalBartChart,https://github.com/Shopify/polaris-viz/pull/815,2022-01-26T19:09:30Z,2022-01-31T17:37:20Z,1,2,MERGED
+polaris-viz,Rename packages to `@shopify/polaris-viz-x`,https://github.com/Shopify/polaris-viz/pull/813,2022-01-26T15:44:15Z,2022-01-26T16:53:36Z,2,1,MERGED
+polaris-viz,extract PolarisVizProvider from polaris-viz to core,https://github.com/Shopify/polaris-viz/pull/810,2022-01-25T19:46:29Z,2022-01-26T19:50:21Z,1,4,MERGED
+polaris-viz,Add a11y color blind hooks,https://github.com/Shopify/polaris-viz/pull/809,2022-01-25T17:32:36Z,2022-01-25T21:41:45Z,7,1,MERGED
+polaris-viz,Basic loom setup,https://github.com/Shopify/polaris-viz/pull/803,2022-01-25T15:12:32Z,2022-01-25T21:46:44Z,12,1,MERGED
+polaris-viz,Extract global constants,https://github.com/Shopify/polaris-viz/pull/801,2022-01-24T21:37:11Z,2022-01-26T17:52:06Z,3,11,MERGED
+polaris-viz,Multiple packages folders,https://github.com/Shopify/polaris-viz/pull/797,2022-01-24T18:58:14Z,2022-01-24T21:15:47Z,1,2,MERGED
+polaris-viz,Fix bug where chart re-animates on every data change,https://github.com/Shopify/polaris-viz/pull/790,2022-01-20T16:00:29Z,2022-01-20T20:12:35Z,2,1,MERGED
+polaris-viz,Fix broken links on docs intro page,https://github.com/Shopify/polaris-viz/pull/789,2022-01-19T18:47:11Z,2022-01-19T19:56:09Z,1,1,MERGED
+polaris-viz,Fix opacity not applying to area correctly,https://github.com/Shopify/polaris-viz/pull/788,2022-01-18T17:46:09Z,2022-01-20T19:59:46Z,1,1,MERGED
+polaris-viz,POC: Add interactions to individual elements.,https://github.com/Shopify/polaris-viz/pull/786,2022-01-18T15:53:39Z,2022-01-25T18:25:59Z,7,4,CLOSED
+polaris-viz,prevent tooltip from being placed outside chart vertically,https://github.com/Shopify/polaris-viz/pull/785,2022-01-17T23:10:18Z,2022-01-18T18:35:48Z,1,1,MERGED
+polaris-viz,Fix firefox normalized chart print bug,https://github.com/Shopify/polaris-viz/pull/784,2022-01-17T19:05:46Z,2022-01-18T18:38:27Z,2,2,MERGED
+polaris-viz,Adds conditionals to fix `HorizontalBars` crashing when a data item gets removed,https://github.com/Shopify/polaris-viz/pull/783,2022-01-14T02:52:06Z,2022-01-14T15:23:16Z,2,1,MERGED
+polaris-viz,document print support,https://github.com/Shopify/polaris-viz/pull/782,2022-01-13T17:59:59Z,2022-01-17T18:17:05Z,5,1,MERGED
+polaris-viz,Animate StackedAreaChart items in from bottom,https://github.com/Shopify/polaris-viz/pull/780,2022-01-13T15:25:31Z,2022-01-17T15:24:34Z,11,2,MERGED
+polaris-viz,Render negative values correctly in stacked HBC,https://github.com/Shopify/polaris-viz/pull/779,2022-01-12T20:09:37Z,2022-01-31T15:15:10Z,8,3,MERGED
+polaris-viz,"allow custom print themes, export print theme",https://github.com/Shopify/polaris-viz/pull/777,2022-01-10T21:18:31Z,2022-01-13T18:18:28Z,2,1,MERGED
+polaris-viz,Upgrade storybook to 6.4.10,https://github.com/Shopify/polaris-viz/pull/776,2022-01-10T16:18:27Z,2022-04-13T19:02:29Z,1,1,CLOSED
+polaris-viz,auto add issue to project,https://github.com/Shopify/polaris-viz/pull/771,2022-01-07T16:39:55Z,2022-01-07T16:43:20Z,1,1,CLOSED
+polaris-viz,0.28.X Bug Bash Fixes,https://github.com/Shopify/polaris-viz/pull/769,2022-01-05T14:15:09Z,2022-01-06T19:48:39Z,1,2,MERGED
+polaris-viz,Evenly space out tooltip items,https://github.com/Shopify/polaris-viz/pull/768,2022-01-04T18:56:48Z,2022-01-04T20:07:51Z,2,1,MERGED
+polaris-viz,@juggle/resize-observer is now a dependency,https://github.com/Shopify/polaris-viz/pull/1165,2022-05-31T19:15:38Z,2022-06-06T19:13:37Z,2,1,MERGED
+polaris-viz,Standardize ignored components,https://github.com/Shopify/polaris-viz/pull/1161,2022-05-30T18:28:08Z,2022-05-30T19:48:04Z,1,3,MERGED
+polaris-viz,Add missing a11y and screen-reader support,https://github.com/Shopify/polaris-viz/pull/1160,2022-05-30T18:22:25Z,2022-06-06T15:50:32Z,1,6,MERGED
+polaris-viz,Automate chart and subcomponents standard props and types,https://github.com/Shopify/polaris-viz/pull/1159,2022-05-30T13:54:25Z,2022-05-30T17:28:03Z,9,4,MERGED
+polaris-viz,Add color vision tutorial/playground,https://github.com/Shopify/polaris-viz/pull/1157,2022-05-27T15:45:52Z,2022-09-20T16:44:26Z,2,2,MERGED
+polaris-viz,initial render of legends,https://github.com/Shopify/polaris-viz/pull/1155,2022-05-27T13:22:34Z,2022-06-13T20:21:19Z,3,3,MERGED
+polaris-viz,Make theme optional for consumer components,https://github.com/Shopify/polaris-viz/pull/1154,2022-05-27T02:30:49Z,2022-05-27T14:18:09Z,2,1,MERGED
+polaris-viz,Account for series with no series.data items,https://github.com/Shopify/polaris-viz/pull/1153,2022-05-26T18:24:33Z,2022-05-26T20:40:00Z,2,2,MERGED
+polaris-viz,use ChartProps type and DEFAULT_CHART_PROPS on all charts,https://github.com/Shopify/polaris-viz/pull/1150,2022-05-25T17:28:27Z,2022-05-25T18:02:22Z,2,2,MERGED
+polaris-viz,Update react spring,https://github.com/Shopify/polaris-viz/pull/1149,2022-05-25T15:20:32Z,2022-05-26T17:42:57Z,1,2,MERGED
+polaris-viz,Adds label formatter to donut chart,https://github.com/Shopify/polaris-viz/pull/1147,2022-05-24T19:20:42Z,2022-05-26T19:09:44Z,3,3,MERGED
+polaris-viz,Tweak nub spacing & line height,https://github.com/Shopify/polaris-viz/pull/1146,2022-05-24T18:28:36Z,2022-05-30T18:12:55Z,2,2,MERGED
+polaris-viz,Adds comparisonMetric to donut chart,https://github.com/Shopify/polaris-viz/pull/1144,2022-05-24T16:39:55Z,2022-06-06T14:34:16Z,5,14,MERGED
+polaris-viz,Slope connector,https://github.com/Shopify/polaris-viz/pull/1141,2022-05-24T13:19:18Z,2022-05-24T14:12:08Z,5,2,MERGED
+polaris-viz,Remove tooltipData from annotations,https://github.com/Shopify/polaris-viz/pull/1140,2022-05-20T19:46:50Z,2022-05-24T14:14:39Z,1,1,MERGED
+polaris-viz,Feature: Annotations,https://github.com/Shopify/polaris-viz/pull/1139,2022-05-20T19:20:19Z,2022-06-20T18:40:59Z,1,2,MERGED
+polaris-viz,use `print-color-adjust` instead of `color-adjust` ,https://github.com/Shopify/polaris-viz/pull/1135,2022-05-20T14:12:46Z,2022-05-24T18:31:43Z,3,3,MERGED
+polaris-viz,Add @storybook/addon-a11y package,https://github.com/Shopify/polaris-viz/pull/1134,2022-05-20T13:01:46Z,2022-05-20T14:23:51Z,2,1,MERGED
+polaris-viz,Document FunnelChart,https://github.com/Shopify/polaris-viz/pull/1133,2022-05-19T23:40:53Z,2022-05-20T14:28:44Z,1,1,MERGED
+polaris-viz,a11y improvements on funnel chart,https://github.com/Shopify/polaris-viz/pull/1132,2022-05-19T22:29:17Z,2022-05-20T13:47:36Z,7,2,MERGED
+polaris-viz,Isolate x-axis arrows to funnel chart only,https://github.com/Shopify/polaris-viz/pull/1121,2022-05-19T19:03:59Z,2022-05-19T20:03:54Z,1,1,MERGED
+polaris-viz,Revert tooltips change from PR #1030,https://github.com/Shopify/polaris-viz/pull/1113,2022-05-19T16:35:21Z,2022-05-19T16:55:01Z,1,2,MERGED
+polaris-viz,export ChartSkeleton and ChartState,https://github.com/Shopify/polaris-viz/pull/1112,2022-05-19T15:10:35Z,2022-05-19T15:31:22Z,1,1,MERGED
+polaris-viz,Make theme required for non-root components,https://github.com/Shopify/polaris-viz/pull/1111,2022-05-19T14:47:36Z,2022-05-20T16:16:02Z,2,1,MERGED
+polaris-viz,adds ConicGradientWithStops to core and implements  in DonutChart,https://github.com/Shopify/polaris-viz/pull/1109,2022-05-19T14:09:37Z,2022-05-24T13:52:33Z,6,5,MERGED
+polaris-viz,Use bounding box for measurement,https://github.com/Shopify/polaris-viz/pull/1107,2022-05-19T12:33:29Z,2022-05-19T17:19:58Z,3,2,MERGED
+polaris-viz,Fix label spacing on funnel chart,https://github.com/Shopify/polaris-viz/pull/1104,2022-05-18T14:31:43Z,2022-05-20T16:16:53Z,3,1,MERGED
+polaris-viz,Display dots on bars,https://github.com/Shopify/polaris-viz/pull/1103,2022-05-17T20:05:16Z,2022-05-18T20:12:24Z,4,1,CLOSED
+polaris-viz,Add a11y to funnel chart,https://github.com/Shopify/polaris-viz/pull/1102,2022-05-17T14:32:50Z,2022-05-20T13:48:07Z,2,1,CLOSED
+polaris-viz,Make sure all styles of the chart come from the Theme,https://github.com/Shopify/polaris-viz/pull/1099,2022-05-13T13:51:21Z,2022-05-18T20:18:17Z,3,1,MERGED
+polaris-viz,Add line.showArea value to theme,https://github.com/Shopify/polaris-viz/pull/1098,2022-05-13T12:43:28Z,2022-05-17T14:48:09Z,1,1,MERGED
+polaris-viz,Measure the container with vanilla JS on mount,https://github.com/Shopify/polaris-viz/pull/1097,2022-05-13T12:04:58Z,2022-06-21T16:45:24Z,7,1,MERGED
+polaris-viz,Add content data shape,https://github.com/Shopify/polaris-viz/pull/1096,2022-05-12T18:56:03Z,2022-05-24T17:32:45Z,3,2,MERGED
+polaris-viz,Only show 3 lines of annotations intially,https://github.com/Shopify/polaris-viz/pull/1089,2022-05-12T13:54:40Z,2022-05-25T14:25:22Z,4,3,MERGED
+polaris-viz,Initial rendering of annotations,https://github.com/Shopify/polaris-viz/pull/1083,2022-05-11T17:20:28Z,2022-05-20T19:19:40Z,12,1,MERGED
+polaris-viz,Use correct length for xScale,https://github.com/Shopify/polaris-viz/pull/1081,2022-05-10T15:00:56Z,2022-05-17T14:28:29Z,1,1,MERGED
+polaris-viz,Upgrade typescript to 4.6.4,https://github.com/Shopify/polaris-viz/pull/1080,2022-05-10T14:51:15Z,2022-05-17T14:28:08Z,1,1,MERGED
+polaris-viz,Uses `sparkArea` and `hasPoint` theme settings in SparkLineChart,https://github.com/Shopify/polaris-viz/pull/1076,2022-05-06T20:54:05Z,2022-05-10T15:56:04Z,1,1,CLOSED
+polaris-viz,Use chart skeleton on charts,https://github.com/Shopify/polaris-viz/pull/1075,2022-05-06T18:52:04Z,2022-05-18T14:01:37Z,1,7,MERGED
+polaris-viz,Charts loading skeleton,https://github.com/Shopify/polaris-viz/pull/1074,2022-05-06T15:48:41Z,2022-05-06T18:34:56Z,3,5,MERGED
+polaris-viz,adds arc theme and applies cornerRadius from theme,https://github.com/Shopify/polaris-viz/pull/1073,2022-05-06T04:09:23Z,2022-05-16T15:26:41Z,6,3,MERGED
+polaris-viz,Extract and document utilities,https://github.com/Shopify/polaris-viz/pull/1064,2022-05-03T21:19:03Z,2022-05-04T14:35:33Z,5,5,MERGED
+polaris-viz,Adds DonutChart,https://github.com/Shopify/polaris-viz/pull/1062,2022-05-03T19:11:23Z,2022-06-16T21:46:10Z,2,79,CLOSED
+polaris-viz,Changes to copied DonutChart,https://github.com/Shopify/polaris-viz/pull/1061,2022-05-03T19:08:51Z,2022-05-05T14:44:42Z,3,5,MERGED
+polaris-viz,adds percents between bars,https://github.com/Shopify/polaris-viz/pull/1060,2022-05-03T14:57:12Z,2022-05-12T14:46:30Z,10,8,MERGED
+polaris-viz,Create VerticalBarSeries for core,https://github.com/Shopify/polaris-viz/pull/1047,2022-04-26T18:16:56Z,2022-05-03T18:41:24Z,5,2,MERGED
+polaris-viz,Add X-Axis Arrows to Funnel Chart,https://github.com/Shopify/polaris-viz/pull/1046,2022-04-26T14:37:36Z,2022-05-17T14:49:34Z,6,1,MERGED
+polaris-viz,fixes missing themes prop in storybook docs,https://github.com/Shopify/polaris-viz/pull/1045,2022-04-25T21:09:53Z,2022-04-25T21:29:13Z,1,2,MERGED
+polaris-viz,Consume single SparkBarSeries in SparkBars,https://github.com/Shopify/polaris-viz/pull/1044,2022-04-25T20:16:22Z,2022-05-03T17:48:37Z,1,1,MERGED
+polaris-viz,Change roundedBorder to borderRadius,https://github.com/Shopify/polaris-viz/pull/1043,2022-04-25T15:46:54Z,2022-04-26T19:28:28Z,3,1,MERGED
+polaris-viz,Consume LineSeries for all Line based charts,https://github.com/Shopify/polaris-viz/pull/1042,2022-04-22T15:58:47Z,2022-04-25T17:47:36Z,3,2,MERGED
+polaris-viz,adds legend.backgroundColor to theme definition and updates examples,https://github.com/Shopify/polaris-viz/pull/1041,2022-04-22T04:28:29Z,2022-04-22T19:50:55Z,6,4,MERGED
+polaris-viz,adds background color property to legend theme,https://github.com/Shopify/polaris-viz/pull/1039,2022-04-20T17:35:59Z,2022-04-22T04:32:57Z,3,3,CLOSED
+polaris-viz,Add x axis labels,https://github.com/Shopify/polaris-viz/pull/1038,2022-04-20T14:41:44Z,2022-05-04T19:28:34Z,12,1,MERGED
+polaris-viz,Rename all dash-case to camelCase,https://github.com/Shopify/polaris-viz/pull/1037,2022-04-20T01:39:04Z,2022-04-20T17:08:14Z,1,1,MERGED
+polaris-viz,Remove useXScale hook from StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/1036,2022-04-19T20:55:10Z,2022-04-20T17:15:15Z,2,1,MERGED
+polaris-viz,Displays data values above bars,https://github.com/Shopify/polaris-viz/pull/1035,2022-04-19T14:28:49Z,2022-05-06T16:14:41Z,15,2,MERGED
+polaris-viz,Export tooltip types,https://github.com/Shopify/polaris-viz/pull/1034,2022-04-18T20:05:04Z,2022-04-18T20:08:45Z,1,1,MERGED
+polaris-viz,Add Connector component to display between bars,https://github.com/Shopify/polaris-viz/pull/1032,2022-04-18T17:55:09Z,2022-05-03T18:18:27Z,4,1,MERGED
+polaris-viz,Adds bar component to funnelchart,https://github.com/Shopify/polaris-viz/pull/1031,2022-04-18T15:55:56Z,2022-04-29T15:25:20Z,15,1,MERGED
+polaris-viz,Always position tooltip near top of chart,https://github.com/Shopify/polaris-viz/pull/1030,2022-04-18T15:11:53Z,2022-04-20T17:27:03Z,3,1,MERGED
+polaris-viz,Consolidate all use-y-scale hooks into a single hook,https://github.com/Shopify/polaris-viz/pull/1026,2022-04-15T13:10:07Z,2022-04-20T18:02:34Z,2,1,MERGED
+polaris-viz,Introduce FunnelChart,https://github.com/Shopify/polaris-viz/pull/1024,2022-04-14T14:44:50Z,2022-05-24T15:00:50Z,2,16,MERGED
+polaris-viz,Docs/Stories cleanup and rearrange,https://github.com/Shopify/polaris-viz/pull/1014,2022-04-13T15:51:54Z,2022-05-24T16:11:15Z,2,3,CLOSED
+polaris-viz,Unify Tooltips,https://github.com/Shopify/polaris-viz/pull/1013,2022-04-06T14:38:19Z,2022-04-18T13:01:47Z,18,5,MERGED
+polaris-viz,Remove xAxisLabels and inherit from DataSeries,https://github.com/Shopify/polaris-viz/pull/1012,2022-04-05T18:42:11Z,2022-04-11T18:49:37Z,21,1,MERGED
+polaris-viz,Remove DOM based text measuring,https://github.com/Shopify/polaris-viz/pull/1005,2022-04-01T20:06:35Z,2022-04-11T18:34:32Z,3,2,MERGED
+polaris-viz,Add visual tests for SparkCharts,https://github.com/Shopify/polaris-viz/pull/1315,2022-07-29T16:47:55Z,2022-08-11T02:03:32Z,2,2,MERGED
+polaris-viz,Add visual tests for all data scenerios,https://github.com/Shopify/polaris-viz/pull/1314,2022-07-28T21:40:05Z,2022-08-03T15:51:41Z,2,2,MERGED
+polaris-viz,updates sample data to be time series,https://github.com/Shopify/polaris-viz/pull/1313,2022-07-28T21:36:28Z,2022-07-29T15:22:26Z,2,1,MERGED
+polaris-viz,adds tests for getHoverZoneOffset,https://github.com/Shopify/polaris-viz/pull/1312,2022-07-27T17:49:38Z,2022-07-29T15:21:10Z,3,1,MERGED
+polaris-viz,Unify chart element spacing logic,https://github.com/Shopify/polaris-viz/pull/1311,2022-07-27T17:44:02Z,2022-07-28T21:41:14Z,3,4,MERGED
+polaris-viz,adds zero line for simple stacked horizontal chart,https://github.com/Shopify/polaris-viz/pull/1310,2022-07-26T16:44:42Z,2022-07-29T15:20:23Z,5,1,MERGED
+polaris-viz,Improve interaction performance for large data sets,https://github.com/Shopify/polaris-viz/pull/1298,2022-07-25T15:41:16Z,2022-07-29T15:16:24Z,3,2,MERGED
+polaris-viz,adds chart error boundary to ChartContainer,https://github.com/Shopify/polaris-viz/pull/1297,2022-07-22T17:53:07Z,2022-07-26T20:19:05Z,2,5,MERGED
+polaris-viz,Animate LineChart data changes,https://github.com/Shopify/polaris-viz/pull/1296,2022-07-22T16:59:03Z,2022-07-26T13:32:31Z,8,1,MERGED
+polaris-viz,Respect shouldAnimate value in Bar,https://github.com/Shopify/polaris-viz/pull/1295,2022-07-21T19:09:57Z,2022-07-25T19:01:52Z,2,1,MERGED
+polaris-viz,Automated visual tests,https://github.com/Shopify/polaris-viz/pull/1293,2022-07-20T20:49:40Z,2022-07-27T21:38:52Z,2,3,MERGED
+polaris-viz,Apply horizontalMargin to yAxis,https://github.com/Shopify/polaris-viz/pull/1291,2022-07-20T18:55:00Z,2022-07-20T20:51:08Z,2,1,MERGED
+polaris-viz,Combo: Render Annotations ,https://github.com/Shopify/polaris-viz/pull/1290,2022-07-20T17:37:29Z,2022-07-26T14:34:11Z,3,2,MERGED
+polaris-viz,bars are not displayed when passed value is null or missing,https://github.com/Shopify/polaris-viz/pull/1289,2022-07-20T15:59:56Z,2022-07-21T18:28:05Z,7,1,MERGED
+polaris-viz,Remove top margin from altered tooltip height,https://github.com/Shopify/polaris-viz/pull/1287,2022-07-20T14:52:03Z,2022-07-20T15:27:23Z,2,1,MERGED
+polaris-viz,Combo: Render axis labels on ComboChart,https://github.com/Shopify/polaris-viz/pull/1286,2022-07-19T21:27:45Z,2022-07-26T15:12:43Z,5,1,MERGED
+polaris-viz,Bump use-debounce to 8.0.2,https://github.com/Shopify/polaris-viz/pull/1285,2022-07-19T16:24:46Z,2022-09-19T14:11:06Z,3,1,MERGED
+polaris-viz,fixes cut off labels for line chart and bar chart,https://github.com/Shopify/polaris-viz/pull/1284,2022-07-18T21:19:46Z,2022-07-19T14:32:56Z,2,1,MERGED
+polaris-viz,Don't run chromatic on dependabot PRs,https://github.com/Shopify/polaris-viz/pull/1283,2022-07-18T18:03:46Z,2022-07-18T18:21:08Z,2,1,MERGED
+polaris-viz,label series start with 1,https://github.com/Shopify/polaris-viz/pull/1282,2022-07-18T17:05:12Z,2022-07-18T18:20:59Z,2,1,MERGED
+polaris-viz,increases hover target zone for vertical and horizontal charts,https://github.com/Shopify/polaris-viz/pull/1281,2022-07-18T16:49:09Z,2022-07-26T19:52:16Z,7,1,MERGED
+polaris-viz,Disable animations for large data sets,https://github.com/Shopify/polaris-viz/pull/1279,2022-07-13T21:25:44Z,2022-07-18T15:22:29Z,9,3,MERGED
+polaris-viz,migrates the Aplha Experiences docs into Storybook,https://github.com/Shopify/polaris-viz/pull/1272,2022-07-12T03:38:13Z,2022-07-13T14:14:18Z,4,2,MERGED
+polaris-viz,Add conditional to avoid `getAriaLabel` breaking when `data` prop changes,https://github.com/Shopify/polaris-viz/pull/1271,2022-07-08T17:33:38Z,2022-07-18T14:33:08Z,4,6,MERGED
+polaris-viz,Throttle tooltip,https://github.com/Shopify/polaris-viz/pull/1270,2022-07-08T16:13:25Z,2022-07-29T15:11:01Z,1,2,CLOSED
+polaris-viz,fix donut skeleton animation; place donut skeleton inside wrapper don…,https://github.com/Shopify/polaris-viz/pull/1269,2022-07-08T15:45:39Z,2022-07-08T17:46:48Z,3,1,MERGED
+polaris-viz,Allow yAxis annotations to stack,https://github.com/Shopify/polaris-viz/pull/1267,2022-07-07T17:59:43Z,2022-07-11T14:09:19Z,2,1,MERGED
+polaris-viz,Fix a11y issues reported by storybook,https://github.com/Shopify/polaris-viz/pull/1266,2022-07-07T16:08:11Z,2022-08-26T15:39:29Z,4,1,CLOSED
+polaris-viz,Add yAxis Annotations to LineChart & StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/1264,2022-07-07T15:43:14Z,2022-07-07T18:05:48Z,2,1,MERGED
+polaris-viz,Use theme in chart context instead of prop drilling,https://github.com/Shopify/polaris-viz/pull/1261,2022-07-06T18:59:41Z,2022-07-21T14:35:17Z,7,1,MERGED
+polaris-viz,Use correct colors in AnnotationContent,https://github.com/Shopify/polaris-viz/pull/1260,2022-07-06T18:25:10Z,2022-07-06T18:52:40Z,1,1,MERGED
+polaris-viz,Zero values consistency,https://github.com/Shopify/polaris-viz/pull/1258,2022-07-06T17:23:54Z,2022-07-12T16:04:23Z,13,1,MERGED
+polaris-viz,Allow chromatic to fail and not block builds,https://github.com/Shopify/polaris-viz/pull/1257,2022-07-06T14:44:29Z,2022-07-06T14:57:06Z,1,2,MERGED
+polaris-viz,HorizontalBarChart Annotations,https://github.com/Shopify/polaris-viz/pull/1254,2022-07-05T17:44:06Z,2022-07-06T14:19:50Z,2,1,MERGED
+polaris-viz,fixes build error,https://github.com/Shopify/polaris-viz/pull/1252,2022-07-04T17:06:07Z,2022-07-04T17:10:54Z,1,1,CLOSED
+polaris-viz,fixes build error,https://github.com/Shopify/polaris-viz/pull/1251,2022-06-30T20:53:44Z,2022-07-05T14:18:39Z,1,1,MERGED
+polaris-viz,Adds legend direction and positioning to the DonutChart,https://github.com/Shopify/polaris-viz/pull/1250,2022-06-30T19:57:01Z,2022-07-08T19:55:20Z,5,13,MERGED
+polaris-viz,Add loading and error states to Donut Chart,https://github.com/Shopify/polaris-viz/pull/1249,2022-06-30T18:06:31Z,2022-07-07T14:24:14Z,6,1,MERGED
+polaris-viz,fixes funnelChart labels in Safari,https://github.com/Shopify/polaris-viz/pull/1248,2022-06-30T17:08:24Z,2022-07-05T19:31:11Z,1,1,MERGED
+polaris-viz,Post chromatic URL in comment,https://github.com/Shopify/polaris-viz/pull/1247,2022-06-30T15:46:06Z,2022-06-30T18:08:33Z,2,1,MERGED
+polaris-viz,Fix SimpleBarChart labels on Safari,https://github.com/Shopify/polaris-viz/pull/1246,2022-06-30T13:43:31Z,2022-06-30T17:38:49Z,2,1,MERGED
+polaris-viz,displays annotations on LineChart,https://github.com/Shopify/polaris-viz/pull/1245,2022-06-29T20:00:27Z,2022-06-30T20:32:51Z,3,1,MERGED
+polaris-viz,Line chart annotations,https://github.com/Shopify/polaris-viz/pull/1244,2022-06-29T19:54:21Z,2022-06-29T19:59:18Z,0,4,CLOSED
+polaris-viz,Setting up chromatic,https://github.com/Shopify/polaris-viz/pull/1243,2022-06-29T16:36:08Z,2022-06-30T14:15:24Z,17,2,MERGED
+polaris-viz,Fix typo breaking build,https://github.com/Shopify/polaris-viz/pull/1242,2022-06-29T16:13:57Z,2022-06-29T16:32:54Z,1,2,MERGED
+polaris-viz,Add yAxis annotations,https://github.com/Shopify/polaris-viz/pull/1241,2022-06-28T20:03:03Z,2022-06-30T18:09:18Z,4,1,MERGED
+polaris-viz,Render annotations in StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/1240,2022-06-28T19:23:02Z,2022-06-29T15:15:12Z,2,1,MERGED
+polaris-viz,adds links to all charts,https://github.com/Shopify/polaris-viz/pull/1238,2022-06-27T21:39:03Z,2022-06-30T20:34:15Z,6,2,MERGED
+polaris-viz,Combo: Round secondary scale to nice number,https://github.com/Shopify/polaris-viz/pull/1237,2022-06-27T20:10:13Z,2022-06-28T14:20:51Z,0,1,MERGED
+polaris-viz,Fix delay calculation,https://github.com/Shopify/polaris-viz/pull/1234,2022-06-27T14:15:14Z,2022-06-27T17:01:56Z,1,1,MERGED
+polaris-viz,Prefers reduced motion,https://github.com/Shopify/polaris-viz/pull/1232,2022-06-23T20:38:31Z,2022-07-05T19:54:42Z,5,1,MERGED
+polaris-viz,Format tooltips,https://github.com/Shopify/polaris-viz/pull/1231,2022-06-23T20:17:15Z,2022-06-23T20:32:59Z,2,2,MERGED
+polaris-viz,Combo: Enable color vision events,https://github.com/Shopify/polaris-viz/pull/1230,2022-06-23T20:00:20Z,2022-06-27T20:05:09Z,1,2,MERGED
+polaris-viz,Align Line and Bars in ComboChart,https://github.com/Shopify/polaris-viz/pull/1229,2022-06-23T17:20:43Z,2022-06-23T18:13:01Z,0,1,MERGED
+polaris-viz,Allow series in LineChart that don't extend the full length of the chart,https://github.com/Shopify/polaris-viz/pull/1228,2022-06-23T16:14:37Z,2022-06-23T19:42:13Z,1,4,MERGED
+polaris-viz,Adds vertical direction support to Legend,https://github.com/Shopify/polaris-viz/pull/1227,2022-06-23T14:59:21Z,2022-06-28T18:48:26Z,5,9,MERGED
+polaris-viz,Combo: Render legends,https://github.com/Shopify/polaris-viz/pull/1226,2022-06-22T19:46:34Z,2022-06-23T18:14:24Z,0,1,MERGED
+polaris-viz,Combo: Render Tooltip,https://github.com/Shopify/polaris-viz/pull/1224,2022-06-22T16:47:50Z,2022-06-23T18:05:14Z,1,1,MERGED
+polaris-viz,updates docs for clamp,https://github.com/Shopify/polaris-viz/pull/1222,2022-06-21T16:56:46Z,2022-06-27T18:35:47Z,1,1,MERGED
+polaris-viz,updates docs,https://github.com/Shopify/polaris-viz/pull/1221,2022-06-21T15:27:09Z,2022-06-21T16:03:47Z,1,1,MERGED
+polaris-viz,Combo: Unify XAxisLabels components,https://github.com/Shopify/polaris-viz/pull/1220,2022-06-20T18:31:07Z,2022-06-20T19:42:12Z,2,1,MERGED
+polaris-viz,Combo: LineChart,https://github.com/Shopify/polaris-viz/pull/1219,2022-06-20T17:54:34Z,2022-06-22T18:29:56Z,2,1,MERGED
+polaris-viz,Donut animation loading/data change animations,https://github.com/Shopify/polaris-viz/pull/1213,2022-06-20T14:22:57Z,2022-06-20T16:50:16Z,3,4,MERGED
+polaris-viz,Add empty state to simple normalized chart,https://github.com/Shopify/polaris-viz/pull/1212,2022-06-17T20:19:54Z,2022-06-22T20:28:22Z,6,1,MERGED
+polaris-viz,implements DonutChart,https://github.com/Shopify/polaris-viz/pull/1210,2022-06-16T21:45:06Z,2022-06-17T17:09:51Z,1,7,MERGED
+polaris-viz,adds tests to DonutChart,https://github.com/Shopify/polaris-viz/pull/1209,2022-06-16T21:38:14Z,2022-06-17T16:21:40Z,5,4,MERGED
+polaris-viz,Auditing docs,https://github.com/Shopify/polaris-viz/pull/1208,2022-06-16T19:37:15Z,2022-06-27T18:34:29Z,9,1,MERGED
+polaris-viz,Adds tests and accessibility to the DonutChart,https://github.com/Shopify/polaris-viz/pull/1206,2022-06-16T17:45:46Z,2022-06-16T21:46:43Z,1,8,CLOSED
+polaris-viz,Fix cropped y axis,https://github.com/Shopify/polaris-viz/pull/1205,2022-06-16T17:43:44Z,2022-06-17T18:01:33Z,1,2,MERGED
+polaris-viz,Fix line series cropping,https://github.com/Shopify/polaris-viz/pull/1204,2022-06-16T16:57:18Z,2022-06-17T17:59:55Z,3,2,MERGED
+polaris-viz,Update storybook docs,https://github.com/Shopify/polaris-viz/pull/1203,2022-06-16T14:25:21Z,2022-06-17T18:02:28Z,2,2,MERGED
+polaris-viz,Combo: Render BarChart,https://github.com/Shopify/polaris-viz/pull/1201,2022-06-15T18:33:47Z,2022-06-20T17:55:31Z,1,2,MERGED
+polaris-viz,useLegend hook accepts dataGroup interface,https://github.com/Shopify/polaris-viz/pull/1199,2022-06-15T00:07:37Z,2022-06-21T14:41:47Z,4,3,MERGED
+polaris-viz,Combo: Render xAxis labels,https://github.com/Shopify/polaris-viz/pull/1198,2022-06-14T20:39:37Z,2022-06-20T17:55:33Z,2,1,MERGED
+polaris-viz,Feature: ComboChart,https://github.com/Shopify/polaris-viz/pull/1197,2022-06-14T18:24:50Z,2022-07-07T14:11:00Z,1,2,MERGED
+polaris-viz,Combo: Dual Axis Logic,https://github.com/Shopify/polaris-viz/pull/1195,2022-06-13T20:00:01Z,2022-06-14T18:24:18Z,9,3,MERGED
+polaris-viz,fixes typos in docs,https://github.com/Shopify/polaris-viz/pull/1187,2022-06-09T16:48:26Z,2022-06-09T17:48:55Z,2,1,MERGED
+polaris-viz,Don't allow tooltip to render outside chart,https://github.com/Shopify/polaris-viz/pull/1184,2022-06-08T20:44:10Z,2022-06-09T15:10:12Z,2,1,MERGED
+polaris-viz,Toggle show/hide all annotations,https://github.com/Shopify/polaris-viz/pull/1182,2022-06-07T18:12:43Z,2022-06-10T14:30:08Z,5,2,MERGED
+polaris-viz,Change annotation data to use keys instead of indexes,https://github.com/Shopify/polaris-viz/pull/1180,2022-06-07T15:19:29Z,2022-06-07T16:44:02Z,1,1,MERGED
+polaris-viz,documents createCSSConicGradient. updates donut storybook,https://github.com/Shopify/polaris-viz/pull/1179,2022-06-07T12:55:31Z,2022-06-15T18:58:36Z,3,8,MERGED
+polaris-viz,added aria-hidden to hide xAxes Labels and yAxes Labels,https://github.com/Shopify/polaris-viz/pull/1177,2022-06-06T18:14:01Z,2022-06-07T19:17:04Z,2,1,MERGED
+polaris-viz,use standard data shape in SimpleNormalizedChart allow color overwrites,https://github.com/Shopify/polaris-viz/pull/1175,2022-06-06T13:50:13Z,2022-06-06T17:51:23Z,2,1,MERGED
+polaris-viz,updated trendIndicator positive color from #039c86 to #03ab92,https://github.com/Shopify/polaris-viz/pull/1174,2022-06-03T16:24:05Z,2022-06-03T19:27:38Z,1,1,MERGED
+polaris-viz,Adds color vision to donut chart,https://github.com/Shopify/polaris-viz/pull/1173,2022-06-02T14:54:21Z,2022-06-09T19:16:49Z,2,4,MERGED
+polaris-viz,added tests for SeriesIcon component,https://github.com/Shopify/polaris-viz/pull/1170,2022-06-01T22:01:48Z,2022-06-06T15:51:56Z,5,1,MERGED
+polaris-viz,Write tests for new annotations components,https://github.com/Shopify/polaris-viz/pull/1168,2022-06-01T19:06:28Z,2022-06-13T15:34:37Z,2,1,MERGED
+polaris-viz,added value to legend,https://github.com/Shopify/polaris-viz/pull/1167,2022-06-01T18:05:15Z,2022-06-27T20:51:31Z,5,2,MERGED
+polaris-viz,Fixes accessibility issues in the line chart,https://github.com/Shopify/polaris-viz/pull/1424,2022-10-28T18:00:07Z,2022-11-01T15:48:24Z,4,1,MERGED
+polaris-viz,Add truncation to Simple Normalized Chart labels,https://github.com/Shopify/polaris-viz/pull/1417,2022-10-27T17:54:07Z,2022-11-18T15:42:51Z,6,3,MERGED
+polaris-viz,Don't inset linear labels,https://github.com/Shopify/polaris-viz/pull/1411,2022-10-27T15:20:55Z,2022-11-02T20:08:46Z,5,3,MERGED
+polaris-viz,Fix LineSeries being cut off at bottom of the chart,https://github.com/Shopify/polaris-viz/pull/1410,2022-10-26T14:49:06Z,2022-10-26T18:27:45Z,1,1,MERGED
+polaris-viz,Use dist versions of d3 when testing,https://github.com/Shopify/polaris-viz/pull/1406,2022-10-19T18:39:26Z,2022-10-20T14:26:48Z,2,1,MERGED
+polaris-viz,Set `solid` value `none` for `LineSeries` in core,https://github.com/Shopify/polaris-viz/pull/1405,2022-10-19T16:32:37Z,2022-10-19T20:00:03Z,1,1,MERGED
+polaris-viz,Update d3 packages,https://github.com/Shopify/polaris-viz/pull/1403,2022-10-17T20:43:25Z,2022-10-18T17:18:37Z,3,1,MERGED
+polaris-viz,don't render empty tooltip,https://github.com/Shopify/polaris-viz/pull/1401,2022-10-12T22:06:55Z,2022-10-14T17:35:51Z,2,2,MERGED
+polaris-viz,Account for empty tooltip data,https://github.com/Shopify/polaris-viz/pull/1398,2022-10-11T15:34:49Z,2022-10-12T16:47:02Z,4,2,MERGED
+polaris-viz,Default `width` for GroupLabel to `100%`,https://github.com/Shopify/polaris-viz/pull/1397,2022-10-06T19:19:21Z,2022-10-06T20:24:08Z,2,2,MERGED
+polaris-viz,Export OpacityScale,https://github.com/Shopify/polaris-viz/pull/1396,2022-10-04T18:35:31Z,2022-10-04T18:41:24Z,1,1,MERGED
+polaris-viz,Fix points moving away from mouse,https://github.com/Shopify/polaris-viz/pull/1395,2022-10-04T18:25:21Z,2022-10-04T19:09:23Z,2,1,MERGED
+polaris-viz,Add OpacityScale utility,https://github.com/Shopify/polaris-viz/pull/1394,2022-10-03T15:18:27Z,2022-10-03T20:09:27Z,2,3,MERGED
+polaris-viz,LineChart changes for Cohort comparisons,https://github.com/Shopify/polaris-viz/pull/1393,2022-09-30T18:04:54Z,2022-10-03T21:10:08Z,3,9,MERGED
+polaris-viz,Remove focus states from annotation elements,https://github.com/Shopify/polaris-viz/pull/1392,2022-09-26T19:58:52Z,2022-09-26T21:58:05Z,2,1,MERGED
+polaris-viz,Render dot in correct position when non-numeric keys provided,https://github.com/Shopify/polaris-viz/pull/1391,2022-09-19T13:56:49Z,2022-09-19T14:10:52Z,2,1,MERGED
+polaris-viz,Animate vertical bar path,https://github.com/Shopify/polaris-viz/pull/1388,2022-09-07T19:38:04Z,2022-09-08T15:28:58Z,2,1,MERGED
+polaris-viz,Unify spring config logic,https://github.com/Shopify/polaris-viz/pull/1387,2022-09-07T18:57:30Z,2022-09-08T02:06:28Z,1,1,MERGED
+polaris-viz,Use a single options object for useYScale,https://github.com/Shopify/polaris-viz/pull/1386,2022-09-07T17:51:04Z,2022-09-07T19:39:15Z,1,1,MERGED
+polaris-viz,Add gradient helper methods for similar logic,https://github.com/Shopify/polaris-viz/pull/1385,2022-09-07T17:24:30Z,2022-09-07T19:39:03Z,2,1,MERGED
+polaris-viz,Use unique values for stack() keys,https://github.com/Shopify/polaris-viz/pull/1384,2022-09-07T16:50:57Z,2022-09-07T20:12:36Z,2,1,MERGED
+polaris-viz,Cleanup stories and refactor the cli,https://github.com/Shopify/polaris-viz/pull/1383,2022-09-02T20:37:03Z,2022-09-07T19:38:41Z,4,1,MERGED
+polaris-viz,Add load animation to vertical stacked bar charts,https://github.com/Shopify/polaris-viz/pull/1382,2022-09-02T14:50:35Z,2022-09-02T16:56:49Z,2,1,MERGED
+polaris-viz,Cleanup unused constants and dupe .scss classes,https://github.com/Shopify/polaris-viz/pull/1381,2022-09-01T16:43:32Z,2022-09-02T14:05:55Z,2,3,MERGED
+polaris-viz,Don't render TooltipWrapper when data could be bad,https://github.com/Shopify/polaris-viz/pull/1380,2022-08-31T18:45:55Z,2022-08-31T20:55:15Z,5,2,MERGED
+polaris-viz,Fix jumping labels again,https://github.com/Shopify/polaris-viz/pull/1379,2022-08-31T16:59:08Z,2022-08-31T19:44:55Z,2,1,MERGED
+polaris-viz,Block PRs when chromatic has changes,https://github.com/Shopify/polaris-viz/pull/1378,2022-08-31T15:17:52Z,2022-08-31T19:54:24Z,1,3,MERGED
+polaris-viz,Don't inset LineSeries when labels are hidden,https://github.com/Shopify/polaris-viz/pull/1377,2022-08-31T14:56:06Z,2022-08-31T15:57:44Z,2,2,MERGED
+polaris-viz,Pass theme to ChartSkeleton,https://github.com/Shopify/polaris-viz/pull/1376,2022-08-29T15:27:40Z,2022-08-31T14:26:26Z,3,1,MERGED
+polaris-viz,Only push new versions live when a new release is made,https://github.com/Shopify/polaris-viz/pull/1375,2022-08-26T16:09:45Z,2022-08-31T19:54:33Z,2,1,MERGED
+polaris-viz,Switch to gh-pages branch for builds,https://github.com/Shopify/polaris-viz/pull/1374,2022-08-26T15:59:01Z,2022-08-31T19:54:38Z,2,1,MERGED
+polaris-viz,"Ignore me, just testing actions",https://github.com/Shopify/polaris-viz/pull/1372,2022-08-22T16:03:13Z,2022-08-22T16:09:25Z,1,1,MERGED
+polaris-viz,Replace probots-cla with github action,https://github.com/Shopify/polaris-viz/pull/1371,2022-08-22T15:55:32Z,2022-08-22T16:00:48Z,2,1,MERGED
+polaris-viz,Remove shouldSkipShopifyPrefix from project refs check,https://github.com/Shopify/polaris-viz/pull/1370,2022-08-19T22:51:33Z,2022-08-22T15:48:55Z,2,1,MERGED
+polaris-viz,Change polaris-viz.shopify.io -> .com,https://github.com/Shopify/polaris-viz/pull/1369,2022-08-19T20:08:53Z,2022-08-22T18:30:22Z,5,2,MERGED
+polaris-viz,Organize storybook stories,https://github.com/Shopify/polaris-viz/pull/1367,2022-08-18T19:30:32Z,2022-08-26T15:38:43Z,3,1,MERGED
+polaris-viz,add homepage and repository urls,https://github.com/Shopify/polaris-viz/pull/1365,2022-08-15T21:33:57Z,2022-08-26T15:39:16Z,0,1,MERGED
+polaris-viz,Include SquareColorPreview when printing,https://github.com/Shopify/polaris-viz/pull/1364,2022-08-15T16:25:23Z,2022-08-16T17:21:14Z,2,1,MERGED
+polaris-viz,Fixed wrong color being used for Point stroke,https://github.com/Shopify/polaris-viz/pull/1363,2022-08-12T18:15:46Z,2022-08-12T20:12:06Z,2,1,MERGED
+polaris-viz,Skip end word truncating for diagonal & vertical labels,https://github.com/Shopify/polaris-viz/pull/1362,2022-08-12T14:54:39Z,2022-08-12T17:41:55Z,2,1,MERGED
+polaris-viz,Position points correctly when not animated,https://github.com/Shopify/polaris-viz/pull/1361,2022-08-11T20:46:00Z,2022-08-12T14:20:24Z,3,1,MERGED
+polaris-viz,Rename chromatic file to exclude from prod,https://github.com/Shopify/polaris-viz/pull/1360,2022-08-11T19:40:04Z,2022-08-18T18:06:51Z,2,1,MERGED
+polaris-viz,Clamp large rounded corners to bar dimensions,https://github.com/Shopify/polaris-viz/pull/1359,2022-08-11T19:28:59Z,2022-08-12T14:20:35Z,3,1,MERGED
+polaris-viz,fix sparkline dot position,https://github.com/Shopify/polaris-viz/pull/1358,2022-08-10T16:53:49Z,2022-08-10T17:02:50Z,2,1,MERGED
+polaris-viz,Added ChartDimensions component and better sizing defaults,https://github.com/Shopify/polaris-viz/pull/1357,2022-08-10T14:30:29Z,2022-08-11T14:40:13Z,10,2,MERGED
+polaris-viz,properly display spark bar chart in available charts,https://github.com/Shopify/polaris-viz/pull/1356,2022-08-09T16:53:38Z,2022-08-09T18:03:48Z,2,1,MERGED
+polaris-viz,Render annotations over crosshair,https://github.com/Shopify/polaris-viz/pull/1353,2022-08-09T15:19:35Z,2022-08-10T15:09:25Z,4,1,MERGED
+polaris-viz,update readme links,https://github.com/Shopify/polaris-viz/pull/1352,2022-08-09T14:24:39Z,2022-08-09T14:55:09Z,2,1,MERGED
+polaris-viz,fix bug - display negative values for stacked horizontal chart,https://github.com/Shopify/polaris-viz/pull/1351,2022-08-08T21:27:03Z,2022-08-10T16:22:48Z,2,1,MERGED
+polaris-viz,updates storybook with all available charts,https://github.com/Shopify/polaris-viz/pull/1337,2022-08-05T21:05:33Z,2022-08-08T14:25:46Z,2,1,MERGED
+polaris-viz,Add optional theme prop to ChartSkeleton,https://github.com/Shopify/polaris-viz/pull/1336,2022-08-05T19:36:00Z,2022-08-05T19:44:08Z,1,1,MERGED
+polaris-viz,Change hasRoundedCorners to borderRadius,https://github.com/Shopify/polaris-viz/pull/1335,2022-08-05T18:12:30Z,2022-08-12T16:28:18Z,14,2,MERGED
+polaris-viz,Add xAxisOptions.allowLineWrap,https://github.com/Shopify/polaris-viz/pull/1333,2022-08-04T16:07:42Z,2022-08-08T14:01:54Z,3,2,MERGED
+polaris-viz,adjust data change animation on SimpleNormalizedChart,https://github.com/Shopify/polaris-viz/pull/1332,2022-08-04T14:22:55Z,2022-08-04T16:21:39Z,1,1,MERGED
+polaris-viz,Fix animation for horizontal bars,https://github.com/Shopify/polaris-viz/pull/1331,2022-08-03T22:01:53Z,2022-08-18T14:53:56Z,6,1,MERGED
+polaris-viz,Animate StackedArea chart,https://github.com/Shopify/polaris-viz/pull/1330,2022-08-03T21:46:14Z,2022-08-04T16:24:26Z,2,1,MERGED
+polaris-viz,Sparkcharts loading,https://github.com/Shopify/polaris-viz/pull/1329,2022-08-03T20:33:20Z,2022-08-04T14:20:38Z,2,2,MERGED
+polaris-viz,Scope group updates to individual chart,https://github.com/Shopify/polaris-viz/pull/1327,2022-08-03T19:39:59Z,2022-08-04T14:15:59Z,2,1,MERGED
+polaris-viz,SimpleBar and NormalizedChart loading,https://github.com/Shopify/polaris-viz/pull/1326,2022-08-03T18:55:29Z,2022-08-03T19:37:50Z,2,5,MERGED
+polaris-viz,adds TargetLine prop to SparkBarChart,https://github.com/Shopify/polaris-viz/pull/1325,2022-08-03T18:04:04Z,2022-08-08T14:45:33Z,4,8,MERGED
+polaris-viz,Add ColorScale utility,https://github.com/Shopify/polaris-viz/pull/1324,2022-08-03T15:16:06Z,2022-08-03T17:45:54Z,2,1,MERGED
+polaris-viz,Scope focus style to ChartContainer children,https://github.com/Shopify/polaris-viz/pull/1323,2022-08-03T14:16:07Z,2022-08-03T15:47:00Z,1,1,MERGED
+polaris-viz,Funnel loading,https://github.com/Shopify/polaris-viz/pull/1322,2022-08-03T02:06:51Z,2022-08-03T16:09:35Z,3,3,MERGED
+polaris-viz,"Documents ShopifyQL usage, makes README public,",https://github.com/Shopify/polaris-viz/pull/1321,2022-08-03T00:35:15Z,2022-08-03T16:06:01Z,2,1,MERGED
+polaris-viz,Animate funnel,https://github.com/Shopify/polaris-viz/pull/1320,2022-08-02T23:31:16Z,2022-08-03T16:06:35Z,5,2,MERGED
+polaris-viz,display zeroValueLine for negative horizontal bar chart,https://github.com/Shopify/polaris-viz/pull/1316,2022-08-01T16:55:31Z,2022-08-03T15:56:46Z,3,1,MERGED
+polaris-viz,Add `legendFullWidth` prop to `<DonutChart />`,https://github.com/Shopify/polaris-viz/pull/1457,2022-12-21T23:30:50Z,2023-01-03T16:45:26Z,1,1,MERGED
+polaris-viz,Add `renderInnerValueContent` prop to `<DonutChart />`,https://github.com/Shopify/polaris-viz/pull/1456,2022-12-21T00:21:23Z,2023-01-03T19:22:01Z,3,1,MERGED
+polaris-viz,Add pill opacity to Annotation theme,https://github.com/Shopify/polaris-viz/pull/1455,2022-12-20T17:42:36Z,2023-01-12T17:24:25Z,3,1,MERGED
+polaris-viz,Export `ColorVisionInteractionMethods` type,https://github.com/Shopify/polaris-viz/pull/1454,2022-12-16T23:41:59Z,2023-01-03T19:35:30Z,2,1,MERGED
+polaris-viz,Use flexbox instead of grid when rendering own custom legend,https://github.com/Shopify/polaris-viz/pull/1453,2022-12-16T23:19:42Z,2023-01-05T19:23:08Z,2,1,MERGED
+polaris-viz,Use correct width based on grid.horizontalOverflow value,https://github.com/Shopify/polaris-viz/pull/1451,2022-12-14T15:53:20Z,2022-12-14T19:09:23Z,1,1,MERGED
+polaris-viz,Allow ability to override `arc` in Theme,https://github.com/Shopify/polaris-viz/pull/1449,2022-12-09T01:19:34Z,2022-12-13T17:22:24Z,5,5,MERGED
+polaris-viz,Re-export ChartState from `@shopify/polaris-viz` as value instead of type,https://github.com/Shopify/polaris-viz/pull/1447,2022-11-30T22:36:51Z,2022-12-01T21:09:08Z,6,1,CLOSED
+polaris-viz,Add linear comparison tooltip,https://github.com/Shopify/polaris-viz/pull/1446,2022-11-30T20:30:01Z,2022-12-05T15:27:06Z,6,2,MERGED
+polaris-viz,Add support for custom legends,https://github.com/Shopify/polaris-viz/pull/1445,2022-11-28T21:11:00Z,2022-12-01T21:04:47Z,7,6,MERGED
+polaris-viz,Use longest matching index for bar and line charts,https://github.com/Shopify/polaris-viz/pull/1443,2022-11-28T16:14:24Z,2022-11-28T16:47:54Z,2,1,MERGED
+polaris-viz,Rita morozova/change comaprison line,https://github.com/Shopify/polaris-viz/pull/1442,2022-11-23T19:01:54Z,2022-11-28T17:34:17Z,3,1,MERGED
+polaris-viz,add focus removal class to combo line chart,https://github.com/Shopify/polaris-viz/pull/1441,2022-11-23T16:54:00Z,2022-11-28T15:45:35Z,1,1,MERGED
+polaris-viz,switch to curveMonotoneX from curveStepRounded for smoothing lines,https://github.com/Shopify/polaris-viz/pull/1438,2022-11-16T17:49:19Z,2022-12-14T19:40:40Z,8,1,CLOSED
+polaris-viz,update line stroke width for spark line chart,https://github.com/Shopify/polaris-viz/pull/1437,2022-11-14T22:20:59Z,2022-11-15T15:31:57Z,2,3,MERGED
+polaris-viz,Fix LineChart tooltip being offset from mouse,https://github.com/Shopify/polaris-viz/pull/1436,2022-11-14T22:14:38Z,2022-11-15T15:24:59Z,1,1,MERGED
+polaris-viz,Add showLegend prop to SimpleNormalizedChart,https://github.com/Shopify/polaris-viz/pull/1434,2022-11-09T18:11:09Z,2022-11-18T18:30:09Z,1,1,MERGED
+polaris-viz,Use Bar data for yScale,https://github.com/Shopify/polaris-viz/pull/1432,2022-11-09T15:44:25Z,2022-11-09T16:54:23Z,1,1,MERGED
+polaris-viz,Remove LineSeries.scss from core,https://github.com/Shopify/polaris-viz/pull/1429,2022-11-04T15:47:56Z,2022-11-04T16:21:52Z,3,1,MERGED
+polaris-viz,Move web styling out of core package,https://github.com/Shopify/polaris-viz/pull/1428,2022-11-04T15:33:00Z,2022-11-09T15:23:51Z,2,1,CLOSED
+polaris-viz,DONT MERGE: Playing around,https://github.com/Shopify/polaris-viz/pull/1516,2023-03-31T15:29:47Z,2023-04-05T16:59:31Z,1,1,CLOSED
+polaris-viz,Push active state to all tooltips,https://github.com/Shopify/polaris-viz/pull/1515,2023-03-28T18:15:14Z,2023-03-28T19:53:35Z,2,1,MERGED
+polaris-viz,Fix line being cut off on right side,https://github.com/Shopify/polaris-viz/pull/1514,2023-03-28T15:52:36Z,2023-03-28T16:06:43Z,2,1,MERGED
+polaris-viz,Merge similar render functions,https://github.com/Shopify/polaris-viz/pull/1513,2023-03-28T15:05:46Z,2023-03-28T15:17:07Z,2,1,MERGED
+polaris-viz,Fix points not rendering when no active line,https://github.com/Shopify/polaris-viz/pull/1512,2023-03-27T18:13:15Z,2023-03-28T14:07:34Z,2,2,MERGED
+polaris-viz,Don't render MissingDataArea when no data is provided,https://github.com/Shopify/polaris-viz/pull/1510,2023-03-21T15:09:15Z,2023-03-21T17:21:36Z,1,1,MERGED
+polaris-viz,Export out the utility,https://github.com/Shopify/polaris-viz/pull/1507,2023-03-13T19:11:19Z,2023-03-13T19:44:21Z,1,1,MERGED
+polaris-viz,Add relational tooltip for benchmarks,https://github.com/Shopify/polaris-viz/pull/1505,2023-03-13T15:48:59Z,2023-03-13T17:55:55Z,2,1,MERGED
+polaris-viz,Allow removable y-axis on line chart,https://github.com/Shopify/polaris-viz/pull/1502,2023-03-08T20:24:59Z,2023-06-05T15:47:24Z,1,11,CLOSED
+polaris-viz,Render missing data area,https://github.com/Shopify/polaris-viz/pull/1501,2023-03-08T19:31:26Z,2023-03-15T15:14:44Z,3,1,MERGED
+polaris-viz,Tweak TrendIndicator designs based on feedback,https://github.com/Shopify/polaris-viz/pull/1500,2023-03-07T20:00:07Z,2023-03-08T20:09:18Z,6,1,MERGED
+polaris-viz,Fix issue with size-limit node version mismatch,https://github.com/Shopify/polaris-viz/pull/1498,2023-03-07T16:14:17Z,2023-03-07T16:20:44Z,2,1,MERGED
+polaris-viz,Stop the tooltip from covering the crosshair,https://github.com/Shopify/polaris-viz/pull/1497,2023-03-06T20:42:13Z,2023-03-07T16:44:40Z,3,2,MERGED
+polaris-viz,Update size-limit to 1.7.1,https://github.com/Shopify/polaris-viz/pull/1494,2023-02-24T18:44:27Z,2023-02-24T19:15:35Z,1,3,CLOSED
+polaris-viz,Beta: Allow external events to hide/show individual LineSeries,https://github.com/Shopify/polaris-viz/pull/1493,2023-02-24T16:59:09Z,2023-03-02T19:29:49Z,3,1,MERGED
+polaris-viz,Remove `hi` from `target_languages`,https://github.com/Shopify/polaris-viz/pull/1491,2023-02-13T15:51:10Z,2023-02-13T19:15:05Z,4,1,CLOSED
+polaris-viz,Update changelog,https://github.com/Shopify/polaris-viz/pull/1487,2023-02-09T15:23:56Z,2023-02-09T15:30:33Z,1,1,MERGED
+polaris-viz,Fix bug where points with null data threw all points off,https://github.com/Shopify/polaris-viz/pull/1485,2023-02-08T22:13:42Z,2023-02-09T18:54:11Z,2,1,MERGED
+polaris-viz,Move react-testing to devDep,https://github.com/Shopify/polaris-viz/pull/1484,2023-02-08T19:11:22Z,2023-02-08T19:17:11Z,2,1,MERGED
+polaris-viz,Fix peerDependencies and move react-testing to devDeps,https://github.com/Shopify/polaris-viz/pull/1483,2023-02-08T18:40:38Z,2023-02-08T18:46:22Z,1,1,MERGED
+polaris-viz,Add TrendIndicator,https://github.com/Shopify/polaris-viz/pull/1480,2023-02-08T16:01:21Z,2023-02-17T15:39:36Z,3,1,MERGED
+polaris-viz,Update storybook to 6.5.16,https://github.com/Shopify/polaris-viz/pull/1479,2023-02-07T20:24:26Z,2023-02-08T18:16:11Z,2,1,MERGED
+polaris-viz,Update to React v18.2.0,https://github.com/Shopify/polaris-viz/pull/1478,2023-02-07T20:15:36Z,2023-02-08T18:04:49Z,2,2,MERGED
+polaris-viz,"Update React, Typescript and Storybook",https://github.com/Shopify/polaris-viz/pull/1477,2023-02-07T16:40:56Z,2023-02-07T19:09:07Z,2,4,CLOSED
+polaris-viz,Change `RenderInnerValueContent` type,https://github.com/Shopify/polaris-viz/pull/1475,2023-01-26T22:22:03Z,2023-01-30T19:28:51Z,3,1,MERGED
+polaris-viz,Benchmarks support,https://github.com/Shopify/polaris-viz/pull/1474,2023-01-26T20:14:28Z,2023-04-05T17:22:14Z,1,1,MERGED
+polaris-viz,Remove pointer-events: none from LineChart,https://github.com/Shopify/polaris-viz/pull/1473,2023-01-26T19:20:52Z,2023-01-26T19:31:57Z,2,1,MERGED
+polaris-viz,Move donut inner value to the right by 10px,https://github.com/Shopify/polaris-viz/pull/1472,2023-01-26T17:49:21Z,2023-01-26T21:14:50Z,2,1,MERGED
+polaris-viz,Clean up `<SimpleNormalizedChart />` loading state [remake],https://github.com/Shopify/polaris-viz/pull/1471,2023-01-25T23:46:54Z,2023-01-26T16:56:34Z,2,2,MERGED
+polaris-viz,Pass theme to tooltip content hooks,https://github.com/Shopify/polaris-viz/pull/1470,2023-01-25T22:29:45Z,2023-01-26T15:37:51Z,2,1,MERGED
+polaris-viz,Fix issue with annotations offset being wrong and keys be unformatted,https://github.com/Shopify/polaris-viz/pull/1469,2023-01-23T20:58:38Z,2023-01-24T15:59:38Z,2,2,MERGED
+polaris-viz,Fix line series hover events not firing,https://github.com/Shopify/polaris-viz/pull/1467,2023-01-20T19:19:08Z,2023-01-20T20:01:37Z,2,1,MERGED
+polaris-viz,Swallow Tooltip errors instead of crashing the chart,https://github.com/Shopify/polaris-viz/pull/1466,2023-01-19T21:13:33Z,2023-01-25T22:08:14Z,10,1,MERGED
+polaris-viz,[Horizontal Bar Chart] Fix label bug,https://github.com/Shopify/polaris-viz/pull/1465,2023-01-17T11:09:08Z,2023-01-17T17:02:29Z,3,1,MERGED
+polaris-viz,Allow consumers to trigger and listen to active events,https://github.com/Shopify/polaris-viz/pull/1464,2023-01-13T20:44:31Z,2023-01-30T15:48:06Z,10,1,MERGED
+polaris-viz,Clean up `<SimpleNormalizedChart />` loading state,https://github.com/Shopify/polaris-viz/pull/1463,2023-01-13T00:07:35Z,2023-01-17T16:01:20Z,3,2,MERGED
+polaris-viz,Clean up `<DonutChart />` loading and error states,https://github.com/Shopify/polaris-viz/pull/1462,2023-01-12T00:48:59Z,2023-01-16T17:09:59Z,2,2,MERGED
+polaris-viz,LineChartRelational for Benchmarks,https://github.com/Shopify/polaris-viz/pull/1461,2023-01-09T22:32:47Z,2023-01-26T20:12:55Z,4,1,MERGED
+polaris-viz,Fixed dupe key issue,https://github.com/Shopify/polaris-viz/pull/1536,2023-05-25T15:56:52Z,2023-05-25T18:13:53Z,2,1,MERGED
+polaris-viz,Add yAxisOptions to SimpleBarChart,https://github.com/Shopify/polaris-viz/pull/1534,2023-05-23T15:22:11Z,2023-05-23T15:43:48Z,2,1,MERGED
+polaris-viz,Fix ErrorText positioning in ChartSkeleton,https://github.com/Shopify/polaris-viz/pull/1533,2023-05-01T17:54:23Z,2023-05-02T21:35:03Z,1,1,MERGED
+polaris-viz,Fixed invalid DOM properties,https://github.com/Shopify/polaris-viz/pull/1532,2023-04-24T15:09:14Z,2023-04-24T15:17:30Z,2,1,MERGED
+polaris-viz,"Upgrade react-native-svg, change it to a peer dependency",https://github.com/Shopify/polaris-viz/pull/1531,2023-04-24T08:00:56Z,2023-11-29T10:56:08Z,4,2,CLOSED
+polaris-viz,[Polaris-Viz] Fix Cut-Off Commas in Funnel Chart,https://github.com/Shopify/polaris-viz/pull/1530,2023-04-21T19:54:23Z,2023-04-25T15:23:36Z,5,1,MERGED
+polaris-viz,Inline TrendIndicators,https://github.com/Shopify/polaris-viz/pull/1529,2023-04-21T19:36:00Z,2023-05-03T19:57:34Z,4,1,MERGED
+polaris-viz,Update actions/setup-node,https://github.com/Shopify/polaris-viz/pull/1528,2023-04-17T20:44:25Z,2023-04-17T20:53:07Z,1,1,MERGED
+polaris-viz,Allow MissingDataArea to render anywhere on the chart,https://github.com/Shopify/polaris-viz/pull/1527,2023-04-17T18:32:36Z,2023-04-17T21:06:56Z,2,1,MERGED
+polaris-viz,Add rename of renderLinearComparisonTooltip,https://github.com/Shopify/polaris-viz/pull/1526,2023-04-13T23:56:10Z,2023-04-14T01:27:38Z,1,1,MERGED
+polaris-viz,Fix BarChart hover zones being too short,https://github.com/Shopify/polaris-viz/pull/1525,2023-04-13T19:49:50Z,2023-04-13T20:09:13Z,2,1,MERGED
+polaris-viz,Render SparkLineChart 0 yScale at bottom of chart,https://github.com/Shopify/polaris-viz/pull/1524,2023-04-13T18:00:14Z,2024-09-06T14:27:23Z,6,1,MERGED
+polaris-viz,Update all github action packages,https://github.com/Shopify/polaris-viz/pull/1523,2023-04-12T18:01:38Z,2023-04-24T17:07:44Z,1,3,CLOSED
+polaris-viz,Use polaris tokens with a fallback,https://github.com/Shopify/polaris-viz/pull/1522,2023-04-12T17:48:23Z,2023-04-12T18:38:41Z,1,1,MERGED
+polaris-viz,Remove TrendIndicator size and background,https://github.com/Shopify/polaris-viz/pull/1521,2023-04-12T15:08:13Z,2023-04-12T15:30:49Z,2,1,MERGED
+polaris-viz,Tweak tooltip padding,https://github.com/Shopify/polaris-viz/pull/1518,2023-04-05T20:25:10Z,2023-04-06T14:45:48Z,2,1,MERGED
+polaris-viz,Make LineSeries hit area smaller. Fade out RelatedAreas more,https://github.com/Shopify/polaris-viz/pull/1517,2023-04-04T14:57:32Z,2023-04-04T17:28:19Z,2,1,MERGED
+polaris-viz,yAxis Fixed Width,https://github.com/Shopify/polaris-viz/pull/1567,2023-07-25T18:38:42Z,2023-07-26T21:57:26Z,1,1,MERGED
+polaris-viz,Fix hover zones not extending far enough in horizontal bar charts,https://github.com/Shopify/polaris-viz/pull/1566,2023-07-25T18:02:10Z,2023-07-25T19:11:34Z,2,1,MERGED
+polaris-viz,Removed outline from TrendIndicator svg,https://github.com/Shopify/polaris-viz/pull/1564,2023-07-20T01:42:00Z,2023-07-20T14:47:00Z,1,1,MERGED
+polaris-viz,Account for trend indicators with an undefined value when calculating SimpleBarChart horizontal scale,https://github.com/Shopify/polaris-viz/pull/1562,2023-07-14T21:02:37Z,2024-02-16T16:22:49Z,3,2,MERGED
+polaris-viz,Add onError prop to ErrorBoundary,https://github.com/Shopify/polaris-viz/pull/1561,2023-07-13T14:55:43Z,2023-07-13T23:07:46Z,1,1,MERGED
+polaris-viz,Fix undefined value crashing SimpleBarChart,https://github.com/Shopify/polaris-viz/pull/1560,2023-07-12T15:35:53Z,2023-07-12T15:43:42Z,2,1,MERGED
+polaris-viz,Update TrendIndicator colors,https://github.com/Shopify/polaris-viz/pull/1556,2023-07-06T14:58:40Z,2023-07-06T15:03:45Z,1,1,MERGED
+polaris-viz,Add new prop to funnel chart for helper tooltip,https://github.com/Shopify/polaris-viz/pull/1555,2023-07-05T20:24:19Z,2023-07-13T18:10:31Z,5,1,MERGED
+polaris-viz,Added ability to set default theme,https://github.com/Shopify/polaris-viz/pull/1554,2023-07-05T20:17:08Z,2023-07-06T01:34:01Z,2,1,MERGED
+polaris-viz,Uplift Series Colors,https://github.com/Shopify/polaris-viz/pull/1551,2023-06-28T18:25:07Z,2023-07-05T18:29:39Z,6,1,MERGED
+polaris-viz,Add verticalOverflow option to always round up yScale to theme,https://github.com/Shopify/polaris-viz/pull/1550,2023-06-27T18:58:13Z,2023-07-06T17:19:25Z,1,1,MERGED
+polaris-viz,Fix scale issues with labels and trend indicators in SimpleBarChart,https://github.com/Shopify/polaris-viz/pull/1549,2023-06-27T15:21:25Z,2023-07-05T12:31:00Z,6,2,MERGED
+polaris-viz,Add tabIndex to both SVG components,https://github.com/Shopify/polaris-viz/pull/1542,2023-06-14T18:04:17Z,2023-06-14T18:13:55Z,1,1,MERGED
+polaris-viz,Add legendPosition to SimpleBarChart,https://github.com/Shopify/polaris-viz/pull/1541,2023-06-14T13:56:49Z,2023-06-21T14:19:04Z,6,7,MERGED
+polaris-viz,Remove tab-index 0 from TrendIndicator svg,https://github.com/Shopify/polaris-viz/pull/1540,2023-06-13T20:17:44Z,2023-06-14T15:07:25Z,2,1,MERGED
+polaris-viz,Clamp negative widths to stop bars from rendering broken,https://github.com/Shopify/polaris-viz/pull/1539,2023-06-13T15:37:10Z,2023-06-13T19:02:31Z,2,1,MERGED
+polaris-viz,Fixed issue with labels bleeding outside of the chart,https://github.com/Shopify/polaris-viz/pull/1537,2023-06-08T14:58:12Z,2023-06-08T18:29:28Z,2,1,MERGED
+polaris-viz,Render all zero charts to left of container,https://github.com/Shopify/polaris-viz/pull/1599,2023-10-16T15:56:42Z,2023-10-17T13:59:09Z,1,1,MERGED
+polaris-viz,Changed RenderInnerValueContent type to include active index,https://github.com/Shopify/polaris-viz/pull/1597,2023-10-02T15:15:04Z,2023-10-02T16:06:05Z,2,1,MERGED
+polaris-viz,[Bug Fix]: Adjust tooltip position on StackedAreaChart when page is scrolled,https://github.com/Shopify/polaris-viz/pull/1595,2023-09-29T19:49:46Z,2023-10-17T17:39:06Z,3,1,MERGED
+polaris-viz,Remove chromatic-main as it's unnecessary,https://github.com/Shopify/polaris-viz/pull/1594,2023-09-26T18:48:56Z,2023-09-28T20:04:18Z,1,1,MERGED
+polaris-viz,Don't run chromatic task on main,https://github.com/Shopify/polaris-viz/pull/1593,2023-09-26T14:29:16Z,2023-09-26T15:59:16Z,1,1,MERGED
+polaris-viz,Run chromatic on push now that turbosnap is enabled,https://github.com/Shopify/polaris-viz/pull/1592,2023-09-26T13:52:13Z,2023-09-26T14:23:11Z,2,1,MERGED
+polaris-viz,Donut chart ux updates,https://github.com/Shopify/polaris-viz/pull/1591,2023-09-25T15:24:00Z,2023-09-26T14:13:35Z,4,1,MERGED
+polaris-viz,Fixing issues with chromatic,https://github.com/Shopify/polaris-viz/pull/1590,2023-09-25T14:34:27Z,2023-09-25T14:40:48Z,2,1,MERGED
+polaris-viz,Enable chromatic turbo and update actions,https://github.com/Shopify/polaris-viz/pull/1589,2023-09-25T13:50:52Z,2023-09-25T14:06:56Z,2,1,MERGED
+polaris-viz,Fix issue with bar with when data changes from zero values,https://github.com/Shopify/polaris-viz/pull/1588,2023-09-21T18:30:34Z,2023-09-25T15:07:10Z,1,1,MERGED
+polaris-viz,Add tooltip support for Donut Chart,https://github.com/Shopify/polaris-viz/pull/1587,2023-09-19T14:07:18Z,2025-01-31T18:34:09Z,6,1,CLOSED
+polaris-viz,Update chart dimensions to update on chart height resize,https://github.com/Shopify/polaris-viz/pull/1585,2023-09-12T13:29:25Z,2023-09-12T14:37:47Z,2,1,MERGED
+polaris-viz,Bump Polaris viz v9.10.7,https://github.com/Shopify/polaris-viz/pull/1584,2023-09-06T13:36:59Z,2023-09-06T14:40:32Z,4,1,CLOSED
+polaris-viz,UX updates for in-context MetricCards,https://github.com/Shopify/polaris-viz/pull/1583,2023-09-05T15:14:45Z,2023-09-19T14:11:04Z,3,2,MERGED
+polaris-viz,[Donut Chart] Update Styles and add data truncation,https://github.com/Shopify/polaris-viz/pull/1582,2023-08-30T15:55:38Z,2023-08-31T19:53:45Z,4,1,MERGED
+polaris-viz,Fix performant tooltips rendering at the top of the page,https://github.com/Shopify/polaris-viz/pull/1579,2023-08-23T19:31:17Z,2023-08-23T19:52:38Z,2,1,MERGED
+polaris-viz,Fix stacked area arity bug,https://github.com/Shopify/polaris-viz/pull/1578,2023-08-22T18:58:41Z,2023-08-24T14:01:42Z,5,1,MERGED
+polaris-viz,[Donut Chart] Update center to include value of hovered item,https://github.com/Shopify/polaris-viz/pull/1577,2023-08-22T18:15:34Z,2023-08-23T14:18:39Z,1,1,MERGED
+polaris-viz,[Donut Chart] Update legend to include numbers,https://github.com/Shopify/polaris-viz/pull/1576,2023-08-16T20:23:55Z,2023-10-03T14:49:58Z,2,1,CLOSED
+polaris-viz,Add React 18 setup to Polaris Viz Native,https://github.com/Shopify/polaris-viz/pull/1575,2023-08-09T18:23:15Z,2023-08-09T19:59:44Z,2,1,MERGED
+polaris-viz,Position tooltip when tabbing in the correct position,https://github.com/Shopify/polaris-viz/pull/1574,2023-08-09T14:52:12Z,2023-08-09T15:17:07Z,3,1,MERGED
+polaris-viz,Pass theme down to ChartContainer,https://github.com/Shopify/polaris-viz/pull/1573,2023-08-08T17:27:39Z,2023-08-08T17:43:38Z,2,1,MERGED
+polaris-viz,Migrate to $GITHUB_OUTPUT,https://github.com/Shopify/polaris-viz/pull/1572,2023-08-08T12:31:50Z,2023-08-08T13:38:55Z,2,1,MERGED
+polaris-viz,Use a portal in HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/1571,2023-08-03T17:45:10Z,2025-01-30T15:57:51Z,2,1,CLOSED
+polaris-viz,Allow TooltipWrapper to use a portal,https://github.com/Shopify/polaris-viz/pull/1570,2023-08-01T15:31:27Z,2023-08-03T15:44:16Z,3,3,MERGED
+polaris-viz,[Donut Chart] Add legend with values + trend indicator data,https://github.com/Shopify/polaris-viz/pull/1612,2023-12-05T20:56:17Z,2023-12-14T14:20:13Z,7,1,MERGED
+polaris-viz,Introduce optional fillValue property on DataSeries,https://github.com/Shopify/polaris-viz/pull/1611,2023-11-30T18:52:19Z,2023-12-01T18:46:30Z,3,4,MERGED
+polaris-viz,Fix issue with data sets that are empty,https://github.com/Shopify/polaris-viz/pull/1608,2023-11-16T19:25:08Z,2023-11-16T19:53:12Z,1,1,MERGED
+polaris-viz,Fill linear charts when necessary,https://github.com/Shopify/polaris-viz/pull/1607,2023-11-15T21:08:55Z,2023-11-16T16:16:34Z,1,1,MERGED
+polaris-viz,Remove delay when isAnimated: false,https://github.com/Shopify/polaris-viz/pull/1605,2023-11-15T15:02:31Z,2023-11-15T15:05:45Z,0,1,MERGED
+polaris-viz,Remove delay when isAnimated: false. Fix Tooltip z-index,https://github.com/Shopify/polaris-viz/pull/1604,2023-11-14T19:16:41Z,2023-11-14T21:18:03Z,1,1,MERGED
+polaris-viz,Remove flakey test,https://github.com/Shopify/polaris-viz/pull/1602,2023-11-07T19:25:40Z,2023-11-07T19:30:12Z,1,1,MERGED
+polaris-viz,Adds an offset to y-axis label in LineChart,https://github.com/Shopify/polaris-viz/pull/1601,2023-11-07T19:04:05Z,2023-11-07T20:18:04Z,1,1,MERGED
+polaris-viz,Match structure of all data points so each DataSeries contain the same keys,https://github.com/Shopify/polaris-viz/pull/1600,2023-11-06T21:19:10Z,2023-11-07T19:17:41Z,3,1,MERGED
+polaris-viz,Implement design changes to LineChartRelational,https://github.com/Shopify/polaris-viz/pull/1643,2024-03-20T17:25:47Z,2024-03-25T14:20:42Z,1,1,MERGED
+polaris-viz,Upgrade `react-native-svg`,https://github.com/Shopify/polaris-viz/pull/1641,2024-03-19T11:42:29Z,2024-04-09T12:13:05Z,0,4,CLOSED
+polaris-viz,fix: Expose Uplift theme,https://github.com/Shopify/polaris-viz/pull/1640,2024-03-19T10:04:00Z,2024-03-19T14:02:36Z,5,2,MERGED
+polaris-viz,Rename useRenderTooltipContent to getTooltipContentRenderer,https://github.com/Shopify/polaris-viz/pull/1637,2024-03-11T19:49:16Z,2024-03-12T14:19:11Z,1,1,MERGED
+polaris-viz,Added missing exports,https://github.com/Shopify/polaris-viz/pull/1636,2024-03-06T17:25:29Z,2024-03-06T17:35:31Z,1,1,MERGED
+polaris-viz,Add group sum labels for the horizontal stacked bar,https://github.com/Shopify/polaris-viz/pull/1634,2024-02-29T21:22:09Z,2024-03-04T19:29:32Z,2,1,MERGED
+polaris-viz,Allow id to be null,https://github.com/Shopify/polaris-viz/pull/1633,2024-02-28T14:43:50Z,2024-03-06T16:29:39Z,9,1,MERGED
+polaris-viz,Fix positioning of zero line when all negative values,https://github.com/Shopify/polaris-viz/pull/1631,2024-02-26T16:59:38Z,2024-02-26T17:23:08Z,1,1,MERGED
+polaris-viz,Export missing types and components,https://github.com/Shopify/polaris-viz/pull/1630,2024-02-22T16:21:55Z,2024-02-22T16:35:30Z,1,1,MERGED
+polaris-viz,Pass id down to all charts,https://github.com/Shopify/polaris-viz/pull/1629,2024-02-21T19:44:28Z,2024-02-21T19:55:34Z,1,1,MERGED
+polaris-viz,Hide excessive legend keys for vertical legends,https://github.com/Shopify/polaris-viz/pull/1627,2024-02-12T18:35:58Z,2024-02-15T16:17:56Z,10,1,MERGED
+polaris-viz,Switch HorizontalBars label from foreignObject to SVG text element,https://github.com/Shopify/polaris-viz/pull/1626,2024-02-09T23:06:45Z,2024-02-12T16:39:45Z,1,1,MERGED
+polaris-viz,Change legend tooltip z index,https://github.com/Shopify/polaris-viz/pull/1624,2024-01-31T21:29:58Z,2024-02-01T17:19:04Z,2,1,MERGED
+polaris-viz,Remove enableHideLegendOverflow prop,https://github.com/Shopify/polaris-viz/pull/1623,2024-01-31T14:49:35Z,2024-01-31T17:22:10Z,1,1,MERGED
+polaris-viz,Add enableHideLegendOverflow and renderHiddenLegendLabel props,https://github.com/Shopify/polaris-viz/pull/1622,2024-01-30T20:45:45Z,2024-01-30T21:07:27Z,1,1,MERGED
+polaris-viz,[UA][Polaris-Viz]: Fixed Tooltip Positioning When There Are Many Bars,https://github.com/Shopify/polaris-viz/pull/1620,2024-01-18T09:01:00Z,2024-01-18T21:38:13Z,4,5,MERGED
+polaris-viz,Add overflow legend styles to LineChart,https://github.com/Shopify/polaris-viz/pull/1619,2024-01-17T18:41:11Z,2024-01-30T20:12:12Z,8,1,MERGED
+polaris-viz,Allow bar chart to fill missing data even when comparisons are provided,https://github.com/Shopify/polaris-viz/pull/1618,2024-01-17T16:20:16Z,2024-01-17T19:40:07Z,2,1,MERGED
+polaris-viz,Rework LineChartPredictive to use in chart LineSeries,https://github.com/Shopify/polaris-viz/pull/1617,2024-01-10T19:05:25Z,2024-01-12T19:36:11Z,1,1,MERGED
+polaris-viz,Export LineChartPredictive,https://github.com/Shopify/polaris-viz/pull/1616,2024-01-08T19:36:05Z,2024-01-08T19:49:44Z,1,1,MERGED
+polaris-viz,Add LineSeriesPredictive,https://github.com/Shopify/polaris-viz/pull/1615,2024-01-05T17:22:40Z,2024-01-08T15:38:10Z,1,2,MERGED
+polaris-viz,Use masks for areas with data instead of finding missing data,https://github.com/Shopify/polaris-viz/pull/1668,2024-05-27T16:07:14Z,2024-05-27T18:37:52Z,1,1,MERGED
+polaris-viz,Remount RelatedAreas when data changes,https://github.com/Shopify/polaris-viz/pull/1667,2024-05-24T15:21:14Z,2024-05-27T13:54:44Z,1,1,MERGED
+polaris-viz,Add support for bucketing data into 'Other' group for Bar/Donut charts,https://github.com/Shopify/polaris-viz/pull/1666,2024-05-08T19:41:09Z,2024-05-13T19:28:17Z,1,1,MERGED
+polaris-viz,Re-export fillMissingDataPoints,https://github.com/Shopify/polaris-viz/pull/1664,2024-05-03T19:21:47Z,2024-05-03T19:27:50Z,1,1,MERGED
+polaris-viz,Export fillMissingDataPoints,https://github.com/Shopify/polaris-viz/pull/1662,2024-05-03T14:29:07Z,2024-05-03T14:41:35Z,1,1,MERGED
+polaris-viz,Removed different gradient origins,https://github.com/Shopify/polaris-viz/pull/1661,2024-04-23T18:16:39Z,2024-04-23T18:49:10Z,1,1,MERGED
+polaris-viz,Return default theme when unknown theme value is passed,https://github.com/Shopify/polaris-viz/pull/1660,2024-04-16T14:54:15Z,2024-04-16T18:37:35Z,2,1,MERGED
+polaris-viz,Change default theme to Light theme,https://github.com/Shopify/polaris-viz/pull/1658,2024-04-12T19:51:57Z,2024-04-15T17:06:47Z,1,2,MERGED
+polaris-viz,Add missing data pill to LineChart,https://github.com/Shopify/polaris-viz/pull/1657,2024-04-10T19:19:17Z,2024-06-17T20:05:30Z,0,1,CLOSED
+polaris-viz,Proposal: Move all formatters into a formatters prop,https://github.com/Shopify/polaris-viz/pull/1656,2024-04-05T18:38:49Z,2024-06-17T20:06:58Z,0,1,CLOSED
+polaris-viz,Added seriesNameFormatter,https://github.com/Shopify/polaris-viz/pull/1655,2024-04-04T18:13:50Z,2024-04-04T19:27:26Z,2,1,MERGED
+polaris-viz,Generate delay based on item count,https://github.com/Shopify/polaris-viz/pull/1654,2024-04-03T21:11:44Z,2024-04-04T14:12:06Z,1,1,MERGED
+polaris-viz,Fill missing data for sparkline charts,https://github.com/Shopify/polaris-viz/pull/1653,2024-04-03T19:01:00Z,2024-04-03T20:40:42Z,1,1,MERGED
+polaris-viz,Use seriesNameFormatter in overflow legends,https://github.com/Shopify/polaris-viz/pull/1652,2024-04-03T18:39:10Z,2024-04-03T18:45:24Z,1,1,MERGED
+polaris-viz,Add seriesNameFormatter to DonutChart,https://github.com/Shopify/polaris-viz/pull/1651,2024-04-03T17:37:17Z,2024-04-03T18:07:10Z,1,1,MERGED
+polaris-viz,Limit Donut legend to 50% of chart width,https://github.com/Shopify/polaris-viz/pull/1646,2024-04-02T14:23:20Z,2024-04-02T18:32:00Z,3,1,MERGED
+polaris-viz,Added seriesNameFormatter to SimpleNormalizedChart,https://github.com/Shopify/polaris-viz/pull/1645,2024-04-01T20:25:55Z,2024-04-01T20:33:12Z,1,1,MERGED
+polaris-viz,Enable enableHideOverflow in HorizontalBarChart,https://github.com/Shopify/polaris-viz/pull/1644,2024-04-01T17:47:36Z,2024-04-01T18:27:14Z,1,1,MERGED
+polaris-viz,Render single data point values for comparison line chart,https://github.com/Shopify/polaris-viz/pull/1709,2024-07-30T16:05:56Z,2024-09-05T14:45:26Z,4,1,MERGED
+polaris-viz,replace `UpChevron` and `DownChevron` with `TrendIndicator`,https://github.com/Shopify/polaris-viz/pull/1706,2024-07-25T16:36:48Z,2024-07-31T18:07:39Z,3,1,MERGED
+polaris-viz,Legend styling changes,https://github.com/Shopify/polaris-viz/pull/1704,2024-07-22T19:32:28Z,2024-07-25T13:09:03Z,5,3,MERGED
+polaris-viz,Legend overflow fixes,https://github.com/Shopify/polaris-viz/pull/1693,2024-07-16T15:07:32Z,2024-07-18T16:14:10Z,4,1,MERGED
+polaris-viz,Add overflow legend prop and update Donut Chart legend width,https://github.com/Shopify/polaris-viz/pull/1691,2024-07-11T13:50:01Z,2024-07-12T17:44:05Z,2,1,MERGED
+polaris-viz,Add @apollo/federation@0.38.1 to resolutions,https://github.com/Shopify/polaris-viz/pull/1690,2024-07-10T21:16:58Z,2024-07-10T21:26:09Z,1,1,MERGED
+polaris-viz,Update loom to fix node engine issue,https://github.com/Shopify/polaris-viz/pull/1689,2024-07-10T20:05:08Z,2024-07-10T21:16:49Z,0,1,CLOSED
+polaris-viz,Adds `maxYOverride` prop to `yAxisOptions`,https://github.com/Shopify/polaris-viz/pull/1687,2024-07-09T18:21:44Z,2024-07-10T18:00:08Z,2,1,MERGED
+polaris-viz,Remove olive and orange colors from light theme,https://github.com/Shopify/polaris-viz/pull/1685,2024-07-03T15:17:59Z,2024-07-03T15:54:02Z,3,2,MERGED
+polaris-viz,HACK: We be formatting,https://github.com/Shopify/polaris-viz/pull/1684,2024-06-26T19:09:23Z,2025-01-30T15:57:37Z,3,1,CLOSED
+polaris-viz,Bump TrendIndicator font weight to 650,https://github.com/Shopify/polaris-viz/pull/1683,2024-06-20T18:16:13Z,2024-06-20T18:31:00Z,1,1,MERGED
+polaris-viz,Update StackedAreaChart to use tooltip portal,https://github.com/Shopify/polaris-viz/pull/1679,2024-06-18T16:11:06Z,2024-06-19T18:43:30Z,2,1,MERGED
+polaris-viz,Change default font to Inter,https://github.com/Shopify/polaris-viz/pull/1676,2024-06-17T18:09:14Z,2024-06-17T19:37:39Z,1,1,MERGED
+polaris-viz,Update TrendIndicator colors. Remove comparison label color,https://github.com/Shopify/polaris-viz/pull/1673,2024-06-17T14:37:39Z,2024-06-17T14:52:12Z,1,1,MERGED
+polaris-viz,Make small chart check for a smaller value,https://github.com/Shopify/polaris-viz/pull/1746,2024-10-31T17:49:42Z,2024-10-31T17:55:26Z,1,1,MERGED
+polaris-viz,Tweak infinite check,https://github.com/Shopify/polaris-viz/pull/1745,2024-10-29T13:09:32Z,2024-10-29T14:11:44Z,1,1,MERGED
+polaris-viz,Add changelog entry,https://github.com/Shopify/polaris-viz/pull/1744,2024-10-28T17:34:38Z,2024-10-28T17:37:41Z,1,1,MERGED
+polaris-viz,Check chart bounds when mouse enters chart,https://github.com/Shopify/polaris-viz/pull/1743,2024-10-23T20:13:46Z,2024-10-25T13:18:36Z,3,1,MERGED
+polaris-viz,Tweaks to improve small versions of interactive charts,https://github.com/Shopify/polaris-viz/pull/1742,2024-10-22T18:56:52Z,2024-10-24T14:37:11Z,2,2,MERGED
+polaris-viz,proof of concept for small charts,https://github.com/Shopify/polaris-viz/pull/1740,2024-10-19T01:47:51Z,2024-10-22T19:25:41Z,0,1,CLOSED
+polaris-viz,Fix handling of Infinity data in all charts,https://github.com/Shopify/polaris-viz/pull/1739,2024-10-17T17:58:31Z,2024-10-24T12:32:55Z,10,4,MERGED
+polaris-viz,Tooltip positioning fixes,https://github.com/Shopify/polaris-viz/pull/1738,2024-10-17T14:45:42Z,2024-10-18T15:08:05Z,3,1,MERGED
+polaris-viz,fix duplicate heading in changelog,https://github.com/Shopify/polaris-viz/pull/1737,2024-10-11T14:51:44Z,2024-10-11T15:01:39Z,1,1,MERGED
+polaris-viz,Show error state when chart contains infinity,https://github.com/Shopify/polaris-viz/pull/1735,2024-10-10T19:00:56Z,2024-10-11T14:35:42Z,4,2,MERGED
+polaris-viz,UA: Adding FunnelChartNext,https://github.com/Shopify/polaris-viz/pull/1733,2024-10-04T16:20:56Z,2024-12-18T19:03:48Z,64,4,MERGED
+polaris-viz,Add grid visualization,https://github.com/Shopify/polaris-viz/pull/1732,2024-09-27T19:25:46Z,2024-10-22T14:17:43Z,1,13,CLOSED
+polaris-viz,Prevent chart from crashing when  is not defined.,https://github.com/Shopify/polaris-viz/pull/1731,2024-09-26T19:05:05Z,2024-09-26T19:38:53Z,1,1,MERGED
+polaris-viz,Add startAxisLabel value to Annotations for formatted key matching,https://github.com/Shopify/polaris-viz/pull/1730,2024-09-25T15:54:06Z,2024-10-01T13:56:31Z,6,1,CLOSED
+polaris-viz,Change logic around trend indicator width offset,https://github.com/Shopify/polaris-viz/pull/1729,2024-09-25T12:35:31Z,2024-09-25T14:30:36Z,2,1,MERGED
+polaris-viz,Fixed issue where xAxisFormatter would be run for yAxis annotations.,https://github.com/Shopify/polaris-viz/pull/1728,2024-09-24T20:31:26Z,2024-09-24T20:37:39Z,1,1,MERGED
+polaris-viz,Allow different series length in StackedAreaChart,https://github.com/Shopify/polaris-viz/pull/1727,2024-09-24T12:57:39Z,2024-09-24T13:33:02Z,1,1,MERGED
+polaris-viz,Fix crosshair position for a single data point in line chart,https://github.com/Shopify/polaris-viz/pull/1726,2024-09-19T17:54:37Z,2024-09-23T14:35:05Z,2,1,MERGED
+polaris-viz,Fix scrollContainer type,https://github.com/Shopify/polaris-viz/pull/1724,2024-09-13T17:21:07Z,2024-09-13T17:24:58Z,1,1,MERGED
+polaris-viz,Format annotation keys,https://github.com/Shopify/polaris-viz/pull/1723,2024-09-13T16:29:03Z,2024-09-16T19:11:23Z,1,1,MERGED
+polaris-viz,Add scrollContainer prop to charts that use portal for tooltips,https://github.com/Shopify/polaris-viz/pull/1721,2024-09-13T14:32:35Z,2024-09-13T15:57:01Z,1,1,MERGED
+polaris-viz,Add Grid visualization,https://github.com/Shopify/polaris-viz/pull/1720,2024-09-04T18:47:11Z,2024-10-31T21:48:40Z,55,29,MERGED
+polaris-viz,[Donut chart] Show empty state when all values are zero,https://github.com/Shopify/polaris-viz/pull/1717,2024-08-30T14:13:33Z,2024-08-30T16:07:13Z,1,1,MERGED
+polaris-viz,Adjust donut chart arc thickness,https://github.com/Shopify/polaris-viz/pull/1715,2024-08-20T21:09:49Z,2024-08-21T17:16:13Z,1,1,MERGED
+polaris-viz,Donut chart UX updates,https://github.com/Shopify/polaris-viz/pull/1712,2024-08-02T20:23:28Z,2024-08-06T19:19:45Z,1,1,MERGED
+polaris-viz,Calculate inner content value font size based on donut diameter,https://github.com/Shopify/polaris-viz/pull/1710,2024-08-01T02:31:23Z,2024-08-02T14:30:13Z,2,3,MERGED
+polaris-viz,Stop double formatting in label calculation,https://github.com/Shopify/polaris-viz/pull/1786,2024-12-19T21:36:20Z,2025-01-06T16:04:07Z,1,2,MERGED
+polaris-viz,[FunnelChartNext] Remove funnel segment tooltips,https://github.com/Shopify/polaris-viz/pull/1785,2024-12-18T21:38:54Z,2024-12-18T22:03:45Z,1,1,MERGED
+polaris-viz,Place tooltip above chart on mobile,https://github.com/Shopify/polaris-viz/pull/1782,2024-12-16T15:31:29Z,2024-12-17T19:34:08Z,1,1,MERGED
+polaris-viz,Fix bar chart animation when sign changes,https://github.com/Shopify/polaris-viz/pull/1780,2024-12-11T17:01:26Z,2024-12-16T15:13:42Z,1,1,MERGED
+polaris-viz,Align tooltip with crosshair on touch devices,https://github.com/Shopify/polaris-viz/pull/1779,2024-12-10T15:29:57Z,2024-12-10T21:51:47Z,1,1,MERGED
+polaris-viz,[WIP] Position tooltip at the top for line charts,https://github.com/Shopify/polaris-viz/pull/1778,2024-12-10T04:25:29Z,2024-12-10T18:19:20Z,1,1,CLOSED
+polaris-viz,Hide legends in line chart relational in small screens,https://github.com/Shopify/polaris-viz/pull/1776,2024-12-09T13:37:08Z,2024-12-12T17:32:43Z,13,2,MERGED
+polaris-viz,Fix mis-positioned LineChart tooltips while tabbing points,https://github.com/Shopify/polaris-viz/pull/1774,2024-12-04T15:07:11Z,2024-12-05T21:01:12Z,6,2,MERGED
+polaris-viz,Add dashed support for legends,https://github.com/Shopify/polaris-viz/pull/1773,2024-12-04T13:18:02Z,2024-12-05T19:13:04Z,7,4,MERGED
+polaris-viz,Fix story colors and remove unused renderCustomTooltip controls,https://github.com/Shopify/polaris-viz/pull/1772,2024-12-03T18:50:51Z,2024-12-03T20:01:10Z,1,1,MERGED
+polaris-viz,Fix issue where legends would get formatted twice,https://github.com/Shopify/polaris-viz/pull/1771,2024-12-02T22:02:14Z,2024-12-03T17:49:40Z,5,1,MERGED
+polaris-viz,Update domain,https://github.com/Shopify/polaris-viz/pull/1770,2024-12-02T21:35:09Z,2025-02-24T13:30:55Z,1,1,CLOSED
+polaris-viz,Add changelog for disable group treatment,https://github.com/Shopify/polaris-viz/pull/1769,2024-12-02T19:21:19Z,2024-12-02T19:44:10Z,1,1,MERGED
+polaris-viz,Do not show ellipsis if only one character is truncated,https://github.com/Shopify/polaris-viz/pull/1767,2024-12-02T14:50:01Z,2024-12-02T18:34:16Z,3,2,MERGED
+polaris-viz,Stacked area chart breaking when series length changes,https://github.com/Shopify/polaris-viz/pull/1766,2024-11-28T14:20:55Z,2024-11-28T15:22:06Z,1,1,MERGED
+polaris-viz,"feature, Add support to show CTAs button on group tooltips",https://github.com/Shopify/polaris-viz/pull/1765,2024-11-26T14:50:20Z,2024-12-02T13:22:19Z,1,1,MERGED
+polaris-viz,Add disabled groups,https://github.com/Shopify/polaris-viz/pull/1764,2024-11-21T23:20:50Z,2024-12-02T12:18:36Z,2,1,MERGED
+polaris-viz,Move containerBounds to ChartContext,https://github.com/Shopify/polaris-viz/pull/1763,2024-11-20T17:51:55Z,2024-11-28T16:24:44Z,6,5,MERGED
+polaris-viz,Change touch font size to 12px,https://github.com/Shopify/polaris-viz/pull/1762,2024-11-19T20:23:44Z,2024-11-20T15:30:29Z,1,1,MERGED
+polaris-viz,"fix, Tooltip should be render inside `polaris_viz_tooltip_root`",https://github.com/Shopify/polaris-viz/pull/1761,2024-11-19T20:12:18Z,2024-11-20T16:37:52Z,7,2,MERGED
+polaris-viz,Debarrel packages/polaris-viz,https://github.com/Shopify/polaris-viz/pull/1760,2024-11-19T19:02:14Z,2024-12-12T20:57:19Z,4,1,CLOSED
+polaris-viz,Disable the touch font size,https://github.com/Shopify/polaris-viz/pull/1759,2024-11-19T17:37:26Z,2024-11-19T17:46:12Z,1,1,MERGED
+polaris-viz,Passanelli/fix tooltip positioning,https://github.com/Shopify/polaris-viz/pull/1758,2024-11-19T17:27:59Z,2024-11-19T20:19:09Z,1,48,CLOSED
+polaris-viz,Rename dimensions to containerBounds,https://github.com/Shopify/polaris-viz/pull/1757,2024-11-19T12:58:52Z,2024-11-20T02:41:41Z,14,1,MERGED
+polaris-viz,Add long-press interaction to trigger tooltips,https://github.com/Shopify/polaris-viz/pull/1756,2024-11-18T15:57:59Z,2024-11-28T20:33:04Z,4,1,MERGED
+polaris-viz,Remove chart level getPosition and getAlteredPosition,https://github.com/Shopify/polaris-viz/pull/1755,2024-11-18T15:10:31Z,2024-11-21T17:40:22Z,14,1,MERGED
+polaris-viz,"feature, Update Grid responsiveness behavior and fix Tooltips overflow cuts",https://github.com/Shopify/polaris-viz/pull/1754,2024-11-12T20:48:43Z,2024-11-18T18:00:30Z,9,1,MERGED
+polaris-viz,"feature, Improves Grid chart labels and values responsivenes",https://github.com/Shopify/polaris-viz/pull/1751,2024-11-08T19:01:16Z,2024-11-11T19:48:55Z,9,1,MERGED
+polaris-viz,Set LineChart Tooltip at static Y when on touch device,https://github.com/Shopify/polaris-viz/pull/1750,2024-11-06T22:09:45Z,2024-11-18T17:40:24Z,3,2,CLOSED
+polaris-viz,Change font size for touch devices,https://github.com/Shopify/polaris-viz/pull/1749,2024-11-06T17:15:32Z,2024-11-12T14:49:00Z,8,1,MERGED
+polaris-viz,"passanelli, Fix Grid chart responsiveness issues and hide Labels on small heights",https://github.com/Shopify/polaris-viz/pull/1748,2024-11-05T14:53:09Z,2024-11-05T19:54:41Z,5,1,MERGED
+polaris-viz,Remove unused shopify build dir and file,https://github.com/Shopify/polaris-viz/pull/1810,2025-02-20T20:06:33Z,2025-03-03T10:11:08Z,2,1,MERGED
+polaris-viz,Render TrendIndicator in tooltips,https://github.com/Shopify/polaris-viz/pull/1809,2025-02-20T13:48:04Z,2025-03-03T18:49:45Z,3,1,MERGED
+polaris-viz,Add support for multiple comparison series to LineChart,https://github.com/Shopify/polaris-viz/pull/1808,2025-02-13T16:08:49Z,2025-02-25T15:38:13Z,10,2,MERGED
+polaris-viz,Remove inactive tooltip rows,https://github.com/Shopify/polaris-viz/pull/1806,2025-02-12T15:48:28Z,2025-02-14T16:25:02Z,4,1,MERGED
+polaris-viz,Add -50 font-weights,https://github.com/Shopify/polaris-viz/pull/1805,2025-02-12T13:36:13Z,2025-02-13T15:38:24Z,1,1,MERGED
+polaris-viz,Remove limited color series and gradients from colors,https://github.com/Shopify/polaris-viz/pull/1804,2025-02-11T19:17:57Z,2025-02-13T03:18:32Z,1,1,MERGED
+polaris-viz,Remove line gradient for line charts with over 3 lines,https://github.com/Shopify/polaris-viz/pull/1803,2025-02-10T17:09:48Z,2025-02-10T18:55:55Z,2,1,MERGED
+polaris-viz,Change default series icon shape to circle,https://github.com/Shopify/polaris-viz/pull/1798,2025-02-03T21:12:30Z,2025-02-10T14:55:56Z,1,1,MERGED
+polaris-viz,Add tooltip support for Donut Chart,https://github.com/Shopify/polaris-viz/pull/1796,2025-01-31T18:35:19Z,2025-02-04T15:12:27Z,3,1,MERGED
+polaris-viz,Add trends to FunnelChartNext,https://github.com/Shopify/polaris-viz/pull/1795,2025-01-28T20:24:08Z,2025-02-20T14:26:02Z,22,2,MERGED
+polaris-viz,Move 0 value labels to left when all value are negative,https://github.com/Shopify/polaris-viz/pull/1794,2025-01-21T15:07:59Z,2025-01-21T15:21:44Z,1,1,MERGED
+polaris-viz,Fix issue where trend indicator would render outside chart bounds,https://github.com/Shopify/polaris-viz/pull/1793,2025-01-20T21:51:41Z,2025-01-21T14:51:08Z,1,1,MERGED
+polaris-viz,Fix percentile index for line chart relational,https://github.com/Shopify/polaris-viz/pull/1792,2025-01-16T12:40:06Z,2025-01-16T15:54:30Z,1,1,MERGED
+polaris-viz,Add tooltips to Funnel Chart Next,https://github.com/Shopify/polaris-viz/pull/1791,2025-01-14T22:19:28Z,2025-01-16T15:33:11Z,5,2,MERGED
+polaris-viz,Fix stacked area arity bug regression,https://github.com/Shopify/polaris-viz/pull/1790,2025-01-08T16:39:23Z,2025-01-08T18:05:41Z,1,1,MERGED
+polaris-viz,Fix tooltip overflow when displaying long title without space,https://github.com/Shopify/polaris-viz/pull/1789,2025-01-08T11:59:34Z,2025-02-03T18:23:38Z,1,1,MERGED
+polaris-viz,FunnelChartNext follow ups,https://github.com/Shopify/polaris-viz/pull/1788,2025-01-07T22:46:13Z,2025-01-08T14:15:31Z,1,1,MERGED

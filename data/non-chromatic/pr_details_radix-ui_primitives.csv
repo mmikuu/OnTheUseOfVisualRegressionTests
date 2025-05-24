@@ -1,0 +1,1015 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+primitives,New component: AlertDialog,https://github.com/radix-ui/primitives/pull/35,2020-07-31T21:38:01Z,2020-09-23T18:50:12Z,56,22,MERGED
+primitives,Add options for Alert component,https://github.com/radix-ui/primitives/pull/34,2020-07-31T19:50:45Z,2020-08-05T18:21:54Z,7,6,MERGED
+primitives,Add interop attributes to `VisuallyHidden`,https://github.com/radix-ui/primitives/pull/32,2020-07-31T09:52:15Z,2020-07-31T17:45:03Z,0,1,MERGED
+primitives,Remove `ToggleTip`,https://github.com/radix-ui/primitives/pull/31,2020-07-31T09:51:49Z,2020-08-06T16:03:30Z,2,2,MERGED
+primitives,Add interop attributes and default styles to `Toast`,https://github.com/radix-ui/primitives/pull/30,2020-07-31T09:51:34Z,2020-07-31T17:45:22Z,0,1,MERGED
+primitives,Remove `HoverCard`,https://github.com/radix-ui/primitives/pull/29,2020-07-31T09:50:54Z,2020-08-06T16:03:12Z,2,2,MERGED
+primitives,Add interop attributes to `AspectRatio`,https://github.com/radix-ui/primitives/pull/28,2020-07-31T09:50:20Z,2020-07-31T17:39:34Z,1,1,MERGED
+primitives,Add interop attributes to `Accordion`,https://github.com/radix-ui/primitives/pull/27,2020-07-31T09:49:53Z,2020-07-31T17:38:38Z,1,1,MERGED
+primitives,Add hooks for checking if components have parent providers,https://github.com/radix-ui/primitives/pull/16,2020-07-30T23:04:56Z,2020-08-13T22:37:46Z,11,4,CLOSED
+primitives,Add codeowners,https://github.com/radix-ui/primitives/pull/15,2020-07-30T12:47:17Z,2020-07-30T17:06:04Z,1,1,MERGED
+primitives,Update jest config so we don't need to build to run tests,https://github.com/radix-ui/primitives/pull/14,2020-07-30T10:43:46Z,2020-08-03T08:57:21Z,1,7,MERGED
+primitives,Remove duplicate package.json script in AccessibleIcon,https://github.com/radix-ui/primitives/pull/13,2020-07-25T09:26:20Z,2020-07-27T20:23:18Z,0,1,MERGED
+primitives,Optimize build,https://github.com/radix-ui/primitives/pull/12,2020-07-25T08:35:25Z,2020-07-31T15:50:40Z,4,16,MERGED
+primitives,New collection package,https://github.com/radix-ui/primitives/pull/11,2020-07-22T20:27:46Z,2020-07-30T16:35:12Z,10,12,MERGED
+primitives,Add `Alert` component,https://github.com/radix-ui/primitives/pull/10,2020-07-22T12:36:04Z,2020-07-27T16:18:33Z,10,6,MERGED
+primitives,Add `AccessibleIcon` tests,https://github.com/radix-ui/primitives/pull/9,2020-07-20T20:10:36Z,2020-07-23T21:53:06Z,3,3,MERGED
+primitives,Add `Collapsible` tests,https://github.com/radix-ui/primitives/pull/8,2020-07-17T18:22:23Z,2020-07-23T21:54:11Z,2,12,MERGED
+primitives,Initial docs content,https://github.com/radix-ui/primitives/pull/7,2020-07-09T14:19:20Z,2020-07-09T14:21:54Z,1,22,MERGED
+primitives,Base primitives,https://github.com/radix-ui/primitives/pull/1,2020-07-02T05:56:24Z,2020-07-07T22:13:10Z,0,3,MERGED
+primitives,Add `data-side` attribute to `Popper`,https://github.com/radix-ui/primitives/pull/225,2020-10-29T17:15:23Z,2020-11-04T10:10:42Z,7,7,MERGED
+primitives,Add `data-state` attrs to `Tooltip` parts,https://github.com/radix-ui/primitives/pull/224,2020-10-29T16:57:51Z,2020-11-04T16:41:54Z,4,4,MERGED
+primitives,Add `data-state` attribute to `Accordion.Item`,https://github.com/radix-ui/primitives/pull/223,2020-10-29T16:34:29Z,2020-11-03T11:57:14Z,3,3,MERGED
+primitives,Allow consumers to control display of poppers/dialogs,https://github.com/radix-ui/primitives/pull/222,2020-10-29T11:36:13Z,2020-11-06T10:18:31Z,5,3,CLOSED
+primitives,Move `Popper` utility styles onto separate element,https://github.com/radix-ui/primitives/pull/221,2020-10-28T12:37:59Z,2020-11-02T15:22:39Z,7,3,MERGED
+primitives,Move focus scope markers inside focus scope container,https://github.com/radix-ui/primitives/pull/220,2020-10-28T10:56:08Z,2020-11-05T10:51:54Z,8,3,CLOSED
+primitives,Prevent DismissableLayer from closing when focus trap boundaries trigger events,https://github.com/radix-ui/primitives/pull/219,2020-10-28T04:37:49Z,2020-10-28T14:43:37Z,5,2,CLOSED
+primitives,Use latest canary for stitches in all packages,https://github.com/radix-ui/primitives/pull/218,2020-10-26T15:54:55Z,2020-10-27T14:55:36Z,1,1,MERGED
+primitives,Fix Separator `orientation` propTypes,https://github.com/radix-ui/primitives/pull/217,2020-10-26T13:27:53Z,2020-10-26T15:29:52Z,1,3,MERGED
+primitives,useDocumentRef: Check that document is defined to prevent throwing in SSR,https://github.com/radix-ui/primitives/pull/215,2020-10-23T16:49:05Z,2020-10-23T20:15:43Z,5,2,MERGED
+primitives,Upgrade stitches and workaround initial render bug,https://github.com/radix-ui/primitives/pull/214,2020-10-23T11:30:47Z,2020-10-23T15:43:13Z,3,2,MERGED
+primitives,Slider improvements,https://github.com/radix-ui/primitives/pull/211,2020-10-19T19:08:42Z,2020-11-04T15:47:13Z,43,41,MERGED
+primitives,"Rebuild Dialog, AlertDialog and Popover using new modular lock pieces",https://github.com/radix-ui/primitives/pull/209,2020-10-14T21:37:37Z,2020-10-23T18:58:53Z,7,12,MERGED
+primitives,Fix missing types for tabbable,https://github.com/radix-ui/primitives/pull/208,2020-10-14T10:33:08Z,2020-10-14T10:55:27Z,1,1,MERGED
+primitives,Delete Sheet,https://github.com/radix-ui/primitives/pull/207,2020-10-13T11:59:37Z,2020-10-13T12:09:23Z,1,4,MERGED
+primitives,Improve typing for `useCallbackRef`,https://github.com/radix-ui/primitives/pull/206,2020-10-10T19:24:37Z,2020-10-12T14:24:00Z,1,3,MERGED
+primitives,Change `StyleObject` type to `{}`,https://github.com/radix-ui/primitives/pull/205,2020-10-09T15:56:10Z,2020-10-09T16:36:59Z,1,1,MERGED
+primitives,ScrollArea: Initial draft,https://github.com/radix-ui/primitives/pull/203,2020-10-06T23:21:53Z,2020-12-08T17:26:01Z,88,72,MERGED
+primitives,Select: initial setup for discussion,https://github.com/radix-ui/primitives/pull/202,2020-10-05T14:59:10Z,2020-10-12T15:11:06Z,19,3,CLOSED
+primitives,Fix timing issues with components within Portals,https://github.com/radix-ui/primitives/pull/201,2020-10-01T09:38:15Z,2020-10-01T10:36:15Z,1,2,MERGED
+primitives,Simplify `useLayoutEffect` usage,https://github.com/radix-ui/primitives/pull/200,2020-10-01T09:20:13Z,2020-10-01T10:21:10Z,2,1,MERGED
+primitives,Change styles type to `any`,https://github.com/radix-ui/primitives/pull/199,2020-09-30T20:29:44Z,2020-09-30T20:42:18Z,2,1,MERGED
+primitives,Doh :see_no_evil:,https://github.com/radix-ui/primitives/pull/198,2020-09-30T20:03:45Z,2020-09-30T20:16:57Z,1,1,MERGED
+primitives,Move `--no-cache` to each package.json,https://github.com/radix-ui/primitives/pull/197,2020-09-30T19:52:24Z,2020-09-30T20:00:46Z,1,1,MERGED
+primitives,Temporary fix for production types,https://github.com/radix-ui/primitives/pull/196,2020-09-30T18:57:58Z,2020-09-30T19:32:38Z,1,4,MERGED
+primitives,Update CODEOWNERS,https://github.com/radix-ui/primitives/pull/193,2020-09-25T18:49:39Z,2020-09-25T19:00:21Z,2,2,MERGED
+primitives,Readmes,https://github.com/radix-ui/primitives/pull/192,2020-09-25T16:02:38Z,2020-09-25T19:10:58Z,3,5,MERGED
+primitives,Modular Lock Temp (part 3) — DismissableLayer,https://github.com/radix-ui/primitives/pull/191,2020-09-25T15:35:32Z,2020-10-16T14:12:51Z,43,30,MERGED
+primitives,Add Storybook build script,https://github.com/radix-ui/primitives/pull/190,2020-09-25T14:51:05Z,2020-09-28T12:51:28Z,2,3,MERGED
+primitives,Fix default Checkbox styles,https://github.com/radix-ui/primitives/pull/189,2020-09-24T18:55:25Z,2020-09-24T20:17:05Z,0,1,MERGED
+primitives,Update `Switch` to match `Checkbox` architecture,https://github.com/radix-ui/primitives/pull/188,2020-09-24T09:12:14Z,2020-09-25T16:04:45Z,6,2,MERGED
+primitives,Build production and development files,https://github.com/radix-ui/primitives/pull/187,2020-09-23T18:24:58Z,2020-12-16T11:20:04Z,5,2,CLOSED
+primitives,let > const,https://github.com/radix-ui/primitives/pull/186,2020-09-23T15:37:35Z,2020-09-23T16:03:44Z,1,2,MERGED
+primitives,Refactor `Checkbox`,https://github.com/radix-ui/primitives/pull/185,2020-09-23T10:38:08Z,2020-09-24T17:49:33Z,13,13,MERGED
+primitives,Modular Lock Temp (part 2) — FocusScope,https://github.com/radix-ui/primitives/pull/184,2020-09-22T13:23:34Z,2020-09-25T18:22:52Z,18,11,MERGED
+primitives,New component: ProgressBar,https://github.com/radix-ui/primitives/pull/183,2020-09-21T23:11:42Z,2020-09-23T22:10:50Z,21,12,MERGED
+primitives,New component: Separator,https://github.com/radix-ui/primitives/pull/182,2020-09-21T20:52:56Z,2020-09-23T16:37:02Z,21,11,MERGED
+primitives,Accordion key fix,https://github.com/radix-ui/primitives/pull/181,2020-09-18T18:07:44Z,2020-09-18T18:59:17Z,0,3,MERGED
+primitives,Modular Lock Temp (part 1) — FocusTrap,https://github.com/radix-ui/primitives/pull/180,2020-09-18T15:30:39Z,2020-09-23T19:50:38Z,16,7,MERGED
+primitives,New Switch API + stories,https://github.com/radix-ui/primitives/pull/178,2020-09-17T20:42:25Z,2020-09-18T18:51:45Z,17,6,MERGED
+primitives,Toggle button: Update API and add stories,https://github.com/radix-ui/primitives/pull/175,2020-09-16T22:58:00Z,2020-09-17T19:20:43Z,4,3,MERGED
+primitives,Popover fixes/overrides,https://github.com/radix-ui/primitives/pull/174,2020-09-16T22:23:10Z,2020-09-22T21:02:33Z,14,4,CLOSED
+primitives,Minor improvements for Announce,https://github.com/radix-ui/primitives/pull/173,2020-09-15T14:25:08Z,2020-09-15T16:19:06Z,5,4,MERGED
+primitives,Popover improvements,https://github.com/radix-ui/primitives/pull/172,2020-09-14T19:27:30Z,2020-09-15T13:45:59Z,2,6,MERGED
+primitives,New Dialog components,https://github.com/radix-ui/primitives/pull/171,2020-09-14T15:28:47Z,2020-09-15T17:08:02Z,8,5,MERGED
+primitives,Fix Lock types,https://github.com/radix-ui/primitives/pull/170,2020-09-14T13:26:38Z,2020-09-14T13:48:44Z,0,1,MERGED
+primitives,Checkbox: Alternate proposal,https://github.com/radix-ui/primitives/pull/169,2020-09-14T06:13:41Z,2020-09-15T14:44:57Z,10,2,CLOSED
+primitives,Fix Popper arrow position,https://github.com/radix-ui/primitives/pull/168,2020-09-13T20:36:48Z,2020-09-14T10:47:56Z,1,3,MERGED
+primitives,Live region enhancements,https://github.com/radix-ui/primitives/pull/166,2020-09-10T17:09:37Z,2020-09-14T21:18:01Z,16,14,MERGED
+primitives,Add `forwardRefWithAs` util,https://github.com/radix-ui/primitives/pull/165,2020-09-09T21:54:12Z,2020-11-20T21:38:13Z,31,2,MERGED
+primitives,Add stories and data attributes to `Tabs`,https://github.com/radix-ui/primitives/pull/162,2020-09-07T21:26:10Z,2020-09-09T15:19:39Z,5,5,MERGED
+primitives,Remove packages from primitives,https://github.com/radix-ui/primitives/pull/161,2020-09-07T19:49:46Z,2020-09-09T17:21:11Z,5,5,MERGED
+primitives,Fix issue with popper flickering,https://github.com/radix-ui/primitives/pull/160,2020-09-07T13:22:20Z,2020-09-08T19:43:38Z,2,3,MERGED
+primitives,New Tooltip,https://github.com/radix-ui/primitives/pull/159,2020-09-04T22:08:26Z,2020-09-15T17:18:37Z,17,20,MERGED
+primitives,New Popover,https://github.com/radix-ui/primitives/pull/158,2020-09-03T22:01:37Z,2020-09-09T23:31:47Z,19,10,MERGED
+primitives,Remove `react-grid`,https://github.com/radix-ui/primitives/pull/157,2020-09-03T20:36:01Z,2020-09-07T18:51:47Z,0,2,MERGED
+primitives,Remove `react-flex`,https://github.com/radix-ui/primitives/pull/156,2020-09-03T20:31:22Z,2020-09-03T22:10:12Z,0,1,MERGED
+primitives,Remove `react-container`,https://github.com/radix-ui/primitives/pull/155,2020-09-03T20:28:20Z,2020-09-03T22:09:52Z,0,2,MERGED
+primitives,Remove `react-code`,https://github.com/radix-ui/primitives/pull/154,2020-09-03T20:19:56Z,2020-09-03T22:09:30Z,0,1,MERGED
+primitives,Remove `react-blockquote`,https://github.com/radix-ui/primitives/pull/153,2020-09-03T20:17:42Z,2020-09-07T18:37:02Z,0,2,MERGED
+primitives,Remove `react-card`,https://github.com/radix-ui/primitives/pull/152,2020-09-03T20:11:27Z,2020-09-03T22:07:37Z,0,1,MERGED
+primitives,Remove `react-button`,https://github.com/radix-ui/primitives/pull/151,2020-09-03T20:06:30Z,2020-09-09T15:30:35Z,1,3,MERGED
+primitives,Remove `react-box`,https://github.com/radix-ui/primitives/pull/150,2020-09-03T19:51:40Z,2020-09-03T22:04:57Z,0,1,MERGED
+primitives,Remove `react-badge`,https://github.com/radix-ui/primitives/pull/149,2020-09-03T19:46:56Z,2020-09-03T22:04:26Z,0,1,MERGED
+primitives,Prepare Lock for Popover + add stories,https://github.com/radix-ui/primitives/pull/148,2020-09-03T18:22:30Z,2020-09-03T19:22:29Z,7,3,MERGED
+primitives,Add missing tests/stories to popper lib,https://github.com/radix-ui/primitives/pull/147,2020-09-03T11:56:00Z,2020-09-03T18:23:08Z,7,4,MERGED
+primitives,popper lib updates,https://github.com/radix-ui/primitives/pull/146,2020-09-03T11:53:43Z,2020-09-03T11:54:15Z,0,1,CLOSED
+primitives,Add old stories and tests to Portal package,https://github.com/radix-ui/primitives/pull/145,2020-09-03T09:55:37Z,2020-09-03T14:41:51Z,0,1,MERGED
+primitives,Remove yarn build artifacts,https://github.com/radix-ui/primitives/pull/144,2020-09-02T21:14:33Z,2020-09-02T21:46:54Z,1,1,MERGED
+primitives,Reset stories for `VisuallyHidden`,https://github.com/radix-ui/primitives/pull/143,2020-09-02T19:50:32Z,2020-09-03T16:14:37Z,1,3,MERGED
+primitives,Rename Tabs.primitive.tsx to Tabs.tsx,https://github.com/radix-ui/primitives/pull/142,2020-09-02T16:21:06Z,2020-09-02T19:27:52Z,0,1,MERGED
+primitives,Fix version check,https://github.com/radix-ui/primitives/pull/141,2020-09-02T09:04:59Z,2020-09-02T21:48:05Z,2,1,MERGED
+primitives,Remove and ignore .yarn/install-state.gz,https://github.com/radix-ui/primitives/pull/140,2020-09-02T08:37:20Z,2020-09-02T15:44:55Z,0,1,MERGED
+primitives,Philosophy and guiding principles,https://github.com/radix-ui/primitives/pull/139,2020-09-01T22:01:45Z,2020-09-08T17:30:38Z,10,6,MERGED
+primitives,New low-level Popper package,https://github.com/radix-ui/primitives/pull/138,2020-08-31T19:56:40Z,2020-09-03T10:19:02Z,25,9,MERGED
+primitives,Updates to `Avatar` API,https://github.com/radix-ui/primitives/pull/137,2020-08-27T18:33:15Z,2020-08-28T12:29:15Z,5,3,MERGED
+primitives,Remove `AspectRatio.Inner`,https://github.com/radix-ui/primitives/pull/136,2020-08-27T17:27:29Z,2020-08-28T12:30:19Z,5,3,MERGED
+primitives,Address `Accordion` feedback from testing ,https://github.com/radix-ui/primitives/pull/135,2020-08-27T15:59:49Z,2020-08-27T18:38:09Z,0,2,MERGED
+primitives,Fix `AccessibleIcon` bounding box issues,https://github.com/radix-ui/primitives/pull/134,2020-08-27T15:49:36Z,2020-08-27T17:10:51Z,0,2,MERGED
+primitives,Remove closed `Slider`,https://github.com/radix-ui/primitives/pull/132,2020-08-26T17:40:26Z,2020-08-27T18:39:30Z,0,1,MERGED
+primitives,Remove closed `Radio`,https://github.com/radix-ui/primitives/pull/131,2020-08-26T17:33:22Z,2020-08-28T11:52:51Z,1,1,MERGED
+primitives,Remove closed `Checkbox`,https://github.com/radix-ui/primitives/pull/130,2020-08-26T17:17:45Z,2020-08-28T09:49:50Z,1,1,MERGED
+primitives,Remove closed `Avatar`,https://github.com/radix-ui/primitives/pull/129,2020-08-26T17:10:48Z,2020-08-27T18:39:08Z,0,1,MERGED
+primitives,Remove closed `AspectRatio`,https://github.com/radix-ui/primitives/pull/128,2020-08-26T17:03:57Z,2020-08-27T18:38:50Z,0,1,MERGED
+primitives,Move to parceljs,https://github.com/radix-ui/primitives/pull/124,2020-08-21T15:46:02Z,2020-08-25T12:55:03Z,17,20,MERGED
+primitives,Reset stories for `Slider`,https://github.com/radix-ui/primitives/pull/123,2020-08-18T22:18:51Z,2020-08-25T17:46:25Z,0,1,MERGED
+primitives,Reset stories for `Sheet`,https://github.com/radix-ui/primitives/pull/122,2020-08-18T22:17:45Z,2020-10-01T10:55:16Z,3,2,CLOSED
+primitives,Add `RadioGroup`,https://github.com/radix-ui/primitives/pull/121,2020-08-18T22:12:07Z,2020-10-06T16:23:07Z,30,7,MERGED
+primitives,Reset stories for `Popover`,https://github.com/radix-ui/primitives/pull/120,2020-08-18T22:07:03Z,2020-09-01T15:22:20Z,2,2,CLOSED
+primitives,Reset stories for `Overlay`,https://github.com/radix-ui/primitives/pull/119,2020-08-18T21:45:13Z,2020-08-25T17:46:46Z,0,1,MERGED
+primitives,Reset stories for `Link`,https://github.com/radix-ui/primitives/pull/118,2020-08-18T21:44:50Z,2020-08-25T17:45:56Z,0,1,MERGED
+primitives,Reset stories for `Input`,https://github.com/radix-ui/primitives/pull/117,2020-08-18T21:44:25Z,2020-08-25T17:45:44Z,0,1,MERGED
+primitives,Reset stories for `Image`,https://github.com/radix-ui/primitives/pull/116,2020-08-18T21:43:53Z,2020-08-25T17:45:29Z,0,1,MERGED
+primitives,Reset stories for `Header`,https://github.com/radix-ui/primitives/pull/115,2020-08-18T21:43:24Z,2020-08-25T17:45:15Z,0,1,MERGED
+primitives,Reset stories for `Grid`,https://github.com/radix-ui/primitives/pull/114,2020-08-18T21:42:24Z,2020-08-25T17:43:49Z,0,1,MERGED
+primitives,Reset stories for `Flex`,https://github.com/radix-ui/primitives/pull/113,2020-08-18T21:36:24Z,2020-08-25T17:45:01Z,0,1,MERGED
+primitives,Reset stories for `Divider`,https://github.com/radix-ui/primitives/pull/112,2020-08-18T21:35:47Z,2020-08-25T17:43:31Z,0,1,MERGED
+primitives,Reset stories for `Dialog`,https://github.com/radix-ui/primitives/pull/111,2020-08-18T21:35:19Z,2020-09-14T19:37:10Z,3,3,CLOSED
+primitives,Reset stories for `Container`,https://github.com/radix-ui/primitives/pull/110,2020-08-18T21:23:22Z,2020-08-25T17:44:09Z,1,1,MERGED
+primitives,Reset stories for `Combobox`,https://github.com/radix-ui/primitives/pull/109,2020-08-18T21:18:15Z,2020-08-25T17:42:47Z,2,1,CLOSED
+primitives,Reset stories for `Collapsible`,https://github.com/radix-ui/primitives/pull/108,2020-08-18T21:16:48Z,2020-08-25T17:41:56Z,0,1,MERGED
+primitives,Reset stories for `Code`,https://github.com/radix-ui/primitives/pull/107,2020-08-18T21:16:24Z,2020-08-25T17:41:40Z,0,1,MERGED
+primitives,Rethink `Checkbox` API,https://github.com/radix-ui/primitives/pull/106,2020-08-18T21:14:49Z,2020-09-17T19:03:47Z,37,28,MERGED
+primitives,Reset stories for `Card`,https://github.com/radix-ui/primitives/pull/105,2020-08-18T21:11:16Z,2020-08-25T17:41:21Z,1,1,MERGED
+primitives,Reset stories for `Button`,https://github.com/radix-ui/primitives/pull/104,2020-08-18T21:10:44Z,2020-08-25T17:40:56Z,0,1,MERGED
+primitives,Reset stories for `Box`,https://github.com/radix-ui/primitives/pull/103,2020-08-18T21:10:14Z,2020-08-26T09:55:58Z,2,2,MERGED
+primitives,Reset stories for `Blockquote`,https://github.com/radix-ui/primitives/pull/102,2020-08-18T21:08:38Z,2020-08-25T17:35:34Z,0,1,MERGED
+primitives,Reset stories for `Badge`,https://github.com/radix-ui/primitives/pull/101,2020-08-18T21:08:18Z,2020-08-25T17:35:15Z,0,1,MERGED
+primitives,Reset stories for `Avatar`,https://github.com/radix-ui/primitives/pull/100,2020-08-18T21:07:33Z,2020-08-25T17:55:58Z,3,1,MERGED
+primitives,Reset stories for `AspectRatio`,https://github.com/radix-ui/primitives/pull/99,2020-08-18T20:58:54Z,2020-08-25T17:19:30Z,4,4,MERGED
+primitives,Reset stories for `Arrow`,https://github.com/radix-ui/primitives/pull/98,2020-08-18T20:58:19Z,2020-08-25T17:30:56Z,3,1,MERGED
+primitives,Reset stories for `Accordion`,https://github.com/radix-ui/primitives/pull/97,2020-08-18T20:57:41Z,2020-08-25T17:34:24Z,0,1,MERGED
+primitives,Reset stories for `AccesibleIcon`,https://github.com/radix-ui/primitives/pull/96,2020-08-18T20:57:05Z,2020-08-25T17:34:44Z,0,1,MERGED
+primitives,Docs,https://github.com/radix-ui/primitives/pull/95,2020-08-14T16:07:57Z,2020-08-14T16:41:08Z,0,15,MERGED
+primitives,Add select component,https://github.com/radix-ui/primitives/pull/93,2020-08-13T22:29:53Z,2020-09-03T18:46:23Z,14,2,CLOSED
+primitives,Fix `Flex` gap,https://github.com/radix-ui/primitives/pull/90,2020-08-11T19:22:28Z,2020-08-14T08:48:38Z,1,1,MERGED
+primitives,Fix `Slider`,https://github.com/radix-ui/primitives/pull/89,2020-08-11T11:19:33Z,2020-08-14T08:45:46Z,1,5,MERGED
+primitives,Add `styles` typing for consumers,https://github.com/radix-ui/primitives/pull/88,2020-08-10T19:15:27Z,2020-08-21T15:10:27Z,11,3,MERGED
+primitives,Convert camelCase CSS props to kebab-case,https://github.com/radix-ui/primitives/pull/87,2020-08-10T15:08:03Z,2020-08-10T20:06:18Z,0,2,MERGED
+primitives,Patch babel dev block transform with local definitions,https://github.com/radix-ui/primitives/pull/86,2020-08-07T19:18:07Z,2020-08-10T18:38:18Z,0,1,MERGED
+primitives,Integrate style extraction for `VisuallyHidden`,https://github.com/radix-ui/primitives/pull/85,2020-08-07T15:22:52Z,2020-08-07T15:24:41Z,0,1,MERGED
+primitives,Integrate style extraction for `Tooltip`,https://github.com/radix-ui/primitives/pull/84,2020-08-07T15:22:28Z,2020-08-07T15:33:49Z,0,1,MERGED
+primitives,Integrate style extraction for `ToggleButton`,https://github.com/radix-ui/primitives/pull/83,2020-08-07T15:21:14Z,2020-08-10T18:37:11Z,1,2,MERGED
+primitives,Remove `Toast`,https://github.com/radix-ui/primitives/pull/82,2020-08-07T15:20:58Z,2020-08-10T18:38:12Z,2,2,MERGED
+primitives,Integrate style extraction for `Textarea`,https://github.com/radix-ui/primitives/pull/81,2020-08-07T15:20:38Z,2020-08-07T15:36:27Z,0,1,MERGED
+primitives,Integrate style extraction for `Text`,https://github.com/radix-ui/primitives/pull/80,2020-08-07T15:20:24Z,2020-08-07T15:36:59Z,0,1,MERGED
+primitives,Integrate style extraction for `Tabs`,https://github.com/radix-ui/primitives/pull/79,2020-08-07T15:20:02Z,2020-08-07T15:46:07Z,0,1,MERGED
+primitives,Integrate style extraction for `Table`,https://github.com/radix-ui/primitives/pull/78,2020-08-07T15:18:47Z,2020-08-07T15:46:48Z,0,1,MERGED
+primitives,Integrate style extraction for `Switch`,https://github.com/radix-ui/primitives/pull/77,2020-08-07T15:18:20Z,2020-08-10T18:37:56Z,1,2,MERGED
+primitives,Integrate style extraction for `Slider`,https://github.com/radix-ui/primitives/pull/76,2020-08-07T15:17:40Z,2020-08-07T15:49:34Z,0,1,MERGED
+primitives,Integrate style extraction for `Sheet`,https://github.com/radix-ui/primitives/pull/75,2020-08-07T15:17:11Z,2020-08-07T15:51:16Z,0,1,MERGED
+primitives,Integrate style extraction for `Popover`,https://github.com/radix-ui/primitives/pull/74,2020-08-07T15:16:45Z,2020-08-07T15:52:03Z,0,1,MERGED
+primitives,Integrate style extraction for `Radio`,https://github.com/radix-ui/primitives/pull/73,2020-08-07T15:16:14Z,2020-08-07T15:54:17Z,1,1,MERGED
+primitives,Integrate style extraction for `LiveRegion`,https://github.com/radix-ui/primitives/pull/72,2020-08-07T15:11:15Z,2020-08-07T16:05:09Z,0,1,MERGED
+primitives,Integrate style extraction for `Link`,https://github.com/radix-ui/primitives/pull/71,2020-08-07T15:10:32Z,2020-08-07T16:03:25Z,0,1,MERGED
+primitives,Integrate style extraction for `Input`,https://github.com/radix-ui/primitives/pull/70,2020-08-07T15:10:15Z,2020-08-07T16:06:17Z,0,1,MERGED
+primitives,Integrate style extraction for `Image`,https://github.com/radix-ui/primitives/pull/69,2020-08-07T15:09:58Z,2020-08-07T16:12:26Z,0,1,MERGED
+primitives,Integrate style extraction for `Header`,https://github.com/radix-ui/primitives/pull/68,2020-08-07T15:09:05Z,2020-08-07T16:07:03Z,0,1,MERGED
+primitives,Integrate style extraction for `Grid`,https://github.com/radix-ui/primitives/pull/67,2020-08-07T15:08:50Z,2020-08-07T16:12:53Z,0,1,MERGED
+primitives,Integrate style extraction for `Overlay`,https://github.com/radix-ui/primitives/pull/66,2020-08-07T15:08:38Z,2020-08-07T16:04:34Z,0,1,MERGED
+primitives,Integrate style extraction for `Flex`,https://github.com/radix-ui/primitives/pull/65,2020-08-07T15:08:21Z,2020-08-07T16:06:41Z,0,1,MERGED
+primitives,Integrate style extraction for `Divider`,https://github.com/radix-ui/primitives/pull/64,2020-08-07T15:08:03Z,2020-08-07T16:05:38Z,0,1,MERGED
+primitives,Integrate style extraction for `Dialog`,https://github.com/radix-ui/primitives/pull/63,2020-08-07T15:07:47Z,2020-08-07T16:11:49Z,0,1,MERGED
+primitives,Integrate style extraction for `Container`,https://github.com/radix-ui/primitives/pull/62,2020-08-07T15:07:19Z,2020-08-07T16:08:42Z,0,1,MERGED
+primitives,Integrate style extraction for `Combobox`,https://github.com/radix-ui/primitives/pull/61,2020-08-07T15:07:04Z,2020-08-07T16:10:37Z,0,1,MERGED
+primitives,Integrate style extraction for `Code`,https://github.com/radix-ui/primitives/pull/60,2020-08-07T15:06:19Z,2020-08-07T16:09:06Z,0,1,MERGED
+primitives,Integrate style extraction for `Checkbox`,https://github.com/radix-ui/primitives/pull/59,2020-08-07T15:05:56Z,2020-08-07T15:31:05Z,0,1,MERGED
+primitives,Integrate style extraction for `Card`,https://github.com/radix-ui/primitives/pull/58,2020-08-07T15:05:23Z,2020-08-07T16:08:16Z,0,1,MERGED
+primitives,Integrate style extraction for `Button`,https://github.com/radix-ui/primitives/pull/57,2020-08-07T15:05:10Z,2020-08-07T16:11:03Z,0,1,MERGED
+primitives,Integrate style extraction for `Box`,https://github.com/radix-ui/primitives/pull/56,2020-08-07T15:04:52Z,2020-08-07T16:00:28Z,0,1,MERGED
+primitives,Integrate style extraction for `Blockquote`,https://github.com/radix-ui/primitives/pull/55,2020-08-07T15:04:37Z,2020-08-07T16:04:09Z,0,1,MERGED
+primitives,Integrate style extraction for `Badge`,https://github.com/radix-ui/primitives/pull/54,2020-08-07T15:04:23Z,2020-08-07T16:00:01Z,0,1,MERGED
+primitives,Integrate style extraction for `Avatar`,https://github.com/radix-ui/primitives/pull/53,2020-08-07T15:02:25Z,2020-08-10T18:37:40Z,1,2,MERGED
+primitives,Integrate style extraction for `AspectRatio`,https://github.com/radix-ui/primitives/pull/52,2020-08-07T15:01:21Z,2020-08-07T15:56:23Z,0,1,MERGED
+primitives,Integrate style extraction for `Arrow`,https://github.com/radix-ui/primitives/pull/51,2020-08-07T15:01:01Z,2020-08-07T15:55:39Z,0,1,MERGED
+primitives,Integrate style extraction for `AccessibleIcon`,https://github.com/radix-ui/primitives/pull/50,2020-08-07T15:00:42Z,2020-08-07T16:13:59Z,0,1,MERGED
+primitives,Remove prop runtime from CSS resets,https://github.com/radix-ui/primitives/pull/43,2020-08-06T14:52:15Z,2020-08-10T14:03:05Z,4,1,MERGED
+primitives,Improve DX by removing `null` resets,https://github.com/radix-ui/primitives/pull/42,2020-08-06T14:29:35Z,2020-08-07T17:09:24Z,0,2,MERGED
+primitives,Fix nested style extraction,https://github.com/radix-ui/primitives/pull/41,2020-08-06T14:05:45Z,2020-08-07T17:07:07Z,0,1,MERGED
+primitives,Fix docs compilation errors and setup for importing from monorepo packages,https://github.com/radix-ui/primitives/pull/38,2020-08-05T17:30:47Z,2020-08-07T17:06:34Z,1,21,MERGED
+primitives,Static style extraction,https://github.com/radix-ui/primitives/pull/37,2020-08-03T13:47:11Z,2020-08-06T10:03:10Z,1,2,MERGED
+primitives,FocusScope blur fix,https://github.com/radix-ui/primitives/pull/369,2020-12-23T21:31:44Z,2021-01-13T21:12:06Z,9,4,CLOSED
+primitives,Test: Checkbox,https://github.com/radix-ui/primitives/pull/366,2020-12-23T17:33:02Z,2021-01-04T15:44:07Z,0,1,MERGED
+primitives,Test: Avatar,https://github.com/radix-ui/primitives/pull/364,2020-12-23T03:51:46Z,2021-01-04T16:59:45Z,4,3,MERGED
+primitives,Test: AspectRatio,https://github.com/radix-ui/primitives/pull/363,2020-12-22T23:15:13Z,2021-01-04T13:46:03Z,0,1,MERGED
+primitives,Test: Arrow,https://github.com/radix-ui/primitives/pull/362,2020-12-22T22:57:58Z,2021-01-04T13:45:13Z,0,1,MERGED
+primitives,Build with Parcel monorepo script,https://github.com/radix-ui/primitives/pull/361,2020-12-22T22:02:29Z,2021-01-11T22:45:02Z,8,12,MERGED
+primitives,Build with Preconstruct,https://github.com/radix-ui/primitives/pull/360,2020-12-22T18:03:04Z,2021-01-15T17:23:26Z,4,7,CLOSED
+primitives,[Popper] Add window size explicit dependency,https://github.com/radix-ui/primitives/pull/359,2020-12-22T15:46:17Z,2021-01-05T14:14:37Z,10,3,MERGED
+primitives,Test: AlertDialog,https://github.com/radix-ui/primitives/pull/357,2020-12-21T22:45:00Z,2020-12-22T10:21:56Z,0,1,MERGED
+primitives,Tests: Dialog,https://github.com/radix-ui/primitives/pull/356,2020-12-21T21:51:44Z,2020-12-22T10:20:59Z,0,2,MERGED
+primitives,Tests: Accordion,https://github.com/radix-ui/primitives/pull/355,2020-12-21T19:37:53Z,2020-12-22T10:24:38Z,0,2,MERGED
+primitives,Tests: AccessibleIcon,https://github.com/radix-ui/primitives/pull/354,2020-12-21T17:38:22Z,2020-12-22T10:13:06Z,0,1,MERGED
+primitives,Speed up pre-commit hooks with lint-staged,https://github.com/radix-ui/primitives/pull/353,2020-12-21T16:58:09Z,2020-12-22T14:50:33Z,9,21,MERGED
+primitives,Correct readme links,https://github.com/radix-ui/primitives/pull/352,2020-12-21T03:14:03Z,2020-12-21T16:21:09Z,0,2,MERGED
+primitives,Generate GitHub Release [step 1],https://github.com/radix-ui/primitives/pull/349,2020-12-17T21:04:29Z,2021-05-11T13:04:35Z,7,4,CLOSED
+primitives,Use Changesets to manage releases and generate changelogs,https://github.com/radix-ui/primitives/pull/348,2020-12-17T18:30:07Z,2020-12-17T20:41:17Z,1,5,CLOSED
+primitives,[react-*]: Remove extended internal data attributes,https://github.com/radix-ui/primitives/pull/347,2020-12-17T17:01:09Z,2021-01-19T18:16:41Z,34,60,MERGED
+primitives,[react-presence]: Reduce `requestAnimationFrame` logic,https://github.com/radix-ui/primitives/pull/344,2020-12-16T16:39:24Z,2020-12-17T20:26:46Z,5,3,MERGED
+primitives,Update README.md,https://github.com/radix-ui/primitives/pull/343,2020-12-16T10:08:43Z,2020-12-16T10:20:28Z,0,2,MERGED
+primitives,GitHub templates,https://github.com/radix-ui/primitives/pull/342,2020-12-16T05:49:39Z,2020-12-16T09:43:31Z,0,3,MERGED
+primitives,Create a Code of Conduct,https://github.com/radix-ui/primitives/pull/341,2020-12-16T00:38:35Z,2020-12-16T01:28:16Z,0,2,MERGED
+primitives,Update readme,https://github.com/radix-ui/primitives/pull/340,2020-12-15T23:53:59Z,2020-12-16T01:28:08Z,0,1,MERGED
+primitives,Create LICENSE,https://github.com/radix-ui/primitives/pull/339,2020-12-15T23:42:27Z,2020-12-16T01:28:00Z,0,2,MERGED
+primitives,Prepare for release!,https://github.com/radix-ui/primitives/pull/338,2020-12-15T14:52:19Z,2020-12-15T15:09:28Z,0,1,MERGED
+primitives,Update readme docs links,https://github.com/radix-ui/primitives/pull/337,2020-12-15T13:32:57Z,2020-12-15T13:39:38Z,0,1,MERGED
+primitives,Rename `ProgressBar` to `Progress`,https://github.com/radix-ui/primitives/pull/335,2020-12-14T14:44:42Z,2020-12-14T14:56:16Z,0,1,MERGED
+primitives,Fix exports on `ContextMenu` and `DropdownMenu`,https://github.com/radix-ui/primitives/pull/334,2020-12-14T14:22:41Z,2020-12-14T14:32:21Z,0,1,MERGED
+primitives,Improve tree-shaking,https://github.com/radix-ui/primitives/pull/333,2020-12-14T11:38:35Z,2020-12-14T12:57:22Z,1,1,MERGED
+primitives,`Popover`: Make sure `wasTrigger` is true when clicking descendants,https://github.com/radix-ui/primitives/pull/332,2020-12-11T23:10:57Z,2020-12-11T23:14:10Z,0,2,MERGED
+primitives,Fix `Tooltip.Content` export,https://github.com/radix-ui/primitives/pull/327,2020-12-11T22:37:29Z,2020-12-11T22:42:00Z,0,1,MERGED
+primitives,Add `forceMount` to `CollapsibleContent`,https://github.com/radix-ui/primitives/pull/326,2020-12-11T21:22:12Z,2020-12-11T21:28:48Z,0,2,MERGED
+primitives,Fix Avatar props,https://github.com/radix-ui/primitives/pull/325,2020-12-11T21:20:26Z,2020-12-11T21:27:59Z,0,1,MERGED
+primitives,Update readmes to point to docs,https://github.com/radix-ui/primitives/pull/324,2020-12-11T20:48:55Z,2020-12-11T21:10:16Z,1,2,MERGED
+primitives,Tabs API updates,https://github.com/radix-ui/primitives/pull/323,2020-12-11T20:20:08Z,2020-12-11T22:00:46Z,1,1,MERGED
+primitives,Rename `*Popper` to `*Content`,https://github.com/radix-ui/primitives/pull/322,2020-12-11T19:20:20Z,2020-12-11T21:02:22Z,0,4,MERGED
+primitives,Remove docs,https://github.com/radix-ui/primitives/pull/321,2020-12-11T18:54:42Z,2020-12-11T20:06:55Z,0,2,MERGED
+primitives,Make APIs consistent,https://github.com/radix-ui/primitives/pull/320,2020-12-11T18:31:32Z,2020-12-11T20:00:36Z,0,2,MERGED
+primitives,Fix Portal SSR,https://github.com/radix-ui/primitives/pull/319,2020-12-11T16:17:35Z,2020-12-11T16:42:45Z,0,1,MERGED
+primitives,`Label`: Add `aria-labelledby` to story,https://github.com/radix-ui/primitives/pull/318,2020-12-11T14:57:13Z,2020-12-11T15:57:37Z,0,1,MERGED
+primitives,`Presence`: Ensure mount transition fires when transitioning out,https://github.com/radix-ui/primitives/pull/317,2020-12-11T14:53:42Z,2020-12-11T16:47:35Z,0,3,MERGED
+primitives,Presence: Validate target node before responding to transitions/animations,https://github.com/radix-ui/primitives/pull/316,2020-12-11T14:12:28Z,2020-12-11T14:30:45Z,0,2,MERGED
+primitives,Improve AccessibleIcon,https://github.com/radix-ui/primitives/pull/315,2020-12-11T10:49:40Z,2020-12-11T11:31:25Z,0,1,MERGED
+primitives,Move useSize to react-utils and remove polyfill,https://github.com/radix-ui/primitives/pull/314,2020-12-11T10:03:05Z,2020-12-11T11:14:35Z,1,2,MERGED
+primitives,Move useSize to react-utils and remove polyfill,https://github.com/radix-ui/primitives/pull/313,2020-12-11T09:48:45Z,2020-12-11T10:02:44Z,0,2,CLOSED
+primitives,Add missing dep to react-utils,https://github.com/radix-ui/primitives/pull/312,2020-12-11T09:04:07Z,2020-12-11T09:14:49Z,0,2,MERGED
+primitives,Add ability for `ScrollArea` content to fill width,https://github.com/radix-ui/primitives/pull/310,2020-12-10T18:59:28Z,2020-12-11T17:40:44Z,2,3,MERGED
+primitives,Release menu components,https://github.com/radix-ui/primitives/pull/309,2020-12-10T13:56:12Z,2020-12-10T14:06:41Z,0,1,MERGED
+primitives,Internal renaming: interop-ui > radix,https://github.com/radix-ui/primitives/pull/308,2020-12-09T21:41:03Z,2020-12-10T13:41:27Z,2,1,MERGED
+primitives,Tiny fixes for ContextMenu,https://github.com/radix-ui/primitives/pull/307,2020-12-09T21:02:11Z,2020-12-09T22:46:25Z,0,2,MERGED
+primitives,Use extendComponent throughout,https://github.com/radix-ui/primitives/pull/306,2020-12-09T14:48:33Z,2020-12-09T14:57:35Z,0,1,MERGED
+primitives,Fix Portal's containerRef issues,https://github.com/radix-ui/primitives/pull/305,2020-12-09T14:24:32Z,2020-12-09T14:40:28Z,0,2,MERGED
+primitives,Fix portal container ref,https://github.com/radix-ui/primitives/pull/303,2020-12-09T13:36:19Z,2020-12-09T14:15:06Z,0,1,MERGED
+primitives,Remove DebugContext related code,https://github.com/radix-ui/primitives/pull/302,2020-12-09T09:38:09Z,2020-12-09T14:30:02Z,0,4,MERGED
+primitives,Byyyyyye Popper.Content,https://github.com/radix-ui/primitives/pull/301,2020-12-08T23:47:15Z,2020-12-09T14:14:28Z,3,2,MERGED
+primitives,Prop docs: Dialog + AlertDialog,https://github.com/radix-ui/primitives/pull/300,2020-12-08T23:13:05Z,2020-12-10T19:28:52Z,9,2,CLOSED
+primitives,Prop docs: Accordion,https://github.com/radix-ui/primitives/pull/299,2020-12-08T22:14:21Z,2020-12-09T03:17:52Z,2,2,MERGED
+primitives,AccessibleIcon: Add prop docs,https://github.com/radix-ui/primitives/pull/298,2020-12-08T20:45:26Z,2020-12-08T20:53:55Z,1,3,MERGED
+primitives,Add `Presence` to `Menu`,https://github.com/radix-ui/primitives/pull/297,2020-12-08T20:42:56Z,2020-12-08T20:57:03Z,0,2,MERGED
+primitives,Scrollarea exports fix,https://github.com/radix-ui/primitives/pull/296,2020-12-08T19:09:31Z,2020-12-08T19:20:56Z,1,2,MERGED
+primitives,Set consistent node version between local and CI,https://github.com/radix-ui/primitives/pull/295,2020-12-08T17:41:09Z,2020-12-08T18:54:49Z,2,5,MERGED
+primitives,Prevent `Slider` from swallowing `Thumb` click events,https://github.com/radix-ui/primitives/pull/294,2020-12-08T17:11:19Z,2020-12-08T19:07:38Z,0,2,MERGED
+primitives,Omit `never` props with `forwardRefWithAs` type,https://github.com/radix-ui/primitives/pull/293,2020-12-08T12:55:45Z,2020-12-08T13:37:47Z,0,2,MERGED
+primitives,ContextMenu primitive,https://github.com/radix-ui/primitives/pull/292,2020-12-08T10:12:51Z,2020-12-08T19:22:10Z,2,6,MERGED
+primitives,Ignore me. Fiddling with build (2),https://github.com/radix-ui/primitives/pull/291,2020-12-07T19:19:59Z,2020-12-08T18:15:46Z,1,1,CLOSED
+primitives,DropdownMenu primitive,https://github.com/radix-ui/primitives/pull/290,2020-12-07T15:22:41Z,2020-12-08T19:11:05Z,18,17,MERGED
+primitives,Fix type definition exports,https://github.com/radix-ui/primitives/pull/289,2020-12-07T14:39:15Z,2020-12-07T14:56:45Z,1,3,MERGED
+primitives,Upgrade Yarn & TypeScript (trying to fix build),https://github.com/radix-ui/primitives/pull/288,2020-12-07T10:34:08Z,2020-12-16T11:20:04Z,2,2,CLOSED
+primitives,Fix dependencies,https://github.com/radix-ui/primitives/pull/287,2020-12-04T22:53:11Z,2020-12-04T23:26:31Z,2,1,MERGED
+primitives,"Ignore me, just testing build stuff",https://github.com/radix-ui/primitives/pull/286,2020-12-04T18:55:54Z,2020-12-04T22:34:39Z,1,11,CLOSED
+primitives,Workaround parcel re-export as issue,https://github.com/radix-ui/primitives/pull/285,2020-12-04T16:42:34Z,2020-12-04T17:17:15Z,6,2,MERGED
+primitives,Add support for virtual element,https://github.com/radix-ui/primitives/pull/284,2020-12-04T13:10:21Z,2020-12-07T13:32:53Z,4,1,MERGED
+primitives,Upgrade yarn,https://github.com/radix-ui/primitives/pull/283,2020-12-04T11:20:59Z,2020-12-04T17:53:36Z,2,2,CLOSED
+primitives,Add `Presence` to `MenuItemIndicator`,https://github.com/radix-ui/primitives/pull/282,2020-12-04T10:59:04Z,2020-12-08T20:17:36Z,1,2,MERGED
+primitives,Add `Presence` to `RadioGroup`,https://github.com/radix-ui/primitives/pull/281,2020-12-03T21:45:56Z,2020-12-08T19:06:36Z,1,2,MERGED
+primitives,Add `Presence` to `Checkbox`,https://github.com/radix-ui/primitives/pull/280,2020-12-03T19:40:57Z,2020-12-08T19:06:49Z,1,2,MERGED
+primitives,Export parts for `import * as` syntax,https://github.com/radix-ui/primitives/pull/279,2020-12-03T19:20:10Z,2020-12-04T10:37:47Z,2,2,MERGED
+primitives,Slider: Remove `number` type from value props,https://github.com/radix-ui/primitives/pull/278,2020-12-03T18:48:12Z,2020-12-04T10:36:27Z,5,3,MERGED
+primitives,Disable storybook shortcuts,https://github.com/radix-ui/primitives/pull/277,2020-12-03T15:00:25Z,2020-12-03T15:22:51Z,1,2,MERGED
+primitives,A few preliminary fixes discovered whilst working on Dropdown,https://github.com/radix-ui/primitives/pull/276,2020-12-03T14:39:03Z,2020-12-04T08:19:23Z,6,3,MERGED
+primitives,Add `Presence` to `Collapsible`,https://github.com/radix-ui/primitives/pull/275,2020-12-02T21:25:50Z,2020-12-08T20:53:39Z,5,4,MERGED
+primitives,Remove old `forwardRef` and associated types,https://github.com/radix-ui/primitives/pull/274,2020-12-02T12:08:37Z,2020-12-02T13:02:46Z,2,3,MERGED
+primitives,Add `forwardRefWithAs` to `Slider`,https://github.com/radix-ui/primitives/pull/273,2020-12-01T17:32:09Z,2020-12-02T12:48:01Z,3,7,MERGED
+primitives,Add `forwardRefWithAs` to `Tabs`,https://github.com/radix-ui/primitives/pull/272,2020-12-01T16:03:17Z,2020-12-01T16:10:09Z,1,3,CLOSED
+primitives,Add `forwardRefWithAs` to `VisuallyHidden`,https://github.com/radix-ui/primitives/pull/271,2020-11-30T21:47:49Z,2020-12-01T15:19:27Z,1,2,MERGED
+primitives,Add `forwardRefWithAs` to `ToggleButton`,https://github.com/radix-ui/primitives/pull/270,2020-11-30T21:45:18Z,2020-12-01T15:39:52Z,1,2,MERGED
+primitives,Add `forwardRefWithAs` to `Tabs`,https://github.com/radix-ui/primitives/pull/269,2020-11-30T21:42:39Z,2020-12-01T18:00:23Z,2,3,MERGED
+primitives,Add `forwardRefWithAs` to `Switch`,https://github.com/radix-ui/primitives/pull/268,2020-11-30T21:33:23Z,2020-12-01T15:29:55Z,3,5,MERGED
+primitives,Add `forwardRefWithAs` to `Separator`,https://github.com/radix-ui/primitives/pull/267,2020-11-30T21:23:27Z,2020-12-01T15:42:38Z,2,3,MERGED
+primitives,Add `forwardRefWithAs` to `RadioGroup`,https://github.com/radix-ui/primitives/pull/266,2020-11-30T21:19:58Z,2020-12-01T15:43:32Z,4,5,MERGED
+primitives,Add `forwardRefWithAs` to `ProgressBar`,https://github.com/radix-ui/primitives/pull/265,2020-11-30T21:07:31Z,2020-12-01T15:42:09Z,3,5,MERGED
+primitives,Add `forwardRefWithAs` to `Menu`,https://github.com/radix-ui/primitives/pull/264,2020-11-30T20:58:16Z,2020-12-01T15:48:48Z,1,3,MERGED
+primitives,Add `forwardRefWithAs` to `Label`,https://github.com/radix-ui/primitives/pull/263,2020-11-30T20:51:00Z,2020-12-01T15:40:35Z,1,3,MERGED
+primitives,Add `forwardRefWithAs` to `Checkbox`,https://github.com/radix-ui/primitives/pull/262,2020-11-30T20:46:49Z,2020-12-01T15:39:33Z,3,4,MERGED
+primitives,Add `forwardRefWithAs` to `Avatar`,https://github.com/radix-ui/primitives/pull/261,2020-11-30T20:42:25Z,2020-12-01T15:38:49Z,1,3,MERGED
+primitives,Add `forwardRefWithAs` to `AspectRatio`,https://github.com/radix-ui/primitives/pull/260,2020-11-30T20:37:42Z,2020-12-01T15:32:07Z,1,2,MERGED
+primitives,"Add `forwardRefWithAs` to `Arrow`, `Popper`, `Popover` and `Tooltip`",https://github.com/radix-ui/primitives/pull/259,2020-11-30T20:33:15Z,2020-12-01T15:47:19Z,5,5,MERGED
+primitives,Add `forwardRefWithAs` to `Announce`,https://github.com/radix-ui/primitives/pull/258,2020-11-30T20:00:55Z,2020-12-01T15:31:48Z,1,2,MERGED
+primitives,Add `forwardRefWithAs` to `Dialog` and `AlertDialog`,https://github.com/radix-ui/primitives/pull/257,2020-11-30T19:55:04Z,2020-12-01T15:47:55Z,5,4,MERGED
+primitives,Add `forwardRefWithAs` to `Accordion`,https://github.com/radix-ui/primitives/pull/256,2020-11-30T18:55:12Z,2020-12-01T14:56:11Z,6,4,MERGED
+primitives,Menu [4] — Add support for menuitemcheckbox and menuitemradio roles and functionality,https://github.com/radix-ui/primitives/pull/255,2020-11-30T16:49:45Z,2020-12-02T10:10:50Z,8,6,MERGED
+primitives,Bring parity to Tabs + RadioGroup but using new RovingFocusGroup component,https://github.com/radix-ui/primitives/pull/254,2020-11-30T11:32:39Z,2020-11-30T13:20:31Z,4,3,MERGED
+primitives,Improve useControlledState hook,https://github.com/radix-ui/primitives/pull/253,2020-11-26T20:20:00Z,2020-11-27T16:50:01Z,2,1,CLOSED
+primitives,Docs: Add Slider documentation,https://github.com/radix-ui/primitives/pull/252,2020-11-24T23:53:15Z,2020-12-11T18:59:36Z,1,6,CLOSED
+primitives,Menu [1.5] — Beginnings (plus`dir` support),https://github.com/radix-ui/primitives/pull/251,2020-11-24T17:13:37Z,2020-11-24T17:54:10Z,3,2,CLOSED
+primitives,Add `fowardRefWithAs` to AccessibleIcon,https://github.com/radix-ui/primitives/pull/250,2020-11-20T21:58:47Z,2020-11-25T16:00:03Z,6,3,MERGED
+primitives,Docs: Add component API section,https://github.com/radix-ui/primitives/pull/249,2020-11-20T21:33:40Z,2020-11-24T16:25:35Z,11,8,MERGED
+primitives,Menu [3] — Add typeahead functionality,https://github.com/radix-ui/primitives/pull/248,2020-11-20T16:10:03Z,2020-11-30T11:05:37Z,8,6,MERGED
+primitives,Menu [2] — Add Menu.Group and Menu.Label,https://github.com/radix-ui/primitives/pull/247,2020-11-18T14:25:26Z,2020-11-27T20:22:51Z,11,4,MERGED
+primitives,Menu [1] — Beginnings,https://github.com/radix-ui/primitives/pull/246,2020-11-18T11:32:28Z,2020-11-27T20:05:32Z,37,15,MERGED
+primitives,Docs: accessibility improvements + Collapsible Docs structure,https://github.com/radix-ui/primitives/pull/244,2020-11-16T21:58:33Z,2020-11-20T18:57:08Z,15,23,MERGED
+primitives,Remove CSS resets + extract recommended CSS out of components,https://github.com/radix-ui/primitives/pull/243,2020-11-11T12:57:10Z,2020-11-17T19:22:33Z,41,49,MERGED
+primitives,Improve storybook experience,https://github.com/radix-ui/primitives/pull/242,2020-11-11T12:08:59Z,2020-11-11T12:52:26Z,2,2,MERGED
+primitives,Rename position to popper in Popover and Tooltip,https://github.com/radix-ui/primitives/pull/241,2020-11-11T11:51:21Z,2020-11-11T12:52:48Z,1,2,MERGED
+primitives,Fix style generation for Slider,https://github.com/radix-ui/primitives/pull/240,2020-11-11T11:16:29Z,2020-11-11T11:53:42Z,1,1,MERGED
+primitives,Fix missing dep in Dialog/Popover,https://github.com/radix-ui/primitives/pull/239,2020-11-10T13:18:33Z,2020-11-10T13:38:10Z,2,1,MERGED
+primitives,Tiny window API tweak in popper,https://github.com/radix-ui/primitives/pull/238,2020-11-10T09:13:56Z,2020-11-10T11:31:15Z,1,1,MERGED
+primitives,React deps,https://github.com/radix-ui/primitives/pull/237,2020-11-10T00:06:48Z,2020-11-10T00:19:36Z,1,2,MERGED
+primitives,Collapsible: add `data-state`,https://github.com/radix-ui/primitives/pull/236,2020-11-09T23:01:17Z,2020-11-10T11:43:16Z,3,3,MERGED
+primitives,Update csstype,https://github.com/radix-ui/primitives/pull/235,2020-11-09T15:39:53Z,2020-11-09T15:53:08Z,2,2,MERGED
+primitives,Refactor FocusScope and fix react 17 issues,https://github.com/radix-ui/primitives/pull/234,2020-11-09T14:53:30Z,2020-11-10T11:30:54Z,6,5,MERGED
+primitives,"Updated docs, part 1",https://github.com/radix-ui/primitives/pull/233,2020-11-09T06:54:55Z,2020-11-13T17:13:10Z,13,14,MERGED
+primitives,Add `Presence` to `Popover`,https://github.com/radix-ui/primitives/pull/232,2020-11-05T19:29:57Z,2020-12-08T19:05:28Z,3,3,MERGED
+primitives,Add `Presence` to enable CSS animations/transitions,https://github.com/radix-ui/primitives/pull/231,2020-11-05T18:59:45Z,2020-12-08T18:49:10Z,25,5,MERGED
+primitives,test,https://github.com/radix-ui/primitives/pull/230,2020-11-05T16:24:44Z,2020-11-05T17:49:20Z,1,1,CLOSED
+primitives,Test,https://github.com/radix-ui/primitives/pull/229,2020-11-05T15:41:10Z,2020-11-05T15:41:42Z,1,1,CLOSED
+primitives,Initial fix for FocusScope + DismissableLayer issue,https://github.com/radix-ui/primitives/pull/228,2020-11-05T11:48:59Z,2020-11-09T17:14:43Z,11,9,MERGED
+primitives,Slider docs,https://github.com/radix-ui/primitives/pull/227,2020-11-04T16:31:16Z,2020-11-04T16:42:29Z,2,2,MERGED
+primitives,Slider: Add prop to enforce a minimum number of steps between values,https://github.com/radix-ui/primitives/pull/226,2020-11-04T13:27:17Z,2020-11-04T16:00:38Z,4,9,MERGED
+primitives,[Popover][DropdownMenu][Tooltip] Replace or remove `anchorRef` 🔥,https://github.com/radix-ui/primitives/pull/580,2021-03-31T12:26:49Z,2021-04-13T14:04:09Z,26,6,MERGED
+primitives,[All] Add pure annotations for tree-shaking,https://github.com/radix-ui/primitives/pull/577,2021-03-25T20:10:11Z,2021-03-25T21:24:36Z,0,3,MERGED
+primitives,Forward missing peer dependency: `react-dom`,https://github.com/radix-ui/primitives/pull/576,2021-03-24T21:01:41Z,2021-03-24T21:07:19Z,0,1,MERGED
+primitives,[All] Revert Parcel upgrade to prevent maximum callstack errors,https://github.com/radix-ui/primitives/pull/575,2021-03-24T17:12:04Z,2021-03-24T17:24:14Z,0,1,MERGED
+primitives,Fix forgotten @babel/runtime updates,https://github.com/radix-ui/primitives/pull/574,2021-03-24T14:38:10Z,2021-03-24T14:43:32Z,0,1,MERGED
+primitives,"[All] Remove polyfiling, adjust browsers list",https://github.com/radix-ui/primitives/pull/573,2021-03-24T13:53:32Z,2021-03-24T14:01:55Z,0,1,MERGED
+primitives,[All] Add browserslist to fix babel transpilation,https://github.com/radix-ui/primitives/pull/572,2021-03-23T21:23:06Z,2021-03-23T21:51:10Z,6,3,MERGED
+primitives,[Presence] Add support for multiple animations,https://github.com/radix-ui/primitives/pull/571,2021-03-22T17:49:42Z,2021-03-23T18:23:10Z,1,2,MERGED
+primitives,[ContextMenu] Fix conflict between opening & disabling pointer events,https://github.com/radix-ui/primitives/pull/565,2021-03-17T19:13:49Z,2021-03-18T16:27:43Z,0,1,MERGED
+primitives,Upgrade parcel to latest nightly,https://github.com/radix-ui/primitives/pull/564,2021-03-17T12:18:51Z,2021-03-18T17:00:04Z,7,1,MERGED
+primitives,[Tooltip] Add unmount animation support,https://github.com/radix-ui/primitives/pull/558,2021-03-15T14:44:15Z,2021-03-19T18:55:41Z,2,3,MERGED
+primitives,[Tooltip] Improve on custom durations + fixes,https://github.com/radix-ui/primitives/pull/554,2021-03-12T21:36:29Z,2021-03-19T18:23:26Z,1,5,MERGED
+primitives,[Tooltip] Add custom duration,https://github.com/radix-ui/primitives/pull/551,2021-03-11T20:14:30Z,2021-03-19T16:32:09Z,1,2,MERGED
+primitives,[Tooltip] Improve state machine separation of concerns,https://github.com/radix-ui/primitives/pull/550,2021-03-11T19:55:52Z,2021-03-18T14:16:31Z,1,1,MERGED
+primitives,[Presence] Fix unmount hanging,https://github.com/radix-ui/primitives/pull/548,2021-03-10T15:22:50Z,2021-03-11T09:59:45Z,0,2,MERGED
+primitives,[Tooltip] Implement custom durations support,https://github.com/radix-ui/primitives/pull/547,2021-03-09T23:07:04Z,2021-03-10T14:21:58Z,0,1,CLOSED
+primitives,[Toggle] Rename `ToggleButton` to `Toggle` and `toggled` to `pressed` 🔥 ,https://github.com/radix-ui/primitives/pull/546,2021-03-09T12:31:20Z,2021-03-09T13:28:20Z,3,5,MERGED
+primitives,[Toolbar] Replace `ToolbarRadioGroup` with `ToolbarToggleGroup`,https://github.com/radix-ui/primitives/pull/545,2021-03-09T12:17:40Z,2021-03-09T12:36:45Z,0,2,MERGED
+primitives,[Accordion] Move disabled prop after spread,https://github.com/radix-ui/primitives/pull/542,2021-03-08T18:06:02Z,2021-03-09T12:37:54Z,1,3,MERGED
+primitives,[Popper] Fix potential issues with non-measured positioning,https://github.com/radix-ui/primitives/pull/541,2021-03-08T14:13:04Z,2021-03-08T15:10:57Z,1,1,MERGED
+primitives,[Primitive] Add `defaultProps` support to `extendPrimitive`,https://github.com/radix-ui/primitives/pull/539,2021-03-05T15:28:37Z,2021-03-05T16:50:08Z,0,4,MERGED
+primitives,Fix potential type definition conflicts,https://github.com/radix-ui/primitives/pull/538,2021-03-05T13:03:19Z,2021-03-05T13:21:16Z,0,1,MERGED
+primitives,"[Presence][Collapsible][Accordion] Add height CSS property, remove transition support from Presence",https://github.com/radix-ui/primitives/pull/537,2021-03-04T20:06:52Z,2021-03-05T11:55:47Z,6,8,MERGED
+primitives,Props/spread order,https://github.com/radix-ui/primitives/pull/536,2021-03-03T19:00:07Z,2021-03-03T19:13:04Z,1,2,MERGED
+primitives,Reduce PR template requirements,https://github.com/radix-ui/primitives/pull/535,2021-03-03T18:57:12Z,2021-03-03T19:14:00Z,0,1,MERGED
+primitives,[Polymorphic] rename files,https://github.com/radix-ui/primitives/pull/534,2021-03-03T18:17:19Z,2021-03-03T18:32:48Z,0,1,MERGED
+primitives,[Toolbar] fix deps,https://github.com/radix-ui/primitives/pull/533,2021-03-03T15:24:30Z,2021-03-03T15:29:48Z,0,1,MERGED
+primitives,[React utils refactor] delete react-utils,https://github.com/radix-ui/primitives/pull/532,2021-03-03T15:02:38Z,2021-03-03T15:15:37Z,6,1,MERGED
+primitives,[React utils refactor] react-compose-refs package,https://github.com/radix-ui/primitives/pull/531,2021-03-03T12:36:59Z,2021-03-03T14:57:13Z,0,2,MERGED
+primitives,[React utils refactor] react-context package,https://github.com/radix-ui/primitives/pull/530,2021-03-03T12:16:41Z,2021-03-03T14:39:52Z,1,2,MERGED
+primitives,[React utils refactor] react-use-controllable-state,https://github.com/radix-ui/primitives/pull/529,2021-03-03T09:41:09Z,2021-03-03T14:22:13Z,1,1,MERGED
+primitives,[React utils refactor] react-use-callback-ref package,https://github.com/radix-ui/primitives/pull/528,2021-03-02T21:14:57Z,2021-03-02T22:35:46Z,0,1,MERGED
+primitives,[Accordion] Support multiple values,https://github.com/radix-ui/primitives/pull/527,2021-03-02T21:10:35Z,2021-03-03T13:39:51Z,7,5,MERGED
+primitives,[React utils refactor] new react-use-body-pointer-events package,https://github.com/radix-ui/primitives/pull/526,2021-03-02T19:25:22Z,2021-03-02T19:39:31Z,0,2,MERGED
+primitives,[React utils refactor] react-use-rect & react-use-size,https://github.com/radix-ui/primitives/pull/525,2021-03-02T15:33:21Z,2021-03-02T20:31:51Z,0,4,MERGED
+primitives,[React utils refactor] move extendComponent to react-primitive,https://github.com/radix-ui/primitives/pull/524,2021-03-02T15:15:25Z,2021-03-02T20:08:32Z,2,1,MERGED
+primitives,[React utils refactor] new react-use-previous package,https://github.com/radix-ui/primitives/pull/523,2021-03-02T15:00:54Z,2021-03-02T19:54:52Z,1,1,MERGED
+primitives,[React utils refactor] new react-use-body-pointer-events package,https://github.com/radix-ui/primitives/pull/522,2021-03-02T14:50:40Z,2021-03-02T18:54:02Z,0,1,MERGED
+primitives,[React utils refactor] new react-use-layout-effect package,https://github.com/radix-ui/primitives/pull/521,2021-03-02T14:39:39Z,2021-03-02T19:07:09Z,1,1,MERGED
+primitives,[React utils refactor] inline code that won't live in new packages,https://github.com/radix-ui/primitives/pull/520,2021-03-02T14:20:17Z,2021-03-02T18:53:46Z,4,4,MERGED
+primitives,[React utils refactor] move composeEventHandlers to new @radix-ui/primitive package,https://github.com/radix-ui/primitives/pull/519,2021-03-02T10:55:04Z,2021-03-02T14:15:28Z,1,2,MERGED
+primitives,[Utils refactor] delete utils package – remove selector prop 🔥 ,https://github.com/radix-ui/primitives/pull/517,2021-03-01T18:53:14Z,2021-03-02T14:04:06Z,31,3,MERGED
+primitives,[Utils refactor] move Merge into polymorphic package,https://github.com/radix-ui/primitives/pull/516,2021-03-01T15:37:40Z,2021-03-02T13:53:06Z,5,1,MERGED
+primitives,[Utils refactor] rejig geometry utils,https://github.com/radix-ui/primitives/pull/515,2021-03-01T13:55:27Z,2021-03-01T15:17:25Z,3,1,MERGED
+primitives,Allow for global control of Tooltip mouse rest duration thresholds,https://github.com/radix-ui/primitives/pull/513,2021-02-27T04:05:51Z,2021-03-02T16:28:12Z,6,5,CLOSED
+primitives,Update context in `Tooltip`,https://github.com/radix-ui/primitives/pull/511,2021-02-26T21:58:37Z,2021-02-27T22:03:57Z,0,2,MERGED
+primitives,Update context in `Toolbar`,https://github.com/radix-ui/primitives/pull/510,2021-02-26T21:54:19Z,2021-03-01T11:57:40Z,1,2,MERGED
+primitives,Update context in `Tabs`,https://github.com/radix-ui/primitives/pull/509,2021-02-26T21:50:17Z,2021-03-01T12:00:19Z,1,3,MERGED
+primitives,Update context in `Switch`,https://github.com/radix-ui/primitives/pull/508,2021-02-26T21:47:41Z,2021-02-27T21:59:40Z,0,2,MERGED
+primitives,Update context in `Slider`,https://github.com/radix-ui/primitives/pull/507,2021-02-26T21:45:22Z,2021-02-27T21:59:18Z,0,2,MERGED
+primitives,Update context in `ScrollArea`,https://github.com/radix-ui/primitives/pull/506,2021-02-26T21:42:33Z,2021-03-01T11:56:58Z,1,3,MERGED
+primitives,Update context in `RovingFocusGroup`,https://github.com/radix-ui/primitives/pull/505,2021-02-26T21:25:12Z,2021-03-01T15:00:01Z,2,3,MERGED
+primitives,[Utils refactor] inline logging,https://github.com/radix-ui/primitives/pull/504,2021-02-26T16:31:09Z,2021-02-27T22:02:53Z,0,2,MERGED
+primitives,[Utils refactor] new rect package,https://github.com/radix-ui/primitives/pull/503,2021-02-26T15:07:48Z,2021-03-01T11:09:57Z,1,3,MERGED
+primitives,[Utils refactor] new number package,https://github.com/radix-ui/primitives/pull/502,2021-02-26T11:34:29Z,2021-02-26T12:57:58Z,1,1,MERGED
+primitives,[Utils refactor] Inline array utils,https://github.com/radix-ui/primitives/pull/501,2021-02-26T10:53:57Z,2021-02-26T12:49:27Z,0,1,MERGED
+primitives,[Tabs] Add RTL support (dir prop),https://github.com/radix-ui/primitives/pull/497,2021-02-25T21:28:57Z,2021-02-25T21:38:07Z,0,1,MERGED
+primitives,Update `createContext` to memoize props internally,https://github.com/radix-ui/primitives/pull/496,2021-02-25T21:07:56Z,2021-02-26T13:23:54Z,3,4,CLOSED
+primitives,Update context in `RadioGroup`,https://github.com/radix-ui/primitives/pull/495,2021-02-25T18:39:10Z,2021-02-27T21:54:47Z,3,2,MERGED
+primitives,Update context in `Progress`,https://github.com/radix-ui/primitives/pull/494,2021-02-25T18:23:32Z,2021-02-25T21:32:23Z,1,2,MERGED
+primitives,Update context in `Popper`,https://github.com/radix-ui/primitives/pull/493,2021-02-25T18:03:58Z,2021-02-25T21:36:15Z,1,2,MERGED
+primitives,Update context in `Popover`,https://github.com/radix-ui/primitives/pull/492,2021-02-25T17:55:41Z,2021-02-25T20:00:27Z,0,2,MERGED
+primitives,Update context in `Checkbox`,https://github.com/radix-ui/primitives/pull/491,2021-02-25T16:22:01Z,2021-02-25T19:46:49Z,0,2,MERGED
+primitives,Update context in `AlertDialog`,https://github.com/radix-ui/primitives/pull/490,2021-02-25T16:19:39Z,2021-02-25T19:45:59Z,0,2,MERGED
+primitives,[Tabs] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/489,2021-02-25T12:29:43Z,2021-02-25T21:19:35Z,1,2,MERGED
+primitives,[Label] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/488,2021-02-25T12:19:48Z,2021-02-25T20:45:16Z,1,2,MERGED
+primitives,[RovingFocus] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/487,2021-02-24T22:32:18Z,2021-02-25T21:12:27Z,0,2,MERGED
+primitives,Update context in `Menu`,https://github.com/radix-ui/primitives/pull/486,2021-02-24T17:59:55Z,2021-02-27T21:52:17Z,1,3,MERGED
+primitives,Update context in `DropownMenu`,https://github.com/radix-ui/primitives/pull/485,2021-02-24T17:54:42Z,2021-02-25T19:56:01Z,1,3,MERGED
+primitives,Update context in `Dialog`,https://github.com/radix-ui/primitives/pull/484,2021-02-24T17:49:04Z,2021-02-25T21:30:24Z,0,2,MERGED
+primitives,Update context in `ContextMenu`,https://github.com/radix-ui/primitives/pull/483,2021-02-24T17:44:03Z,2021-02-25T21:31:51Z,2,2,MERGED
+primitives,Update context in `collection`,https://github.com/radix-ui/primitives/pull/482,2021-02-24T17:40:37Z,2021-02-27T21:56:01Z,2,3,MERGED
+primitives,Update context in `Collapsible`,https://github.com/radix-ui/primitives/pull/481,2021-02-24T17:36:11Z,2021-02-25T19:57:55Z,0,2,MERGED
+primitives,Update context in `Checkbox`,https://github.com/radix-ui/primitives/pull/480,2021-02-24T17:07:22Z,2021-02-25T16:08:05Z,0,1,MERGED
+primitives,Update context in `Avatar`,https://github.com/radix-ui/primitives/pull/479,2021-02-24T17:04:57Z,2021-02-25T19:48:26Z,1,3,MERGED
+primitives,Update context in `AlertDialog`,https://github.com/radix-ui/primitives/pull/478,2021-02-24T16:59:56Z,2021-02-25T15:57:03Z,1,1,MERGED
+primitives,Update `createContext` to expose a Provider that accepts props,https://github.com/radix-ui/primitives/pull/477,2021-02-24T16:19:14Z,2021-02-24T21:36:48Z,2,3,MERGED
+primitives,[Tooltip] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/476,2021-02-24T15:03:03Z,2021-02-24T16:10:49Z,0,2,MERGED
+primitives,[Popover] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/475,2021-02-24T14:55:20Z,2021-02-24T16:04:44Z,0,2,MERGED
+primitives,[DropdownMenu] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/474,2021-02-24T14:40:37Z,2021-02-24T15:58:48Z,0,2,MERGED
+primitives,[AlertDialog] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/473,2021-02-24T14:23:29Z,2021-02-24T16:23:21Z,1,1,MERGED
+primitives,[Dialog] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/471,2021-02-24T10:38:08Z,2021-02-24T15:48:43Z,1,3,MERGED
+primitives,[Accordion] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/470,2021-02-23T20:52:31Z,2021-02-24T12:20:34Z,2,2,MERGED
+primitives,[Collapsible] Use SSR-safe ids,https://github.com/radix-ui/primitives/pull/469,2021-02-23T20:15:56Z,2021-02-24T12:07:18Z,1,3,MERGED
+primitives,Move ssr package to id package,https://github.com/radix-ui/primitives/pull/467,2021-02-23T14:53:35Z,2021-02-23T21:52:43Z,0,1,MERGED
+primitives,Move usage of canUseDOM,https://github.com/radix-ui/primitives/pull/466,2021-02-23T11:31:33Z,2021-02-23T14:35:18Z,1,1,CLOSED
+primitives,[Presence] Improve `Presence` perf,https://github.com/radix-ui/primitives/pull/465,2021-02-20T00:06:39Z,2021-02-22T14:34:31Z,2,2,MERGED
+primitives,[SSR] Add new react-ssr package to house ssr specific stuff,https://github.com/radix-ui/primitives/pull/464,2021-02-19T19:05:37Z,2021-02-22T15:58:16Z,4,1,MERGED
+primitives,[Slider] Fix step rounding issue,https://github.com/radix-ui/primitives/pull/463,2021-02-18T15:01:11Z,2021-02-19T08:35:50Z,0,1,MERGED
+primitives,[Slot] Fix event handler composition,https://github.com/radix-ui/primitives/pull/461,2021-02-17T18:16:06Z,2021-02-17T18:21:20Z,0,1,MERGED
+primitives,Add Chromatic thanks,https://github.com/radix-ui/primitives/pull/458,2021-02-15T16:08:51Z,2021-02-15T16:17:34Z,0,1,MERGED
+primitives,Chromatic build for `main` pushes,https://github.com/radix-ui/primitives/pull/457,2021-02-15T14:51:03Z,2021-02-15T15:12:14Z,0,2,MERGED
+primitives,[DropdownMenu][ContextMenu] Expose `onCloseAutoFocus`,https://github.com/radix-ui/primitives/pull/456,2021-02-13T18:03:32Z,2021-02-15T10:32:33Z,4,1,MERGED
+primitives,Add SSR testing playground setup,https://github.com/radix-ui/primitives/pull/455,2021-02-12T21:37:31Z,2021-02-17T17:38:35Z,8,6,MERGED
+primitives,[ScrollArea] Fix selector in story,https://github.com/radix-ui/primitives/pull/453,2021-02-11T13:49:27Z,2021-02-11T15:42:02Z,0,1,MERGED
+primitives,New component: Toolbar (#412),https://github.com/radix-ui/primitives/pull/451,2021-02-10T13:14:11Z,2021-02-16T13:40:25Z,6,8,MERGED
+primitives,[DropdownMenu] Add chromatic story,https://github.com/radix-ui/primitives/pull/450,2021-02-09T16:36:20Z,2021-02-09T19:46:26Z,0,1,MERGED
+primitives,[Tooltip] Add chromatic story,https://github.com/radix-ui/primitives/pull/448,2021-02-08T16:57:53Z,2021-02-09T12:59:26Z,1,2,MERGED
+primitives,Add flag to improve Chromatic action speed,https://github.com/radix-ui/primitives/pull/445,2021-02-05T17:53:24Z,2021-02-05T20:24:43Z,0,5,MERGED
+primitives,[Popover] Add chromatic story,https://github.com/radix-ui/primitives/pull/444,2021-02-05T15:20:55Z,2021-02-09T12:59:20Z,1,8,MERGED
+primitives,Stop Chromatic from screenshotting main pushes,https://github.com/radix-ui/primitives/pull/443,2021-02-05T13:47:13Z,2021-02-05T15:01:41Z,0,6,MERGED
+primitives,[Tabs] Add chromatic story,https://github.com/radix-ui/primitives/pull/442,2021-02-05T12:53:31Z,2021-02-05T13:20:25Z,0,2,MERGED
+primitives,[RadioGroup] Add chromatic story,https://github.com/radix-ui/primitives/pull/441,2021-02-05T12:23:54Z,2021-02-05T13:16:51Z,1,1,MERGED
+primitives,[Slider] Add chromatic story,https://github.com/radix-ui/primitives/pull/440,2021-02-04T19:12:54Z,2021-02-05T13:33:01Z,4,2,MERGED
+primitives,[Switch] Add chromatic story,https://github.com/radix-ui/primitives/pull/439,2021-02-04T18:40:35Z,2021-02-05T13:11:19Z,0,1,MERGED
+primitives,[ToggleButton] Add chromatic story,https://github.com/radix-ui/primitives/pull/438,2021-02-04T18:23:02Z,2021-02-05T13:01:15Z,0,1,MERGED
+primitives,[ScrollArea] Add chromatic story,https://github.com/radix-ui/primitives/pull/437,2021-02-04T17:58:22Z,2021-02-05T14:16:03Z,2,2,MERGED
+primitives,[Progress] Add chromatic story,https://github.com/radix-ui/primitives/pull/436,2021-02-04T17:05:59Z,2021-02-05T13:01:05Z,0,1,MERGED
+primitives,[Portal] Add chromatic story,https://github.com/radix-ui/primitives/pull/435,2021-02-04T15:39:15Z,2021-02-05T13:12:12Z,2,3,MERGED
+primitives,[Slot] Add chromatic story,https://github.com/radix-ui/primitives/pull/434,2021-02-04T15:20:36Z,2021-02-05T12:55:26Z,0,1,MERGED
+primitives,[Label] Add chromatic story,https://github.com/radix-ui/primitives/pull/433,2021-02-04T15:15:39Z,2021-02-05T12:55:13Z,0,1,MERGED
+primitives,[Accordion] Fix open/close flicker,https://github.com/radix-ui/primitives/pull/431,2021-02-03T21:06:24Z,2021-02-04T14:50:24Z,0,3,MERGED
+primitives,[Checkbox] Add chromatic story,https://github.com/radix-ui/primitives/pull/430,2021-02-03T18:12:27Z,2021-02-04T13:49:22Z,1,2,MERGED
+primitives,[Avatar] Add chromatic story,https://github.com/radix-ui/primitives/pull/429,2021-02-03T17:44:00Z,2021-02-03T18:31:04Z,1,2,MERGED
+primitives,Add version check to pre-push,https://github.com/radix-ui/primitives/pull/428,2021-02-03T17:07:30Z,2021-02-03T17:11:58Z,0,2,MERGED
+primitives,[AspectRatio] Add chromatic story,https://github.com/radix-ui/primitives/pull/427,2021-02-03T16:58:31Z,2021-02-03T17:48:58Z,1,1,MERGED
+primitives,[Accordion] Add chromatic story,https://github.com/radix-ui/primitives/pull/426,2021-02-03T16:36:33Z,2021-02-03T20:08:44Z,0,4,MERGED
+primitives,[Collapsible] Add chromatic story,https://github.com/radix-ui/primitives/pull/425,2021-02-03T15:03:00Z,2021-02-03T17:38:39Z,1,5,MERGED
+primitives,[RadioGroup] Move `name` prop from `RadioGroupItem` to `RadioGroup`,https://github.com/radix-ui/primitives/pull/424,2021-02-03T14:30:14Z,2021-02-03T17:19:18Z,0,2,MERGED
+primitives,[AccessibleIcon] Add chromatic story,https://github.com/radix-ui/primitives/pull/423,2021-02-03T12:31:24Z,2021-02-03T12:53:20Z,0,3,MERGED
+primitives,[Dialog][Popover][Menu] Prevent delayed trapping,https://github.com/radix-ui/primitives/pull/422,2021-02-02T23:40:14Z,2021-02-03T12:09:24Z,0,2,MERGED
+primitives,[Polymorphic] Fix type autocompletion for polymorphic components,https://github.com/radix-ui/primitives/pull/421,2021-02-02T21:12:50Z,2021-02-03T12:00:28Z,2,2,MERGED
+primitives,Add Chromatic,https://github.com/radix-ui/primitives/pull/418,2021-02-01T20:39:31Z,2021-02-02T13:05:12Z,0,2,MERGED
+primitives,[Accordion] Add story for Chromatic,https://github.com/radix-ui/primitives/pull/417,2021-02-01T17:45:56Z,2021-02-01T20:36:52Z,0,1,MERGED
+primitives,[Popper] Fix collapsing layout issues,https://github.com/radix-ui/primitives/pull/415,2021-02-01T11:40:34Z,2021-02-01T15:49:21Z,1,1,MERGED
+primitives,[Menu] Fix missing children,https://github.com/radix-ui/primitives/pull/414,2021-02-01T09:47:51Z,2021-02-01T13:40:18Z,1,1,MERGED
+primitives,[Menu] Add `{children}` to `MenuImpl` again,https://github.com/radix-ui/primitives/pull/413,2021-01-31T07:53:40Z,2021-02-01T09:44:17Z,1,2,CLOSED
+primitives,New component: Toolbar ,https://github.com/radix-ui/primitives/pull/412,2021-01-30T18:46:31Z,2021-02-10T12:52:59Z,33,13,MERGED
+primitives,[Portal] Fix potential out of the box layering issues,https://github.com/radix-ui/primitives/pull/410,2021-01-29T13:07:03Z,2021-01-29T13:18:51Z,1,2,MERGED
+primitives,Add `Slot` component,https://github.com/radix-ui/primitives/pull/409,2021-01-28T14:09:26Z,2021-01-29T15:53:23Z,8,8,MERGED
+primitives,Explicitly declare default values for `as` and `selector` props,https://github.com/radix-ui/primitives/pull/408,2021-01-26T14:44:50Z,2021-01-26T17:45:35Z,1,3,MERGED
+primitives,Remove parcel cache,https://github.com/radix-ui/primitives/pull/407,2021-01-26T10:39:18Z,2021-01-26T14:59:25Z,0,1,MERGED
+primitives,Update CODEOWNERS,https://github.com/radix-ui/primitives/pull/405,2021-01-25T01:13:30Z,2021-01-25T11:34:38Z,1,2,MERGED
+primitives,[ContextMenu][DropdownMenu] Fix issue introduced by new `selector` prop,https://github.com/radix-ui/primitives/pull/404,2021-01-25T00:43:35Z,2021-01-25T16:10:36Z,2,2,MERGED
+primitives,[Dialog][AlertDialog] Fix regression,https://github.com/radix-ui/primitives/pull/403,2021-01-25T00:33:50Z,2021-01-25T11:34:46Z,0,2,MERGED
+primitives,DRAFT: Toast,https://github.com/radix-ui/primitives/pull/401,2021-01-23T00:29:05Z,2021-05-11T13:06:07Z,1,1,CLOSED
+primitives,[react-accordion] Allow disabled `AccordionItem` when `Accordion` is `disabled={false}`,https://github.com/radix-ui/primitives/pull/400,2021-01-14T17:25:03Z,2021-01-15T20:09:30Z,2,2,MERGED
+primitives,[Popper + dependents] Add wrapper data attribute,https://github.com/radix-ui/primitives/pull/397,2021-01-14T14:16:35Z,2021-01-19T18:33:22Z,7,3,CLOSED
+primitives,[react-polymorphic] Replace `forwardRefWithAs` util with type,https://github.com/radix-ui/primitives/pull/396,2021-01-13T16:22:28Z,2021-01-21T14:31:59Z,15,26,MERGED
+primitives,[FocusScope] Fix vanishing blur issue,https://github.com/radix-ui/primitives/pull/395,2021-01-13T15:59:39Z,2021-01-13T21:11:29Z,2,2,MERGED
+primitives,[Popover][DropdownMenu] Fix race condition when dismissing via click outside and `disableOutsidePointerEvents` is off. ,https://github.com/radix-ui/primitives/pull/394,2021-01-12T23:09:28Z,2021-01-14T20:33:03Z,7,4,MERGED
+primitives,Remove unnecessary package resolutions,https://github.com/radix-ui/primitives/pull/392,2021-01-09T21:34:59Z,2021-01-11T22:43:12Z,0,1,MERGED
+primitives,Test: FocusScope,https://github.com/radix-ui/primitives/pull/382,2021-01-08T19:46:43Z,2021-01-08T21:53:42Z,1,3,MERGED
+primitives,[DropdownMenu] Add enter key on trigger,https://github.com/radix-ui/primitives/pull/381,2021-01-08T15:49:32Z,2021-01-08T16:16:45Z,0,1,MERGED
+primitives,ScrollArea: Temporary workaround for double render (#351),https://github.com/radix-ui/primitives/pull/379,2021-01-07T22:51:50Z,2021-01-08T17:05:21Z,1,5,MERGED
+primitives,[react-utils]: Fix return value from useCallbackRef,https://github.com/radix-ui/primitives/pull/378,2021-01-07T19:11:10Z,2021-01-07T19:20:37Z,1,2,MERGED
+primitives,[ToggleGroup] Add new component,https://github.com/radix-ui/primitives/pull/376,2021-01-07T04:55:12Z,2021-03-09T12:04:38Z,24,31,MERGED
+primitives,Add log (disregard this),https://github.com/radix-ui/primitives/pull/374,2021-01-05T18:01:38Z,2021-01-05T18:11:46Z,0,1,CLOSED
+primitives,Testing: Add toggle button group (disregard this),https://github.com/radix-ui/primitives/pull/373,2021-01-05T17:47:18Z,2021-01-05T18:11:59Z,0,1,CLOSED
+primitives,[Checkbox] Bug fixes 🔥 ,https://github.com/radix-ui/primitives/pull/672,2021-05-28T17:12:13Z,2021-05-31T18:09:53Z,7,7,MERGED
+primitives,[DismissableLayer] Re-add `onInteractOutside` and reimplement `onFocusOutside`,https://github.com/radix-ui/primitives/pull/671,2021-05-28T15:26:21Z,2021-05-28T18:41:28Z,3,3,MERGED
+primitives,[Polymorphic] Remove unnecessary dependency,https://github.com/radix-ui/primitives/pull/670,2021-05-28T11:15:10Z,2021-05-28T18:29:50Z,0,1,MERGED
+primitives,[DismissableLayer] Remove `onInteractOutside` and rename `onFocusOutside` to `onFocusLeave` 🔥 ,https://github.com/radix-ui/primitives/pull/669,2021-05-28T10:32:12Z,2021-05-28T11:09:01Z,1,1,MERGED
+primitives,About time!,https://github.com/radix-ui/primitives/pull/668,2021-05-28T10:07:05Z,2021-05-28T10:23:58Z,0,1,MERGED
+primitives,Add heuristics to contributing docs,https://github.com/radix-ui/primitives/pull/666,2021-05-27T12:46:07Z,2021-05-28T08:33:51Z,0,2,MERGED
+primitives,[Menu] Provide predictable typeahead scoping,https://github.com/radix-ui/primitives/pull/662,2021-05-24T21:45:47Z,2021-06-03T13:41:18Z,26,8,MERGED
+primitives,[FocusScope][DismissableLayer] Use `Primitive` and `Slot`,https://github.com/radix-ui/primitives/pull/661,2021-05-24T13:35:08Z,2021-05-24T14:49:09Z,1,4,MERGED
+primitives,[ContextMenu] Fix issue when no padding on Content 🔥 ,https://github.com/radix-ui/primitives/pull/658,2021-05-20T11:46:40Z,2021-05-20T13:50:19Z,0,2,MERGED
+primitives,Fix `onPointerDownOutside` event issues 🔥 ,https://github.com/radix-ui/primitives/pull/654,2021-05-18T20:41:45Z,2021-05-20T09:19:31Z,7,6,MERGED
+primitives,[Tabs] Rename parts 🔥 ,https://github.com/radix-ui/primitives/pull/652,2021-05-14T14:24:27Z,2021-05-14T14:37:38Z,1,1,MERGED
+primitives,"[Collapsible][Accordion] Rename parts 🔥 + add `collapsible` prop for `type=""single""` 🔥 ",https://github.com/radix-ui/primitives/pull/651,2021-05-14T07:49:31Z,2021-05-14T15:40:56Z,13,10,MERGED
+primitives,[Checkbox][Switch][RadioGroup] Fix native form validation,https://github.com/radix-ui/primitives/pull/650,2021-05-12T14:19:24Z,2021-05-14T13:49:52Z,1,4,MERGED
+primitives,[Polymorphic] Narrow with `React.ComponentType` instead,https://github.com/radix-ui/primitives/pull/648,2021-05-11T17:54:57Z,2021-05-12T11:56:07Z,4,2,MERGED
+primitives,[Slot] Fix slot events composition,https://github.com/radix-ui/primitives/pull/645,2021-05-11T12:07:46Z,2021-05-11T12:34:28Z,0,4,MERGED
+primitives,Fix type definitions,https://github.com/radix-ui/primitives/pull/644,2021-05-10T15:09:42Z,2021-05-11T09:40:02Z,2,4,MERGED
+primitives,Switch to Preconstruct for building packages,https://github.com/radix-ui/primitives/pull/643,2021-05-08T22:21:31Z,2021-05-11T14:42:21Z,12,1,CLOSED
+primitives,[Primitive][Slot] Fix slot event composition for custom handlers,https://github.com/radix-ui/primitives/pull/642,2021-05-06T16:46:11Z,2021-05-11T10:52:34Z,6,7,MERGED
+primitives,[FocusScope] Fix type definition issues,https://github.com/radix-ui/primitives/pull/641,2021-05-06T11:11:56Z,2021-05-06T11:41:42Z,2,2,MERGED
+primitives,Update @radix-ui/react-[id|polymorphic] READMEs,https://github.com/radix-ui/primitives/pull/630,2021-04-30T18:52:54Z,2021-05-03T10:25:04Z,5,2,MERGED
+primitives,[ContextMenu][DropdownMenu] Integrate new submenu parts,https://github.com/radix-ui/primitives/pull/629,2021-04-30T15:34:55Z,2021-06-03T15:44:03Z,20,11,MERGED
+primitives,[Menu] Add submenu primitives,https://github.com/radix-ui/primitives/pull/627,2021-04-30T12:19:27Z,2021-06-01T17:16:52Z,50,8,MERGED
+primitives,[DropdownMenu] Prevent scroll when selecting item with space,https://github.com/radix-ui/primitives/pull/626,2021-04-28T10:59:35Z,2021-04-28T14:12:37Z,0,1,MERGED
+primitives,[Collection] New package to track items in a collection,https://github.com/radix-ui/primitives/pull/625,2021-04-28T10:35:52Z,2021-04-28T14:18:40Z,0,2,MERGED
+primitives,[ScrollArea] Second take,https://github.com/radix-ui/primitives/pull/624,2021-04-27T23:40:01Z,2021-05-11T13:29:01Z,27,34,MERGED
+primitives,[RovingFocusGroup] Refactor internals to take into account hidden items,https://github.com/radix-ui/primitives/pull/618,2021-04-23T20:09:39Z,2021-05-03T09:58:24Z,29,23,MERGED
+primitives,[DismissableLayer] Cleanup `onFocusOutside` timer,https://github.com/radix-ui/primitives/pull/614,2021-04-23T13:38:11Z,2021-04-23T18:06:13Z,0,2,MERGED
+primitives,[Polymorphic] Improve perf and fix `as={Comp}` props,https://github.com/radix-ui/primitives/pull/613,2021-04-20T20:06:22Z,2021-04-21T11:45:03Z,3,4,MERGED
+primitives,Document release process,https://github.com/radix-ui/primitives/pull/607,2021-04-16T14:52:04Z,2021-04-19T10:07:35Z,0,2,MERGED
+primitives,[Checkbox][RadioGroup][Slider][Switch] Replace input `hidden` attribute with inline style,https://github.com/radix-ui/primitives/pull/606,2021-04-14T18:09:37Z,2021-04-15T07:35:00Z,0,1,MERGED
+primitives,[ContextMenu] Add `onOpenChange` callback,https://github.com/radix-ui/primitives/pull/604,2021-04-14T17:45:50Z,2021-04-15T07:35:17Z,0,3,MERGED
+primitives,[Checkbox][RadioGroup][Switch] Remove `readOnly` prop 🔥 ,https://github.com/radix-ui/primitives/pull/600,2021-04-14T08:59:46Z,2021-04-14T10:22:06Z,0,1,MERGED
+primitives,[Popover] Remove unused dependency,https://github.com/radix-ui/primitives/pull/599,2021-04-14T08:47:57Z,2021-04-14T10:22:23Z,0,1,MERGED
+primitives,Add `HoverCard` primitive,https://github.com/radix-ui/primitives/pull/595,2021-04-13T19:35:29Z,2021-04-16T15:12:24Z,36,21,MERGED
+primitives,[Accordion] Fix issue when closing item in single controlled accordion,https://github.com/radix-ui/primitives/pull/594,2021-04-13T13:12:16Z,2021-04-13T14:31:23Z,0,2,MERGED
+primitives,[Popper][Label][Slider] Update hooks to receive node,https://github.com/radix-ui/primitives/pull/592,2021-04-12T16:24:48Z,2021-04-13T14:13:10Z,5,3,MERGED
+primitives,[FocusScope] Rewrite internals,https://github.com/radix-ui/primitives/pull/589,2021-04-09T14:21:17Z,2021-04-12T17:01:30Z,7,3,MERGED
+primitives,[DismissableLayer] Remove unused `ref`,https://github.com/radix-ui/primitives/pull/588,2021-04-08T11:44:38Z,2021-04-08T11:51:12Z,0,1,MERGED
+primitives,[RovingFocusGroup] Fix `tabIndex` regression,https://github.com/radix-ui/primitives/pull/587,2021-04-08T11:18:25Z,2021-04-08T11:26:38Z,0,3,MERGED
+primitives,Support proper focus when having invisible menu items,https://github.com/radix-ui/primitives/pull/582,2021-04-01T09:24:59Z,2021-04-01T14:05:32Z,4,1,CLOSED
+primitives,[ContextMenu][Dialog][DropdownMenu][ContextMenu] Adjust ref naming,https://github.com/radix-ui/primitives/pull/805,2021-07-30T15:51:48Z,2021-07-30T16:52:32Z,1,2,MERGED
+primitives,Upgrade to Cypress 8.0.0,https://github.com/radix-ui/primitives/pull/804,2021-07-29T15:00:02Z,2021-07-29T15:57:56Z,0,1,MERGED
+primitives,[ContextMenu][DropdownMenu] Fix test flake,https://github.com/radix-ui/primitives/pull/802,2021-07-28T10:27:27Z,2021-07-29T10:06:52Z,1,3,MERGED
+primitives,[ScrollArea] Add `data-state` to `Scrollbar`,https://github.com/radix-ui/primitives/pull/801,2021-07-27T11:06:18Z,2021-07-27T12:45:12Z,0,1,MERGED
+primitives,[Dialog][Popover][DropdownMenu][ContextMenu] Adjust non-modal auto focus behaviour,https://github.com/radix-ui/primitives/pull/799,2021-07-26T15:58:23Z,2021-07-29T10:03:40Z,15,9,MERGED
+primitives,[Slider] Improve SSR fallback logic,https://github.com/radix-ui/primitives/pull/798,2021-07-26T11:25:57Z,2021-07-26T15:42:01Z,0,2,MERGED
+primitives,Update SSR testing app,https://github.com/radix-ui/primitives/pull/795,2021-07-23T14:40:34Z,2021-07-27T13:00:13Z,3,2,MERGED
+primitives,[Slider] React.StrictMode fixes,https://github.com/radix-ui/primitives/pull/794,2021-07-22T12:15:49Z,2021-07-23T08:31:53Z,8,3,MERGED
+primitives,[Dialog][Popover][DropdownMenu] Adjust non-modal SR navigation,https://github.com/radix-ui/primitives/pull/792,2021-07-21T13:30:26Z,2021-07-26T16:06:59Z,1,1,CLOSED
+primitives,[Polymorphic] Improve performance,https://github.com/radix-ui/primitives/pull/784,2021-07-16T18:25:37Z,2021-07-19T12:19:55Z,4,3,MERGED
+primitives,[Tooltip] Prevent tooltip from opening on tab change,https://github.com/radix-ui/primitives/pull/783,2021-07-15T11:17:00Z,2021-07-15T14:13:01Z,3,4,CLOSED
+primitives,[ContextMenu] Add submenu int tests,https://github.com/radix-ui/primitives/pull/782,2021-07-15T10:09:48Z,2021-07-16T16:14:59Z,3,3,MERGED
+primitives,[Polymorphic] Allow `ComponentType` props to override,https://github.com/radix-ui/primitives/pull/779,2021-07-13T16:49:34Z,2021-07-19T12:22:05Z,10,2,CLOSED
+primitives,[Collection] Widen usage of items,https://github.com/radix-ui/primitives/pull/778,2021-07-13T14:41:51Z,2021-07-13T20:33:18Z,14,4,MERGED
+primitives,[Slider] Prevent thumb focus when disabled,https://github.com/radix-ui/primitives/pull/777,2021-07-13T14:17:46Z,2021-07-13T15:30:12Z,0,2,MERGED
+primitives,[Presence] Replace `useEffect` with `useLayoutEffect`,https://github.com/radix-ui/primitives/pull/776,2021-07-13T12:49:37Z,2021-07-13T13:06:41Z,0,2,MERGED
+primitives,[DismissableLayer] Prevent issue when mounting via `pointerdown`,https://github.com/radix-ui/primitives/pull/775,2021-07-13T11:04:23Z,2021-07-13T11:50:51Z,1,1,MERGED
+primitives,[ContextMenu] Resolve pointer issue with right mouse press,https://github.com/radix-ui/primitives/pull/772,2021-07-09T14:47:43Z,2021-07-09T15:42:42Z,1,1,MERGED
+primitives,[DropdownMenu][Popover][Dialog] Apply explicit trigger auto focus,https://github.com/radix-ui/primitives/pull/771,2021-07-08T19:02:13Z,2021-07-13T13:17:27Z,18,4,MERGED
+primitives,[DropdownMenu][ContextMenu] Add modality support,https://github.com/radix-ui/primitives/pull/768,2021-07-05T14:12:23Z,2021-07-08T09:13:37Z,11,5,MERGED
+primitives,[Dialog][AlertDialog][Popover][DropdownMenu] Prevent pointer-events reenabling prematurely (mobile),https://github.com/radix-ui/primitives/pull/767,2021-07-05T12:58:56Z,2021-07-06T14:33:37Z,7,4,MERGED
+primitives,[Popover] Restore `checkForDefaultPrevented`,https://github.com/radix-ui/primitives/pull/764,2021-07-02T14:41:27Z,2021-07-02T18:29:53Z,3,1,MERGED
+primitives,[AlertDialog] Don't compose onPointerDownOutside,https://github.com/radix-ui/primitives/pull/759,2021-07-01T15:22:28Z,2021-07-01T15:36:13Z,1,2,MERGED
+primitives,[AlertDialog] Explicit modality,https://github.com/radix-ui/primitives/pull/758,2021-07-01T14:15:07Z,2021-07-01T14:55:04Z,2,1,MERGED
+primitives,[Dialog] Fix non modal toggle on close,https://github.com/radix-ui/primitives/pull/757,2021-07-01T13:34:53Z,2021-07-01T13:53:18Z,0,1,MERGED
+primitives,Fix primitives docs URL,https://github.com/radix-ui/primitives/pull/755,2021-07-01T12:59:11Z,2021-07-01T13:07:15Z,0,2,MERGED
+primitives,docs: fix primitives docs URL,https://github.com/radix-ui/primitives/pull/753,2021-07-01T07:29:27Z,2021-07-01T12:55:36Z,1,2,MERGED
+primitives,Add no-unused-var lint rule,https://github.com/radix-ui/primitives/pull/752,2021-06-29T12:12:12Z,2021-06-30T12:41:30Z,4,3,MERGED
+primitives,[Popover] Add support for modality,https://github.com/radix-ui/primitives/pull/751,2021-06-29T09:42:06Z,2021-07-01T16:12:23Z,6,5,MERGED
+primitives,[DropdownMenu] Add submenu int tests,https://github.com/radix-ui/primitives/pull/744,2021-06-23T16:56:06Z,2021-07-05T10:31:14Z,5,5,MERGED
+primitives,[ContextMenu] Add long press support for touch/pen,https://github.com/radix-ui/primitives/pull/743,2021-06-23T11:58:13Z,2021-06-23T20:08:34Z,7,3,MERGED
+primitives,[Dialog] Add optional `Title` and `Description` parts,https://github.com/radix-ui/primitives/pull/741,2021-06-22T19:43:17Z,2021-06-23T20:05:01Z,9,7,MERGED
+primitives,[Dialog][Popover] Explicitly focus trigger on unmount,https://github.com/radix-ui/primitives/pull/739,2021-06-22T16:26:30Z,2021-07-05T14:50:44Z,19,6,MERGED
+primitives,[ScrollArea] Fix `forceMount` type on `Scrollbar`,https://github.com/radix-ui/primitives/pull/738,2021-06-22T15:50:43Z,2021-06-23T18:20:05Z,1,3,MERGED
+primitives,[Slot] Improve types compatibility,https://github.com/radix-ui/primitives/pull/737,2021-06-22T14:34:47Z,2021-06-22T16:01:08Z,1,1,MERGED
+primitives,Add initial Cypress configuration,https://github.com/radix-ui/primitives/pull/735,2021-06-21T15:10:11Z,2021-06-22T09:41:43Z,4,2,MERGED
+primitives,[Slider] Fix sticky value with keyboard,https://github.com/radix-ui/primitives/pull/733,2021-06-21T13:12:41Z,2021-06-22T11:24:31Z,1,2,MERGED
+primitives,[Slider] Move focus to correct thumb when using keyboard,https://github.com/radix-ui/primitives/pull/731,2021-06-21T12:21:07Z,2021-06-22T10:59:54Z,10,4,MERGED
+primitives,[RovingFocusGroup] Fix Safari issues,https://github.com/radix-ui/primitives/pull/727,2021-06-18T16:19:36Z,2021-06-18T17:10:57Z,2,1,MERGED
+primitives,[RadioGroup] Remove unnecessary dep,https://github.com/radix-ui/primitives/pull/724,2021-06-17T13:21:36Z,2021-06-17T14:28:28Z,0,1,MERGED
+primitives,[Accordion] Add missing `React.useCallback`,https://github.com/radix-ui/primitives/pull/723,2021-06-17T13:18:15Z,2021-06-17T14:28:41Z,0,1,MERGED
+primitives,[ToggleGroup] Fix issue when unpressing an item in single controlled group,https://github.com/radix-ui/primitives/pull/722,2021-06-17T13:10:29Z,2021-06-17T14:35:28Z,1,3,MERGED
+primitives,[ScrollArea] Add `data-orientation` to `Scrollbar`,https://github.com/radix-ui/primitives/pull/720,2021-06-17T12:09:27Z,2021-06-17T12:53:25Z,0,1,MERGED
+primitives,[Slider] Fix key binding issue,https://github.com/radix-ui/primitives/pull/718,2021-06-16T15:34:21Z,2021-06-16T15:41:37Z,0,1,MERGED
+primitives,[DropdownMenu][ContextMenu] Submenu Safari compat,https://github.com/radix-ui/primitives/pull/716,2021-06-16T14:23:25Z,2021-06-16T15:33:38Z,1,2,MERGED
+primitives,[ContextMenu] Fix positioning props,https://github.com/radix-ui/primitives/pull/712,2021-06-15T19:35:07Z,2021-06-15T19:42:19Z,0,1,MERGED
+primitives,Fix broken link in release doc,https://github.com/radix-ui/primitives/pull/710,2021-06-15T09:59:03Z,2021-06-15T10:05:05Z,0,1,MERGED
+primitives,[ContextMenu][DropdownMenu] Improve touch/mouse handling separation,https://github.com/radix-ui/primitives/pull/709,2021-06-14T13:17:38Z,2021-06-14T14:40:51Z,1,2,MERGED
+primitives,[Menu] Fix stuck open state on click,https://github.com/radix-ui/primitives/pull/708,2021-06-14T12:51:37Z,2021-06-14T13:19:32Z,0,1,MERGED
+primitives,[ContextMenu][DropdownMenu] Fix menu focus after pointer interaction,https://github.com/radix-ui/primitives/pull/707,2021-06-14T09:48:34Z,2021-06-14T11:14:30Z,2,2,MERGED
+primitives,[DropdownMenu] Remove `ArrowUp` to open 🔥 ,https://github.com/radix-ui/primitives/pull/702,2021-06-10T15:53:18Z,2021-06-10T17:57:36Z,0,1,MERGED
+primitives,[Dialog][AlertDialog][Popover][DropdownMenu][ContextMenu] Modality,https://github.com/radix-ui/primitives/pull/700,2021-06-09T14:42:20Z,2021-08-02T16:11:21Z,6,12,MERGED
+primitives,[Dialog] Add support for non-modal dialogs,https://github.com/radix-ui/primitives/pull/699,2021-06-09T14:38:33Z,2021-06-25T11:40:41Z,11,2,MERGED
+primitives,[FocusScope] Update API for modality changes,https://github.com/radix-ui/primitives/pull/698,2021-06-09T14:28:39Z,2021-06-21T10:11:56Z,4,3,MERGED
+primitives,[DropdownMenu] Enable `onEntryFocus` for root menu,https://github.com/radix-ui/primitives/pull/694,2021-06-08T16:37:58Z,2021-06-11T08:38:39Z,12,5,MERGED
+primitives,[ContextMenu] Bring inline with `DropdownMenu` changes,https://github.com/radix-ui/primitives/pull/693,2021-06-08T15:49:52Z,2021-06-10T15:20:47Z,2,5,MERGED
+primitives,[DropdownMenu] Add `aria-labelledby` to follow spec,https://github.com/radix-ui/primitives/pull/692,2021-06-08T15:30:15Z,2021-06-10T12:59:59Z,7,4,MERGED
+primitives,[ContextMenu][DropdownMenu] Improve pointer grace,https://github.com/radix-ui/primitives/pull/691,2021-06-08T09:21:22Z,2021-06-11T15:20:29Z,9,7,MERGED
+primitives,[ContextMenu][DropdownMenu] Fix sticky submenu trigger focus,https://github.com/radix-ui/primitives/pull/690,2021-06-07T09:03:38Z,2021-06-07T14:51:19Z,2,1,CLOSED
+primitives,Move MenuItemImpl down,https://github.com/radix-ui/primitives/pull/689,2021-06-04T20:27:01Z,2021-06-04T20:32:16Z,0,1,MERGED
+primitives,[ContextMenu][DropdownMenu] Add pointer grace for navigation to sub-menus,https://github.com/radix-ui/primitives/pull/688,2021-06-04T15:24:53Z,2021-06-04T20:23:35Z,11,9,MERGED
+primitives,[Checkbox][Switch][RadioGroup] Always emit `BubbleInput` event,https://github.com/radix-ui/primitives/pull/687,2021-06-04T11:28:08Z,2021-06-04T17:03:05Z,1,3,MERGED
+primitives,[Menu] Disable mouse open when focused in dev tool,https://github.com/radix-ui/primitives/pull/686,2021-06-03T16:56:54Z,2021-06-03T17:21:29Z,1,1,CLOSED
+primitives,[RadioGroup] Add `BubbleInput` 🔥 ,https://github.com/radix-ui/primitives/pull/685,2021-06-03T16:41:52Z,2021-06-04T10:56:17Z,2,2,MERGED
+primitives,[ContextMenu][DropdownMenu] Don't close on sub trigger pointer down,https://github.com/radix-ui/primitives/pull/684,2021-06-03T15:59:23Z,2021-06-03T16:16:46Z,0,2,MERGED
+primitives,[ContextMenu][DropdownMenu] Add `TriggerItem` part,https://github.com/radix-ui/primitives/pull/683,2021-06-03T13:41:28Z,2021-06-03T16:15:27Z,1,2,MERGED
+primitives,[ContextMenu][DropdownMenu] Add submenu support,https://github.com/radix-ui/primitives/pull/682,2021-06-03T13:19:17Z,2021-06-15T11:30:46Z,7,19,MERGED
+primitives,[Switch] Add `BubbleInput` 🔥 ,https://github.com/radix-ui/primitives/pull/679,2021-06-02T13:38:32Z,2021-06-03T14:25:17Z,0,2,MERGED
+primitives,[Slider] Prevent form change event on initial render,https://github.com/radix-ui/primitives/pull/678,2021-06-01T13:01:55Z,2021-06-01T16:23:20Z,7,4,MERGED
+primitives,Popper core: Expose translateX and translateY as variables,https://github.com/radix-ui/primitives/pull/946,2021-10-31T15:55:18Z,2021-11-09T09:00:34Z,8,1,CLOSED
+primitives,[RadioGroup] Prevent radio activation on manual focus,https://github.com/radix-ui/primitives/pull/939,2021-10-28T09:12:46Z,2021-11-12T12:36:29Z,4,2,MERGED
+primitives,[Dialog][AlertDialog] Add portal part,https://github.com/radix-ui/primitives/pull/936,2021-10-26T12:01:51Z,2021-10-26T16:01:52Z,7,3,MERGED
+primitives,[HoverCard] Add DismissableLayer,https://github.com/radix-ui/primitives/pull/925,2021-10-20T15:13:16Z,2021-11-17T13:47:37Z,4,4,MERGED
+primitives,[AlertDialog][Toolbar] Fix asChild TS error,https://github.com/radix-ui/primitives/pull/924,2021-10-20T08:27:11Z,2021-10-20T08:39:03Z,4,1,MERGED
+primitives,[Release process] Add reminder to remove live demos,https://github.com/radix-ui/primitives/pull/919,2021-10-14T19:14:52Z,2021-10-15T12:13:32Z,0,1,MERGED
+primitives,[All] Prevent passing map index to `createContext`,https://github.com/radix-ui/primitives/pull/918,2021-10-14T14:39:01Z,2021-10-14T14:52:47Z,0,1,MERGED
+primitives,[Tooltip] Fix state machine when controlled,https://github.com/radix-ui/primitives/pull/914,2021-10-13T14:21:45Z,2021-10-14T11:57:35Z,4,1,CLOSED
+primitives,Add releases to README,https://github.com/radix-ui/primitives/pull/912,2021-10-13T08:43:08Z,2021-10-14T12:02:44Z,0,1,MERGED
+primitives,[All] Context scope tweaks,https://github.com/radix-ui/primitives/pull/909,2021-10-11T19:48:12Z,2021-10-12T15:13:21Z,0,1,MERGED
+primitives,[DropdownMenu][ContextMenu] Prevent scroll on arrow key press,https://github.com/radix-ui/primitives/pull/908,2021-10-11T13:53:48Z,2021-10-11T14:07:36Z,2,1,MERGED
+primitives,[All] Scope contexts,https://github.com/radix-ui/primitives/pull/906,2021-10-11T12:43:49Z,2021-10-13T13:02:59Z,3,4,MERGED
+primitives,[HoverCard] Open on focus,https://github.com/radix-ui/primitives/pull/902,2021-10-08T20:17:10Z,2021-10-11T19:30:14Z,6,4,MERGED
+primitives,[Popover] Disable looping if not `modal` or `portalled`,https://github.com/radix-ui/primitives/pull/900,2021-10-08T18:14:52Z,2021-11-09T11:17:06Z,10,2,CLOSED
+primitives,[HoverCard] Compose correct events,https://github.com/radix-ui/primitives/pull/893,2021-10-07T12:06:58Z,2021-10-07T12:14:35Z,0,1,MERGED
+primitives,[Slot] Improvements,https://github.com/radix-ui/primitives/pull/890,2021-10-05T09:54:39Z,2021-10-06T14:05:40Z,4,1,MERGED
+primitives,[All] Add scoped contexts,https://github.com/radix-ui/primitives/pull/888,2021-10-01T23:06:45Z,2021-10-11T12:40:13Z,21,5,MERGED
+primitives,[Popover][Dialog] Expose `RemoveScroll` props,https://github.com/radix-ui/primitives/pull/884,2021-10-01T15:11:06Z,2021-10-11T15:10:11Z,12,4,MERGED
+primitives,[Presence] Prevent premature unmount,https://github.com/radix-ui/primitives/pull/883,2021-09-30T10:58:10Z,2021-09-30T16:26:44Z,2,1,CLOSED
+primitives,[Collapsible][Accordion] Add content-width CSS custom property (#879),https://github.com/radix-ui/primitives/pull/882,2021-09-28T16:42:51Z,2021-09-29T07:54:48Z,0,2,MERGED
+primitives,[Collapsible][Accordion] Add content-width CSS custom property,https://github.com/radix-ui/primitives/pull/879,2021-09-27T13:31:51Z,2021-09-28T16:41:56Z,10,3,MERGED
+primitives,[Collection] Memoize `getItems`,https://github.com/radix-ui/primitives/pull/877,2021-09-24T13:43:55Z,2021-09-24T15:23:12Z,4,2,MERGED
+primitives,[Primitive] Add additional node types,https://github.com/radix-ui/primitives/pull/875,2021-09-21T21:09:43Z,2021-09-22T11:28:25Z,1,2,MERGED
+primitives,[Checkbox][RadioGroup][Switch] Hide bubble input from SRs,https://github.com/radix-ui/primitives/pull/870,2021-09-17T18:56:57Z,2021-09-17T20:19:01Z,0,1,MERGED
+primitives,[Slider] Fix zero values issue,https://github.com/radix-ui/primitives/pull/866,2021-09-15T20:18:26Z,2021-09-16T13:17:05Z,0,1,MERGED
+primitives,[Dialog][Collection][DismissableLayer][Id][Label][Menu][Slider] Add type safety to context,https://github.com/radix-ui/primitives/pull/864,2021-09-15T11:33:27Z,2021-09-15T13:27:56Z,3,1,CLOSED
+primitives,[Label] Use React events to allow `stopPropagation`,https://github.com/radix-ui/primitives/pull/861,2021-09-13T22:09:55Z,2021-09-15T11:36:30Z,7,5,MERGED
+primitives,[Tabs] Unmount content when inactive,https://github.com/radix-ui/primitives/pull/859,2021-09-13T17:27:20Z,2021-09-17T17:01:47Z,1,1,MERGED
+primitives,[Collapsible][Slot] Fix `React.Children.only` error,https://github.com/radix-ui/primitives/pull/858,2021-09-13T16:40:24Z,2021-09-17T08:52:46Z,10,5,MERGED
+primitives,[Primitive] Add radix identifier,https://github.com/radix-ui/primitives/pull/853,2021-09-09T14:31:33Z,2021-09-14T11:33:09Z,2,1,MERGED
+primitives,[All] Replace `React.createContext` with our `createContext` util,https://github.com/radix-ui/primitives/pull/852,2021-09-09T14:05:39Z,2021-09-21T10:50:02Z,12,5,MERGED
+primitives,[Presence] Get `animationName` consistently,https://github.com/radix-ui/primitives/pull/851,2021-09-09T13:33:47Z,2021-09-16T14:58:47Z,8,3,MERGED
+primitives,Update release process doc,https://github.com/radix-ui/primitives/pull/847,2021-09-08T12:27:31Z,2021-09-08T13:54:47Z,0,1,MERGED
+primitives,[AlertDialog] Omit `onInteractOutside`,https://github.com/radix-ui/primitives/pull/846,2021-09-08T09:30:13Z,2021-09-08T14:02:08Z,0,1,MERGED
+primitives,[ignore] testing action,https://github.com/radix-ui/primitives/pull/845,2021-09-07T16:16:11Z,2021-09-07T20:48:56Z,0,1,MERGED
+primitives,[Toolbar] Replace inconsistent type alias prop type,https://github.com/radix-ui/primitives/pull/844,2021-09-06T19:14:25Z,2021-09-07T10:00:17Z,1,1,MERGED
+primitives,Add GH action to publish RC on merge,https://github.com/radix-ui/primitives/pull/843,2021-09-06T18:07:42Z,2021-09-08T13:52:14Z,7,5,MERGED
+primitives,Expose Accordion/ToggleGroup sub types,https://github.com/radix-ui/primitives/pull/842,2021-09-06T16:54:55Z,2021-09-07T09:06:05Z,12,2,CLOSED
+primitives,Remove redundant script causing publish issues,https://github.com/radix-ui/primitives/pull/841,2021-09-06T13:41:30Z,2021-09-06T13:47:21Z,0,1,MERGED
+primitives,[Primitive] Remove redundant `extendPrimitive` utility,https://github.com/radix-ui/primitives/pull/840,2021-09-06T12:22:01Z,2021-09-06T12:26:47Z,0,2,MERGED
+primitives,[All] Remove `extendPrimitive` usage internally,https://github.com/radix-ui/primitives/pull/839,2021-09-03T14:25:15Z,2021-09-06T12:04:27Z,1,2,MERGED
+primitives,[All] Avoid inlining built type declarations,https://github.com/radix-ui/primitives/pull/838,2021-09-02T15:29:01Z,2021-09-06T11:43:44Z,10,7,MERGED
+primitives,Upgrade yarn,https://github.com/radix-ui/primitives/pull/836,2021-08-27T12:59:38Z,2021-08-27T14:00:09Z,4,1,MERGED
+primitives,[All] Replace polymorphism with `asChild` prop,https://github.com/radix-ui/primitives/pull/835,2021-08-26T18:46:01Z,2021-08-27T14:38:31Z,1,3,MERGED
+primitives,[All] Fix `PropsWithoutRef` against union types,https://github.com/radix-ui/primitives/pull/834,2021-08-26T16:33:20Z,2021-08-26T18:45:37Z,2,2,MERGED
+primitives,[All] Replace polymorphism with `asChild` prop,https://github.com/radix-ui/primitives/pull/832,2021-08-25T14:25:49Z,2021-08-26T18:21:41Z,18,6,MERGED
+primitives,[Presence] Allow close animation only,https://github.com/radix-ui/primitives/pull/828,2021-08-18T12:27:48Z,2021-08-19T17:05:03Z,2,1,MERGED
+primitives,[DropdownMenu][ContextMenu] Fix sub trigger focus in iOS Safari,https://github.com/radix-ui/primitives/pull/820,2021-08-12T19:10:43Z,2021-08-17T13:43:44Z,5,3,MERGED
+primitives,[AlertDialog][ContextMenu][Dialog][Popover][DropdownMenu] Fix pointer-events reset,https://github.com/radix-ui/primitives/pull/819,2021-08-11T12:11:45Z,2021-08-11T12:29:41Z,3,1,MERGED
+primitives,[DropdownMenu][Menu] Allow dialog composition,https://github.com/radix-ui/primitives/pull/818,2021-08-10T15:21:23Z,2021-08-12T15:25:57Z,8,3,MERGED
+primitives,Update release process doc,https://github.com/radix-ui/primitives/pull/814,2021-08-05T15:01:21Z,2021-08-06T08:57:47Z,0,1,MERGED
+primitives,[DropdownMenu][ContextMenu] Prevent text selection on menu close in Firefox,https://github.com/radix-ui/primitives/pull/812,2021-08-03T13:31:56Z,2021-08-13T10:22:46Z,5,1,MERGED
+primitives,Update Accordion.test.tsx,https://github.com/radix-ui/primitives/pull/1053,2021-12-23T12:26:05Z,2021-12-23T14:17:54Z,2,1,CLOSED
+primitives,[Id][Primitive] Deprecation warnings in dev mode only,https://github.com/radix-ui/primitives/pull/1052,2021-12-22T13:25:30Z,2022-01-12T22:43:10Z,0,1,MERGED
+primitives,[Storybook] Fix Collection stories,https://github.com/radix-ui/primitives/pull/1049,2021-12-17T13:33:39Z,2021-12-20T11:50:32Z,1,1,MERGED
+primitives,[Storybook] Update stitches + conventions,https://github.com/radix-ui/primitives/pull/1048,2021-12-16T18:45:17Z,2022-04-14T14:43:19Z,7,11,MERGED
+primitives,[Collapsible][Accordion] Fix controlled content animation,https://github.com/radix-ui/primitives/pull/1044,2021-12-14T15:12:30Z,2021-12-14T15:26:42Z,1,2,MERGED
+primitives,[Dialog][AlertDialog] Fix inner scroll regression,https://github.com/radix-ui/primitives/pull/1043,2021-12-14T12:47:37Z,2021-12-14T12:55:46Z,0,1,MERGED
+primitives,[Accordion] Add missing dependency,https://github.com/radix-ui/primitives/pull/1042,2021-12-14T12:03:22Z,2021-12-14T12:04:10Z,1,1,CLOSED
+primitives,[Accordion] Add collection to dependency list,https://github.com/radix-ui/primitives/pull/1039,2021-12-14T09:33:05Z,2021-12-14T09:39:16Z,0,1,MERGED
+primitives,[All] Deprecate `IdProvider`,https://github.com/radix-ui/primitives/pull/1037,2021-12-13T21:36:36Z,2021-12-14T12:55:09Z,3,2,MERGED
+primitives,[Tooltip] Fix tooltip visibility logic,https://github.com/radix-ui/primitives/pull/1035,2021-12-13T14:41:05Z,2021-12-13T17:42:12Z,4,2,MERGED
+primitives,[AlertDialog][Dialog] Fix `Portal` types,https://github.com/radix-ui/primitives/pull/1034,2021-12-10T20:46:37Z,2021-12-10T21:41:14Z,1,1,MERGED
+primitives,[Tooltip] Fix skip delay when re-activating focused tooltip,https://github.com/radix-ui/primitives/pull/1033,2021-12-10T18:44:32Z,2021-12-10T19:18:13Z,0,1,MERGED
+primitives,"[Tooltip] Revert ""Fix trigger when another tooltip overlays it""",https://github.com/radix-ui/primitives/pull/1032,2021-12-10T17:43:00Z,2021-12-10T19:08:42Z,0,2,MERGED
+primitives,[Accordion][Collapsible] Fix prevent mount animation,https://github.com/radix-ui/primitives/pull/1030,2021-12-10T15:28:44Z,2021-12-10T16:11:12Z,0,1,MERGED
+primitives,[All] Fix `React.useId` check bundler issues,https://github.com/radix-ui/primitives/pull/1028,2021-12-10T10:18:46Z,2021-12-10T10:42:38Z,0,1,MERGED
+primitives,[Dialog][AlertDialog] Omit `asChild` from `Portal`,https://github.com/radix-ui/primitives/pull/1022,2021-12-09T15:46:26Z,2021-12-10T10:42:22Z,1,2,MERGED
+primitives,[Tooltip] Fix trigger when another tooltip overlays it,https://github.com/radix-ui/primitives/pull/1018,2021-12-07T13:01:15Z,2021-12-07T16:30:57Z,1,1,MERGED
+primitives,[Slot] Prevent `key` warning,https://github.com/radix-ui/primitives/pull/1015,2021-12-03T11:46:13Z,2021-12-03T13:43:24Z,1,1,MERGED
+primitives,"[Tooltip] Remove `type=""button""`",https://github.com/radix-ui/primitives/pull/1011,2021-12-02T13:56:42Z,2021-12-03T13:57:13Z,5,2,MERGED
+primitives,[Tooltip] Avoid managing state outside of React,https://github.com/radix-ui/primitives/pull/1007,2021-12-01T16:32:31Z,2021-12-07T10:09:31Z,11,2,MERGED
+primitives,[All] Remove `IdProvider` and introduce `React.useId`,https://github.com/radix-ui/primitives/pull/1006,2021-11-30T15:54:12Z,2021-11-30T20:04:25Z,10,2,MERGED
+primitives,[Portal] Fix UnstablePortal.displayName (#988),https://github.com/radix-ui/primitives/pull/1005,2021-11-29T11:29:35Z,2021-11-29T14:01:04Z,0,1,MERGED
+primitives,[Dialog][AlertDialog] Fix `Dialog` unmount animation,https://github.com/radix-ui/primitives/pull/995,2021-11-22T17:43:27Z,2021-12-07T09:21:36Z,4,1,MERGED
+primitives,[Portal] Fix UnstablePortal.displayName,https://github.com/radix-ui/primitives/pull/988,2021-11-19T15:14:52Z,2021-11-29T11:28:54Z,2,2,MERGED
+primitives,[Accordion] Use `Collection` util,https://github.com/radix-ui/primitives/pull/984,2021-11-18T18:04:06Z,2021-11-25T14:08:18Z,3,1,MERGED
+primitives,[DropdownMenu][Tooltip][Tabs] Use button with `onClick` for trigger,https://github.com/radix-ui/primitives/pull/981,2021-11-17T18:09:48Z,2021-11-18T14:40:34Z,4,2,MERGED
+primitives,[Accordion] Patch for TypeError on mismatched prop types,https://github.com/radix-ui/primitives/pull/979,2021-11-17T15:24:34Z,2021-11-18T10:53:49Z,0,2,MERGED
+primitives,[Tabs] Prop comment consistency,https://github.com/radix-ui/primitives/pull/978,2021-11-17T13:14:26Z,2021-11-17T13:22:02Z,0,2,MERGED
+primitives,[Collapsible][Accordion] Disable animation when open on mount,https://github.com/radix-ui/primitives/pull/977,2021-11-17T11:10:20Z,2021-11-18T14:40:53Z,5,2,MERGED
+primitives,[Tabs] Prop comment consistency,https://github.com/radix-ui/primitives/pull/975,2021-11-17T01:46:26Z,2021-11-17T13:10:26Z,1,1,MERGED
+primitives,[DropdownMenu] Make sure a disabled trigger doesn't open,https://github.com/radix-ui/primitives/pull/974,2021-11-11T20:49:36Z,2021-11-12T10:42:33Z,2,2,MERGED
+primitives,[ToggleGroup] Fix `orientation` a11y,https://github.com/radix-ui/primitives/pull/965,2021-11-09T09:49:31Z,2021-11-11T19:18:18Z,1,1,MERGED
+primitives,[Dialog][AlertDialog] Enable outer scrolling dialog pattern,https://github.com/radix-ui/primitives/pull/963,2021-11-08T11:36:23Z,2021-11-08T14:38:42Z,3,3,MERGED
+primitives,[Accordion] Patch for TypeError on mismatched prop types when `type='multiple'` and `defaultValue='string'`,https://github.com/radix-ui/primitives/pull/959,2021-11-06T03:16:19Z,2021-11-17T15:19:53Z,6,4,MERGED
+primitives,[Toolbar] Remove `toolbaritem` role,https://github.com/radix-ui/primitives/pull/950,2021-11-02T19:19:53Z,2021-11-03T12:45:24Z,0,1,MERGED
+primitives,Wrap custom events dispatching with `flushSync`,https://github.com/radix-ui/primitives/pull/1292,2022-03-31T14:20:06Z,2022-05-10T16:37:21Z,13,6,CLOSED
+primitives,[Toast] Fix MutationObserver on key change,https://github.com/radix-ui/primitives/pull/1285,2022-03-30T15:12:20Z,2022-04-11T10:09:56Z,2,1,MERGED
+primitives,[Select] Fix defaultValue not being recognised,https://github.com/radix-ui/primitives/pull/1269,2022-03-24T21:12:29Z,2022-04-06T12:42:06Z,5,4,CLOSED
+primitives,don't run pointerMove when menu is closing,https://github.com/radix-ui/primitives/pull/1267,2022-03-24T01:19:59Z,2022-04-06T10:38:40Z,2,1,CLOSED
+primitives,Modify Menu to only register 1 listener instead of N,https://github.com/radix-ui/primitives/pull/1252,2022-03-16T17:15:23Z,2022-04-04T16:29:46Z,3,2,CLOSED
+primitives,[Select] Fix SelectContent asChild prop,https://github.com/radix-ui/primitives/pull/1245,2022-03-15T10:34:56Z,2022-04-04T11:59:37Z,1,1,MERGED
+primitives,Fixes #1223,https://github.com/radix-ui/primitives/pull/1224,2022-03-04T10:39:50Z,2022-04-06T12:43:18Z,2,2,CLOSED
+primitives,remove style outline:none from menu primitive,https://github.com/radix-ui/primitives/pull/1217,2022-03-03T03:36:12Z,2022-04-06T13:41:14Z,3,1,CLOSED
+primitives,Add `onContextMenu` prop to `MenuItem` (solves #1214),https://github.com/radix-ui/primitives/pull/1215,2022-03-01T23:47:57Z,2022-03-29T11:14:42Z,1,1,CLOSED
+primitives,[Select] Fix compatibility with React > 16.8,https://github.com/radix-ui/primitives/pull/1209,2022-02-28T14:55:22Z,2022-02-28T15:29:41Z,1,2,MERGED
+primitives,[Select] Fix focus issue when nested inside Dialog,https://github.com/radix-ui/primitives/pull/1200,2022-02-25T14:12:02Z,2022-02-25T14:34:03Z,0,1,MERGED
+primitives,[NavigationMenu] Resize observer type,https://github.com/radix-ui/primitives/pull/1197,2022-02-24T18:11:00Z,2022-02-24T18:19:45Z,0,1,MERGED
+primitives,[Select] Prevent separator from being announced (counted) in VO,https://github.com/radix-ui/primitives/pull/1196,2022-02-24T17:51:39Z,2022-02-24T17:58:54Z,0,1,MERGED
+primitives,[Toast] Fix toast reopen timer during animation,https://github.com/radix-ui/primitives/pull/1195,2022-02-24T17:00:51Z,2022-02-24T17:50:07Z,0,1,MERGED
+primitives,[NavigationMenu] Fix SSR autoValue mismatch,https://github.com/radix-ui/primitives/pull/1191,2022-02-24T13:29:41Z,2022-02-24T17:02:07Z,2,1,MERGED
+primitives,[Select] Prevent tabbing out,https://github.com/radix-ui/primitives/pull/1190,2022-02-24T13:09:12Z,2022-02-24T13:14:34Z,0,1,MERGED
+primitives,refactor(checkbox): import primitives from one statement,https://github.com/radix-ui/primitives/pull/1189,2022-02-24T12:08:47Z,2022-02-24T13:02:35Z,1,1,CLOSED
+primitives,[NavigationMenu] Fix `Viewport` size calculation in Safari,https://github.com/radix-ui/primitives/pull/1185,2022-02-24T01:01:05Z,2022-02-24T12:37:44Z,4,4,MERGED
+primitives,[Select] SSR,https://github.com/radix-ui/primitives/pull/1184,2022-02-23T15:28:17Z,2022-02-23T19:49:20Z,1,5,MERGED
+primitives,Remove package clean scripts,https://github.com/radix-ui/primitives/pull/1183,2022-02-23T14:55:06Z,2022-02-23T14:57:41Z,0,1,MERGED
+primitives,[NavigationMenu] Consistent auto value,https://github.com/radix-ui/primitives/pull/1180,2022-02-23T12:16:28Z,2022-02-23T12:41:44Z,0,1,MERGED
+primitives,[Select] Simplify keyboard logic,https://github.com/radix-ui/primitives/pull/1179,2022-02-23T11:14:56Z,2022-02-23T12:37:20Z,0,1,MERGED
+primitives,[NavigationMenu] Ignore mouse intent on touch,https://github.com/radix-ui/primitives/pull/1176,2022-02-23T09:18:34Z,2022-02-23T14:27:34Z,3,1,MERGED
+primitives,[Toast] Pointer capture on swipe only,https://github.com/radix-ui/primitives/pull/1174,2022-02-22T21:01:30Z,2022-02-23T11:09:00Z,2,1,MERGED
+primitives,[NavigationMenu] Avoid focus loss without viewport,https://github.com/radix-ui/primitives/pull/1173,2022-02-22T18:31:28Z,2022-02-23T11:13:02Z,3,1,MERGED
+primitives,[NavigationMenu] New primitive,https://github.com/radix-ui/primitives/pull/1172,2022-02-22T16:11:13Z,2022-02-23T15:27:22Z,0,5,MERGED
+primitives,[Toast] Close focused toast on escape keypress,https://github.com/radix-ui/primitives/pull/1170,2022-02-22T13:44:59Z,2022-02-23T14:04:20Z,2,1,MERGED
+primitives,[Select] New primitive,https://github.com/radix-ui/primitives/pull/1169,2022-02-22T10:53:56Z,2022-02-23T14:27:01Z,1,2,MERGED
+primitives,[Toast] Fix promise story,https://github.com/radix-ui/primitives/pull/1167,2022-02-21T16:59:05Z,2022-02-21T18:09:11Z,0,1,MERGED
+primitives,[Toast] New primitive,https://github.com/radix-ui/primitives/pull/1165,2022-02-18T20:07:04Z,2022-02-23T14:34:36Z,2,8,MERGED
+primitives,[DismissableLayer] Allow external nodes to be considered inside,https://github.com/radix-ui/primitives/pull/1161,2022-02-16T17:42:54Z,2022-02-17T14:14:06Z,1,1,MERGED
+primitives,[ContextMenu][DropdownMenu] Prevent submenu click from firing twice,https://github.com/radix-ui/primitives/pull/1157,2022-02-15T12:58:54Z,2022-02-15T19:01:49Z,1,1,MERGED
+primitives,[DismissableLayer] Add sibling support,https://github.com/radix-ui/primitives/pull/1147,2022-02-11T16:51:07Z,2022-02-15T21:02:24Z,5,2,MERGED
+primitives,[DropdownMenu] Focus last Item on ArrowUp on Trigger,https://github.com/radix-ui/primitives/pull/1143,2022-02-09T21:17:47Z,2022-04-06T12:33:42Z,10,8,CLOSED
+primitives,[DropdownMenu][ContextMenu] Bind keyboard checks only when necessary,https://github.com/radix-ui/primitives/pull/1140,2022-02-07T19:34:12Z,2022-02-15T20:44:30Z,6,1,MERGED
+primitives,[Menubar] Add Menubar primitive,https://github.com/radix-ui/primitives/pull/1137,2022-02-04T09:36:57Z,2023-01-18T14:17:26Z,22,18,CLOSED
+primitives,[Label] Consistent label ordering for screen readers,https://github.com/radix-ui/primitives/pull/1132,2022-02-02T14:46:04Z,2022-02-02T16:39:53Z,0,1,MERGED
+primitives,[Collapsible][Accordion] Fix content animation of collapsible,https://github.com/radix-ui/primitives/pull/1125,2022-01-30T13:13:17Z,2022-02-01T17:07:05Z,1,2,MERGED
+primitives,[Tabs] Add renderAll prop,https://github.com/radix-ui/primitives/pull/1123,2022-01-29T02:59:53Z,2022-01-30T12:27:31Z,1,3,CLOSED
+primitives,[Toolbar] Fix missing display name,https://github.com/radix-ui/primitives/pull/1122,2022-01-28T18:12:32Z,2022-01-28T18:26:20Z,0,2,MERGED
+primitives,[DropdownMenu][ContextMenu][RadioGroup][ScrollArea][Slider][Tabs][ToggleGroup][Toolbar] Direction provider,https://github.com/radix-ui/primitives/pull/1119,2022-01-25T14:12:41Z,2022-04-11T14:39:35Z,14,4,MERGED
+primitives,[ToggleGroup] Use radio role for single toggle group,https://github.com/radix-ui/primitives/pull/1118,2022-01-25T12:57:56Z,2022-01-26T10:33:56Z,1,2,MERGED
+primitives,[ToggleGroup] Allow item with empty string value,https://github.com/radix-ui/primitives/pull/1117,2022-01-25T12:16:40Z,2022-01-25T21:56:30Z,1,1,CLOSED
+primitives,[Tabs] Prevent accidental focus activation via right-click,https://github.com/radix-ui/primitives/pull/1114,2022-01-25T10:06:01Z,2022-01-25T18:04:54Z,0,1,MERGED
+primitives,[useSize] Avoid `undefined` when switching nodes,https://github.com/radix-ui/primitives/pull/1108,2022-01-21T20:23:23Z,2022-01-24T20:54:07Z,4,2,MERGED
+primitives,[Presence] Account for early node removal,https://github.com/radix-ui/primitives/pull/1107,2022-01-21T19:13:02Z,2022-01-24T20:52:33Z,1,2,MERGED
+primitives,[Checkbox][RadioGroup] Prevent enter key activation,https://github.com/radix-ui/primitives/pull/1104,2022-01-20T21:17:02Z,2022-01-21T14:41:51Z,2,1,MERGED
+primitives,[Tooltip] if skipDelayDuration is 0 don't ever skip delay,https://github.com/radix-ui/primitives/pull/1101,2022-01-19T18:50:46Z,2022-01-23T05:59:13Z,10,1,CLOSED
+primitives,[Dialog][AlertDialog] Add aria-describedby only when a description is provided,https://github.com/radix-ui/primitives/pull/1098,2022-01-17T21:11:46Z,2022-02-02T16:42:14Z,24,15,MERGED
+primitives,[DropdownMenu] Stop menu from preventing tab keypress,https://github.com/radix-ui/primitives/pull/1097,2022-01-17T20:43:03Z,2022-01-20T16:12:53Z,1,2,MERGED
+primitives,[Collapsible][Accordion] Add type attribute to accordion button,https://github.com/radix-ui/primitives/pull/1085,2022-01-13T19:55:04Z,2022-01-17T16:14:38Z,5,2,MERGED
+primitives,Run Chromatic for external forks,https://github.com/radix-ui/primitives/pull/1083,2022-01-13T12:59:43Z,2022-01-13T13:26:33Z,0,1,MERGED
+primitives,[DropdownMenu] Fix non-modal dropdown pointer-events,https://github.com/radix-ui/primitives/pull/1082,2022-01-13T11:45:50Z,2022-01-21T19:55:24Z,20,5,MERGED
+primitives,[Dialog][AlertDialog] Fix pointer-events management,https://github.com/radix-ui/primitives/pull/1079,2022-01-12T18:18:20Z,2022-01-13T11:41:07Z,2,1,MERGED
+primitives,[Slider] Prevent default for Home and End keys,https://github.com/radix-ui/primitives/pull/1076,2022-01-10T16:50:42Z,2022-01-13T18:03:21Z,10,4,MERGED
+primitives,[Dialog][AlertDialog] Share `forceMount` from Portal,https://github.com/radix-ui/primitives/pull/1075,2022-01-10T16:30:55Z,2022-04-07T11:59:56Z,6,5,MERGED
+primitives,[usePrevious] Persist return value between renders,https://github.com/radix-ui/primitives/pull/1066,2022-01-04T11:25:04Z,2022-01-11T19:30:01Z,4,2,MERGED
+primitives,[Fix][Dialog] forceMount type for `Overlay` & `Content`,https://github.com/radix-ui/primitives/pull/1060,2022-01-02T16:15:59Z,2022-01-04T22:22:13Z,2,3,CLOSED
+primitives,[Dialog] Allow multiple Dialog triggers with focus restoration,https://github.com/radix-ui/primitives/pull/1433,2022-05-29T22:19:09Z,2022-06-07T11:20:38Z,2,1,CLOSED
+primitives,[DropdownMenu][ContextMenu] Expose new `Portal` part,https://github.com/radix-ui/primitives/pull/1429,2022-05-27T13:56:51Z,2022-06-08T10:10:26Z,1,4,MERGED
+primitives,[Tooltip] Expose `Portal` part,https://github.com/radix-ui/primitives/pull/1427,2022-05-26T17:24:11Z,2022-05-31T10:20:27Z,0,3,MERGED
+primitives,[HoverCard] Expose `Portal` part,https://github.com/radix-ui/primitives/pull/1426,2022-05-26T17:08:04Z,2022-05-31T09:00:11Z,0,3,MERGED
+primitives,[Popover] Expose new `Portal` part,https://github.com/radix-ui/primitives/pull/1425,2022-05-26T16:38:57Z,2022-05-31T08:29:34Z,0,2,MERGED
+primitives,[DismissableLayer] Don't exit fullscreen when esc-ing out of a layer,https://github.com/radix-ui/primitives/pull/1423,2022-05-25T20:31:26Z,2022-05-27T09:38:04Z,2,1,MERGED
+primitives,[RadioGroup] Add `aria-required`,https://github.com/radix-ui/primitives/pull/1422,2022-05-25T16:28:18Z,2022-05-25T16:40:18Z,2,1,MERGED
+primitives,[Select] Fix mismatch with hidden native select,https://github.com/radix-ui/primitives/pull/1421,2022-05-25T11:59:36Z,2022-05-25T14:26:23Z,9,3,MERGED
+primitives,[DropdownMenu][ContextMenu] Make css variable name consistent on `Content`,https://github.com/radix-ui/primitives/pull/1419,2022-05-24T10:36:46Z,2022-05-24T10:44:17Z,0,1,MERGED
+primitives,[Primitive] Improve debugging,https://github.com/radix-ui/primitives/pull/1416,2022-05-23T15:14:31Z,2022-05-24T09:07:11Z,0,1,MERGED
+primitives,Add aria-required attribute,https://github.com/radix-ui/primitives/pull/1415,2022-05-23T09:14:50Z,2022-05-25T16:29:11Z,3,2,CLOSED
+primitives,[Tabs] Add `forceMount` to `Content`,https://github.com/radix-ui/primitives/pull/1414,2022-05-23T08:35:24Z,2022-05-23T09:03:36Z,0,1,MERGED
+primitives,[DropdownMenu][ContextMenu] Improve `SubContent` types,https://github.com/radix-ui/primitives/pull/1406,2022-05-18T13:21:59Z,2022-05-20T08:52:46Z,3,5,MERGED
+primitives,[ScrollArea] Add `ScrollAreaThumbImpl` part,https://github.com/radix-ui/primitives/pull/1404,2022-05-17T15:44:23Z,2022-05-18T15:06:42Z,3,4,MERGED
+primitives,[DismissableLayer] Fix pointer-events issues,https://github.com/radix-ui/primitives/pull/1401,2022-05-16T14:25:21Z,2022-05-19T12:49:35Z,9,7,MERGED
+primitives,[ContextMenu][DropdownMenu][Popover] Move `allowPinchZoom` to `Root`,https://github.com/radix-ui/primitives/pull/1400,2022-05-16T13:32:57Z,2022-05-20T11:03:53Z,0,2,MERGED
+primitives,[ContextMenu] Expose explicit `Sub` part,https://github.com/radix-ui/primitives/pull/1396,2022-05-13T18:30:42Z,2022-05-18T08:47:41Z,2,3,MERGED
+primitives,[DropdownMenu][ContextMenu] Provide explicit `Sub` parts,https://github.com/radix-ui/primitives/pull/1394,2022-05-12T19:00:31Z,2022-05-20T09:49:18Z,4,7,MERGED
+primitives,[DropdownMenu] Expose explicit `Sub` part,https://github.com/radix-ui/primitives/pull/1393,2022-05-12T17:23:34Z,2022-05-18T08:45:56Z,9,2,MERGED
+primitives,[ScrollArea] Add `Presence` to `ScrollThumb`,https://github.com/radix-ui/primitives/pull/1392,2022-05-12T15:15:24Z,2022-05-13T08:50:15Z,6,8,MERGED
+primitives,[RovingFocusGroup][Toast][Tooltip] Avoid flushing dispatch when called in lifecycle,https://github.com/radix-ui/primitives/pull/1389,2022-05-11T11:43:45Z,2022-05-12T16:45:02Z,12,6,MERGED
+primitives,[Menu][Select] Add `data-highlighted` attribute,https://github.com/radix-ui/primitives/pull/1388,2022-05-11T11:05:26Z,2022-05-11T14:32:43Z,0,2,MERGED
+primitives,[Select] Add placeholder support,https://github.com/radix-ui/primitives/pull/1384,2022-05-10T15:59:58Z,2022-05-11T19:16:19Z,9,3,MERGED
+primitives,"[Select] When there's no `value` or `defaultValue`, align with first non-disabled item",https://github.com/radix-ui/primitives/pull/1379,2022-05-09T15:05:53Z,2022-05-10T15:36:20Z,14,10,MERGED
+primitives,[react/primitive] React 18 – Flush discrete `CustomEvent` dispatch calls,https://github.com/radix-ui/primitives/pull/1378,2022-05-09T09:46:37Z,2022-05-10T16:21:10Z,13,8,MERGED
+primitives,[Slot] Fix children expectation when using `Slottable`,https://github.com/radix-ui/primitives/pull/1376,2022-05-06T09:48:16Z,2022-05-06T13:51:36Z,7,5,MERGED
+primitives,[Select] Add more chromatic coverage,https://github.com/radix-ui/primitives/pull/1373,2022-05-05T12:27:17Z,2022-05-05T19:33:52Z,3,3,MERGED
+primitives,[NavigationMenu] Improve router link event composition,https://github.com/radix-ui/primitives/pull/1372,2022-05-05T11:54:04Z,2022-05-06T08:35:50Z,2,3,MERGED
+primitives,[Select] Fix alignment issues,https://github.com/radix-ui/primitives/pull/1370,2022-05-04T08:37:53Z,2022-05-05T21:39:39Z,4,5,MERGED
+primitives,[Select] Add chromatic stories,https://github.com/radix-ui/primitives/pull/1367,2022-05-03T13:07:17Z,2022-05-06T08:06:43Z,1,4,MERGED
+primitives,Fix React resolution issue in SSR test app,https://github.com/radix-ui/primitives/pull/1366,2022-05-03T11:28:13Z,2022-05-03T16:24:11Z,1,2,MERGED
+primitives,"[Tooltip] Standardise on `pointerEvent`, don't open on touch",https://github.com/radix-ui/primitives/pull/1358,2022-04-29T11:38:52Z,2022-04-29T12:37:19Z,2,1,MERGED
+primitives,[Select] Fix positioning issue when few items are present,https://github.com/radix-ui/primitives/pull/1355,2022-04-29T10:17:35Z,2022-04-29T11:23:47Z,0,1,MERGED
+primitives,[NavigationMenu] Close on `Link` click,https://github.com/radix-ui/primitives/pull/1347,2022-04-27T19:47:07Z,2022-04-28T13:29:41Z,3,3,MERGED
+primitives,[Tabs] Add animation support for content,https://github.com/radix-ui/primitives/pull/1346,2022-04-27T16:42:35Z,2022-05-20T13:57:03Z,8,6,MERGED
+primitives,[Presence] React 18 – Fix animation frame sync flicker ,https://github.com/radix-ui/primitives/pull/1344,2022-04-26T10:42:44Z,2022-04-27T10:23:27Z,8,4,MERGED
+primitives,update chromatic github workflow,https://github.com/radix-ui/primitives/pull/1335,2022-04-21T06:47:47Z,2022-04-22T09:15:20Z,3,1,CLOSED
+primitives,Prevent minification,https://github.com/radix-ui/primitives/pull/1332,2022-04-14T16:54:45Z,2024-08-16T19:44:19Z,7,1,CLOSED
+primitives,[Polymorphic] Sunset package :wave:,https://github.com/radix-ui/primitives/pull/1331,2022-04-14T11:19:20Z,2022-04-14T13:32:19Z,3,1,MERGED
+primitives,React 18,https://github.com/radix-ui/primitives/pull/1329,2022-04-13T15:59:56Z,2022-04-14T11:17:11Z,5,6,MERGED
+primitives,[ScrollArea] Cleanup setState unmount warning,https://github.com/radix-ui/primitives/pull/1320,2022-04-11T14:32:49Z,2022-04-11T14:53:58Z,0,1,MERGED
+primitives,[Global] Update types to adhere to React 18,https://github.com/radix-ui/primitives/pull/1318,2022-04-11T08:44:47Z,2022-04-13T18:13:09Z,3,4,CLOSED
+primitives,Don't minify build output,https://github.com/radix-ui/primitives/pull/1316,2022-04-08T17:22:35Z,2022-04-14T16:57:07Z,2,1,CLOSED
+primitives,"[Tooltip] Better ""close on scroll"" implementation",https://github.com/radix-ui/primitives/pull/1315,2022-04-08T17:20:11Z,2022-04-11T13:20:49Z,2,2,MERGED
+primitives,[Tooltip] Participate in dismissable stack,https://github.com/radix-ui/primitives/pull/1314,2022-04-08T15:44:27Z,2022-04-11T10:37:27Z,2,3,MERGED
+primitives,[Select] Fix position issue with Content padding,https://github.com/radix-ui/primitives/pull/1313,2022-04-07T10:48:28Z,2022-04-07T11:02:45Z,0,1,MERGED
+primitives,[Toast] Allow `children` in `Viewport` types for `asChild` composition,https://github.com/radix-ui/primitives/pull/1300,2022-04-04T11:17:50Z,2022-04-04T11:49:02Z,2,1,MERGED
+primitives,[NavigationMenu] Fix menu reopening on mouse move when closed with Esc,https://github.com/radix-ui/primitives/pull/1579,2022-07-28T03:15:50Z,2022-09-30T09:51:54Z,5,9,MERGED
+primitives,[Menu] Allow Tabs default behavior,https://github.com/radix-ui/primitives/pull/1576,2022-07-26T14:35:19Z,2023-01-18T14:33:04Z,2,2,CLOSED
+primitives,[Menu] Expose onEntryFocus and onOpenAutoFocus,https://github.com/radix-ui/primitives/pull/1574,2022-07-25T20:50:53Z,2023-01-18T14:22:45Z,2,3,CLOSED
+primitives,[Toast] Announce as status rather than group,https://github.com/radix-ui/primitives/pull/1556,2022-07-22T13:46:45Z,2022-07-22T15:02:54Z,0,1,MERGED
+primitives,[DropdownMenu] fix typo on DropdownMenuProps,https://github.com/radix-ui/primitives/pull/1551,2022-07-21T15:19:35Z,2022-07-21T15:55:03Z,1,1,CLOSED
+primitives,[Dialog][Popover][DropdownMenu][ContextMenu][Select] Upgrade react-remove-scroll,https://github.com/radix-ui/primitives/pull/1550,2022-07-21T15:02:48Z,2022-07-21T15:12:36Z,0,1,MERGED
+primitives,V1 versions,https://github.com/radix-ui/primitives/pull/1544,2022-07-20T18:07:11Z,2022-07-20T18:32:43Z,0,3,MERGED
+primitives,[Popper] Remove old `offset` prop from `Arrow`'s types,https://github.com/radix-ui/primitives/pull/1541,2022-07-20T15:21:33Z,2022-07-20T15:29:58Z,0,1,MERGED
+primitives,[Popper] Expose new `collisionBoundary` prop,https://github.com/radix-ui/primitives/pull/1540,2022-07-20T10:23:42Z,2022-07-20T10:48:30Z,0,5,MERGED
+primitives,Add missing TooltipProvider in stories/ssr playground,https://github.com/radix-ui/primitives/pull/1537,2022-07-19T17:55:32Z,2022-07-19T19:20:12Z,0,1,MERGED
+primitives,[Popper] Use `floating-ui`,https://github.com/radix-ui/primitives/pull/1531,2022-07-15T10:35:56Z,2022-07-19T17:52:07Z,11,25,MERGED
+primitives,[RadioGroup] Add `disabled` prop to `Root`,https://github.com/radix-ui/primitives/pull/1530,2022-07-13T23:56:00Z,2022-09-30T15:27:31Z,17,3,MERGED
+primitives,[Toast] Fix regression with `altText` announce,https://github.com/radix-ui/primitives/pull/1528,2022-07-13T12:59:45Z,2022-07-18T14:36:48Z,8,4,MERGED
+primitives,Prevent ToolbarItem click from firing twice,https://github.com/radix-ui/primitives/pull/1526,2022-07-13T06:27:05Z,2022-07-21T10:25:42Z,5,6,MERGED
+primitives,[Popper] Change default strategy to use position: fixed,https://github.com/radix-ui/primitives/pull/1516,2022-07-08T11:44:02Z,2022-07-14T10:00:48Z,3,2,CLOSED
+primitives,[AlertDialog][ContextMenu][Dialog][DropdownMenu][Popover][Select] Remove `allowPinchZoom` prop,https://github.com/radix-ui/primitives/pull/1514,2022-07-07T11:51:30Z,2022-07-07T15:04:35Z,0,1,MERGED
+primitives,"[Popper][Popover][Dropdown] Allow PopperContent to be rendered positioned ""fixed"" with fixed/sticky anchors",https://github.com/radix-ui/primitives/pull/1508,2022-07-04T20:47:02Z,2022-07-08T12:54:20Z,1,2,CLOSED
+primitives,Order input element above switch element ,https://github.com/radix-ui/primitives/pull/1494,2022-06-28T16:13:55Z,2022-06-28T20:33:13Z,1,2,CLOSED
+primitives,[Tooltip] Content accessible via pointer,https://github.com/radix-ui/primitives/pull/1490,2022-06-23T10:19:51Z,2022-07-07T15:20:01Z,20,5,MERGED
+primitives,List exports explicitly in index files,https://github.com/radix-ui/primitives/pull/1483,2022-06-20T12:44:34Z,2022-06-21T11:01:00Z,0,1,MERGED
+primitives,Fix Text Selection of HoverCard,https://github.com/radix-ui/primitives/pull/1479,2022-06-19T03:24:27Z,2022-09-29T09:37:32Z,1,1,CLOSED
+primitives,[NavigationMenu] add delay duration skip delay duration props,https://github.com/radix-ui/primitives/pull/1478,2022-06-18T21:07:24Z,2022-10-13T16:18:03Z,7,3,CLOSED
+primitives,Add onPause and onResume props to Toast,https://github.com/radix-ui/primitives/pull/1477,2022-06-18T18:39:27Z,2022-09-16T15:54:55Z,2,2,CLOSED
+primitives,Fix tree shaking,https://github.com/radix-ui/primitives/pull/1474,2022-06-17T11:33:20Z,2022-06-20T11:56:22Z,1,2,CLOSED
+primitives,[Toast] Manually reverse tab order,https://github.com/radix-ui/primitives/pull/1469,2022-06-13T19:11:39Z,2022-06-16T14:53:46Z,19,5,MERGED
+primitives,[Toast] Fix layout animation in Framer Motion,https://github.com/radix-ui/primitives/pull/1468,2022-06-13T18:45:40Z,2022-06-16T14:28:48Z,4,3,MERGED
+primitives,Upgrade stitches,https://github.com/radix-ui/primitives/pull/1465,2022-06-13T12:57:56Z,2022-06-13T13:17:22Z,0,1,MERGED
+primitives,[Portal] Kill old portal and replace with new one,https://github.com/radix-ui/primitives/pull/1463,2022-06-10T12:27:34Z,2022-06-10T13:35:06Z,0,3,MERGED
+primitives,[Portal] Kill old portal and replace with new one,https://github.com/radix-ui/primitives/pull/1460,2022-06-09T16:38:27Z,2022-06-10T10:47:05Z,2,2,MERGED
+primitives,[Select] Bring parity with other primitives,https://github.com/radix-ui/primitives/pull/1459,2022-06-09T15:15:01Z,2022-06-10T13:02:08Z,1,7,MERGED
+primitives,[ContextMenu] Add `data-state` to `Trigger`,https://github.com/radix-ui/primitives/pull/1455,2022-06-08T14:56:20Z,2022-06-08T18:05:23Z,0,1,MERGED
+primitives,[Menu][Popover][Select] Minimise number of extra divs,https://github.com/radix-ui/primitives/pull/1452,2022-06-07T18:15:28Z,2022-06-08T10:45:55Z,4,1,MERGED
+primitives,Resolve react-remove-scroll offset regression,https://github.com/radix-ui/primitives/pull/1448,2022-06-06T12:31:48Z,2022-06-06T15:52:42Z,0,1,MERGED
+primitives,Try to avoid stealing focus unnecessarily when FocusScope unmounts,https://github.com/radix-ui/primitives/pull/1444,2022-06-03T10:00:04Z,2022-07-22T15:22:59Z,4,1,CLOSED
+primitives,Update Modulz -> WorkOS,https://github.com/radix-ui/primitives/pull/1440,2022-06-01T13:58:19Z,2022-06-01T14:15:28Z,0,1,MERGED
+primitives,"[ContextMenu] Add ""disabled"" prop to Context Menu trigger",https://github.com/radix-ui/primitives/pull/1746,2022-10-29T08:57:54Z,2022-12-12T11:57:10Z,10,9,MERGED
+primitives,[Checkbox] Reset checkbox checked state when form is reset,https://github.com/radix-ui/primitives/pull/1733,2022-10-21T00:00:05Z,2023-01-30T16:42:51Z,8,6,MERGED
+primitives,Resolve dev console `scrollbar size calculation` warning,https://github.com/radix-ui/primitives/pull/1730,2022-10-19T12:36:36Z,2022-10-19T13:22:48Z,3,1,MERGED
+primitives,Fix SSR issues accessing `document`,https://github.com/radix-ui/primitives/pull/1725,2022-10-17T10:16:57Z,2022-10-17T10:26:15Z,0,1,MERGED
+primitives,"[Menu] Support typeahead without ""menu"" role",https://github.com/radix-ui/primitives/pull/1723,2022-10-14T22:27:42Z,2022-10-17T08:46:36Z,2,1,MERGED
+primitives,[NavigationMenu] Add `delayDuration` and `skipDelayDuration` to `Root`,https://github.com/radix-ui/primitives/pull/1716,2022-10-13T16:09:14Z,2022-10-14T11:00:03Z,1,3,MERGED
+primitives,[Slot] Don't eagerly create callbacks,https://github.com/radix-ui/primitives/pull/1713,2022-10-12T08:52:42Z,2022-10-12T11:54:24Z,0,3,MERGED
+primitives,[Select] Ensure `required` works correctly,https://github.com/radix-ui/primitives/pull/1711,2022-10-11T14:10:27Z,2022-10-12T07:48:26Z,1,1,MERGED
+primitives,[Collapsible][Accordion] Fix initial animation playback in Firefox and Safari,https://github.com/radix-ui/primitives/pull/1710,2022-10-10T15:17:40Z,2022-10-11T11:21:42Z,3,2,MERGED
+primitives,[Select] Add `disabled` prop to `Root`,https://github.com/radix-ui/primitives/pull/1699,2022-10-04T03:58:29Z,2022-10-10T10:34:35Z,3,4,MERGED
+primitives,[Slider] Add `onValueCommit` for discrete value changes,https://github.com/radix-ui/primitives/pull/1696,2022-09-30T11:17:14Z,2022-10-10T11:16:45Z,2,2,MERGED
+primitives,[Slider] Allow visual inversion,https://github.com/radix-ui/primitives/pull/1695,2022-09-29T15:08:03Z,2022-09-29T17:27:43Z,4,4,MERGED
+primitives,[Tooltip] Shouldn't open if trigger is clicked **before** the tooltip opens,https://github.com/radix-ui/primitives/pull/1693,2022-09-28T13:56:41Z,2022-09-28T20:14:54Z,0,1,MERGED
+primitives,[HoverCard] Contain user text selections,https://github.com/radix-ui/primitives/pull/1692,2022-09-28T12:38:42Z,2022-09-30T14:51:44Z,7,4,MERGED
+primitives,[Label] Use native `label`,https://github.com/radix-ui/primitives/pull/1686,2022-09-26T13:32:23Z,2022-09-26T14:40:34Z,4,2,MERGED
+primitives,[Popper] Allow more control over avoidCollisions,https://github.com/radix-ui/primitives/pull/1683,2022-09-22T23:25:19Z,2023-03-02T03:10:13Z,2,1,CLOSED
+primitives,[Toast] Fix timer issues,https://github.com/radix-ui/primitives/pull/1682,2022-09-22T17:51:55Z,2022-09-26T13:36:40Z,6,3,MERGED
+primitives,[DismissableLayer] Add DOM event handlers to ownerDocument,https://github.com/radix-ui/primitives/pull/1677,2022-09-21T00:16:11Z,2022-09-29T19:15:50Z,7,1,MERGED
+primitives,[Toast] Add `onPause` and `onResume`,https://github.com/radix-ui/primitives/pull/1669,2022-09-16T15:45:08Z,2022-09-20T13:05:45Z,1,2,MERGED
+primitives,[Toast] Fix dom conflicts with announce,https://github.com/radix-ui/primitives/pull/1668,2022-09-16T15:12:33Z,2022-09-20T12:43:32Z,7,4,MERGED
+primitives,[Popper] Add containHeight prop to menus,https://github.com/radix-ui/primitives/pull/1659,2022-09-12T19:32:50Z,2023-02-08T12:54:47Z,3,1,CLOSED
+primitives,[DropdownMenu] Prevent passing keydown event to the focused MenuItem from MenuTrigger,https://github.com/radix-ui/primitives/pull/1647,2022-09-06T21:43:23Z,2022-09-21T10:49:48Z,1,2,MERGED
+primitives,[DropdownMenu] Set aria-expanded according to Dropdown state,https://github.com/radix-ui/primitives/pull/1644,2022-09-04T12:03:22Z,2022-09-06T10:46:02Z,2,1,MERGED
+primitives,Remove  prettier-ignore from @radix-ui/react-primitive,https://github.com/radix-ui/primitives/pull/1626,2022-08-21T04:15:42Z,2022-08-23T01:48:09Z,2,1,CLOSED
+primitives,"[Menu, DropdownMenu] Allow CheckboxItem state to be indeterminate",https://github.com/radix-ui/primitives/pull/1624,2022-08-17T21:41:45Z,2022-10-10T09:32:27Z,15,6,MERGED
+primitives,[Select] Add required prop,https://github.com/radix-ui/primitives/pull/1598,2022-08-04T10:39:08Z,2022-10-11T07:27:05Z,7,3,MERGED
+primitives,[Popper] Add support for limiting height to available space,https://github.com/radix-ui/primitives/pull/1597,2022-08-03T21:38:49Z,2023-02-08T12:54:36Z,4,3,CLOSED
+primitives,[Select] Add ability to position as popper,https://github.com/radix-ui/primitives/pull/1853,2022-12-20T15:32:34Z,2023-01-16T12:23:00Z,18,9,MERGED
+primitives,[Menubar] Improve keyboard controls,https://github.com/radix-ui/primitives/pull/1852,2022-12-20T11:07:05Z,2023-01-16T14:17:39Z,11,7,MERGED
+primitives,[Accordion] Add `orientation` prop to support horizontal orientation,https://github.com/radix-ui/primitives/pull/1850,2022-12-19T23:25:55Z,2023-01-17T13:01:42Z,7,5,MERGED
+primitives,[Presence] Ensure `onAnimationEnd` when closing,https://github.com/radix-ui/primitives/pull/1849,2022-12-19T21:24:51Z,2024-09-26T20:33:33Z,1,1,MERGED
+primitives,[Menubar] Add base implementation,https://github.com/radix-ui/primitives/pull/1847,2022-12-19T16:30:38Z,2023-01-16T14:01:38Z,1,2,MERGED
+primitives,[Menubar] New primitive,https://github.com/radix-ui/primitives/pull/1846,2022-12-19T10:17:49Z,2023-01-16T15:31:47Z,1,7,MERGED
+primitives,Use Owner document for selected components,https://github.com/radix-ui/primitives/pull/1845,2022-12-18T19:46:54Z,2024-09-27T16:41:05Z,6,8,CLOSED
+primitives,Fix next context menu version,https://github.com/radix-ui/primitives/pull/1832,2022-12-14T10:30:01Z,2022-12-14T10:43:30Z,0,1,MERGED
+primitives,[Select] Add aria-invalid when BubbleSelect is invalid,https://github.com/radix-ui/primitives/pull/1810,2022-12-02T06:30:16Z,2024-08-16T20:00:39Z,1,2,CLOSED
+primitives,[Dialog] Allow first focus on anchors,https://github.com/radix-ui/primitives/pull/1796,2022-11-18T17:10:38Z,2023-02-09T11:55:05Z,7,2,CLOSED
+primitives,[Menu] Only require onCheckedChange to handle boolean values,https://github.com/radix-ui/primitives/pull/1778,2022-11-10T17:49:23Z,2023-02-09T11:58:03Z,3,3,MERGED
+primitives,[Select] add scroll button onClick for better touch experience,https://github.com/radix-ui/primitives/pull/1771,2022-11-08T19:46:04Z,2023-05-19T17:21:54Z,0,2,MERGED
+primitives,Standardize checking for pointer capture before releasing,https://github.com/radix-ui/primitives/pull/1754,2022-11-03T12:56:05Z,2022-11-03T13:22:00Z,1,1,MERGED
+primitives,[Select] fix invalid pointerId in Firefox Cypress test,https://github.com/radix-ui/primitives/pull/1753,2022-11-03T06:14:39Z,2022-11-03T12:20:49Z,5,1,MERGED
+primitives,[DropdownMenu][ContextMenu] Don't exit fullscreen when esc-ing out of a submenu,https://github.com/radix-ui/primitives/pull/1752,2022-11-02T22:47:09Z,2023-02-08T14:25:01Z,2,3,MERGED
+primitives,[Select] Prevent items longer than the window width to be positioned outside of the viewport,https://github.com/radix-ui/primitives/pull/2053,2023-03-29T09:29:07Z,2024-09-27T07:01:30Z,2,1,CLOSED
+primitives,[Tabs] Add partial unit tests,https://github.com/radix-ui/primitives/pull/2035,2023-03-20T14:03:29Z,2024-08-16T20:10:27Z,3,4,CLOSED
+primitives,[Popper] Upgrade floating-ui,https://github.com/radix-ui/primitives/pull/2032,2023-03-19T17:30:33Z,2023-05-19T14:13:45Z,18,6,MERGED
+primitives,[RovingFocusGroup] Make roving focus group tabbable by default until we know if we have items or not,https://github.com/radix-ui/primitives/pull/2027,2023-03-16T15:00:01Z,2024-09-26T20:58:56Z,2,1,CLOSED
+primitives,Fix Form exports,https://github.com/radix-ui/primitives/pull/2016,2023-03-09T11:03:50Z,2023-03-09T12:02:14Z,0,2,MERGED
+primitives,[Form] Export FormLabel correctly,https://github.com/radix-ui/primitives/pull/2015,2023-03-09T01:28:26Z,2023-03-09T11:05:08Z,1,1,CLOSED
+primitives,[Slider] better extend Thumb styles,https://github.com/radix-ui/primitives/pull/2014,2023-03-08T17:49:25Z,2023-03-16T12:41:52Z,3,1,CLOSED
+primitives,[Small Feat] Use inertOthers instead of hideOthers,https://github.com/radix-ui/primitives/pull/2003,2023-03-07T15:37:56Z,2024-09-26T23:35:36Z,2,2,CLOSED
+primitives,New `Form` primitive,https://github.com/radix-ui/primitives/pull/1998,2023-03-06T14:03:36Z,2023-03-07T13:04:45Z,13,15,MERGED
+primitives,Fix position when use anchor css properties,https://github.com/radix-ui/primitives/pull/1995,2023-03-04T21:06:17Z,2023-03-10T15:21:05Z,9,5,MERGED
+primitives,[Slider] Clamp thumbs position within range,https://github.com/radix-ui/primitives/pull/1988,2023-02-26T20:59:24Z,2023-03-17T14:32:46Z,3,4,MERGED
+primitives,Fix failing dependency installations in CI,https://github.com/radix-ui/primitives/pull/1984,2023-02-24T09:08:38Z,2023-02-24T09:51:27Z,0,1,MERGED
+primitives,RFC: Radix Auth project,https://github.com/radix-ui/primitives/pull/1978,2023-02-22T13:21:20Z,2024-09-26T20:57:52Z,4,2,CLOSED
+primitives,RFC: `Form` primitive,https://github.com/radix-ui/primitives/pull/1977,2023-02-22T13:19:21Z,2024-09-26T20:58:12Z,71,4,CLOSED
+primitives,"[Menu] Only close one submenu per escape keypress, per WAI-ARIA",https://github.com/radix-ui/primitives/pull/1964,2023-02-17T20:50:47Z,2023-03-16T14:25:03Z,1,1,CLOSED
+primitives,Fix hovering on tooltip by increasing grace area,https://github.com/radix-ui/primitives/pull/1960,2023-02-15T13:55:48Z,2023-03-18T09:22:07Z,4,2,CLOSED
+primitives,[Menubar] Add missing popper custom properties,https://github.com/radix-ui/primitives/pull/1943,2023-02-08T14:00:09Z,2023-02-08T14:12:00Z,0,1,MERGED
+primitives,Re-namespace new custom properties from `Popper`,https://github.com/radix-ui/primitives/pull/1942,2023-02-08T12:51:22Z,2023-02-08T13:53:43Z,3,1,MERGED
+primitives,Remove use of deprecated set-output,https://github.com/radix-ui/primitives/pull/1931,2023-02-05T13:05:25Z,2023-02-07T10:08:49Z,2,3,MERGED
+primitives,Cleanup: remove custom ComponentPropsWIthoutRef type,https://github.com/radix-ui/primitives/pull/1913,2023-01-29T13:08:53Z,2024-01-02T21:03:41Z,5,1,CLOSED
+primitives,ES Modules: switch from .module.js to .mjs,https://github.com/radix-ui/primitives/pull/1908,2023-01-26T17:13:32Z,2023-05-19T14:40:43Z,3,1,CLOSED
+primitives,[Menubar] Rename `SubMenu` to `Sub`,https://github.com/radix-ui/primitives/pull/1892,2023-01-17T13:05:39Z,2023-01-17T13:17:01Z,0,2,MERGED
+primitives,[Popper] Consistently calculate logical alignments,https://github.com/radix-ui/primitives/pull/1890,2023-01-16T10:38:24Z,2023-01-16T11:03:11Z,0,1,MERGED
+primitives,[MenuBar] Add Cypress and Chromatic tests,https://github.com/radix-ui/primitives/pull/1883,2023-01-11T11:53:29Z,2023-01-16T14:42:08Z,3,3,MERGED
+primitives,[MenuBar] Provide appropriate position defaults,https://github.com/radix-ui/primitives/pull/1881,2023-01-10T15:38:43Z,2023-01-16T14:22:27Z,2,1,MERGED
+primitives,Always constrain popper to collison boundary,https://github.com/radix-ui/primitives/pull/1868,2023-01-04T21:56:01Z,2023-01-05T14:35:01Z,5,1,CLOSED
+primitives,Remove primitive element types from `Portal` part,https://github.com/radix-ui/primitives/pull/2178,2023-05-30T20:48:03Z,2023-05-31T09:40:37Z,1,2,MERGED
+primitives,Fix dispatch onPointerDownOutside on touch when click inside,https://github.com/radix-ui/primitives/pull/2177,2023-05-30T17:28:06Z,2023-05-31T09:20:14Z,1,4,MERGED
+primitives,Fix dispatch `onPointerDownOutside` on touch when click inside,https://github.com/radix-ui/primitives/pull/2176,2023-05-30T16:39:29Z,2023-05-30T17:27:25Z,0,3,CLOSED
+primitives,[ScrollArea] `scroll-behavior: smooth` compatibility,https://github.com/radix-ui/primitives/pull/2175,2023-05-30T16:26:46Z,2023-05-30T16:57:49Z,2,1,MERGED
+primitives,"[Select] Use `""""` `value` to reset to placeholder",https://github.com/radix-ui/primitives/pull/2174,2023-05-30T14:06:43Z,2023-05-30T14:48:34Z,16,2,MERGED
+primitives,[Select] Implement fallbacks for placeholder,https://github.com/radix-ui/primitives/pull/2167,2023-05-26T15:12:47Z,2023-05-30T14:11:07Z,1,3,CLOSED
+primitives,[Toggle]: Add unit tests,https://github.com/radix-ui/primitives/pull/2161,2023-05-25T12:17:56Z,2023-05-25T13:23:45Z,1,4,MERGED
+primitives,chore: Update .nvmrc to 16.17.0 and highlight it on CONTRIBUTING,https://github.com/radix-ui/primitives/pull/2160,2023-05-25T11:46:17Z,2023-05-25T12:14:09Z,1,2,MERGED
+primitives,[Tooltip] Improve grace area calculation,https://github.com/radix-ui/primitives/pull/2155,2023-05-24T04:52:23Z,2023-05-25T10:13:29Z,0,2,MERGED
+primitives,"[Tooltip] Add ""closeDelayDuration"" prop",https://github.com/radix-ui/primitives/pull/2148,2023-05-21T00:25:51Z,2023-05-23T16:15:18Z,5,2,CLOSED
+primitives,Fix react types dependency,https://github.com/radix-ui/primitives/pull/2147,2023-05-19T19:37:28Z,2023-05-22T07:26:38Z,1,2,MERGED
+primitives,[FocusScope] Maintain trap when deleting focused element,https://github.com/radix-ui/primitives/pull/2145,2023-05-16T15:35:53Z,2023-05-16T17:11:37Z,2,3,MERGED
+primitives,Group stories as per website,https://github.com/radix-ui/primitives/pull/2142,2023-05-15T14:56:31Z,2023-05-15T15:12:06Z,1,1,MERGED
+primitives,[Slot] Update error message for asChild with multiple children.,https://github.com/radix-ui/primitives/pull/2141,2023-05-15T09:44:50Z,2023-07-17T17:45:03Z,1,2,CLOSED
+primitives,Fix checkbox  defaultChecked unexpected changing in form,https://github.com/radix-ui/primitives/pull/2135,2023-05-12T02:42:55Z,2024-09-26T22:21:57Z,0,3,MERGED
+primitives,fix: ECMAScript Modules in Node.js,https://github.com/radix-ui/primitives/pull/2130,2023-05-07T18:18:21Z,2023-05-19T15:02:31Z,6,2,MERGED
+primitives,[Dialog] Allow to set `disableOutsidePointerEvents` on DialogContent,https://github.com/radix-ui/primitives/pull/2123,2023-05-01T17:10:40Z,2023-05-22T11:06:44Z,2,1,CLOSED
+primitives,Fix `Slot` when used in an RSC,https://github.com/radix-ui/primitives/pull/2116,2023-04-27T15:00:56Z,2023-05-04T15:09:34Z,2,2,MERGED
+primitives,[Popover] Fix close/re-open bug on Safari,https://github.com/radix-ui/primitives/pull/2110,2023-04-25T14:27:10Z,2023-04-25T15:53:01Z,2,1,MERGED
+primitives,[Accordion] Refactor AccordionItem data-state to use getState helper,https://github.com/radix-ui/primitives/pull/2095,2023-04-20T22:14:58Z,2023-04-24T12:09:36Z,1,2,MERGED
+primitives,[Dialog] fix accessibility issue - remove focusable elements from ARIA hidden element,https://github.com/radix-ui/primitives/pull/2094,2023-04-20T05:33:33Z,2023-04-25T13:46:13Z,3,1,CLOSED
+primitives,[Popper] Add option to always re-position popper (rAF-based),https://github.com/radix-ui/primitives/pull/2092,2023-04-19T22:50:39Z,2023-06-05T09:47:58Z,1,4,MERGED
+primitives,[Toast] Fix jsdoc comment typo,https://github.com/radix-ui/primitives/pull/2082,2023-04-14T12:24:07Z,2023-05-17T19:13:37Z,2,2,MERGED
+primitives,[NavigationMenu] Do not close when metaKey is down,https://github.com/radix-ui/primitives/pull/2080,2023-04-13T14:21:15Z,2023-04-24T12:38:09Z,0,1,MERGED
+primitives,Update useControllableState.tsx,https://github.com/radix-ui/primitives/pull/2070,2023-04-04T18:30:44Z,2023-04-22T02:31:20Z,4,2,CLOSED
+primitives,[DropdownMenu] Allow click events that are not only triggered by pointers,https://github.com/radix-ui/primitives/pull/2063,2023-04-02T20:49:07Z,2024-09-26T22:17:23Z,1,1,CLOSED
+primitives,refactor: modify primitive forwardRef type,https://github.com/radix-ui/primitives/pull/2289,2023-07-20T07:22:46Z,2023-07-21T11:02:22Z,0,1,CLOSED
+primitives,[Slot] Allow slot to override child's handlers instead of composing,https://github.com/radix-ui/primitives/pull/2234,2023-06-29T03:17:38Z,2023-07-21T01:40:50Z,3,6,CLOSED
+primitives,Correct numbered list in CONTRIBUTING.md,https://github.com/radix-ui/primitives/pull/2231,2023-06-26T20:35:07Z,2024-08-16T20:18:00Z,0,1,MERGED
+primitives,[Slot] fix `React.memo` when using `asChild`,https://github.com/radix-ui/primitives/pull/2205,2023-06-13T20:43:36Z,2024-09-26T23:24:19Z,2,4,CLOSED
+primitives,Update VisuallyHidden.tsx,https://github.com/radix-ui/primitives/pull/2203,2023-06-13T00:47:58Z,2024-08-16T19:23:15Z,0,2,MERGED
+primitives,Add `use client` directive to support Next.js 13,https://github.com/radix-ui/primitives/pull/2188,2023-06-04T13:05:48Z,2024-08-16T20:22:07Z,3,2,CLOSED
+primitives,[Popper] pass `detectOverflowOptions` to `hide` modifier,https://github.com/radix-ui/primitives/pull/2185,2023-06-02T15:45:28Z,2023-06-05T09:38:00Z,0,1,MERGED
+primitives,Limit focus retention to when the document body is the activeElement,https://github.com/radix-ui/primitives/pull/2182,2023-06-01T20:12:19Z,2023-06-02T15:20:47Z,0,2,MERGED
+primitives,fix: wrong focus when `hotkey` is an empty array,https://github.com/radix-ui/primitives/pull/2491,2023-10-29T04:59:33Z,2024-09-26T23:20:44Z,0,2,MERGED
+primitives,Bump react-remove-scroll to 2.5.7 (see changelog) to fix behavior in shadow DOM,https://github.com/radix-ui/primitives/pull/2489,2023-10-27T09:18:52Z,2024-08-16T20:11:57Z,2,2,CLOSED
+primitives,[Checkbox] Support form attribute,https://github.com/radix-ui/primitives/pull/2484,2023-10-25T10:39:51Z,2024-09-27T21:43:20Z,7,2,CLOSED
+primitives,refactor: Change type from ClientRect to DOMRect,https://github.com/radix-ui/primitives/pull/2481,2023-10-24T07:02:32Z,2024-09-26T23:23:03Z,0,2,MERGED
+primitives,fix: using forceMount breaks escape behavior for native dialogs,https://github.com/radix-ui/primitives/pull/2477,2023-10-23T00:11:23Z,2024-03-08T10:22:17Z,1,1,CLOSED
+primitives,[Menu] Don’t scroll menus in response to hover,https://github.com/radix-ui/primitives/pull/2451,2023-10-12T19:46:09Z,2024-06-11T16:05:34Z,4,1,MERGED
+primitives,[Select] Support form attribute,https://github.com/radix-ui/primitives/pull/2447,2023-10-11T14:22:54Z,2024-09-26T22:56:15Z,0,2,MERGED
+primitives,[ScrollArea] Fix types,https://github.com/radix-ui/primitives/pull/2408,2023-09-25T13:26:56Z,2023-09-25T13:37:31Z,0,1,MERGED
+primitives,Fix issue link in contribution guide,https://github.com/radix-ui/primitives/pull/2381,2023-09-06T08:20:01Z,2023-09-06T10:55:25Z,2,2,MERGED
+primitives,[Avatar] Fix flashing of broken image,https://github.com/radix-ui/primitives/pull/2340,2023-08-15T20:25:19Z,2023-08-16T13:18:41Z,3,3,MERGED
+primitives,[Slot] Deduplicate merged `className` prop,https://github.com/radix-ui/primitives/pull/2336,2023-08-11T08:40:17Z,2024-09-26T23:06:03Z,0,2,MERGED
+primitives,[Portal] Make container type consistent with ReactDOM.createPortal,https://github.com/radix-ui/primitives/pull/2329,2023-08-09T06:17:15Z,2024-09-27T00:09:46Z,0,3,MERGED
+primitives,Update readme image,https://github.com/radix-ui/primitives/pull/2328,2023-08-08T09:59:52Z,2023-08-08T10:10:36Z,0,2,MERGED
+primitives,Fixed Dropdown Menu trigger to work only onClick,https://github.com/radix-ui/primitives/pull/2616,2023-12-29T23:16:19Z,2024-09-27T20:37:15Z,12,1,CLOSED
+primitives,Add forward ref to react/select:Select,https://github.com/radix-ui/primitives/pull/2591,2023-12-14T18:20:40Z,2024-09-26T23:50:38Z,2,1,CLOSED
+primitives,Fix broken change log link,https://github.com/radix-ui/primitives/pull/2547,2023-11-24T10:35:43Z,2024-08-16T20:32:43Z,0,1,MERGED
+primitives,[DropdownMenu] replace onPointerDown by onClick to avoid scroll prevention on mobile,https://github.com/radix-ui/primitives/pull/2540,2023-11-21T16:08:42Z,2023-12-04T07:37:46Z,4,1,CLOSED
+primitives,chore: improve Primitive nodes typing,https://github.com/radix-ui/primitives/pull/2524,2023-11-14T19:44:03Z,2024-09-26T23:30:46Z,0,1,CLOSED
+primitives,[NavigationMenu] Allow `children` in `Viewport` types,https://github.com/radix-ui/primitives/pull/2522,2023-11-14T15:50:46Z,2024-09-26T23:26:07Z,0,1,MERGED
+primitives,Remove unnecessary useEffect in React Primitive component,https://github.com/radix-ui/primitives/pull/2518,2023-11-11T12:15:50Z,2024-09-26T23:41:41Z,5,1,CLOSED
+primitives,Allow empty string as value to Select.Item component,https://github.com/radix-ui/primitives/pull/2513,2023-11-09T20:56:53Z,2023-11-09T21:09:37Z,0,1,CLOSED
+primitives,Use obfusctaed reference to React.useId,https://github.com/radix-ui/primitives/pull/2797,2024-03-23T15:18:02Z,2024-09-27T00:09:13Z,0,1,MERGED
+primitives,feat: add tooltip ignoreNonKeyboardFocus prop,https://github.com/radix-ui/primitives/pull/2793,2024-03-21T10:12:38Z,2024-05-02T22:57:32Z,2,2,CLOSED
+primitives,Testing updated transitive dep of react-remove-scroll,https://github.com/radix-ui/primitives/pull/2776,2024-03-14T12:11:26Z,2024-03-14T12:20:17Z,0,1,MERGED
+primitives,test: (@radix-ui/react-tooltip) add unit tests for tooltip component ,https://github.com/radix-ui/primitives/pull/2774,2024-03-14T01:20:10Z,2024-09-27T00:16:43Z,0,1,MERGED
+primitives,[Avatar] Support referrer policy in AvatarImage,https://github.com/radix-ui/primitives/pull/2772,2024-03-11T18:31:40Z,2024-08-16T19:37:33Z,4,3,MERGED
+primitives,[ScrolAreaViewport] Add `data-radix` attribute to the content element,https://github.com/radix-ui/primitives/pull/2771,2024-03-11T12:21:17Z,2024-07-23T15:20:45Z,1,1,CLOSED
+primitives,[Slider] Add ability to name each thumb for more flexibility,https://github.com/radix-ui/primitives/pull/2766,2024-03-08T12:17:18Z,2024-03-12T11:13:46Z,1,1,MERGED
+primitives,Upgrade react-remove-scroll version,https://github.com/radix-ui/primitives/pull/2765,2024-03-07T10:09:23Z,2024-03-07T10:24:44Z,0,1,MERGED
+primitives,[DropdownMenu] Prevent scroll on initial menu focus,https://github.com/radix-ui/primitives/pull/2762,2024-03-06T13:37:03Z,2024-03-06T15:00:55Z,0,1,MERGED
+primitives,Use capture phase in `useEscapeKeydown`,https://github.com/radix-ui/primitives/pull/2761,2024-03-06T11:30:31Z,2024-03-06T14:55:08Z,5,2,MERGED
+primitives,[Label] Don't eagerly prevent double-click,https://github.com/radix-ui/primitives/pull/2753,2024-03-05T13:04:36Z,2024-03-05T14:09:51Z,1,4,MERGED
+primitives,fix: (@radix-ui/react-tooltip) only allow content to be dismissed by trigger if visible,https://github.com/radix-ui/primitives/pull/2746,2024-02-29T23:35:15Z,2024-03-01T16:28:42Z,1,2,CLOSED
+primitives,fix(Popper): disable pointer events when hidden,https://github.com/radix-ui/primitives/pull/2745,2024-02-29T21:12:15Z,2024-03-01T22:10:32Z,0,2,MERGED
+primitives,fix(Popper): use `visibility` to hide instead of `opacity`,https://github.com/radix-ui/primitives/pull/2744,2024-02-29T19:24:56Z,2024-02-29T19:39:51Z,1,3,MERGED
+primitives,[NavigationMenu] Remove unsuported `disableOutsidePointerEvents` prop,https://github.com/radix-ui/primitives/pull/2741,2024-02-29T12:33:40Z,2024-02-29T13:38:47Z,1,3,MERGED
+primitives,[RovingFocusGroup] Move only with single arrow keys,https://github.com/radix-ui/primitives/pull/2739,2024-02-28T16:48:52Z,2024-02-28T17:22:07Z,0,1,MERGED
+primitives,yarn workspaces foreach default,https://github.com/radix-ui/primitives/pull/2737,2024-02-28T14:20:55Z,2024-02-28T14:39:01Z,0,1,MERGED
+primitives,Upgrade node/yarn/storybook,https://github.com/radix-ui/primitives/pull/2736,2024-02-28T13:18:03Z,2024-02-28T14:08:13Z,1,1,MERGED
+primitives,feat: added CSP nonce prop,https://github.com/radix-ui/primitives/pull/2728,2024-02-27T07:56:45Z,2024-02-28T16:36:08Z,1,1,MERGED
+primitives,fix: [@radix-ui/react-tooltip] tooltip performance issue,https://github.com/radix-ui/primitives/pull/2720,2024-02-23T03:23:45Z,2025-02-11T16:31:00Z,3,2,CLOSED
+primitives,[ScrollArea] Forward `asChild` prop to the content container element of Viewport,https://github.com/radix-ui/primitives/pull/2697,2024-02-10T16:45:08Z,2024-08-10T00:11:06Z,2,2,CLOSED
+primitives,"Fix isFormControl to check if form attribute is defined (checkbox, radio-group, select, slider, switch)",https://github.com/radix-ui/primitives/pull/2668,2024-01-26T22:14:25Z,2025-01-24T18:39:45Z,6,2,CLOSED
+primitives,feat(react-select): create number type support for value,https://github.com/radix-ui/primitives/pull/2651,2024-01-14T13:00:09Z,2024-09-26T23:59:05Z,1,4,CLOSED
+primitives,[Menu] Added backspace key functionality for type-ahead accessibility,https://github.com/radix-ui/primitives/pull/2641,2024-01-08T21:06:39Z,2024-03-11T13:06:54Z,1,6,CLOSED
+primitives,[Select] Added backspace key functionality for type-ahead accessibility,https://github.com/radix-ui/primitives/pull/2640,2024-01-08T20:30:14Z,2024-03-11T13:06:46Z,2,3,CLOSED
+primitives,[Menu] Added backspace key functionality for type-ahead accessibility,https://github.com/radix-ui/primitives/pull/2638,2024-01-07T18:29:59Z,2024-01-08T20:12:01Z,0,7,CLOSED
+primitives,[Select] Added backspace key functionality for type-ahead accessibility,https://github.com/radix-ui/primitives/pull/2637,2024-01-07T17:51:08Z,2024-01-08T20:11:54Z,0,7,CLOSED
+primitives,fix: Select should not crash if getItems returns empty array,https://github.com/radix-ui/primitives/pull/2623,2024-01-03T14:37:55Z,2024-08-10T00:27:29Z,9,4,MERGED
+primitives,Update README.md,https://github.com/radix-ui/primitives/pull/2927,2024-05-30T10:54:18Z,2024-05-30T10:55:34Z,0,1,CLOSED
+primitives,Adding react 19 to peer deps,https://github.com/radix-ui/primitives/pull/2924,2024-05-28T22:13:02Z,2024-06-04T11:34:44Z,2,1,CLOSED
+primitives,RSC compatibility,https://github.com/radix-ui/primitives/pull/2923,2024-05-28T11:04:12Z,2024-06-03T10:04:29Z,4,3,MERGED
+primitives,Build tooling changes,https://github.com/radix-ui/primitives/pull/2922,2024-05-28T10:34:50Z,2024-06-03T09:33:25Z,8,12,MERGED
+primitives,Update scroll-area component docs link in README,https://github.com/radix-ui/primitives/pull/2882,2024-05-07T16:00:06Z,2024-09-27T00:17:18Z,0,1,MERGED
+primitives,docs: update the document address of scroll-area,https://github.com/radix-ui/primitives/pull/2847,2024-04-18T02:48:42Z,2024-09-27T00:30:05Z,0,1,MERGED
+primitives,Remove use of `cssText` in react-focus-guards,https://github.com/radix-ui/primitives/pull/2840,2024-04-15T15:35:09Z,2024-09-27T20:44:39Z,3,1,MERGED
+primitives,fix: add jsr support,https://github.com/radix-ui/primitives/pull/2831,2024-04-10T23:00:01Z,2024-08-16T20:24:17Z,2,3,CLOSED
+primitives,[Slot] Access ref from props else fallback to element.ref,https://github.com/radix-ui/primitives/pull/2811,2024-04-02T14:11:29Z,2024-06-04T12:53:27Z,27,2,CLOSED
+primitives,Storybook (preview.ts) order option uncommented (Order now working),https://github.com/radix-ui/primitives/pull/3036,2024-07-27T04:32:03Z,2024-09-27T22:05:29Z,0,1,CLOSED
+primitives,[Checkbox] Export type CheckedState,https://github.com/radix-ui/primitives/pull/2984,2024-06-27T22:14:39Z,2024-06-28T12:18:58Z,0,2,MERGED
+primitives,[Tooltip] Export type tooltip provider props,https://github.com/radix-ui/primitives/pull/2980,2024-06-25T12:53:50Z,2024-06-25T13:58:17Z,1,3,MERGED
+primitives,Fix URL link in code comment,https://github.com/radix-ui/primitives/pull/2969,2024-06-21T19:29:41Z,2024-06-24T13:07:54Z,0,3,MERGED
+primitives,[Checkbox] export type CheckedState,https://github.com/radix-ui/primitives/pull/2968,2024-06-21T13:06:54Z,2024-07-02T13:24:22Z,4,1,CLOSED
+primitives,Add missing dependency to `@radix-ui/react-portal` ,https://github.com/radix-ui/primitives/pull/2966,2024-06-21T01:14:38Z,2024-06-21T07:47:03Z,2,3,MERGED
+primitives,chore: fix some comments,https://github.com/radix-ui/primitives/pull/2956,2024-06-17T10:05:09Z,2024-08-16T20:28:40Z,0,1,MERGED
+primitives,Adds React 19 RC and React-DOM 19 RC to the list of peer dependencies,https://github.com/radix-ui/primitives/pull/2952,2024-06-13T23:22:15Z,2024-06-19T19:51:16Z,12,4,MERGED
+primitives,[Dialog] Log error instead of throwing for missing titles,https://github.com/radix-ui/primitives/pull/2948,2024-06-11T10:04:13Z,2024-06-11T11:51:24Z,0,2,MERGED
+primitives,[Progress] Assume indeterminate value,https://github.com/radix-ui/primitives/pull/2947,2024-06-11T09:53:15Z,2024-06-11T11:51:01Z,0,2,MERGED
+primitives,add ignoreThumbOffset option,https://github.com/radix-ui/primitives/pull/2946,2024-06-10T13:54:36Z,2024-09-27T21:49:13Z,2,1,CLOSED
+primitives,[ScrollArea] Viewport fixes,https://github.com/radix-ui/primitives/pull/2945,2024-06-10T11:58:38Z,2024-08-11T08:51:17Z,10,10,MERGED
+primitives,[Select] Fix touch devices bugs,https://github.com/radix-ui/primitives/pull/2939,2024-06-06T08:06:07Z,2024-08-21T22:43:09Z,5,5,MERGED
+primitives,debugging chromatic,https://github.com/radix-ui/primitives/pull/2936,2024-06-04T17:02:50Z,2024-06-04T17:50:24Z,0,4,CLOSED
+primitives,React 19 compatibility,https://github.com/radix-ui/primitives/pull/2934,2024-06-04T11:06:54Z,2024-06-10T16:02:41Z,15,27,MERGED
+primitives,Fix module resolution in edge cases,https://github.com/radix-ui/primitives/pull/2931,2024-06-03T14:55:30Z,2024-06-03T15:05:22Z,1,2,MERGED
+primitives,[Select] fix: onClick event propagation,https://github.com/radix-ui/primitives/pull/3183,2024-10-20T11:31:20Z,2025-02-28T15:47:32Z,4,7,CLOSED
+primitives,feat: Tooltip - Performance - avoid calling clearTimeout on unmount if timeout id is 0,https://github.com/radix-ui/primitives/pull/3163,2024-10-02T02:01:21Z,2024-10-03T22:43:09Z,1,1,MERGED
+primitives,"Revert ""[Slot] Deduplicate merged `className` prop (#2336)""",https://github.com/radix-ui/primitives/pull/3162,2024-10-01T17:46:25Z,2024-10-01T20:21:57Z,0,2,MERGED
+primitives,Forward `form` attribute to all form control elements,https://github.com/radix-ui/primitives/pull/3161,2024-10-01T17:15:59Z,2024-10-01T20:38:54Z,1,2,MERGED
+primitives,feat: Change decision logic in useControllableState,https://github.com/radix-ui/primitives/pull/3157,2024-09-30T01:50:19Z,2024-09-30T16:50:19Z,3,3,CLOSED
+primitives,[Slot] Make children prop optional in SlotCloneProps interface,https://github.com/radix-ui/primitives/pull/3150,2024-09-26T23:35:18Z,2025-03-07T00:16:06Z,0,2,CLOSED
+primitives,Select: Prevent negative starting position,https://github.com/radix-ui/primitives/pull/3149,2024-09-26T22:14:00Z,2024-09-27T16:43:11Z,0,1,MERGED
+primitives,[Select] add form prop (#2975),https://github.com/radix-ui/primitives/pull/3134,2024-09-23T08:32:55Z,2024-09-27T21:43:08Z,2,1,CLOSED
+primitives,feat(injected-css): optionally export css for consumer to import,https://github.com/radix-ui/primitives/pull/3131,2024-09-20T15:39:00Z,2024-09-27T20:36:05Z,1,2,CLOSED
+primitives,Upgrade react-remove-scroll version to 2.6.0,https://github.com/radix-ui/primitives/pull/3127,2024-09-19T14:30:14Z,2024-09-27T21:57:17Z,0,1,MERGED
+primitives,[Select] Missing className in the SelectValue component,https://github.com/radix-ui/primitives/pull/3093,2024-09-01T01:33:08Z,2024-09-27T22:04:59Z,2,1,CLOSED
+primitives,Work around https://github.com/radix-ui/primitives/issues/2597#issuec…,https://github.com/radix-ui/primitives/pull/3087,2024-08-27T15:20:06Z,2024-09-27T22:01:31Z,0,1,CLOSED
+primitives,refactor(context): add React.FC type in Provider,https://github.com/radix-ui/primitives/pull/3080,2024-08-22T04:00:58Z,2024-09-27T00:19:22Z,1,2,MERGED
+primitives,refactor(useControllableState): merge useUncontolledState in useControllableState,https://github.com/radix-ui/primitives/pull/3062,2024-08-10T07:51:05Z,2024-08-16T19:19:11Z,1,3,CLOSED
+primitives,Update CODEOWNERS,https://github.com/radix-ui/primitives/pull/3061,2024-08-09T23:42:09Z,2024-08-09T23:59:41Z,0,2,MERGED
+primitives,Update CODEOWNERS,https://github.com/radix-ui/primitives/pull/3060,2024-08-09T23:40:57Z,2024-08-09T23:42:51Z,0,1,CLOSED
+primitives,refactor(useControllableState): add usePrevious instead useRef,https://github.com/radix-ui/primitives/pull/3051,2024-08-06T17:15:49Z,2024-08-10T00:08:04Z,1,4,CLOSED
+primitives,fix: index referring to scope?.[scopeName] being undefined,https://github.com/radix-ui/primitives/pull/3047,2024-08-03T16:16:49Z,2024-09-27T22:06:17Z,0,1,MERGED
+primitives,fix: Dropdown Menu accessibility issues within shadow dom,https://github.com/radix-ui/primitives/pull/3045,2024-08-01T17:40:10Z,2025-02-12T14:47:18Z,1,0,CLOSED
+primitives,feat(dependencies): bump `react-remove-scroll` to v2.6.1,https://github.com/radix-ui/primitives/pull/3288,2024-12-15T07:44:55Z,2024-12-16T23:29:02Z,5,8,MERGED
+primitives,Avoid error in logs on React <19 when using composeRefs,https://github.com/radix-ui/primitives/pull/3285,2024-12-12T18:40:39Z,2024-12-13T00:08:22Z,0,1,MERGED
+primitives,Fix composeRefs in React 19,https://github.com/radix-ui/primitives/pull/3283,2024-12-12T09:06:46Z,2024-12-12T17:03:21Z,4,1,MERGED
+primitives,[Avatar] Support cross origin in useImageLoadingStatus,https://github.com/radix-ui/primitives/pull/3261,2024-11-30T18:00:39Z,2025-02-11T16:55:21Z,9,3,CLOSED
+primitives,fix: do not pass ref into SlotClone component if children is a React.Fragment,https://github.com/radix-ui/primitives/pull/3229,2024-11-16T12:30:44Z,2025-02-04T15:27:02Z,5,2,MERGED
+primitives,"Revert ""[ScrollArea] Viewport fixes (#2945)""",https://github.com/radix-ui/primitives/pull/3225,2024-11-12T22:25:25Z,2024-11-12T22:47:18Z,1,1,MERGED
+primitives,Close tooltip on pointer down,https://github.com/radix-ui/primitives/pull/3380,2025-02-13T18:35:55Z,2025-02-14T17:20:37Z,1,3,MERGED
+primitives,Update esbuild,https://github.com/radix-ui/primitives/pull/3364,2025-02-06T02:53:55Z,2025-02-06T03:58:49Z,0,2,MERGED
+primitives,Update casing for all source files,https://github.com/radix-ui/primitives/pull/3363,2025-02-05T21:37:48Z,2025-02-05T22:04:15Z,1,4,MERGED
+primitives,Add internal eslint config package,https://github.com/radix-ui/primitives/pull/3362,2025-02-04T17:12:06Z,2025-02-05T20:50:30Z,0,5,MERGED
+primitives,Use Node 22 for internal tooling,https://github.com/radix-ui/primitives/pull/3361,2025-02-04T15:41:11Z,2025-02-04T15:53:59Z,0,3,MERGED
+primitives,Update dependencies,https://github.com/radix-ui/primitives/pull/3350,2025-01-25T00:43:33Z,2025-01-25T02:01:39Z,1,1,MERGED
+primitives,Update README.md links,https://github.com/radix-ui/primitives/pull/3347,2025-01-23T02:48:56Z,2025-01-25T00:38:59Z,2,1,MERGED
+primitives,Update prettier,https://github.com/radix-ui/primitives/pull/3343,2025-01-22T06:31:42Z,2025-01-22T06:46:48Z,0,3,MERGED
+primitives,Migrate from Jest to Vitest,https://github.com/radix-ui/primitives/pull/3342,2025-01-22T06:13:58Z,2025-01-22T06:22:09Z,0,2,MERGED
+primitives,Update storybook deps,https://github.com/radix-ui/primitives/pull/3341,2025-01-22T05:26:49Z,2025-01-22T05:35:36Z,0,2,MERGED
+primitives,Update all test dependencies,https://github.com/radix-ui/primitives/pull/3340,2025-01-22T04:19:10Z,2025-01-22T05:15:16Z,0,5,MERGED
+primitives,Update dependencies,https://github.com/radix-ui/primitives/pull/3339,2025-01-22T03:59:38Z,2025-01-22T04:06:54Z,0,2,MERGED
+primitives,Move test-data to separate package,https://github.com/radix-ui/primitives/pull/3338,2025-01-22T03:32:40Z,2025-01-22T03:39:27Z,0,2,MERGED
+primitives,Update ESLint and configs,https://github.com/radix-ui/primitives/pull/3337,2025-01-22T02:42:44Z,2025-01-22T03:24:51Z,0,8,MERGED
+primitives,Add React packages as dev deps,https://github.com/radix-ui/primitives/pull/3336,2025-01-22T02:00:51Z,2025-01-22T02:09:44Z,0,1,MERGED
+primitives,Add internal tsconfig package,https://github.com/radix-ui/primitives/pull/3335,2025-01-22T01:28:13Z,2025-01-22T01:50:27Z,0,2,MERGED
+primitives,Update GitHub actions,https://github.com/radix-ui/primitives/pull/3334,2025-01-22T00:05:01Z,2025-01-22T00:14:33Z,0,1,MERGED
+primitives,Update `.nvmrc` to Node 20,https://github.com/radix-ui/primitives/pull/3333,2025-01-21T23:53:07Z,2025-01-22T00:02:12Z,0,1,MERGED
+primitives,Fix Cypress lint errors,https://github.com/radix-ui/primitives/pull/3323,2025-01-16T00:14:53Z,2025-01-16T00:21:49Z,0,2,MERGED
+primitives,Remove stitches from Stories,https://github.com/radix-ui/primitives/pull/3322,2025-01-15T22:59:41Z,2025-01-15T23:59:19Z,0,4,MERGED

@@ -1,0 +1,1028 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+hmis-frontend,"Use warehouse backend, set up routes for dashboard, Enrollments tab",https://github.com/greenriver/hmis-frontend/pull/10,2022-07-29T21:03:09Z,2022-08-03T16:10:33Z,1,9,MERGED
+hmis-frontend,Use warehouse client query,https://github.com/greenriver/hmis-frontend/pull/9,2022-07-29T21:03:03Z,2022-08-02T13:48:46Z,1,2,CLOSED
+hmis-frontend,Fix config,https://github.com/greenriver/hmis-frontend/pull/8,2022-07-27T22:30:24Z,2022-07-28T12:22:14Z,1,1,MERGED
+hmis-frontend,"Implement client dashboard, HMIS util fns, and more",https://github.com/greenriver/hmis-frontend/pull/7,2022-07-27T20:24:58Z,2022-07-29T15:22:15Z,0,9,MERGED
+hmis-frontend,Use gqlTypes,https://github.com/greenriver/hmis-frontend/pull/6,2022-07-27T12:59:45Z,2022-07-29T15:18:07Z,0,7,MERGED
+hmis-frontend,Add codegen,https://github.com/greenriver/hmis-frontend/pull/5,2022-07-22T21:38:35Z,2022-07-27T12:27:35Z,2,1,MERGED
+hmis-frontend,"WIP implementation of dynamic forms, used for Search and Intake",https://github.com/greenriver/hmis-frontend/pull/4,2022-07-22T19:31:32Z,2022-07-25T13:18:46Z,4,1,MERGED
+hmis-frontend,"Show devise error message if login failed, add hmis error type",https://github.com/greenriver/hmis-frontend/pull/3,2022-07-20T18:19:06Z,2022-07-20T19:32:21Z,0,1,MERGED
+hmis-frontend,Update Client search and and use mock data,https://github.com/greenriver/hmis-frontend/pull/2,2022-07-19T17:15:57Z,2022-07-19T17:16:18Z,0,10,MERGED
+hmis-frontend,Fix github action case sensitivity issue,https://github.com/greenriver/hmis-frontend/pull/1,2022-07-12T10:12:12Z,2022-07-12T10:28:38Z,0,5,MERGED
+hmis-frontend,Make click to show keyboard navigable,https://github.com/greenriver/hmis-frontend/pull/67,2022-10-31T15:13:14Z,2022-10-31T15:26:48Z,0,1,MERGED
+hmis-frontend,Edit client details screen,https://github.com/greenriver/hmis-frontend/pull/66,2022-10-31T14:39:36Z,2022-11-01T12:59:30Z,0,9,MERGED
+hmis-frontend,"EnableWhen tests, support Enable-When-Enabled, working PriorLivingSituation",https://github.com/greenriver/hmis-frontend/pull/65,2022-10-26T21:00:55Z,2022-10-28T18:55:17Z,0,4,MERGED
+hmis-frontend,Highlight empty relationship field after HoH is changed,https://github.com/greenriver/hmis-frontend/pull/64,2022-10-26T18:27:04Z,2022-10-26T18:40:13Z,0,1,MERGED
+hmis-frontend,"Disable ripple, custom focus styles",https://github.com/greenriver/hmis-frontend/pull/63,2022-10-26T17:48:04Z,2022-10-26T17:54:44Z,0,2,MERGED
+hmis-frontend,Some yarn upgrades,https://github.com/greenriver/hmis-frontend/pull/62,2022-10-26T15:36:15Z,2022-10-26T16:41:45Z,0,1,MERGED
+hmis-frontend,Set up localization,https://github.com/greenriver/hmis-frontend/pull/61,2022-10-26T15:18:13Z,2022-10-26T15:28:51Z,0,3,MERGED
+hmis-frontend,"More enums, expanded enableWhen logic",https://github.com/greenriver/hmis-frontend/pull/60,2022-10-25T17:13:37Z,2022-10-26T21:00:14Z,0,7,MERGED
+hmis-frontend,"Use backend form types, fetch definitions from backend",https://github.com/greenriver/hmis-frontend/pull/59,2022-10-24T15:50:11Z,2022-10-25T17:19:44Z,0,7,MERGED
+hmis-frontend,Assessments and paginated projects,https://github.com/greenriver/hmis-frontend/pull/58,2022-10-21T14:04:53Z,2022-10-21T17:04:25Z,0,2,MERGED
+hmis-frontend,Adjusts proxy timeouts,https://github.com/greenriver/hmis-frontend/pull/57,2022-10-20T15:23:09Z,2022-10-20T15:46:09Z,1,1,MERGED
+hmis-frontend,Create/edit inventory,https://github.com/greenriver/hmis-frontend/pull/56,2022-10-19T21:23:45Z,2022-10-20T13:27:18Z,0,5,MERGED
+hmis-frontend,Refetch csrf token if expired on login,https://github.com/greenriver/hmis-frontend/pull/55,2022-10-17T13:00:22Z,2022-10-17T13:14:41Z,0,1,MERGED
+hmis-frontend,"Fix datepicker bug and add date tests, show project inactive",https://github.com/greenriver/hmis-frontend/pull/54,2022-10-14T18:13:41Z,2022-10-14T18:22:09Z,0,1,MERGED
+hmis-frontend,"Fix form grid system, scrollTo, project updates",https://github.com/greenriver/hmis-frontend/pull/53,2022-10-13T19:02:59Z,2022-10-13T19:56:58Z,0,4,MERGED
+hmis-frontend,Form field validation and add back victimServiceProvider,https://github.com/greenriver/hmis-frontend/pull/52,2022-10-13T18:01:11Z,2022-10-13T18:27:28Z,0,2,MERGED
+hmis-frontend,Pass null for victimServiceProvider,https://github.com/greenriver/hmis-frontend/pull/51,2022-10-13T12:24:23Z,2022-10-13T12:24:35Z,0,1,MERGED
+hmis-frontend,Fetch new csrf token on logout,https://github.com/greenriver/hmis-frontend/pull/50,2022-10-12T19:55:56Z,2022-10-12T19:59:57Z,0,1,MERGED
+hmis-frontend,Redirect on login; logout when session expires,https://github.com/greenriver/hmis-frontend/pull/49,2022-10-12T17:42:25Z,2022-10-12T18:22:22Z,0,2,MERGED
+hmis-frontend,Update form rendering,https://github.com/greenriver/hmis-frontend/pull/48,2022-10-11T11:53:01Z,2022-10-11T12:12:49Z,0,1,MERGED
+hmis-frontend,Use links for clickable table rows,https://github.com/greenriver/hmis-frontend/pull/47,2022-10-07T18:38:32Z,2022-10-07T18:39:13Z,0,2,MERGED
+hmis-frontend,Bug fixes and updates,https://github.com/greenriver/hmis-frontend/pull/46,2022-10-06T20:11:54Z,2022-10-07T12:25:54Z,0,5,MERGED
+hmis-frontend,"More household updates, RouterLink and ButtonLink components",https://github.com/greenriver/hmis-frontend/pull/45,2022-10-03T20:35:41Z,2022-10-03T20:48:10Z,0,5,MERGED
+hmis-frontend,Remove codes from enum descriptions,https://github.com/greenriver/hmis-frontend/pull/44,2022-10-03T15:20:09Z,2022-10-03T15:23:50Z,0,2,MERGED
+hmis-frontend,"Project and household updates, and better caching",https://github.com/greenriver/hmis-frontend/pull/43,2022-10-03T14:30:10Z,2022-10-03T14:38:45Z,0,2,MERGED
+hmis-frontend,Household management updates,https://github.com/greenriver/hmis-frontend/pull/42,2022-10-02T17:33:54Z,2022-10-02T21:15:23Z,0,1,MERGED
+hmis-frontend,Use EditRecord for client creation/editing,https://github.com/greenriver/hmis-frontend/pull/41,2022-09-30T21:02:56Z,2022-09-30T21:03:35Z,0,1,MERGED
+hmis-frontend,"Add ability to create Projects/Orgs, style updates to household",https://github.com/greenriver/hmis-frontend/pull/40,2022-09-30T20:51:44Z,2022-09-30T20:59:22Z,0,5,MERGED
+hmis-frontend,Editing Project/Orgs and enum valueSet generation,https://github.com/greenriver/hmis-frontend/pull/39,2022-09-29T23:06:18Z,2022-09-30T12:38:57Z,0,5,MERGED
+hmis-frontend,Link to Warehouse and CAS,https://github.com/greenriver/hmis-frontend/pull/38,2022-09-29T14:31:08Z,2022-09-29T14:51:28Z,0,3,MERGED
+hmis-frontend,Updates to household and styles,https://github.com/greenriver/hmis-frontend/pull/37,2022-09-28T20:24:43Z,2022-09-28T20:41:33Z,0,3,MERGED
+hmis-frontend,WIP projects and organizations,https://github.com/greenriver/hmis-frontend/pull/36,2022-09-22T16:00:53Z,2022-09-22T17:03:52Z,0,6,MERGED
+hmis-frontend,Reflect setHoH relationship changes; handle setHoH error,https://github.com/greenriver/hmis-frontend/pull/35,2022-09-19T13:46:57Z,2022-09-19T13:54:39Z,0,1,MERGED
+hmis-frontend,"Household: change HoH, change entry date, change relationship, and remove members",https://github.com/greenriver/hmis-frontend/pull/34,2022-09-15T15:13:52Z,2022-09-15T15:18:41Z,0,3,MERGED
+hmis-frontend,Fix bugs on household,https://github.com/greenriver/hmis-frontend/pull/33,2022-09-14T18:47:49Z,2022-09-14T19:10:41Z,0,3,MERGED
+hmis-frontend,Connect edit household page to new mutation,https://github.com/greenriver/hmis-frontend/pull/32,2022-09-14T16:10:39Z,2022-09-14T18:11:21Z,0,4,MERGED
+hmis-frontend,Update household management,https://github.com/greenriver/hmis-frontend/pull/31,2022-09-12T22:00:44Z,2022-09-12T22:03:25Z,0,3,MERGED
+hmis-frontend,"Sort members on household member table, show relationship",https://github.com/greenriver/hmis-frontend/pull/30,2022-09-12T17:25:07Z,2022-09-12T17:25:29Z,0,1,MERGED
+hmis-frontend,Render enrollment status,https://github.com/greenriver/hmis-frontend/pull/29,2022-09-12T12:29:50Z,2022-09-12T15:30:13Z,0,1,MERGED
+hmis-frontend,Hit API to create new Enrollments,https://github.com/greenriver/hmis-frontend/pull/28,2022-09-02T21:15:27Z,2022-09-12T15:30:27Z,0,8,MERGED
+hmis-frontend,Improvements to household management,https://github.com/greenriver/hmis-frontend/pull/27,2022-09-02T21:02:42Z,2022-09-02T21:13:03Z,0,1,MERGED
+hmis-frontend,Add Household Member screen with embedded search and recent member table,https://github.com/greenriver/hmis-frontend/pull/26,2022-09-02T13:44:10Z,2022-09-02T13:49:02Z,0,2,MERGED
+hmis-frontend,Recent household members table,https://github.com/greenriver/hmis-frontend/pull/25,2022-09-01T17:06:29Z,2022-09-01T17:12:21Z,0,2,MERGED
+hmis-frontend,Add view assessment page and move readFragment into breadcrumb hook,https://github.com/greenriver/hmis-frontend/pull/24,2022-08-30T19:14:59Z,2022-09-01T13:01:53Z,0,1,MERGED
+hmis-frontend,"Update client search, use URL search parameters",https://github.com/greenriver/hmis-frontend/pull/23,2022-08-25T20:34:42Z,2022-08-30T17:42:53Z,0,6,MERGED
+hmis-frontend,Show current commit in staging environment,https://github.com/greenriver/hmis-frontend/pull/22,2022-08-23T15:15:18Z,2022-08-23T19:40:42Z,0,4,MERGED
+hmis-frontend,Use proxy_pass instead of rewrite for /hmis routes,https://github.com/greenriver/hmis-frontend/pull/21,2022-08-22T20:41:07Z,2022-08-22T20:47:25Z,0,4,MERGED
+hmis-frontend,Remove PUBLIC_HMIS_GRAPHQL_API var,https://github.com/greenriver/hmis-frontend/pull/20,2022-08-22T19:20:06Z,2022-08-22T19:23:47Z,0,1,MERGED
+hmis-frontend,Only build container on pushes to stable,https://github.com/greenriver/hmis-frontend/pull/19,2022-08-19T13:06:13Z,2022-08-19T13:12:59Z,0,1,MERGED
+hmis-frontend,Audit dependencies on ci,https://github.com/greenriver/hmis-frontend/pull/18,2022-08-19T13:02:42Z,2022-08-19T13:07:02Z,0,1,MERGED
+hmis-frontend,"Paginate enrollments table, add Household member table, use readFragment to get enrollment name",https://github.com/greenriver/hmis-frontend/pull/17,2022-08-18T21:05:25Z,2022-08-30T17:47:53Z,1,31,MERGED
+hmis-frontend,Codegen for apollo hooks operations,https://github.com/greenriver/hmis-frontend/pull/16,2022-08-12T20:05:07Z,2022-08-18T13:43:36Z,0,5,MERGED
+hmis-frontend,Use client query,https://github.com/greenriver/hmis-frontend/pull/15,2022-08-12T18:25:24Z,2022-08-18T13:42:49Z,0,4,MERGED
+hmis-frontend,Initial configuration for github actions and docker,https://github.com/greenriver/hmis-frontend/pull/14,2022-08-12T18:18:11Z,2022-08-12T18:46:01Z,0,16,MERGED
+hmis-frontend,Add batch link,https://github.com/greenriver/hmis-frontend/pull/13,2022-08-11T21:36:22Z,2022-08-18T13:42:37Z,0,1,MERGED
+hmis-frontend,Use Client mutation query; Enrollment tab breadcrumbs; more assessment,https://github.com/greenriver/hmis-frontend/pull/12,2022-08-11T18:56:06Z,2022-08-12T12:43:51Z,0,5,MERGED
+hmis-frontend,Regenerate gql types,https://github.com/greenriver/hmis-frontend/pull/11,2022-08-09T17:13:51Z,2022-08-11T18:54:10Z,0,2,MERGED
+hmis-frontend,"E2E test for Organization, Project, Funder, ProjectCoC, and Inventory",https://github.com/greenriver/hmis-frontend/pull/114,2022-12-23T17:37:41Z,2023-01-10T16:36:28Z,1,7,MERGED
+hmis-frontend,184052669 ssn input,https://github.com/greenriver/hmis-frontend/pull/113,2022-12-23T16:21:57Z,2023-01-02T13:36:47Z,4,5,MERGED
+hmis-frontend,"Validate min/max on blur, fix caching issues",https://github.com/greenriver/hmis-frontend/pull/112,2022-12-23T15:44:00Z,2022-12-23T16:12:08Z,0,2,MERGED
+hmis-frontend,Gig/fetch user on load,https://github.com/greenriver/hmis-frontend/pull/111,2022-12-22T14:30:36Z,2022-12-22T14:39:06Z,0,2,MERGED
+hmis-frontend,"Install sentry, add additional error details, show stack trace in development",https://github.com/greenriver/hmis-frontend/pull/110,2022-12-21T18:28:04Z,2022-12-21T21:15:47Z,0,2,MERGED
+hmis-frontend,Bed/Unit management (not exposed),https://github.com/greenriver/hmis-frontend/pull/109,2022-12-20T21:20:36Z,2023-01-04T15:42:42Z,0,11,MERGED
+hmis-frontend,Add project search,https://github.com/greenriver/hmis-frontend/pull/108,2022-12-20T19:00:45Z,2023-01-02T16:05:06Z,3,3,MERGED
+hmis-frontend,Zparks/pr feedback 12 20 22,https://github.com/greenriver/hmis-frontend/pull/107,2022-12-20T16:11:06Z,2022-12-20T18:45:16Z,0,6,MERGED
+hmis-frontend,E2E test for intake assessment,https://github.com/greenriver/hmis-frontend/pull/106,2022-12-20T13:59:40Z,2022-12-23T13:30:17Z,0,10,MERGED
+hmis-frontend,"Limit CoC options, dont show autofill if unimplemented",https://github.com/greenriver/hmis-frontend/pull/105,2022-12-19T19:52:18Z,2022-12-20T13:23:16Z,0,1,MERGED
+hmis-frontend,183561015 client omnisearch,https://github.com/greenriver/hmis-frontend/pull/104,2022-12-16T22:08:44Z,2022-12-19T17:05:23Z,4,5,MERGED
+hmis-frontend,"Checkbox radio buttons, group refactor, 'brief text' support, placeholders",https://github.com/greenriver/hmis-frontend/pull/103,2022-12-16T21:50:27Z,2022-12-19T17:14:56Z,0,2,MERGED
+hmis-frontend,"Fix project creation, update save order and banner",https://github.com/greenriver/hmis-frontend/pull/102,2022-12-16T20:59:14Z,2022-12-16T21:43:39Z,0,2,MERGED
+hmis-frontend,Add client sort option input,https://github.com/greenriver/hmis-frontend/pull/101,2022-12-15T23:03:37Z,2022-12-16T18:12:47Z,2,2,MERGED
+hmis-frontend,Add some documentation on how to enable the warehouse backend.,https://github.com/greenriver/hmis-frontend/pull/100,2022-12-15T21:06:32Z,2022-12-16T16:11:39Z,0,1,MERGED
+hmis-frontend,"Update form styles, use sticky nav when >3 groups, move nav into EditRecord",https://github.com/greenriver/hmis-frontend/pull/99,2022-12-15T19:40:55Z,2022-12-16T16:12:49Z,0,6,MERGED
+hmis-frontend,Set up Cypress and mock apollo server,https://github.com/greenriver/hmis-frontend/pull/98,2022-12-14T18:12:51Z,2022-12-15T14:39:54Z,0,17,MERGED
+hmis-frontend,Add image to client card,https://github.com/greenriver/hmis-frontend/pull/97,2022-12-14T00:00:49Z,2023-01-02T16:03:03Z,1,2,MERGED
+hmis-frontend,Add client pronouns logic,https://github.com/greenriver/hmis-frontend/pull/96,2022-12-13T21:22:58Z,2022-12-15T17:02:45Z,1,2,MERGED
+hmis-frontend,Add validation logic,https://github.com/greenriver/hmis-frontend/pull/95,2022-12-12T22:56:39Z,2022-12-14T14:15:05Z,3,2,MERGED
+hmis-frontend,Hide value from disabled elements,https://github.com/greenriver/hmis-frontend/pull/94,2022-12-12T19:21:29Z,2022-12-12T19:37:19Z,0,1,MERGED
+hmis-frontend,Sticky form navigation,https://github.com/greenriver/hmis-frontend/pull/93,2022-12-12T16:56:42Z,2022-12-12T17:17:06Z,0,4,MERGED
+hmis-frontend,Show entry/exit date on intake/exit assessments,https://github.com/greenriver/hmis-frontend/pull/92,2022-12-12T15:36:50Z,2022-12-12T15:46:46Z,0,1,MERGED
+hmis-frontend,Debug log for form,https://github.com/greenriver/hmis-frontend/pull/91,2022-12-09T15:38:51Z,2022-12-09T16:39:50Z,0,1,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/89,2022-12-08T17:30:49Z,2022-12-09T15:37:17Z,0,1,MERGED
+hmis-frontend,Add remaining income benefit fields and other fixes,https://github.com/greenriver/hmis-frontend/pull/88,2022-12-08T17:18:21Z,2022-12-09T15:03:59Z,0,5,MERGED
+hmis-frontend,"Clean up assessment mutations, send hud values on submit",https://github.com/greenriver/hmis-frontend/pull/87,2022-12-07T22:45:33Z,2022-12-08T17:34:09Z,0,5,MERGED
+hmis-frontend,Support confirmation dialog on form submit,https://github.com/greenriver/hmis-frontend/pull/86,2022-12-07T19:58:59Z,2022-12-07T20:19:41Z,0,3,MERGED
+hmis-frontend,Add radio buttons; fix disability bugs; add clear option; default disallow negative numbers,https://github.com/greenriver/hmis-frontend/pull/85,2022-12-05T22:01:35Z,2022-12-07T19:38:50Z,0,5,MERGED
+hmis-frontend,Add inventory and funder limits,https://github.com/greenriver/hmis-frontend/pull/84,2022-12-01T19:29:32Z,2022-12-01T21:23:35Z,0,5,MERGED
+hmis-frontend,Autofill values and dompurify for display,https://github.com/greenriver/hmis-frontend/pull/83,2022-12-01T15:55:04Z,2022-12-01T19:19:31Z,0,1,MERGED
+hmis-frontend,Support populating disability section of assessment,https://github.com/greenriver/hmis-frontend/pull/82,2022-11-29T21:40:43Z,2022-12-01T13:36:46Z,1,4,MERGED
+hmis-frontend,Gig/record picker updates,https://github.com/greenriver/hmis-frontend/pull/81,2022-11-29T20:35:48Z,2022-11-29T20:36:20Z,0,3,MERGED
+hmis-frontend,YesNoDisplay and RelativeDate display components,https://github.com/greenriver/hmis-frontend/pull/80,2022-11-28T17:02:32Z,2022-11-28T17:06:23Z,0,3,MERGED
+hmis-frontend,Update record picker,https://github.com/greenriver/hmis-frontend/pull/79,2022-11-28T16:20:40Z,2022-11-28T16:25:58Z,0,1,MERGED
+hmis-frontend,Form population by section,https://github.com/greenriver/hmis-frontend/pull/78,2022-11-18T19:34:49Z,2022-11-22T14:29:36Z,0,10,MERGED
+hmis-frontend,Horizontal error msg,https://github.com/greenriver/hmis-frontend/pull/77,2022-11-17T16:52:05Z,2022-11-17T18:40:57Z,0,1,MERGED
+hmis-frontend,Regenerate enums,https://github.com/greenriver/hmis-frontend/pull/75,2022-11-15T14:41:27Z,2022-11-17T20:12:56Z,0,3,MERGED
+hmis-frontend,Dynamic input group components; horizontal form display; toggle input for y/n/dk/r,https://github.com/greenriver/hmis-frontend/pull/74,2022-11-11T21:08:25Z,2022-11-15T14:23:59Z,0,3,MERGED
+hmis-frontend,Fix enum sorting issues for funder and length of stay,https://github.com/greenriver/hmis-frontend/pull/73,2022-11-11T15:34:29Z,2022-11-11T15:34:34Z,0,1,MERGED
+hmis-frontend,Highlight relationship to hoh fields,https://github.com/greenriver/hmis-frontend/pull/71,2022-11-03T19:43:59Z,2022-11-03T19:52:51Z,0,1,MERGED
+hmis-frontend,Save prompt banner on assessments,https://github.com/greenriver/hmis-frontend/pull/70,2022-11-02T20:43:10Z,2022-11-03T13:27:06Z,0,1,MERGED
+hmis-frontend,Gig/yesnoinput,https://github.com/greenriver/hmis-frontend/pull/69,2022-11-02T17:03:53Z,2022-11-02T18:25:56Z,0,2,MERGED
+hmis-frontend,"Forms: min/max values, custom enum sorting, initial selected option; optimizations",https://github.com/greenriver/hmis-frontend/pull/68,2022-11-01T21:09:03Z,2022-11-02T18:25:46Z,0,5,MERGED
+hmis-frontend,Add placeholder route for viewing assessments,https://github.com/greenriver/hmis-frontend/pull/209,2023-03-31T17:55:11Z,2023-03-31T19:44:05Z,0,1,CLOSED
+hmis-frontend,184132759 client audit,https://github.com/greenriver/hmis-frontend/pull/208,2023-03-30T21:15:51Z,2023-04-05T19:35:16Z,0,4,MERGED
+hmis-frontend,"Improve error handling of apollo errors, fix organization page bug",https://github.com/greenriver/hmis-frontend/pull/207,2023-03-30T14:02:40Z,2023-03-30T14:15:47Z,0,5,MERGED
+hmis-frontend,Fix bug in household member addition; use enrollments so we can show info,https://github.com/greenriver/hmis-frontend/pull/206,2023-03-29T21:04:35Z,2023-03-30T12:12:59Z,0,1,MERGED
+hmis-frontend,Fix double PDf fetch,https://github.com/greenriver/hmis-frontend/pull/205,2023-03-29T18:59:40Z,2023-03-30T12:11:33Z,0,1,MERGED
+hmis-frontend,Prevent refetching of permissions,https://github.com/greenriver/hmis-frontend/pull/204,2023-03-29T18:49:16Z,2023-03-31T13:56:39Z,6,4,MERGED
+hmis-frontend,Handle nested data collected about,https://github.com/greenriver/hmis-frontend/pull/203,2023-03-29T16:43:01Z,2023-03-29T18:06:56Z,0,2,MERGED
+hmis-frontend,184800714 ssn dob entry,https://github.com/greenriver/hmis-frontend/pull/202,2023-03-29T16:22:39Z,2023-03-30T12:16:23Z,1,5,MERGED
+hmis-frontend,"Distinguish between user- and system- changes to form, clean up DynamicField code",https://github.com/greenriver/hmis-frontend/pull/201,2023-03-29T14:04:42Z,2023-03-29T15:54:09Z,0,6,MERGED
+hmis-frontend,Ignore warnings on bg submit (temporary),https://github.com/greenriver/hmis-frontend/pull/200,2023-03-28T16:08:09Z,2023-03-28T17:04:41Z,0,2,MERGED
+hmis-frontend,"Autosubmit on tab change, remove entry date picker from household mgmt, and more",https://github.com/greenriver/hmis-frontend/pull/199,2023-03-28T15:21:25Z,2023-03-28T15:34:25Z,0,2,MERGED
+hmis-frontend,Fix unhandled rejection error,https://github.com/greenriver/hmis-frontend/pull/198,2023-03-27T15:59:26Z,2023-03-27T18:19:57Z,0,1,MERGED
+hmis-frontend,Stop throwing errors on 404s,https://github.com/greenriver/hmis-frontend/pull/197,2023-03-25T12:43:05Z,2023-03-27T12:01:53Z,0,1,MERGED
+hmis-frontend,Release 70,https://github.com/greenriver/hmis-frontend/pull/196,2023-03-24T13:36:17Z,2023-04-18T13:10:22Z,0,190,MERGED
+hmis-frontend,183560765 okta hmis support,https://github.com/greenriver/hmis-frontend/pull/195,2023-03-24T04:05:14Z,2023-04-06T00:44:13Z,9,13,MERGED
+hmis-frontend,Nginx exporter and json logs,https://github.com/greenriver/hmis-frontend/pull/194,2023-03-23T20:57:48Z,2023-03-29T12:56:23Z,2,1,MERGED
+hmis-frontend,Various container related adjustments  183573574,https://github.com/greenriver/hmis-frontend/pull/193,2023-03-23T19:21:40Z,2023-03-24T13:43:14Z,0,1,MERGED
+hmis-frontend,Add sentry DSN,https://github.com/greenriver/hmis-frontend/pull/192,2023-03-23T18:53:31Z,2023-03-23T19:02:13Z,0,1,MERGED
+hmis-frontend,Background save on tab switch for entry/exit workflow,https://github.com/greenriver/hmis-frontend/pull/191,2023-03-23T18:31:20Z,2023-03-23T18:51:05Z,0,3,MERGED
+hmis-frontend,184628960 files UI,https://github.com/greenriver/hmis-frontend/pull/190,2023-03-23T16:58:44Z,2023-03-29T15:37:52Z,18,32,MERGED
+hmis-frontend,Test assessment deletion,https://github.com/greenriver/hmis-frontend/pull/189,2023-03-23T15:35:17Z,2023-03-23T15:54:56Z,0,1,MERGED
+hmis-frontend,Entry/Exit workflow design updates,https://github.com/greenriver/hmis-frontend/pull/188,2023-03-23T14:16:56Z,2023-03-23T14:27:07Z,0,3,MERGED
+hmis-frontend,"Style updates for household entry tabs, clear/fill buttons",https://github.com/greenriver/hmis-frontend/pull/187,2023-03-22T16:46:22Z,2023-03-22T18:22:48Z,0,4,MERGED
+hmis-frontend,"Entry date mutation changes, surface entry date errors on creation",https://github.com/greenriver/hmis-frontend/pull/186,2023-03-21T19:40:05Z,2023-03-22T12:25:26Z,0,5,MERGED
+hmis-frontend,Zparks/fix types 3 21 23,https://github.com/greenriver/hmis-frontend/pull/185,2023-03-21T16:36:34Z,2023-03-21T16:42:47Z,0,1,MERGED
+hmis-frontend,Update codegen,https://github.com/greenriver/hmis-frontend/pull/184,2023-03-21T15:41:39Z,2023-03-21T16:42:54Z,0,1,CLOSED
+hmis-frontend,"Allow searching by household ID, expose shortened ID",https://github.com/greenriver/hmis-frontend/pull/183,2023-03-21T15:40:41Z,2023-03-21T20:40:31Z,0,2,MERGED
+hmis-frontend,Bug fix for string input fields; dont logout on 504; tests for hidden behavior,https://github.com/greenriver/hmis-frontend/pull/182,2023-03-21T15:05:38Z,2023-03-21T19:25:16Z,0,5,MERGED
+hmis-frontend,Release 67,https://github.com/greenriver/hmis-frontend/pull/181,2023-03-17T12:14:00Z,2023-03-17T12:14:07Z,0,123,MERGED
+hmis-frontend,Release 68,https://github.com/greenriver/hmis-frontend/pull/180,2023-03-17T12:13:36Z,2023-03-24T13:44:58Z,0,192,MERGED
+hmis-frontend,"Package upgrades, lint rule updates, numeric input scroll fix",https://github.com/greenriver/hmis-frontend/pull/179,2023-03-17T12:10:10Z,2023-03-17T12:10:23Z,0,2,MERGED
+hmis-frontend,Update types,https://github.com/greenriver/hmis-frontend/pull/178,2023-03-10T19:46:56Z,2023-03-10T19:47:49Z,0,1,MERGED
+hmis-frontend,Use SubmitForm for editing records,https://github.com/greenriver/hmis-frontend/pull/177,2023-03-10T19:43:17Z,2023-03-15T12:51:09Z,0,16,MERGED
+hmis-frontend,Use SubmitForm mutation for editing records,https://github.com/greenriver/hmis-frontend/pull/176,2023-03-10T18:27:57Z,2023-03-10T19:43:01Z,0,4,CLOSED
+hmis-frontend,184630467 add more permissions,https://github.com/greenriver/hmis-frontend/pull/175,2023-03-10T16:06:00Z,2023-03-16T12:39:05Z,10,6,MERGED
+hmis-frontend,Update schema for custom assessments / customForm change,https://github.com/greenriver/hmis-frontend/pull/174,2023-03-02T16:04:37Z,2023-03-06T21:38:40Z,0,3,MERGED
+hmis-frontend,Implement view and edit client permissions,https://github.com/greenriver/hmis-frontend/pull/173,2023-02-28T22:41:36Z,2023-03-01T15:55:25Z,0,4,MERGED
+hmis-frontend,Add graphql permissions,https://github.com/greenriver/hmis-frontend/pull/172,2023-02-24T18:30:27Z,2023-03-01T12:34:56Z,4,4,MERGED
+hmis-frontend,Fix all circular dependencies,https://github.com/greenriver/hmis-frontend/pull/171,2023-02-17T15:53:57Z,2023-02-17T16:12:40Z,0,5,MERGED
+hmis-frontend,"Pin vulnerabilities, upgrade TS, remove circular deps and check for them on CI",https://github.com/greenriver/hmis-frontend/pull/170,2023-02-17T14:21:48Z,2023-02-17T15:11:53Z,0,3,MERGED
+hmis-frontend,Add delete assessments functionality,https://github.com/greenriver/hmis-frontend/pull/168,2023-02-16T21:47:22Z,2023-02-16T22:14:54Z,0,4,MERGED
+hmis-frontend,"Household assessment workflow summary tab, action buttons",https://github.com/greenriver/hmis-frontend/pull/167,2023-02-14T21:52:22Z,2023-03-01T13:16:33Z,0,29,MERGED
+hmis-frontend,Address style feedback,https://github.com/greenriver/hmis-frontend/pull/166,2023-02-14T15:10:31Z,2023-02-14T15:11:00Z,0,1,MERGED
+hmis-frontend,Address some feedback on bulk services,https://github.com/greenriver/hmis-frontend/pull/165,2023-02-13T21:41:38Z,2023-02-14T15:10:52Z,0,1,MERGED
+hmis-frontend,"WarnIfEmpty input treatment, standardize buttons, update client card",https://github.com/greenriver/hmis-frontend/pull/164,2023-02-13T13:31:58Z,2023-02-13T18:59:07Z,0,8,MERGED
+hmis-frontend,Add custom theming,https://github.com/greenriver/hmis-frontend/pull/163,2023-02-10T20:05:48Z,2023-02-14T14:50:00Z,2,3,MERGED
+hmis-frontend,Support specifying autofill sum in form item (Monthly Total Income),https://github.com/greenriver/hmis-frontend/pull/162,2023-02-09T13:54:11Z,2023-02-09T21:32:23Z,0,2,MERGED
+hmis-frontend,Only show enrollments open on date in bulk services and project enrollment table,https://github.com/greenriver/hmis-frontend/pull/161,2023-02-08T22:29:14Z,2023-02-09T21:32:39Z,0,6,MERGED
+hmis-frontend,Fix ui bugs in assessment,https://github.com/greenriver/hmis-frontend/pull/160,2023-02-08T20:30:24Z,2023-02-08T21:13:48Z,0,2,MERGED
+hmis-frontend,183046855 fix add service,https://github.com/greenriver/hmis-frontend/pull/159,2023-02-07T16:22:31Z,2023-02-07T18:55:38Z,0,3,MERGED
+hmis-frontend,Empty commit for new build,https://github.com/greenriver/hmis-frontend/pull/158,2023-02-06T22:21:41Z,2023-02-07T18:55:48Z,0,1,CLOSED
+hmis-frontend,184086440 fix omnisearch,https://github.com/greenriver/hmis-frontend/pull/157,2023-02-06T21:25:20Z,2023-02-07T18:41:42Z,1,4,MERGED
+hmis-frontend,183046860 bulk add services,https://github.com/greenriver/hmis-frontend/pull/156,2023-02-06T20:52:29Z,2023-02-08T14:09:29Z,5,15,MERGED
+hmis-frontend,Run workflows on release branch PRs,https://github.com/greenriver/hmis-frontend/pull/155,2023-02-03T22:22:09Z,2023-02-03T22:23:17Z,0,2,MERGED
+hmis-frontend,Add amount to services table,https://github.com/greenriver/hmis-frontend/pull/154,2023-02-02T21:46:28Z,2023-02-03T14:20:12Z,0,1,MERGED
+hmis-frontend,184349231 delete services,https://github.com/greenriver/hmis-frontend/pull/153,2023-02-02T19:47:12Z,2023-02-02T21:39:06Z,0,2,MERGED
+hmis-frontend,Enable assessment validation and assessmentDate handling,https://github.com/greenriver/hmis-frontend/pull/152,2023-01-31T22:43:23Z,2023-02-13T19:00:04Z,0,53,MERGED
+hmis-frontend,184086440 new omnisearch design,https://github.com/greenriver/hmis-frontend/pull/151,2023-01-30T21:37:24Z,2023-02-02T01:22:09Z,1,8,MERGED
+hmis-frontend,Update record picker metadata rows,https://github.com/greenriver/hmis-frontend/pull/149,2023-01-25T18:36:02Z,2023-01-25T18:43:59Z,0,1,MERGED
+hmis-frontend,Add fullHeight to generic table with data,https://github.com/greenriver/hmis-frontend/pull/148,2023-01-25T17:06:48Z,2023-01-25T17:11:43Z,0,1,MERGED
+hmis-frontend,Searchable tables and pagination,https://github.com/greenriver/hmis-frontend/pull/147,2023-01-24T14:15:49Z,2023-01-24T14:25:31Z,0,1,MERGED
+hmis-frontend,184093619 new client profile,https://github.com/greenriver/hmis-frontend/pull/146,2023-01-23T19:28:39Z,2023-01-23T22:46:09Z,0,17,MERGED
+hmis-frontend,183046855 add service,https://github.com/greenriver/hmis-frontend/pull/145,2023-01-20T18:15:17Z,2023-01-25T21:09:54Z,4,11,MERGED
+hmis-frontend,"Update DOB SSN displays, fix HoH list bug, mobile friendly search results",https://github.com/greenriver/hmis-frontend/pull/144,2023-01-19T21:21:14Z,2023-01-19T21:27:53Z,0,2,MERGED
+hmis-frontend,Assessment UI tweaks,https://github.com/greenriver/hmis-frontend/pull/143,2023-01-19T16:31:10Z,2023-01-19T16:31:19Z,0,1,MERGED
+hmis-frontend,Enable URL obfuscation in production,https://github.com/greenriver/hmis-frontend/pull/142,2023-01-19T13:30:49Z,2023-01-19T13:35:12Z,0,1,MERGED
+hmis-frontend,Household Exit workflow,https://github.com/greenriver/hmis-frontend/pull/141,2023-01-18T22:15:27Z,2023-01-23T23:06:49Z,0,23,MERGED
+hmis-frontend,Populate entire assessment,https://github.com/greenriver/hmis-frontend/pull/140,2023-01-18T18:17:07Z,2023-01-18T19:21:38Z,0,1,MERGED
+hmis-frontend,Filtering for enrollment and project tables,https://github.com/greenriver/hmis-frontend/pull/139,2023-01-17T17:44:09Z,2023-01-17T18:04:56Z,0,1,MERGED
+hmis-frontend,"Update->Edit+Save, update HoH action buttons",https://github.com/greenriver/hmis-frontend/pull/138,2023-01-17T14:23:16Z,2023-01-17T15:29:43Z,0,1,MERGED
+hmis-frontend,Add gender to beds; show confirmation when deleting a unit,https://github.com/greenriver/hmis-frontend/pull/137,2023-01-17T13:05:55Z,2023-01-17T14:14:32Z,0,3,MERGED
+hmis-frontend,Support invalid enum values,https://github.com/greenriver/hmis-frontend/pull/136,2023-01-16T20:50:15Z,2023-01-17T15:35:44Z,0,7,MERGED
+hmis-frontend,"Assessment page, status, household size, project enrollment table",https://github.com/greenriver/hmis-frontend/pull/135,2023-01-14T00:50:10Z,2023-01-16T19:23:54Z,0,1,MERGED
+hmis-frontend,Auto hide nav on assessment page; Exit button,https://github.com/greenriver/hmis-frontend/pull/134,2023-01-13T23:22:23Z,2023-01-16T13:22:24Z,0,2,MERGED
+hmis-frontend,Cache fixes,https://github.com/greenriver/hmis-frontend/pull/133,2023-01-13T20:48:15Z,2023-01-13T21:19:56Z,0,3,MERGED
+hmis-frontend,Navigation updates,https://github.com/greenriver/hmis-frontend/pull/132,2023-01-13T16:31:01Z,2023-01-13T17:01:43Z,0,1,MERGED
+hmis-frontend,Update PLS test to check for losUnderThreshold,https://github.com/greenriver/hmis-frontend/pull/131,2023-01-13T15:51:19Z,2023-01-13T17:02:20Z,0,2,MERGED
+hmis-frontend,Assessment cleanup and destination,https://github.com/greenriver/hmis-frontend/pull/130,2023-01-12T22:11:52Z,2023-01-13T14:59:42Z,0,1,MERGED
+hmis-frontend,182883868 obfuscate id urls,https://github.com/greenriver/hmis-frontend/pull/129,2023-01-11T21:50:41Z,2023-01-19T13:28:59Z,5,7,MERGED
+hmis-frontend,Bed/Unit management; Reorganizing modules,https://github.com/greenriver/hmis-frontend/pull/128,2023-01-11T17:49:57Z,2023-01-12T16:04:03Z,0,8,MERGED
+hmis-frontend,Add user dropdown,https://github.com/greenriver/hmis-frontend/pull/127,2023-01-11T16:24:27Z,2023-01-13T17:01:15Z,5,7,MERGED
+hmis-frontend,ClientName component,https://github.com/greenriver/hmis-frontend/pull/126,2023-01-09T21:30:20Z,2023-01-09T21:36:55Z,0,1,MERGED
+hmis-frontend,Responsiveness updates,https://github.com/greenriver/hmis-frontend/pull/125,2023-01-09T19:55:08Z,2023-01-09T20:11:52Z,0,2,MERGED
+hmis-frontend,"Limit file size on upload, show errors",https://github.com/greenriver/hmis-frontend/pull/124,2023-01-09T19:16:45Z,2023-01-09T19:28:37Z,0,1,MERGED
+hmis-frontend,WIP try hard coding cors,https://github.com/greenriver/hmis-frontend/pull/123,2023-01-09T16:40:53Z,2023-01-09T19:20:05Z,0,3,CLOSED
+hmis-frontend,Update client preferred name display,https://github.com/greenriver/hmis-frontend/pull/122,2023-01-09T16:26:13Z,2023-01-09T16:34:28Z,0,2,MERGED
+hmis-frontend,Left nav for client dashboard,https://github.com/greenriver/hmis-frontend/pull/121,2023-01-05T21:41:28Z,2023-01-09T15:35:40Z,0,12,MERGED
+hmis-frontend,Gig/debug rate limit,https://github.com/greenriver/hmis-frontend/pull/119,2023-01-05T14:35:49Z,2023-01-05T17:43:17Z,0,3,MERGED
+hmis-frontend,Render disabilities in a table,https://github.com/greenriver/hmis-frontend/pull/118,2023-01-04T21:44:36Z,2023-01-05T14:02:08Z,0,5,MERGED
+hmis-frontend,Dont show disabled groups in form nav,https://github.com/greenriver/hmis-frontend/pull/117,2023-01-04T20:57:05Z,2023-01-04T21:07:48Z,0,2,MERGED
+hmis-frontend,Add cypress instructions and Base64 mock,https://github.com/greenriver/hmis-frontend/pull/116,2023-01-04T19:56:04Z,2023-01-04T19:56:51Z,0,1,MERGED
+hmis-frontend,183190260 client photo upload,https://github.com/greenriver/hmis-frontend/pull/115,2023-01-04T19:11:33Z,2023-01-09T13:28:48Z,11,11,MERGED
+hmis-frontend,Add redacted file handling,https://github.com/greenriver/hmis-frontend/pull/293,2023-05-31T21:01:23Z,2023-06-01T15:35:18Z,0,2,MERGED
+hmis-frontend,Fix some issues with stories,https://github.com/greenriver/hmis-frontend/pull/292,2023-05-31T17:23:23Z,2023-05-31T17:23:28Z,0,1,MERGED
+hmis-frontend,185294347 enrollment filter options,https://github.com/greenriver/hmis-frontend/pull/291,2023-05-31T15:50:44Z,2023-06-01T14:36:03Z,7,10,MERGED
+hmis-frontend,Bugfix external link in search result; stop showing DB IDs,https://github.com/greenriver/hmis-frontend/pull/290,2023-05-30T20:17:58Z,2023-05-30T20:27:10Z,0,3,MERGED
+hmis-frontend,"Support collecting phone and email, style cleanup",https://github.com/greenriver/hmis-frontend/pull/289,2023-05-30T16:18:30Z,2023-05-30T20:17:08Z,0,3,MERGED
+hmis-frontend,Release 77,https://github.com/greenriver/hmis-frontend/pull/288,2023-05-30T12:54:07Z,2023-06-13T15:36:34Z,0,57,MERGED
+hmis-frontend,185161086 incoming referrals table,https://github.com/greenriver/hmis-frontend/pull/287,2023-05-29T05:50:15Z,2023-05-31T12:29:26Z,2,8,MERGED
+hmis-frontend,use cache-and-network fetch policy for data tables,https://github.com/greenriver/hmis-frontend/pull/286,2023-05-28T15:36:37Z,2023-05-30T12:53:58Z,0,2,MERGED
+hmis-frontend,Fix bug where filter hides when no results,https://github.com/greenriver/hmis-frontend/pull/285,2023-05-26T19:47:14Z,2023-05-30T12:31:01Z,0,1,MERGED
+hmis-frontend,Remove preferred name,https://github.com/greenriver/hmis-frontend/pull/284,2023-05-26T19:27:44Z,2023-05-30T12:07:22Z,0,1,MERGED
+hmis-frontend,Support collecting addresses,https://github.com/greenriver/hmis-frontend/pull/283,2023-05-26T19:07:24Z,2023-05-30T12:12:01Z,0,3,MERGED
+hmis-frontend,Display organization ID on project page,https://github.com/greenriver/hmis-frontend/pull/282,2023-05-26T12:13:30Z,2023-05-26T13:05:10Z,0,1,MERGED
+hmis-frontend,Collect multiple client names,https://github.com/greenriver/hmis-frontend/pull/281,2023-05-25T17:02:20Z,2023-05-26T00:57:46Z,0,4,MERGED
+hmis-frontend,"Read-only project view, fix project cypress test",https://github.com/greenriver/hmis-frontend/pull/280,2023-05-23T22:00:05Z,2023-05-23T23:25:55Z,0,4,MERGED
+hmis-frontend,Bug fixes to omnisearch,https://github.com/greenriver/hmis-frontend/pull/279,2023-05-23T16:57:06Z,2023-05-23T18:05:19Z,0,1,MERGED
+hmis-frontend,Release 76,https://github.com/greenriver/hmis-frontend/pull/278,2023-05-23T13:04:32Z,2023-06-01T12:24:57Z,0,35,MERGED
+hmis-frontend,Resolve custom data element all records,https://github.com/greenriver/hmis-frontend/pull/277,2023-05-23T13:04:02Z,2023-05-23T13:58:23Z,0,3,MERGED
+hmis-frontend,185128929 sort filter table,https://github.com/greenriver/hmis-frontend/pull/276,2023-05-22T22:38:06Z,2023-05-25T13:38:08Z,1,12,MERGED
+hmis-frontend,"Render theme from app settings, add dev tool for theme development",https://github.com/greenriver/hmis-frontend/pull/275,2023-05-19T19:00:28Z,2023-05-22T01:24:52Z,0,2,MERGED
+hmis-frontend,Support viewing/editing Custom Data Elements in forms,https://github.com/greenriver/hmis-frontend/pull/274,2023-05-18T18:11:35Z,2023-05-23T13:00:06Z,0,3,MERGED
+hmis-frontend,Tweak MCI clearance,https://github.com/greenriver/hmis-frontend/pull/273,2023-05-16T22:38:13Z,2023-05-16T23:22:10Z,0,1,MERGED
+hmis-frontend,185161008 void referral requests,https://github.com/greenriver/hmis-frontend/pull/272,2023-05-16T05:46:28Z,2023-05-18T18:37:48Z,3,8,MERGED
+hmis-frontend,Add page break avoid,https://github.com/greenriver/hmis-frontend/pull/271,2023-05-15T18:54:35Z,2023-05-15T20:15:46Z,0,1,MERGED
+hmis-frontend,Cleanup permissions,https://github.com/greenriver/hmis-frontend/pull/270,2023-05-15T18:01:42Z,2023-05-15T20:16:08Z,1,1,MERGED
+hmis-frontend,Send all apollo errors to sentry,https://github.com/greenriver/hmis-frontend/pull/269,2023-05-15T14:03:18Z,2023-05-15T14:20:58Z,0,2,MERGED
+hmis-frontend,185127580-project-households-table,https://github.com/greenriver/hmis-frontend/pull/268,2023-05-11T21:44:02Z,2023-05-16T13:47:35Z,3,4,MERGED
+hmis-frontend,Update enrollment gates,https://github.com/greenriver/hmis-frontend/pull/267,2023-05-11T17:59:02Z,2023-05-11T19:31:10Z,0,1,MERGED
+hmis-frontend,Release 75,https://github.com/greenriver/hmis-frontend/pull/266,2023-05-11T17:14:02Z,2023-05-23T19:36:18Z,0,67,MERGED
+hmis-frontend,Release 74,https://github.com/greenriver/hmis-frontend/pull/265,2023-05-11T15:50:28Z,2023-05-16T16:07:38Z,0,81,MERGED
+hmis-frontend,Update to use manage inventory permission,https://github.com/greenriver/hmis-frontend/pull/264,2023-05-11T15:09:16Z,2023-05-11T17:14:58Z,0,4,MERGED
+hmis-frontend,Specify picklist relation id when viewing record,https://github.com/greenriver/hmis-frontend/pull/263,2023-05-10T15:33:33Z,2023-05-11T15:48:08Z,0,2,MERGED
+hmis-frontend,Use root canEditClients to show client creation,https://github.com/greenriver/hmis-frontend/pull/262,2023-05-09T21:12:25Z,2023-05-09T21:30:38Z,0,1,MERGED
+hmis-frontend,"Show hud ids for project and org, show more recent items",https://github.com/greenriver/hmis-frontend/pull/261,2023-05-09T19:48:24Z,2023-05-09T21:02:02Z,0,1,MERGED
+hmis-frontend,185109128 preload picklists,https://github.com/greenriver/hmis-frontend/pull/260,2023-05-08T23:12:20Z,2023-05-09T19:17:52Z,6,6,MERGED
+hmis-frontend,185052017 support create referral request,https://github.com/greenriver/hmis-frontend/pull/259,2023-05-08T19:50:25Z,2023-05-11T15:47:50Z,0,10,MERGED
+hmis-frontend,Fix keepalive and idle session timeouts in nginx,https://github.com/greenriver/hmis-frontend/pull/258,2023-05-08T18:38:13Z,2023-05-08T18:49:25Z,0,2,MERGED
+hmis-frontend,Fix nav item click target issue,https://github.com/greenriver/hmis-frontend/pull/257,2023-05-05T19:16:17Z,2023-05-08T12:05:18Z,0,1,MERGED
+hmis-frontend,Implement printable assessment,https://github.com/greenriver/hmis-frontend/pull/256,2023-05-04T22:38:50Z,2023-05-05T14:21:16Z,4,2,MERGED
+hmis-frontend,Unit type in unit creation,https://github.com/greenriver/hmis-frontend/pull/255,2023-05-04T21:21:41Z,2023-05-05T16:54:33Z,0,1,MERGED
+hmis-frontend,"Fix logout errors, hide unused tabs, make dialog scrollable",https://github.com/greenriver/hmis-frontend/pull/254,2023-05-04T18:04:06Z,2023-05-04T18:51:27Z,0,4,MERGED
+hmis-frontend,"Update unit management, remove beds",https://github.com/greenriver/hmis-frontend/pull/253,2023-05-04T17:24:38Z,2023-05-04T21:15:57Z,0,4,MERGED
+hmis-frontend,Release 73,https://github.com/greenriver/hmis-frontend/pull/252,2023-05-04T12:46:33Z,2023-05-11T15:50:36Z,0,36,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/251,2023-05-03T17:22:52Z,2023-05-04T12:35:34Z,0,1,CLOSED
+hmis-frontend,Simplify mci selector and supporting pasting SSN,https://github.com/greenriver/hmis-frontend/pull/250,2023-05-03T16:12:05Z,2023-05-03T16:43:24Z,0,1,MERGED
+hmis-frontend,Update codegen,https://github.com/greenriver/hmis-frontend/pull/249,2023-05-02T21:08:22Z,2023-05-04T12:35:21Z,0,1,CLOSED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/248,2023-05-02T20:54:38Z,2023-05-04T12:35:07Z,0,4,CLOSED
+hmis-frontend,Update file metadata shape in gql to be consistent with other records,https://github.com/greenriver/hmis-frontend/pull/247,2023-05-02T19:51:18Z,2023-05-02T21:07:51Z,0,4,MERGED
+hmis-frontend,185073482 dynamic file details,https://github.com/greenriver/hmis-frontend/pull/246,2023-05-02T17:11:59Z,2023-05-02T19:38:36Z,1,3,MERGED
+hmis-frontend,Route setup for referral reqs,https://github.com/greenriver/hmis-frontend/pull/245,2023-05-02T14:47:11Z,2023-05-02T14:49:22Z,0,1,MERGED
+hmis-frontend,"Fix assmt deletion bug, update schema",https://github.com/greenriver/hmis-frontend/pull/244,2023-05-01T21:36:34Z,2023-05-02T19:40:06Z,0,4,MERGED
+hmis-frontend,"Use new ViewRecord, ViewRecordDialog, and metadata displays for project tables",https://github.com/greenriver/hmis-frontend/pull/243,2023-05-01T02:21:16Z,2023-05-01T16:20:04Z,0,2,MERGED
+hmis-frontend,Allow intake assessment deletion; access bug fixes; reorg fragments and queries,https://github.com/greenriver/hmis-frontend/pull/242,2023-04-28T20:56:30Z,2023-04-30T17:30:42Z,0,7,MERGED
+hmis-frontend,Gig/project dashboard,https://github.com/greenriver/hmis-frontend/pull/241,2023-04-28T18:42:30Z,2023-04-30T16:15:24Z,0,4,MERGED
+hmis-frontend,Remove warehouse_url attribute,https://github.com/greenriver/hmis-frontend/pull/240,2023-04-27T19:34:51Z,2023-04-28T11:15:00Z,0,1,MERGED
+hmis-frontend,Handle timeout errors,https://github.com/greenriver/hmis-frontend/pull/239,2023-04-27T15:59:44Z,2023-04-28T11:14:33Z,4,1,MERGED
+hmis-frontend,Closed Client Access,https://github.com/greenriver/hmis-frontend/pull/238,2023-04-27T13:59:03Z,2023-05-04T12:46:01Z,1,7,MERGED
+hmis-frontend,"Show MCI ID in search results, always show on profile if flag enabled",https://github.com/greenriver/hmis-frontend/pull/237,2023-04-24T16:42:54Z,2023-04-24T18:08:45Z,0,2,MERGED
+hmis-frontend,Add hash navigation to view enrollments page,https://github.com/greenriver/hmis-frontend/pull/236,2023-04-21T16:17:43Z,2023-04-24T14:27:54Z,0,1,MERGED
+hmis-frontend,184908530 add favicon,https://github.com/greenriver/hmis-frontend/pull/235,2023-04-21T13:48:34Z,2023-04-24T14:33:08Z,0,2,MERGED
+hmis-frontend,Handle delete assessment permissions,https://github.com/greenriver/hmis-frontend/pull/234,2023-04-20T22:30:59Z,2023-04-24T18:14:40Z,0,1,MERGED
+hmis-frontend,Release 72,https://github.com/greenriver/hmis-frontend/pull/233,2023-04-20T22:00:00Z,2023-05-04T12:46:22Z,0,89,MERGED
+hmis-frontend,MCI clearance; Project layout,https://github.com/greenriver/hmis-frontend/pull/232,2023-04-20T21:50:30Z,2023-04-30T16:25:44Z,1,18,MERGED
+hmis-frontend,Handle warnings and errors when adding a household member,https://github.com/greenriver/hmis-frontend/pull/231,2023-04-20T19:05:32Z,2023-04-20T19:20:02Z,0,1,MERGED
+hmis-frontend,184297613 expose client ids,https://github.com/greenriver/hmis-frontend/pull/230,2023-04-20T15:23:18Z,2023-04-20T21:59:46Z,0,4,MERGED
+hmis-frontend,Update files table,https://github.com/greenriver/hmis-frontend/pull/229,2023-04-19T13:47:04Z,2023-04-19T13:57:39Z,0,1,MERGED
+hmis-frontend,"Default to read-only assessment view, and other updates",https://github.com/greenriver/hmis-frontend/pull/228,2023-04-18T21:18:58Z,2023-04-19T13:20:46Z,0,6,MERGED
+hmis-frontend,Always attach user to error boundary,https://github.com/greenriver/hmis-frontend/pull/227,2023-04-18T15:48:36Z,2023-04-18T15:54:09Z,0,1,MERGED
+hmis-frontend,"Fix bug with monthly total income, add readonly item options",https://github.com/greenriver/hmis-frontend/pull/226,2023-04-18T15:25:36Z,2023-04-18T18:35:35Z,0,2,MERGED
+hmis-frontend,"Capture user info for 404s, create release in sentry on build",https://github.com/greenriver/hmis-frontend/pull/225,2023-04-18T12:52:36Z,2023-04-18T13:03:56Z,0,2,MERGED
+hmis-frontend,"Rm staging env, send 404s to sentry, disable sourceMap upload",https://github.com/greenriver/hmis-frontend/pull/224,2023-04-18T01:43:20Z,2023-04-18T12:05:37Z,0,4,MERGED
+hmis-frontend,Throw error if bad app setting response,https://github.com/greenriver/hmis-frontend/pull/223,2023-04-14T17:46:06Z,2023-04-17T12:02:23Z,0,1,MERGED
+hmis-frontend,Upload source maps to Sentry,https://github.com/greenriver/hmis-frontend/pull/222,2023-04-14T17:23:44Z,2023-04-17T16:01:36Z,1,17,MERGED
+hmis-frontend,184907418 delete client,https://github.com/greenriver/hmis-frontend/pull/221,2023-04-14T13:07:56Z,2023-04-18T00:16:54Z,7,9,MERGED
+hmis-frontend,Add warning dialog hook,https://github.com/greenriver/hmis-frontend/pull/220,2023-04-13T16:04:08Z,2023-04-13T16:44:11Z,0,2,MERGED
+hmis-frontend,"Entry Date and HoH validation warning support, ValidationDialog infra",https://github.com/greenriver/hmis-frontend/pull/219,2023-04-12T21:45:39Z,2023-04-14T15:58:39Z,1,8,MERGED
+hmis-frontend,Style updates to audit history,https://github.com/greenriver/hmis-frontend/pull/218,2023-04-12T20:36:34Z,2023-04-12T20:36:38Z,0,1,MERGED
+hmis-frontend,184628960 fixup files v3,https://github.com/greenriver/hmis-frontend/pull/217,2023-04-12T13:54:29Z,2023-04-12T20:36:49Z,0,1,MERGED
+hmis-frontend,Release 71,https://github.com/greenriver/hmis-frontend/pull/216,2023-04-12T12:55:15Z,2023-04-24T18:28:06Z,0,189,MERGED
+hmis-frontend,"Reduce number of requests for fetching permissions, use cache",https://github.com/greenriver/hmis-frontend/pull/215,2023-04-11T15:03:18Z,2023-04-11T17:34:59Z,1,1,MERGED
+hmis-frontend,184085879 dynamic form view,https://github.com/greenriver/hmis-frontend/pull/214,2023-04-10T18:47:42Z,2023-04-12T13:13:18Z,15,14,MERGED
+hmis-frontend,"Update login design, move app settings to backend",https://github.com/greenriver/hmis-frontend/pull/213,2023-04-07T19:16:13Z,2023-04-07T20:58:30Z,0,2,MERGED
+hmis-frontend,Set origin header in dev,https://github.com/greenriver/hmis-frontend/pull/212,2023-04-06T18:15:05Z,2023-04-06T18:15:36Z,0,1,MERGED
+hmis-frontend,Fixup file permissions,https://github.com/greenriver/hmis-frontend/pull/211,2023-04-03T16:46:28Z,2023-04-07T13:44:41Z,0,5,MERGED
+hmis-frontend,clean up duplicate packages,https://github.com/greenriver/hmis-frontend/pull/210,2023-04-01T16:28:05Z,2023-04-04T02:02:44Z,1,2,MERGED
+hmis-frontend,Content security policy refinements,https://github.com/greenriver/hmis-frontend/pull/391,2023-07-31T13:26:22Z,2023-07-31T13:59:46Z,0,6,MERGED
+hmis-frontend,Use a custom form for outgoing referrals,https://github.com/greenriver/hmis-frontend/pull/390,2023-07-28T20:06:07Z,2023-07-31T13:34:24Z,3,5,MERGED
+hmis-frontend,Release 81 with todd nginx fixes,https://github.com/greenriver/hmis-frontend/pull/389,2023-07-28T13:31:50Z,2023-07-28T13:52:33Z,0,2,MERGED
+hmis-frontend,Fix exit destination display,https://github.com/greenriver/hmis-frontend/pull/388,2023-07-27T20:59:57Z,2023-07-27T21:29:58Z,0,3,MERGED
+hmis-frontend,adds CSP in reporting-only mode,https://github.com/greenriver/hmis-frontend/pull/387,2023-07-27T18:29:28Z,2023-07-28T16:57:32Z,5,4,MERGED
+hmis-frontend,185602877 enrollment summary,https://github.com/greenriver/hmis-frontend/pull/386,2023-07-27T17:34:53Z,2023-07-31T12:04:23Z,5,6,MERGED
+hmis-frontend,183269204 add cls records,https://github.com/greenriver/hmis-frontend/pull/385,2023-07-26T16:52:34Z,2023-07-27T21:23:49Z,2,5,MERGED
+hmis-frontend,Release 83,https://github.com/greenriver/hmis-frontend/pull/384,2023-07-26T14:27:55Z,2023-08-16T17:08:27Z,0,15,MERGED
+hmis-frontend,Update copy on session modals,https://github.com/greenriver/hmis-frontend/pull/383,2023-07-26T13:54:42Z,2023-07-26T14:15:41Z,0,1,MERGED
+hmis-frontend,"Occurrence point data collection (MID, DOE, PATH status, Custom, + Unit Assignment)",https://github.com/greenriver/hmis-frontend/pull/382,2023-07-25T20:18:30Z,2023-07-27T17:27:55Z,3,7,MERGED
+hmis-frontend,adds some possible fixes for nginx freezing up,https://github.com/greenriver/hmis-frontend/pull/381,2023-07-25T19:22:03Z,2023-07-26T13:39:36Z,4,2,MERGED
+hmis-frontend,Fix bug in services,https://github.com/greenriver/hmis-frontend/pull/380,2023-07-24T21:59:01Z,2023-07-25T14:32:29Z,0,2,MERGED
+hmis-frontend,Show DOE and MID on enrollment page,https://github.com/greenriver/hmis-frontend/pull/379,2023-07-24T20:13:34Z,2023-07-24T21:41:32Z,0,1,MERGED
+hmis-frontend,Only show relevant nav items on project dashboard,https://github.com/greenriver/hmis-frontend/pull/378,2023-07-24T17:59:12Z,2023-07-24T17:59:38Z,0,2,MERGED
+hmis-frontend,Resolve DOE and MID on Enrollment,https://github.com/greenriver/hmis-frontend/pull/377,2023-07-24T14:52:21Z,2023-07-24T20:01:19Z,0,2,MERGED
+hmis-frontend,tidy linter warnings around console.log,https://github.com/greenriver/hmis-frontend/pull/376,2023-07-23T20:15:51Z,2023-07-24T12:41:19Z,0,1,MERGED
+hmis-frontend,185424990 reminder system,https://github.com/greenriver/hmis-frontend/pull/375,2023-07-22T22:06:19Z,2023-07-25T15:40:49Z,4,7,MERGED
+hmis-frontend,185652004 client contact card,https://github.com/greenriver/hmis-frontend/pull/374,2023-07-20T21:59:23Z,2023-07-24T12:58:24Z,0,3,MERGED
+hmis-frontend,session bugfixes,https://github.com/greenriver/hmis-frontend/pull/373,2023-07-20T03:55:48Z,2023-07-24T12:59:21Z,0,2,MERGED
+hmis-frontend,Update fragment/schema,https://github.com/greenriver/hmis-frontend/pull/372,2023-07-19T20:20:01Z,2023-07-19T21:23:26Z,0,1,MERGED
+hmis-frontend,Allow moving from AcceptedPending=>DeniedPending,https://github.com/greenriver/hmis-frontend/pull/371,2023-07-19T17:14:18Z,2023-07-24T14:34:34Z,1,2,MERGED
+hmis-frontend,Bug fixes on inputs,https://github.com/greenriver/hmis-frontend/pull/369,2023-07-19T15:14:50Z,2023-07-19T15:22:05Z,0,3,MERGED
+hmis-frontend,Memoize pick list args,https://github.com/greenriver/hmis-frontend/pull/368,2023-07-19T12:18:36Z,2023-07-19T12:23:52Z,0,1,MERGED
+hmis-frontend,Prune mirror,https://github.com/greenriver/hmis-frontend/pull/367,2023-07-18T18:18:04Z,2023-07-18T18:23:00Z,0,1,MERGED
+hmis-frontend,Gig/enrollment dashboard,https://github.com/greenriver/hmis-frontend/pull/366,2023-07-18T15:47:42Z,2023-07-24T17:26:25Z,6,20,MERGED
+hmis-frontend,Package upgrades,https://github.com/greenriver/hmis-frontend/pull/365,2023-07-18T15:45:32Z,2023-07-18T18:16:10Z,0,3,MERGED
+hmis-frontend,"Pin vulnerability, upgrade graphql-codegen, drop serverMock",https://github.com/greenriver/hmis-frontend/pull/364,2023-07-18T14:05:41Z,2023-07-18T15:46:09Z,0,5,CLOSED
+hmis-frontend,Drop log statements when minifying,https://github.com/greenriver/hmis-frontend/pull/363,2023-07-18T13:43:54Z,2023-07-18T18:16:20Z,0,1,MERGED
+hmis-frontend,Display readonlyText option where appropriate,https://github.com/greenriver/hmis-frontend/pull/362,2023-07-17T14:58:10Z,2023-07-18T13:02:37Z,0,1,MERGED
+hmis-frontend,Show warning when MCI-linked fields change,https://github.com/greenriver/hmis-frontend/pull/361,2023-07-17T14:26:10Z,2023-07-18T13:02:24Z,0,2,MERGED
+hmis-frontend,185072207-improve-session-expiration,https://github.com/greenriver/hmis-frontend/pull/360,2023-07-17T05:39:22Z,2023-07-18T18:48:38Z,4,21,MERGED
+hmis-frontend,Gig/walkin unit assignment,https://github.com/greenriver/hmis-frontend/pull/359,2023-07-16T18:03:00Z,2023-07-16T18:04:16Z,0,8,MERGED
+hmis-frontend,"Split out pick list relation args, allow unit assignment when adding enrollment",https://github.com/greenriver/hmis-frontend/pull/358,2023-07-14T21:30:02Z,2023-07-18T15:15:22Z,0,5,MERGED
+hmis-frontend,Unit assignment for referrals,https://github.com/greenriver/hmis-frontend/pull/357,2023-07-13T23:30:40Z,2023-07-14T19:17:22Z,0,4,MERGED
+hmis-frontend,Release 82,https://github.com/greenriver/hmis-frontend/pull/356,2023-07-12T14:52:15Z,2023-08-16T17:06:38Z,0,31,MERGED
+hmis-frontend,Resolve youthEducationStatus and employmentEducation on assessment,https://github.com/greenriver/hmis-frontend/pull/355,2023-07-11T23:55:38Z,2023-07-12T12:21:59Z,0,2,MERGED
+hmis-frontend,Support filtering projects by org,https://github.com/greenriver/hmis-frontend/pull/354,2023-07-11T18:58:46Z,2023-07-11T23:10:45Z,0,1,MERGED
+hmis-frontend,Update project page,https://github.com/greenriver/hmis-frontend/pull/353,2023-07-11T17:48:22Z,2023-07-11T18:04:31Z,0,2,MERGED
+hmis-frontend,Gig/patch forms,https://github.com/greenriver/hmis-frontend/pull/352,2023-07-11T17:03:39Z,2023-07-11T17:09:47Z,0,3,MERGED
+hmis-frontend,Nav on assmt submit/save,https://github.com/greenriver/hmis-frontend/pull/351,2023-07-11T14:35:57Z,2023-07-11T15:40:31Z,0,1,MERGED
+hmis-frontend,Perform Annual assessments in household workflow,https://github.com/greenriver/hmis-frontend/pull/349,2023-07-07T21:09:55Z,2023-07-10T18:29:21Z,0,19,MERGED
+hmis-frontend,185363348 project unit types,https://github.com/greenriver/hmis-frontend/pull/348,2023-07-07T21:05:40Z,2023-07-11T16:31:29Z,0,4,MERGED
+hmis-frontend,Upgrade storybook and get it working with vite,https://github.com/greenriver/hmis-frontend/pull/347,2023-07-07T13:38:42Z,2023-07-10T12:10:00Z,0,7,MERGED
+hmis-frontend,Use generated project type list,https://github.com/greenriver/hmis-frontend/pull/346,2023-07-06T22:06:40Z,2023-08-17T17:15:56Z,0,6,MERGED
+hmis-frontend,Release 81,https://github.com/greenriver/hmis-frontend/pull/345,2023-07-06T14:59:56Z,2023-07-31T14:02:44Z,0,18,MERGED
+hmis-frontend,Resolve submitted assessments from related records,https://github.com/greenriver/hmis-frontend/pull/344,2023-07-06T14:51:00Z,2023-07-10T12:09:40Z,0,16,MERGED
+hmis-frontend,185425763 outgoing referrals,https://github.com/greenriver/hmis-frontend/pull/343,2023-07-05T07:02:35Z,2023-07-06T14:57:32Z,2,12,MERGED
+hmis-frontend,185485846-denial-note-is-optional,https://github.com/greenriver/hmis-frontend/pull/342,2023-07-02T16:12:52Z,2023-07-03T13:36:09Z,0,1,MERGED
+hmis-frontend,"Form updates, set entry date for service forms",https://github.com/greenriver/hmis-frontend/pull/341,2023-06-29T19:14:53Z,2023-07-04T17:34:46Z,0,1,MERGED
+hmis-frontend,185274315 esg funding report,https://github.com/greenriver/hmis-frontend/pull/340,2023-06-26T19:14:34Z,2023-06-28T19:24:11Z,7,11,MERGED
+hmis-frontend,Use dynamic form to create enrollment,https://github.com/greenriver/hmis-frontend/pull/339,2023-06-26T11:36:25Z,2023-07-05T15:01:56Z,0,8,MERGED
+hmis-frontend,Fix bugs in household creation from project,https://github.com/greenriver/hmis-frontend/pull/338,2023-06-26T11:34:34Z,2023-06-26T12:23:54Z,0,1,MERGED
+hmis-frontend,185454321 client service pane,https://github.com/greenriver/hmis-frontend/pull/337,2023-06-22T13:07:49Z,2023-06-28T18:09:40Z,3,5,MERGED
+hmis-frontend,Address feedback on referrals,https://github.com/greenriver/hmis-frontend/pull/336,2023-06-21T22:05:40Z,2023-06-21T23:16:36Z,0,1,MERGED
+hmis-frontend,Release 80,https://github.com/greenriver/hmis-frontend/pull/335,2023-06-21T18:04:34Z,2023-07-12T14:55:27Z,0,10,MERGED
+hmis-frontend,Update external IDs table,https://github.com/greenriver/hmis-frontend/pull/334,2023-06-21T14:55:16Z,2023-06-26T20:10:37Z,2,4,MERGED
+hmis-frontend,185128929 sortable table 2,https://github.com/greenriver/hmis-frontend/pull/333,2023-06-20T17:55:35Z,2023-06-20T20:03:50Z,0,1,MERGED
+hmis-frontend,Dont show raw error messages in prod,https://github.com/greenriver/hmis-frontend/pull/332,2023-06-20T16:00:51Z,2023-06-20T19:57:51Z,0,3,MERGED
+hmis-frontend,Style updates to referrals and show project correctly,https://github.com/greenriver/hmis-frontend/pull/331,2023-06-20T15:24:06Z,2023-06-20T16:01:55Z,0,1,MERGED
+hmis-frontend,Update audit history for related records,https://github.com/greenriver/hmis-frontend/pull/330,2023-06-19T20:57:15Z,2023-06-20T14:19:35Z,0,1,MERGED
+hmis-frontend,Support creating household from a project context,https://github.com/greenriver/hmis-frontend/pull/329,2023-06-18T19:29:16Z,2023-06-19T16:21:31Z,0,6,MERGED
+hmis-frontend,Add empty canManageOutgoingReferrals section,https://github.com/greenriver/hmis-frontend/pull/328,2023-06-16T20:45:22Z,2023-06-16T20:56:27Z,0,1,MERGED
+hmis-frontend,Updated Unit Management tool; make GenericTable selectable,https://github.com/greenriver/hmis-frontend/pull/326,2023-06-16T19:24:43Z,2023-06-18T19:14:16Z,1,10,MERGED
+hmis-frontend,Release 79,https://github.com/greenriver/hmis-frontend/pull/325,2023-06-15T15:44:35Z,2023-07-06T14:59:16Z,0,16,MERGED
+hmis-frontend,Always set today local constant,https://github.com/greenriver/hmis-frontend/pull/324,2023-06-15T14:44:03Z,2023-06-15T14:51:00Z,0,1,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/323,2023-06-14T21:44:53Z,2023-06-16T12:41:44Z,0,2,MERGED
+hmis-frontend,Fix issue displaying 0 and false in ReferralPostingDetails,https://github.com/greenriver/hmis-frontend/pull/322,2023-06-14T18:44:49Z,2023-06-15T11:06:39Z,0,1,MERGED
+hmis-frontend,185282623 update referral denial,https://github.com/greenriver/hmis-frontend/pull/321,2023-06-14T16:24:08Z,2023-06-18T18:47:28Z,7,9,MERGED
+hmis-frontend,UI updates for referral pages; add temp list of Denial Reasons for testing in staging,https://github.com/greenriver/hmis-frontend/pull/320,2023-06-13T14:34:34Z,2023-06-13T15:14:30Z,1,3,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/319,2023-06-12T19:54:06Z,2023-06-13T11:52:23Z,0,1,MERGED
+hmis-frontend,185383691-missing-useSafeParams,https://github.com/greenriver/hmis-frontend/pull/318,2023-06-12T19:42:37Z,2023-06-12T19:56:42Z,0,1,MERGED
+hmis-frontend,185334192 admin dashboard and referral denial,https://github.com/greenriver/hmis-frontend/pull/317,2023-06-12T06:22:00Z,2023-06-12T15:45:59Z,3,6,MERGED
+hmis-frontend,Create household in project,https://github.com/greenriver/hmis-frontend/pull/316,2023-06-09T20:33:44Z,2023-06-09T20:36:17Z,0,5,MERGED
+hmis-frontend,Support creating client within household mgmt; clean up dialogs; bulk services fix,https://github.com/greenriver/hmis-frontend/pull/315,2023-06-09T16:24:56Z,2023-06-09T20:45:17Z,2,4,MERGED
+hmis-frontend,Clear errors in HmisAppSettingsProvider,https://github.com/greenriver/hmis-frontend/pull/314,2023-06-09T13:22:00Z,2023-06-09T13:40:57Z,0,2,MERGED
+hmis-frontend,Fixup URL for client search results table,https://github.com/greenriver/hmis-frontend/pull/313,2023-06-08T20:09:43Z,2023-06-09T13:20:55Z,0,1,MERGED
+hmis-frontend,MCI clearance bug fixes,https://github.com/greenriver/hmis-frontend/pull/312,2023-06-08T19:04:59Z,2023-06-08T19:10:59Z,0,1,MERGED
+hmis-frontend,Disable weirdly behaving autoselect,https://github.com/greenriver/hmis-frontend/pull/311,2023-06-08T17:41:34Z,2023-06-08T17:59:57Z,0,1,MERGED
+hmis-frontend,Dont pluralize filter names,https://github.com/greenriver/hmis-frontend/pull/310,2023-06-07T21:42:55Z,2023-06-08T15:06:33Z,0,3,MERGED
+hmis-frontend,"Link to enrollment from referral detail, style updates",https://github.com/greenriver/hmis-frontend/pull/309,2023-06-07T21:24:06Z,2023-06-08T17:37:59Z,2,3,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/308,2023-06-07T19:44:44Z,2023-06-08T14:58:52Z,0,5,MERGED
+hmis-frontend,185274189 filter services,https://github.com/greenriver/hmis-frontend/pull/307,2023-06-07T16:00:49Z,2023-06-07T20:59:19Z,1,2,CLOSED
+hmis-frontend,Upgrade vite to 4.3,https://github.com/greenriver/hmis-frontend/pull/306,2023-06-06T13:09:10Z,2023-06-06T17:42:49Z,0,3,MERGED
+hmis-frontend,Add household filter options,https://github.com/greenriver/hmis-frontend/pull/304,2023-06-05T22:00:58Z,2023-06-07T19:33:38Z,0,3,MERGED
+hmis-frontend,Add linkcolor,https://github.com/greenriver/hmis-frontend/pull/303,2023-06-05T19:37:30Z,2023-06-06T13:11:13Z,2,2,MERGED
+hmis-frontend,185276764 update referral posting status,https://github.com/greenriver/hmis-frontend/pull/302,2023-06-03T18:56:10Z,2023-06-07T18:38:27Z,6,22,MERGED
+hmis-frontend,Gig/185161008 void referral requests,https://github.com/greenriver/hmis-frontend/pull/301,2023-06-02T16:10:30Z,2023-06-05T16:36:40Z,0,3,MERGED
+hmis-frontend,Add project filters,https://github.com/greenriver/hmis-frontend/pull/300,2023-06-02T14:12:41Z,2023-06-06T13:38:40Z,0,5,MERGED
+hmis-frontend,185296690-client-filter-options,https://github.com/greenriver/hmis-frontend/pull/299,2023-06-02T13:19:35Z,2023-08-25T17:30:35Z,0,1,CLOSED
+hmis-frontend,185276711 referral detail page,https://github.com/greenriver/hmis-frontend/pull/298,2023-06-01T21:20:46Z,2023-06-06T13:04:37Z,10,14,MERGED
+hmis-frontend,Support recording custom services,https://github.com/greenriver/hmis-frontend/pull/297,2023-06-01T18:47:58Z,2023-06-08T16:07:02Z,0,16,MERGED
+hmis-frontend,Use cache-and-network effectively,https://github.com/greenriver/hmis-frontend/pull/296,2023-06-01T16:05:49Z,2023-06-01T20:13:42Z,0,4,MERGED
+hmis-frontend,"Evaluate bound offset, pass local vars to ref request",https://github.com/greenriver/hmis-frontend/pull/295,2023-06-01T15:29:28Z,2023-06-01T16:47:58Z,1,2,MERGED
+hmis-frontend,Release 78,https://github.com/greenriver/hmis-frontend/pull/294,2023-06-01T12:24:48Z,2023-07-06T14:58:22Z,0,45,MERGED
+hmis-frontend,Support limited enrollment access on client,https://github.com/greenriver/hmis-frontend/pull/542,2023-10-31T13:59:14Z,2023-11-01T19:47:57Z,0,2,MERGED
+hmis-frontend,186145876 redirect after login,https://github.com/greenriver/hmis-frontend/pull/541,2023-10-31T04:52:14Z,2023-11-01T01:41:04Z,2,4,MERGED
+hmis-frontend,186358370-fix-session-expiry-across-tabs,https://github.com/greenriver/hmis-frontend/pull/540,2023-10-29T20:29:48Z,2023-10-30T13:41:27Z,0,1,MERGED
+hmis-frontend,186301282 hmis move in address,https://github.com/greenriver/hmis-frontend/pull/539,2023-10-29T16:08:54Z,2023-11-02T16:00:23Z,4,9,MERGED
+hmis-frontend,revert to invalid autcomplete property,https://github.com/greenriver/hmis-frontend/pull/538,2023-10-28T21:16:41Z,2023-10-29T14:30:00Z,0,1,MERGED
+hmis-frontend,186304280 impersonate user,https://github.com/greenriver/hmis-frontend/pull/537,2023-10-27T02:14:57Z,2023-11-15T16:10:34Z,1,5,MERGED
+hmis-frontend,Bump crypto-js,https://github.com/greenriver/hmis-frontend/pull/536,2023-10-26T16:12:30Z,2023-10-26T16:22:27Z,0,2,MERGED
+hmis-frontend,Add Client merge audit history to admin and client dashboards,https://github.com/greenriver/hmis-frontend/pull/535,2023-10-26T15:00:11Z,2023-10-27T12:51:27Z,0,3,MERGED
+hmis-frontend,186108004 fix html validation errors,https://github.com/greenriver/hmis-frontend/pull/533,2023-10-23T20:23:35Z,2023-10-26T16:07:17Z,2,6,MERGED
+hmis-frontend,Client merge style updates,https://github.com/greenriver/hmis-frontend/pull/532,2023-10-22T23:30:21Z,2023-10-22T23:34:46Z,0,2,MERGED
+hmis-frontend,"Patch @babel/traverse, graphql, tough-cookie, postcss",https://github.com/greenriver/hmis-frontend/pull/531,2023-10-22T14:57:26Z,2023-10-22T15:09:14Z,0,2,MERGED
+hmis-frontend,Audit bug fix and perm fix,https://github.com/greenriver/hmis-frontend/pull/529,2023-10-18T21:05:41Z,2023-10-18T21:10:59Z,0,1,MERGED
+hmis-frontend,Admin client merging tools,https://github.com/greenriver/hmis-frontend/pull/528,2023-10-18T21:02:01Z,2023-10-20T20:39:54Z,0,6,MERGED
+hmis-frontend,"Change sentry environment, add tag",https://github.com/greenriver/hmis-frontend/pull/527,2023-10-16T18:14:25Z,2023-10-16T18:19:51Z,0,1,MERGED
+hmis-frontend,Bed night cleanup,https://github.com/greenriver/hmis-frontend/pull/525,2023-10-12T17:50:52Z,2023-10-12T20:19:50Z,0,3,MERGED
+hmis-frontend,Update cypress tests,https://github.com/greenriver/hmis-frontend/pull/524,2023-10-12T16:01:08Z,2023-10-12T16:32:47Z,0,8,MERGED
+hmis-frontend,Release 90,https://github.com/greenriver/hmis-frontend/pull/523,2023-10-12T13:23:20Z,2023-11-13T14:50:58Z,0,17,MERGED
+hmis-frontend,Support Create/Edit/Delete HmisParticipation and CeParticipation records,https://github.com/greenriver/hmis-frontend/pull/522,2023-10-10T20:09:26Z,2023-10-12T17:53:14Z,0,2,MERGED
+hmis-frontend,Fix issue linking to household exit,https://github.com/greenriver/hmis-frontend/pull/521,2023-10-10T17:47:26Z,2023-10-10T17:47:51Z,0,1,MERGED
+hmis-frontend,"Dont login if email/pw missing, add link to warehouse from user dropdown",https://github.com/greenriver/hmis-frontend/pull/520,2023-10-10T16:36:31Z,2023-10-10T18:18:47Z,0,1,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/519,2023-10-09T20:09:22Z,2023-10-09T21:06:16Z,0,1,MERGED
+hmis-frontend,Fix QA issues with re enrolled hhm,https://github.com/greenriver/hmis-frontend/pull/518,2023-10-09T20:03:56Z,2023-10-09T20:19:36Z,0,2,MERGED
+hmis-frontend,Remove too-narrow perm check for removing hhms,https://github.com/greenriver/hmis-frontend/pull/517,2023-10-09T16:53:01Z,2023-10-09T21:05:17Z,0,2,MERGED
+hmis-frontend,Support re-enrolling household member in household,https://github.com/greenriver/hmis-frontend/pull/516,2023-10-09T15:54:15Z,2023-10-09T16:46:45Z,0,1,MERGED
+hmis-frontend,Perform annual assessments individually,https://github.com/greenriver/hmis-frontend/pull/515,2023-10-06T20:11:34Z,2023-10-06T20:38:05Z,0,5,MERGED
+hmis-frontend,Handle null phone numbers; add error boundary around dashboard content,https://github.com/greenriver/hmis-frontend/pull/514,2023-10-06T15:56:18Z,2023-10-06T16:06:15Z,0,2,MERGED
+hmis-frontend,wip fix annuals,https://github.com/greenriver/hmis-frontend/pull/513,2023-10-06T00:13:52Z,2023-10-06T20:36:35Z,0,2,CLOSED
+hmis-frontend,Fix bug opening annuals,https://github.com/greenriver/hmis-frontend/pull/512,2023-10-06T00:11:02Z,2023-10-06T00:14:41Z,0,2,MERGED
+hmis-frontend,Slight improvement in testing and testability,https://github.com/greenriver/hmis-frontend/pull/511,2023-10-05T19:45:27Z,2023-10-06T20:43:18Z,0,2,MERGED
+hmis-frontend,"Collect address ""use"", update contact info display to be clearer",https://github.com/greenriver/hmis-frontend/pull/510,2023-10-05T13:35:13Z,2023-10-05T17:45:40Z,1,1,MERGED
+hmis-frontend,Use HUD Chronic status from ReferralPosting,https://github.com/greenriver/hmis-frontend/pull/509,2023-10-05T12:38:26Z,2023-10-06T21:13:34Z,0,2,MERGED
+hmis-frontend,Release 89,https://github.com/greenriver/hmis-frontend/pull/508,2023-10-05T12:21:10Z,2023-11-02T15:05:35Z,0,15,MERGED
+hmis-frontend,Dont send invalid dates to api,https://github.com/greenriver/hmis-frontend/pull/507,2023-10-04T22:38:45Z,2023-10-05T12:20:48Z,0,2,MERGED
+hmis-frontend,Delete old serverMock,https://github.com/greenriver/hmis-frontend/pull/506,2023-10-04T21:52:54Z,2023-10-04T22:22:34Z,0,1,MERGED
+hmis-frontend,Notes related to testing argo rollouts,https://github.com/greenriver/hmis-frontend/pull/504,2023-10-04T16:10:23Z,2023-10-04T21:51:15Z,1,1,MERGED
+hmis-frontend,Hide CDEs on client profile for now,https://github.com/greenriver/hmis-frontend/pull/503,2023-10-02T01:07:13Z,2023-10-02T01:08:44Z,0,1,MERGED
+hmis-frontend,186146966 error display fixes,https://github.com/greenriver/hmis-frontend/pull/502,2023-10-01T23:09:43Z,2023-10-01T23:22:07Z,0,1,MERGED
+hmis-frontend,Fix pagination on organization table,https://github.com/greenriver/hmis-frontend/pull/501,2023-09-30T18:03:43Z,2023-09-30T18:18:38Z,0,1,MERGED
+hmis-frontend,Contact info / multi name design cleanup,https://github.com/greenriver/hmis-frontend/pull/500,2023-09-29T23:04:15Z,2023-09-29T23:12:54Z,0,3,MERGED
+hmis-frontend,Stop querying unneeded data; resolve numUnitsAssignedToHousehold; add DOB to hh table,https://github.com/greenriver/hmis-frontend/pull/499,2023-09-29T21:26:42Z,2023-09-29T22:03:25Z,0,5,MERGED
+hmis-frontend, Empty commit for new build,https://github.com/greenriver/hmis-frontend/pull/498,2023-09-28T21:04:55Z,2023-09-29T13:24:48Z,0,1,CLOSED
+hmis-frontend,Resolve more enrollment fields to use for population,https://github.com/greenriver/hmis-frontend/pull/497,2023-09-28T16:53:15Z,2023-09-28T17:36:00Z,1,1,MERGED
+hmis-frontend,"Display CDEs on client profile, support showing them on CLS table too",https://github.com/greenriver/hmis-frontend/pull/496,2023-09-28T15:50:04Z,2023-09-28T15:55:05Z,0,1,MERGED
+hmis-frontend,Project page fixup,https://github.com/greenriver/hmis-frontend/pull/495,2023-09-28T13:02:50Z,2023-09-28T14:17:35Z,0,3,MERGED
+hmis-frontend,Release 88,https://github.com/greenriver/hmis-frontend/pull/494,2023-09-28T12:12:44Z,2023-10-12T17:54:15Z,0,43,MERGED
+hmis-frontend,Dont show the long error message for ValidationErrors; update styles,https://github.com/greenriver/hmis-frontend/pull/493,2023-09-28T12:10:16Z,2023-09-28T12:11:41Z,0,1,MERGED
+hmis-frontend,Show placeholder for client without name,https://github.com/greenriver/hmis-frontend/pull/492,2023-09-27T17:50:15Z,2023-09-27T20:27:51Z,0,1,MERGED
+hmis-frontend,Custom fields on CLS,https://github.com/greenriver/hmis-frontend/pull/491,2023-09-27T13:39:38Z,2023-09-27T17:45:52Z,0,1,MERGED
+hmis-frontend,185905983 better apollo error message fix,https://github.com/greenriver/hmis-frontend/pull/490,2023-09-26T21:52:45Z,2023-09-27T12:15:51Z,0,3,MERGED
+hmis-frontend,pr template,https://github.com/greenriver/hmis-frontend/pull/489,2023-09-26T16:55:23Z,2023-10-22T15:13:12Z,0,3,MERGED
+hmis-frontend,185905983-better-apollo-error-message,https://github.com/greenriver/hmis-frontend/pull/488,2023-09-26T16:23:47Z,2023-09-26T20:57:20Z,4,3,MERGED
+hmis-frontend,Schema nullability updates,https://github.com/greenriver/hmis-frontend/pull/487,2023-09-26T15:06:12Z,2023-09-27T12:16:39Z,0,2,MERGED
+hmis-frontend,186073727-prevent-modal-close-on-backdrop,https://github.com/greenriver/hmis-frontend/pull/486,2023-09-25T05:04:58Z,2023-09-25T12:33:05Z,0,1,MERGED
+hmis-frontend,186087436-project-name-overflow,https://github.com/greenriver/hmis-frontend/pull/485,2023-09-25T03:57:16Z,2023-09-25T12:33:23Z,0,1,MERGED
+hmis-frontend,186106752-filter-scrolling-fix,https://github.com/greenriver/hmis-frontend/pull/484,2023-09-25T03:30:00Z,2023-09-25T12:33:47Z,0,1,MERGED
+hmis-frontend,185905983-scroll-modal-form-errors-into-view,https://github.com/greenriver/hmis-frontend/pull/483,2023-09-25T00:41:50Z,2023-09-25T21:24:24Z,0,1,MERGED
+hmis-frontend,185905983-improve-error-display,https://github.com/greenriver/hmis-frontend/pull/482,2023-09-24T22:57:35Z,2023-09-25T21:25:20Z,0,1,MERGED
+hmis-frontend,186087396-from-stepper-scroll,https://github.com/greenriver/hmis-frontend/pull/481,2023-09-24T17:00:56Z,2023-09-24T19:35:36Z,0,1,MERGED
+hmis-frontend,185406272 chronic at pit,https://github.com/greenriver/hmis-frontend/pull/480,2023-09-24T03:25:04Z,2023-09-29T21:48:51Z,0,5,MERGED
+hmis-frontend,Style updates to referral pages,https://github.com/greenriver/hmis-frontend/pull/479,2023-09-22T22:26:48Z,2023-09-24T12:17:05Z,0,2,MERGED
+hmis-frontend,Retain disabled fields that are displayed for submit,https://github.com/greenriver/hmis-frontend/pull/478,2023-09-22T13:50:42Z,2023-09-22T13:56:37Z,0,1,MERGED
+hmis-frontend,Theming updates,https://github.com/greenriver/hmis-frontend/pull/477,2023-09-22T13:20:12Z,2023-09-22T13:29:09Z,0,2,MERGED
+hmis-frontend,Update schema with more lenient types,https://github.com/greenriver/hmis-frontend/pull/474,2023-09-20T21:14:39Z,2023-09-21T01:11:26Z,0,3,MERGED
+hmis-frontend,186047953-fix-edit-modal-state,https://github.com/greenriver/hmis-frontend/pull/473,2023-09-20T05:07:07Z,2023-09-20T21:44:05Z,0,1,MERGED
+hmis-frontend,Hacky fix to key nav,https://github.com/greenriver/hmis-frontend/pull/472,2023-09-18T15:56:54Z,2023-09-19T00:43:57Z,0,1,MERGED
+hmis-frontend,185987568-fix-household-asm-autofill,https://github.com/greenriver/hmis-frontend/pull/471,2023-09-18T04:49:32Z,2023-09-18T17:51:16Z,3,4,MERGED
+hmis-frontend,185708758 hmis api synchronization,https://github.com/greenriver/hmis-frontend/pull/470,2023-09-17T20:56:41Z,2023-09-22T20:52:18Z,0,11,MERGED
+hmis-frontend,Stop fetching an old perm,https://github.com/greenriver/hmis-frontend/pull/469,2023-09-16T14:38:30Z,2023-09-16T14:45:46Z,0,1,MERGED
+hmis-frontend,Release 87,https://github.com/greenriver/hmis-frontend/pull/468,2023-09-15T17:49:58Z,2023-09-24T21:58:23Z,0,62,CLOSED
+hmis-frontend,185959369 case notes,https://github.com/greenriver/hmis-frontend/pull/467,2023-09-15T06:06:45Z,2023-09-19T13:25:54Z,3,9,MERGED
+hmis-frontend,Fix DNS caching for NGINX requests,https://github.com/greenriver/hmis-frontend/pull/466,2023-09-14T23:49:28Z,2023-09-15T13:29:51Z,0,1,MERGED
+hmis-frontend,Longer caching for fingerprinted assets,https://github.com/greenriver/hmis-frontend/pull/465,2023-09-14T19:49:15Z,2023-09-15T16:23:52Z,0,4,MERGED
+hmis-frontend,"Send status codes to sentry, dont try to parse HTML as JSON",https://github.com/greenriver/hmis-frontend/pull/464,2023-09-14T19:48:20Z,2023-09-14T20:28:19Z,0,1,MERGED
+hmis-frontend,Without asset block in nginx,https://github.com/greenriver/hmis-frontend/pull/463,2023-09-13T21:39:55Z,2023-09-14T17:28:55Z,0,2,MERGED
+hmis-frontend,Update MCI messaging,https://github.com/greenriver/hmis-frontend/pull/462,2023-09-13T21:12:19Z,2023-09-13T21:13:55Z,0,2,MERGED
+hmis-frontend,Wip thread name errors,https://github.com/greenriver/hmis-frontend/pull/461,2023-09-13T20:57:59Z,2023-09-22T18:48:08Z,0,1,CLOSED
+hmis-frontend,Add cache-control headers to nginx,https://github.com/greenriver/hmis-frontend/pull/460,2023-09-12T16:19:54Z,2023-09-12T21:28:54Z,0,2,MERGED
+hmis-frontend,Reload page when logging out,https://github.com/greenriver/hmis-frontend/pull/459,2023-09-12T14:00:11Z,2023-09-12T19:47:50Z,0,1,MERGED
+hmis-frontend,Fix bug where full assessments not resolved after household submit,https://github.com/greenriver/hmis-frontend/pull/458,2023-09-11T16:45:29Z,2023-09-11T16:50:46Z,0,1,MERGED
+hmis-frontend,185680669 client search default rank sort,https://github.com/greenriver/hmis-frontend/pull/457,2023-09-10T18:39:59Z,2023-09-13T17:37:27Z,0,3,MERGED
+hmis-frontend,185680669 debounce omnisearch,https://github.com/greenriver/hmis-frontend/pull/456,2023-09-10T04:28:48Z,2023-09-11T13:30:45Z,0,1,MERGED
+hmis-frontend,185921648 household assessment workflow,https://github.com/greenriver/hmis-frontend/pull/455,2023-09-09T05:07:35Z,2023-09-13T19:38:17Z,13,27,MERGED
+hmis-frontend,Improve support for multi coc projects,https://github.com/greenriver/hmis-frontend/pull/454,2023-09-08T16:08:57Z,2023-09-11T16:50:56Z,0,3,MERGED
+hmis-frontend,185997232-local-store-session ,https://github.com/greenriver/hmis-frontend/pull/453,2023-09-08T02:41:55Z,2023-09-08T13:40:33Z,1,2,MERGED
+hmis-frontend,Add defaults to referral forms,https://github.com/greenriver/hmis-frontend/pull/452,2023-09-07T14:23:28Z,2023-09-07T14:23:33Z,0,1,MERGED
+hmis-frontend,Add system status route,https://github.com/greenriver/hmis-frontend/pull/451,2023-09-06T18:59:44Z,2023-09-06T20:54:32Z,0,3,MERGED
+hmis-frontend,Patch bug submitting household asmts,https://github.com/greenriver/hmis-frontend/pull/450,2023-09-05T13:33:38Z,2023-09-05T13:34:54Z,0,2,MERGED
+hmis-frontend,Use selectable for household summary table,https://github.com/greenriver/hmis-frontend/pull/449,2023-09-04T16:23:56Z,2023-09-04T16:34:50Z,0,1,MERGED
+hmis-frontend,Hide service quick action if feature not enabled,https://github.com/greenriver/hmis-frontend/pull/448,2023-09-04T13:09:35Z,2023-09-04T16:17:32Z,0,8,MERGED
+hmis-frontend,Apply new rule for MCI clearance,https://github.com/greenriver/hmis-frontend/pull/447,2023-09-03T17:39:04Z,2023-09-08T19:56:05Z,0,3,MERGED
+hmis-frontend,Support checkbox input for multi-select choice,https://github.com/greenriver/hmis-frontend/pull/446,2023-09-02T13:48:45Z,2023-09-03T16:17:28Z,0,1,MERGED
+hmis-frontend,184294397 form progress indicators,https://github.com/greenriver/hmis-frontend/pull/445,2023-09-01T15:41:35Z,2025-02-17T13:11:40Z,1,4,CLOSED
+hmis-frontend,"Stop pre loading pick lists unnecessarily, cache-and-network pick lists",https://github.com/greenriver/hmis-frontend/pull/444,2023-08-31T18:55:05Z,2023-08-31T19:04:20Z,0,1,MERGED
+hmis-frontend,Update filters/clicktoshow to use link color,https://github.com/greenriver/hmis-frontend/pull/443,2023-08-31T16:38:27Z,2023-08-31T18:59:06Z,0,1,MERGED
+hmis-frontend,Bug fixes for readonly displays,https://github.com/greenriver/hmis-frontend/pull/442,2023-08-31T13:31:41Z,2023-08-31T13:43:08Z,0,2,MERGED
+hmis-frontend,Update filter panel,https://github.com/greenriver/hmis-frontend/pull/440,2023-08-30T19:09:31Z,2023-08-31T13:18:21Z,0,1,MERGED
+hmis-frontend,Update form fragments & type policies,https://github.com/greenriver/hmis-frontend/pull/439,2023-08-30T18:11:26Z,2023-08-31T12:41:02Z,0,3,MERGED
+hmis-frontend,Assmt bug fixes on disability,https://github.com/greenriver/hmis-frontend/pull/438,2023-08-30T15:32:25Z,2023-08-30T15:35:08Z,0,1,MERGED
+hmis-frontend,Allow DNC to have meaningful value,https://github.com/greenriver/hmis-frontend/pull/437,2023-08-29T22:54:06Z,2023-09-11T16:44:40Z,0,3,MERGED
+hmis-frontend,Restrict assessment options,https://github.com/greenriver/hmis-frontend/pull/436,2023-08-29T21:00:03Z,2023-08-30T15:30:21Z,0,1,MERGED
+hmis-frontend,"Enum sort order, horizontal form groups",https://github.com/greenriver/hmis-frontend/pull/435,2023-08-29T20:00:00Z,2023-08-30T12:50:43Z,0,2,MERGED
+hmis-frontend,Make occurrence point data collection configurable ,https://github.com/greenriver/hmis-frontend/pull/434,2023-08-29T15:56:04Z,2023-09-04T11:55:07Z,0,16,MERGED
+hmis-frontend,185906123 disable autofill,https://github.com/greenriver/hmis-frontend/pull/433,2023-08-29T15:47:49Z,2023-09-20T21:46:24Z,2,4,MERGED
+hmis-frontend,Add new sort options to enrollments,https://github.com/greenriver/hmis-frontend/pull/432,2023-08-29T15:03:42Z,2023-08-29T15:24:04Z,0,1,MERGED
+hmis-frontend,Add ability to delete CLS,https://github.com/greenriver/hmis-frontend/pull/431,2023-08-28T18:49:54Z,2023-08-29T17:54:49Z,0,2,MERGED
+hmis-frontend,Design audit updates,https://github.com/greenriver/hmis-frontend/pull/430,2023-08-28T18:44:42Z,2023-08-28T19:01:42Z,0,1,MERGED
+hmis-frontend,Code cleanup,https://github.com/greenriver/hmis-frontend/pull/429,2023-08-27T17:51:28Z,2023-08-27T17:51:41Z,0,1,MERGED
+hmis-frontend,2024 HMIS - frontend,https://github.com/greenriver/hmis-frontend/pull/428,2023-08-27T17:46:59Z,2023-08-29T15:32:56Z,0,15,MERGED
+hmis-frontend,Dont allow selecting other values with 8/9/99 in multiselect,https://github.com/greenriver/hmis-frontend/pull/427,2023-08-26T16:55:34Z,2023-08-27T17:46:46Z,0,1,MERGED
+hmis-frontend,Implement phone mask,https://github.com/greenriver/hmis-frontend/pull/426,2023-08-25T21:44:02Z,2023-08-29T15:37:21Z,3,5,MERGED
+hmis-frontend,Enable failing builds on vulnerability of critical or high severity,https://github.com/greenriver/hmis-frontend/pull/425,2023-08-25T20:42:30Z,2023-08-28T13:51:41Z,0,1,MERGED
+hmis-frontend,185872618 v1 only adults,https://github.com/greenriver/hmis-frontend/pull/424,2023-08-25T19:43:53Z,2023-08-28T12:02:55Z,0,2,MERGED
+hmis-frontend,Default to today in date pickers,https://github.com/greenriver/hmis-frontend/pull/423,2023-08-24T19:23:58Z,2023-08-24T19:29:26Z,0,1,MERGED
+hmis-frontend,185872956 new dob ssn treatment,https://github.com/greenriver/hmis-frontend/pull/422,2023-08-24T18:11:29Z,2023-08-29T15:18:14Z,5,8,MERGED
+hmis-frontend,Misc fixes and style updates,https://github.com/greenriver/hmis-frontend/pull/421,2023-08-22T21:22:57Z,2023-08-23T13:55:04Z,0,21,MERGED
+hmis-frontend,185718074 fix handling inactive account,https://github.com/greenriver/hmis-frontend/pull/420,2023-08-22T04:09:46Z,2023-08-22T16:16:15Z,0,1,MERGED
+hmis-frontend,Re-do client search,https://github.com/greenriver/hmis-frontend/pull/419,2023-08-21T01:59:21Z,2023-08-22T21:20:07Z,0,7,MERGED
+hmis-frontend,Bed night UI,https://github.com/greenriver/hmis-frontend/pull/418,2023-08-20T15:45:11Z,2023-08-22T21:20:19Z,0,7,MERGED
+hmis-frontend,makes nginx shut down more gracefully,https://github.com/greenriver/hmis-frontend/pull/417,2023-08-18T13:47:38Z,2023-08-23T13:48:31Z,3,1,MERGED
+hmis-frontend,Release 86,https://github.com/greenriver/hmis-frontend/pull/416,2023-08-17T15:29:07Z,2023-10-04T21:50:31Z,0,59,MERGED
+hmis-frontend,Release 85,https://github.com/greenriver/hmis-frontend/pull/415,2023-08-17T15:29:01Z,2023-08-29T15:54:57Z,0,22,MERGED
+hmis-frontend,Add descriptions to Task List,https://github.com/greenriver/hmis-frontend/pull/414,2023-08-17T02:36:48Z,2023-08-21T15:52:04Z,1,3,MERGED
+hmis-frontend,Show MCI IDs on household table; fix bug in client edit modal mci,https://github.com/greenriver/hmis-frontend/pull/413,2023-08-16T16:38:12Z,2023-08-16T16:44:12Z,0,1,MERGED
+hmis-frontend,185791342 ce assessments services,https://github.com/greenriver/hmis-frontend/pull/412,2023-08-16T14:57:00Z,2023-08-17T15:07:34Z,0,10,MERGED
+hmis-frontend,Gig/perms referrals,https://github.com/greenriver/hmis-frontend/pull/411,2023-08-16T13:16:42Z,2023-08-16T16:38:20Z,1,2,CLOSED
+hmis-frontend,Add ESG funding report to enrollment page,https://github.com/greenriver/hmis-frontend/pull/410,2023-08-15T21:58:20Z,2023-08-16T17:19:30Z,0,3,MERGED
+hmis-frontend,185729503 project services tab,https://github.com/greenriver/hmis-frontend/pull/409,2023-08-15T21:06:06Z,2023-08-16T23:35:58Z,4,7,MERGED
+hmis-frontend,"DisabilityTable logic, update form itemChanged handlers, update MCI to work with single or multiple names",https://github.com/greenriver/hmis-frontend/pull/408,2023-08-15T13:59:15Z,2023-08-15T20:56:50Z,0,10,MERGED
+hmis-frontend,Resolve disability groups from assessment,https://github.com/greenriver/hmis-frontend/pull/407,2023-08-14T13:17:56Z,2023-08-14T19:01:33Z,0,2,MERGED
+hmis-frontend,Pre-fill sections based on assessment (rather than 1 record),https://github.com/greenriver/hmis-frontend/pull/406,2023-08-13T21:20:59Z,2023-08-14T12:01:16Z,0,1,MERGED
+hmis-frontend,Form improvements for rule-based forms,https://github.com/greenriver/hmis-frontend/pull/405,2023-08-10T15:37:27Z,2023-08-11T17:47:33Z,0,13,MERGED
+hmis-frontend,Update schema,https://github.com/greenriver/hmis-frontend/pull/404,2023-08-05T21:27:04Z,2023-08-07T12:53:24Z,0,1,MERGED
+hmis-frontend,Hide mechanism for enrolling from client dashboard,https://github.com/greenriver/hmis-frontend/pull/403,2023-08-04T01:01:57Z,2023-08-04T13:40:36Z,0,1,MERGED
+hmis-frontend,"Show Data not collected option in form lists, allow printing from household view, fix readonly display issues",https://github.com/greenriver/hmis-frontend/pull/402,2023-08-04T00:53:32Z,2023-08-04T13:40:23Z,0,2,MERGED
+hmis-frontend,Local constants for services,https://github.com/greenriver/hmis-frontend/pull/401,2023-08-03T20:22:03Z,2023-08-03T20:29:57Z,0,2,MERGED
+hmis-frontend,Content security policy enabled,https://github.com/greenriver/hmis-frontend/pull/400,2023-08-03T15:02:18Z,2023-08-03T20:30:25Z,0,8,MERGED
+hmis-frontend,Update unit mgmt and pick list eviction,https://github.com/greenriver/hmis-frontend/pull/399,2023-08-03T14:17:03Z,2023-08-04T20:52:37Z,3,5,MERGED
+hmis-frontend,Upgrade eslint,https://github.com/greenriver/hmis-frontend/pull/398,2023-08-02T15:37:32Z,2023-08-02T18:44:34Z,0,1,MERGED
+hmis-frontend,Support using local constants to set bounds and enable when logic,https://github.com/greenriver/hmis-frontend/pull/397,2023-08-02T13:15:46Z,2023-08-03T12:25:13Z,0,3,MERGED
+hmis-frontend,Create and enroll client in one step,https://github.com/greenriver/hmis-frontend/pull/396,2023-08-01T20:22:25Z,2023-08-04T20:51:00Z,0,7,MERGED
+hmis-frontend,Add HOPWA fields,https://github.com/greenriver/hmis-frontend/pull/395,2023-08-01T16:04:24Z,2023-08-01T21:17:29Z,0,3,MERGED
+hmis-frontend,Display gql error message,https://github.com/greenriver/hmis-frontend/pull/394,2023-08-01T15:58:16Z,2023-08-01T15:58:21Z,0,1,MERGED
+hmis-frontend,Release 84,https://github.com/greenriver/hmis-frontend/pull/393,2023-08-01T14:08:18Z,2023-08-29T15:54:54Z,0,22,MERGED
+hmis-frontend,185712804-upgrade-typescript,https://github.com/greenriver/hmis-frontend/pull/392,2023-08-01T05:46:16Z,2023-08-01T12:40:19Z,0,1,MERGED
+hmis-frontend,186589424 user access log v2,https://github.com/greenriver/hmis-frontend/pull/599,2023-12-28T06:21:46Z,2024-01-08T18:48:06Z,11,8,MERGED
+hmis-frontend,Release 97,https://github.com/greenriver/hmis-frontend/pull/598,2023-12-27T20:33:23Z,2024-01-08T18:49:11Z,0,9,MERGED
+hmis-frontend,Fix loading flicker on manage hh page,https://github.com/greenriver/hmis-frontend/pull/597,2023-12-27T20:31:24Z,2023-12-27T20:31:36Z,0,2,MERGED
+hmis-frontend,Use new includeEnrollmentsWithLimitedAccess flag,https://github.com/greenriver/hmis-frontend/pull/596,2023-12-27T18:18:14Z,2023-12-27T20:03:18Z,0,1,MERGED
+hmis-frontend,Add custom case note sorting,https://github.com/greenriver/hmis-frontend/pull/595,2023-12-26T21:11:38Z,2023-12-27T14:18:46Z,0,1,MERGED
+hmis-frontend,Add merge audit event filters,https://github.com/greenriver/hmis-frontend/pull/594,2023-12-26T20:22:49Z,2024-01-03T16:04:42Z,0,3,MERGED
+hmis-frontend,186557580 json form editor,https://github.com/greenriver/hmis-frontend/pull/593,2023-12-21T21:47:55Z,2023-12-29T14:43:12Z,4,7,MERGED
+hmis-frontend,Fix spacing on merge candidate table,https://github.com/greenriver/hmis-frontend/pull/592,2023-12-21T20:35:43Z,2023-12-21T20:35:47Z,0,1,MERGED
+hmis-frontend,UI improvements for auditing,https://github.com/greenriver/hmis-frontend/pull/591,2023-12-21T14:33:16Z,2023-12-21T15:22:58Z,0,4,MERGED
+hmis-frontend,Cleanup nodata display for autogen value components,https://github.com/greenriver/hmis-frontend/pull/590,2023-12-19T22:35:55Z,2023-12-19T22:37:52Z,0,1,MERGED
+hmis-frontend,Add gender to merge tables,https://github.com/greenriver/hmis-frontend/pull/589,2023-12-19T20:27:09Z,2023-12-19T20:55:34Z,1,3,MERGED
+hmis-frontend,Release 96,https://github.com/greenriver/hmis-frontend/pull/588,2023-12-19T19:56:45Z,2024-01-08T18:48:37Z,0,17,MERGED
+hmis-frontend,Add true user to audit history,https://github.com/greenriver/hmis-frontend/pull/587,2023-12-19T19:07:04Z,2023-12-19T22:37:24Z,3,3,MERGED
+hmis-frontend,Use composite access fields for file perms,https://github.com/greenriver/hmis-frontend/pull/586,2023-12-18T13:22:14Z,2023-12-19T20:00:04Z,0,2,MERGED
+hmis-frontend,Split JS into vendor chunk & app chunk,https://github.com/greenriver/hmis-frontend/pull/585,2023-12-18T12:42:20Z,2023-12-19T16:39:49Z,0,1,MERGED
+hmis-frontend,186612957 stale object error,https://github.com/greenriver/hmis-frontend/pull/584,2023-12-14T17:00:25Z,2023-12-18T12:48:08Z,1,1,MERGED
+hmis-frontend,Create/edit form rules,https://github.com/greenriver/hmis-frontend/pull/583,2023-12-12T17:41:16Z,2023-12-19T19:56:17Z,0,21,MERGED
+hmis-frontend,StaticForm component,https://github.com/greenriver/hmis-frontend/pull/582,2023-12-12T17:15:12Z,2023-12-13T15:50:35Z,0,7,MERGED
+hmis-frontend,Add auto-exit UI elements,https://github.com/greenriver/hmis-frontend/pull/581,2023-12-11T22:13:17Z,2023-12-14T16:16:47Z,8,14,MERGED
+hmis-frontend,Fix error deleting case note,https://github.com/greenriver/hmis-frontend/pull/580,2023-12-11T18:51:44Z,2023-12-11T18:51:55Z,0,1,MERGED
+hmis-frontend,Fix tab scroll in assessment,https://github.com/greenriver/hmis-frontend/pull/579,2023-12-08T21:45:32Z,2023-12-11T18:52:16Z,0,1,MERGED
+hmis-frontend,Add consumer summary report,https://github.com/greenriver/hmis-frontend/pull/578,2023-12-08T20:35:27Z,2024-02-01T14:42:09Z,1,7,MERGED
+hmis-frontend,Audit UI improvements,https://github.com/greenriver/hmis-frontend/pull/577,2023-12-08T20:14:11Z,2023-12-11T14:59:20Z,0,3,MERGED
+hmis-frontend,Add prevention assessment report,https://github.com/greenriver/hmis-frontend/pull/576,2023-12-08T17:16:48Z,2023-12-12T13:06:04Z,2,2,MERGED
+hmis-frontend,Add information date to custom case notes,https://github.com/greenriver/hmis-frontend/pull/575,2023-12-07T16:16:02Z,2023-12-08T13:58:39Z,0,1,MERGED
+hmis-frontend,Read-only Config screens,https://github.com/greenriver/hmis-frontend/pull/574,2023-12-07T15:08:02Z,2023-12-08T15:57:07Z,0,17,MERGED
+hmis-frontend,Generic pattern for specifying NavItem permissions,https://github.com/greenriver/hmis-frontend/pull/573,2023-12-06T16:10:15Z,2023-12-08T13:48:43Z,0,5,MERGED
+hmis-frontend,Patch npm vulnerabilities,https://github.com/greenriver/hmis-frontend/pull/572,2023-12-06T14:11:07Z,2023-12-06T17:38:53Z,0,2,MERGED
+hmis-frontend,Release 95,https://github.com/greenriver/hmis-frontend/pull/571,2023-12-06T14:04:11Z,2023-12-27T20:33:44Z,0,15,MERGED
+hmis-frontend,Assessment refactor to pull up change handlers and assessment+definition fetching,https://github.com/greenriver/hmis-frontend/pull/569,2023-12-05T20:19:51Z,2023-12-06T17:40:18Z,5,5,MERGED
+hmis-frontend,Aria labeling for grouped input components; household edit controls,https://github.com/greenriver/hmis-frontend/pull/568,2023-12-04T21:10:23Z,2023-12-07T20:22:49Z,1,6,MERGED
+hmis-frontend,Fixes to debounced state double render,https://github.com/greenriver/hmis-frontend/pull/567,2023-12-04T16:36:27Z,2023-12-04T16:36:47Z,0,1,MERGED
+hmis-frontend,"Clean up last updated by, toggle key",https://github.com/greenriver/hmis-frontend/pull/566,2023-12-04T16:09:21Z,2023-12-04T16:17:22Z,0,1,MERGED
+hmis-frontend,186382841-enrollment-audit-history,https://github.com/greenriver/hmis-frontend/pull/565,2023-12-04T03:23:15Z,2023-12-08T15:56:14Z,1,10,MERGED
+hmis-frontend,Refactor common elements for Toggle and Search,https://github.com/greenriver/hmis-frontend/pull/564,2023-12-01T21:46:27Z,2023-12-04T14:26:11Z,0,4,MERGED
+hmis-frontend,Show record name in pagination summary,https://github.com/greenriver/hmis-frontend/pull/563,2023-12-01T21:45:33Z,2023-12-04T14:25:19Z,0,1,MERGED
+hmis-frontend,User access history feature,https://github.com/greenriver/hmis-frontend/pull/561,2023-11-29T19:37:27Z,2023-12-01T16:39:23Z,3,12,MERGED
+hmis-frontend,Add optional columns,https://github.com/greenriver/hmis-frontend/pull/560,2023-11-28T22:16:02Z,2023-11-29T19:45:39Z,7,4,MERGED
+hmis-frontend,186302867-record-last-changed-by-user,https://github.com/greenriver/hmis-frontend/pull/559,2023-11-27T22:42:57Z,2023-11-29T18:57:00Z,0,1,MERGED
+hmis-frontend,186395195 stale object error when submitting household assessments,https://github.com/greenriver/hmis-frontend/pull/558,2023-11-26T01:48:12Z,2023-11-29T20:39:38Z,9,11,MERGED
+hmis-frontend,Gig/related annuals v2,https://github.com/greenriver/hmis-frontend/pull/557,2023-11-22T20:45:05Z,2024-01-11T19:24:01Z,0,3,CLOSED
+hmis-frontend,Codegen destination list change,https://github.com/greenriver/hmis-frontend/pull/556,2023-11-22T16:29:17Z,2023-11-27T21:14:09Z,0,1,MERGED
+hmis-frontend,Release 94,https://github.com/greenriver/hmis-frontend/pull/555,2023-11-21T21:08:31Z,2023-12-19T19:57:07Z,0,23,MERGED
+hmis-frontend,186406279-hmis-system-e2e-tests-redux,https://github.com/greenriver/hmis-frontend/pull/554,2023-11-19T03:55:51Z,2023-11-21T23:07:51Z,3,3,MERGED
+hmis-frontend,Add toggle to show all household member assessments on enrollment page,https://github.com/greenriver/hmis-frontend/pull/553,2023-11-17T16:08:53Z,2023-11-20T15:53:41Z,0,2,MERGED
+hmis-frontend,Release 93,https://github.com/greenriver/hmis-frontend/pull/552,2023-11-16T21:23:45Z,2023-12-06T14:03:07Z,0,10,MERGED
+hmis-frontend,Change text underline and default page size,https://github.com/greenriver/hmis-frontend/pull/551,2023-11-15T14:50:52Z,2023-11-15T16:13:40Z,0,1,MERGED
+hmis-frontend,Add path handler to catch spaced urls,https://github.com/greenriver/hmis-frontend/pull/550,2023-11-14T22:50:27Z,2023-11-15T18:43:26Z,4,5,MERGED
+hmis-frontend,Update client merge copy; standardize back buttons,https://github.com/greenriver/hmis-frontend/pull/549,2023-11-14T21:20:34Z,2023-11-14T21:32:54Z,0,1,MERGED
+hmis-frontend,Go back to enrollment dashboard from household assessment view,https://github.com/greenriver/hmis-frontend/pull/548,2023-11-14T20:46:52Z,2023-11-15T13:16:20Z,0,1,MERGED
+hmis-frontend,Style updates to user impersonation,https://github.com/greenriver/hmis-frontend/pull/547,2023-11-14T20:25:44Z,2023-11-15T16:13:25Z,1,7,MERGED
+hmis-frontend,186406279-hmis-system-e2e-tests,https://github.com/greenriver/hmis-frontend/pull/546,2023-11-06T02:56:24Z,2023-11-16T21:23:32Z,0,2,MERGED
+hmis-frontend,Add path details to headers on gql requests,https://github.com/greenriver/hmis-frontend/pull/545,2023-11-03T18:25:38Z,2023-11-15T13:43:49Z,4,6,MERGED
+hmis-frontend,185847014 annuals due filter,https://github.com/greenriver/hmis-frontend/pull/544,2023-11-03T14:42:43Z,2023-11-16T21:23:08Z,1,3,MERGED
+hmis-frontend,Release 91,https://github.com/greenriver/hmis-frontend/pull/543,2023-11-02T15:06:51Z,2023-11-13T14:54:20Z,0,7,MERGED
+hmis-frontend,Add search capability to Organization table,https://github.com/greenriver/hmis-frontend/pull/722,2024-03-29T20:57:10Z,2024-04-02T16:07:13Z,3,2,MERGED
+hmis-frontend,Safely format time,https://github.com/greenriver/hmis-frontend/pull/721,2024-03-29T17:11:39Z,2024-03-29T17:35:34Z,0,1,MERGED
+hmis-frontend,Release 110,https://github.com/greenriver/hmis-frontend/pull/720,2024-03-29T13:54:51Z,2024-04-04T17:48:01Z,0,21,MERGED
+hmis-frontend,Fix toggle style color rule,https://github.com/greenriver/hmis-frontend/pull/718,2024-03-28T12:25:14Z,2024-03-28T12:27:46Z,0,2,MERGED
+hmis-frontend,Update enrollment details card link color,https://github.com/greenriver/hmis-frontend/pull/717,2024-03-27T14:59:20Z,2024-03-28T12:18:46Z,0,1,MERGED
+hmis-frontend,Fix QA problem with capitalization,https://github.com/greenriver/hmis-frontend/pull/716,2024-03-27T14:31:20Z,2024-03-27T14:38:38Z,1,2,MERGED
+hmis-frontend,Make Assessment tables have a consistent column order,https://github.com/greenriver/hmis-frontend/pull/715,2024-03-27T14:14:58Z,2024-03-27T14:46:09Z,1,2,MERGED
+hmis-frontend,WIP - adjust Info Group width,https://github.com/greenriver/hmis-frontend/pull/714,2024-03-27T14:06:28Z,2025-02-24T13:25:29Z,2,1,CLOSED
+hmis-frontend,Design tweaks to disability table,https://github.com/greenriver/hmis-frontend/pull/713,2024-03-27T13:45:22Z,2024-03-27T14:07:58Z,0,1,MERGED
+hmis-frontend,Various design tweaks,https://github.com/greenriver/hmis-frontend/pull/712,2024-03-26T18:15:01Z,2024-03-26T20:39:42Z,0,1,MERGED
+hmis-frontend,Make CommonDetailGrid mobile-friendly,https://github.com/greenriver/hmis-frontend/pull/711,2024-03-26T16:43:58Z,2024-03-26T20:37:34Z,2,2,MERGED
+hmis-frontend,Change background color,https://github.com/greenriver/hmis-frontend/pull/710,2024-03-26T16:12:41Z,2024-03-26T16:49:58Z,0,1,MERGED
+hmis-frontend,Stack household assessment buttons,https://github.com/greenriver/hmis-frontend/pull/709,2024-03-26T16:08:39Z,2024-03-26T20:39:31Z,1,3,MERGED
+hmis-frontend,silence build emitting excessive warnings,https://github.com/greenriver/hmis-frontend/pull/708,2024-03-26T05:29:11Z,2024-03-26T16:49:26Z,0,1,MERGED
+hmis-frontend,Hint about active filters,https://github.com/greenriver/hmis-frontend/pull/707,2024-03-25T18:51:05Z,2024-03-26T20:37:54Z,2,1,MERGED
+hmis-frontend,Return instead of erroring if related record doesn't exist,https://github.com/greenriver/hmis-frontend/pull/706,2024-03-25T16:33:35Z,2024-03-25T16:43:59Z,0,1,MERGED
+hmis-frontend,Release 109,https://github.com/greenriver/hmis-frontend/pull/705,2024-03-22T18:10:32Z,2024-04-04T17:47:59Z,0,22,MERGED
+hmis-frontend,Schema codegen removing old bed night query,https://github.com/greenriver/hmis-frontend/pull/704,2024-03-22T15:48:48Z,2024-03-22T16:51:02Z,0,1,MERGED
+hmis-frontend,Bug fix on back button from household,https://github.com/greenriver/hmis-frontend/pull/703,2024-03-21T19:15:59Z,2024-03-21T19:16:23Z,0,1,MERGED
+hmis-frontend,Update dev asset path,https://github.com/greenriver/hmis-frontend/pull/702,2024-03-21T13:43:50Z,2024-03-21T13:46:28Z,0,1,MERGED
+hmis-frontend,Fetch less data for Project Services table,https://github.com/greenriver/hmis-frontend/pull/701,2024-03-20T22:53:59Z,2024-03-21T13:29:27Z,0,1,MERGED
+hmis-frontend,"Add ability to create, rename, and delete Service Types",https://github.com/greenriver/hmis-frontend/pull/700,2024-03-19T18:37:16Z,2024-03-22T14:24:00Z,3,53,MERGED
+hmis-frontend,Bump vite-plugin-mkcert,https://github.com/greenriver/hmis-frontend/pull/699,2024-03-15T18:46:00Z,2024-03-15T18:50:53Z,0,1,MERGED
+hmis-frontend,Improve label widths in dynamic form,https://github.com/greenriver/hmis-frontend/pull/697,2024-03-15T14:59:11Z,2024-03-26T20:36:45Z,15,17,MERGED
+hmis-frontend,Make buttons look better and more usable on mobile,https://github.com/greenriver/hmis-frontend/pull/696,2024-03-13T16:04:14Z,2024-03-15T18:50:27Z,9,1,MERGED
+hmis-frontend,Codegen and remove old BulkAdd tool,https://github.com/greenriver/hmis-frontend/pull/695,2024-03-12T13:02:31Z,2024-03-12T13:08:54Z,0,2,MERGED
+hmis-frontend,Release 108,https://github.com/greenriver/hmis-frontend/pull/694,2024-03-12T12:13:03Z,2024-03-29T13:54:08Z,0,13,MERGED
+hmis-frontend,Add delete button to external form review,https://github.com/greenriver/hmis-frontend/pull/693,2024-03-11T19:55:40Z,2024-03-12T18:13:29Z,1,1,MERGED
+hmis-frontend,Update service and form configuration tool,https://github.com/greenriver/hmis-frontend/pull/692,2024-03-11T13:50:59Z,2024-03-18T13:44:35Z,1,51,MERGED
+hmis-frontend,Create dialog for External Submissions review,https://github.com/greenriver/hmis-frontend/pull/691,2024-03-08T21:03:56Z,2024-03-18T18:34:31Z,1,8,MERGED
+hmis-frontend,Propose gutter fix for small assessments,https://github.com/greenriver/hmis-frontend/pull/690,2024-03-08T18:48:13Z,2024-03-08T20:19:02Z,0,1,CLOSED
+hmis-frontend,Add basic external submissions table,https://github.com/greenriver/hmis-frontend/pull/689,2024-03-07T21:28:26Z,2024-03-12T15:26:49Z,8,4,MERGED
+hmis-frontend,Sketch a possible solution to DynamicForm readonly bug,https://github.com/greenriver/hmis-frontend/pull/688,2024-03-07T21:00:54Z,2024-03-12T12:12:49Z,2,10,MERGED
+hmis-frontend,Fix padding for page containers on mobile,https://github.com/greenriver/hmis-frontend/pull/687,2024-03-07T19:13:44Z,2024-03-08T20:20:41Z,3,2,MERGED
+hmis-frontend,Enable rich text for labels on readonly form view,https://github.com/greenriver/hmis-frontend/pull/685,2024-03-07T15:37:26Z,2024-03-07T15:52:16Z,0,1,MERGED
+hmis-frontend,Wrap page title with actions on mobile,https://github.com/greenriver/hmis-frontend/pull/684,2024-03-05T21:35:25Z,2024-03-07T15:02:02Z,3,1,MERGED
+hmis-frontend,Update client search style,https://github.com/greenriver/hmis-frontend/pull/683,2024-03-05T17:48:52Z,2024-03-12T12:13:17Z,0,1,CLOSED
+hmis-frontend,Adjust signature helper text,https://github.com/greenriver/hmis-frontend/pull/682,2024-03-05T14:54:09Z,2024-03-05T15:26:14Z,0,1,MERGED
+hmis-frontend,Add client fields as local constants on assessments,https://github.com/greenriver/hmis-frontend/pull/681,2024-03-05T13:57:10Z,2024-03-08T20:05:05Z,3,3,MERGED
+hmis-frontend,Only show existing CustomDataElements in table columns,https://github.com/greenriver/hmis-frontend/pull/680,2024-03-05T01:30:01Z,2024-03-15T15:26:07Z,1,9,MERGED
+hmis-frontend,187040557 external forms,https://github.com/greenriver/hmis-frontend/pull/679,2024-03-04T17:28:05Z,2024-03-26T17:00:20Z,10,18,MERGED
+hmis-frontend,Release 107,https://github.com/greenriver/hmis-frontend/pull/678,2024-03-04T16:53:15Z,2024-03-27T14:43:52Z,0,8,MERGED
+hmis-frontend,Release 106,https://github.com/greenriver/hmis-frontend/pull/677,2024-03-04T16:53:12Z,2024-03-21T13:59:12Z,0,7,MERGED
+hmis-frontend,Bulk Services / Bed Nights v2,https://github.com/greenriver/hmis-frontend/pull/676,2024-03-04T14:22:14Z,2024-03-18T13:16:43Z,16,44,MERGED
+hmis-frontend,Suppress some console noise,https://github.com/greenriver/hmis-frontend/pull/675,2024-03-04T14:03:41Z,2024-03-06T16:31:52Z,8,4,MERGED
+hmis-frontend,No key fields on ValidationError,https://github.com/greenriver/hmis-frontend/pull/674,2024-03-01T12:06:28Z,2024-03-01T12:07:04Z,0,1,MERGED
+hmis-frontend,Add spacing between client alert and form errors,https://github.com/greenriver/hmis-frontend/pull/673,2024-02-29T16:59:06Z,2024-03-01T12:02:58Z,2,2,MERGED
+hmis-frontend,Enable rich text labels in dynamic forms,https://github.com/greenriver/hmis-frontend/pull/672,2024-02-29T14:35:29Z,2024-02-29T22:02:14Z,3,4,MERGED
+hmis-frontend,Disable caching on ValueBound,https://github.com/greenriver/hmis-frontend/pull/671,2024-02-28T20:54:37Z,2024-02-28T21:06:38Z,0,1,MERGED
+hmis-frontend,Enable bounds that specify tomorrow as local constant,https://github.com/greenriver/hmis-frontend/pull/670,2024-02-28T20:30:54Z,2024-02-28T21:17:37Z,0,1,CLOSED
+hmis-frontend,Add bounds to form definition story,https://github.com/greenriver/hmis-frontend/pull/669,2024-02-26T21:53:14Z,2024-02-26T22:23:54Z,1,1,MERGED
+hmis-frontend,Only show hud assessments (not custom) in autofill dialog,https://github.com/greenriver/hmis-frontend/pull/668,2024-02-26T16:11:45Z,2024-02-26T21:10:12Z,0,1,MERGED
+hmis-frontend,Release 104,https://github.com/greenriver/hmis-frontend/pull/667,2024-02-26T13:37:01Z,2024-03-04T16:52:12Z,0,6,MERGED
+hmis-frontend,187100773-formula-evaluation-fix,https://github.com/greenriver/hmis-frontend/pull/666,2024-02-25T03:25:35Z,2024-02-26T21:09:30Z,0,1,MERGED
+hmis-frontend,Make AutoExit and AutoEnter generic into ProjectConfig,https://github.com/greenriver/hmis-frontend/pull/665,2024-02-23T22:21:45Z,2024-03-01T13:54:26Z,7,6,MERGED
+hmis-frontend,Neaten assessment form side navigation,https://github.com/greenriver/hmis-frontend/pull/664,2024-02-23T20:39:05Z,2024-02-27T16:19:42Z,2,4,MERGED
+hmis-frontend,Fix linking to new exit assessment,https://github.com/greenriver/hmis-frontend/pull/663,2024-02-23T15:22:03Z,2024-02-23T17:09:44Z,0,1,MERGED
+hmis-frontend,Aria label bug fix on duration input,https://github.com/greenriver/hmis-frontend/pull/662,2024-02-22T22:41:25Z,2024-02-23T14:31:15Z,4,8,MERGED
+hmis-frontend,"Read-only displays for signature, duration, and time of day",https://github.com/greenriver/hmis-frontend/pull/661,2024-02-22T20:15:54Z,2024-02-22T22:38:47Z,11,7,MERGED
+hmis-frontend,Bump npm packages,https://github.com/greenriver/hmis-frontend/pull/660,2024-02-21T13:48:22Z,2024-02-22T20:58:51Z,0,3,MERGED
+hmis-frontend,187020495 time of day input with mui upgrades,https://github.com/greenriver/hmis-frontend/pull/659,2024-02-20T20:22:48Z,2024-02-21T13:56:47Z,0,10,CLOSED
+hmis-frontend,"Support general input table for forms, clean up DynamicView/Form stories",https://github.com/greenriver/hmis-frontend/pull/657,2024-02-20T17:27:31Z,2024-02-21T13:39:44Z,7,6,MERGED
+hmis-frontend,Add time duration input component for dynamic forms,https://github.com/greenriver/hmis-frontend/pull/656,2024-02-20T15:56:39Z,2024-02-21T13:34:51Z,9,2,MERGED
+hmis-frontend,Release 105,https://github.com/greenriver/hmis-frontend/pull/655,2024-02-19T16:16:35Z,2024-03-15T16:35:13Z,0,14,MERGED
+hmis-frontend,187020495 time of day input,https://github.com/greenriver/hmis-frontend/pull/654,2024-02-17T05:30:32Z,2024-02-21T22:45:41Z,7,18,MERGED
+hmis-frontend,Enable sort on project services table,https://github.com/greenriver/hmis-frontend/pull/652,2024-02-14T22:10:38Z,2024-02-19T01:06:45Z,0,1,MERGED
+hmis-frontend,Make small fixes to the Project Enrollments and Project Services pages,https://github.com/greenriver/hmis-frontend/pull/651,2024-02-14T18:02:57Z,2024-02-14T20:41:27Z,1,3,MERGED
+hmis-frontend,Hide autofill button for custom assessments,https://github.com/greenriver/hmis-frontend/pull/650,2024-02-14T16:39:22Z,2024-02-14T20:14:01Z,0,3,MERGED
+hmis-frontend,Improve mobile usability for critical paths,https://github.com/greenriver/hmis-frontend/pull/649,2024-02-14T16:22:54Z,2024-02-26T21:07:40Z,9,21,MERGED
+hmis-frontend,Codegen,https://github.com/greenriver/hmis-frontend/pull/648,2024-02-13T21:03:55Z,2024-02-13T23:14:22Z,0,5,MERGED
+hmis-frontend,"UI tweaks: dashboard card headings, loading states, and horizontal inputs",https://github.com/greenriver/hmis-frontend/pull/647,2024-02-13T21:00:33Z,2024-02-13T23:14:08Z,0,4,MERGED
+hmis-frontend,Hide when viewing field,https://github.com/greenriver/hmis-frontend/pull/646,2024-02-12T19:20:54Z,2024-03-12T12:13:23Z,0,1,CLOSED
+hmis-frontend,Fix bug that caused filter disappearance,https://github.com/greenriver/hmis-frontend/pull/645,2024-02-12T15:02:56Z,2024-02-12T15:47:19Z,0,1,MERGED
+hmis-frontend,Add a signature component to the Dynamic Form,https://github.com/greenriver/hmis-frontend/pull/644,2024-02-08T21:38:26Z,2024-02-19T01:08:49Z,7,13,MERGED
+hmis-frontend,Support collecting CE Event on an Assessment,https://github.com/greenriver/hmis-frontend/pull/643,2024-02-08T19:03:58Z,2024-02-09T15:21:22Z,0,1,MERGED
+hmis-frontend,Upgrade React MUI icon library,https://github.com/greenriver/hmis-frontend/pull/642,2024-02-08T17:12:43Z,2024-02-08T18:06:41Z,2,3,MERGED
+hmis-frontend,Release 103,https://github.com/greenriver/hmis-frontend/pull/641,2024-02-06T21:36:36Z,2024-02-26T13:37:45Z,0,14,MERGED
+hmis-frontend,Add GNU GPL,https://github.com/greenriver/hmis-frontend/pull/640,2024-02-06T21:26:23Z,2024-02-06T21:33:58Z,0,1,MERGED
+hmis-frontend,Add phone input field that accepts only one number,https://github.com/greenriver/hmis-frontend/pull/639,2024-02-06T21:17:39Z,2024-02-07T17:38:32Z,3,2,MERGED
+hmis-frontend,Release 100,https://github.com/greenriver/hmis-frontend/pull/638,2024-02-06T21:12:44Z,2024-02-06T21:12:53Z,0,4,MERGED
+hmis-frontend,Fix int display dynamic view,https://github.com/greenriver/hmis-frontend/pull/637,2024-02-06T21:12:03Z,2024-02-06T21:14:13Z,0,1,MERGED
+hmis-frontend,Support custom fields on case notes,https://github.com/greenriver/hmis-frontend/pull/636,2024-02-06T20:32:45Z,2024-02-08T17:50:04Z,1,8,MERGED
+hmis-frontend,Support CDEs on case notes,https://github.com/greenriver/hmis-frontend/pull/635,2024-02-06T20:07:24Z,2024-02-06T20:31:31Z,0,3,CLOSED
+hmis-frontend,Fix font size in no alerts message,https://github.com/greenriver/hmis-frontend/pull/634,2024-02-06T14:39:38Z,2024-02-06T15:05:32Z,0,1,MERGED
+hmis-frontend,Only show CDEDs in Service and CLS table if specified,https://github.com/greenriver/hmis-frontend/pull/633,2024-02-05T23:18:48Z,2024-02-07T20:02:44Z,0,4,MERGED
+hmis-frontend,refactor and cdes on case notes,https://github.com/greenriver/hmis-frontend/pull/632,2024-02-05T22:25:04Z,2024-02-06T20:38:30Z,0,6,CLOSED
+hmis-frontend,Add back white bg for alerts,https://github.com/greenriver/hmis-frontend/pull/631,2024-02-05T16:35:21Z,2024-02-05T17:03:25Z,0,1,MERGED
+hmis-frontend,Make project dashboard default to enrollments,https://github.com/greenriver/hmis-frontend/pull/630,2024-02-05T14:16:33Z,2024-02-08T17:56:20Z,2,2,MERGED
+hmis-frontend,Add user edit history audit page,https://github.com/greenriver/hmis-frontend/pull/629,2024-02-02T18:20:06Z,2024-02-09T15:09:58Z,13,9,MERGED
+hmis-frontend,Enable deletion of ClientAlerts,https://github.com/greenriver/hmis-frontend/pull/628,2024-02-01T20:06:40Z,2024-02-06T20:02:12Z,3,51,MERGED
+hmis-frontend,Release 102,https://github.com/greenriver/hmis-frontend/pull/627,2024-02-01T14:40:44Z,2024-02-19T16:17:09Z,0,15,MERGED
+hmis-frontend,Release 101,https://github.com/greenriver/hmis-frontend/pull/626,2024-02-01T14:40:40Z,2024-02-19T16:16:03Z,0,12,MERGED
+hmis-frontend,Assessment caching fix,https://github.com/greenriver/hmis-frontend/pull/625,2024-01-31T23:14:51Z,2024-02-01T14:34:36Z,0,2,MERGED
+hmis-frontend,Flattened project id/name schema changes,https://github.com/greenriver/hmis-frontend/pull/624,2024-01-29T16:49:34Z,2024-03-12T12:13:31Z,0,3,CLOSED
+hmis-frontend,186786001 spdat,https://github.com/greenriver/hmis-frontend/pull/623,2024-01-29T01:21:45Z,2024-02-01T15:39:26Z,2,13,MERGED
+hmis-frontend,Scan card ui cleanup + relative dates,https://github.com/greenriver/hmis-frontend/pull/622,2024-01-26T21:18:33Z,2024-01-26T21:22:03Z,0,2,MERGED
+hmis-frontend,Update to reminder assessment links,https://github.com/greenriver/hmis-frontend/pull/621,2024-01-26T17:21:09Z,2024-01-30T16:26:53Z,0,2,MERGED
+hmis-frontend,Add client alert cards to client profile and enrollment pages,https://github.com/greenriver/hmis-frontend/pull/620,2024-01-25T19:29:07Z,2024-02-02T21:55:15Z,35,45,MERGED
+hmis-frontend,Support multiple custom assessments,https://github.com/greenriver/hmis-frontend/pull/619,2024-01-24T22:11:05Z,2024-01-30T21:04:25Z,10,20,MERGED
+hmis-frontend,Add more local constants for ce,https://github.com/greenriver/hmis-frontend/pull/618,2024-01-24T19:56:29Z,2024-01-24T19:56:33Z,0,1,MERGED
+hmis-frontend,"Display definition titles, add local constant for project name",https://github.com/greenriver/hmis-frontend/pull/617,2024-01-24T19:43:43Z,2024-01-24T19:44:50Z,0,1,MERGED
+hmis-frontend,186801323 generate ce assessments from custom assessments,https://github.com/greenriver/hmis-frontend/pull/616,2024-01-21T05:13:19Z,2024-01-24T16:01:36Z,5,4,MERGED
+hmis-frontend,Enable enrollment deletion if no intake exists,https://github.com/greenriver/hmis-frontend/pull/614,2024-01-19T19:50:22Z,2024-01-24T19:44:34Z,0,1,MERGED
+hmis-frontend,Support managing scan card codes,https://github.com/greenriver/hmis-frontend/pull/613,2024-01-18T21:49:58Z,2024-01-25T17:41:14Z,1,9,MERGED
+hmis-frontend,React-hook-forms refactor of DynamicForm,https://github.com/greenriver/hmis-frontend/pull/612,2024-01-18T21:45:21Z,2025-02-18T00:25:00Z,51,74,MERGED
+hmis-frontend,186854441-fix-session-expiry,https://github.com/greenriver/hmis-frontend/pull/611,2024-01-18T04:16:29Z,2024-01-18T16:11:22Z,0,1,MERGED
+hmis-frontend,Fix double fetch with access history,https://github.com/greenriver/hmis-frontend/pull/610,2024-01-11T18:53:45Z,2024-01-11T18:57:16Z,0,1,MERGED
+hmis-frontend,Fix issue with param generation form editor,https://github.com/greenriver/hmis-frontend/pull/609,2024-01-11T18:44:51Z,2024-01-11T18:53:01Z,0,1,MERGED
+hmis-frontend,186658870 post exit assessment r20,https://github.com/greenriver/hmis-frontend/pull/607,2024-01-11T04:52:14Z,2024-01-16T23:28:49Z,7,6,MERGED
+hmis-frontend,Release 99,https://github.com/greenriver/hmis-frontend/pull/606,2024-01-10T21:13:09Z,2024-01-29T21:42:42Z,0,14,MERGED
+hmis-frontend,Support custom client detail forms (for pathways),https://github.com/greenriver/hmis-frontend/pull/605,2024-01-10T18:25:41Z,2024-01-11T15:11:00Z,5,6,MERGED
+hmis-frontend,186726798 filter audit tables by record type,https://github.com/greenriver/hmis-frontend/pull/604,2024-01-09T21:04:34Z,2024-01-11T15:51:54Z,0,6,MERGED
+hmis-frontend,Optionally show Case Notes on client dashboard,https://github.com/greenriver/hmis-frontend/pull/603,2024-01-08T18:45:05Z,2024-01-09T20:15:49Z,0,2,MERGED
+hmis-frontend,View all Case Notes on Client; compose form dialog hooks,https://github.com/greenriver/hmis-frontend/pull/602,2024-01-03T19:24:08Z,2024-01-08T14:29:22Z,2,6,MERGED
+hmis-frontend,Release 98,https://github.com/greenriver/hmis-frontend/pull/601,2024-01-03T13:47:30Z,2024-01-25T21:53:28Z,0,4,MERGED
+hmis-frontend,184440788-indicate-account-locked,https://github.com/greenriver/hmis-frontend/pull/600,2024-01-02T04:12:17Z,2024-01-11T21:59:15Z,0,2,MERGED
+hmis-frontend,Schema update - remove deprecated queries and mutations,https://github.com/greenriver/hmis-frontend/pull/790,2024-05-31T13:19:58Z,2024-06-02T23:04:11Z,0,2,MERGED
+hmis-frontend,Gracefully handle unknown service type,https://github.com/greenriver/hmis-frontend/pull/789,2024-05-31T13:08:30Z,2024-05-31T18:31:23Z,0,2,MERGED
+hmis-frontend,Support editing `enable_when` and `autofill` conditions in Form Builder,https://github.com/greenriver/hmis-frontend/pull/788,2024-05-30T21:21:19Z,2024-06-10T16:53:05Z,6,36,MERGED
+hmis-frontend,"Use new `referredTo` to display destination project, standardize incoming/outgoing referral tables",https://github.com/greenriver/hmis-frontend/pull/787,2024-05-29T17:33:48Z,2024-05-30T12:05:17Z,1,1,MERGED
+hmis-frontend,Release 118,https://github.com/greenriver/hmis-frontend/pull/786,2024-05-29T13:50:25Z,2024-06-17T13:22:22Z,0,5,MERGED
+hmis-frontend,Implement save logic on form builder,https://github.com/greenriver/hmis-frontend/pull/785,2024-05-28T13:59:28Z,2024-06-03T15:27:36Z,10,11,MERGED
+hmis-frontend,Patch date display for midnight-datetimes,https://github.com/greenriver/hmis-frontend/pull/784,2024-05-24T17:54:26Z,2024-05-27T23:32:35Z,1,3,MERGED
+hmis-frontend,Use ProjectsReceivingReferrals list,https://github.com/greenriver/hmis-frontend/pull/783,2024-05-24T16:47:30Z,2024-05-24T17:25:24Z,0,1,MERGED
+hmis-frontend,Make form item basic properties editable in drawer,https://github.com/greenriver/hmis-frontend/pull/782,2024-05-22T16:29:59Z,2024-05-23T12:31:39Z,10,7,MERGED
+hmis-frontend,Fix readonly item inconsistency,https://github.com/greenriver/hmis-frontend/pull/781,2024-05-22T16:25:38Z,2024-05-22T17:58:55Z,2,2,MERGED
+hmis-frontend,Release 117,https://github.com/greenriver/hmis-frontend/pull/780,2024-05-21T10:55:25Z,2024-06-05T15:13:59Z,0,16,MERGED
+hmis-frontend,Create basic form item preview in editor drawer,https://github.com/greenriver/hmis-frontend/pull/779,2024-05-20T20:24:06Z,2024-05-22T16:09:16Z,2,4,MERGED
+hmis-frontend,Make outgoing referral form configurable,https://github.com/greenriver/hmis-frontend/pull/778,2024-05-19T23:33:52Z,2024-05-24T14:22:06Z,1,11,MERGED
+hmis-frontend,Allow scrolling on record picker dialog,https://github.com/greenriver/hmis-frontend/pull/777,2024-05-17T14:29:26Z,2024-05-22T13:41:32Z,1,4,MERGED
+hmis-frontend,Fix QA issues for Form Builder layout,https://github.com/greenriver/hmis-frontend/pull/776,2024-05-17T13:17:00Z,2024-05-17T13:26:49Z,0,2,MERGED
+hmis-frontend,Truncate service details column,https://github.com/greenriver/hmis-frontend/pull/775,2024-05-16T15:22:07Z,2024-05-16T19:09:33Z,0,1,MERGED
+hmis-frontend,Hide some external referral elements behind flag,https://github.com/greenriver/hmis-frontend/pull/774,2024-05-16T12:23:49Z,2024-05-16T19:19:09Z,1,1,MERGED
+hmis-frontend,Schema updates for requiring alerts,https://github.com/greenriver/hmis-frontend/pull/773,2024-05-14T13:48:15Z,2024-05-14T15:17:09Z,1,1,CLOSED
+hmis-frontend,Create skeleton layout for FormBuilder,https://github.com/greenriver/hmis-frontend/pull/772,2024-05-13T21:38:05Z,2024-05-16T13:07:51Z,8,21,MERGED
+hmis-frontend,Clarify toggle on Form Preview page,https://github.com/greenriver/hmis-frontend/pull/771,2024-05-10T15:42:48Z,2024-05-13T13:38:46Z,0,1,MERGED
+hmis-frontend,Make MUI Tree proof-of-concept for Forms,https://github.com/greenriver/hmis-frontend/pull/770,2024-05-09T21:11:51Z,2024-05-14T14:50:50Z,7,10,MERGED
+hmis-frontend,Support AllVeterans for data-collected-about,https://github.com/greenriver/hmis-frontend/pull/769,2024-05-09T16:58:02Z,2024-05-09T21:15:35Z,0,1,MERGED
+hmis-frontend,6009 hmis public forms spam filter,https://github.com/greenriver/hmis-frontend/pull/768,2024-05-09T02:52:55Z,2024-05-09T15:38:47Z,2,3,MERGED
+hmis-frontend,Enable editing supportsBulkAssignment attr of service type,https://github.com/greenriver/hmis-frontend/pull/767,2024-05-08T21:24:41Z,2024-05-09T15:27:17Z,0,4,MERGED
+hmis-frontend,Fix width issue in input group element,https://github.com/greenriver/hmis-frontend/pull/766,2024-05-08T20:17:59Z,2024-05-09T11:55:09Z,0,1,MERGED
+hmis-frontend,Minor storybook upgrade (vuln patch),https://github.com/greenriver/hmis-frontend/pull/765,2024-05-08T13:02:05Z,2024-08-30T21:27:34Z,0,1,CLOSED
+hmis-frontend,Upgrade react-pdf (vulnerability),https://github.com/greenriver/hmis-frontend/pull/764,2024-05-08T12:51:40Z,2024-05-13T18:30:58Z,0,4,MERGED
+hmis-frontend,Add FormStatus to schema,https://github.com/greenriver/hmis-frontend/pull/763,2024-05-07T20:53:10Z,2024-05-08T13:21:34Z,0,1,MERGED
+hmis-frontend,Release 116,https://github.com/greenriver/hmis-frontend/pull/762,2024-05-07T19:01:46Z,2024-05-24T16:51:47Z,0,11,MERGED
+hmis-frontend,Add form preview page and adjust permissions,https://github.com/greenriver/hmis-frontend/pull/759,2024-05-06T20:44:56Z,2024-05-08T20:05:16Z,10,6,MERGED
+hmis-frontend,Update form definition table to accommodate versions,https://github.com/greenriver/hmis-frontend/pull/758,2024-05-01T20:52:22Z,2024-05-07T19:18:37Z,10,6,MERGED
+hmis-frontend,Release 115,https://github.com/greenriver/hmis-frontend/pull/756,2024-05-01T20:27:09Z,2024-05-21T10:56:13Z,0,6,MERGED
+hmis-frontend,Bring generated files up to date,https://github.com/greenriver/hmis-frontend/pull/755,2024-04-30T15:08:13Z,2024-04-30T15:35:34Z,0,1,MERGED
+hmis-frontend,Restrict referral project pick list to open projects,https://github.com/greenriver/hmis-frontend/pull/754,2024-04-30T15:03:57Z,2024-05-01T12:32:02Z,0,1,MERGED
+hmis-frontend,Link enrollment from assessment view,https://github.com/greenriver/hmis-frontend/pull/753,2024-04-29T18:50:31Z,2024-04-30T16:50:52Z,3,2,MERGED
+hmis-frontend,Show auto-exited in Enrollment Status,https://github.com/greenriver/hmis-frontend/pull/752,2024-04-29T14:21:23Z,2024-04-29T15:29:43Z,1,3,MERGED
+hmis-frontend,Release 114,https://github.com/greenriver/hmis-frontend/pull/751,2024-04-29T13:40:55Z,2024-05-13T13:39:15Z,0,9,MERGED
+hmis-frontend,Form detail page update,https://github.com/greenriver/hmis-frontend/pull/750,2024-04-26T16:30:45Z,2024-04-29T14:20:11Z,1,4,MERGED
+hmis-frontend,Refactor Generic Tables to not be responsible for filtering,https://github.com/greenriver/hmis-frontend/pull/749,2024-04-25T21:40:49Z,2024-04-26T21:25:59Z,9,8,MERGED
+hmis-frontend,Update schema for nullable geocode,https://github.com/greenriver/hmis-frontend/pull/748,2024-04-25T13:07:46Z,2024-04-25T16:20:06Z,0,1,MERGED
+hmis-frontend,Add Service Details column to Client Services table,https://github.com/greenriver/hmis-frontend/pull/747,2024-04-24T22:06:03Z,2024-04-25T16:09:19Z,0,1,MERGED
+hmis-frontend,Display client alerts for bulk service enrollment,https://github.com/greenriver/hmis-frontend/pull/746,2024-04-24T20:36:21Z,2024-04-26T16:43:13Z,7,5,MERGED
+hmis-frontend,Fix intake bug for changing household size,https://github.com/greenriver/hmis-frontend/pull/745,2024-04-23T20:21:21Z,2024-04-26T19:18:01Z,2,5,MERGED
+hmis-frontend,Enable filtering by specific custom assessment type,https://github.com/greenriver/hmis-frontend/pull/744,2024-04-23T14:15:57Z,2024-04-29T13:26:52Z,6,11,MERGED
+hmis-frontend,Use network-only on merge search,https://github.com/greenriver/hmis-frontend/pull/743,2024-04-22T16:04:51Z,2024-04-22T18:36:19Z,0,1,MERGED
+hmis-frontend,release-113,https://github.com/greenriver/hmis-frontend/pull/742,2024-04-19T14:24:54Z,2024-05-01T20:27:58Z,0,4,MERGED
+hmis-frontend,5710 fix hmis evaluate template,https://github.com/greenriver/hmis-frontend/pull/741,2024-04-19T00:43:28Z,2024-04-19T14:24:38Z,0,3,MERGED
+hmis-frontend,Upgrade node js to 20.x,https://github.com/greenriver/hmis-frontend/pull/740,2024-04-12T16:25:05Z,2024-04-15T13:10:42Z,0,3,MERGED
+hmis-frontend,release-112,https://github.com/greenriver/hmis-frontend/pull/739,2024-04-12T16:17:02Z,2024-05-01T20:27:21Z,0,4,MERGED
+hmis-frontend,Disable offline cache,https://github.com/greenriver/hmis-frontend/pull/738,2024-04-11T19:22:52Z,2024-04-12T18:29:36Z,0,4,MERGED
+hmis-frontend,Minor storybook upgrade,https://github.com/greenriver/hmis-frontend/pull/737,2024-04-11T15:32:55Z,2024-04-12T16:16:38Z,4,4,MERGED
+hmis-frontend,Support going back to Project from assessment viewing,https://github.com/greenriver/hmis-frontend/pull/736,2024-04-11T14:51:43Z,2024-04-11T15:17:31Z,0,1,MERGED
+hmis-frontend,Vertically center the Add Organization button,https://github.com/greenriver/hmis-frontend/pull/734,2024-04-09T21:56:00Z,2024-04-10T12:58:10Z,0,1,MERGED
+hmis-frontend,Add assessments to project dashboard,https://github.com/greenriver/hmis-frontend/pull/733,2024-04-05T20:01:08Z,2024-04-10T13:29:16Z,4,2,MERGED
+hmis-frontend,release-110,https://github.com/greenriver/hmis-frontend/pull/732,2024-04-04T20:56:31Z,2024-04-11T15:34:44Z,0,1,MERGED
+hmis-frontend,Address npm vulnerabilities,https://github.com/greenriver/hmis-frontend/pull/731,2024-04-04T19:56:25Z,2024-04-05T12:31:08Z,0,1,MERGED
+hmis-frontend,Pass Lock Version when updating client image,https://github.com/greenriver/hmis-frontend/pull/729,2024-04-04T15:04:06Z,2024-04-04T16:28:43Z,0,4,CLOSED
+hmis-frontend,Release 111,https://github.com/greenriver/hmis-frontend/pull/727,2024-04-03T19:56:33Z,2024-04-22T13:44:46Z,0,11,MERGED
+hmis-frontend,Fix minor issues with client image tile and uploader,https://github.com/greenriver/hmis-frontend/pull/726,2024-04-03T19:41:21Z,2024-04-09T14:19:08Z,4,4,MERGED
+hmis-frontend,Reduce noise in sentry,https://github.com/greenriver/hmis-frontend/pull/725,2024-04-02T18:14:46Z,2024-04-03T19:58:48Z,2,1,MERGED
+hmis-frontend,Stop sending 404 to sentry,https://github.com/greenriver/hmis-frontend/pull/724,2024-04-02T16:50:56Z,2024-04-03T19:58:36Z,0,1,MERGED
+hmis-frontend,Prevent access to Edit Client route without canViewCLientName perm,https://github.com/greenriver/hmis-frontend/pull/723,2024-04-02T14:21:38Z,2024-04-03T19:44:09Z,3,5,MERGED
+hmis-frontend,Add Staff Assignment column to Project Enrollments and Households tables,https://github.com/greenriver/hmis-frontend/pull/861,2024-07-30T14:39:35Z,2024-08-01T14:24:26Z,3,27,MERGED
+hmis-frontend,6369 hmis service category type rules,https://github.com/greenriver/hmis-frontend/pull/860,2024-07-30T04:00:06Z,2024-08-02T13:30:18Z,3,3,MERGED
+hmis-frontend,Add user dashboard for caseload,https://github.com/greenriver/hmis-frontend/pull/859,2024-07-29T13:12:49Z,2024-07-31T22:02:39Z,4,19,MERGED
+hmis-frontend,6339 bug on hmis numeric input,https://github.com/greenriver/hmis-frontend/pull/858,2024-07-29T05:25:03Z,2024-08-02T12:26:44Z,0,2,MERGED
+hmis-frontend,6349 upgrade dependencies,https://github.com/greenriver/hmis-frontend/pull/857,2024-07-27T20:48:42Z,2024-08-02T13:23:55Z,3,15,MERGED
+hmis-frontend,Add staff assignment management to enrollment overview,https://github.com/greenriver/hmis-frontend/pull/856,2024-07-24T13:53:24Z,2024-07-31T18:13:02Z,9,17,MERGED
+hmis-frontend,6375-fix-stale-object-error-on-update-occurrence-point,https://github.com/greenriver/hmis-frontend/pull/855,2024-07-21T18:25:18Z,2024-07-22T14:03:52Z,0,1,MERGED
+hmis-frontend,Release 125,https://github.com/greenriver/hmis-frontend/pull/854,2024-07-18T15:38:26Z,2024-08-08T17:08:59Z,0,7,MERGED
+hmis-frontend,Style assessment history,https://github.com/greenriver/hmis-frontend/pull/853,2024-07-18T15:30:28Z,2024-07-18T17:03:49Z,2,1,MERGED
+hmis-frontend,Only show relevant pick list references for custom form building,https://github.com/greenriver/hmis-frontend/pull/852,2024-07-17T17:35:20Z,2024-07-18T15:09:44Z,3,2,MERGED
+hmis-frontend,"Update schema, show validation errors on publish",https://github.com/greenriver/hmis-frontend/pull/851,2024-07-17T14:44:49Z,2024-07-17T19:21:56Z,0,1,MERGED
+hmis-frontend,Add pick list option manager to form builder,https://github.com/greenriver/hmis-frontend/pull/850,2024-07-17T13:32:33Z,2024-07-18T15:03:34Z,11,8,MERGED
+hmis-frontend,Patch MCI component that depends on link_id,https://github.com/greenriver/hmis-frontend/pull/849,2024-07-16T16:04:56Z,2024-07-16T21:05:38Z,0,2,MERGED
+hmis-frontend,Use shared component for project config ui,https://github.com/greenriver/hmis-frontend/pull/848,2024-07-15T16:36:20Z,2024-07-15T17:58:30Z,0,1,MERGED
+hmis-frontend,6239 adjust vite proxy for insufficient rate limiting,https://github.com/greenriver/hmis-frontend/pull/847,2024-07-14T21:38:14Z,2024-09-12T20:51:17Z,3,2,CLOSED
+hmis-frontend,6198 add staff to assessment print view,https://github.com/greenriver/hmis-frontend/pull/846,2024-07-13T03:49:17Z,2024-07-18T15:27:54Z,3,3,MERGED
+hmis-frontend,Remove Cypress tests and dependencies,https://github.com/greenriver/hmis-frontend/pull/845,2024-07-12T20:41:49Z,2024-07-15T15:55:45Z,0,1,MERGED
+hmis-frontend,Remove madge,https://github.com/greenriver/hmis-frontend/pull/844,2024-07-11T13:11:20Z,2024-07-11T16:30:08Z,0,1,MERGED
+hmis-frontend,Dont expect autofill_when to always be present,https://github.com/greenriver/hmis-frontend/pull/843,2024-07-10T20:17:41Z,2024-07-11T16:30:18Z,0,1,MERGED
+hmis-frontend,Show validation errors when submitting json form,https://github.com/greenriver/hmis-frontend/pull/842,2024-07-10T20:10:08Z,2024-07-10T21:33:41Z,0,1,MERGED
+hmis-frontend,Make useUpdateFormStructure hook robust to undefined item,https://github.com/greenriver/hmis-frontend/pull/841,2024-07-10T18:41:08Z,2024-07-10T19:56:43Z,0,1,MERGED
+hmis-frontend,Update schema for super admin mode,https://github.com/greenriver/hmis-frontend/pull/840,2024-07-10T18:10:20Z,2024-07-16T13:09:43Z,0,3,MERGED
+hmis-frontend,Release 124,https://github.com/greenriver/hmis-frontend/pull/839,2024-07-10T13:01:18Z,2024-08-05T19:43:03Z,0,14,MERGED
+hmis-frontend,Remove unused referral statuses,https://github.com/greenriver/hmis-frontend/pull/838,2024-07-09T19:56:38Z,2024-07-10T13:00:08Z,0,1,MERGED
+hmis-frontend,Warn on referral when client is already enrolled,https://github.com/greenriver/hmis-frontend/pull/837,2024-07-09T18:55:28Z,2024-07-11T19:25:02Z,2,3,MERGED
+hmis-frontend,5727-hmis-graphql-retry,https://github.com/greenriver/hmis-frontend/pull/836,2024-07-09T05:00:56Z,2024-07-12T12:37:57Z,2,4,MERGED
+hmis-frontend,Filter form rules by active status,https://github.com/greenriver/hmis-frontend/pull/835,2024-07-08T18:42:27Z,2024-07-10T12:59:15Z,1,1,MERGED
+hmis-frontend,Support referencing Local Constants from Display Expressions,https://github.com/greenriver/hmis-frontend/pull/834,2024-07-08T15:54:43Z,2024-07-09T15:04:35Z,1,5,MERGED
+hmis-frontend,"Make exhaustive-deps a lint error, not warning",https://github.com/greenriver/hmis-frontend/pull/833,2024-07-03T14:13:47Z,2024-07-03T20:59:41Z,1,2,MERGED
+hmis-frontend,improve-sentry-grouping-for-50X,https://github.com/greenriver/hmis-frontend/pull/832,2024-07-03T02:23:28Z,2024-07-03T21:16:52Z,1,1,MERGED
+hmis-frontend,Make UX improvements to form tree reordering,https://github.com/greenriver/hmis-frontend/pull/831,2024-07-02T17:15:37Z,2024-07-03T14:14:30Z,3,3,MERGED
+hmis-frontend,Release 123,https://github.com/greenriver/hmis-frontend/pull/830,2024-07-01T19:20:16Z,2024-08-02T13:25:04Z,0,12,MERGED
+hmis-frontend,Implement new form rule dialog,https://github.com/greenriver/hmis-frontend/pull/829,2024-07-01T15:04:08Z,2024-07-08T16:36:19Z,11,33,MERGED
+hmis-frontend,Release 122,https://github.com/greenriver/hmis-frontend/pull/828,2024-07-01T13:37:15Z,2024-07-11T18:04:05Z,0,5,MERGED
+hmis-frontend,Stop resolving defaults on FormItem,https://github.com/greenriver/hmis-frontend/pull/827,2024-06-27T20:45:17Z,2024-07-01T13:37:03Z,1,5,MERGED
+hmis-frontend,"Implement ""Form Applicability"" design for viewing form rules",https://github.com/greenriver/hmis-frontend/pull/826,2024-06-27T19:04:06Z,2024-07-01T19:20:02Z,7,10,MERGED
+hmis-frontend,Stricter behavior for form property editor,https://github.com/greenriver/hmis-frontend/pull/825,2024-06-27T18:01:18Z,2024-07-03T21:11:49Z,9,22,MERGED
+hmis-frontend,Fix perpetual load,https://github.com/greenriver/hmis-frontend/pull/824,2024-06-26T16:08:33Z,2024-06-26T16:08:49Z,0,1,MERGED
+hmis-frontend,Remove dup link on proj services table,https://github.com/greenriver/hmis-frontend/pull/823,2024-06-26T13:09:54Z,2024-06-26T16:06:12Z,0,3,MERGED
+hmis-frontend,Fix minor form builder bugs,https://github.com/greenriver/hmis-frontend/pull/822,2024-06-25T12:50:43Z,2024-06-25T13:00:23Z,0,2,MERGED
+hmis-frontend,Enable form item deletion,https://github.com/greenriver/hmis-frontend/pull/821,2024-06-24T20:57:10Z,2024-06-27T16:56:35Z,12,22,MERGED
+hmis-frontend,Dont show form builder for published forms; read-only custom field key in property editor,https://github.com/greenriver/hmis-frontend/pull/820,2024-06-24T14:52:12Z,2024-06-25T18:34:11Z,1,1,MERGED
+hmis-frontend,Form builder style updates and bug fixes on preview,https://github.com/greenriver/hmis-frontend/pull/819,2024-06-20T21:30:23Z,2024-06-21T12:58:29Z,0,6,MERGED
+hmis-frontend,Implement form draft deletion,https://github.com/greenriver/hmis-frontend/pull/818,2024-06-20T20:24:33Z,2024-06-21T12:49:45Z,0,1,MERGED
+hmis-frontend,Patch ws advisory,https://github.com/greenriver/hmis-frontend/pull/817,2024-06-20T13:56:31Z,2024-06-20T15:23:58Z,1,2,MERGED
+hmis-frontend,Minor updates to form tree styles,https://github.com/greenriver/hmis-frontend/pull/815,2024-06-18T20:42:42Z,2024-06-20T13:26:57Z,0,1,MERGED
+hmis-frontend,Release 121,https://github.com/greenriver/hmis-frontend/pull/814,2024-06-18T13:53:00Z,2024-07-08T16:11:39Z,0,12,MERGED
+hmis-frontend,Form Tree: Expand group when moving an item into it,https://github.com/greenriver/hmis-frontend/pull/813,2024-06-18T13:44:56Z,2024-06-21T12:50:06Z,0,7,MERGED
+hmis-frontend,Support filtering referrals by status,https://github.com/greenriver/hmis-frontend/pull/812,2024-06-17T19:49:00Z,2024-06-18T13:52:28Z,4,6,MERGED
+hmis-frontend,Form builder header styles,https://github.com/greenriver/hmis-frontend/pull/811,2024-06-17T14:25:35Z,2024-06-17T15:02:37Z,0,20,MERGED
+hmis-frontend,Release 120,https://github.com/greenriver/hmis-frontend/pull/810,2024-06-14T16:14:09Z,2024-07-01T14:27:25Z,0,9,MERGED
+hmis-frontend,Form version table and form detail page design updates,https://github.com/greenriver/hmis-frontend/pull/809,2024-06-13T19:12:28Z,2024-06-18T00:21:43Z,0,5,MERGED
+hmis-frontend,Support reordering form items using RHF,https://github.com/greenriver/hmis-frontend/pull/808,2024-06-13T16:08:45Z,2024-06-17T14:57:21Z,1,17,MERGED
+hmis-frontend,Standardize use body2 for labels,https://github.com/greenriver/hmis-frontend/pull/807,2024-06-12T20:15:13Z,2024-06-13T19:36:45Z,2,3,MERGED
+hmis-frontend,Use h1 for page titles,https://github.com/greenriver/hmis-frontend/pull/806,2024-06-12T15:07:24Z,2024-06-12T18:05:27Z,0,1,MERGED
+hmis-frontend,Prevent error on empty item.initial list,https://github.com/greenriver/hmis-frontend/pull/805,2024-06-12T12:52:39Z,2024-06-12T18:18:46Z,1,3,MERGED
+hmis-frontend,"Add draft, published, retired workflow for forms",https://github.com/greenriver/hmis-frontend/pull/804,2024-06-11T21:34:42Z,2024-06-13T17:48:53Z,5,15,MERGED
+hmis-frontend,Support setting `initial` value and `bounds` in form builder,https://github.com/greenriver/hmis-frontend/pull/803,2024-06-11T18:39:04Z,2024-06-12T15:24:50Z,3,10,MERGED
+hmis-frontend,Form property editor styling and sections,https://github.com/greenriver/hmis-frontend/pull/802,2024-06-11T12:58:08Z,2024-06-12T15:04:03Z,3,4,MERGED
+hmis-frontend,"Disallow changing linkid on persisted item, add constraints",https://github.com/greenriver/hmis-frontend/pull/801,2024-06-10T16:51:41Z,2024-06-10T19:14:12Z,1,2,MERGED
+hmis-frontend,6064-sentry-grouping,https://github.com/greenriver/hmis-frontend/pull/800,2024-06-08T20:37:57Z,2024-06-11T20:20:54Z,6,7,MERGED
+hmis-frontend,Use RHF-controlled components in Form Item Properties Editor,https://github.com/greenriver/hmis-frontend/pull/799,2024-06-07T20:24:35Z,2024-06-10T16:21:14Z,2,5,MERGED
+hmis-frontend,Move form title/role changes into FormBuilderHeader,https://github.com/greenriver/hmis-frontend/pull/798,2024-06-06T17:55:17Z,2024-06-06T18:01:33Z,0,1,MERGED
+hmis-frontend,Implement basic movement of form items,https://github.com/greenriver/hmis-frontend/pull/797,2024-06-06T15:40:05Z,2024-06-13T16:09:00Z,3,5,CLOSED
+hmis-frontend,Release 119,https://github.com/greenriver/hmis-frontend/pull/796,2024-06-06T12:52:40Z,2024-06-25T13:03:33Z,0,15,MERGED
+hmis-frontend,Fix bug with LabeledCheckbox and RHF,https://github.com/greenriver/hmis-frontend/pull/795,2024-06-05T18:35:30Z,2024-06-06T12:52:15Z,0,1,MERGED
+hmis-frontend,Use react-hook-forms for form item properties,https://github.com/greenriver/hmis-frontend/pull/794,2024-06-04T20:50:19Z,2024-06-05T17:13:36Z,8,4,MERGED
+hmis-frontend,Update Form Palette,https://github.com/greenriver/hmis-frontend/pull/793,2024-06-04T18:23:49Z,2024-06-05T18:45:26Z,8,13,MERGED
+hmis-frontend,Add CLS tab to Projects dash,https://github.com/greenriver/hmis-frontend/pull/792,2024-06-03T21:06:12Z,2024-06-04T13:51:36Z,1,3,MERGED
+hmis-frontend,Enable editing additional form attributes,https://github.com/greenriver/hmis-frontend/pull/791,2024-06-03T16:52:51Z,2024-06-04T13:47:56Z,4,3,MERGED
+hmis-frontend,Remove explicit throw from useFormDefinition,https://github.com/greenriver/hmis-frontend/pull/977,2024-10-30T12:52:58Z,2024-10-30T13:08:38Z,0,2,MERGED
+hmis-frontend,Remove explicit throw from useFormDefinition,https://github.com/greenriver/hmis-frontend/pull/976,2024-10-29T20:22:46Z,2024-10-30T12:51:38Z,3,9,CLOSED
+hmis-frontend,Update schema to resolve Occurrence Points on Enrollments,https://github.com/greenriver/hmis-frontend/pull/975,2024-10-29T15:05:32Z,2024-11-20T20:14:51Z,0,17,MERGED
+hmis-frontend,Schema update to remove canManageInventory,https://github.com/greenriver/hmis-frontend/pull/974,2024-10-28T20:15:20Z,2024-10-29T20:23:46Z,0,1,MERGED
+hmis-frontend,Support form duplication for managedInVersionControl forms,https://github.com/greenriver/hmis-frontend/pull/973,2024-10-28T15:19:37Z,2024-11-05T20:24:19Z,4,7,MERGED
+hmis-frontend,Show data collection features where data is present,https://github.com/greenriver/hmis-frontend/pull/972,2024-10-25T19:47:05Z,2024-11-11T13:22:56Z,6,13,MERGED
+hmis-frontend,Upgrade trivy-action to fix failure,https://github.com/greenriver/hmis-frontend/pull/971,2024-10-24T18:57:37Z,2024-10-25T12:04:45Z,0,1,MERGED
+hmis-frontend,Fix ts build fail on project permissions,https://github.com/greenriver/hmis-frontend/pull/970,2024-10-24T18:42:31Z,2024-10-24T18:54:56Z,0,1,MERGED
+hmis-frontend,Support adding new service category in frontend,https://github.com/greenriver/hmis-frontend/pull/969,2024-10-23T19:00:53Z,2024-10-28T15:18:28Z,9,19,MERGED
+hmis-frontend,Disallow editing HUD service types from frontend,https://github.com/greenriver/hmis-frontend/pull/968,2024-10-23T13:19:59Z,2024-10-25T12:49:02Z,0,2,MERGED
+hmis-frontend,Prevent frontend from swallowing displayable error messages,https://github.com/greenriver/hmis-frontend/pull/967,2024-10-22T23:51:23Z,2024-10-28T12:51:54Z,6,3,MERGED
+hmis-frontend,Release 139,https://github.com/greenriver/hmis-frontend/pull/966,2024-10-21T15:37:43Z,2024-11-21T18:29:47Z,0,11,MERGED
+hmis-frontend,Collect and correctly display viral load source,https://github.com/greenriver/hmis-frontend/pull/965,2024-10-17T15:32:22Z,2024-10-17T18:29:37Z,0,1,MERGED
+hmis-frontend,Release 138,https://github.com/greenriver/hmis-frontend/pull/964,2024-10-17T12:58:50Z,2024-11-14T13:47:42Z,0,10,MERGED
+hmis-frontend,Update frontend unit mgmt to use new permission,https://github.com/greenriver/hmis-frontend/pull/963,2024-10-16T22:16:10Z,2024-10-21T14:46:23Z,1,6,MERGED
+hmis-frontend,Update schema in compatibility with hopwa viral load,https://github.com/greenriver/hmis-frontend/pull/962,2024-10-16T20:08:59Z,2024-10-17T16:16:00Z,1,1,CLOSED
+hmis-frontend,Add aria label to warning icon,https://github.com/greenriver/hmis-frontend/pull/961,2024-10-15T20:46:53Z,2024-10-17T00:37:04Z,0,2,MERGED
+hmis-frontend,"Apply file structure guidelines, pt1",https://github.com/greenriver/hmis-frontend/pull/960,2024-10-15T13:50:48Z,2024-10-21T12:26:01Z,0,21,MERGED
+hmis-frontend,Return Not Found on /events when there is no form,https://github.com/greenriver/hmis-frontend/pull/959,2024-10-14T20:52:21Z,2024-10-17T16:38:59Z,5,10,MERGED
+hmis-frontend,Make form def id in custom case note nullable,https://github.com/greenriver/hmis-frontend/pull/958,2024-10-11T20:29:22Z,2024-10-11T20:32:16Z,0,1,MERGED
+hmis-frontend,Display bulk submission review failure more gracefully,https://github.com/greenriver/hmis-frontend/pull/957,2024-10-10T17:20:58Z,2024-10-15T14:47:41Z,0,1,MERGED
+hmis-frontend,Update schema for removing deprecated query,https://github.com/greenriver/hmis-frontend/pull/956,2024-10-10T13:18:23Z,2024-10-11T14:54:55Z,0,1,MERGED
+hmis-frontend,Add storybook theme and basic component stories,https://github.com/greenriver/hmis-frontend/pull/955,2024-10-08T21:08:50Z,2024-10-15T15:08:35Z,14,13,MERGED
+hmis-frontend,Release 137,https://github.com/greenriver/hmis-frontend/pull/954,2024-10-08T19:37:27Z,2024-11-07T20:15:22Z,0,7,MERGED
+hmis-frontend,Minor package upgrades to address security issues,https://github.com/greenriver/hmis-frontend/pull/953,2024-10-08T19:31:38Z,2024-10-10T12:55:06Z,1,2,MERGED
+hmis-frontend,6240-strict-transport-security,https://github.com/greenriver/hmis-frontend/pull/952,2024-10-07T16:27:14Z,2024-10-07T19:45:38Z,0,1,MERGED
+hmis-frontend,Update case note record viewer to use form it was submitted with,https://github.com/greenriver/hmis-frontend/pull/951,2024-10-04T16:34:52Z,2024-10-08T19:37:06Z,2,2,MERGED
+hmis-frontend,Release 136,https://github.com/greenriver/hmis-frontend/pull/950,2024-10-04T13:36:16Z,2024-10-17T12:57:55Z,0,24,MERGED
+hmis-frontend,Move app-level files to src/app,https://github.com/greenriver/hmis-frontend/pull/949,2024-09-27T12:44:28Z,2024-10-17T15:45:48Z,0,1,CLOSED
+hmis-frontend,Add aspirational file structure guidelines to README,https://github.com/greenriver/hmis-frontend/pull/948,2024-09-27T12:43:13Z,2024-10-15T13:50:03Z,4,5,MERGED
+hmis-frontend,Throw fetch error object directly,https://github.com/greenriver/hmis-frontend/pull/947,2024-09-26T20:32:18Z,2024-09-26T20:41:15Z,0,1,MERGED
+hmis-frontend,Show reference pick lists correctly in review modal,https://github.com/greenriver/hmis-frontend/pull/945,2024-09-26T14:16:15Z,2024-09-26T14:25:07Z,0,1,MERGED
+hmis-frontend,"Upgrade vite, vitest, rollup",https://github.com/greenriver/hmis-frontend/pull/944,2024-09-25T23:20:54Z,2024-09-26T18:33:39Z,0,1,MERGED
+hmis-frontend,Update fetch policy on unit summary,https://github.com/greenriver/hmis-frontend/pull/943,2024-09-25T18:38:24Z,2024-09-26T18:33:28Z,0,1,MERGED
+hmis-frontend,Make small fixes and code cleanup on PIT branch,https://github.com/greenriver/hmis-frontend/pull/942,2024-09-25T13:19:49Z,2024-09-26T12:52:52Z,3,1,MERGED
+hmis-frontend,Fix a11y for ClickToShow,https://github.com/greenriver/hmis-frontend/pull/941,2024-09-23T15:58:20Z,2024-12-23T17:24:32Z,2,6,MERGED
+hmis-frontend,release-135,https://github.com/greenriver/hmis-frontend/pull/940,2024-09-23T13:16:52Z,2024-10-17T12:57:53Z,0,24,MERGED
+hmis-frontend,Add button for refreshing external form submissions,https://github.com/greenriver/hmis-frontend/pull/939,2024-09-20T20:21:50Z,2024-09-24T15:22:03Z,1,3,MERGED
+hmis-frontend,Merge release-134 into pit-external-forms,https://github.com/greenriver/hmis-frontend/pull/938,2024-09-19T13:57:14Z,2024-09-19T14:07:31Z,1,7,MERGED
+hmis-frontend,Change external submissions from using static form to React form,https://github.com/greenriver/hmis-frontend/pull/937,2024-09-18T20:15:22Z,2024-09-19T13:14:21Z,3,2,MERGED
+hmis-frontend,Display summary columns on external forms review table,https://github.com/greenriver/hmis-frontend/pull/936,2024-09-18T19:53:40Z,2024-09-19T16:36:43Z,3,6,MERGED
+hmis-frontend,Add a11y addon to storybook,https://github.com/greenriver/hmis-frontend/pull/934,2024-09-18T15:29:30Z,2024-09-18T18:36:46Z,0,2,MERGED
+hmis-frontend,Create UX for bulk external form submission review,https://github.com/greenriver/hmis-frontend/pull/933,2024-09-18T12:58:35Z,2024-09-19T17:51:03Z,6,7,MERGED
+hmis-frontend,Add reviewed local const to external forms review modal,https://github.com/greenriver/hmis-frontend/pull/932,2024-09-18T12:54:38Z,2024-09-18T18:29:20Z,1,1,CLOSED
+hmis-frontend,Add chromatic to ci,https://github.com/greenriver/hmis-frontend/pull/930,2024-09-17T13:23:48Z,2024-09-18T12:44:23Z,0,10,MERGED
+hmis-frontend,Add chromatic to ci,https://github.com/greenriver/hmis-frontend/pull/929,2024-09-17T13:23:00Z,2024-09-17T13:23:54Z,0,1,CLOSED
+hmis-frontend,Get storybook build working again,https://github.com/greenriver/hmis-frontend/pull/928,2024-09-16T19:31:46Z,2024-09-18T12:44:09Z,1,1,MERGED
+hmis-frontend,Release 134,https://github.com/greenriver/hmis-frontend/pull/927,2024-09-16T13:46:18Z,2024-10-04T11:40:27Z,0,10,MERGED
+hmis-frontend,Add a few element stories,https://github.com/greenriver/hmis-frontend/pull/926,2024-09-13T20:38:38Z,2024-10-10T12:31:58Z,1,3,MERGED
+hmis-frontend,Use implicit paths in storybook,https://github.com/greenriver/hmis-frontend/pull/925,2024-09-13T20:38:17Z,2024-09-23T13:16:33Z,3,9,MERGED
+hmis-frontend,"Use DeleteFormRule mutation, support displaying validation errors on rule creation",https://github.com/greenriver/hmis-frontend/pull/924,2024-09-13T18:57:38Z,2024-09-16T13:33:58Z,0,4,MERGED
+hmis-frontend,Stop sending Project ID when updating External Forms,https://github.com/greenriver/hmis-frontend/pull/923,2024-09-13T18:36:49Z,2024-09-17T20:14:50Z,0,5,MERGED
+hmis-frontend,Adjust error logic for Form Builder bounds,https://github.com/greenriver/hmis-frontend/pull/922,2024-09-13T13:26:46Z,2024-09-13T14:46:34Z,0,1,MERGED
+hmis-frontend,Trim search term before checking that its >=3 chars long,https://github.com/greenriver/hmis-frontend/pull/921,2024-09-12T15:32:33Z,2024-09-12T19:47:25Z,0,1,MERGED
+hmis-frontend,Support Other Funder dropdown in funder setup and rule setup,https://github.com/greenriver/hmis-frontend/pull/920,2024-09-12T14:05:01Z,2024-09-13T16:19:05Z,1,3,MERGED
+hmis-frontend,Package resolutions for vulnerabilities,https://github.com/greenriver/hmis-frontend/pull/919,2024-09-12T12:36:49Z,2024-09-12T14:06:42Z,0,3,MERGED
+hmis-frontend,PIT External Forms (Frontend Deploy Branch),https://github.com/greenriver/hmis-frontend/pull/916,2024-09-10T13:18:48Z,2024-09-25T23:04:59Z,0,14,MERGED
+hmis-frontend,Release 133,https://github.com/greenriver/hmis-frontend/pull/915,2024-09-10T13:18:05Z,2024-09-30T13:15:01Z,0,6,MERGED
+hmis-frontend,"Switch to vitest for testing, remove jest",https://github.com/greenriver/hmis-frontend/pull/914,2024-09-06T19:19:19Z,2024-09-11T13:18:54Z,1,6,MERGED
+hmis-frontend,Add schema updates and geo viewing,https://github.com/greenriver/hmis-frontend/pull/913,2024-09-06T18:43:35Z,2024-09-11T19:24:41Z,1,12,MERGED
+hmis-frontend,Fix advanced search bug,https://github.com/greenriver/hmis-frontend/pull/912,2024-09-06T17:41:25Z,2024-09-09T13:41:53Z,1,1,MERGED
+hmis-frontend,Remove parent record type from submitted values,https://github.com/greenriver/hmis-frontend/pull/911,2024-09-06T12:43:35Z,2024-09-09T13:43:44Z,0,1,MERGED
+hmis-frontend,Release 132,https://github.com/greenriver/hmis-frontend/pull/910,2024-09-03T18:38:09Z,2024-09-26T13:31:29Z,0,4,MERGED
+hmis-frontend,"View External Form Submissions by values, not CDEs",https://github.com/greenriver/hmis-frontend/pull/909,2024-09-03T14:47:35Z,2024-09-10T13:17:49Z,5,9,MERGED
+hmis-frontend,Release 131,https://github.com/greenriver/hmis-frontend/pull/907,2024-08-29T12:52:22Z,2024-09-19T15:47:37Z,0,9,MERGED
+hmis-frontend,Fix bad keys in form builder,https://github.com/greenriver/hmis-frontend/pull/906,2024-08-27T21:26:41Z,2024-08-28T14:33:14Z,3,2,MERGED
+hmis-frontend,Remove last published date/name from system forms,https://github.com/greenriver/hmis-frontend/pull/905,2024-08-26T20:03:44Z,2024-08-27T14:48:53Z,2,1,CLOSED
+hmis-frontend,Enable date comparison in EnableWhen condition,https://github.com/greenriver/hmis-frontend/pull/904,2024-08-23T18:05:36Z,2024-08-28T13:01:25Z,2,2,MERGED
+hmis-frontend,Fix form builder bugs and grumps,https://github.com/greenriver/hmis-frontend/pull/903,2024-08-22T21:07:27Z,2024-08-26T19:43:32Z,14,11,MERGED
+hmis-frontend,Add rules and custom rules to schema,https://github.com/greenriver/hmis-frontend/pull/902,2024-08-22T16:23:59Z,2024-09-03T13:27:55Z,0,3,MERGED
+hmis-frontend,Fix bug on submitting upgraded assessments,https://github.com/greenriver/hmis-frontend/pull/901,2024-08-21T19:58:43Z,2024-08-28T18:35:21Z,5,10,MERGED
+hmis-frontend,Prevent submitting new draft assessments,https://github.com/greenriver/hmis-frontend/pull/900,2024-08-21T15:43:20Z,2024-08-21T20:19:26Z,0,2,MERGED
+hmis-frontend,Fix misc Form Builder bugs,https://github.com/greenriver/hmis-frontend/pull/899,2024-08-21T14:42:25Z,2024-08-29T00:30:38Z,1,11,MERGED
+hmis-frontend,Fix bug when MCI clearance auto-clears a duplicate record,https://github.com/greenriver/hmis-frontend/pull/898,2024-08-20T21:26:07Z,2024-08-26T20:19:25Z,2,6,MERGED
+hmis-frontend,Add aria labels for ease of system testing,https://github.com/greenriver/hmis-frontend/pull/897,2024-08-20T01:09:42Z,2024-08-20T21:29:38Z,3,9,MERGED
+hmis-frontend,Fix bug evaluating date comparisons in Enable When conditions,https://github.com/greenriver/hmis-frontend/pull/896,2024-08-19T14:07:16Z,2024-08-20T17:46:17Z,2,16,CLOSED
+hmis-frontend,Address misc Editor Drawer grumps,https://github.com/greenriver/hmis-frontend/pull/895,2024-08-19T13:53:05Z,2024-08-20T13:52:48Z,0,5,MERGED
+hmis-frontend,Release 130,https://github.com/greenriver/hmis-frontend/pull/893,2024-08-16T12:58:57Z,2024-09-11T17:49:57Z,0,14,MERGED
+hmis-frontend,Dependency upgrades for axios advisory and others,https://github.com/greenriver/hmis-frontend/pull/892,2024-08-15T20:36:15Z,2024-08-16T12:56:33Z,0,4,MERGED
+hmis-frontend,Codegen updates,https://github.com/greenriver/hmis-frontend/pull/891,2024-08-15T20:33:53Z,2024-08-15T20:34:03Z,0,1,MERGED
+hmis-frontend,Release 129,https://github.com/greenriver/hmis-frontend/pull/889,2024-08-15T14:51:34Z,2024-09-05T12:29:46Z,0,8,MERGED
+hmis-frontend,Suggest use ControlledSelect instead of YesNoRadio,https://github.com/greenriver/hmis-frontend/pull/888,2024-08-15T14:15:49Z,2024-08-15T15:08:28Z,0,3,MERGED
+hmis-frontend,Upgrade to Storybook 8,https://github.com/greenriver/hmis-frontend/pull/887,2024-08-14T21:44:19Z,2024-08-15T14:50:51Z,0,7,MERGED
+hmis-frontend,"Hide FormBuilder Image, File, Initial, Autofill, and some Bounds features",https://github.com/greenriver/hmis-frontend/pull/886,2024-08-14T18:55:09Z,2024-08-15T20:18:29Z,2,5,MERGED
+hmis-frontend,Fix bugs with Form Builder conditional logic,https://github.com/greenriver/hmis-frontend/pull/885,2024-08-14T15:07:16Z,2024-08-20T13:32:46Z,10,13,MERGED
+hmis-frontend,"Style adjustments to mobile toolbar, and decrease `md` breakpoint size",https://github.com/greenriver/hmis-frontend/pull/884,2024-08-12T21:40:26Z,2024-08-14T18:06:56Z,3,7,MERGED
+hmis-frontend,Validate that either pick list options or reference exists,https://github.com/greenriver/hmis-frontend/pull/883,2024-08-08T19:22:42Z,2024-08-09T15:26:17Z,0,1,MERGED
+hmis-frontend,Use most recent version of form for editing Assessments,https://github.com/greenriver/hmis-frontend/pull/882,2024-08-08T19:07:13Z,2024-08-15T19:59:26Z,8,12,MERGED
+hmis-frontend,Make form rules dialog more accessible and consistent,https://github.com/greenriver/hmis-frontend/pull/881,2024-08-08T18:21:09Z,2024-08-14T01:18:14Z,6,5,MERGED
+hmis-frontend,Add tooltip with additional staff assignment names,https://github.com/greenriver/hmis-frontend/pull/880,2024-08-08T13:18:56Z,2024-08-08T13:34:08Z,0,2,MERGED
+hmis-frontend,Clean up mobile toolbar,https://github.com/greenriver/hmis-frontend/pull/879,2024-08-07T19:32:17Z,2024-08-08T16:44:46Z,2,3,MERGED
+hmis-frontend,Use `in` instead of `Object.hasOwn` ,https://github.com/greenriver/hmis-frontend/pull/878,2024-08-07T17:57:52Z,2024-08-07T21:42:04Z,0,1,MERGED
+hmis-frontend,Clear autofilled value when autofill condition turns false,https://github.com/greenriver/hmis-frontend/pull/877,2024-08-07T17:51:42Z,2024-08-08T12:57:40Z,2,2,MERGED
+hmis-frontend,Remove support for horizontal checkboxes and radio groups,https://github.com/greenriver/hmis-frontend/pull/876,2024-08-07T16:03:21Z,2024-08-07T21:44:35Z,1,2,MERGED
+hmis-frontend,Frontend changes to restrict 'My Dashboard' visibility,https://github.com/greenriver/hmis-frontend/pull/875,2024-08-07T12:49:29Z,2024-08-07T13:30:24Z,0,1,MERGED
+hmis-frontend,Maybe fix CI failures?,https://github.com/greenriver/hmis-frontend/pull/874,2024-08-06T20:22:31Z,2024-08-06T20:31:22Z,0,2,MERGED
+hmis-frontend,Display user's first name on user dashboard,https://github.com/greenriver/hmis-frontend/pull/873,2024-08-06T13:16:17Z,2024-08-06T14:34:46Z,0,1,MERGED
+hmis-frontend,Codegen with latest version,https://github.com/greenriver/hmis-frontend/pull/872,2024-08-06T12:59:17Z,2024-08-06T13:33:00Z,0,1,MERGED
+hmis-frontend,"Show overall household status, not HoH's status",https://github.com/greenriver/hmis-frontend/pull/871,2024-08-05T21:15:39Z,2024-08-06T19:56:31Z,7,6,MERGED
+hmis-frontend,Gig/staff assignment design,https://github.com/greenriver/hmis-frontend/pull/870,2024-08-05T21:01:49Z,2024-08-06T15:46:19Z,0,3,MERGED
+hmis-frontend,Change 'no staff assigned' treatment,https://github.com/greenriver/hmis-frontend/pull/869,2024-08-05T20:29:50Z,2024-08-05T20:36:46Z,0,1,MERGED
+hmis-frontend,Release 128,https://github.com/greenriver/hmis-frontend/pull/868,2024-08-05T19:42:45Z,2024-08-29T12:50:06Z,0,17,MERGED
+hmis-frontend,Geolocation hook and wip component,https://github.com/greenriver/hmis-frontend/pull/867,2024-08-05T19:37:18Z,2024-08-06T12:50:26Z,3,2,MERGED
+hmis-frontend,Tt/6433 toolbar,https://github.com/greenriver/hmis-frontend/pull/866,2024-08-03T05:40:01Z,2024-08-06T19:57:09Z,1,2,MERGED
+hmis-frontend,Release 127,https://github.com/greenriver/hmis-frontend/pull/865,2024-08-02T13:24:27Z,2024-08-26T12:46:46Z,0,14,MERGED
+hmis-frontend,Release 126,https://github.com/greenriver/hmis-frontend/pull/864,2024-08-02T13:24:10Z,2024-08-15T16:09:28Z,0,6,MERGED
+hmis-frontend,Make first pass at toolbar mobile usability,https://github.com/greenriver/hmis-frontend/pull/863,2024-08-01T21:39:23Z,2024-08-06T19:57:32Z,0,2,MERGED
+hmis-frontend,Make schema updates for VerifiedBy on CLS,https://github.com/greenriver/hmis-frontend/pull/862,2024-08-01T14:23:24Z,2024-08-07T14:46:29Z,0,1,MERGED
+hmis-frontend,Remove 99 from Relationship to HoH picklist,https://github.com/greenriver/hmis-frontend/pull/1014,2024-12-31T20:18:43Z,2025-01-10T20:51:44Z,6,7,MERGED
+hmis-frontend,Fix bugs with Uploader found in QA,https://github.com/greenriver/hmis-frontend/pull/1013,2024-12-31T19:56:01Z,2024-12-31T22:14:47Z,0,3,MERGED
+hmis-frontend,Augment accessible text for MUI Autocomplete,https://github.com/greenriver/hmis-frontend/pull/1012,2024-12-31T15:02:48Z,2025-01-02T14:06:16Z,1,2,MERGED
+hmis-frontend,Safely parse location data for display - PIT submission display hotfix,https://github.com/greenriver/hmis-frontend/pull/1011,2024-12-30T20:53:03Z,2024-12-31T14:16:14Z,1,3,MERGED
+hmis-frontend,Package upgrades for advisories,https://github.com/greenriver/hmis-frontend/pull/1010,2024-12-30T15:41:11Z,2024-12-30T16:18:15Z,0,4,MERGED
+hmis-frontend,Check editorUserIds when rendering occurrence point form,https://github.com/greenriver/hmis-frontend/pull/1009,2024-12-24T20:24:16Z,2024-12-30T15:27:20Z,1,4,MERGED
+hmis-frontend,"Add story for disabled form, fix bugs",https://github.com/greenriver/hmis-frontend/pull/1008,2024-12-24T16:15:14Z,2024-12-30T17:04:50Z,2,3,MERGED
+hmis-frontend,"Update HMIS color palette and Button styles, remove secondary color usage",https://github.com/greenriver/hmis-frontend/pull/1007,2024-12-24T15:56:21Z,2025-02-21T14:22:49Z,7,49,MERGED
+hmis-frontend,Remove invalid features from Feature-Policy,https://github.com/greenriver/hmis-frontend/pull/1006,2024-12-24T14:47:18Z,2025-01-10T14:21:38Z,1,2,MERGED
+hmis-frontend,Release 146,https://github.com/greenriver/hmis-frontend/pull/1005,2024-12-24T14:36:53Z,2025-01-23T21:08:14Z,0,19,MERGED
+hmis-frontend,Release 145,https://github.com/greenriver/hmis-frontend/pull/1004,2024-12-24T14:36:45Z,2025-01-16T13:07:42Z,0,10,MERGED
+hmis-frontend,Make clear button focusable for select,https://github.com/greenriver/hmis-frontend/pull/1003,2024-12-20T03:05:51Z,2024-12-20T14:50:17Z,0,1,MERGED
+hmis-frontend,Fix a11y markup for inputs,https://github.com/greenriver/hmis-frontend/pull/1002,2024-12-18T14:45:07Z,2024-12-23T17:16:43Z,0,2,MERGED
+hmis-frontend,Fix minor markup accessibility issues,https://github.com/greenriver/hmis-frontend/pull/1001,2024-12-17T21:54:00Z,2025-01-02T16:49:58Z,3,5,MERGED
+hmis-frontend,Fix a11y landmark issues,https://github.com/greenriver/hmis-frontend/pull/1000,2024-12-16T22:01:11Z,2024-12-30T19:35:40Z,2,3,MERGED
+hmis-frontend,Implement Table Actions pattern and default columns,https://github.com/greenriver/hmis-frontend/pull/998,2024-12-16T17:47:54Z,2025-01-06T21:55:01Z,18,23,MERGED
+hmis-frontend,Enrollment location map,https://github.com/greenriver/hmis-frontend/pull/997,2024-12-13T22:27:52Z,2024-12-24T14:32:52Z,4,44,MERGED
+hmis-frontend,Bug fix for numeric year inputs,https://github.com/greenriver/hmis-frontend/pull/996,2024-12-13T13:05:36Z,2024-12-13T15:59:40Z,1,4,MERGED
+hmis-frontend,Release 144,https://github.com/greenriver/hmis-frontend/pull/995,2024-12-12T12:54:32Z,2025-01-09T13:30:32Z,0,7,MERGED
+hmis-frontend,Merge pull request #981 from greenriver/release-141,https://github.com/greenriver/hmis-frontend/pull/994,2024-12-12T12:53:52Z,2024-12-12T12:54:17Z,0,1,MERGED
+hmis-frontend,Stop resolving deprecated blobId on frontend,https://github.com/greenriver/hmis-frontend/pull/993,2024-12-10T21:01:23Z,2024-12-11T20:43:26Z,0,2,MERGED
+hmis-frontend,Geolocation input component,https://github.com/greenriver/hmis-frontend/pull/992,2024-12-09T17:55:27Z,2024-12-23T20:51:24Z,11,28,MERGED
+hmis-frontend,"Add grayscale to palette, add as button color",https://github.com/greenriver/hmis-frontend/pull/991,2024-12-08T21:56:54Z,2024-12-30T15:09:01Z,2,20,MERGED
+hmis-frontend,Release 143,https://github.com/greenriver/hmis-frontend/pull/990,2024-12-05T18:00:21Z,2025-01-02T13:19:35Z,0,8,MERGED
+hmis-frontend,Update Project Household Enrollments table with new designs,https://github.com/greenriver/hmis-frontend/pull/989,2024-12-05T14:43:34Z,2025-01-06T21:59:53Z,21,29,MERGED
+hmis-frontend,7058-input-validation,https://github.com/greenriver/hmis-frontend/pull/988,2024-12-05T04:35:57Z,2024-12-09T23:55:18Z,3,6,MERGED
+hmis-frontend,Use signed blob ID when uploading images,https://github.com/greenriver/hmis-frontend/pull/987,2024-12-03T19:29:22Z,2024-12-10T17:04:52Z,1,5,MERGED
+hmis-frontend,6913 lock version conflict mitigation,https://github.com/greenriver/hmis-frontend/pull/986,2024-12-01T22:34:24Z,2024-12-13T22:02:18Z,7,9,MERGED
+hmis-frontend,Propose approach for themeable nav link background color,https://github.com/greenriver/hmis-frontend/pull/984,2024-11-18T22:23:28Z,2024-11-19T15:37:42Z,2,1,CLOSED
+hmis-frontend,Release 142,https://github.com/greenriver/hmis-frontend/pull/983,2024-11-14T13:49:08Z,2024-12-19T13:15:10Z,0,4,MERGED
+hmis-frontend,Support file upload in assessments,https://github.com/greenriver/hmis-frontend/pull/982,2024-11-07T22:26:16Z,2024-12-17T21:58:26Z,26,50,MERGED
+hmis-frontend,Release 141,https://github.com/greenriver/hmis-frontend/pull/981,2024-11-07T20:16:43Z,2024-12-12T12:53:04Z,0,8,MERGED
+hmis-frontend,Release 140,https://github.com/greenriver/hmis-frontend/pull/980,2024-11-07T20:16:28Z,2024-12-05T14:07:01Z,0,6,MERGED
+hmis-frontend,Enable item-level form permissions on frontend,https://github.com/greenriver/hmis-frontend/pull/979,2024-11-06T14:36:44Z,2024-11-13T15:09:23Z,1,4,MERGED
+hmis-frontend,Stop swallowing assessment errors when invalid type is submitted,https://github.com/greenriver/hmis-frontend/pull/978,2024-11-05T16:05:30Z,2024-11-08T18:48:18Z,2,5,MERGED
+hmis-frontend,"Fix back to enrollment path from assessment, fix protected IDs bug",https://github.com/greenriver/hmis-frontend/pull/1077,2025-02-24T15:26:53Z,2025-02-24T20:47:13Z,2,12,MERGED
+hmis-frontend,Save opt cols in search params and local storage,https://github.com/greenriver/hmis-frontend/pull/1076,2025-02-24T15:17:43Z,2025-03-10T15:54:47Z,9,37,MERGED
+hmis-frontend,Make collapsible card accessible,https://github.com/greenriver/hmis-frontend/pull/1075,2025-02-24T14:53:06Z,2025-02-24T17:15:48Z,2,4,MERGED
+hmis-frontend,Fix broken input bg - theme QA fix,https://github.com/greenriver/hmis-frontend/pull/1074,2025-02-23T21:17:55Z,2025-02-24T13:26:36Z,0,1,MERGED
+hmis-frontend,Fix visual form bug,https://github.com/greenriver/hmis-frontend/pull/1073,2025-02-23T21:12:35Z,2025-02-24T14:29:59Z,2,3,MERGED
+hmis-frontend,Allow nav item to specify active paths,https://github.com/greenriver/hmis-frontend/pull/1072,2025-02-21T21:26:57Z,2025-02-24T13:26:19Z,0,1,MERGED
+hmis-frontend,Fix color bug on disabled ButtonLink,https://github.com/greenriver/hmis-frontend/pull/1071,2025-02-21T14:56:49Z,2025-02-21T15:04:05Z,0,1,MERGED
+hmis-frontend,Draft a suggestion for improving optional column ergonomics,https://github.com/greenriver/hmis-frontend/pull/1067,2025-02-20T17:07:31Z,2025-02-25T18:12:02Z,1,10,MERGED
+hmis-frontend,Add optional cols to all tables,https://github.com/greenriver/hmis-frontend/pull/1066,2025-02-20T16:55:34Z,2025-03-05T19:31:40Z,11,21,MERGED
+hmis-frontend,Updated enrollment workflow,https://github.com/greenriver/hmis-frontend/pull/1065,2025-02-20T16:01:14Z,2025-02-21T20:11:14Z,15,40,MERGED
+hmis-frontend,Rm console errors for unimplemented filters,https://github.com/greenriver/hmis-frontend/pull/1064,2025-02-17T14:43:55Z,2025-02-17T17:00:26Z,0,1,MERGED
+hmis-frontend,Edit records using original form,https://github.com/greenriver/hmis-frontend/pull/1063,2025-02-17T14:38:44Z,2025-02-21T13:28:59Z,0,2,MERGED
+hmis-frontend,Force reload on login,https://github.com/greenriver/hmis-frontend/pull/1060,2025-02-14T20:05:39Z,2025-02-17T12:54:16Z,0,2,MERGED
+hmis-frontend,Alt fix without autoResetSelection,https://github.com/greenriver/hmis-frontend/pull/1059,2025-02-14T14:30:04Z,2025-02-14T15:23:50Z,0,1,MERGED
+hmis-frontend,Address bugs in table selection,https://github.com/greenriver/hmis-frontend/pull/1058,2025-02-13T19:51:26Z,2025-02-14T15:37:09Z,2,2,MERGED
+hmis-frontend,Add missing id from access record,https://github.com/greenriver/hmis-frontend/pull/1057,2025-02-13T17:34:14Z,2025-02-13T18:46:06Z,0,1,MERGED
+hmis-frontend,Revert overflow: scroll on table toolbar,https://github.com/greenriver/hmis-frontend/pull/1056,2025-02-13T17:33:27Z,2025-02-13T17:55:10Z,0,1,MERGED
+hmis-frontend,Follow up on QA items from Join/Split,https://github.com/greenriver/hmis-frontend/pull/1055,2025-02-12T16:18:38Z,2025-02-12T22:24:28Z,4,3,MERGED
+hmis-frontend,Fix mobile menu and make mobile table nav buttons into icons,https://github.com/greenriver/hmis-frontend/pull/1054,2025-02-12T13:41:51Z,2025-02-13T20:15:27Z,1,4,MERGED
+hmis-frontend,Improve mobile tables,https://github.com/greenriver/hmis-frontend/pull/1053,2025-02-11T14:50:05Z,2025-02-12T14:01:27Z,1,7,MERGED
+hmis-frontend,Remove relationship col from client table,https://github.com/greenriver/hmis-frontend/pull/1052,2025-02-11T12:17:14Z,2025-02-11T12:36:27Z,1,3,MERGED
+hmis-frontend,Update Project Enrollment table default tab,https://github.com/greenriver/hmis-frontend/pull/1051,2025-02-10T20:41:30Z,2025-02-11T12:13:53Z,1,1,MERGED
+hmis-frontend,Adjust default filters to include Denied Pending on Incoming Referral table,https://github.com/greenriver/hmis-frontend/pull/1049,2025-02-06T21:17:28Z,2025-02-10T14:37:34Z,0,1,MERGED
+hmis-frontend,Upgrade vitest,https://github.com/greenriver/hmis-frontend/pull/1048,2025-02-06T21:07:54Z,2025-02-10T14:40:06Z,0,1,MERGED
+hmis-frontend,Fix bug with row selection in tables,https://github.com/greenriver/hmis-frontend/pull/1047,2025-02-06T18:09:55Z,2025-02-06T18:30:47Z,0,1,MERGED
+hmis-frontend,Prune access fragments,https://github.com/greenriver/hmis-frontend/pull/1046,2025-02-06T15:06:23Z,2025-02-06T18:25:47Z,1,27,MERGED
+hmis-frontend,Use new table nav styles for Outgoing Referrals and Open Enrollment Summary,https://github.com/greenriver/hmis-frontend/pull/1045,2025-02-06T14:13:25Z,2025-02-06T17:54:30Z,2,4,MERGED
+hmis-frontend,release-151,https://github.com/greenriver/hmis-frontend/pull/1044,2025-02-06T12:23:21Z,2025-03-13T13:46:47Z,0,13,MERGED
+hmis-frontend,"Remove some old unused props, display HoH rel as ""HoH""",https://github.com/greenriver/hmis-frontend/pull/1043,2025-02-04T16:17:41Z,2025-02-04T22:08:38Z,1,2,MERGED
+hmis-frontend,Revisit row link accessibility,https://github.com/greenriver/hmis-frontend/pull/1042,2025-02-03T21:28:59Z,2025-02-04T16:15:22Z,1,11,MERGED
+hmis-frontend,Follow up on QA items for Table Row Actions,https://github.com/greenriver/hmis-frontend/pull/1041,2025-02-03T18:34:07Z,2025-02-04T16:09:45Z,2,8,MERGED
+hmis-frontend,Resolve less sensitive data on client search results; fix type issues,https://github.com/greenriver/hmis-frontend/pull/1040,2025-02-03T00:56:54Z,2025-02-06T18:10:41Z,4,22,MERGED
+hmis-frontend,Release 149,https://github.com/greenriver/hmis-frontend/pull/1039,2025-01-31T12:32:20Z,2025-02-13T19:10:13Z,0,6,MERGED
+hmis-frontend,release-150,https://github.com/greenriver/hmis-frontend/pull/1038,2025-01-29T13:41:00Z,2025-02-21T13:30:05Z,0,3,MERGED
+hmis-frontend,Implement Split Households workflow,https://github.com/greenriver/hmis-frontend/pull/1037,2025-01-27T17:56:25Z,2025-02-11T22:05:31Z,9,107,MERGED
+hmis-frontend,Vite minor upgrade,https://github.com/greenriver/hmis-frontend/pull/1036,2025-01-24T21:08:27Z,2025-01-27T13:41:09Z,0,2,MERGED
+hmis-frontend,Release 149,https://github.com/greenriver/hmis-frontend/pull/1035,2025-01-23T21:10:34Z,2025-01-31T12:30:16Z,0,6,CLOSED
+hmis-frontend,Fix bug with menu item links (partially revert #1013),https://github.com/greenriver/hmis-frontend/pull/1034,2025-01-23T19:48:45Z,2025-01-27T16:51:47Z,0,1,MERGED
+hmis-frontend,Add back rowLinkTo and handleRowClick behaviors,https://github.com/greenriver/hmis-frontend/pull/1033,2025-01-23T18:55:26Z,2025-01-31T21:01:07Z,13,19,MERGED
+hmis-frontend,"RHF mini-refactor for DynamicGroup, bug fix for disabled items",https://github.com/greenriver/hmis-frontend/pull/1032,2025-01-22T20:35:55Z,2025-01-30T15:22:11Z,10,9,MERGED
+hmis-frontend,Revert to MUI's default behavior on Autocomplete,https://github.com/greenriver/hmis-frontend/pull/1030,2025-01-20T16:00:40Z,2025-01-21T20:28:18Z,0,2,MERGED
+hmis-frontend,Follow-up QA items for Tables,https://github.com/greenriver/hmis-frontend/pull/1029,2025-01-17T20:09:36Z,2025-01-17T20:32:38Z,0,1,MERGED
+hmis-frontend,Follow up on QA for Skip to Content,https://github.com/greenriver/hmis-frontend/pull/1028,2025-01-17T19:43:41Z,2025-01-22T18:07:18Z,2,3,MERGED
+hmis-frontend,Fix form builder bug when specifying numeric autofill value,https://github.com/greenriver/hmis-frontend/pull/1027,2025-01-16T22:50:20Z,2025-01-17T18:04:31Z,0,1,MERGED
+hmis-frontend,Fix scroll offset bug with Edit Record form stepper,https://github.com/greenriver/hmis-frontend/pull/1026,2025-01-16T02:20:56Z,2025-01-16T13:08:52Z,0,1,MERGED
+hmis-frontend,Add tint on hover table row,https://github.com/greenriver/hmis-frontend/pull/1025,2025-01-15T19:29:48Z,2025-01-22T21:23:30Z,0,3,CLOSED
+hmis-frontend,Adjust default filters for Incoming Referrals,https://github.com/greenriver/hmis-frontend/pull/1024,2025-01-14T20:59:47Z,2025-01-30T20:30:17Z,1,1,CLOSED
+hmis-frontend,Implement sticky columns in GenericTable,https://github.com/greenriver/hmis-frontend/pull/1023,2025-01-13T19:07:38Z,2025-01-16T14:09:28Z,6,9,MERGED
+hmis-frontend,Enable user to Join Households,https://github.com/greenriver/hmis-frontend/pull/1022,2025-01-13T18:43:06Z,2025-02-11T19:34:47Z,39,77,MERGED
+hmis-frontend,Follow up on QA items for Table Actions deploy branch,https://github.com/greenriver/hmis-frontend/pull/1021,2025-01-13T14:21:56Z,2025-01-15T19:24:45Z,2,4,MERGED
+hmis-frontend,Update tables with new Action Column pattern (Deploy Branch) (#989),https://github.com/greenriver/hmis-frontend/pull/1020,2025-01-06T22:02:46Z,2025-02-06T12:21:07Z,5,18,MERGED
+hmis-frontend,Improve a11y of autofill assessment table,https://github.com/greenriver/hmis-frontend/pull/1019,2025-01-06T20:26:55Z,2025-01-15T19:15:10Z,5,55,MERGED
+hmis-frontend,Implement Skip to Content button,https://github.com/greenriver/hmis-frontend/pull/1018,2025-01-03T22:32:58Z,2025-01-09T14:19:55Z,12,6,MERGED
+hmis-frontend,Address a11y QA issues,https://github.com/greenriver/hmis-frontend/pull/1017,2025-01-03T19:47:55Z,2025-01-06T20:50:33Z,3,3,MERGED
+hmis-frontend,Release 147,https://github.com/greenriver/hmis-frontend/pull/1016,2025-01-02T16:54:04Z,2025-01-23T21:09:46Z,0,11,MERGED
+hmis-frontend,Fix typography bug on login screen,https://github.com/greenriver/hmis-frontend/pull/1015,2025-01-02T16:48:31Z,2025-01-02T16:53:31Z,0,1,MERGED

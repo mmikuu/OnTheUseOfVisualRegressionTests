@@ -1,0 +1,538 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+tab-web,Render on server using authed user info,https://github.com/gladly-team/tab-web/pull/6,2019-12-27T22:48:42Z,2019-12-30T16:47:08Z,0,18,MERGED
+tab-web,Call dotenv before loading the graphql config,https://github.com/gladly-team/tab-web/pull/5,2019-12-24T02:56:52Z,2019-12-24T02:56:57Z,0,1,MERGED
+tab-web,Use canary graphql-cli to use new graphql-config,https://github.com/gladly-team/tab-web/pull/4,2019-12-24T02:46:07Z,2019-12-24T02:46:14Z,0,5,MERGED
+tab-web,Use env vars,https://github.com/gladly-team/tab-web/pull/3,2019-12-23T20:18:05Z,2019-12-23T20:19:13Z,0,4,MERGED
+tab-web,Add Firebase login,https://github.com/gladly-team/tab-web/pull/2,2019-12-22T19:14:04Z,2019-12-22T19:15:25Z,0,7,MERGED
+tab-web,Add Relay,https://github.com/gladly-team/tab-web/pull/1,2019-12-20T19:25:11Z,2019-12-20T19:30:35Z,0,6,MERGED
+tab-web,Put ads on index page,https://github.com/gladly-team/tab-web/pull/37,2020-03-25T23:50:41Z,2020-03-25T23:51:02Z,1,9,MERGED
+tab-web,CSRF protection for login/logout endpoints,https://github.com/gladly-team/tab-web/pull/36,2020-03-23T23:31:02Z,2020-03-24T00:29:31Z,1,16,MERGED
+tab-web,Fix a bug in composed props in withData,https://github.com/gladly-team/tab-web/pull/35,2020-02-01T01:40:01Z,2020-02-01T01:41:19Z,1,1,MERGED
+tab-web,Refetch Relay data on client-side mount when using a service worker,https://github.com/gladly-team/tab-web/pull/34,2020-02-01T01:31:44Z,2020-02-01T01:32:27Z,1,2,MERGED
+tab-web,Replace `cookie-session` with `cookies` to support secure cookies,https://github.com/gladly-team/tab-web/pull/33,2020-01-31T21:37:30Z,2020-01-31T23:58:36Z,1,26,MERGED
+tab-web,Destroy caches on login/logout,https://github.com/gladly-team/tab-web/pull/32,2020-01-30T00:24:00Z,2020-01-30T00:25:10Z,1,3,MERGED
+tab-web,Set specific URL patterns for Workbox runtime caching,https://github.com/gladly-team/tab-web/pull/31,2020-01-29T23:48:58Z,2020-01-29T23:49:24Z,1,3,MERGED
+tab-web,Add a progressive web app manifest.json,https://github.com/gladly-team/tab-web/pull/30,2020-01-29T18:22:01Z,2020-01-29T19:17:02Z,1,8,MERGED
+tab-web,Bug fix: pass the service worker path on registration,https://github.com/gladly-team/tab-web/pull/29,2020-01-29T01:25:03Z,2020-01-29T01:27:20Z,1,1,MERGED
+tab-web,Enable a service worker using next-offline,https://github.com/gladly-team/tab-web/pull/28,2020-01-29T01:16:32Z,2020-01-29T01:16:44Z,1,22,MERGED
+tab-web,Rely on AuthUser to determine auth redirects,https://github.com/gladly-team/tab-web/pull/27,2020-01-28T21:28:28Z,2020-01-28T21:28:39Z,1,4,MERGED
+tab-web,"When using the router, define the ""as"" URL to include the base path",https://github.com/gladly-team/tab-web/pull/26,2020-01-28T18:22:18Z,2020-01-28T18:23:15Z,1,1,MERGED
+tab-web,Make sure redirects include the URL base path,https://github.com/gladly-team/tab-web/pull/25,2020-01-25T02:17:48Z,2020-01-25T02:18:36Z,1,3,MERGED
+tab-web,Fix a bug in the order of composed HOCs,https://github.com/gladly-team/tab-web/pull/24,2020-01-25T01:59:58Z,2020-01-25T02:00:17Z,1,1,MERGED
+tab-web,Add logout functionality,https://github.com/gladly-team/tab-web/pull/23,2020-01-25T01:51:42Z,2020-01-25T01:53:30Z,1,1,MERGED
+tab-web,Show loading text when signing in,https://github.com/gladly-team/tab-web/pull/22,2020-01-25T01:29:51Z,2020-01-25T01:29:57Z,1,2,MERGED
+tab-web,Redirect authed user from the auth page to the app,https://github.com/gladly-team/tab-web/pull/21,2020-01-25T01:10:04Z,2020-01-25T01:10:20Z,1,2,MERGED
+tab-web,"Support redirecting to auth for ""auth required"" pages",https://github.com/gladly-team/tab-web/pull/20,2020-01-24T23:34:47Z,2020-01-25T00:31:34Z,1,16,MERGED
+tab-web,Use src directory with absolute imports,https://github.com/gladly-team/tab-web/pull/19,2020-01-24T18:57:39Z,2020-01-24T18:57:57Z,1,8,MERGED
+tab-web,Update Firebase credentials,https://github.com/gladly-team/tab-web/pull/18,2020-01-10T19:58:43Z,2020-01-10T19:59:28Z,1,3,MERGED
+tab-web,Create urls.js and include a base path in URLs,https://github.com/gladly-team/tab-web/pull/17,2020-01-09T23:37:41Z,2020-01-10T00:02:46Z,1,4,MERGED
+tab-web,Try rewriting all Now requests from /v4/* to /*,https://github.com/gladly-team/tab-web/pull/16,2020-01-09T19:04:33Z,2020-01-09T19:04:45Z,1,3,MERGED
+tab-web,Provide access to the authed user on both client and server,https://github.com/gladly-team/tab-web/pull/15,2020-01-08T22:19:21Z,2020-01-08T22:19:38Z,1,11,MERGED
+tab-web,Normalize the authUser object,https://github.com/gladly-team/tab-web/pull/14,2020-01-07T13:53:37Z,2020-01-07T13:53:48Z,1,3,MERGED
+tab-web,Provide authed user to Relay query,https://github.com/gladly-team/tab-web/pull/13,2020-01-07T04:57:35Z,2020-01-07T04:57:56Z,1,3,MERGED
+tab-web,Add a `withUser` HOC,https://github.com/gladly-team/tab-web/pull/12,2020-01-06T21:43:48Z,2020-01-06T21:44:52Z,1,8,MERGED
+tab-web,Use Next API routes instead of custom server,https://github.com/gladly-team/tab-web/pull/11,2020-01-05T17:57:50Z,2020-01-05T18:02:02Z,1,15,MERGED
+tab-web,Set up deployment on Now,https://github.com/gladly-team/tab-web/pull/10,2020-01-03T21:43:27Z,2020-01-03T21:48:28Z,1,14,MERGED
+tab-web,Add the userId variable to all Relay queries using withData,https://github.com/gladly-team/tab-web/pull/9,2020-01-03T15:40:45Z,2020-01-03T15:41:27Z,0,1,MERGED
+tab-web,Add the user token to the data request,https://github.com/gladly-team/tab-web/pull/8,2020-01-01T01:26:25Z,2020-01-01T01:26:39Z,0,1,MERGED
+tab-web,Use Tab schema and local GraphQL endpoint,https://github.com/gladly-team/tab-web/pull/7,2020-01-01T00:44:58Z,2020-01-01T00:45:04Z,0,3,MERGED
+tab-web,Set a long max age for the Tab v4 opt in cookie,https://github.com/gladly-team/tab-web/pull/63,2020-05-29T20:18:01Z,2020-05-29T20:25:35Z,2,5,MERGED
+tab-web,Add tests for cookie and session middleware,https://github.com/gladly-team/tab-web/pull/62,2020-05-29T17:36:11Z,2020-05-29T17:36:43Z,2,7,MERGED
+tab-web,Set a 404 response when conditionally returning a 404 page,https://github.com/gladly-team/tab-web/pull/61,2020-05-28T22:20:37Z,2020-05-28T22:24:26Z,2,1,MERGED
+tab-web,Add an Achievements component with hardcoded demos,https://github.com/gladly-team/tab-web/pull/60,2020-05-28T21:02:45Z,2020-05-28T22:01:39Z,2,95,MERGED
+tab-web,Add display names to components,https://github.com/gladly-team/tab-web/pull/57,2020-05-11T22:58:58Z,2020-05-11T22:59:04Z,1,1,MERGED
+tab-web,Remove unneeded example pages,https://github.com/gladly-team/tab-web/pull/56,2020-05-11T22:50:06Z,2020-05-11T22:52:36Z,2,1,MERGED
+tab-web,"Set the user's ""v4BetaEnabled"" field to false when they revert to classic",https://github.com/gladly-team/tab-web/pull/55,2020-05-11T22:04:06Z,2020-05-11T22:44:39Z,4,46,MERGED
+tab-web,Style and test the sign-in page,https://github.com/gladly-team/tab-web/pull/54,2020-05-06T21:28:21Z,2020-05-06T21:29:46Z,1,10,MERGED
+tab-web,Add a beta opt-out button to the account page,https://github.com/gladly-team/tab-web/pull/53,2020-05-06T00:51:55Z,2020-05-06T00:55:00Z,1,2,MERGED
+tab-web,Add logout button to account page,https://github.com/gladly-team/tab-web/pull/52,2020-05-06T00:09:54Z,2020-05-06T00:12:01Z,2,3,MERGED
+tab-web,Update dependencies,https://github.com/gladly-team/tab-web/pull/51,2020-05-05T23:28:35Z,2020-05-05T23:30:10Z,1,5,MERGED
+tab-web,"Add an ""Account"" settings page",https://github.com/gladly-team/tab-web/pull/50,2020-05-05T22:39:26Z,2020-05-05T22:46:54Z,2,29,MERGED
+tab-web,"Move ""pages"" into separate directory",https://github.com/gladly-team/tab-web/pull/49,2020-05-04T18:53:37Z,2020-05-04T18:53:56Z,1,2,MERGED
+tab-web,Show a loading screen on auth before Firebase initializes,https://github.com/gladly-team/tab-web/pull/48,2020-05-04T17:59:20Z,2020-05-04T19:07:13Z,2,30,MERGED
+tab-web,Add a money raised counter to the new tab page,https://github.com/gladly-team/tab-web/pull/47,2020-04-23T21:06:50Z,2020-04-23T21:37:24Z,2,10,MERGED
+tab-web,Create a Github action to run tests,https://github.com/gladly-team/tab-web/pull/46,2020-04-21T17:39:26Z,2020-04-21T17:43:12Z,1,2,MERGED
+tab-web,Add code coverage tracking via Codecov,https://github.com/gladly-team/tab-web/pull/45,2020-04-20T23:01:56Z,2020-04-21T17:57:53Z,2,10,MERGED
+tab-web,Add Material UI and a search bar on the new tab page,https://github.com/gladly-team/tab-web/pull/44,2020-04-20T21:59:39Z,2020-04-20T22:02:03Z,1,12,MERGED
+tab-web,Add Jest and some unit tests,https://github.com/gladly-team/tab-web/pull/43,2020-04-20T17:41:58Z,2020-04-20T17:43:35Z,1,19,MERGED
+tab-web,Update GraphQL schema,https://github.com/gladly-team/tab-web/pull/42,2020-04-15T17:55:14Z,2020-04-15T17:55:22Z,1,1,MERGED
+tab-web,Move env var values into ZEIT Now dashboard,https://github.com/gladly-team/tab-web/pull/41,2020-04-15T00:44:06Z,2020-04-15T00:44:30Z,1,3,MERGED
+tab-web,Simple new tab page,https://github.com/gladly-team/tab-web/pull/40,2020-04-14T23:33:43Z,2020-04-14T23:33:54Z,1,4,MERGED
+tab-web,Change /v4 base path to /newtab,https://github.com/gladly-team/tab-web/pull/39,2020-04-08T16:36:47Z,2020-04-08T16:36:55Z,1,2,MERGED
+tab-web,Add an endpoint to set a cookie for CloudFront routing,https://github.com/gladly-team/tab-web/pull/38,2020-04-08T00:41:59Z,2020-04-08T00:43:10Z,1,2,MERGED
+tab-web,Upgrade dependencies,https://github.com/gladly-team/tab-web/pull/81,2020-07-22T23:00:00Z,2020-07-22T23:10:45Z,1,9,MERGED
+tab-web,Use Next.js 9.4's built-in .env support,https://github.com/gladly-team/tab-web/pull/80,2020-07-22T18:52:37Z,2020-07-22T22:16:27Z,1,22,MERGED
+tab-web,Use Next's absolute imports,https://github.com/gladly-team/tab-web/pull/78,2020-07-21T21:49:29Z,2020-07-21T21:51:32Z,1,2,MERGED
+tab-web,Use Next.js' fetch polyfill,https://github.com/gladly-team/tab-web/pull/77,2020-07-21T21:26:46Z,2020-07-21T21:32:00Z,1,1,MERGED
+tab-web,Add custom 404 page,https://github.com/gladly-team/tab-web/pull/76,2020-07-21T21:01:21Z,2020-07-21T21:05:05Z,1,1,MERGED
+tab-web,Remove unused graphql CLI tools,https://github.com/gladly-team/tab-web/pull/75,2020-07-21T20:52:49Z,2020-07-21T20:59:36Z,1,1,MERGED
+tab-web,Remove containers directory and move relocate pages tests,https://github.com/gladly-team/tab-web/pull/73,2020-07-21T18:52:29Z,2020-07-21T19:04:01Z,1,3,MERGED
+tab-web,Update Next.js to 9.4.4,https://github.com/gladly-team/tab-web/pull/71,2020-07-15T22:26:07Z,2020-07-21T18:18:02Z,4,79,MERGED
+tab-web,Log errors and throw in Relay fetchQuery,https://github.com/gladly-team/tab-web/pull/69,2020-06-09T18:22:13Z,2020-06-09T18:22:34Z,1,1,MERGED
+tab-web,Use a logger,https://github.com/gladly-team/tab-web/pull/67,2020-06-03T23:30:59Z,2020-06-03T23:35:44Z,2,3,MERGED
+tab-web,Set user context for Sentry errors,https://github.com/gladly-team/tab-web/pull/66,2020-06-03T22:13:53Z,2020-06-03T22:14:12Z,1,2,MERGED
+tab-web,Add Sentry error logging,https://github.com/gladly-team/tab-web/pull/65,2020-06-01T19:51:20Z,2020-06-03T20:45:53Z,2,17,MERGED
+tab-web,Upgrade to Next.js v9.5,https://github.com/gladly-team/tab-web/pull/85,2020-09-03T18:27:06Z,2020-09-03T18:54:17Z,2,17,MERGED
+tab-web,remove overflow,https://github.com/gladly-team/tab-web/pull/154,2021-03-31T16:25:56Z,2021-04-01T22:45:33Z,3,1,CLOSED
+tab-web,"Update copy, fix intro link styling",https://github.com/gladly-team/tab-web/pull/152,2021-03-30T00:16:32Z,2021-03-30T01:30:38Z,2,3,MERGED
+tab-web,remove debug mode and label correctly,https://github.com/gladly-team/tab-web/pull/151,2021-03-29T20:30:56Z,2021-03-30T00:17:32Z,2,1,MERGED
+tab-web,Alec/tfac 245,https://github.com/gladly-team/tab-web/pull/150,2021-03-29T18:34:49Z,2021-03-29T19:17:07Z,2,7,MERGED
+tab-web,Set v4 URL path rewrite in Next.js using dynamic hostname,https://github.com/gladly-team/tab-web/pull/149,2021-03-29T18:04:48Z,2021-03-29T18:05:01Z,2,1,CLOSED
+tab-web,update to v4,https://github.com/gladly-team/tab-web/pull/148,2021-03-29T17:47:15Z,2021-03-29T17:47:22Z,1,1,MERGED
+tab-web,set gtag,https://github.com/gladly-team/tab-web/pull/147,2021-03-29T17:23:39Z,2021-03-29T17:24:35Z,1,1,MERGED
+tab-web,make popover z index same as modal,https://github.com/gladly-team/tab-web/pull/146,2021-03-25T19:40:08Z,2021-03-25T20:28:26Z,2,1,MERGED
+tab-web,TFAC-281 Adding Links to Settings Page,https://github.com/gladly-team/tab-web/pull/145,2021-03-25T05:19:06Z,2021-03-25T16:38:44Z,2,1,MERGED
+tab-web,fix plural logic,https://github.com/gladly-team/tab-web/pull/144,2021-03-24T21:23:54Z,2021-03-24T22:05:29Z,2,1,MERGED
+tab-web,TFAC-301: force hard navigation to auth pages,https://github.com/gladly-team/tab-web/pull/143,2021-03-24T20:33:04Z,2021-03-25T18:29:41Z,3,5,MERGED
+tab-web,remove data layer push,https://github.com/gladly-team/tab-web/pull/142,2021-03-24T20:21:23Z,2021-03-24T20:21:30Z,1,1,MERGED
+tab-web,adding new gtag with custom property,https://github.com/gladly-team/tab-web/pull/141,2021-03-24T18:39:15Z,2021-03-24T19:22:22Z,2,19,MERGED
+tab-web,TFAC-294 Setting Target=_top for External Links,https://github.com/gladly-team/tab-web/pull/140,2021-03-24T05:49:36Z,2021-03-29T23:47:09Z,5,10,MERGED
+tab-web,add eslint rule and adjustments,https://github.com/gladly-team/tab-web/pull/139,2021-03-23T16:21:00Z,2021-03-23T20:53:09Z,2,1,MERGED
+tab-web,add redirects for uninstall and first-tab,https://github.com/gladly-team/tab-web/pull/138,2021-03-22T18:51:45Z,2021-03-22T22:24:18Z,6,2,MERGED
+tab-web,referral dialog closes and impact counter updates immediately,https://github.com/gladly-team/tab-web/pull/137,2021-03-22T18:13:18Z,2021-03-23T20:51:27Z,4,3,MERGED
+tab-web,add invite icon and Survey Link TFAC 173/277,https://github.com/gladly-team/tab-web/pull/136,2021-03-22T16:40:32Z,2021-03-23T22:43:12Z,8,7,MERGED
+tab-web,fix url link,https://github.com/gladly-team/tab-web/pull/135,2021-03-18T19:55:01Z,2021-03-18T21:22:57Z,2,1,MERGED
+tab-web,TFAC-271 Iterate on style copy and feedback,https://github.com/gladly-team/tab-web/pull/134,2021-03-17T20:09:25Z,2021-03-17T21:28:16Z,2,1,MERGED
+tab-web,keep array at 2,https://github.com/gladly-team/tab-web/pull/133,2021-03-17T02:55:00Z,2021-03-17T03:08:21Z,2,1,MERGED
+tab-web,TFAC-126 Intro flow,https://github.com/gladly-team/tab-web/pull/131,2021-03-16T00:53:59Z,2021-03-17T22:29:36Z,5,7,MERGED
+tab-web,TFAC-233 Add Click Overlay to Impact Counter,https://github.com/gladly-team/tab-web/pull/130,2021-03-16T00:12:10Z,2021-03-17T20:42:20Z,2,1,MERGED
+tab-web,TFAC-250 UI for OnboardingFlow,https://github.com/gladly-team/tab-web/pull/129,2021-03-14T22:23:28Z,2021-03-15T21:48:03Z,2,1,MERGED
+tab-web,update invite url,https://github.com/gladly-team/tab-web/pull/128,2021-03-12T19:41:25Z,2021-03-12T22:31:48Z,3,1,MERGED
+tab-web,recache page after mutation,https://github.com/gladly-team/tab-web/pull/127,2021-03-12T19:17:51Z,2021-03-17T01:22:13Z,6,3,MERGED
+tab-web,TFAC-212 Add Click Overlay to MoneyRaised Counter,https://github.com/gladly-team/tab-web/pull/126,2021-03-11T01:33:47Z,2021-03-15T16:29:32Z,9,1,MERGED
+tab-web,TFAC-213 background image,https://github.com/gladly-team/tab-web/pull/125,2021-03-04T20:20:54Z,2021-03-17T01:31:25Z,10,12,MERGED
+tab-web,TFAC-227 Adding SocialShare Component to InviteFriends,https://github.com/gladly-team/tab-web/pull/124,2021-03-03T07:03:17Z,2021-03-17T06:26:22Z,3,1,MERGED
+tab-web,Porting over SocialShare Component from tab,https://github.com/gladly-team/tab-web/pull/123,2021-02-28T20:45:34Z,2021-03-02T05:26:36Z,3,1,MERGED
+tab-web,TFAC-112 Adding LogUserRevenueMutation,https://github.com/gladly-team/tab-web/pull/122,2021-02-27T20:48:24Z,2021-03-02T01:25:34Z,7,1,MERGED
+tab-web,TFAC-220 Adding ImpactCounter,https://github.com/gladly-team/tab-web/pull/121,2021-02-26T06:54:14Z,2021-03-01T16:05:45Z,2,1,MERGED
+tab-web,TFAC-222 Creating InviteFriends Component,https://github.com/gladly-team/tab-web/pull/120,2021-02-25T04:53:27Z,2021-03-02T05:12:21Z,3,1,MERGED
+tab-web,debugging vercel,https://github.com/gladly-team/tab-web/pull/119,2021-02-24T18:08:09Z,2021-03-02T17:19:15Z,2,1,CLOSED
+tab-web,TFAC 180/181 - User Impact reward flow and referral flow,https://github.com/gladly-team/tab-web/pull/118,2021-02-22T23:27:31Z,2021-03-04T17:36:29Z,31,21,MERGED
+tab-web,TFAC-101: upgrade tab-ads and add CMP + data privacy management,https://github.com/gladly-team/tab-web/pull/117,2021-02-17T23:45:11Z,2021-02-18T00:11:55Z,2,10,MERGED
+tab-web,TFAC-100: limit SW caching to our domains,https://github.com/gladly-team/tab-web/pull/116,2021-02-17T22:43:26Z,2021-02-17T23:26:44Z,2,6,MERGED
+tab-web,Limit caching to just our domains,https://github.com/gladly-team/tab-web/pull/115,2021-02-17T20:51:09Z,2021-02-17T22:21:40Z,7,72,MERGED
+tab-web,Enable background images on prod,https://github.com/gladly-team/tab-web/pull/114,2021-02-17T19:20:10Z,2021-02-17T19:22:38Z,2,1,MERGED
+tab-web,Fix Relay store bug to make sure we don't reset the store to stale data,https://github.com/gladly-team/tab-web/pull/113,2021-02-17T17:17:15Z,2021-02-17T18:34:15Z,3,7,MERGED
+tab-web,Recache new tab page after setting a new background image,https://github.com/gladly-team/tab-web/pull/112,2021-02-16T22:31:38Z,2021-02-17T21:09:05Z,2,13,MERGED
+tab-web,fix swr bug make tests pass,https://github.com/gladly-team/tab-web/pull/111,2021-02-16T22:15:44Z,2021-02-17T00:41:46Z,2,2,MERGED
+tab-web,Hide mock achievements on preview deploy,https://github.com/gladly-team/tab-web/pull/110,2021-02-15T21:20:57Z,2021-02-15T21:28:35Z,2,1,MERGED
+tab-web,Adding inlineImageLimit to next-images config,https://github.com/gladly-team/tab-web/pull/109,2021-02-14T00:48:55Z,2021-02-15T20:58:40Z,2,1,MERGED
+tab-web,Implementing Custom Header Middleware,https://github.com/gladly-team/tab-web/pull/108,2021-02-13T23:09:15Z,2021-02-17T19:59:12Z,3,3,MERGED
+tab-web,Custom Error Page,https://github.com/gladly-team/tab-web/pull/107,2021-02-13T18:16:21Z,2021-02-16T17:28:10Z,5,7,MERGED
+tab-web,Updating NFA to v0.12.0,https://github.com/gladly-team/tab-web/pull/106,2021-02-12T08:38:04Z,2021-02-15T18:52:24Z,3,1,MERGED
+tab-web,TFAC-146 fix bug with multiple data fetches,https://github.com/gladly-team/tab-web/pull/105,2021-02-12T00:30:42Z,2021-02-16T17:31:52Z,4,4,CLOSED
+tab-web,TFAC-202 Adding Tests for customHeaderRequired,https://github.com/gladly-team/tab-web/pull/104,2021-02-11T07:00:38Z,2021-02-11T15:51:51Z,2,1,MERGED
+tab-web,[TFAC-111] Add error boundary to app root,https://github.com/gladly-team/tab-web/pull/103,2021-02-11T02:02:12Z,2021-02-11T19:50:55Z,5,3,MERGED
+tab-web,sentry wrapper work,https://github.com/gladly-team/tab-web/pull/102,2021-02-09T03:55:32Z,2021-02-16T21:12:02Z,17,13,MERGED
+tab-web,[TFAC-8] Log tab when the new tab page mounts,https://github.com/gladly-team/tab-web/pull/101,2021-02-05T01:21:04Z,2021-02-11T15:42:10Z,7,10,MERGED
+tab-web,Fade In Background Image TFAC-198,https://github.com/gladly-team/tab-web/pull/100,2021-02-04T23:32:52Z,2021-02-09T03:55:56Z,8,20,MERGED
+tab-web,Set LICENSE to MPL 2.0,https://github.com/gladly-team/tab-web/pull/99,2021-02-03T00:38:27Z,2021-02-03T00:39:00Z,1,1,MERGED
+tab-web,"Conditional Theming based on background image: TFAC-192, 193, 194",https://github.com/gladly-team/tab-web/pull/98,2021-02-03T00:19:48Z,2021-02-09T16:30:02Z,12,12,MERGED
+tab-web,TFAC-191: hardcode setBackgroundDailyImage to only get cat images,https://github.com/gladly-team/tab-web/pull/97,2021-02-02T23:24:59Z,2021-02-17T19:17:01Z,4,4,MERGED
+tab-web,Make console use an ESLint error rather than warning,https://github.com/gladly-team/tab-web/pull/96,2021-01-27T16:13:10Z,2021-01-27T16:24:07Z,2,1,MERGED
+tab-web,[TFAC-20] load background image with styles,https://github.com/gladly-team/tab-web/pull/95,2021-01-27T15:46:27Z,2021-02-01T20:24:19Z,13,15,MERGED
+tab-web,[TFAC-156] add data fetching for the user background image,https://github.com/gladly-team/tab-web/pull/94,2021-01-26T23:53:11Z,2021-01-29T06:13:24Z,11,2,CLOSED
+tab-web,New auth code and data fetching,https://github.com/gladly-team/tab-web/pull/93,2021-01-22T16:00:59Z,2021-01-23T00:01:02Z,11,120,MERGED
+tab-web,Add useData hook and Relay environment management,https://github.com/gladly-team/tab-web/pull/92,2021-01-20T19:26:23Z,2021-01-22T15:46:47Z,8,54,MERGED
+tab-web,Upgrade dependencies,https://github.com/gladly-team/tab-web/pull/91,2021-01-08T20:19:58Z,2021-01-08T20:22:29Z,2,4,MERGED
+tab-web,Update our GitHub Action for tests and coverage,https://github.com/gladly-team/tab-web/pull/90,2021-01-08T19:20:07Z,2021-01-08T19:53:02Z,2,6,MERGED
+tab-web,Replace moment.js with day.js,https://github.com/gladly-team/tab-web/pull/89,2021-01-08T19:12:28Z,2021-01-08T19:14:22Z,2,1,MERGED
+tab-web,Upgrade Next.js,https://github.com/gladly-team/tab-web/pull/88,2021-01-08T18:57:09Z,2021-01-08T19:00:00Z,2,5,MERGED
+tab-web,Remove unused hooks usePrevious and useUpdateEffect,https://github.com/gladly-team/tab-web/pull/87,2021-01-08T18:11:14Z,2021-01-08T18:13:26Z,2,1,MERGED
+tab-web,Add next-unused to identify unused files,https://github.com/gladly-team/tab-web/pull/86,2021-01-08T18:08:18Z,2021-01-08T18:08:34Z,1,6,MERGED
+tab-web,[TFAC-306] Try to fix expired ID token errors,https://github.com/gladly-team/tab-web/pull/186,2021-05-26T23:26:10Z,2021-05-27T00:27:21Z,3,4,MERGED
+tab-web,[TFAC-306] Fix data fetching bug using expired ID token,https://github.com/gladly-team/tab-web/pull/185,2021-05-25T19:09:20Z,2021-05-25T21:51:21Z,2,5,MERGED
+tab-web,Tweak Sentry ignore rule,https://github.com/gladly-team/tab-web/pull/184,2021-05-25T19:03:52Z,2021-05-25T21:56:58Z,2,1,MERGED
+tab-web,Ignore certain errors that we don't need logged,https://github.com/gladly-team/tab-web/pull/183,2021-05-24T19:11:46Z,2021-05-25T17:01:41Z,2,2,MERGED
+tab-web,[TFAC-306] Attempt a fix to possible expired ID tokens passed in mutations,https://github.com/gladly-team/tab-web/pull/182,2021-05-20T23:54:23Z,2021-05-24T18:13:17Z,2,7,MERGED
+tab-web,remove autofocus on input,https://github.com/gladly-team/tab-web/pull/181,2021-05-13T20:58:41Z,2021-05-13T21:40:51Z,2,1,MERGED
+tab-web,upgrade to 1.0.4,https://github.com/gladly-team/tab-web/pull/180,2021-05-13T17:12:17Z,2021-05-13T20:24:21Z,2,1,MERGED
+tab-web,Upgrade tab-e2e,https://github.com/gladly-team/tab-web/pull/179,2021-05-13T01:04:15Z,2021-05-13T01:13:24Z,2,1,MERGED
+tab-web,this commit enables running e2e tests,https://github.com/gladly-team/tab-web/pull/178,2021-05-12T23:48:05Z,2021-05-13T00:56:00Z,2,7,MERGED
+tab-web,adjust e2e workflow to only deploy on pr,https://github.com/gladly-team/tab-web/pull/177,2021-05-12T23:45:56Z,2021-05-13T20:27:36Z,2,3,MERGED
+tab-web,Alec/tfac 368,https://github.com/gladly-team/tab-web/pull/176,2021-05-12T23:39:51Z,2021-05-13T00:02:14Z,2,3,MERGED
+tab-web,add comment to e2e action,https://github.com/gladly-team/tab-web/pull/175,2021-05-12T18:16:14Z,2021-05-12T23:05:30Z,2,2,MERGED
+tab-web,Create e2e.yml,https://github.com/gladly-team/tab-web/pull/172,2021-05-10T19:21:17Z,2021-05-12T18:07:21Z,2,24,MERGED
+tab-web,Alec/tfac 377,https://github.com/gladly-team/tab-web/pull/169,2021-04-22T00:16:10Z,2021-05-05T17:16:27Z,6,4,MERGED
+tab-web,"Revert ""set cookie if v4betaEnabled is false""",https://github.com/gladly-team/tab-web/pull/168,2021-04-20T21:48:53Z,2021-04-20T21:48:59Z,1,1,MERGED
+tab-web,set cookie if v4betaEnabled is false,https://github.com/gladly-team/tab-web/pull/167,2021-04-20T21:20:55Z,2021-04-20T21:36:47Z,2,1,MERGED
+tab-web,upgrade tab ads and pass in page level key values,https://github.com/gladly-team/tab-web/pull/166,2021-04-20T18:36:22Z,2021-04-26T20:29:27Z,3,1,MERGED
+tab-web,Alec/tfac 336,https://github.com/gladly-team/tab-web/pull/165,2021-04-14T21:16:32Z,2021-04-14T23:40:19Z,1,6,CLOSED
+tab-web,Upgrade tab-ads,https://github.com/gladly-team/tab-web/pull/164,2021-04-13T22:40:14Z,2021-04-13T22:53:33Z,2,1,MERGED
+tab-web,New referred user experience and altruistic giving language,https://github.com/gladly-team/tab-web/pull/163,2021-04-13T16:40:19Z,2021-04-15T00:33:21Z,6,8,MERGED
+tab-web,[TFAC-316] Make reverting to Tab Legacy an advanced option,https://github.com/gladly-team/tab-web/pull/162,2021-04-12T23:12:13Z,2021-04-12T23:32:28Z,3,2,MERGED
+tab-web,add overflow to card and card content,https://github.com/gladly-team/tab-web/pull/161,2021-04-08T19:41:39Z,2021-04-08T19:51:57Z,2,1,MERGED
+tab-web,Alec/tfac 330,https://github.com/gladly-team/tab-web/pull/160,2021-04-08T18:11:25Z,2021-04-14T18:21:44Z,6,3,MERGED
+tab-web,Downgrade Next.js to fix a breaking change on /v4/api/* routing on Vercel,https://github.com/gladly-team/tab-web/pull/159,2021-04-08T01:37:35Z,2021-04-08T01:39:52Z,1,4,MERGED
+tab-web,Alec/tfac 357,https://github.com/gladly-team/tab-web/pull/158,2021-04-05T19:20:00Z,2021-04-05T22:29:18Z,4,6,MERGED
+tab-web,add facebook and reddit logging,https://github.com/gladly-team/tab-web/pull/157,2021-04-05T18:44:05Z,2021-04-06T22:29:11Z,4,6,MERGED
+tab-web,fix overflow with auto,https://github.com/gladly-team/tab-web/pull/156,2021-04-01T21:46:42Z,2021-04-01T22:43:41Z,2,1,MERGED
+tab-web,Alec/tfac 162,https://github.com/gladly-team/tab-web/pull/155,2021-04-01T21:39:45Z,2021-04-22T23:17:34Z,0,2,CLOSED
+tab-web,TFAC-437: Add Missions Mutations to tab-web,https://github.com/gladly-team/tab-web/pull/204,2021-07-30T16:24:41Z,2021-08-11T21:14:08Z,2,1,MERGED
+tab-web,Alec/tfac 365,https://github.com/gladly-team/tab-web/pull/203,2021-07-29T18:39:42Z,2021-08-09T19:03:47Z,18,29,MERGED
+tab-web,Alec/tfac 365,https://github.com/gladly-team/tab-web/pull/202,2021-07-29T16:55:03Z,2021-07-29T18:50:48Z,2,5,CLOSED
+tab-web,Alec/tfac 465 update copy for cat day notification,https://github.com/gladly-team/tab-web/pull/201,2021-07-29T14:43:10Z,2021-08-02T19:15:35Z,5,6,MERGED
+tab-web,Support custom ad sizes and dev-only ads,https://github.com/gladly-team/tab-web/pull/200,2021-07-21T00:40:24Z,2021-07-27T17:55:36Z,2,3,MERGED
+tab-web,TFAC-445 add cat day logic,https://github.com/gladly-team/tab-web/pull/199,2021-07-20T02:09:30Z,2021-07-28T18:44:04Z,3,2,MERGED
+tab-web,"Revert ""Alec/tfac 377"" Undo switching between v4 and legacy based on cookie, TFAC-428",https://github.com/gladly-team/tab-web/pull/198,2021-07-20T00:18:56Z,2021-07-20T16:39:21Z,3,1,MERGED
+tab-web,Upgrade tab-e2e,https://github.com/gladly-team/tab-web/pull/197,2021-07-06T17:18:13Z,2021-07-06T17:29:23Z,2,1,MERGED
+tab-web,"Revert ""Revert ""social share ui with tests""""",https://github.com/gladly-team/tab-web/pull/196,2021-06-30T17:17:37Z,2021-06-30T17:37:54Z,2,1,MERGED
+tab-web,"Revert ""social share ui with tests""",https://github.com/gladly-team/tab-web/pull/195,2021-06-29T23:44:48Z,2021-06-29T23:45:05Z,1,1,MERGED
+tab-web,TFAC-306 Quick Logging PR,https://github.com/gladly-team/tab-web/pull/194,2021-06-22T00:16:02Z,2021-07-06T17:22:17Z,2,1,MERGED
+tab-web,Alec/tfac 401,https://github.com/gladly-team/tab-web/pull/193,2021-06-18T00:12:44Z,2021-06-18T00:12:57Z,1,4,MERGED
+tab-web,social share ui with tests,https://github.com/gladly-team/tab-web/pull/192,2021-06-17T00:37:43Z,2021-06-29T23:12:41Z,11,10,MERGED
+tab-web,TFAC-410 Moving Revert to Classic Out of Advanced Section,https://github.com/gladly-team/tab-web/pull/190,2021-06-14T07:13:35Z,2021-06-16T23:47:05Z,2,1,MERGED
+tab-web,Upgrade tab-e2e,https://github.com/gladly-team/tab-web/pull/188,2021-06-11T23:21:37Z,2021-06-12T00:07:06Z,2,1,MERGED
+tab-web,Alec/tfac 668,https://github.com/gladly-team/tab-web/pull/274,2021-10-28T21:30:57Z,2021-10-29T00:22:09Z,2,4,MERGED
+tab-web,Add info about clearing cookies to error page,https://github.com/gladly-team/tab-web/pull/273,2021-10-28T20:51:21Z,2021-10-28T23:36:24Z,2,4,MERGED
+tab-web,enable switch cause for users,https://github.com/gladly-team/tab-web/pull/272,2021-10-28T18:36:31Z,2021-10-28T18:50:19Z,2,1,MERGED
+tab-web,front end cleanup,https://github.com/gladly-team/tab-web/pull/271,2021-10-26T19:30:02Z,2021-10-27T02:06:53Z,2,1,MERGED
+tab-web,Toggle cause,https://github.com/gladly-team/tab-web/pull/270,2021-10-26T15:00:43Z,2021-10-26T15:08:41Z,1,3,MERGED
+tab-web,Copy tweak,https://github.com/gladly-team/tab-web/pull/269,2021-10-26T00:46:35Z,2021-10-26T00:59:58Z,2,2,MERGED
+tab-web,ability to toggle between cats and seas,https://github.com/gladly-team/tab-web/pull/268,2021-10-25T23:50:41Z,2021-10-26T15:00:34Z,6,3,CLOSED
+tab-web,"Add link to ""About the Cause"", reorg settings sidebar",https://github.com/gladly-team/tab-web/pull/267,2021-10-25T19:47:32Z,2021-10-25T22:24:27Z,2,9,MERGED
+tab-web,"Revert ""Revert ""SocialShare Generalization for Tab for X""""",https://github.com/gladly-team/tab-web/pull/266,2021-10-25T18:36:16Z,2021-10-25T18:36:23Z,1,1,MERGED
+tab-web,"Revert ""SocialShare Generalization for Tab for X""",https://github.com/gladly-team/tab-web/pull/265,2021-10-25T17:15:16Z,2021-10-25T17:15:26Z,1,1,MERGED
+tab-web,"[TFAC-626] Add ""About the Cause"" page",https://github.com/gladly-team/tab-web/pull/264,2021-10-24T22:31:29Z,2021-10-25T17:58:01Z,4,7,MERGED
+tab-web,Update feedback survey link,https://github.com/gladly-team/tab-web/pull/263,2021-10-22T14:57:36Z,2021-10-22T15:13:03Z,2,1,MERGED
+tab-web,Custom theming bug fix,https://github.com/gladly-team/tab-web/pull/262,2021-10-22T14:41:32Z,2021-10-22T14:54:05Z,2,4,MERGED
+tab-web,send cause id in ads publish,https://github.com/gladly-team/tab-web/pull/261,2021-10-21T23:20:43Z,2021-10-22T18:58:51Z,3,3,MERGED
+tab-web,SocialShare Generalization for Tab for X,https://github.com/gladly-team/tab-web/pull/260,2021-10-21T05:02:38Z,2021-10-25T16:45:02Z,6,3,MERGED
+tab-web,Use a stable class name to fix background image animation flicker,https://github.com/gladly-team/tab-web/pull/259,2021-10-21T00:54:12Z,2021-10-21T14:32:53Z,2,2,MERGED
+tab-web,TFAC-588 Generalizing Onboarding Flow,https://github.com/gladly-team/tab-web/pull/258,2021-10-20T23:44:27Z,2021-10-21T19:30:35Z,2,2,MERGED
+tab-web,remove unneccesary field from mutation DNM until https://github.com/gladly-team/tab/pull/1098,https://github.com/gladly-team/tab-web/pull/257,2021-10-20T23:20:51Z,2022-02-04T18:42:10Z,2,1,CLOSED
+tab-web,[TFAC-663] Use custom theming in SSR via HOC,https://github.com/gladly-team/tab-web/pull/256,2021-10-20T22:14:52Z,2021-10-22T13:21:23Z,4,27,MERGED
+tab-web,Add a centered text example for Markdown in Storybook,https://github.com/gladly-team/tab-web/pull/255,2021-10-20T19:04:04Z,2021-10-20T19:34:27Z,2,1,MERGED
+tab-web,Add new onboarding images,https://github.com/gladly-team/tab-web/pull/254,2021-10-20T14:48:49Z,2021-10-20T14:49:02Z,1,1,MERGED
+tab-web,update referral links,https://github.com/gladly-team/tab-web/pull/253,2021-10-20T04:06:42Z,2021-10-21T19:41:11Z,10,5,MERGED
+tab-web,TFAC-588 Generalizing Onboarding Flow,https://github.com/gladly-team/tab-web/pull/252,2021-10-20T00:55:22Z,2021-10-21T02:03:35Z,10,2,MERGED
+tab-web,fix theming and add a test,https://github.com/gladly-team/tab-web/pull/251,2021-10-19T20:15:22Z,2021-10-19T20:54:18Z,2,1,MERGED
+tab-web,Alec/tfac 604 - impact related content,https://github.com/gladly-team/tab-web/pull/250,2021-10-19T02:40:13Z,2021-10-20T22:46:59Z,6,10,MERGED
+tab-web,[WIP] Jtan/tfac 588,https://github.com/gladly-team/tab-web/pull/249,2021-10-19T00:46:12Z,2022-04-28T14:15:55Z,1,3,CLOSED
+tab-web,update setTheme in other pages,https://github.com/gladly-team/tab-web/pull/248,2021-10-17T15:35:03Z,2021-10-17T15:35:09Z,1,1,MERGED
+tab-web,Alec/tfac 627 3,https://github.com/gladly-team/tab-web/pull/247,2021-10-17T05:21:31Z,2021-10-17T05:21:53Z,0,2,MERGED
+tab-web,fix lint,https://github.com/gladly-team/tab-web/pull/246,2021-10-17T03:53:46Z,2021-10-17T03:53:52Z,1,1,MERGED
+tab-web,clean up code ad test,https://github.com/gladly-team/tab-web/pull/245,2021-10-17T03:45:12Z,2021-10-17T03:45:19Z,1,1,MERGED
+tab-web,Remove Vercel dependency,https://github.com/gladly-team/tab-web/pull/244,2021-10-16T21:41:57Z,2021-10-17T13:49:55Z,2,1,MERGED
+tab-web,Improve squads feature flag behavior,https://github.com/gladly-team/tab-web/pull/243,2021-10-16T21:26:24Z,2021-10-17T13:49:13Z,3,1,MERGED
+tab-web,[TFAC-623] Markdown component,https://github.com/gladly-team/tab-web/pull/242,2021-10-16T19:41:27Z,2021-10-18T01:16:38Z,3,29,MERGED
+tab-web,"Use Webpack 4, rebuild lockfile",https://github.com/gladly-team/tab-web/pull/241,2021-10-16T19:11:30Z,2021-10-16T19:28:50Z,2,1,MERGED
+tab-web,Disable squads feature for now,https://github.com/gladly-team/tab-web/pull/240,2021-10-16T17:01:02Z,2021-10-16T18:16:10Z,2,3,MERGED
+tab-web,[TFAC-380] Modify v4 API path and upgrade Next.js,https://github.com/gladly-team/tab-web/pull/239,2021-10-15T21:03:09Z,2021-10-16T16:19:00Z,2,8,MERGED
+tab-web,Upgrade many dependencies and rebuild lockfile,https://github.com/gladly-team/tab-web/pull/238,2021-10-15T19:29:05Z,2021-10-16T16:44:29Z,2,10,MERGED
+tab-web,Refactor Theming and update theme based on cause,https://github.com/gladly-team/tab-web/pull/237,2021-10-15T01:01:06Z,2021-10-18T17:58:52Z,14,19,MERGED
+tab-web,DNM: squads updates based on feedback,https://github.com/gladly-team/tab-web/pull/236,2021-10-13T21:37:55Z,2021-11-22T04:33:16Z,3,2,CLOSED
+tab-web,Upgrade tab-ads and tab-cmp,https://github.com/gladly-team/tab-web/pull/235,2021-10-13T03:08:59Z,2021-10-13T17:48:34Z,2,4,MERGED
+tab-web,add basic error state on email invite,https://github.com/gladly-team/tab-web/pull/234,2021-10-13T03:03:44Z,2021-10-14T01:25:43Z,2,1,MERGED
+tab-web,Improve flushing promises for Jest 27,https://github.com/gladly-team/tab-web/pull/233,2021-10-08T23:03:03Z,2021-10-09T00:37:41Z,2,1,MERGED
+tab-web,update ux for squads,https://github.com/gladly-team/tab-web/pull/232,2021-10-07T00:34:30Z,2021-10-07T21:10:48Z,2,3,MERGED
+tab-web,remove feedback link,https://github.com/gladly-team/tab-web/pull/231,2021-10-05T16:58:14Z,2021-10-05T20:58:24Z,2,2,MERGED
+tab-web,test2,https://github.com/gladly-team/tab-web/pull/230,2021-09-29T18:47:49Z,2021-10-05T20:25:28Z,2,6,CLOSED
+tab-web,try adding log back in,https://github.com/gladly-team/tab-web/pull/229,2021-09-29T18:33:15Z,2021-09-29T18:47:35Z,2,2,CLOSED
+tab-web,Upgrade Jest and tab-e2e,https://github.com/gladly-team/tab-web/pull/228,2021-09-24T21:48:37Z,2021-09-27T17:27:36Z,3,2,MERGED
+tab-web,Add more directories to .eslintignore,https://github.com/gladly-team/tab-web/pull/226,2021-09-23T22:03:34Z,2021-09-23T22:15:06Z,2,1,MERGED
+tab-web,Add missing peer dependencies,https://github.com/gladly-team/tab-web/pull/225,2021-09-23T20:50:56Z,2021-09-23T21:27:31Z,2,5,MERGED
+tab-web,Upgrade dependencies,https://github.com/gladly-team/tab-web/pull/223,2021-09-22T21:00:03Z,2021-09-24T19:16:37Z,2,18,MERGED
+tab-web,upgrade tab e2e,https://github.com/gladly-team/tab-web/pull/221,2021-09-19T22:03:39Z,2021-09-25T07:34:37Z,2,1,CLOSED
+tab-web,fix restart mission,https://github.com/gladly-team/tab-web/pull/220,2021-09-19T16:56:17Z,2021-09-22T20:17:08Z,2,1,MERGED
+tab-web,Fix logout bug,https://github.com/gladly-team/tab-web/pull/219,2021-09-19T16:48:10Z,2021-09-20T16:11:10Z,2,2,MERGED
+tab-web,Add ability to restart a mission,https://github.com/gladly-team/tab-web/pull/218,2021-09-14T04:39:08Z,2021-09-15T21:44:59Z,5,4,MERGED
+tab-web,show squads feature for tabforacause team members,https://github.com/gladly-team/tab-web/pull/217,2021-09-13T19:08:57Z,2021-10-07T21:11:56Z,2,2,MERGED
+tab-web,Notifications for squads,https://github.com/gladly-team/tab-web/pull/215,2021-09-01T23:15:41Z,2021-09-03T16:45:39Z,2,13,MERGED
+tab-web,Update next-firebase-auth,https://github.com/gladly-team/tab-web/pull/213,2021-09-01T14:41:01Z,2021-09-01T15:51:23Z,2,2,MERGED
+tab-web,TFAC-458 Adding SetHasSeenSquadsMutation,https://github.com/gladly-team/tab-web/pull/212,2021-08-28T21:45:03Z,2021-08-31T17:18:29Z,2,1,CLOSED
+tab-web,add new squad counter and logic to make it work,https://github.com/gladly-team/tab-web/pull/211,2021-08-24T19:02:19Z,2021-08-31T20:03:27Z,2,4,CLOSED
+tab-web,Just Running Yarn Lint,https://github.com/gladly-team/tab-web/pull/210,2021-08-19T06:47:49Z,2021-08-19T16:55:35Z,2,1,MERGED
+tab-web,TFAC-457 Mission Notifications in tab-web,https://github.com/gladly-team/tab-web/pull/209,2021-08-18T16:23:34Z,2021-09-01T18:49:07Z,4,1,CLOSED
+tab-web,Alec/tfac 460 Mission Hub and feature flags,https://github.com/gladly-team/tab-web/pull/208,2021-08-17T17:10:22Z,2021-09-01T22:48:24Z,32,45,MERGED
+tab-web,Add end notification for international cats day,https://github.com/gladly-team/tab-web/pull/207,2021-08-16T15:42:48Z,2021-08-16T15:51:49Z,2,1,MERGED
+tab-web,[TFAC-690] Upgrade next-firebase-auth and add login/logout error handling,https://github.com/gladly-team/tab-web/pull/286,2021-12-27T16:25:38Z,2022-01-04T17:36:51Z,2,5,MERGED
+tab-web,upgrade tab e2e,https://github.com/gladly-team/tab-web/pull/285,2021-12-22T18:18:29Z,2021-12-22T18:36:46Z,2,1,MERGED
+tab-web,add ability to filter causes to choose from,https://github.com/gladly-team/tab-web/pull/284,2021-12-21T22:45:29Z,2021-12-22T17:54:39Z,2,1,MERGED
+tab-web,Debugging: get a user ID token directly from Firebase for fetch,https://github.com/gladly-team/tab-web/pull/283,2021-12-19T15:56:43Z,2021-12-19T16:14:06Z,2,1,MERGED
+tab-web,dynamically toggle cause and fix bug,https://github.com/gladly-team/tab-web/pull/281,2021-12-08T04:30:42Z,2021-12-20T22:01:53Z,2,2,MERGED
+tab-web,resetting qa,https://github.com/gladly-team/tab-web/pull/280,2021-11-30T07:44:16Z,2022-01-10T20:20:44Z,2,1,CLOSED
+tab-web,Alec/tfac 720,https://github.com/gladly-team/tab-web/pull/279,2021-11-18T19:08:14Z,2021-11-30T17:20:17Z,3,5,MERGED
+tab-web,clean up account page,https://github.com/gladly-team/tab-web/pull/278,2021-11-17T04:52:59Z,2021-11-22T04:32:36Z,4,2,MERGED
+tab-web,clean up userimpact,https://github.com/gladly-team/tab-web/pull/277,2021-11-17T03:10:14Z,2021-11-22T04:33:02Z,6,2,MERGED
+tab-web,Upgrade to react 17,https://github.com/gladly-team/tab-web/pull/276,2021-11-09T17:45:37Z,2021-11-10T17:20:00Z,2,2,MERGED
+tab-web,update tab-e2e,https://github.com/gladly-team/tab-web/pull/275,2021-11-08T21:17:32Z,2021-11-08T21:32:09Z,2,1,MERGED
+tab-web,Working on displaying YahooSellNotification,https://github.com/gladly-team/tab-web/pull/330,2022-03-27T19:52:55Z,2022-04-24T04:06:41Z,2,1,CLOSED
+tab-web,TFAC-776 Tooltip for SearchInput,https://github.com/gladly-team/tab-web/pull/329,2022-03-27T03:52:05Z,2022-03-27T04:10:51Z,2,1,MERGED
+tab-web,"TFAC-776/777: Working on displaying YahooSellNotification, Modal",https://github.com/gladly-team/tab-web/pull/328,2022-03-26T19:02:26Z,2022-04-26T18:44:30Z,7,1,MERGED
+tab-web,Adopting SearchSelect to Backend Changes,https://github.com/gladly-team/tab-web/pull/327,2022-03-24T03:29:40Z,2022-03-24T15:21:42Z,2,1,MERGED
+tab-web,Adjusting DashboardPopover to take Anchor Properties,https://github.com/gladly-team/tab-web/pull/326,2022-03-24T03:08:27Z,2022-03-24T03:22:02Z,2,1,MERGED
+tab-web,"TFAC-890: Integrating SearchSelect with SearchInput, Launching Feature",https://github.com/gladly-team/tab-web/pull/325,2022-03-23T02:40:58Z,2022-03-25T03:14:13Z,2,1,MERGED
+tab-web,TFAC-895 Adding Warn Logging for Growthbook Setup,https://github.com/gladly-team/tab-web/pull/324,2022-03-15T04:20:25Z,2022-03-16T02:49:10Z,2,1,MERGED
+tab-web,TFAC-662 Adding Footer to tab-web (Settings Page),https://github.com/gladly-team/tab-web/pull/323,2022-03-14T14:10:27Z,2022-03-18T20:16:34Z,6,3,MERGED
+tab-web,TFAC-909 Adding LogSearchMutation to SearchInput,https://github.com/gladly-team/tab-web/pull/322,2022-03-11T15:55:44Z,2022-03-15T00:28:48Z,2,1,MERGED
+tab-web,Upgrade tab-ads,https://github.com/gladly-team/tab-web/pull/321,2022-03-08T23:10:05Z,2022-03-08T23:18:24Z,2,1,MERGED
+tab-web,TFAC-892 Changing Yahoo Search Engine Components to SFAC Copy,https://github.com/gladly-team/tab-web/pull/320,2022-03-05T04:39:40Z,2022-03-09T16:22:18Z,5,2,MERGED
+tab-web,Make an inconsequential UI change to test UI review flow,https://github.com/gladly-team/tab-web/pull/319,2022-03-04T21:40:13Z,2022-03-04T21:51:34Z,2,1,MERGED
+tab-web,Enable UI reviews,https://github.com/gladly-team/tab-web/pull/318,2022-03-04T20:22:20Z,2022-03-04T21:38:08Z,2,7,MERGED
+tab-web,TFAC-801 Logging UserExperiment in trackingCallback,https://github.com/gladly-team/tab-web/pull/317,2022-03-03T04:03:56Z,2022-03-05T03:20:40Z,3,2,MERGED
+tab-web,TFAC-804 Adding Feature Flag for Yahoo Search,https://github.com/gladly-team/tab-web/pull/316,2022-03-01T06:59:39Z,2022-03-03T01:31:14Z,2,1,MERGED
+tab-web,"Generalize ""Switch cause"" text for simplicity",https://github.com/gladly-team/tab-web/pull/315,2022-02-25T21:06:23Z,2022-02-25T21:24:29Z,2,1,MERGED
+tab-web,Add cause icon tooltips and new water icon,https://github.com/gladly-team/tab-web/pull/314,2022-02-25T20:12:09Z,2022-02-25T20:26:14Z,2,2,MERGED
+tab-web,Add food-apple icon,https://github.com/gladly-team/tab-web/pull/313,2022-02-25T16:44:12Z,2022-02-25T17:25:57Z,2,2,MERGED
+tab-web,Upgrade tab-e2e,https://github.com/gladly-team/tab-web/pull/312,2022-02-25T03:31:50Z,2022-02-25T15:37:09Z,2,2,MERGED
+tab-web,Fix account close bug test,https://github.com/gladly-team/tab-web/pull/311,2022-02-25T03:19:12Z,2022-02-25T03:19:18Z,1,1,MERGED
+tab-web,Fix bug in settings page close button,https://github.com/gladly-team/tab-web/pull/310,2022-02-25T03:13:20Z,2022-02-25T03:13:26Z,1,1,MERGED
+tab-web,Various edits to the UX,https://github.com/gladly-team/tab-web/pull/309,2022-02-25T02:44:55Z,2022-02-25T02:59:50Z,2,5,MERGED
+tab-web,Make the cause icon code more DRY; add medical-bag icon,https://github.com/gladly-team/tab-web/pull/308,2022-02-24T22:33:22Z,2022-02-25T01:53:49Z,2,3,MERGED
+tab-web,TFAC-778 UI Element for Selecting Search Engine,https://github.com/gladly-team/tab-web/pull/307,2022-02-22T04:34:46Z,2022-02-28T21:31:57Z,2,1,MERGED
+tab-web,Support trees cause; make impact and onboarding more flexible,https://github.com/gladly-team/tab-web/pull/306,2022-02-21T21:52:58Z,2022-02-22T14:59:43Z,2,4,MERGED
+tab-web,TFAC-789: Setting up Growthbook SDK,https://github.com/gladly-team/tab-web/pull/304,2022-02-17T05:04:56Z,2022-03-01T01:32:36Z,5,1,MERGED
+tab-web,Update tab-e2e,https://github.com/gladly-team/tab-web/pull/303,2022-02-14T20:09:18Z,2022-02-14T20:23:12Z,2,1,MERGED
+tab-web,Add Google Analytics event and property,https://github.com/gladly-team/tab-web/pull/302,2022-02-14T18:44:17Z,2022-02-14T20:38:29Z,2,6,MERGED
+tab-web,TFAC-866 Modal for Selling Yahoo,https://github.com/gladly-team/tab-web/pull/301,2022-02-13T06:08:28Z,2022-02-18T01:54:10Z,6,1,MERGED
+tab-web,Fix broken feedback link,https://github.com/gladly-team/tab-web/pull/299,2022-02-07T23:45:24Z,2022-02-07T23:49:06Z,2,1,MERGED
+tab-web,TFAC-779 Search Test Mutations,https://github.com/gladly-team/tab-web/pull/298,2022-02-05T07:09:57Z,2022-02-08T22:02:22Z,5,2,MERGED
+tab-web,even spacing,https://github.com/gladly-team/tab-web/pull/297,2022-02-01T17:59:52Z,2022-02-02T18:53:56Z,2,1,MERGED
+tab-web,image attribution feature,https://github.com/gladly-team/tab-web/pull/296,2022-01-31T22:39:24Z,2023-01-23T20:08:05Z,4,2,CLOSED
+tab-web,Upgrade tab-e2e,https://github.com/gladly-team/tab-web/pull/295,2022-01-30T15:44:53Z,2022-01-30T16:04:58Z,2,1,MERGED
+tab-web,TFAC-803 Make Notification Component More Flexible,https://github.com/gladly-team/tab-web/pull/294,2022-01-27T02:49:53Z,2022-02-02T19:00:16Z,2,2,MERGED
+tab-web,add rest of cause data to mutation,https://github.com/gladly-team/tab-web/pull/291,2022-01-13T22:01:06Z,2022-01-13T22:01:25Z,1,1,MERGED
+tab-web,even button spacing,https://github.com/gladly-team/tab-web/pull/290,2022-01-13T21:28:24Z,2022-01-13T21:38:46Z,3,1,MERGED
+tab-web,front end for black equity,https://github.com/gladly-team/tab-web/pull/289,2022-01-11T22:57:30Z,2022-01-13T14:46:21Z,2,3,MERGED
+tab-web,rest qa,https://github.com/gladly-team/tab-web/pull/288,2022-01-10T20:21:49Z,2022-02-04T18:42:31Z,2,1,CLOSED
+tab-web,TFAC-800: Adding individualImpactEnabled Functionality to tab-web,https://github.com/gladly-team/tab-web/pull/287,2022-01-10T04:06:20Z,2022-01-11T19:42:18Z,2,1,MERGED
+tab-web,Add Quantcast Measure,https://github.com/gladly-team/tab-web/pull/354,2022-05-06T14:39:26Z,2022-05-06T17:49:23Z,2,3,MERGED
+tab-web,"Add a ""Supporting: [cause]"" chip to the new tab page",https://github.com/gladly-team/tab-web/pull/353,2022-05-04T00:22:19Z,2022-05-04T19:42:26Z,2,5,MERGED
+tab-web,Add Storybook stories for onboarding flow,https://github.com/gladly-team/tab-web/pull/352,2022-05-03T21:48:01Z,2022-05-03T22:28:33Z,2,4,MERGED
+tab-web,Update cause icons,https://github.com/gladly-team/tab-web/pull/351,2022-05-03T21:29:08Z,2022-05-03T21:47:25Z,2,1,MERGED
+tab-web,Updating Mutations for Search Test Logic,https://github.com/gladly-team/tab-web/pull/349,2022-04-28T19:36:37Z,2022-04-29T13:07:38Z,2,1,MERGED
+tab-web,Small State Change for Notification,https://github.com/gladly-team/tab-web/pull/348,2022-04-28T04:02:49Z,2022-04-28T13:44:15Z,2,1,MERGED
+tab-web,Add logic for user survey notification,https://github.com/gladly-team/tab-web/pull/347,2022-04-21T18:14:43Z,2022-04-22T15:25:41Z,5,8,MERGED
+tab-web,Make Notification more reusable by removing some styling,https://github.com/gladly-team/tab-web/pull/346,2022-04-21T14:45:55Z,2022-04-21T15:23:41Z,2,4,MERGED
+tab-web,Fix undefined return bug in LogSearch mutation,https://github.com/gladly-team/tab-web/pull/345,2022-04-20T17:15:05Z,2022-04-20T17:26:59Z,2,1,MERGED
+tab-web,Await search event logging,https://github.com/gladly-team/tab-web/pull/344,2022-04-19T18:53:32Z,2022-04-19T20:14:55Z,2,4,MERGED
+tab-web,Fix Account Test,https://github.com/gladly-team/tab-web/pull/343,2022-04-13T22:03:27Z,2022-04-14T16:09:33Z,2,1,MERGED
+tab-web,Launch a new test experiment,https://github.com/gladly-team/tab-web/pull/342,2022-04-13T19:13:42Z,2022-04-13T20:01:49Z,2,2,MERGED
+tab-web,Ignore additional network errors,https://github.com/gladly-team/tab-web/pull/341,2022-04-12T18:09:18Z,2022-04-12T18:52:25Z,2,1,MERGED
+tab-web,Update user experiment mutation,https://github.com/gladly-team/tab-web/pull/340,2022-04-11T20:42:29Z,2022-04-12T17:58:42Z,2,5,MERGED
+tab-web,Modify error logging filters,https://github.com/gladly-team/tab-web/pull/338,2022-04-06T19:05:00Z,2022-04-06T19:20:46Z,2,1,MERGED
+tab-web,UI Changes for SearchSelect,https://github.com/gladly-team/tab-web/pull/337,2022-04-06T15:25:46Z,2022-04-11T18:23:13Z,4,2,MERGED
+tab-web,Set up frontend behavior for a test experiment,https://github.com/gladly-team/tab-web/pull/336,2022-04-05T20:05:24Z,2022-04-06T19:00:56Z,2,3,MERGED
+tab-web,TFAC-891: Adding Passing in Search Engine from Index,https://github.com/gladly-team/tab-web/pull/335,2022-04-05T04:03:43Z,2022-04-14T18:29:42Z,10,2,MERGED
+tab-web,Reduce error logging noise,https://github.com/gladly-team/tab-web/pull/334,2022-04-04T16:42:36Z,2022-04-04T17:04:14Z,2,3,MERGED
+tab-web,Change LogSearch mutation input,https://github.com/gladly-team/tab-web/pull/333,2022-04-04T15:27:24Z,2022-04-04T16:18:36Z,2,1,MERGED
+tab-web,Upgrade tab-ads to stable version,https://github.com/gladly-team/tab-web/pull/332,2022-04-04T15:14:04Z,2022-04-04T15:28:52Z,2,2,MERGED
+tab-web,Remove use of system env var,https://github.com/gladly-team/tab-web/pull/363,2022-07-20T20:22:37Z,2022-07-20T21:04:27Z,2,4,MERGED
+tab-web,Remove unneeded env vars,https://github.com/gladly-team/tab-web/pull/361,2022-07-20T16:54:51Z,2022-07-20T16:55:08Z,2,1,MERGED
+tab-web,TFAC-1068: Rotate cookie signing keys,https://github.com/gladly-team/tab-web/pull/359,2022-07-11T21:10:18Z,2022-07-11T21:27:29Z,2,1,MERGED
+tab-web,[DNM] TFAC-1038 Remove LogSearchMutation,https://github.com/gladly-team/tab-web/pull/358,2022-06-27T11:28:49Z,2022-09-04T17:19:27Z,2,2,CLOSED
+tab-web,"Show the ""Supporting [cause]"" chip to all users",https://github.com/gladly-team/tab-web/pull/357,2022-06-24T17:47:00Z,2022-06-24T18:05:27Z,2,1,MERGED
+tab-web,Use new search URL for Search for a Cause,https://github.com/gladly-team/tab-web/pull/356,2022-06-03T15:31:52Z,2022-06-07T00:05:26Z,2,4,MERGED
+tab-web,TFAC-1034: Tooltip Bucket for Experiment V2,https://github.com/gladly-team/tab-web/pull/355,2022-06-02T23:07:03Z,2022-06-06T18:26:06Z,3,2,MERGED
+tab-web,TFAC-1157 Showing 3rd Ad on v4,https://github.com/gladly-team/tab-web/pull/394,2022-10-31T16:47:31Z,2022-11-01T17:36:49Z,2,1,MERGED
+tab-web,TFAC-1157 Setting Features in local storage on index Page Load,https://github.com/gladly-team/tab-web/pull/393,2022-10-30T05:30:02Z,2022-10-31T20:10:54Z,2,1,MERGED
+tab-web,TFAC-1157: Helper Methods to write Features to LocalStorage,https://github.com/gladly-team/tab-web/pull/392,2022-10-28T17:36:38Z,2022-10-29T19:54:22Z,2,1,MERGED
+tab-web,Upgrade Next.js from 10.0.5 to 10.2.3 to fix Safari error,https://github.com/gladly-team/tab-web/pull/391,2022-10-27T19:46:50Z,2022-10-27T20:19:18Z,2,3,MERGED
+tab-web,TFAC-990: VerticalLinearProgress UI Element,https://github.com/gladly-team/tab-web/pull/390,2022-10-26T23:28:36Z,2022-11-04T04:58:10Z,3,2,MERGED
+tab-web,"TFAC-935 Use Rounded, Teal Buttons",https://github.com/gladly-team/tab-web/pull/389,2022-10-23T15:28:28Z,2022-11-30T17:36:44Z,4,4,MERGED
+tab-web,Change Font-Family to Poppins/Roboto,https://github.com/gladly-team/tab-web/pull/388,2022-10-21T12:45:39Z,2022-10-26T23:07:57Z,5,3,MERGED
+tab-web,Update tab-ads,https://github.com/gladly-team/tab-web/pull/387,2022-10-19T18:37:51Z,2022-10-19T19:02:58Z,2,1,MERGED
+tab-web,TFAC-993 Using impactType in v4 front-end,https://github.com/gladly-team/tab-web/pull/386,2022-10-17T11:28:21Z,2022-10-18T01:01:26Z,2,1,MERGED
+tab-web,TFAC-1134 Making Default border-radius 12px,https://github.com/gladly-team/tab-web/pull/385,2022-10-16T22:59:19Z,2022-10-20T01:12:28Z,2,1,MERGED
+tab-web,Change default new tab background color to dark color,https://github.com/gladly-team/tab-web/pull/384,2022-10-12T19:35:03Z,2022-10-12T19:35:25Z,1,1,MERGED
+tab-web,TFAC-1017 GroupGoalNotification Component,https://github.com/gladly-team/tab-web/pull/383,2022-10-06T01:24:47Z,2022-10-07T00:07:46Z,3,2,MERGED
+tab-web,$1.5M notification UI,https://github.com/gladly-team/tab-web/pull/382,2022-10-05T18:57:20Z,2022-10-05T19:27:20Z,2,2,MERGED
+tab-web,Modify SFAC extension notification copy,https://github.com/gladly-team/tab-web/pull/381,2022-09-29T18:36:44Z,2022-09-29T19:06:24Z,2,3,MERGED
+tab-web,Grant write permissions to GitHub token for E2E tests,https://github.com/gladly-team/tab-web/pull/380,2022-09-21T15:43:27Z,2022-09-21T17:19:32Z,2,1,MERGED
+tab-web,UI edits to Search activity icon,https://github.com/gladly-team/tab-web/pull/378,2022-09-12T22:11:00Z,2022-09-13T20:46:52Z,3,27,MERGED
+tab-web,Upgrade Storybook and Chromatic dependencies,https://github.com/gladly-team/tab-web/pull/377,2022-09-12T20:37:06Z,2022-09-12T22:20:08Z,2,6,MERGED
+tab-web,TFAC-1123 New logic in browserSupport for Searches UI Element,https://github.com/gladly-team/tab-web/pull/376,2022-09-11T15:04:26Z,2022-09-11T23:10:11Z,2,1,MERGED
+tab-web,Improve browser detection logic,https://github.com/gladly-team/tab-web/pull/375,2022-09-04T17:16:02Z,2022-09-06T15:12:37Z,2,17,MERGED
+tab-web,Only show SFAC prompt after fetching fresh data,https://github.com/gladly-team/tab-web/pull/374,2022-09-04T16:46:24Z,2022-09-04T17:12:38Z,2,4,MERGED
+tab-web,TFAC-118 SFAC Info Component Integration Logic,https://github.com/gladly-team/tab-web/pull/373,2022-09-01T03:52:52Z,2022-09-12T03:26:23Z,2,11,MERGED
+tab-web,TFAC-1117 Presentational Components for new SFAC Tab Page Component,https://github.com/gladly-team/tab-web/pull/372,2022-08-31T19:40:22Z,2022-09-10T21:21:27Z,12,3,MERGED
+tab-web,"Add ""isDataFresh"" property to useData hook",https://github.com/gladly-team/tab-web/pull/371,2022-08-30T20:46:15Z,2022-09-04T16:44:06Z,2,4,MERGED
+tab-web,"TFAC-1117 On-tab Search Integration, Search Button",https://github.com/gladly-team/tab-web/pull/370,2022-08-29T23:12:28Z,2022-08-30T20:41:08Z,2,1,MERGED
+tab-web,TFAC-1090 Adding SFAC Experiment Mutation,https://github.com/gladly-team/tab-web/pull/369,2022-08-24T18:24:30Z,2022-08-24T21:00:19Z,2,1,MERGED
+tab-web,College ambassador notification UI,https://github.com/gladly-team/tab-web/pull/368,2022-08-23T19:08:47Z,2022-08-23T19:38:47Z,2,4,MERGED
+tab-web,TFAC-1038 Removing Client Side LogSearchMutation Call,https://github.com/gladly-team/tab-web/pull/367,2022-08-23T12:34:30Z,2022-08-23T13:26:17Z,2,1,MERGED
+tab-web,TFAC-1105 Porting Browser Detection Utils from tab,https://github.com/gladly-team/tab-web/pull/366,2022-08-23T11:47:31Z,2022-08-23T14:59:54Z,3,1,MERGED
+tab-web,TFAC-1090 SFAC Extension AB Test,https://github.com/gladly-team/tab-web/pull/365,2022-08-17T15:31:21Z,2022-09-04T16:33:30Z,8,9,MERGED
+tab-web,TFAC-1090 SFAC Extension Sell Notification - Purely Presentational,https://github.com/gladly-team/tab-web/pull/364,2022-08-13T02:45:37Z,2022-08-16T06:40:46Z,2,1,MERGED
+tab-web,TFAC-992 Starting GroupImpact (integrating into index.js),https://github.com/gladly-team/tab-web/pull/418,2022-12-27T15:23:59Z,2023-02-10T17:46:55Z,5,1,MERGED
+tab-web,TFAC-992 Integrating GroupGoalNotification,https://github.com/gladly-team/tab-web/pull/417,2022-12-25T21:42:56Z,2022-12-26T05:28:41Z,2,1,MERGED
+tab-web,TFAC-1004 Wiring up GroupImpactSidebar in GroupImpact,https://github.com/gladly-team/tab-web/pull/416,2022-12-22T15:16:29Z,2022-12-24T21:16:57Z,3,2,MERGED
+tab-web,TFAC-1105 Wiring up Celebration Component for GroupImpact,https://github.com/gladly-team/tab-web/pull/415,2022-12-21T18:44:36Z,2022-12-22T16:16:27Z,3,1,MERGED
+tab-web,TFAC-1004 localstorage Utility Functions to Power GroupImpact Component,https://github.com/gladly-team/tab-web/pull/414,2022-12-20T18:05:50Z,2022-12-20T21:02:29Z,3,2,MERGED
+tab-web,TFAC-1018 Adding Switch Goal Fade Animation,https://github.com/gladly-team/tab-web/pull/413,2022-12-20T01:56:33Z,2022-12-20T21:01:37Z,3,1,MERGED
+tab-web,TFAC-1004: Skeleton Component for integrating GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/412,2022-12-18T02:17:19Z,2022-12-19T19:49:25Z,2,1,MERGED
+tab-web,TFAC-1018 Adding Moving Bar Functionality to VerticalLinearProgress,https://github.com/gladly-team/tab-web/pull/411,2022-12-15T07:28:02Z,2022-12-19T19:49:36Z,2,1,MERGED
+tab-web,Upgrade tab-cmp,https://github.com/gladly-team/tab-web/pull/410,2022-12-13T23:59:01Z,2022-12-14T00:18:29Z,2,3,MERGED
+tab-web,TFAC-1018 Forgot a Button for GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/409,2022-12-13T07:50:21Z,2022-12-15T03:17:33Z,2,1,MERGED
+tab-web,TFAC-1018 Open/Close Transition for GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/408,2022-12-12T23:23:43Z,2022-12-15T03:17:24Z,3,1,MERGED
+tab-web,TFAC-1018 Hover Animation for GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/407,2022-12-12T06:43:24Z,2022-12-12T17:37:23Z,2,1,MERGED
+tab-web,Update notification,https://github.com/gladly-team/tab-web/pull/406,2022-12-09T20:13:48Z,2022-12-09T21:45:39Z,2,1,MERGED
+tab-web,TFAC-1018 GroupImpactSidebar pt.1 (Excluding Animations),https://github.com/gladly-team/tab-web/pull/404,2022-12-01T18:55:18Z,2022-12-10T06:08:43Z,5,2,MERGED
+tab-web,Set up December campaign notification,https://github.com/gladly-team/tab-web/pull/403,2022-12-01T15:52:32Z,2022-12-01T16:50:27Z,2,4,MERGED
+tab-web,TFAC-991 Confetti Component,https://github.com/gladly-team/tab-web/pull/402,2022-11-22T08:03:47Z,2022-11-28T17:10:28Z,4,2,MERGED
+tab-web,TFAC-1018 GroupImpactSidebar ,https://github.com/gladly-team/tab-web/pull/401,2022-11-21T02:30:20Z,2022-12-01T18:45:19Z,2,6,CLOSED
+tab-web,Adjust minimum window height to show third ad,https://github.com/gladly-team/tab-web/pull/400,2022-11-17T22:16:44Z,2022-11-17T22:29:51Z,2,1,MERGED
+tab-web,Upgrade tab-ads,https://github.com/gladly-team/tab-web/pull/399,2022-11-15T21:27:30Z,2022-11-16T16:11:21Z,2,2,MERGED
+tab-web,TFAC-1170 Hiding third ad if Screen Too Small,https://github.com/gladly-team/tab-web/pull/398,2022-11-11T17:28:38Z,2022-11-13T19:43:26Z,2,1,MERGED
+tab-web,TFAC-1165 New Search Notification on v4,https://github.com/gladly-team/tab-web/pull/397,2022-11-09T15:35:35Z,2022-11-10T02:15:52Z,4,2,MERGED
+tab-web,TFAC-1165 New SearchbarSFACSellNotification,https://github.com/gladly-team/tab-web/pull/396,2022-11-07T15:06:49Z,2022-11-09T14:54:18Z,3,2,MERGED
+tab-web,TFAC-1169 Fixing localStorageFeaturesManager,https://github.com/gladly-team/tab-web/pull/395,2022-11-07T02:30:03Z,2022-11-07T17:47:58Z,2,1,MERGED
+tab-web,Adding Multiple Values for VerticalLinearProgress,https://github.com/gladly-team/tab-web/pull/454,2023-03-31T04:44:05Z,2023-03-31T05:14:55Z,2,1,MERGED
+tab-web,AboutTheNonprofit Markdown Changes,https://github.com/gladly-team/tab-web/pull/453,2023-03-28T17:11:55Z,2023-03-28T17:28:53Z,2,1,MERGED
+tab-web,Use Longform Description for AboutTheNonprofit Component,https://github.com/gladly-team/tab-web/pull/452,2023-03-28T16:58:41Z,2023-03-29T03:14:47Z,1,1,MERGED
+tab-web,Adjust AboutTheCause Logic,https://github.com/gladly-team/tab-web/pull/451,2023-03-26T20:11:50Z,2023-03-26T23:42:35Z,2,1,MERGED
+tab-web,Added notification for our SHFAC launch,https://github.com/gladly-team/tab-web/pull/450,2023-03-26T17:58:30Z,2023-03-27T18:47:33Z,2,2,MERGED
+tab-web,TFAC-1248: CauseIcon for LGBTQ,https://github.com/gladly-team/tab-web/pull/449,2023-03-22T04:44:57Z,2023-03-23T05:33:26Z,2,1,MERGED
+tab-web,Removed march user survey,https://github.com/gladly-team/tab-web/pull/448,2023-03-20T16:05:53Z,2023-03-20T17:18:48Z,2,1,MERGED
+tab-web,BAAPI-1247 Fix Z-Index on New Tab Page,https://github.com/gladly-team/tab-web/pull/447,2023-03-20T02:38:53Z,2023-03-22T04:31:50Z,2,1,MERGED
+tab-web,Launched March 2023 Survey,https://github.com/gladly-team/tab-web/pull/446,2023-03-15T16:57:01Z,2023-03-15T17:29:27Z,2,1,MERGED
+tab-web,Fixing Storybook / Gtag Bug,https://github.com/gladly-team/tab-web/pull/445,2023-03-12T19:55:34Z,2023-03-13T18:38:52Z,2,1,MERGED
+tab-web,Fixing Search URL in GroupImpactSidebar Callout,https://github.com/gladly-team/tab-web/pull/444,2023-03-10T20:54:30Z,2023-03-12T18:31:43Z,1,1,MERGED
+tab-web,Temp Fix - Put Ads On Top,https://github.com/gladly-team/tab-web/pull/443,2023-03-10T20:44:18Z,2023-03-11T05:45:22Z,2,1,MERGED
+tab-web,Update GroupImpactSidebar.js Margin,https://github.com/gladly-team/tab-web/pull/442,2023-03-09T22:35:00Z,2023-03-09T22:45:55Z,2,1,MERGED
+tab-web,TFAC-1220 Search Upsell Widget in GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/441,2023-03-07T05:43:04Z,2023-03-09T21:29:40Z,3,1,MERGED
+tab-web,TFAC-1172 Integration PR,https://github.com/gladly-team/tab-web/pull/440,2023-03-03T19:37:03Z,2023-03-06T05:03:18Z,2,3,MERGED
+tab-web,Integrating AboutTheCause Component with about.js,https://github.com/gladly-team/tab-web/pull/439,2023-03-02T06:49:11Z,2023-03-02T18:59:22Z,2,1,MERGED
+tab-web,TFAC-1172 About the Cause Component,https://github.com/gladly-team/tab-web/pull/438,2023-03-01T08:04:12Z,2023-03-02T17:58:00Z,2,1,MERGED
+tab-web,TFAC-1172 AboutTheNonprofit Component,https://github.com/gladly-team/tab-web/pull/437,2023-03-01T06:08:19Z,2023-03-01T07:52:12Z,2,1,MERGED
+tab-web,"Chromatic requires v16, so Fixing That",https://github.com/gladly-team/tab-web/pull/436,2023-02-24T07:37:41Z,2023-02-24T20:25:31Z,2,1,MERGED
+tab-web,TFAC-1172 Impact Component Work,https://github.com/gladly-team/tab-web/pull/435,2023-02-24T07:20:36Z,2023-03-01T05:15:21Z,3,1,MERGED
+tab-web,Adjusting GroupImpactSidebar Copy,https://github.com/gladly-team/tab-web/pull/434,2023-02-22T06:33:43Z,2023-02-24T20:36:43Z,2,1,MERGED
+tab-web,[TFAC-1215] Hide 3rd app when notifications are up.,https://github.com/gladly-team/tab-web/pull/433,2023-02-22T04:39:25Z,2023-02-22T04:59:51Z,2,1,MERGED
+tab-web,Adding Google Analytics Tracking to GroupImpact Components,https://github.com/gladly-team/tab-web/pull/432,2023-02-20T05:57:38Z,2023-02-22T07:10:51Z,2,1,MERGED
+tab-web,[TAFC-1206]: End test for 3rd ad,https://github.com/gladly-team/tab-web/pull/431,2023-02-17T19:51:33Z,2023-02-21T17:58:14Z,2,1,MERGED
+tab-web,Final Touches for GroupImpact,https://github.com/gladly-team/tab-web/pull/430,2023-02-15T23:58:44Z,2023-02-16T17:56:25Z,2,2,MERGED
+tab-web,Took down the Rainforest Alliance campaign notification,https://github.com/gladly-team/tab-web/pull/429,2023-02-14T18:47:23Z,2023-02-14T19:22:20Z,2,1,MERGED
+tab-web,Fixed (at least until we can look closer) the search bar not clicking),https://github.com/gladly-team/tab-web/pull/428,2023-02-10T23:39:38Z,2023-02-10T23:40:47Z,1,2,MERGED
+tab-web,Fixed (at least until we can look closer) the search bar not clicking),https://github.com/gladly-team/tab-web/pull/427,2023-02-10T23:34:12Z,2023-02-10T23:34:24Z,1,1,MERGED
+tab-web,"[TFAC-1023]: Test out a stronger ""supporting"" statement on the new tab page",https://github.com/gladly-team/tab-web/pull/426,2023-02-08T01:09:07Z,2023-02-08T01:47:40Z,3,1,MERGED
+tab-web,Updated the copy for the Feb 2023 Notification,https://github.com/gladly-team/tab-web/pull/425,2023-02-02T18:57:41Z,2023-02-02T21:06:16Z,2,1,MERGED
+tab-web,Removed Jan2023 notification and added Feb2023,https://github.com/gladly-team/tab-web/pull/423,2023-02-02T14:52:58Z,2023-02-02T16:30:45Z,2,1,MERGED
+tab-web,Installed js for getadmiral.com,https://github.com/gladly-team/tab-web/pull/421,2023-01-26T00:21:09Z,2023-01-26T03:30:07Z,2,1,MERGED
+tab-web,Disable problematic group impact tests for now,https://github.com/gladly-team/tab-web/pull/420,2023-01-23T15:24:11Z,2023-01-23T16:18:36Z,2,3,MERGED
+tab-web,Set up Jan 2023 SFAC notification,https://github.com/gladly-team/tab-web/pull/419,2023-01-21T22:24:12Z,2023-01-22T01:19:03Z,2,7,MERGED
+tab-web,Fixed notifications To Show,https://github.com/gladly-team/tab-web/pull/477,2023-05-16T22:42:03Z,2023-05-16T22:57:22Z,2,1,MERGED
+tab-web,TFAC-1239 Build Frontend for Group Impact Count,https://github.com/gladly-team/tab-web/pull/476,2023-05-16T08:31:36Z,2023-06-03T06:19:15Z,2,2,MERGED
+tab-web,TFAC-1226 Split bar on Group Impact for Tabs & Searches,https://github.com/gladly-team/tab-web/pull/475,2023-05-16T06:38:02Z,2023-06-15T06:56:52Z,2,3,MERGED
+tab-web,Killed mother’s day promo,https://github.com/gladly-team/tab-web/pull/474,2023-05-15T17:08:01Z,2023-05-15T17:20:12Z,1,1,MERGED
+tab-web,Activated mother’s day promo,https://github.com/gladly-team/tab-web/pull/473,2023-05-09T02:31:37Z,2023-05-09T02:44:35Z,1,1,MERGED
+tab-web,Disable mother’s day promo while we fix a bug.,https://github.com/gladly-team/tab-web/pull/472,2023-05-09T00:08:50Z,2023-05-09T00:08:57Z,1,1,MERGED
+tab-web,Launching mother's day 2023 promo,https://github.com/gladly-team/tab-web/pull/471,2023-05-08T23:33:58Z,2023-05-08T23:43:10Z,1,2,MERGED
+tab-web,AddShortcut Page,https://github.com/gladly-team/tab-web/pull/469,2023-05-02T00:35:33Z,2023-07-31T06:20:29Z,2,1,MERGED
+tab-web,TFAC-483: Add Shortcut Component,https://github.com/gladly-team/tab-web/pull/468,2023-04-30T21:18:48Z,2023-05-02T04:33:45Z,2,1,MERGED
+tab-web,Killed the admiral,https://github.com/gladly-team/tab-web/pull/467,2023-04-28T15:43:17Z,2023-04-28T15:43:25Z,1,1,MERGED
+tab-web,Tweaking Group Impact Copy,https://github.com/gladly-team/tab-web/pull/466,2023-04-26T05:56:26Z,2023-04-26T20:52:16Z,2,1,MERGED
+tab-web,Updated the links to shop extension.,https://github.com/gladly-team/tab-web/pull/465,2023-04-17T20:25:02Z,2023-04-17T20:25:27Z,1,1,MERGED
+tab-web,Returning null for GroupImpact if for some reason it is still null,https://github.com/gladly-team/tab-web/pull/464,2023-04-16T00:35:34Z,2023-04-16T01:27:05Z,2,1,MERGED
+tab-web,Fixed linting issues.,https://github.com/gladly-team/tab-web/pull/463,2023-04-14T19:21:19Z,2023-04-14T19:39:30Z,2,1,MERGED
+tab-web,Added 3 different A/B testing for shop notify,https://github.com/gladly-team/tab-web/pull/462,2023-04-14T18:39:49Z,2023-04-14T19:18:14Z,1,1,MERGED
+tab-web,Updated the Admiral code to just track adblockers vs giving user a no…,https://github.com/gladly-team/tab-web/pull/461,2023-04-14T06:08:41Z,2023-04-14T06:28:35Z,2,1,MERGED
+tab-web,Updated the Admiral code to just track adblockers vs giving user a no…,https://github.com/gladly-team/tab-web/pull/460,2023-04-14T04:45:37Z,2023-04-14T04:45:45Z,1,1,MERGED
+tab-web,Upgrade tab-ads,https://github.com/gladly-team/tab-web/pull/459,2023-04-13T17:39:44Z,2023-04-13T18:47:19Z,2,2,MERGED
+tab-web,Upgrade tab-ads,https://github.com/gladly-team/tab-web/pull/458,2023-04-12T22:50:28Z,2023-04-13T05:58:43Z,2,1,MERGED
+tab-web,TFAC-1258 Supporting Group and Individual Impact on the Front-End,https://github.com/gladly-team/tab-web/pull/457,2023-04-07T21:46:35Z,2023-04-10T23:53:41Z,2,1,MERGED
+tab-web,TFAC-1258: Replace Search Widget with Sell Widget,https://github.com/gladly-team/tab-web/pull/456,2023-04-05T04:20:04Z,2023-04-05T22:13:17Z,2,1,MERGED
+tab-web,Read Multiple Charities per Cause,https://github.com/gladly-team/tab-web/pull/455,2023-04-02T22:39:09Z,2023-04-04T18:50:38Z,2,1,MERGED
+tab-web,killed non pre bid index exchange,https://github.com/gladly-team/tab-web/pull/513,2023-07-31T22:11:18Z,2023-07-31T22:38:04Z,2,2,MERGED
+tab-web,Adding Existing Values to AddShortcut Form,https://github.com/gladly-team/tab-web/pull/512,2023-07-31T17:10:43Z,2023-08-01T05:36:21Z,2,1,MERGED
+tab-web,Removed old index exchange stuff from our header,https://github.com/gladly-team/tab-web/pull/511,2023-07-31T17:08:59Z,2023-07-31T22:10:50Z,2,2,CLOSED
+tab-web,Adding Frontpage Caret,https://github.com/gladly-team/tab-web/pull/510,2023-07-30T18:49:38Z,2023-07-30T19:05:13Z,2,1,MERGED
+tab-web,FrontpageShortcutList Component,https://github.com/gladly-team/tab-web/pull/509,2023-07-27T07:37:42Z,2023-07-29T22:30:57Z,2,1,MERGED
+tab-web,Wire Up Settings Page for Bookmarks,https://github.com/gladly-team/tab-web/pull/508,2023-07-21T04:32:45Z,2023-07-25T06:03:58Z,2,1,MERGED
+tab-web,"Adjust Stories, fix Hyperlink",https://github.com/gladly-team/tab-web/pull/507,2023-07-20T16:40:23Z,2023-07-20T17:21:12Z,2,1,MERGED
+tab-web,launch full page SHFAC promo for aug,https://github.com/gladly-team/tab-web/pull/506,2023-07-20T06:48:08Z,2023-07-20T07:07:23Z,2,1,MERGED
+tab-web,Add Link Functionality stopPropagation,https://github.com/gladly-team/tab-web/pull/505,2023-07-20T00:45:29Z,2023-07-20T01:29:58Z,2,1,MERGED
+tab-web,Add Code to make sure Descending Leaderboard Entries,https://github.com/gladly-team/tab-web/pull/504,2023-07-19T06:44:48Z,2023-07-20T00:17:40Z,2,1,MERGED
+tab-web,Add Hyperlink to GroupImpactLeaderboard,https://github.com/gladly-team/tab-web/pull/502,2023-07-18T05:31:10Z,2023-07-18T16:16:08Z,2,1,MERGED
+tab-web,Add Widget Mutations to tab-web,https://github.com/gladly-team/tab-web/pull/501,2023-07-17T16:44:23Z,2023-07-17T23:03:12Z,2,1,MERGED
+tab-web,Fix Env Var,https://github.com/gladly-team/tab-web/pull/500,2023-07-14T23:54:34Z,2023-07-17T16:43:20Z,2,1,MERGED
+tab-web,"Fixing some Spacing, Fixing Env Var",https://github.com/gladly-team/tab-web/pull/499,2023-07-13T21:35:08Z,2023-07-14T21:41:18Z,2,1,MERGED
+tab-web,Fix UI Settings,https://github.com/gladly-team/tab-web/pull/498,2023-07-13T14:47:23Z,2023-07-13T15:38:24Z,2,1,MERGED
+tab-web,Improving Styling for GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/497,2023-07-13T03:54:42Z,2023-07-13T14:08:35Z,2,1,MERGED
+tab-web,Leaderboard Improvements,https://github.com/gladly-team/tab-web/pull/496,2023-07-12T03:26:40Z,2023-07-13T03:06:45Z,2,1,MERGED
+tab-web,Made promo a bit bigger to look better with new copy.,https://github.com/gladly-team/tab-web/pull/494,2023-07-11T05:19:22Z,2023-07-11T05:19:35Z,1,2,MERGED
+tab-web,Changed the copy on prime day promo,https://github.com/gladly-team/tab-web/pull/493,2023-07-11T04:30:52Z,2023-07-11T04:50:19Z,2,2,MERGED
+tab-web,TFAC-1289 Adding Scrolling to GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/492,2023-07-10T01:54:45Z,2023-07-10T21:38:58Z,2,1,MERGED
+tab-web,[TFAC-1244] Fix login loop,https://github.com/gladly-team/tab-web/pull/491,2023-07-10T00:36:14Z,2023-07-10T00:49:07Z,2,1,MERGED
+tab-web,Prime day 2023 Promo,https://github.com/gladly-team/tab-web/pull/489,2023-07-07T20:15:42Z,2023-07-07T21:20:03Z,1,2,MERGED
+tab-web,Fix true false features,https://github.com/gladly-team/tab-web/pull/488,2023-07-07T03:32:29Z,2023-07-07T03:58:24Z,2,1,MERGED
+tab-web,Small GroupImpact Sidebar Changes,https://github.com/gladly-team/tab-web/pull/487,2023-07-05T15:05:11Z,2023-07-06T02:20:56Z,2,1,MERGED
+tab-web,Creating Bookmarks Toggle and Splitting Account Page,https://github.com/gladly-team/tab-web/pull/486,2023-07-04T18:56:58Z,2023-07-07T02:38:17Z,2,1,MERGED
+tab-web,Adding Shortcut Add Icon,https://github.com/gladly-team/tab-web/pull/485,2023-07-04T18:46:12Z,2023-07-06T21:39:06Z,2,1,MERGED
+tab-web,Integrating GroupImpactLeaderboard,https://github.com/gladly-team/tab-web/pull/484,2023-06-23T06:18:28Z,2023-07-07T04:15:58Z,2,2,MERGED
+tab-web,GroupImpactLeaderboard Component,https://github.com/gladly-team/tab-web/pull/483,2023-06-21T06:08:59Z,2023-06-21T07:08:45Z,2,1,MERGED
+tab-web,Implement GroupImpactLeaderboard Row Component,https://github.com/gladly-team/tab-web/pull/482,2023-06-16T20:36:15Z,2023-06-16T21:30:17Z,2,1,MERGED
+tab-web,Fixed promo showing up for people who have shop,https://github.com/gladly-team/tab-web/pull/481,2023-06-16T17:49:13Z,2023-06-16T18:16:20Z,2,2,MERGED
+tab-web,Went all in SHFAC full page ad,https://github.com/gladly-team/tab-web/pull/480,2023-06-16T16:16:02Z,2023-06-16T16:43:06Z,2,1,MERGED
+tab-web,Adding functionality for overlapping icons,https://github.com/gladly-team/tab-web/pull/479,2023-06-11T23:12:45Z,2023-06-12T06:10:20Z,2,1,MERGED
+tab-web,Built full page shop promo,https://github.com/gladly-team/tab-web/pull/478,2023-06-02T16:24:38Z,2023-06-07T05:59:20Z,2,2,MERGED
+tab-web,Upgrading tab-ads to 1.1.23,https://github.com/gladly-team/tab-web/pull/541,2023-10-30T18:53:22Z,2023-11-03T17:52:42Z,2,1,MERGED
+tab-web,Launch kueez ad partner,https://github.com/gladly-team/tab-web/pull/540,2023-10-30T15:04:29Z,2023-10-30T15:15:41Z,2,4,MERGED
+tab-web,Launched November full page shop and searcb promos,https://github.com/gladly-team/tab-web/pull/539,2023-10-26T15:29:13Z,2023-10-26T16:02:01Z,2,1,MERGED
+tab-web,BackgroundColorPicker Component,https://github.com/gladly-team/tab-web/pull/537,2023-09-18T03:06:26Z,2023-09-18T13:06:37Z,2,1,MERGED
+tab-web,Add Protocol if needed for URL,https://github.com/gladly-team/tab-web/pull/536,2023-09-15T15:13:55Z,2023-09-15T15:45:28Z,2,1,MERGED
+tab-web,Launching ix video ads,https://github.com/gladly-team/tab-web/pull/535,2023-09-06T19:23:33Z,2023-09-06T22:26:40Z,2,1,MERGED
+tab-web,Integrate Previous Progress Table,https://github.com/gladly-team/tab-web/pull/533,2023-09-03T04:12:52Z,2023-09-04T01:01:27Z,2,3,MERGED
+tab-web,GroupImpactContributionWidget,https://github.com/gladly-team/tab-web/pull/532,2023-09-03T03:46:18Z,2023-09-03T04:08:07Z,2,2,MERGED
+tab-web,Launched September full page shop promo,https://github.com/gladly-team/tab-web/pull/531,2023-08-31T07:12:09Z,2023-09-06T16:32:20Z,2,2,MERGED
+tab-web,Last Shortcut Bugs,https://github.com/gladly-team/tab-web/pull/530,2023-08-31T06:40:06Z,2023-09-02T21:11:14Z,2,1,MERGED
+tab-web,Cleanup Leaderboard Feature Flag,https://github.com/gladly-team/tab-web/pull/529,2023-08-29T21:03:29Z,2023-08-29T23:40:26Z,2,1,MERGED
+tab-web,Allow Percentage above Max for GroupImpactSidebar,https://github.com/gladly-team/tab-web/pull/528,2023-08-24T23:42:49Z,2023-08-25T06:04:02Z,2,1,MERGED
+tab-web,Resetting Properly after Save,https://github.com/gladly-team/tab-web/pull/527,2023-08-24T02:34:43Z,2023-08-24T23:21:37Z,2,1,MERGED
+tab-web,TFAC-1310 Use Referral Dollar Amount Field,https://github.com/gladly-team/tab-web/pull/526,2023-08-23T19:54:22Z,2023-08-29T21:29:36Z,2,1,MERGED
+tab-web,Adding Validation to AddShortcut,https://github.com/gladly-team/tab-web/pull/525,2023-08-23T19:36:57Z,2023-08-23T19:48:44Z,2,1,MERGED
+tab-web,Update GroupImpactLeaderboardRow for SocialShare,https://github.com/gladly-team/tab-web/pull/524,2023-08-23T17:00:57Z,2023-08-23T17:28:03Z,2,1,MERGED
+tab-web,SHACActivity and SHACActivityNotification Components,https://github.com/gladly-team/tab-web/pull/523,2023-08-21T20:52:46Z,2023-08-21T22:05:12Z,2,1,MERGED
+tab-web,Refactoring SfacActivityButton to BadgeButton,https://github.com/gladly-team/tab-web/pull/522,2023-08-21T17:52:14Z,2023-08-21T18:52:40Z,2,1,MERGED
+tab-web,First round of Feedback for Bookmarks,https://github.com/gladly-team/tab-web/pull/521,2023-08-20T01:47:59Z,2023-08-21T17:51:11Z,2,1,MERGED
+tab-web,Full page search for a cause promo,https://github.com/gladly-team/tab-web/pull/520,2023-08-14T23:44:04Z,2023-08-14T23:52:03Z,1,1,MERGED
+tab-web,Launching Bookmarks in v4,https://github.com/gladly-team/tab-web/pull/519,2023-08-09T21:11:33Z,2023-08-21T16:23:41Z,2,3,MERGED
+tab-web,Wiring up FrontpageShortcutList,https://github.com/gladly-team/tab-web/pull/518,2023-08-04T06:28:03Z,2023-08-04T20:42:01Z,2,1,MERGED
+tab-web,Launched our Aug survey notification.,https://github.com/gladly-team/tab-web/pull/517,2023-08-04T02:36:52Z,2023-08-04T02:50:12Z,2,1,MERGED
+tab-web,Added GAM adblocking code,https://github.com/gladly-team/tab-web/pull/516,2023-08-03T16:14:09Z,2023-08-03T16:25:47Z,2,1,MERGED
+tab-web,Wire up AddShortcutPage Element,https://github.com/gladly-team/tab-web/pull/515,2023-08-02T05:36:19Z,2023-08-03T06:22:08Z,2,1,MERGED
+tab-web,Modify Handlers for Shortcut Modal,https://github.com/gladly-team/tab-web/pull/514,2023-08-01T06:06:28Z,2023-08-01T06:21:12Z,2,1,MERGED
+tab-web,Upgraded our tab-ads to v1.1.24,https://github.com/gladly-team/tab-web/pull/555,2023-12-16T01:16:11Z,2023-12-16T01:31:37Z,2,1,MERGED
+tab-web,Removed dec 2023 user survey,https://github.com/gladly-team/tab-web/pull/554,2023-12-16T00:47:42Z,2023-12-16T00:57:07Z,2,1,MERGED
+tab-web,Launched dec 2023 survey,https://github.com/gladly-team/tab-web/pull/553,2023-12-13T19:03:30Z,2023-12-13T20:10:58Z,2,1,MERGED
+tab-web,Launched shop on leaderboard,https://github.com/gladly-team/tab-web/pull/552,2023-12-08T07:12:25Z,2023-12-08T17:45:00Z,2,1,MERGED
+tab-web,Killed black friday promos,https://github.com/gladly-team/tab-web/pull/551,2023-11-28T20:28:58Z,2023-11-28T20:40:33Z,2,1,MERGED
+tab-web,Changed promo for non-shop users,https://github.com/gladly-team/tab-web/pull/550,2023-11-22T19:32:56Z,2023-11-22T19:43:33Z,1,1,MERGED
+tab-web,Updated the promo companies for shop users.,https://github.com/gladly-team/tab-web/pull/549,2023-11-22T06:31:26Z,2023-11-22T06:39:00Z,2,1,MERGED
+tab-web,Fixed url for shop promo for non-shop users.,https://github.com/gladly-team/tab-web/pull/548,2023-11-21T23:34:33Z,2023-11-21T23:49:04Z,2,1,MERGED
+tab-web,Fixed the styling of our promo,https://github.com/gladly-team/tab-web/pull/547,2023-11-18T19:13:45Z,2023-11-18T19:34:27Z,2,1,MERGED
+tab-web,Launched black friday promo for shop users.,https://github.com/gladly-team/tab-web/pull/546,2023-11-18T17:35:10Z,2023-11-18T17:46:50Z,2,1,MERGED
+tab-web,Fixed getting started button,https://github.com/gladly-team/tab-web/pull/545,2023-11-15T17:19:57Z,2023-11-15T17:20:16Z,1,2,MERGED
+tab-web,Fixed margin on promo,https://github.com/gladly-team/tab-web/pull/544,2023-11-15T16:50:04Z,2023-11-15T16:50:22Z,1,2,MERGED
+tab-web,Launched November shop promo,https://github.com/gladly-team/tab-web/pull/543,2023-11-15T08:16:37Z,2023-11-15T16:31:08Z,2,1,MERGED
+tab-web,Made it so we log to v5 on tab opens,https://github.com/gladly-team/tab-web/pull/571,2024-03-21T07:54:39Z,2024-03-21T08:07:26Z,2,1,MERGED
+tab-web,Stripped out all old ad code.,https://github.com/gladly-team/tab-web/pull/570,2024-03-18T21:18:56Z,2024-03-18T22:26:07Z,2,1,MERGED
+tab-web,Fixed up donation form for give directly,https://github.com/gladly-team/tab-web/pull/569,2024-03-15T17:25:22Z,2024-04-02T17:15:22Z,2,6,MERGED
+tab-web,Spicer/z index ads click,https://github.com/gladly-team/tab-web/pull/568,2024-03-14T20:55:57Z,2024-03-14T20:56:10Z,1,3,MERGED
+tab-web,Added some classes for easy z-index debugging.,https://github.com/gladly-team/tab-web/pull/567,2024-03-14T18:55:17Z,2024-03-14T18:55:25Z,1,1,MERGED
+tab-web,Made it so our ads do not show up on all pages. Just the dashboard.,https://github.com/gladly-team/tab-web/pull/566,2024-03-14T05:56:57Z,2024-03-14T06:22:53Z,2,1,MERGED
+tab-web,Refactored our head code to support passing a cause into Raptive,https://github.com/gladly-team/tab-web/pull/565,2024-03-12T03:15:43Z,2024-03-12T04:33:06Z,2,1,MERGED
+tab-web,Spicer/ad placement,https://github.com/gladly-team/tab-web/pull/564,2024-03-02T19:13:06Z,2024-03-02T19:13:25Z,1,3,MERGED
+tab-web,Spicer/z index change,https://github.com/gladly-team/tab-web/pull/563,2024-03-02T06:28:33Z,2024-03-02T06:28:45Z,1,4,MERGED
+tab-web,Spicer/z index change,https://github.com/gladly-team/tab-web/pull/562,2024-03-02T05:48:13Z,2024-03-02T05:48:27Z,1,3,MERGED
+tab-web,Made center z-index alot,https://github.com/gladly-team/tab-web/pull/561,2024-03-02T04:50:58Z,2024-03-02T04:51:04Z,1,1,MERGED
+tab-web,"Deleted old ad code for Raptive, and added ad placement divs for Raptive",https://github.com/gladly-team/tab-web/pull/560,2024-03-01T20:03:54Z,2024-03-01T21:04:57Z,2,1,MERGED
+tab-web,Tagged body for Raptive,https://github.com/gladly-team/tab-web/pull/559,2024-02-22T19:52:03Z,2024-02-22T20:14:03Z,2,1,MERGED
+tab-web,TFAC-1340: Add legend at the bottom of leaderboard with points for ea…,https://github.com/gladly-team/tab-web/pull/558,2024-02-07T06:35:07Z,2024-02-07T07:28:06Z,2,1,MERGED
+tab-web,Update next.config.js,https://github.com/gladly-team/tab-web/pull/557,2024-01-25T06:14:08Z,2024-01-25T06:14:15Z,1,1,MERGED
+tab-web,Raptive ads launch,https://github.com/gladly-team/tab-web/pull/556,2024-01-19T22:32:17Z,2024-01-20T00:52:26Z,2,3,MERGED
+tab-web,Made it so you can open a leaderboard from an iframe notice.,https://github.com/gladly-team/tab-web/pull/577,2024-04-20T22:51:24Z,2024-04-21T05:17:35Z,2,1,MERGED
+tab-web,Got rid of the give directly donation form.,https://github.com/gladly-team/tab-web/pull/576,2024-04-16T16:21:58Z,2024-04-16T16:44:32Z,2,1,MERGED
+tab-web,Got dynamic notifcations working for slot: upper-right,https://github.com/gladly-team/tab-web/pull/575,2024-04-13T02:19:55Z,2024-04-13T02:32:23Z,1,1,MERGED
+tab-web,Disabled leaderboards for group impact.,https://github.com/gladly-team/tab-web/pull/574,2024-04-12T00:07:01Z,2024-04-12T04:10:16Z,2,1,MERGED
+tab-web,Launching leaderboards to everyone.,https://github.com/gladly-team/tab-web/pull/573,2024-04-11T16:22:32Z,2024-04-11T16:34:56Z,2,1,MERGED
+tab-web,Deploying new leaderboard UI.,https://github.com/gladly-team/tab-web/pull/572,2024-04-08T21:18:33Z,2024-04-08T21:51:23Z,2,1,MERGED
+tab-web,supporting modal center notice.,https://github.com/gladly-team/tab-web/pull/581,2024-07-24T07:53:08Z,2024-07-24T07:53:27Z,1,1,MERGED
+tab-web,Launched tab for democracy,https://github.com/gladly-team/tab-web/pull/580,2024-07-18T05:58:22Z,2024-07-18T06:05:04Z,2,1,MERGED
+tab-web,Got vote america notifications in place.,https://github.com/gladly-team/tab-web/pull/579,2024-06-28T00:48:02Z,2024-06-28T01:04:15Z,2,1,MERGED
+tab-web,Made it so we create a special cookie to support our v5 apps since cl…,https://github.com/gladly-team/tab-web/pull/578,2024-06-07T18:36:13Z,2024-06-07T18:50:48Z,2,1,MERGED
+tab-web,Added hurricane icon for new cause launching Disaster Relief,https://github.com/gladly-team/tab-web/pull/584,2024-10-10T05:44:56Z,2024-10-10T06:01:51Z,2,1,MERGED
+tab-web,Spicer/opt in video,https://github.com/gladly-team/tab-web/pull/583,2024-08-20T19:05:37Z,2024-08-20T19:52:22Z,2,3,MERGED
+tab-web,Launched optin video,https://github.com/gladly-team/tab-web/pull/582,2024-08-19T06:45:49Z,2024-08-19T06:58:24Z,2,1,MERGED
+tab-web,Added gaming icon to our gaming service,https://github.com/gladly-team/tab-web/pull/585,2025-01-13T00:05:12Z,2025-01-13T00:28:45Z,2,1,MERGED

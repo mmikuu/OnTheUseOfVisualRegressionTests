@@ -1,0 +1,26 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+serendie,Add play interactions for various components in Storybook,https://github.com/serendie/serendie/pull/28,2025-02-20T06:27:07Z,2025-02-21T03:06:44Z,9,7,MERGED
+serendie,'Shape' is defined but never used.,https://github.com/serendie/serendie/pull/27,2025-02-20T05:19:49Z,2025-02-20T11:37:06Z,2,1,MERGED
+serendie,Disable release note auto generation,https://github.com/serendie/serendie/pull/24,2025-02-16T07:31:50Z,2025-02-16T07:31:55Z,0,1,MERGED
+serendie,Fix version of ui,https://github.com/serendie/serendie/pull/23,2025-02-16T07:15:53Z,2025-02-16T07:16:15Z,1,2,MERGED
+serendie,Use deploy key for release package workflow,https://github.com/serendie/serendie/pull/22,2025-02-16T07:03:47Z,2025-02-16T07:05:23Z,0,1,MERGED
+serendie,IconButtonコンポーネントのプロパティタイプを拡張し、形状とサイズのオプションを追加,https://github.com/serendie/serendie/pull/21,2025-02-13T09:40:17Z,2025-02-20T01:24:12Z,1,1,MERGED
+serendie,メニュー位置の調整,https://github.com/serendie/serendie/pull/20,2025-02-13T07:49:46Z,2025-02-20T01:51:27Z,2,1,MERGED
+serendie,Update design token modules,https://github.com/serendie/serendie/pull/19,2025-02-13T06:59:24Z,2025-02-13T07:13:11Z,2,3,MERGED
+serendie,Update style-dictionary-formatter version 0.0.6,https://github.com/serendie/serendie/pull/18,2025-02-13T06:50:39Z,2025-02-13T06:59:51Z,0,1,MERGED
+serendie,Bump version to 0.1.9,https://github.com/serendie/serendie/pull/17,2025-02-07T02:42:18Z,2025-02-07T02:44:01Z,1,1,MERGED
+serendie,DropdownMenuのデフォルトアイコンの修正,https://github.com/serendie/serendie/pull/16,2025-02-07T02:12:05Z,2025-02-07T02:14:53Z,2,1,MERGED
+serendie,Update @serendie/symbols,https://github.com/serendie/serendie/pull/15,2025-02-06T10:49:10Z,2025-02-06T12:03:17Z,2,1,MERGED
+serendie,DropdownMenuのpropsの変更,https://github.com/serendie/serendie/pull/14,2025-02-06T10:30:23Z,2025-02-06T11:18:19Z,1,2,MERGED
+serendie,ビルド設定全般を見直し,https://github.com/serendie/serendie/pull/13,2025-02-06T08:28:09Z,2025-02-17T10:53:57Z,10,11,MERGED
+serendie,Align label and input/textarea id in TextField and TextArea components,https://github.com/serendie/serendie/pull/12,2025-02-06T06:59:42Z,2025-02-06T10:00:30Z,1,1,MERGED
+serendie,breakpointをPandaCSSのトークン(sizes)として出力する,https://github.com/serendie/serendie/pull/11,2025-02-06T06:07:08Z,2025-02-06T08:59:29Z,0,2,MERGED
+serendie,package-lock.jsonファイルを更新,https://github.com/serendie/serendie/pull/10,2025-02-06T05:44:43Z,2025-02-06T08:54:20Z,0,1,CLOSED
+serendie,Hide the entire label element when there is no label,https://github.com/serendie/serendie/pull/9,2025-02-06T04:34:47Z,2025-02-06T06:29:16Z,3,3,MERGED
+serendie,eslintの実行オプションにcacheとingoresを設定,https://github.com/serendie/serendie/pull/8,2025-02-06T04:31:05Z,2025-02-06T06:17:46Z,3,3,CLOSED
+serendie,Improve Search component styling and consolidate CSS class names,https://github.com/serendie/serendie/pull/7,2025-02-06T03:44:00Z,2025-02-06T07:42:43Z,2,2,MERGED
+serendie,Add an icon property to DropdownMenu component,https://github.com/serendie/serendie/pull/6,2025-02-06T03:27:17Z,2025-02-06T07:40:34Z,1,1,MERGED
+serendie,Introduce dependabot,https://github.com/serendie/serendie/pull/5,2025-01-30T09:00:51Z,2025-02-04T03:42:07Z,1,1,MERGED
+serendie,Introduce chromatic workflow,https://github.com/serendie/serendie/pull/4,2025-01-30T08:16:48Z,2025-02-04T03:41:30Z,5,1,MERGED
+serendie,Package RegistryをGitHubからNPMに移行,https://github.com/serendie/serendie/pull/3,2025-01-28T08:05:16Z,2025-01-30T04:27:24Z,8,11,MERGED
+serendie,Figmaの同期に@serendie/figma-utilsを使う,https://github.com/serendie/serendie/pull/1,2025-01-16T10:14:17Z,2025-01-21T01:37:33Z,0,5,MERGED

@@ -1,0 +1,455 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+pharos,docs: update accessibility sections for components,https://github.com/ithaka/pharos/pull/53,2021-05-28T17:03:28Z,2021-06-02T18:39:34Z,3,12,MERGED
+pharos,fix(pharos): render link for error image cards and allow subtle state,https://github.com/ithaka/pharos/pull/51,2021-05-28T13:05:59Z,2021-05-28T15:57:29Z,1,2,MERGED
+pharos,fix(pharos)!: fire modal events when opened/closed via props,https://github.com/ithaka/pharos/pull/50,2021-05-27T20:28:51Z,2021-06-09T20:04:11Z,2,5,MERGED
+pharos,chore: update dependencies,https://github.com/ithaka/pharos/pull/48,2021-05-27T13:09:36Z,2021-05-27T14:21:23Z,1,2,MERGED
+pharos,fix: exclude changesets from lint-staged,https://github.com/ithaka/pharos/pull/44,2021-05-26T17:45:34Z,2021-05-26T17:57:00Z,1,1,MERGED
+pharos,feat!: remove ie11 support,https://github.com/ithaka/pharos/pull/42,2021-05-26T14:47:55Z,2021-06-09T19:02:38Z,1,6,MERGED
+pharos,feat!: add new color tokens and update alerts,https://github.com/ithaka/pharos/pull/36,2021-05-25T19:49:10Z,2021-06-09T20:58:08Z,7,17,MERGED
+pharos,Feature/update and implement best practices component,https://github.com/ithaka/pharos/pull/35,2021-05-25T19:10:52Z,2021-05-26T18:30:31Z,4,8,MERGED
+pharos,documentation: update component documentation to use PageSection,https://github.com/ithaka/pharos/pull/34,2021-05-25T18:46:30Z,2021-05-26T14:24:58Z,2,26,MERGED
+pharos,fix: update Storybook to generate React API tables,https://github.com/ithaka/pharos/pull/33,2021-05-25T12:51:47Z,2021-05-25T19:42:19Z,1,4,MERGED
+pharos,fix(pharos-site): update alert and tooltips sections,https://github.com/ithaka/pharos/pull/32,2021-05-24T15:18:15Z,2021-05-25T19:23:53Z,2,6,MERGED
+pharos,feat(pharos): add image card component,https://github.com/ithaka/pharos/pull/31,2021-05-24T13:15:07Z,2021-05-25T12:02:10Z,4,14,MERGED
+pharos,documentation: revert text input and textarea storybook examples,https://github.com/ithaka/pharos/pull/30,2021-05-20T15:35:27Z,2021-05-20T17:39:26Z,1,4,MERGED
+pharos,fix(pharos): increase max-height of sidenav menu,https://github.com/ithaka/pharos/pull/29,2021-05-20T12:35:02Z,2021-05-20T18:36:05Z,1,3,MERGED
+pharos,refactor(site): remove /pharos prefix from Gatsby config,https://github.com/ithaka/pharos/pull/28,2021-05-20T12:24:28Z,2021-06-01T18:19:31Z,2,9,MERGED
+pharos,Bugfix/update links for site nav,https://github.com/ithaka/pharos/pull/27,2021-05-19T20:22:40Z,2021-05-20T20:08:32Z,2,6,MERGED
+pharos,documentation: update component status table to show shadow only when 'stickied',https://github.com/ithaka/pharos/pull/26,2021-05-19T17:44:46Z,2021-05-19T18:21:00Z,6,4,MERGED
+pharos,feat: adds toggle button and toggle button group components,https://github.com/ithaka/pharos/pull/25,2021-05-18T18:06:10Z,2021-05-25T20:24:36Z,22,25,MERGED
+pharos,documentation: update component status page,https://github.com/ithaka/pharos/pull/24,2021-05-18T16:57:12Z,2021-05-18T19:29:18Z,3,6,MERGED
+pharos,refactor(site): replace low res images on the site,https://github.com/ithaka/pharos/pull/22,2021-05-18T12:56:41Z,2021-05-18T17:30:28Z,1,5,MERGED
+pharos,fix: resize modal to fill available space on mobile browsers,https://github.com/ithaka/pharos/pull/21,2021-05-18T12:15:59Z,2021-05-18T13:08:14Z,1,3,MERGED
+pharos,refactor: remove component guidelines from Storybook,https://github.com/ithaka/pharos/pull/20,2021-05-17T15:48:55Z,2021-05-17T17:11:20Z,2,5,MERGED
+pharos,feat!: update to Lit 2,https://github.com/ithaka/pharos/pull/19,2021-05-15T20:12:31Z,2021-06-10T17:09:06Z,1,23,MERGED
+pharos,Documentation: Update storybook examples to align with Voice and Tone,https://github.com/ithaka/pharos/pull/18,2021-05-14T17:59:22Z,2021-05-18T14:37:02Z,1,17,MERGED
+pharos,feat(pharos): add layout component,https://github.com/ithaka/pharos/pull/17,2021-05-12T20:36:30Z,2021-05-18T12:15:28Z,4,22,MERGED
+pharos,ci: instruct yarn to give cache priority and cache node_modules,https://github.com/ithaka/pharos/pull/16,2021-05-08T11:37:39Z,2021-05-08T15:18:31Z,1,10,MERGED
+pharos,chore: version packages,https://github.com/ithaka/pharos/pull/15,2021-05-07T21:44:18Z,2021-05-07T21:50:12Z,1,1,MERGED
+pharos,refactor!: rename packages to publish to Ithaka namespace,https://github.com/ithaka/pharos/pull/13,2021-05-07T16:03:13Z,2021-05-07T17:22:16Z,1,2,MERGED
+pharos,chore: version packages,https://github.com/ithaka/pharos/pull/12,2021-05-07T14:11:47Z,2021-05-07T14:18:08Z,1,1,MERGED
+pharos,fix: update commit message for release action,https://github.com/ithaka/pharos/pull/10,2021-05-07T12:54:22Z,2021-05-07T13:30:22Z,1,1,MERGED
+pharos,chore: update lit for forward-compatible features,https://github.com/ithaka/pharos/pull/9,2021-05-06T21:04:09Z,2021-05-06T22:39:07Z,1,3,MERGED
+pharos,ci: run verify action on push,https://github.com/ithaka/pharos/pull/7,2021-05-05T19:58:43Z,2021-05-06T12:30:24Z,1,4,MERGED
+pharos,ci: add action to release new versions of packages,https://github.com/ithaka/pharos/pull/6,2021-05-05T12:46:13Z,2021-05-05T20:07:54Z,4,3,MERGED
+pharos,ci: add action to run tests on pull requests,https://github.com/ithaka/pharos/pull/4,2021-05-04T21:02:42Z,2021-05-05T18:08:25Z,2,1,MERGED
+pharos,chore: initialize repo,https://github.com/ithaka/pharos/pull/1,2021-05-04T12:57:16Z,2021-05-04T20:05:18Z,0,2,MERGED
+pharos,feat: update to TypeScript 4.3,https://github.com/ithaka/pharos/pull/188,2021-07-29T18:51:59Z,2021-07-30T13:04:33Z,1,4,MERGED
+pharos,feat: use yarn 3,https://github.com/ithaka/pharos/pull/187,2021-07-28T16:00:33Z,2021-11-15T13:45:18Z,2,6,CLOSED
+pharos,feat: use custom elements manifest v1.0.0,https://github.com/ithaka/pharos/pull/186,2021-07-26T15:36:23Z,2021-07-29T18:41:16Z,2,11,MERGED
+pharos,chore: update dependencies,https://github.com/ithaka/pharos/pull/185,2021-07-26T12:49:35Z,2021-07-26T19:41:08Z,1,5,MERGED
+pharos,fix(layout): apply margins for breakpoints medium and above for 1-col,https://github.com/ithaka/pharos/pull/172,2021-07-21T12:46:17Z,2021-07-21T16:01:36Z,1,3,MERGED
+pharos,fix(image-card): do not truncate promotional titles,https://github.com/ithaka/pharos/pull/171,2021-07-20T17:35:24Z,2021-07-21T15:50:45Z,1,2,MERGED
+pharos,fix(select): set the selection when a value is initially passed,https://github.com/ithaka/pharos/pull/169,2021-07-16T20:48:40Z,2021-07-19T13:19:50Z,2,4,MERGED
+pharos,feat: use esbuild-loader for Storybook,https://github.com/ithaka/pharos/pull/167,2021-07-16T17:25:47Z,2021-08-05T18:01:06Z,3,10,MERGED
+pharos,Image Card: Allow promotional variant images to have dynamic height,https://github.com/ithaka/pharos/pull/165,2021-07-15T16:47:48Z,2021-07-15T17:29:30Z,0,1,MERGED
+pharos,Image card: Fix long title overflow,https://github.com/ithaka/pharos/pull/163,2021-07-14T22:12:16Z,2021-07-15T12:05:51Z,1,3,MERGED
+pharos,fix: run lit-analyzer on pre-commit,https://github.com/ithaka/pharos/pull/158,2021-07-14T12:34:15Z,2021-07-14T13:31:49Z,1,3,MERGED
+pharos,Image Card: Add `promotional` variant and `source-type` prop,https://github.com/ithaka/pharos/pull/157,2021-07-14T00:56:25Z,2021-07-15T11:57:25Z,5,8,MERGED
+pharos,ci: update release workflow to merge main into develop,https://github.com/ithaka/pharos/pull/155,2021-07-12T12:51:23Z,2021-07-12T13:00:10Z,2,2,MERGED
+pharos,docs(pharos-site): add layout component page to components section,https://github.com/ithaka/pharos/pull/150,2021-07-08T18:28:10Z,2021-07-09T13:34:04Z,4,4,MERGED
+pharos,feat(tokens): add pharos-spacing-10-x token,https://github.com/ithaka/pharos/pull/147,2021-07-08T13:00:50Z,2021-07-08T13:23:50Z,1,1,MERGED
+pharos,style(image-card): force 100% width for better alignment within the grid,https://github.com/ithaka/pharos/pull/145,2021-07-07T18:58:47Z,2021-07-07T19:35:06Z,2,2,MERGED
+pharos,style(toast): set max-width on mobile,https://github.com/ithaka/pharos/pull/142,2021-07-06T19:25:15Z,2021-07-06T19:56:49Z,1,2,MERGED
+pharos,ci: use setup-node for caching,https://github.com/ithaka/pharos/pull/141,2021-07-06T12:47:56Z,2021-07-06T12:55:34Z,2,2,CLOSED
+pharos,style(image-card): unset `contain` for link surrounding image,https://github.com/ithaka/pharos/pull/140,2021-07-02T18:30:02Z,2021-07-06T12:13:54Z,2,2,MERGED
+pharos,feat(pharos): use SassDoc to document SASS,https://github.com/ithaka/pharos/pull/137,2021-07-01T20:25:24Z,2021-07-02T16:02:03Z,1,9,MERGED
+pharos,fix(image-card): horizontally center image within card,https://github.com/ithaka/pharos/pull/136,2021-07-01T15:09:35Z,2021-07-02T15:50:42Z,1,11,MERGED
+pharos,feat(pharos-site): add cookie settings link to footer,https://github.com/ithaka/pharos/pull/135,2021-07-01T14:37:35Z,2021-07-01T17:08:30Z,2,3,MERGED
+pharos,feature/image card heading level,https://github.com/ithaka/pharos/pull/133,2021-06-30T15:53:31Z,2021-07-01T19:12:48Z,2,7,MERGED
+pharos,docs(pharos-site): update accessibility section for image card,https://github.com/ithaka/pharos/pull/131,2021-06-30T15:33:57Z,2021-06-30T16:00:29Z,1,2,MERGED
+pharos,fix(modal): prevent pharos-modal-closed event from emitting upon initial render,https://github.com/ithaka/pharos/pull/130,2021-06-29T17:53:26Z,2021-06-29T19:35:42Z,2,4,MERGED
+pharos,docs: update accessibility section,https://github.com/ithaka/pharos/pull/129,2021-06-29T16:04:19Z,2021-06-29T18:12:02Z,2,4,MERGED
+pharos,feat(image-card): add slot for action button,https://github.com/ithaka/pharos/pull/128,2021-06-29T16:00:22Z,2021-06-30T15:22:22Z,4,11,MERGED
+pharos,docs(site): add FAQs section to site,https://github.com/ithaka/pharos/pull/126,2021-06-25T19:18:12Z,2021-06-29T13:08:05Z,9,13,MERGED
+pharos,docs: add stories for sass mixins,https://github.com/ithaka/pharos/pull/125,2021-06-25T18:31:47Z,2021-06-29T17:24:07Z,6,17,MERGED
+pharos,chore: update dependencies,https://github.com/ithaka/pharos/pull/124,2021-06-25T15:33:14Z,2021-06-25T17:23:58Z,1,3,MERGED
+pharos,documentation(site): fix react error messages for token pages,https://github.com/ithaka/pharos/pull/123,2021-06-24T18:23:22Z,2021-06-25T04:11:49Z,2,4,MERGED
+pharos,feat: implement layout component on the site,https://github.com/ithaka/pharos/pull/122,2021-06-23T20:51:55Z,2021-06-24T16:29:23Z,7,10,MERGED
+pharos,Use simplified image for social sharing,https://github.com/ithaka/pharos/pull/120,2021-06-23T13:39:57Z,2021-06-23T13:46:51Z,1,3,MERGED
+pharos,Update and fix SSR for SEO tags,https://github.com/ithaka/pharos/pull/119,2021-06-22T20:43:01Z,2021-06-22T23:50:07Z,1,3,MERGED
+pharos,ci: use Playwright cli to install browsers,https://github.com/ithaka/pharos/pull/117,2021-06-22T12:43:44Z,2021-06-22T13:33:13Z,1,4,MERGED
+pharos,updated proper grammar for dos and don'ts in guideline titles,https://github.com/ithaka/pharos/pull/116,2021-06-22T03:02:54Z,2021-06-22T12:14:23Z,4,3,MERGED
+pharos,refactor: use node in place of gulp for building Pharos,https://github.com/ithaka/pharos/pull/114,2021-06-21T12:23:54Z,2021-06-21T13:56:06Z,2,3,MERGED
+pharos,feat(pharos-site): use Gatsby cache for site builds,https://github.com/ithaka/pharos/pull/112,2021-06-16T22:08:40Z,2021-06-17T12:15:26Z,2,4,MERGED
+pharos,fix(pharos-site): change spacing and style on contributing pages and add accessibility section,https://github.com/ithaka/pharos/pull/111,2021-06-16T21:05:53Z,2021-06-22T14:10:09Z,6,16,MERGED
+pharos,docs(pharos-site): add how to write documentation section and contributing section,https://github.com/ithaka/pharos/pull/109,2021-06-16T18:58:40Z,2021-06-16T20:48:11Z,9,15,MERGED
+pharos,feat(link): add min-width rule when flexed for better text wrapping support,https://github.com/ithaka/pharos/pull/106,2021-06-15T20:20:46Z,2021-06-16T13:08:05Z,2,11,MERGED
+pharos,feat(image-card): add slot for title,https://github.com/ithaka/pharos/pull/105,2021-06-15T20:06:30Z,2021-06-16T12:44:20Z,1,3,MERGED
+pharos,fix(pharos): update tooltip and breadcrumb overflow logic when slotted content is non-HTML,https://github.com/ithaka/pharos/pull/104,2021-06-15T19:33:06Z,2021-06-15T20:34:02Z,2,4,MERGED
+pharos,fix(pharos-site): update content based on legal review,https://github.com/ithaka/pharos/pull/103,2021-06-15T18:34:49Z,2021-06-15T18:58:22Z,3,4,MERGED
+pharos,fix(pharos-site): update component documentation copy based on review,https://github.com/ithaka/pharos/pull/100,2021-06-14T17:59:35Z,2021-06-14T18:38:44Z,3,9,MERGED
+pharos,fix(pharos): update styles usage for React stories,https://github.com/ithaka/pharos/pull/99,2021-06-14T17:44:32Z,2021-06-14T18:58:58Z,1,6,MERGED
+pharos,feat(pharos-site): add links to JSTOR from site,https://github.com/ithaka/pharos/pull/98,2021-06-14T17:37:26Z,2021-06-14T17:54:19Z,1,2,MERGED
+pharos,fix(pharos-site): sentence casing on side nav,https://github.com/ithaka/pharos/pull/96,2021-06-14T15:45:17Z,2021-06-14T15:59:10Z,1,2,MERGED
+pharos,fix(image-card): change image height and update styles,https://github.com/ithaka/pharos/pull/95,2021-06-14T14:58:10Z,2021-06-14T19:38:19Z,2,6,MERGED
+pharos,fix: correct Storybook inconsistencies,https://github.com/ithaka/pharos/pull/94,2021-06-14T12:22:23Z,2021-06-14T14:27:52Z,1,2,MERGED
+pharos,feat: Default event stories in storybook to action tab instead of controls tab,https://github.com/ithaka/pharos/pull/93,2021-06-11T20:03:34Z,2021-06-16T20:28:45Z,5,9,MERGED
+pharos,"fix: add name attributes to states story for combobox, text-input and textarea",https://github.com/ithaka/pharos/pull/92,2021-06-11T18:30:44Z,2021-06-11T19:52:07Z,1,4,MERGED
+pharos,feat(heading): make level a required prop,https://github.com/ithaka/pharos/pull/91,2021-06-11T18:28:00Z,2021-06-11T19:42:20Z,1,2,MERGED
+pharos,perf(pharos): import icons dynamically,https://github.com/ithaka/pharos/pull/89,2021-06-11T18:09:13Z,2021-06-14T14:58:46Z,2,5,MERGED
+pharos,Upgrade to Style Dictionary 3.0,https://github.com/ithaka/pharos/pull/88,2021-06-11T17:34:27Z,2021-06-11T19:36:01Z,1,2,MERGED
+pharos,documentation: Update form documentation with brand copy,https://github.com/ithaka/pharos/pull/87,2021-06-11T14:40:24Z,2021-06-11T20:45:07Z,9,13,MERGED
+pharos,fix(cli): import html from lit,https://github.com/ithaka/pharos/pull/86,2021-06-11T12:53:08Z,2021-06-11T13:02:21Z,1,2,MERGED
+pharos,fix(button): check if click is canceled for submit buttons,https://github.com/ithaka/pharos/pull/85,2021-06-11T12:39:18Z,2021-06-11T14:01:34Z,1,4,MERGED
+pharos,fix: modify button and input styles on storybook,https://github.com/ithaka/pharos/pull/84,2021-06-10T20:43:58Z,2021-06-11T20:36:17Z,4,12,MERGED
+pharos,feat(icon)!: make icon size immutable,https://github.com/ithaka/pharos/pull/83,2021-06-10T20:37:39Z,2021-06-10T20:58:56Z,1,2,MERGED
+pharos,feat(alert)!: remove base variant alert and make status required property,https://github.com/ithaka/pharos/pull/81,2021-06-10T19:29:43Z,2021-06-11T14:29:51Z,2,5,MERGED
+pharos,feat(checkbox): rename dark property to on-background for consistency,https://github.com/ithaka/pharos/pull/80,2021-06-10T17:46:39Z,2021-06-10T18:59:31Z,5,5,MERGED
+pharos,feat(icon): add pdf and ppt icons,https://github.com/ithaka/pharos/pull/79,2021-06-09T19:53:57Z,2021-06-10T12:42:40Z,7,8,MERGED
+pharos,fix(pharos-site): remove trailing slashes from Gatsby paths,https://github.com/ithaka/pharos/pull/78,2021-06-09T15:53:10Z,2021-06-09T17:22:56Z,1,2,MERGED
+pharos,ci: use last built commit for ignore,https://github.com/ithaka/pharos/pull/77,2021-06-09T13:06:15Z,2021-06-09T14:48:45Z,1,1,MERGED
+pharos,feat: add GA for main Storybook,https://github.com/ithaka/pharos/pull/76,2021-06-09T12:27:46Z,2021-06-09T14:58:26Z,1,2,MERGED
+pharos,"docs: image card documentation, design tweaks",https://github.com/ithaka/pharos/pull/75,2021-06-08T17:25:27Z,2021-06-09T12:11:49Z,1,4,MERGED
+pharos,ci: ignore builds for unrelated changes,https://github.com/ithaka/pharos/pull/73,2021-06-08T12:57:58Z,2021-06-08T16:00:31Z,2,6,MERGED
+pharos,feat(pharos): enable setting elements in a shadow DOM as tooltip boundary,https://github.com/ithaka/pharos/pull/72,2021-06-07T19:56:14Z,2021-06-07T20:28:07Z,1,4,MERGED
+pharos,feat(pharos-site): reactivate logo guidelines and deactivate design token overview,https://github.com/ithaka/pharos/pull/71,2021-06-07T19:48:46Z,2021-06-07T19:58:04Z,1,2,MERGED
+pharos,feat: add careers section to homepage,https://github.com/ithaka/pharos/pull/70,2021-06-07T18:23:12Z,2021-06-08T15:52:01Z,1,6,MERGED
+pharos,docs(pharos-site): add storybook links to public component sections,https://github.com/ithaka/pharos/pull/69,2021-06-07T16:59:08Z,2021-06-07T19:51:46Z,2,7,MERGED
+pharos,feat(pharos): update collection cards,https://github.com/ithaka/pharos/pull/68,2021-06-07T12:16:30Z,2021-06-07T15:45:55Z,1,5,MERGED
+pharos,docs: add cta for career opportunities to github repo and storybook ,https://github.com/ithaka/pharos/pull/67,2021-06-04T18:27:06Z,2021-06-07T17:15:20Z,1,3,MERGED
+pharos,feat: add skip to main content functionality for sidenav component,https://github.com/ithaka/pharos/pull/66,2021-06-04T17:43:29Z,2021-06-04T19:20:03Z,1,14,MERGED
+pharos,fix: point to separate netlify deployment for composition,https://github.com/ithaka/pharos/pull/65,2021-06-03T14:58:30Z,2021-06-03T15:12:30Z,1,1,MERGED
+pharos,fix: update redirects without trailing slash,https://github.com/ithaka/pharos/pull/64,2021-06-03T14:17:04Z,2021-06-03T14:34:19Z,1,4,MERGED
+pharos,documentation: remove storybook urls,https://github.com/ithaka/pharos/pull/63,2021-06-03T13:58:43Z,2021-06-03T14:08:13Z,1,3,MERGED
+pharos,fix: update redirect logic,https://github.com/ithaka/pharos/pull/62,2021-06-03T12:26:24Z,2021-06-03T13:55:49Z,1,4,MERGED
+pharos,fix(storybook): try using more explicit patterns to fix routing,https://github.com/ithaka/pharos/pull/61,2021-06-03T01:07:32Z,2021-06-03T13:20:50Z,2,2,CLOSED
+pharos,ci: add a composed Storybook build,https://github.com/ithaka/pharos/pull/60,2021-06-02T20:05:39Z,2021-06-02T20:59:43Z,2,5,MERGED
+pharos,fix(pharos): set overflow for subtle image cards,https://github.com/ithaka/pharos/pull/58,2021-06-02T15:42:09Z,2021-06-02T16:59:47Z,1,3,MERGED
+pharos,ci: redirect to Storybooks from site,https://github.com/ithaka/pharos/pull/57,2021-06-02T15:33:43Z,2021-06-02T16:29:13Z,1,3,MERGED
+pharos,fix(pharos-site): remove logos page from site,https://github.com/ithaka/pharos/pull/55,2021-06-01T19:31:49Z,2021-06-01T20:07:47Z,1,3,MERGED
+pharos,docs: add design token pages,https://github.com/ithaka/pharos/pull/54,2021-06-01T03:51:19Z,2021-06-03T18:25:22Z,2,26,MERGED
+pharos,perf(site): use dynamic imports,https://github.com/ithaka/pharos/pull/246,2021-10-29T13:42:15Z,2021-11-09T16:46:52Z,2,3,CLOSED
+pharos,chore: update to Node 16,https://github.com/ithaka/pharos/pull/245,2021-10-26T12:20:51Z,2021-10-26T17:40:05Z,1,3,MERGED
+pharos,chore: update Stylelint,https://github.com/ithaka/pharos/pull/243,2021-10-25T14:31:47Z,2021-10-25T17:06:10Z,2,4,MERGED
+pharos,chore(site): update to Gatsby 4,https://github.com/ithaka/pharos/pull/242,2021-10-22T13:06:05Z,2021-10-22T16:00:58Z,1,2,MERGED
+pharos,fix(dropdown-menu): update popper instance on trigger change,https://github.com/ithaka/pharos/pull/239,2021-10-06T19:43:20Z,2021-10-07T12:06:00Z,2,3,MERGED
+pharos,fix(dropdown-menu): await close transition before updating popper instance,https://github.com/ithaka/pharos/pull/236,2021-10-05T19:39:53Z,2021-10-05T19:59:50Z,1,3,MERGED
+pharos,"chore: update Lit, TypeScript, and Prettier",https://github.com/ithaka/pharos/pull/233,2021-10-04T14:37:45Z,2021-10-04T17:03:22Z,1,6,MERGED
+pharos,Footer: Add intrinsic padding and spacing between sections,https://github.com/ithaka/pharos/pull/232,2021-10-02T17:41:32Z,2021-10-04T16:00:58Z,1,3,MERGED
+pharos,Combobox: Prevent displayed text from overlapping with clear icon,https://github.com/ithaka/pharos/pull/231,2021-10-02T17:35:33Z,2021-10-04T14:20:02Z,1,3,MERGED
+pharos,Docs: Update image card examples to a reasonable width,https://github.com/ithaka/pharos/pull/230,2021-10-02T16:54:23Z,2021-10-04T14:01:17Z,1,2,MERGED
+pharos,feat(pharos-image-card): add overlay slot,https://github.com/ithaka/pharos/pull/229,2021-09-30T17:24:22Z,2021-10-01T21:04:50Z,5,12,MERGED
+pharos,feat(pharos-image-card): add overlay slot,https://github.com/ithaka/pharos/pull/228,2021-09-30T17:20:24Z,2021-09-30T17:24:33Z,1,1,CLOSED
+pharos,refactor!: require manual component registration,https://github.com/ithaka/pharos/pull/226,2021-09-24T16:00:29Z,2021-10-18T17:11:20Z,12,24,MERGED
+pharos,fix(site): Replace google doc links. Fix typos.,https://github.com/ithaka/pharos/pull/223,2021-09-21T16:12:36Z,2021-09-21T16:49:44Z,5,8,MERGED
+pharos,fix(site): Replace google doc links and fix typos,https://github.com/ithaka/pharos/pull/222,2021-09-21T15:41:46Z,2021-09-21T16:05:07Z,1,3,CLOSED
+pharos,fix: wrap footer with landmark for accessibility navigation,https://github.com/ithaka/pharos/pull/221,2021-09-17T17:21:25Z,2021-09-17T18:29:01Z,3,1,MERGED
+pharos,"chore: update Gatsby, Babel, and Storybook",https://github.com/ithaka/pharos/pull/219,2021-09-14T20:42:50Z,2021-09-15T12:14:50Z,1,2,MERGED
+pharos,feat(button): Add overlay variant,https://github.com/ithaka/pharos/pull/216,2021-09-09T18:11:03Z,2021-09-10T12:08:36Z,2,5,MERGED
+pharos,feat(icon): Add saved icon,https://github.com/ithaka/pharos/pull/215,2021-09-08T18:33:38Z,2021-09-09T18:21:43Z,1,3,MERGED
+pharos,chore: update Lit to latest RC,https://github.com/ithaka/pharos/pull/214,2021-09-08T12:46:03Z,2021-09-08T18:37:11Z,1,3,MERGED
+pharos,fix(input-group): update validation icon placement when items are appended dynamically,https://github.com/ithaka/pharos/pull/213,2021-09-03T17:38:57Z,2021-09-08T12:22:36Z,1,4,MERGED
+pharos,fix(footer): use slots directly,https://github.com/ithaka/pharos/pull/210,2021-08-27T17:03:17Z,2021-08-27T17:26:46Z,1,2,MERGED
+pharos,fix(input-group): shift validity icon placement,https://github.com/ithaka/pharos/pull/206,2021-08-17T21:47:10Z,2021-08-18T14:51:02Z,3,3,MERGED
+pharos,chore: update dependencies,https://github.com/ithaka/pharos/pull/205,2021-08-16T14:38:52Z,2021-08-16T15:46:00Z,1,4,MERGED
+pharos,fix(breadcrumb): allow items to wrap,https://github.com/ithaka/pharos/pull/202,2021-08-13T20:31:38Z,2021-08-13T20:36:47Z,1,2,MERGED
+pharos,docs(pharos): instruct to import CSS var tokens,https://github.com/ithaka/pharos/pull/201,2021-08-11T15:19:54Z,2021-08-11T17:05:02Z,2,4,MERGED
+pharos,fix(image-card): remove containment styling for title,https://github.com/ithaka/pharos/pull/199,2021-08-10T14:33:21Z,2021-08-11T12:25:15Z,1,3,MERGED
+pharos,fix(site): replace unnecessary non-breaking spaces,https://github.com/ithaka/pharos/pull/198,2021-08-10T00:16:54Z,2021-08-11T14:55:04Z,3,5,MERGED
+pharos,feat(image-card): add property for setting aria label on the image link,https://github.com/ithaka/pharos/pull/196,2021-08-09T15:20:37Z,2021-08-09T18:17:57Z,4,6,MERGED
+pharos,feat: add closable variant to alert component,https://github.com/ithaka/pharos/pull/194,2021-08-06T19:14:47Z,2021-08-10T16:07:44Z,6,12,MERGED
+pharos,docs(pharos-site): add toggle button group documentation,https://github.com/ithaka/pharos/pull/191,2021-08-04T19:29:34Z,2021-08-05T14:49:38Z,10,14,MERGED
+pharos,fix(combobox): stop button from receiving focus,https://github.com/ithaka/pharos/pull/190,2021-08-04T12:15:11Z,2021-08-04T13:40:37Z,2,4,MERGED
+pharos,fix(combobox): clear input when value is reset,https://github.com/ithaka/pharos/pull/189,2021-08-02T20:14:02Z,2021-08-03T12:11:54Z,1,2,MERGED
+pharos,bugfix(dropdown menu item): Stop disabled dropdown menu items from triggering click events using @click attribute,https://github.com/ithaka/pharos/pull/290,2021-12-29T19:39:11Z,2022-01-03T20:58:15Z,4,6,MERGED
+pharos,fix(storybook): add useDefineForClassFields false,https://github.com/ithaka/pharos/pull/289,2021-12-28T22:37:49Z,2021-12-29T04:07:03Z,3,2,MERGED
+pharos,chore(storybook): update dependencies,https://github.com/ithaka/pharos/pull/288,2021-12-28T14:49:15Z,2021-12-28T15:07:21Z,2,2,MERGED
+pharos,docs: update bug report template,https://github.com/ithaka/pharos/pull/285,2021-12-18T00:16:30Z,2021-12-20T15:41:39Z,2,1,MERGED
+pharos,feat: create component request template,https://github.com/ithaka/pharos/pull/284,2021-12-17T23:57:31Z,2021-12-20T15:51:56Z,2,3,MERGED
+pharos,test: robb,https://github.com/ithaka/pharos/pull/283,2021-12-17T18:24:18Z,2021-12-17T18:28:14Z,2,1,CLOSED
+pharos,test: hams,https://github.com/ithaka/pharos/pull/282,2021-12-16T18:46:59Z,2021-12-16T19:09:12Z,3,1,CLOSED
+pharos,ci: add size-limit action,https://github.com/ithaka/pharos/pull/281,2021-12-16T13:59:02Z,2021-12-16T17:01:53Z,2,4,MERGED
+pharos,chore(deps): bump Storybook dependencies,https://github.com/ithaka/pharos/pull/280,2021-12-14T21:20:58Z,2021-12-14T21:33:07Z,1,1,MERGED
+pharos,fix(link): check href prop for render,https://github.com/ithaka/pharos/pull/277,2021-12-10T21:43:30Z,2021-12-13T14:44:06Z,1,3,MERGED
+pharos,feat(site): show component examples after main heading,https://github.com/ithaka/pharos/pull/276,2021-12-10T21:17:11Z,2021-12-13T19:39:57Z,4,7,MERGED
+pharos,feat(link): Add button that looks like link,https://github.com/ithaka/pharos/pull/274,2021-12-08T20:55:32Z,2021-12-09T15:21:39Z,5,7,MERGED
+pharos,docs: update release documentation to include post release activties,https://github.com/ithaka/pharos/pull/273,2021-12-07T20:37:29Z,2021-12-07T20:42:50Z,2,3,MERGED
+pharos,chore: add codeowners file for auto PR assignment,https://github.com/ithaka/pharos/pull/272,2021-12-07T20:35:16Z,2021-12-07T20:41:25Z,1,1,MERGED
+pharos,docs: add bundlephobia shield to README,https://github.com/ithaka/pharos/pull/271,2021-12-07T20:21:42Z,2021-12-07T20:30:54Z,1,1,MERGED
+pharos,fix(modal): adjust footer slotted content spacing,https://github.com/ithaka/pharos/pull/269,2021-12-07T13:20:50Z,2021-12-07T14:08:46Z,1,2,MERGED
+pharos,feat: add component register utility,https://github.com/ithaka/pharos/pull/268,2021-12-06T19:45:29Z,2021-12-07T20:08:21Z,7,10,MERGED
+pharos,feat(all): Preserve data-pharos-component attribute when Pharos class is subclassed,https://github.com/ithaka/pharos/pull/267,2021-12-03T16:19:45Z,2021-12-06T19:46:29Z,8,5,CLOSED
+pharos,chore: update dependencies,https://github.com/ithaka/pharos/pull/264,2021-11-29T14:27:46Z,2021-11-29T16:53:56Z,1,3,MERGED
+pharos,fix: use request name for dynamic import chunks,https://github.com/ithaka/pharos/pull/262,2021-11-22T13:32:41Z,2021-11-22T13:47:08Z,1,1,MERGED
+pharos,perf(pharos): specify package side effects,https://github.com/ithaka/pharos/pull/260,2021-11-17T13:33:44Z,2021-11-17T15:45:18Z,1,4,MERGED
+pharos,chore: regenerate lockfile,https://github.com/ithaka/pharos/pull/259,2021-11-15T18:25:50Z,2021-11-15T20:05:58Z,1,1,MERGED
+pharos,fix(overflow): use variable-width gutters in layout,https://github.com/ithaka/pharos/pull/254,2021-11-11T15:03:05Z,2021-11-11T18:59:56Z,2,2,CLOSED
+pharos,chore: update to ESLint 8,https://github.com/ithaka/pharos/pull/250,2021-11-11T13:07:19Z,2021-11-11T13:19:55Z,1,1,MERGED
+pharos,fix(site): correct footer on smaller breakpoints,https://github.com/ithaka/pharos/pull/248,2021-11-01T14:39:23Z,2021-11-01T15:59:14Z,1,3,MERGED
+pharos,feature: add optional horizontal line to tabs,https://github.com/ithaka/pharos/pull/330,2022-03-15T19:36:46Z,2022-03-16T14:00:47Z,8,9,MERGED
+pharos,chore: update Storybook dependencies,https://github.com/ithaka/pharos/pull/329,2022-03-11T02:01:21Z,2022-03-11T02:13:12Z,2,2,CLOSED
+pharos,Icon: Remove `fill` attribute on newly added icons,https://github.com/ithaka/pharos/pull/327,2022-03-09T17:41:07Z,2022-03-09T17:51:50Z,2,2,MERGED
+pharos,Icon: Fix newly added SVG icons,https://github.com/ithaka/pharos/pull/325,2022-03-09T15:37:49Z,2022-03-09T15:46:19Z,2,2,MERGED
+pharos,Feat(toast): add info variation,https://github.com/ithaka/pharos/pull/322,2022-03-04T20:15:12Z,2022-03-07T14:35:07Z,2,3,MERGED
+pharos,"feat(icons): add new icons checkmark-filled-circle, circle and partial-circle",https://github.com/ithaka/pharos/pull/320,2022-03-04T18:25:54Z,2022-03-04T19:43:52Z,2,2,MERGED
+pharos,fix(build-styles): Enhance build-styles script to minify css,https://github.com/ithaka/pharos/pull/319,2022-03-03T20:18:47Z,2022-03-04T20:00:42Z,4,5,MERGED
+pharos,fix(site): try limiting all jobs to Node 16.13.x,https://github.com/ithaka/pharos/pull/316,2022-02-26T22:39:03Z,2022-02-28T14:56:20Z,3,1,CLOSED
+pharos,fix(site): add type assertions for JSON module imports,https://github.com/ithaka/pharos/pull/315,2022-02-26T22:29:57Z,2022-02-28T14:28:21Z,3,1,MERGED
+pharos,fix(site): add .node-version file to limit Netlify build,https://github.com/ithaka/pharos/pull/314,2022-02-26T21:51:00Z,2022-02-26T21:57:08Z,1,1,CLOSED
+pharos,Button: fix styling of buttons with on-background within Vue3 apps,https://github.com/ithaka/pharos/pull/308,2022-02-09T17:49:45Z,2024-01-04T17:43:38Z,4,3,CLOSED
+pharos,Test Chromatic pull request status checks,https://github.com/ithaka/pharos/pull/299,2022-01-12T17:10:06Z,2022-01-12T23:39:34Z,5,3,CLOSED
+pharos,fix(header): push navigation areas to boundaries,https://github.com/ithaka/pharos/pull/297,2022-01-11T21:56:09Z,2022-01-11T22:10:20Z,2,2,MERGED
+pharos,feat(header): update slots and grid for new designs,https://github.com/ithaka/pharos/pull/295,2022-01-08T00:54:29Z,2022-01-10T21:45:40Z,2,4,MERGED
+pharos,fix(dropdown-menu-item): pass rel attribute from menu item to anchor tag,https://github.com/ithaka/pharos/pull/293,2022-01-06T02:05:18Z,2022-01-06T19:44:11Z,3,3,MERGED
+pharos,chore(site): update copyright statement,https://github.com/ithaka/pharos/pull/291,2022-01-01T20:17:47Z,2022-01-02T18:27:24Z,2,1,MERGED
+pharos,Addition: new icon for zip filetypes,https://github.com/ithaka/pharos/pull/349,2022-05-20T17:08:09Z,2022-05-23T16:42:41Z,4,5,MERGED
+pharos,Added new icon: filetype-zip.svg,https://github.com/ithaka/pharos/pull/348,2022-05-20T16:46:56Z,2022-05-20T17:05:25Z,4,2,CLOSED
+pharos,add registry polyfill info to getting started,https://github.com/ithaka/pharos/pull/345,2022-05-13T17:58:08Z,2022-06-01T13:24:02Z,4,7,MERGED
+pharos,fix(icon): remove fill in svg,https://github.com/ithaka/pharos/pull/342,2022-05-05T19:24:52Z,2022-05-05T19:37:05Z,2,2,MERGED
+pharos,feat(icons): Add new icons shift-up and shift-down,https://github.com/ithaka/pharos/pull/339,2022-05-03T18:23:42Z,2022-05-05T16:21:56Z,5,8,MERGED
+pharos,fix: use yarn in size limit action,https://github.com/ithaka/pharos/pull/338,2022-05-03T17:39:47Z,2022-05-03T23:32:30Z,3,5,MERGED
+pharos,fix: update path relativity so all paths resolve correctly,https://github.com/ithaka/pharos/pull/336,2022-05-03T17:28:36Z,2022-05-03T23:50:56Z,2,2,MERGED
+pharos,fix(card): restructure cards to avoid extra mouse events preventing selection in Safari,https://github.com/ithaka/pharos/pull/384,2022-07-29T16:11:25Z,2022-08-03T18:49:28Z,3,4,MERGED
+pharos,fix(docs): redirect iconography button to storybook icons page,https://github.com/ithaka/pharos/pull/380,2022-07-21T02:11:22Z,2022-07-22T00:49:18Z,3,6,MERGED
+pharos,feat(icon): Add new profile icon,https://github.com/ithaka/pharos/pull/375,2022-07-19T12:39:35Z,2022-07-22T00:35:19Z,2,4,MERGED
+pharos,ImageCard: Use gray background on selectable disabled card,https://github.com/ithaka/pharos/pull/373,2022-07-14T15:19:50Z,2022-07-15T14:10:02Z,2,2,MERGED
+pharos,fix(build): use proper exit code,https://github.com/ithaka/pharos/pull/372,2022-07-12T18:44:12Z,2022-07-12T18:53:59Z,2,1,MERGED
+pharos,fix(build): always build if the compared commits are the same,https://github.com/ithaka/pharos/pull/371,2022-07-12T18:27:05Z,2022-07-12T18:42:26Z,2,1,MERGED
+pharos,fix(build): add commit logging in build ignore script,https://github.com/ithaka/pharos/pull/370,2022-07-12T01:01:10Z,2022-07-12T15:16:30Z,2,2,MERGED
+pharos,chore(deps): update Storybook package versions,https://github.com/ithaka/pharos/pull/369,2022-07-11T17:48:25Z,2022-07-12T01:01:27Z,2,4,MERGED
+pharos,"ImageCard: Selectable and disabled variants, new styling for error variant",https://github.com/ithaka/pharos/pull/366,2022-07-07T20:19:07Z,2022-07-11T17:36:53Z,10,29,MERGED
+pharos,Fix ITHAKA organizational links,https://github.com/ithaka/pharos/pull/360,2022-06-06T23:36:06Z,2022-06-07T12:18:01Z,2,3,MERGED
+pharos,fix(chromatic): update delays for visual snapshot tests,https://github.com/ithaka/pharos/pull/359,2022-06-05T17:35:21Z,2022-06-06T13:50:24Z,1,1,MERGED
+pharos,Storybook: Convert stories to CSF 3,https://github.com/ithaka/pharos/pull/435,2022-10-31T01:29:29Z,2022-11-07T15:56:18Z,4,46,MERGED
+pharos,"Tooltip, DropdownMenu: replace popperjs with floating-ui",https://github.com/ithaka/pharos/pull/434,2022-10-30T19:31:24Z,2022-11-01T00:35:16Z,4,12,MERGED
+pharos,Site: improve imports,https://github.com/ithaka/pharos/pull/433,2022-10-29T15:31:26Z,2022-10-29T19:30:38Z,2,6,MERGED
+pharos,Checkbox: only update state if change was not cancelled,https://github.com/ithaka/pharos/pull/431,2022-10-24T15:26:11Z,2022-10-26T13:34:42Z,14,11,MERGED
+pharos,ImageCard: stopPropagation when toggling select,https://github.com/ithaka/pharos/pull/428,2022-10-17T16:29:33Z,2022-10-17T19:27:16Z,2,3,MERGED
+pharos,"Pin Yarn and Node versions, and update relevant quickstart docs",https://github.com/ithaka/pharos/pull/427,2022-10-14T23:13:18Z,2022-10-19T00:17:25Z,7,8,MERGED
+pharos,chore: pin Yarn version using Yarn's built-in version managment,https://github.com/ithaka/pharos/pull/426,2022-10-14T17:20:55Z,2022-10-14T18:04:52Z,3,1,CLOSED
+pharos,Checkbox: update ARIA attribute on decorative SVG,https://github.com/ithaka/pharos/pull/425,2022-10-13T16:45:16Z,2022-10-17T17:51:16Z,2,2,MERGED
+pharos,feat(sidenav): add close event,https://github.com/ithaka/pharos/pull/421,2022-10-03T12:37:49Z,2022-10-06T17:34:04Z,3,8,MERGED
+pharos,Link & Image Card: Fix visited link hover state underline color for link + adding visited link support for title link in image card,https://github.com/ithaka/pharos/pull/416,2022-09-28T13:45:18Z,2022-09-29T13:11:39Z,6,10,MERGED
+pharos,Heading: Fix text color inheritance for linked headings,https://github.com/ithaka/pharos/pull/414,2022-09-27T20:26:07Z,2022-09-27T20:46:10Z,2,5,MERGED
+pharos,test(pharos-heading): no color inherit,https://github.com/ithaka/pharos/pull/413,2022-09-27T19:23:01Z,2022-09-27T20:25:52Z,2,2,CLOSED
+pharos,test(visited-link): pharos heading and link styles,https://github.com/ithaka/pharos/pull/412,2022-09-27T18:59:42Z,2022-09-27T20:25:41Z,2,1,CLOSED
+pharos,Link: Allow for visited links styling,https://github.com/ithaka/pharos/pull/409,2022-09-20T17:13:35Z,2022-09-26T13:30:45Z,12,10,MERGED
+pharos,ImageCard: add selectable treatment to subtle cards,https://github.com/ithaka/pharos/pull/408,2022-09-19T14:51:40Z,2022-09-29T15:49:35Z,5,16,MERGED
+pharos,Toast: Make updateable,https://github.com/ithaka/pharos/pull/407,2022-09-14T17:21:14Z,2022-09-20T18:32:18Z,10,11,MERGED
+pharos,ToggleButtonGroup: not consistently applying initial selected state,https://github.com/ithaka/pharos/pull/405,2022-09-06T17:57:23Z,2022-09-08T12:17:12Z,2,4,MERGED
+pharos,"Checkbox, RadioButton: allow for scoped pharos links",https://github.com/ithaka/pharos/pull/400,2022-08-30T13:00:46Z,2022-08-30T13:21:45Z,2,3,MERGED
+pharos,"Checkbox, RadioButton: allow for scoped pharos links",https://github.com/ithaka/pharos/pull/399,2022-08-30T12:41:14Z,2022-08-30T12:51:25Z,2,2,MERGED
+pharos,TextInput: explicitly set margin to avoid undesired user agent styles,https://github.com/ithaka/pharos/pull/397,2022-08-19T18:04:30Z,2022-08-19T18:32:45Z,2,1,MERGED
+pharos,ImageCard: remove event.stopPropagation from _cardToggleSelect,https://github.com/ithaka/pharos/pull/393,2022-08-17T18:01:04Z,2022-08-18T20:57:01Z,3,4,MERGED
+pharos,ImageCard: Selectable Image card keyboard accessibility ,https://github.com/ithaka/pharos/pull/392,2022-08-17T16:56:11Z,2022-08-18T14:04:42Z,9,12,MERGED
+pharos,Feature/selectable image card accessibility,https://github.com/ithaka/pharos/pull/391,2022-08-17T15:16:26Z,2022-08-17T15:22:47Z,2,5,CLOSED
+pharos,feat(site): add last updated column to status page,https://github.com/ithaka/pharos/pull/390,2022-08-16T18:54:18Z,2022-08-16T22:22:28Z,3,1,MERGED
+pharos,Fix/text input remove contain,https://github.com/ithaka/pharos/pull/388,2022-08-05T19:10:58Z,2022-08-05T19:20:37Z,2,3,MERGED
+pharos,TextInput / InputGroup: prominent variant,https://github.com/ithaka/pharos/pull/386,2022-08-03T19:37:35Z,2022-08-04T19:01:16Z,7,16,MERGED
+pharos,Toast: make toast IDs unique,https://github.com/ithaka/pharos/pull/466,2022-12-19T20:20:56Z,2023-01-06T22:13:51Z,8,9,MERGED
+pharos,Storybook: use Pharos standard colors for background options,https://github.com/ithaka/pharos/pull/464,2022-12-10T00:38:15Z,2022-12-11T16:20:25Z,2,1,MERGED
+pharos,Synchronize button variant implementations with current designs,https://github.com/ithaka/pharos/pull/463,2022-12-08T23:16:04Z,2022-12-10T00:05:22Z,2,11,MERGED
+pharos,Icon: Add new fit-to-width icon,https://github.com/ithaka/pharos/pull/459,2022-11-29T13:55:43Z,2022-11-29T21:53:15Z,3,6,MERGED
+pharos,Tabs: make tabs scroll horizontally when cramped,https://github.com/ithaka/pharos/pull/457,2022-11-18T12:03:43Z,2022-11-29T18:55:02Z,2,8,MERGED
+pharos,Docs: Add documentation for overlay button variant,https://github.com/ithaka/pharos/pull/456,2022-11-18T01:12:19Z,2022-11-29T20:40:59Z,3,4,MERGED
+pharos,Storybook: use babel and storyStore v7,https://github.com/ithaka/pharos/pull/455,2022-11-13T18:46:34Z,2022-11-13T19:14:51Z,3,7,CLOSED
+pharos,Infra: add icon SVG linting using svglint,https://github.com/ithaka/pharos/pull/454,2022-11-12T04:21:08Z,2022-11-14T15:48:54Z,2,2,MERGED
+pharos,Refactor: use queryAssignedElements and simplify focus loops,https://github.com/ithaka/pharos/pull/453,2022-11-12T01:39:27Z,2022-11-14T17:34:06Z,2,8,MERGED
+pharos,Dropdown: apply position computation and styles to proper element,https://github.com/ithaka/pharos/pull/451,2022-11-11T21:50:11Z,2022-11-11T22:06:55Z,2,3,MERGED
+pharos,Tabs: fix initial tab selection in more cases,https://github.com/ithaka/pharos/pull/449,2022-11-10T19:26:24Z,2022-11-10T22:51:23Z,9,4,MERGED
+pharos,Tabs: await each child tab and panel update before other initialization,https://github.com/ithaka/pharos/pull/448,2022-11-10T04:04:36Z,2022-11-10T19:02:06Z,6,1,CLOSED
+pharos,Storybook: add eslint-plugin-storybook and fix issues,https://github.com/ithaka/pharos/pull/446,2022-11-08T17:43:51Z,2022-11-10T01:46:22Z,4,4,MERGED
+pharos,Storybook: install Measure and Outline addons,https://github.com/ithaka/pharos/pull/445,2022-11-08T03:01:59Z,2022-11-08T14:56:50Z,2,1,MERGED
+pharos,Docs: update copy for Button's on-background usage,https://github.com/ithaka/pharos/pull/444,2022-11-07T15:54:44Z,2022-11-07T23:31:43Z,2,3,MERGED
+pharos,Tabs: fire event when tab selected programmatically,https://github.com/ithaka/pharos/pull/442,2022-11-07T01:44:58Z,2022-11-07T13:53:13Z,2,1,MERGED
+pharos,ToggleButton: indicate toggle button state on underlying button elements,https://github.com/ithaka/pharos/pull/438,2022-11-02T00:05:35Z,2022-11-02T20:28:34Z,8,3,MERGED
+pharos,Toast: allow toast to return focus to consumer defined elements after close,https://github.com/ithaka/pharos/pull/503,2023-03-22T21:49:12Z,2023-03-27T19:47:17Z,8,12,MERGED
+pharos,"Storybook, tests: use scoped components",https://github.com/ithaka/pharos/pull/501,2023-03-04T19:46:13Z,2023-04-23T03:42:25Z,4,16,MERGED
+pharos,Storybook: Fix issue in composed storybook build,https://github.com/ithaka/pharos/pull/500,2023-03-03T19:26:30Z,2023-03-03T21:27:57Z,2,2,MERGED
+pharos,Pharos site: fix pharos site local browser error,https://github.com/ithaka/pharos/pull/499,2023-03-03T18:25:03Z,2023-03-03T19:26:49Z,2,2,MERGED
+pharos,Icon: Add audio icons,https://github.com/ithaka/pharos/pull/497,2023-02-21T17:46:26Z,2023-02-22T19:43:07Z,4,3,MERGED
+pharos,Footer: update DOM selectors for Google Translate widget,https://github.com/ithaka/pharos/pull/496,2023-02-17T00:30:15Z,2023-02-17T15:05:35Z,2,3,MERGED
+pharos,Backfill architecture decision records,https://github.com/ithaka/pharos/pull/494,2023-02-16T03:16:04Z,2023-02-17T00:37:52Z,3,4,MERGED
+pharos,Docs: Update flex attribute docs for links ,https://github.com/ithaka/pharos/pull/493,2023-02-09T16:40:04Z,2023-02-22T01:49:38Z,4,5,MERGED
+pharos,Link: display blue outline on focus,https://github.com/ithaka/pharos/pull/491,2023-02-02T19:52:10Z,2023-02-09T16:07:36Z,15,4,CLOSED
+pharos,ImageCard: prevent tab lock in subtle select image card with overlay,https://github.com/ithaka/pharos/pull/488,2023-02-02T00:03:54Z,2023-02-02T18:26:13Z,2,6,MERGED
+pharos,ImageCard: allow tab into subtle image card checkbox,https://github.com/ithaka/pharos/pull/486,2023-01-30T23:08:52Z,2023-02-01T20:39:47Z,6,2,MERGED
+pharos,ImageCard: fix visited link indication,https://github.com/ithaka/pharos/pull/483,2023-01-27T17:24:07Z,2023-01-27T18:25:33Z,2,6,MERGED
+pharos,Site: fix site build,https://github.com/ithaka/pharos/pull/481,2023-01-25T18:07:09Z,2023-01-25T21:49:35Z,4,3,MERGED
+pharos,DropdownMenu: add nav category to replace links,https://github.com/ithaka/pharos/pull/479,2023-01-24T01:40:54Z,2024-01-23T19:10:22Z,9,25,MERGED
+pharos,Sidenav: remove sidenav button,https://github.com/ithaka/pharos/pull/478,2023-01-23T20:32:35Z,2023-11-29T22:46:08Z,4,12,MERGED
+pharos,Toast: Update Toaster to use internally consistent scoping,https://github.com/ithaka/pharos/pull/475,2023-01-19T03:56:26Z,2023-01-25T20:23:54Z,6,5,MERGED
+pharos,"Infra: Bump TypeScript, add main exports",https://github.com/ithaka/pharos/pull/472,2023-01-13T17:05:32Z,2023-01-20T21:18:35Z,10,12,MERGED
+pharos,Combobox: add loose-match option for matching query,https://github.com/ithaka/pharos/pull/470,2023-01-09T22:06:55Z,2023-01-10T14:29:40Z,5,4,MERGED
+pharos,Tabs: move selected state management to pharos-tabs,https://github.com/ithaka/pharos/pull/468,2023-01-06T20:51:23Z,2023-01-23T15:01:27Z,4,13,MERGED
+pharos,Icon: Update paging icon,https://github.com/ithaka/pharos/pull/536,2023-05-26T16:57:38Z,2023-05-26T17:39:32Z,2,2,MERGED
+pharos,Sidenav: Update wait for animation to be less flaky in test,https://github.com/ithaka/pharos/pull/535,2023-05-26T00:35:15Z,2023-05-26T14:37:23Z,3,4,MERGED
+pharos,Storybook: Update links broken by scoping,https://github.com/ithaka/pharos/pull/534,2023-05-25T17:09:53Z,2023-05-25T17:50:52Z,3,2,MERGED
+pharos,Icons: Add paging and scrolling icons,https://github.com/ithaka/pharos/pull/533,2023-05-24T14:42:15Z,2023-05-25T23:08:59Z,4,5,MERGED
+pharos,"Modal: ""Base"" and ""No footer"" stories fixed in Storybook",https://github.com/ithaka/pharos/pull/530,2023-05-18T13:52:25Z,2023-05-19T15:27:36Z,3,5,MERGED
+pharos,chore(infra): upgrade to Node.js 18,https://github.com/ithaka/pharos/pull/529,2023-05-16T21:00:20Z,2023-05-17T10:53:05Z,2,3,MERGED
+pharos,Storybook: use babel 7,https://github.com/ithaka/pharos/pull/528,2023-05-15T21:09:01Z,2023-05-15T23:51:34Z,2,3,MERGED
+pharos,Storybook: use story store v7,https://github.com/ithaka/pharos/pull/526,2023-05-15T20:42:44Z,2023-05-15T21:16:39Z,2,1,MERGED
+pharos,Tabs: Make selected tab outline fully visible,https://github.com/ithaka/pharos/pull/525,2023-05-07T17:45:16Z,2023-05-08T19:05:48Z,2,4,MERGED
+pharos,Button: Only render aria-pressed when explicitly defined,https://github.com/ithaka/pharos/pull/524,2023-05-07T17:36:18Z,2023-05-08T18:22:56Z,2,2,MERGED
+pharos,Carousel,https://github.com/ithaka/pharos/pull/522,2023-05-05T14:45:12Z,2024-05-07T18:26:08Z,3,3,CLOSED
+pharos,fix(site): add missing href to example Link,https://github.com/ithaka/pharos/pull/521,2023-05-02T13:51:24Z,2023-05-02T16:48:38Z,2,4,MERGED
+pharos,Use minified html template literals,https://github.com/ithaka/pharos/pull/517,2023-05-02T01:12:11Z,2023-05-02T13:43:15Z,2,5,MERGED
+pharos,fix(image-card): display preview not available error for collection variant,https://github.com/ithaka/pharos/pull/516,2023-04-26T21:37:39Z,2023-05-05T21:49:43Z,4,17,MERGED
+pharos, Update the missing href value,https://github.com/ithaka/pharos/pull/508,2023-04-01T10:59:00Z,2023-05-02T16:48:40Z,4,1,CLOSED
+pharos,Toast: Prevent error being thrown if opened without returnElements setting,https://github.com/ithaka/pharos/pull/572,2023-07-28T21:21:13Z,2023-08-02T14:44:35Z,4,5,MERGED
+pharos,Updating thumbs up/down filled icons,https://github.com/ithaka/pharos/pull/570,2023-07-27T21:50:40Z,2024-03-08T22:09:25Z,5,13,CLOSED
+pharos,Icon: add microsoft icon,https://github.com/ithaka/pharos/pull/568,2023-07-26T15:59:21Z,2023-07-26T16:48:35Z,5,3,MERGED
+pharos,Icons: add thumbs up down icons,https://github.com/ithaka/pharos/pull/566,2023-07-25T18:35:07Z,2023-07-26T12:44:48Z,9,5,MERGED
+pharos,Image card: update image card error variant text,https://github.com/ithaka/pharos/pull/564,2023-07-19T14:31:21Z,2023-07-19T20:48:55Z,3,5,MERGED
+pharos,Icons: Add closed captions icons,https://github.com/ithaka/pharos/pull/561,2023-07-13T20:47:11Z,2023-07-14T15:17:58Z,3,4,MERGED
+pharos,"Decision: Create explicit, minimally exhaustive accessibility properties for components",https://github.com/ithaka/pharos/pull/559,2023-07-09T17:00:53Z,2023-07-11T23:39:35Z,4,6,MERGED
+pharos,Use :focus-visible for most interactive elements,https://github.com/ithaka/pharos/pull/558,2023-07-09T15:48:50Z,2023-07-11T19:40:38Z,7,3,MERGED
+pharos,chore: update dependencies,https://github.com/ithaka/pharos/pull/556,2023-07-08T17:25:00Z,2023-07-08T18:14:12Z,3,2,MERGED
+pharos,Infra: specify sass as peer dependency for @ithaka/pharos,https://github.com/ithaka/pharos/pull/555,2023-07-08T02:26:44Z,2023-07-08T03:00:36Z,2,3,MERGED
+pharos,Alert: use icon-condensed for close button,https://github.com/ithaka/pharos/pull/553,2023-07-08T02:03:06Z,2023-07-08T02:45:36Z,2,3,MERGED
+pharos,fix(pharos-site-component-links): update link,https://github.com/ithaka/pharos/pull/551,2023-07-07T20:04:31Z,2023-07-07T23:41:50Z,2,2,MERGED
+pharos,Storybook: Fix broken composition,https://github.com/ithaka/pharos/pull/546,2023-06-15T12:34:06Z,2023-06-15T12:59:38Z,2,5,MERGED
+pharos,fix(storybook): update composed storybook config,https://github.com/ithaka/pharos/pull/545,2023-06-14T00:34:00Z,2023-06-14T12:55:06Z,2,1,MERGED
+pharos,Upgrade to Storybook 7 + Vite builder,https://github.com/ithaka/pharos/pull/543,2023-06-13T00:08:09Z,2023-06-13T22:52:02Z,6,15,MERGED
+pharos,chore(actions): update Atlassian changesets version,https://github.com/ithaka/pharos/pull/541,2023-06-08T20:35:24Z,2023-06-08T20:46:46Z,2,1,MERGED
+pharos,Icons: Add reorder icon,https://github.com/ithaka/pharos/pull/539,2023-06-06T19:26:00Z,2023-06-08T19:42:12Z,2,2,MERGED
+pharos,Add elevation tokens and documentation,https://github.com/ithaka/pharos/pull/643,2023-10-25T20:12:05Z,2023-11-29T22:25:30Z,6,17,MERGED
+pharos,Coach Mark: Documentation fixes,https://github.com/ithaka/pharos/pull/639,2023-10-18T21:15:31Z,2023-10-19T13:58:52Z,2,6,MERGED
+pharos,Coach Mark: Fix react component positioning,https://github.com/ithaka/pharos/pull/638,2023-10-18T21:15:24Z,2023-10-19T14:28:34Z,2,3,MERGED
+pharos,Icon: Add Panorama icon,https://github.com/ithaka/pharos/pull/631,2023-10-11T16:48:52Z,2023-10-13T13:53:14Z,2,2,MERGED
+pharos,feat(cli): add newly created components created using pharos-cli to initComponents files,https://github.com/ithaka/pharos/pull/630,2023-10-10T22:07:06Z,2023-10-27T20:09:38Z,7,10,MERGED
+pharos,A11y revamp: Pharos buttons (non-breaking change),https://github.com/ithaka/pharos/pull/628,2023-10-05T18:24:19Z,2023-12-08T17:06:10Z,8,36,MERGED
+pharos,Loading spinner: add small and on background variant,https://github.com/ithaka/pharos/pull/627,2023-10-05T15:58:30Z,2023-10-10T16:27:30Z,2,3,MERGED
+pharos,Sheet: allow expansion with attribute,https://github.com/ithaka/pharos/pull/625,2023-10-03T19:51:20Z,2023-10-04T17:08:30Z,3,4,MERGED
+pharos,Sheet: Add more close options and transition timing function,https://github.com/ithaka/pharos/pull/620,2023-09-25T21:01:22Z,2023-10-03T15:52:59Z,2,22,MERGED
+pharos,fix(button): remove fill on subtle disabled button on background,https://github.com/ithaka/pharos/pull/618,2023-09-25T12:34:46Z,2023-10-04T01:07:35Z,2,5,MERGED
+pharos,Sheet: Update default height and emit event for expand and collapse,https://github.com/ithaka/pharos/pull/617,2023-09-22T19:15:14Z,2023-09-25T14:47:37Z,2,4,MERGED
+pharos,Fix broken whitespace in Icon documentation,https://github.com/ithaka/pharos/pull/616,2023-09-21T15:58:21Z,2024-01-04T11:34:12Z,2,3,MERGED
+pharos,Remove `paint` value from contain properties,https://github.com/ithaka/pharos/pull/614,2023-09-15T22:26:45Z,2023-09-19T15:26:25Z,1,2,MERGED
+pharos,Sheet: Add overflow for long content and remove footer,https://github.com/ithaka/pharos/pull/613,2023-09-13T20:44:43Z,2023-09-18T13:29:00Z,3,7,MERGED
+pharos,Popover: use sheet in popover as mobile view,https://github.com/ithaka/pharos/pull/612,2023-09-12T21:04:05Z,2023-09-13T20:39:55Z,2,19,CLOSED
+pharos,Popover: Border radius styling enforcement,https://github.com/ithaka/pharos/pull/610,2023-09-12T16:05:56Z,2023-09-12T19:48:43Z,2,3,MERGED
+pharos,Coach Mark: Component contribution,https://github.com/ithaka/pharos/pull/608,2023-09-08T15:43:48Z,2023-09-29T18:45:10Z,17,50,MERGED
+pharos,docs: add @sirrah-tam as a contributor,https://github.com/ithaka/pharos/pull/607,2023-09-06T23:30:14Z,2023-09-07T00:19:09Z,1,1,MERGED
+pharos,Tokens: improve glacier-blue-40 AAA color contrast,https://github.com/ithaka/pharos/pull/606,2023-09-06T20:18:51Z,2023-09-06T20:44:06Z,3,2,MERGED
+pharos,Bump dependencies and update resolutions,https://github.com/ithaka/pharos/pull/605,2023-09-06T19:45:04Z,2023-09-06T20:05:55Z,2,1,MERGED
+pharos,Update deps and resolutions,https://github.com/ithaka/pharos/pull/604,2023-09-06T19:12:53Z,2023-09-06T20:05:56Z,2,2,CLOSED
+pharos,Sheet: Component Contribution,https://github.com/ithaka/pharos/pull/603,2023-08-31T19:46:07Z,2023-09-12T18:51:20Z,7,17,MERGED
+pharos,chore(sidenav): fix flaky test,https://github.com/ithaka/pharos/pull/600,2023-08-30T21:20:26Z,2023-08-30T21:58:27Z,2,2,MERGED
+pharos,Dropdown: add line rules for light variants,https://github.com/ithaka/pharos/pull/599,2023-08-30T20:08:24Z,2023-09-06T19:29:44Z,2,4,MERGED
+pharos,Icon: Add compare and side-panel icons,https://github.com/ithaka/pharos/pull/596,2023-08-30T17:58:43Z,2023-08-31T13:02:22Z,2,2,MERGED
+pharos,a11y revamp: Pharos Buttons,https://github.com/ithaka/pharos/pull/594,2023-08-28T13:52:37Z,2024-01-04T17:12:50Z,11,38,MERGED
+pharos,feat: add send icon,https://github.com/ithaka/pharos/pull/592,2023-08-24T14:05:22Z,2023-08-24T18:19:01Z,2,3,MERGED
+pharos,Remove contain property,https://github.com/ithaka/pharos/pull/589,2023-08-20T15:38:02Z,2023-09-15T22:27:04Z,4,6,CLOSED
+pharos,Popover: new element contribution,https://github.com/ithaka/pharos/pull/588,2023-08-18T18:54:28Z,2023-08-29T12:57:19Z,16,25,MERGED
+pharos,chore: update Floating UI dependency,https://github.com/ithaka/pharos/pull/587,2023-08-18T15:18:47Z,2023-08-21T14:56:57Z,4,4,MERGED
+pharos,Footer: Remove google translate,https://github.com/ithaka/pharos/pull/586,2023-08-18T02:04:41Z,2023-08-20T17:40:28Z,2,5,MERGED
+pharos,Dropdown Menu: add fallback color for on background variant,https://github.com/ithaka/pharos/pull/583,2023-08-17T12:57:41Z,2023-08-21T15:06:30Z,2,3,MERGED
+pharos,Storybook: remove TypeScript watch from commands,https://github.com/ithaka/pharos/pull/582,2023-08-12T14:03:07Z,2023-08-14T13:00:08Z,3,1,MERGED
+pharos,Infra: update Yarn scripts,https://github.com/ithaka/pharos/pull/579,2023-08-06T02:24:53Z,2023-08-07T14:08:26Z,2,7,MERGED
+pharos,Global: update onBackground to isOnBackground,https://github.com/ithaka/pharos/pull/578,2023-08-04T20:02:14Z,2023-11-29T22:00:12Z,4,12,MERGED
+pharos,Icon: Update stories to correctly pass description to components,https://github.com/ithaka/pharos/pull/577,2023-08-04T18:58:33Z,2023-08-04T20:56:48Z,2,2,MERGED
+pharos,DropdownMenu: add onBackground variant,https://github.com/ithaka/pharos/pull/576,2023-08-03T18:46:04Z,2023-08-09T18:04:48Z,8,15,MERGED
+pharos,CLI: update to match latest Storybook needs,https://github.com/ithaka/pharos/pull/575,2023-08-03T00:13:01Z,2023-08-03T12:36:07Z,2,3,MERGED
+pharos,Storybook: bump dependency versions,https://github.com/ithaka/pharos/pull/573,2023-08-01T12:31:49Z,2023-08-01T13:23:54Z,2,2,MERGED
+pharos,"Radio, Checkbox: Fix group label",https://github.com/ithaka/pharos/pull/652,2023-11-27T16:15:14Z,2023-11-30T22:21:16Z,5,24,MERGED
+pharos,Card: Improve accessibility by moving `overlay` slot outside of `<a>` tag,https://github.com/ithaka/pharos/pull/650,2023-11-20T19:42:22Z,2024-06-12T17:45:14Z,7,3,CLOSED
+pharos,Add a11y properties to icon component,https://github.com/ithaka/pharos/pull/646,2023-11-13T13:09:21Z,2024-01-12T14:00:15Z,7,17,MERGED
+pharos,Update sidenav-links marked as external to open in a new tab,https://github.com/ithaka/pharos/pull/645,2023-11-03T15:06:54Z,2023-11-06T21:11:11Z,2,1,MERGED
+pharos,Upgrade to TypeScript 5,https://github.com/ithaka/pharos/pull/644,2023-11-02T18:27:18Z,2023-11-02T20:05:23Z,2,6,MERGED
+pharos,Remove browser styled scrollbar from Tabs component,https://github.com/ithaka/pharos/pull/737,2024-03-28T21:48:12Z,2024-05-07T20:25:58Z,4,2,CLOSED
+pharos,chore(deps): update package dependencies,https://github.com/ithaka/pharos/pull/735,2024-03-27T23:16:04Z,2024-03-28T13:15:20Z,2,1,MERGED
+pharos,Coach Mark: Emit event when user hits the close button,https://github.com/ithaka/pharos/pull/733,2024-03-21T18:00:06Z,2024-03-21T18:56:43Z,2,4,MERGED
+pharos,chore(deps): bump deps,https://github.com/ithaka/pharos/pull/730,2024-03-21T11:24:23Z,2024-03-21T11:46:53Z,2,2,CLOSED
+pharos,Toaster: Add test for deleting an updateable toast,https://github.com/ithaka/pharos/pull/729,2024-03-19T13:29:48Z,2024-03-19T16:29:15Z,3,6,MERGED
+pharos,chore(deps): update dependencies,https://github.com/ithaka/pharos/pull/727,2024-03-15T20:08:45Z,2024-03-16T00:59:06Z,2,11,MERGED
+pharos,Table: fix the empty table column cell element and add test,https://github.com/ithaka/pharos/pull/726,2024-03-15T16:27:57Z,2024-03-15T17:28:29Z,2,3,MERGED
+pharos,Table: fix the empty table column cell element,https://github.com/ithaka/pharos/pull/725,2024-03-15T14:04:05Z,2024-03-15T15:23:42Z,2,22,CLOSED
+pharos,chore(deps): update @custom-elements-manifest/analyzer,https://github.com/ithaka/pharos/pull/723,2024-03-14T20:37:51Z,2024-03-14T21:16:51Z,2,2,MERGED
+pharos,Toast: Correct merge resolution to enable dismissal,https://github.com/ithaka/pharos/pull/720,2024-03-14T18:58:56Z,2024-03-14T19:58:41Z,2,8,MERGED
+pharos,Pull in changes from Pharos 13 into Pharos 14,https://github.com/ithaka/pharos/pull/719,2024-03-14T17:32:49Z,2024-03-14T18:04:11Z,3,15,CLOSED
+pharos,Update dependencies to latest compatible versions,https://github.com/ithaka/pharos/pull/716,2024-03-12T21:06:02Z,2024-03-13T12:48:09Z,2,28,MERGED
+pharos,fix(infra): ensure JSDOM patch is exported,https://github.com/ithaka/pharos/pull/714,2024-03-12T18:38:49Z,2024-03-12T18:55:49Z,2,4,MERGED
+pharos,chore: upgrade to prettier 3,https://github.com/ithaka/pharos/pull/712,2024-03-10T16:22:04Z,2024-03-11T13:06:30Z,3,3,MERGED
+pharos,chore(storybook): bump to v8 release candidate,https://github.com/ithaka/pharos/pull/711,2024-03-08T22:31:27Z,2024-03-13T13:12:11Z,2,1,CLOSED
+pharos,chore(deps): update GitHub Actions and Node versions,https://github.com/ithaka/pharos/pull/704,2024-03-08T19:05:24Z,2024-03-08T21:00:44Z,2,3,MERGED
+pharos,fix(site): use Pharos v14 properties,https://github.com/ithaka/pharos/pull/703,2024-03-08T17:14:09Z,2024-03-08T17:26:09Z,3,3,MERGED
+pharos,fix(storybook): update Babel configuration,https://github.com/ithaka/pharos/pull/702,2024-03-08T15:03:57Z,2024-03-08T15:25:41Z,2,2,MERGED
+pharos,fix(infra): use Node 18 in .nvmrc,https://github.com/ithaka/pharos/pull/701,2024-03-08T13:12:29Z,2024-03-08T13:17:19Z,2,1,MERGED
+pharos,Require an accessible label be present for icon-only buttons,https://github.com/ithaka/pharos/pull/699,2024-03-07T17:18:19Z,2024-03-07T18:22:30Z,1,3,MERGED
+pharos,Release/14.0.0,https://github.com/ithaka/pharos/pull/697,2024-03-07T13:59:05Z,2024-03-07T18:41:26Z,7,38,MERGED
+pharos,Update Storybook stories with new sidenav display logic,https://github.com/ithaka/pharos/pull/696,2024-03-04T14:15:46Z,2024-03-07T13:57:21Z,9,22,MERGED
+pharos,Table: Create table components,https://github.com/ithaka/pharos/pull/695,2024-03-02T02:40:12Z,2024-03-14T12:35:50Z,24,35,MERGED
+pharos,chore(deps): upgrade to Yarn 4,https://github.com/ithaka/pharos/pull/694,2024-03-01T13:35:06Z,2024-03-01T14:17:06Z,2,4,MERGED
+pharos,Add ability to use a11y-disabled and maintain default disabled styling,https://github.com/ithaka/pharos/pull/691,2024-02-23T17:58:25Z,2024-03-04T15:39:43Z,1,2,MERGED
+pharos,Tabs: Remove overflow-y from pharos-tabs' tab__panels class,https://github.com/ithaka/pharos/pull/690,2024-02-21T15:48:43Z,2024-02-27T17:14:19Z,1,2,MERGED
+pharos,fix(icon): add media query style for WHCM,https://github.com/ithaka/pharos/pull/689,2024-02-20T20:33:16Z,2024-02-22T14:12:50Z,5,3,MERGED
+pharos,Tabs: Remove overflow-y from pharos-tabs' tab__panels class,https://github.com/ithaka/pharos/pull/686,2024-02-15T20:51:11Z,2024-02-21T15:52:24Z,5,11,CLOSED
+pharos,Dropdown Menu: Add default elevation,https://github.com/ithaka/pharos/pull/684,2024-02-09T14:38:56Z,2024-02-13T16:43:35Z,2,2,MERGED
+pharos,Combobox: Add default elevation,https://github.com/ithaka/pharos/pull/683,2024-02-09T14:25:26Z,2024-02-13T14:24:44Z,1,3,MERGED
+pharos,Popover: Update default elevation to use token,https://github.com/ithaka/pharos/pull/682,2024-02-09T14:13:03Z,2024-02-13T15:32:49Z,1,1,MERGED
+pharos,Modal: Add default elevation,https://github.com/ithaka/pharos/pull/681,2024-02-09T13:51:50Z,2024-02-13T15:30:42Z,1,3,MERGED
+pharos,Fix the all-contributors badge,https://github.com/ithaka/pharos/pull/680,2024-02-06T13:57:46Z,2024-02-06T14:07:10Z,2,2,MERGED
+pharos,Require icon accessibility attributes,https://github.com/ithaka/pharos/pull/679,2024-02-02T19:36:21Z,2024-02-08T21:55:57Z,2,6,MERGED
+pharos,"Icon: Add ""add to folder"" icon",https://github.com/ithaka/pharos/pull/678,2024-02-01T23:34:17Z,2024-02-13T15:03:09Z,3,5,MERGED
+pharos,fix(link): update SB to pass in a11yLabel values,https://github.com/ithaka/pharos/pull/677,2024-01-23T14:37:37Z,2024-01-23T14:42:34Z,1,2,MERGED
+pharos,"Update link, dropdown-menu-nav, and popover to use a11y-label - Breaking",https://github.com/ithaka/pharos/pull/676,2024-01-22T21:39:49Z,2024-01-23T13:07:16Z,4,6,MERGED
+pharos,"Update link, dropdown-menu-nav, and popover to use a11y-label",https://github.com/ithaka/pharos/pull/675,2024-01-22T21:04:05Z,2024-01-23T13:49:14Z,2,12,MERGED
+pharos,Remove old onBackground attribute from sidenav storybook story,https://github.com/ithaka/pharos/pull/671,2024-01-19T21:37:01Z,2024-01-22T13:42:35Z,1,2,MERGED
+pharos,DropdownMenuNav: Add pharos-elevation-level-3 token,https://github.com/ithaka/pharos/pull/670,2024-01-19T21:08:13Z,2024-01-22T15:17:10Z,2,5,MERGED
+pharos,Hotfix/dropdown-menu-nav: Add pharos-elevation-level-3 token to dropdown-menu-nav,https://github.com/ithaka/pharos/pull/669,2024-01-19T20:52:12Z,2024-01-19T21:04:31Z,2,25,CLOSED
+pharos,Update deprecated a11y attributes in button component,https://github.com/ithaka/pharos/pull/666,2024-01-17T21:54:10Z,2024-01-18T15:01:53Z,2,5,MERGED
+pharos,Update all internal icon usages to use new a11y-hidden and a11y-title syntax,https://github.com/ithaka/pharos/pull/660,2024-01-17T15:53:04Z,2024-01-18T13:47:42Z,14,5,MERGED
+pharos,"Loading Spinner, Sidenav, Docs: use is-on-background correctly",https://github.com/ithaka/pharos/pull/657,2024-01-04T17:40:28Z,2024-01-04T19:44:10Z,1,3,MERGED
+pharos,fix(chromatic): reintroduce build-storybook script,https://github.com/ithaka/pharos/pull/656,2024-01-04T12:04:12Z,2024-01-04T13:35:42Z,2,1,MERGED
+pharos,fix(tabs): allow scrolling the panel contents,https://github.com/ithaka/pharos/pull/761,2024-05-28T15:12:07Z,2024-05-28T15:38:47Z,2,2,MERGED
+pharos,Bump dependencies,https://github.com/ithaka/pharos/pull/759,2024-05-28T12:00:32Z,2024-05-28T13:43:49Z,2,2,MERGED
+pharos,chore(deps): bump deps,https://github.com/ithaka/pharos/pull/757,2024-05-23T18:34:45Z,2024-05-24T12:35:42Z,3,1,CLOSED
+pharos,fix(eslint): update linting ignore patterns,https://github.com/ithaka/pharos/pull/754,2024-05-10T19:54:00Z,2024-05-10T19:59:25Z,2,1,MERGED
+pharos,Update to eslint 9,https://github.com/ithaka/pharos/pull/753,2024-05-10T19:13:53Z,2024-05-10T19:19:11Z,2,1,MERGED
+pharos,chore(deps): bump deps,https://github.com/ithaka/pharos/pull/752,2024-05-08T11:52:10Z,2024-05-08T12:39:44Z,2,1,MERGED
+pharos,chore(deps): bump dependencies,https://github.com/ithaka/pharos/pull/750,2024-05-08T00:12:33Z,2024-05-08T11:30:20Z,2,5,CLOSED
+pharos,Update dependencies,https://github.com/ithaka/pharos/pull/744,2024-04-24T01:29:49Z,2024-04-24T11:34:56Z,2,5,MERGED
+pharos,chore(deps): bump dependencies,https://github.com/ithaka/pharos/pull/743,2024-04-20T01:55:12Z,2024-04-22T17:29:12Z,2,2,MERGED
+pharos,Update Storybook to v8,https://github.com/ithaka/pharos/pull/742,2024-04-19T21:08:35Z,2024-04-19T21:21:40Z,2,3,MERGED
+pharos,Add individual component exports,https://github.com/ithaka/pharos/pull/739,2024-04-10T14:16:34Z,2024-04-10T19:27:16Z,2,1,MERGED
+pharos,Upgrade to Lit 3 and latest scoped element packages,https://github.com/ithaka/pharos/pull/791,2024-07-25T02:26:50Z,2024-09-17T00:29:00Z,7,3,CLOSED
+pharos,Pin sub-dependencies to newer versions,https://github.com/ithaka/pharos/pull/785,2024-07-22T18:46:34Z,2024-07-22T18:46:43Z,1,2,CLOSED
+pharos,Bump dependencies,https://github.com/ithaka/pharos/pull/784,2024-07-22T17:14:51Z,2024-07-22T18:23:27Z,2,4,MERGED
+pharos,Fix pharos-site sidenav on mobile screens,https://github.com/ithaka/pharos/pull/782,2024-07-19T17:34:29Z,2024-07-19T20:07:48Z,4,3,MERGED
+pharos,Fix pharos site storybook links,https://github.com/ithaka/pharos/pull/781,2024-07-19T15:59:47Z,2024-07-19T17:52:07Z,2,2,MERGED
+pharos,Set X-Frame-Options in netlify config,https://github.com/ithaka/pharos/pull/779,2024-07-19T13:40:58Z,2024-07-19T13:52:32Z,2,1,MERGED
+pharos,Set Content-Security-Policy in Gatsby to allow loading content in Storybook,https://github.com/ithaka/pharos/pull/778,2024-07-19T12:46:43Z,2024-07-19T13:02:03Z,3,1,MERGED
+pharos,Gatsby 5 upgrade,https://github.com/ithaka/pharos/pull/776,2024-07-18T01:06:21Z,2024-07-18T21:19:25Z,10,45,MERGED
+pharos,feat(react): Add a new optional prop called 'prefix' to all React components for scoping web components,https://github.com/ithaka/pharos/pull/773,2024-06-26T15:57:58Z,2024-07-01T12:25:16Z,3,1,CLOSED
+pharos,chore(deps): update dependencies,https://github.com/ithaka/pharos/pull/772,2024-06-25T13:01:19Z,2024-06-25T17:01:56Z,2,2,CLOSED
+pharos,Create form data export,https://github.com/ithaka/pharos/pull/770,2024-06-20T16:09:55Z,2024-06-20T17:44:32Z,3,4,MERGED
+pharos,feat/feedback-icon: Add Feedback icon,https://github.com/ithaka/pharos/pull/768,2024-06-18T14:00:53Z,2024-06-20T14:20:47Z,5,4,MERGED
+pharos,Card: Improve accessibility by moving overlay slot outside of <a> tag,https://github.com/ithaka/pharos/pull/766,2024-06-12T17:50:20Z,2024-06-17T14:13:26Z,5,3,MERGED
+pharos,chore(deps): bump dependencies,https://github.com/ithaka/pharos/pull/764,2024-06-03T19:16:34Z,2024-06-03T19:25:12Z,2,5,MERGED
+pharos,Fix Yarn lockfile,https://github.com/ithaka/pharos/pull/831,2024-10-31T17:15:17Z,2024-10-31T17:53:53Z,1,2,MERGED
+pharos,Radio button: Update SVG to be aria-hidden,https://github.com/ithaka/pharos/pull/829,2024-10-30T15:34:48Z,2024-10-30T18:21:20Z,3,2,MERGED
+pharos,fix(modal & tabs): remove overflow property that causes unnecessary scrollbars and update to Node 22,https://github.com/ithaka/pharos/pull/827,2024-10-28T15:15:08Z,2024-11-22T13:59:30Z,7,8,MERGED
+pharos,Switch: New component contribution,https://github.com/ithaka/pharos/pull/825,2024-10-25T20:29:26Z,2024-10-31T15:53:22Z,10,15,MERGED
+pharos,Radio: add aria-describedby association for validation messages,https://github.com/ithaka/pharos/pull/824,2024-10-22T20:45:51Z,2024-10-23T17:18:46Z,2,2,MERGED
+pharos,chore(deps): bump deps,https://github.com/ithaka/pharos/pull/819,2024-09-26T23:00:58Z,2024-09-26T23:56:13Z,2,1,MERGED
+pharos,"Toast: Escape toast HTML content that is not wrapped in ""-pharos-"" tag",https://github.com/ithaka/pharos/pull/818,2024-09-24T16:45:21Z,2024-10-02T18:48:21Z,7,7,CLOSED
+pharos,Table: Add sticky header option,https://github.com/ithaka/pharos/pull/813,2024-09-03T13:40:02Z,2024-09-09T12:22:17Z,7,7,MERGED
+pharos,Table: Add design tokens and update default header background,https://github.com/ithaka/pharos/pull/810,2024-08-30T18:44:19Z,2024-09-03T12:19:36Z,2,1,MERGED
+pharos,Bump dependencies,https://github.com/ithaka/pharos/pull/803,2024-08-30T00:46:39Z,2024-08-30T14:47:36Z,2,2,MERGED
+pharos,Update the table caption warning to recommend correct attribute to visually hide the caption,https://github.com/ithaka/pharos/pull/801,2024-08-29T14:23:33Z,2024-08-30T17:03:19Z,2,1,MERGED
+pharos,chore(sass): address deprecation warnings for nested rules,https://github.com/ithaka/pharos/pull/800,2024-08-07T21:04:36Z,2024-08-07T21:17:41Z,3,2,CLOSED
+pharos,fix(release): install state,https://github.com/ithaka/pharos/pull/799,2024-08-06T16:40:04Z,2024-08-06T17:12:25Z,1,1,MERGED
+pharos,chore(deps): bump deps,https://github.com/ithaka/pharos/pull/797,2024-08-05T15:17:18Z,2024-08-05T16:10:43Z,2,2,MERGED
+pharos,"Icon: add upload, save, and pin icons",https://github.com/ithaka/pharos/pull/796,2024-08-02T15:56:27Z,2024-08-05T15:14:28Z,18,10,MERGED
+pharos,"LOCA-2923: add save & close, upload, and pin icons",https://github.com/ithaka/pharos/pull/794,2024-08-02T15:07:36Z,2024-08-02T15:07:45Z,2,1,CLOSED
+pharos,Update dependencies,https://github.com/ithaka/pharos/pull/837,2024-12-06T17:21:43Z,2024-12-06T21:07:29Z,2,7,MERGED
+pharos,Textarea: Update min height styling,https://github.com/ithaka/pharos/pull/833,2024-11-15T16:58:46Z,2024-11-21T14:51:03Z,2,3,MERGED
+pharos,chore(deps): bump dependencies,https://github.com/ithaka/pharos/pull/832,2024-11-12T18:00:39Z,2024-11-12T18:56:27Z,3,1,MERGED
+pharos,Combobox: allow disabled options,https://github.com/ithaka/pharos/pull/891,2025-02-24T19:32:35Z,2025-02-24T22:19:13Z,4,4,MERGED
+pharos,Add star and star filled icons,https://github.com/ithaka/pharos/pull/886,2025-02-21T21:18:20Z,2025-02-24T15:45:54Z,3,3,MERGED
+pharos,fix(ci): install all dependencies before playwright,https://github.com/ithaka/pharos/pull/883,2025-02-18T12:16:16Z,2025-02-18T14:10:03Z,2,3,MERGED
+pharos,Feature: Add icons for managing user access and denoting generative-ai uses,https://github.com/ithaka/pharos/pull/871,2025-02-04T16:17:39Z,2025-02-04T21:54:11Z,2,12,MERGED
+pharos,fix(dependabot): ignore @babel/core updates for the moment,https://github.com/ithaka/pharos/pull/867,2025-01-30T16:41:40Z,2025-01-30T18:53:24Z,2,1,MERGED
+pharos,Add a resizeObserver to table cells to set cell height,https://github.com/ithaka/pharos/pull/862,2025-01-29T22:03:37Z,2025-01-30T14:09:11Z,3,2,MERGED
+pharos,chore(deps): ignore react and react-dom updates,https://github.com/ithaka/pharos/pull/858,2025-01-27T14:42:29Z,2025-01-27T14:46:48Z,2,1,MERGED
+pharos,chore(infra): add dependabot schedule,https://github.com/ithaka/pharos/pull/850,2025-01-25T18:22:45Z,2025-01-27T13:57:36Z,2,1,MERGED
+pharos,chore(deps): update deps,https://github.com/ithaka/pharos/pull/849,2025-01-25T17:09:07Z,2025-01-27T13:57:53Z,2,5,MERGED
+pharos,chore(deps): update deps,https://github.com/ithaka/pharos/pull/848,2025-01-25T15:34:25Z,2025-01-25T16:14:28Z,2,5,CLOSED
+pharos,feat(sidenav): use large icon,https://github.com/ithaka/pharos/pull/846,2025-01-24T21:48:57Z,2025-01-24T22:05:37Z,2,2,MERGED
+pharos,feat(sidenav): update close button,https://github.com/ithaka/pharos/pull/844,2025-01-24T18:28:37Z,2025-01-24T20:27:34Z,2,3,MERGED
+pharos,feat(icon): add rotate icon,https://github.com/ithaka/pharos/pull/843,2025-01-24T17:19:31Z,2025-01-24T21:21:40Z,3,7,MERGED
+pharos,"Icon: Add ""filetype html"" icon",https://github.com/ithaka/pharos/pull/842,2025-01-22T21:39:02Z,2025-01-25T18:30:45Z,5,10,MERGED
+pharos,Table: Allow complex content to be displayed in Pharos tables ,https://github.com/ithaka/pharos/pull/840,2025-01-17T15:34:14Z,2025-01-30T14:20:20Z,5,7,MERGED

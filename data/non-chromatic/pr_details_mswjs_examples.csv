@@ -1,0 +1,70 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+examples,Adds a usage example with Storybook,https://github.com/mswjs/examples/pull/5,2020-05-29T11:51:55Z,2020-06-03T10:34:48Z,0,7,MERGED
+examples,Adds msw to dependencies,https://github.com/mswjs/examples/pull/3,2020-05-21T06:00:09Z,2020-05-21T07:11:00Z,1,1,MERGED
+examples,Adds GraphQL example with React,https://github.com/mswjs/examples/pull/1,2020-05-19T14:40:05Z,2020-05-20T08:12:46Z,2,7,MERGED
+examples,chore: install always last version of MSW,https://github.com/mswjs/examples/pull/25,2020-07-31T11:48:33Z,2020-08-01T16:36:26Z,1,8,MERGED
+examples,"Updates ""msw"" to version 0.20.0",https://github.com/mswjs/examples/pull/23,2020-07-30T13:21:27Z,2020-07-30T13:25:03Z,0,1,MERGED
+examples,"Adds ""Example structure"" section to the root README",https://github.com/mswjs/examples/pull/22,2020-07-17T10:30:18Z,2020-07-17T11:53:46Z,0,1,MERGED
+examples,add redux-saga example,https://github.com/mswjs/examples/pull/21,2020-07-09T09:25:29Z,2020-07-10T11:09:47Z,2,2,MERGED
+examples,"Updates the worker file during ""use-packed-msw"" command",https://github.com/mswjs/examples/pull/20,2020-07-04T09:27:38Z,2020-07-04T09:29:40Z,0,1,MERGED
+examples,"Updates to ""msw@0.19.5""",https://github.com/mswjs/examples/pull/19,2020-07-01T10:27:34Z,2020-07-02T07:30:57Z,3,2,MERGED
+examples,"Adds a shell script to use locally packed ""msw"" package",https://github.com/mswjs/examples/pull/18,2020-06-30T08:18:47Z,2020-06-30T08:21:20Z,0,1,MERGED
+examples,add graphql-react-apollo query example,https://github.com/mswjs/examples/pull/17,2020-06-24T20:24:47Z,2020-07-17T11:57:12Z,3,1,CLOSED
+examples,REST (React): separate setupWorker/setupServer calls from handlers,https://github.com/mswjs/examples/pull/16,2020-06-24T18:43:54Z,2020-06-25T07:27:36Z,1,2,MERGED
+examples,"GraphQL (Apollo): Improves the example, fixes initial request interception",https://github.com/mswjs/examples/pull/15,2020-06-22T15:05:26Z,2020-06-22T15:18:28Z,0,2,MERGED
+examples,Mention service worker file in the readme — REST example,https://github.com/mswjs/examples/pull/13,2020-06-20T16:53:34Z,2020-06-20T17:02:33Z,0,1,MERGED
+examples,Mention service worker file in the readme,https://github.com/mswjs/examples/pull/12,2020-06-20T16:32:21Z,2020-06-20T16:45:00Z,3,2,MERGED
+examples,Updates examples to reflect bootstrap changes since 0.19.0,https://github.com/mswjs/examples/pull/9,2020-06-06T18:16:54Z,2020-06-06T18:52:11Z,0,1,MERGED
+examples,Adds usage example with NextJS,https://github.com/mswjs/examples/pull/8,2020-06-03T11:50:47Z,2020-06-04T19:01:32Z,3,3,CLOSED
+examples,Adds basic CircleCI config,https://github.com/mswjs/examples/pull/7,2020-06-03T10:35:25Z,2020-06-03T10:37:02Z,0,1,MERGED
+examples,chore(graphql-react-apollo): Update to Apollo Client 3,https://github.com/mswjs/examples/pull/38,2020-10-05T19:10:58Z,2020-10-08T09:13:48Z,5,2,MERGED
+examples,Adds a react naitve example,https://github.com/mswjs/examples/pull/37,2020-09-19T23:03:53Z,2020-10-22T09:21:37Z,3,0,CLOSED
+examples,adds key point when using msw in browser,https://github.com/mswjs/examples/pull/36,2020-09-03T09:23:47Z,2020-09-05T07:24:32Z,0,3,MERGED
+examples,fix: exclude MSW in angular builds,https://github.com/mswjs/examples/pull/35,2020-08-18T12:00:47Z,2020-08-19T07:28:48Z,2,1,MERGED
+examples,Adds NextJS usage example to README,https://github.com/mswjs/examples/pull/33,2020-08-17T07:29:45Z,2020-08-17T07:38:13Z,0,1,MERGED
+examples,Adds Contributing guidelines on adding a new example,https://github.com/mswjs/examples/pull/32,2020-08-15T07:29:44Z,2020-08-15T07:45:57Z,0,3,MERGED
+examples,fix typo in readme rest-angular,https://github.com/mswjs/examples/pull/29,2020-08-12T10:45:13Z,2020-08-12T11:33:31Z,2,1,MERGED
+examples,add rest-angular example,https://github.com/mswjs/examples/pull/28,2020-08-08T09:05:46Z,2020-08-11T08:13:42Z,19,4,MERGED
+examples,Fix common RTL mistakes,https://github.com/mswjs/examples/pull/27,2020-08-04T01:54:16Z,2020-08-04T08:50:39Z,3,2,MERGED
+examples,chore: update angular,https://github.com/mswjs/examples/pull/45,2020-11-28T13:52:09Z,2020-11-28T22:06:37Z,0,1,MERGED
+examples,add karma example to readme,https://github.com/mswjs/examples/pull/44,2020-11-14T19:06:17Z,2020-11-15T09:08:24Z,0,1,MERGED
+examples,Adds usage example with Karma,https://github.com/mswjs/examples/pull/42,2020-11-10T13:37:39Z,2020-11-11T10:29:25Z,0,4,MERGED
+examples,Add with-mocha example,https://github.com/mswjs/examples/pull/51,2021-03-14T22:47:27Z,2023-10-18T09:45:41Z,10,3,CLOSED
+examples,Fixed broken link in graphql-react-apollo README ,https://github.com/mswjs/examples/pull/50,2021-03-09T17:46:44Z,2021-03-09T21:48:34Z,0,1,MERGED
+examples,Updates the Storybook example,https://github.com/mswjs/examples/pull/48,2021-02-03T12:53:22Z,2021-02-04T14:59:02Z,4,2,MERGED
+examples,Updates angular dependencies,https://github.com/mswjs/examples/pull/47,2021-01-28T16:36:17Z,2021-01-28T16:45:10Z,0,1,MERGED
+examples,"Updates ""msw"" to 0.26.0 (latest)",https://github.com/mswjs/examples/pull/46,2021-01-26T23:24:17Z,2023-10-18T09:38:07Z,4,4,CLOSED
+examples,"Adds ""with-jest"" example",https://github.com/mswjs/examples/pull/58,2021-05-19T21:38:28Z,2021-05-19T22:26:27Z,0,1,MERGED
+examples,Add basic vitejs example,https://github.com/mswjs/examples/pull/57,2021-04-28T01:32:07Z,2023-10-18T09:42:55Z,1,1,CLOSED
+examples,Adds Rest Vuejs example,https://github.com/mswjs/examples/pull/62,2021-07-20T19:12:28Z,2023-10-18T09:38:07Z,0,3,CLOSED
+examples,"REST Angular: Updates ""typescript"", ""ts-node"", ""tslib"" to the latest versions",https://github.com/mswjs/examples/pull/61,2021-07-20T09:40:15Z,2021-07-20T10:15:38Z,2,2,MERGED
+examples,add cache clearing to apollo example,https://github.com/mswjs/examples/pull/64,2021-08-19T15:03:24Z,2021-08-21T22:57:42Z,2,1,MERGED
+examples,feat: upgrade rest-react to typescript and playwright,https://github.com/mswjs/examples/pull/67,2021-12-13T16:57:45Z,2022-02-12T14:59:43Z,0,1,CLOSED
+examples,With karma,https://github.com/mswjs/examples/pull/75,2022-03-03T17:13:58Z,2022-03-03T17:16:16Z,1,4,CLOSED
+examples,Msw pact examples,https://github.com/mswjs/examples/pull/74,2022-03-03T17:05:44Z,2022-03-29T23:26:52Z,0,3,CLOSED
+examples,"Adds ""Playwright"" example",https://github.com/mswjs/examples/pull/71,2022-01-24T01:12:55Z,2023-10-18T09:38:06Z,0,1,CLOSED
+examples,chore: use mswjs for GitHub sponsors,https://github.com/mswjs/examples/pull/70,2022-01-05T01:20:53Z,2022-01-05T01:21:02Z,0,1,MERGED
+examples,Fix: Extract username from the request body,https://github.com/mswjs/examples/pull/79,2022-08-31T11:54:48Z,2023-10-18T09:46:43Z,2,1,CLOSED
+examples,fix: reference username in login mutation (graphql-react-apollo),https://github.com/mswjs/examples/pull/81,2022-11-01T21:58:24Z,2022-11-03T23:43:58Z,1,1,MERGED
+examples,Fix login e2e test,https://github.com/mswjs/examples/pull/88,2023-05-23T14:21:50Z,2023-10-18T09:43:53Z,1,1,CLOSED
+examples,chore: bump Node.js to 16.x,https://github.com/mswjs/examples/pull/85,2023-05-22T16:19:00Z,2023-05-23T12:05:33Z,0,1,MERGED
+examples,chore: fix typo in the react apollo example,https://github.com/mswjs/examples/pull/89,2023-06-09T01:31:01Z,2023-06-09T15:24:39Z,1,1,MERGED
+examples,remix: fix server-side integration,https://github.com/mswjs/examples/pull/93,2023-10-26T13:11:00Z,2023-10-26T13:17:05Z,0,1,MERGED
+examples,upgrade to msw@2.0,https://github.com/mswjs/examples/pull/92,2023-10-23T10:30:03Z,2023-11-02T08:28:59Z,0,2,MERGED
+examples,chore: upgrade examples for msw 2.0,https://github.com/mswjs/examples/pull/90,2023-10-09T13:30:51Z,2023-10-18T09:38:05Z,0,1,MERGED
+examples,"add multiple directories to ""msw.workerDirectory""",https://github.com/mswjs/examples/pull/109,2024-03-02T17:51:40Z,2024-03-02T17:55:05Z,0,1,MERGED
+examples,update to msw@2.2.2,https://github.com/mswjs/examples/pull/107,2024-03-02T17:17:37Z,2024-03-02T17:35:28Z,0,2,MERGED
+examples,add relative url test to with-jest-jsdom,https://github.com/mswjs/examples/pull/106,2024-03-02T17:03:55Z,2024-03-02T17:08:08Z,0,1,MERGED
+examples,fix codesandbox repo url,https://github.com/mswjs/examples/pull/102,2024-01-25T12:46:41Z,2024-01-25T12:47:06Z,0,1,MERGED
+examples,"add a separate ""with-jest-jsdom"" example",https://github.com/mswjs/examples/pull/100,2024-01-22T09:47:30Z,2024-01-22T12:59:45Z,11,5,MERGED
+examples,fix: Playwright await the worker promise instead of navigator.serviceWorker.ready,https://github.com/mswjs/examples/pull/98,2024-01-18T19:13:45Z,2024-03-02T17:36:00Z,2,4,CLOSED
+examples,fix: update playwright version to match msw for smoke tests,https://github.com/mswjs/examples/pull/97,2024-01-18T16:34:05Z,2024-01-18T18:42:31Z,3,1,MERGED
+examples,chore: migrate to msw@2.0.14,https://github.com/mswjs/examples/pull/96,2024-01-15T09:32:27Z,2024-01-15T09:52:27Z,0,7,MERGED
+examples,chore: update pnpm to 8.15,https://github.com/mswjs/examples/pull/115,2024-05-08T13:55:57Z,2024-05-08T13:59:53Z,0,1,MERGED
+examples,chore: update Remix README.md to correct api call,https://github.com/mswjs/examples/pull/114,2024-05-07T17:47:16Z,2024-05-08T09:01:22Z,0,1,MERGED
+examples,Next.js App Router Example,https://github.com/mswjs/examples/pull/118,2024-07-26T09:51:02Z,2024-07-26T10:05:34Z,3,1,MERGED
+examples,Example runtime handlers remix svelte,https://github.com/mswjs/examples/pull/120,2024-10-15T21:14:39Z,2024-10-15T21:15:06Z,0,2,CLOSED
+examples,update versions of github actions,https://github.com/mswjs/examples/pull/126,2024-11-13T10:16:17Z,2024-11-13T10:21:39Z,0,1,MERGED
+examples,update msw to 2.6.4,https://github.com/mswjs/examples/pull/125,2024-11-13T10:07:28Z,2024-11-13T10:15:04Z,0,2,MERGED
+examples,jest-jsdom: use `jest-fixed-jsdom`,https://github.com/mswjs/examples/pull/124,2024-11-13T09:48:00Z,2024-11-13T09:53:21Z,0,1,MERGED
+examples,Add new polyfill for jest for msw v2.6.0,https://github.com/mswjs/examples/pull/122,2024-11-05T07:51:09Z,2024-11-13T09:53:23Z,0,1,CLOSED

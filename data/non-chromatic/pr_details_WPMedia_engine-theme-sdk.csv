@@ -1,0 +1,291 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+engine-theme-sdk,initial release of image component,https://github.com/WPMedia/engine-theme-sdk/pull/1,2019-08-20T14:01:46Z,2020-05-12T16:56:34Z,1,1,CLOSED
+engine-theme-sdk,Refactored the sdk repo into a single tree-shakable package,https://github.com/WPMedia/engine-theme-sdk/pull/2,2019-11-22T16:52:36Z,2019-12-20T16:42:54Z,5,33,MERGED
+engine-theme-sdk,[PEN-699] Styled components stylesheet refactor,https://github.com/WPMedia/engine-theme-sdk/pull/20,2020-03-20T19:53:24Z,2020-03-20T20:40:05Z,6,2,MERGED
+engine-theme-sdk,Reverting back to static components,https://github.com/WPMedia/engine-theme-sdk/pull/19,2020-03-11T21:45:09Z,2020-05-14T18:28:01Z,0,1,CLOSED
+engine-theme-sdk,[PEN-631] Publish to @wpmedia,https://github.com/WPMedia/engine-theme-sdk/pull/18,2020-03-06T04:58:43Z,2020-03-06T19:34:03Z,0,5,MERGED
+engine-theme-sdk,Storybook poc,https://github.com/WPMedia/engine-theme-sdk/pull/16,2020-02-27T22:27:24Z,2020-03-06T15:35:39Z,1,5,MERGED
+engine-theme-sdk,Pen 620 author icon soundcloud,https://github.com/WPMedia/engine-theme-sdk/pull/15,2020-02-24T22:56:07Z,2020-02-24T23:03:08Z,0,4,MERGED
+engine-theme-sdk,Fix to prevent duplicate ID's when the same image is used multiple,https://github.com/WPMedia/engine-theme-sdk/pull/14,2020-02-11T22:38:50Z,2020-02-12T15:41:08Z,1,1,MERGED
+engine-theme-sdk,"[PEN-620] Added icons for Medium, Reddit, Snapchat, Tumblr, and WhatsApp",https://github.com/WPMedia/engine-theme-sdk/pull/13,2020-02-11T21:31:57Z,2020-02-11T22:00:02Z,0,1,MERGED
+engine-theme-sdk,Always transform static class properties,https://github.com/WPMedia/engine-theme-sdk/pull/12,2020-01-29T21:27:54Z,2020-01-29T21:41:59Z,0,1,MERGED
+engine-theme-sdk,[PEN-622] SVG titles for all icons we currently use,https://github.com/WPMedia/engine-theme-sdk/pull/11,2020-01-28T21:20:05Z,2020-01-30T16:15:33Z,0,2,MERGED
+engine-theme-sdk,Added 'img' role to all SVGs,https://github.com/WPMedia/engine-theme-sdk/pull/10,2020-01-28T20:54:21Z,2020-06-03T21:42:46Z,0,1,MERGED
+engine-theme-sdk,[PEN-622] Swapped out lightbox controls icons for their Font Awesome equivalents,https://github.com/WPMedia/engine-theme-sdk/pull/9,2020-01-23T21:48:10Z,2020-01-23T21:53:59Z,0,1,MERGED
+engine-theme-sdk,[PEN-622] Added title and description props to the svg icons,https://github.com/WPMedia/engine-theme-sdk/pull/8,2020-01-23T17:09:23Z,2020-01-23T19:46:31Z,1,2,MERGED
+engine-theme-sdk,Gallery autoplay impl,https://github.com/WPMedia/engine-theme-sdk/pull/7,2020-01-22T15:36:11Z,2020-01-22T20:14:59Z,10,7,MERGED
+engine-theme-sdk,[PEN-622] Removed the separate SVGs from the gallery and lightbox,https://github.com/WPMedia/engine-theme-sdk/pull/6,2020-01-17T22:01:12Z,2020-01-22T16:19:44Z,0,4,MERGED
+engine-theme-sdk,[PEN-622] Removed the gallery's SVGs and replaced them with the common SVGs in the SDK,https://github.com/WPMedia/engine-theme-sdk/pull/5,2020-01-16T21:47:05Z,2020-01-17T19:47:35Z,1,1,CLOSED
+engine-theme-sdk,[PEN-622] Initial SVGs added to SDK,https://github.com/WPMedia/engine-theme-sdk/pull/4,2020-01-15T21:32:41Z,2020-01-16T15:32:38Z,0,2,MERGED
+engine-theme-sdk,Changed the default image string to a smaller GIF string,https://github.com/WPMedia/engine-theme-sdk/pull/3,2020-01-14T00:38:48Z,2020-01-28T21:42:55Z,0,1,MERGED
+engine-theme-sdk,Remove if block changing resources,https://github.com/WPMedia/engine-theme-sdk/pull/38,2020-05-28T17:15:29Z,2020-05-28T17:15:38Z,0,1,MERGED
+engine-theme-sdk,[PEN-603] Added internationalization props to the Gallery component,https://github.com/WPMedia/engine-theme-sdk/pull/37,2020-05-26T17:07:41Z,2020-05-27T16:09:48Z,0,1,MERGED
+engine-theme-sdk,Add resizer fallback only for placeholder internal images,https://github.com/WPMedia/engine-theme-sdk/pull/36,2020-05-22T19:59:47Z,2020-05-26T12:35:18Z,0,1,MERGED
+engine-theme-sdk,Added EventEmitter and leveraged it in the Gallery,https://github.com/WPMedia/engine-theme-sdk/pull/35,2020-05-21T21:01:08Z,2020-05-26T14:47:12Z,1,2,MERGED
+engine-theme-sdk,pen-360,https://github.com/WPMedia/engine-theme-sdk/pull/34,2020-05-20T21:02:30Z,2020-05-26T14:52:27Z,0,2,MERGED
+engine-theme-sdk,Prevent image promo from growing too big past container,https://github.com/WPMedia/engine-theme-sdk/pull/33,2020-05-19T14:50:24Z,2020-05-19T15:11:08Z,0,1,MERGED
+engine-theme-sdk,second attempt at pen-827,https://github.com/WPMedia/engine-theme-sdk/pull/32,2020-05-14T18:13:48Z,2020-05-18T16:45:59Z,1,2,MERGED
+engine-theme-sdk,New reusable metadata component,https://github.com/WPMedia/engine-theme-sdk/pull/31,2020-05-08T04:52:57Z,2020-05-08T20:23:07Z,3,2,MERGED
+engine-theme-sdk,Add documentation for publishing engine,https://github.com/WPMedia/engine-theme-sdk/pull/30,2020-05-07T18:46:44Z,2020-05-08T15:57:57Z,0,1,MERGED
+engine-theme-sdk,Pen 840 fallback image,https://github.com/WPMedia/engine-theme-sdk/pull/29,2020-05-06T19:16:47Z,2020-05-06T19:19:54Z,0,3,CLOSED
+engine-theme-sdk,Pen 840 fallback image,https://github.com/WPMedia/engine-theme-sdk/pull/28,2020-05-05T13:59:28Z,2020-05-06T16:35:16Z,1,6,MERGED
+engine-theme-sdk,PEN-841: Article Body error,https://github.com/WPMedia/engine-theme-sdk/pull/27,2020-05-04T19:25:15Z,2020-05-06T16:49:00Z,2,2,MERGED
+engine-theme-sdk,Sets up for using resizer key secure,https://github.com/WPMedia/engine-theme-sdk/pull/26,2020-05-04T12:08:41Z,2020-05-13T22:03:55Z,1,10,MERGED
+engine-theme-sdk,Revert image responsive,https://github.com/WPMedia/engine-theme-sdk/pull/25,2020-04-23T19:45:53Z,2020-04-23T20:16:10Z,0,2,MERGED
+engine-theme-sdk,Remove log statement,https://github.com/WPMedia/engine-theme-sdk/pull/24,2020-04-23T16:24:15Z,2020-04-23T16:59:17Z,0,1,MERGED
+engine-theme-sdk,Pen 764 responsive images,https://github.com/WPMedia/engine-theme-sdk/pull/23,2020-04-20T20:32:28Z,2020-04-20T20:33:17Z,0,19,CLOSED
+engine-theme-sdk,Pen 764 responsive images,https://github.com/WPMedia/engine-theme-sdk/pull/21,2020-04-08T14:11:29Z,2020-04-22T19:39:33Z,7,20,MERGED
+engine-theme-sdk,Update Staging - 2.2.1 hotfix,https://github.com/WPMedia/engine-theme-sdk/pull/71,2020-07-30T21:37:24Z,2020-07-30T21:40:30Z,0,6,MERGED
+engine-theme-sdk,Prod Hotfix - PEN-1236 restricting image width to browser width to prevent horizontal scroll,https://github.com/WPMedia/engine-theme-sdk/pull/70,2020-07-30T20:40:24Z,2020-07-30T21:19:53Z,0,4,MERGED
+engine-theme-sdk,Added postpublish step for pushing up tags,https://github.com/WPMedia/engine-theme-sdk/pull/69,2020-07-23T19:10:48Z,2020-07-23T19:10:54Z,0,1,MERGED
+engine-theme-sdk,PEN-1213: Engine SDK docs ahead of GA release,https://github.com/WPMedia/engine-theme-sdk/pull/68,2020-07-22T17:41:30Z,2020-07-27T14:19:00Z,0,3,MERGED
+engine-theme-sdk,Added 1 ignore rule for lightbox and set storybook log to git ignore,https://github.com/WPMedia/engine-theme-sdk/pull/67,2020-07-16T16:05:14Z,2020-07-16T16:20:49Z,0,1,MERGED
+engine-theme-sdk,Visual testing chromatic,https://github.com/WPMedia/engine-theme-sdk/pull/66,2020-07-14T21:31:10Z,2020-07-16T15:28:29Z,6,60,MERGED
+engine-theme-sdk,PEN-1117: Allow access to S3 bucket,https://github.com/WPMedia/engine-theme-sdk/pull/65,2020-07-14T18:32:43Z,2020-07-15T00:46:06Z,0,2,MERGED
+engine-theme-sdk,PEN-1117: automatic deployment,https://github.com/WPMedia/engine-theme-sdk/pull/64,2020-07-13T13:15:04Z,2020-07-13T14:59:46Z,1,2,MERGED
+engine-theme-sdk,Default titles icons,https://github.com/WPMedia/engine-theme-sdk/pull/63,2020-07-10T22:12:51Z,2020-08-13T21:54:13Z,0,2,MERGED
+engine-theme-sdk,Add role for arc logo,https://github.com/WPMedia/engine-theme-sdk/pull/62,2020-07-10T22:10:49Z,2020-07-10T22:15:03Z,2,1,MERGED
+engine-theme-sdk,Issue #42 default titles wip,https://github.com/WPMedia/engine-theme-sdk/pull/61,2020-07-10T21:55:58Z,2020-07-10T22:11:57Z,1,1,CLOSED
+engine-theme-sdk,PEN-996 update twitter metatada,https://github.com/WPMedia/engine-theme-sdk/pull/60,2020-07-08T22:57:53Z,2020-07-10T18:32:08Z,1,4,MERGED
+engine-theme-sdk,PEN-763 - image lazy loading,https://github.com/WPMedia/engine-theme-sdk/pull/59,2020-07-08T14:00:31Z,2020-07-13T09:24:43Z,2,2,MERGED
+engine-theme-sdk,Issue 47 transpiling shipping test files,https://github.com/WPMedia/engine-theme-sdk/pull/58,2020-06-24T19:23:31Z,2020-06-24T19:37:31Z,1,3,MERGED
+engine-theme-sdk,PEN-1120: Engine SDK ALC Deployment,https://github.com/WPMedia/engine-theme-sdk/pull/57,2020-06-24T15:38:31Z,2020-06-24T19:32:27Z,0,1,MERGED
+engine-theme-sdk,PEN-940 - add events to full screen button gallery,https://github.com/WPMedia/engine-theme-sdk/pull/56,2020-06-23T23:13:47Z,2020-06-25T18:44:28Z,1,2,MERGED
+engine-theme-sdk,Pen 941 emit message gallery autplay,https://github.com/WPMedia/engine-theme-sdk/pull/55,2020-06-23T21:35:07Z,2020-06-25T18:47:40Z,0,5,MERGED
+engine-theme-sdk,PEN-1080: Documentation with actions and knobs,https://github.com/WPMedia/engine-theme-sdk/pull/54,2020-06-22T13:37:24Z,2020-06-23T20:44:17Z,6,25,MERGED
+engine-theme-sdk,Add preview head html custom insert storybook theming,https://github.com/WPMedia/engine-theme-sdk/pull/53,2020-06-19T16:13:11Z,2020-06-22T16:40:09Z,3,3,MERGED
+engine-theme-sdk,PEN-1079: Engine SDK components documentation,https://github.com/WPMedia/engine-theme-sdk/pull/52,2020-06-16T13:12:16Z,2020-06-22T13:38:33Z,7,12,MERGED
+engine-theme-sdk,Added shopping cart icon,https://github.com/WPMedia/engine-theme-sdk/pull/51,2020-06-12T21:43:11Z,2020-06-15T16:53:07Z,4,4,MERGED
+engine-theme-sdk,Updated meta image rendering,https://github.com/WPMedia/engine-theme-sdk/pull/50,2020-06-12T17:48:47Z,2020-06-12T19:12:03Z,0,1,MERGED
+engine-theme-sdk,PEN-1068: Gallery tests,https://github.com/WPMedia/engine-theme-sdk/pull/49,2020-06-11T20:36:37Z,2020-06-17T15:12:07Z,0,2,MERGED
+engine-theme-sdk,PEN-606: Updated section metadata,https://github.com/WPMedia/engine-theme-sdk/pull/48,2020-06-10T14:42:52Z,2020-06-10T14:45:24Z,0,2,MERGED
+engine-theme-sdk,Pen 800 image gallery storybook,https://github.com/WPMedia/engine-theme-sdk/pull/46,2020-06-09T15:36:36Z,2020-06-09T16:00:23Z,1,17,MERGED
+engine-theme-sdk,PEN-1003 - Add data attribute to image wrapper for image _id,https://github.com/WPMedia/engine-theme-sdk/pull/45,2020-06-05T17:24:37Z,2020-06-09T14:41:21Z,0,1,MERGED
+engine-theme-sdk,"Pen 800 storybook docs (arc logo, icons, documentation, images partially)",https://github.com/WPMedia/engine-theme-sdk/pull/44,2020-06-04T21:52:23Z,2020-06-05T14:56:56Z,2,11,MERGED
+engine-theme-sdk,Event fixes for gallery,https://github.com/WPMedia/engine-theme-sdk/pull/41,2020-06-03T22:18:25Z,2020-06-05T16:24:42Z,0,1,MERGED
+engine-theme-sdk,PEN-606: Metadata for section pages,https://github.com/WPMedia/engine-theme-sdk/pull/40,2020-06-03T15:28:25Z,2020-06-05T13:16:33Z,1,1,MERGED
+engine-theme-sdk,Pen 965 show raw relative url,https://github.com/WPMedia/engine-theme-sdk/pull/39,2020-06-01T17:55:02Z,2020-06-01T20:24:46Z,1,2,MERGED
+engine-theme-sdk,PEN-1298: Remove prerelease step,https://github.com/WPMedia/engine-theme-sdk/pull/112,2020-10-29T15:15:32Z,2020-10-29T15:21:14Z,0,1,MERGED
+engine-theme-sdk,PEN-1298: Add Stable release Github action (Step 3),https://github.com/WPMedia/engine-theme-sdk/pull/111,2020-10-28T19:43:03Z,2020-10-29T15:03:22Z,2,2,MERGED
+engine-theme-sdk,PEN-1298: Add Beta release Github action (Step 2),https://github.com/WPMedia/engine-theme-sdk/pull/110,2020-10-28T16:49:50Z,2020-10-28T18:54:03Z,0,2,MERGED
+engine-theme-sdk,PEN-1298: Add Canary release Github action (Step 1),https://github.com/WPMedia/engine-theme-sdk/pull/109,2020-10-27T16:18:48Z,2020-10-28T15:09:06Z,3,15,MERGED
+engine-theme-sdk,Test canary build,https://github.com/WPMedia/engine-theme-sdk/pull/108,2020-10-27T15:06:57Z,2020-10-27T15:14:43Z,0,114,CLOSED
+engine-theme-sdk,Blocks sandbox release,https://github.com/WPMedia/engine-theme-sdk/pull/107,2020-10-14T15:08:34Z,2020-10-14T16:33:45Z,0,19,MERGED
+engine-theme-sdk,PEN-1303 fix social tags,https://github.com/WPMedia/engine-theme-sdk/pull/106,2020-10-13T20:48:26Z,2020-10-14T14:55:30Z,0,7,MERGED
+engine-theme-sdk,Canary,https://github.com/WPMedia/engine-theme-sdk/pull/105,2020-10-06T16:58:22Z,2020-10-06T18:04:00Z,0,10,CLOSED
+engine-theme-sdk,fix: Remove initial slash of fit in,https://github.com/WPMedia/engine-theme-sdk/pull/104,2020-10-06T15:35:17Z,2020-10-06T16:02:48Z,0,5,MERGED
+engine-theme-sdk,Allowing for compressed strings that may use a format other than JPG,https://github.com/WPMedia/engine-theme-sdk/pull/103,2020-10-05T19:03:44Z,2020-10-06T16:08:07Z,0,1,CLOSED
+engine-theme-sdk,Canary,https://github.com/WPMedia/engine-theme-sdk/pull/102,2020-10-02T19:14:39Z,2020-10-02T19:15:25Z,0,4,MERGED
+engine-theme-sdk,fix merge from PEN-1303 to canary,https://github.com/WPMedia/engine-theme-sdk/pull/101,2020-10-02T17:20:21Z,2020-10-02T17:36:08Z,0,1,MERGED
+engine-theme-sdk,Canary,https://github.com/WPMedia/engine-theme-sdk/pull/100,2020-10-01T20:15:16Z,2020-10-01T20:23:50Z,0,15,MERGED
+engine-theme-sdk,PEN-1303 update social tags support,https://github.com/WPMedia/engine-theme-sdk/pull/98,2020-09-30T14:18:39Z,2020-10-02T16:46:25Z,5,3,MERGED
+engine-theme-sdk,Uncompressing filter params,https://github.com/WPMedia/engine-theme-sdk/pull/97,2020-09-28T20:50:31Z,2020-10-01T20:00:20Z,5,4,MERGED
+engine-theme-sdk,PEN-1276 - fix title and description metaData tags,https://github.com/WPMedia/engine-theme-sdk/pull/96,2020-09-24T22:02:25Z,2020-09-25T14:53:59Z,1,1,MERGED
+engine-theme-sdk,SENG-63 added video to theme SDK,https://github.com/WPMedia/engine-theme-sdk/pull/95,2020-09-24T14:12:20Z,2020-09-24T16:26:29Z,8,2,MERGED
+engine-theme-sdk,SENG-63 added video to theme SDK,https://github.com/WPMedia/engine-theme-sdk/pull/94,2020-09-21T21:18:52Z,2020-09-24T14:16:19Z,5,30,CLOSED
+engine-theme-sdk,Use stable branch for doc deployment,https://github.com/WPMedia/engine-theme-sdk/pull/93,2020-09-14T19:06:42Z,2020-09-14T19:09:16Z,3,1,MERGED
+engine-theme-sdk,Use standardized branch names in docs,https://github.com/WPMedia/engine-theme-sdk/pull/91,2020-09-10T20:12:38Z,2020-09-14T17:43:01Z,0,2,MERGED
+engine-theme-sdk,Add og:title meta tags to homepages,https://github.com/WPMedia/engine-theme-sdk/pull/89,2020-09-09T15:38:27Z,2020-09-15T16:34:39Z,4,1,MERGED
+engine-theme-sdk,Update icons to be resizeable (wip),https://github.com/WPMedia/engine-theme-sdk/pull/88,2020-09-08T15:10:53Z,2020-09-10T15:46:17Z,4,3,CLOSED
+engine-theme-sdk,change icon svg and add viewBox to camera icon ,https://github.com/WPMedia/engine-theme-sdk/pull/87,2020-09-08T14:05:16Z,2020-09-10T16:24:18Z,5,2,MERGED
+engine-theme-sdk,Remove raw svg use components,https://github.com/WPMedia/engine-theme-sdk/pull/86,2020-09-04T15:15:45Z,2020-09-04T18:07:06Z,0,3,MERGED
+engine-theme-sdk,Minify raw svgs,https://github.com/WPMedia/engine-theme-sdk/pull/85,2020-09-04T14:21:55Z,2020-09-04T14:40:43Z,4,3,MERGED
+engine-theme-sdk,Add hooks rules linting,https://github.com/WPMedia/engine-theme-sdk/pull/83,2020-08-28T17:02:03Z,2020-08-31T13:41:37Z,1,2,MERGED
+engine-theme-sdk,TVNZ-39 make height props optional,https://github.com/WPMedia/engine-theme-sdk/pull/81,2020-08-20T18:26:13Z,2020-08-24T17:15:31Z,1,1,CLOSED
+engine-theme-sdk,Add workflow beta staging file,https://github.com/WPMedia/engine-theme-sdk/pull/79,2020-08-19T19:08:37Z,2020-08-19T19:09:44Z,0,1,MERGED
+engine-theme-sdk,Issue 44 rebase,https://github.com/WPMedia/engine-theme-sdk/pull/77,2020-08-13T21:48:43Z,2020-08-13T21:54:15Z,0,2,MERGED
+engine-theme-sdk,Pen 1220 version publishing,https://github.com/WPMedia/engine-theme-sdk/pull/75,2020-08-05T15:44:51Z,2020-08-05T18:38:39Z,0,2,MERGED
+engine-theme-sdk,PEN-1137: Make Engine Theme SDK public,https://github.com/WPMedia/engine-theme-sdk/pull/72,2020-08-03T17:48:58Z,2020-08-03T18:52:42Z,0,1,MERGED
+engine-theme-sdk,1.5 prod,https://github.com/WPMedia/engine-theme-sdk/pull/142,2020-12-16T18:28:22Z,2020-12-16T19:17:41Z,1,105,MERGED
+engine-theme-sdk,Storybook regression,https://github.com/WPMedia/engine-theme-sdk/pull/141,2020-12-16T16:43:20Z,2020-12-18T14:23:33Z,0,4,MERGED
+engine-theme-sdk,Update version,https://github.com/WPMedia/engine-theme-sdk/pull/140,2020-12-16T11:20:43Z,2020-12-16T11:22:42Z,2,2,MERGED
+engine-theme-sdk,Fix for 'extractVideoEmbedFromStory' build error,https://github.com/WPMedia/engine-theme-sdk/pull/139,2020-12-14T20:25:35Z,2020-12-14T20:28:05Z,0,1,MERGED
+engine-theme-sdk,Pen 1535 icons resize,https://github.com/WPMedia/engine-theme-sdk/pull/138,2020-12-14T12:11:34Z,2020-12-16T11:51:32Z,3,5,MERGED
+engine-theme-sdk,"PEN-1588 Support for Norwegian, French in date localizations",https://github.com/WPMedia/engine-theme-sdk/pull/136,2020-12-11T10:32:08Z,2020-12-16T05:45:44Z,1,1,MERGED
+engine-theme-sdk,Added 'extractVideoEmbedFromStory()' helper function & unit tests,https://github.com/WPMedia/engine-theme-sdk/pull/135,2020-12-10T00:40:09Z,2020-12-14T20:07:53Z,3,3,MERGED
+engine-theme-sdk,1.5 sandbox release,https://github.com/WPMedia/engine-theme-sdk/pull/134,2020-12-08T12:56:26Z,2020-12-08T19:09:00Z,0,96,MERGED
+engine-theme-sdk,Beta backward compatibility images,https://github.com/WPMedia/engine-theme-sdk/pull/133,2020-12-08T11:23:41Z,2020-12-08T12:51:46Z,0,2,MERGED
+engine-theme-sdk,PEN-1341 Demonstrate viewBox on engine theme sdk icon components,https://github.com/WPMedia/engine-theme-sdk/pull/132,2020-12-07T08:11:14Z,2020-12-15T04:49:22Z,1,1,CLOSED
+engine-theme-sdk,release 1.4,https://github.com/WPMedia/engine-theme-sdk/pull/131,2020-11-30T17:40:50Z,2020-11-30T17:43:53Z,0,148,MERGED
+engine-theme-sdk,Pen 435 latest merge gallery,https://github.com/WPMedia/engine-theme-sdk/pull/130,2020-11-30T14:55:45Z,2020-12-03T09:36:44Z,2,5,MERGED
+engine-theme-sdk,PEN-1539 avoid lightbox collapsed suddenly,https://github.com/WPMedia/engine-theme-sdk/pull/129,2020-11-28T18:56:20Z,2020-12-10T18:07:49Z,2,2,MERGED
+engine-theme-sdk,feat: Handle compressed params by the cm=t not election,https://github.com/WPMedia/engine-theme-sdk/pull/128,2020-11-20T17:16:41Z,2020-11-23T15:44:39Z,0,1,MERGED
+engine-theme-sdk,Rc,https://github.com/WPMedia/engine-theme-sdk/pull/127,2020-11-19T22:09:55Z,2020-11-19T22:17:58Z,0,21,MERGED
+engine-theme-sdk,Fix first resizer url issue,https://github.com/WPMedia/engine-theme-sdk/pull/126,2020-11-19T21:49:40Z,2020-11-19T21:55:43Z,0,2,CLOSED
+engine-theme-sdk,[PEN-1461] Added fixes for URL compression,https://github.com/WPMedia/engine-theme-sdk/pull/125,2020-11-19T18:27:43Z,2020-11-19T21:25:20Z,3,1,CLOSED
+engine-theme-sdk,"Update documentation for releasing, with hotfix rc branch",https://github.com/WPMedia/engine-theme-sdk/pull/124,2020-11-18T19:46:59Z,2020-11-19T15:36:17Z,1,11,MERGED
+engine-theme-sdk,Old canary,https://github.com/WPMedia/engine-theme-sdk/pull/123,2020-11-18T02:44:49Z,2020-11-18T19:09:44Z,0,41,MERGED
+engine-theme-sdk,Hotfix compression image path,https://github.com/WPMedia/engine-theme-sdk/pull/122,2020-11-18T00:34:32Z,2020-11-19T21:23:01Z,3,15,MERGED
+engine-theme-sdk,PEN-438 nativo ad integration,https://github.com/WPMedia/engine-theme-sdk/pull/121,2020-11-17T16:08:38Z,2020-11-18T19:23:39Z,1,4,MERGED
+engine-theme-sdk,PEN-435 implemented interstitial Ads,https://github.com/WPMedia/engine-theme-sdk/pull/120,2020-11-16T23:14:05Z,2020-12-03T09:36:45Z,4,44,MERGED
+engine-theme-sdk,[PEN-1461] Quasi revert url compression,https://github.com/WPMedia/engine-theme-sdk/pull/119,2020-11-12T16:11:35Z,2020-11-17T20:41:32Z,6,3,MERGED
+engine-theme-sdk,Secure storybook deploy GitHub action,https://github.com/WPMedia/engine-theme-sdk/pull/118,2020-11-06T22:36:19Z,2020-12-16T16:49:22Z,1,36,CLOSED
+engine-theme-sdk,pen 1370: ci: Add github action testing on pr linting and tests...,https://github.com/WPMedia/engine-theme-sdk/pull/117,2020-11-06T20:59:32Z,2020-11-10T17:13:55Z,1,5,MERGED
+engine-theme-sdk,PEN-1392 add social image metadata,https://github.com/WPMedia/engine-theme-sdk/pull/115,2020-11-04T20:15:25Z,2020-11-12T20:07:51Z,4,3,MERGED
+engine-theme-sdk,Quick fix storybook,https://github.com/WPMedia/engine-theme-sdk/pull/114,2020-11-03T00:07:21Z,2020-11-03T00:13:44Z,0,2,MERGED
+engine-theme-sdk,Update storybook improvement,https://github.com/WPMedia/engine-theme-sdk/pull/113,2020-11-02T23:52:53Z,2020-11-03T22:06:15Z,1,5,MERGED
+engine-theme-sdk,1.9 release rc,https://github.com/WPMedia/engine-theme-sdk/pull/266,2021-03-31T15:57:21Z,2021-03-31T16:17:58Z,0,58,MERGED
+engine-theme-sdk,ci: Ignore dependabot branches for storybook,https://github.com/WPMedia/engine-theme-sdk/pull/265,2021-03-29T18:34:42Z,2021-03-29T18:51:17Z,1,1,MERGED
+engine-theme-sdk,1.8 production release,https://github.com/WPMedia/engine-theme-sdk/pull/259,2021-03-17T15:58:54Z,2021-03-17T16:19:30Z,0,85,MERGED
+engine-theme-sdk,THEMES-119: perf localization ,https://github.com/WPMedia/engine-theme-sdk/pull/257,2021-03-12T22:10:48Z,2021-03-16T20:24:59Z,6,21,MERGED
+engine-theme-sdk,Themes 84 valid date format check (pt 1),https://github.com/WPMedia/engine-theme-sdk/pull/256,2021-03-12T16:42:41Z,2021-03-15T17:16:33Z,1,3,MERGED
+engine-theme-sdk,THEMES-123 fix all timezones used for localize time and date funcs,https://github.com/WPMedia/engine-theme-sdk/pull/255,2021-03-11T20:33:44Z,2021-03-16T20:25:00Z,5,11,MERGED
+engine-theme-sdk,Helper Utility Function - isServerSide(),https://github.com/WPMedia/engine-theme-sdk/pull/253,2021-03-08T17:27:20Z,2021-03-08T21:30:44Z,0,1,MERGED
+engine-theme-sdk,Beta GitHub actions release test,https://github.com/WPMedia/engine-theme-sdk/pull/248,2021-03-03T20:12:20Z,2021-03-03T20:14:15Z,0,2,MERGED
+engine-theme-sdk,1.8 beta release,https://github.com/WPMedia/engine-theme-sdk/pull/247,2021-03-03T19:06:39Z,2021-03-03T19:47:01Z,0,78,MERGED
+engine-theme-sdk,[RC] PEN-1822 custom title overrides exclude,https://github.com/WPMedia/engine-theme-sdk/pull/244,2021-03-02T12:51:26Z,2021-03-02T18:30:51Z,0,1,MERGED
+engine-theme-sdk,Pen 1796 canary,https://github.com/WPMedia/engine-theme-sdk/pull/243,2021-03-01T17:20:01Z,2021-03-02T18:50:04Z,0,5,MERGED
+engine-theme-sdk,Pen 1796 canary,https://github.com/WPMedia/engine-theme-sdk/pull/242,2021-03-01T16:42:41Z,2021-03-01T16:47:16Z,0,5,CLOSED
+engine-theme-sdk,PEN-1796: Lazy Load Blocks (based on RC),https://github.com/WPMedia/engine-theme-sdk/pull/239,2021-02-26T16:51:49Z,2021-03-01T15:42:20Z,4,3,MERGED
+engine-theme-sdk,[RC] TMEDIA-98 - Meta Value 'title' should override page title logic,https://github.com/WPMedia/engine-theme-sdk/pull/238,2021-02-25T14:01:11Z,2021-02-26T10:49:15Z,0,3,MERGED
+engine-theme-sdk,Bump package json,https://github.com/WPMedia/engine-theme-sdk/pull/229,2021-02-24T15:49:21Z,2021-02-24T15:53:57Z,0,3,MERGED
+engine-theme-sdk,TMEDIA-21 - Add ErrorBoundary component,https://github.com/WPMedia/engine-theme-sdk/pull/228,2021-02-24T11:17:34Z,2021-02-24T15:30:54Z,0,3,MERGED
+engine-theme-sdk,Merging stable back into beta after 1.7 release,https://github.com/WPMedia/engine-theme-sdk/pull/217,2021-02-17T20:58:15Z,2021-03-17T16:22:33Z,3,5,CLOSED
+engine-theme-sdk,Merge beta into stable for 1.7 blocks release,https://github.com/WPMedia/engine-theme-sdk/pull/216,2021-02-17T17:20:39Z,2021-02-17T17:22:53Z,0,96,MERGED
+engine-theme-sdk,PEN-1761 - Update localizeDateTime to include new supported locales,https://github.com/WPMedia/engine-theme-sdk/pull/215,2021-02-16T17:25:43Z,2021-02-19T10:36:29Z,0,1,MERGED
+engine-theme-sdk,PEN-1736 SVG Icon updates to provide context prop,https://github.com/WPMedia/engine-theme-sdk/pull/214,2021-02-15T14:35:42Z,2021-02-19T15:31:22Z,6,8,MERGED
+engine-theme-sdk,Updates to the Image documentation. Updating the ALC links,https://github.com/WPMedia/engine-theme-sdk/pull/207,2021-02-10T15:24:11Z,2021-02-10T15:42:44Z,0,2,MERGED
+engine-theme-sdk,Updated Image documentation,https://github.com/WPMedia/engine-theme-sdk/pull/201,2021-02-03T14:53:04Z,2021-02-04T15:46:30Z,7,9,MERGED
+engine-theme-sdk,PEN-1629 Updating page titles,https://github.com/WPMedia/engine-theme-sdk/pull/200,2021-02-01T04:47:21Z,2021-02-02T05:01:55Z,1,1,MERGED
+engine-theme-sdk,PEN-1696: Article body sometimes doesn't render server-side,https://github.com/WPMedia/engine-theme-sdk/pull/199,2021-01-29T22:59:36Z,2021-02-01T21:15:59Z,0,1,MERGED
+engine-theme-sdk,PEN-1629 Updating page titles,https://github.com/WPMedia/engine-theme-sdk/pull/198,2021-01-29T17:35:54Z,2021-02-01T03:38:45Z,0,1,MERGED
+engine-theme-sdk,"Revert ""Add test and functionality for autoplay amount""",https://github.com/WPMedia/engine-theme-sdk/pull/197,2021-01-27T20:46:53Z,2021-01-27T20:47:27Z,0,1,MERGED
+engine-theme-sdk,PEN-1606:  Fallback image on social post,https://github.com/WPMedia/engine-theme-sdk/pull/189,2021-01-26T05:19:57Z,2021-01-28T12:28:41Z,5,3,MERGED
+engine-theme-sdk,Add storybook item for transparent png files,https://github.com/WPMedia/engine-theme-sdk/pull/186,2021-01-25T14:24:39Z,2021-01-25T17:10:45Z,0,1,MERGED
+engine-theme-sdk,chore: fix typescript update issue,https://github.com/WPMedia/engine-theme-sdk/pull/176,2021-01-20T15:29:41Z,2021-01-20T15:35:30Z,0,1,MERGED
+engine-theme-sdk,Pen 1629 override page title,https://github.com/WPMedia/engine-theme-sdk/pull/175,2021-01-20T03:29:52Z,2021-01-21T18:23:02Z,0,2,MERGED
+engine-theme-sdk,Fix new linting issues,https://github.com/WPMedia/engine-theme-sdk/pull/174,2021-01-19T23:48:13Z,2021-01-19T23:50:28Z,0,2,MERGED
+engine-theme-sdk,Update security deps,https://github.com/WPMedia/engine-theme-sdk/pull/164,2021-01-15T18:23:11Z,2021-01-15T18:26:38Z,0,3,MERGED
+engine-theme-sdk,PEN-1603 Changed wrong size values for fallback image,https://github.com/WPMedia/engine-theme-sdk/pull/162,2021-01-15T09:06:32Z,2021-01-20T04:43:20Z,0,1,MERGED
+engine-theme-sdk,PEN-1629 Updating page titles,https://github.com/WPMedia/engine-theme-sdk/pull/150,2021-01-14T10:49:56Z,2021-01-15T02:50:01Z,0,1,MERGED
+engine-theme-sdk,Updated tests and fixed embed html parsing when playthrough enabled,https://github.com/WPMedia/engine-theme-sdk/pull/149,2021-01-13T21:28:10Z,2021-01-20T15:56:07Z,2,1,CLOSED
+engine-theme-sdk,feat: Add basic videoplayer component taking in video embed,https://github.com/WPMedia/engine-theme-sdk/pull/148,2021-01-12T18:56:14Z,2021-01-20T15:16:37Z,3,41,MERGED
+engine-theme-sdk,1.6 Release,https://github.com/WPMedia/engine-theme-sdk/pull/147,2021-01-11T19:36:20Z,2021-01-14T17:21:17Z,0,37,MERGED
+engine-theme-sdk,"PEN-1631 Support for ""Hide photographer"" and ""Vanity photographer"" in Composer",https://github.com/WPMedia/engine-theme-sdk/pull/146,2021-01-11T09:21:02Z,2021-01-15T02:55:28Z,0,1,MERGED
+engine-theme-sdk,PEN-1617 Issue expanded gallery,https://github.com/WPMedia/engine-theme-sdk/pull/145,2021-01-07T14:14:52Z,2021-01-21T18:18:28Z,0,4,MERGED
+engine-theme-sdk,1.6 beta release,https://github.com/WPMedia/engine-theme-sdk/pull/144,2021-01-05T22:11:51Z,2021-01-05T22:17:33Z,0,33,MERGED
+engine-theme-sdk,Add typescript build to action to validate all compiles,https://github.com/WPMedia/engine-theme-sdk/pull/350,2021-05-26T12:19:43Z,2021-05-26T14:33:51Z,0,1,MERGED
+engine-theme-sdk,TMEDIA-231 : Add an optional setting to confine video heights in bloc…,https://github.com/WPMedia/engine-theme-sdk/pull/349,2021-05-25T16:15:05Z,2021-05-27T15:03:53Z,10,6,MERGED
+engine-theme-sdk,TMEDIA 234: Remove unused timezone js files,https://github.com/WPMedia/engine-theme-sdk/pull/348,2021-05-19T22:19:36Z,2021-06-02T15:01:57Z,4,14,MERGED
+engine-theme-sdk,Beta -> Stable,https://github.com/WPMedia/engine-theme-sdk/pull/346,2021-05-19T15:51:39Z,2021-05-19T16:05:20Z,1,93,MERGED
+engine-theme-sdk,ci: Update sb via `npx sb upgrade --use-npm` working as expected,https://github.com/WPMedia/engine-theme-sdk/pull/345,2021-05-17T15:06:07Z,2021-05-17T18:24:04Z,7,2,CLOSED
+engine-theme-sdk,Tmedia 16 document migration to videoplayer,https://github.com/WPMedia/engine-theme-sdk/pull/342,2021-05-14T19:56:27Z,2021-05-17T17:25:37Z,0,7,MERGED
+engine-theme-sdk,RC - Beta - Themes 1.10,https://github.com/WPMedia/engine-theme-sdk/pull/339,2021-05-05T15:37:55Z,2021-05-05T15:42:26Z,0,89,MERGED
+engine-theme-sdk,TMEDIA-227: Ensure first level of accessible contrast level,https://github.com/WPMedia/engine-theme-sdk/pull/336,2021-04-30T20:36:22Z,2021-06-10T19:22:08Z,3,4,MERGED
+engine-theme-sdk,Add threshold for chromatic to reduce noise,https://github.com/WPMedia/engine-theme-sdk/pull/335,2021-04-29T10:32:37Z,2021-04-29T12:59:22Z,0,2,MERGED
+engine-theme-sdk,Storybook - Make arc nav url's absolute,https://github.com/WPMedia/engine-theme-sdk/pull/334,2021-04-29T10:05:45Z,2021-04-29T12:59:33Z,0,1,MERGED
+engine-theme-sdk,Update docs based on base branch force-push,https://github.com/WPMedia/engine-theme-sdk/pull/333,2021-04-28T17:02:28Z,2021-04-29T12:47:01Z,0,1,MERGED
+engine-theme-sdk,1.10,https://github.com/WPMedia/engine-theme-sdk/pull/332,2021-04-28T16:06:48Z,2021-04-28T16:10:35Z,1,86,CLOSED
+engine-theme-sdk,Add visibility style to images not in view,https://github.com/WPMedia/engine-theme-sdk/pull/331,2021-04-28T15:54:43Z,2021-04-28T16:06:10Z,0,1,MERGED
+engine-theme-sdk,TMEDIA-27/29/30/31 - Gallery accessibility updates,https://github.com/WPMedia/engine-theme-sdk/pull/330,2021-04-26T13:13:30Z,2021-04-26T17:00:17Z,4,4,MERGED
+engine-theme-sdk,TMEDIA-52 - Update lightbox for some accessibility items,https://github.com/WPMedia/engine-theme-sdk/pull/321,2021-04-22T13:59:03Z,2021-04-22T14:31:11Z,0,1,MERGED
+engine-theme-sdk,Bump to test,https://github.com/WPMedia/engine-theme-sdk/pull/320,2021-04-21T17:44:26Z,2021-04-21T17:45:33Z,0,1,MERGED
+engine-theme-sdk,bump version,https://github.com/WPMedia/engine-theme-sdk/pull/319,2021-04-21T17:31:47Z,2021-04-21T17:33:07Z,0,2,MERGED
+engine-theme-sdk,Readme update,https://github.com/WPMedia/engine-theme-sdk/pull/318,2021-04-21T17:23:54Z,2021-04-21T17:27:58Z,0,1,MERGED
+engine-theme-sdk,Iterate 1.9 release,https://github.com/WPMedia/engine-theme-sdk/pull/317,2021-04-21T17:09:46Z,2021-04-21T17:10:28Z,0,2,MERGED
+engine-theme-sdk,1.9 stable release,https://github.com/WPMedia/engine-theme-sdk/pull/316,2021-04-21T16:18:42Z,2021-04-21T16:30:19Z,0,70,MERGED
+engine-theme-sdk,TMEDIA-196 construct social media links,https://github.com/WPMedia/engine-theme-sdk/pull/314,2021-04-19T18:33:02Z,2021-04-22T16:44:37Z,2,8,MERGED
+engine-theme-sdk,Tmedia 195 extract util,https://github.com/WPMedia/engine-theme-sdk/pull/307,2021-04-16T14:16:40Z,2021-04-19T13:36:47Z,0,4,MERGED
+engine-theme-sdk,TMEDIA-115 Add codeowner for pr security and review process,https://github.com/WPMedia/engine-theme-sdk/pull/305,2021-04-13T21:01:45Z,2021-04-21T16:16:13Z,0,1,MERGED
+engine-theme-sdk,TMEDIA-115: Add co-codeowner for Matthew,https://github.com/WPMedia/engine-theme-sdk/pull/304,2021-04-13T20:56:04Z,2021-04-21T16:17:03Z,0,1,MERGED
+engine-theme-sdk,2.9.4-canary.13,https://github.com/WPMedia/engine-theme-sdk/pull/301,2021-04-12T19:58:34Z,2021-04-12T19:58:56Z,0,1,MERGED
+engine-theme-sdk,chore: Update sb with --use-npm param to remove warnings,https://github.com/WPMedia/engine-theme-sdk/pull/290,2021-04-09T20:45:32Z,2021-04-12T14:05:35Z,0,1,MERGED
+engine-theme-sdk,Tmedia 59 gallery page next image naming,https://github.com/WPMedia/engine-theme-sdk/pull/289,2021-04-09T20:37:52Z,2021-04-13T14:13:17Z,1,5,MERGED
+engine-theme-sdk,1.9 beta release,https://github.com/WPMedia/engine-theme-sdk/pull/284,2021-04-07T16:08:12Z,2021-04-07T16:12:50Z,0,61,MERGED
+engine-theme-sdk,Add codeowner,https://github.com/WPMedia/engine-theme-sdk/pull/273,2021-04-01T21:00:10Z,2021-04-01T21:00:16Z,0,13,CLOSED
+engine-theme-sdk,Themes 107 lead art lightbox overlay,https://github.com/WPMedia/engine-theme-sdk/pull/272,2021-04-01T19:20:52Z,2021-04-06T13:53:30Z,0,4,MERGED
+engine-theme-sdk,feat: Allow fallback without a language or timezone string,https://github.com/WPMedia/engine-theme-sdk/pull/414,2021-07-23T14:37:02Z,2021-07-23T18:17:20Z,0,1,MERGED
+engine-theme-sdk,feat: Add typeof checks for fallback,https://github.com/WPMedia/engine-theme-sdk/pull/413,2021-07-22T21:33:24Z,2021-07-23T14:33:02Z,1,4,CLOSED
+engine-theme-sdk,TMEDIA-312: Update author formatting on Gallery/Article Body to accou…,https://github.com/WPMedia/engine-theme-sdk/pull/401,2021-07-19T20:54:00Z,2021-07-20T17:55:34Z,1,5,MERGED
+engine-theme-sdk,Include codeowners update,https://github.com/WPMedia/engine-theme-sdk/pull/400,2021-07-13T14:35:11Z,2021-07-13T14:37:02Z,0,1,MERGED
+engine-theme-sdk,Tmedia 264 localize date passed in value,https://github.com/WPMedia/engine-theme-sdk/pull/399,2021-07-09T21:01:30Z,2021-07-13T19:59:01Z,2,9,MERGED
+engine-theme-sdk,TMEDIA-286 - Add placeholder space for PoWa Videos,https://github.com/WPMedia/engine-theme-sdk/pull/386,2021-07-05T10:34:51Z,2021-07-06T14:50:26Z,1,3,MERGED
+engine-theme-sdk,TMEDIA-290/Rendering HTML in image subtitles,https://github.com/WPMedia/engine-theme-sdk/pull/385,2021-07-02T19:18:49Z,2021-07-08T17:52:42Z,4,4,MERGED
+engine-theme-sdk,"TMEDIA-300, ET AL image loading lazy cls fix",https://github.com/WPMedia/engine-theme-sdk/pull/380,2021-07-01T20:37:52Z,2021-07-01T22:03:21Z,4,12,MERGED
+engine-theme-sdk,Tmedia 300 loading lazy static,https://github.com/WPMedia/engine-theme-sdk/pull/379,2021-07-01T15:52:21Z,2021-07-01T22:03:34Z,1,4,CLOSED
+engine-theme-sdk,TMEDIA 288 - Fix layout reflow in card list and elsewhere,https://github.com/WPMedia/engine-theme-sdk/pull/376,2021-06-28T20:28:43Z,2021-07-01T22:03:39Z,2,11,CLOSED
+engine-theme-sdk,TMEDIA - 264 Update to use fallback as specified,https://github.com/WPMedia/engine-theme-sdk/pull/375,2021-06-28T16:36:38Z,2021-07-09T21:02:06Z,1,1,CLOSED
+engine-theme-sdk,fix: Use http for content protocol replacement,https://github.com/WPMedia/engine-theme-sdk/pull/368,2021-06-16T20:09:11Z,2021-06-17T13:56:38Z,0,2,MERGED
+engine-theme-sdk,tmedia-226: Remove important tag for span accessibility in gallery,https://github.com/WPMedia/engine-theme-sdk/pull/367,2021-06-16T18:58:13Z,2021-06-16T19:05:21Z,0,1,MERGED
+engine-theme-sdk,1.11,https://github.com/WPMedia/engine-theme-sdk/pull/366,2021-06-16T14:54:11Z,2021-06-17T15:32:34Z,0,43,MERGED
+engine-theme-sdk,"TMEDIA-35/new prop for Gallery, passed from fusion blocks",https://github.com/WPMedia/engine-theme-sdk/pull/362,2021-06-07T14:39:30Z,2021-06-07T20:46:20Z,1,5,MERGED
+engine-theme-sdk,Tmedia 234 access timezone nested locales,https://github.com/WPMedia/engine-theme-sdk/pull/361,2021-06-04T21:12:14Z,2021-06-07T18:07:42Z,2,5,MERGED
+engine-theme-sdk,Refactoring the directory for node_modules and the file path for the blocks.json,https://github.com/WPMedia/engine-theme-sdk/pull/360,2021-06-04T17:30:13Z,2021-06-04T19:16:13Z,2,2,MERGED
+engine-theme-sdk,[WIP] - TMEDIA-241 - shared fusion components,https://github.com/WPMedia/engine-theme-sdk/pull/359,2021-06-04T14:00:28Z,2021-08-04T19:37:26Z,0,10,CLOSED
+engine-theme-sdk,fix: Add fallback logging and stack track,https://github.com/WPMedia/engine-theme-sdk/pull/358,2021-06-03T19:50:24Z,2021-06-03T20:31:11Z,0,3,MERGED
+engine-theme-sdk,Merge beta,https://github.com/WPMedia/engine-theme-sdk/pull/357,2021-06-03T13:39:59Z,2021-06-03T16:09:59Z,0,5,MERGED
+engine-theme-sdk,Update lazy-child to 0.3.1,https://github.com/WPMedia/engine-theme-sdk/pull/356,2021-06-02T21:30:47Z,2021-06-03T17:51:45Z,1,4,MERGED
+engine-theme-sdk,Adjust defaults for video scaling,https://github.com/WPMedia/engine-theme-sdk/pull/355,2021-06-02T19:32:08Z,2021-06-03T13:32:03Z,1,1,MERGED
+engine-theme-sdk,ci: Add output files for scripts with postinstall,https://github.com/WPMedia/engine-theme-sdk/pull/354,2021-06-02T15:21:48Z,2021-06-02T15:25:35Z,0,1,MERGED
+engine-theme-sdk,Switch to run storybook on push,https://github.com/WPMedia/engine-theme-sdk/pull/353,2021-06-02T15:04:06Z,2021-06-02T15:05:53Z,0,1,MERGED
+engine-theme-sdk,TMEDIA-35/correct font usage,https://github.com/WPMedia/engine-theme-sdk/pull/352,2021-06-02T14:40:30Z,2021-06-07T14:39:51Z,0,2,CLOSED
+engine-theme-sdk,HOTFIX - TMEDIA-530 - Fixes and minor updates for canonical link,https://github.com/WPMedia/engine-theme-sdk/pull/503,2021-10-26T13:47:52Z,2021-10-27T14:26:50Z,0,2,MERGED
+engine-theme-sdk,TMEDIA-533 - Add pt to pt_PT mapping for date localization,https://github.com/WPMedia/engine-theme-sdk/pull/502,2021-10-25T12:32:01Z,2021-10-25T14:19:30Z,0,1,MERGED
+engine-theme-sdk,Tmedia 508 code scanning on pr ,https://github.com/WPMedia/engine-theme-sdk/pull/489,2021-10-15T12:48:24Z,2021-10-26T14:44:09Z,0,3,MERGED
+engine-theme-sdk,TMEDIA-446 - Gallery Ad Defects,https://github.com/WPMedia/engine-theme-sdk/pull/463,2021-09-17T12:41:20Z,2021-09-21T15:50:27Z,2,1,MERGED
+engine-theme-sdk,Security audit deps,https://github.com/WPMedia/engine-theme-sdk/pull/461,2021-09-15T22:09:18Z,2021-09-16T14:03:00Z,0,4,MERGED
+engine-theme-sdk,TMEDIA-481: remove mobile-unfriendly prev/next image tap targets,https://github.com/WPMedia/engine-theme-sdk/pull/451,2021-09-14T15:20:21Z,2021-09-14T18:29:31Z,2,1,MERGED
+engine-theme-sdk,"Generating canonical links for article, video and gallery pages",https://github.com/WPMedia/engine-theme-sdk/pull/449,2021-09-09T17:35:36Z,2021-09-14T14:05:43Z,2,2,MERGED
+engine-theme-sdk,TMEDIA-453: Add resize filters to og-image metadata,https://github.com/WPMedia/engine-theme-sdk/pull/448,2021-09-07T22:21:50Z,2021-09-08T14:52:59Z,1,2,MERGED
+engine-theme-sdk,TMEDIA-469: Add Error Icon,https://github.com/WPMedia/engine-theme-sdk/pull/441,2021-08-31T20:02:38Z,2021-09-01T14:22:40Z,2,2,MERGED
+engine-theme-sdk,Release 1.14 - Canary -> RC,https://github.com/WPMedia/engine-theme-sdk/pull/438,2021-08-25T16:12:04Z,2021-08-25T16:29:46Z,0,30,MERGED
+engine-theme-sdk,Ci fix npm ci fail on publish,https://github.com/WPMedia/engine-theme-sdk/pull/437,2021-08-23T14:33:13Z,2021-08-23T20:25:11Z,0,7,MERGED
+engine-theme-sdk,Tmedia 423 meridiem date time,https://github.com/WPMedia/engine-theme-sdk/pull/434,2021-08-20T18:38:24Z,2021-08-23T14:09:33Z,4,4,MERGED
+engine-theme-sdk,docs: Add more info in error message for not found resized image options,https://github.com/WPMedia/engine-theme-sdk/pull/428,2021-08-12T21:20:24Z,2021-08-16T13:04:28Z,0,1,MERGED
+engine-theme-sdk,ci: Use dependabot test and target head,https://github.com/WPMedia/engine-theme-sdk/pull/415,2021-08-02T15:19:58Z,2021-08-02T15:20:21Z,0,1,CLOSED
+engine-theme-sdk,POC Refactor remove ineffective parameter type,https://github.com/WPMedia/engine-theme-sdk/pull/540,2021-12-30T20:48:26Z,2022-01-20T15:44:35Z,2,2,CLOSED
+engine-theme-sdk,TMEDIA-577: Remove Fixed Gallery Height.,https://github.com/WPMedia/engine-theme-sdk/pull/539,2021-12-29T19:22:43Z,2021-12-30T21:07:20Z,7,8,MERGED
+engine-theme-sdk,TMEDIA-596 - Add loading prop to Image component with default being lazy,https://github.com/WPMedia/engine-theme-sdk/pull/537,2021-12-21T10:11:34Z,2021-12-22T09:22:27Z,0,1,MERGED
+engine-theme-sdk,"TMEDIA-591 - Update Gallery to have display options for title, caption and credits",https://github.com/WPMedia/engine-theme-sdk/pull/534,2021-12-14T10:40:48Z,2021-12-14T16:03:22Z,1,3,MERGED
+engine-theme-sdk,TMEDIA-534: Canonical link for all page types,https://github.com/WPMedia/engine-theme-sdk/pull/518,2021-11-23T21:39:50Z,2021-12-09T14:52:08Z,10,5,MERGED
+engine-theme-sdk,TMEDIA-770 - Missing Trailing Slash,https://github.com/WPMedia/engine-theme-sdk/pull/637,2022-03-25T11:38:45Z,2022-03-25T15:20:28Z,0,1,MERGED
+engine-theme-sdk,Tmedia 601 videos caption,https://github.com/WPMedia/engine-theme-sdk/pull/634,2022-03-09T19:22:29Z,2022-03-10T14:39:55Z,0,9,MERGED
+engine-theme-sdk,Tmedia 660 prettier eslint,https://github.com/WPMedia/engine-theme-sdk/pull/628,2022-02-23T17:25:57Z,2022-02-24T14:03:08Z,0,6,MERGED
+engine-theme-sdk,TMEDIA 680: Target powa class for setting powa properties,https://github.com/WPMedia/engine-theme-sdk/pull/615,2022-02-14T21:59:08Z,2022-02-15T22:53:38Z,3,1,MERGED
+engine-theme-sdk,IN PROGRESS Tmedia 680 video player setting property,https://github.com/WPMedia/engine-theme-sdk/pull/614,2022-02-14T21:54:59Z,2022-02-14T21:56:50Z,0,3,CLOSED
+engine-theme-sdk,IN PROGRESS Tmedia 680 target more constant powa class,https://github.com/WPMedia/engine-theme-sdk/pull/613,2022-02-14T21:53:22Z,2022-02-14T21:54:34Z,0,3,CLOSED
+engine-theme-sdk,HOTFIX Tmedia 677 vertically centered gallery safari,https://github.com/WPMedia/engine-theme-sdk/pull/608,2022-02-09T21:37:03Z,2022-02-09T21:37:12Z,0,54,CLOSED
+engine-theme-sdk,TMEDIA-677 Vertically center gallery ,https://github.com/WPMedia/engine-theme-sdk/pull/607,2022-02-09T21:26:26Z,2022-02-15T16:08:32Z,5,2,MERGED
+engine-theme-sdk,tmedia 653 Use action for caching uniformly across actions in use,https://github.com/WPMedia/engine-theme-sdk/pull/602,2022-02-03T20:21:46Z,2022-02-07T18:05:36Z,2,7,MERGED
+engine-theme-sdk,Tmedia 646 react 17 testing fix and jsx transform,https://github.com/WPMedia/engine-theme-sdk/pull/598,2022-01-31T20:41:19Z,2022-01-31T22:27:03Z,1,7,CLOSED
+engine-theme-sdk,TMEDIA-646 upgrade react testing dependencies,https://github.com/WPMedia/engine-theme-sdk/pull/597,2022-01-31T17:36:35Z,2022-02-01T15:09:00Z,2,4,MERGED
+engine-theme-sdk,in progress TMEDIA-646: Update to react 17,https://github.com/WPMedia/engine-theme-sdk/pull/563,2022-01-19T21:08:58Z,2022-01-31T17:32:03Z,1,4,CLOSED
+engine-theme-sdk,TMEDIA-605:  Add themes version branch release publish logic,https://github.com/WPMedia/engine-theme-sdk/pull/562,2022-01-18T21:48:59Z,2022-01-19T22:16:02Z,0,3,MERGED
+engine-theme-sdk,2.12.6-rc.0 Beta- Jan 12,https://github.com/WPMedia/engine-theme-sdk/pull/550,2022-01-12T16:44:19Z,2022-01-12T16:45:40Z,0,1,CLOSED
+engine-theme-sdk,poc: Update compressed string to go with quality 100 in blocks,https://github.com/WPMedia/engine-theme-sdk/pull/549,2022-01-11T19:19:06Z,2022-01-31T14:55:33Z,1,1,CLOSED
+engine-theme-sdk,poc Delete dependabot,https://github.com/WPMedia/engine-theme-sdk/pull/547,2022-01-03T14:59:16Z,2022-01-14T19:34:28Z,1,1,CLOSED
+engine-theme-sdk,wip Chore: Remove migrated utils,https://github.com/WPMedia/engine-theme-sdk/pull/670,2022-05-27T20:28:36Z,2022-06-06T21:48:15Z,1,2,CLOSED
+engine-theme-sdk,Update GitHub actions to allow for x.x.x branches,https://github.com/WPMedia/engine-theme-sdk/pull/657,2022-05-17T13:45:59Z,2022-05-17T17:52:02Z,0,1,MERGED
+engine-theme-sdk,Hotfix tmedia 840 video meta stable 1.20,https://github.com/WPMedia/engine-theme-sdk/pull/651,2022-04-27T16:35:31Z,2022-04-27T16:52:38Z,0,2,MERGED
+engine-theme-sdk,HOTFIX 1.20 for video player meta,https://github.com/WPMedia/engine-theme-sdk/pull/650,2022-04-27T16:28:32Z,2022-04-27T16:34:45Z,1,4,CLOSED
+engine-theme-sdk,wip tmedia 842: fix sites post install ,https://github.com/WPMedia/engine-theme-sdk/pull/649,2022-04-26T15:12:38Z,2022-04-26T15:22:29Z,0,1,CLOSED
+engine-theme-sdk,HOTFIX Tmedia 840 empty credits ,https://github.com/WPMedia/engine-theme-sdk/pull/648,2022-04-25T17:42:47Z,2022-04-25T19:17:59Z,0,2,MERGED
+engine-theme-sdk,"wip HOTFIX TMEDIA-840: handle empty credits object, falsy subtitle, title",https://github.com/WPMedia/engine-theme-sdk/pull/647,2022-04-25T17:24:23Z,2022-04-25T17:40:36Z,0,3,CLOSED
+engine-theme-sdk,tmedia 842: fix: Ensure no error out if no sites key,https://github.com/WPMedia/engine-theme-sdk/pull/646,2022-04-22T21:42:06Z,2022-04-28T19:28:46Z,1,11,MERGED
+engine-theme-sdk,tmedia 781: Use github token and github actor rather than personal pat,https://github.com/WPMedia/engine-theme-sdk/pull/640,2022-04-07T20:46:12Z,2022-04-08T13:59:15Z,2,1,MERGED
+engine-theme-sdk,"docs: Update debugging and formatting for timezone library, remove unused canary publish",https://github.com/WPMedia/engine-theme-sdk/pull/697,2022-10-19T17:38:40Z,2022-10-21T17:34:44Z,0,3,MERGED
+engine-theme-sdk,docs: Remove outdated v1 documentation. ,https://github.com/WPMedia/engine-theme-sdk/pull/696,2022-10-07T19:57:34Z,2022-10-10T12:43:18Z,0,1,MERGED
+engine-theme-sdk,ci: Remove or edit branches that no longer are part of the release process,https://github.com/WPMedia/engine-theme-sdk/pull/694,2022-10-04T15:32:56Z,2022-10-05T19:28:29Z,1,1,MERGED
+engine-theme-sdk,"TMEDIA-962 Removed unused functionality for clarity, performance",https://github.com/WPMedia/engine-theme-sdk/pull/686,2022-08-03T21:50:44Z,2022-10-06T14:19:21Z,3,20,MERGED
+engine-theme-sdk,Themes 917: remove arcnav (stable),https://github.com/WPMedia/engine-theme-sdk/pull/715,2022-12-16T16:27:20Z,2022-12-19T15:38:01Z,0,1,MERGED
+engine-theme-sdk,Themes 917: remove arcnav (rc),https://github.com/WPMedia/engine-theme-sdk/pull/714,2022-12-16T16:27:17Z,2022-12-19T15:37:57Z,0,1,MERGED
+engine-theme-sdk,Themes 917: remove arcnav (canary),https://github.com/WPMedia/engine-theme-sdk/pull/713,2022-12-16T16:27:14Z,2022-12-19T15:37:49Z,0,1,MERGED
+engine-theme-sdk,Themes 917: remove arcnav (beta),https://github.com/WPMedia/engine-theme-sdk/pull/712,2022-12-16T16:27:12Z,2022-12-19T15:37:54Z,0,1,MERGED
+engine-theme-sdk,Themes 917: remove arcnav (2.0.3),https://github.com/WPMedia/engine-theme-sdk/pull/711,2022-12-16T16:09:32Z,2022-12-19T15:38:06Z,0,1,MERGED
+engine-theme-sdk,Themes 917: remove arcnav (1.24),https://github.com/WPMedia/engine-theme-sdk/pull/710,2022-12-16T16:08:39Z,2022-12-19T15:38:03Z,0,1,MERGED
+engine-theme-sdk,THEMES-1062: Gallery component | Eager load image,https://github.com/WPMedia/engine-theme-sdk/pull/731,2023-03-27T20:53:54Z,2023-03-29T16:58:07Z,0,1,MERGED
+engine-theme-sdk,Themes 987  field changes,https://github.com/WPMedia/engine-theme-sdk/pull/727,2023-02-07T17:08:34Z,2023-02-08T14:30:47Z,1,1,CLOSED
+engine-theme-sdk,Update to only add elements that already exist.,https://github.com/WPMedia/engine-theme-sdk/pull/726,2023-02-06T16:42:30Z,2023-02-06T20:01:01Z,5,4,MERGED
+engine-theme-sdk,THEMES-987 constants export fix,https://github.com/WPMedia/engine-theme-sdk/pull/725,2023-02-04T16:56:00Z,2023-02-04T16:57:59Z,0,1,MERGED
+engine-theme-sdk,THEMES-987 -- add method to sanitize data from ANS,https://github.com/WPMedia/engine-theme-sdk/pull/724,2023-02-04T02:24:09Z,2023-02-04T16:44:47Z,0,8,MERGED
+engine-theme-sdk,THMES-897 - Update default dateTimeFormat,https://github.com/WPMedia/engine-theme-sdk/pull/719,2023-01-10T14:18:51Z,2023-01-19T15:39:36Z,0,1,MERGED
+engine-theme-sdk,THEMES-1102: Update timezone package,https://github.com/WPMedia/engine-theme-sdk/pull/748,2023-05-02T20:28:51Z,2023-05-03T14:16:21Z,0,1,MERGED
+engine-theme-sdk,Updating version number since an automatic increment failed.,https://github.com/WPMedia/engine-theme-sdk/pull/746,2023-04-24T17:55:18Z,2023-04-24T18:00:30Z,0,1,MERGED
+engine-theme-sdk,THEMES-1073: Removing date utilities,https://github.com/WPMedia/engine-theme-sdk/pull/734,2023-04-13T14:29:52Z,2023-04-24T14:48:47Z,4,2,MERGED
+engine-theme-sdk,THEMES-1072: Remove LazyLoad from this repo,https://github.com/WPMedia/engine-theme-sdk/pull/732,2023-04-04T18:22:27Z,2023-04-10T15:52:21Z,1,3,MERGED
+engine-theme-sdk,THEMES-1479: ,https://github.com/WPMedia/engine-theme-sdk/pull/767,2023-10-30T19:47:08Z,2023-10-31T13:24:04Z,0,1,MERGED
+engine-theme-sdk,Updated TwitterIcon path,https://github.com/WPMedia/engine-theme-sdk/pull/762,2023-10-24T19:10:59Z,2023-11-06T15:41:05Z,1,1,MERGED
+engine-theme-sdk,Revert thumbor lite change,https://github.com/WPMedia/engine-theme-sdk/pull/761,2023-10-18T18:10:29Z,2023-10-18T18:10:59Z,0,1,MERGED
+engine-theme-sdk,Node update type fixes,https://github.com/WPMedia/engine-theme-sdk/pull/760,2023-10-18T15:16:44Z,2023-10-18T15:27:57Z,0,3,MERGED
+engine-theme-sdk,Node 20 updates and node package upgrades,https://github.com/WPMedia/engine-theme-sdk/pull/759,2023-10-17T19:05:08Z,2023-10-18T14:02:43Z,0,7,MERGED
+engine-theme-sdk,Updated twittericon,https://github.com/WPMedia/engine-theme-sdk/pull/771,2023-11-07T17:02:58Z,2023-11-09T17:01:47Z,0,1,MERGED

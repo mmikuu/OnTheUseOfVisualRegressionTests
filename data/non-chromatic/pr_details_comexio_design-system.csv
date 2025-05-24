@@ -1,0 +1,425 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+design-system,Separação dos componentespor página e organização da página de cores,https://github.com/comexio/design-system/pull/10,2020-03-10T18:14:55Z,2020-03-25T12:08:40Z,0,4,MERGED
+design-system,"Separado em páginas componentes de tipografia, icones e cores",https://github.com/comexio/design-system/pull/9,2020-02-11T14:08:20Z,2020-02-11T17:16:38Z,9,7,MERGED
+design-system,N lembro se era essa branch kkkkk ou se tinha tarefa,https://github.com/comexio/design-system/pull/8,2020-02-11T13:02:29Z,2020-02-12T14:00:42Z,2,14,MERGED
+design-system,Adicionado labeledChip ao design system,https://github.com/comexio/design-system/pull/7,2020-02-10T13:37:07Z,2020-02-11T13:03:43Z,1,2,MERGED
+design-system,LOG-3968 | Added dropdowns to demo,https://github.com/comexio/design-system/pull/6,2020-01-23T17:12:32Z,2020-01-23T17:27:56Z,0,4,MERGED
+design-system,Adicionado inputs baseado no vuetify,https://github.com/comexio/design-system/pull/5,2020-01-23T14:01:49Z,2020-01-23T16:09:35Z,0,3,MERGED
+design-system,added release logic,https://github.com/comexio/design-system/pull/4,2020-01-23T12:12:11Z,2020-01-23T13:10:55Z,0,10,MERGED
+design-system,Removido vue do package.json,https://github.com/comexio/design-system/pull/3,2020-01-22T18:48:56Z,2020-01-23T13:08:50Z,0,1,MERGED
+design-system,Arquivos de Build + vuetify,https://github.com/comexio/design-system/pull/2,2020-01-22T17:01:54Z,2020-01-22T18:29:39Z,0,2,MERGED
+design-system,Adicionado itens de error e validação,https://github.com/comexio/design-system/pull/1,2020-01-21T12:21:08Z,2020-01-23T13:08:21Z,1,3,CLOSED
+design-system,(LOG-7219) - Add two number year,https://github.com/comexio/design-system/pull/17,2020-07-30T17:26:47Z,2020-07-30T17:49:50Z,0,5,MERGED
+design-system,Add link to readme,https://github.com/comexio/design-system/pull/16,2020-07-29T16:43:18Z,2020-07-29T16:57:51Z,0,3,MERGED
+design-system,using actions,https://github.com/comexio/design-system/pull/15,2020-07-29T14:50:43Z,2020-07-29T16:23:26Z,0,3,MERGED
+design-system,(LOG-7214) - Add daily datepicker,https://github.com/comexio/design-system/pull/14,2020-07-24T19:55:25Z,2020-07-24T20:18:57Z,0,1,MERGED
+design-system,(LOG-7212) - Add generic components,https://github.com/comexio/design-system/pull/13,2020-07-23T12:51:17Z,2020-07-23T19:09:00Z,3,3,MERGED
+design-system,Adicionado card padrão do sistema,https://github.com/comexio/design-system/pull/12,2020-06-04T21:41:47Z,2020-06-05T13:18:09Z,0,3,MERGED
+design-system,(LOG-10801) - Tratado ordenação de retorno,https://github.com/comexio/design-system/pull/70,2020-10-30T17:27:01Z,2020-10-30T17:39:40Z,0,1,MERGED
+design-system,(LOG-10675) - Removido periodos do datepicker,https://github.com/comexio/design-system/pull/69,2020-10-28T15:10:53Z,2020-10-28T17:29:51Z,1,1,MERGED
+design-system,(LOG-10117) - Adicionado bind pra atributos,https://github.com/comexio/design-system/pull/68,2020-10-28T11:58:03Z,2020-10-28T12:08:39Z,0,1,MERGED
+design-system,(LOG-8949) - Realizar o ajuste para o texto não ultrapassar o limite da área visível.,https://github.com/comexio/design-system/pull/67,2020-10-26T20:43:45Z,2020-10-27T13:14:14Z,0,1,MERGED
+design-system,(LOG-10115) - Removido seta e quebra de linha,https://github.com/comexio/design-system/pull/66,2020-10-26T14:15:43Z,2020-10-26T20:21:33Z,0,5,MERGED
+design-system,(LOG-10011) - Adicionado itens recebidos para as colunas,https://github.com/comexio/design-system/pull/65,2020-10-22T19:59:29Z,2020-10-22T20:26:28Z,1,5,MERGED
+design-system,(LOG-10001) - Corrigido cores da divisão da tabela,https://github.com/comexio/design-system/pull/64,2020-10-21T14:34:27Z,2020-10-22T20:25:17Z,0,1,MERGED
+design-system,(LOG-10001) - diminuido header,https://github.com/comexio/design-system/pull/63,2020-10-21T12:34:51Z,2020-10-21T12:52:14Z,0,1,MERGED
+design-system,(LOG-9849) - Adicionado opção de array de objetos,https://github.com/comexio/design-system/pull/62,2020-10-19T19:49:21Z,2020-10-19T20:13:09Z,0,1,MERGED
+design-system,(LOG-9786) - Ajustado tamanho dos icones,https://github.com/comexio/design-system/pull/61,2020-10-15T14:43:11Z,2020-10-15T15:30:15Z,0,2,MERGED
+design-system,(LOG-9786) - Corrigido items não aparecendo,https://github.com/comexio/design-system/pull/60,2020-10-14T19:44:27Z,2020-10-14T19:59:10Z,0,2,MERGED
+design-system,(LOG-9850) - Adicionado important no box-shadow,https://github.com/comexio/design-system/pull/59,2020-10-09T16:24:00Z,2020-10-14T20:16:48Z,0,3,MERGED
+design-system,(LOG-9779) - Adicionado size para os circulos,https://github.com/comexio/design-system/pull/58,2020-10-07T20:35:19Z,2020-10-14T20:21:27Z,0,4,MERGED
+design-system,(LOG-9599) - Removido texto após filtrar,https://github.com/comexio/design-system/pull/57,2020-10-06T19:02:15Z,2020-10-14T20:12:01Z,0,3,MERGED
+design-system,(LOG-9558) - Componentizado itens do fieldmanager,https://github.com/comexio/design-system/pull/56,2020-10-06T12:30:36Z,2020-10-06T13:21:31Z,0,3,MERGED
+design-system,(LOG-9554) - Implementado tradução no design system,https://github.com/comexio/design-system/pull/55,2020-09-30T20:08:01Z,2020-10-05T19:26:20Z,0,2,MERGED
+design-system,(LOG-9555) - Externalizado componente generalData e adicionado tipo de valor,https://github.com/comexio/design-system/pull/54,2020-09-29T20:13:57Z,2020-10-05T19:21:14Z,0,1,MERGED
+design-system,(LOG-9616) - Corrigido validação para tooltip,https://github.com/comexio/design-system/pull/53,2020-09-29T17:30:20Z,2020-09-29T17:39:56Z,0,1,MERGED
+design-system,(LOG-9467) - Adicionado tooltip para os itens truncados,https://github.com/comexio/design-system/pull/52,2020-09-28T17:18:13Z,2020-09-28T17:37:30Z,0,3,MERGED
+design-system,(LOG-9467) - Ajuste largura da tabela e não ter quebra de linhas,https://github.com/comexio/design-system/pull/51,2020-09-25T20:32:30Z,2020-09-25T20:42:53Z,0,1,MERGED
+design-system,(LOG-9254) - Definindo dependencias para serem instaladas,https://github.com/comexio/design-system/pull/50,2020-09-25T14:27:27Z,2020-09-25T18:04:24Z,0,3,MERGED
+design-system,(LOG-9255) - Adicionado botão padrao do sistema,https://github.com/comexio/design-system/pull/49,2020-09-23T16:28:23Z,2020-09-25T14:26:31Z,0,2,MERGED
+design-system,(LOG-8595) - Corrigido altura das linhas e ajustes nas labels,https://github.com/comexio/design-system/pull/48,2020-09-22T20:00:10Z,2020-09-22T20:09:46Z,0,1,MERGED
+design-system,(LOG-9158) - Ajuste para o gráfico de tags,https://github.com/comexio/design-system/pull/47,2020-09-21T12:10:56Z,2020-09-21T13:24:46Z,0,6,MERGED
+design-system,(LOG-8865) - Adicionado grafico circular de porcentagem,https://github.com/comexio/design-system/pull/46,2020-09-18T15:17:14Z,2020-09-21T12:31:14Z,0,1,MERGED
+design-system,(LOG-8905) - Expandir Lista NCM,https://github.com/comexio/design-system/pull/45,2020-09-17T17:22:20Z,2020-09-17T18:21:22Z,0,2,MERGED
+design-system,(LOG-8916) - Adicionado dropdown de checkbox,https://github.com/comexio/design-system/pull/44,2020-09-16T21:28:23Z,2020-09-17T14:51:50Z,0,3,MERGED
+design-system,(LOG-8899) - Ajuste de css,https://github.com/comexio/design-system/pull/43,2020-09-11T21:13:09Z,2020-09-11T21:16:48Z,0,1,MERGED
+design-system,(LOG-7220) - Adicionado com carregamento de items,https://github.com/comexio/design-system/pull/42,2020-09-11T20:51:17Z,2020-09-17T14:36:08Z,0,2,MERGED
+design-system,(LOG-8655) - Adição de valor para troca de parâmetro,https://github.com/comexio/design-system/pull/41,2020-09-11T13:26:51Z,2020-09-11T14:36:50Z,0,3,MERGED
+design-system,(LOG-8094) - Corrigido laterais no datepicker,https://github.com/comexio/design-system/pull/40,2020-09-10T13:58:14Z,2020-09-15T19:30:21Z,0,3,MERGED
+design-system,(LOG-8786) - Ajustes de graficos,https://github.com/comexio/design-system/pull/39,2020-09-04T17:37:28Z,2020-09-04T18:05:24Z,0,3,MERGED
+design-system,(LOG-7790) - Adicionado select named,https://github.com/comexio/design-system/pull/38,2020-09-03T20:33:23Z,2020-09-04T11:37:43Z,0,2,MERGED
+design-system,(LOG-8505) - Alterado componente de tabela simples,https://github.com/comexio/design-system/pull/37,2020-09-02T13:35:35Z,2020-09-02T16:30:36Z,2,5,MERGED
+design-system,(LOG-8509) - Adicionado grafico linear,https://github.com/comexio/design-system/pull/36,2020-08-31T12:56:14Z,2020-09-01T13:20:10Z,10,3,MERGED
+design-system,(LOG-8095) - Adicionado grafico de barras,https://github.com/comexio/design-system/pull/35,2020-08-27T15:31:46Z,2020-08-27T16:30:44Z,1,1,MERGED
+design-system,(LOG-8476) - Correção de quebras de linhas,https://github.com/comexio/design-system/pull/34,2020-08-25T16:57:35Z,2020-08-25T17:05:36Z,0,4,MERGED
+design-system,(LOG-8476) - Adicionado tooltip e corrigido altura,https://github.com/comexio/design-system/pull/33,2020-08-24T21:11:21Z,2020-08-25T13:53:29Z,0,5,MERGED
+design-system,(LOG-7789) - Adicionado tabela,https://github.com/comexio/design-system/pull/32,2020-08-21T21:00:13Z,2020-08-25T13:53:09Z,0,3,MERGED
+design-system,(LOG-8401) - Ajuste de CSS,https://github.com/comexio/design-system/pull/31,2020-08-20T18:04:05Z,2020-08-20T18:25:18Z,0,1,MERGED
+design-system,(LOG-8249) - Component FAlert,https://github.com/comexio/design-system/pull/30,2020-08-20T17:16:04Z,2020-08-20T17:31:55Z,2,3,MERGED
+design-system,(LOG-8028) - Add arrow effect to lines,https://github.com/comexio/design-system/pull/29,2020-08-19T17:40:41Z,2020-08-25T12:15:15Z,0,5,MERGED
+design-system,(LOG-8028) - Adicionado componente com listagem de rotas,https://github.com/comexio/design-system/pull/28,2020-08-17T19:55:48Z,2020-08-17T20:55:09Z,0,2,MERGED
+design-system,(LOG-8020) - Adiciona chart resumido,https://github.com/comexio/design-system/pull/27,2020-08-14T22:34:07Z,2020-08-17T13:17:14Z,0,3,MERGED
+design-system,(LOG-7967) - Adicionado files para incluir dist,https://github.com/comexio/design-system/pull/26,2020-08-13T04:36:05Z,2020-08-13T04:40:06Z,0,2,MERGED
+design-system,(LOG-7967) - Alterado build,https://github.com/comexio/design-system/pull/25,2020-08-13T02:51:09Z,2020-08-13T03:09:00Z,0,4,MERGED
+design-system,(LOG-7608) Passagem de modal do searchx para o design system,https://github.com/comexio/design-system/pull/24,2020-08-11T18:40:58Z,2020-08-11T18:44:46Z,0,2,MERGED
+design-system,(LOG 7608) -  Correção na exportação de modal,https://github.com/comexio/design-system/pull/23,2020-08-10T21:04:39Z,2020-08-10T21:21:21Z,0,6,MERGED
+design-system,(LOG-7608) Passagem de modal do searchx para o design system,https://github.com/comexio/design-system/pull/22,2020-08-10T20:44:21Z,2020-08-10T20:50:28Z,0,2,MERGED
+design-system,(LOG-7608) - Passagem de modal do searchx para o design system,https://github.com/comexio/design-system/pull/21,2020-08-10T18:06:39Z,2020-08-10T18:20:41Z,0,1,MERGED
+design-system,(LOG-7783) - Adicionado componente de tag,https://github.com/comexio/design-system/pull/20,2020-08-05T20:24:53Z,2020-08-05T20:50:31Z,0,2,MERGED
+design-system,(LOG-7750) - Corrigido layout do datepicker de dia,https://github.com/comexio/design-system/pull/19,2020-08-03T18:55:42Z,2020-08-04T14:11:12Z,0,2,MERGED
+design-system,(LOG-14010) - Design System :: Documentar componente Cards,https://github.com/comexio/design-system/pull/102,2020-12-30T19:08:27Z,2020-12-30T19:55:34Z,0,1,MERGED
+design-system,(LOG-14009) Design System :: Documentar componente Botões,https://github.com/comexio/design-system/pull/101,2020-12-30T17:34:19Z,2020-12-30T17:45:21Z,1,6,MERGED
+design-system,(LOG-14006) Design System :: Documentar componente Barras,https://github.com/comexio/design-system/pull/100,2020-12-29T19:40:45Z,2020-12-29T20:05:02Z,1,3,MERGED
+design-system,(LOG-14170)- Adição de propriedade para determinar tamanho mínimo da linha do barChart,https://github.com/comexio/design-system/pull/99,2020-12-29T19:35:14Z,2020-12-29T19:49:24Z,0,2,MERGED
+design-system,(LOG-13993) - Design System :: Criar esqueleto do storybook,https://github.com/comexio/design-system/pull/98,2020-12-29T13:35:31Z,2020-12-29T17:21:51Z,0,15,MERGED
+design-system,(LOG-14093) - Adição de campo em modal,https://github.com/comexio/design-system/pull/97,2020-12-28T14:58:55Z,2020-12-28T15:14:24Z,0,3,CLOSED
+design-system,(LOG-14109) - Ajustar os listeners do componente,https://github.com/comexio/design-system/pull/96,2020-12-23T16:53:46Z,2020-12-23T17:06:45Z,0,2,MERGED
+design-system,(LOG-14109) - Ajustar os listeners do componente,https://github.com/comexio/design-system/pull/95,2020-12-23T15:48:34Z,2020-12-23T15:52:19Z,0,1,MERGED
+design-system,(LOG-14098) - Criar component no design-system,https://github.com/comexio/design-system/pull/94,2020-12-23T13:23:39Z,2020-12-23T13:52:39Z,3,2,MERGED
+design-system,(LOG-13993) Teste dos checks Chromatic,https://github.com/comexio/design-system/pull/93,2020-12-22T18:27:10Z,2020-12-22T18:33:34Z,0,2,CLOSED
+design-system,(LOG-13807) Corrigido header por cima de outros elementos,https://github.com/comexio/design-system/pull/92,2020-12-21T17:53:42Z,2020-12-21T17:59:34Z,0,1,MERGED
+design-system,(LOG-12364) Novo readme,https://github.com/comexio/design-system/pull/91,2020-12-18T14:53:33Z,2020-12-18T15:09:38Z,0,2,MERGED
+design-system,(LOG-13773) - Correção de dia máximo para ano mês,https://github.com/comexio/design-system/pull/90,2020-12-17T17:03:17Z,2020-12-18T14:56:24Z,1,3,MERGED
+design-system,(LOG-13438) - Tela modal demora sumir,https://github.com/comexio/design-system/pull/89,2020-12-16T12:56:48Z,2020-12-16T13:46:11Z,0,1,MERGED
+design-system,(LOG-12163) Header fixado no topo,https://github.com/comexio/design-system/pull/88,2020-12-15T19:45:33Z,2020-12-15T20:01:09Z,0,2,MERGED
+design-system,(LOG-13467) - Desenvolvidos ajustes no Design para tratar casos que descrições não são enviadas em para o componente,https://github.com/comexio/design-system/pull/87,2020-12-15T17:43:19Z,2020-12-15T20:26:17Z,3,6,MERGED
+design-system, (LOG-10753) - Corrigido layout do botão de download,https://github.com/comexio/design-system/pull/86,2020-12-14T14:58:46Z,2020-12-14T16:56:51Z,0,2,MERGED
+design-system,(LOG-13435)  - Corrigido opção de botão na LTable,https://github.com/comexio/design-system/pull/84,2020-12-11T23:17:46Z,2020-12-14T14:57:07Z,0,2,CLOSED
+design-system,(LOG-10657) - Alterado parametros e adicionado docs,https://github.com/comexio/design-system/pull/83,2020-12-10T18:33:39Z,2020-12-10T19:43:59Z,0,1,MERGED
+design-system,(LOG-12871) - Corrigido  keys do componente LTable,https://github.com/comexio/design-system/pull/82,2020-12-04T14:26:01Z,2020-12-04T14:37:09Z,0,1,MERGED
+design-system,(LOG-12772) - Não continua ordenado após pesquisa,https://github.com/comexio/design-system/pull/81,2020-12-04T12:46:53Z,2020-12-04T13:11:50Z,1,4,MERGED
+design-system,(LOG-10753) - Atualizado componentes e tabela padrão do sistema,https://github.com/comexio/design-system/pull/80,2020-12-02T18:42:31Z,2020-12-02T19:16:53Z,0,2,MERGED
+design-system,(LOG-12046) - Foi criado a propridade itemsPerPage no componente LTable.vue,https://github.com/comexio/design-system/pull/79,2020-11-20T19:52:54Z,2020-11-24T13:01:44Z,0,2,MERGED
+design-system,(LOG-11606) - Adição de propriedade loading no componente LModal,https://github.com/comexio/design-system/pull/78,2020-11-20T11:41:33Z,2020-11-20T13:14:54Z,0,2,MERGED
+design-system,(LOG-10914) - Corrigido items selecionado com busca,https://github.com/comexio/design-system/pull/77,2020-11-12T17:55:28Z,2020-11-12T18:50:22Z,1,3,MERGED
+design-system,(LOG-11561) - Corrigido validação para Array no filterloaded,https://github.com/comexio/design-system/pull/76,2020-11-11T17:33:45Z,2020-11-11T17:39:52Z,0,1,MERGED
+design-system,(LOG-10983) - Adicionado console e validação para tentativa de debug,https://github.com/comexio/design-system/pull/75,2020-11-09T19:47:32Z,2020-11-09T19:50:36Z,0,1,MERGED
+design-system,(LOG-11308) - Removido USD,https://github.com/comexio/design-system/pull/74,2020-11-06T20:41:08Z,2020-11-06T20:45:07Z,0,1,MERGED
+design-system,(LOG-10939) - Removido header do card de rotas,https://github.com/comexio/design-system/pull/73,2020-11-06T17:47:20Z,2020-11-06T18:13:27Z,0,1,MERGED
+design-system,(LOG-11196) - Adicionado parametro para não adicionar item novo,https://github.com/comexio/design-system/pull/72,2020-11-05T21:38:16Z,2020-11-06T13:06:09Z,0,2,MERGED
+design-system,(LOG-10969) - Adicionado absolute no componente LAlert,https://github.com/comexio/design-system/pull/71,2020-11-04T13:19:16Z,2020-11-04T13:41:45Z,0,1,MERGED
+design-system,Release/v1.0.4,https://github.com/comexio/design-system/pull/150,2021-03-26T14:48:37Z,2021-03-26T15:07:48Z,0,9,MERGED
+design-system,(LOG-21985) Aplicar exibição do slot dentro do LCard,https://github.com/comexio/design-system/pull/149,2021-03-26T14:36:35Z,2021-03-26T14:45:37Z,0,1,MERGED
+design-system,(LOG-20799) - Search e Expo :: Tabela que traz outros expandido esta quebrando layout padrão,https://github.com/comexio/design-system/pull/148,2021-03-25T17:18:36Z,2021-03-26T13:33:50Z,2,4,MERGED
+design-system,Release/v1.0.3,https://github.com/comexio/design-system/pull/147,2021-03-16T19:53:19Z,2021-03-16T20:01:44Z,0,4,MERGED
+design-system,(LOG-20805) Ajustar o modal para não exibir o btn cancelar,https://github.com/comexio/design-system/pull/146,2021-03-12T20:08:57Z,2021-03-16T19:48:57Z,0,1,MERGED
+design-system,Release/v1.0.2,https://github.com/comexio/design-system/pull/145,2021-03-08T18:41:08Z,2021-03-08T18:58:57Z,0,12,MERGED
+design-system,(LOG-15297) - Add trigger to remove shadow ,https://github.com/comexio/design-system/pull/143,2021-03-05T12:57:47Z,2021-03-08T18:34:56Z,0,7,MERGED
+design-system,(LOG-17414) - Alterar Senha / Perfil,https://github.com/comexio/design-system/pull/140,2021-02-25T20:30:16Z,2021-03-08T18:29:50Z,4,5,MERGED
+design-system,(LOG-17414) - Alterar Senha / Perfil,https://github.com/comexio/design-system/pull/139,2021-02-25T20:03:05Z,2021-02-25T20:24:21Z,0,2,CLOSED
+design-system,Release/v1.0.1,https://github.com/comexio/design-system/pull/138,2021-02-25T14:15:49Z,2021-02-25T14:29:26Z,0,15,MERGED
+design-system,Release 1.0.0,https://github.com/comexio/design-system/pull/136,2021-02-15T19:32:46Z,2021-02-15T19:40:59Z,0,9,MERGED
+design-system,(LOG-16349) Ajustar board que não está responsivo,https://github.com/comexio/design-system/pull/135,2021-02-10T19:58:37Z,2021-02-11T12:37:42Z,1,7,MERGED
+design-system,(LOG-11364) - Date Picker não funciona no Safari,https://github.com/comexio/design-system/pull/134,2021-02-09T12:21:44Z,2021-02-10T13:53:40Z,1,3,MERGED
+design-system,(LOG-17418) - Correção do datepicker não emitindo datas,https://github.com/comexio/design-system/pull/133,2021-02-08T19:31:54Z,2021-02-08T19:42:11Z,0,1,MERGED
+design-system,(LOG-17183) - Adicionado tratamento para caso seja ultimo elemento do LLinearCharline não adicionar evento ao clicar.,https://github.com/comexio/design-system/pull/132,2021-02-08T18:40:32Z,2021-02-08T19:03:14Z,0,1,MERGED
+design-system,(LOG-16466) List box fica em cima da tela,https://github.com/comexio/design-system/pull/131,2021-02-05T19:59:30Z,2021-02-08T12:24:11Z,1,4,MERGED
+design-system,(LOG-16729) - Adicionar id nos titulos e informações estáticas do componente,https://github.com/comexio/design-system/pull/130,2021-02-05T18:49:34Z,2021-02-08T15:00:15Z,1,9,MERGED
+design-system,(LOG-12260) - Adicionar o tooltip apenas quando for TEUS,https://github.com/comexio/design-system/pull/129,2021-02-04T21:17:14Z,2021-02-05T12:15:59Z,0,9,MERGED
+design-system,(LOG-16296) - Adicionado altura maxima pra tabela do card expandido,https://github.com/comexio/design-system/pull/128,2021-02-04T19:48:08Z,2021-02-04T21:23:47Z,0,6,MERGED
+design-system,(LOG-17043/LOG-17044) - Desenvolvido ajuste para emissão de evento de click e classe para mudar cursor para pointer,https://github.com/comexio/design-system/pull/127,2021-02-03T23:47:22Z,2021-02-04T20:27:22Z,4,6,MERGED
+design-system,(LOG-16670) - Corrigido bug de data invertida,https://github.com/comexio/design-system/pull/126,2021-02-03T15:04:33Z,2021-02-05T13:12:31Z,0,4,MERGED
+design-system,(LOG-15758) - Corrigido bug ao adicionar coluna e arrastar,https://github.com/comexio/design-system/pull/125,2021-02-02T16:15:48Z,2021-02-02T16:59:31Z,0,2,MERGED
+design-system,(LOG-14108) - Adicionado husky para validação de commits,https://github.com/comexio/design-system/pull/124,2021-02-01T18:22:52Z,2021-02-02T16:31:47Z,1,5,MERGED
+design-system,(LOG-15152) Traduzir pacote design-system,https://github.com/comexio/design-system/pull/123,2021-02-01T17:09:40Z,2021-02-02T12:08:57Z,2,7,MERGED
+design-system,te,https://github.com/comexio/design-system/pull/122,2021-01-28T20:52:14Z,2021-01-28T21:07:10Z,0,2,CLOSED
+design-system,Não mergear,https://github.com/comexio/design-system/pull/121,2021-01-28T19:57:31Z,2021-01-28T20:51:39Z,0,1,CLOSED
+design-system,(LOG-16429) Alteração no componente LButtonIcon.vue impactando a tela inicial do search,https://github.com/comexio/design-system/pull/120,2021-01-28T19:01:19Z,2021-01-28T19:43:23Z,0,1,MERGED
+design-system,Design System :: Documentar componente inputs,https://github.com/comexio/design-system/pull/119,2021-01-26T13:51:50Z,2021-01-26T18:12:20Z,0,8,MERGED
+design-system,(LOG-7839)  Componentizar Modal de Perfil,https://github.com/comexio/design-system/pull/118,2021-01-22T17:59:48Z,2021-01-22T19:14:04Z,0,3,MERGED
+design-system,(LOG-12134) - Mover e ordenar as colunas (salvar),https://github.com/comexio/design-system/pull/117,2021-01-22T13:07:11Z,2021-01-22T14:02:20Z,0,5,MERGED
+design-system,(LOG-11874) - Adicionado datepicker com range,https://github.com/comexio/design-system/pull/116,2021-01-21T13:18:29Z,2021-01-27T19:24:03Z,2,17,MERGED
+design-system,(LOG-12917) - Aplicar funcionalidade no grafico tipo de container,https://github.com/comexio/design-system/pull/115,2021-01-18T20:37:21Z,2021-01-19T12:33:25Z,0,7,MERGED
+design-system,(LOG- 12134) - Mover e ordenar as colunas (salvar),https://github.com/comexio/design-system/pull/114,2021-01-18T19:21:30Z,2021-01-19T14:31:37Z,5,14,MERGED
+design-system,(LOG-14651) - Design System :: Personalizar Storybook,https://github.com/comexio/design-system/pull/113,2021-01-14T17:23:16Z,2021-01-15T20:55:48Z,4,10,MERGED
+design-system,(LOG-14013) Documentação do restante dos charts,https://github.com/comexio/design-system/pull/112,2021-01-12T13:29:42Z,2021-01-12T14:45:31Z,4,8,MERGED
+design-system,(LOG-14016) - Documentar componente Filters,https://github.com/comexio/design-system/pull/111,2021-01-08T17:11:10Z,2021-01-11T11:50:39Z,1,7,MERGED
+design-system,(LOG-14024) - Documentar componente tag,https://github.com/comexio/design-system/pull/110,2021-01-08T11:51:46Z,2021-01-08T12:04:26Z,0,2,MERGED
+design-system,(LOG-12926) - Desenvolver clique para abrir modal no grafico,https://github.com/comexio/design-system/pull/109,2021-01-08T11:30:29Z,2021-01-08T17:41:04Z,1,17,MERGED
+design-system,(LOG-14486) - Documentar componente modal,https://github.com/comexio/design-system/pull/108,2021-01-07T18:05:15Z,2021-01-26T22:00:10Z,0,10,MERGED
+design-system,(LOG-14024) - Design System :: Documentar componente tag,https://github.com/comexio/design-system/pull/107,2021-01-06T20:31:16Z,2021-01-07T13:18:43Z,5,4,MERGED
+design-system,(LOG-14400) - Ajustar layout para respeitar area,https://github.com/comexio/design-system/pull/106,2021-01-06T20:19:29Z,2021-01-06T20:54:18Z,0,1,MERGED
+design-system,(LOG-14020) - Design System :: Documentar componente loadings,https://github.com/comexio/design-system/pull/105,2021-01-06T18:04:45Z,2021-01-06T18:19:52Z,1,1,MERGED
+design-system,(LOG-12926) - Desenvolver clique para abrir modal no grafico,https://github.com/comexio/design-system/pull/104,2021-01-06T17:55:12Z,2021-01-07T13:52:41Z,2,7,CLOSED
+design-system,(LOG-14093) - Adição de docker e upgrade do vue de 2.6.11 para 2.6.12,https://github.com/comexio/design-system/pull/103,2021-01-05T17:54:04Z,2021-01-05T19:31:00Z,4,11,MERGED
+design-system,Release/v1.0.10,https://github.com/comexio/design-system/pull/171,2021-05-25T14:30:32Z,2021-05-25T14:36:25Z,0,4,MERGED
+design-system,NÃO FAZER MERGE - (LOG-13249) - Adicionado novas props para maior versatilidade dos componentes,https://github.com/comexio/design-system/pull/170,2021-05-25T02:31:56Z,2021-11-04T21:12:24Z,1,1,CLOSED
+design-system,(LOG-26068) - Corrige tam de texto e colors,https://github.com/comexio/design-system/pull/169,2021-05-21T19:26:09Z,2021-05-25T14:13:47Z,0,1,MERGED
+design-system,(LOG-22722) - Correção para tornar a prop OverlayColor dinâmica,https://github.com/comexio/design-system/pull/168,2021-05-18T16:49:03Z,2021-06-02T12:37:20Z,0,3,MERGED
+design-system,Release/v1.0.9,https://github.com/comexio/design-system/pull/167,2021-05-17T14:16:04Z,2021-05-17T14:22:57Z,0,4,MERGED
+design-system,(LOG-22722) - Correção para fechar modal ao clicar do lado de fora,https://github.com/comexio/design-system/pull/166,2021-05-14T11:43:31Z,2021-05-17T13:37:43Z,0,1,MERGED
+design-system,Release/v1.0.8,https://github.com/comexio/design-system/pull/162,2021-04-26T19:12:09Z,2021-04-26T19:28:12Z,1,9,MERGED
+design-system,(LOG-22525) - Adicionado a opção de clicar no título no LBarChart e LSimpleTable.,https://github.com/comexio/design-system/pull/161,2021-04-23T12:35:33Z,2021-04-26T19:08:57Z,15,5,MERGED
+design-system,Release/v1.0.7,https://github.com/comexio/design-system/pull/160,2021-04-20T17:57:33Z,2021-04-20T18:29:37Z,0,4,MERGED
+design-system,(LOG-22670) - Correção da regra de filtro para pegar a data limite no DatePicker.,https://github.com/comexio/design-system/pull/158,2021-04-19T12:16:37Z,2021-04-20T17:28:20Z,1,19,MERGED
+design-system,Release/v1.0.6,https://github.com/comexio/design-system/pull/157,2021-04-15T17:04:17Z,2021-04-15T17:12:15Z,0,10,MERGED
+design-system,Release/v1.0.6,https://github.com/comexio/design-system/pull/156,2021-04-15T17:03:41Z,2021-04-15T17:03:49Z,0,16,CLOSED
+design-system,(LOG-23700) Correção de defeito Card não clicável,https://github.com/comexio/design-system/pull/155,2021-04-15T14:23:17Z,2021-04-15T16:52:11Z,0,1,MERGED
+design-system,(LOG-16780) Plataforma Tela Login/Cadastro/Redefinir Senha,https://github.com/comexio/design-system/pull/154,2021-04-14T19:49:25Z,2021-04-15T16:56:49Z,0,5,MERGED
+design-system,Release/v1.0.5,https://github.com/comexio/design-system/pull/153,2021-04-13T14:00:48Z,2021-04-13T14:24:30Z,0,13,MERGED
+design-system,(LOG-22219) - Incrementar card do DS,https://github.com/comexio/design-system/pull/152,2021-04-05T18:03:11Z,2021-04-13T13:47:51Z,21,10,MERGED
+design-system,(LOG-33174) Alteração para incluir disabled no component(LInputLoaded),https://github.com/comexio/design-system/pull/221,2021-07-30T18:22:19Z,2021-08-02T14:32:30Z,2,3,MERGED
+design-system,(LOG-32853) - Corrigido tag saindo do input ao ter varias,https://github.com/comexio/design-system/pull/220,2021-07-29T13:40:19Z,2021-07-30T13:33:24Z,2,3,MERGED
+design-system,(LOG-19116) Ajustes no LResumeChart + Adição @storybook/testing-vue,https://github.com/comexio/design-system/pull/219,2021-07-28T21:41:20Z,2021-07-28T22:16:52Z,3,9,MERGED
+design-system,(LOG-32871) - Correção da chamada de função do PlaceHolder.,https://github.com/comexio/design-system/pull/218,2021-07-27T18:37:00Z,2021-07-29T12:51:37Z,5,3,MERGED
+design-system,(LOG-32395) Criação evento de click sobre a linha do BarLineChart para filtro automático,https://github.com/comexio/design-system/pull/217,2021-07-23T12:22:27Z,2021-07-27T18:37:42Z,15,11,MERGED
+design-system,(LOG-19128) Ajustes no LDatePickerMonth,https://github.com/comexio/design-system/pull/216,2021-07-22T21:46:20Z,2021-07-23T19:59:27Z,3,3,MERGED
+design-system,(LOG-32473) - Adição de tradução do campo no componente LRouteChart,https://github.com/comexio/design-system/pull/215,2021-07-22T17:29:25Z,2021-07-26T12:19:30Z,2,2,CLOSED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/214,2021-07-22T15:01:27Z,2021-07-22T15:08:15Z,0,2,MERGED
+design-system,Master to version,https://github.com/comexio/design-system/pull/213,2021-07-22T14:18:30Z,2021-07-22T14:27:03Z,0,67,MERGED
+design-system,Release/v1.0.18,https://github.com/comexio/design-system/pull/212,2021-07-22T14:09:47Z,2021-07-22T14:17:50Z,0,25,MERGED
+design-system,(LOG-26073) PLT - Design System :: Padronizar estilos da documentação no storybook,https://github.com/comexio/design-system/pull/211,2021-07-15T18:51:43Z,2021-07-28T13:28:48Z,0,3,MERGED
+design-system,(LOG-31441) Setup Testing Library,https://github.com/comexio/design-system/pull/210,2021-07-14T21:06:51Z,2021-07-27T12:39:06Z,0,3,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/209,2021-07-14T12:37:14Z,2021-07-14T12:43:58Z,0,2,MERGED
+design-system,Release/v1.0.17,https://github.com/comexio/design-system/pull/208,2021-07-13T13:59:28Z,2021-07-13T14:35:07Z,0,41,MERGED
+design-system,(LOG-31455) Novas props para o LDropdownCheckbox,https://github.com/comexio/design-system/pull/207,2021-07-13T13:46:38Z,2021-07-14T16:30:23Z,0,2,MERGED
+design-system,(LOG-26786) - Adicionado novas props para maior versatilidade dos componentes,https://github.com/comexio/design-system/pull/206,2021-07-12T20:52:22Z,2021-11-04T21:14:39Z,1,2,CLOSED
+design-system,(LOG-31263) - Adicionado slot para no-data,https://github.com/comexio/design-system/pull/205,2021-07-09T20:06:58Z,2021-07-09T20:26:17Z,1,5,MERGED
+design-system,(LOG-29189) - Corrigido defeitos de layout,https://github.com/comexio/design-system/pull/204,2021-07-09T13:53:37Z,2021-07-09T17:03:09Z,0,1,MERGED
+design-system,(LOG-28845) - Cadastro unitário de embarques,https://github.com/comexio/design-system/pull/203,2021-07-08T13:58:27Z,2021-07-09T13:59:53Z,17,15,MERGED
+design-system,(LOG-29456) - Alterado layout do grafico,https://github.com/comexio/design-system/pull/202,2021-07-07T16:32:51Z,2021-07-08T15:06:38Z,1,3,MERGED
+design-system,build beta,https://github.com/comexio/design-system/pull/201,2021-07-02T15:11:06Z,2021-07-02T15:16:54Z,0,1,MERGED
+design-system,build to beta,https://github.com/comexio/design-system/pull/200,2021-07-02T14:53:12Z,2021-07-02T14:59:05Z,0,1,MERGED
+design-system,1.x version to homol,https://github.com/comexio/design-system/pull/199,2021-07-02T14:39:52Z,2021-07-02T14:45:16Z,0,2,MERGED
+design-system,merge build beta to master,https://github.com/comexio/design-system/pull/198,2021-07-02T14:16:06Z,2021-07-02T14:26:48Z,0,72,MERGED
+design-system,build beta,https://github.com/comexio/design-system/pull/197,2021-07-02T12:28:31Z,2021-07-02T13:36:44Z,0,4,MERGED
+design-system,teste build,https://github.com/comexio/design-system/pull/196,2021-07-01T19:28:20Z,2021-07-02T12:25:43Z,0,9,MERGED
+design-system,build to homol,https://github.com/comexio/design-system/pull/195,2021-07-01T14:32:33Z,2021-07-01T14:34:52Z,0,4,MERGED
+design-system,build,https://github.com/comexio/design-system/pull/194,2021-07-01T14:19:34Z,2021-07-01T14:21:33Z,0,1,MERGED
+design-system,(LOG-28707) - add access token,https://github.com/comexio/design-system/pull/193,2021-07-01T14:03:21Z,2021-07-01T14:14:19Z,0,1,MERGED
+design-system,(LOG-28707) - Configurando build homol,https://github.com/comexio/design-system/pull/192,2021-07-01T13:33:26Z,2021-07-01T13:45:35Z,0,29,MERGED
+design-system,(LOG-28707) - Adicionada etapa de build em homol,https://github.com/comexio/design-system/pull/190,2021-07-01T13:15:25Z,2021-07-01T13:25:17Z,0,2,MERGED
+design-system,Build improvement,https://github.com/comexio/design-system/pull/189,2021-06-30T02:00:04Z,2021-09-24T13:27:53Z,0,5,MERGED
+design-system,Release/v1.0.15,https://github.com/comexio/design-system/pull/188,2021-06-25T14:45:24Z,2021-06-25T14:50:55Z,0,27,MERGED
+design-system,(LOG-29189) - Criado nova tabela base,https://github.com/comexio/design-system/pull/187,2021-06-24T20:18:58Z,2021-06-25T14:38:52Z,2,6,MERGED
+design-system,(LOG-29223) Adicionando prop p/ setar locale dos DatePickers,https://github.com/comexio/design-system/pull/186,2021-06-21T19:57:33Z,2021-06-25T11:52:28Z,0,1,MERGED
+design-system,(LOG-29381) Alteração da tabela para repassar os slosts vuetify,https://github.com/comexio/design-system/pull/185,2021-06-21T14:29:42Z,2021-07-07T17:17:05Z,1,1,CLOSED
+design-system,(LOG-29064) - Implementação da lista de itens não clicáveis no LinearChartExpand.,https://github.com/comexio/design-system/pull/184,2021-06-17T19:59:23Z,2021-06-25T12:28:31Z,4,5,MERGED
+design-system,(LOG-29175) - Alteração nos componentes LCheckboxList,https://github.com/comexio/design-system/pull/183,2021-06-17T12:36:23Z,2021-06-25T14:43:33Z,4,9,MERGED
+design-system,Release/v1.0.14,https://github.com/comexio/design-system/pull/182,2021-06-16T20:46:10Z,2021-06-16T20:53:42Z,0,6,MERGED
+design-system,Release/v1.0.13,https://github.com/comexio/design-system/pull/180,2021-06-11T18:29:24Z,2021-06-11T18:34:54Z,0,4,MERGED
+design-system,(LOG-24218) Removendo icone search-on-input,https://github.com/comexio/design-system/pull/179,2021-06-11T18:11:22Z,2021-06-11T18:20:20Z,1,1,MERGED
+design-system,(LOG-7852) Implementa chart de importacao do search no DS,https://github.com/comexio/design-system/pull/178,2021-06-10T19:15:53Z,2021-07-14T13:44:05Z,29,17,MERGED
+design-system,(LOG-24214) Melhoria componente autocomplete,https://github.com/comexio/design-system/pull/177,2021-06-08T21:03:26Z,2021-06-16T20:15:50Z,0,3,MERGED
+design-system,Release/v1.0.12,https://github.com/comexio/design-system/pull/176,2021-06-07T19:30:06Z,2021-06-07T19:37:46Z,0,6,MERGED
+design-system,(LOG-28026) - Implementação da lista de itens não clicáveis no LinearChart.,https://github.com/comexio/design-system/pull/175,2021-06-04T19:11:28Z,2021-06-07T19:20:11Z,2,3,MERGED
+design-system,Release/v1.0.11,https://github.com/comexio/design-system/pull/174,2021-06-02T12:28:34Z,2021-06-02T12:43:23Z,0,10,MERGED
+design-system,(LOG-27825) - Adicionar slot customizado no DS,https://github.com/comexio/design-system/pull/173,2021-06-01T18:49:20Z,2021-06-02T12:19:01Z,0,2,MERGED
+design-system,(LOG-37060) Ajustando acessibilidade dos inputs,https://github.com/comexio/design-system/pull/280,2021-10-29T19:36:40Z,2021-11-01T12:52:49Z,1,2,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/279,2021-10-29T13:27:24Z,2021-10-29T13:50:20Z,1,2,MERGED
+design-system,Release/v1.9.0,https://github.com/comexio/design-system/pull/278,2021-10-29T12:06:50Z,2021-10-29T13:19:17Z,1,22,MERGED
+design-system,(LOG-42060) Nova get started doc / ajustes readme / remoção arquivos antigos,https://github.com/comexio/design-system/pull/277,2021-10-27T18:59:38Z,2021-10-28T13:00:55Z,0,2,MERGED
+design-system,(LOG-17127) Removendo workflow do chromatic,https://github.com/comexio/design-system/pull/276,2021-10-25T15:30:36Z,2021-10-25T20:37:23Z,0,2,MERGED
+design-system,(LOG-41359) Removendo atualização de baseline do percy da master ,https://github.com/comexio/design-system/pull/275,2021-10-22T20:26:36Z,2021-10-22T21:42:44Z,0,1,MERGED
+design-system,(LOG-41359) Ajustando configs do percy,https://github.com/comexio/design-system/pull/274,2021-10-22T19:09:21Z,2021-10-22T20:07:02Z,0,1,MERGED
+design-system,(LOG-41359) Configuração percy,https://github.com/comexio/design-system/pull/273,2021-10-22T14:24:10Z,2021-10-22T18:27:06Z,0,4,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/272,2021-10-19T21:06:28Z,2021-10-19T21:18:05Z,0,2,MERGED
+design-system,Release/v1.8.0,https://github.com/comexio/design-system/pull/271,2021-10-19T20:34:07Z,2021-10-19T20:43:59Z,0,6,MERGED
+design-system,(LOG-39234) - Aumentar o tempo de permanência dos alertas na plataforma,https://github.com/comexio/design-system/pull/270,2021-10-14T18:22:47Z,2021-10-15T12:35:20Z,2,2,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/269,2021-10-13T18:59:00Z,2021-10-13T19:17:37Z,0,2,MERGED
+design-system,Release/v1.7.0,https://github.com/comexio/design-system/pull/268,2021-10-13T18:34:14Z,2021-10-13T18:46:55Z,0,30,MERGED
+design-system,(LOG-38563) Change display scroll button,https://github.com/comexio/design-system/pull/267,2021-10-11T21:01:43Z,2021-10-13T18:19:02Z,0,1,MERGED
+design-system,(LOG-40250) Timeline Creation,https://github.com/comexio/design-system/pull/266,2021-10-07T15:02:21Z,2021-10-07T17:12:32Z,8,2,MERGED
+design-system,(LOG-33747) LTimelineItem component creation,https://github.com/comexio/design-system/pull/264,2021-10-04T13:02:44Z,2021-10-06T13:12:34Z,4,7,MERGED
+design-system, (LOG-35295) - Melhoria de build e dependencias,https://github.com/comexio/design-system/pull/263,2021-09-24T13:30:15Z,2021-09-24T14:11:27Z,0,10,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/262,2021-09-23T20:46:24Z,2021-09-23T20:54:51Z,0,9,MERGED
+design-system,Release/v1.6.0,https://github.com/comexio/design-system/pull/261,2021-09-23T20:24:45Z,2021-09-23T20:31:24Z,0,6,MERGED
+design-system,Release/v1.6.0,https://github.com/comexio/design-system/pull/260,2021-09-23T19:54:36Z,2021-09-23T20:09:10Z,0,21,MERGED
+design-system,(LOG-32960) - Ajustes modal e botão,https://github.com/comexio/design-system/pull/259,2021-09-22T20:06:53Z,2021-09-22T20:18:41Z,0,1,MERGED
+design-system,(LOG-38458) Adição prop iconColors LTableNew,https://github.com/comexio/design-system/pull/256,2021-09-17T19:53:44Z,2021-09-20T19:24:24Z,2,2,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/255,2021-09-14T21:20:14Z,2021-09-14T21:28:16Z,0,2,MERGED
+design-system,Release v1.5.0,https://github.com/comexio/design-system/pull/254,2021-09-14T20:47:37Z,2021-09-14T20:59:47Z,0,16,MERGED
+design-system,(LOG-32960) - Criação de novo modal,https://github.com/comexio/design-system/pull/253,2021-09-14T14:49:52Z,2021-09-20T18:55:48Z,2,10,MERGED
+design-system,(LOG-36281) - Adicionada verificação para valores undefined na condição de preenchimento do line no BarChart,https://github.com/comexio/design-system/pull/252,2021-09-10T12:32:44Z,2021-09-10T16:19:43Z,0,1,MERGED
+design-system,(LOG-34819) Melhoria mecanismo de cores Datepickers,https://github.com/comexio/design-system/pull/251,2021-09-03T19:29:36Z,2021-09-03T20:00:48Z,0,2,MERGED
+design-system,(LOG-36630) - Alterado tooltip padrão nos gráficos,https://github.com/comexio/design-system/pull/250,2021-09-02T20:46:17Z,2021-09-08T14:48:09Z,3,4,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/249,2021-09-01T21:30:30Z,2021-09-01T21:41:40Z,0,2,MERGED
+design-system,Release/v1.4.0,https://github.com/comexio/design-system/pull/248,2021-09-01T20:41:01Z,2021-09-01T20:55:23Z,0,52,MERGED
+design-system,(LOG-35497) Ajustes de CSS no inputs.scss,https://github.com/comexio/design-system/pull/247,2021-08-31T18:54:36Z,2021-08-31T19:43:56Z,0,1,MERGED
+design-system,(LOG-30634) - Add tooltip component,https://github.com/comexio/design-system/pull/246,2021-08-31T18:18:16Z,2021-09-01T15:05:41Z,39,20,MERGED
+design-system,(LOG-35499) Ajustando prop LButtonNew e padronizando LModal,https://github.com/comexio/design-system/pull/245,2021-08-26T15:44:09Z,2021-08-26T20:51:08Z,0,3,MERGED
+design-system,(LOG-35830) Removendo padding a mais do LInputLoaded e LInputTag,https://github.com/comexio/design-system/pull/244,2021-08-24T14:15:36Z,2021-08-24T19:40:58Z,0,1,MERGED
+design-system,(LOG-35499) Melhorias LButtonNew,https://github.com/comexio/design-system/pull/243,2021-08-24T14:15:00Z,2021-08-25T12:51:25Z,2,5,MERGED
+design-system,Master to Homol,https://github.com/comexio/design-system/pull/242,2021-08-23T18:19:25Z,2021-08-23T18:40:13Z,0,2,MERGED
+design-system,Release/v1.3.0,https://github.com/comexio/design-system/pull/241,2021-08-23T17:42:10Z,2021-08-23T17:58:23Z,0,55,MERGED
+design-system,(LOG-35443) Alteração para o trigger do limpar campos filtros funcionar,https://github.com/comexio/design-system/pull/240,2021-08-23T17:38:17Z,2021-08-24T13:55:37Z,6,8,MERGED
+design-system,(LOG-34888) - Add PR labeler action,https://github.com/comexio/design-system/pull/239,2021-08-20T12:26:10Z,2021-08-20T16:34:09Z,0,3,MERGED
+design-system,(LOG-33458) Novos inputs wrappers do Vuetify + Refactors,https://github.com/comexio/design-system/pull/238,2021-08-19T21:30:05Z,2021-08-20T21:14:11Z,7,20,MERGED
+design-system,(LOG-35396) - Fix input height allowing grow,https://github.com/comexio/design-system/pull/237,2021-08-19T21:09:17Z,2021-08-20T17:04:58Z,11,5,MERGED
+design-system,(LOG-33102) - Changed table checkbox colors,https://github.com/comexio/design-system/pull/236,2021-08-19T18:10:37Z,2021-08-19T18:55:24Z,0,1,MERGED
+design-system,(LOG-34475) - Adicionando $listeners no LInputLoaded.vue,https://github.com/comexio/design-system/pull/235,2021-08-16T19:00:33Z,2021-08-17T12:44:11Z,0,1,MERGED
+design-system,(LOG-29409) Criação LButtonNew,https://github.com/comexio/design-system/pull/234,2021-08-16T17:58:30Z,2021-08-17T17:51:26Z,1,4,MERGED
+design-system,(LOG-31472) - Dados complementares Meu Perfil,https://github.com/comexio/design-system/pull/233,2021-08-13T21:32:07Z,2021-08-16T13:17:21Z,1,1,MERGED
+design-system,(LOG-33103) Adicionando clique na linha p/ marcar checkbox,https://github.com/comexio/design-system/pull/232,2021-08-12T18:15:50Z,2021-08-13T12:21:53Z,1,2,MERGED
+design-system,Release/v1.2.0,https://github.com/comexio/design-system/pull/231,2021-08-12T16:33:54Z,2021-08-12T16:44:36Z,0,39,MERGED
+design-system,(LOG-32623) Refatorando estilo dos inputs,https://github.com/comexio/design-system/pull/229,2021-08-11T17:31:48Z,2021-08-12T13:54:37Z,4,4,MERGED
+design-system,(LOG-33354) - Componente de checkbox,https://github.com/comexio/design-system/pull/228,2021-08-06T17:54:04Z,2021-08-09T20:10:04Z,6,10,MERGED
+design-system,(LOG-33742) - Está sendo possível selecionar datas inferior 2011,https://github.com/comexio/design-system/pull/227,2021-08-06T12:27:24Z,2021-08-06T14:43:24Z,3,3,MERGED
+design-system,(LOG-33692) - Adicionar limitação por anos no datepicker,https://github.com/comexio/design-system/pull/226,2021-08-04T19:54:46Z,2021-08-05T14:34:25Z,5,6,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/225,2021-08-04T14:59:31Z,2021-08-12T17:52:15Z,0,8,MERGED
+design-system,Release/v1.1.0,https://github.com/comexio/design-system/pull/224,2021-08-04T14:49:07Z,2021-08-04T14:55:05Z,0,2,MERGED
+design-system,(LOG-33400) Inclusão de label no input,https://github.com/comexio/design-system/pull/223,2021-08-04T14:13:11Z,2021-08-04T21:13:13Z,3,3,MERGED
+design-system,Release/v1.0.19,https://github.com/comexio/design-system/pull/222,2021-08-03T17:30:02Z,2021-08-03T18:11:54Z,0,55,MERGED
+design-system,(LOG-45606) Padronizando workflows de deploy,https://github.com/comexio/design-system/pull/314,2021-12-29T13:09:56Z,2022-01-10T13:47:54Z,0,2,MERGED
+design-system,(LOG-46117) Configuração prettier,https://github.com/comexio/design-system/pull/313,2021-12-14T17:40:50Z,2021-12-14T18:43:35Z,0,1,MERGED
+design-system,(LOG-41284) - Adicionado componente LTextArea,https://github.com/comexio/design-system/pull/312,2021-12-10T21:00:33Z,2021-12-13T12:52:33Z,1,4,MERGED
+design-system,(LOG-43123) Inclusão de props  input loaded,https://github.com/comexio/design-system/pull/311,2021-12-08T17:09:31Z,2021-12-08T20:30:17Z,0,1,MERGED
+design-system,(LOG-45359) - Migrado teste para testing-library,https://github.com/comexio/design-system/pull/310,2021-12-07T20:32:03Z,2021-12-08T13:17:36Z,0,2,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/309,2021-12-07T13:42:36Z,2021-12-07T14:01:07Z,1,13,MERGED
+design-system,Release/v2.0.0,https://github.com/comexio/design-system/pull/308,2021-12-07T13:31:31Z,2021-12-07T13:36:56Z,1,2,MERGED
+design-system,feature: release/v2.0.0 - atualização de workflow,https://github.com/comexio/design-system/pull/307,2021-12-07T12:50:14Z,2021-12-07T13:05:08Z,1,5,MERGED
+design-system,Release/v2.0.0,https://github.com/comexio/design-system/pull/306,2021-12-07T12:16:56Z,2021-12-07T12:38:15Z,1,53,MERGED
+design-system,(LOG-45578) - Corrigido datepicker com periodo vazio,https://github.com/comexio/design-system/pull/305,2021-12-02T19:58:46Z,2021-12-02T20:16:03Z,0,1,MERGED
+design-system,Adicionando registry-url,https://github.com/comexio/design-system/pull/304,2021-12-02T17:56:47Z,2021-12-02T18:14:17Z,0,1,MERGED
+design-system,Ajustando versão node deploy lib,https://github.com/comexio/design-system/pull/303,2021-12-02T17:36:10Z,2021-12-02T17:51:55Z,0,1,MERGED
+design-system,(LOG-45554) Removendo border-radius LDropdownCheckbox,https://github.com/comexio/design-system/pull/302,2021-12-02T15:39:30Z,2021-12-02T17:16:31Z,0,1,MERGED
+design-system,(LOG-45197) Documentando cores,https://github.com/comexio/design-system/pull/301,2021-11-30T19:00:55Z,2021-12-01T14:01:05Z,0,1,MERGED
+design-system,(LOG-32619) - Adicionado input manual nas datas,https://github.com/comexio/design-system/pull/300,2021-11-30T17:32:43Z,2021-11-30T20:19:35Z,5,7,MERGED
+design-system,(LOG-41661) Remoção buttons deprecados,https://github.com/comexio/design-system/pull/299,2021-11-24T14:07:32Z,2021-11-24T15:18:38Z,0,1,MERGED
+design-system,(LOG-43048) - Implementação do slot no lCardHeader.,https://github.com/comexio/design-system/pull/298,2021-11-23T14:23:08Z,2021-11-23T14:30:20Z,0,6,CLOSED
+design-system,(LOG-43048)  - Implementação do slot no lCardHeader.,https://github.com/comexio/design-system/pull/297,2021-11-22T20:31:36Z,2021-11-23T16:06:39Z,8,7,MERGED
+design-system,(LOG-43536) - Forçando alinhamento nos tooltips top e bottom,https://github.com/comexio/design-system/pull/296,2021-11-22T19:03:29Z,2021-11-23T11:26:05Z,0,5,MERGED
+design-system,(LOG-43402) Mecanismo para usar variáveis sass no script,https://github.com/comexio/design-system/pull/295,2021-11-22T15:45:12Z,2021-11-22T20:44:11Z,1,2,MERGED
+design-system,(LOG-43894) - Criado componente de avatar,https://github.com/comexio/design-system/pull/294,2021-11-18T14:34:30Z,2021-11-18T17:58:28Z,2,4,MERGED
+design-system,LOG-43589 - Adequado ícones de 'close' e 'link' para aparecerem na mesma tag,https://github.com/comexio/design-system/pull/293,2021-11-18T14:19:53Z,2021-12-07T12:16:06Z,1,3,CLOSED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/292,2021-11-17T17:16:48Z,2021-11-17T17:24:43Z,1,2,MERGED
+design-system,Release/v1.10.0,https://github.com/comexio/design-system/pull/291,2021-11-17T16:58:59Z,2021-11-17T17:08:58Z,1,58,MERGED
+design-system,Release/v2.0.0,https://github.com/comexio/design-system/pull/290,2021-11-17T16:52:53Z,2021-11-17T16:54:38Z,1,58,CLOSED
+design-system,(LOG-41633) Devolvendo classe removida,https://github.com/comexio/design-system/pull/289,2021-11-11T18:29:35Z,2021-11-11T19:04:19Z,0,1,MERGED
+design-system,(LOG-40957) - Corrigido validação de props,https://github.com/comexio/design-system/pull/288,2021-11-11T14:51:10Z,2021-11-11T17:52:35Z,1,3,MERGED
+design-system,(LOG-40957) - Adiciona cor para icone append ao focar,https://github.com/comexio/design-system/pull/287,2021-11-11T11:44:48Z,2021-11-11T13:55:11Z,0,3,MERGED
+design-system,(LOG-41633) Melhorias estilização do LButtonNew,https://github.com/comexio/design-system/pull/286,2021-11-10T17:38:22Z,2021-11-11T14:00:14Z,2,5,MERGED
+design-system,(LOG-42881) - Adição de função para tratamento de casa decimais em valores dos gráficos sem afetar os tolltips,https://github.com/comexio/design-system/pull/285,2021-11-08T18:04:52Z,2021-11-11T14:50:06Z,1,2,CLOSED
+design-system,(LOG-39836) - Adjust opacity and line-height,https://github.com/comexio/design-system/pull/284,2021-11-05T18:16:46Z,2021-11-05T18:53:15Z,0,1,MERGED
+design-system,(LOG-41669) - Update index file,https://github.com/comexio/design-system/pull/282,2021-11-04T19:07:53Z,2021-11-04T20:40:24Z,0,1,MERGED
+design-system,(LOG-35296) Atualização de segurança das dependências,https://github.com/comexio/design-system/pull/281,2021-11-01T19:44:54Z,2021-11-01T20:38:01Z,0,22,MERGED
+design-system,fix package version,https://github.com/comexio/design-system/pull/359,2022-03-23T20:12:18Z,2022-03-23T20:12:29Z,0,1,MERGED
+design-system,Fix identação p/ triggar action de novo,https://github.com/comexio/design-system/pull/358,2022-03-23T19:53:51Z,2022-03-23T20:06:09Z,0,1,MERGED
+design-system,(LOG-52573) - Ajuste de quebra de linha,https://github.com/comexio/design-system/pull/357,2022-03-23T14:06:38Z,2022-03-23T14:44:59Z,0,1,MERGED
+design-system,(LOG-50918) Mecanismo de cores por mixin,https://github.com/comexio/design-system/pull/356,2022-03-18T20:10:08Z,2022-03-21T16:57:13Z,0,1,MERGED
+design-system,(LOG-52577) - Ajustes de espaçamentos,https://github.com/comexio/design-system/pull/355,2022-03-18T17:17:24Z,2022-03-18T17:59:07Z,2,2,CLOSED
+design-system,(LOG-52748) Melhoria documentação PRs,https://github.com/comexio/design-system/pull/354,2022-03-18T13:12:00Z,2022-03-18T13:49:15Z,0,1,MERGED
+design-system,(LOG-52577) - Ajuste color texto,https://github.com/comexio/design-system/pull/353,2022-03-17T19:40:15Z,2022-03-17T20:51:13Z,0,1,MERGED
+design-system,(LOG-52994) Search :: Clicando em 6 meses - Não seleciona Jan/22 - ComexStat,https://github.com/comexio/design-system/pull/352,2022-03-16T17:43:59Z,2022-03-16T18:45:45Z,2,3,CLOSED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/351,2022-03-14T21:40:03Z,2022-03-14T21:48:54Z,0,2,MERGED
+design-system,Release/v3.0.0,https://github.com/comexio/design-system/pull/350,2022-03-14T21:24:38Z,2022-03-14T21:32:29Z,0,69,MERGED
+design-system,(LOG-52573) - Ajuste de espaçamento,https://github.com/comexio/design-system/pull/349,2022-03-14T19:24:47Z,2022-03-16T13:17:17Z,3,5,MERGED
+design-system,(LOG-51875) - Atualizado o sentido da animação do icon loading,https://github.com/comexio/design-system/pull/347,2022-03-02T19:53:01Z,2022-03-02T20:21:44Z,0,1,MERGED
+design-system,(LOG - 51875) - Adicionado novo design do icon loading,https://github.com/comexio/design-system/pull/346,2022-03-02T18:14:01Z,2022-03-02T18:40:58Z,0,1,MERGED
+design-system,(LOG-52045) - Criar lupa para gráfico LinearChart,https://github.com/comexio/design-system/pull/345,2022-03-02T13:31:30Z,2022-03-02T14:28:34Z,1,4,MERGED
+design-system,(LOG-52045) - Criar lupa para gráfico LinearChart,https://github.com/comexio/design-system/pull/343,2022-02-24T19:27:55Z,2022-02-28T17:06:53Z,12,14,MERGED
+design-system,(LOG-41465) - Ajustes no design do GridChart,https://github.com/comexio/design-system/pull/342,2022-02-24T18:25:40Z,2022-02-24T19:19:13Z,0,1,MERGED
+design-system,(LOG-52069) Inclusão de controle de desabilitar o v-menu LDropdownCheckbox,https://github.com/comexio/design-system/pull/340,2022-02-24T14:30:06Z,2022-02-24T15:02:47Z,0,1,MERGED
+design-system,(LOG-52069) Inclusão de slot no dropdownCheckbox,https://github.com/comexio/design-system/pull/339,2022-02-23T20:14:19Z,2022-02-23T21:12:37Z,0,2,MERGED
+design-system,Adding paths-ignore,https://github.com/comexio/design-system/pull/338,2022-02-21T17:18:02Z,2022-02-21T17:18:11Z,0,1,MERGED
+design-system,(LOG-51080) Removendo paths-ignore beta,https://github.com/comexio/design-system/pull/337,2022-02-21T14:38:14Z,2022-02-21T17:02:49Z,0,1,MERGED
+design-system,(LOG-41465) Criação do ChartGrid ,https://github.com/comexio/design-system/pull/336,2022-02-21T13:51:29Z,2022-02-23T14:23:32Z,30,7,MERGED
+design-system,(LOG-41286) Remoção LModal,https://github.com/comexio/design-system/pull/334,2022-02-15T15:15:41Z,2022-02-16T18:48:25Z,0,1,MERGED
+design-system,(LOG-41289) Removendo LTable,https://github.com/comexio/design-system/pull/333,2022-02-15T14:54:30Z,2022-02-16T18:58:36Z,0,1,MERGED
+design-system,(LOG-50553) - Adicionado eventos para o LTextArea,https://github.com/comexio/design-system/pull/331,2022-02-10T19:25:51Z,2022-02-10T20:41:12Z,2,2,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/330,2022-02-09T16:59:03Z,2022-02-09T17:28:53Z,0,2,MERGED
+design-system,release/v2.2.1,https://github.com/comexio/design-system/pull/329,2022-02-09T15:23:56Z,2022-02-09T16:49:50Z,0,9,MERGED
+design-system,(LOG-41285) Refatorando LLoading,https://github.com/comexio/design-system/pull/328,2022-02-08T21:19:06Z,2022-02-09T13:53:18Z,0,2,MERGED
+design-system,(LOG-41195) Documentando e Melhorando LProgressBar,https://github.com/comexio/design-system/pull/327,2022-02-07T12:56:49Z,2022-02-07T14:08:16Z,0,1,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/325,2022-01-25T14:57:20Z,2022-01-25T15:04:21Z,0,2,MERGED
+design-system,Release/v2.2.0,https://github.com/comexio/design-system/pull/324,2022-01-25T14:22:19Z,2022-01-25T14:47:40Z,0,15,MERGED
+design-system,(LOG-48782) Corrigindo conflito vModel com value prop,https://github.com/comexio/design-system/pull/322,2022-01-21T15:42:17Z,2022-01-21T18:22:36Z,5,1,MERGED
+design-system,(LOG-41207) Criação novos componentes de card,https://github.com/comexio/design-system/pull/321,2022-01-18T15:03:37Z,2022-01-18T18:57:27Z,0,4,MERGED
+design-system,(LOG-48424) Ajustes de layout DropdownCheckbox,https://github.com/comexio/design-system/pull/320,2022-01-11T20:30:17Z,2022-01-11T20:57:34Z,1,1,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/319,2022-01-10T15:32:56Z,2022-01-10T16:56:24Z,1,4,MERGED
+design-system,feature: release/v2.1.0,https://github.com/comexio/design-system/pull/318,2022-01-10T15:06:14Z,2022-01-10T15:23:22Z,1,1,MERGED
+design-system,Fix npm-publish.yml,https://github.com/comexio/design-system/pull/317,2022-01-10T15:01:26Z,2022-01-10T15:04:27Z,0,1,CLOSED
+design-system,Release/v2.1.0,https://github.com/comexio/design-system/pull/316,2022-01-10T14:18:03Z,2022-01-10T14:34:50Z,1,28,MERGED
+design-system,(LOG-47259) Mecanismo de enabledPeriods no datepicker,https://github.com/comexio/design-system/pull/315,2022-01-04T15:32:12Z,2022-01-04T17:56:08Z,1,3,MERGED
+design-system,(LOG-55573) - Adicionado target branch no yml,https://github.com/comexio/design-system/pull/380,2022-05-30T16:21:57Z,2022-05-30T16:59:54Z,0,2,MERGED
+design-system,(LOG-52105) Remoção: LLabeledChip,https://github.com/comexio/design-system/pull/379,2022-05-30T15:09:31Z,2022-05-30T16:56:16Z,0,1,MERGED
+design-system,(LOG-55573) - Atualizado pacotes percy e storybook,https://github.com/comexio/design-system/pull/378,2022-05-30T12:29:52Z,2022-05-30T13:20:00Z,0,1,MERGED
+design-system,(LOG-58836) Revertendo query disabled,https://github.com/comexio/design-system/pull/377,2022-05-26T14:10:09Z,2022-05-26T14:30:46Z,0,1,MERGED
+design-system,(LOG-57115) Ajustando espaçamento com/sem prepend LCardHeaderNew,https://github.com/comexio/design-system/pull/376,2022-05-23T15:13:32Z,2022-05-23T18:24:50Z,0,1,MERGED
+design-system,(LOG-58098) Melhorias/correções visuais inputs,https://github.com/comexio/design-system/pull/375,2022-05-20T19:09:42Z,2022-05-20T21:01:54Z,0,7,MERGED
+design-system,(LOG-57518) Trazer data em formato americano,https://github.com/comexio/design-system/pull/374,2022-05-18T22:05:50Z,2022-05-19T14:17:38Z,1,3,MERGED
+design-system,(LOG-55305) - Corrigido LToast fora da story,https://github.com/comexio/design-system/pull/373,2022-05-06T20:17:16Z,2022-05-09T12:20:52Z,0,2,MERGED
+design-system,(LOG-52722) Sobrepondo font-family vuetify doc,https://github.com/comexio/design-system/pull/372,2022-05-06T19:11:46Z,2022-05-06T20:22:27Z,0,1,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/371,2022-05-04T13:47:03Z,2022-05-04T13:54:52Z,0,2,MERGED
+design-system,Release/v3.2.0,https://github.com/comexio/design-system/pull/370,2022-05-04T13:20:38Z,2022-05-04T13:38:57Z,0,16,MERGED
+design-system,(LOG-56199) Atualizando documentação do LInputLoaded,https://github.com/comexio/design-system/pull/369,2022-04-20T12:27:12Z,2022-04-20T12:44:33Z,0,1,MERGED
+design-system,(LOG-52617) Inclusão de props para restringir somente numeros,https://github.com/comexio/design-system/pull/368,2022-04-19T19:56:39Z,2022-04-19T20:30:35Z,0,1,MERGED
+design-system,(LOG-53293) Novos componentes LHeaderAlert e LHeaderAlertContent,https://github.com/comexio/design-system/pull/366,2022-04-19T14:21:53Z,2022-04-19T16:54:17Z,0,7,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/365,2022-04-11T18:20:46Z,2022-04-11T18:29:02Z,0,2,MERGED
+design-system,Release 3.1.0,https://github.com/comexio/design-system/pull/364,2022-04-11T17:55:30Z,2022-04-11T18:15:18Z,0,35,MERGED
+design-system,(LOG-53290) Ajuste font-size LToastContent,https://github.com/comexio/design-system/pull/363,2022-04-11T11:49:37Z,2022-04-11T12:13:38Z,0,1,MERGED
+design-system,(LOG-53290) Novo componente: LToast / LAlert deprecated,https://github.com/comexio/design-system/pull/361,2022-04-07T19:39:50Z,2022-04-08T14:20:49Z,3,6,MERGED
+design-system,(LOG-62183) - Melhoria componente de timeline,https://github.com/comexio/design-system/pull/409,2022-07-28T15:21:09Z,2022-07-28T19:59:51Z,1,2,MERGED
+design-system,(LOG-41665) Remoção inputs depreciados,https://github.com/comexio/design-system/pull/407,2022-07-13T16:54:41Z,2022-07-14T13:23:11Z,0,1,MERGED
+design-system,(LOG-61754) Correção para iniciar com a seta sendo mostrada,https://github.com/comexio/design-system/pull/406,2022-07-11T17:38:02Z,2022-07-11T18:09:42Z,2,1,MERGED
+design-system,(LOG-61754) - Ajustar icone de proximo na timeline,https://github.com/comexio/design-system/pull/405,2022-07-08T20:10:49Z,2022-07-11T12:08:53Z,5,7,MERGED
+design-system,(LOG-61641) Removendo mergeability da master,https://github.com/comexio/design-system/pull/404,2022-07-07T13:55:45Z,2022-07-07T15:04:10Z,0,2,MERGED
+design-system,(LOG-61641) Add codeowners,https://github.com/comexio/design-system/pull/402,2022-07-07T12:35:42Z,2022-07-07T13:07:01Z,0,1,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/401,2022-07-06T18:03:19Z,2022-07-06T18:06:29Z,0,2,MERGED
+design-system,Release/v3.4.0,https://github.com/comexio/design-system/pull/400,2022-07-06T17:16:40Z,2022-07-06T17:56:32Z,0,54,MERGED
+design-system,(LOG-57140) - Adicionado item para o slot LLinearChart,https://github.com/comexio/design-system/pull/399,2022-06-22T00:42:39Z,2022-06-22T01:25:01Z,0,1,MERGED
+design-system,(LOG-60488) Correção dos botões da timeline,https://github.com/comexio/design-system/pull/397,2022-06-21T20:09:18Z,2022-06-21T20:37:56Z,0,1,MERGED
+design-system,(LOG-59798) - Substituido LCard pelo LCardNew,https://github.com/comexio/design-system/pull/395,2022-06-14T14:28:57Z,2022-06-14T17:58:19Z,1,1,MERGED
+design-system,(LOG-59582) Add cor label LCheckboxNew,https://github.com/comexio/design-system/pull/394,2022-06-10T19:31:04Z,2022-06-10T20:06:13Z,0,1,MERGED
+design-system,(LOG-59582) Substituindo input depreciado e add alerta de depreciação,https://github.com/comexio/design-system/pull/393,2022-06-09T20:55:12Z,2022-06-10T14:14:10Z,2,3,MERGED
+design-system,(LOG-57281) Adiçao de validação para exibir as setinhas caso estiver no mobile e responsividade da timeline,https://github.com/comexio/design-system/pull/392,2022-06-09T18:37:45Z,2022-06-20T21:25:25Z,4,3,MERGED
+design-system,(LOG-59737) Depreciando LCard e LCardHeader,https://github.com/comexio/design-system/pull/391,2022-06-08T17:16:48Z,2022-06-08T18:18:21Z,0,1,MERGED
+design-system,(LOG-59256) - Removido componente LAlert,https://github.com/comexio/design-system/pull/390,2022-06-08T12:29:48Z,2022-06-08T13:09:48Z,0,1,MERGED
+design-system,(LOG-46537) Add Prettier,https://github.com/comexio/design-system/pull/389,2022-06-07T21:02:21Z,2022-06-08T13:58:05Z,0,1,MERGED
+design-system,(LOG-59665) Fix: Classes --small e --large não aplicando,https://github.com/comexio/design-system/pull/388,2022-06-07T17:52:40Z,2022-06-07T19:43:33Z,0,1,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/387,2022-06-06T19:08:22Z,2022-06-06T19:28:00Z,0,2,MERGED
+design-system,Release/v3.3.0,https://github.com/comexio/design-system/pull/386,2022-06-06T15:13:23Z,2022-06-06T19:01:54Z,0,51,MERGED
+design-system,(LOG-52752) Alerta de depreciação de inputs e primeiras remoções,https://github.com/comexio/design-system/pull/384,2022-06-03T19:44:58Z,2022-06-06T13:25:57Z,1,4,MERGED
+design-system,(LOG-52113) - Removido componente LModalContent,https://github.com/comexio/design-system/pull/382,2022-06-01T18:17:27Z,2022-06-06T14:41:05Z,0,1,MERGED
+design-system,(LOG-41288) Remoção LSimpleTable,https://github.com/comexio/design-system/pull/381,2022-06-01T15:04:51Z,2022-06-01T17:15:03Z,0,1,MERGED
+design-system,(LOG-67233) - Ajuste de font solicitado pela designer,https://github.com/comexio/design-system/pull/419,2022-10-28T19:06:09Z,2022-10-28T19:39:36Z,1,2,MERGED
+design-system,(LOG-68536) - Erro ao acessar em ambiente de desenvolvimento,https://github.com/comexio/design-system/pull/418,2022-10-27T17:12:27Z,2022-10-27T17:42:44Z,0,1,MERGED
+design-system,master to homol,https://github.com/comexio/design-system/pull/417,2022-10-14T20:55:27Z,2022-10-14T20:55:34Z,0,2,MERGED
+design-system,Release/v3.5.0,https://github.com/comexio/design-system/pull/416,2022-10-14T20:40:10Z,2022-10-14T20:46:55Z,0,49,MERGED
+design-system,release/v3.5.0,https://github.com/comexio/design-system/pull/415,2022-10-14T20:23:29Z,2022-10-14T20:37:48Z,0,49,CLOSED
+design-system,(LOG-33747) - Adicionando slot no componente de linha do tempo,https://github.com/comexio/design-system/pull/413,2022-09-01T14:22:28Z,2022-09-01T15:16:25Z,1,1,MERGED
+design-system,(LOG-64357) Melhorias/refactor LCircularChart,https://github.com/comexio/design-system/pull/412,2022-08-24T18:56:31Z,2022-08-24T20:13:21Z,0,4,MERGED
+design-system,(LOG-62826) Melhorias LLinearChart e LLinearChartLine,https://github.com/comexio/design-system/pull/411,2022-08-16T14:19:43Z,2022-08-17T13:01:01Z,1,6,MERGED
+design-system,(LOG-63060) -  Permitindo pesquisar data final antes que data inicial,https://github.com/comexio/design-system/pull/410,2022-08-09T17:38:37Z,2022-08-09T19:48:40Z,2,2,MERGED
+design-system,(LOG-67236) - Ajustado width e posicionamento dos valores do chart LinearLineChart,https://github.com/comexio/design-system/pull/427,2022-12-14T19:26:49Z,2022-12-14T21:32:43Z,0,1,MERGED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/423,2022-11-18T19:32:46Z,2022-11-18T19:43:35Z,0,2,MERGED
+design-system,Release/v3.6.0,https://github.com/comexio/design-system/pull/422,2022-11-18T18:42:01Z,2022-11-18T19:06:05Z,0,15,MERGED
+design-system,(LOG-68336) - Atualizado cores do pacote,https://github.com/comexio/design-system/pull/421,2022-11-18T17:15:11Z,2022-11-18T17:54:17Z,0,1,MERGED
+design-system,(LOG-67663) - Adicionado merge das props e attrs,https://github.com/comexio/design-system/pull/420,2022-11-01T19:13:07Z,2022-11-01T20:57:29Z,1,1,MERGED
+design-system,(LOG-73277) - Corrigido renderização de scoped slot,https://github.com/comexio/design-system/pull/434,2023-03-03T10:37:44Z,2023-03-03T16:40:40Z,0,3,MERGED
+design-system,(LOG-72571) - Correção do DatePickerMonth quando lida com data apenas de ano e mês.,https://github.com/comexio/design-system/pull/432,2023-01-18T18:45:56Z,2023-01-19T12:57:08Z,1,5,MERGED
+design-system,"(LOG-71043) - Mudar de ""Hide"" para ""To Retract"" no gráfico de Prováveis exportadores",https://github.com/comexio/design-system/pull/431,2023-01-12T14:13:03Z,2023-01-12T14:37:27Z,0,1,MERGED
+design-system,(LOG-67236) - Retornando como era a estrutura do gráfico linear chart,https://github.com/comexio/design-system/pull/430,2023-01-09T20:02:19Z,2023-01-09T20:39:53Z,0,1,MERGED
+design-system,(LOG-67236) - Retornando como era a estrutura do gráfico linear chart,https://github.com/comexio/design-system/pull/429,2023-01-09T19:13:29Z,2023-01-09T19:59:25Z,0,1,CLOSED
+design-system,(LOG-71711) Incluindo hook desabilitando inheritAttrs,https://github.com/comexio/design-system/pull/428,2023-01-06T17:25:44Z,2023-01-06T18:01:12Z,1,3,MERGED
+design-system,LOG-77993 - Criação de componentes de gráfico de linha com funcionalidade de switch,https://github.com/comexio/design-system/pull/435,2023-05-25T16:59:07Z,2023-05-26T13:21:47Z,0,10,CLOSED
+design-system,Master to homol,https://github.com/comexio/design-system/pull/455,2023-07-07T13:39:43Z,2023-07-07T13:40:42Z,0,4,MERGED
+design-system,(fix/publish-library) Alterando lib publish library,https://github.com/comexio/design-system/pull/454,2023-07-07T12:29:40Z,2023-07-07T12:50:16Z,0,1,MERGED
+design-system,(fix/publish_library) Alterando lib publish library,https://github.com/comexio/design-system/pull/453,2023-07-07T12:28:40Z,2023-07-07T12:29:07Z,0,3,CLOSED
+design-system,Release/v3.7.0,https://github.com/comexio/design-system/pull/452,2023-07-06T18:08:32Z,2023-07-06T20:31:10Z,0,73,MERGED
+design-system,(fix/lint) Corrigindo lint,https://github.com/comexio/design-system/pull/451,2023-07-06T17:12:22Z,2023-07-06T17:13:12Z,0,2,MERGED
+design-system,(update/version) Atualizando versão no package.json,https://github.com/comexio/design-system/pull/450,2023-07-06T17:08:16Z,2023-07-06T17:10:16Z,0,1,MERGED
+design-system,(LOG-80743) - att versao,https://github.com/comexio/design-system/pull/449,2023-07-06T14:51:49Z,2023-07-06T15:10:59Z,0,3,MERGED
+design-system,(LOG-80743) - att versao,https://github.com/comexio/design-system/pull/448,2023-07-06T14:39:10Z,2023-07-06T14:49:50Z,0,1,MERGED
+design-system,(homol) Remoção de espaçamento desnecessário,https://github.com/comexio/design-system/pull/447,2023-07-05T20:30:31Z,2023-07-05T21:03:04Z,0,1,MERGED
+design-system,(release/v3.6.1-12) Atualizando versão já no package.json,https://github.com/comexio/design-system/pull/446,2023-07-05T20:16:23Z,2023-07-05T20:25:17Z,0,1,MERGED
+design-system,(fix) Removendo espaços,https://github.com/comexio/design-system/pull/445,2023-07-05T19:11:49Z,2023-07-05T19:24:54Z,0,1,MERGED
+design-system,(LOG-80743) - Atualizando versão,https://github.com/comexio/design-system/pull/444,2023-07-05T18:39:14Z,2023-07-05T19:03:06Z,0,4,MERGED
+design-system,"Revert ""Revert ""(LOG-80743) - teste""""",https://github.com/comexio/design-system/pull/443,2023-07-05T18:22:56Z,2023-07-05T18:24:15Z,0,1,CLOSED
+design-system,"Revert ""(LOG-80743) - teste""",https://github.com/comexio/design-system/pull/442,2023-07-05T17:40:31Z,2023-07-05T18:06:47Z,0,1,MERGED
+design-system,(LOG-80743) - teste,https://github.com/comexio/design-system/pull/441,2023-07-05T15:22:09Z,2023-07-05T17:03:42Z,0,2,MERGED
+design-system,(homol) Atualizando versão do pacote,https://github.com/comexio/design-system/pull/440,2023-07-05T14:42:52Z,2023-07-05T14:49:02Z,0,1,MERGED
+design-system,(LOG-80743) - Removendo fonte fixa,https://github.com/comexio/design-system/pull/439,2023-07-04T13:35:56Z,2023-07-04T19:33:29Z,1,2,MERGED
+design-system,(homol) Release v3.6.1-7,https://github.com/comexio/design-system/pull/438,2023-06-27T21:01:56Z,2023-06-27T21:09:51Z,0,1,MERGED
+design-system,(LOG-80171) - Adicionando slot no footer da modal,https://github.com/comexio/design-system/pull/437,2023-06-21T19:39:05Z,2023-06-27T20:14:29Z,2,5,MERGED
+design-system,(LOG-80170) - Add subtitulo no header da modal,https://github.com/comexio/design-system/pull/436,2023-06-21T19:26:25Z,2023-06-27T12:47:39Z,2,3,MERGED
+design-system,(LOG-82294) - Adição de condição de remoção de important no dark--mode,https://github.com/comexio/design-system/pull/456,2023-08-02T20:44:19Z,2023-08-03T13:36:08Z,0,1,MERGED
+design-system,(LOG-86343) - Adicionando opção de fechar o menu (DatePickerDay),https://github.com/comexio/design-system/pull/459,2023-11-10T18:11:19Z,2023-11-10T20:18:43Z,0,4,MERGED
+design-system,(LOG-86343) - Adicionando footer slot no date picker day,https://github.com/comexio/design-system/pull/458,2023-11-09T12:31:02Z,2023-11-09T13:20:05Z,0,1,MERGED
+design-system,(LOG-86242) Alteração do LDatePickerDay para possibilitar passagem de slot,https://github.com/comexio/design-system/pull/457,2023-11-03T18:55:12Z,2023-11-06T13:09:38Z,1,5,MERGED
+design-system,"Fix: Alteração do componete para corrigir warnings no console, relacionado a tipagem",https://github.com/comexio/design-system/pull/460,2024-01-18T15:04:02Z,2024-01-18T17:10:14Z,1,1,MERGED
+design-system,(LOG-104170) Alterar no componente LDropdownCheckbox para incluir slot no button,https://github.com/comexio/design-system/pull/461,2024-10-11T19:31:04Z,2024-10-11T20:08:42Z,1,1,MERGED
+design-system,(fix) Fix version package,https://github.com/comexio/design-system/pull/465,2024-12-10T13:12:12Z,2024-12-10T13:31:15Z,2,1,MERGED
+design-system,feature: release/v3.7.1-7,https://github.com/comexio/design-system/pull/464,2024-12-09T22:06:02Z,2024-12-09T22:06:13Z,2,1,MERGED
+design-system,(update-version) Atualizando versão para 3.7.1-6,https://github.com/comexio/design-system/pull/463,2024-12-09T21:24:19Z,2024-12-09T21:24:39Z,2,1,MERGED
+design-system,(LOG-107303) Correção do css do select para não alterar o ícone de clearable,https://github.com/comexio/design-system/pull/462,2024-12-09T18:47:00Z,2024-12-09T19:13:06Z,1,1,MERGED

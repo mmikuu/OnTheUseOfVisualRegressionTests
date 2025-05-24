@@ -1,0 +1,21 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+components,Test workflow run on opening PR from forked repo,https://github.com/SigNoz/components/pull/24,2024-10-24T07:30:27Z,2024-10-24T11:00:48Z,0,9,CLOSED
+components,Feat: setup design tokens stories and overall improvements,https://github.com/SigNoz/components/pull/23,2024-10-22T05:54:44Z,2024-10-24T10:59:50Z,0,8,MERGED
+components,chore: setup chromatic,https://github.com/SigNoz/components/pull/21,2024-10-14T14:55:09Z,2024-10-20T16:05:19Z,1,6,CLOSED
+components,feat: add pagination component,https://github.com/SigNoz/components/pull/19,2024-10-10T13:13:21Z,2024-10-13T12:07:50Z,0,3,CLOSED
+components,chore: improve button component UI (use colors from design tokens),https://github.com/SigNoz/components/pull/17,2024-10-10T11:31:28Z,2024-11-12T10:38:21Z,3,4,MERGED
+components,Update README.md,https://github.com/SigNoz/components/pull/16,2024-10-10T07:33:36Z,2024-10-22T04:54:23Z,0,1,MERGED
+components,chore: configure the colors from design tokens in tailwind,https://github.com/SigNoz/components/pull/14,2024-10-10T04:32:19Z,2024-10-10T06:43:25Z,0,1,MERGED
+components,chore: improve the story template,https://github.com/SigNoz/components/pull/9,2024-10-03T16:44:38Z,2024-10-03T18:11:09Z,0,1,MERGED
+components,"feat: setup prettier, eslint, conventional commits, prevent push to main branch",https://github.com/SigNoz/components/pull/8,2024-10-01T17:35:03Z,2024-10-23T11:29:26Z,2,1,MERGED
+components,chore: add CODEOWNERS file,https://github.com/SigNoz/components/pull/7,2024-10-01T07:31:26Z,2024-10-01T11:55:16Z,0,1,MERGED
+components,feat(design addon): added button figma preview with design addon,https://github.com/SigNoz/components/pull/6,2024-09-30T08:53:21Z,2024-10-01T12:13:29Z,1,16,MERGED
+components,feat: add support for generating non-shadcn component in the components library,https://github.com/SigNoz/components/pull/5,2024-09-29T16:30:03Z,2024-10-01T11:56:04Z,0,3,MERGED
+components,Badge,https://github.com/SigNoz/components/pull/4,2024-09-27T06:53:47Z,2024-09-27T06:58:01Z,0,2,CLOSED
+components,feat: initial setup for components library,https://github.com/SigNoz/components/pull/3,2024-09-24T08:01:06Z,2024-09-27T16:22:49Z,4,11,MERGED
+components,feat: initial setup for components library,https://github.com/SigNoz/components/pull/2,2024-09-24T07:07:05Z,2024-09-24T08:00:38Z,0,66,MERGED
+components,Components library initial setup,https://github.com/SigNoz/components/pull/1,2024-09-24T07:04:57Z,2024-09-24T07:05:14Z,0,64,CLOSED
+components,chore: fix cross spawn vulnerability,https://github.com/SigNoz/components/pull/28,2024-12-24T13:51:40Z,2024-12-24T15:34:23Z,0,1,MERGED
+components,chore: setup common style.css for tailwind and import in components,https://github.com/SigNoz/components/pull/26,2024-11-11T03:00:19Z,2024-11-18T05:45:45Z,0,1,MERGED
+components,fix: failing package generator,https://github.com/SigNoz/components/pull/34,2025-02-20T04:38:40Z,2025-03-03T05:59:39Z,0,1,MERGED
+components,fix: enforce typecheck only on staged files & update vscode settings and extensions files,https://github.com/SigNoz/components/pull/33,2025-02-20T04:31:16Z,2025-03-06T07:18:04Z,0,5,MERGED

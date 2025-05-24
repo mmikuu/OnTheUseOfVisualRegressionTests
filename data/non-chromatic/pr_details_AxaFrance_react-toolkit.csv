@@ -1,0 +1,329 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+react-toolkit,fix(action) revert previous fix,https://github.com/AxaFrance/react-toolkit/pull/335,2019-07-30T16:26:06Z,2019-07-30T16:35:08Z,0,6,MERGED
+react-toolkit, fix(action) modifier can be extended,https://github.com/AxaFrance/react-toolkit/pull/333,2019-07-29T14:04:26Z,2019-07-30T15:37:14Z,0,5,MERGED
+react-toolkit,Set properly slider position for input switch,https://github.com/AxaFrance/react-toolkit/pull/326,2019-07-19T16:26:26Z,2019-07-23T08:28:43Z,2,7,MERGED
+react-toolkit,feat(restitution) add react components in order to display retitution,https://github.com/AxaFrance/react-toolkit/pull/317,2019-07-12T13:35:56Z,2019-07-23T08:25:59Z,15,14,MERGED
+react-toolkit,fix: omit props and display errors,https://github.com/AxaFrance/react-toolkit/pull/309,2019-07-09T20:34:38Z,2019-07-10T06:47:43Z,0,1,MERGED
+react-toolkit,feat: design for file input #305,https://github.com/AxaFrance/react-toolkit/pull/306,2019-07-05T09:50:04Z,2019-07-05T13:46:26Z,1,3,MERGED
+react-toolkit,fix: issue #109 allow multiselect to be emptyed when value is set to unknown value,https://github.com/AxaFrance/react-toolkit/pull/300,2019-06-26T09:08:07Z,2019-07-09T12:45:09Z,1,2,MERGED
+react-toolkit,Fix Npm version for storybook,https://github.com/AxaFrance/react-toolkit/pull/296,2019-06-22T20:25:35Z,2019-06-23T13:28:41Z,0,1,MERGED
+react-toolkit,Fix Storybook,https://github.com/AxaFrance/react-toolkit/pull/288,2019-06-18T14:26:43Z,2019-06-19T09:16:45Z,0,1,MERGED
+react-toolkit,fix : compilation error in modal + onchange call on Tabs,https://github.com/AxaFrance/react-toolkit/pull/283,2019-06-17T09:26:07Z,2019-06-17T15:00:14Z,0,1,MERGED
+react-toolkit,refactor(all) remove recompose,https://github.com/AxaFrance/react-toolkit/pull/421,2019-10-26T09:04:12Z,2019-11-22T16:54:51Z,5,16,MERGED
+react-toolkit,refactor(sonar) clean some sonar,https://github.com/AxaFrance/react-toolkit/pull/419,2019-10-24T13:37:10Z,2019-10-24T14:52:59Z,0,2,MERGED
+react-toolkit,Feat/toggle checkbox,https://github.com/AxaFrance/react-toolkit/pull/405,2019-10-07T13:50:29Z,2019-10-07T14:18:21Z,0,2,MERGED
+react-toolkit,fix(input select) : add prop to force display placeholder - #402,https://github.com/AxaFrance/react-toolkit/pull/403,2019-10-06T22:37:11Z,2019-10-07T07:25:30Z,0,1,MERGED
+react-toolkit,"feat(design-system): add guidelines button, accordion, loader",https://github.com/AxaFrance/react-toolkit/pull/401,2019-10-06T20:41:06Z,2019-10-07T07:18:40Z,0,1,MERGED
+react-toolkit,feat(home) add filters,https://github.com/AxaFrance/react-toolkit/pull/400,2019-10-04T15:51:20Z,2019-10-17T07:53:16Z,2,10,MERGED
+react-toolkit,feat(demo) remove recompose,https://github.com/AxaFrance/react-toolkit/pull/398,2019-10-02T14:30:11Z,2019-10-03T09:27:57Z,0,5,MERGED
+react-toolkit,refactor(react-toolkit-form-summary): migrate to TypeScript,https://github.com/AxaFrance/react-toolkit/pull/397,2019-10-02T09:03:59Z,2019-10-03T07:23:34Z,4,6,MERGED
+react-toolkit,fix: remove duplicated files,https://github.com/AxaFrance/react-toolkit/pull/395,2019-10-01T10:53:10Z,2019-10-03T07:22:52Z,4,1,MERGED
+react-toolkit,refactor(demo) more hook and storybook,https://github.com/AxaFrance/react-toolkit/pull/388,2019-09-25T09:14:58Z,2019-09-25T13:33:03Z,4,1,MERGED
+react-toolkit,doc(demo) update demo and licence,https://github.com/AxaFrance/react-toolkit/pull/386,2019-09-24T12:53:29Z,2019-09-24T15:52:41Z,2,3,MERGED
+react-toolkit,fix(design-system) lowercase colors.pug,https://github.com/AxaFrance/react-toolkit/pull/381,2019-09-19T09:30:20Z,2019-09-19T09:48:10Z,0,1,MERGED
+react-toolkit,Feat/design system,https://github.com/AxaFrance/react-toolkit/pull/379,2019-09-18T09:52:23Z,2019-09-18T10:10:38Z,0,16,MERGED
+react-toolkit,fix(licence) typo,https://github.com/AxaFrance/react-toolkit/pull/362,2019-08-28T15:23:39Z,2019-08-28T15:23:47Z,0,1,MERGED
+react-toolkit,feat(ToolkitCore): Le texte ne passe plus en dessous des inputs.,https://github.com/AxaFrance/react-toolkit/pull/355,2019-08-22T07:12:59Z,2019-08-22T07:29:51Z,0,1,MERGED
+react-toolkit,refactor(restitution) Change titleLeft to rightTitle prop in HeaderRestitution,https://github.com/AxaFrance/react-toolkit/pull/351,2019-08-17T15:26:04Z,2019-08-19T12:12:30Z,2,2,MERGED
+react-toolkit,refactor(restitution) Change titleLeft to rightTitle prop in HeaderRestitution,https://github.com/AxaFrance/react-toolkit/pull/350,2019-08-17T15:06:38Z,2019-08-17T15:25:08Z,0,1,CLOSED
+react-toolkit,fix(action) remove previous fix and fix package.lock.json corruption,https://github.com/AxaFrance/react-toolkit/pull/338,2019-08-01T09:47:06Z,2019-08-01T12:49:19Z,0,1,MERGED
+react-toolkit,feat: onClick is no longer required on navbar and steplink,https://github.com/AxaFrance/react-toolkit/pull/441,2019-11-22T14:16:48Z,2020-07-22T08:37:18Z,2,1,MERGED
+react-toolkit,feat(input): finish to set up warning message type,https://github.com/AxaFrance/react-toolkit/pull/573,2020-03-24T10:53:10Z,2020-04-01T08:47:50Z,2,4,MERGED
+react-toolkit,Màj des package-lock.json pour les alias lerna,https://github.com/AxaFrance/react-toolkit/pull/547,2020-02-21T09:36:26Z,2020-06-09T13:16:45Z,4,2,CLOSED
+react-toolkit,Update all package-lock,https://github.com/AxaFrance/react-toolkit/pull/543,2020-02-19T09:38:55Z,2020-02-20T13:48:33Z,0,1,MERGED
+react-toolkit,fix(modal): type with correct react event type,https://github.com/AxaFrance/react-toolkit/pull/542,2020-02-19T09:21:25Z,2020-02-21T09:28:32Z,3,1,CLOSED
+react-toolkit,Clean svg icons,https://github.com/AxaFrance/react-toolkit/pull/538,2020-02-13T14:12:01Z,2020-02-20T15:04:56Z,4,2,MERGED
+react-toolkit,Feat/demo login,https://github.com/AxaFrance/react-toolkit/pull/536,2020-02-12T10:38:22Z,2020-10-11T16:39:36Z,10,2,CLOSED
+react-toolkit,feat(checkbox): Add support for classModifier in items option,https://github.com/AxaFrance/react-toolkit/pull/533,2020-02-10T16:01:24Z,2020-10-20T14:30:49Z,8,1,CLOSED
+react-toolkit,fix(NumberInput): isValidNumber for support zero value in the component numberInput,https://github.com/AxaFrance/react-toolkit/pull/525,2020-01-31T10:01:36Z,2020-01-31T14:17:43Z,5,1,MERGED
+react-toolkit,fix(popover) remove crash in console and repair UX behavior,https://github.com/AxaFrance/react-toolkit/pull/515,2020-01-23T15:40:18Z,2020-01-23T16:39:03Z,1,3,MERGED
+react-toolkit,refactor(demo) update packages,https://github.com/AxaFrance/react-toolkit/pull/513,2020-01-22T14:38:53Z,2020-01-22T15:06:45Z,1,2,MERGED
+react-toolkit,feat(demo) add a test,https://github.com/AxaFrance/react-toolkit/pull/512,2020-01-22T10:58:52Z,2020-01-22T11:23:11Z,1,2,MERGED
+react-toolkit,feat(demo) oidc auth,https://github.com/AxaFrance/react-toolkit/pull/508,2020-01-17T15:30:12Z,2020-01-20T13:19:01Z,1,4,MERGED
+react-toolkit,refactor(demo) domain and sub-route,https://github.com/AxaFrance/react-toolkit/pull/507,2020-01-17T10:46:20Z,2020-01-17T11:08:21Z,1,1,MERGED
+react-toolkit,"refactor(demo):  architecture of demo, delete react logo, remove footer and he…",https://github.com/AxaFrance/react-toolkit/pull/499,2020-01-08T10:21:12Z,2020-01-08T16:40:37Z,1,5,MERGED
+react-toolkit,fix(design-system) quick fix for lastest version only,https://github.com/AxaFrance/react-toolkit/pull/488,2020-01-03T13:43:30Z,2020-01-03T13:43:48Z,0,3,MERGED
+react-toolkit,feat(design): switch to new design site,https://github.com/AxaFrance/react-toolkit/pull/480,2020-01-02T16:33:37Z,2020-01-02T16:47:11Z,0,2,MERGED
+react-toolkit,fix(tabs): tab not becoming active after click,https://github.com/AxaFrance/react-toolkit/pull/615,2020-05-28T14:34:06Z,2020-06-18T09:36:30Z,8,7,MERGED
+react-toolkit,build(TypeScript): expose typings,https://github.com/AxaFrance/react-toolkit/pull/614,2020-05-19T09:19:04Z,2020-05-27T10:11:50Z,1,1,MERGED
+react-toolkit,refactor(react-toolkit-form): remove use of componentWillUpdate,https://github.com/AxaFrance/react-toolkit/pull/613,2020-05-15T14:00:09Z,2020-05-27T10:12:30Z,3,1,MERGED
+react-toolkit,feat(react-toolkit-form): add a red star on label of required fields,https://github.com/AxaFrance/react-toolkit/pull/611,2020-05-14T14:42:17Z,2020-05-14T20:10:50Z,1,2,MERGED
+react-toolkit,react-toolkit-table: customize paging labels,https://github.com/AxaFrance/react-toolkit/pull/608,2020-05-11T13:19:24Z,2020-05-12T15:48:42Z,5,5,MERGED
+react-toolkit,feat(storybook): delete addon and clean stories,https://github.com/AxaFrance/react-toolkit/pull/605,2020-05-04T22:45:50Z,2020-05-06T12:50:56Z,2,2,MERGED
+react-toolkit,feat(date-phone) add phone date input,https://github.com/AxaFrance/react-toolkit/pull/580,2020-04-01T13:55:02Z,2020-04-27T13:44:34Z,3,14,MERGED
+react-toolkit,build: fix version in packages to have repeatable builds,https://github.com/AxaFrance/react-toolkit/pull/663,2020-07-17T13:55:42Z,2020-07-22T07:14:58Z,2,1,MERGED
+react-toolkit,Migrate empty component to Typescript,https://github.com/AxaFrance/react-toolkit/pull/662,2020-07-16T17:06:37Z,2020-07-23T07:17:38Z,0,1,MERGED
+react-toolkit,Migrate Popover to Typescript,https://github.com/AxaFrance/react-toolkit/pull/661,2020-07-16T17:04:00Z,2020-10-21T13:48:26Z,4,1,MERGED
+react-toolkit,feat(input) add debounce behavior to display message,https://github.com/AxaFrance/react-toolkit/pull/658,2020-07-07T12:21:11Z,2022-07-22T14:25:50Z,3,2,CLOSED
+react-toolkit,feat(build): delete gulp v3 and replace by scripts tasks,https://github.com/AxaFrance/react-toolkit/pull/651,2020-07-03T13:34:14Z,2020-07-06T10:33:34Z,7,11,MERGED
+react-toolkit,Migrate Loader to Typescript,https://github.com/AxaFrance/react-toolkit/pull/650,2020-07-02T08:12:22Z,2020-10-16T14:29:27Z,1,1,MERGED
+react-toolkit,feat(form-input-radio) send id on change,https://github.com/AxaFrance/react-toolkit/pull/648,2020-06-30T09:18:59Z,2020-07-07T09:38:25Z,3,1,MERGED
+react-toolkit,fix(popover): popover prevents click action on the page,https://github.com/AxaFrance/react-toolkit/pull/647,2020-06-30T08:48:24Z,2020-07-22T08:04:33Z,9,5,MERGED
+react-toolkit,Migrate Help package to Typescript,https://github.com/AxaFrance/react-toolkit/pull/645,2020-06-29T12:24:01Z,2020-10-23T13:33:08Z,10,2,MERGED
+react-toolkit,Migrate collapse package to Typescript,https://github.com/AxaFrance/react-toolkit/pull/644,2020-06-27T16:21:50Z,2020-10-16T08:58:24Z,7,1,MERGED
+react-toolkit,ci: improve lerna integration,https://github.com/AxaFrance/react-toolkit/pull/641,2020-06-19T15:39:03Z,2020-07-03T07:37:58Z,16,4,MERGED
+react-toolkit,feat(layout-footer): use current year as default in copyright,https://github.com/AxaFrance/react-toolkit/pull/639,2020-06-19T07:08:32Z,2020-06-19T12:48:46Z,1,1,MERGED
+react-toolkit,feat(form-input-choice): use the id instead of generating a new one,https://github.com/AxaFrance/react-toolkit/pull/637,2020-06-18T16:04:35Z,2020-06-19T09:47:10Z,0,1,MERGED
+react-toolkit,feat(popover): fix a11y for popover,https://github.com/AxaFrance/react-toolkit/pull/636,2020-06-18T15:44:33Z,2020-06-19T09:46:49Z,1,1,MERGED
+react-toolkit,fix(title): Fix burger menu in plain display,https://github.com/AxaFrance/react-toolkit/pull/634,2020-06-18T06:57:49Z,2020-06-18T09:35:00Z,1,1,MERGED
+react-toolkit,build: bump react-popper to version 2,https://github.com/AxaFrance/react-toolkit/pull/625,2020-06-05T15:08:12Z,2020-06-18T09:52:22Z,9,1,MERGED
+react-toolkit,build: bump react-select to version 3.1.0,https://github.com/AxaFrance/react-toolkit/pull/624,2020-06-05T07:42:00Z,2020-06-18T07:12:42Z,4,1,MERGED
+react-toolkit,fix(date-phone): normalize viewValue with date,https://github.com/AxaFrance/react-toolkit/pull/623,2020-06-04T15:39:10Z,2020-06-04T18:53:46Z,3,1,MERGED
+react-toolkit,docs: fix package list on README,https://github.com/AxaFrance/react-toolkit/pull/622,2020-06-04T15:21:33Z,2020-06-05T12:48:46Z,0,1,MERGED
+react-toolkit,build: required React 16.8.0 as peer dependency,https://github.com/AxaFrance/react-toolkit/pull/620,2020-06-04T10:00:05Z,2020-06-04T14:10:42Z,1,1,MERGED
+react-toolkit,refactor(react-toolkit-form): rollback remove use of componentWillUpdate,https://github.com/AxaFrance/react-toolkit/pull/619,2020-06-04T08:55:15Z,2020-06-04T12:25:58Z,1,1,MERGED
+react-toolkit,test(modal): Using Testing Library,https://github.com/AxaFrance/react-toolkit/pull/785,2020-10-30T17:16:52Z,2020-11-04T13:04:28Z,7,1,MERGED
+react-toolkit,feat(form-input-number): use input number,https://github.com/AxaFrance/react-toolkit/pull/784,2020-10-30T14:44:42Z,2021-02-18T11:02:11Z,10,5,MERGED
+react-toolkit,build: publish on next when prerelease,https://github.com/AxaFrance/react-toolkit/pull/783,2020-10-30T10:38:21Z,2020-11-09T13:14:17Z,6,3,MERGED
+react-toolkit,refactor(core): add type on compose,https://github.com/AxaFrance/react-toolkit/pull/782,2020-10-29T16:34:12Z,2020-11-16T13:56:26Z,6,3,MERGED
+react-toolkit,Ignore publish for pre version,https://github.com/AxaFrance/react-toolkit/pull/779,2020-10-28T15:59:37Z,2020-10-28T16:18:08Z,0,2,MERGED
+react-toolkit,Error on new csstype,https://github.com/AxaFrance/react-toolkit/pull/778,2020-10-28T11:04:16Z,2020-10-28T15:12:00Z,0,2,MERGED
+react-toolkit,build: force csstype to version ^3.0.4,https://github.com/AxaFrance/react-toolkit/pull/777,2020-10-28T09:25:20Z,2020-10-28T10:05:51Z,1,1,MERGED
+react-toolkit,style: apply Prettier and clean ESLint rules,https://github.com/AxaFrance/react-toolkit/pull/776,2020-10-27T16:49:33Z,2020-10-27T20:46:54Z,4,3,MERGED
+react-toolkit,Storybook - Ajout d'optimisation,https://github.com/AxaFrance/react-toolkit/pull/775,2020-10-26T16:00:31Z,2020-10-27T08:00:52Z,0,1,MERGED
+react-toolkit,feat(modal): improve a11y on Modal,https://github.com/AxaFrance/react-toolkit/pull/772,2020-10-26T07:52:50Z,2020-10-28T13:46:40Z,14,2,MERGED
+react-toolkit,fix(storybook): change the brandUrl to match the spirit of the project,https://github.com/AxaFrance/react-toolkit/pull/770,2020-10-25T08:48:53Z,2020-10-26T08:36:17Z,0,1,MERGED
+react-toolkit,feat(Date): bump react-datepicker to 3.X,https://github.com/AxaFrance/react-toolkit/pull/767,2020-10-23T14:19:53Z,2021-02-19T14:39:06Z,36,2,MERGED
+react-toolkit,fix(CheckBox): focus through TAB key with toggle mode,https://github.com/AxaFrance/react-toolkit/pull/766,2020-10-22T21:17:13Z,2022-07-22T14:24:27Z,4,1,CLOSED
+react-toolkit,build: migrate to TypeScript 4 and remove TSLint,https://github.com/AxaFrance/react-toolkit/pull/765,2020-10-22T14:54:42Z,2020-10-26T08:07:27Z,3,6,MERGED
+react-toolkit,build: bump dependencies,https://github.com/AxaFrance/react-toolkit/pull/737,2020-10-20T15:23:34Z,2020-10-21T09:48:15Z,3,1,MERGED
+react-toolkit,feat(form-input-text): fix design issues,https://github.com/AxaFrance/react-toolkit/pull/735,2020-10-20T10:03:09Z,2020-10-22T07:41:26Z,2,1,MERGED
+react-toolkit,refactor: migrate stories next to components,https://github.com/AxaFrance/react-toolkit/pull/731,2020-10-19T10:35:47Z,2020-10-20T09:58:00Z,33,3,MERGED
+react-toolkit,style: fix tslint error,https://github.com/AxaFrance/react-toolkit/pull/730,2020-10-19T06:53:00Z,2020-10-19T07:55:44Z,2,1,MERGED
+react-toolkit,Feature/improve contributor xp,https://github.com/AxaFrance/react-toolkit/pull/729,2020-10-18T19:36:50Z,2020-11-07T09:08:40Z,23,8,MERGED
+react-toolkit,feat(design-system): delete design system,https://github.com/AxaFrance/react-toolkit/pull/728,2020-10-18T18:30:12Z,2020-10-19T16:11:38Z,6,1,MERGED
+react-toolkit,feat(collapse): added onToggleCallback prop on CollapseCardBase,https://github.com/AxaFrance/react-toolkit/pull/727,2020-10-16T15:07:18Z,2020-10-21T10:03:46Z,9,1,MERGED
+react-toolkit,Update dependencies & moment,https://github.com/AxaFrance/react-toolkit/pull/722,2020-10-15T16:46:32Z,2020-10-21T07:48:08Z,1,1,MERGED
+react-toolkit,Apply fix guidelines,https://github.com/AxaFrance/react-toolkit/pull/720,2020-10-15T11:11:25Z,2020-10-19T07:44:19Z,2,1,MERGED
+react-toolkit,Update rc-slider dependency,https://github.com/AxaFrance/react-toolkit/pull/713,2020-10-14T16:39:26Z,2020-11-16T17:16:04Z,2,1,MERGED
+react-toolkit,NavBar UX guidelines fixes,https://github.com/AxaFrance/react-toolkit/pull/711,2020-10-13T17:45:58Z,2020-10-16T05:44:36Z,3,1,MERGED
+react-toolkit,Migration Typescript form core,https://github.com/AxaFrance/react-toolkit/pull/709,2020-10-13T10:15:47Z,2020-11-25T09:59:12Z,9,4,MERGED
+react-toolkit,build: drop support of old Node.js versions,https://github.com/AxaFrance/react-toolkit/pull/708,2020-10-12T14:34:21Z,2020-10-12T14:56:36Z,2,1,MERGED
+react-toolkit,Update dependencies,https://github.com/AxaFrance/react-toolkit/pull/704,2020-10-11T16:32:24Z,2020-10-14T12:02:30Z,8,4,MERGED
+react-toolkit,docs: fixed storybook treeview,https://github.com/AxaFrance/react-toolkit/pull/703,2020-10-09T14:40:51Z,2020-10-12T14:40:39Z,1,1,MERGED
+react-toolkit,fix(pug): contributors page production build,https://github.com/AxaFrance/react-toolkit/pull/701,2020-10-09T07:14:45Z,2020-10-09T07:55:27Z,1,1,MERGED
+react-toolkit,build: bump to Storybook 6.0.26,https://github.com/AxaFrance/react-toolkit/pull/700,2020-10-08T11:50:03Z,2020-10-12T10:10:36Z,6,2,MERGED
+react-toolkit,fix(Form/Input/Date): Make the glyphicon clickable,https://github.com/AxaFrance/react-toolkit/pull/699,2020-10-07T14:12:59Z,2020-10-16T05:41:44Z,7,1,MERGED
+react-toolkit,fix(new-ds): fix broken link to template pugs,https://github.com/AxaFrance/react-toolkit/pull/696,2020-10-06T19:09:24Z,2020-10-07T08:39:23Z,0,1,MERGED
+react-toolkit,fix(table-pager): add flexible width when active page number is large,https://github.com/AxaFrance/react-toolkit/pull/694,2020-10-06T12:51:53Z,2020-10-06T19:36:28Z,6,1,MERGED
+react-toolkit,Feat/guidelines ds,https://github.com/AxaFrance/react-toolkit/pull/692,2020-10-06T07:25:31Z,2020-10-06T17:07:14Z,8,93,MERGED
+react-toolkit,docs: remove demo app,https://github.com/AxaFrance/react-toolkit/pull/691,2020-10-05T16:50:54Z,2020-10-06T08:20:51Z,2,1,CLOSED
+react-toolkit,feat(demo): delete demo,https://github.com/AxaFrance/react-toolkit/pull/685,2020-09-23T22:09:10Z,2020-09-25T07:02:49Z,5,5,MERGED
+react-toolkit,fix(websites): npm run website on windows,https://github.com/AxaFrance/react-toolkit/pull/683,2020-09-21T15:36:08Z,2020-10-20T15:06:12Z,1,1,CLOSED
+react-toolkit,fix(publish): version is now sync to lerna.json,https://github.com/AxaFrance/react-toolkit/pull/682,2020-09-18T11:45:47Z,2020-09-21T14:16:01Z,1,1,MERGED
+react-toolkit,fix(publish): fix publish broken,https://github.com/AxaFrance/react-toolkit/pull/680,2020-09-18T08:25:49Z,2020-09-18T09:57:50Z,1,2,MERGED
+react-toolkit,fix(css): restore legacy boostrap css files - #666,https://github.com/AxaFrance/react-toolkit/pull/679,2020-09-10T12:00:03Z,2020-09-10T16:58:53Z,1,1,MERGED
+react-toolkit,fix(tabs): init tabs with custom active index other than zero,https://github.com/AxaFrance/react-toolkit/pull/677,2020-09-09T08:20:37Z,2020-09-11T11:53:56Z,5,1,MERGED
+react-toolkit,Fix/css packages generation,https://github.com/AxaFrance/react-toolkit/pull/674,2020-09-01T13:44:57Z,2020-09-01T14:34:12Z,3,15,MERGED
+react-toolkit,fix(publish) update snapshot,https://github.com/AxaFrance/react-toolkit/pull/673,2020-09-01T09:12:11Z,2020-10-20T15:05:28Z,6,10,CLOSED
+react-toolkit,fix(modal): display the scroll when the modal is too big,https://github.com/AxaFrance/react-toolkit/pull/669,2020-08-27T21:07:43Z,2020-11-13T08:39:29Z,14,9,MERGED
+react-toolkit,feat(alert): add role attribute,https://github.com/AxaFrance/react-toolkit/pull/668,2020-08-24T12:43:52Z,2020-09-15T14:11:39Z,20,1,MERGED
+react-toolkit,Migration Typescript Layout,https://github.com/AxaFrance/react-toolkit/pull/825,2020-12-22T17:18:07Z,2021-03-11T16:50:06Z,0,2,MERGED
+react-toolkit,Add logo into Footer,https://github.com/AxaFrance/react-toolkit/pull/823,2020-12-11T14:10:16Z,2021-02-19T17:38:07Z,3,1,MERGED
+react-toolkit,refactor: input radio to typescript,https://github.com/AxaFrance/react-toolkit/pull/820,2020-12-04T15:06:44Z,2021-02-15T17:20:46Z,7,1,MERGED
+react-toolkit,Migrate pass to ts,https://github.com/AxaFrance/react-toolkit/pull/819,2020-12-03T11:13:20Z,2021-03-11T16:45:25Z,0,1,MERGED
+react-toolkit,Migration Typescript multi-select,https://github.com/AxaFrance/react-toolkit/pull/818,2020-12-01T15:19:33Z,2021-03-02T18:47:40Z,0,3,MERGED
+react-toolkit,Migrate ts slider,https://github.com/AxaFrance/react-toolkit/pull/816,2020-11-30T16:30:25Z,2021-02-19T14:42:49Z,0,4,MERGED
+react-toolkit,Migrate ts input switch,https://github.com/AxaFrance/react-toolkit/pull/815,2020-11-27T17:58:16Z,2021-02-19T14:42:14Z,1,4,MERGED
+react-toolkit,Update react-dropzone dependency,https://github.com/AxaFrance/react-toolkit/pull/814,2020-11-27T17:09:44Z,2020-12-15T14:26:34Z,5,2,MERGED
+react-toolkit,Revert/next js,https://github.com/AxaFrance/react-toolkit/pull/813,2020-11-27T14:45:03Z,2020-12-03T11:11:17Z,1,4,MERGED
+react-toolkit,build: do not mergify breaking change,https://github.com/AxaFrance/react-toolkit/pull/811,2020-11-27T09:28:53Z,2020-11-27T09:59:25Z,1,1,MERGED
+react-toolkit,fix: fix target on nextjs:main and addmodule,https://github.com/AxaFrance/react-toolkit/pull/810,2020-11-26T16:58:19Z,2020-11-26T17:12:50Z,1,1,MERGED
+react-toolkit,feat(all): allow to import a specific component instead of all components,https://github.com/AxaFrance/react-toolkit/pull/809,2020-11-26T15:21:51Z,2021-02-01T15:39:50Z,9,1,CLOSED
+react-toolkit,Migrate ts input text,https://github.com/AxaFrance/react-toolkit/pull/808,2020-11-25T17:05:25Z,2021-02-11T18:36:30Z,0,2,MERGED
+react-toolkit,feat: allow react element on inputs labels,https://github.com/AxaFrance/react-toolkit/pull/807,2020-11-25T13:54:06Z,2020-12-03T10:10:11Z,3,2,MERGED
+react-toolkit,Migration Typescript global,https://github.com/AxaFrance/react-toolkit/pull/806,2020-11-25T10:01:45Z,2021-04-27T08:12:54Z,0,29,MERGED
+react-toolkit,Migrate ts input textarea,https://github.com/AxaFrance/react-toolkit/pull/805,2020-11-23T17:13:07Z,2021-02-11T18:42:53Z,0,3,MERGED
+react-toolkit,fix(style): downgrade Bootstrap version,https://github.com/AxaFrance/react-toolkit/pull/804,2020-11-13T16:49:15Z,2020-11-16T09:02:01Z,1,3,MERGED
+react-toolkit,test(title): add tests,https://github.com/AxaFrance/react-toolkit/pull/802,2020-11-10T09:54:05Z,2020-11-13T10:21:33Z,1,3,MERGED
+react-toolkit,build: fix CI job condition,https://github.com/AxaFrance/react-toolkit/pull/801,2020-11-09T14:57:24Z,2020-11-09T14:58:09Z,1,1,MERGED
+react-toolkit,test(help): add tests,https://github.com/AxaFrance/react-toolkit/pull/800,2020-11-09T12:24:17Z,2020-11-12T08:15:49Z,4,1,MERGED
+react-toolkit,build: allow Sonar to run on fork,https://github.com/AxaFrance/react-toolkit/pull/799,2020-11-06T11:20:44Z,2020-11-06T11:22:50Z,0,1,CLOSED
+react-toolkit,build: change version of react peerDependency,https://github.com/AxaFrance/react-toolkit/pull/798,2020-11-06T08:06:10Z,2020-11-13T13:42:58Z,1,4,MERGED
+react-toolkit,Feature/migrate ts form select,https://github.com/AxaFrance/react-toolkit/pull/797,2020-11-05T15:44:24Z,2021-02-11T18:36:15Z,2,2,MERGED
+react-toolkit,build: bump project dependencies,https://github.com/AxaFrance/react-toolkit/pull/795,2020-11-05T15:01:30Z,2020-11-06T10:21:16Z,1,2,MERGED
+react-toolkit,build: exclude lerna from prettier check,https://github.com/AxaFrance/react-toolkit/pull/790,2020-11-02T16:27:19Z,2020-11-02T16:31:38Z,1,1,MERGED
+react-toolkit,test(core): add tests,https://github.com/AxaFrance/react-toolkit/pull/789,2020-11-02T16:18:35Z,2020-11-03T10:29:30Z,2,1,MERGED
+react-toolkit,fix(style): put reboot.css and grid.css,https://github.com/AxaFrance/react-toolkit/pull/788,2020-11-02T14:39:58Z,2020-11-13T16:54:22Z,3,3,CLOSED
+react-toolkit,fix(collapse): fix condition error,https://github.com/AxaFrance/react-toolkit/pull/902,2021-03-23T17:09:24Z,2021-03-23T17:10:01Z,0,1,MERGED
+react-toolkit,docs(migration): fixed a few typos and phrasings,https://github.com/AxaFrance/react-toolkit/pull/901,2021-03-22T16:26:24Z,2021-04-07T14:26:13Z,3,1,MERGED
+react-toolkit,Ajout de stories oubliées,https://github.com/AxaFrance/react-toolkit/pull/899,2021-03-19T18:42:57Z,2021-03-24T09:35:37Z,0,1,MERGED
+react-toolkit,Suppression de certains scripts js,https://github.com/AxaFrance/react-toolkit/pull/897,2021-03-17T09:21:49Z,2021-03-30T08:55:32Z,0,2,MERGED
+react-toolkit,[Doc] Ajout d'une section 'How to make and test a change in my context',https://github.com/AxaFrance/react-toolkit/pull/896,2021-03-16T10:47:01Z,2021-04-20T09:23:42Z,21,1,MERGED
+react-toolkit,fix(storybook): add css not scss,https://github.com/AxaFrance/react-toolkit/pull/894,2021-03-12T18:41:02Z,2021-03-15T06:15:54Z,0,1,MERGED
+react-toolkit,Ajustement pour la release,https://github.com/AxaFrance/react-toolkit/pull/893,2021-03-11T16:26:02Z,2021-03-11T16:32:20Z,0,1,MERGED
+react-toolkit,Add breaking changes information for Collapse to MIGRATION.md,https://github.com/AxaFrance/react-toolkit/pull/891,2021-03-02T13:32:51Z,2021-03-02T14:01:25Z,0,1,CLOSED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/890,2021-03-02T10:16:32Z,2021-03-02T10:16:41Z,0,1,MERGED
+react-toolkit,ci(workflow): add registry to lerna publish,https://github.com/AxaFrance/react-toolkit/pull/889,2021-03-02T10:13:22Z,2021-03-02T10:13:29Z,0,1,MERGED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/888,2021-03-01T18:10:36Z,2021-03-01T18:10:41Z,0,1,MERGED
+react-toolkit,ci(workflow): add gloabl for npm auth,https://github.com/AxaFrance/react-toolkit/pull/887,2021-03-01T18:08:19Z,2021-03-01T18:08:25Z,0,1,MERGED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/886,2021-03-01T17:45:52Z,2021-03-01T17:46:05Z,0,1,MERGED
+react-toolkit,ci(workflow): fix npm auth,https://github.com/AxaFrance/react-toolkit/pull/885,2021-03-01T17:41:39Z,2021-03-01T17:42:34Z,0,1,MERGED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/884,2021-03-01T17:18:37Z,2021-03-01T17:18:52Z,0,1,MERGED
+react-toolkit,ci(workflow): fix conditions outputs string,https://github.com/AxaFrance/react-toolkit/pull/883,2021-03-01T17:13:19Z,2021-03-01T17:13:57Z,0,1,MERGED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/882,2021-03-01T16:43:32Z,2021-03-01T16:43:40Z,0,1,MERGED
+react-toolkit,ci(workflow): fix lerna yes prompt,https://github.com/AxaFrance/react-toolkit/pull/881,2021-03-01T16:36:43Z,2021-03-01T16:36:49Z,0,1,MERGED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/880,2021-03-01T16:02:57Z,2021-03-01T16:03:14Z,0,1,MERGED
+react-toolkit,ci(workflow): fix actions to publish,https://github.com/AxaFrance/react-toolkit/pull/879,2021-03-01T15:56:12Z,2021-03-01T15:56:21Z,0,1,MERGED
+react-toolkit,"Revert ""chore(release): publish v2.0.0-alpha.0 [skip ci]""",https://github.com/AxaFrance/react-toolkit/pull/878,2021-02-28T19:39:20Z,2021-02-28T19:40:11Z,0,1,MERGED
+react-toolkit,fix(workflow): if on step,https://github.com/AxaFrance/react-toolkit/pull/877,2021-02-28T19:20:52Z,2021-02-28T19:27:49Z,0,1,MERGED
+react-toolkit,ci(workflow): add publish,https://github.com/AxaFrance/react-toolkit/pull/875,2021-02-25T18:08:36Z,2021-02-26T18:50:08Z,0,1,MERGED
+react-toolkit,ci(workflow): add publish workflow,https://github.com/AxaFrance/react-toolkit/pull/874,2021-02-24T17:27:50Z,2021-02-25T09:39:54Z,0,1,MERGED
+react-toolkit,Pipeline build fix,https://github.com/AxaFrance/react-toolkit/pull/873,2021-02-24T15:03:06Z,2021-02-24T15:05:17Z,0,5,MERGED
+react-toolkit,Pipeline gh action,https://github.com/AxaFrance/react-toolkit/pull/872,2021-02-24T13:43:10Z,2021-02-24T13:43:48Z,0,3,MERGED
+react-toolkit,Passage du build sous github action,https://github.com/AxaFrance/react-toolkit/pull/871,2021-02-24T13:21:09Z,2021-02-24T13:29:01Z,0,4,MERGED
+react-toolkit,Ajustement du pipeline pour les releases,https://github.com/AxaFrance/react-toolkit/pull/870,2021-02-23T18:19:37Z,2021-02-23T19:31:52Z,0,1,MERGED
+react-toolkit,Ajout de conditions pour les release + matrice de compatibilité npm,https://github.com/AxaFrance/react-toolkit/pull/869,2021-02-23T18:06:03Z,2021-02-23T18:07:32Z,0,1,MERGED
+react-toolkit,[Collapse] max-height à 100vh quand ouvert,https://github.com/AxaFrance/react-toolkit/pull/866,2021-02-22T18:22:49Z,2021-03-02T17:30:34Z,0,1,MERGED
+react-toolkit,[Stepper] Alignement du texte & des séparateurs,https://github.com/AxaFrance/react-toolkit/pull/863,2021-02-19T19:18:32Z,2021-02-22T18:51:04Z,0,1,MERGED
+react-toolkit,[Help] Changement de police pour le i & ajustement padding,https://github.com/AxaFrance/react-toolkit/pull/861,2021-02-17T16:48:47Z,2021-02-19T17:31:01Z,0,1,MERGED
+react-toolkit,[Tabs] Accepte un seul enfant comm tab,https://github.com/AxaFrance/react-toolkit/pull/858,2021-02-17T15:36:27Z,2021-03-02T17:29:24Z,1,1,MERGED
+react-toolkit,[Alert] Centrage du bouton de fermeture,https://github.com/AxaFrance/react-toolkit/pull/857,2021-02-17T09:43:29Z,2021-02-19T15:03:45Z,0,1,MERGED
+react-toolkit,[Select] Ajout de padding & couleur du text lors d'erreur,https://github.com/AxaFrance/react-toolkit/pull/856,2021-02-16T18:34:13Z,2021-02-19T15:03:18Z,0,1,MERGED
+react-toolkit,[Badge] ajout d'un état désactivé & centrage du contenu,https://github.com/AxaFrance/react-toolkit/pull/855,2021-02-15T10:43:24Z,2021-02-19T14:58:37Z,0,2,MERGED
+react-toolkit,[Button] font-weight : 400,https://github.com/AxaFrance/react-toolkit/pull/854,2021-02-15T09:31:42Z,2021-02-16T13:15:39Z,1,1,MERGED
+react-toolkit,Compatiblilité du repo avec NPM 7,https://github.com/AxaFrance/react-toolkit/pull/853,2021-02-12T19:10:29Z,2021-02-19T17:30:41Z,0,2,MERGED
+react-toolkit,[Restitution] Ajout classModifier & change type,https://github.com/AxaFrance/react-toolkit/pull/852,2021-02-12T11:30:18Z,2021-02-19T14:58:10Z,1,2,MERGED
+react-toolkit,[Table] Simplification du composant Header,https://github.com/AxaFrance/react-toolkit/pull/851,2021-02-12T09:18:37Z,2021-02-19T14:59:45Z,0,1,MERGED
+react-toolkit,feat(FileInput): reduce InputFile browse button width,https://github.com/AxaFrance/react-toolkit/pull/846,2021-02-03T11:13:53Z,2021-02-16T13:40:04Z,4,1,MERGED
+react-toolkit,feat(all): allow to import a specific component instead of all components,https://github.com/AxaFrance/react-toolkit/pull/843,2021-02-01T15:39:13Z,2021-02-19T19:43:22Z,4,1,MERGED
+react-toolkit,build: add github action ci,https://github.com/AxaFrance/react-toolkit/pull/842,2021-01-24T09:59:08Z,2021-03-08T08:52:26Z,4,2,MERGED
+react-toolkit,Feature/collapse card prop inverted,https://github.com/AxaFrance/react-toolkit/pull/839,2021-01-21T16:56:23Z,2021-03-23T16:26:59Z,12,4,MERGED
+react-toolkit,Azure Pipeline pour les nouvelles releases,https://github.com/AxaFrance/react-toolkit/pull/838,2021-01-20T13:47:02Z,2021-01-21T18:19:10Z,1,1,MERGED
+react-toolkit,Migrate Typescript Form filters,https://github.com/AxaFrance/react-toolkit/pull/837,2021-01-19T18:15:58Z,2021-01-22T16:51:29Z,0,1,MERGED
+react-toolkit,Migrate Typescript input card,https://github.com/AxaFrance/react-toolkit/pull/836,2021-01-19T17:58:48Z,2021-03-11T16:56:35Z,0,4,MERGED
+react-toolkit,Migrate Typescript input checkbox,https://github.com/AxaFrance/react-toolkit/pull/835,2021-01-19T17:57:51Z,2021-03-02T18:49:09Z,0,1,MERGED
+react-toolkit,Migrate input choice,https://github.com/AxaFrance/react-toolkit/pull/827,2021-01-06T19:01:46Z,2021-03-11T16:52:39Z,0,3,MERGED
+react-toolkit,Migrate input file to Typescript,https://github.com/AxaFrance/react-toolkit/pull/826,2021-01-06T10:01:06Z,2021-03-02T18:48:31Z,0,2,MERGED
+react-toolkit,Feature/header,https://github.com/AxaFrance/react-toolkit/pull/919,2021-04-30T14:37:50Z,2022-07-22T14:14:14Z,2,2,CLOSED
+react-toolkit,[Storybook] Organisation du menu comme Slash,https://github.com/AxaFrance/react-toolkit/pull/916,2021-04-15T10:07:33Z,2021-10-28T14:36:08Z,4,1,MERGED
+react-toolkit,fix(modifier-hasiconRightOrLeft): put the correct version with camel …,https://github.com/AxaFrance/react-toolkit/pull/913,2021-04-08T22:24:10Z,2021-04-12T13:43:48Z,0,1,MERGED
+react-toolkit,A NE PAS RELIRE - TEST - Netlify PR DEPLOY,https://github.com/AxaFrance/react-toolkit/pull/911,2021-04-02T09:27:13Z,2021-11-25T17:32:48Z,1,7,CLOSED
+react-toolkit,Feature/max length on form inputs,https://github.com/AxaFrance/react-toolkit/pull/921,2021-06-01T13:07:17Z,2021-06-08T08:47:43Z,11,6,CLOSED
+react-toolkit,TEST TO DELETE - Update badge.scss,https://github.com/AxaFrance/react-toolkit/pull/929,2021-10-29T16:25:16Z,2021-10-29T16:35:40Z,0,1,CLOSED
+react-toolkit,Ajout de Chromatic,https://github.com/AxaFrance/react-toolkit/pull/928,2021-10-29T13:33:30Z,2021-10-29T16:24:01Z,0,3,MERGED
+react-toolkit,Update dep for prop-types for resync to same version,https://github.com/AxaFrance/react-toolkit/pull/927,2021-10-27T13:34:42Z,2021-10-27T13:36:06Z,0,1,MERGED
+react-toolkit,Mise à jour des README de tous les composants,https://github.com/AxaFrance/react-toolkit/pull/925,2021-10-15T13:32:40Z,2021-12-03T08:53:29Z,24,38,MERGED
+react-toolkit,feat(panel) completion of the Panel component which returned an empty…,https://github.com/AxaFrance/react-toolkit/pull/923,2021-09-20T12:59:07Z,2022-12-05T16:26:28Z,3,1,CLOSED
+react-toolkit,Mise au propre des tests,https://github.com/AxaFrance/react-toolkit/pull/944,2021-12-17T19:50:58Z,2022-02-04T17:44:22Z,0,1,MERGED
+react-toolkit,Migration TS Date,https://github.com/AxaFrance/react-toolkit/pull/943,2021-12-17T17:59:11Z,2022-07-22T15:58:52Z,1,2,MERGED
+react-toolkit,Màj Storybook 6.4,https://github.com/AxaFrance/react-toolkit/pull/942,2021-12-10T17:41:49Z,2021-12-13T16:45:22Z,0,1,MERGED
+react-toolkit,docs(title): prettier readme,https://github.com/AxaFrance/react-toolkit/pull/941,2021-12-10T10:52:00Z,2021-12-10T14:42:53Z,0,2,MERGED
+react-toolkit,feature(helpmessage): change type helpmessage,https://github.com/AxaFrance/react-toolkit/pull/940,2021-12-03T16:14:06Z,2021-12-10T16:17:28Z,1,4,MERGED
+react-toolkit,build(npm): generation of module files & commonjs files,https://github.com/AxaFrance/react-toolkit/pull/938,2021-11-25T15:25:46Z,2021-11-26T16:11:04Z,3,1,MERGED
+react-toolkit,fix(sass): fixing issue #922,https://github.com/AxaFrance/react-toolkit/pull/937,2021-11-17T15:46:44Z,2021-11-25T14:08:48Z,2,1,MERGED
+react-toolkit,Supprime script npm de version,https://github.com/AxaFrance/react-toolkit/pull/936,2021-11-16T18:07:12Z,2021-11-16T18:07:28Z,0,1,MERGED
+react-toolkit,Publication de pre-release pour les PR,https://github.com/AxaFrance/react-toolkit/pull/935,2021-11-16T16:53:53Z,2021-11-16T17:43:08Z,0,3,MERGED
+react-toolkit,Feature/storybook delete addon knobs,https://github.com/AxaFrance/react-toolkit/pull/934,2021-11-11T15:33:21Z,2021-11-18T08:05:11Z,6,15,MERGED
+react-toolkit,Release on tag,https://github.com/AxaFrance/react-toolkit/pull/931,2021-11-05T17:14:18Z,2021-11-05T17:15:47Z,0,3,MERGED
+react-toolkit,Update du publish,https://github.com/AxaFrance/react-toolkit/pull/930,2021-11-05T15:44:38Z,2021-11-05T16:43:03Z,0,1,MERGED
+react-toolkit,fix(form-core): put back fieldform and some JS version files,https://github.com/AxaFrance/react-toolkit/pull/955,2022-03-18T14:22:14Z,2022-06-30T09:14:17Z,7,8,MERGED
+react-toolkit,Fix/paging component,https://github.com/AxaFrance/react-toolkit/pull/954,2022-03-15T09:55:34Z,2024-01-25T10:45:18Z,3,2,CLOSED
+react-toolkit,"feat(FileInput): add new property to manage the translation ofr ""Parc…",https://github.com/AxaFrance/react-toolkit/pull/952,2022-03-10T14:47:52Z,2022-07-22T13:53:22Z,1,5,MERGED
+react-toolkit,refactor(Restitution): add children property and export RestitutionList,https://github.com/AxaFrance/react-toolkit/pull/950,2022-03-04T10:17:01Z,2022-04-08T08:49:20Z,5,1,MERGED
+react-toolkit,Erreur des versions de dependances de certains packages,https://github.com/AxaFrance/react-toolkit/pull/947,2022-02-03T15:57:01Z,2022-02-08T10:41:51Z,0,2,MERGED
+react-toolkit,feat(Restitution): allow ReactNode in value,https://github.com/AxaFrance/react-toolkit/pull/946,2022-01-28T15:27:28Z,2022-02-24T14:38:23Z,8,1,MERGED
+react-toolkit,feat(Infos): allow ReactNode in word and definition infos,https://github.com/AxaFrance/react-toolkit/pull/965,2022-04-29T07:37:57Z,2022-07-22T13:26:50Z,3,3,MERGED
+react-toolkit,fix(Loader): remove inline css and refactor component,https://github.com/AxaFrance/react-toolkit/pull/963,2022-04-13T14:40:21Z,2022-04-29T08:51:22Z,3,1,MERGED
+react-toolkit,fix(modal): add classModifier prop,https://github.com/AxaFrance/react-toolkit/pull/960,2022-04-01T15:07:01Z,2022-04-25T13:56:43Z,2,4,MERGED
+react-toolkit,fix(Restitution): add classModifier to ArticleRestitution and univers…,https://github.com/AxaFrance/react-toolkit/pull/959,2022-04-01T14:55:34Z,2022-08-05T14:42:53Z,6,4,MERGED
+react-toolkit,feat(Summary): allow ReactNode in messages array,https://github.com/AxaFrance/react-toolkit/pull/976,2022-07-27T09:30:12Z,2022-08-05T13:26:30Z,1,1,MERGED
+react-toolkit,fix radio & checkbox modifiers,https://github.com/AxaFrance/react-toolkit/pull/972,2022-07-11T15:47:33Z,2022-07-22T12:59:58Z,4,1,MERGED
+react-toolkit,chore(deps): pin deps and update peerDeps for React 18,https://github.com/AxaFrance/react-toolkit/pull/969,2022-07-05T08:28:31Z,2022-07-12T08:49:51Z,0,1,MERGED
+react-toolkit,fix(Restitution): fixed HeaderRestitution's type missing classModifier,https://github.com/AxaFrance/react-toolkit/pull/988,2022-10-14T08:34:41Z,2022-11-18T14:54:53Z,0,1,MERGED
+react-toolkit,fix(SelectInput): id consistency problem when empty prop value,https://github.com/AxaFrance/react-toolkit/pull/987,2022-10-11T15:22:12Z,2022-11-18T15:42:21Z,0,1,MERGED
+react-toolkit,fix(table): update documentation for paging component,https://github.com/AxaFrance/react-toolkit/pull/986,2022-10-10T08:19:07Z,2022-11-18T14:57:15Z,1,1,MERGED
+react-toolkit,feat(Help): add help button content in props,https://github.com/AxaFrance/react-toolkit/pull/982,2022-08-30T13:16:56Z,2023-09-12T13:43:59Z,7,1,MERGED
+react-toolkit,feat(select): add optgroup support for component,https://github.com/AxaFrance/react-toolkit/pull/979,2022-08-16T16:29:49Z,2022-09-26T15:06:50Z,3,1,CLOSED
+react-toolkit,Fix typage withInput pour tous les composants Form,https://github.com/AxaFrance/react-toolkit/pull/978,2022-08-05T15:03:52Z,2022-09-13T14:59:04Z,1,1,MERGED
+react-toolkit,Fixed esm build for package all,https://github.com/AxaFrance/react-toolkit/pull/998,2022-12-13T14:56:55Z,2022-12-13T15:57:51Z,1,1,MERGED
+react-toolkit,feat(design): fix some issues when a lot of texts is present,https://github.com/AxaFrance/react-toolkit/pull/996,2022-11-30T15:59:24Z,2023-10-09T09:52:29Z,2,1,MERGED
+react-toolkit,fix(core): remove prop-types,https://github.com/AxaFrance/react-toolkit/pull/993,2022-11-17T09:56:37Z,2022-11-18T14:50:40Z,0,1,MERGED
+react-toolkit,[DateInput] Suppression des props déstructurées et pas utilisées,https://github.com/AxaFrance/react-toolkit/pull/990,2022-11-16T09:33:37Z,2022-11-18T14:51:38Z,0,1,MERGED
+react-toolkit,Refactor/delete empty components,https://github.com/AxaFrance/react-toolkit/pull/1025,2023-03-30T15:04:00Z,2023-09-11T14:29:36Z,0,3,MERGED
+react-toolkit,feat(client): add new category client component,https://github.com/AxaFrance/react-toolkit/pull/1023,2023-03-10T16:17:56Z,2023-09-05T13:53:37Z,0,2,CLOSED
+react-toolkit,docs: update badge README,https://github.com/AxaFrance/react-toolkit/pull/1019,2023-03-07T10:40:24Z,2023-03-15T07:32:18Z,0,1,MERGED
+react-toolkit,"fix(table): stories, items and mobile style",https://github.com/AxaFrance/react-toolkit/pull/1017,2023-03-01T09:48:01Z,2023-03-01T13:45:05Z,0,1,MERGED
+react-toolkit,feat(form)!: use native events for primitive components,https://github.com/AxaFrance/react-toolkit/pull/1016,2023-02-28T08:50:09Z,2024-08-09T12:43:09Z,3,1,MERGED
+react-toolkit,fix(collapse/accordion) : elements out of collapse,https://github.com/AxaFrance/react-toolkit/pull/1015,2023-02-20T16:35:14Z,2023-09-11T12:29:01Z,0,1,MERGED
+react-toolkit,fix(select): classModifier and forceDisplayPlaceholder,https://github.com/AxaFrance/react-toolkit/pull/1013,2023-02-15T13:41:20Z,2023-02-16T08:35:25Z,2,2,MERGED
+react-toolkit,feat(helpinfo): add new high level component,https://github.com/AxaFrance/react-toolkit/pull/1011,2023-02-10T15:23:04Z,2023-02-16T08:14:46Z,0,1,MERGED
+react-toolkit,refactor(hoc): rewrite and clean some HOCs,https://github.com/AxaFrance/react-toolkit/pull/1007,2023-01-26T11:25:19Z,2023-01-30T13:18:50Z,2,2,MERGED
+react-toolkit,fix(menu): mobile,https://github.com/AxaFrance/react-toolkit/pull/1005,2023-01-25T09:44:58Z,2023-01-27T12:49:24Z,0,1,MERGED
+react-toolkit,test(NumberInput): type a minus sign in a NumberInput,https://github.com/AxaFrance/react-toolkit/pull/1035,2023-05-30T13:07:00Z,2023-09-08T09:14:55Z,0,1,MERGED
+react-toolkit,fix(date): call onChange with a null value when the date input is cle…,https://github.com/AxaFrance/react-toolkit/pull/1032,2023-05-09T09:56:30Z,2024-04-11T09:51:45Z,2,1,CLOSED
+react-toolkit,Fix/url and organization name,https://github.com/AxaFrance/react-toolkit/pull/1031,2023-04-28T08:29:20Z,2023-09-08T08:47:49Z,4,3,MERGED
+react-toolkit,ci(sonar): change sonar action to 1.9.1,https://github.com/AxaFrance/react-toolkit/pull/1029,2023-04-24T09:59:39Z,2024-04-12T14:35:18Z,0,2,CLOSED
+react-toolkit,fix: rename axaguildev organization,https://github.com/AxaFrance/react-toolkit/pull/1028,2023-04-18T12:55:26Z,2023-04-24T09:31:18Z,0,3,MERGED
+react-toolkit,fix(accessibility): add role and aria-label property to input container and remove * for input required in aria-label,https://github.com/AxaFrance/react-toolkit/pull/1046,2023-07-31T12:50:31Z,2023-09-08T09:04:39Z,0,2,MERGED
+react-toolkit,fix(accessibility): add attribute required based on classModifier,https://github.com/AxaFrance/react-toolkit/pull/1045,2023-07-31T09:29:51Z,2023-09-12T09:04:51Z,5,4,MERGED
+react-toolkit,fix(accessibility): add role and aria-label property to input container and remove * for input required in aria-label,https://github.com/AxaFrance/react-toolkit/pull/1043,2023-07-25T13:07:34Z,2023-07-26T08:18:47Z,0,3,CLOSED
+react-toolkit,fix(accessibility): allow focus on radio inputs,https://github.com/AxaFrance/react-toolkit/pull/1040,2023-07-24T08:21:26Z,2023-09-11T12:58:30Z,1,1,MERGED
+react-toolkit,fix(File): file prototype properties are lost with spread operator,https://github.com/AxaFrance/react-toolkit/pull/1038,2023-07-19T09:55:23Z,2023-09-13T12:08:22Z,4,1,MERGED
+react-toolkit,docs(form-core): forceDisplayMessage readme,https://github.com/AxaFrance/react-toolkit/pull/1037,2023-07-05T13:40:36Z,2023-09-08T13:53:47Z,1,12,CLOSED
+react-toolkit,fix: exports dist folder,https://github.com/AxaFrance/react-toolkit/pull/1078,2023-10-25T12:45:38Z,2023-10-25T14:13:06Z,1,1,MERGED
+react-toolkit,fix: exports esm and cjs package,https://github.com/AxaFrance/react-toolkit/pull/1077,2023-10-18T13:57:51Z,2023-10-19T07:59:46Z,0,1,MERGED
+react-toolkit,fix: remove require of helpinfo css to stop causing crash from vite/vitest apps,https://github.com/AxaFrance/react-toolkit/pull/1075,2023-10-18T13:00:32Z,2023-10-18T13:23:25Z,0,1,MERGED
+react-toolkit,chore(release): publish v2.1.0-alpha.0 [skip ci],https://github.com/AxaFrance/react-toolkit/pull/1072,2023-10-12T13:29:33Z,2023-10-12T13:44:49Z,0,1,MERGED
+react-toolkit,fix(tabs): do not put title element attribute for tab component,https://github.com/AxaFrance/react-toolkit/pull/1070,2023-10-12T12:40:59Z,2023-10-12T13:10:28Z,0,1,MERGED
+react-toolkit,docs(form-core): forceDisplayMessage readme,https://github.com/AxaFrance/react-toolkit/pull/1069,2023-10-10T12:59:20Z,2023-10-10T13:31:11Z,0,1,MERGED
+react-toolkit,chore(release): publish v2.1.0-alpha.1 [skip ci],https://github.com/AxaFrance/react-toolkit/pull/1067,2023-09-15T07:05:10Z,2023-10-16T07:18:43Z,2,5,CLOSED
+react-toolkit,build(deps): upgrade postcss package,https://github.com/AxaFrance/react-toolkit/pull/1062,2023-09-11T09:20:16Z,2023-09-11T09:49:59Z,0,1,MERGED
+react-toolkit,fix(style): stop regenerating snapshot because of emotion,https://github.com/AxaFrance/react-toolkit/pull/1061,2023-09-11T08:54:40Z,2023-09-11T09:35:23Z,0,1,MERGED
+react-toolkit,docs(form-core): forceDisplayMessage readme,https://github.com/AxaFrance/react-toolkit/pull/1057,2023-09-08T13:59:59Z,2023-09-12T08:19:47Z,2,1,CLOSED
+react-toolkit,ci: fix storybook build for node 18,https://github.com/AxaFrance/react-toolkit/pull/1056,2023-09-07T14:38:20Z,2023-09-08T09:23:16Z,0,1,MERGED
+react-toolkit,fix(accessibility): use alert and aria-busy for loader,https://github.com/AxaFrance/react-toolkit/pull/1054,2023-08-30T14:10:40Z,2023-09-08T08:35:03Z,0,1,MERGED
+react-toolkit,fix(Infos): missing key in header infos,https://github.com/AxaFrance/react-toolkit/pull/1049,2023-08-23T08:43:58Z,2023-09-08T08:36:46Z,0,1,MERGED
+react-toolkit,Refactor/modal,https://github.com/AxaFrance/react-toolkit/pull/1048,2023-08-10T09:03:40Z,2024-08-06T15:39:07Z,3,1,MERGED
+react-toolkit,fix: use same style for aria-disabled buttons as disabled,https://github.com/AxaFrance/react-toolkit/pull/1099,2023-12-27T11:05:19Z,2024-01-02T12:38:15Z,0,1,MERGED
+react-toolkit,Feature/add id to th component,https://github.com/AxaFrance/react-toolkit/pull/1097,2023-12-22T11:13:30Z,2023-12-27T10:06:47Z,3,2,MERGED
+react-toolkit,fix(a11y): remove double aria-label,https://github.com/AxaFrance/react-toolkit/pull/1095,2023-12-11T14:33:30Z,2023-12-11T15:36:58Z,0,1,MERGED
+react-toolkit,docs: modify README for components's imports (don't use component folder inside toolkit-all),https://github.com/AxaFrance/react-toolkit/pull/1089,2023-11-27T14:58:24Z,2023-11-28T11:28:43Z,0,2,MERGED
+react-toolkit,fix(style): use dist folder instead of src for packages's css import in package all,https://github.com/AxaFrance/react-toolkit/pull/1088,2023-11-17T15:36:21Z,2023-11-17T15:57:52Z,0,1,MERGED
+react-toolkit,docs: add migration documentation to 2.1.x version,https://github.com/AxaFrance/react-toolkit/pull/1087,2023-11-16T15:49:20Z,2023-11-17T09:23:21Z,0,1,MERGED
+react-toolkit,fix: exports core's common folder,https://github.com/AxaFrance/react-toolkit/pull/1086,2023-11-16T15:25:22Z,2023-11-17T09:22:52Z,0,1,MERGED
+react-toolkit,chore(deps): add popperjs in package all,https://github.com/AxaFrance/react-toolkit/pull/1084,2023-11-07T15:01:34Z,2023-11-07T15:41:40Z,0,1,MERGED
+react-toolkit,feat(accessibility): add tabindex for select current tab with keyboard,https://github.com/AxaFrance/react-toolkit/pull/1082,2023-11-06T21:32:36Z,2023-11-07T13:54:01Z,0,1,CLOSED
+react-toolkit,fix: use cross-end for storybook build,https://github.com/AxaFrance/react-toolkit/pull/1129,2024-03-15T10:44:07Z,2024-04-10T14:43:08Z,0,4,MERGED
+react-toolkit,build: set storybook build script name in chromatic workflow,https://github.com/AxaFrance/react-toolkit/pull/1128,2024-03-14T13:10:44Z,2024-03-15T10:36:31Z,0,2,CLOSED
+react-toolkit,docs: update documentation and correction of misspelled words,https://github.com/AxaFrance/react-toolkit/pull/1126,2024-03-06T13:57:57Z,2024-03-08T15:42:19Z,0,1,MERGED
+react-toolkit,fix(date): update onChange to handle null value when date input is cleared,https://github.com/AxaFrance/react-toolkit/pull/1125,2024-03-05T13:50:13Z,2024-04-10T15:01:17Z,9,2,CLOSED
+react-toolkit,refactor : add rel to footer,https://github.com/AxaFrance/react-toolkit/pull/1122,2024-02-14T15:25:07Z,2024-03-12T14:40:49Z,0,1,MERGED
+react-toolkit,feat: mark switch as deprecated,https://github.com/AxaFrance/react-toolkit/pull/1120,2024-02-06T15:17:07Z,2024-02-06T15:27:59Z,0,1,MERGED
+react-toolkit,fix(form): change color for disabled step,https://github.com/AxaFrance/react-toolkit/pull/1119,2024-02-02T14:10:18Z,2024-02-05T08:50:08Z,2,2,MERGED
+react-toolkit,fix(form): add space between label and required visual indication (asterix),https://github.com/AxaFrance/react-toolkit/pull/1117,2024-02-01T09:18:18Z,2024-02-01T10:37:55Z,0,1,MERGED
+react-toolkit,fix(storybook): steps stories name,https://github.com/AxaFrance/react-toolkit/pull/1115,2024-01-29T14:09:23Z,2024-01-31T12:49:24Z,0,2,MERGED
+react-toolkit,fix(title): remove previous title css,https://github.com/AxaFrance/react-toolkit/pull/1114,2024-01-26T14:57:35Z,2024-01-29T08:09:02Z,0,1,MERGED
+react-toolkit,feat(header): make title-bar sticky by default,https://github.com/AxaFrance/react-toolkit/pull/1113,2024-01-24T10:23:06Z,2024-01-25T10:37:54Z,0,1,MERGED
+react-toolkit,fix(design): change title bar subtitle color,https://github.com/AxaFrance/react-toolkit/pull/1111,2024-01-24T09:40:32Z,2024-01-25T10:37:29Z,0,1,MERGED
+react-toolkit,feat(title): add property to change heading level and design modifications,https://github.com/AxaFrance/react-toolkit/pull/1109,2024-01-24T09:01:12Z,2024-01-25T10:37:04Z,1,1,MERGED
+react-toolkit,Fix/header style,https://github.com/AxaFrance/react-toolkit/pull/1107,2024-01-16T14:07:30Z,2024-01-18T08:53:21Z,2,4,MERGED
+react-toolkit,feat(all form-core): add FieldForm in form-core export file,https://github.com/AxaFrance/react-toolkit/pull/1104,2024-01-10T10:52:00Z,2024-01-16T13:15:53Z,0,1,MERGED
+react-toolkit,"fix(popover/help/helpinfo): help button contains two button, it desactivate the default onKeyPress ",https://github.com/AxaFrance/react-toolkit/pull/1103,2024-01-10T09:54:16Z,2024-01-16T13:27:50Z,0,7,MERGED
+react-toolkit,fix(collapse): stop to regenerate id at each rerender,https://github.com/AxaFrance/react-toolkit/pull/1102,2024-01-03T13:52:44Z,2024-01-16T13:16:19Z,2,1,MERGED
+react-toolkit,fix(button): use type selector to have a higher css specificity,https://github.com/AxaFrance/react-toolkit/pull/1100,2024-01-03T09:36:24Z,2024-01-03T09:45:28Z,0,1,MERGED
+react-toolkit,docs: add sass and bootstrap setup in the documentation,https://github.com/AxaFrance/react-toolkit/pull/1191,2024-05-31T10:19:01Z,2024-05-31T13:36:56Z,0,1,MERGED
+react-toolkit,fix(Select): remove select option when defaultValue is defined,https://github.com/AxaFrance/react-toolkit/pull/1189,2024-05-28T07:55:15Z,2024-07-04T09:42:19Z,0,1,MERGED
+react-toolkit,Remove InputConstants,https://github.com/AxaFrance/react-toolkit/pull/1185,2024-04-25T09:05:55Z,2024-05-13T13:39:19Z,0,1,MERGED
+react-toolkit,refactor(Header): Change title to HeaderTitle,https://github.com/AxaFrance/react-toolkit/pull/1184,2024-04-15T15:17:24Z,2024-07-17T09:11:21Z,0,1,MERGED
+react-toolkit,ci: fix sonar action version,https://github.com/AxaFrance/react-toolkit/pull/1182,2024-04-12T14:34:49Z,2024-07-17T09:11:49Z,0,1,MERGED
+react-toolkit,fix(modal): adapt modal z-index to overlap sticky title-bar,https://github.com/AxaFrance/react-toolkit/pull/1180,2024-04-12T11:28:18Z,2024-04-12T14:11:37Z,0,1,MERGED
+react-toolkit,fix(table): use border instead of box-shadow to set th border,https://github.com/AxaFrance/react-toolkit/pull/1178,2024-04-11T13:03:45Z,2024-08-06T14:53:09Z,0,1,MERGED
+react-toolkit,fix(restitution): change restitution header height,https://github.com/AxaFrance/react-toolkit/pull/1176,2024-04-11T12:12:33Z,2024-08-06T14:55:22Z,0,1,MERGED
+react-toolkit,feat(title): augment title bar font-weight (from normal to semibold),https://github.com/AxaFrance/react-toolkit/pull/1174,2024-04-11T09:55:38Z,2024-08-06T15:12:31Z,0,1,MERGED
+react-toolkit,Bugfix/date null value,https://github.com/AxaFrance/react-toolkit/pull/1173,2024-04-10T15:01:37Z,2024-04-11T09:48:31Z,0,2,MERGED
+react-toolkit,fix: issue template prettier,https://github.com/AxaFrance/react-toolkit/pull/1171,2024-04-10T12:16:03Z,2024-04-10T12:16:19Z,0,1,MERGED
+react-toolkit,Chore/issue template,https://github.com/AxaFrance/react-toolkit/pull/1138,2024-04-09T14:50:02Z,2024-04-09T14:50:59Z,0,2,MERGED
+react-toolkit,Chore/issue template,https://github.com/AxaFrance/react-toolkit/pull/1137,2024-04-09T14:43:24Z,2024-04-09T14:44:20Z,0,4,MERGED
+react-toolkit,Init template de vérification d'accessibilité des composants,https://github.com/AxaFrance/react-toolkit/pull/1136,2024-04-08T14:24:47Z,2024-04-09T14:34:31Z,8,7,MERGED
+react-toolkit,WIP: Feature/update react and storybook,https://github.com/AxaFrance/react-toolkit/pull/1134,2024-04-05T09:56:57Z,2024-04-05T10:07:29Z,0,2,CLOSED
+react-toolkit,feat: mark old step form design as deprecated,https://github.com/AxaFrance/react-toolkit/pull/1195,2024-06-28T09:09:16Z,2024-07-17T09:10:31Z,0,1,MERGED
+react-toolkit,fix(radio): pass disabled attribute to input,https://github.com/AxaFrance/react-toolkit/pull/1209,2024-10-15T15:18:04Z,2024-10-16T08:12:42Z,0,1,MERGED
+react-toolkit,ci: update node version for release pipeline,https://github.com/AxaFrance/react-toolkit/pull/1207,2024-10-08T14:25:29Z,2024-10-08T14:34:28Z,0,1,MERGED
+react-toolkit,docs(migration): fix close dialog function,https://github.com/AxaFrance/react-toolkit/pull/1206,2024-10-08T13:46:29Z,2024-10-08T14:34:12Z,0,1,MERGED
+react-toolkit,fix(form): field required indication based on the label instead of the group,https://github.com/AxaFrance/react-toolkit/pull/1204,2024-09-18T12:52:58Z,2024-09-18T13:16:20Z,0,1,MERGED
+react-toolkit,docs: add migration documentation for 3.0.0 version,https://github.com/AxaFrance/react-toolkit/pull/1202,2024-09-17T08:38:13Z,2024-10-04T08:37:42Z,1,2,MERGED
+react-toolkit,feat(form)!: use native events for primitive components,https://github.com/AxaFrance/react-toolkit/pull/1201,2024-09-09T14:12:16Z,2024-09-13T13:29:18Z,0,1,MERGED
+react-toolkit,fix!: typing issues with some input fields,https://github.com/AxaFrance/react-toolkit/pull/1199,2024-09-03T09:35:11Z,2024-09-04T07:15:48Z,0,1,CLOSED
+react-toolkit,Release/3.0.0,https://github.com/AxaFrance/react-toolkit/pull/1197,2024-08-09T12:49:25Z,2024-09-05T09:46:50Z,0,0,CLOSED
+react-toolkit,fix: add missing exports in all package,https://github.com/AxaFrance/react-toolkit/pull/1210,2024-11-14T10:54:54Z,2024-11-14T13:52:55Z,0,1,MERGED

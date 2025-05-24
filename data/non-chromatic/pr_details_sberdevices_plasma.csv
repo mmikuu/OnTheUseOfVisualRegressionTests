@@ -1,0 +1,665 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+plasma,Генерация токенов и вычисление device scale,https://github.com/sberdevices/plasma/pull/36,2020-10-30T18:34:06Z,2020-11-05T11:46:02Z,11,3,MERGED
+plasma,Добавить шаг prepare в публикацию пакетов,https://github.com/sberdevices/plasma/pull/34,2020-10-30T11:58:11Z,2020-10-30T12:32:10Z,2,2,MERGED
+plasma,feat(ui): Переход на общий фокус-миксин,https://github.com/sberdevices/plasma/pull/33,2020-10-30T11:28:09Z,2020-10-30T15:53:47Z,4,1,MERGED
+plasma,"Убраны зависимости от приватных пакетов, заменен logo",https://github.com/sberdevices/plasma/pull/32,2020-10-30T09:43:57Z,2020-10-30T12:04:42Z,3,3,MERGED
+plasma,fix: add bootstrap in deploy script [skip ci],https://github.com/sberdevices/plasma/pull/31,2020-10-29T11:24:27Z,2020-10-29T12:15:26Z,1,1,MERGED
+plasma,Добавлен скрипт и конфиг для деплоя документации,https://github.com/sberdevices/plasma/pull/30,2020-10-29T09:53:05Z,2020-10-29T11:02:49Z,1,3,MERGED
+plasma,feat(ui): переработаны Button и ActionButton,https://github.com/sberdevices/plasma/pull/29,2020-10-29T09:26:09Z,2020-10-29T13:28:31Z,0,1,MERGED
+plasma,feat(ui): add Cell component,https://github.com/sberdevices/plasma/pull/28,2020-10-28T19:48:25Z,2020-11-10T13:49:57Z,2,1,CLOSED
+plasma,ci: add gh-pages action [skip ci],https://github.com/sberdevices/plasma/pull/27,2020-10-28T10:53:06Z,2020-10-28T10:55:02Z,0,1,MERGED
+plasma,"Добавлен eslint в CI, фикс линтовых ошибок в пакетах",https://github.com/sberdevices/plasma/pull/26,2020-10-28T06:34:28Z,2020-10-30T15:33:21Z,6,9,MERGED
+plasma,feat(ui): использование Button beforeFocusOutline,https://github.com/sberdevices/plasma/pull/22,2020-10-27T15:25:36Z,2020-10-28T11:41:35Z,0,1,MERGED
+plasma,fix(ui): Button-clear:focus background,https://github.com/sberdevices/plasma/pull/20,2020-10-27T14:24:00Z,2020-10-28T13:20:00Z,1,1,CLOSED
+plasma,Выносим общие стили views из Button,https://github.com/sberdevices/plasma/pull/17,2020-10-27T11:14:59Z,2020-10-27T13:44:24Z,0,1,MERGED
+plasma,Добавить иконки для новостей,https://github.com/sberdevices/plasma/pull/16,2020-10-27T09:34:20Z,2020-10-27T10:15:53Z,0,1,MERGED
+plasma,Create CONTRIBUTING.md [skip ci],https://github.com/sberdevices/plasma/pull/15,2020-10-27T08:51:57Z,2020-10-29T05:07:26Z,2,2,MERGED
+plasma,Общий фокус-миксин,https://github.com/sberdevices/plasma/pull/11,2020-10-26T21:40:49Z,2020-10-30T11:04:02Z,8,1,MERGED
+plasma,test: test commit,https://github.com/sberdevices/plasma/pull/10,2020-10-26T21:18:31Z,2020-10-26T21:22:38Z,0,1,CLOSED
+plasma,ci: add chromatic to ui,https://github.com/sberdevices/plasma/pull/9,2020-10-26T18:49:22Z,2020-10-26T21:13:21Z,0,1,MERGED
+plasma,TEST CI,https://github.com/sberdevices/plasma/pull/8,2020-10-26T15:22:52Z,2020-10-26T21:17:22Z,0,2,CLOSED
+plasma,fix: license,https://github.com/sberdevices/plasma/pull/7,2020-10-26T15:07:37Z,2020-10-26T15:15:57Z,0,1,MERGED
+plasma,fix(ui): url to repo,https://github.com/sberdevices/plasma/pull/6,2020-10-26T14:33:43Z,2020-10-26T14:51:52Z,0,1,MERGED
+plasma,TEST CI,https://github.com/sberdevices/plasma/pull/5,2020-10-26T13:44:10Z,2020-10-26T17:57:44Z,0,1,CLOSED
+plasma,ci: fix deps,https://github.com/sberdevices/plasma/pull/4,2020-10-26T13:41:09Z,2020-10-26T14:00:37Z,1,4,MERGED
+plasma,Переводим Grid на абсолютные размеры,https://github.com/sberdevices/plasma/pull/3,2020-10-26T13:03:40Z,2020-10-27T09:48:55Z,1,1,MERGED
+plasma,ci: fix actions,https://github.com/sberdevices/plasma/pull/2,2020-10-26T13:00:36Z,2020-10-26T13:11:26Z,0,1,MERGED
+plasma,Изменения для Card (и немного для Button и Badge),https://github.com/sberdevices/plasma/pull/1,2020-10-26T12:45:08Z,2020-10-27T11:01:37Z,3,5,MERGED
+plasma,ci: рефакторинг билда документации,https://github.com/sberdevices/plasma/pull/134,2020-12-30T12:19:47Z,2021-01-11T08:47:11Z,2,1,MERGED
+plasma,feat(plasma-icons): новые иконки,https://github.com/sberdevices/plasma/pull/133,2020-12-30T08:52:12Z,2020-12-30T10:48:27Z,2,1,MERGED
+plasma,fix(ui): Типизация пропсов Button,https://github.com/sberdevices/plasma/pull/132,2020-12-28T19:02:54Z,2020-12-29T15:10:31Z,2,1,MERGED
+plasma,feat(ui): Определение/Увеличение центрального элемента в Carousel,https://github.com/sberdevices/plasma/pull/131,2020-12-28T16:24:19Z,2020-12-30T14:08:13Z,10,1,MERGED
+plasma,feat(ui): Определение/Увеличение центрального элемента в Carousel (2),https://github.com/sberdevices/plasma/pull/130,2020-12-28T16:21:15Z,2020-12-28T16:22:11Z,0,1,CLOSED
+plasma,feat(ui): проброс реф в компонент Carousel,https://github.com/sberdevices/plasma/pull/129,2020-12-28T15:16:44Z,2020-12-29T10:39:01Z,1,1,MERGED
+plasma,fix: ошибка при работе auto-плагина,https://github.com/sberdevices/plasma/pull/128,2020-12-25T12:21:46Z,2020-12-25T12:32:57Z,1,1,MERGED
+plasma,ci: добавлен билд документации,https://github.com/sberdevices/plasma/pull/127,2020-12-25T12:02:14Z,2020-12-29T13:03:02Z,8,3,MERGED
+plasma,feat(plasma-icons): добавлена иконка feedback,https://github.com/sberdevices/plasma/pull/126,2020-12-23T10:17:27Z,2020-12-25T07:19:22Z,1,1,MERGED
+plasma,feat(ui): добавлен компонент Toast,https://github.com/sberdevices/plasma/pull/125,2020-12-23T07:23:36Z,2020-12-28T09:13:09Z,4,4,MERGED
+plasma,Убраны rem-ы из html svg,https://github.com/sberdevices/plasma/pull/122,2020-12-18T11:13:37Z,2020-12-21T09:14:41Z,2,2,MERGED
+plasma,Обновление токенов плазмы,https://github.com/sberdevices/plasma/pull/121,2020-12-18T10:36:19Z,2020-12-21T10:45:46Z,8,3,MERGED
+plasma,Обновлен readme для иконок,https://github.com/sberdevices/plasma/pull/120,2020-12-17T09:58:54Z,2020-12-18T07:31:52Z,1,1,MERGED
+plasma,feat(ui): Определение/Увеличение центрального элемента в Carousel,https://github.com/sberdevices/plasma/pull/119,2020-12-15T15:58:54Z,2020-12-28T16:20:24Z,1,1,CLOSED
+plasma,feat: добавлен auto плагин update-deps,https://github.com/sberdevices/plasma/pull/117,2020-12-14T11:18:06Z,2020-12-23T07:36:27Z,2,1,MERGED
+plasma,Добавлены иконки Info и Share,https://github.com/sberdevices/plasma/pull/115,2020-12-10T06:17:41Z,2020-12-11T07:07:06Z,1,1,MERGED
+plasma,feat(ui): Компоненты DatePicker & TimePicker,https://github.com/sberdevices/plasma/pull/114,2020-12-05T13:30:26Z,2021-02-03T10:37:11Z,19,1,MERGED
+plasma,fix(ui): Исправлен отступ от иконки 4рх в Badge,https://github.com/sberdevices/plasma/pull/113,2020-12-03T09:25:13Z,2020-12-03T10:49:35Z,1,1,MERGED
+plasma,"Доработка Header, Carousel, DeviceDetection и пр.",https://github.com/sberdevices/plasma/pull/112,2020-12-03T08:47:39Z,2020-12-15T14:15:32Z,2,6,MERGED
+plasma,TRIVIAL — Update README.md,https://github.com/sberdevices/plasma/pull/105,2020-11-30T12:11:52Z,2020-11-30T12:42:00Z,1,1,MERGED
+plasma,"Доработки сетки, карусели, карточки и прочих компонентов",https://github.com/sberdevices/plasma/pull/100,2020-11-27T13:01:55Z,2020-12-10T12:11:16Z,1,4,MERGED
+plasma,ci: disable lerna check for user auth,https://github.com/sberdevices/plasma/pull/94,2020-11-26T22:30:16Z,2020-11-26T22:53:51Z,2,1,MERGED
+plasma,Tooltip: реализовать компонент,https://github.com/sberdevices/plasma/pull/93,2020-11-26T21:38:48Z,2020-12-02T09:57:29Z,4,3,CLOSED
+plasma,Стандартные атрибуты для компонентов,https://github.com/sberdevices/plasma/pull/90,2020-11-25T09:36:52Z,2020-11-27T12:10:49Z,5,3,MERGED
+plasma,"Документация и рефакторинг для mixins, hocs, utils",https://github.com/sberdevices/plasma/pull/88,2020-11-24T10:02:10Z,2020-11-24T11:37:09Z,3,6,MERGED
+plasma,Добавлен компонент Notification,https://github.com/sberdevices/plasma/pull/87,2020-11-24T06:58:38Z,2021-04-19T18:58:41Z,2,2,CLOSED
+plasma,fix(ui): Исправлена сториз card detail,https://github.com/sberdevices/plasma/pull/86,2020-11-23T14:56:13Z,2020-11-24T08:45:40Z,1,1,MERGED
+plasma,feat(ui): Набор компонентов Skeleton,https://github.com/sberdevices/plasma/pull/84,2020-11-23T13:01:24Z,2020-12-03T13:18:49Z,32,1,MERGED
+plasma,fix(ui): удалить CardPrice из поставки,https://github.com/sberdevices/plasma/pull/82,2020-11-23T10:34:27Z,2020-11-23T11:38:10Z,1,1,MERGED
+plasma,docs: Пример смены персонажа,https://github.com/sberdevices/plasma/pull/80,2020-11-23T09:37:30Z,2020-11-23T12:32:05Z,10,2,MERGED
+plasma,docs: change assistant theme example,https://github.com/sberdevices/plasma/pull/79,2020-11-22T21:50:44Z,2020-11-23T12:32:56Z,3,1,CLOSED
+plasma,feat(ui): Пресет quantity для Badge,https://github.com/sberdevices/plasma/pull/78,2020-11-20T10:37:39Z,2020-11-20T12:55:15Z,1,1,MERGED
+plasma,"feat(ui): Переработан TextField, отвязан от Input",https://github.com/sberdevices/plasma/pull/77,2020-11-19T13:47:15Z,2020-11-20T12:29:50Z,3,1,MERGED
+plasma,"Добавлены новые иконки, создан пакет plasma-icons ",https://github.com/sberdevices/plasma/pull/76,2020-11-19T07:08:44Z,2020-11-24T08:20:43Z,9,11,MERGED
+plasma,feat(ui): Размер xs для Stepper,https://github.com/sberdevices/plasma/pull/75,2020-11-18T14:06:46Z,2020-11-20T12:52:51Z,1,1,MERGED
+plasma,feat(ui): Компонент Tabs,https://github.com/sberdevices/plasma/pull/74,2020-11-13T16:05:48Z,2020-11-17T12:48:29Z,6,1,MERGED
+plasma,"feat(ui): Горизонтальная карусель с поддержкой scroll, grid",https://github.com/sberdevices/plasma/pull/73,2020-11-13T09:27:43Z,2020-11-20T08:34:34Z,2,1,MERGED
+plasma,"UI: добавлены index.ts, изменены импорты иконок внутри библиотеки",https://github.com/sberdevices/plasma/pull/71,2020-11-12T12:27:14Z,2020-11-16T14:06:36Z,1,6,MERGED
+plasma,"fix(ui): Удалено свойство color, вместо view",https://github.com/sberdevices/plasma/pull/70,2020-11-12T09:43:19Z,2020-11-13T10:43:20Z,1,1,MERGED
+plasma,Fix create issue link,https://github.com/sberdevices/plasma/pull/69,2020-11-11T17:20:52Z,2020-11-11T18:34:15Z,1,1,MERGED
+plasma,feat(ui): Переработан Header под rem-ы,https://github.com/sberdevices/plasma/pull/68,2020-11-11T15:35:21Z,2020-11-19T10:54:55Z,17,6,MERGED
+plasma,"Добавить бейджики, поправить установку из npm тега @rc",https://github.com/sberdevices/plasma/pull/66,2020-11-11T12:51:38Z,2020-11-11T12:59:42Z,1,1,MERGED
+plasma,Скалирование кнопки при действии,https://github.com/sberdevices/plasma/pull/65,2020-11-11T12:31:56Z,2020-11-11T15:36:15Z,2,1,MERGED
+plasma,docs: добавить описание импортов,https://github.com/sberdevices/plasma/pull/64,2020-11-11T10:27:32Z,2020-11-11T12:20:54Z,1,3,MERGED
+plasma,Доработана документация для Button и Badge,https://github.com/sberdevices/plasma/pull/63,2020-11-11T09:54:01Z,2020-11-11T12:23:42Z,2,3,MERGED
+plasma,build: запускать сборку доки с ts3.5.3,https://github.com/sberdevices/plasma/pull/62,2020-11-11T09:02:07Z,2020-11-11T09:22:00Z,1,2,MERGED
+plasma,ci: Добавлен шаг сборки beta(rc) ветки,https://github.com/sberdevices/plasma/pull/61,2020-11-11T08:44:37Z,2020-11-11T08:57:14Z,1,1,MERGED
+plasma,feat(ui): Доработана докуменация по Card,https://github.com/sberdevices/plasma/pull/58,2020-11-10T14:50:08Z,2020-11-11T09:25:16Z,2,1,MERGED
+plasma,Рефакторинг иконок,https://github.com/sberdevices/plasma/pull/57,2020-11-10T14:35:19Z,2020-11-10T17:26:24Z,1,7,MERGED
+plasma,ci: Добавлен шаг сборки beta(rc) ветки,https://github.com/sberdevices/plasma/pull/53,2020-11-10T14:24:12Z,2020-11-11T09:01:34Z,0,1,CLOSED
+plasma,feat(ui): Добавлена карточка в сторибук и докзи,https://github.com/sberdevices/plasma/pull/51,2020-11-10T13:55:14Z,2020-11-10T14:14:48Z,3,1,MERGED
+plasma,Update README.md,https://github.com/sberdevices/plasma/pull/48,2020-11-10T13:16:31Z,2020-11-10T13:47:02Z,1,3,MERGED
+plasma,Добавить TextBox & Cell,https://github.com/sberdevices/plasma/pull/47,2020-11-10T10:30:51Z,2020-11-10T11:48:15Z,1,2,MERGED
+plasma,Обновить документацию и почистить репозиторий,https://github.com/sberdevices/plasma/pull/46,2020-11-10T05:43:23Z,2020-11-10T13:10:56Z,1,5,MERGED
+plasma,Предрелизные исправления,https://github.com/sberdevices/plasma/pull/45,2020-11-09T15:39:38Z,2020-11-10T08:19:46Z,4,6,MERGED
+plasma,feat(icon): добавить размерную сетку,https://github.com/sberdevices/plasma/pull/44,2020-11-09T10:13:38Z,2020-11-10T13:50:19Z,2,3,CLOSED
+plasma,feat(ui): В сторибук заменены вьюпорты на родные для сетки,https://github.com/sberdevices/plasma/pull/43,2020-11-05T13:53:45Z,2020-11-09T08:38:43Z,2,2,MERGED
+plasma,Добавлен пакет plasma-int,https://github.com/sberdevices/plasma/pull/42,2020-11-05T11:54:18Z,2020-11-10T13:49:18Z,1,1,CLOSED
+plasma,NOTFORMERGE: Master's storybook for comparison purposes,https://github.com/sberdevices/plasma/pull/40,2020-11-05T09:06:47Z,2020-11-10T13:50:33Z,1,1,CLOSED
+plasma,chore(ui): add missing deps to useCb,https://github.com/sberdevices/plasma/pull/38,2020-11-03T10:06:22Z,2020-11-03T12:35:10Z,2,1,MERGED
+plasma,Добавлено кэширование node_modules в ci,https://github.com/sberdevices/plasma/pull/37,2020-11-02T11:04:08Z,2020-11-02T11:38:58Z,1,1,MERGED
+plasma,chore: Fix packages versions,https://github.com/sberdevices/plasma/pull/272,2021-03-31T12:09:45Z,2021-03-31T15:08:17Z,2,1,MERGED
+plasma,fix(ui): Использование div вместо img в компоненте Image,https://github.com/sberdevices/plasma/pull/271,2021-03-31T10:12:39Z,2021-04-13T07:42:55Z,5,1,CLOSED
+plasma,feat: Grid: moved to plasma-core,https://github.com/sberdevices/plasma/pull/270,2021-03-30T14:33:35Z,2021-04-01T19:07:13Z,8,1,MERGED
+plasma,feat(plasma-ui): TimePicker: correct min and max behavior,https://github.com/sberdevices/plasma/pull/269,2021-03-30T12:24:14Z,2021-04-07T08:54:19Z,10,4,MERGED
+plasma,feat(plasma-ui): add shortMonth to DatePicker,https://github.com/sberdevices/plasma/pull/267,2021-03-29T11:45:02Z,2021-05-17T10:59:50Z,8,1,CLOSED
+plasma,List of fixes,https://github.com/sberdevices/plasma/pull/265,2021-03-26T15:18:14Z,2021-03-30T07:35:29Z,8,5,MERGED
+plasma,docs: fix broken links,https://github.com/sberdevices/plasma/pull/264,2021-03-26T07:18:48Z,2021-03-28T14:36:00Z,1,1,MERGED
+plasma,fix(ui): Фикс компонента бегущей строки,https://github.com/sberdevices/plasma/pull/261,2021-03-24T15:14:50Z,2021-03-25T09:02:39Z,2,1,MERGED
+plasma,chore: Fix packages versions,https://github.com/sberdevices/plasma/pull/259,2021-03-23T14:27:46Z,2021-03-24T07:48:17Z,3,1,MERGED
+plasma,"fix(ui): Переименовать название компонента для бегущей строки, фикс и…",https://github.com/sberdevices/plasma/pull/258,2021-03-23T10:14:50Z,2021-03-23T11:50:06Z,3,1,MERGED
+plasma,TRIVIAL – chore: test chroma,https://github.com/sberdevices/plasma/pull/257,2021-03-22T15:39:33Z,2021-03-23T07:45:42Z,1,1,CLOSED
+plasma,feat(ui): Добавлена бегущая строка,https://github.com/sberdevices/plasma/pull/256,2021-03-19T14:27:39Z,2021-03-22T15:11:57Z,12,1,MERGED
+plasma,Объединенный Storybook,https://github.com/sberdevices/plasma/pull/255,2021-03-19T10:08:23Z,2021-03-25T08:10:42Z,7,3,MERGED
+plasma,feat(plasma-ui): esm build,https://github.com/sberdevices/plasma/pull/251,2021-03-16T07:43:23Z,2021-03-29T10:25:07Z,9,3,MERGED
+plasma,виртуализация списков в карусели,https://github.com/sberdevices/plasma/pull/250,2021-03-15T15:01:43Z,2021-10-08T11:28:10Z,4,1,CLOSED
+plasma,feat: Button: Code separation for easier composition and styling,https://github.com/sberdevices/plasma/pull/249,2021-03-15T12:58:51Z,2021-03-29T09:44:09Z,16,1,MERGED
+plasma,fix(plasma-ui): circular dependency,https://github.com/sberdevices/plasma/pull/247,2021-03-15T08:26:04Z,2021-03-15T09:12:30Z,1,1,MERGED
+plasma,fix(plasma-ui): circular dependency,https://github.com/sberdevices/plasma/pull/246,2021-03-15T08:05:34Z,2021-03-15T08:26:23Z,0,1,CLOSED
+plasma,Переход токенов на общие механизмы,https://github.com/sberdevices/plasma/pull/243,2021-03-05T16:06:19Z,2021-03-16T12:20:35Z,4,3,MERGED
+plasma,feat(ui): export Ratio type,https://github.com/sberdevices/plasma/pull/241,2021-03-05T08:33:06Z,2021-03-09T11:13:43Z,2,1,MERGED
+plasma,"Доработки кнопок, документация для миксинов",https://github.com/sberdevices/plasma/pull/240,2021-03-03T10:54:14Z,2021-03-04T10:04:58Z,1,4,MERGED
+plasma,fix(plasma-ui): CardMedia has children,https://github.com/sberdevices/plasma/pull/239,2021-03-03T10:23:19Z,2021-03-05T06:34:14Z,3,1,MERGED
+plasma,chore: Bump independent versions,https://github.com/sberdevices/plasma/pull/238,2021-03-03T10:19:57Z,2021-03-03T10:30:24Z,3,1,MERGED
+plasma,feat: добавил поддержку ref для кнопок у Stepper,https://github.com/sberdevices/plasma/pull/237,2021-03-03T09:26:57Z,2021-03-04T08:07:25Z,6,1,MERGED
+plasma,fix: Возвращен экспорт CardPrice,https://github.com/sberdevices/plasma/pull/236,2021-03-03T09:23:41Z,2021-03-03T10:17:12Z,1,1,MERGED
+plasma,chore(ui): Bump plasma-core version to rc.1,https://github.com/sberdevices/plasma/pull/233,2021-02-26T12:35:38Z,2021-02-26T13:28:59Z,1,1,MERGED
+plasma,fix: Add white Spinner,https://github.com/sberdevices/plasma/pull/230,2021-02-26T09:42:18Z,2021-03-01T08:52:37Z,4,1,MERGED
+plasma,Перенос компонентов в core / web компоненты,https://github.com/sberdevices/plasma/pull/229,2021-02-26T07:46:12Z,2021-03-03T10:03:53Z,19,7,MERGED
+plasma,"fix: Миксины skeleton и roundness, зависимость от core",https://github.com/sberdevices/plasma/pull/227,2021-02-25T08:27:55Z,2021-02-25T09:21:36Z,4,1,MERGED
+plasma,Cleanup eslintrc,https://github.com/sberdevices/plasma/pull/226,2021-02-24T22:42:56Z,2021-03-02T09:45:27Z,1,1,MERGED
+plasma,feat(ui): Добавлено правило переноса строк для типографики,https://github.com/sberdevices/plasma/pull/225,2021-02-24T12:09:20Z,2021-02-24T14:06:43Z,1,1,MERGED
+plasma,docs: update README,https://github.com/sberdevices/plasma/pull/224,2021-02-24T08:01:37Z,2021-02-25T08:27:13Z,1,1,MERGED
+plasma,build: new story docs,https://github.com/sberdevices/plasma/pull/222,2021-02-19T11:09:03Z,2021-02-19T16:20:33Z,5,3,MERGED
+plasma,TEST  chromatic,https://github.com/sberdevices/plasma/pull/221,2021-02-19T10:25:44Z,2021-02-19T11:09:25Z,0,3,CLOSED
+plasma,feat(ui): add html autofocus in withAutoFocus hoc,https://github.com/sberdevices/plasma/pull/220,2021-02-19T07:19:28Z,2021-02-20T11:30:30Z,4,1,CLOSED
+plasma,feat(ui): add html autofocus in withAutoFocus hoc,https://github.com/sberdevices/plasma/pull/219,2021-02-18T16:42:56Z,2021-02-19T07:19:49Z,2,1,CLOSED
+plasma,Библиотека @sberdevices/plasma-core,https://github.com/sberdevices/plasma/pull/218,2021-02-18T13:50:55Z,2021-02-20T12:17:15Z,11,3,MERGED
+plasma,Доработки компонентов,https://github.com/sberdevices/plasma/pull/212,2021-02-12T11:57:37Z,2021-02-17T08:44:30Z,9,9,MERGED
+plasma,feat(ui): Определение TV,https://github.com/sberdevices/plasma/pull/211,2021-02-11T09:23:08Z,2021-02-20T12:34:59Z,2,1,MERGED
+plasma,feat(ui): Компонент Price,https://github.com/sberdevices/plasma/pull/210,2021-02-11T08:52:44Z,2021-02-15T08:20:14Z,4,1,MERGED
+plasma,fix(ui): Исправлены недоработки компонентов в светлой теме,https://github.com/sberdevices/plasma/pull/209,2021-02-10T16:26:47Z,2021-02-12T13:12:57Z,3,1,MERGED
+plasma,feat(plasma-icons): убрать фильтры,https://github.com/sberdevices/plasma/pull/207,2021-02-10T13:07:27Z,2021-02-10T16:56:48Z,1,1,MERGED
+plasma,"chore: Актуализирован README.md, исправлен пример использования",https://github.com/sberdevices/plasma/pull/201,2021-02-09T07:52:51Z,2021-02-09T08:32:13Z,1,1,MERGED
+plasma,fix(ui): Поправлены импорты степпера,https://github.com/sberdevices/plasma/pull/197,2021-02-04T11:58:09Z,2021-02-04T12:31:07Z,2,1,MERGED
+plasma,fix(ui): detection of portal,https://github.com/sberdevices/plasma/pull/194,2021-02-04T08:26:24Z,2021-02-04T13:13:08Z,4,2,MERGED
+plasma,feat(ui): ActionButton ref,https://github.com/sberdevices/plasma/pull/192,2021-02-03T10:41:00Z,2021-02-09T12:30:37Z,3,1,MERGED
+plasma,feat(ui): Компонент PaginationDots,https://github.com/sberdevices/plasma/pull/190,2021-02-03T10:27:16Z,2021-02-09T13:43:28Z,10,1,MERGED
+plasma,"Компонент Image, CardMedia placeholder",https://github.com/sberdevices/plasma/pull/189,2021-02-02T20:42:33Z,2021-02-17T14:50:44Z,7,4,MERGED
+plasma,feat(ui): Компонент Switch,https://github.com/sberdevices/plasma/pull/188,2021-02-02T14:05:32Z,2021-02-06T10:40:12Z,8,1,MERGED
+plasma,feat(ui): Добавлен параметр scrollAlign для карусели,https://github.com/sberdevices/plasma/pull/187,2021-02-02T10:15:51Z,2021-02-03T21:55:32Z,9,1,MERGED
+plasma,"fix(ui): исправлены типографика, отступы в ячейке",https://github.com/sberdevices/plasma/pull/184,2021-01-31T21:25:21Z,2021-04-19T18:58:47Z,2,1,CLOSED
+plasma,"fix(ui): Исправлена невозможность передать -1 index в Carousel, #182",https://github.com/sberdevices/plasma/pull/183,2021-01-29T14:23:16Z,2021-01-29T19:45:30Z,1,1,MERGED
+plasma,docs(ui): Документация перенесена в Storybook,https://github.com/sberdevices/plasma/pull/180,2021-01-29T10:22:35Z,2021-02-08T16:22:39Z,82,4,MERGED
+plasma,Add principles.md,https://github.com/sberdevices/plasma/pull/179,2021-01-29T08:45:47Z,2021-03-05T10:18:27Z,3,1,MERGED
+plasma,"docs(ui): Дополнена документация для Grid, исправлено #166",https://github.com/sberdevices/plasma/pull/178,2021-01-28T10:33:38Z,2021-03-01T08:51:45Z,0,1,CLOSED
+plasma,feat(ui): Добавлен пример с вертикальной каруселью,https://github.com/sberdevices/plasma/pull/175,2021-01-27T08:27:20Z,2021-01-28T09:04:36Z,2,2,MERGED
+plasma,Приведены типы пропсов в порядок,https://github.com/sberdevices/plasma/pull/174,2021-01-26T14:42:03Z,2021-02-10T14:00:34Z,20,3,MERGED
+plasma,fix(ui): Исправлена прокрутка для вертикальных каруселек,https://github.com/sberdevices/plasma/pull/173,2021-01-26T14:29:07Z,2021-01-28T09:03:07Z,3,2,CLOSED
+plasma,fix(ui): Header missing exports,https://github.com/sberdevices/plasma/pull/169,2021-01-26T08:50:08Z,2021-01-27T07:40:44Z,1,1,MERGED
+plasma,Раздел MobileShowcase,https://github.com/sberdevices/plasma/pull/167,2021-01-25T20:45:01Z,2021-02-17T14:52:40Z,15,5,MERGED
+plasma,feat(ui): Компоненты Checkbox & Radiobox,https://github.com/sberdevices/plasma/pull/162,2021-01-20T15:59:38Z,2021-01-28T08:31:12Z,17,2,MERGED
+plasma,test(ui): убрана динамическая png из документации Card,https://github.com/sberdevices/plasma/pull/160,2021-01-20T10:28:14Z,2021-01-21T05:56:32Z,3,2,MERGED
+plasma,Add tokens for android/ios ,https://github.com/sberdevices/plasma/pull/159,2021-01-20T10:15:00Z,2021-01-28T19:25:10Z,15,4,MERGED
+plasma,ci(plasma-tokens): add tokens for android/ios,https://github.com/sberdevices/plasma/pull/158,2021-01-20T10:07:27Z,2021-01-20T14:52:50Z,1,1,CLOSED
+plasma,Предрелизные дополнения документации,https://github.com/sberdevices/plasma/pull/155,2021-01-19T07:21:15Z,2021-03-03T08:10:46Z,13,4,MERGED
+plasma,feat(ui): Тип FocusProps разложен на два подтипа,https://github.com/sberdevices/plasma/pull/153,2021-01-18T13:13:42Z,2021-01-27T19:41:45Z,4,1,MERGED
+plasma,docs(plasma-ui): CardMedia: src is required,https://github.com/sberdevices/plasma/pull/146,2021-01-15T12:49:05Z,2021-01-15T13:26:34Z,3,1,MERGED
+plasma,fix(plasma-icons): Icon move className to root obj,https://github.com/sberdevices/plasma/pull/145,2021-01-15T09:43:33Z,2021-01-18T08:19:14Z,2,1,MERGED
+plasma,feat(ui): Управление каруселью с пульта,https://github.com/sberdevices/plasma/pull/144,2021-01-14T08:50:04Z,2021-01-25T14:52:24Z,47,6,MERGED
+plasma,Подготовлен предрелизный changelog,https://github.com/sberdevices/plasma/pull/143,2021-01-14T06:46:06Z,2021-04-19T18:58:45Z,23,3,CLOSED
+plasma,fix(ui): исправлена сборка доки,https://github.com/sberdevices/plasma/pull/142,2021-01-13T06:38:35Z,2021-01-14T06:24:02Z,4,3,MERGED
+plasma,fix(ui): Отображение HeaderButton отвязано от mediaQuery,https://github.com/sberdevices/plasma/pull/141,2021-01-12T15:23:43Z,2021-01-14T07:58:41Z,1,1,MERGED
+plasma,"feat(ui): Доработаны миксины roundness/motion для карточки, кнопок и пр.",https://github.com/sberdevices/plasma/pull/140,2021-01-12T13:51:59Z,2021-01-15T11:23:22Z,8,2,MERGED
+plasma,feat(plasma-tokens): Градиенты подсказок о голосовых запросах,https://github.com/sberdevices/plasma/pull/138,2021-01-12T08:46:29Z,2021-01-14T08:52:29Z,3,2,MERGED
+plasma,fix: добавлен node-fetch для плагина обновления зависимостей,https://github.com/sberdevices/plasma/pull/137,2021-01-11T10:53:45Z,2021-01-11T11:31:43Z,1,1,MERGED
+plasma,chore: изменены ссылки на документацию,https://github.com/sberdevices/plasma/pull/136,2021-01-11T09:31:23Z,2021-01-11T09:57:03Z,1,1,MERGED
+plasma,fix(plasma-tokens): backward compatibility,https://github.com/sberdevices/plasma/pull/419,2021-05-31T17:15:49Z,2021-05-31T17:48:57Z,4,1,MERGED
+plasma,add Star icons,https://github.com/sberdevices/plasma/pull/418,2021-05-28T12:16:37Z,2021-05-31T08:59:04Z,5,1,MERGED
+plasma,Update icons,https://github.com/sberdevices/plasma/pull/412,2021-05-26T11:46:52Z,2021-05-31T16:04:29Z,8,5,MERGED
+plasma,fix(plasma-ui) Add Huawei TV UA,https://github.com/sberdevices/plasma/pull/403,2021-05-20T12:07:12Z,2021-05-20T12:49:23Z,2,1,MERGED
+plasma,fix(plasma-ui) Add Huawei TV UA,https://github.com/sberdevices/plasma/pull/402,2021-05-20T10:40:11Z,2021-05-20T12:08:36Z,1,1,CLOSED
+plasma,feat: Added plasma-colors package,https://github.com/sberdevices/plasma/pull/398,2021-05-18T15:06:52Z,2021-06-09T09:23:14Z,23,4,MERGED
+plasma,fix(plasma-web): Added Badge to index,https://github.com/sberdevices/plasma/pull/397,2021-05-18T11:53:05Z,2021-05-18T16:31:56Z,2,1,MERGED
+plasma,Jest plasma UI,https://github.com/sberdevices/plasma/pull/396,2021-05-18T08:44:02Z,2022-02-16T21:18:19Z,13,7,CLOSED
+plasma,docs(showcase): Hide description in radio/checkbox,https://github.com/sberdevices/plasma/pull/395,2021-05-17T10:50:00Z,2021-05-17T12:11:42Z,6,1,MERGED
+plasma,feat: short month name in datepicker,https://github.com/sberdevices/plasma/pull/392,2021-05-14T14:37:40Z,2021-06-01T07:36:50Z,17,8,MERGED
+plasma,Update MediaQueryFunction typings,https://github.com/sberdevices/plasma/pull/391,2021-05-14T08:18:25Z,2021-05-14T09:17:31Z,0,1,CLOSED
+plasma,fix(plasma-ui): fix simultaneous src&placeholder display,https://github.com/sberdevices/plasma/pull/390,2021-05-13T21:05:06Z,2021-05-17T09:23:28Z,6,1,MERGED
+plasma,Moved Carousel / PaginationDots to core,https://github.com/sberdevices/plasma/pull/389,2021-05-13T15:57:21Z,2021-05-20T10:33:19Z,25,5,MERGED
+plasma,Fix carousel slot and carousel/pickers animation with delay,https://github.com/sberdevices/plasma/pull/349,2021-05-08T17:18:24Z,2021-05-17T12:33:17Z,13,2,CLOSED
+plasma,feat(plasma-core): Added applyEllipsis mixin,https://github.com/sberdevices/plasma/pull/348,2021-05-07T15:08:25Z,2021-05-07T15:49:36Z,2,1,MERGED
+plasma,Description for checkbox and radiobox,https://github.com/sberdevices/plasma/pull/347,2021-05-07T13:21:13Z,2021-05-13T07:35:39Z,11,7,MERGED
+plasma,feat(plasma-web): Added Tooltip component,https://github.com/sberdevices/plasma/pull/345,2021-05-06T08:01:40Z,2021-05-14T11:50:40Z,20,1,MERGED
+plasma,Dependabot,https://github.com/sberdevices/plasma/pull/344,2021-05-04T14:40:47Z,2021-05-12T08:15:39Z,4,3,MERGED
+plasma,chore: add condition for chromatic github job,https://github.com/sberdevices/plasma/pull/343,2021-05-01T08:36:34Z,2021-05-20T07:26:06Z,88,1,MERGED
+plasma,feat: Move Price / Image from ui to core | copy to web web,https://github.com/sberdevices/plasma/pull/342,2021-04-30T13:11:33Z,2021-05-06T07:59:39Z,8,3,MERGED
+plasma,feat: add es module exports for plasma-ui,https://github.com/sberdevices/plasma/pull/341,2021-04-30T12:18:01Z,2021-05-31T14:22:29Z,22,11,MERGED
+plasma,feat(plasma-web): Added Progress component,https://github.com/sberdevices/plasma/pull/340,2021-04-29T14:42:22Z,2021-05-06T09:52:15Z,9,1,MERGED
+plasma,feat: Modal / Notification,https://github.com/sberdevices/plasma/pull/339,2021-04-29T12:07:50Z,2021-05-11T10:54:33Z,29,2,MERGED
+plasma,fix(plasma-core): pass defaultChecked to Switch and Basebox,https://github.com/sberdevices/plasma/pull/338,2021-04-29T11:04:57Z,2021-06-09T06:47:55Z,32,1,MERGED
+plasma,ci: clean links before generation of package-locks,https://github.com/sberdevices/plasma/pull/337,2021-04-28T16:52:34Z,2021-04-29T07:21:58Z,2,2,MERGED
+plasma,docs: fix grid misspell,https://github.com/sberdevices/plasma/pull/336,2021-04-28T08:56:28Z,2021-04-28T15:17:30Z,2,1,MERGED
+plasma,Update package locks,https://github.com/sberdevices/plasma/pull/334,2021-04-27T14:56:26Z,2021-04-28T08:13:35Z,10,2,MERGED
+plasma,Fix release workflow,https://github.com/sberdevices/plasma/pull/333,2021-04-27T09:15:41Z,2021-04-27T10:07:14Z,4,1,MERGED
+plasma,feat: add plasma-tokens-utils,https://github.com/sberdevices/plasma/pull/331,2021-04-27T07:44:26Z,2021-04-30T07:32:16Z,7,2,MERGED
+plasma,feat(plasma-web): Added Notification component,https://github.com/sberdevices/plasma/pull/330,2021-04-26T13:38:51Z,2021-04-29T12:08:04Z,5,1,CLOSED
+plasma,chore: auto update package-locks,https://github.com/sberdevices/plasma/pull/329,2021-04-26T08:10:12Z,2021-04-27T07:45:25Z,3,1,MERGED
+plasma,feat(plasma-web): Added Select component,https://github.com/sberdevices/plasma/pull/328,2021-04-23T14:51:07Z,2021-04-27T14:05:21Z,23,1,MERGED
+plasma,ci: Deploy storybook,https://github.com/sberdevices/plasma/pull/327,2021-04-23T10:03:28Z,2021-04-23T10:57:17Z,8,1,MERGED
+plasma,feat: Add Spinner to plasma-web / Custom spinner colors,https://github.com/sberdevices/plasma/pull/326,2021-04-23T05:31:15Z,2021-05-17T08:06:29Z,19,5,MERGED
+plasma,Web: Badge views & radius,https://github.com/sberdevices/plasma/pull/325,2021-04-21T13:21:58Z,2021-04-22T10:08:17Z,2,2,MERGED
+plasma,Linked doc for plasma-tokens and added information about font,https://github.com/sberdevices/plasma/pull/324,2021-04-21T07:57:58Z,2021-04-22T10:36:18Z,4,1,MERGED
+plasma,fix(plasma-ui): update @storybook/react version,https://github.com/sberdevices/plasma/pull/323,2021-04-20T13:46:44Z,2021-04-21T06:27:41Z,1,1,MERGED
+plasma,fix(plasma-ui): DatePicker: fix 30-31 february,https://github.com/sberdevices/plasma/pull/322,2021-04-20T12:59:29Z,2021-04-21T13:57:00Z,5,1,MERGED
+plasma,fix(plasma-ui): update @storybook/react version,https://github.com/sberdevices/plasma/pull/321,2021-04-20T12:59:27Z,2021-04-20T13:36:49Z,0,2,CLOSED
+plasma,FOR TEST,https://github.com/sberdevices/plasma/pull/319,2021-04-19T16:59:00Z,2021-05-28T12:10:19Z,1,1,CLOSED
+plasma,fix(plasma-core): Badge: fix padding for size s,https://github.com/sberdevices/plasma/pull/318,2021-04-19T14:21:00Z,2021-04-20T11:41:34Z,5,2,MERGED
+plasma,feat(plasma-ui): Add new scrollAlign values for Carousel,https://github.com/sberdevices/plasma/pull/317,2021-04-19T13:39:53Z,2021-04-28T12:43:01Z,30,1,MERGED
+plasma,ci: Prevent showcase from publishing,https://github.com/sberdevices/plasma/pull/316,2021-04-19T12:31:35Z,2021-04-19T15:02:03Z,1,1,MERGED
+plasma,chore: add cypress and image snapshot,https://github.com/sberdevices/plasma/pull/315,2021-04-17T14:01:10Z,2021-04-23T14:16:25Z,32,1,MERGED
+plasma,Deploy documentation for web / update docs for ui,https://github.com/sberdevices/plasma/pull/313,2021-04-16T12:34:13Z,2021-04-20T08:16:22Z,7,3,MERGED
+plasma,fix(plasma-ui): fix detection Huawei TV,https://github.com/sberdevices/plasma/pull/312,2021-04-16T08:44:55Z,2021-04-17T04:17:16Z,2,1,MERGED
+plasma,Update CONTRIBUTING.md,https://github.com/sberdevices/plasma/pull/311,2021-04-16T08:09:04Z,2021-04-16T12:38:22Z,2,2,MERGED
+plasma,feat(core): добавлен компонент badge в core,https://github.com/sberdevices/plasma/pull/308,2021-04-15T09:52:39Z,2021-04-16T10:48:50Z,11,3,MERGED
+plasma,fix: bump peerDeps,https://github.com/sberdevices/plasma/pull/307,2021-04-15T09:45:15Z,2021-04-15T10:08:45Z,3,1,MERGED
+plasma,docs(plasma-ui): remove docz,https://github.com/sberdevices/plasma/pull/304,2021-04-15T05:58:17Z,2021-04-20T09:52:50Z,24,1,MERGED
+plasma,badge-to-web: перенес badge в core и web,https://github.com/sberdevices/plasma/pull/303,2021-04-14T12:42:23Z,2021-04-15T09:53:15Z,3,1,CLOSED
+plasma,feat(plasma-web): передача name в TextField инпут,https://github.com/sberdevices/plasma/pull/302,2021-04-14T09:08:04Z,2021-04-14T10:41:48Z,3,1,CLOSED
+plasma,Date/TimePickers: enhancements & bugfixes,https://github.com/sberdevices/plasma/pull/300,2021-04-13T13:17:33Z,2021-04-20T09:29:13Z,14,8,MERGED
+plasma,fix(plasma-ui): fix setting props in TextField component,https://github.com/sberdevices/plasma/pull/299,2021-04-13T12:48:42Z,2021-04-15T13:06:37Z,9,1,MERGED
+plasma,feat(ui): Add base to props in Image component,https://github.com/sberdevices/plasma/pull/298,2021-04-13T07:43:36Z,2021-04-13T13:25:53Z,7,1,MERGED
+plasma,fix(plasma-ui): fix exports in root,https://github.com/sberdevices/plasma/pull/292,2021-04-12T08:04:04Z,2021-04-12T09:48:54Z,14,1,MERGED
+plasma,Compact TimePicker and configure label format for DatePicker,https://github.com/sberdevices/plasma/pull/291,2021-04-10T15:31:41Z,2021-04-13T13:19:15Z,5,1,CLOSED
+plasma,feat(plasma-web): Added TextArea component,https://github.com/sberdevices/plasma/pull/290,2021-04-09T12:12:37Z,2021-04-14T08:44:57Z,8,1,MERGED
+plasma,fix: release,https://github.com/sberdevices/plasma/pull/287,2021-04-07T22:39:39Z,2021-04-07T22:40:09Z,1,1,MERGED
+plasma,fix: release,https://github.com/sberdevices/plasma/pull/286,2021-04-07T21:49:53Z,2021-04-07T22:09:36Z,1,1,MERGED
+plasma,fix: release,https://github.com/sberdevices/plasma/pull/285,2021-04-07T20:51:42Z,2021-04-07T21:21:58Z,1,1,MERGED
+plasma,Marquee: animation duration prop,https://github.com/sberdevices/plasma/pull/284,2021-04-07T20:03:50Z,2021-04-07T20:19:34Z,1,2,MERGED
+plasma,feat(ui): Add marquee's animation duration props,https://github.com/sberdevices/plasma/pull/283,2021-04-07T14:02:16Z,2021-04-08T07:22:47Z,4,1,CLOSED
+plasma,docs: добавлен Showcase/Device,https://github.com/sberdevices/plasma/pull/281,2021-04-06T06:48:24Z,2021-04-16T08:07:06Z,14,2,MERGED
+plasma,Moved typography to plasma-core and added it to plasma-web,https://github.com/sberdevices/plasma/pull/280,2021-04-05T10:40:53Z,2021-04-15T12:01:24Z,19,6,MERGED
+plasma,merge rc to master,https://github.com/sberdevices/plasma/pull/279,2021-04-02T13:12:25Z,2021-04-02T16:13:44Z,1,234,MERGED
+plasma,fix: plasma doc before major,https://github.com/sberdevices/plasma/pull/278,2021-04-02T13:00:04Z,2021-04-02T13:10:34Z,1,1,MERGED
+plasma,feat: Hello plasma-ui,https://github.com/sberdevices/plasma/pull/277,2021-04-02T11:27:28Z,2021-04-02T12:19:06Z,2,4,MERGED
+plasma,feat(ui) add Device showcase,https://github.com/sberdevices/plasma/pull/276,2021-04-02T10:03:58Z,2021-04-06T06:45:09Z,2,17,CLOSED
+plasma,BREAKING: Various fixes before major,https://github.com/sberdevices/plasma/pull/275,2021-04-02T06:05:20Z,2021-04-02T10:50:05Z,7,16,MERGED
+plasma,chore(plasma-web): Added Grid to index,https://github.com/sberdevices/plasma/pull/274,2021-04-01T19:46:38Z,2021-04-02T12:36:24Z,1,1,MERGED
+plasma,feat(plasma-ui): tabs animation added,https://github.com/sberdevices/plasma/pull/593,2021-07-30T14:04:00Z,2021-08-16T10:54:27Z,41,2,MERGED
+plasma,"feat(plasma-web): Add `hocs`, `hooks`, `mixins`, `types` and `utils` …",https://github.com/sberdevices/plasma/pull/592,2021-07-30T11:32:19Z,2021-08-02T10:38:26Z,12,1,MERGED
+plasma,feat: Spacing mixin applySpacing,https://github.com/sberdevices/plasma/pull/585,2021-07-29T14:17:21Z,2021-08-04T10:18:56Z,23,1,MERGED
+plasma,feat(plasma-ui): add Slider component,https://github.com/sberdevices/plasma/pull/584,2021-07-29T09:31:11Z,2021-08-18T10:22:39Z,67,1,MERGED
+plasma,fix(plasma-ui): huawei detection fix,https://github.com/sberdevices/plasma/pull/583,2021-07-29T09:17:35Z,2021-07-30T07:45:44Z,7,2,MERGED
+plasma,docs(plasma-ui): Show provider in stories,https://github.com/sberdevices/plasma/pull/575,2021-07-27T08:13:16Z,2021-07-29T12:39:12Z,6,1,MERGED
+plasma,chore: компонентное тестирование на cypress,https://github.com/sberdevices/plasma/pull/573,2021-07-26T14:24:15Z,2021-09-23T06:26:18Z,125,4,MERGED
+plasma,feat: Build plasma / web imports / ui exports / demo carousel,https://github.com/sberdevices/plasma/pull/563,2021-07-22T11:23:09Z,2021-08-02T07:29:34Z,28,4,MERGED
+plasma,docs(plasma-ui): assistant usage fix,https://github.com/sberdevices/plasma/pull/562,2021-07-21T06:58:08Z,2021-07-22T09:58:32Z,6,1,MERGED
+plasma,fix(plasma-web): form submit trigger inside select,https://github.com/sberdevices/plasma/pull/557,2021-07-20T14:53:53Z,2021-07-21T12:41:28Z,3,1,MERGED
+plasma,feat: Plasma Icons Service,https://github.com/sberdevices/plasma/pull/556,2021-07-20T11:28:32Z,2021-07-30T08:23:21Z,6,2,CLOSED
+plasma,fix(plasma-icons): chevron-icons updated,https://github.com/sberdevices/plasma/pull/555,2021-07-19T08:12:29Z,2021-07-22T19:37:04Z,11,1,CLOSED
+plasma,feat: header minimize & layout,https://github.com/sberdevices/plasma/pull/551,2021-07-16T11:23:18Z,2021-07-27T09:45:53Z,21,5,MERGED
+plasma,"fix(plasma-ui, plasma-web): toolbar buttons return",https://github.com/sberdevices/plasma/pull/547,2021-07-15T21:04:04Z,2021-07-16T08:26:45Z,3,1,MERGED
+plasma,feat(plasma-ui): Detect SberBoxTop,https://github.com/sberdevices/plasma/pull/546,2021-07-15T10:32:35Z,2021-07-15T13:56:09Z,3,1,MERGED
+plasma,feat(plasma-web): Added Dropdown component / Integrate Dropdown into Select,https://github.com/sberdevices/plasma/pull/545,2021-07-14T13:36:32Z,2021-07-20T08:07:48Z,45,2,MERGED
+plasma,feat(demo-canvas-app): Added Switch to PickersPage,https://github.com/sberdevices/plasma/pull/542,2021-07-14T08:43:18Z,2021-07-15T09:18:21Z,6,2,MERGED
+plasma,fix: remove double ampersands,https://github.com/sberdevices/plasma/pull/537,2021-07-13T14:07:01Z,2021-07-19T11:02:24Z,10,1,MERGED
+plasma,fix(plasma-web): TextField can accept deferred defaultValue,https://github.com/sberdevices/plasma/pull/536,2021-07-13T11:44:09Z,2021-07-14T08:05:50Z,6,1,MERGED
+plasma,"feat(plasma-ui, plasma-web, showcase): sb-essentials added",https://github.com/sberdevices/plasma/pull/535,2021-07-13T10:31:22Z,2021-07-14T08:58:49Z,9,2,MERGED
+plasma,fix(plasma-ui): Toast fade top placement,https://github.com/sberdevices/plasma/pull/528,2021-07-09T12:48:59Z,2021-07-13T12:09:36Z,6,1,MERGED
+plasma,"fix: Pickers performance, no unnecessary rerender",https://github.com/sberdevices/plasma/pull/527,2021-07-09T10:20:17Z,2021-07-13T10:50:14Z,24,2,MERGED
+plasma,"chore: Bump Storybook version; chore: Alias react, react-dom and styled-components in Storybook webpack",https://github.com/sberdevices/plasma/pull/518,2021-07-08T13:24:31Z,2021-07-08T13:57:17Z,2,2,MERGED
+plasma,fix(plasma-ui): Header back button position,https://github.com/sberdevices/plasma/pull/517,2021-07-08T10:53:36Z,2021-07-09T09:59:09Z,10,1,MERGED
+plasma,Plasma UI fix time picker doc,https://github.com/sberdevices/plasma/pull/516,2021-07-08T07:28:42Z,2021-07-09T09:06:16Z,10,3,MERGED
+plasma,feat(plasma-tokens): grouping color tokens for native,https://github.com/sberdevices/plasma/pull/504,2021-07-07T20:39:12Z,2021-07-08T10:18:43Z,3,1,MERGED
+plasma,fix(plasma-ui): Header back button outline indent,https://github.com/sberdevices/plasma/pull/503,2021-07-07T11:49:41Z,2021-07-08T10:54:05Z,1,1,CLOSED
+plasma,chore(plasma-ui): Change deviceKind through get param in iframe,https://github.com/sberdevices/plasma/pull/500,2021-07-05T14:59:03Z,2021-07-09T08:20:10Z,7,1,MERGED
+plasma,Kayman233/feat react17,https://github.com/sberdevices/plasma/pull/496,2021-07-04T21:26:52Z,2021-07-13T07:56:40Z,24,2,MERGED
+plasma,fix focus & demo canvas app,https://github.com/sberdevices/plasma/pull/494,2021-07-02T08:13:06Z,2021-07-09T09:24:01Z,50,7,MERGED
+plasma,docs: add documentation for environment,https://github.com/sberdevices/plasma/pull/480,2021-06-30T10:49:43Z,2021-07-09T08:35:17Z,46,1,MERGED
+plasma,fix(plasma-ui): favicon added,https://github.com/sberdevices/plasma/pull/479,2021-06-30T10:25:05Z,2021-07-07T14:51:03Z,16,7,MERGED
+plasma,feat: plasma tokens b2c,https://github.com/sberdevices/plasma/pull/468,2021-06-28T09:46:26Z,2021-07-01T07:30:46Z,18,2,MERGED
+plasma,ci: setup jest,https://github.com/sberdevices/plasma/pull/466,2021-06-28T07:14:38Z,2021-06-28T11:32:15Z,9,4,MERGED
+plasma,ci: add repo info to release job,https://github.com/sberdevices/plasma/pull/465,2021-06-24T07:03:07Z,2021-06-29T07:02:01Z,2,1,CLOSED
+plasma,fix: Checkbox & Input fixes,https://github.com/sberdevices/plasma/pull/463,2021-06-23T10:25:13Z,2021-07-02T09:04:15Z,25,9,MERGED
+plasma,fix(plasma-ui): text selection fixed,https://github.com/sberdevices/plasma/pull/462,2021-06-22T07:14:03Z,2021-07-01T11:46:07Z,7,4,MERGED
+plasma,fix(plasma-ui): PickerItem sizes,https://github.com/sberdevices/plasma/pull/458,2021-06-21T11:48:45Z,2021-06-23T09:33:47Z,11,1,MERGED
+plasma,feat: Update tokens from plasma-styles figma,https://github.com/sberdevices/plasma/pull/455,2021-06-18T13:08:56Z,2021-06-23T08:37:28Z,19,7,MERGED
+plasma,docs: Grid & ThemeColors for both libraries,https://github.com/sberdevices/plasma/pull/454,2021-06-18T11:39:50Z,2021-06-20T11:36:03Z,3,2,CLOSED
+plasma,docs(plasma-tokens): links and anchors fixed,https://github.com/sberdevices/plasma/pull/448,2021-06-17T10:49:13Z,2021-06-25T12:17:21Z,5,1,MERGED
+plasma,docs(plasma-ui): repository link added,https://github.com/sberdevices/plasma/pull/447,2021-06-17T08:39:40Z,2021-06-29T18:31:39Z,10,2,MERGED
+plasma,feat(plasma-web): Added Link component,https://github.com/sberdevices/plasma/pull/441,2021-06-15T12:23:28Z,2021-06-18T07:37:24Z,20,4,MERGED
+plasma,"Reassembled Field, Spinner's size, reassembled Checkbox, indeterminate state",https://github.com/sberdevices/plasma/pull/438,2021-06-08T15:38:47Z,2021-06-22T12:40:03Z,46,5,MERGED
+plasma,fix(plasma-core): remove focus on click in button,https://github.com/sberdevices/plasma/pull/437,2021-06-08T11:34:02Z,2021-06-17T13:00:32Z,9,1,MERGED
+plasma,feat: bump plasma-core,https://github.com/sberdevices/plasma/pull/432,2021-06-07T10:27:51Z,2021-06-07T10:45:47Z,2,1,MERGED
+plasma,feat(plasma-website): Plasma icons service,https://github.com/sberdevices/plasma/pull/903,2021-10-30T11:14:13Z,2021-11-16T09:17:42Z,19,2,MERGED
+plasma,feat(plasma-temple): export useHeaderProps,https://github.com/sberdevices/plasma/pull/902,2021-10-29T12:38:44Z,2021-11-17T08:13:04Z,5,1,MERGED
+plasma,ci: Check for A11y with cypress-axe,https://github.com/sberdevices/plasma/pull/901,2021-10-28T14:25:13Z,2021-11-17T12:21:04Z,10,2,MERGED
+plasma,feat: upload progress label,https://github.com/sberdevices/plasma/pull/899,2021-10-27T16:36:53Z,2021-10-28T16:06:12Z,9,2,MERGED
+plasma,"feat(plasma-ui-docs, plasma-web-docs): Added version indicator at the top",https://github.com/sberdevices/plasma/pull/898,2021-10-27T14:51:51Z,2021-11-19T11:38:53Z,18,1,MERGED
+plasma,fix(plasma-ui): Fix scroll behavior and range values for `Picker` component,https://github.com/sberdevices/plasma/pull/897,2021-10-27T07:22:29Z,2021-11-01T07:13:10Z,14,1,MERGED
+plasma,feat(plasma-icons): Update design for `Hearts` icons,https://github.com/sberdevices/plasma/pull/896,2021-10-26T14:16:48Z,2021-10-28T12:13:49Z,10,1,MERGED
+plasma,Update README.md,https://github.com/sberdevices/plasma/pull/895,2021-10-26T07:17:42Z,2021-10-26T08:26:35Z,4,1,MERGED
+plasma,fix(plasma-temple): fix order button offset from bottom,https://github.com/sberdevices/plasma/pull/894,2021-10-25T09:57:23Z,2021-10-26T16:10:24Z,8,2,MERGED
+plasma,fix(plasma-b2c): handle children number change in ElasticGrid,https://github.com/sberdevices/plasma/pull/893,2021-10-25T06:47:41Z,2021-10-27T09:23:13Z,5,1,MERGED
+plasma,"test(plasma-web, plasma-b2c): Add test and snapshot for components",https://github.com/sberdevices/plasma/pull/892,2021-10-25T06:13:11Z,2021-11-01T04:23:21Z,10,2,MERGED
+plasma,fix: upload progress rounding,https://github.com/sberdevices/plasma/pull/891,2021-10-24T12:57:02Z,2021-10-24T13:11:06Z,2,1,CLOSED
+plasma,fix: b2c preview gallery image size,https://github.com/sberdevices/plasma/pull/890,2021-10-23T14:54:24Z,2021-10-24T14:17:25Z,8,2,MERGED
+plasma,fix: headers font weight fix,https://github.com/sberdevices/plasma/pull/889,2021-10-22T17:19:14Z,2021-10-22T17:46:30Z,2,1,MERGED
+plasma,fix(plasma-ui): Fix showing values for `DatePicker` and `TimePicker` components,https://github.com/sberdevices/plasma/pull/887,2021-10-22T07:08:57Z,2021-10-22T14:56:30Z,7,2,MERGED
+plasma,Правки по GalleryPreview и UploadVisual,https://github.com/sberdevices/plasma/pull/886,2021-10-22T05:29:01Z,2021-10-24T10:22:10Z,8,3,MERGED
+plasma,fix(plasma-basic-template): typings,https://github.com/sberdevices/plasma/pull/885,2021-10-21T08:25:45Z,2021-10-26T11:54:55Z,4,1,MERGED
+plasma,fix(plasma-temple): fix 100vh mobile,https://github.com/sberdevices/plasma/pull/884,2021-10-21T06:00:17Z,2021-10-26T15:27:23Z,12,1,MERGED
+plasma,"fix(plasma-web,plasma-b2c): `Select`'s when multiselect prevent autoclose",https://github.com/sberdevices/plasma/pull/883,2021-10-20T15:45:17Z,2021-10-29T11:07:28Z,8,2,MERGED
+plasma,chore(plasma-temple): storybook ci,https://github.com/sberdevices/plasma/pull/881,2021-10-20T11:37:49Z,2021-11-01T10:20:42Z,14,2,MERGED
+plasma,fix: grid container max size,https://github.com/sberdevices/plasma/pull/880,2021-10-20T10:14:44Z,2021-10-21T12:17:19Z,9,4,MERGED
+plasma,feat(plasma-b2c): add custom background for editable component,https://github.com/sberdevices/plasma/pull/877,2021-10-19T14:29:57Z,2021-10-21T03:00:45Z,9,2,MERGED
+plasma,fix(plasma-ui): `HeaderContent` flex in Chrome 94,https://github.com/sberdevices/plasma/pull/875,2021-10-19T12:45:15Z,2021-10-21T09:38:33Z,4,1,MERGED
+plasma,feat(plasma-ui): Added `gradientColor` prop to `Header`,https://github.com/sberdevices/plasma/pull/874,2021-10-19T10:24:32Z,2021-10-21T11:29:34Z,5,1,MERGED
+plasma,"fix(plasma-web,plasma-b2c): Fix hover item in Dropdown component",https://github.com/sberdevices/plasma/pull/869,2021-10-18T12:34:24Z,2021-10-19T13:33:07Z,2,4,MERGED
+plasma,chore: Add CHANGELOG to docs,https://github.com/sberdevices/plasma/pull/868,2021-10-17T12:18:56Z,2021-10-27T13:26:43Z,4,1,MERGED
+plasma,"fix(plasma-temple): fix cart item click, add cart item custom background color",https://github.com/sberdevices/plasma/pull/867,2021-10-15T12:18:56Z,2021-10-22T11:20:37Z,47,3,MERGED
+plasma,feat(plasma-ui): `Dropdown` custom composition,https://github.com/sberdevices/plasma/pull/866,2021-10-15T08:10:59Z,2021-10-29T10:10:37Z,25,2,MERGED
+plasma,fix(plasma-web): Remove underline from Dropdown item,https://github.com/sberdevices/plasma/pull/865,2021-10-15T05:24:01Z,2021-10-15T08:20:25Z,2,1,MERGED
+plasma,"fix(plasma-web, plasma-b2c): Fix re-exporting",https://github.com/sberdevices/plasma/pull/864,2021-10-14T12:14:43Z,2021-10-14T20:35:39Z,10,2,MERGED
+plasma,feat(plasma-ui): Added `NeuHeader` to replace `Header` in major version,https://github.com/sberdevices/plasma/pull/863,2021-10-14T09:05:58Z,2021-10-21T10:23:09Z,6,2,MERGED
+plasma,"fix(plasma-web,plasma-b2c): Fix Dropdown component for multiselect ",https://github.com/sberdevices/plasma/pull/862,2021-10-14T06:13:47Z,2021-10-20T15:47:25Z,4,2,CLOSED
+plasma,ci: root package-lock regeneration,https://github.com/sberdevices/plasma/pull/861,2021-10-13T17:13:56Z,2021-10-13T17:37:57Z,2,2,MERGED
+plasma,feat(plasma-temple): empty cart titleText added,https://github.com/sberdevices/plasma/pull/860,2021-10-13T13:47:42Z,2021-10-15T08:06:30Z,8,1,CLOSED
+plasma,fix: grid import,https://github.com/sberdevices/plasma/pull/859,2021-10-13T12:39:56Z,2021-10-14T16:57:42Z,8,1,CLOSED
+plasma,"fix(plasma-web,plasma-b2c): Fix select empty",https://github.com/sberdevices/plasma/pull/858,2021-10-13T06:46:26Z,2021-10-19T14:48:29Z,26,5,MERGED
+plasma,"chore(plasma-ui, plasma-web): addon knobs removed",https://github.com/sberdevices/plasma/pull/857,2021-10-13T06:29:54Z,2021-10-15T13:18:39Z,4,1,MERGED
+plasma,chore: Convert markdown to HTML,https://github.com/sberdevices/plasma/pull/856,2021-10-13T05:59:54Z,2021-10-28T13:06:42Z,21,1,MERGED
+plasma,fix(plasma-colors): Add types to files field,https://github.com/sberdevices/plasma/pull/855,2021-10-12T12:43:05Z,2021-10-13T07:27:53Z,4,1,MERGED
+plasma,fix release,https://github.com/sberdevices/plasma/pull/854,2021-10-12T10:47:32Z,2021-10-12T12:53:39Z,4,2,MERGED
+plasma,fix: Update package-locks,https://github.com/sberdevices/plasma/pull/853,2021-10-12T08:23:40Z,2021-10-12T09:55:13Z,2,1,MERGED
+plasma,chore: Delegate CODEOWNERS by folders,https://github.com/sberdevices/plasma/pull/852,2021-10-11T13:31:31Z,2021-10-14T13:59:00Z,4,1,MERGED
+plasma,feat: Plasma Website,https://github.com/sberdevices/plasma/pull/851,2021-10-11T13:05:04Z,2021-10-21T13:03:06Z,25,4,MERGED
+plasma,chore: Remove Chromatic check,https://github.com/sberdevices/plasma/pull/850,2021-10-11T07:33:58Z,2021-10-11T08:12:12Z,3,1,MERGED
+plasma,ci: fix pkg-locks regeneration ,https://github.com/sberdevices/plasma/pull/849,2021-10-10T19:18:29Z,2021-10-10T19:45:49Z,2,3,MERGED
+plasma,ci: fix pkg-locks regeneration,https://github.com/sberdevices/plasma/pull/848,2021-10-08T17:02:02Z,2021-10-11T08:17:49Z,1,0,CLOSED
+plasma,feat(plasma-b2b): add ViewGrid component,https://github.com/sberdevices/plasma/pull/847,2021-10-08T15:45:40Z,2021-10-18T08:43:36Z,26,1,MERGED
+plasma,ci: fix pkg-locks regeneration,https://github.com/sberdevices/plasma/pull/846,2021-10-08T15:08:49Z,2021-10-11T08:31:34Z,4,0,CLOSED
+plasma,feat(plasma-typo): Typography separation: bold & regular,https://github.com/sberdevices/plasma/pull/845,2021-10-08T13:35:13Z,2021-10-11T13:32:32Z,8,1,MERGED
+plasma,docs(b2c): improve ReadMe,https://github.com/sberdevices/plasma/pull/844,2021-10-08T13:28:11Z,2021-10-13T18:24:46Z,4,1,MERGED
+plasma,feat: b2c add TextArea,https://github.com/sberdevices/plasma/pull/843,2021-10-08T13:08:50Z,2021-10-08T13:29:02Z,2,3,MERGED
+plasma,feat(b2c): add Slider,https://github.com/sberdevices/plasma/pull/842,2021-10-08T12:24:56Z,2021-10-08T13:07:44Z,2,1,MERGED
+plasma,add b2c storybook,https://github.com/sberdevices/plasma/pull/841,2021-10-08T09:46:46Z,2021-10-08T11:53:41Z,6,2,MERGED
+plasma,chore(plasma-b2c): Bump `plasma-tokens-b2c` version,https://github.com/sberdevices/plasma/pull/840,2021-10-07T10:00:39Z,2021-10-07T10:34:35Z,2,1,MERGED
+plasma,build(plasma-core/ui/b2c/web): fix storybook build,https://github.com/sberdevices/plasma/pull/838,2021-10-07T06:51:37Z,2021-10-07T11:39:08Z,6,1,MERGED
+plasma,test(b2c): Editable snapshot,https://github.com/sberdevices/plasma/pull/837,2021-10-07T06:23:58Z,2021-10-07T19:09:56Z,7,1,MERGED
+plasma,feat(plasma-temple): Configurable StateLayout background image,https://github.com/sberdevices/plasma/pull/836,2021-10-06T13:58:35Z,2021-10-11T09:37:19Z,9,2,MERGED
+plasma,fix(plasma-temple): Fix HeroSlide styles,https://github.com/sberdevices/plasma/pull/834,2021-10-06T09:43:11Z,2021-10-06T11:46:35Z,4,1,MERGED
+plasma,feat(plasma-b2b): Sanitize paste event on Editable,https://github.com/sberdevices/plasma/pull/833,2021-10-06T06:12:30Z,2021-10-06T13:59:23Z,7,2,MERGED
+plasma,tests: cypress add SBSans fonts,https://github.com/sberdevices/plasma/pull/832,2021-10-05T17:47:59Z,2021-10-06T10:39:47Z,10,7,MERGED
+plasma,fix test build,https://github.com/sberdevices/plasma/pull/830,2021-10-05T02:50:35Z,2021-10-05T06:33:57Z,6,2,MERGED
+plasma,feat(plasma-b2c): Standard Typography System,https://github.com/sberdevices/plasma/pull/829,2021-10-04T15:40:47Z,2021-10-08T10:50:41Z,30,8,MERGED
+plasma,feat(plasma-b2c): `TextArea` for b2c added,https://github.com/sberdevices/plasma/pull/828,2021-10-04T07:14:25Z,2021-10-08T13:39:54Z,10,1,CLOSED
+plasma,test(plasma-ui/web/b2c): cypress component tests,https://github.com/sberdevices/plasma/pull/827,2021-10-03T14:18:04Z,2021-10-04T03:15:06Z,18,18,MERGED
+plasma,fix: dummy-release,https://github.com/sberdevices/plasma/pull/826,2021-10-03T12:04:00Z,2021-10-03T12:19:15Z,2,1,MERGED
+plasma,feat: new grid breakpoint for 16 cols,https://github.com/sberdevices/plasma/pull/825,2021-10-01T11:10:54Z,2021-10-11T12:46:17Z,32,2,MERGED
+plasma,fix(plasma-cy-utils): padMe,https://github.com/sberdevices/plasma/pull/824,2021-10-01T08:49:37Z,2021-10-03T13:38:34Z,13,2,MERGED
+plasma,test(plasma-web): fix cypress comp-tests,https://github.com/sberdevices/plasma/pull/823,2021-09-30T21:49:43Z,2021-10-01T04:35:14Z,6,6,MERGED
+plasma,feat(plasma-b2c): Editable component added,https://github.com/sberdevices/plasma/pull/821,2021-09-29T09:51:45Z,2021-10-04T17:12:12Z,34,1,MERGED
+plasma,fix(plasma-temple): fix page types,https://github.com/sberdevices/plasma/pull/820,2021-09-28T10:07:16Z,2021-09-28T20:42:37Z,2,1,MERGED
+plasma,feat(plasma-b2c): Added `Upload` component,https://github.com/sberdevices/plasma/pull/819,2021-09-24T12:43:50Z,2021-10-20T12:30:39Z,28,10,MERGED
+plasma,feat(plasma-temple)!: major release,https://github.com/sberdevices/plasma/pull/818,2021-09-24T10:38:56Z,2021-09-24T11:21:22Z,2,1,MERGED
+plasma,ci: fix failing of pkg-locks,https://github.com/sberdevices/plasma/pull/817,2021-09-24T10:27:49Z,2021-09-24T13:18:36Z,8,2,MERGED
+plasma,fix(plasma-temple): changeState action,https://github.com/sberdevices/plasma/pull/816,2021-09-23T12:38:01Z,2021-10-07T08:12:13Z,11,1,MERGED
+plasma,fix(plasma-temple): Fix Layout scroll,https://github.com/sberdevices/plasma/pull/815,2021-09-22T12:02:42Z,2021-10-04T08:28:20Z,5,1,MERGED
+plasma,feat(plasma-temple): opening item from cart,https://github.com/sberdevices/plasma/pull/814,2021-09-22T11:46:29Z,2021-09-28T06:44:31Z,2,1,MERGED
+plasma,fix(plasma-temple): fix cart scroll,https://github.com/sberdevices/plasma/pull/813,2021-09-22T11:35:30Z,2021-10-04T10:24:07Z,8,2,MERGED
+plasma,feat: Added b2c `Toast`,https://github.com/sberdevices/plasma/pull/812,2021-09-22T10:46:05Z,2021-10-07T12:29:46Z,17,4,MERGED
+plasma,major: Перенос @sberdevices/plasma-temple,https://github.com/sberdevices/plasma/pull/811,2021-09-22T10:31:47Z,2021-09-24T10:32:27Z,67,304,MERGED
+plasma,fix(plasma-basic-template): code styles,https://github.com/sberdevices/plasma/pull/810,2021-09-22T09:42:28Z,2021-09-22T09:58:38Z,2,1,MERGED
+plasma,docs(plasma-ui-docs): misspel,https://github.com/sberdevices/plasma/pull/809,2021-09-22T09:29:13Z,2021-09-22T12:41:25Z,2,1,MERGED
+plasma,chore: Перенос @sberdevices/plasma-basic-template,https://github.com/sberdevices/plasma/pull/808,2021-09-22T09:19:34Z,2021-09-22T09:26:06Z,0,6,MERGED
+plasma,chore: Перенос @sberdevices/plasma-shop-template,https://github.com/sberdevices/plasma/pull/807,2021-09-22T08:44:33Z,2021-09-22T09:14:52Z,3,8,MERGED
+plasma,test: Cy for `Date&TimePicker`; update snapshot for `Button`,https://github.com/sberdevices/plasma/pull/806,2021-09-21T08:32:09Z,2021-09-21T15:53:03Z,8,2,MERGED
+plasma,feat: Added b2c `Select`,https://github.com/sberdevices/plasma/pull/805,2021-09-20T16:02:06Z,2021-09-24T09:58:28Z,5,7,MERGED
+plasma,feat: plasma b2c & Tabs,https://github.com/sberdevices/plasma/pull/804,2021-09-15T11:20:02Z,2021-09-20T08:13:58Z,5,4,MERGED
+plasma,feat: plasma-colors types & more sb-utils,https://github.com/sberdevices/plasma/pull/803,2021-09-14T12:09:29Z,2021-09-14T15:44:21Z,3,3,MERGED
+plasma,Documentation subfolders & common ui & docgenInfo plugin,https://github.com/sberdevices/plasma/pull/801,2021-09-13T15:56:03Z,2021-09-21T14:46:41Z,3,6,MERGED
+plasma,Documentation fixes,https://github.com/sberdevices/plasma/pull/800,2021-09-10T11:09:23Z,2021-09-15T13:19:39Z,4,3,MERGED
+plasma,stop dependabot,https://github.com/sberdevices/plasma/pull/799,2021-09-10T10:24:48Z,2021-09-10T12:39:08Z,2,2,MERGED
+plasma,fix: Disabled state for `Checkbox` and `Radiobox`,https://github.com/sberdevices/plasma/pull/791,2021-09-09T12:27:40Z,2021-09-09T14:33:19Z,4,2,MERGED
+plasma,Add Icons in Toast,https://github.com/sberdevices/plasma/pull/790,2021-09-09T07:32:50Z,2021-09-22T12:31:45Z,20,4,CLOSED
+plasma,fix: Display `inline-flex` for `Badge`,https://github.com/sberdevices/plasma/pull/784,2021-09-08T15:02:13Z,2021-09-09T12:43:50Z,5,1,MERGED
+plasma,feat(plasma-ui): DRAFT change image animation,https://github.com/sberdevices/plasma/pull/730,2021-09-07T17:20:27Z,2021-09-07T17:22:39Z,0,1,CLOSED
+plasma,Update and clean main packages deps,https://github.com/sberdevices/plasma/pull/728,2021-09-07T16:31:44Z,2021-09-08T10:41:03Z,4,15,MERGED
+plasma,"feat(plasma-ui, plasma-core): Added `forwardedAs` and `as` props to `Tabs`",https://github.com/sberdevices/plasma/pull/724,2021-09-07T15:31:06Z,2021-09-09T11:51:02Z,9,2,MERGED
+plasma,fix(plasma-ui): Added `coverGradient` prop to `CardContent`,https://github.com/sberdevices/plasma/pull/716,2021-09-07T14:57:33Z,2021-09-15T13:57:14Z,10,1,MERGED
+plasma,chore: Publish `extract-docgen-info`,https://github.com/sberdevices/plasma/pull/715,2021-09-07T14:12:50Z,2021-09-07T15:02:13Z,4,1,MERGED
+plasma,feat(plasma-ui): A11y for `Toast`,https://github.com/sberdevices/plasma/pull/710,2021-09-07T11:14:20Z,2021-11-03T08:18:34Z,10,2,MERGED
+plasma,fix(plasma-tokens-b2c): Confusing `paragraph` and `inverse` colors in…,https://github.com/sberdevices/plasma/pull/709,2021-09-07T09:35:14Z,2021-09-08T14:50:07Z,4,1,MERGED
+plasma,"fix(plasma-ui): `PickerItem`'s `size=""s""` text cut at the bottom",https://github.com/sberdevices/plasma/pull/708,2021-09-07T09:17:47Z,2021-09-21T18:49:06Z,9,3,MERGED
+plasma,fix(plasma-web): Collision of `Button` and global custom css,https://github.com/sberdevices/plasma/pull/703,2021-09-03T10:14:28Z,2021-09-14T12:43:34Z,8,1,MERGED
+plasma,chore: Add `.npmrc` in utils,https://github.com/sberdevices/plasma/pull/702,2021-09-03T09:26:18Z,2021-09-07T09:38:12Z,3,1,MERGED
+plasma,chore(plasma-docs): Replace sacred link to Icons service,https://github.com/sberdevices/plasma/pull/700,2021-09-01T12:42:24Z,2021-09-02T13:52:57Z,7,3,MERGED
+plasma,fix: Refactor `Checkbox` & `Radiobox` in order of better understanding,https://github.com/sberdevices/plasma/pull/698,2021-09-01T06:16:46Z,2021-09-08T14:27:22Z,13,2,MERGED
+plasma,fix(plasma-core): fix monthName formatter,https://github.com/sberdevices/plasma/pull/693,2021-08-31T13:12:26Z,2021-08-31T13:48:32Z,10,1,MERGED
+plasma,chore: Add `LamaEats` to `CODEOWNERS`,https://github.com/sberdevices/plasma/pull/692,2021-08-31T09:14:57Z,2021-08-31T11:18:33Z,3,1,MERGED
+plasma,docs(plasma-web): knobs to controls migration - web - part 3-2,https://github.com/sberdevices/plasma/pull/688,2021-08-30T10:52:10Z,2021-09-07T12:49:07Z,8,1,MERGED
+plasma,feat(plasma-web): Added `TabsController` in order to use keyboard arrows,https://github.com/sberdevices/plasma/pull/687,2021-08-30T08:13:24Z,2021-09-03T11:49:09Z,5,2,MERGED
+plasma,"feat: `Dropdown` color, icon; fix: `Dropdown` radius, shadow",https://github.com/sberdevices/plasma/pull/683,2021-08-27T08:24:24Z,2021-09-01T08:17:26Z,13,3,MERGED
+plasma,feat(plasma-ui): value format for `Stepper` added,https://github.com/sberdevices/plasma/pull/675,2021-08-26T14:35:35Z,2021-09-08T09:05:09Z,20,1,MERGED
+plasma,chore: CODEOWNERS,https://github.com/sberdevices/plasma/pull/674,2021-08-26T11:33:22Z,2021-08-27T21:36:08Z,9,1,MERGED
+plasma,docs: Writing new docs,https://github.com/sberdevices/plasma/pull/670,2021-08-25T12:51:06Z,2021-09-01T09:06:10Z,130,2,CLOSED
+plasma,chore: Moved docs/showcase to utils/showcase,https://github.com/sberdevices/plasma/pull/668,2021-08-24T08:16:16Z,2021-08-25T08:04:13Z,7,1,MERGED
+plasma,"chore(plasma-ui, plasma-web): knobs to controls migration - web - part 4",https://github.com/sberdevices/plasma/pull/662,2021-08-19T15:26:58Z,2021-09-09T10:18:56Z,11,1,MERGED
+plasma,docs(plasma-web): knobs to controls migration - web - part 3-1,https://github.com/sberdevices/plasma/pull/661,2021-08-19T15:25:13Z,2021-08-30T06:55:45Z,9,2,MERGED
+plasma,feat(plasma-ui): Add Sheet component,https://github.com/sberdevices/plasma/pull/660,2021-08-19T12:39:30Z,2021-08-27T08:38:52Z,12,2,MERGED
+plasma,feat: A11y Tabs / DCA Tabs / SberBox Tabs remote control,https://github.com/sberdevices/plasma/pull/659,2021-08-19T08:50:15Z,2021-08-27T11:10:50Z,12,3,MERGED
+plasma,"chore(plasma-ui, plasma-web): knobs to controls migration - web - part 2",https://github.com/sberdevices/plasma/pull/652,2021-08-18T21:57:23Z,2021-09-09T10:52:55Z,10,1,MERGED
+plasma,"chore(plasma-ui, plasma-web): knobs to controls migration - web - part 1",https://github.com/sberdevices/plasma/pull/651,2021-08-18T21:56:05Z,2021-09-09T12:09:08Z,18,1,MERGED
+plasma,feat(plasma-ui): Switch add readOnly prop,https://github.com/sberdevices/plasma/pull/650,2021-08-18T12:28:05Z,2021-08-23T13:38:43Z,12,1,MERGED
+plasma,chore(plasma-ui): knobs to controls migration - Tabs,https://github.com/sberdevices/plasma/pull/649,2021-08-17T20:17:22Z,2021-08-26T10:35:29Z,7,1,MERGED
+plasma,Docusaurus engine based documentation & deployment,https://github.com/sberdevices/plasma/pull/648,2021-08-17T16:11:43Z,2021-09-01T09:05:45Z,15,5,MERGED
+plasma,chore(plasma-ui): knobs to controls migration - part 4,https://github.com/sberdevices/plasma/pull/647,2021-08-17T11:09:41Z,2021-09-09T11:23:01Z,24,3,MERGED
+plasma,chore(update-deps): move update-services ip to env,https://github.com/sberdevices/plasma/pull/646,2021-08-16T09:28:31Z,2021-08-19T10:11:25Z,13,1,MERGED
+plasma,"chore(plasma-ui, plasma-web): knobs to controls migration - part 3",https://github.com/sberdevices/plasma/pull/640,2021-08-12T09:48:23Z,2021-08-18T14:17:31Z,12,1,MERGED
+plasma,"chore(plasma-ui, plasma-web): knobs to controls migration - part 2",https://github.com/sberdevices/plasma/pull/639,2021-08-12T09:47:09Z,2021-08-27T09:31:33Z,22,1,MERGED
+plasma,fix(plasma-ui): fix vertical position of HeaderBack,https://github.com/sberdevices/plasma/pull/634,2021-08-11T12:40:03Z,2021-08-18T09:11:43Z,14,1,MERGED
+plasma,feat: A11y Switch,https://github.com/sberdevices/plasma/pull/633,2021-08-10T14:04:53Z,2021-08-20T09:24:36Z,6,1,MERGED
+plasma,feat(plasma-ui): Add mixin reexports from core,https://github.com/sberdevices/plasma/pull/629,2021-08-09T19:42:15Z,2021-08-10T09:34:14Z,3,2,MERGED
+plasma,feat: Skeleton in core/ui/web,https://github.com/sberdevices/plasma/pull/628,2021-08-09T15:49:35Z,2021-08-20T13:25:29Z,19,2,MERGED
+plasma,"chore(plasma-ui, plasma-web): knobs to controls migration - part 1",https://github.com/sberdevices/plasma/pull/627,2021-08-09T09:47:58Z,2021-08-18T13:51:54Z,32,2,MERGED
+plasma,fix(plasma-core): Image: add role attr,https://github.com/sberdevices/plasma/pull/620,2021-08-05T19:09:02Z,2021-08-06T11:03:56Z,11,1,MERGED
+plasma,fix(plasma-ui): marquee fix,https://github.com/sberdevices/plasma/pull/618,2021-08-05T06:28:28Z,2021-08-18T08:17:04Z,42,4,MERGED
+plasma,chore: example of custom header,https://github.com/sberdevices/plasma/pull/610,2021-08-04T07:12:52Z,2021-08-04T08:10:35Z,3,1,CLOSED
+plasma,chore: Update issue templates,https://github.com/sberdevices/plasma/pull/609,2021-08-03T14:24:59Z,2021-08-04T07:27:00Z,12,1,MERGED
+plasma,ci: Build plasma tokens without rollup,https://github.com/sberdevices/plasma/pull/608,2021-08-03T10:16:00Z,2021-08-06T09:04:45Z,13,1,MERGED
+plasma,fix: Execution layout effect on server,https://github.com/sberdevices/plasma/pull/607,2021-08-02T11:14:43Z,2021-08-06T13:41:02Z,13,3,MERGED
+plasma,plasma-tokens: add Brand Theme,https://github.com/sberdevices/plasma/pull/1026,2021-12-30T14:05:12Z,2021-12-30T15:57:13Z,7,4,MERGED
+plasma,(plasma-temple): PlasmaApp tests,https://github.com/sberdevices/plasma/pull/1025,2021-12-30T10:01:57Z,2022-01-17T09:33:29Z,17,2,MERGED
+plasma,fix: `Modal` fixes,https://github.com/sberdevices/plasma/pull/1024,2021-12-29T15:14:34Z,2022-01-18T14:13:37Z,15,5,MERGED
+plasma,feat(plasma-temple): Controlled video fit on video page,https://github.com/sberdevices/plasma/pull/1023,2021-12-29T13:11:23Z,2021-12-30T09:45:54Z,5,1,MERGED
+plasma,test(plasma-ui): Add tests and snapshots for `Pickers` component,https://github.com/sberdevices/plasma/pull/1022,2021-12-28T14:22:41Z,2021-12-29T11:55:44Z,9,2,MERGED
+plasma,test(plasma-ui): Add tests and snapshots for `Slider` component,https://github.com/sberdevices/plasma/pull/1021,2021-12-28T12:21:47Z,2021-12-29T11:11:21Z,6,1,MERGED
+plasma,test(plasma-b2c): Add tests and snapshots for `ElasticGrid` component,https://github.com/sberdevices/plasma/pull/1020,2021-12-27T13:13:39Z,2022-01-13T11:07:55Z,17,3,MERGED
+plasma,test(plasma-b2c): `Body` & `Text` tests,https://github.com/sberdevices/plasma/pull/1019,2021-12-27T11:59:05Z,2021-12-27T13:01:45Z,3,1,MERGED
+plasma,fix(plasma-tokens-b2c): change primary tokens,https://github.com/sberdevices/plasma/pull/1018,2021-12-25T13:27:11Z,2022-02-13T20:19:01Z,1,1,CLOSED
+plasma,"test(plasma-b2c, plasma-web): Add statuses to `Notification` test",https://github.com/sberdevices/plasma/pull/1017,2021-12-25T09:46:55Z,2021-12-27T09:38:50Z,8,2,MERGED
+plasma,fix(plasma-ui): Set `HeaderArrow` full height,https://github.com/sberdevices/plasma/pull/1016,2021-12-24T11:56:00Z,2021-12-29T15:48:57Z,10,1,MERGED
+plasma,test(plasma-b2c): Add tests and snapshots for `Slider` component,https://github.com/sberdevices/plasma/pull/1015,2021-12-24T08:25:55Z,2021-12-24T12:42:43Z,9,1,MERGED
+plasma,fix(plasma-ui): `Picker`s' controls position,https://github.com/sberdevices/plasma/pull/1014,2021-12-23T12:59:36Z,2022-01-11T10:16:51Z,9,3,MERGED
+plasma,test(plasma-b2c): Add tests and snapshots for `Editable` component,https://github.com/sberdevices/plasma/pull/1013,2021-12-23T11:26:34Z,2021-12-24T07:29:47Z,3,1,MERGED
+plasma,test(plasma-b2c): Add tests and snapshots for `Upload` component,https://github.com/sberdevices/plasma/pull/1012,2021-12-22T14:07:37Z,2021-12-24T14:20:09Z,10,1,MERGED
+plasma,feat(plasma-temple): Ability to hide player controls,https://github.com/sberdevices/plasma/pull/1011,2021-12-22T13:36:17Z,2021-12-24T08:54:37Z,6,1,MERGED
+plasma,"test(plasma-b2c, plasma-web): Add statuses to `Notification` test",https://github.com/sberdevices/plasma/pull/1010,2021-12-22T11:19:13Z,2021-12-25T09:45:40Z,21,2,CLOSED
+plasma,test(plasma-b2c): update coverage for `PreviewGallery` component,https://github.com/sberdevices/plasma/pull/1009,2021-12-22T09:10:16Z,2021-12-27T05:59:43Z,9,9,MERGED
+plasma,fix(plasma-ui): Add scroll fix for `Picker` component,https://github.com/sberdevices/plasma/pull/1007,2021-12-21T09:17:31Z,2021-12-27T06:31:35Z,10,1,MERGED
+plasma,test(plasma-temple): grid page spec,https://github.com/sberdevices/plasma/pull/1006,2021-12-20T17:41:13Z,2022-02-09T17:58:44Z,23,2,MERGED
+plasma,(plasma-temple): CartPage Fixes,https://github.com/sberdevices/plasma/pull/1005,2021-12-20T11:40:15Z,2022-01-19T11:30:09Z,12,3,MERGED
+plasma,feat(plasma-temple): Mobile StateLayout,https://github.com/sberdevices/plasma/pull/1004,2021-12-20T08:10:10Z,2022-01-26T13:34:18Z,5,1,MERGED
+plasma,"test(plasma-ui,plasm-web,plasma-b2c): more tests",https://github.com/sberdevices/plasma/pull/1002,2021-12-19T19:19:02Z,2022-02-16T21:19:01Z,3,1,CLOSED
+plasma,test(plasma-cy-utils): wrap SSRProvider over all tests,https://github.com/sberdevices/plasma/pull/1001,2021-12-19T19:15:24Z,2021-12-20T11:49:03Z,5,6,MERGED
+plasma,feat(b2c): add SSRProvider,https://github.com/sberdevices/plasma/pull/1000,2021-12-18T10:31:13Z,2021-12-19T21:48:51Z,15,1,MERGED
+plasma,ci: improve coverall check,https://github.com/sberdevices/plasma/pull/999,2021-12-17T22:31:05Z,2021-12-18T07:54:50Z,3,1,MERGED
+plasma,fix(plasma-ui): fail me please,https://github.com/sberdevices/plasma/pull/998,2021-12-17T21:15:38Z,2021-12-18T08:50:05Z,7,1,CLOSED
+plasma,ci: add codecov,https://github.com/sberdevices/plasma/pull/997,2021-12-17T20:47:42Z,2021-12-17T21:13:53Z,3,1,MERGED
+plasma,fix(plasma-core): Add fix for `Carousel` component in start scroll,https://github.com/sberdevices/plasma/pull/996,2021-12-17T09:21:18Z,2021-12-27T08:59:16Z,19,2,MERGED
+plasma,fix(plasma-temple): Fix async Layout render,https://github.com/sberdevices/plasma/pull/995,2021-12-16T12:25:26Z,2021-12-17T07:46:12Z,4,1,MERGED
+plasma,ci: merge coverage,https://github.com/sberdevices/plasma/pull/994,2021-12-15T17:39:42Z,2021-12-20T11:36:58Z,2,1,CLOSED
+plasma,test(plasma-b2c): fix tests,https://github.com/sberdevices/plasma/pull/993,2021-12-15T16:59:06Z,2021-12-15T17:38:16Z,2,1,MERGED
+plasma,feat(plasma-b2c): make RadioGroup public,https://github.com/sberdevices/plasma/pull/992,2021-12-15T15:42:28Z,2021-12-15T18:47:25Z,2,1,MERGED
+plasma,test(plasma-ui): Controls Components,https://github.com/sberdevices/plasma/pull/991,2021-12-14T21:15:11Z,2021-12-17T12:31:59Z,24,7,MERGED
+plasma,test(plasma-ui): Layout Components,https://github.com/sberdevices/plasma/pull/990,2021-12-14T18:43:48Z,2021-12-15T10:52:00Z,12,6,MERGED
+plasma,fix(plasma-temple): Always show player controls on key press,https://github.com/sberdevices/plasma/pull/989,2021-12-14T14:30:28Z,2021-12-15T08:19:11Z,7,1,MERGED
+plasma,feat: Add workflow_run for documentation-main workflow,https://github.com/sberdevices/plasma/pull/988,2021-12-14T10:56:35Z,2021-12-14T12:06:08Z,3,1,MERGED
+plasma,Neretinaa/test fork branch,https://github.com/sberdevices/plasma/pull/987,2021-12-14T08:40:49Z,2021-12-14T08:41:35Z,0,2,CLOSED
+plasma,remove useless workflow and commented steps,https://github.com/sberdevices/plasma/pull/986,2021-12-14T06:04:57Z,2021-12-14T06:05:34Z,0,1,CLOSED
+plasma,test: Complete tests for `Tabs`,https://github.com/sberdevices/plasma/pull/985,2021-12-13T15:54:18Z,2021-12-27T14:34:37Z,30,3,MERGED
+plasma,"feat(plasma-web, plasma-b2c): Arrow and check placement in `Select`",https://github.com/sberdevices/plasma/pull/983,2021-12-13T14:25:02Z,2021-12-22T09:46:13Z,12,2,MERGED
+plasma,revert: #948 and #979,https://github.com/sberdevices/plasma/pull/982,2021-12-13T09:38:16Z,2021-12-13T10:41:43Z,4,7,MERGED
+plasma,Release ci revert ,https://github.com/sberdevices/plasma/pull/981,2021-12-13T09:27:04Z,2021-12-13T09:39:26Z,1,1,CLOSED
+plasma,fix: Rollback to old ci for release and build documentation,https://github.com/sberdevices/plasma/pull/980,2021-12-13T08:57:10Z,2021-12-13T09:22:42Z,2,1,CLOSED
+plasma,fix: Add step for restore cache node_modules,https://github.com/sberdevices/plasma/pull/979,2021-12-13T07:18:29Z,2021-12-13T08:29:25Z,5,1,MERGED
+plasma,test(plasma-ui): Content Components,https://github.com/sberdevices/plasma/pull/978,2021-12-13T00:33:52Z,2021-12-14T15:11:11Z,20,10,MERGED
+plasma,feat(plasma-core): Add scrollable container for `Tab` component,https://github.com/sberdevices/plasma/pull/976,2021-12-10T12:55:28Z,2022-01-27T05:55:36Z,25,4,MERGED
+plasma,feat(plasma-temple): setup cypress tests,https://github.com/sberdevices/plasma/pull/975,2021-12-09T14:50:36Z,2022-01-10T08:14:54Z,51,3,MERGED
+plasma,feat: `Carousel` a11y improvements,https://github.com/sberdevices/plasma/pull/973,2021-12-08T09:03:13Z,2022-01-11T11:48:33Z,48,3,MERGED
+plasma,feat(plasma-b2c): Add mobile sizes for Tabs,https://github.com/sberdevices/plasma/pull/972,2021-12-08T06:00:50Z,2021-12-16T13:58:09Z,30,1,MERGED
+plasma,feat(plasma-temple): add promocode to cart,https://github.com/sberdevices/plasma/pull/971,2021-12-07T11:49:58Z,2021-12-13T11:43:48Z,10,2,MERGED
+plasma,feat(plasma-core): Add ReactNode type for label field in `Checkbox` component ,https://github.com/sberdevices/plasma/pull/969,2021-12-06T10:57:28Z,2021-12-15T05:13:38Z,9,4,MERGED
+plasma,test: Add Cypress component test for `Carousel`,https://github.com/sberdevices/plasma/pull/968,2021-12-03T10:15:10Z,2021-12-15T13:58:56Z,29,3,MERGED
+plasma,fix(palsma-b2c): preview gallery data contracts,https://github.com/sberdevices/plasma/pull/967,2021-12-02T13:46:19Z,2021-12-08T18:34:58Z,4,1,MERGED
+plasma,fix(plasma-temple): Fix time chop in VideoPlayer,https://github.com/sberdevices/plasma/pull/966,2021-12-02T09:43:10Z,2021-12-09T13:29:28Z,19,1,MERGED
+plasma,feat: b2c put preview gallery rest props,https://github.com/sberdevices/plasma/pull/965,2021-12-01T16:46:55Z,2021-12-02T09:55:35Z,8,1,MERGED
+plasma,Draft: feat(plasma-ui): Fix async Container ref with MutationObserver,https://github.com/sberdevices/plasma/pull/964,2021-12-01T09:15:00Z,2022-02-07T12:19:32Z,5,1,CLOSED
+plasma,feat(plasma-temple): add multiline product description,https://github.com/sberdevices/plasma/pull/963,2021-12-01T08:30:48Z,2021-12-09T15:58:58Z,13,1,MERGED
+plasma,feat: Add breakWord prop for `Typography` components,https://github.com/sberdevices/plasma/pull/962,2021-12-01T06:20:03Z,2021-12-09T12:55:43Z,15,3,MERGED
+plasma,chore: Update `CODEOWNERS`,https://github.com/sberdevices/plasma/pull/961,2021-11-30T18:40:34Z,2021-12-03T11:46:10Z,4,1,MERGED
+plasma,feat: Add sequenced execution for Release and Documentation workflows (reupload),https://github.com/sberdevices/plasma/pull/959,2021-11-30T04:49:57Z,2021-11-30T05:32:48Z,2,2,CLOSED
+plasma,fix(plasma-ui): Prevent `Radiobox`'s & `Checkbox`'s trigger from squeeze,https://github.com/sberdevices/plasma/pull/958,2021-11-29T14:30:46Z,2021-12-23T08:57:42Z,10,1,MERGED
+plasma,feat(plasma-ui): Add infinite scroll for `DatePicker` and `TimePicker` components,https://github.com/sberdevices/plasma/pull/957,2021-11-26T12:58:27Z,2021-12-14T13:44:30Z,15,2,MERGED
+plasma,ci: Removed Cypress E2E workflow,https://github.com/sberdevices/plasma/pull/956,2021-11-26T09:43:55Z,2021-11-26T10:46:59Z,2,1,MERGED
+plasma,feat(plasma-ui): Add default value in `Slider` component if theme context is undefined,https://github.com/sberdevices/plasma/pull/955,2021-11-25T10:10:39Z,2021-12-02T07:19:12Z,8,1,MERGED
+plasma,feat(plasma-temple): Add cart test attributes,https://github.com/sberdevices/plasma/pull/954,2021-11-25T07:14:37Z,2021-11-26T08:10:19Z,10,1,MERGED
+plasma,ci: Versionate docs,https://github.com/sberdevices/plasma/pull/953,2021-11-23T13:57:27Z,2021-12-28T10:12:35Z,49,1,MERGED
+plasma,chore: Update CONTRIBUTING.md,https://github.com/sberdevices/plasma/pull/952,2021-11-23T10:57:40Z,2022-02-10T14:24:38Z,15,1,MERGED
+plasma,feat: b2c button rounding,https://github.com/sberdevices/plasma/pull/951,2021-11-23T10:42:55Z,2021-11-23T13:03:55Z,6,3,CLOSED
+plasma,fix: Set Underline to uppercase,https://github.com/sberdevices/plasma/pull/950,2021-11-23T08:52:52Z,2021-12-14T16:01:53Z,9,1,MERGED
+plasma,feat(plasma-temple): update assistant-client version,https://github.com/sberdevices/plasma/pull/949,2021-11-23T08:29:23Z,2021-11-23T12:49:01Z,9,1,MERGED
+plasma,feat: Add sequenced execution for Release and Documentation workflows ,https://github.com/sberdevices/plasma/pull/948,2021-11-23T05:40:51Z,2021-12-13T05:31:53Z,78,4,MERGED
+plasma,feat: Docs dark theme switcher,https://github.com/sberdevices/plasma/pull/947,2021-11-22T13:37:25Z,2021-12-03T10:52:53Z,9,1,MERGED
+plasma,feat: Added `createButton` as a constructor function for `Button`,https://github.com/sberdevices/plasma/pull/946,2021-11-21T22:22:18Z,2021-12-03T10:26:40Z,14,2,MERGED
+plasma,feat: checkbox label type,https://github.com/sberdevices/plasma/pull/945,2021-11-19T16:09:27Z,2022-01-12T12:38:58Z,4,1,CLOSED
+plasma,chore(plasma-temple): test build in CI,https://github.com/sberdevices/plasma/pull/944,2021-11-19T15:05:03Z,2021-11-22T16:39:29Z,2,1,CLOSED
+plasma,feat(plasma-temple): add support new header api,https://github.com/sberdevices/plasma/pull/943,2021-11-19T13:25:33Z,2021-12-06T07:29:50Z,18,2,MERGED
+plasma,feat(plasma-web): Udate `Tooltip` behavior,https://github.com/sberdevices/plasma/pull/942,2021-11-19T12:45:58Z,2021-12-01T11:22:44Z,8,3,MERGED
+plasma,feat(plasma-temple): support for window.appInitialData,https://github.com/sberdevices/plasma/pull/941,2021-11-19T08:30:24Z,2021-11-26T13:09:55Z,24,1,MERGED
+plasma,feat(plasma-temple): Don't use assistant dev mode  with Cypress,https://github.com/sberdevices/plasma/pull/940,2021-11-18T16:05:30Z,2021-11-23T08:01:25Z,2,1,CLOSED
+plasma,docs(plasma-ui): add community figma,https://github.com/sberdevices/plasma/pull/939,2021-11-18T13:43:00Z,2021-12-13T13:58:58Z,6,1,MERGED
+plasma,feat(plasma-temple):  Additional buttons in ItemPage,https://github.com/sberdevices/plasma/pull/938,2021-11-18T13:33:15Z,2021-11-29T12:29:21Z,8,1,MERGED
+plasma,fix: b2c grid doc,https://github.com/sberdevices/plasma/pull/937,2021-11-18T12:26:16Z,2021-11-23T10:13:35Z,4,1,MERGED
+plasma,feat: export spacing,https://github.com/sberdevices/plasma/pull/936,2021-11-18T10:27:06Z,2021-11-18T12:25:41Z,4,1,MERGED
+plasma,fix(plasma-tokens-web): Fix `Tooltip` & `Button` confusing `checked` …,https://github.com/sberdevices/plasma/pull/935,2021-11-18T09:14:33Z,2021-11-29T11:33:09Z,15,1,MERGED
+plasma,"fix(plasma-ui, plasma-b2c): Fix intersection in `Slider` component",https://github.com/sberdevices/plasma/pull/934,2021-11-18T07:26:00Z,2021-12-02T10:49:58Z,19,2,MERGED
+plasma,fix(plasma-web): Add `Button`'s `warning` view,https://github.com/sberdevices/plasma/pull/933,2021-11-17T15:02:15Z,2021-11-19T12:36:15Z,5,1,MERGED
+plasma,fix(plama-web): Added possibility to specify a value type in `Select`,https://github.com/sberdevices/plasma/pull/932,2021-11-17T12:49:01Z,2021-12-03T13:12:27Z,4,1,MERGED
+plasma,feat(website): add description for templates docs,https://github.com/sberdevices/plasma/pull/931,2021-11-17T10:42:28Z,2021-11-25T10:44:34Z,21,1,MERGED
+plasma,feat(plasma-ui): Add a11y for `Stepper` component,https://github.com/sberdevices/plasma/pull/930,2021-11-17T07:07:56Z,2021-11-30T08:59:56Z,10,2,MERGED
+plasma,fix(plasma-temple): useHeaderProps export,https://github.com/sberdevices/plasma/pull/929,2021-11-16T21:29:45Z,2021-11-17T08:27:34Z,2,1,CLOSED
+plasma,fix: plasma-web grid mobile margins,https://github.com/sberdevices/plasma/pull/928,2021-11-16T15:58:41Z,2021-11-17T09:40:24Z,4,2,MERGED
+plasma,fix(plasma-b2c): reduce slider handle z-index,https://github.com/sberdevices/plasma/pull/927,2021-11-16T15:03:50Z,2021-11-17T10:39:12Z,4,2,MERGED
+plasma,fix(plasma-web): prevent disabled select from opening,https://github.com/sberdevices/plasma/pull/925,2021-11-15T15:51:09Z,2021-11-18T13:05:40Z,22,2,MERGED
+plasma,feat(plasma-b2c): PreviewGallery features,https://github.com/sberdevices/plasma/pull/924,2021-11-15T08:49:56Z,2021-11-15T13:53:38Z,10,1,MERGED
+plasma,feat: Tabs A11Y,https://github.com/sberdevices/plasma/pull/923,2021-11-10T15:40:34Z,2021-12-01T07:34:42Z,16,9,MERGED
+plasma,chore(plasma-ui): fix sb card cover control,https://github.com/sberdevices/plasma/pull/921,2021-11-10T14:07:05Z,2021-11-11T10:42:58Z,2,1,MERGED
+plasma,fix: `Image` appearance,https://github.com/sberdevices/plasma/pull/920,2021-11-09T11:06:23Z,2021-11-16T08:27:11Z,11,3,MERGED
+plasma,feat(plasma-icons): Remove `IconVolumeMute` and mark `IconSpinner` as deprecated ,https://github.com/sberdevices/plasma/pull/919,2021-11-09T07:43:25Z,2021-11-22T05:45:42Z,6,2,MERGED
+plasma,feat: Added Plasma Temple documentation app,https://github.com/sberdevices/plasma/pull/918,2021-11-08T13:53:13Z,2021-11-16T14:19:25Z,6,5,MERGED
+plasma,chore: Coverage for all packages,https://github.com/sberdevices/plasma/pull/917,2021-11-08T11:24:40Z,2021-11-17T13:38:26Z,69,1,MERGED
+plasma,feat(plasma-ui): Added option to enable native input for Pickers,https://github.com/sberdevices/plasma/pull/916,2021-11-08T10:24:59Z,2021-11-10T10:51:19Z,8,1,MERGED
+plasma,test(plasma-ui): `DatePicker` and `TimePicker` ct,https://github.com/sberdevices/plasma/pull/915,2021-11-03T14:30:35Z,2021-11-08T11:03:50Z,2,1,MERGED
+plasma,test: Improve tests for `TextField` and `TextArea`,https://github.com/sberdevices/plasma/pull/914,2021-11-03T10:11:37Z,2021-11-03T10:42:44Z,3,1,MERGED
+plasma,feat(plasma-b2c): make single slider rail clickable,https://github.com/sberdevices/plasma/pull/913,2021-11-03T08:30:52Z,2021-11-09T12:18:47Z,5,2,MERGED
+plasma,fix(plasma-web): prevent radiobox elipse shrinking,https://github.com/sberdevices/plasma/pull/912,2021-11-02T15:36:43Z,2021-11-03T03:24:00Z,2,1,MERGED
+plasma,feat(plasma-web-docs): Add codesandbox for docs,https://github.com/sberdevices/plasma/pull/911,2021-11-02T13:24:22Z,2021-11-18T15:15:32Z,42,3,MERGED
+plasma,feat: B2C/B2B `Input` and `TextArea`,https://github.com/sberdevices/plasma/pull/910,2021-11-02T10:45:44Z,2021-11-22T15:10:58Z,15,6,MERGED
+plasma,fix: Pass `Image`'s width and height through args,https://github.com/sberdevices/plasma/pull/909,2021-11-02T10:41:59Z,2021-11-09T13:45:49Z,6,3,MERGED
+plasma,fix: Separate `Input`'s animation by b2b and b2c,https://github.com/sberdevices/plasma/pull/908,2021-11-02T10:38:15Z,2021-11-15T15:06:14Z,6,1,MERGED
+plasma,feat(plasma-temple): Custom check of cart quantity limit,https://github.com/sberdevices/plasma/pull/906,2021-11-01T15:44:02Z,2022-02-17T14:43:56Z,2,1,CLOSED
+plasma,fix(plasma-b2c): set slider handle box-sizing,https://github.com/sberdevices/plasma/pull/904,2021-11-01T09:12:48Z,2021-11-01T12:04:01Z,6,2,MERGED
+plasma,"feat(plasma-temple): support esm, remove inline images from build",https://github.com/sberdevices/plasma/pull/1168,2022-03-29T13:40:11Z,2022-04-01T07:39:04Z,16,1,MERGED
+plasma,feat(plasma-temple): Assistant impovements,https://github.com/sberdevices/plasma/pull/1163,2022-03-28T12:43:53Z,2022-03-31T14:24:21Z,13,1,MERGED
+plasma,failed autogenerate PR - feat(plasma-icon): Add icons for `16 dp` sizes,https://github.com/sberdevices/plasma/pull/1161,2022-03-28T10:55:56Z,2022-03-28T11:10:22Z,0,1,CLOSED
+plasma,failed autogenerate PR - feat(plasma-icon): Add icons for `16 dp` sizes,https://github.com/sberdevices/plasma/pull/1160,2022-03-28T10:13:18Z,2022-03-28T10:50:01Z,1,1,CLOSED
+plasma,failed autogenerate PR - feat(plasma-icon): Add icons for 16 dp sizes,https://github.com/sberdevices/plasma/pull/1159,2022-03-28T09:39:57Z,2022-03-28T10:05:51Z,1,1,CLOSED
+plasma,failed autogenerate PR - feat(plasma-icon): Add icons for 16 dp size,https://github.com/sberdevices/plasma/pull/1158,2022-03-28T08:47:19Z,2022-03-28T09:34:43Z,1,1,CLOSED
+plasma,feat(plasma-web): `Dropdown` & `Select` a11y: navigating with keyboard,https://github.com/sberdevices/plasma/pull/1157,2022-03-25T16:15:45Z,2022-03-31T12:48:01Z,22,5,MERGED
+plasma,feat(plasma-temple): Grid component,https://github.com/sberdevices/plasma/pull/1156,2022-03-24T13:30:32Z,2022-03-30T12:51:07Z,19,2,MERGED
+plasma,feat(plasma-web): Add ref to carousel,https://github.com/sberdevices/plasma/pull/1155,2022-03-23T12:40:39Z,2022-03-25T11:40:11Z,9,1,MERGED
+plasma,"feat(plasma-web,plasma-b2c): Add focus for `Checkbox` and `Radiobox` components",https://github.com/sberdevices/plasma/pull/1154,2022-03-23T11:00:05Z,2022-03-23T11:56:53Z,5,2,MERGED
+plasma,ci: delete unused file,https://github.com/sberdevices/plasma/pull/1153,2022-03-23T08:51:38Z,2022-03-23T09:49:09Z,3,1,MERGED
+plasma,feat(plasma-icons): Add scalable icons prototype ,https://github.com/sberdevices/plasma/pull/1152,2022-03-22T11:15:46Z,2022-03-24T12:29:39Z,11,3,MERGED
+plasma,feat(aml): Cross reference with corresp. SM docs,https://github.com/sberdevices/plasma/pull/1151,2022-03-18T09:41:54Z,2022-03-18T10:15:35Z,3,1,MERGED
+plasma,feat(plasma-temple): Support onboarding page in StateLayout component,https://github.com/sberdevices/plasma/pull/1150,2022-03-17T11:59:00Z,2022-03-30T11:17:41Z,8,2,MERGED
+plasma,fix: `Checkbox` & `Radiobox` removed label duplication,https://github.com/sberdevices/plasma/pull/1149,2022-03-17T09:30:46Z,2022-03-30T15:06:41Z,30,5,MERGED
+plasma,feat(versionate-docs): Added versionArchived.json sort,https://github.com/sberdevices/plasma/pull/1147,2022-03-16T14:06:16Z,2022-03-18T07:41:55Z,6,1,MERGED
+plasma,feat(plasma-web-docs): Using b2b tokens / switch light/dark,https://github.com/sberdevices/plasma/pull/1146,2022-03-15T12:28:08Z,2022-03-17T10:33:19Z,13,3,MERGED
+plasma,feat(plasma-temple): Success page,https://github.com/sberdevices/plasma/pull/1145,2022-03-15T11:49:07Z,2022-03-30T09:20:05Z,9,1,MERGED
+plasma,feat(plasma-ui): Added `ProductCard` component,https://github.com/sberdevices/plasma/pull/1144,2022-03-15T11:39:31Z,2022-04-01T15:23:13Z,20,3,MERGED
+plasma,feat(plasma-temple): Item component,https://github.com/sberdevices/plasma/pull/1143,2022-03-11T15:51:08Z,2022-03-30T07:49:07Z,25,1,MERGED
+plasma,feat(plasma-web): `Select`: listbox presentation,https://github.com/sberdevices/plasma/pull/1142,2022-03-11T11:14:53Z,2022-03-27T13:01:35Z,7,1,CLOSED
+plasma,feat(plasma-temple): Export for useSpatNavBetweenTargets,https://github.com/sberdevices/plasma/pull/1140,2022-03-10T12:54:31Z,2022-03-16T13:55:09Z,13,1,MERGED
+plasma,docs(versionate-docs): Added `README.md`,https://github.com/sberdevices/plasma/pull/1139,2022-03-10T09:20:14Z,2022-03-10T11:43:05Z,15,1,MERGED
+plasma,fix(plasma-web-docs): Docusaurus docgen plugin's json fail,https://github.com/sberdevices/plasma/pull/1138,2022-03-10T08:46:19Z,2022-03-10T09:17:58Z,3,1,MERGED
+plasma,feat(aml): mention AML in plasma ui docs,https://github.com/sberdevices/plasma/pull/1137,2022-03-09T12:56:42Z,2022-03-11T13:29:25Z,24,1,MERGED
+plasma,chore(plasma-web): Delete `Popup` from storybook,https://github.com/sberdevices/plasma/pull/1136,2022-03-05T13:46:31Z,2022-03-10T12:44:35Z,5,1,MERGED
+plasma,feat(plasma-web): `Tooltip` a11y & close with esc,https://github.com/sberdevices/plasma/pull/1135,2022-03-05T12:18:52Z,2022-03-28T10:04:29Z,12,1,MERGED
+plasma,docs: `Spinner` live example of a11y,https://github.com/sberdevices/plasma/pull/1134,2022-03-05T09:43:35Z,2022-03-21T12:37:16Z,5,1,MERGED
+plasma,feat: `TextArea` a11y improvements,https://github.com/sberdevices/plasma/pull/1133,2022-03-05T07:35:31Z,2022-03-16T12:20:08Z,7,3,MERGED
+plasma,fix(plasma-temple): Poster classname on video change,https://github.com/sberdevices/plasma/pull/1132,2022-03-04T08:26:58Z,2022-03-05T14:13:11Z,5,1,MERGED
+plasma,feat(plasma-web): `Modal` added react-focus-lock for focus management,https://github.com/sberdevices/plasma/pull/1130,2022-03-03T13:17:08Z,2022-04-05T14:03:14Z,18,2,MERGED
+plasma,docs: `withSkeleton` wraps component with a11y,https://github.com/sberdevices/plasma/pull/1129,2022-03-03T10:55:36Z,2022-03-22T08:13:34Z,8,1,MERGED
+plasma,feat(plasma-temple): error page improvements and  mobile version,https://github.com/sberdevices/plasma/pull/1128,2022-03-03T10:16:25Z,2022-03-11T07:08:29Z,13,1,MERGED
+plasma,feat(plasma-web): `Notification`: added possibility to anounce text w…,https://github.com/sberdevices/plasma/pull/1127,2022-03-03T08:35:32Z,2022-03-15T12:27:05Z,8,2,MERGED
+plasma,fix(plasma-web): Add restrict bounds for value in `Progress` component,https://github.com/sberdevices/plasma/pull/1126,2022-03-02T07:26:34Z,2022-03-14T08:00:50Z,8,2,MERGED
+plasma,feat(plasma-temple): Exports for custom ittem page,https://github.com/sberdevices/plasma/pull/1125,2022-03-02T06:49:16Z,2022-03-09T07:32:19Z,7,1,MERGED
+plasma,feat: `TextField` a11y improvements,https://github.com/sberdevices/plasma/pull/1124,2022-03-01T10:15:56Z,2022-03-16T10:11:20Z,9,3,MERGED
+plasma,test(plasma-tokens-b2b): Added tests for B2B `Button`,https://github.com/sberdevices/plasma/pull/1123,2022-03-01T08:23:12Z,2022-03-02T09:44:28Z,13,2,MERGED
+plasma,fix(plasma-temple): GalleryPage header typography,https://github.com/sberdevices/plasma/pull/1122,2022-03-01T07:56:50Z,2022-03-15T14:36:18Z,20,1,MERGED
+plasma,feat: B2B `TextField`,https://github.com/sberdevices/plasma/pull/1121,2022-02-28T10:21:58Z,2022-04-07T12:55:10Z,31,7,MERGED
+plasma,fix(plasma-ui): `TimePicker` splitter size,https://github.com/sberdevices/plasma/pull/1120,2022-02-25T09:20:16Z,2022-03-09T13:55:57Z,22,1,MERGED
+plasma,fix(plasma-ui): fix slider size and offset when active tab size is changed,https://github.com/sberdevices/plasma/pull/1118,2022-02-22T10:36:27Z,2022-02-28T08:17:42Z,7,1,MERGED
+plasma,fix(plasma-web): Image ratio fix,https://github.com/sberdevices/plasma/pull/1117,2022-02-22T09:53:02Z,2022-02-28T13:14:15Z,17,1,MERGED
+plasma,fix(plasma-ui): correct Tabs disable state,https://github.com/sberdevices/plasma/pull/1116,2022-02-22T09:47:09Z,2022-03-01T14:07:16Z,14,2,MERGED
+plasma,fix: `Tabs`: removed focus outline in item text,https://github.com/sberdevices/plasma/pull/1115,2022-02-22T09:15:42Z,2022-02-24T13:57:26Z,5,1,MERGED
+plasma,fix(plasma-core): Use default view for input readonly state,https://github.com/sberdevices/plasma/pull/1114,2022-02-21T13:42:34Z,2022-02-28T08:44:57Z,10,1,MERGED
+plasma,fix(plasma-core): Add data selector for syntheticFocus in `addFocus` mixin,https://github.com/sberdevices/plasma/pull/1113,2022-02-21T10:37:27Z,2022-02-22T10:17:02Z,5,2,MERGED
+plasma,chore(plasma-ui): Label in `TextBox`'s stories,https://github.com/sberdevices/plasma/pull/1112,2022-02-21T08:29:06Z,2022-02-28T13:44:25Z,5,1,MERGED
+plasma,Test new typecov workflow,https://github.com/sberdevices/plasma/pull/1111,2022-02-20T17:19:10Z,2022-02-21T07:15:04Z,5,5,CLOSED
+plasma,Product docs,https://github.com/sberdevices/plasma/pull/1110,2022-02-18T11:37:12Z,2022-03-04T17:17:08Z,3,3,MERGED
+plasma,test(plasma-temple): Product tests,https://github.com/sberdevices/plasma/pull/1109,2022-02-17T14:39:15Z,2022-03-05T10:00:54Z,10,2,MERGED
+plasma,feat: `PaginationDots`: made `aria-hidden=true` by default,https://github.com/sberdevices/plasma/pull/1108,2022-02-17T10:29:45Z,2022-03-01T11:42:08Z,5,1,MERGED
+plasma,fix(plasma-web): `Modal` background set to `backgroundPrimary` (01) token,https://github.com/sberdevices/plasma/pull/1106,2022-02-17T09:45:06Z,2022-02-18T11:08:56Z,11,2,MERGED
+plasma,chore(plasma-b2c): fix Modal.stories,https://github.com/sberdevices/plasma/pull/1105,2022-02-16T22:04:48Z,2022-02-18T16:17:56Z,7,1,MERGED
+plasma,fix(plasma-web): `Carousel`: moved style resets to core,https://github.com/sberdevices/plasma/pull/1104,2022-02-16T18:53:06Z,2022-02-24T10:28:10Z,5,1,MERGED
+plasma,feat(plasma-temple): className for poster on VideoPage,https://github.com/sberdevices/plasma/pull/1103,2022-02-16T12:47:58Z,2022-02-21T12:33:21Z,17,1,MERGED
+plasma,Plasma tokens b2c type coverage,https://github.com/sberdevices/plasma/pull/1094,2022-02-15T22:23:48Z,2022-02-16T05:48:11Z,7,2,CLOSED
+plasma,chore: add typescript-coverage workflow,https://github.com/sberdevices/plasma/pull/1093,2022-02-15T21:56:50Z,2022-02-21T09:09:18Z,11,1,MERGED
+plasma,docs(plasma-ui): `Header`: title and arrow components description,https://github.com/sberdevices/plasma/pull/1092,2022-02-15T14:37:26Z,2022-02-17T11:55:10Z,7,3,MERGED
+plasma,docs(plasma-ui): Described props `as` and `forwardedAs`,https://github.com/sberdevices/plasma/pull/1091,2022-02-15T12:40:36Z,2022-02-18T11:07:43Z,7,1,CLOSED
+plasma,"fix(plasma-web, plasma-b2c): `TextField`: separated helper spacing st…",https://github.com/sberdevices/plasma/pull/1090,2022-02-14T20:12:54Z,2022-02-16T07:24:26Z,6,1,MERGED
+plasma,Утилита для запуска тестов по платформам,https://github.com/sberdevices/plasma/pull/1089,2022-02-14T15:12:47Z,2022-02-28T12:00:52Z,45,4,MERGED
+plasma,fix(plasma-b2c): `Editable`: background in light theme,https://github.com/sberdevices/plasma/pull/1088,2022-02-14T14:10:53Z,2022-02-16T11:24:24Z,8,1,MERGED
+plasma,"fix(plasma-web, plasma-b2c): `Tooltip`: `dark02` and `white` colors",https://github.com/sberdevices/plasma/pull/1087,2022-02-14T13:52:55Z,2022-02-15T14:59:18Z,9,1,MERGED
+plasma,"docs(plasma-web, plasma-b2c): `Button`: using as an anchor",https://github.com/sberdevices/plasma/pull/1086,2022-02-14T13:14:44Z,2022-02-18T11:07:30Z,4,1,CLOSED
+plasma,fix(plasma-icons): remove unused icon,https://github.com/sberdevices/plasma/pull/1085,2022-02-14T11:09:52Z,2022-02-14T11:51:56Z,3,1,MERGED
+plasma,feat: B2B `Button` / added `@sberdevices/plasma-tokens-b2b` package,https://github.com/sberdevices/plasma/pull/1084,2022-02-14T10:43:25Z,2022-02-28T14:51:23Z,24,3,MERGED
+plasma,Select keyboard navigation,https://github.com/sberdevices/plasma/pull/1083,2022-02-13T21:57:58Z,2022-03-01T23:58:52Z,69,9,MERGED
+plasma,Dropdown: a11y,https://github.com/sberdevices/plasma/pull/1082,2022-02-13T20:19:40Z,2022-03-25T16:16:18Z,17,6,CLOSED
+plasma,fix(plasma-ui): Update `Picker` infinite scroll behavior,https://github.com/sberdevices/plasma/pull/1081,2022-02-11T10:39:36Z,2022-03-11T09:54:24Z,31,1,MERGED
+plasma,feat(plasma-temple): New Cart component,https://github.com/sberdevices/plasma/pull/1080,2022-02-11T06:12:01Z,2022-03-04T11:12:06Z,20,1,MERGED
+plasma,feat(plasma-temple): Product component,https://github.com/sberdevices/plasma/pull/1079,2022-02-10T16:11:55Z,2022-03-04T15:36:37Z,21,1,MERGED
+plasma,feat(plasma-temple): Config initial index in HeroSlider,https://github.com/sberdevices/plasma/pull/1078,2022-02-10T14:45:21Z,2022-02-14T07:35:24Z,3,1,MERGED
+plasma,feat(plasma-temple): Ability to disable autofocus in HeroSlider,https://github.com/sberdevices/plasma/pull/1077,2022-02-10T14:42:00Z,2022-02-15T09:09:42Z,5,1,MERGED
+plasma,fix(plasma-ui): `HeaderArrow`: made unfocusable,https://github.com/sberdevices/plasma/pull/1076,2022-02-09T14:29:33Z,2022-02-17T10:32:03Z,7,1,MERGED
+plasma,feat(plasma-ui): Made overlay optional for Sheet,https://github.com/sberdevices/plasma/pull/1075,2022-02-09T10:28:43Z,2022-02-18T06:53:05Z,20,1,MERGED
+plasma,chore(plasma-b2c): `TextField` hide `size` prop in storybook,https://github.com/sberdevices/plasma/pull/1074,2022-02-09T09:25:57Z,2022-02-14T08:32:10Z,9,1,MERGED
+plasma,fix(plasma-web): `TextField`: fix `size:l` by providing $size to input,https://github.com/sberdevices/plasma/pull/1073,2022-02-09T09:21:21Z,2022-02-10T09:07:45Z,9,1,MERGED
+plasma,chore: Add @seryoshka to CODEOWNERS/#Tests,https://github.com/sberdevices/plasma/pull/1072,2022-02-08T08:40:27Z,2022-02-08T10:16:01Z,5,1,MERGED
+plasma,PLASMA-1237: Увеличить покрытие typescript'ом в соответствии с typescript-coverage-report,https://github.com/sberdevices/plasma/pull/1071,2022-02-07T16:12:14Z,2022-02-09T12:48:14Z,7,3,CLOSED
+plasma,docs(plasma-ui): Added `Sheet` documentation,https://github.com/sberdevices/plasma/pull/1070,2022-02-07T08:51:28Z,2022-02-09T14:06:04Z,8,1,MERGED
+plasma,chore(plasma-web-docs): `TextField`: Incorrect `status` prop usage,https://github.com/sberdevices/plasma/pull/1069,2022-02-07T08:37:55Z,2022-02-08T09:40:50Z,5,1,MERGED
+plasma,fix(plasma-typo): Use `SBSansText` in body and text components,https://github.com/sberdevices/plasma/pull/1068,2022-02-07T08:23:39Z,2022-02-08T08:34:11Z,5,1,MERGED
+plasma,test(plasma-temple): Cart component tests,https://github.com/sberdevices/plasma/pull/1067,2022-02-04T12:06:40Z,2022-03-04T14:32:37Z,5,3,MERGED
+plasma,docs(plasma-temple): Cart component doc,https://github.com/sberdevices/plasma/pull/1066,2022-02-04T11:57:44Z,2022-03-04T13:03:47Z,3,2,MERGED
+plasma,plasma-temple: peer deps versions,https://github.com/sberdevices/plasma/pull/1065,2022-02-03T15:06:11Z,2022-02-07T07:39:02Z,3,1,MERGED
+plasma,fix(plasma-ui): Fix outline-radius size for pilled tabs in `Tabs` component,https://github.com/sberdevices/plasma/pull/1064,2022-02-02T15:08:51Z,2022-02-07T10:15:07Z,9,2,MERGED
+plasma,feat: `Button` sizes theming,https://github.com/sberdevices/plasma/pull/1063,2022-02-01T14:06:22Z,2022-02-16T19:12:27Z,23,3,MERGED
+plasma,fix: Docs base url via env VERSION_NAME,https://github.com/sberdevices/plasma/pull/1062,2022-02-01T09:09:12Z,2022-02-01T15:19:49Z,11,2,MERGED
+plasma,plasma-temple: HeroSlider specs,https://github.com/sberdevices/plasma/pull/1061,2022-01-28T17:35:29Z,2022-02-16T13:19:21Z,11,3,MERGED
+plasma,"feat(plasma-ui-docs, plasma-web-docs): Added Storybook links on doc p…",https://github.com/sberdevices/plasma/pull/1060,2022-01-28T13:44:47Z,2022-02-02T11:57:07Z,18,1,MERGED
+plasma,[plasma-temple] fix carousels height,https://github.com/sberdevices/plasma/pull/1059,2022-01-28T10:41:02Z,2022-02-03T11:59:52Z,7,3,MERGED
+plasma,"fix(plasma-web, plasma-ui): `Basebox`: Hide input properly; tabIndex=…",https://github.com/sberdevices/plasma/pull/1057,2022-01-27T16:35:05Z,2022-02-01T09:57:38Z,7,1,MERGED
+plasma,fix(plasma-core): Add inherit cursor in label for `BaseBox` component,https://github.com/sberdevices/plasma/pull/1056,2022-01-27T07:05:19Z,2022-01-28T05:58:28Z,6,1,MERGED
+plasma,feat(plasma-ui): `Picker`: Added `xs` size,https://github.com/sberdevices/plasma/pull/1055,2022-01-26T08:29:51Z,2022-02-03T12:45:32Z,15,1,MERGED
+plasma,[plasma-basic-template / plasma-shop-template] fix templates deps,https://github.com/sberdevices/plasma/pull/1054,2022-01-26T07:16:05Z,2022-02-16T08:13:13Z,19,3,MERGED
+plasma,[plasma-*]: fix typings peer deps versions,https://github.com/sberdevices/plasma/pull/1053,2022-01-26T06:40:19Z,2022-02-03T08:59:05Z,10,1,MERGED
+plasma,chore: Storybook: Added lang to make VoiceOver read russian text prop…,https://github.com/sberdevices/plasma/pull/1052,2022-01-24T08:26:19Z,2022-02-01T12:45:04Z,6,1,MERGED
+plasma,feat(plasma-icons): Add all devices icons,https://github.com/sberdevices/plasma/pull/1051,2022-01-24T07:31:25Z,2022-02-02T06:59:43Z,23,1,MERGED
+plasma,fix(plasma-temple): Realtime update for currentTime in useMediaPlayer,https://github.com/sberdevices/plasma/pull/1050,2022-01-20T14:28:53Z,2022-01-24T08:18:18Z,6,1,MERGED
+plasma,feat(plasma-temple): New Cart component,https://github.com/sberdevices/plasma/pull/1048,2022-01-19T14:22:40Z,2022-02-11T06:10:01Z,109,1,CLOSED
+plasma,fix(plasma-tokens-b2c): change primary tokens,https://github.com/sberdevices/plasma/pull/1047,2022-01-19T13:43:03Z,2022-03-01T10:32:36Z,31,2,MERGED
+plasma,test(plasma-temple): Form components spec,https://github.com/sberdevices/plasma/pull/1046,2022-01-19T12:50:40Z,2022-02-09T16:36:13Z,21,2,MERGED
+plasma,fix(plasma-ui): `ActionButton`: Made `pin` not required again,https://github.com/sberdevices/plasma/pull/1045,2022-01-19T09:30:23Z,2022-01-26T08:56:10Z,5,1,MERGED
+plasma,feat: Support responsive typography in `plasma-ui`,https://github.com/sberdevices/plasma/pull/1044,2022-01-18T12:50:48Z,2022-02-25T15:12:57Z,37,9,MERGED
+plasma,feat(plasma-temple): Support for findInInitialData,https://github.com/sberdevices/plasma/pull/1043,2022-01-17T14:47:44Z,2022-01-19T14:45:26Z,7,1,MERGED
+plasma,fix(plasma-temple): exports VideoPlayer component,https://github.com/sberdevices/plasma/pull/1042,2022-01-17T10:11:38Z,2022-01-27T13:03:14Z,7,1,MERGED
+plasma,[plasma-temple]: ErrorPage / ConfirmOrderPage / OrderSuccessPage / StateLayout specs,https://github.com/sberdevices/plasma/pull/1041,2022-01-17T08:23:08Z,2022-03-02T12:30:18Z,16,7,MERGED
+plasma,fix(plasma-temple): Don't pass page name to PageMethods,https://github.com/sberdevices/plasma/pull/1040,2022-01-13T13:09:14Z,2022-01-13T14:02:11Z,7,1,MERGED
+plasma,fix(palsma-b2c): TextField style fix,https://github.com/sberdevices/plasma/pull/1039,2022-01-13T11:57:05Z,2022-04-07T14:57:43Z,5,1,CLOSED
+plasma,build(plasma-temple): fix `excludes` tests file mask,https://github.com/sberdevices/plasma/pull/1038,2022-01-13T09:12:34Z,2022-01-13T09:50:19Z,3,1,MERGED
+plasma,feat(plasma-core): Make toasts stretch more then 50% of container,https://github.com/sberdevices/plasma/pull/1037,2022-01-12T15:49:18Z,2022-01-25T07:57:51Z,31,1,MERGED
+plasma,fix(plasma-temple): don't stop video on source change,https://github.com/sberdevices/plasma/pull/1036,2022-01-11T14:00:29Z,2022-01-27T09:12:32Z,16,1,MERGED
+plasma,ci: Use `GH_TOKEN` to push versionate jsons,https://github.com/sberdevices/plasma/pull/1035,2022-01-11T12:30:42Z,2022-01-11T13:52:02Z,8,2,MERGED
+plasma,ci: coveralls patch off,https://github.com/sberdevices/plasma/pull/1034,2022-01-11T12:05:25Z,2022-01-12T12:02:23Z,5,1,MERGED
+plasma,test(plasma-web): `Notification` close,https://github.com/sberdevices/plasma/pull/1033,2022-01-11T11:54:40Z,2022-01-12T09:54:12Z,8,2,MERGED
+plasma,test(plasma-temple): ItemPage Spec,https://github.com/sberdevices/plasma/pull/1032,2022-01-11T11:53:54Z,2022-01-21T14:33:22Z,13,1,MERGED
+plasma,feat(plasma-ui): `Picker` a11y improvements,https://github.com/sberdevices/plasma/pull/1031,2022-01-10T15:00:24Z,2022-01-31T13:39:53Z,37,6,MERGED
+plasma,fix(plasma-tokens): wrong primary/secondary tokens,https://github.com/sberdevices/plasma/pull/1030,2022-01-10T14:01:44Z,2022-01-13T13:04:11Z,9,1,MERGED
+plasma,"fix(plasma-b2c,plasma-web): Add re-export for `Notification` component",https://github.com/sberdevices/plasma/pull/1029,2022-01-10T12:30:47Z,2022-01-17T06:24:36Z,6,1,MERGED
+plasma,feat(plasma-temple): goToScreen should work as pushScreen if screen is not exists,https://github.com/sberdevices/plasma/pull/1028,2022-01-10T11:21:51Z,2022-02-18T06:11:08Z,3,1,CLOSED
+plasma,feat(plasma-ui): Overflow `Tabs` on `x` axis,https://github.com/sberdevices/plasma/pull/1027,2022-01-10T10:48:03Z,2022-01-20T08:35:53Z,4,1,CLOSED
+plasma,feat(plasma-temple): item - exports by platforms,https://github.com/sberdevices/plasma/pull/1187,2022-04-12T08:13:14Z,2022-04-12T11:33:18Z,9,1,MERGED
+plasma,feat(plasma-temple): cart - exports by platforms,https://github.com/sberdevices/plasma/pull/1184,2022-04-08T10:18:22Z,2022-04-12T13:34:57Z,9,1,MERGED
+plasma,feat(palsma-core): export Popup StyledRoot,https://github.com/sberdevices/plasma/pull/1183,2022-04-07T14:33:10Z,2022-04-07T14:55:51Z,2,1,CLOSED
+plasma,feat(plasma-temple): add device component,https://github.com/sberdevices/plasma/pull/1182,2022-04-07T09:37:10Z,2022-04-08T12:35:34Z,8,1,MERGED
+plasma,feat(plasma-ui): Add keys for `Pickers` components in stories,https://github.com/sberdevices/plasma/pull/1181,2022-04-07T08:12:52Z,2022-04-08T10:47:34Z,5,1,MERGED
+plasma,feat: Added possibility to disable CSS animations via ThemeProvider,https://github.com/sberdevices/plasma/pull/1179,2022-04-06T11:25:35Z,2022-04-12T20:32:58Z,21,3,MERGED
+plasma,feat(plasma-temple): platform entrypoints,https://github.com/sberdevices/plasma/pull/1178,2022-04-05T13:09:30Z,2022-04-07T13:57:26Z,12,1,CLOSED
+plasma,"docs(plasma-web, plasma-ui): `Toast`: added `showToast` arguments des…",https://github.com/sberdevices/plasma/pull/1177,2022-04-04T18:10:46Z,2022-04-05T11:31:43Z,3,1,MERGED
+plasma,feat(plasma-temple): onStart wait for character,https://github.com/sberdevices/plasma/pull/1176,2022-04-04T13:46:17Z,2022-04-11T11:11:31Z,15,2,MERGED
+plasma,fix(plasma-temple): make svg imports inline,https://github.com/sberdevices/plasma/pull/1175,2022-04-04T07:22:34Z,2022-04-05T12:54:03Z,22,1,MERGED
+plasma,feat(plasma-temple): replace previous screens,https://github.com/sberdevices/plasma/pull/1174,2022-04-01T12:54:11Z,2022-04-11T14:13:14Z,15,1,MERGED
+plasma,test(plasma-web): `Select`: enable snapshoting (was commented),https://github.com/sberdevices/plasma/pull/1173,2022-04-01T10:40:08Z,2022-04-01T11:43:06Z,3,1,MERGED

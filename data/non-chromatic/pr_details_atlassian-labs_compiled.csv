@@ -1,0 +1,744 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+compiled,test: use externalized helpers,https://github.com/atlassian-labs/compiled/pull/25,2019-12-23T09:30:40Z,2019-12-27T00:47:14Z,2,2,MERGED
+compiled,chore: add vscode debug config for jest,https://github.com/atlassian-labs/compiled/pull/24,2019-12-22T10:31:57Z,2019-12-22T12:13:45Z,0,1,MERGED
+compiled,Fix imported module (work in progress),https://github.com/atlassian-labs/compiled/pull/22,2019-12-21T09:16:02Z,2019-12-28T12:39:55Z,0,8,MERGED
+compiled,Add CI scripts,https://github.com/atlassian-labs/compiled/pull/21,2019-12-20T13:36:45Z,2019-12-20T23:19:40Z,1,2,MERGED
+compiled,test: improve performance of createFullTransform util,https://github.com/atlassian-labs/compiled/pull/20,2019-12-20T13:06:46Z,2019-12-21T10:21:15Z,12,6,MERGED
+compiled,feat(css-prop): adds support for objects in template literals,https://github.com/atlassian-labs/compiled/pull/19,2019-12-19T05:55:22Z,2019-12-19T23:28:04Z,3,1,MERGED
+compiled,Adds scenarios to css-prop transformer test cases,https://github.com/atlassian-labs/compiled/pull/3,2019-12-18T00:51:30Z,2019-12-18T01:43:56Z,0,2,MERGED
+compiled,Adds babel plugin support,https://github.com/atlassian-labs/compiled/pull/85,2020-03-31T21:19:02Z,2020-03-31T21:54:58Z,0,2,MERGED
+compiled,fix(styled): always pass the entire expression from a styled function,https://github.com/atlassian-labs/compiled/pull/82,2020-03-30T21:27:40Z,2020-03-31T08:04:04Z,0,3,MERGED
+compiled,chore: create website package,https://github.com/atlassian-labs/compiled/pull/75,2020-03-20T22:32:44Z,2020-03-22T10:10:21Z,1,3,CLOSED
+compiled,Adds small runtime to move compiled styles to the head,https://github.com/atlassian-labs/compiled/pull/72,2020-03-14T00:14:12Z,2020-03-16T04:24:44Z,3,7,MERGED
+compiled,Set repository ownership acc. to OSS program,https://github.com/atlassian-labs/compiled/pull/70,2020-02-17T22:45:54Z,2020-02-18T02:42:04Z,0,2,MERGED
+compiled,Implements css hashing for class name generation,https://github.com/atlassian-labs/compiled/pull/63,2020-01-26T02:01:38Z,2020-01-26T02:57:03Z,0,1,MERGED
+compiled,Convert to monorepo,https://github.com/atlassian-labs/compiled/pull/56,2020-01-18T22:16:41Z,2020-01-20T01:15:44Z,0,15,MERGED
+compiled,feat(jest-matcher): allow multiple properties assertion,https://github.com/atlassian-labs/compiled/pull/54,2020-01-15T21:58:38Z,2020-01-16T08:21:34Z,3,2,MERGED
+compiled,feat: enables simple function declarations to be compiled,https://github.com/atlassian-labs/compiled/pull/51,2020-01-12T03:51:31Z,2020-01-16T09:00:50Z,0,8,MERGED
+compiled,chore(transformer): point to source instead of dist,https://github.com/atlassian-labs/compiled/pull/32,2020-01-07T11:20:15Z,2020-01-08T13:33:41Z,0,1,MERGED
+compiled,feat: support className prop when using css prop,https://github.com/atlassian-labs/compiled/pull/30,2020-01-03T06:34:12Z,2020-01-06T02:56:57Z,6,1,MERGED
+compiled,chore: update to newest ts-transformer-testing-library for :zap:,https://github.com/atlassian-labs/compiled/pull/27,2020-01-01T12:21:34Z,2020-01-01T22:54:05Z,3,1,MERGED
+compiled,fix: unbreak ts-loader compat by avoiding node mutations,https://github.com/atlassian-labs/compiled/pull/26,2020-01-01T10:55:16Z,2020-01-01T11:20:34Z,1,1,MERGED
+compiled,feat: honour browserslist options via config/env vars,https://github.com/atlassian-labs/compiled/pull/211,2020-05-31T09:29:17Z,2020-05-31T10:39:04Z,2,2,MERGED
+compiled,chore(css-transform): replace postcss selector parsing with official library,https://github.com/atlassian-labs/compiled/pull/210,2020-05-30T23:00:26Z,2020-06-01T07:17:55Z,8,3,MERGED
+compiled,Fix interpolations that are delimited by spaces being picked up as suffixes ,https://github.com/atlassian-labs/compiled/pull/209,2020-05-28T23:09:45Z,2020-05-29T00:00:50Z,0,4,MERGED
+compiled,205 fix template literal,https://github.com/atlassian-labs/compiled/pull/206,2020-05-27T10:41:49Z,2020-05-27T10:48:20Z,0,2,MERGED
+compiled,fix: short circuits css variable expressions to an empty string that have a prefix or suffix,https://github.com/atlassian-labs/compiled/pull/204,2020-05-26T23:08:48Z,2020-05-27T00:35:44Z,0,1,MERGED
+compiled,chore: runs new prettier config over everything,https://github.com/atlassian-labs/compiled/pull/203,2020-05-26T22:32:00Z,2020-05-26T22:35:02Z,0,1,MERGED
+compiled,fix: fixes css prop transform from passing through defined props,https://github.com/atlassian-labs/compiled/pull/202,2020-05-26T22:25:48Z,2020-05-26T22:28:59Z,0,1,MERGED
+compiled,fix: turns off normalize charset cssnano plugin,https://github.com/atlassian-labs/compiled/pull/201,2020-05-26T12:26:07Z,2020-05-26T12:31:52Z,0,1,MERGED
+compiled,fix: cleans up dangling pseduos implementation slightly,https://github.com/atlassian-labs/compiled/pull/199,2020-05-26T11:21:59Z,2020-05-26T11:25:13Z,0,1,MERGED
+compiled,197 fix styled expressions,https://github.com/atlassian-labs/compiled/pull/198,2020-05-25T23:20:27Z,2020-05-26T04:03:25Z,2,3,MERGED
+compiled,chore: corrects size limit check,https://github.com/atlassian-labs/compiled/pull/194,2020-05-20T11:18:30Z,2020-05-20T11:21:23Z,0,1,MERGED
+compiled,replace css in js imports with style imports,https://github.com/atlassian-labs/compiled/pull/190,2020-05-03T12:16:31Z,2020-05-20T11:10:10Z,8,5,MERGED
+compiled,chore: upgrade + clean deps,https://github.com/atlassian-labs/compiled/pull/188,2020-05-01T11:38:58Z,2020-05-01T12:05:28Z,0,6,MERGED
+compiled,BREAKING chore: move styled export to be named,https://github.com/atlassian-labs/compiled/pull/187,2020-05-01T05:58:29Z,2020-05-01T06:08:18Z,0,4,MERGED
+compiled,fix: destructured variable used inside string template,https://github.com/atlassian-labs/compiled/pull/185,2020-04-30T12:50:13Z,2020-04-30T22:04:55Z,1,2,MERGED
+compiled,tokens 🤝 global theming,https://github.com/atlassian-labs/compiled/pull/184,2020-04-30T08:39:18Z,2020-08-28T03:29:39Z,4,36,CLOSED
+compiled,chore-fix: broken link in docs,https://github.com/atlassian-labs/compiled/pull/181,2020-04-29T08:00:30Z,2020-04-29T09:30:13Z,1,1,MERGED
+compiled,chore: configure global types for jest,https://github.com/atlassian-labs/compiled/pull/180,2020-04-29T07:02:38Z,2020-04-29T09:38:27Z,5,1,MERGED
+compiled,feat: inline const variables in CSS,https://github.com/atlassian-labs/compiled/pull/178,2020-04-28T20:04:01Z,2020-05-01T22:09:03Z,15,15,MERGED
+compiled,Replace stylis with postcss,https://github.com/atlassian-labs/compiled/pull/175,2020-04-26T23:31:29Z,2020-04-28T05:02:11Z,5,4,MERGED
+compiled,fix: fixes css prop passing down undefined to class name,https://github.com/atlassian-labs/compiled/pull/174,2020-04-25T08:43:21Z,2020-04-25T10:37:48Z,0,1,MERGED
+compiled,Dedupe interpolations,https://github.com/atlassian-labs/compiled/pull/173,2020-04-25T02:47:32Z,2020-04-25T02:52:23Z,0,3,MERGED
+compiled,fix: fixes string literal interpolations being buggy,https://github.com/atlassian-labs/compiled/pull/171,2020-04-24T21:40:41Z,2020-04-25T00:16:35Z,0,6,MERGED
+compiled,feat: adds dead code elimination to styled components api,https://github.com/atlassian-labs/compiled/pull/169,2020-04-22T23:04:10Z,2020-04-23T05:39:50Z,0,3,MERGED
+compiled,"feat: add support to assert styles on states (hover, active) and media queries",https://github.com/atlassian-labs/compiled/pull/168,2020-04-22T18:35:49Z,2020-04-26T07:18:13Z,11,13,MERGED
+compiled,[Blocked] Use React namespace import instead of default import,https://github.com/atlassian-labs/compiled/pull/164,2020-04-20T22:02:48Z,2020-04-22T11:18:16Z,0,1,CLOSED
+compiled,feat: minimal css rendering on the server,https://github.com/atlassian-labs/compiled/pull/156,2020-04-19T07:42:54Z,2020-04-22T11:17:56Z,4,15,MERGED
+compiled,feat: sourcemap support,https://github.com/atlassian-labs/compiled/pull/153,2020-04-18T12:38:09Z,2020-04-20T12:02:40Z,3,6,MERGED
+compiled,Support calc property; FIX: Object property with suffix;,https://github.com/atlassian-labs/compiled/pull/150,2020-04-17T05:27:32Z,2020-04-17T07:19:22Z,7,2,MERGED
+compiled,config: introduces eslint ,https://github.com/atlassian-labs/compiled/pull/149,2020-04-17T05:16:28Z,2020-04-17T06:37:13Z,8,4,MERGED
+compiled,chore: remove matcher types from css in js,https://github.com/atlassian-labs/compiled/pull/148,2020-04-17T04:58:14Z,2020-04-17T05:52:53Z,2,3,MERGED
+compiled,refactor: jest matcher now supports multiple style tags,https://github.com/atlassian-labs/compiled/pull/147,2020-04-17T03:10:32Z,2020-04-17T04:47:10Z,3,5,MERGED
+compiled,feat: adds csp nonce support,https://github.com/atlassian-labs/compiled/pull/146,2020-04-17T02:35:39Z,2020-04-17T03:57:53Z,6,4,MERGED
+compiled,feat: adds display name in dev,https://github.com/atlassian-labs/compiled/pull/145,2020-04-16T23:14:35Z,2020-04-16T23:41:47Z,0,2,MERGED
+compiled,chore: adds runtime dev warning,https://github.com/atlassian-labs/compiled/pull/144,2020-04-16T11:58:43Z,2020-04-16T22:33:20Z,0,3,MERGED
+compiled,Selector typing fix,https://github.com/atlassian-labs/compiled/pull/142,2020-04-16T08:31:42Z,2020-04-16T08:48:13Z,1,2,MERGED
+compiled,chore: remove css hash prefix,https://github.com/atlassian-labs/compiled/pull/141,2020-04-16T08:22:22Z,2020-04-16T08:31:23Z,0,2,MERGED
+compiled,Minor tweeks and fixes to the jest style matcher,https://github.com/atlassian-labs/compiled/pull/140,2020-04-16T07:35:31Z,2020-04-16T07:47:05Z,0,1,MERGED
+compiled,Generated css name should not collide with emotion - fixes #131,https://github.com/atlassian-labs/compiled/pull/136,2020-04-16T06:21:43Z,2020-04-16T06:24:55Z,0,1,MERGED
+compiled,Jest typeahead plugin,https://github.com/atlassian-labs/compiled/pull/134,2020-04-16T03:54:03Z,2020-04-16T04:58:12Z,0,1,MERGED
+compiled,chore: remove css hash prefix,https://github.com/atlassian-labs/compiled/pull/133,2020-04-16T03:28:13Z,2020-04-16T06:25:54Z,2,2,CLOSED
+compiled,feat: adds composed component support to styled api,https://github.com/atlassian-labs/compiled/pull/121,2020-04-11T10:55:29Z,2020-04-11T11:06:26Z,0,1,MERGED
+compiled,fix: fixes commonjs breaking react imports,https://github.com/atlassian-labs/compiled/pull/119,2020-04-11T07:59:34Z,2020-04-11T08:00:16Z,0,1,CLOSED
+compiled,feat: adds 'as' support to styled api,https://github.com/atlassian-labs/compiled/pull/116,2020-04-10T03:51:50Z,2020-04-11T07:59:19Z,0,3,MERGED
+compiled,"Consolidate jsx creation, fix css prop style bug",https://github.com/atlassian-labs/compiled/pull/115,2020-04-10T02:00:29Z,2020-04-10T02:05:13Z,0,4,MERGED
+compiled,[Low prio] Move emoji outside of link,https://github.com/atlassian-labs/compiled/pull/106,2020-04-06T00:35:50Z,2020-04-06T00:43:19Z,0,1,MERGED
+compiled,Update license to be recognised correctly by GitHub,https://github.com/atlassian-labs/compiled/pull/105,2020-04-06T00:33:52Z,2020-04-06T00:41:59Z,0,1,MERGED
+compiled,BREAKING: Removes need for jsx pragma,https://github.com/atlassian-labs/compiled/pull/101,2020-04-04T21:38:43Z,2020-04-04T22:49:29Z,0,2,MERGED
+compiled,fix: fixes template literal css extraction blowing up when referencing an unknown import,https://github.com/atlassian-labs/compiled/pull/221,2020-06-15T06:13:51Z,2020-06-15T07:01:34Z,0,1,MERGED
+compiled,fix: fixes hashing exploding when using a node creating during transf…,https://github.com/atlassian-labs/compiled/pull/219,2020-06-12T04:53:52Z,2020-06-12T05:47:39Z,0,2,MERGED
+compiled,Babel next plumbing,https://github.com/atlassian-labs/compiled/pull/217,2020-06-11T03:50:33Z,2020-08-12T02:09:10Z,13,38,MERGED
+compiled,fix: adds missing config to babel plugin to parse flow,https://github.com/atlassian-labs/compiled/pull/216,2020-06-10T02:57:43Z,2020-06-10T03:02:22Z,0,1,MERGED
+compiled,fix: dont use parent babelrc,https://github.com/atlassian-labs/compiled/pull/215,2020-06-10T02:31:01Z,2020-06-10T02:34:04Z,0,1,MERGED
+compiled,fix: fixes compiled not working with flow,https://github.com/atlassian-labs/compiled/pull/214,2020-06-09T11:55:25Z,2020-06-10T01:52:14Z,0,5,MERGED
+compiled,updating CLA links,https://github.com/atlassian-labs/compiled/pull/212,2020-06-02T23:34:19Z,2020-06-03T00:14:00Z,1,1,MERGED
+compiled,chore: simplify css var name,https://github.com/atlassian-labs/compiled/pull/336,2020-10-31T01:48:35Z,2020-11-02T06:19:46Z,0,1,MERGED
+compiled,chore: reduce ax bundlesize,https://github.com/atlassian-labs/compiled/pull/331,2020-10-24T12:22:23Z,2020-11-02T06:56:50Z,4,4,MERGED
+compiled,fix: fixes nesting selector behaviour across plugins,https://github.com/atlassian-labs/compiled/pull/328,2020-10-22T06:07:04Z,2020-10-22T06:29:44Z,7,2,MERGED
+compiled,fix: fixes nesting selector behaviour across plugins,https://github.com/atlassian-labs/compiled/pull/327,2020-10-22T05:11:32Z,2020-10-22T06:06:47Z,0,7,CLOSED
+compiled,fix: fixes doubling up nesting selector,https://github.com/atlassian-labs/compiled/pull/325,2020-10-21T08:15:44Z,2020-10-22T06:03:07Z,5,5,MERGED
+compiled,Update stylesheet runtime to order psuedo state based on lvfha,https://github.com/atlassian-labs/compiled/pull/324,2020-10-20T05:29:16Z,2020-10-23T22:07:54Z,50,29,MERGED
+compiled,chore: corrects jsx module name,https://github.com/atlassian-labs/compiled/pull/323,2020-10-20T00:48:54Z,2020-10-20T00:57:12Z,0,2,MERGED
+compiled,feat: wire up expand plugin,https://github.com/atlassian-labs/compiled/pull/320,2020-10-19T08:18:44Z,2020-10-20T04:57:09Z,2,3,MERGED
+compiled,using globalThis to detect if running in node,https://github.com/atlassian-labs/compiled/pull/315,2020-10-12T23:55:55Z,2020-10-13T04:45:14Z,14,5,MERGED
+compiled,fix: refactors browser check to be a node check to enable ssr to work in jsdom environments,https://github.com/atlassian-labs/compiled/pull/314,2020-10-12T06:06:46Z,2020-10-12T21:12:39Z,14,3,MERGED
+compiled,Chromatic,https://github.com/atlassian-labs/compiled/pull/311,2020-10-08T12:06:07Z,2020-10-09T04:53:39Z,2,3,MERGED
+compiled,fix: fixes duplicate declarations not being removed on css prop,https://github.com/atlassian-labs/compiled/pull/310,2020-10-08T06:38:01Z,2020-10-08T07:12:27Z,0,2,MERGED
+compiled,feat: add object destructuring support,https://github.com/atlassian-labs/compiled/pull/309,2020-10-06T11:20:23Z,2020-10-08T06:45:44Z,9,2,MERGED
+compiled,Wire up atomic plugin,https://github.com/atlassian-labs/compiled/pull/305,2020-10-03T02:24:14Z,2020-10-08T05:05:49Z,15,13,MERGED
+compiled,feat: handle function calls outside css apis,https://github.com/atlassian-labs/compiled/pull/304,2020-09-28T13:52:52Z,2020-09-30T06:33:14Z,6,5,MERGED
+compiled,Expand shorthand plugin,https://github.com/atlassian-labs/compiled/pull/302,2020-09-24T06:14:34Z,2020-10-19T05:20:48Z,17,27,MERGED
+compiled,Refactor ast builder apis,https://github.com/atlassian-labs/compiled/pull/300,2020-09-22T08:00:34Z,2020-09-22T21:29:24Z,2,4,MERGED
+compiled,Atomic post css plugin,https://github.com/atlassian-labs/compiled/pull/299,2020-09-22T01:25:57Z,2020-09-28T04:56:35Z,21,15,MERGED
+compiled,fix: adds missing behaviour to ax func,https://github.com/atlassian-labs/compiled/pull/298,2020-09-21T23:17:18Z,2020-09-22T05:39:07Z,2,1,MERGED
+compiled,Hoist style rules to top of the module,https://github.com/atlassian-labs/compiled/pull/295,2020-09-20T23:49:19Z,2020-09-22T04:39:25Z,4,5,MERGED
+compiled,feat: add basic in memory caching for module boundary traversal,https://github.com/atlassian-labs/compiled/pull/294,2020-09-18T12:00:10Z,2020-09-22T07:10:03Z,11,8,MERGED
+compiled,Replace component hashing with sheet hashing,https://github.com/atlassian-labs/compiled/pull/293,2020-09-18T08:56:08Z,2020-09-21T06:54:35Z,4,3,MERGED
+compiled,Add ax runtime,https://github.com/atlassian-labs/compiled/pull/291,2020-09-18T04:51:41Z,2020-09-18T08:29:13Z,3,4,MERGED
+compiled,fix: fixes evaluation blowing up when referencing local func args,https://github.com/atlassian-labs/compiled/pull/282,2020-09-14T08:59:18Z,2020-09-15T23:21:44Z,2,2,MERGED
+compiled,chore: corrects workspaces run to only run over compiled pkgs,https://github.com/atlassian-labs/compiled/pull/279,2020-09-14T05:50:04Z,2020-09-14T05:53:21Z,0,1,MERGED
+compiled,chore: updates readme,https://github.com/atlassian-labs/compiled/pull/277,2020-09-11T07:45:37Z,2020-09-11T07:48:42Z,0,2,MERGED
+compiled,fix: adds missing dep to babel plugin,https://github.com/atlassian-labs/compiled/pull/276,2020-09-11T03:09:25Z,2020-09-11T05:24:14Z,0,1,MERGED
+compiled,Simple object function mixins,https://github.com/atlassian-labs/compiled/pull/275,2020-09-10T04:24:48Z,2020-09-16T06:15:03Z,23,18,MERGED
+compiled,[SPIKE] Atomic baked in styles,https://github.com/atlassian-labs/compiled/pull/274,2020-09-09T06:14:38Z,2020-09-16T08:53:44Z,18,11,CLOSED
+compiled,Refactor css file locations,https://github.com/atlassian-labs/compiled/pull/273,2020-09-08T21:01:57Z,2020-09-09T04:36:29Z,1,1,MERGED
+compiled,Styled component composing styles onto other components,https://github.com/atlassian-labs/compiled/pull/270,2020-09-07T05:19:33Z,2020-09-08T06:53:48Z,9,4,MERGED
+compiled,feat: improves readability of thrown errors,https://github.com/atlassian-labs/compiled/pull/269,2020-09-06T07:22:06Z,2020-09-08T00:33:08Z,2,3,MERGED
+compiled,chore: extracts tests to their own files,https://github.com/atlassian-labs/compiled/pull/268,2020-09-06T00:10:12Z,2020-09-08T20:45:48Z,2,4,MERGED
+compiled,First pass at module traversal,https://github.com/atlassian-labs/compiled/pull/266,2020-09-03T07:09:59Z,2020-09-08T04:55:24Z,14,15,MERGED
+compiled,feat: evaluates constant expressions,https://github.com/atlassian-labs/compiled/pull/264,2020-08-29T00:51:05Z,2020-09-04T06:22:06Z,19,11,MERGED
+compiled,feat: adds support for composing styles to styled api,https://github.com/atlassian-labs/compiled/pull/263,2020-08-28T23:48:19Z,2020-09-02T07:31:56Z,6,1,MERGED
+compiled,fix: imports react at the end of the transformation if its missing,https://github.com/atlassian-labs/compiled/pull/262,2020-08-28T23:03:12Z,2020-08-31T21:59:26Z,3,2,MERGED
+compiled,fix: fixes hard coded usage of styled import specifier,https://github.com/atlassian-labs/compiled/pull/261,2020-08-28T22:37:13Z,2020-09-02T21:47:13Z,6,2,MERGED
+compiled,chore: removes use for declarations map and uses get binding on the parent path scope instead,https://github.com/atlassian-labs/compiled/pull/260,2020-08-28T04:55:02Z,2020-08-28T22:20:22Z,5,1,MERGED
+compiled,Refactor to use bindings instead of declaration map,https://github.com/atlassian-labs/compiled/pull/259,2020-08-28T04:05:50Z,2020-08-28T04:54:24Z,0,6,CLOSED
+compiled,feat: [#257] add logic for picking arrow functions body,https://github.com/atlassian-labs/compiled/pull/258,2020-08-27T11:14:14Z,2020-08-28T22:09:53Z,3,3,MERGED
+compiled,feat: adds support for inlining constant property access,https://github.com/atlassian-labs/compiled/pull/255,2020-08-25T06:59:43Z,2020-08-28T04:52:49Z,4,5,MERGED
+compiled,[spike] looks into babel evaluate,https://github.com/atlassian-labs/compiled/pull/252,2020-08-23T00:58:11Z,2020-08-28T03:29:30Z,0,2,CLOSED
+compiled,[spike] class names,https://github.com/atlassian-labs/compiled/pull/251,2020-08-21T10:07:47Z,2020-08-29T00:10:15Z,0,1,CLOSED
+compiled,feat: add React imports if missing in the module,https://github.com/atlassian-labs/compiled/pull/236,2020-08-13T23:43:57Z,2020-08-28T22:55:13Z,5,2,CLOSED
+compiled,chore: adds jsdoc to babel plugin,https://github.com/atlassian-labs/compiled/pull/235,2020-08-13T10:42:12Z,2020-08-17T02:42:56Z,5,3,MERGED
+compiled,Jest storybook babel,https://github.com/atlassian-labs/compiled/pull/234,2020-08-13T05:15:18Z,2020-08-13T05:52:12Z,1,5,MERGED
+compiled,chore: rename packages,https://github.com/atlassian-labs/compiled/pull/233,2020-08-13T02:29:14Z,2020-08-13T04:46:23Z,3,3,MERGED
+compiled,Remove typescript transformer,https://github.com/atlassian-labs/compiled/pull/232,2020-08-12T06:25:18Z,2020-08-13T01:30:07Z,11,5,MERGED
+compiled,Add cli package with codemods preset,https://github.com/atlassian-labs/compiled/pull/231,2020-08-03T16:57:37Z,2020-09-16T08:54:12Z,1,2,CLOSED
+compiled,feat: add codemod for styled-components and emotion,https://github.com/atlassian-labs/compiled/pull/230,2020-08-03T16:45:16Z,2020-09-16T08:54:09Z,4,1,CLOSED
+compiled,fix: turn off CI flag,https://github.com/atlassian-labs/compiled/pull/470,2020-12-31T03:26:38Z,2020-12-31T03:30:26Z,0,1,MERGED
+compiled,[WIP] Global component,https://github.com/atlassian-labs/compiled/pull/462,2020-12-24T04:31:01Z,2020-12-25T04:10:11Z,2,3,CLOSED
+compiled,"fix: ensures CSS values, selectors, at rules are normalized",https://github.com/atlassian-labs/compiled/pull/427,2020-12-23T03:01:23Z,2020-12-23T05:19:12Z,6,1,MERGED
+compiled,fix: upgrade jest to fix a security vuln,https://github.com/atlassian-labs/compiled/pull/426,2020-12-22T10:02:35Z,2020-12-22T22:11:00Z,0,1,MERGED
+compiled,chore: bumps typescript,https://github.com/atlassian-labs/compiled/pull/425,2020-12-22T05:33:50Z,2020-12-22T05:48:06Z,0,2,MERGED
+compiled,Refactor dynamic interpolations to use a util,https://github.com/atlassian-labs/compiled/pull/423,2020-12-21T23:54:03Z,2020-12-23T04:03:11Z,4,13,MERGED
+compiled,fix: fixes automatic jsx transform not working,https://github.com/atlassian-labs/compiled/pull/421,2020-12-20T05:40:11Z,2020-12-22T00:13:06Z,8,5,MERGED
+compiled,chore: upgrades minor and patch deps,https://github.com/atlassian-labs/compiled/pull/420,2020-12-20T00:55:14Z,2020-12-21T21:08:20Z,4,7,MERGED
+compiled,chore: adds cjs dist for react pkg,https://github.com/atlassian-labs/compiled/pull/419,2020-12-19T23:32:54Z,2020-12-21T21:09:14Z,2,3,MERGED
+compiled,fix: simplify interpolation handling,https://github.com/atlassian-labs/compiled/pull/418,2020-12-19T11:43:47Z,2020-12-20T22:39:13Z,4,5,MERGED
+compiled,chore: remove commonjs bundle split points,https://github.com/atlassian-labs/compiled/pull/417,2020-12-19T02:06:14Z,2020-12-20T22:38:46Z,3,4,MERGED
+compiled,chore: update pkg descriptions and links,https://github.com/atlassian-labs/compiled/pull/416,2020-12-17T02:22:57Z,2020-12-17T02:26:29Z,0,1,MERGED
+compiled,fix: fixes missing guards,https://github.com/atlassian-labs/compiled/pull/415,2020-12-17T01:54:49Z,2020-12-17T02:00:51Z,2,1,MERGED
+compiled,Classnames codemod,https://github.com/atlassian-labs/compiled/pull/414,2020-12-16T18:41:52Z,2020-12-16T23:21:41Z,4,3,MERGED
+compiled,fix: reverts fallback dynamic css decl value,https://github.com/atlassian-labs/compiled/pull/412,2020-12-16T07:57:10Z,2020-12-16T21:58:28Z,1,1,MERGED
+compiled,fix: fixes postcss autoprefixer blowing up from expanding plugin,https://github.com/atlassian-labs/compiled/pull/411,2020-12-16T06:18:58Z,2020-12-16T11:20:26Z,1,2,MERGED
+compiled,fix: fixes prefix interpolations on template literals,https://github.com/atlassian-labs/compiled/pull/409,2020-12-16T03:32:55Z,2020-12-16T05:43:03Z,1,2,MERGED
+compiled,fix: fixes important being including in suffix,https://github.com/atlassian-labs/compiled/pull/408,2020-12-15T22:33:02Z,2020-12-15T23:53:58Z,0,2,MERGED
+compiled,chore: updates codemod todo,https://github.com/atlassian-labs/compiled/pull/406,2020-12-14T23:55:58Z,2020-12-15T04:21:58Z,3,1,MERGED
+compiled,Destructuring in styled interpolation functions,https://github.com/atlassian-labs/compiled/pull/403,2020-12-11T05:52:04Z,2020-12-15T07:04:07Z,14,7,MERGED
+compiled,fix: fixes operator not being set from initial expression,https://github.com/atlassian-labs/compiled/pull/401,2020-12-10T01:52:58Z,2020-12-10T04:52:51Z,0,1,MERGED
+compiled,feat: handle classnames props edge cases,https://github.com/atlassian-labs/compiled/pull/396,2020-12-09T12:17:35Z,2020-12-11T04:53:32Z,4,3,MERGED
+compiled,fix(codemod): restore comments attached to transformed node paths,https://github.com/atlassian-labs/compiled/pull/395,2020-12-09T07:02:15Z,2020-12-09T08:06:18Z,4,1,MERGED
+compiled,chore: corrects github url,https://github.com/atlassian-labs/compiled/pull/394,2020-12-09T05:23:56Z,2020-12-09T05:33:11Z,0,1,MERGED
+compiled,feat: CSS multi args,https://github.com/atlassian-labs/compiled/pull/392,2020-12-07T23:34:53Z,2020-12-09T05:33:02Z,6,4,MERGED
+compiled,fix(classnames): check if style is coming from inner scope only,https://github.com/atlassian-labs/compiled/pull/386,2020-12-03T10:37:27Z,2020-12-04T10:39:36Z,3,2,MERGED
+compiled,Update cli run instructions,https://github.com/atlassian-labs/compiled/pull/385,2020-12-02T11:07:12Z,2020-12-04T10:42:39Z,3,3,MERGED
+compiled,[SPIKE] CSS extraction (no runtime),https://github.com/atlassian-labs/compiled/pull/384,2020-11-26T06:59:59Z,2020-11-30T05:33:04Z,5,3,CLOSED
+compiled,Use cache directly without wrapping it into a ref,https://github.com/atlassian-labs/compiled/pull/383,2020-11-24T22:14:54Z,2020-11-24T22:20:04Z,1,1,MERGED
+compiled,fix: handle duplicate runtime import scenarios,https://github.com/atlassian-labs/compiled/pull/382,2020-11-24T15:00:54Z,2020-11-25T05:58:59Z,2,1,MERGED
+compiled,fix: fixes ssr hydration warnings,https://github.com/atlassian-labs/compiled/pull/381,2020-11-24T09:53:18Z,2020-12-07T04:46:34Z,21,8,MERGED
+compiled,chore: turns off noisy eslint rule,https://github.com/atlassian-labs/compiled/pull/380,2020-11-23T22:19:59Z,2020-11-24T06:44:26Z,0,1,MERGED
+compiled,feat: conditional css rules for css prop,https://github.com/atlassian-labs/compiled/pull/379,2020-11-22T11:41:00Z,2020-12-07T07:23:35Z,16,15,MERGED
+compiled,fix: adds new line after comment,https://github.com/atlassian-labs/compiled/pull/376,2020-11-19T05:35:25Z,2020-11-19T05:42:51Z,2,2,MERGED
+compiled,Optimize hot paths,https://github.com/atlassian-labs/compiled/pull/375,2020-11-19T05:15:28Z,2020-11-19T05:18:57Z,0,6,MERGED
+compiled,feat: adds comment to transformed files,https://github.com/atlassian-labs/compiled/pull/372,2020-11-18T03:07:10Z,2020-11-19T04:54:11Z,3,3,MERGED
+compiled,fix: runtime browser import path,https://github.com/atlassian-labs/compiled/pull/371,2020-11-17T08:00:40Z,2020-11-17T09:49:19Z,1,1,MERGED
+compiled,fix: enables runtime entrypoint,https://github.com/atlassian-labs/compiled/pull/368,2020-11-17T04:46:49Z,2020-11-17T04:51:30Z,0,1,MERGED
+compiled,fix: move babel plugin to dep,https://github.com/atlassian-labs/compiled/pull/367,2020-11-17T04:32:43Z,2020-11-17T04:36:43Z,0,1,MERGED
+compiled,fix: fixes storybooks being removed in chromatic build,https://github.com/atlassian-labs/compiled/pull/366,2020-11-16T09:47:05Z,2020-11-17T03:50:20Z,0,1,MERGED
+compiled,Runtime optimizations,https://github.com/atlassian-labs/compiled/pull/365,2020-11-16T05:39:04Z,2020-11-19T05:01:42Z,5,4,CLOSED
+compiled,chore: adds runtime benchmarking,https://github.com/atlassian-labs/compiled/pull/364,2020-11-13T08:45:21Z,2020-11-17T04:33:26Z,9,12,MERGED
+compiled,chore: renames core pkg to react,https://github.com/atlassian-labs/compiled/pull/363,2020-11-13T03:56:28Z,2020-11-17T04:17:27Z,5,3,MERGED
+compiled,Class names api,https://github.com/atlassian-labs/compiled/pull/361,2020-11-11T06:25:19Z,2020-11-19T21:49:23Z,10,13,MERGED
+compiled,Benchmarks,https://github.com/atlassian-labs/compiled/pull/359,2020-11-10T23:23:51Z,2020-11-11T04:38:24Z,1,5,MERGED
+compiled,chore: update README for library re-release,https://github.com/atlassian-labs/compiled/pull/356,2020-11-10T04:47:33Z,2020-12-17T01:32:21Z,8,9,MERGED
+compiled,fix: add null check when unhandled,https://github.com/atlassian-labs/compiled/pull/355,2020-11-10T04:34:25Z,2020-11-10T05:08:33Z,1,1,MERGED
+compiled,browser/server providers now use isNodeEnvironment,https://github.com/atlassian-labs/compiled/pull/354,2020-11-09T05:00:48Z,2020-11-11T04:31:11Z,5,4,MERGED
+compiled,feat: expose babel plugin through core to simplify consumption experience,https://github.com/atlassian-labs/compiled/pull/343,2020-11-03T11:48:31Z,2020-11-04T03:52:46Z,2,2,MERGED
+compiled,test: add ssr hydration tests,https://github.com/atlassian-labs/compiled/pull/339,2020-11-03T04:01:17Z,2020-11-03T04:36:06Z,3,3,MERGED
+compiled,feat: cli package with codemods preset,https://github.com/atlassian-labs/compiled/pull/338,2020-11-02T16:05:37Z,2020-11-24T09:25:17Z,25,3,MERGED
+compiled,feat: add codemod for sc and emotion,https://github.com/atlassian-labs/compiled/pull/337,2020-11-02T15:56:17Z,2020-11-05T01:04:21Z,6,8,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/693,2021-03-31T06:10:59Z,2021-03-31T06:15:40Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/692,2021-03-31T05:55:00Z,2021-03-31T06:08:49Z,0,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/691,2021-03-31T05:39:14Z,2021-03-31T05:43:36Z,0,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/690,2021-03-31T05:31:08Z,2021-03-31T05:36:25Z,0,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/689,2021-03-31T05:07:11Z,2021-03-31T05:29:09Z,0,1,CLOSED
+compiled,Update README.md,https://github.com/atlassian-labs/compiled/pull/688,2021-03-31T04:49:09Z,2021-03-31T04:52:30Z,2,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/687,2021-03-31T02:57:54Z,2021-03-31T05:04:29Z,0,1,CLOSED
+compiled,chore: adds dst bot to release plan,https://github.com/atlassian-labs/compiled/pull/686,2021-03-31T02:51:50Z,2021-03-31T02:56:05Z,1,1,MERGED
+compiled,Styled display names,https://github.com/atlassian-labs/compiled/pull/684,2021-03-31T01:09:02Z,2021-03-31T01:16:20Z,1,3,MERGED
+compiled,Important extract,https://github.com/atlassian-labs/compiled/pull/681,2021-03-30T06:33:57Z,2021-03-30T06:38:40Z,1,2,MERGED
+compiled,Fix extract binding not found,https://github.com/atlassian-labs/compiled/pull/679,2021-03-30T05:52:38Z,2021-03-30T05:58:09Z,1,2,MERGED
+compiled,Upward optional babel,https://github.com/atlassian-labs/compiled/pull/678,2021-03-30T05:28:27Z,2021-03-30T05:37:15Z,1,3,MERGED
+compiled,Handle errors once,https://github.com/atlassian-labs/compiled/pull/676,2021-03-30T01:06:29Z,2021-03-30T02:20:42Z,1,3,MERGED
+compiled,Re-rendering and config bug fixes,https://github.com/atlassian-labs/compiled/pull/672,2021-03-25T22:55:27Z,2021-03-25T23:09:16Z,1,4,MERGED
+compiled,Carat range compiled,https://github.com/atlassian-labs/compiled/pull/668,2021-03-23T21:13:43Z,2021-03-23T21:22:41Z,1,7,MERGED
+compiled,fix: fixes webpack extract bugs,https://github.com/atlassian-labs/compiled/pull/665,2021-03-23T06:36:13Z,2021-03-23T21:04:37Z,1,7,MERGED
+compiled,chore: add extraction info to readme,https://github.com/atlassian-labs/compiled/pull/663,2021-03-23T00:14:05Z,2021-03-23T01:31:46Z,1,2,MERGED
+compiled,fix: fixes renovate schedule,https://github.com/atlassian-labs/compiled/pull/660,2021-03-22T00:07:34Z,2021-03-22T00:13:45Z,3,2,MERGED
+compiled,Extract CSS for webpack4,https://github.com/atlassian-labs/compiled/pull/658,2021-03-21T09:54:15Z,2021-03-23T03:04:02Z,1,7,MERGED
+compiled,fix: style duplication issue #388,https://github.com/atlassian-labs/compiled/pull/649,2021-03-17T04:19:39Z,2021-04-20T00:03:16Z,30,7,CLOSED
+compiled,Test release,https://github.com/atlassian-labs/compiled/pull/646,2021-03-16T23:56:37Z,2021-03-17T00:02:01Z,1,2,MERGED
+compiled,🔧 Adds atlassian/changesets to the repo,https://github.com/atlassian-labs/compiled/pull/644,2021-03-16T23:00:35Z,2021-03-16T23:42:49Z,1,2,MERGED
+compiled,chore: move entrypoint to src,https://github.com/atlassian-labs/compiled/pull/643,2021-03-16T21:41:40Z,2021-03-16T21:51:36Z,0,1,MERGED
+compiled,chore: resolves eslint warnings,https://github.com/atlassian-labs/compiled/pull/626,2021-03-11T21:52:50Z,2021-03-11T22:15:01Z,1,1,MERGED
+compiled,Webpack extract to CSS,https://github.com/atlassian-labs/compiled/pull/624,2021-03-10T21:47:07Z,2021-03-20T00:19:38Z,19,46,MERGED
+compiled,Bundler refactor,https://github.com/atlassian-labs/compiled/pull/623,2021-03-10T08:31:25Z,2021-03-10T09:27:14Z,1,3,MERGED
+compiled,feat: adds strip runtime,https://github.com/atlassian-labs/compiled/pull/610,2021-03-06T23:19:14Z,2021-03-10T07:03:07Z,3,5,MERGED
+compiled,fix: enables webpack v4 support,https://github.com/atlassian-labs/compiled/pull/608,2021-03-04T23:37:32Z,2021-03-05T00:09:12Z,0,1,MERGED
+compiled,Extract to atomic CSS spike (webpack),https://github.com/atlassian-labs/compiled/pull/561,2021-02-14T05:29:23Z,2021-03-10T07:57:38Z,7,26,CLOSED
+compiled,fix: fixes transform parsing not using local config,https://github.com/atlassian-labs/compiled/pull/559,2021-02-13T03:29:51Z,2021-02-13T06:49:13Z,0,1,MERGED
+compiled,Webpack loader,https://github.com/atlassian-labs/compiled/pull/530,2021-02-01T22:30:17Z,2021-02-12T22:03:27Z,8,20,MERGED
+compiled,chore: moves benchmarks into example pkg,https://github.com/atlassian-labs/compiled/pull/523,2021-01-28T05:33:41Z,2021-01-28T10:18:39Z,2,2,MERGED
+compiled,chore: cleanup examples folder structure,https://github.com/atlassian-labs/compiled/pull/518,2021-01-24T21:30:49Z,2021-01-24T22:00:20Z,0,1,MERGED
+compiled,chore: adds storybook pseudo addon,https://github.com/atlassian-labs/compiled/pull/514,2021-01-20T21:43:32Z,2021-01-20T22:31:32Z,0,1,MERGED
+compiled,Parcel transformer spike,https://github.com/atlassian-labs/compiled/pull/512,2021-01-18T22:26:38Z,2021-03-01T08:55:45Z,5,28,MERGED
+compiled,chore: updates installation information from v0.6.0 release,https://github.com/atlassian-labs/compiled/pull/505,2021-01-14T06:45:00Z,2021-01-14T06:49:19Z,0,1,MERGED
+compiled,BREAKING CHANGE: removes babel plugin from react pkg,https://github.com/atlassian-labs/compiled/pull/504,2021-01-14T01:19:57Z,2021-01-14T06:21:43Z,1,2,MERGED
+compiled,"chore: run CI in multiple node versions, adds import test",https://github.com/atlassian-labs/compiled/pull/503,2021-01-13T10:02:42Z,2021-01-13T21:16:16Z,2,4,MERGED
+compiled,conditional export from the main package for cjs and esm,https://github.com/atlassian-labs/compiled/pull/502,2021-01-13T08:40:42Z,2021-01-13T10:26:16Z,2,1,MERGED
+compiled,"fix: fixes cli not finding codemods, but actually",https://github.com/atlassian-labs/compiled/pull/498,2021-01-12T05:26:12Z,2021-01-14T06:09:25Z,10,5,MERGED
+compiled,fix: fixes cli not finding codemods,https://github.com/atlassian-labs/compiled/pull/495,2021-01-11T23:34:40Z,2021-01-12T00:41:52Z,1,2,MERGED
+compiled,fix: Add boolean to CSS Prop type,https://github.com/atlassian-labs/compiled/pull/491,2021-01-11T10:26:50Z,2021-01-12T08:16:02Z,11,4,MERGED
+compiled,feat: functions with arguments mixin support,https://github.com/atlassian-labs/compiled/pull/476,2021-01-05T17:04:37Z,2021-01-18T04:29:17Z,20,3,MERGED
+compiled,Consider adding babel-plugin-macros to bundle transformers,https://github.com/atlassian-labs/compiled/pull/769,2021-05-23T02:47:47Z,2021-07-11T01:08:38Z,2,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/765,2021-05-17T04:19:39Z,2021-05-17T08:02:16Z,0,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/764,2021-05-17T02:15:49Z,2021-05-17T04:18:46Z,0,1,MERGED
+compiled,Catch unhandled exception on inserting rules with prefixed selectors,https://github.com/atlassian-labs/compiled/pull/759,2021-05-14T14:33:40Z,2021-05-17T02:14:18Z,2,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/758,2021-05-12T22:48:18Z,2021-05-12T22:56:03Z,0,1,MERGED
+compiled,Fix html escaping,https://github.com/atlassian-labs/compiled/pull/757,2021-05-12T12:40:30Z,2021-05-12T22:46:30Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/754,2021-05-11T02:22:49Z,2021-05-11T02:28:18Z,0,1,MERGED
+compiled,Eval a computed object property in object styles,https://github.com/atlassian-labs/compiled/pull/752,2021-05-10T10:51:05Z,2021-05-11T02:21:12Z,2,3,MERGED
+compiled,chore: turns on wp5 for storybook,https://github.com/atlassian-labs/compiled/pull/725,2021-04-11T09:06:21Z,2021-04-11T22:24:02Z,1,1,MERGED
+compiled,Code split CSS chunks,https://github.com/atlassian-labs/compiled/pull/724,2021-04-11T06:40:21Z,2021-11-17T08:10:57Z,4,6,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/698,2021-04-03T23:08:03Z,2021-04-04T11:29:28Z,0,1,MERGED
+compiled,chore: update package descriptions,https://github.com/atlassian-labs/compiled/pull/697,2021-04-03T02:44:05Z,2021-04-03T23:06:26Z,1,2,MERGED
+compiled,Css mixin api,https://github.com/atlassian-labs/compiled/pull/696,2021-04-02T23:57:31Z,2021-04-04T05:47:31Z,1,15,MERGED
+compiled,Parcel extraction,https://github.com/atlassian-labs/compiled/pull/695,2021-04-02T00:12:44Z,2021-11-17T08:10:53Z,2,6,CLOSED
+compiled,Codemod plugin system,https://github.com/atlassian-labs/compiled/pull/790,2021-07-29T07:43:45Z,2021-09-21T07:22:15Z,27,13,MERGED
+compiled,Issue 390 conditional css rules,https://github.com/atlassian-labs/compiled/pull/788,2021-07-27T06:19:30Z,2021-09-02T01:52:47Z,27,20,MERGED
+compiled,Add feature flagging to default import codemod for styled components,https://github.com/atlassian-labs/compiled/pull/783,2021-07-23T00:07:16Z,2021-07-23T06:37:05Z,5,2,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/777,2021-07-11T01:09:01Z,2021-07-11T05:22:33Z,0,1,MERGED
+compiled,feat(css function): add support of additional parameters,https://github.com/atlassian-labs/compiled/pull/776,2021-07-10T12:44:34Z,2021-07-11T01:07:30Z,3,1,MERGED
+compiled,DSP-1756 | improve codemod / add eslint-plugin for codemod alternative,https://github.com/atlassian-labs/compiled/pull/875,2021-10-29T04:19:24Z,2021-11-02T01:24:03Z,28,7,MERGED
+compiled,[Snyk] Upgrade jscodeshift from 0.12.0 to 0.13.0,https://github.com/atlassian-labs/compiled/pull/874,2021-10-28T00:07:40Z,2021-11-05T02:50:24Z,3,1,MERGED
+compiled,Fix ternary condition applying all styles when taking truthy path,https://github.com/atlassian-labs/compiled/pull/873,2021-10-27T22:53:00Z,2021-11-01T04:17:15Z,1,2,MERGED
+compiled,Make sure original & new imports don't share object references,https://github.com/atlassian-labs/compiled/pull/872,2021-10-27T02:47:43Z,2021-10-27T03:11:15Z,2,2,MERGED
+compiled,Add security assistant vuln assignees,https://github.com/atlassian-labs/compiled/pull/868,2021-10-24T23:00:20Z,2021-10-25T00:45:56Z,1,1,MERGED
+compiled,Add simple stories for CSS combinators in styled and css prop,https://github.com/atlassian-labs/compiled/pull/867,2021-10-21T06:09:14Z,2021-10-22T05:18:09Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/866,2021-10-21T01:12:24Z,2021-10-27T04:46:50Z,0,1,MERGED
+compiled,Keep `css` import in SC-to-Compiled codemod,https://github.com/atlassian-labs/compiled/pull/863,2021-10-20T06:09:27Z,2021-10-26T23:50:26Z,11,6,MERGED
+compiled,Feat/styled components inner ref codemode,https://github.com/atlassian-labs/compiled/pull/862,2021-10-19T04:43:28Z,2021-10-25T03:00:09Z,7,5,MERGED
+compiled,Feat/styled components inner ref codemode,https://github.com/atlassian-labs/compiled/pull/861,2021-10-19T04:37:52Z,2021-10-19T04:37:59Z,1,2,CLOSED
+compiled,Use webpack resolution and add custom resolve override,https://github.com/atlassian-labs/compiled/pull/860,2021-10-19T03:30:28Z,2021-10-22T01:15:46Z,3,5,MERGED
+compiled,Add CODEOWNERS,https://github.com/atlassian-labs/compiled/pull/859,2021-10-19T00:50:45Z,2021-10-20T00:02:14Z,1,1,MERGED
+compiled,Refactor Style tests,https://github.com/atlassian-labs/compiled/pull/858,2021-10-18T23:55:42Z,2021-10-19T23:37:02Z,1,1,MERGED
+compiled,"Ensure inline strings, template literals, and css work in styled",https://github.com/atlassian-labs/compiled/pull/857,2021-10-18T00:10:56Z,2021-10-21T01:10:40Z,21,5,MERGED
+compiled,Update codemods package.json,https://github.com/atlassian-labs/compiled/pull/855,2021-10-13T01:13:08Z,2021-10-13T01:40:30Z,1,1,MERGED
+compiled,Update codemod plugin API,https://github.com/atlassian-labs/compiled/pull/849,2021-10-07T00:21:30Z,2021-10-08T04:54:59Z,1,1,MERGED
+compiled,Update to parcel 2.0.0-rc.0,https://github.com/atlassian-labs/compiled/pull/842,2021-10-01T03:07:57Z,2022-01-11T02:07:33Z,7,6,CLOSED
+compiled,Add Flow types support,https://github.com/atlassian-labs/compiled/pull/839,2021-09-30T05:01:04Z,2021-10-12T01:16:44Z,8,14,MERGED
+compiled,Make strip plugin work with esbuild/rollup bundled code,https://github.com/atlassian-labs/compiled/pull/838,2021-09-28T18:55:34Z,2023-10-22T22:19:25Z,13,6,CLOSED
+compiled,Update to postcss v8,https://github.com/atlassian-labs/compiled/pull/837,2021-09-28T13:07:05Z,2021-12-01T09:49:51Z,23,22,CLOSED
+compiled,eslint consistent type imports,https://github.com/atlassian-labs/compiled/pull/833,2021-09-21T07:43:49Z,2021-09-22T00:38:19Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/832,2021-09-21T07:23:49Z,2021-10-13T02:35:49Z,0,1,MERGED
+compiled,Support CSS declarations with JS object,https://github.com/atlassian-labs/compiled/pull/827,2021-09-17T06:40:22Z,2021-10-01T00:57:39Z,23,9,MERGED
+compiled,Build esm and cjs in storybook,https://github.com/atlassian-labs/compiled/pull/826,2021-09-14T06:45:56Z,2021-09-14T06:50:14Z,1,1,MERGED
+compiled,Fix missing key prop on generated React elements,https://github.com/atlassian-labs/compiled/pull/823,2021-09-10T06:38:14Z,2021-09-16T04:53:46Z,9,4,MERGED
+compiled,Add support for keyframes,https://github.com/atlassian-labs/compiled/pull/812,2021-08-13T04:25:34Z,2021-09-08T05:31:36Z,6,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/811,2021-08-12T06:59:10Z,2021-09-16T05:01:36Z,0,1,MERGED
+compiled,Fix identifiers shadowed by a function argument,https://github.com/atlassian-labs/compiled/pull/810,2021-08-12T01:34:47Z,2021-08-12T06:57:38Z,2,2,MERGED
+compiled,Override the default storybook babel configuration,https://github.com/atlassian-labs/compiled/pull/809,2021-08-11T08:09:16Z,2021-08-12T01:14:10Z,2,1,MERGED
+compiled,Update package.json and tsconfig.json files,https://github.com/atlassian-labs/compiled/pull/808,2021-08-11T04:07:06Z,2021-08-11T07:06:49Z,2,1,MERGED
+compiled,Update .gitignore to include .idea,https://github.com/atlassian-labs/compiled/pull/807,2021-08-11T03:25:52Z,2021-08-11T03:46:17Z,1,1,MERGED
+compiled,"fix: css is generated for rules defined before a mixins, css mixins can be overriden",https://github.com/atlassian-labs/compiled/pull/805,2021-08-10T07:04:25Z,2021-08-30T04:21:59Z,5,6,MERGED
+compiled,"Revert ""chore(deps): update dependency chalk to v5 (#989)""",https://github.com/atlassian-labs/compiled/pull/1002,2021-12-21T02:27:59Z,2022-01-06T23:02:45Z,1,3,MERGED
+compiled,Bug: Style to Compiled code mod assumes all tagged template expressions are call expressions,https://github.com/atlassian-labs/compiled/pull/1001,2021-12-20T06:01:01Z,2022-01-05T01:53:21Z,1,3,MERGED
+compiled,Introduce experimental non-react package,https://github.com/atlassian-labs/compiled/pull/993,2021-12-19T03:30:19Z,2023-01-09T20:33:10Z,3,23,CLOSED
+compiled,Add support in babel plugin for file imports,https://github.com/atlassian-labs/compiled/pull/987,2021-12-16T04:35:31Z,2021-12-20T03:36:01Z,15,10,MERGED
+compiled,Add config to typecheck parcel example,https://github.com/atlassian-labs/compiled/pull/984,2021-12-14T22:50:50Z,2021-12-15T00:11:48Z,2,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/982,2021-12-13T23:14:49Z,2022-01-07T04:31:13Z,0,1,MERGED
+compiled,Remove codeowners for package manifest and yarn lock to reduce noise,https://github.com/atlassian-labs/compiled/pull/981,2021-12-13T23:06:11Z,2021-12-17T05:27:42Z,1,3,MERGED
+compiled,Remove .yarnrc config,https://github.com/atlassian-labs/compiled/pull/975,2021-12-10T03:18:35Z,2021-12-10T03:28:50Z,1,1,MERGED
+compiled,Remove Chromatic from readme and builds,https://github.com/atlassian-labs/compiled/pull/974,2021-12-10T00:48:04Z,2021-12-13T23:13:08Z,1,3,MERGED
+compiled,Resolve css-what and nth-check in @compiled/css,https://github.com/atlassian-labs/compiled/pull/973,2021-12-10T00:28:13Z,2021-12-10T00:38:16Z,1,3,MERGED
+compiled,Move changeset config to run for each PR,https://github.com/atlassian-labs/compiled/pull/970,2021-12-07T03:43:24Z,2021-12-07T05:58:45Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/969,2021-12-07T03:28:43Z,2021-12-10T00:45:25Z,0,1,MERGED
+compiled,Bump @changesets/cli to fix broken release,https://github.com/atlassian-labs/compiled/pull/968,2021-12-07T03:11:37Z,2021-12-07T03:26:41Z,1,1,MERGED
+compiled,Add wilsonhou as codeowner,https://github.com/atlassian-labs/compiled/pull/966,2021-12-06T06:25:08Z,2021-12-07T22:37:25Z,1,4,MERGED
+compiled,Resolve css-what to 5.1.0 and nth-check to 2.0.1 to resolve vulnerabilities,https://github.com/atlassian-labs/compiled/pull/965,2021-12-06T06:18:39Z,2021-12-07T02:36:39Z,1,2,MERGED
+compiled,Add loki as visual regression testing harness,https://github.com/atlassian-labs/compiled/pull/961,2021-12-03T06:22:34Z,2021-12-06T04:57:57Z,2,2,MERGED
+compiled,Add visual regression test GitHub action with Percy,https://github.com/atlassian-labs/compiled/pull/960,2021-12-03T00:28:47Z,2021-12-03T03:03:22Z,2,3,CLOSED
+compiled,Revert meow bump from v10 to v9 due to CJS incompatibility ,https://github.com/atlassian-labs/compiled/pull/957,2021-12-02T05:15:01Z,2021-12-07T00:20:29Z,1,3,MERGED
+compiled,chore: adds only changed to chromatic run,https://github.com/atlassian-labs/compiled/pull/955,2021-11-30T02:46:04Z,2021-12-10T02:26:16Z,3,2,CLOSED
+compiled,RFC: Rethinking how Compiled handles AST traversal/transformation,https://github.com/atlassian-labs/compiled/pull/954,2021-11-29T06:17:00Z,2022-11-23T00:29:20Z,9,8,CLOSED
+compiled,Feature/evaluate expression refractor,https://github.com/atlassian-labs/compiled/pull/953,2021-11-29T03:01:31Z,2021-12-09T03:48:00Z,11,13,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/949,2021-11-29T00:32:03Z,2021-12-07T02:46:21Z,0,1,MERGED
+compiled,fix: updates css func object types,https://github.com/atlassian-labs/compiled/pull/948,2021-11-25T01:29:49Z,2021-11-29T00:30:19Z,1,3,MERGED
+compiled,Update pkg jsdoc/json/rule,https://github.com/atlassian-labs/compiled/pull/947,2021-11-24T08:20:16Z,2021-11-29T07:04:26Z,8,9,MERGED
+compiled,chore: Upgrade postcss v8,https://github.com/atlassian-labs/compiled/pull/946,2021-11-24T06:52:05Z,2021-12-07T22:22:54Z,5,27,MERGED
+compiled,fix: fixes jsx-pragma rule to update react imports,https://github.com/atlassian-labs/compiled/pull/945,2021-11-24T02:56:57Z,2021-11-24T04:07:49Z,6,4,MERGED
+compiled,Simplify browser and examples build,https://github.com/atlassian-labs/compiled/pull/944,2021-11-23T23:43:34Z,2021-11-24T03:12:52Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/942,2021-11-23T22:54:43Z,2021-11-25T00:18:07Z,0,1,MERGED
+compiled,chore: fixes changeset to correct semver bump,https://github.com/atlassian-labs/compiled/pull/941,2021-11-23T05:49:00Z,2021-11-23T05:54:56Z,1,1,MERGED
+compiled,Fix import order issues for changset script and update eslint excludes,https://github.com/atlassian-labs/compiled/pull/939,2021-11-22T23:15:57Z,2021-11-22T23:29:35Z,2,1,MERGED
+compiled,Move isCompiled checks into is-compiled util,https://github.com/atlassian-labs/compiled/pull/938,2021-11-22T04:54:35Z,2021-11-22T05:20:12Z,0,1,MERGED
+compiled,Move binding logic into respective utils,https://github.com/atlassian-labs/compiled/pull/937,2021-11-22T03:58:22Z,2021-11-22T04:51:53Z,1,1,MERGED
+compiled,Flatten examples folder,https://github.com/atlassian-labs/compiled/pull/936,2021-11-22T03:34:40Z,2021-11-22T04:51:38Z,1,1,MERGED
+compiled,Lint js and jsx files,https://github.com/atlassian-labs/compiled/pull/935,2021-11-22T02:10:21Z,2021-11-22T02:40:11Z,1,1,MERGED
+compiled,feat: adds jsx-pragma rule,https://github.com/atlassian-labs/compiled/pull/933,2021-11-20T03:21:26Z,2021-11-22T04:13:08Z,12,16,MERGED
+compiled,Refactor emotion-to-compiled ESLint rule,https://github.com/atlassian-labs/compiled/pull/932,2021-11-20T02:47:27Z,2021-11-20T11:28:57Z,2,3,MERGED
+compiled,Fix ternary conditionals with template literal branches,https://github.com/atlassian-labs/compiled/pull/931,2021-11-19T04:44:54Z,2021-11-22T00:15:58Z,1,1,MERGED
+compiled,Add consistent array types,https://github.com/atlassian-labs/compiled/pull/930,2021-11-19T04:32:23Z,2021-11-19T05:43:15Z,1,1,MERGED
+compiled,Add consistent import ordering,https://github.com/atlassian-labs/compiled/pull/929,2021-11-19T04:16:37Z,2021-11-22T01:53:57Z,1,1,MERGED
+compiled,Local jsx namespace,https://github.com/atlassian-labs/compiled/pull/928,2021-11-19T03:15:45Z,2021-11-23T04:12:57Z,18,27,MERGED
+compiled,Split out ast-builders into multiple utils,https://github.com/atlassian-labs/compiled/pull/927,2021-11-19T00:23:02Z,2021-11-19T02:56:40Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/926,2021-11-18T02:02:59Z,2021-11-23T22:30:30Z,1,1,MERGED
+compiled,Add json-files eslint plugin,https://github.com/atlassian-labs/compiled/pull/925,2021-11-18T01:24:53Z,2021-11-18T02:27:32Z,2,1,MERGED
+compiled,Improve local dev loop to run straight from source,https://github.com/atlassian-labs/compiled/pull/924,2021-11-17T21:56:50Z,2021-11-19T03:57:06Z,32,24,MERGED
+compiled,chore: adds typecheck ci,https://github.com/atlassian-labs/compiled/pull/923,2021-11-17T20:54:58Z,2021-11-19T09:20:56Z,2,1,CLOSED
+compiled,feat: adds prettier check to ci,https://github.com/atlassian-labs/compiled/pull/922,2021-11-17T09:55:54Z,2021-11-18T03:10:20Z,2,4,MERGED
+compiled,Simplify clean script,https://github.com/atlassian-labs/compiled/pull/921,2021-11-17T06:04:26Z,2021-11-17T22:33:20Z,1,1,MERGED
+compiled,Refactor benchmarks,https://github.com/atlassian-labs/compiled/pull/920,2021-11-17T05:29:12Z,2021-11-18T00:47:00Z,1,1,MERGED
+compiled,Restructure babel-plugin-strip-runtime package,https://github.com/atlassian-labs/compiled/pull/919,2021-11-17T02:00:14Z,2021-11-17T22:53:59Z,2,1,MERGED
+compiled,Fix: Perform Node/SSR check without process,https://github.com/atlassian-labs/compiled/pull/918,2021-11-16T06:44:41Z,2021-12-13T23:47:25Z,14,13,MERGED
+compiled,Add changeset renovate dep bumps,https://github.com/atlassian-labs/compiled/pull/917,2021-11-16T03:12:42Z,2021-11-22T22:53:36Z,1,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/914,2021-11-15T04:27:09Z,2021-11-15T04:32:51Z,0,1,MERGED
+compiled,Add changeset for @compiled/cli to bump dependencies,https://github.com/atlassian-labs/compiled/pull/913,2021-11-15T02:48:35Z,2021-11-15T04:25:44Z,1,1,MERGED
+compiled,Support namespace imports & export specifiers,https://github.com/atlassian-labs/compiled/pull/906,2021-11-11T04:33:06Z,2021-11-18T02:01:31Z,9,2,MERGED
+compiled,Patch inexact type causing compatibility issues and update flowconfig,https://github.com/atlassian-labs/compiled/pull/905,2021-11-11T01:33:41Z,2021-11-12T03:25:30Z,1,1,MERGED
+compiled,Support nested ternary operators,https://github.com/atlassian-labs/compiled/pull/904,2021-11-09T06:54:00Z,2021-11-12T02:48:49Z,13,6,MERGED
+compiled,feat: styled-components attrs codemod,https://github.com/atlassian-labs/compiled/pull/903,2021-11-09T03:53:51Z,2021-12-09T02:52:25Z,20,8,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/902,2021-11-09T03:48:05Z,2021-11-12T03:37:51Z,0,1,MERGED
+compiled,Add disable directives for css prop,https://github.com/atlassian-labs/compiled/pull/901,2021-11-09T02:33:10Z,2021-11-11T23:09:05Z,9,2,MERGED
+compiled,Refactor rule hoisting tests,https://github.com/atlassian-labs/compiled/pull/897,2021-11-08T23:51:43Z,2021-11-09T00:16:42Z,1,1,MERGED
+compiled,Refactor ClassNames tests,https://github.com/atlassian-labs/compiled/pull/891,2021-11-08T06:40:55Z,2021-11-09T00:49:34Z,2,1,MERGED
+compiled,Support keyframes import for @emotion/core and @emotion/react,https://github.com/atlassian-labs/compiled/pull/890,2021-11-08T05:53:26Z,2021-11-09T03:46:34Z,1,4,MERGED
+compiled,[Snyk] Upgrade jscodeshift from 0.12.0 to 0.13.0,https://github.com/atlassian-labs/compiled/pull/885,2021-11-05T22:11:19Z,2021-11-07T22:09:56Z,1,1,MERGED
+compiled,Add snyk ticket config to security-assistant.yml,https://github.com/atlassian-labs/compiled/pull/884,2021-11-04T05:50:39Z,2021-11-04T05:58:00Z,1,1,MERGED
+compiled,add support for keyframes import with alphabetical sorting,https://github.com/atlassian-labs/compiled/pull/882,2021-11-03T05:48:47Z,2021-11-04T04:15:30Z,2,2,MERGED
+compiled,Fix styled path check,https://github.com/atlassian-labs/compiled/pull/881,2021-11-02T05:01:55Z,2021-11-03T03:19:53Z,1,1,MERGED
+compiled,Minor refactor of @compiled/babel-plugin,https://github.com/atlassian-labs/compiled/pull/880,2021-11-02T02:06:52Z,2021-11-04T03:25:16Z,1,1,MERGED
+compiled,Add codemods package to cli to allow npx usage,https://github.com/atlassian-labs/compiled/pull/879,2021-11-01T23:04:19Z,2021-11-02T00:49:38Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/878,2021-11-01T04:19:16Z,2021-11-04T06:35:20Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1179,2022-03-29T00:51:37Z,2022-03-29T22:45:24Z,0,1,MERGED
+compiled,Fix no-exported-* errors within components,https://github.com/atlassian-labs/compiled/pull/1178,2022-03-29T00:44:22Z,2022-03-29T04:20:25Z,1,4,MERGED
+compiled,Skip @compiled/react package in webpack loader parsing,https://github.com/atlassian-labs/compiled/pull/1177,2022-03-28T03:42:41Z,2022-03-29T05:54:34Z,1,2,MERGED
+compiled,1172 - Statically evaluate unary expressions with negative numbers,https://github.com/atlassian-labs/compiled/pull/1173,2022-03-25T05:46:56Z,2022-03-29T00:50:14Z,1,2,MERGED
+compiled,1166 - Conditional expression optimization for Object styles,https://github.com/atlassian-labs/compiled/pull/1168,2022-03-23T07:10:19Z,2022-03-29T01:31:01Z,6,9,MERGED
+compiled,Account for nested rules in webpack config ,https://github.com/atlassian-labs/compiled/pull/1165,2022-03-23T00:30:23Z,2022-03-23T23:58:11Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1162,2022-03-21T02:03:46Z,2022-03-24T03:10:16Z,0,1,MERGED
+compiled,1155 - Update regex matching for CSS property in conditional optimization,https://github.com/atlassian-labs/compiled/pull/1157,2022-03-17T07:39:35Z,2022-03-21T02:02:13Z,1,1,MERGED
+compiled,Add no-exported-* rules,https://github.com/atlassian-labs/compiled/pull/1156,2022-03-17T02:10:38Z,2022-03-21T04:46:46Z,1,3,MERGED
+compiled,Optimize conditional expressions,https://github.com/atlassian-labs/compiled/pull/1152,2022-03-15T02:23:58Z,2022-03-16T04:12:22Z,2,3,MERGED
+compiled,Opt-out of low risk VULNs due to recent change,https://github.com/atlassian-labs/compiled/pull/1151,2022-03-14T22:39:14Z,2022-03-14T23:59:18Z,1,1,MERGED
+compiled,Use common transform test util,https://github.com/atlassian-labs/compiled/pull/1145,2022-03-10T02:37:09Z,2022-03-14T00:34:54Z,2,1,MERGED
+compiled,CHORE: Remove cyclic dependencies within expression evaluation,https://github.com/atlassian-labs/compiled/pull/1144,2022-03-09T23:27:23Z,2022-03-16T04:44:02Z,1,10,MERGED
+compiled,Fix usage of Babel to work better with SWC transform in Parcel,https://github.com/atlassian-labs/compiled/pull/1143,2022-03-09T04:48:43Z,2022-06-09T23:27:02Z,5,2,CLOSED
+compiled,chore(codemods): Add build template expression,https://github.com/atlassian-labs/compiled/pull/1142,2022-03-09T04:42:11Z,2022-03-10T05:12:28Z,1,2,MERGED
+compiled,chore(codemods): Add build template expression,https://github.com/atlassian-labs/compiled/pull/1141,2022-03-09T03:09:13Z,2022-03-09T04:40:10Z,1,1,CLOSED
+compiled,Add no-tagged-template-expression eslint rules,https://github.com/atlassian-labs/compiled/pull/1140,2022-03-09T02:55:48Z,2022-03-14T05:51:47Z,5,5,MERGED
+compiled,Statically evaluate mathematical binary expressions,https://github.com/atlassian-labs/compiled/pull/1139,2022-03-08T23:10:15Z,2022-03-16T01:08:20Z,18,10,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1136,2022-03-07T06:33:33Z,2022-03-16T05:45:20Z,0,1,MERGED
+compiled,Apply react/jsx-filename-extension rule as needed,https://github.com/atlassian-labs/compiled/pull/1135,2022-03-07T06:16:53Z,2022-03-08T01:11:43Z,1,1,MERGED
+compiled,Bump trim-newlines to v3.0.1,https://github.com/atlassian-labs/compiled/pull/1130,2022-03-07T00:51:26Z,2022-03-07T02:30:07Z,1,2,MERGED
+compiled,resolve css-minimizer-webpack-plugin to ^3.4.1 to resolve vulns,https://github.com/atlassian-labs/compiled/pull/1129,2022-03-07T00:44:04Z,2022-03-07T02:20:04Z,1,3,MERGED
+compiled,resolve unset-values to ^2.0.0 to fix vuln,https://github.com/atlassian-labs/compiled/pull/1126,2022-03-06T23:58:36Z,2022-03-07T01:10:24Z,2,1,MERGED
+compiled,Prevent error being thrown when evaluating declarations,https://github.com/atlassian-labs/compiled/pull/1124,2022-03-04T05:16:19Z,2022-03-07T06:31:39Z,1,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1121,2022-03-03T02:52:12Z,2022-03-07T02:39:28Z,0,1,MERGED
+compiled,[REFACTOR] added logic to manipulate AST to deal with negative values…,https://github.com/atlassian-labs/compiled/pull/1120,2022-03-02T00:39:13Z,2022-03-09T22:51:18Z,3,7,MERGED
+compiled,Add client CS benchmark,https://github.com/atlassian-labs/compiled/pull/1117,2022-03-01T05:53:22Z,2022-03-03T02:50:42Z,1,1,MERGED
+compiled,fix: allow duplicate properties in block,https://github.com/atlassian-labs/compiled/pull/1113,2022-02-25T23:27:49Z,2022-03-16T05:56:20Z,8,2,CLOSED
+compiled,chore: added new code owner,https://github.com/atlassian-labs/compiled/pull/1111,2022-02-25T03:45:44Z,2022-02-25T03:55:08Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1110,2022-02-24T23:30:00Z,2022-02-24T23:37:48Z,0,1,MERGED
+compiled,Add preserveLeadingComments util to @compiled/utils package,https://github.com/atlassian-labs/compiled/pull/1109,2022-02-24T23:12:29Z,2022-02-24T23:28:30Z,3,2,MERGED
+compiled,Bugfix/negative and positive numbers get put into same css var,https://github.com/atlassian-labs/compiled/pull/1108,2022-02-22T23:00:29Z,2022-03-02T00:44:10Z,14,11,CLOSED
+compiled,Move adding require statements to inside babel-plugin-strip-runtime,https://github.com/atlassian-labs/compiled/pull/1107,2022-02-22T05:55:14Z,2022-03-07T23:21:47Z,5,9,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1106,2022-02-22T01:07:00Z,2022-02-24T22:45:12Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1096,2022-02-18T04:01:52Z,2022-02-21T03:13:11Z,0,1,MERGED
+compiled,1087 - Handle ExportNamedDeclarations with source for resolve binding,https://github.com/atlassian-labs/compiled/pull/1093,2022-02-17T22:51:53Z,2022-02-22T01:05:20Z,2,2,MERGED
+compiled,chore: update code owners,https://github.com/atlassian-labs/compiled/pull/1080,2022-02-13T23:32:58Z,2022-02-13T23:40:02Z,1,1,MERGED
+compiled,Refactor file structure in codemods package,https://github.com/atlassian-labs/compiled/pull/1076,2022-02-11T05:02:17Z,2022-02-14T02:12:20Z,3,2,MERGED
+compiled,fix:resolve another Razzle peerDependencies that depends on old versi…,https://github.com/atlassian-labs/compiled/pull/1074,2022-02-11T00:04:38Z,2022-02-14T04:18:11Z,2,3,MERGED
+compiled,Negative and positive numbers get put into same css var,https://github.com/atlassian-labs/compiled/pull/1072,2022-02-10T00:58:44Z,2022-02-22T23:01:27Z,12,11,CLOSED
+compiled,fix issues with conditional rules,https://github.com/atlassian-labs/compiled/pull/1070,2022-02-07T03:20:55Z,2022-02-24T01:56:48Z,20,12,MERGED
+compiled,Update compiled/webpack-loader to use compiled-css.css,https://github.com/atlassian-labs/compiled/pull/1067,2022-02-02T06:58:28Z,2022-02-18T04:00:02Z,1,5,MERGED
+compiled,Add instructions to CONTRIBUTING.md on how to test with webpack 4,https://github.com/atlassian-labs/compiled/pull/1063,2022-01-28T04:27:30Z,2022-01-28T05:42:42Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1062,2022-01-28T04:03:43Z,2022-02-15T03:34:26Z,0,1,MERGED
+compiled,fix: Ensure that any leading comment is preserved at the top of the proc…,https://github.com/atlassian-labs/compiled/pull/1061,2022-01-27T07:02:27Z,2022-02-09T01:15:21Z,6,7,MERGED
+compiled,Add property to loader options when the extract plugin is enabled ,https://github.com/atlassian-labs/compiled/pull/1058,2022-01-27T05:44:32Z,2022-01-28T04:01:55Z,3,4,MERGED
+compiled,Add new codeowners,https://github.com/atlassian-labs/compiled/pull/1054,2022-01-24T22:55:47Z,2022-01-24T23:19:41Z,1,1,MERGED
+compiled,Remove changeset task on renovate,https://github.com/atlassian-labs/compiled/pull/1053,2022-01-24T06:37:05Z,2022-01-24T22:44:27Z,1,1,MERGED
+compiled,Implement stylesheet extraction with Parcel,https://github.com/atlassian-labs/compiled/pull/1052,2022-01-24T06:00:46Z,2022-03-22T03:54:50Z,38,23,MERGED
+compiled,move attrs transformation after applyVisitor & match compiled styled …,https://github.com/atlassian-labs/compiled/pull/1046,2022-01-18T04:03:49Z,2022-01-24T01:37:05Z,5,3,MERGED
+compiled,fix:statically evaluates deconstructed values from deeply nested objects,https://github.com/atlassian-labs/compiled/pull/1043,2022-01-17T04:52:42Z,2022-02-09T08:37:19Z,10,6,MERGED
+compiled,Update CODEOWNERS,https://github.com/atlassian-labs/compiled/pull/1040,2022-01-16T23:12:50Z,2022-01-16T23:22:46Z,1,1,MERGED
+compiled,Fix: Add Inline Comment Support for Import Statements in Codemod,https://github.com/atlassian-labs/compiled/pull/1034,2022-01-13T06:26:19Z,2022-02-09T03:24:46Z,17,24,MERGED
+compiled,Destructured prop fixes,https://github.com/atlassian-labs/compiled/pull/1032,2022-01-12T22:54:27Z,2022-01-18T01:25:13Z,11,7,MERGED
+compiled,Support ternary conditional expression in array-bassed `css` prop,https://github.com/atlassian-labs/compiled/pull/1031,2022-01-12T04:46:27Z,2022-01-13T06:09:59Z,3,5,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1030,2022-01-12T03:21:44Z,2022-01-24T05:58:42Z,0,1,MERGED
+compiled,Add changeset for jscodeshift bump to v0.13.1,https://github.com/atlassian-labs/compiled/pull/1028,2022-01-11T22:34:45Z,2022-01-12T03:20:06Z,1,2,MERGED
+compiled,chore: add babel plugins support,https://github.com/atlassian-labs/compiled/pull/1022,2022-01-10T23:20:25Z,2022-01-12T04:45:50Z,1,3,MERGED
+compiled,Fix: Prevent usages of extraneous packages.,https://github.com/atlassian-labs/compiled/pull/1015,2022-01-06T03:54:13Z,2022-01-07T03:59:03Z,2,3,MERGED
+compiled,Add new codeowners,https://github.com/atlassian-labs/compiled/pull/1014,2022-01-06T01:42:34Z,2022-01-06T04:02:45Z,1,2,MERGED
+compiled,Transform babel plugin config,https://github.com/atlassian-labs/compiled/pull/1225,2022-05-27T07:24:54Z,2022-06-09T23:27:03Z,3,6,MERGED
+compiled,Support template literal as in object literal selector,https://github.com/atlassian-labs/compiled/pull/1221,2022-05-19T02:20:57Z,2022-06-01T02:30:05Z,6,3,MERGED
+compiled,Check node env in a more reliable way,https://github.com/atlassian-labs/compiled/pull/1220,2022-05-16T12:15:16Z,2022-05-31T05:21:28Z,2,3,MERGED
+compiled,WIP use a more reliable way to check for server env,https://github.com/atlassian-labs/compiled/pull/1219,2022-05-16T07:03:10Z,2022-05-16T11:48:27Z,1,0,CLOSED
+compiled,Issue/1216 prevent side effects,https://github.com/atlassian-labs/compiled/pull/1218,2022-05-16T00:32:12Z,2022-05-31T01:57:25Z,2,10,MERGED
+compiled,Update CSS type to ignore props and fix broken yarn lock dependency,https://github.com/atlassian-labs/compiled/pull/1217,2022-05-12T01:47:46Z,2022-05-12T23:48:33Z,1,1,MERGED
+compiled,Update codeowners,https://github.com/atlassian-labs/compiled/pull/1214,2022-05-10T02:13:31Z,2022-05-11T01:41:53Z,3,4,MERGED
+compiled,Refactor expand flex shorthands to handle the CSS spec correctly,https://github.com/atlassian-labs/compiled/pull/1205,2022-04-29T06:45:33Z,2022-05-10T05:54:01Z,2,3,MERGED
+compiled,Adds codeshift.config to the npm allow list,https://github.com/atlassian-labs/compiled/pull/1203,2022-04-26T01:36:49Z,2022-04-29T05:18:41Z,1,2,MERGED
+compiled,chore: updated code owners,https://github.com/atlassian-labs/compiled/pull/1201,2022-04-21T07:05:54Z,2022-04-21T23:05:16Z,1,1,MERGED
+compiled,chore: add codemod util to @compiled/eslint-plugin,https://github.com/atlassian-labs/compiled/pull/1199,2022-04-21T06:13:47Z,2023-10-22T22:19:49Z,5,3,CLOSED
+compiled,Consider adopting CodeshiftCommunity 🚚,https://github.com/atlassian-labs/compiled/pull/1195,2022-04-16T02:39:10Z,2022-04-20T06:12:29Z,4,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1194,2022-04-14T06:52:55Z,2022-06-09T23:39:21Z,0,1,MERGED
+compiled,Bug - shadow variable clash with destructured props,https://github.com/atlassian-labs/compiled/pull/1193,2022-04-12T16:02:14Z,2022-05-09T10:53:56Z,14,17,MERGED
+compiled,Adjust flow types to handle function calls,https://github.com/atlassian-labs/compiled/pull/1188,2022-04-05T08:04:56Z,2022-04-14T06:51:17Z,11,6,MERGED
+compiled,1260 fix prop filtering dom,https://github.com/atlassian-labs/compiled/pull/1273,2022-07-27T23:55:23Z,2022-09-05T06:51:39Z,12,20,MERGED
+compiled,Added configurable options to optimize CSS,https://github.com/atlassian-labs/compiled/pull/1266,2022-07-15T06:12:13Z,2022-08-12T05:47:25Z,11,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1265,2022-07-15T03:52:41Z,2022-07-18T00:41:57Z,0,1,MERGED
+compiled,Take hashed asset name into consideration when optimizing css asset,https://github.com/atlassian-labs/compiled/pull/1264,2022-07-14T06:38:24Z,2022-07-15T03:51:10Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1262,2022-07-13T01:34:53Z,2022-07-13T01:47:01Z,0,1,MERGED
+compiled,"Revert ""Bug - shadow variable clash with destructured props (#1193)""",https://github.com/atlassian-labs/compiled/pull/1261,2022-07-13T01:19:35Z,2022-07-13T01:33:18Z,1,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1249,2022-07-11T00:00:09Z,2022-07-11T05:13:24Z,0,1,MERGED
+compiled,Add support for as expressions in TypeScript,https://github.com/atlassian-labs/compiled/pull/1248,2022-07-07T06:29:54Z,2022-07-10T23:58:35Z,3,2,MERGED
+compiled,fix for jsx-runtime when used with vitejs,https://github.com/atlassian-labs/compiled/pull/1246,2022-06-18T17:06:36Z,2022-07-04T17:00:51Z,4,2,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1245,2022-06-16T04:32:37Z,2022-06-16T05:20:13Z,0,1,MERGED
+compiled,Pass through babel parser plugins in parcel transformer,https://github.com/atlassian-labs/compiled/pull/1243,2022-06-15T07:17:28Z,2022-06-16T04:31:06Z,1,1,MERGED
+compiled,Correctly include config.json in package release,https://github.com/atlassian-labs/compiled/pull/1235,2022-06-01T23:54:57Z,2022-06-02T00:40:48Z,1,1,MERGED
+compiled,[Snyk] Upgrade jscodeshift from 0.13.1 to 0.14.0,https://github.com/atlassian-labs/compiled/pull/1305,2022-10-29T11:22:56Z,2022-11-29T04:55:28Z,1,5,MERGED
+compiled,"update babel-plugin-strip-runtime to pass styleRules to meta, update …",https://github.com/atlassian-labs/compiled/pull/1303,2022-10-18T02:03:17Z,2022-11-01T03:43:22Z,11,15,MERGED
+compiled,pass a custom resolver from parcel-transformer to babel plugin,https://github.com/atlassian-labs/compiled/pull/1302,2022-10-07T02:21:51Z,2022-10-11T04:42:47Z,7,5,MERGED
+compiled,Props not forwarded when composing using styled API,https://github.com/atlassian-labs/compiled/pull/1301,2022-10-06T04:19:39Z,2022-10-12T03:46:59Z,2,3,MERGED
+compiled,fix(webpack-loader): add missing `options.parserBabelPlugins`,https://github.com/atlassian-labs/compiled/pull/1298,2022-09-23T02:42:01Z,2022-09-28T07:06:41Z,4,2,MERGED
+compiled,1295 - Improve support for computed object property keys,https://github.com/atlassian-labs/compiled/pull/1296,2022-09-14T06:08:49Z,2022-10-04T01:53:35Z,2,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1294,2022-09-14T05:21:17Z,2022-10-12T04:44:14Z,0,1,MERGED
+compiled,1292 - Update loki & fix for Chrome CSS var behaviour,https://github.com/atlassian-labs/compiled/pull/1293,2022-09-12T03:26:46Z,2022-09-30T03:17:55Z,3,8,MERGED
+compiled,1290 clashing names,https://github.com/atlassian-labs/compiled/pull/1291,2022-09-09T02:06:58Z,2022-09-14T05:19:23Z,1,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1285,2022-08-17T01:07:55Z,2022-09-07T05:26:22Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1283,2022-08-12T05:49:13Z,2022-08-14T23:37:11Z,0,1,MERGED
+compiled,Omit rules with empty values from stylesheet,https://github.com/atlassian-labs/compiled/pull/1281,2022-08-10T05:18:27Z,2022-08-17T01:06:21Z,7,5,MERGED
+compiled,Remove @compiled/cli package,https://github.com/atlassian-labs/compiled/pull/1279,2022-08-09T03:39:29Z,2022-10-25T23:00:59Z,3,2,MERGED
+compiled,Autofix empty tagged template expressions,https://github.com/atlassian-labs/compiled/pull/1341,2022-12-14T04:46:40Z,2022-12-19T00:28:20Z,1,2,MERGED
+compiled,Add component name to class name,https://github.com/atlassian-labs/compiled/pull/1340,2022-12-13T00:53:01Z,2022-12-16T04:02:34Z,4,9,MERGED
+compiled,Fix/1324 no exported css reference,https://github.com/atlassian-labs/compiled/pull/1339,2022-12-12T05:44:41Z,2022-12-19T01:08:45Z,4,8,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1332,2022-12-07T23:46:46Z,2022-12-20T00:15:31Z,0,1,MERGED
+compiled,Bug/fix Webpack plugin extraction error,https://github.com/atlassian-labs/compiled/pull/1329,2022-12-07T00:10:39Z,2022-12-07T23:45:13Z,1,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1328,2022-12-06T00:09:35Z,2022-12-07T02:56:16Z,0,1,MERGED
+compiled,Fix value wrapped by quote,https://github.com/atlassian-labs/compiled/pull/1327,2022-12-05T08:27:28Z,2022-12-06T00:08:03Z,1,3,MERGED
+compiled,[ESLint] Selector disappears when autofixing no-*-tagged-template-exp…,https://github.com/atlassian-labs/compiled/pull/1326,2022-12-05T01:22:42Z,2022-12-07T00:54:18Z,3,7,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1322,2022-11-27T22:53:37Z,2022-11-27T23:34:02Z,0,1,MERGED
+compiled,Fix/1316 CSS prop ,https://github.com/atlassian-labs/compiled/pull/1321,2022-11-24T03:11:48Z,2022-12-09T02:10:30Z,5,10,MERGED
+compiled,fix an issue of double call expression in traverseCallExpression,https://github.com/atlassian-labs/compiled/pull/1320,2022-11-23T22:49:40Z,2022-11-27T22:52:03Z,1,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1319,2022-11-22T23:11:52Z,2022-11-23T22:54:51Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1318,2022-11-22T22:31:53Z,2022-11-22T22:43:22Z,0,1,MERGED
+compiled,Use 0% as default value for flex-basis,https://github.com/atlassian-labs/compiled/pull/1317,2022-11-22T02:39:36Z,2022-11-27T23:18:55Z,2,6,MERGED
+compiled,Add Type support to no-styled-tagged-template-expression ESLint rule,https://github.com/atlassian-labs/compiled/pull/1315,2022-11-21T03:27:27Z,2022-11-22T22:29:45Z,3,4,MERGED
+compiled,fix breaking rule,https://github.com/atlassian-labs/compiled/pull/1313,2022-11-18T05:53:32Z,2022-11-22T23:10:19Z,5,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1311,2022-11-07T03:38:13Z,2022-11-07T04:46:50Z,0,1,MERGED
+compiled,[Snyk] Security upgrade loader-utils from 2.0.2 to 2.0.3,https://github.com/atlassian-labs/compiled/pull/1310,2022-11-05T08:02:36Z,2022-11-07T03:36:22Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1309,2022-11-03T02:17:09Z,2022-11-03T03:08:30Z,0,1,MERGED
+compiled,fix(eslint-plugin): handle importing whole modules,https://github.com/atlassian-labs/compiled/pull/1308,2022-11-03T01:33:47Z,2022-11-03T02:15:03Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1307,2022-11-01T04:52:04Z,2022-11-01T22:37:20Z,0,1,MERGED
+compiled,Introduce ac,https://github.com/atlassian-labs/compiled/pull/1437,2023-03-28T05:20:43Z,2023-04-26T00:06:50Z,14,15,MERGED
+compiled,Only invalidate cache on startup when using js config files,https://github.com/atlassian-labs/compiled/pull/1432,2023-03-07T02:29:12Z,2023-03-29T02:36:00Z,3,2,MERGED
+compiled,Update debug configuration to use correct config filename,https://github.com/atlassian-labs/compiled/pull/1428,2023-02-21T04:00:27Z,2023-02-21T05:40:24Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1427,2023-02-20T23:31:08Z,2023-03-29T03:03:58Z,0,1,MERGED
+compiled,Add more CSS properties to list of unitless properties,https://github.com/atlassian-labs/compiled/pull/1426,2023-02-20T02:57:04Z,2023-02-20T23:29:43Z,2,5,MERGED
+compiled,Add support for all CSS at-rules,https://github.com/atlassian-labs/compiled/pull/1422,2023-02-16T00:27:23Z,2023-03-01T00:44:00Z,11,5,MERGED
+compiled,Add Grant Wong as codeowner,https://github.com/atlassian-labs/compiled/pull/1421,2023-02-14T23:47:58Z,2023-02-15T04:47:34Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1419,2023-02-13T03:19:39Z,2023-02-20T03:28:20Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1413,2023-02-09T05:16:53Z,2023-02-13T00:53:45Z,0,1,MERGED
+compiled,Fix transparent and currentcolor not being treated as a color,https://github.com/atlassian-labs/compiled/pull/1412,2023-02-09T00:51:07Z,2023-02-09T05:15:37Z,1,1,MERGED
+compiled,Compress atomic class names,https://github.com/atlassian-labs/compiled/pull/1408,2023-02-06T03:32:41Z,2023-02-20T03:01:45Z,19,39,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1405,2023-02-06T00:05:35Z,2023-02-06T00:16:16Z,0,1,MERGED
+compiled,Fix isServerEnvironment check,https://github.com/atlassian-labs/compiled/pull/1404,2023-02-03T00:45:14Z,2023-02-03T02:37:37Z,1,2,MERGED
+compiled,Update 'ax' to accept short class name,https://github.com/atlassian-labs/compiled/pull/1396,2023-01-25T00:04:30Z,2023-02-06T03:34:56Z,4,6,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1394,2023-01-24T05:14:18Z,2023-02-03T02:51:28Z,0,1,MERGED
+compiled,"Revert ""chore(deps): update dependency jest-watch-typeahead to v2""",https://github.com/atlassian-labs/compiled/pull/1393,2023-01-24T04:35:30Z,2023-01-24T22:27:28Z,1,2,MERGED
+compiled,Bump node version to v18,https://github.com/atlassian-labs/compiled/pull/1392,2023-01-23T03:30:26Z,2023-02-13T03:17:50Z,1,9,MERGED
+compiled,Prune unneeded resolutions,https://github.com/atlassian-labs/compiled/pull/1391,2023-01-23T03:27:43Z,2023-01-31T00:31:00Z,1,3,MERGED
+compiled,Add new ESLint rule for missing css function on styles,https://github.com/atlassian-labs/compiled/pull/1383,2023-01-20T05:59:08Z,2023-02-06T00:03:53Z,4,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1357,2023-01-17T03:59:47Z,2023-01-24T03:08:10Z,0,1,MERGED
+compiled,Clean up dependencies of packages,https://github.com/atlassian-labs/compiled/pull/1356,2023-01-17T03:39:58Z,2023-01-19T00:08:43Z,1,4,MERGED
+compiled,Fix react runtime ax function returning incorrect result for selectors,https://github.com/atlassian-labs/compiled/pull/1355,2023-01-17T02:45:14Z,2023-01-17T03:58:17Z,1,2,MERGED
+compiled,Remove `ax` from runtime ,https://github.com/atlassian-labs/compiled/pull/1354,2023-01-16T05:10:02Z,2023-01-29T23:15:55Z,10,2,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1353,2023-01-12T04:04:55Z,2023-01-17T00:32:42Z,0,1,MERGED
+compiled,Wrap with quote instead of dropping quote on strings in eslint rule,https://github.com/atlassian-labs/compiled/pull/1352,2023-01-12T03:17:54Z,2023-01-17T00:22:39Z,1,3,MERGED
+compiled,Fix flex shorthand expansion when flex basis is 0,https://github.com/atlassian-labs/compiled/pull/1351,2023-01-10T23:09:42Z,2023-01-12T04:03:18Z,3,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1348,2023-01-09T03:00:13Z,2023-01-09T04:13:06Z,0,1,MERGED
+compiled,Preserve the original node in the codemod plugin API,https://github.com/atlassian-labs/compiled/pull/1347,2023-01-09T00:42:02Z,2023-01-09T02:58:06Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1344,2023-01-05T23:25:27Z,2023-01-05T23:57:03Z,0,1,MERGED
+compiled,Preserve unresolved imports codemod,https://github.com/atlassian-labs/compiled/pull/1343,2023-01-05T00:47:04Z,2023-01-05T23:23:45Z,3,4,MERGED
+compiled,[Snyk] Upgrade jscodeshift from 0.14.0 to 0.15.0,https://github.com/atlassian-labs/compiled/pull/1459,2023-05-30T09:10:50Z,2023-06-01T03:54:40Z,1,2,MERGED
+compiled,Add CLI for analysing inefficiencies in compiled-css.css,https://github.com/atlassian-labs/compiled/pull/1458,2023-05-29T04:23:58Z,2023-10-31T00:00:39Z,4,9,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1452,2023-05-01T04:43:24Z,2023-05-02T06:26:09Z,0,1,MERGED
+compiled,Throw error when expressionToString runs infinite loop,https://github.com/atlassian-labs/compiled/pull/1450,2023-05-01T00:24:43Z,2023-05-01T04:41:36Z,2,3,MERGED
+compiled,Remove a unused type,https://github.com/atlassian-labs/compiled/pull/1449,2023-04-27T21:54:12Z,2023-04-27T23:51:54Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1448,2023-04-27T21:47:20Z,2023-04-28T00:08:15Z,0,1,MERGED
+compiled,remove runtime side effects,https://github.com/atlassian-labs/compiled/pull/1447,2023-04-27T05:01:13Z,2023-04-27T21:45:50Z,2,2,MERGED
+compiled,Bugfix generate compression map correctly,https://github.com/atlassian-labs/compiled/pull/1446,2023-04-24T04:56:53Z,2023-11-07T02:46:15Z,3,2,CLOSED
+compiled,Add classNameCompressionMapFilePath as an option to Parcel transformer.,https://github.com/atlassian-labs/compiled/pull/1444,2023-04-21T00:11:06Z,2023-04-26T00:18:08Z,4,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1442,2023-04-17T01:22:44Z,2023-04-26T00:39:14Z,0,1,MERGED
+compiled,Allow static evaluation of variables inside nested template literals,https://github.com/atlassian-labs/compiled/pull/1440,2023-04-06T06:27:02Z,2023-04-17T01:21:13Z,7,5,MERGED
+compiled,Support default parameters in arrow functions,https://github.com/atlassian-labs/compiled/pull/1484,2023-07-27T07:17:29Z,2023-08-03T00:55:39Z,3,4,MERGED
+compiled,Force update semver to 7.5.3,https://github.com/atlassian-labs/compiled/pull/1477,2023-07-06T00:54:33Z,2023-07-06T04:50:14Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1473,2023-07-04T01:36:52Z,2023-07-04T01:50:42Z,0,1,MERGED
+compiled,Change #1467 changeset from patch to minor,https://github.com/atlassian-labs/compiled/pull/1472,2023-07-04T01:24:25Z,2023-07-04T01:34:39Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1471,2023-07-04T00:30:30Z,2023-07-04T01:20:21Z,1,1,CLOSED
+compiled,Skip shorthand property expansion if CSS variable given as value,https://github.com/atlassian-labs/compiled/pull/1467,2023-06-28T07:02:35Z,2023-07-04T00:28:08Z,1,5,MERGED
+compiled,Update codeshift.config to suit new version of codeshift/cli,https://github.com/atlassian-labs/compiled/pull/1463,2023-06-09T00:00:09Z,2023-06-16T03:29:15Z,0,1,MERGED
+compiled,No suppress XCSS prop lint rule,https://github.com/atlassian-labs/compiled/pull/1545,2023-10-31T03:44:38Z,2023-11-02T01:59:29Z,9,5,MERGED
+compiled,XCSS prop options arg,https://github.com/atlassian-labs/compiled/pull/1541,2023-10-26T04:10:04Z,2023-10-26T05:20:43Z,2,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1540,2023-10-26T03:23:29Z,2023-11-03T00:40:08Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1539,2023-10-24T02:16:48Z,2023-10-25T22:23:17Z,0,1,MERGED
+compiled,Handle memberExpression as css property,https://github.com/atlassian-labs/compiled/pull/1538,2023-10-23T05:45:25Z,2023-10-24T04:54:07Z,1,5,MERGED
+compiled,fix for no-css-tagged-template linting rule,https://github.com/atlassian-labs/compiled/pull/1537,2023-10-23T05:31:49Z,2023-10-24T05:40:25Z,1,4,MERGED
+compiled,Delete flow types,https://github.com/atlassian-labs/compiled/pull/1536,2023-10-23T02:51:46Z,2023-10-24T02:15:13Z,1,5,MERGED
+compiled,Component declared styles,https://github.com/atlassian-labs/compiled/pull/1533,2023-10-20T00:52:27Z,2023-10-26T03:21:46Z,22,26,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1532,2023-10-19T05:38:19Z,2023-10-19T22:56:03Z,0,1,MERGED
+compiled,"Refactor no-css-prop-without-css-function, fix edge case",https://github.com/atlassian-labs/compiled/pull/1530,2023-10-18T05:29:52Z,2023-10-19T05:36:43Z,1,2,MERGED
+compiled,Update yarn.lock,https://github.com/atlassian-labs/compiled/pull/1529,2023-10-15T23:36:59Z,2023-10-16T00:05:30Z,2,1,MERGED
+compiled,[Snyk] Security upgrade @babel/traverse from 7.21.5 to 7.23.2,https://github.com/atlassian-labs/compiled/pull/1528,2023-10-14T02:46:40Z,2023-10-15T23:24:28Z,1,1,MERGED
+compiled,[Snyk] Security upgrade @babel/traverse from 7.21.5 to 7.23.2,https://github.com/atlassian-labs/compiled/pull/1527,2023-10-13T16:36:26Z,2023-10-14T08:39:40Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1526,2023-10-12T05:35:53Z,2023-10-13T00:20:59Z,1,1,MERGED
+compiled,Support resolver module path,https://github.com/atlassian-labs/compiled/pull/1525,2023-10-12T01:14:40Z,2023-10-12T05:34:17Z,3,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1524,2023-10-12T00:39:12Z,2023-10-12T00:48:48Z,0,1,MERGED
+compiled,Replace sourceCode with getSourceCode,https://github.com/atlassian-labs/compiled/pull/1523,2023-10-12T00:13:36Z,2023-10-12T00:37:14Z,1,2,MERGED
+compiled,[WIP] Introduce scaffold of stricter types for css,https://github.com/atlassian-labs/compiled/pull/1522,2023-10-09T06:49:54Z,2023-10-20T00:20:46Z,13,3,CLOSED
+compiled,Add example type test,https://github.com/atlassian-labs/compiled/pull/1521,2023-10-09T04:16:20Z,2023-10-10T00:36:24Z,2,2,MERGED
+compiled,[Snyk] Security upgrade postcss from 8.4.27 to 8.4.31,https://github.com/atlassian-labs/compiled/pull/1520,2023-10-01T18:07:04Z,2023-10-12T23:34:08Z,1,2,MERGED
+compiled,Fix VR tests not working on macOS,https://github.com/atlassian-labs/compiled/pull/1519,2023-09-22T01:45:23Z,2023-10-11T05:23:04Z,1,2,MERGED
+compiled,Add .snyk to packages/babel-plugin-strip-runtime,https://github.com/atlassian-labs/compiled/pull/1517,2023-09-21T00:24:59Z,2023-09-21T00:36:20Z,1,1,MERGED
+compiled,Move .snyk file,https://github.com/atlassian-labs/compiled/pull/1516,2023-09-18T00:22:18Z,2023-09-18T00:47:00Z,1,1,MERGED
+compiled,Update snyk file,https://github.com/atlassian-labs/compiled/pull/1515,2023-09-15T06:48:02Z,2023-09-15T06:56:28Z,1,1,MERGED
+compiled,Add snyk file,https://github.com/atlassian-labs/compiled/pull/1514,2023-09-15T06:26:28Z,2023-09-15T06:38:09Z,1,1,MERGED
+compiled,Feature/handle extracted compiled files,https://github.com/atlassian-labs/compiled/pull/1513,2023-09-13T02:42:34Z,2023-10-04T01:42:01Z,13,24,MERGED
+compiled,Implement xcss,https://github.com/atlassian-labs/compiled/pull/1512,2023-09-13T01:31:16Z,2023-10-30T23:07:21Z,3,1,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1511,2023-09-06T05:56:14Z,2023-10-04T02:47:53Z,0,1,MERGED
+compiled,Update caniuse-lite,https://github.com/atlassian-labs/compiled/pull/1510,2023-09-06T04:47:54Z,2023-09-06T06:01:52Z,1,1,MERGED
+compiled,Fix duplicate css import in eslint plugin,https://github.com/atlassian-labs/compiled/pull/1509,2023-09-06T04:40:12Z,2023-09-06T05:54:41Z,1,1,MERGED
+compiled,Extract styles to file in babel plugin,https://github.com/atlassian-labs/compiled/pull/1503,2023-09-01T06:31:42Z,2023-10-11T05:20:37Z,7,4,CLOSED
+compiled,tighten up cssMap type,https://github.com/atlassian-labs/compiled/pull/1502,2023-09-01T01:15:32Z,2023-09-20T05:52:07Z,7,10,MERGED
+compiled,ESLint rule for CSS map,https://github.com/atlassian-labs/compiled/pull/1500,2023-08-31T06:19:33Z,2023-09-07T01:06:14Z,6,13,MERGED
+compiled,Update cssmap types,https://github.com/atlassian-labs/compiled/pull/1499,2023-08-30T02:09:31Z,2023-08-31T01:30:01Z,1,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1498,2023-08-29T06:24:20Z,2023-08-31T01:56:42Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1497,2023-08-25T01:43:48Z,2023-08-25T02:04:30Z,0,1,MERGED
+compiled,CSS Map alternative compilation approach,https://github.com/atlassian-labs/compiled/pull/1496,2023-08-23T05:29:28Z,2023-08-29T06:22:51Z,6,18,MERGED
+compiled,eslint plugin: Allow function parameters/imported values in edge case,https://github.com/atlassian-labs/compiled/pull/1494,2023-08-23T00:37:02Z,2023-08-25T01:41:21Z,3,5,MERGED
+compiled,Add CSS Map,https://github.com/atlassian-labs/compiled/pull/1492,2023-08-10T03:30:13Z,2023-08-31T01:54:34Z,23,13,CLOSED
+compiled,Forbid imported styles and function parameters in css attribute,https://github.com/atlassian-labs/compiled/pull/1491,2023-08-07T04:43:52Z,2023-08-11T04:52:37Z,3,9,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1486,2023-08-03T00:57:49Z,2023-08-21T01:08:03Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1609,2023-12-29T04:54:33Z,2023-12-29T05:24:30Z,0,1,MERGED
+compiled,Option to increase specificity of generated styles to enable XCSSProp migration,https://github.com/atlassian-labs/compiled/pull/1608,2023-12-28T23:22:33Z,2024-01-04T01:50:07Z,15,9,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1605,2023-12-22T03:18:00Z,2023-12-22T03:24:46Z,0,1,MERGED
+compiled,Fix nested types output from createStrictAPI() being unintentionally marked as required,https://github.com/atlassian-labs/compiled/pull/1604,2023-12-22T02:57:42Z,2023-12-22T03:16:41Z,5,2,MERGED
+compiled,Fix @compiled/babel-plugin handling of classic JSX pragma,https://github.com/atlassian-labs/compiled/pull/1603,2023-12-22T02:00:01Z,2023-12-29T04:53:11Z,20,15,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1602,2023-12-22T01:09:25Z,2023-12-22T01:16:14Z,0,1,MERGED
+compiled,Fix unexpected type violation with XCSSProp from createStrictAPI(),https://github.com/atlassian-labs/compiled/pull/1601,2023-12-22T00:40:19Z,2023-12-22T00:58:26Z,2,2,MERGED
+compiled,"Export `CSSPseudos, CSSProperties, StrictCSSProperties` types for a strict `XCSSProp` implementation.",https://github.com/atlassian-labs/compiled/pull/1600,2023-12-21T21:16:14Z,2023-12-22T01:08:07Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1597,2023-12-18T04:52:56Z,2023-12-18T04:57:34Z,0,1,MERGED
+compiled,Fix XCSSProp types,https://github.com/atlassian-labs/compiled/pull/1596,2023-12-18T02:34:24Z,2023-12-18T04:51:37Z,3,6,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1595,2023-12-18T00:03:57Z,2023-12-18T00:13:06Z,0,1,MERGED
+compiled,Updated the CONTRIBUTING document to be more descriptive,https://github.com/atlassian-labs/compiled/pull/1592,2023-12-13T23:27:43Z,2023-12-19T23:48:41Z,17,7,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1591,2023-12-12T03:25:16Z,2023-12-12T21:20:35Z,0,1,MERGED
+compiled,Fix no-empty-styled-expression rule that's linting false positives,https://github.com/atlassian-labs/compiled/pull/1590,2023-12-12T00:34:01Z,2023-12-12T03:23:55Z,9,17,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1589,2023-12-11T03:38:05Z,2023-12-11T03:55:44Z,1,1,MERGED
+compiled,Fix Compiled runtime being added unexpectedly for xcss prop usage,https://github.com/atlassian-labs/compiled/pull/1588,2023-12-11T03:13:18Z,2023-12-11T03:36:47Z,2,4,MERGED
+compiled,Change `processXcss` in `@compiled/babel-plugin` to false by default,https://github.com/atlassian-labs/compiled/pull/1587,2023-12-08T01:01:37Z,2023-12-11T03:44:37Z,2,2,CLOSED
+compiled,Fix size-limit,https://github.com/atlassian-labs/compiled/pull/1586,2023-12-07T03:52:10Z,2023-12-07T04:00:13Z,1,1,MERGED
+compiled,Fix #1557 breaking Emotion usages,https://github.com/atlassian-labs/compiled/pull/1585,2023-12-07T00:58:42Z,2023-12-18T00:02:37Z,4,5,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1584,2023-12-07T00:06:20Z,2023-12-07T04:17:33Z,0,1,MERGED
+compiled,Revert/revert jsx pragma change,https://github.com/atlassian-labs/compiled/pull/1583,2023-12-06T23:37:34Z,2023-12-07T00:04:55Z,1,2,MERGED
+compiled,Block invalid properties on the strict API `cssMap` when extended type was met.,https://github.com/atlassian-labs/compiled/pull/1582,2023-12-06T21:18:26Z,2023-12-07T00:16:39Z,6,5,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1580,2023-12-06T03:29:39Z,2023-12-06T03:37:49Z,0,1,MERGED
+compiled,Fixed eslint rule declaration typo,https://github.com/atlassian-labs/compiled/pull/1578,2023-12-06T02:52:15Z,2023-12-06T03:28:17Z,2,3,MERGED
+compiled,strict-api to import from local instead of @compiled/react,https://github.com/atlassian-labs/compiled/pull/1577,2023-12-05T00:46:26Z,2023-12-05T03:06:05Z,3,5,MERGED
+compiled,Update CODEOWNERS to add zerosicx,https://github.com/atlassian-labs/compiled/pull/1576,2023-12-05T00:45:19Z,2023-12-05T02:56:01Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1575,2023-12-05T00:29:01Z,2023-12-05T03:13:48Z,0,1,MERGED
+compiled,Feature/add no empty styled expressions rule declaration,https://github.com/atlassian-labs/compiled/pull/1574,2023-12-05T00:19:19Z,2023-12-05T00:27:41Z,3,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1573,2023-12-04T23:22:45Z,2023-12-05T00:07:59Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1572,2023-12-04T02:46:02Z,2023-12-04T05:51:42Z,1,1,MERGED
+compiled,Improve error message for createStrictAPI(),https://github.com/atlassian-labs/compiled/pull/1571,2023-12-04T02:37:50Z,2023-12-04T02:44:46Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1570,2023-12-03T23:31:36Z,2023-12-03T23:39:27Z,0,1,MERGED
+compiled,Support resolver module path,https://github.com/atlassian-labs/compiled/pull/1569,2023-12-01T04:38:01Z,2023-12-04T23:21:27Z,2,6,MERGED
+compiled,Created ESLint rule to disallow/discourage usage of empty styled.div() calls,https://github.com/atlassian-labs/compiled/pull/1568,2023-11-30T00:50:29Z,2023-12-04T04:46:57Z,16,26,MERGED
+compiled,Introduce createStrictAPI,https://github.com/atlassian-labs/compiled/pull/1566,2023-11-24T05:56:12Z,2023-12-03T23:30:16Z,12,32,MERGED
+compiled,Added Babel Plugin 0.19.0 Patch from JFE,https://github.com/atlassian-labs/compiled/pull/1565,2023-11-24T04:12:07Z,2023-11-27T00:09:47Z,3,8,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1564,2023-11-21T03:30:59Z,2023-11-27T02:24:20Z,0,1,MERGED
+compiled,Fix xcss prop not being compatible with Emotion,https://github.com/atlassian-labs/compiled/pull/1563,2023-11-20T02:31:28Z,2023-11-21T03:29:39Z,1,2,MERGED
+compiled,Update jsx-pragma documentation,https://github.com/atlassian-labs/compiled/pull/1562,2023-11-20T02:28:30Z,2023-11-23T03:35:02Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1561,2023-11-17T05:09:05Z,2023-11-20T03:16:13Z,0,1,MERGED
+compiled,Add `ignoreIfImported` and `excludeReactComponents` options to `no-css-prop-without-css-function` ESLint rule,https://github.com/atlassian-labs/compiled/pull/1560,2023-11-14T23:45:04Z,2023-11-17T05:07:41Z,1,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1559,2023-11-14T05:55:18Z,2023-11-15T01:57:34Z,0,1,MERGED
+compiled,Fix jsx pragma breaking @compiled/babel-plugin-strip-runtime stylesheet extraction,https://github.com/atlassian-labs/compiled/pull/1557,2023-11-10T05:59:01Z,2023-11-14T05:54:00Z,2,1,MERGED
+compiled,Fix xcss eslint rules not compatible with eslint v7,https://github.com/atlassian-labs/compiled/pull/1556,2023-11-07T05:25:33Z,2023-11-07T08:59:37Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1555,2023-11-07T03:21:42Z,2023-11-07T22:42:58Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1554,2023-11-07T00:34:36Z,2023-11-07T00:47:07Z,0,1,MERGED
+compiled,Update no-exported-css and no-exported-keyframes error message,https://github.com/atlassian-labs/compiled/pull/1552,2023-11-06T05:03:24Z,2023-11-07T03:20:13Z,1,1,MERGED
+compiled,"Extend jsx-pragma eslint rule: detect mixing Compiled with Emotion, and only run if importing Compiled",https://github.com/atlassian-labs/compiled/pull/1551,2023-11-03T06:06:12Z,2023-11-07T00:33:04Z,7,4,MERGED
+compiled,Update jsx-pragma rule to ensure it exists when using xcss prop,https://github.com/atlassian-labs/compiled/pull/1550,2023-11-02T05:59:38Z,2023-11-03T00:06:21Z,3,4,MERGED
+compiled,Fix XCSS prop collecting more styles than expected,https://github.com/atlassian-labs/compiled/pull/1549,2023-11-02T04:03:34Z,2023-11-02T04:28:02Z,1,3,MERGED
+compiled,XCSS prop local cx lint,https://github.com/atlassian-labs/compiled/pull/1548,2023-11-02T02:40:18Z,2023-11-02T03:15:04Z,5,10,MERGED
+compiled,XCSS prop no js lint,https://github.com/atlassian-labs/compiled/pull/1547,2023-11-02T00:54:35Z,2023-11-02T03:04:26Z,2,4,MERGED
+compiled,Remove the invariant to fail on an empty cssMap object for easier iterative development.,https://github.com/atlassian-labs/compiled/pull/1652,2024-03-29T00:38:23Z,2024-04-01T23:54:00Z,2,1,MERGED
+compiled,[Snyk] Security upgrade express from 4.18.2 to 4.19.2,https://github.com/atlassian-labs/compiled/pull/1651,2024-03-26T19:43:49Z,2024-04-03T05:22:03Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1646,2024-03-12T06:04:54Z,2024-03-12T06:12:25Z,0,1,MERGED
+compiled,Check for missing AST in parcel transformer,https://github.com/atlassian-labs/compiled/pull/1645,2024-03-12T05:52:00Z,2024-03-12T06:03:33Z,2,1,MERGED
+compiled,Remove required pseudo from XCSS prop,https://github.com/atlassian-labs/compiled/pull/1643,2024-03-10T23:07:56Z,2024-03-10T23:32:21Z,2,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1641,2024-03-06T21:48:01Z,2024-03-11T00:10:18Z,0,1,MERGED
+compiled,Fix inference of complex properties in `cssMap`,https://github.com/atlassian-labs/compiled/pull/1640,2024-03-06T21:42:41Z,2024-03-06T23:16:04Z,2,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1638,2024-03-06T00:30:43Z,2024-03-06T00:38:21Z,0,1,MERGED
+compiled,EXAMPLE: Allow explicit value-blocking in `xcss` prop.,https://github.com/atlassian-labs/compiled/pull/1637,2024-03-05T20:26:50Z,2024-03-06T20:25:54Z,6,12,CLOSED
+compiled,Refactor strict API types,https://github.com/atlassian-labs/compiled/pull/1636,2024-03-04T21:56:19Z,2024-03-06T21:46:36Z,24,16,MERGED
+compiled,Fix CSS func types,https://github.com/atlassian-labs/compiled/pull/1635,2024-03-04T03:29:03Z,2024-03-04T03:40:15Z,2,2,MERGED
+compiled,Add media query typing to XCSS prop / createStrictAPI,https://github.com/atlassian-labs/compiled/pull/1634,2024-03-04T01:37:19Z,2024-03-10T23:01:09Z,19,16,MERGED
+compiled,Fix passing props arrow function directly to styled not working,https://github.com/atlassian-labs/compiled/pull/1633,2024-03-01T04:28:01Z,2024-03-04T23:36:20Z,1,6,MERGED
+compiled,Remove Hannah from code owners,https://github.com/atlassian-labs/compiled/pull/1632,2024-03-01T00:05:13Z,2024-03-01T03:24:16Z,1,1,MERGED
+compiled,Fix source map behaviour in Parcel and move node_modules compiled extraction to new parcel transformer,https://github.com/atlassian-labs/compiled/pull/1631,2024-02-29T03:33:44Z,2024-03-06T00:29:19Z,7,6,MERGED
+compiled,Fix Compiled props being incorrectly forwarded when default values used,https://github.com/atlassian-labs/compiled/pull/1630,2024-02-16T05:13:15Z,2024-02-19T05:52:34Z,3,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1626,2024-02-08T05:02:51Z,2024-03-04T23:45:29Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1625,2024-02-08T00:09:25Z,2024-02-08T00:45:29Z,0,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1624,2024-02-07T04:34:45Z,2024-02-07T04:51:41Z,0,1,MERGED
+compiled,Add importSources to @compiled/webpack-loader,https://github.com/atlassian-labs/compiled/pull/1623,2024-02-07T01:02:35Z,2024-02-07T04:33:23Z,2,2,MERGED
+compiled,Add `importSources` option to jsx-pragma rule,https://github.com/atlassian-labs/compiled/pull/1622,2024-02-05T04:27:11Z,2024-02-08T00:08:05Z,7,6,MERGED
+compiled,Bail out early in parcel-transformer if @compiled/react is not present,https://github.com/atlassian-labs/compiled/pull/1621,2024-02-02T05:43:18Z,2024-02-08T05:01:34Z,6,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1620,2024-02-02T02:26:29Z,2024-02-02T02:39:51Z,0,1,MERGED
+compiled,"Add ""similar"" debugging to `toHaveCompiledCss`",https://github.com/atlassian-labs/compiled/pull/1619,2024-02-02T01:47:43Z,2024-02-02T02:25:07Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1618,2024-01-23T04:24:52Z,2024-01-23T04:31:30Z,0,1,MERGED
+compiled,Fix r18 JSX namespace types,https://github.com/atlassian-labs/compiled/pull/1617,2024-01-23T04:17:28Z,2024-01-23T04:23:36Z,1,2,MERGED
+compiled,Fix typo in no-invalid-css-map README,https://github.com/atlassian-labs/compiled/pull/1616,2024-01-23T02:36:10Z,2024-01-23T04:05:52Z,3,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1615,2024-01-10T05:39:01Z,2024-01-11T00:40:26Z,0,1,MERGED
+compiled,Add missing typecheck command,https://github.com/atlassian-labs/compiled/pull/1613,2024-01-05T04:56:13Z,2024-01-17T23:20:43Z,5,1,CLOSED
+compiled,Fix Compiled throwing when multiple API imports exist in the same module,https://github.com/atlassian-labs/compiled/pull/1612,2024-01-05T04:29:10Z,2024-01-10T05:37:43Z,3,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1611,2024-01-04T01:51:27Z,2024-01-04T02:04:26Z,0,1,MERGED
+compiled,Merge Compiled website into Compiled monorepo,https://github.com/atlassian-labs/compiled/pull/1677,2024-05-30T04:19:46Z,2024-06-27T00:39:03Z,7,5,MERGED
+compiled,Test kebab case var,https://github.com/atlassian-labs/compiled/pull/1676,2024-05-23T04:49:50Z,2024-05-23T04:56:21Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1675,2024-05-23T04:49:02Z,2024-05-23T05:04:01Z,0,1,MERGED
+compiled,Fix jest matcher kebab-casing CSS custom properties,https://github.com/atlassian-labs/compiled/pull/1674,2024-05-23T04:21:44Z,2024-05-23T04:47:44Z,3,2,MERGED
+compiled,Add test for `as const` expression in object key,https://github.com/atlassian-labs/compiled/pull/1672,2024-05-14T07:02:27Z,2024-05-15T00:49:14Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1671,2024-05-14T06:23:31Z,2024-05-15T01:10:19Z,1,1,MERGED
+compiled,Fix 'as const' expressions causing build error,https://github.com/atlassian-labs/compiled/pull/1670,2024-05-14T05:56:04Z,2024-05-14T06:22:12Z,1,2,MERGED
+compiled,Enforce pseudo-selector ordering by increasing specificity,https://github.com/atlassian-labs/compiled/pull/1667,2024-05-02T00:35:30Z,2024-07-01T04:20:58Z,11,11,CLOSED
+compiled,Add media query sorting,https://github.com/atlassian-labs/compiled/pull/1666,2024-04-23T06:49:08Z,2024-05-09T23:18:54Z,22,14,MERGED
+compiled,Add custom property values to loose XCSSProp,https://github.com/atlassian-labs/compiled/pull/1665,2024-04-18T10:00:32Z,2024-04-28T23:57:08Z,6,9,CLOSED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1664,2024-04-14T23:31:36Z,2024-05-13T04:51:40Z,0,1,MERGED
+compiled,Fix CSS variables casing,https://github.com/atlassian-labs/compiled/pull/1663,2024-04-11T06:48:21Z,2024-04-14T23:30:13Z,6,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1662,2024-04-11T01:17:49Z,2024-04-11T01:39:26Z,0,1,MERGED
+compiled,Replace increase specificity selector as JSDOM breaks with `#\\9`.,https://github.com/atlassian-labs/compiled/pull/1661,2024-04-10T06:16:43Z,2024-04-11T01:16:25Z,3,3,MERGED
+compiled,Add new default import source (@atlaskit/css),https://github.com/atlassian-labs/compiled/pull/1660,2024-04-10T00:51:58Z,2024-04-10T01:23:18Z,3,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1659,2024-04-09T04:49:37Z,2024-04-10T04:52:55Z,0,1,MERGED
+compiled,Fix handling of CSS `content` property,https://github.com/atlassian-labs/compiled/pull/1658,2024-04-09T01:56:18Z,2024-04-09T04:48:16Z,5,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1657,2024-04-09T00:27:35Z,2024-04-09T00:43:50Z,0,1,MERGED
+compiled,Allow `@compiled/babel-plugin`'s `increaseSpecificity` to work with `@compiled/jest`,https://github.com/atlassian-labs/compiled/pull/1656,2024-04-08T03:35:05Z,2024-04-09T00:25:48Z,5,4,MERGED
+compiled,Add additional type exports,https://github.com/atlassian-labs/compiled/pull/1655,2024-04-08T02:40:16Z,2024-04-08T05:30:26Z,1,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1653,2024-04-01T23:55:22Z,2024-04-08T06:11:27Z,0,1,MERGED
+compiled,Sort shorthand vs. longhand declarations — breaking change behind config,https://github.com/atlassian-labs/compiled/pull/1700,2024-07-22T03:52:24Z,2024-09-30T00:53:46Z,23,14,MERGED
+compiled,Fix the broken releases following bringing the Compiled website in.,https://github.com/atlassian-labs/compiled/pull/1699,2024-07-22T01:16:39Z,2024-07-22T01:28:38Z,2,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1698,2024-07-21T23:16:45Z,2024-07-22T00:57:25Z,1,1,MERGED
+compiled,Fix the `cx()` function's class collection at runtime as it generated class instances rather than strings.,https://github.com/atlassian-labs/compiled/pull/1697,2024-07-18T23:00:10Z,2024-07-21T23:15:25Z,3,2,MERGED
+compiled,Allow `ax()` to handle non-string classnames when collected.,https://github.com/atlassian-labs/compiled/pull/1696,2024-07-18T02:42:52Z,2024-07-19T01:31:00Z,8,4,CLOSED
+compiled,Fix/1112 allow duplicate properties,https://github.com/atlassian-labs/compiled/pull/1695,2024-07-17T04:20:52Z,2024-07-17T04:25:45Z,3,2,CLOSED
+compiled,Add custom GitHub action and pull request template to enforce that documentation is updated,https://github.com/atlassian-labs/compiled/pull/1694,2024-07-16T01:29:28Z,2024-07-17T01:25:16Z,10,5,MERGED
+compiled,Experiment: Add GitHub action to enforce tasks are checked off,https://github.com/atlassian-labs/compiled/pull/1693,2024-07-15T06:46:33Z,2024-07-16T01:24:42Z,3,19,CLOSED
+compiled,Update documentation for all `@compiled/` packages,https://github.com/atlassian-labs/compiled/pull/1689,2024-07-15T05:32:30Z,2024-07-17T04:06:13Z,9,7,MERGED
+compiled,Update most of Compiled documentation to reflect current recommendations,https://github.com/atlassian-labs/compiled/pull/1688,2024-07-12T01:34:06Z,2024-07-12T03:31:48Z,5,6,MERGED
+compiled,Document @emotion/core types not working with Compiled,https://github.com/atlassian-labs/compiled/pull/1687,2024-07-11T01:24:04Z,2024-07-11T04:53:06Z,5,1,MERGED
+compiled,[Snyk] Upgrade jscodeshift from 0.15.2 to 0.16.0,https://github.com/atlassian-labs/compiled/pull/1686,2024-07-10T04:31:21Z,2024-07-10T06:32:49Z,3,2,MERGED
+compiled,Minor fixes to Netlify configuration,https://github.com/atlassian-labs/compiled/pull/1685,2024-07-09T01:27:48Z,2024-07-09T01:39:39Z,2,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1681,2024-06-07T00:09:25Z,2024-06-07T06:45:37Z,0,1,MERGED
+compiled,"Add `babelrc: false` to all Babel calls, and set `parserBabelPlugins` to `typescript` and `jsx` by default",https://github.com/atlassian-labs/compiled/pull/1680,2024-06-03T04:45:01Z,2024-06-07T00:08:00Z,4,5,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1679,2024-06-03T00:17:17Z,2024-06-03T00:24:07Z,0,1,MERGED
+compiled,Add `ElementType` to the global compiled JSX namespace,https://github.com/atlassian-labs/compiled/pull/1678,2024-06-03T00:06:31Z,2024-06-03T00:15:51Z,1,2,MERGED
+compiled,Update the website to document the end-to-end lifecycle of Compiled,https://github.com/atlassian-labs/compiled/pull/1738,2024-10-30T07:05:26Z,2024-10-30T23:09:51Z,8,4,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1737,2024-10-25T06:59:08Z,2024-10-25T07:05:56Z,1,1,MERGED
+compiled,Add `shorthand-property-sorting` to recommended ESLint rules,https://github.com/atlassian-labs/compiled/pull/1736,2024-10-25T04:01:39Z,2024-10-25T06:57:44Z,7,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1735,2024-10-24T07:20:47Z,2024-10-24T07:24:55Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1734,2024-10-24T02:27:12Z,2024-10-24T02:33:19Z,1,1,MERGED
+compiled,Make yarn installs immutable,https://github.com/atlassian-labs/compiled/pull/1733,2024-10-23T20:45:07Z,2024-10-23T20:57:40Z,4,2,CLOSED
+compiled,Sort shorthand across multi-properties,https://github.com/atlassian-labs/compiled/pull/1732,2024-10-23T20:37:20Z,2024-10-24T02:25:47Z,8,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1731,2024-10-23T06:03:05Z,2024-10-23T06:39:33Z,1,1,MERGED
+compiled,Fix shorthand sorting buggy,https://github.com/atlassian-labs/compiled/pull/1730,2024-10-22T05:14:24Z,2024-10-23T06:01:44Z,12,6,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1728,2024-10-18T02:50:42Z,2024-10-18T02:54:49Z,1,1,MERGED
+compiled,Add flat config preset for compiled & fix docs,https://github.com/atlassian-labs/compiled/pull/1727,2024-10-16T16:10:20Z,2024-10-24T07:19:26Z,6,8,MERGED
+compiled,chore: added Zara as reviewer,https://github.com/atlassian-labs/compiled/pull/1726,2024-10-16T05:44:36Z,2024-10-16T23:31:20Z,3,1,MERGED
+compiled,Update stylesheet extraction docs,https://github.com/atlassian-labs/compiled/pull/1725,2024-10-15T04:12:08Z,2024-10-15T05:29:06Z,9,4,MERGED
+compiled,Throw an error when mixing `extract: true` and `classHashPrefix` configuration options to avoid unsupported usage and bundle size bloat.,https://github.com/atlassian-labs/compiled/pull/1724,2024-10-15T00:16:16Z,2024-10-18T02:49:17Z,8,10,MERGED
+compiled,"Another one, remove old codemod docs references",https://github.com/atlassian-labs/compiled/pull/1723,2024-10-14T05:01:25Z,2024-10-24T06:11:05Z,2,2,MERGED
+compiled,Update pkg-codemods.mdx,https://github.com/atlassian-labs/compiled/pull/1722,2024-10-14T04:58:41Z,2024-10-24T06:47:42Z,2,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1721,2024-10-11T00:50:41Z,2024-10-14T04:43:20Z,1,1,MERGED
+compiled,Make support for `@atlaskit/css` as a first-class import consistently default.,https://github.com/atlassian-labs/compiled/pull/1720,2024-10-11T00:25:11Z,2024-10-11T06:13:36Z,5,5,MERGED
+compiled,Remove legacy links to CodeshiftCommunity,https://github.com/atlassian-labs/compiled/pull/1719,2024-10-11T00:07:09Z,2024-10-11T00:55:02Z,3,2,MERGED
+compiled,Fixup documentation briefly for `sortShorthand`,https://github.com/atlassian-labs/compiled/pull/1718,2024-10-10T22:12:55Z,2024-10-11T04:13:16Z,5,2,MERGED
+compiled,Add the option to provide a prefix to generated class names ,https://github.com/atlassian-labs/compiled/pull/1717,2024-10-09T03:25:48Z,2024-10-14T03:56:19Z,12,14,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1716,2024-10-01T05:00:56Z,2024-10-01T05:10:38Z,1,1,MERGED
+compiled,Protect `@compiled/react/runtime/style-cache` better in browser distributions.,https://github.com/atlassian-labs/compiled/pull/1715,2024-10-01T03:11:13Z,2024-10-01T04:59:33Z,4,2,MERGED
+compiled,AFB-777 create eslint to enforce shorthand sorting,https://github.com/atlassian-labs/compiled/pull/1714,2024-09-30T03:38:54Z,2024-10-11T00:49:16Z,34,10,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1713,2024-09-30T00:55:14Z,2024-09-30T01:07:58Z,1,1,MERGED
+compiled,See whether Parcel stylesheet extraction works with XCSS,https://github.com/atlassian-labs/compiled/pull/1712,2024-09-27T06:32:41Z,2024-10-11T00:11:16Z,3,1,CLOSED
+compiled,pin path-to-regexp in examples,https://github.com/atlassian-labs/compiled/pull/1711,2024-09-24T02:12:25Z,2024-09-24T04:33:41Z,2,1,MERGED
+compiled,[Snyk] Security upgrade express from 4.19.2 to 4.20.0,https://github.com/atlassian-labs/compiled/pull/1710,2024-09-18T06:33:53Z,2024-09-24T01:29:10Z,2,1,MERGED
+compiled,[Snyk] Security upgrade express from 4.19.2 to 4.21.0,https://github.com/atlassian-labs/compiled/pull/1709,2024-09-12T06:36:31Z,2024-12-09T00:54:12Z,2,5,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1708,2024-09-12T06:06:52Z,2024-09-12T06:17:39Z,1,1,MERGED
+compiled,Allow an import of `jsx` from our internal `@atlaskit/css` package for babel plugin pragma resolutions.,https://github.com/atlassian-labs/compiled/pull/1707,2024-09-11T06:56:41Z,2024-09-12T06:05:26Z,3,3,MERGED
+compiled,Update `@compiled/jsx-pragma` to properly support `importSources` ,https://github.com/atlassian-labs/compiled/pull/1706,2024-09-10T07:43:47Z,2024-09-11T02:25:21Z,6,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1704,2024-09-03T02:00:49Z,2024-09-11T02:37:54Z,1,1,MERGED
+compiled,[Snyk] Security upgrade webpack from 5.76.1 to 5.94.0,https://github.com/atlassian-labs/compiled/pull/1703,2024-08-28T05:47:16Z,2024-09-03T01:59:24Z,4,7,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1778,2024-12-31T05:55:19Z,2025-01-02T23:53:37Z,1,1,MERGED
+compiled,Throw an error when compiling a `cssMap` object where we expect a `css` or nested `cssMap` object.,https://github.com/atlassian-labs/compiled/pull/1774,2024-12-23T03:39:45Z,2024-12-31T04:07:39Z,3,2,MERGED
+compiled,Fix `@compiled/babel-plugin` to not silently skip `cssMap()` extraction in a few common edge-cases.,https://github.com/atlassian-labs/compiled/pull/1773,2024-12-23T03:12:08Z,2024-12-31T05:53:59Z,7,3,MERGED
+compiled,build: update packages to use more modern moduleresolution options,https://github.com/atlassian-labs/compiled/pull/1770,2024-12-19T22:58:32Z,2025-01-08T04:07:21Z,2,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1769,2024-12-19T01:03:45Z,2024-12-19T02:31:43Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1768,2024-12-18T22:27:55Z,2024-12-18T22:36:57Z,1,1,MERGED
+compiled,Fix broken css prop ternaries when referencing `cssMap` objects.,https://github.com/atlassian-labs/compiled/pull/1767,2024-12-17T09:52:03Z,2024-12-18T22:26:32Z,4,3,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1766,2024-12-16T23:24:33Z,2024-12-17T03:52:34Z,1,1,MERGED
+compiled,Fix shorthand-property-sorting crashing when styles not initialised,https://github.com/atlassian-labs/compiled/pull/1765,2024-12-16T22:59:30Z,2024-12-16T23:23:10Z,3,3,MERGED
+compiled,feat(eslint-plugin): add support for eslint v9 ,https://github.com/atlassian-labs/compiled/pull/1760,2024-12-13T23:25:29Z,2024-12-19T01:01:55Z,10,8,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1757,2024-12-11T22:49:51Z,2024-12-11T22:55:11Z,1,1,MERGED
+compiled,Fix border-inline-start and border-inline-end not having any valid ordering,https://github.com/atlassian-labs/compiled/pull/1756,2024-12-11T05:25:40Z,2024-12-11T22:48:26Z,3,2,MERGED
+compiled,Extend shorthand-property-sorting ESLint rule to handle style composition,https://github.com/atlassian-labs/compiled/pull/1749,2024-12-02T06:58:48Z,2024-12-09T00:36:57Z,7,6,MERGED
+compiled,Export KeyframeSteps from main entrypoint,https://github.com/atlassian-labs/compiled/pull/1748,2024-11-29T04:36:36Z,2024-12-02T04:19:32Z,3,1,CLOSED
+compiled,Add note for webpack v4 with mini-css-extract-plugin,https://github.com/atlassian-labs/compiled/pull/1743,2024-11-07T04:47:35Z,2024-12-19T00:57:05Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1742,2024-11-06T00:21:03Z,2024-12-10T04:30:55Z,1,1,MERGED
+compiled,new eslint rule to expand border shorthand property,https://github.com/atlassian-labs/compiled/pull/1741,2024-11-05T03:23:35Z,2024-11-05T05:57:37Z,4,2,CLOSED
+compiled,Default `sortShorthand` to true (in extraction) to reduce configuration required.,https://github.com/atlassian-labs/compiled/pull/1740,2024-11-04T23:06:25Z,2024-11-06T00:19:44Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1807,2025-02-24T04:18:00Z,2025-02-24T23:20:20Z,1,1,MERGED
+compiled,Properly handle more flex keywords in shorthand extraction.,https://github.com/atlassian-labs/compiled/pull/1806,2025-02-24T03:27:24Z,2025-02-24T04:16:39Z,2,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1804,2025-02-18T04:41:51Z,2025-02-18T04:45:44Z,1,1,MERGED
+compiled,Improve the types to the `keyframes()` function to handle CSS variables.,https://github.com/atlassian-labs/compiled/pull/1803,2025-02-18T04:23:08Z,2025-02-18T04:40:31Z,2,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1802,2025-02-17T04:07:08Z,2025-02-17T04:11:00Z,1,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1800,2025-02-13T23:02:25Z,2025-02-13T23:31:31Z,1,1,MERGED
+compiled,Document new limitation from #1794,https://github.com/atlassian-labs/compiled/pull/1799,2025-02-13T03:15:52Z,2025-02-13T03:19:58Z,3,1,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1798,2025-02-13T03:03:49Z,2025-02-13T03:26:57Z,1,1,MERGED
+compiled,Fix height usages causing crash in non-media query,https://github.com/atlassian-labs/compiled/pull/1797,2025-02-13T02:40:04Z,2025-02-13T03:02:27Z,3,3,MERGED
+compiled,Not generate cache for identifier,https://github.com/atlassian-labs/compiled/pull/1796,2025-02-13T02:06:26Z,2025-02-13T23:01:00Z,5,3,MERGED
+compiled,Error on indirect dynamic styles and attempt to statically concatenate where feasible,https://github.com/atlassian-labs/compiled/pull/1795,2025-02-13T01:00:25Z,2025-02-17T04:05:45Z,7,4,MERGED
+compiled,Bump actions/upload-artifact@v4 following blocking deprecation.,https://github.com/atlassian-labs/compiled/pull/1793,2025-02-03T22:42:04Z,2025-02-03T23:14:42Z,3,2,MERGED
+compiled,Update website limitations from recent fixes and findings,https://github.com/atlassian-labs/compiled/pull/1792,2025-02-03T22:35:11Z,2025-02-03T23:19:15Z,2,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1787,2025-01-28T00:35:22Z,2025-01-28T03:45:03Z,1,1,MERGED
+compiled,feat: add support for @starting-style at-rule,https://github.com/atlassian-labs/compiled/pull/1786,2025-01-23T05:57:41Z,2025-01-28T00:33:55Z,7,10,MERGED
+compiled,Clarify that CLA is not needed for Atlassian employees,https://github.com/atlassian-labs/compiled/pull/1785,2025-01-22T05:37:14Z,2025-01-22T05:41:13Z,2,1,MERGED
+compiled,Add hash to stylesheet extraction docs,https://github.com/atlassian-labs/compiled/pull/1784,2025-01-20T23:24:48Z,2025-01-21T00:09:19Z,5,2,MERGED
+compiled,Version Packages,https://github.com/atlassian-labs/compiled/pull/1782,2025-01-08T02:24:19Z,2025-01-08T04:02:50Z,1,1,MERGED
+compiled,Fix some false positives with ternary operators and cssMap,https://github.com/atlassian-labs/compiled/pull/1781,2025-01-08T01:00:34Z,2025-01-08T02:22:55Z,5,4,MERGED

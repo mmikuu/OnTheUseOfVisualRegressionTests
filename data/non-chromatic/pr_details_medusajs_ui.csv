@@ -1,0 +1,91 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+ui,feat(ui): Calendar and Date Picker,https://github.com/medusajs/ui/pull/19,2023-07-26T22:15:51Z,2023-08-08T10:12:09Z,2,9,MERGED
+ui,"feat(admin-ui): add table, hint, form, and initial work on data table",https://github.com/medusajs/ui/pull/18,2023-07-25T09:29:26Z,2023-08-10T19:53:34Z,1,16,MERGED
+ui,Created Simple Tests For All UI Components,https://github.com/medusajs/ui/pull/17,2023-07-14T14:35:47Z,2023-10-12T13:44:00Z,2,4,CLOSED
+ui,feat(ui): Add more components,https://github.com/medusajs/ui/pull/16,2023-07-12T14:01:39Z,2023-07-12T14:32:47Z,0,9,MERGED
+ui,fix base config,https://github.com/medusajs/ui/pull/15,2023-07-11T15:34:10Z,2023-07-11T15:34:16Z,0,1,MERGED
+ui,chore: publish,https://github.com/medusajs/ui/pull/14,2023-07-11T15:28:46Z,2023-08-11T10:20:04Z,14,190,CLOSED
+ui,initial rollup config,https://github.com/medusajs/ui/pull/13,2023-07-11T15:26:20Z,2023-07-11T15:26:51Z,0,1,MERGED
+ui,chore: Add beta + snapshot release workflows,https://github.com/medusajs/ui/pull/12,2023-07-10T17:03:46Z,2023-07-11T15:27:35Z,0,1,MERGED
+ui,chore: add chromatic,https://github.com/medusajs/ui/pull/11,2023-07-10T16:02:56Z,2023-07-10T16:03:03Z,0,1,MERGED
+ui,feat: apply theme,https://github.com/medusajs/ui/pull/10,2023-07-10T15:50:19Z,2023-07-10T15:50:28Z,0,3,MERGED
+ui,feat: Tailwind plugin and `toolbox tokens` command ,https://github.com/medusajs/ui/pull/9,2023-07-06T15:18:26Z,2023-07-06T15:19:01Z,0,2,MERGED
+ui,Add container component,https://github.com/medusajs/ui/pull/8,2023-07-03T15:48:31Z,2023-07-11T20:02:33Z,1,1,CLOSED
+ui,"feat(ui, toolbox, icons): Icons package",https://github.com/medusajs/ui/pull/7,2023-07-01T20:34:33Z,2023-07-04T07:58:27Z,0,5,MERGED
+ui,"Add radiogroup, missing exports",https://github.com/medusajs/ui/pull/6,2023-06-30T11:40:43Z,2023-07-10T12:34:03Z,6,5,CLOSED
+ui,Adds tooltip and the keyboard-shortcut component,https://github.com/medusajs/ui/pull/5,2023-06-29T14:42:18Z,2023-06-29T15:27:15Z,0,7,MERGED
+ui,chore(ui): Update button variants and add more stories,https://github.com/medusajs/ui/pull/4,2023-06-29T07:46:39Z,2023-06-29T07:49:24Z,0,1,MERGED
+ui,"feat(ui): Add Modal, FocusModal, Header, AlertDialog, Input, useAlertDialog, and useToggleState",https://github.com/medusajs/ui/pull/3,2023-06-27T14:18:58Z,2023-06-28T14:18:12Z,0,6,MERGED
+ui,"feat(ui): Add button, label, and text component",https://github.com/medusajs/ui/pull/2,2023-06-27T12:42:30Z,2023-06-27T12:43:15Z,0,1,MERGED
+ui,chore: add turbo test command,https://github.com/medusajs/ui/pull/1,2023-06-27T10:32:51Z,2023-06-27T10:33:00Z,0,1,MERGED
+ui,only onChange on Apply for range mode,https://github.com/medusajs/ui/pull/99,2023-10-06T13:58:26Z,2023-10-06T14:05:03Z,2,2,MERGED
+ui,chore: update changeset for 2.2.0 release,https://github.com/medusajs/ui/pull/98,2023-10-06T08:04:25Z,2023-10-06T08:04:33Z,0,1,MERGED
+ui,"fix(ui): Only fire onChange when hitting on ""Apply""",https://github.com/medusajs/ui/pull/97,2023-10-05T20:17:51Z,2023-10-06T07:58:32Z,4,4,MERGED
+ui,fix: datepicker single mode onchange not firing,https://github.com/medusajs/ui/pull/96,2023-10-05T19:56:08Z,2023-10-05T20:07:16Z,2,2,MERGED
+ui,chore: Release,https://github.com/medusajs/ui/pull/95,2023-10-05T13:18:08Z,2023-10-12T13:43:52Z,0,38,CLOSED
+ui,"feat(ui, ui-preset, icons): New icons, effects, colors, components and Text API ",https://github.com/medusajs/ui/pull/94,2023-10-03T10:24:52Z,2023-10-05T11:20:00Z,12,17,MERGED
+ui,fix: dropdown menu collision,https://github.com/medusajs/ui/pull/91,2023-09-29T05:12:17Z,2023-10-03T09:34:48Z,0,4,MERGED
+ui,chore: release 2.0.0,https://github.com/medusajs/ui/pull/87,2023-09-27T11:21:21Z,2023-09-27T12:44:47Z,1,44,MERGED
+ui,fix: cleanup z-index of components,https://github.com/medusajs/ui/pull/86,2023-09-25T13:54:33Z,2023-09-26T12:40:54Z,8,4,MERGED
+ui,fix(DatePicker): add type=button to days,https://github.com/medusajs/ui/pull/85,2023-09-22T08:14:26Z,2023-09-22T13:52:51Z,2,1,CLOSED
+ui,chore: codeowners,https://github.com/medusajs/ui/pull/83,2023-09-13T14:20:42Z,2023-09-13T14:27:25Z,0,6,MERGED
+ui,"feat(ui,icons,ui-preset): Add new components, icons, and preset styles.",https://github.com/medusajs/ui/pull/82,2023-09-11T06:12:49Z,2023-09-27T11:20:51Z,16,27,MERGED
+ui,docs: Add card linking to Figma file in Introduction,https://github.com/medusajs/ui/pull/79,2023-08-21T15:40:05Z,2023-09-13T14:27:51Z,0,4,CLOSED
+ui,"chore: add licenses, update package.json's and update READMEs",https://github.com/medusajs/ui/pull/78,2023-08-21T09:35:15Z,2023-08-21T10:33:08Z,1,2,MERGED
+ui,fix(ui): z-index on loading state button,https://github.com/medusajs/ui/pull/77,2023-08-21T09:05:20Z,2023-08-22T15:22:55Z,0,2,MERGED
+ui,docs: Remove TriggerIcon from Select Usage code block,https://github.com/medusajs/ui/pull/76,2023-08-18T16:33:43Z,2023-08-21T09:00:49Z,0,1,MERGED
+ui,chore: add changeset,https://github.com/medusajs/ui/pull/74,2023-08-17T13:24:50Z,2023-08-17T13:29:45Z,0,2,MERGED
+ui,Fix/metadata base,https://github.com/medusajs/ui/pull/73,2023-08-17T12:47:30Z,2023-08-17T13:21:09Z,0,6,MERGED
+ui,fix(docs): styled scroll,https://github.com/medusajs/ui/pull/72,2023-08-17T09:51:51Z,2023-08-17T09:56:09Z,1,2,MERGED
+ui,fix: add asChild prop to Copy and set h-fit,https://github.com/medusajs/ui/pull/71,2023-08-17T08:52:21Z,2023-08-17T09:01:09Z,0,2,MERGED
+ui,docs: Add call signature to all hook docs,https://github.com/medusajs/ui/pull/70,2023-08-17T08:45:14Z,2023-08-17T08:53:10Z,0,1,MERGED
+ui,docs: Hooks pages and examples,https://github.com/medusajs/ui/pull/69,2023-08-16T23:12:42Z,2023-08-17T08:06:18Z,0,4,MERGED
+ui,"fix: add basic select, and fix links, plus styles of several components",https://github.com/medusajs/ui/pull/68,2023-08-16T21:35:29Z,2023-08-17T08:57:11Z,0,6,MERGED
+ui,fix(ui): inline sources so Webpack projects won't warn on missing sources,https://github.com/medusajs/ui/pull/67,2023-08-16T17:35:52Z,2023-08-16T21:35:17Z,0,1,MERGED
+ui,docs: Add API Reference blocks to all components,https://github.com/medusajs/ui/pull/66,2023-08-16T16:06:13Z,2023-08-16T16:56:53Z,0,2,MERGED
+ui,fix(ui): Select housekeeping,https://github.com/medusajs/ui/pull/65,2023-08-16T10:48:37Z,2023-08-16T21:35:47Z,4,2,CLOSED
+ui,feat(ui): update dark mode,https://github.com/medusajs/ui/pull/64,2023-08-16T08:43:29Z,2023-08-16T08:48:36Z,0,3,MERGED
+ui,"fix(docs,ui,toolbox): dark mode, and other minor fixes",https://github.com/medusajs/ui/pull/63,2023-08-15T18:49:58Z,2023-08-15T18:55:03Z,0,1,MERGED
+ui,docs: Restructured nav ,https://github.com/medusajs/ui/pull/62,2023-08-15T15:27:01Z,2023-08-15T19:01:07Z,0,2,MERGED
+ui,fix(docs): mobile nav,https://github.com/medusajs/ui/pull/61,2023-08-15T14:50:28Z,2023-08-15T14:56:53Z,0,1,MERGED
+ui,feat(docs): api reference,https://github.com/medusajs/ui/pull/60,2023-08-15T14:22:30Z,2023-08-15T14:33:55Z,0,7,MERGED
+ui,docs: Create colors page,https://github.com/medusajs/ui/pull/59,2023-08-15T11:06:08Z,2023-08-15T12:46:32Z,0,3,MERGED
+ui,feat(docs): Responsive design and Metadata,https://github.com/medusajs/ui/pull/58,2023-08-15T10:42:28Z,2023-08-15T14:04:28Z,0,5,MERGED
+ui,feat(docs): Make /docs baseline to prepare UI docs for integrating with other docs sites,https://github.com/medusajs/ui/pull/57,2023-08-14T23:52:26Z,2023-08-15T10:16:58Z,0,1,MERGED
+ui,"feat(docs, ui): Add more docs entries, add initial mobile navigation",https://github.com/medusajs/ui/pull/56,2023-08-14T23:02:51Z,2023-08-14T23:46:01Z,0,5,MERGED
+ui,docs: Add introduction,https://github.com/medusajs/ui/pull/55,2023-08-14T16:27:40Z,2023-08-14T23:28:07Z,1,8,MERGED
+ui,docs: Add examples for rest of components,https://github.com/medusajs/ui/pull/54,2023-08-14T11:23:52Z,2023-08-14T16:53:52Z,0,3,MERGED
+ui,feat(docs): Add more examples,https://github.com/medusajs/ui/pull/53,2023-08-12T17:10:51Z,2023-08-12T22:02:18Z,0,1,MERGED
+ui,fix(ui): Patch class-variance-authority,https://github.com/medusajs/ui/pull/52,2023-08-11T15:14:47Z,2023-08-11T17:16:52Z,2,2,MERGED
+ui,"docs: Add label examples, fix styling of Commands on standalone install page",https://github.com/medusajs/ui/pull/51,2023-08-11T14:21:29Z,2023-08-11T17:11:08Z,0,2,MERGED
+ui,docs: Fix some spacing and indentation on the standalone installation page,https://github.com/medusajs/ui/pull/50,2023-08-11T11:48:28Z,2023-08-11T11:50:39Z,0,2,CLOSED
+ui,fix(ui): Pass Select.Trigger disabled prop to downshift directly,https://github.com/medusajs/ui/pull/49,2023-08-11T11:30:08Z,2023-08-11T17:15:47Z,0,3,MERGED
+ui,fix: add missing dependency,https://github.com/medusajs/ui/pull/48,2023-08-11T10:36:25Z,2023-08-11T10:36:36Z,0,1,MERGED
+ui,docs: Add Select docs page,https://github.com/medusajs/ui/pull/47,2023-08-11T10:33:55Z,2023-08-11T11:25:31Z,0,3,MERGED
+ui,chore: release,https://github.com/medusajs/ui/pull/46,2023-08-11T10:23:08Z,2023-08-17T13:33:29Z,8,292,MERGED
+ui,feat(docs): Add standalone project section,https://github.com/medusajs/ui/pull/45,2023-08-11T10:19:36Z,2023-08-11T10:20:40Z,0,1,MERGED
+ui,fix(ui): tsconfig for UI package,https://github.com/medusajs/ui/pull/44,2023-08-11T09:14:52Z,2023-08-11T09:15:03Z,0,1,MERGED
+ui,"feat(ui,docs): Make build compatible with app directory",https://github.com/medusajs/ui/pull/43,2023-08-11T06:53:45Z,2023-08-11T08:35:17Z,0,1,MERGED
+ui,"docs: Add button examples, blank select page",https://github.com/medusajs/ui/pull/42,2023-08-10T22:42:48Z,2023-08-11T08:44:18Z,0,3,MERGED
+ui,fix(ui): Exports and Hint,https://github.com/medusajs/ui/pull/41,2023-08-10T20:12:11Z,2023-08-10T20:12:25Z,0,1,MERGED
+ui,fix(ui): z-index on DatePicker,https://github.com/medusajs/ui/pull/40,2023-08-10T19:27:11Z,2023-08-10T19:54:33Z,0,2,MERGED
+ui,chore: merge docs,https://github.com/medusajs/ui/pull/39,2023-08-10T18:37:19Z,2023-08-10T18:52:47Z,0,34,MERGED
+ui,Fix/merge errors,https://github.com/medusajs/ui/pull/38,2023-08-10T18:28:33Z,2023-08-10T18:38:13Z,0,30,CLOSED
+ui,fix: styles post update,https://github.com/medusajs/ui/pull/37,2023-08-10T17:06:32Z,2023-08-10T18:43:00Z,0,2,MERGED
+ui,UI Docs,https://github.com/medusajs/ui/pull/36,2023-08-10T17:01:38Z,2023-08-10T18:38:24Z,0,28,CLOSED
+ui,fix(switch): tokens,https://github.com/medusajs/ui/pull/35,2023-08-10T14:12:11Z,2023-08-10T14:12:23Z,0,1,MERGED
+ui,pull typography from Figma,https://github.com/medusajs/ui/pull/34,2023-08-10T13:34:08Z,2023-08-10T14:11:07Z,0,1,MERGED
+ui,"Add previews and usage for all components, Snippet, other fixes",https://github.com/medusajs/ui/pull/33,2023-08-10T13:26:15Z,2023-08-10T15:00:09Z,0,4,MERGED
+ui,feat(docs): main layout,https://github.com/medusajs/ui/pull/32,2023-08-10T11:27:40Z,2023-08-10T11:27:53Z,0,1,MERGED
+ui,feat: add base styling,https://github.com/medusajs/ui/pull/31,2023-08-10T08:05:02Z,2023-08-10T08:05:12Z,0,1,MERGED
+ui,feat(docs): add nav and pages for each component,https://github.com/medusajs/ui/pull/30,2023-08-09T19:15:32Z,2023-08-09T19:16:30Z,0,4,MERGED
+ui,"Revert ""feat: Docs Navigation""",https://github.com/medusajs/ui/pull/29,2023-08-09T19:14:16Z,2023-08-09T19:14:26Z,0,1,MERGED
+ui,feat: Docs Navigation,https://github.com/medusajs/ui/pull/28,2023-08-09T19:13:53Z,2023-08-09T19:14:01Z,0,8,MERGED
+ui,"feat(docs): Add ComponentExample, some tooling, Button page for demo",https://github.com/medusajs/ui/pull/27,2023-08-09T17:10:00Z,2023-08-09T19:24:42Z,0,4,MERGED
+ui,feat(docs): Add tabs and codeblock components,https://github.com/medusajs/ui/pull/26,2023-08-09T14:52:50Z,2023-08-09T15:37:35Z,0,2,MERGED
+ui,feat: add initial mdx component,https://github.com/medusajs/ui/pull/25,2023-08-09T12:36:15Z,2023-08-09T13:36:27Z,0,3,MERGED
+ui,feat: setup contentlayer,https://github.com/medusajs/ui/pull/24,2023-08-09T09:54:21Z,2023-08-09T09:56:41Z,0,1,MERGED
+ui,chore: vercel pipeline,https://github.com/medusajs/ui/pull/23,2023-08-07T15:31:13Z,2023-08-08T08:18:38Z,1,7,MERGED
+ui,feat(ui): Add codeblock components,https://github.com/medusajs/ui/pull/22,2023-08-07T14:31:51Z,2023-08-08T08:34:48Z,1,9,MERGED
+ui,chore(ui): Add chromatic,https://github.com/medusajs/ui/pull/21,2023-08-04T12:37:06Z,2023-08-08T08:25:54Z,1,5,MERGED
+ui,feat(ui): Select,https://github.com/medusajs/ui/pull/20,2023-08-01T12:06:49Z,2023-08-10T16:49:56Z,7,11,MERGED

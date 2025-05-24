@@ -1,0 +1,422 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+open-archiefbeheer,Docker image ,https://github.com/maykinmedia/open-archiefbeheer/pull/57,2024-05-31T14:58:23Z,2024-06-03T13:27:36Z,0,2,MERGED
+open-archiefbeheer,[#45] Improvements backend,https://github.com/maykinmedia/open-archiefbeheer/pull/55,2024-05-29T13:08:23Z,2024-05-30T08:50:34Z,0,5,MERGED
+open-archiefbeheer,[#45] Destruction list detail view,https://github.com/maykinmedia/open-archiefbeheer/pull/54,2024-05-23T15:29:51Z,2024-06-07T14:11:08Z,8,19,MERGED
+open-archiefbeheer,[#51] Track list status change,https://github.com/maykinmedia/open-archiefbeheer/pull/53,2024-05-23T09:27:21Z,2024-05-23T12:16:29Z,0,2,MERGED
+open-archiefbeheer,[#51] Return 'created' field for the destruction list,https://github.com/maykinmedia/open-archiefbeheer/pull/52,2024-05-23T08:49:05Z,2024-05-23T12:08:51Z,0,1,MERGED
+open-archiefbeheer,[#49] Add user information to destruction list endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/50,2024-05-23T08:34:43Z,2024-05-23T12:05:11Z,0,1,MERGED
+open-archiefbeheer,[#45] Update list endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/48,2024-05-22T09:55:27Z,2024-05-23T15:34:59Z,0,2,MERGED
+open-archiefbeheer,Endpoints destruction list items,https://github.com/maykinmedia/open-archiefbeheer/pull/47,2024-05-21T14:56:58Z,2024-05-23T08:25:54Z,0,6,MERGED
+open-archiefbeheer,:sparkles: Add admin for destruction lists,https://github.com/maykinmedia/open-archiefbeheer/pull/46,2024-05-21T09:36:07Z,2024-05-21T09:38:50Z,0,1,MERGED
+open-archiefbeheer,:sparkles: Show a modal when creating a destructin list allowing the …,https://github.com/maykinmedia/open-archiefbeheer/pull/44,2024-05-17T16:03:23Z,2024-05-22T11:20:23Z,3,2,MERGED
+open-archiefbeheer,[#41] Retrieve zaken with geometry,https://github.com/maykinmedia/open-archiefbeheer/pull/43,2024-05-17T14:09:06Z,2024-05-17T14:41:12Z,0,3,MERGED
+open-archiefbeheer,:sparkles: Allow submitting selection to the create destruction list endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/42,2024-05-17T13:59:50Z,2024-05-17T15:21:10Z,0,2,MERGED
+open-archiefbeheer,:bug: Missing headers for second page,https://github.com/maykinmedia/open-archiefbeheer/pull/40,2024-05-17T12:57:15Z,2024-05-17T13:58:53Z,0,1,MERGED
+open-archiefbeheer,:sparkles: Add multi page selection to destruction list create page,https://github.com/maykinmedia/open-archiefbeheer/pull/39,2024-05-17T12:23:33Z,2024-05-17T12:50:41Z,0,1,MERGED
+open-archiefbeheer,:sparkles: - landing page implementation,https://github.com/maykinmedia/open-archiefbeheer/pull/38,2024-05-17T10:53:22Z,2024-06-03T10:35:41Z,17,6,MERGED
+open-archiefbeheer,[#34] Archiefnominatie can be nullable,https://github.com/maykinmedia/open-archiefbeheer/pull/37,2024-05-17T10:35:23Z,2024-05-17T12:26:33Z,0,2,MERGED
+open-archiefbeheer,:sparkles: Support selecting zaaktype from list in filter in destruct…,https://github.com/maykinmedia/open-archiefbeheer/pull/36,2024-05-17T10:07:41Z,2024-05-17T11:48:35Z,1,1,MERGED
+open-archiefbeheer,:arrow_up: Use npm version of @maykin-ui/admin-ui,https://github.com/maykinmedia/open-archiefbeheer/pull/35,2024-05-17T09:16:06Z,2024-05-17T09:24:41Z,0,1,MERGED
+open-archiefbeheer,[#32] Zaaktypen choices endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/33,2024-05-16T13:47:37Z,2024-05-16T15:32:06Z,0,2,MERGED
+open-archiefbeheer,:sparkles: Add more zaak filters,https://github.com/maykinmedia/open-archiefbeheer/pull/31,2024-05-16T11:38:58Z,2024-05-16T15:17:12Z,2,1,MERGED
+open-archiefbeheer,:bug: Forgot status,https://github.com/maykinmedia/open-archiefbeheer/pull/30,2024-05-16T09:46:19Z,2024-05-16T10:18:16Z,0,1,MERGED
+open-archiefbeheer,[#11] Caching zaken endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/29,2024-05-16T09:21:28Z,2024-05-16T10:29:42Z,0,2,MERGED
+open-archiefbeheer,:sparkles: Allow filtering on zaaktype omschrijving,https://github.com/maykinmedia/open-archiefbeheer/pull/28,2024-05-16T08:24:39Z,2024-05-16T10:16:44Z,1,1,MERGED
+open-archiefbeheer,:wrench: Add frontend/bin/remove_conflicting_devdependencies.sh (fixe…,https://github.com/maykinmedia/open-archiefbeheer/pull/27,2024-05-16T07:37:30Z,2024-05-16T10:18:26Z,0,1,MERGED
+open-archiefbeheer,[#25] Add traits to factory,https://github.com/maykinmedia/open-archiefbeheer/pull/26,2024-05-15T09:27:02Z,2024-05-16T08:25:30Z,0,1,MERGED
+open-archiefbeheer,[#23] Support partial filters,https://github.com/maykinmedia/open-archiefbeheer/pull/24,2024-05-15T08:05:55Z,2024-05-15T10:08:24Z,0,2,MERGED
+open-archiefbeheer,Feature/destruction list create pagination,https://github.com/maykinmedia/open-archiefbeheer/pull/22,2024-05-14T16:05:29Z,2024-05-17T08:25:37Z,0,3,MERGED
+open-archiefbeheer,:construction: Replace paginator,https://github.com/maykinmedia/open-archiefbeheer/pull/21,2024-05-14T12:57:31Z,2024-05-14T13:16:48Z,0,1,MERGED
+open-archiefbeheer,[#15] Return _expand field like Open Zaak,https://github.com/maykinmedia/open-archiefbeheer/pull/20,2024-05-14T12:07:10Z,2024-05-14T12:43:57Z,0,2,MERGED
+open-archiefbeheer,Feature/destruction list create,https://github.com/maykinmedia/open-archiefbeheer/pull/19,2024-05-14T08:45:03Z,2024-05-14T09:52:20Z,0,7,MERGED
+open-archiefbeheer,[#15] Expand zaaktype (including procestype) and resultaat,https://github.com/maykinmedia/open-archiefbeheer/pull/16,2024-05-13T15:55:12Z,2024-05-14T09:52:33Z,0,6,MERGED
+open-archiefbeheer,Configure email notifications,https://github.com/maykinmedia/open-archiefbeheer/pull/14,2024-05-13T10:38:24Z,2024-05-14T09:15:28Z,0,5,MERGED
+open-archiefbeheer,Feature/logout,https://github.com/maykinmedia/open-archiefbeheer/pull/13,2024-05-13T09:08:32Z,2024-05-13T12:50:28Z,0,3,MERGED
+open-archiefbeheer,[#345] Destruction list endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/12,2024-05-08T10:45:13Z,2024-05-14T09:08:22Z,0,2,MERGED
+open-archiefbeheer,Construction,https://github.com/maykinmedia/open-archiefbeheer/pull/10,2024-05-07T13:28:16Z,2024-05-13T08:35:37Z,1,9,MERGED
+open-archiefbeheer,Caching zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/9,2024-05-03T15:00:56Z,2024-05-13T07:49:11Z,0,14,MERGED
+open-archiefbeheer,Add logging,https://github.com/maykinmedia/open-archiefbeheer/pull/7,2024-05-02T15:06:51Z,2024-05-03T13:31:14Z,0,3,MERGED
+open-archiefbeheer,Add endpoint for list creation,https://github.com/maykinmedia/open-archiefbeheer/pull/5,2024-05-01T14:27:51Z,2024-05-03T11:59:43Z,0,7,MERGED
+open-archiefbeheer,Endpoint to retrieve reviewers,https://github.com/maykinmedia/open-archiefbeheer/pull/4,2024-05-01T12:51:37Z,2024-05-02T08:10:05Z,1,4,MERGED
+open-archiefbeheer,Endpoint to retrieve zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/2,2024-05-01T10:44:05Z,2024-05-02T08:49:12Z,1,5,MERGED
+open-archiefbeheer,Authentication endpoints,https://github.com/maykinmedia/open-archiefbeheer/pull/1,2024-04-30T15:28:30Z,2024-05-01T08:26:57Z,0,4,MERGED
+open-archiefbeheer,[#227] Reassign only current reviewer,https://github.com/maykinmedia/open-archiefbeheer/pull/243,2024-07-31T15:03:14Z,2024-08-05T10:50:28Z,2,4,CLOSED
+open-archiefbeheer,[#227] Add endpoint to reassign reviewers,https://github.com/maykinmedia/open-archiefbeheer/pull/242,2024-07-31T12:46:09Z,2024-08-05T10:52:08Z,3,2,CLOSED
+open-archiefbeheer,:lipstick: #227 - fix: fix a bug that prevent the list of short proce…,https://github.com/maykinmedia/open-archiefbeheer/pull/241,2024-07-30T12:05:10Z,2024-08-06T10:12:35Z,4,2,MERGED
+open-archiefbeheer,:lipstick: #227 - style: change to variant of the process review butt…,https://github.com/maykinmedia/open-archiefbeheer/pull/240,2024-07-30T11:00:56Z,2024-08-06T09:51:08Z,1,1,MERGED
+open-archiefbeheer,:bug: #227 - fix: fix a bug that prevent the record manager from reas…,https://github.com/maykinmedia/open-archiefbeheer/pull/239,2024-07-30T10:51:45Z,2024-08-08T13:38:27Z,2,9,MERGED
+open-archiefbeheer,:ambulance: - fix: fix a bug that prevented the record manager from f…,https://github.com/maykinmedia/open-archiefbeheer/pull/226,2024-07-29T16:16:01Z,2024-07-30T07:54:00Z,1,1,MERGED
+open-archiefbeheer,[#181] Update backend to run on port 8000 by default,https://github.com/maykinmedia/open-archiefbeheer/pull/225,2024-07-29T15:07:38Z,2024-07-31T08:43:06Z,1,1,MERGED
+open-archiefbeheer,:arrow_up: - chore: update @maykin-ui/admin-ui,https://github.com/maykinmedia/open-archiefbeheer/pull/224,2024-07-29T09:52:58Z,2024-07-29T10:21:11Z,1,1,MERGED
+open-archiefbeheer,[#85] Notify all assignees of deletion,https://github.com/maykinmedia/open-archiefbeheer/pull/223,2024-07-26T14:33:21Z,2024-07-29T09:25:02Z,2,4,MERGED
+open-archiefbeheer,:sparkles: - feat: allow single reviewer for list with short process,https://github.com/maykinmedia/open-archiefbeheer/pull/222,2024-07-26T12:28:12Z,2024-07-26T13:25:55Z,4,1,MERGED
+open-archiefbeheer,[#93] Retry deletion (backend),https://github.com/maykinmedia/open-archiefbeheer/pull/221,2024-07-26T12:13:01Z,2024-07-26T12:52:09Z,1,8,MERGED
+open-archiefbeheer,":bug: - fix: fix a bug that prevented the ""archiefnominatie"" filter f…",https://github.com/maykinmedia/open-archiefbeheer/pull/218,2024-07-25T15:49:39Z,2024-07-26T10:19:34Z,1,1,MERGED
+open-archiefbeheer,:sparkles: #95 - feat: implement destroy action on the frontend,https://github.com/maykinmedia/open-archiefbeheer/pull/216,2024-07-25T12:55:55Z,2024-07-26T10:23:53Z,5,1,MERGED
+open-archiefbeheer,[#213] Use uv,https://github.com/maykinmedia/open-archiefbeheer/pull/215,2024-07-25T09:55:48Z,2024-07-26T10:25:21Z,3,3,MERGED
+open-archiefbeheer,Upgrade packages,https://github.com/maykinmedia/open-archiefbeheer/pull/214,2024-07-24T14:32:59Z,2024-07-24T14:37:29Z,1,2,MERGED
+open-archiefbeheer,[#211] Filter unused zaaktypes,https://github.com/maykinmedia/open-archiefbeheer/pull/212,2024-07-24T09:53:24Z,2024-07-26T10:17:03Z,2,2,MERGED
+open-archiefbeheer,[#206] Fix not unique zaaktype labels and fix filtering,https://github.com/maykinmedia/open-archiefbeheer/pull/210,2024-07-24T09:02:02Z,2024-07-25T12:21:35Z,2,4,MERGED
+open-archiefbeheer,:art: - fix: tooltip on bottom instead of top,https://github.com/maykinmedia/open-archiefbeheer/pull/207,2024-07-19T15:26:30Z,2024-07-22T08:30:03Z,1,1,MERGED
+open-archiefbeheer,:art: - fix: fixed primary button,https://github.com/maykinmedia/open-archiefbeheer/pull/205,2024-07-19T12:20:29Z,2024-07-22T08:30:46Z,1,1,MERGED
+open-archiefbeheer,:sparkles: - feat: verkorte procedure,https://github.com/maykinmedia/open-archiefbeheer/pull/197,2024-07-18T13:36:57Z,2024-07-26T10:38:31Z,11,6,MERGED
+open-archiefbeheer,Feature/#95 archivist review,https://github.com/maykinmedia/open-archiefbeheer/pull/196,2024-07-16T14:55:00Z,2024-07-22T10:17:14Z,12,12,MERGED
+open-archiefbeheer,[#184] Add playwright tests,https://github.com/maykinmedia/open-archiefbeheer/pull/195,2024-07-15T15:16:17Z,2024-07-23T14:03:43Z,14,10,MERGED
+open-archiefbeheer,Issue/#192,https://github.com/maykinmedia/open-archiefbeheer/pull/194,2024-07-15T10:57:40Z,2024-07-16T13:23:50Z,4,3,MERGED
+open-archiefbeheer,[#190] Fix codecov failing to upload report,https://github.com/maykinmedia/open-archiefbeheer/pull/193,2024-07-15T09:20:19Z,2024-07-15T11:41:05Z,1,1,MERGED
+open-archiefbeheer,:sparkles: - feat: store zaak selection on server,https://github.com/maykinmedia/open-archiefbeheer/pull/191,2024-07-12T16:10:36Z,2024-11-05T08:29:56Z,1,3,CLOSED
+open-archiefbeheer,:construction_worker: - build: generate frontend code coverage reports,https://github.com/maykinmedia/open-archiefbeheer/pull/189,2024-07-12T09:34:00Z,2024-07-15T11:42:23Z,1,3,MERGED
+open-archiefbeheer,Issue/#187 refactor,https://github.com/maykinmedia/open-archiefbeheer/pull/188,2024-07-12T09:22:46Z,2024-07-12T09:45:02Z,0,6,MERGED
+open-archiefbeheer,:sparkles: - feat: permissions test,https://github.com/maykinmedia/open-archiefbeheer/pull/185,2024-07-11T14:24:18Z,2024-07-12T14:00:34Z,4,3,MERGED
+open-archiefbeheer,Upgrade vulnerable packages,https://github.com/maykinmedia/open-archiefbeheer/pull/183,2024-07-11T07:38:48Z,2024-07-12T09:23:55Z,0,2,MERGED
+open-archiefbeheer,Issue/#172,https://github.com/maykinmedia/open-archiefbeheer/pull/179,2024-07-09T15:11:11Z,2024-07-11T14:49:03Z,0,4,MERGED
+open-archiefbeheer,[#173] Add VCR tests,https://github.com/maykinmedia/open-archiefbeheer/pull/178,2024-07-09T14:01:45Z,2024-07-10T07:46:45Z,1,5,MERGED
+open-archiefbeheer,Chore/refactor action,https://github.com/maykinmedia/open-archiefbeheer/pull/176,2024-07-09T09:42:29Z,2024-07-09T12:56:13Z,0,2,MERGED
+open-archiefbeheer,Upgrade more vulnerable packages,https://github.com/maykinmedia/open-archiefbeheer/pull/171,2024-07-08T12:22:59Z,2024-07-08T14:52:52Z,0,1,MERGED
+open-archiefbeheer,:bug: [#169] Let react-router handle routes of single page app,https://github.com/maykinmedia/open-archiefbeheer/pull/170,2024-07-08T12:05:24Z,2024-07-08T13:11:55Z,0,1,MERGED
+open-archiefbeheer,Feature/#88 reassign reviewer,https://github.com/maykinmedia/open-archiefbeheer/pull/168,2024-07-05T16:24:31Z,2024-07-09T09:22:03Z,6,6,MERGED
+open-archiefbeheer,[#165] Implement zaak deletion,https://github.com/maykinmedia/open-archiefbeheer/pull/167,2024-07-05T14:40:21Z,2024-07-25T10:47:14Z,6,12,MERGED
+open-archiefbeheer,:white_check_mark: - test: extend deatruction list detail test,https://github.com/maykinmedia/open-archiefbeheer/pull/164,2024-07-05T11:26:34Z,2024-07-05T12:30:06Z,0,1,MERGED
+open-archiefbeheer,[#161] Validate right archivist permissions,https://github.com/maykinmedia/open-archiefbeheer/pull/163,2024-07-05T10:21:33Z,2024-07-09T09:18:54Z,1,2,MERGED
+open-archiefbeheer,Upgrade vulnerable packages,https://github.com/maykinmedia/open-archiefbeheer/pull/162,2024-07-05T09:53:49Z,2024-07-08T10:55:13Z,0,2,MERGED
+open-archiefbeheer,[#81] Logic for long/short procedure ,https://github.com/maykinmedia/open-archiefbeheer/pull/160,2024-07-04T14:59:45Z,2024-07-09T08:36:43Z,1,4,MERGED
+open-archiefbeheer,[#156] Use json format for updating zaak,https://github.com/maykinmedia/open-archiefbeheer/pull/159,2024-07-04T14:35:19Z,2024-07-08T12:09:29Z,0,1,MERGED
+open-archiefbeheer,[#155] Remove select_for_update ,https://github.com/maykinmedia/open-archiefbeheer/pull/158,2024-07-04T14:02:46Z,2024-07-05T09:28:45Z,0,1,MERGED
+open-archiefbeheer,[#81] Endpoints for archive config,https://github.com/maykinmedia/open-archiefbeheer/pull/157,2024-07-04T13:46:09Z,2024-07-09T08:36:29Z,0,2,MERGED
+open-archiefbeheer,:white_check_mark: - test: improve Storybook (play) tests,https://github.com/maykinmedia/open-archiefbeheer/pull/154,2024-07-04T12:50:00Z,2024-07-05T11:14:15Z,1,2,MERGED
+open-archiefbeheer,:sparkles: - feat: translations,https://github.com/maykinmedia/open-archiefbeheer/pull/153,2024-07-04T11:19:41Z,2024-07-04T11:51:38Z,0,2,MERGED
+open-archiefbeheer,Feature/#80 mutate excluded cases,https://github.com/maykinmedia/open-archiefbeheer/pull/152,2024-07-01T13:50:23Z,2024-07-04T11:49:14Z,0,10,MERGED
+open-archiefbeheer,[#81] Add model to store config for archiving,https://github.com/maykinmedia/open-archiefbeheer/pull/151,2024-06-28T15:23:18Z,2024-07-04T08:36:41Z,0,1,MERGED
+open-archiefbeheer,[#89] Add endpoint to assign archivaris,https://github.com/maykinmedia/open-archiefbeheer/pull/150,2024-06-28T13:49:16Z,2024-07-04T10:36:16Z,1,5,MERGED
+open-archiefbeheer,[#89] Add archivists and endpoint to retrieve them,https://github.com/maykinmedia/open-archiefbeheer/pull/149,2024-06-28T12:20:54Z,2024-07-04T08:36:17Z,0,3,MERGED
+open-archiefbeheer,:wrench: chore: replace remove_conflicting_devdependencies.sh with li…,https://github.com/maykinmedia/open-archiefbeheer/pull/148,2024-06-28T11:34:35Z,2024-07-01T13:55:09Z,0,1,MERGED
+open-archiefbeheer,[#85] Endpoint to start list deletion,https://github.com/maykinmedia/open-archiefbeheer/pull/147,2024-06-27T14:33:08Z,2024-07-04T08:35:44Z,2,3,MERGED
+open-archiefbeheer,[#82] Notify users,https://github.com/maykinmedia/open-archiefbeheer/pull/146,2024-06-26T13:21:22Z,2024-07-04T08:28:28Z,2,5,MERGED
+open-archiefbeheer,[#82] Log when a list is reviewed,https://github.com/maykinmedia/open-archiefbeheer/pull/145,2024-06-25T15:07:56Z,2024-07-04T08:19:31Z,1,2,MERGED
+open-archiefbeheer,[#111] Status update after reassiging first reviewer,https://github.com/maykinmedia/open-archiefbeheer/pull/144,2024-06-25T13:20:33Z,2024-07-01T15:21:25Z,0,2,MERGED
+open-archiefbeheer,[#111] Assign first reviewer after changes are processed,https://github.com/maykinmedia/open-archiefbeheer/pull/143,2024-06-25T12:49:19Z,2024-06-25T13:02:29Z,0,2,MERGED
+open-archiefbeheer,Make read timeout configurable,https://github.com/maykinmedia/open-archiefbeheer/pull/142,2024-06-24T14:32:19Z,2024-06-25T11:09:02Z,0,1,MERGED
+open-archiefbeheer,Feature/#80 permissions,https://github.com/maykinmedia/open-archiefbeheer/pull/141,2024-06-24T12:52:01Z,2024-06-25T11:58:48Z,1,4,MERGED
+open-archiefbeheer,[#127] Process review response,https://github.com/maykinmedia/open-archiefbeheer/pull/139,2024-06-21T14:57:24Z,2024-06-25T12:10:04Z,2,4,MERGED
+open-archiefbeheer,:lipstick: - style: set fixed column sizes,https://github.com/maykinmedia/open-archiefbeheer/pull/138,2024-06-21T14:21:17Z,2024-06-21T14:36:07Z,0,1,MERGED
+open-archiefbeheer,:recycle: fix: fixed error,https://github.com/maykinmedia/open-archiefbeheer/pull/137,2024-06-21T12:45:33Z,2024-06-21T13:45:41Z,1,1,MERGED
+open-archiefbeheer,[#127] Create a response to a review,https://github.com/maykinmedia/open-archiefbeheer/pull/136,2024-06-21T12:43:20Z,2024-06-21T13:47:24Z,0,4,MERGED
+open-archiefbeheer,Issue/various,https://github.com/maykinmedia/open-archiefbeheer/pull/135,2024-06-20T15:26:29Z,2024-06-21T10:01:12Z,4,8,MERGED
+open-archiefbeheer,:sparkles: #120 - feat: implemented comments,https://github.com/maykinmedia/open-archiefbeheer/pull/134,2024-06-20T12:58:40Z,2024-06-21T14:42:29Z,8,4,MERGED
+open-archiefbeheer,[#127] Models for response to reviews and endpoints for retrieving reviews,https://github.com/maykinmedia/open-archiefbeheer/pull/133,2024-06-20T12:40:32Z,2024-06-21T07:59:46Z,0,6,MERGED
+open-archiefbeheer,[#127] Selectielijstklasse choices endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/132,2024-06-19T14:17:44Z,2024-06-21T07:59:31Z,0,3,MERGED
+open-archiefbeheer,Reviewer must also be able to retrieve zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/130,2024-06-18T14:02:24Z,2024-06-18T15:22:50Z,0,2,MERGED
+open-archiefbeheer,Fix problem of not being able to accept a list,https://github.com/maykinmedia/open-archiefbeheer/pull/128,2024-06-18T13:34:55Z,2024-06-18T15:23:19Z,0,2,MERGED
+open-archiefbeheer,Issue/#121 landing to review,https://github.com/maykinmedia/open-archiefbeheer/pull/126,2024-06-18T11:15:45Z,2024-06-18T12:46:55Z,2,4,MERGED
+open-archiefbeheer,:sparkles: #123 - chore: add WhoAmI endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/125,2024-06-18T10:21:50Z,2024-06-18T10:31:44Z,0,2,MERGED
+open-archiefbeheer,Issues/2024 06 18,https://github.com/maykinmedia/open-archiefbeheer/pull/124,2024-06-18T09:57:37Z,2024-06-18T10:34:15Z,0,2,MERGED
+open-archiefbeheer,[#111] Part 1 - Assignement flow,https://github.com/maykinmedia/open-archiefbeheer/pull/118,2024-06-17T14:44:07Z,2024-06-18T12:27:16Z,2,14,MERGED
+open-archiefbeheer,:recycle: #115 - refactor: refactor detail page to address various pe…,https://github.com/maykinmedia/open-archiefbeheer/pull/117,2024-06-17T10:11:04Z,2024-06-17T15:18:15Z,5,2,MERGED
+open-archiefbeheer,[#107] Filter zaken on destruction list,https://github.com/maykinmedia/open-archiefbeheer/pull/116,2024-06-17T09:56:06Z,2024-06-17T11:24:54Z,0,9,MERGED
+open-archiefbeheer,Feature/ordering,https://github.com/maykinmedia/open-archiefbeheer/pull/115,2024-06-14T13:15:03Z,2024-06-17T10:09:21Z,0,2,MERGED
+open-archiefbeheer,Issue/#64 review page,https://github.com/maykinmedia/open-archiefbeheer/pull/114,2024-06-14T11:54:35Z,2024-06-18T07:35:08Z,1,4,MERGED
+open-archiefbeheer,:zap: - bug: fix an issue where too many API calls were made,https://github.com/maykinmedia/open-archiefbeheer/pull/113,2024-06-13T16:10:06Z,2024-06-17T10:00:40Z,0,1,MERGED
+open-archiefbeheer,:recycle: - refactor: semi automatic breadcrumbs,https://github.com/maykinmedia/open-archiefbeheer/pull/112,2024-06-13T15:41:44Z,2024-06-18T07:38:40Z,0,1,MERGED
+open-archiefbeheer,:sparkles: Expose pk of destruction list item,https://github.com/maykinmedia/open-archiefbeheer/pull/110,2024-06-13T14:15:47Z,2024-06-18T12:33:52Z,1,1,CLOSED
+open-archiefbeheer,:sparkles: #104 - feat: show badge as status on destruction list deta…,https://github.com/maykinmedia/open-archiefbeheer/pull/109,2024-06-11T15:35:58Z,2024-06-13T08:30:40Z,0,1,MERGED
+open-archiefbeheer,Feature/#104 destruction list detail improvements,https://github.com/maykinmedia/open-archiefbeheer/pull/108,2024-06-11T12:36:39Z,2024-06-11T15:10:22Z,0,10,MERGED
+open-archiefbeheer,[#63] Behandelend afdeling filter,https://github.com/maykinmedia/open-archiefbeheer/pull/106,2024-06-11T09:15:17Z,2024-06-13T13:00:27Z,2,6,MERGED
+open-archiefbeheer,Feature/#63 date fields,https://github.com/maykinmedia/open-archiefbeheer/pull/105,2024-06-10T13:08:36Z,2024-06-10T15:34:57Z,2,4,MERGED
+open-archiefbeheer,"[#100] Backend for ""Review"" view",https://github.com/maykinmedia/open-archiefbeheer/pull/102,2024-06-07T14:54:31Z,2024-06-13T13:03:58Z,0,5,MERGED
+open-archiefbeheer,🚧 DRAFT: Review Page implemented,https://github.com/maykinmedia/open-archiefbeheer/pull/101,2024-06-07T13:30:58Z,2024-06-11T14:08:46Z,3,1,CLOSED
+open-archiefbeheer,[#75] Add redirect to log in if user not logged in,https://github.com/maykinmedia/open-archiefbeheer/pull/99,2024-06-07T11:14:41Z,2024-06-07T13:24:09Z,0,1,MERGED
+open-archiefbeheer,Issue/#64 review,https://github.com/maykinmedia/open-archiefbeheer/pull/79,2024-06-06T10:28:48Z,2024-06-06T12:49:22Z,0,1,MERGED
+open-archiefbeheer,[#65] Filter destruction list on assignee,https://github.com/maykinmedia/open-archiefbeheer/pull/78,2024-06-06T10:14:49Z,2024-06-06T13:11:29Z,0,2,MERGED
+open-archiefbeheer,[#76] Add uuids to destruction lists,https://github.com/maykinmedia/open-archiefbeheer/pull/77,2024-06-06T09:46:36Z,2024-06-06T13:25:25Z,0,4,MERGED
+open-archiefbeheer,Get test env working,https://github.com/maykinmedia/open-archiefbeheer/pull/74,2024-06-05T14:35:38Z,2024-06-06T13:16:28Z,0,2,MERGED
+open-archiefbeheer,Feature/#63 selectable fields,https://github.com/maykinmedia/open-archiefbeheer/pull/73,2024-06-04T14:43:43Z,2024-06-04T15:16:56Z,0,3,MERGED
+open-archiefbeheer,Build frontend as part of CI,https://github.com/maykinmedia/open-archiefbeheer/pull/72,2024-06-04T12:40:53Z,2024-06-07T13:57:40Z,2,4,MERGED
+open-archiefbeheer,:sparkles: [#69] Support linking to zaken in an external system,https://github.com/maykinmedia/open-archiefbeheer/pull/71,2024-06-04T12:14:34Z,2024-06-06T13:35:25Z,1,2,MERGED
+open-archiefbeheer,Feature/logo,https://github.com/maykinmedia/open-archiefbeheer/pull/70,2024-06-04T11:45:39Z,2024-06-04T15:27:46Z,0,2,MERGED
+open-archiefbeheer,Chore/refactor landing,https://github.com/maykinmedia/open-archiefbeheer/pull/62,2024-06-03T14:25:23Z,2024-06-04T11:40:12Z,1,5,MERGED
+open-archiefbeheer,Issues/2024 06 03,https://github.com/maykinmedia/open-archiefbeheer/pull/61,2024-06-03T14:16:00Z,2024-06-04T10:14:21Z,0,2,MERGED
+open-archiefbeheer,Fix image build,https://github.com/maykinmedia/open-archiefbeheer/pull/60,2024-06-03T13:47:05Z,2024-06-04T12:20:40Z,0,1,CLOSED
+open-archiefbeheer,[#58] Validate double reviewer,https://github.com/maykinmedia/open-archiefbeheer/pull/59,2024-06-03T12:19:49Z,2024-06-03T14:36:47Z,0,2,MERGED
+open-archiefbeheer,:arrow_up: Waitress,https://github.com/maykinmedia/open-archiefbeheer/pull/467,2024-10-31T16:10:41Z,2024-10-31T16:25:54Z,1,1,MERGED
+open-archiefbeheer,Issue/#452 toelighting,https://github.com/maykinmedia/open-archiefbeheer/pull/466,2024-10-31T16:02:24Z,2024-11-07T10:16:53Z,5,12,MERGED
+open-archiefbeheer,[#448] Backend for assigning co-reviewers,https://github.com/maykinmedia/open-archiefbeheer/pull/464,2024-10-30T10:36:48Z,2024-11-05T12:59:13Z,1,19,MERGED
+open-archiefbeheer,:arrow_up: Update js dependencies,https://github.com/maykinmedia/open-archiefbeheer/pull/463,2024-10-29T09:06:21Z,2024-10-29T09:24:58Z,1,1,MERGED
+open-archiefbeheer,Issue/#459 reassigning,https://github.com/maykinmedia/open-archiefbeheer/pull/462,2024-10-25T16:18:42Z,2024-10-29T10:06:03Z,1,6,MERGED
+open-archiefbeheer,:sparkles: - feat: implemented dialog at checkbox,https://github.com/maykinmedia/open-archiefbeheer/pull/460,2024-10-25T13:16:31Z,2024-10-28T14:06:30Z,1,4,MERGED
+open-archiefbeheer,:sparkles: #453 - relax permission model so that all record managers …,https://github.com/maykinmedia/open-archiefbeheer/pull/457,2024-10-22T15:21:24Z,2024-10-25T12:12:10Z,2,2,MERGED
+open-archiefbeheer,Feature/#445 dutch translations,https://github.com/maykinmedia/open-archiefbeheer/pull/456,2024-10-22T13:49:31Z,2024-10-25T12:43:50Z,3,3,MERGED
+open-archiefbeheer,Hotfix/process review,https://github.com/maykinmedia/open-archiefbeheer/pull/442,2024-10-21T16:44:08Z,2024-10-22T09:51:50Z,1,2,MERGED
+open-archiefbeheer,[#396] Implement zaak selection API,https://github.com/maykinmedia/open-archiefbeheer/pull/440,2024-10-18T13:22:42Z,2024-11-07T16:20:02Z,7,31,MERGED
+open-archiefbeheer,:fix: - fix: fixed the 400 error,https://github.com/maykinmedia/open-archiefbeheer/pull/438,2024-10-17T15:27:58Z,2024-10-18T08:46:25Z,1,1,MERGED
+open-archiefbeheer,[#422] Make the Django session length and the OIDC session check configurable,https://github.com/maykinmedia/open-archiefbeheer/pull/437,2024-10-17T14:37:34Z,2024-10-18T08:24:13Z,1,1,MERGED
+open-archiefbeheer,[#422] Add config to sync Django and Keycloak session timeout,https://github.com/maykinmedia/open-archiefbeheer/pull/436,2024-10-17T12:32:19Z,2024-10-17T14:25:20Z,1,2,CLOSED
+open-archiefbeheer,[#434] Fix webkit tests,https://github.com/maykinmedia/open-archiefbeheer/pull/435,2024-10-17T10:56:38Z,2024-10-17T13:20:47Z,1,1,MERGED
+open-archiefbeheer,[#397] Add admin and selectielijstklasse,https://github.com/maykinmedia/open-archiefbeheer/pull/433,2024-10-17T10:21:25Z,2024-10-21T10:34:40Z,1,4,MERGED
+open-archiefbeheer,[#419] Broken email admin page,https://github.com/maykinmedia/open-archiefbeheer/pull/432,2024-10-16T12:28:12Z,2024-10-17T08:07:08Z,1,2,MERGED
+open-archiefbeheer,[#397] Delete local metadata,https://github.com/maykinmedia/open-archiefbeheer/pull/431,2024-10-16T11:32:14Z,2024-10-25T10:37:05Z,2,3,MERGED
+open-archiefbeheer,:arrow_up: npm audit fix,https://github.com/maykinmedia/open-archiefbeheer/pull/430,2024-10-16T09:18:45Z,2024-10-16T09:28:10Z,1,1,MERGED
+open-archiefbeheer,Issue/edit refactor,https://github.com/maykinmedia/open-archiefbeheer/pull/428,2024-10-15T12:06:04Z,2024-10-21T14:03:06Z,4,8,MERGED
+open-archiefbeheer,[#397] Create zaak with destruction report,https://github.com/maykinmedia/open-archiefbeheer/pull/426,2024-10-15T09:51:56Z,2024-10-17T08:09:10Z,2,3,MERGED
+open-archiefbeheer,Feat/UI improvements,https://github.com/maykinmedia/open-archiefbeheer/pull/425,2024-10-14T16:09:30Z,2024-10-15T11:51:15Z,2,3,MERGED
+open-archiefbeheer,:arrow_up: [#423] Upgrade playwright,https://github.com/maykinmedia/open-archiefbeheer/pull/424,2024-10-14T14:52:46Z,2024-10-14T15:08:34Z,1,1,MERGED
+open-archiefbeheer,:bug: - fix: turn off broken sorting in edit page and fix bug causing…,https://github.com/maykinmedia/open-archiefbeheer/pull/421,2024-10-14T12:25:53Z,2024-10-14T15:23:22Z,1,1,MERGED
+open-archiefbeheer,:bug: #393 - fix: prevent API calls from being made when selecting za…,https://github.com/maykinmedia/open-archiefbeheer/pull/418,2024-10-11T13:21:22Z,2024-10-11T14:29:09Z,1,4,MERGED
+open-archiefbeheer,:bug: - fix: fixed the label for archiefactiedatum,https://github.com/maykinmedia/open-archiefbeheer/pull/415,2024-10-10T11:23:16Z,2024-10-11T15:11:39Z,1,1,MERGED
+open-archiefbeheer,:sparkles: #392 - populate date range filter based on url,https://github.com/maykinmedia/open-archiefbeheer/pull/413,2024-10-10T09:24:07Z,2024-10-11T12:23:16Z,1,5,MERGED
+open-archiefbeheer,[#397] Generate file after deletion,https://github.com/maykinmedia/open-archiefbeheer/pull/412,2024-10-09T15:21:49Z,2024-10-15T12:56:29Z,2,6,MERGED
+open-archiefbeheer,[#397] Save zaak metadata before deletion,https://github.com/maykinmedia/open-archiefbeheer/pull/411,2024-10-09T10:01:52Z,2024-10-11T10:26:32Z,2,2,MERGED
+open-archiefbeheer,Chore: upgrade packages,https://github.com/maykinmedia/open-archiefbeheer/pull/410,2024-10-09T08:48:44Z,2024-10-09T09:07:43Z,1,2,MERGED
+open-archiefbeheer,:bug: - fix: fixed the date input depending on selectielijstklasse,https://github.com/maykinmedia/open-archiefbeheer/pull/409,2024-10-08T14:44:10Z,2024-10-21T14:02:42Z,7,9,MERGED
+open-archiefbeheer,[#397] Configuration for creating new zaak,https://github.com/maykinmedia/open-archiefbeheer/pull/408,2024-10-08T14:35:09Z,2024-10-11T09:55:49Z,1,3,MERGED
+open-archiefbeheer,:bug: - fix: fixed the date input depending on selectielijstklasse,https://github.com/maykinmedia/open-archiefbeheer/pull/407,2024-10-08T11:00:49Z,2024-10-08T14:43:45Z,1,1,CLOSED
+open-archiefbeheer,[#393] Add ordering to zaken endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/406,2024-10-08T11:00:37Z,2024-10-11T09:49:37Z,1,1,MERGED
+open-archiefbeheer,:bug: - fix: fixed the button being available for archivaris,https://github.com/maykinmedia/open-archiefbeheer/pull/405,2024-10-04T11:24:36Z,2024-10-15T15:13:49Z,1,3,MERGED
+open-archiefbeheer,[#390] Add OIDC,https://github.com/maykinmedia/open-archiefbeheer/pull/403,2024-10-02T15:16:07Z,2024-10-11T11:56:36Z,5,20,MERGED
+open-archiefbeheer,:arrow_up: npm audit fix,https://github.com/maykinmedia/open-archiefbeheer/pull/401,2024-10-01T13:40:34Z,2024-10-01T15:13:46Z,1,1,MERGED
+open-archiefbeheer,[#390] Refactor backend to use Django permissions,https://github.com/maykinmedia/open-archiefbeheer/pull/400,2024-10-01T13:14:16Z,2024-10-03T10:23:15Z,1,7,MERGED
+open-archiefbeheer,:recycle: - refactor: migrate detail process review to BaseListView,https://github.com/maykinmedia/open-archiefbeheer/pull/399,2024-10-01T13:11:52Z,2024-10-03T09:20:43Z,1,5,MERGED
+open-archiefbeheer,:recycle: - refactor: refactor detail view to use hook for secondary …,https://github.com/maykinmedia/open-archiefbeheer/pull/391,2024-09-30T10:19:58Z,2024-10-01T13:10:16Z,2,5,MERGED
+open-archiefbeheer,"[#386] Checks for selectielijstklasse waardering ""blijvend bewaren"" [Backend]",https://github.com/maykinmedia/open-archiefbeheer/pull/389,2024-09-27T12:07:13Z,2024-10-01T13:22:11Z,1,4,MERGED
+open-archiefbeheer,[#380] Fix selectielijst not being filled,https://github.com/maykinmedia/open-archiefbeheer/pull/388,2024-09-25T11:49:27Z,2024-09-26T08:49:57Z,2,2,MERGED
+open-archiefbeheer,Issue/#94 wachtperiodes,https://github.com/maykinmedia/open-archiefbeheer/pull/385,2024-09-24T10:53:59Z,2024-09-27T13:31:29Z,20,4,MERGED
+open-archiefbeheer,[#383] Fix _zaak_url not populated,https://github.com/maykinmedia/open-archiefbeheer/pull/384,2024-09-24T10:37:41Z,2024-09-26T09:51:57Z,1,2,MERGED
+open-archiefbeheer,[#377] Fix review responses,https://github.com/maykinmedia/open-archiefbeheer/pull/382,2024-09-23T14:25:00Z,2024-09-26T09:42:59Z,3,7,MERGED
+open-archiefbeheer,[#374] Correct error in API docs,https://github.com/maykinmedia/open-archiefbeheer/pull/381,2024-09-23T08:51:41Z,2024-09-24T09:39:21Z,1,1,MERGED
+open-archiefbeheer,[#378] Prevent crash if reviewItem has zaak = null,https://github.com/maykinmedia/open-archiefbeheer/pull/379,2024-09-20T14:52:11Z,2024-09-26T09:51:42Z,1,4,MERGED
+open-archiefbeheer,[#372] Reviewer doesnt see all zaken when reviewing for the 2nd time,https://github.com/maykinmedia/open-archiefbeheer/pull/375,2024-09-20T12:24:50Z,2024-09-26T08:50:20Z,1,2,MERGED
+open-archiefbeheer,:sparkles: - feat: implemented wachtperiode voor vernietigingsproces,https://github.com/maykinmedia/open-archiefbeheer/pull/371,2024-09-19T14:37:40Z,2024-09-24T10:53:42Z,2,2,CLOSED
+open-archiefbeheer,Update translations,https://github.com/maykinmedia/open-archiefbeheer/pull/370,2024-09-19T13:53:59Z,2024-09-19T14:00:54Z,2,2,MERGED
+open-archiefbeheer,Missing planned_destruction_date field in read endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/369,2024-09-19T12:59:54Z,2024-09-19T13:00:57Z,1,1,MERGED
+open-archiefbeheer,:lipstick: - style: alter the styling of the future archive date vali…,https://github.com/maykinmedia/open-archiefbeheer/pull/368,2024-09-19T12:42:32Z,2024-09-19T13:48:18Z,1,1,MERGED
+open-archiefbeheer,:bug: - fix: fix a bug that cause the application to show the incorre…,https://github.com/maykinmedia/open-archiefbeheer/pull/367,2024-09-19T12:02:37Z,2024-09-19T14:01:09Z,1,1,MERGED
+open-archiefbeheer,Fix build,https://github.com/maykinmedia/open-archiefbeheer/pull/366,2024-09-19T11:28:09Z,2024-09-19T11:33:25Z,1,1,MERGED
+open-archiefbeheer,[#349] Specify which Selectielijst service to use,https://github.com/maykinmedia/open-archiefbeheer/pull/365,2024-09-19T11:16:34Z,2024-09-20T08:10:32Z,1,5,MERGED
+open-archiefbeheer,[#350] Button to resync zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/364,2024-09-18T15:06:13Z,2024-09-19T09:12:16Z,2,5,MERGED
+open-archiefbeheer,[#352] Fix admin role list page,https://github.com/maykinmedia/open-archiefbeheer/pull/361,2024-09-18T08:50:16Z,2024-09-19T08:49:57Z,0,2,MERGED
+open-archiefbeheer,[#351] Fix starting beat scheduler,https://github.com/maykinmedia/open-archiefbeheer/pull/360,2024-09-18T08:38:01Z,2024-09-19T08:49:33Z,1,1,MERGED
+open-archiefbeheer,Refactor/create,https://github.com/maykinmedia/open-archiefbeheer/pull/359,2024-09-17T13:47:18Z,2024-09-19T11:29:41Z,1,12,MERGED
+open-archiefbeheer,[#348] Change zaaktype filter label,https://github.com/maykinmedia/open-archiefbeheer/pull/358,2024-09-17T13:07:10Z,2024-09-19T11:55:23Z,1,5,MERGED
+open-archiefbeheer,:sparkles: - feat: implemented destroy button disabled,https://github.com/maykinmedia/open-archiefbeheer/pull/356,2024-09-17T12:46:59Z,2024-09-19T11:53:57Z,1,1,MERGED
+open-archiefbeheer,Issue/#336 destruction disabled,https://github.com/maykinmedia/open-archiefbeheer/pull/355,2024-09-17T12:40:23Z,2024-09-17T12:46:53Z,0,8,CLOSED
+open-archiefbeheer,Issue/formatting,https://github.com/maykinmedia/open-archiefbeheer/pull/354,2024-09-17T09:44:47Z,2024-09-17T11:36:59Z,1,3,MERGED
+open-archiefbeheer,:arrow_up: Run npm audit fix,https://github.com/maykinmedia/open-archiefbeheer/pull/347,2024-09-16T14:22:36Z,2024-09-16T14:29:10Z,1,1,MERGED
+open-archiefbeheer,Refactor lists,https://github.com/maykinmedia/open-archiefbeheer/pull/346,2024-09-16T13:32:05Z,2024-09-17T09:35:42Z,1,6,MERGED
+open-archiefbeheer,:globe_with_meridians: Fix a translation problem after PR merge,https://github.com/maykinmedia/open-archiefbeheer/pull/344,2024-09-16T09:04:08Z,2024-09-16T09:13:54Z,1,1,MERGED
+open-archiefbeheer,Fix backend translations,https://github.com/maykinmedia/open-archiefbeheer/pull/342,2024-09-13T12:12:59Z,2024-09-13T12:18:02Z,2,3,MERGED
+open-archiefbeheer,[#339] Fix filter,https://github.com/maykinmedia/open-archiefbeheer/pull/340,2024-09-11T14:23:02Z,2024-09-12T09:46:42Z,1,2,MERGED
+open-archiefbeheer,[#94] Add wachtperiode [Backend],https://github.com/maykinmedia/open-archiefbeheer/pull/338,2024-09-11T10:16:52Z,2024-09-16T09:33:11Z,3,6,MERGED
+open-archiefbeheer,[#336] Archiefactiedatum validation [Backend],https://github.com/maykinmedia/open-archiefbeheer/pull/337,2024-09-10T11:08:22Z,2024-09-12T11:39:48Z,2,4,MERGED
+open-archiefbeheer,[#292] E2E test zaaktype filters,https://github.com/maykinmedia/open-archiefbeheer/pull/335,2024-09-09T14:19:23Z,2024-09-12T09:23:47Z,1,5,MERGED
+open-archiefbeheer,:alembic: [#140] Add get_or_create to factory,https://github.com/maykinmedia/open-archiefbeheer/pull/334,2024-09-09T08:22:05Z,2024-09-09T08:27:45Z,1,1,MERGED
+open-archiefbeheer,:recycle: #236 - refactor: refactor review flow,https://github.com/maykinmedia/open-archiefbeheer/pull/332,2024-09-06T11:00:13Z,2024-09-12T11:37:40Z,3,10,MERGED
+open-archiefbeheer,[#318] Archivist requests changes,https://github.com/maykinmedia/open-archiefbeheer/pull/331,2024-09-06T10:19:36Z,2024-09-06T12:35:48Z,1,3,MERGED
+open-archiefbeheer,Issue/selectiezaakklasse,https://github.com/maykinmedia/open-archiefbeheer/pull/330,2024-09-05T14:56:10Z,2024-09-17T08:22:25Z,9,8,MERGED
+open-archiefbeheer,[#328] No zaken on create page,https://github.com/maykinmedia/open-archiefbeheer/pull/329,2024-09-05T11:46:56Z,2024-09-05T12:07:22Z,1,2,MERGED
+open-archiefbeheer,:art: - refactor: translate to dutch,https://github.com/maykinmedia/open-archiefbeheer/pull/327,2024-09-05T10:30:04Z,2024-09-13T09:45:31Z,2,4,MERGED
+open-archiefbeheer,[#317] Remove second reviewer,https://github.com/maykinmedia/open-archiefbeheer/pull/326,2024-09-04T13:04:36Z,2024-09-13T12:35:15Z,2,7,MERGED
+open-archiefbeheer,:arrow_up: cryptography,https://github.com/maykinmedia/open-archiefbeheer/pull/325,2024-09-04T08:11:35Z,2024-09-04T08:16:25Z,1,1,MERGED
+open-archiefbeheer,:sparkles: - feat: ordering,https://github.com/maykinmedia/open-archiefbeheer/pull/324,2024-09-03T14:54:07Z,2024-09-06T12:27:56Z,3,5,MERGED
+open-archiefbeheer,:technologist: Add management command to resync zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/323,2024-09-03T14:24:27Z,2024-09-06T12:32:11Z,1,1,MERGED
+open-archiefbeheer,[#316] Add ordering destruction list,https://github.com/maykinmedia/open-archiefbeheer/pull/321,2024-09-03T13:55:26Z,2024-09-05T10:59:30Z,1,2,MERGED
+open-archiefbeheer,Chore/upgrade packages,https://github.com/maykinmedia/open-archiefbeheer/pull/315,2024-09-03T11:02:49Z,2024-09-03T11:58:48Z,1,2,MERGED
+open-archiefbeheer,:bug: - fix: fixed title,https://github.com/maykinmedia/open-archiefbeheer/pull/314,2024-09-03T10:07:28Z,2024-09-03T10:37:11Z,2,1,MERGED
+open-archiefbeheer,":children_crossing: - style: fix various label, icons and ui related …",https://github.com/maykinmedia/open-archiefbeheer/pull/313,2024-09-02T15:45:21Z,2024-09-03T12:13:08Z,1,5,MERGED
+open-archiefbeheer,:art: - refactor: clean-up api lib with the import,https://github.com/maykinmedia/open-archiefbeheer/pull/312,2024-08-30T10:04:42Z,2024-08-30T11:56:48Z,1,1,MERGED
+open-archiefbeheer,[#309] Make caching zaken more efficient,https://github.com/maykinmedia/open-archiefbeheer/pull/311,2024-08-30T10:00:51Z,2024-09-03T12:02:58Z,2,7,MERGED
+open-archiefbeheer,[#303] Handle empty identificatie also if query params are present,https://github.com/maykinmedia/open-archiefbeheer/pull/307,2024-08-26T12:29:55Z,2024-08-26T12:57:24Z,1,2,MERGED
+open-archiefbeheer,[#229] Show number failed zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/306,2024-08-26T10:46:46Z,2024-09-03T12:43:14Z,4,8,MERGED
+open-archiefbeheer,[#303] Handle empty zaaktype identificatie,https://github.com/maykinmedia/open-archiefbeheer/pull/305,2024-08-26T09:30:50Z,2024-08-26T09:42:40Z,1,2,MERGED
+open-archiefbeheer,:arrow_up: - chore: update @maykin-ui/admin-ui,https://github.com/maykinmedia/open-archiefbeheer/pull/304,2024-08-26T09:25:48Z,2024-08-26T09:59:54Z,1,1,MERGED
+open-archiefbeheer,:sparkles: - feat: comment field,https://github.com/maykinmedia/open-archiefbeheer/pull/301,2024-08-22T14:59:49Z,2024-08-30T12:17:06Z,5,15,MERGED
+open-archiefbeheer,[#296] Avoid breaking items relations to zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/300,2024-08-22T09:25:49Z,2024-09-03T13:33:59Z,3,7,MERGED
+open-archiefbeheer,:ok_hand: - fix: fixed global field selection,https://github.com/maykinmedia/open-archiefbeheer/pull/297,2024-08-21T13:04:25Z,2024-08-22T08:10:05Z,1,1,MERGED
+open-archiefbeheer,[#298] Remove extra query params,https://github.com/maykinmedia/open-archiefbeheer/pull/295,2024-08-21T12:12:24Z,2024-08-22T14:28:50Z,1,3,MERGED
+open-archiefbeheer,:ok_hand: - fix: fixed title,https://github.com/maykinmedia/open-archiefbeheer/pull/294,2024-08-21T10:35:18Z,2024-08-26T10:12:13Z,3,1,MERGED
+open-archiefbeheer,[#289] Select all functionality [backend+frontend],https://github.com/maykinmedia/open-archiefbeheer/pull/293,2024-08-20T14:54:07Z,2024-08-29T12:18:28Z,4,10,MERGED
+open-archiefbeheer,:bug: #290 - fix: fix a bug that could cause the application to show …,https://github.com/maykinmedia/open-archiefbeheer/pull/291,2024-08-20T10:43:52Z,2024-08-20T10:56:27Z,1,1,MERGED
+open-archiefbeheer,Feature/#230 cancel selection,https://github.com/maykinmedia/open-archiefbeheer/pull/288,2024-08-19T11:32:29Z,2024-08-20T15:09:02Z,2,2,CLOSED
+open-archiefbeheer,:sparkles: - feat: add frontend support for select all pages in destr…,https://github.com/maykinmedia/open-archiefbeheer/pull/287,2024-08-16T14:12:58Z,2024-08-29T12:19:20Z,3,3,CLOSED
+open-archiefbeheer,:sparkles: - feat: implemented button to clear selection,https://github.com/maykinmedia/open-archiefbeheer/pull/286,2024-08-16T13:18:29Z,2024-08-19T11:33:04Z,3,2,CLOSED
+open-archiefbeheer,:arrow_up: Upgrade JS packages,https://github.com/maykinmedia/open-archiefbeheer/pull/283,2024-08-16T08:21:33Z,2024-08-16T08:32:42Z,1,1,MERGED
+open-archiefbeheer,:lipstick: - style: alter logo styling in sidebar,https://github.com/maykinmedia/open-archiefbeheer/pull/281,2024-08-15T12:14:43Z,2024-08-15T15:24:10Z,1,2,MERGED
+open-archiefbeheer,[#235] Mark list as ready to review,https://github.com/maykinmedia/open-archiefbeheer/pull/280,2024-08-15T08:25:59Z,2024-08-16T14:56:15Z,4,13,MERGED
+open-archiefbeheer,[#278] Filter destruction list items on zaken,https://github.com/maykinmedia/open-archiefbeheer/pull/279,2024-08-14T10:02:23Z,2024-08-16T15:32:02Z,3,11,MERGED
+open-archiefbeheer,Feature/#276 - visible audit log,https://github.com/maykinmedia/open-archiefbeheer/pull/277,2024-08-13T14:28:27Z,2024-08-15T12:56:51Z,2,4,MERGED
+open-archiefbeheer,:arrow_up: Update vulnerable packages,https://github.com/maykinmedia/open-archiefbeheer/pull/275,2024-08-13T08:06:06Z,2024-08-13T08:12:00Z,1,1,MERGED
+open-archiefbeheer,:bug: - #234 - fix unrelated zaaktypen being shown in select on vario…,https://github.com/maykinmedia/open-archiefbeheer/pull/274,2024-08-12T12:35:24Z,2024-08-26T09:37:14Z,11,10,MERGED
+open-archiefbeheer,:bug: #272 - fix: fix a bug that allowed triggering certain actions m…,https://github.com/maykinmedia/open-archiefbeheer/pull/273,2024-08-12T08:08:07Z,2024-08-13T09:17:45Z,1,1,MERGED
+open-archiefbeheer,[#262] Expand zaak details,https://github.com/maykinmedia/open-archiefbeheer/pull/271,2024-08-09T15:21:31Z,2024-08-15T12:38:11Z,6,11,MERGED
+open-archiefbeheer,:bug: - fix: fix a bug that prevented list create errors from being s…,https://github.com/maykinmedia/open-archiefbeheer/pull/270,2024-08-09T15:10:31Z,2024-08-15T12:56:32Z,1,1,MERGED
+open-archiefbeheer,:sparkles: - feat: login button,https://github.com/maykinmedia/open-archiefbeheer/pull/269,2024-08-09T15:02:38Z,2024-08-15T08:06:52Z,4,7,MERGED
+open-archiefbeheer,[#262] Paginate destruction list item and order on processing status,https://github.com/maykinmedia/open-archiefbeheer/pull/268,2024-08-09T12:19:44Z,2024-08-12T07:59:34Z,1,4,MERGED
+open-archiefbeheer,Issue/show errors,https://github.com/maykinmedia/open-archiefbeheer/pull/267,2024-08-09T11:05:34Z,2024-08-09T13:02:19Z,1,2,MERGED
+open-archiefbeheer,Issue/wip preserve order reviewers,https://github.com/maykinmedia/open-archiefbeheer/pull/266,2024-08-08T16:17:21Z,2024-08-09T09:46:14Z,2,2,CLOSED
+open-archiefbeheer,:bug: - fix: fix incorrect reviewers being shown in detail page toolbar,https://github.com/maykinmedia/open-archiefbeheer/pull/265,2024-08-08T16:15:45Z,2024-08-09T09:47:03Z,3,1,CLOSED
+open-archiefbeheer,[#263] Add ordering of assignees to destruction list endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/264,2024-08-08T14:30:36Z,2024-08-09T09:45:58Z,1,2,MERGED
+open-archiefbeheer,Feature/#253 selctielijst date,https://github.com/maykinmedia/open-archiefbeheer/pull/261,2024-08-08T10:57:41Z,2024-08-08T12:23:18Z,1,3,MERGED
+open-archiefbeheer,[#229] Continue deleting if a case fails,https://github.com/maykinmedia/open-archiefbeheer/pull/260,2024-08-08T10:48:14Z,2024-08-09T12:35:55Z,1,2,MERGED
+open-archiefbeheer,Upgrade packages ,https://github.com/maykinmedia/open-archiefbeheer/pull/259,2024-08-08T08:35:31Z,2024-08-08T08:44:10Z,1,2,MERGED
+open-archiefbeheer,:bug: - fix: fix bug that cause the poller to run accross all pages,https://github.com/maykinmedia/open-archiefbeheer/pull/258,2024-08-06T20:13:01Z,2024-08-08T07:47:46Z,2,1,MERGED
+open-archiefbeheer,:sparkles: #93 - feat: allow restart of destruction process,https://github.com/maykinmedia/open-archiefbeheer/pull/257,2024-08-06T12:40:33Z,2024-08-06T15:14:20Z,1,2,MERGED
+open-archiefbeheer,:zap: #255 - perf: attempt to increase performance of destruction lis…,https://github.com/maykinmedia/open-archiefbeheer/pull/256,2024-08-06T10:31:34Z,2024-08-08T07:30:04Z,1,1,MERGED
+open-archiefbeheer,:sparkles: #237 - feat: auto-update landing page,https://github.com/maykinmedia/open-archiefbeheer/pull/248,2024-08-05T11:58:50Z,2024-08-06T12:20:34Z,1,1,MERGED
+open-archiefbeheer,:art: - fix: changed the date formatting,https://github.com/maykinmedia/open-archiefbeheer/pull/247,2024-08-02T11:00:26Z,2024-08-05T07:56:35Z,1,1,MERGED
+open-archiefbeheer,:sparkles: - feat: fixed form state being remembered,https://github.com/maykinmedia/open-archiefbeheer/pull/246,2024-08-01T14:32:40Z,2024-08-06T15:14:41Z,2,3,MERGED
+open-archiefbeheer,:sparkles: - feat: fixed the action button and modal,https://github.com/maykinmedia/open-archiefbeheer/pull/245,2024-08-01T13:13:55Z,2024-08-01T13:46:03Z,1,1,MERGED
+open-archiefbeheer,:white_check_mark: - test: more integration tests,https://github.com/maykinmedia/open-archiefbeheer/pull/244,2024-08-01T11:20:05Z,2024-08-01T15:04:29Z,1,1,MERGED
+open-archiefbeheer,[#574] Refactor user endpoints,https://github.com/maykinmedia/open-archiefbeheer/pull/578,2024-12-27T11:09:47Z,2025-01-02T09:30:17Z,1,3,MERGED
+open-archiefbeheer,:sparkles: #560 - feat: renaming the name of a destruction list,https://github.com/maykinmedia/open-archiefbeheer/pull/577,2024-12-24T16:03:42Z,2025-01-02T10:15:42Z,2,4,MERGED
+open-archiefbeheer,[#557] Add download endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/576,2024-12-23T16:10:12Z,2025-01-09T13:37:06Z,7,15,MERGED
+open-archiefbeheer,[#570] Add start of destruction time,https://github.com/maykinmedia/open-archiefbeheer/pull/575,2024-12-20T16:16:46Z,2025-01-02T10:21:05Z,1,2,MERGED
+open-archiefbeheer,[#558] Add delete endpoint for lists with status 'new',https://github.com/maykinmedia/open-archiefbeheer/pull/573,2024-12-20T14:16:07Z,2024-12-20T15:03:45Z,1,2,MERGED
+open-archiefbeheer,Feature/#554 filter destruction lists,https://github.com/maykinmedia/open-archiefbeheer/pull/572,2024-12-20T12:50:41Z,2024-12-23T09:20:17Z,4,3,MERGED
+open-archiefbeheer,:bug: #568 - fix: correct count,https://github.com/maykinmedia/open-archiefbeheer/pull/571,2024-12-20T10:52:37Z,2025-01-14T10:10:09Z,5,5,MERGED
+open-archiefbeheer,:sparkles: #561 - feat: filter select options on co reviewer assignme…,https://github.com/maykinmedia/open-archiefbeheer/pull/569,2024-12-19T14:53:52Z,2025-01-02T09:26:20Z,2,4,MERGED
+open-archiefbeheer,:bug: - fix: changed if/else conditions,https://github.com/maykinmedia/open-archiefbeheer/pull/567,2024-12-19T11:13:52Z,2024-12-19T11:25:51Z,1,1,MERGED
+open-archiefbeheer,Feature/#552 destruction list visibility,https://github.com/maykinmedia/open-archiefbeheer/pull/566,2024-12-19T10:37:24Z,2024-12-20T13:18:09Z,4,2,MERGED
+open-archiefbeheer,[#558] Refactor queue destruction endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/564,2024-12-17T15:44:46Z,2024-12-20T14:25:41Z,3,3,MERGED
+open-archiefbeheer,:bug: - fix: typo,https://github.com/maykinmedia/open-archiefbeheer/pull/563,2024-12-17T15:10:20Z,2024-12-18T09:08:55Z,1,1,MERGED
+open-archiefbeheer,:globe_with_meridians: #551 - override Django's standard translation …,https://github.com/maykinmedia/open-archiefbeheer/pull/562,2024-12-17T13:19:18Z,2024-12-17T15:45:22Z,1,1,MERGED
+open-archiefbeheer,:white_check_mark: - test: add test for ZaakSelectionContext,https://github.com/maykinmedia/open-archiefbeheer/pull/550,2024-12-16T14:59:01Z,2024-12-17T13:20:03Z,1,2,MERGED
+open-archiefbeheer,Feature/styling,https://github.com/maykinmedia/open-archiefbeheer/pull/549,2024-12-16T13:01:34Z,2024-12-16T14:45:05Z,1,3,MERGED
+open-archiefbeheer,:white_check_mark: - test: improve coverage for frontend,https://github.com/maykinmedia/open-archiefbeheer/pull/548,2024-12-13T16:06:18Z,2024-12-16T12:07:05Z,1,1,MERGED
+open-archiefbeheer,:art: - added story for auditlogdetails,https://github.com/maykinmedia/open-archiefbeheer/pull/547,2024-12-13T10:41:06Z,2024-12-16T15:26:03Z,2,4,MERGED
+open-archiefbeheer,Feature/frontend coverage,https://github.com/maykinmedia/open-archiefbeheer/pull/546,2024-12-12T15:15:08Z,2024-12-13T13:06:24Z,1,3,MERGED
+open-archiefbeheer,:zap: - perf: attempt to increase performance of DestructionList rela…,https://github.com/maykinmedia/open-archiefbeheer/pull/545,2024-12-12T12:09:10Z,2024-12-16T12:31:24Z,6,1,MERGED
+open-archiefbeheer,:art: - refactor: audit log conditionals improvement,https://github.com/maykinmedia/open-archiefbeheer/pull/543,2024-12-12T10:26:21Z,2024-12-13T12:00:01Z,1,1,MERGED
+open-archiefbeheer,:bug: - fix: fix a bug that could cause the audit log to be inocrrect…,https://github.com/maykinmedia/open-archiefbeheer/pull/542,2024-12-10T16:56:33Z,2024-12-12T13:56:27Z,1,1,MERGED
+open-archiefbeheer,:recycle: - refactor: refactor gherkin.py,https://github.com/maykinmedia/open-archiefbeheer/pull/541,2024-12-10T12:38:59Z,2024-12-10T15:07:46Z,1,1,MERGED
+open-archiefbeheer,[#539] Handle no resultaat on zaak,https://github.com/maykinmedia/open-archiefbeheer/pull/540,2024-12-09T15:02:01Z,2024-12-09T15:52:51Z,2,2,MERGED
+open-archiefbeheer,:arrow_up: - chore: update @maykin-ui/admin-ui (and migrate code acco…,https://github.com/maykinmedia/open-archiefbeheer/pull/538,2024-12-09T14:29:51Z,2024-12-10T14:40:31Z,4,5,MERGED
+open-archiefbeheer,[#496] Performance test script,https://github.com/maykinmedia/open-archiefbeheer/pull/536,2024-12-09T10:38:29Z,2025-01-24T10:12:34Z,3,3,CLOSED
+open-archiefbeheer,Fix dependabot alerts,https://github.com/maykinmedia/open-archiefbeheer/pull/535,2024-12-09T09:41:07Z,2024-12-09T10:07:04Z,1,2,MERGED
+open-archiefbeheer,:sparkles: - feat: implemented the audit log addition,https://github.com/maykinmedia/open-archiefbeheer/pull/533,2024-12-05T16:04:16Z,2024-12-10T15:04:47Z,4,1,MERGED
+open-archiefbeheer,[#521] OIDC through django config,https://github.com/maykinmedia/open-archiefbeheer/pull/532,2024-12-05T13:26:10Z,2024-12-09T09:40:21Z,2,6,MERGED
+open-archiefbeheer,:alembic: Trying to make firefox E2E tests pass more often,https://github.com/maykinmedia/open-archiefbeheer/pull/531,2024-12-05T10:39:38Z,2024-12-05T14:27:17Z,1,2,MERGED
+open-archiefbeheer,:arrow_up: Upgrade ZGW consumers,https://github.com/maykinmedia/open-archiefbeheer/pull/528,2024-12-03T12:02:16Z,2024-12-03T12:54:39Z,1,1,MERGED
+open-archiefbeheer,[#504] Improve destruction report,https://github.com/maykinmedia/open-archiefbeheer/pull/527,2024-11-29T16:46:31Z,2024-12-05T14:37:00Z,1,11,MERGED
+open-archiefbeheer,[#502] Add review process to destruction report,https://github.com/maykinmedia/open-archiefbeheer/pull/526,2024-11-29T15:39:48Z,2024-12-04T09:13:11Z,5,4,MERGED
+open-archiefbeheer,[#502] Make destruction report xlsx file instead of csv,https://github.com/maykinmedia/open-archiefbeheer/pull/525,2024-11-29T13:59:44Z,2024-12-03T15:12:45Z,3,6,MERGED
+open-archiefbeheer,[#458] Add django setup configuration and ZGW steps,https://github.com/maykinmedia/open-archiefbeheer/pull/524,2024-11-28T15:21:47Z,2024-12-05T14:53:36Z,8,7,MERGED
+open-archiefbeheer,Issue/#498 frontend prepopulate,https://github.com/maykinmedia/open-archiefbeheer/pull/523,2024-11-27T13:56:28Z,2024-12-03T19:26:52Z,5,4,MERGED
+open-archiefbeheer,Issue/#498 frontend,https://github.com/maykinmedia/open-archiefbeheer/pull/519,2024-11-26T09:11:36Z,2024-11-27T13:53:31Z,1,2,CLOSED
+open-archiefbeheer,[#499] Add log when making list ready to review,https://github.com/maykinmedia/open-archiefbeheer/pull/518,2024-11-25T16:01:16Z,2024-11-27T10:10:43Z,2,10,MERGED
+open-archiefbeheer,Feature/#501 abort,https://github.com/maykinmedia/open-archiefbeheer/pull/517,2024-11-25T15:52:38Z,2024-12-03T14:06:24Z,5,3,MERGED
+open-archiefbeheer,:wrench: - chore: exclude test files from coverage,https://github.com/maykinmedia/open-archiefbeheer/pull/515,2024-11-22T13:17:58Z,2024-11-25T11:02:55Z,1,2,MERGED
+open-archiefbeheer,[#498] Pre populate selection after processing review response,https://github.com/maykinmedia/open-archiefbeheer/pull/514,2024-11-22T11:38:31Z,2024-11-22T15:57:36Z,2,4,MERGED
+open-archiefbeheer,[#498] Add field to Destruction list item serialiser,https://github.com/maykinmedia/open-archiefbeheer/pull/513,2024-11-21T15:16:26Z,2024-11-22T13:04:32Z,1,5,MERGED
+open-archiefbeheer,:bug: - fix: sorting the zaaktypen,https://github.com/maykinmedia/open-archiefbeheer/pull/512,2024-11-21T12:29:52Z,2024-11-26T10:51:41Z,2,4,MERGED
+open-archiefbeheer,Feature/#497 co review flow,https://github.com/maykinmedia/open-archiefbeheer/pull/511,2024-11-19T17:17:02Z,2024-11-25T13:03:25Z,22,8,MERGED
+open-archiefbeheer,:art: - refactor: change order of default column,https://github.com/maykinmedia/open-archiefbeheer/pull/510,2024-11-19T14:01:34Z,2024-11-21T08:58:07Z,1,1,MERGED
+open-archiefbeheer,:bug: [#508] Fix API schema,https://github.com/maykinmedia/open-archiefbeheer/pull/509,2024-11-19T13:57:48Z,2024-11-19T14:13:19Z,1,1,MERGED
+open-archiefbeheer,:ambulance: - fix: use POST body for selection items API call to prve…,https://github.com/maykinmedia/open-archiefbeheer/pull/507,2024-11-19T13:10:27Z,2024-11-19T13:32:45Z,1,1,MERGED
+open-archiefbeheer,Script for translations,https://github.com/maykinmedia/open-archiefbeheer/pull/506,2024-11-19T12:48:25Z,2024-11-19T13:19:11Z,1,2,MERGED
+open-archiefbeheer,[#493] Fix OPTIONS endpoints ,https://github.com/maykinmedia/open-archiefbeheer/pull/505,2024-11-19T11:37:14Z,2024-11-19T13:20:25Z,1,4,MERGED
+open-archiefbeheer,:ambulance: - fix: fix a bug where record manager was unable to acces…,https://github.com/maykinmedia/open-archiefbeheer/pull/494,2024-11-19T09:05:30Z,2024-11-19T13:20:46Z,2,1,MERGED
+open-archiefbeheer,Issue/parallel tests,https://github.com/maykinmedia/open-archiefbeheer/pull/492,2024-11-15T16:41:09Z,2024-11-18T11:52:50Z,1,3,CLOSED
+open-archiefbeheer,:white_check_mark: - test: attempt to make the tests less flaky,https://github.com/maykinmedia/open-archiefbeheer/pull/491,2024-11-15T14:02:42Z,2024-11-15T15:58:35Z,1,2,MERGED
+open-archiefbeheer,:white_check_mark: - test: add coverage reporting for Storybook tests,https://github.com/maykinmedia/open-archiefbeheer/pull/490,2024-11-15T13:01:31Z,2024-11-15T14:29:31Z,2,1,MERGED
+open-archiefbeheer,:wrench: Don't measure coverage of test code,https://github.com/maykinmedia/open-archiefbeheer/pull/489,2024-11-15T12:01:14Z,2024-11-15T13:39:43Z,1,1,MERGED
+open-archiefbeheer,[#416] Handle empty selectielijstklasse,https://github.com/maykinmedia/open-archiefbeheer/pull/488,2024-11-15T10:51:31Z,2024-11-15T13:10:53Z,1,2,MERGED
+open-archiefbeheer,[#427] Fix inconsistent choices api,https://github.com/maykinmedia/open-archiefbeheer/pull/487,2024-11-15T10:10:55Z,2024-11-15T13:25:07Z,2,3,MERGED
+open-archiefbeheer,:art: - refactor: translations and improvementent of audit log text,https://github.com/maykinmedia/open-archiefbeheer/pull/486,2024-11-14T13:42:01Z,2024-11-19T08:01:01Z,15,5,MERGED
+open-archiefbeheer,[#484] Log abort destruction,https://github.com/maykinmedia/open-archiefbeheer/pull/485,2024-11-14T12:15:32Z,2024-11-14T12:53:10Z,1,3,MERGED
+open-archiefbeheer,Feature/#448 co review,https://github.com/maykinmedia/open-archiefbeheer/pull/482,2024-11-12T15:40:21Z,2024-11-15T12:48:53Z,11,12,MERGED
+open-archiefbeheer,[#455] Update docs,https://github.com/maykinmedia/open-archiefbeheer/pull/481,2024-11-12T15:12:42Z,2024-11-12T15:29:42Z,1,3,MERGED
+open-archiefbeheer,[#477] Add unique constraint,https://github.com/maykinmedia/open-archiefbeheer/pull/480,2024-11-12T14:13:18Z,2024-11-15T12:56:52Z,1,1,MERGED
+open-archiefbeheer,Issue/#450 Verkorte Procedure Instellingen,https://github.com/maykinmedia/open-archiefbeheer/pull/479,2024-11-12T11:36:21Z,2024-11-14T12:54:23Z,3,5,MERGED
+open-archiefbeheer,[#465] User representation,https://github.com/maykinmedia/open-archiefbeheer/pull/478,2024-11-11T16:07:53Z,2024-11-14T15:24:35Z,2,6,MERGED
+open-archiefbeheer,Feature/#396 selection api,https://github.com/maykinmedia/open-archiefbeheer/pull/476,2024-11-07T16:22:13Z,2024-11-12T15:38:56Z,9,7,MERGED
+open-archiefbeheer,[#444] Dynamically update zaaktype filters,https://github.com/maykinmedia/open-archiefbeheer/pull/475,2024-11-07T16:14:35Z,2024-11-14T14:50:45Z,2,9,MERGED
+open-archiefbeheer,[#473] Missing traceback for zaak deletion failure,https://github.com/maykinmedia/open-archiefbeheer/pull/474,2024-11-06T15:46:41Z,2024-11-11T09:19:35Z,1,3,MERGED
+open-archiefbeheer,[#471] Fix serialisation of item with `extra_zaak_data != None`,https://github.com/maykinmedia/open-archiefbeheer/pull/472,2024-11-06T13:54:53Z,2024-11-14T13:14:07Z,3,4,MERGED
+open-archiefbeheer,Issue/#461,https://github.com/maykinmedia/open-archiefbeheer/pull/468,2024-11-01T10:55:03Z,2024-11-01T11:11:32Z,1,5,MERGED
+open-archiefbeheer,Issue/#707,https://github.com/maykinmedia/open-archiefbeheer/pull/716,2025-02-24T16:33:59Z,2025-03-04T13:13:24Z,1,16,MERGED
+open-archiefbeheer,[#712] Broken filter not_in_destruction_list_except,https://github.com/maykinmedia/open-archiefbeheer/pull/715,2025-02-24T16:11:54Z,2025-02-25T09:10:11Z,1,2,MERGED
+open-archiefbeheer,Issue/#701,https://github.com/maykinmedia/open-archiefbeheer/pull/713,2025-02-21T15:19:46Z,2025-03-04T14:43:43Z,5,3,MERGED
+open-archiefbeheer,[#706] Behandelend afdeling filters - Backend,https://github.com/maykinmedia/open-archiefbeheer/pull/710,2025-02-20T15:46:27Z,2025-02-24T09:20:24Z,1,4,MERGED
+open-archiefbeheer,[#706] Resutaattype filter - Backend,https://github.com/maykinmedia/open-archiefbeheer/pull/708,2025-02-20T11:24:28Z,2025-02-21T13:07:28Z,1,7,MERGED
+open-archiefbeheer,✨ [#595] - feat: health check,https://github.com/maykinmedia/open-archiefbeheer/pull/705,2025-02-19T14:58:23Z,2025-02-24T12:25:00Z,1,3,MERGED
+open-archiefbeheer,:bug: [#595] Fix missing severity key,https://github.com/maykinmedia/open-archiefbeheer/pull/704,2025-02-19T14:40:45Z,2025-02-19T15:01:20Z,1,1,MERGED
+open-archiefbeheer,Upgrade packages,https://github.com/maykinmedia/open-archiefbeheer/pull/703,2025-02-19T12:33:44Z,2025-02-19T12:45:42Z,1,2,MERGED
+open-archiefbeheer,:lipstick: - style: adjust the theme-color meta properties to improve…,https://github.com/maykinmedia/open-archiefbeheer/pull/702,2025-02-18T16:52:17Z,2025-02-20T09:08:08Z,1,1,MERGED
+open-archiefbeheer,:arrow_up: - chore: update @maykin-ui/admin-ui to 0.0.48,https://github.com/maykinmedia/open-archiefbeheer/pull/700,2025-02-18T16:34:55Z,2025-02-20T10:40:43Z,1,2,MERGED
+open-archiefbeheer,[#697] Dev docker image to disable 2FA in docker compose,https://github.com/maykinmedia/open-archiefbeheer/pull/699,2025-02-17T16:21:33Z,2025-02-19T12:12:24Z,1,3,MERGED
+open-archiefbeheer,[#691] Multiple services configured,https://github.com/maykinmedia/open-archiefbeheer/pull/696,2025-02-17T14:23:51Z,2025-02-20T10:15:50Z,2,2,MERGED
+open-archiefbeheer,[#665] Refactor informatieobjecttype choices endpoint,https://github.com/maykinmedia/open-archiefbeheer/pull/695,2025-02-17T13:13:53Z,2025-02-17T14:58:41Z,1,4,MERGED
+open-archiefbeheer,[#595] Admin checks,https://github.com/maykinmedia/open-archiefbeheer/pull/694,2025-02-14T15:13:44Z,2025-02-18T10:37:22Z,1,3,MERGED
+open-archiefbeheer,:bug: #654 - fix: fix a bug that cause ordering button to be shown on…,https://github.com/maykinmedia/open-archiefbeheer/pull/693,2025-02-13T15:27:26Z,2025-02-14T08:41:50Z,1,1,MERGED
+open-archiefbeheer,[#595] Add backend health checks,https://github.com/maykinmedia/open-archiefbeheer/pull/692,2025-02-13T14:11:18Z,2025-02-18T10:19:14Z,2,5,MERGED
+open-archiefbeheer,[#177] 2fa settings,https://github.com/maykinmedia/open-archiefbeheer/pull/690,2025-02-13T10:55:49Z,2025-02-17T14:52:17Z,2,3,MERGED
+open-archiefbeheer,Issue/#679 vervangen door logging,https://github.com/maykinmedia/open-archiefbeheer/pull/689,2025-02-12T14:40:22Z,2025-02-20T09:21:10Z,3,4,MERGED
+open-archiefbeheer,[#208] Improve docker reload fixture decorator,https://github.com/maykinmedia/open-archiefbeheer/pull/688,2025-02-11T11:19:52Z,2025-02-13T09:22:29Z,1,2,MERGED
+open-archiefbeheer,[#357] Refactor endpoints with search,https://github.com/maykinmedia/open-archiefbeheer/pull/687,2025-02-07T16:01:04Z,2025-02-13T11:00:49Z,5,9,MERGED
+open-archiefbeheer,[#684] Upgrade django config,https://github.com/maykinmedia/open-archiefbeheer/pull/686,2025-02-07T13:27:15Z,2025-02-13T09:22:15Z,1,2,MERGED
+open-archiefbeheer,[#677] Replace selectielijst procestype with selectielijstklasse,https://github.com/maykinmedia/open-archiefbeheer/pull/685,2025-02-06T16:03:27Z,2025-02-11T11:27:11Z,1,4,MERGED
+open-archiefbeheer,:lipstick: - style: apply sticky styling to action in DataGrids,https://github.com/maykinmedia/open-archiefbeheer/pull/683,2025-02-06T15:02:17Z,2025-02-06T15:53:49Z,1,1,MERGED
+open-archiefbeheer,:bug: - fix: english text,https://github.com/maykinmedia/open-archiefbeheer/pull/682,2025-02-06T12:34:27Z,2025-02-06T15:54:11Z,2,2,MERGED
+open-archiefbeheer,[#516] Refactor user checks,https://github.com/maykinmedia/open-archiefbeheer/pull/681,2025-02-06T12:01:24Z,2025-02-11T11:26:56Z,5,5,MERGED
+open-archiefbeheer,Chore/process docs,https://github.com/maykinmedia/open-archiefbeheer/pull/680,2025-02-06T10:10:57Z,2025-02-06T16:10:12Z,5,4,MERGED
+open-archiefbeheer,:bug: - fix: fix session expired code,https://github.com/maykinmedia/open-archiefbeheer/pull/674,2025-02-05T16:03:21Z,2025-02-06T16:12:36Z,1,3,MERGED
+open-archiefbeheer,:truck: Move admin overrides to other folder,https://github.com/maykinmedia/open-archiefbeheer/pull/672,2025-02-04T12:37:59Z,2025-02-04T15:36:33Z,2,1,MERGED
+open-archiefbeheer,:test_tube: #667 - test: add (failing) tests for ordering,https://github.com/maykinmedia/open-archiefbeheer/pull/671,2025-02-03T12:24:36Z,2025-02-04T12:47:19Z,1,2,MERGED
+open-archiefbeheer,[#656] Log deletion failures,https://github.com/maykinmedia/open-archiefbeheer/pull/670,2025-02-03T12:00:53Z,2025-02-04T14:34:33Z,2,3,MERGED
+open-archiefbeheer,DO NOT MERGE - test to check if CI fails on failing Storybook test,https://github.com/maykinmedia/open-archiefbeheer/pull/669,2025-02-03T09:55:14Z,2025-02-03T10:05:26Z,1,1,CLOSED
+open-archiefbeheer,:lipstick: - style: various ui improvements with regard to DataGrid p…,https://github.com/maykinmedia/open-archiefbeheer/pull/668,2025-01-31T17:01:40Z,2025-02-06T13:47:59Z,1,2,MERGED
+open-archiefbeheer,[#663] Record manager can assign co-reviewers to new list,https://github.com/maykinmedia/open-archiefbeheer/pull/664,2025-01-31T10:24:47Z,2025-02-04T12:35:37Z,1,2,MERGED
+open-archiefbeheer,:arrow_up: - chore: update @maykin-ui/admin-ui,https://github.com/maykinmedia/open-archiefbeheer/pull/660,2025-01-30T15:41:15Z,2025-01-30T15:53:34Z,1,1,MERGED
+open-archiefbeheer,:fire: [#658] Remove missing files from templates,https://github.com/maykinmedia/open-archiefbeheer/pull/659,2025-01-30T15:29:52Z,2025-01-30T15:47:07Z,2,2,MERGED
+open-archiefbeheer,:white_check_mark: - test: update stories for the destruction list ed…,https://github.com/maykinmedia/open-archiefbeheer/pull/657,2025-01-30T13:59:23Z,2025-02-06T12:23:14Z,1,1,MERGED
+open-archiefbeheer,:bug: #637 - removed author from selection,https://github.com/maykinmedia/open-archiefbeheer/pull/653,2025-01-29T13:35:06Z,2025-01-30T09:01:36Z,1,1,MERGED
+open-archiefbeheer,:wrench: Make waiting period configurable,https://github.com/maykinmedia/open-archiefbeheer/pull/652,2025-01-28T09:12:49Z,2025-01-28T10:57:24Z,1,2,MERGED
+open-archiefbeheer,:white_check_mark: - test: add a story for the destruction list revie…,https://github.com/maykinmedia/open-archiefbeheer/pull/651,2025-01-27T16:23:24Z,2025-01-30T09:05:41Z,1,6,MERGED
+open-archiefbeheer,:arrow_up: Upgrade django and jinja2,https://github.com/maykinmedia/open-archiefbeheer/pull/650,2025-01-27T15:31:11Z,2025-01-27T15:54:43Z,1,1,MERGED
+open-archiefbeheer,:construction_worker: - chore: remove js/scss build on backend from ci,https://github.com/maykinmedia/open-archiefbeheer/pull/649,2025-01-27T13:01:01Z,2025-01-27T14:58:39Z,1,3,MERGED
+open-archiefbeheer,[#496] Add retry mechanism,https://github.com/maykinmedia/open-archiefbeheer/pull/648,2025-01-27T11:26:43Z,2025-01-27T14:38:36Z,1,4,MERGED
+open-archiefbeheer,[#496] Playwright script for performance,https://github.com/maykinmedia/open-archiefbeheer/pull/646,2025-01-24T10:30:17Z,2025-01-31T09:37:45Z,1,6,MERGED
+open-archiefbeheer,[#644] Increase SESSION_COOKIE_AGE in e2e test,https://github.com/maykinmedia/open-archiefbeheer/pull/645,2025-01-24T09:53:05Z,2025-01-24T10:22:11Z,1,1,MERGED
+open-archiefbeheer,[#638] Improve email body,https://github.com/maykinmedia/open-archiefbeheer/pull/643,2025-01-23T15:50:35Z,2025-01-27T11:20:05Z,4,7,MERGED
+open-archiefbeheer,:sparkles: #635 - feat: method to clear filters,https://github.com/maykinmedia/open-archiefbeheer/pull/642,2025-01-23T14:32:58Z,2025-01-30T14:00:41Z,8,1,MERGED
+open-archiefbeheer,Feature/#636,https://github.com/maykinmedia/open-archiefbeheer/pull/641,2025-01-23T14:32:20Z,2025-01-27T14:54:56Z,1,12,MERGED
+open-archiefbeheer,[#637] Record manager can update coreviewers,https://github.com/maykinmedia/open-archiefbeheer/pull/640,2025-01-23T12:20:42Z,2025-01-27T14:54:39Z,1,4,MERGED
+open-archiefbeheer,:white_check_mark: - test: expanded test,https://github.com/maykinmedia/open-archiefbeheer/pull/639,2025-01-23T11:25:14Z,2025-01-23T12:48:17Z,1,1,MERGED
+open-archiefbeheer,:fire: [maykinmedia/charts#165] Remove unused command line args,https://github.com/maykinmedia/open-archiefbeheer/pull/634,2025-01-22T10:52:42Z,2025-01-22T11:03:58Z,1,1,MERGED
+open-archiefbeheer,Issue/#628 test coverage 2,https://github.com/maykinmedia/open-archiefbeheer/pull/633,2025-01-21T15:56:09Z,2025-01-23T08:57:52Z,5,2,MERGED
+open-archiefbeheer,[#594] Handle missing documents,https://github.com/maykinmedia/open-archiefbeheer/pull/632,2025-01-21T15:16:53Z,2025-01-27T15:21:06Z,1,2,MERGED
+open-archiefbeheer,:arrow_up: - chore: update @maykin-ui/admin-ui,https://github.com/maykinmedia/open-archiefbeheer/pull/631,2025-01-21T15:12:36Z,2025-01-21T15:35:11Z,1,1,MERGED
+open-archiefbeheer,":children_crossing: #629 - style: use ""fill-available-space"" for data…",https://github.com/maykinmedia/open-archiefbeheer/pull/630,2025-01-21T14:48:33Z,2025-01-21T14:59:41Z,1,1,MERGED
+open-archiefbeheer,:recycle: Refactor resync tasks,https://github.com/maykinmedia/open-archiefbeheer/pull/627,2025-01-21T11:57:29Z,2025-01-27T11:19:49Z,3,1,MERGED
+open-archiefbeheer,[#469] Reduce db/HTTP connections,https://github.com/maykinmedia/open-archiefbeheer/pull/626,2025-01-21T11:49:56Z,2025-01-27T09:14:51Z,2,5,MERGED
+open-archiefbeheer,:sparkles: - feat: add badge indicating process review status,https://github.com/maykinmedia/open-archiefbeheer/pull/625,2025-01-21T11:04:51Z,2025-02-06T12:56:42Z,6,4,MERGED
+open-archiefbeheer,[#530] Use extra_data for user in log,https://github.com/maykinmedia/open-archiefbeheer/pull/624,2025-01-20T15:21:43Z,2025-01-21T13:45:18Z,1,2,MERGED
+open-archiefbeheer,[#596] Remove destruction report field from admin view,https://github.com/maykinmedia/open-archiefbeheer/pull/623,2025-01-20T14:10:41Z,2025-01-21T09:07:44Z,1,1,MERGED
+open-archiefbeheer,Chore/coverage5,https://github.com/maykinmedia/open-archiefbeheer/pull/622,2025-01-17T15:29:48Z,2025-01-21T11:20:13Z,0,2,CLOSED
+open-archiefbeheer,[#553] Make resultaattype statustype really optional,https://github.com/maykinmedia/open-archiefbeheer/pull/621,2025-01-17T14:53:57Z,2025-01-17T15:06:09Z,1,2,MERGED
+open-archiefbeheer,:arrow_up: - chore: upgrade codecov/codecov-action,https://github.com/maykinmedia/open-archiefbeheer/pull/620,2025-01-17T13:24:05Z,2025-01-17T15:29:56Z,2,3,CLOSED
+open-archiefbeheer,[#618] Fix archivaris review after re-review,https://github.com/maykinmedia/open-archiefbeheer/pull/619,2025-01-17T12:39:46Z,2025-01-17T13:02:19Z,1,2,MERGED
+open-archiefbeheer,Increase/improve coverage,https://github.com/maykinmedia/open-archiefbeheer/pull/617,2025-01-16T16:19:45Z,2025-01-17T13:31:31Z,3,6,MERGED
+open-archiefbeheer,[#614] Destruction report improvements,https://github.com/maykinmedia/open-archiefbeheer/pull/616,2025-01-16T15:36:42Z,2025-01-17T12:01:14Z,1,6,MERGED
+open-archiefbeheer,WIP - coverage2,https://github.com/maykinmedia/open-archiefbeheer/pull/615,2025-01-16T15:33:49Z,2025-01-16T16:17:07Z,1,1,CLOSED
+open-archiefbeheer,[#353] Make admin error clearer,https://github.com/maykinmedia/open-archiefbeheer/pull/613,2025-01-15T16:00:43Z,2025-01-16T13:49:35Z,1,3,MERGED
+open-archiefbeheer,:art: #600 - changed the error on 403 without session,https://github.com/maykinmedia/open-archiefbeheer/pull/612,2025-01-15T14:48:39Z,2025-01-21T11:42:02Z,4,2,MERGED
+open-archiefbeheer,[#608] Functioneel beheerder manual,https://github.com/maykinmedia/open-archiefbeheer/pull/611,2025-01-14T15:43:48Z,2025-01-27T14:55:19Z,2,1,MERGED
+open-archiefbeheer,:white_check_mark: - test: add tests for review api interface,https://github.com/maykinmedia/open-archiefbeheer/pull/610,2025-01-14T11:59:44Z,2025-01-16T14:52:56Z,1,7,MERGED
+open-archiefbeheer,Chore/coverage 2,https://github.com/maykinmedia/open-archiefbeheer/pull/609,2025-01-14T11:58:23Z,2025-01-14T11:58:46Z,1,9,CLOSED
+open-archiefbeheer,[#553] Update choices endpoints,https://github.com/maykinmedia/open-archiefbeheer/pull/607,2025-01-13T16:50:40Z,2025-01-14T13:04:30Z,1,8,MERGED
+open-archiefbeheer,[#591] Update email templates,https://github.com/maykinmedia/open-archiefbeheer/pull/606,2025-01-13T15:13:48Z,2025-01-17T12:01:48Z,5,6,MERGED
+open-archiefbeheer,Chore/coverage,https://github.com/maykinmedia/open-archiefbeheer/pull/605,2025-01-13T14:04:21Z,2025-01-14T11:48:00Z,1,8,MERGED
+open-archiefbeheer,Feature/#553 settings zaaktype,https://github.com/maykinmedia/open-archiefbeheer/pull/604,2025-01-10T09:54:08Z,2025-01-17T15:32:18Z,13,24,MERGED
+open-archiefbeheer,[#590] Record manager can change reviewer if they are the reviewer,https://github.com/maykinmedia/open-archiefbeheer/pull/603,2025-01-09T16:10:02Z,2025-01-09T16:40:03Z,3,3,MERGED
+open-archiefbeheer,:recycle: #584 - feat: allow record manager to (re)assign co-reviewers,https://github.com/maykinmedia/open-archiefbeheer/pull/602,2025-01-09T14:38:34Z,2025-01-09T15:38:18Z,1,2,MERGED
+open-archiefbeheer,[#599] Check destruction list author,https://github.com/maykinmedia/open-archiefbeheer/pull/601,2025-01-09T14:17:09Z,2025-01-09T14:56:39Z,1,2,MERGED
+open-archiefbeheer,[#597] Add co-reviewer right to administrator group,https://github.com/maykinmedia/open-archiefbeheer/pull/598,2025-01-09T11:29:53Z,2025-01-09T12:52:34Z,1,2,MERGED
+open-archiefbeheer,:memo: [#537] Fix API docs,https://github.com/maykinmedia/open-archiefbeheer/pull/593,2025-01-07T11:25:14Z,2025-01-07T11:57:03Z,1,1,MERGED
+open-archiefbeheer,[#544] Delete destruction list items no longer related to a zaak,https://github.com/maykinmedia/open-archiefbeheer/pull/592,2025-01-07T11:01:08Z,2025-01-07T12:05:53Z,2,2,MERGED
+open-archiefbeheer,:memo: Add docs badge to Readme,https://github.com/maykinmedia/open-archiefbeheer/pull/589,2025-01-06T16:37:58Z,2025-01-06T16:41:34Z,1,2,MERGED
+open-archiefbeheer,:construction: Use the right python version when building docs,https://github.com/maykinmedia/open-archiefbeheer/pull/588,2025-01-06T16:26:43Z,2025-01-06T16:26:52Z,1,1,MERGED
+open-archiefbeheer,:construction: Install gdal library for docs,https://github.com/maykinmedia/open-archiefbeheer/pull/587,2025-01-06T16:18:24Z,2025-01-06T16:19:53Z,1,1,MERGED
+open-archiefbeheer,:construction: Still try to override the env vars,https://github.com/maykinmedia/open-archiefbeheer/pull/586,2025-01-06T16:07:02Z,2025-01-06T16:07:14Z,1,1,MERGED
+open-archiefbeheer,:construction: Override env var for building docs,https://github.com/maykinmedia/open-archiefbeheer/pull/585,2025-01-06T15:58:38Z,2025-01-06T16:00:10Z,1,1,MERGED
+open-archiefbeheer,Migrate to ESLint flat config,https://github.com/maykinmedia/open-archiefbeheer/pull/583,2025-01-03T16:13:38Z,2025-01-07T09:58:40Z,33,3,MERGED
+open-archiefbeheer,docs,https://github.com/maykinmedia/open-archiefbeheer/pull/581,2025-01-02T16:25:02Z,2025-01-06T15:31:06Z,18,3,MERGED
+open-archiefbeheer,:sparkles: #558 - feat: allow deletion of list,https://github.com/maykinmedia/open-archiefbeheer/pull/579,2025-01-02T11:41:23Z,2025-01-07T11:51:27Z,1,1,MERGED

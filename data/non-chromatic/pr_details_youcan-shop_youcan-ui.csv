@@ -1,0 +1,408 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+youcan-ui,Dark:  Fix component exports,https://github.com/youcan-shop/youcan-ui/pull/12,2022-09-09T08:47:08Z,2022-09-09T08:48:10Z,0,1,MERGED
+youcan-ui,DARk - Export all available components,https://github.com/youcan-shop/youcan-ui/pull/11,2022-09-09T08:40:47Z,2022-09-09T08:41:15Z,0,1,MERGED
+youcan-ui,DARK - Build yc-ui,https://github.com/youcan-shop/youcan-ui/pull/10,2022-09-09T08:10:36Z,2022-09-09T08:12:14Z,0,1,MERGED
+youcan-ui,DOT-6388: YouCan UI > Create Select component,https://github.com/youcan-shop/youcan-ui/pull/9,2022-09-06T16:02:22Z,2022-09-08T16:35:57Z,0,19,MERGED
+youcan-ui,[Component] Input,https://github.com/youcan-shop/youcan-ui/pull/8,2022-09-06T09:21:36Z,2022-09-06T10:18:49Z,0,4,MERGED
+youcan-ui,[Core] Refactor lib structure,https://github.com/youcan-shop/youcan-ui/pull/7,2022-09-05T14:12:55Z,2022-09-05T15:51:47Z,0,3,MERGED
+youcan-ui,[Core] - Introduce a ThemeLoader for YouCanUI,https://github.com/youcan-shop/youcan-ui/pull/6,2022-09-02T14:34:01Z,2022-09-05T10:04:31Z,0,2,CLOSED
+youcan-ui,[Core] - Properly expose ui-library package,https://github.com/youcan-shop/youcan-ui/pull/5,2022-09-02T11:25:06Z,2022-09-02T13:07:31Z,0,5,MERGED
+youcan-ui,Various consistency fixes,https://github.com/youcan-shop/youcan-ui/pull/4,2022-09-02T10:43:55Z,2022-09-02T10:47:20Z,0,1,MERGED
+youcan-ui,[Style] - Add stitches support for styling components,https://github.com/youcan-shop/youcan-ui/pull/3,2022-09-01T16:59:03Z,2022-09-02T08:46:49Z,0,2,MERGED
+youcan-ui,[Dev] - Setup necessary environment requirements,https://github.com/youcan-shop/youcan-ui/pull/2,2022-09-01T13:57:25Z,2022-09-01T14:47:21Z,0,3,MERGED
+youcan-ui,Project init,https://github.com/youcan-shop/youcan-ui/pull/1,2022-09-01T11:00:58Z,2022-09-01T11:04:06Z,0,1,MERGED
+youcan-ui,[chore]: Remove `histoire` in favour of Storybook,https://github.com/youcan-shop/youcan-ui/pull/42,2022-12-28T14:13:39Z,2023-01-02T08:52:59Z,0,3,MERGED
+youcan-ui,DARK: password: add id prop + fix icon on rtl,https://github.com/youcan-shop/youcan-ui/pull/41,2022-12-22T14:26:03Z,2022-12-22T14:26:17Z,0,1,MERGED
+youcan-ui,Dark upgrade version 11,https://github.com/youcan-shop/youcan-ui/pull/40,2022-11-25T16:05:51Z,2022-11-25T16:06:04Z,0,2,MERGED
+youcan-ui,DARK : fix rtl UI bugs,https://github.com/youcan-shop/youcan-ui/pull/39,2022-11-25T15:32:00Z,2022-11-25T15:39:54Z,0,1,MERGED
+youcan-ui,DARK > Add slot to store slug input,https://github.com/youcan-shop/youcan-ui/pull/38,2022-11-24T15:47:58Z,2022-11-24T15:55:18Z,0,1,MERGED
+youcan-ui,Dark : make dropdown inputs support rtl direction,https://github.com/youcan-shop/youcan-ui/pull/37,2022-11-23T23:07:30Z,2022-11-24T08:30:42Z,0,4,MERGED
+youcan-ui,Add disabled state to button component,https://github.com/youcan-shop/youcan-ui/pull/36,2022-11-22T15:54:34Z,2022-11-22T15:54:43Z,0,2,MERGED
+youcan-ui,DARK - Enhancements for combobox / password,https://github.com/youcan-shop/youcan-ui/pull/35,2022-11-22T09:42:31Z,2022-11-22T09:42:39Z,0,2,MERGED
+youcan-ui,DARK > update the components from the latest changes,https://github.com/youcan-shop/youcan-ui/pull/34,2022-11-20T11:27:18Z,2022-11-21T14:40:42Z,3,6,MERGED
+youcan-ui,DARK - Refining existing components ,https://github.com/youcan-shop/youcan-ui/pull/33,2022-11-19T20:31:34Z,2022-11-22T09:03:40Z,0,14,MERGED
+youcan-ui,DARK - Add combobox component,https://github.com/youcan-shop/youcan-ui/pull/32,2022-11-16T16:22:22Z,2022-11-17T14:57:41Z,0,10,MERGED
+youcan-ui,Fix styling issue on Arabic language ,https://github.com/youcan-shop/youcan-ui/pull/31,2022-11-16T10:14:27Z,2022-11-16T10:26:33Z,0,1,MERGED
+youcan-ui,DARK - Upgrade from vue `2.7` to `3`,https://github.com/youcan-shop/youcan-ui/pull/30,2022-11-14T10:26:31Z,2022-11-14T11:21:03Z,0,3,MERGED
+youcan-ui,DARK - Enhance build script,https://github.com/youcan-shop/youcan-ui/pull/29,2022-11-10T15:25:49Z,2022-11-10T16:52:05Z,0,2,MERGED
+youcan-ui,DOT-6772 > UI Component > Loading component,https://github.com/youcan-shop/youcan-ui/pull/28,2022-11-10T08:59:50Z,2022-11-10T13:42:41Z,3,9,MERGED
+youcan-ui,DOT-6770: UI Component > Note component,https://github.com/youcan-shop/youcan-ui/pull/27,2022-11-09T15:28:26Z,2022-11-10T10:52:40Z,4,4,MERGED
+youcan-ui,DOT-6763 : UI Components > Select,https://github.com/youcan-shop/youcan-ui/pull/26,2022-11-09T11:07:32Z,2022-11-10T13:50:42Z,8,8,MERGED
+youcan-ui,DOT-6749 > UI Components > StoreSlugInput,https://github.com/youcan-shop/youcan-ui/pull/25,2022-11-08T16:47:29Z,2022-11-09T13:42:29Z,9,15,MERGED
+youcan-ui,DOT-6744-2 : UI Components > create button component > Primary button,https://github.com/youcan-shop/youcan-ui/pull/24,2022-11-08T16:46:13Z,2022-11-09T08:58:35Z,0,5,MERGED
+youcan-ui,DARK - Fix checkbox has no bounding box,https://github.com/youcan-shop/youcan-ui/pull/23,2022-11-08T16:18:35Z,2022-11-08T16:33:51Z,0,2,MERGED
+youcan-ui,DARK - Fix code inconsistencies,https://github.com/youcan-shop/youcan-ui/pull/22,2022-11-08T15:55:21Z,2022-11-08T16:02:58Z,0,2,MERGED
+youcan-ui,DOT-6746-1 >   > UI Components > TextInput,https://github.com/youcan-shop/youcan-ui/pull/21,2022-11-08T15:24:17Z,2022-11-08T15:32:40Z,0,1,MERGED
+youcan-ui,DOT-6750 : UI Components > BaseCheckbox,https://github.com/youcan-shop/youcan-ui/pull/20,2022-11-08T13:32:51Z,2022-11-08T15:48:25Z,2,3,MERGED
+youcan-ui,DOT-6747 > UI Components > PasswordInput,https://github.com/youcan-shop/youcan-ui/pull/19,2022-11-08T13:21:45Z,2022-11-08T15:05:34Z,7,11,MERGED
+youcan-ui,DOT-6746 > UI Components > TextInput,https://github.com/youcan-shop/youcan-ui/pull/18,2022-11-08T12:56:59Z,2022-11-08T16:08:50Z,0,1,CLOSED
+youcan-ui,DOT-6744 : UI Components > create button component,https://github.com/youcan-shop/youcan-ui/pull/17,2022-11-08T08:15:05Z,2022-11-08T13:14:25Z,1,3,MERGED
+youcan-ui,DOT-6740-1 > UI Componentes > create input component #14,https://github.com/youcan-shop/youcan-ui/pull/16,2022-11-07T16:40:56Z,2022-11-08T11:00:51Z,9,9,MERGED
+youcan-ui,DARK: Downgrade Vue completely and upgrade `vite/unocss`,https://github.com/youcan-shop/youcan-ui/pull/15,2022-11-07T14:57:08Z,2022-11-07T14:58:33Z,0,1,MERGED
+youcan-ui,DOT-6740 > UI Componentes > create input component,https://github.com/youcan-shop/youcan-ui/pull/14,2022-11-07T13:36:39Z,2022-11-08T16:08:50Z,0,1,CLOSED
+youcan-ui,Downgrade vuejs version to 2.7v and remove the old components,https://github.com/youcan-shop/youcan-ui/pull/13,2022-11-07T11:18:30Z,2022-11-07T13:24:02Z,0,1,MERGED
+youcan-ui,YSHOP2-107: Send row data when handling action criteria,https://github.com/youcan-shop/youcan-ui/pull/125,2023-03-08T14:27:14Z,2023-03-08T14:32:12Z,0,2,MERGED
+youcan-ui,YSHOP2-119: youcan-ui > Add option to customize Table sizing and column sizing,https://github.com/youcan-shop/youcan-ui/pull/124,2023-03-07T15:59:38Z,2023-03-08T10:18:34Z,0,4,MERGED
+youcan-ui,YSHOP2-134: YouCan-UI > Export types from core package,https://github.com/youcan-shop/youcan-ui/pull/123,2023-03-07T10:27:03Z,2023-03-07T10:37:03Z,0,1,MERGED
+youcan-ui,export table column types,https://github.com/youcan-shop/youcan-ui/pull/122,2023-03-03T11:16:00Z,2023-03-03T11:19:15Z,0,1,MERGED
+youcan-ui,Add boolean type support,https://github.com/youcan-shop/youcan-ui/pull/121,2023-03-03T09:15:38Z,2023-03-03T09:20:53Z,0,2,MERGED
+youcan-ui,YSHOP2-123: Add input component for Table component,https://github.com/youcan-shop/youcan-ui/pull/120,2023-03-02T16:46:21Z,2023-03-03T08:40:34Z,0,5,MERGED
+youcan-ui,YSHOP2-121: Alert component adjustements,https://github.com/youcan-shop/youcan-ui/pull/119,2023-03-02T11:21:25Z,2023-03-02T11:24:03Z,0,1,MERGED
+youcan-ui,YSHOP2-118: Create RadioList select menu component,https://github.com/youcan-shop/youcan-ui/pull/118,2023-03-02T09:22:45Z,2023-03-02T09:46:05Z,0,2,MERGED
+youcan-ui,commit 1,https://github.com/youcan-shop/youcan-ui/pull/117,2023-03-01T15:39:40Z,2023-03-01T15:41:22Z,0,1,CLOSED
+youcan-ui,commit 1,https://github.com/youcan-shop/youcan-ui/pull/116,2023-03-01T15:38:49Z,2023-03-01T15:41:27Z,0,1,CLOSED
+youcan-ui,YSHOP2-101: Create RadioButton component,https://github.com/youcan-shop/youcan-ui/pull/115,2023-02-27T11:35:19Z,2023-02-27T15:10:33Z,0,3,MERGED
+youcan-ui,add PR template,https://github.com/youcan-shop/youcan-ui/pull/114,2023-02-24T11:11:59Z,2023-02-24T13:22:29Z,0,1,MERGED
+youcan-ui,add styling to match figma design,https://github.com/youcan-shop/youcan-ui/pull/113,2023-02-24T11:06:25Z,2023-02-24T14:23:28Z,0,4,MERGED
+youcan-ui,Dot 7423: add docs for youcan-ui,https://github.com/youcan-shop/youcan-ui/pull/112,2023-02-23T14:55:20Z,2023-02-24T10:09:26Z,0,4,MERGED
+youcan-ui,[chore]: Update components visuals according to latest ui-tokens changes,https://github.com/youcan-shop/youcan-ui/pull/111,2023-02-23T13:49:05Z,2023-02-24T09:59:54Z,0,32,MERGED
+youcan-ui,range slider component,https://github.com/youcan-shop/youcan-ui/pull/110,2023-02-22T09:14:12Z,2023-09-07T09:47:02Z,2,3,CLOSED
+youcan-ui,fix: fix day button type,https://github.com/youcan-shop/youcan-ui/pull/109,2023-02-21T14:56:39Z,2023-02-21T15:08:08Z,0,1,MERGED
+youcan-ui,fix: use DragHandle,https://github.com/youcan-shop/youcan-ui/pull/108,2023-02-21T14:05:34Z,2023-02-21T14:13:12Z,0,1,MERGED
+youcan-ui,fix: date picker component,https://github.com/youcan-shop/youcan-ui/pull/107,2023-02-21T13:32:13Z,2023-02-21T13:43:28Z,0,2,MERGED
+youcan-ui,fix: export draggable component,https://github.com/youcan-shop/youcan-ui/pull/106,2023-02-21T08:14:40Z,2023-02-21T08:31:37Z,0,1,MERGED
+youcan-ui,DOT-7342: Implement drag and drop component,https://github.com/youcan-shop/youcan-ui/pull/105,2023-02-16T14:53:13Z,2023-02-20T11:28:33Z,5,12,MERGED
+youcan-ui,Fix: Search dropdown not displaying search results,https://github.com/youcan-shop/youcan-ui/pull/104,2023-02-14T09:40:17Z,2023-02-14T09:58:06Z,1,5,MERGED
+youcan-ui,DOT-7315: Fix batch select reactive props model,https://github.com/youcan-shop/youcan-ui/pull/103,2023-02-13T14:24:51Z,2023-02-13T16:06:14Z,0,5,MERGED
+youcan-ui,DOT-7313: Tabular Data > Actions bar should have spacing between its items,https://github.com/youcan-shop/youcan-ui/pull/102,2023-02-13T13:52:52Z,2023-02-13T14:13:40Z,0,1,MERGED
+youcan-ui,DOT-7321: YouCanUI > Create drag and drop component,https://github.com/youcan-shop/youcan-ui/pull/101,2023-02-13T09:17:40Z,2023-02-13T13:41:57Z,1,9,MERGED
+youcan-ui,[chore]: Have coding style for stylesheet,https://github.com/youcan-shop/youcan-ui/pull/100,2023-02-10T13:55:11Z,2023-02-10T14:35:22Z,0,2,MERGED
+youcan-ui,[chore]: Lint the codebase,https://github.com/youcan-shop/youcan-ui/pull/99,2023-02-10T11:05:58Z,2023-02-10T11:26:51Z,0,1,MERGED
+youcan-ui,YouCan UI > Create Icon set for the empty state items,https://github.com/youcan-shop/youcan-ui/pull/98,2023-02-10T08:10:15Z,2023-02-10T08:33:21Z,0,3,MERGED
+youcan-ui,DARK: Fix tablerow actions not sending tabledata on click,https://github.com/youcan-shop/youcan-ui/pull/97,2023-02-06T15:18:01Z,2023-02-06T15:29:50Z,0,1,MERGED
+youcan-ui,fix: define button type using props,https://github.com/youcan-shop/youcan-ui/pull/96,2023-02-06T10:20:13Z,2023-02-06T11:04:44Z,1,3,MERGED
+youcan-ui,DARK: Update the info component to Alert,https://github.com/youcan-shop/youcan-ui/pull/95,2023-02-06T10:15:56Z,2023-02-06T10:33:10Z,0,2,MERGED
+youcan-ui,DARK: Add new icons,https://github.com/youcan-shop/youcan-ui/pull/94,2023-02-06T08:18:47Z,2023-02-06T08:56:09Z,0,1,MERGED
+youcan-ui,fix: define type button to all buttons,https://github.com/youcan-shop/youcan-ui/pull/93,2023-02-03T16:44:36Z,2023-02-06T10:10:25Z,1,5,CLOSED
+youcan-ui,DOT-7263: Create RichText component,https://github.com/youcan-shop/youcan-ui/pull/92,2023-02-01T15:24:01Z,2023-02-08T14:42:30Z,1,42,MERGED
+youcan-ui,DARK: Add support for initial expansion state,https://github.com/youcan-shop/youcan-ui/pull/91,2023-01-31T10:31:40Z,2023-01-31T10:34:53Z,0,1,MERGED
+youcan-ui,[table]: Introduce child rows support,https://github.com/youcan-shop/youcan-ui/pull/90,2023-01-31T08:21:43Z,2023-02-03T08:07:00Z,1,8,MERGED
+youcan-ui,Dark:update toast alert to Info,https://github.com/youcan-shop/youcan-ui/pull/89,2023-01-26T08:53:24Z,2023-01-26T09:29:15Z,0,2,MERGED
+youcan-ui,dark: dynamic imports fix,https://github.com/youcan-shop/youcan-ui/pull/88,2023-01-25T09:35:18Z,2023-01-25T09:38:57Z,0,1,MERGED
+youcan-ui,Add Toast alerts to YouCan UI,https://github.com/youcan-shop/youcan-ui/pull/87,2023-01-24T15:29:42Z,2023-01-25T13:29:28Z,4,11,MERGED
+youcan-ui,[chore]: Kobayashi maid dragon,https://github.com/youcan-shop/youcan-ui/pull/86,2023-01-24T10:00:34Z,2023-01-24T10:00:42Z,0,4,MERGED
+youcan-ui,Table: Several changes (check commits),https://github.com/youcan-shop/youcan-ui/pull/85,2023-01-23T14:54:34Z,2023-01-23T16:54:00Z,0,3,MERGED
+youcan-ui,Table: Add static status support,https://github.com/youcan-shop/youcan-ui/pull/84,2023-01-23T14:03:18Z,2023-01-23T14:22:33Z,0,2,MERGED
+youcan-ui,dark: dropdown list import fix,https://github.com/youcan-shop/youcan-ui/pull/83,2023-01-23T09:53:59Z,2023-01-23T09:54:33Z,0,1,CLOSED
+youcan-ui,dark: exposed dropdown list component,https://github.com/youcan-shop/youcan-ui/pull/82,2023-01-23T09:42:31Z,2023-01-23T09:45:02Z,0,1,MERGED
+youcan-ui,DARK: Batch update of design system latest changes,https://github.com/youcan-shop/youcan-ui/pull/81,2023-01-16T14:49:47Z,2023-01-17T10:56:37Z,0,8,MERGED
+youcan-ui,DOT-7148: YouCan-UI > Refresh design tokens,https://github.com/youcan-shop/youcan-ui/pull/80,2023-01-16T14:28:03Z,2023-01-17T09:10:14Z,0,3,MERGED
+youcan-ui,"DOT-7115: Implement the ""Pagination bar"" component",https://github.com/youcan-shop/youcan-ui/pull/79,2023-01-16T08:35:00Z,2023-01-16T14:17:54Z,0,3,MERGED
+youcan-ui,DOT-7023: Search input,https://github.com/youcan-shop/youcan-ui/pull/78,2023-01-10T15:34:39Z,2023-01-17T10:58:45Z,0,3,MERGED
+youcan-ui,DOT-7116: Settings navigation,https://github.com/youcan-shop/youcan-ui/pull/77,2023-01-10T10:09:59Z,2023-01-10T10:43:28Z,0,1,MERGED
+youcan-ui,DOT-7112: Topbar implementation,https://github.com/youcan-shop/youcan-ui/pull/76,2023-01-10T09:46:30Z,2023-01-10T09:49:00Z,0,2,MERGED
+youcan-ui,DOT-7113: Action bar component,https://github.com/youcan-shop/youcan-ui/pull/75,2023-01-09T13:50:53Z,2023-01-10T09:46:57Z,0,1,MERGED
+youcan-ui,DARK: Add second batch of icons,https://github.com/youcan-shop/youcan-ui/pull/74,2023-01-09T13:27:20Z,2023-01-09T13:29:03Z,0,1,MERGED
+youcan-ui,DOT-7111: Sidebar implementation,https://github.com/youcan-shop/youcan-ui/pull/73,2023-01-09T13:25:55Z,2023-01-09T13:42:24Z,0,5,MERGED
+youcan-ui,DOT-7110: Tabs component,https://github.com/youcan-shop/youcan-ui/pull/72,2023-01-09T10:26:10Z,2023-01-09T11:13:42Z,0,1,MERGED
+youcan-ui,DOT-7109: Percentage component,https://github.com/youcan-shop/youcan-ui/pull/71,2023-01-09T09:48:49Z,2023-01-09T09:58:27Z,0,2,MERGED
+youcan-ui,DOT-7105: Input dropdown prefix,https://github.com/youcan-shop/youcan-ui/pull/70,2023-01-09T09:13:47Z,2023-01-09T09:28:06Z,0,1,MERGED
+youcan-ui,"DOT-7021: Implement the ""Table"" component",https://github.com/youcan-shop/youcan-ui/pull/69,2023-01-06T08:14:32Z,2023-01-12T12:52:06Z,0,27,MERGED
+youcan-ui,[dark] ignore trigger element onclickoutside,https://github.com/youcan-shop/youcan-ui/pull/68,2023-01-06T08:04:33Z,2023-01-06T08:05:40Z,0,1,MERGED
+youcan-ui,DOT-7015: Status component,https://github.com/youcan-shop/youcan-ui/pull/67,2023-01-05T20:37:22Z,2023-01-06T08:01:09Z,0,3,MERGED
+youcan-ui,"DOT-7018: Implement the ""DateInput"" component",https://github.com/youcan-shop/youcan-ui/pull/66,2023-01-04T16:13:21Z,2023-01-06T07:38:13Z,0,9,MERGED
+youcan-ui,DARK: Remove unused files,https://github.com/youcan-shop/youcan-ui/pull/65,2023-01-04T16:05:22Z,2023-01-04T16:06:42Z,0,1,MERGED
+youcan-ui,DOT-7024: Dropdown component(s),https://github.com/youcan-shop/youcan-ui/pull/64,2023-01-04T15:56:31Z,2023-01-05T16:08:41Z,0,10,MERGED
+youcan-ui,"DOT-7020: Implement the ""Tag"" component",https://github.com/youcan-shop/youcan-ui/pull/63,2023-01-04T10:30:19Z,2023-01-04T15:50:44Z,0,6,MERGED
+youcan-ui,DOT-7016: Upload component,https://github.com/youcan-shop/youcan-ui/pull/62,2023-01-04T09:55:34Z,2023-01-04T13:57:44Z,0,7,MERGED
+youcan-ui,DOT-7047: Color input component slot,https://github.com/youcan-shop/youcan-ui/pull/61,2023-01-03T16:32:28Z,2023-01-03T16:37:58Z,0,3,MERGED
+youcan-ui,"DOT-7027: Implement the ""Increment"" component",https://github.com/youcan-shop/youcan-ui/pull/60,2023-01-03T16:12:25Z,2023-01-04T09:55:15Z,0,6,MERGED
+youcan-ui,remove build files from vcs,https://github.com/youcan-shop/youcan-ui/pull/59,2023-01-03T15:58:17Z,2023-01-03T15:59:12Z,0,1,MERGED
+youcan-ui,DOT-7046: Input slot,https://github.com/youcan-shop/youcan-ui/pull/58,2023-01-03T15:52:49Z,2023-01-03T15:54:38Z,0,2,MERGED
+youcan-ui,"DOT-7026: Implement the ""Codeblock"" component",https://github.com/youcan-shop/youcan-ui/pull/57,2023-01-03T15:33:52Z,2023-12-15T15:46:05Z,1,16,CLOSED
+youcan-ui,DOT- 7029: Rating & RatingInput components,https://github.com/youcan-shop/youcan-ui/pull/56,2023-01-03T15:09:21Z,2023-01-03T15:15:45Z,0,3,MERGED
+youcan-ui,"DOT-7025: Implement the ""Thumbnail"" component",https://github.com/youcan-shop/youcan-ui/pull/55,2023-01-03T14:40:44Z,2023-01-03T15:18:32Z,0,3,MERGED
+youcan-ui,DOT-7028: Textarea component,https://github.com/youcan-shop/youcan-ui/pull/54,2023-01-03T14:05:07Z,2023-01-03T14:27:14Z,0,3,MERGED
+youcan-ui,"DOT-7014: Implement the ""Badge"" component",https://github.com/youcan-shop/youcan-ui/pull/53,2023-01-03T14:00:41Z,2023-01-03T14:36:38Z,0,3,MERGED
+youcan-ui,"DOT-7031: Implement the ""Toggle"" component",https://github.com/youcan-shop/youcan-ui/pull/52,2023-01-03T11:35:00Z,2023-01-03T13:54:36Z,0,5,MERGED
+youcan-ui,DOT-7030: Checkbox component,https://github.com/youcan-shop/youcan-ui/pull/51,2023-01-03T10:59:03Z,2023-01-03T13:54:47Z,0,2,MERGED
+youcan-ui,"DOT-7013: Implement the ""Button"" component",https://github.com/youcan-shop/youcan-ui/pull/50,2023-01-03T09:45:50Z,2023-01-03T11:30:31Z,0,9,MERGED
+youcan-ui,DOT-7017: Color picker,https://github.com/youcan-shop/youcan-ui/pull/49,2023-01-03T08:46:38Z,2023-01-03T10:41:11Z,0,9,MERGED
+youcan-ui,DOT-7030: Input component,https://github.com/youcan-shop/youcan-ui/pull/48,2023-01-02T16:37:54Z,2023-01-03T08:24:12Z,0,4,MERGED
+youcan-ui,DOT-7038: Move components stories to [vue3] package,https://github.com/youcan-shop/youcan-ui/pull/47,2023-01-02T16:36:06Z,2023-01-02T16:39:29Z,0,1,MERGED
+youcan-ui,DOT-7010: Create a custom iconify-json icon library,https://github.com/youcan-shop/youcan-ui/pull/46,2023-01-02T15:45:56Z,2023-01-02T16:17:50Z,0,3,MERGED
+youcan-ui,DOT-7009: Transform design tokens JSON,https://github.com/youcan-shop/youcan-ui/pull/45,2023-01-02T14:37:03Z,2023-01-02T14:53:44Z,0,3,MERGED
+youcan-ui,DOT-7038: Introduce workspaces for YouCan-UI repo,https://github.com/youcan-shop/youcan-ui/pull/44,2023-01-02T10:55:17Z,2023-01-02T14:19:05Z,0,8,MERGED
+youcan-ui,YouCan UI v2,https://github.com/youcan-shop/youcan-ui/pull/43,2023-01-02T08:56:07Z,2023-01-17T11:00:56Z,0,42,MERGED
+youcan-ui,Add jamyoucn00 to the code owners,https://github.com/youcan-shop/youcan-ui/pull/132,2023-05-18T14:30:21Z,2023-05-18T14:33:03Z,0,2,MERGED
+youcan-ui,Dark: Fix Datepicker when being used inside a form,https://github.com/youcan-shop/youcan-ui/pull/131,2023-05-18T13:42:40Z,2023-05-18T14:28:28Z,4,3,MERGED
+youcan-ui,YSHOP2-544 : Theme editor > The colors panel show wrong hex code,https://github.com/youcan-shop/youcan-ui/pull/130,2023-05-17T15:09:36Z,2023-05-17T15:19:30Z,0,1,MERGED
+youcan-ui,YSHOP2-392 > fix color picker opacity issue,https://github.com/youcan-shop/youcan-ui/pull/129,2023-04-27T11:31:34Z,2023-04-27T13:51:13Z,0,5,MERGED
+youcan-ui,YSHOP2-306: Add prop to ColorInput to preserve transparency,https://github.com/youcan-shop/youcan-ui/pull/128,2023-04-18T11:48:31Z,2023-04-18T12:03:17Z,0,2,MERGED
+youcan-ui,YSHOP2-299: Fix popper.js not initialising,https://github.com/youcan-shop/youcan-ui/pull/127,2023-04-10T15:28:28Z,2023-04-10T15:30:26Z,0,1,MERGED
+youcan-ui,"YSHOP2-299: [Notice bar] for the Mobile NoticeBar, the color picker",https://github.com/youcan-shop/youcan-ui/pull/126,2023-04-10T15:11:15Z,2023-04-10T15:19:46Z,0,2,MERGED
+youcan-ui,dropdown > disabled state,https://github.com/youcan-shop/youcan-ui/pull/135,2023-07-26T09:16:40Z,2023-07-26T10:52:52Z,0,1,MERGED
+youcan-ui,dark: typescript 5 support,https://github.com/youcan-shop/youcan-ui/pull/134,2023-06-27T10:42:21Z,2023-06-27T10:44:57Z,0,2,MERGED
+youcan-ui,DARK: ability to add labelColor in the static status component,https://github.com/youcan-shop/youcan-ui/pull/133,2023-06-21T10:32:08Z,2023-06-21T10:34:21Z,0,1,MERGED
+youcan-ui,"Revert ""DARK : Add loading spinner to button""",https://github.com/youcan-shop/youcan-ui/pull/143,2023-09-18T16:14:30Z,2023-09-18T16:15:36Z,1,1,MERGED
+youcan-ui,DARK : Add loading spinner to button,https://github.com/youcan-shop/youcan-ui/pull/142,2023-09-18T15:12:19Z,2023-09-18T15:42:27Z,0,3,MERGED
+youcan-ui,dark: update CODEOWNERS,https://github.com/youcan-shop/youcan-ui/pull/141,2023-09-05T07:46:29Z,2023-09-05T07:46:34Z,0,1,MERGED
+youcan-ui,DARK: make dropdown search available to the parent component,https://github.com/youcan-shop/youcan-ui/pull/140,2023-09-01T16:16:13Z,2023-09-04T16:09:32Z,3,7,MERGED
+youcan-ui,dark: add array v-model support to checkboxes,https://github.com/youcan-shop/youcan-ui/pull/139,2023-08-09T15:31:47Z,2023-08-09T15:33:31Z,0,1,MERGED
+youcan-ui,DARK: fix table tooltip,https://github.com/youcan-shop/youcan-ui/pull/138,2023-08-09T11:21:30Z,2023-08-09T11:29:04Z,0,1,MERGED
+youcan-ui,DARK : fix table tooltip,https://github.com/youcan-shop/youcan-ui/pull/137,2023-08-09T11:12:21Z,2023-08-09T11:16:12Z,0,0,CLOSED
+youcan-ui,DARK : add tooltip to table,https://github.com/youcan-shop/youcan-ui/pull/136,2023-08-09T08:12:45Z,2023-08-09T09:56:48Z,0,2,MERGED
+youcan-ui,YSHOP2-1218: Table > Add fixes based on Feedback meeting,https://github.com/youcan-shop/youcan-ui/pull/205,2023-12-29T13:32:33Z,2024-01-02T10:35:12Z,0,4,MERGED
+youcan-ui,DARK: improve resource picker styles,https://github.com/youcan-shop/youcan-ui/pull/204,2023-12-28T13:52:52Z,2024-01-02T09:38:42Z,0,4,MERGED
+youcan-ui,YSHOP2-1217: Add fixes based on Feedback meeting,https://github.com/youcan-shop/youcan-ui/pull/203,2023-12-28T10:34:39Z,2024-01-02T13:42:58Z,0,4,MERGED
+youcan-ui,YSHOP2-1212: Fixed MediaInput sublabel not required,https://github.com/youcan-shop/youcan-ui/pull/202,2023-12-28T09:07:41Z,2023-12-28T09:21:00Z,0,1,MERGED
+youcan-ui,YSHOP2-1210 : Fixed uploadedMedia buttons type,https://github.com/youcan-shop/youcan-ui/pull/201,2023-12-28T08:49:16Z,2023-12-28T11:21:00Z,0,5,MERGED
+youcan-ui,YSHOP2-1221: Added thickness prop to divider,https://github.com/youcan-shop/youcan-ui/pull/200,2023-12-27T14:55:46Z,2024-01-02T13:58:12Z,1,3,MERGED
+youcan-ui,YSHOP2-1214: Added margin to the divider,https://github.com/youcan-shop/youcan-ui/pull/199,2023-12-27T14:02:22Z,2024-01-02T14:39:25Z,0,5,MERGED
+youcan-ui,YSHOP2-1213: Fixed divider vertical orientation,https://github.com/youcan-shop/youcan-ui/pull/198,2023-12-27T13:45:45Z,2024-01-02T14:33:21Z,0,3,MERGED
+youcan-ui,YSHOP2-1102: Fix modal bugs,https://github.com/youcan-shop/youcan-ui/pull/197,2023-12-27T10:39:23Z,2023-12-27T10:44:14Z,0,7,MERGED
+youcan-ui,YSHOP2-1198: Feature Callout > Add edge awareness,https://github.com/youcan-shop/youcan-ui/pull/196,2023-12-26T15:12:29Z,2023-12-26T15:56:18Z,4,5,MERGED
+youcan-ui,DARK: improve collapse/expand icon state in Sidebar,https://github.com/youcan-shop/youcan-ui/pull/195,2023-12-26T14:58:07Z,2023-12-26T16:51:48Z,0,2,MERGED
+youcan-ui,YSHOP2-1197: Reduce amount of props needed for MultiSwitch,https://github.com/youcan-shop/youcan-ui/pull/194,2023-12-26T14:14:29Z,2023-12-26T15:47:53Z,0,2,MERGED
+youcan-ui,YSHOP2-1178: Alert > Add error variant,https://github.com/youcan-shop/youcan-ui/pull/192,2023-12-22T10:16:46Z,2023-12-22T11:24:08Z,0,1,MERGED
+youcan-ui,removed unused issue template,https://github.com/youcan-shop/youcan-ui/pull/191,2023-12-20T14:59:38Z,2023-12-20T15:37:07Z,0,1,MERGED
+youcan-ui,YSHOP2-1162: Added Multiswitch component,https://github.com/youcan-shop/youcan-ui/pull/190,2023-12-20T09:10:23Z,2023-12-21T10:23:12Z,5,7,MERGED
+youcan-ui,YSHOP2-1165: fix sidebar issue,https://github.com/youcan-shop/youcan-ui/pull/189,2023-12-19T10:36:04Z,2023-12-20T14:41:20Z,4,12,MERGED
+youcan-ui,Dark: Fixed radio groupe cursor style,https://github.com/youcan-shop/youcan-ui/pull/187,2023-12-18T15:30:16Z,2023-12-18T16:47:02Z,0,2,MERGED
+youcan-ui,YSHOP2-1137: RichText > Added missing features and fixed bugs,https://github.com/youcan-shop/youcan-ui/pull/186,2023-12-18T10:51:51Z,2024-01-02T15:57:11Z,8,22,MERGED
+youcan-ui,Create CodePreview Component,https://github.com/youcan-shop/youcan-ui/pull/185,2023-12-13T10:07:54Z,2023-12-18T09:01:00Z,7,4,MERGED
+youcan-ui,YSHOP2-1133: Add ResourcePicker component,https://github.com/youcan-shop/youcan-ui/pull/184,2023-12-12T09:46:13Z,2023-12-25T15:25:22Z,3,31,MERGED
+youcan-ui,YSHOP2-1126: Added Divider component,https://github.com/youcan-shop/youcan-ui/pull/183,2023-12-12T09:45:07Z,2023-12-13T15:29:42Z,5,3,MERGED
+youcan-ui,YSHOP2-1128: Added Skeleton component,https://github.com/youcan-shop/youcan-ui/pull/182,2023-12-12T09:27:19Z,2023-12-13T16:33:01Z,2,8,MERGED
+youcan-ui,YSHOP2-1129 : Added a spinner component with a label,https://github.com/youcan-shop/youcan-ui/pull/181,2023-12-11T14:08:58Z,2023-12-14T08:36:15Z,5,5,MERGED
+youcan-ui,YSHOP2-1122: Add hide-per-page prop to PaginationBar,https://github.com/youcan-shop/youcan-ui/pull/180,2023-12-08T14:39:34Z,2023-12-13T16:02:43Z,2,5,MERGED
+youcan-ui,YSHOP2-1123: created a templates for issues and feature request,https://github.com/youcan-shop/youcan-ui/pull/179,2023-12-08T13:55:35Z,2023-12-08T14:41:08Z,0,2,MERGED
+youcan-ui,YSHOP2-1120: TextArea and ColorInput > Fix focus issue,https://github.com/youcan-shop/youcan-ui/pull/178,2023-12-07T16:18:10Z,2023-12-08T15:13:27Z,1,3,MERGED
+youcan-ui,YSHOP2-1074: Create Popover (Callout) component,https://github.com/youcan-shop/youcan-ui/pull/177,2023-12-06T14:38:16Z,2023-12-18T09:08:09Z,6,7,MERGED
+youcan-ui,Added close button to the preview in the UploadedMedia component,https://github.com/youcan-shop/youcan-ui/pull/175,2023-12-05T13:16:27Z,2023-12-07T16:51:44Z,4,3,MERGED
+youcan-ui,YSHOP2-1109: Add feature request template to YouCan UI repo,https://github.com/youcan-shop/youcan-ui/pull/174,2023-12-04T13:43:52Z,2023-12-04T14:04:43Z,3,7,MERGED
+youcan-ui,YSHOP2-1104: DatePicker > Fix date range issue,https://github.com/youcan-shop/youcan-ui/pull/173,2023-12-01T14:51:40Z,2023-12-04T13:08:28Z,1,3,MERGED
+youcan-ui,Yshop2 1060,https://github.com/youcan-shop/youcan-ui/pull/172,2023-11-30T15:25:52Z,2023-11-30T15:26:00Z,0,4,CLOSED
+youcan-ui,YSHOP2-1102: Fix modal bugs,https://github.com/youcan-shop/youcan-ui/pull/171,2023-11-30T15:22:10Z,2023-12-05T17:01:33Z,4,6,MERGED
+youcan-ui,YSHOP2-1079: All components > Check responsitivity,https://github.com/youcan-shop/youcan-ui/pull/168,2023-11-30T13:32:04Z,2023-12-08T14:51:15Z,5,13,MERGED
+youcan-ui,"Revert ""YSHOP2-991"":  Date picker, select range should be optional + Alert type error",https://github.com/youcan-shop/youcan-ui/pull/167,2023-11-29T15:04:33Z,2023-11-29T15:14:17Z,0,2,MERGED
+youcan-ui,YSHOP2-1083: Add Slider component,https://github.com/youcan-shop/youcan-ui/pull/165,2023-11-27T16:28:43Z,2023-11-28T13:45:50Z,1,5,MERGED
+youcan-ui,YSHOP2-1059: Create Toast component,https://github.com/youcan-shop/youcan-ui/pull/164,2023-11-23T11:17:52Z,2023-11-24T11:00:36Z,2,2,MERGED
+youcan-ui,YSHOP2-1060: Create Modal component,https://github.com/youcan-shop/youcan-ui/pull/163,2023-11-22T16:23:09Z,2023-11-24T11:20:52Z,4,4,MERGED
+youcan-ui,Update CONTRIBUTING.md,https://github.com/youcan-shop/youcan-ui/pull/162,2023-11-22T13:34:19Z,2023-11-22T13:46:13Z,0,3,MERGED
+youcan-ui,YSHOP2-1061: Create Card component,https://github.com/youcan-shop/youcan-ui/pull/161,2023-11-21T16:39:05Z,2023-11-24T10:59:15Z,2,2,CLOSED
+youcan-ui,"YSHOP2-991:  Date picker, select range should be optional",https://github.com/youcan-shop/youcan-ui/pull/160,2023-11-21T13:48:22Z,2023-11-27T15:12:59Z,1,4,MERGED
+youcan-ui,YSHOP2-1054: BaseFileInput > Add fixes and improvements,https://github.com/youcan-shop/youcan-ui/pull/158,2023-11-20T14:50:28Z,2023-11-24T13:39:34Z,8,9,MERGED
+youcan-ui,Export tokens from core lib so it can be consumed by others,https://github.com/youcan-shop/youcan-ui/pull/157,2023-11-17T14:47:53Z,2023-11-17T15:27:40Z,0,2,MERGED
+youcan-ui,fix: Dropdown isn’t aware of edges,https://github.com/youcan-shop/youcan-ui/pull/156,2023-11-16T15:05:47Z,2023-11-21T15:55:48Z,0,1,MERGED
+youcan-ui,SHOP2-1056 : Text isn’t aware of edges,https://github.com/youcan-shop/youcan-ui/pull/155,2023-11-16T13:51:20Z,2023-11-28T09:20:57Z,2,4,MERGED
+youcan-ui,Update README.md,https://github.com/youcan-shop/youcan-ui/pull/154,2023-11-15T16:17:16Z,2023-11-17T16:48:12Z,0,3,MERGED
+youcan-ui,YSHOP2-1033: Fix dropdown checkboxes emitting check twice,https://github.com/youcan-shop/youcan-ui/pull/153,2023-11-13T10:07:05Z,2023-11-13T10:40:41Z,2,3,MERGED
+youcan-ui,remove the action tooltip when criteria is false,https://github.com/youcan-shop/youcan-ui/pull/152,2023-11-13T10:02:44Z,2023-11-13T10:38:09Z,1,2,MERGED
+youcan-ui,YSHOP2-1016: EditableStatus takes in labelColor but doesn't use it,https://github.com/youcan-shop/youcan-ui/pull/151,2023-11-13T09:16:37Z,2023-11-13T09:36:49Z,0,4,MERGED
+youcan-ui,fix: UploadedMedia preview eye icon doesn't blend well with image,https://github.com/youcan-shop/youcan-ui/pull/150,2023-11-10T16:48:22Z,2023-11-13T09:11:30Z,2,2,MERGED
+youcan-ui,fix: UploadedFile takes in an error message but doesn't display it,https://github.com/youcan-shop/youcan-ui/pull/149,2023-11-10T15:22:05Z,2023-11-13T10:55:55Z,2,5,MERGED
+youcan-ui,fix z-index color picker issue,https://github.com/youcan-shop/youcan-ui/pull/148,2023-11-08T15:15:59Z,2023-11-09T13:48:12Z,1,4,MERGED
+youcan-ui,export RichText and ToolTip,https://github.com/youcan-shop/youcan-ui/pull/147,2023-11-08T14:32:54Z,2023-11-08T16:24:22Z,0,1,MERGED
+youcan-ui,add object fit to Thumbnail component,https://github.com/youcan-shop/youcan-ui/pull/146,2023-11-08T11:24:19Z,2023-11-09T13:46:51Z,1,6,MERGED
+youcan-ui,fix this rating issue now user can clear rating,https://github.com/youcan-shop/youcan-ui/pull/145,2023-11-08T09:24:30Z,2023-11-09T13:43:58Z,6,10,MERGED
+youcan-ui,YSHOP2-1010: Increment component displays NaN if an equation is entered,https://github.com/youcan-shop/youcan-ui/pull/144,2023-11-07T16:34:46Z,2023-11-09T12:57:53Z,0,3,MERGED
+youcan-ui,UI-276: Table > Refactor,https://github.com/youcan-shop/youcan-ui/pull/322,2024-03-28T16:14:28Z,2024-04-05T16:13:07Z,1,9,MERGED
+youcan-ui,UI-309 : Handeled rich text default value,https://github.com/youcan-shop/youcan-ui/pull/321,2024-03-27T14:19:56Z,2024-04-08T14:20:22Z,1,1,MERGED
+youcan-ui,UI-273: Tabs > Improvement,https://github.com/youcan-shop/youcan-ui/pull/320,2024-03-26T11:44:18Z,2024-03-26T17:30:32Z,0,3,MERGED
+youcan-ui,UI-270: Improved status component,https://github.com/youcan-shop/youcan-ui/pull/319,2024-03-25T17:25:49Z,2024-04-01T14:49:32Z,0,6,MERGED
+youcan-ui,UI-294: Spinner > Improvement,https://github.com/youcan-shop/youcan-ui/pull/318,2024-03-22T11:40:30Z,2024-03-26T17:30:51Z,0,2,MERGED
+youcan-ui,UI-269: Increment > Improvement,https://github.com/youcan-shop/youcan-ui/pull/317,2024-03-21T14:07:41Z,2024-03-26T10:34:34Z,0,4,MERGED
+youcan-ui,UI-285: Remove unnecessary components,https://github.com/youcan-shop/youcan-ui/pull/316,2024-03-21T12:00:39Z,2024-03-21T14:23:02Z,0,1,MERGED
+youcan-ui,UI-278: Alert > Improvement,https://github.com/youcan-shop/youcan-ui/pull/315,2024-03-21T11:23:17Z,2024-03-21T14:22:31Z,0,1,MERGED
+youcan-ui,Alto - YouCan UI Version 3,https://github.com/youcan-shop/youcan-ui/pull/314,2024-03-21T10:38:44Z,2024-05-28T15:56:57Z,0,28,MERGED
+youcan-ui,UI-305: Create Phoenix folder,https://github.com/youcan-shop/youcan-ui/pull/313,2024-03-20T12:24:57Z,2024-03-21T10:36:52Z,0,1,CLOSED
+youcan-ui,UI 243: RE-revert rich text,https://github.com/youcan-shop/youcan-ui/pull/312,2024-03-18T16:17:54Z,2024-03-18T16:20:23Z,0,1,MERGED
+youcan-ui,"Revert ""UI-243 : Added rich text component with quill""",https://github.com/youcan-shop/youcan-ui/pull/311,2024-03-18T15:45:40Z,2024-03-18T15:48:08Z,0,1,MERGED
+youcan-ui,"Revert ""fix document is not defined (#308)""",https://github.com/youcan-shop/youcan-ui/pull/310,2024-03-18T15:42:13Z,2024-03-18T15:45:00Z,0,1,MERGED
+youcan-ui,handle error case of undefined value,https://github.com/youcan-shop/youcan-ui/pull/309,2024-03-18T14:27:28Z,2024-05-15T08:59:23Z,1,1,CLOSED
+youcan-ui,fix document is not defined,https://github.com/youcan-shop/youcan-ui/pull/308,2024-03-18T13:12:49Z,2024-03-18T13:19:30Z,0,1,MERGED
+youcan-ui,UI-297: DropdownMenu > Improvement,https://github.com/youcan-shop/youcan-ui/pull/307,2024-03-14T12:34:09Z,2024-03-14T13:57:00Z,0,2,MERGED
+youcan-ui,UI-291: Popover > Improvement,https://github.com/youcan-shop/youcan-ui/pull/306,2024-03-14T11:53:17Z,2024-03-15T16:05:36Z,0,5,MERGED
+youcan-ui,UI-298 : Draggable component improved,https://github.com/youcan-shop/youcan-ui/pull/305,2024-03-13T15:18:43Z,2024-03-14T13:41:04Z,0,2,MERGED
+youcan-ui,UI-265: TextArea > Improvement,https://github.com/youcan-shop/youcan-ui/pull/304,2024-03-13T11:08:10Z,2024-03-14T11:59:23Z,0,1,MERGED
+youcan-ui,UI-290: ResourcePicker > Improvement,https://github.com/youcan-shop/youcan-ui/pull/303,2024-03-12T13:24:38Z,2024-03-13T10:25:55Z,0,3,MERGED
+youcan-ui,UI-251: Checkbox > Improvement,https://github.com/youcan-shop/youcan-ui/pull/302,2024-03-12T13:09:22Z,2024-03-14T12:03:49Z,1,4,MERGED
+youcan-ui,UI-274: SettingsNav > Improvement,https://github.com/youcan-shop/youcan-ui/pull/301,2024-03-12T12:05:07Z,2024-03-13T14:06:13Z,1,3,MERGED
+youcan-ui,UI-287: Tooltip > Improvement,https://github.com/youcan-shop/youcan-ui/pull/300,2024-03-12T11:40:02Z,2024-03-13T10:24:31Z,0,4,MERGED
+youcan-ui,UI-288: Slider > Improvement,https://github.com/youcan-shop/youcan-ui/pull/299,2024-03-11T12:10:37Z,2024-03-14T12:01:28Z,0,3,MERGED
+youcan-ui,UI-268 : improved thumbnail component,https://github.com/youcan-shop/youcan-ui/pull/298,2024-03-11T11:40:40Z,2024-03-12T16:58:44Z,0,2,MERGED
+youcan-ui,UI-267: Small improvement in the component style,https://github.com/youcan-shop/youcan-ui/pull/297,2024-03-11T11:16:34Z,2024-03-11T12:31:06Z,1,2,MERGED
+youcan-ui,UI-289: Modal > Improvement,https://github.com/youcan-shop/youcan-ui/pull/296,2024-03-11T11:07:41Z,2024-03-11T11:46:43Z,1,3,MERGED
+youcan-ui,UI 296: Drawer > Improvement,https://github.com/youcan-shop/youcan-ui/pull/295,2024-03-07T16:33:36Z,2024-03-13T10:22:35Z,1,6,MERGED
+youcan-ui,UI 293,https://github.com/youcan-shop/youcan-ui/pull/294,2024-03-07T15:21:12Z,2024-03-07T15:21:16Z,0,4,CLOSED
+youcan-ui,UI-301 : Added card skeleton,https://github.com/youcan-shop/youcan-ui/pull/293,2024-03-07T14:57:16Z,2024-03-07T15:19:40Z,1,2,MERGED
+youcan-ui,UI-292 > Divider small improvements,https://github.com/youcan-shop/youcan-ui/pull/292,2024-03-07T10:26:07Z,2024-03-07T14:21:41Z,0,2,MERGED
+youcan-ui,UI-293 > Improved skeleton component,https://github.com/youcan-shop/youcan-ui/pull/291,2024-03-07T09:19:38Z,2024-03-07T14:17:46Z,1,5,MERGED
+youcan-ui,UI-280: ToastContainer > Improvement,https://github.com/youcan-shop/youcan-ui/pull/290,2024-03-07T09:17:49Z,2024-03-07T10:08:08Z,1,2,MERGED
+youcan-ui,InputGroup > Improvement,https://github.com/youcan-shop/youcan-ui/pull/289,2024-03-06T13:19:02Z,2024-03-07T13:37:16Z,0,2,MERGED
+youcan-ui,Note > Improvement and bug fixes,https://github.com/youcan-shop/youcan-ui/pull/288,2024-03-06T11:25:50Z,2024-03-07T13:48:46Z,0,2,MERGED
+youcan-ui,UI-246: Update PR Template to improve QR Steps,https://github.com/youcan-shop/youcan-ui/pull/286,2024-03-06T09:47:05Z,2024-03-06T09:51:17Z,0,1,MERGED
+youcan-ui,UI-243 : Added rich text component with quill,https://github.com/youcan-shop/youcan-ui/pull/285,2024-03-01T10:10:36Z,2024-03-18T10:45:18Z,5,18,MERGED
+youcan-ui,UI 239: Slider > add range slider min max values,https://github.com/youcan-shop/youcan-ui/pull/284,2024-02-21T09:52:10Z,2024-02-23T09:13:13Z,0,7,MERGED
+youcan-ui,RichText proposition,https://github.com/youcan-shop/youcan-ui/pull/283,2024-02-20T09:04:45Z,2024-03-01T10:55:37Z,1,1,CLOSED
+youcan-ui,UI-235: Slider > Behaviour issue in RTL,https://github.com/youcan-shop/youcan-ui/pull/282,2024-02-16T10:04:37Z,2024-02-20T10:25:19Z,0,2,CLOSED
+youcan-ui,UI-234: Dropdown > auto close on select,https://github.com/youcan-shop/youcan-ui/pull/281,2024-02-16T09:03:45Z,2024-02-20T11:18:01Z,0,2,MERGED
+youcan-ui,YSHOP2-1368 : Added single date picker component,https://github.com/youcan-shop/youcan-ui/pull/280,2024-02-15T14:57:28Z,2024-02-19T08:43:21Z,0,4,MERGED
+youcan-ui,YSHOP2-1373: Import all types from folder ~/types,https://github.com/youcan-shop/youcan-ui/pull/278,2024-02-15T09:33:30Z,2024-02-15T14:51:42Z,0,5,MERGED
+youcan-ui,YSHOP2-1370: ToastContainer > Pause on hover,https://github.com/youcan-shop/youcan-ui/pull/277,2024-02-14T10:06:48Z,2024-02-15T14:47:03Z,0,2,MERGED
+youcan-ui,YSHOP2-1367: PaginationBar per page dropdown,https://github.com/youcan-shop/youcan-ui/pull/276,2024-02-13T13:37:42Z,2024-02-15T15:17:36Z,1,4,MERGED
+youcan-ui,YSHOP2-1366: Dropdown Tag component,https://github.com/youcan-shop/youcan-ui/pull/275,2024-02-13T09:47:56Z,2024-02-13T13:14:50Z,0,1,MERGED
+youcan-ui,Upload > Add support for videos,https://github.com/youcan-shop/youcan-ui/pull/274,2024-02-09T15:43:55Z,2024-02-15T14:37:03Z,1,6,MERGED
+youcan-ui,DARK: fix eslint,https://github.com/youcan-shop/youcan-ui/pull/273,2024-02-08T11:36:05Z,2024-02-08T11:40:14Z,0,1,MERGED
+youcan-ui,DARK: Update ESLint config,https://github.com/youcan-shop/youcan-ui/pull/272,2024-02-08T11:05:57Z,2024-02-08T11:09:41Z,0,1,MERGED
+youcan-ui,Remove any trace of RichText TEMPORARILY,https://github.com/youcan-shop/youcan-ui/pull/271,2024-02-08T10:33:35Z,2024-02-08T10:38:32Z,0,1,MERGED
+youcan-ui,DARK: add window check to ColorPicker,https://github.com/youcan-shop/youcan-ui/pull/269,2024-02-07T17:10:36Z,2024-02-08T09:20:15Z,1,1,CLOSED
+youcan-ui,"Revert ""DARK: remove any trace of ToastContainer""",https://github.com/youcan-shop/youcan-ui/pull/268,2024-02-07T10:47:49Z,2024-02-08T10:20:29Z,0,1,MERGED
+youcan-ui,YSHOP2-1295: All components stories,https://github.com/youcan-shop/youcan-ui/pull/267,2024-02-07T10:27:20Z,2024-02-13T13:32:44Z,1,44,MERGED
+youcan-ui,DARK: remove any trace of ToastContainer,https://github.com/youcan-shop/youcan-ui/pull/266,2024-02-07T10:03:57Z,2024-02-07T10:05:17Z,0,1,MERGED
+youcan-ui,DARK dark-remove-ts-declaration,https://github.com/youcan-shop/youcan-ui/pull/264,2024-02-06T11:07:52Z,2024-02-06T11:09:58Z,0,1,MERGED
+youcan-ui,YSHOP2-1342: attempt to fix types import,https://github.com/youcan-shop/youcan-ui/pull/263,2024-02-06T09:44:04Z,2024-02-08T10:40:58Z,0,1,CLOSED
+youcan-ui,"DropdownList => add the possibility to pass items with different {optionLabel, optionValue}",https://github.com/youcan-shop/youcan-ui/pull/262,2024-02-06T00:10:38Z,2024-03-04T08:07:33Z,0,1,CLOSED
+youcan-ui,Tag > Disabled state still allows user to edit,https://github.com/youcan-shop/youcan-ui/pull/257,2024-02-01T10:52:22Z,2024-02-01T13:35:29Z,0,2,MERGED
+youcan-ui,Dark: Fixed import error,https://github.com/youcan-shop/youcan-ui/pull/254,2024-01-29T14:27:05Z,2024-01-29T14:40:50Z,0,1,MERGED
+youcan-ui,YSHOP2-1312: Create new folder to define helpers,https://github.com/youcan-shop/youcan-ui/pull/253,2024-01-29T13:42:08Z,2024-01-31T16:04:17Z,2,6,MERGED
+youcan-ui,YSHOP2-1297: Dropdown > Doesn't have an error state,https://github.com/youcan-shop/youcan-ui/pull/252,2024-01-29T11:14:47Z,2024-01-29T14:03:10Z,0,5,MERGED
+youcan-ui,YSHOP2-1241: Upgraded vue and vite versions,https://github.com/youcan-shop/youcan-ui/pull/251,2024-01-26T09:03:08Z,2024-01-26T09:27:02Z,0,1,MERGED
+youcan-ui,DARK fix uploadedFile props type lint error,https://github.com/youcan-shop/youcan-ui/pull/250,2024-01-25T14:02:38Z,2024-01-25T14:07:00Z,0,1,MERGED
+youcan-ui,YSHOP2-1294: Update storybook,https://github.com/youcan-shop/youcan-ui/pull/249,2024-01-25T13:43:55Z,2024-01-25T14:17:05Z,1,5,MERGED
+youcan-ui,Add Drawer component,https://github.com/youcan-shop/youcan-ui/pull/248,2024-01-25T11:10:13Z,2024-01-26T09:30:05Z,0,4,MERGED
+youcan-ui,UploadedMedia > image preview by url,https://github.com/youcan-shop/youcan-ui/pull/247,2024-01-24T16:08:25Z,2024-01-24T16:15:29Z,0,1,MERGED
+youcan-ui,DARK: Fixed icons,https://github.com/youcan-shop/youcan-ui/pull/246,2024-01-24T14:19:29Z,2024-01-24T14:24:35Z,0,1,MERGED
+youcan-ui,YSHOP2-1216: Added DropdownMenu component,https://github.com/youcan-shop/youcan-ui/pull/245,2024-01-24T10:06:27Z,2024-01-29T11:15:20Z,6,11,MERGED
+youcan-ui,ToastContainer > Add toast.show trigger,https://github.com/youcan-shop/youcan-ui/pull/244,2024-01-24T09:35:16Z,2024-01-24T09:45:18Z,0,1,MERGED
+youcan-ui,YSHOP2-1289: Added new icons for RichText editor,https://github.com/youcan-shop/youcan-ui/pull/243,2024-01-22T13:33:50Z,2024-01-24T10:52:53Z,0,3,MERGED
+youcan-ui,YSHOP2-1244: Added benchmarking config for building vue3 package,https://github.com/youcan-shop/youcan-ui/pull/242,2024-01-16T13:41:59Z,2024-01-25T17:01:59Z,0,7,MERGED
+youcan-ui,YSHOP2-1276: Exported components types,https://github.com/youcan-shop/youcan-ui/pull/241,2024-01-16T11:59:00Z,2024-01-31T13:48:36Z,1,3,MERGED
+youcan-ui,Dark fix toast,https://github.com/youcan-shop/youcan-ui/pull/240,2024-01-16T09:43:13Z,2024-01-16T09:45:42Z,0,2,MERGED
+youcan-ui,YSHOP2-1275: Dropdwon > background color issue,https://github.com/youcan-shop/youcan-ui/pull/239,2024-01-16T09:24:29Z,2024-01-16T09:33:33Z,0,1,MERGED
+youcan-ui,YSHOP2-1274: Remove code component,https://github.com/youcan-shop/youcan-ui/pull/238,2024-01-15T13:48:18Z,2024-01-15T13:50:51Z,0,1,MERGED
+youcan-ui,YSHOP2-1270 : ToastContainer > new component,https://github.com/youcan-shop/youcan-ui/pull/237,2024-01-15T10:16:26Z,2024-01-15T13:52:44Z,0,7,MERGED
+youcan-ui,YSHOP2-1137-v2 : Rich text editor with froala,https://github.com/youcan-shop/youcan-ui/pull/236,2024-01-15T09:06:52Z,2024-02-01T09:49:11Z,2,32,MERGED
+youcan-ui,github workflows,https://github.com/youcan-shop/youcan-ui/pull/235,2024-01-09T11:25:55Z,2024-01-09T13:40:52Z,0,8,MERGED
+youcan-ui,YSHOP2-1259: Table > Add ellipsis to cell text,https://github.com/youcan-shop/youcan-ui/pull/234,2024-01-09T10:54:23Z,2024-01-09T11:09:39Z,0,1,MERGED
+youcan-ui,YSHOP2-1246 : Defined custom types for all components props,https://github.com/youcan-shop/youcan-ui/pull/233,2024-01-08T16:21:11Z,2024-01-09T09:07:47Z,0,15,MERGED
+youcan-ui,Added custom types for upload component props,https://github.com/youcan-shop/youcan-ui/pull/232,2024-01-08T15:41:45Z,2024-01-08T16:17:41Z,0,3,MERGED
+youcan-ui,Added custom types for toast toggle and tooltip props,https://github.com/youcan-shop/youcan-ui/pull/231,2024-01-08T14:46:56Z,2024-01-08T16:13:21Z,0,2,MERGED
+youcan-ui,Added custom types for tabs textarea and thumbnail props,https://github.com/youcan-shop/youcan-ui/pull/230,2024-01-08T14:14:14Z,2024-01-08T15:23:59Z,1,3,MERGED
+youcan-ui,Added custom types for table and tag props,https://github.com/youcan-shop/youcan-ui/pull/229,2024-01-08T11:28:39Z,2024-01-08T15:11:35Z,0,2,MERGED
+youcan-ui,Added custom types for slider spinner and status props,https://github.com/youcan-shop/youcan-ui/pull/228,2024-01-08T11:06:13Z,2024-01-08T13:55:10Z,0,1,MERGED
+youcan-ui,Added custom types for SettingsNav Sidebar and Skeleton props,https://github.com/youcan-shop/youcan-ui/pull/227,2024-01-08T09:26:07Z,2024-01-08T09:42:48Z,0,1,MERGED
+youcan-ui,Added custom types for radioList rating and search props,https://github.com/youcan-shop/youcan-ui/pull/226,2024-01-05T17:05:07Z,2024-01-08T09:09:41Z,0,1,MERGED
+youcan-ui,Added custom types for percentage popover and radio button props,https://github.com/youcan-shop/youcan-ui/pull/225,2024-01-05T16:45:46Z,2024-01-05T16:52:02Z,0,1,MERGED
+youcan-ui,Added custom types for modal multiswitch and pagination bar props,https://github.com/youcan-shop/youcan-ui/pull/224,2024-01-05T16:03:56Z,2024-01-05T16:25:55Z,2,2,MERGED
+youcan-ui,Added custom types for increment input loading props,https://github.com/youcan-shop/youcan-ui/pull/223,2024-01-05T15:38:30Z,2024-01-05T15:56:29Z,0,1,MERGED
+youcan-ui,Added custom types for components props,https://github.com/youcan-shop/youcan-ui/pull/222,2024-01-05T15:14:14Z,2024-01-05T15:32:06Z,0,1,MERGED
+youcan-ui,Added custom props for divider and dateInput,https://github.com/youcan-shop/youcan-ui/pull/221,2024-01-05T14:41:38Z,2024-01-05T14:56:18Z,0,3,MERGED
+youcan-ui,Added custom props for color component,https://github.com/youcan-shop/youcan-ui/pull/220,2024-01-05T14:24:33Z,2024-01-05T14:33:25Z,0,1,MERGED
+youcan-ui,Added custom type for buttons props,https://github.com/youcan-shop/youcan-ui/pull/219,2024-01-05T14:05:49Z,2024-01-05T14:11:01Z,0,1,MERGED
+youcan-ui,Added custom props type for alert-badge-checkbox,https://github.com/youcan-shop/youcan-ui/pull/218,2024-01-05T13:42:49Z,2024-01-05T13:56:17Z,0,1,MERGED
+youcan-ui,DARK: remove code component,https://github.com/youcan-shop/youcan-ui/pull/217,2024-01-05T10:58:56Z,2024-01-05T11:00:15Z,0,1,MERGED
+youcan-ui,YSHOP2-1241 : Upgrading vue and vite versions,https://github.com/youcan-shop/youcan-ui/pull/216,2024-01-05T09:58:58Z,2024-01-26T08:27:12Z,0,4,CLOSED
+youcan-ui,Update CONTRIBUTING.md to include step to run build,https://github.com/youcan-shop/youcan-ui/pull/215,2024-01-04T16:42:03Z,2024-01-05T10:04:36Z,2,2,MERGED
+youcan-ui,YSHOP2-1247: Input > Add Show/Hide if Input type is password,https://github.com/youcan-shop/youcan-ui/pull/214,2024-01-04T15:22:17Z,2024-01-04T16:45:31Z,0,2,MERGED
+youcan-ui,YSHOP2-1239: Dropdown > Add scroll-based pagination,https://github.com/youcan-shop/youcan-ui/pull/213,2024-01-04T10:39:10Z,2024-01-04T15:31:16Z,0,3,MERGED
+youcan-ui,YSHOP2-1237: Added new icons,https://github.com/youcan-shop/youcan-ui/pull/212,2024-01-04T09:25:19Z,2024-01-04T13:46:00Z,0,6,MERGED
+youcan-ui,DARK: dark-make-resourcePicker-variants-POJOs,https://github.com/youcan-shop/youcan-ui/pull/211,2024-01-03T09:35:07Z,2024-01-03T10:19:38Z,0,3,MERGED
+youcan-ui,Fixed dropdown types export,https://github.com/youcan-shop/youcan-ui/pull/210,2024-01-02T16:56:54Z,2024-01-02T16:59:31Z,0,1,MERGED
+youcan-ui,"Revert ""YSHOP2-1137: RichText > Added missing features and fixed bugs""",https://github.com/youcan-shop/youcan-ui/pull/209,2024-01-02T16:10:45Z,2024-01-02T16:12:28Z,1,1,MERGED
+youcan-ui,DARK: add searchPlaceholder as prop,https://github.com/youcan-shop/youcan-ui/pull/208,2024-01-02T13:55:58Z,2024-01-02T14:07:53Z,0,1,MERGED
+youcan-ui,DARK: add check to disable add button if no resources are selected,https://github.com/youcan-shop/youcan-ui/pull/207,2024-01-02T11:03:41Z,2024-01-02T11:29:57Z,0,3,MERGED
+youcan-ui,DARK: fix ResourcePicker resources reactive bug,https://github.com/youcan-shop/youcan-ui/pull/206,2024-01-02T09:30:04Z,2024-01-02T09:34:21Z,0,1,MERGED
+youcan-ui,UI-336: Updated Chromatic config file,https://github.com/youcan-shop/youcan-ui/pull/357,2024-05-29T16:17:59Z,2024-05-30T08:44:55Z,0,1,MERGED
+youcan-ui,UI-356: changed badge size type,https://github.com/youcan-shop/youcan-ui/pull/356,2024-05-29T11:11:53Z,2024-05-29T16:12:02Z,0,4,MERGED
+youcan-ui,Dark : added cache clearing step,https://github.com/youcan-shop/youcan-ui/pull/355,2024-05-28T16:39:36Z,2024-05-29T16:03:21Z,0,16,MERGED
+youcan-ui,UI-355 : Synced alto with vue3,https://github.com/youcan-shop/youcan-ui/pull/354,2024-05-28T11:12:09Z,2024-05-28T11:19:41Z,0,2,MERGED
+youcan-ui,dark : fixed workflow error,https://github.com/youcan-shop/youcan-ui/pull/353,2024-05-28T10:32:05Z,2024-05-28T10:40:37Z,0,3,MERGED
+youcan-ui,UI-354,https://github.com/youcan-shop/youcan-ui/pull/352,2024-05-28T09:37:04Z,2024-05-28T09:59:24Z,0,1,MERGED
+youcan-ui,UI-352: Slider > Add Touch Events to Slider Component,https://github.com/youcan-shop/youcan-ui/pull/351,2024-05-27T09:36:15Z,2024-05-27T14:29:16Z,0,2,MERGED
+youcan-ui,UI-350: Buttons > Fix icon only ratio,https://github.com/youcan-shop/youcan-ui/pull/350,2024-05-24T10:58:42Z,2024-05-24T11:02:28Z,0,1,MERGED
+youcan-ui,DARK: My time has come,https://github.com/youcan-shop/youcan-ui/pull/349,2024-05-24T09:20:16Z,2024-05-24T09:37:35Z,0,1,MERGED
+youcan-ui,UI-314: Refactored upload and preview component,https://github.com/youcan-shop/youcan-ui/pull/348,2024-05-23T15:31:50Z,2024-05-27T16:05:53Z,0,8,MERGED
+youcan-ui,UI-348: DateInput > 1 day range selection error,https://github.com/youcan-shop/youcan-ui/pull/347,2024-05-20T15:40:50Z,2024-05-20T15:46:17Z,0,1,MERGED
+youcan-ui,UI-344: DateInput > 1 day range selection error,https://github.com/youcan-shop/youcan-ui/pull/346,2024-05-20T14:26:01Z,2024-05-20T15:10:36Z,0,19,CLOSED
+youcan-ui,UI-252: Input > Improvement,https://github.com/youcan-shop/youcan-ui/pull/345,2024-05-20T10:49:52Z,2024-05-21T14:42:13Z,0,1,MERGED
+youcan-ui,UI-334 : Added arabic font support,https://github.com/youcan-shop/youcan-ui/pull/344,2024-05-17T15:53:42Z,2024-05-17T16:37:29Z,0,5,MERGED
+youcan-ui,UI-333: Button > button takes 100% width,https://github.com/youcan-shop/youcan-ui/pull/343,2024-05-17T11:05:19Z,2024-05-17T14:22:43Z,0,1,MERGED
+youcan-ui,UI-321: InputGroup > Refactor,https://github.com/youcan-shop/youcan-ui/pull/342,2024-05-17T10:44:47Z,2024-05-20T09:25:16Z,0,5,MERGED
+youcan-ui,UI-339: Added Placeholder Prop to DateInput Component,https://github.com/youcan-shop/youcan-ui/pull/341,2024-05-16T15:22:13Z,2024-05-16T15:52:02Z,0,1,MERGED
+youcan-ui,UI-334: Added fonts folder,https://github.com/youcan-shop/youcan-ui/pull/340,2024-05-15T15:11:39Z,2024-05-15T15:48:58Z,0,1,MERGED
+youcan-ui,UI-332 : Fixed non editable label,https://github.com/youcan-shop/youcan-ui/pull/338,2024-05-13T14:13:05Z,2024-05-13T14:30:37Z,0,1,MERGED
+youcan-ui,UI-329 :  integrating tests with storybook,https://github.com/youcan-shop/youcan-ui/pull/337,2024-05-10T16:27:57Z,2024-05-27T16:15:50Z,1,23,MERGED
+youcan-ui,UI-254 : improved ColorPicker,https://github.com/youcan-shop/youcan-ui/pull/336,2024-05-06T08:29:03Z,2024-05-27T08:39:41Z,2,11,MERGED
+youcan-ui,UI-271: DatePicker > Refactor,https://github.com/youcan-shop/youcan-ui/pull/335,2024-05-03T14:48:01Z,2024-05-24T11:12:05Z,3,27,MERGED
+youcan-ui,UI-247: Dropdown > Refactor,https://github.com/youcan-shop/youcan-ui/pull/334,2024-04-22T16:53:21Z,2024-05-15T08:57:33Z,0,25,MERGED
+youcan-ui,DARK: restored version,https://github.com/youcan-shop/youcan-ui/pull/333,2024-04-18T14:45:03Z,2024-04-18T14:51:10Z,0,1,MERGED
+youcan-ui,UI-323: Fixed RichText bugs,https://github.com/youcan-shop/youcan-ui/pull/332,2024-04-18T14:23:33Z,2024-04-18T14:31:09Z,0,3,MERGED
+youcan-ui,UI-322 : Fixed dropdownMenu Bug,https://github.com/youcan-shop/youcan-ui/pull/330,2024-04-18T11:10:46Z,2024-04-18T11:24:25Z,0,1,MERGED
+youcan-ui,UI-281: Improved Sidebar component,https://github.com/youcan-shop/youcan-ui/pull/328,2024-04-17T13:34:26Z,2024-05-17T10:40:59Z,0,6,MERGED
+youcan-ui,UI-286: Radio > Improvement,https://github.com/youcan-shop/youcan-ui/pull/327,2024-04-09T12:11:10Z,2024-04-15T08:51:55Z,0,2,MERGED
+youcan-ui,UI-295 : Improved MultiSwitch component,https://github.com/youcan-shop/youcan-ui/pull/326,2024-04-08T12:17:19Z,2024-04-08T13:12:31Z,0,2,MERGED
+youcan-ui,UI-250: Loading > Refactor,https://github.com/youcan-shop/youcan-ui/pull/325,2024-04-08T11:17:18Z,2024-04-17T09:33:02Z,0,8,MERGED
+youcan-ui,UI-266 : Improved Rating component,https://github.com/youcan-shop/youcan-ui/pull/324,2024-04-05T02:37:47Z,2024-04-08T12:27:39Z,0,2,MERGED
+youcan-ui,UI 257 : Improved Button component,https://github.com/youcan-shop/youcan-ui/pull/323,2024-04-01T15:06:50Z,2024-04-18T08:24:36Z,2,13,MERGED
+youcan-ui,"UI-446: Added ""Cancel"" and ""Apply"" buttons",https://github.com/youcan-shop/youcan-ui/pull/391,2024-07-29T16:46:28Z,2024-07-31T14:13:52Z,0,1,MERGED
+youcan-ui,Dark : fixed types in Richtext,https://github.com/youcan-shop/youcan-ui/pull/390,2024-07-25T13:36:51Z,2024-07-25T13:59:15Z,0,1,MERGED
+youcan-ui,UI-435: Removed dynamic components usage from Button component,https://github.com/youcan-shop/youcan-ui/pull/389,2024-07-18T08:41:01Z,2024-07-18T10:06:48Z,0,2,MERGED
+youcan-ui,UI 424: Added Breadcrumbs component,https://github.com/youcan-shop/youcan-ui/pull/388,2024-07-17T18:48:50Z,2024-07-18T10:36:52Z,0,6,MERGED
+youcan-ui,UI-415: Added Avatar component,https://github.com/youcan-shop/youcan-ui/pull/387,2024-07-16T10:01:50Z,2024-07-18T10:23:16Z,0,3,MERGED
+youcan-ui,UI-420: Added editable input in color picker component,https://github.com/youcan-shop/youcan-ui/pull/386,2024-07-12T11:16:00Z,2024-07-25T13:19:55Z,0,3,MERGED
+youcan-ui,UI-423: Added Accordion component,https://github.com/youcan-shop/youcan-ui/pull/385,2024-07-11T11:05:26Z,2024-07-18T09:19:32Z,0,3,MERGED
+youcan-ui,UI-433: Removed defineAsyncComponent and Use Component Directly,https://github.com/youcan-shop/youcan-ui/pull/384,2024-07-04T14:02:33Z,2024-07-05T08:58:17Z,0,2,MERGED
+youcan-ui,UI-419: Added story to Progress,https://github.com/youcan-shop/youcan-ui/pull/383,2024-07-03T14:57:19Z,2024-07-03T16:19:32Z,0,1,MERGED
+youcan-ui,Added story to Dropdown,https://github.com/youcan-shop/youcan-ui/pull/382,2024-07-03T09:48:24Z,2024-07-03T15:16:51Z,0,1,MERGED
+youcan-ui,UI-417: Added story to Table,https://github.com/youcan-shop/youcan-ui/pull/381,2024-07-03T09:02:57Z,2024-07-03T15:06:19Z,0,1,MERGED
+youcan-ui,Dark: update chromatic config,https://github.com/youcan-shop/youcan-ui/pull/380,2024-07-02T15:29:41Z,2024-07-02T15:43:18Z,0,2,CLOSED
+youcan-ui,UI-416: Added story to DatePicker,https://github.com/youcan-shop/youcan-ui/pull/379,2024-07-02T14:38:37Z,2024-07-03T15:05:54Z,0,1,MERGED
+youcan-ui,UI-412: Fixed color picker bug in tag,https://github.com/youcan-shop/youcan-ui/pull/378,2024-06-28T13:41:07Z,2024-07-02T15:43:43Z,0,5,MERGED
+youcan-ui,Dark: Fixed playwrite installation command,https://github.com/youcan-shop/youcan-ui/pull/377,2024-06-25T15:40:40Z,2024-06-25T16:10:39Z,0,3,MERGED
+youcan-ui,UI-410: Status > remove editable prop,https://github.com/youcan-shop/youcan-ui/pull/376,2024-06-25T14:47:58Z,2024-06-25T15:15:38Z,0,1,MERGED
+youcan-ui,UI-368: Removed price for resource with variants,https://github.com/youcan-shop/youcan-ui/pull/375,2024-06-21T15:23:57Z,2024-06-24T08:54:41Z,0,1,MERGED
+youcan-ui,UI-395: Spinner > Improvement new variants,https://github.com/youcan-shop/youcan-ui/pull/374,2024-06-19T13:57:37Z,2024-06-20T09:06:23Z,0,4,MERGED
+youcan-ui,Dark: added ts expect error,https://github.com/youcan-shop/youcan-ui/pull/373,2024-06-13T17:16:56Z,2024-06-13T17:19:33Z,0,1,MERGED
+youcan-ui,UI-396: updated some packages to fix vulnerabilities,https://github.com/youcan-shop/youcan-ui/pull/372,2024-06-13T14:18:38Z,2024-07-18T13:29:09Z,0,4,MERGED
+youcan-ui,Dark: Updated bumpp version and added new config,https://github.com/youcan-shop/youcan-ui/pull/371,2024-06-13T10:46:29Z,2024-06-13T10:53:58Z,0,2,MERGED
+youcan-ui,UI-394: Hiding the dropdown list when the user begins scrolling.,https://github.com/youcan-shop/youcan-ui/pull/370,2024-06-13T10:44:18Z,2024-06-13T10:52:57Z,0,1,MERGED
+youcan-ui,Dark: changes start to flex-start,https://github.com/youcan-shop/youcan-ui/pull/369,2024-06-13T09:04:20Z,2024-06-13T09:17:57Z,0,1,MERGED
+youcan-ui,UI-393: Fixed color input scroll,https://github.com/youcan-shop/youcan-ui/pull/368,2024-06-12T16:09:45Z,2024-06-12T16:23:28Z,0,1,MERGED
+youcan-ui,UI-367: Fixed popover animation delay,https://github.com/youcan-shop/youcan-ui/pull/367,2024-06-12T14:33:17Z,2024-06-24T09:07:02Z,0,6,MERGED
+youcan-ui,UI-377: Hide calendar when user begins scrolling,https://github.com/youcan-shop/youcan-ui/pull/366,2024-06-11T15:46:25Z,2024-06-12T13:18:02Z,0,1,MERGED
+youcan-ui,Dark: removed .jpg,https://github.com/youcan-shop/youcan-ui/pull/365,2024-06-10T16:55:48Z,2024-06-11T09:02:27Z,0,1,MERGED
+youcan-ui,UI-371: changed start to flex-start,https://github.com/youcan-shop/youcan-ui/pull/364,2024-06-10T13:51:29Z,2024-06-10T14:34:47Z,0,1,MERGED
+youcan-ui,UI-331: Fixed missing space in Upload component,https://github.com/youcan-shop/youcan-ui/pull/363,2024-06-10T11:33:33Z,2024-06-10T13:28:01Z,0,2,MERGED
+youcan-ui,UI-365: Improved Divider dashed style,https://github.com/youcan-shop/youcan-ui/pull/362,2024-06-10T11:11:28Z,2024-06-10T13:19:30Z,0,1,MERGED
+youcan-ui,UI-372: added missing export,https://github.com/youcan-shop/youcan-ui/pull/361,2024-06-07T14:40:52Z,2024-06-07T14:43:52Z,0,1,MERGED
+youcan-ui,removed upload component for debugging,https://github.com/youcan-shop/youcan-ui/pull/360,2024-06-06T16:14:35Z,2024-06-06T16:39:54Z,0,1,CLOSED
+youcan-ui,Require href attribute only for links,https://github.com/youcan-shop/youcan-ui/pull/359,2024-06-03T16:48:24Z,2024-06-10T13:19:13Z,0,1,MERGED
+youcan-ui,UI-494: Added a custom preset + transformers,https://github.com/youcan-shop/youcan-ui/pull/424,2024-10-31T11:17:36Z,2024-12-31T04:28:41Z,0,1,CLOSED
+youcan-ui,UI-493 : Tokens package initial commit,https://github.com/youcan-shop/youcan-ui/pull/423,2024-10-28T08:41:59Z,2024-12-31T04:27:52Z,1,2,CLOSED
+youcan-ui,UI-486: Extracted modal style,https://github.com/youcan-shop/youcan-ui/pull/422,2024-10-09T10:57:40Z,2024-10-25T16:09:58Z,1,1,CLOSED
+youcan-ui,UI-485: Extract calendar component from DatePicker for reusability,https://github.com/youcan-shop/youcan-ui/pull/421,2024-10-09T09:14:25Z,2024-10-10T13:03:50Z,1,1,MERGED
+youcan-ui,UI-482: Extracted Toggle component styles,https://github.com/youcan-shop/youcan-ui/pull/420,2024-10-04T14:02:22Z,2024-10-10T13:24:59Z,1,3,MERGED
+youcan-ui,UI-483 : Extracted Tooltip component styles,https://github.com/youcan-shop/youcan-ui/pull/419,2024-10-04T14:01:03Z,2024-10-25T16:09:48Z,1,2,MERGED
+youcan-ui,UI-484 : Extracted Input component styles,https://github.com/youcan-shop/youcan-ui/pull/418,2024-10-03T15:19:01Z,2024-10-04T15:52:15Z,1,2,MERGED
+youcan-ui,UI-481: Extracted Thumbnail style component,https://github.com/youcan-shop/youcan-ui/pull/417,2024-10-03T13:32:06Z,2024-10-03T15:12:37Z,0,4,MERGED
+youcan-ui,UI-479: Extracted status style component,https://github.com/youcan-shop/youcan-ui/pull/416,2024-10-02T16:07:18Z,2024-10-03T13:45:16Z,1,2,MERGED
+youcan-ui,UI-480: Extracted Textarea style component,https://github.com/youcan-shop/youcan-ui/pull/415,2024-10-02T10:16:32Z,2024-10-04T16:37:43Z,1,2,MERGED
+youcan-ui,UI-478: Extracted Skeleton style component,https://github.com/youcan-shop/youcan-ui/pull/414,2024-09-27T13:36:53Z,2024-09-30T09:47:09Z,1,1,MERGED
+youcan-ui,UI-477: Extracted Rating style component,https://github.com/youcan-shop/youcan-ui/pull/413,2024-09-27T13:16:24Z,2024-10-02T13:35:40Z,1,3,MERGED
+youcan-ui,UI-475: Extracted Note style component,https://github.com/youcan-shop/youcan-ui/pull/412,2024-09-27T11:15:37Z,2024-09-30T15:50:17Z,1,2,MERGED
+youcan-ui,UI-472: Extracted Divider style component,https://github.com/youcan-shop/youcan-ui/pull/411,2024-09-27T10:47:33Z,2024-09-30T11:06:40Z,1,3,MERGED
+youcan-ui,UI-473: Extracted lLoader style component,https://github.com/youcan-shop/youcan-ui/pull/410,2024-09-23T10:01:51Z,2024-09-30T09:54:05Z,2,3,MERGED
+youcan-ui,UI-474: Extracted RadioGroup style component,https://github.com/youcan-shop/youcan-ui/pull/409,2024-09-23T09:01:19Z,2024-09-30T09:51:39Z,1,3,MERGED
+youcan-ui,UI-476: Extracted RadioList style component,https://github.com/youcan-shop/youcan-ui/pull/408,2024-09-23T08:47:54Z,2024-09-30T09:57:04Z,1,4,MERGED
+youcan-ui,UI-466: Extracted Breadcrumbs style component,https://github.com/youcan-shop/youcan-ui/pull/407,2024-09-13T10:35:33Z,2024-10-03T13:38:23Z,1,5,MERGED
+youcan-ui,UI-468: Checkbox Component Style Extraction,https://github.com/youcan-shop/youcan-ui/pull/406,2024-09-13T10:17:55Z,2024-09-13T14:11:32Z,1,2,MERGED
+youcan-ui,UI-465: Extracted badge style,https://github.com/youcan-shop/youcan-ui/pull/405,2024-09-12T13:17:55Z,2024-09-13T11:18:46Z,1,1,MERGED
+youcan-ui,UI-463: Extracted Alert style,https://github.com/youcan-shop/youcan-ui/pull/404,2024-09-11T15:47:27Z,2024-09-11T16:46:44Z,2,2,MERGED
+youcan-ui,UI-434: Updated alert icons,https://github.com/youcan-shop/youcan-ui/pull/403,2024-09-11T13:42:05Z,2024-09-11T14:15:21Z,0,2,MERGED
+youcan-ui,UI-464: Avatar Component Style Extraction,https://github.com/youcan-shop/youcan-ui/pull/402,2024-09-11T09:00:50Z,2024-09-11T16:19:50Z,1,1,MERGED
+youcan-ui,Dark: Updated chromatic workflow,https://github.com/youcan-shop/youcan-ui/pull/401,2024-09-10T14:30:06Z,2024-09-11T09:09:52Z,1,1,MERGED
+youcan-ui,UI-470: Added text alignment prop to RichText component,https://github.com/youcan-shop/youcan-ui/pull/400,2024-09-09T16:36:58Z,2024-09-09T16:45:57Z,1,1,MERGED
+youcan-ui,UI-460: Extracting button styles,https://github.com/youcan-shop/youcan-ui/pull/399,2024-09-09T14:23:04Z,2024-09-09T16:09:49Z,1,4,MERGED
+youcan-ui,UI-461: Fixed redundent border in RichText,https://github.com/youcan-shop/youcan-ui/pull/398,2024-09-06T13:47:06Z,2024-09-06T14:43:09Z,0,1,MERGED
+youcan-ui,UI-458: Added style package to packages,https://github.com/youcan-shop/youcan-ui/pull/397,2024-09-04T13:37:53Z,2024-09-05T09:14:15Z,0,4,MERGED
+youcan-ui,UI-432: Removed list style,https://github.com/youcan-shop/youcan-ui/pull/396,2024-08-30T15:37:33Z,2024-08-30T15:53:37Z,0,2,MERGED
+youcan-ui,UI-397 : upgrading unocss,https://github.com/youcan-shop/youcan-ui/pull/395,2024-08-05T13:23:47Z,2024-08-05T13:41:12Z,0,6,MERGED
+youcan-ui,UI-453: Removed hover on separator,https://github.com/youcan-shop/youcan-ui/pull/393,2024-08-01T09:31:23Z,2024-08-01T09:37:08Z,0,1,MERGED
+youcan-ui,UI-445: Added Click on year/month to cancel,https://github.com/youcan-shop/youcan-ui/pull/392,2024-08-01T09:12:06Z,2024-08-01T09:42:43Z,0,1,MERGED
+youcan-ui,UI-505 : Modal > Allow the user to define their own modal footer [vue3],https://github.com/youcan-shop/youcan-ui/pull/427,2024-11-19T21:25:29Z,2024-11-20T08:43:29Z,3,7,MERGED
+youcan-ui,Dark: Fix node asserts,https://github.com/youcan-shop/youcan-ui/pull/426,2024-11-19T14:56:06Z,2024-11-19T15:03:35Z,0,4,CLOSED
+youcan-ui,UI-506: ui-vue3 > Add ability to clear date picker,https://github.com/youcan-shop/youcan-ui/pull/425,2024-11-19T13:52:45Z,2024-11-19T14:37:09Z,1,1,MERGED
+youcan-ui,chore: removed inter.ttf,https://github.com/youcan-shop/youcan-ui/pull/429,2025-01-08T15:07:57Z,2025-01-08T15:09:45Z,1,1,MERGED
+youcan-ui,chore: merge pages into main,https://github.com/youcan-shop/youcan-ui/pull/428,2025-01-08T15:06:21Z,2025-01-08T15:06:39Z,1,2,MERGED

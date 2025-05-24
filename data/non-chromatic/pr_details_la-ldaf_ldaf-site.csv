@@ -1,0 +1,183 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+ldaf-site,Spin up separate Vercel app for Storybook,https://github.com/la-ldaf/ldaf-site/pull/188,2023-05-31T19:12:23Z,2023-05-31T20:57:13Z,4,3,MERGED
+ldaf-site,Add Lighthouse reports to Meta-Site,https://github.com/la-ldaf/ldaf-site/pull/170,2023-05-26T19:21:18Z,2023-06-01T21:24:44Z,5,7,MERGED
+ldaf-site,Add Storybook to Meta-Site,https://github.com/la-ldaf/ldaf-site/pull/168,2023-05-25T19:50:46Z,2023-05-30T17:35:16Z,3,23,MERGED
+ldaf-site,"Add Contentful connection via SDK, update home page",https://github.com/la-ldaf/ldaf-site/pull/165,2023-05-23T19:20:34Z,2023-06-01T16:24:38Z,9,17,MERGED
+ldaf-site,Move Meta-Site from GitHub Pages to Vercel,https://github.com/la-ldaf/ldaf-site/pull/161,2023-05-22T22:42:11Z,2023-05-30T17:05:18Z,9,19,MERGED
+ldaf-site,Fully typed GraphQL queries,https://github.com/la-ldaf/ldaf-site/pull/152,2023-05-19T02:36:06Z,2023-06-05T20:23:00Z,4,2,MERGED
+ldaf-site,ESLint linting for GraphQL queries,https://github.com/la-ldaf/ldaf-site/pull/151,2023-05-18T22:53:04Z,2023-06-01T21:30:16Z,4,1,MERGED
+ldaf-site,Generate GraphQL schema,https://github.com/la-ldaf/ldaf-site/pull/150,2023-05-18T21:57:48Z,2023-06-01T21:05:35Z,4,2,MERGED
+ldaf-site,Fetch content for Nav from Contentful,https://github.com/la-ldaf/ldaf-site/pull/132,2023-05-12T20:15:54Z,2023-05-31T23:01:54Z,4,29,MERGED
+ldaf-site,Add readme to vite-plugin-import-as-bundle-string,https://github.com/la-ldaf/ldaf-site/pull/131,2023-05-11T01:42:38Z,2023-05-11T18:09:00Z,3,1,MERGED
+ldaf-site,Add readme to vite-plugin-ldaf-icon,https://github.com/la-ldaf/ldaf-site/pull/130,2023-05-11T01:34:29Z,2023-05-11T19:06:43Z,4,2,MERGED
+ldaf-site,Add readme.md to vite-plugin-blurhash,https://github.com/la-ldaf/ldaf-site/pull/129,2023-05-11T01:10:41Z,2023-05-11T18:08:05Z,3,1,MERGED
+ldaf-site,Decision Doc: Preview Authentication,https://github.com/la-ldaf/ldaf-site/pull/128,2023-05-11T00:31:44Z,2023-11-10T00:25:23Z,3,1,CLOSED
+ldaf-site,Add Card Component,https://github.com/la-ldaf/ldaf-site/pull/127,2023-05-10T23:32:07Z,2023-05-17T17:10:49Z,10,12,MERGED
+ldaf-site,Add support for Vercel Speed Insights API,https://github.com/la-ldaf/ldaf-site/pull/110,2023-05-05T00:34:36Z,2023-08-23T22:29:59Z,6,1,MERGED
+ldaf-site,Set a reasonable time for dependabot to run.,https://github.com/la-ldaf/ldaf-site/pull/109,2023-05-04T22:25:23Z,2023-05-05T01:40:46Z,3,1,MERGED
+ldaf-site,npm: bump storybook from 7.1.0-alpha.6 to 7.1.0-alpha.12,https://github.com/la-ldaf/ldaf-site/pull/107,2023-05-04T22:03:27Z,2023-05-04T22:12:28Z,3,1,MERGED
+ldaf-site,npm: bump vitest from 0.30.1 to 0.31.0,https://github.com/la-ldaf/ldaf-site/pull/105,2023-05-04T20:54:19Z,2023-05-18T18:23:15Z,3,1,CLOSED
+ldaf-site,Decision Doc: Image Providers,https://github.com/la-ldaf/ldaf-site/pull/104,2023-05-04T20:03:47Z,2023-05-17T21:39:31Z,3,2,MERGED
+ldaf-site,LDAF-249 Set up basic Contentful fetch service and example page,https://github.com/la-ldaf/ldaf-site/pull/103,2023-05-04T18:27:09Z,2023-05-17T17:10:31Z,15,18,MERGED
+ldaf-site,Add decision doc for USWDS,https://github.com/la-ldaf/ldaf-site/pull/95,2023-05-03T20:39:25Z,2023-05-10T22:25:48Z,13,6,MERGED
+ldaf-site,Add bundle visualizer to meta-site,https://github.com/la-ldaf/ldaf-site/pull/86,2023-05-02T01:51:54Z,2023-05-04T01:52:57Z,3,2,MERGED
+ldaf-site,Button: fix unstyled button :hover and :active styles,https://github.com/la-ldaf/ldaf-site/pull/79,2023-04-26T21:34:40Z,2023-05-02T21:50:45Z,6,9,MERGED
+ldaf-site,Add lazy image loading Storybook example,https://github.com/la-ldaf/ldaf-site/pull/75,2023-04-26T01:19:34Z,2023-04-27T18:05:16Z,8,6,MERGED
+ldaf-site,Make Storybook preview import global app styles,https://github.com/la-ldaf/ldaf-site/pull/74,2023-04-25T22:34:35Z,2023-04-25T22:47:25Z,1,1,MERGED
+ldaf-site,Add Svelte search component,https://github.com/la-ldaf/ldaf-site/pull/73,2023-04-25T21:40:51Z,2023-04-27T02:09:06Z,2,5,MERGED
+ldaf-site,LDAF-253 Add unit test code coverage reporting in CI and set up deploying reports to GitHub Pages,https://github.com/la-ldaf/ldaf-site/pull/68,2023-04-24T23:06:04Z,2023-05-02T22:01:00Z,7,59,MERGED
+ldaf-site,Add Button component,https://github.com/la-ldaf/ldaf-site/pull/63,2023-04-22T02:13:28Z,2023-04-26T21:20:53Z,6,24,MERGED
+ldaf-site,Allow building the site without manually creating a .env file,https://github.com/la-ldaf/ldaf-site/pull/62,2023-04-22T00:54:50Z,2023-04-24T18:15:28Z,1,1,MERGED
+ldaf-site,Banner: remove console.log statement,https://github.com/la-ldaf/ldaf-site/pull/61,2023-04-21T23:53:41Z,2023-04-24T18:15:49Z,1,1,MERGED
+ldaf-site,Refactor IntersectionObserver and add Storybook story,https://github.com/la-ldaf/ldaf-site/pull/60,2023-04-21T23:36:26Z,2023-04-25T17:50:34Z,3,6,MERGED
+ldaf-site,LDAF-237 Improve end-to-end testing and run the tests in CI,https://github.com/la-ldaf/ldaf-site/pull/59,2023-04-21T20:23:57Z,2023-04-26T22:05:24Z,8,18,MERGED
+ldaf-site,Image: support for responsive images,https://github.com/la-ldaf/ldaf-site/pull/57,2023-04-21T09:16:26Z,2023-04-27T21:54:05Z,3,8,MERGED
+ldaf-site,Icon: lots of improvements,https://github.com/la-ldaf/ldaf-site/pull/54,2023-04-21T05:55:14Z,2023-04-26T22:06:22Z,8,10,MERGED
+ldaf-site,Stop robots from crawling the site until we're ready to launch,https://github.com/la-ldaf/ldaf-site/pull/51,2023-04-20T00:30:35Z,2023-04-20T01:39:00Z,1,1,MERGED
+ldaf-site,"Add Site Header Logo/Title Component, overall styles",https://github.com/la-ldaf/ldaf-site/pull/50,2023-04-19T22:00:43Z,2023-05-02T22:35:08Z,14,24,MERGED
+ldaf-site,Run dependabot daily and increase max open PRs to 10.,https://github.com/la-ldaf/ldaf-site/pull/41,2023-04-19T20:42:49Z,2023-04-19T21:20:53Z,1,1,MERGED
+ldaf-site,LDAF-231 Configure Vercel,https://github.com/la-ldaf/ldaf-site/pull/40,2023-04-18T22:59:31Z,2023-04-19T22:01:02Z,9,7,MERGED
+ldaf-site,Bump Storybook dependencies and configure Dependabot to ignore future updates.,https://github.com/la-ldaf/ldaf-site/pull/33,2023-04-18T17:58:08Z,2023-04-18T22:19:25Z,0,2,MERGED
+ldaf-site,Update Storybook intro page and component directory,https://github.com/la-ldaf/ldaf-site/pull/32,2023-04-17T23:23:01Z,2023-04-18T16:12:43Z,0,1,MERGED
+ldaf-site,Update Storybook to 7.0.5,https://github.com/la-ldaf/ldaf-site/pull/31,2023-04-17T22:42:54Z,2023-04-17T23:24:53Z,0,1,MERGED
+ldaf-site,Remove boilerplate from intro-storybook-svelte-template.,https://github.com/la-ldaf/ldaf-site/pull/29,2023-04-17T20:36:18Z,2023-04-17T21:47:12Z,0,1,MERGED
+ldaf-site,Dan/ready for review test,https://github.com/la-ldaf/ldaf-site/pull/23,2023-04-14T17:03:25Z,2023-04-14T17:13:30Z,0,3,CLOSED
+ldaf-site,Render Contentful rich text content,https://github.com/la-ldaf/ldaf-site/pull/22,2023-04-14T02:19:15Z,2023-05-05T20:14:30Z,10,23,MERGED
+ldaf-site,LDAF-207 Set up Figma design file embeds within Storybook stories,https://github.com/la-ldaf/ldaf-site/pull/21,2023-04-13T21:28:13Z,2023-04-14T19:41:57Z,0,1,MERGED
+ldaf-site,LDAF-210 Add SvelteKit decision doc,https://github.com/la-ldaf/ldaf-site/pull/20,2023-04-13T17:52:46Z,2023-04-14T19:41:23Z,0,1,MERGED
+ldaf-site,Lazy Image component,https://github.com/la-ldaf/ldaf-site/pull/18,2023-04-13T02:44:37Z,2023-04-20T01:38:33Z,16,28,MERGED
+ldaf-site,LDAF-155: Add GitHub Action workflow for pull requests,https://github.com/la-ldaf/ldaf-site/pull/17,2023-04-12T22:49:30Z,2023-04-14T18:25:39Z,3,3,MERGED
+ldaf-site,Review suggestions for #2,https://github.com/la-ldaf/ldaf-site/pull/16,2023-04-12T22:42:53Z,2023-04-13T20:06:54Z,3,5,MERGED
+ldaf-site,npm: bump @storybook/* to 7.0.4,https://github.com/la-ldaf/ldaf-site/pull/15,2023-04-12T17:22:21Z,2023-04-13T00:30:23Z,0,2,MERGED
+ldaf-site,LDAF-216: Refactor USWDS dependency to single global import,https://github.com/la-ldaf/ldaf-site/pull/9,2023-04-11T19:09:58Z,2023-04-17T21:46:58Z,7,6,MERGED
+ldaf-site,Set up automatic Dependabot version updates.,https://github.com/la-ldaf/ldaf-site/pull/8,2023-04-10T22:17:13Z,2023-04-12T16:40:23Z,1,3,MERGED
+ldaf-site,Add engineering process doc,https://github.com/la-ldaf/ldaf-site/pull/6,2023-04-10T21:22:07Z,2023-04-14T00:56:08Z,1,2,MERGED
+ldaf-site,LDAF-199 Implement primary navigation on site,https://github.com/la-ldaf/ldaf-site/pull/4,2023-04-10T19:17:25Z,2023-04-14T21:26:08Z,6,21,MERGED
+ldaf-site,LDAF-177 Add Nav component,https://github.com/la-ldaf/ldaf-site/pull/2,2023-04-10T19:06:43Z,2023-04-14T19:37:47Z,11,17,MERGED
+ldaf-site,Hard code some content on the licensing and permits page for user testing.,https://github.com/la-ldaf/ldaf-site/pull/342,2023-07-31T20:39:24Z,2023-07-31T21:17:58Z,3,1,MERGED
+ldaf-site,Core Content Pages: Render CTAs and contact cards within Service Entries,https://github.com/la-ldaf/ldaf-site/pull/340,2023-07-28T23:07:52Z,2023-08-03T20:01:09Z,2,34,CLOSED
+ldaf-site,LDAF-348 Create VideoCard component.,https://github.com/la-ldaf/ldaf-site/pull/339,2023-07-26T23:50:23Z,2023-07-31T23:05:26Z,10,15,MERGED
+ldaf-site,Update secondary nav links and stub out 'Licensing and permits' page.,https://github.com/la-ldaf/ldaf-site/pull/338,2023-07-26T21:24:01Z,2023-07-26T21:29:57Z,3,1,MERGED
+ldaf-site,LDAF-341 Create Top Tier pages,https://github.com/la-ldaf/ldaf-site/pull/334,2023-07-25T17:32:51Z,2023-07-26T23:26:27Z,9,9,MERGED
+ldaf-site,Suppress @rollup/plugin-typescript warnings on +page.server.ts files.,https://github.com/la-ldaf/ldaf-site/pull/330,2023-07-24T23:34:41Z,2023-07-27T19:11:38Z,6,1,MERGED
+ldaf-site,Create Service Group Page,https://github.com/la-ldaf/ldaf-site/pull/317,2023-07-18T19:06:40Z,2023-07-26T01:42:29Z,23,35,MERGED
+ldaf-site,LDAF-350 Populate side navs using page metadata. ,https://github.com/la-ldaf/ldaf-site/pull/305,2023-07-13T23:55:50Z,2023-07-24T21:53:07Z,6,5,MERGED
+ldaf-site,LDAF-350 Populate main menu using page metadata.,https://github.com/la-ldaf/ldaf-site/pull/304,2023-07-13T19:14:32Z,2023-07-24T20:45:42Z,5,2,MERGED
+ldaf-site,Update @typescript-eslint/eslint-plugin and @typescript-eslint/parser to 6.0.0,https://github.com/la-ldaf/ldaf-site/pull/294,2023-07-12T15:15:54Z,2023-07-13T19:19:34Z,3,1,MERGED
+ldaf-site,LDAF-350 Create and populate breadcrumbs on all pages using a shared layout.,https://github.com/la-ldaf/ldaf-site/pull/293,2023-07-11T21:00:18Z,2023-07-24T19:15:57Z,5,6,MERGED
+ldaf-site,Quick fix to reflect change to Office Page model in Contentful.,https://github.com/la-ldaf/ldaf-site/pull/285,2023-07-05T23:07:00Z,2023-07-06T00:27:07Z,4,2,MERGED
+ldaf-site,Render Contentful assets,https://github.com/la-ldaf/ldaf-site/pull/279,2023-07-04T04:57:11Z,2023-08-02T19:47:27Z,17,35,MERGED
+ldaf-site,Basic header image optimization,https://github.com/la-ldaf/ldaf-site/pull/278,2023-07-04T02:00:53Z,2023-07-21T00:59:37Z,5,11,MERGED
+ldaf-site,LDAF-350 Set up foundation for future navigation and routing.,https://github.com/la-ldaf/ldaf-site/pull/273,2023-06-30T17:42:35Z,2023-07-24T15:36:43Z,8,16,MERGED
+ldaf-site,Banner components,https://github.com/la-ldaf/ldaf-site/pull/266,2023-06-27T17:28:32Z,2023-07-12T18:29:27Z,8,10,MERGED
+ldaf-site,Alert Component,https://github.com/la-ldaf/ldaf-site/pull/260,2023-06-26T17:59:15Z,2023-06-29T16:06:03Z,3,7,MERGED
+ldaf-site,Fix type errors in Dan's Algolia PR,https://github.com/la-ldaf/ldaf-site/pull/245,2023-06-21T01:45:16Z,2023-06-27T23:02:40Z,3,5,MERGED
+ldaf-site,Remove Chromatic in favor of publishing Storybook to Vercel.,https://github.com/la-ldaf/ldaf-site/pull/233,2023-06-14T17:36:18Z,2023-06-15T17:48:05Z,4,2,MERGED
+ldaf-site,Run prebuild before dev,https://github.com/la-ldaf/ldaf-site/pull/219,2023-06-08T00:42:55Z,2023-06-08T19:21:46Z,3,1,MERGED
+ldaf-site,Attempt to upload artifacts even if the artifact creation step exited with an error,https://github.com/la-ldaf/ldaf-site/pull/218,2023-06-07T23:22:04Z,2023-06-08T22:34:28Z,3,3,MERGED
+ldaf-site,Add search page,https://github.com/la-ldaf/ldaf-site/pull/212,2023-06-06T16:00:30Z,2023-07-26T02:37:21Z,22,36,MERGED
+ldaf-site,Server side previewing,https://github.com/la-ldaf/ldaf-site/pull/209,2023-06-05T23:18:10Z,2023-07-01T04:33:56Z,4,41,CLOSED
+ldaf-site,GraphQL contentful client,https://github.com/la-ldaf/ldaf-site/pull/204,2023-06-03T01:11:45Z,2023-06-26T19:40:12Z,7,5,MERGED
+ldaf-site,Create office pages,https://github.com/la-ldaf/ldaf-site/pull/196,2023-06-01T22:20:51Z,2023-06-26T21:39:14Z,13,48,MERGED
+ldaf-site,Update @graphql-codegen dependencies,https://github.com/la-ldaf/ldaf-site/pull/195,2023-06-01T22:11:32Z,2023-06-01T23:18:59Z,3,1,MERGED
+ldaf-site,"Show an empty state for events, not the 404 page, when events.length is 0",https://github.com/la-ldaf/ldaf-site/pull/514,2023-10-27T16:28:12Z,2023-11-09T07:30:24Z,3,2,MERGED
+ldaf-site,"Update footer addresss and phone number, remove terms of service link",https://github.com/la-ldaf/ldaf-site/pull/513,2023-10-27T16:21:38Z,2023-10-27T16:35:40Z,3,1,MERGED
+ldaf-site,Allow logging in and out of site with personal access token,https://github.com/la-ldaf/ldaf-site/pull/511,2023-10-27T02:55:18Z,2023-11-09T23:18:16Z,10,32,MERGED
+ldaf-site,Split Event Description into multiple sub-fields,https://github.com/la-ldaf/ldaf-site/pull/510,2023-10-26T20:58:19Z,2023-11-14T17:59:58Z,5,7,MERGED
+ldaf-site,Move Contentful client initialization to hook,https://github.com/la-ldaf/ldaf-site/pull/502,2023-10-14T00:36:28Z,2023-10-17T03:55:09Z,5,13,MERGED
+ldaf-site,Resolve TS errors for CTAs embedded in rich text fields,https://github.com/la-ldaf/ldaf-site/pull/499,2023-10-10T21:33:44Z,2023-10-16T20:29:50Z,1,1,MERGED
+ldaf-site,Add image gallery to Core Content Page,https://github.com/la-ldaf/ldaf-site/pull/497,2023-10-09T19:10:52Z,2023-10-24T01:17:58Z,7,16,MERGED
+ldaf-site,[LDAF-370] Create <CardGroup> component to organize cards into a grid layout,https://github.com/la-ldaf/ldaf-site/pull/494,2023-10-06T22:31:38Z,2023-10-23T20:24:47Z,3,6,MERGED
+ldaf-site,[LDAF-427] Update link and button colors across site by using USWDS theming settings,https://github.com/la-ldaf/ldaf-site/pull/489,2023-10-05T17:22:55Z,2023-10-06T18:39:31Z,14,6,MERGED
+ldaf-site,[LDAF-429] Increase limits for references to Services and child Core Content pages on Core Content pages,https://github.com/la-ldaf/ldaf-site/pull/486,2023-09-27T22:25:09Z,2023-09-28T17:36:09Z,3,2,MERGED
+ldaf-site,[LDAF-431] Create 404 error page,https://github.com/la-ldaf/ldaf-site/pull/479,2023-09-21T22:12:38Z,2023-10-02T17:55:03Z,5,5,MERGED
+ldaf-site,Run `npm audit fix`,https://github.com/la-ldaf/ldaf-site/pull/477,2023-09-21T17:42:34Z,2023-09-22T17:58:24Z,3,2,MERGED
+ldaf-site,[LDAF-402] Render latest news and upcoming events on the Home Page,https://github.com/la-ldaf/ldaf-site/pull/470,2023-09-20T23:39:33Z,2023-09-25T22:43:12Z,7,3,MERGED
+ldaf-site,Add support for CTAs in EmbeddedEntryBlock,https://github.com/la-ldaf/ldaf-site/pull/469,2023-09-20T22:23:11Z,2023-10-23T23:22:00Z,7,13,MERGED
+ldaf-site,"[LDAF-427] Update colors across the site (links, buttons, etc.)",https://github.com/la-ldaf/ldaf-site/pull/468,2023-09-20T21:39:02Z,2023-10-05T21:47:51Z,7,13,CLOSED
+ldaf-site,[LDAF-402] Use Contentful tags to render related news and events on Top Tier pages,https://github.com/la-ldaf/ldaf-site/pull/462,2023-09-18T19:37:16Z,2023-09-25T19:01:09Z,4,9,MERGED
+ldaf-site,"Add deep links to accordion, auto-expand on page render",https://github.com/la-ldaf/ldaf-site/pull/461,2023-09-18T16:50:53Z,2023-10-06T16:14:37Z,8,12,MERGED
+ldaf-site,Update/standardize site fonts,https://github.com/la-ldaf/ldaf-site/pull/457,2023-09-13T17:05:21Z,2023-09-15T15:22:39Z,3,4,MERGED
+ldaf-site,"[LDAF-376] Use Contentful tags to populate ""Licensing and permits"" page",https://github.com/la-ldaf/ldaf-site/pull/456,2023-09-12T22:46:57Z,2023-10-25T01:41:33Z,3,11,MERGED
+ldaf-site,Review suggestions for #430,https://github.com/la-ldaf/ldaf-site/pull/449,2023-09-12T03:06:56Z,2023-09-12T18:05:39Z,3,2,MERGED
+ldaf-site,Upgrade storybook to 7.4.0,https://github.com/la-ldaf/ldaf-site/pull/448,2023-09-11T20:53:17Z,2023-09-19T23:05:50Z,3,3,MERGED
+ldaf-site,Small follow-ups to News,https://github.com/la-ldaf/ldaf-site/pull/431,2023-09-07T00:17:19Z,2023-09-19T23:06:21Z,3,3,MERGED
+ldaf-site,[LDAF-366] Add Google Analytics,https://github.com/la-ldaf/ldaf-site/pull/430,2023-09-06T20:56:51Z,2023-09-12T18:28:15Z,7,4,MERGED
+ldaf-site,Slight refactor to Office Page query. Add support for links and images in Office Page rich text.,https://github.com/la-ldaf/ldaf-site/pull/426,2023-08-30T20:56:10Z,2023-08-30T21:52:23Z,3,2,MERGED
+ldaf-site,Fix stale accordion-expanded state when navigating between pages,https://github.com/la-ldaf/ldaf-site/pull/423,2023-08-29T23:03:26Z,2023-08-30T20:32:22Z,3,1,MERGED
+ldaf-site,Implement news aggregation page and individual news article and press release pages,https://github.com/la-ldaf/ldaf-site/pull/422,2023-08-29T22:40:55Z,2023-09-06T23:55:33Z,8,15,MERGED
+ldaf-site,"Add ""From the Commissioner"" section to the home page (round 2)",https://github.com/la-ldaf/ldaf-site/pull/421,2023-08-28T18:12:29Z,2023-08-28T23:29:04Z,3,29,MERGED
+ldaf-site,Increase timeout for Lighthouse to wait for Vercel preview deployment.,https://github.com/la-ldaf/ldaf-site/pull/418,2023-08-25T22:35:32Z,2023-08-25T22:37:01Z,2,1,MERGED
+ldaf-site,Clean up some Svelte component imports.,https://github.com/la-ldaf/ldaf-site/pull/417,2023-08-25T17:28:23Z,2023-08-25T20:52:58Z,3,1,MERGED
+ldaf-site,"Add seed dealer licensing to hard-coded ""Licensing and permits"" page.",https://github.com/la-ldaf/ldaf-site/pull/415,2023-08-24T22:02:07Z,2023-08-24T22:19:34Z,3,1,MERGED
+ldaf-site,Show youtube video in test content,https://github.com/la-ldaf/ldaf-site/pull/414,2023-08-24T21:08:24Z,2023-08-24T21:32:19Z,3,2,MERGED
+ldaf-site,"Implement ""Popular resources"" section on homepage",https://github.com/la-ldaf/ldaf-site/pull/413,2023-08-24T19:40:27Z,2023-08-25T23:03:31Z,8,9,MERGED
+ldaf-site,Only send speed insights in production; load `web-vitals` on demand,https://github.com/la-ldaf/ldaf-site/pull/412,2023-08-24T17:19:35Z,2023-08-24T21:32:08Z,3,4,MERGED
+ldaf-site,Fix `sizes` attribute of youtube thumbnail,https://github.com/la-ldaf/ldaf-site/pull/411,2023-08-24T17:18:18Z,2023-08-24T21:30:24Z,3,1,MERGED
+ldaf-site,Fix Vercel Speed Insights integration,https://github.com/la-ldaf/ldaf-site/pull/407,2023-08-23T22:55:41Z,2023-08-24T00:07:36Z,3,2,MERGED
+ldaf-site,"Add ""From the Commissioner"" section to the home page",https://github.com/la-ldaf/ldaf-site/pull/406,2023-08-23T19:16:03Z,2023-08-26T00:21:46Z,7,27,MERGED
+ldaf-site,"Add/Update server endpoints for page metadata map/Algolia updates, etc",https://github.com/la-ldaf/ldaf-site/pull/403,2023-08-21T21:04:34Z,2023-09-08T21:03:23Z,9,27,MERGED
+ldaf-site,Disable the Vercel toolbar when running Lighthouse reports.,https://github.com/la-ldaf/ldaf-site/pull/402,2023-08-21T19:35:41Z,2023-08-21T22:45:47Z,3,1,MERGED
+ldaf-site,Fix expand/collapse button layout on mobile menus,https://github.com/la-ldaf/ldaf-site/pull/401,2023-08-21T16:02:40Z,2023-08-25T23:05:53Z,3,4,MERGED
+ldaf-site,Set meta tag with theme color,https://github.com/la-ldaf/ldaf-site/pull/398,2023-08-18T22:24:18Z,2023-08-21T18:18:30Z,3,2,MERGED
+ldaf-site,Don't preserve aspect ratio of card images,https://github.com/la-ldaf/ldaf-site/pull/397,2023-08-18T22:11:10Z,2023-08-21T17:23:04Z,3,2,MERGED
+ldaf-site,"Move YouTube API interactions to server, unload embed until user interaction",https://github.com/la-ldaf/ldaf-site/pull/394,2023-08-17T22:54:08Z,2023-08-23T22:06:08Z,14,20,MERGED
+ldaf-site,Refactor ContentfulRichText,https://github.com/la-ldaf/ldaf-site/pull/384,2023-08-17T04:00:25Z,2023-10-14T00:37:24Z,1,31,CLOSED
+ldaf-site,"Update dependencies, run formatter, migrate to Svelte 4",https://github.com/la-ldaf/ldaf-site/pull/383,2023-08-17T01:03:07Z,2023-08-25T21:18:13Z,10,31,MERGED
+ldaf-site,Stop leaking a redis client connection descriptor every request,https://github.com/la-ldaf/ldaf-site/pull/380,2023-08-14T22:22:16Z,2023-08-14T22:52:17Z,4,3,MERGED
+ldaf-site,Make isDocument check reactive,https://github.com/la-ldaf/ldaf-site/pull/379,2023-08-11T23:00:33Z,2023-09-11T20:40:27Z,4,2,MERGED
+ldaf-site,Make all event dates relative to Louisiana timezone; filter events aggregation page to present+future events,https://github.com/la-ldaf/ldaf-site/pull/378,2023-08-11T22:46:01Z,2023-08-25T01:50:51Z,5,7,MERGED
+ldaf-site,Fix content consistency issue,https://github.com/la-ldaf/ldaf-site/pull/377,2023-08-11T21:47:18Z,2023-08-11T21:56:44Z,3,1,MERGED
+ldaf-site,Filter out the home page and null URLs from search.,https://github.com/la-ldaf/ldaf-site/pull/375,2023-08-11T20:52:58Z,2023-08-11T21:15:03Z,4,1,MERGED
+ldaf-site,Fix hardcoded footer links,https://github.com/la-ldaf/ldaf-site/pull/374,2023-08-11T20:45:56Z,2023-08-11T20:57:19Z,3,1,MERGED
+ldaf-site,Disable the news route as its not implemented yet.,https://github.com/la-ldaf/ldaf-site/pull/373,2023-08-11T20:03:47Z,2023-08-11T20:46:25Z,3,2,MERGED
+ldaf-site,"Reimplement youtube subscribe button, avoiding loading google js",https://github.com/la-ldaf/ldaf-site/pull/372,2023-08-11T03:38:42Z,2023-08-11T20:15:38Z,5,4,MERGED
+ldaf-site,Fix a bug in the main menu in Safari,https://github.com/la-ldaf/ldaf-site/pull/371,2023-08-10T19:17:39Z,2023-08-10T21:02:47Z,3,3,MERGED
+ldaf-site,Update URLs for generating Lighthouse reports.,https://github.com/la-ldaf/ldaf-site/pull/369,2023-08-10T00:20:24Z,2023-08-11T17:05:06Z,4,8,MERGED
+ldaf-site,Set up <title> and <meta> tags for all pages,https://github.com/la-ldaf/ldaf-site/pull/368,2023-08-09T23:56:58Z,2023-08-11T17:20:35Z,3,2,MERGED
+ldaf-site,LDAF-265 Updates for launch (robots.txt and sitemap.xml),https://github.com/la-ldaf/ldaf-site/pull/367,2023-08-09T21:48:55Z,2023-08-21T18:40:43Z,5,15,MERGED
+ldaf-site,Implement new header background,https://github.com/la-ldaf/ldaf-site/pull/366,2023-08-09T21:40:31Z,2023-08-10T21:39:29Z,3,3,MERGED
+ldaf-site,Remove unimplemented pages for Offices and for Boards and Commissions.,https://github.com/la-ldaf/ldaf-site/pull/365,2023-08-09T19:57:32Z,2023-08-09T20:25:41Z,4,1,MERGED
+ldaf-site,Implement events page,https://github.com/la-ldaf/ldaf-site/pull/364,2023-08-08T21:15:04Z,2023-08-11T21:28:23Z,11,25,MERGED
+ldaf-site,Don't use random component ID outside of tests/storybook,https://github.com/la-ldaf/ldaf-site/pull/363,2023-08-08T20:43:33Z,2023-08-11T21:13:40Z,4,1,MERGED
+ldaf-site,Remove unused pages,https://github.com/la-ldaf/ldaf-site/pull/362,2023-08-08T19:37:19Z,2023-08-08T20:41:14Z,3,2,MERGED
+ldaf-site,Don't upscale content images,https://github.com/la-ldaf/ldaf-site/pull/358,2023-08-05T02:33:57Z,2023-08-09T21:49:40Z,5,10,MERGED
+ldaf-site,MVP Search with LDAF site metadata,https://github.com/la-ldaf/ldaf-site/pull/357,2023-08-04T21:46:34Z,2023-08-11T19:37:35Z,9,10,MERGED
+ldaf-site,Upload and use new favicon.,https://github.com/la-ldaf/ldaf-site/pull/356,2023-08-04T19:14:46Z,2023-08-04T19:26:48Z,3,1,MERGED
+ldaf-site,fix EntryHyperlink,https://github.com/la-ldaf/ldaf-site/pull/355,2023-08-04T19:06:51Z,2023-08-04T19:19:13Z,3,2,MERGED
+ldaf-site,Remove dot-gov banner,https://github.com/la-ldaf/ldaf-site/pull/354,2023-08-04T17:22:05Z,2023-08-04T19:19:35Z,3,1,MERGED
+ldaf-site,LDAF-360 Create and implement Footer,https://github.com/la-ldaf/ldaf-site/pull/352,2023-08-03T23:42:46Z,2023-08-08T21:29:32Z,6,18,MERGED
+ldaf-site,Remove unused landingPage code,https://github.com/la-ldaf/ldaf-site/pull/351,2023-08-03T22:13:04Z,2023-08-03T22:22:57Z,3,1,MERGED
+ldaf-site,"Render CTAs and Contact info in Service Entries, Add more rich text node support",https://github.com/la-ldaf/ldaf-site/pull/350,2023-08-03T02:49:21Z,2023-08-04T18:54:42Z,8,40,MERGED
+ldaf-site,Fix service group page by splitting query,https://github.com/la-ldaf/ldaf-site/pull/349,2023-08-02T23:55:04Z,2023-08-03T22:27:21Z,7,7,MERGED
+ldaf-site,"Use Image component instead of img tags, reset image state on src change",https://github.com/la-ldaf/ldaf-site/pull/348,2023-08-02T21:05:19Z,2023-08-03T22:27:40Z,5,7,MERGED
+ldaf-site,Create new version of Home Page with content from Contentful,https://github.com/la-ldaf/ldaf-site/pull/347,2023-08-02T20:52:20Z,2023-08-03T17:06:58Z,15,6,MERGED
+ldaf-site,Enable viewing preview content for tagged events on top tier pages,https://github.com/la-ldaf/ldaf-site/pull/530,2023-11-21T20:51:47Z,2023-11-22T22:31:07Z,3,1,MERGED
+ldaf-site,Remove unused properties on ImageWrapper query,https://github.com/la-ldaf/ldaf-site/pull/529,2023-11-21T16:06:33Z,2023-11-21T16:10:40Z,3,1,MERGED
+ldaf-site,Add footer link to login page,https://github.com/la-ldaf/ldaf-site/pull/528,2023-11-15T22:06:19Z,2023-11-18T00:08:34Z,3,22,MERGED
+ldaf-site,Add button to toggle preview on and off,https://github.com/la-ldaf/ldaf-site/pull/527,2023-11-15T22:01:50Z,2023-11-17T23:54:26Z,3,29,MERGED
+ldaf-site,Allow for logging in with Contentful OAuth,https://github.com/la-ldaf/ldaf-site/pull/525,2023-11-15T02:18:52Z,2023-11-17T23:37:41Z,5,26,MERGED
+ldaf-site,Allow viewing preview content while logged in,https://github.com/la-ldaf/ldaf-site/pull/520,2023-11-10T03:04:14Z,2023-11-17T23:18:55Z,7,13,MERGED
+ldaf-site,Implement internal and external redirects using PageMetadata from Contentful.,https://github.com/la-ldaf/ldaf-site/pull/557,2024-05-30T22:27:37Z,2024-08-14T15:21:28Z,9,12,MERGED
+ldaf-site,Replace ts-node with tsx to resolve errors running pre scripts.,https://github.com/la-ldaf/ldaf-site/pull/556,2024-05-30T17:06:06Z,2024-06-11T15:56:15Z,3,1,MERGED
+ldaf-site,Improve error messages in logs by adding more details.,https://github.com/la-ldaf/ldaf-site/pull/561,2024-07-10T15:42:52Z,2024-07-10T18:52:25Z,3,2,MERGED
+ldaf-site,Block bad actors by immediately responding with an HTTP error code.,https://github.com/la-ldaf/ldaf-site/pull/560,2024-07-09T16:35:01Z,2024-07-10T18:31:04Z,3,1,MERGED
+ldaf-site,Add video embed to core content pages,https://github.com/la-ldaf/ldaf-site/pull/559,2024-06-18T18:33:01Z,2024-08-26T19:12:14Z,6,7,MERGED
+ldaf-site,"Add `rel=""canonical""` `link` elements in the head of every page.",https://github.com/la-ldaf/ldaf-site/pull/558,2024-06-04T21:10:30Z,2024-06-11T16:14:05Z,3,3,MERGED
+ldaf-site,[No Issue] Update schema after latest changes to Contentful (both built-ins and our content model changes).,https://github.com/la-ldaf/ldaf-site/pull/584,2024-10-31T17:35:34Z,2024-10-31T18:38:42Z,3,1,MERGED
+ldaf-site,[Issue #578] Iimprove type definitions for search indexing.,https://github.com/la-ldaf/ldaf-site/pull/583,2024-10-31T16:01:52Z,2024-10-31T17:55:59Z,11,3,MERGED
+ldaf-site,"Add service entry accordions to Algolia, refactor new & events processing",https://github.com/la-ldaf/ldaf-site/pull/582,2024-10-31T15:10:11Z,2024-11-01T21:08:17Z,10,20,MERGED
+ldaf-site,[Issue #580] Update LDAF logo in the header and footer.,https://github.com/la-ldaf/ldaf-site/pull/581,2024-10-21T22:02:28Z,2024-10-31T18:52:03Z,13,17,MERGED
+ldaf-site,News and Events Search,https://github.com/la-ldaf/ldaf-site/pull/579,2024-10-16T19:05:16Z,2024-10-31T23:20:47Z,14,17,MERGED
+ldaf-site,Log fire data as it is getting process,https://github.com/la-ldaf/ldaf-site/pull/577,2024-10-11T15:41:39Z,2024-10-11T15:46:32Z,3,1,MERGED
+ldaf-site,[Issue #575] Migrate to Vercel Speed Insights package.,https://github.com/la-ldaf/ldaf-site/pull/576,2024-10-08T21:36:02Z,2024-10-11T17:18:25Z,5,12,MERGED
+ldaf-site,[No Issue] Update docs and how we handle environment variable files.,https://github.com/la-ldaf/ldaf-site/pull/574,2024-10-08T19:31:52Z,2024-10-11T16:46:31Z,11,7,MERGED
+ldaf-site,Add Recent News and Events Entity relationships to TopTier and ServiceEntry,https://github.com/la-ldaf/ldaf-site/pull/573,2024-10-03T15:58:58Z,2024-10-16T19:42:55Z,8,11,MERGED
+ldaf-site,[Issue 567] Adds accessibility improvements.,https://github.com/la-ldaf/ldaf-site/pull/568,2024-09-24T18:07:24Z,2024-10-08T17:36:59Z,3,11,MERGED
+ldaf-site,565 Adds typescript cleanup.,https://github.com/la-ldaf/ldaf-site/pull/566,2024-09-23T22:43:28Z,2024-10-08T18:10:51Z,1,1,CLOSED
+ldaf-site,"Improve fire weather endpoints, integrate w/ KV store, add page w/ map",https://github.com/la-ldaf/ldaf-site/pull/564,2024-09-11T21:02:35Z,2024-09-27T22:22:37Z,5,11,MERGED
+ldaf-site,Add API route to process fire data CSV,https://github.com/la-ldaf/ldaf-site/pull/563,2024-09-10T21:01:02Z,2024-09-11T20:10:03Z,3,1,MERGED
+ldaf-site,Add news and events to the sitemap.,https://github.com/la-ldaf/ldaf-site/pull/562,2024-08-14T22:21:19Z,2024-10-17T20:41:19Z,8,9,MERGED
+ldaf-site,Refactor news and events,https://github.com/la-ldaf/ldaf-site/pull/587,2024-11-01T18:49:03Z,2024-11-01T20:27:06Z,9,3,MERGED
+ldaf-site,[No Issue] Improve fetching of content and metadata for the fire weather map page.,https://github.com/la-ldaf/ldaf-site/pull/586,2024-11-01T17:35:58Z,2024-11-01T17:56:44Z,7,1,MERGED
+ldaf-site,Fire Weather Map Updates,https://github.com/la-ldaf/ldaf-site/pull/585,2024-11-01T02:53:34Z,2024-11-01T18:21:09Z,5,4,MERGED

@@ -1,0 +1,606 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+evergreen,Fix doc comment for isNumber prop,https://github.com/segmentio/evergreen/pull/600,2019-07-18T08:24:32Z,2019-08-19T16:41:53Z,2,1,MERGED
+evergreen,Add types to Textarea,https://github.com/segmentio/evergreen/pull/599,2019-07-17T13:33:57Z,2019-07-25T13:38:12Z,6,4,MERGED
+evergreen,Add types to majorScale & minorScale,https://github.com/segmentio/evergreen/pull/598,2019-07-17T12:53:48Z,2019-07-18T02:16:51Z,1,2,MERGED
+evergreen,Add textAlign prop to TextTableCell,https://github.com/segmentio/evergreen/pull/596,2019-07-15T13:30:26Z,2019-07-18T08:21:30Z,4,1,CLOSED
+evergreen,Allow string props in SelectMenuContent dimensions,https://github.com/segmentio/evergreen/pull/594,2019-07-11T13:36:49Z,2019-07-11T15:53:19Z,0,1,MERGED
+evergreen,Make correct oneOfType arguments,https://github.com/segmentio/evergreen/pull/593,2019-07-09T17:45:18Z,2019-07-09T17:58:53Z,0,1,MERGED
+evergreen,chore(storybook/Dialog): Rename of the dialog title,https://github.com/segmentio/evergreen/pull/591,2019-07-05T01:29:50Z,2019-07-05T02:19:33Z,0,1,MERGED
+evergreen,Fix spelling in table.mdx,https://github.com/segmentio/evergreen/pull/590,2019-07-02T11:34:06Z,2019-07-02T15:07:51Z,0,1,MERGED
+evergreen,Add closeOnSelect prop to SelectMenu,https://github.com/segmentio/evergreen/pull/588,2019-06-19T10:13:18Z,2019-06-20T15:58:18Z,5,2,MERGED
+evergreen,Allow TableHead height to be a string,https://github.com/segmentio/evergreen/pull/587,2019-06-17T20:11:57Z,2019-07-09T16:04:09Z,0,1,MERGED
+evergreen,Expose onBodyClick to popover,https://github.com/segmentio/evergreen/pull/586,2019-06-13T19:46:04Z,2019-07-08T16:31:22Z,4,2,MERGED
+evergreen,Fix src of the avatar documentation,https://github.com/segmentio/evergreen/pull/585,2019-06-13T18:52:07Z,2019-06-17T16:23:35Z,1,1,MERGED
+evergreen,Fix selected proptype,https://github.com/segmentio/evergreen/pull/583,2019-06-13T15:46:50Z,2019-06-13T18:53:16Z,1,1,MERGED
+evergreen,Some spelling fixes,https://github.com/segmentio/evergreen/pull/580,2019-06-11T07:35:32Z,2019-06-11T14:40:09Z,0,1,MERGED
+evergreen,Allow dimensions in SelectMenu to be strings,https://github.com/segmentio/evergreen/pull/579,2019-06-10T20:25:46Z,2019-06-11T14:34:11Z,0,1,MERGED
+evergreen,expose the`ThemeContext` to use the new context hook,https://github.com/segmentio/evergreen/pull/578,2019-06-08T11:23:55Z,2019-06-16T23:27:47Z,1,1,MERGED
+evergreen,Add proper types for Badge and a bunch of the theme code,https://github.com/segmentio/evergreen/pull/577,2019-06-06T20:04:14Z,2019-10-12T00:01:07Z,6,2,CLOSED
+evergreen,Remove `selected` restraint,https://github.com/segmentio/evergreen/pull/576,2019-06-06T15:17:50Z,2019-07-09T16:05:27Z,4,3,MERGED
+evergreen,Remove forced overflow,https://github.com/segmentio/evergreen/pull/573,2019-06-04T16:26:33Z,2019-06-11T17:03:09Z,0,1,MERGED
+evergreen,Add proper types for the Button components,https://github.com/segmentio/evergreen/pull/572,2019-06-04T02:46:40Z,2019-06-05T18:59:29Z,4,3,MERGED
+evergreen,implement types for Avatar,https://github.com/segmentio/evergreen/pull/571,2019-06-03T14:43:36Z,2019-06-03T20:38:46Z,3,3,MERGED
+evergreen,fix(Positioner): Correctly overflow bottom's,https://github.com/segmentio/evergreen/pull/570,2019-06-03T09:40:47Z,2019-06-17T14:35:33Z,3,3,MERGED
+evergreen,add types for Alert and InlineAlert,https://github.com/segmentio/evergreen/pull/569,2019-06-03T03:00:25Z,2019-06-03T20:12:48Z,2,4,MERGED
+evergreen,start fixing stories,https://github.com/segmentio/evergreen/pull/568,2019-06-03T02:11:54Z,2019-06-03T02:16:30Z,0,2,MERGED
+evergreen,actually include typings in bundle,https://github.com/segmentio/evergreen/pull/664,2019-10-31T21:25:43Z,2019-10-31T21:28:55Z,0,1,MERGED
+evergreen,update AutocompleteItem typedefs,https://github.com/segmentio/evergreen/pull/663,2019-10-31T20:00:03Z,2019-10-31T20:29:41Z,0,1,MERGED
+evergreen,add typedefs for CornerDialog,https://github.com/segmentio/evergreen/pull/662,2019-10-31T19:36:09Z,2019-10-31T19:45:39Z,0,2,MERGED
+evergreen,add more typedefs,https://github.com/segmentio/evergreen/pull/661,2019-10-31T02:18:35Z,2019-10-31T18:01:25Z,0,2,MERGED
+evergreen,add more types and docs!,https://github.com/segmentio/evergreen/pull/660,2019-10-30T20:13:10Z,2019-10-30T23:36:38Z,2,9,MERGED
+evergreen,update ci docker to node 10,https://github.com/segmentio/evergreen/pull/657,2019-10-25T03:48:27Z,2019-10-25T03:50:56Z,0,1,MERGED
+evergreen,rm onClick Table.Row warning since it is supported,https://github.com/segmentio/evergreen/pull/656,2019-10-24T04:15:05Z,2019-10-24T15:20:57Z,0,1,MERGED
+evergreen,fix alignment of Alert icon,https://github.com/segmentio/evergreen/pull/655,2019-10-24T03:40:25Z,2019-10-24T13:20:22Z,0,2,MERGED
+evergreen,Fix jumping check icon within `<Switch>` when placed inside `<Dialog>`,https://github.com/segmentio/evergreen/pull/650,2019-10-23T23:05:41Z,2019-10-23T23:37:52Z,0,1,MERGED
+evergreen,Updating lib ui-box@^2.1.1,https://github.com/segmentio/evergreen/pull/649,2019-10-10T14:19:45Z,2019-10-29T16:29:22Z,15,8,MERGED
+evergreen,fix:closeOnSelect must be destructed from props,https://github.com/segmentio/evergreen/pull/647,2019-10-10T06:16:01Z,2019-10-10T16:45:41Z,1,1,MERGED
+evergreen,Types for components,https://github.com/segmentio/evergreen/pull/646,2019-10-09T14:44:11Z,2019-10-29T19:06:54Z,13,9,MERGED
+evergreen,Disable default scrollIntoView behavior,https://github.com/segmentio/evergreen/pull/644,2019-10-04T16:57:57Z,2019-10-15T16:30:52Z,1,1,MERGED
+evergreen,Adding overlayProps to the Dialog component in order to allow some cu…,https://github.com/segmentio/evergreen/pull/643,2019-10-04T13:15:20Z,2019-10-04T14:42:37Z,4,1,MERGED
+evergreen,Use theme,https://github.com/segmentio/evergreen/pull/641,2019-10-04T07:37:18Z,2019-10-24T01:50:32Z,1,3,MERGED
+evergreen,Fixing stateless props override on Popover component,https://github.com/segmentio/evergreen/pull/640,2019-10-02T16:51:37Z,2019-10-03T14:26:38Z,3,2,MERGED
+evergreen,Improve EditableCell behavior,https://github.com/segmentio/evergreen/pull/638,2019-09-30T04:38:36Z,2019-12-30T03:41:00Z,5,1,CLOSED
+evergreen,"Fix ""Autocomplete does not select option on mobile (on tap)"" (#623)",https://github.com/segmentio/evergreen/pull/636,2019-09-28T11:27:49Z,2019-09-30T15:49:39Z,0,1,MERGED
+evergreen,Change icon prop-types from string to node,https://github.com/segmentio/evergreen/pull/635,2019-09-28T08:47:38Z,2019-09-30T15:50:09Z,2,2,MERGED
+evergreen,fix gatsby build,https://github.com/segmentio/evergreen/pull/634,2019-09-25T14:44:32Z,2019-09-25T15:05:26Z,0,1,MERGED
+evergreen,Add ability to remove specific toaster by id,https://github.com/segmentio/evergreen/pull/633,2019-09-19T09:47:26Z,2019-09-19T13:49:50Z,0,1,MERGED
+evergreen,Update downshift to 3.3.1,https://github.com/segmentio/evergreen/pull/631,2019-09-16T15:04:00Z,2019-09-25T16:28:42Z,3,4,MERGED
+evergreen,Add showDelay prop to Tooltip,https://github.com/segmentio/evergreen/pull/630,2019-09-12T23:38:45Z,2019-09-23T17:55:40Z,2,3,MERGED
+evergreen,Text input field icon,https://github.com/segmentio/evergreen/pull/628,2019-09-11T16:41:48Z,2019-12-30T20:00:12Z,6,4,CLOSED
+evergreen,Make avatar image fit when non-square dimensions,https://github.com/segmentio/evergreen/pull/627,2019-09-11T15:09:11Z,2019-09-19T15:10:19Z,2,5,MERGED
+evergreen,Dynamic position corner dialog,https://github.com/segmentio/evergreen/pull/626,2019-09-11T14:02:41Z,2019-10-25T18:43:34Z,19,8,MERGED
+evergreen,Toast dynamic position,https://github.com/segmentio/evergreen/pull/625,2019-09-11T13:44:43Z,2020-01-04T23:10:23Z,9,6,CLOSED
+evergreen,Font size link dynamic,https://github.com/segmentio/evergreen/pull/624,2019-09-10T14:00:24Z,2019-09-11T12:21:58Z,2,2,CLOSED
+evergreen,Autocomplete tag input,https://github.com/segmentio/evergreen/pull/622,2019-09-06T19:05:16Z,2019-12-30T20:00:13Z,5,7,CLOSED
+evergreen,Add placholder on FilePicker component,https://github.com/segmentio/evergreen/pull/619,2019-08-29T16:26:45Z,2019-10-24T15:19:31Z,6,5,MERGED
+evergreen,Add optional icon to SelectMenu options,https://github.com/segmentio/evergreen/pull/618,2019-08-28T21:21:39Z,2019-08-28T23:26:13Z,3,3,MERGED
+evergreen,Don't pass closeOnSelect to Pane in OptionsList,https://github.com/segmentio/evergreen/pull/616,2019-08-28T07:45:13Z,2019-08-28T17:38:27Z,0,1,MERGED
+evergreen,"<Dialog>: Add ""press enter to submit"" form behavior",https://github.com/segmentio/evergreen/pull/615,2019-08-27T23:38:38Z,2019-09-09T22:15:27Z,5,2,CLOSED
+evergreen,Add sublabel to radio component,https://github.com/segmentio/evergreen/pull/614,2019-08-26T22:39:51Z,2019-11-02T01:06:35Z,3,1,CLOSED
+evergreen,Docs: Fix typos in checkbox prop-types,https://github.com/segmentio/evergreen/pull/613,2019-08-26T22:24:13Z,2019-08-26T22:35:26Z,1,1,MERGED
+evergreen,Fix select menu keyboard navigation,https://github.com/segmentio/evergreen/pull/611,2019-08-24T00:20:55Z,2019-12-01T00:20:26Z,2,2,CLOSED
+evergreen,Fix typo,https://github.com/segmentio/evergreen/pull/609,2019-08-13T12:33:55Z,2019-08-13T15:36:08Z,0,1,MERGED
+evergreen,Fixes #607 - Set the default list position to inside for UnorderedList and OrderedList,https://github.com/segmentio/evergreen/pull/608,2019-08-08T22:53:34Z,2019-08-23T00:33:00Z,5,1,MERGED
+evergreen,fix: removes React Prop Dom Warning #605,https://github.com/segmentio/evergreen/pull/606,2019-08-04T19:28:17Z,2019-10-24T01:55:23Z,2,1,MERGED
+evergreen,Add isMultiSelect optional prop to Menu.OptionsGroup,https://github.com/segmentio/evergreen/pull/604,2019-08-03T19:27:00Z,2019-10-09T20:04:26Z,1,1,CLOSED
+evergreen,"[CCPA] Update consent manager, and add in-regions for React consent manager",https://github.com/segmentio/evergreen/pull/694,2019-12-31T08:36:09Z,2019-12-31T20:48:41Z,3,6,MERGED
+evergreen,Fixes input onBlur error in FilePicker,https://github.com/segmentio/evergreen/pull/693,2019-12-31T02:14:14Z,2019-12-31T03:21:11Z,1,2,MERGED
+evergreen,Feat(compatibility): replace append with appendChild,https://github.com/segmentio/evergreen/pull/692,2019-12-21T18:53:34Z,2019-12-30T17:41:25Z,0,2,MERGED
+evergreen,Cancel OptionsList requestAnimationFrame in componentWillUnmount,https://github.com/segmentio/evergreen/pull/687,2019-11-29T20:26:13Z,2019-12-30T17:49:27Z,0,1,MERGED
+evergreen,Allow passing a ref (innerRef) to a Checkbox,https://github.com/segmentio/evergreen/pull/686,2019-11-29T10:51:48Z,2020-02-04T16:43:17Z,4,1,MERGED
+evergreen,Update index.d.ts,https://github.com/segmentio/evergreen/pull/683,2019-11-28T23:03:47Z,2020-01-02T19:59:59Z,4,2,MERGED
+evergreen,Adding custom CSS (open/close) animations to the Dialog component,https://github.com/segmentio/evergreen/pull/680,2019-11-19T23:37:55Z,2020-01-15T18:53:33Z,4,3,CLOSED
+evergreen,Fix Radio Icon width on label line break,https://github.com/segmentio/evergreen/pull/678,2019-11-13T11:05:34Z,2019-11-13T16:00:37Z,0,1,MERGED
+evergreen,Fix checkbox width on label line break,https://github.com/segmentio/evergreen/pull/677,2019-11-08T01:32:33Z,2019-11-08T01:43:10Z,0,1,MERGED
+evergreen,fixing missing styles on Avatar and SelectMenu,https://github.com/segmentio/evergreen/pull/675,2019-11-07T15:36:49Z,2019-11-07T17:20:45Z,0,1,MERGED
+evergreen,avoid implicit any type,https://github.com/segmentio/evergreen/pull/672,2019-11-06T23:03:42Z,2019-11-06T23:06:44Z,0,2,MERGED
+evergreen,fix missing animations due to premature glamor classname-ifying,https://github.com/segmentio/evergreen/pull/670,2019-11-06T02:52:14Z,2019-11-06T20:17:45Z,2,2,MERGED
+evergreen,clear timeout when component unmounts,https://github.com/segmentio/evergreen/pull/668,2019-11-05T14:36:12Z,2019-11-06T15:07:08Z,1,1,MERGED
+evergreen,Fix custom className not applied to Tooltip components,https://github.com/segmentio/evergreen/pull/667,2019-11-02T23:51:39Z,2019-11-02T23:59:23Z,1,1,MERGED
+evergreen,update types based on breakages in the app,https://github.com/segmentio/evergreen/pull/665,2019-11-01T22:21:11Z,2019-11-02T19:05:44Z,2,1,MERGED
+evergreen,"Sync Popover internal open/close state to prop ""isShown""",https://github.com/segmentio/evergreen/pull/770,2020-03-31T22:22:35Z,2020-06-22T22:12:34Z,3,1,MERGED
+evergreen,[Docs] Map over and display specific `union` and `enum` types,https://github.com/segmentio/evergreen/pull/769,2020-03-31T18:05:47Z,2020-03-31T18:34:47Z,1,1,MERGED
+evergreen,"Typescript Definition Updates: CornerDialog, Autocomplete",https://github.com/segmentio/evergreen/pull/766,2020-03-26T17:29:19Z,2020-06-27T06:58:01Z,4,3,CLOSED
+evergreen,Upgrade the version of ui-box,https://github.com/segmentio/evergreen/pull/763,2020-03-23T23:38:47Z,2020-03-24T17:13:35Z,1,3,MERGED
+evergreen,fix export types for ThemeProvider and ThemeConsumer,https://github.com/segmentio/evergreen/pull/762,2020-03-22T23:14:02Z,2020-06-27T11:16:28Z,2,1,CLOSED
+evergreen,Control toast position,https://github.com/segmentio/evergreen/pull/760,2020-03-17T20:14:24Z,2020-05-31T16:34:58Z,4,5,CLOSED
+evergreen,Update title props for Corner Dialog to support React.ReactNode and match docs.,https://github.com/segmentio/evergreen/pull/756,2020-03-13T16:10:51Z,2020-03-13T16:51:44Z,0,1,MERGED
+evergreen,fix checkbox types,https://github.com/segmentio/evergreen/pull/755,2020-03-12T23:03:24Z,2020-03-12T23:26:50Z,1,1,MERGED
+evergreen,"When focusing an EditableCellField, place cursor at the end of the value",https://github.com/segmentio/evergreen/pull/754,2020-03-11T05:23:15Z,2020-03-11T16:40:11Z,0,1,MERGED
+evergreen,Updating OptionList and Overlay types,https://github.com/segmentio/evergreen/pull/753,2020-03-05T12:26:55Z,2020-04-27T05:22:09Z,1,1,MERGED
+evergreen,Fixed table TextCell incorrect props for text size (documentation),https://github.com/segmentio/evergreen/pull/752,2020-03-02T06:00:53Z,2020-04-21T04:06:30Z,0,1,MERGED
+evergreen,Fix minor typo in Filepicker component,https://github.com/segmentio/evergreen/pull/747,2020-02-24T18:21:13Z,2020-02-24T21:01:18Z,0,1,MERGED
+evergreen,[Dialog] Add support for custom headers and footers,https://github.com/segmentio/evergreen/pull/746,2020-02-20T21:07:10Z,2020-04-09T19:58:36Z,3,8,MERGED
+evergreen,removed unused proptype,https://github.com/segmentio/evergreen/pull/744,2020-02-09T23:03:54Z,2020-04-21T04:03:36Z,1,1,MERGED
+evergreen,Remove unused proptype,https://github.com/segmentio/evergreen/pull/743,2020-02-09T22:43:54Z,2020-02-09T23:00:32Z,0,2,CLOSED
+evergreen,Adds Icon code splitting,https://github.com/segmentio/evergreen/pull/742,2020-02-09T14:10:49Z,2020-04-16T18:09:04Z,14,8,CLOSED
+evergreen,Updated theming support section of readme to point to support document,https://github.com/segmentio/evergreen/pull/739,2020-02-07T06:30:42Z,2020-02-10T15:17:07Z,0,1,MERGED
+evergreen,Makes contribution guide more comprehensive,https://github.com/segmentio/evergreen/pull/738,2020-02-07T04:11:52Z,2020-03-17T18:27:58Z,2,7,MERGED
+evergreen,fix(multi-select-menu):   #589 SelectMenu with multiselect allows selecting …,https://github.com/segmentio/evergreen/pull/733,2020-02-05T09:38:40Z,2020-02-11T17:28:43Z,6,3,MERGED
+evergreen,Removes text decoration for menu items,https://github.com/segmentio/evergreen/pull/732,2020-02-04T16:22:49Z,2020-02-05T01:41:19Z,1,2,MERGED
+evergreen,Adds PropTypes.elementType to is MenuItem prop,https://github.com/segmentio/evergreen/pull/731,2020-02-03T01:32:32Z,2020-02-04T16:41:49Z,1,2,MERGED
+evergreen,Fixes eslint warnings,https://github.com/segmentio/evergreen/pull/730,2020-02-03T00:57:31Z,2020-02-04T16:40:23Z,0,1,MERGED
+evergreen,Adds eslint + prettier npm scripts,https://github.com/segmentio/evergreen/pull/729,2020-02-02T20:02:28Z,2020-04-18T06:00:32Z,4,2,CLOSED
+evergreen,Converts Pane component to hooks,https://github.com/segmentio/evergreen/pull/727,2020-01-31T05:52:58Z,2020-04-21T19:43:35Z,4,3,MERGED
+evergreen,Rename `isRequired` to `required`,https://github.com/segmentio/evergreen/pull/726,2020-01-30T18:15:46Z,2020-01-30T18:16:59Z,1,1,MERGED
+evergreen,Migrate Alert component to hooks,https://github.com/segmentio/evergreen/pull/725,2020-01-30T06:27:46Z,2020-05-13T16:29:54Z,10,8,CLOSED
+evergreen,Migrates Spinner component to hooks,https://github.com/segmentio/evergreen/pull/724,2020-01-29T06:56:08Z,2020-04-21T17:32:20Z,7,8,MERGED
+evergreen,Converts avatar component to hooks,https://github.com/segmentio/evergreen/pull/723,2020-01-29T06:47:08Z,2020-07-06T14:37:24Z,9,4,MERGED
+evergreen,Update theming docs,https://github.com/segmentio/evergreen/pull/722,2020-01-29T06:26:43Z,2020-01-29T17:52:34Z,0,1,MERGED
+evergreen,Complete Theming Support in v4,https://github.com/segmentio/evergreen/pull/721,2020-01-29T05:22:55Z,2021-03-31T02:10:08Z,16,1,CLOSED
+evergreen,Add UMD support,https://github.com/segmentio/evergreen/pull/720,2020-01-22T16:22:21Z,2020-02-04T16:39:39Z,10,7,MERGED
+evergreen,Upgrade dev deps and fix linting errors,https://github.com/segmentio/evergreen/pull/719,2020-01-21T21:51:05Z,2020-01-22T02:35:09Z,1,6,MERGED
+evergreen,Update version of in-regions,https://github.com/segmentio/evergreen/pull/706,2020-01-17T21:54:40Z,2020-01-18T00:03:03Z,0,1,MERGED
+evergreen,fix docs ssr + consent-manager,https://github.com/segmentio/evergreen/pull/705,2020-01-17T00:19:52Z,2020-01-17T00:26:55Z,0,1,MERGED
+evergreen,Update consent-manager instances to a version that supports SSR,https://github.com/segmentio/evergreen/pull/704,2020-01-16T23:05:02Z,2020-01-16T23:07:33Z,0,1,MERGED
+evergreen,legacy frame breaking on docsite,https://github.com/segmentio/evergreen/pull/703,2020-01-16T21:52:54Z,2020-01-16T21:53:40Z,1,1,MERGED
+evergreen,Update theme docs,https://github.com/segmentio/evergreen/pull/702,2020-01-09T07:48:20Z,2020-01-21T19:22:48Z,8,5,MERGED
+evergreen,Fix Bug With Import Naming,https://github.com/segmentio/evergreen/pull/701,2020-01-08T20:10:17Z,2020-01-13T23:30:12Z,0,1,MERGED
+evergreen,Makes docs app use same react instance as evergreen-ui,https://github.com/segmentio/evergreen/pull/699,2020-01-07T03:16:29Z,2020-01-28T17:02:01Z,5,1,MERGED
+evergreen,Fixes useTheme hook to use correct usage of useContext,https://github.com/segmentio/evergreen/pull/698,2020-01-07T01:26:26Z,2020-01-07T03:27:08Z,0,1,MERGED
+evergreen,adding disabled prop to Segment Control,https://github.com/segmentio/evergreen/pull/695,2020-01-02T15:21:16Z,2020-02-04T16:44:35Z,0,1,MERGED
+evergreen,Convert portal to fc,https://github.com/segmentio/evergreen/pull/849,2020-05-29T02:02:39Z,2020-07-06T14:34:47Z,2,3,MERGED
+evergreen,convert Overlay components to hooks + fc,https://github.com/segmentio/evergreen/pull/847,2020-05-26T16:43:29Z,2020-05-28T17:38:51Z,0,2,MERGED
+evergreen,convert Popover components to hooks + fc,https://github.com/segmentio/evergreen/pull/846,2020-05-26T16:42:42Z,2020-05-28T17:38:35Z,0,2,MERGED
+evergreen,update types to avoid React.ComponentProps with Box,https://github.com/segmentio/evergreen/pull/845,2020-05-26T16:34:56Z,2020-07-28T18:24:55Z,4,1,CLOSED
+evergreen,Bump storybook and storybook-related packages to latest,https://github.com/segmentio/evergreen/pull/844,2020-05-25T16:52:56Z,2020-05-26T16:41:52Z,10,2,MERGED
+evergreen,Bump ui-box@4.0.0 & dogfood ref support throughout Evergreen,https://github.com/segmentio/evergreen/pull/843,2020-05-25T04:07:24Z,2020-07-14T18:40:53Z,5,4,MERGED
+evergreen,rm setClassNamePrefix,https://github.com/segmentio/evergreen/pull/841,2020-05-23T04:40:23Z,2020-05-26T16:56:19Z,0,2,MERGED
+evergreen,Convert <Menu /> and its subcomponents to fc + hooks,https://github.com/segmentio/evergreen/pull/839,2020-05-22T21:42:06Z,2020-05-26T21:57:48Z,3,4,MERGED
+evergreen,Align Checkbox and Switch props a little more closely,https://github.com/segmentio/evergreen/pull/838,2020-05-22T20:10:00Z,2020-05-25T01:16:00Z,1,2,MERGED
+evergreen,"Convert <Combobox />, <RadioGroup />, <(Un)orderedList /> to fc + memo + forwardRef",https://github.com/segmentio/evergreen/pull/837,2020-05-22T17:49:39Z,2020-05-27T03:07:35Z,2,3,MERGED
+evergreen,"Convert <Switch />, <SelectMenu /> to hooks + memo + forwardRef",https://github.com/segmentio/evergreen/pull/836,2020-05-21T20:39:10Z,2020-05-21T22:37:24Z,3,4,MERGED
+evergreen,Fix autocomplete and combobox typing to use generic,https://github.com/segmentio/evergreen/pull/835,2020-05-21T10:15:08Z,2020-11-21T02:59:16Z,3,1,CLOSED
+evergreen,Fix Combobox autocompleteProps typing,https://github.com/segmentio/evergreen/pull/833,2020-05-21T05:12:03Z,2020-11-13T22:56:39Z,3,1,CLOSED
+evergreen,Convert <FilePicker /> and <FormField* /> to fc + forwardref + memo,https://github.com/segmentio/evergreen/pull/832,2020-05-19T16:05:23Z,2020-05-19T17:03:27Z,2,4,MERGED
+evergreen,Convert <Image /> to React.FC + forwardRef + memo,https://github.com/segmentio/evergreen/pull/831,2020-05-18T20:24:13Z,2020-05-18T21:01:36Z,1,3,MERGED
+evergreen,Convert <Dialog /> and <CornerDialog /> to FC + memo + forwardRef,https://github.com/segmentio/evergreen/pull/830,2020-05-18T19:22:44Z,2020-05-18T20:03:47Z,2,3,MERGED
+evergreen,"Convert <Radio />, <Checkbox />, and <Card /> to FC + Hooks",https://github.com/segmentio/evergreen/pull/829,2020-05-18T15:21:00Z,2020-05-18T17:38:37Z,4,4,MERGED
+evergreen,convert autocomplete to react.fc,https://github.com/segmentio/evergreen/pull/828,2020-05-18T04:37:23Z,2020-05-18T14:55:45Z,0,1,MERGED
+evergreen,Bump <Textarea /> and <TextareaField /> to memo + forwardRef,https://github.com/segmentio/evergreen/pull/827,2020-05-14T15:44:04Z,2020-05-14T15:56:37Z,4,1,CLOSED
+evergreen,update docgen and theme styles,https://github.com/segmentio/evergreen/pull/826,2020-05-13T22:29:27Z,2020-05-14T15:52:51Z,1,1,MERGED
+evergreen,npx react-codemod pure-component src/,https://github.com/segmentio/evergreen/pull/825,2020-05-13T18:30:50Z,2020-05-14T15:53:13Z,0,2,MERGED
+evergreen,convert badge and pill to react.fc,https://github.com/segmentio/evergreen/pull/824,2020-05-13T17:25:34Z,2020-05-13T17:36:08Z,0,1,MERGED
+evergreen,convert Alert and InlineAlert to React.FC,https://github.com/segmentio/evergreen/pull/823,2020-05-13T16:28:51Z,2020-05-13T16:48:46Z,0,1,MERGED
+evergreen,switch component-template script to function components,https://github.com/segmentio/evergreen/pull/822,2020-05-13T16:03:03Z,2020-05-13T16:30:13Z,0,2,MERGED
+evergreen,remove v3->v4 color mapping,https://github.com/segmentio/evergreen/pull/821,2020-05-13T15:46:39Z,2020-05-13T15:54:32Z,0,1,MERGED
+evergreen,Fix typo in comment,https://github.com/segmentio/evergreen/pull/820,2020-05-09T21:24:03Z,2020-05-13T03:36:07Z,0,1,MERGED
+evergreen,[TagInput] Expose `tagSubmitKey` prop ,https://github.com/segmentio/evergreen/pull/819,2020-05-07T19:40:16Z,2020-05-07T23:13:43Z,1,3,MERGED
+evergreen,fully tree-shakeable icons,https://github.com/segmentio/evergreen/pull/818,2020-05-07T18:42:13Z,2020-05-13T03:35:20Z,5,8,MERGED
+evergreen,[v5] move codemod deps,https://github.com/segmentio/evergreen/pull/817,2020-05-07T02:41:13Z,2020-05-08T01:45:33Z,1,1,MERGED
+evergreen,Convert TextInputField and TextInput Components to Hooks,https://github.com/segmentio/evergreen/pull/816,2020-05-06T06:34:23Z,2020-05-13T03:43:36Z,0,2,MERGED
+evergreen,SelectMenu: Allow to customize size of option item,https://github.com/segmentio/evergreen/pull/815,2020-05-04T15:53:41Z,2020-08-05T20:12:06Z,2,4,CLOSED
+evergreen,Allow header/footer to take close and update .d.ts,https://github.com/segmentio/evergreen/pull/813,2020-04-30T22:02:51Z,2020-04-30T23:12:30Z,0,2,MERGED
+evergreen,[Docs] Fix un-nesting of shape types when shapetype is composed,https://github.com/segmentio/evergreen/pull/812,2020-04-29T19:54:47Z,2020-04-29T20:30:18Z,0,1,MERGED
+evergreen,"""disabled"" property for MenuItem",https://github.com/segmentio/evergreen/pull/811,2020-04-29T11:48:16Z,2020-08-01T04:29:48Z,1,4,CLOSED
+evergreen,revert circular dep,https://github.com/segmentio/evergreen/pull/809,2020-04-27T18:40:50Z,2020-04-27T18:44:07Z,1,1,MERGED
+evergreen,Fix production build,https://github.com/segmentio/evergreen/pull/808,2020-04-27T18:08:10Z,2020-04-27T18:41:23Z,1,1,CLOSED
+evergreen,Update PULL_REQUEST_TEMPLATE.md with better scaffolding,https://github.com/segmentio/evergreen/pull/806,2020-04-26T19:34:59Z,2020-04-26T20:32:02Z,0,2,MERGED
+evergreen,Adds more control features for corner dialog,https://github.com/segmentio/evergreen/pull/805,2020-04-25T18:43:13Z,2020-07-08T06:29:15Z,2,2,CLOSED
+evergreen,Add a feature request template,https://github.com/segmentio/evergreen/pull/804,2020-04-25T16:01:01Z,2020-04-26T15:54:42Z,0,1,MERGED
+evergreen,Update issue templates,https://github.com/segmentio/evergreen/pull/803,2020-04-25T15:51:30Z,2020-04-26T15:54:15Z,0,3,MERGED
+evergreen,Fix types for `<TextareaField />`,https://github.com/segmentio/evergreen/pull/801,2020-04-24T18:13:16Z,2020-04-24T18:29:00Z,1,1,MERGED
+evergreen,"Add new <TextareaField /> component, with identical semantics to <TextInputField />",https://github.com/segmentio/evergreen/pull/800,2020-04-24T16:25:12Z,2020-04-24T17:23:36Z,0,1,MERGED
+evergreen,rm side effects in v5,https://github.com/segmentio/evergreen/pull/799,2020-04-23T18:42:38Z,2020-04-27T18:38:57Z,0,1,MERGED
+evergreen,fix icon size viewbox <> centering,https://github.com/segmentio/evergreen/pull/798,2020-04-23T15:59:31Z,2020-04-23T16:01:53Z,0,1,MERGED
+evergreen,"mark backwards compat classname file as sideEffect, include export + types",https://github.com/segmentio/evergreen/pull/797,2020-04-22T19:25:57Z,2020-04-22T23:53:56Z,0,1,MERGED
+evergreen,only postpublish from master,https://github.com/segmentio/evergreen/pull/795,2020-04-22T02:01:55Z,2020-04-22T02:12:05Z,0,1,MERGED
+evergreen,fix touch events for autocomplete,https://github.com/segmentio/evergreen/pull/793,2020-04-21T02:17:04Z,2020-04-21T04:12:28Z,2,1,MERGED
+evergreen,Downshift v5,https://github.com/segmentio/evergreen/pull/792,2020-04-21T02:08:13Z,2020-04-21T03:05:44Z,4,4,MERGED
+evergreen,Uses forwardRef in such a way that allows propTypes to be assigned to it,https://github.com/segmentio/evergreen/pull/791,2020-04-21T02:06:44Z,2020-04-21T03:02:33Z,0,1,MERGED
+evergreen,Removes fixed height on badge,https://github.com/segmentio/evergreen/pull/788,2020-04-18T23:23:36Z,2020-07-20T04:41:12Z,2,1,CLOSED
+evergreen,add codemod for icon swapping,https://github.com/segmentio/evergreen/pull/785,2020-04-17T19:15:37Z,2020-04-17T19:51:06Z,2,1,MERGED
+evergreen,Prevents error message render for empty values,https://github.com/segmentio/evergreen/pull/782,2020-04-17T01:07:03Z,2020-06-28T17:54:03Z,6,1,CLOSED
+evergreen,fix type declarations for icons,https://github.com/segmentio/evergreen/pull/781,2020-04-16T22:32:41Z,2020-04-16T23:02:24Z,0,1,MERGED
+evergreen,Support tree-shakeable icons,https://github.com/segmentio/evergreen/pull/779,2020-04-16T03:11:53Z,2020-04-16T17:57:20Z,5,18,MERGED
+evergreen,Update typedefs to be more specific about icon types,https://github.com/segmentio/evergreen/pull/778,2020-04-13T17:18:44Z,2020-04-13T17:59:39Z,0,1,MERGED
+evergreen,Update autocomplete docs to be specific about values for `position`,https://github.com/segmentio/evergreen/pull/773,2020-04-09T21:11:38Z,2020-04-09T21:20:43Z,0,1,MERGED
+evergreen,"[Docs] Recursively un-nest `arrayOf`, `shape`, and `union` types",https://github.com/segmentio/evergreen/pull/771,2020-04-01T18:09:55Z,2020-04-01T20:28:38Z,1,2,MERGED
+evergreen,render optimizations,https://github.com/segmentio/evergreen/pull/916,2020-07-29T17:17:18Z,2020-07-29T21:47:50Z,1,4,MERGED
+evergreen,V5,https://github.com/segmentio/evergreen/pull/915,2020-07-29T02:01:56Z,2020-08-03T19:47:41Z,0,116,MERGED
+evergreen,expose *OwnProps and polymorphic *Props separately,https://github.com/segmentio/evergreen/pull/914,2020-07-28T15:13:00Z,2020-07-28T15:51:25Z,0,3,MERGED
+evergreen,include displayNames for devmode,https://github.com/segmentio/evergreen/pull/913,2020-07-27T23:19:31Z,2020-07-27T23:54:58Z,0,2,MERGED
+evergreen,V5 master merge,https://github.com/segmentio/evergreen/pull/912,2020-07-27T18:09:07Z,2020-07-27T18:13:05Z,0,9,MERGED
+evergreen,v5 autocomplete bug,https://github.com/segmentio/evergreen/pull/910,2020-07-26T17:44:28Z,2020-07-26T17:44:50Z,0,1,MERGED
+evergreen,update contributors,https://github.com/segmentio/evergreen/pull/909,2020-07-26T00:54:26Z,2020-07-26T00:56:37Z,0,1,MERGED
+evergreen,use icon element types instead of strings internally,https://github.com/segmentio/evergreen/pull/908,2020-07-25T19:29:29Z,2020-07-27T16:08:08Z,2,5,MERGED
+evergreen,V5 react transition group,https://github.com/segmentio/evergreen/pull/907,2020-07-25T04:01:03Z,2020-07-28T23:09:58Z,1,2,CLOSED
+evergreen,Full Tree Shakeable Icon Support,https://github.com/segmentio/evergreen/pull/906,2020-07-24T20:12:57Z,2020-07-26T00:57:58Z,2,3,CLOSED
+evergreen,update v5 migration docs,https://github.com/segmentio/evergreen/pull/905,2020-07-23T23:31:06Z,2020-07-23T23:39:43Z,2,2,MERGED
+evergreen,V5 docs,https://github.com/segmentio/evergreen/pull/904,2020-07-23T16:28:12Z,2020-07-23T16:52:58Z,0,3,MERGED
+evergreen,Fix body click handler for popover,https://github.com/segmentio/evergreen/pull/903,2020-07-22T21:34:04Z,2020-07-23T13:58:40Z,0,1,MERGED
+evergreen,add useMergedRef hook,https://github.com/segmentio/evergreen/pull/902,2020-07-22T19:10:57Z,2020-07-22T19:12:59Z,0,1,MERGED
+evergreen,rm misc .isRequired prop types no longer needed,https://github.com/segmentio/evergreen/pull/899,2020-07-21T19:48:49Z,2020-07-21T19:52:23Z,0,1,MERGED
+evergreen,Add forwardRef to serach table header cell,https://github.com/segmentio/evergreen/pull/898,2020-07-21T19:14:26Z,2020-07-21T19:20:35Z,1,2,MERGED
+evergreen,Update popover to forward ref,https://github.com/segmentio/evergreen/pull/897,2020-07-21T01:06:22Z,2020-07-21T18:34:56Z,0,2,MERGED
+evergreen,V5 box types,https://github.com/segmentio/evergreen/pull/896,2020-07-20T15:35:33Z,2020-07-20T16:26:55Z,3,6,MERGED
+evergreen,Readme file updated,https://github.com/segmentio/evergreen/pull/893,2020-07-18T07:33:21Z,2020-07-28T23:12:54Z,0,1,MERGED
+evergreen,move storybook stuff to devdeps,https://github.com/segmentio/evergreen/pull/891,2020-07-17T01:53:02Z,2020-07-17T04:42:35Z,2,1,MERGED
+evergreen,fix debounce binds,https://github.com/segmentio/evergreen/pull/890,2020-07-16T23:29:47Z,2020-07-17T01:16:00Z,0,1,MERGED
+evergreen,build some custom hooks,https://github.com/segmentio/evergreen/pull/889,2020-07-16T23:11:51Z,2020-07-16T23:18:15Z,1,3,MERGED
+evergreen,Update TagInput to be FC and use hooks,https://github.com/segmentio/evergreen/pull/888,2020-07-15T10:37:07Z,2020-07-15T23:39:03Z,1,3,MERGED
+evergreen,Update Tooltip Component to use hooks and to be a FC,https://github.com/segmentio/evergreen/pull/887,2020-07-15T10:00:44Z,2020-07-15T23:59:23Z,5,4,MERGED
+evergreen,V5 toaster fc,https://github.com/segmentio/evergreen/pull/886,2020-07-15T09:01:25Z,2020-07-15T23:39:13Z,2,4,MERGED
+evergreen,cleanup remnants of innerRef and fix bubbling,https://github.com/segmentio/evergreen/pull/885,2020-07-15T02:58:24Z,2020-07-15T03:12:39Z,7,1,MERGED
+evergreen,V5 bubble ref,https://github.com/segmentio/evergreen/pull/884,2020-07-15T01:31:22Z,2020-07-15T02:42:35Z,0,2,MERGED
+evergreen,Docs(positioner): update type comments (getPosition),https://github.com/segmentio/evergreen/pull/883,2020-07-14T06:59:57Z,2020-07-14T16:38:11Z,0,2,MERGED
+evergreen,Update Table to be FC/use hooks,https://github.com/segmentio/evergreen/pull/882,2020-07-13T22:27:05Z,2020-07-14T21:25:20Z,2,2,MERGED
+evergreen,Update ScrollbarSize to be FC and use Hooks,https://github.com/segmentio/evergreen/pull/881,2020-07-13T22:24:14Z,2020-07-14T14:16:00Z,0,1,MERGED
+evergreen,Update TableBody to use hooks/be a fc,https://github.com/segmentio/evergreen/pull/880,2020-07-13T22:20:00Z,2020-07-13T22:21:45Z,0,1,MERGED
+evergreen,V5 table head fc,https://github.com/segmentio/evergreen/pull/879,2020-07-13T21:00:40Z,2020-07-13T22:07:55Z,0,1,MERGED
+evergreen,Update Table Row to FC/Hooks,https://github.com/segmentio/evergreen/pull/878,2020-07-13T20:55:13Z,2020-07-14T21:12:29Z,2,2,MERGED
+evergreen,V5 virtual body fc,https://github.com/segmentio/evergreen/pull/877,2020-07-13T20:48:21Z,2020-07-14T21:12:45Z,3,5,MERGED
+evergreen,V5 table cells,https://github.com/segmentio/evergreen/pull/876,2020-07-13T20:31:33Z,2020-07-13T22:07:07Z,0,1,MERGED
+evergreen,switch to `emotion`,https://github.com/segmentio/evergreen/pull/875,2020-07-12T19:01:26Z,2020-07-13T13:45:12Z,3,6,CLOSED
+evergreen,move defaultProps into default values,https://github.com/segmentio/evergreen/pull/874,2020-07-12T18:40:25Z,2020-07-12T18:44:58Z,0,1,MERGED
+evergreen,upgrade react-transition-group,https://github.com/segmentio/evergreen/pull/873,2020-07-12T00:26:28Z,2020-07-12T00:28:25Z,0,1,MERGED
+evergreen,convert tab components to React.FC,https://github.com/segmentio/evergreen/pull/872,2020-07-11T21:44:26Z,2020-07-13T17:34:59Z,0,1,MERGED
+evergreen,add todos and update types,https://github.com/segmentio/evergreen/pull/871,2020-07-11T21:44:22Z,2020-07-13T18:25:42Z,2,3,MERGED
+evergreen,update language,https://github.com/segmentio/evergreen/pull/870,2020-07-07T23:40:42Z,2020-07-12T00:30:05Z,0,1,MERGED
+evergreen,Fix typing typo in PositionerProps and PopoverProps,https://github.com/segmentio/evergreen/pull/869,2020-07-06T16:56:30Z,2020-07-14T14:22:42Z,0,1,MERGED
+evergreen,convert Stack to React.FC,https://github.com/segmentio/evergreen/pull/868,2020-07-06T15:55:50Z,2020-07-06T16:29:55Z,1,1,MERGED
+evergreen,V5 updated icons,https://github.com/segmentio/evergreen/pull/867,2020-06-30T16:27:49Z,2020-07-06T14:30:34Z,0,1,MERGED
+evergreen,Convert Positioner component to Hooks/FC,https://github.com/segmentio/evergreen/pull/864,2020-06-25T21:43:24Z,2020-06-30T16:11:35Z,3,3,MERGED
+evergreen,Convert Segmented Control to Hooks/FC,https://github.com/segmentio/evergreen/pull/863,2020-06-25T19:37:59Z,2020-06-30T16:11:06Z,4,3,MERGED
+evergreen,Convert the Table components to FC/Hooks,https://github.com/segmentio/evergreen/pull/862,2020-06-25T18:52:11Z,2020-07-13T17:29:00Z,5,4,CLOSED
+evergreen,"Revert ""New Icons added""",https://github.com/segmentio/evergreen/pull/861,2020-06-22T22:38:35Z,2020-06-22T22:38:43Z,0,1,MERGED
+evergreen,New Icons added,https://github.com/segmentio/evergreen/pull/860,2020-06-22T22:32:11Z,2020-06-22T22:36:55Z,0,1,MERGED
+evergreen,Achieve styling similar to the rest of the site,https://github.com/segmentio/evergreen/pull/854,2020-06-06T10:43:59Z,2020-07-06T14:46:15Z,0,1,MERGED
+evergreen,languge patch start,https://github.com/segmentio/evergreen/pull/1105,2020-10-30T16:09:15Z,2020-11-03T15:14:53Z,0,4,CLOSED
+evergreen,"Add `Table` style config key, and add v6 table styles",https://github.com/segmentio/evergreen/pull/1104,2020-10-30T11:42:59Z,2020-11-04T16:34:09Z,2,1,MERGED
+evergreen,Fixup options list searchable header cell,https://github.com/segmentio/evergreen/pull/1103,2020-10-26T22:59:44Z,2020-10-26T23:01:32Z,0,1,MERGED
+evergreen,Fix Big Button Example - Issue #1099,https://github.com/segmentio/evergreen/pull/1101,2020-10-21T20:38:40Z,2021-01-03T14:14:03Z,2,3,CLOSED
+evergreen,Bring default links fully in-line with specs,https://github.com/segmentio/evergreen/pull/1098,2020-10-19T17:01:42Z,2020-10-19T17:36:26Z,0,1,MERGED
+evergreen,Fix infinite render loop in Positioner,https://github.com/segmentio/evergreen/pull/1097,2020-10-15T04:41:58Z,2021-06-26T02:27:27Z,3,1,CLOSED
+evergreen,Add new component <Stack />,https://github.com/segmentio/evergreen/pull/1094,2020-10-11T00:06:22Z,2020-11-26T08:58:53Z,4,2,CLOSED
+evergreen,docs: fix theming playground rendering,https://github.com/segmentio/evergreen/pull/1093,2020-10-10T17:56:22Z,2020-10-10T20:51:41Z,0,1,MERGED
+evergreen,Migrate `<Label />` away from using `<Text />`,https://github.com/segmentio/evergreen/pull/1091,2020-10-08T18:22:44Z,2020-10-08T18:45:33Z,1,2,MERGED
+evergreen,Fix color of headings in default theme,https://github.com/segmentio/evergreen/pull/1090,2020-10-08T16:52:31Z,2020-10-08T17:06:09Z,0,2,MERGED
+evergreen,Quick fix for vertical tabs,https://github.com/segmentio/evergreen/pull/1089,2020-10-07T23:56:44Z,2020-10-08T00:02:25Z,0,1,MERGED
+evergreen,Fix default buttons intents,https://github.com/segmentio/evergreen/pull/1088,2020-10-07T22:50:11Z,2020-10-07T22:54:49Z,0,2,MERGED
+evergreen,Fix tabs to correctly justify content,https://github.com/segmentio/evergreen/pull/1087,2020-10-07T22:29:57Z,2020-10-07T22:38:16Z,0,1,MERGED
+evergreen,Some fixes to alert,https://github.com/segmentio/evergreen/pull/1086,2020-10-07T01:53:16Z,2020-10-07T02:30:22Z,0,2,MERGED
+evergreen,Fixup paragraph line height and table row selected color in classic theme,https://github.com/segmentio/evergreen/pull/1085,2020-10-06T15:33:10Z,2020-10-06T15:41:04Z,2,1,MERGED
+evergreen,Bring default theme headings + font weights closer to spec ,https://github.com/segmentio/evergreen/pull/1083,2020-10-05T23:41:42Z,2020-10-06T15:41:36Z,0,2,MERGED
+evergreen,Remove explicit `type` set on `<Button />`,https://github.com/segmentio/evergreen/pull/1082,2020-10-05T22:00:03Z,2020-10-05T22:04:26Z,0,2,MERGED
+evergreen,Remove spectrum link in favor of GH Discussions,https://github.com/segmentio/evergreen/pull/1081,2020-10-05T18:27:45Z,2020-10-05T21:17:06Z,0,3,MERGED
+evergreen,Add yarnhook to commit hooks,https://github.com/segmentio/evergreen/pull/1079,2020-10-02T18:17:31Z,2020-10-02T19:48:00Z,0,1,MERGED
+evergreen,Merge `master` into `v6`,https://github.com/segmentio/evergreen/pull/1078,2020-10-02T16:08:28Z,2020-12-13T01:51:23Z,1,35,CLOSED
+evergreen,Update Table Head to appear as expected in themes,https://github.com/segmentio/evergreen/pull/1077,2020-10-01T20:27:35Z,2020-10-01T20:30:29Z,0,1,MERGED
+evergreen,Move `<Tab />` spacing into theme,https://github.com/segmentio/evergreen/pull/1076,2020-10-01T19:36:23Z,2020-10-01T20:30:56Z,1,2,MERGED
+evergreen,"Smattering of bug fixes across Menus, SelectMenu, and FormField",https://github.com/segmentio/evergreen/pull/1075,2020-10-01T17:48:58Z,2020-10-01T18:07:50Z,4,3,MERGED
+evergreen,Make classic theme the fallback theme coming from the theme context,https://github.com/segmentio/evergreen/pull/1074,2020-10-01T15:50:21Z,2020-10-01T18:23:11Z,0,3,MERGED
+evergreen,Tighten up classic theme tooltip padding,https://github.com/segmentio/evergreen/pull/1073,2020-09-30T21:53:27Z,2020-09-30T21:57:49Z,0,1,MERGED
+evergreen,"use-list-behavior, use-roving-tabindex, tabindex-provider",https://github.com/segmentio/evergreen/pull/1072,2020-09-30T20:33:10Z,2020-12-11T08:06:06Z,4,21,CLOSED
+evergreen,"Break apart theme styles for Dialog into header, body, and footer props",https://github.com/segmentio/evergreen/pull/1071,2020-09-30T14:45:07Z,2020-09-30T15:21:06Z,0,2,MERGED
+evergreen,Update option to use style config,https://github.com/segmentio/evergreen/pull/1070,2020-09-29T19:05:27Z,2020-09-30T00:24:21Z,4,8,MERGED
+evergreen,chore: upgrade rollup,https://github.com/segmentio/evergreen/pull/1068,2020-09-27T05:56:47Z,2021-07-22T03:16:18Z,12,11,MERGED
+evergreen,[Default theme] Fix input focus rings to just be for default appearance,https://github.com/segmentio/evergreen/pull/1067,2020-09-25T15:38:49Z,2020-09-25T15:40:52Z,0,2,MERGED
+evergreen,"Remove dom-helpers, add local lib/canUseDom",https://github.com/segmentio/evergreen/pull/1066,2020-09-25T08:57:45Z,2020-10-06T19:21:35Z,4,1,MERGED
+evergreen,Initial pass bringing the `classicTheme` implementation closer to what it should be,https://github.com/segmentio/evergreen/pull/1064,2020-09-24T21:09:57Z,2020-09-24T23:55:54Z,0,5,MERGED
+evergreen,Fix broken icon docs,https://github.com/segmentio/evergreen/pull/1063,2020-09-24T18:39:47Z,2020-09-24T18:59:07Z,0,2,MERGED
+evergreen,Fix TextInput / Textarea line height + invalid focus state,https://github.com/segmentio/evergreen/pull/1061,2020-09-24T15:36:09Z,2020-09-24T15:53:51Z,0,4,MERGED
+evergreen,Fix button prop type errors for classic theme ,https://github.com/segmentio/evergreen/pull/1060,2020-09-24T12:39:02Z,2020-09-24T12:39:11Z,1,2,MERGED
+evergreen,Fix default height for the filepicker,https://github.com/segmentio/evergreen/pull/1059,2020-09-24T11:56:29Z,2020-09-24T12:06:42Z,0,2,MERGED
+evergreen,fix(button): merge props value,https://github.com/segmentio/evergreen/pull/1058,2020-09-24T08:07:38Z,2020-09-24T11:45:52Z,2,2,CLOSED
+evergreen,"Backport dynamic text sizing for non-size usage in Button, TextInput, and Select ",https://github.com/segmentio/evergreen/pull/1056,2020-09-23T20:38:18Z,2020-09-24T00:24:16Z,0,1,MERGED
+evergreen,Add link to Evergreen's Figma file from designer resources page,https://github.com/segmentio/evergreen/pull/1055,2020-09-22T15:46:40Z,2020-09-22T16:13:57Z,0,1,MERGED
+evergreen,Fixup classic button / text input styles + make button default theme backwards-compat,https://github.com/segmentio/evergreen/pull/1052,2020-09-21T23:29:33Z,2020-09-22T14:18:12Z,0,4,MERGED
+evergreen,Fix exported v6 types,https://github.com/segmentio/evergreen/pull/1049,2020-09-18T23:05:24Z,2020-09-18T23:14:01Z,0,5,MERGED
+evergreen,Fix type definition for SideSheet,https://github.com/segmentio/evergreen/pull/1048,2020-09-18T21:30:25Z,2020-09-27T19:53:27Z,1,1,MERGED
+evergreen,Add back <SidebarTab /> with a deprecation warning in favor for <Tab />`,https://github.com/segmentio/evergreen/pull/1047,2020-09-17T22:15:39Z,2020-09-17T22:21:26Z,1,7,MERGED
+evergreen,Make select menu better,https://github.com/segmentio/evergreen/pull/1046,2020-09-17T16:46:18Z,2020-09-29T18:31:19Z,25,17,CLOSED
+evergreen,Add types for `deprecatedDefaultTheme` that was introduced in #1042,https://github.com/segmentio/evergreen/pull/1045,2020-09-17T16:14:42Z,2020-09-17T16:43:02Z,1,2,MERGED
+evergreen,Remove references to deprecated `tokens` for `<Code />` in the default theme,https://github.com/segmentio/evergreen/pull/1044,2020-09-17T16:05:22Z,2020-09-17T16:07:47Z,0,1,MERGED
+evergreen,Start adding strongly typed props for building theme objects,https://github.com/segmentio/evergreen/pull/1043,2020-09-17T15:51:09Z,2020-09-17T18:35:26Z,1,2,MERGED
+evergreen,Adds a `defaultDeprecatedTheme` to ease the majority migration case,https://github.com/segmentio/evergreen/pull/1042,2020-09-16T21:30:04Z,2020-09-16T22:13:54Z,3,5,MERGED
+evergreen,V6 update with master,https://github.com/segmentio/evergreen/pull/1041,2020-09-16T19:55:09Z,2020-09-16T22:17:25Z,10,36,MERGED
+evergreen,"Fix `marginTop=""default""` codemod to be better-aware of default sizing",https://github.com/segmentio/evergreen/pull/1040,2020-09-16T19:11:58Z,2020-09-16T19:21:47Z,0,2,MERGED
+evergreen,named export useStyleConfig,https://github.com/segmentio/evergreen/pull/1039,2020-09-16T14:29:25Z,2020-09-16T14:46:58Z,0,1,MERGED
+evergreen,V6 use clickable,https://github.com/segmentio/evergreen/pull/1038,2020-09-16T03:45:38Z,2020-09-17T17:12:31Z,8,9,MERGED
+evergreen,"Add a codemod to replace `marginTop=""default""` with the actual value",https://github.com/segmentio/evergreen/pull/1037,2020-09-16T00:13:12Z,2020-09-16T13:54:30Z,0,4,MERGED
+evergreen,Row and MenuItem,https://github.com/segmentio/evergreen/pull/1036,2020-09-15T22:00:58Z,2020-09-15T23:32:08Z,6,2,MERGED
+evergreen,fix styles for combobox height,https://github.com/segmentio/evergreen/pull/1035,2020-09-15T20:00:37Z,2020-09-15T20:50:34Z,0,4,MERGED
+evergreen,tweak Select styles,https://github.com/segmentio/evergreen/pull/1034,2020-09-15T18:59:43Z,2020-09-15T19:06:57Z,0,2,MERGED
+evergreen,move SegmentedControl to Group/Button and add deprecation warning,https://github.com/segmentio/evergreen/pull/1033,2020-09-15T18:14:29Z,2020-09-15T18:28:57Z,1,3,MERGED
+evergreen,"Remove docs from being watched by ESLint, and remove unused docs ESLint config",https://github.com/segmentio/evergreen/pull/1032,2020-09-15T15:03:54Z,2020-09-15T15:16:30Z,0,2,MERGED
+evergreen,Fix `github` link on the select docs page,https://github.com/segmentio/evergreen/pull/1031,2020-09-15T03:39:08Z,2020-09-15T03:48:39Z,0,1,MERGED
+evergreen,Fixup `<Select />` styles in v6,https://github.com/segmentio/evergreen/pull/1030,2020-09-15T03:32:35Z,2020-09-15T03:37:21Z,0,2,MERGED
+evergreen,v6 Table cell and table header in style config,https://github.com/segmentio/evergreen/pull/1029,2020-09-15T03:20:01Z,2020-09-15T03:50:47Z,0,3,MERGED
+evergreen,add <Group />,https://github.com/segmentio/evergreen/pull/1028,2020-09-15T00:13:37Z,2020-09-15T16:09:16Z,0,5,MERGED
+evergreen,Add in v6 links in style config ,https://github.com/segmentio/evergreen/pull/1027,2020-09-14T22:58:07Z,2020-09-14T23:04:29Z,0,1,MERGED
+evergreen,V6 dialog,https://github.com/segmentio/evergreen/pull/1026,2020-09-14T22:27:11Z,2020-09-14T22:37:45Z,0,2,MERGED
+evergreen,Move tabs over to new style,https://github.com/segmentio/evergreen/pull/1025,2020-09-14T21:51:46Z,2020-09-14T23:03:35Z,5,5,MERGED
+evergreen,v6 theme for ol/ul/li,https://github.com/segmentio/evergreen/pull/1024,2020-09-14T21:36:36Z,2020-09-14T21:44:55Z,0,2,MERGED
+evergreen,"Update Text, Paragraph to be aware of `fontFamily` and `color`",https://github.com/segmentio/evergreen/pull/1023,2020-09-14T21:36:32Z,2020-09-14T21:48:00Z,0,4,MERGED
+evergreen,Fix error caused when bringFocusInside is called outside an event han…,https://github.com/segmentio/evergreen/pull/1022,2020-09-14T20:46:50Z,2020-09-14T20:48:59Z,0,1,MERGED
+evergreen,rm old typography stuff and style Heading via theme,https://github.com/segmentio/evergreen/pull/1021,2020-09-14T20:22:04Z,2020-09-14T20:40:30Z,1,2,MERGED
+evergreen,Support `<Text />` and `<Paragraph />` via the new theme,https://github.com/segmentio/evergreen/pull/1020,2020-09-14T20:07:53Z,2020-09-14T21:01:28Z,3,5,MERGED
+evergreen,tweak input styles,https://github.com/segmentio/evergreen/pull/1019,2020-09-14T19:15:49Z,2020-09-14T19:31:54Z,3,3,MERGED
+evergreen,Remove <BackButton /> usage in Evergreen,https://github.com/segmentio/evergreen/pull/1018,2020-09-14T19:12:43Z,2020-09-14T19:15:03Z,0,2,MERGED
+evergreen,Fixup reference to spinner size,https://github.com/segmentio/evergreen/pull/1017,2020-09-14T18:54:03Z,2020-09-14T18:59:04Z,0,1,MERGED
+evergreen,Spinner + Overlay in v6 via new theme ,https://github.com/segmentio/evergreen/pull/1016,2020-09-14T18:21:14Z,2020-09-14T18:46:30Z,3,4,MERGED
+evergreen,pull Card radius from theme,https://github.com/segmentio/evergreen/pull/1015,2020-09-14T17:27:58Z,2020-09-14T17:44:08Z,0,1,MERGED
+evergreen,Fixup incorrect icon usage on Menu docs,https://github.com/segmentio/evergreen/pull/1013,2020-09-14T14:18:43Z,2020-09-14T15:21:48Z,1,1,MERGED
+evergreen,"Update Dialog ""title"" prop type in declaration file",https://github.com/segmentio/evergreen/pull/1012,2020-09-14T05:10:33Z,2020-09-14T15:52:30Z,1,2,MERGED
+evergreen,Clear up tooltip timeouts on mouse leave,https://github.com/segmentio/evergreen/pull/1011,2020-09-14T00:29:03Z,2020-09-14T03:20:44Z,0,1,MERGED
+evergreen,[ESLint] Turn on `no-console` for the codebase,https://github.com/segmentio/evergreen/pull/1010,2020-09-13T23:46:46Z,2020-09-13T23:47:17Z,1,1,MERGED
+evergreen,"v6 checkbox, radios, and switch all consuming from style config",https://github.com/segmentio/evergreen/pull/1009,2020-09-13T23:29:47Z,2020-09-14T16:35:20Z,9,7,MERGED
+evergreen,V6 text dropdown button,https://github.com/segmentio/evergreen/pull/1008,2020-09-13T19:14:24Z,2020-09-13T23:53:32Z,0,2,MERGED
+evergreen,update PR template,https://github.com/segmentio/evergreen/pull/1007,2020-09-13T19:05:47Z,2020-09-13T19:10:59Z,0,3,MERGED
+evergreen,[ESLint] Turn on import sorting with particular preferences,https://github.com/segmentio/evergreen/pull/1006,2020-09-12T00:19:23Z,2020-09-12T16:31:33Z,0,1,MERGED
+evergreen,Fix input border and button/badge font sizes,https://github.com/segmentio/evergreen/pull/1005,2020-09-12T00:12:19Z,2020-09-12T00:45:44Z,0,3,MERGED
+evergreen,fix IconButton in v5/v6,https://github.com/segmentio/evergreen/pull/1004,2020-09-11T23:28:42Z,2020-09-12T00:13:42Z,1,3,MERGED
+evergreen,"v6 Badge, Pill, Avatar theming",https://github.com/segmentio/evergreen/pull/1003,2020-09-11T22:46:49Z,2020-09-11T23:03:29Z,1,3,MERGED
+evergreen,[ESLint] Add sort-destructure-keys plugin + rules,https://github.com/segmentio/evergreen/pull/1002,2020-09-11T21:48:05Z,2020-09-11T23:29:53Z,0,3,MERGED
+evergreen,move InlineAlert to new theming,https://github.com/segmentio/evergreen/pull/1001,2020-09-11T20:52:31Z,2020-09-11T20:59:39Z,1,1,MERGED
+evergreen,"v6 TextInput, TagInput, and Textarea all in new theme paradigm.",https://github.com/segmentio/evergreen/pull/1000,2020-09-11T19:57:31Z,2020-09-11T21:20:58Z,4,3,MERGED
+evergreen,v6 status indicator + icons theming,https://github.com/segmentio/evergreen/pull/999,2020-09-11T17:29:32Z,2020-09-11T18:43:01Z,0,6,MERGED
+evergreen,v6 tooltips in the new paradigm,https://github.com/segmentio/evergreen/pull/998,2020-09-11T16:49:04Z,2020-09-11T18:16:52Z,1,2,MERGED
+evergreen,v5/v6 Alert themes,https://github.com/segmentio/evergreen/pull/997,2020-09-11T15:36:53Z,2020-09-11T18:17:44Z,3,4,MERGED
+evergreen,v6 buttons in new style paradigm,https://github.com/segmentio/evergreen/pull/995,2020-09-11T03:22:48Z,2020-09-11T03:55:47Z,2,6,MERGED
+evergreen,move Pane to useStyleConfig,https://github.com/segmentio/evergreen/pull/994,2020-09-10T23:19:59Z,2020-09-11T14:39:53Z,2,5,MERGED
+evergreen,get Code from theme,https://github.com/segmentio/evergreen/pull/993,2020-09-10T22:16:07Z,2020-09-10T22:35:59Z,1,3,MERGED
+evergreen,Migrate from ava -> jest ,https://github.com/segmentio/evergreen/pull/992,2020-09-10T22:15:39Z,2020-09-10T22:41:58Z,3,9,MERGED
+evergreen,move onto a new theming paradigm,https://github.com/segmentio/evergreen/pull/991,2020-09-10T21:12:17Z,2020-09-10T21:35:33Z,3,1,MERGED
+evergreen,"Extend prettier and prettier react, remove unneeded rules",https://github.com/segmentio/evergreen/pull/990,2020-09-10T18:59:51Z,2020-09-10T19:00:55Z,0,1,MERGED
+evergreen,Properly point the eslint config to the entire evergreen directory + autofix errors,https://github.com/segmentio/evergreen/pull/989,2020-09-10T18:31:13Z,2020-09-10T18:43:59Z,0,2,MERGED
+evergreen,Migrate off of xo and onto eslint ,https://github.com/segmentio/evergreen/pull/988,2020-09-10T16:49:30Z,2020-09-10T17:00:15Z,0,2,MERGED
+evergreen,Forward TextareaField ref,https://github.com/segmentio/evergreen/pull/987,2020-09-10T14:48:29Z,2020-09-11T02:30:33Z,0,1,MERGED
+evergreen,Update checkbox theme to use style config,https://github.com/segmentio/evergreen/pull/986,2020-09-09T23:21:28Z,2020-09-14T21:48:22Z,5,1,CLOSED
+evergreen,Update Row Styles,https://github.com/segmentio/evergreen/pull/985,2020-09-09T22:39:20Z,2020-09-14T21:48:36Z,5,3,CLOSED
+evergreen,add v5 compat theme for badge/pill/avatar,https://github.com/segmentio/evergreen/pull/984,2020-09-09T19:43:22Z,2020-09-09T19:47:40Z,4,1,MERGED
+evergreen,upgrade to storybook v6 and provide theme toolbar for all stories,https://github.com/segmentio/evergreen/pull/983,2020-09-09T17:41:07Z,2020-09-09T17:47:24Z,0,1,MERGED
+evergreen,"remove most of Themer, and move themes to own TLD",https://github.com/segmentio/evergreen/pull/982,2020-09-09T02:19:18Z,2020-09-09T03:21:26Z,1,4,MERGED
+evergreen,remove getTextDropdownButtonClassName,https://github.com/segmentio/evergreen/pull/981,2020-09-08T23:10:18Z,2020-09-09T01:41:35Z,0,4,MERGED
+evergreen,Fix TextArea issue from migrating to Box from Text,https://github.com/segmentio/evergreen/pull/980,2020-09-08T21:54:27Z,2020-09-08T21:55:47Z,0,1,MERGED
+evergreen,Move table cell appearance over to `useStyleConfig` and avoid exposing on the main API,https://github.com/segmentio/evergreen/pull/979,2020-09-08T17:07:13Z,2020-09-08T17:24:13Z,2,2,MERGED
+evergreen,remove unused getElevation from theme helpers,https://github.com/segmentio/evergreen/pull/978,2020-09-08T15:21:39Z,2020-09-08T15:51:38Z,0,1,MERGED
+evergreen,fixes select-menu keydown and keyup behaviour,https://github.com/segmentio/evergreen/pull/977,2020-09-06T11:11:39Z,2020-09-27T19:41:23Z,0,1,CLOSED
+evergreen, Convert <TextDropdownButton /> to new styling mechanism + do some cleanup / bugfixes,https://github.com/segmentio/evergreen/pull/976,2020-09-05T18:20:24Z,2020-09-06T15:41:41Z,2,1,MERGED
+evergreen,Get rid of `css` prop on `<Pane />` by just composing classnames directly,https://github.com/segmentio/evergreen/pull/975,2020-09-04T14:24:30Z,2020-09-04T15:29:47Z,1,4,MERGED
+evergreen,Update `<Code />` to the new theming style and do some more theme cleanup,https://github.com/segmentio/evergreen/pull/974,2020-09-04T13:51:20Z,2020-09-04T15:07:37Z,6,1,MERGED
+evergreen,V6 pane appearance,https://github.com/segmentio/evergreen/pull/973,2020-09-04T03:08:52Z,2020-09-04T16:53:35Z,7,5,MERGED
+evergreen,Clean up `badgeColors` and `avatarColors` from the v5 and default themes,https://github.com/segmentio/evergreen/pull/972,2020-09-04T00:08:26Z,2020-09-04T00:12:49Z,0,5,MERGED
+evergreen,Update inputs to use new theming style,https://github.com/segmentio/evergreen/pull/971,2020-09-03T23:39:19Z,2020-09-04T19:23:25Z,12,10,MERGED
+evergreen,V6 inputs theme update,https://github.com/segmentio/evergreen/pull/970,2020-09-03T23:36:43Z,2020-09-03T23:36:48Z,0,3,CLOSED
+evergreen,fix icon button size,https://github.com/segmentio/evergreen/pull/969,2020-09-03T22:43:47Z,2020-09-03T22:47:55Z,0,1,MERGED
+evergreen,V6 theme,https://github.com/segmentio/evergreen/pull/968,2020-09-03T22:09:38Z,2020-09-03T22:14:31Z,1,74,MERGED
+evergreen,V6 style config,https://github.com/segmentio/evergreen/pull/967,2020-09-03T21:46:06Z,2020-09-03T22:08:59Z,1,7,MERGED
+evergreen,add size prop to buttons,https://github.com/segmentio/evergreen/pull/964,2020-09-02T17:12:47Z,2020-09-02T21:50:17Z,3,4,MERGED
+evergreen,fix Popover focus issues,https://github.com/segmentio/evergreen/pull/962,2020-09-02T01:04:10Z,2020-09-02T01:17:14Z,1,1,MERGED
+evergreen,add StackingOrder and Code appearance typedefs,https://github.com/segmentio/evergreen/pull/961,2020-08-31T20:14:03Z,2020-08-31T20:31:42Z,1,2,MERGED
+evergreen,fix input height regression on text field,https://github.com/segmentio/evergreen/pull/960,2020-08-29T19:54:20Z,2020-08-29T19:55:45Z,0,1,MERGED
+evergreen,fix undefined props merging and list styles,https://github.com/segmentio/evergreen/pull/959,2020-08-28T16:40:01Z,2020-08-28T18:15:11Z,1,1,MERGED
+evergreen,Update inputs to new theming style,https://github.com/segmentio/evergreen/pull/958,2020-08-28T05:21:24Z,2020-09-01T22:19:45Z,4,2,CLOSED
+evergreen,V6 theme re org,https://github.com/segmentio/evergreen/pull/957,2020-08-27T21:55:17Z,2020-08-28T00:30:02Z,5,12,MERGED
+evergreen,V6 rename themes,https://github.com/segmentio/evergreen/pull/956,2020-08-27T21:11:49Z,2020-08-27T21:51:49Z,1,3,MERGED
+evergreen,V6 theme re org,https://github.com/segmentio/evergreen/pull/955,2020-08-27T21:06:22Z,2020-08-27T21:08:35Z,0,6,CLOSED
+evergreen,fix menu disable items functionality and appearence,https://github.com/segmentio/evergreen/pull/954,2020-08-27T19:45:58Z,2020-09-01T15:35:58Z,6,2,MERGED
+evergreen,"fix classnames overwrites in Tab, TagInput, FilePicker, TextDropdown",https://github.com/segmentio/evergreen/pull/953,2020-08-27T18:23:48Z,2020-09-01T15:36:16Z,1,1,MERGED
+evergreen,Convert <OptionsList /> + <Options /> to hooks and add semantic token for option colors,https://github.com/segmentio/evergreen/pull/952,2020-08-27T17:51:00Z,2020-08-27T18:16:16Z,0,2,MERGED
+evergreen,Push `spinnerColor` and `overlayBackgroundColor` into theme tokens,https://github.com/segmentio/evergreen/pull/951,2020-08-26T17:51:12Z,2020-08-26T21:37:20Z,0,1,MERGED
+evergreen,Fix broken Icon docs with non-existent condition,https://github.com/segmentio/evergreen/pull/950,2020-08-26T16:45:07Z,2020-08-26T16:48:06Z,0,1,MERGED
+evergreen,Slim up theme interfaces even more,https://github.com/segmentio/evergreen/pull/949,2020-08-26T14:51:17Z,2020-08-26T15:41:21Z,0,2,MERGED
+evergreen,Clean up theming interfaces for v5 and v6 themes,https://github.com/segmentio/evergreen/pull/948,2020-08-25T22:45:04Z,2020-08-25T23:52:55Z,0,4,MERGED
+evergreen,Break apart theme pieces to support v5 and v6 theming,https://github.com/segmentio/evergreen/pull/947,2020-08-25T03:49:00Z,2020-08-25T21:24:54Z,3,14,MERGED
+evergreen,fix unnecessary re-renders for popover component,https://github.com/segmentio/evergreen/pull/945,2020-08-21T22:04:34Z,2020-09-01T15:36:33Z,3,1,MERGED
+evergreen,V6 theme ui fixes,https://github.com/segmentio/evergreen/pull/944,2020-08-21T06:31:33Z,2020-09-10T21:41:14Z,4,70,CLOSED
+evergreen,V6 theme ui fixes,https://github.com/segmentio/evergreen/pull/943,2020-08-20T16:13:43Z,2020-08-20T21:12:12Z,0,25,MERGED
+evergreen,V6 status indicator,https://github.com/segmentio/evergreen/pull/942,2020-08-18T18:19:19Z,2020-08-19T23:20:03Z,6,7,MERGED
+evergreen,fix onChange() and onBlur() types for FilePicker,https://github.com/segmentio/evergreen/pull/941,2020-08-17T23:58:26Z,2020-08-18T02:03:28Z,0,1,MERGED
+evergreen,fix syntax error in theme example (#937),https://github.com/segmentio/evergreen/pull/938,2020-08-15T10:33:41Z,2020-08-27T16:38:11Z,3,1,CLOSED
+evergreen,Update layout-primitives.mdx,https://github.com/segmentio/evergreen/pull/936,2020-08-12T10:43:33Z,2020-08-12T12:12:56Z,1,1,MERGED
+evergreen,Add missing disabled property to SegmentedControlOwnProps interface,https://github.com/segmentio/evergreen/pull/935,2020-08-11T14:57:01Z,2020-09-01T15:36:49Z,1,1,MERGED
+evergreen,Add box wrapper to maintain positioning for custom icons,https://github.com/segmentio/evergreen/pull/934,2020-08-10T17:55:51Z,2020-08-10T18:41:38Z,2,4,MERGED
+evergreen,"Resolve issue, where incorrect props where being passed around",https://github.com/segmentio/evergreen/pull/933,2020-08-10T17:14:14Z,2020-08-10T18:41:53Z,1,1,MERGED
+evergreen,Fix(switch): set default value (checked),https://github.com/segmentio/evergreen/pull/932,2020-08-10T08:45:47Z,2020-08-10T18:42:11Z,1,2,MERGED
+evergreen,Fix itemToString for Autocomplete & Combobox (#930),https://github.com/segmentio/evergreen/pull/931,2020-08-10T01:55:12Z,2020-08-10T18:42:25Z,1,1,MERGED
+evergreen,Call `onStateChange` if passed to `<Combobox>`,https://github.com/segmentio/evergreen/pull/926,2020-08-07T13:11:33Z,2020-08-10T18:42:37Z,2,1,MERGED
+evergreen,fix autocomplete itemToString,https://github.com/segmentio/evergreen/pull/924,2020-08-04T20:45:44Z,2020-08-04T20:47:47Z,0,1,MERGED
+evergreen,Update readme for v5,https://github.com/segmentio/evergreen/pull/923,2020-08-04T19:39:48Z,2020-08-04T19:41:16Z,0,1,MERGED
+evergreen,Fix combobox,https://github.com/segmentio/evergreen/pull/922,2020-08-03T20:05:13Z,2020-08-03T20:08:13Z,0,1,MERGED
+evergreen,Fix toaster types,https://github.com/segmentio/evergreen/pull/920,2020-08-03T17:00:04Z,2020-11-13T22:56:40Z,3,1,CLOSED
+evergreen,Feat(types): complement type,https://github.com/segmentio/evergreen/pull/1132,2020-12-31T04:00:31Z,2021-05-12T16:41:52Z,1,3,CLOSED
+evergreen,Add github actions in place of our Circle config,https://github.com/segmentio/evergreen/pull/1131,2020-12-30T20:52:25Z,2021-05-17T22:00:13Z,2,2,CLOSED
+evergreen,Make the default theme the primary theme in theme context,https://github.com/segmentio/evergreen/pull/1124,2020-12-09T01:25:07Z,2020-12-09T01:37:49Z,0,3,MERGED
+evergreen,"Run prettier across the codebase, and add prettier --check to CI",https://github.com/segmentio/evergreen/pull/1122,2020-12-04T22:27:52Z,2020-12-04T22:52:35Z,0,6,MERGED
+evergreen,Add optional shouldCloseOnEscapePress for Popover,https://github.com/segmentio/evergreen/pull/1121,2020-12-04T17:40:31Z,2021-06-17T00:29:56Z,6,1,CLOSED
+evergreen,Move @testing-library/react to dev deps and deduplicate deps,https://github.com/segmentio/evergreen/pull/1119,2020-12-04T04:06:47Z,2020-12-04T04:12:20Z,0,1,MERGED
+evergreen,Add some baseline testing to our typography components,https://github.com/segmentio/evergreen/pull/1118,2020-12-04T00:33:38Z,2020-12-04T01:10:58Z,0,4,MERGED
+evergreen,Resolve circular dependencies in the theme objects,https://github.com/segmentio/evergreen/pull/1113,2020-11-21T00:40:33Z,2020-11-21T00:48:28Z,0,1,MERGED
+evergreen,Add HTML title attributes to table text cells,https://github.com/segmentio/evergreen/pull/1112,2020-11-21T00:21:34Z,2020-11-21T00:29:06Z,0,1,MERGED
+evergreen,fix blur on undefined,https://github.com/segmentio/evergreen/pull/1111,2020-11-11T00:03:02Z,2020-11-11T19:59:52Z,0,1,MERGED
+evergreen,feat: simplify code contributions via automating the dev setup.,https://github.com/segmentio/evergreen/pull/1107,2020-11-02T16:15:16Z,2021-01-10T04:58:16Z,1,1,CLOSED
+evergreen,Call `onBeforeCose` before closing overlay,https://github.com/segmentio/evergreen/pull/1162,2021-03-15T07:01:25Z,2021-03-15T19:42:38Z,2,2,MERGED
+evergreen,Add Pulsar and Nudge,https://github.com/segmentio/evergreen/pull/1161,2021-03-09T23:01:11Z,2021-03-11T18:29:49Z,3,3,MERGED
+evergreen,Add Pagination and usePaginationBehavior to Evergreen,https://github.com/segmentio/evergreen/pull/1157,2021-03-05T01:49:19Z,2021-03-05T01:53:51Z,1,1,MERGED
+evergreen,🎨 Using destructing assignment in docs code + removed not required …,https://github.com/segmentio/evergreen/pull/1156,2021-03-04T20:07:12Z,2021-06-26T02:27:36Z,1,1,CLOSED
+evergreen,📝 CONTRIBUTING.md file to clean Readme.md + fixed step 2 in it,https://github.com/segmentio/evergreen/pull/1155,2021-03-04T19:06:05Z,2021-06-26T02:27:37Z,1,1,CLOSED
+evergreen,Add auto complete renderer to resolve bug,https://github.com/segmentio/evergreen/pull/1154,2021-02-25T18:31:56Z,2021-02-25T18:37:04Z,2,3,MERGED
+evergreen,Custom item renderer for select menu,https://github.com/segmentio/evergreen/pull/1151,2021-02-22T18:32:47Z,2021-02-22T22:48:22Z,5,6,MERGED
+evergreen,A few polish fixes for components in the v6 theme,https://github.com/segmentio/evergreen/pull/1150,2021-02-19T15:19:33Z,2021-02-19T15:50:35Z,1,1,MERGED
+evergreen,forward ref to input on SearchInput,https://github.com/segmentio/evergreen/pull/1149,2021-02-19T03:36:14Z,2021-02-19T13:56:11Z,0,1,MERGED
+evergreen,Allow button to accept color prop,https://github.com/segmentio/evergreen/pull/1147,2021-02-17T19:46:01Z,2021-02-17T20:13:17Z,2,2,MERGED
+evergreen,[v6] allow free entry autocomplete,https://github.com/segmentio/evergreen/pull/1145,2021-02-12T20:32:42Z,2021-02-17T02:52:09Z,2,2,MERGED
+evergreen,fix warning: The `value` prop is required for the `<Context.Provider>`,https://github.com/segmentio/evergreen/pull/1142,2021-02-08T03:23:55Z,2021-07-14T20:35:23Z,6,2,CLOSED
+evergreen,Custom item width combobox,https://github.com/segmentio/evergreen/pull/1139,2021-01-23T01:38:28Z,2021-06-26T02:27:36Z,5,4,CLOSED
+evergreen,[Do not review] Testing Netlify integration,https://github.com/segmentio/evergreen/pull/1135,2021-01-06T00:51:57Z,2021-01-06T21:24:02Z,0,1,CLOSED
+evergreen,Fix Select Menu + deselect example,https://github.com/segmentio/evergreen/pull/1213,2021-05-24T15:10:01Z,2021-05-24T15:15:01Z,0,1,MERGED
+evergreen,Fix layout inconsistency for removeable alert's X button,https://github.com/segmentio/evergreen/pull/1210,2021-05-22T08:15:54Z,2021-05-22T15:41:11Z,0,1,MERGED
+evergreen,update doc to use evergreen-ui ^6.0.0,https://github.com/segmentio/evergreen/pull/1206,2021-05-19T23:36:50Z,2021-05-20T01:13:08Z,0,1,MERGED
+evergreen,Update docs evergreen version,https://github.com/segmentio/evergreen/pull/1205,2021-05-19T00:35:42Z,2021-05-19T23:29:56Z,3,4,CLOSED
+evergreen,Update readme hero image on github,https://github.com/segmentio/evergreen/pull/1204,2021-05-18T19:17:07Z,2021-05-18T19:30:10Z,1,1,MERGED
+evergreen,Fixup path generation for in-progress pattern components,https://github.com/segmentio/evergreen/pull/1203,2021-05-18T16:26:20Z,2021-05-18T16:35:46Z,1,1,MERGED
+evergreen,"README updates for the main repo, and a light overview on the docs subdir",https://github.com/segmentio/evergreen/pull/1202,2021-05-17T23:06:16Z,2021-05-18T14:54:43Z,3,2,MERGED
+evergreen,Add generated icon support for codesandbox docs,https://github.com/segmentio/evergreen/pull/1201,2021-05-17T21:55:25Z,2021-05-17T21:59:20Z,0,1,MERGED
+evergreen,(fix): Properly handle event bubbling from within Popover body,https://github.com/segmentio/evergreen/pull/1199,2021-05-15T21:42:31Z,2021-05-17T21:10:38Z,0,3,MERGED
+evergreen,Fix codesandbox dependency parsing and typography page anchor urls,https://github.com/segmentio/evergreen/pull/1198,2021-05-14T22:13:44Z,2021-05-17T21:33:30Z,1,1,MERGED
+evergreen,missing m typo,https://github.com/segmentio/evergreen/pull/1197,2021-05-12T18:38:07Z,2021-05-14T19:52:42Z,0,1,MERGED
+evergreen,Update meta viewport to better scale the homepage,https://github.com/segmentio/evergreen/pull/1196,2021-05-12T18:22:29Z,2021-05-12T18:30:25Z,0,1,MERGED
+evergreen,Add additional generated icons that were not perviously picked up,https://github.com/segmentio/evergreen/pull/1195,2021-05-12T17:14:03Z,2021-05-12T17:14:14Z,0,1,MERGED
+evergreen,Resolve circular dependencies to unblock build,https://github.com/segmentio/evergreen/pull/1194,2021-05-12T17:05:06Z,2021-05-12T17:05:14Z,0,1,MERGED
+evergreen,Add empty patterns folder for docs site,https://github.com/segmentio/evergreen/pull/1193,2021-05-12T16:57:52Z,2021-05-12T16:58:08Z,0,1,MERGED
+evergreen,V6 minor documentation fixes,https://github.com/segmentio/evergreen/pull/1192,2021-05-11T22:54:08Z,2021-05-12T15:19:57Z,1,12,MERGED
+evergreen,V6,https://github.com/segmentio/evergreen/pull/1189,2021-05-11T16:51:24Z,2021-05-12T16:41:51Z,1,171,MERGED
+evergreen,New docs site in preparation for launching v6 ,https://github.com/segmentio/evergreen/pull/1188,2021-05-11T13:04:13Z,2021-05-11T13:08:16Z,1,95,MERGED
+evergreen,Set value when children are updated,https://github.com/segmentio/evergreen/pull/1176,2021-05-01T15:45:17Z,2021-05-03T20:53:04Z,1,2,MERGED
+evergreen,V6 docs homepage,https://github.com/segmentio/evergreen/pull/1174,2021-04-29T05:33:41Z,2021-04-29T20:53:37Z,13,7,MERGED
+evergreen,Adding the new homepage to v6-docs,https://github.com/segmentio/evergreen/pull/1173,2021-04-29T05:30:26Z,2021-04-29T05:32:40Z,0,39,CLOSED
+evergreen,React 17 support,https://github.com/segmentio/evergreen/pull/1281,2021-07-29T02:06:06Z,2021-07-29T19:52:33Z,1,4,MERGED
+evergreen,remove css-nil classes from glamor,https://github.com/segmentio/evergreen/pull/1280,2021-07-28T14:53:48Z,2021-07-28T14:57:09Z,1,1,MERGED
+evergreen,Issue fix for the menu has no menu items #1223,https://github.com/segmentio/evergreen/pull/1279,2021-07-27T15:26:46Z,2022-01-15T18:59:13Z,3,3,MERGED
+evergreen,upgrade EG in the docs,https://github.com/segmentio/evergreen/pull/1278,2021-07-22T17:12:57Z,2021-07-22T18:28:01Z,1,1,MERGED
+evergreen,Add themeable option to colour props for Heading component,https://github.com/segmentio/evergreen/pull/1275,2021-07-20T12:05:43Z,2021-09-10T12:04:10Z,2,5,CLOSED
+evergreen,Performance tuning,https://github.com/segmentio/evergreen/pull/1274,2021-07-19T16:01:42Z,2021-07-22T14:51:20Z,7,10,MERGED
+evergreen,move @types/* dependencies to devDependencies,https://github.com/segmentio/evergreen/pull/1273,2021-07-19T10:42:03Z,2021-07-19T13:22:25Z,6,1,CLOSED
+evergreen,"update node engine to 12+, move react-is to peerDep matching react version",https://github.com/segmentio/evergreen/pull/1272,2021-07-18T19:18:04Z,2021-07-18T19:53:19Z,1,1,MERGED
+evergreen,fix Transition nodeRef in Positioner component,https://github.com/segmentio/evergreen/pull/1271,2021-07-17T04:17:52Z,2021-07-17T19:09:17Z,1,1,MERGED
+evergreen,update ssr example dir,https://github.com/segmentio/evergreen/pull/1266,2021-07-16T03:00:05Z,2021-07-16T03:05:01Z,1,1,MERGED
+evergreen,upgrade downshift,https://github.com/segmentio/evergreen/pull/1265,2021-07-16T02:49:52Z,2021-08-02T20:06:46Z,2,1,CLOSED
+evergreen,remove enzyme,https://github.com/segmentio/evergreen/pull/1263,2021-07-16T02:08:24Z,2021-07-16T02:12:18Z,1,1,MERGED
+evergreen,rm unused ava tests,https://github.com/segmentio/evergreen/pull/1262,2021-07-15T22:08:24Z,2021-07-15T22:12:27Z,1,1,MERGED
+evergreen,Upgrade deps,https://github.com/segmentio/evergreen/pull/1261,2021-07-15T02:04:58Z,2021-07-16T02:27:21Z,3,4,MERGED
+evergreen,"fix deselect/select on multiple select menus, optimize perf, remove broken context",https://github.com/segmentio/evergreen/pull/1256,2021-07-14T20:34:16Z,2021-07-14T22:15:25Z,3,3,MERGED
+evergreen,Add `rules-of-hooks` to eslint config and fix most ESLint warnings,https://github.com/segmentio/evergreen/pull/1251,2021-07-14T19:17:37Z,2021-07-14T19:23:30Z,1,2,MERGED
+evergreen,fix storybook globs constantly rebuilding,https://github.com/segmentio/evergreen/pull/1250,2021-07-14T18:50:05Z,2021-07-14T18:59:14Z,2,2,MERGED
+evergreen,Remove circle CI in favor of solely running GH Actions,https://github.com/segmentio/evergreen/pull/1249,2021-07-14T15:13:33Z,2021-07-14T15:23:19Z,3,3,MERGED
+evergreen,include yarnhook in devDeps so it doesnt fail when not globally installed,https://github.com/segmentio/evergreen/pull/1248,2021-07-14T15:03:12Z,2021-07-14T15:11:50Z,1,1,MERGED
+evergreen,#1241 - Possible solution for 2-click re-select on multi-select for Select Menu Component,https://github.com/segmentio/evergreen/pull/1247,2021-07-07T15:07:24Z,2021-07-14T20:42:02Z,3,2,CLOSED
+evergreen,New pattern - Empty States,https://github.com/segmentio/evergreen/pull/1238,2021-06-21T22:34:38Z,2021-06-30T22:20:38Z,11,8,MERGED
+evergreen,Lint staged fix,https://github.com/segmentio/evergreen/pull/1231,2021-06-09T22:46:49Z,2021-06-09T23:53:51Z,2,3,MERGED
+evergreen,Add Position to code sandbox import regex,https://github.com/segmentio/evergreen/pull/1230,2021-06-09T22:33:21Z,2021-06-09T23:43:35Z,2,1,MERGED
+evergreen,Updates to DX to catch lint bugs across the entire project,https://github.com/segmentio/evergreen/pull/1229,2021-06-09T18:25:12Z,2021-06-09T18:37:42Z,1,1,MERGED
+evergreen,Bring back icon search in the docs,https://github.com/segmentio/evergreen/pull/1227,2021-06-09T00:27:57Z,2021-06-09T14:58:56Z,2,3,MERGED
+evergreen,Added time picker component,https://github.com/segmentio/evergreen/pull/1353,2021-10-31T15:50:21Z,2021-11-19T19:13:53Z,2,1,CLOSED
+evergreen,correctly forward className in code component,https://github.com/segmentio/evergreen/pull/1352,2021-10-29T17:40:39Z,2021-11-09T16:20:09Z,5,8,MERGED
+evergreen,fix ToastManager hasCloseButton logic,https://github.com/segmentio/evergreen/pull/1349,2021-10-22T09:52:52Z,2021-11-23T14:26:23Z,7,1,MERGED
+evergreen,Backfill textarea tests,https://github.com/segmentio/evergreen/pull/1347,2021-10-16T00:16:45Z,2021-10-21T20:48:18Z,1,4,MERGED
+evergreen,Implemented conditional check before updating target ref within Autocomplete and Popover,https://github.com/segmentio/evergreen/pull/1346,2021-10-13T20:17:14Z,2021-10-29T12:24:59Z,2,3,MERGED
+evergreen,Add tests for Radio and RadioGroup,https://github.com/segmentio/evergreen/pull/1344,2021-10-09T00:50:11Z,2021-11-23T17:25:48Z,11,6,MERGED
+evergreen,Basic tests for checkbox,https://github.com/segmentio/evergreen/pull/1342,2021-10-08T04:55:53Z,2021-10-08T16:17:17Z,1,2,MERGED
+evergreen,set intent types to string,https://github.com/segmentio/evergreen/pull/1341,2021-10-06T21:28:33Z,2021-10-25T18:06:26Z,2,2,MERGED
+evergreen,Update onBeforeClose prop typing for SideSheet and Overlay components,https://github.com/segmentio/evergreen/pull/1340,2021-10-05T00:55:28Z,2021-10-05T17:31:21Z,1,1,MERGED
+evergreen,Textareafield resize prop,https://github.com/segmentio/evergreen/pull/1339,2021-10-01T19:28:22Z,2021-10-05T19:32:33Z,3,3,MERGED
+evergreen,First pass of component smoke tests,https://github.com/segmentio/evergreen/pull/1337,2021-10-01T13:30:57Z,2021-10-01T13:46:00Z,1,5,MERGED
+evergreen,add docs for Overlay component,https://github.com/segmentio/evergreen/pull/1336,2021-10-01T01:02:21Z,2021-10-01T01:33:46Z,1,1,MERGED
+evergreen,Tests - Avatar,https://github.com/segmentio/evergreen/pull/1335,2021-09-30T20:18:29Z,2021-10-01T03:55:12Z,2,2,MERGED
+evergreen,export getPosition and add types,https://github.com/segmentio/evergreen/pull/1332,2021-09-29T22:17:48Z,2021-09-30T14:58:17Z,4,1,MERGED
+evergreen,Add info type to intent,https://github.com/segmentio/evergreen/pull/1331,2021-09-29T13:05:03Z,2021-10-26T14:11:43Z,2,1,CLOSED
+evergreen,Correct typo in theme shape documentation,https://github.com/segmentio/evergreen/pull/1328,2021-09-22T20:32:11Z,2021-09-22T21:26:41Z,2,1,MERGED
+evergreen,"Associate library-generated `description`, `hint` and `validationMessage` nodes with `aria-describedby`",https://github.com/segmentio/evergreen/pull/1324,2021-09-21T04:49:06Z,2022-06-14T19:29:15Z,6,20,MERGED
+evergreen,Fix 'alignItems' attribute in getting-started example,https://github.com/segmentio/evergreen/pull/1321,2021-09-16T06:42:00Z,2021-09-21T17:09:53Z,1,2,MERGED
+evergreen,types: add `overlayProps` type to `Dialog`,https://github.com/segmentio/evergreen/pull/1313,2021-08-31T22:39:20Z,2021-09-21T17:03:43Z,1,1,MERGED
+evergreen,Fix Dialog containerProps,https://github.com/segmentio/evergreen/pull/1310,2021-08-24T20:10:23Z,2021-09-21T17:16:03Z,3,1,CLOSED
+evergreen,Info Intent bug on toaster.notify() rectified,https://github.com/segmentio/evergreen/pull/1309,2021-08-24T12:36:35Z,2021-11-23T13:30:34Z,3,1,CLOSED
+evergreen,Adds optional shouldCloseOnEscapePress for Popover,https://github.com/segmentio/evergreen/pull/1308,2021-08-23T16:23:06Z,2021-11-26T20:54:07Z,1,5,MERGED
+evergreen,Fix Dialog containerProps,https://github.com/segmentio/evergreen/pull/1306,2021-08-16T16:13:42Z,2021-09-21T17:15:18Z,2,3,MERGED
+evergreen,Dialog remainingContainerProps variable should be rest,https://github.com/segmentio/evergreen/pull/1298,2021-08-11T23:17:33Z,2021-09-21T17:18:54Z,2,1,CLOSED
+evergreen,Upgrade @types/react to ^17,https://github.com/segmentio/evergreen/pull/1297,2021-08-11T00:40:08Z,2023-02-02T14:00:25Z,3,3,CLOSED
+evergreen,Use EvergreenLink for text link in doc,https://github.com/segmentio/evergreen/pull/1293,2021-08-10T23:08:38Z,2021-08-10T23:20:28Z,1,1,MERGED
+evergreen,Doc fix textlink style,https://github.com/segmentio/evergreen/pull/1292,2021-08-10T22:55:17Z,2021-08-10T22:55:51Z,1,12,CLOSED
+evergreen,Empty state doc,https://github.com/segmentio/evergreen/pull/1290,2021-08-10T00:27:56Z,2021-08-12T20:29:57Z,5,14,MERGED
+evergreen,fix: Update appearance Button propType to stop warnings,https://github.com/segmentio/evergreen/pull/1287,2021-08-08T02:21:58Z,2021-11-25T20:19:22Z,2,3,MERGED
+evergreen,Empty state fix,https://github.com/segmentio/evergreen/pull/1286,2021-08-07T01:42:40Z,2021-08-09T21:27:20Z,2,6,MERGED
+evergreen,Fixed documentation link,https://github.com/segmentio/evergreen/pull/1285,2021-08-04T23:47:25Z,2021-10-05T01:15:44Z,3,1,CLOSED
+evergreen,Add intent property to Button component,https://github.com/segmentio/evergreen/pull/1384,2021-12-29T16:14:41Z,2021-12-30T02:00:58Z,1,2,MERGED
+evergreen,[Fix] Prevent Scrolling gets stuck when other packages/script also change document.body.style.overflow,https://github.com/segmentio/evergreen/pull/1383,2021-12-28T20:09:06Z,2021-12-29T18:42:37Z,2,2,MERGED
+evergreen,"Generic Theme types, strongly typed DefaultTheme + theme utilities",https://github.com/segmentio/evergreen/pull/1382,2021-12-10T13:24:26Z,2022-01-11T18:27:50Z,14,18,MERGED
+evergreen,"Fix border radius for Table.Head/Row components, remove duplicate bottom border",https://github.com/segmentio/evergreen/pull/1378,2021-12-08T14:53:16Z,2021-12-08T16:04:13Z,1,2,MERGED
+evergreen,#1375 fixed,https://github.com/segmentio/evergreen/pull/1376,2021-12-06T06:13:27Z,2021-12-08T14:52:09Z,5,1,CLOSED
+evergreen,fix: remove margin from combobox button for safari,https://github.com/segmentio/evergreen/pull/1371,2021-11-25T23:25:45Z,2021-11-26T17:29:23Z,1,1,MERGED
+evergreen,fix: 🐛 Add position prop to the CornerDialogProps type,https://github.com/segmentio/evergreen/pull/1369,2021-11-22T13:20:34Z,2021-11-22T13:45:59Z,2,1,MERGED
+evergreen,Upgrade @blueprintjs/icons to v3.31.0 and generate icons,https://github.com/segmentio/evergreen/pull/1366,2021-11-21T21:01:45Z,2021-11-22T01:21:12Z,3,2,MERGED
+evergreen,move nudge + pulsar components to pulsar dir and add deprecation warning,https://github.com/segmentio/evergreen/pull/1364,2021-11-17T16:16:42Z,2021-11-22T15:01:10Z,1,3,MERGED
+evergreen,tests for Pane and Card,https://github.com/segmentio/evergreen/pull/1363,2021-11-16T17:47:41Z,2021-11-16T18:32:21Z,0,1,MERGED
+evergreen,"Fix Positioner rendering, Autocomplete + Combobox positioning issues",https://github.com/segmentio/evergreen/pull/1362,2021-11-16T15:11:07Z,2021-11-16T23:32:46Z,1,3,MERGED
+evergreen,update eg version in docs,https://github.com/segmentio/evergreen/pull/1361,2021-11-15T18:56:43Z,2021-11-15T20:09:51Z,3,2,MERGED
+evergreen,Add invalid border color for select default component,https://github.com/segmentio/evergreen/pull/1357,2021-11-11T15:43:22Z,2021-11-22T13:51:07Z,2,3,MERGED
+evergreen,Pulsar + Nudge updates,https://github.com/segmentio/evergreen/pull/1355,2021-11-09T15:08:06Z,2021-11-09T16:24:31Z,2,5,MERGED
+evergreen,[SSCX-517] update positioner to check for dynamic children,https://github.com/segmentio/evergreen/pull/1430,2022-03-29T23:28:36Z,2022-03-30T15:48:00Z,2,2,MERGED
+evergreen,added scroll listener to lock popovers from moving when scrolling,https://github.com/segmentio/evergreen/pull/1429,2022-03-22T19:53:30Z,2022-03-22T20:53:55Z,1,1,MERGED
+evergreen,Add window resize handler to update position in Positioner component,https://github.com/segmentio/evergreen/pull/1426,2022-03-10T16:07:03Z,2022-03-11T16:36:59Z,1,2,MERGED
+evergreen,Switch to new faker,https://github.com/segmentio/evergreen/pull/1425,2022-03-08T19:56:37Z,2022-03-09T07:19:14Z,3,1,CLOSED
+evergreen,Remove actual File class reference from FileUploader src file,https://github.com/segmentio/evergreen/pull/1424,2022-03-08T13:53:51Z,2022-03-08T14:08:13Z,1,1,MERGED
+evergreen,[bug] set default width on TagInput input element to 100% instead of auto,https://github.com/segmentio/evergreen/pull/1422,2022-03-07T19:41:35Z,2022-03-07T19:48:07Z,1,1,MERGED
+evergreen,"Swap with @faker-js/faker, update imports",https://github.com/segmentio/evergreen/pull/1421,2022-03-05T15:12:48Z,2022-04-11T18:32:51Z,14,11,MERGED
+evergreen,File uploader docs,https://github.com/segmentio/evergreen/pull/1418,2022-03-03T19:05:36Z,2022-03-04T13:29:57Z,7,67,MERGED
+evergreen,FileUploader tests + types,https://github.com/segmentio/evergreen/pull/1417,2022-03-03T13:56:11Z,2022-03-03T18:13:00Z,2,50,MERGED
+evergreen,"FileUploader, FileCard components",https://github.com/segmentio/evergreen/pull/1415,2022-02-25T19:56:36Z,2022-03-03T13:49:32Z,10,26,MERGED
+evergreen,update evergreen-ui and add docs for TagInput autocompleteItems prop,https://github.com/segmentio/evergreen/pull/1414,2022-02-25T17:39:23Z,2022-03-01T16:20:38Z,4,2,MERGED
+evergreen,Append a Menu close demo,https://github.com/segmentio/evergreen/pull/1406,2022-02-11T08:31:34Z,2022-02-15T14:58:14Z,2,1,CLOSED
+evergreen,added buttons and icons,https://github.com/segmentio/evergreen/pull/1401,2022-02-06T03:58:07Z,2022-02-06T19:16:52Z,2,1,CLOSED
+evergreen,Add autocomplete to TagInput,https://github.com/segmentio/evergreen/pull/1400,2022-02-02T05:42:16Z,2022-02-04T17:28:03Z,12,6,MERGED
+evergreen,Add isInvalid field to tagInput,https://github.com/segmentio/evergreen/pull/1398,2022-02-01T00:02:44Z,2022-02-01T19:22:13Z,2,4,MERGED
+evergreen,[Fix] Popover imperative open/close can break due to dependency array.,https://github.com/segmentio/evergreen/pull/1397,2022-01-28T06:52:40Z,2022-02-07T21:59:58Z,5,1,MERGED
+evergreen,fix: MenuItems can accept String value now,https://github.com/segmentio/evergreen/pull/1394,2022-01-21T19:41:28Z,2022-01-22T00:03:57Z,1,1,MERGED
+evergreen,Update theme documentation,https://github.com/segmentio/evergreen/pull/1392,2022-01-18T14:35:46Z,2022-02-03T15:36:23Z,3,8,MERGED
+evergreen,Fix color props heading component not working properly #1242,https://github.com/segmentio/evergreen/pull/1391,2022-01-16T10:04:13Z,2022-04-09T14:57:07Z,1,2,CLOSED
+evergreen,Add yarn tsd test step + small theme type tweaks,https://github.com/segmentio/evergreen/pull/1387,2022-01-14T17:00:07Z,2022-02-03T14:12:39Z,1,6,MERGED
+evergreen,upgrade faker to ^5.5.3 and replace alternatives for deprecated methods,https://github.com/segmentio/evergreen/pull/1386,2022-01-02T00:03:45Z,2022-01-04T15:53:33Z,1,1,MERGED
+evergreen,Export IconComponent type,https://github.com/segmentio/evergreen/pull/1385,2022-01-01T23:41:32Z,2022-01-04T15:57:28Z,1,1,MERGED
+evergreen,Add missing components in type alias,https://github.com/segmentio/evergreen/pull/1475,2022-05-27T11:32:56Z,2022-06-14T19:43:12Z,1,3,MERGED
+evergreen,fix esc on tagInput component,https://github.com/segmentio/evergreen/pull/1473,2022-05-20T18:04:08Z,2022-05-24T23:53:10Z,3,3,MERGED
+evergreen,fix(Text): extend propTypes,https://github.com/segmentio/evergreen/pull/1471,2022-05-15T19:35:54Z,2022-05-15T20:43:16Z,2,1,MERGED
+evergreen,Update deploy-docs script to amend version commits,https://github.com/segmentio/evergreen/pull/1469,2022-05-05T13:03:35Z,2022-06-15T15:49:08Z,1,2,MERGED
+evergreen,Typescript definition update for EmptyStateOwnProps,https://github.com/segmentio/evergreen/pull/1468,2022-05-04T22:52:39Z,2022-05-04T23:36:13Z,3,1,MERGED
+evergreen,Migrate to TypeScript,https://github.com/segmentio/evergreen/pull/1467,2022-05-03T23:18:56Z,2022-12-12T13:47:32Z,1,91,CLOSED
+evergreen,Disable sourcemaps,https://github.com/segmentio/evergreen/pull/1464,2022-04-29T20:05:33Z,2022-05-02T13:47:31Z,1,2,MERGED
+evergreen,Swap CircleCI badge with Github Actions badge,https://github.com/segmentio/evergreen/pull/1463,2022-04-29T17:39:33Z,2022-04-29T17:46:14Z,1,1,MERGED
+evergreen,"Forward SelectField ref, update ts definitions",https://github.com/segmentio/evergreen/pull/1462,2022-04-28T20:50:07Z,2022-04-28T21:07:13Z,2,2,MERGED
+evergreen,fix(Paragraph): extend propTypes,https://github.com/segmentio/evergreen/pull/1461,2022-04-28T18:31:24Z,2022-04-28T20:01:59Z,2,2,MERGED
+evergreen,Widen EmptyState description PropType to accept ReactNode,https://github.com/segmentio/evergreen/pull/1460,2022-04-26T14:05:42Z,2022-04-26T19:59:57Z,2,1,MERGED
+evergreen,React 18 support,https://github.com/segmentio/evergreen/pull/1458,2022-04-22T19:41:52Z,2022-06-21T15:24:31Z,3,9,MERGED
+evergreen,Update deploy-docs script to update evergreen version,https://github.com/segmentio/evergreen/pull/1451,2022-04-20T14:09:16Z,2022-04-22T15:28:56Z,2,3,MERGED
+evergreen,Bump evergreen from v6.9.0 to v6.9.6 in docs,https://github.com/segmentio/evergreen/pull/1446,2022-04-18T10:49:27Z,2022-04-22T14:56:44Z,2,4,MERGED
+evergreen,Side-menu component,https://github.com/segmentio/evergreen/pull/1444,2022-04-17T13:06:21Z,2022-04-22T14:55:52Z,2,10,CLOSED
+evergreen,Proptypes - Pulsar Typos,https://github.com/segmentio/evergreen/pull/1443,2022-04-15T21:36:51Z,2022-04-18T10:45:07Z,1,1,MERGED
+evergreen,Fix forwarded select ref,https://github.com/segmentio/evergreen/pull/1435,2022-04-10T18:38:22Z,2022-04-11T14:01:19Z,1,2,MERGED
+evergreen,Fix MenuItem disabled colors/styling,https://github.com/segmentio/evergreen/pull/1503,2022-07-15T21:35:11Z,2022-07-18T12:08:39Z,1,1,MERGED
+evergreen,Update documentation for Tooltip.isShown prop,https://github.com/segmentio/evergreen/pull/1500,2022-07-14T14:01:17Z,2022-07-14T14:50:39Z,5,3,MERGED
+evergreen,Adds suport to react 18 to toaster component,https://github.com/segmentio/evergreen/pull/1494,2022-07-08T04:26:43Z,2022-07-13T22:47:02Z,8,1,MERGED
+evergreen,fix(example)Next JS _document error,https://github.com/segmentio/evergreen/pull/1490,2022-06-29T04:58:37Z,2022-06-30T11:45:45Z,7,1,MERGED
+evergreen,Unrequired length check in autocomplete,https://github.com/segmentio/evergreen/pull/1489,2022-06-29T01:41:09Z,2022-06-30T13:43:29Z,2,2,MERGED
+evergreen,FormField: Label Property to Optional,https://github.com/segmentio/evergreen/pull/1486,2022-06-22T19:18:33Z,2022-06-22T19:54:24Z,1,1,MERGED
+evergreen,Update classnames version range to ^2.3.0,https://github.com/segmentio/evergreen/pull/1480,2022-06-13T00:38:34Z,2022-06-13T16:16:03Z,2,2,MERGED
+evergreen,[SSCX-592] Center EG Autocomplete for TagInput on the input,https://github.com/segmentio/evergreen/pull/1476,2022-06-02T18:35:46Z,2022-06-13T17:33:00Z,5,8,MERGED
+evergreen,feat(FilePicker): props for i18n support,https://github.com/segmentio/evergreen/pull/1541,2022-10-27T11:19:54Z,2022-10-31T12:21:40Z,9,8,MERGED
+evergreen,Changed image storybook url. Previous link doesn't work.,https://github.com/segmentio/evergreen/pull/1540,2022-10-27T00:22:20Z,2022-10-27T17:55:34Z,1,1,MERGED
+evergreen,Fix scaling issue with multi-line FormFieldValidationMessage,https://github.com/segmentio/evergreen/pull/1537,2022-10-21T15:11:58Z,2022-10-25T17:20:42Z,1,2,MERGED
+evergreen,"Add shouldAutoFocus prop to Overlay, SideSheet, and Dialog components",https://github.com/segmentio/evergreen/pull/1535,2022-10-18T18:00:39Z,2022-10-25T18:14:47Z,1,6,MERGED
+evergreen,FileUploader - Remove custom <Text /> wrapping validationMessage,https://github.com/segmentio/evergreen/pull/1532,2022-10-14T15:30:45Z,2022-10-25T17:13:50Z,1,1,MERGED
+evergreen,Add props for FileUploader i18n support,https://github.com/segmentio/evergreen/pull/1531,2022-10-11T23:10:32Z,2022-10-25T17:40:26Z,3,10,MERGED
+evergreen,added new component-datepicker,https://github.com/segmentio/evergreen/pull/1530,2022-10-09T10:45:05Z,2022-10-10T12:06:55Z,2,1,CLOSED
+evergreen,feat: insert test spinner and coverage command,https://github.com/segmentio/evergreen/pull/1529,2022-10-08T20:14:10Z,2023-05-29T01:28:09Z,3,1,CLOSED
+evergreen,Fix: allow OptionsList to not focus on the search bar,https://github.com/segmentio/evergreen/pull/1528,2022-10-07T20:01:53Z,2022-10-10T14:47:28Z,3,5,MERGED
+evergreen,"Omit children, items, and onChange from Combobox.autocompleteProps",https://github.com/segmentio/evergreen/pull/1526,2022-10-04T20:59:41Z,2022-10-25T17:47:31Z,1,3,MERGED
+evergreen,Adds HTML name attribute support for RadioGroup,https://github.com/segmentio/evergreen/pull/1524,2022-09-28T18:21:24Z,2022-09-29T12:52:32Z,3,3,MERGED
+evergreen,Various doc site bug fixes,https://github.com/segmentio/evergreen/pull/1518,2022-08-23T02:05:00Z,2022-09-16T21:02:09Z,1,5,MERGED
+evergreen,fix: fixed nextjs/react hydration error when using portals,https://github.com/segmentio/evergreen/pull/1517,2022-08-19T15:42:39Z,2022-09-29T13:24:28Z,2,2,MERGED
+evergreen,Set Autocomplete input value based on selected item when allowOtherValues is true,https://github.com/segmentio/evergreen/pull/1506,2022-08-03T11:39:48Z,2022-09-29T13:04:45Z,4,6,MERGED
+evergreen,chore: update dependencies,https://github.com/segmentio/evergreen/pull/1580,2022-12-16T14:53:11Z,2023-01-31T16:20:22Z,1,23,CLOSED
+evergreen,"Replace Segment logos, remove unused SegmentLogoWordmark component",https://github.com/segmentio/evergreen/pull/1579,2022-12-16T14:37:09Z,2022-12-16T15:43:13Z,2,3,MERGED
+evergreen,Add codemods for ejecting/replacing classic/deprecatedDefaultTheme objects,https://github.com/segmentio/evergreen/pull/1577,2022-12-14T15:03:24Z,2023-01-03T18:51:59Z,0,11,MERGED
+evergreen,Update Figma to link out to Twilio's community page instead,https://github.com/segmentio/evergreen/pull/1576,2022-12-11T20:26:55Z,2022-12-12T16:13:33Z,1,1,MERGED
+evergreen,Add display: inline-block style to Nudge -> Pulsar codemod,https://github.com/segmentio/evergreen/pull/1572,2022-12-10T16:49:45Z,2022-12-12T16:10:53Z,0,1,MERGED
+evergreen,Update doc site for v7 migration guides,https://github.com/segmentio/evergreen/pull/1570,2022-12-06T17:44:52Z,2022-12-12T16:12:51Z,1,28,MERGED
+evergreen,Forward ref and box props to Pulsar to fix Tooltip rendering,https://github.com/segmentio/evergreen/pull/1565,2022-12-04T19:42:14Z,2022-12-05T15:55:58Z,1,4,MERGED
+evergreen,Tooltip: User defined id for aria-describedBy,https://github.com/segmentio/evergreen/pull/1561,2022-12-01T16:07:03Z,2022-12-05T18:01:57Z,4,4,MERGED
+evergreen,"Remove deprecated components: Nudge, SidebarTab and SegmentedControl",https://github.com/segmentio/evergreen/pull/1560,2022-11-29T23:50:23Z,2022-12-05T16:29:59Z,1,3,MERGED
+evergreen,RIP classic theme,https://github.com/segmentio/evergreen/pull/1559,2022-11-29T16:28:55Z,2022-12-05T16:32:18Z,1,2,MERGED
+evergreen,"Port codemods to TypeScript, add codemods for replacing Nudge and SidebarTab components",https://github.com/segmentio/evergreen/pull/1558,2022-11-29T02:03:30Z,2022-12-05T17:03:53Z,2,14,MERGED
+evergreen,Remove glamor,https://github.com/segmentio/evergreen/pull/1554,2022-11-25T20:22:56Z,2022-12-05T16:51:19Z,1,37,MERGED
+evergreen,Prevent Tooltip flickering by updating Positioner,https://github.com/segmentio/evergreen/pull/1550,2022-11-21T02:40:07Z,2022-11-21T16:55:41Z,1,1,MERGED
+evergreen,"Convert Portal to functional component, properly remove DOM element on unmount",https://github.com/segmentio/evergreen/pull/1549,2022-11-21T02:38:52Z,2022-11-21T18:33:38Z,2,3,MERGED
+evergreen,"Update ui-box, remove keyframes from bulk of remaining components",https://github.com/segmentio/evergreen/pull/1547,2022-11-16T01:05:39Z,2022-11-16T17:50:37Z,1,1,MERGED
+evergreen,"Update ui-box, rip out `glamor` where possible",https://github.com/segmentio/evergreen/pull/1543,2022-11-04T19:43:15Z,2022-11-15T15:23:35Z,1,7,MERGED
+evergreen,Bump ui-box from 5.4.0 to 5.4.1 to fix primary link Tab,https://github.com/segmentio/evergreen/pull/1626,2023-03-23T15:28:43Z,2023-05-05T12:48:59Z,1,6,MERGED
+evergreen,Add PropsWithChildren interface to Tooltip component definition for React 18,https://github.com/segmentio/evergreen/pull/1623,2023-03-22T14:44:46Z,2023-03-22T16:23:03Z,1,1,MERGED
+evergreen,Fix SelectMenu width & height docs,https://github.com/segmentio/evergreen/pull/1620,2023-03-08T12:10:13Z,2023-03-08T13:15:24Z,1,1,MERGED
+evergreen,fix: `toaster` types,https://github.com/segmentio/evergreen/pull/1616,2023-02-09T09:44:02Z,2023-02-15T14:07:39Z,2,2,MERGED
+evergreen,"Cleanup doc site warnings, add types, etc.",https://github.com/segmentio/evergreen/pull/1615,2023-02-05T17:10:32Z,2023-02-06T21:51:12Z,2,11,MERGED
+evergreen,Bug 1602 combobox button,https://github.com/segmentio/evergreen/pull/1614,2023-02-05T10:54:03Z,2023-02-05T21:32:48Z,2,5,CLOSED
+evergreen,Update ComponentStyles type to override selectors w/ typed keys,https://github.com/segmentio/evergreen/pull/1613,2023-02-04T20:48:17Z,2023-02-06T22:00:24Z,1,5,MERGED
+evergreen,Wrap update in function to prevent event from being passed as value,https://github.com/segmentio/evergreen/pull/1612,2023-02-04T19:49:54Z,2023-02-06T21:39:54Z,1,3,MERGED
+evergreen,Update doc site to handle typescript files,https://github.com/segmentio/evergreen/pull/1611,2023-02-04T18:29:41Z,2023-02-06T21:28:11Z,1,5,MERGED
+evergreen,Remove border: none from Textarea internal styles,https://github.com/segmentio/evergreen/pull/1610,2023-02-04T16:14:32Z,2023-02-06T13:09:41Z,1,1,MERGED
+evergreen,Remove border: none from TextInput internal styles,https://github.com/segmentio/evergreen/pull/1606,2023-02-03T15:51:21Z,2023-02-03T16:09:47Z,2,3,MERGED
+evergreen,Fix vertical text alignment in Alert/Toast,https://github.com/segmentio/evergreen/pull/1604,2023-02-01T23:55:56Z,2023-02-03T15:53:14Z,1,1,MERGED
+evergreen,Remove warning for unhandled ui-box props now that v7 has landed,https://github.com/segmentio/evergreen/pull/1603,2023-01-31T14:16:24Z,2023-01-31T14:56:56Z,1,2,MERGED
+evergreen,Update Select border and focus style to match TextInput,https://github.com/segmentio/evergreen/pull/1600,2023-01-29T14:31:26Z,2023-01-31T14:03:30Z,2,2,MERGED
+evergreen,Cancel animation frame on component unmount to avoid memory leaks,https://github.com/segmentio/evergreen/pull/1598,2023-01-22T10:04:32Z,2023-01-31T13:50:34Z,3,1,MERGED
+evergreen,Remove test and story pattern from files array in package.json,https://github.com/segmentio/evergreen/pull/1596,2023-01-18T01:50:50Z,2023-01-18T11:04:21Z,1,1,MERGED
+evergreen,"Port over minimal TS configs, deps and port Pane",https://github.com/segmentio/evergreen/pull/1590,2023-01-09T11:44:20Z,2023-01-31T15:16:27Z,6,11,MERGED
+evergreen,"Update README, separate out contributing docs",https://github.com/segmentio/evergreen/pull/1588,2023-01-05T19:50:03Z,2023-01-05T21:02:16Z,0,2,MERGED
+evergreen,Fix incorrect default border color for TextInput,https://github.com/segmentio/evergreen/pull/1587,2023-01-05T18:35:42Z,2023-01-31T14:41:31Z,2,8,MERGED
+evergreen,Update ui-box from 5.3.0 to 5.4.0,https://github.com/segmentio/evergreen/pull/1583,2023-01-05T15:07:33Z,2023-01-05T15:28:19Z,1,2,MERGED
+evergreen,feature: Spinner test component,https://github.com/segmentio/evergreen/pull/1647,2023-05-29T01:38:24Z,2023-05-30T14:21:51Z,1,4,MERGED
+evergreen,Add type union for Link target prop,https://github.com/segmentio/evergreen/pull/1643,2023-04-24T22:57:58Z,2023-04-26T14:32:37Z,1,1,MERGED
+evergreen,add prev and next aria-label on pagination,https://github.com/segmentio/evergreen/pull/1640,2023-04-20T09:07:21Z,2023-05-05T13:46:32Z,1,4,MERGED
+evergreen,Fix disable color on iconbutton,https://github.com/segmentio/evergreen/pull/1638,2023-04-12T12:30:03Z,2023-05-05T13:08:35Z,1,4,MERGED
+evergreen,fix Remove 'automatic' option from Badge color typing (#1636),https://github.com/segmentio/evergreen/pull/1637,2023-04-12T00:52:31Z,2023-04-12T12:56:55Z,2,1,MERGED
+evergreen,fix pseudo-state button styling in theming docs,https://github.com/segmentio/evergreen/pull/1635,2023-04-10T08:55:50Z,2023-04-11T11:23:19Z,1,1,MERGED
+evergreen,remove tinycolor2,https://github.com/segmentio/evergreen/pull/1634,2023-04-08T03:46:09Z,2023-04-12T23:07:15Z,1,4,MERGED
+evergreen,Add .ogg supported mime type,https://github.com/segmentio/evergreen/pull/1651,2023-06-21T18:59:27Z,2023-06-21T19:39:45Z,2,1,MERGED
+evergreen,Dialog onBeforeClose ,https://github.com/segmentio/evergreen/pull/1670,2023-11-13T20:22:16Z,2023-11-13T20:24:30Z,1,3,CLOSED
+evergreen,text-size-correction,https://github.com/segmentio/evergreen/pull/1676,2024-07-02T01:43:24Z,2024-07-02T13:48:58Z,1,1,MERGED

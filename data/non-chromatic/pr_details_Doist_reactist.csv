@@ -1,0 +1,409 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+reactist,Popover: only render content when it is showing,https://github.com/Doist/reactist/pull/170,2019-07-18T06:47:36Z,2019-07-18T09:09:04Z,0,5,MERGED
+reactist,Modal portal,https://github.com/Doist/reactist/pull/169,2019-07-03T03:03:03Z,2021-09-01T17:08:24Z,8,2,CLOSED
+reactist,Add auto-scrolling to overflowing Modal.Body,https://github.com/Doist/reactist/pull/168,2019-07-02T08:07:15Z,2019-07-08T15:21:06Z,5,5,MERGED
+reactist,Merge pull request #2 from Doist/dev,https://github.com/Doist/reactist/pull/167,2019-07-02T03:49:54Z,2019-07-02T03:51:32Z,0,1,CLOSED
+reactist,Merge pull request #1 from Doist/dev,https://github.com/Doist/reactist/pull/166,2019-07-02T03:37:41Z,2019-07-02T03:39:07Z,0,1,CLOSED
+reactist,allow Dropdown component render content lazily,https://github.com/Doist/reactist/pull/165,2019-06-20T07:58:24Z,2019-06-20T08:31:04Z,0,4,MERGED
+reactist,Tooltip with portal (WIP),https://github.com/Doist/reactist/pull/178,2019-09-28T10:44:47Z,2020-03-11T05:22:43Z,1,2,CLOSED
+reactist,Add test case for Tooltip component with passing simple text,https://github.com/Doist/reactist/pull/177,2019-09-12T19:59:56Z,2019-09-16T14:51:34Z,0,1,MERGED
+reactist,Add test case with difference 1 day for TimeUtils,https://github.com/Doist/reactist/pull/176,2019-09-11T18:15:59Z,2019-12-18T22:50:45Z,0,1,CLOSED
+reactist,Fix typos,https://github.com/Doist/reactist/pull/175,2019-09-11T18:12:29Z,2019-12-18T22:50:32Z,0,1,CLOSED
+reactist,Fixed unsupported `display: initial` in IE11,https://github.com/Doist/reactist/pull/173,2019-08-19T12:43:52Z,2019-08-19T12:44:03Z,0,4,MERGED
+reactist,Fix responsive modal,https://github.com/Doist/reactist/pull/172,2019-08-15T15:19:25Z,2019-08-15T15:19:33Z,0,5,MERGED
+reactist,Popover: allow prop.content to be a function,https://github.com/Doist/reactist/pull/171,2019-08-01T08:01:52Z,2019-08-01T12:31:06Z,0,4,MERGED
+reactist,Remove use of style-loader. Output css file instead,https://github.com/Doist/reactist/pull/181,2019-12-19T06:47:43Z,2020-01-07T14:47:21Z,3,5,MERGED
+reactist,Upgraded storybook from v4alpha to v5,https://github.com/Doist/reactist/pull/180,2019-11-21T09:47:52Z,2019-11-21T09:50:33Z,0,1,MERGED
+reactist,Automatic Time refresh,https://github.com/Doist/reactist/pull/179,2019-11-07T12:24:31Z,2019-11-21T09:33:36Z,5,8,MERGED
+reactist,Nazeh/css namespace,https://github.com/Doist/reactist/pull/187,2020-03-04T11:20:12Z,2020-03-04T11:20:25Z,1,4,MERGED
+reactist,Popper and TooltipNew component,https://github.com/Doist/reactist/pull/186,2020-02-26T14:48:11Z,2020-03-26T14:53:48Z,2,1,CLOSED
+reactist,CSS namespace,https://github.com/Doist/reactist/pull/184,2020-02-07T20:21:59Z,2020-03-04T11:20:24Z,5,3,CLOSED
+reactist,Update date format to remove yesterday,https://github.com/Doist/reactist/pull/183,2020-01-23T14:50:04Z,2020-01-23T14:50:37Z,0,1,MERGED
+reactist,Fix for Modal.Actions having empty children,https://github.com/Doist/reactist/pull/202,2020-05-29T04:21:22Z,2020-05-29T05:03:54Z,2,2,MERGED
+reactist,Feature/strict types 3,https://github.com/Doist/reactist/pull/201,2020-05-27T06:12:11Z,2020-05-27T11:45:27Z,4,13,MERGED
+reactist,Feature/strict types 2,https://github.com/Doist/reactist/pull/200,2020-05-26T05:30:12Z,2020-05-27T04:30:26Z,10,11,MERGED
+reactist,Feature/strict types 1,https://github.com/Doist/reactist/pull/199,2020-05-25T07:05:27Z,2020-05-26T05:23:36Z,13,24,MERGED
+reactist,Make a 4.0 release,https://github.com/Doist/reactist/pull/197,2020-05-22T06:18:20Z,2020-05-28T04:52:38Z,14,61,MERGED
+reactist,Rework reactist to be based on TSDX,https://github.com/Doist/reactist/pull/196,2020-05-19T12:06:38Z,2020-05-21T06:48:22Z,9,17,MERGED
+reactist,Upgrade storybook to latest,https://github.com/Doist/reactist/pull/195,2020-05-15T07:32:13Z,2020-05-19T04:30:49Z,2,3,MERGED
+reactist,Remove legacy context parameter.,https://github.com/Doist/reactist/pull/194,2020-05-11T12:29:11Z,2020-05-11T13:18:22Z,2,3,MERGED
+reactist,[WIP][Do not merge] Proxi/strict ts,https://github.com/Doist/reactist/pull/193,2020-05-05T09:08:23Z,2020-05-28T08:36:56Z,1,8,CLOSED
+reactist,Fix label proptype to allow number.,https://github.com/Doist/reactist/pull/191,2020-05-05T08:25:55Z,2020-05-11T06:47:08Z,4,3,MERGED
+reactist,Fix invalid dayjs constants.,https://github.com/Doist/reactist/pull/190,2020-04-27T17:49:14Z,2020-04-28T05:51:48Z,0,3,MERGED
+reactist,Typescript support,https://github.com/Doist/reactist/pull/188,2020-04-22T15:24:51Z,2020-05-05T06:25:44Z,18,19,MERGED
+reactist,"Remove old MenuButton, replaced with a new set of Menu components",https://github.com/Doist/reactist/pull/278,2020-07-28T23:52:13Z,2020-07-30T18:10:35Z,2,5,MERGED
+reactist,Typed Theming Experiment,https://github.com/Doist/reactist/pull/277,2020-07-28T05:22:24Z,2020-08-30T13:48:00Z,16,35,CLOSED
+reactist,New tooltip + making the DropdownTrigger be a Button,https://github.com/Doist/reactist/pull/276,2020-07-24T19:11:58Z,2020-07-30T17:18:14Z,3,3,MERGED
+reactist,Prepare v6 release,https://github.com/Doist/reactist/pull/275,2020-07-22T16:21:00Z,2020-07-22T16:37:02Z,0,1,MERGED
+reactist,Convert Button to use CSS modules,https://github.com/Doist/reactist/pull/274,2020-07-21T06:30:06Z,2020-08-07T05:15:16Z,5,20,CLOSED
+reactist,Remove close prop from button (#198),https://github.com/Doist/reactist/pull/268,2020-07-20T17:18:00Z,2020-07-22T15:48:57Z,3,1,MERGED
+reactist,"Add a CONTRIBUTING and CODE_OF_CONDUCT documents, improved npm scripts",https://github.com/Doist/reactist/pull/262,2020-07-17T16:55:04Z,2020-07-21T14:02:45Z,1,1,MERGED
+reactist,Allow Button variant to be omitted to get a plain unstyled button,https://github.com/Doist/reactist/pull/260,2020-07-16T18:37:25Z,2020-07-17T17:11:10Z,0,2,MERGED
+reactist,Proxi/recommended requiring type checking,https://github.com/Doist/reactist/pull/257,2020-07-15T18:45:05Z,2020-07-16T15:09:54Z,0,5,MERGED
+reactist,New KeyboardShortcut component,https://github.com/Doist/reactist/pull/254,2020-07-10T22:58:00Z,2020-07-15T19:43:23Z,3,4,MERGED
+reactist,Update .github/ISSUE_TEMPLATE and PULL_REQUEST_TEMPLATE,https://github.com/Doist/reactist/pull/253,2020-07-10T14:51:37Z,2020-07-13T13:46:10Z,0,1,MERGED
+reactist,More accurate type of onChange callback.,https://github.com/Doist/reactist/pull/250,2020-07-08T16:51:01Z,2020-07-17T15:57:30Z,1,1,MERGED
+reactist,Proxi/typescript eslint plugin,https://github.com/Doist/reactist/pull/249,2020-07-08T16:43:21Z,2020-07-15T17:01:43Z,1,6,MERGED
+reactist,Reinstall @doist/prettier-config and update release workflow,https://github.com/Doist/reactist/pull/243,2020-07-07T09:47:25Z,2020-07-07T11:29:46Z,0,7,MERGED
+reactist,Refactor build system to support CSS modules,https://github.com/Doist/reactist/pull/237,2020-07-06T08:51:28Z,2020-07-22T06:04:48Z,7,13,MERGED
+reactist,Fix and enhance KeyCapturer type definitions,https://github.com/Doist/reactist/pull/231,2020-07-03T21:10:04Z,2020-07-10T14:54:27Z,2,2,MERGED
+reactist,Fix publish action,https://github.com/Doist/reactist/pull/230,2020-07-03T09:02:14Z,2020-07-03T10:28:23Z,2,3,MERGED
+reactist,Refactor Button to CSS Modules,https://github.com/Doist/reactist/pull/229,2020-07-03T08:27:08Z,2020-07-06T08:48:10Z,1,4,CLOSED
+reactist,Add action for pull requests,https://github.com/Doist/reactist/pull/228,2020-07-03T06:13:12Z,2020-07-03T08:39:25Z,0,9,MERGED
+reactist,Refactors the Button component's outer interface,https://github.com/Doist/reactist/pull/226,2020-07-02T21:59:47Z,2020-07-13T16:51:39Z,15,10,MERGED
+reactist,Extract package json configs,https://github.com/Doist/reactist/pull/225,2020-07-01T22:30:04Z,2020-07-02T15:28:11Z,0,4,MERGED
+reactist,Documents release / publish workflow in readme,https://github.com/Doist/reactist/pull/224,2020-06-29T11:57:17Z,2020-06-30T12:46:05Z,1,2,MERGED
+reactist,KeyCapturer: Prevent onEnter from firing in the middle of an IME composition session,https://github.com/Doist/reactist/pull/223,2020-06-26T08:22:57Z,2020-07-03T05:24:10Z,1,9,MERGED
+reactist,Expose event from KeyCapturer,https://github.com/Doist/reactist/pull/220,2020-06-18T11:53:26Z,2020-06-26T08:36:03Z,1,4,CLOSED
+reactist,Build individual CSS and JS files for use with Todoist & selective imports,https://github.com/Doist/reactist/pull/203,2020-06-02T04:52:36Z,2020-06-15T04:13:30Z,0,3,MERGED
+reactist,refactor: Adopt @doist/eslint-config,https://github.com/Doist/reactist/pull/377,2020-10-22T14:46:49Z,2021-02-18T13:16:38Z,5,13,MERGED
+reactist,Re-enable expect-expect lint rule.,https://github.com/Doist/reactist/pull/374,2020-10-17T14:28:55Z,2020-10-19T09:39:19Z,3,1,MERGED
+reactist,Remove linebreak-style rule already covered by prettier.,https://github.com/Doist/reactist/pull/361,2020-10-14T13:28:24Z,2020-10-16T09:40:27Z,0,1,MERGED
+reactist,Re-enable no-unsafe-* rules in main codebase,https://github.com/Doist/reactist/pull/360,2020-10-14T13:02:53Z,2020-10-16T09:38:46Z,1,4,MERGED
+reactist,Fix @typescript-eslint/unbound-method by using class property arrow.,https://github.com/Doist/reactist/pull/359,2020-10-14T11:18:47Z,2021-01-04T13:27:58Z,5,1,MERGED
+reactist,chore: Remove react/sort-comp eslint rule.,https://github.com/Doist/reactist/pull/358,2020-10-14T10:59:31Z,2020-10-14T11:45:15Z,0,1,MERGED
+reactist,chore: Update all of eslint and prettier packages,https://github.com/Doist/reactist/pull/357,2020-10-14T10:54:34Z,2020-10-14T12:24:21Z,5,3,MERGED
+reactist,Upgrade some dependencies,https://github.com/Doist/reactist/pull/356,2020-10-13T19:35:22Z,2020-10-14T17:23:42Z,0,10,MERGED
+reactist,Menu backdrop/overlay,https://github.com/Doist/reactist/pull/352,2020-10-05T22:26:30Z,2020-10-06T19:57:40Z,1,4,MERGED
+reactist,Make tooltip decide not to show under certain unwanted conditions,https://github.com/Doist/reactist/pull/336,2020-09-25T16:08:28Z,2020-10-01T00:13:00Z,2,4,MERGED
+reactist,Adds coverage reporting with coveralls,https://github.com/Doist/reactist/pull/335,2020-09-25T10:04:53Z,2020-09-28T05:45:01Z,0,1,MERGED
+reactist,Fixes Storybook styling,https://github.com/Doist/reactist/pull/333,2020-09-24T03:58:07Z,2020-09-24T16:13:32Z,0,1,MERGED
+reactist,Fixes illegal mix console errors,https://github.com/Doist/reactist/pull/332,2020-09-24T03:10:33Z,2020-09-25T15:43:26Z,0,2,MERGED
+reactist,Adds z-index for Tooltip,https://github.com/Doist/reactist/pull/329,2020-09-18T22:15:12Z,2020-09-21T21:38:06Z,1,3,MERGED
+reactist,Removes max-width set for tooltip content,https://github.com/Doist/reactist/pull/327,2020-09-17T16:03:34Z,2020-09-21T22:10:55Z,1,4,MERGED
+reactist,Fix wrong sideEffects,https://github.com/Doist/reactist/pull/287,2020-08-07T05:45:21Z,2020-08-07T06:18:13Z,1,2,MERGED
+reactist,Experiment of switching the Tooltip implementation to reach-ui,https://github.com/Doist/reactist/pull/285,2020-08-04T21:34:20Z,2020-08-04T22:53:11Z,0,1,MERGED
+reactist,Various improvements for the Tooltip component,https://github.com/Doist/reactist/pull/284,2020-08-04T15:33:23Z,2020-08-04T16:05:56Z,0,2,MERGED
+reactist,chore: Colocate everything,https://github.com/Doist/reactist/pull/414,2020-12-18T15:36:06Z,2021-01-08T18:10:56Z,2,1,MERGED
+reactist,feat: Add notification component,https://github.com/Doist/reactist/pull/410,2020-12-11T15:48:24Z,2020-12-23T09:28:59Z,7,17,MERGED
+reactist,Organize styles during watch mode,https://github.com/Doist/reactist/pull/406,2020-12-09T16:25:57Z,2020-12-10T07:02:14Z,0,1,MERGED
+reactist,Only add menu list to DOM if menu is visible,https://github.com/Doist/reactist/pull/402,2020-12-01T13:56:48Z,2020-12-02T07:11:28Z,1,2,MERGED
+reactist,Adds a TodoistQuickAdd component,https://github.com/Doist/reactist/pull/399,2020-11-27T11:39:52Z,2020-12-04T14:07:14Z,11,5,CLOSED
+reactist,Updates Reakit dependency,https://github.com/Doist/reactist/pull/391,2020-11-17T09:34:35Z,2020-11-17T12:52:40Z,0,2,MERGED
+reactist,Moves button types to separate types,https://github.com/Doist/reactist/pull/390,2020-11-13T11:00:22Z,2020-11-13T13:27:41Z,0,3,MERGED
+reactist,chore: Remove babel-eslint.,https://github.com/Doist/reactist/pull/388,2020-11-10T14:18:15Z,2020-11-10T23:01:34Z,0,1,MERGED
+reactist,fix: Call MenuItem onClick if provided,https://github.com/Doist/reactist/pull/477,2021-03-26T22:31:53Z,2021-03-31T12:17:37Z,4,1,MERGED
+reactist,feat: Add xxlarge spacing option to design system components,https://github.com/Doist/reactist/pull/475,2021-03-19T14:17:38Z,2021-03-22T08:13:37Z,0,4,MERGED
+reactist,fix: Loading component no longer spins off-centre,https://github.com/Doist/reactist/pull/474,2021-03-18T20:31:54Z,2021-03-22T07:47:54Z,2,4,MERGED
+reactist,fix: Allow stylesheets to be bundled in storybook production build,https://github.com/Doist/reactist/pull/473,2021-03-17T15:02:48Z,2021-03-18T10:36:11Z,0,2,MERGED
+reactist,feat: Add aria-label prop to Loading component,https://github.com/Doist/reactist/pull/472,2021-03-17T08:31:31Z,2021-03-18T11:00:32Z,2,7,MERGED
+reactist,"fix: Add missing colour vars and Column export, lineClamp support, Color, Heading, Text demos",https://github.com/Doist/reactist/pull/471,2021-03-16T13:47:14Z,2021-03-18T11:38:59Z,9,13,MERGED
+reactist,chore: Bump version to v9.1.0-beta.2,https://github.com/Doist/reactist/pull/469,2021-03-11T11:22:00Z,2021-03-11T16:04:18Z,0,3,MERGED
+reactist,fix: Exclude emotion's css prop from exported typedefs,https://github.com/Doist/reactist/pull/468,2021-03-11T06:42:46Z,2021-03-11T10:18:02Z,0,1,MERGED
+reactist,fix: Move patch-package to dependencies,https://github.com/Doist/reactist/pull/467,2021-03-10T14:34:59Z,2021-03-11T10:18:25Z,0,1,MERGED
+reactist,fix: Prevent non-CSS modules from being treated as one,https://github.com/Doist/reactist/pull/464,2021-03-09T13:34:35Z,2021-03-10T08:47:42Z,0,7,MERGED
+reactist,chore: Bump version to v9.1.0-beta,https://github.com/Doist/reactist/pull/460,2021-03-05T09:01:25Z,2021-03-08T07:21:02Z,0,3,MERGED
+reactist,chore: Fix npm/node to v6 and latest LTS,https://github.com/Doist/reactist/pull/441,2021-02-18T10:41:18Z,2021-02-22T07:19:44Z,2,11,MERGED
+reactist,"feat: Add Box, Columns, Inline, and Stack design system components",https://github.com/Doist/reactist/pull/434,2021-02-08T19:53:48Z,2021-03-05T08:48:23Z,4,11,MERGED
+reactist,Adds defaultValue and otherProps to Select,https://github.com/Doist/reactist/pull/433,2021-02-05T11:31:05Z,2021-02-05T13:12:04Z,0,2,MERGED
+reactist,done,https://github.com/Doist/reactist/pull/427,2021-01-21T23:58:58Z,2021-01-22T01:13:03Z,2,1,CLOSED
+reactist,Fix type definition for MenuItem when no as attribute,https://github.com/Doist/reactist/pull/426,2021-01-20T08:51:23Z,2021-01-21T11:05:56Z,0,1,MERGED
+reactist,feat: Adds Date and Time Pickers,https://github.com/Doist/reactist/pull/423,2021-01-08T12:51:57Z,2021-01-14T08:58:54Z,17,2,CLOSED
+reactist,fix: Allow `component` prop to be used for `Column` component,https://github.com/Doist/reactist/pull/522,2021-05-27T13:56:47Z,2021-06-11T13:27:55Z,0,4,MERGED
+reactist,refactor: Migrate modal story to pure MDX story format,https://github.com/Doist/reactist/pull/520,2021-05-11T13:28:22Z,2021-05-18T07:42:39Z,9,8,MERGED
+reactist,fix: Allow nested Columns to retain their own inner spacing,https://github.com/Doist/reactist/pull/519,2021-05-11T12:08:29Z,2021-05-12T11:21:03Z,1,3,MERGED
+reactist,fix: Prevent menu items with aria-disabled=false from being disabled,https://github.com/Doist/reactist/pull/518,2021-05-11T08:13:20Z,2021-05-11T08:40:31Z,0,5,MERGED
+reactist,A couple of style fixes,https://github.com/Doist/reactist/pull/517,2021-05-07T22:18:17Z,2021-05-10T22:47:27Z,3,3,MERGED
+reactist,chore: Update @doist/eslint-config to 6.x,https://github.com/Doist/reactist/pull/516,2021-05-06T21:29:08Z,2021-05-07T22:28:49Z,1,6,MERGED
+reactist,chore: Upgrade version to 9.1.4,https://github.com/Doist/reactist/pull/515,2021-05-06T13:14:31Z,2021-05-07T09:36:36Z,0,2,MERGED
+reactist,fix: Make Columns component grow in a flex container,https://github.com/Doist/reactist/pull/514,2021-05-06T09:49:50Z,2021-05-07T08:00:52Z,5,3,MERGED
+reactist,feat: Rename Text stack to align with Design library,https://github.com/Doist/reactist/pull/513,2021-05-06T09:08:41Z,2021-05-07T08:16:45Z,4,5,MERGED
+reactist,chore: Migrate beta stories to storybook 6,https://github.com/Doist/reactist/pull/512,2021-04-30T18:59:17Z,2021-05-06T08:22:56Z,3,11,MERGED
+reactist,Make disabled button component more accessible through aria-disabled,https://github.com/Doist/reactist/pull/509,2021-04-27T14:23:36Z,2021-04-28T13:30:22Z,2,1,MERGED
+reactist,fix: Columns/Column styles to not rely on Stack styles,https://github.com/Doist/reactist/pull/508,2021-04-26T13:17:23Z,2021-04-28T18:56:25Z,2,2,MERGED
+reactist,docs: Update readme with further details on the release process,https://github.com/Doist/reactist/pull/507,2021-04-23T13:13:31Z,2021-04-26T09:56:35Z,0,1,MERGED
+reactist,Various fixes and improvements to the new design system components,https://github.com/Doist/reactist/pull/503,2021-04-22T14:50:46Z,2021-04-23T14:54:40Z,0,2,MERGED
+reactist,feat: Forward ref from Heading component,https://github.com/Doist/reactist/pull/501,2021-04-21T13:45:22Z,2021-04-22T05:33:46Z,5,1,CLOSED
+reactist,Various fixes to some of the new design system components,https://github.com/Doist/reactist/pull/500,2021-04-20T22:39:00Z,2021-04-22T11:05:28Z,1,4,MERGED
+reactist,chore: Upgrade Storybook to v6.2.1,https://github.com/Doist/reactist/pull/498,2021-04-16T13:33:04Z,2021-04-22T08:33:48Z,13,30,MERGED
+reactist,"fix: Simplify markup generated by Stack and Inline, fix ButtonLink styles",https://github.com/Doist/reactist/pull/497,2021-04-15T18:05:39Z,2021-04-20T12:57:45Z,5,3,MERGED
+reactist,fix: Various fixes to the new design system components,https://github.com/Doist/reactist/pull/495,2021-04-14T23:32:43Z,2021-04-15T17:12:15Z,3,2,MERGED
+reactist,Fix Text ref,https://github.com/Doist/reactist/pull/490,2021-04-08T00:49:07Z,2021-04-08T01:06:00Z,1,1,MERGED
+reactist,Bring changes from Todoist made to existing components,https://github.com/Doist/reactist/pull/485,2021-04-06T16:33:04Z,2021-04-07T21:21:22Z,12,11,MERGED
+reactist,fix: Allows classname to be passed through on ButtonLink,https://github.com/Doist/reactist/pull/531,2021-07-26T15:46:37Z,2021-07-27T10:36:49Z,5,3,MERGED
+reactist,feat: Add `lineHeight` prop to `<Text>`,https://github.com/Doist/reactist/pull/530,2021-07-14T14:50:11Z,2021-07-16T06:47:50Z,8,1,CLOSED
+reactist,Ensure Super key gets sent to translation function,https://github.com/Doist/reactist/pull/529,2021-06-23T14:13:40Z,2021-06-24T11:24:02Z,0,2,MERGED
+reactist,fix: Prevent emojis from being cut off in Text component when lineclamp is enabled,https://github.com/Doist/reactist/pull/528,2021-06-10T08:22:13Z,2021-06-11T08:57:20Z,1,4,MERGED
+reactist,chore: Remove temporary action for default branch migration,https://github.com/Doist/reactist/pull/527,2021-06-09T10:02:09Z,2021-06-09T10:16:42Z,0,1,MERGED
+reactist,chore: tweak and fix `default-branch-migration` action,https://github.com/Doist/reactist/pull/526,2021-06-05T10:16:51Z,2021-06-05T10:20:14Z,0,1,MERGED
+reactist,chore: Change all `dev` branch references to `main`,https://github.com/Doist/reactist/pull/525,2021-06-04T17:14:10Z,2021-06-09T09:44:04Z,0,3,MERGED
+reactist,chore: Add temporary action for default branch migration (#3576),https://github.com/Doist/reactist/pull/524,2021-06-04T16:31:50Z,2021-06-04T16:41:16Z,0,1,MERGED
+reactist,chore: Support baseline alignment,https://github.com/Doist/reactist/pull/523,2021-06-02T14:56:50Z,2021-06-07T14:08:25Z,0,4,MERGED
+reactist,Box width/maxWidth/minWidth improvements,https://github.com/Doist/reactist/pull/599,2021-10-27T21:03:58Z,2021-11-01T17:29:19Z,0,6,MERGED
+reactist,BREAKING CHANGE: Delete Tip component,https://github.com/Doist/reactist/pull/598,2021-10-19T18:00:49Z,2021-11-01T18:25:28Z,0,2,MERGED
+reactist,BREAKING CHANGE: Delete Icon component,https://github.com/Doist/reactist/pull/597,2021-10-19T17:50:22Z,2021-11-01T18:13:43Z,0,2,MERGED
+reactist,BREAKING CHANGE: Delete ErrorMessage component,https://github.com/Doist/reactist/pull/596,2021-10-19T17:34:58Z,2021-11-01T18:01:20Z,0,2,MERGED
+reactist,BREAKING CHANGE: Delete RangeInput component,https://github.com/Doist/reactist/pull/595,2021-10-19T17:25:58Z,2021-11-01T18:36:44Z,0,2,MERGED
+reactist,"chore: Adds a11y badge, automated tests to numerous components",https://github.com/Doist/reactist/pull/594,2021-10-18T23:39:15Z,2021-11-01T19:58:59Z,9,29,MERGED
+reactist,feat: ProgressBar a11y improvements ,https://github.com/Doist/reactist/pull/593,2021-10-18T21:31:25Z,2021-10-19T16:50:31Z,0,4,MERGED
+reactist,feat: Notification a11y improvements,https://github.com/Doist/reactist/pull/592,2021-10-18T19:00:13Z,2021-10-19T18:26:11Z,1,9,MERGED
+reactist,feat: Modal a11y improvements,https://github.com/Doist/reactist/pull/591,2021-10-15T21:41:58Z,2021-10-29T20:42:34Z,7,16,MERGED
+reactist,chore: Update peer deps to include React 17,https://github.com/Doist/reactist/pull/590,2021-10-15T11:15:24Z,2021-10-20T15:47:53Z,1,2,MERGED
+reactist,feat: Menu a11y improvements,https://github.com/Doist/reactist/pull/589,2021-10-14T23:02:54Z,2021-10-15T16:29:12Z,2,6,MERGED
+reactist,"chore: Adds jest-axe package, automated test cases",https://github.com/Doist/reactist/pull/588,2021-10-14T21:42:45Z,2021-10-14T22:32:33Z,1,3,MERGED
+reactist,feat: SwitchField a11y improvements ,https://github.com/Doist/reactist/pull/587,2021-10-13T23:41:09Z,2021-10-14T18:42:59Z,1,9,MERGED
+reactist,feat: Loading a11y improvements,https://github.com/Doist/reactist/pull/586,2021-10-13T18:41:07Z,2021-10-14T20:20:18Z,2,12,MERGED
+reactist,feat: CheckboxField a11y improvements,https://github.com/Doist/reactist/pull/585,2021-10-12T16:50:14Z,2021-10-13T18:31:26Z,7,14,MERGED
+reactist,"chore: Limits node version to 16.10.0, updates Storybook to v6.3.10",https://github.com/Doist/reactist/pull/584,2021-10-11T18:10:49Z,2021-10-11T20:04:20Z,2,6,MERGED
+reactist,feat: New modal widths,https://github.com/Doist/reactist/pull/582,2021-10-09T01:43:20Z,2021-10-09T01:50:33Z,0,2,MERGED
+reactist,chore: Upgrade storybook from v6.2.1 to v6.3.10,https://github.com/Doist/reactist/pull/581,2021-10-08T21:15:29Z,2021-10-11T19:05:09Z,0,4,CLOSED
+reactist,fix: Reduce tab CSS variables specificity,https://github.com/Doist/reactist/pull/580,2021-10-08T07:27:32Z,2021-10-08T09:54:49Z,1,3,MERGED
+reactist,Fix modal dividers,https://github.com/Doist/reactist/pull/579,2021-10-01T02:34:10Z,2021-10-01T02:44:03Z,0,3,MERGED
+reactist,New release v10.0.0-beta.8,https://github.com/Doist/reactist/pull/577,2021-09-30T19:18:16Z,2021-09-30T19:25:26Z,0,1,MERGED
+reactist,Fix border colors of the new field components,https://github.com/Doist/reactist/pull/576,2021-09-30T18:54:22Z,2021-09-30T18:55:18Z,0,1,MERGED
+reactist,Adjust modal widths,https://github.com/Doist/reactist/pull/575,2021-09-30T18:21:07Z,2021-09-30T18:25:23Z,0,1,MERGED
+reactist,refactor: New system of border and divider colors,https://github.com/Doist/reactist/pull/574,2021-09-29T13:45:14Z,2021-09-30T14:29:58Z,0,1,MERGED
+reactist,Button min width,https://github.com/Doist/reactist/pull/572,2021-09-28T13:42:10Z,2021-09-30T19:04:52Z,0,1,MERGED
+reactist,Button style improvements,https://github.com/Doist/reactist/pull/571,2021-09-24T01:07:26Z,2021-09-24T20:59:39Z,0,2,MERGED
+reactist,Fix button icon spacing,https://github.com/Doist/reactist/pull/570,2021-09-23T17:33:20Z,2021-09-24T12:40:55Z,0,1,MERGED
+reactist,"Fix modal button icon alignment, truncate button labels when too long",https://github.com/Doist/reactist/pull/567,2021-09-20T21:39:56Z,2021-09-21T17:02:09Z,2,4,MERGED
+reactist,Better adjust a modal's vertical position when in fitContent mode,https://github.com/Doist/reactist/pull/565,2021-09-10T20:02:44Z,2021-09-20T16:30:34Z,0,1,MERGED
+reactist,Button improvements,https://github.com/Doist/reactist/pull/563,2021-09-09T22:44:59Z,2021-09-10T14:13:12Z,5,13,MERGED
+reactist,Various fixes and improvements,https://github.com/Doist/reactist/pull/561,2021-09-08T15:55:17Z,2021-09-08T17:24:53Z,2,9,MERGED
+reactist,doc: Add new stories with tips and tricks,https://github.com/Doist/reactist/pull/560,2021-09-07T02:39:34Z,2021-09-09T22:52:30Z,12,2,MERGED
+reactist,Making it easier to adopt the new loading spinner,https://github.com/Doist/reactist/pull/558,2021-09-03T04:41:38Z,2021-09-03T14:20:48Z,0,3,MERGED
+reactist,chore: Add step to read node version from .nvmrc file,https://github.com/Doist/reactist/pull/555,2021-09-01T15:54:43Z,2021-09-01T16:45:06Z,0,3,MERGED
+reactist,chore: Add step to read node version from .nvmrc file,https://github.com/Doist/reactist/pull/554,2021-09-01T08:25:13Z,2021-09-01T15:35:12Z,2,4,MERGED
+reactist,New button,https://github.com/Doist/reactist/pull/553,2021-08-27T02:15:35Z,2021-09-02T22:01:02Z,2,10,MERGED
+reactist,docs: Use Docs as Storybook default tab,https://github.com/Doist/reactist/pull/552,2021-08-26T16:02:14Z,2021-09-02T22:19:22Z,6,3,MERGED
+reactist,feat: Support polymorphism with `TabPanel` component,https://github.com/Doist/reactist/pull/551,2021-08-26T15:21:37Z,2021-09-01T16:55:19Z,9,4,MERGED
+reactist,Improvements to LoadingSpinner,https://github.com/Doist/reactist/pull/550,2021-08-25T21:01:22Z,2021-09-02T19:14:58Z,4,5,MERGED
+reactist,chore: Bump version and update changelog,https://github.com/Doist/reactist/pull/549,2021-08-25T07:58:06Z,2021-08-25T08:52:36Z,0,2,MERGED
+reactist,Text and Heading components improvements,https://github.com/Doist/reactist/pull/548,2021-08-24T22:27:29Z,2021-09-01T17:10:47Z,4,5,MERGED
+reactist,New modal implementation,https://github.com/Doist/reactist/pull/547,2021-08-24T20:02:01Z,2021-09-02T19:27:40Z,2,12,MERGED
+reactist,chore: [internal] Upgrade to Node 16 / npm 7,https://github.com/Doist/reactist/pull/546,2021-08-24T11:13:38Z,2021-08-25T07:44:39Z,1,3,MERGED
+reactist,Prepare release with various design system changes,https://github.com/Doist/reactist/pull/545,2021-08-23T13:34:18Z,2021-08-24T11:43:53Z,0,9,MERGED
+reactist,chore: Bump version to v9.2.0 beta.17,https://github.com/Doist/reactist/pull/544,2021-08-23T07:34:30Z,2021-08-23T07:46:29Z,0,3,MERGED
+reactist,New components for hiding content in various ways,https://github.com/Doist/reactist/pull/543,2021-08-19T21:46:26Z,2021-08-20T12:26:10Z,1,4,MERGED
+reactist,"Text and Heading tests, new stories and improvements",https://github.com/Doist/reactist/pull/542,2021-08-19T17:02:23Z,2021-08-20T16:36:16Z,3,4,MERGED
+reactist,feat: New Tabs component based on Reakit/Tab,https://github.com/Doist/reactist/pull/540,2021-08-19T04:38:11Z,2021-08-23T07:16:09Z,12,21,MERGED
+reactist,"Add tests, stories and improvements to the switch and checkbox components",https://github.com/Doist/reactist/pull/539,2021-08-18T23:19:12Z,2021-08-20T12:16:07Z,1,2,MERGED
+reactist,"Tests, stories and improvements for base-field components",https://github.com/Doist/reactist/pull/538,2021-08-17T21:20:40Z,2021-08-20T12:08:21Z,4,11,MERGED
+reactist,Change how responsive props are provided,https://github.com/Doist/reactist/pull/537,2021-08-17T14:43:14Z,2021-08-19T12:37:33Z,2,1,MERGED
+reactist,Box component improvements,https://github.com/Doist/reactist/pull/536,2021-08-16T21:38:08Z,2021-08-17T21:10:10Z,2,4,MERGED
+reactist,Add Stack align prop to align items horizontally,https://github.com/Doist/reactist/pull/535,2021-08-16T16:40:35Z,2021-08-16T21:44:41Z,1,1,MERGED
+reactist,Add tests for the layout-related components,https://github.com/Doist/reactist/pull/534,2021-08-12T19:46:53Z,2021-08-16T16:14:53Z,8,1,MERGED
+reactist,Polymorphism types refactoring and className prop constraints,https://github.com/Doist/reactist/pull/533,2021-08-11T20:38:10Z,2021-08-12T16:46:30Z,5,3,MERGED
+reactist,fix: Add prop table for modal story,https://github.com/Doist/reactist/pull/532,2021-08-04T16:33:10Z,2021-08-10T11:40:21Z,1,2,MERGED
+reactist,fix: Various fixes to the `ModalActions` component,https://github.com/Doist/reactist/pull/615,2021-12-07T16:51:34Z,2022-01-05T14:49:33Z,4,1,MERGED
+reactist,fix: Improve ModalActions behaviour with null child items,https://github.com/Doist/reactist/pull/614,2021-12-05T17:32:36Z,2021-12-07T16:53:26Z,2,6,CLOSED
+reactist,feat: Updates Avatar to support responsive patterns,https://github.com/Doist/reactist/pull/611,2021-11-16T15:00:39Z,2021-11-22T18:01:52Z,14,12,MERGED
+reactist,Remove unused CSS variables,https://github.com/Doist/reactist/pull/604,2021-11-02T21:22:22Z,2021-11-03T13:08:46Z,0,1,MERGED
+reactist,"Add tests, examples, and some styling fixes to Alert and Notice",https://github.com/Doist/reactist/pull/603,2021-11-02T21:18:59Z,2021-11-03T17:43:00Z,2,1,MERGED
+reactist,fix: Adds margin to Menu's viewport positioning,https://github.com/Doist/reactist/pull/602,2021-11-02T17:53:28Z,2021-11-02T20:26:38Z,1,3,MERGED
+reactist,fix: Add 4px margin to Menu's viewport positioning,https://github.com/Doist/reactist/pull/601,2021-11-02T14:16:09Z,2021-11-02T17:53:41Z,6,94,CLOSED
+reactist,BREAKING CHANGE: Merge beta branch,https://github.com/Doist/reactist/pull/600,2021-11-01T20:32:02Z,2021-11-02T14:45:25Z,1,89,MERGED
+reactist,feat: Add `alignSelf` to `<Box>`,https://github.com/Doist/reactist/pull/642,2022-03-29T10:52:18Z,2022-03-30T07:20:39Z,0,1,MERGED
+reactist,feat: Update Heading component to support a semibold weight value,https://github.com/Doist/reactist/pull/640,2022-03-22T10:43:32Z,2022-04-06T15:33:23Z,14,1,CLOSED
+reactist,docs: Remove references to Figma designs,https://github.com/Doist/reactist/pull/639,2022-03-17T10:00:39Z,2022-03-17T10:10:26Z,0,2,MERGED
+reactist,Adds button CSS border colour variables,https://github.com/Doist/reactist/pull/638,2022-03-04T00:30:19Z,2022-03-04T20:14:27Z,5,5,CLOSED
+reactist, chore: v11.2.0 release,https://github.com/Doist/reactist/pull/637,2022-03-01T22:23:30Z,2022-03-01T22:30:55Z,0,2,MERGED
+reactist,feat: Allow buttons to customize tooltip `gapSize`,https://github.com/Doist/reactist/pull/636,2022-02-28T11:30:04Z,2022-03-01T09:26:04Z,7,1,MERGED
+reactist,fix: Change how the menu and its backdrop are positioned in the markup,https://github.com/Doist/reactist/pull/635,2022-02-23T23:17:36Z,2022-04-19T20:51:43Z,2,1,CLOSED
+reactist,feat: Allow columns to customize their height,https://github.com/Doist/reactist/pull/634,2022-02-23T18:14:07Z,2023-01-20T12:55:05Z,2,2,CLOSED
+reactist,fix: Hide Modal Header close button column when the button is not rendered,https://github.com/Doist/reactist/pull/633,2022-02-15T18:38:28Z,2022-02-16T12:48:13Z,4,4,MERGED
+reactist,"fix: [Box] Using ""start"" as a value for textAlign doesn't add text alignment",https://github.com/Doist/reactist/pull/631,2022-01-31T17:12:46Z,2022-02-03T04:30:15Z,1,3,MERGED
+reactist,Add rows type to text area,https://github.com/Doist/reactist/pull/630,2022-01-31T05:26:58Z,2022-01-31T12:18:44Z,0,2,MERGED
+reactist,chore: Use Node 16,https://github.com/Doist/reactist/pull/628,2022-01-28T14:15:06Z,2022-01-28T15:01:52Z,0,1,MERGED
+reactist,style: Update default medium font-weight to 600,https://github.com/Doist/reactist/pull/622,2022-01-26T14:53:54Z,2022-01-26T20:34:49Z,0,3,MERGED
+reactist,ci: set sensible timeout,https://github.com/Doist/reactist/pull/620,2022-01-13T01:07:03Z,2022-01-13T09:37:51Z,1,3,MERGED
+reactist,fix: Render menu lists in a React portal by default,https://github.com/Doist/reactist/pull/619,2022-01-12T14:57:00Z,2022-02-23T23:22:55Z,6,1,CLOSED
+reactist,chore: v11.1.0 release,https://github.com/Doist/reactist/pull/617,2022-01-05T15:15:12Z,2022-01-26T22:18:38Z,0,2,MERGED
+reactist,fix: Add missing menu styling for Safari,https://github.com/Doist/reactist/pull/666,2022-05-30T15:27:53Z,2022-06-02T11:30:57Z,3,2,MERGED
+reactist,fix: Ensure tooltip doesn't override its anchor's ref,https://github.com/Doist/reactist/pull/665,2022-05-26T18:20:40Z,2022-05-27T12:10:24Z,1,4,MERGED
+reactist,chore: Remove registry configs before publishing,https://github.com/Doist/reactist/pull/664,2022-05-25T08:23:49Z,2022-05-25T08:38:09Z,1,3,MERGED
+reactist,refactor: Make label full width configurable,https://github.com/Doist/reactist/pull/663,2022-05-20T20:02:35Z,2022-08-15T13:56:27Z,6,4,MERGED
+reactist,refactor: Replace Reakit with Ariakit,https://github.com/Doist/reactist/pull/662,2022-05-19T22:08:50Z,2022-05-25T07:44:12Z,0,13,MERGED
+reactist,chore: Upgrade React@v17 TypeScript@v4.6 Storybook@v6.5,https://github.com/Doist/reactist/pull/661,2022-05-19T21:59:31Z,2022-05-25T07:27:10Z,3,25,MERGED
+reactist,chore: v11.6.0 release,https://github.com/Doist/reactist/pull/660,2022-05-19T10:30:27Z,2022-05-19T12:52:01Z,1,1,MERGED
+reactist,feat: Add support for an error status and message in most form field components,https://github.com/Doist/reactist/pull/659,2022-05-18T19:54:08Z,2022-06-01T20:44:43Z,2,3,CLOSED
+reactist,fix: set TextLink color using CSS variable,https://github.com/Doist/reactist/pull/658,2022-05-17T20:14:09Z,2022-05-19T10:11:49Z,0,1,MERGED
+reactist,feat: Add positive tone to Text component,https://github.com/Doist/reactist/pull/657,2022-05-17T14:22:39Z,2022-05-18T12:06:55Z,0,1,MERGED
+reactist,feat: Add xsmall size to Loading component,https://github.com/Doist/reactist/pull/656,2022-05-17T13:02:53Z,2022-05-17T17:29:19Z,0,1,MERGED
+reactist,fix: Modal header's min-height is now applied when header has no button,https://github.com/Doist/reactist/pull/655,2022-05-13T20:45:13Z,2022-05-16T14:56:57Z,1,3,MERGED
+reactist,chore: v11.5.0 release,https://github.com/Doist/reactist/pull/653,2022-04-28T11:54:02Z,2022-04-28T12:02:48Z,0,1,MERGED
+reactist,chore: Support React v18 peer dependencies,https://github.com/Doist/reactist/pull/652,2022-04-28T11:19:46Z,2022-04-28T11:31:41Z,0,1,MERGED
+reactist,chore: v11.4.0 release,https://github.com/Doist/reactist/pull/651,2022-04-19T23:08:14Z,2022-04-20T01:02:18Z,0,1,MERGED
+reactist,BREAKING: Re-implemented Tooltip component,https://github.com/Doist/reactist/pull/649,2022-04-14T01:50:41Z,2022-09-01T12:58:39Z,7,2,CLOSED
+reactist,fix: Show button focus styles only when needed,https://github.com/Doist/reactist/pull/648,2022-04-13T12:15:26Z,2022-04-13T13:27:33Z,0,1,MERGED
+reactist,"feat: <Button width=""full"" align=""start|center|end"">",https://github.com/Doist/reactist/pull/647,2022-04-13T00:58:16Z,2022-04-19T20:50:18Z,8,5,MERGED
+reactist,"style: [internal] Update headers to align size, weight and line-height with product library styles",https://github.com/Doist/reactist/pull/646,2022-04-06T15:33:17Z,2022-09-13T18:04:25Z,13,2,CLOSED
+reactist,fix: Reset input padding for bordered TextField,https://github.com/Doist/reactist/pull/673,2022-07-13T09:36:18Z,2022-07-14T14:59:27Z,2,1,MERGED
+reactist,"chore: Removes DeprecatedLoading, DeprecatedModal and Checkbox",https://github.com/Doist/reactist/pull/672,2022-07-12T12:26:34Z,2022-08-15T14:36:32Z,0,1,MERGED
+reactist,BREAKING: Remove Button's tooltipGapSize prop,https://github.com/Doist/reactist/pull/671,2022-06-30T22:24:34Z,2022-08-15T14:21:38Z,0,1,MERGED
+reactist,feat: Allow buttons to have fully rounded/circular corners,https://github.com/Doist/reactist/pull/670,2022-06-30T15:28:49Z,2022-08-15T13:34:28Z,3,2,MERGED
+reactist,"feat: Introduce a ""bordered"" variant for all text-like fields",https://github.com/Doist/reactist/pull/669,2022-06-02T20:32:19Z,2022-06-30T17:52:09Z,6,8,MERGED
+reactist,fix: Better alignment between menu and anchor,https://github.com/Doist/reactist/pull/668,2022-06-02T15:56:52Z,2022-06-03T05:13:39Z,0,3,MERGED
+reactist,feat: Add a semantic message and tone to most field components,https://github.com/Doist/reactist/pull/667,2022-06-01T20:44:12Z,2022-06-29T20:55:40Z,1,5,MERGED
+reactist,docs: Update `CODE_OF_CONDUCT.md` to Contributor Covenant v2.1,https://github.com/Doist/reactist/pull/705,2022-10-31T11:56:49Z,2022-11-01T11:09:08Z,3,1,MERGED
+reactist,fix: Deprecated modal import paths in story,https://github.com/Doist/reactist/pull/704,2022-10-28T19:46:55Z,2022-10-28T19:52:24Z,0,2,MERGED
+reactist,feat: Add Badge component,https://github.com/Doist/reactist/pull/703,2022-10-28T19:15:23Z,2022-11-01T06:08:52Z,8,7,MERGED
+reactist,refactor: More modern React imports and other minor code improvements,https://github.com/Doist/reactist/pull/700,2022-09-08T20:47:25Z,2022-09-08T20:52:43Z,0,1,MERGED
+reactist,refactor: Change deprecated way to import React,https://github.com/Doist/reactist/pull/699,2022-09-06T20:32:52Z,2022-09-08T02:07:58Z,1,1,MERGED
+reactist,feat: Enhance the `label` property in `CheckboxField` to be of the type `React.ReactNode`,https://github.com/Doist/reactist/pull/697,2022-09-01T18:18:09Z,2022-09-02T09:02:56Z,3,4,MERGED
+reactist,chore: v15.1.0 release,https://github.com/Doist/reactist/pull/696,2022-09-01T13:09:23Z,2022-09-01T14:40:31Z,0,1,MERGED
+reactist,fix: TextArea now controls the width and only allows resizing vertically,https://github.com/Doist/reactist/pull/695,2022-08-31T18:44:03Z,2022-09-01T13:00:05Z,0,1,MERGED
+reactist,"breaking: New notification toasts, deprecate and rename legacy Notification",https://github.com/Doist/reactist/pull/694,2022-08-31T15:34:09Z,2022-11-08T12:55:03Z,9,14,MERGED
+reactist,chore: Updates changelog,https://github.com/Doist/reactist/pull/693,2022-08-25T09:01:34Z,2022-08-25T09:09:17Z,0,1,MERGED
+reactist,chore: Pin ariakit dependencies,https://github.com/Doist/reactist/pull/692,2022-08-25T08:48:08Z,2022-08-25T08:56:11Z,0,1,MERGED
+reactist,"feat: Reduce default height for Tabs, expose custom property for customization",https://github.com/Doist/reactist/pull/690,2022-08-24T07:17:14Z,2022-08-24T07:30:00Z,0,2,MERGED
+reactist,fix: Set max-height on reactist_menulist,https://github.com/Doist/reactist/pull/689,2022-08-23T14:40:08Z,2022-08-26T09:41:17Z,1,1,MERGED
+reactist,deps: Update @geometricpanda/storybook-addon-badges to v0.2.2,https://github.com/Doist/reactist/pull/687,2022-08-23T03:24:47Z,2022-08-24T05:39:41Z,2,4,MERGED
+reactist,Breaking: Deprecate Reach-UI based modal and add Ariakit-based modal,https://github.com/Doist/reactist/pull/686,2022-08-18T17:35:46Z,2022-08-30T11:15:12Z,2,16,MERGED
+reactist,chore: Remove Enzyme,https://github.com/Doist/reactist/pull/685,2022-08-18T04:42:44Z,2022-08-19T06:02:05Z,0,10,MERGED
+reactist,fix: Ensure Tooltips work with anchors that have an `as` prop,https://github.com/Doist/reactist/pull/684,2022-08-16T16:02:30Z,2022-08-19T04:20:40Z,0,2,MERGED
+reactist,feat: Field and textarea components improvements,https://github.com/Doist/reactist/pull/683,2022-08-15T18:25:44Z,2022-09-01T12:52:24Z,4,6,MERGED
+reactist,breaking: Support `themed` and `neutral` Tab variations,https://github.com/Doist/reactist/pull/681,2022-08-12T06:30:03Z,2022-08-19T05:15:47Z,3,7,MERGED
+reactist,"chore: Deprecate Dropdown, Input, Select; Remove Popover",https://github.com/Doist/reactist/pull/680,2022-08-11T08:34:24Z,2022-08-15T16:16:46Z,3,7,MERGED
+reactist,"refactor: Refactor modal stories, new modal prop portalElement",https://github.com/Doist/reactist/pull/731,2022-12-29T14:12:24Z,2023-01-03T12:41:39Z,1,3,MERGED
+reactist,test: Introduce Chromatic for visual regression tests,https://github.com/Doist/reactist/pull/730,2022-12-27T16:01:49Z,2023-01-24T14:41:20Z,2,6,MERGED
+reactist,chore: v17.6.0 Release,https://github.com/Doist/reactist/pull/729,2022-12-19T08:38:33Z,2022-12-19T08:46:46Z,0,1,MERGED
+reactist,chore: Update ariakit dependency to 2.0.0-next.30,https://github.com/Doist/reactist/pull/728,2022-12-16T10:56:19Z,2022-12-19T08:00:10Z,0,1,MERGED
+reactist,chore: Update README with pre-release and release instructions,https://github.com/Doist/reactist/pull/726,2022-12-12T15:51:39Z,2022-12-12T16:03:43Z,0,2,MERGED
+reactist,chore: v17.5.0 Release,https://github.com/Doist/reactist/pull/725,2022-12-12T10:59:45Z,2022-12-12T11:12:40Z,0,1,MERGED
+reactist,feat: feat: Add `variant` support to `SelectField`,https://github.com/Doist/reactist/pull/724,2022-12-08T14:29:14Z,2022-12-12T08:31:57Z,1,2,MERGED
+reactist,chore: v17.4.0 Release,https://github.com/Doist/reactist/pull/723,2022-12-08T11:11:27Z,2022-12-08T11:17:31Z,0,1,MERGED
+reactist,feat: Add support for preventing Modal from hiding when clicking overlay,https://github.com/Doist/reactist/pull/722,2022-12-06T10:30:24Z,2022-12-08T10:32:11Z,9,4,MERGED
+reactist,chore: v17.2.0 Release,https://github.com/Doist/reactist/pull/720,2022-12-05T02:38:56Z,2022-12-05T02:47:27Z,0,1,MERGED
+reactist,fix: Enforce padding in CheckboxField and accept optional icon,https://github.com/Doist/reactist/pull/719,2022-11-30T15:05:53Z,2022-12-07T15:15:00Z,12,3,MERGED
+reactist,feat: Allow defining a custom class on the Modal's overlay,https://github.com/Doist/reactist/pull/718,2022-11-29T21:44:28Z,2022-12-01T19:12:05Z,1,2,MERGED
+reactist,feat: Add `startIcon` support to `TextField`,https://github.com/Doist/reactist/pull/717,2022-11-25T01:21:49Z,2023-01-02T23:12:26Z,5,10,MERGED
+reactist,ci: Remove deprecated set-output usage,https://github.com/Doist/reactist/pull/716,2022-11-24T12:29:33Z,2022-11-24T14:02:23Z,0,1,MERGED
+reactist,fix: Allow submenus to be rendered and support keyboard navigation,https://github.com/Doist/reactist/pull/715,2022-11-17T04:29:54Z,2022-11-17T18:51:46Z,1,4,MERGED
+reactist,feat: Add support for Menu as context menu,https://github.com/Doist/reactist/pull/714,2022-11-16T02:51:31Z,2022-11-17T18:45:16Z,1,3,MERGED
+reactist,fix: Enforce minimum width for CheckboxField,https://github.com/Doist/reactist/pull/712,2022-11-14T13:26:06Z,2022-11-16T15:44:41Z,12,6,MERGED
+reactist,chore: Add support for Node v18 and npm v9,https://github.com/Doist/reactist/pull/711,2022-11-11T09:22:34Z,2022-11-11T09:29:16Z,0,1,MERGED
+reactist,breaking: Allow to customize the TextLink styles via CSS variables,https://github.com/Doist/reactist/pull/710,2022-11-10T15:44:35Z,2022-11-11T13:00:41Z,0,1,MERGED
+reactist,feat: Set badges to semibold,https://github.com/Doist/reactist/pull/708,2022-11-05T04:17:57Z,2022-11-07T23:42:12Z,0,3,MERGED
+reactist,chore: Remove coveralls,https://github.com/Doist/reactist/pull/760,2023-02-27T16:33:58Z,2023-02-27T18:06:41Z,0,1,MERGED
+reactist,"chore: Tweak height of Badge component, again",https://github.com/Doist/reactist/pull/759,2023-02-21T14:09:32Z,2023-02-21T14:15:50Z,0,1,MERGED
+reactist,chore: Explicitely enforce Chromatic build node version,https://github.com/Doist/reactist/pull/758,2023-02-21T11:28:01Z,2023-02-21T12:32:20Z,0,3,MERGED
+reactist,fix: Tweak badge height as per design mocks,https://github.com/Doist/reactist/pull/757,2023-02-20T15:39:15Z,2023-02-21T12:46:55Z,2,2,MERGED
+reactist,feat: New `Prose` component to style free-form HTML content consistently,https://github.com/Doist/reactist/pull/756,2023-02-17T18:34:46Z,2023-02-28T18:26:20Z,7,7,MERGED
+reactist,"BREAKING: Remove unused components, menu design tokens, internal refactoring",https://github.com/Doist/reactist/pull/754,2023-02-03T19:08:05Z,2023-02-10T16:27:39Z,0,7,MERGED
+reactist,chore: Add notes about Chromatic visual regression tests,https://github.com/Doist/reactist/pull/753,2023-01-30T14:30:18Z,2023-02-03T03:13:28Z,0,2,MERGED
+reactist,fix: Export Banner component,https://github.com/Doist/reactist/pull/752,2023-01-30T14:04:31Z,2023-01-30T14:12:44Z,0,2,MERGED
+reactist,chore: Very minor fixes to template component ,https://github.com/Doist/reactist/pull/751,2023-01-26T12:31:36Z,2023-02-03T03:14:00Z,2,1,MERGED
+reactist,feat: New Banner component,https://github.com/Doist/reactist/pull/750,2023-01-26T12:01:39Z,2023-01-30T13:31:28Z,13,7,MERGED
+reactist,fix: Set 300px max-with on Tooltip,https://github.com/Doist/reactist/pull/748,2023-01-19T23:14:52Z,2023-01-19T23:24:37Z,0,3,MERGED
+reactist,fix: Allow z-index override for Tooltip,https://github.com/Doist/reactist/pull/747,2023-01-19T04:47:24Z,2023-01-19T23:09:47Z,6,3,MERGED
+reactist,chore: Introduce new component template,https://github.com/Doist/reactist/pull/746,2023-01-18T10:58:14Z,2023-01-20T11:48:06Z,2,2,MERGED
+reactist,fix: Default `Menu` to have modal mode enabled,https://github.com/Doist/reactist/pull/745,2023-01-18T04:29:15Z,2023-01-18T22:11:47Z,9,4,MERGED
+reactist,BREAKING: New `Badge` component appearance (tones),https://github.com/Doist/reactist/pull/744,2023-01-17T21:46:56Z,2023-01-18T22:44:33Z,1,3,MERGED
+reactist,fix: Set pointer-events none for button elements to ensure GA tracking,https://github.com/Doist/reactist/pull/743,2023-01-13T14:46:38Z,2023-01-16T09:09:04Z,2,5,MERGED
+reactist,"feat: Improved tooltip, support for arrow in tooltips",https://github.com/Doist/reactist/pull/742,2023-01-12T21:36:20Z,2023-01-16T12:34:48Z,6,6,MERGED
+reactist,fix: Tabs layout got broken with Box gap feature,https://github.com/Doist/reactist/pull/741,2023-01-11T19:09:01Z,2023-01-11T20:58:18Z,0,2,MERGED
+reactist,feat: TextArea autoexpand,https://github.com/Doist/reactist/pull/740,2023-01-11T15:33:42Z,2023-01-12T23:02:04Z,5,4,MERGED
+reactist,"feat: Support CSS gap in Box, use it for spacing in Stack, Inline, Columns",https://github.com/Doist/reactist/pull/739,2023-01-06T12:58:01Z,2023-01-10T14:17:02Z,7,7,MERGED
+reactist,feat: Badge component improvements,https://github.com/Doist/reactist/pull/737,2023-01-05T18:06:20Z,2023-01-05T18:37:25Z,2,1,MERGED
+reactist,fix: Clicks originating inside modal and ending on backdrop no longer close modal,https://github.com/Doist/reactist/pull/736,2023-01-05T11:01:14Z,2023-01-06T08:48:41Z,1,5,MERGED
+reactist,Breaking: Update ariakit to next.43,https://github.com/Doist/reactist/pull/734,2023-01-03T08:38:39Z,2023-01-18T22:32:22Z,1,8,MERGED
+reactist,chore: Upgrade to @ariakit/react v0.3.14,https://github.com/Doist/reactist/pull/778,2023-05-31T18:37:14Z,2024-02-07T19:55:36Z,7,12,MERGED
+reactist,chore: v21.0.1 release,https://github.com/Doist/reactist/pull/777,2023-05-29T21:09:48Z,2023-05-29T21:54:30Z,0,1,MERGED
+reactist,build: Fix npm package provenance (GitHub Packages),https://github.com/Doist/reactist/pull/775,2023-05-23T10:29:16Z,2023-05-23T10:29:23Z,0,1,MERGED
+reactist,build: Fix npm package provenance,https://github.com/Doist/reactist/pull/774,2023-05-23T10:24:19Z,2023-05-23T10:25:34Z,0,1,MERGED
+reactist,fix: Tooltip no longer re-created anchor when tooltip content changes,https://github.com/Doist/reactist/pull/773,2023-05-19T14:43:42Z,2023-05-29T19:40:22Z,0,1,MERGED
+reactist,fix: Ensure TextArea autoExpand is acknowledged on its initial value,https://github.com/Doist/reactist/pull/772,2023-05-19T03:58:39Z,2023-05-19T23:17:49Z,0,1,MERGED
+reactist,BREAKING: Add startSlot and endSlot to TextField,https://github.com/Doist/reactist/pull/770,2023-05-11T23:28:13Z,2023-05-16T20:47:16Z,1,8,MERGED
+reactist,fix: Fixes to the startIcon feature on TextField,https://github.com/Doist/reactist/pull/769,2023-05-08T12:01:34Z,2023-05-11T21:19:38Z,0,6,MERGED
+reactist,chore: add missing release distribution assets,https://github.com/Doist/reactist/pull/768,2023-04-27T07:24:16Z,2023-04-27T07:32:11Z,0,1,MERGED
+reactist,"Revert ""feat: support dismissing toast when action is clicked""",https://github.com/Doist/reactist/pull/767,2023-04-27T07:17:59Z,2023-04-27T07:36:54Z,0,1,CLOSED
+reactist,test: Fix flaky Time component test by freezing clock,https://github.com/Doist/reactist/pull/766,2023-04-25T20:11:28Z,2023-04-25T20:17:43Z,0,2,MERGED
+reactist,feat: Expose CSS variables for theming the `SwitchField` component,https://github.com/Doist/reactist/pull/765,2023-04-25T19:48:42Z,2023-04-26T19:22:40Z,3,3,MERGED
+reactist,chore: Adds provenance flag to npm publish,https://github.com/Doist/reactist/pull/764,2023-04-25T15:22:42Z,2023-04-25T15:35:11Z,0,1,MERGED
+reactist,feat: support dismissing toast when action is clicked,https://github.com/Doist/reactist/pull/763,2023-04-21T10:18:55Z,2023-04-27T07:16:23Z,3,3,MERGED
+reactist,chore: Fix links to Reactist components in storybook stories using LinkTo,https://github.com/Doist/reactist/pull/795,2023-07-31T14:22:42Z,2023-07-31T14:58:23Z,1,1,MERGED
+reactist,chore: Fix links to Reactist components in storybook stories,https://github.com/Doist/reactist/pull/794,2023-07-31T13:19:56Z,2023-07-31T13:58:34Z,1,2,MERGED
+reactist,"feat: Icon-only menu items, plus accessible menu group help links",https://github.com/Doist/reactist/pull/793,2023-07-10T19:38:40Z,2023-07-11T21:52:53Z,4,1,MERGED
+reactist,feat: New menu styles,https://github.com/Doist/reactist/pull/792,2023-07-07T19:10:27Z,2023-07-10T17:50:28Z,4,1,MERGED
+reactist,fix: Using a menu both triggered by a button and by right-click,https://github.com/Doist/reactist/pull/791,2023-07-06T19:35:38Z,2023-07-06T21:01:06Z,0,1,MERGED
+reactist,feat: Expose input border colours as --reactist-inputs-* variables,https://github.com/Doist/reactist/pull/790,2023-07-06T02:07:49Z,2023-07-10T16:57:55Z,2,8,MERGED
+reactist,style: Apply a large right-padding to ModalHeader to match left side,https://github.com/Doist/reactist/pull/789,2023-07-05T08:21:38Z,2023-07-05T13:47:16Z,5,1,CLOSED
+reactist,feat: Structured menu items,https://github.com/Doist/reactist/pull/788,2023-07-04T14:40:08Z,2023-07-04T16:51:15Z,2,1,MERGED
+reactist,feat: Add the ability to open menus programmatically,https://github.com/Doist/reactist/pull/787,2023-07-04T02:40:59Z,2023-07-04T16:09:15Z,0,1,MERGED
+reactist,fix horizontal expansion of textarea with autoexpand={true},https://github.com/Doist/reactist/pull/786,2023-06-19T14:46:36Z,2023-09-12T11:13:57Z,4,1,MERGED
+reactist,feat: Use link colors when inline code is wrapped in links,https://github.com/Doist/reactist/pull/785,2023-06-16T23:17:43Z,2023-06-20T04:47:18Z,0,3,MERGED
+reactist,refactor: Rework modal padding,https://github.com/Doist/reactist/pull/784,2023-06-15T15:38:49Z,2024-10-09T19:17:52Z,7,2,CLOSED
+reactist,ci: Set up node version before building storybook,https://github.com/Doist/reactist/pull/783,2023-06-14T12:49:57Z,2023-06-14T12:59:01Z,0,1,MERGED
+reactist,"chore: Deploy storybook automatically, without relying on build artifacts in repo",https://github.com/Doist/reactist/pull/782,2023-06-14T12:35:21Z,2023-06-14T12:45:07Z,1,1,MERGED
+reactist,fix: Remove tablist default space to get rid of unnecessary gap between tabs,https://github.com/Doist/reactist/pull/781,2023-06-05T23:23:44Z,2023-06-05T23:30:23Z,0,1,MERGED
+reactist,ci: Allow authenticated operations against the GitHub Packages registry,https://github.com/Doist/reactist/pull/780,2023-06-05T17:24:24Z,2023-06-05T17:31:03Z,0,1,MERGED
+reactist,remove tablist default space to get rid of unnecessary gap between tabs,https://github.com/Doist/reactist/pull/779,2023-06-03T15:25:20Z,2023-06-05T23:22:31Z,0,1,MERGED
+reactist,fix: Better alignment for Alert icons,https://github.com/Doist/reactist/pull/807,2023-10-31T20:43:36Z,2024-10-23T23:49:02Z,4,4,MERGED
+reactist,feat: Update `<Alert>` component's design,https://github.com/Doist/reactist/pull/806,2023-10-30T20:32:55Z,2023-10-31T16:20:21Z,1,9,MERGED
+reactist,chore: add support for Node v20 and npm v10,https://github.com/Doist/reactist/pull/803,2023-09-28T08:13:47Z,2023-09-28T08:22:01Z,0,2,MERGED
+reactist, BREAKING: remove DeprecatedModal component,https://github.com/Doist/reactist/pull/802,2023-09-26T09:06:05Z,2023-09-26T14:56:50Z,3,2,MERGED
+reactist,chore: Update actions to support NodeJS 20,https://github.com/Doist/reactist/pull/801,2023-09-19T13:01:49Z,2023-09-20T04:10:45Z,0,1,MERGED
+reactist,feat: add an option for a custom className for toasts container,https://github.com/Doist/reactist/pull/800,2023-09-15T15:43:52Z,2023-09-15T18:23:31Z,0,1,MERGED
+reactist,spike: Leverage Ariakit's combobox + select to create a searchable dropdown list,https://github.com/Doist/reactist/pull/797,2023-08-10T06:28:38Z,2023-08-23T05:41:25Z,0,3,CLOSED
+reactist,fix horizontal expansion of textarea with autoexpand={true},https://github.com/Doist/reactist/pull/796,2023-08-03T13:43:52Z,2023-08-03T13:44:20Z,0,1,CLOSED
+reactist,chore: increase show tooltip delay to 1 second,https://github.com/Doist/reactist/pull/809,2023-12-11T18:28:32Z,2023-12-12T01:03:11Z,1,3,MERGED
+reactist,chore: add support for Node v21,https://github.com/Doist/reactist/pull/808,2023-11-21T08:50:41Z,2023-11-21T08:54:29Z,0,1,MERGED
+reactist,fix: Omit props removed in future versions of @types/react,https://github.com/Doist/reactist/pull/819,2024-03-27T20:03:12Z,2024-03-29T15:31:17Z,5,2,MERGED
+reactist,fix: More fixes related to the Ariakit upgrade,https://github.com/Doist/reactist/pull/818,2024-03-08T21:24:18Z,2024-03-11T16:10:09Z,4,3,MERGED
+reactist,fix: More ariakit upgrade fixes,https://github.com/Doist/reactist/pull/817,2024-03-07T00:18:03Z,2024-03-07T13:29:05Z,0,3,MERGED
+reactist,chore: Release 23.2.0 in 24.1.0-beta,https://github.com/Doist/reactist/pull/815,2024-02-20T09:52:31Z,2024-02-20T10:01:49Z,0,2,MERGED
+reactist,feat: Add 'medium' weight to Heading,https://github.com/Doist/reactist/pull/814,2024-02-17T01:33:43Z,2024-02-20T04:15:44Z,0,3,MERGED
+reactist,feat: Add `--reactist-font-family-monospace` with updated font family,https://github.com/Doist/reactist/pull/813,2024-01-17T15:28:34Z,2024-01-18T11:03:03Z,0,2,MERGED
+reactist,fix: Explicitly omit `crossOrigin` and `placeholder` props,https://github.com/Doist/reactist/pull/812,2024-01-12T22:06:12Z,2024-01-16T19:32:16Z,0,3,MERGED
+reactist,fix: Vertical alignment of inline code inside a `Prose` component,https://github.com/Doist/reactist/pull/811,2024-01-05T15:45:33Z,2024-01-05T15:53:51Z,0,1,MERGED
+reactist,fix: Prevent badge text from wrapping,https://github.com/Doist/reactist/pull/810,2024-01-03T19:04:34Z,2024-01-03T19:08:14Z,0,1,MERGED
+reactist,chore: Bring latest from main as v24.2.0-beta,https://github.com/Doist/reactist/pull/828,2024-05-31T13:41:12Z,2024-05-31T15:00:43Z,0,6,MERGED
+reactist,chore: Bump up version to v23.3.0,https://github.com/Doist/reactist/pull/827,2024-05-31T11:13:06Z,2024-05-31T11:21:31Z,0,1,MERGED
+reactist,feat: Add warning tone for Badge,https://github.com/Doist/reactist/pull/826,2024-05-28T09:30:56Z,2024-05-29T13:14:06Z,2,2,MERGED
+reactist,chore: Fix version number in `package-lock.json` file,https://github.com/Doist/reactist/pull/825,2024-05-03T09:17:16Z,2024-05-03T09:21:22Z,0,1,MERGED
+reactist,chore: Release 23.2.2 in 24.1.5-beta,https://github.com/Doist/reactist/pull/824,2024-05-03T08:54:56Z,2024-05-03T09:06:53Z,0,1,MERGED
+reactist,revert: Modal alignment to middle at breakpoint adjustment,https://github.com/Doist/reactist/pull/823,2024-05-03T08:39:18Z,2024-05-03T08:43:39Z,0,1,MERGED
+reactist,chore: Release 23.2.1 in 24.1.4-beta,https://github.com/Doist/reactist/pull/822,2024-04-23T16:04:04Z,2024-04-23T16:12:41Z,0,2,MERGED
+reactist,fix: Adjust modal alignment to middle at breakpoint,https://github.com/Doist/reactist/pull/821,2024-04-18T16:19:34Z,2024-04-23T15:46:30Z,0,1,MERGED
+reactist,chore: Sample story to show that Tooltip worked both inside and outside Tab component,https://github.com/Doist/reactist/pull/835,2024-07-26T13:09:27Z,2024-08-01T16:24:34Z,0,2,CLOSED
+reactist,chore: Sample story to repro Tooltip not working when wrapping Tab component,https://github.com/Doist/reactist/pull/833,2024-07-26T12:44:24Z,2024-08-01T16:24:40Z,1,3,CLOSED
+reactist,fix: fix tab click,https://github.com/Doist/reactist/pull/832,2024-07-23T15:10:49Z,2024-07-23T15:19:52Z,0,1,MERGED
+reactist,feat: Improve DX when developing against another repo,https://github.com/Doist/reactist/pull/831,2024-07-19T16:01:06Z,2024-07-24T18:21:49Z,3,7,MERGED
+reactist,BREAKING: Button components change,https://github.com/Doist/reactist/pull/830,2024-07-04T16:31:31Z,2024-07-04T22:41:31Z,0,1,MERGED
+reactist,BREAKING: render-based composition,https://github.com/Doist/reactist/pull/829,2024-07-01T20:40:40Z,2024-07-08T20:15:04Z,0,5,MERGED
+reactist,fix: Export TooltipProvider as a component,https://github.com/Doist/reactist/pull/847,2024-10-29T04:10:31Z,2024-10-29T04:30:16Z,0,2,MERGED
+reactist,feat: Add TooltipContext to set global timeout values,https://github.com/Doist/reactist/pull/846,2024-10-26T05:25:20Z,2024-10-29T02:51:28Z,0,3,MERGED
+reactist,feat: Expose `showTimeout` and `hideTimeout` props for `Tooltip`,https://github.com/Doist/reactist/pull/845,2024-10-23T05:57:08Z,2024-10-23T23:44:24Z,0,1,MERGED
+reactist,fix: Render submenus at the bottom when there isn't enough space,https://github.com/Doist/reactist/pull/844,2024-10-08T23:34:28Z,2024-10-23T23:54:48Z,0,3,MERGED
+reactist,chore: Remove build artifacts from `main`,https://github.com/Doist/reactist/pull/843,2024-10-07T14:15:26Z,2024-10-07T14:20:40Z,0,2,MERGED
+reactist,refactor: Update form field components to align with the new design spec,https://github.com/Doist/reactist/pull/842,2024-10-04T15:35:50Z,2024-10-07T14:09:44Z,3,11,MERGED
+reactist,feat: Forward ref to ModalBody,https://github.com/Doist/reactist/pull/841,2024-09-03T20:09:06Z,2024-09-04T17:59:46Z,0,2,MERGED
+reactist,fix: Disable cross-frame focus lock in `<Modal>`,https://github.com/Doist/reactist/pull/840,2024-08-29T20:35:44Z,2024-08-30T17:01:51Z,2,1,MERGED
+reactist,feat: Add `xsmall` size to the `Modal` component,https://github.com/Doist/reactist/pull/839,2024-08-28T21:07:06Z,2024-08-29T09:31:55Z,1,1,MERGED
+reactist,BREAKING: New stable version v25.0.0,https://github.com/Doist/reactist/pull/837,2024-08-13T00:37:06Z,2024-08-13T13:21:59Z,0,17,MERGED
+reactist,Upgrade ariakit to v0.4.5,https://github.com/Doist/reactist/pull/836,2024-08-09T16:38:10Z,2024-08-09T18:57:45Z,0,4,MERGED
+reactist,feat: Unify Alert and Banner under a single Banner component with new designs,https://github.com/Doist/reactist/pull/855,2024-12-26T18:03:08Z,2025-01-07T10:52:32Z,4,7,MERGED
+reactist,fix: Set correct height for tabs,https://github.com/Doist/reactist/pull/854,2024-12-14T04:50:47Z,2024-12-14T05:00:53Z,0,3,MERGED
+reactist,fix: Prefer flipping submenu to left side over to the bottom,https://github.com/Doist/reactist/pull/853,2024-12-12T07:44:00Z,2024-12-14T05:05:20Z,0,2,MERGED
+reactist,fix: Set <Prose> horizontal rule color to Divider/Primary,https://github.com/Doist/reactist/pull/852,2024-12-11T19:17:20Z,2024-12-12T18:41:53Z,0,3,MERGED
+reactist,fix: Set Tab line-height to 21px,https://github.com/Doist/reactist/pull/851,2024-12-05T18:36:16Z,2024-12-05T18:41:05Z,0,1,MERGED
+reactist,chore: Bump up version to v26.2.2,https://github.com/Doist/reactist/pull/850,2024-11-11T12:00:24Z,2024-11-11T12:14:15Z,0,1,MERGED
+reactist,chore: Review markup and selectors for the `Notice` component,https://github.com/Doist/reactist/pull/849,2024-11-11T11:53:45Z,2024-11-11T11:57:06Z,0,1,MERGED
+reactist,fix: Better icon alignment for the `Notice` component,https://github.com/Doist/reactist/pull/848,2024-11-11T11:09:31Z,2024-11-11T11:17:01Z,0,1,MERGED
+reactist,feat(TextLink): Add color and underline styling options,https://github.com/Doist/reactist/pull/897,2025-02-18T20:28:18Z,2025-02-19T00:16:39Z,1,3,MERGED
+reactist,ci: bump deploy-pages action to v4,https://github.com/Doist/reactist/pull/895,2025-02-05T21:09:27Z,2025-02-05T21:10:51Z,0,1,MERGED
+reactist,ci: allow publish workflow to run from workflow_dispatch event,https://github.com/Doist/reactist/pull/894,2025-02-05T18:17:39Z,2025-02-05T18:18:05Z,0,1,MERGED
+reactist,ci: fix version of upload-pages-artifact action,https://github.com/Doist/reactist/pull/892,2025-02-05T18:13:37Z,2025-02-05T18:13:56Z,0,1,MERGED
+reactist,ci: add permissions to dispatch workflows in release-please,https://github.com/Doist/reactist/pull/890,2025-02-05T18:07:23Z,2025-02-05T18:08:45Z,0,1,MERGED
+reactist,ci: debug GH API 404 error,https://github.com/Doist/reactist/pull/888,2025-02-05T17:58:58Z,2025-02-05T17:59:20Z,0,1,MERGED
+reactist,ci: enhance release workflow with automatic deployment triggers,https://github.com/Doist/reactist/pull/886,2025-02-05T16:11:49Z,2025-02-05T16:41:52Z,1,2,MERGED
+reactist,ci: update Storybook deployment action to v4,https://github.com/Doist/reactist/pull/885,2025-02-05T13:05:56Z,2025-02-05T13:12:25Z,0,1,MERGED
+reactist,feat(TextField): add support for customizable character count position,https://github.com/Doist/reactist/pull/883,2025-01-28T22:01:15Z,2025-01-31T13:59:07Z,4,3,MERGED
+reactist,fix(TextField): adjust character count threshold to zero,https://github.com/Doist/reactist/pull/882,2025-01-28T12:55:58Z,2025-01-28T13:01:10Z,0,2,MERGED
+reactist,ci: fix dependabot config syntax,https://github.com/Doist/reactist/pull/879,2025-01-22T03:47:55Z,2025-01-22T03:48:33Z,2,1,MERGED
+reactist,ci: deploy storybook only when publishing package,https://github.com/Doist/reactist/pull/878,2025-01-22T03:35:25Z,2025-01-22T03:37:22Z,0,1,MERGED
+reactist,docs: unify existing changelog content format,https://github.com/Doist/reactist/pull/876,2025-01-22T03:13:51Z,2025-01-22T03:15:32Z,0,1,MERGED
+reactist,ci: test pr,https://github.com/Doist/reactist/pull/875,2025-01-22T00:10:38Z,2025-01-22T00:10:53Z,0,3,CLOSED
+reactist,ci: migrate to latest release-please action,https://github.com/Doist/reactist/pull/874,2025-01-21T22:33:07Z,2025-01-21T22:36:07Z,0,1,MERGED
+reactist,ci: set target-branch to release-please action,https://github.com/Doist/reactist/pull/872,2025-01-21T21:48:22Z,2025-01-21T22:04:01Z,0,3,MERGED
+reactist,ci: change dependabot commit prefix,https://github.com/Doist/reactist/pull/871,2025-01-21T16:11:01Z,2025-01-21T16:15:06Z,0,1,MERGED
+reactist,ci: include all changes in release creation,https://github.com/Doist/reactist/pull/870,2025-01-21T13:25:30Z,2025-01-21T13:29:48Z,0,1,MERGED
+reactist,ci: implement release-please to automate release creation,https://github.com/Doist/reactist/pull/863,2025-01-19T22:26:24Z,2025-01-21T12:58:23Z,10,7,MERGED
+reactist,chore: bump version to 27.2.1,https://github.com/Doist/reactist/pull/862,2025-01-17T16:41:01Z,2025-01-17T16:47:07Z,0,1,MERGED
+reactist,docs: separate release preparation section in PR template,https://github.com/Doist/reactist/pull/861,2025-01-17T16:37:16Z,2025-01-21T13:04:06Z,1,2,CLOSED
+reactist,fix: ensure TextLink styles are applied to nested elements,https://github.com/Doist/reactist/pull/860,2025-01-16T15:33:15Z,2025-01-17T16:29:58Z,6,1,MERGED
+reactist,fix: create documentation for TextLink and adjust style,https://github.com/Doist/reactist/pull/859,2025-01-15T16:17:33Z,2025-01-15T18:31:19Z,0,4,MERGED
+reactist,style: allow customization of system 'Banner' icons through CSS variables,https://github.com/Doist/reactist/pull/858,2025-01-13T14:12:31Z,2025-01-13T14:21:13Z,0,3,MERGED
+reactist,docs: document maxLength property in TextField component,https://github.com/Doist/reactist/pull/857,2025-01-08T15:38:49Z,2025-01-09T10:40:33Z,0,3,MERGED
+reactist,chore: Bump up version to v27.0.0,https://github.com/Doist/reactist/pull/856,2025-01-07T10:58:07Z,2025-01-07T11:02:15Z,0,1,MERGED

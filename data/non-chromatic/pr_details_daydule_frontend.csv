@@ -1,0 +1,81 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+frontend,DAYD-734 delete guestCheckを利用しない実装に変更,https://github.com/daydule/frontend/pull/10,2023-03-18T04:12:03Z,2023-03-26T12:34:31Z,0,2,MERGED
+frontend,DAYD-727 add & update 予定登録追加&TODO登録更新,https://github.com/daydule/frontend/pull/9,2023-03-18T03:44:07Z,2023-03-22T11:52:48Z,11,39,MERGED
+frontend,DAYD-723 SCR-PRO-ProfileSetting_個別設定画面（プロフィールタブ）,https://github.com/daydule/frontend/pull/8,2023-03-14T14:30:49Z,2023-03-26T23:04:50Z,0,5,MERGED
+frontend,DAYD-727 細かい修正,https://github.com/daydule/frontend/pull/7,2023-03-12T07:29:09Z,2023-03-14T14:33:50Z,14,29,MERGED
+frontend,Feature/test,https://github.com/daydule/frontend/pull/6,2023-03-08T13:11:08Z,2023-03-08T13:18:29Z,0,5,MERGED
+frontend,開発の基盤を修正,https://github.com/daydule/frontend/pull/5,2023-03-04T08:18:09Z,2023-03-07T09:43:34Z,0,12,MERGED
+frontend,レイアウトを調整,https://github.com/daydule/frontend/pull/4,2023-02-14T04:00:36Z,2023-02-14T11:39:17Z,0,4,MERGED
+frontend,DAYD-723 ログイン・サインアップ画面・ヘッダー・フッター,https://github.com/daydule/frontend/pull/3,2023-02-12T04:53:11Z,2023-02-13T12:04:25Z,0,14,MERGED
+frontend,サンプルコードのブランチ,https://github.com/daydule/frontend/pull/2,2023-02-08T12:20:26Z,2023-02-14T11:39:36Z,0,2,CLOSED
+frontend,Feature/dayd 723,https://github.com/daydule/frontend/pull/1,2023-02-05T14:34:34Z,2023-02-08T13:37:22Z,0,5,MERGED
+frontend,DAYD-739 デザイン調整,https://github.com/daydule/frontend/pull/27,2023-05-29T23:08:24Z,2023-05-30T12:14:00Z,0,5,MERGED
+frontend,DAYD-783 [フロントエンド]予定登録プルダウンのAM/PM表示から24時間表示への変更,https://github.com/daydule/frontend/pull/26,2023-05-29T15:13:01Z,2023-05-29T23:21:43Z,0,2,MERGED
+frontend,DAYD-810 ゲスト利用APIを呼び出せるようにする,https://github.com/daydule/frontend/pull/25,2023-05-29T14:51:19Z,2023-06-04T05:55:57Z,5,7,MERGED
+frontend,DAYD-739 fix デザイン調整,https://github.com/daydule/frontend/pull/24,2023-05-24T13:15:29Z,2023-05-24T13:16:39Z,0,1,MERGED
+frontend,DAYD-785 [フロントエンド]ヘッダーを完成させる,https://github.com/daydule/frontend/pull/23,2023-05-24T12:00:04Z,2023-05-24T12:29:32Z,0,5,MERGED
+frontend,DAYD-800 update 現在時刻バーの表示/非表示の境界値を適切に設定,https://github.com/daydule/frontend/pull/22,2023-05-21T11:37:46Z,2023-05-22T14:22:35Z,0,1,MERGED
+frontend,DAYD-806 update PlanCardComponentの見た目を少し修正,https://github.com/daydule/frontend/pull/21,2023-05-21T11:29:36Z,2023-05-22T14:19:56Z,0,1,MERGED
+frontend,DAYD-779 add TODOを予定にする際の「作業する時間帯」の設定モーダルを追加,https://github.com/daydule/frontend/pull/20,2023-05-21T11:07:37Z,2023-05-24T11:47:52Z,1,4,MERGED
+frontend,DAYD-801 add 予定とTODOの更新モーダルを追加,https://github.com/daydule/frontend/pull/19,2023-05-21T09:11:45Z,2023-05-24T11:32:24Z,0,11,MERGED
+frontend,DAYD-769 fix バックエンドのバリデーションの変更に合わせてフロントエンドも修正,https://github.com/daydule/frontend/pull/18,2023-05-14T06:05:53Z,2023-05-14T06:07:12Z,2,2,MERGED
+frontend,DAYD-793 fix ヘッダーコンポーネントのエラー解消,https://github.com/daydule/frontend/pull/17,2023-05-10T13:13:49Z,2023-05-10T13:14:15Z,0,1,MERGED
+frontend,DAYD-793 本番用のホスト設定を追加,https://github.com/daydule/frontend/pull/15,2023-05-10T13:03:31Z,2023-05-10T13:04:04Z,0,1,MERGED
+frontend,DAYD-764 [メイン画面]予定todo詳細モーダル,https://github.com/daydule/frontend/pull/14,2023-04-21T16:12:53Z,2023-05-17T12:23:33Z,1,28,MERGED
+frontend,DAYD-763 [メイン画面]スケジュール作成機能,https://github.com/daydule/frontend/pull/13,2023-04-19T13:01:06Z,2023-05-10T14:32:10Z,6,24,MERGED
+frontend,"DAYD-769 DAYD-768 .node-versionファイルを追加, nodeのマイナーバージョンをアップデート, コンテナ内でインストールしたnode_modulesを使うように修正",https://github.com/daydule/frontend/pull/12,2023-04-15T05:23:16Z,2023-04-19T12:37:08Z,0,2,MERGED
+frontend,DAYD-727 add & update メイン画面に細かい機能を追加、元の実装を更新,https://github.com/daydule/frontend/pull/11,2023-04-13T01:28:57Z,2023-04-19T12:57:57Z,24,16,MERGED
+frontend,DAYD-828 add TODO登録時に初期値「isRequiredPlan: true」を追加,https://github.com/daydule/frontend/pull/46,2023-07-25T22:27:18Z,2023-08-02T11:15:02Z,1,2,MERGED
+frontend,DAYD-776 TODO登録のデザイン変更,https://github.com/daydule/frontend/pull/45,2023-07-21T12:29:45Z,2023-08-11T08:33:00Z,3,7,MERGED
+frontend,DAYD-848 add ゲストログイン時のログアウトの動線を追加,https://github.com/daydule/frontend/pull/44,2023-07-17T23:08:21Z,2023-07-19T02:44:44Z,2,2,MERGED
+frontend,DAYD-849 エラーアラート表示時の余白調整,https://github.com/daydule/frontend/pull/43,2023-07-17T13:26:09Z,2023-07-21T21:11:02Z,0,1,MERGED
+frontend,DAYD-851 大量再レンダリング問題修正,https://github.com/daydule/frontend/pull/42,2023-07-09T10:41:44Z,2023-08-02T14:51:16Z,6,3,MERGED
+frontend,DAYD-854 add アサイン設定を追加,https://github.com/daydule/frontend/pull/41,2023-07-09T03:30:31Z,2023-07-10T10:32:29Z,0,1,MERGED
+frontend,aboutページをSSGで事前に生成するように修正,https://github.com/daydule/frontend/pull/40,2023-07-03T11:26:01Z,2023-07-10T10:33:17Z,1,1,MERGED
+frontend,DAYD-773 feature フロントエンドバリデーション,https://github.com/daydule/frontend/pull/39,2023-07-01T00:52:25Z,2023-07-02T03:49:51Z,0,4,MERGED
+frontend,DYD-843 refactor ヘッダーの「ログイン画面へ」を「戻る」に変更,https://github.com/daydule/frontend/pull/38,2023-06-30T12:25:20Z,2023-07-26T11:20:19Z,3,7,MERGED
+frontend,DAYD-846 update フィードバックリンクをログイン時のヘッダーに挿入,https://github.com/daydule/frontend/pull/37,2023-06-29T15:59:40Z,2023-07-17T04:19:28Z,2,4,MERGED
+frontend,DAYD-845 fix `/`にアクセスした時に`/about`に必ずリダイレクトするように修正,https://github.com/daydule/frontend/pull/36,2023-06-29T15:39:31Z,2023-07-05T11:39:27Z,0,2,MERGED
+frontend,DAYD-826 add & create 予定やTODOの削除時に確認モーダルを表示するよう修正&カスタムHooks用のフォルダを作成し…,https://github.com/daydule/frontend/pull/35,2023-06-17T13:13:44Z,2023-06-24T00:26:03Z,2,2,MERGED
+frontend,DAYD-786 add & refactor エラー発生時にトーストを出すように修正 & componentsのフォルダ構成をいくつか変更,https://github.com/daydule/frontend/pull/34,2023-06-16T03:32:42Z,2023-06-30T23:53:42Z,5,5,MERGED
+frontend,DAYD-767 [FE]ログイン時にEntreを押すことでSubmitできるよう修正,https://github.com/daydule/frontend/pull/33,2023-06-14T11:48:35Z,2023-06-29T12:08:37Z,3,6,MERGED
+frontend,DAYD-808 fix CreateScheduleButtonによるAPI呼び出し処理をtry-catchする,https://github.com/daydule/frontend/pull/32,2023-06-06T12:43:35Z,2023-06-06T12:53:40Z,0,1,MERGED
+frontend,Feature/dayd 785,https://github.com/daydule/frontend/pull/31,2023-06-06T12:21:07Z,2023-06-06T12:39:31Z,1,3,CLOSED
+frontend,DAYD-819 update (暫定対応)予定化したTODOの更新・削除操作が行えなくなるように修正,https://github.com/daydule/frontend/pull/30,2023-06-04T07:19:44Z,2023-06-07T11:37:07Z,0,2,MERGED
+frontend,DAYD-676 [FE]dayduleのaboutページ設計&実装,https://github.com/daydule/frontend/pull/29,2023-06-04T04:32:34Z,2023-06-25T23:36:09Z,5,8,MERGED
+frontend,DAYD-803 refactor 予定登録更新系のコンポーネントのprocessTimeの変数名をhiddenProcessTimeに変更,https://github.com/daydule/frontend/pull/28,2023-06-01T14:58:30Z,2023-06-01T15:10:19Z,0,1,MERGED
+frontend,update pr template,https://github.com/daydule/frontend/pull/69,2023-10-31T14:02:53Z,2023-11-04T01:39:30Z,0,1,MERGED
+frontend,メンテナンスモード解除,https://github.com/daydule/frontend/pull/68,2023-10-25T14:49:31Z,2023-10-25T14:53:03Z,0,1,MERGED
+frontend,メンテナンスモード切り替え,https://github.com/daydule/frontend/pull/67,2023-10-25T13:53:24Z,2023-10-25T13:56:12Z,0,1,MERGED
+frontend,DAYD-944 update パスワードのバリデーションの文字数制限を「8文字以上」に更新,https://github.com/daydule/frontend/pull/66,2023-10-25T10:31:47Z,2023-11-08T11:23:43Z,0,2,MERGED
+frontend,DAYD-969 update スケジュール内の予定カードをドラックアンドドロップで移動できるように更新&24時間表示に変更,https://github.com/daydule/frontend/pull/65,2023-10-20T05:20:07Z,2023-12-03T06:28:23Z,20,27,MERGED
+frontend,DAYD-859 Storybookの導入,https://github.com/daydule/frontend/pull/64,2023-10-14T06:41:34Z,2023-10-25T11:23:04Z,1,10,MERGED
+frontend,DAYD-945 メンテナンスページ作成,https://github.com/daydule/frontend/pull/63,2023-10-07T00:44:43Z,2023-10-18T11:16:52Z,5,4,MERGED
+frontend,DAYD-778  refactor フォルダ構成見直し & その他リファクタリング,https://github.com/daydule/frontend/pull/62,2023-10-03T10:47:14Z,2023-10-11T11:17:06Z,3,4,MERGED
+frontend,DAYD-937 update aboutページ各種調整,https://github.com/daydule/frontend/pull/61,2023-09-11T13:31:14Z,2023-09-20T12:13:14Z,0,3,MERGED
+frontend,create fork yml,https://github.com/daydule/frontend/pull/60,2023-09-09T03:34:27Z,2023-09-09T03:48:04Z,0,2,CLOSED
+frontend,DAYD-931 ログイン制御の挙動を改善 ,https://github.com/daydule/frontend/pull/59,2023-09-05T23:36:07Z,2023-09-08T12:08:41Z,0,3,MERGED
+frontend,DAYD-847 update aboutページ本格化,https://github.com/daydule/frontend/pull/58,2023-09-03T08:16:39Z,2023-09-09T01:14:29Z,5,8,MERGED
+frontend,add DAYD-862 add ci,https://github.com/daydule/frontend/pull/57,2023-09-02T04:33:48Z,2023-09-06T11:01:21Z,0,2,MERGED
+frontend,DAYD-883  add 時間を割り当てられたTODOの更新モーダルを追加 他,https://github.com/daydule/frontend/pull/56,2023-08-28T22:38:23Z,2023-09-03T00:27:47Z,1,7,MERGED
+frontend,Update README.md,https://github.com/daydule/frontend/pull/55,2023-08-26T02:09:35Z,2023-08-26T02:09:44Z,0,1,MERGED
+frontend,DAYD-875 fix  TODOカードをドラッグで移動している時に「+TODO登録」ボタンよりも前に表示されるよう修正,https://github.com/daydule/frontend/pull/54,2023-08-26T02:06:50Z,2023-08-30T11:43:37Z,1,1,MERGED
+frontend,Update README.md,https://github.com/daydule/frontend/pull/53,2023-08-26T01:53:07Z,2023-08-26T01:53:14Z,0,1,MERGED
+frontend,DAYD-882 fix デザイン調整,https://github.com/daydule/frontend/pull/52,2023-08-26T00:01:30Z,2023-09-02T02:37:23Z,8,12,MERGED
+frontend,add スケジュール化されたTODOの削除ボタン実装,https://github.com/daydule/frontend/pull/51,2023-08-20T12:10:36Z,2023-08-27T10:32:00Z,2,3,MERGED
+frontend,DAYD-864 fix 予定枠のFROM/TOの時間選択プルダウンがTODO一覧枠の「+TODO登録」ボタンの上に表示されるよう修正,https://github.com/daydule/frontend/pull/50,2023-08-19T01:34:15Z,2023-08-23T11:17:31Z,0,1,MERGED
+frontend,DAYD-867 本番環境でスタイルが崩れる問題を解消,https://github.com/daydule/frontend/pull/49,2023-08-19T00:25:20Z,2023-08-23T11:21:14Z,2,4,MERGED
+frontend,DAYD-856 lintの設定変更及びエラー解消,https://github.com/daydule/frontend/pull/48,2023-08-12T17:37:43Z,2023-08-16T11:46:06Z,16,3,MERGED
+frontend,DBリセット日を更新,https://github.com/daydule/frontend/pull/47,2023-08-11T09:23:45Z,2023-08-11T09:40:31Z,0,1,MERGED
+frontend,[フロントエンド]Aboutページのアイコンサイズの不具合,https://github.com/daydule/frontend/pull/77,2023-12-30T07:05:32Z,2024-01-07T10:12:46Z,0,1,MERGED
+frontend,ODY-287 PRのテンプレをメンテナンスしやすくする,https://github.com/daydule/frontend/pull/76,2023-12-24T12:19:51Z,2024-01-11T11:21:11Z,0,13,MERGED
+frontend,DAYD-936 右上のログアウトなどが表示されるプルダウンよりも現在時刻を表す赤いバーの方が上に表示されてしまう問題の修正,https://github.com/daydule/frontend/pull/75,2023-12-02T18:07:15Z,2024-01-05T13:21:21Z,3,1,CLOSED
+frontend,DAYD-977 TODOの所要時間として自由な数字を設定できるようにする,https://github.com/daydule/frontend/pull/74,2023-12-02T17:34:26Z,2024-01-05T13:22:20Z,8,1,CLOSED
+frontend,DAYD-939 「作業する時間帯」にinfoアイコンを追加,https://github.com/daydule/frontend/pull/73,2023-11-29T05:51:53Z,2023-12-13T11:11:17Z,1,2,MERGED
+frontend,DAYD-989 アイコン関係のコンソールエラー解消,https://github.com/daydule/frontend/pull/72,2023-11-27T14:05:15Z,2023-12-09T03:09:19Z,1,4,MERGED
+frontend,DAYD-964 google analyticsを導入してアクセス数くらいは確認できるようにする,https://github.com/daydule/frontend/pull/70,2023-11-03T05:10:33Z,2023-11-08T11:28:07Z,3,4,MERGED
+frontend,.env.production を更新,https://github.com/daydule/frontend/pull/82,2024-03-08T05:30:58Z,2024-03-08T08:42:14Z,0,1,MERGED
+frontend,Update .env.production,https://github.com/daydule/frontend/pull/81,2024-03-07T11:15:36Z,2024-03-07T11:18:11Z,0,1,MERGED
+frontend,[会議でマージ]APIベースURLを変更,https://github.com/daydule/frontend/pull/80,2024-02-23T17:56:16Z,2024-03-18T11:18:27Z,0,1,MERGED
+frontend,Update .env.production,https://github.com/daydule/frontend/pull/79,2024-01-04T13:59:04Z,2024-01-04T14:13:20Z,0,1,MERGED
+frontend,Update .env.production,https://github.com/daydule/frontend/pull/78,2024-01-04T13:24:06Z,2024-01-04T13:27:16Z,0,1,MERGED

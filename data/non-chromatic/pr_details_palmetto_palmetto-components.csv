@@ -1,0 +1,671 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+palmetto-components,Consistent bundling,https://github.com/palmetto/palmetto-components/pull/148,2020-07-31T02:55:33Z,2020-08-11T16:46:32Z,2,23,MERGED
+palmetto-components,"docs: border-radius, breakpoints, font-size, spacing tokens",https://github.com/palmetto/palmetto-components/pull/147,2020-07-29T14:14:01Z,2020-08-11T22:07:54Z,3,5,MERGED
+palmetto-components,fix (FormLabel): prevent external spacing styles from cascading,https://github.com/palmetto/palmetto-components/pull/146,2020-07-29T00:03:01Z,2020-07-29T01:05:30Z,1,2,MERGED
+palmetto-components,fix: reference correct type name,https://github.com/palmetto/palmetto-components/pull/144,2020-07-28T19:27:10Z,2020-07-28T19:39:29Z,1,1,MERGED
+palmetto-components,Design tokens docs,https://github.com/palmetto/palmetto-components/pull/143,2020-07-28T14:23:01Z,2020-07-28T14:53:59Z,1,2,MERGED
+palmetto-components,Enforce kebab-case for both class and id selectors.,https://github.com/palmetto/palmetto-components/pull/140,2020-07-28T01:33:55Z,2020-07-28T23:07:39Z,3,9,MERGED
+palmetto-components,SelectInput Typescript,https://github.com/palmetto/palmetto-components/pull/139,2020-07-28T00:24:51Z,2020-07-28T21:35:56Z,4,9,MERGED
+palmetto-components,refactor (Button): use brand color tokens only,https://github.com/palmetto/palmetto-components/pull/136,2020-07-24T23:21:05Z,2020-07-24T23:26:26Z,1,2,MERGED
+palmetto-components,Use brand colors only,https://github.com/palmetto/palmetto-components/pull/135,2020-07-24T23:11:42Z,2020-07-24T23:17:52Z,1,2,MERGED
+palmetto-components,Heading color tests,https://github.com/palmetto/palmetto-components/pull/134,2020-07-24T22:56:26Z,2020-07-24T23:00:59Z,1,3,MERGED
+palmetto-components,fix (Heading): use font color tokens instead of brand tokens,https://github.com/palmetto/palmetto-components/pull/133,2020-07-24T22:22:31Z,2020-07-24T22:27:36Z,1,1,MERGED
+palmetto-components,chore (dep): update palmetto-design-tokens to 0.3.0,https://github.com/palmetto/palmetto-components/pull/132,2020-07-24T15:10:14Z,2020-07-24T16:18:48Z,1,1,MERGED
+palmetto-components,Lint Styles,https://github.com/palmetto/palmetto-components/pull/131,2020-07-24T04:00:47Z,2020-07-24T20:21:10Z,6,12,MERGED
+palmetto-components,Add Linting for Styles,https://github.com/palmetto/palmetto-components/pull/130,2020-07-24T00:03:51Z,2020-07-24T01:38:43Z,2,1,CLOSED
+palmetto-components,Lint TypeScript files,https://github.com/palmetto/palmetto-components/pull/129,2020-07-23T19:35:32Z,2020-07-24T19:09:01Z,6,56,MERGED
+palmetto-components,Create CODEOWNERS,https://github.com/palmetto/palmetto-components/pull/122,2020-07-22T14:32:17Z,2020-07-22T14:35:31Z,1,1,MERGED
+palmetto-components,security: bump codecov from 3.7.0 to 3.7.1,https://github.com/palmetto/palmetto-components/pull/119,2020-07-21T00:04:38Z,2020-07-21T00:10:12Z,0,2,MERGED
+palmetto-components,test (Button): add tests for button type,https://github.com/palmetto/palmetto-components/pull/118,2020-07-20T23:51:46Z,2020-07-20T23:57:10Z,0,1,MERGED
+palmetto-components,Merge branch 'develop' into master,https://github.com/palmetto/palmetto-components/pull/117,2020-07-17T22:19:33Z,2020-07-17T22:23:12Z,1,40,MERGED
+palmetto-components,Merge 'develop' into master,https://github.com/palmetto/palmetto-components/pull/116,2020-07-17T20:00:45Z,2020-07-17T22:09:09Z,1,40,MERGED
+palmetto-components,bumping package version,https://github.com/palmetto/palmetto-components/pull/114,2020-07-17T19:46:48Z,2020-07-17T19:58:05Z,1,1,MERGED
+palmetto-components,Adding missed export of FormikSelectInput in index,https://github.com/palmetto/palmetto-components/pull/113,2020-07-17T19:37:44Z,2020-07-17T19:44:50Z,2,2,MERGED
+palmetto-components,fix: prevent empty class properties appearing in the dom,https://github.com/palmetto/palmetto-components/pull/111,2020-07-17T19:26:38Z,2020-07-17T19:33:25Z,1,1,MERGED
+palmetto-components,update pull request job to run on branch pushes too,https://github.com/palmetto/palmetto-components/pull/110,2020-07-17T18:46:21Z,2020-07-17T18:49:59Z,1,1,MERGED
+palmetto-components,adding codecov publish on branch pushes,https://github.com/palmetto/palmetto-components/pull/109,2020-07-17T18:14:10Z,2020-07-17T18:17:50Z,1,2,MERGED
+palmetto-components,Button size,https://github.com/palmetto/palmetto-components/pull/107,2020-07-17T15:04:15Z,2020-07-22T18:58:21Z,4,10,CLOSED
+palmetto-components,test: (Button): add loading state tests,https://github.com/palmetto/palmetto-components/pull/106,2020-07-17T14:46:54Z,2020-07-17T17:45:07Z,1,3,MERGED
+palmetto-components,110 Radio Selector,https://github.com/palmetto/palmetto-components/pull/105,2020-07-16T02:16:30Z,2020-08-03T20:54:52Z,31,65,MERGED
+palmetto-components,release V0.1.8,https://github.com/palmetto/palmetto-components/pull/104,2020-07-15T20:18:56Z,2020-07-15T20:19:45Z,0,34,MERGED
+palmetto-components,Release v0.1.8,https://github.com/palmetto/palmetto-components/pull/103,2020-07-15T19:25:52Z,2020-07-15T20:24:05Z,0,30,CLOSED
+palmetto-components,bumping to version 0.1.8,https://github.com/palmetto/palmetto-components/pull/102,2020-07-15T19:24:37Z,2020-07-15T19:24:49Z,0,1,MERGED
+palmetto-components,className on wrapper element,https://github.com/palmetto/palmetto-components/pull/101,2020-07-15T19:00:45Z,2020-07-15T19:06:59Z,1,2,MERGED
+palmetto-components,Heading component update,https://github.com/palmetto/palmetto-components/pull/100,2020-07-15T16:12:50Z,2020-07-15T17:30:08Z,1,3,MERGED
+palmetto-components,Add tests to formik bindings,https://github.com/palmetto/palmetto-components/pull/97,2020-07-15T02:19:59Z,2020-07-17T17:10:50Z,1,8,MERGED
+palmetto-components,test (CheckboxInput): increase test coverage and update tests to not be concerned with FormLabel details,https://github.com/palmetto/palmetto-components/pull/96,2020-07-15T00:58:41Z,2020-07-17T18:34:28Z,6,4,MERGED
+palmetto-components,Code coverage,https://github.com/palmetto/palmetto-components/pull/94,2020-07-14T20:34:34Z,2020-07-15T00:06:40Z,3,2,MERGED
+palmetto-components,Move Props to Top,https://github.com/palmetto/palmetto-components/pull/93,2020-07-14T20:02:08Z,2020-07-14T20:10:18Z,1,2,MERGED
+palmetto-components,contribution guidelines,https://github.com/palmetto/palmetto-components/pull/92,2020-07-14T19:14:33Z,2020-07-14T19:27:55Z,3,2,MERGED
+palmetto-components,release,https://github.com/palmetto/palmetto-components/pull/90,2020-07-14T18:01:17Z,2020-07-14T18:17:07Z,1,13,MERGED
+palmetto-components,Test Config,https://github.com/palmetto/palmetto-components/pull/89,2020-07-14T18:00:22Z,2020-07-14T19:39:35Z,2,4,MERGED
+palmetto-components,82 add codecov,https://github.com/palmetto/palmetto-components/pull/86,2020-07-14T14:35:38Z,2020-07-14T17:36:14Z,1,19,MERGED
+palmetto-components,docs (Button): document Button using mdx format and organize stories,https://github.com/palmetto/palmetto-components/pull/85,2020-07-14T05:05:50Z,2020-07-14T14:50:54Z,0,6,MERGED
+palmetto-components,"feat: make label required, add aria-labelledby attribute, add hideLabel option",https://github.com/palmetto/palmetto-components/pull/84,2020-07-14T00:41:37Z,2020-07-14T17:46:57Z,2,10,MERGED
+palmetto-components,Select input tests,https://github.com/palmetto/palmetto-components/pull/83,2020-07-13T21:15:50Z,2020-07-14T17:10:33Z,8,12,MERGED
+palmetto-components,chore: refactor checkbox input API and corresponding components,https://github.com/palmetto/palmetto-components/pull/81,2020-07-13T20:00:53Z,2020-07-14T15:37:40Z,0,2,MERGED
+palmetto-components,feat: adding maxlength prop on TextINput,https://github.com/palmetto/palmetto-components/pull/79,2020-07-13T18:46:16Z,2020-07-13T19:59:15Z,1,2,MERGED
+palmetto-components,78 Add style-loader,https://github.com/palmetto/palmetto-components/pull/75,2020-07-10T18:40:32Z,2020-07-10T19:14:02Z,1,1,MERGED
+palmetto-components,fixing broken builds with svg,https://github.com/palmetto/palmetto-components/pull/73,2020-07-10T16:46:03Z,2020-07-10T16:46:10Z,0,1,MERGED
+palmetto-components,Button handler hotfix,https://github.com/palmetto/palmetto-components/pull/72,2020-07-10T15:45:25Z,2020-07-10T20:18:12Z,0,8,MERGED
+palmetto-components,fixing type error but button handlers + prop mismatch,https://github.com/palmetto/palmetto-components/pull/71,2020-07-10T15:28:13Z,2020-07-10T15:44:21Z,0,2,MERGED
+palmetto-components,Select input formik adapter,https://github.com/palmetto/palmetto-components/pull/69,2020-07-10T06:57:14Z,2020-07-13T17:00:07Z,10,20,MERGED
+palmetto-components,"ci: Run lint, unit tests and chromatic on pull requests",https://github.com/palmetto/palmetto-components/pull/68,2020-07-09T23:56:34Z,2020-07-10T14:46:30Z,1,4,MERGED
+palmetto-components,Make ID Required for Controls,https://github.com/palmetto/palmetto-components/pull/67,2020-07-09T20:03:42Z,2020-07-10T05:28:01Z,2,5,MERGED
+palmetto-components,test (CheckboxInput): add tests,https://github.com/palmetto/palmetto-components/pull/66,2020-07-09T17:25:09Z,2020-07-09T17:48:44Z,2,3,MERGED
+palmetto-components,Fixing storybook issues,https://github.com/palmetto/palmetto-components/pull/65,2020-07-09T11:33:20Z,2020-07-09T11:33:28Z,0,14,MERGED
+palmetto-components,47 Select Input,https://github.com/palmetto/palmetto-components/pull/64,2020-07-09T03:43:20Z,2020-07-10T16:19:31Z,4,22,MERGED
+palmetto-components,Storybook improvements,https://github.com/palmetto/palmetto-components/pull/63,2020-07-09T02:40:42Z,2020-07-09T11:31:58Z,0,4,MERGED
+palmetto-components,chore: removing placeholder stories,https://github.com/palmetto/palmetto-components/pull/62,2020-07-08T23:55:06Z,2020-07-08T23:55:12Z,0,1,MERGED
+palmetto-components,Fix storybook,https://github.com/palmetto/palmetto-components/pull/61,2020-07-08T20:43:32Z,2020-07-08T23:06:33Z,2,5,MERGED
+palmetto-components,Master,https://github.com/palmetto/palmetto-components/pull/60,2020-07-08T20:36:40Z,2020-07-08T20:41:54Z,0,10,MERGED
+palmetto-components,[79] add typescript support,https://github.com/palmetto/palmetto-components/pull/59,2020-07-08T19:23:07Z,2020-07-22T17:31:51Z,7,38,MERGED
+palmetto-components,release v0.1.4,https://github.com/palmetto/palmetto-components/pull/58,2020-07-08T18:54:29Z,2020-07-08T18:55:19Z,0,4,MERGED
+palmetto-components,chore: bumping package version,https://github.com/palmetto/palmetto-components/pull/57,2020-07-08T18:53:48Z,2020-07-08T18:53:56Z,0,1,MERGED
+palmetto-components,fix: accept node or string in formlabel,https://github.com/palmetto/palmetto-components/pull/56,2020-07-08T18:51:47Z,2020-07-08T18:51:56Z,0,1,MERGED
+palmetto-components,Release v0.1.3,https://github.com/palmetto/palmetto-components/pull/55,2020-07-08T18:16:04Z,2020-07-08T18:16:22Z,0,30,MERGED
+palmetto-components,chore: bumping package version,https://github.com/palmetto/palmetto-components/pull/54,2020-07-08T18:14:44Z,2020-07-08T18:14:50Z,0,1,MERGED
+palmetto-components,refactor (Button): use tokens instead of hardcoded values,https://github.com/palmetto/palmetto-components/pull/53,2020-07-08T17:55:41Z,2020-07-08T17:58:08Z,2,1,MERGED
+palmetto-components,50 formik bindings,https://github.com/palmetto/palmetto-components/pull/52,2020-07-08T17:41:49Z,2020-07-08T17:58:32Z,0,4,MERGED
+palmetto-components,49 button component,https://github.com/palmetto/palmetto-components/pull/51,2020-07-08T17:23:52Z,2020-07-08T17:24:23Z,1,20,MERGED
+palmetto-components,Release v0.1.2,https://github.com/palmetto/palmetto-components/pull/49,2020-07-08T13:37:31Z,2020-07-08T13:43:28Z,0,18,MERGED
+palmetto-components,Release v0.1.2,https://github.com/palmetto/palmetto-components/pull/48,2020-07-08T13:35:41Z,2020-07-08T13:35:55Z,0,1,MERGED
+palmetto-components,Text input tests,https://github.com/palmetto/palmetto-components/pull/47,2020-07-07T15:21:13Z,2020-07-08T13:28:23Z,6,8,MERGED
+palmetto-components,adding tokens as dev dependency,https://github.com/palmetto/palmetto-components/pull/46,2020-07-07T10:55:03Z,2020-07-07T10:55:13Z,0,1,MERGED
+palmetto-components,feat (CheckboxInput): error and isRequired props,https://github.com/palmetto/palmetto-components/pull/45,2020-07-07T04:53:37Z,2020-07-07T14:55:25Z,2,3,MERGED
+palmetto-components,49 Button Component,https://github.com/palmetto/palmetto-components/pull/44,2020-07-07T04:08:50Z,2020-07-08T17:23:11Z,8,23,MERGED
+palmetto-components,feat (TextInput): not-allowed mouse cursor and color improvements to disabled input,https://github.com/palmetto/palmetto-components/pull/43,2020-07-06T23:33:24Z,2020-07-07T14:55:47Z,2,1,MERGED
+palmetto-components,Release v0.1.1,https://github.com/palmetto/palmetto-components/pull/42,2020-07-06T18:11:38Z,2020-07-06T18:26:51Z,1,48,MERGED
+palmetto-components,bumping version,https://github.com/palmetto/palmetto-components/pull/41,2020-07-06T18:09:26Z,2020-07-06T18:09:33Z,0,1,MERGED
+palmetto-components,updating heading tests and snapshots,https://github.com/palmetto/palmetto-components/pull/40,2020-07-06T18:06:38Z,2020-07-06T18:06:47Z,0,1,MERGED
+palmetto-components,Add validation error state to TextInput,https://github.com/palmetto/palmetto-components/pull/38,2020-07-03T01:47:30Z,2020-07-06T18:04:36Z,10,14,MERGED
+palmetto-components,feat: add storybook viewport addon,https://github.com/palmetto/palmetto-components/pull/35,2020-07-02T23:42:20Z,2020-07-02T23:45:27Z,1,2,MERGED
+palmetto-components,Install a11y add-on and install for existing components.,https://github.com/palmetto/palmetto-components/pull/34,2020-07-02T20:46:53Z,2020-07-02T21:01:55Z,1,1,MERGED
+palmetto-components,updating readme,https://github.com/palmetto/palmetto-components/pull/33,2020-07-02T19:52:03Z,2020-07-02T19:52:08Z,0,1,MERGED
+palmetto-components,Release 0.1.0,https://github.com/palmetto/palmetto-components/pull/30,2020-07-02T18:57:20Z,2020-07-02T18:57:30Z,0,27,MERGED
+palmetto-components,chore: bumping tokens version,https://github.com/palmetto/palmetto-components/pull/29,2020-07-02T18:54:02Z,2020-07-02T18:54:09Z,0,1,MERGED
+palmetto-components,13 package build,https://github.com/palmetto/palmetto-components/pull/28,2020-07-02T18:53:13Z,2020-07-02T18:53:20Z,0,7,MERGED
+palmetto-components,Palmetto design tokens v0.1.9,https://github.com/palmetto/palmetto-components/pull/27,2020-07-02T18:52:17Z,2020-07-02T18:53:44Z,0,8,CLOSED
+palmetto-components,13 package build,https://github.com/palmetto/palmetto-components/pull/24,2020-07-02T02:27:32Z,2020-07-02T18:46:57Z,0,7,MERGED
+palmetto-components,48 Checkbox Input Component,https://github.com/palmetto/palmetto-components/pull/23,2020-07-02T01:35:21Z,2020-07-02T23:46:57Z,12,20,MERGED
+palmetto-components,feat: WIP Input component,https://github.com/palmetto/palmetto-components/pull/16,2020-06-30T17:59:31Z,2020-07-02T18:46:36Z,30,14,MERGED
+palmetto-components,fix: linting errors in test file,https://github.com/palmetto/palmetto-components/pull/15,2020-06-30T14:03:45Z,2020-06-30T14:03:53Z,0,1,MERGED
+palmetto-components,Heading Component,https://github.com/palmetto/palmetto-components/pull/11,2020-06-29T17:23:18Z,2020-06-29T17:23:30Z,0,29,MERGED
+palmetto-components,Heading utility classes,https://github.com/palmetto/palmetto-components/pull/10,2020-06-16T16:23:03Z,2020-06-17T05:19:46Z,0,4,CLOSED
+palmetto-components,Box Component,https://github.com/palmetto/palmetto-components/pull/9,2020-06-16T14:45:34Z,2020-09-18T13:43:10Z,38,66,MERGED
+palmetto-components,Jf/header component,https://github.com/palmetto/palmetto-components/pull/8,2020-06-15T20:52:18Z,2020-06-29T17:21:59Z,6,27,MERGED
+palmetto-components,Adding design tokens dependency.,https://github.com/palmetto/palmetto-components/pull/7,2020-06-11T16:16:32Z,2020-06-11T16:16:38Z,0,2,MERGED
+palmetto-components,add design tokens and update action,https://github.com/palmetto/palmetto-components/pull/6,2020-06-11T16:15:49Z,2020-06-11T16:15:55Z,0,1,MERGED
+palmetto-components,WIP: First story with all color tokens.,https://github.com/palmetto/palmetto-components/pull/5,2020-06-11T15:51:10Z,2020-06-11T15:51:19Z,1,10,MERGED
+palmetto-components,feat: adding github action to publish to chromatic ui,https://github.com/palmetto/palmetto-components/pull/4,2020-06-11T15:47:48Z,2020-06-11T15:47:56Z,1,1,MERGED
+palmetto-components,Jf/color stories,https://github.com/palmetto/palmetto-components/pull/3,2020-06-11T15:07:42Z,2020-06-11T15:07:52Z,0,2,MERGED
+palmetto-components,chore: bumping design-tokens version,https://github.com/palmetto/palmetto-components/pull/2,2020-06-08T20:40:28Z,2020-06-08T20:40:35Z,0,1,MERGED
+palmetto-components,Jf/storybook build,https://github.com/palmetto/palmetto-components/pull/1,2020-06-08T20:36:09Z,2020-06-08T20:36:19Z,0,2,MERGED
+palmetto-components,Correct Clear Icon Placement in TextInput,https://github.com/palmetto/palmetto-components/pull/317,2020-10-31T00:05:59Z,2020-10-31T00:30:56Z,2,2,MERGED
+palmetto-components,Correct z-index for SelectInput Dropdown,https://github.com/palmetto/palmetto-components/pull/316,2020-10-30T18:31:10Z,2020-10-30T18:37:49Z,2,46,MERGED
+palmetto-components,fix: Bring Back the Stripes!,https://github.com/palmetto/palmetto-components/pull/315,2020-10-30T06:09:39Z,2020-10-30T15:29:26Z,3,45,MERGED
+palmetto-components,add display grid option to Box,https://github.com/palmetto/palmetto-components/pull/314,2020-10-30T05:26:07Z,2020-10-30T15:01:15Z,2,2,MERGED
+palmetto-components,fix(Box): include flex-direction class only on display flex,https://github.com/palmetto/palmetto-components/pull/313,2020-10-30T05:25:27Z,2020-10-30T16:17:28Z,2,3,MERGED
+palmetto-components,test(TextInput): adding a proper test for masked inputs,https://github.com/palmetto/palmetto-components/pull/312,2020-10-29T17:38:33Z,2020-10-29T17:43:51Z,2,2,MERGED
+palmetto-components,Buttons: show focus outline only when keyboard is used,https://github.com/palmetto/palmetto-components/pull/311,2020-10-29T14:12:02Z,2020-10-29T17:46:00Z,2,4,MERGED
+palmetto-components,fix(TimePicker): resetting milliseconds,https://github.com/palmetto/palmetto-components/pull/310,2020-10-29T11:39:39Z,2020-10-29T11:49:52Z,2,1,MERGED
+palmetto-components,"SelectInput, TimeInput sizes",https://github.com/palmetto/palmetto-components/pull/309,2020-10-29T05:43:35Z,2020-10-29T17:25:15Z,5,27,MERGED
+palmetto-components,fix(Heading): use heading line height token,https://github.com/palmetto/palmetto-components/pull/308,2020-10-29T00:47:58Z,2020-10-29T00:57:03Z,2,2,MERGED
+palmetto-components,test(Modal): tell Chromatic to pause the animations after they finish so modal can be captured,https://github.com/palmetto/palmetto-components/pull/307,2020-10-28T23:32:38Z,2020-10-28T23:42:17Z,2,1,MERGED
+palmetto-components,feat(Popover): MVP version of Popover component.,https://github.com/palmetto/palmetto-components/pull/306,2020-10-28T02:13:03Z,2020-10-29T00:34:01Z,6,24,MERGED
+palmetto-components,test: adds breakpoints snapshots to capture responsive Box stories in Chromatic,https://github.com/palmetto/palmetto-components/pull/305,2020-10-28T00:38:47Z,2020-10-28T16:33:24Z,3,4,MERGED
+palmetto-components,docs: update palmetto logo to point to storybook home instead of mark…,https://github.com/palmetto/palmetto-components/pull/304,2020-10-28T00:32:53Z,2020-10-28T00:39:01Z,2,1,MERGED
+palmetto-components,fix(Box): prevent flex direction classes from being added twice,https://github.com/palmetto/palmetto-components/pull/303,2020-10-27T01:32:22Z,2020-10-27T10:49:38Z,2,1,MERGED
+palmetto-components,add helpText to FileUpload,https://github.com/palmetto/palmetto-components/pull/302,2020-10-27T01:26:04Z,2020-10-27T12:11:07Z,2,8,MERGED
+palmetto-components,"docs: add introduction, get started, and contributing pages to storybook",https://github.com/palmetto/palmetto-components/pull/301,2020-10-26T22:04:23Z,2020-10-27T21:14:54Z,11,7,MERGED
+palmetto-components,Sticky Header and Columns,https://github.com/palmetto/palmetto-components/pull/300,2020-10-26T19:43:50Z,2020-10-29T00:42:15Z,26,42,MERGED
+palmetto-components,fix(Modal): allow overflow to be set by consumer,https://github.com/palmetto/palmetto-components/pull/299,2020-10-26T00:03:04Z,2020-10-26T02:41:50Z,3,3,MERGED
+palmetto-components,fix(Modal): pointer cursor on close button,https://github.com/palmetto/palmetto-components/pull/298,2020-10-25T23:23:45Z,2020-10-25T23:28:01Z,2,1,MERGED
+palmetto-components,Sticky Left Table Column,https://github.com/palmetto/palmetto-components/pull/297,2020-10-23T21:42:12Z,2020-10-23T22:42:25Z,1,1,CLOSED
+palmetto-components,Added sm md lg text field sizes,https://github.com/palmetto/palmetto-components/pull/296,2020-10-23T17:31:19Z,2020-10-29T14:06:55Z,7,21,MERGED
+palmetto-components,Time picker,https://github.com/palmetto/palmetto-components/pull/295,2020-10-22T19:36:23Z,2020-10-23T14:55:07Z,6,14,MERGED
+palmetto-components,Modal,https://github.com/palmetto/palmetto-components/pull/294,2020-10-22T16:54:39Z,2020-10-23T17:30:24Z,27,24,MERGED
+palmetto-components,expand border width prop type,https://github.com/palmetto/palmetto-components/pull/292,2020-10-22T13:06:35Z,2020-10-22T13:17:09Z,2,1,MERGED
+palmetto-components,responsive width height story fix,https://github.com/palmetto/palmetto-components/pull/290,2020-10-21T15:28:46Z,2020-10-21T16:09:47Z,2,1,MERGED
+palmetto-components,File upload,https://github.com/palmetto/palmetto-components/pull/288,2020-10-20T15:29:50Z,2020-10-22T19:38:42Z,7,16,MERGED
+palmetto-components,File upload,https://github.com/palmetto/palmetto-components/pull/287,2020-10-20T15:28:52Z,2020-10-20T15:29:07Z,0,3,CLOSED
+palmetto-components,Remove Span from Label for Required Input,https://github.com/palmetto/palmetto-components/pull/286,2020-10-20T03:01:09Z,2020-10-20T21:15:08Z,2,2,MERGED
+palmetto-components,Text link props,https://github.com/palmetto/palmetto-components/pull/285,2020-10-19T15:06:14Z,2020-10-19T16:17:43Z,3,3,MERGED
+palmetto-components,Pagination,https://github.com/palmetto/palmetto-components/pull/284,2020-10-17T20:33:36Z,2020-10-17T23:01:52Z,4,11,MERGED
+palmetto-components,fix(Box): do not always include a flex-wrap class,https://github.com/palmetto/palmetto-components/pull/283,2020-10-17T05:18:01Z,2020-10-20T21:07:01Z,2,4,MERGED
+palmetto-components,Add Formik Input Mask Examples.,https://github.com/palmetto/palmetto-components/pull/281,2020-10-16T17:36:51Z,2020-10-16T22:25:29Z,2,4,MERGED
+palmetto-components,Font Weight,https://github.com/palmetto/palmetto-components/pull/280,2020-10-16T00:47:25Z,2020-10-16T03:49:10Z,2,4,MERGED
+palmetto-components,fix(Button): prevent underline on hover for anchor links,https://github.com/palmetto/palmetto-components/pull/279,2020-10-15T21:15:47Z,2020-10-15T21:45:18Z,2,1,MERGED
+palmetto-components,Border sides + responsive colors on Box.,https://github.com/palmetto/palmetto-components/pull/278,2020-10-15T21:03:33Z,2020-10-15T23:33:29Z,6,8,MERGED
+palmetto-components,fix(Table): increase cell padding,https://github.com/palmetto/palmetto-components/pull/277,2020-10-15T15:11:15Z,2020-10-15T15:55:50Z,2,1,MERGED
+palmetto-components,removing pr jobs on pushes,https://github.com/palmetto/palmetto-components/pull/276,2020-10-14T19:18:28Z,2020-10-14T20:01:33Z,3,4,MERGED
+palmetto-components,Fixes,https://github.com/palmetto/palmetto-components/pull/275,2020-10-14T18:45:32Z,2020-10-14T18:56:08Z,2,3,MERGED
+palmetto-components,Text area formik,https://github.com/palmetto/palmetto-components/pull/274,2020-10-14T18:45:11Z,2020-10-14T19:21:25Z,7,5,MERGED
+palmetto-components,Ts cleanup,https://github.com/palmetto/palmetto-components/pull/272,2020-10-12T21:10:14Z,2020-10-14T17:03:26Z,7,11,MERGED
+palmetto-components,feat: Add help text to form inputs,https://github.com/palmetto/palmetto-components/pull/270,2020-10-12T18:01:13Z,2020-10-12T19:32:17Z,2,5,MERGED
+palmetto-components,feat: controlled TextareaInput component,https://github.com/palmetto/palmetto-components/pull/269,2020-10-11T20:53:17Z,2020-10-12T16:08:22Z,15,4,MERGED
+palmetto-components,Various Fixes,https://github.com/palmetto/palmetto-components/pull/268,2020-10-11T16:36:52Z,2020-10-12T15:47:55Z,2,5,MERGED
+palmetto-components,fix: make SelectInput and TextInput take up 100% parent width,https://github.com/palmetto/palmetto-components/pull/267,2020-10-09T18:51:30Z,2020-10-09T20:28:20Z,2,2,MERGED
+palmetto-components,update tokens version to 0.11.2,https://github.com/palmetto/palmetto-components/pull/266,2020-10-09T13:43:43Z,2020-10-09T21:44:13Z,3,9,MERGED
+palmetto-components,fix: remove class specificity on list reset styles,https://github.com/palmetto/palmetto-components/pull/264,2020-10-07T20:43:35Z,2020-10-07T20:47:54Z,3,1,MERGED
+palmetto-components,Responsive box,https://github.com/palmetto/palmetto-components/pull/257,2020-10-02T21:27:46Z,2020-10-08T18:00:31Z,16,33,MERGED
+palmetto-components,Responsive box,https://github.com/palmetto/palmetto-components/pull/256,2020-10-02T21:26:36Z,2020-10-02T21:26:56Z,0,6,CLOSED
+palmetto-components,button-style anchor,https://github.com/palmetto/palmetto-components/pull/255,2020-10-02T00:19:47Z,2020-10-02T00:54:39Z,2,1,MERGED
+palmetto-components,export Card child components,https://github.com/palmetto/palmetto-components/pull/254,2020-10-01T21:53:13Z,2020-10-01T22:02:26Z,2,38,MERGED
+palmetto-components,docs(TextLink): accepts html anchor attributes,https://github.com/palmetto/palmetto-components/pull/253,2020-09-26T17:28:36Z,2020-09-28T15:33:55Z,2,2,MERGED
+palmetto-components,fix(Button): darken light outline font color,https://github.com/palmetto/palmetto-components/pull/252,2020-09-26T17:17:31Z,2020-09-28T15:42:05Z,0,1,CLOSED
+palmetto-components,fix: Bug Fixes,https://github.com/palmetto/palmetto-components/pull/250,2020-09-25T17:40:17Z,2020-09-25T18:13:02Z,5,5,MERGED
+palmetto-components,Button variations,https://github.com/palmetto/palmetto-components/pull/248,2020-09-21T15:03:15Z,2020-09-21T15:03:44Z,1,17,MERGED
+palmetto-components,adding main release branch,https://github.com/palmetto/palmetto-components/pull/247,2020-09-21T14:39:20Z,2020-09-21T15:01:20Z,1,1,MERGED
+palmetto-components,Variant refactor,https://github.com/palmetto/palmetto-components/pull/246,2020-09-21T14:11:18Z,2020-09-21T15:12:43Z,1,7,MERGED
+palmetto-components,feat(Box): add max width and height props,https://github.com/palmetto/palmetto-components/pull/245,2020-09-19T16:47:34Z,2020-09-21T16:31:06Z,1,4,MERGED
+palmetto-components,refactor: better naming,https://github.com/palmetto/palmetto-components/pull/244,2020-09-19T14:33:20Z,2020-09-19T14:41:12Z,1,1,MERGED
+palmetto-components,Card Component,https://github.com/palmetto/palmetto-components/pull/243,2020-09-19T00:48:32Z,2020-10-01T17:41:29Z,16,36,MERGED
+palmetto-components,fix(Box): props should be optional,https://github.com/palmetto/palmetto-components/pull/242,2020-09-18T23:31:25Z,2020-09-18T23:36:07Z,1,1,MERGED
+palmetto-components,Button variations,https://github.com/palmetto/palmetto-components/pull/241,2020-09-18T16:49:16Z,2020-09-21T14:06:26Z,3,14,MERGED
+palmetto-components,change master branch to main in relevant places,https://github.com/palmetto/palmetto-components/pull/237,2020-09-17T14:53:20Z,2020-09-17T17:47:45Z,2,3,MERGED
+palmetto-components,chore(deps): bump palmetto-design-tokens from 0.5.4 to 0.6.1,https://github.com/palmetto/palmetto-components/pull/236,2020-09-15T22:22:11Z,2020-09-15T22:26:43Z,2,1,MERGED
+palmetto-components,Link,https://github.com/palmetto/palmetto-components/pull/235,2020-09-15T20:12:13Z,2020-09-16T16:54:54Z,6,14,MERGED
+palmetto-components,fix: Table Bug Fixes,https://github.com/palmetto/palmetto-components/pull/234,2020-09-14T16:28:22Z,2020-09-14T16:44:32Z,2,4,MERGED
+palmetto-components,Table Bug Fixes,https://github.com/palmetto/palmetto-components/pull/233,2020-09-14T03:58:21Z,2020-09-14T04:09:08Z,2,2,MERGED
+palmetto-components,feat: width and height tokens,https://github.com/palmetto/palmetto-components/pull/231,2020-09-12T21:02:29Z,2020-09-15T22:50:23Z,2,6,MERGED
+palmetto-components,Clear text input,https://github.com/palmetto/palmetto-components/pull/230,2020-09-11T18:44:06Z,2020-09-11T20:08:36Z,4,7,MERGED
+palmetto-components,fix: Layout for sortable column headers,https://github.com/palmetto/palmetto-components/pull/229,2020-09-11T03:27:34Z,2020-09-11T04:03:22Z,3,4,MERGED
+palmetto-components,fix: Fix Table Header Wrapping,https://github.com/palmetto/palmetto-components/pull/228,2020-09-11T01:42:49Z,2020-09-11T01:48:13Z,2,1,MERGED
+palmetto-components,fix: Fix Table Header Wrapping,https://github.com/palmetto/palmetto-components/pull/227,2020-09-11T01:31:46Z,2020-09-11T01:42:02Z,1,5,CLOSED
+palmetto-components,fix: Add Fix Release Type,https://github.com/palmetto/palmetto-components/pull/226,2020-09-10T23:48:32Z,2020-09-11T00:04:04Z,1,1,MERGED
+palmetto-components,fix: Table Scrolling,https://github.com/palmetto/palmetto-components/pull/225,2020-09-10T23:15:00Z,2020-09-10T23:15:32Z,1,12,MERGED
+palmetto-components,Table scrolling,https://github.com/palmetto/palmetto-components/pull/224,2020-09-10T22:27:30Z,2020-09-10T23:13:29Z,1,12,MERGED
+palmetto-components,Commit types,https://github.com/palmetto/palmetto-components/pull/223,2020-09-10T15:28:09Z,2020-09-10T15:53:01Z,1,4,MERGED
+palmetto-components,fix: table scrolling,https://github.com/palmetto/palmetto-components/pull/222,2020-09-09T20:38:14Z,2020-09-10T22:21:19Z,1,10,MERGED
+palmetto-components,Gh pages cname,https://github.com/palmetto/palmetto-components/pull/221,2020-09-08T16:47:50Z,2020-09-08T17:41:19Z,2,2,MERGED
+palmetto-components,docs: color tokens in tables,https://github.com/palmetto/palmetto-components/pull/220,2020-09-04T23:05:29Z,2020-10-08T18:16:29Z,2,3,CLOSED
+palmetto-components,fix: Table Header Wrapping,https://github.com/palmetto/palmetto-components/pull/219,2020-09-04T22:13:24Z,2020-09-04T22:17:22Z,2,5,MERGED
+palmetto-components,fix: table header wrapping,https://github.com/palmetto/palmetto-components/pull/218,2020-09-04T20:06:16Z,2020-09-04T21:28:44Z,2,5,MERGED
+palmetto-components,storybook update,https://github.com/palmetto/palmetto-components/pull/217,2020-09-04T19:37:39Z,2020-09-04T19:48:41Z,2,1,MERGED
+palmetto-components,docs: add prop value column to tokens,https://github.com/palmetto/palmetto-components/pull/214,2020-09-04T17:28:37Z,2020-09-04T17:50:18Z,2,1,MERGED
+palmetto-components,Alert Component,https://github.com/palmetto/palmetto-components/pull/213,2020-09-04T16:29:35Z,2020-09-10T00:30:37Z,11,21,MERGED
+palmetto-components,chore: update palmetto-design-tokens to 0.5.4,https://github.com/palmetto/palmetto-components/pull/212,2020-09-04T00:20:53Z,2020-09-04T00:27:33Z,2,1,MERGED
+palmetto-components,Global reset,https://github.com/palmetto/palmetto-components/pull/211,2020-09-03T20:14:30Z,2020-09-05T00:10:31Z,2,10,MERGED
+palmetto-components,env github token,https://github.com/palmetto/palmetto-components/pull/210,2020-09-03T19:13:45Z,2020-09-03T19:27:04Z,2,1,MERGED
+palmetto-components,docs: use correct Palmetto logo in storybook theme,https://github.com/palmetto/palmetto-components/pull/209,2020-09-03T17:11:11Z,2020-09-03T17:15:51Z,2,1,MERGED
+palmetto-components,Storybook deployer,https://github.com/palmetto/palmetto-components/pull/208,2020-09-03T16:10:02Z,2020-09-03T16:10:12Z,1,3,MERGED
+palmetto-components,fix: Storybook deployer,https://github.com/palmetto/palmetto-components/pull/206,2020-09-03T15:19:52Z,2020-09-03T15:26:17Z,2,4,MERGED
+palmetto-components,Storybook deployer,https://github.com/palmetto/palmetto-components/pull/205,2020-09-03T14:53:37Z,2020-09-03T14:58:23Z,2,2,MERGED
+palmetto-components,Update Docs,https://github.com/palmetto/palmetto-components/pull/204,2020-09-02T21:40:53Z,2020-09-03T17:00:03Z,4,24,MERGED
+palmetto-components,Table cell enhancements,https://github.com/palmetto/palmetto-components/pull/203,2020-09-02T21:37:25Z,2020-09-02T21:55:21Z,5,5,MERGED
+palmetto-components,component-based reset,https://github.com/palmetto/palmetto-components/pull/202,2020-09-02T00:53:49Z,2020-09-03T15:49:10Z,4,4,CLOSED
+palmetto-components,Table Styling,https://github.com/palmetto/palmetto-components/pull/201,2020-09-01T23:38:40Z,2020-09-02T19:26:22Z,6,6,MERGED
+palmetto-components,fix: Don't add prefix to commit message,https://github.com/palmetto/palmetto-components/pull/200,2020-09-01T22:44:52Z,2020-09-01T22:49:37Z,2,1,MERGED
+palmetto-components,Whitespace Change,https://github.com/palmetto/palmetto-components/pull/199,2020-09-01T22:29:52Z,2020-09-01T22:37:22Z,2,1,MERGED
+palmetto-components,adding types for cleave package,https://github.com/palmetto/palmetto-components/pull/198,2020-09-01T18:11:58Z,2020-09-04T23:27:11Z,2,5,MERGED
+palmetto-components,fix: Whitespace Change,https://github.com/palmetto/palmetto-components/pull/197,2020-09-01T17:53:52Z,2020-09-01T17:54:11Z,1,1,MERGED
+palmetto-components,Document releases,https://github.com/palmetto/palmetto-components/pull/196,2020-08-31T21:24:51Z,2020-09-01T21:33:59Z,10,21,MERGED
+palmetto-components,Add description to package.json,https://github.com/palmetto/palmetto-components/pull/195,2020-08-27T21:29:35Z,2020-08-27T21:46:09Z,2,1,MERGED
+palmetto-components,New table api,https://github.com/palmetto/palmetto-components/pull/194,2020-08-27T21:10:18Z,2020-09-01T14:42:50Z,55,25,MERGED
+palmetto-components,fix: Add Github Token,https://github.com/palmetto/palmetto-components/pull/193,2020-08-27T20:28:57Z,2020-08-27T20:35:21Z,2,1,MERGED
+palmetto-components,fix: removing lock from semver workflow,https://github.com/palmetto/palmetto-components/pull/192,2020-08-27T19:42:57Z,2020-08-27T19:46:18Z,2,1,MERGED
+palmetto-components,fix: semantic-versioning job not running.,https://github.com/palmetto/palmetto-components/pull/191,2020-08-27T19:28:11Z,2020-08-27T19:36:25Z,2,1,MERGED
+palmetto-components,Adding semantic release workflow for `master` branch,https://github.com/palmetto/palmetto-components/pull/190,2020-08-27T18:55:39Z,2020-08-27T19:17:33Z,2,1,MERGED
+palmetto-components,Switch to Code Climate,https://github.com/palmetto/palmetto-components/pull/189,2020-08-26T22:01:46Z,2020-08-26T22:38:49Z,1,3,MERGED
+palmetto-components,Update yml to point at Coveralls.,https://github.com/palmetto/palmetto-components/pull/188,2020-08-26T18:45:55Z,2020-08-26T19:47:27Z,1,5,MERGED
+palmetto-components,Clear Storybook Warnings & Update Storybook,https://github.com/palmetto/palmetto-components/pull/187,2020-08-25T20:04:03Z,2020-08-25T20:38:27Z,2,4,MERGED
+palmetto-components,Modernize Legacy Components,https://github.com/palmetto/palmetto-components/pull/186,2020-08-24T16:53:22Z,2020-08-27T15:26:59Z,22,48,MERGED
+palmetto-components,bumping package version to 0.3.0,https://github.com/palmetto/palmetto-components/pull/185,2020-08-24T13:42:11Z,2020-08-24T13:55:02Z,1,2,MERGED
+palmetto-components,Run Type Check on PR,https://github.com/palmetto/palmetto-components/pull/184,2020-08-20T21:07:54Z,2020-08-24T17:09:38Z,2,12,MERGED
+palmetto-components,Run typecheck on pr,https://github.com/palmetto/palmetto-components/pull/183,2020-08-20T20:59:51Z,2020-08-20T21:07:20Z,1,4,CLOSED
+palmetto-components,Trivial change.,https://github.com/palmetto/palmetto-components/pull/182,2020-08-20T20:54:30Z,2020-08-20T22:37:30Z,1,1,CLOSED
+palmetto-components,Add TypeCheck to PR Actions,https://github.com/palmetto/palmetto-components/pull/181,2020-08-20T20:40:57Z,2020-08-20T20:59:01Z,1,2,CLOSED
+palmetto-components,Release 0.3.0 -- TS fixes,https://github.com/palmetto/palmetto-components/pull/180,2020-08-20T20:29:25Z,2020-08-20T20:48:53Z,1,415,MERGED
+palmetto-components,typescript errors,https://github.com/palmetto/palmetto-components/pull/179,2020-08-20T20:17:24Z,2020-08-20T20:27:39Z,1,4,MERGED
+palmetto-components,Develop test,https://github.com/palmetto/palmetto-components/pull/178,2020-08-20T19:56:23Z,2020-08-20T19:59:21Z,1,4,MERGED
+palmetto-components,Release 0.3.0,https://github.com/palmetto/palmetto-components/pull/177,2020-08-20T19:11:45Z,2020-08-20T20:04:33Z,1,413,MERGED
+palmetto-components,Bump package version to 0.3.0,https://github.com/palmetto/palmetto-components/pull/176,2020-08-20T19:07:38Z,2020-08-20T19:10:26Z,1,1,MERGED
+palmetto-components,improving test coverage,https://github.com/palmetto/palmetto-components/pull/175,2020-08-20T15:29:30Z,2020-08-20T17:35:31Z,2,5,MERGED
+palmetto-components,refactoring to use children components,https://github.com/palmetto/palmetto-components/pull/174,2020-08-19T20:16:03Z,2020-08-20T01:08:36Z,12,14,MERGED
+palmetto-components,Form label refactor,https://github.com/palmetto/palmetto-components/pull/173,2020-08-19T16:41:37Z,2020-08-20T17:03:51Z,3,2,MERGED
+palmetto-components,Modify hash to include className.,https://github.com/palmetto/palmetto-components/pull/172,2020-08-18T17:51:03Z,2020-08-18T18:02:42Z,1,1,MERGED
+palmetto-components,Release 0.2.0,https://github.com/palmetto/palmetto-components/pull/170,2020-08-17T20:15:10Z,2020-08-17T20:49:00Z,1,317,MERGED
+palmetto-components,Master conflicts,https://github.com/palmetto/palmetto-components/pull/169,2020-08-17T20:03:10Z,2020-08-17T20:10:08Z,1,9,MERGED
+palmetto-components,Release 0.2.0,https://github.com/palmetto/palmetto-components/pull/168,2020-08-17T19:53:09Z,2020-08-17T20:14:14Z,1,315,CLOSED
+palmetto-components,bumping package version,https://github.com/palmetto/palmetto-components/pull/167,2020-08-17T19:42:21Z,2020-08-17T19:49:18Z,1,1,MERGED
+palmetto-components,160 react select props,https://github.com/palmetto/palmetto-components/pull/165,2020-08-17T15:59:38Z,2020-08-17T19:24:43Z,2,4,MERGED
+palmetto-components,Add Table Component,https://github.com/palmetto/palmetto-components/pull/164,2020-08-17T15:29:07Z,2020-08-20T19:04:35Z,15,86,MERGED
+palmetto-components,removing unused dependencies,https://github.com/palmetto/palmetto-components/pull/163,2020-08-17T13:35:30Z,2020-08-17T13:46:31Z,1,2,MERGED
+palmetto-components,bump tokens version to 0.5.0,https://github.com/palmetto/palmetto-components/pull/161,2020-08-13T23:16:13Z,2020-08-14T00:38:45Z,1,3,MERGED
+palmetto-components,"Make CheckboxInput isChecked, and SelectInput value required; update …",https://github.com/palmetto/palmetto-components/pull/159,2020-08-13T19:09:51Z,2020-08-13T23:28:08Z,1,2,MERGED
+palmetto-components,Minor Storybook Update,https://github.com/palmetto/palmetto-components/pull/158,2020-08-13T16:54:08Z,2020-08-13T16:58:29Z,1,1,MERGED
+palmetto-components,Storybook update,https://github.com/palmetto/palmetto-components/pull/156,2020-08-12T18:12:02Z,2020-08-12T19:17:15Z,2,10,MERGED
+palmetto-components,Consistent Bundling Refactor,https://github.com/palmetto/palmetto-components/pull/154,2020-08-07T01:46:09Z,2020-08-10T20:07:34Z,2,4,MERGED
+palmetto-components,Setup Theming,https://github.com/palmetto/palmetto-components/pull/153,2020-08-06T23:29:54Z,2020-08-10T22:50:40Z,1,3,MERGED
+palmetto-components,Auto Prefixer for CSS,https://github.com/palmetto/palmetto-components/pull/152,2020-08-06T02:42:30Z,2020-08-11T21:34:08Z,1,20,MERGED
+palmetto-components,All Storybook to MDX,https://github.com/palmetto/palmetto-components/pull/151,2020-08-04T05:31:40Z,2020-08-13T16:33:39Z,3,25,MERGED
+palmetto-components,All Storybook to MDX,https://github.com/palmetto/palmetto-components/pull/149,2020-08-03T19:29:12Z,2020-08-05T00:31:49Z,1,21,CLOSED
+palmetto-components,feat(Heading): responsive font sizes,https://github.com/palmetto/palmetto-components/pull/374,2020-12-23T23:38:08Z,2020-12-24T00:01:23Z,2,1,MERGED
+palmetto-components,docs(Button): separate Button doc examples from visual regression stories,https://github.com/palmetto/palmetto-components/pull/373,2020-12-23T21:32:23Z,2020-12-23T23:10:36Z,11,3,MERGED
+palmetto-components,feat(TextInput): prefix and suffix option,https://github.com/palmetto/palmetto-components/pull/372,2020-12-23T01:33:58Z,2020-12-23T19:19:49Z,7,10,MERGED
+palmetto-components,docs: initiate DatePicker stories in the past so that chromatic diff isn't triggered every time,https://github.com/palmetto/palmetto-components/pull/371,2020-12-22T23:30:06Z,2020-12-22T23:45:34Z,2,1,MERGED
+palmetto-components,feat(types): export all prop interfaces,https://github.com/palmetto/palmetto-components/pull/369,2020-12-22T15:31:16Z,2020-12-23T19:10:13Z,2,4,MERGED
+palmetto-components,feat(Icon): circle icon,https://github.com/palmetto/palmetto-components/pull/368,2020-12-18T19:16:19Z,2020-12-18T19:20:51Z,2,1,MERGED
+palmetto-components,feat(Icon): circle,https://github.com/palmetto/palmetto-components/pull/367,2020-12-18T18:45:23Z,2020-12-18T19:13:19Z,0,2,CLOSED
+palmetto-components,"fix: dont reset ol, ul list types because browser default is ok",https://github.com/palmetto/palmetto-components/pull/366,2020-12-17T19:38:02Z,2020-12-22T14:43:39Z,4,2,MERGED
+palmetto-components,fix(Badge): export component,https://github.com/palmetto/palmetto-components/pull/365,2020-12-16T18:41:17Z,2020-12-16T18:50:28Z,2,2,MERGED
+palmetto-components,Toggle Component,https://github.com/palmetto/palmetto-components/pull/364,2020-12-16T00:18:50Z,2020-12-16T18:12:11Z,18,10,MERGED
+palmetto-components,"feat: box, pin-add icons",https://github.com/palmetto/palmetto-components/pull/363,2020-12-14T17:33:16Z,2020-12-14T17:41:47Z,2,1,MERGED
+palmetto-components,fix(SelectInput): make placeholder font size match value,https://github.com/palmetto/palmetto-components/pull/361,2020-12-11T17:39:37Z,2020-12-11T17:53:39Z,2,2,MERGED
+palmetto-components,naked button,https://github.com/palmetto/palmetto-components/pull/360,2020-12-10T16:28:05Z,2021-02-05T20:44:11Z,1,1,CLOSED
+palmetto-components,fix(Modal): fix for footer modal on android/ios browsers,https://github.com/palmetto/palmetto-components/pull/358,2020-12-08T23:29:54Z,2020-12-08T23:58:16Z,2,2,MERGED
+palmetto-components,fix(build): aliasing react-select in prod build,https://github.com/palmetto/palmetto-components/pull/355,2020-12-08T19:17:13Z,2020-12-08T19:48:31Z,1,1,MERGED
+palmetto-components,"feat: icons for arrow up, down, left, right",https://github.com/palmetto/palmetto-components/pull/354,2020-12-06T19:46:45Z,2020-12-06T20:03:09Z,2,1,MERGED
+palmetto-components,refactor: replace FontAwesome icons with Icon component,https://github.com/palmetto/palmetto-components/pull/353,2020-12-05T20:59:39Z,2020-12-05T21:13:18Z,2,1,MERGED
+palmetto-components,SSR Build,https://github.com/palmetto/palmetto-components/pull/352,2020-12-05T02:40:39Z,2020-12-07T18:04:11Z,3,4,MERGED
+palmetto-components,Button icon,https://github.com/palmetto/palmetto-components/pull/350,2020-12-04T03:38:13Z,2020-12-23T16:34:46Z,4,19,MERGED
+palmetto-components,Alert refactor,https://github.com/palmetto/palmetto-components/pull/349,2020-12-04T02:38:56Z,2020-12-05T00:27:57Z,2,11,MERGED
+palmetto-components,feat: Icon Set,https://github.com/palmetto/palmetto-components/pull/348,2020-12-04T00:03:55Z,2020-12-04T17:59:16Z,2,8,MERGED
+palmetto-components,feat(Button): Naked button,https://github.com/palmetto/palmetto-components/pull/345,2020-12-02T15:46:23Z,2020-12-02T16:09:31Z,2,3,MERGED
+palmetto-components,abstracting breakpoints to constants file,https://github.com/palmetto/palmetto-components/pull/344,2020-12-01T15:44:37Z,2020-12-01T15:50:06Z,2,2,MERGED
+palmetto-components,fix chromatic publiush,https://github.com/palmetto/palmetto-components/pull/343,2020-12-01T15:25:08Z,2020-12-01T15:35:22Z,2,1,MERGED
+palmetto-components,feat(Icon): icon component,https://github.com/palmetto/palmetto-components/pull/341,2020-11-30T14:25:06Z,2020-11-30T14:33:18Z,3,4,MERGED
+palmetto-components,chore(deps): Update packages,https://github.com/palmetto/palmetto-components/pull/340,2020-11-25T21:05:35Z,2020-11-25T21:47:33Z,2,3,MERGED
+palmetto-components,"fix: select input portal docs, modal refs.",https://github.com/palmetto/palmetto-components/pull/338,2020-11-23T17:08:04Z,2020-11-23T17:24:23Z,2,5,MERGED
+palmetto-components,feat:form label to index,https://github.com/palmetto/palmetto-components/pull/337,2020-11-20T18:37:27Z,2020-11-20T18:42:24Z,2,1,MERGED
+palmetto-components,fix(Box): apply solid border style to specified border side,https://github.com/palmetto/palmetto-components/pull/334,2020-11-19T00:50:49Z,2020-11-19T18:31:00Z,2,5,MERGED
+palmetto-components,feat(RadioGroup): allow for horizontally aligned radio button inputs,https://github.com/palmetto/palmetto-components/pull/332,2020-11-18T16:30:34Z,2020-11-19T19:27:44Z,2,5,MERGED
+palmetto-components,Nexa font,https://github.com/palmetto/palmetto-components/pull/331,2020-11-17T23:54:30Z,2020-11-18T02:02:51Z,3,5,MERGED
+palmetto-components,feat(Box): add textAlign prop,https://github.com/palmetto/palmetto-components/pull/330,2020-11-13T00:21:00Z,2020-11-13T00:44:58Z,4,2,MERGED
+palmetto-components,Badge component,https://github.com/palmetto/palmetto-components/pull/329,2020-11-12T22:18:23Z,2020-11-18T21:27:23Z,25,11,MERGED
+palmetto-components,feat(Spinner): Adding spinner to exports,https://github.com/palmetto/palmetto-components/pull/327,2020-11-09T14:50:50Z,2020-11-09T14:51:10Z,1,1,MERGED
+palmetto-components,Feat(Spinner): exporting spinner,https://github.com/palmetto/palmetto-components/pull/326,2020-11-06T19:06:42Z,2020-11-06T19:30:16Z,2,1,MERGED
+palmetto-components,Update Reset,https://github.com/palmetto/palmetto-components/pull/325,2020-11-06T00:51:10Z,2020-11-06T17:15:31Z,2,3,MERGED
+palmetto-components,spread props to textInput,https://github.com/palmetto/palmetto-components/pull/324,2020-11-05T13:08:33Z,2020-11-05T13:17:09Z,2,1,MERGED
+palmetto-components,fix: Adjust Reset Rules,https://github.com/palmetto/palmetto-components/pull/323,2020-11-05T01:51:34Z,2020-11-05T13:04:12Z,2,3,MERGED
+palmetto-components,fix(Modal): increase width to 70% of viewport on tablets,https://github.com/palmetto/palmetto-components/pull/322,2020-11-05T00:08:20Z,2020-11-05T12:42:26Z,2,2,MERGED
+palmetto-components,add formik time-picker to index,https://github.com/palmetto/palmetto-components/pull/321,2020-11-04T21:23:24Z,2020-11-04T21:37:41Z,2,2,MERGED
+palmetto-components,"fix: if a user specifies '0' as a spacing value, return the corresponding css className",https://github.com/palmetto/palmetto-components/pull/320,2020-11-03T21:52:18Z,2020-11-04T14:24:59Z,3,1,MERGED
+palmetto-components,Date picker,https://github.com/palmetto/palmetto-components/pull/318,2020-11-03T02:29:55Z,2020-11-04T17:33:55Z,13,24,MERGED
+palmetto-components,Box additional states,https://github.com/palmetto/palmetto-components/pull/439,2021-03-31T16:02:13Z,2021-04-01T12:18:32Z,19,22,MERGED
+palmetto-components,feat: Checkbox component and CheckboxInput sizes,https://github.com/palmetto/palmetto-components/pull/438,2021-03-27T00:26:56Z,2021-03-31T19:29:11Z,29,12,MERGED
+palmetto-components,feat(forms): Native Select Input,https://github.com/palmetto/palmetto-components/pull/436,2021-03-25T16:24:59Z,2021-04-08T13:38:24Z,9,16,MERGED
+palmetto-components,Playgrounds,https://github.com/palmetto/palmetto-components/pull/434,2021-03-24T13:43:33Z,2021-03-26T19:29:10Z,9,7,MERGED
+palmetto-components,fix(Modal): preventing positioning issue with overflowing dynamic height content,https://github.com/palmetto/palmetto-components/pull/433,2021-03-23T17:46:46Z,2021-03-23T18:19:32Z,2,2,MERGED
+palmetto-components,adding tabs to library exports,https://github.com/palmetto/palmetto-components/pull/432,2021-03-22T17:55:49Z,2021-03-22T18:01:13Z,2,2,MERGED
+palmetto-components,Tabs component,https://github.com/palmetto/palmetto-components/pull/431,2021-03-18T19:15:05Z,2021-03-19T22:48:54Z,5,28,MERGED
+palmetto-components,Documentation organization,https://github.com/palmetto/palmetto-components/pull/430,2021-03-17T17:18:32Z,2021-03-17T20:30:04Z,2,3,MERGED
+palmetto-components,Details and Accordion component,https://github.com/palmetto/palmetto-components/pull/429,2021-03-16T15:02:49Z,2021-03-17T15:27:29Z,17,12,MERGED
+palmetto-components,Ts props,https://github.com/palmetto/palmetto-components/pull/427,2021-03-10T19:12:27Z,2021-03-12T12:21:29Z,8,7,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.36.0,https://github.com/palmetto/palmetto-components/pull/425,2021-03-10T01:26:37Z,2021-03-10T01:34:05Z,2,1,MERGED
+palmetto-components,"docs: add Figma components to Alert, Badge",https://github.com/palmetto/palmetto-components/pull/423,2021-03-09T17:15:55Z,2021-06-01T23:40:17Z,2,3,CLOSED
+palmetto-components,fix(TextInput): accept all input types as props,https://github.com/palmetto/palmetto-components/pull/422,2021-03-09T16:52:17Z,2021-03-09T16:58:53Z,2,2,MERGED
+palmetto-components,docs(PR): pr template,https://github.com/palmetto/palmetto-components/pull/421,2021-03-09T16:29:14Z,2021-03-09T16:37:48Z,2,2,MERGED
+palmetto-components,fix(DateInput): Make date input read only.,https://github.com/palmetto/palmetto-components/pull/419,2021-03-04T18:33:26Z,2021-03-04T22:06:13Z,3,7,MERGED
+palmetto-components,fix(TextLink): React router text link,https://github.com/palmetto/palmetto-components/pull/418,2021-03-03T17:17:12Z,2021-03-03T17:33:46Z,3,3,MERGED
+palmetto-components,fix(Icon): prevent empty class property from being added to svg element,https://github.com/palmetto/palmetto-components/pull/417,2021-03-03T01:07:19Z,2021-03-03T01:13:14Z,2,1,MERGED
+palmetto-components,fix(Button): proper navigation when using react-router Link,https://github.com/palmetto/palmetto-components/pull/416,2021-03-02T18:51:57Z,2021-03-02T21:48:49Z,6,4,MERGED
+palmetto-components,Card spread props,https://github.com/palmetto/palmetto-components/pull/415,2021-03-02T15:10:09Z,2021-03-02T15:28:25Z,2,4,MERGED
+palmetto-components,Date input blur,https://github.com/palmetto/palmetto-components/pull/414,2021-03-01T21:03:29Z,2021-03-02T15:11:25Z,8,7,MERGED
+palmetto-components,"feat(Icon): responsive size, color props and doc reorganization",https://github.com/palmetto/palmetto-components/pull/413,2021-02-26T22:30:06Z,2021-02-26T23:52:50Z,4,1,MERGED
+palmetto-components,Component Documentation Reorganization,https://github.com/palmetto/palmetto-components/pull/412,2021-02-24T18:49:17Z,2021-02-24T19:01:27Z,1,11,MERGED
+palmetto-components,feat(Modal): add slide up animation to Modal on phone viewports,https://github.com/palmetto/palmetto-components/pull/410,2021-02-23T20:30:37Z,2021-02-23T20:51:10Z,2,2,MERGED
+palmetto-components,Component constants,https://github.com/palmetto/palmetto-components/pull/409,2021-02-23T03:10:04Z,2021-02-23T17:16:58Z,3,11,MERGED
+palmetto-components,docs(Spinner): add playground and visual regression test stories,https://github.com/palmetto/palmetto-components/pull/408,2021-02-23T02:15:50Z,2021-02-23T02:25:57Z,2,3,MERGED
+palmetto-components,"feat: add underline, strikethrough, utility classes",https://github.com/palmetto/palmetto-components/pull/407,2021-02-23T01:38:03Z,2021-06-01T23:40:45Z,2,2,CLOSED
+palmetto-components,chore(deps): palmetto-design-tokens 35.1,https://github.com/palmetto/palmetto-components/pull/405,2021-02-18T02:03:34Z,2021-02-18T02:12:51Z,2,1,MERGED
+palmetto-components,fix(Button): update hover state appearance of isOutlined Buttons,https://github.com/palmetto/palmetto-components/pull/404,2021-02-18T01:18:51Z,2021-02-18T16:55:38Z,2,3,MERGED
+palmetto-components,docs: Update docs to list additional required and optional dependencies,https://github.com/palmetto/palmetto-components/pull/403,2021-02-17T21:31:06Z,2021-02-17T21:54:16Z,2,1,MERGED
+palmetto-components, fix(Modal): added overflow-auto to modal body,https://github.com/palmetto/palmetto-components/pull/402,2021-02-17T03:36:25Z,2021-02-17T19:12:21Z,1,1,CLOSED
+palmetto-components,fix(Button): don't pass type property to button anchor links,https://github.com/palmetto/palmetto-components/pull/399,2021-02-13T00:21:41Z,2021-02-13T00:30:58Z,3,2,MERGED
+palmetto-components,docs: Heading component documentation re-organization,https://github.com/palmetto/palmetto-components/pull/398,2021-02-12T20:30:43Z,2021-02-15T19:37:01Z,8,8,MERGED
+palmetto-components,docs: Alert component documentation re-organization,https://github.com/palmetto/palmetto-components/pull/397,2021-02-04T22:23:05Z,2021-02-05T20:48:24Z,5,13,MERGED
+palmetto-components,feat(Box): add responsive minHeight and maxHeight props,https://github.com/palmetto/palmetto-components/pull/396,2021-02-03T00:50:47Z,2021-02-03T00:59:21Z,5,1,MERGED
+palmetto-components,feat(Icon): tools icon,https://github.com/palmetto/palmetto-components/pull/395,2021-02-01T18:56:29Z,2021-02-01T22:21:06Z,2,2,MERGED
+palmetto-components,docs: add updated logo and favicon to storybook docs,https://github.com/palmetto/palmetto-components/pull/393,2021-01-28T23:31:51Z,2021-01-29T15:57:12Z,3,3,MERGED
+palmetto-components,Box stories,https://github.com/palmetto/palmetto-components/pull/392,2021-01-28T02:30:33Z,2021-01-30T02:00:23Z,63,19,MERGED
+palmetto-components,docs: update contribution guide with new file structure,https://github.com/palmetto/palmetto-components/pull/390,2021-01-27T17:12:55Z,2021-01-27T17:24:01Z,2,1,MERGED
+palmetto-components,Correct Docs for Box's Radius Prop,https://github.com/palmetto/palmetto-components/pull/389,2021-01-25T17:59:48Z,2021-01-25T18:29:08Z,2,1,MERGED
+palmetto-components,fix(Button): buttons with icons are same height as buttons w/o icon,https://github.com/palmetto/palmetto-components/pull/387,2021-01-23T00:47:17Z,2021-01-23T01:27:56Z,4,3,MERGED
+palmetto-components,docs: Re-organize component documentation,https://github.com/palmetto/palmetto-components/pull/386,2021-01-22T02:20:36Z,2021-01-27T16:46:57Z,3,14,MERGED
+palmetto-components,feat(Box): responsive css shorthand border-radius prop,https://github.com/palmetto/palmetto-components/pull/385,2021-01-20T21:47:20Z,2021-01-22T00:55:33Z,4,1,MERGED
+palmetto-components,feat(Card): update to use sm shadow token,https://github.com/palmetto/palmetto-components/pull/383,2021-01-14T23:17:31Z,2021-01-14T23:34:33Z,3,4,MERGED
+palmetto-components,feat(Box): add responsive `shadow` prop to control outer shadow of a Box,https://github.com/palmetto/palmetto-components/pull/382,2021-01-14T22:54:19Z,2021-01-14T23:01:00Z,3,6,MERGED
+palmetto-components,feat: add and document box-shadow tokens,https://github.com/palmetto/palmetto-components/pull/381,2021-01-14T21:09:03Z,2021-01-14T21:49:17Z,2,4,MERGED
+palmetto-components,"feat: exclamation-mark, question-mark, info icons",https://github.com/palmetto/palmetto-components/pull/380,2021-01-13T23:52:09Z,2021-01-14T00:01:16Z,2,1,MERGED
+palmetto-components,chore(deps): palmetto design tokens 0.29.0,https://github.com/palmetto/palmetto-components/pull/379,2021-01-13T19:27:43Z,2021-01-13T19:38:00Z,2,1,MERGED
+palmetto-components,prevent TextInput prefix/suffix from wrapping into multiple lines,https://github.com/palmetto/palmetto-components/pull/378,2021-01-11T23:51:23Z,2021-01-12T00:06:33Z,2,2,MERGED
+palmetto-components,chore(deps): adds social media icons from palmetto-design-tokens,https://github.com/palmetto/palmetto-components/pull/375,2021-01-05T00:20:41Z,2021-01-05T00:27:37Z,2,1,MERGED
+palmetto-components,ci(betaSemantincRelease): add beta branch to semantic release action,https://github.com/palmetto/palmetto-components/pull/487,2021-05-30T17:27:29Z,2021-05-30T18:06:16Z,2,1,MERGED
+palmetto-components,Beta releases,https://github.com/palmetto/palmetto-components/pull/486,2021-05-30T17:09:54Z,2021-05-30T17:13:59Z,2,3,MERGED
+palmetto-components,feat(TreeShaking): Moved to TSDX. Added ES module export. Refactor classes.,https://github.com/palmetto/palmetto-components/pull/484,2021-05-28T13:52:23Z,2021-06-04T16:11:12Z,10,28,MERGED
+palmetto-components,fix: make fadeInUp animation more subtle for modals,https://github.com/palmetto/palmetto-components/pull/480,2021-05-26T16:31:06Z,2021-05-26T23:54:55Z,2,1,MERGED
+palmetto-components,fix(TabsSlider): allow changing of Tabs slider element via 'as' prop.,https://github.com/palmetto/palmetto-components/pull/477,2021-05-20T15:41:20Z,2021-05-20T16:33:10Z,2,5,MERGED
+palmetto-components,fix(animation): fix fade in animation,https://github.com/palmetto/palmetto-components/pull/475,2021-05-19T23:58:30Z,2021-05-20T00:05:51Z,2,1,MERGED
+palmetto-components,ci(Chromatic): Chromatic node version,https://github.com/palmetto/palmetto-components/pull/474,2021-05-19T18:10:46Z,2021-05-19T18:44:52Z,2,4,MERGED
+palmetto-components,ci(Chromatic): Node version,https://github.com/palmetto/palmetto-components/pull/473,2021-05-19T17:48:56Z,2021-05-19T17:54:53Z,2,3,MERGED
+palmetto-components,fix(Modal): new transition for modal,https://github.com/palmetto/palmetto-components/pull/472,2021-05-19T16:52:23Z,2021-05-19T17:44:20Z,2,4,MERGED
+palmetto-components,feat(TransparentColor): Updating tokens to include transparent color for background/border.,https://github.com/palmetto/palmetto-components/pull/471,2021-05-18T16:54:31Z,2021-05-18T17:44:58Z,2,2,MERGED
+palmetto-components,feat(TabsSlider): Tabs slider component,https://github.com/palmetto/palmetto-components/pull/470,2021-05-14T14:59:19Z,2021-05-18T10:54:45Z,9,23,MERGED
+palmetto-components,feat: add support for cross platform development,https://github.com/palmetto/palmetto-components/pull/469,2021-05-12T16:07:55Z,2021-05-12T16:18:01Z,3,1,MERGED
+palmetto-components,feat(NativeTimePicker):  Adding option to use native select as timepicker,https://github.com/palmetto/palmetto-components/pull/468,2021-05-12T14:08:55Z,2021-05-13T15:29:59Z,4,6,MERGED
+palmetto-components,feat: allow popover to be server-side rendered,https://github.com/palmetto/palmetto-components/pull/461,2021-05-05T01:33:12Z,2021-05-06T16:27:34Z,6,2,MERGED
+palmetto-components,perf(DictionarySize): refactor with smaller tokens dictionary format,https://github.com/palmetto/palmetto-components/pull/460,2021-05-04T14:54:23Z,2021-05-04T16:29:27Z,2,4,MERGED
+palmetto-components,fix(ResponsiveProvider): optional chain window,https://github.com/palmetto/palmetto-components/pull/459,2021-04-30T13:35:55Z,2021-04-30T13:39:13Z,2,1,MERGED
+palmetto-components,Responsive provider ssr,https://github.com/palmetto/palmetto-components/pull/458,2021-04-30T13:20:43Z,2021-04-30T13:26:04Z,2,4,MERGED
+palmetto-components,conditional window object for ssr,https://github.com/palmetto/palmetto-components/pull/457,2021-04-30T12:32:35Z,2021-04-30T12:42:15Z,2,2,MERGED
+palmetto-components,refactor(SelectInput): important label margin,https://github.com/palmetto/palmetto-components/pull/456,2021-04-28T19:38:14Z,2021-04-28T19:43:15Z,2,1,MERGED
+palmetto-components,select input native pointer events,https://github.com/palmetto/palmetto-components/pull/455,2021-04-28T14:33:10Z,2021-04-28T16:28:25Z,2,1,MERGED
+palmetto-components,fix(Toggle): prevent toggle track from shrinking,https://github.com/palmetto/palmetto-components/pull/453,2021-04-22T22:29:14Z,2021-04-22T22:34:43Z,2,1,MERGED
+palmetto-components,fix(SelectInputNative): fixing value prop type for select native,https://github.com/palmetto/palmetto-components/pull/452,2021-04-22T17:34:19Z,2021-04-22T19:14:07Z,2,5,MERGED
+palmetto-components,fix(TextareaInput): fixing error styles for text-area-input,https://github.com/palmetto/palmetto-components/pull/451,2021-04-22T15:43:30Z,2021-04-22T15:57:37Z,2,2,MERGED
+palmetto-components,fix(SelectInputNative): added proper export for formik component,https://github.com/palmetto/palmetto-components/pull/450,2021-04-21T21:02:16Z,2021-04-21T21:12:00Z,2,1,MERGED
+palmetto-components,feat: Add rollup to allow consumers to tree-shake this library,https://github.com/palmetto/palmetto-components/pull/448,2021-04-16T22:55:25Z,2021-06-01T16:43:13Z,1,2,CLOSED
+palmetto-components,feat: Split components into distinct entries to allow separate imports,https://github.com/palmetto/palmetto-components/pull/447,2021-04-16T19:08:57Z,2021-06-01T16:43:21Z,2,1,CLOSED
+palmetto-components,Split components into distinct entries to allow separate imports,https://github.com/palmetto/palmetto-components/pull/446,2021-04-16T19:05:20Z,2021-04-16T19:06:42Z,0,1,CLOSED
+palmetto-components,feat(Box): adding box position prop and utility classes,https://github.com/palmetto/palmetto-components/pull/445,2021-04-15T00:32:31Z,2021-04-15T12:08:35Z,3,3,MERGED
+palmetto-components,Responsive hooks,https://github.com/palmetto/palmetto-components/pull/444,2021-04-09T19:20:59Z,2021-04-12T20:13:43Z,7,28,MERGED
+palmetto-components,add key to PageButton component,https://github.com/palmetto/palmetto-components/pull/443,2021-04-08T16:52:40Z,2021-04-08T19:07:45Z,2,1,MERGED
+palmetto-components,fix: overflow utility class breakpoints,https://github.com/palmetto/palmetto-components/pull/442,2021-04-02T20:14:10Z,2021-04-02T20:21:17Z,2,1,MERGED
+palmetto-components,Cursor props,https://github.com/palmetto/palmetto-components/pull/441,2021-04-01T13:10:01Z,2021-04-01T13:21:04Z,2,3,MERGED
+palmetto-components,fix box hover story,https://github.com/palmetto/palmetto-components/pull/440,2021-04-01T12:47:02Z,2021-04-01T12:56:08Z,2,1,MERGED
+palmetto-components,Add handling of nested object validation errors for Formik inputs,https://github.com/palmetto/palmetto-components/pull/543,2021-07-29T23:19:40Z,2021-08-02T16:32:18Z,2,1,MERGED
+palmetto-components,fix(Toggle): make toggle clickable,https://github.com/palmetto/palmetto-components/pull/539,2021-07-26T22:50:26Z,2021-07-26T23:34:28Z,2,4,MERGED
+palmetto-components,fix(TextLink): allow font size utility classes to be applied,https://github.com/palmetto/palmetto-components/pull/538,2021-07-23T17:41:58Z,2021-07-23T17:47:11Z,3,1,MERGED
+palmetto-components,test(Toggle): size tests,https://github.com/palmetto/palmetto-components/pull/537,2021-07-23T01:48:54Z,2021-07-23T02:08:38Z,2,2,MERGED
+palmetto-components,refactor(Toggle): separate sub-component usage and add more visual tests,https://github.com/palmetto/palmetto-components/pull/536,2021-07-22T21:35:18Z,2021-07-22T23:12:19Z,4,6,MERGED
+palmetto-components,docs(Toggle): add Playground story,https://github.com/palmetto/palmetto-components/pull/535,2021-07-22T20:26:14Z,2021-07-22T20:40:40Z,3,1,MERGED
+palmetto-components,"add icons cloud-forecast, cloud-rain, cloud-sun, sun, trend-up",https://github.com/palmetto/palmetto-components/pull/533,2021-07-21T21:11:33Z,2021-07-21T21:18:45Z,3,1,MERGED
+palmetto-components,feat(tokens): Tokens update,https://github.com/palmetto/palmetto-components/pull/532,2021-07-20T20:54:03Z,2021-07-20T21:04:14Z,2,4,MERGED
+palmetto-components,Remove background color from text input on focus,https://github.com/palmetto/palmetto-components/pull/531,2021-07-20T19:50:23Z,2021-07-20T20:30:51Z,3,1,MERGED
+palmetto-components,Wrap required input label's asterisk in a targetable element,https://github.com/palmetto/palmetto-components/pull/530,2021-07-15T16:12:22Z,2021-07-22T23:28:26Z,12,5,MERGED
+palmetto-components,feat: [528] Add additional context to malformed css shorthand warning,https://github.com/palmetto/palmetto-components/pull/529,2021-07-14T17:28:28Z,2021-07-14T17:32:45Z,2,1,MERGED
+palmetto-components,Toast,https://github.com/palmetto/palmetto-components/pull/526,2021-07-13T17:19:38Z,2021-08-05T16:35:07Z,20,62,MERGED
+palmetto-components,feat: Content Guidelines,https://github.com/palmetto/palmetto-components/pull/525,2021-07-07T00:29:26Z,2021-07-09T16:22:28Z,6,14,MERGED
+palmetto-components,Form label error styling,https://github.com/palmetto/palmetto-components/pull/524,2021-07-02T21:59:14Z,2021-07-06T17:47:05Z,2,8,MERGED
+palmetto-components,Option tile refactor,https://github.com/palmetto/palmetto-components/pull/523,2021-07-01T23:47:54Z,2021-07-06T17:32:29Z,9,10,MERGED
+palmetto-components,File input props,https://github.com/palmetto/palmetto-components/pull/522,2021-06-29T19:29:44Z,2021-06-30T19:40:59Z,2,10,MERGED
+palmetto-components,feat(TextInput): Textinput responsive size,https://github.com/palmetto/palmetto-components/pull/521,2021-06-25T16:59:04Z,2021-06-25T22:07:18Z,2,18,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.44.5,https://github.com/palmetto/palmetto-components/pull/520,2021-06-25T15:29:19Z,2021-06-25T15:34:55Z,2,1,MERGED
+palmetto-components,feat(TextInput): Text input responsive size,https://github.com/palmetto/palmetto-components/pull/519,2021-06-23T16:13:25Z,2021-06-25T16:57:43Z,3,14,CLOSED
+palmetto-components,Option tiles,https://github.com/palmetto/palmetto-components/pull/518,2021-06-21T21:02:25Z,2021-06-23T12:06:24Z,21,21,MERGED
+palmetto-components,fix(Button): Disabled button pointer style,https://github.com/palmetto/palmetto-components/pull/517,2021-06-15T19:26:57Z,2021-06-15T19:40:05Z,2,2,MERGED
+palmetto-components,feat(TokensAndBox): add font family option to box,https://github.com/palmetto/palmetto-components/pull/515,2021-06-14T20:19:26Z,2021-06-15T11:28:32Z,3,3,MERGED
+palmetto-components,feat(TreeShaking): BREAKING CHANGE. -- Tree shaking with ES6 Module + several refactors.,https://github.com/palmetto/palmetto-components/pull/514,2021-06-11T20:31:34Z,2021-06-11T20:39:17Z,2,10,MERGED
+palmetto-components,"Revert ""BREAKING CHANGE: Tree shaking(expose es6 module) + several major refactors.""",https://github.com/palmetto/palmetto-components/pull/513,2021-06-11T20:24:56Z,2021-06-11T20:30:09Z,3,1,MERGED
+palmetto-components,BREAKING CHANGE: Tree shaking(expose es6 module) + several major refactors.,https://github.com/palmetto/palmetto-components/pull/512,2021-06-11T19:45:04Z,2021-06-11T20:15:38Z,3,9,MERGED
+palmetto-components,feat(tokens): Tokens update,https://github.com/palmetto/palmetto-components/pull/511,2021-06-11T19:24:43Z,2021-06-11T19:33:20Z,2,3,MERGED
+palmetto-components,Box shorthand trim,https://github.com/palmetto/palmetto-components/pull/509,2021-06-11T15:08:27Z,2021-06-11T15:22:47Z,3,4,MERGED
+palmetto-components,chore: update beta with latest changes from main,https://github.com/palmetto/palmetto-components/pull/508,2021-06-11T14:19:46Z,2021-06-11T19:58:06Z,2,14,MERGED
+palmetto-components,Updating Formik allowed types to match underlying TextInput,https://github.com/palmetto/palmetto-components/pull/507,2021-06-10T22:34:21Z,2021-06-11T13:11:02Z,3,1,MERGED
+palmetto-components,fix(SelectInputNative): option color inherited from select,https://github.com/palmetto/palmetto-components/pull/506,2021-06-10T17:55:12Z,2021-06-10T18:02:28Z,3,1,MERGED
+palmetto-components,Updating Formik Select Input to Match Select Input,https://github.com/palmetto/palmetto-components/pull/505,2021-06-10T16:14:31Z,2021-06-10T17:25:30Z,3,1,MERGED
+palmetto-components,fix(Tabs): change tab elements for clearer aria roles,https://github.com/palmetto/palmetto-components/pull/504,2021-06-10T14:39:48Z,2021-06-10T14:53:54Z,3,1,MERGED
+palmetto-components,feat(Modal): automatically apply top border radius to Modals,https://github.com/palmetto/palmetto-components/pull/502,2021-06-10T00:17:22Z,2021-06-10T18:54:17Z,1,2,MERGED
+palmetto-components,Update prop descriptions for Button,https://github.com/palmetto/palmetto-components/pull/501,2021-06-09T19:11:21Z,2021-06-09T19:16:58Z,3,2,MERGED
+palmetto-components,fix(DateInput): Date input with no label throws exception,https://github.com/palmetto/palmetto-components/pull/499,2021-06-09T15:28:41Z,2021-06-09T16:20:46Z,3,3,MERGED
+palmetto-components,fix(Modal): remove requirement of maxWidth on modal,https://github.com/palmetto/palmetto-components/pull/498,2021-06-08T21:31:47Z,2021-06-08T21:50:13Z,3,1,MERGED
+palmetto-components,Updating value type to match available option types,https://github.com/palmetto/palmetto-components/pull/497,2021-06-08T18:57:21Z,2021-06-08T21:28:13Z,8,1,MERGED
+palmetto-components,fix(Publish): Prepublish not using correct script.,https://github.com/palmetto/palmetto-components/pull/494,2021-06-04T19:55:56Z,2021-06-04T20:01:44Z,2,1,MERGED
+palmetto-components,fix(Box): flex direction reverse classes,https://github.com/palmetto/palmetto-components/pull/492,2021-06-02T15:15:36Z,2021-06-02T16:13:01Z,3,5,MERGED
+palmetto-components,feat(Modal): Modal max width,https://github.com/palmetto/palmetto-components/pull/488,2021-06-01T15:38:28Z,2021-06-01T20:56:48Z,7,6,MERGED
+palmetto-components,fix(changelog): restore changelog history,https://github.com/palmetto/palmetto-components/pull/636,2021-10-25T19:35:09Z,2021-10-25T19:35:25Z,1,1,MERGED
+palmetto-components,fix(changelog): new changelog from scratch,https://github.com/palmetto/palmetto-components/pull/635,2021-10-25T17:25:05Z,2021-10-25T17:28:11Z,1,1,MERGED
+palmetto-components,fix(changelog): format changelog to start fresh,https://github.com/palmetto/palmetto-components/pull/634,2021-10-25T16:59:21Z,2021-10-25T17:07:37Z,2,1,MERGED
+palmetto-components,docs(changelog): Move changelog to root dir,https://github.com/palmetto/palmetto-components/pull/633,2021-10-25T15:27:12Z,2021-10-25T15:38:40Z,2,2,MERGED
+palmetto-components,fix(release): action name change,https://github.com/palmetto/palmetto-components/pull/632,2021-10-21T21:11:13Z,2021-10-21T21:11:32Z,1,2,MERGED
+palmetto-components,fix(release): adding privileged token to github checkout for releases,https://github.com/palmetto/palmetto-components/pull/631,2021-10-21T21:07:30Z,2021-10-21T21:07:36Z,1,1,MERGED
+palmetto-components,fix(release): add semantic release gh token,https://github.com/palmetto/palmetto-components/pull/630,2021-10-21T20:38:10Z,2021-10-21T20:38:36Z,1,1,MERGED
+palmetto-components,fix(release): Fix release action,https://github.com/palmetto/palmetto-components/pull/627,2021-10-21T17:31:57Z,2021-10-21T17:32:05Z,1,3,MERGED
+palmetto-components,"Revert ""fix(release): change release job name""",https://github.com/palmetto/palmetto-components/pull/626,2021-10-21T17:24:53Z,2021-10-21T17:24:59Z,1,1,MERGED
+palmetto-components,fix(release): change release job name,https://github.com/palmetto/palmetto-components/pull/625,2021-10-21T17:24:32Z,2021-10-21T17:24:45Z,1,1,MERGED
+palmetto-components,fix(Button): isNaked doesn't allow any styling,https://github.com/palmetto/palmetto-components/pull/624,2021-10-21T15:54:06Z,2021-10-21T21:05:54Z,5,6,MERGED
+palmetto-components,feat(changelog): Publish changelog along with releases.,https://github.com/palmetto/palmetto-components/pull/623,2021-10-21T15:07:32Z,2021-10-21T15:37:32Z,1,7,MERGED
+palmetto-components,"Revert ""Changelog semantic release""",https://github.com/palmetto/palmetto-components/pull/622,2021-10-21T12:34:05Z,2021-10-21T12:38:36Z,2,1,MERGED
+palmetto-components,Changelog semantic release,https://github.com/palmetto/palmetto-components/pull/621,2021-10-20T21:03:49Z,2021-10-21T12:27:55Z,2,2,MERGED
+palmetto-components,add auto changelog + fix releaserc,https://github.com/palmetto/palmetto-components/pull/620,2021-10-20T14:43:26Z,2021-10-21T12:26:48Z,1,2,CLOSED
+palmetto-components,feat(Utilities): export tokens for consumers,https://github.com/palmetto/palmetto-components/pull/618,2021-10-18T18:45:55Z,2021-10-26T19:13:22Z,4,3,MERGED
+palmetto-components,Pagination bug,https://github.com/palmetto/palmetto-components/pull/616,2021-10-13T17:47:49Z,2021-10-14T15:23:40Z,7,9,MERGED
+palmetto-components,feat(Utilities): export utility functions for consumers,https://github.com/palmetto/palmetto-components/pull/615,2021-10-11T20:58:36Z,2021-10-12T16:23:52Z,2,2,MERGED
+palmetto-components,feat(Popover): allow popover shadow to be set by consumer,https://github.com/palmetto/palmetto-components/pull/613,2021-10-07T23:05:04Z,2021-10-07T23:15:40Z,2,2,MERGED
+palmetto-components,fix(ThemeProvider): export theme provider,https://github.com/palmetto/palmetto-components/pull/612,2021-10-07T20:58:46Z,2021-10-07T21:14:26Z,2,2,MERGED
+palmetto-components,feat(Analytics): Fullstory addon,https://github.com/palmetto/palmetto-components/pull/611,2021-10-07T20:43:33Z,2021-10-07T20:58:06Z,2,2,MERGED
+palmetto-components,feat(ThemeProvider): Theme provider utility component,https://github.com/palmetto/palmetto-components/pull/609,2021-10-07T18:05:16Z,2021-10-07T19:37:26Z,2,3,MERGED
+palmetto-components,Responsive radio,https://github.com/palmetto/palmetto-components/pull/607,2021-09-30T20:50:56Z,2021-10-04T17:21:51Z,6,7,MERGED
+palmetto-components,fix: export font-family css var design tokens and correct documentation,https://github.com/palmetto/palmetto-components/pull/606,2021-09-24T00:29:04Z,2021-09-24T17:45:57Z,3,1,MERGED
+palmetto-components,feat(Checkbox): Indeterminate checkbox,https://github.com/palmetto/palmetto-components/pull/605,2021-09-23T20:11:14Z,2021-09-23T20:35:40Z,3,4,MERGED
+palmetto-components,computed label margin for checkbox input,https://github.com/palmetto/palmetto-components/pull/604,2021-09-22T18:07:53Z,2021-09-22T19:41:28Z,2,2,MERGED
+palmetto-components,feat(Checkbox): responsive checkbox sizes,https://github.com/palmetto/palmetto-components/pull/603,2021-09-22T15:32:57Z,2021-09-22T17:47:58Z,4,2,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.53.3,https://github.com/palmetto/palmetto-components/pull/602,2021-09-21T15:41:23Z,2021-09-21T16:04:22Z,1,6,MERGED
+palmetto-components,fix(Button): add white button variant,https://github.com/palmetto/palmetto-components/pull/598,2021-09-15T18:29:55Z,2022-02-16T22:29:05Z,11,13,MERGED
+palmetto-components,fix(OptionTile): issue with childGap on option tile,https://github.com/palmetto/palmetto-components/pull/596,2021-09-15T18:07:40Z,2021-09-16T14:05:05Z,3,2,MERGED
+palmetto-components,fix(Table): table refactor to improve custom styling.,https://github.com/palmetto/palmetto-components/pull/594,2021-08-30T18:00:48Z,2021-08-30T19:12:24Z,4,5,MERGED
+palmetto-components,fix(TabsSlider): wrapping resize observer in useEffect to avoid SSR error.,https://github.com/palmetto/palmetto-components/pull/591,2021-08-25T17:46:08Z,2021-08-25T18:07:14Z,2,1,MERGED
+palmetto-components,Updated palmetto design tokens to v0.50.0,https://github.com/palmetto/palmetto-components/pull/590,2021-08-25T14:32:25Z,2021-08-25T14:52:13Z,2,5,MERGED
+palmetto-components,fix(chromatic): shortening delay for toast visual tests,https://github.com/palmetto/palmetto-components/pull/589,2021-08-24T20:19:16Z,2021-08-25T16:20:57Z,2,2,MERGED
+palmetto-components,updated PR template,https://github.com/palmetto/palmetto-components/pull/588,2021-08-24T17:28:59Z,2021-08-24T17:49:05Z,2,1,MERGED
+palmetto-components,fix(TabsSlider): fixing visual tests for tabsslider,https://github.com/palmetto/palmetto-components/pull/572,2021-08-19T14:53:07Z,2021-08-19T17:17:11Z,2,2,MERGED
+palmetto-components,ci(code-scan): Add CodeQL for GitHub Security,https://github.com/palmetto/palmetto-components/pull/571,2021-08-19T14:53:05Z,2021-08-19T15:34:24Z,2,1,MERGED
+palmetto-components,fix(TabsSlider): move to element resize observer,https://github.com/palmetto/palmetto-components/pull/569,2021-08-18T17:35:18Z,2021-08-18T18:51:00Z,2,4,MERGED
+palmetto-components,fix(deps): add uuid as dependency,https://github.com/palmetto/palmetto-components/pull/568,2021-08-18T14:37:22Z,2021-08-18T14:43:44Z,2,1,MERGED
+palmetto-components,fix(Modal): modal-tests,https://github.com/palmetto/palmetto-components/pull/565,2021-08-17T14:37:03Z,2021-08-17T14:48:40Z,3,2,MERGED
+palmetto-components,fix(DateInput): removing top-level onBlur from DateInput,https://github.com/palmetto/palmetto-components/pull/564,2021-08-16T19:48:54Z,2021-08-16T20:13:58Z,3,4,MERGED
+palmetto-components,add size + responsive size to TextareaInput,https://github.com/palmetto/palmetto-components/pull/563,2021-08-16T16:16:30Z,2021-08-16T19:15:24Z,9,2,MERGED
+palmetto-components,fix(Modal): add flag to avoid reach CSS warning,https://github.com/palmetto/palmetto-components/pull/561,2021-08-12T20:33:45Z,2021-08-12T20:39:05Z,3,1,MERGED
+palmetto-components,fix(DateInput): Date picker close on selection,https://github.com/palmetto/palmetto-components/pull/560,2021-08-12T19:57:33Z,2021-08-12T20:17:54Z,4,3,MERGED
+palmetto-components,Toggle responsive size,https://github.com/palmetto/palmetto-components/pull/559,2021-08-12T16:23:16Z,2021-08-12T17:41:40Z,4,6,MERGED
+palmetto-components,Select input responsive size,https://github.com/palmetto/palmetto-components/pull/558,2021-08-12T14:01:29Z,2021-08-12T14:46:13Z,4,4,MERGED
+palmetto-components,fix: disabled text input text color,https://github.com/palmetto/palmetto-components/pull/557,2021-08-11T23:58:07Z,2021-08-12T00:09:14Z,2,1,MERGED
+palmetto-components,adding responsive sizes to select input native,https://github.com/palmetto/palmetto-components/pull/556,2021-08-11T20:19:26Z,2021-08-11T20:26:49Z,4,1,MERGED
+palmetto-components,feat(types): exporting relevant types in root,https://github.com/palmetto/palmetto-components/pull/554,2021-08-11T17:05:26Z,2021-08-11T17:15:27Z,2,2,MERGED
+palmetto-components,Add target attribute if one is passed as a prop,https://github.com/palmetto/palmetto-components/pull/553,2021-08-11T00:16:45Z,2021-08-11T16:06:15Z,3,4,MERGED
+palmetto-components,build(TS): correct exclude statements,https://github.com/palmetto/palmetto-components/pull/552,2021-08-10T19:50:54Z,2021-08-10T20:47:55Z,2,1,MERGED
+palmetto-components,fix(Details): only prevent default when toggling open panel,https://github.com/palmetto/palmetto-components/pull/551,2021-08-05T20:02:28Z,2021-08-05T20:19:29Z,2,3,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.49.1,https://github.com/palmetto/palmetto-components/pull/550,2021-08-05T20:00:54Z,2021-08-05T20:09:04Z,2,1,MERGED
+palmetto-components,fix(SelectInputNative): adding extra padding to prevent arrow overlap,https://github.com/palmetto/palmetto-components/pull/549,2021-08-05T19:15:22Z,2021-08-05T19:37:59Z,2,1,MERGED
+palmetto-components,ci(GithubAction): Migrating off of Ubuntu 16.04.,https://github.com/palmetto/palmetto-components/pull/548,2021-08-05T16:22:23Z,2021-08-05T16:53:47Z,2,2,MERGED
+palmetto-components,Formik dep,https://github.com/palmetto/palmetto-components/pull/547,2021-08-03T20:27:44Z,2021-08-03T20:34:07Z,2,3,MERGED
+palmetto-components,"Revert ""FormikForm: add formik as a dependency to use getIn method.""",https://github.com/palmetto/palmetto-components/pull/546,2021-08-03T20:25:57Z,2021-08-03T20:26:04Z,1,1,MERGED
+palmetto-components,FormikForm: add formik as a dependency to use getIn method.,https://github.com/palmetto/palmetto-components/pull/545,2021-08-03T20:18:00Z,2021-08-03T20:25:32Z,2,2,MERGED
+palmetto-components,Set background color to transparent when textarea is disabled,https://github.com/palmetto/palmetto-components/pull/544,2021-08-03T14:52:22Z,2021-08-03T16:13:06Z,3,3,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.58.0,https://github.com/palmetto/palmetto-components/pull/659,2021-12-30T21:58:41Z,2021-12-30T22:04:19Z,2,1,MERGED
+palmetto-components,fix(FileUpload): Add case to storybook where there is no text for the FileUpload button,https://github.com/palmetto/palmetto-components/pull/657,2021-12-29T20:48:53Z,2021-12-29T21:35:38Z,2,2,MERGED
+palmetto-components,fix(deps): update chromatic cli to 6.0.5,https://github.com/palmetto/palmetto-components/pull/655,2021-12-27T18:15:11Z,2021-12-27T18:19:57Z,2,1,MERGED
+palmetto-components,feat(tokens): new icon in design-tokens,https://github.com/palmetto/palmetto-components/pull/654,2021-12-23T20:31:09Z,2021-12-27T18:24:20Z,2,2,MERGED
+palmetto-components,fix(OptionTile): Option tile icons,https://github.com/palmetto/palmetto-components/pull/653,2021-12-22T16:33:51Z,2021-12-22T19:29:14Z,3,6,MERGED
+palmetto-components,fix(FileUpload): File upload click propagation,https://github.com/palmetto/palmetto-components/pull/652,2021-12-16T18:59:20Z,2021-12-16T19:43:29Z,2,2,MERGED
+palmetto-components,fix: [534] fix Webpack warning on named imports from json files,https://github.com/palmetto/palmetto-components/pull/650,2021-12-15T17:21:52Z,2022-01-04T16:44:59Z,6,7,MERGED
+palmetto-components,fix(build): fixing nullish coalsecing error,https://github.com/palmetto/palmetto-components/pull/649,2021-12-14T16:26:51Z,2021-12-14T16:35:23Z,2,1,MERGED
+palmetto-components,feat(Table): Support ReactNode as Column heading,https://github.com/palmetto/palmetto-components/pull/648,2021-12-13T20:26:27Z,2021-12-14T16:02:54Z,2,2,MERGED
+palmetto-components,feat(Tabs): Ability to make tabs anchor elements.,https://github.com/palmetto/palmetto-components/pull/646,2021-12-08T20:34:22Z,2021-12-09T14:26:44Z,3,4,MERGED
+palmetto-components,fix(ci): specify node version in all jobs,https://github.com/palmetto/palmetto-components/pull/645,2021-12-06T22:01:37Z,2021-12-06T22:46:43Z,2,1,MERGED
+palmetto-components,feat(FileUpload): Add primary variant,https://github.com/palmetto/palmetto-components/pull/644,2021-12-06T21:10:50Z,2021-12-07T16:37:09Z,2,4,MERGED
+palmetto-components,docs(createComponent): correct border width prop name,https://github.com/palmetto/palmetto-components/pull/642,2021-11-18T15:46:10Z,2021-11-18T15:53:45Z,2,1,MERGED
+palmetto-components,feat(storybook): storybook to 6.3,https://github.com/palmetto/palmetto-components/pull/641,2021-11-09T16:15:07Z,2021-11-09T16:23:11Z,2,2,MERGED
+palmetto-components,fix function to use correct breakpoint start,https://github.com/palmetto/palmetto-components/pull/640,2021-11-08T20:46:24Z,2021-11-08T20:59:08Z,2,1,MERGED
+palmetto-components,feat(utilities): Create component,https://github.com/palmetto/palmetto-components/pull/639,2021-11-08T20:43:49Z,2021-11-09T14:18:00Z,2,3,MERGED
+palmetto-components,docs(codesandbox): codesandbox stories,https://github.com/palmetto/palmetto-components/pull/638,2021-11-04T15:22:59Z,2021-11-04T15:40:35Z,2,2,MERGED
+palmetto-components,docs(MediaModal): add Codesandbox for MediaModal,https://github.com/palmetto/palmetto-components/pull/744,2022-03-30T00:14:39Z,2022-03-30T18:25:29Z,2,2,MERGED
+palmetto-components,feat: [741] datepicker theme tokens,https://github.com/palmetto/palmetto-components/pull/743,2022-03-29T16:13:26Z,2022-03-30T17:57:28Z,4,2,MERGED
+palmetto-components,"feat(Icon): adds ""camera"" icon",https://github.com/palmetto/palmetto-components/pull/742,2022-03-28T22:00:12Z,2022-03-28T22:07:54Z,2,1,MERGED
+palmetto-components,feat: [738] option tile theme tokens,https://github.com/palmetto/palmetto-components/pull/740,2022-03-28T17:05:26Z,2022-03-28T18:05:46Z,4,3,MERGED
+palmetto-components,feat(Card): enable one-off styling through BoxProps while maintaining theming,https://github.com/palmetto/palmetto-components/pull/737,2022-03-22T18:04:38Z,2022-03-23T20:51:11Z,14,17,MERGED
+palmetto-components,feat(Card): enable Card styling customization through props versus theming,https://github.com/palmetto/palmetto-components/pull/736,2022-03-21T23:30:53Z,2022-03-22T17:56:15Z,3,8,CLOSED
+palmetto-components,fix(storybook): @storybook/addon-docs/block import warning,https://github.com/palmetto/palmetto-components/pull/735,2022-03-21T21:44:14Z,2022-03-21T22:09:50Z,2,1,MERGED
+palmetto-components,"docs: create Foundation category, and document ux design principles",https://github.com/palmetto/palmetto-components/pull/734,2022-03-21T20:25:46Z,2022-03-21T20:59:32Z,3,1,MERGED
+palmetto-components,Fix: [732] Implement Stricter ButtonProps,https://github.com/palmetto/palmetto-components/pull/733,2022-03-15T21:39:28Z,2022-03-23T15:51:46Z,15,5,MERGED
+palmetto-components,fix: [730] Fix Pagination display of ellipsis for no pages,https://github.com/palmetto/palmetto-components/pull/731,2022-03-15T20:03:10Z,2022-03-15T21:05:47Z,2,2,MERGED
+palmetto-components,feat(MediaModal): fix warning in documentation,https://github.com/palmetto/palmetto-components/pull/729,2022-03-15T19:08:12Z,2022-03-15T19:15:27Z,2,1,MERGED
+palmetto-components,MediaModal component,https://github.com/palmetto/palmetto-components/pull/728,2022-03-14T19:53:00Z,2022-03-15T18:57:21Z,7,22,MERGED
+palmetto-components,docs: spelling,https://github.com/palmetto/palmetto-components/pull/726,2022-03-10T19:32:05Z,2022-03-10T19:40:53Z,1,1,MERGED
+palmetto-components,Media modal,https://github.com/palmetto/palmetto-components/pull/725,2022-03-10T19:17:09Z,2022-03-14T19:30:16Z,0,15,CLOSED
+palmetto-components,Media modal,https://github.com/palmetto/palmetto-components/pull/724,2022-03-08T23:12:56Z,2022-03-10T01:38:24Z,6,6,CLOSED
+palmetto-components,fix(Icon): copy-document icon,https://github.com/palmetto/palmetto-components/pull/723,2022-03-04T01:38:06Z,2022-03-04T01:44:50Z,3,1,MERGED
+palmetto-components,Docs design tokens,https://github.com/palmetto/palmetto-components/pull/722,2022-03-03T18:34:45Z,2022-03-03T18:43:15Z,2,7,MERGED
+palmetto-components,feat(Colors): updated brand colors,https://github.com/palmetto/palmetto-components/pull/721,2022-03-02T19:07:29Z,2022-03-02T20:19:15Z,3,2,MERGED
+palmetto-components,feat: force a beta release,https://github.com/palmetto/palmetto-components/pull/720,2022-03-02T00:32:57Z,2022-03-02T00:38:08Z,1,1,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.61.0-beta.5,https://github.com/palmetto/palmetto-components/pull/719,2022-03-01T23:31:38Z,2022-03-01T23:42:05Z,1,1,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.61.0-beta.5,https://github.com/palmetto/palmetto-components/pull/718,2022-03-01T23:31:09Z,2022-03-01T23:31:23Z,0,1,CLOSED
+palmetto-components,chore: get latest from main branch,https://github.com/palmetto/palmetto-components/pull/717,2022-03-01T22:36:55Z,2022-03-01T22:38:21Z,0,40,CLOSED
+palmetto-components,docs(SelectInput): update copy,https://github.com/palmetto/palmetto-components/pull/716,2022-03-01T18:54:26Z,2022-03-01T19:58:22Z,1,1,CLOSED
+palmetto-components,chored(deps): palmetto-design-tokens 0.61.2,https://github.com/palmetto/palmetto-components/pull/715,2022-03-01T18:35:31Z,2022-03-01T18:41:38Z,3,1,MERGED
+palmetto-components,feat: Update beta,https://github.com/palmetto/palmetto-components/pull/714,2022-03-01T00:29:39Z,2022-03-01T00:41:57Z,0,42,MERGED
+palmetto-components,fix: Update beta,https://github.com/palmetto/palmetto-components/pull/713,2022-02-28T23:29:51Z,2022-03-01T00:04:24Z,1,1,MERGED
+palmetto-components,fix(Button): vertically center button contents,https://github.com/palmetto/palmetto-components/pull/712,2022-02-28T18:54:26Z,2022-02-28T19:20:45Z,3,4,MERGED
+palmetto-components,fix(FileUpload): make helpText block level item for mobile,https://github.com/palmetto/palmetto-components/pull/711,2022-02-25T00:07:32Z,2022-02-25T01:10:54Z,2,2,MERGED
+palmetto-components,test(Button): add focus state visual tests,https://github.com/palmetto/palmetto-components/pull/710,2022-02-24T21:24:04Z,2022-02-24T23:47:31Z,3,5,MERGED
+palmetto-components,feat(Table): theming tokens,https://github.com/palmetto/palmetto-components/pull/709,2022-02-24T19:00:10Z,2022-02-24T21:05:33Z,3,8,MERGED
+palmetto-components,feat(Card): theme tokens,https://github.com/palmetto/palmetto-components/pull/708,2022-02-23T22:53:46Z,2022-02-24T00:01:54Z,3,2,MERGED
+palmetto-components,feat(Modal): theme tokens,https://github.com/palmetto/palmetto-components/pull/707,2022-02-23T22:11:12Z,2022-02-23T22:22:33Z,3,1,MERGED
+palmetto-components,feat(Toast): theme tokens,https://github.com/palmetto/palmetto-components/pull/706,2022-02-23T19:57:38Z,2022-02-23T21:02:03Z,3,2,MERGED
+palmetto-components,Theming Documentation,https://github.com/palmetto/palmetto-components/pull/704,2022-02-17T18:01:17Z,2022-02-17T21:33:55Z,5,14,MERGED
+palmetto-components,feat(Modal): Render Modal in custom portal target.,https://github.com/palmetto/palmetto-components/pull/702,2022-02-16T17:53:29Z,2022-02-16T19:06:22Z,3,3,MERGED
+palmetto-components,fix[Popover]: Support custom classes,https://github.com/palmetto/palmetto-components/pull/699,2022-02-15T03:15:17Z,2022-02-15T18:15:13Z,3,1,MERGED
+palmetto-components,docs: move ThemeProvider and ResponsiveProvider to Providers category folder,https://github.com/palmetto/palmetto-components/pull/696,2022-02-10T23:38:16Z,2022-02-11T00:04:43Z,2,2,MERGED
+palmetto-components,feat(Badge): theme tokens and responsive sizing,https://github.com/palmetto/palmetto-components/pull/694,2022-02-10T21:47:45Z,2022-02-10T23:32:25Z,3,3,MERGED
+palmetto-components,feat(TextInput): Support specifying min and max on input,https://github.com/palmetto/palmetto-components/pull/693,2022-02-10T20:03:14Z,2022-02-10T20:49:09Z,4,1,CLOSED
+palmetto-components,feat(CategoryFilter): theme tokens,https://github.com/palmetto/palmetto-components/pull/692,2022-02-09T23:55:30Z,2022-02-10T00:26:10Z,4,3,MERGED
+palmetto-components,feat(tokens): updated tokens,https://github.com/palmetto/palmetto-components/pull/691,2022-02-09T15:46:54Z,2022-02-09T16:03:08Z,2,8,MERGED
+palmetto-components,feat(Button): theme tokens,https://github.com/palmetto/palmetto-components/pull/690,2022-02-09T02:16:44Z,2022-02-10T00:48:52Z,3,11,MERGED
+palmetto-components,feat(TextLink): theme tokens,https://github.com/palmetto/palmetto-components/pull/689,2022-02-09T01:16:11Z,2022-02-09T01:29:19Z,3,2,MERGED
+palmetto-components,feat(Heading): document and enable theming,https://github.com/palmetto/palmetto-components/pull/688,2022-02-09T00:39:52Z,2022-02-09T01:05:45Z,3,3,MERGED
+palmetto-components,feat: new greens,https://github.com/palmetto/palmetto-components/pull/687,2022-02-08T19:08:13Z,2022-02-08T19:21:04Z,1,1,MERGED
+palmetto-components,chore(deps): palmetto-design-tokens 0.60.4,https://github.com/palmetto/palmetto-components/pull/685,2022-02-08T01:05:14Z,2022-02-08T01:09:45Z,2,1,MERGED
+palmetto-components,fix: update with expanded border radius options,https://github.com/palmetto/palmetto-components/pull/684,2022-02-08T00:32:10Z,2022-02-08T01:55:53Z,1,3,MERGED
+palmetto-components,test: update phone breakpoint to 350px,https://github.com/palmetto/palmetto-components/pull/683,2022-02-07T18:24:01Z,2022-02-07T20:40:25Z,2,2,MERGED
+palmetto-components,feat(Theming): refactor forms tokens to use fallback methodology,https://github.com/palmetto/palmetto-components/pull/682,2022-02-07T16:31:54Z,2022-02-23T00:57:42Z,4,39,MERGED
+palmetto-components,refactoring alert with fallback tokens,https://github.com/palmetto/palmetto-components/pull/681,2022-02-07T15:39:50Z,2022-02-07T15:52:57Z,2,1,MERGED
+palmetto-components,docs(Theming): Theming docs,https://github.com/palmetto/palmetto-components/pull/680,2022-02-02T21:59:58Z,2022-02-02T22:16:33Z,2,3,MERGED
+palmetto-components,Updated tokens,https://github.com/palmetto/palmetto-components/pull/679,2022-02-02T17:31:21Z,2022-02-02T23:20:26Z,2,6,MERGED
+palmetto-components,feat(Button): responsive button,https://github.com/palmetto/palmetto-components/pull/678,2022-02-01T18:20:52Z,2022-02-01T20:56:17Z,2,3,MERGED
+palmetto-components,feat(forms): make form control font family themable,https://github.com/palmetto/palmetto-components/pull/677,2022-02-01T15:59:38Z,2022-02-01T16:14:32Z,2,3,MERGED
+palmetto-components,feat(Spinner): Themable spinner,https://github.com/palmetto/palmetto-components/pull/676,2022-02-01T15:38:48Z,2022-02-01T15:52:35Z,2,3,MERGED
+palmetto-components,fix(useBreakpoint): Use useLayoutEffect on client-side environments.,https://github.com/palmetto/palmetto-components/pull/675,2022-01-26T22:23:43Z,2022-01-26T23:03:24Z,2,5,MERGED
+palmetto-components,fix(modal): prevent full screen modal from overflowing beyond safe viewport area,https://github.com/palmetto/palmetto-components/pull/673,2022-01-24T23:05:37Z,2022-01-25T15:44:36Z,3,2,MERGED
+palmetto-components,feat(Alert): refactoring alert with variables,https://github.com/palmetto/palmetto-components/pull/671,2022-01-21T19:55:57Z,2022-01-21T20:25:40Z,2,3,MERGED
+palmetto-components,feat(tokens): updated icons,https://github.com/palmetto/palmetto-components/pull/670,2022-01-21T16:24:58Z,2022-01-24T18:55:32Z,2,2,MERGED
+palmetto-components,feat(Heading): improve heading variables,https://github.com/palmetto/palmetto-components/pull/669,2022-01-19T19:16:48Z,2022-01-19T19:22:49Z,2,2,MERGED
+palmetto-components,feat(tokens): update tokens package,https://github.com/palmetto/palmetto-components/pull/667,2022-01-19T17:27:31Z,2022-01-19T17:44:30Z,2,1,MERGED
+palmetto-components,feat(theming ): Scoped component variables,https://github.com/palmetto/palmetto-components/pull/664,2022-01-13T15:07:38Z,2022-01-13T18:09:50Z,2,6,MERGED
+palmetto-components,fix(RadioInput): don't apply width and height to all label children,https://github.com/palmetto/palmetto-components/pull/663,2022-01-12T23:07:52Z,2022-01-13T15:58:52Z,5,2,MERGED
+palmetto-components,feat(deps/tokens): update tokens version,https://github.com/palmetto/palmetto-components/pull/661,2022-01-12T17:14:30Z,2022-01-19T17:26:23Z,1,1,CLOSED
+palmetto-components,feat(CategoryFilter): add Category filter component,https://github.com/palmetto/palmetto-components/pull/660,2022-01-04T17:54:17Z,2022-01-06T21:52:17Z,5,19,MERGED
+palmetto-components,"fix: OptionTile, SelectInput, SelectInputNative, TextareaInput focus states",https://github.com/palmetto/palmetto-components/pull/782,2022-05-13T00:34:56Z,2022-05-13T00:40:26Z,1,1,MERGED
+palmetto-components,fix(TextInput): visual focus state,https://github.com/palmetto/palmetto-components/pull/781,2022-05-12T23:19:48Z,2022-05-12T23:49:40Z,1,3,MERGED
+palmetto-components,fix(RadioGroup): add visual focus state,https://github.com/palmetto/palmetto-components/pull/780,2022-05-12T18:28:52Z,2022-05-12T19:41:47Z,2,2,MERGED
+palmetto-components,fix(Checkbox): add visual focus state,https://github.com/palmetto/palmetto-components/pull/778,2022-05-12T15:12:48Z,2022-05-12T15:42:40Z,2,4,MERGED
+palmetto-components,fix(Button): html type property getting set to boolean value,https://github.com/palmetto/palmetto-components/pull/777,2022-05-12T00:28:28Z,2022-05-12T14:24:10Z,2,3,MERGED
+palmetto-components,Fix/duration export,https://github.com/palmetto/palmetto-components/pull/776,2022-05-11T21:42:09Z,2022-05-11T21:47:15Z,1,3,MERGED
+palmetto-components,fix: two bugs in Duration Component,https://github.com/palmetto/palmetto-components/pull/775,2022-05-11T21:32:39Z,2022-05-11T21:38:59Z,1,1,MERGED
+palmetto-components,fix(TextInput): focus states visual stories,https://github.com/palmetto/palmetto-components/pull/774,2022-05-11T21:31:40Z,2022-05-11T22:58:37Z,1,6,MERGED
+palmetto-components,fix: add explicity permission keys for release action,https://github.com/palmetto/palmetto-components/pull/773,2022-05-11T20:42:04Z,2022-05-11T20:53:30Z,1,1,MERGED
+palmetto-components,fix(Badge): allow message prop to accept nodes in addition to strings,https://github.com/palmetto/palmetto-components/pull/772,2022-05-11T19:10:07Z,2022-05-11T19:32:30Z,1,1,MERGED
+palmetto-components,feat: add Duration component,https://github.com/palmetto/palmetto-components/pull/771,2022-05-09T03:12:38Z,2022-05-11T20:10:10Z,7,7,MERGED
+palmetto-components,fix(Badge): set line-height to prevent height from increasing due to …,https://github.com/palmetto/palmetto-components/pull/770,2022-05-06T04:18:14Z,2022-05-06T04:24:21Z,2,1,MERGED
+palmetto-components,fix(DateInput): Datepicker popover max date,https://github.com/palmetto/palmetto-components/pull/767,2022-04-26T19:38:10Z,2022-04-27T14:46:49Z,2,6,MERGED
+palmetto-components,Fix Typescript 4,https://github.com/palmetto/palmetto-components/pull/763,2022-04-20T17:01:06Z,2022-04-20T19:19:47Z,3,9,MERGED
+palmetto-components,fix(MediaModal): style focus state for close button,https://github.com/palmetto/palmetto-components/pull/762,2022-04-19T17:01:10Z,2022-04-19T17:18:36Z,3,1,MERGED
+palmetto-components,fix(Modal): style focus state for close button,https://github.com/palmetto/palmetto-components/pull/761,2022-04-19T15:50:53Z,2022-04-19T16:15:44Z,3,2,MERGED
+palmetto-components,fix(Alert): lighten border color to 200 color tokenchange border to 200 color,https://github.com/palmetto/palmetto-components/pull/760,2022-04-18T18:27:47Z,2022-04-18T20:20:12Z,3,2,MERGED
+palmetto-components,fix(Badge): lighten border color to 200 color token,https://github.com/palmetto/palmetto-components/pull/759,2022-04-18T18:03:51Z,2022-04-18T19:58:56Z,3,1,MERGED
+palmetto-components,fix: storybook import add-ons/blocks console warning,https://github.com/palmetto/palmetto-components/pull/758,2022-04-18T16:03:24Z,2022-04-18T16:09:59Z,2,1,MERGED
+palmetto-components,fix(Badge): add 300 color border,https://github.com/palmetto/palmetto-components/pull/757,2022-04-14T23:38:06Z,2022-04-14T23:52:16Z,2,3,MERGED
+palmetto-components,fix(Alert): add 300 color border,https://github.com/palmetto/palmetto-components/pull/756,2022-04-14T23:07:30Z,2022-04-14T23:27:09Z,2,2,MERGED
+palmetto-components,fix(Toggle): darken toggle error background color to 500,https://github.com/palmetto/palmetto-components/pull/755,2022-04-14T22:43:22Z,2022-04-14T23:03:01Z,3,1,MERGED
+palmetto-components,feat: updated design tokens,https://github.com/palmetto/palmetto-components/pull/753,2022-04-13T14:26:46Z,2022-04-13T15:12:44Z,2,1,MERGED
+palmetto-components,feat: new Drawer UI component,https://github.com/palmetto/palmetto-components/pull/752,2022-04-11T22:13:27Z,2022-04-21T18:19:22Z,20,42,MERGED
+palmetto-components,fix: remove unused webpack dependencies,https://github.com/palmetto/palmetto-components/pull/751,2022-04-11T18:17:32Z,2022-04-11T18:28:10Z,3,3,MERGED
+palmetto-components,fix(Tabs): scroll selected Tab.Item into view,https://github.com/palmetto/palmetto-components/pull/750,2022-04-07T22:14:15Z,2022-04-14T16:08:47Z,8,13,MERGED
+palmetto-components,feat(MediaModal): add closeButton prop to render a visible close button,https://github.com/palmetto/palmetto-components/pull/749,2022-04-07T15:20:28Z,2022-04-07T15:51:58Z,4,2,MERGED
+palmetto-components,fix(Button): default to button type if attribute not passed and is actual button,https://github.com/palmetto/palmetto-components/pull/747,2022-04-05T20:06:58Z,2022-04-05T20:44:18Z,2,5,MERGED
+palmetto-components,fix(Button): remove custom button type,https://github.com/palmetto/palmetto-components/pull/746,2022-04-05T16:41:18Z,2022-04-05T16:58:29Z,2,3,MERGED
+palmetto-components,fix: improve table theming,https://github.com/palmetto/palmetto-components/pull/745,2022-04-04T15:45:39Z,2022-04-04T15:51:16Z,2,1,MERGED
+palmetto-components,fix(Drawer): prevent top/bottom placement drawers from being taller then viewport,https://github.com/palmetto/palmetto-components/pull/793,2022-06-28T23:18:46Z,2022-06-28T23:25:15Z,2,1,MERGED
+palmetto-components,build: publish to github packages,https://github.com/palmetto/palmetto-components/pull/792,2022-06-25T14:09:00Z,2022-06-25T14:13:34Z,1,1,MERGED
+palmetto-components,build: stop publishing to github packages,https://github.com/palmetto/palmetto-components/pull/791,2022-06-24T22:38:14Z,2022-06-24T22:38:21Z,0,1,MERGED
+palmetto-components,chore: publish to GitHub Packages,https://github.com/palmetto/palmetto-components/pull/790,2022-06-24T21:20:25Z,2022-06-24T21:39:16Z,2,1,MERGED
+palmetto-components,fix(Table): apply bg color to Table rather then cells,https://github.com/palmetto/palmetto-components/pull/788,2022-06-14T00:15:21Z,2022-06-14T01:12:45Z,1,5,MERGED
+palmetto-components,feat: add support for table cell class names to be generated via a function,https://github.com/palmetto/palmetto-components/pull/785,2022-06-03T15:42:56Z,2022-06-03T15:51:45Z,1,1,MERGED
+palmetto-components,feat(FileUpload): allow icon to be customized,https://github.com/palmetto/palmetto-components/pull/807,2022-09-30T20:51:49Z,2022-09-30T21:16:15Z,1,3,MERGED
+palmetto-components,feat(FileUpload): add white and outline variants,https://github.com/palmetto/palmetto-components/pull/806,2022-09-28T00:32:32Z,2022-09-28T15:25:27Z,1,1,MERGED
+palmetto-components,docs: figma stories add on,https://github.com/palmetto/palmetto-components/pull/804,2022-08-23T16:08:45Z,2022-08-23T19:40:58Z,2,3,MERGED
+palmetto-components,fix(Accordion): allow setting of vertical alignment with caret,https://github.com/palmetto/palmetto-components/pull/803,2022-08-18T22:11:41Z,2022-08-18T22:29:04Z,2,1,MERGED
+palmetto-components,build(deps): storybook/react 6.3.12 to 6.5.10,https://github.com/palmetto/palmetto-components/pull/802,2022-08-18T21:05:15Z,2022-08-18T21:30:27Z,0,2,MERGED
+palmetto-components,fix(OptionTile): prevent line-height from being accidentally overridden by parent,https://github.com/palmetto/palmetto-components/pull/801,2022-08-15T16:42:14Z,2022-08-15T17:09:08Z,1,3,MERGED
+palmetto-components,"feat(Form Inputs): map isRequired to ""required"" html attribute, allow required indicator to be customized",https://github.com/palmetto/palmetto-components/pull/799,2022-08-10T18:20:05Z,2022-08-18T18:55:18Z,2,14,MERGED
+palmetto-components,feat: Remove asterisk from required input labels,https://github.com/palmetto/palmetto-components/pull/798,2022-08-09T21:43:18Z,2022-08-09T22:07:58Z,1,5,MERGED
+palmetto-components,chore(deps): pdt 0.65.0,https://github.com/palmetto/palmetto-components/pull/797,2022-08-05T15:29:22Z,2022-08-08T21:24:45Z,1,3,CLOSED
+palmetto-components,chore(deps): palmetto-design-tokens 0.65.0,https://github.com/palmetto/palmetto-components/pull/796,2022-08-05T15:11:37Z,2022-08-05T15:24:22Z,1,1,MERGED
+palmetto-components,Build/storybook 6.5.15,https://github.com/palmetto/palmetto-components/pull/816,2022-12-28T19:58:16Z,2022-12-28T20:15:13Z,1,6,MERGED
+palmetto-components,build(deps): babel package updates,https://github.com/palmetto/palmetto-components/pull/815,2022-12-28T01:22:55Z,2022-12-28T01:32:27Z,1,1,MERGED
+palmetto-components,build(deps): focus-trap-react 8.1.0 to 10.0.2,https://github.com/palmetto/palmetto-components/pull/814,2022-12-28T00:13:40Z,2022-12-28T01:06:21Z,0,1,CLOSED
+palmetto-components,"build(deps): popperjs, react-popper, classnames, date-fns",https://github.com/palmetto/palmetto-components/pull/813,2022-12-21T18:42:52Z,2022-12-27T20:32:25Z,1,1,MERGED
+palmetto-components,chore(deps): remove file-loader dependency,https://github.com/palmetto/palmetto-components/pull/812,2022-12-21T17:59:37Z,2022-12-21T18:05:45Z,1,1,MERGED
+palmetto-components,chore: react-select 3.1.0 to 4.3.1,https://github.com/palmetto/palmetto-components/pull/811,2022-12-15T01:56:31Z,2022-12-15T05:15:16Z,0,1,MERGED
+palmetto-components,react-select 3 to 4,https://github.com/palmetto/palmetto-components/pull/810,2022-12-15T01:53:12Z,2022-12-15T01:54:13Z,0,21,CLOSED
+palmetto-components,chore(deps): focus-trap-react 8.9.2 to 8.11.3,https://github.com/palmetto/palmetto-components/pull/821,2023-03-08T16:49:37Z,2023-03-08T16:57:25Z,1,1,MERGED
+palmetto-components,"feat(Icons): antenna, wifi, wifi-off",https://github.com/palmetto/palmetto-components/pull/819,2023-02-08T01:11:10Z,2023-02-08T01:17:12Z,1,1,MERGED
+palmetto-components,feat: useOpenClose hook,https://github.com/palmetto/palmetto-components/pull/817,2023-01-03T00:35:19Z,2023-01-06T20:10:58Z,3,10,MERGED
+palmetto-components,"build(deps): @storybook/addon-essentials@6.5.16, @storybook/addons@6.5.16, @storybook/react@6.5.16",https://github.com/palmetto/palmetto-components/pull/826,2023-05-05T22:56:29Z,2023-05-05T23:07:28Z,1,1,MERGED
+palmetto-components,build(deps): bump chromatic 6.0.5 to 6.17.4,https://github.com/palmetto/palmetto-components/pull/825,2023-05-05T20:18:36Z,2023-05-05T20:31:09Z,1,1,MERGED
+palmetto-components,feat (Toggle): error state for Toggles that are on,https://github.com/palmetto/palmetto-components/pull/824,2023-05-05T19:37:34Z,2023-05-05T19:55:21Z,3,2,MERGED
+palmetto-components,Allow OptionTileGroup options to have individual errors,https://github.com/palmetto/palmetto-components/pull/823,2023-04-20T00:16:22Z,2023-04-20T18:25:44Z,3,4,MERGED
+palmetto-components,"feat(Icon): heart, arrow-respond, subtract",https://github.com/palmetto/palmetto-components/pull/822,2023-04-04T17:21:31Z,2023-04-04T19:56:16Z,2,1,MERGED
+palmetto-components,test: consolidate visual regression test stories,https://github.com/palmetto/palmetto-components/pull/841,2023-07-24T18:23:21Z,2023-07-24T18:47:22Z,1,3,MERGED
+palmetto-components,feat(tokens): 6xl width,https://github.com/palmetto/palmetto-components/pull/840,2023-07-19T17:01:50Z,2023-07-19T17:58:37Z,1,2,MERGED
+palmetto-components,"feat: CheckboxInput, Modal, Toggle, Tabs design tokens and documentation",https://github.com/palmetto/palmetto-components/pull/836,2023-07-07T22:18:00Z,2023-07-08T00:47:59Z,1,10,MERGED
+palmetto-components,feat(Icon): arrows-maximize,https://github.com/palmetto/palmetto-components/pull/834,2023-07-06T18:10:28Z,2023-07-06T18:22:04Z,1,1,MERGED
+palmetto-components,feat(CategoryFilter): add font color tokens,https://github.com/palmetto/palmetto-components/pull/833,2023-06-30T19:28:35Z,2023-06-30T19:39:57Z,1,1,MERGED
+palmetto-components,"feat(Icon): skip, rewind",https://github.com/palmetto/palmetto-components/pull/832,2023-06-28T19:44:37Z,2023-06-28T20:11:26Z,1,2,MERGED
+palmetto-components,fix(RadioGroup): remove unused token,https://github.com/palmetto/palmetto-components/pull/831,2023-06-28T19:29:14Z,2023-06-28T19:39:25Z,1,1,MERGED
+palmetto-components,build(deps): palmetto-design-tokens 0.68.0 to 0.69.1,https://github.com/palmetto/palmetto-components/pull/830,2023-06-21T19:57:58Z,2023-06-21T20:12:04Z,1,1,MERGED
+palmetto-components,fix(RadioInput): prevent ancestors from impacting radio button position,https://github.com/palmetto/palmetto-components/pull/829,2023-06-14T16:34:04Z,2023-06-14T16:43:20Z,2,1,MERGED
+palmetto-components,use turbosnap,https://github.com/palmetto/palmetto-components/pull/828,2023-06-07T19:09:51Z,2023-06-07T20:16:22Z,1,1,MERGED
+palmetto-components,build(deps): bump palmetto-design-tokens from 0.67.0 to 0.68.0,https://github.com/palmetto/palmetto-components/pull/827,2023-06-01T18:16:43Z,2023-06-01T18:28:29Z,1,1,MERGED
+palmetto-components,"feat(Icons): solar-panels, electric vehicle, heat pump, window",https://github.com/palmetto/palmetto-components/pull/853,2023-10-27T20:07:28Z,2023-10-27T20:15:43Z,1,1,MERGED
+palmetto-components,"feat(Icon): bank, cheque, laptop-computer",https://github.com/palmetto/palmetto-components/pull/850,2023-10-13T19:44:31Z,2023-10-13T19:57:35Z,1,1,MERGED
+palmetto-components,feat: 1xl font size,https://github.com/palmetto/palmetto-components/pull/848,2023-10-04T20:21:26Z,2023-10-04T22:19:02Z,1,1,MERGED
+palmetto-components,ci: use chromatic turbosnap,https://github.com/palmetto/palmetto-components/pull/846,2023-08-30T16:26:56Z,2023-08-30T16:33:57Z,0,1,MERGED
+palmetto-components,fix: stylelint warning,https://github.com/palmetto/palmetto-components/pull/844,2023-08-29T19:59:02Z,2023-08-29T20:10:57Z,1,1,MERGED
+palmetto-components,Add isLegend prop to FormLabel,https://github.com/palmetto/palmetto-components/pull/843,2023-08-28T22:05:06Z,2023-10-20T16:41:22Z,1,4,CLOSED
+palmetto-components,ci: CodeQL actions from v1 to v2,https://github.com/palmetto/palmetto-components/pull/842,2023-08-26T01:35:09Z,2023-08-28T17:21:41Z,1,1,MERGED
+palmetto-components,"feat(Box): gap, row-gap, column-gap Box support",https://github.com/palmetto/palmetto-components/pull/857,2023-12-28T20:47:00Z,2024-01-02T18:07:27Z,1,7,MERGED
+palmetto-components,Create SECURITY.md,https://github.com/palmetto/palmetto-components/pull/856,2023-12-22T05:29:40Z,2023-12-22T05:32:34Z,0,1,CLOSED
+palmetto-components,feat(Icon): electricity-bolt,https://github.com/palmetto/palmetto-components/pull/854,2023-11-20T19:39:59Z,2023-11-20T19:45:36Z,1,1,MERGED
+palmetto-components,fix(SelectInputInset): rename SelectInputNativeInset to SelectInputInset,https://github.com/palmetto/palmetto-components/pull/883,2024-03-15T18:31:20Z,2024-03-15T18:38:55Z,0,1,MERGED
+palmetto-components,feat(SelectInputs): make dropdown indicator match icon,https://github.com/palmetto/palmetto-components/pull/882,2024-03-15T17:38:41Z,2024-03-15T18:03:19Z,0,2,MERGED
+palmetto-components,chore(deps): bump palmetto-design-tokens from 0.78.0 to 0.78.1,https://github.com/palmetto/palmetto-components/pull/881,2024-03-15T15:28:07Z,2024-03-15T15:34:26Z,0,1,MERGED
+palmetto-components,fix: rename floating inputs to inset,https://github.com/palmetto/palmetto-components/pull/880,2024-03-06T23:33:40Z,2024-03-07T00:08:21Z,0,3,MERGED
+palmetto-components,docs: floating and default input examples,https://github.com/palmetto/palmetto-components/pull/879,2024-03-06T22:45:24Z,2024-03-06T22:51:04Z,0,1,MERGED
+palmetto-components,feat(TextareaInputFloating): new component,https://github.com/palmetto/palmetto-components/pull/878,2024-03-06T18:15:37Z,2024-03-06T19:07:06Z,0,2,MERGED
+palmetto-components,feat(SelectInputNativeFloating): new component,https://github.com/palmetto/palmetto-components/pull/877,2024-03-05T00:42:36Z,2024-03-06T01:24:16Z,0,11,MERGED
+palmetto-components,Ux 627 selectinputnativefloating,https://github.com/palmetto/palmetto-components/pull/876,2024-03-05T00:42:17Z,2024-03-05T00:42:22Z,0,19,CLOSED
+palmetto-components,"fix(TextInputFloating): prefix/suffix focus styles, clear icon",https://github.com/palmetto/palmetto-components/pull/875,2024-03-01T00:56:51Z,2024-03-01T01:10:31Z,0,2,MERGED
+palmetto-components,feat(TextInputFloating): new floating label text input component ,https://github.com/palmetto/palmetto-components/pull/874,2024-02-28T00:03:19Z,2024-02-29T23:42:18Z,0,12,MERGED
+palmetto-components,feat(TextInputFloating): new floating label text input component,https://github.com/palmetto/palmetto-components/pull/873,2024-02-28T00:00:43Z,2024-02-28T00:02:30Z,0,16,CLOSED
+palmetto-components,fix(FormControls): specify width 100 instead of relying on flex auto,https://github.com/palmetto/palmetto-components/pull/870,2024-02-13T23:13:17Z,2024-02-13T23:31:25Z,0,1,MERGED
+palmetto-components,docs(Button): tone documentation,https://github.com/palmetto/palmetto-components/pull/869,2024-02-13T20:34:59Z,2024-02-13T20:52:38Z,0,2,MERGED
+palmetto-components,fix(Button): loading state icon color,https://github.com/palmetto/palmetto-components/pull/868,2024-02-13T17:13:17Z,2024-02-13T17:44:14Z,0,2,MERGED
+palmetto-components,feat(Button): tone prop,https://github.com/palmetto/palmetto-components/pull/867,2024-02-09T18:48:51Z,2024-02-09T20:05:18Z,0,6,MERGED
+palmetto-components,fix(Button): secondary neutral hover color,https://github.com/palmetto/palmetto-components/pull/866,2024-02-02T20:08:56Z,2024-02-02T20:16:01Z,0,1,MERGED
+palmetto-components,BREAKING CHANGE: New Buttons,https://github.com/palmetto/palmetto-components/pull/865,2024-02-02T01:12:22Z,2024-02-02T18:28:11Z,0,13,MERGED
+palmetto-components,fix(fonts): update font files and weights,https://github.com/palmetto/palmetto-components/pull/864,2024-01-26T23:23:38Z,2024-01-29T17:02:03Z,1,9,MERGED
+palmetto-components,build(deps): bump palmetto-design-tokens from 0.77.1 to 0.78.0,https://github.com/palmetto/palmetto-components/pull/863,2024-01-26T16:21:30Z,2024-01-26T16:28:53Z,1,1,MERGED
+palmetto-components,fix(Tabs): correct aria-setsize count when Tabs are conditionally rendered,https://github.com/palmetto/palmetto-components/pull/862,2024-01-16T18:07:17Z,2024-01-16T18:14:54Z,1,1,MERGED
+palmetto-components,ci: update from node 14 to 16,https://github.com/palmetto/palmetto-components/pull/861,2024-01-09T23:43:45Z,2024-01-09T23:54:22Z,1,2,MERGED
+palmetto-components,build(deps): remove redudant storybook add-ons,https://github.com/palmetto/palmetto-components/pull/860,2024-01-09T23:14:17Z,2024-01-09T23:37:13Z,1,2,MERGED
+palmetto-components,build(deps): bump palmetto-design-tokens from 0.77.0 to 0.77.1,https://github.com/palmetto/palmetto-components/pull/859,2024-01-09T17:29:06Z,2024-01-09T17:49:34Z,1,1,MERGED
+palmetto-components,docs(Pagination): add more controls to playground,https://github.com/palmetto/palmetto-components/pull/858,2024-01-03T00:33:36Z,2024-01-03T00:40:06Z,1,1,MERGED
+palmetto-components,BREAKING CHANGE: Dark mode support,https://github.com/palmetto/palmetto-components/pull/893,2024-05-08T00:16:00Z,2024-06-13T00:27:31Z,0,47,MERGED
+palmetto-components,test(Button): loading state spinner variant tests,https://github.com/palmetto/palmetto-components/pull/892,2024-04-30T17:55:56Z,2024-04-30T18:18:52Z,1,2,MERGED
+palmetto-components,"BREAKING CHANGE: New Buttons, Inset label form Inputs",https://github.com/palmetto/palmetto-components/pull/891,2024-04-30T15:53:45Z,2024-04-30T16:43:43Z,1,42,MERGED
+palmetto-components,bump(deps): package bumps,https://github.com/palmetto/palmetto-components/pull/890,2024-04-29T18:43:12Z,2024-04-29T19:33:41Z,0,5,MERGED
+palmetto-components,build(deps): package updates,https://github.com/palmetto/palmetto-components/pull/889,2024-04-29T16:46:43Z,2024-04-29T17:57:27Z,1,15,CLOSED
+palmetto-components,build: package updates,https://github.com/palmetto/palmetto-components/pull/888,2024-04-12T16:47:59Z,2024-04-12T17:05:44Z,0,3,MERGED
+palmetto-components,feat: update drop shadows,https://github.com/palmetto/palmetto-components/pull/886,2024-04-05T18:14:39Z,2024-04-05T18:21:22Z,0,2,MERGED
+palmetto-components,feat: update drop shadows ,https://github.com/palmetto/palmetto-components/pull/885,2024-04-05T17:30:39Z,2024-04-05T18:07:59Z,1,2,MERGED
+palmetto-components,BREAKING CHANGE: Dark mode support,https://github.com/palmetto/palmetto-components/pull/902,2024-07-17T19:22:18Z,2024-07-17T20:46:14Z,1,17,MERGED
+palmetto-components,BREAKING CHANGE: Dark Mode Support,https://github.com/palmetto/palmetto-components/pull/901,2024-07-17T19:17:35Z,2024-07-17T19:20:21Z,1,47,CLOSED
+palmetto-components,fix: more cleanup,https://github.com/palmetto/palmetto-components/pull/900,2024-07-15T23:32:10Z,2024-07-16T21:48:49Z,0,25,MERGED
+palmetto-components,Dark mode,https://github.com/palmetto/palmetto-components/pull/899,2024-07-15T19:53:40Z,2024-07-15T20:28:09Z,0,17,MERGED
+palmetto-components,Dark Mode,https://github.com/palmetto/palmetto-components/pull/898,2024-07-09T18:27:57Z,2024-07-09T21:15:51Z,1,18,CLOSED
+palmetto-components,fix(Table): dark mode loading state,https://github.com/palmetto/palmetto-components/pull/896,2024-06-17T17:54:45Z,2024-06-17T18:07:23Z,0,2,MERGED
+palmetto-components,fix: bump pdt,https://github.com/palmetto/palmetto-components/pull/895,2024-06-14T16:13:58Z,2024-06-14T16:32:41Z,0,2,MERGED
+palmetto-components,feat: Modal dark mode,https://github.com/palmetto/palmetto-components/pull/894,2024-06-13T16:25:19Z,2024-06-13T17:28:41Z,0,3,MERGED
+palmetto-components,feat(Table): Support for expandable rows,https://github.com/palmetto/palmetto-components/pull/910,2025-02-20T15:30:42Z,2025-03-06T20:12:53Z,0,3,MERGED

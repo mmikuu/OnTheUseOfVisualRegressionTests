@@ -1,0 +1,183 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+cvi,chore: add signal group link to readme,https://github.com/e-gov/cvi/pull/69,2023-03-31T18:34:18Z,2023-04-03T10:11:29Z,0,1,MERGED
+cvi,fix(styles): fixed styles import error into a project without Angular CDK,https://github.com/e-gov/cvi/pull/68,2023-03-31T16:16:23Z,2023-04-13T13:12:36Z,3,10,MERGED
+cvi,fix: private registry install,https://github.com/e-gov/cvi/pull/66,2023-03-31T13:27:34Z,2023-03-31T13:37:40Z,0,1,MERGED
+cvi,fix: storybook build and release,https://github.com/e-gov/cvi/pull/65,2023-03-31T08:39:30Z,2023-03-31T09:00:15Z,0,3,MERGED
+cvi,fix(docs): added quick installation instructions to Readme,https://github.com/e-gov/cvi/pull/64,2023-03-30T21:50:58Z,2023-03-31T07:28:03Z,0,2,MERGED
+cvi,fix: cross realm object access,https://github.com/e-gov/cvi/pull/63,2023-03-30T13:35:55Z,2023-03-30T13:48:59Z,0,4,MERGED
+cvi,feat(test): added automated accessibility testing on local and CI integration,https://github.com/e-gov/cvi/pull/61,2023-03-30T12:37:44Z,2023-05-10T10:26:55Z,1,31,MERGED
+cvi,chore: typos,https://github.com/e-gov/cvi/pull/60,2023-03-30T08:25:01Z,2023-03-30T08:31:55Z,0,1,MERGED
+cvi,feat(ui): accessibility improvements for cvi-ng-select,https://github.com/e-gov/cvi/pull/59,2023-03-29T23:43:48Z,2023-04-06T03:53:13Z,0,51,MERGED
+cvi,feat: upgrade nx,https://github.com/e-gov/cvi/pull/58,2023-03-28T19:40:19Z,2023-03-30T11:10:07Z,0,3,CLOSED
+cvi,feat: upgrade webpack version,https://github.com/e-gov/cvi/pull/57,2023-03-24T11:35:19Z,2023-03-24T11:48:44Z,0,1,MERGED
+cvi,fix(github): removed a reserved 'None' word from Feature request issue template,https://github.com/e-gov/cvi/pull/55,2023-03-23T20:42:26Z,2023-03-23T20:42:43Z,0,1,MERGED
+cvi,fix(ui): fixed an issue where Angular textarea component would not restore its height,https://github.com/e-gov/cvi/pull/53,2023-03-23T20:22:43Z,2023-03-29T08:30:20Z,0,5,MERGED
+cvi,fix(github): removed a reserved 'None' word from Feature request issue template that broke it,https://github.com/e-gov/cvi/pull/52,2023-03-23T20:16:29Z,2023-03-23T20:23:10Z,0,1,MERGED
+cvi,fix(github): minor issue template fixes,https://github.com/e-gov/cvi/pull/50,2023-03-23T19:50:27Z,2023-03-23T20:10:09Z,0,3,MERGED
+cvi,docs(github): added issue templates for bugs and feature requests,https://github.com/e-gov/cvi/pull/46,2023-03-23T15:16:17Z,2023-03-23T19:00:05Z,0,1,MERGED
+cvi,ci(test): added automatic screenshot testing via Chromatic CI,https://github.com/e-gov/cvi/pull/45,2023-03-23T07:41:33Z,2023-03-23T21:25:51Z,2,18,MERGED
+cvi,fix: skip cypress binary install for build step,https://github.com/e-gov/cvi/pull/44,2023-03-18T17:06:08Z,2023-03-18T17:06:13Z,0,1,MERGED
+cvi,fix: dockerfile private registry,https://github.com/e-gov/cvi/pull/43,2023-03-18T17:01:18Z,2023-03-18T17:01:40Z,0,3,MERGED
+cvi,fix: dockerfile cypress conditional,https://github.com/e-gov/cvi/pull/42,2023-03-18T16:32:42Z,2023-03-18T16:32:52Z,0,1,MERGED
+cvi,fix: cypress mirror in dockerfile,https://github.com/e-gov/cvi/pull/41,2023-03-18T09:14:04Z,2023-03-18T09:24:41Z,0,1,MERGED
+cvi,fix(ui): set focus on cancel button when confirmation modal opens,https://github.com/e-gov/cvi/pull/40,2023-03-16T12:35:15Z,2023-03-17T08:29:54Z,0,1,MERGED
+cvi,fix(styles): button styling + fix package scripts,https://github.com/e-gov/cvi/pull/39,2023-03-16T08:51:18Z,2023-03-16T09:26:51Z,0,2,MERGED
+cvi,fix(styles): a bad file name for a Sass partial,https://github.com/e-gov/cvi/pull/38,2023-03-15T17:30:14Z,2023-03-17T08:30:45Z,0,1,MERGED
+cvi,chore(storybook): improved documentation structure and content,https://github.com/e-gov/cvi/pull/37,2023-03-15T17:14:29Z,2023-03-17T08:28:28Z,0,1,MERGED
+cvi,fix(ui): tooltip positioning,https://github.com/e-gov/cvi/pull/36,2023-03-15T14:57:28Z,2023-03-16T10:30:54Z,0,1,MERGED
+cvi,fix: cypress mirror url,https://github.com/e-gov/cvi/pull/35,2023-03-14T20:36:36Z,2023-03-14T20:43:25Z,0,1,MERGED
+cvi,fix: storybook react highlighter,https://github.com/e-gov/cvi/pull/33,2023-03-14T19:48:29Z,2023-03-14T19:56:52Z,0,1,MERGED
+cvi,fix: storybook build,https://github.com/e-gov/cvi/pull/32,2023-03-14T18:02:14Z,2023-03-14T18:09:24Z,0,1,MERGED
+cvi,feat: upgrade storybook,https://github.com/e-gov/cvi/pull/31,2023-03-13T23:46:31Z,2023-03-13T23:47:19Z,0,4,CLOSED
+cvi,feat: upgrade storybook,https://github.com/e-gov/cvi/pull/30,2023-03-13T22:53:16Z,2023-03-14T19:57:55Z,0,6,CLOSED
+cvi,refactor: remove node modules cleanup,https://github.com/e-gov/cvi/pull/29,2023-03-13T21:01:27Z,2023-03-13T21:09:24Z,0,1,MERGED
+cvi,fix: package lock generation,https://github.com/e-gov/cvi/pull/28,2023-03-13T15:00:35Z,2023-03-13T15:20:24Z,0,3,MERGED
+cvi,chore: echo private registry arg in pipeline,https://github.com/e-gov/cvi/pull/27,2023-03-13T12:05:04Z,2023-03-13T12:12:19Z,0,1,MERGED
+cvi,test(cypress): added missing E2E component tests (EBS-444),https://github.com/e-gov/cvi/pull/26,2023-03-11T22:53:06Z,2023-03-14T19:57:18Z,0,15,MERGED
+cvi,chore(storybook): added missing HTML stories (EBS-443),https://github.com/e-gov/cvi/pull/25,2023-03-10T20:02:34Z,2023-03-13T08:55:51Z,0,23,MERGED
+cvi,fix(styles): fixed consumer app sass import error relative to project root,https://github.com/e-gov/cvi/pull/24,2023-03-09T16:03:35Z,2023-03-09T16:24:14Z,0,1,MERGED
+cvi,fix(ng): dockerfile RUN command EBS-395 STPA-236,https://github.com/e-gov/cvi/pull/23,2023-03-08T15:36:17Z,2023-03-08T15:36:27Z,0,1,MERGED
+cvi,feat(styles): More design tokens available as custom properties (EBS-544),https://github.com/e-gov/cvi/pull/22,2023-03-07T19:21:01Z,2023-03-08T11:58:42Z,0,10,MERGED
+cvi,feat: add disabled state to select component,https://github.com/e-gov/cvi/pull/21,2023-03-04T22:30:50Z,2023-03-06T08:02:18Z,0,1,MERGED
+cvi,fix(ui): moved icon height value from notification Sass component to …,https://github.com/e-gov/cvi/pull/20,2023-02-23T12:49:37Z,2023-02-27T07:04:09Z,0,1,MERGED
+cvi,feat: allow wrapping html-section's content elements in track EBS-395 STPA-236,https://github.com/e-gov/cvi/pull/19,2023-02-23T10:33:53Z,2023-03-03T08:39:14Z,0,8,MERGED
+cvi,"fix: form item with multiline label positioning EBS-562, STPA-246",https://github.com/e-gov/cvi/pull/18,2023-02-21T09:47:07Z,2023-02-21T15:59:40Z,0,1,MERGED
+cvi,fix: accordion autoscrolls to wrong instance EBS-546 STPA-251,https://github.com/e-gov/cvi/pull/17,2023-02-20T09:38:53Z,2023-02-21T09:50:26Z,0,2,MERGED
+cvi,fix: input & textarea control value accessor implementations EBS-528 STPA-246,https://github.com/e-gov/cvi/pull/16,2023-02-12T16:53:39Z,2023-02-12T18:23:17Z,0,3,MERGED
+cvi,feat(ng): custom gap prop to cvi-ng-labeled-icon,https://github.com/e-gov/cvi/pull/15,2023-02-08T21:04:24Z,2023-02-10T14:28:29Z,0,3,MERGED
+cvi,chore(docs): added an installation note to README,https://github.com/e-gov/cvi/pull/14,2023-02-06T17:02:49Z,2023-02-07T17:25:28Z,0,1,MERGED
+cvi,fix(styles): select component background,https://github.com/e-gov/cvi/pull/13,2023-02-02T15:44:16Z,2023-02-03T05:45:54Z,0,1,MERGED
+cvi,feat: message bus service,https://github.com/e-gov/cvi/pull/12,2023-01-27T14:26:20Z,2023-01-27T19:39:46Z,0,5,MERGED
+cvi,feature: message bus service,https://github.com/e-gov/cvi/pull/11,2023-01-27T13:24:27Z,2023-01-27T14:18:11Z,0,2,CLOSED
+cvi,feat(ng): custom mobile breadcrumb EBS-191 STPA-204,https://github.com/e-gov/cvi/pull/10,2023-01-25T22:01:19Z,2023-01-25T22:09:52Z,0,1,MERGED
+cvi,fix: cpy paths in package.json,https://github.com/e-gov/cvi/pull/8,2023-01-25T17:11:39Z,2023-01-25T21:16:39Z,0,4,MERGED
+cvi,chore: update .npmrc,https://github.com/e-gov/cvi/pull/7,2023-01-25T16:10:47Z,2023-01-25T17:12:33Z,0,1,MERGED
+cvi,feat: change package scope to egov,https://github.com/e-gov/cvi/pull/6,2023-01-25T15:44:27Z,2023-01-25T15:57:42Z,0,1,MERGED
+cvi,fix: semver commit skips,https://github.com/e-gov/cvi/pull/5,2023-01-25T11:41:15Z,2023-01-25T11:49:02Z,0,2,MERGED
+cvi,refactor: remove references to veera,https://github.com/e-gov/cvi/pull/4,2023-01-25T10:16:18Z,2023-01-25T10:34:44Z,0,5,MERGED
+cvi,chore: update colors.stories.mdx,https://github.com/e-gov/cvi/pull/3,2023-01-24T09:41:07Z,2023-01-24T10:12:57Z,0,1,MERGED
+cvi,chore: add pull-request analysis github workflow,https://github.com/e-gov/cvi/pull/2,2023-01-23T09:29:09Z,2023-01-23T14:44:35Z,0,2,MERGED
+cvi,feat(ng): provide an emitter for active tab changes EBS-729,https://github.com/e-gov/cvi/pull/111,2023-05-31T18:55:17Z,2023-06-01T13:07:18Z,0,4,MERGED
+cvi,feat(ng): add optional tooltip attribute to status badge component EST-44,https://github.com/e-gov/cvi/pull/110,2023-05-30T07:27:44Z,2023-06-02T11:21:38Z,5,2,MERGED
+cvi,fix(styles): fixed an issue where running npm run lint:css would not yield any results  ,https://github.com/e-gov/cvi/pull/109,2023-05-29T15:51:21Z,2023-05-29T19:18:23Z,0,5,MERGED
+cvi,feat(ng): datepicker EBS-116,https://github.com/e-gov/cvi/pull/107,2023-05-29T06:34:17Z,2023-06-12T17:01:08Z,29,60,MERGED
+cvi,fix(react): package build,https://github.com/e-gov/cvi/pull/106,2023-05-22T14:13:10Z,2023-05-22T14:27:37Z,0,2,MERGED
+cvi,fix(react): missing publish script,https://github.com/e-gov/cvi/pull/105,2023-05-22T11:55:07Z,2023-05-22T11:55:13Z,0,1,MERGED
+cvi,fix: pipeline test,https://github.com/e-gov/cvi/pull/104,2023-05-22T11:29:29Z,2023-05-22T11:29:47Z,0,2,MERGED
+cvi,refactor(react): set default appearance and button size,https://github.com/e-gov/cvi/pull/103,2023-05-22T09:57:44Z,2023-05-22T10:11:23Z,0,1,MERGED
+cvi,feat(react): add component lib,https://github.com/e-gov/cvi/pull/102,2023-05-21T22:16:05Z,2023-05-21T22:29:46Z,0,5,MERGED
+cvi,chore: improve readme,https://github.com/e-gov/cvi/pull/101,2023-05-10T19:19:32Z,2023-05-10T22:25:48Z,0,3,MERGED
+cvi,chore: improve readme format,https://github.com/e-gov/cvi/pull/100,2023-05-10T18:25:19Z,2023-05-10T19:08:47Z,0,1,MERGED
+cvi,fix: enforce minimum peer dependency versions EBS-699,https://github.com/e-gov/cvi/pull/99,2023-05-10T13:48:31Z,2023-05-10T14:07:17Z,0,1,MERGED
+cvi,chore: disable chromatic browser download in dockerfile,https://github.com/e-gov/cvi/pull/98,2023-05-10T13:09:52Z,2023-05-11T12:08:59Z,0,1,MERGED
+cvi,feat(ui): add sorting to select component,https://github.com/e-gov/cvi/pull/97,2023-05-05T14:19:44Z,2023-05-08T08:15:47Z,0,2,MERGED
+cvi,fix(ng): change detection inside tab component EBS-335 STPA-245,https://github.com/e-gov/cvi/pull/96,2023-05-04T08:31:55Z,2023-05-09T10:57:13Z,1,12,MERGED
+cvi,fix(styles): fix select component loading spinner animation,https://github.com/e-gov/cvi/pull/95,2023-05-03T09:39:39Z,2023-05-03T11:29:22Z,1,2,MERGED
+cvi,fix(ng): add select options using setter instead of onChanges hook EBS-348 STPA-247,https://github.com/e-gov/cvi/pull/94,2023-04-26T15:00:20Z,2023-04-26T17:48:42Z,0,1,MERGED
+cvi,"fix(ng): export SwapReorderableListItems interface EBS-348, STPA-247",https://github.com/e-gov/cvi/pull/93,2023-04-24T14:10:49Z,2023-04-24T14:29:23Z,0,1,MERGED
+cvi,feat: add loading state to select component,https://github.com/e-gov/cvi/pull/90,2023-04-20T17:39:28Z,2023-04-21T13:32:11Z,1,2,MERGED
+cvi,fix: radio group font size fix,https://github.com/e-gov/cvi/pull/78,2023-04-13T13:31:22Z,2023-04-19T10:50:52Z,1,7,MERGED
+cvi,fix(ui): made tabs accessible,https://github.com/e-gov/cvi/pull/76,2023-04-12T12:54:13Z,2023-04-12T13:55:20Z,0,8,MERGED
+cvi,fix(all): changed npm run test command to launch ui project tests,https://github.com/e-gov/cvi/pull/75,2023-04-10T07:10:58Z,2023-04-12T19:48:22Z,1,2,MERGED
+cvi,"fix(test): upgraded jest to latest to avoid a ""run and wait"" error for every unit test",https://github.com/e-gov/cvi/pull/72,2023-04-02T13:15:35Z,2023-04-12T19:34:30Z,0,1,MERGED
+cvi,refactor(storybook): rewrite stories to CSF3 format in preparation for Storybook upgrade to v7,https://github.com/e-gov/cvi/pull/151,2023-07-28T22:12:27Z,2024-04-10T21:26:25Z,0,96,MERGED
+cvi,fix(styles): made styles of inline form elements consistent,https://github.com/e-gov/cvi/pull/147,2023-07-27T18:04:58Z,2023-07-28T11:33:51Z,0,5,MERGED
+cvi,feat(ng): add numbers only input feature,https://github.com/e-gov/cvi/pull/146,2023-07-27T17:45:36Z,2023-08-01T10:58:19Z,6,7,MERGED
+cvi,fix(styles): fixed broken appearance of cvi-datepicker when on non-white background,https://github.com/e-gov/cvi/pull/144,2023-07-27T15:02:15Z,2023-07-31T12:15:26Z,0,3,MERGED
+cvi,feat(ui): added a new default value to horizontalAlignment prop of cvi-ng-track,https://github.com/e-gov/cvi/pull/142,2023-07-26T22:16:00Z,2023-07-27T19:58:28Z,0,5,MERGED
+cvi,fix(storybook): added clarifications about the necessity of registering an icon when using @egov/cvi-icons with Angular,https://github.com/e-gov/cvi/pull/141,2023-07-26T21:00:43Z,2023-07-26T22:05:37Z,0,1,MERGED
+cvi,feat(storybook): various tweaks to HTML panel to improve DX,https://github.com/e-gov/cvi/pull/140,2023-07-26T20:27:25Z,2023-07-27T14:03:12Z,1,3,MERGED
+cvi,feat(storybook): expand story source code in the Docs tab by default,https://github.com/e-gov/cvi/pull/139,2023-07-26T19:07:06Z,2023-07-26T20:27:52Z,0,1,MERGED
+cvi,fix(github): removed an old URL to a reference design system in Figma from an issue template,https://github.com/e-gov/cvi/pull/137,2023-07-26T18:04:54Z,2023-07-26T18:42:40Z,0,1,MERGED
+cvi,fix(storybook): fix icon cards layout issues,https://github.com/e-gov/cvi/pull/136,2023-07-26T17:45:54Z,2023-07-26T18:01:15Z,0,2,MERGED
+cvi,feat(storybook): add search in the icons list,https://github.com/e-gov/cvi/pull/135,2023-07-26T17:27:09Z,2023-07-26T21:01:16Z,0,2,MERGED
+cvi,feat(ng): add new cvi tabs component,https://github.com/e-gov/cvi/pull/129,2023-07-25T11:44:52Z,2023-08-01T15:21:26Z,24,7,MERGED
+cvi,feat(ng): add two-way binding to currentStepIndex,https://github.com/e-gov/cvi/pull/128,2023-07-24T13:53:53Z,2023-07-24T15:53:27Z,0,1,MERGED
+cvi,feat(icons): add content-copy icon EBS-360,https://github.com/e-gov/cvi/pull/127,2023-07-24T08:46:53Z,2023-07-24T17:43:41Z,0,2,MERGED
+cvi,fix(ng): highlight last heading when at the bottom of the page,https://github.com/e-gov/cvi/pull/126,2023-07-24T08:32:48Z,2023-07-25T13:24:01Z,0,5,MERGED
+cvi,feat(react-ui): Added Textarea Component,https://github.com/e-gov/cvi/pull/125,2023-07-20T14:08:57Z,2023-07-24T15:41:37Z,1,33,MERGED
+cvi,"feat: add svg, fix status-badge classname",https://github.com/e-gov/cvi/pull/124,2023-07-14T11:11:39Z,2023-07-17T10:02:31Z,0,3,MERGED
+cvi,feat(icons): added logout icon to icon library,https://github.com/e-gov/cvi/pull/123,2023-07-13T19:44:35Z,2023-07-13T20:04:29Z,0,1,MERGED
+cvi,feat(styles): added an ability to customise cvi-button color with a CSS variable,https://github.com/e-gov/cvi/pull/122,2023-07-13T16:47:36Z,2023-07-13T22:36:36Z,0,1,MERGED
+cvi,fix(ng): input disabled state for reactive forms EBS-670,https://github.com/e-gov/cvi/pull/119,2023-06-20T12:02:35Z,2023-06-20T13:15:49Z,0,2,MERGED
+cvi,"fix(ng): status badge class format, clarify a stylelint linting error message",https://github.com/e-gov/cvi/pull/118,2023-06-19T16:31:34Z,2023-06-20T07:24:00Z,0,8,MERGED
+cvi,feat(react-ui): Add Icon Component,https://github.com/e-gov/cvi/pull/115,2023-06-08T13:09:47Z,2023-06-08T13:23:43Z,0,4,CLOSED
+cvi,feat(react-ui): Add Track Component,https://github.com/e-gov/cvi/pull/114,2023-06-08T13:03:44Z,2023-06-08T13:24:11Z,0,3,CLOSED
+cvi,fix(ng): force a resize once view has been init EBS-729,https://github.com/e-gov/cvi/pull/112,2023-06-01T15:18:21Z,2023-06-01T16:07:16Z,0,3,MERGED
+cvi,fix: reduce steps title bottom margin EBS-1153,https://github.com/e-gov/cvi/pull/207,2023-10-31T14:24:28Z,2023-11-02T10:34:09Z,0,1,MERGED
+cvi,fix(ui): mobile breadcrumb for group service EBS-1147 STPA-268,https://github.com/e-gov/cvi/pull/206,2023-10-26T15:03:48Z,2023-10-31T07:29:44Z,1,4,MERGED
+cvi,feat(github): added SVG linting to the CI pipeline,https://github.com/e-gov/cvi/pull/205,2023-10-21T10:32:55Z,2023-10-21T11:11:34Z,0,1,MERGED
+cvi,feat(github): added links to an example Angular app at codesandbox.io to the documentation,https://github.com/e-gov/cvi/pull/204,2023-10-20T22:35:44Z,2023-10-20T22:47:28Z,0,1,MERGED
+cvi,feat: add svgClass to button icon EBS-1132,https://github.com/e-gov/cvi/pull/203,2023-10-20T11:36:13Z,2023-10-21T06:10:34Z,0,2,MERGED
+cvi,fix: add white background and change s circle font size EBS-1130,https://github.com/e-gov/cvi/pull/202,2023-10-20T08:25:12Z,2023-10-20T23:21:26Z,1,1,MERGED
+cvi,fix(styles): fixed cvi-circle Sass component getting shrunk when inside of a flex track (eg inside of cvi-steps),https://github.com/e-gov/cvi/pull/201,2023-10-17T12:25:45Z,2023-10-17T12:49:40Z,0,1,MERGED
+cvi,fix: after title position in steps mobile view EBS-911 STPA-280,https://github.com/e-gov/cvi/pull/200,2023-10-16T13:03:12Z,2023-10-17T10:45:27Z,0,1,MERGED
+cvi,feat(styles): added a CSS variable for removing text underline in cvi-button Sass component with --appearance-text modifier,https://github.com/e-gov/cvi/pull/199,2023-10-12T16:17:50Z,2023-10-13T06:50:44Z,0,1,MERGED
+cvi,fix(ui): accept october dates EBS-1028 STPA-248,https://github.com/e-gov/cvi/pull/198,2023-10-09T12:54:51Z,2023-10-09T17:15:03Z,0,1,MERGED
+cvi,"feat: add responsive-table, card EBS-985 STPA-277",https://github.com/e-gov/cvi/pull/196,2023-10-05T08:16:56Z,2023-10-23T14:37:39Z,7,29,MERGED
+cvi,feat: add icons,https://github.com/e-gov/cvi/pull/195,2023-10-04T12:59:44Z,2023-10-05T06:47:03Z,0,1,MERGED
+cvi,fix(icons): removed offending attributes from some icons,https://github.com/e-gov/cvi/pull/194,2023-10-03T18:03:08Z,2023-10-04T20:35:12Z,0,1,MERGED
+cvi,fix(styles): fixed cvi-toast title shifted down,https://github.com/e-gov/cvi/pull/193,2023-10-03T16:36:43Z,2023-10-05T14:33:21Z,0,9,MERGED
+cvi,fix(icons): makes a white non-recolorable spot in the center of step_icon icon transparent ,https://github.com/e-gov/cvi/pull/192,2023-10-03T08:15:01Z,2023-10-04T21:20:28Z,1,1,MERGED
+cvi,feat(storybook): Added a new background color to the Storybook and set it to the Icons list page to allow for faster discovery of fixed fills,https://github.com/e-gov/cvi/pull/191,2023-10-03T08:03:21Z,2023-10-03T08:21:10Z,0,1,MERGED
+cvi,docs(all): mention an installation requirement of configuring the .npmrc file in the package-specific docs,https://github.com/e-gov/cvi/pull/188,2023-10-03T07:23:22Z,2023-10-03T08:07:39Z,0,1,MERGED
+cvi,docs(all): added a clarification on configuring .npmrc file,https://github.com/e-gov/cvi/pull/187,2023-10-03T06:50:39Z,2023-10-03T07:19:47Z,0,1,MERGED
+cvi,feat: toast style modifications EBS-996 STPA-264,https://github.com/e-gov/cvi/pull/186,2023-09-29T09:55:04Z,2023-10-02T16:48:25Z,1,3,MERGED
+cvi,feat: badge without background EBS-939 STPA-277,https://github.com/e-gov/cvi/pull/185,2023-09-27T09:31:00Z,2023-09-29T07:39:19Z,0,2,MERGED
+cvi,fix: pipeline EBS-999 STPA-264,https://github.com/e-gov/cvi/pull/184,2023-09-27T07:30:42Z,2023-09-29T06:58:04Z,0,1,MERGED
+cvi,feat: use cvi-ng-circle in steps EBS-880 STPA-280,https://github.com/e-gov/cvi/pull/183,2023-09-26T10:39:01Z,2023-09-28T14:13:48Z,0,13,MERGED
+cvi,feat(icons): add new heart icons ,https://github.com/e-gov/cvi/pull/182,2023-09-22T11:28:00Z,2023-09-22T13:45:25Z,0,2,MERGED
+cvi,feat(icons): add new icons,https://github.com/e-gov/cvi/pull/180,2023-09-19T09:59:09Z,2023-09-19T14:45:37Z,0,7,MERGED
+cvi,feat(ng): add circle component EBS-879 STPA-277,https://github.com/e-gov/cvi/pull/179,2023-09-18T12:56:49Z,2023-09-21T19:24:02Z,0,37,MERGED
+cvi,feat: breadcrumbs without link EBS-904 STPA-268,https://github.com/e-gov/cvi/pull/177,2023-09-08T13:30:38Z,2023-09-11T22:39:26Z,3,2,MERGED
+cvi,fix: timed-notice incorrect import,https://github.com/e-gov/cvi/pull/176,2023-09-07T14:57:45Z,2023-09-07T17:56:50Z,0,1,MERGED
+cvi,Feature/est 103,https://github.com/e-gov/cvi/pull/175,2023-09-01T14:15:09Z,2023-09-01T15:31:49Z,0,2,MERGED
+cvi,feat(ng): html section to have the possibility of custom components EBS-856,https://github.com/e-gov/cvi/pull/174,2023-08-28T11:07:25Z,2023-08-29T10:20:43Z,0,2,MERGED
+cvi,feat(ng): box diagram EBS-856,https://github.com/e-gov/cvi/pull/173,2023-08-25T14:49:33Z,2023-08-29T09:50:38Z,8,85,MERGED
+cvi,feat: add icon,https://github.com/e-gov/cvi/pull/172,2023-08-24T14:30:42Z,2023-08-25T10:42:54Z,0,1,MERGED
+cvi,feat(ng): create form notification component EBS-864 ,https://github.com/e-gov/cvi/pull/170,2023-08-22T11:16:20Z,2023-09-05T20:41:38Z,19,19,MERGED
+cvi,feat(icons): add new icons,https://github.com/e-gov/cvi/pull/169,2023-08-22T09:00:53Z,2023-08-23T08:24:12Z,1,12,MERGED
+cvi,fix(ng): iconName import in timed-notice component,https://github.com/e-gov/cvi/pull/168,2023-08-21T18:36:45Z,2023-08-22T18:37:52Z,0,2,MERGED
+cvi,fix(ng): fix datepicker component bugs EBS-858 STPA-248,https://github.com/e-gov/cvi/pull/167,2023-08-16T13:40:16Z,2023-08-16T21:11:27Z,0,5,MERGED
+cvi,fix(styles): marriage event service UI alignment with portal observations EBS-620,https://github.com/e-gov/cvi/pull/166,2023-08-14T14:31:30Z,2023-08-28T14:36:09Z,0,4,MERGED
+cvi,feat(ng): add icon possibility for tab components EBS-362,https://github.com/e-gov/cvi/pull/165,2023-08-14T12:05:22Z,2023-08-17T10:47:08Z,5,7,MERGED
+cvi,feat(storybook): add html section story to storybook steps component ,https://github.com/e-gov/cvi/pull/164,2023-08-10T09:43:09Z,2023-08-13T23:10:06Z,0,5,MERGED
+cvi,feat(ng): add max length option to input component EBS-853,https://github.com/e-gov/cvi/pull/163,2023-08-10T09:33:35Z,2023-08-10T12:52:01Z,0,3,MERGED
+cvi,fix(ng): html section content web components removed on re-rendering EBS-835,https://github.com/e-gov/cvi/pull/161,2023-08-08T10:15:44Z,2023-08-10T07:28:07Z,0,2,MERGED
+cvi,feat(storybook): add multiselect component,https://github.com/e-gov/cvi/pull/160,2023-08-07T10:13:22Z,2023-08-23T09:08:15Z,0,17,CLOSED
+cvi,feat(ng): notice component,https://github.com/e-gov/cvi/pull/159,2023-08-03T06:38:14Z,2023-08-16T06:35:59Z,15,25,MERGED
+cvi,"feat(EST-71): redesign notification component, add content-prefix",https://github.com/e-gov/cvi/pull/158,2023-08-02T12:29:43Z,2023-08-24T13:15:19Z,10,12,CLOSED
+cvi,fix(ui): accessibility and documentation improvements for the new TabsComponent (cvi-tabs Sass component),https://github.com/e-gov/cvi/pull/157,2023-08-02T09:29:52Z,2023-08-02T11:23:34Z,0,15,MERGED
+cvi,feat(storybook): add small icon button,https://github.com/e-gov/cvi/pull/156,2023-08-01T17:20:16Z,2023-08-02T21:32:40Z,4,24,MERGED
+cvi,fix(storybook): prevent Safari from losing a bottom border of the last header cell in the TableComponent (Angular) story due to invalid number of header cells,https://github.com/e-gov/cvi/pull/155,2023-08-01T13:49:37Z,2023-08-01T19:22:27Z,0,2,MERGED
+cvi,feat(ng): emit accordion toggle event,https://github.com/e-gov/cvi/pull/154,2023-08-01T13:21:50Z,2023-08-01T13:36:00Z,0,1,MERGED
+cvi,fix(styles): fix(styles): fixed cvi-table body cell not wrapping strings that are too long and forcing the table to become too wide,https://github.com/e-gov/cvi/pull/153,2023-08-01T11:12:46Z,2023-08-01T11:38:10Z,0,2,MERGED
+cvi,fix(styles): update version (dummy change),https://github.com/e-gov/cvi/pull/214,2023-12-22T11:19:26Z,2023-12-22T12:42:30Z,0,1,MERGED
+cvi,fix(ui) - update version (dummy change),https://github.com/e-gov/cvi/pull/213,2023-12-21T11:43:20Z,2023-12-21T15:14:17Z,0,1,MERGED
+cvi,Update README.md,https://github.com/e-gov/cvi/pull/212,2023-12-21T09:27:37Z,2023-12-21T10:05:46Z,0,1,MERGED
+cvi,feat(ui): reverse the order of items in reorderable-list EBS-1193 STPA-293,https://github.com/e-gov/cvi/pull/211,2023-11-27T07:28:34Z,2023-11-27T13:04:07Z,0,1,MERGED
+cvi,feat(styles): add word break to step title EBS-1217,https://github.com/e-gov/cvi/pull/210,2023-11-15T14:44:02Z,2023-11-15T18:51:42Z,0,1,MERGED
+cvi,fix(ui): cvi-ng-select EBS-1170 STPA-247,https://github.com/e-gov/cvi/pull/209,2023-11-08T13:26:27Z,2023-11-08T15:11:45Z,1,2,MERGED
+cvi,fix(ui): cvi-ng-select default option EBS-1170 STPA-247,https://github.com/e-gov/cvi/pull/208,2023-11-07T15:14:29Z,2023-11-08T11:21:07Z,0,2,MERGED
+cvi,docs(storybook): try to reproduce a bug in cvi-ng-responsive-table wi…,https://github.com/e-gov/cvi/pull/224,2024-02-26T17:03:40Z,2024-02-26T21:18:43Z,0,2,MERGED
+cvi,docs(storybook): try to reproduce a bug in cvi-ng-responsive-table with translations,https://github.com/e-gov/cvi/pull/223,2024-02-26T16:29:08Z,2024-02-26T16:50:33Z,0,1,MERGED
+cvi,feat(ui): table-responsive mobile view cannot translate headers EBS-1282,https://github.com/e-gov/cvi/pull/222,2024-02-26T16:18:33Z,2024-02-26T19:34:17Z,1,2,MERGED
+cvi,fix(styles): update version,https://github.com/e-gov/cvi/pull/221,2024-02-26T08:41:40Z,2024-02-26T09:54:38Z,0,1,MERGED
+cvi,fix(ui): tooltip doesnt close on scroll EBS-1264,https://github.com/e-gov/cvi/pull/218,2024-01-15T09:23:03Z,2024-01-15T18:51:57Z,0,2,MERGED
+cvi,fix(styles): form message displays max width EBS-1145,https://github.com/e-gov/cvi/pull/217,2024-01-11T09:01:55Z,2024-01-11T23:11:11Z,0,1,MERGED
+cvi,fix(style): increase multiline text field max width EBS-1230,https://github.com/e-gov/cvi/pull/216,2024-01-08T09:50:09Z,2024-01-16T11:34:45Z,0,1,CLOSED
+cvi,fix(style): remove padding and margin EBS-1251,https://github.com/e-gov/cvi/pull/215,2024-01-03T11:53:46Z,2024-01-04T09:44:55Z,0,1,MERGED
+cvi,feat(ui): add option to make steps scrollable EBS-1314,https://github.com/e-gov/cvi/pull/227,2024-04-30T12:32:18Z,2024-05-08T08:17:01Z,9,4,MERGED
+cvi,feat(ui): url step for steps component EBS-1316,https://github.com/e-gov/cvi/pull/225,2024-04-03T08:05:10Z,2024-04-05T16:21:48Z,4,8,MERGED
+cvi,feat(ui): stick mobile steps navigation to top EBS-1418 STPA-366 ,https://github.com/e-gov/cvi/pull/230,2024-07-31T10:06:03Z,2024-08-09T09:41:37Z,0,3,MERGED
+cvi,chore: upgrade angular version to 17.2 EBS-1380 STPA-343,https://github.com/e-gov/cvi/pull/229,2024-07-15T14:50:16Z,2024-08-05T12:58:19Z,4,62,MERGED
+cvi,chore(storybook): add notification example to show bold text and links EBS-1441,https://github.com/e-gov/cvi/pull/228,2024-06-05T06:48:28Z,2024-06-05T08:29:36Z,0,2,MERGED
+cvi,fix: ignore storybook:storybook-build cache errors EBS-1336,https://github.com/e-gov/cvi/pull/237,2024-10-29T13:27:44Z,2024-10-30T13:00:33Z,0,1,MERGED
+cvi,feat(ui): non-closeable modal support,https://github.com/e-gov/cvi/pull/236,2024-10-24T10:27:40Z,2024-10-29T08:04:49Z,3,2,MERGED
+cvi,feat(ui): add nested list option for html section EBS-1547,https://github.com/e-gov/cvi/pull/235,2024-09-11T09:35:18Z,2024-09-11T19:24:08Z,0,2,MERGED
+cvi,feat(ui): create metadata card component EBS-1516,https://github.com/e-gov/cvi/pull/234,2024-09-02T12:49:20Z,2024-09-10T13:46:53Z,3,3,MERGED
+cvi,feat(ui): add nested list option for html section EBS-1547,https://github.com/e-gov/cvi/pull/233,2024-08-30T13:17:20Z,2024-09-11T19:24:26Z,1,1,CLOSED
+cvi,fix(ui): step navigation z-index below 40,https://github.com/e-gov/cvi/pull/232,2024-08-22T12:26:29Z,2024-08-22T14:46:16Z,0,1,MERGED
+cvi,fix(ui): import jest for react tests,https://github.com/e-gov/cvi/pull/231,2024-08-09T10:42:30Z,2024-08-12T08:14:36Z,0,1,MERGED
+cvi,fix(ui): remove z-index from circular-bar scss EBS-1515,https://github.com/e-gov/cvi/pull/239,2024-12-11T11:24:55Z,2024-12-11T11:33:45Z,0,1,MERGED
+cvi,feat(ui): add progress bar component EBS-1515,https://github.com/e-gov/cvi/pull/238,2024-12-09T12:37:15Z,2024-12-10T23:57:27Z,0,9,MERGED

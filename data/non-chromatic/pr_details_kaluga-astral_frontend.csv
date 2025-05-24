@@ -1,0 +1,1098 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+frontend,"UIKIT-37 Вынес шрифты в отдельный пакет, поправил тесты",https://github.com/kaluga-astral/frontend/pull/14,2021-12-29T09:19:41Z,2022-01-11T11:38:19Z,10,3,MERGED
+frontend,UIKIT-40 Изменил стилизацию у Badge. Добавил кодогенерацию пропсов существующим компонентам,https://github.com/kaluga-astral/frontend/pull/13,2021-12-21T09:50:32Z,2021-12-22T08:21:50Z,2,2,MERGED
+frontend,UIKIT-35 Перенес стилизацию Badge из styled.ts в файл с компонентом,https://github.com/kaluga-astral/frontend/pull/12,2021-12-16T12:24:55Z,2021-12-16T12:32:05Z,0,1,MERGED
+frontend,UIKIT-35 Добавил конфиг для развертывания storybook на chromatic,https://github.com/kaluga-astral/frontend/pull/11,2021-12-16T09:01:32Z,2021-12-16T09:04:07Z,0,1,MERGED
+frontend,UIKIT-18 Добавил компонент Badge.,https://github.com/kaluga-astral/frontend/pull/10,2021-12-14T17:35:27Z,2021-12-16T07:27:33Z,9,4,MERGED
+frontend,UIKIT-32 Добавил в тему параметры теней (elevation). Исключил дефолтные тени mui из темы.,https://github.com/kaluga-astral/frontend/pull/9,2021-12-09T11:47:54Z,2021-12-10T08:19:57Z,6,4,MERGED
+frontend,UIKIT-30 Добавил в тему параметр отступов,https://github.com/kaluga-astral/frontend/pull/8,2021-12-01T14:37:39Z,2021-12-07T12:33:41Z,0,2,MERGED
+frontend,UIKIT-33. Добавлен CONTRIBUTING.md,https://github.com/kaluga-astral/frontend/pull/7,2021-11-29T08:09:59Z,2021-12-01T13:58:09Z,0,1,MERGED
+frontend,"UIKIT-29 Добавил в тему палитру, расширил функцию получения темы в зависимости от бренда, даунгрейднул версию линта (с более новой не запускались тесты)",https://github.com/kaluga-astral/frontend/pull/6,2021-11-23T11:39:33Z,2021-12-01T13:58:48Z,12,5,MERGED
+frontend,"Добавлена тема, шрифты, компонент Typography.",https://github.com/kaluga-astral/frontend/pull/5,2021-11-11T07:55:21Z,2021-11-23T11:45:32Z,24,6,MERGED
+frontend,update dependencies,https://github.com/kaluga-astral/frontend/pull/4,2021-11-01T09:10:51Z,2021-11-01T09:45:28Z,0,8,MERGED
+frontend,Изменения в Actions,https://github.com/kaluga-astral/frontend/pull/3,2021-11-01T09:05:27Z,2021-11-01T09:07:42Z,0,1,MERGED
+frontend,update yarn.lock,https://github.com/kaluga-astral/frontend/pull/2,2021-11-01T08:44:27Z,2021-11-01T08:45:32Z,0,1,MERGED
+frontend,add storybook,https://github.com/kaluga-astral/frontend/pull/1,2021-11-01T06:47:25Z,2021-11-01T07:05:50Z,0,1,MERGED
+frontend,"feat(ui,MaskField): реализован компонент MaskField",https://github.com/kaluga-astral/frontend/pull/174,2022-03-30T14:08:13Z,2022-04-04T08:08:20Z,6,4,MERGED
+frontend,"feat(ui,Grid): Добавлен prop ""component"" для Grid",https://github.com/kaluga-astral/frontend/pull/171,2022-03-26T13:06:17Z,2022-03-28T09:05:28Z,1,3,MERGED
+frontend,"feat(ui,DataGrid): Реализован компонент DataGrid.",https://github.com/kaluga-astral/frontend/pull/170,2022-03-24T18:16:01Z,2022-04-05T07:34:20Z,12,9,CLOSED
+frontend,"bug(ui,List): Исправлен экспорт компонента List и его составляющих",https://github.com/kaluga-astral/frontend/pull/168,2022-03-23T14:12:35Z,2022-03-24T06:06:30Z,0,1,MERGED
+frontend,"wip(ui,DataGrid): Начата работа над добавлением компонента DataGrid",https://github.com/kaluga-astral/frontend/pull/167,2022-03-23T08:31:55Z,2022-03-24T18:15:14Z,0,2,CLOSED
+frontend,"feat(ui,Placeholder): Реализован Placeholder",https://github.com/kaluga-astral/frontend/pull/166,2022-03-22T11:44:22Z,2022-03-29T08:53:49Z,26,13,MERGED
+frontend,"bug(ui,DashboardLayout): Заменена битая ссылка логотипа в Story",https://github.com/kaluga-astral/frontend/pull/164,2022-03-22T09:23:36Z,2022-03-22T10:57:56Z,1,2,MERGED
+frontend,"bug(ui,DashboardLayout): Исправлено появление скролла на body",https://github.com/kaluga-astral/frontend/pull/163,2022-03-22T07:59:09Z,2022-03-22T10:59:47Z,1,2,MERGED
+frontend,build: исправлена некорректная установка версий зависимостей в lib/package.json,https://github.com/kaluga-astral/frontend/pull/162,2022-03-18T08:42:50Z,2022-03-21T06:07:07Z,0,1,MERGED
+frontend,"feat(ui,DataGrid): Добавлен компонент DataGrid",https://github.com/kaluga-astral/frontend/pull/160,2022-03-15T10:35:36Z,2022-03-21T15:06:20Z,2,5,CLOSED
+frontend,build: Добавляет экспорт для @astral/ui/server,https://github.com/kaluga-astral/frontend/pull/157,2022-03-09T13:50:06Z,2022-03-09T17:51:36Z,0,1,MERGED
+frontend,Test собачек в телеграмчике,https://github.com/kaluga-astral/frontend/pull/156,2022-03-05T08:10:01Z,2022-03-30T14:00:21Z,1,19,CLOSED
+frontend,Test собачек в телеграмчике,https://github.com/kaluga-astral/frontend/pull/155,2022-03-05T08:04:55Z,2022-03-05T08:06:50Z,0,19,CLOSED
+frontend,"feat(ui,Dialog): Добавлены компоненты Dialog, DialogActions, DialogContent, DialogContentText, DialogTitle",https://github.com/kaluga-astral/frontend/pull/154,2022-03-05T07:14:34Z,2022-03-16T05:25:21Z,18,7,MERGED
+frontend,"chore: удален конфиг для simple-git-hook, поправлен editorconfig",https://github.com/kaluga-astral/frontend/pull/153,2022-03-05T07:14:20Z,2022-03-05T07:18:14Z,0,1,MERGED
+frontend,chore: добавлен stylelint,https://github.com/kaluga-astral/frontend/pull/152,2022-03-04T13:01:32Z,2022-03-04T13:10:37Z,0,4,MERGED
+frontend,chore: при релизе ограничен список файлов для коммита,https://github.com/kaluga-astral/frontend/pull/150,2022-03-04T07:58:47Z,2022-03-04T08:00:53Z,0,2,MERGED
+frontend,"feat(ui, DatePicker): Реализован компонент DatePicker",https://github.com/kaluga-astral/frontend/pull/148,2022-03-03T13:31:20Z,2022-04-13T10:02:46Z,21,15,CLOSED
+frontend,chore: добавлен commitlint и линтинг title для  pr,https://github.com/kaluga-astral/frontend/pull/147,2022-03-03T13:29:17Z,2022-03-04T13:16:18Z,1,17,MERGED
+frontend,"bug(ui, Autocomplete): Исправлено отображение тэгов, кнопок в инпуте, исправлена обработка пустого набора options",https://github.com/kaluga-astral/frontend/pull/145,2022-03-03T10:08:40Z,2022-03-03T11:36:39Z,1,3,MERGED
+frontend,"bug(@astral/ui, Tag): исправлен невалидный пропс Size, стили удаляемого тега, а также скорректировано отображение цвета primary",https://github.com/kaluga-astral/frontend/pull/141,2022-03-03T09:17:42Z,2022-03-03T09:54:59Z,0,1,MERGED
+frontend,"refactor(@astral/icons, Icon): Добавлены размеры для иконок в story",https://github.com/kaluga-astral/frontend/pull/138,2022-03-02T10:31:00Z,2022-03-02T12:37:52Z,0,1,MERGED
+frontend,"feat(ui, DatePicker): Реализован компонент DatePicker",https://github.com/kaluga-astral/frontend/pull/137,2022-03-02T10:28:59Z,2022-03-03T13:22:16Z,3,3,CLOSED
+frontend,chore: изменены конфигурационные файлы ts и eslint,https://github.com/kaluga-astral/frontend/pull/135,2022-03-02T08:06:22Z,2022-03-02T09:12:04Z,0,3,MERGED
+frontend,"feat(ui, Select): Реализован компонент Select",https://github.com/kaluga-astral/frontend/pull/132,2022-03-01T10:41:32Z,2022-03-01T14:43:02Z,4,5,MERGED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/130,2022-03-01T10:09:06Z,2022-03-05T08:00:11Z,1,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/129,2022-03-01T10:05:58Z,2022-03-01T10:08:48Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/128,2022-03-01T10:03:36Z,2022-03-01T10:05:40Z,0,19,CLOSED
+frontend,Test 4 ,https://github.com/kaluga-astral/frontend/pull/127,2022-03-01T09:45:28Z,2022-03-01T10:02:44Z,0,19,CLOSED
+frontend,Test 4,https://github.com/kaluga-astral/frontend/pull/126,2022-03-01T09:34:36Z,2022-03-01T09:45:03Z,0,19,CLOSED
+frontend,build: поправлена команда gh actions - commit and push,https://github.com/kaluga-astral/frontend/pull/119,2022-02-28T13:40:28Z,2022-02-28T13:42:43Z,0,2,MERGED
+frontend,build: поправлена команда установка зависимостей при авторелизе,https://github.com/kaluga-astral/frontend/pull/118,2022-02-28T13:27:47Z,2022-02-28T13:27:58Z,0,1,MERGED
+frontend,build: поправлена команда авторелиза,https://github.com/kaluga-astral/frontend/pull/117,2022-02-28T13:18:19Z,2022-02-28T13:18:33Z,0,2,MERGED
+frontend,build: настроен авторелиз,https://github.com/kaluga-astral/frontend/pull/116,2022-02-28T13:01:11Z,2022-02-28T13:01:17Z,0,1,MERGED
+frontend,build: добален триггер на создание release на github,https://github.com/kaluga-astral/frontend/pull/115,2022-02-28T11:49:04Z,2022-02-28T12:00:45Z,0,1,MERGED
+frontend,"feat(@astral/ui, List): Сделан компонент List и дочерние и подготовлены стили для ссылок",https://github.com/kaluga-astral/frontend/pull/114,2022-02-28T09:10:22Z,2022-03-03T12:56:13Z,10,14,MERGED
+frontend,refactor(icons): Выделен общий svgr-конфиг,https://github.com/kaluga-astral/frontend/pull/113,2022-02-28T07:50:44Z,2022-02-28T11:46:52Z,0,2,MERGED
+frontend,build: для команды build добавлено автоматическое обновление зависимостей,https://github.com/kaluga-astral/frontend/pull/112,2022-02-25T15:06:35Z,2022-02-28T11:32:44Z,0,7,MERGED
+frontend,"bug(ui, DashboardLayout): добавлен экспорт из пакета",https://github.com/kaluga-astral/frontend/pull/111,2022-02-25T14:23:21Z,2022-02-25T14:41:19Z,0,1,MERGED
+frontend,build: добавлена команда для линтинга типов всех пакетов. В ci добавл…,https://github.com/kaluga-astral/frontend/pull/110,2022-02-25T13:36:59Z,2022-02-25T13:54:17Z,0,2,MERGED
+frontend,build: настроен lint-staged. Добавлена проверка типов в precommit-hook. Настроен eslint для commander,https://github.com/kaluga-astral/frontend/pull/109,2022-02-25T09:11:09Z,2022-02-25T13:28:03Z,0,4,MERGED
+frontend,"fix(ui, DashboardLayout, declaration, server, styles): убраны лишние свойства из package.json, исправдена типизация компонентов, переход на npm",https://github.com/kaluga-astral/frontend/pull/108,2022-02-25T05:54:58Z,2022-02-25T07:46:10Z,1,8,MERGED
+frontend,build: Исправляет билд сторибука,https://github.com/kaluga-astral/frontend/pull/107,2022-02-22T06:37:31Z,2022-02-22T06:48:31Z,0,1,MERGED
+frontend,doc: В CONTRIBUTING.md добавлена информация о формате коммитов и PR,https://github.com/kaluga-astral/frontend/pull/106,2022-02-22T05:49:36Z,2022-02-22T06:09:20Z,0,1,MERGED
+frontend,"feat(ui, Autocomplete): Реализован Autocomplete",https://github.com/kaluga-astral/frontend/pull/105,2022-02-21T19:29:34Z,2022-02-28T06:22:21Z,9,14,MERGED
+frontend,@astral/ui | FEA | NavBar. Реализован List ListItem ListItemButton ListItemAvatar ListItemIcon ListItemText ListItemSecondaryAction ListSubHeader Collapse Divider,https://github.com/kaluga-astral/frontend/pull/104,2022-02-21T11:05:07Z,2022-02-28T09:04:30Z,23,17,CLOSED
+frontend,Релиз 0.4,https://github.com/kaluga-astral/frontend/pull/103,2022-02-21T09:08:45Z,2022-02-21T09:11:49Z,0,1,MERGED
+frontend,"build: Изменяет билд пакетов | feat: Добавляет createStylesCache, createStylesServer, StylesCacheProvider",https://github.com/kaluga-astral/frontend/pull/102,2022-02-18T11:35:38Z,2022-02-21T08:36:07Z,5,8,MERGED
+frontend,"@astral/ui | FEA | DashboardLayout. Реализован Layout, Header, SideBar, Main",https://github.com/kaluga-astral/frontend/pull/101,2022-02-17T15:43:33Z,2022-02-22T08:30:39Z,8,20,MERGED
+frontend,"feat(@astral/ui, Theme): Декларация темы и styled через module augmentation",https://github.com/kaluga-astral/frontend/pull/100,2022-02-17T13:29:10Z,2022-02-21T08:54:23Z,3,8,MERGED
+frontend,"feat(@astral/ui, Theme): Декларация темы и styled через module augmentation",https://github.com/kaluga-astral/frontend/pull/99,2022-02-17T11:28:05Z,2022-02-17T13:06:26Z,4,2,CLOSED
+frontend,build: Исправлена ошибка при запуске yarn,https://github.com/kaluga-astral/frontend/pull/98,2022-02-17T08:08:17Z,2022-02-17T08:12:35Z,0,1,MERGED
+frontend,@astral/ui | FEA | TextField. Добавлен forwardRef,https://github.com/kaluga-astral/frontend/pull/97,2022-02-16T13:12:52Z,2022-02-17T07:34:56Z,2,3,MERGED
+frontend,@astral/ui | FEA | TextField. Добавлен forwardRef,https://github.com/kaluga-astral/frontend/pull/96,2022-02-16T10:04:52Z,2022-02-16T13:05:59Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/95,2022-02-15T13:17:15Z,2022-03-01T09:34:01Z,8,19,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/94,2022-02-15T13:12:12Z,2022-02-15T13:12:22Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/93,2022-02-15T12:55:21Z,2022-02-15T13:16:18Z,0,16,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/92,2022-02-15T11:39:18Z,2022-02-15T12:55:04Z,0,15,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/91,2022-02-15T11:31:01Z,2022-02-15T11:38:16Z,0,5,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/90,2022-02-15T10:53:45Z,2022-02-15T11:30:46Z,0,5,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/89,2022-02-15T10:32:24Z,2022-02-15T10:53:10Z,0,4,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/88,2022-02-15T10:27:57Z,2022-02-15T10:32:06Z,0,4,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/87,2022-02-15T10:24:15Z,2022-02-15T10:27:38Z,0,3,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/86,2022-02-15T10:13:33Z,2022-02-15T10:23:57Z,0,2,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/85,2022-02-15T10:00:28Z,2022-02-15T10:26:28Z,0,1,CLOSED
+frontend,updated package versions,https://github.com/kaluga-astral/frontend/pull/84,2022-02-15T09:57:56Z,2022-02-15T09:58:07Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/83,2022-02-15T09:55:07Z,2022-02-15T09:57:29Z,0,1,CLOSED
+frontend,UI-KIT 49 | BUG | Компонент Tag - исправлены консольные ошибки с пропсами rounded customVariant customColor,https://github.com/kaluga-astral/frontend/pull/82,2022-02-15T05:51:56Z,2022-02-15T10:00:12Z,0,2,MERGED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/81,2022-02-14T14:47:28Z,2022-02-15T09:54:52Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/80,2022-02-14T14:46:37Z,2022-02-14T14:47:13Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/79,2022-02-14T14:34:06Z,2022-02-14T14:45:35Z,0,1,CLOSED
+frontend,test123,https://github.com/kaluga-astral/frontend/pull/78,2022-02-14T14:22:29Z,2022-02-14T14:33:49Z,0,1,CLOSED
+frontend,Notifications test,https://github.com/kaluga-astral/frontend/pull/77,2022-02-14T13:53:27Z,2022-02-14T14:22:00Z,0,1,CLOSED
+frontend,Тестим нотификейшоны,https://github.com/kaluga-astral/frontend/pull/76,2022-02-14T13:39:14Z,2022-02-14T13:53:04Z,0,1,CLOSED
+frontend,Тестим нотификейшоны,https://github.com/kaluga-astral/frontend/pull/75,2022-02-14T13:35:25Z,2022-02-14T13:36:13Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/74,2022-02-14T13:32:34Z,2022-02-14T13:34:58Z,0,1,CLOSED
+frontend,Тестим нотификейшоны,https://github.com/kaluga-astral/frontend/pull/73,2022-02-14T13:16:18Z,2022-02-14T13:32:06Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/72,2022-02-14T13:04:30Z,2022-02-14T13:15:42Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/71,2022-02-14T13:02:03Z,2022-02-14T13:04:06Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/70,2022-02-14T12:58:08Z,2022-02-14T13:01:45Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/69,2022-02-14T12:50:03Z,2022-02-14T12:57:54Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/68,2022-02-14T12:38:41Z,2022-02-14T12:49:45Z,0,1,CLOSED
+frontend,TEST,https://github.com/kaluga-astral/frontend/pull/67,2022-02-14T12:32:32Z,2022-02-14T12:39:33Z,0,1,CLOSED
+frontend,TEST,https://github.com/kaluga-astral/frontend/pull/66,2022-02-14T12:28:19Z,2022-02-14T12:31:58Z,0,1,CLOSED
+frontend,@astral/icons. Убран files из package.json,https://github.com/kaluga-astral/frontend/pull/65,2022-02-14T11:09:03Z,2022-02-14T11:09:33Z,0,1,MERGED
+frontend,Main icons,https://github.com/kaluga-astral/frontend/pull/64,2022-02-14T10:44:21Z,2022-02-14T12:20:39Z,0,3,CLOSED
+frontend,Merge pull request #6 from kaluga-astral/main,https://github.com/kaluga-astral/frontend/pull/63,2022-02-14T10:39:22Z,2022-02-14T10:42:06Z,0,3,MERGED
+frontend,Update CONTRIBUTING.md,https://github.com/kaluga-astral/frontend/pull/62,2022-02-14T10:25:50Z,2022-02-14T10:38:36Z,0,4,MERGED
+frontend,fix: autoreview,https://github.com/kaluga-astral/frontend/pull/61,2022-02-14T10:23:24Z,2022-02-14T10:24:48Z,0,2,MERGED
+frontend,Merge pull request #5 from kaluga-astral/main,https://github.com/kaluga-astral/frontend/pull/60,2022-02-14T10:20:04Z,2022-02-14T10:22:26Z,0,2,CLOSED
+frontend,TESTT,https://github.com/kaluga-astral/frontend/pull/59,2022-02-14T10:07:36Z,2022-02-14T10:15:56Z,0,9,CLOSED
+frontend,TEST,https://github.com/kaluga-astral/frontend/pull/58,2022-02-14T09:46:12Z,2022-02-14T10:06:53Z,0,9,CLOSED
+frontend,TEST,https://github.com/kaluga-astral/frontend/pull/57,2022-02-14T09:38:31Z,2022-02-14T09:39:09Z,0,4,CLOSED
+frontend,TEST,https://github.com/kaluga-astral/frontend/pull/56,2022-02-14T09:30:02Z,2022-02-14T09:32:21Z,0,1,CLOSED
+frontend,Updated package versions,https://github.com/kaluga-astral/frontend/pull/55,2022-02-14T09:29:50Z,2022-02-14T09:29:56Z,0,1,MERGED
+frontend,"@astral-ui. Добавлен экспорт компонентов: TextField, FormHelperText, …",https://github.com/kaluga-astral/frontend/pull/54,2022-02-11T13:39:30Z,2022-02-11T13:45:16Z,0,2,MERGED
+frontend,Release. Обновление версий пакетов,https://github.com/kaluga-astral/frontend/pull/53,2022-02-11T12:57:55Z,2022-02-11T12:58:01Z,0,1,MERGED
+frontend,Commander. Изменена директория для cjs модулей на node,https://github.com/kaluga-astral/frontend/pull/52,2022-02-11T12:06:29Z,2022-02-11T12:22:20Z,0,1,MERGED
+frontend,UI.Grid.Исправление borderRadius item-элемента для отображения в сторибуке,https://github.com/kaluga-astral/frontend/pull/51,2022-02-11T09:02:15Z,2022-02-11T11:39:22Z,0,1,MERGED
+frontend,@astral-ui | FEA | TextArea. Реализация компонента,https://github.com/kaluga-astral/frontend/pull/50,2022-02-11T08:53:56Z,2022-02-17T07:49:00Z,1,7,MERGED
+frontend,@astral-ui | FEA | Tooltip. Реализация компонента подсказки,https://github.com/kaluga-astral/frontend/pull/49,2022-02-10T14:17:15Z,2022-02-24T16:25:31Z,6,12,MERGED
+frontend,UIKIT-69 - Переопределил функцию useTheme + создал папку для хука в теме,https://github.com/kaluga-astral/frontend/pull/48,2022-02-10T10:48:45Z,2022-02-11T12:06:20Z,1,5,MERGED
+frontend,"ButtonBase.Рефакторинг стилизации, минорные правки сторибука.",https://github.com/kaluga-astral/frontend/pull/47,2022-02-09T11:25:21Z,2022-02-11T11:47:26Z,2,8,MERGED
+frontend,@astral-ui | FEAT | UIKIT-51 UIKIT-55 | Radio и  RadioGroup. Реализовывает  Radio и  RadioGroup,https://github.com/kaluga-astral/frontend/pull/46,2022-02-09T10:39:00Z,2022-02-15T09:57:31Z,8,8,MERGED
+frontend,"UIKIT-77 Добавил скрипт publish, с помощью которого можно проводить релиз всех пакетов одной командой",https://github.com/kaluga-astral/frontend/pull/45,2022-02-08T20:55:30Z,2022-02-10T06:26:33Z,0,3,MERGED
+frontend,FIX | UIKIT-82 | Невалидное отображение некоторых иконок,https://github.com/kaluga-astral/frontend/pull/44,2022-02-08T10:16:33Z,2022-02-09T13:13:43Z,0,5,MERGED
+frontend,UIKIT-49 - Готовый компонент Tag + правки по PR 35,https://github.com/kaluga-astral/frontend/pull/43,2022-02-08T07:29:04Z,2022-02-09T07:41:48Z,3,3,MERGED
+frontend,FIX | UIKIT-64 | CirculatProgress. Не изменяется размер при изменении пропса size,https://github.com/kaluga-astral/frontend/pull/42,2022-02-07T15:51:27Z,2022-02-09T06:34:25Z,4,10,MERGED
+frontend,UIKIT-69 - Готовый компонент GlobalStyles,https://github.com/kaluga-astral/frontend/pull/41,2022-02-07T10:11:28Z,2022-02-10T06:26:53Z,3,5,MERGED
+frontend,UIKIT-75 - Реализация Grid,https://github.com/kaluga-astral/frontend/pull/40,2022-02-07T06:50:11Z,2022-02-08T06:08:19Z,0,1,MERGED
+frontend,"UIKIT-73 Перенес иконки инфо, ошибка, успех и предупреждение",https://github.com/kaluga-astral/frontend/pull/39,2022-02-04T12:47:05Z,2022-02-07T05:58:20Z,0,3,MERGED
+frontend,"UIKIT-79 Обновил eslint, плагины и @astral-frontend/eslint-config-ts-ui",https://github.com/kaluga-astral/frontend/pull/38,2022-02-04T12:29:58Z,2022-02-07T13:33:08Z,0,4,MERGED
+frontend,UIKIT-73 Добавил полный набор иконок в icons,https://github.com/kaluga-astral/frontend/pull/37,2022-02-04T12:10:34Z,2022-02-04T12:15:58Z,0,4,MERGED
+frontend,"UIKIT-43 Добавил pre-commit hook, вынес ts, eslint и его плагины в корень, добавил плагин workspace-tools для yarn",https://github.com/kaluga-astral/frontend/pull/36,2022-02-03T08:39:50Z,2022-02-03T10:41:55Z,0,3,MERGED
+frontend,UIKIT-49 - Готовый компонент Tag,https://github.com/kaluga-astral/frontend/pull/35,2022-02-03T07:53:06Z,2022-02-08T07:22:05Z,6,68,CLOSED
+frontend,Сборка. Реализованы скрипты для билда и паблишинга пакетов,https://github.com/kaluga-astral/frontend/pull/34,2022-02-02T12:43:05Z,2022-02-03T09:48:42Z,0,5,MERGED
+frontend,UIKIT-46,https://github.com/kaluga-astral/frontend/pull/33,2022-02-02T12:12:08Z,2022-02-09T07:50:44Z,5,10,MERGED
+frontend,Поправлена типизация темы. Сделана кастомная типизация styled.,https://github.com/kaluga-astral/frontend/pull/32,2022-02-02T09:33:09Z,2022-02-02T11:04:49Z,3,7,MERGED
+frontend,"UIKIT-43 Вынес devDependencies (все, что относится к линту и ts) в корень, обновил версии пакетов, добавил в зависимости prettier, добавил simple-git-hooks и lint-staged",https://github.com/kaluga-astral/frontend/pull/31,2022-02-02T09:24:30Z,2022-02-02T20:20:25Z,0,4,CLOSED
+frontend,UIKIT-68. Настроен auto review,https://github.com/kaluga-astral/frontend/pull/30,2022-02-02T06:21:16Z,2022-02-02T06:54:59Z,0,4,MERGED
+frontend,FIX | UIKIT-64 | CircularProgress. Не изменяется размер при изменении пропса size,https://github.com/kaluga-astral/frontend/pull/29,2022-01-31T14:20:35Z,2022-02-07T15:31:01Z,4,129,CLOSED
+frontend,FIX | UIKIT-47 | Исправления проблемы ASCII ->non-ASCII,https://github.com/kaluga-astral/frontend/pull/28,2022-01-28T12:31:47Z,2022-01-28T13:16:10Z,0,2,MERGED
+frontend,UIKIT-45 - Реализация компонента Checkbox и используемого им компонента FormControlLabel,https://github.com/kaluga-astral/frontend/pull/27,2022-01-28T07:49:39Z,2022-02-04T09:37:22Z,12,11,MERGED
+frontend,UIKIT-17 | Реализовать пакет иконок,https://github.com/kaluga-astral/frontend/pull/26,2022-01-27T11:45:31Z,2022-02-02T11:44:51Z,10,30,MERGED
+frontend,"UIKIT-62 Добавил компонент IconButton, изменил витрину для Button, добавил витрину для IconButton в storybook, исправил стили состояний для variant=link, Добавил компонент ButtonBase, на его основе переделал Button и IconButton",https://github.com/kaluga-astral/frontend/pull/25,2022-01-27T10:54:54Z,2022-02-02T09:38:45Z,5,9,MERGED
+frontend,конфиг vscode(исправляет ошибку с tsconfig),https://github.com/kaluga-astral/frontend/pull/24,2022-01-26T12:08:10Z,2022-01-26T12:09:13Z,0,1,MERGED
+frontend,FEAT |  UIKIT-47 | Реализовать CircularProgress,https://github.com/kaluga-astral/frontend/pull/23,2022-01-26T08:38:27Z,2022-01-26T14:02:13Z,11,14,MERGED
+frontend,"UIKIT-59 Добавил mui/lab, обновил версию @mui/material, заменил Button на LoadingButton, кастомизировал состояние loading, расширил story для Button.",https://github.com/kaluga-astral/frontend/pull/22,2022-01-24T18:43:43Z,2022-01-26T07:15:22Z,0,3,MERGED
+frontend,UIKIT-44 - Реализует TextField,https://github.com/kaluga-astral/frontend/pull/21,2022-01-24T12:36:15Z,2022-02-09T07:57:03Z,14,15,MERGED
+frontend,UIKIT-61 Фикс некорректного состояния Button,https://github.com/kaluga-astral/frontend/pull/20,2022-01-24T09:24:32Z,2022-01-24T11:12:20Z,0,2,MERGED
+frontend,"UIKIT-43 Добавил в тему параметр borderRadius, использовал его в компоненте Button",https://github.com/kaluga-astral/frontend/pull/19,2022-01-24T08:23:51Z,2022-01-24T11:09:08Z,0,1,MERGED
+frontend,Исправляет тригеры chromatic,https://github.com/kaluga-astral/frontend/pull/18,2022-01-21T13:51:07Z,2022-01-24T12:33:59Z,0,1,MERGED
+frontend,UIKIT-15 Реализовал компонент Button в соответствии с дизайн системой,https://github.com/kaluga-astral/frontend/pull/17,2022-01-18T12:17:57Z,2022-01-21T07:18:10Z,9,6,MERGED
+frontend,"UIKIT-39 Синхронизировал названия цветов в палитре, поправил тесты.",https://github.com/kaluga-astral/frontend/pull/16,2022-01-13T09:49:30Z,2022-01-14T08:45:15Z,4,4,MERGED
+frontend,UIKIT-37 Убрал неиспользуемый параметр,https://github.com/kaluga-astral/frontend/pull/15,2022-01-11T11:59:38Z,2022-01-11T12:03:00Z,0,2,MERGED
+frontend,UIKIT-190: feat(illustrations): добавлены новые изображения,https://github.com/kaluga-astral/frontend/pull/291,2022-05-30T10:53:11Z,2022-06-02T08:15:14Z,3,2,MERGED
+frontend,"UIKIT-271: bug(ui,DataGrid): добавлен ключ для DataGridHeadColumn",https://github.com/kaluga-astral/frontend/pull/290,2022-05-26T06:45:17Z,2022-05-31T07:59:46Z,0,3,CLOSED
+frontend,"UIKIT-269: feat(ui,MaskField): Добавлен definitions для настройки mask",https://github.com/kaluga-astral/frontend/pull/288,2022-05-25T09:28:32Z,2022-05-25T13:35:55Z,2,3,MERGED
+frontend,"bug(ui,DatePicker): добавлен zIndex, поправлено имя типов",https://github.com/kaluga-astral/frontend/pull/286,2022-05-24T12:44:22Z,2022-05-24T12:49:19Z,1,1,MERGED
+frontend,chore(form): закомментирован релиз для form,https://github.com/kaluga-astral/frontend/pull/284,2022-05-24T07:22:12Z,2022-05-24T07:22:20Z,0,1,MERGED
+frontend,UIKIT-261: bug(ui): Поправлена ссылка для exports в package.json,https://github.com/kaluga-astral/frontend/pull/283,2022-05-23T15:18:40Z,2022-05-24T06:59:01Z,0,7,MERGED
+frontend,"UIKIT-232: feat(ui,GlobalStyles): добавлены стили для скроллбара",https://github.com/kaluga-astral/frontend/pull/282,2022-05-20T07:44:49Z,2022-05-23T07:08:34Z,1,3,MERGED
+frontend,"UIKIT-246: bug(ui, styles): UI-KIT. Stylelint. Конфиг не позволяет указывать названия классов по БЭМ",https://github.com/kaluga-astral/frontend/pull/281,2022-05-18T08:13:49Z,2022-05-23T07:17:22Z,2,5,MERGED
+frontend,"chore(ui,Profile): добавлен экспорт",https://github.com/kaluga-astral/frontend/pull/279,2022-05-17T13:09:02Z,2022-05-17T13:17:25Z,0,2,MERGED
+frontend,"UIKIT-135: feat(ui,ContentState): Реализован компонент для управления состоянием",https://github.com/kaluga-astral/frontend/pull/278,2022-05-17T12:00:47Z,2022-05-20T13:05:16Z,3,5,MERGED
+frontend,UIKIT-143: feat(form): создан пакет @astral/form,https://github.com/kaluga-astral/frontend/pull/277,2022-05-17T10:45:21Z,2022-05-20T13:05:42Z,3,5,MERGED
+frontend,doc: добавлена документация для веток,https://github.com/kaluga-astral/frontend/pull/275,2022-05-17T06:04:48Z,2022-06-21T14:38:05Z,1,4,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/274,2022-05-15T16:16:54Z,2022-06-03T06:58:24Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/273,2022-05-15T16:16:15Z,2022-05-15T16:16:36Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/272,2022-05-15T16:02:57Z,2022-05-15T16:10:21Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/271,2022-05-15T15:51:43Z,2022-05-15T15:59:53Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/270,2022-05-15T15:38:12Z,2022-05-15T15:51:13Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/269,2022-05-15T15:29:33Z,2022-05-15T15:33:42Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/268,2022-05-15T15:26:38Z,2022-05-15T15:29:03Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/267,2022-05-15T15:19:05Z,2022-05-15T15:22:35Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/266,2022-05-15T15:09:13Z,2022-05-15T15:16:14Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/265,2022-05-15T14:59:07Z,2022-05-15T15:08:13Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/264,2022-05-15T14:49:33Z,2022-05-15T14:56:11Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/263,2022-05-15T14:38:54Z,2022-05-15T14:47:11Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/262,2022-05-15T14:31:48Z,2022-05-15T14:36:14Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/261,2022-05-15T14:23:26Z,2022-05-15T14:30:52Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/260,2022-05-15T14:16:28Z,2022-05-15T14:20:17Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/259,2022-05-15T14:09:53Z,2022-05-15T14:15:39Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/258,2022-05-15T13:56:50Z,2022-05-15T14:09:31Z,0,19,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/257,2022-05-15T13:37:49Z,2022-05-15T13:56:35Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/256,2022-05-15T13:31:32Z,2022-05-15T13:37:35Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/255,2022-05-15T13:21:47Z,2022-05-15T13:31:07Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/254,2022-05-15T13:10:42Z,2022-05-15T13:21:29Z,0,19,CLOSED
+frontend,"chore: исправлены ошибки scope для commitlint, увеличен размер сообщения до 90 символов",https://github.com/kaluga-astral/frontend/pull/253,2022-05-13T10:38:44Z,2022-05-13T10:39:45Z,0,5,MERGED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/252,2022-05-13T10:36:00Z,2022-05-15T13:03:53Z,0,19,CLOSED
+frontend,Main commitlintMain,https://github.com/kaluga-astral/frontend/pull/251,2022-05-13T10:30:45Z,2022-05-13T10:31:01Z,0,46,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/250,2022-05-13T10:21:07Z,2022-05-13T10:33:52Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/249,2022-05-13T10:07:35Z,2022-05-13T10:09:35Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/247,2022-05-13T09:54:50Z,2022-05-13T10:07:19Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/246,2022-05-13T09:42:09Z,2022-05-13T09:52:29Z,0,19,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/245,2022-05-13T09:36:44Z,2022-05-13T09:39:07Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/244,2022-05-13T09:32:16Z,2022-05-13T09:34:18Z,0,19,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/243,2022-05-13T09:22:59Z,2022-05-13T09:32:00Z,0,1,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/242,2022-05-13T09:15:21Z,2022-05-13T09:22:45Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/241,2022-05-13T09:08:05Z,2022-05-13T09:15:07Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/240,2022-05-13T09:01:23Z,2022-05-13T09:06:42Z,0,19,CLOSED
+frontend,feat: test 3,https://github.com/kaluga-astral/frontend/pull/239,2022-05-13T08:55:52Z,2022-05-13T08:56:55Z,0,19,CLOSED
+frontend,chore: В commitlint разрешен scope lower-case,https://github.com/kaluga-astral/frontend/pull/238,2022-05-13T08:52:18Z,2022-05-13T10:01:44Z,0,2,MERGED
+frontend,"UIKIT-174: feat(ui, DropdownButton): Реализован компонент DropdownButton",https://github.com/kaluga-astral/frontend/pull/237,2022-05-13T08:42:12Z,2022-05-20T09:22:32Z,15,12,MERGED
+frontend,doc: Исправлено описание формата коммитов без задач,https://github.com/kaluga-astral/frontend/pull/236,2022-05-13T08:33:36Z,2022-05-13T08:51:32Z,0,1,MERGED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/235,2022-05-13T08:25:12Z,2022-05-13T08:26:35Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/234,2022-05-13T08:22:38Z,2022-05-13T08:24:54Z,0,19,CLOSED
+frontend,feat: design,https://github.com/kaluga-astral/frontend/pull/233,2022-05-13T08:17:57Z,2022-05-13T08:18:36Z,0,19,CLOSED
+frontend,feat: design,https://github.com/kaluga-astral/frontend/pull/232,2022-05-13T08:14:11Z,2022-05-13T08:17:33Z,0,19,CLOSED
+frontend,chore: Для commitlint добавлен префикс задач jira,https://github.com/kaluga-astral/frontend/pull/231,2022-05-13T08:01:39Z,2022-05-13T08:29:23Z,4,19,MERGED
+frontend,Test design,https://github.com/kaluga-astral/frontend/pull/230,2022-05-13T07:52:03Z,2022-05-13T07:52:12Z,0,1,CLOSED
+frontend,"chore(icons): иконкам success, warning, error, info добавлена возможность изменять цвет, так же иконкам соцсетей были даны соответствующие цвета",https://github.com/kaluga-astral/frontend/pull/229,2022-05-13T06:43:34Z,2022-05-17T07:42:03Z,3,6,MERGED
+frontend,"bug(ui,Radio,RadioGroup): добавлен экспорт",https://github.com/kaluga-astral/frontend/pull/228,2022-05-12T11:44:57Z,2022-05-12T11:53:36Z,0,1,MERGED
+frontend,"feat(ui,theme): добавлены брейкпойнты",https://github.com/kaluga-astral/frontend/pull/227,2022-05-12T06:30:53Z,2022-05-12T08:28:38Z,1,2,MERGED
+frontend,"feat(ui,DashboardLayout): Реализует компонент Header",https://github.com/kaluga-astral/frontend/pull/226,2022-05-11T17:46:18Z,2022-05-13T09:54:37Z,6,2,MERGED
+frontend,"bug(ui,Button): Исправлены отступы от иконки",https://github.com/kaluga-astral/frontend/pull/224,2022-05-06T11:12:46Z,2022-05-17T13:22:09Z,8,3,MERGED
+frontend,"bug(ui,Placeholder): Установлена максимальная ширина контента",https://github.com/kaluga-astral/frontend/pull/223,2022-05-05T10:12:28Z,2022-05-11T13:36:57Z,0,1,MERGED
+frontend,"feat(ui,DatePicker): переход на react-datepicker",https://github.com/kaluga-astral/frontend/pull/222,2022-05-05T09:58:09Z,2022-05-24T07:13:58Z,15,23,MERGED
+frontend,"bug(ui,Typography): добавлен экспорт типов",https://github.com/kaluga-astral/frontend/pull/221,2022-05-04T14:12:26Z,2022-05-05T08:52:29Z,0,1,MERGED
+frontend,"bug(ui,Button): установлен variant contained как дефоулт проп",https://github.com/kaluga-astral/frontend/pull/220,2022-05-04T11:55:45Z,2022-05-04T12:11:42Z,1,2,MERGED
+frontend,"refactor(ui,Menu,MenuGroup): Рефакторинг меню + реализация MenuGroup",https://github.com/kaluga-astral/frontend/pull/219,2022-05-04T09:56:19Z,2022-05-04T11:15:07Z,0,8,MERGED
+frontend,TEST имени репозитория,https://github.com/kaluga-astral/frontend/pull/218,2022-05-04T08:15:10Z,2022-05-08T13:41:39Z,0,19,CLOSED
+frontend,ТЕСТ СЕКРЕТОВ ОРГАНИЗАЦИИ,https://github.com/kaluga-astral/frontend/pull/217,2022-05-04T07:59:19Z,2022-05-04T08:00:05Z,0,1,CLOSED
+frontend,"feat(ui,Notification): UIKIT-196 | Реализация системы нотификации",https://github.com/kaluga-astral/frontend/pull/216,2022-04-29T04:35:23Z,2022-05-11T06:32:07Z,14,15,MERGED
+frontend,"UIKIT-130: feat(ui, ActionCell): Добавлен компонент ActionCell",https://github.com/kaluga-astral/frontend/pull/215,2022-04-28T10:19:06Z,2022-05-26T06:58:03Z,9,10,MERGED
+frontend,"feat(ui,Profile): UIKIT-206 | Реализует компонент Profile",https://github.com/kaluga-astral/frontend/pull/214,2022-04-27T12:52:50Z,2022-04-29T10:08:30Z,3,5,MERGED
+frontend,"feat(ui,Product): UIKIT-195 | Реализует компонент Product",https://github.com/kaluga-astral/frontend/pull/211,2022-04-26T10:46:46Z,2022-04-27T11:46:15Z,3,4,MERGED
+frontend,"feat(ui,Autocomplete): добавлен проп renderOption",https://github.com/kaluga-astral/frontend/pull/206,2022-04-25T10:21:07Z,2022-04-25T15:01:23Z,0,2,MERGED
+frontend,"feat(ui,Button,IconButton): Добавил forwardRef для кнопок",https://github.com/kaluga-astral/frontend/pull/205,2022-04-23T06:52:07Z,2022-04-25T15:00:28Z,0,1,CLOSED
+frontend,"bug(ui,FormHelperText): FormHelperText отображается всегда под TextField, TextArea",https://github.com/kaluga-astral/frontend/pull/204,2022-04-21T15:30:00Z,2022-04-27T07:47:00Z,6,12,MERGED
+frontend,"bug(ui,ButtonBase): изменен active цвет (light variant)",https://github.com/kaluga-astral/frontend/pull/203,2022-04-21T15:05:14Z,2022-04-21T15:15:53Z,0,1,MERGED
+frontend,"feat(ui,Typography): Исправлена ошибка с передачей prop component",https://github.com/kaluga-astral/frontend/pull/202,2022-04-21T14:16:43Z,2022-04-25T13:56:34Z,2,2,MERGED
+frontend,"refactor(ui,Menu): Рефакторинг меню",https://github.com/kaluga-astral/frontend/pull/201,2022-04-21T08:28:45Z,2022-05-04T09:54:29Z,0,8,CLOSED
+frontend,"refactor(ui,DatePicker): переход на react-datepicker",https://github.com/kaluga-astral/frontend/pull/200,2022-04-21T08:24:00Z,2022-05-05T09:55:21Z,0,11,CLOSED
+frontend,"refactor(ui,Button): Рефакторинг кнопок",https://github.com/kaluga-astral/frontend/pull/199,2022-04-21T06:55:09Z,2022-04-25T15:00:02Z,12,13,MERGED
+frontend,"bug(ui,ButtonBase): Исправлена ошибка отображения состояния focus",https://github.com/kaluga-astral/frontend/pull/196,2022-04-20T10:56:49Z,2022-04-21T06:27:26Z,0,1,MERGED
+frontend,"feat(ui, DashboardLayout): Исправляет компоненты DashboardLayout, в частности Header, в соотвествии с дизайном",https://github.com/kaluga-astral/frontend/pull/195,2022-04-20T09:13:03Z,2022-05-18T08:04:58Z,5,15,CLOSED
+frontend,"bug(ui,Select): Добавлен пропс getOptionsLabel для форматирования выбранных значений ",https://github.com/kaluga-astral/frontend/pull/193,2022-04-18T08:11:46Z,2022-04-18T10:40:42Z,3,3,MERGED
+frontend,"feat(ui,Autocomplete): Исправил ключи уникальных значений",https://github.com/kaluga-astral/frontend/pull/191,2022-04-16T05:48:33Z,2022-04-16T05:51:38Z,0,1,MERGED
+frontend,"refactor(ui,DatePicker): убран forwardRef, поправлен тип DatePickerProps",https://github.com/kaluga-astral/frontend/pull/188,2022-04-14T10:18:28Z,2022-04-14T10:32:28Z,1,2,MERGED
+frontend,"bug(ui,TextField): исправлен hover background для disabled TextField",https://github.com/kaluga-astral/frontend/pull/187,2022-04-14T07:55:35Z,2022-04-14T08:01:05Z,0,1,MERGED
+frontend,chore: Добавлен механизм публикации @astral/illustrations,https://github.com/kaluga-astral/frontend/pull/186,2022-04-14T07:37:13Z,2022-04-14T13:41:31Z,0,2,MERGED
+frontend,"feat(ui,DatePicker): Реализован компонент DatePicker",https://github.com/kaluga-astral/frontend/pull/185,2022-04-13T10:09:29Z,2022-04-14T10:14:30Z,2,23,MERGED
+frontend,"chore: Добавлены компоненты TextField, Typography, Tooltip в index.js",https://github.com/kaluga-astral/frontend/pull/182,2022-04-11T09:43:18Z,2022-04-11T10:52:27Z,0,1,MERGED
+frontend,"feat(ui,List): Реализован функционал сворачивания List",https://github.com/kaluga-astral/frontend/pull/181,2022-04-11T08:09:22Z,2022-04-15T09:05:36Z,6,9,MERGED
+frontend,build(ui): Исправления в /tsconfig.json. Изменяет SideBar на Sidebar,https://github.com/kaluga-astral/frontend/pull/180,2022-04-07T09:32:19Z,2022-04-07T14:27:12Z,2,8,MERGED
+frontend,"feat(ui,SideDialog): Реализован компонент SideDialog",https://github.com/kaluga-astral/frontend/pull/179,2022-04-07T09:13:54Z,2022-04-18T10:41:27Z,8,9,MERGED
+frontend,chore: Добавлены декларации для изображений,https://github.com/kaluga-astral/frontend/pull/178,2022-04-07T08:23:01Z,2022-04-07T08:25:50Z,0,1,MERGED
+frontend,"feat(ui,SideDialog): Реализован компонент SideDialog",https://github.com/kaluga-astral/frontend/pull/177,2022-04-05T08:45:13Z,2022-04-07T09:14:50Z,0,3,CLOSED
+frontend,"feat(ui,DataGrid): Реализован компонент DataGrid",https://github.com/kaluga-astral/frontend/pull/176,2022-04-05T07:52:45Z,2022-04-20T08:35:42Z,34,25,MERGED
+frontend,"feat(UIKIT-236,ui,Placeholder): Добавлены отступы между элементами в Actions",https://github.com/kaluga-astral/frontend/pull/342,2022-07-29T12:25:21Z,2022-08-10T12:30:07Z,3,5,MERGED
+frontend,chore: Обновлен lock файл и триггеры для chromatic,https://github.com/kaluga-astral/frontend/pull/341,2022-07-28T11:40:11Z,2022-07-28T12:45:28Z,2,6,MERGED
+frontend,"bug(UIKIT-327,ui,OverflowTypography): Добавлен экспорт комопнента",https://github.com/kaluga-astral/frontend/pull/340,2022-07-28T04:20:45Z,2022-07-28T09:05:14Z,3,2,MERGED
+frontend,"chore(UIKIT-335,commander): Добавлена команда для линтинга title PR ",https://github.com/kaluga-astral/frontend/pull/339,2022-07-26T13:18:37Z,2022-07-28T06:36:12Z,2,3,MERGED
+frontend,chore(UIKIT-334): Исправлена ошибка не работающего stylelint на windows,https://github.com/kaluga-astral/frontend/pull/338,2022-07-21T14:55:30Z,2022-07-22T07:28:19Z,2,1,MERGED
+frontend,"feat(UIKIT-281,ui): Добавлен ""Fade/Grow/Slide/Zoom""",https://github.com/kaluga-astral/frontend/pull/336,2022-07-20T07:58:31Z,2022-08-11T08:16:26Z,5,8,MERGED
+frontend,"bug(UIKIT-329,ui,Collapse): Восстановлена анимация состояний",https://github.com/kaluga-astral/frontend/pull/335,2022-07-19T07:24:40Z,2022-07-20T06:17:22Z,7,5,MERGED
+frontend,"feat(UIKIT-327,ui,OverflowTypography): Переиспользуемый компонент для…",https://github.com/kaluga-astral/frontend/pull/334,2022-07-18T07:39:45Z,2022-07-26T13:08:46Z,39,16,MERGED
+frontend,"bug(UIKIT-329,ui,Collapse): Восстановлена анимация состояний",https://github.com/kaluga-astral/frontend/pull/333,2022-07-11T10:07:46Z,2022-07-19T07:23:33Z,2,2,CLOSED
+frontend,chore(UIKIT-251): Изменены триггеры для chromatic,https://github.com/kaluga-astral/frontend/pull/332,2022-07-06T09:44:50Z,2022-07-21T09:20:07Z,2,1,MERGED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/331,2022-07-05T07:27:09Z,2022-07-21T09:20:27Z,1,19,CLOSED
+frontend,"feat(UIKIT-253,ui,Chevron): базовая логика для компонента Chevron",https://github.com/kaluga-astral/frontend/pull/330,2022-07-05T07:02:35Z,2022-07-11T10:50:47Z,6,2,MERGED
+frontend,"bug(UIKIT-314,ui,DataGridPagination): Исправлена подпись пагинации в футере таблицы",https://github.com/kaluga-astral/frontend/pull/329,2022-06-27T13:35:06Z,2022-06-27T13:39:21Z,2,2,MERGED
+frontend,"bug(UIKIT-310,ui,Tooltip): Исправлена ошибка типизации для Tooltip и CircularProgress",https://github.com/kaluga-astral/frontend/pull/328,2022-06-23T11:42:30Z,2022-07-01T08:15:14Z,12,6,MERGED
+frontend,chore(UIKIT-284): Интегрирован общий commitlint config,https://github.com/kaluga-astral/frontend/pull/327,2022-06-22T09:00:27Z,2022-06-22T15:42:35Z,2,4,MERGED
+frontend,"UIKIT-133: feat(ui,Sidebar): Реализует компонент Sidebar ",https://github.com/kaluga-astral/frontend/pull/326,2022-06-21T17:16:22Z,2022-07-20T08:41:38Z,0,8,CLOSED
+frontend,"UIKIT-306: bug(ui,DataGrid): Исправлена работа таблицы без сортировки",https://github.com/kaluga-astral/frontend/pull/325,2022-06-17T11:47:38Z,2022-06-20T06:43:53Z,2,1,MERGED
+frontend,"UIKIT-304: bug(ui,TextField): Неверная высота для size=""small""",https://github.com/kaluga-astral/frontend/pull/324,2022-06-17T07:30:52Z,2022-06-20T08:00:50Z,2,2,MERGED
+frontend,chore: Обновлены версии eslint и stylelint конфигов,https://github.com/kaluga-astral/frontend/pull/323,2022-06-16T07:41:17Z,2022-06-21T14:37:51Z,2,1,MERGED
+frontend,"UIKIT-303: bug(ui,Notification): Использование injectStyle только в браузере",https://github.com/kaluga-astral/frontend/pull/322,2022-06-15T20:27:04Z,2022-06-16T07:17:54Z,2,1,MERGED
+frontend,"UIKIT-302: feat(ui,Button): Установка значения по умолчанию для color",https://github.com/kaluga-astral/frontend/pull/321,2022-06-15T15:14:26Z,2022-06-15T15:30:39Z,2,1,MERGED
+frontend,feat: тест нового дизайн-ревью,https://github.com/kaluga-astral/frontend/pull/320,2022-06-15T12:43:39Z,2022-06-15T12:47:26Z,0,19,CLOSED
+frontend,chore(ui): Обновлены зависимости mui,https://github.com/kaluga-astral/frontend/pull/319,2022-06-15T07:41:45Z,2022-06-15T07:59:38Z,2,2,MERGED
+frontend,"UIKIT-254: feat(ui,Alert): Добавлен компонент Alert",https://github.com/kaluga-astral/frontend/pull/318,2022-06-14T23:14:45Z,2022-09-01T15:07:00Z,11,16,CLOSED
+frontend,"UIKIT-299: feat(ui,DataGrid): Добавлен generic для сортировки",https://github.com/kaluga-astral/frontend/pull/317,2022-06-10T10:22:33Z,2022-06-15T06:27:18Z,10,4,MERGED
+frontend,chore: Обновлен stylelint config,https://github.com/kaluga-astral/frontend/pull/316,2022-06-10T07:58:04Z,2022-06-10T08:02:09Z,2,2,MERGED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/315,2022-06-10T07:42:57Z,2022-06-14T07:57:31Z,0,19,CLOSED
+frontend,chore: Интегрирован общий stylelint config,https://github.com/kaluga-astral/frontend/pull/314,2022-06-10T05:39:39Z,2022-06-10T07:56:58Z,2,2,MERGED
+frontend,"UIKIT-297: feat(ui,DataGrid): Добавление width для поля columns",https://github.com/kaluga-astral/frontend/pull/313,2022-06-09T14:09:00Z,2022-06-09T14:36:34Z,2,1,MERGED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/312,2022-06-09T06:33:24Z,2022-06-10T07:42:41Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/311,2022-06-09T06:09:13Z,2022-06-09T06:32:39Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/310,2022-06-09T06:04:52Z,2022-06-09T06:08:52Z,0,19,CLOSED
+frontend,"UIKIT-294: bug(ui,ContentState): Центрирование лоудера в ContentState",https://github.com/kaluga-astral/frontend/pull/309,2022-06-08T14:45:01Z,2022-06-09T06:22:24Z,4,1,MERGED
+frontend,"UIKIT-275: feat(ui,DataGrid): Добавлен обработчик onRowClick и hover",https://github.com/kaluga-astral/frontend/pull/308,2022-06-08T14:07:02Z,2022-06-09T14:21:37Z,5,4,MERGED
+frontend,"UIKIT-296: chore: Добавить .gitattributes файл, чтобы git не преобразовывал разрывы строк",https://github.com/kaluga-astral/frontend/pull/307,2022-06-08T09:43:42Z,2022-06-08T10:10:05Z,3,3,MERGED
+frontend,"chore: Интегрированы новые пакеты eslint конфигов, обновлен react и ts",https://github.com/kaluga-astral/frontend/pull/306,2022-06-03T13:23:39Z,2022-06-10T07:03:28Z,2,11,MERGED
+frontend,FEAT: Test 3,https://github.com/kaluga-astral/frontend/pull/305,2022-06-03T10:37:51Z,2022-06-03T10:40:51Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/304,2022-06-03T09:28:05Z,2022-06-03T10:22:19Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/303,2022-06-03T09:16:07Z,2022-06-03T09:26:53Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/302,2022-06-03T09:00:51Z,2022-06-03T09:11:44Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/301,2022-06-03T08:52:31Z,2022-06-03T08:58:29Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/300,2022-06-03T08:43:27Z,2022-06-03T08:48:13Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/299,2022-06-03T08:36:11Z,2022-06-03T08:40:20Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/298,2022-06-03T07:59:55Z,2022-06-03T08:35:50Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/297,2022-06-03T07:48:44Z,2022-06-03T07:59:28Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/296,2022-06-03T07:12:15Z,2022-06-03T07:43:04Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/295,2022-06-03T06:58:48Z,2022-06-03T07:11:55Z,0,19,CLOSED
+frontend,"UIKIT-210: feat(ui,Button): Добавлен флаг selected. Исправлен цвет в состоянии loading",https://github.com/kaluga-astral/frontend/pull/294,2022-06-02T13:04:31Z,2022-06-07T06:07:28Z,3,2,MERGED
+frontend,"UIKIT-235: chore(ui,ThemeProvider): Добавляет prop `children` в `ThemeProviderProps`",https://github.com/kaluga-astral/frontend/pull/293,2022-06-02T07:58:14Z,2022-06-02T08:21:40Z,2,1,MERGED
+frontend,"feat(UIKIT-354,ui,Types): Для большинства компонентов добавлен WithoutEmotionSpecific",https://github.com/kaluga-astral/frontend/pull/444,2022-10-31T13:10:12Z,2022-10-31T13:17:44Z,1,4,MERGED
+frontend,"chore(UIKIT-354,ui,Types): Использование WithoutEmotionSpecific",https://github.com/kaluga-astral/frontend/pull/443,2022-10-31T12:30:38Z,2022-10-31T13:00:58Z,3,2,MERGED
+frontend,"bug(UIKIT-488,ui,FormHelperText): Исправлена высота элемента",https://github.com/kaluga-astral/frontend/pull/442,2022-10-19T13:12:48Z,2022-10-19T13:36:59Z,1,2,MERGED
+frontend,"bug(UIKIT-485,ui,Datepicker): добавление возможности взаимодействия c BackdropstackManager",https://github.com/kaluga-astral/frontend/pull/441,2022-10-19T07:48:12Z,2022-10-24T11:50:31Z,10,10,MERGED
+frontend,"bug(UIKIT-481,ui,Fab): фикс варнинга",https://github.com/kaluga-astral/frontend/pull/440,2022-10-18T12:43:01Z,2022-10-19T08:28:46Z,0,1,MERGED
+frontend,"bug(UIKIT-477,ui,Datepicker): Фикс для рендера месяца после зимнего времени",https://github.com/kaluga-astral/frontend/pull/439,2022-10-18T10:41:02Z,2022-10-18T10:48:46Z,1,1,MERGED
+frontend,bug(UIKIT-475): расширение кейсов DatePicker,https://github.com/kaluga-astral/frontend/pull/438,2022-10-18T08:16:34Z,2022-10-18T08:20:11Z,1,1,MERGED
+frontend,"bug(UIKIT-475,ui,Datepicker): Добавлено использование blocks",https://github.com/kaluga-astral/frontend/pull/437,2022-10-18T04:36:30Z,2022-10-18T06:41:56Z,0,2,MERGED
+frontend,bug(form): Исправлены declarations,https://github.com/kaluga-astral/frontend/pull/436,2022-10-17T11:53:06Z,2022-10-17T12:05:47Z,1,1,MERGED
+frontend,"feat(UIKIT-463,form,Autocomplete): Добавлен адаптер для Autocomplete",https://github.com/kaluga-astral/frontend/pull/435,2022-10-14T13:11:51Z,2022-10-26T09:50:19Z,1,6,MERGED
+frontend,"bug(UIKIT-471,ui,Button): Изменён размер высоты size small Button",https://github.com/kaluga-astral/frontend/pull/434,2022-10-14T06:48:30Z,2022-10-14T07:35:36Z,1,2,MERGED
+frontend,"feat(UIKIT-464,form,FormSelect): Добавлен адаптер для Select",https://github.com/kaluga-astral/frontend/pull/433,2022-10-13T05:13:42Z,2022-10-13T10:29:30Z,4,5,MERGED
+frontend,"bug(UIKIT-419,ui,DatePicker): Добавление возможности выставлять значение по умолчанию",https://github.com/kaluga-astral/frontend/pull/432,2022-10-13T03:55:56Z,2022-10-13T13:30:03Z,2,3,MERGED
+frontend,"bug(UIKIT-419,ui,DatePicker): возврат кастомного форматирования/парсинга даты",https://github.com/kaluga-astral/frontend/pull/431,2022-10-12T12:57:36Z,2022-10-12T15:10:25Z,3,3,MERGED
+frontend,"feat(UIKIT-448,ui,Typography): расширение енамов цветов, добавление intesity props",https://github.com/kaluga-astral/frontend/pull/430,2022-10-12T06:24:38Z,2022-10-12T10:06:34Z,3,6,MERGED
+frontend,feat(UIKIT-470): реализация абстрактного хука useForwardedRef,https://github.com/kaluga-astral/frontend/pull/429,2022-10-12T05:13:01Z,2022-10-12T09:17:00Z,3,2,MERGED
+frontend,"bug(UIKIT-460,ui,Button): Убрана тень в состоянии :active",https://github.com/kaluga-astral/frontend/pull/428,2022-10-11T07:02:11Z,2022-10-11T10:52:58Z,1,2,MERGED
+frontend,"feat(UIKIT-462,form,FormMobilePhoneField): Добавлен адаптер для поля мобильного телефона",https://github.com/kaluga-astral/frontend/pull/427,2022-10-11T06:11:06Z,2022-10-11T13:46:36Z,11,13,MERGED
+frontend,"feat(UIKIT-461,validations): Добавлено правило для проверки введенного мобильного телефона",https://github.com/kaluga-astral/frontend/pull/426,2022-10-10T10:24:51Z,2022-10-10T13:42:55Z,2,3,MERGED
+frontend,"feat(UIKIT-141,form,FormCheckbox): Реализован адаптер для Checkbox",https://github.com/kaluga-astral/frontend/pull/425,2022-10-07T09:51:26Z,2022-10-07T12:58:28Z,4,5,MERGED
+frontend,"feat(UIKIT-142,form,FormMaskField): Реализован адаптер для MaskField",https://github.com/kaluga-astral/frontend/pull/424,2022-10-06T09:41:15Z,2022-10-10T09:20:49Z,2,8,MERGED
+frontend,chore(form): Добавлен publish в npm,https://github.com/kaluga-astral/frontend/pull/423,2022-10-03T10:53:27Z,2022-10-03T10:55:58Z,1,1,MERGED
+frontend,"feat(UIKIT-418,validations): Расширен список правил валидации",https://github.com/kaluga-astral/frontend/pull/422,2022-09-30T10:36:00Z,2022-10-06T12:45:10Z,36,15,MERGED
+frontend,chore(UIKIT-454): Исправлен запуск lint-staged для eslint и stylelint,https://github.com/kaluga-astral/frontend/pull/421,2022-09-30T05:57:12Z,2022-09-30T06:27:37Z,1,1,MERGED
+frontend,"bug(UIKIT-452,ui,Grid): фикс варнинга неизвестного атрибута",https://github.com/kaluga-astral/frontend/pull/420,2022-09-29T06:23:14Z,2022-09-29T07:29:07Z,1,1,MERGED
+frontend,"bug(UIKIT-447,ui,BackdropManager): фолбэк для nodejs окружения",https://github.com/kaluga-astral/frontend/pull/419,2022-09-29T05:27:20Z,2022-09-29T09:14:08Z,1,1,MERGED
+frontend,"feat(UIKIT-419,ui,DatePicker): Новая реализация компонента DatePicker",https://github.com/kaluga-astral/frontend/pull/418,2022-09-28T11:04:19Z,2022-10-12T09:49:27Z,68,36,MERGED
+frontend,chore(UIKIT-451): В changelog добавлен раздел build,https://github.com/kaluga-astral/frontend/pull/417,2022-09-27T14:03:53Z,2022-09-27T21:23:51Z,1,1,MERGED
+frontend,"bug(UIKIT-447,ui,BackdropStack): Удален nanoid",https://github.com/kaluga-astral/frontend/pull/416,2022-09-27T10:57:02Z,2022-09-28T07:27:20Z,4,3,MERGED
+frontend,"build(UIKIT-449,fonts,illustrations): Исправлена ошибка в package.json",https://github.com/kaluga-astral/frontend/pull/415,2022-09-26T13:55:57Z,2022-09-27T11:04:09Z,4,10,MERGED
+frontend,chore(UIKIT-356): Оптимизирован запуск линтеров для lint-staged,https://github.com/kaluga-astral/frontend/pull/414,2022-09-26T11:55:52Z,2022-09-26T15:30:37Z,3,1,MERGED
+frontend,chore: Изменен текст для релизных нотификаций в telegram,https://github.com/kaluga-astral/frontend/pull/413,2022-09-23T06:45:11Z,2022-09-23T06:49:03Z,1,2,MERGED
+frontend,"bug(UIKIT-437,ui,Placeholder): фикс растягивания картинки",https://github.com/kaluga-astral/frontend/pull/412,2022-09-20T10:37:33Z,2022-09-20T12:08:32Z,1,1,MERGED
+frontend,"feat(UIKIT-140,form): Реализованы базовые компоненты @astral/form",https://github.com/kaluga-astral/frontend/pull/411,2022-09-20T08:54:16Z,2022-09-20T14:26:23Z,3,13,MERGED
+frontend,"bug(UIKIT-436,ui,Button): Обнуление паддингов для версии link",https://github.com/kaluga-astral/frontend/pull/410,2022-09-19T14:36:42Z,2022-09-20T06:03:18Z,3,2,MERGED
+frontend,"bug(UIKIT-234,ui,ConfigProvider): Изменена типизация функции captureException",https://github.com/kaluga-astral/frontend/pull/409,2022-09-19T12:35:47Z,2022-09-20T09:18:52Z,1,1,MERGED
+frontend,"feat(UIKIT-429,ui,Placeholder): Верстка компонента адаптированна под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/408,2022-09-19T08:24:16Z,2022-09-19T10:53:11Z,6,4,MERGED
+frontend,"feat(UIKIT-418,validations): Реализован пакет validations с базовыми правилами",https://github.com/kaluga-astral/frontend/pull/407,2022-09-19T06:16:18Z,2022-09-21T14:20:26Z,5,18,MERGED
+frontend,chore(UIKIT-432): Настроен jest,https://github.com/kaluga-astral/frontend/pull/406,2022-09-16T13:11:51Z,2022-09-16T14:39:25Z,3,2,MERGED
+frontend,"feat(UIKIT-260,ui,ContentState): Реализованы ErrorBoundary и ConfigProvider",https://github.com/kaluga-astral/frontend/pull/405,2022-09-16T12:06:51Z,2022-09-19T08:53:31Z,6,4,MERGED
+frontend,"feat(UIKIT-217,ui,DataGrid): Реализовано состояние NoData",https://github.com/kaluga-astral/frontend/pull/404,2022-09-15T14:32:07Z,2022-09-16T11:31:39Z,16,7,MERGED
+frontend,bug(UIKIT-350): Расширение причин для закрытия в BackdropClickManager,https://github.com/kaluga-astral/frontend/pull/403,2022-09-15T10:24:17Z,2022-09-15T12:55:02Z,1,12,MERGED
+frontend,"feat(UIKIT-428,ui,Description): Изменён размер шрифта для mobile и default цвет для Name",https://github.com/kaluga-astral/frontend/pull/402,2022-09-15T09:55:58Z,2022-09-15T11:27:17Z,2,2,MERGED
+frontend,"bug(UIKIT-420,ui,Typography): Исправлена типизация Typography",https://github.com/kaluga-astral/frontend/pull/401,2022-09-14T12:30:38Z,2022-09-16T14:35:08Z,3,3,MERGED
+frontend,"feat(UIKIT-234,ui,ProductSwitcher): Добавлен компонент ProductSwitcher",https://github.com/kaluga-astral/frontend/pull/400,2022-09-14T12:22:58Z,2022-09-21T18:50:53Z,19,14,MERGED
+frontend,"feat(UIKIT-425,ui,Description): Адаптация под мобильную версию ",https://github.com/kaluga-astral/frontend/pull/399,2022-09-14T09:36:18Z,2022-09-14T09:47:44Z,2,1,MERGED
+frontend,"bug(UIKIT-426,ui,DashboardLayout): опциональный profile",https://github.com/kaluga-astral/frontend/pull/398,2022-09-14T08:31:10Z,2022-09-14T08:36:10Z,1,1,MERGED
+frontend,chore(UIKIT-411) - Откачено добавление текста комментария в PR при уведомлении в Telegram,https://github.com/kaluga-astral/frontend/pull/397,2022-09-14T06:41:54Z,2022-09-15T06:50:19Z,4,2,MERGED
+frontend,bug(UIKIT-231): Для зависимостей mui добавлен ^,https://github.com/kaluga-astral/frontend/pull/396,2022-09-14T06:38:46Z,2022-09-14T08:40:42Z,1,1,MERGED
+frontend,"feat(UIKIT-350,ui,BackdropStack): Реализация абстрактного компонента BackdropStackManager",https://github.com/kaluga-astral/frontend/pull/395,2022-09-13T15:02:53Z,2022-09-15T06:48:15Z,1,10,MERGED
+frontend,chore: Добавлены отдельные ts-конфиги для сборки пакетов,https://github.com/kaluga-astral/frontend/pull/394,2022-09-13T12:35:48Z,2022-09-15T13:11:01Z,9,8,MERGED
+frontend,feat(UIKIT-411): добавлен текст комментария для бота телеграмм,https://github.com/kaluga-astral/frontend/pull/393,2022-09-13T12:26:50Z,2022-09-13T14:49:59Z,1,1,MERGED
+frontend," feat(UIKIT-350,ui,BackdropStack): Реализация абстрактного компонента BackdropStack",https://github.com/kaluga-astral/frontend/pull/392,2022-09-13T11:02:22Z,2022-09-13T15:02:15Z,0,9,CLOSED
+frontend,feat(UIKIT-421): Адаптирован Button под мобильную версию в соответствии с дизайном,https://github.com/kaluga-astral/frontend/pull/391,2022-09-13T06:39:23Z,2022-09-14T09:07:41Z,10,8,MERGED
+frontend,"chore(UIKIT-423,ui,Alert): Доработать компонент Alert",https://github.com/kaluga-astral/frontend/pull/390,2022-09-12T11:47:06Z,2022-09-13T08:29:07Z,1,4,MERGED
+frontend,feat(UIKIT-413): Реализован компонент Tab и Tabs и storybook для них,https://github.com/kaluga-astral/frontend/pull/389,2022-09-09T09:58:34Z,2022-09-09T12:22:06Z,5,5,MERGED
+frontend,feat(UIKIT-399): Реализован компонент Fab и storybook под него,https://github.com/kaluga-astral/frontend/pull/388,2022-09-07T12:45:21Z,2022-09-09T07:57:13Z,21,8,MERGED
+frontend,"feat(UIKIT-407,ui,SwipeableDrawer): Создание компонента SwipeableDrawer",https://github.com/kaluga-astral/frontend/pull/387,2022-09-07T10:58:34Z,2022-09-08T13:33:03Z,30,9,MERGED
+frontend,chore: Исправлена ссылка на changelog,https://github.com/kaluga-astral/frontend/pull/386,2022-09-07T08:57:58Z,2022-09-07T09:01:47Z,1,1,MERGED
+frontend,"bug(UIKIT-410,ui,palette): Добавлен secondary цвет для текста",https://github.com/kaluga-astral/frontend/pull/385,2022-09-06T15:49:02Z,2022-09-09T07:36:07Z,1,1,MERGED
+frontend,"bug(UIKIT-389,ui,Tag): Добавлен forwardRef",https://github.com/kaluga-astral/frontend/pull/384,2022-09-06T15:20:27Z,2022-09-09T07:36:20Z,1,1,MERGED
+frontend,"bug(UIKIT-330,ui,DatePicker): упрощение метода валидации выбранной даты",https://github.com/kaluga-astral/frontend/pull/383,2022-09-06T13:04:30Z,2022-09-06T14:46:16Z,2,1,CLOSED
+frontend,"feat(UIKIT-311,ui,Descriptions): Реализован компонент Descriptions",https://github.com/kaluga-astral/frontend/pull/382,2022-09-06T08:48:08Z,2022-09-06T13:19:29Z,10,2,MERGED
+frontend,"feat(UIKIT-254,ui,Alert): Добавлен компонент Alert",https://github.com/kaluga-astral/frontend/pull/381,2022-09-05T17:10:20Z,2022-09-08T12:52:57Z,1,2,MERGED
+frontend,"bug(UIKIT-38,fonts): Исправлено вертикальное выравнивание у шрифтов",https://github.com/kaluga-astral/frontend/pull/380,2022-09-02T12:27:09Z,2022-09-05T10:02:22Z,1,3,MERGED
+frontend,"feat(UIKIT-185,ui,DataGrid): Изменены внешний вид и логика компонента сортировки",https://github.com/kaluga-astral/frontend/pull/379,2022-09-02T11:53:51Z,2022-09-06T08:53:58Z,13,5,MERGED
+frontend,doc: Добавлено описание авторелизов и описаны enums коммитов,https://github.com/kaluga-astral/frontend/pull/378,2022-09-02T06:56:12Z,2022-09-02T07:21:41Z,2,6,MERGED
+frontend,chore: Убран триггер для dev ветки,https://github.com/kaluga-astral/frontend/pull/377,2022-09-01T14:56:50Z,2022-09-01T14:56:58Z,1,7,MERGED
+frontend,"chore: Отключен паблишинг illustrations, если не изменилась версия пакета",https://github.com/kaluga-astral/frontend/pull/376,2022-09-01T11:08:10Z,2022-09-01T11:08:16Z,1,6,MERGED
+frontend,"chore: Отключен паблишинг пакетов, если версия не изменилась",https://github.com/kaluga-astral/frontend/pull/375,2022-09-01T11:04:31Z,2022-09-01T11:05:54Z,1,5,MERGED
+frontend,"chore: Отключен паблишинг пакетов, если версия не изменилась",https://github.com/kaluga-astral/frontend/pull/374,2022-09-01T10:46:50Z,2022-09-01T10:54:49Z,1,3,MERGED
+frontend,"feat(UIKIT-38,fonts): Оптимизация шрифтов",https://github.com/kaluga-astral/frontend/pull/373,2022-09-01T10:14:11Z,2022-09-01T10:53:19Z,1,1,MERGED
+frontend,chore: Поправлена ссылка на changelog для telegram,https://github.com/kaluga-astral/frontend/pull/372,2022-09-01T08:37:06Z,2022-09-01T08:38:46Z,1,3,MERGED
+frontend,build: Тест релиза,https://github.com/kaluga-astral/frontend/pull/371,2022-09-01T08:25:45Z,2022-09-01T08:25:54Z,2,2,MERGED
+frontend,build: Тест релиза,https://github.com/kaluga-astral/frontend/pull/370,2022-09-01T08:19:56Z,2022-09-01T08:20:04Z,2,1,MERGED
+frontend,bug: Настроен паблишинг пакетов,https://github.com/kaluga-astral/frontend/pull/369,2022-08-31T15:24:10Z,2022-08-31T15:24:22Z,1,3,MERGED
+frontend,bug: Настроен паблишинг пакетов,https://github.com/kaluga-astral/frontend/pull/368,2022-08-31T15:18:06Z,2022-08-31T15:18:15Z,1,2,MERGED
+frontend,bug: Тест релиза пакетов,https://github.com/kaluga-astral/frontend/pull/367,2022-08-31T14:33:04Z,2022-08-31T14:33:14Z,1,4,MERGED
+frontend,chore: Тест релиза пакета,https://github.com/kaluga-astral/frontend/pull/366,2022-08-31T13:54:06Z,2022-08-31T13:54:13Z,1,2,MERGED
+frontend,chore: Настроен авторелиз для пакетов,https://github.com/kaluga-astral/frontend/pull/365,2022-08-31T13:39:02Z,2022-08-31T13:41:26Z,2,1,MERGED
+frontend,feat(UIKIT-380): добавление цветовой темы KEDO,https://github.com/kaluga-astral/frontend/pull/364,2022-08-31T12:55:40Z,2022-09-01T05:27:08Z,3,2,MERGED
+frontend,chore: Добавлен prettier config,https://github.com/kaluga-astral/frontend/pull/363,2022-08-30T08:35:03Z,2022-08-30T09:15:02Z,2,1,MERGED
+frontend,"bug(UIKIT-253,ui,Chevron): использованеие shouldForwardProp для устранения варнинга",https://github.com/kaluga-astral/frontend/pull/362,2022-08-30T05:16:17Z,2022-08-30T06:16:15Z,2,1,MERGED
+frontend,"doc(UIKIT-255,ui): Реализован storybook в соответствии с дизайном для Button",https://github.com/kaluga-astral/frontend/pull/361,2022-08-29T10:17:09Z,2022-09-19T07:22:23Z,10,10,MERGED
+frontend,"bug(UIKIT-327,ui,Typography): Добавление forwardRef",https://github.com/kaluga-astral/frontend/pull/360,2022-08-26T06:00:47Z,2022-08-26T06:19:53Z,2,1,MERGED
+frontend,"bug(UIKIT-327,ui,OverflowTypography): Возврат префикса для OverflowTypography",https://github.com/kaluga-astral/frontend/pull/359,2022-08-25T12:13:30Z,2022-08-25T12:34:25Z,2,1,MERGED
+frontend,"bug(UIKIT-382,ui,NavMenu): Добавлен key при рендере NavMenuItem",https://github.com/kaluga-astral/frontend/pull/358,2022-08-25T09:32:24Z,2022-08-25T09:45:32Z,2,1,MERGED
+frontend,"bug(UIKIT-381,ui,DataGridPagination): Исправлено прокидывание пропса page",https://github.com/kaluga-astral/frontend/pull/357,2022-08-25T09:25:47Z,2022-08-26T10:26:52Z,2,1,MERGED
+frontend,"feat(UIKIT-307,ui,Typography): Добавлен пропс color",https://github.com/kaluga-astral/frontend/pull/356,2022-08-18T12:16:37Z,2022-08-19T11:14:49Z,7,3,MERGED
+frontend,bug: Исправлена ошибка при сборке пакета в production,https://github.com/kaluga-astral/frontend/pull/355,2022-08-15T10:02:57Z,2022-08-15T10:48:33Z,5,1,MERGED
+frontend,"feat(UIKIT-350,ui,BackdropStack): Реализация абстрактного компонента BackdropStackManager",https://github.com/kaluga-astral/frontend/pull/354,2022-08-15T07:07:16Z,2022-09-13T11:00:39Z,21,9,CLOSED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/353,2022-08-11T09:25:13Z,2022-08-11T09:26:32Z,0,1,CLOSED
+frontend,chore: В корневой index.ts добавлены недостающие компоненты,https://github.com/kaluga-astral/frontend/pull/352,2022-08-11T08:58:01Z,2022-08-11T10:11:43Z,3,9,MERGED
+frontend,feat: test,https://github.com/kaluga-astral/frontend/pull/351,2022-08-11T07:52:01Z,2022-08-11T08:00:55Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/350,2022-08-11T07:50:18Z,2022-08-11T07:51:26Z,0,19,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/349,2022-08-11T07:16:12Z,2022-08-11T07:49:38Z,0,19,CLOSED
+frontend,feat: Test 3,https://github.com/kaluga-astral/frontend/pull/348,2022-08-05T11:15:21Z,2022-08-11T07:15:32Z,0,19,CLOSED
+frontend,"chore(UIKIT-345,ui): Переезд на vite",https://github.com/kaluga-astral/frontend/pull/347,2022-08-05T11:11:30Z,2022-08-10T13:49:39Z,8,3,MERGED
+frontend,feat: Test design,https://github.com/kaluga-astral/frontend/pull/346,2022-08-05T11:05:19Z,2022-08-05T11:12:51Z,0,19,CLOSED
+frontend,"feat(UIKIT-348,illustrations): Оптимизация для иллюстраций",https://github.com/kaluga-astral/frontend/pull/345,2022-08-05T10:33:52Z,2022-08-17T08:02:37Z,2,2,MERGED
+frontend,"feat(UIKIT-341,ui,Dialog): Добавление ариа атрибута на крестик модалки",https://github.com/kaluga-astral/frontend/pull/344,2022-08-03T06:01:50Z,2022-08-03T07:11:16Z,4,4,MERGED
+frontend,"feat(UIKIT-349,icons): Дополнительная оптимизация для иконок",https://github.com/kaluga-astral/frontend/pull/343,2022-08-01T07:55:26Z,2022-08-03T05:43:48Z,3,1,MERGED
+frontend,"feat(UIKIT-595,ui,Brand): Добавлены цвета новых продуктов МЧД И Документ",https://github.com/kaluga-astral/frontend/pull/523,2022-12-30T08:54:43Z,2023-01-12T07:23:18Z,3,4,MERGED
+frontend,"feat(UIKIT-93,ui,RangeDatePicker): Новый компонент DateRangePicker",https://github.com/kaluga-astral/frontend/pull/522,2022-12-30T08:49:32Z,2023-07-07T13:48:14Z,49,30,MERGED
+frontend,build: Исправлена команда релиза,https://github.com/kaluga-astral/frontend/pull/521,2022-12-29T06:44:02Z,2022-12-29T06:44:26Z,1,1,MERGED
+frontend,build: Исправлена команда билда пакета,https://github.com/kaluga-astral/frontend/pull/520,2022-12-29T06:18:30Z,2022-12-29T06:27:33Z,1,3,MERGED
+frontend,build(form): Исправлена команда билда пакета,https://github.com/kaluga-astral/frontend/pull/519,2022-12-29T05:52:21Z,2022-12-29T05:55:28Z,2,1,MERGED
+frontend,bug(ui): Добавлены актуальные шрифты,https://github.com/kaluga-astral/frontend/pull/518,2022-12-27T09:02:52Z,2022-12-27T09:02:58Z,1,1,MERGED
+frontend,major: Релиз пакетов 2.0.0,https://github.com/kaluga-astral/frontend/pull/517,2022-12-27T08:33:11Z,2022-12-27T08:33:18Z,1,1,MERGED
+frontend,major: Релиз пакетов 2.0.0,https://github.com/kaluga-astral/frontend/pull/516,2022-12-27T08:27:48Z,2022-12-28T08:42:33Z,1,8,MERGED
+frontend,chore: Обновлен commitlint config,https://github.com/kaluga-astral/frontend/pull/515,2022-12-26T06:52:16Z,2022-12-26T07:10:04Z,1,1,MERGED
+frontend,"feat(UIKIT-590,form): Для всех экспортируемых модулей добавлен Form префикс",https://github.com/kaluga-astral/frontend/pull/514,2022-12-23T11:59:57Z,2022-12-27T08:15:43Z,1,10,MERGED
+frontend,"feat(UIKIT-591,components): Удален DatePickerProvider",https://github.com/kaluga-astral/frontend/pull/513,2022-12-23T08:21:29Z,2022-12-23T10:25:48Z,1,2,MERGED
+frontend,"feat(UIKIT-591,components): Удален DatePickerProvider",https://github.com/kaluga-astral/frontend/pull/512,2022-12-23T08:20:14Z,2022-12-23T08:20:19Z,0,4,CLOSED
+frontend,chore(UIKIT-431): Настроен major релиз и CI для next ветки,https://github.com/kaluga-astral/frontend/pull/511,2022-12-23T07:20:47Z,2022-12-23T08:17:20Z,1,28,MERGED
+frontend,"feat(UIKIT-587,ui,Autocomplete): Добавлен пропс isOptionEqualToValue",https://github.com/kaluga-astral/frontend/pull/510,2022-12-21T06:41:34Z,2022-12-21T09:10:55Z,3,2,MERGED
+frontend,"feat(UIKIT-580,icons): Добавлены иконки save и cert",https://github.com/kaluga-astral/frontend/pull/509,2022-12-20T12:32:52Z,2022-12-20T20:04:25Z,1,4,MERGED
+frontend,"feat(UIKIT-495,validations,composeSome): Добавлен composeSome для валидаторов",https://github.com/kaluga-astral/frontend/pull/508,2022-12-16T05:09:30Z,2022-12-28T21:59:55Z,3,4,MERGED
+frontend,"feat(UIKIT-493,validations,isEmail): Добавлен валидатор email",https://github.com/kaluga-astral/frontend/pull/507,2022-12-16T02:52:11Z,2022-12-22T07:46:38Z,6,3,MERGED
+frontend,feat(UIKIT-431): Реализован обобщенный пакет astral/ui,https://github.com/kaluga-astral/frontend/pull/506,2022-12-15T15:14:52Z,2022-12-16T12:53:38Z,4,24,MERGED
+frontend,"bug(UIKIT-585,ui,DatePicker): фикс неправильной проверки на выбранный день",https://github.com/kaluga-astral/frontend/pull/505,2022-12-15T11:24:48Z,2022-12-15T13:09:31Z,4,5,MERGED
+frontend,"bug(UIKIT-585,ui,DatePicker): фикс неправильной проверки на выбранный день",https://github.com/kaluga-astral/frontend/pull/504,2022-12-15T09:12:28Z,2022-12-15T09:15:42Z,0,1,CLOSED
+frontend,"bug(UIKIT-583,Form): Добавлен экспорт компонента Form",https://github.com/kaluga-astral/frontend/pull/503,2022-12-12T08:04:01Z,2022-12-14T06:32:09Z,0,1,MERGED
+frontend,"feat(UIKIT-551,ui,AwayClickListener): опциональный isActive",https://github.com/kaluga-astral/frontend/pull/502,2022-12-09T06:56:59Z,2022-12-14T17:33:49Z,4,15,MERGED
+frontend,"bug(UIKIT-578,ui,OverflowTypography): обрезание текста в одну строчку побуквенно",https://github.com/kaluga-astral/frontend/pull/501,2022-12-09T06:46:42Z,2022-12-09T10:35:29Z,4,6,MERGED
+frontend,"bug(UIKIT-487,form,hooks): Добавлены ref для всех полей форм",https://github.com/kaluga-astral/frontend/pull/500,2022-12-08T23:50:14Z,2023-02-21T15:27:07Z,8,14,MERGED
+frontend,"bug(UIKIT-575,DatePicker): Теперь onBlur не вызывается, если popover закрыт",https://github.com/kaluga-astral/frontend/pull/499,2022-12-07T13:46:03Z,2022-12-09T06:55:41Z,5,3,MERGED
+frontend,test(UIKIT-574): Настроена проверка публикуемых пакетов на ошибки,https://github.com/kaluga-astral/frontend/pull/498,2022-12-07T09:28:26Z,2022-12-09T09:08:26Z,1,33,MERGED
+frontend,"feat(UIKIT-551,ui,AwayClickListener): реализован абстрактный компонент AwayClickListener",https://github.com/kaluga-astral/frontend/pull/497,2022-12-07T08:49:36Z,2022-12-09T06:24:41Z,34,10,MERGED
+frontend,"bug(UIKIT-566,ui,ProductSwitcher): Добавлена подпись. Исправлен переход по продуктам",https://github.com/kaluga-astral/frontend/pull/496,2022-12-06T18:24:37Z,2022-12-07T13:06:40Z,9,7,MERGED
+frontend,"feat(UIKIT-538,ui,Grid): Добавлен ref проброс",https://github.com/kaluga-astral/frontend/pull/495,2022-12-05T22:15:51Z,2022-12-07T07:58:33Z,3,3,MERGED
+frontend,"bug(UIKIT-565,DatePicker): Исправлена ошибка, из-за которой неверно работала валидация",https://github.com/kaluga-astral/frontend/pull/494,2022-12-05T12:53:54Z,2022-12-05T13:12:18Z,3,4,MERGED
+frontend,"feat(UIKIT-558,ui,Switch): Реализован компонент Switch",https://github.com/kaluga-astral/frontend/pull/493,2022-12-05T07:12:49Z,2022-12-07T07:12:06Z,5,7,MERGED
+frontend,"bug(UIKIT-562,form,FormAutocomplete): Добавлен экспорт FormAutocomplete",https://github.com/kaluga-astral/frontend/pull/492,2022-12-02T18:51:12Z,2022-12-05T05:00:31Z,1,1,MERGED
+frontend,"feat(UIKIT-552,form,FormDatePicker): Реализован компонент FormDatePicker",https://github.com/kaluga-astral/frontend/pull/491,2022-12-02T09:48:57Z,2022-12-02T16:00:56Z,1,5,MERGED
+frontend,"feat(UIKIT-559,ui,DashboardLayout): Исправлен размер шрифта лого и отступы",https://github.com/kaluga-astral/frontend/pull/490,2022-12-01T15:48:13Z,2022-12-07T08:11:48Z,3,8,MERGED
+frontend,"feat(UIKIT-558,ui,ToggleButtonGroup): Добавлен компонент ToggleButtonGroup",https://github.com/kaluga-astral/frontend/pull/489,2022-11-30T14:15:15Z,2022-12-01T10:15:35Z,3,2,MERGED
+frontend,"bug(UIKIT-556,ui,PageHeader): добавлена высота строки для заголовка страницы",https://github.com/kaluga-astral/frontend/pull/488,2022-11-30T08:07:13Z,2022-11-30T08:17:09Z,2,2,MERGED
+frontend,"test(UIKIT-555,DropdownButton): Написаны базовые тесты для компонента",https://github.com/kaluga-astral/frontend/pull/487,2022-11-30T07:57:09Z,2022-12-02T11:47:17Z,1,3,MERGED
+frontend,"bug(UIKIT-554,ui,ActionCell): добавлена возможность прокидывать пропы до контролов",https://github.com/kaluga-astral/frontend/pull/486,2022-11-30T06:31:07Z,2022-11-30T08:00:11Z,3,5,MERGED
+frontend,"feat(UIKIT-552,DatePicker): OnChange теперь работает только с Date",https://github.com/kaluga-astral/frontend/pull/485,2022-11-29T14:39:10Z,2022-12-02T07:55:33Z,5,10,MERGED
+frontend,doc: Переезд storybook с vite на webpack,https://github.com/kaluga-astral/frontend/pull/484,2022-11-29T13:17:55Z,2022-11-29T13:30:37Z,1,3,MERGED
+frontend,build: Исправлен битый билд пакетов,https://github.com/kaluga-astral/frontend/pull/483,2022-11-29T06:59:07Z,2022-11-29T12:24:15Z,1,2,MERGED
+frontend,chore(UIKIT-536): Настроен eslint для js файлов,https://github.com/kaluga-astral/frontend/pull/482,2022-11-28T12:56:07Z,2022-11-28T13:06:20Z,1,1,MERGED
+frontend,"feat(UIKIT-484,icons): Версионирование для всех оптимизированных картинок",https://github.com/kaluga-astral/frontend/pull/481,2022-11-28T09:29:13Z,2022-11-29T12:51:10Z,3,5,MERGED
+frontend,"bug(UIKIT-540,ui,BackdropstackManager): добавление условий хэндлерам открытия и закрытия",https://github.com/kaluga-astral/frontend/pull/480,2022-11-28T08:54:49Z,2022-11-30T09:45:02Z,1,6,MERGED
+frontend,"feat(UIKIT-537,form,useFieldError): Добавлена поддержка отображения ошибки без message",https://github.com/kaluga-astral/frontend/pull/479,2022-11-28T07:34:05Z,2022-11-28T09:49:25Z,1,2,MERGED
+frontend,test: Jest заменен на vitest,https://github.com/kaluga-astral/frontend/pull/478,2022-11-28T07:33:52Z,2022-11-28T07:58:28Z,1,3,MERGED
+frontend,"feat(UIKIT-550,ui,Dialog): Title принимает React элементы",https://github.com/kaluga-astral/frontend/pull/477,2022-11-25T06:31:54Z,2022-11-25T07:38:42Z,3,3,MERGED
+frontend,"bug(UIKIT-549,ui,DatePicker): фикс для поддержки реакт 18",https://github.com/kaluga-astral/frontend/pull/476,2022-11-24T08:16:47Z,2022-11-24T08:23:22Z,1,1,MERGED
+frontend,"build(UIKIT-548,form): Исправлен битый релиз пакета",https://github.com/kaluga-astral/frontend/pull/475,2022-11-23T07:35:24Z,2022-11-23T07:45:27Z,1,1,MERGED
+frontend,"feat(UIKIT-187,ui,PageLayout): Добавлен компонент PageLayout",https://github.com/kaluga-astral/frontend/pull/474,2022-11-21T06:21:23Z,2022-11-22T10:59:50Z,11,20,MERGED
+frontend,"bug(UIKIT-533,icons): Исправлена иконка crossSm-outline-sm",https://github.com/kaluga-astral/frontend/pull/473,2022-11-18T09:24:15Z,2022-11-23T08:20:30Z,2,5,MERGED
+frontend,"bug(UIKIT-533,icons): Исправлена иконка crossSm-outline-sm",https://github.com/kaluga-astral/frontend/pull/472,2022-11-18T09:07:43Z,2022-11-18T09:15:49Z,2,1,CLOSED
+frontend,"feat(UIKIT-524,ui,DataGrid): Добавлено disabled состояние и использование его для loading",https://github.com/kaluga-astral/frontend/pull/471,2022-11-17T03:02:10Z,2022-11-24T08:49:44Z,4,7,MERGED
+frontend,"bug(UIKIT-523,ui,DataGrid): Исправлено дублирование отмеченных строк в onSelectRow",https://github.com/kaluga-astral/frontend/pull/470,2022-11-17T01:05:13Z,2022-11-18T05:57:39Z,2,2,MERGED
+frontend,"bug(UIKIT-525,ui,ActionCell): Исправлено применение выравнивания в DataGrid",https://github.com/kaluga-astral/frontend/pull/469,2022-11-16T10:19:25Z,2022-11-16T10:20:26Z,1,1,MERGED
+frontend,"bug(UIKIT-525,ui,ActionCell): Исправлено применение выравнивания в DataGrid",https://github.com/kaluga-astral/frontend/pull/468,2022-11-15T10:56:24Z,2022-11-16T09:48:46Z,0,1,MERGED
+frontend,"feat(UIKIT-513,ui,ConfirmDialog): Добавлен компонент ConfirmDialog",https://github.com/kaluga-astral/frontend/pull/467,2022-11-15T10:05:09Z,2022-12-09T07:39:28Z,10,8,MERGED
+frontend,test(UIKIT-509): Внедрен react-testing-library,https://github.com/kaluga-astral/frontend/pull/466,2022-11-15T06:18:30Z,2022-11-16T10:47:41Z,4,31,MERGED
+frontend,test,https://github.com/kaluga-astral/frontend/pull/465,2022-11-11T13:53:01Z,2022-11-11T14:01:22Z,0,1,CLOSED
+frontend,Test 3,https://github.com/kaluga-astral/frontend/pull/464,2022-11-11T13:15:47Z,2022-11-11T13:52:37Z,0,19,CLOSED
+frontend,chore(UIKIT-509): Внедрен playwright для компонентного тестирования,https://github.com/kaluga-astral/frontend/pull/463,2022-11-10T08:04:58Z,2022-11-15T06:20:42Z,1,10,CLOSED
+frontend,"bug(UIKIT-519,ui,DataGrid): Исправлено отображение плейсхолдера в FF",https://github.com/kaluga-astral/frontend/pull/462,2022-11-09T14:13:36Z,2022-11-10T11:50:10Z,2,2,MERGED
+frontend,"feat(UIKIT-517,icons): Добавлены новые иконки",https://github.com/kaluga-astral/frontend/pull/461,2022-11-09T08:54:43Z,2022-11-09T09:45:05Z,4,1,MERGED
+frontend,"feat(UIKIT-512,icons): Добавлены иконки для Stepper",https://github.com/kaluga-astral/frontend/pull/460,2022-11-09T07:55:43Z,2022-11-09T11:00:31Z,1,4,MERGED
+frontend,"feat(UIKIT-508,ui,Collapse): Экспорт Collapse компонента",https://github.com/kaluga-astral/frontend/pull/459,2022-11-09T01:25:37Z,2022-11-09T09:48:24Z,1,1,MERGED
+frontend,"feat(UIKIT-516,ui,DataGrid): Добавлена возможность растягиваться по высоте контейнера",https://github.com/kaluga-astral/frontend/pull/458,2022-11-08T18:38:06Z,2022-11-09T07:32:47Z,5,2,MERGED
+frontend,"feat(UIKIT-512,ui,Stepper): Реализован горизонтальный степпер",https://github.com/kaluga-astral/frontend/pull/457,2022-11-08T10:21:54Z,2022-11-10T11:19:23Z,8,18,MERGED
+frontend,"bug(UIKIT-503,ui,NavMenuItem): Цвета состояний теперь соответствуют макетам",https://github.com/kaluga-astral/frontend/pull/456,2022-11-08T08:57:48Z,2022-11-08T08:58:08Z,1,1,MERGED
+frontend,chore(UIKIT-476): Исправлена проблема конкурирующих релизов,https://github.com/kaluga-astral/frontend/pull/455,2022-11-07T11:00:01Z,2022-11-07T11:03:05Z,1,1,MERGED
+frontend,doc: Добавлено описание модели ветвления GIT,https://github.com/kaluga-astral/frontend/pull/454,2022-11-07T07:26:43Z,2022-11-07T07:44:45Z,1,1,MERGED
+frontend,"feat(UIKIT-506,ui,useRadioGroup): Экспорт хука useRadioGroup",https://github.com/kaluga-astral/frontend/pull/453,2022-11-07T05:52:24Z,2022-11-07T05:53:58Z,1,1,MERGED
+frontend,"feat(UIKIT-506,ui,useRadioGroup): Экспорт хука useRadioGroup",https://github.com/kaluga-astral/frontend/pull/452,2022-11-03T08:12:57Z,2022-11-03T08:33:09Z,1,1,MERGED
+frontend,"bug(UIKIT-503,ui,NavMenuItem): Цвета состояний теперь соответствуют макетам",https://github.com/kaluga-astral/frontend/pull/451,2022-11-03T06:48:58Z,2022-11-08T07:34:45Z,6,8,MERGED
+frontend,"bug(UIKIT-435,ui,Placeholder): Изображение не обязательно. Заголовок может быть элементом",https://github.com/kaluga-astral/frontend/pull/450,2022-11-02T10:42:52Z,2022-11-02T13:11:35Z,3,2,MERGED
+frontend,"feat(UIKIT-499,ui,DialogTitle): Убраны прямые зависимости от mui css unstyled",https://github.com/kaluga-astral/frontend/pull/449,2022-11-02T10:18:14Z,2022-11-03T05:55:59Z,3,7,MERGED
+frontend,"bug(UIKIT-492,ui,DialogTitle): Исправлены отступы в соответствии с дизайном",https://github.com/kaluga-astral/frontend/pull/448,2022-11-02T09:20:55Z,2022-11-02T09:47:42Z,3,2,MERGED
+frontend,"feat(UIKIT-496,ui,ActionCell): Добавлен пропс position для тултипа",https://github.com/kaluga-astral/frontend/pull/447,2022-11-02T08:13:08Z,2022-11-03T07:23:29Z,2,4,MERGED
+frontend,"bug(UIKIT-494,ui,Select): Пропс label стал опциональным",https://github.com/kaluga-astral/frontend/pull/446,2022-11-02T07:48:14Z,2022-11-02T07:54:45Z,1,1,MERGED
+frontend,"bug(UIKIT-500,ui,Autocomplete): Обнуление лишнего паддинга в Autocomplete",https://github.com/kaluga-astral/frontend/pull/445,2022-11-01T03:54:02Z,2022-11-01T09:40:14Z,2,1,MERGED
+frontend,"feat(UIKIT-672, features, cryptoPro): сервисы и компоненты для работы с КриптоПро",https://github.com/kaluga-astral/frontend/pull/569,2023-03-30T13:27:35Z,2023-04-12T12:06:22Z,79,13,MERGED
+frontend,"feat(UIKIT-685,Popover): Добавлен компонент всплывающего окна",https://github.com/kaluga-astral/frontend/pull/568,2023-03-22T06:35:59Z,2023-03-23T12:59:51Z,1,4,MERGED
+frontend,"bug(UIKIT-682,FormTextField): Не пробрасывается ref",https://github.com/kaluga-astral/frontend/pull/567,2023-03-21T06:12:47Z,2023-03-22T08:58:13Z,4,3,MERGED
+frontend,"bug(UIKIT-682,FormTextField): Не пробрасывается ref",https://github.com/kaluga-astral/frontend/pull/566,2023-03-17T10:01:03Z,2023-03-17T12:49:09Z,3,2,MERGED
+frontend,"feat(UIKIT-616,ui): Обновлены зависимости, убраны дубли пакетов",https://github.com/kaluga-astral/frontend/pull/565,2023-03-17T09:24:30Z,2023-04-05T06:45:08Z,2,2,MERGED
+frontend,"feat(UIKIT-605,ProductSwitcher): Из списка продуктов исключен продукт с текущим hostname",https://github.com/kaluga-astral/frontend/pull/564,2023-03-15T22:58:59Z,2023-03-16T19:50:43Z,1,1,MERGED
+frontend,"feat(UIKIT-398,ui,IconButton): Добавлен пропс loading",https://github.com/kaluga-astral/frontend/pull/563,2023-03-07T12:03:15Z,2023-03-07T13:02:20Z,1,1,MERGED
+frontend,"bug(UIKIT-588,form,FormCheckbox): Исправлено прокидывание пропса value",https://github.com/kaluga-astral/frontend/pull/562,2023-03-07T09:18:11Z,2023-03-07T11:14:56Z,1,2,MERGED
+frontend,"bug(UIKIT-675,ui,Tooltip): Добавлен пропс withoutContainer",https://github.com/kaluga-astral/frontend/pull/561,2023-03-06T17:44:42Z,2023-03-07T07:14:31Z,2,3,MERGED
+frontend,build(UIKIT-672): Основа для пакета astral/features и фикс ошибки зависимостей,https://github.com/kaluga-astral/frontend/pull/560,2023-03-03T08:29:57Z,2023-03-03T10:02:46Z,1,9,MERGED
+frontend,"bug(UIKIT-677,ui,SideDialog): Исправлена стилизация",https://github.com/kaluga-astral/frontend/pull/559,2023-03-02T09:39:26Z,2023-03-02T10:58:01Z,1,1,MERGED
+frontend,chore(UIKIT-673): Реализована возможность перезапуска упавших релизов,https://github.com/kaluga-astral/frontend/pull/558,2023-03-01T07:21:28Z,2023-03-01T12:11:14Z,1,3,MERGED
+frontend,"feat(UIKIT-547,Notification): По-дефолту сделан не filled вариант",https://github.com/kaluga-astral/frontend/pull/557,2023-02-28T11:49:55Z,2023-02-28T12:24:38Z,1,2,MERGED
+frontend,"bug(UIKIT-670,ui,FormTextField): Исправляет отображение helperText ",https://github.com/kaluga-astral/frontend/pull/556,2023-02-22T13:33:22Z,2023-02-22T13:44:57Z,2,6,MERGED
+frontend,"bug(UIKIT-670,ui,FormTextField): Исправлено отображение helperText",https://github.com/kaluga-astral/frontend/pull/555,2023-02-22T13:11:40Z,2023-02-22T13:18:41Z,1,1,MERGED
+frontend,"refactor(UIKIT-669,form,FormTextField): Вынес FormTextFieldValue в отдельный файл",https://github.com/kaluga-astral/frontend/pull/554,2023-02-22T07:07:30Z,2023-02-22T09:07:06Z,2,1,MERGED
+frontend,"feat(UIKIT-669,form,FormTextField): Добавлена возможность убрать пробелы",https://github.com/kaluga-astral/frontend/pull/553,2023-02-21T13:48:36Z,2023-02-22T06:55:07Z,6,6,MERGED
+frontend,"feat(UIKIT-663,ui): Экспорт TagBadge и CheckableTag",https://github.com/kaluga-astral/frontend/pull/552,2023-02-20T07:50:13Z,2023-02-20T07:59:09Z,1,4,MERGED
+frontend,"bug(UIKIT-663,ui): Экспорт TagBadge и CheckableTag",https://github.com/kaluga-astral/frontend/pull/551,2023-02-17T06:36:28Z,2023-02-17T06:54:17Z,1,1,MERGED
+frontend,"bug(UIKIT-657,validations): Валидациям с контрольной суммой добавлена проверка на 0. Валидация КПП",https://github.com/kaluga-astral/frontend/pull/550,2023-02-16T10:03:20Z,2023-02-16T13:45:20Z,4,4,MERGED
+frontend,"bug(UIKIT-643,ui,DataGridPagination): Футер скрывается на единственной странице",https://github.com/kaluga-astral/frontend/pull/549,2023-02-16T07:22:16Z,2023-02-16T12:56:24Z,4,3,MERGED
+frontend,"bug(UIKIT-656,ui,DataGridPagination): Исправлено кол-во записей на последней странице ",https://github.com/kaluga-astral/frontend/pull/548,2023-02-16T07:10:59Z,2023-02-16T07:11:45Z,1,1,MERGED
+frontend,"bug(UIKIT-656,ui,DataGridPagination): Исправлено кол-во записей на последней странице",https://github.com/kaluga-astral/frontend/pull/547,2023-02-15T12:57:02Z,2023-02-16T06:49:52Z,3,5,MERGED
+frontend,"bug(UIKIT-655,ui,Autocomplete): Русифицирован текст кнопок",https://github.com/kaluga-astral/frontend/pull/546,2023-02-15T10:53:51Z,2023-02-16T07:14:09Z,1,4,MERGED
+frontend,"feat(UIKIT-397,ui,Tag): Добавлен Badge для тега",https://github.com/kaluga-astral/frontend/pull/545,2023-02-14T08:05:29Z,2023-02-15T08:44:08Z,16,7,MERGED
+frontend,"feat(UIKIT-651,ui,Tag): Добавлены variant=""text"" и пропс size для тега",https://github.com/kaluga-astral/frontend/pull/544,2023-02-13T10:12:27Z,2023-02-14T07:52:58Z,6,6,MERGED
+frontend,chore: Из сообщения telegram убран текст комментария,https://github.com/kaluga-astral/frontend/pull/543,2023-02-13T06:33:09Z,2023-02-13T07:01:08Z,1,1,MERGED
+frontend,"feat(UIKIT-395,ui,Tag): Добавлен CheckableTag",https://github.com/kaluga-astral/frontend/pull/542,2023-02-10T05:04:02Z,2023-02-13T09:43:30Z,16,10,MERGED
+frontend,"bug(UIKIT-650,ui): Исправлена ошибка импорта /server",https://github.com/kaluga-astral/frontend/pull/541,2023-02-09T12:52:32Z,2023-02-09T13:03:40Z,1,2,MERGED
+frontend,build: Отказ от поставки сommonjs файлов в пакетах,https://github.com/kaluga-astral/frontend/pull/540,2023-02-09T12:00:44Z,2023-02-09T12:04:32Z,1,1,MERGED
+frontend,"bug(UIKIT-650,ui): Исправлена ошибка импорта /server",https://github.com/kaluga-astral/frontend/pull/539,2023-02-08T13:44:22Z,2023-02-09T07:00:20Z,1,1,MERGED
+frontend,"bug(UIKIT-649,ui,FlowButton): Сделаны отступы в соответствии с макетом",https://github.com/kaluga-astral/frontend/pull/538,2023-02-08T12:50:37Z,2023-02-08T13:13:00Z,1,1,MERGED
+frontend,"bug(UIKIT-649,ui,FlowButton): Сделаны отступы в соответствии с макетом и правильный порт",https://github.com/kaluga-astral/frontend/pull/537,2023-02-08T12:39:39Z,2023-02-08T12:42:05Z,0,6,CLOSED
+frontend,"feat(UIKIT-622,ui,FlowButton): Добавлен компонент FlowButton",https://github.com/kaluga-astral/frontend/pull/536,2023-02-03T08:14:23Z,2023-02-08T09:26:03Z,15,5,MERGED
+frontend,"chore(UIKIT-614): Поправлен текст релиза, в релиз добавлен doc enum",https://github.com/kaluga-astral/frontend/pull/535,2023-01-19T13:55:09Z,2023-01-19T13:58:02Z,1,1,MERGED
+frontend,"bug(UIKIT-611,ui,Autocomplete): Добавлен пропс required",https://github.com/kaluga-astral/frontend/pull/534,2023-01-19T11:06:31Z,2023-01-19T11:49:30Z,1,4,MERGED
+frontend,"bug(UIKIT-610,ui,Select): Исправлено отображение label с параметром required",https://github.com/kaluga-astral/frontend/pull/533,2023-01-19T10:48:34Z,2023-01-19T11:03:39Z,1,2,MERGED
+frontend,"bug(UIKIT-599,ui,Notification): фикс типов для кнопки закрытия",https://github.com/kaluga-astral/frontend/pull/532,2023-01-17T12:52:13Z,2023-01-18T06:27:56Z,1,2,MERGED
+frontend,"bug(UIKIT-607,ui,OverflowTypography): округление для контент рект",https://github.com/kaluga-astral/frontend/pull/531,2023-01-17T10:44:19Z,2023-01-18T04:59:40Z,0,1,MERGED
+frontend,"bug(UIKIT-599,ui,Notification): фикс использования интенсивности цвета",https://github.com/kaluga-astral/frontend/pull/530,2023-01-16T04:11:37Z,2023-01-16T07:32:42Z,1,10,MERGED
+frontend,"feat(UIKIT-603,ui,ErrorBoundary): Добавлен экспорт ErrorBoundary",https://github.com/kaluga-astral/frontend/pull/529,2023-01-12T14:37:10Z,2023-01-13T07:01:07Z,5,4,MERGED
+frontend,"feat(UIKIT-604,ui,Badge): Добавлена поддержка свойства max",https://github.com/kaluga-astral/frontend/pull/528,2023-01-12T14:19:54Z,2023-01-19T10:54:50Z,2,2,MERGED
+frontend,"feat(UIKIT-544,ui,Notification): рефакторинг для Notification",https://github.com/kaluga-astral/frontend/pull/527,2023-01-12T10:09:19Z,2023-01-13T13:18:05Z,10,8,MERGED
+frontend,"feat(UIKIT-602,ui,SidebarButton): Реализован компонент SidebarButton",https://github.com/kaluga-astral/frontend/pull/526,2023-01-11T10:32:24Z,2023-01-12T09:23:09Z,10,12,MERGED
+frontend,chore(UIKIT-598): Добавлен actions для отображения junit,https://github.com/kaluga-astral/frontend/pull/525,2023-01-10T05:46:07Z,2023-01-11T09:26:05Z,1,1,MERGED
+frontend,"bug(UIKIT-597,form,validations): Результатом валидации больше не можеть быть массив",https://github.com/kaluga-astral/frontend/pull/524,2023-01-09T11:49:55Z,2023-01-09T13:03:43Z,1,5,MERGED
+frontend,"feat(UIKIT-442,ConfigProvider): Добавлены в ConfigProvider ссылки на иллюстрации",https://github.com/kaluga-astral/frontend/pull/595,2023-05-26T06:38:34Z,2023-05-31T07:52:10Z,8,5,MERGED
+frontend,"bug(UIKIT-749,ui,Notification): Исправлена верстка кнопки закрытия",https://github.com/kaluga-astral/frontend/pull/594,2023-05-26T04:36:53Z,2023-06-07T08:18:25Z,2,3,MERGED
+frontend,"feat(UIKIT-762,icons): Добавлена иконка DownloadVOutlineMd",https://github.com/kaluga-astral/frontend/pull/593,2023-05-23T06:32:07Z,2023-05-23T07:39:10Z,1,1,MERGED
+frontend,"feat(UIKIT-514,ui,Checkbox): Добавлено состояние error и сторибук",https://github.com/kaluga-astral/frontend/pull/592,2023-05-22T09:19:56Z,2023-05-26T06:24:42Z,8,6,MERGED
+frontend,chore(UIKIT-676): Отказ от поддержки пакета @astral/validations,https://github.com/kaluga-astral/frontend/pull/591,2023-05-18T12:01:00Z,2023-05-22T07:48:50Z,1,3,MERGED
+frontend,"feat(UIKIT-758,ui,DataGrid): Ячейки приведены к единой начальной высоте 44px",https://github.com/kaluga-astral/frontend/pull/590,2023-05-17T09:10:47Z,2023-05-18T09:15:47Z,2,4,MERGED
+frontend,"feat(UIKIT-628,ui,Description): Добавлены пропсы justifyContent и leader",https://github.com/kaluga-astral/frontend/pull/589,2023-05-16T12:15:39Z,2023-05-18T07:36:07Z,10,11,MERGED
+frontend,"refactor(UIKIT-181): Рефакторинг ButtonBase, Button, IconButton",https://github.com/kaluga-astral/frontend/pull/588,2023-05-15T13:24:37Z,2023-05-22T08:19:18Z,8,8,MERGED
+frontend,bug: Fix release,https://github.com/kaluga-astral/frontend/pull/587,2023-05-12T12:58:46Z,2023-05-12T13:03:05Z,0,1,CLOSED
+frontend,bug: Фиксация @mui/material,https://github.com/kaluga-astral/frontend/pull/586,2023-05-12T12:25:47Z,2023-05-12T12:55:01Z,1,3,MERGED
+frontend,bug: Fix release,https://github.com/kaluga-astral/frontend/pull/585,2023-05-12T11:44:50Z,2023-05-12T11:58:33Z,1,1,MERGED
+frontend,"feat: Исправлена ошибка в MaskField, путем фиксации версии imask",https://github.com/kaluga-astral/frontend/pull/584,2023-05-12T10:20:11Z,2023-05-12T10:35:24Z,1,1,MERGED
+frontend,"bug(UIKIT-747,isStringOfZeros): Заменен метод определения строки, состоящей из 0",https://github.com/kaluga-astral/frontend/pull/583,2023-05-12T09:42:56Z,2023-05-12T13:48:00Z,2,3,MERGED
+frontend,"feat(UIKIT-632, ThemeProvider): Добавлен пропс withScopedStyles",https://github.com/kaluga-astral/frontend/pull/582,2023-05-11T06:06:27Z,2023-05-12T08:50:24Z,7,3,MERGED
+frontend,"feat(UIKIT-568,ui,DialogHeader): Добавлен компонент DialogHeader, обновлен Dialog.stories",https://github.com/kaluga-astral/frontend/pull/581,2023-05-10T07:30:16Z,2023-05-22T09:12:15Z,4,7,MERGED
+frontend,"feat(UIKIT-630,ui,Paper): Добавление компонента Paper",https://github.com/kaluga-astral/frontend/pull/580,2023-05-05T13:58:04Z,2023-06-06T11:32:30Z,12,12,MERGED
+frontend,"bug(UIKIT-748,Typography): Исправлена any типизация для props",https://github.com/kaluga-astral/frontend/pull/579,2023-05-04T11:45:37Z,2023-05-04T13:47:21Z,1,4,MERGED
+frontend,feat: Обновлены @mui,https://github.com/kaluga-astral/frontend/pull/578,2023-04-27T12:49:10Z,2023-04-27T13:10:40Z,3,5,MERGED
+frontend,"feat(UIKIT-725,icons): Добавлены иконки одноклассников и телефона. Fix иконки ВК",https://github.com/kaluga-astral/frontend/pull/577,2023-04-27T08:58:33Z,2023-04-27T10:27:02Z,3,1,MERGED
+frontend,"feat(UIKIT-721,ui,Autocomplete): Добавлен пропс renderTag",https://github.com/kaluga-astral/frontend/pull/576,2023-04-24T08:45:44Z,2023-04-24T09:06:24Z,2,3,MERGED
+frontend,"bug(UIKIT-720, features, CryptoProProvider): исправлено окно настройки рабочего места",https://github.com/kaluga-astral/frontend/pull/575,2023-04-24T05:45:22Z,2023-04-24T08:35:43Z,1,2,MERGED
+frontend,bug(UIKIT-719): FlowButton фикс для кастомизации иконки,https://github.com/kaluga-astral/frontend/pull/574,2023-04-20T05:09:21Z,2023-04-20T06:35:44Z,1,1,MERGED
+frontend,"bug(UIKIT-710, features, cryptoPro): добавлен экспорт интерфейса Cert…",https://github.com/kaluga-astral/frontend/pull/573,2023-04-13T10:36:44Z,2023-04-13T11:53:35Z,4,3,MERGED
+frontend,"feat(UIKIT-543, FormCheckbox): Добавлен проп hideHelperText",https://github.com/kaluga-astral/frontend/pull/572,2023-04-05T14:15:36Z,2023-04-10T12:24:41Z,2,3,MERGED
+frontend,"bug(UIKIT-375,ui,DataGridPagination): Убран лишний padding",https://github.com/kaluga-astral/frontend/pull/571,2023-04-05T13:33:03Z,2023-04-07T07:45:43Z,1,1,MERGED
+frontend,"feat(UIKIT-705,PageContent): Добавлен scroll-behavior: smooth на контент",https://github.com/kaluga-astral/frontend/pull/570,2023-04-05T07:46:59Z,2023-04-05T08:09:27Z,1,2,MERGED
+frontend,refactor: Обновлен storybook и ts,https://github.com/kaluga-astral/frontend/pull/632,2023-07-31T06:49:16Z,2023-07-31T09:57:40Z,1,12,MERGED
+frontend,"bug(UIKIT-842,ui,SideDialog): Исправлено некорректное закругление",https://github.com/kaluga-astral/frontend/pull/631,2023-07-28T13:41:04Z,2023-08-02T09:13:20Z,1,2,MERGED
+frontend,doc: Обновлен и переформатирован storybook для ряда компонентов,https://github.com/kaluga-astral/frontend/pull/630,2023-07-28T08:49:55Z,2023-08-03T09:09:05Z,1,12,MERGED
+frontend,"bug(UIKIT-746,ui,Sidebar): Откат скрытия элементов через css",https://github.com/kaluga-astral/frontend/pull/629,2023-07-27T09:07:44Z,2023-07-27T09:19:38Z,1,1,MERGED
+frontend,"doc(UIKIT-631,ui,Description): Реализация сторибука Description",https://github.com/kaluga-astral/frontend/pull/628,2023-07-26T09:58:07Z,2023-07-26T13:07:32Z,3,4,MERGED
+frontend,"bug(UIKIT-746,ui,Sidebar): Реализовано скрытие элементов через css",https://github.com/kaluga-astral/frontend/pull/627,2023-07-26T06:41:19Z,2023-07-26T13:35:28Z,3,3,MERGED
+frontend,"feat(UIKIT-764,ui,CheckboxField): Добавлен компонент CheckboxField",https://github.com/kaluga-astral/frontend/pull/626,2023-07-25T08:44:46Z,2023-07-31T06:51:12Z,3,7,MERGED
+frontend,"doc(UIKIT-796,ui,IconDropdownButton): Реализация сторибука",https://github.com/kaluga-astral/frontend/pull/625,2023-07-18T07:49:04Z,2023-07-24T10:14:14Z,3,3,MERGED
+frontend,"doc(UIKIT-504,ui,Breadcrumbs): Реализация сторибука Breadcrumbs",https://github.com/kaluga-astral/frontend/pull/624,2023-07-13T12:42:24Z,2023-07-17T06:54:57Z,1,4,MERGED
+frontend,Merge pull request #621 from kaluga-astral/next,https://github.com/kaluga-astral/frontend/pull/623,2023-07-13T09:50:21Z,2023-07-13T10:12:43Z,0,1,CLOSED
+frontend,chore(ui): Подтянуты последние изменения из main,https://github.com/kaluga-astral/frontend/pull/622,2023-07-13T09:05:38Z,2023-07-13T09:15:40Z,1,2,MERGED
+frontend,doc: Написан migration guide для третьей версии ui-kit (#610),https://github.com/kaluga-astral/frontend/pull/621,2023-07-13T08:54:27Z,2023-07-13T09:30:50Z,2,3,MERGED
+frontend,chore(ui): Подтянуты последние изменения из main,https://github.com/kaluga-astral/frontend/pull/620,2023-07-13T07:12:17Z,2023-07-13T08:06:03Z,1,3,MERGED
+frontend,feat(ui): Релиз пакетов 3.0.0,https://github.com/kaluga-astral/frontend/pull/619,2023-07-13T06:55:38Z,2023-07-13T08:32:46Z,6,10,MERGED
+frontend,"chore(ui): Merge main into next, resolving conflicts",https://github.com/kaluga-astral/frontend/pull/618,2023-07-13T05:49:13Z,2023-07-13T06:44:10Z,1,136,MERGED
+frontend,merge next into main,https://github.com/kaluga-astral/frontend/pull/617,2023-07-12T14:06:41Z,2023-07-12T14:17:23Z,0,6,CLOSED
+frontend,merge next into main,https://github.com/kaluga-astral/frontend/pull/616,2023-07-12T07:42:10Z,2023-07-12T14:05:27Z,0,5,CLOSED
+frontend,"bug(UIKIT-835,ui,DatePicker): Фикс потери фокуса при смене режима пикера",https://github.com/kaluga-astral/frontend/pull/615,2023-07-12T06:31:23Z,2023-07-17T07:08:50Z,2,4,MERGED
+frontend,feat: Реализован storybook для DropdownButton,https://github.com/kaluga-astral/frontend/pull/614,2023-07-12T05:24:18Z,2023-07-13T06:44:23Z,4,12,MERGED
+frontend,"feat(UIKIT-813, ui, Grid): Добавлен новый Grid, LegacyGrid - deprecated",https://github.com/kaluga-astral/frontend/pull/613,2023-07-11T06:44:02Z,2023-07-12T07:31:33Z,2,3,MERGED
+frontend,"doc(UIKIT-396,ui,Tag): Реализация сторибука",https://github.com/kaluga-astral/frontend/pull/612,2023-07-07T11:08:44Z,2023-07-11T11:52:57Z,2,3,MERGED
+frontend,bug(UIKIT-831): Illustrations перестали быть пустыми файлами,https://github.com/kaluga-astral/frontend/pull/611,2023-07-07T08:26:50Z,2023-07-07T11:42:07Z,1,1,MERGED
+frontend,doc: Написан migration guide для третьей версии ui-kit,https://github.com/kaluga-astral/frontend/pull/610,2023-07-07T07:42:23Z,2023-07-13T08:48:07Z,1,2,MERGED
+frontend,"feat(UIKIT-388,ui,Alert): Реализован сторибук",https://github.com/kaluga-astral/frontend/pull/609,2023-07-06T17:15:00Z,2023-07-10T12:39:14Z,6,8,MERGED
+frontend,"feat(UIKIT-443,ui,Tabs): Реализован storybook для компонента Tabs в соответствии с макетом",https://github.com/kaluga-astral/frontend/pull/608,2023-07-06T12:24:27Z,2023-07-13T17:48:34Z,5,8,MERGED
+frontend,"feat(UIKIT-440,ui,Tag): Изменено отображение в состоянии disabled",https://github.com/kaluga-astral/frontend/pull/607,2023-07-06T12:19:25Z,2023-07-07T11:57:03Z,1,3,MERGED
+frontend,"feat: Добавил проп emptySymbol для отображения символа '-', когда Val…",https://github.com/kaluga-astral/frontend/pull/606,2023-07-04T17:24:25Z,2023-07-10T07:01:13Z,11,8,MERGED
+frontend,"feat(UIKIT-570,Description): Добавлена возможность изменять разделитель компонента",https://github.com/kaluga-astral/frontend/pull/605,2023-07-03T15:33:46Z,2023-07-06T13:24:54Z,3,4,MERGED
+frontend,"feat(UIKIT-828,icons): Добавил иконку телеграмм",https://github.com/kaluga-astral/frontend/pull/604,2023-07-03T10:02:15Z,2023-07-03T10:35:33Z,1,2,MERGED
+frontend,"feat(UIKIT-779,form): Удалены правила валидации из полей форм",https://github.com/kaluga-astral/frontend/pull/603,2023-06-30T08:52:47Z,2023-07-04T06:11:55Z,2,2,MERGED
+frontend,"feat(UIKIT-782,ui,Typography): Удалены стилевые пропсы из Typography",https://github.com/kaluga-astral/frontend/pull/602,2023-06-19T10:02:57Z,2023-06-26T10:36:40Z,17,136,MERGED
+frontend,"chore(ui): Обновление от main, зарезолвлены конфликты",https://github.com/kaluga-astral/frontend/pull/601,2023-06-19T08:50:43Z,2023-06-19T09:03:34Z,1,126,MERGED
+frontend,merge main to next,https://github.com/kaluga-astral/frontend/pull/600,2023-06-19T06:17:42Z,2023-06-19T06:55:00Z,0,125,CLOSED
+frontend,"feat(UIKIT-782,ui,Typography): Удалены стилевые пропсы из Typography,рефакторинг storybook",https://github.com/kaluga-astral/frontend/pull/599,2023-06-19T05:58:50Z,2023-06-19T06:13:14Z,0,126,CLOSED
+frontend,"test(UIKIT-812,ui,useToggle): Тест для useToggle",https://github.com/kaluga-astral/frontend/pull/598,2023-06-13T12:24:03Z,2023-06-16T06:35:22Z,1,1,MERGED
+frontend,chore: Check PR template,https://github.com/kaluga-astral/frontend/pull/597,2023-06-06T14:46:05Z,2023-06-06T14:48:43Z,0,1,CLOSED
+frontend,"bug(UIKIT-771,ui,NavMenu): Добавлен реэкспорт в основной index",https://github.com/kaluga-astral/frontend/pull/596,2023-06-01T03:53:52Z,2023-06-01T10:46:12Z,1,1,MERGED
+frontend,"feat(UIKIT-573,ui,MaskField): Добавляет маску с нижними подчеркивания…",https://github.com/kaluga-astral/frontend/pull/727,2023-10-31T10:04:52Z,2023-12-06T11:02:19Z,5,8,MERGED
+frontend,"feat(UIKIT-569,ui,Stepper): Изменены состояния hover/select для succe…",https://github.com/kaluga-astral/frontend/pull/726,2023-10-31T09:46:25Z,2023-11-01T08:50:41Z,5,7,MERGED
+frontend,build: Триггер релиза,https://github.com/kaluga-astral/frontend/pull/725,2023-10-31T09:24:00Z,2023-10-31T09:24:06Z,1,1,MERGED
+frontend,"feat(UIKIT-968,ui,theme): Добавить палитру для бренда ЛК1С",https://github.com/kaluga-astral/frontend/pull/724,2023-10-31T08:58:17Z,2023-10-31T09:00:32Z,2,1,MERGED
+frontend,"build(UIKIT-968,ui,theme): Перезапуск релиза",https://github.com/kaluga-astral/frontend/pull/723,2023-10-31T08:40:21Z,2023-10-31T08:41:44Z,3,1,MERGED
+frontend,"build(UIKIT-968,ui,theme): Перезапуск релиза",https://github.com/kaluga-astral/frontend/pull/722,2023-10-31T08:31:15Z,2023-10-31T08:34:47Z,0,5,CLOSED
+frontend,"bug(UIKIT-1018,Icons): Фикс зависимостей для Icons",https://github.com/kaluga-astral/frontend/pull/721,2023-10-31T03:56:08Z,2023-10-31T09:49:39Z,2,2,MERGED
+frontend,"bug(UIKIT-985,ui,autocomplete): Исправлен размер иконки для очистки автокомплита",https://github.com/kaluga-astral/frontend/pull/720,2023-10-30T14:06:32Z,2023-10-31T18:16:23Z,0,1,CLOSED
+frontend,"feat(UIKIT-968,ui,theme): Добавить палитру для бренда ЛК1С",https://github.com/kaluga-astral/frontend/pull/719,2023-10-30T08:58:55Z,2023-10-31T07:51:13Z,6,4,MERGED
+frontend,"feat(UIKIT-1008,ui,theme): Добавлены цвета Платформы в палитру",https://github.com/kaluga-astral/frontend/pull/718,2023-10-30T07:24:34Z,2023-10-30T11:21:29Z,3,4,MERGED
+frontend,"test(UIKIT-1010,ui,Select): Доработан тест",https://github.com/kaluga-astral/frontend/pull/717,2023-10-30T06:45:26Z,2023-10-31T06:48:23Z,8,4,MERGED
+frontend,"bug(UIKIT-1012,ui,OverflowTypography): Фикс для работы с SSR",https://github.com/kaluga-astral/frontend/pull/716,2023-10-30T05:23:52Z,2023-10-30T09:23:04Z,1,3,MERGED
+frontend,"refactor(UIKIT-1015,ui, illustrations): Добавлены иллюстрации в storybook",https://github.com/kaluga-astral/frontend/pull/715,2023-10-27T14:59:20Z,2023-10-30T06:45:18Z,1,1,MERGED
+frontend,"feat(UIKIT-351,ui,StepSlider): Новый компонент анимированного переключения компонентов",https://github.com/kaluga-astral/frontend/pull/714,2023-10-27T10:48:46Z,2023-11-01T05:53:30Z,9,7,MERGED
+frontend,"feat(UIKIT-1009,ui,DatePickerInput): Создаёт доп. обертку ",https://github.com/kaluga-astral/frontend/pull/713,2023-10-27T07:40:23Z,2023-10-31T07:10:59Z,8,4,MERGED
+frontend,"doc(UIKIT-1000,ui,DataGrid): Отображает массивы и обработчики в блок…",https://github.com/kaluga-astral/frontend/pull/712,2023-10-25T15:09:56Z,2023-10-27T06:59:16Z,5,4,MERGED
+frontend,"feat(UIKIT-1004,ui,DashboardLayout): Добавлена возможность управления организациями",https://github.com/kaluga-astral/frontend/pull/711,2023-10-25T13:11:16Z,2023-10-26T09:51:27Z,5,5,MERGED
+frontend,"feat(UIKIT-573,ui,MaskField): Реализует отображение маски в пустом ин…",https://github.com/kaluga-astral/frontend/pull/710,2023-10-25T07:25:51Z,2023-10-25T08:09:02Z,0,1,CLOSED
+frontend,"feat(UIKIT-573,ui,MaskField): Реализует отображение маски в пустом инпуте",https://github.com/kaluga-astral/frontend/pull/709,2023-10-25T06:52:34Z,2023-10-25T06:58:40Z,0,2,CLOSED
+frontend,"bug(UIKIT-982,ui): Устранение циклической зависимости Theme",https://github.com/kaluga-astral/frontend/pull/708,2023-10-25T03:50:19Z,2023-10-27T11:25:29Z,2,3,MERGED
+frontend,"test(UIKIT-991,ui,TextField): Доработан тест",https://github.com/kaluga-astral/frontend/pull/707,2023-10-24T06:56:45Z,2023-10-27T08:42:16Z,10,11,MERGED
+frontend,"feat(UIKIT-674,ui,OutdatedReleasePlaceholder): Добавлена обработка ошибок chunk",https://github.com/kaluga-astral/frontend/pull/706,2023-10-23T14:40:29Z,2023-10-27T14:51:24Z,12,6,MERGED
+frontend,"feat(UIKIT-325,ui,MenuOrganization): Добавлен компонент управления организациями",https://github.com/kaluga-astral/frontend/pull/705,2023-10-23T12:32:50Z,2023-10-25T10:05:03Z,7,10,MERGED
+frontend,"feat(UIKIT-325,ui,MenuOrganization): Добавлен компонент управления организациями",https://github.com/kaluga-astral/frontend/pull/704,2023-10-23T10:55:04Z,2023-10-23T12:31:37Z,0,3,CLOSED
+frontend,bug(UIKIT-992): Добавить отдельное поле для основных цветов продуктов…,https://github.com/kaluga-astral/frontend/pull/703,2023-10-23T08:24:52Z,2023-10-30T07:17:42Z,1,2,MERGED
+frontend,"feat(UIKIT-798,ui,MaskField): Реализует storybook",https://github.com/kaluga-astral/frontend/pull/702,2023-10-20T13:17:52Z,2023-10-23T13:23:41Z,7,4,MERGED
+frontend,"feat(UIKIT-799,OverflowTypography): Реализация сторибук",https://github.com/kaluga-astral/frontend/pull/701,2023-10-20T06:30:14Z,2023-10-23T12:29:06Z,6,4,MERGED
+frontend,"doc(UIKIT-795,ui,Grid): Реализует storybook",https://github.com/kaluga-astral/frontend/pull/700,2023-10-19T13:14:26Z,2023-10-27T13:14:20Z,1,4,MERGED
+frontend,"feat(UIKIT-984,ui,CollapsibleTypography): Добавлен новый компонент CollapsibleTypography",https://github.com/kaluga-astral/frontend/pull/699,2023-10-19T10:01:33Z,2023-10-30T09:03:53Z,48,14,MERGED
+frontend,"feat(UIKIT-434,ui,InternalErrorPlaceholder): Добавлен плейсхолдер с непредвиденной ошибкой",https://github.com/kaluga-astral/frontend/pull/698,2023-10-19T09:07:24Z,2023-10-23T13:35:36Z,5,5,MERGED
+frontend,"feat(UIKIT-984,ui,CollapsibleTypography): Добавлен новый компонент Co…",https://github.com/kaluga-astral/frontend/pull/697,2023-10-19T08:32:33Z,2023-10-19T09:01:53Z,0,1,CLOSED
+frontend,"feat(UIKIT-802,ui,TextArea): Реализует storybook",https://github.com/kaluga-astral/frontend/pull/696,2023-10-18T14:43:00Z,2023-10-19T07:49:39Z,2,4,MERGED
+frontend,"feat(UIKIT-756,theme): Добавить отдельную продуктовую палитру",https://github.com/kaluga-astral/frontend/pull/695,2023-10-18T12:46:30Z,2023-10-19T04:15:48Z,2,1,MERGED
+frontend,"feat(UIKIT-989,ui,DataGridCell): Создаёт доп обертку grid для Overflo…",https://github.com/kaluga-astral/frontend/pull/694,2023-10-18T11:59:01Z,2023-10-30T14:15:53Z,1,1,CLOSED
+frontend,"feat(UIKIT-980,ui,MenuItem): Изменено отображение состояния selected",https://github.com/kaluga-astral/frontend/pull/693,2023-10-18T09:31:37Z,2023-10-19T08:22:04Z,3,7,MERGED
+frontend,"feat(UIKIT-852,ui,DataGridCell): Оборачивает текст в OverflowTypography",https://github.com/kaluga-astral/frontend/pull/692,2023-10-16T15:46:52Z,2023-10-18T10:04:23Z,3,3,MERGED
+frontend,bug(UIKIT-982): Устранение циклических зависимостей,https://github.com/kaluga-astral/frontend/pull/691,2023-10-12T15:43:40Z,2023-10-17T13:57:06Z,12,3,MERGED
+frontend,"feat(UIKIT-846,ui,TextField): Добавлены startAdornment и endAdornment props",https://github.com/kaluga-astral/frontend/pull/690,2023-10-11T09:04:11Z,2023-10-11T12:46:58Z,2,4,MERGED
+frontend,"bug(UIKIT-952,form,FormSubmitButton): Добавлено прокидование props в компонент ",https://github.com/kaluga-astral/frontend/pull/689,2023-10-10T14:37:35Z,2023-10-11T07:35:53Z,1,2,MERGED
+frontend,"bug(UIKIT-977,form,FormCheckbox): Title стал опциональный",https://github.com/kaluga-astral/frontend/pull/688,2023-10-10T13:30:41Z,2023-10-10T13:41:21Z,1,1,MERGED
+frontend,"bug(UIKIT-967,ui,autocomplete): Размер иконок приведен в соответствие с макетом",https://github.com/kaluga-astral/frontend/pull/687,2023-10-09T15:52:09Z,2023-10-10T08:08:36Z,1,1,MERGED
+frontend,"doc(UIKIT-531, ui, DataGrid): Обновлен Storybook",https://github.com/kaluga-astral/frontend/pull/686,2023-10-05T08:30:21Z,2023-10-06T07:04:28Z,7,3,MERGED
+frontend,"bug(UIKIT-951,form,FormMobilePhoneField): Поправил отображение маски",https://github.com/kaluga-astral/frontend/pull/685,2023-10-05T08:05:59Z,2023-10-05T08:29:30Z,1,1,MERGED
+frontend,"bug(UIKIT-957,ui,DatePicker): Добавлен фокус при выборе года в попове…",https://github.com/kaluga-astral/frontend/pull/684,2023-09-28T13:48:48Z,2023-09-28T14:04:06Z,1,1,MERGED
+frontend,"bug(UIKIT-955,icons,InfoFillSm): Исправлена чрезмерная оптимизация",https://github.com/kaluga-astral/frontend/pull/683,2023-09-28T06:58:19Z,2023-09-28T10:06:03Z,1,1,MERGED
+frontend,"feat(UIKIT-898, ui, DatePicker): Реализован ввод даты вручную",https://github.com/kaluga-astral/frontend/pull/682,2023-09-25T09:56:50Z,2023-09-25T11:50:14Z,2,4,MERGED
+frontend,"bug(UIKIT-950,form,FormPasswordField): Добавлен экспорт FormPasswordField",https://github.com/kaluga-astral/frontend/pull/681,2023-09-22T07:09:58Z,2023-09-26T06:52:00Z,1,2,MERGED
+frontend,"doc(UIKIT-949,icons): Исправил документацию генерации иконок",https://github.com/kaluga-astral/frontend/pull/680,2023-09-22T06:55:29Z,2023-09-22T08:25:32Z,1,1,MERGED
+frontend,"feat(UIKIT-947,form,FormPasswordField): Добавлен компонент FormPasswordField",https://github.com/kaluga-astral/frontend/pull/679,2023-09-21T06:37:26Z,2023-09-21T14:17:44Z,1,2,MERGED
+frontend,"feat(UIKIT-899, ui, DateRangePicker): Убрано смещение в днях",https://github.com/kaluga-astral/frontend/pull/678,2023-09-20T11:06:02Z,2023-09-21T06:53:47Z,3,2,MERGED
+frontend,"feat(UIKIT-936,icons): Добавлены иконки RouteOutline, DocumentOutline…",https://github.com/kaluga-astral/frontend/pull/677,2023-09-19T14:10:50Z,2023-09-25T07:09:15Z,1,8,MERGED
+frontend,"feat(UIKIT-939,ui,Notifications): Переносит логику в компоненты storybook",https://github.com/kaluga-astral/frontend/pull/676,2023-09-19T12:50:52Z,2023-09-19T13:01:53Z,0,1,MERGED
+frontend,"feat(UIKIT-930,ui,Notifications): Добавляет 'containerId' в type Notif…",https://github.com/kaluga-astral/frontend/pull/675,2023-09-15T11:43:03Z,2023-09-15T12:07:20Z,1,2,MERGED
+frontend,"feat(UIKIT-934,ui,theme): В getPalette изменено поле text",https://github.com/kaluga-astral/frontend/pull/674,2023-09-14T13:26:35Z,2023-09-25T06:59:04Z,1,2,MERGED
+frontend,"feat(UIKIT-932, ui, DataGrid): Добавлен проп activeRowId",https://github.com/kaluga-astral/frontend/pull/673,2023-09-14T12:27:24Z,2023-09-14T13:09:09Z,5,4,MERGED
+frontend,"feat(UIKIT-925,ui,theme): Добавлена цветовая палитра для бренда СБЕР",https://github.com/kaluga-astral/frontend/pull/672,2023-09-12T09:35:16Z,2023-09-13T09:05:32Z,1,2,MERGED
+frontend,"feat(UIKIT-840,ui,PasswordField): Добавлен компонент PasswordField",https://github.com/kaluga-astral/frontend/pull/671,2023-09-11T09:33:09Z,2023-09-20T08:39:56Z,5,5,MERGED
+frontend,"feat(UIKIT-837,ui,Grid):  Добавленна поддержка строковых значения для columns и rows",https://github.com/kaluga-astral/frontend/pull/670,2023-09-09T06:46:02Z,2023-09-14T06:40:23Z,4,5,MERGED
+frontend,"feat(UIKIT-910,ui,FormCheckbox): Типизация ReactNode для title",https://github.com/kaluga-astral/frontend/pull/669,2023-09-09T06:17:56Z,2023-09-13T08:50:05Z,1,1,MERGED
+frontend,"feat(UIKIT-539,ui,Notifications): Создана story для Notifications",https://github.com/kaluga-astral/frontend/pull/668,2023-09-08T13:33:26Z,2023-09-19T12:10:50Z,5,5,MERGED
+frontend,"feat(UIKIT-803,ui,ToggleButtonGroup): Созданы story для ToggleButton …",https://github.com/kaluga-astral/frontend/pull/667,2023-09-08T08:59:49Z,2023-09-13T09:56:22Z,3,6,MERGED
+frontend,"feat(UIKIT-684,ui,Sidebar): Изменена логика открытия/закрытия Sidebar",https://github.com/kaluga-astral/frontend/pull/666,2023-09-06T13:40:50Z,2023-09-13T10:12:10Z,2,3,MERGED
+frontend,"feat(UIKIT-911,icons): Добавлена иконка CopyOutlineMd",https://github.com/kaluga-astral/frontend/pull/665,2023-09-05T09:21:26Z,2023-09-05T09:49:52Z,1,1,MERGED
+frontend,"build(UIKIT-851,form): Исправлена ошибка сборки пакета",https://github.com/kaluga-astral/frontend/pull/664,2023-09-04T14:32:44Z,2023-09-04T14:40:25Z,1,2,MERGED
+frontend,"bug(UIKIT-909,form,FormAutocomplete): Добавлен обработчик freeSolo",https://github.com/kaluga-astral/frontend/pull/663,2023-09-04T06:24:34Z,2023-09-04T09:54:20Z,4,5,MERGED
+frontend,"feat(UIKIT-908, ui, Stepper): Добавлен StepContent",https://github.com/kaluga-astral/frontend/pull/662,2023-09-01T07:31:35Z,2023-09-01T09:14:23Z,1,1,MERGED
+frontend,"feat(UIKIT-896,ui,Select): Добавляет hideHelperText",https://github.com/kaluga-astral/frontend/pull/661,2023-09-01T07:08:04Z,2023-09-06T06:34:53Z,4,7,MERGED
+frontend,chore: Исправлена ссылка на shared в уведомлении telegram,https://github.com/kaluga-astral/frontend/pull/660,2023-08-29T08:08:52Z,2023-08-29T08:12:17Z,1,1,MERGED
+frontend,"feat(UIKIT-894, ui, theme): Для createTheme добавлен параметр htmlFon…",https://github.com/kaluga-astral/frontend/pull/659,2023-08-28T07:59:37Z,2023-09-04T14:42:08Z,8,1,CLOSED
+frontend,"feat(UIKIT-872,ui,Radio fields): Реализованы RadioField, RadioGroupField, FormRadioGroup",https://github.com/kaluga-astral/frontend/pull/658,2023-08-24T09:50:39Z,2023-09-04T09:19:52Z,3,3,MERGED
+frontend,"doc(UIKIT-892,ui,Alert): Добавлена ссылка на CollapsableAlert",https://github.com/kaluga-astral/frontend/pull/657,2023-08-24T07:20:16Z,2023-08-29T05:30:47Z,1,2,MERGED
+frontend,"doc(UIKIT-794,ui,Fab): Реализован storybook",https://github.com/kaluga-astral/frontend/pull/656,2023-08-22T14:05:44Z,2023-08-28T07:29:37Z,10,7,MERGED
+frontend,"feat(UIKIT-875,ui,CollapsableAlert): Реализован компонент CollapsableAlert",https://github.com/kaluga-astral/frontend/pull/655,2023-08-21T03:52:22Z,2023-08-22T06:28:50Z,3,3,MERGED
+frontend,"doc(UIKIT-371,ui,Select): Реализован storybook",https://github.com/kaluga-astral/frontend/pull/654,2023-08-18T07:27:59Z,2023-08-24T11:02:37Z,10,4,MERGED
+frontend,"doc(UIKIT-804,ui,Tooltip): Реализован storybook",https://github.com/kaluga-astral/frontend/pull/653,2023-08-17T06:24:17Z,2023-08-25T11:55:03Z,1,3,MERGED
+frontend,"feat(UIKIT-808,ui,Accordion): Реализован компонент Accordion",https://github.com/kaluga-astral/frontend/pull/652,2023-08-16T09:03:50Z,2023-08-17T07:56:45Z,12,6,MERGED
+frontend,"doc(UIKIT-388,ui,Alert): Реализован Storybook",https://github.com/kaluga-astral/frontend/pull/651,2023-08-15T10:32:19Z,2023-08-16T06:00:07Z,2,3,MERGED
+frontend,"feat(UIKIT-868, ui, FormDateRangePicker): Реализован компонент FormDateRangePicker",https://github.com/kaluga-astral/frontend/pull/650,2023-08-15T06:58:40Z,2023-08-15T10:33:46Z,9,6,MERGED
+frontend,"doc(UIKIT-790,ui,ContentState): Реализован storybook",https://github.com/kaluga-astral/frontend/pull/649,2023-08-15T05:45:03Z,2023-08-15T09:01:16Z,6,5,MERGED
+frontend,"bug(UIKIT-535,ui,Checkbox): Исправлено отображение для Ios",https://github.com/kaluga-astral/frontend/pull/648,2023-08-15T04:57:10Z,2023-08-15T06:07:00Z,1,1,MERGED
+frontend,"refactor(UIKIT-706,ui,DatePicker): Добавлен проп inputRef",https://github.com/kaluga-astral/frontend/pull/647,2023-08-14T04:02:50Z,2023-08-15T08:04:17Z,2,3,MERGED
+frontend,doc(UIKIT-861): Расширена документация storybook и ui пакета,https://github.com/kaluga-astral/frontend/pull/646,2023-08-09T06:58:45Z,2023-08-09T13:05:36Z,1,14,MERGED
+frontend,"feat(UIKIT-862, ui, DatePicker, DateRangePicker): Добавлен prop size",https://github.com/kaluga-astral/frontend/pull/645,2023-08-08T14:41:46Z,2023-08-09T09:34:14Z,2,4,MERGED
+frontend,"feat(UIKIT-858,ui,Select): Добавлен forwardRef для Select",https://github.com/kaluga-astral/frontend/pull/644,2023-08-08T12:22:06Z,2023-08-09T06:40:19Z,2,3,MERGED
+frontend,chore(UIKIT-789): Сделано брендирование storybook под Астрал-Софт,https://github.com/kaluga-astral/frontend/pull/643,2023-08-07T14:06:16Z,2023-08-07T14:17:13Z,1,1,MERGED
+frontend,doc(UIKIT-789): Реализована документация для astral/ui и getting started для storybook,https://github.com/kaluga-astral/frontend/pull/642,2023-08-07T13:36:52Z,2023-08-08T14:18:56Z,1,6,MERGED
+frontend,doc: Написана документация для storybook,https://github.com/kaluga-astral/frontend/pull/641,2023-08-04T14:15:15Z,2023-08-04T14:32:26Z,1,9,MERGED
+frontend,"bug(UIKIT-1958,ui,Autocomplete): Добавлено опциональное свойство ""renderInput""",https://github.com/kaluga-astral/frontend/pull/640,2023-08-04T13:54:27Z,2023-08-08T06:25:58Z,1,4,MERGED
+frontend,"bug(UIKIT-746,ui,DashboardLayout): Исправление ошибки гидратации",https://github.com/kaluga-astral/frontend/pull/639,2023-08-04T08:24:49Z,2023-08-08T07:58:02Z,6,7,MERGED
+frontend,"test(UIKIT-853,ui,useToggle): Замена it.each на it",https://github.com/kaluga-astral/frontend/pull/638,2023-08-04T07:13:44Z,2023-08-08T06:48:56Z,1,2,MERGED
+frontend,"bug(UIKIT-850,ui,DataGrid): Исправлена семантика верстки",https://github.com/kaluga-astral/frontend/pull/637,2023-08-03T15:31:31Z,2023-08-04T07:51:00Z,1,2,MERGED
+frontend,"feat(UIKIT-849, ui, DateRangePicker): Добавлен export компонента",https://github.com/kaluga-astral/frontend/pull/636,2023-08-03T13:25:46Z,2023-08-03T13:32:24Z,1,1,MERGED
+frontend,chore: Реализовано автодокументирование storybook,https://github.com/kaluga-astral/frontend/pull/635,2023-08-03T13:04:28Z,2023-08-04T12:31:23Z,4,33,MERGED
+frontend,"bug(UIKIT-848,FormTextField): Исправлена не работающая типизация компонента",https://github.com/kaluga-astral/frontend/pull/634,2023-08-03T10:44:33Z,2023-08-03T12:14:13Z,2,2,MERGED
+frontend,"feat(UIKIT-845,icons): Добавлена иконка VisibilityOffOutlineMd",https://github.com/kaluga-astral/frontend/pull/633,2023-08-01T06:32:07Z,2023-08-01T07:14:37Z,1,1,MERGED
+frontend,"bug(UIKIT-1125, ui, Avatar): Исправлен размер шрифта",https://github.com/kaluga-astral/frontend/pull/784,2023-12-28T14:34:26Z,2023-12-29T11:41:19Z,5,1,MERGED
+frontend,"feat(UIKIT-964,components,SidebarItem): Изменено поведение при hover, active, focus",https://github.com/kaluga-astral/frontend/pull/783,2023-12-28T08:25:22Z,2024-01-09T06:01:06Z,7,3,CLOSED
+frontend,"doc(UIKIT-1093,components,SwipeableDrawer): Изменен storybook",https://github.com/kaluga-astral/frontend/pull/782,2023-12-26T10:57:43Z,2024-01-09T06:02:44Z,10,8,CLOSED
+frontend,"doc(UIKIT-927,components,Badge): Реализован storybook",https://github.com/kaluga-astral/frontend/pull/781,2023-12-25T06:24:46Z,2023-12-26T11:21:15Z,9,4,MERGED
+frontend,"doc(UIKIT-929,components,Description): Изменение storybook",https://github.com/kaluga-astral/frontend/pull/780,2023-12-25T06:06:26Z,2023-12-28T11:10:05Z,9,5,MERGED
+frontend,"doc(UIKIT-443,components,Tabs): Изменение storybook",https://github.com/kaluga-astral/frontend/pull/779,2023-12-22T05:21:41Z,2023-12-28T11:18:26Z,12,5,MERGED
+frontend,"bug(UIKIT-1112,ui,SideDialog): Устанавливает цвет фона из макета",https://github.com/kaluga-astral/frontend/pull/778,2023-12-21T12:18:03Z,2023-12-22T07:02:59Z,2,1,MERGED
+frontend,"feat(UIKIT-1034,components,DashboardLayout.Header): Добавлен props children",https://github.com/kaluga-astral/frontend/pull/777,2023-12-21T05:39:39Z,2023-12-28T11:12:49Z,2,2,MERGED
+frontend,"feat(UIKIT-560,components,DatePiker): Добавлены props label, required…",https://github.com/kaluga-astral/frontend/pull/776,2023-12-21T05:32:20Z,2023-12-28T11:16:33Z,2,3,MERGED
+frontend,"bug(UIKIT-882,components,Select): Исправлен баг с fullwidth",https://github.com/kaluga-astral/frontend/pull/775,2023-12-21T05:10:21Z,2023-12-28T11:17:15Z,1,4,MERGED
+frontend,"feat(UIKIT-1069,ui,Tab): Исправлены стили",https://github.com/kaluga-astral/frontend/pull/774,2023-12-21T04:34:21Z,2024-01-09T06:06:34Z,4,5,MERGED
+frontend,"bug(UIKIT-1109,ui,SideDialog): Исключено свойство anchor",https://github.com/kaluga-astral/frontend/pull/773,2023-12-20T11:27:07Z,2023-12-20T11:33:28Z,1,1,MERGED
+frontend,"doc(UIKIT-626,ui,SideDialog): Добавлен storybook",https://github.com/kaluga-astral/frontend/pull/772,2023-12-20T09:54:07Z,2023-12-28T11:35:21Z,5,4,MERGED
+frontend,"bug(UIKIT-1095,ui,Dialog): Меняет backgroundColor как в макете",https://github.com/kaluga-astral/frontend/pull/771,2023-12-19T13:21:24Z,2023-12-20T07:44:59Z,2,5,MERGED
+frontend,"bug(UIKIT-1071,form,useFormFieldProps): Исправлена проблема с пропсом…",https://github.com/kaluga-astral/frontend/pull/770,2023-12-18T09:41:59Z,2023-12-20T06:57:54Z,2,2,MERGED
+frontend,"bug(UIKIT-1026,ui,DatePicker): Делает выбор месяца разблокированым",https://github.com/kaluga-astral/frontend/pull/769,2023-12-15T09:29:18Z,2023-12-18T12:09:36Z,5,4,MERGED
+frontend,doc: Поправлены ссылки на гайды по тестам,https://github.com/kaluga-astral/frontend/pull/768,2023-12-15T07:06:14Z,2023-12-28T11:19:59Z,1,2,MERGED
+frontend,"doc(UIKIT-792,ui,Dialog): Добавлен storybook",https://github.com/kaluga-astral/frontend/pull/767,2023-12-14T08:37:29Z,2023-12-19T11:24:37Z,7,6,MERGED
+frontend,"bug(UIKIT-1046,ui,MaskField): Реверт коммитов ломающих ввод даты вручную",https://github.com/kaluga-astral/frontend/pull/766,2023-12-14T08:13:46Z,2023-12-14T10:31:55Z,5,5,MERGED
+frontend,"doc(UIKIT-582,ui,ConfirmDialog): Добавлен storybook",https://github.com/kaluga-astral/frontend/pull/765,2023-12-13T08:21:36Z,2023-12-28T11:27:07Z,1,3,MERGED
+frontend,chore(UIKIT-1080): Интегрированы eslint конфиги для тестов,https://github.com/kaluga-astral/frontend/pull/764,2023-12-08T12:38:45Z,2023-12-12T10:42:51Z,1,3,MERGED
+frontend,"bug(UIKIT-1079,ui,DashboardLayout): Исправлена высота блоков в stories",https://github.com/kaluga-astral/frontend/pull/763,2023-12-08T11:58:35Z,2023-12-12T09:16:35Z,1,2,MERGED
+frontend,"bug(UIKIT-1074,ui,DatePicker): Добавлено addMonth вместо addDays",https://github.com/kaluga-astral/frontend/pull/762,2023-12-08T06:29:59Z,2023-12-08T08:55:09Z,1,1,MERGED
+frontend,"bug(UIKIT-1064,storybook): Добавлен алиас prettier2 для форматировани…",https://github.com/kaluga-astral/frontend/pull/761,2023-12-08T06:13:10Z,2023-12-12T10:58:57Z,2,3,MERGED
+frontend,"feat(UIKIT-621,ui,EmailField): Добавляет компоненты EmailField и Form…",https://github.com/kaluga-astral/frontend/pull/760,2023-12-07T14:22:26Z,2023-12-08T10:39:08Z,9,7,MERGED
+frontend,test: Изменен формат части тест-кейсов,https://github.com/kaluga-astral/frontend/pull/759,2023-12-07T06:41:16Z,2023-12-08T09:02:40Z,1,9,MERGED
+frontend,Test/format,https://github.com/kaluga-astral/frontend/pull/758,2023-12-07T06:40:34Z,2023-12-07T06:40:40Z,0,7,CLOSED
+frontend,test: Изменен формат части тест-кейсов,https://github.com/kaluga-astral/frontend/pull/757,2023-12-07T06:40:11Z,2023-12-07T06:40:14Z,0,7,CLOSED
+frontend,test: Изменен формат части тест-кейсов,https://github.com/kaluga-astral/frontend/pull/756,2023-12-07T06:39:15Z,2023-12-07T06:39:24Z,0,6,CLOSED
+frontend,"feat(UIKIT-1057,ui,Placeholder): Изменены стили для Placeholder",https://github.com/kaluga-astral/frontend/pull/755,2023-12-06T11:15:38Z,2023-12-06T11:25:18Z,1,2,MERGED
+frontend,"bug(UIKIT-1070,ui,MuiStep): Замена селектора стилей для исправления варнинга",https://github.com/kaluga-astral/frontend/pull/754,2023-12-05T09:27:02Z,2023-12-05T11:15:34Z,1,1,MERGED
+frontend,"bug(UIKIT-1061,ui,DatePicker): Прокидывать disabled через InputProps",https://github.com/kaluga-astral/frontend/pull/753,2023-12-05T08:19:12Z,2023-12-05T11:47:22Z,0,2,CLOSED
+frontend,"bug(UIKIT-1066, ui, TextField): Исправлены отступы для инпута с иконками (adornment)",https://github.com/kaluga-astral/frontend/pull/752,2023-12-01T17:29:30Z,2023-12-28T14:18:30Z,3,2,MERGED
+frontend,"feat(UIKIT-1060,icons): Добавлены новые иконки…",https://github.com/kaluga-astral/frontend/pull/751,2023-11-29T11:18:20Z,2023-11-29T11:59:10Z,1,1,MERGED
+frontend,test: Изменен формат части тест-кейсов,https://github.com/kaluga-astral/frontend/pull/750,2023-11-29T07:48:33Z,2023-12-07T06:36:36Z,0,4,CLOSED
+frontend,"bug(UIKIT-1046,ui,DatePicker): Игнорирует maskedValue с невалидным Date",https://github.com/kaluga-astral/frontend/pull/749,2023-11-29T07:18:16Z,2023-12-04T12:44:40Z,4,4,MERGED
+frontend,"feat(UIKIT-1055,icons): Добавлены новые иконки",https://github.com/kaluga-astral/frontend/pull/748,2023-11-28T12:07:51Z,2023-11-29T07:06:57Z,1,2,MERGED
+frontend,"bug(UIKIT-1054,ui,StepSlider): Удален return type у компонента",https://github.com/kaluga-astral/frontend/pull/747,2023-11-28T07:32:17Z,2023-11-28T12:12:16Z,1,1,MERGED
+frontend,"bug(UIKIT-1052,ui,StepSlider): Добавлен экспорт из пакета components",https://github.com/kaluga-astral/frontend/pull/746,2023-11-27T10:11:33Z,2023-11-27T13:19:35Z,2,2,MERGED
+frontend,"feat(UIKIT-981,ui,DateRangePicker): Выбор даты на одном DatePicker",https://github.com/kaluga-astral/frontend/pull/745,2023-11-27T05:37:00Z,2024-01-21T22:34:32Z,8,21,MERGED
+frontend,"chore: Обновлены commitlint, eslint",https://github.com/kaluga-astral/frontend/pull/744,2023-11-24T13:14:22Z,2023-11-24T13:35:02Z,1,1,MERGED
+frontend,"doc(UIKIT-928,ui,DashboardLayout): Storybook для DashboardLayout ",https://github.com/kaluga-astral/frontend/pull/743,2023-11-20T10:53:51Z,2023-12-08T11:23:39Z,19,10,MERGED
+frontend,"bug(UIKIT-1041,ui,DatePicker): Исправлен баг с появлением popover при disabled",https://github.com/kaluga-astral/frontend/pull/742,2023-11-20T10:22:57Z,2023-11-21T07:16:22Z,3,3,MERGED
+frontend,feat(UIKIT-928): Storybook для DashboardLayout,https://github.com/kaluga-astral/frontend/pull/741,2023-11-16T10:38:52Z,2023-11-20T10:51:56Z,2,2,CLOSED
+frontend,"feat(UIKIT-1038,ui,PageHeader/ButtonGroup): Добавлена поддержка DropdownButton",https://github.com/kaluga-astral/frontend/pull/740,2023-11-15T11:39:02Z,2023-11-16T07:15:23Z,4,5,MERGED
+frontend,"feat(UIKIT-873,ui,NotificationList): Добавлен компонент NotificationList",https://github.com/kaluga-astral/frontend/pull/739,2023-11-14T07:24:06Z,2023-12-05T11:25:30Z,61,10,MERGED
+frontend,"chore: Обновлены stylelint, commitlint, eslint",https://github.com/kaluga-astral/frontend/pull/738,2023-11-10T11:24:17Z,2023-11-24T12:22:36Z,10,10,CLOSED
+frontend,"feat(UIKIT-653,ui,Checkbox): Увеличение размера иконки",https://github.com/kaluga-astral/frontend/pull/737,2023-11-10T10:48:53Z,2023-11-10T12:42:40Z,1,1,MERGED
+frontend,"feat(UIKIT-1029,utils): Вынесен пакет с утилами",https://github.com/kaluga-astral/frontend/pull/736,2023-11-08T14:28:44Z,2024-05-27T13:58:54Z,9,9,MERGED
+frontend,"feat(UIKIT-1016,features,ProductSwitcher): Добавлены виджеты продуктов",https://github.com/kaluga-astral/frontend/pull/735,2023-11-08T12:48:51Z,2023-11-10T14:42:54Z,16,8,MERGED
+frontend,"feat(UIKIT-937,ui,PersonalData): Новый компонент скрытия перс данных от трекеров",https://github.com/kaluga-astral/frontend/pull/734,2023-11-08T11:31:32Z,2023-11-08T13:01:09Z,1,1,MERGED
+frontend,"feat(UIKIT-998,ui,Typography): Добавлен prop isUpperCase",https://github.com/kaluga-astral/frontend/pull/733,2023-11-08T05:51:08Z,2023-11-08T08:50:33Z,3,5,MERGED
+frontend,"bug(UIKIT-1028,Components): Обновление версии для emotion/cache",https://github.com/kaluga-astral/frontend/pull/732,2023-11-08T04:43:28Z,2023-11-09T06:44:24Z,1,3,MERGED
+frontend,"bug(UIKIT-985,ui,autocomplete): Исправлен размер иконки для очистки автокомплита",https://github.com/kaluga-astral/frontend/pull/731,2023-11-03T13:06:37Z,2023-11-08T06:47:49Z,2,2,MERGED
+frontend,"feat(UIKIT-1022,ui,DropdownButton): Добавлен props popoverProps",https://github.com/kaluga-astral/frontend/pull/730,2023-11-03T07:07:14Z,2023-11-03T10:01:27Z,1,2,MERGED
+frontend,"feat(UIKIT-946,form,CodeField): Добавлены компоненты CodeField и FormCodeField",https://github.com/kaluga-astral/frontend/pull/729,2023-11-01T14:12:50Z,2023-12-20T08:31:50Z,63,50,MERGED
+frontend,"feat(UIKIT-1021,icons): Добавлена иконка InfoOutlineSm",https://github.com/kaluga-astral/frontend/pull/728,2023-11-01T12:36:44Z,2023-11-01T12:59:32Z,1,1,MERGED
+frontend,"feat(UIKIT-1306,ui,Notify): Добавлен экспорт типа для использования в классах",https://github.com/kaluga-astral/frontend/pull/901,2024-03-29T10:31:43Z,2024-03-29T12:29:25Z,2,3,MERGED
+frontend,"bug(UIKIT-1357,ui,FeedbackPanel): Исправлена ошибка отображения FeedbackPanel",https://github.com/kaluga-astral/frontend/pull/900,2024-03-28T13:25:56Z,2024-03-29T11:52:38Z,2,3,MERGED
+frontend,"bug(UIKIT-1319,ui,Autocomplete): Placeholder скрывается при выборе одной из опций",https://github.com/kaluga-astral/frontend/pull/899,2024-03-28T08:12:05Z,2024-04-02T07:18:44Z,14,8,MERGED
+frontend,"bug(UIKIT-1343,ui,Avatar): Поправлен размер шрифта для мобильной версии",https://github.com/kaluga-astral/frontend/pull/898,2024-03-27T15:08:53Z,2024-03-28T09:40:19Z,3,2,MERGED
+frontend,"feat(UIKIT-1280,ui,MenuItem): MenuItem. Добавить тултип для заблокированных элементов",https://github.com/kaluga-astral/frontend/pull/897,2024-03-27T13:47:17Z,2024-03-28T13:11:09Z,11,3,CLOSED
+frontend,"bug(UIKIT-1318,ui,Tag): Поправлен цвет removable тега",https://github.com/kaluga-astral/frontend/pull/896,2024-03-27T13:43:46Z,2024-03-28T11:48:56Z,2,2,MERGED
+frontend,"feat(UIKIT-1355,ui,WelcomeScreen): Добавлен пропс isSuccess",https://github.com/kaluga-astral/frontend/pull/895,2024-03-27T13:38:20Z,2024-03-29T06:41:29Z,5,6,MERGED
+frontend,"feat(UIKIT-1286,ui,ScrollToTopButton): Добавлена общая кнопка скролла наверх",https://github.com/kaluga-astral/frontend/pull/894,2024-03-27T12:25:54Z,2024-04-01T09:58:44Z,14,9,MERGED
+frontend,"bug(UIKIT-1126,ui,FormAutocomplete): Исправлена синхронизация value при изменении значения поля формы",https://github.com/kaluga-astral/frontend/pull/893,2024-03-27T07:54:56Z,2024-04-04T10:07:53Z,4,9,MERGED
+frontend,"bug(UIKIT-1115,ui,Autocomplete): Добавлено сокрытие кнопки очистки при пустом инпуте",https://github.com/kaluga-astral/frontend/pull/892,2024-03-26T16:10:53Z,2024-03-29T14:05:30Z,22,3,MERGED
+frontend,"bug(UIKIT-1113,form,FormAutocomplete):  Убран onChange из типа пропсов",https://github.com/kaluga-astral/frontend/pull/891,2024-03-26T14:10:48Z,2024-03-27T11:04:22Z,2,3,MERGED
+frontend,"bug(UIKIT-1113,components,FormAutocomplete): Убрал onChange из типа F…",https://github.com/kaluga-astral/frontend/pull/890,2024-03-26T12:53:46Z,2024-03-26T14:06:16Z,0,1,CLOSED
+frontend,"bug(UIKIT-1017,ui,CheckboxField): Выравнивание лейбла по вертикали относительно чекбокса",https://github.com/kaluga-astral/frontend/pull/889,2024-03-26T12:36:57Z,2024-03-29T12:34:05Z,6,5,MERGED
+frontend,"test(UIKIT-1338,FlowButton): Отрефакторены тесты",https://github.com/kaluga-astral/frontend/pull/888,2024-03-25T08:57:11Z,2024-03-26T12:39:52Z,1,3,MERGED
+frontend,"bug(UIKIT-913,ui,DatePicker): Исправлена ошибка позиционирования и производительности popover",https://github.com/kaluga-astral/frontend/pull/887,2024-03-21T22:59:52Z,2024-03-26T20:34:10Z,13,15,MERGED
+frontend,"bug(UIKIT-1149,ui,Description): Убрано двоеточие когда leader равен true",https://github.com/kaluga-astral/frontend/pull/886,2024-03-21T11:11:10Z,2024-03-21T11:42:56Z,1,1,MERGED
+frontend,"bug(UIKIT-1329,features,CryptoProProvider): Скрыл нативное модально окно от КриптоПро",https://github.com/kaluga-astral/frontend/pull/885,2024-03-20T13:45:14Z,2024-03-21T13:23:33Z,1,2,MERGED
+frontend,"bug(UIKIT-1315,ui,NavMenu): Исключен проброс пропса isGroupTitleItem в DOM",https://github.com/kaluga-astral/frontend/pull/884,2024-03-20T13:32:47Z,2024-03-21T13:02:49Z,1,2,MERGED
+frontend,"bug(UIKIT-1325,features,CryptoProProvider): Убрал циклическую зависимость",https://github.com/kaluga-astral/frontend/pull/883,2024-03-20T13:20:06Z,2024-03-21T13:19:18Z,1,2,MERGED
+frontend,"bug(UIKIT-1336,ui,PageHeader):  Добавлена обрезка длинного заголовка в моб. версии",https://github.com/kaluga-astral/frontend/pull/882,2024-03-20T12:15:13Z,2024-03-20T12:50:53Z,2,1,MERGED
+frontend,"test(UIKIT-1338,DropdownButton): Отрефакторены тесты",https://github.com/kaluga-astral/frontend/pull/881,2024-03-20T10:52:04Z,2024-03-25T08:54:06Z,3,4,MERGED
+frontend,doc(ui): MVP mobile example,https://github.com/kaluga-astral/frontend/pull/880,2024-03-20T08:24:37Z,2024-03-20T10:10:07Z,0,2,CLOSED
+frontend,"bug(UIKIT-1314,ui,theme): Убран вывод ошибки в консоль для цвета info",https://github.com/kaluga-astral/frontend/pull/879,2024-03-20T06:57:47Z,2024-03-20T11:43:07Z,1,4,MERGED
+frontend,Add changelog 26.02.2024 - 15.03.2024.md,https://github.com/kaluga-astral/frontend/pull/878,2024-03-19T13:08:29Z,2024-03-19T13:08:39Z,1,1,MERGED
+frontend,Delete changelog/26.02.2024 - 15.03.2024,https://github.com/kaluga-astral/frontend/pull/877,2024-03-19T13:06:23Z,2024-03-19T13:06:33Z,1,1,MERGED
+frontend,Add changelog 26.02.2024 - 15.03.2024,https://github.com/kaluga-astral/frontend/pull/876,2024-03-19T13:04:48Z,2024-03-19T13:05:03Z,1,1,MERGED
+frontend,"bug(UIKIT-1316,ui,theme): Возвращает оттенки light,main,dark для warning,success,error",https://github.com/kaluga-astral/frontend/pull/875,2024-03-18T14:22:15Z,2024-03-18T14:49:36Z,1,1,MERGED
+frontend,"bug(UIKIT-1316,ui,theme): Возвращен contrastText в warning, success, error",https://github.com/kaluga-astral/frontend/pull/874,2024-03-18T13:34:09Z,2024-03-18T13:43:54Z,1,1,MERGED
+frontend,"feat(UIKIT-1227,ui,FeedbackPanel): Реализован виджет для обратной связи",https://github.com/kaluga-astral/frontend/pull/873,2024-03-15T11:54:50Z,2024-03-20T12:44:01Z,27,10,MERGED
+frontend,"bug(UIKIT-658,ui,Profile): Исправлено размер popover не соответствует длине кнопки",https://github.com/kaluga-astral/frontend/pull/872,2024-03-12T08:45:00Z,2024-03-20T11:26:44Z,1,1,MERGED
+frontend,"bug(UIKIT-1311,ui,ListItemIcon): Поправлен цвет иконки при hover и selected",https://github.com/kaluga-astral/frontend/pull/871,2024-03-12T07:11:31Z,2024-03-12T12:57:32Z,1,2,MERGED
+frontend,"bug(UIKIT-1238,ui,Typography): Исправлен text-transform для варианта button",https://github.com/kaluga-astral/frontend/pull/870,2024-03-12T06:16:43Z,2024-03-12T06:32:25Z,1,1,MERGED
+frontend,"feat(UIKIT-1310,ui,theme): Добавлена цветовая схема EKO",https://github.com/kaluga-astral/frontend/pull/869,2024-03-11T13:02:07Z,2024-03-12T07:15:30Z,1,2,MERGED
+frontend,"bug(UIKIT-1293,ui): Добавлено использование dvh через supports",https://github.com/kaluga-astral/frontend/pull/868,2024-03-06T07:53:48Z,2024-03-06T08:42:12Z,1,1,MERGED
+frontend,"doc(UIKIT-926,ui,Breadcrumbs): Переформатирован storybook",https://github.com/kaluga-astral/frontend/pull/867,2024-03-06T06:07:13Z,2024-04-24T06:23:56Z,6,4,MERGED
+frontend,"feat(UIKIT-1288,features,AstralProductSwitcher): Добавление параметра productGroupId",https://github.com/kaluga-astral/frontend/pull/866,2024-03-05T15:25:58Z,2024-04-12T11:43:51Z,3,4,MERGED
+frontend,"bug(UIKIT-1279,ui,DataList): Поправлена типизация для поля keyId",https://github.com/kaluga-astral/frontend/pull/865,2024-03-05T15:04:20Z,2024-03-06T18:43:04Z,2,7,MERGED
+frontend,"bug(UIKIT-1284,ui): Замена vh единиц на dvh",https://github.com/kaluga-astral/frontend/pull/864,2024-03-05T14:16:50Z,2024-03-05T14:28:42Z,1,2,MERGED
+frontend,"bug(UIKIT-1291,ui,Placeholder): Центрирование для картинки в Placeholder",https://github.com/kaluga-astral/frontend/pull/863,2024-03-05T12:06:47Z,2024-03-05T12:29:03Z,2,2,MERGED
+frontend,"feat(UIKIT-1269,ui,MenuItem): Добавлен адаптив под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/862,2024-03-05T07:36:48Z,2024-03-05T07:40:24Z,1,2,MERGED
+frontend,"feat(UIKIT-1124,ui,WelcomeScreen): Добавлен компонент приветственного экрана ",https://github.com/kaluga-astral/frontend/pull/861,2024-03-04T06:10:51Z,2024-03-05T14:16:19Z,22,10,MERGED
+frontend,feat(UIKIT-983): Реализован Link,https://github.com/kaluga-astral/frontend/pull/860,2024-03-01T14:55:53Z,2024-03-26T09:01:03Z,18,22,MERGED
+frontend,build(UIKIT-1201): Реализован билд в cjs для ускорения vitest и nextjs,https://github.com/kaluga-astral/frontend/pull/859,2024-03-01T12:40:22Z,2024-03-04T10:55:33Z,1,10,MERGED
+frontend,"feat(UIKIT-844,ui,Typography): Исправляет типизацию в Typography",https://github.com/kaluga-astral/frontend/pull/858,2024-03-01T11:56:37Z,2024-03-11T07:25:23Z,12,11,MERGED
+frontend,refactor(UIKIT-1275): Проведен рефакторинг кода в соответствии с новым style guide,https://github.com/kaluga-astral/frontend/pull/857,2024-03-01T08:08:21Z,2024-03-05T13:14:37Z,3,29,MERGED
+frontend,"feat(UIKIT-352,ui,Iframe): Реализован компонент Iframe",https://github.com/kaluga-astral/frontend/pull/856,2024-02-29T04:12:36Z,2024-02-29T13:59:52Z,10,4,MERGED
+frontend,chore(UIKIT-1174): .DS_STORE добавлен в gitignore,https://github.com/kaluga-astral/frontend/pull/855,2024-02-28T12:30:47Z,2024-02-29T08:23:24Z,1,4,MERGED
+frontend,Update changelog 12.02.2024 - 25.02.2024.md,https://github.com/kaluga-astral/frontend/pull/854,2024-02-27T12:47:53Z,2024-02-27T12:48:03Z,1,1,MERGED
+frontend,Add changelog 12.02.2024 - 25.02.2024.md,https://github.com/kaluga-astral/frontend/pull/853,2024-02-27T12:46:02Z,2024-02-27T12:46:12Z,1,1,MERGED
+frontend,"feat(UIKIT-629,ui,FlowButton): Реализован storybook для компонента FlowButton",https://github.com/kaluga-astral/frontend/pull/852,2024-02-27T11:12:49Z,2024-02-29T06:44:57Z,7,10,MERGED
+frontend,"bug(UIKIT-1260,ui,createTheme): Исправлено расширение темы через options",https://github.com/kaluga-astral/frontend/pull/851,2024-02-26T10:13:43Z,2024-02-27T07:13:17Z,4,3,MERGED
+frontend,"doc(UIKIT-1209,ui,Popover): Переформатирован storybook",https://github.com/kaluga-astral/frontend/pull/850,2024-02-26T09:51:27Z,2024-03-05T07:14:32Z,14,8,MERGED
+frontend,"bug(UIKIT-1265,ui,PageLayout): Контейнер контента занимает 100% высоты",https://github.com/kaluga-astral/frontend/pull/849,2024-02-26T08:51:46Z,2024-02-27T07:24:08Z,1,3,MERGED
+frontend,"feat(UIKIT-1262,ui,Alert): Добавлен экспорт типа AlertSeverity",https://github.com/kaluga-astral/frontend/pull/848,2024-02-26T06:39:05Z,2024-02-26T12:23:02Z,2,2,MERGED
+frontend,"bug(UIKIT-900,ui,DataGrid): Убраны отступы по бокам у элементов компонента",https://github.com/kaluga-astral/frontend/pull/847,2024-02-24T13:08:24Z,2024-02-29T06:45:59Z,2,1,CLOSED
+frontend,refactor(UIKIT-1258): Изменены названия styled-компонентов по style guide,https://github.com/kaluga-astral/frontend/pull/846,2024-02-20T09:14:04Z,2024-02-21T10:22:20Z,7,7,MERGED
+frontend,"bug(UIKIT-1256,ui,DashboardSidebarContext): Добавлен экспорт из пакета SidebarContext",https://github.com/kaluga-astral/frontend/pull/845,2024-02-20T06:49:18Z,2024-02-20T06:54:39Z,1,1,MERGED
+frontend,"feat(UIKIT-1182,ui,Popover): Добавлен адаптив для Popover",https://github.com/kaluga-astral/frontend/pull/844,2024-02-19T13:48:39Z,2024-02-20T09:50:04Z,1,3,MERGED
+frontend,"feat(UIKIT-1119,ui,DataList): Реализован компонент DataList",https://github.com/kaluga-astral/frontend/pull/843,2024-02-19T12:23:36Z,2024-02-22T14:39:59Z,22,7,MERGED
+frontend,"doc(UIKIT-12106,ui,Tag): Переформатирован storybook в новый формат",https://github.com/kaluga-astral/frontend/pull/842,2024-02-19T09:49:49Z,2024-02-22T11:58:50Z,4,5,MERGED
+frontend,"feat(UIKIT-1251,icons): Добавлены OutlineMd иконки: AddUser, CertGiven, Unlink",https://github.com/kaluga-astral/frontend/pull/841,2024-02-19T06:58:15Z,2024-02-19T14:07:02Z,2,2,MERGED
+frontend,"doc(UIKIT-1211,ui,IconButton): Переформатирован storybook",https://github.com/kaluga-astral/frontend/pull/840,2024-02-16T16:04:33Z,2024-02-24T10:31:12Z,1,2,MERGED
+frontend,"feat(UIKIT-1181,ui,Menu): Реализован адаптив для компонента Menu",https://github.com/kaluga-astral/frontend/pull/839,2024-02-16T13:45:27Z,2024-02-20T09:41:24Z,3,7,MERGED
+frontend,"feat(UIKIT-1123,ui,Placeholder): Правка стилей под макеты и реализация адаптива",https://github.com/kaluga-astral/frontend/pull/838,2024-02-15T14:19:28Z,2024-02-19T06:22:03Z,4,4,MERGED
+frontend,"chore(UIKIT-1232,ui,DashboardLayout): Убраны отступы для stories",https://github.com/kaluga-astral/frontend/pull/837,2024-02-15T11:49:59Z,2024-02-16T06:57:39Z,1,1,MERGED
+frontend,"feat(UIKIT-1148,ui,ProgressBar): Реализован компонент ProgressBar",https://github.com/kaluga-astral/frontend/pull/836,2024-02-15T10:41:43Z,2024-02-20T06:27:45Z,8,5,MERGED
+frontend,feat: UIKIT-1229 закрытие Sidebar при клике по навигации в мобильной версии,https://github.com/kaluga-astral/frontend/pull/835,2024-02-15T06:17:15Z,2024-05-28T07:46:44Z,0,1,CLOSED
+frontend,feat: UIKIT-1176 реализован адаптив для компонента Profile,https://github.com/kaluga-astral/frontend/pull/834,2024-02-14T12:39:40Z,2024-02-14T13:11:29Z,4,1,MERGED
+frontend,"bug(UIKIT-1236,ui,NavMenu): Исправлена ошибка stylelint",https://github.com/kaluga-astral/frontend/pull/833,2024-02-14T06:41:35Z,2024-02-14T07:11:28Z,1,1,MERGED
+frontend,build(UIKIT-1201): Реализован билд в cjs для ускорения vitest и nextjs,https://github.com/kaluga-astral/frontend/pull/832,2024-02-13T14:28:38Z,2024-02-22T12:57:11Z,1,4,CLOSED
+frontend,Revert: добавление якоря,https://github.com/kaluga-astral/frontend/pull/831,2024-02-13T12:57:33Z,2024-02-13T12:57:39Z,1,1,MERGED
+frontend,Добавлены якоря,https://github.com/kaluga-astral/frontend/pull/830,2024-02-13T12:48:46Z,2024-02-13T12:48:54Z,1,1,MERGED
+frontend,Добавлены ссылки на jira и storybook,https://github.com/kaluga-astral/frontend/pull/829,2024-02-13T12:13:47Z,2024-02-13T12:13:55Z,1,1,MERGED
+frontend,Поправлено форматирование changelog,https://github.com/kaluga-astral/frontend/pull/828,2024-02-13T10:02:16Z,2024-02-13T10:02:25Z,1,1,MERGED
+frontend,Добавлен changelog 29.01.2024 - 09.02.2024,https://github.com/kaluga-astral/frontend/pull/827,2024-02-13T09:56:43Z,2024-02-13T09:57:49Z,1,1,MERGED
+frontend,"test(UIKIT-1082,components,Button,ClickAwayListener): Отрефакторены названия тест-кейсов",https://github.com/kaluga-astral/frontend/pull/826,2024-02-13T05:36:34Z,2024-02-22T12:58:09Z,1,3,MERGED
+frontend,feat(UIKIT-1179): Реализовать адаптив для компонента Dialog,https://github.com/kaluga-astral/frontend/pull/825,2024-02-12T13:27:53Z,2024-02-15T07:22:57Z,9,14,MERGED
+frontend,"feat(UIKIT-763,ui,DataGrid): Не отображать кнопки сортировки, если меньше двух записей",https://github.com/kaluga-astral/frontend/pull/824,2024-02-10T10:09:30Z,2024-02-16T11:22:01Z,4,6,MERGED
+frontend,feat(UIKIT-441): Реализует удаление тэга по нажатию на него,https://github.com/kaluga-astral/frontend/pull/823,2024-02-09T17:27:01Z,2024-02-16T16:17:56Z,4,0,CLOSED
+frontend,"bug(UIKIT-1226,ui,Autocomplete): Решение ошибки с потерей фокуса",https://github.com/kaluga-astral/frontend/pull/822,2024-02-09T12:28:14Z,2024-03-05T07:22:09Z,1,8,MERGED
+frontend,"feat(UIKIT-1217,ui,Product): Реализован адаптив под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/821,2024-02-09T11:48:36Z,2024-02-09T11:58:20Z,1,2,MERGED
+frontend,feat(UIKIT-972): В palette добавлены цвета для link,https://github.com/kaluga-astral/frontend/pull/820,2024-02-09T11:33:51Z,2024-02-20T07:45:26Z,4,9,MERGED
+frontend,"feat(UIKIT-1213,ui,NavMenu): Реализован адаптив под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/819,2024-02-09T11:10:42Z,2024-02-09T11:55:28Z,2,1,MERGED
+frontend,refactor(UIKIT-1214): Избавиться от зависимостей lodash-es в ui-kit,https://github.com/kaluga-astral/frontend/pull/818,2024-02-08T08:42:14Z,2024-02-08T11:49:58Z,2,3,MERGED
+frontend,"feat(UIKIT-1122,ui,DashboardLayout): Реализовать адаптив для компонента DashboardLayout",https://github.com/kaluga-astral/frontend/pull/817,2024-02-07T13:42:34Z,2024-02-09T10:51:29Z,17,12,MERGED
+frontend,"feat(UIKIT-1212,ui,PageLayout): Добавлен className в PageLayoutContainer",https://github.com/kaluga-astral/frontend/pull/816,2024-02-07T09:51:28Z,2024-02-07T10:32:03Z,1,1,MERGED
+frontend,"bug(UIKIT-1205,ui,DashboardLayout): Исправлено обрезание контента",https://github.com/kaluga-astral/frontend/pull/815,2024-02-06T08:41:30Z,2024-02-06T11:35:57Z,4,2,MERGED
+frontend,"feat(UIKIT-1189,ui,NotificationList): Добавить footerContent в NotificationList",https://github.com/kaluga-astral/frontend/pull/814,2024-02-05T05:53:01Z,2024-02-06T07:17:52Z,10,3,MERGED
+frontend,"test(UIKIT-1082,components,CheckboxField): Отрефакторены названия тест-кейсов",https://github.com/kaluga-astral/frontend/pull/813,2024-02-02T12:45:30Z,2024-02-02T13:34:05Z,1,3,MERGED
+frontend,"feat(UIKIT-1177,ui,PageLayout): Реализовать адаптив для компонента PageLayout",https://github.com/kaluga-astral/frontend/pull/812,2024-02-01T11:33:13Z,2024-02-08T07:11:47Z,6,4,MERGED
+frontend,feat(UIKIT-1180): Добавлены типы в ConfirmDialog,https://github.com/kaluga-astral/frontend/pull/811,2024-01-31T12:13:53Z,2024-01-31T14:29:09Z,2,3,MERGED
+frontend,feat(UIKIT-1160): Изменил цвет текста в диалоге,https://github.com/kaluga-astral/frontend/pull/810,2024-01-31T10:32:29Z,2024-02-01T06:50:43Z,3,3,MERGED
+frontend,feat(UIKIT-1147): Добалены иконки стрелок вверх и вниз,https://github.com/kaluga-astral/frontend/pull/809,2024-01-31T08:53:59Z,2024-01-31T13:53:56Z,2,3,MERGED
+frontend,"feat(UIKIT-265,ui,DataGridInfinite): Реализован DataGridInfinite",https://github.com/kaluga-astral/frontend/pull/808,2024-01-31T07:40:05Z,2024-03-05T12:00:56Z,46,27,MERGED
+frontend,"bug(UIKIT-1190,ui,Button): Исправлен цвет фона для состояния disabled",https://github.com/kaluga-astral/frontend/pull/807,2024-01-30T12:27:07Z,2024-01-30T12:36:23Z,1,2,MERGED
+frontend,"bug(UIKIT-1187, Icons): Зафиксирована версия @mui/material",https://github.com/kaluga-astral/frontend/pull/806,2024-01-30T11:45:39Z,2024-01-30T11:54:37Z,1,1,MERGED
+frontend,"feat(UIKIT-1099,ui,Autocomplete): Добавить возможность прокидывать текст ошибки в Popper",https://github.com/kaluga-astral/frontend/pull/805,2024-01-26T09:38:53Z,2024-01-26T12:08:56Z,7,1,MERGED
+frontend,"feat(UIKIT-1183,ui,BottomDrawer): Реализован компонент BottomDrawer",https://github.com/kaluga-astral/frontend/pull/804,2024-01-25T13:15:57Z,2024-01-31T10:22:08Z,23,7,MERGED
+frontend,"bug(UIKIT-1172,ui,Autocomplete):  Исправление несоответствия макету",https://github.com/kaluga-astral/frontend/pull/803,2024-01-25T11:58:22Z,2024-01-26T09:04:24Z,4,1,MERGED
+frontend,"bug(UIKIT-1035, ui, ContentState): Убран required для imgAlt в состоянии ошибки",https://github.com/kaluga-astral/frontend/pull/802,2024-01-23T08:54:01Z,2024-01-23T09:54:02Z,1,2,MERGED
+frontend,"feat(UIKIT-1170,icons): Добавлена иконка",https://github.com/kaluga-astral/frontend/pull/801,2024-01-22T09:32:27Z,2024-01-22T12:05:07Z,1,3,MERGED
+frontend,chore(UIKIT-1156): Обновлен список CODEOWNERS,https://github.com/kaluga-astral/frontend/pull/800,2024-01-22T07:37:43Z,2024-01-22T09:07:35Z,1,1,MERGED
+frontend,"bug(UIKIT-1154,ui,ConfirmDialog): Добавил export к ConfirmDialogProps",https://github.com/kaluga-astral/frontend/pull/799,2024-01-17T12:57:03Z,2024-01-17T13:04:10Z,1,1,MERGED
+frontend,"bug(UIKIT-1144,ui,DropdownButton): Добавить selected для Button",https://github.com/kaluga-astral/frontend/pull/798,2024-01-17T12:55:35Z,2024-01-17T13:26:54Z,1,2,MERGED
+frontend,"bug(UIKIT-871, ui, Button): Исправлена типизация, когда тип компонент…",https://github.com/kaluga-astral/frontend/pull/797,2024-01-16T09:09:55Z,2024-01-26T13:08:24Z,9,5,MERGED
+frontend,"bug(UIKIT-1132,form,CodeField): Фикс отображения фокуса кнопки ""Отправить код повторно""",https://github.com/kaluga-astral/frontend/pull/796,2024-01-15T10:58:05Z,2024-01-16T12:10:08Z,3,4,MERGED
+frontend,"feat(UIKIT-1146,form,CodeField): Добален функционал автофокуса в первую ячейку",https://github.com/kaluga-astral/frontend/pull/795,2024-01-15T10:57:11Z,2024-01-16T12:05:31Z,2,3,MERGED
+frontend,"feat(UIKIT-1145,ui,CodeField): Сбрасывать введенный код при повторной отправке",https://github.com/kaluga-astral/frontend/pull/794,2024-01-15T10:54:13Z,2024-01-17T08:02:31Z,2,5,MERGED
+frontend,"bug(UIKIT-1143,PasswordField): Добавлено использование ref",https://github.com/kaluga-astral/frontend/pull/793,2024-01-15T06:02:57Z,2024-01-23T05:44:56Z,4,5,MERGED
+frontend,"bug(UIKIT-1137,ui,Autocomplete): Поправлена типизация. Добавлена зависимость в useCallback",https://github.com/kaluga-astral/frontend/pull/792,2024-01-12T13:22:54Z,2024-01-12T14:10:38Z,1,1,MERGED
+frontend,"feat(UIKIT-1141,ui,DashboardLayout): Исправлено выравнивание компонентов в хэдере",https://github.com/kaluga-astral/frontend/pull/791,2024-01-12T12:10:23Z,2024-01-22T07:53:53Z,1,2,MERGED
+frontend,"bug(UIKIT-913,ui,DatePicker): Убрано отключение портала для поповера",https://github.com/kaluga-astral/frontend/pull/790,2024-01-12T12:04:00Z,2024-03-25T21:33:10Z,1,5,CLOSED
+frontend,"bug(UIKIT-1140,ui): Зафиксирована версия react-hook-form",https://github.com/kaluga-astral/frontend/pull/789,2024-01-12T11:55:28Z,2024-01-12T14:22:14Z,2,3,MERGED
+frontend,"feat(UIKIT-1139,ui,MenuOrganization): Добавлен флаг для управления рендером",https://github.com/kaluga-astral/frontend/pull/788,2024-01-12T11:47:59Z,2024-01-12T12:19:44Z,1,1,MERGED
+frontend,"feat(UIKIT-1136,icons): Добавлены иконки",https://github.com/kaluga-astral/frontend/pull/787,2024-01-11T10:05:19Z,2024-01-11T10:42:26Z,3,2,MERGED
+frontend,"bug(UIKIT-839,ui,Description): Поправлены отступы компонента",https://github.com/kaluga-astral/frontend/pull/786,2024-01-11T09:50:55Z,2024-01-11T12:16:51Z,1,2,MERGED
+frontend,"bug(UIKIT-1135,DatePicker): Добавлен пропс inputProps",https://github.com/kaluga-astral/frontend/pull/785,2024-01-11T04:52:20Z,2024-01-11T06:54:49Z,2,1,MERGED
+frontend,"bug(UIKIT-1507,FormAutocomplete): Исправлено отображение 'undefined' в input, если value отсутствует",https://github.com/kaluga-astral/frontend/pull/989,2024-05-31T12:15:48Z,2024-05-31T12:27:14Z,1,2,MERGED
+frontend,"feat(UIKIT-1504,icons): Добавлена иконка UnlockOutlineMd",https://github.com/kaluga-astral/frontend/pull/988,2024-05-30T11:04:45Z,2024-05-30T11:56:56Z,1,1,MERGED
+frontend,"feat(UIKIT-1261,Skeleton): Реализован компонент Skeleton",https://github.com/kaluga-astral/frontend/pull/987,2024-05-28T15:33:57Z,2024-05-30T07:11:41Z,4,4,MERGED
+frontend,"feat(UIKIT-1453,Tooltip): Изменен отступ от элемента",https://github.com/kaluga-astral/frontend/pull/986,2024-05-28T13:20:21Z,2024-05-28T15:35:19Z,1,1,MERGED
+frontend,"bug(UIKIT-1479,Tab): Поправлена типизация, в типы добавлена поддержка пропса component",https://github.com/kaluga-astral/frontend/pull/984,2024-05-28T09:07:13Z,2024-05-28T12:54:38Z,1,4,MERGED
+frontend,"bug(UIKIT-1488,DataGridInfinite): Поправлено перекрытие кнопкой прокрути к началу списка элементов таблицы",https://github.com/kaluga-astral/frontend/pull/983,2024-05-28T08:18:41Z,2024-05-28T10:35:29Z,1,3,MERGED
+frontend,chore(UIKIT-1029): Удален пакет utils. Перенесен в отдельный репозиторий,https://github.com/kaluga-astral/frontend/pull/982,2024-05-28T07:33:20Z,2024-05-28T07:57:29Z,1,3,MERGED
+frontend,"feat(UIKIT-1446,NotificationNext): Доработаны анимации и стили для стека уведомлений",https://github.com/kaluga-astral/frontend/pull/981,2024-05-27T21:48:18Z,2024-05-28T06:57:41Z,5,3,MERGED
+frontend,"feat(UIKIT-1326,FlowButton): Добавить состояние загрузки",https://github.com/kaluga-astral/frontend/pull/980,2024-05-27T13:12:58Z,2024-05-28T07:52:36Z,1,2,MERGED
+frontend,"bug(UIKIT-1483,Link): Добавлен тип для пропса target",https://github.com/kaluga-astral/frontend/pull/979,2024-05-23T09:32:26Z,2024-05-23T10:32:16Z,4,1,MERGED
+frontend,doc(SHRD-37): Обновлены правила названия коммитов в CONTRIBUTING.md,https://github.com/kaluga-astral/frontend/pull/978,2024-05-23T08:44:52Z,2024-05-23T10:45:12Z,1,3,MERGED
+frontend,test(UIKIT-1349): Добавлены явные импорты vitest в тестах,https://github.com/kaluga-astral/frontend/pull/977,2024-05-23T07:04:19Z,2024-05-23T08:14:03Z,1,3,MERGED
+frontend,chore(SHRD-36): Изменена конфигурация для commitlint,https://github.com/kaluga-astral/frontend/pull/976,2024-05-22T14:31:48Z,2024-05-23T07:18:27Z,1,2,MERGED
+frontend,"build(UIKIT-1470): Исправлено добавление секции next, для @astral/ui",https://github.com/kaluga-astral/frontend/pull/975,2024-05-22T13:13:16Z,2024-05-22T13:39:52Z,1,2,MERGED
+frontend,"build(UIKIT-1470): Добавлена секция next, для @astral/ui для компонентов с требованием react >= 18 версии",https://github.com/kaluga-astral/frontend/pull/974,2024-05-22T11:00:21Z,2024-05-22T11:33:21Z,1,1,MERGED
+frontend,"test(UIKIT-1481,Description): Исправлена ошибка рантайма при тестировании Description",https://github.com/kaluga-astral/frontend/pull/973,2024-05-22T10:58:53Z,2024-05-23T13:42:18Z,1,2,MERGED
+frontend,"feat(UIKIT-1472,features,CryptoProStore): Добавлен метод для перезапроса списка сертификатов",https://github.com/kaluga-astral/frontend/pull/972,2024-05-22T08:59:37Z,2024-05-22T11:17:46Z,2,2,MERGED
+frontend,build(UIKIT-1470): Убрана секция next для @astral/ui,https://github.com/kaluga-astral/frontend/pull/971,2024-05-22T08:56:01Z,2024-05-22T10:01:14Z,1,2,MERGED
+frontend,"bug(UIKIT-1467,features,CryptoProStore): Исправлено условие наличия КриптоПро ЭЦП Browser plug-in",https://github.com/kaluga-astral/frontend/pull/970,2024-05-22T08:47:39Z,2024-05-22T11:09:52Z,1,2,MERGED
+frontend,"bug(UIKIT-1458,Profile): Добавлено ограничение ширины профиля",https://github.com/kaluga-astral/frontend/pull/969,2024-05-21T10:32:57Z,2024-05-24T08:40:38Z,10,11,MERGED
+frontend,"bug(UIKIT-1470): Реализована секция next, для компонентов с требованием react >= 18 версии",https://github.com/kaluga-astral/frontend/pull/968,2024-05-21T08:51:27Z,2024-05-22T07:12:15Z,3,5,MERGED
+frontend,"doc(UIKIT-1093, SwipableDrawer): SwipableDrawer помечен как deprecated",https://github.com/kaluga-astral/frontend/pull/967,2024-05-21T06:38:34Z,2024-05-21T10:56:34Z,1,2,MERGED
+frontend,chore(UIKIT-1401): Зафиксированы версии astral пакетов,https://github.com/kaluga-astral/frontend/pull/966,2024-05-21T06:21:01Z,2024-05-21T14:22:20Z,3,6,MERGED
+frontend,"feat(UIKIT-1459, NotificationNext): Доработано отображение кнопки закрытия уведомлений",https://github.com/kaluga-astral/frontend/pull/965,2024-05-20T14:56:29Z,2024-05-20T15:08:21Z,2,1,MERGED
+frontend,"bug(UIKIT-1464,ui,ActionCell): Исправлено отображение SecondaryActions при отсутствии данных",https://github.com/kaluga-astral/frontend/pull/963,2024-05-20T14:00:57Z,2024-05-20T14:29:56Z,1,4,MERGED
+frontend,chore(UIKIT-1463): Разделение генерации чейнжлога и публикации новости на разные процессы,https://github.com/kaluga-astral/frontend/pull/959,2024-05-20T11:49:42Z,2024-05-20T11:50:59Z,1,1,MERGED
+frontend,"feat(UIKIT-1414,ui): Адаптация styled для работы с приватными пропсами стилей",https://github.com/kaluga-astral/frontend/pull/958,2024-05-20T10:58:40Z,2024-05-28T07:46:51Z,0,2,CLOSED
+frontend,chore(UIKIT-1463): Разделение генерации чейнжлога и публикации новости на разные процессы,https://github.com/kaluga-astral/frontend/pull/957,2024-05-20T10:57:58Z,2024-05-20T11:38:31Z,1,1,MERGED
+frontend,doc(UIKIT-1462): Исправлены стори для MenuGroup и Paper,https://github.com/kaluga-astral/frontend/pull/953,2024-05-20T09:15:04Z,2024-05-21T13:33:12Z,1,3,MERGED
+frontend,"bug(UIKIT-1455,Description): Исправлено отображение пустого значения",https://github.com/kaluga-astral/frontend/pull/952,2024-05-20T06:28:16Z,2024-05-20T06:40:56Z,1,1,MERGED
+frontend,Main changelog,https://github.com/kaluga-astral/frontend/pull/951,2024-05-17T13:16:57Z,2024-05-20T06:39:21Z,0,2,CLOSED
+frontend,doc(UIKIT-1443): Обновлен сторибук до 8 версии,https://github.com/kaluga-astral/frontend/pull/950,2024-05-17T09:55:36Z,2024-05-21T09:54:54Z,7,7,MERGED
+frontend,"feat(UIKIT-1391,ui,ActionCell): Зафиксировано положение тултипа для main/secondary действия",https://github.com/kaluga-astral/frontend/pull/949,2024-05-16T07:03:32Z,2024-05-20T07:25:31Z,2,2,MERGED
+frontend,"bug(UIKIT-1399,ui,DateRangePicker): Исправлен выбор даты при клике по иконке в инпуте",https://github.com/kaluga-astral/frontend/pull/948,2024-05-16T03:59:05Z,2024-05-17T11:14:57Z,3,5,MERGED
+frontend,"feat(UIKIT-1350,ui,Tooltip): Добавлен перенос слов по спецсимволу '\n'",https://github.com/kaluga-astral/frontend/pull/947,2024-05-15T15:44:40Z,2024-05-16T06:16:53Z,1,1,MERGED
+frontend,Update publish_changelog.yml,https://github.com/kaluga-astral/frontend/pull/946,2024-05-15T12:02:04Z,2024-05-15T12:02:25Z,2,1,MERGED
+frontend,"bug(UIKIT-1441, PageLayout): Поправлена типизация для actions, теперь  учитывает свойства component",https://github.com/kaluga-astral/frontend/pull/945,2024-05-15T10:00:49Z,2024-05-15T10:10:24Z,1,2,MERGED
+frontend,chore(UIKIT-1449): Изменено количество ревьюверов PR,https://github.com/kaluga-astral/frontend/pull/944,2024-05-14T10:54:18Z,2024-05-16T08:54:54Z,2,1,MERGED
+frontend,"bug(UIKIT-1441, PageLayout): Поправлена типизация для actions, теперь  учитывает свойства component",https://github.com/kaluga-astral/frontend/pull/943,2024-05-13T07:18:20Z,2024-05-14T07:32:34Z,5,2,MERGED
+frontend,"chore(UIKIT-903): Добавлен Cspeller, ускорен lint-staged",https://github.com/kaluga-astral/frontend/pull/942,2024-05-13T06:31:00Z,2024-05-16T07:21:42Z,25,11,MERGED
+frontend,"bug(UIKIT-1440, PageLayout): Поправлена типизация для backButton, теперь учитывает свойства component",https://github.com/kaluga-astral/frontend/pull/941,2024-05-08T13:25:22Z,2024-05-08T13:32:17Z,1,1,MERGED
+frontend,chore(UIKIT-1442): Настройка ci для генерации changelog,https://github.com/kaluga-astral/frontend/pull/940,2024-05-08T08:08:34Z,2024-05-13T08:05:53Z,2,1,MERGED
+frontend,"feat(UIKIT-546, NotificationNext): Реализована новая версия уведомлений с поддержкой стека",https://github.com/kaluga-astral/frontend/pull/939,2024-05-02T14:27:50Z,2024-05-13T09:57:22Z,34,6,MERGED
+frontend,"feat(UIKIT-1273,DataGrid): Изменены отступы для ячеек",https://github.com/kaluga-astral/frontend/pull/938,2024-05-02T11:48:45Z,2024-05-03T07:05:38Z,2,3,MERGED
+frontend,"feat(UIKIT-1197, Autocomplete): Изменен дефолтный текст ошибки",https://github.com/kaluga-astral/frontend/pull/937,2024-05-02T10:52:21Z,2024-05-02T14:40:06Z,2,2,MERGED
+frontend,"bug(UIKIT-1426,DataGridInfinite): Убрана минимальная высота",https://github.com/kaluga-astral/frontend/pull/936,2024-05-02T08:53:23Z,2024-05-02T11:04:10Z,1,1,MERGED
+frontend,"feat(UIKIT-1364,Tag): Изменены цвета в соответствии с дизайн-системой",https://github.com/kaluga-astral/frontend/pull/935,2024-04-27T10:33:57Z,2024-05-02T08:32:08Z,11,6,MERGED
+frontend,"bug(UIKIT-1424,feature,CryptoProStore): Tипизация CryptoProStore разрешает передавать на подпись файлы в base64",https://github.com/kaluga-astral/frontend/pull/934,2024-04-25T08:03:05Z,2024-04-26T08:15:07Z,3,1,MERGED
+frontend,"bug(UIKIT-1424,feature,CryptoProStore): Tипизация CryptoProStore разрешает передавать на подпись файлы в base64",https://github.com/kaluga-astral/frontend/pull/933,2024-04-25T07:46:29Z,2024-04-25T08:01:19Z,1,1,CLOSED
+frontend,"bug(UIKIT-1425,Placeholder): Исправлен отступ от заголовка",https://github.com/kaluga-astral/frontend/pull/932,2024-04-25T06:30:34Z,2024-04-25T07:10:00Z,2,1,MERGED
+frontend,"feat(UIKIT-1166,Select): Добавлено сокрытие непомещающихся тегов",https://github.com/kaluga-astral/frontend/pull/931,2024-04-24T12:38:47Z,2024-05-13T09:27:29Z,25,17,MERGED
+frontend,chore(UIKIT-1421): Реализован сервис для отправки новости с чейнжлгом в telegram канал,https://github.com/kaluga-astral/frontend/pull/930,2024-04-23T10:20:43Z,2024-04-23T12:41:10Z,3,4,MERGED
+frontend,"feat(UIKIT-1420,icons,CloseFillSm): Добавлена иконка закрытия",https://github.com/kaluga-astral/frontend/pull/929,2024-04-23T07:58:26Z,2024-04-23T11:39:08Z,1,1,MERGED
+frontend,"bug(UIKIT-1412,Description): Исправлено преждевременное изменение текста тултипа",https://github.com/kaluga-astral/frontend/pull/928,2024-04-17T10:09:56Z,2024-04-17T12:41:24Z,2,2,MERGED
+frontend,Add changelog 01.04.2024 - 13.04.2024.md,https://github.com/kaluga-astral/frontend/pull/927,2024-04-16T12:27:18Z,2024-04-16T12:29:39Z,1,1,MERGED
+frontend,"feat(UIKIT-1356,PageHeader): Добавлен слот для видимых второстепенных действий",https://github.com/kaluga-astral/frontend/pull/926,2024-04-16T07:37:29Z,2024-04-18T07:10:14Z,2,5,MERGED
+frontend,"bug(UIKIT-1396,PageHeader): Добавлена возможность уточнить тип пропсов кнопки назад",https://github.com/kaluga-astral/frontend/pull/925,2024-04-15T10:10:49Z,2024-04-24T07:10:41Z,5,4,MERGED
+frontend,"bug(UIKIT-1398,DatePicker): Убрана фиксация размеров календаря",https://github.com/kaluga-astral/frontend/pull/924,2024-04-12T13:46:01Z,2024-04-12T13:51:15Z,1,1,MERGED
+frontend,"feat(UIKIT-986,RadioCard): Реализован компонент RadioCard",https://github.com/kaluga-astral/frontend/pull/923,2024-04-12T13:03:19Z,2024-04-17T14:26:15Z,4,5,MERGED
+frontend,"feat(UIKIT-1076,ui,Placeholder): Добавлен проп size",https://github.com/kaluga-astral/frontend/pull/922,2024-04-11T10:12:06Z,2024-04-12T09:00:55Z,11,7,MERGED
+frontend,"feat(UIKIT-1387,icons): Добавлены OutlineMd иконки: DocsArray, MarDoc…",https://github.com/kaluga-astral/frontend/pull/921,2024-04-10T15:59:22Z,2024-04-12T07:42:23Z,1,2,MERGED
+frontend,"feat(UIKIT-1395,icons): Добавлены OutlineMd иконки Bell и Support",https://github.com/kaluga-astral/frontend/pull/920,2024-04-10T14:59:01Z,2024-04-11T05:35:21Z,1,1,MERGED
+frontend,"bug(UIKIT-1393,form,formAutocomplete): Возвращен используемый проп onChange",https://github.com/kaluga-astral/frontend/pull/919,2024-04-10T12:44:43Z,2024-04-10T12:56:28Z,1,2,MERGED
+frontend,chore(UIKIT-1196): Реализован генератор changelog для shared-пакетов,https://github.com/kaluga-astral/frontend/pull/918,2024-04-10T12:41:08Z,2024-04-17T06:41:32Z,23,4,MERGED
+frontend,"test(UIKIT-1327,ui,baseTheme): Добавлен тест на соответствие снепшота базовой темы",https://github.com/kaluga-astral/frontend/pull/917,2024-04-10T09:25:02Z,2024-04-17T08:33:32Z,8,8,MERGED
+frontend,"bug(UIKIT-1389,ui,Notification): Добавлен перенос текста при переполнении",https://github.com/kaluga-astral/frontend/pull/916,2024-04-10T09:01:47Z,2024-04-10T11:24:42Z,2,1,MERGED
+frontend,"test(UIKIT-1215,ui,Tag,CheckableTag): Расширены тесты для компонентов",https://github.com/kaluga-astral/frontend/pull/915,2024-04-09T06:34:36Z,2024-04-23T12:27:32Z,28,15,MERGED
+frontend,"bug(UIKIT-1385,ui,Link): Добавлен реэкспорт для компонента Link",https://github.com/kaluga-astral/frontend/pull/914,2024-04-09T06:06:39Z,2024-04-09T06:20:30Z,1,1,MERGED
+frontend,"feat(UIKIT-1076,ui,Description): Добавлена возможность копирования текста",https://github.com/kaluga-astral/frontend/pull/913,2024-04-08T13:51:30Z,2024-04-11T07:51:37Z,12,18,MERGED
+frontend,chore(UIKIT-1382): Обновлены версии пакетов astral config,https://github.com/kaluga-astral/frontend/pull/912,2024-04-08T11:23:45Z,2024-04-09T07:44:25Z,1,1,MERGED
+frontend,"bug(UIKIT-1378,ui,Notification): Добавлен экспорт всех сущностей из Notification",https://github.com/kaluga-astral/frontend/pull/911,2024-04-05T11:39:41Z,2024-04-05T11:44:28Z,1,1,MERGED
+frontend,"feat(UIKIT-1280,ui,MenuItem): Добавлен тултип для заблокированных элементов",https://github.com/kaluga-astral/frontend/pull/910,2024-04-04T14:10:25Z,2024-05-15T13:52:05Z,6,5,MERGED
+frontend,chore(UIKIT-1373): Обновлены версии пакетов astral config,https://github.com/kaluga-astral/frontend/pull/909,2024-04-04T09:40:11Z,2024-04-04T10:02:43Z,2,4,MERGED
+frontend,"bug(UIKIT-1362,ui,TextField): Исправлено отсечение верхней части рамки при отсутствии лейбла",https://github.com/kaluga-astral/frontend/pull/908,2024-04-04T07:13:05Z,2024-04-05T13:46:09Z,4,4,MERGED
+frontend,"bug(UIKIT-1368,ui,CodeField): Центрирован инпут числа",https://github.com/kaluga-astral/frontend/pull/907,2024-04-03T13:39:24Z,2024-04-04T09:49:59Z,1,2,MERGED
+frontend,"bug(UIKIT-1317,ui,MenuItem): Изменен вертикальный padding",https://github.com/kaluga-astral/frontend/pull/906,2024-04-03T12:29:08Z,2024-04-05T13:37:55Z,6,6,MERGED
+frontend,Update changelog 18.03.2024 - 29.03.2024,https://github.com/kaluga-astral/frontend/pull/905,2024-04-02T13:53:39Z,2024-04-02T13:53:50Z,1,1,MERGED
+frontend,Add changelog 18.03.2024 - 29.03.2024,https://github.com/kaluga-astral/frontend/pull/904,2024-04-02T13:37:19Z,2024-04-02T13:37:28Z,1,1,MERGED
+frontend,"feat(UIKIT-1129,ui,TextField): Добавлен проп maxLength",https://github.com/kaluga-astral/frontend/pull/903,2024-04-02T10:29:59Z,2024-04-03T14:21:01Z,2,4,MERGED
+frontend,"bug(UIKIT-1246,ui,MaskField): Поправлен автофокус MaskField в форме",https://github.com/kaluga-astral/frontend/pull/902,2024-04-01T05:09:54Z,2024-04-01T14:57:02Z,5,7,MERGED
+frontend,"feat(UIKIT-1670,ButtonGroupSecondaryVisibleActions): Добавлена поддержка тултипа, если кнопка задизейблена ",https://github.com/kaluga-astral/frontend/pull/1069,2024-07-31T15:36:56Z,2024-08-02T07:28:00Z,3,4,MERGED
+frontend,"feat(UIKIT-1476,NewDataGrid): Добавлена опциональность выборки",https://github.com/kaluga-astral/frontend/pull/1068,2024-07-31T13:31:35Z,2024-08-02T07:11:39Z,2,4,MERGED
+frontend,doc(UIKIT-1665): Для всех deprecated добавлена причина отказа от поддержки,https://github.com/kaluga-astral/frontend/pull/1067,2024-07-30T14:30:26Z,2024-07-31T06:06:25Z,2,4,MERGED
+frontend,doc(UIKIT-1665): Для всех deprecated добавлена причина отказа от поддержки,https://github.com/kaluga-astral/frontend/pull/1066,2024-07-30T14:05:03Z,2024-07-30T14:05:19Z,2,1,MERGED
+frontend,"bug(UIKIT-1650,FormDatePicker): Поправлен сброс значения, если первоначально оно было задано через defaultValues",https://github.com/kaluga-astral/frontend/pull/1065,2024-07-30T13:17:18Z,2024-08-02T11:09:26Z,2,6,MERGED
+frontend,doc: Добавлено правило описания фейковых данных в stories,https://github.com/kaluga-astral/frontend/pull/1064,2024-07-30T12:58:36Z,2024-07-30T13:19:59Z,1,2,MERGED
+frontend,"feat(UIKIT-1606,Notify): Реализована адаптивность под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/1063,2024-07-30T12:20:47Z,2024-08-06T07:10:41Z,7,17,CLOSED
+frontend,"feat(UIKIT-1589,Tree): Добавлена возможно указывать disableReason",https://github.com/kaluga-astral/frontend/pull/1062,2024-07-29T11:14:54Z,2024-08-01T06:09:15Z,18,18,MERGED
+frontend,"feat(UIKIT-1601,Tree): Правка стилей для компонентов Tree",https://github.com/kaluga-astral/frontend/pull/1060,2024-07-28T11:52:29Z,2024-07-29T09:05:06Z,3,2,MERGED
+frontend,"feat(UIKIT-1634,NavMenu): Добавлена возможность передавать ReactNode в item.text",https://github.com/kaluga-astral/frontend/pull/1059,2024-07-26T07:48:53Z,2024-07-26T09:00:37Z,3,5,MERGED
+frontend,"doc(UIKIT-1619,Badge): Добавлена story с anchorOrigin",https://github.com/kaluga-astral/frontend/pull/1058,2024-07-25T06:57:14Z,2024-07-28T08:54:41Z,2,5,MERGED
+frontend,"bug(UIKIT-1658,DescriptionCell): Исправлена example story",https://github.com/kaluga-astral/frontend/pull/1057,2024-07-24T13:58:29Z,2024-07-26T06:43:03Z,1,1,MERGED
+frontend,"feat(UIKIT-1384,StepperWizard): Реализован компонент StepperWizard",https://github.com/kaluga-astral/frontend/pull/1056,2024-07-24T11:34:31Z,2024-07-30T10:45:46Z,15,16,MERGED
+frontend,feat(UIKIT-1655): Сервисы и компоненты CryptoPro помечены как deprecated,https://github.com/kaluga-astral/frontend/pull/1055,2024-07-24T09:20:23Z,2024-07-24T09:23:32Z,1,1,MERGED
+frontend,"feat(UIKIT-1475,NewDataGrid): Добавлена возможность работать с древовидной структурой данных",https://github.com/kaluga-astral/frontend/pull/1054,2024-07-22T14:53:41Z,2024-07-31T06:41:23Z,25,11,MERGED
+frontend,"feat(UIKIT-1569,DescriptionCell): Реализован компонент DescriptionCell",https://github.com/kaluga-astral/frontend/pull/1053,2024-07-22T10:50:44Z,2024-07-24T12:11:31Z,14,12,MERGED
+frontend,"feat(UIKIT-1648,Icons): Добавлена иконка SentMessageOutlineMd",https://github.com/kaluga-astral/frontend/pull/1052,2024-07-18T13:35:46Z,2024-07-18T13:39:42Z,1,1,MERGED
+frontend,"feat(UIKIT-1642,Icon): Добавлена иконка ClockFillSm",https://github.com/kaluga-astral/frontend/pull/1051,2024-07-18T07:41:28Z,2024-07-18T13:08:48Z,1,1,MERGED
+frontend,"feat(UIKIT-1601,Tree): Добавлена возможность указывать подзаголовок",https://github.com/kaluga-astral/frontend/pull/1050,2024-07-17T13:30:50Z,2024-07-29T09:15:25Z,16,16,MERGED
+frontend,"bug(UIKIT-1637,NavMenu): Поправлен цвет фона selected элемента при наведении",https://github.com/kaluga-astral/frontend/pull/1049,2024-07-16T14:13:05Z,2024-07-16T14:21:11Z,1,1,MERGED
+frontend,"bug(UIKIT-1636,DashboardLayout): Добавлен className для Sidebar",https://github.com/kaluga-astral/frontend/pull/1048,2024-07-16T13:57:31Z,2024-07-16T14:15:38Z,1,1,MERGED
+frontend,"bug(UIKIT-1645,Filename): Убран отступ у Filename",https://github.com/kaluga-astral/frontend/pull/1047,2024-07-16T13:38:46Z,2024-07-16T13:55:24Z,1,3,MERGED
+frontend,"bug(UIKIT-1644,PageHeader): Добавлен отступ в header",https://github.com/kaluga-astral/frontend/pull/1046,2024-07-16T13:36:14Z,2024-07-16T13:38:58Z,1,1,MERGED
+frontend,"bug(UIKIT-1646,NewDataGrid): Исправлено растягивание ячейки по горизонтали при переполнении",https://github.com/kaluga-astral/frontend/pull/1045,2024-07-16T13:23:42Z,2024-07-16T13:24:19Z,1,1,MERGED
+frontend,"refactor(UIKIT-1397, Placeholder): Удален пропс imgHeight",https://github.com/kaluga-astral/frontend/pull/1043,2024-07-15T07:54:52Z,2024-07-22T13:09:30Z,2,4,MERGED
+frontend,"feat(UIKIT-1542, Badge): Добавлены варианты отображения contained и l…",https://github.com/kaluga-astral/frontend/pull/1042,2024-07-12T12:02:53Z,2024-07-22T13:04:58Z,7,9,MERGED
+frontend,"bug(UIKIT-1550,Dialog): Исправлена анимация закрытия Dialog",https://github.com/kaluga-astral/frontend/pull/1041,2024-07-12T07:11:44Z,2024-07-12T09:47:52Z,1,3,MERGED
+frontend,"bug(UIKIT-1631,PageHeader): Изменена позиция тултипа для ButtonGroupSecondaryActions",https://github.com/kaluga-astral/frontend/pull/1040,2024-07-11T14:18:39Z,2024-07-12T08:12:35Z,1,3,MERGED
+frontend,"feat(UIKIT-1555,NewDataGridInfinite): Реализован новый компонент NewDataGridInfinite",https://github.com/kaluga-astral/frontend/pull/1039,2024-07-11T08:04:49Z,2024-07-12T08:28:47Z,6,4,MERGED
+frontend,"bug(UIKIT-1600,Tooltip): Изменен отступ от элемента",https://github.com/kaluga-astral/frontend/pull/1038,2024-07-11T06:55:05Z,2024-07-12T08:00:29Z,1,3,MERGED
+frontend,doc(UIKIT-1480): Переформатирован storybook в новый формат,https://github.com/kaluga-astral/frontend/pull/1037,2024-07-10T13:22:36Z,2024-07-16T07:44:45Z,26,47,MERGED
+frontend,"feat(UIKIT-1623,PageHeader): Добавлен Tooltip для ButtonGroupSecondaryActions",https://github.com/kaluga-astral/frontend/pull/1036,2024-07-09T12:52:47Z,2024-07-10T07:21:39Z,4,2,MERGED
+frontend,"feat(UIKIT-1554,NewDataGrid): Реализован новый компонент NewDataGrid",https://github.com/kaluga-astral/frontend/pull/1035,2024-07-08T13:23:20Z,2024-07-10T09:09:51Z,24,9,MERGED
+frontend,"bug(UIKIT-1603,Description): Убран leader на мобильных устройствах",https://github.com/kaluga-astral/frontend/pull/1034,2024-07-08T12:02:55Z,2024-07-09T06:13:07Z,1,2,MERGED
+frontend,"feat(UIKIT-1439,DataGridPagination): Добавлена возможность настройки количества выводимых элементов на странице",https://github.com/kaluga-astral/frontend/pull/1033,2024-07-08T10:35:02Z,2024-07-11T07:22:24Z,24,9,MERGED
+frontend,doc(UIKIT-1480): Отрефакторены все stories в новый формат,https://github.com/kaluga-astral/frontend/pull/1032,2024-07-05T08:49:14Z,2024-07-22T11:24:53Z,24,8,MERGED
+frontend,"feat(UIKIT-1559,ConfigProvider): Изменен emptySymbol",https://github.com/kaluga-astral/frontend/pull/1031,2024-07-03T10:25:30Z,2024-07-04T06:29:58Z,2,3,MERGED
+frontend,"bug(UIKIT-1597,PageHeader): Поправлена типизация для secondary actions",https://github.com/kaluga-astral/frontend/pull/1030,2024-07-03T09:08:57Z,2024-07-03T09:33:59Z,1,1,MERGED
+frontend,"bug(UIKIT-1598,DataGrid): Исправлен отступ чекбоксов в заблокированных ячейках",https://github.com/kaluga-astral/frontend/pull/1029,2024-07-03T06:10:55Z,2024-07-03T06:29:10Z,1,2,MERGED
+frontend,"feat(UIKIT-1565,Filename): Реализован компонент Filename",https://github.com/kaluga-astral/frontend/pull/1028,2024-07-02T13:22:20Z,2024-07-16T06:29:32Z,73,24,MERGED
+frontend,"feat(UIKIT-1594,icons): Добавлена иконка OutcomingDocumentOutlineMd",https://github.com/kaluga-astral/frontend/pull/1027,2024-07-02T11:44:54Z,2024-07-02T13:01:40Z,1,1,MERGED
+frontend,feat(UIKIT-1324): Реализация кастомного хука счетчика секунд,https://github.com/kaluga-astral/frontend/pull/1026,2024-07-02T09:22:59Z,2024-07-15T09:43:53Z,20,15,MERGED
+frontend,"feat(UIKIT-1538,PageHeader): Реализован вывод заголовков в одну строку с обрезкой текста",https://github.com/kaluga-astral/frontend/pull/1025,2024-07-02T09:07:47Z,2024-07-03T08:10:49Z,1,2,MERGED
+frontend,"feat(UIKIT-935,DataGrid): Реализован механизм блокировки строк",https://github.com/kaluga-astral/frontend/pull/1024,2024-07-02T07:32:54Z,2024-07-02T15:45:49Z,15,7,MERGED
+frontend,"bug(UIKIT-1582,Switch): Добавлено состояние фокуса",https://github.com/kaluga-astral/frontend/pull/1023,2024-07-02T07:03:46Z,2024-07-02T09:22:25Z,3,3,MERGED
+frontend,"bug(UIKIT-1581,IconButton): Исправлена ошибка с атрибутами элементов",https://github.com/kaluga-astral/frontend/pull/1021,2024-07-01T06:46:21Z,2024-07-02T07:31:05Z,3,6,MERGED
+frontend,"feat(UIKIT-1584,DescriptionList): Изменена типизация color",https://github.com/kaluga-astral/frontend/pull/1020,2024-06-28T10:11:12Z,2024-06-28T11:20:20Z,2,3,MERGED
+frontend,"feat(UIKIT-1366,FlowButton): Добавлен вариант без targetText",https://github.com/kaluga-astral/frontend/pull/1019,2024-06-28T08:31:17Z,2024-06-28T09:30:59Z,2,3,MERGED
+frontend,"bug(UIKIT-1568,NotificationNext): ToastId добавлен в типы. Исправлены анимации уведомлений",https://github.com/kaluga-astral/frontend/pull/1018,2024-06-27T13:27:05Z,2024-06-27T13:41:13Z,2,1,MERGED
+frontend,"feat(UIKIT-1228,Product): Убраны состояния, изменен fontWeight",https://github.com/kaluga-astral/frontend/pull/1017,2024-06-27T13:19:36Z,2024-06-28T09:13:35Z,3,3,MERGED
+frontend,"feat(UIKIT-1522,MenuItem): Исправлена семантика компонента",https://github.com/kaluga-astral/frontend/pull/1016,2024-06-27T07:18:37Z,2024-06-28T10:55:30Z,5,9,MERGED
+frontend,"doc(SHRD-39,Description): Добавлена ссылка на ui guide",https://github.com/kaluga-astral/frontend/pull/1015,2024-06-27T06:25:04Z,2024-06-27T07:09:13Z,1,1,MERGED
+frontend,"feat(UIKIT-1578,TreeLikeList): Реализован компонент TreeLikeList",https://github.com/kaluga-astral/frontend/pull/1014,2024-06-26T11:38:45Z,2024-06-27T06:20:11Z,14,7,MERGED
+frontend,"feat(UIKIT-1576,TreeList): Добавлена возможность блокировки элементов дерева",https://github.com/kaluga-astral/frontend/pull/1013,2024-06-26T09:28:52Z,2024-06-26T10:13:10Z,1,1,MERGED
+frontend,"wip(UIKIT-1557,MultipleTreeList): Реализована возможность опциональной выборки дочерних элементов",https://github.com/kaluga-astral/frontend/pull/1012,2024-06-24T14:25:50Z,2024-08-07T12:51:00Z,0,1,CLOSED
+frontend,"feat(UIKIT-1552,TreeList): Добавлена возможность раскрывать дерево по умолчанию",https://github.com/kaluga-astral/frontend/pull/1010,2024-06-21T09:43:54Z,2024-06-21T13:16:21Z,6,3,MERGED
+frontend,"feat(UIKIT-1075,DescriptionList): Реализован компонент DescriptionList",https://github.com/kaluga-astral/frontend/pull/1009,2024-06-21T08:28:48Z,2024-06-26T13:15:39Z,45,17,MERGED
+frontend,"feat(UIKIT-1545,Icons): Добавлены OutlineMD иконки: Bank, QR, CashReceipt, Divisions, Doc, Proxy",https://github.com/kaluga-astral/frontend/pull/1008,2024-06-20T09:26:21Z,2024-06-21T07:13:33Z,1,1,MERGED
+frontend,"feat(UIKIT-1545,Icons): Добавить иконки",https://github.com/kaluga-astral/frontend/pull/1007,2024-06-20T09:17:38Z,2024-06-20T09:18:13Z,0,1,CLOSED
+frontend,"bug(UIKIT-1546,PageHeader): Исправлена проблема переполнения контейнера заголовка страницы",https://github.com/kaluga-astral/frontend/pull/1006,2024-06-19T14:49:23Z,2024-06-19T14:57:57Z,1,1,MERGED
+frontend,"bug(UIKIT-1548,Typography): Добавлен variant=inherit в типы",https://github.com/kaluga-astral/frontend/pull/1005,2024-06-19T14:36:31Z,2024-06-19T14:43:10Z,2,2,MERGED
+frontend,"bug(UIKIT-1540,Description): Убраны отступы у dd",https://github.com/kaluga-astral/frontend/pull/1004,2024-06-19T08:01:36Z,2024-06-19T08:36:45Z,2,3,MERGED
+frontend,bug(UIKIT-1541): Исправлена недоступность для импорта компонентов,https://github.com/kaluga-astral/frontend/pull/1003,2024-06-19T07:56:44Z,2024-06-19T07:59:50Z,1,1,MERGED
+frontend,"refactor(UIKIT-1512,Description): Заменены теги на семантически верные",https://github.com/kaluga-astral/frontend/pull/1002,2024-06-18T06:05:12Z,2024-06-18T09:29:49Z,2,3,MERGED
+frontend,"bug(UIKIT-1536,SearchField): Устанавливает фокус при клике по иконкам",https://github.com/kaluga-astral/frontend/pull/1001,2024-06-18T03:45:58Z,2024-06-18T07:15:04Z,2,2,MERGED
+frontend,"feat(UIKIT-571,Description): Изменены сценарии переноса текста",https://github.com/kaluga-astral/frontend/pull/1000,2024-06-13T07:59:36Z,2024-06-17T13:40:44Z,15,13,MERGED
+frontend,"bug(UIKIT-1518,NotificationNext): Поправлено отображение кнопки после ручного закрытия всех уведомлений",https://github.com/kaluga-astral/frontend/pull/999,2024-06-10T12:17:37Z,2024-06-10T12:24:14Z,1,1,MERGED
+frontend,"feat(UIKIT-1417,DataGridInfinite): Изменена логика отображения текста конца списка",https://github.com/kaluga-astral/frontend/pull/998,2024-06-10T10:38:35Z,2024-06-13T07:46:42Z,3,4,MERGED
+frontend,"feat(UIKIT-671,TextField): Перенесена логика trimming",https://github.com/kaluga-astral/frontend/pull/996,2024-06-07T13:02:31Z,2024-06-11T07:17:03Z,8,11,MERGED
+frontend,"feat(UIKIT-1295,SearchField): Реализован компонент SearchField",https://github.com/kaluga-astral/frontend/pull/995,2024-06-07T07:44:30Z,2024-06-11T04:56:36Z,4,6,MERGED
+frontend,"feat(UIKIT-1485,Pagination): Компонент сделан публичным, добавлен storybook",https://github.com/kaluga-astral/frontend/pull/994,2024-06-07T07:19:02Z,2024-06-10T08:33:48Z,4,5,MERGED
+frontend,"bug(UIKIT-1516,Iframe): Исправлена проблема отсутствия возможности отключить политики sandbox",https://github.com/kaluga-astral/frontend/pull/993,2024-06-06T08:04:58Z,2024-06-06T09:08:14Z,1,1,MERGED
+frontend,"feat(UIKIT-877,TreeList): Реализованы компоненты TreeList и MultipleTreeList",https://github.com/kaluga-astral/frontend/pull/992,2024-06-05T14:17:16Z,2024-06-10T08:54:05Z,30,10,MERGED
+frontend,"bug(UIKIT-1502): Заменена реализация хука useId для RadioCard, RadioGroup, StepSlider",https://github.com/kaluga-astral/frontend/pull/991,2024-06-04T07:39:23Z,2024-06-04T08:21:03Z,7,2,MERGED
+frontend,"refactor(UIKIT-1507,FormEmailField): Компонент стал использовать EmailField вместо TextField",https://github.com/kaluga-astral/frontend/pull/990,2024-06-03T08:52:16Z,2024-06-03T10:20:52Z,2,3,MERGED
+frontend,"bug(UIKIT-1819,DataGridPagination): Исправлено исчезновение футера при переходе между страницами",https://github.com/kaluga-astral/frontend/pull/1163,2024-09-25T12:00:15Z,2024-09-25T13:12:33Z,1,1,MERGED
+frontend,"feat(UIKIT-1523,Pagination): Урезаны пропсы компонента",https://github.com/kaluga-astral/frontend/pull/1162,2024-09-25T10:31:15Z,2024-09-25T14:17:55Z,2,2,MERGED
+frontend,"bug(UIKIT-1820,Autocomplete): Исправлено отображение Popover в состоянии NoData",https://github.com/kaluga-astral/frontend/pull/1161,2024-09-24T17:18:15Z,2024-09-25T13:56:07Z,4,2,MERGED
+frontend,"feat(UIKIT-1741,DatePicker): Добавлен атрибут autocomplete",https://github.com/kaluga-astral/frontend/pull/1160,2024-09-24T11:57:41Z,2024-09-24T14:56:59Z,1,1,MERGED
+frontend,"feat(UIKIT-1757,Autocomplete): Добавлено отображение стрелки при freeSolo",https://github.com/kaluga-astral/frontend/pull/1159,2024-09-24T07:15:15Z,2024-09-25T13:19:51Z,3,5,MERGED
+frontend,"feat(UIKIT-1108,Autocomplete):  Popover скрыт, если пользователь ничего не ввел, либо отсутствуют options",https://github.com/kaluga-astral/frontend/pull/1158,2024-09-23T10:28:58Z,2024-09-23T12:48:02Z,1,1,MERGED
+frontend,"feat(UIKIT-1783,DescriptionList): Добавлен variant guid",https://github.com/kaluga-astral/frontend/pull/1156,2024-09-20T14:07:40Z,2024-09-24T10:59:12Z,4,4,MERGED
+frontend,"feat(UIKIT-1784,Description): Заменена логика копирования",https://github.com/kaluga-astral/frontend/pull/1155,2024-09-20T09:01:57Z,2024-09-20T12:07:22Z,1,4,MERGED
+frontend,"bug(UIKIT-1800,NotificationNext): Исправлена блокировка части экрана после скрытия уведомлений",https://github.com/kaluga-astral/frontend/pull/1154,2024-09-20T08:24:24Z,2024-09-20T09:15:54Z,1,2,MERGED
+frontend,"feat(UIKIT-1726,DatePicker): Поправлена логика работы с промежуточной датой",https://github.com/kaluga-astral/frontend/pull/1153,2024-09-19T15:11:25Z,2024-09-20T07:23:56Z,0,1,MERGED
+frontend,"bug(UIKIT-1780,PageHeader): Уровень заголовка заменен на h1",https://github.com/kaluga-astral/frontend/pull/1152,2024-09-19T13:49:10Z,2024-09-19T15:12:32Z,1,1,MERGED
+frontend,"doc(UIKIT-1602,NewDataGridInfinite): Добавлены story  с блокировкой строк",https://github.com/kaluga-astral/frontend/pull/1151,2024-09-19T13:24:43Z,2024-09-20T07:37:26Z,1,2,MERGED
+frontend,"feat(UIKIT-1799,DataGridActionCell): Добавлено подтверждение для main действий",https://github.com/kaluga-astral/frontend/pull/1150,2024-09-19T12:30:30Z,2024-09-20T07:58:11Z,2,4,MERGED
+frontend,"feat(UIKIT-1773,GuidTypography): Реализован новый компонент GuidTypography",https://github.com/kaluga-astral/frontend/pull/1149,2024-09-19T11:27:37Z,2024-09-20T08:20:55Z,4,8,MERGED
+frontend,"bug(UIKIT-1797,NewDataGrid): Поправлено сохранение состояние при осуществлении перехода между страницами",https://github.com/kaluga-astral/frontend/pull/1148,2024-09-19T08:45:01Z,2024-09-19T12:51:06Z,1,2,MERGED
+frontend,"bug(UIKIT-1798,StaticDaysCalendar): Исправлена проблема отображения заблокированных дат",https://github.com/kaluga-astral/frontend/pull/1147,2024-09-19T08:26:39Z,2024-09-19T11:32:00Z,1,3,MERGED
+frontend,"feat(UIKIT-1532,Icons): Добавлена возможность копирования названия иконки",https://github.com/kaluga-astral/frontend/pull/1146,2024-09-19T07:57:54Z,2024-09-20T11:58:19Z,1,3,MERGED
+frontend,"feat(UIKIT-1751,StaticDaysCalendar): Добавлена временная возможность включать интерактивность для тултипа",https://github.com/kaluga-astral/frontend/pull/1145,2024-09-19T07:44:35Z,2024-09-19T08:11:23Z,1,1,MERGED
+frontend,"feat(UIKIT-1363,ConfirmAction): Реализован компонент подверждения действий",https://github.com/kaluga-astral/frontend/pull/1144,2024-09-18T13:01:19Z,2024-09-19T07:17:32Z,1,2,MERGED
+frontend,"feat(UIKIT-1530,Icons): Добавлены недостающие иконки",https://github.com/kaluga-astral/frontend/pull/1143,2024-09-18T12:36:11Z,2024-09-19T06:58:09Z,2,3,MERGED
+frontend,"feat(UIKIT-1772,CopyTypography): Реализован новый компонент CopyTypography",https://github.com/kaluga-astral/frontend/pull/1142,2024-09-17T16:14:00Z,2024-09-19T11:03:16Z,11,6,MERGED
+frontend,"bug(UIKIT-1791,CodeField): Исправлена ширина элементов списка",https://github.com/kaluga-astral/frontend/pull/1141,2024-09-16T13:11:16Z,2024-09-16T13:19:46Z,1,2,MERGED
+frontend,"feat(UIKIT-1788,NewDataGrid): Реализован вариант отображения subrows",https://github.com/kaluga-astral/frontend/pull/1140,2024-09-16T13:08:30Z,2024-09-17T10:21:55Z,4,3,MERGED
+frontend,"doc(UIKIT-1789,HintIcon): Поправлен storybook компонента",https://github.com/kaluga-astral/frontend/pull/1139,2024-09-16T11:59:59Z,2024-09-16T13:11:53Z,2,1,MERGED
+frontend,"feat(UIKIT-1771,OverflowTypography): Добавлен prop visibleLastSymbolsCount",https://github.com/kaluga-astral/frontend/pull/1138,2024-09-16T08:22:44Z,2024-09-19T08:20:28Z,9,9,MERGED
+frontend,"feat(UIKIT-1781,ConfirmDialog): Исправлено отображение на мобильных устройствах",https://github.com/kaluga-astral/frontend/pull/1137,2024-09-16T06:59:19Z,2024-09-17T13:27:48Z,6,6,MERGED
+frontend,"feat(UIKIT-1743,AutoSaveIndicator): Добавлен store для индикатора автосохранения",https://github.com/kaluga-astral/frontend/pull/1136,2024-09-13T08:47:12Z,2024-09-16T11:52:23Z,25,7,MERGED
+frontend,"feat(UIKIT-1721,HintIcon): Реализован новый компонент HintIcon",https://github.com/kaluga-astral/frontend/pull/1135,2024-09-12T13:19:50Z,2024-09-16T07:39:54Z,14,7,MERGED
+frontend,"feat(UIKIT-1259,NotificationNext): Добавлен тип уведомлений progress",https://github.com/kaluga-astral/frontend/pull/1134,2024-09-12T09:49:21Z,2024-09-13T12:43:06Z,15,6,MERGED
+frontend,"feat(UIKIT-1118,BulletList): Реализован компонент BulletList",https://github.com/kaluga-astral/frontend/pull/1133,2024-09-11T13:57:30Z,2024-09-16T14:31:50Z,17,6,MERGED
+frontend,"feat(UIKIT-1752,NewDataGrid): Реализовано кэширование данных таблицы для отображения ",https://github.com/kaluga-astral/frontend/pull/1132,2024-09-10T13:32:13Z,2024-09-16T06:35:48Z,8,8,MERGED
+frontend,"feat(UIKIT-1460,NewDataGrid): Добавлена возможность кастомизации NoData сценария. Добавлено действие для NoData",https://github.com/kaluga-astral/frontend/pull/1131,2024-09-09T13:04:57Z,2024-09-11T07:04:50Z,2,1,MERGED
+frontend,"feat(UIKIT-1477,Switch): Switch приведен в соответствие с макетом",https://github.com/kaluga-astral/frontend/pull/1130,2024-09-09T12:31:35Z,2024-09-11T11:36:13Z,4,3,MERGED
+frontend,"feat(UIKIT-1726,DatePicker): Адаптация под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/1129,2024-09-09T12:11:03Z,2024-09-20T10:13:23Z,9,14,MERGED
+frontend,"bug(UIKIT-1755,NewDataGrid): Исправлено отображение тултипа при disabled строки",https://github.com/kaluga-astral/frontend/pull/1127,2024-09-06T08:25:12Z,2024-09-06T12:23:43Z,1,1,MERGED
+frontend,"bug(UIKIT-1767,CodeField): Исправлен skeleton CodeField",https://github.com/kaluga-astral/frontend/pull/1126,2024-09-06T08:10:14Z,2024-09-06T14:00:11Z,2,3,MERGED
+frontend,"doc(UIKIT-1766,AutoSaveIndicator): Исправлен текст у stories",https://github.com/kaluga-astral/frontend/pull/1125,2024-09-05T12:56:15Z,2024-09-05T13:48:04Z,1,1,MERGED
+frontend,"feat(UIKIT-1591,TreeLikeAutocomplete): Реализован компонент TreeLikeAutocomplete",https://github.com/kaluga-astral/frontend/pull/1124,2024-09-03T12:31:44Z,2024-09-04T13:03:41Z,4,5,MERGED
+frontend,"feat(UIKIT-1725,Dialog): Исправлены отступы мобильной версии",https://github.com/kaluga-astral/frontend/pull/1123,2024-09-02T07:51:26Z,2024-09-03T15:10:20Z,4,6,MERGED
+frontend,"bug(UIKIT-1738,NewDateGrid): Поправлена работа скрола для содержимого таблицы",https://github.com/kaluga-astral/frontend/pull/1122,2024-09-02T07:07:51Z,2024-09-02T08:07:23Z,1,1,MERGED
+frontend,"feat(UIKIT-1737,Paper): Поправлены стили для варианта outlined",https://github.com/kaluga-astral/frontend/pull/1121,2024-09-02T03:39:00Z,2024-09-02T10:35:58Z,3,3,MERGED
+frontend,"bug(UIKIT-1740,NewDataGrid): Исправлено отсутствие отступа при isNotSelectable",https://github.com/kaluga-astral/frontend/pull/1120,2024-08-30T12:07:08Z,2024-09-02T11:51:46Z,3,4,MERGED
+frontend,"feat(UIKIT-1048,Dialog): Добавлен пропс size",https://github.com/kaluga-astral/frontend/pull/1119,2024-08-29T08:06:52Z,2024-08-29T10:52:13Z,1,5,MERGED
+frontend,"feat(UIKIT-1724,DialogContent): Поправлены отступы для мобильных устройств",https://github.com/kaluga-astral/frontend/pull/1118,2024-08-29T06:30:13Z,2024-08-29T09:11:04Z,3,1,MERGED
+frontend,"feat(UIKIT-1730,CodeField): Реализована адаптация под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/1117,2024-08-29T06:19:03Z,2024-08-30T06:14:37Z,1,4,MERGED
+frontend,"bug(UIKIT-1736,Icons): Исправлен path для SuccessFillSm",https://github.com/kaluga-astral/frontend/pull/1116,2024-08-28T11:58:30Z,2024-08-28T12:03:20Z,1,1,MERGED
+frontend,"feat(UIKIT-625,SideDialog): Добавлен пропс size",https://github.com/kaluga-astral/frontend/pull/1115,2024-08-28T06:21:07Z,2024-08-28T15:05:21Z,4,4,MERGED
+frontend,"feat(UIKIT-1713,ComplianceStatus): Добавлен новый компонент ComplianceStatus",https://github.com/kaluga-astral/frontend/pull/1114,2024-08-28T04:02:53Z,2024-08-29T03:39:52Z,12,8,MERGED
+frontend,"feat(UIKIT-1430,AutoSaveIndicator): Реализован новый компонент",https://github.com/kaluga-astral/frontend/pull/1113,2024-08-27T11:44:30Z,2024-09-04T13:20:08Z,31,21,MERGED
+frontend,"feat(UIKIT-1714,StaticDaysCalendar): Добавлен новый компонент StaticDaysCalendar",https://github.com/kaluga-astral/frontend/pull/1112,2024-08-27T10:01:18Z,2024-08-30T08:14:40Z,18,22,MERGED
+frontend,"bug(UIKIT-1729,DataGridActionCell): Исправлено название и внесены правки в storybook",https://github.com/kaluga-astral/frontend/pull/1111,2024-08-26T14:36:43Z,2024-08-27T10:46:28Z,6,6,MERGED
+frontend,"feat(UIKIT-1592,TreeLikeList): Реализовано раскрытие списка и скролл до первочально выбранных элементов",https://github.com/kaluga-astral/frontend/pull/1110,2024-08-26T14:25:44Z,2024-08-28T13:32:18Z,2,5,MERGED
+frontend,"bug(UIKIT-1719,TagBadge): Исправлено применение цвета к TagBadge",https://github.com/kaluga-astral/frontend/pull/1108,2024-08-23T08:36:08Z,2024-08-23T12:28:12Z,1,1,MERGED
+frontend,"feat(UIKIT-375,NewDataGrid): Перенос контекста на уровень строки, правки по pr",https://github.com/kaluga-astral/frontend/pull/1107,2024-08-23T06:10:40Z,2024-08-23T06:33:46Z,0,1,MERGED
+frontend,doc(UIKIT-1173): Сгруппированы компоненты storybook,https://github.com/kaluga-astral/frontend/pull/1106,2024-08-22T09:28:46Z,2024-08-26T14:35:28Z,5,7,MERGED
+frontend,"feat(UIKIT-1590,TreeAutocomplete): Реализован компонент TreeAutocomplete",https://github.com/kaluga-astral/frontend/pull/1105,2024-08-22T09:19:14Z,2024-08-29T09:47:09Z,24,7,MERGED
+frontend,"bug(UIKIT-1716,Filename): Исправлена работа пропса align",https://github.com/kaluga-astral/frontend/pull/1104,2024-08-21T13:47:39Z,2024-08-21T14:50:07Z,1,3,MERGED
+frontend,"feat(UIKIT-1717,ui,hooks): Добавлен экспорт useViewportType",https://github.com/kaluga-astral/frontend/pull/1103,2024-08-21T10:14:56Z,2024-08-21T13:15:41Z,1,1,MERGED
+frontend,"bug(UIKIT-1708,FormAutocomplete): Поправлена типизация onChange",https://github.com/kaluga-astral/frontend/pull/1102,2024-08-21T07:48:49Z,2024-08-21T07:53:15Z,1,1,MERGED
+frontend,"bug(UIKIT-1708,FormAutocomplete): Поправлена типизация onChange",https://github.com/kaluga-astral/frontend/pull/1101,2024-08-20T14:33:38Z,2024-08-21T06:07:33Z,1,1,MERGED
+frontend,"feat(UIKIT-375,NewDataGrid): Реализована блокировка строки при выполнении действий",https://github.com/kaluga-astral/frontend/pull/1100,2024-08-20T11:35:01Z,2024-08-23T14:01:44Z,23,14,MERGED
+frontend,"doc(UIKIT-1706,PageHeader): В story с кастомным заголовком добавлен тэг",https://github.com/kaluga-astral/frontend/pull/1099,2024-08-16T09:41:31Z,2024-08-19T08:02:59Z,1,3,MERGED
+frontend,"bug(UIKIT-1698,Icons): Исправлено отображение иконок MedListOutlineMd и ProxyOutlineMd",https://github.com/kaluga-astral/frontend/pull/1098,2024-08-16T09:29:48Z,2024-08-16T12:02:29Z,1,2,MERGED
+frontend,"bug(UIKIT-1701,Description): Отменено всплытие события нажатия при копировании текста",https://github.com/kaluga-astral/frontend/pull/1097,2024-08-16T09:04:26Z,2024-08-16T09:41:13Z,1,1,MERGED
+frontend,"bug(UIKIT-1702): Повышена версия пакета remeda, до версии, содержащей функцию uniqueBy",https://github.com/kaluga-astral/frontend/pull/1096,2024-08-15T07:17:24Z,2024-08-15T07:32:31Z,1,3,MERGED
+frontend,"feat(UIKIT-1593,TreeList): Реализовано отображение и прокрутка списка до выбранного элемента при первичном рендере",https://github.com/kaluga-astral/frontend/pull/1095,2024-08-14T10:32:59Z,2024-08-15T12:12:33Z,1,7,MERGED
+frontend,"bug(UIKIT-1697,Description): Исправлено попадание проса в DOM",https://github.com/kaluga-astral/frontend/pull/1094,2024-08-14T07:10:08Z,2024-08-14T07:47:09Z,1,2,MERGED
+frontend,"feat(UIKIT-1553,NewDateRangePicker): Реализован новый компонент NewDateRangePicker",https://github.com/kaluga-astral/frontend/pull/1093,2024-08-13T14:44:38Z,2024-08-19T06:50:35Z,14,7,MERGED
+frontend,"bug(UIKIT-1693,NavMenu): Добавлен проброс специфичных пропсов для component и поправлена типизация",https://github.com/kaluga-astral/frontend/pull/1092,2024-08-13T09:35:48Z,2024-08-13T14:16:36Z,1,1,MERGED
+frontend,"feat(UIKIT-1694,ActionCell): Добавлены блокирующие операции",https://github.com/kaluga-astral/frontend/pull/1091,2024-08-13T08:03:56Z,2024-08-15T06:20:37Z,18,11,MERGED
+frontend,"bug(UIKIT-1692,PageHeader): Исправлена передача ключей у действий PageHeader",https://github.com/kaluga-astral/frontend/pull/1090,2024-08-12T12:05:51Z,2024-08-12T14:29:04Z,1,1,MERGED
+frontend,"bug(UIKIT-1691,PageHeader): Исправлена работа onClick у SecondaryVisibleAction",https://github.com/kaluga-astral/frontend/pull/1088,2024-08-12T07:02:55Z,2024-08-12T10:01:58Z,2,2,MERGED
+frontend,"feat(UIKIT-309,NewDataGrid): Добавлена обработка emptyCellValue",https://github.com/kaluga-astral/frontend/pull/1087,2024-08-09T12:26:52Z,2024-08-14T07:29:53Z,18,13,MERGED
+frontend,"feat(UIKIT-1163,PageHeader): Добавлена возможность отображать тултип основным actions",https://github.com/kaluga-astral/frontend/pull/1086,2024-08-09T08:38:24Z,2024-08-09T10:15:58Z,4,6,MERGED
+frontend,"feat(UIKIT-1659,DatePicker): Добавлен пропс startAdornment",https://github.com/kaluga-astral/frontend/pull/1085,2024-08-08T13:00:53Z,2024-08-08T13:33:50Z,4,2,MERGED
+frontend,"doc(UIKIT-1059,frontend): Удалены @description тэги",https://github.com/kaluga-astral/frontend/pull/1084,2024-08-08T10:12:38Z,2024-08-08T10:29:27Z,1,2,MERGED
+frontend,"feat(UIKIT-1660,DatePicker): Добавлен placeholder по умолчанию",https://github.com/kaluga-astral/frontend/pull/1083,2024-08-08T09:49:17Z,2024-08-08T11:32:43Z,2,5,MERGED
+frontend,"feat(UIKIT-1663,MenuItem): Добавлен note",https://github.com/kaluga-astral/frontend/pull/1082,2024-08-08T09:02:27Z,2024-08-08T11:01:15Z,4,5,MERGED
+frontend,"bug(UIKIT-1652,Typography): Исправлена высота строки для variant h6",https://github.com/kaluga-astral/frontend/pull/1081,2024-08-07T12:56:10Z,2024-08-07T14:13:59Z,3,2,MERGED
+frontend,"bug(UIKIT-1564,PageHeader): Исправлена семантика",https://github.com/kaluga-astral/frontend/pull/1080,2024-08-07T07:38:42Z,2024-08-07T08:33:04Z,3,5,MERGED
+frontend,"feat(UIKIT-1606,Notify): Реализована адаптивность под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/1079,2024-08-07T06:09:05Z,2024-08-07T07:17:53Z,1,12,MERGED
+frontend,"feat(UIKIT-1606,Notify): Реализована адаптивность под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/1078,2024-08-06T06:50:32Z,2024-08-07T12:50:53Z,0,13,CLOSED
+frontend,"bug(UIKIT-1647,NavMenu): Исправлена семантика",https://github.com/kaluga-astral/frontend/pull/1077,2024-08-05T12:39:10Z,2024-08-07T12:36:51Z,4,5,MERGED
+frontend,"feat(UIKIT-1607,Profile): Добавлена адаптация меню профиля для мобильных устройств",https://github.com/kaluga-astral/frontend/pull/1076,2024-08-05T10:44:23Z,2024-08-08T07:41:12Z,50,22,MERGED
+frontend,"bug(UIKIT-1683,NewDataGrid): Исправлена ошибка семантики для вложенного Collapse",https://github.com/kaluga-astral/frontend/pull/1075,2024-08-02T13:08:21Z,2024-08-02T13:17:15Z,1,1,MERGED
+frontend,"feat(UIKIT-1622,Tree): Изменено api для onChange",https://github.com/kaluga-astral/frontend/pull/1074,2024-08-02T12:41:08Z,2024-08-02T12:49:06Z,1,1,MERGED
+frontend,"feat(UIKIT-1681,NewDataGrid): Добавлен экспорт типа NewDataGridColumns",https://github.com/kaluga-astral/frontend/pull/1073,2024-08-01T14:10:34Z,2024-08-02T07:18:55Z,2,2,MERGED
+frontend,"bug(UIKIT-1677,SideBar): Добавлен скрол для NavMenu",https://github.com/kaluga-astral/frontend/pull/1072,2024-08-01T12:05:17Z,2024-08-02T15:56:33Z,1,6,MERGED
+frontend,"feat(UIKIT-1608,Description): Реализован адаптив под мобильные устройства",https://github.com/kaluga-astral/frontend/pull/1071,2024-08-01T08:59:14Z,2024-08-05T08:00:32Z,12,10,MERGED
+frontend,"feat(UIKIT-1672,Dialog): Добавлен отступ для DialogContent",https://github.com/kaluga-astral/frontend/pull/1070,2024-08-01T08:36:00Z,2024-08-01T11:19:13Z,1,1,MERGED

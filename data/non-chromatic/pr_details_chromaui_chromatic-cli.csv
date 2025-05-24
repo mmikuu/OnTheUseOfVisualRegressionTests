@@ -1,0 +1,591 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+chromatic-cli,Allow use of Intl without new operator,https://github.com/chromaui/chromatic-cli/pull/53,2019-10-25T08:26:52Z,2019-10-28T13:02:47Z,1,2,MERGED
+chromatic-cli,ADD svg polyfills,https://github.com/chromaui/chromatic-cli/pull/52,2019-10-24T13:33:48Z,2019-10-25T11:57:46Z,1,4,MERGED
+chromatic-cli,"ADD unfetch as a fetch polyfill, as it's not in JSDom by default?",https://github.com/chromaui/chromatic-cli/pull/51,2019-10-24T12:56:00Z,2019-10-28T13:41:03Z,6,7,MERGED
+chromatic-cli,ADD storybookOptions to the input for chromatic,https://github.com/chromaui/chromatic-cli/pull/50,2019-10-24T12:37:23Z,2019-11-11T10:56:15Z,1,5,CLOSED
+chromatic-cli,v3.0.3,https://github.com/chromaui/chromatic-cli/pull/46,2019-10-15T15:29:07Z,2019-10-15T15:53:15Z,0,22,MERGED
+chromatic-cli,Fix/GitHub actions,https://github.com/chromaui/chromatic-cli/pull/43,2019-10-09T13:22:43Z,2019-10-15T13:35:03Z,7,18,MERGED
+chromatic-cli,Tech/add test for GitHub action,https://github.com/chromaui/chromatic-cli/pull/42,2019-10-09T13:13:30Z,2019-10-09T14:42:44Z,0,4,MERGED
+chromatic-cli,ADD a github action on push,https://github.com/chromaui/chromatic-cli/pull/40,2019-10-09T12:25:38Z,2019-10-09T13:14:21Z,0,4,CLOSED
+chromatic-cli,Add LICENSE file,https://github.com/chromaui/chromatic-cli/pull/39,2019-10-09T10:19:26Z,2019-10-09T10:23:32Z,1,9,MERGED
+chromatic-cli,Release 3.0.2,https://github.com/chromaui/chromatic-cli/pull/38,2019-10-09T10:00:53Z,2019-10-09T10:25:41Z,0,4,MERGED
+chromatic-cli,FIX missing addons info in debug,https://github.com/chromaui/chromatic-cli/pull/37,2019-10-09T09:30:40Z,2019-10-09T09:47:20Z,1,3,MERGED
+chromatic-cli,FIX 34 - respect the CHROMA_* env variables,https://github.com/chromaui/chromatic-cli/pull/36,2019-10-09T09:25:34Z,2019-10-09T10:17:55Z,1,3,MERGED
+chromatic-cli,Log upload success,https://github.com/chromaui/chromatic-cli/pull/35,2019-10-09T05:28:19Z,2019-10-09T09:48:10Z,0,4,MERGED
+chromatic-cli,ADD chroma bin,https://github.com/chromaui/chromatic-cli/pull/33,2019-10-07T07:38:10Z,2019-10-07T22:18:46Z,4,1,MERGED
+chromatic-cli,v3.0.0,https://github.com/chromaui/chromatic-cli/pull/29,2019-10-03T21:48:27Z,2019-10-03T21:53:18Z,0,39,MERGED
+chromatic-cli,Fix/paths,https://github.com/chromaui/chromatic-cli/pull/28,2019-10-03T14:40:31Z,2019-10-03T16:30:41Z,0,4,MERGED
+chromatic-cli,Fix/24 correct warn logging,https://github.com/chromaui/chromatic-cli/pull/25,2019-10-01T09:02:25Z,2019-10-01T09:03:58Z,0,1,MERGED
+chromatic-cli,Add support for running in a github action,https://github.com/chromaui/chromatic-cli/pull/23,2019-10-01T08:16:44Z,2019-10-01T08:18:09Z,0,1,MERGED
+chromatic-cli,Fix/indent,https://github.com/chromaui/chromatic-cli/pull/20,2019-09-27T12:25:52Z,2019-09-27T12:28:18Z,0,1,MERGED
+chromatic-cli,"Exit hard after success, do not wait for bulky logs",https://github.com/chromaui/chromatic-cli/pull/19,2019-09-25T11:59:13Z,2019-09-26T22:42:09Z,3,2,MERGED
+chromatic-cli,CHANGE default loglevel to 'error' and make it configurable,https://github.com/chromaui/chromatic-cli/pull/18,2019-09-25T10:57:19Z,2019-09-26T02:25:36Z,0,2,MERGED
+chromatic-cli,Fix/10 stop logging logconfig,https://github.com/chromaui/chromatic-cli/pull/17,2019-09-25T10:41:33Z,2019-09-26T02:25:28Z,0,1,MERGED
+chromatic-cli,Fix/4 incorrect url still,https://github.com/chromaui/chromatic-cli/pull/16,2019-09-25T10:37:43Z,2019-09-26T02:25:18Z,0,1,MERGED
+chromatic-cli,"Manually retry uploads, recreating streams each time",https://github.com/chromaui/chromatic-cli/pull/12,2019-09-16T05:55:23Z,2019-10-01T08:17:50Z,0,1,MERGED
+chromatic-cli,Fix/3 force exit again,https://github.com/chromaui/chromatic-cli/pull/7,2019-09-12T12:15:33Z,2019-09-13T00:36:30Z,1,2,MERGED
+chromatic-cli,Fix/4 incorrect url,https://github.com/chromaui/chromatic-cli/pull/6,2019-09-12T10:02:13Z,2019-09-13T00:14:13Z,1,5,MERGED
+chromatic-cli,Fix/2 cannot use tunnel,https://github.com/chromaui/chromatic-cli/pull/5,2019-09-12T08:16:15Z,2019-09-13T00:10:53Z,0,2,MERGED
+chromatic-cli,PR to review new OS version,https://github.com/chromaui/chromatic-cli/pull/1,2019-08-28T11:15:26Z,2019-09-13T02:22:15Z,34,28,CLOSED
+chromatic-cli,Next release,https://github.com/chromaui/chromatic-cli/pull/74,2019-12-06T11:56:57Z,2020-01-28T10:28:18Z,7,51,MERGED
+chromatic-cli,ADD extra information about build to github action,https://github.com/chromaui/chromatic-cli/pull/72,2019-12-05T14:33:39Z,2019-12-06T11:14:58Z,2,6,MERGED
+chromatic-cli,Fix/url shims should be writable,https://github.com/chromaui/chromatic-cli/pull/71,2019-12-03T14:48:01Z,2019-12-03T14:53:14Z,1,1,MERGED
+chromatic-cli,CHANGE URL.createObjectURL to writable: true,https://github.com/chromaui/chromatic-cli/pull/70,2019-12-03T14:44:43Z,2019-12-05T11:32:43Z,0,1,MERGED
+chromatic-cli,REMOVE references to options that would use the tunnel,https://github.com/chromaui/chromatic-cli/pull/69,2019-12-03T11:23:29Z,2019-12-06T11:56:31Z,1,5,MERGED
+chromatic-cli,REMOVE implementation,https://github.com/chromaui/chromatic-cli/pull/67,2019-11-29T11:56:53Z,2019-12-02T23:25:46Z,1,2,MERGED
+chromatic-cli,Add --exit-once-sent-to-chromatic flag,https://github.com/chromaui/chromatic-cli/pull/63,2019-11-20T14:48:29Z,2019-11-22T12:10:50Z,5,4,MERGED
+chromatic-cli,Release review PR,https://github.com/chromaui/chromatic-cli/pull/61,2019-11-19T16:25:43Z,2019-11-25T11:22:50Z,6,32,MERGED
+chromatic-cli,Use prBranch when available,https://github.com/chromaui/chromatic-cli/pull/60,2019-11-17T21:01:55Z,2019-11-20T04:06:49Z,1,2,MERGED
+chromatic-cli,Add/whitespace test,https://github.com/chromaui/chromatic-cli/pull/57,2019-11-14T13:09:32Z,2019-11-15T01:21:53Z,2,15,CLOSED
+chromatic-cli,ADD a workflow that runs on windows,https://github.com/chromaui/chromatic-cli/pull/56,2019-11-13T15:11:23Z,2019-11-15T01:21:13Z,3,14,MERGED
+chromatic-cli,IMPROVE logging when git fails,https://github.com/chromaui/chromatic-cli/pull/55,2019-11-12T08:33:30Z,2019-11-17T23:22:13Z,4,4,MERGED
+chromatic-cli,v3.1.0,https://github.com/chromaui/chromatic-cli/pull/54,2019-11-04T17:40:10Z,2019-11-04T18:21:53Z,0,15,MERGED
+chromatic-cli,RENAME appCode to projectToken,https://github.com/chromaui/chromatic-cli/pull/109,2020-03-31T08:49:22Z,2020-04-06T10:48:27Z,2,8,MERGED
+chromatic-cli,Tech/add log to promote exitflag,https://github.com/chromaui/chromatic-cli/pull/108,2020-03-27T08:14:29Z,2020-03-30T12:38:36Z,1,2,MERGED
+chromatic-cli,ADD extra parameters,https://github.com/chromaui/chromatic-cli/pull/107,2020-03-25T16:14:12Z,2020-04-08T05:45:10Z,0,2,MERGED
+chromatic-cli,Upgrades,https://github.com/chromaui/chromatic-cli/pull/106,2020-03-25T15:03:56Z,2020-03-26T08:45:17Z,0,2,MERGED
+chromatic-cli,Fix/94 needs crossenv,https://github.com/chromaui/chromatic-cli/pull/105,2020-03-25T13:13:22Z,2020-04-06T10:43:21Z,3,6,MERGED
+chromatic-cli,Update 'Storybook was not build' language,https://github.com/chromaui/chromatic-cli/pull/102,2020-02-28T16:58:08Z,2020-02-29T11:24:08Z,0,1,MERGED
+chromatic-cli,Update 'Storybook was not build' language,https://github.com/chromaui/chromatic-cli/pull/101,2020-02-28T16:55:17Z,2020-02-28T16:56:29Z,1,1,CLOSED
+chromatic-cli,Update language on getRuntimeSpecs console output when hasErrors,https://github.com/chromaui/chromatic-cli/pull/99,2020-02-24T10:27:26Z,2020-02-24T10:27:42Z,0,1,MERGED
+chromatic-cli,"Revert ""Update language on getRuntimeSpecs console output when hasErrors""",https://github.com/chromaui/chromatic-cli/pull/98,2020-02-24T10:22:44Z,2020-02-24T10:22:50Z,0,1,CLOSED
+chromatic-cli,Update language on getRuntimeSpecs console output when hasErrors,https://github.com/chromaui/chromatic-cli/pull/97,2020-02-21T20:59:41Z,2020-02-24T10:21:59Z,0,1,MERGED
+chromatic-cli,Fix issue with `jsdom@16.2`,https://github.com/chromaui/chromatic-cli/pull/96,2020-02-17T23:46:56Z,2020-02-17T23:57:50Z,0,1,MERGED
+chromatic-cli,Next,https://github.com/chromaui/chromatic-cli/pull/93,2020-02-05T12:57:52Z,2020-02-05T14:05:32Z,0,4,MERGED
+chromatic-cli,FIX chromaui/action/issues/14,https://github.com/chromaui/chromatic-cli/pull/92,2020-02-04T09:33:58Z,2020-02-05T12:57:14Z,3,4,MERGED
+chromatic-cli,Upgrades,https://github.com/chromaui/chromatic-cli/pull/89,2020-01-28T10:16:34Z,2020-01-28T10:24:15Z,0,5,MERGED
+chromatic-cli,Merge pull request #87 from chromaui/fix/fix-on-error,https://github.com/chromaui/chromatic-cli/pull/87,2020-01-25T10:21:15Z,2020-01-27T10:26:53Z,2,4,MERGED
+chromatic-cli,FIX loglevel,https://github.com/chromaui/chromatic-cli/pull/86,2020-01-23T22:01:00Z,2020-01-24T10:53:43Z,0,1,MERGED
+chromatic-cli,Fix/better error reporting,https://github.com/chromaui/chromatic-cli/pull/85,2020-01-16T14:27:37Z,2020-01-20T08:27:33Z,4,9,MERGED
+chromatic-cli,FIX alwaysFn by copying static properties unto fn,https://github.com/chromaui/chromatic-cli/pull/84,2020-01-16T13:37:47Z,2020-01-17T02:07:15Z,0,1,MERGED
+chromatic-cli,ADD web-components as valid storybook app package name,https://github.com/chromaui/chromatic-cli/pull/83,2020-01-16T12:50:25Z,2020-01-17T02:06:36Z,0,1,MERGED
+chromatic-cli,ADD throw on runtime errors,https://github.com/chromaui/chromatic-cli/pull/82,2020-01-14T10:32:14Z,2020-01-18T00:14:28Z,4,3,MERGED
+chromatic-cli,REMOVE nodeenv development,https://github.com/chromaui/chromatic-cli/pull/81,2020-01-14T10:20:27Z,2020-04-08T05:52:08Z,14,7,MERGED
+chromatic-cli,New UI based on Listr,https://github.com/chromaui/chromatic-cli/pull/140,2020-05-08T15:33:38Z,2020-05-25T11:23:20Z,3,38,MERGED
+chromatic-cli,ADD mock for execCommand,https://github.com/chromaui/chromatic-cli/pull/139,2020-05-06T13:49:52Z,2020-05-15T06:15:13Z,0,1,MERGED
+chromatic-cli,Better cross platform compatibility for --patch-build,https://github.com/chromaui/chromatic-cli/pull/138,2020-05-04T19:15:42Z,2020-05-06T07:58:36Z,1,7,MERGED
+chromatic-cli,Fix typo,https://github.com/chromaui/chromatic-cli/pull/135,2020-04-29T12:11:46Z,2020-04-29T23:02:08Z,1,1,MERGED
+chromatic-cli,Some README updates,https://github.com/chromaui/chromatic-cli/pull/132,2020-04-27T12:04:13Z,2020-04-30T13:26:07Z,0,1,MERGED
+chromatic-cli,Update support emails,https://github.com/chromaui/chromatic-cli/pull/130,2020-04-24T15:35:13Z,2020-04-25T06:36:04Z,1,2,MERGED
+chromatic-cli,ADD ignored regions test with new data-attribute method & css-class,https://github.com/chromaui/chromatic-cli/pull/129,2020-04-21T11:32:43Z,2020-04-21T11:48:46Z,0,2,MERGED
+chromatic-cli,Fix crash when code uses random generators (eg. uuid),https://github.com/chromaui/chromatic-cli/pull/128,2020-04-21T06:57:45Z,2020-04-21T09:59:30Z,0,2,MERGED
+chromatic-cli,Fix crash when code uses random generators (eg. uuid),https://github.com/chromaui/chromatic-cli/pull/127,2020-04-21T06:54:26Z,2020-04-21T06:58:24Z,1,1,CLOSED
+chromatic-cli,Fix crash when code uses random generators (uuid),https://github.com/chromaui/chromatic-cli/pull/126,2020-04-21T04:56:02Z,2020-04-21T06:55:15Z,2,1,CLOSED
+chromatic-cli,Set cache-control header on uploaded builds,https://github.com/chromaui/chromatic-cli/pull/124,2020-04-19T12:31:03Z,2020-04-19T13:53:18Z,0,1,MERGED
+chromatic-cli,"Show ""Continue setup at ..."" link after running the very first build",https://github.com/chromaui/chromatic-cli/pull/123,2020-04-15T12:42:23Z,2020-04-16T20:25:40Z,2,6,MERGED
+chromatic-cli,ADD actions for testing with staging,https://github.com/chromaui/chromatic-cli/pull/122,2020-04-13T14:07:16Z,2020-04-13T15:43:53Z,0,8,MERGED
+chromatic-cli,testci,https://github.com/chromaui/chromatic-cli/pull/121,2020-04-13T10:27:03Z,2020-04-13T10:35:11Z,0,83,CLOSED
+chromatic-cli,Fix Intl mocks version 2,https://github.com/chromaui/chromatic-cli/pull/120,2020-04-13T02:56:14Z,2020-04-13T14:01:03Z,1,4,MERGED
+chromatic-cli,HOTFIX #115 on master,https://github.com/chromaui/chromatic-cli/pull/118,2020-04-12T12:37:23Z,2020-04-13T10:21:47Z,1,1,CLOSED
+chromatic-cli,Reproduce/intl bug,https://github.com/chromaui/chromatic-cli/pull/117,2020-04-12T12:27:29Z,2020-04-13T14:54:12Z,4,2,CLOSED
+chromatic-cli,overhaul the jsdom shims,https://github.com/chromaui/chromatic-cli/pull/116,2020-04-12T10:45:13Z,2020-04-13T16:01:18Z,0,4,MERGED
+chromatic-cli,UPDATE changelog,https://github.com/chromaui/chromatic-cli/pull/114,2020-04-08T12:43:58Z,2020-04-26T04:43:46Z,1,4,MERGED
+chromatic-cli,CHANGE the output when building storybook fails,https://github.com/chromaui/chromatic-cli/pull/112,2020-04-06T17:32:08Z,2020-04-08T05:45:03Z,2,2,MERGED
+chromatic-cli,Waiting behaviour,https://github.com/chromaui/chromatic-cli/pull/111,2020-04-06T12:55:13Z,2020-04-07T09:47:15Z,1,6,MERGED
+chromatic-cli,Create patch build,https://github.com/chromaui/chromatic-cli/pull/110,2020-04-01T09:42:42Z,2020-04-08T05:44:41Z,2,24,MERGED
+chromatic-cli,Yarn 2 compatibility,https://github.com/chromaui/chromatic-cli/pull/168,2020-07-28T15:28:29Z,2021-09-17T09:06:16Z,2,2,CLOSED
+chromatic-cli,Use actual output dir and warn about it,https://github.com/chromaui/chromatic-cli/pull/165,2020-07-21T10:35:18Z,2020-07-22T12:15:56Z,2,15,MERGED
+chromatic-cli,Throw an error if the sourceDir does not contain a valid Storybook build,https://github.com/chromaui/chromatic-cli/pull/164,2020-07-21T08:57:42Z,2020-07-21T20:35:53Z,0,4,MERGED
+chromatic-cli,Add TypeScript types,https://github.com/chromaui/chromatic-cli/pull/159,2020-07-16T09:57:44Z,2020-07-21T09:01:13Z,1,1,MERGED
+chromatic-cli,V5,https://github.com/chromaui/chromatic-cli/pull/157,2020-07-13T13:48:32Z,2020-07-13T13:58:32Z,0,113,MERGED
+chromatic-cli,Fix yarn cmd in README,https://github.com/chromaui/chromatic-cli/pull/150,2020-06-11T22:08:29Z,2020-06-12T01:48:26Z,1,1,MERGED
+chromatic-cli,Fix the --skip flag and have it accept a glob for branch names,https://github.com/chromaui/chromatic-cli/pull/149,2020-06-10T12:34:38Z,2020-06-10T17:26:13Z,0,7,MERGED
+chromatic-cli,Generate JUnit XML report file when passing --report flag,https://github.com/chromaui/chromatic-cli/pull/148,2020-06-09T20:41:22Z,2020-06-10T12:44:48Z,2,5,MERGED
+chromatic-cli,Remove JSDOM,https://github.com/chromaui/chromatic-cli/pull/145,2020-06-03T20:53:57Z,2020-06-08T16:38:14Z,0,3,MERGED
+chromatic-cli,improve and upgrade dependencies,https://github.com/chromaui/chromatic-cli/pull/200,2020-10-27T12:04:32Z,2020-11-16T13:56:16Z,4,14,MERGED
+chromatic-cli,test,https://github.com/chromaui/chromatic-cli/pull/198,2020-10-22T12:53:32Z,2020-10-22T13:43:52Z,0,5,CLOSED
+chromatic-cli,Merge action into CLI package structure,https://github.com/chromaui/chromatic-cli/pull/195,2020-10-15T13:57:04Z,2020-10-16T07:51:35Z,0,3,MERGED
+chromatic-cli,Better ways to retrieve the branch name,https://github.com/chromaui/chromatic-cli/pull/194,2020-10-15T11:43:21Z,2020-10-16T07:52:10Z,0,1,MERGED
+chromatic-cli,Record the repository slug to support builds from forks,https://github.com/chromaui/chromatic-cli/pull/193,2020-10-14T15:15:59Z,2021-01-12T13:38:37Z,2,14,MERGED
+chromatic-cli,A demo shows a proxy suggestion,https://github.com/chromaui/chromatic-cli/pull/192,2020-09-27T15:43:02Z,2020-10-02T15:07:19Z,0,1,CLOSED
+chromatic-cli,Add link to docs,https://github.com/chromaui/chromatic-cli/pull/188,2020-09-24T08:41:30Z,2020-10-16T08:16:55Z,0,2,MERGED
+chromatic-cli,Add sign-in link to error message,https://github.com/chromaui/chromatic-cli/pull/187,2020-09-24T08:38:42Z,2020-10-16T08:21:10Z,1,3,MERGED
+chromatic-cli,Add dotenv-expand for Windows support,https://github.com/chromaui/chromatic-cli/pull/176,2020-08-16T10:09:18Z,2021-03-11T13:04:31Z,4,9,CLOSED
+chromatic-cli,Support squash merges natively,https://github.com/chromaui/chromatic-cli/pull/174,2020-08-07T03:55:37Z,2020-09-08T06:22:34Z,5,7,MERGED
+chromatic-cli,Better error message for when build-storybook fails,https://github.com/chromaui/chromatic-cli/pull/172,2020-08-01T18:33:34Z,2020-08-03T08:21:16Z,0,2,MERGED
+chromatic-cli,release,https://github.com/chromaui/chromatic-cli/pull/226,2020-12-15T15:12:27Z,2020-12-15T15:20:14Z,0,282,MERGED
+chromatic-cli,regen lockfile,https://github.com/chromaui/chromatic-cli/pull/225,2020-12-15T14:57:30Z,2020-12-15T15:05:54Z,0,1,MERGED
+chromatic-cli,Upgrades,https://github.com/chromaui/chromatic-cli/pull/223,2020-12-15T13:15:40Z,2020-12-15T14:12:33Z,0,6,MERGED
+chromatic-cli,no message,https://github.com/chromaui/chromatic-cli/pull/222,2020-12-15T12:50:37Z,2020-12-15T12:57:26Z,0,1,CLOSED
+chromatic-cli,wip,https://github.com/chromaui/chromatic-cli/pull/221,2020-12-15T12:21:05Z,2020-12-15T12:26:45Z,0,2,CLOSED
+chromatic-cli,Fix/ci and actions,https://github.com/chromaui/chromatic-cli/pull/220,2020-12-15T11:40:21Z,2020-12-15T12:15:27Z,0,7,MERGED
+chromatic-cli,Make sure isChromatic returns a boolean,https://github.com/chromaui/chromatic-cli/pull/218,2020-12-10T18:41:52Z,2020-12-15T12:42:51Z,1,2,MERGED
+chromatic-cli,Use commit determined by env-ci,https://github.com/chromaui/chromatic-cli/pull/216,2020-12-05T03:03:20Z,2020-12-15T12:48:35Z,0,2,MERGED
+chromatic-cli,Chore: Update readme example for the action,https://github.com/chromaui/chromatic-cli/pull/214,2020-12-04T18:19:40Z,2020-12-15T13:07:17Z,3,3,MERGED
+chromatic-cli,Added monorepo support,https://github.com/chromaui/chromatic-cli/pull/212,2020-11-20T12:17:18Z,2020-12-15T12:36:41Z,1,3,MERGED
+chromatic-cli,Improve error messages when build-storybook fails,https://github.com/chromaui/chromatic-cli/pull/208,2020-11-09T23:25:20Z,2020-11-10T21:45:14Z,0,4,MERGED
+chromatic-cli,Throw error when running from shallow clone,https://github.com/chromaui/chromatic-cli/pull/207,2020-11-09T15:11:56Z,2020-11-16T22:22:53Z,0,8,MERGED
+chromatic-cli,Handle 'no stories' error with custom messaging,https://github.com/chromaui/chromatic-cli/pull/206,2020-11-09T13:57:24Z,2020-11-10T19:41:46Z,0,1,MERGED
+chromatic-cli,ADD pull_request_review to list of allowed events,https://github.com/chromaui/chromatic-cli/pull/204,2020-11-05T13:57:06Z,2020-11-16T13:02:51Z,1,2,MERGED
+chromatic-cli,ADD support for pull_request_target event,https://github.com/chromaui/chromatic-cli/pull/203,2020-11-05T13:38:57Z,2020-11-16T13:21:31Z,2,2,MERGED
+chromatic-cli,179/fix for no history in actions,https://github.com/chromaui/chromatic-cli/pull/202,2020-11-05T13:27:44Z,2020-11-11T11:10:50Z,4,10,CLOSED
+chromatic-cli,Use original baseline for rebuilds (new build for the same commit),https://github.com/chromaui/chromatic-cli/pull/313,2021-03-25T13:38:15Z,2021-04-09T12:13:17Z,2,4,MERGED
+chromatic-cli,Support `workflow_dispatch` event in GitHub Action,https://github.com/chromaui/chromatic-cli/pull/311,2021-03-18T23:02:52Z,2021-08-02T14:20:32Z,6,7,MERGED
+chromatic-cli,Update Storybook addon metadata,https://github.com/chromaui/chromatic-cli/pull/310,2021-03-16T23:32:19Z,2021-03-17T00:21:06Z,2,1,MERGED
+chromatic-cli,Fix tunnel builds,https://github.com/chromaui/chromatic-cli/pull/306,2021-03-11T11:23:04Z,2021-03-11T11:46:57Z,1,2,MERGED
+chromatic-cli,Fix `npx chromatic` timing out on build-storybook,https://github.com/chromaui/chromatic-cli/pull/305,2021-03-11T10:58:25Z,2021-04-29T07:17:34Z,2,19,MERGED
+chromatic-cli,Support only testing components affected by recent git changes,https://github.com/chromaui/chromatic-cli/pull/304,2021-03-10T23:07:51Z,2021-04-29T10:15:27Z,9,83,MERGED
+chromatic-cli,Strip `origin/*` prefix from branch name,https://github.com/chromaui/chromatic-cli/pull/301,2021-03-09T15:10:29Z,2021-03-11T12:36:27Z,2,4,MERGED
+chromatic-cli,Document GitHub action outputs,https://github.com/chromaui/chromatic-cli/pull/298,2021-03-04T05:15:40Z,2021-03-10T11:49:45Z,7,6,MERGED
+chromatic-cli,Add @storybook/vue3 support,https://github.com/chromaui/chromatic-cli/pull/297,2021-03-04T02:20:25Z,2021-03-04T07:56:09Z,1,1,MERGED
+chromatic-cli,Support Yarn 2 execpath,https://github.com/chromaui/chromatic-cli/pull/296,2021-03-04T01:32:21Z,2021-03-11T12:12:22Z,3,2,MERGED
+chromatic-cli,Gracefully handle git config command in Netlify,https://github.com/chromaui/chromatic-cli/pull/295,2021-03-02T15:26:02Z,2021-03-11T12:58:13Z,4,6,MERGED
+chromatic-cli,"Revert ""Upgrade to husky 5""",https://github.com/chromaui/chromatic-cli/pull/289,2021-02-23T05:47:48Z,2021-02-23T05:48:15Z,2,1,MERGED
+chromatic-cli,Upgrade to husky 5,https://github.com/chromaui/chromatic-cli/pull/288,2021-02-22T02:56:42Z,2021-02-23T02:46:26Z,1,2,MERGED
+chromatic-cli,Update CLI to use new `test` terminology and statuses,https://github.com/chromaui/chromatic-cli/pull/287,2021-02-22T02:56:06Z,2021-03-11T13:05:21Z,5,5,MERGED
+chromatic-cli,Fix `storybookUrl` in GitHub Action,https://github.com/chromaui/chromatic-cli/pull/284,2021-02-18T12:15:21Z,2021-02-22T22:49:04Z,1,2,MERGED
+chromatic-cli,Explicitly allow multiple project-tokens (last will be used),https://github.com/chromaui/chromatic-cli/pull/283,2021-02-17T14:03:50Z,2021-02-18T12:09:19Z,1,1,MERGED
+chromatic-cli,revert meow upgrade,https://github.com/chromaui/chromatic-cli/pull/282,2021-02-17T12:52:52Z,2021-02-17T13:18:44Z,0,5,MERGED
+chromatic-cli,Fix/10minute timeout action,https://github.com/chromaui/chromatic-cli/pull/278,2021-02-10T14:02:56Z,2021-02-10T14:49:10Z,4,9,MERGED
+chromatic-cli,Skip build if all changed files match the ignore-changed-files flag,https://github.com/chromaui/chromatic-cli/pull/270,2021-01-30T18:46:24Z,2021-04-29T07:35:01Z,1,5,CLOSED
+chromatic-cli,Record CI service name on build,https://github.com/chromaui/chromatic-cli/pull/269,2021-01-29T13:36:15Z,2021-02-10T14:56:57Z,0,2,MERGED
+chromatic-cli,Chore: Adds documentation on GH Action for ignoreLastBuildOnBranch option,https://github.com/chromaui/chromatic-cli/pull/239,2021-01-15T21:19:35Z,2021-02-10T14:57:29Z,1,3,MERGED
+chromatic-cli,Avoid passing --silent when invoking npm through Node.js script,https://github.com/chromaui/chromatic-cli/pull/237,2021-01-07T13:52:25Z,2021-01-12T12:42:16Z,1,5,MERGED
+chromatic-cli,Add `--branch-name` flag to override branch name,https://github.com/chromaui/chromatic-cli/pull/233,2021-01-06T14:49:31Z,2021-01-12T12:51:45Z,1,3,MERGED
+chromatic-cli,Fix overriding Storybook version through environment variable,https://github.com/chromaui/chromatic-cli/pull/231,2021-01-02T13:57:24Z,2021-01-12T13:45:26Z,2,2,MERGED
+chromatic-cli,Ignore `onlyChanged` on changes matching `externals`,https://github.com/chromaui/chromatic-cli/pull/355,2021-05-31T09:48:12Z,2021-06-02T12:49:09Z,0,4,MERGED
+chromatic-cli,"Drop spawnOptions, including preferLocal: true",https://github.com/chromaui/chromatic-cli/pull/350,2021-05-19T22:28:13Z,2021-05-21T06:57:32Z,1,4,MERGED
+chromatic-cli,Restore original behavior to use npm_execpath,https://github.com/chromaui/chromatic-cli/pull/348,2021-05-19T14:12:58Z,2021-05-19T14:14:47Z,0,2,MERGED
+chromatic-cli,Add support for proxy server,https://github.com/chromaui/chromatic-cli/pull/347,2021-05-18T19:14:29Z,2021-05-21T07:16:33Z,2,2,MERGED
+chromatic-cli,Restore implying of --preserve-missing when using --only,https://github.com/chromaui/chromatic-cli/pull/345,2021-05-18T08:13:55Z,2021-05-18T09:02:36Z,0,2,MERGED
+chromatic-cli,Fix determining viewLayer when using transitive dependency,https://github.com/chromaui/chromatic-cli/pull/344,2021-05-18T05:30:20Z,2021-05-18T08:17:48Z,2,4,MERGED
+chromatic-cli,Fix `chromatic` script that can be added to package.json,https://github.com/chromaui/chromatic-cli/pull/337,2021-05-07T14:01:11Z,2021-05-18T09:01:59Z,0,2,MERGED
+chromatic-cli,Add documentation for workingDir and monorepo usage.,https://github.com/chromaui/chromatic-cli/pull/336,2021-05-05T22:10:45Z,2021-05-18T09:03:12Z,2,2,MERGED
+chromatic-cli,Check existence and validity of package.json,https://github.com/chromaui/chromatic-cli/pull/334,2021-05-02T17:06:51Z,2021-05-21T07:35:54Z,2,8,MERGED
+chromatic-cli,Log clientVersion on fatal error,https://github.com/chromaui/chromatic-cli/pull/331,2021-04-30T08:18:58Z,2021-04-30T08:25:22Z,0,1,MERGED
+chromatic-cli,Retrieve viewLayer and version from dependencies and support @web/dev-server-storybook,https://github.com/chromaui/chromatic-cli/pull/319,2021-04-14T11:39:58Z,2021-04-23T15:01:04Z,3,7,MERGED
+chromatic-cli,Support absolute paths in webpack stats,https://github.com/chromaui/chromatic-cli/pull/382,2021-07-13T21:01:53Z,2021-08-02T10:37:27Z,1,10,MERGED
+chromatic-cli,Throw when specifying an invalid loglevel,https://github.com/chromaui/chromatic-cli/pull/381,2021-07-13T10:26:18Z,2021-07-13T10:52:14Z,0,1,MERGED
+chromatic-cli,Fix `isChromatic` for server-side rendering,https://github.com/chromaui/chromatic-cli/pull/380,2021-07-08T10:23:29Z,2021-08-02T14:15:59Z,0,1,MERGED
+chromatic-cli,Fix handling of NO_PROXY environment variable,https://github.com/chromaui/chromatic-cli/pull/374,2021-06-28T12:29:15Z,2021-08-02T13:24:50Z,1,6,MERGED
+chromatic-cli,Ignore `--only-changed` on rebuild,https://github.com/chromaui/chromatic-cli/pull/370,2021-06-24T10:42:45Z,2021-08-02T14:24:59Z,1,4,MERGED
+chromatic-cli,Fix resolving webpack stats in subdirectory,https://github.com/chromaui/chromatic-cli/pull/366,2021-06-15T11:24:36Z,2021-06-15T14:08:23Z,1,2,MERGED
+chromatic-cli,Fix cross-fork builds from GitHub Action,https://github.com/chromaui/chromatic-cli/pull/365,2021-06-11T15:10:08Z,2021-06-14T09:28:55Z,0,1,MERGED
+chromatic-cli,Sets exitCode 0 when branch is skipped with skip flag. ,https://github.com/chromaui/chromatic-cli/pull/442,2021-10-29T16:38:17Z,2021-11-09T08:47:30Z,2,1,MERGED
+chromatic-cli,Deal with files that are chunked with preview files,https://github.com/chromaui/chromatic-cli/pull/440,2021-10-27T03:21:36Z,2021-10-27T11:19:23Z,0,4,MERGED
+chromatic-cli,🔥 Take into account 6.4 virtual story file locations,https://github.com/chromaui/chromatic-cli/pull/439,2021-10-27T03:10:42Z,2021-10-27T11:18:45Z,1,2,MERGED
+chromatic-cli,Fix DEBUG env variable being set,https://github.com/chromaui/chromatic-cli/pull/436,2021-10-25T05:53:56Z,2021-10-27T11:20:05Z,1,5,MERGED
+chromatic-cli,Add optional window arg to isChromatic,https://github.com/chromaui/chromatic-cli/pull/433,2021-10-21T05:13:42Z,2021-10-25T10:57:30Z,0,1,MERGED
+chromatic-cli,Tweak scripts based on some problems in real world usage,https://github.com/chromaui/chromatic-cli/pull/428,2021-10-15T07:22:34Z,2021-10-15T09:34:18Z,1,4,MERGED
+chromatic-cli,merge next to main,https://github.com/chromaui/chromatic-cli/pull/425,2021-10-13T13:27:50Z,2021-10-27T12:38:34Z,6,29,MERGED
+chromatic-cli,fix: upgrade action to node 14,https://github.com/chromaui/chromatic-cli/pull/424,2021-10-13T12:35:17Z,2021-10-13T14:09:43Z,1,4,MERGED
+chromatic-cli,merge main to next,https://github.com/chromaui/chromatic-cli/pull/423,2021-10-13T12:20:35Z,2021-10-13T12:39:44Z,0,4,MERGED
+chromatic-cli,"change to make reading storybook version optional instead, assume modern if non was found/provided",https://github.com/chromaui/chromatic-cli/pull/420,2021-10-08T11:52:52Z,2021-10-08T15:41:06Z,0,10,MERGED
+chromatic-cli,v6.0.2,https://github.com/chromaui/chromatic-cli/pull/419,2021-10-06T12:54:14Z,2021-10-12T12:10:39Z,0,44,MERGED
+chromatic-cli,fix the issue where require didn't work anymore,https://github.com/chromaui/chromatic-cli/pull/417,2021-10-01T12:40:38Z,2021-10-06T12:53:42Z,0,12,MERGED
+chromatic-cli,release 6.0.0,https://github.com/chromaui/chromatic-cli/pull/415,2021-09-30T12:42:54Z,2021-09-30T12:51:12Z,0,16,MERGED
+chromatic-cli,Tech/add test workflow run,https://github.com/chromaui/chromatic-cli/pull/414,2021-09-29T11:22:52Z,2021-09-29T11:23:32Z,0,10,CLOSED
+chromatic-cli,tech/add-test-workflow_run,https://github.com/chromaui/chromatic-cli/pull/412,2021-09-23T14:36:11Z,2021-09-30T09:27:34Z,1,4,MERGED
+chromatic-cli,Ask yarn for packages instead of trying to resolve them,https://github.com/chromaui/chromatic-cli/pull/411,2021-09-23T12:45:29Z,2021-09-30T09:58:31Z,1,12,MERGED
+chromatic-cli,Fix the version of `node-fetch` to `2.6.0` due to a bug in `2.6.3`,https://github.com/chromaui/chromatic-cli/pull/404,2021-09-21T11:13:43Z,2021-09-21T11:15:20Z,0,1,MERGED
+chromatic-cli,Update BuildHasChanges message to be clearer,https://github.com/chromaui/chromatic-cli/pull/401,2021-09-17T01:05:21Z,2021-09-17T08:09:20Z,0,1,MERGED
+chromatic-cli,Fix runtime issues with HTTP_PROXY / NO_PROXY,https://github.com/chromaui/chromatic-cli/pull/397,2021-09-08T20:14:42Z,2021-09-17T09:04:10Z,0,2,MERGED
+chromatic-cli,Bundle code into a single file without dependencies,https://github.com/chromaui/chromatic-cli/pull/393,2021-08-25T19:44:58Z,2021-09-30T12:42:17Z,5,15,MERGED
+chromatic-cli,Better path handling for TurboSnap,https://github.com/chromaui/chromatic-cli/pull/392,2021-08-25T12:01:39Z,2021-09-17T09:05:14Z,0,4,MERGED
+chromatic-cli,minor improvements,https://github.com/chromaui/chromatic-cli/pull/391,2021-08-25T09:17:25Z,2021-08-25T18:40:56Z,2,10,MERGED
+chromatic-cli,TurboSnap: Detect mismatching entry file and suggest a fix,https://github.com/chromaui/chromatic-cli/pull/490,2021-12-26T13:16:04Z,2022-01-17T22:34:56Z,3,9,MERGED
+chromatic-cli,Fix `stats-to-story-files` util,https://github.com/chromaui/chromatic-cli/pull/489,2021-12-23T14:03:06Z,2022-01-10T16:00:25Z,0,4,MERGED
+chromatic-cli,Fix `--untraced` for package files,https://github.com/chromaui/chromatic-cli/pull/488,2021-12-23T14:01:39Z,2022-01-10T15:23:28Z,0,3,MERGED
+chromatic-cli,Improve how process exit code is set,https://github.com/chromaui/chromatic-cli/pull/487,2021-12-23T10:36:54Z,2022-01-10T15:17:44Z,0,9,MERGED
+chromatic-cli,Fix commit details when using env var and warn if the commit is missing,https://github.com/chromaui/chromatic-cli/pull/482,2021-12-17T13:19:12Z,2021-12-22T09:27:45Z,3,9,MERGED
+chromatic-cli,Add `--diagnostics` flag to write process context data to a file,https://github.com/chromaui/chromatic-cli/pull/479,2021-12-16T16:02:20Z,2021-12-21T13:24:01Z,2,5,MERGED
+chromatic-cli,fix: use correct project token for action workflow,https://github.com/chromaui/chromatic-cli/pull/478,2021-12-16T15:58:32Z,2021-12-20T14:21:47Z,0,2,MERGED
+chromatic-cli,Retry createBuild based on error messages,https://github.com/chromaui/chromatic-cli/pull/477,2021-12-10T18:47:44Z,2021-12-13T15:47:40Z,4,2,MERGED
+chromatic-cli,Retry createBuild based on error messages,https://github.com/chromaui/chromatic-cli/pull/476,2021-12-10T18:33:27Z,2021-12-10T18:47:08Z,1,1,CLOSED
+chromatic-cli,Add `--diagnostics` flag to write process context data to a file,https://github.com/chromaui/chromatic-cli/pull/475,2021-12-10T15:27:40Z,2021-12-20T14:28:22Z,16,7,CLOSED
+chromatic-cli,Fix commit status update for UI Review when using `--skip`,https://github.com/chromaui/chromatic-cli/pull/474,2021-12-10T04:31:00Z,2022-01-18T09:24:12Z,9,7,MERGED
+chromatic-cli,Add `skip` documentation,https://github.com/chromaui/chromatic-cli/pull/473,2021-12-10T01:25:40Z,2021-12-22T11:50:42Z,1,3,MERGED
+chromatic-cli,Increase unpack wait timeout to 3 minutes,https://github.com/chromaui/chromatic-cli/pull/468,2021-12-08T17:23:21Z,2021-12-09T16:46:48Z,2,2,MERGED
+chromatic-cli,add workingDirectory input handler for action,https://github.com/chromaui/chromatic-cli/pull/466,2021-12-07T15:47:01Z,2021-12-08T09:46:08Z,1,1,MERGED
+chromatic-cli,remove requirement for the token,https://github.com/chromaui/chromatic-cli/pull/465,2021-12-07T15:30:02Z,2021-12-08T09:46:20Z,1,2,MERGED
+chromatic-cli,"Change ""upload"" to ""publish"" CH-816 CH-817",https://github.com/chromaui/chromatic-cli/pull/464,2021-12-06T20:19:21Z,2021-12-06T20:45:53Z,1,1,MERGED
+chromatic-cli,Fix tests of makeZipFile CH-816 CH-817,https://github.com/chromaui/chromatic-cli/pull/463,2021-12-06T16:26:20Z,2021-12-06T17:22:20Z,0,1,MERGED
+chromatic-cli,Add `--untraced` flag to avoid retesting stories that depend on certain files,https://github.com/chromaui/chromatic-cli/pull/461,2021-12-02T12:20:18Z,2021-12-22T10:58:55Z,6,20,MERGED
+chromatic-cli,Support zip file upload CH-816 CH-817,https://github.com/chromaui/chromatic-cli/pull/459,2021-11-29T16:18:38Z,2021-12-06T16:14:59Z,12,10,MERGED
+chromatic-cli,"Track `bailReason`, improve TurboSnap messaging and throw on 0 CSF globs",https://github.com/chromaui/chromatic-cli/pull/458,2021-11-26T21:38:31Z,2021-12-21T13:37:33Z,6,28,MERGED
+chromatic-cli,Throw error rather than bailing out of TurboSnap when tracing changed files fails,https://github.com/chromaui/chromatic-cli/pull/457,2021-11-26T16:20:32Z,2021-11-29T08:40:58Z,2,2,MERGED
+chromatic-cli,Add `--dry-run` to skip publishing CH-1068,https://github.com/chromaui/chromatic-cli/pull/456,2021-11-26T12:48:22Z,2021-11-29T08:37:55Z,2,4,MERGED
+chromatic-cli,Add `--storybook-base-dir` to support TurboSnap with a prebuilt Storybook originating from a subdirectory,https://github.com/chromaui/chromatic-cli/pull/455,2021-11-26T12:06:09Z,2021-11-29T08:37:38Z,2,8,MERGED
+chromatic-cli,Deal with unnamed modules in stats file in webpack 5,https://github.com/chromaui/chromatic-cli/pull/449,2021-11-10T01:18:44Z,2021-11-10T08:20:20Z,0,1,MERGED
+chromatic-cli,update next from main,https://github.com/chromaui/chromatic-cli/pull/448,2021-11-09T15:10:14Z,2021-11-09T15:11:12Z,0,3,MERGED
+chromatic-cli,Tech/allow many args CH-789,https://github.com/chromaui/chromatic-cli/pull/447,2021-11-09T15:09:52Z,2021-12-07T11:48:50Z,10,17,MERGED
+chromatic-cli,Add support for proxy authentication CH-813,https://github.com/chromaui/chromatic-cli/pull/444,2021-11-05T05:31:03Z,2021-11-26T15:43:46Z,1,4,MERGED
+chromatic-cli,downcase the slug so we don't accidentally treat origin as fork,https://github.com/chromaui/chromatic-cli/pull/554,2022-03-25T17:08:06Z,2022-04-07T13:34:14Z,1,1,MERGED
+chromatic-cli,Fix line splitting on Windows for Git output,https://github.com/chromaui/chromatic-cli/pull/547,2022-03-14T13:24:54Z,2022-03-14T14:34:25Z,1,2,MERGED
+chromatic-cli,Fix TurboSnap support for Storybook in a subdirectory (part 2),https://github.com/chromaui/chromatic-cli/pull/539,2022-02-28T13:34:16Z,2022-03-11T09:11:22Z,2,3,MERGED
+chromatic-cli,Fix `slug` for GitHub's `workflow_dispatch` event,https://github.com/chromaui/chromatic-cli/pull/536,2022-02-25T15:33:58Z,2022-03-14T13:12:53Z,5,2,MERGED
+chromatic-cli,Fix TurboSnap support for Storybook in a subdirectory,https://github.com/chromaui/chromatic-cli/pull/527,2022-02-21T06:20:04Z,2022-03-11T07:56:59Z,5,4,MERGED
+chromatic-cli,Fix TurboSnap support for Storybook 6.5 with `.cjs` extension,https://github.com/chromaui/chromatic-cli/pull/523,2022-02-17T03:39:33Z,2022-02-19T12:18:46Z,1,1,MERGED
+chromatic-cli,Add TurboSnap support for Vite,https://github.com/chromaui/chromatic-cli/pull/521,2022-02-14T18:13:34Z,2022-02-19T12:31:26Z,4,8,MERGED
+chromatic-cli,Fix `storybookUrl` by removing `iframe.html` suffix,https://github.com/chromaui/chromatic-cli/pull/518,2022-02-11T10:06:33Z,2022-02-21T09:03:31Z,4,2,MERGED
+chromatic-cli,Add support for custom npm registry url,https://github.com/chromaui/chromatic-cli/pull/513,2022-01-31T12:17:33Z,2022-01-31T12:48:24Z,2,4,MERGED
+chromatic-cli,Fix `pathname` support in proxy URL,https://github.com/chromaui/chromatic-cli/pull/510,2022-01-27T16:59:08Z,2022-01-27T23:34:07Z,1,1,MERGED
+chromatic-cli,Migrate to TypeScript,https://github.com/chromaui/chromatic-cli/pull/505,2022-01-20T23:57:39Z,2022-01-28T16:35:09Z,1,22,MERGED
+chromatic-cli,Fix consistent naming of flags for `trace` util,https://github.com/chromaui/chromatic-cli/pull/504,2022-01-19T22:57:19Z,2022-01-20T08:56:57Z,0,2,MERGED
+chromatic-cli,Reformat help text and move `allowConsoleErrors` to deprecated options,https://github.com/chromaui/chromatic-cli/pull/503,2022-01-19T10:53:04Z,2022-01-20T08:57:25Z,1,4,MERGED
+chromatic-cli,Add `--force-rebuild` to prevent skipping on rebuild,https://github.com/chromaui/chromatic-cli/pull/502,2022-01-18T09:05:44Z,2022-01-18T09:40:22Z,0,7,MERGED
+chromatic-cli,Fix handling of missing `ref` and/or `sha` inputs on `workflow_dispatch` event,https://github.com/chromaui/chromatic-cli/pull/501,2022-01-17T01:46:12Z,2022-01-20T09:02:07Z,1,2,MERGED
+chromatic-cli,Use commit author info instead of committer info [CH-1282],https://github.com/chromaui/chromatic-cli/pull/500,2022-01-14T13:18:09Z,2022-01-17T21:07:25Z,1,2,MERGED
+chromatic-cli,Handle the `CANCELLED` build status separately,https://github.com/chromaui/chromatic-cli/pull/499,2022-01-14T09:35:00Z,2022-01-20T08:57:38Z,1,3,MERGED
+chromatic-cli,Refactor GitHub workflows,https://github.com/chromaui/chromatic-cli/pull/496,2022-01-11T12:19:20Z,2022-01-13T09:36:35Z,0,23,MERGED
+chromatic-cli,Allow tracing changed files to affected story files CH-1205 CH-1393,https://github.com/chromaui/chromatic-cli/pull/495,2022-01-10T10:20:13Z,2022-01-17T21:34:19Z,4,24,MERGED
+chromatic-cli,Fix missing exit code on rebuild,https://github.com/chromaui/chromatic-cli/pull/492,2022-01-04T00:46:34Z,2022-01-10T09:24:48Z,2,1,MERGED
+chromatic-cli,Fix `storybookBaseDir` option in GitHub Action,https://github.com/chromaui/chromatic-cli/pull/491,2022-01-03T18:32:58Z,2022-01-03T18:42:23Z,0,1,MERGED
+chromatic-cli,SB Metadata Retrieval,https://github.com/chromaui/chromatic-cli/pull/585,2022-05-31T22:11:38Z,2022-06-07T20:17:55Z,10,30,MERGED
+chromatic-cli,"Revert ""Fix Issue with Getting Storybook Info in CLI""",https://github.com/chromaui/chromatic-cli/pull/584,2022-05-31T21:43:23Z,2022-05-31T21:47:46Z,1,1,MERGED
+chromatic-cli,revert retrieval of storybook metadata via yarn.,https://github.com/chromaui/chromatic-cli/pull/583,2022-05-31T21:23:35Z,2022-05-31T21:44:51Z,0,3,CLOSED
+chromatic-cli,"Revert ""Implement async build creation process""",https://github.com/chromaui/chromatic-cli/pull/581,2022-05-31T14:26:04Z,2022-05-31T14:37:24Z,1,1,MERGED
+chromatic-cli,Fix Issue with Getting Storybook Info in CLI,https://github.com/chromaui/chromatic-cli/pull/577,2022-05-25T19:30:31Z,2022-05-31T14:56:34Z,6,12,MERGED
+chromatic-cli,Add notes about how to use the `next` version,https://github.com/chromaui/chromatic-cli/pull/576,2022-05-25T10:54:36Z,2022-05-25T10:54:42Z,0,2,MERGED
+chromatic-cli,Document how to use the next version,https://github.com/chromaui/chromatic-cli/pull/575,2022-05-25T06:21:21Z,2022-05-25T10:53:11Z,3,2,MERGED
+chromatic-cli,Version 6.6.0,https://github.com/chromaui/chromatic-cli/pull/574,2022-05-24T03:13:02Z,2022-06-17T12:28:33Z,1,64,MERGED
+chromatic-cli,Create `release` script and document it,https://github.com/chromaui/chromatic-cli/pull/572,2022-05-20T09:40:37Z,2022-05-20T10:57:39Z,0,1,MERGED
+chromatic-cli,Add instructions on how to run locally,https://github.com/chromaui/chromatic-cli/pull/567,2022-05-13T00:57:01Z,2022-09-01T13:33:28Z,3,5,MERGED
+chromatic-cli,Use `Build.ancestors` to find replacement commit for rebased build,https://github.com/chromaui/chromatic-cli/pull/566,2022-05-12T03:02:57Z,2022-05-24T03:09:29Z,24,12,MERGED
+chromatic-cli,Add tests for `--untraced` flag validation,https://github.com/chromaui/chromatic-cli/pull/565,2022-05-10T22:58:58Z,2022-09-02T12:47:30Z,6,10,MERGED
+chromatic-cli,Implement async build creation process,https://github.com/chromaui/chromatic-cli/pull/562,2022-04-22T11:15:41Z,2022-05-25T05:14:00Z,6,25,MERGED
+chromatic-cli,Update message and link to status page,https://github.com/chromaui/chromatic-cli/pull/560,2022-04-13T14:27:53Z,2022-06-07T07:22:29Z,0,2,MERGED
+chromatic-cli,Upgrade node-fetch to latest stable,https://github.com/chromaui/chromatic-cli/pull/559,2022-04-11T12:29:47Z,2022-10-28T19:00:29Z,1,1,CLOSED
+chromatic-cli,Add addon-interactions to supportedAddons in cli,https://github.com/chromaui/chromatic-cli/pull/621,2022-07-29T20:44:53Z,2022-08-01T13:52:38Z,1,1,MERGED
+chromatic-cli,Add various counts as GitHub Action outputs,https://github.com/chromaui/chromatic-cli/pull/620,2022-07-29T00:47:52Z,2022-09-17T19:28:06Z,7,4,MERGED
+chromatic-cli,Update CHANGELOG.md,https://github.com/chromaui/chromatic-cli/pull/619,2022-07-28T17:15:37Z,2022-08-01T19:48:46Z,0,2,MERGED
+chromatic-cli,Changed trim stats to stream and added test,https://github.com/chromaui/chromatic-cli/pull/615,2022-07-26T18:16:32Z,2022-07-28T16:33:04Z,4,7,MERGED
+chromatic-cli,Update CHANGELOG.md,https://github.com/chromaui/chromatic-cli/pull/614,2022-07-26T17:31:04Z,2022-07-26T17:59:35Z,0,1,MERGED
+chromatic-cli,6.7.1,https://github.com/chromaui/chromatic-cli/pull/613,2022-07-22T15:08:59Z,2022-07-22T15:57:50Z,2,1,MERGED
+chromatic-cli,Add change count to buildPassed message if changes exist.,https://github.com/chromaui/chromatic-cli/pull/612,2022-07-21T22:09:36Z,2022-07-22T15:01:06Z,1,2,MERGED
+chromatic-cli,Restore prepublish script to fix smoke tests,https://github.com/chromaui/chromatic-cli/pull/602,2022-07-08T06:49:49Z,2022-07-08T07:16:51Z,0,1,MERGED
+chromatic-cli,Better `noCommitDetails` warning for custom GitHub `pull_request` workflows,https://github.com/chromaui/chromatic-cli/pull/600,2022-07-06T12:34:33Z,2022-07-08T07:53:29Z,0,3,MERGED
+chromatic-cli,6.6.5,https://github.com/chromaui/chromatic-cli/pull/599,2022-06-30T18:49:17Z,2022-06-30T19:03:25Z,0,1,MERGED
+chromatic-cli,Enable bash mode for globs when matching branches with picomatch,https://github.com/chromaui/chromatic-cli/pull/598,2022-06-29T21:10:41Z,2022-06-30T16:58:25Z,3,2,MERGED
+chromatic-cli,Handle redirects when using `--storybook-url`,https://github.com/chromaui/chromatic-cli/pull/596,2022-06-24T11:55:08Z,2022-06-27T11:49:20Z,3,3,MERGED
+chromatic-cli,Filter out unsupported addons from sb metadata,https://github.com/chromaui/chromatic-cli/pull/592,2022-06-17T17:17:09Z,2022-06-17T17:46:57Z,1,3,MERGED
+chromatic-cli,Better Onboarding Support in CLI,https://github.com/chromaui/chromatic-cli/pull/590,2022-06-15T01:46:06Z,2022-06-20T18:33:27Z,4,15,MERGED
+chromatic-cli,Implement async build creation process (#2),https://github.com/chromaui/chromatic-cli/pull/587,2022-06-01T06:50:00Z,2022-06-17T10:53:21Z,1,6,MERGED
+chromatic-cli,Trace command errors for package manifest change,https://github.com/chromaui/chromatic-cli/pull/670,2022-10-31T23:42:10Z,2022-11-01T00:01:50Z,1,3,MERGED
+chromatic-cli,v6.11.2,https://github.com/chromaui/chromatic-cli/pull/669,2022-10-28T19:16:05Z,2022-11-09T22:02:26Z,0,2,CLOSED
+chromatic-cli,Edit package file detection process for the untraced flag,https://github.com/chromaui/chromatic-cli/pull/667,2022-10-26T18:50:35Z,2022-10-26T22:43:54Z,1,4,MERGED
+chromatic-cli,Update action core to ensure secure api usage for set-output,https://github.com/chromaui/chromatic-cli/pull/666,2022-10-26T16:17:58Z,2022-10-28T16:39:03Z,3,1,MERGED
+chromatic-cli,Added onlyStoryFiles to the github action,https://github.com/chromaui/chromatic-cli/pull/665,2022-10-25T22:13:14Z,2022-10-26T02:44:48Z,0,1,MERGED
+chromatic-cli,Publishing package-json dependency feature,https://github.com/chromaui/chromatic-cli/pull/663,2022-10-24T23:54:53Z,2022-10-25T00:04:40Z,0,2,MERGED
+chromatic-cli,Add debug flag to action.yml,https://github.com/chromaui/chromatic-cli/pull/662,2022-10-21T06:01:50Z,2022-10-21T06:11:33Z,1,1,MERGED
+chromatic-cli,Add `debug` as an option to the GH action,https://github.com/chromaui/chromatic-cli/pull/661,2022-10-20T04:44:05Z,2022-10-21T00:05:42Z,2,1,MERGED
+chromatic-cli,Update action to use node16,https://github.com/chromaui/chromatic-cli/pull/660,2022-10-19T15:07:59Z,2022-10-28T16:37:22Z,1,1,MERGED
+chromatic-cli,add interactionTestFailuresCount to github action output,https://github.com/chromaui/chromatic-cli/pull/659,2022-10-19T13:51:45Z,2022-10-28T16:41:45Z,0,1,MERGED
+chromatic-cli,Fix versions after an accidental skipped version ,https://github.com/chromaui/chromatic-cli/pull/658,2022-10-19T13:18:34Z,2022-10-19T13:40:07Z,0,3,CLOSED
+chromatic-cli,Fix version in changelog,https://github.com/chromaui/chromatic-cli/pull/657,2022-10-19T13:01:36Z,2022-10-19T13:06:08Z,0,1,MERGED
+chromatic-cli,Jk drop sb upgrade,https://github.com/chromaui/chromatic-cli/pull/656,2022-10-18T13:34:14Z,2022-10-18T17:05:33Z,0,4,CLOSED
+chromatic-cli,Added an example for a TurboSnap optimized flow,https://github.com/chromaui/chromatic-cli/pull/655,2022-10-17T20:03:12Z,2022-10-20T02:26:22Z,3,3,MERGED
+chromatic-cli,Update buildHasErrors with interaction test failure specific messaging,https://github.com/chromaui/chromatic-cli/pull/651,2022-10-12T18:15:19Z,2022-10-19T12:59:31Z,2,6,MERGED
+chromatic-cli,Ensure all GitHub Action outputs are exposed,https://github.com/chromaui/chromatic-cli/pull/650,2022-10-10T15:00:11Z,2022-10-11T19:31:20Z,1,3,MERGED
+chromatic-cli,Fix TurboSnap for module names containing URL params in stats file,https://github.com/chromaui/chromatic-cli/pull/649,2022-10-07T03:27:59Z,2022-10-10T17:15:35Z,5,10,MERGED
+chromatic-cli,TurboSnap not bailed if package manifest change isn't dependency-related,https://github.com/chromaui/chromatic-cli/pull/648,2022-10-06T00:28:55Z,2022-10-24T23:39:42Z,24,47,MERGED
+chromatic-cli,Fix Issues finding SB metadata,https://github.com/chromaui/chromatic-cli/pull/646,2022-09-28T20:22:17Z,2022-09-29T22:14:06Z,2,38,MERGED
+chromatic-cli,Check `onlyStoryNames` is non-empty,https://github.com/chromaui/chromatic-cli/pull/645,2022-09-27T01:49:42Z,2022-09-27T02:30:10Z,1,2,MERGED
+chromatic-cli,Fix implied `--preserve-missing` for `--only-story-names`,https://github.com/chromaui/chromatic-cli/pull/643,2022-09-23T19:35:08Z,2022-09-23T19:37:07Z,1,2,MERGED
+chromatic-cli,Finer-grained TurboSnap: Determines dependent story files based on package.json dependency version changes,https://github.com/chromaui/chromatic-cli/pull/637,2022-09-07T02:01:46Z,2022-12-09T00:11:42Z,8,1,CLOSED
+chromatic-cli,Suggest using `--force-rebuild` when skipping rebuild,https://github.com/chromaui/chromatic-cli/pull/636,2022-09-01T11:57:24Z,2022-09-02T09:57:51Z,0,2,MERGED
+chromatic-cli,Retry queries by default and allow even more retries for `FirstCommittedAtQuery`,https://github.com/chromaui/chromatic-cli/pull/635,2022-09-01T08:39:06Z,2022-09-01T10:47:31Z,2,2,MERGED
+chromatic-cli,Add `--only-story-files` flag,https://github.com/chromaui/chromatic-cli/pull/634,2022-08-29T14:32:40Z,2022-09-02T15:07:27Z,1,7,MERGED
+chromatic-cli,Rename `--only` to `--only-story-names` but keep it as a deprecated alias,https://github.com/chromaui/chromatic-cli/pull/630,2022-08-17T13:44:10Z,2022-08-26T09:10:32Z,2,6,MERGED
+chromatic-cli,Deprecate `--preserve-missing` and raise a warning if it's being used,https://github.com/chromaui/chromatic-cli/pull/629,2022-08-17T13:01:06Z,2022-08-26T08:33:28Z,4,2,MERGED
+chromatic-cli,Read Webpack stats file as stream to support very large projects,https://github.com/chromaui/chromatic-cli/pull/624,2022-08-03T05:40:45Z,2022-08-10T02:13:41Z,4,4,MERGED
+chromatic-cli,"Revert ""Don't bundle package.json but rely on meow's runtime value instead""",https://github.com/chromaui/chromatic-cli/pull/700,2022-12-14T12:03:50Z,2022-12-14T12:12:59Z,0,1,MERGED
+chromatic-cli,Omit `inputs` for `workflow_dispatch` event in GitHub Action,https://github.com/chromaui/chromatic-cli/pull/695,2022-12-12T07:35:02Z,2023-02-06T21:30:03Z,1,1,MERGED
+chromatic-cli,Remove tunnel flags,https://github.com/chromaui/chromatic-cli/pull/694,2022-12-09T21:42:04Z,2022-12-14T18:21:40Z,10,12,MERGED
+chromatic-cli,Improve the failure message when there's only one git commit,https://github.com/chromaui/chromatic-cli/pull/689,2022-12-07T16:17:46Z,2022-12-08T21:57:08Z,3,3,MERGED
+chromatic-cli,Support custom DNS IP and DNS failover IP using custom DNS resolver,https://github.com/chromaui/chromatic-cli/pull/685,2022-11-30T15:34:32Z,2022-12-09T13:56:28Z,5,8,MERGED
+chromatic-cli,Enhanced TurboSnap: Trace dependency changes instead of bailing out,https://github.com/chromaui/chromatic-cli/pull/683,2022-11-25T13:49:31Z,2022-12-19T09:07:48Z,10,29,MERGED
+chromatic-cli,Log message when TurboSnap is unavailable,https://github.com/chromaui/chromatic-cli/pull/676,2022-11-14T14:07:16Z,2022-12-13T16:26:52Z,2,5,MERGED
+chromatic-cli,Output progress updates in non-interactive mode every 10 seconds,https://github.com/chromaui/chromatic-cli/pull/675,2022-11-10T12:09:50Z,2022-12-11T17:47:57Z,1,4,MERGED
+chromatic-cli,Don't bundle package.json but rely on meow's runtime value instead,https://github.com/chromaui/chromatic-cli/pull/671,2022-11-01T20:27:21Z,2022-12-12T07:49:18Z,0,2,MERGED
+chromatic-cli,Disconnect Preserve missing from `--only-story-names` flag,https://github.com/chromaui/chromatic-cli/pull/730,2023-03-29T19:55:54Z,2023-04-04T21:56:45Z,0,2,MERGED
+chromatic-cli,Don't bail out of TurboSnap if we fail to checkout a file,https://github.com/chromaui/chromatic-cli/pull/727,2023-03-18T05:36:50Z,2023-03-20T04:14:21Z,0,2,CLOSED
+chromatic-cli,Increase timeout on Storybook Verify,https://github.com/chromaui/chromatic-cli/pull/726,2023-03-17T18:31:52Z,2023-03-17T18:55:06Z,1,2,MERGED
+chromatic-cli,Update `changedFiles` target to fix broken trace utility,https://github.com/chromaui/chromatic-cli/pull/718,2023-02-23T23:45:59Z,2023-02-24T13:21:11Z,0,8,MERGED
+chromatic-cli,Add support for `issue_comment` event in GitHub Action,https://github.com/chromaui/chromatic-cli/pull/713,2023-02-06T22:46:28Z,2023-02-07T21:51:58Z,2,5,MERGED
+chromatic-cli,[Action] Infer Sha from Github Context,https://github.com/chromaui/chromatic-cli/pull/712,2023-02-06T17:52:41Z,2023-02-06T23:43:46Z,1,8,CLOSED
+chromatic-cli,"Add `--repository-slug` flag to CLI, and `repositorySlug` + `branchName` options to Action",https://github.com/chromaui/chromatic-cli/pull/710,2023-01-20T15:06:31Z,2023-01-23T19:15:35Z,5,17,MERGED
+chromatic-cli,Add JUnit Report to Github Action Inputs,https://github.com/chromaui/chromatic-cli/pull/706,2023-01-11T01:10:36Z,2023-06-05T10:45:12Z,3,3,MERGED
+chromatic-cli,Use `CHROMATIC_PROJECT_TOKEN` environment variable rather than hardcoded value,https://github.com/chromaui/chromatic-cli/pull/750,2023-05-15T11:07:50Z,2023-06-19T10:12:59Z,3,2,MERGED
+chromatic-cli,Fix Storybook config detection by adding serverRequire to interpret files,https://github.com/chromaui/chromatic-cli/pull/747,2023-05-10T15:30:29Z,2023-05-30T13:23:49Z,5,4,MERGED
+chromatic-cli,Visual Tests Addon Support: POC,https://github.com/chromaui/chromatic-cli/pull/744,2023-05-02T06:21:18Z,2023-06-16T06:30:00Z,1,1,CLOSED
+chromatic-cli,Bump Snyk Lockfile Parser Dependency,https://github.com/chromaui/chromatic-cli/pull/743,2023-04-27T03:32:47Z,2023-05-03T16:42:23Z,2,5,MERGED
+chromatic-cli,get the builder name and version via the mainConfig for SB v7+,https://github.com/chromaui/chromatic-cli/pull/738,2023-04-06T13:53:02Z,2023-04-28T14:17:18Z,1,5,MERGED
+chromatic-cli,Better discovery for TurboSnap trace-changed and related directories,https://github.com/chromaui/chromatic-cli/pull/737,2023-04-06T04:08:37Z,2023-05-30T15:34:04Z,3,16,MERGED
+chromatic-cli,Add framework support to cli sb metadata,https://github.com/chromaui/chromatic-cli/pull/735,2023-04-05T13:44:03Z,2023-04-06T20:50:30Z,6,5,CLOSED
+chromatic-cli,Add `release` event to GitHub Action,https://github.com/chromaui/chromatic-cli/pull/734,2023-04-05T13:24:41Z,2023-06-22T14:01:20Z,1,2,MERGED
+chromatic-cli,Chromatic telemetry reports null safeguard,https://github.com/chromaui/chromatic-cli/pull/733,2023-04-04T20:58:40Z,2023-04-05T13:44:27Z,3,4,CLOSED
+chromatic-cli,Chromatic telemetry reports null,https://github.com/chromaui/chromatic-cli/pull/732,2023-04-03T19:30:17Z,2023-04-05T13:44:33Z,2,20,CLOSED
+chromatic-cli,Update snyk parser and added tests for yarn berry,https://github.com/chromaui/chromatic-cli/pull/793,2023-07-26T22:30:30Z,2023-08-07T10:37:41Z,2,4,MERGED
+chromatic-cli,Use `@antfu/ni` to support `pnpm` for Storybook build,https://github.com/chromaui/chromatic-cli/pull/789,2023-07-18T14:07:49Z,2023-09-01T13:59:23Z,11,14,MERGED
+chromatic-cli,Send build id up with upload mutation,https://github.com/chromaui/chromatic-cli/pull/788,2023-07-17T07:09:15Z,2023-07-21T20:03:12Z,2,8,MERGED
+chromatic-cli,Test,https://github.com/chromaui/chromatic-cli/pull/781,2023-06-28T08:21:32Z,2023-06-28T08:56:31Z,0,4,CLOSED
+chromatic-cli,Add support for `schedule` GitHub Action workflow trigger,https://github.com/chromaui/chromatic-cli/pull/780,2023-06-26T19:20:20Z,2023-08-07T10:39:06Z,2,1,MERGED
+chromatic-cli,"Empty line change, no visual diffs",https://github.com/chromaui/chromatic-cli/pull/777,2023-06-22T13:30:04Z,2023-07-19T22:42:44Z,0,10,CLOSED
+chromatic-cli,add test change to trigger visual diff to review,https://github.com/chromaui/chromatic-cli/pull/776,2023-06-22T11:30:50Z,2023-06-22T13:09:29Z,0,1,CLOSED
+chromatic-cli,Increase the timeout for executing Git commands,https://github.com/chromaui/chromatic-cli/pull/775,2023-06-21T14:18:26Z,2023-06-22T13:42:56Z,0,1,MERGED
+chromatic-cli,Bump loggly dep,https://github.com/chromaui/chromatic-cli/pull/773,2023-06-16T06:27:30Z,2023-06-16T13:34:55Z,0,2,MERGED
+chromatic-cli,Bump loggly dep,https://github.com/chromaui/chromatic-cli/pull/772,2023-06-15T17:59:29Z,2023-06-16T13:37:03Z,1,14,CLOSED
+chromatic-cli,Ensure we exit with a code at the end,https://github.com/chromaui/chromatic-cli/pull/770,2023-06-14T16:15:04Z,2023-06-14T17:59:07Z,1,1,MERGED
+chromatic-cli,Add isChromatic exports,https://github.com/chromaui/chromatic-cli/pull/768,2023-06-14T14:21:03Z,2023-06-14T15:37:33Z,0,1,MERGED
+chromatic-cli,Add some fields to package.json to help resolve types,https://github.com/chromaui/chromatic-cli/pull/765,2023-06-13T10:21:11Z,2023-06-15T23:57:30Z,2,5,MERGED
+chromatic-cli,Move all depenendencies to dev deps,https://github.com/chromaui/chromatic-cli/pull/764,2023-06-13T04:52:57Z,2023-06-13T05:00:05Z,4,3,MERGED
+chromatic-cli,Fix issue with `onTaskComplete` callback,https://github.com/chromaui/chromatic-cli/pull/763,2023-06-13T04:37:09Z,2023-06-13T05:38:41Z,0,5,MERGED
+chromatic-cli,Add story to trigger review,https://github.com/chromaui/chromatic-cli/pull/761,2023-06-05T23:59:30Z,2023-06-16T13:37:14Z,0,1,CLOSED
+chromatic-cli,Remove Azure Pipelines CI,https://github.com/chromaui/chromatic-cli/pull/759,2023-06-05T13:38:16Z,2023-06-16T13:36:37Z,0,2,MERGED
+chromatic-cli,Add additional logging for turbosnap,https://github.com/chromaui/chromatic-cli/pull/758,2023-06-05T13:17:48Z,2023-06-08T02:36:37Z,6,12,MERGED
+chromatic-cli,Fix types and Yarn classic compatibility,https://github.com/chromaui/chromatic-cli/pull/757,2023-06-04T17:44:36Z,2023-06-05T06:27:39Z,0,2,MERGED
+chromatic-cli,Added `onTaskComplete` callback option,https://github.com/chromaui/chromatic-cli/pull/756,2023-06-02T13:11:02Z,2023-06-13T01:11:55Z,6,2,MERGED
+chromatic-cli,Add a node entry point,https://github.com/chromaui/chromatic-cli/pull/755,2023-06-02T12:56:26Z,2023-06-13T01:06:38Z,18,27,MERGED
+chromatic-cli,Add type statement,https://github.com/chromaui/chromatic-cli/pull/754,2023-06-02T00:49:19Z,2023-06-06T13:20:16Z,1,5,MERGED
+chromatic-cli,update getStorybookMetadata to safely record version even if fails to parse mainConfig,https://github.com/chromaui/chromatic-cli/pull/753,2023-06-02T00:26:48Z,2023-06-08T03:24:55Z,2,8,MERGED
+chromatic-cli,Updated to yarn3 and fixed trace test,https://github.com/chromaui/chromatic-cli/pull/752,2023-06-01T15:48:59Z,2023-06-04T20:31:53Z,2,9,CLOSED
+chromatic-cli,Test extended timeout for custom registry,https://github.com/chromaui/chromatic-cli/pull/850,2023-10-27T20:37:41Z,2023-11-15T13:49:52Z,0,1,CLOSED
+chromatic-cli,Configure auto with `prerelease` setting and update readme,https://github.com/chromaui/chromatic-cli/pull/847,2023-10-26T13:54:11Z,2023-10-26T14:15:23Z,1,1,MERGED
+chromatic-cli,Fix config for Auto and add `next-release` tag to trigger a `next` release,https://github.com/chromaui/chromatic-cli/pull/846,2023-10-26T09:59:57Z,2023-10-26T12:43:30Z,1,3,MERGED
+chromatic-cli,Fix use of `LoggingRenderer` after bad merge,https://github.com/chromaui/chromatic-cli/pull/845,2023-10-25T09:16:32Z,2023-10-26T09:09:59Z,0,1,MERGED
+chromatic-cli,Upgrade dependencies,https://github.com/chromaui/chromatic-cli/pull/844,2023-10-25T08:42:11Z,2024-05-21T11:57:24Z,0,1,CLOSED
+chromatic-cli,Fix `ENOENT` when uploading stats file with `--upload-metadata`,https://github.com/chromaui/chromatic-cli/pull/843,2023-10-24T22:31:09Z,2023-10-26T11:54:00Z,0,4,MERGED
+chromatic-cli,Add workflow to require certain PR labels before merging,https://github.com/chromaui/chromatic-cli/pull/841,2023-10-22T13:08:17Z,2023-10-23T20:42:23Z,1,1,MERGED
+chromatic-cli,Fix reading `diagnostics` from undefined,https://github.com/chromaui/chromatic-cli/pull/840,2023-10-18T14:23:03Z,2023-10-23T20:41:50Z,5,5,MERGED
+chromatic-cli,Drop official support for Node 14/16,https://github.com/chromaui/chromatic-cli/pull/839,2023-10-18T08:37:42Z,2023-11-09T13:23:42Z,4,14,MERGED
+chromatic-cli,Only release 'latest' GitHub Action from `main` branch,https://github.com/chromaui/chromatic-cli/pull/837,2023-10-13T20:47:37Z,2023-10-13T21:13:26Z,0,1,MERGED
+chromatic-cli,Write to log file and add `--upload-metadata` to publish metadata files,https://github.com/chromaui/chromatic-cli/pull/836,2023-10-12T10:59:23Z,2023-10-24T06:34:41Z,3,28,MERGED
+chromatic-cli,Support untraced flag in dependency tracing fallback scenario (for pnpm),https://github.com/chromaui/chromatic-cli/pull/835,2023-10-11T14:15:09Z,2023-10-13T13:50:00Z,1,4,MERGED
+chromatic-cli,Updated the check for untraced,https://github.com/chromaui/chromatic-cli/pull/834,2023-10-10T20:40:37Z,2023-10-11T14:20:42Z,2,1,CLOSED
+chromatic-cli,Gracefully handle gpg signature info in `git log` output,https://github.com/chromaui/chromatic-cli/pull/833,2023-10-09T12:04:52Z,2023-10-10T19:22:23Z,1,2,MERGED
+chromatic-cli,Improvements to auto release workflow,https://github.com/chromaui/chromatic-cli/pull/832,2023-10-05T07:54:31Z,2023-10-13T13:50:00Z,2,15,MERGED
+chromatic-cli,Enable to override commit sha on github action,https://github.com/chromaui/chromatic-cli/pull/829,2023-10-03T06:11:10Z,2024-11-06T21:48:13Z,2,1,CLOSED
+chromatic-cli,Replace release script with auto shipit,https://github.com/chromaui/chromatic-cli/pull/828,2023-10-02T14:21:02Z,2023-10-04T12:57:34Z,3,14,MERGED
+chromatic-cli,Fix dependency tracing for monorepos with no `package.json` at the repository root,https://github.com/chromaui/chromatic-cli/pull/827,2023-10-02T13:31:32Z,2023-10-06T10:43:38Z,1,3,MERGED
+chromatic-cli,Pass runtime metadata in `announceBuild`,https://github.com/chromaui/chromatic-cli/pull/826,2023-10-02T12:03:38Z,2023-10-10T19:22:39Z,1,3,MERGED
+chromatic-cli,Merge Group (Queues) GitHub Action Event Support,https://github.com/chromaui/chromatic-cli/pull/825,2023-09-28T14:50:15Z,2023-10-31T19:09:23Z,1,2,MERGED
+chromatic-cli,Allow Github merge queues,https://github.com/chromaui/chromatic-cli/pull/823,2023-09-25T17:53:07Z,2023-10-31T20:45:26Z,5,6,CLOSED
+chromatic-cli,Add `experimental_abortSignal` to Node API to allow canceling builds,https://github.com/chromaui/chromatic-cli/pull/822,2023-09-22T07:35:52Z,2023-09-22T16:02:40Z,2,4,MERGED
+chromatic-cli,"Migrate from Jest to Vitest, update ESLint config and upgrade Execa",https://github.com/chromaui/chromatic-cli/pull/821,2023-09-21T09:20:09Z,2023-09-22T07:26:11Z,2,11,MERGED
+chromatic-cli,(Nothing),https://github.com/chromaui/chromatic-cli/pull/820,2023-09-20T21:53:46Z,2023-09-22T07:26:13Z,3,5,MERGED
+chromatic-cli,No longer log to loggly,https://github.com/chromaui/chromatic-cli/pull/819,2023-09-18T02:34:55Z,2023-09-18T10:33:18Z,0,2,MERGED
+chromatic-cli,empty,https://github.com/chromaui/chromatic-cli/pull/817,2023-09-14T04:52:02Z,2023-11-07T17:54:00Z,0,1,CLOSED
+chromatic-cli,Add support for a JSON configuration file,https://github.com/chromaui/chromatic-cli/pull/816,2023-09-14T04:01:09Z,2023-09-14T04:48:30Z,1,3,CLOSED
+chromatic-cli,Add support for a JSON configuration file,https://github.com/chromaui/chromatic-cli/pull/814,2023-09-11T11:33:21Z,2023-09-14T07:17:04Z,11,21,MERGED
+chromatic-cli,Rename `onTaskError` to `experimental_onTaskError`,https://github.com/chromaui/chromatic-cli/pull/813,2023-09-06T23:40:26Z,2023-09-06T23:59:54Z,0,2,MERGED
+chromatic-cli,Allow running a build from a repo with only one commit when not in CI,https://github.com/chromaui/chromatic-cli/pull/812,2023-09-06T05:14:54Z,2023-09-06T12:59:16Z,2,7,MERGED
+chromatic-cli,"Add `onTaskStart`, and a new typed field `ctx.task`",https://github.com/chromaui/chromatic-cli/pull/810,2023-09-04T01:43:06Z,2023-09-06T23:35:14Z,1,9,MERGED
+chromatic-cli,Add `onTaskError` option to report errors to node consumers,https://github.com/chromaui/chromatic-cli/pull/808,2023-08-30T17:45:19Z,2023-09-05T20:55:57Z,2,6,MERGED
+chromatic-cli,Add a `onTaskProgress` option and report progress on it,https://github.com/chromaui/chromatic-cli/pull/805,2023-08-28T06:04:01Z,2023-08-31T03:01:34Z,2,2,MERGED
+chromatic-cli,Add Modes Suffix to CLI Progress Indicator,https://github.com/chromaui/chromatic-cli/pull/803,2023-08-24T16:11:58Z,2023-08-25T16:54:10Z,1,4,MERGED
+chromatic-cli,Include all commit info in `GitInfo`,https://github.com/chromaui/chromatic-cli/pull/802,2023-08-23T15:07:16Z,2023-08-24T16:39:30Z,1,3,MERGED
+chromatic-cli,Fix `Unexpected build status: PREPARED` error,https://github.com/chromaui/chromatic-cli/pull/801,2023-08-23T14:56:49Z,2023-08-24T15:02:06Z,1,2,MERGED
+chromatic-cli,Fix type signature for `runAll` and `runBuild`,https://github.com/chromaui/chromatic-cli/pull/800,2023-08-23T04:04:05Z,2023-08-24T00:54:58Z,1,1,MERGED
+chromatic-cli,Calculate and record `uncommittedHash` when creating a build,https://github.com/chromaui/chromatic-cli/pull/798,2023-08-11T07:18:57Z,2023-08-15T14:21:37Z,4,6,MERGED
+chromatic-cli,Pass `gitUserEmailHash` up with new builds and use `localBuilds` filter in baseline calculations,https://github.com/chromaui/chromatic-cli/pull/796,2023-08-08T11:28:14Z,2023-08-22T00:36:58Z,7,23,MERGED
+chromatic-cli,Add `--local` flag and pass to builds as `isLocalBuild`,https://github.com/chromaui/chromatic-cli/pull/795,2023-08-08T07:32:31Z,2023-08-21T04:52:34Z,4,4,MERGED
+chromatic-cli,Add `getGitInfo` function exported by the Node API,https://github.com/chromaui/chromatic-cli/pull/794,2023-08-02T12:18:34Z,2023-08-04T07:04:10Z,2,2,MERGED
+chromatic-cli,Add new Init command for Project Setup,https://github.com/chromaui/chromatic-cli/pull/880,2023-12-20T18:14:44Z,2024-01-23T18:54:00Z,19,19,MERGED
+chromatic-cli,Allow overriding `NODE_ENV` with `STORYBOOK_NODE_ENV`,https://github.com/chromaui/chromatic-cli/pull/879,2023-12-20T07:28:23Z,2023-12-21T23:05:34Z,2,1,MERGED
+chromatic-cli,Retrieve `sentinelUrls` from `uploadBuild` and wait for all of them before finishing upload task,https://github.com/chromaui/chromatic-cli/pull/878,2023-12-19T10:42:52Z,2024-01-16T11:19:09Z,1,11,MERGED
+chromatic-cli,Run publish-action script as afterShipIt hook,https://github.com/chromaui/chromatic-cli/pull/877,2023-12-18T15:50:50Z,2023-12-22T12:10:54Z,1,2,MERGED
+chromatic-cli,Replace `getUploadUrls` with `uploadBuild` mutation,https://github.com/chromaui/chromatic-cli/pull/876,2023-12-13T16:22:32Z,2023-12-15T19:10:33Z,4,12,MERGED
+chromatic-cli,Deduplicate files to be uploaded using file hashing,https://github.com/chromaui/chromatic-cli/pull/875,2023-12-13T15:50:37Z,2024-01-16T12:31:35Z,2,4,MERGED
+chromatic-cli,Make `@storybook/csf-tools` a peer dependency,https://github.com/chromaui/chromatic-cli/pull/874,2023-12-12T01:10:13Z,2023-12-16T03:33:33Z,4,5,CLOSED
+chromatic-cli,Use code splitting in tsup CJS output,https://github.com/chromaui/chromatic-cli/pull/873,2023-12-11T05:36:57Z,2023-12-14T04:33:27Z,1,2,MERGED
+chromatic-cli,Implement file hashing for to-be-uploaded files,https://github.com/chromaui/chromatic-cli/pull/870,2023-12-06T14:16:49Z,2023-12-13T15:15:35Z,5,5,MERGED
+chromatic-cli,Increase number of commits checked for squash merge,https://github.com/chromaui/chromatic-cli/pull/866,2023-11-30T23:35:40Z,2023-12-07T17:11:06Z,8,11,MERGED
+chromatic-cli,Force `NODE_ENV=production` for Storybook builds through the CLI,https://github.com/chromaui/chromatic-cli/pull/865,2023-11-30T02:50:30Z,2023-12-01T11:42:06Z,11,1,MERGED
+chromatic-cli,Support pinning GitHub Action to major or patch version,https://github.com/chromaui/chromatic-cli/pull/863,2023-11-28T09:49:51Z,2023-11-30T20:39:14Z,2,8,MERGED
+chromatic-cli,Update A.js,https://github.com/chromaui/chromatic-cli/pull/861,2023-11-22T03:02:41Z,2024-01-25T15:24:19Z,0,1,CLOSED
+chromatic-cli,Redact `userToken` in diagnostics and fatal error output,https://github.com/chromaui/chromatic-cli/pull/859,2023-11-17T13:17:54Z,2023-11-17T14:30:47Z,2,2,MERGED
+chromatic-cli,Update logs to check the branch name in CI,https://github.com/chromaui/chromatic-cli/pull/857,2023-11-16T14:55:12Z,2023-12-17T21:51:35Z,0,7,CLOSED
+chromatic-cli,Feature/add pnpm lock,https://github.com/chromaui/chromatic-cli/pull/856,2023-11-14T19:57:28Z,2024-11-06T21:47:24Z,2,2,CLOSED
+chromatic-cli,"Don't write `chromatic.log` by default, allow configuring log files",https://github.com/chromaui/chromatic-cli/pull/855,2023-11-14T08:45:30Z,2023-11-17T14:43:37Z,2,6,MERGED
+chromatic-cli,Fix changelog for 9.0.0 and update auto config to prevent issue in the future,https://github.com/chromaui/chromatic-cli/pull/854,2023-11-10T14:55:54Z,2023-11-10T15:09:30Z,4,2,MERGED
+chromatic-cli,add support to pnpm-lock.yaml file,https://github.com/chromaui/chromatic-cli/pull/853,2023-11-10T11:05:12Z,2024-11-06T21:47:48Z,7,2,CLOSED
+chromatic-cli,Support `projectId` + `userToken` as alternative to `projectToken` for auth,https://github.com/chromaui/chromatic-cli/pull/852,2023-11-06T13:23:53Z,2023-11-10T14:39:21Z,2,1,MERGED
+chromatic-cli,Added logger parameter,https://github.com/chromaui/chromatic-cli/pull/851,2023-11-03T15:27:55Z,2024-01-24T19:00:02Z,1,7,CLOSED
+chromatic-cli,Suppress issues caused by missing Git remote,https://github.com/chromaui/chromatic-cli/pull/962,2024-03-28T16:00:32Z,2024-03-29T10:36:21Z,2,1,MERGED
+chromatic-cli,Throw user-friendly error when config file fails to parse as JSON,https://github.com/chromaui/chromatic-cli/pull/961,2024-03-28T07:42:31Z,2024-03-29T10:36:21Z,2,4,MERGED
+chromatic-cli,Trim `v` prefix from shipIt's version to avoid double prefixing tags,https://github.com/chromaui/chromatic-cli/pull/960,2024-03-20T11:15:08Z,2024-03-20T15:11:44Z,2,1,MERGED
+chromatic-cli,[trigger] Feature/allow build dir and build script name,https://github.com/chromaui/chromatic-cli/pull/959,2024-03-20T09:13:03Z,2024-03-20T09:31:02Z,0,9,MERGED
+chromatic-cli,Fix GitHub Action release script using data from Auto shipIt hook rather than from Git,https://github.com/chromaui/chromatic-cli/pull/956,2024-03-19T12:15:48Z,2024-03-19T23:41:44Z,1,4,MERGED
+chromatic-cli,[trigger] Add `skipUpdateCheck` option,https://github.com/chromaui/chromatic-cli/pull/952,2024-03-19T07:41:31Z,2024-03-19T08:02:21Z,0,7,MERGED
+chromatic-cli,Properly handle GitHub Action inputs that can have multiple values,https://github.com/chromaui/chromatic-cli/pull/951,2024-03-15T00:16:33Z,2024-03-20T00:14:43Z,2,2,MERGED
+chromatic-cli,Report code coverage to Codacy,https://github.com/chromaui/chromatic-cli/pull/950,2024-03-14T17:52:29Z,2024-03-15T15:10:29Z,3,2,MERGED
+chromatic-cli,Tell SB8 users to pass `--stats-json` rather than `--webpack-stats-json`,https://github.com/chromaui/chromatic-cli/pull/948,2024-03-13T04:55:45Z,2024-03-13T08:05:13Z,1,1,MERGED
+chromatic-cli,Fixes for various issues reported by Codacy,https://github.com/chromaui/chromatic-cli/pull/947,2024-03-12T08:16:11Z,2024-03-13T08:57:17Z,1,3,MERGED
+chromatic-cli,Restrict permissions in GitHub Action workflows,https://github.com/chromaui/chromatic-cli/pull/946,2024-03-12T07:57:06Z,2024-03-13T08:14:55Z,1,2,MERGED
+chromatic-cli,Fix e2e peer dep versions,https://github.com/chromaui/chromatic-cli/pull/943,2024-03-08T23:05:25Z,2024-03-11T16:24:14Z,3,1,MERGED
+chromatic-cli,escape special characters in onlyStoryFiles filenames,https://github.com/chromaui/chromatic-cli/pull/942,2024-03-07T18:32:44Z,2024-03-07T19:38:47Z,2,1,MERGED
+chromatic-cli,Do not prompt to install chromatic script during E2E builds,https://github.com/chromaui/chromatic-cli/pull/941,2024-03-06T18:15:04Z,2024-03-06T20:12:45Z,3,4,MERGED
+chromatic-cli,Expose E2E build errors,https://github.com/chromaui/chromatic-cli/pull/940,2024-03-06T00:55:15Z,2024-03-07T21:47:52Z,13,10,MERGED
+chromatic-cli,Update log.ts temp,https://github.com/chromaui/chromatic-cli/pull/939,2024-03-05T17:51:07Z,2024-03-05T18:56:33Z,0,1,CLOSED
+chromatic-cli,Allow commit hash to not be known when finding merge queue PR number [with github secrets],https://github.com/chromaui/chromatic-cli/pull/938,2024-03-05T13:22:55Z,2024-03-05T13:31:56Z,0,7,MERGED
+chromatic-cli,Fix support for boolean value to `junitReport` option,https://github.com/chromaui/chromatic-cli/pull/937,2024-03-05T03:30:50Z,2024-03-05T20:24:27Z,1,2,MERGED
+chromatic-cli,Allow passing both `buildScriptName` and `storybookBuildDir`,https://github.com/chromaui/chromatic-cli/pull/934,2024-03-01T12:41:39Z,2024-03-20T09:31:02Z,7,9,MERGED
+chromatic-cli,Display full error message when storybookBaseDir is invalid,https://github.com/chromaui/chromatic-cli/pull/932,2024-03-01T02:22:09Z,2024-03-06T03:30:08Z,1,3,MERGED
+chromatic-cli,Prevent non-string or null message in timestamp logging from causing exit code 254 during build.,https://github.com/chromaui/chromatic-cli/pull/931,2024-02-27T18:28:35Z,2024-03-08T14:08:43Z,5,1,MERGED
+chromatic-cli,add ability to override status check,https://github.com/chromaui/chromatic-cli/pull/930,2024-02-27T02:04:01Z,2024-02-27T14:13:45Z,0,2,CLOSED
+chromatic-cli,Allow commit hash to not be known when finding merge queue PR number,https://github.com/chromaui/chromatic-cli/pull/929,2024-02-23T10:59:36Z,2024-03-05T13:31:55Z,1,7,MERGED
+chromatic-cli,Add `skipUpdateCheck` option,https://github.com/chromaui/chromatic-cli/pull/928,2024-02-22T10:08:32Z,2024-03-19T08:02:20Z,5,7,MERGED
+chromatic-cli,Avoid build verify timeout when waiting for upgrade builds,https://github.com/chromaui/chromatic-cli/pull/922,2024-02-15T14:17:56Z,2024-02-16T15:40:47Z,1,11,MERGED
+chromatic-cli,Add new invalid sb base dir error message and validator function,https://github.com/chromaui/chromatic-cli/pull/921,2024-02-13T04:38:59Z,2024-02-22T15:47:44Z,11,38,MERGED
+chromatic-cli,Fix Storybook published messaging,https://github.com/chromaui/chromatic-cli/pull/920,2024-02-12T20:19:51Z,2024-02-14T17:00:25Z,5,4,MERGED
+chromatic-cli,clean up debug log as it's too much noise,https://github.com/chromaui/chromatic-cli/pull/919,2024-02-09T14:42:46Z,2024-02-09T15:13:40Z,1,1,MERGED
+chromatic-cli,Add missing `fileHashing` option to GitHub Action,https://github.com/chromaui/chromatic-cli/pull/918,2024-02-08T11:17:08Z,2024-02-08T12:53:38Z,1,1,MERGED
+chromatic-cli,Directly execute build-archive-storybook if we can't resolve it,https://github.com/chromaui/chromatic-cli/pull/917,2024-02-08T00:46:51Z,2024-02-08T18:12:43Z,4,7,MERGED
+chromatic-cli,Allow `traceChanged` in Chromatic config spec,https://github.com/chromaui/chromatic-cli/pull/916,2024-02-07T21:25:34Z,2024-02-12T17:20:33Z,1,1,MERGED
+chromatic-cli,Bundle in Chromatic Integration Packages,https://github.com/chromaui/chromatic-cli/pull/915,2024-02-07T17:20:22Z,2024-02-08T02:42:30Z,0,1,CLOSED
+chromatic-cli,"Expose `repositoryRootDir`, `configFile` and fix `diagnosticsFile`",https://github.com/chromaui/chromatic-cli/pull/913,2024-02-06T14:23:57Z,2024-02-06T16:08:31Z,1,6,MERGED
+chromatic-cli,Be smarter about comparing lock files,https://github.com/chromaui/chromatic-cli/pull/912,2024-02-05T11:52:43Z,2024-02-07T05:29:44Z,7,11,MERGED
+chromatic-cli,Add Fallback getGitInfo if we cannot find the origin URL,https://github.com/chromaui/chromatic-cli/pull/910,2024-02-02T03:54:04Z,2024-02-02T05:33:23Z,3,1,MERGED
+chromatic-cli,Rename E2E peer dependencies,https://github.com/chromaui/chromatic-cli/pull/909,2024-02-01T20:48:18Z,2024-02-02T00:34:02Z,1,1,MERGED
+chromatic-cli,Add timestamps to debug and file logging,https://github.com/chromaui/chromatic-cli/pull/907,2024-01-31T13:50:09Z,2024-02-06T14:34:11Z,1,1,MERGED
+chromatic-cli,Remove after-release script,https://github.com/chromaui/chromatic-cli/pull/906,2024-01-26T23:42:38Z,2024-01-26T23:55:43Z,1,1,MERGED
+chromatic-cli,Testing,https://github.com/chromaui/chromatic-cli/pull/905,2024-01-26T17:35:35Z,2024-01-26T17:55:07Z,0,1,CLOSED
+chromatic-cli,npx test,https://github.com/chromaui/chromatic-cli/pull/903,2024-01-25T17:32:07Z,2024-01-25T18:27:20Z,0,1,CLOSED
+chromatic-cli,Remove latest from the chromatic package in Init script,https://github.com/chromaui/chromatic-cli/pull/902,2024-01-25T17:21:55Z,2024-01-25T18:40:41Z,1,1,MERGED
+chromatic-cli,"Don't skip uploading of empty files, it works now",https://github.com/chromaui/chromatic-cli/pull/901,2024-01-25T14:26:10Z,2024-01-25T14:58:43Z,1,2,MERGED
+chromatic-cli,"Add ""package.json"" to exports map",https://github.com/chromaui/chromatic-cli/pull/900,2024-01-25T08:58:57Z,2024-01-25T15:29:31Z,1,1,MERGED
+chromatic-cli,CLI should throw error when using TurboSnap but missing a stats file.,https://github.com/chromaui/chromatic-cli/pull/899,2024-01-25T03:45:24Z,2024-01-26T03:27:41Z,1,3,MERGED
+chromatic-cli,Added initial logging and calls for Storybok directories,https://github.com/chromaui/chromatic-cli/pull/898,2024-01-25T02:04:15Z,2024-01-26T17:26:02Z,0,2,CLOSED
+chromatic-cli,"Support `env`, `sessionId` and `log` options via Node API",https://github.com/chromaui/chromatic-cli/pull/897,2024-01-24T18:56:22Z,2024-02-06T14:44:36Z,1,2,MERGED
+chromatic-cli,Improve logging around upload errors,https://github.com/chromaui/chromatic-cli/pull/894,2024-01-18T20:42:20Z,2024-01-25T15:24:31Z,1,5,MERGED
+chromatic-cli,Fix potential zip upload error when deduping files on a very large Storybook,https://github.com/chromaui/chromatic-cli/pull/892,2024-01-17T13:29:00Z,2024-01-17T15:12:53Z,2,2,MERGED
+chromatic-cli,Add missing `skip` option to configuration schema,https://github.com/chromaui/chromatic-cli/pull/890,2024-01-16T10:25:28Z,2024-01-16T14:14:13Z,4,2,MERGED
+chromatic-cli,Replace upload mechanism to use a batched mutation with a new API,https://github.com/chromaui/chromatic-cli/pull/888,2024-01-12T10:59:51Z,2024-01-16T12:28:19Z,1,19,MERGED
+chromatic-cli,"Revert ""Revert ""Replace `getUploadUrls` with `uploadBuild` mutation""""",https://github.com/chromaui/chromatic-cli/pull/887,2024-01-11T20:04:50Z,2024-01-11T20:05:42Z,1,1,CLOSED
+chromatic-cli,Add configFile option to GitHub Action,https://github.com/chromaui/chromatic-cli/pull/886,2024-01-11T15:29:46Z,2024-01-12T21:08:10Z,1,1,CLOSED
+chromatic-cli,Add configFile option to GitHub Action ,https://github.com/chromaui/chromatic-cli/pull/885,2024-01-11T06:14:03Z,2024-01-12T21:09:46Z,2,1,MERGED
+chromatic-cli,Detect merge queue branch and retrieve real branch name from pull request,https://github.com/chromaui/chromatic-cli/pull/884,2024-01-10T20:28:41Z,2024-01-16T14:07:11Z,6,6,MERGED
+chromatic-cli,"Revert ""Replace `getUploadUrls` with `uploadBuild` mutation""",https://github.com/chromaui/chromatic-cli/pull/883,2024-01-10T18:44:46Z,2024-01-10T18:55:43Z,2,1,MERGED
+chromatic-cli,Add `--playwright` & `--cypress` flags,https://github.com/chromaui/chromatic-cli/pull/882,2024-01-09T11:50:46Z,2024-01-24T03:49:21Z,9,11,MERGED
+chromatic-cli,Only replace *local* builds with uncommitted changes,https://github.com/chromaui/chromatic-cli/pull/994,2024-05-31T13:02:16Z,2024-06-03T18:37:30Z,3,2,MERGED
+chromatic-cli,Pass `SLACK_WEBHOOK_URL` to release script,https://github.com/chromaui/chromatic-cli/pull/992,2024-05-27T12:18:32Z,2024-05-27T13:41:53Z,2,1,MERGED
+chromatic-cli,Pass `CI=1` environment variable to Storybook build command to disable prompts,https://github.com/chromaui/chromatic-cli/pull/991,2024-05-24T13:45:37Z,2024-05-27T11:52:56Z,2,2,MERGED
+chromatic-cli,Setup Slack plugin for auto to notify on new CLI releases,https://github.com/chromaui/chromatic-cli/pull/990,2024-05-22T08:32:41Z,2024-05-22T13:20:43Z,2,2,MERGED
+chromatic-cli,Upgrade Storybook to 8.1,https://github.com/chromaui/chromatic-cli/pull/989,2024-05-21T19:36:24Z,2024-05-31T16:59:55Z,15,27,MERGED
+chromatic-cli,Use replacement build for baseline build with uncommitted changes,https://github.com/chromaui/chromatic-cli/pull/988,2024-05-17T11:51:42Z,2024-05-21T12:46:25Z,4,1,MERGED
+chromatic-cli,Switch package manager to pnpm and upgrade to Storybook 8,https://github.com/chromaui/chromatic-cli/pull/987,2024-05-17T10:38:57Z,2024-06-10T06:59:42Z,7,34,CLOSED
+chromatic-cli,Fix type declaration for `isChromatic` import,https://github.com/chromaui/chromatic-cli/pull/986,2024-05-14T23:31:15Z,2024-05-15T13:19:21Z,2,1,MERGED
+chromatic-cli,Use double quotes around command arguments,https://github.com/chromaui/chromatic-cli/pull/985,2024-05-14T23:08:30Z,2024-05-15T16:19:18Z,2,1,MERGED
+chromatic-cli,chore: fix types for main import,https://github.com/chromaui/chromatic-cli/pull/984,2024-05-14T16:11:55Z,2024-05-15T13:18:03Z,2,1,CLOSED
+chromatic-cli,Fix dependency tracing when running from a subdirectory,https://github.com/chromaui/chromatic-cli/pull/982,2024-05-13T18:33:49Z,2024-05-15T15:57:40Z,2,5,MERGED
+chromatic-cli,Try support workflow_run from PR,https://github.com/chromaui/chromatic-cli/pull/981,2024-05-10T22:56:14Z,2024-05-11T00:15:45Z,0,1,CLOSED
+chromatic-cli,Remove console log,https://github.com/chromaui/chromatic-cli/pull/979,2024-05-08T15:58:25Z,2024-05-21T11:59:19Z,2,1,MERGED
+chromatic-cli,Use current working directory as default value for `storybookBaseDir`,https://github.com/chromaui/chromatic-cli/pull/976,2024-05-08T09:48:35Z,2024-05-08T15:07:34Z,3,2,MERGED
+chromatic-cli,Properly check `storybookBaseDir` against repository root rather than CWD,https://github.com/chromaui/chromatic-cli/pull/974,2024-05-06T13:22:40Z,2024-05-07T08:09:19Z,5,2,MERGED
+chromatic-cli,Specify the ts import resolver in the eslint config,https://github.com/chromaui/chromatic-cli/pull/965,2024-04-03T21:38:11Z,2024-05-08T17:14:40Z,2,2,MERGED
+chromatic-cli,Chore: Update the Snyk parser package and add support for pnpm.,https://github.com/chromaui/chromatic-cli/pull/1019,2024-07-31T16:49:10Z,2024-07-31T16:57:11Z,2,3,CLOSED
+chromatic-cli,test setting outOfSync to false,https://github.com/chromaui/chromatic-cli/pull/1018,2024-07-26T21:47:43Z,2024-07-31T20:47:04Z,2,4,MERGED
+chromatic-cli,Added logic to account for parentheses at the beginning,https://github.com/chromaui/chromatic-cli/pull/1016,2024-07-22T15:05:51Z,2024-07-31T12:24:00Z,4,6,MERGED
+chromatic-cli,Support non-local ancestor builds with `uncommittedHash`,https://github.com/chromaui/chromatic-cli/pull/1015,2024-07-19T00:41:05Z,2024-07-19T16:39:21Z,5,2,MERGED
+chromatic-cli,Testing PR #1011,https://github.com/chromaui/chromatic-cli/pull/1012,2024-07-08T16:00:19Z,2024-07-08T20:09:28Z,1,1,CLOSED
+chromatic-cli,Add missing skipUpdateCheck option to config schema,https://github.com/chromaui/chromatic-cli/pull/1011,2024-06-26T17:30:32Z,2024-07-08T20:09:16Z,6,4,MERGED
+chromatic-cli,Ensure GitHub Action runs in specified version of node,https://github.com/chromaui/chromatic-cli/pull/1006,2024-06-11T22:41:23Z,2024-06-12T16:13:16Z,3,4,MERGED
+chromatic-cli,Recommended files and ignored paths for yarn 4,https://github.com/chromaui/chromatic-cli/pull/1005,2024-06-11T17:57:57Z,2024-06-11T19:58:18Z,2,2,MERGED
+chromatic-cli,Chore: Update the RegEx filter to pull out empty strings,https://github.com/chromaui/chromatic-cli/pull/1004,2024-06-05T14:26:49Z,2024-06-06T08:37:40Z,3,10,MERGED
+chromatic-cli,Clean package.json before compiling into source,https://github.com/chromaui/chromatic-cli/pull/1003,2024-06-04T18:30:03Z,2024-06-06T09:17:20Z,3,1,MERGED
+chromatic-cli,Add fallback type for Storybook 6 builder syntax,https://github.com/chromaui/chromatic-cli/pull/1001,2024-06-03T12:59:41Z,2024-06-03T19:10:17Z,4,8,MERGED
+chromatic-cli,Clean package.json before publishing,https://github.com/chromaui/chromatic-cli/pull/999,2024-06-03T08:22:45Z,2024-06-03T15:07:56Z,2,2,MERGED
+chromatic-cli,Remove `packageManager` setting from package.json,https://github.com/chromaui/chromatic-cli/pull/998,2024-06-03T08:08:46Z,2024-06-03T09:39:30Z,2,1,CLOSED
+chromatic-cli,Add steps for how to run builds against local CLI,https://github.com/chromaui/chromatic-cli/pull/1113,2024-10-30T18:23:50Z,2024-10-30T19:46:16Z,5,4,MERGED
+chromatic-cli,Detect `context.projectMetadata.hasRouter` and send to the index,https://github.com/chromaui/chromatic-cli/pull/1112,2024-10-30T03:45:33Z,2024-11-07T23:10:55Z,6,9,MERGED
+chromatic-cli,Add `packageAndLockFilesOutOfSync` TurboSnap bail reason,https://github.com/chromaui/chromatic-cli/pull/1111,2024-10-29T14:53:04Z,2024-11-08T22:48:34Z,6,2,CLOSED
+chromatic-cli,Account for `rsbuild` stats JSON output and multiple locations,https://github.com/chromaui/chromatic-cli/pull/1110,2024-10-28T21:20:58Z,2024-11-04T21:38:57Z,4,1,MERGED
+chromatic-cli,Add support for `--build-command` for arbitrary build commands,https://github.com/chromaui/chromatic-cli/pull/1109,2024-10-23T19:45:06Z,2024-10-25T14:32:37Z,3,7,MERGED
+chromatic-cli,Handle ENOENT for bun as well as Node,https://github.com/chromaui/chromatic-cli/pull/1108,2024-10-22T22:07:04Z,2024-10-25T18:08:55Z,3,1,MERGED
+chromatic-cli,"Add support for `logLevel` and `logPrefix` options, use local timestamp as default prefix",https://github.com/chromaui/chromatic-cli/pull/1107,2024-10-21T20:09:05Z,2024-10-23T15:36:53Z,9,12,MERGED
+chromatic-cli,Switch to read-package-up from read-pkg-up,https://github.com/chromaui/chromatic-cli/pull/1106,2024-10-21T17:38:37Z,2024-10-21T20:12:31Z,3,2,MERGED
+chromatic-cli,Only run `package-size` on pull request,https://github.com/chromaui/chromatic-cli/pull/1105,2024-10-21T15:57:56Z,2024-10-21T16:50:12Z,3,1,MERGED
+chromatic-cli,Fix `.env` parsing,https://github.com/chromaui/chromatic-cli/pull/1104,2024-10-21T14:52:42Z,2024-10-21T15:56:08Z,4,1,MERGED
+chromatic-cli,Setup workflow for PR checks,https://github.com/chromaui/chromatic-cli/pull/1102,2024-10-18T16:57:28Z,2024-10-18T20:02:08Z,4,4,MERGED
+chromatic-cli,Better handling of undefined values in branches,https://github.com/chromaui/chromatic-cli/pull/1101,2024-10-18T16:55:32Z,2024-10-21T15:22:14Z,8,3,MERGED
+chromatic-cli,Rename new action job name for merge queue UI,https://github.com/chromaui/chromatic-cli/pull/1100,2024-10-18T15:42:45Z,2024-10-18T15:48:37Z,3,2,MERGED
+chromatic-cli,Add new check to test the CLI action in merge queue,https://github.com/chromaui/chromatic-cli/pull/1098,2024-10-17T22:30:31Z,2024-10-18T15:39:46Z,3,3,MERGED
+chromatic-cli,Update task output to account for E2E,https://github.com/chromaui/chromatic-cli/pull/1096,2024-10-16T21:04:53Z,2024-10-21T20:58:39Z,5,19,MERGED
+chromatic-cli,Add nicer formatting to TS bail reasons.,https://github.com/chromaui/chromatic-cli/pull/1095,2024-10-11T15:44:25Z,2024-10-17T15:24:21Z,6,3,MERGED
+chromatic-cli,Add context to sentinel upload failures.,https://github.com/chromaui/chromatic-cli/pull/1094,2024-10-10T20:55:35Z,2024-10-17T18:55:13Z,5,5,MERGED
+chromatic-cli,Fix GITHUB_REF check on release,https://github.com/chromaui/chromatic-cli/pull/1093,2024-10-09T20:35:06Z,2024-10-10T16:18:11Z,3,1,MERGED
+chromatic-cli,Manually update `package.json` and `CHANGELOG.md` v4,https://github.com/chromaui/chromatic-cli/pull/1092,2024-10-09T18:35:25Z,2024-10-09T20:28:42Z,3,1,MERGED
+chromatic-cli,Manually update `package.json` and `CHANGELOG.md` v3,https://github.com/chromaui/chromatic-cli/pull/1091,2024-10-09T18:23:15Z,2024-10-09T18:27:57Z,2,1,MERGED
+chromatic-cli,Manually update `package.json` and `CHANGELOG.md` v2,https://github.com/chromaui/chromatic-cli/pull/1090,2024-10-09T15:32:54Z,2024-10-09T16:16:28Z,2,1,MERGED
+chromatic-cli,Manually update `package.json` and `CHANGELOG.md`,https://github.com/chromaui/chromatic-cli/pull/1089,2024-10-09T15:16:31Z,2024-10-09T15:23:47Z,2,2,MERGED
+chromatic-cli,Move deployment to single script,https://github.com/chromaui/chromatic-cli/pull/1088,2024-10-08T20:24:50Z,2024-10-09T14:58:16Z,2,2,MERGED
+chromatic-cli,Skip publish-action on `--dry-run`,https://github.com/chromaui/chromatic-cli/pull/1086,2024-10-08T18:55:23Z,2024-10-08T20:33:02Z,3,2,CLOSED
+chromatic-cli,Migrate linting and tests to GitHub Actions,https://github.com/chromaui/chromatic-cli/pull/1085,2024-10-08T16:27:38Z,2024-10-08T20:55:18Z,2,3,MERGED
+chromatic-cli,Add Sentry Releases,https://github.com/chromaui/chromatic-cli/pull/1084,2024-10-07T19:44:34Z,2024-10-08T18:17:05Z,7,11,MERGED
+chromatic-cli,Account for `--exit-zero-on-changes=true`,https://github.com/chromaui/chromatic-cli/pull/1083,2024-10-07T16:23:07Z,2024-10-07T17:19:07Z,2,1,MERGED
+chromatic-cli,Do not run Sentry in dev,https://github.com/chromaui/chromatic-cli/pull/1082,2024-10-07T16:13:01Z,2024-10-07T17:15:31Z,2,1,MERGED
+chromatic-cli,Show steps for initializing a new Git repo,https://github.com/chromaui/chromatic-cli/pull/1081,2024-10-04T20:42:06Z,2024-10-07T16:58:25Z,3,2,MERGED
+chromatic-cli,Fix CLI version output,https://github.com/chromaui/chromatic-cli/pull/1079,2024-10-03T22:00:48Z,2024-10-07T17:23:55Z,2,3,MERGED
+chromatic-cli,Add TypeScript checking to CI pipeline,https://github.com/chromaui/chromatic-cli/pull/1078,2024-10-03T20:37:28Z,2024-10-04T14:32:16Z,2,1,MERGED
+chromatic-cli,Upgrade `subdir` deps,https://github.com/chromaui/chromatic-cli/pull/1077,2024-10-03T16:25:42Z,2024-10-03T19:23:22Z,2,1,MERGED
+chromatic-cli,Ignore duplication in test files and ignore all __mocks__,https://github.com/chromaui/chromatic-cli/pull/1073,2024-10-03T14:53:43Z,2024-10-03T19:23:22Z,2,2,MERGED
+chromatic-cli,Fix remaining TypeScript errors and unable `strict: true`,https://github.com/chromaui/chromatic-cli/pull/1072,2024-10-02T21:49:17Z,2024-10-03T14:25:48Z,4,11,MERGED
+chromatic-cli,Add `Empathy` and `CLI` labels to issue templates,https://github.com/chromaui/chromatic-cli/pull/1071,2024-10-02T20:26:54Z,2024-10-02T22:00:07Z,2,2,MERGED
+chromatic-cli,Add TypeScript config from internal repo and fix some errors,https://github.com/chromaui/chromatic-cli/pull/1070,2024-10-01T22:10:22Z,2024-10-02T21:40:50Z,5,4,MERGED
+chromatic-cli,Annotate Sentry events,https://github.com/chromaui/chromatic-cli/pull/1069,2024-10-01T21:44:04Z,2024-10-02T21:28:19Z,2,3,MERGED
+chromatic-cli,Filter ANSI escape codes for Sentry,https://github.com/chromaui/chromatic-cli/pull/1068,2024-10-01T21:26:20Z,2024-10-02T17:15:25Z,5,2,MERGED
+chromatic-cli,Do not capture config/option exceptions,https://github.com/chromaui/chromatic-cli/pull/1067,2024-10-01T18:36:16Z,2024-10-01T20:14:00Z,2,1,MERGED
+chromatic-cli,Enable `eslint-plugin-jsdoc` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1066,2024-09-30T20:05:35Z,2024-09-30T22:25:49Z,2,4,MERGED
+chromatic-cli,Enable `@typescript-eslint/no-floating-promises` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1065,2024-09-30T14:57:02Z,2024-09-30T15:42:03Z,3,1,MERGED
+chromatic-cli,Enable `unicorn/prevent-abbreviations` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1064,2024-09-30T14:46:35Z,2024-09-30T20:32:15Z,4,4,MERGED
+chromatic-cli,Enable `unicorn/filename-case` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1062,2024-09-27T22:36:15Z,2024-10-01T15:22:32Z,5,4,MERGED
+chromatic-cli,Enable `unicorn/prefer-module` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1061,2024-09-27T21:50:07Z,2024-09-30T20:41:01Z,2,2,MERGED
+chromatic-cli,Include `storybookUrl` and `webUrl` on skipped rebuild,https://github.com/chromaui/chromatic-cli/pull/1060,2024-09-27T21:10:43Z,2024-09-30T20:24:36Z,3,1,MERGED
+chromatic-cli,Track package size over time.,https://github.com/chromaui/chromatic-cli/pull/1059,2024-09-24T19:55:03Z,2024-09-24T21:19:51Z,4,3,MERGED
+chromatic-cli,"Revert ""Use --stats-json flag for SB 8.0.0+""",https://github.com/chromaui/chromatic-cli/pull/1058,2024-09-24T16:52:04Z,2024-09-24T17:02:00Z,4,1,MERGED
+chromatic-cli,Enable `unicorn/no-null` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1057,2024-09-23T21:18:26Z,2024-09-27T15:15:14Z,7,3,MERGED
+chromatic-cli,Enable `unicorn/no-array-reduce` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1056,2024-09-23T16:29:35Z,2024-09-27T15:05:06Z,3,2,MERGED
+chromatic-cli,Enable `unicorn/better-regex` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1055,2024-09-23T15:24:46Z,2024-09-23T16:20:40Z,3,2,MERGED
+chromatic-cli,Enable `unicorn/prefer-spread` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1052,2024-09-13T20:37:02Z,2024-09-23T16:24:21Z,3,2,MERGED
+chromatic-cli,Enable `unicorn/no-array-callback-reference` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1051,2024-09-13T20:06:43Z,2024-09-13T21:04:28Z,3,3,MERGED
+chromatic-cli,Enable `unicorn/prefer-string-raw` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1050,2024-09-13T20:05:54Z,2024-09-13T20:41:43Z,3,2,MERGED
+chromatic-cli,Use --stats-json flag for SB 8.0.0+,https://github.com/chromaui/chromatic-cli/pull/1049,2024-09-13T17:39:06Z,2024-09-23T15:43:38Z,5,3,MERGED
+chromatic-cli,Enable`unicorn/no-array-for-each` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1048,2024-09-13T17:20:43Z,2024-09-13T19:25:14Z,2,2,MERGED
+chromatic-cli,Enable `unicorn/no-anonymous-default-export` ESLint rule,https://github.com/chromaui/chromatic-cli/pull/1047,2024-09-13T16:14:06Z,2024-09-13T19:31:07Z,2,4,MERGED
+chromatic-cli,"Revert ""Use --stats-json flag for SB 8.0.0+""",https://github.com/chromaui/chromatic-cli/pull/1046,2024-09-13T11:03:47Z,2024-09-13T11:10:23Z,3,1,MERGED
+chromatic-cli,Fix flaky verify timeout test,https://github.com/chromaui/chromatic-cli/pull/1044,2024-09-12T21:08:24Z,2024-09-12T21:40:14Z,2,1,MERGED
+chromatic-cli,Fix flaky missing dependency test,https://github.com/chromaui/chromatic-cli/pull/1043,2024-09-12T20:47:41Z,2024-09-12T21:05:01Z,2,1,MERGED
+chromatic-cli,Update actions/upload-artifact to v4,https://github.com/chromaui/chromatic-cli/pull/1042,2024-09-12T16:56:37Z,2024-09-12T17:19:35Z,3,1,MERGED
+chromatic-cli,Add basic `unicorn` setup to ESLint config,https://github.com/chromaui/chromatic-cli/pull/1041,2024-09-11T21:37:35Z,2024-09-12T17:30:53Z,4,6,MERGED
+chromatic-cli,GitHub action to add package size comment to PR,https://github.com/chromaui/chromatic-cli/pull/1040,2024-09-11T21:25:17Z,2024-09-13T19:04:35Z,5,2,MERGED
+chromatic-cli,Remove pre-commit hook,https://github.com/chromaui/chromatic-cli/pull/1039,2024-09-11T18:52:20Z,2024-09-11T22:01:44Z,2,1,MERGED
+chromatic-cli,Remove Chromatic staging CI step,https://github.com/chromaui/chromatic-cli/pull/1038,2024-09-11T18:43:21Z,2024-09-11T20:38:35Z,2,1,MERGED
+chromatic-cli,Add initial ESLint config based on internal repo,https://github.com/chromaui/chromatic-cli/pull/1037,2024-09-11T16:45:07Z,2024-09-11T21:20:18Z,6,8,MERGED
+chromatic-cli,Add basic sentry integration to cli,https://github.com/chromaui/chromatic-cli/pull/1036,2024-09-11T15:07:51Z,2024-10-01T15:51:16Z,6,6,MERGED
+chromatic-cli,Use --stats-json flag for SB 8.0.0+,https://github.com/chromaui/chromatic-cli/pull/1035,2024-09-10T19:41:05Z,2024-09-12T19:26:13Z,2,2,MERGED
+chromatic-cli,Use the `--flag=value` format for Storybook build options,https://github.com/chromaui/chromatic-cli/pull/1034,2024-09-10T17:43:49Z,2024-09-11T20:13:42Z,2,1,MERGED
+chromatic-cli,Fix initial TypeScript errors,https://github.com/chromaui/chromatic-cli/pull/1033,2024-09-10T14:39:20Z,2024-09-11T15:32:32Z,3,5,MERGED
+chromatic-cli,Support storybook-rsbuild,https://github.com/chromaui/chromatic-cli/pull/1032,2024-09-09T07:45:33Z,2024-09-12T16:19:18Z,8,2,MERGED
+chromatic-cli,Don't upload files from `.chromatic` directory,https://github.com/chromaui/chromatic-cli/pull/1028,2024-08-28T22:20:02Z,2024-09-10T19:55:23Z,4,2,MERGED
+chromatic-cli,Add  key to configuration to fix #1022,https://github.com/chromaui/chromatic-cli/pull/1023,2024-08-14T12:41:08Z,2024-08-14T21:20:07Z,6,1,MERGED
+chromatic-cli,Upload coverage reports to codecov,https://github.com/chromaui/chromatic-cli/pull/1132,2024-12-17T22:24:32Z,2024-12-18T15:43:47Z,5,3,MERGED
+chromatic-cli,Errors in project metadata gathering causing build failures,https://github.com/chromaui/chromatic-cli/pull/1131,2024-12-11T17:20:17Z,2024-12-11T19:59:24Z,3,2,MERGED
+chromatic-cli,Account for configs when checking `exitOnceUploaded` in action,https://github.com/chromaui/chromatic-cli/pull/1130,2024-12-09T18:10:25Z,2024-12-10T19:28:07Z,3,1,MERGED
+chromatic-cli,Only publish `latest` action on push to main,https://github.com/chromaui/chromatic-cli/pull/1129,2024-12-06T17:49:22Z,2024-12-09T15:41:41Z,3,1,MERGED
+chromatic-cli,Add support for deployment_status events to github action,https://github.com/chromaui/chromatic-cli/pull/1127,2024-12-02T20:26:58Z,2025-03-11T15:37:19Z,4,2,CLOSED
+chromatic-cli,:sparkles: Add properties to XML reporting based on status.,https://github.com/chromaui/chromatic-cli/pull/1125,2024-11-18T23:16:53Z,2024-11-25T18:06:39Z,15,1,MERGED
+chromatic-cli,Send project metadata to the index,https://github.com/chromaui/chromatic-cli/pull/1122,2024-11-13T03:33:01Z,2024-12-02T23:57:44Z,7,9,MERGED
+chromatic-cli,"Revert ""Detect `context.projectMetadata.hasRouter` and send to the index""",https://github.com/chromaui/chromatic-cli/pull/1121,2024-11-12T10:58:41Z,2024-11-12T11:04:58Z,4,1,MERGED
+chromatic-cli,Send `storybookBaseDir` as part of project metadata,https://github.com/chromaui/chromatic-cli/pull/1120,2024-11-12T01:04:34Z,2024-11-13T05:02:09Z,2,2,CLOSED
+chromatic-cli,:book: Add new issue template that references Chromatic support.,https://github.com/chromaui/chromatic-cli/pull/1119,2024-11-07T18:41:13Z,2024-11-07T22:37:45Z,3,1,MERGED
+chromatic-cli,:sparkles: Add support for JSON5 as a configuration file.,https://github.com/chromaui/chromatic-cli/pull/1118,2024-11-05T17:46:02Z,2024-11-07T18:02:38Z,12,1,MERGED
+chromatic-cli,Ensure parent directory exists before writing log/diagnostics file,https://github.com/chromaui/chromatic-cli/pull/1117,2024-11-01T21:02:26Z,2024-11-04T15:59:26Z,3,1,MERGED
+chromatic-cli,Fix `--diagnostics-file` parsing,https://github.com/chromaui/chromatic-cli/pull/1116,2024-11-01T17:59:17Z,2024-11-04T15:48:36Z,3,1,MERGED
+chromatic-cli,Fix moduleName resolution for Storybook files with import cycles.,https://github.com/chromaui/chromatic-cli/pull/1157,2025-02-19T21:39:38Z,2025-02-26T15:57:35Z,3,1,MERGED
+chromatic-cli,Add new Vite builder entry for future SB versions,https://github.com/chromaui/chromatic-cli/pull/1155,2025-02-12T16:06:07Z,2025-02-13T17:12:38Z,3,1,MERGED
+chromatic-cli,Add `outputDir` to action metadata,https://github.com/chromaui/chromatic-cli/pull/1154,2025-02-12T15:37:49Z,2025-02-12T17:17:04Z,3,1,MERGED
+chromatic-cli,Set Apollo GraphQL client identification headers,https://github.com/chromaui/chromatic-cli/pull/1151,2025-02-06T17:16:22Z,2025-02-10T17:44:57Z,3,1,MERGED
+chromatic-cli,Fix directory flags for trace command.,https://github.com/chromaui/chromatic-cli/pull/1148,2025-01-30T21:54:25Z,2025-01-31T17:22:01Z,3,1,MERGED
+chromatic-cli,Add additional rspack builder entrypoint,https://github.com/chromaui/chromatic-cli/pull/1147,2025-01-29T17:19:14Z,2025-01-30T15:34:59Z,3,1,MERGED
+chromatic-cli,Account for accessibility change counts in UI,https://github.com/chromaui/chromatic-cli/pull/1145,2025-01-23T15:56:56Z,2025-01-27T15:52:55Z,3,3,MERGED
+chromatic-cli,Account for --working-dir,https://github.com/chromaui/chromatic-cli/pull/1144,2025-01-22T21:54:31Z,2025-01-23T17:08:06Z,3,10,CLOSED
+chromatic-cli,Don't normalize package.json fields,https://github.com/chromaui/chromatic-cli/pull/1143,2025-01-16T18:36:57Z,2025-01-22T15:53:01Z,4,1,MERGED
+chromatic-cli,Remove Turbosnap metrics logs,https://github.com/chromaui/chromatic-cli/pull/1142,2025-01-16T15:29:24Z,2025-01-16T17:51:41Z,3,1,MERGED
+chromatic-cli,Log Turbosnap metrics to New Relic,https://github.com/chromaui/chromatic-cli/pull/1141,2025-01-14T19:02:45Z,2025-01-14T21:15:05Z,3,1,MERGED
+chromatic-cli,Skip lock file parsing if it's larger than 10MB,https://github.com/chromaui/chromatic-cli/pull/1140,2025-01-10T21:50:31Z,2025-01-13T21:01:49Z,5,2,MERGED
+chromatic-cli,Added logic to terminate with timeout or flag,https://github.com/chromaui/chromatic-cli/pull/1139,2025-01-10T02:09:21Z,2025-01-14T00:06:42Z,2,3,CLOSED
+chromatic-cli,Add rsbuild v0.1.7 support,https://github.com/chromaui/chromatic-cli/pull/1138,2025-01-09T16:31:13Z,2025-01-09T17:46:55Z,3,2,MERGED
+chromatic-cli,Add `outputDir` to GitHub Action options,https://github.com/chromaui/chromatic-cli/pull/1136,2025-01-08T19:26:04Z,2025-01-08T20:24:55Z,3,1,MERGED
+chromatic-cli,Set `storybookUrl` action output on rebuild early exit,https://github.com/chromaui/chromatic-cli/pull/1134,2025-01-02T21:59:01Z,2025-01-03T15:50:15Z,4,1,MERGED
+chromatic-cli,Bail on preview file changes,https://github.com/chromaui/chromatic-cli/pull/1133,2025-01-02T19:59:56Z,2025-01-03T16:24:24Z,3,1,MERGED

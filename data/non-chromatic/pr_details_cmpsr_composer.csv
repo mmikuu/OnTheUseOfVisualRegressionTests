@@ -1,0 +1,693 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+composer,Add cross-fetch for non-Next applications,https://github.com/cmpsr/composer/pull/100,2020-07-31T13:59:27Z,2020-07-31T15:23:48Z,2,2,MERGED
+composer,Media message,https://github.com/cmpsr/composer/pull/99,2020-07-31T03:43:55Z,2020-08-05T12:25:04Z,12,8,CLOSED
+composer,[WIP] Feature: Build Pipeline,https://github.com/cmpsr/composer/pull/98,2020-07-29T20:30:33Z,2023-07-03T08:27:00Z,2,218,CLOSED
+composer,Set main as main branch for node-setup action,https://github.com/cmpsr/composer/pull/97,2020-07-29T12:55:16Z,2020-07-29T13:09:56Z,2,1,MERGED
+composer,Add babel plugin to compile class properties,https://github.com/cmpsr/composer/pull/95,2020-07-29T10:48:12Z,2020-07-29T12:47:46Z,2,3,MERGED
+composer,Analytics lib folder,https://github.com/cmpsr/composer/pull/93,2020-07-28T14:56:37Z,2020-07-28T15:06:06Z,2,2,MERGED
+composer,Add lib files to cloud-kms,https://github.com/cmpsr/composer/pull/91,2020-07-28T12:21:05Z,2020-07-28T12:31:21Z,2,2,MERGED
+composer,Use appropriate main branch for actions/checkout,https://github.com/cmpsr/composer/pull/90,2020-07-28T10:32:26Z,2020-07-28T17:45:45Z,2,1,MERGED
+composer,Add auth google cloud kms integration,https://github.com/cmpsr/composer/pull/88,2020-07-28T08:57:34Z,2020-07-28T10:22:27Z,2,6,MERGED
+composer,add readme for analytics package,https://github.com/cmpsr/composer/pull/86,2020-07-25T19:20:58Z,2020-07-27T15:19:01Z,3,1,MERGED
+composer,Adds ComponentRendererWithQuery and ComponentRendererWithContext,https://github.com/cmpsr/composer/pull/85,2020-07-24T21:56:32Z,2020-07-27T17:36:59Z,3,1,MERGED
+composer,New Snackbar implementation,https://github.com/cmpsr/composer/pull/83,2020-07-22T10:35:23Z,2020-07-22T11:09:54Z,2,3,MERGED
+composer,Conversation summary fix,https://github.com/cmpsr/composer/pull/81,2020-07-16T20:41:13Z,2020-07-17T10:06:53Z,2,2,MERGED
+composer,Snackbar fix styles,https://github.com/cmpsr/composer/pull/79,2020-07-16T12:02:06Z,2020-07-16T15:11:20Z,2,7,MERGED
+composer,Feature: ComponentRenderer  componentMap overrides,https://github.com/cmpsr/composer/pull/77,2020-07-15T20:24:26Z,2020-07-15T21:48:00Z,2,3,MERGED
+composer,Modal - overlayClassName,https://github.com/cmpsr/composer/pull/75,2020-07-15T13:40:30Z,2020-07-15T15:25:16Z,2,3,MERGED
+composer,Modal and Dropdownshift,https://github.com/cmpsr/composer/pull/74,2020-07-15T11:20:23Z,2020-07-15T13:39:00Z,4,4,CLOSED
+composer,Snackbar fix state,https://github.com/cmpsr/composer/pull/73,2020-07-13T21:51:55Z,2020-07-15T11:03:28Z,2,2,CLOSED
+composer,Snackbar - onClose callback,https://github.com/cmpsr/composer/pull/71,2020-07-13T11:05:34Z,2020-07-13T12:55:16Z,2,3,MERGED
+composer,Chore: Add myself to CODEOWNERS list (@ryanhefner),https://github.com/cmpsr/composer/pull/70,2020-07-10T16:37:50Z,2020-07-13T12:31:47Z,2,2,MERGED
+composer,contentful-core: ComponentRenderer,https://github.com/cmpsr/composer/pull/68,2020-07-09T04:10:56Z,2020-07-10T00:19:17Z,2,15,MERGED
+composer,Snackbar,https://github.com/cmpsr/composer/pull/67,2020-07-08T09:20:08Z,2020-07-08T09:28:20Z,2,3,MERGED
+composer,"[Success, Warning, Error] Snackbars",https://github.com/cmpsr/composer/pull/66,2020-07-08T08:39:28Z,2020-07-08T09:12:27Z,2,3,CLOSED
+composer,"[Success, Warning, Error] Snackbars",https://github.com/cmpsr/composer/pull/64,2020-07-07T14:52:30Z,2020-07-08T08:40:57Z,2,19,CLOSED
+composer,Snackbar,https://github.com/cmpsr/composer/pull/63,2020-07-07T09:25:29Z,2020-07-08T07:25:29Z,9,16,MERGED
+composer,Content copy icon,https://github.com/cmpsr/composer/pull/62,2020-07-07T03:40:37Z,2020-07-08T07:27:27Z,3,6,MERGED
+composer,Publish fixes,https://github.com/cmpsr/composer/pull/61,2020-07-07T01:09:08Z,2020-07-07T01:13:16Z,2,7,MERGED
+composer,Snackbar,https://github.com/cmpsr/composer/pull/60,2020-07-06T10:46:57Z,2020-07-06T19:21:46Z,8,5,CLOSED
+composer,Snackbar,https://github.com/cmpsr/composer/pull/59,2020-07-06T10:34:14Z,2020-07-06T10:40:43Z,2,4,CLOSED
+composer,Bump contentful-core version,https://github.com/cmpsr/composer/pull/57,2020-07-03T20:13:50Z,2020-07-03T20:53:33Z,2,3,MERGED
+composer,Removes old lib files,https://github.com/cmpsr/composer/pull/56,2020-07-03T19:40:18Z,2020-07-03T19:40:58Z,1,1,MERGED
+composer,Package: Contentful Core,https://github.com/cmpsr/composer/pull/52,2020-07-03T14:52:09Z,2020-07-03T18:57:59Z,6,11,MERGED
+composer,Tooltip fix implementation,https://github.com/cmpsr/composer/pull/51,2020-07-02T19:11:54Z,2020-07-03T19:29:52Z,3,4,MERGED
+composer,Tooltip fix,https://github.com/cmpsr/composer/pull/50,2020-07-02T06:47:32Z,2020-07-02T19:00:26Z,8,5,CLOSED
+composer,Adds Storybook Badge to README - COM-6,https://github.com/cmpsr/composer/pull/49,2020-07-01T00:40:12Z,2020-07-01T06:28:23Z,3,1,MERGED
+composer,Adds exclusion for changeset branch name - COM-7,https://github.com/cmpsr/composer/pull/47,2020-06-30T23:03:02Z,2020-07-01T06:27:34Z,3,1,MERGED
+composer,Dummy change to test chromatic,https://github.com/cmpsr/composer/pull/45,2020-06-30T21:26:00Z,2020-06-30T21:34:17Z,1,1,CLOSED
+composer,"Run Chromatic on changes to ""packages/components""",https://github.com/cmpsr/composer/pull/44,2020-06-30T16:49:43Z,2020-06-30T21:11:40Z,2,2,MERGED
+composer,Typography Intensity,https://github.com/cmpsr/composer/pull/41,2020-06-30T12:27:08Z,2020-06-30T14:02:08Z,5,10,MERGED
+composer,Dropdown fix,https://github.com/cmpsr/composer/pull/39,2020-06-29T12:24:52Z,2020-06-29T15:45:37Z,3,5,MERGED
+composer,Single select native,https://github.com/cmpsr/composer/pull/38,2020-06-25T08:05:24Z,2020-06-26T13:05:52Z,24,9,MERGED
+composer,Dummy changeset,https://github.com/cmpsr/composer/pull/35,2020-06-23T15:49:51Z,2020-06-23T15:49:57Z,1,1,MERGED
+composer,Removed unnecessary copy from Contentful readme,https://github.com/cmpsr/composer/pull/33,2020-06-23T15:39:37Z,2020-06-23T15:41:06Z,1,2,MERGED
+composer,TextFieldWithLabel Input Mode,https://github.com/cmpsr/composer/pull/31,2020-06-23T14:52:27Z,2020-06-23T15:04:42Z,2,3,MERGED
+composer,Move publish build step to publish-ci script,https://github.com/cmpsr/composer/pull/30,2020-06-23T13:38:54Z,2020-06-23T13:45:51Z,2,1,MERGED
+composer,Input Mode (build),https://github.com/cmpsr/composer/pull/28,2020-06-23T13:11:43Z,2020-06-23T13:18:18Z,2,2,MERGED
+composer,Add InputMode,https://github.com/cmpsr/composer/pull/26,2020-06-23T09:42:27Z,2020-06-23T12:23:24Z,2,4,MERGED
+composer,Add storybook deploy,https://github.com/cmpsr/composer/pull/25,2020-06-23T02:07:01Z,2020-06-23T02:07:09Z,2,21,MERGED
+composer,Removes Known Vulnerabilities badge,https://github.com/cmpsr/composer/pull/24,2020-06-22T18:44:53Z,2020-06-22T23:49:55Z,3,1,MERGED
+composer,Adds Storybook deploy,https://github.com/cmpsr/composer/pull/22,2020-06-22T17:51:31Z,2020-06-22T23:49:26Z,3,1,CLOSED
+composer,Add build step to workflow,https://github.com/cmpsr/composer/pull/20,2020-06-22T15:32:30Z,2020-06-22T15:43:06Z,3,1,MERGED
+composer,Updated Contentful README,https://github.com/cmpsr/composer/pull/18,2020-06-22T15:21:58Z,2020-06-22T15:23:27Z,1,2,MERGED
+composer,[Snyk] Fix for 1 vulnerabilities,https://github.com/cmpsr/composer/pull/17,2020-06-21T23:53:52Z,2020-06-21T23:54:14Z,1,1,CLOSED
+composer,Cleanup Tasks,https://github.com/cmpsr/composer/pull/16,2020-06-21T20:32:45Z,2020-06-21T20:35:36Z,2,2,MERGED
+composer,Testing bot + pr flow,https://github.com/cmpsr/composer/pull/14,2020-06-21T16:43:49Z,2020-06-21T16:45:45Z,1,2,MERGED
+composer,Updates Bot Publisher,https://github.com/cmpsr/composer/pull/9,2020-06-21T01:28:44Z,2020-06-21T01:28:51Z,0,3,MERGED
+composer,Adds Contentful Readme,https://github.com/cmpsr/composer/pull/8,2020-06-21T01:03:30Z,2020-06-21T01:03:38Z,0,2,MERGED
+composer,v0.0.16,https://github.com/cmpsr/composer/pull/7,2020-06-21T00:58:50Z,2020-06-21T00:59:02Z,0,1,MERGED
+composer,Update publish.yml,https://github.com/cmpsr/composer/pull/6,2020-06-20T20:58:57Z,2020-06-20T20:59:12Z,0,1,MERGED
+composer,Adds Publish workflow (#4),https://github.com/cmpsr/composer/pull/5,2020-06-20T20:08:18Z,2020-06-20T20:08:25Z,0,1,MERGED
+composer,Adds Publish workflow,https://github.com/cmpsr/composer/pull/4,2020-06-20T20:04:04Z,2020-06-20T20:07:58Z,1,1,MERGED
+composer,Publish Updates,https://github.com/cmpsr/composer/pull/3,2020-06-20T19:33:40Z,2020-06-20T19:40:06Z,1,6,MERGED
+composer,Add compiled files,https://github.com/cmpsr/composer/pull/2,2020-06-20T14:23:36Z,2020-06-20T14:26:23Z,1,1,MERGED
+composer,Add missing files,https://github.com/cmpsr/composer/pull/1,2020-06-20T14:04:25Z,2020-06-20T14:10:16Z,1,1,MERGED
+composer,Styled CurrencyField,https://github.com/cmpsr/composer/pull/190,2020-10-30T14:42:33Z,2020-11-03T16:32:41Z,7,14,MERGED
+composer,Styled ExpandableTextfieldIcon,https://github.com/cmpsr/composer/pull/189,2020-10-30T10:30:54Z,2020-11-03T15:00:17Z,2,11,MERGED
+composer,Styled ExpandableTextField,https://github.com/cmpsr/composer/pull/188,2020-10-30T08:26:47Z,2020-11-03T15:16:45Z,2,5,CLOSED
+composer,Wrap customCss call,https://github.com/cmpsr/composer/pull/187,2020-10-29T22:03:25Z,2020-10-30T10:41:16Z,2,4,MERGED
+composer,Image customCss Implementation,https://github.com/cmpsr/composer/pull/186,2020-10-29T14:22:52Z,2020-10-30T12:47:32Z,9,5,MERGED
+composer,Styled TextField,https://github.com/cmpsr/composer/pull/185,2020-10-29T12:27:42Z,2020-10-30T12:43:37Z,2,5,MERGED
+composer,Styled TextArea,https://github.com/cmpsr/composer/pull/184,2020-10-29T10:57:44Z,2020-10-30T07:53:02Z,3,4,MERGED
+composer,Styled chat message,https://github.com/cmpsr/composer/pull/183,2020-10-28T18:15:34Z,2020-11-04T11:54:51Z,15,39,MERGED
+composer,Styled use types,https://github.com/cmpsr/composer/pull/182,2020-10-28T17:18:21Z,2020-10-29T08:31:22Z,2,22,MERGED
+composer,Styled radio button,https://github.com/cmpsr/composer/pull/181,2020-10-28T16:08:29Z,2020-10-28T17:21:19Z,2,6,MERGED
+composer,Styled ErrorField,https://github.com/cmpsr/composer/pull/180,2020-10-28T15:30:00Z,2020-10-28T16:26:51Z,3,4,MERGED
+composer,Styled SectionChild,https://github.com/cmpsr/composer/pull/179,2020-10-28T11:52:18Z,2020-10-28T15:06:21Z,2,5,MERGED
+composer,Styled Section,https://github.com/cmpsr/composer/pull/178,2020-10-28T11:26:52Z,2020-10-28T15:48:46Z,3,7,MERGED
+composer,Styled Grid,https://github.com/cmpsr/composer/pull/177,2020-10-28T10:31:49Z,2020-10-28T11:17:46Z,3,2,MERGED
+composer,Styled Modal Improvements,https://github.com/cmpsr/composer/pull/176,2020-10-28T08:24:06Z,2020-10-28T08:50:36Z,2,2,MERGED
+composer,[Snyk] Security upgrade next from 9.5.5 to 10.0.0,https://github.com/cmpsr/composer/pull/175,2020-10-28T06:39:32Z,2021-11-13T10:27:45Z,2,1,CLOSED
+composer,Styled Progress Circular,https://github.com/cmpsr/composer/pull/174,2020-10-28T03:59:08Z,2020-10-28T08:27:53Z,3,2,CLOSED
+composer,Styled Modal,https://github.com/cmpsr/composer/pull/173,2020-10-27T21:43:38Z,2020-10-28T08:07:53Z,3,4,MERGED
+composer,Styled Box,https://github.com/cmpsr/composer/pull/172,2020-10-27T12:12:09Z,2020-10-27T13:47:48Z,2,1,MERGED
+composer,Styled Conversation List,https://github.com/cmpsr/composer/pull/171,2020-10-27T11:37:46Z,2020-10-27T13:46:01Z,2,1,MERGED
+composer,Styled Snackbar,https://github.com/cmpsr/composer/pull/170,2020-10-27T09:34:32Z,2020-10-28T11:06:28Z,4,7,MERGED
+composer,Styled Tooltip,https://github.com/cmpsr/composer/pull/169,2020-10-26T13:22:01Z,2020-10-28T09:23:08Z,6,6,MERGED
+composer,Styled ConversationSummary,https://github.com/cmpsr/composer/pull/168,2020-10-26T11:49:54Z,2020-10-26T13:27:17Z,2,1,MERGED
+composer,Styled Dropdown,https://github.com/cmpsr/composer/pull/167,2020-10-26T10:50:21Z,2020-10-28T08:26:27Z,7,8,MERGED
+composer,Styled CSS override,https://github.com/cmpsr/composer/pull/166,2020-10-26T10:19:02Z,2020-10-26T10:29:11Z,2,1,MERGED
+composer,Styled List Items,https://github.com/cmpsr/composer/pull/165,2020-10-26T10:05:04Z,2020-10-27T08:37:06Z,6,5,MERGED
+composer,Styled List,https://github.com/cmpsr/composer/pull/164,2020-10-23T17:01:04Z,2020-10-26T10:28:09Z,2,1,MERGED
+composer,Styled Spinner,https://github.com/cmpsr/composer/pull/163,2020-10-23T15:07:50Z,2020-10-26T11:50:32Z,4,3,MERGED
+composer,Styled StepIndicator,https://github.com/cmpsr/composer/pull/162,2020-10-23T13:48:09Z,2020-10-26T10:39:30Z,3,4,MERGED
+composer,Styled Asset,https://github.com/cmpsr/composer/pull/161,2020-10-23T13:28:57Z,2020-10-23T14:03:04Z,2,1,MERGED
+composer,Styled IconicBadge,https://github.com/cmpsr/composer/pull/160,2020-10-23T12:34:44Z,2020-10-23T12:44:00Z,2,2,MERGED
+composer,Styled Pill,https://github.com/cmpsr/composer/pull/159,2020-10-23T12:00:09Z,2020-10-23T12:48:39Z,2,4,MERGED
+composer,Styled NumericBadge,https://github.com/cmpsr/composer/pull/158,2020-10-23T10:15:04Z,2020-10-23T11:39:39Z,2,2,MERGED
+composer,Styled Video,https://github.com/cmpsr/composer/pull/157,2020-10-23T09:07:04Z,2020-10-23T11:33:16Z,2,1,MERGED
+composer,Styled Image,https://github.com/cmpsr/composer/pull/156,2020-10-23T08:01:55Z,2020-10-23T12:03:09Z,2,1,MERGED
+composer,Styled AvatarText,https://github.com/cmpsr/composer/pull/155,2020-10-22T18:54:08Z,2020-10-23T12:47:06Z,4,6,MERGED
+composer,Styled Link,https://github.com/cmpsr/composer/pull/154,2020-10-22T16:07:29Z,2020-10-23T07:09:30Z,6,4,MERGED
+composer,Styled Typography,https://github.com/cmpsr/composer/pull/153,2020-10-22T13:50:04Z,2020-10-22T14:21:39Z,2,3,MERGED
+composer,Styled icon,https://github.com/cmpsr/composer/pull/152,2020-10-22T13:36:42Z,2020-10-22T14:20:13Z,4,7,MERGED
+composer,Remove unused files,https://github.com/cmpsr/composer/pull/151,2020-10-22T11:17:56Z,2020-10-22T12:06:36Z,2,1,MERGED
+composer,[Snyk] Security upgrade @changesets/cli from 2.9.1 to 2.11.1,https://github.com/cmpsr/composer/pull/150,2020-10-15T23:26:15Z,2020-10-19T10:32:38Z,1,1,MERGED
+composer,Provenance API,https://github.com/cmpsr/composer/pull/149,2020-10-11T23:57:21Z,2024-06-17T10:24:21Z,4,3,CLOSED
+composer,Fixed size for Media Messages,https://github.com/cmpsr/composer/pull/147,2020-10-05T08:39:31Z,2020-10-05T08:59:37Z,2,3,MERGED
+composer,Contentful core support IE11,https://github.com/cmpsr/composer/pull/145,2020-09-29T08:29:57Z,2020-09-29T08:51:10Z,2,2,MERGED
+composer,Add onLoad callback to Image and Message components,https://github.com/cmpsr/composer/pull/143,2020-09-21T12:37:15Z,2020-09-22T10:06:14Z,3,4,MERGED
+composer,Grant media capabilities to Message component,https://github.com/cmpsr/composer/pull/141,2020-09-14T14:41:08Z,2020-09-14T15:05:42Z,2,3,MERGED
+composer,MediaMessage,https://github.com/cmpsr/composer/pull/140,2020-09-14T10:00:22Z,2020-09-14T13:38:19Z,2,3,CLOSED
+composer,Upgrade: Apollo,https://github.com/cmpsr/composer/pull/138,2020-09-11T21:04:44Z,2020-09-11T21:32:54Z,2,21,MERGED
+composer,Download conversation message media content,https://github.com/cmpsr/composer/pull/136,2020-09-09T10:05:41Z,2020-09-09T11:50:17Z,6,5,MERGED
+composer,"Add lib folders to logger, firestore and storage",https://github.com/cmpsr/composer/pull/134,2020-08-28T16:59:50Z,2020-08-28T17:00:39Z,1,2,MERGED
+composer,Check for undefined value,https://github.com/cmpsr/composer/pull/131,2020-08-28T16:24:36Z,2020-08-28T16:34:48Z,2,2,MERGED
+composer,Publish packages with fixed vulnerabilities,https://github.com/cmpsr/composer/pull/130,2020-08-27T17:02:22Z,2020-08-28T16:40:32Z,2,1,MERGED
+composer,[Snyk] Security upgrade @google-cloud/firestore from 3.8.6 to 4.0.0,https://github.com/cmpsr/composer/pull/129,2020-08-27T08:56:03Z,2020-08-27T16:50:45Z,2,1,MERGED
+composer,[Snyk] Security upgrade @google-cloud/logging from 7.3.0 to 8.0.0,https://github.com/cmpsr/composer/pull/128,2020-08-27T08:51:10Z,2020-08-27T16:55:39Z,2,1,MERGED
+composer,[Snyk] Security upgrade @google-cloud/storage from 4.7.0 to 5.0.0,https://github.com/cmpsr/composer/pull/127,2020-08-27T07:00:19Z,2020-08-27T16:53:50Z,2,1,MERGED
+composer,Adding knobs,https://github.com/cmpsr/composer/pull/126,2020-08-25T18:25:52Z,2020-10-28T11:10:34Z,4,11,CLOSED
+composer,Feature: Contentful Preview,https://github.com/cmpsr/composer/pull/125,2020-08-25T18:01:17Z,2020-08-26T14:21:30Z,2,7,MERGED
+composer,Use fonts file generate by sketch export plugin,https://github.com/cmpsr/composer/pull/123,2020-08-21T16:52:37Z,2021-12-22T14:59:33Z,2,1,CLOSED
+composer,Fix warnings,https://github.com/cmpsr/composer/pull/122,2020-08-20T19:17:04Z,2020-08-24T14:19:02Z,2,4,MERGED
+composer,Update typographies tokens to match DSM definition,https://github.com/cmpsr/composer/pull/119,2020-08-20T15:06:00Z,2020-08-20T16:40:28Z,2,9,MERGED
+composer,Use colors file generated by sketch plugin,https://github.com/cmpsr/composer/pull/117,2020-08-14T17:47:18Z,2020-08-20T15:23:35Z,2,3,MERGED
+composer,Adds null return when null (loading) data,https://github.com/cmpsr/composer/pull/115,2020-08-12T15:43:37Z,2020-08-12T15:43:54Z,1,1,MERGED
+composer,React popper tooltip,https://github.com/cmpsr/composer/pull/113,2020-08-12T15:01:25Z,2020-08-18T18:22:51Z,5,9,MERGED
+composer,Adds try catch to contentful-core,https://github.com/cmpsr/composer/pull/112,2020-08-11T22:49:54Z,2020-08-12T15:33:43Z,2,3,MERGED
+composer,Style Guide Colors - Fix Borders,https://github.com/cmpsr/composer/pull/111,2020-08-06T14:33:28Z,2020-08-06T14:56:38Z,2,4,MERGED
+composer,feat: Add classname to ComponentRenderers,https://github.com/cmpsr/composer/pull/109,2020-08-05T19:08:24Z,2020-08-05T19:28:55Z,2,2,MERGED
+composer,Bug missing rest,https://github.com/cmpsr/composer/pull/107,2020-08-05T17:00:42Z,2020-08-05T17:57:24Z,2,2,MERGED
+composer,Rename of Colors & Outlines - Elevation & States to have a similar structure of DSM,https://github.com/cmpsr/composer/pull/106,2020-08-05T10:46:40Z,2020-08-06T08:07:14Z,2,15,MERGED
+composer,Call identify on analytics object,https://github.com/cmpsr/composer/pull/104,2020-08-03T13:38:32Z,2020-08-03T13:49:06Z,2,3,MERGED
+composer,ComponentMap flexibility,https://github.com/cmpsr/composer/pull/102,2020-08-01T16:59:55Z,2020-08-02T14:58:40Z,2,3,MERGED
+composer,[Snyk] Security upgrade twilio from 3.54.1 to 4.6.0,https://github.com/cmpsr/composer/pull/234,2020-12-23T22:54:37Z,2021-12-22T15:00:25Z,1,1,CLOSED
+composer,feat: add different styles for downshift dropdown,https://github.com/cmpsr/composer/pull/232,2020-12-18T14:03:13Z,2020-12-18T14:12:07Z,2,2,MERGED
+composer,Create Toggle component,https://github.com/cmpsr/composer/pull/230,2020-12-16T14:40:27Z,2020-12-16T17:26:31Z,7,4,MERGED
+composer,update: Safeguard component rendering,https://github.com/cmpsr/composer/pull/228,2020-12-03T19:24:24Z,2020-12-03T21:23:36Z,2,7,MERGED
+composer,feat: Query Context - Release,https://github.com/cmpsr/composer/pull/226,2020-11-24T20:24:27Z,2020-11-24T20:35:20Z,2,4,MERGED
+composer,feat: Query Context - Contentful-core,https://github.com/cmpsr/composer/pull/225,2020-11-24T20:05:21Z,2020-11-24T20:06:35Z,2,2,MERGED
+composer,Use DSM padding for Message component,https://github.com/cmpsr/composer/pull/223,2020-11-20T15:48:43Z,2020-11-20T15:56:10Z,2,2,MERGED
+composer,Add close callback to Modal,https://github.com/cmpsr/composer/pull/221,2020-11-20T14:24:04Z,2020-11-20T14:31:44Z,2,2,MERGED
+composer,Fix pill padding,https://github.com/cmpsr/composer/pull/219,2020-11-20T13:08:40Z,2020-11-20T13:16:54Z,2,2,MERGED
+composer,Add customCss and messageClassName props to ConversationSummary,https://github.com/cmpsr/composer/pull/217,2020-11-19T13:04:39Z,2020-11-19T13:07:42Z,2,2,MERGED
+composer,feat: add typography styles to dropdownfield mobile,https://github.com/cmpsr/composer/pull/215,2020-11-16T13:55:37Z,2020-11-16T15:40:41Z,1,1,MERGED
+composer,Remove default types and change custom css hierarchy,https://github.com/cmpsr/composer/pull/213,2020-11-10T13:53:30Z,2020-11-10T15:00:07Z,2,19,MERGED
+composer,Change hierarchy of custom css,https://github.com/cmpsr/composer/pull/212,2020-11-09T14:35:53Z,2020-11-10T09:51:06Z,2,2,CLOSED
+composer,Move Snackbar css to styled file,https://github.com/cmpsr/composer/pull/210,2020-11-06T14:10:15Z,2020-11-06T14:14:27Z,2,3,MERGED
+composer,Button add custom css,https://github.com/cmpsr/composer/pull/208,2020-11-06T10:25:09Z,2020-11-06T10:48:08Z,2,2,MERGED
+composer,Fix components publishing,https://github.com/cmpsr/composer/pull/206,2020-11-06T09:50:08Z,2020-11-06T09:56:29Z,2,3,MERGED
+composer,Styled components,https://github.com/cmpsr/composer/pull/205,2020-11-05T15:09:27Z,2020-11-05T15:20:21Z,2,59,MERGED
+composer,Replace components with styled-components,https://github.com/cmpsr/composer/pull/204,2020-11-05T14:42:30Z,2020-11-05T15:07:49Z,2,3,MERGED
+composer,Add children to CurrencyField,https://github.com/cmpsr/composer/pull/202,2020-11-05T13:48:12Z,2020-11-05T13:59:44Z,1,1,MERGED
+composer,Styled Currency Field Icon,https://github.com/cmpsr/composer/pull/201,2020-11-05T12:36:48Z,2020-11-05T13:49:17Z,3,2,CLOSED
+composer,Styled DropdownFieldMulti,https://github.com/cmpsr/composer/pull/200,2020-11-04T17:29:42Z,2020-11-05T13:52:07Z,5,8,MERGED
+composer,Temporary remove contentful package,https://github.com/cmpsr/composer/pull/199,2020-11-04T16:17:23Z,2020-11-05T13:58:49Z,2,3,MERGED
+composer,Styled Conversation MessageError,https://github.com/cmpsr/composer/pull/198,2020-11-04T15:44:56Z,2020-11-04T16:49:12Z,4,26,MERGED
+composer,Styled DropdownNativeSelect,https://github.com/cmpsr/composer/pull/197,2020-11-04T14:04:01Z,2020-11-04T17:14:27Z,6,3,MERGED
+composer,Styled TextFieldIconButton,https://github.com/cmpsr/composer/pull/196,2020-11-04T09:41:07Z,2020-11-04T11:44:38Z,4,3,MERGED
+composer,Styled TextFieldIcon,https://github.com/cmpsr/composer/pull/195,2020-11-03T15:12:16Z,2020-11-04T08:08:12Z,2,6,MERGED
+composer,Styled TextFieldWithLabel,https://github.com/cmpsr/composer/pull/194,2020-11-03T14:05:05Z,2020-11-03T16:45:05Z,4,5,MERGED
+composer,Styled TextFieldButton,https://github.com/cmpsr/composer/pull/193,2020-11-03T11:10:36Z,2020-11-03T16:26:06Z,3,5,MERGED
+composer,Styled SearchField,https://github.com/cmpsr/composer/pull/192,2020-11-03T10:29:09Z,2020-11-03T15:42:16Z,2,4,MERGED
+composer,Use typescript config in tests and stories too,https://github.com/cmpsr/composer/pull/191,2020-11-02T14:19:42Z,2020-11-02T15:29:07Z,2,2,MERGED
+composer,[Snyk] Security upgrade lerna from 3.22.1 to 4.0.0,https://github.com/cmpsr/composer/pull/240,2021-03-23T23:25:53Z,2021-04-20T09:08:24Z,2,1,MERGED
+composer,[Snyk] Security upgrade lerna from 3.22.1 to 4.0.0,https://github.com/cmpsr/composer/pull/239,2021-03-14T23:25:52Z,2021-04-20T09:09:02Z,2,1,CLOSED
+composer,Bump apollo client ver,https://github.com/cmpsr/composer/pull/238,2021-03-12T23:39:04Z,2021-03-25T09:34:43Z,2,2,MERGED
+composer,[Snyk] Security upgrade lerna from 3.22.1 to 4.0.0,https://github.com/cmpsr/composer/pull/237,2021-03-07T23:26:12Z,2021-04-20T09:08:45Z,1,1,CLOSED
+composer,Allow for loading component on ComponentRendererWithQuery,https://github.com/cmpsr/composer/pull/235,2021-03-04T15:52:57Z,2021-03-04T18:15:55Z,4,4,MERGED
+composer,Ignore lib folder from twilio package,https://github.com/cmpsr/composer/pull/251,2021-05-10T08:13:31Z,2021-05-10T08:48:16Z,2,2,MERGED
+composer,Support buying phone number from twilio,https://github.com/cmpsr/composer/pull/249,2021-05-09T20:16:26Z,2021-05-10T07:42:15Z,2,3,MERGED
+composer,feat: add rest props to the input text components,https://github.com/cmpsr/composer/pull/247,2021-04-29T21:00:45Z,2021-04-29T21:30:30Z,2,2,MERGED
+composer,feat: export checkbox from root and add cursor pointer,https://github.com/cmpsr/composer/pull/245,2021-04-20T10:17:04Z,2021-04-20T10:21:49Z,2,3,MERGED
+composer,feat: adding forwardRef to the TextArea component,https://github.com/cmpsr/composer/pull/243,2021-04-19T16:19:52Z,2021-04-20T09:16:21Z,3,3,MERGED
+composer,feat: create checkbox component,https://github.com/cmpsr/composer/pull/242,2021-04-19T13:25:25Z,2021-04-20T09:19:22Z,2,3,MERGED
+composer,chore: Upgrade `contentful-core` Packages,https://github.com/cmpsr/composer/pull/253,2021-08-20T19:51:07Z,2021-08-20T20:10:29Z,2,2,MERGED
+composer,Implement Tabs component,https://github.com/cmpsr/composer/pull/280,2021-12-23T14:00:32Z,2022-01-10T13:17:05Z,3,4,MERGED
+composer,[COM-205] Layout components,https://github.com/cmpsr/composer/pull/279,2021-12-23T09:28:31Z,2021-12-23T09:34:41Z,2,3,MERGED
+composer,feat: create image wrapper,https://github.com/cmpsr/composer/pull/278,2021-12-22T16:33:59Z,2021-12-22T16:51:44Z,2,2,MERGED
+composer,feat: disable chakra ui storybook,https://github.com/cmpsr/composer/pull/277,2021-12-22T13:55:53Z,2021-12-22T15:00:55Z,2,2,MERGED
+composer,feat: update chakra to latest version,https://github.com/cmpsr/composer/pull/276,2021-12-22T11:27:59Z,2021-12-22T14:26:19Z,2,5,MERGED
+composer,feat: use new setup cloud action,https://github.com/cmpsr/composer/pull/275,2021-12-22T09:51:02Z,2021-12-22T10:20:47Z,2,2,MERGED
+composer,More button improvements,https://github.com/cmpsr/composer/pull/274,2021-12-20T17:34:50Z,2021-12-20T17:40:49Z,2,3,MERGED
+composer,Update text and textpairing tokens,https://github.com/cmpsr/composer/pull/273,2021-12-20T14:13:06Z,2021-12-20T15:44:38Z,2,1,MERGED
+composer,[Snyk] Security upgrade twilio-chat from 3.4.0 to 6.0.0,https://github.com/cmpsr/composer/pull/272,2021-12-18T09:08:34Z,2022-01-10T11:06:38Z,1,1,CLOSED
+composer,feat: update colors & tokens,https://github.com/cmpsr/composer/pull/271,2021-12-14T13:39:47Z,2021-12-14T13:52:34Z,2,1,MERGED
+composer,[COM-128] Spinner component,https://github.com/cmpsr/composer/pull/270,2021-12-09T16:31:11Z,2021-12-22T15:10:07Z,4,10,MERGED
+composer,Update colors,https://github.com/cmpsr/composer/pull/269,2021-11-29T15:59:35Z,2021-12-04T10:15:49Z,2,9,MERGED
+composer,COM-127-implement-progress-bar-component,https://github.com/cmpsr/composer/pull/268,2021-11-25T21:04:34Z,2022-01-28T10:36:20Z,10,2,CLOSED
+composer,Section layout component,https://github.com/cmpsr/composer/pull/267,2021-11-23T11:29:13Z,2021-11-23T11:44:54Z,4,3,MERGED
+composer,COM-136 implement input component,https://github.com/cmpsr/composer/pull/266,2021-11-22T23:56:04Z,2022-01-25T13:29:31Z,7,1,CLOSED
+composer,Add button component (#132),https://github.com/cmpsr/composer/pull/265,2021-11-18T18:17:37Z,2021-12-09T14:47:55Z,17,6,MERGED
+composer,feat: create elevations primitive,https://github.com/cmpsr/composer/pull/264,2021-11-18T08:02:20Z,2021-11-18T09:15:52Z,2,5,MERGED
+composer,feat: create radius primitives,https://github.com/cmpsr/composer/pull/263,2021-11-17T19:29:18Z,2021-11-18T08:14:39Z,2,3,MERGED
+composer,feat: add spacing primitives,https://github.com/cmpsr/composer/pull/262,2021-11-17T19:13:38Z,2021-11-18T08:07:07Z,2,3,MERGED
+composer,Use Inter font in components,https://github.com/cmpsr/composer/pull/261,2021-11-13T09:27:33Z,2021-11-13T12:43:22Z,2,3,MERGED
+composer,Add discoverability,https://github.com/cmpsr/composer/pull/260,2021-11-12T16:47:38Z,2021-11-12T16:59:45Z,2,3,MERGED
+composer,Text pairing component,https://github.com/cmpsr/composer/pull/259,2021-11-10T14:57:12Z,2021-11-10T15:37:51Z,5,7,MERGED
+composer,Text component,https://github.com/cmpsr/composer/pull/258,2021-11-09T14:40:57Z,2021-11-09T15:24:31Z,3,7,MERGED
+composer,Reorganise colors,https://github.com/cmpsr/composer/pull/257,2021-11-08T14:07:19Z,2021-11-08T14:28:08Z,2,2,MERGED
+composer,feat: add chakra cli to autogenerate types based on theme,https://github.com/cmpsr/composer/pull/256,2021-11-08T08:11:45Z,2021-11-08T08:19:54Z,2,2,MERGED
+composer,Composer provider & theme,https://github.com/cmpsr/composer/pull/255,2021-11-06T10:36:24Z,2021-11-08T08:26:49Z,2,9,MERGED
+composer,Update node engine,https://github.com/cmpsr/composer/pull/420,2022-03-24T15:51:00Z,2022-03-24T15:55:29Z,1,2,MERGED
+composer,Remove link wrapper,https://github.com/cmpsr/composer/pull/419,2022-03-23T11:57:48Z,2022-03-23T12:10:32Z,2,4,MERGED
+composer,COM-477 Getting Started + Storybook improvements + IDEA folder,https://github.com/cmpsr/composer/pull/417,2022-03-17T16:49:35Z,2023-02-07T20:54:04Z,12,18,CLOSED
+composer,[COM-478] Remove unnecessary link child wrapper,https://github.com/cmpsr/composer/pull/416,2022-03-16T09:52:12Z,2022-03-16T12:32:09Z,2,4,MERGED
+composer,Com 476 fix input and pin input styles,https://github.com/cmpsr/composer/pull/415,2022-03-14T17:20:48Z,2022-05-02T12:27:28Z,2,8,MERGED
+composer,COM-382: Range slider component,https://github.com/cmpsr/composer/pull/414,2022-03-13T06:00:08Z,2022-08-17T07:59:00Z,3,12,MERGED
+composer,Com 376 implement number input component,https://github.com/cmpsr/composer/pull/413,2022-03-13T03:41:22Z,2022-08-16T15:29:52Z,3,19,MERGED
+composer,COM-372: implement inline alert component,https://github.com/cmpsr/composer/pull/412,2022-03-11T19:58:21Z,2022-05-05T07:03:43Z,5,9,MERGED
+composer,COM-465: Refactor tag component to use composition,https://github.com/cmpsr/composer/pull/410,2022-03-09T17:37:30Z,2022-03-22T11:49:52Z,3,10,MERGED
+composer,[COM-464] Implementation of Dropdown component.,https://github.com/cmpsr/composer/pull/409,2022-03-08T19:32:28Z,2022-03-11T16:10:42Z,18,10,MERGED
+composer,Update documentation,https://github.com/cmpsr/composer/pull/408,2022-03-07T14:15:13Z,2022-03-07T14:29:17Z,2,3,MERGED
+composer,Fix storybook class and function names,https://github.com/cmpsr/composer/pull/407,2022-03-07T09:25:14Z,2022-03-07T10:16:00Z,2,5,MERGED
+composer,Com 443 fix radio button styles,https://github.com/cmpsr/composer/pull/405,2022-03-03T06:30:58Z,2022-05-02T10:03:51Z,2,7,MERGED
+composer,Com 436 refactor breadcrumb component,https://github.com/cmpsr/composer/pull/404,2022-03-01T07:15:28Z,2022-03-04T16:36:02Z,3,15,MERGED
+composer,Hotfix: Fix the styles on focus in the textarea component,https://github.com/cmpsr/composer/pull/403,2022-02-28T17:25:28Z,2022-03-04T10:14:53Z,2,1,MERGED
+composer,COM-433: Refactor slider component to use composition,https://github.com/cmpsr/composer/pull/402,2022-02-24T17:44:11Z,2022-03-07T13:51:27Z,5,12,MERGED
+composer,COM-432: Add new variant to select component,https://github.com/cmpsr/composer/pull/401,2022-02-24T07:48:59Z,2022-08-16T14:09:56Z,2,9,MERGED
+composer,COM-405: Fix accordion styles,https://github.com/cmpsr/composer/pull/400,2022-02-23T23:06:27Z,2022-08-01T15:06:49Z,2,4,CLOSED
+composer,Hotfix: Fixed error in card component stories,https://github.com/cmpsr/composer/pull/399,2022-02-23T18:46:10Z,2022-02-24T09:45:11Z,3,3,MERGED
+composer,Include scripts folder in the release,https://github.com/cmpsr/composer/pull/397,2022-02-23T09:20:27Z,2022-02-23T09:27:48Z,2,1,MERGED
+composer,Simplify Symbol implementation,https://github.com/cmpsr/composer/pull/395,2022-02-17T14:40:11Z,2022-02-17T15:51:23Z,2,3,MERGED
+composer,Allow theme color for label and subLabel in TextPairing,https://github.com/cmpsr/composer/pull/393,2022-02-16T15:09:39Z,2022-02-17T11:58:58Z,3,6,MERGED
+composer,Fix Input,https://github.com/cmpsr/composer/pull/392,2022-02-16T13:02:42Z,2022-02-17T13:27:45Z,3,3,MERGED
+composer,[COM-369] Document components creation process,https://github.com/cmpsr/composer/pull/391,2022-02-15T16:30:47Z,2022-02-17T09:17:01Z,5,14,MERGED
+composer,Com 407 fix alert component,https://github.com/cmpsr/composer/pull/390,2022-02-14T16:05:12Z,2022-02-21T15:58:08Z,6,21,MERGED
+composer,[COM-394] SWC for all,https://github.com/cmpsr/composer/pull/389,2022-02-11T14:52:43Z,2022-02-11T15:02:57Z,4,13,MERGED
+composer,Fix Switch,https://github.com/cmpsr/composer/pull/388,2022-02-11T14:42:19Z,2022-02-11T16:49:08Z,4,22,MERGED
+composer,Fix Tag,https://github.com/cmpsr/composer/pull/387,2022-02-11T13:33:16Z,2022-02-11T13:44:49Z,2,11,MERGED
+composer,Fix Text styles,https://github.com/cmpsr/composer/pull/385,2022-02-11T13:24:16Z,2022-02-11T13:32:17Z,2,10,MERGED
+composer,Apply review feedback to Composer components,https://github.com/cmpsr/composer/pull/383,2022-02-09T07:49:58Z,2022-02-09T15:49:47Z,2,13,MERGED
+composer,COM-417: fix select,https://github.com/cmpsr/composer/pull/382,2022-02-09T04:39:24Z,2022-02-23T08:58:32Z,7,14,MERGED
+composer,COM-373: Close button component,https://github.com/cmpsr/composer/pull/381,2022-02-07T22:53:02Z,2022-02-21T10:15:30Z,8,20,MERGED
+composer,[COM-394] Emit types on release,https://github.com/cmpsr/composer/pull/379,2022-02-07T17:33:43Z,2022-02-07T17:40:24Z,2,2,MERGED
+composer,[COM-394] Update aliases,https://github.com/cmpsr/composer/pull/377,2022-02-07T16:47:00Z,2022-02-07T16:54:04Z,1,5,MERGED
+composer,[COM-394] Generic aliases,https://github.com/cmpsr/composer/pull/375,2022-02-07T14:36:38Z,2022-02-07T15:28:14Z,2,3,MERGED
+composer,[COM-394] Fix aliased paths,https://github.com/cmpsr/composer/pull/373,2022-02-07T14:03:36Z,2022-02-07T14:10:51Z,2,2,MERGED
+composer,Fix Button,https://github.com/cmpsr/composer/pull/372,2022-02-07T11:24:27Z,2022-02-07T13:00:19Z,2,10,MERGED
+composer,Fix Card,https://github.com/cmpsr/composer/pull/370,2022-02-07T09:34:41Z,2022-02-07T10:58:39Z,2,7,MERGED
+composer,Fix Breadcrumb,https://github.com/cmpsr/composer/pull/369,2022-02-07T09:29:14Z,2022-02-07T10:51:30Z,2,6,MERGED
+composer,[COM-394] Use SWC for building and testing,https://github.com/cmpsr/composer/pull/368,2022-02-04T17:19:47Z,2022-02-07T13:39:41Z,2,9,MERGED
+composer,COM-295 feat: Implementing new PinInput component,https://github.com/cmpsr/composer/pull/367,2022-02-04T00:25:16Z,2022-02-23T11:09:00Z,10,20,MERGED
+composer,Fix Select field,https://github.com/cmpsr/composer/pull/366,2022-02-03T14:09:35Z,2022-02-07T14:16:50Z,2,9,MERGED
+composer,[COM-389] Implementation of symbols component,https://github.com/cmpsr/composer/pull/365,2022-02-02T18:49:19Z,2022-02-17T14:13:24Z,5,6,MERGED
+composer,[COM-403] Improve skip chromatic path management,https://github.com/cmpsr/composer/pull/364,2022-02-02T13:38:39Z,2022-02-02T13:42:59Z,2,1,MERGED
+composer,Fix Button sizes,https://github.com/cmpsr/composer/pull/363,2022-02-02T13:09:45Z,2022-02-02T13:33:25Z,2,4,MERGED
+composer,[COM-403] Add ghost checks,https://github.com/cmpsr/composer/pull/362,2022-02-02T10:15:34Z,2022-02-02T12:04:47Z,2,2,MERGED
+composer,[COM-388] Implementation of Popover component,https://github.com/cmpsr/composer/pull/361,2022-02-01T19:16:12Z,2022-05-26T16:21:38Z,23,27,CLOSED
+composer,Support Button variants in Link component,https://github.com/cmpsr/composer/pull/360,2022-02-01T13:46:02Z,2022-02-02T10:04:46Z,3,10,MERGED
+composer,[COM-397] Fix text-body style line heights,https://github.com/cmpsr/composer/pull/358,2022-02-01T12:39:26Z,2022-02-01T13:08:20Z,2,2,MERGED
+composer,[COM-297] Modal component,https://github.com/cmpsr/composer/pull/357,2022-02-01T03:19:17Z,2022-02-21T12:16:43Z,4,16,MERGED
+composer,[COM-352] Add Icon support to Button component,https://github.com/cmpsr/composer/pull/356,2022-01-31T18:03:44Z,2022-02-08T18:47:07Z,5,5,CLOSED
+composer,[COM-133] Implementation of IconButton component,https://github.com/cmpsr/composer/pull/355,2022-01-31T16:48:03Z,2022-02-22T08:28:57Z,18,15,MERGED
+composer,[COM-383] Reimplement Breadcrumb component,https://github.com/cmpsr/composer/pull/354,2022-01-31T14:16:56Z,2022-01-31T14:52:39Z,3,4,MERGED
+composer,Accordion component issues,https://github.com/cmpsr/composer/pull/353,2022-01-31T11:55:29Z,2022-01-31T14:18:37Z,2,1,MERGED
+composer,Slider handler size,https://github.com/cmpsr/composer/pull/352,2022-01-31T10:56:46Z,2022-01-31T11:02:57Z,2,2,MERGED
+composer,[COM-393] Add support for leading and trailing icons to Link,https://github.com/cmpsr/composer/pull/351,2022-01-31T10:38:06Z,2022-01-31T10:53:11Z,2,5,MERGED
+composer,Alert component issues,https://github.com/cmpsr/composer/pull/350,2022-01-31T10:00:19Z,2022-01-31T10:17:05Z,3,6,MERGED
+composer,Icon sizes,https://github.com/cmpsr/composer/pull/348,2022-01-28T16:03:59Z,2022-01-28T17:13:31Z,2,12,MERGED
+composer,[COM-392 ]Update chakra to latest version,https://github.com/cmpsr/composer/pull/347,2022-01-28T15:41:50Z,2022-01-28T15:46:19Z,2,1,MERGED
+composer,feat: create progress component,https://github.com/cmpsr/composer/pull/346,2022-01-28T11:21:43Z,2022-01-28T15:03:30Z,2,3,MERGED
+composer,[COM-299] Implementation of tooltip component,https://github.com/cmpsr/composer/pull/345,2022-01-27T15:54:56Z,2022-02-22T10:42:56Z,8,11,MERGED
+composer,[COM-355] Enable linter as action and fix issues,https://github.com/cmpsr/composer/pull/343,2022-01-26T10:36:06Z,2022-01-26T10:53:50Z,2,8,MERGED
+composer,[COM-350] Add iconSize prop to Select component,https://github.com/cmpsr/composer/pull/342,2022-01-25T22:42:13Z,2022-01-26T09:39:26Z,2,3,MERGED
+composer,Com 142 tag component,https://github.com/cmpsr/composer/pull/341,2022-01-25T19:37:42Z,2022-01-27T12:08:33Z,3,12,MERGED
+composer,[COM-186] Implement loading state for button component,https://github.com/cmpsr/composer/pull/340,2022-01-25T16:47:48Z,2022-01-31T16:50:48Z,6,11,MERGED
+composer,COM-130-Toast component,https://github.com/cmpsr/composer/pull/339,2022-01-25T14:29:10Z,2022-02-22T14:39:36Z,25,58,MERGED
+composer,fix: remove scope from docker sb build command,https://github.com/cmpsr/composer/pull/337,2022-01-25T13:46:14Z,2022-01-25T13:51:07Z,2,1,MERGED
+composer,Fix: Add default breakpoint,https://github.com/cmpsr/composer/pull/335,2022-01-25T09:23:31Z,2022-01-25T09:33:54Z,2,2,MERGED
+composer,[COM-296] Implement Chakra Breadcrumb component,https://github.com/cmpsr/composer/pull/334,2022-01-24T23:18:41Z,2022-01-28T09:16:42Z,4,11,MERGED
+composer,[COM-140] Implementation of toggle/switch component,https://github.com/cmpsr/composer/pull/333,2022-01-24T19:44:16Z,2022-01-28T08:59:12Z,2,8,MERGED
+composer,[Snyk] Security upgrade @changesets/cli from 2.11.2 to 2.20.0,https://github.com/cmpsr/composer/pull/332,2022-01-24T19:00:21Z,2022-01-25T16:04:56Z,2,1,MERGED
+composer,COM-139: Textarea component,https://github.com/cmpsr/composer/pull/331,2022-01-24T17:31:34Z,2022-02-28T09:59:05Z,11,41,MERGED
+composer,[COM-345] Responsive variant for Text and TextPairing,https://github.com/cmpsr/composer/pull/329,2022-01-21T17:30:47Z,2022-01-24T09:29:32Z,3,4,MERGED
+composer,Com 209 accordion component,https://github.com/cmpsr/composer/pull/328,2022-01-21T16:56:52Z,2022-01-26T14:14:53Z,10,15,MERGED
+composer,Update storybook and deprecate postcss,https://github.com/cmpsr/composer/pull/327,2022-01-21T13:03:29Z,2022-01-21T13:29:32Z,2,2,MERGED
+composer,Add resetCSS prop to provider,https://github.com/cmpsr/composer/pull/326,2022-01-21T09:02:07Z,2022-01-21T09:28:53Z,2,2,MERGED
+composer,[COM-136] Input component implementation,https://github.com/cmpsr/composer/pull/325,2022-01-20T21:03:03Z,2022-01-25T14:04:58Z,5,15,MERGED
+composer,Transpile js files,https://github.com/cmpsr/composer/pull/322,2022-01-20T13:26:30Z,2022-01-20T13:29:50Z,2,2,MERGED
+composer,COM-135 feat: Adding Radio button component,https://github.com/cmpsr/composer/pull/321,2022-01-20T13:11:53Z,2022-01-26T15:31:59Z,13,1,MERGED
+composer,Remove postinstall,https://github.com/cmpsr/composer/pull/319,2022-01-20T12:46:39Z,2022-01-20T12:51:28Z,2,2,MERGED
+composer,[COM-328] Expose use breakpoint value,https://github.com/cmpsr/composer/pull/318,2022-01-20T11:12:48Z,2022-01-20T11:30:40Z,2,3,MERGED
+composer,Implement Card component,https://github.com/cmpsr/composer/pull/317,2022-01-19T15:06:41Z,2022-01-19T15:48:08Z,2,4,MERGED
+composer,feat: create script to detect when chakra ui cli package is installed,https://github.com/cmpsr/composer/pull/315,2022-01-19T11:01:03Z,2022-01-19T12:00:03Z,2,2,MERGED
+composer,COM-206-link-component,https://github.com/cmpsr/composer/pull/314,2022-01-18T20:57:50Z,2022-01-27T16:14:04Z,28,39,MERGED
+composer,[COM-138] Select component implementation,https://github.com/cmpsr/composer/pull/313,2022-01-18T17:21:45Z,2022-01-19T13:44:20Z,4,6,MERGED
+composer,COM-135 implementing input radio component,https://github.com/cmpsr/composer/pull/312,2022-01-18T16:28:13Z,2022-01-20T14:06:41Z,8,47,CLOSED
+composer,Text style doesn't apply for chakra components,https://github.com/cmpsr/composer/pull/311,2022-01-18T16:22:49Z,2022-01-19T09:48:50Z,3,5,MERGED
+composer,[COM-134] checkbox component,https://github.com/cmpsr/composer/pull/310,2022-01-18T13:36:53Z,2022-01-19T16:30:01Z,6,9,MERGED
+composer,Library bundle shouldn't include tests and stories,https://github.com/cmpsr/composer/pull/308,2022-01-18T09:13:10Z,2022-01-18T14:28:52Z,2,4,MERGED
+composer,[COM-129] Implement Alert Component,https://github.com/cmpsr/composer/pull/307,2022-01-17T16:19:13Z,2022-01-18T13:33:19Z,6,10,MERGED
+composer,[COM-277] Implementation of Circular Progress component,https://github.com/cmpsr/composer/pull/306,2022-01-17T16:09:12Z,2022-01-20T14:00:18Z,7,10,MERGED
+composer,[COM-277] CircularProgress component implementation,https://github.com/cmpsr/composer/pull/305,2022-01-17T15:18:41Z,2022-01-17T16:06:27Z,2,47,CLOSED
+composer,Move font family out of project,https://github.com/cmpsr/composer/pull/303,2022-01-17T14:36:46Z,2022-01-17T14:43:29Z,2,2,MERGED
+composer,Remove lib folder,https://github.com/cmpsr/composer/pull/301,2022-01-17T12:18:41Z,2022-01-17T12:18:46Z,1,4,MERGED
+composer,Remove lib folder,https://github.com/cmpsr/composer/pull/299,2022-01-17T11:55:35Z,2022-01-17T12:08:41Z,2,3,MERGED
+composer,Release fixes,https://github.com/cmpsr/composer/pull/297,2022-01-17T11:42:04Z,2022-01-17T11:43:09Z,1,3,MERGED
+composer,Chakra-UI components,https://github.com/cmpsr/composer/pull/295,2022-01-17T11:03:50Z,2022-01-17T11:22:07Z,2,45,MERGED
+composer,[COM-129] Implement Alert Component,https://github.com/cmpsr/composer/pull/294,2022-01-14T16:30:33Z,2022-01-17T15:52:26Z,8,7,MERGED
+composer,[COM-129] Implementation of alert component,https://github.com/cmpsr/composer/pull/293,2022-01-14T16:29:25Z,2022-01-14T16:29:31Z,1,46,CLOSED
+composer,[COM-281] Add boxSize prop to Icon,https://github.com/cmpsr/composer/pull/292,2022-01-14T16:01:00Z,2022-01-14T16:12:02Z,2,2,MERGED
+composer,Color updates,https://github.com/cmpsr/composer/pull/291,2022-01-13T19:12:48Z,2022-01-14T09:33:25Z,2,4,MERGED
+composer,[WIP] [COM-129] Implementation of Alert component,https://github.com/cmpsr/composer/pull/290,2022-01-13T19:04:31Z,2022-01-13T19:05:31Z,1,2,CLOSED
+composer,[COM-281] Generate icons,https://github.com/cmpsr/composer/pull/289,2022-01-13T16:20:51Z,2022-01-14T08:09:53Z,2,3,MERGED
+composer,Com 213 twilio wrapper,https://github.com/cmpsr/composer/pull/288,2022-01-12T19:02:49Z,2022-01-25T13:01:11Z,7,15,MERGED
+composer,Divider component,https://github.com/cmpsr/composer/pull/287,2022-01-12T13:10:17Z,2022-01-14T14:41:26Z,5,7,MERGED
+composer,[Snyk] Security upgrade plaid from 4.11.0 to 9.0.0,https://github.com/cmpsr/composer/pull/286,2022-01-11T19:32:57Z,2022-01-18T15:23:29Z,1,1,CLOSED
+composer,[COM-131] Implementation of Badge component,https://github.com/cmpsr/composer/pull/285,2022-01-11T16:08:43Z,2022-01-12T15:18:02Z,4,3,MERGED
+composer,[COM-131] Implementation of Badge Component,https://github.com/cmpsr/composer/pull/284,2022-01-11T16:06:18Z,2022-01-11T16:06:43Z,0,36,CLOSED
+composer,Slider component,https://github.com/cmpsr/composer/pull/283,2022-01-11T16:06:02Z,2022-01-12T17:59:19Z,4,8,MERGED
+composer,[COM-126] Avatar component,https://github.com/cmpsr/composer/pull/282,2022-01-10T11:08:27Z,2022-01-13T08:09:36Z,3,4,MERGED
+composer,Port to turbo repo,https://github.com/cmpsr/composer/pull/281,2022-01-10T02:22:29Z,2022-01-25T13:28:38Z,5,2,MERGED
+composer,[COM-585] Navigation Block,https://github.com/cmpsr/composer/pull/466,2022-05-31T13:01:09Z,2022-06-01T13:16:32Z,3,8,MERGED
+composer,feat: create usScrollPosition hook,https://github.com/cmpsr/composer/pull/465,2022-05-31T10:45:20Z,2022-05-31T11:15:51Z,2,4,MERGED
+composer,[COM-618] Expose blocks in MdxRenderer,https://github.com/cmpsr/composer/pull/463,2022-05-31T09:52:50Z,2022-05-31T09:58:30Z,2,2,MERGED
+composer,Make blocks library public,https://github.com/cmpsr/composer/pull/462,2022-05-31T08:26:40Z,2022-05-31T08:39:01Z,2,4,MERGED
+composer,[COM-587] Implement CookieBanner block,https://github.com/cmpsr/composer/pull/460,2022-05-30T15:32:25Z,2022-05-31T07:25:53Z,5,7,MERGED
+composer,[COM-604] Add link variant to Button,https://github.com/cmpsr/composer/pull/458,2022-05-30T10:54:47Z,2022-05-30T12:50:15Z,2,7,MERGED
+composer,feat: scaffolding blocks package,https://github.com/cmpsr/composer/pull/456,2022-05-25T11:55:11Z,2022-05-30T08:42:39Z,5,6,MERGED
+composer,Dummy branch,https://github.com/cmpsr/composer/pull/455,2022-05-25T09:35:12Z,2022-05-25T09:39:39Z,2,4,CLOSED
+composer,Add ui-storybook project and remove @cmpsr/components storybook,https://github.com/cmpsr/composer/pull/454,2022-05-25T09:19:53Z,2022-05-25T09:43:41Z,2,3,MERGED
+composer,[Snyk] Security upgrade lerna from 4.0.0 to 5.0.0,https://github.com/cmpsr/composer/pull/453,2022-05-25T08:27:48Z,2022-05-25T09:52:00Z,2,2,CLOSED
+composer,COM-595: Add environment param to apolloClient instance,https://github.com/cmpsr/composer/pull/451,2022-05-24T20:31:59Z,2022-05-25T07:41:16Z,2,2,MERGED
+composer,Com 594 refactor button component,https://github.com/cmpsr/composer/pull/450,2022-05-23T21:39:37Z,2022-05-27T10:12:13Z,6,7,MERGED
+composer,Com 593 refactor link component,https://github.com/cmpsr/composer/pull/449,2022-05-23T21:23:47Z,2022-05-27T09:56:31Z,2,8,MERGED
+composer,COM-583: Add support for footer,https://github.com/cmpsr/composer/pull/448,2022-05-22T06:52:57Z,2022-05-30T05:26:29Z,3,7,CLOSED
+composer,Com 582 add support for navbar,https://github.com/cmpsr/composer/pull/447,2022-05-22T05:50:31Z,2022-06-02T13:29:10Z,5,21,MERGED
+composer,COM-581: Add support for theme,https://github.com/cmpsr/composer/pull/446,2022-05-21T05:24:33Z,2022-05-26T10:03:50Z,3,14,MERGED
+composer,COM-584: Escape pipe characters,https://github.com/cmpsr/composer/pull/444,2022-05-20T02:44:14Z,2022-05-20T08:53:53Z,2,4,MERGED
+composer,COM-580: Removed MdxPage from getRouteBySlug query,https://github.com/cmpsr/composer/pull/443,2022-05-19T22:52:22Z,2022-05-20T09:22:25Z,2,3,MERGED
+composer,COM-579: Add globals prop to mdxRenderer component,https://github.com/cmpsr/composer/pull/442,2022-05-19T22:16:43Z,2022-05-28T14:38:19Z,3,3,CLOSED
+composer,Use hook for render,https://github.com/cmpsr/composer/pull/440,2022-05-19T13:56:56Z,2022-05-19T14:55:16Z,2,2,MERGED
+composer,chore: dummy update,https://github.com/cmpsr/composer/pull/437,2022-05-18T10:00:51Z,2022-05-18T10:13:44Z,2,1,CLOSED
+composer,[COM-569] Upgrade chakra packages to latest version to support React 18,https://github.com/cmpsr/composer/pull/436,2022-05-18T09:36:21Z,2022-05-18T13:44:06Z,2,6,MERGED
+composer,Add package to npm to releases,https://github.com/cmpsr/composer/pull/434,2022-05-16T16:11:41Z,2022-05-16T16:13:28Z,1,2,MERGED
+composer,Fix types not emitted,https://github.com/cmpsr/composer/pull/432,2022-05-16T15:18:40Z,2022-05-16T15:32:29Z,2,2,MERGED
+composer,Expose create contentful link in contentful-core,https://github.com/cmpsr/composer/pull/430,2022-05-12T13:51:04Z,2022-05-12T13:53:17Z,2,2,MERGED
+composer,[COM-553] Create nextjs-contentful-renderer,https://github.com/cmpsr/composer/pull/429,2022-05-11T16:42:24Z,2022-05-19T07:28:22Z,6,29,MERGED
+composer,[COM-492] Expose createBreakpoints function,https://github.com/cmpsr/composer/pull/428,2022-05-05T07:26:14Z,2022-05-05T07:47:24Z,2,2,MERGED
+composer,Move dependencies to peer and dev in contentful-core,https://github.com/cmpsr/composer/pull/424,2022-04-20T14:33:47Z,2022-04-20T14:37:29Z,1,2,MERGED
+composer,[COM-493] Theme partial props,https://github.com/cmpsr/composer/pull/422,2022-04-01T10:04:42Z,2022-04-01T12:06:41Z,2,2,MERGED
+composer,[COM-722] Implement Quote block,https://github.com/cmpsr/composer/pull/551,2022-07-29T15:49:18Z,2022-07-29T16:31:19Z,2,3,MERGED
+composer,[COM-719] Change Footer to use dot notation,https://github.com/cmpsr/composer/pull/550,2022-07-29T08:28:33Z,2022-07-29T08:52:36Z,2,6,MERGED
+composer,[COM-717] Change Navigation block to use dot notation,https://github.com/cmpsr/composer/pull/549,2022-07-28T11:35:56Z,2022-07-28T11:41:45Z,2,2,MERGED
+composer,COM-723: Disable chromatic for tooltip opened story,https://github.com/cmpsr/composer/pull/548,2022-07-27T19:49:04Z,2022-09-14T09:03:58Z,4,3,CLOSED
+composer,[COM-716] Refactor CookieBanner to use dot notation,https://github.com/cmpsr/composer/pull/547,2022-07-27T10:08:06Z,2022-07-27T11:47:54Z,2,3,MERGED
+composer,Add new block HighlightedText,https://github.com/cmpsr/composer/pull/546,2022-07-26T08:49:45Z,2022-07-26T12:50:11Z,3,6,MERGED
+composer,[COM-713] Refactor Testimonial to use dot notation,https://github.com/cmpsr/composer/pull/544,2022-07-25T13:21:44Z,2022-07-25T13:35:06Z,2,7,MERGED
+composer,feat: use theme extracted with figma plugin,https://github.com/cmpsr/composer/pull/543,2022-07-25T11:01:40Z,2022-07-25T14:47:49Z,2,8,MERGED
+composer,COM-714:  Set alert icon as optional by using dot notation,https://github.com/cmpsr/composer/pull/542,2022-07-22T23:07:57Z,2022-08-02T10:36:11Z,3,16,MERGED
+composer,Restore 543 to replace lerna with chanset to publish and set contente…,https://github.com/cmpsr/composer/pull/540,2022-07-18T15:32:11Z,2022-07-18T16:25:18Z,2,2,MERGED
+composer,"Revert ""COM-543: Replace lerna publish command with changeset command""",https://github.com/cmpsr/composer/pull/538,2022-07-18T10:29:46Z,2022-07-18T10:35:53Z,2,3,MERGED
+composer,TextPairing column gap should be applied from base breakpoint,https://github.com/cmpsr/composer/pull/536,2022-07-18T09:44:11Z,2022-07-18T09:51:15Z,2,2,MERGED
+composer,NumberedList,https://github.com/cmpsr/composer/pull/533,2022-07-08T14:00:49Z,2022-07-11T09:18:30Z,2,4,MERGED
+composer,[COM-664] Spread properties for Navigation block anchors,https://github.com/cmpsr/composer/pull/531,2022-07-08T11:34:02Z,2022-07-08T11:57:34Z,2,3,MERGED
+composer,COM-426: Add figma addon to storybook and configure the button stories for tes…,https://github.com/cmpsr/composer/pull/530,2022-07-08T05:35:47Z,2022-07-28T07:07:30Z,4,9,CLOSED
+composer,[COM-665] Improve mdx generation,https://github.com/cmpsr/composer/pull/528,2022-07-06T11:15:54Z,2022-07-06T11:20:14Z,2,3,MERGED
+composer,[COM-660] Add support for nextjs preview mode,https://github.com/cmpsr/composer/pull/526,2022-07-05T12:52:27Z,2022-07-05T12:57:16Z,2,3,MERGED
+composer,Com 661 get static routes,https://github.com/cmpsr/composer/pull/524,2022-07-04T12:56:42Z,2022-07-04T13:08:25Z,2,5,MERGED
+composer,COM-543: Replace lerna publish command with changeset command,https://github.com/cmpsr/composer/pull/523,2022-07-04T06:32:23Z,2022-07-06T17:19:59Z,2,2,MERGED
+composer,[COM-657] Get static page content,https://github.com/cmpsr/composer/pull/521,2022-07-01T13:39:46Z,2022-07-01T13:55:29Z,2,6,MERGED
+composer,Com 552 update dependencies,https://github.com/cmpsr/composer/pull/519,2022-06-30T21:19:24Z,2022-07-13T17:38:38Z,2,5,MERGED
+composer,Add columnGap to TextPairing parts,https://github.com/cmpsr/composer/pull/518,2022-06-30T17:16:43Z,2022-07-01T07:59:38Z,4,6,MERGED
+composer,chore: create changeset,https://github.com/cmpsr/composer/pull/517,2022-06-30T15:07:19Z,2022-06-30T15:11:21Z,2,1,CLOSED
+composer,Update TextPairing implementation to use dot notation / composition,https://github.com/cmpsr/composer/pull/515,2022-06-30T11:11:35Z,2022-06-30T15:02:45Z,5,7,MERGED
+composer,"Support new variations of components in Hero block (tag, mediablock...)",https://github.com/cmpsr/composer/pull/514,2022-06-29T08:47:22Z,2022-06-29T09:24:19Z,3,7,MERGED
+composer,Use dot notation and composition for Hero Block,https://github.com/cmpsr/composer/pull/512,2022-06-29T07:23:57Z,2022-06-29T07:31:32Z,2,3,MERGED
+composer,[COM-647] Implement MediaBlock component,https://github.com/cmpsr/composer/pull/510,2022-06-28T13:34:15Z,2022-06-28T13:37:47Z,2,2,MERGED
+composer,COM-646: Fix alt button border color when it is disabled,https://github.com/cmpsr/composer/pull/509,2022-06-28T05:39:16Z,2022-08-01T12:11:45Z,2,20,MERGED
+composer,update font size for body-meta-medium styles,https://github.com/cmpsr/composer/pull/508,2022-06-28T05:21:11Z,2022-06-28T13:44:03Z,2,3,MERGED
+composer,[COM-644] Fix input focus and invalid styles not being applied in apps,https://github.com/cmpsr/composer/pull/506,2022-06-23T15:26:06Z,2022-06-23T15:42:52Z,2,4,MERGED
+composer,Add new brand icons,https://github.com/cmpsr/composer/pull/504,2022-06-22T12:23:37Z,2022-06-22T12:53:52Z,2,2,MERGED
+composer,Fix inline alert text style,https://github.com/cmpsr/composer/pull/502,2022-06-21T10:15:07Z,2022-06-21T10:25:36Z,2,2,MERGED
+composer,Fix footer,https://github.com/cmpsr/composer/pull/501,2022-06-16T09:14:06Z,2022-06-16T09:53:56Z,2,3,MERGED
+composer,feat: justify footer content,https://github.com/cmpsr/composer/pull/499,2022-06-15T18:17:25Z,2022-06-16T07:33:51Z,2,2,MERGED
+composer,Generate release for footer support changes,https://github.com/cmpsr/composer/pull/496,2022-06-15T09:21:38Z,2022-06-15T09:29:31Z,2,2,MERGED
+composer,Export Accordion Props,https://github.com/cmpsr/composer/pull/495,2022-06-14T13:17:13Z,2022-06-15T12:16:09Z,2,3,MERGED
+composer,feat: reexport keyframes,https://github.com/cmpsr/composer/pull/493,2022-06-14T10:50:16Z,2022-06-14T11:02:12Z,2,4,MERGED
+composer,Update lerna to latest version,https://github.com/cmpsr/composer/pull/492,2022-06-14T07:47:59Z,2022-06-15T08:53:34Z,2,2,MERGED
+composer,[Snyk] Security upgrade lerna from 4.0.0 to 5.1.2,https://github.com/cmpsr/composer/pull/491,2022-06-14T03:11:57Z,2022-06-15T08:53:34Z,2,1,CLOSED
+composer,COM-626: Fix alt buttons height,https://github.com/cmpsr/composer/pull/489,2022-06-11T06:24:02Z,2022-08-01T09:46:08Z,7,19,MERGED
+composer,[COM-586] Footer Block,https://github.com/cmpsr/composer/pull/488,2022-06-10T15:54:29Z,2022-06-15T12:19:58Z,3,14,MERGED
+composer,[COM-628] Make TextPairing accept labelProps and subLabelProps,https://github.com/cmpsr/composer/pull/486,2022-06-10T12:58:37Z,2022-06-10T13:31:39Z,2,3,MERGED
+composer,Add whiteSpace prop to TextPairing sub label,https://github.com/cmpsr/composer/pull/484,2022-06-10T10:16:34Z,2022-06-10T10:20:28Z,2,2,MERGED
+composer,fix: Config navbar when page loaded from cookies,https://github.com/cmpsr/composer/pull/482,2022-06-09T19:14:23Z,2022-06-10T06:58:22Z,2,2,MERGED
+composer,Unify Hero Image properties,https://github.com/cmpsr/composer/pull/480,2022-06-09T09:07:48Z,2022-06-09T14:46:00Z,2,9,MERGED
+composer,COM-576: Add breakpoint and styles properties in theme types,https://github.com/cmpsr/composer/pull/479,2022-06-08T22:17:07Z,2022-06-13T07:53:38Z,2,2,MERGED
+composer,[COM-588] Hero Block and tweaks,https://github.com/cmpsr/composer/pull/477,2022-06-08T12:21:52Z,2022-06-08T13:23:11Z,3,10,MERGED
+composer,COM-570: Add validation to remove tags p as children of composer components,https://github.com/cmpsr/composer/pull/476,2022-06-06T22:49:13Z,2022-08-02T16:50:09Z,3,4,CLOSED
+composer,COM-555: Add sopport for footer,https://github.com/cmpsr/composer/pull/475,2022-06-04T04:54:37Z,2022-06-15T09:19:41Z,2,8,MERGED
+composer,[COM-623] Rename Mdx to Model,https://github.com/cmpsr/composer/pull/474,2022-06-03T14:04:09Z,2022-06-03T14:08:19Z,2,2,MERGED
+composer,Add textAlign property to TextPairing,https://github.com/cmpsr/composer/pull/472,2022-06-03T08:54:14Z,2022-06-03T09:09:42Z,2,3,MERGED
+composer,[COM-592] Testimonial block,https://github.com/cmpsr/composer/pull/471,2022-06-02T16:52:21Z,2022-06-03T12:37:04Z,2,6,MERGED
+composer,[COM-592] Testimonial block,https://github.com/cmpsr/composer/pull/470,2022-06-02T16:46:42Z,2022-06-02T16:47:38Z,1,8,CLOSED
+composer,Generate missing changeset for navbar support,https://github.com/cmpsr/composer/pull/469,2022-06-02T13:41:58Z,2022-06-02T13:55:06Z,2,1,MERGED
+composer,[COM-590] BrandLogos block,https://github.com/cmpsr/composer/pull/468,2022-06-01T14:31:16Z,2022-06-03T09:33:28Z,7,12,MERGED
+composer,Re-export chakra-ui useTheme,https://github.com/cmpsr/composer/pull/579,2022-10-24T09:33:36Z,2022-10-24T09:37:09Z,2,2,MERGED
+composer,[COM-849] Support missing components in generateMdx,https://github.com/cmpsr/composer/pull/577,2022-10-20T12:18:18Z,2022-10-20T12:41:10Z,2,4,MERGED
+composer,Replace lodash.merge with custom implementation,https://github.com/cmpsr/composer/pull/575,2022-10-06T09:55:01Z,2022-10-06T10:07:03Z,2,3,MERGED
+composer,Merge nested props,https://github.com/cmpsr/composer/pull/573,2022-10-05T14:05:51Z,2022-10-05T14:16:33Z,2,2,MERGED
+composer,[COM-7607] Handle components when generating mdx,https://github.com/cmpsr/composer/pull/571,2022-10-04T15:55:17Z,2022-10-04T16:09:10Z,2,5,MERGED
+composer,Com 734 disclosure,https://github.com/cmpsr/composer/pull/570,2022-09-30T15:17:48Z,2022-09-30T16:24:55Z,2,2,MERGED
+composer,feat: restructure overlay components,https://github.com/cmpsr/composer/pull/569,2022-09-30T14:45:12Z,2022-09-30T15:15:00Z,2,2,MERGED
+composer,feat: restructure typography components,https://github.com/cmpsr/composer/pull/568,2022-09-30T13:57:54Z,2022-09-30T14:39:06Z,2,4,MERGED
+composer,feat: restructure data display components,https://github.com/cmpsr/composer/pull/567,2022-09-30T11:12:10Z,2022-09-30T14:23:52Z,2,3,MERGED
+composer,feat: restructure navigation components,https://github.com/cmpsr/composer/pull/566,2022-09-30T09:44:11Z,2022-09-30T14:16:47Z,2,4,MERGED
+composer,feat: restructure components in form folder,https://github.com/cmpsr/composer/pull/565,2022-09-30T09:36:52Z,2022-09-30T14:06:23Z,2,5,MERGED
+composer,feat: restructure components in feedback folder,https://github.com/cmpsr/composer/pull/564,2022-09-30T09:23:06Z,2022-09-30T11:24:50Z,3,3,MERGED
+composer,[Snyk] Security upgrade plaid from 4.11.0 to 9.0.0,https://github.com/cmpsr/composer/pull/563,2022-09-29T04:15:01Z,2022-12-19T14:44:52Z,2,1,CLOSED
+composer,[COM-819] Integrate SignalWire API to send SMS messages,https://github.com/cmpsr/composer/pull/562,2022-09-28T14:28:53Z,2022-09-29T14:24:40Z,6,7,MERGED
+composer,Update block's parts naming to be consistent,https://github.com/cmpsr/composer/pull/561,2022-09-27T09:06:55Z,2022-09-29T09:26:32Z,2,15,MERGED
+composer,[Snyk] Security upgrade lerna from 5.1.2 to 5.5.2,https://github.com/cmpsr/composer/pull/560,2022-09-20T21:29:42Z,2022-09-23T07:25:15Z,2,2,MERGED
+composer,[COM-720] AccordionGallery improvements,https://github.com/cmpsr/composer/pull/559,2022-08-08T12:54:16Z,2022-08-08T14:06:56Z,2,2,MERGED
+composer,[COM-721] ColumnLayout block,https://github.com/cmpsr/composer/pull/558,2022-08-08T11:04:14Z,2022-09-01T12:40:15Z,8,11,MERGED
+composer,Export Card types,https://github.com/cmpsr/composer/pull/557,2022-08-05T15:08:01Z,2022-08-05T16:12:05Z,2,3,MERGED
+composer,[COM-721] Tag static members,https://github.com/cmpsr/composer/pull/556,2022-08-05T11:35:35Z,2022-08-05T12:03:39Z,2,3,CLOSED
+composer,[COM-720] Create AccordionGallery block,https://github.com/cmpsr/composer/pull/555,2022-08-03T10:59:26Z,2022-08-08T14:54:29Z,2,10,MERGED
+composer,[COM-570] Remove custom Text and Paragraph from nextjs-renderer,https://github.com/cmpsr/composer/pull/554,2022-08-02T16:57:12Z,2022-08-02T17:10:46Z,2,2,MERGED
+composer,[COM-725] Update chakra-ui to latest version,https://github.com/cmpsr/composer/pull/553,2022-08-01T16:23:37Z,2022-08-02T09:52:16Z,2,8,MERGED
+composer,[COM-405] Fix AccordionIcon to use tabler icons instead of chakra implementation,https://github.com/cmpsr/composer/pull/552,2022-08-01T14:57:16Z,2022-08-01T15:06:48Z,2,4,MERGED
+composer,[COM-1067] Create cml package and move responsibilites from nextjs-contentful-renderer,https://github.com/cmpsr/composer/pull/645,2022-12-22T16:39:18Z,2022-12-23T09:09:37Z,3,11,MERGED
+composer,[COM-1059] Do not capture open bracket in prop name,https://github.com/cmpsr/composer/pull/643,2022-12-21T13:30:58Z,2022-12-21T13:37:22Z,2,3,MERGED
+composer,[COM-1059] Allow anything but : in prop name,https://github.com/cmpsr/composer/pull/642,2022-12-21T11:18:11Z,2022-12-21T11:33:01Z,2,2,MERGED
+composer,Integrate 3d scenes,https://github.com/cmpsr/composer/pull/640,2022-12-08T22:44:34Z,2024-06-17T10:24:04Z,25,12,CLOSED
+composer,feat(gtag): COM-851 Adds gtag implementation,https://github.com/cmpsr/composer/pull/639,2022-12-07T23:25:06Z,2023-01-05T19:35:24Z,3,4,MERGED
+composer,Fix Button border radius,https://github.com/cmpsr/composer/pull/637,2022-12-07T10:30:56Z,2022-12-07T13:07:06Z,2,3,MERGED
+composer,"Support ""outline"" in alt buttons (Safari)",https://github.com/cmpsr/composer/pull/635,2022-12-06T14:16:15Z,2022-12-07T09:34:44Z,2,2,MERGED
+composer,Remove default maxWidth and width of Hero.Content and Hero.Image,https://github.com/cmpsr/composer/pull/634,2022-12-05T10:17:25Z,2022-12-05T10:38:24Z,2,2,MERGED
+composer,[COM-990] Add spacing between navigation links when there are no dividers,https://github.com/cmpsr/composer/pull/632,2022-12-05T09:42:25Z,2022-12-05T10:01:40Z,2,4,MERGED
+composer,Simplify testimonial author,https://github.com/cmpsr/composer/pull/631,2022-12-03T10:54:15Z,2022-12-05T09:46:17Z,2,6,MERGED
+composer,Fix multiple styling,https://github.com/cmpsr/composer/pull/629,2022-11-29T14:52:39Z,2022-11-29T14:57:29Z,1,2,MERGED
+composer,"COM-735 Make the title of the following Avatar, Icons, Image match /Component/Media/[Component name] in storybook",https://github.com/cmpsr/composer/pull/628,2022-11-29T14:08:44Z,2022-12-09T10:06:22Z,3,4,MERGED
+composer,[COM-976] Add support for styling Text via CML,https://github.com/cmpsr/composer/pull/627,2022-11-28T15:04:37Z,2022-11-28T15:11:26Z,1,2,MERGED
+composer,[COM-971] Remove textTransform uppercase of Hero.Overline,https://github.com/cmpsr/composer/pull/626,2022-11-28T14:11:04Z,2022-11-28T14:25:00Z,2,2,MERGED
+composer,[COM-982] Fix storybook deploy,https://github.com/cmpsr/composer/pull/625,2022-11-28T09:24:53Z,2022-11-28T12:36:17Z,2,1,MERGED
+composer,[COM-981] Show composer rooms logo from contentful,https://github.com/cmpsr/composer/pull/623,2022-11-28T08:43:14Z,2022-11-28T08:53:10Z,2,5,MERGED
+composer,Define default breakpoints,https://github.com/cmpsr/composer/pull/621,2022-11-25T14:17:52Z,2022-11-25T14:24:46Z,2,4,MERGED
+composer,[COM-974] Fix @cmpsr/signalwire/client package build,https://github.com/cmpsr/composer/pull/619,2022-11-25T11:34:12Z,2022-11-25T11:37:58Z,2,2,MERGED
+composer,[COM-974] Fix @cmpsr/blocks build,https://github.com/cmpsr/composer/pull/617,2022-11-25T11:09:50Z,2022-11-25T11:13:56Z,2,2,MERGED
+composer,Restructure Footer block to follow same approach as other blocks,https://github.com/cmpsr/composer/pull/616,2022-11-23T20:10:31Z,2022-11-24T09:26:59Z,2,6,MERGED
+composer,Add new showDividers property to NavigationLinks,https://github.com/cmpsr/composer/pull/614,2022-11-23T10:49:53Z,2022-11-23T14:59:41Z,3,6,MERGED
+composer,[COM-947] Add support for extra props,https://github.com/cmpsr/composer/pull/613,2022-11-22T17:10:42Z,2022-11-22T17:32:19Z,2,3,MERGED
+composer,Update Navigation.Links to accept spread properties,https://github.com/cmpsr/composer/pull/611,2022-11-22T15:53:50Z,2022-11-22T15:57:34Z,2,2,MERGED
+composer,[COM-939] Update navbar and footer to act as Blocks,https://github.com/cmpsr/composer/pull/610,2022-11-22T15:04:30Z,2022-11-22T16:02:44Z,2,4,MERGED
+composer,[COM-953] Fix messages scroll,https://github.com/cmpsr/composer/pull/608,2022-11-22T10:17:12Z,2022-11-22T12:41:17Z,1,6,MERGED
+composer,[COM-944] Expose VideoChat component in signalwire/client and nextjs-renderer,https://github.com/cmpsr/composer/pull/606,2022-11-21T14:01:55Z,2022-11-21T14:36:51Z,3,15,MERGED
+composer,[COM-931] Update default Tag size of MediaBlock,https://github.com/cmpsr/composer/pull/605,2022-11-18T10:02:28Z,2022-11-18T10:57:15Z,1,2,CLOSED
+composer,Bump peer dependency @cmpsr/components in @cmpsr/blocks,https://github.com/cmpsr/composer/pull/603,2022-11-17T11:33:16Z,2022-11-17T11:42:23Z,2,2,MERGED
+composer,[COM-927] Add width inherit to Link component,https://github.com/cmpsr/composer/pull/601,2022-11-17T10:54:02Z,2022-11-17T11:22:47Z,2,2,MERGED
+composer,[COM-914] Add support for Overline in BrandLogos block,https://github.com/cmpsr/composer/pull/599,2022-11-15T11:12:14Z,2022-11-15T13:54:31Z,2,3,MERGED
+composer,[COM-915] Handle boolean and number types appropriately,https://github.com/cmpsr/composer/pull/598,2022-11-15T08:53:03Z,2022-11-15T09:13:02Z,2,2,MERGED
+composer,[COM-902] Add display flex to HighlightedText Overline,https://github.com/cmpsr/composer/pull/596,2022-11-14T11:28:04Z,2022-11-14T11:53:58Z,2,2,MERGED
+composer,Add support for Images field type,https://github.com/cmpsr/composer/pull/594,2022-11-11T13:07:44Z,2022-11-11T13:17:53Z,2,2,MERGED
+composer,Add default value to flexWrap,https://github.com/cmpsr/composer/pull/592,2022-11-10T13:54:10Z,2022-11-10T14:12:00Z,2,3,MERGED
+composer,[COM-861] Add support for Columns type to generateMdx,https://github.com/cmpsr/composer/pull/590,2022-11-10T09:25:55Z,2022-11-10T09:31:46Z,2,3,MERGED
+composer,[COM-861] Add support for Column type to generateMdx,https://github.com/cmpsr/composer/pull/588,2022-11-10T08:26:10Z,2022-11-10T08:31:03Z,2,2,MERGED
+composer,[COM-872] Replace ENV_VAR field type with process.env,https://github.com/cmpsr/composer/pull/586,2022-11-07T17:03:42Z,2022-11-07T17:21:22Z,2,3,MERGED
+composer,[COM-859] Add overline text to MediaBlock and ColumnLayout,https://github.com/cmpsr/composer/pull/584,2022-11-04T12:36:30Z,2022-11-04T12:45:38Z,2,4,MERGED
+composer,[COM-859] Load propsValue for Navigation and Footer,https://github.com/cmpsr/composer/pull/582,2022-11-03T10:05:57Z,2022-11-03T10:17:01Z,2,2,MERGED
+composer,Add support for Bullets,https://github.com/cmpsr/composer/pull/581,2022-11-03T09:37:00Z,2022-11-03T10:08:16Z,2,3,MERGED
+composer,Skip cml maps,https://github.com/cmpsr/composer/pull/679,2023-03-02T16:15:40Z,2023-03-02T16:31:20Z,2,2,MERGED
+composer,Added new FieldType for Tag Empty Container (COM-1141),https://github.com/cmpsr/composer/pull/678,2023-02-28T15:42:54Z,2023-03-01T15:42:28Z,4,3,MERGED
+composer,Replica Support,https://github.com/cmpsr/composer/pull/677,2023-02-27T15:05:59Z,2023-04-25T14:40:05Z,78,94,MERGED
+composer,[COM-1174] Remove nodejs version upper restriction,https://github.com/cmpsr/composer/pull/674,2023-02-15T13:41:53Z,2023-02-15T13:58:05Z,2,4,MERGED
+composer,Add missing `CONTENTFUL_ENVIRONMENT` default,https://github.com/cmpsr/composer/pull/673,2023-02-14T21:50:41Z,2023-02-15T13:50:39Z,2,2,MERGED
+composer,[minor] adds radii-button token,https://github.com/cmpsr/composer/pull/672,2023-02-14T15:51:54Z,2023-02-23T14:17:05Z,8,4,MERGED
+composer,COM-1167 Removes delete storybook github action,https://github.com/cmpsr/composer/pull/671,2023-02-14T14:54:48Z,2023-02-14T15:16:33Z,2,1,MERGED
+composer,COM-1167 Adds permissions to delete storybook github action,https://github.com/cmpsr/composer/pull/670,2023-02-14T14:01:56Z,2023-02-14T14:30:14Z,3,1,MERGED
+composer,COM-1167 CI: Fixes delete-storybook github action,https://github.com/cmpsr/composer/pull/669,2023-02-13T22:54:15Z,2023-02-14T13:53:49Z,4,4,MERGED
+composer,Com 723 tooltip chromatic retest,https://github.com/cmpsr/composer/pull/668,2023-02-10T15:52:47Z,2023-02-10T17:44:05Z,2,13,CLOSED
+composer,COM-723 Updates chromatic to latest + Tooltip story fix,https://github.com/cmpsr/composer/pull/667,2023-02-10T15:17:23Z,2023-02-13T16:52:51Z,2,4,MERGED
+composer,COM-544 Removes sourcemaps from blocks and components,https://github.com/cmpsr/composer/pull/666,2023-02-09T02:03:04Z,2023-02-09T02:11:51Z,2,1,CLOSED
+composer,Com 544 bis,https://github.com/cmpsr/composer/pull/665,2023-02-09T01:56:43Z,2023-02-09T01:59:05Z,1,22,CLOSED
+composer,"Adding check for tag. If there's no children, don't render component (COM-1141)",https://github.com/cmpsr/composer/pull/664,2023-02-08T21:48:38Z,2023-02-28T15:40:32Z,3,2,CLOSED
+composer,COM-544 Components library build size + IDEA folder,https://github.com/cmpsr/composer/pull/663,2023-02-07T20:59:55Z,2023-02-09T02:14:12Z,4,23,MERGED
+composer,[Snyk] Security upgrade twilio from 3.84.1 to 4.0.0,https://github.com/cmpsr/composer/pull/660,2023-01-26T06:27:19Z,2023-06-07T12:53:51Z,2,1,CLOSED
+composer,Mapping unordered list (COM-1109),https://github.com/cmpsr/composer/pull/658,2023-01-25T16:44:17Z,2023-01-26T10:27:45Z,2,4,MERGED
+composer,fix: remove invalid storybook title with double slash,https://github.com/cmpsr/composer/pull/657,2023-01-25T14:29:54Z,2023-01-25T15:17:12Z,2,1,MERGED
+composer,Prefix slugs with a slash,https://github.com/cmpsr/composer/pull/655,2023-01-25T10:54:15Z,2023-01-25T11:01:27Z,2,2,MERGED
+composer,Added ordered and unordered list for composer components and updated mapping of mdx to use them when ol and ul,https://github.com/cmpsr/composer/pull/654,2023-01-19T19:22:02Z,2023-01-25T16:29:37Z,3,6,MERGED
+composer,[docs] Updates documented component links,https://github.com/cmpsr/composer/pull/653,2023-01-18T21:23:41Z,2023-01-26T19:59:57Z,2,3,MERGED
+composer,COM-388 (Add popover),https://github.com/cmpsr/composer/pull/652,2023-01-16T23:07:16Z,2023-12-12T15:36:53Z,3,2,CLOSED
+composer,[COM-784] Add support for AccordionsGallery fieldType,https://github.com/cmpsr/composer/pull/651,2023-01-13T11:06:57Z,2023-01-16T10:08:53Z,3,3,MERGED
+composer,chore(COM-289) bumps react-plaid-link version to the latest,https://github.com/cmpsr/composer/pull/650,2023-01-09T18:51:59Z,2023-02-01T15:29:39Z,2,5,MERGED
+composer,Com-736 - Moves the following components to /Components/Other,https://github.com/cmpsr/composer/pull/648,2023-01-05T13:57:37Z,2023-01-24T20:38:01Z,2,5,MERGED
+composer,[fix] Isolate Replica queries and suppress errors,https://github.com/cmpsr/composer/pull/722,2023-05-26T13:34:39Z,2023-05-26T15:11:01Z,4,9,CLOSED
+composer,[COM-1269] Add test to confirm replica slugs are being include in static routes,https://github.com/cmpsr/composer/pull/721,2023-05-26T11:59:42Z,2023-05-26T14:25:00Z,3,3,MERGED
+composer,Fix: Markdown Lists Rendering,https://github.com/cmpsr/composer/pull/720,2023-05-24T15:35:58Z,2023-06-02T19:24:24Z,5,4,CLOSED
+composer,Feature: Static Replicas,https://github.com/cmpsr/composer/pull/719,2023-05-19T17:04:31Z,2023-05-25T19:38:27Z,3,2,MERGED
+composer,[COM-1265] Update typescript and chakra to latest version,https://github.com/cmpsr/composer/pull/717,2023-05-17T07:39:57Z,2023-05-17T13:08:52Z,6,12,MERGED
+composer,feat: support size/variant properties as responsive values,https://github.com/cmpsr/composer/pull/715,2023-05-15T09:36:57Z,2023-05-16T12:45:51Z,5,4,MERGED
+composer,fix: Replica data returned,https://github.com/cmpsr/composer/pull/713,2023-05-12T16:57:06Z,2023-05-12T18:07:27Z,3,2,MERGED
+composer,Replica: Title,https://github.com/cmpsr/composer/pull/711,2023-05-12T15:22:29Z,2023-05-12T15:33:53Z,3,5,MERGED
+composer,Add new link-secondary variant and update Footer.Action to use it,https://github.com/cmpsr/composer/pull/709,2023-05-11T12:24:10Z,2023-05-11T12:32:46Z,3,3,MERGED
+composer,fix return type when processing replicas,https://github.com/cmpsr/composer/pull/708,2023-05-10T16:18:43Z,2023-05-10T16:32:13Z,3,3,MERGED
+composer,Fix: Replica Meta,https://github.com/cmpsr/composer/pull/706,2023-05-10T15:44:04Z,2023-05-10T15:52:08Z,1,3,MERGED
+composer,Replica: Meta Configuration,https://github.com/cmpsr/composer/pull/704,2023-05-09T17:52:25Z,2023-05-09T19:26:20Z,5,10,MERGED
+composer,[COM-1260] New link variants,https://github.com/cmpsr/composer/pull/703,2023-05-09T17:14:22Z,2023-05-10T13:12:48Z,6,13,MERGED
+composer,[COM-1104] Add new colors,https://github.com/cmpsr/composer/pull/701,2023-05-09T12:50:08Z,2023-05-09T14:05:13Z,4,3,MERGED
+composer,Wrap Carousel Slide in Flex element and add default margin,https://github.com/cmpsr/composer/pull/699,2023-05-09T09:11:42Z,2023-05-09T09:34:33Z,3,2,MERGED
+composer,Add support for Carousel field type in CML,https://github.com/cmpsr/composer/pull/697,2023-05-08T11:47:51Z,2023-05-08T12:45:18Z,3,2,MERGED
+composer,Remove totalSlides property from Carousel,https://github.com/cmpsr/composer/pull/696,2023-05-08T11:37:31Z,2023-05-08T13:17:28Z,7,8,MERGED
+composer,[COM-1259] Update lerna and turbo to latest versions to fix security issues,https://github.com/cmpsr/composer/pull/695,2023-05-03T14:31:15Z,2023-05-03T14:38:53Z,2,2,MERGED
+composer,"Revert ""Update @cmpsr/carousel to optional in @cmpsr/nextjs-contentful-renderer""",https://github.com/cmpsr/composer/pull/694,2023-04-28T15:46:10Z,2023-04-28T16:00:30Z,3,2,MERGED
+composer,Update @cmpsr/carousel to optional in @cmpsr/nextjs-contentful-renderer,https://github.com/cmpsr/composer/pull/692,2023-04-28T14:39:44Z,2023-04-28T14:50:31Z,3,2,MERGED
+composer,[HAM-65] Create Carousel package,https://github.com/cmpsr/composer/pull/690,2023-04-28T13:12:43Z,2023-04-28T14:00:31Z,8,6,MERGED
+composer,[HAM-65] Carousel Block,https://github.com/cmpsr/composer/pull/689,2023-04-27T15:57:11Z,2023-04-28T12:32:43Z,5,23,CLOSED
+composer,Fix - nextjs-contentful-renderer,https://github.com/cmpsr/composer/pull/687,2023-04-26T15:26:03Z,2023-04-26T15:38:12Z,3,2,MERGED
+composer,[HAM-62] Add Carousel component,https://github.com/cmpsr/composer/pull/686,2023-04-25T14:12:23Z,2023-04-27T15:50:32Z,6,18,CLOSED
+composer,[COM-1162] Make signalwire optional,https://github.com/cmpsr/composer/pull/684,2023-04-13T09:59:51Z,2023-04-13T12:17:57Z,2,3,MERGED
+composer,[chore] Align Versions,https://github.com/cmpsr/composer/pull/683,2023-04-05T19:00:59Z,2023-04-18T14:06:27Z,2,5,MERGED
+composer,COM-1238 - Fixes GTag imports in analytics,https://github.com/cmpsr/composer/pull/681,2023-04-04T16:44:31Z,2023-04-04T16:54:37Z,2,1,MERGED
+composer,Update replaceCmlPlaceholders to replace default boolean values,https://github.com/cmpsr/composer/pull/768,2023-07-31T14:11:41Z,2023-07-31T15:17:35Z,4,3,MERGED
+composer,Breadcrumb last child should use body medium typography,https://github.com/cmpsr/composer/pull/764,2023-07-27T12:40:56Z,2023-07-27T14:42:57Z,2,2,MERGED
+composer,Export footer types,https://github.com/cmpsr/composer/pull/762,2023-07-26T09:15:34Z,2023-07-26T10:06:20Z,2,2,MERGED
+composer,fixes minor composer Dropdown bugs,https://github.com/cmpsr/composer/pull/761,2023-07-26T00:27:34Z,2023-07-28T15:10:30Z,7,11,MERGED
+composer,Update gtag methods,https://github.com/cmpsr/composer/pull/759,2023-07-21T09:38:53Z,2023-07-21T10:01:10Z,3,3,MERGED
+composer,[HAM-389] Retrieve all slugs recursively ,https://github.com/cmpsr/composer/pull/757,2023-07-20T14:03:28Z,2023-07-20T14:19:27Z,2,2,MERGED
+composer,[NO-MERGE] testing json no-stringfy solution,https://github.com/cmpsr/composer/pull/755,2023-07-12T09:08:58Z,2023-07-12T14:49:06Z,4,5,CLOSED
+composer,[Snyk] Security upgrade @google-cloud/kms from 2.11.1 to 3.0.0,https://github.com/cmpsr/composer/pull/754,2023-07-11T22:12:57Z,2024-07-02T08:32:26Z,2,1,CLOSED
+composer,[Snyk] Security upgrade @google-cloud/firestore from 4.15.1 to 6.0.0,https://github.com/cmpsr/composer/pull/752,2023-07-06T15:46:06Z,2023-12-08T17:04:36Z,2,1,CLOSED
+composer,feat(HAM-362) configures json cml placeholder replacement,https://github.com/cmpsr/composer/pull/751,2023-07-05T19:13:48Z,2023-07-12T14:48:27Z,7,3,MERGED
+composer,[COM-1317] CML global variables,https://github.com/cmpsr/composer/pull/750,2023-07-05T16:51:44Z,2023-07-10T08:29:32Z,4,10,MERGED
+composer,[COM-1181] Add ghost variant to button and solve radius issue in IconButton,https://github.com/cmpsr/composer/pull/748,2023-06-28T15:59:38Z,2023-09-08T08:20:32Z,4,15,MERGED
+composer,Remove hardcoded font-family,https://github.com/cmpsr/composer/pull/747,2023-06-28T09:08:09Z,2023-06-28T13:08:49Z,2,2,MERGED
+composer,feat(HAM-336) grouping carousel dots,https://github.com/cmpsr/composer/pull/746,2023-06-27T16:54:17Z,2023-07-28T18:15:01Z,10,18,MERGED
+composer,[Snyk] Security upgrade @changesets/cli from 2.26.1 to 2.26.2,https://github.com/cmpsr/composer/pull/745,2023-06-27T16:01:49Z,2023-07-03T09:14:53Z,2,2,MERGED
+composer,[COM-1309] Autocomplete,https://github.com/cmpsr/composer/pull/743,2023-06-26T15:05:54Z,2023-06-27T13:28:06Z,9,16,MERGED
+composer,[Snyk] Security upgrade @google-cloud/storage from 5.20.5 to 6.0.0,https://github.com/cmpsr/composer/pull/742,2023-06-23T21:14:34Z,2024-07-02T15:34:27Z,2,1,CLOSED
+composer,Release canaries on PR labeled,https://github.com/cmpsr/composer/pull/741,2023-06-23T06:35:26Z,2023-06-23T15:54:33Z,5,4,MERGED
+composer,[no-release] Skip github job if no-release,https://github.com/cmpsr/composer/pull/740,2023-06-22T13:31:49Z,2023-06-23T06:33:04Z,1,3,CLOSED
+composer,[no-release] Update lerna to latest version,https://github.com/cmpsr/composer/pull/739,2023-06-22T13:15:45Z,2023-06-22T13:23:21Z,2,1,MERGED
+composer,fix: update dependencies and fix types,https://github.com/cmpsr/composer/pull/738,2023-06-22T09:14:20Z,2023-06-22T09:30:10Z,4,1,MERGED
+composer,[Snyk] Security upgrade twilio from 3.84.1 to 4.0.0,https://github.com/cmpsr/composer/pull/737,2023-06-21T14:50:28Z,2023-06-22T07:04:05Z,2,1,CLOSED
+composer,[no-release][Snyk] Security upgrade lerna from 6.6.1 to 7.0.0,https://github.com/cmpsr/composer/pull/736,2023-06-20T21:27:37Z,2023-06-22T13:14:00Z,2,2,CLOSED
+composer,Feature: `MarkdownProvider`,https://github.com/cmpsr/composer/pull/735,2023-06-20T21:12:57Z,2023-06-26T21:19:25Z,11,13,MERGED
+composer,[COM-1180] Add with icons story to Dropdown,https://github.com/cmpsr/composer/pull/733,2023-06-12T08:41:34Z,2023-06-12T09:14:58Z,3,2,MERGED
+composer,[COM-1293] Export Input component as a forwardRef,https://github.com/cmpsr/composer/pull/732,2023-06-09T13:57:03Z,2023-06-09T14:06:24Z,3,2,MERGED
+composer,[COM-1294] Export Checkbox component as a forwardRef,https://github.com/cmpsr/composer/pull/730,2023-06-09T13:34:34Z,2023-06-09T13:40:11Z,3,2,MERGED
+composer,COM-1292 li styling,https://github.com/cmpsr/composer/pull/729,2023-06-07T07:55:41Z,2023-06-07T12:22:16Z,3,6,MERGED
+composer,[COM-1292] Export ListItemProps,https://github.com/cmpsr/composer/pull/727,2023-06-07T07:03:28Z,2023-06-07T07:07:42Z,2,2,MERGED
+composer,COM-1276 Upgrades twilio to latest version 4.11.2,https://github.com/cmpsr/composer/pull/726,2023-06-05T15:47:33Z,2023-06-22T09:37:38Z,7,3,MERGED
+composer,Com 1279 markdown fixes,https://github.com/cmpsr/composer/pull/725,2023-06-01T16:43:24Z,2023-06-02T09:32:46Z,4,3,MERGED
+composer,[COM-1278] Add OrderedList component,https://github.com/cmpsr/composer/pull/724,2023-06-01T15:27:08Z,2023-06-01T15:33:10Z,2,3,MERGED
+composer,Remove lerna from dependencies,https://github.com/cmpsr/composer/pull/826,2023-10-30T09:01:12Z,2023-10-30T09:09:07Z,2,1,MERGED
+composer,Update strings replacement to consider null and undefined scenarios,https://github.com/cmpsr/composer/pull/824,2023-10-26T09:46:33Z,2023-10-26T13:15:57Z,4,3,MERGED
+composer,[TEST] feat: test new theme exported by plugin,https://github.com/cmpsr/composer/pull/823,2023-10-19T10:41:12Z,2023-10-19T10:59:51Z,2,2,CLOSED
+composer,fix(COM-1376) completely disables rich text features when plain text mode is on,https://github.com/cmpsr/composer/pull/821,2023-10-10T18:11:00Z,2023-10-16T08:41:10Z,9,6,MERGED
+composer,[COM-1420] Ignore roleIds in CML placeholder replacement,https://github.com/cmpsr/composer/pull/819,2023-10-09T08:56:50Z,2023-10-16T08:35:01Z,9,7,MERGED
+composer,feat(COM-1376) adds markdown view toggle button to markdown editor,https://github.com/cmpsr/composer/pull/818,2023-10-04T18:30:10Z,2023-10-09T19:05:09Z,10,5,MERGED
+composer,Refactor Boolean and Number Field Types to Default to Undefined,https://github.com/cmpsr/composer/pull/816,2023-10-03T12:35:35Z,2023-10-03T15:02:56Z,5,3,MERGED
+composer,[COM-1324] Adapt Carousel to use composition,https://github.com/cmpsr/composer/pull/814,2023-10-02T08:51:20Z,2023-10-02T13:04:15Z,5,4,MERGED
+composer,[COM-1401] Make size and variant responsive values,https://github.com/cmpsr/composer/pull/813,2023-09-28T15:30:44Z,2023-09-29T07:17:57Z,2,2,MERGED
+composer,[COM-1397] Add support for strings field type,https://github.com/cmpsr/composer/pull/812,2023-09-28T14:47:10Z,2023-09-29T08:12:28Z,2,6,MERGED
+composer,[COM-1397] Add support for MultiInput field type,https://github.com/cmpsr/composer/pull/811,2023-09-28T14:38:13Z,2023-09-28T14:46:47Z,1,3,CLOSED
+composer,Upgrade dependencies,https://github.com/cmpsr/composer/pull/809,2023-09-28T13:37:23Z,2023-09-28T13:44:18Z,2,3,MERGED
+composer,[COM-1324] Add support for floating arrows in Carousel,https://github.com/cmpsr/composer/pull/808,2023-09-27T12:09:32Z,2023-09-29T12:37:48Z,2,6,CLOSED
+composer,[COM-1398] Checkbox alignment,https://github.com/cmpsr/composer/pull/807,2023-09-27T09:58:51Z,2023-09-27T10:20:04Z,2,3,MERGED
+composer,[COM-1388] Update Inputs placeholder color token,https://github.com/cmpsr/composer/pull/804,2023-09-26T08:28:35Z,2023-09-26T08:44:33Z,2,2,MERGED
+composer,feat(COM-1376) adds markdown view toggle button to markdown editor,https://github.com/cmpsr/composer/pull/802,2023-09-21T10:57:40Z,2023-10-05T17:20:56Z,15,13,CLOSED
+composer,"[COM-1337] Support external actions in toolbar and customisation of container, content and content editable elements",https://github.com/cmpsr/composer/pull/801,2023-09-20T12:40:59Z,2023-09-22T16:39:40Z,10,9,MERGED
+composer,feat(COM-1379) sets focus back to autocomplete input after cleaning it,https://github.com/cmpsr/composer/pull/800,2023-09-19T13:14:33Z,2023-09-26T15:00:21Z,5,3,MERGED
+composer,[COM-1373] Update Input height to match design,https://github.com/cmpsr/composer/pull/798,2023-09-14T11:51:21Z,2023-09-14T12:07:52Z,3,2,MERGED
+composer,Remove unsupported markdown/mdx toolbar actions,https://github.com/cmpsr/composer/pull/796,2023-09-08T14:29:08Z,2023-09-12T07:31:39Z,2,2,MERGED
+composer,"feat(COM-1348) Replace showClearButton boolean property in favor of clearButtonMode (item-selected, has-value, never, always) to determine the criteria/visibility of the clear button",https://github.com/cmpsr/composer/pull/795,2023-09-08T14:02:01Z,2023-09-13T12:28:24Z,6,5,MERGED
+composer,[DRAFT] Remark plugin,https://github.com/cmpsr/composer/pull/794,2023-09-08T10:24:44Z,2023-09-08T11:59:49Z,4,6,CLOSED
+composer,Export stepper,https://github.com/cmpsr/composer/pull/792,2023-09-07T20:03:32Z,2023-09-08T05:56:40Z,2,4,MERGED
+composer,[COM-1351] FloatingLink bug fixing,https://github.com/cmpsr/composer/pull/791,2023-09-07T13:14:10Z,2023-09-08T09:01:09Z,2,5,MERGED
+composer,[COM-1320] Added versioning to initial value and allow overriding the debounce interval for MarkdownEditor,https://github.com/cmpsr/composer/pull/788,2023-09-04T16:33:16Z,2023-09-05T08:25:55Z,4,5,MERGED
+composer,[COM-1345] Skeleton,https://github.com/cmpsr/composer/pull/787,2023-09-04T11:58:34Z,2023-09-08T12:25:15Z,9,8,MERGED
+composer,[COM-1348] Updates icons and exports Autocomplete and Highlight components,https://github.com/cmpsr/composer/pull/785,2023-09-01T13:31:06Z,2023-09-05T18:11:01Z,9,12,MERGED
+composer,[COM-1320] Rich text editor,https://github.com/cmpsr/composer/pull/784,2023-08-31T10:21:32Z,2023-09-04T07:00:45Z,18,46,MERGED
+composer,[COM-1320] Add IconListNumbers,https://github.com/cmpsr/composer/pull/782,2023-08-29T13:20:52Z,2023-08-30T09:16:36Z,2,2,MERGED
+composer,[COM-1320] Expose more icons,https://github.com/cmpsr/composer/pull/780,2023-08-28T08:42:39Z,2023-08-28T13:48:32Z,2,3,MERGED
+composer,[COM-1327] Stepper component,https://github.com/cmpsr/composer/pull/778,2023-08-22T08:59:49Z,2023-08-22T14:45:14Z,2,3,MERGED
+composer,feat: updates gen:icons script and adds X brand icon,https://github.com/cmpsr/composer/pull/776,2023-08-15T15:26:21Z,2023-08-16T14:15:37Z,6,7,MERGED
+composer,fix(HAM-443) allow nav link color to be set via variant prop,https://github.com/cmpsr/composer/pull/774,2023-08-08T15:41:53Z,2023-08-09T14:27:38Z,7,6,MERGED
+composer,fix: prevents navigation logo from shrinking,https://github.com/cmpsr/composer/pull/772,2023-08-04T17:36:05Z,2023-08-04T18:08:34Z,3,2,MERGED
+composer,feat: updates navigation to allow keeping action links always visible on the navbar and position links to the end ,https://github.com/cmpsr/composer/pull/770,2023-08-03T15:55:32Z,2023-08-04T16:06:40Z,5,9,MERGED
+composer,feat: updates navigation to allow keeping action links always visible on the navbar and position links to the end,https://github.com/cmpsr/composer/pull/769,2023-08-03T13:47:36Z,2023-08-03T15:54:30Z,6,3,CLOSED
+composer,[COM-1506] Autocomplete Input forwardRef,https://github.com/cmpsr/composer/pull/881,2023-12-18T11:49:11Z,2023-12-18T14:18:37Z,4,4,CLOSED
+composer,[DM-536] Add support for twilio verification ,https://github.com/cmpsr/composer/pull/878,2023-12-15T14:24:33Z,2023-12-15T15:05:31Z,4,5,MERGED
+composer,test,https://github.com/cmpsr/composer/pull/877,2023-12-15T09:50:42Z,2023-12-15T15:04:41Z,2,10,CLOSED
+composer,[COM-1505] Update Stepper colors and use composer Text component,https://github.com/cmpsr/composer/pull/876,2023-12-15T09:34:06Z,2024-01-11T17:17:32Z,5,8,MERGED
+composer,[COM-1482] Add support for background image editor,https://github.com/cmpsr/composer/pull/875,2023-12-14T21:26:34Z,2024-01-10T16:14:03Z,8,12,MERGED
+composer,[COM-1478] Popover,https://github.com/cmpsr/composer/pull/872,2023-12-10T12:37:43Z,2023-12-12T17:44:01Z,5,3,MERGED
+composer,[COM-1477] Formatted Inputs,https://github.com/cmpsr/composer/pull/870,2023-12-06T15:53:46Z,2023-12-13T16:40:02Z,17,19,MERGED
+composer,[Snyk] Security upgrade @google-cloud/firestore from 4.15.1 to 6.2.0,https://github.com/cmpsr/composer/pull/869,2023-12-06T14:32:27Z,2024-07-02T08:32:14Z,2,1,CLOSED
+composer,Re-export @chakra-ui/react transitions,https://github.com/cmpsr/composer/pull/864,2023-12-04T14:00:10Z,2023-12-05T12:43:19Z,5,4,MERGED
+composer,Wrap Radio component with forwardRef,https://github.com/cmpsr/composer/pull/863,2023-12-04T09:32:05Z,2023-12-04T09:37:21Z,3,2,MERGED
+composer,Update rimraf to latest version,https://github.com/cmpsr/composer/pull/851,2023-12-01T14:23:13Z,2023-12-01T15:04:21Z,2,3,MERGED
+composer,Re-export RadioGroup from @chakra-ui,https://github.com/cmpsr/composer/pull/849,2023-12-01T13:50:40Z,2023-12-01T14:02:41Z,2,2,MERGED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/848,2023-11-30T15:01:40Z,2023-12-01T15:06:57Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/847,2023-11-30T15:00:31Z,2023-12-01T15:07:08Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/846,2023-11-30T14:59:28Z,2023-12-01T15:07:21Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/845,2023-11-30T14:58:24Z,2023-12-01T15:07:33Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/844,2023-11-30T14:57:21Z,2023-12-01T15:07:46Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/843,2023-11-30T14:56:19Z,2023-12-01T15:07:58Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/842,2023-11-30T14:55:30Z,2023-12-01T15:08:08Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/841,2023-11-30T14:53:18Z,2023-12-01T15:08:28Z,3,1,CLOSED
+composer,[Snyk] Security upgrade rimraf from 3.0.2 to 4.0.0,https://github.com/cmpsr/composer/pull/840,2023-11-30T14:52:14Z,2023-12-01T15:08:57Z,3,1,CLOSED
+composer,[Snyk] Security upgrade plaid from 4.11.0 to 5.0.0,https://github.com/cmpsr/composer/pull/839,2023-11-27T14:30:49Z,2023-12-02T08:50:14Z,2,1,CLOSED
+composer,[COM-1442] Update anchor rendered in MDX to use inline display mode,https://github.com/cmpsr/composer/pull/836,2023-11-17T15:56:04Z,2023-11-19T10:28:41Z,3,2,MERGED
+composer,Resolve unmeet dependencies and remove unused functionality from @cmpsr/contentful-core,https://github.com/cmpsr/composer/pull/834,2023-11-17T13:01:26Z,2023-11-20T14:09:43Z,14,12,MERGED
+composer,[COM-1442] Add new isInline property to Link component,https://github.com/cmpsr/composer/pull/833,2023-11-17T11:41:18Z,2023-11-17T15:48:15Z,5,6,MERGED
+composer,[HAM-639] FloatingLink shouldn't be shown when editor is not focused,https://github.com/cmpsr/composer/pull/831,2023-11-14T10:16:30Z,2023-11-14T13:48:59Z,5,4,MERGED
+composer,[COM-1322] Add support for tables in MDX,https://github.com/cmpsr/composer/pull/830,2023-11-07T15:04:09Z,2023-11-15T09:57:11Z,16,16,MERGED
+composer,[COM-1410] Move Numbered and Bullet lists to main toolbar,https://github.com/cmpsr/composer/pull/828,2023-11-06T11:12:09Z,2023-11-06T14:42:27Z,6,12,MERGED
+composer,[COM-1413/COM-1414/COM-1415/COM-1416/COM-1419/COM-1440] Composer improvements,https://github.com/cmpsr/composer/pull/827,2023-11-06T10:01:29Z,2023-11-06T15:40:31Z,2,7,MERGED
+composer,Com 1555 input component outline,https://github.com/cmpsr/composer/pull/929,2024-03-25T12:19:03Z,2024-03-25T15:02:52Z,4,3,MERGED
+composer,fix: Update gen:theme-typings script OS portable,https://github.com/cmpsr/composer/pull/927,2024-03-18T12:16:30Z,2024-03-18T12:34:37Z,3,1,MERGED
+composer,fix: Update gen:theme-typings script to add OS compatibility,https://github.com/cmpsr/composer/pull/926,2024-03-18T12:09:04Z,2024-03-18T12:16:55Z,4,3,CLOSED
+composer,Com 1445 badge icons,https://github.com/cmpsr/composer/pull/925,2024-03-14T08:51:12Z,2024-03-26T08:55:14Z,5,4,MERGED
+composer,Com 1552 badge component variants,https://github.com/cmpsr/composer/pull/924,2024-03-14T08:42:38Z,2024-03-14T08:49:54Z,2,2,CLOSED
+composer,[COM-1552] Badge component new variants,https://github.com/cmpsr/composer/pull/922,2024-03-12T11:06:54Z,2024-03-12T15:06:02Z,3,2,MERGED
+composer,feat: add addon-docs,https://github.com/cmpsr/composer/pull/920,2024-03-05T12:34:54Z,2024-03-06T12:01:29Z,2,3,CLOSED
+composer,[COM-1551] Build stories as JSON,https://github.com/cmpsr/composer/pull/917,2024-03-05T11:08:59Z,2024-03-05T11:56:03Z,2,2,MERGED
+composer,fix: Fix the imports in the NumberedList type,https://github.com/cmpsr/composer/pull/911,2024-02-14T11:16:15Z,2024-02-14T13:34:11Z,2,4,MERGED
+composer,fix: Fix the import in the NumberedList type,https://github.com/cmpsr/composer/pull/910,2024-02-14T11:06:38Z,2024-02-14T11:12:40Z,1,2,CLOSED
+composer,Ignore `Button` theme loading styles in `Link` theme,https://github.com/cmpsr/composer/pull/905,2024-02-01T11:30:08Z,2024-02-02T14:47:56Z,2,13,MERGED
+composer,[COM-1179] Add LinkIcon component and rename IconButton to ButtonIcon,https://github.com/cmpsr/composer/pull/904,2024-01-26T12:09:44Z,2024-02-14T14:21:53Z,8,13,MERGED
+composer,Revert `getIconSize` removal in `Link`,https://github.com/cmpsr/composer/pull/903,2024-01-26T10:42:02Z,2024-02-01T13:34:26Z,2,2,MERGED
+composer,Improve linter config,https://github.com/cmpsr/composer/pull/901,2024-01-24T09:20:52Z,2024-01-24T09:32:51Z,2,3,MERGED
+composer,Update `size` of `IconButton` to use `responsiveSize` and remove custom `getIconSize` in `Link`,https://github.com/cmpsr/composer/pull/900,2024-01-23T16:30:44Z,2024-01-24T14:32:19Z,5,4,MERGED
+composer,Update `size` passed to obtain `loading` styles to use `responsiveSize`,https://github.com/cmpsr/composer/pull/898,2024-01-23T14:39:20Z,2024-01-23T14:47:57Z,3,2,MERGED
+composer,chore: bump peerDeps to latest dep version,https://github.com/cmpsr/composer/pull/895,2024-01-22T18:15:15Z,2024-01-23T12:33:30Z,2,2,MERGED
+composer,[COM-1513] Export Chakra Drawer,https://github.com/cmpsr/composer/pull/894,2024-01-18T20:56:56Z,2024-01-24T15:19:36Z,10,10,MERGED
+composer,Resolve Test Warnings for Responsive Checkbox Styles,https://github.com/cmpsr/composer/pull/891,2024-01-15T10:34:54Z,2024-01-15T13:30:09Z,4,4,MERGED
+composer,Update Select field to use proper focus styles on focus (Flushed variant),https://github.com/cmpsr/composer/pull/887,2024-01-09T14:26:44Z,2024-01-09T16:07:30Z,3,2,MERGED
+composer,Update Select field to use proper focus styles on focus,https://github.com/cmpsr/composer/pull/885,2024-01-09T13:47:45Z,2024-01-09T13:59:28Z,2,2,MERGED
+composer,[COM-1678]: Add Autocomplete multiselect,https://github.com/cmpsr/composer/pull/960,2024-05-27T14:57:40Z,2024-05-31T13:04:52Z,25,56,MERGED
+composer,feat: multiplechoice question accept type none option,https://github.com/cmpsr/composer/pull/959,2024-05-22T19:31:29Z,2024-05-27T08:21:15Z,3,4,MERGED
+composer,[COM-1682] Tag update,https://github.com/cmpsr/composer/pull/957,2024-05-22T12:23:20Z,2024-05-22T13:59:02Z,3,8,MERGED
+composer,Decision tree birtdate,https://github.com/cmpsr/composer/pull/956,2024-05-21T18:20:20Z,2024-05-27T08:31:35Z,5,242,MERGED
+composer,Decision tree backend adaptations,https://github.com/cmpsr/composer/pull/955,2024-05-21T08:41:09Z,2024-05-22T18:47:46Z,2,207,MERGED
+composer,Decision tree bug fixes,https://github.com/cmpsr/composer/pull/954,2024-05-17T14:17:07Z,2024-05-27T07:59:31Z,6,225,MERGED
+composer,fix: stepper mobile format,https://github.com/cmpsr/composer/pull/953,2024-05-15T06:37:06Z,2024-05-23T10:11:46Z,11,214,MERGED
+composer,[COM-1677] Fix toast text overlapping with the close button,https://github.com/cmpsr/composer/pull/951,2024-05-14T08:21:53Z,2024-05-14T09:33:38Z,2,3,MERGED
+composer,Decision tree backend adaptations,https://github.com/cmpsr/composer/pull/950,2024-05-13T11:43:37Z,2024-05-15T09:57:52Z,9,17,MERGED
+composer,[COM-1676] Add `link-light` variant and `disabled` state to `Link` component,https://github.com/cmpsr/composer/pull/948,2024-05-09T18:18:34Z,2024-05-10T07:55:44Z,2,2,MERGED
+composer,Decision tree info modal,https://github.com/cmpsr/composer/pull/947,2024-05-07T13:34:57Z,2024-05-22T16:24:59Z,27,211,MERGED
+composer,Decision tree sections intro,https://github.com/cmpsr/composer/pull/946,2024-05-02T20:45:46Z,2024-05-21T06:53:08Z,27,164,MERGED
+composer,[COM-1597] Update Icon Button - Tokens on paddings,https://github.com/cmpsr/composer/pull/945,2024-04-29T12:30:48Z,2024-04-29T14:58:53Z,4,7,MERGED
+composer,Decision tree asnwers memory,https://github.com/cmpsr/composer/pull/944,2024-04-26T16:14:26Z,2024-05-15T06:30:49Z,39,132,MERGED
+composer,Decicion tree styles,https://github.com/cmpsr/composer/pull/943,2024-04-26T10:39:13Z,2024-05-10T09:22:39Z,10,83,MERGED
+composer,Decision tree base structure,https://github.com/cmpsr/composer/pull/942,2024-04-23T10:22:28Z,2024-05-08T17:05:03Z,75,62,MERGED
+composer,Update button alt boder color,https://github.com/cmpsr/composer/pull/940,2024-04-22T13:02:44Z,2024-04-22T14:06:20Z,6,7,MERGED
+composer,[COM-1592] Update theme Button colors,https://github.com/cmpsr/composer/pull/938,2024-04-22T10:11:47Z,2024-04-22T10:30:01Z,2,2,MERGED
+composer,[COM-1591] Add new color token 'text-inform' and update Badge component styles,https://github.com/cmpsr/composer/pull/937,2024-04-18T10:25:13Z,2024-04-22T10:40:48Z,3,5,MERGED
+composer,[COM-1559] Add specific spacer tokens to Button,https://github.com/cmpsr/composer/pull/934,2024-04-15T15:02:31Z,2024-04-16T14:42:36Z,5,7,MERGED
+composer,[COM-1558] Add Segmented Button,https://github.com/cmpsr/composer/pull/933,2024-04-11T13:48:18Z,2024-04-17T12:38:33Z,17,27,MERGED
+composer,[COM-1557] Update the slider with disabled styles,https://github.com/cmpsr/composer/pull/931,2024-04-04T12:30:58Z,2024-04-04T12:52:48Z,2,3,MERGED
+composer,feat: add new icon dots vertical,https://github.com/cmpsr/composer/pull/994,2024-07-30T09:23:26Z,2024-07-30T09:40:44Z,3,1,MERGED
+composer,feat: add margin left to Alert Close Button,https://github.com/cmpsr/composer/pull/992,2024-07-26T14:04:10Z,2024-08-01T07:57:21Z,7,3,CLOSED
+composer,Amplitude revenue,https://github.com/cmpsr/composer/pull/990,2024-07-23T16:28:57Z,2024-07-23T16:55:56Z,4,4,MERGED
+composer,Fix export Badge types,https://github.com/cmpsr/composer/pull/988,2024-07-23T08:50:57Z,2024-07-23T09:08:34Z,2,2,MERGED
+composer,feat: add revenue to amplitude integration,https://github.com/cmpsr/composer/pull/985,2024-07-17T17:36:08Z,2024-07-22T10:37:34Z,10,6,MERGED
+composer,chore: update accordion divider color,https://github.com/cmpsr/composer/pull/983,2024-07-08T14:45:13Z,2024-07-09T05:35:44Z,2,1,MERGED
+composer,feat: add forwardRef to the Grid component,https://github.com/cmpsr/composer/pull/978,2024-06-27T20:32:11Z,2024-06-28T11:05:28Z,3,2,MERGED
+composer,Mini update of the carousel to extend types and use the correcto ButtonIcon,https://github.com/cmpsr/composer/pull/973,2024-06-17T10:38:34Z,2024-06-17T10:50:48Z,2,3,MERGED
+composer,[COM-1706] Add user traits to amplify identify integration,https://github.com/cmpsr/composer/pull/970,2024-06-14T13:10:25Z,2024-06-17T09:50:47Z,4,2,MERGED
+composer,[COM-1684] Add support for amplitude analytics,https://github.com/cmpsr/composer/pull/968,2024-06-12T07:14:24Z,2024-06-12T09:59:53Z,3,3,MERGED
+composer,Update `Textarea` to use `forwardRef`,https://github.com/cmpsr/composer/pull/966,2024-06-08T14:09:08Z,2024-06-10T07:57:05Z,3,2,MERGED
+composer,feat: Add action link to AccordionGallery component,https://github.com/cmpsr/composer/pull/964,2024-06-06T13:14:40Z,2024-06-06T14:21:34Z,2,4,MERGED
+composer,Update `AutocompleteMultiSelect` to use internal controlled actions,https://github.com/cmpsr/composer/pull/962,2024-06-06T11:46:28Z,2024-06-06T13:11:28Z,3,3,MERGED
+composer,Refactor SegmentedButton component to lift the state,https://github.com/cmpsr/composer/pull/1026,2024-10-25T07:12:39Z,2024-10-25T13:20:46Z,5,4,MERGED
+composer,[COM-1761] Refactor badge styles and add new color variants,https://github.com/cmpsr/composer/pull/1024,2024-10-16T07:46:51Z,2024-10-16T16:02:46Z,2,6,MERGED
+composer,Com add amplitude device,https://github.com/cmpsr/composer/pull/1023,2024-10-09T17:55:47Z,2025-01-23T17:27:30Z,8,5,CLOSED
+composer,[COM 1754] badge update,https://github.com/cmpsr/composer/pull/1022,2024-10-02T13:03:01Z,2024-10-03T13:10:39Z,6,7,MERGED
+composer,[COM 1758] Dropdown update,https://github.com/cmpsr/composer/pull/1020,2024-10-02T11:11:01Z,2024-10-02T11:50:44Z,2,3,MERGED
+composer,[COM 1757] Radio update,https://github.com/cmpsr/composer/pull/1019,2024-10-01T12:15:31Z,2024-10-01T12:33:49Z,2,3,MERGED
+composer,[COM 1751] Textarea update as in input,https://github.com/cmpsr/composer/pull/1018,2024-10-01T11:47:48Z,2024-10-01T12:27:44Z,2,3,MERGED
+composer,fix: switch component was using incorrect token for thumb,https://github.com/cmpsr/composer/pull/1017,2024-09-30T16:31:33Z,2024-10-01T13:24:15Z,2,4,MERGED
+composer,[COM-1755] Checkbox update,https://github.com/cmpsr/composer/pull/1016,2024-09-27T13:40:49Z,2024-10-01T11:59:26Z,2,9,MERGED
+composer,[COM-1753]  Tag: Add new tokens and variants. ,https://github.com/cmpsr/composer/pull/1015,2024-09-24T07:45:15Z,2024-10-10T07:13:14Z,6,23,MERGED
+composer,[COM-1748] Update CloseButton color tokens,https://github.com/cmpsr/composer/pull/1013,2024-09-20T12:45:48Z,2024-09-27T15:59:23Z,2,4,MERGED
+composer,[COM-1750] Add radii-button-icon token,https://github.com/cmpsr/composer/pull/1012,2024-09-20T12:30:43Z,2024-09-27T15:49:54Z,2,4,MERGED
+composer,[COM-1323] Add new hover and focus color tokens and new border-radius token,https://github.com/cmpsr/composer/pull/1011,2024-09-20T11:07:29Z,2024-10-01T09:14:38Z,2,5,MERGED
+composer,[COM-1745] Update tooltip tokens,https://github.com/cmpsr/composer/pull/1010,2024-09-20T10:31:48Z,2024-09-27T15:29:17Z,2,3,MERGED
+composer,[COM-1743] Update ProgressBar component styles,https://github.com/cmpsr/composer/pull/1009,2024-09-19T12:19:04Z,2024-09-20T13:07:03Z,3,4,MERGED
+composer,"feat: Add new icons IconId, IconPill, IconClipboardPlus and IconScaleOutline",https://github.com/cmpsr/composer/pull/1005,2024-08-26T12:07:38Z,2024-08-26T12:12:14Z,2,2,MERGED
+composer,fix: Button - Ghost variant hover style,https://github.com/cmpsr/composer/pull/1001,2024-08-12T10:01:59Z,2024-08-12T12:36:36Z,2,2,MERGED
+composer,"feat: Button, Link - use focusVisible instead of focus styles. Hover styles only on desktop devices.",https://github.com/cmpsr/composer/pull/998,2024-08-07T15:46:20Z,2024-08-09T08:10:55Z,3,4,MERGED
+composer,Replace yarn with npm,https://github.com/cmpsr/composer/pull/1034,2024-12-22T17:58:26Z,2025-01-15T15:52:00Z,5,20,MERGED
+composer,Composer gtag revenue,https://github.com/cmpsr/composer/pull/1032,2024-12-04T17:29:44Z,2024-12-04T17:50:13Z,3,3,MERGED
+composer,Update turbo to latest version,https://github.com/cmpsr/composer/pull/1029,2024-11-25T14:39:31Z,2024-11-25T15:04:33Z,2,2,MERGED
+composer,Add new meta pixel integration,https://github.com/cmpsr/composer/pull/1027,2024-11-18T17:54:57Z,2024-11-25T11:27:20Z,8,9,MERGED
+composer,Composer amplitude revenue event,https://github.com/cmpsr/composer/pull/1045,2025-01-23T17:31:32Z,2025-01-28T10:07:22Z,17,25,MERGED
+composer,[COM-1825] Add support for responsive values to Image.src prop,https://github.com/cmpsr/composer/pull/1040,2025-01-16T17:40:10Z,2025-01-17T08:47:20Z,2,5,MERGED
+composer,React 19,https://github.com/cmpsr/composer/pull/1038,2025-01-16T12:16:31Z,2025-01-16T14:45:13Z,3,2,MERGED
+composer,[COM-1343] Remove firebase-dynamic-link,https://github.com/cmpsr/composer/pull/1036,2025-01-16T08:57:53Z,2025-01-16T09:06:03Z,2,1,MERGED

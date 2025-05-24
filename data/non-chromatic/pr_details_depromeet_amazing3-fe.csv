@@ -1,0 +1,272 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+amazing3-fe,bug: 생년월일 입력시 닉네임이 undefined로 보이는 현상,https://github.com/depromeet/amazing3-fe/pull/87,2023-12-31T14:14:53Z,2024-01-03T06:09:45Z,1,2,MERGED
+amazing3-fe,bug: 모바일 환경 safari에서 생년월일 입력폼 깨짐 수정,https://github.com/depromeet/amazing3-fe/pull/86,2023-12-31T06:15:12Z,2024-01-04T06:11:02Z,11,11,MERGED
+amazing3-fe,feat: 현재 페이지 이미지 다운로드 -> 전체 페이지 이미지 다운로드로 변경,https://github.com/depromeet/amazing3-fe/pull/85,2023-12-30T16:32:53Z,2024-01-12T12:48:18Z,2,1,MERGED
+amazing3-fe,feat: 공유 bottom sheet 구현,https://github.com/depromeet/amazing3-fe/pull/84,2023-12-30T14:02:52Z,2024-01-03T13:12:49Z,5,12,MERGED
+amazing3-fe,bug: 사용자 상태에 따른 onboarding 시작하기 기능 분리 및 metadata 수정,https://github.com/depromeet/amazing3-fe/pull/83,2023-12-29T18:45:59Z,2024-01-02T15:24:31Z,6,4,MERGED
+amazing3-fe,"bug: tag, sticker 돌아오면 선택 안되어 있는 문제 해결",https://github.com/depromeet/amazing3-fe/pull/82,2023-12-29T17:22:07Z,2024-01-02T12:25:37Z,2,1,MERGED
+amazing3-fe,bug: icon 파일 충돌 문제로 500 에러 발생하는 이슈 해결 ,https://github.com/depromeet/amazing3-fe/pull/81,2023-12-29T16:25:57Z,2023-12-30T04:00:53Z,3,3,MERGED
+amazing3-fe,chore: sentry 추가,https://github.com/depromeet/amazing3-fe/pull/80,2023-12-29T13:33:23Z,2023-12-30T08:23:01Z,1,3,MERGED
+amazing3-fe,"bug: SEO를 위한 sitemap.xml, robots.txt 추가",https://github.com/depromeet/amazing3-fe/pull/79,2023-12-28T16:24:09Z,2023-12-29T03:18:29Z,1,2,MERGED
+amazing3-fe,refactor: font optimization 적용,https://github.com/depromeet/amazing3-fe/pull/78,2023-12-28T16:11:12Z,2023-12-29T15:47:56Z,1,1,MERGED
+amazing3-fe,bug: invalidQueries 적용 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/77,2023-12-28T15:07:03Z,2024-01-04T08:28:58Z,5,1,MERGED
+amazing3-fe,fix: 다운로드 이미지 상단에 여백 추가,https://github.com/depromeet/amazing3-fe/pull/76,2023-12-28T13:37:51Z,2023-12-29T11:55:28Z,1,1,MERGED
+amazing3-fe,bug: favicon 사이즈 축소 (→48x48),https://github.com/depromeet/amazing3-fe/pull/75,2023-12-28T13:19:50Z,2023-12-28T14:00:24Z,2,1,MERGED
+amazing3-fe,"fix: 카카오톡 인앱 브라우저로 접근 시, 외부 브라우저로 이동하도록 수정",https://github.com/depromeet/amazing3-fe/pull/74,2023-12-28T13:02:22Z,2023-12-28T13:41:16Z,1,3,MERGED
+amazing3-fe,fix: ios에서 이미지 다운로드가 제대로 되지 않는 버그 해결,https://github.com/depromeet/amazing3-fe/pull/73,2023-12-28T06:29:43Z,2023-12-28T13:05:31Z,1,6,MERGED
+amazing3-fe,bug: og tag에서 불필요한 부분 제거 및 ogImage 명시,https://github.com/depromeet/amazing3-fe/pull/72,2023-12-27T07:42:11Z,2023-12-28T12:42:20Z,4,13,MERGED
+amazing3-fe,bug: 버튼 클릭 시 응답받기 전까지 스피너 출력,https://github.com/depromeet/amazing3-fe/pull/71,2023-12-23T03:48:04Z,2023-12-23T03:50:04Z,1,1,MERGED
+amazing3-fe,bug: 배경색 auto,https://github.com/depromeet/amazing3-fe/pull/70,2023-12-22T16:48:14Z,2023-12-22T16:49:18Z,1,1,MERGED
+amazing3-fe,bug: 홈화면 레이아웃 조정,https://github.com/depromeet/amazing3-fe/pull/69,2023-12-22T16:45:41Z,2023-12-22T17:01:48Z,1,4,MERGED
+amazing3-fe,bug: dvh 적용,https://github.com/depromeet/amazing3-fe/pull/68,2023-12-22T16:17:25Z,2023-12-22T16:33:32Z,1,3,MERGED
+amazing3-fe,bug: 홈화면 edge 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/67,2023-12-22T15:48:04Z,2023-12-22T15:55:31Z,1,3,MERGED
+amazing3-fe,bug: invalidQueries 동작 관련 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/66,2023-12-22T14:40:56Z,2023-12-22T14:47:26Z,1,5,MERGED
+amazing3-fe,bug: 홈화면에서 닉네임 없을 경우 레이아웃에 br 추가 (임시),https://github.com/depromeet/amazing3-fe/pull/65,2023-12-22T14:13:51Z,2023-12-22T14:14:19Z,1,1,MERGED
+amazing3-fe,bug: 홈화면 MapCard 제대로 렌더링되지 못한 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/64,2023-12-22T14:01:17Z,2023-12-22T14:01:59Z,1,1,MERGED
+amazing3-fe,bug: 페이지 리프레시를 위한 코드 수정,https://github.com/depromeet/amazing3-fe/pull/63,2023-12-22T13:54:30Z,2023-12-22T14:00:16Z,1,1,MERGED
+amazing3-fe,bug: og tag 버그 수정,https://github.com/depromeet/amazing3-fe/pull/62,2023-12-22T13:21:25Z,2023-12-22T13:21:47Z,1,1,MERGED
+amazing3-fe,feat: speed insights 적용,https://github.com/depromeet/amazing3-fe/pull/61,2023-12-22T13:10:59Z,2023-12-22T13:11:39Z,1,2,MERGED
+amazing3-fe,feat: metadata 및 favicon 추가,https://github.com/depromeet/amazing3-fe/pull/60,2023-12-22T12:45:06Z,2023-12-22T12:47:01Z,1,1,MERGED
+amazing3-fe,bug: goal 생성 시 goals 업데이트,https://github.com/depromeet/amazing3-fe/pull/59,2023-12-22T11:28:27Z,2023-12-22T12:57:25Z,1,6,MERGED
+amazing3-fe,Bug: new member로 등록 시 발생하는 버그 수정,https://github.com/depromeet/amazing3-fe/pull/58,2023-12-22T11:05:45Z,2023-12-22T11:08:53Z,1,2,MERGED
+amazing3-fe,chore: @vercel/analytics 적용,https://github.com/depromeet/amazing3-fe/pull/57,2023-12-22T10:31:22Z,2023-12-22T10:32:32Z,1,1,MERGED
+amazing3-fe,"bug: 배포 전 버그 수정 (온보딩, 에러 페이지, 홈, 목표 추가, 상세 페이지)",https://github.com/depromeet/amazing3-fe/pull/56,2023-12-22T06:00:35Z,2023-12-22T10:21:02Z,1,7,MERGED
+amazing3-fe,feat: 홈화면 api 연동 (useGetGoals),https://github.com/depromeet/amazing3-fe/pull/55,2023-12-21T15:47:03Z,2023-12-22T08:26:12Z,9,7,MERGED
+amazing3-fe,feat: status code 500에 대한 페이지 추가,https://github.com/depromeet/amazing3-fe/pull/54,2023-12-21T15:33:40Z,2023-12-22T07:20:07Z,4,2,MERGED
+amazing3-fe,chore: OAuth 연동 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/53,2023-12-21T15:02:09Z,2023-12-22T05:27:18Z,1,1,MERGED
+amazing3-fe,"feat: 새로운 유저 등록 API (PUT ""/my"") 연결",https://github.com/depromeet/amazing3-fe/pull/52,2023-12-21T14:19:56Z,2023-12-22T07:18:41Z,3,3,MERGED
+amazing3-fe,feat: 상세 목표 화면 개발 및 api 연동,https://github.com/depromeet/amazing3-fe/pull/51,2023-12-21T12:44:01Z,2023-12-22T05:20:08Z,4,7,MERGED
+amazing3-fe,chore: not-found(404) 라우팅 및 errorPageLayout 디자인 적용,https://github.com/depromeet/amazing3-fe/pull/50,2023-12-21T12:32:04Z,2023-12-21T14:23:37Z,2,3,MERGED
+amazing3-fe,chore: 스플래시 화면 - 그라데이션 경계 조정 및 blur 이미지 삽입,https://github.com/depromeet/amazing3-fe/pull/49,2023-12-21T12:15:11Z,2023-12-21T13:46:56Z,2,2,MERGED
+amazing3-fe,chore: 온보딩 페이지 라우팅 추가 및 디자인 적용,https://github.com/depromeet/amazing3-fe/pull/48,2023-12-21T02:53:08Z,2023-12-21T06:07:07Z,1,1,MERGED
+amazing3-fe,feat: 목표 추가 api 연동 및 결과 페이지 연동,https://github.com/depromeet/amazing3-fe/pull/47,2023-12-21T01:44:24Z,2023-12-21T03:58:42Z,2,12,MERGED
+amazing3-fe,feat: goal 추가 화면의 sticker 추가 기능 구현,https://github.com/depromeet/amazing3-fe/pull/46,2023-12-20T22:28:35Z,2023-12-21T03:33:48Z,1,5,MERGED
+amazing3-fe,feat: goal 추가 화면의 tag 추가 기능 구현,https://github.com/depromeet/amazing3-fe/pull/45,2023-12-20T19:14:32Z,2023-12-20T19:21:31Z,1,1,MERGED
+amazing3-fe,feat: goal / tag / sticker / auth api hook 구현 ,https://github.com/depromeet/amazing3-fe/pull/44,2023-12-20T18:20:32Z,2023-12-20T18:35:32Z,3,7,MERGED
+amazing3-fe,feat: 목표 추가 로직에 해당하는 페이지들의 header 구현 및 적용,https://github.com/depromeet/amazing3-fe/pull/43,2023-12-20T18:12:23Z,2023-12-20T18:50:08Z,1,7,MERGED
+amazing3-fe,test: test,https://github.com/depromeet/amazing3-fe/pull/42,2023-12-20T17:55:30Z,2023-12-20T18:05:20Z,1,1,CLOSED
+amazing3-fe,"feat: accessToken이 존재하지 않을 경우, 로그인 화면으로 redirection",https://github.com/depromeet/amazing3-fe/pull/41,2023-12-20T16:55:09Z,2023-12-20T18:14:12Z,1,1,MERGED
+amazing3-fe,chore: 서버에 위치한 이미지 읽을 때 필요한 설정 추가,https://github.com/depromeet/amazing3-fe/pull/40,2023-12-20T15:57:56Z,2023-12-20T16:47:13Z,1,1,MERGED
+amazing3-fe,"feat: 닉네임, 생년월일 페이지 업데이트",https://github.com/depromeet/amazing3-fe/pull/39,2023-12-20T15:40:06Z,2023-12-20T18:13:33Z,1,2,MERGED
+amazing3-fe,feat: 로그인 기능 react-query 적용 및 전역 상태 관리,https://github.com/depromeet/amazing3-fe/pull/38,2023-12-20T13:58:04Z,2023-12-20T14:10:50Z,1,5,MERGED
+amazing3-fe,feat: 로그인 기능 query hook 적용 + 토큰 및 응답 데이터 전역 상태 관리,https://github.com/depromeet/amazing3-fe/pull/37,2023-12-20T13:46:58Z,2023-12-20T13:50:19Z,1,3,CLOSED
+amazing3-fe,feat: 인생지도 이미지 다운로드 기능 구현,https://github.com/depromeet/amazing3-fe/pull/36,2023-12-20T12:52:50Z,2023-12-21T13:47:04Z,4,12,MERGED
+amazing3-fe,chore: 반디부디 이미지에 priority 부여,https://github.com/depromeet/amazing3-fe/pull/35,2023-12-20T08:37:12Z,2023-12-20T08:40:08Z,2,1,MERGED
+amazing3-fe,feat: api 연동을 위한 기본 설정 및 로그인 api 처리 로직 개발,https://github.com/depromeet/amazing3-fe/pull/34,2023-12-19T21:48:29Z,2023-12-20T05:23:41Z,8,4,MERGED
+amazing3-fe,feat: Tag 컴포넌트 추가,https://github.com/depromeet/amazing3-fe/pull/33,2023-12-19T19:04:03Z,2023-12-20T04:37:48Z,4,4,MERGED
+amazing3-fe,feat: 목표 추가 페이지 레이아웃 추가,https://github.com/depromeet/amazing3-fe/pull/32,2023-12-19T18:48:35Z,2023-12-20T07:05:51Z,7,37,MERGED
+amazing3-fe,chore: 스플래시 화면 디자인 적용,https://github.com/depromeet/amazing3-fe/pull/31,2023-12-19T17:45:39Z,2023-12-20T08:30:07Z,1,5,MERGED
+amazing3-fe,feat: 목표 저장 화면 개발 (api 연동 제외),https://github.com/depromeet/amazing3-fe/pull/30,2023-12-19T11:03:53Z,2023-12-20T05:29:01Z,4,4,MERGED
+amazing3-fe,feat: 홈화면 기능 개발(api 연동 제외),https://github.com/depromeet/amazing3-fe/pull/29,2023-12-19T09:59:38Z,2023-12-20T04:08:59Z,24,32,MERGED
+amazing3-fe,chore: atom/Button에 디자인 시스템 적용,https://github.com/depromeet/amazing3-fe/pull/28,2023-12-19T06:51:17Z,2023-12-19T16:52:25Z,4,4,MERGED
+amazing3-fe,feat: 목표 추가 페이지 배경 설정,https://github.com/depromeet/amazing3-fe/pull/27,2023-12-19T06:34:05Z,2023-12-19T14:30:24Z,3,9,MERGED
+amazing3-fe,feat: 목표 추가 페이지 배경 설정,https://github.com/depromeet/amazing3-fe/pull/26,2023-12-18T20:07:26Z,2023-12-19T06:32:03Z,6,10,CLOSED
+amazing3-fe,chore: svgr 및 잡다구리 config 및 일부 컴포넌트 추가,https://github.com/depromeet/amazing3-fe/pull/25,2023-12-18T13:51:04Z,2023-12-19T06:23:44Z,12,18,MERGED
+amazing3-fe,"feat: 로그인, 닉네임, 생년월일 입력 페이지 구현 및 디자인 반영",https://github.com/depromeet/amazing3-fe/pull/24,2023-12-18T13:50:38Z,2023-12-18T16:31:03Z,20,30,MERGED
+amazing3-fe,feat: GoalGuideBottomSheet를 통한 목표 값 반영,https://github.com/depromeet/amazing3-fe/pull/23,2023-12-17T13:25:18Z,2023-12-19T10:30:16Z,11,9,MERGED
+amazing3-fe,feat: ContentWrapper 컴포넌트 및 Story 추가,https://github.com/depromeet/amazing3-fe/pull/22,2023-12-16T16:58:53Z,2023-12-17T03:03:46Z,3,1,MERGED
+amazing3-fe,chore: 디자인 시스템 바탕으로 typography 스타일 및 스토리 추가,https://github.com/depromeet/amazing3-fe/pull/21,2023-12-16T15:32:26Z,2023-12-16T16:37:43Z,6,7,MERGED
+amazing3-fe,chore: Figma 디자인 시스템 tailwindCSS theme에 등록,https://github.com/depromeet/amazing3-fe/pull/20,2023-12-14T07:44:17Z,2023-12-16T09:01:52Z,5,11,MERGED
+amazing3-fe,feat: setting goal guide를 위한 Bottom Sheet 기능 구현,https://github.com/depromeet/amazing3-fe/pull/19,2023-12-10T19:20:19Z,2023-12-16T06:45:54Z,19,11,MERGED
+amazing3-fe,"feat: Typography atom, LimitedLengthInput molecule 구현, 스토리북 path alias 설정 추가, components barrel export 적용",https://github.com/depromeet/amazing3-fe/pull/18,2023-12-07T05:16:37Z,2023-12-12T04:01:50Z,17,20,MERGED
+amazing3-fe,chore: stories 파일이 있을 경우에만 workflow 실행되도록,https://github.com/depromeet/amazing3-fe/pull/17,2023-12-06T15:24:47Z,2023-12-07T10:50:54Z,2,1,MERGED
+amazing3-fe,feat: 목표 설정 페이지 플로우 구현,https://github.com/depromeet/amazing3-fe/pull/16,2023-12-04T15:09:42Z,2023-12-09T05:10:44Z,10,15,MERGED
+amazing3-fe,chore: 목표 설정 페이지 react-hook-form 설정,https://github.com/depromeet/amazing3-fe/pull/15,2023-12-04T14:46:37Z,2023-12-09T05:29:23Z,8,15,MERGED
+amazing3-fe,chore: workflow 내용 일부 수정 및 테스트 파일 제거,https://github.com/depromeet/amazing3-fe/pull/14,2023-12-04T08:17:09Z,2023-12-04T14:22:01Z,1,3,MERGED
+amazing3-fe,"feat: atom (Buttons, Input) 컴포넌트 개발",https://github.com/depromeet/amazing3-fe/pull/13,2023-12-02T18:09:07Z,2023-12-04T14:53:00Z,12,16,MERGED
+amazing3-fe,feat: jotai setting 및 auth 관련 전역상태 관리,https://github.com/depromeet/amazing3-fe/pull/11,2023-12-01T13:16:37Z,2023-12-06T14:06:05Z,7,12,MERGED
+amazing3-fe,chore: globalFolder 설정으로 zero-install 문제 해결 ,https://github.com/depromeet/amazing3-fe/pull/10,2023-11-29T14:41:17Z,2023-12-01T00:30:29Z,2,14,MERGED
+amazing3-fe,chore: 기본 layout size 지정,https://github.com/depromeet/amazing3-fe/pull/9,2023-11-29T06:42:32Z,2023-11-30T08:23:48Z,4,4,MERGED
+amazing3-fe,feat: token 발행 후 사용자 데이터 접근,https://github.com/depromeet/amazing3-fe/pull/8,2023-11-29T05:59:29Z,2023-11-30T08:26:55Z,4,5,MERGED
+amazing3-fe,chore: vscode settings 설정 추가,https://github.com/depromeet/amazing3-fe/pull/7,2023-11-26T06:23:26Z,2023-11-27T07:58:00Z,5,5,MERGED
+amazing3-fe,feat: token 발행 후 사용자 데이터 접근,https://github.com/depromeet/amazing3-fe/pull/6,2023-11-23T14:14:48Z,2023-11-29T05:56:35Z,14,7,CLOSED
+amazing3-fe,chore: @tanstack/react-query 설정,https://github.com/depromeet/amazing3-fe/pull/5,2023-11-23T13:49:32Z,2023-11-29T01:14:04Z,4,8,MERGED
+amazing3-fe,chore: axios instance 설정 및 interceptor 적용,https://github.com/depromeet/amazing3-fe/pull/4,2023-11-23T07:38:18Z,2023-11-27T13:46:35Z,3,3,MERGED
+amazing3-fe,"chore: PnP에 eslint, prettier, typescript 추가 및  storybook settings 및 예시 반영",https://github.com/depromeet/amazing3-fe/pull/3,2023-11-22T09:15:28Z,2023-11-23T06:45:02Z,7,4,MERGED
+amazing3-fe,chore: 폴더 구조 설정,https://github.com/depromeet/amazing3-fe/pull/2,2023-11-22T05:10:57Z,2023-11-23T07:23:16Z,13,6,MERGED
+amazing3-fe,프로젝트 기본 설정,https://github.com/depromeet/amazing3-fe/pull/1,2023-11-11T13:57:59Z,2023-11-13T13:44:44Z,8,9,MERGED
+amazing3-fe,refactor: 오류 페이지 컴포넌트 리팩터링,https://github.com/depromeet/amazing3-fe/pull/236,2024-03-30T02:54:14Z,2024-04-02T12:01:08Z,4,6,MERGED
+amazing3-fe,feat: 피드 이모지 추가/삭제시 낙관적 업데이트 적용,https://github.com/depromeet/amazing3-fe/pull/234,2024-03-28T08:37:33Z,2024-04-02T13:08:58Z,1,3,MERGED
+amazing3-fe,refactor: 생년월일 입력 - 변경된 디자인 적용 및 리팩터링,https://github.com/depromeet/amazing3-fe/pull/233,2024-03-26T14:51:19Z,2024-04-07T12:01:03Z,4,22,CLOSED
+amazing3-fe,feat: 응원한 사람 조회 api 응답 값 수정 반영 / 응원하기 성공 시에도 에러 토스트가 뜨는 버그 수정,https://github.com/depromeet/amazing3-fe/pull/232,2024-03-22T17:14:01Z,2024-04-02T12:54:26Z,1,4,MERGED
+amazing3-fe,feat: 타임라인 조회 api 반영,https://github.com/depromeet/amazing3-fe/pull/231,2024-03-22T16:54:02Z,2024-03-27T01:43:47Z,1,4,MERGED
+amazing3-fe,fix: 바텀시트에 하단탭바가 올라가는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/230,2024-03-21T05:57:52Z,2024-03-23T10:27:29Z,1,1,MERGED
+amazing3-fe,chore: emoji-ReactionUserTotalCount 컴포넌트에 변경된 디자인 반영,https://github.com/depromeet/amazing3-fe/pull/229,2024-03-20T03:26:18Z,2024-03-21T05:39:48Z,1,2,MERGED
+amazing3-fe,feat: 타임라인 탭 ui 구현,https://github.com/depromeet/amazing3-fe/pull/225,2024-03-19T16:42:27Z,2024-03-20T03:35:24Z,2,5,MERGED
+amazing3-fe,feat: 피드 페이지 API 연결,https://github.com/depromeet/amazing3-fe/pull/224,2024-03-18T17:34:59Z,2024-03-22T07:20:14Z,3,9,MERGED
+amazing3-fe,feat: 댓글 기능 api 연동 및 ios에서 키패드 이슈 대응,https://github.com/depromeet/amazing3-fe/pull/223,2024-03-17T16:53:35Z,2024-03-29T04:05:00Z,12,32,MERGED
+amazing3-fe,bug: 이모지 totalReactUserCount 값 추가 및 적용,https://github.com/depromeet/amazing3-fe/pull/222,2024-03-17T13:21:03Z,2024-03-17T13:48:52Z,1,1,MERGED
+amazing3-fe,fix: 응원한 사람 프로필 이미지 높이 깨지는 현상 수정,https://github.com/depromeet/amazing3-fe/pull/221,2024-03-17T06:55:34Z,2024-03-17T13:19:53Z,1,1,MERGED
+amazing3-fe,fix: 남 지도에서 공유 버튼을 -> 프로필 이미지로 변경,https://github.com/depromeet/amazing3-fe/pull/220,2024-03-17T05:46:53Z,2024-03-17T13:20:10Z,1,1,MERGED
+amazing3-fe,feat: 홈 화면 - 지도 탭 추가,https://github.com/depromeet/amazing3-fe/pull/219,2024-03-16T18:05:28Z,2024-03-19T15:43:41Z,4,5,MERGED
+amazing3-fe,feat: 피드 페이지 / 마이 페이지에 바텀 네비게이션 추가,https://github.com/depromeet/amazing3-fe/pull/217,2024-03-16T16:34:44Z,2024-03-18T15:01:07Z,3,12,MERGED
+amazing3-fe,bug: 이모지 추가 로직 중 낙관적 업데이트 제거,https://github.com/depromeet/amazing3-fe/pull/215,2024-03-15T08:06:14Z,2024-03-16T15:25:03Z,2,1,MERGED
+amazing3-fe,refactor: 이모지 관련 컴포넌트 중 필요한 모듈만 import하도록,https://github.com/depromeet/amazing3-fe/pull/214,2024-03-14T15:52:59Z,2024-03-16T15:24:48Z,1,1,MERGED
+amazing3-fe,feat: 댓글 기능 api 연동,https://github.com/depromeet/amazing3-fe/pull/213,2024-03-14T15:15:19Z,2024-03-17T17:06:32Z,8,30,CLOSED
+amazing3-fe,chore: 내 지도 스타일 변경,https://github.com/depromeet/amazing3-fe/pull/212,2024-03-14T15:08:38Z,2024-03-18T14:19:06Z,1,4,MERGED
+amazing3-fe,feat: 피드 페이지 무한 스크롤 적용,https://github.com/depromeet/amazing3-fe/pull/211,2024-03-14T14:37:51Z,2024-03-14T15:37:17Z,2,2,MERGED
+amazing3-fe,feat: 내 지도에서 프로필 이미지 -> 공유 버튼으로 변경 ,https://github.com/depromeet/amazing3-fe/pull/210,2024-03-14T14:27:48Z,2024-03-16T15:08:30Z,1,6,MERGED
+amazing3-fe,feat: 홈페이지 내 탭 메뉴 컴포넌트 구현,https://github.com/depromeet/amazing3-fe/pull/209,2024-03-14T11:04:15Z,2024-03-15T01:15:42Z,2,4,MERGED
+amazing3-fe,feat: 피드 페이지 댓글 바텀 시트 연결 / 리액션 기능 퍼블리싱,https://github.com/depromeet/amazing3-fe/pull/208,2024-03-13T16:34:49Z,2024-03-14T14:58:07Z,10,10,MERGED
+amazing3-fe,feat: 이모지 api 연동,https://github.com/depromeet/amazing3-fe/pull/204,2024-03-13T15:20:38Z,2024-03-14T15:39:12Z,8,12,MERGED
+amazing3-fe,fix: 무한스크롤 한 번 스크롤 시 페이지 여러개 요청하는 버그 수정,https://github.com/depromeet/amazing3-fe/pull/203,2024-03-13T13:55:35Z,2024-03-14T14:28:25Z,2,2,MERGED
+amazing3-fe,feat: 바텀 네비게이션 컴포넌트 구현,https://github.com/depromeet/amazing3-fe/pull/202,2024-03-13T10:31:40Z,2024-03-14T10:06:33Z,4,7,MERGED
+amazing3-fe,chore: 프로덕션일때만 sentry 에러 캐치하도록 수정,https://github.com/depromeet/amazing3-fe/pull/201,2024-03-11T15:16:31Z,2024-03-12T09:37:39Z,1,1,MERGED
+amazing3-fe,feat: 응원한 사람 중 탈퇴한 사용자인 경우 ui 수정,https://github.com/depromeet/amazing3-fe/pull/200,2024-03-11T15:10:50Z,2024-03-13T06:02:27Z,1,3,MERGED
+amazing3-fe,chore: 댓글 기능을 위한 퍼블리싱,https://github.com/depromeet/amazing3-fe/pull/199,2024-03-08T13:49:32Z,2024-03-13T12:22:36Z,2,8,MERGED
+amazing3-fe,refactor: emojis → emojiGroup 리팩터링,https://github.com/depromeet/amazing3-fe/pull/198,2024-03-08T05:12:12Z,2024-03-12T14:17:55Z,5,8,MERGED
+amazing3-fe,chore: sentry 추가,https://github.com/depromeet/amazing3-fe/pull/197,2024-03-08T04:49:13Z,2024-03-08T08:42:52Z,1,4,MERGED
+amazing3-fe,"fix: 프로필 수정 시, birth가 null일 경우 발생하는 오류 수정",https://github.com/depromeet/amazing3-fe/pull/196,2024-03-07T11:29:15Z,2024-03-07T12:55:06Z,2,1,MERGED
+amazing3-fe,feat: 온보딩 생년월일 입력 optional로 변경,https://github.com/depromeet/amazing3-fe/pull/195,2024-03-07T06:26:22Z,2024-03-07T07:08:24Z,1,3,MERGED
+amazing3-fe,bug: onboarding 화면으로 안들어가는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/194,2024-03-05T14:19:56Z,2024-03-05T14:23:18Z,1,2,MERGED
+amazing3-fe,feat: 애플 로그인 추가,https://github.com/depromeet/amazing3-fe/pull/193,2024-03-03T07:51:52Z,2024-03-05T14:47:12Z,1,2,MERGED
+amazing3-fe,feat: 목표 수정 기능 개발,https://github.com/depromeet/amazing3-fe/pull/192,2024-03-01T07:52:45Z,2024-04-02T13:23:27Z,1,14,MERGED
+amazing3-fe,chore: 리액션 기능을 위한 퍼블리싱,https://github.com/depromeet/amazing3-fe/pull/191,2024-03-01T06:36:18Z,2024-03-03T04:11:04Z,4,20,MERGED
+amazing3-fe,chore: 피드 페이지를 위한 기본 구조 퍼블리싱,https://github.com/depromeet/amazing3-fe/pull/190,2024-02-28T05:47:20Z,2024-03-13T11:45:15Z,9,19,MERGED
+amazing3-fe,chore: 스토리북 배포 dev브랜치 추가,https://github.com/depromeet/amazing3-fe/pull/189,2024-02-28T04:49:27Z,2024-02-28T04:52:32Z,1,1,MERGED
+amazing3-fe,chore: memberData.nickname이 존재하는 경우에만 응원하기 가능하도록,https://github.com/depromeet/amazing3-fe/pull/188,2024-02-28T04:40:53Z,2024-02-28T05:02:38Z,1,1,MERGED
+amazing3-fe,"revert: ""bug: 응원하기 성공 시에도 toast 뜨는 이슈 해결 (#182)""",https://github.com/depromeet/amazing3-fe/pull/187,2024-02-28T04:12:21Z,2024-02-28T04:23:25Z,1,1,CLOSED
+amazing3-fe,chore: 리액션 기능을 위한 퍼블리싱,https://github.com/depromeet/amazing3-fe/pull/186,2024-02-28T03:11:15Z,2024-03-01T06:36:37Z,17,31,CLOSED
+amazing3-fe,chore: 추가된 Task 컴포넌트 디자인 적용 (타인 지도의 task),https://github.com/depromeet/amazing3-fe/pull/185,2024-02-27T10:16:54Z,2024-02-28T06:21:36Z,2,6,MERGED
+amazing3-fe,refactor: 번들 사이즈 개선,https://github.com/depromeet/amazing3-fe/pull/184,2024-02-21T15:57:19Z,2024-02-27T08:20:39Z,1,2,MERGED
+amazing3-fe,refactor: 인생지도 페이지 성능 개선,https://github.com/depromeet/amazing3-fe/pull/183,2024-02-21T13:08:50Z,2024-02-29T09:27:56Z,3,10,MERGED
+amazing3-fe,bug: 응원하기 성공 시에도 toast 뜨는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/182,2024-02-21T03:20:23Z,2024-02-28T02:05:34Z,7,14,MERGED
+amazing3-fe,chore: 이모지 추가 & 개수 조회 기능을 위한 퍼블리싱,https://github.com/depromeet/amazing3-fe/pull/181,2024-02-14T15:42:39Z,2024-02-20T10:59:40Z,3,17,CLOSED
+amazing3-fe,Bug: username 수정 제한 설정 및 응원하기 수행 조건 추가,https://github.com/depromeet/amazing3-fe/pull/180,2024-02-13T15:05:59Z,2024-02-14T14:08:44Z,1,2,MERGED
+amazing3-fe,chore: 홈화면에 dynamic으로 meta 및 og 적용,https://github.com/depromeet/amazing3-fe/pull/179,2024-02-07T15:13:08Z,2024-02-07T15:42:05Z,2,2,MERGED
+amazing3-fe,bug: username에 BANDIBOODI가 포함된 경우 validation 실패 처리,https://github.com/depromeet/amazing3-fe/pull/178,2024-02-05T12:14:54Z,2024-02-05T15:45:40Z,1,2,MERGED
+amazing3-fe,bug: 응원 리스트 요청 시 undefined가 아닌 경우에만 호출하도록 수정,https://github.com/depromeet/amazing3-fe/pull/177,2024-02-03T02:17:37Z,2024-02-03T02:18:46Z,1,1,MERGED
+amazing3-fe,chore: meta 및 og 원복,https://github.com/depromeet/amazing3-fe/pull/176,2024-02-02T18:13:25Z,2024-02-02T18:14:36Z,1,2,MERGED
+amazing3-fe,bug: og에서 url 수정,https://github.com/depromeet/amazing3-fe/pull/175,2024-02-02T18:00:26Z,2024-02-02T18:01:22Z,1,1,MERGED
+amazing3-fe,chore: 홈화면 ogImage 롤백,https://github.com/depromeet/amazing3-fe/pull/174,2024-02-02T17:44:43Z,2024-02-02T17:45:58Z,1,1,MERGED
+amazing3-fe,bug: 홈화면 ogImage 보이지 않는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/173,2024-02-02T16:56:52Z,2024-02-02T17:39:37Z,1,2,MERGED
+amazing3-fe,chore: 홈화면 meta 및 og 적용,https://github.com/depromeet/amazing3-fe/pull/172,2024-02-02T16:13:29Z,2024-02-02T16:28:43Z,3,7,MERGED
+amazing3-fe,feat: 1분에 한 번만 응원하기 누를 수 있도록 구현,https://github.com/depromeet/amazing3-fe/pull/171,2024-02-02T13:54:17Z,2024-02-02T14:41:31Z,1,4,MERGED
+amazing3-fe,Feat/cheering -> main 반영 전 최종 검토 및 버그 해결,https://github.com/depromeet/amazing3-fe/pull/170,2024-02-02T11:07:54Z,2024-02-02T15:55:24Z,1,17,MERGED
+amazing3-fe,feat: 내가 받은 응원 api 연동,https://github.com/depromeet/amazing3-fe/pull/169,2024-02-01T19:03:40Z,2024-02-02T09:30:22Z,1,12,MERGED
+amazing3-fe,bug: 스플래시 화면에서 뒷 배경 길이 조절,https://github.com/depromeet/amazing3-fe/pull/168,2024-01-31T05:48:21Z,2024-01-31T10:47:59Z,1,1,MERGED
+amazing3-fe,feat: 응원하기 개수 조회 api 연동,https://github.com/depromeet/amazing3-fe/pull/167,2024-01-30T17:14:45Z,2024-01-31T16:50:31Z,1,2,MERGED
+amazing3-fe,feat: 응원하기 api 연동,https://github.com/depromeet/amazing3-fe/pull/166,2024-01-30T16:51:25Z,2024-02-02T01:30:54Z,2,5,MERGED
+amazing3-fe,feat: 응원하기 개수 api 응답 값으로 수정,https://github.com/depromeet/amazing3-fe/pull/165,2024-01-30T14:12:18Z,2024-01-31T01:42:42Z,1,1,MERGED
+amazing3-fe,refactor: 응원한 사람 페이지 app bar 분리 / 색상 토큰 추가,https://github.com/depromeet/amazing3-fe/pull/164,2024-01-30T13:48:59Z,2024-01-31T01:42:29Z,1,2,MERGED
+amazing3-fe,bug: input 필드 선택 후 enter press 시 의도하지 않은 버튼이 클릭되는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/163,2024-01-29T14:44:46Z,2024-01-29T15:02:24Z,3,5,MERGED
+amazing3-fe,feat: prefetch hydration를 위한 구성 및 goals에 적용,https://github.com/depromeet/amazing3-fe/pull/162,2024-01-29T14:33:47Z,2024-01-29T14:35:59Z,1,4,CLOSED
+amazing3-fe,refactor: 세부목표 isDone 요청에 debounce 추가,https://github.com/depromeet/amazing3-fe/pull/161,2024-01-29T14:05:03Z,2024-02-02T06:46:25Z,6,3,MERGED
+amazing3-fe,fix: 목표 조각에 box shadow 제거,https://github.com/depromeet/amazing3-fe/pull/160,2024-01-29T12:57:21Z,2024-01-29T13:04:02Z,2,1,MERGED
+amazing3-fe,fix: botttomSheet 전체에 적용된 css 아예 제거,https://github.com/depromeet/amazing3-fe/pull/159,2024-01-29T08:29:57Z,2024-01-29T08:30:46Z,1,1,MERGED
+amazing3-fe,chore: 로그인 바텀시트 스타일 수정,https://github.com/depromeet/amazing3-fe/pull/158,2024-01-29T06:24:22Z,2024-01-29T06:30:02Z,1,1,MERGED
+amazing3-fe,chore: 로그인 바텀시트에 css 적용,https://github.com/depromeet/amazing3-fe/pull/157,2024-01-29T05:48:31Z,2024-01-29T05:50:22Z,1,1,MERGED
+amazing3-fe,bug: 남의 지도에서 빈 목표 카드 선택 시 사용자 상태에 따른 로직 분리,https://github.com/depromeet/amazing3-fe/pull/156,2024-01-28T15:17:12Z,2024-01-28T15:20:02Z,1,2,MERGED
+amazing3-fe,bug: 빈 목표 카드 선택 시 목표 생성 화면으로 redirection,https://github.com/depromeet/amazing3-fe/pull/155,2024-01-28T14:49:17Z,2024-01-28T14:50:10Z,1,1,MERGED
+amazing3-fe,"fix: 태그 선택 시, 버튼이 안눌리는 이슈 해결",https://github.com/depromeet/amazing3-fe/pull/154,2024-01-28T14:45:55Z,2024-01-28T14:50:40Z,1,1,MERGED
+amazing3-fe,bug: 불필요한 accessToken 체크 로직 삭제,https://github.com/depromeet/amazing3-fe/pull/153,2024-01-28T14:38:50Z,2024-01-28T14:49:58Z,1,2,MERGED
+amazing3-fe,fix: 공유 바텀시트 겹침 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/152,2024-01-28T14:02:18Z,2024-01-28T14:04:51Z,1,1,MERGED
+amazing3-fe,style: 3 cols -> 2 cols로 디자인 변경,https://github.com/depromeet/amazing3-fe/pull/151,2024-01-28T12:52:55Z,2024-01-28T12:53:50Z,1,1,MERGED
+amazing3-fe,bug: bottom sheet content 스크롤 비정상 동작하는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/150,2024-01-28T11:34:39Z,2024-01-28T12:16:45Z,1,1,MERGED
+amazing3-fe,"bug: url로 직접 접근 시 버그 수정 (지도 공유, 마이페이지) ",https://github.com/depromeet/amazing3-fe/pull/149,2024-01-28T11:07:19Z,2024-01-28T12:17:02Z,1,3,MERGED
+amazing3-fe,feat: 목표 개수 / 응원 개수 ui 추가 - feat/cheering 브랜치로 변경,https://github.com/depromeet/amazing3-fe/pull/148,2024-01-28T08:19:05Z,2024-01-28T08:26:05Z,1,3,CLOSED
+amazing3-fe,feat: 응원보내기 버튼 ui 추가 - feat/cheering 브랜치로 변경,https://github.com/depromeet/amazing3-fe/pull/147,2024-01-28T08:19:02Z,2024-01-28T08:26:13Z,2,3,CLOSED
+amazing3-fe,"revert: ""feat: 응원보내기 버튼 ui 추가""",https://github.com/depromeet/amazing3-fe/pull/146,2024-01-28T07:07:03Z,2024-01-28T08:02:00Z,1,1,MERGED
+amazing3-fe,"revert:  ""feat: 목표 개수 / 응원 개수 ui 추가""",https://github.com/depromeet/amazing3-fe/pull/145,2024-01-28T07:06:22Z,2024-01-28T08:01:48Z,1,1,MERGED
+amazing3-fe,feat: 마이페이지 > 내가 받은 응원 페이지 ui 추가,https://github.com/depromeet/amazing3-fe/pull/144,2024-01-28T04:45:19Z,2024-01-28T08:49:17Z,4,14,MERGED
+amazing3-fe,feat: 응원보내기 버튼 ui 추가,https://github.com/depromeet/amazing3-fe/pull/143,2024-01-27T17:59:56Z,2024-01-27T19:15:40Z,1,2,MERGED
+amazing3-fe,feat: 목표 개수 / 응원 개수 ui 추가,https://github.com/depromeet/amazing3-fe/pull/142,2024-01-27T17:40:24Z,2024-01-27T19:16:12Z,1,3,MERGED
+amazing3-fe,chore: 목표 삭제 바텀시트에 nickname 표시 및 스타일 수정,https://github.com/depromeet/amazing3-fe/pull/141,2024-01-27T17:40:05Z,2024-01-27T17:42:53Z,2,1,MERGED
+amazing3-fe,bug: 세부목표 추가 스텝 부분 이슈 및 빠진 부분 추가,https://github.com/depromeet/amazing3-fe/pull/140,2024-01-27T17:05:11Z,2024-01-28T04:09:32Z,1,6,MERGED
+amazing3-fe,bug: 태그 폼 레이아웃 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/139,2024-01-27T16:16:37Z,2024-01-27T17:42:32Z,1,1,MERGED
+amazing3-fe,"bug: 불필요한 텍스트, 이상한 텍스트 수정",https://github.com/depromeet/amazing3-fe/pull/138,2024-01-27T16:03:52Z,2024-01-27T16:04:36Z,1,1,MERGED
+amazing3-fe,bug: ios에서 input 포커스될 때 화면이 확대되는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/137,2024-01-27T15:34:19Z,2024-01-27T15:44:13Z,1,2,MERGED
+amazing3-fe,bug: 내 지도인지 아닌지에 따라 세부목표 화면 일부 수정,https://github.com/depromeet/amazing3-fe/pull/136,2024-01-27T14:26:32Z,2024-01-27T16:01:17Z,5,1,MERGED
+amazing3-fe,"fix: 사용자 정보 업데이트 시, 로컬스토리지도 업데이트 되도록 수정",https://github.com/depromeet/amazing3-fe/pull/135,2024-01-27T07:54:47Z,2024-01-27T08:06:44Z,1,2,MERGED
+amazing3-fe,"fix: 나만보기 인생지도로 조회 시, 500에러 수정",https://github.com/depromeet/amazing3-fe/pull/134,2024-01-27T06:26:27Z,2024-01-27T06:28:15Z,1,1,MERGED
+amazing3-fe,bug: form 값이 없을 때 버그 수정,https://github.com/depromeet/amazing3-fe/pull/133,2024-01-27T06:22:27Z,2024-01-27T06:25:19Z,1,1,MERGED
+amazing3-fe,fix: 네이버 프로필 이미지 도메인 추가,https://github.com/depromeet/amazing3-fe/pull/132,2024-01-27T05:36:57Z,2024-01-27T05:49:03Z,1,1,MERGED
+amazing3-fe,bug: 생년월일로 미래를 입력할 경우 disabled & toast 처리,https://github.com/depromeet/amazing3-fe/pull/131,2024-01-27T04:34:43Z,2024-01-27T06:26:26Z,1,2,MERGED
+amazing3-fe,bug: GoalForm에서 textfield 반영 안되는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/130,2024-01-26T14:35:11Z,2024-01-27T03:48:20Z,1,1,MERGED
+amazing3-fe,feat: 마이페이지 수정 기능 반영과 관련 프로파일 이미지 선택 필드 추가,https://github.com/depromeet/amazing3-fe/pull/129,2024-01-25T18:23:22Z,2024-01-27T03:23:17Z,3,6,MERGED
+amazing3-fe,"feat: 사용자의 인생지도 public, private 설정 기능 개발",https://github.com/depromeet/amazing3-fe/pull/128,2024-01-25T10:20:38Z,2024-01-26T12:25:46Z,5,2,MERGED
+amazing3-fe,feat: 로그인 안한 사용자가 상세 목표 조회 시 로그인 버튼 시트 출력,https://github.com/depromeet/amazing3-fe/pull/127,2024-01-25T04:24:35Z,2024-01-26T00:07:35Z,4,5,MERGED
+amazing3-fe,fix: ios에서 인생지도 다운로드 안되는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/126,2024-01-17T10:31:01Z,2024-01-19T04:14:07Z,2,2,MERGED
+amazing3-fe,"revert: ""revert: ""feat: 인생지도 공유 url 화면 추가""""",https://github.com/depromeet/amazing3-fe/pull/125,2024-01-17T07:26:28Z,2024-01-17T07:29:05Z,1,1,MERGED
+amazing3-fe,"revert: ""feat: 인생지도 공유 url 화면 추가""",https://github.com/depromeet/amazing3-fe/pull/124,2024-01-17T04:06:11Z,2024-01-17T04:38:06Z,1,1,MERGED
+amazing3-fe,feat: 정보 수정 페이지 추가,https://github.com/depromeet/amazing3-fe/pull/123,2024-01-16T09:37:29Z,2024-01-25T02:22:04Z,9,10,MERGED
+amazing3-fe,bug: put /my api에 추가된 username 필드 값 추가 및 OAuth/token 페이지 정리,https://github.com/depromeet/amazing3-fe/pull/122,2024-01-15T16:22:02Z,2024-01-15T16:29:38Z,2,1,MERGED
+amazing3-fe,bug: Portal에서 hydration 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/121,2024-01-15T15:12:29Z,2024-01-16T04:02:33Z,1,1,MERGED
+amazing3-fe,bug: 온보딩 페이지 레이아웃 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/120,2024-01-15T11:18:01Z,2024-01-15T14:56:25Z,4,10,MERGED
+amazing3-fe,bug: 세부목표 페이지 세부 스타일 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/119,2024-01-15T10:45:19Z,2024-01-15T11:46:23Z,2,2,MERGED
+amazing3-fe,bug: 세부목표 Input 가려지는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/118,2024-01-15T04:51:37Z,2024-01-15T05:14:38Z,1,1,MERGED
+amazing3-fe,docs: 개인정보 처리 방침 문서 외부 링크 적용,https://github.com/depromeet/amazing3-fe/pull/117,2024-01-15T02:26:56Z,2024-01-15T05:15:55Z,1,1,MERGED
+amazing3-fe,feat: 인생지도 공유 url 화면 추가,https://github.com/depromeet/amazing3-fe/pull/116,2024-01-13T02:25:18Z,2024-01-16T16:40:10Z,8,24,MERGED
+amazing3-fe,"feat: 목표 생성, 목표 상세보기, 목표 삭제 후 현재 페이지 변경 로직 추가",https://github.com/depromeet/amazing3-fe/pull/115,2024-01-12T19:13:42Z,2024-01-17T16:36:14Z,11,9,MERGED
+amazing3-fe,bug: kakao 이미지 호스팅 경로 수정,https://github.com/depromeet/amazing3-fe/pull/114,2024-01-12T14:43:22Z,2024-01-12T15:34:21Z,2,1,MERGED
+amazing3-fe,"feat: 세부 목표 수정, 삭제 기능 구현",https://github.com/depromeet/amazing3-fe/pull/113,2024-01-12T12:29:18Z,2024-01-15T09:46:39Z,9,22,MERGED
+amazing3-fe,feat: 이미지 저장 BottomSheet 컴포넌트 구현,https://github.com/depromeet/amazing3-fe/pull/112,2024-01-11T16:03:14Z,2024-01-12T15:32:55Z,3,11,MERGED
+amazing3-fe,feat: api 변경 내용 반영,https://github.com/depromeet/amazing3-fe/pull/111,2024-01-11T15:29:56Z,2024-01-11T15:30:25Z,1,1,MERGED
+amazing3-fe,feat: 카카오 인증 검수를 위한 버튼 추가,https://github.com/depromeet/amazing3-fe/pull/110,2024-01-11T15:06:33Z,2024-01-11T15:19:20Z,1,1,MERGED
+amazing3-fe,feat: naver oauth 테스트 및 마이너 수정,https://github.com/depromeet/amazing3-fe/pull/109,2024-01-11T12:11:17Z,2024-01-11T12:23:17Z,1,2,MERGED
+amazing3-fe,feat: 마이페이지 API 연결,https://github.com/depromeet/amazing3-fe/pull/108,2024-01-11T11:08:38Z,2024-01-11T16:09:26Z,4,7,MERGED
+amazing3-fe,feat: 목표 달성 기능 구현 (+스크롤 기능 제거),https://github.com/depromeet/amazing3-fe/pull/107,2024-01-11T10:06:27Z,2024-01-12T03:29:10Z,5,6,MERGED
+amazing3-fe,feat: Toast 컴포넌트 추가,https://github.com/depromeet/amazing3-fe/pull/106,2024-01-10T18:09:57Z,2024-01-12T11:44:39Z,7,6,MERGED
+amazing3-fe,feat: 마이페이지에 인생지도 공개 설정 라디오 버튼 그룹 추가,https://github.com/depromeet/amazing3-fe/pull/105,2024-01-10T15:56:14Z,2024-01-11T08:43:01Z,3,2,MERGED
+amazing3-fe,feat: 로그인 유도 BottomSheet 추가,https://github.com/depromeet/amazing3-fe/pull/104,2024-01-10T15:50:19Z,2024-01-11T11:43:57Z,5,5,MERGED
+amazing3-fe,bug: OAuth 이미지를 출력하기 위한 설정 추가,https://github.com/depromeet/amazing3-fe/pull/103,2024-01-10T14:00:22Z,2024-01-11T11:17:44Z,1,1,MERGED
+amazing3-fe,feat: 목표 추가 기능 구현,https://github.com/depromeet/amazing3-fe/pull/102,2024-01-09T15:34:49Z,2024-01-11T07:45:47Z,14,22,MERGED
+amazing3-fe,feat: 마이페이지 추가,https://github.com/depromeet/amazing3-fe/pull/101,2024-01-09T07:51:07Z,2024-01-11T08:45:07Z,14,18,MERGED
+amazing3-fe,feat: 세부 목표 페이지에 필요한 컴포넌트 추가,https://github.com/depromeet/amazing3-fe/pull/100,2024-01-07T14:19:26Z,2024-01-08T10:53:51Z,12,8,MERGED
+amazing3-fe,bug: MapCard 레이아웃 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/99,2024-01-07T05:41:59Z,2024-01-07T06:49:51Z,3,2,MERGED
+amazing3-fe,[긴급] bug: 서버에서 oauth redirection 경로 변경에 따른 코드 수정,https://github.com/depromeet/amazing3-fe/pull/98,2024-01-06T18:31:56Z,2024-01-06T18:33:22Z,1,1,MERGED
+amazing3-fe,"bug: /onboarding, /home, /goal/saved,  /goal/detail에 있는 이슈 해결",https://github.com/depromeet/amazing3-fe/pull/97,2024-01-05T21:54:18Z,2024-01-07T08:15:02Z,3,6,MERGED
+amazing3-fe,chore: framer-motion 추가,https://github.com/depromeet/amazing3-fe/pull/96,2024-01-05T21:30:00Z,2024-01-07T08:28:23Z,1,3,MERGED
+amazing3-fe,bug: initialSlide가 0인 경우 Swiper가 출력되지 않는 이슈,https://github.com/depromeet/amazing3-fe/pull/95,2024-01-05T18:41:35Z,2024-01-05T18:49:40Z,2,1,MERGED
+amazing3-fe,feat: 현재 시간 position에 별 아이콘 추가,https://github.com/depromeet/amazing3-fe/pull/94,2024-01-05T18:34:43Z,2024-01-08T14:12:35Z,7,6,MERGED
+amazing3-fe,[긴급] bug: Birth Day 입력 필드에서 잘못 설정된 포맷 수정,https://github.com/depromeet/amazing3-fe/pull/93,2024-01-05T03:58:30Z,2024-01-05T04:15:27Z,2,2,MERGED
+amazing3-fe,feat: 홈화면 Hydration 적용,https://github.com/depromeet/amazing3-fe/pull/92,2024-01-04T09:19:24Z,2024-01-18T07:53:34Z,5,1,CLOSED
+amazing3-fe,chore: Google Analytics 추가,https://github.com/depromeet/amazing3-fe/pull/91,2024-01-04T08:34:08Z,2024-01-08T00:39:45Z,1,1,MERGED
+amazing3-fe,feat: home 화면 접근 시 현재 시간이 포함된 페이지가 처음으로 보이도록 수정,https://github.com/depromeet/amazing3-fe/pull/90,2024-01-03T16:37:35Z,2024-01-05T13:26:18Z,10,6,MERGED
+amazing3-fe,feat: Loading 컴포넌트 구현,https://github.com/depromeet/amazing3-fe/pull/89,2024-01-03T15:08:34Z,2024-01-07T05:08:28Z,7,9,MERGED
+amazing3-fe,"fix: 구글 검색 시, favicon이 보이지 않는 이슈",https://github.com/depromeet/amazing3-fe/pull/88,2024-01-02T15:54:00Z,2024-01-07T04:55:26Z,5,1,CLOSED
+amazing3-fe,fix: 빠진 value prop 추가,https://github.com/depromeet/amazing3-fe/pull/286,2024-05-26T04:22:11Z,2024-05-27T13:42:56Z,1,2,MERGED
+amazing3-fe,fix: 공백 관련 유효성 검증 전역적으로 추가,https://github.com/depromeet/amazing3-fe/pull/284,2024-05-01T09:50:49Z,2024-05-01T14:15:05Z,5,10,MERGED
+amazing3-fe,fix: 이모지 바텀시트에서 프로필 이미지가 길어지는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/283,2024-04-30T13:29:31Z,2024-04-30T13:33:12Z,1,2,MERGED
+amazing3-fe,hotfix: timeline nan issue,https://github.com/depromeet/amazing3-fe/pull/282,2024-04-30T13:24:33Z,2024-04-30T13:26:38Z,2,2,MERGED
+amazing3-fe,fix: 디자인 시안에 맞게 텍스트 수정,https://github.com/depromeet/amazing3-fe/pull/277,2024-04-29T15:22:14Z,2024-04-29T15:23:50Z,1,1,MERGED
+amazing3-fe,fix: Avatar에서 에러와 긴 이미지 대응,https://github.com/depromeet/amazing3-fe/pull/276,2024-04-29T15:10:17Z,2024-04-29T15:23:34Z,3,2,MERGED
+amazing3-fe,hotfix: initialPageParam에 null 대신 0을 입력,https://github.com/depromeet/amazing3-fe/pull/275,2024-04-28T16:40:25Z,2024-04-28T16:42:04Z,1,1,MERGED
+amazing3-fe,fix: 모바일뷰에서 양쪽 여백이 없어 답답해 보이는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/274,2024-04-26T14:43:10Z,2024-04-27T04:38:37Z,1,1,MERGED
+amazing3-fe,fix: username 변경 사항이 없는 경우 체크 로직 무시,https://github.com/depromeet/amazing3-fe/pull/273,2024-04-26T13:58:14Z,2024-04-26T13:59:28Z,1,1,MERGED
+amazing3-fe,fix: 피드에 이모지 추가 안되는 이슈 수정,https://github.com/depromeet/amazing3-fe/pull/272,2024-04-26T13:34:34Z,2024-04-26T13:41:35Z,1,1,MERGED
+amazing3-fe,fix: 타임라인 무한 스크롤이 안되는 이슈 수정,https://github.com/depromeet/amazing3-fe/pull/271,2024-04-26T13:29:12Z,2024-04-26T13:54:14Z,1,3,MERGED
+amazing3-fe,v1.0.0,https://github.com/depromeet/amazing3-fe/pull/270,2024-04-26T11:06:30Z,2024-04-26T11:45:56Z,2,61,MERGED
+amazing3-fe,"fix: 피드에서 +버튼으로 이모지 추가 시, 계속 이모지 개수가 늘어나는 버그 수정",https://github.com/depromeet/amazing3-fe/pull/269,2024-04-26T06:42:43Z,2024-04-26T11:15:18Z,1,1,MERGED
+amazing3-fe,fix: 남의 목표에서 삭제/수정 버튼이 생기는 이슈 해결 (+ 수정 기능 뒤로가기 경로 수정),https://github.com/depromeet/amazing3-fe/pull/268,2024-04-24T14:20:20Z,2024-04-26T02:16:44Z,1,3,MERGED
+amazing3-fe,fix: cursor default로 보이던 문제 해결,https://github.com/depromeet/amazing3-fe/pull/267,2024-04-22T14:06:14Z,2024-04-24T14:17:40Z,1,1,MERGED
+amazing3-fe,feat: 댓글 추가 시 스크롤 위치 조정,https://github.com/depromeet/amazing3-fe/pull/266,2024-04-20T14:24:41Z,2024-04-20T14:55:16Z,1,6,MERGED
+amazing3-fe,fix: 남의 지도에서 로그인 유도 화면을 통해 로그인 시 마이 페이지로 이동하는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/265,2024-04-20T14:07:05Z,2024-04-20T14:54:01Z,1,1,MERGED
+amazing3-fe,fix: 댓글 바텀시트 viewport 로직 제거,https://github.com/depromeet/amazing3-fe/pull/264,2024-04-20T11:12:41Z,2024-04-20T13:12:59Z,1,1,MERGED
+amazing3-fe,fix: goal detail 화면의 navigation이 비정상 동작하는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/263,2024-04-20T10:37:08Z,2024-04-20T14:48:35Z,1,1,MERGED
+amazing3-fe,fix: 남의 지도 프로필 누르면 내 프로필로 이동하는 버그 수정,https://github.com/depromeet/amazing3-fe/pull/262,2024-04-20T08:45:35Z,2024-04-20T14:46:48Z,1,2,MERGED
+amazing3-fe,fix: 타임라인에서 새로고침 시 지도 페이지로 이동하는 이슈 수정,https://github.com/depromeet/amazing3-fe/pull/261,2024-04-20T08:27:42Z,2024-04-20T15:45:36Z,2,2,MERGED
+amazing3-fe,bug: commentBottomSheet 마운트 시 input focus 제거,https://github.com/depromeet/amazing3-fe/pull/260,2024-04-20T08:03:41Z,2024-04-20T10:48:31Z,1,2,MERGED
+amazing3-fe,fix: 목표 수정 화면 날짜 수정 필드에 validation이 적용 안되는 이슈 해결,https://github.com/depromeet/amazing3-fe/pull/259,2024-04-20T07:13:23Z,2024-04-20T14:42:52Z,3,1,MERGED
+amazing3-fe,feat: composeEventHandlers 추가,https://github.com/depromeet/amazing3-fe/pull/258,2024-04-20T06:48:10Z,2024-04-20T10:47:46Z,1,2,MERGED
+amazing3-fe,bug: goalContent에서 나는 undefined 에러 대응,https://github.com/depromeet/amazing3-fe/pull/257,2024-04-20T05:18:50Z,2024-04-20T05:59:16Z,1,1,MERGED
+amazing3-fe,"fix: 응원하기 버튼 클릭 후, 모든 버튼이 눌리지 않는 버그 수정",https://github.com/depromeet/amazing3-fe/pull/256,2024-04-19T16:21:50Z,2024-04-20T06:09:05Z,2,3,MERGED
+amazing3-fe,fix: 타임라인 이모지 추가 / 삭제 안되는 이슈 수정,https://github.com/depromeet/amazing3-fe/pull/255,2024-04-19T05:36:26Z,2024-04-20T07:27:53Z,4,8,MERGED
+amazing3-fe,bug: 댓글 리스트 조회 시 로딩 상태 처리,https://github.com/depromeet/amazing3-fe/pull/254,2024-04-17T14:06:33Z,2024-04-19T14:32:44Z,4,1,MERGED
+amazing3-fe,feat: 페이지 전환 애니메이션 추가 / 로딩 개선,https://github.com/depromeet/amazing3-fe/pull/253,2024-04-14T09:22:52Z,2024-04-20T14:42:40Z,1,3,MERGED
+amazing3-fe,bug: 정보수정 페이지에서 birth 없이 수정 가능하도록,https://github.com/depromeet/amazing3-fe/pull/252,2024-04-08T14:57:32Z,2024-04-12T14:04:53Z,1,3,MERGED
+amazing3-fe,feat: 내 지도 / 남 지도 타임라인 api 분리,https://github.com/depromeet/amazing3-fe/pull/251,2024-04-08T14:56:11Z,2024-04-13T05:09:18Z,2,7,MERGED
+amazing3-fe,chore: auto assign & auto label 설정,https://github.com/depromeet/amazing3-fe/pull/250,2024-04-08T13:27:56Z,2024-04-08T13:35:27Z,1,7,CLOSED
+amazing3-fe,chore: auto assign & auto label 설정,https://github.com/depromeet/amazing3-fe/pull/249,2024-04-07T14:41:56Z,2024-04-07T14:42:23Z,1,5,CLOSED
+amazing3-fe,chore: auto assign & auto label 설정,https://github.com/depromeet/amazing3-fe/pull/248,2024-04-07T14:38:00Z,2024-04-07T14:40:59Z,1,5,CLOSED
+amazing3-fe,chore: auto assign & auto label 설정,https://github.com/depromeet/amazing3-fe/pull/247,2024-04-07T14:19:31Z,2024-04-07T14:37:11Z,1,3,CLOSED
+amazing3-fe,chore: auto assign & auto label 설정,https://github.com/depromeet/amazing3-fe/pull/246,2024-04-07T14:14:33Z,2024-04-07T14:16:49Z,1,2,CLOSED
+amazing3-fe,refactor: 생년월일 입력 - 변경된 디자인 적용 및 리팩터링,https://github.com/depromeet/amazing3-fe/pull/245,2024-04-07T12:00:58Z,2024-04-08T13:43:09Z,1,6,MERGED
+amazing3-fe,fix: 이미 존재하는 이모지를 + 버튼을 이용하여 새로 추가할 때 내가 반응한 이모지로 표기되지 않는 현상 수정,https://github.com/depromeet/amazing3-fe/pull/244,2024-04-07T11:52:21Z,2024-04-19T23:44:24Z,3,2,MERGED
+amazing3-fe,"bug: 타임라인 댓글 작성 / 삭제 시, 댓글 개수가 반영되지 않는 이슈 수정",https://github.com/depromeet/amazing3-fe/pull/243,2024-04-03T14:07:18Z,2024-04-08T13:40:44Z,1,2,MERGED
+amazing3-fe,bug: 댓글 리스트 조회 시 빨콩(HasNewComments) 바로 없어지지 않는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/242,2024-04-03T13:02:24Z,2024-04-04T12:47:46Z,2,1,MERGED
+amazing3-fe,bug: 바텀시트 뒤로 toast가 뜨는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/241,2024-04-03T12:16:16Z,2024-04-04T12:47:36Z,1,1,MERGED
+amazing3-fe,chore: ReactionUserTotalCount 컴포넌트 디자인 반영,https://github.com/depromeet/amazing3-fe/pull/240,2024-04-03T12:06:36Z,2024-04-04T12:47:23Z,1,1,MERGED
+amazing3-fe,fix: 피드 페이지에서 댓글 확인 오류 수정,https://github.com/depromeet/amazing3-fe/pull/239,2024-04-02T13:53:31Z,2024-04-02T14:00:17Z,1,1,MERGED
+amazing3-fe,fix: 다른 사람 타임라인 조회 시에도 동일한 타임라인만 조회되는 이슈 수정,https://github.com/depromeet/amazing3-fe/pull/238,2024-04-02T13:29:01Z,2024-04-02T13:35:17Z,1,1,MERGED
+amazing3-fe,fix: 존재하지 않는 유저의 지도 접근시 홈화면으로 튀는 문제 해결,https://github.com/depromeet/amazing3-fe/pull/237,2024-04-02T12:30:06Z,2024-04-02T12:53:14Z,1,1,MERGED

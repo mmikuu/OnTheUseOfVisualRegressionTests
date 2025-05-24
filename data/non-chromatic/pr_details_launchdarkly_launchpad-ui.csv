@@ -1,0 +1,1002 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+launchpad-ui,refactor: use nx for monorepo build system,https://github.com/launchdarkly/launchpad-ui/pull/74,2022-05-31T12:36:52Z,2022-05-31T17:55:09Z,3,8,MERGED
+launchpad-ui,feat: use @axe-core/playwright to verify accessibility,https://github.com/launchdarkly/launchpad-ui/pull/70,2022-05-25T17:39:56Z,2022-05-27T13:10:24Z,3,9,CLOSED
+launchpad-ui,fix(remix): add react-aria ssr provider,https://github.com/launchdarkly/launchpad-ui/pull/69,2022-05-25T13:40:33Z,2022-05-25T13:47:02Z,2,1,MERGED
+launchpad-ui,feat: update linting config,https://github.com/launchdarkly/launchpad-ui/pull/62,2022-05-23T14:02:43Z,2022-05-23T18:47:26Z,3,9,MERGED
+launchpad-ui,feat(remix): enable streaming,https://github.com/launchdarkly/launchpad-ui/pull/61,2022-05-23T13:00:08Z,2022-05-23T17:51:31Z,2,1,MERGED
+launchpad-ui,feat: add tab-list package,https://github.com/launchdarkly/launchpad-ui/pull/58,2022-05-20T18:03:29Z,2022-05-23T17:42:40Z,6,8,MERGED
+launchpad-ui,feat: add progress package,https://github.com/launchdarkly/launchpad-ui/pull/56,2022-05-20T13:50:25Z,2022-05-20T16:57:48Z,4,6,MERGED
+launchpad-ui,refactor: link packages via TS paths,https://github.com/launchdarkly/launchpad-ui/pull/42,2022-05-19T18:45:27Z,2022-05-19T19:07:21Z,3,4,MERGED
+launchpad-ui,fix: update unknown custom properties,https://github.com/launchdarkly/launchpad-ui/pull/40,2022-05-19T13:50:54Z,2022-05-19T14:01:56Z,3,4,MERGED
+launchpad-ui,feat: add toggle package,https://github.com/launchdarkly/launchpad-ui/pull/38,2022-05-18T20:34:14Z,2022-05-19T14:06:49Z,2,4,MERGED
+launchpad-ui,fix: update turbo scripts,https://github.com/launchdarkly/launchpad-ui/pull/37,2022-05-18T17:33:36Z,2022-05-18T19:03:32Z,2,1,MERGED
+launchpad-ui,fix: build packages first for release,https://github.com/launchdarkly/launchpad-ui/pull/35,2022-05-18T15:50:10Z,2022-05-18T16:07:36Z,2,2,MERGED
+launchpad-ui,feat: add alert package,https://github.com/launchdarkly/launchpad-ui/pull/34,2022-05-18T13:45:03Z,2022-05-18T15:24:22Z,2,13,MERGED
+launchpad-ui,chore: upgrade vitest,https://github.com/launchdarkly/launchpad-ui/pull/33,2022-05-16T18:40:22Z,2022-05-16T19:56:48Z,2,4,MERGED
+launchpad-ui,feat: add icons package,https://github.com/launchdarkly/launchpad-ui/pull/31,2022-05-16T13:24:24Z,2022-05-16T18:24:20Z,4,11,MERGED
+launchpad-ui,feat: add Remix app to test SSR,https://github.com/launchdarkly/launchpad-ui/pull/30,2022-05-13T12:58:59Z,2022-05-13T13:32:12Z,2,5,MERGED
+launchpad-ui,chore: upgrade husky,https://github.com/launchdarkly/launchpad-ui/pull/29,2022-05-12T17:23:27Z,2022-05-12T17:35:07Z,2,1,MERGED
+launchpad-ui,feat: add button package,https://github.com/launchdarkly/launchpad-ui/pull/28,2022-05-05T14:35:39Z,2022-05-09T13:53:10Z,2,13,MERGED
+launchpad-ui,feat: add React 18 support,https://github.com/launchdarkly/launchpad-ui/pull/26,2022-05-03T19:23:08Z,2022-05-04T12:19:42Z,3,3,MERGED
+launchpad-ui,feat: add READMEs,https://github.com/launchdarkly/launchpad-ui/pull/24,2022-05-03T15:45:50Z,2022-05-03T17:12:00Z,2,2,MERGED
+launchpad-ui,fix: update release script,https://github.com/launchdarkly/launchpad-ui/pull/23,2022-05-03T13:44:44Z,2022-05-03T17:09:34Z,2,4,MERGED
+launchpad-ui,fix(lozenge): set tokens as direct dependency,https://github.com/launchdarkly/launchpad-ui/pull/22,2022-05-02T20:36:11Z,2022-05-03T12:24:43Z,2,2,MERGED
+launchpad-ui,chore: upgrade to pnpm 7,https://github.com/launchdarkly/launchpad-ui/pull/20,2022-05-02T18:36:44Z,2022-05-02T19:15:27Z,2,2,MERGED
+launchpad-ui,feat: add Playwright for e2e tests,https://github.com/launchdarkly/launchpad-ui/pull/19,2022-04-29T14:23:42Z,2022-05-02T18:28:06Z,4,10,MERGED
+launchpad-ui,ci: add Changesets action,https://github.com/launchdarkly/launchpad-ui/pull/18,2022-04-28T19:42:49Z,2022-05-02T19:37:05Z,2,6,MERGED
+launchpad-ui,fix: export styles in packages,https://github.com/launchdarkly/launchpad-ui/pull/17,2022-04-28T14:49:45Z,2022-04-28T14:52:02Z,2,2,MERGED
+launchpad-ui,feat: add lozenge package,https://github.com/launchdarkly/launchpad-ui/pull/16,2022-04-28T12:28:08Z,2022-04-28T14:37:47Z,4,7,MERGED
+launchpad-ui,feat: add tokens package,https://github.com/launchdarkly/launchpad-ui/pull/15,2022-04-26T15:16:30Z,2022-04-26T17:20:37Z,5,10,MERGED
+launchpad-ui,ci: add chromatic for VRT,https://github.com/launchdarkly/launchpad-ui/pull/14,2022-04-25T13:42:11Z,2022-04-25T14:07:37Z,1,1,MERGED
+launchpad-ui,fix: use commonjs for scripts,https://github.com/launchdarkly/launchpad-ui/pull/13,2022-04-21T14:41:47Z,2022-04-21T14:44:46Z,0,1,MERGED
+launchpad-ui,ci: add build script,https://github.com/launchdarkly/launchpad-ui/pull/12,2022-04-21T14:27:53Z,2022-04-21T14:34:19Z,0,1,MERGED
+launchpad-ui,ci: add package size action,https://github.com/launchdarkly/launchpad-ui/pull/11,2022-04-21T13:43:39Z,2022-04-21T14:58:53Z,1,9,MERGED
+launchpad-ui,ci: validate PR titles,https://github.com/launchdarkly/launchpad-ui/pull/10,2022-04-21T12:52:48Z,2022-04-25T12:24:48Z,0,1,MERGED
+launchpad-ui,feat: add build script,https://github.com/launchdarkly/launchpad-ui/pull/9,2022-04-20T19:52:14Z,2022-04-21T12:25:09Z,2,3,MERGED
+launchpad-ui,feat: add Vitest for tests,https://github.com/launchdarkly/launchpad-ui/pull/8,2022-04-20T15:06:51Z,2022-04-20T15:23:12Z,0,5,MERGED
+launchpad-ui,feat: add Turborepo,https://github.com/launchdarkly/launchpad-ui/pull/7,2022-04-19T18:01:48Z,2022-04-19T18:49:50Z,1,3,MERGED
+launchpad-ui,feat: add Changesets,https://github.com/launchdarkly/launchpad-ui/pull/6,2022-04-19T13:42:56Z,2022-04-19T13:51:57Z,0,3,MERGED
+launchpad-ui,feat: add Storybook,https://github.com/launchdarkly/launchpad-ui/pull/5,2022-04-19T12:49:13Z,2022-04-19T12:50:45Z,0,1,MERGED
+launchpad-ui,ci: add GH action to lint,https://github.com/launchdarkly/launchpad-ui/pull/4,2022-04-18T20:16:33Z,2022-04-18T20:20:39Z,0,1,MERGED
+launchpad-ui,feat: add linting,https://github.com/launchdarkly/launchpad-ui/pull/3,2022-04-18T15:48:00Z,2022-04-18T17:03:49Z,0,4,MERGED
+launchpad-ui,feat: setup pnpm workspaces,https://github.com/launchdarkly/launchpad-ui/pull/2,2022-04-18T14:12:14Z,2022-04-18T15:02:43Z,0,1,MERGED
+launchpad-ui,chore: init node project,https://github.com/launchdarkly/launchpad-ui/pull/1,2022-04-18T13:01:06Z,2022-04-18T13:34:55Z,0,1,MERGED
+launchpad-ui,feat(filter): migrate Filter components,https://github.com/launchdarkly/launchpad-ui/pull/231,2022-07-30T00:21:06Z,2022-08-03T20:03:52Z,5,12,CLOSED
+launchpad-ui,fix(menu): use simple not selectors to fix item styles,https://github.com/launchdarkly/launchpad-ui/pull/230,2022-07-29T21:01:09Z,2022-08-01T12:24:39Z,2,2,MERGED
+launchpad-ui,fix(notification): make More details button clickable,https://github.com/launchdarkly/launchpad-ui/pull/229,2022-07-29T17:25:06Z,2022-07-29T18:01:35Z,2,3,MERGED
+launchpad-ui,"refactor(button,notification,clipboard)!: improve button and clipboard API",https://github.com/launchdarkly/launchpad-ui/pull/227,2022-07-29T06:23:42Z,2022-07-29T17:56:44Z,4,4,MERGED
+launchpad-ui,refactor(notification): make onDismiss optional,https://github.com/launchdarkly/launchpad-ui/pull/226,2022-07-29T04:52:51Z,2022-07-29T14:07:13Z,2,1,MERGED
+launchpad-ui,feat(clipboard): add asChild prop to CopyToClipboard,https://github.com/launchdarkly/launchpad-ui/pull/225,2022-07-28T21:36:19Z,2022-07-29T03:57:42Z,3,2,MERGED
+launchpad-ui,refactor(notification): update to functional component,https://github.com/launchdarkly/launchpad-ui/pull/224,2022-07-28T13:43:12Z,2022-07-28T15:00:45Z,2,2,MERGED
+launchpad-ui,feat: add split-button package,https://github.com/launchdarkly/launchpad-ui/pull/222,2022-07-27T20:56:00Z,2022-07-28T12:22:30Z,2,3,MERGED
+launchpad-ui,docs: update readmes to help consumers navigate between our resource,https://github.com/launchdarkly/launchpad-ui/pull/221,2022-07-27T16:38:18Z,2022-07-27T17:10:27Z,3,2,MERGED
+launchpad-ui,"fix(modal,notification,popover): add chunk names",https://github.com/launchdarkly/launchpad-ui/pull/219,2022-07-27T15:55:42Z,2022-07-27T16:02:10Z,2,2,MERGED
+launchpad-ui,"fix(modal,notification,popover): update framer dynamic import",https://github.com/launchdarkly/launchpad-ui/pull/218,2022-07-27T14:49:21Z,2022-07-27T15:02:36Z,2,2,MERGED
+launchpad-ui,fix: add changeset for update to icons,https://github.com/launchdarkly/launchpad-ui/pull/216,2022-07-27T13:42:26Z,2022-07-27T14:34:01Z,2,1,MERGED
+launchpad-ui,"refactor(modal,notification,popover)!: add LazyMotion",https://github.com/launchdarkly/launchpad-ui/pull/215,2022-07-26T20:15:31Z,2022-07-26T20:47:54Z,2,3,MERGED
+launchpad-ui,feat(pagination): add pagination package,https://github.com/launchdarkly/launchpad-ui/pull/214,2022-07-26T19:50:43Z,2022-07-26T21:32:05Z,4,7,MERGED
+launchpad-ui,feat(plop): Install deps after generating files with plop,https://github.com/launchdarkly/launchpad-ui/pull/213,2022-07-26T16:20:27Z,2022-07-26T17:06:44Z,2,3,MERGED
+launchpad-ui,feat: add table package,https://github.com/launchdarkly/launchpad-ui/pull/212,2022-07-26T14:16:06Z,2022-07-26T14:38:45Z,2,3,MERGED
+launchpad-ui,"refactor(button,menu): Add slot to menu and remove dependency on RR for button & menu",https://github.com/launchdarkly/launchpad-ui/pull/211,2022-07-25T23:54:38Z,2022-07-27T12:22:29Z,10,12,MERGED
+launchpad-ui,feat: add slider package,https://github.com/launchdarkly/launchpad-ui/pull/209,2022-07-25T19:05:06Z,2022-07-25T19:44:15Z,3,3,MERGED
+launchpad-ui,fix(popover): apply strategy to popover position,https://github.com/launchdarkly/launchpad-ui/pull/208,2022-07-25T14:58:53Z,2022-07-25T15:19:34Z,2,3,MERGED
+launchpad-ui,refactor: use single build script,https://github.com/launchdarkly/launchpad-ui/pull/207,2022-07-25T13:47:11Z,2022-07-25T14:35:32Z,2,2,MERGED
+launchpad-ui,feat: use @parcel/css in Storybook and Vite,https://github.com/launchdarkly/launchpad-ui/pull/206,2022-07-25T13:14:30Z,2022-07-25T14:25:33Z,2,3,MERGED
+launchpad-ui,"refactor(notification,progress-bubbles,menu,form): undisable no-descending-specificity",https://github.com/launchdarkly/launchpad-ui/pull/204,2022-07-21T20:59:31Z,2022-07-21T21:07:37Z,2,2,MERGED
+launchpad-ui,refactor(alert): remove legacy styles and reorder css to fix no-descending-specificity,https://github.com/launchdarkly/launchpad-ui/pull/202,2022-07-21T19:31:32Z,2022-07-21T19:58:42Z,3,4,MERGED
+launchpad-ui,refactor(dropdown)!: rename target class and remove legacy props,https://github.com/launchdarkly/launchpad-ui/pull/201,2022-07-21T18:45:15Z,2022-07-21T18:53:44Z,2,2,MERGED
+launchpad-ui,feat(markdown): add markdown package,https://github.com/launchdarkly/launchpad-ui/pull/200,2022-07-20T18:07:34Z,2022-07-21T15:18:50Z,5,4,MERGED
+launchpad-ui,feat(counter): add counter package,https://github.com/launchdarkly/launchpad-ui/pull/199,2022-07-20T16:51:07Z,2022-07-20T17:14:30Z,3,2,MERGED
+launchpad-ui,refactor: enforce type imports,https://github.com/launchdarkly/launchpad-ui/pull/197,2022-07-20T14:21:48Z,2022-07-20T14:27:59Z,2,1,MERGED
+launchpad-ui,style(notification): increase close button specificity,https://github.com/launchdarkly/launchpad-ui/pull/196,2022-07-20T12:56:09Z,2022-07-20T13:01:51Z,2,2,MERGED
+launchpad-ui,test: use happy-dom env,https://github.com/launchdarkly/launchpad-ui/pull/195,2022-07-20T12:36:11Z,2022-07-20T12:46:08Z,3,1,CLOSED
+launchpad-ui,refactor(clipboard): remove unneeded classes from clipboard package,https://github.com/launchdarkly/launchpad-ui/pull/194,2022-07-19T21:25:17Z,2022-07-20T15:45:51Z,2,1,MERGED
+launchpad-ui,refactor(form): remove or move styles for u- classes,https://github.com/launchdarkly/launchpad-ui/pull/193,2022-07-19T21:19:20Z,2022-07-20T16:01:08Z,3,3,MERGED
+launchpad-ui,refactor: add PopoverInteractionKind enum type,https://github.com/launchdarkly/launchpad-ui/pull/192,2022-07-19T21:07:20Z,2022-07-20T16:00:52Z,5,8,MERGED
+launchpad-ui,refactor(menu): add correct header styles for menu item headers,https://github.com/launchdarkly/launchpad-ui/pull/191,2022-07-19T20:44:31Z,2022-07-19T21:00:59Z,3,2,MERGED
+launchpad-ui,feat: add progress-bubbles package,https://github.com/launchdarkly/launchpad-ui/pull/190,2022-07-19T20:32:37Z,2022-07-19T21:00:36Z,7,5,MERGED
+launchpad-ui,feat: add navigation package,https://github.com/launchdarkly/launchpad-ui/pull/189,2022-07-19T17:43:30Z,2022-07-19T19:40:28Z,3,5,MERGED
+launchpad-ui,chore(deps): upgrade floating-ui to v1,https://github.com/launchdarkly/launchpad-ui/pull/188,2022-07-19T13:41:49Z,2022-07-19T13:49:11Z,2,1,MERGED
+launchpad-ui,feat: add avatar package,https://github.com/launchdarkly/launchpad-ui/pull/186,2022-07-18T17:46:06Z,2022-07-19T12:59:38Z,3,6,MERGED
+launchpad-ui,test: check components are visible first in e2e,https://github.com/launchdarkly/launchpad-ui/pull/185,2022-07-18T13:15:38Z,2022-07-18T14:06:08Z,2,3,MERGED
+launchpad-ui,chore: clean up from e2e update,https://github.com/launchdarkly/launchpad-ui/pull/183,2022-07-15T19:55:03Z,2022-07-18T14:21:48Z,2,2,MERGED
+launchpad-ui,feat(storybook): add statuses to package.json and map to storybook addon,https://github.com/launchdarkly/launchpad-ui/pull/182,2022-07-15T18:04:31Z,2022-07-15T18:32:17Z,4,2,MERGED
+launchpad-ui,docs: pull request template,https://github.com/launchdarkly/launchpad-ui/pull/181,2022-07-15T15:25:38Z,2022-07-15T18:14:34Z,4,3,MERGED
+launchpad-ui,feat: replace jest-axe with playwright + axe,https://github.com/launchdarkly/launchpad-ui/pull/180,2022-07-15T13:47:00Z,2022-07-15T19:16:51Z,4,21,MERGED
+launchpad-ui,chore(deps): upgrade vite to v3,https://github.com/launchdarkly/launchpad-ui/pull/179,2022-07-13T18:06:10Z,2022-07-13T19:37:03Z,2,3,MERGED
+launchpad-ui,feat(tooltip): expose base component,https://github.com/launchdarkly/launchpad-ui/pull/178,2022-07-13T14:56:37Z,2022-07-13T15:44:42Z,2,4,MERGED
+launchpad-ui,refactor(alert): Increase the specificity on .Alert-close to fix style conflict with buttons,https://github.com/launchdarkly/launchpad-ui/pull/177,2022-07-13T04:05:23Z,2022-07-13T15:36:24Z,4,5,MERGED
+launchpad-ui,fix(modal): stop escape propagation,https://github.com/launchdarkly/launchpad-ui/pull/176,2022-07-12T18:39:19Z,2022-07-12T18:44:45Z,2,3,MERGED
+launchpad-ui,fix(lozenge): update flag variant styles,https://github.com/launchdarkly/launchpad-ui/pull/175,2022-07-12T17:21:29Z,2022-07-13T12:26:46Z,4,3,MERGED
+launchpad-ui,feat(notification): add json prop,https://github.com/launchdarkly/launchpad-ui/pull/174,2022-07-12T15:44:54Z,2022-07-13T15:41:03Z,2,2,MERGED
+launchpad-ui,fix(button): update `to` type for rr6,https://github.com/launchdarkly/launchpad-ui/pull/172,2022-07-12T13:31:25Z,2022-07-12T13:43:31Z,2,2,MERGED
+launchpad-ui,docs(core): update usage guidelines,https://github.com/launchdarkly/launchpad-ui/pull/171,2022-07-11T13:55:37Z,2022-07-11T15:19:02Z,2,2,MERGED
+launchpad-ui,refactor(tooltip): expose clipboard handle type,https://github.com/launchdarkly/launchpad-ui/pull/168,2022-07-08T20:09:53Z,2022-07-08T20:10:51Z,2,1,MERGED
+launchpad-ui,refactor(lozenge): Update font sizing,https://github.com/launchdarkly/launchpad-ui/pull/167,2022-07-08T19:24:14Z,2022-07-08T19:28:14Z,2,2,MERGED
+launchpad-ui,"refactor(modal,notification,popover)!: remove LazyMotion",https://github.com/launchdarkly/launchpad-ui/pull/166,2022-07-08T17:27:09Z,2022-07-08T19:23:17Z,2,4,MERGED
+launchpad-ui,fix(modal): add class to body on open,https://github.com/launchdarkly/launchpad-ui/pull/164,2022-07-08T15:23:47Z,2022-07-08T19:19:02Z,2,2,MERGED
+launchpad-ui,refactor(clipboard): Expose ref for imperatively calling copy function on CopyToClipboard,https://github.com/launchdarkly/launchpad-ui/pull/163,2022-07-07T22:13:04Z,2022-07-08T16:09:38Z,4,5,MERGED
+launchpad-ui,refactor(clipboard): Expose ref for imperatively calling copy function with CopyToClipboard,https://github.com/launchdarkly/launchpad-ui/pull/162,2022-07-07T22:08:38Z,2022-07-07T22:09:36Z,2,12,CLOSED
+launchpad-ui,fix(popover): handle pointer events,https://github.com/launchdarkly/launchpad-ui/pull/161,2022-07-07T18:35:06Z,2022-07-07T18:40:11Z,2,2,MERGED
+launchpad-ui,refactor: replace postcss with parcel in Storybook,https://github.com/launchdarkly/launchpad-ui/pull/159,2022-07-06T14:58:33Z,2022-07-06T20:42:47Z,3,3,CLOSED
+launchpad-ui,docs(release): add notes on publishing,https://github.com/launchdarkly/launchpad-ui/pull/158,2022-07-05T21:03:44Z,2022-07-06T14:51:15Z,3,2,MERGED
+launchpad-ui,docs: update plop and contrib file for core package,https://github.com/launchdarkly/launchpad-ui/pull/157,2022-07-05T20:55:55Z,2022-07-06T14:54:12Z,7,6,MERGED
+launchpad-ui,chore: upgrade to Storybook 7,https://github.com/launchdarkly/launchpad-ui/pull/156,2022-07-05T19:53:49Z,2022-07-05T20:21:11Z,3,3,MERGED
+launchpad-ui,feat: add core package,https://github.com/launchdarkly/launchpad-ui/pull/153,2022-06-30T15:01:02Z,2022-07-05T14:37:19Z,2,7,MERGED
+launchpad-ui,chore(menu): upgrade react-router-dom,https://github.com/launchdarkly/launchpad-ui/pull/152,2022-06-29T16:47:39Z,2022-07-06T15:20:02Z,4,4,MERGED
+launchpad-ui,refactor(overlay): update to functional component,https://github.com/launchdarkly/launchpad-ui/pull/150,2022-06-28T20:35:22Z,2022-06-29T16:40:06Z,2,2,MERGED
+launchpad-ui,refactor(modal)!: update to functional component,https://github.com/launchdarkly/launchpad-ui/pull/148,2022-06-27T16:51:40Z,2022-06-28T16:23:31Z,5,6,MERGED
+launchpad-ui,test: bump coverage,https://github.com/launchdarkly/launchpad-ui/pull/147,2022-06-27T13:57:04Z,2022-06-27T23:35:21Z,2,1,MERGED
+launchpad-ui,feat(tokens): add alias tokens,https://github.com/launchdarkly/launchpad-ui/pull/146,2022-06-24T13:39:24Z,2022-06-24T15:35:49Z,4,7,MERGED
+launchpad-ui,refactor(button): Button style updates,https://github.com/launchdarkly/launchpad-ui/pull/144,2022-06-23T14:42:13Z,2022-06-23T14:54:59Z,2,2,MERGED
+launchpad-ui,docs(plop): add CONTRIBUTING.md plop docs,https://github.com/launchdarkly/launchpad-ui/pull/143,2022-06-22T20:36:12Z,2022-06-22T20:37:20Z,2,1,MERGED
+launchpad-ui,"refactor(form): consistent style exports for form, improve contributing.md to mention plop",https://github.com/launchdarkly/launchpad-ui/pull/142,2022-06-22T19:40:08Z,2022-06-22T20:34:36Z,2,2,CLOSED
+launchpad-ui,refactor(alert): improve edgecases for CollapsibleAlert,https://github.com/launchdarkly/launchpad-ui/pull/141,2022-06-22T19:06:26Z,2022-06-22T19:40:47Z,2,1,MERGED
+launchpad-ui,"refactor(clipboard,icons,menu,tab-list,tooltip): consistent style exports from styles folder in src (pt 2)",https://github.com/launchdarkly/launchpad-ui/pull/139,2022-06-22T17:40:41Z,2022-06-22T19:14:48Z,2,1,MERGED
+launchpad-ui,"refactor(banner,lozenge,popover,progress,toggle): consistent style exports from styles folder in src (pt 1)",https://github.com/launchdarkly/launchpad-ui/pull/138,2022-06-22T17:26:48Z,2022-06-22T19:27:22Z,2,4,MERGED
+launchpad-ui,"refactor(modal,notification,popover): replace react-spring with framer-motion",https://github.com/launchdarkly/launchpad-ui/pull/137,2022-06-22T14:08:27Z,2022-06-22T18:57:53Z,5,8,MERGED
+launchpad-ui,build(plop): Implement component generator,https://github.com/launchdarkly/launchpad-ui/pull/136,2022-06-21T21:48:08Z,2022-06-22T16:11:27Z,9,7,MERGED
+launchpad-ui,refactor(form): use csf3,https://github.com/launchdarkly/launchpad-ui/pull/135,2022-06-21T18:59:05Z,2022-06-21T19:04:51Z,2,2,MERGED
+launchpad-ui,refactor(form)!: update to functional components,https://github.com/launchdarkly/launchpad-ui/pull/134,2022-06-21T14:33:05Z,2022-06-21T17:03:46Z,2,2,MERGED
+launchpad-ui,refactor(button)!: update Button to functional component,https://github.com/launchdarkly/launchpad-ui/pull/131,2022-06-17T15:59:08Z,2022-06-21T16:53:38Z,2,2,MERGED
+launchpad-ui,refactor(progress): update DelayedIndicator to functional component,https://github.com/launchdarkly/launchpad-ui/pull/130,2022-06-16T12:56:21Z,2022-06-16T13:29:09Z,3,2,MERGED
+launchpad-ui,ci: update renovate config,https://github.com/launchdarkly/launchpad-ui/pull/128,2022-06-15T12:57:59Z,2022-06-15T13:06:50Z,2,1,MERGED
+launchpad-ui,refactor(clipboard): update to functional component,https://github.com/launchdarkly/launchpad-ui/pull/127,2022-06-15T12:48:44Z,2022-06-15T12:59:56Z,2,2,MERGED
+launchpad-ui,refactor: update stateless components to functional components,https://github.com/launchdarkly/launchpad-ui/pull/122,2022-06-14T20:26:14Z,2022-06-14T20:59:02Z,3,9,MERGED
+launchpad-ui,test: bump coverage thresholds,https://github.com/launchdarkly/launchpad-ui/pull/120,2022-06-14T13:05:50Z,2022-06-14T15:59:29Z,2,2,MERGED
+launchpad-ui,fix: use csf3 types in stories,https://github.com/launchdarkly/launchpad-ui/pull/116,2022-06-13T12:50:21Z,2022-06-13T15:47:56Z,3,1,MERGED
+launchpad-ui,feat: add form package,https://github.com/launchdarkly/launchpad-ui/pull/112,2022-06-10T18:55:19Z,2022-06-13T15:40:34Z,7,8,MERGED
+launchpad-ui,docs: add adr template and infra docs,https://github.com/launchdarkly/launchpad-ui/pull/111,2022-06-10T17:38:44Z,2022-06-13T13:01:32Z,3,2,MERGED
+launchpad-ui,chore: migrate from classnames to clsx,https://github.com/launchdarkly/launchpad-ui/pull/109,2022-06-09T15:44:46Z,2022-06-09T16:02:21Z,3,3,MERGED
+launchpad-ui,refactor(button): remove duplicate custom properties,https://github.com/launchdarkly/launchpad-ui/pull/108,2022-06-09T13:41:42Z,2022-06-09T15:35:49Z,2,4,MERGED
+launchpad-ui,feat: add dropdown package,https://github.com/launchdarkly/launchpad-ui/pull/107,2022-06-08T20:03:55Z,2022-06-09T15:28:46Z,3,6,MERGED
+launchpad-ui,feat: add menu package,https://github.com/launchdarkly/launchpad-ui/pull/102,2022-06-08T13:05:04Z,2022-06-08T17:48:34Z,3,4,MERGED
+launchpad-ui,docs(contributing): fixed fragment links,https://github.com/launchdarkly/launchpad-ui/pull/100,2022-06-07T18:26:38Z,2022-06-07T18:39:11Z,2,1,MERGED
+launchpad-ui,refactor: use lodash-es in place of per-method packages,https://github.com/launchdarkly/launchpad-ui/pull/99,2022-06-07T13:33:06Z,2022-06-07T14:00:45Z,2,3,MERGED
+launchpad-ui,docs: add CONTRIBUTING.md file,https://github.com/launchdarkly/launchpad-ui/pull/98,2022-06-06T22:40:28Z,2022-06-07T17:18:23Z,12,4,MERGED
+launchpad-ui,feat: add clipboard package,https://github.com/launchdarkly/launchpad-ui/pull/97,2022-06-06T19:11:25Z,2022-06-07T15:19:12Z,2,11,MERGED
+launchpad-ui,feat: add banner package,https://github.com/launchdarkly/launchpad-ui/pull/96,2022-06-06T15:32:53Z,2022-06-06T15:40:03Z,2,4,MERGED
+launchpad-ui,refactor(notification): Use React Aria to trap focus,https://github.com/launchdarkly/launchpad-ui/pull/94,2022-06-06T13:42:28Z,2022-06-06T15:29:54Z,2,2,MERGED
+launchpad-ui,fix: add delay before opening popovers,https://github.com/launchdarkly/launchpad-ui/pull/93,2022-06-06T12:23:04Z,2022-06-06T15:24:38Z,2,1,MERGED
+launchpad-ui,feat: add tooltip package,https://github.com/launchdarkly/launchpad-ui/pull/89,2022-06-03T15:48:03Z,2022-06-03T20:45:46Z,5,7,MERGED
+launchpad-ui,feat: add notification package,https://github.com/launchdarkly/launchpad-ui/pull/87,2022-06-02T21:51:25Z,2022-06-03T20:22:49Z,11,10,MERGED
+launchpad-ui,feat: add popover package,https://github.com/launchdarkly/launchpad-ui/pull/86,2022-06-02T20:38:03Z,2022-06-03T15:34:46Z,4,8,MERGED
+launchpad-ui,feat: add modal package,https://github.com/launchdarkly/launchpad-ui/pull/84,2022-06-02T12:39:58Z,2022-06-02T15:16:04Z,3,10,MERGED
+launchpad-ui,feat: add overlay package,https://github.com/launchdarkly/launchpad-ui/pull/82,2022-06-01T14:25:32Z,2022-06-01T19:24:08Z,4,8,MERGED
+launchpad-ui,fix(modal): specify only direct children of body when applying margin styles,https://github.com/launchdarkly/launchpad-ui/pull/538,2022-10-31T22:54:39Z,2022-11-01T14:49:08Z,2,1,MERGED
+launchpad-ui,refactor(modal): add legacy modal to ease migration,https://github.com/launchdarkly/launchpad-ui/pull/536,2022-10-31T20:07:01Z,2022-10-31T20:13:01Z,2,1,MERGED
+launchpad-ui,refactor: rem resize across system - beta release,https://github.com/launchdarkly/launchpad-ui/pull/532,2022-10-28T21:14:27Z,2022-11-16T20:57:03Z,3,11,MERGED
+launchpad-ui,feat(tokens): add global z-index and duration tokens,https://github.com/launchdarkly/launchpad-ui/pull/531,2022-10-28T17:40:35Z,2022-12-01T17:29:23Z,3,7,MERGED
+launchpad-ui,fix: only shown custom button focus styles when necessary,https://github.com/launchdarkly/launchpad-ui/pull/529,2022-10-27T23:04:41Z,2022-10-28T15:42:59Z,7,7,MERGED
+launchpad-ui,feat(modal): refresh modal design,https://github.com/launchdarkly/launchpad-ui/pull/528,2022-10-27T21:43:54Z,2022-10-31T19:28:37Z,11,15,MERGED
+launchpad-ui,fix(remix): remove unused export,https://github.com/launchdarkly/launchpad-ui/pull/527,2022-10-27T15:35:46Z,2022-10-27T15:46:10Z,2,1,MERGED
+launchpad-ui,"refactor(modal): deprecate modalsheet, prepare modal for style changes",https://github.com/launchdarkly/launchpad-ui/pull/526,2022-10-26T20:41:12Z,2022-10-26T21:05:37Z,4,5,MERGED
+launchpad-ui,refactor: add portal package,https://github.com/launchdarkly/launchpad-ui/pull/524,2022-10-26T19:45:41Z,2022-10-26T19:59:10Z,2,4,MERGED
+launchpad-ui,docs: update to use LaunchPad,https://github.com/launchdarkly/launchpad-ui/pull/523,2022-10-26T19:17:43Z,2022-10-26T20:24:31Z,2,1,MERGED
+launchpad-ui,feat(icons): fixed typo in verified icon,https://github.com/launchdarkly/launchpad-ui/pull/522,2022-10-26T19:17:02Z,2022-10-26T20:16:25Z,2,1,MERGED
+launchpad-ui,feat(drawer): add drawer package,https://github.com/launchdarkly/launchpad-ui/pull/520,2022-10-26T17:38:18Z,2022-10-26T18:43:57Z,5,8,MERGED
+launchpad-ui,fix(snackbar): add word-break styles to description,https://github.com/launchdarkly/launchpad-ui/pull/518,2022-10-26T15:28:13Z,2022-10-26T17:07:18Z,2,2,MERGED
+launchpad-ui,chore(deps): update vite to v3.2,https://github.com/launchdarkly/launchpad-ui/pull/517,2022-10-26T14:20:47Z,2022-10-26T17:15:21Z,2,2,MERGED
+launchpad-ui,refactor(tokens)!: rename global tokens to match schema,https://github.com/launchdarkly/launchpad-ui/pull/514,2022-10-24T19:14:04Z,2022-10-26T17:45:08Z,2,7,MERGED
+launchpad-ui,fix(modal): make has-modal class globally accessible,https://github.com/launchdarkly/launchpad-ui/pull/512,2022-10-24T16:30:34Z,2022-10-24T17:01:41Z,2,1,MERGED
+launchpad-ui,chore: add changeset for dependency bumps,https://github.com/launchdarkly/launchpad-ui/pull/509,2022-10-24T13:17:07Z,2022-10-24T13:37:46Z,2,1,MERGED
+launchpad-ui,"fix(alert,clipboard,popover,progress-bubbles,tooltip): remove unneeded global psuedoclasses",https://github.com/launchdarkly/launchpad-ui/pull/506,2022-10-20T16:13:37Z,2022-10-20T17:38:46Z,2,1,MERGED
+launchpad-ui,"refactor(alert,banner,clipboard,snackbar,toast): remove base classes",https://github.com/launchdarkly/launchpad-ui/pull/505,2022-10-20T15:13:44Z,2022-10-25T20:35:41Z,2,4,MERGED
+launchpad-ui,ci: address GH actions warnings,https://github.com/launchdarkly/launchpad-ui/pull/504,2022-10-20T14:34:15Z,2022-10-20T16:02:06Z,2,1,MERGED
+launchpad-ui,refactor(plop): use css modules,https://github.com/launchdarkly/launchpad-ui/pull/503,2022-10-20T14:12:15Z,2022-10-20T15:55:31Z,2,1,MERGED
+launchpad-ui,refactor(modal): add data-test-id and container props to Portal,https://github.com/launchdarkly/launchpad-ui/pull/502,2022-10-19T19:17:11Z,2022-10-25T20:03:21Z,2,3,MERGED
+launchpad-ui,test: update cy tests to match unit tests,https://github.com/launchdarkly/launchpad-ui/pull/501,2022-10-18T18:37:01Z,2022-10-20T13:51:16Z,5,6,MERGED
+launchpad-ui,fix(form): update formgroup component to use fieldset tag instead of div,https://github.com/launchdarkly/launchpad-ui/pull/499,2022-10-18T15:47:02Z,2022-10-18T15:52:30Z,2,1,MERGED
+launchpad-ui,fix(snackbar): allow snackbar to have its own onDismiss handler,https://github.com/launchdarkly/launchpad-ui/pull/498,2022-10-17T22:57:02Z,2022-10-21T00:00:10Z,9,11,MERGED
+launchpad-ui,refactor(menu): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/497,2022-10-17T20:41:34Z,2023-02-23T18:22:52Z,3,5,CLOSED
+launchpad-ui,fix(snackbar): set color on heading,https://github.com/launchdarkly/launchpad-ui/pull/494,2022-10-17T14:31:16Z,2022-10-20T18:18:17Z,2,3,MERGED
+launchpad-ui,refactor(modal)!: update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/493,2022-10-17T13:39:43Z,2022-10-24T16:11:19Z,4,7,MERGED
+launchpad-ui,fix: show addons in Chromatic builds,https://github.com/launchdarkly/launchpad-ui/pull/491,2022-10-17T12:44:21Z,2022-10-17T15:04:06Z,2,2,MERGED
+launchpad-ui,fix(button): add better support for dropdowns and iconbuttons in buttongroup,https://github.com/launchdarkly/launchpad-ui/pull/487,2022-10-12T20:43:14Z,2022-10-12T21:20:48Z,3,4,MERGED
+launchpad-ui,fix(navigation): fix bug causing collapsed state to flash,https://github.com/launchdarkly/launchpad-ui/pull/486,2022-10-12T20:22:20Z,2022-10-12T21:03:47Z,2,2,MERGED
+launchpad-ui,"chore(alert,banner,filter): add test ids to internals",https://github.com/launchdarkly/launchpad-ui/pull/484,2022-10-11T16:18:18Z,2022-10-11T18:02:22Z,2,1,MERGED
+launchpad-ui,refactor(icons): rebuild `KindIcon` and rename to `StatusIcon`,https://github.com/launchdarkly/launchpad-ui/pull/482,2022-10-11T14:55:27Z,2022-10-11T15:41:57Z,2,4,MERGED
+launchpad-ui,"feat(icons): add ""Inbox"" icon",https://github.com/launchdarkly/launchpad-ui/pull/480,2022-10-11T04:32:34Z,2022-10-11T14:48:31Z,6,3,MERGED
+launchpad-ui,fix(snackbar): style anchor tag hover state,https://github.com/launchdarkly/launchpad-ui/pull/479,2022-10-10T18:52:30Z,2022-10-11T14:07:11Z,4,1,MERGED
+launchpad-ui,refactor(icons): move to css modules,https://github.com/launchdarkly/launchpad-ui/pull/474,2022-10-07T22:32:17Z,2022-10-24T16:13:22Z,4,13,MERGED
+launchpad-ui,refactor(form): migrate to css modules,https://github.com/launchdarkly/launchpad-ui/pull/473,2022-10-07T22:07:51Z,2022-10-11T18:05:51Z,2,3,MERGED
+launchpad-ui,"refactor(filter,menu): convert filter to css modules",https://github.com/launchdarkly/launchpad-ui/pull/472,2022-10-07T20:52:10Z,2022-10-10T18:32:51Z,2,4,MERGED
+launchpad-ui,"fix(modal,popover): add tabindex to content to allow text selection",https://github.com/launchdarkly/launchpad-ui/pull/471,2022-10-07T19:56:01Z,2022-10-07T23:20:30Z,2,3,MERGED
+launchpad-ui,fix(modal): update zindex in modal,https://github.com/launchdarkly/launchpad-ui/pull/469,2022-10-05T21:12:47Z,2022-10-05T21:19:55Z,2,1,MERGED
+launchpad-ui,chore: upgrade react router to 6.4,https://github.com/launchdarkly/launchpad-ui/pull/467,2022-10-05T20:30:02Z,2022-10-05T20:38:21Z,2,2,MERGED
+launchpad-ui,fix: update lockfile after automated renovate updates,https://github.com/launchdarkly/launchpad-ui/pull/465,2022-10-05T16:17:02Z,2022-10-05T16:33:44Z,1,1,MERGED
+launchpad-ui,"fix(alert,banner,snackbar): convert slot string props to react nodes",https://github.com/launchdarkly/launchpad-ui/pull/464,2022-10-05T15:55:20Z,2022-10-05T17:10:58Z,2,3,MERGED
+launchpad-ui,Release/system messages chase,https://github.com/launchdarkly/launchpad-ui/pull/458,2022-10-04T17:00:38Z,2022-10-04T17:23:58Z,2,52,CLOSED
+launchpad-ui,chore(navigation): add classname to navigation component,https://github.com/launchdarkly/launchpad-ui/pull/456,2022-10-04T14:54:31Z,2022-10-04T15:06:28Z,9,2,MERGED
+launchpad-ui,"feat(icons): add ""Verified"" icon",https://github.com/launchdarkly/launchpad-ui/pull/454,2022-10-03T17:24:57Z,2022-10-03T18:49:06Z,3,1,MERGED
+launchpad-ui,fix(modal): bump modal z-index,https://github.com/launchdarkly/launchpad-ui/pull/451,2022-09-30T19:25:27Z,2022-09-30T20:32:33Z,4,1,MERGED
+launchpad-ui,fix: remove test waits,https://github.com/launchdarkly/launchpad-ui/pull/450,2022-09-30T16:21:18Z,2022-09-30T16:25:46Z,2,1,MERGED
+launchpad-ui,"feat(alert,banner,snackbar,toast): merge system messages project into main",https://github.com/launchdarkly/launchpad-ui/pull/449,2022-09-30T15:57:35Z,2022-10-04T20:15:09Z,3,61,MERGED
+launchpad-ui,docs: update readme with Cypress usage,https://github.com/launchdarkly/launchpad-ui/pull/448,2022-09-30T15:45:06Z,2022-09-30T15:56:14Z,2,2,MERGED
+launchpad-ui,fix(icons): remove styles entry from package.json,https://github.com/launchdarkly/launchpad-ui/pull/447,2022-09-30T14:16:59Z,2022-09-30T15:05:56Z,2,2,MERGED
+launchpad-ui,refactor(markdown): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/446,2022-09-30T13:58:33Z,2022-10-03T18:56:55Z,2,3,MERGED
+launchpad-ui,refactor(pagination): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/445,2022-09-30T13:52:50Z,2022-10-04T17:24:11Z,2,3,MERGED
+launchpad-ui,refactor(slider): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/444,2022-09-30T13:34:48Z,2022-10-04T17:24:20Z,2,4,MERGED
+launchpad-ui,refactor(counter): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/443,2022-09-30T13:19:08Z,2022-10-03T18:57:22Z,2,5,MERGED
+launchpad-ui,refactor(tab-list): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/442,2022-09-30T12:42:43Z,2022-10-03T18:57:04Z,2,3,MERGED
+launchpad-ui,refactor(progress): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/441,2022-09-30T12:34:29Z,2022-10-04T17:24:31Z,2,4,MERGED
+launchpad-ui,chore: improve contributing docs,https://github.com/launchdarkly/launchpad-ui/pull/438,2022-09-28T19:45:18Z,2022-09-29T15:48:28Z,3,1,MERGED
+launchpad-ui,fix: update updateInternalDependencies to minor,https://github.com/launchdarkly/launchpad-ui/pull/437,2022-09-28T19:44:19Z,2022-09-28T20:02:46Z,2,3,CLOSED
+launchpad-ui,fix: undo version pinning and publish correct versions,https://github.com/launchdarkly/launchpad-ui/pull/435,2022-09-28T18:52:28Z,2022-09-28T19:10:53Z,2,4,MERGED
+launchpad-ui,feat(icons): add plus-circle-fill and plus-circle-outline icons,https://github.com/launchdarkly/launchpad-ui/pull/434,2022-09-28T17:45:55Z,2022-09-28T22:49:10Z,4,1,MERGED
+launchpad-ui,"fix(snackbar,toast): update framer-motion",https://github.com/launchdarkly/launchpad-ui/pull/433,2022-09-28T15:39:17Z,2022-09-28T15:54:13Z,2,2,MERGED
+launchpad-ui,chore(alert): fix alert widths,https://github.com/launchdarkly/launchpad-ui/pull/430,2022-09-28T14:39:36Z,2022-09-28T15:06:44Z,2,1,MERGED
+launchpad-ui,chore: pin package versions,https://github.com/launchdarkly/launchpad-ui/pull/429,2022-09-28T14:30:09Z,2022-09-28T14:39:51Z,2,1,MERGED
+launchpad-ui,chore(tooltip): increase specificity for tooltip styles,https://github.com/launchdarkly/launchpad-ui/pull/426,2022-09-27T17:28:42Z,2022-09-27T18:47:08Z,2,1,MERGED
+launchpad-ui,fix: specify project externals for TurboSnap,https://github.com/launchdarkly/launchpad-ui/pull/425,2022-09-27T13:31:26Z,2022-09-27T19:39:46Z,2,1,MERGED
+launchpad-ui,feat(icons): add event busy icon,https://github.com/launchdarkly/launchpad-ui/pull/424,2022-09-26T15:27:54Z,2022-09-26T16:51:12Z,5,3,MERGED
+launchpad-ui,test: cypress component testing,https://github.com/launchdarkly/launchpad-ui/pull/422,2022-09-23T20:54:26Z,2022-09-30T15:31:58Z,10,28,MERGED
+launchpad-ui,refactor(table): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/421,2022-09-23T13:26:47Z,2022-09-23T13:35:23Z,3,2,MERGED
+launchpad-ui,refactor(toast): remove error variant,https://github.com/launchdarkly/launchpad-ui/pull/419,2022-09-22T19:02:19Z,2022-09-22T19:53:29Z,2,2,MERGED
+launchpad-ui,refactor(toggle): update to css modules,https://github.com/launchdarkly/launchpad-ui/pull/418,2022-09-22T15:01:18Z,2022-09-22T15:24:01Z,2,2,MERGED
+launchpad-ui,"refactor(popover,tooltip): update to css modules",https://github.com/launchdarkly/launchpad-ui/pull/414,2022-09-21T18:33:36Z,2022-09-22T12:52:35Z,4,5,MERGED
+launchpad-ui,chore: clean up root dependencies,https://github.com/launchdarkly/launchpad-ui/pull/411,2022-09-21T14:00:59Z,2022-09-21T14:19:22Z,2,1,MERGED
+launchpad-ui,docs: update migration guide for v0.13 and v0.14,https://github.com/launchdarkly/launchpad-ui/pull/410,2022-09-21T13:13:30Z,2022-09-21T17:45:53Z,2,1,MERGED
+launchpad-ui,chore: add data-test-ids to components across launchpad,https://github.com/launchdarkly/launchpad-ui/pull/409,2022-09-20T22:43:04Z,2022-09-21T15:55:28Z,5,3,MERGED
+launchpad-ui,chore(alert): increase css specificity on root css target,https://github.com/launchdarkly/launchpad-ui/pull/407,2022-09-20T19:36:44Z,2022-09-20T19:37:21Z,2,1,MERGED
+launchpad-ui,"chore(alert,banner): Increase alert and banner specificity",https://github.com/launchdarkly/launchpad-ui/pull/405,2022-09-20T16:58:33Z,2022-09-20T17:12:19Z,2,2,MERGED
+launchpad-ui,chore(alert): Explicitly define header text color,https://github.com/launchdarkly/launchpad-ui/pull/404,2022-09-20T16:20:05Z,2022-09-20T17:03:52Z,2,1,MERGED
+launchpad-ui,"refactor(navigation,chip): update to css modules",https://github.com/launchdarkly/launchpad-ui/pull/402,2022-09-19T22:30:12Z,2022-09-29T18:25:06Z,2,9,MERGED
+launchpad-ui,refactor(progress-bubbles): move to css modules and fix issue with display box,https://github.com/launchdarkly/launchpad-ui/pull/401,2022-09-19T22:04:01Z,2022-09-21T18:04:40Z,3,4,MERGED
+launchpad-ui,refactor(chip): css modules,https://github.com/launchdarkly/launchpad-ui/pull/399,2022-09-19T21:47:15Z,2022-09-21T19:17:24Z,2,3,MERGED
+launchpad-ui,refactor(avatar): css modules,https://github.com/launchdarkly/launchpad-ui/pull/398,2022-09-19T20:55:41Z,2022-09-19T22:02:36Z,2,3,MERGED
+launchpad-ui,docs: generalize contributing doc,https://github.com/launchdarkly/launchpad-ui/pull/396,2022-09-19T20:43:20Z,2022-09-19T20:49:31Z,2,1,MERGED
+launchpad-ui,chore(notification): deprecate package,https://github.com/launchdarkly/launchpad-ui/pull/395,2022-09-19T20:01:54Z,2022-09-19T20:45:56Z,2,2,MERGED
+launchpad-ui,refactor(clipboard): improve CopyToClipboard styles,https://github.com/launchdarkly/launchpad-ui/pull/393,2022-09-19T18:31:59Z,2022-09-19T18:54:23Z,3,4,MERGED
+launchpad-ui,fix: add focus-trap to core,https://github.com/launchdarkly/launchpad-ui/pull/392,2022-09-19T17:57:09Z,2022-09-19T18:04:59Z,2,2,MERGED
+launchpad-ui,feat: add focus-trap utility package,https://github.com/launchdarkly/launchpad-ui/pull/390,2022-09-19T14:10:29Z,2022-09-19T17:50:31Z,4,5,MERGED
+launchpad-ui,chore(alert): Add margin to left of alert close icon,https://github.com/launchdarkly/launchpad-ui/pull/387,2022-09-16T19:35:05Z,2022-09-16T20:01:51Z,3,3,MERGED
+launchpad-ui,refactor!: replace enums with string union types,https://github.com/launchdarkly/launchpad-ui/pull/386,2022-09-16T15:36:51Z,2022-09-20T13:30:53Z,2,9,MERGED
+launchpad-ui,chore(alert): Update Alert content styling,https://github.com/launchdarkly/launchpad-ui/pull/384,2022-09-16T14:56:11Z,2022-09-16T15:04:55Z,2,1,MERGED
+launchpad-ui,docs: add ADR for package build tooling,https://github.com/launchdarkly/launchpad-ui/pull/383,2022-09-15T20:54:53Z,2022-09-16T13:05:31Z,2,1,MERGED
+launchpad-ui,chore: ignore react-router-dom in renovate,https://github.com/launchdarkly/launchpad-ui/pull/382,2022-09-15T13:47:04Z,2022-09-15T16:03:22Z,2,1,MERGED
+launchpad-ui,fix: update nx affected scripts for release branches,https://github.com/launchdarkly/launchpad-ui/pull/381,2022-09-15T13:24:44Z,2022-09-15T16:21:00Z,2,1,MERGED
+launchpad-ui,docs: Add ADR for using string union types for component props,https://github.com/launchdarkly/launchpad-ui/pull/380,2022-09-15T00:23:25Z,2022-09-15T12:48:17Z,2,1,MERGED
+launchpad-ui,chore: republish packages,https://github.com/launchdarkly/launchpad-ui/pull/378,2022-09-14T20:19:07Z,2022-09-14T20:22:38Z,2,1,MERGED
+launchpad-ui,fix: run build on core for release,https://github.com/launchdarkly/launchpad-ui/pull/376,2022-09-14T20:04:24Z,2022-09-14T20:07:13Z,2,2,MERGED
+launchpad-ui,"fix(snackbar,toast): export record types",https://github.com/launchdarkly/launchpad-ui/pull/374,2022-09-14T18:16:35Z,2022-09-14T18:17:19Z,2,2,MERGED
+launchpad-ui,docs: add automated a11y tests ADR,https://github.com/launchdarkly/launchpad-ui/pull/373,2022-09-13T19:20:38Z,2022-09-14T14:04:54Z,2,1,MERGED
+launchpad-ui,docs: add notes for v12 migration,https://github.com/launchdarkly/launchpad-ui/pull/372,2022-09-13T18:38:24Z,2022-09-14T12:36:55Z,2,1,MERGED
+launchpad-ui,docs: add code of conduct,https://github.com/launchdarkly/launchpad-ui/pull/371,2022-09-13T13:03:29Z,2022-09-13T15:51:55Z,3,1,MERGED
+launchpad-ui,fix: restore Storybook controls,https://github.com/launchdarkly/launchpad-ui/pull/370,2022-09-12T17:58:21Z,2022-09-13T15:01:57Z,2,1,MERGED
+launchpad-ui,feat(alert): Update alert max width,https://github.com/launchdarkly/launchpad-ui/pull/369,2022-09-12T15:49:57Z,2022-09-12T16:05:36Z,3,1,MERGED
+launchpad-ui,fix(banner)!: update to use BannerKind,https://github.com/launchdarkly/launchpad-ui/pull/368,2022-09-12T15:44:02Z,2022-09-12T15:53:17Z,2,2,MERGED
+launchpad-ui,refactor(alert): Use css modules,https://github.com/launchdarkly/launchpad-ui/pull/367,2022-09-12T14:40:02Z,2022-09-12T15:15:01Z,2,3,MERGED
+launchpad-ui,refactor(banner): use css modules,https://github.com/launchdarkly/launchpad-ui/pull/366,2022-09-12T14:38:17Z,2022-09-12T14:46:21Z,2,2,MERGED
+launchpad-ui,refactor(snackbar): use css modules,https://github.com/launchdarkly/launchpad-ui/pull/362,2022-09-09T20:25:45Z,2022-09-09T22:26:33Z,2,4,MERGED
+launchpad-ui,chore: fix toast and snackbar stories,https://github.com/launchdarkly/launchpad-ui/pull/361,2022-09-09T20:01:14Z,2022-09-09T20:06:37Z,2,1,MERGED
+launchpad-ui,"fix(modal,notification,popover): remove commandbar focus trap logic",https://github.com/launchdarkly/launchpad-ui/pull/360,2022-09-09T19:19:36Z,2022-09-12T13:07:01Z,2,3,MERGED
+launchpad-ui,refactor(table): enhance html attribute passthrough,https://github.com/launchdarkly/launchpad-ui/pull/358,2022-09-09T00:50:48Z,2022-09-09T15:02:52Z,2,1,MERGED
+launchpad-ui,refactor(split-button): enhance html attribute passthrough,https://github.com/launchdarkly/launchpad-ui/pull/357,2022-09-09T00:41:21Z,2022-09-09T15:33:12Z,2,1,MERGED
+launchpad-ui,refactor(navigation): enhance Nav html attribute passthrough,https://github.com/launchdarkly/launchpad-ui/pull/355,2022-09-09T00:30:50Z,2022-09-09T15:03:56Z,2,1,MERGED
+launchpad-ui,refactor(modal): enhance modal html attribute passthrough,https://github.com/launchdarkly/launchpad-ui/pull/354,2022-09-09T00:16:14Z,2022-09-09T15:04:28Z,2,1,MERGED
+launchpad-ui,refactor(form): support passing generic html attributes,https://github.com/launchdarkly/launchpad-ui/pull/353,2022-09-09T00:06:14Z,2022-09-09T15:33:03Z,2,3,MERGED
+launchpad-ui,refactor(counter): add type to disallow children,https://github.com/launchdarkly/launchpad-ui/pull/352,2022-09-08T23:25:40Z,2022-09-09T15:04:16Z,2,1,MERGED
+launchpad-ui,"refactor(icons): improve KindIcon, rename to StatusIcon",https://github.com/launchdarkly/launchpad-ui/pull/350,2022-09-08T22:03:20Z,2022-09-23T20:33:43Z,2,3,CLOSED
+launchpad-ui,feat: add snackbar package,https://github.com/launchdarkly/launchpad-ui/pull/349,2022-09-08T15:37:34Z,2022-09-08T18:39:55Z,5,8,MERGED
+launchpad-ui,refactor(button): Change default button type from submit to button,https://github.com/launchdarkly/launchpad-ui/pull/347,2022-09-08T15:11:23Z,2022-09-08T15:28:34Z,2,2,MERGED
+launchpad-ui,feat: use TurboSnap for fewer snapshots,https://github.com/launchdarkly/launchpad-ui/pull/346,2022-09-07T15:25:42Z,2022-09-07T16:10:49Z,2,1,MERGED
+launchpad-ui,refactor(counter): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/344,2022-09-07T05:26:39Z,2022-09-07T14:38:18Z,2,2,MERGED
+launchpad-ui,refactor(copy-to-clipboard): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/343,2022-09-07T05:21:11Z,2022-09-07T14:31:14Z,2,1,MERGED
+launchpad-ui,refactor(chip): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/342,2022-09-07T05:08:53Z,2022-09-07T14:38:04Z,2,3,MERGED
+launchpad-ui,refactor(banner): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/341,2022-09-07T04:58:45Z,2022-09-07T15:59:12Z,3,2,MERGED
+launchpad-ui,refactor(button): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/340,2022-09-07T04:58:42Z,2022-09-07T15:59:24Z,3,3,MERGED
+launchpad-ui,refactor(alert): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/339,2022-09-07T04:50:06Z,2022-09-07T14:46:20Z,3,3,MERGED
+launchpad-ui,refactor(avatar): support passing generic HTML attributes,https://github.com/launchdarkly/launchpad-ui/pull/338,2022-09-07T01:15:02Z,2022-09-07T15:59:20Z,3,3,MERGED
+launchpad-ui,feat: support css modules in Launchpad packages,https://github.com/launchdarkly/launchpad-ui/pull/337,2022-09-07T00:54:10Z,2022-09-07T14:45:57Z,2,2,MERGED
+launchpad-ui,"fix(modal,notification,popover): stop focus trap when CommandBar is open",https://github.com/launchdarkly/launchpad-ui/pull/336,2022-09-06T19:30:35Z,2022-09-07T12:36:20Z,4,3,MERGED
+launchpad-ui,refactor(button): update upload button types,https://github.com/launchdarkly/launchpad-ui/pull/334,2022-09-06T16:02:31Z,2022-09-06T16:06:10Z,2,1,MERGED
+launchpad-ui,refactor(dropdown): update dropdown button props,https://github.com/launchdarkly/launchpad-ui/pull/330,2022-09-02T16:01:43Z,2022-09-02T16:12:19Z,3,2,MERGED
+launchpad-ui,feat: use Storybook Vite builder,https://github.com/launchdarkly/launchpad-ui/pull/329,2022-09-02T15:24:40Z,2022-09-07T15:15:16Z,3,14,MERGED
+launchpad-ui,"refactor(alert,banner): Integrate button changes with system notification design updates",https://github.com/launchdarkly/launchpad-ui/pull/327,2022-09-01T19:41:04Z,2022-09-02T16:12:49Z,2,2,MERGED
+launchpad-ui,refactor!: use vite for builds,https://github.com/launchdarkly/launchpad-ui/pull/324,2022-08-31T18:14:39Z,2022-09-01T20:20:25Z,3,11,MERGED
+launchpad-ui,refactor(banner): System messages style updates,https://github.com/launchdarkly/launchpad-ui/pull/323,2022-08-30T20:14:26Z,2022-09-01T19:21:11Z,6,3,MERGED
+launchpad-ui,fix(form): remove margin from RequiredAsterisk,https://github.com/launchdarkly/launchpad-ui/pull/321,2022-08-30T14:29:35Z,2022-08-30T15:39:22Z,2,2,MERGED
+launchpad-ui,refactor: ban use of React namespace for types,https://github.com/launchdarkly/launchpad-ui/pull/320,2022-08-30T14:20:28Z,2022-09-01T19:54:55Z,4,2,MERGED
+launchpad-ui,feat(form): add placeholder and onBlur to Select props,https://github.com/launchdarkly/launchpad-ui/pull/318,2022-08-29T18:30:29Z,2022-08-30T12:37:39Z,2,2,MERGED
+launchpad-ui,"feat(icon-button): add IconButton, minimal variant, and abstract shared logic",https://github.com/launchdarkly/launchpad-ui/pull/317,2022-08-29T17:45:39Z,2022-09-01T19:26:18Z,6,19,MERGED
+launchpad-ui,refactor(alert): System messages style updates ,https://github.com/launchdarkly/launchpad-ui/pull/314,2022-08-25T20:20:34Z,2022-08-29T16:55:58Z,4,11,MERGED
+launchpad-ui,fix(navigation): add optional chaining to collapse logic,https://github.com/launchdarkly/launchpad-ui/pull/312,2022-08-24T18:25:25Z,2022-08-24T18:35:20Z,2,2,MERGED
+launchpad-ui,feat: add vitest ui,https://github.com/launchdarkly/launchpad-ui/pull/311,2022-08-24T13:37:36Z,2022-08-24T15:02:54Z,2,1,MERGED
+launchpad-ui,fix: change current progress bubble backgrounds to green,https://github.com/launchdarkly/launchpad-ui/pull/310,2022-08-23T23:46:47Z,2022-08-24T13:54:43Z,2,3,MERGED
+launchpad-ui,refactor: replace clsx with classix,https://github.com/launchdarkly/launchpad-ui/pull/308,2022-08-23T20:00:01Z,2022-08-24T13:28:44Z,2,5,MERGED
+launchpad-ui,refactor: remove React shim from build,https://github.com/launchdarkly/launchpad-ui/pull/307,2022-08-23T19:37:30Z,2022-08-23T20:07:14Z,2,1,MERGED
+launchpad-ui,"refactor(filter,icons,menu,popover): create ids with React's useId",https://github.com/launchdarkly/launchpad-ui/pull/306,2022-08-23T13:32:07Z,2022-08-23T20:16:20Z,2,3,MERGED
+launchpad-ui,fix(popover): replace testId prop with data-test-id,https://github.com/launchdarkly/launchpad-ui/pull/301,2022-08-18T21:14:52Z,2022-08-18T21:16:10Z,2,1,MERGED
+launchpad-ui,feat(split-button): add default placement to SplitButtonDropdown,https://github.com/launchdarkly/launchpad-ui/pull/300,2022-08-18T20:49:54Z,2022-08-18T20:51:11Z,2,1,MERGED
+launchpad-ui,"refactor(markdown,popover,progress): add testId param",https://github.com/launchdarkly/launchpad-ui/pull/299,2022-08-18T19:52:14Z,2022-08-18T19:59:21Z,3,1,MERGED
+launchpad-ui,docs(core): update pre-release notes,https://github.com/launchdarkly/launchpad-ui/pull/298,2022-08-18T19:28:35Z,2022-08-19T12:16:27Z,2,1,MERGED
+launchpad-ui,docs: add migration guidelines,https://github.com/launchdarkly/launchpad-ui/pull/297,2022-08-18T17:30:21Z,2022-08-18T17:54:00Z,2,1,MERGED
+launchpad-ui,refactor(icons): remove unused styles,https://github.com/launchdarkly/launchpad-ui/pull/295,2022-08-18T04:09:22Z,2022-08-18T15:38:40Z,2,2,MERGED
+launchpad-ui,refactor(split-button): Pass through testId to underlying component,https://github.com/launchdarkly/launchpad-ui/pull/293,2022-08-17T22:09:11Z,2022-08-17T22:22:01Z,2,2,MERGED
+launchpad-ui,fix(progress-bubbles): up icon class specificity,https://github.com/launchdarkly/launchpad-ui/pull/291,2022-08-17T19:50:16Z,2022-08-17T20:04:04Z,2,2,MERGED
+launchpad-ui,refactor(split-button): Rework SplitButton for better composability,https://github.com/launchdarkly/launchpad-ui/pull/289,2022-08-17T18:36:38Z,2022-08-17T20:19:55Z,3,7,MERGED
+launchpad-ui,refactor(modal): replace no-scroll with react-aria,https://github.com/launchdarkly/launchpad-ui/pull/288,2022-08-17T14:56:29Z,2022-08-17T19:14:29Z,2,2,MERGED
+launchpad-ui,fix(filter): export AppliedFilterButton and FilterMenu,https://github.com/launchdarkly/launchpad-ui/pull/286,2022-08-17T13:05:21Z,2022-08-17T13:07:38Z,2,2,CLOSED
+launchpad-ui,refactor(split-button): enhance typing and storybook coverage for split button,https://github.com/launchdarkly/launchpad-ui/pull/285,2022-08-16T23:26:47Z,2022-08-17T14:39:25Z,3,2,MERGED
+launchpad-ui,refactor(avatar): inline flex avatar,https://github.com/launchdarkly/launchpad-ui/pull/283,2022-08-16T21:18:40Z,2022-08-16T21:35:35Z,2,3,MERGED
+launchpad-ui,refactor(avatar): add story decorator,https://github.com/launchdarkly/launchpad-ui/pull/281,2022-08-16T20:40:43Z,2022-08-16T20:46:47Z,2,1,MERGED
+launchpad-ui,feat(avatar): Add initials prop & utility props,https://github.com/launchdarkly/launchpad-ui/pull/280,2022-08-16T20:08:23Z,2022-08-16T20:34:10Z,3,7,MERGED
+launchpad-ui,feat: add strict mode to Storybook and Remix,https://github.com/launchdarkly/launchpad-ui/pull/279,2022-08-16T20:05:20Z,2022-08-16T20:55:44Z,2,1,MERGED
+launchpad-ui,feat(avatar): Add initials prop & utility props,https://github.com/launchdarkly/launchpad-ui/pull/278,2022-08-16T20:03:37Z,2022-08-16T20:04:35Z,1,4,CLOSED
+launchpad-ui,refactor(lozenge)!: rename package to chip,https://github.com/launchdarkly/launchpad-ui/pull/276,2022-08-16T15:23:45Z,2022-08-18T21:17:34Z,2,6,MERGED
+launchpad-ui,feat(icons): add osmo and custom icons,https://github.com/launchdarkly/launchpad-ui/pull/275,2022-08-16T14:48:18Z,2022-08-16T15:56:01Z,2,3,MERGED
+launchpad-ui,chore(deps): upgrade vitest to v0.22,https://github.com/launchdarkly/launchpad-ui/pull/274,2022-08-16T12:49:37Z,2022-08-16T12:58:07Z,2,1,MERGED
+launchpad-ui,chore(core)!: set minimum React version to 18,https://github.com/launchdarkly/launchpad-ui/pull/273,2022-08-15T14:39:21Z,2022-08-15T20:19:20Z,2,2,MERGED
+launchpad-ui,fix(navigation): export nav and navItem,https://github.com/launchdarkly/launchpad-ui/pull/269,2022-08-12T18:46:12Z,2022-08-15T12:44:08Z,4,3,CLOSED
+launchpad-ui,fix(tooltip): make children optional,https://github.com/launchdarkly/launchpad-ui/pull/267,2022-08-10T19:58:59Z,2022-08-10T20:10:07Z,2,2,MERGED
+launchpad-ui,chore(deps): update @types/node to v18,https://github.com/launchdarkly/launchpad-ui/pull/266,2022-08-10T15:20:02Z,2022-08-10T17:06:22Z,2,1,MERGED
+launchpad-ui,refactor: moved userEvent.setup calls above render,https://github.com/launchdarkly/launchpad-ui/pull/265,2022-08-09T19:48:36Z,2022-08-09T19:59:03Z,2,3,MERGED
+launchpad-ui,test: increase coverage thresholds by 10%,https://github.com/launchdarkly/launchpad-ui/pull/264,2022-08-09T19:47:55Z,2022-08-09T21:47:34Z,2,7,MERGED
+launchpad-ui,feat(popover): add condition for empty content string when deciding to render popover,https://github.com/launchdarkly/launchpad-ui/pull/262,2022-08-09T18:45:13Z,2022-08-09T19:45:30Z,4,3,MERGED
+launchpad-ui,fix(dropdown): prevent re-render loops,https://github.com/launchdarkly/launchpad-ui/pull/261,2022-08-08T19:06:43Z,2022-08-08T20:08:15Z,2,2,MERGED
+launchpad-ui,"fix(clipboard,form,split-button): remove use of object in prop types",https://github.com/launchdarkly/launchpad-ui/pull/260,2022-08-08T17:52:18Z,2022-08-08T19:42:35Z,2,3,MERGED
+launchpad-ui,refactor(dropdown): update to functional component,https://github.com/launchdarkly/launchpad-ui/pull/259,2022-08-08T14:53:45Z,2022-08-08T15:41:24Z,5,6,MERGED
+launchpad-ui,"feat(filter, menu): update styles and stories; use TextField in MenuSearch",https://github.com/launchdarkly/launchpad-ui/pull/256,2022-08-05T19:22:51Z,2022-08-08T18:17:40Z,3,1,MERGED
+launchpad-ui,feat(button): adds UploadButton to Button package,https://github.com/launchdarkly/launchpad-ui/pull/255,2022-08-05T19:20:23Z,2022-08-08T15:27:33Z,7,6,MERGED
+launchpad-ui,feat(button): add ButtonGroup component,https://github.com/launchdarkly/launchpad-ui/pull/254,2022-08-05T17:59:52Z,2022-08-05T18:52:49Z,6,3,MERGED
+launchpad-ui,fix: adjust changeset for filter package addition,https://github.com/launchdarkly/launchpad-ui/pull/253,2022-08-05T12:24:30Z,2022-08-05T16:22:38Z,3,1,MERGED
+launchpad-ui,feat(filter): add tests to Filter components,https://github.com/launchdarkly/launchpad-ui/pull/252,2022-08-04T20:40:04Z,2022-08-04T22:56:22Z,6,9,MERGED
+launchpad-ui,feat(filter): migrate Filter components,https://github.com/launchdarkly/launchpad-ui/pull/250,2022-08-03T22:04:32Z,2022-08-04T20:19:11Z,11,15,MERGED
+launchpad-ui,refactor(clipboard): remove test id and improve focus styles,https://github.com/launchdarkly/launchpad-ui/pull/248,2022-08-03T18:23:39Z,2022-08-03T18:36:11Z,2,4,MERGED
+launchpad-ui,fix(markdown): add styles,https://github.com/launchdarkly/launchpad-ui/pull/247,2022-08-03T13:55:58Z,2022-08-03T17:47:15Z,2,3,MERGED
+launchpad-ui,refactor(progress): remove lodash,https://github.com/launchdarkly/launchpad-ui/pull/246,2022-08-03T13:30:25Z,2022-08-03T13:47:08Z,2,3,MERGED
+launchpad-ui,fix: add workaround for vitest to run unit tests again,https://github.com/launchdarkly/launchpad-ui/pull/245,2022-08-02T22:43:25Z,2022-08-02T23:42:07Z,2,2,MERGED
+launchpad-ui,refactor(modal): remove lodash,https://github.com/launchdarkly/launchpad-ui/pull/244,2022-08-02T20:58:00Z,2022-08-02T21:07:11Z,2,2,MERGED
+launchpad-ui,refactor(form): remove lodash,https://github.com/launchdarkly/launchpad-ui/pull/243,2022-08-02T19:35:30Z,2022-08-02T20:22:02Z,2,2,MERGED
+launchpad-ui,"refactor(overlay,popover): remove lodash",https://github.com/launchdarkly/launchpad-ui/pull/242,2022-08-02T18:03:10Z,2022-08-02T20:00:51Z,2,2,MERGED
+launchpad-ui,refactor(menu): remove lodash,https://github.com/launchdarkly/launchpad-ui/pull/241,2022-08-02T15:12:11Z,2022-08-02T16:03:39Z,2,6,MERGED
+launchpad-ui,refactor(avatar): simplify mounted hook util,https://github.com/launchdarkly/launchpad-ui/pull/240,2022-08-02T14:49:24Z,2022-08-02T15:14:32Z,2,2,MERGED
+launchpad-ui,fix(button): update forwarded ref type to `HTMLButtonElement | HTMLAnchorElement`,https://github.com/launchdarkly/launchpad-ui/pull/239,2022-08-01T19:40:52Z,2022-08-01T20:37:44Z,2,2,MERGED
+launchpad-ui,chore: add changeset for react-aria upgrade,https://github.com/launchdarkly/launchpad-ui/pull/237,2022-08-01T14:11:06Z,2022-08-01T14:33:51Z,2,1,MERGED
+launchpad-ui,fix(notification): correct timeout logic in hooks,https://github.com/launchdarkly/launchpad-ui/pull/236,2022-08-01T13:53:00Z,2022-08-01T17:56:56Z,2,2,MERGED
+launchpad-ui,refactor(popover): update to functional component,https://github.com/launchdarkly/launchpad-ui/pull/235,2022-08-01T13:34:06Z,2022-08-01T18:19:38Z,3,5,MERGED
+launchpad-ui,chore: fix node module versions,https://github.com/launchdarkly/launchpad-ui/pull/633,2022-12-28T21:32:30Z,2022-12-28T22:19:08Z,2,6,MERGED
+launchpad-ui,chore: update classix version across design system,https://github.com/launchdarkly/launchpad-ui/pull/632,2022-12-28T21:11:14Z,2022-12-28T21:44:18Z,2,1,CLOSED
+launchpad-ui,chore: update storybook to beta v7 version,https://github.com/launchdarkly/launchpad-ui/pull/631,2022-12-28T20:30:29Z,2022-12-29T18:18:32Z,2,2,MERGED
+launchpad-ui,chore: upgrade vite to 4.0,https://github.com/launchdarkly/launchpad-ui/pull/629,2022-12-28T19:45:07Z,2022-12-28T20:15:05Z,2,5,MERGED
+launchpad-ui,feat: update vite to 4 diff,https://github.com/launchdarkly/launchpad-ui/pull/628,2022-12-28T19:36:08Z,2022-12-28T19:45:17Z,2,1,CLOSED
+launchpad-ui,feat(alert): enhance dark mode support for alerts,https://github.com/launchdarkly/launchpad-ui/pull/627,2022-12-28T18:59:52Z,2022-12-28T20:10:18Z,3,4,MERGED
+launchpad-ui,"chore(tokens,button): update tokens based on design feedback",https://github.com/launchdarkly/launchpad-ui/pull/626,2022-12-28T16:28:22Z,2022-12-28T19:45:41Z,2,3,MERGED
+launchpad-ui,chore: add build:watch tooling to enable local linking,https://github.com/launchdarkly/launchpad-ui/pull/621,2022-12-15T19:49:32Z,2022-12-28T15:42:58Z,4,1,CLOSED
+launchpad-ui,"chore: update theme tokens for buttons, form, and progress bubbles",https://github.com/launchdarkly/launchpad-ui/pull/619,2022-12-15T02:27:28Z,2022-12-15T19:48:05Z,3,3,MERGED
+launchpad-ui,refactor(button): update button destructive styles,https://github.com/launchdarkly/launchpad-ui/pull/617,2022-12-13T23:21:34Z,2022-12-13T23:31:26Z,2,1,MERGED
+launchpad-ui,"feat(form,tokens): improve form theming",https://github.com/launchdarkly/launchpad-ui/pull/615,2022-12-13T17:53:06Z,2022-12-13T18:18:26Z,3,2,MERGED
+launchpad-ui,"chore(tokens,popover): update background color of primary overlay",https://github.com/launchdarkly/launchpad-ui/pull/613,2022-12-12T22:10:10Z,2022-12-13T17:03:58Z,3,3,MERGED
+launchpad-ui,"refactor(form,tokens): improve theming with new field tokens",https://github.com/launchdarkly/launchpad-ui/pull/612,2022-12-12T19:27:52Z,2022-12-12T22:32:38Z,2,1,MERGED
+launchpad-ui,"refactor(banner,alert): improve themability of Alerts and Banners & add new tokens",https://github.com/launchdarkly/launchpad-ui/pull/609,2022-12-09T22:55:02Z,2022-12-10T00:44:48Z,1,4,MERGED
+launchpad-ui,chore(notification): remove package,https://github.com/launchdarkly/launchpad-ui/pull/607,2022-12-09T22:36:05Z,2022-12-09T22:41:22Z,1,2,MERGED
+launchpad-ui,fix(filter): remove filter target style,https://github.com/launchdarkly/launchpad-ui/pull/605,2022-12-07T19:05:35Z,2022-12-07T19:06:08Z,2,2,MERGED
+launchpad-ui,chore(menu): add menu stories,https://github.com/launchdarkly/launchpad-ui/pull/604,2022-12-06T21:27:58Z,2022-12-06T21:33:11Z,2,1,MERGED
+launchpad-ui,feat: auto-collapse Navigation to prevent scroll,https://github.com/launchdarkly/launchpad-ui/pull/603,2022-12-06T20:33:09Z,2022-12-30T18:35:32Z,7,8,MERGED
+launchpad-ui,"refactor: remove chip variants and improve darkmode theme for chip, drawer, and navigation",https://github.com/launchdarkly/launchpad-ui/pull/601,2022-12-06T18:20:07Z,2022-12-06T18:36:21Z,2,4,MERGED
+launchpad-ui,fix: update darkmode values across system,https://github.com/launchdarkly/launchpad-ui/pull/598,2022-12-06T06:29:52Z,2022-12-06T16:20:22Z,2,4,MERGED
+launchpad-ui,fix: border/shadow token updates,https://github.com/launchdarkly/launchpad-ui/pull/597,2022-12-05T21:11:04Z,2022-12-05T22:34:41Z,2,4,MERGED
+launchpad-ui,fix: update darkmode values across system,https://github.com/launchdarkly/launchpad-ui/pull/595,2022-12-05T19:41:19Z,2022-12-05T20:59:33Z,2,3,MERGED
+launchpad-ui,chore: update migration docs,https://github.com/launchdarkly/launchpad-ui/pull/592,2022-12-02T17:26:09Z,2022-12-13T20:24:50Z,2,1,MERGED
+launchpad-ui,feat(icons): add backpack icon,https://github.com/launchdarkly/launchpad-ui/pull/589,2022-11-30T19:26:49Z,2022-12-01T16:30:10Z,3,1,CLOSED
+launchpad-ui,feat(icons): add circle-dashed icon,https://github.com/launchdarkly/launchpad-ui/pull/588,2022-11-30T16:58:11Z,2022-11-30T18:40:43Z,2,1,MERGED
+launchpad-ui,fix(icon): set background color for current progressbubble,https://github.com/launchdarkly/launchpad-ui/pull/586,2022-11-28T23:06:35Z,2022-11-29T18:26:19Z,3,4,MERGED
+launchpad-ui,ci: add check for changeset,https://github.com/launchdarkly/launchpad-ui/pull/584,2022-11-22T18:42:18Z,2022-11-22T20:26:24Z,3,6,MERGED
+launchpad-ui,feat: add alias token story,https://github.com/launchdarkly/launchpad-ui/pull/583,2022-11-22T15:27:35Z,2022-11-22T16:31:35Z,2,1,MERGED
+launchpad-ui,ci: update TurboSnap externals to include token changes,https://github.com/launchdarkly/launchpad-ui/pull/580,2022-11-17T20:31:45Z,2022-11-17T21:23:22Z,2,4,MERGED
+launchpad-ui,feat(icon): add bullseye icon,https://github.com/launchdarkly/launchpad-ui/pull/578,2022-11-17T18:37:01Z,2022-11-17T19:19:55Z,2,1,MERGED
+launchpad-ui,chore: upgrade storybook to alpha 50,https://github.com/launchdarkly/launchpad-ui/pull/577,2022-11-17T15:20:11Z,2022-11-17T18:18:52Z,2,1,MERGED
+launchpad-ui,"feat(icons): add ""release-path"" icon",https://github.com/launchdarkly/launchpad-ui/pull/576,2022-11-16T22:38:55Z,2022-11-17T18:52:55Z,4,4,MERGED
+launchpad-ui,"fix(menu,navigation): pin reactrouterdom dep to 6.4.2",https://github.com/launchdarkly/launchpad-ui/pull/574,2022-11-16T21:51:39Z,2022-11-16T21:55:30Z,2,1,MERGED
+launchpad-ui,ci: add tokens to externals for TurboSnap,https://github.com/launchdarkly/launchpad-ui/pull/572,2022-11-16T13:14:21Z,2022-11-16T13:39:43Z,2,5,CLOSED
+launchpad-ui,"refactor(snackbar,toast): add snackbar variant, style links in toast",https://github.com/launchdarkly/launchpad-ui/pull/571,2022-11-15T22:08:09Z,2022-11-15T22:21:33Z,2,1,MERGED
+launchpad-ui,"fix(modal): improve storybook docs, deprecate legacy modal, and improve resizeobserver for ModalBody",https://github.com/launchdarkly/launchpad-ui/pull/569,2022-11-15T20:10:27Z,2022-11-15T20:59:29Z,2,2,MERGED
+launchpad-ui,refactor(tokens): update bg and text tokens,https://github.com/launchdarkly/launchpad-ui/pull/567,2022-11-15T14:34:55Z,2022-11-15T14:45:20Z,2,2,MERGED
+launchpad-ui,docs: add ADR for cypress tests,https://github.com/launchdarkly/launchpad-ui/pull/565,2022-11-14T14:28:43Z,2022-11-14T16:28:07Z,2,1,MERGED
+launchpad-ui,fix(modal): move header props to standalone component,https://github.com/launchdarkly/launchpad-ui/pull/562,2022-11-09T21:17:19Z,2022-11-09T21:23:26Z,2,1,MERGED
+launchpad-ui,docs: add section on SLA,https://github.com/launchdarkly/launchpad-ui/pull/561,2022-11-09T20:59:39Z,2022-11-10T20:24:10Z,2,1,MERGED
+launchpad-ui,fix(modal): move portal to main component to fix focus trap,https://github.com/launchdarkly/launchpad-ui/pull/559,2022-11-09T16:41:31Z,2022-11-09T18:12:04Z,3,3,MERGED
+launchpad-ui,chore: update cypress to v11,https://github.com/launchdarkly/launchpad-ui/pull/558,2022-11-09T15:52:55Z,2022-11-09T21:07:35Z,2,1,MERGED
+launchpad-ui,chore: add Apache 2.0 license,https://github.com/launchdarkly/launchpad-ui/pull/557,2022-11-08T13:42:06Z,2022-11-16T19:17:47Z,2,1,MERGED
+launchpad-ui,docs: adding SECURITY.md security policy to Github repo for vulnerability reporting instructions,https://github.com/launchdarkly/launchpad-ui/pull/556,2022-11-08T00:21:30Z,2022-11-08T00:43:47Z,2,1,MERGED
+launchpad-ui,refactor(tokens)!: update alias tokens to match schema,https://github.com/launchdarkly/launchpad-ui/pull/555,2022-11-07T20:36:12Z,2022-11-14T19:56:02Z,2,7,MERGED
+launchpad-ui,chore: update Storybook to `alpha.48`,https://github.com/launchdarkly/launchpad-ui/pull/554,2022-11-07T16:18:59Z,2022-11-10T19:36:38Z,2,3,MERGED
+launchpad-ui,refactor(modal): expose absolute modal footer,https://github.com/launchdarkly/launchpad-ui/pull/551,2022-11-04T19:14:45Z,2022-11-04T19:28:15Z,2,1,MERGED
+launchpad-ui,refactor(modal): update modal layout logic,https://github.com/launchdarkly/launchpad-ui/pull/550,2022-11-04T18:36:31Z,2022-11-04T18:56:06Z,2,2,MERGED
+launchpad-ui,fix(modal): remove old props and allow html props for body and footer,https://github.com/launchdarkly/launchpad-ui/pull/548,2022-11-04T17:41:08Z,2022-11-04T18:05:53Z,2,2,MERGED
+launchpad-ui,refactor(modal): Add `AbsoluteModalFooter` component,https://github.com/launchdarkly/launchpad-ui/pull/546,2022-11-03T17:04:33Z,2022-11-03T17:18:34Z,2,2,MERGED
+launchpad-ui,ci(circle): updating sbom generation orb version to support pnpm workspaces,https://github.com/launchdarkly/launchpad-ui/pull/545,2022-11-03T16:36:29Z,2022-11-07T18:34:17Z,3,9,MERGED
+launchpad-ui,ci(circle): creating CircleCI config for SBOM generation/license policy check jobs,https://github.com/launchdarkly/launchpad-ui/pull/544,2022-11-03T00:48:11Z,2022-11-03T16:33:02Z,2,1,MERGED
+launchpad-ui,refactor(modal): Overflow contents only when needed,https://github.com/launchdarkly/launchpad-ui/pull/542,2022-11-02T18:22:22Z,2022-11-02T18:31:24Z,2,2,MERGED
+launchpad-ui,refactor(modal): export ModalBody and ModalFooter,https://github.com/launchdarkly/launchpad-ui/pull/540,2022-11-01T17:27:23Z,2022-11-01T17:48:13Z,2,2,MERGED
+launchpad-ui,"fix(icons,snackbar): improve aria-labeling for icons, fix word-break issue for snackbars",https://github.com/launchdarkly/launchpad-ui/pull/806,2023-03-31T19:01:37Z,2023-03-31T19:22:11Z,2,1,MERGED
+launchpad-ui,Update release.yml,https://github.com/launchdarkly/launchpad-ui/pull/805,2023-03-31T18:15:33Z,2023-03-31T18:15:39Z,1,1,CLOSED
+launchpad-ui,Update lint-pr-title.yml,https://github.com/launchdarkly/launchpad-ui/pull/804,2023-03-31T18:04:50Z,2023-03-31T18:16:11Z,1,3,CLOSED
+launchpad-ui,feat: update interactive disabled text color,https://github.com/launchdarkly/launchpad-ui/pull/803,2023-03-31T17:52:47Z,2023-03-31T20:39:43Z,4,3,MERGED
+launchpad-ui,fix(dropdown): merge menu trigger refs,https://github.com/launchdarkly/launchpad-ui/pull/802,2023-03-29T20:42:47Z,2023-03-29T21:51:13Z,3,3,MERGED
+launchpad-ui,feat(tokens): update pink-600 color,https://github.com/launchdarkly/launchpad-ui/pull/801,2023-03-29T20:24:17Z,2023-03-29T21:01:16Z,2,1,MERGED
+launchpad-ui,feat(tags): improve darkmode styles and IconButton style,https://github.com/launchdarkly/launchpad-ui/pull/800,2023-03-29T20:19:09Z,2023-03-30T14:28:48Z,2,1,MERGED
+launchpad-ui,ci: Update Lockfile,https://github.com/launchdarkly/launchpad-ui/pull/799,2023-03-29T15:52:12Z,2023-03-29T16:51:23Z,1,2,MERGED
+launchpad-ui,fix(toggle): rework toggle to use label around component,https://github.com/launchdarkly/launchpad-ui/pull/798,2023-03-28T18:03:20Z,2023-03-29T22:05:58Z,7,6,MERGED
+launchpad-ui,chore(icons): fix aria-hidden accessibility issue,https://github.com/launchdarkly/launchpad-ui/pull/797,2023-03-28T17:09:10Z,2023-03-29T20:03:43Z,4,10,MERGED
+launchpad-ui,fix(modal) add wordwrap to header title,https://github.com/launchdarkly/launchpad-ui/pull/794,2023-03-24T15:23:49Z,2023-03-24T15:40:18Z,2,7,MERGED
+launchpad-ui,feat(select): style updates,https://github.com/launchdarkly/launchpad-ui/pull/792,2023-03-21T15:09:05Z,2023-03-23T20:33:53Z,5,7,MERGED
+launchpad-ui,feat(toast): add fade out for toast exit animation,https://github.com/launchdarkly/launchpad-ui/pull/790,2023-03-20T22:23:41Z,2023-03-21T15:08:43Z,3,3,MERGED
+launchpad-ui,fix(filter): improve clear icon sizing,https://github.com/launchdarkly/launchpad-ui/pull/789,2023-03-20T17:07:59Z,2023-03-21T15:04:18Z,3,5,MERGED
+launchpad-ui,Update CODEOWNERS to be frontend only,https://github.com/launchdarkly/launchpad-ui/pull/786,2023-03-17T21:58:56Z,2023-03-17T23:22:14Z,2,1,MERGED
+launchpad-ui,"feat(chip,tag): update chip sizing, chip icon prop, and onTagClick tag prop",https://github.com/launchdarkly/launchpad-ui/pull/785,2023-03-17T02:23:51Z,2023-03-21T15:04:47Z,2,8,MERGED
+launchpad-ui,"feat(chip,tag): update chip sizing, chip icon prop, and onTagClick tag prop",https://github.com/launchdarkly/launchpad-ui/pull/784,2023-03-17T02:19:00Z,2023-03-17T02:23:40Z,1,3,CLOSED
+launchpad-ui,"feat: new `action` prop for tags, improve `tiny` button styles",https://github.com/launchdarkly/launchpad-ui/pull/782,2023-03-16T20:23:24Z,2023-03-16T21:24:19Z,5,5,MERGED
+launchpad-ui,fix: revert back to react-aria focus v 3.10.0,https://github.com/launchdarkly/launchpad-ui/pull/780,2023-03-16T18:46:35Z,2023-03-16T18:58:03Z,2,2,MERGED
+launchpad-ui,feat(form): replace error text with icon,https://github.com/launchdarkly/launchpad-ui/pull/779,2023-03-16T15:56:19Z,2023-03-16T16:09:16Z,2,2,MERGED
+launchpad-ui,feat(alert): fix for issue with controlled dismissal,https://github.com/launchdarkly/launchpad-ui/pull/778,2023-03-16T15:44:26Z,2023-03-16T15:56:43Z,2,3,MERGED
+launchpad-ui,feat(alert): support uncontrolled handling of the dismiss prop,https://github.com/launchdarkly/launchpad-ui/pull/776,2023-03-16T15:16:12Z,2023-03-16T15:28:17Z,2,1,MERGED
+launchpad-ui,feat(icons): add approval-pending and merge,https://github.com/launchdarkly/launchpad-ui/pull/774,2023-03-15T21:27:30Z,2023-03-16T14:17:27Z,2,2,MERGED
+launchpad-ui,refactor(button): switch from circular IconButton to rounded,https://github.com/launchdarkly/launchpad-ui/pull/773,2023-03-15T21:01:25Z,2023-03-15T22:00:20Z,2,2,MERGED
+launchpad-ui,feat(tags): Adds TagGroup and TagItem components,https://github.com/launchdarkly/launchpad-ui/pull/772,2023-03-14T17:18:14Z,2023-03-16T15:56:56Z,2,15,MERGED
+launchpad-ui,feat(button): update button sizes,https://github.com/launchdarkly/launchpad-ui/pull/770,2023-03-14T04:03:17Z,2023-03-14T14:46:27Z,3,2,MERGED
+launchpad-ui,chore: update renovate to only update range deps,https://github.com/launchdarkly/launchpad-ui/pull/768,2023-03-13T19:56:12Z,2023-03-13T20:00:08Z,2,1,MERGED
+launchpad-ui,chore: bump react-aria and react-stately packages,https://github.com/launchdarkly/launchpad-ui/pull/767,2023-03-13T18:52:44Z,2023-03-13T19:59:24Z,2,4,MERGED
+launchpad-ui,fix: enforce focus when progress bubble popover is open,https://github.com/launchdarkly/launchpad-ui/pull/765,2023-03-13T17:42:05Z,2023-03-13T18:20:41Z,2,1,MERGED
+launchpad-ui,chore: update to react-router-dom@6.9.0,https://github.com/launchdarkly/launchpad-ui/pull/763,2023-03-13T13:39:20Z,2023-03-13T14:44:50Z,2,1,MERGED
+launchpad-ui,fix: root styling issue,https://github.com/launchdarkly/launchpad-ui/pull/759,2023-03-10T19:22:27Z,2023-03-10T19:22:59Z,2,1,MERGED
+launchpad-ui,fix: verify filters,https://github.com/launchdarkly/launchpad-ui/pull/758,2023-03-10T19:07:06Z,2023-03-10T19:08:04Z,2,2,MERGED
+launchpad-ui,fix: verify filters,https://github.com/launchdarkly/launchpad-ui/pull/757,2023-03-10T19:01:44Z,2023-03-10T19:03:24Z,2,1,MERGED
+launchpad-ui,fix: Update release branch react aria,https://github.com/launchdarkly/launchpad-ui/pull/755,2023-03-10T18:48:21Z,2023-03-10T18:57:12Z,2,5,MERGED
+launchpad-ui,fix: add release-skip workflows,https://github.com/launchdarkly/launchpad-ui/pull/754,2023-03-10T18:39:38Z,2023-03-10T18:43:40Z,5,1,MERGED
+launchpad-ui,fix: revert workflow changes for which branches trigger checks,https://github.com/launchdarkly/launchpad-ui/pull/752,2023-03-10T17:12:06Z,2023-03-10T18:03:26Z,2,3,MERGED
+launchpad-ui,refactor: move to `react-aria` and `react-stately` monorepo packages,https://github.com/launchdarkly/launchpad-ui/pull/751,2023-03-10T16:54:00Z,2023-03-10T18:19:21Z,3,12,MERGED
+launchpad-ui,feat: import `react-aria` and `react-stately` monorepo packages,https://github.com/launchdarkly/launchpad-ui/pull/750,2023-03-10T16:30:54Z,2023-03-10T16:43:57Z,1,6,CLOSED
+launchpad-ui,fix(tab-list): remove bg color,https://github.com/launchdarkly/launchpad-ui/pull/748,2023-03-10T16:20:06Z,2023-03-10T16:25:06Z,1,1,MERGED
+launchpad-ui,fix(button): improve IconButton icon sizing,https://github.com/launchdarkly/launchpad-ui/pull/747,2023-03-09T23:36:47Z,2023-03-09T23:37:35Z,1,1,MERGED
+launchpad-ui,fix(pagination): expose PaginationChange type,https://github.com/launchdarkly/launchpad-ui/pull/746,2023-03-09T23:09:18Z,2023-03-09T23:24:57Z,1,1,MERGED
+launchpad-ui,feat: add new svg icons and build new flair icon component,https://github.com/launchdarkly/launchpad-ui/pull/745,2023-03-09T22:38:39Z,2023-03-10T16:59:58Z,5,8,MERGED
+launchpad-ui,fix(icons): remove fill-none on approval icons svg,https://github.com/launchdarkly/launchpad-ui/pull/744,2023-03-09T22:24:50Z,2023-03-09T23:16:56Z,2,3,MERGED
+launchpad-ui,fix(navitem): adjust chip size in navitem to prevent clipping,https://github.com/launchdarkly/launchpad-ui/pull/742,2023-03-09T20:01:14Z,2023-03-09T21:28:46Z,1,2,MERGED
+launchpad-ui,fix: trigger-release 2,https://github.com/launchdarkly/launchpad-ui/pull/740,2023-03-09T19:44:33Z,2023-03-09T19:45:06Z,1,1,MERGED
+launchpad-ui,fix: trigger release change,https://github.com/launchdarkly/launchpad-ui/pull/738,2023-03-09T18:42:03Z,2023-03-09T18:56:25Z,2,1,MERGED
+launchpad-ui,feat(icons): add approval-declined and approval-applied icons,https://github.com/launchdarkly/launchpad-ui/pull/737,2023-03-09T07:29:43Z,2023-03-09T17:26:47Z,2,2,MERGED
+launchpad-ui,chore: update ci to bypass checks for changeset release PRs,https://github.com/launchdarkly/launchpad-ui/pull/736,2023-03-08T22:53:14Z,2023-03-09T19:43:03Z,1,3,MERGED
+launchpad-ui,feat(tokens): remove root from token variables,https://github.com/launchdarkly/launchpad-ui/pull/735,2023-03-08T22:44:54Z,2023-03-09T15:11:31Z,2,1,MERGED
+launchpad-ui,feat(collapsible): added collapsible package,https://github.com/launchdarkly/launchpad-ui/pull/733,2023-03-08T20:42:06Z,2023-03-08T21:58:37Z,3,4,MERGED
+launchpad-ui,fix(chip): update default chip color,https://github.com/launchdarkly/launchpad-ui/pull/730,2023-03-08T01:18:20Z,2023-03-08T01:29:13Z,2,3,MERGED
+launchpad-ui,"feat(chip): Update sizing, deprecate `kind=label` and `size=legacy` and `subtle`",https://github.com/launchdarkly/launchpad-ui/pull/728,2023-03-07T23:16:37Z,2023-03-07T23:19:42Z,2,2,MERGED
+launchpad-ui,"fix: update tooltip, snackbar, and toast z-index",https://github.com/launchdarkly/launchpad-ui/pull/726,2023-03-07T20:00:11Z,2023-03-07T20:05:44Z,2,1,MERGED
+launchpad-ui,feat(chip): add size variants and deprecate unused variants,https://github.com/launchdarkly/launchpad-ui/pull/724,2023-03-07T17:31:01Z,2023-03-07T19:43:43Z,2,4,MERGED
+launchpad-ui,chore(chip): remove large variant and size prop,https://github.com/launchdarkly/launchpad-ui/pull/723,2023-03-07T15:52:42Z,2023-03-07T16:12:49Z,2,1,MERGED
+launchpad-ui,feat(Chip): refresh Chip styles,https://github.com/launchdarkly/launchpad-ui/pull/722,2023-03-07T00:59:07Z,2023-03-07T15:47:40Z,2,19,MERGED
+launchpad-ui,refactor(select): expose SelectItem and SelectSection,https://github.com/launchdarkly/launchpad-ui/pull/721,2023-03-07T00:40:20Z,2023-03-07T15:46:44Z,5,4,MERGED
+launchpad-ui,feat: support nested themes,https://github.com/launchdarkly/launchpad-ui/pull/719,2023-03-06T20:41:03Z,2023-03-06T23:50:02Z,2,5,MERGED
+launchpad-ui,feat: left-align CopyToClipboard text,https://github.com/launchdarkly/launchpad-ui/pull/717,2023-03-03T20:21:51Z,2023-03-06T13:27:53Z,3,1,MERGED
+launchpad-ui,feat(IconButton): add squared shape to IconButton,https://github.com/launchdarkly/launchpad-ui/pull/716,2023-03-03T19:56:55Z,2023-03-09T15:15:01Z,2,1,CLOSED
+launchpad-ui,feat(Button): add minimal primary theme,https://github.com/launchdarkly/launchpad-ui/pull/715,2023-03-03T19:37:08Z,2023-03-09T15:14:32Z,2,1,CLOSED
+launchpad-ui,feat(select): rename disabled prop and add styles,https://github.com/launchdarkly/launchpad-ui/pull/713,2023-03-03T00:03:34Z,2023-03-03T18:17:17Z,2,2,MERGED
+launchpad-ui,docs: Updates CODEOWNERS with PD org changes,https://github.com/launchdarkly/launchpad-ui/pull/712,2023-03-02T00:09:30Z,2023-03-06T22:08:40Z,2,2,MERGED
+launchpad-ui,feat(modal): Add support for larger modals,https://github.com/launchdarkly/launchpad-ui/pull/710,2023-03-01T13:48:31Z,2023-03-01T17:22:49Z,6,7,MERGED
+launchpad-ui,feat(snackbar): add optional footer to Snackbar,https://github.com/launchdarkly/launchpad-ui/pull/708,2023-02-28T18:13:46Z,2023-03-02T18:34:57Z,4,4,CLOSED
+launchpad-ui,feat(select): add better select contract with SingleSelect and MultiSelect,https://github.com/launchdarkly/launchpad-ui/pull/707,2023-02-28T05:02:05Z,2023-03-02T17:47:29Z,9,13,MERGED
+launchpad-ui,feat(icon): add clipboard copy icon,https://github.com/launchdarkly/launchpad-ui/pull/704,2023-02-27T18:00:34Z,2023-02-27T18:16:54Z,2,1,MERGED
+launchpad-ui,feat(icons): add language icon component,https://github.com/launchdarkly/launchpad-ui/pull/703,2023-02-27T17:32:16Z,2023-02-27T18:16:36Z,2,1,MERGED
+launchpad-ui,feat(icons): add language icon,https://github.com/launchdarkly/launchpad-ui/pull/702,2023-02-23T21:08:25Z,2023-02-23T21:10:46Z,2,1,MERGED
+launchpad-ui,chore: update secondary navigation :active styles,https://github.com/launchdarkly/launchpad-ui/pull/701,2023-02-23T20:40:52Z,2023-02-23T21:43:40Z,3,1,MERGED
+launchpad-ui,feat(select): allow uncontrolled select behavior,https://github.com/launchdarkly/launchpad-ui/pull/699,2023-02-22T18:00:23Z,2023-02-22T22:41:08Z,3,4,MERGED
+launchpad-ui,refactor(navigation): experiment with alternative api,https://github.com/launchdarkly/launchpad-ui/pull/696,2023-02-17T03:04:31Z,2023-04-04T16:05:32Z,2,4,CLOSED
+launchpad-ui,fix: update button styles to match Figma,https://github.com/launchdarkly/launchpad-ui/pull/694,2023-02-16T00:21:07Z,2023-02-16T20:25:33Z,4,6,MERGED
+launchpad-ui,chore(deps): update framer motion from 7.6.1 to 9.0.3,https://github.com/launchdarkly/launchpad-ui/pull/692,2023-02-15T22:14:33Z,2023-02-15T22:33:40Z,3,1,MERGED
+launchpad-ui,chore: update react router dom to 6.7.0,https://github.com/launchdarkly/launchpad-ui/pull/690,2023-02-15T18:30:58Z,2023-02-15T19:46:04Z,2,2,MERGED
+launchpad-ui,chore: update to react-router-dom@6.7.0,https://github.com/launchdarkly/launchpad-ui/pull/688,2023-02-13T14:02:40Z,2023-02-13T14:12:34Z,2,1,MERGED
+launchpad-ui,"fix(modal,drawer): update overlay bg colors",https://github.com/launchdarkly/launchpad-ui/pull/686,2023-02-09T21:49:55Z,2023-02-13T16:53:50Z,3,3,MERGED
+launchpad-ui,chore(deps): update eslint-plugin-functional package,https://github.com/launchdarkly/launchpad-ui/pull/685,2023-02-09T21:40:14Z,2023-02-09T22:35:37Z,2,2,MERGED
+launchpad-ui,feat(drawer): add cancel icon toggle to Drawer,https://github.com/launchdarkly/launchpad-ui/pull/683,2023-02-07T21:45:47Z,2023-02-08T19:24:34Z,4,3,MERGED
+launchpad-ui,fix(form): update form stories and make FormField use Label component,https://github.com/launchdarkly/launchpad-ui/pull/682,2023-02-06T23:02:50Z,2023-02-07T20:08:43Z,2,1,MERGED
+launchpad-ui,fix(copy-to-clipboard): add button type to default copy button,https://github.com/launchdarkly/launchpad-ui/pull/680,2023-02-06T17:10:17Z,2023-02-06T17:16:47Z,2,1,MERGED
+launchpad-ui,"feat(markdown): add optional ""children"" prop to permit custom rendering logic in component consumer",https://github.com/launchdarkly/launchpad-ui/pull/678,2023-02-03T17:51:51Z,2023-02-08T19:33:17Z,4,10,MERGED
+launchpad-ui,chore: minor bump in core and filter after updating to react-router-dom@6.7.0,https://github.com/launchdarkly/launchpad-ui/pull/675,2023-01-30T14:40:42Z,2023-01-30T14:47:56Z,2,1,MERGED
+launchpad-ui,chore: minor bump in core and filter after updating to react-router-dom@6.7.0,https://github.com/launchdarkly/launchpad-ui/pull/674,2023-01-30T14:39:20Z,2023-01-30T14:39:59Z,2,1,CLOSED
+launchpad-ui,feat: update to react-router-dom@6.7.0,https://github.com/launchdarkly/launchpad-ui/pull/672,2023-01-30T14:12:29Z,2023-01-30T14:24:07Z,2,1,MERGED
+launchpad-ui,feat(select): add Select package,https://github.com/launchdarkly/launchpad-ui/pull/671,2023-01-30T03:29:12Z,2023-02-09T21:04:58Z,3,24,MERGED
+launchpad-ui,fix: bump z-index values across design system,https://github.com/launchdarkly/launchpad-ui/pull/666,2023-01-27T20:29:49Z,2023-01-27T20:41:11Z,2,1,MERGED
+launchpad-ui,fix(tokens): update theme tokens,https://github.com/launchdarkly/launchpad-ui/pull/665,2023-01-27T20:06:09Z,2023-01-27T20:40:16Z,2,1,MERGED
+launchpad-ui,feat(icon): add arrow icons for release paths flag list view,https://github.com/launchdarkly/launchpad-ui/pull/664,2023-01-26T18:09:48Z,2023-01-27T21:08:10Z,2,2,MERGED
+launchpad-ui,chore: improve Navigation collapse behavior,https://github.com/launchdarkly/launchpad-ui/pull/661,2023-01-20T14:26:46Z,2023-01-24T21:47:15Z,7,2,MERGED
+launchpad-ui,fix(alert): fix white-space: nowrap bug in alert content,https://github.com/launchdarkly/launchpad-ui/pull/660,2023-01-20T01:35:14Z,2023-01-20T01:35:29Z,2,1,MERGED
+launchpad-ui,feat(icon): add arrow-<direction>-thin icons,https://github.com/launchdarkly/launchpad-ui/pull/658,2023-01-19T00:32:15Z,2023-01-20T01:29:37Z,2,1,MERGED
+launchpad-ui,feat(icon): add arrow-left-thin icon,https://github.com/launchdarkly/launchpad-ui/pull/656,2023-01-18T20:59:19Z,2023-01-19T00:26:40Z,4,2,CLOSED
+launchpad-ui,chore: bump react-router-dom to 6.7.0-pre.3,https://github.com/launchdarkly/launchpad-ui/pull/655,2023-01-18T20:58:31Z,2023-01-18T21:20:19Z,2,1,MERGED
+launchpad-ui,fix(alert): add break-word property to alert content,https://github.com/launchdarkly/launchpad-ui/pull/653,2023-01-17T18:43:55Z,2023-01-17T18:53:40Z,2,1,MERGED
+launchpad-ui,feat(icons): add filter-tune icon,https://github.com/launchdarkly/launchpad-ui/pull/652,2023-01-17T15:54:33Z,2023-01-17T18:45:09Z,5,4,MERGED
+launchpad-ui,chore: remove legacy Navigation components,https://github.com/launchdarkly/launchpad-ui/pull/651,2023-01-13T14:11:57Z,2023-02-06T23:21:30Z,2,1,MERGED
+launchpad-ui,fix(menu): update divider color,https://github.com/launchdarkly/launchpad-ui/pull/649,2023-01-12T21:05:36Z,2023-01-12T21:18:44Z,2,2,MERGED
+launchpad-ui,refactor(banner): remove dismissible prop in favor of onDismiss prop,https://github.com/launchdarkly/launchpad-ui/pull/648,2023-01-12T00:31:20Z,2023-01-12T21:05:49Z,3,3,MERGED
+launchpad-ui,feat: update Navigation to collapse using Select instead of Dropdown,https://github.com/launchdarkly/launchpad-ui/pull/646,2023-01-10T21:06:36Z,2023-01-11T16:27:38Z,6,1,MERGED
+launchpad-ui,fix(popover): fix invalid box shadow property value,https://github.com/launchdarkly/launchpad-ui/pull/644,2023-01-10T17:10:32Z,2023-01-10T17:17:07Z,2,1,MERGED
+launchpad-ui,chore: update dark mode styles based on q1 design feedback,https://github.com/launchdarkly/launchpad-ui/pull/642,2023-01-10T16:00:10Z,2023-01-10T16:38:13Z,2,4,MERGED
+launchpad-ui,feat: add legacy Navigation components,https://github.com/launchdarkly/launchpad-ui/pull/639,2023-01-04T21:17:29Z,2023-01-04T21:52:03Z,2,1,MERGED
+launchpad-ui,chore(banner): update darkmode background styles,https://github.com/launchdarkly/launchpad-ui/pull/638,2023-01-04T21:14:07Z,2023-01-04T21:52:11Z,2,1,MERGED
+launchpad-ui,fix: selectField ref forwarding,https://github.com/launchdarkly/launchpad-ui/pull/856,2023-05-25T17:19:17Z,2023-06-02T19:34:22Z,2,2,MERGED
+launchpad-ui,feat(form): add `useNumberField` hook,https://github.com/launchdarkly/launchpad-ui/pull/853,2023-05-12T18:03:11Z,2023-06-08T19:32:09Z,4,8,MERGED
+launchpad-ui,feat: use ComponentProps type to simplify intrinsic element props,https://github.com/launchdarkly/launchpad-ui/pull/851,2023-05-10T04:07:37Z,2023-05-11T14:34:48Z,4,1,MERGED
+launchpad-ui,feat(clipboard): Update component height to match other button heights,https://github.com/launchdarkly/launchpad-ui/pull/847,2023-04-27T20:15:27Z,2023-04-27T20:26:44Z,3,3,MERGED
+launchpad-ui,fix(menu): Allow different size shaped menu items when virtual,https://github.com/launchdarkly/launchpad-ui/pull/846,2023-04-24T21:36:55Z,2023-04-24T23:12:16Z,3,2,MERGED
+launchpad-ui,"Revert ""feat(menu): deprecate menuitemlink in favor of asChild""",https://github.com/launchdarkly/launchpad-ui/pull/845,2023-04-24T21:27:19Z,2023-04-26T14:24:34Z,2,1,CLOSED
+launchpad-ui,Fix z-index for toast notification,https://github.com/launchdarkly/launchpad-ui/pull/840,2023-04-21T18:18:00Z,2023-04-21T22:04:26Z,4,3,MERGED
+launchpad-ui,fix: support modal + drawer combo; fix drawer focus trap,https://github.com/launchdarkly/launchpad-ui/pull/837,2023-04-20T20:00:40Z,2023-04-21T16:03:11Z,5,4,MERGED
+launchpad-ui,feat(filter): add searchId to associate labels with filter search,https://github.com/launchdarkly/launchpad-ui/pull/836,2023-04-20T19:46:27Z,2023-04-20T22:38:55Z,2,3,MERGED
+launchpad-ui,feat(menu): deprecate menuitemlink in favor of asChild,https://github.com/launchdarkly/launchpad-ui/pull/835,2023-04-20T18:33:19Z,2023-04-21T18:32:56Z,2,3,MERGED
+launchpad-ui,fix: changeset file syntax error,https://github.com/launchdarkly/launchpad-ui/pull/834,2023-04-18T15:02:38Z,2023-04-18T15:08:13Z,2,1,MERGED
+launchpad-ui,feat(filter): add ariaLabel as prop to Filter + FilterButton,https://github.com/launchdarkly/launchpad-ui/pull/832,2023-04-17T18:25:28Z,2023-04-18T14:48:13Z,3,3,MERGED
+launchpad-ui,feat(filter): add disabled prop to disable Filter,https://github.com/launchdarkly/launchpad-ui/pull/828,2023-04-14T18:24:30Z,2023-04-17T18:13:50Z,3,2,MERGED
+launchpad-ui,feat(icons): add left panel open/close icons,https://github.com/launchdarkly/launchpad-ui/pull/826,2023-04-14T12:31:35Z,2023-04-14T13:09:23Z,3,1,MERGED
+launchpad-ui,feat(icons): add science and home,https://github.com/launchdarkly/launchpad-ui/pull/824,2023-04-13T15:26:56Z,2023-04-13T16:04:57Z,4,3,MERGED
+launchpad-ui,fix(button): don't include the type prop when asChild is true,https://github.com/launchdarkly/launchpad-ui/pull/822,2023-04-12T21:54:50Z,2023-04-13T14:05:12Z,2,1,MERGED
+launchpad-ui,fix(button): don't include the type prop when the Button kind is 'link',https://github.com/launchdarkly/launchpad-ui/pull/821,2023-04-12T21:22:44Z,2023-04-12T21:26:44Z,3,1,CLOSED
+launchpad-ui,"feat(clipboard): add experimental variants ""basic"" and ""minimal""",https://github.com/launchdarkly/launchpad-ui/pull/820,2023-04-12T19:36:41Z,2023-04-13T18:56:46Z,5,10,MERGED
+launchpad-ui,chore: create new release with lockfile change revert,https://github.com/launchdarkly/launchpad-ui/pull/818,2023-04-11T16:24:36Z,2023-04-11T16:27:16Z,2,1,MERGED
+launchpad-ui,chore(deps): revert lock file maintenance,https://github.com/launchdarkly/launchpad-ui/pull/817,2023-04-11T16:21:58Z,2023-04-11T16:22:48Z,1,1,MERGED
+launchpad-ui,fix(popover): remove ref merging logic,https://github.com/launchdarkly/launchpad-ui/pull/815,2023-04-11T15:28:32Z,2023-04-11T15:32:45Z,2,1,MERGED
+launchpad-ui,feat(chip): add error chip,https://github.com/launchdarkly/launchpad-ui/pull/812,2023-04-05T15:22:23Z,2023-04-05T15:38:56Z,2,2,MERGED
+launchpad-ui,fix(popover): fix accessibility issue for popover,https://github.com/launchdarkly/launchpad-ui/pull/811,2023-04-04T15:53:36Z,2023-04-05T15:42:22Z,3,2,MERGED
+launchpad-ui,"feat(dropdown): allow disabling focus restoration behavior with a new ""restoreFocus"" prop",https://github.com/launchdarkly/launchpad-ui/pull/810,2023-04-03T19:21:16Z,2023-04-03T20:53:06Z,3,2,CLOSED
+launchpad-ui,fix(popover): merge target refs,https://github.com/launchdarkly/launchpad-ui/pull/809,2023-04-03T18:38:57Z,2023-04-03T19:14:31Z,2,3,MERGED
+launchpad-ui,fix(modal): use modal description as aria-describedby,https://github.com/launchdarkly/launchpad-ui/pull/942,2023-07-31T21:24:31Z,2023-08-01T13:05:00Z,2,2,MERGED
+launchpad-ui,refactor(tag)!: remove `onTagClick` prop,https://github.com/launchdarkly/launchpad-ui/pull/941,2023-07-31T20:28:20Z,2023-10-16T13:47:36Z,2,4,CLOSED
+launchpad-ui,feat: add inline-edit package,https://github.com/launchdarkly/launchpad-ui/pull/938,2023-07-24T20:49:35Z,2023-07-26T20:43:53Z,9,26,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/936,2023-07-24T13:30:52Z,2023-07-26T20:53:16Z,1,1,MERGED
+launchpad-ui,refactor(markdown): use es6 imports for isomorphic-dompurify,https://github.com/launchdarkly/launchpad-ui/pull/932,2023-07-21T14:17:49Z,2023-07-24T13:29:48Z,2,2,MERGED
+launchpad-ui,ci: get chromatic token from aws,https://github.com/launchdarkly/launchpad-ui/pull/931,2023-07-21T14:03:44Z,2023-07-24T14:22:52Z,2,2,MERGED
+launchpad-ui,feat(icons): add unique id prefix and allow empty path,https://github.com/launchdarkly/launchpad-ui/pull/930,2023-07-20T18:06:32Z,2023-07-20T19:03:30Z,4,6,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/928,2023-07-18T13:59:30Z,2023-07-20T19:33:48Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/927,2023-07-17T17:33:53Z,2023-07-17T17:41:36Z,1,1,MERGED
+launchpad-ui,fix(icons): update grid-3x3 viewbox,https://github.com/launchdarkly/launchpad-ui/pull/926,2023-07-17T17:24:06Z,2023-07-17T17:32:55Z,2,2,MERGED
+launchpad-ui,fix: update Storybook decorator to capture full page in Chromatic,https://github.com/launchdarkly/launchpad-ui/pull/925,2023-07-17T13:39:34Z,2023-07-17T17:20:06Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/923,2023-07-13T15:31:05Z,2023-07-13T19:39:02Z,1,1,MERGED
+launchpad-ui,refactor(tokens)!: add base suffix,https://github.com/launchdarkly/launchpad-ui/pull/922,2023-07-13T13:54:12Z,2023-07-13T15:30:08Z,2,4,MERGED
+launchpad-ui,fix(textField): disable password managers from adding autofill icon to input,https://github.com/launchdarkly/launchpad-ui/pull/921,2023-07-12T20:01:41Z,2023-07-12T21:01:10Z,4,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/920,2023-07-12T18:24:54Z,2023-07-13T13:27:33Z,1,1,MERGED
+launchpad-ui,fix: icon alignment for chip,https://github.com/launchdarkly/launchpad-ui/pull/919,2023-07-12T17:37:36Z,2023-07-12T18:23:47Z,4,3,MERGED
+launchpad-ui,refactor(icons)!: use sprites for icons instead of individual components,https://github.com/launchdarkly/launchpad-ui/pull/917,2023-07-11T17:57:43Z,2023-07-13T18:35:19Z,3,13,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/908,2023-07-07T18:17:31Z,2023-07-10T15:03:12Z,1,1,MERGED
+launchpad-ui,ci: benchmark style sheet sizes,https://github.com/launchdarkly/launchpad-ui/pull/906,2023-07-06T19:44:15Z,2023-07-07T14:18:32Z,2,1,MERGED
+launchpad-ui,feat: add vars package,https://github.com/launchdarkly/launchpad-ui/pull/905,2023-07-06T17:31:10Z,2023-07-07T18:15:52Z,3,5,MERGED
+launchpad-ui,fix: prevent css injection by forbidding style tags in Markdown component + adding base allowed tags,https://github.com/launchdarkly/launchpad-ui/pull/897,2023-06-30T02:06:03Z,2023-06-30T19:07:45Z,3,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/896,2023-06-29T17:19:01Z,2023-07-05T14:40:50Z,1,1,MERGED
+launchpad-ui,fix(tokens): update text-ui-tertiary (dark) to gray-500,https://github.com/launchdarkly/launchpad-ui/pull/895,2023-06-29T14:08:50Z,2023-06-29T17:18:01Z,2,5,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/894,2023-06-29T13:36:49Z,2023-06-29T13:50:18Z,1,1,MERGED
+launchpad-ui,feat: add inline and columns packages,https://github.com/launchdarkly/launchpad-ui/pull/892,2023-06-28T21:03:01Z,2023-06-29T13:35:24Z,2,6,MERGED
+launchpad-ui,feat(modal)!: add and update sizes,https://github.com/launchdarkly/launchpad-ui/pull/890,2023-06-27T19:25:38Z,2023-06-28T13:09:36Z,2,3,MERGED
+launchpad-ui,feat: add side-by-side theme in Storybook for snapshots,https://github.com/launchdarkly/launchpad-ui/pull/889,2023-06-27T19:19:36Z,2023-06-28T19:01:20Z,2,5,MERGED
+launchpad-ui,ci: update checks to make them required,https://github.com/launchdarkly/launchpad-ui/pull/887,2023-06-26T14:29:42Z,2023-06-26T17:30:54Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/884,2023-06-20T22:08:52Z,2023-06-28T16:02:06Z,1,1,MERGED
+launchpad-ui,ci: use GitHub PAT for changesets action,https://github.com/launchdarkly/launchpad-ui/pull/883,2023-06-20T21:19:36Z,2023-06-20T22:07:41Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/882,2023-06-20T21:10:02Z,2023-06-20T21:19:51Z,1,1,CLOSED
+launchpad-ui,feat: add stack and types packages,https://github.com/launchdarkly/launchpad-ui/pull/880,2023-06-14T14:21:50Z,2023-06-20T22:25:42Z,3,4,MERGED
+launchpad-ui,fix: import named export from classix,https://github.com/launchdarkly/launchpad-ui/pull/876,2023-06-12T15:27:35Z,2023-06-12T15:33:13Z,2,2,MERGED
+launchpad-ui,feat: suppress errors in Avatar when fetching image,https://github.com/launchdarkly/launchpad-ui/pull/875,2023-06-12T15:10:48Z,2023-06-12T15:29:55Z,2,1,MERGED
+launchpad-ui,chore: add repo info to core package.json,https://github.com/launchdarkly/launchpad-ui/pull/874,2023-06-09T13:43:22Z,2023-06-09T14:09:56Z,2,1,MERGED
+launchpad-ui,perf: enable storyStoreV7 to lazy load stories,https://github.com/launchdarkly/launchpad-ui/pull/872,2023-06-07T19:13:21Z,2023-06-07T19:35:23Z,3,1,CLOSED
+launchpad-ui,chore(tag)!: update React Aria tag,https://github.com/launchdarkly/launchpad-ui/pull/871,2023-06-07T17:43:06Z,2023-06-07T19:33:37Z,2,2,MERGED
+launchpad-ui,chore: update vitest,https://github.com/launchdarkly/launchpad-ui/pull/869,2023-06-06T20:56:45Z,2023-06-07T13:07:57Z,2,1,MERGED
+launchpad-ui,refactor(core)!: use named exports,https://github.com/launchdarkly/launchpad-ui/pull/864,2023-06-05T19:46:13Z,2023-06-06T20:01:48Z,4,2,MERGED
+launchpad-ui,chore: update dev dependencies,https://github.com/launchdarkly/launchpad-ui/pull/860,2023-06-01T20:42:23Z,2023-06-02T18:36:37Z,4,4,MERGED
+launchpad-ui,feat: Update color steps from 9 to 12,https://github.com/launchdarkly/launchpad-ui/pull/1068,2023-10-31T17:48:37Z,2023-11-06T19:23:47Z,3,17,MERGED
+launchpad-ui,feat: add box package,https://github.com/launchdarkly/launchpad-ui/pull/1067,2023-10-31T15:53:08Z,2023-11-14T21:29:56Z,13,12,MERGED
+launchpad-ui,[WIP] feat: add build script to auto generate types.ts,https://github.com/launchdarkly/launchpad-ui/pull/1064,2023-10-27T16:32:52Z,2025-01-16T07:31:51Z,1,2,CLOSED
+launchpad-ui,feat: org settings icons and updates,https://github.com/launchdarkly/launchpad-ui/pull/1063,2023-10-26T23:03:47Z,2023-10-27T13:21:26Z,2,3,MERGED
+launchpad-ui,docs: add getting started page to SB,https://github.com/launchdarkly/launchpad-ui/pull/1062,2023-10-24T20:40:45Z,2023-10-25T13:37:28Z,2,2,MERGED
+launchpad-ui,chore: version packages (alpha),https://github.com/launchdarkly/launchpad-ui/pull/1061,2023-10-24T13:54:37Z,2023-11-06T20:13:20Z,1,1,MERGED
+launchpad-ui,fix(tokens): keep css color keywords,https://github.com/launchdarkly/launchpad-ui/pull/1060,2023-10-24T13:32:47Z,2023-10-24T13:53:35Z,2,3,MERGED
+launchpad-ui,chore: update to node 20,https://github.com/launchdarkly/launchpad-ui/pull/1057,2023-10-23T14:36:48Z,2023-10-24T13:39:35Z,2,2,CLOSED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1055,2023-10-23T13:42:01Z,2023-10-27T13:33:12Z,1,1,MERGED
+launchpad-ui,fix: correct tokens alpha version,https://github.com/launchdarkly/launchpad-ui/pull/1051,2023-10-20T15:17:58Z,2023-10-20T15:28:24Z,2,1,MERGED
+launchpad-ui,chore: version packages (alpha),https://github.com/launchdarkly/launchpad-ui/pull/1050,2023-10-20T15:11:17Z,2023-10-20T15:39:13Z,1,1,MERGED
+launchpad-ui,chore: merge branch 'main' into release/color-refresh,https://github.com/launchdarkly/launchpad-ui/pull/1049,2023-10-20T14:52:56Z,2023-10-20T15:10:15Z,2,15,MERGED
+launchpad-ui,feat: building and door icons,https://github.com/launchdarkly/launchpad-ui/pull/1048,2023-10-19T20:44:29Z,2023-10-19T20:58:09Z,2,3,MERGED
+launchpad-ui,"chore: revert ""chore: version packages (alpha)""",https://github.com/launchdarkly/launchpad-ui/pull/1047,2023-10-19T20:36:34Z,2023-10-19T20:55:56Z,2,1,CLOSED
+launchpad-ui,refactor(menu): use CSS modules,https://github.com/launchdarkly/launchpad-ui/pull/1046,2023-10-19T19:42:52Z,2023-10-19T20:00:14Z,2,3,MERGED
+launchpad-ui,chore: version packages (alpha),https://github.com/launchdarkly/launchpad-ui/pull/1045,2023-10-19T19:26:06Z,2023-10-19T20:10:16Z,1,1,MERGED
+launchpad-ui,docs: add ADR for component foundation,https://github.com/launchdarkly/launchpad-ui/pull/1044,2023-10-19T15:01:10Z,2023-11-13T18:05:53Z,2,1,MERGED
+launchpad-ui,feat: refresh menu component,https://github.com/launchdarkly/launchpad-ui/pull/1043,2023-10-19T05:31:56Z,2023-10-19T19:24:59Z,2,5,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1042,2023-10-17T18:28:01Z,2023-10-19T21:06:51Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1041,2023-10-16T17:02:17Z,2023-10-16T17:31:52Z,1,1,MERGED
+launchpad-ui,"feat(tokens, icons, alert): add new tokens and icons",https://github.com/launchdarkly/launchpad-ui/pull/1038,2023-10-13T19:34:53Z,2023-10-16T17:01:27Z,5,6,MERGED
+launchpad-ui,feat(tokens): add typography tokens,https://github.com/launchdarkly/launchpad-ui/pull/1037,2023-10-12T20:23:38Z,2023-10-13T14:37:56Z,2,4,MERGED
+launchpad-ui,chore: merge branch 'main' into release/color-refresh,https://github.com/launchdarkly/launchpad-ui/pull/1036,2023-10-11T14:31:39Z,2023-10-11T15:49:46Z,2,6,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1034,2023-10-09T20:13:26Z,2023-10-09T20:23:43Z,1,1,MERGED
+launchpad-ui,refactor!: use base 16 font size,https://github.com/launchdarkly/launchpad-ui/pull/1033,2023-10-09T19:47:08Z,2023-10-09T20:12:22Z,2,4,MERGED
+launchpad-ui,feat(tokens): add primitive size tokens,https://github.com/launchdarkly/launchpad-ui/pull/1031,2023-10-07T01:35:01Z,2023-10-17T18:26:41Z,4,15,MERGED
+launchpad-ui,refactor(button): convert to css modules,https://github.com/launchdarkly/launchpad-ui/pull/1030,2023-10-06T13:35:47Z,2023-10-06T14:37:11Z,3,4,MERGED
+launchpad-ui,refactor(tokens)!: update color primitives and aliases for product refresh,https://github.com/launchdarkly/launchpad-ui/pull/1029,2023-10-04T20:27:30Z,2023-10-10T20:34:07Z,2,9,MERGED
+launchpad-ui,chore: version packages (alpha),https://github.com/launchdarkly/launchpad-ui/pull/1028,2023-10-04T20:06:04Z,2023-10-13T14:47:31Z,1,1,MERGED
+launchpad-ui,fix(alert): update link icon,https://github.com/launchdarkly/launchpad-ui/pull/1027,2023-10-04T18:46:50Z,2023-10-04T18:53:23Z,1,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1026,2023-10-04T18:34:03Z,2023-10-04T19:03:54Z,1,1,MERGED
+launchpad-ui,refactor(icons)!: update all icons for IA visual design and icon refresh,https://github.com/launchdarkly/launchpad-ui/pull/1025,2023-10-04T17:30:55Z,2023-10-04T17:52:26Z,2,4,MERGED
+launchpad-ui,chore: exit prerelease mode,https://github.com/launchdarkly/launchpad-ui/pull/1024,2023-10-04T17:22:42Z,2023-10-04T17:26:59Z,2,1,CLOSED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1022,2023-10-04T13:55:07Z,2023-10-04T18:06:01Z,1,1,MERGED
+launchpad-ui,feat: support 'notification' alert + action elements,https://github.com/launchdarkly/launchpad-ui/pull/1021,2023-10-03T19:51:58Z,2023-10-04T18:33:07Z,3,2,MERGED
+launchpad-ui,feat(tokens)!: move color primitives to themes.css,https://github.com/launchdarkly/launchpad-ui/pull/1020,2023-10-02T15:24:13Z,2023-10-04T20:05:01Z,2,7,MERGED
+launchpad-ui,chore: version packages (alpha),https://github.com/launchdarkly/launchpad-ui/pull/1018,2023-09-29T20:42:09Z,2023-10-02T13:20:03Z,1,1,MERGED
+launchpad-ui,chore: enter prerelease mode,https://github.com/launchdarkly/launchpad-ui/pull/1017,2023-09-28T19:56:05Z,2023-09-28T20:27:03Z,2,1,MERGED
+launchpad-ui,refactor(icons)!: update all icons for IA visual design and icon refresh ,https://github.com/launchdarkly/launchpad-ui/pull/1016,2023-09-27T07:56:42Z,2023-09-29T20:41:14Z,7,195,MERGED
+launchpad-ui,chore(navigation): update to react-router-dom@6.16.0,https://github.com/launchdarkly/launchpad-ui/pull/1014,2023-09-25T17:28:21Z,2023-09-25T17:52:30Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1013,2023-09-25T17:07:53Z,2023-09-25T18:05:38Z,1,1,MERGED
+launchpad-ui,fix(menu item): update disabled styling,https://github.com/launchdarkly/launchpad-ui/pull/1011,2023-09-22T22:44:11Z,2023-09-25T17:06:44Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1010,2023-09-22T19:02:13Z,2023-09-22T19:13:41Z,1,1,MERGED
+launchpad-ui,"feat(tokens): add new ""primary-flair"" color tokens",https://github.com/launchdarkly/launchpad-ui/pull/1009,2023-09-22T18:29:24Z,2023-09-22T19:01:13Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1008,2023-09-21T19:32:38Z,2023-09-21T19:57:10Z,1,1,MERGED
+launchpad-ui,fix(icons): use correct path values for experiment and release,https://github.com/launchdarkly/launchpad-ui/pull/1007,2023-09-21T19:18:07Z,2023-09-21T19:31:38Z,2,2,MERGED
+launchpad-ui,fix: wait for portals to be visible in a11y tests,https://github.com/launchdarkly/launchpad-ui/pull/1006,2023-09-19T15:02:59Z,2023-09-19T15:25:50Z,2,2,MERGED
+launchpad-ui,feat(icon): add vector icon,https://github.com/launchdarkly/launchpad-ui/pull/1005,2023-09-18T21:10:28Z,2023-09-19T21:53:17Z,3,4,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1004,2023-09-18T13:37:28Z,2023-09-20T13:24:42Z,1,1,MERGED
+launchpad-ui,chore(icon): remove fixed size for inner icon in FlairIcon and absolu…,https://github.com/launchdarkly/launchpad-ui/pull/1001,2023-09-15T19:39:39Z,2023-09-18T21:21:59Z,3,3,MERGED
+launchpad-ui,feat(icon): add icons for Release Impact,https://github.com/launchdarkly/launchpad-ui/pull/1000,2023-09-14T22:20:21Z,2023-09-15T15:16:45Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/998,2023-09-11T13:40:16Z,2023-09-15T15:29:02Z,1,1,MERGED
+launchpad-ui,"chore(icon): remove new, inactive, launched icons",https://github.com/launchdarkly/launchpad-ui/pull/995,2023-09-06T00:32:12Z,2023-09-06T15:59:31Z,2,1,CLOSED
+launchpad-ui,fix(menu): fix custom class names not getting applied to disabled menu items,https://github.com/launchdarkly/launchpad-ui/pull/994,2023-09-05T21:56:10Z,2023-09-06T14:06:13Z,2,2,MERGED
+launchpad-ui,feat(inline-edit): allow to render `IconField`,https://github.com/launchdarkly/launchpad-ui/pull/993,2023-09-05T20:13:08Z,2023-09-06T14:00:11Z,5,8,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/992,2023-09-05T13:32:33Z,2023-09-06T15:59:22Z,1,1,MERGED
+launchpad-ui,"feat(icon): update ""new"", ""active"", ""inactive"", and ""status"" icons",https://github.com/launchdarkly/launchpad-ui/pull/986,2023-09-01T01:25:34Z,2023-09-05T23:04:08Z,7,9,MERGED
+launchpad-ui,chore: update nx config,https://github.com/launchdarkly/launchpad-ui/pull/985,2023-08-31T18:17:43Z,2023-08-31T18:24:28Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/984,2023-08-30T18:05:01Z,2023-08-30T18:15:25Z,1,1,MERGED
+launchpad-ui,"feat(icon): add brain, filter list, hub and money",https://github.com/launchdarkly/launchpad-ui/pull/983,2023-08-30T17:34:48Z,2023-08-30T18:04:12Z,5,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/982,2023-08-30T17:12:25Z,2023-08-30T17:21:31Z,1,1,MERGED
+launchpad-ui,"chore(icon): fix experiment and release icons, remove redundant icons",https://github.com/launchdarkly/launchpad-ui/pull/981,2023-08-29T16:40:00Z,2023-08-30T17:11:18Z,2,1,MERGED
+launchpad-ui,"feat(icon): add warning-circle and experiment, remove bar-chart, remo…",https://github.com/launchdarkly/launchpad-ui/pull/980,2023-08-28T16:27:36Z,2023-08-28T16:58:45Z,3,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/979,2023-08-28T13:50:30Z,2023-08-28T17:12:18Z,1,1,MERGED
+launchpad-ui,feat(button): implement new button flair styles & tokens,https://github.com/launchdarkly/launchpad-ui/pull/977,2023-08-23T17:34:34Z,2023-08-23T18:26:41Z,10,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/976,2023-08-22T19:32:53Z,2023-08-23T18:55:40Z,1,1,MERGED
+launchpad-ui,"feat(icon): add arrow-right-thin-circle, bar chart, and release icons",https://github.com/launchdarkly/launchpad-ui/pull/975,2023-08-22T10:11:50Z,2023-08-22T19:31:55Z,3,1,MERGED
+launchpad-ui,feat(icon): add bar chart and release icons,https://github.com/launchdarkly/launchpad-ui/pull/974,2023-08-22T05:11:14Z,2023-08-22T05:21:10Z,4,1,CLOSED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/972,2023-08-17T19:38:34Z,2023-08-17T20:01:29Z,1,1,MERGED
+launchpad-ui,ci: run a11y tests on stories,https://github.com/launchdarkly/launchpad-ui/pull/971,2023-08-17T17:17:51Z,2023-08-31T16:56:22Z,5,12,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/970,2023-08-17T17:02:03Z,2023-08-17T17:44:07Z,1,1,MERGED
+launchpad-ui,"feat(icon): add application, individual target, prerequisite, segment and gear icons ",https://github.com/launchdarkly/launchpad-ui/pull/969,2023-08-17T14:27:11Z,2023-08-17T17:01:06Z,3,3,MERGED
+launchpad-ui,feat(data-table): add column resizing,https://github.com/launchdarkly/launchpad-ui/pull/968,2023-08-16T19:12:58Z,2023-08-17T19:37:34Z,5,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/967,2023-08-15T18:35:43Z,2023-08-16T18:30:02Z,1,1,MERGED
+launchpad-ui,chore: update FormField label type,https://github.com/launchdarkly/launchpad-ui/pull/966,2023-08-15T16:34:31Z,2023-08-15T16:55:37Z,3,2,CLOSED
+launchpad-ui,ci: include react aria patches for renovate,https://github.com/launchdarkly/launchpad-ui/pull/964,2023-08-14T20:23:59Z,2023-08-15T13:43:13Z,2,1,MERGED
+launchpad-ui,feat(icon): added rerun icon,https://github.com/launchdarkly/launchpad-ui/pull/963,2023-08-14T19:02:06Z,2023-08-15T18:34:57Z,4,5,MERGED
+launchpad-ui,feat: add data-table package,https://github.com/launchdarkly/launchpad-ui/pull/962,2023-08-14T17:03:41Z,2023-08-14T19:58:39Z,5,15,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/961,2023-08-14T14:04:10Z,2023-08-15T14:08:13Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/956,2023-08-09T20:37:18Z,2023-08-09T20:45:20Z,1,1,MERGED
+launchpad-ui,"feat(icon): Add mobile, server, and browser icons",https://github.com/launchdarkly/launchpad-ui/pull/955,2023-08-07T19:17:46Z,2023-08-09T20:36:10Z,4,5,MERGED
+launchpad-ui,refactor(select)!: remove `SelectItem` and `SelectSection`,https://github.com/launchdarkly/launchpad-ui/pull/951,2023-08-04T19:46:34Z,2023-10-16T13:47:45Z,2,10,CLOSED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/950,2023-08-03T13:57:34Z,2023-08-07T16:29:22Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/948,2023-08-02T17:09:34Z,2023-08-02T17:26:22Z,1,1,MERGED
+launchpad-ui,fix: annotate pure functions,https://github.com/launchdarkly/launchpad-ui/pull/947,2023-08-02T14:25:48Z,2023-08-02T17:08:07Z,2,3,MERGED
+launchpad-ui,feat(inline-edit): forward ref and spread additional props,https://github.com/launchdarkly/launchpad-ui/pull/946,2023-08-02T13:55:26Z,2023-08-02T15:31:19Z,3,4,MERGED
+launchpad-ui,feat(card): add card component,https://github.com/launchdarkly/launchpad-ui/pull/945,2023-08-01T21:13:27Z,2023-08-16T18:14:33Z,13,25,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/944,2023-08-01T13:55:04Z,2023-08-02T15:44:42Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/943,2023-08-01T13:05:44Z,2023-08-01T13:36:39Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1116,2023-12-26T14:29:41Z,2023-12-26T15:13:40Z,1,1,MERGED
+launchpad-ui,feat: add 'circles' icon,https://github.com/launchdarkly/launchpad-ui/pull/1113,2023-12-20T16:58:29Z,2023-12-26T14:28:52Z,4,2,MERGED
+launchpad-ui,fix: use proper type for exposing tooltip options on MenuItem,https://github.com/launchdarkly/launchpad-ui/pull/1112,2023-12-19T15:54:08Z,2024-01-02T19:34:36Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1111,2023-12-18T22:44:56Z,2023-12-18T23:16:04Z,1,1,MERGED
+launchpad-ui,feat(icons): add new arrow-connect icons,https://github.com/launchdarkly/launchpad-ui/pull/1108,2023-12-15T21:01:20Z,2023-12-18T22:44:16Z,7,3,MERGED
+launchpad-ui,fix: chromatic builds,https://github.com/launchdarkly/launchpad-ui/pull/1107,2023-12-15T16:59:20Z,2023-12-15T18:03:49Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1106,2023-12-15T16:21:59Z,2023-12-15T20:02:43Z,1,1,MERGED
+launchpad-ui,chore: migrate to @storybook/test,https://github.com/launchdarkly/launchpad-ui/pull/1101,2023-12-07T14:25:52Z,2023-12-07T15:53:29Z,2,2,MERGED
+launchpad-ui,feat: add components package,https://github.com/launchdarkly/launchpad-ui/pull/1100,2023-12-05T21:49:04Z,2023-12-15T16:21:15Z,2,18,MERGED
+launchpad-ui,chore: update vitest to v1,https://github.com/launchdarkly/launchpad-ui/pull/1099,2023-12-05T15:00:47Z,2023-12-05T15:09:24Z,1,1,MERGED
+launchpad-ui,fix(tokens): update small to use semibold,https://github.com/launchdarkly/launchpad-ui/pull/1090,2023-11-21T15:36:13Z,2023-11-21T15:49:15Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1089,2023-11-21T15:29:01Z,2023-11-21T16:04:44Z,1,1,MERGED
+launchpad-ui,feat(box): add typography tokens,https://github.com/launchdarkly/launchpad-ui/pull/1087,2023-11-21T14:22:28Z,2023-11-21T15:28:19Z,2,3,MERGED
+launchpad-ui,fix: type check all files,https://github.com/launchdarkly/launchpad-ui/pull/1086,2023-11-20T16:34:26Z,2023-11-21T14:11:10Z,2,3,MERGED
+launchpad-ui,feat!: color refresh,https://github.com/launchdarkly/launchpad-ui/pull/1084,2023-11-17T15:29:47Z,2023-11-17T16:58:28Z,2,21,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1083,2023-11-17T14:29:50Z,2023-11-17T17:13:19Z,1,1,MERGED
+launchpad-ui,feat(box): add css props and interactive conditions,https://github.com/launchdarkly/launchpad-ui/pull/1081,2023-11-15T15:40:21Z,2023-11-17T14:29:10Z,2,4,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1080,2023-11-13T15:20:43Z,2023-11-14T21:52:02Z,1,1,MERGED
+launchpad-ui,chore: merge branch 'main' into release/color-refresh,https://github.com/launchdarkly/launchpad-ui/pull/1073,2023-11-02T18:25:48Z,2023-11-06T19:27:54Z,1,28,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1071,2023-11-01T17:01:36Z,2023-11-01T18:07:44Z,1,1,MERGED
+launchpad-ui,feat: add diamond and diamond-outline icons,https://github.com/launchdarkly/launchpad-ui/pull/1070,2023-11-01T16:01:03Z,2023-11-01T17:00:59Z,2,1,MERGED
+launchpad-ui,feat(icons): add tag icon,https://github.com/launchdarkly/launchpad-ui/pull/1222,2024-03-29T14:23:09Z,2024-03-29T16:31:28Z,2,1,MERGED
+launchpad-ui,refactor(components): use `Group` in `ButtonGroup`,https://github.com/launchdarkly/launchpad-ui/pull/1221,2024-03-28T20:03:03Z,2024-03-29T16:37:01Z,2,2,MERGED
+launchpad-ui,chore: add editorconfig,https://github.com/launchdarkly/launchpad-ui/pull/1220,2024-03-28T14:15:57Z,2024-03-28T14:21:53Z,2,1,MERGED
+launchpad-ui,feat(components): make `Modal` dismissable by default,https://github.com/launchdarkly/launchpad-ui/pull/1219,2024-03-27T14:25:42Z,2024-03-27T14:30:09Z,2,1,MERGED
+launchpad-ui,feat(components): add `LinkIconButton`,https://github.com/launchdarkly/launchpad-ui/pull/1218,2024-03-27T14:05:27Z,2024-03-27T14:41:12Z,3,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1217,2024-03-26T14:22:17Z,2024-03-29T17:01:20Z,1,1,MERGED
+launchpad-ui,chore: update biome to v1.6,https://github.com/launchdarkly/launchpad-ui/pull/1215,2024-03-25T18:51:46Z,2024-03-26T13:13:39Z,2,1,MERGED
+launchpad-ui,feat(components): add `minimal` variant for fields,https://github.com/launchdarkly/launchpad-ui/pull/1214,2024-03-25T17:41:35Z,2024-04-03T13:47:39Z,2,8,MERGED
+launchpad-ui,fix(components): ensure `Tooltip` content can be hovered,https://github.com/launchdarkly/launchpad-ui/pull/1212,2024-03-22T17:36:33Z,2024-03-26T14:21:31Z,3,1,MERGED
+launchpad-ui,fix: ensure RAC portals are included in axe scans,https://github.com/launchdarkly/launchpad-ui/pull/1211,2024-03-21T20:56:55Z,2024-03-22T13:21:16Z,4,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1210,2024-03-21T19:39:23Z,2024-03-21T20:05:55Z,1,1,MERGED
+launchpad-ui,feat(components): set `Group` context within `TextField`,https://github.com/launchdarkly/launchpad-ui/pull/1209,2024-03-21T19:12:35Z,2024-03-21T19:26:59Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1208,2024-03-21T17:13:14Z,2024-03-21T19:31:52Z,1,1,MERGED
+launchpad-ui,fix(components): ensure render props can be used as children,https://github.com/launchdarkly/launchpad-ui/pull/1207,2024-03-21T16:05:53Z,2024-03-21T17:12:40Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1206,2024-03-20T17:15:17Z,2024-03-20T17:23:07Z,1,1,MERGED
+launchpad-ui,fix(table): prop deletion,https://github.com/launchdarkly/launchpad-ui/pull/1205,2024-03-20T15:23:22Z,2024-03-20T17:14:40Z,2,1,MERGED
+launchpad-ui,fix: bump Storybook to correct show code,https://github.com/launchdarkly/launchpad-ui/pull/1204,2024-03-20T13:51:39Z,2024-03-20T13:57:52Z,2,1,MERGED
+launchpad-ui,fix(components): use interface instead of intersection,https://github.com/launchdarkly/launchpad-ui/pull/1203,2024-03-19T13:49:44Z,2024-03-19T15:04:48Z,2,3,MERGED
+launchpad-ui,fix(components): correct `ComboBox` popover size and position,https://github.com/launchdarkly/launchpad-ui/pull/1202,2024-03-18T14:52:49Z,2024-03-20T13:25:56Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1201,2024-03-15T20:26:40Z,2024-03-20T13:35:24Z,1,1,MERGED
+launchpad-ui,fix(components): adjust padding on `Tooltip` and `Input`,https://github.com/launchdarkly/launchpad-ui/pull/1200,2024-03-15T18:45:41Z,2024-03-15T20:26:00Z,2,1,MERGED
+launchpad-ui,chore: update storybook to v8,https://github.com/launchdarkly/launchpad-ui/pull/1199,2024-03-12T14:17:14Z,2024-03-13T13:21:11Z,2,7,MERGED
+launchpad-ui,fix(components): cast generics for forwardRef,https://github.com/launchdarkly/launchpad-ui/pull/1198,2024-03-11T20:32:28Z,2024-03-12T13:13:39Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1196,2024-03-07T21:36:09Z,2024-03-13T19:01:40Z,1,1,MERGED
+launchpad-ui,fix(components): prevent checkbox from shrinking,https://github.com/launchdarkly/launchpad-ui/pull/1195,2024-03-07T21:06:13Z,2024-03-07T21:35:39Z,2,1,MERGED
+launchpad-ui,fix(components): unset border radius for `Input` in `Group`,https://github.com/launchdarkly/launchpad-ui/pull/1194,2024-03-05T19:59:55Z,2024-03-05T20:06:20Z,2,1,MERGED
+launchpad-ui,refactor: simplify running a11y tests locally,https://github.com/launchdarkly/launchpad-ui/pull/1193,2024-03-05T19:45:19Z,2024-03-12T15:51:29Z,2,1,MERGED
+launchpad-ui,fix(components): override `forwardRef` to support generics,https://github.com/launchdarkly/launchpad-ui/pull/1192,2024-03-05T18:40:12Z,2024-03-05T18:45:08Z,3,1,MERGED
+launchpad-ui,feat(icons): add notifications-check icon,https://github.com/launchdarkly/launchpad-ui/pull/1191,2024-03-05T07:07:56Z,2024-03-05T14:11:14Z,2,2,MERGED
+launchpad-ui,chore: deprecate stories,https://github.com/launchdarkly/launchpad-ui/pull/1190,2024-03-04T15:47:35Z,2024-03-04T19:01:51Z,2,1,MERGED
+launchpad-ui,chore: remove remix app,https://github.com/launchdarkly/launchpad-ui/pull/1189,2024-03-04T14:34:25Z,2024-03-04T18:27:57Z,2,1,MERGED
+launchpad-ui,feat(components): use light-dark function,https://github.com/launchdarkly/launchpad-ui/pull/1186,2024-02-28T21:35:51Z,2024-03-04T18:33:57Z,3,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1184,2024-02-27T00:26:55Z,2024-03-05T20:36:10Z,1,1,MERGED
+launchpad-ui,chore: update chromatic to v11,https://github.com/launchdarkly/launchpad-ui/pull/1182,2024-02-22T18:44:45Z,2024-02-22T18:57:42Z,2,1,MERGED
+launchpad-ui,refactor: use biome for format and lint,https://github.com/launchdarkly/launchpad-ui/pull/1181,2024-02-22T17:00:32Z,2024-02-27T00:14:41Z,3,14,MERGED
+launchpad-ui,feat(components): add destructive `MenuItem` variant,https://github.com/launchdarkly/launchpad-ui/pull/1180,2024-02-21T19:12:20Z,2024-02-22T19:04:59Z,2,2,MERGED
+launchpad-ui,"feat(components): add `ListBox`, `Select`, and `ComboBox`",https://github.com/launchdarkly/launchpad-ui/pull/1179,2024-02-21T15:29:49Z,2024-02-22T19:18:17Z,2,11,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1178,2024-02-21T14:18:31Z,2024-02-22T19:24:20Z,1,1,MERGED
+launchpad-ui,feat(components): add `SubmenuTrigger`,https://github.com/launchdarkly/launchpad-ui/pull/1175,2024-02-15T14:30:34Z,2024-02-21T14:17:58Z,3,2,MERGED
+launchpad-ui,feat(components): add `Link` and `TagGroup`,https://github.com/launchdarkly/launchpad-ui/pull/1174,2024-02-14T21:02:20Z,2024-02-21T14:45:46Z,2,11,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1173,2024-02-14T19:06:54Z,2024-02-14T19:13:41Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1171,2024-02-12T14:11:46Z,2024-02-12T14:48:31Z,1,1,MERGED
+launchpad-ui,feat: match docs theme with ui and add mirror to toolbar for Storybook,https://github.com/launchdarkly/launchpad-ui/pull/1169,2024-02-08T21:01:10Z,2024-02-12T14:38:31Z,2,5,MERGED
+launchpad-ui,feat(icons): add api and visibility-scan icons,https://github.com/launchdarkly/launchpad-ui/pull/1168,2024-02-08T18:57:59Z,2024-02-08T19:08:33Z,2,2,MERGED
+launchpad-ui,feat: update bg and border tokens ,https://github.com/launchdarkly/launchpad-ui/pull/1167,2024-02-07T05:31:31Z,2024-03-21T19:38:37Z,7,6,MERGED
+launchpad-ui,"feat(components): add `RadioGroup`, `TextField`, `Group`, and `SearchField`",https://github.com/launchdarkly/launchpad-ui/pull/1166,2024-02-06T19:51:41Z,2024-02-12T14:11:04Z,3,11,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1165,2024-02-06T14:44:00Z,2024-02-08T19:28:15Z,1,1,MERGED
+launchpad-ui,"feat(components): add `Checkbox`, `CheckboxGroup`, `Label`, `Form`, and `FieldError`",https://github.com/launchdarkly/launchpad-ui/pull/1164,2024-02-05T15:17:13Z,2024-02-06T14:43:13Z,2,7,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1159,2024-02-02T20:07:08Z,2024-02-02T20:15:50Z,1,1,MERGED
+launchpad-ui,fix(components): align menu item contents,https://github.com/launchdarkly/launchpad-ui/pull/1158,2024-02-02T17:00:57Z,2024-02-02T20:06:30Z,2,6,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1157,2024-02-01T20:22:10Z,2024-02-01T20:28:35Z,1,1,MERGED
+launchpad-ui,chore: publish all packages impacted by class pattern change,https://github.com/launchdarkly/launchpad-ui/pull/1156,2024-02-01T20:14:32Z,2024-02-01T20:21:31Z,2,1,MERGED
+launchpad-ui,"feat(components)!: add `Menu`, `MenuItem`, `MenuTrigger`, `Header`, `Keyboard`, `Section`, `Separator`, and `Text`",https://github.com/launchdarkly/launchpad-ui/pull/1154,2024-01-31T21:41:10Z,2024-02-01T19:42:46Z,4,12,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1153,2024-01-31T20:07:31Z,2024-02-01T19:51:48Z,1,1,MERGED
+launchpad-ui,feat(components): add `Modal` and `ModalOverlay`,https://github.com/launchdarkly/launchpad-ui/pull/1152,2024-01-30T14:44:29Z,2024-01-31T20:06:59Z,4,13,MERGED
+launchpad-ui,"feat(icons): add key, chart-bar, and chart-line icons",https://github.com/launchdarkly/launchpad-ui/pull/1149,2024-01-26T18:49:59Z,2024-01-29T14:42:03Z,2,2,MERGED
+launchpad-ui,feat(components): add `Switch`,https://github.com/launchdarkly/launchpad-ui/pull/1148,2024-01-25T15:34:26Z,2024-01-26T18:41:39Z,3,6,MERGED
+launchpad-ui,fix: run a11y tests on dark mode,https://github.com/launchdarkly/launchpad-ui/pull/1147,2024-01-25T14:36:32Z,2024-01-25T14:45:35Z,2,2,MERGED
+launchpad-ui,"feat(components): add `Dialog`, `DialogTrigger`, `Heading`, `OverlayArrow`, and `Popover`",https://github.com/launchdarkly/launchpad-ui/pull/1146,2024-01-23T21:47:42Z,2024-01-24T22:10:22Z,3,5,MERGED
+launchpad-ui,refactor(components): replace pseudo selectors with RAC data attributes,https://github.com/launchdarkly/launchpad-ui/pull/1145,2024-01-23T16:36:33Z,2024-01-23T18:25:12Z,3,5,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1144,2024-01-22T21:07:39Z,2024-01-29T15:14:17Z,1,1,MERGED
+launchpad-ui,feat(components): add `Tooltip` and `TooltipTrigger`,https://github.com/launchdarkly/launchpad-ui/pull/1143,2024-01-22T18:23:23Z,2024-01-22T21:06:52Z,2,12,MERGED
+launchpad-ui,refactor: use storybook modes for chromatic,https://github.com/launchdarkly/launchpad-ui/pull/1138,2024-01-19T19:31:17Z,2024-01-22T16:55:25Z,2,4,MERGED
+launchpad-ui,refactor(icons)!: update svg viewbox from 24 to 20,https://github.com/launchdarkly/launchpad-ui/pull/1137,2024-01-17T03:43:34Z,2024-01-18T17:01:03Z,2,8,MERGED
+launchpad-ui,refactor(components): use CSS modules and Lightning CSS for styles,https://github.com/launchdarkly/launchpad-ui/pull/1136,2024-01-16T22:06:35Z,2024-01-18T19:46:28Z,3,10,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1133,2024-01-11T21:15:10Z,2024-01-18T19:55:17Z,1,1,MERGED
+launchpad-ui,"feat(components): add `Button`, `ButtonGroup`, `IconButton`, and `LinkButton`",https://github.com/launchdarkly/launchpad-ui/pull/1132,2024-01-11T19:30:24Z,2024-01-16T21:33:18Z,6,14,MERGED
+launchpad-ui,feat(icon): add arrows-maximize and fix svg for circles,https://github.com/launchdarkly/launchpad-ui/pull/1131,2024-01-11T16:46:17Z,2024-01-11T21:14:29Z,3,2,MERGED
+launchpad-ui,chore: update artifact actions to v4,https://github.com/launchdarkly/launchpad-ui/pull/1130,2024-01-10T21:10:22Z,2024-01-11T14:16:59Z,2,3,MERGED
+launchpad-ui,fix: update lockfile,https://github.com/launchdarkly/launchpad-ui/pull/1129,2024-01-09T14:29:24Z,2024-01-09T14:52:10Z,1,1,MERGED
+launchpad-ui,feat: add crown and crown-outline icons,https://github.com/launchdarkly/launchpad-ui/pull/1126,2024-01-05T19:22:04Z,2024-01-09T13:57:13Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1125,2024-01-05T15:08:08Z,2024-01-09T15:29:45Z,1,1,MERGED
+launchpad-ui,refactor(components): use vanilla-extract for styles,https://github.com/launchdarkly/launchpad-ui/pull/1124,2024-01-04T21:54:33Z,2024-01-05T15:07:23Z,3,5,MERGED
+launchpad-ui,chore: migrate to @storybook/test,https://github.com/launchdarkly/launchpad-ui/pull/1123,2024-01-02T21:38:48Z,2024-01-09T14:26:28Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1122,2024-01-02T18:15:44Z,2024-01-02T19:41:24Z,1,1,MERGED
+launchpad-ui,chore(deps): update dependency stylelint to v16,https://github.com/launchdarkly/launchpad-ui/pull/1121,2024-01-02T15:18:32Z,2024-01-02T16:13:26Z,2,1,MERGED
+launchpad-ui,"feat(components): add `Calendar`, `DateField`, `DatePicker`, `DateRangePicker`, `RangeCalendar`, and `TimeField`",https://github.com/launchdarkly/launchpad-ui/pull/1321,2024-05-31T15:16:30Z,2024-06-05T17:26:39Z,5,15,MERGED
+launchpad-ui,fix(components): adjust `Input` focus outline offset,https://github.com/launchdarkly/launchpad-ui/pull/1320,2024-05-29T20:40:45Z,2024-05-30T13:39:21Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1319,2024-05-29T14:14:50Z,2024-06-05T20:11:01Z,1,1,MERGED
+launchpad-ui,fix(icons): include pkg ts paths,https://github.com/launchdarkly/launchpad-ui/pull/1318,2024-05-28T19:08:45Z,2024-06-03T15:34:16Z,2,1,MERGED
+launchpad-ui,feat(icons): add menu and sidebar-right-* icons,https://github.com/launchdarkly/launchpad-ui/pull/1317,2024-05-28T16:42:02Z,2024-05-29T13:49:36Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1316,2024-05-28T16:02:17Z,2024-05-29T13:58:01Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1315,2024-05-28T15:41:18Z,2024-05-28T15:47:15Z,1,1,MERGED
+launchpad-ui,chore(tokens): update style-dictionary to v4,https://github.com/launchdarkly/launchpad-ui/pull/1313,2024-05-24T14:38:54Z,2024-05-28T16:01:34Z,2,11,MERGED
+launchpad-ui,feat(components): add `HoverTrigger`,https://github.com/launchdarkly/launchpad-ui/pull/1312,2024-05-22T17:30:17Z,2024-05-28T17:10:04Z,2,3,MERGED
+launchpad-ui,chore: update biome to v1.7,https://github.com/launchdarkly/launchpad-ui/pull/1311,2024-05-21T13:55:43Z,2024-05-28T15:51:57Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1310,2024-05-20T13:35:51Z,2024-05-21T15:20:57Z,1,1,MERGED
+launchpad-ui,feat: add broom icon,https://github.com/launchdarkly/launchpad-ui/pull/1308,2024-05-17T22:15:02Z,2024-05-20T13:35:16Z,2,2,MERGED
+launchpad-ui,fix(icons)!: remove package-send-bolt and update package-send,https://github.com/launchdarkly/launchpad-ui/pull/1307,2024-05-17T19:57:55Z,2024-05-20T13:42:01Z,3,3,MERGED
+launchpad-ui,feat(components): add `Pressable`,https://github.com/launchdarkly/launchpad-ui/pull/1306,2024-05-17T19:46:27Z,2024-07-15T18:32:18Z,2,5,MERGED
+launchpad-ui,fix: update CODEOWNERS for icons dir,https://github.com/launchdarkly/launchpad-ui/pull/1305,2024-05-17T15:29:10Z,2024-05-17T17:08:11Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1304,2024-05-17T15:21:18Z,2024-05-17T15:28:23Z,1,1,MERGED
+launchpad-ui,fix(components): refactor `ListBoxItem` and `MenuItem` styles,https://github.com/launchdarkly/launchpad-ui/pull/1303,2024-05-17T15:07:33Z,2024-05-17T15:20:31Z,2,2,MERGED
+launchpad-ui,fix(components): bump icon specificity in `Toast`,https://github.com/launchdarkly/launchpad-ui/pull/1302,2024-05-16T18:50:04Z,2024-05-28T15:40:40Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1301,2024-05-16T14:10:36Z,2024-05-16T17:10:56Z,1,1,MERGED
+launchpad-ui,feat(icons): add cat and turtle icons ,https://github.com/launchdarkly/launchpad-ui/pull/1300,2024-05-15T18:23:30Z,2024-05-16T17:05:33Z,5,3,MERGED
+launchpad-ui,feat(components): add `ExternalLink`,https://github.com/launchdarkly/launchpad-ui/pull/1299,2024-05-15T16:05:51Z,2024-05-15T19:16:23Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1298,2024-05-14T14:11:48Z,2024-05-15T19:22:09Z,1,1,MERGED
+launchpad-ui,feat(icons): add holdout icon,https://github.com/launchdarkly/launchpad-ui/pull/1297,2024-05-13T23:07:40Z,2024-05-16T14:09:59Z,4,2,MERGED
+launchpad-ui,fix(components): adjust `ListBox` styles,https://github.com/launchdarkly/launchpad-ui/pull/1296,2024-05-13T18:39:37Z,2024-05-15T17:34:13Z,2,1,MERGED
+launchpad-ui,fix: icons codeowners,https://github.com/launchdarkly/launchpad-ui/pull/1295,2024-05-13T13:40:06Z,2024-05-13T13:43:47Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1294,2024-05-13T13:13:08Z,2024-05-13T13:49:16Z,1,1,MERGED
+launchpad-ui,chore: add designers to icon package CODEOWNERS,https://github.com/launchdarkly/launchpad-ui/pull/1291,2024-05-10T18:34:17Z,2024-05-10T18:42:23Z,2,1,MERGED
+launchpad-ui,chore: update CODEOWNERS to add design to icon package,https://github.com/launchdarkly/launchpad-ui/pull/1290,2024-05-10T18:21:33Z,2024-05-10T18:29:28Z,4,1,CLOSED
+launchpad-ui,feat(icons): add map check icon,https://github.com/launchdarkly/launchpad-ui/pull/1289,2024-05-09T15:47:52Z,2024-05-13T13:12:32Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1288,2024-05-06T18:25:37Z,2024-05-06T18:30:09Z,1,1,MERGED
+launchpad-ui,fix(components): add `DOMProps` to `LinkProps`,https://github.com/launchdarkly/launchpad-ui/pull/1287,2024-05-06T17:42:53Z,2024-05-06T18:24:58Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1286,2024-05-06T14:35:06Z,2024-05-06T14:41:40Z,1,1,MERGED
+launchpad-ui,fix(components)!: use `href` and `routerOptions` with `RouterProvider` for links,https://github.com/launchdarkly/launchpad-ui/pull/1285,2024-05-06T14:15:09Z,2024-05-06T14:34:28Z,3,3,MERGED
+launchpad-ui,feat(icons): add grip icons,https://github.com/launchdarkly/launchpad-ui/pull/1283,2024-05-03T15:56:30Z,2024-05-03T16:05:03Z,2,2,MERGED
+launchpad-ui,fix(components): adjust `Checkbox` border-radius,https://github.com/launchdarkly/launchpad-ui/pull/1282,2024-05-03T15:11:24Z,2024-05-03T15:51:17Z,2,1,MERGED
+launchpad-ui,"feat(components): add status components `SnackbarContainer`, `SnackbarQueue`, `ToastContainer`, and `ToastQueue`",https://github.com/launchdarkly/launchpad-ui/pull/1281,2024-05-03T14:02:28Z,2024-05-14T14:11:13Z,5,11,MERGED
+launchpad-ui,fix(components): set `Popover` trigger in `ComboBox` to `Group` instead of `Input`,https://github.com/launchdarkly/launchpad-ui/pull/1280,2024-05-02T17:30:51Z,2024-05-02T18:23:12Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1279,2024-05-02T14:15:48Z,2024-05-03T16:10:23Z,1,1,MERGED
+launchpad-ui,fix(components): remove max-width on `ListBox`,https://github.com/launchdarkly/launchpad-ui/pull/1278,2024-05-02T13:32:48Z,2024-05-02T14:15:13Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1277,2024-05-02T13:32:14Z,2024-05-02T13:39:50Z,1,1,MERGED
+launchpad-ui,refactor(components): inset focus outlines,https://github.com/launchdarkly/launchpad-ui/pull/1275,2024-05-01T15:35:14Z,2024-05-01T18:46:15Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1274,2024-05-01T15:11:32Z,2024-05-01T19:44:05Z,1,1,MERGED
+launchpad-ui,fix(components): adjust styles for `OverlayArrow`,https://github.com/launchdarkly/launchpad-ui/pull/1273,2024-05-01T15:04:41Z,2024-05-01T15:10:47Z,2,1,MERGED
+launchpad-ui,feat(components): add `large` size for `Modal`,https://github.com/launchdarkly/launchpad-ui/pull/1271,2024-04-30T15:13:42Z,2024-05-01T19:04:29Z,2,1,MERGED
+launchpad-ui,feat(components): add `info` variant for `Tag`,https://github.com/launchdarkly/launchpad-ui/pull/1269,2024-04-26T17:23:09Z,2024-05-01T18:59:19Z,2,1,MERGED
+launchpad-ui,chore(deps): update dependency @testing-library/react to v15,https://github.com/launchdarkly/launchpad-ui/pull/1268,2024-04-26T15:02:19Z,2024-04-26T15:07:59Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1267,2024-04-25T20:00:16Z,2024-04-25T20:08:57Z,1,1,MERGED
+launchpad-ui,feat(components): add `ToggleButton`,https://github.com/launchdarkly/launchpad-ui/pull/1266,2024-04-25T19:53:44Z,2024-04-25T19:59:43Z,2,6,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1265,2024-04-25T15:45:26Z,2024-04-25T15:52:36Z,1,1,MERGED
+launchpad-ui,feat(components): add `RadioButton`,https://github.com/launchdarkly/launchpad-ui/pull/1264,2024-04-24T20:15:16Z,2024-04-25T15:44:44Z,2,4,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1263,2024-04-24T13:22:01Z,2024-04-24T13:29:20Z,1,1,MERGED
+launchpad-ui,fix(components): update `Popover` styles,https://github.com/launchdarkly/launchpad-ui/pull/1262,2024-04-23T21:06:41Z,2024-04-24T13:21:19Z,2,1,MERGED
+launchpad-ui,fix(components): increase `Radio` icon specificity,https://github.com/launchdarkly/launchpad-ui/pull/1261,2024-04-23T14:56:58Z,2024-04-23T15:02:09Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1260,2024-04-23T14:22:54Z,2024-04-23T15:08:38Z,1,1,MERGED
+launchpad-ui,fix(components): increase `Checkbox` icon specificity,https://github.com/launchdarkly/launchpad-ui/pull/1259,2024-04-23T14:13:11Z,2024-04-23T14:22:15Z,2,1,MERGED
+launchpad-ui,feat(icons): add shortcuts icons,https://github.com/launchdarkly/launchpad-ui/pull/1255,2024-04-20T07:04:33Z,2024-04-21T21:21:26Z,2,2,MERGED
+launchpad-ui,fix(components): fix `Checkbox` label alignment when wrapped,https://github.com/launchdarkly/launchpad-ui/pull/1254,2024-04-19T18:02:40Z,2024-04-19T19:23:15Z,2,3,MERGED
+launchpad-ui,docs: update icons changelog,https://github.com/launchdarkly/launchpad-ui/pull/1253,2024-04-19T17:25:03Z,2024-04-19T17:40:02Z,2,1,MERGED
+launchpad-ui,fix(components): remove border from `Popover`,https://github.com/launchdarkly/launchpad-ui/pull/1252,2024-04-18T17:33:16Z,2024-04-22T19:33:31Z,4,1,MERGED
+launchpad-ui,fix(components): update `Menu` selection states,https://github.com/launchdarkly/launchpad-ui/pull/1251,2024-04-18T15:26:41Z,2024-04-18T17:23:02Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1250,2024-04-17T15:19:35Z,2024-04-22T19:42:16Z,1,1,MERGED
+launchpad-ui,docs: update readme,https://github.com/launchdarkly/launchpad-ui/pull/1249,2024-04-17T15:06:18Z,2024-04-17T15:14:05Z,2,1,MERGED
+launchpad-ui,fix(components): set overflow on non-menu popovers,https://github.com/launchdarkly/launchpad-ui/pull/1248,2024-04-16T20:08:32Z,2024-04-19T20:00:34Z,2,2,MERGED
+launchpad-ui,fix(components): adjust `Input` padding,https://github.com/launchdarkly/launchpad-ui/pull/1247,2024-04-16T19:23:07Z,2024-04-18T17:11:40Z,2,1,MERGED
+launchpad-ui,fix(components): extract `Header` styles,https://github.com/launchdarkly/launchpad-ui/pull/1246,2024-04-16T19:22:12Z,2024-04-17T15:18:58Z,3,2,MERGED
+launchpad-ui,fix(components): update menu styles,https://github.com/launchdarkly/launchpad-ui/pull/1245,2024-04-16T14:50:42Z,2024-04-16T16:01:56Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1243,2024-04-15T13:04:11Z,2024-04-16T17:14:18Z,1,1,MERGED
+launchpad-ui,chore: add repository and license fields to package.json,https://github.com/launchdarkly/launchpad-ui/pull/1241,2024-04-12T14:45:17Z,2024-04-12T15:03:03Z,2,1,MERGED
+launchpad-ui,fix(components): prevent icon button shrinking,https://github.com/launchdarkly/launchpad-ui/pull/1240,2024-04-12T14:18:29Z,2024-04-12T14:58:04Z,2,1,MERGED
+launchpad-ui,fix(components): align minimal fields with label,https://github.com/launchdarkly/launchpad-ui/pull/1239,2024-04-11T17:53:06Z,2024-04-15T13:03:35Z,2,2,MERGED
+launchpad-ui,feat(icons)!: add new icons and rename language to globe,https://github.com/launchdarkly/launchpad-ui/pull/1237,2024-04-10T22:21:26Z,2024-04-11T13:28:37Z,2,5,MERGED
+launchpad-ui,fix(components): include `Tag` textValue in remove label,https://github.com/launchdarkly/launchpad-ui/pull/1236,2024-04-08T19:50:08Z,2024-04-09T17:40:38Z,2,1,MERGED
+launchpad-ui,chore: tag deprecated components,https://github.com/launchdarkly/launchpad-ui/pull/1233,2024-04-04T19:27:37Z,2024-04-09T17:35:21Z,2,1,MERGED
+launchpad-ui,test: use RAC `RouterProvider` to avoid jsdom error,https://github.com/launchdarkly/launchpad-ui/pull/1232,2024-04-04T15:56:39Z,2024-04-09T17:29:30Z,2,1,MERGED
+launchpad-ui,chore: organize stories to reflect their status,https://github.com/launchdarkly/launchpad-ui/pull/1231,2024-04-04T15:31:16Z,2024-04-04T17:13:18Z,2,3,MERGED
+launchpad-ui,feat(components): add `ComboBoxClearButton`,https://github.com/launchdarkly/launchpad-ui/pull/1230,2024-04-03T17:43:52Z,2024-04-09T18:00:49Z,2,7,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1229,2024-04-03T13:16:00Z,2024-04-12T15:08:24Z,1,1,MERGED
+launchpad-ui,feat(components): add `FieldGroup`,https://github.com/launchdarkly/launchpad-ui/pull/1228,2024-04-02T15:39:51Z,2024-04-03T13:14:54Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1227,2024-04-02T13:34:24Z,2024-04-02T14:24:48Z,1,1,MERGED
+launchpad-ui,fix(alert): bump close specificity,https://github.com/launchdarkly/launchpad-ui/pull/1226,2024-04-02T13:27:36Z,2024-04-02T13:33:51Z,2,1,MERGED
+launchpad-ui,include `displayName` in `forwardRefType` utility type,https://github.com/launchdarkly/launchpad-ui/pull/1225,2024-04-01T19:56:26Z,2024-04-01T21:04:52Z,3,4,CLOSED
+launchpad-ui,chore: use tsx for tokens build,https://github.com/launchdarkly/launchpad-ui/pull/1371,2024-07-29T14:49:48Z,2024-07-29T15:20:13Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1369,2024-07-24T13:42:31Z,2024-07-24T13:49:14Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1367,2024-07-22T20:37:19Z,2024-07-22T20:47:36Z,1,1,MERGED
+launchpad-ui,feat(components): add `Table`,https://github.com/launchdarkly/launchpad-ui/pull/1365,2024-07-19T15:44:14Z,2024-08-23T20:57:15Z,2,7,MERGED
+launchpad-ui,feat(icons): add notifications-off icon,https://github.com/launchdarkly/launchpad-ui/pull/1364,2024-07-17T20:18:32Z,2024-07-18T13:25:09Z,3,3,MERGED
+launchpad-ui,feat(components): add `Alert`,https://github.com/launchdarkly/launchpad-ui/pull/1363,2024-07-17T19:55:19Z,2024-08-02T18:03:26Z,2,3,MERGED
+launchpad-ui,feat(components): add `NumberField`,https://github.com/launchdarkly/launchpad-ui/pull/1362,2024-07-17T14:54:37Z,2024-07-17T17:33:36Z,2,2,MERGED
+launchpad-ui,refactor(components)!: handle external links with `useHref` wrapper,https://github.com/launchdarkly/launchpad-ui/pull/1361,2024-07-15T20:28:55Z,2024-08-05T15:09:44Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1360,2024-07-15T18:33:01Z,2024-07-18T13:34:29Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1359,2024-07-15T13:54:21Z,2024-07-15T14:00:22Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1357,2024-07-12T20:29:00Z,2024-07-12T20:35:33Z,1,1,MERGED
+launchpad-ui,fix(components): ensure toasts dismiss with reduced motion,https://github.com/launchdarkly/launchpad-ui/pull/1356,2024-07-12T19:53:55Z,2024-07-12T20:28:28Z,2,2,MERGED
+launchpad-ui,refactor(tokens)!: use `text` prefix for typography,https://github.com/launchdarkly/launchpad-ui/pull/1355,2024-07-11T18:55:56Z,2024-07-15T13:53:36Z,2,5,MERGED
+launchpad-ui,chore: use squad in codeowners,https://github.com/launchdarkly/launchpad-ui/pull/1354,2024-07-11T18:41:27Z,2024-07-11T18:48:07Z,2,1,MERGED
+launchpad-ui,chore: update CODEOWNERS,https://github.com/launchdarkly/launchpad-ui/pull/1352,2024-07-09T17:27:53Z,2024-07-09T17:32:32Z,2,1,MERGED
+launchpad-ui,feat: add VS Code extension,https://github.com/launchdarkly/launchpad-ui/pull/1349,2024-07-03T19:28:48Z,2024-09-30T17:13:03Z,3,20,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1348,2024-07-02T17:13:44Z,2024-07-08T13:21:45Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1347,2024-07-01T18:39:16Z,2024-07-01T18:46:57Z,1,1,MERGED
+launchpad-ui,chore: bump style-dictionary to stable release,https://github.com/launchdarkly/launchpad-ui/pull/1346,2024-07-01T13:54:56Z,2024-07-01T18:18:37Z,2,2,MERGED
+launchpad-ui,feat(icons): add `Calculator` icon,https://github.com/launchdarkly/launchpad-ui/pull/1343,2024-06-26T18:55:02Z,2024-07-01T18:38:29Z,3,3,MERGED
+launchpad-ui,chore: update codeowners,https://github.com/launchdarkly/launchpad-ui/pull/1342,2024-06-25T13:43:48Z,2024-07-01T15:50:38Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1340,2024-06-21T14:02:27Z,2024-06-21T14:11:50Z,1,1,MERGED
+launchpad-ui,feat(tokens): add code color aliases tokens,https://github.com/launchdarkly/launchpad-ui/pull/1339,2024-06-20T21:24:02Z,2024-06-21T14:01:49Z,2,2,MERGED
+launchpad-ui,feat(icons): add new created icon,https://github.com/launchdarkly/launchpad-ui/pull/1338,2024-06-20T18:26:14Z,2024-06-20T20:44:27Z,2,1,MERGED
+launchpad-ui,feat(components): add `Breadcrumbs`,https://github.com/launchdarkly/launchpad-ui/pull/1337,2024-06-20T14:50:36Z,2024-07-02T19:52:41Z,2,4,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1334,2024-06-11T19:31:35Z,2024-06-20T20:50:05Z,1,1,MERGED
+launchpad-ui,feat(components): add `Tabs`,https://github.com/launchdarkly/launchpad-ui/pull/1333,2024-06-11T18:49:50Z,2024-07-02T18:41:12Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1332,2024-06-10T20:43:17Z,2024-06-10T20:57:34Z,1,1,MERGED
+launchpad-ui,feat(components): add `subtitle` slot to `Dialog`,https://github.com/launchdarkly/launchpad-ui/pull/1331,2024-06-10T20:32:27Z,2024-06-11T19:30:51Z,3,1,MERGED
+launchpad-ui,chore: update biome to v1.8,https://github.com/launchdarkly/launchpad-ui/pull/1330,2024-06-10T14:05:22Z,2024-06-10T14:20:13Z,2,1,MERGED
+launchpad-ui,feat(icons): add osmo icon,https://github.com/launchdarkly/launchpad-ui/pull/1329,2024-06-10T13:07:11Z,2024-06-10T20:42:41Z,5,3,MERGED
+launchpad-ui,feat(components): add `Toolbar` and `Calendar` presets,https://github.com/launchdarkly/launchpad-ui/pull/1326,2024-06-05T20:04:48Z,2024-08-29T19:28:19Z,2,5,MERGED
+launchpad-ui,refactor(tokens)!: rework typography tokens,https://github.com/launchdarkly/launchpad-ui/pull/1325,2024-06-05T17:36:35Z,2024-07-02T17:12:59Z,4,6,MERGED
+launchpad-ui,chore: deprecate packages,https://github.com/launchdarkly/launchpad-ui/pull/1324,2024-06-03T14:07:51Z,2024-06-03T14:25:04Z,2,1,MERGED
+launchpad-ui,feat(components): add pointers for interactive elements,https://github.com/launchdarkly/launchpad-ui/pull/1465,2024-10-31T18:46:27Z,2024-11-01T18:08:19Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1463,2024-10-29T19:24:41Z,2024-11-04T14:40:53Z,1,1,MERGED
+launchpad-ui,feat(components): add `Meter`,https://github.com/launchdarkly/launchpad-ui/pull/1462,2024-10-29T15:42:27Z,2024-11-04T14:24:43Z,2,4,MERGED
+launchpad-ui,feat: add ListBox Tooltip recipe,https://github.com/launchdarkly/launchpad-ui/pull/1460,2024-10-28T15:20:54Z,2024-10-28T18:58:10Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1458,2024-10-25T20:40:46Z,2024-10-29T17:27:18Z,1,1,MERGED
+launchpad-ui,fix(components): align items in `Toolbar`,https://github.com/launchdarkly/launchpad-ui/pull/1457,2024-10-25T19:45:03Z,2024-10-25T20:40:04Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1456,2024-10-25T15:31:16Z,2024-10-25T17:23:58Z,1,1,MERGED
+launchpad-ui,fix(components): update `Tag` default styles,https://github.com/launchdarkly/launchpad-ui/pull/1455,2024-10-24T17:57:15Z,2024-10-25T15:30:30Z,2,1,MERGED
+launchpad-ui,chore: update node to v22,https://github.com/launchdarkly/launchpad-ui/pull/1454,2024-10-24T14:09:38Z,2024-10-24T15:03:57Z,1,2,MERGED
+launchpad-ui,fix(avatar): tweak style,https://github.com/launchdarkly/launchpad-ui/pull/1453,2024-10-23T17:40:53Z,2024-10-23T17:54:22Z,2,1,MERGED
+launchpad-ui,feat(components): add `orientation` prop to `ButtonGroup`,https://github.com/launchdarkly/launchpad-ui/pull/1452,2024-10-23T14:49:25Z,2024-10-23T17:29:31Z,3,1,MERGED
+launchpad-ui,refactor(icons)!: change `FlairIcon` to `BadgeIcon`,https://github.com/launchdarkly/launchpad-ui/pull/1451,2024-10-22T20:42:26Z,2024-10-25T15:58:22Z,2,2,MERGED
+launchpad-ui,fix(components): fix `Button` detection of `Select` context,https://github.com/launchdarkly/launchpad-ui/pull/1450,2024-10-22T13:05:34Z,2024-10-22T13:10:58Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1448,2024-10-17T17:07:59Z,2024-10-23T18:02:55Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1447,2024-10-16T15:14:49Z,2024-10-16T15:51:19Z,1,1,MERGED
+launchpad-ui,fix(components): use separate stacking context for `Switch`,https://github.com/launchdarkly/launchpad-ui/pull/1446,2024-10-16T13:44:59Z,2024-10-16T15:14:16Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1445,2024-10-15T20:46:25Z,2024-10-15T20:52:01Z,1,1,MERGED
+launchpad-ui,feat(components): add `error` variant to `Toast`,https://github.com/launchdarkly/launchpad-ui/pull/1444,2024-10-15T20:40:42Z,2024-10-15T20:45:55Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1443,2024-10-15T18:08:13Z,2024-10-15T18:14:12Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1441,2024-10-10T18:22:02Z,2024-10-10T18:31:45Z,1,1,MERGED
+launchpad-ui,fix(button): update font styles to match RAC,https://github.com/launchdarkly/launchpad-ui/pull/1440,2024-10-10T18:14:14Z,2024-10-10T18:21:19Z,2,1,MERGED
+launchpad-ui,feat(icons): add new icons in launchpad,https://github.com/launchdarkly/launchpad-ui/pull/1439,2024-10-09T23:36:21Z,2024-10-17T17:07:15Z,5,13,MERGED
+launchpad-ui,feat(tokens)!: refresh colors,https://github.com/launchdarkly/launchpad-ui/pull/1438,2024-10-08T20:39:40Z,2024-10-15T18:07:32Z,7,21,MERGED
+launchpad-ui,feat(icons): add flask-arrow icon,https://github.com/launchdarkly/launchpad-ui/pull/1437,2024-10-08T18:44:03Z,2024-10-09T13:56:14Z,2,3,MERGED
+launchpad-ui,feat(icons): add percentage icon,https://github.com/launchdarkly/launchpad-ui/pull/1434,2024-10-04T20:05:48Z,2024-10-29T17:14:32Z,8,8,MERGED
+launchpad-ui,ci: add provenance,https://github.com/launchdarkly/launchpad-ui/pull/1433,2024-10-04T18:51:18Z,2024-10-04T19:11:58Z,2,1,MERGED
+launchpad-ui,feat(box): support `className`,https://github.com/launchdarkly/launchpad-ui/pull/1432,2024-10-04T17:24:59Z,2024-10-07T15:36:05Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1431,2024-10-04T17:15:08Z,2024-10-09T20:15:47Z,1,1,MERGED
+launchpad-ui,feat(components): add `Disclosure`,https://github.com/launchdarkly/launchpad-ui/pull/1430,2024-10-03T15:47:12Z,2024-10-29T19:24:06Z,2,5,MERGED
+launchpad-ui,"chore: remove data-table, slider, snackbar, toast, and toggle packages",https://github.com/launchdarkly/launchpad-ui/pull/1429,2024-10-03T14:53:35Z,2024-10-04T17:14:33Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1428,2024-10-02T17:27:06Z,2024-10-02T18:19:16Z,1,1,MERGED
+launchpad-ui,feat(icons): add chart-cube-root and chart-lines-crossed icons,https://github.com/launchdarkly/launchpad-ui/pull/1427,2024-10-01T15:45:42Z,2024-10-02T17:51:45Z,7,5,MERGED
+launchpad-ui,feat(components): show `ProgressBar` for pending buttons,https://github.com/launchdarkly/launchpad-ui/pull/1426,2024-10-01T15:40:57Z,2024-10-02T17:26:36Z,2,5,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1425,2024-10-01T13:50:59Z,2024-10-01T14:02:50Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1422,2024-09-30T19:28:06Z,2024-09-30T19:34:11Z,1,1,MERGED
+launchpad-ui,fix(vscode): fix banner,https://github.com/launchdarkly/launchpad-ui/pull/1421,2024-09-30T19:21:57Z,2024-09-30T19:27:33Z,2,1,MERGED
+launchpad-ui,fix: update vscode publish,https://github.com/launchdarkly/launchpad-ui/pull/1420,2024-09-30T18:59:51Z,2024-09-30T19:08:01Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1419,2024-09-30T17:13:38Z,2024-09-30T17:58:23Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1417,2024-09-27T13:43:41Z,2024-09-27T13:49:52Z,1,1,MERGED
+launchpad-ui,feat(icons): add `data-icon` attribute,https://github.com/launchdarkly/launchpad-ui/pull/1416,2024-09-27T13:36:54Z,2024-09-27T13:42:58Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1415,2024-09-26T16:36:35Z,2024-09-26T16:43:16Z,1,1,MERGED
+launchpad-ui,chore: update legacy styles with icons,https://github.com/launchdarkly/launchpad-ui/pull/1414,2024-09-26T16:29:14Z,2024-09-26T16:35:58Z,2,1,MERGED
+launchpad-ui,refactor(icons)!: use `Box` for `FlairIcon`,https://github.com/launchdarkly/launchpad-ui/pull/1413,2024-09-25T19:53:13Z,2024-09-26T14:57:36Z,3,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1412,2024-09-25T19:24:27Z,2024-09-26T16:07:35Z,1,1,MERGED
+launchpad-ui,refactor(icons)!: align API with RAC,https://github.com/launchdarkly/launchpad-ui/pull/1411,2024-09-24T15:06:18Z,2024-09-25T19:23:42Z,3,6,MERGED
+launchpad-ui,chore: move dependency scan to GH actions,https://github.com/launchdarkly/launchpad-ui/pull/1410,2024-09-23T13:38:00Z,2024-09-25T14:47:58Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1408,2024-09-20T13:45:32Z,2024-09-20T13:54:31Z,1,1,MERGED
+launchpad-ui,fix(components): fix `Switch` styles for Chrome 129,https://github.com/launchdarkly/launchpad-ui/pull/1407,2024-09-20T13:35:44Z,2024-09-20T13:44:53Z,2,1,MERGED
+launchpad-ui,fix: ensure proper overlay background layering,https://github.com/launchdarkly/launchpad-ui/pull/1406,2024-09-19T14:56:37Z,2024-09-23T20:40:43Z,4,1,CLOSED
+launchpad-ui,feat(tokens): include fonts in package,https://github.com/launchdarkly/launchpad-ui/pull/1405,2024-09-18T15:12:13Z,2024-09-18T17:15:14Z,3,2,MERGED
+launchpad-ui,fix(components): fix styles for `TextArea` resizing,https://github.com/launchdarkly/launchpad-ui/pull/1404,2024-09-17T19:47:30Z,2024-09-17T19:58:47Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1403,2024-09-17T18:32:07Z,2024-09-18T18:18:49Z,1,1,MERGED
+launchpad-ui,feat(components): include base styles in package,https://github.com/launchdarkly/launchpad-ui/pull/1402,2024-09-17T15:31:35Z,2024-09-17T18:31:39Z,2,1,MERGED
+launchpad-ui,chore: update biome to 1.9,https://github.com/launchdarkly/launchpad-ui/pull/1401,2024-09-16T14:45:55Z,2024-09-16T17:11:59Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1398,2024-08-29T19:28:50Z,2024-08-29T19:35:04Z,1,1,MERGED
+launchpad-ui,chore: deprecate components,https://github.com/launchdarkly/launchpad-ui/pull/1395,2024-08-26T14:22:15Z,2024-08-26T17:22:27Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1394,2024-08-26T13:31:18Z,2024-08-26T17:28:49Z,1,1,MERGED
+launchpad-ui,fix: remove css patch plugin,https://github.com/launchdarkly/launchpad-ui/pull/1391,2024-08-22T15:45:57Z,2024-08-22T15:52:39Z,2,1,MERGED
+launchpad-ui,fix(components): fix `Switch` animation on Firefox,https://github.com/launchdarkly/launchpad-ui/pull/1390,2024-08-22T14:46:58Z,2024-08-22T15:14:33Z,2,1,MERGED
+launchpad-ui,fix: correct css modules,https://github.com/launchdarkly/launchpad-ui/pull/1389,2024-08-21T19:30:29Z,2024-08-22T15:22:50Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1388,2024-08-20T17:04:40Z,2024-08-23T21:04:09Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1387,2024-08-19T13:03:54Z,2024-08-19T13:10:08Z,1,1,MERGED
+launchpad-ui,fix(markdown): remove top margin from markdown,https://github.com/launchdarkly/launchpad-ui/pull/1386,2024-08-19T12:38:17Z,2024-08-19T13:03:20Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1384,2024-08-14T15:14:59Z,2024-08-14T15:22:05Z,1,1,MERGED
+launchpad-ui,feat: add dist files to tokens package exports,https://github.com/launchdarkly/launchpad-ui/pull/1383,2024-08-14T15:01:42Z,2024-08-14T15:14:17Z,3,1,MERGED
+launchpad-ui,feat(icons): add flag-health icon,https://github.com/launchdarkly/launchpad-ui/pull/1380,2024-08-08T19:17:38Z,2024-08-20T17:03:51Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1379,2024-08-06T13:26:50Z,2024-08-06T13:35:16Z,1,1,MERGED
+launchpad-ui,feat(icons): add bug icon,https://github.com/launchdarkly/launchpad-ui/pull/1378,2024-08-05T22:56:46Z,2024-08-06T13:26:11Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1377,2024-08-05T15:10:26Z,2024-08-05T15:18:38Z,1,1,MERGED
+launchpad-ui,feat(components): allow setting `delay` on `TooltipTrigger`,https://github.com/launchdarkly/launchpad-ui/pull/1376,2024-08-05T13:33:49Z,2024-08-05T13:41:02Z,3,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1375,2024-08-02T18:04:08Z,2024-08-05T13:48:18Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1374,2024-08-02T16:12:53Z,2024-08-02T16:25:31Z,1,1,MERGED
+launchpad-ui,feat(components)!: Add `popover` variant for `Tooltip` to replace `HoverTrigger`,https://github.com/launchdarkly/launchpad-ui/pull/1373,2024-08-02T15:01:05Z,2024-08-02T16:12:16Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1511,2024-12-12T20:19:20Z,2024-12-12T20:24:43Z,1,1,MERGED
+launchpad-ui,fix(components): fix `Checkbox` in Safari,https://github.com/launchdarkly/launchpad-ui/pull/1510,2024-12-12T20:15:38Z,2024-12-12T20:18:44Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1509,2024-12-11T18:49:08Z,2024-12-11T18:59:24Z,1,1,MERGED
+launchpad-ui,feat(components): add `warning` variant for `Alert`,https://github.com/launchdarkly/launchpad-ui/pull/1508,2024-12-11T18:39:38Z,2024-12-11T18:48:38Z,3,1,MERGED
+launchpad-ui,feat(icons): add snowflake icon,https://github.com/launchdarkly/launchpad-ui/pull/1507,2024-12-09T19:53:50Z,2024-12-09T19:58:28Z,3,1,CLOSED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1506,2024-12-09T19:44:04Z,2024-12-09T20:21:55Z,1,1,MERGED
+launchpad-ui,feat(components): add `TagButton`,https://github.com/launchdarkly/launchpad-ui/pull/1504,2024-12-05T20:00:20Z,2024-12-09T19:00:49Z,2,1,MERGED
+launchpad-ui,chore: update React Router to v7,https://github.com/launchdarkly/launchpad-ui/pull/1502,2024-12-03T21:24:44Z,2024-12-09T20:08:25Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1499,2024-11-25T21:41:50Z,2024-12-09T19:09:14Z,1,1,MERGED
+launchpad-ui,fix(components): replace `Section` with `ListBoxSection` and `MenuSection`,https://github.com/launchdarkly/launchpad-ui/pull/1498,2024-11-25T15:56:14Z,2024-12-09T19:43:31Z,2,3,MERGED
+launchpad-ui,feat(components): add `ToggleButtonGroup`,https://github.com/launchdarkly/launchpad-ui/pull/1496,2024-11-22T15:35:18Z,2024-12-05T18:30:03Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1495,2024-11-21T20:14:46Z,2024-11-21T20:19:59Z,1,1,MERGED
+launchpad-ui,fix(core): fix legacy alert styles,https://github.com/launchdarkly/launchpad-ui/pull/1494,2024-11-21T20:08:44Z,2024-11-21T20:14:15Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1493,2024-11-21T18:29:58Z,2024-11-21T18:39:57Z,1,1,MERGED
+launchpad-ui,feat(components)!: refresh `Alert` styles,https://github.com/launchdarkly/launchpad-ui/pull/1491,2024-11-20T19:57:59Z,2024-11-21T18:29:16Z,2,3,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1490,2024-11-20T15:07:35Z,2024-11-21T18:22:10Z,1,1,MERGED
+launchpad-ui,feat(components): add `DropZone`,https://github.com/launchdarkly/launchpad-ui/pull/1489,2024-11-19T18:21:52Z,2024-11-25T21:41:17Z,2,4,MERGED
+launchpad-ui,feat(components): add `Perceivable` to support `aria-disabled` for RAC,https://github.com/launchdarkly/launchpad-ui/pull/1488,2024-11-19T15:58:58Z,2024-11-20T15:06:56Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1486,2024-11-14T23:54:42Z,2024-11-15T19:09:54Z,1,1,MERGED
+launchpad-ui,feat(icons): add upload icon to icon options,https://github.com/launchdarkly/launchpad-ui/pull/1485,2024-11-14T21:16:16Z,2024-11-14T23:53:59Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1484,2024-11-14T15:03:05Z,2024-11-14T15:09:00Z,1,1,MERGED
+launchpad-ui,fix(components): fix destructive `MenuItem` styles,https://github.com/launchdarkly/launchpad-ui/pull/1483,2024-11-13T21:45:14Z,2024-11-14T14:50:05Z,2,1,MERGED
+launchpad-ui,fix(components): match `Button` display for `Pressable`,https://github.com/launchdarkly/launchpad-ui/pull/1482,2024-11-13T19:55:19Z,2024-11-14T15:02:29Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1481,2024-11-13T19:03:36Z,2024-11-14T14:57:36Z,1,1,MERGED
+launchpad-ui,feat(components): support clearing `Toast` queues,https://github.com/launchdarkly/launchpad-ui/pull/1480,2024-11-13T15:06:05Z,2024-11-13T19:02:53Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1479,2024-11-12T15:22:57Z,2024-11-12T16:33:49Z,1,1,MERGED
+launchpad-ui,fix(components): update fill for pending button progress,https://github.com/launchdarkly/launchpad-ui/pull/1476,2024-11-08T20:35:35Z,2024-11-12T15:22:15Z,2,1,MERGED
+launchpad-ui,feat(components): add `GridList`,https://github.com/launchdarkly/launchpad-ui/pull/1475,2024-11-08T15:48:52Z,2024-11-13T20:59:17Z,2,5,MERGED
+launchpad-ui,fix(components): add max-width to `Tooltip`,https://github.com/launchdarkly/launchpad-ui/pull/1474,2024-11-06T16:27:01Z,2024-11-07T14:27:05Z,2,1,MERGED
+launchpad-ui,feat(components): style `Tabs` as links,https://github.com/launchdarkly/launchpad-ui/pull/1473,2024-11-06T16:05:50Z,2024-11-07T14:32:39Z,2,1,MERGED
+launchpad-ui,feat(components): refresh `Button` styles,https://github.com/launchdarkly/launchpad-ui/pull/1472,2024-11-05T16:10:07Z,2024-11-08T16:46:13Z,2,5,MERGED
+launchpad-ui,docs: badges for vscode extension,https://github.com/launchdarkly/launchpad-ui/pull/1471,2024-11-04T20:27:37Z,2024-11-07T18:16:05Z,1,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1470,2024-11-04T18:40:05Z,2024-11-08T16:53:57Z,1,1,MERGED
+launchpad-ui,fix(tokens): update gradient angles,https://github.com/launchdarkly/launchpad-ui/pull/1469,2024-11-04T16:35:02Z,2024-11-04T18:39:16Z,2,1,MERGED
+launchpad-ui,chore: remove select and split-button packages,https://github.com/launchdarkly/launchpad-ui/pull/1467,2024-11-01T14:02:56Z,2024-11-01T14:13:50Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1556,2025-02-24T14:47:52Z,2025-02-24T21:09:10Z,1,1,MERGED
+launchpad-ui,feat: add Code Connect,https://github.com/launchdarkly/launchpad-ui/pull/1555,2025-02-21T19:15:08Z,2025-02-24T14:47:06Z,2,11,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1554,2025-02-20T16:44:43Z,2025-02-20T16:50:49Z,1,1,MERGED
+launchpad-ui,fix(components): fix `ListBox` width,https://github.com/launchdarkly/launchpad-ui/pull/1553,2025-02-20T16:25:56Z,2025-02-20T16:44:11Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1552,2025-02-19T18:10:05Z,2025-02-19T18:25:45Z,1,1,MERGED
+launchpad-ui,chore: update deps,https://github.com/launchdarkly/launchpad-ui/pull/1551,2025-02-19T16:18:30Z,2025-02-19T18:17:27Z,1,1,MERGED
+launchpad-ui,fix(components): open `ComboBox` on focus,https://github.com/launchdarkly/launchpad-ui/pull/1550,2025-02-19T14:42:07Z,2025-02-19T18:09:31Z,2,3,MERGED
+launchpad-ui,fix(components): correct calendar styles,https://github.com/launchdarkly/launchpad-ui/pull/1548,2025-02-14T01:27:00Z,2025-02-14T02:32:33Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1545,2025-02-07T22:47:25Z,2025-02-14T02:39:10Z,1,1,MERGED
+launchpad-ui,feat(components): add `Autocomplete`,https://github.com/launchdarkly/launchpad-ui/pull/1544,2025-02-07T19:21:13Z,2025-02-12T16:53:17Z,2,2,MERGED
+launchpad-ui,feat(components): update checkbox and radio styles and svgs,https://github.com/launchdarkly/launchpad-ui/pull/1543,2025-02-07T04:26:05Z,2025-02-07T22:46:49Z,2,6,MERGED
+launchpad-ui,feat(components): polish date/time components,https://github.com/launchdarkly/launchpad-ui/pull/1540,2025-02-04T17:01:08Z,2025-02-07T18:12:55Z,2,17,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1539,2025-02-04T14:38:34Z,2025-02-07T20:29:57Z,1,1,MERGED
+launchpad-ui,feat(components): add `orientation` prop to `Form`,https://github.com/launchdarkly/launchpad-ui/pull/1538,2025-02-03T16:43:32Z,2025-02-04T14:38:02Z,3,5,MERGED
+launchpad-ui,chore: update codeowners,https://github.com/launchdarkly/launchpad-ui/pull/1537,2025-01-31T19:17:59Z,2025-01-31T19:49:21Z,2,1,MERGED
+launchpad-ui,ci: add sync tokens to Figma workflow,https://github.com/launchdarkly/launchpad-ui/pull/1536,2025-01-31T16:49:34Z,2025-01-31T21:00:37Z,2,2,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1535,2025-01-30T18:29:16Z,2025-01-30T18:35:23Z,1,1,MERGED
+launchpad-ui,fix(tag): update styles to truncate text content to one line,https://github.com/launchdarkly/launchpad-ui/pull/1534,2025-01-30T18:22:22Z,2025-01-30T18:28:42Z,2,1,MERGED
+launchpad-ui,feat(tokens): add Figma sync script,https://github.com/launchdarkly/launchpad-ui/pull/1532,2025-01-29T19:39:36Z,2025-01-30T15:26:07Z,2,6,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1531,2025-01-24T19:46:35Z,2025-01-30T15:57:50Z,1,1,MERGED
+launchpad-ui,feat(tokens): build variables data,https://github.com/launchdarkly/launchpad-ui/pull/1530,2025-01-23T16:45:25Z,2025-01-24T19:45:52Z,2,5,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1528,2025-01-21T18:31:50Z,2025-01-23T16:22:43Z,1,1,MERGED
+launchpad-ui,chore: deprecate packages,https://github.com/launchdarkly/launchpad-ui/pull/1527,2025-01-21T16:07:27Z,2025-01-21T18:31:14Z,2,3,MERGED
+launchpad-ui,refactor(tokens): improve format and pkg structure,https://github.com/launchdarkly/launchpad-ui/pull/1526,2025-01-17T18:32:54Z,2025-01-23T16:13:51Z,2,9,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1524,2025-01-16T16:08:52Z,2025-01-16T16:15:23Z,1,1,MERGED
+launchpad-ui,fix: support `RefCallback` on refs,https://github.com/launchdarkly/launchpad-ui/pull/1523,2025-01-16T15:58:17Z,2025-01-16T16:08:17Z,2,1,MERGED
+launchpad-ui,chore: update label font weight from regular to medium,https://github.com/launchdarkly/launchpad-ui/pull/1522,2025-01-16T01:17:32Z,2025-01-16T07:52:06Z,2,2,MERGED
+launchpad-ui,chore: update SB navigation and remove Box from BadgeIcon,https://github.com/launchdarkly/launchpad-ui/pull/1520,2025-01-10T23:47:18Z,2025-01-15T21:18:10Z,3,12,MERGED
+launchpad-ui,feat(components): add `Avatar`,https://github.com/launchdarkly/launchpad-ui/pull/1519,2025-01-10T19:49:05Z,2025-01-15T19:32:24Z,4,6,MERGED
+launchpad-ui,feat(components): add pagination recipe,https://github.com/launchdarkly/launchpad-ui/pull/1517,2025-01-08T16:55:26Z,2025-01-08T18:36:14Z,2,1,MERGED
+launchpad-ui,chore: version packages,https://github.com/launchdarkly/launchpad-ui/pull/1516,2025-01-08T14:55:30Z,2025-01-16T14:47:20Z,1,1,MERGED
+launchpad-ui,chore!: use `ref` prop instead of `forwardRef`,https://github.com/launchdarkly/launchpad-ui/pull/1515,2025-01-07T15:48:10Z,2025-01-08T14:54:46Z,2,4,MERGED

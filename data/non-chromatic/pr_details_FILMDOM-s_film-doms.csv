@@ -1,0 +1,122 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+film-doms,FILMDOMS main bracnh <- develop branch 정기 머지 작업,https://github.com/FILMDOM-s/film-doms/pull/62,2023-03-31T09:19:21Z,2023-03-31T09:19:55Z,0,118,MERGED
+film-doms,FILMDOMS #59 Largest Contentful Paint element에 대한 우선 로딩 적용,https://github.com/FILMDOM-s/film-doms/pull/61,2023-03-28T23:46:08Z,2023-03-29T11:43:01Z,0,1,MERGED
+film-doms,FILMDOMS #56 스토리북 디자인 불일치 수정,https://github.com/FILMDOM-s/film-doms/pull/60,2023-03-28T23:39:04Z,2023-03-29T11:42:44Z,1,1,MERGED
+film-doms,Feature/sihyeong #45 디자인 시안 변경에 따른 Critic Section 작업,https://github.com/FILMDOM-s/film-doms/pull/58,2023-03-27T23:40:25Z,2023-03-31T09:10:31Z,1,10,MERGED
+film-doms,FILMDOMS #44 디자인 시안 변경에 따른 Notice Section 작업,https://github.com/FILMDOM-s/film-doms/pull/55,2023-03-26T06:13:29Z,2023-03-29T11:42:22Z,2,7,MERGED
+film-doms,FILMDOMS #43 디자인 시안 변경에 따른 배너 작업,https://github.com/FILMDOM-s/film-doms/pull/54,2023-03-26T06:10:48Z,2023-03-28T14:09:58Z,1,7,MERGED
+film-doms,FILMDOMS #43 디자인 시안 변경에 따른 배너 작업,https://github.com/FILMDOM-s/film-doms/pull/53,2023-03-26T06:07:55Z,2023-03-26T06:08:18Z,0,82,CLOSED
+film-doms,FILMDOMS #40 디자인 시안 변경에 따른 헤더 작업,https://github.com/FILMDOM-s/film-doms/pull/52,2023-03-26T06:05:15Z,2023-03-28T14:07:16Z,2,7,MERGED
+film-doms,FILMDOMS #40 디자인 시안 변경에 따른 헤더 작업,https://github.com/FILMDOM-s/film-doms/pull/51,2023-03-26T06:02:13Z,2023-03-26T06:02:52Z,0,81,CLOSED
+film-doms,FILMDOMS #41 변경된 footer를 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/50,2023-03-25T16:00:52Z,2023-03-26T06:37:26Z,1,9,MERGED
+film-doms,FILMDOMS #42 [리뉴얼] Community Section,https://github.com/FILMDOM-s/film-doms/pull/49,2023-03-21T13:31:07Z,2023-03-23T12:44:13Z,2,13,MERGED
+film-doms,FILMDOMS #38 #39 button의 icon을 props로 받도록 수정합니다,https://github.com/FILMDOM-s/film-doms/pull/48,2023-03-20T14:16:58Z,2023-03-21T23:01:13Z,4,4,MERGED
+film-doms,"Revert ""FILMDOMS #39 스타일 가이드를 적용합니다""",https://github.com/FILMDOM-s/film-doms/pull/47,2023-03-20T13:46:57Z,2023-03-21T03:42:43Z,1,1,CLOSED
+film-doms,FILMDOMS #39 스타일 가이드를 적용합니다,https://github.com/FILMDOM-s/film-doms/pull/46,2023-03-20T09:45:59Z,2023-03-20T13:46:29Z,4,21,MERGED
+film-doms,Storybook playground,https://github.com/FILMDOM-s/film-doms/pull/37,2023-03-11T12:59:15Z,2023-03-20T06:24:02Z,6,22,MERGED
+film-doms,FILMDOMS #31 production에서의 이미지 최적화를 위한 sharp 패키지 추가 및 VoidFuncion 리팩토링,https://github.com/FILMDOM-s/film-doms/pull/36,2023-03-05T07:47:04Z,2023-03-05T07:47:41Z,0,2,MERGED
+film-doms,FILMDOMS #31 사이드 네비게이션 구현,https://github.com/FILMDOM-s/film-doms/pull/34,2023-03-02T04:26:52Z,2023-03-05T06:59:19Z,14,4,MERGED
+film-doms,FILMDOMS: #30 msw의 warning을 해결합니다,https://github.com/FILMDOM-s/film-doms/pull/33,2023-02-28T10:43:37Z,2023-03-01T13:15:18Z,3,3,MERGED
+film-doms,2023.02.28 정기 머지 작업: from develop to main,https://github.com/FILMDOM-s/film-doms/pull/32,2023-02-28T02:14:10Z,2023-02-28T02:16:32Z,0,93,MERGED
+film-doms,FILMDOMS #27 _app을 리팩토링합니다,https://github.com/FILMDOM-s/film-doms/pull/29,2023-02-27T12:01:11Z,2023-02-28T01:54:09Z,7,10,MERGED
+film-doms,FILMDOMS: #26 OpenGraph 컴포넌트를 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/28,2023-02-27T08:11:57Z,2023-02-27T14:02:36Z,2,1,MERGED
+film-doms,FILMDOMS #24 community 섹션 스타일을 수정합니다,https://github.com/FILMDOM-s/film-doms/pull/25,2023-02-26T15:33:56Z,2023-02-27T22:55:01Z,3,5,MERGED
+film-doms,"FILMDOMS #22 폴더 컨벤션 구조에 따른 리팩토링 작업 및 배너, 네비, Notice 구현 작업",https://github.com/FILMDOM-s/film-doms/pull/23,2023-02-24T10:14:07Z,2023-02-27T14:00:52Z,25,11,MERGED
+film-doms,FILMDOMS #18 메인페이지의 Critic 섹션 구현,https://github.com/FILMDOM-s/film-doms/pull/20,2023-02-23T14:59:20Z,2023-02-25T02:47:45Z,7,12,MERGED
+film-doms,Merge pull request #7 from FILMDOM-s/develop,https://github.com/FILMDOM-s/film-doms/pull/19,2023-02-23T14:21:34Z,2023-02-23T14:21:42Z,0,1,MERGED
+film-doms," FILMDOMS #[11,12] 메인 페이지 메인 슬라이더와 Notice 슬라이더를 구현합니다.",https://github.com/FILMDOM-s/film-doms/pull/17,2023-02-23T12:54:13Z,2023-02-23T12:55:54Z,0,5,MERGED
+film-doms,FILMDOMS #15 커뮤니티 섹션 반응형 구현 및 리팩토링합니다,https://github.com/FILMDOM-s/film-doms/pull/16,2023-02-23T04:03:22Z,2023-02-23T12:12:39Z,2,11,MERGED
+film-doms,FILMDOMS #10 footer를 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/14,2023-02-22T11:31:58Z,2023-02-22T15:36:08Z,3,4,MERGED
+film-doms,2023.02.19 정기 Merge,https://github.com/FILMDOM-s/film-doms/pull/7,2023-02-19T10:47:31Z,2023-02-19T10:48:50Z,0,5,MERGED
+film-doms,FILMDOMS feat: msw를 도입합니다,https://github.com/FILMDOM-s/film-doms/pull/5,2023-02-18T08:07:24Z,2023-02-19T14:42:11Z,10,24,MERGED
+film-doms,Merge pull request template,https://github.com/FILMDOM-s/film-doms/pull/4,2023-02-15T13:52:29Z,2023-02-15T13:52:42Z,0,1,MERGED
+film-doms,Create pull_request_template.md,https://github.com/FILMDOM-s/film-doms/pull/3,2023-02-15T13:29:01Z,2023-02-15T13:41:51Z,0,3,CLOSED
+film-doms,FILMDOMS feat: 테스트 텍스트 추가,https://github.com/FILMDOM-s/film-doms/pull/2,2023-02-15T11:41:21Z,2023-02-15T13:30:03Z,0,1,MERGED
+film-doms,FILM DUMBS 타입을 전역으로 관리합니다,https://github.com/FILMDOM-s/film-doms/pull/1,2023-02-15T10:58:46Z,2023-02-15T11:09:29Z,2,1,CLOSED
+film-doms,FILMDOMS #102 회원가입 페이지의 디자인을 수정합니다,https://github.com/FILMDOM-s/film-doms/pull/124,2023-05-31T12:34:28Z,2023-06-03T10:16:59Z,1,3,MERGED
+film-doms,FILMDOMS #112 회원가입 페이지의 기능을 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/123,2023-05-31T11:46:22Z,2023-05-31T12:04:44Z,1,7,MERGED
+film-doms,FILMDOMS #90 에디터 뷰 기능 구현,https://github.com/FILMDOM-s/film-doms/pull/122,2023-05-27T09:37:29Z,2023-05-27T09:37:45Z,1,8,MERGED
+film-doms,"FILMDOMS #90 비밀번호 변경, 에디터 뷰(60%), 로그인 기능 구현",https://github.com/FILMDOM-s/film-doms/pull/121,2023-05-26T12:27:35Z,2023-05-26T12:34:15Z,2,7,MERGED
+film-doms,FILMDOMS #112 SignUp 기능을 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/120,2023-05-26T09:57:48Z,2023-05-26T09:58:21Z,0,12,MERGED
+film-doms,FILMDOMS main <- develop merge,https://github.com/FILMDOM-s/film-doms/pull/119,2023-05-25T12:21:55Z,2023-05-25T12:22:05Z,0,13,MERGED
+film-doms,FILMDOMS #102 회원가입 페이지 디자인 변경에 따른 수정입니다,https://github.com/FILMDOM-s/film-doms/pull/117,2023-05-20T13:22:19Z,2023-05-20T13:22:44Z,0,1,MERGED
+film-doms,FILMDOMS #105 로그인 디자인 변경 사항 반영,https://github.com/FILMDOM-s/film-doms/pull/116,2023-05-14T22:51:54Z,2023-05-14T22:52:08Z,0,1,MERGED
+film-doms,FILMDOMS #102 회원가입 페이지를 변경된 디자인에 맞게 구성합니다,https://github.com/FILMDOM-s/film-doms/pull/115,2023-05-14T10:24:41Z,2023-05-14T21:47:20Z,1,3,MERGED
+film-doms,FILMDOMS #105 FIX page props 구조 분해 할당 부분 수정,https://github.com/FILMDOM-s/film-doms/pull/114,2023-05-14T04:24:18Z,2023-05-14T04:24:24Z,0,2,MERGED
+film-doms,FILMDOMS #105 FIX page props 구조 분해 할당 부분 수정,https://github.com/FILMDOM-s/film-doms/pull/113,2023-05-14T04:23:17Z,2023-05-14T04:23:23Z,0,1,MERGED
+film-doms,FILMDOMS #108 SignUp 페이지를 리팩토링합니다,https://github.com/FILMDOM-s/film-doms/pull/111,2023-05-14T04:06:40Z,2023-05-14T05:23:10Z,2,4,MERGED
+film-doms,FILMDOMS #105 FIX build error resolve,https://github.com/FILMDOM-s/film-doms/pull/110,2023-05-14T04:04:16Z,2023-05-14T04:04:32Z,0,2,MERGED
+film-doms,FILMDOMS #105 FIX build error resolve,https://github.com/FILMDOM-s/film-doms/pull/109,2023-05-14T04:03:13Z,2023-05-14T04:03:30Z,0,1,MERGED
+film-doms,FILMDOMS #105 FIX recoil 오류,https://github.com/FILMDOM-s/film-doms/pull/107,2023-05-14T02:07:29Z,2023-05-14T02:07:35Z,0,2,MERGED
+film-doms,"FILMDOMS #105 next-auth, next-theme 제거",https://github.com/FILMDOM-s/film-doms/pull/106,2023-05-14T02:05:13Z,2023-05-14T02:05:43Z,0,1,MERGED
+film-doms,FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/104,2023-05-13T14:16:29Z,2023-05-13T14:16:43Z,0,10,MERGED
+film-doms,"[UPDATE]-[디자인]: 전반적인 컬러, 행간, 문안, 문구 수정, 로그인 모달 ",https://github.com/FILMDOM-s/film-doms/pull/103,2023-05-13T14:11:17Z,2023-05-13T14:11:26Z,0,6,MERGED
+film-doms,FILMDOMS #100 마이페이지 디자인 변경사항을 수정합니다,https://github.com/FILMDOM-s/film-doms/pull/101,2023-05-11T13:18:47Z,2023-05-13T10:49:56Z,0,2,MERGED
+film-doms,FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/98,2023-05-07T12:41:09Z,2023-05-07T12:41:37Z,0,56,MERGED
+film-doms,feat: resolve,https://github.com/FILMDOM-s/film-doms/pull/97,2023-05-07T12:28:50Z,2023-05-07T12:28:56Z,0,1,MERGED
+film-doms,feat: merge conflict resolve,https://github.com/FILMDOM-s/film-doms/pull/96,2023-05-07T12:23:24Z,2023-05-07T12:23:34Z,0,1,MERGED
+film-doms,"FILMDOMS #90 로그인, 회원가입",https://github.com/FILMDOM-s/film-doms/pull/95,2023-05-04T11:45:50Z,2023-05-07T12:20:49Z,11,2,MERGED
+film-doms,FILMDOMS #89 Critic 스케치,https://github.com/FILMDOM-s/film-doms/pull/94,2023-05-04T11:42:22Z,2023-05-07T12:20:23Z,2,3,MERGED
+film-doms,FILMDOMS #92 댓글 DTO를 변경된 서버 api 명세에 맞춥니다,https://github.com/FILMDOM-s/film-doms/pull/93,2023-04-26T12:09:42Z,2023-04-26T12:11:43Z,0,1,MERGED
+film-doms,FILMDOMS #88 마이페이지 퍼블리싱 및 msw 모킹합니다,https://github.com/FILMDOM-s/film-doms/pull/91,2023-04-24T10:55:58Z,2023-04-26T10:02:45Z,1,40,MERGED
+film-doms,FILMDOMS #71 msw를 걷어내고 서버 API를 연결합니다,https://github.com/FILMDOM-s/film-doms/pull/87,2023-04-23T05:25:46Z,2023-04-25T10:11:17Z,11,20,MERGED
+film-doms,FILMDOMS main <- develop 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/85,2023-04-18T09:52:28Z,2023-04-18T10:00:55Z,0,24,MERGED
+film-doms,FILMDOMS #79 About 페이지 퍼블리싱,https://github.com/FILMDOM-s/film-doms/pull/84,2023-04-16T05:36:22Z,2023-04-18T09:50:36Z,6,13,MERGED
+film-doms,fix: husky가 정상동작하도록 합니다,https://github.com/FILMDOM-s/film-doms/pull/83,2023-04-13T17:26:31Z,2023-04-14T08:45:09Z,1,3,MERGED
+film-doms,FILMDOMS #80 메인 페이지 CLS 이슈를 해결합니다,https://github.com/FILMDOM-s/film-doms/pull/81,2023-04-13T16:12:00Z,2023-04-14T08:41:57Z,0,3,MERGED
+film-doms,style: critic 섹션 상단 여백 추가,https://github.com/FILMDOM-s/film-doms/pull/78,2023-04-13T15:01:14Z,2023-04-13T23:02:28Z,0,1,MERGED
+film-doms,FILMDOMS #merge 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/76,2023-04-12T15:49:13Z,2023-04-12T15:49:22Z,0,2,MERGED
+film-doms,FILMDOMS #69  [인기 게시글 구현] coded by 시형,https://github.com/FILMDOM-s/film-doms/pull/75,2023-04-12T15:42:54Z,2023-04-12T15:44:18Z,0,1,MERGED
+film-doms,FILMDOMS #69  [인기 게시글 구현] coded by 시형,https://github.com/FILMDOM-s/film-doms/pull/74,2023-04-12T15:41:34Z,2023-04-12T15:41:47Z,0,1,CLOSED
+film-doms,FILMDOMS #merge 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/73,2023-04-12T14:33:23Z,2023-04-12T14:33:41Z,0,72,MERGED
+film-doms,Feature/sihyeong #69 인기 게시글 구현,https://github.com/FILMDOM-s/film-doms/pull/70,2023-04-10T16:55:24Z,2023-04-12T14:29:55Z,1,51,CLOSED
+film-doms,FILMDOMS #57 전체게시판을 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/67,2023-04-06T15:09:47Z,2023-04-09T08:47:16Z,13,46,MERGED
+film-doms,Merge pull request #65 from FILMDOM-s/main,https://github.com/FILMDOM-s/film-doms/pull/66,2023-04-01T11:54:45Z,2023-04-01T11:55:30Z,0,1,MERGED
+film-doms,브랜치 동기화,https://github.com/FILMDOM-s/film-doms/pull/65,2023-04-01T11:51:35Z,2023-04-01T11:52:14Z,0,7,MERGED
+film-doms,FILMDOMS #63 날짜 형식 변경,https://github.com/FILMDOM-s/film-doms/pull/64,2023-04-01T11:47:59Z,2023-04-01T11:48:46Z,0,1,MERGED
+film-doms,"FILMDOMS #142 배너 문구 수정, 크리틱 쉐브론 크기 수정",https://github.com/FILMDOM-s/film-doms/pull/151,2023-07-22T06:32:54Z,2023-07-22T06:33:00Z,1,1,MERGED
+film-doms,"FILMDOMS #146 비로그인 시, 로그인 모달을 보여줍니다",https://github.com/FILMDOM-s/film-doms/pull/150,2023-07-20T13:37:39Z,2023-07-20T22:29:18Z,1,6,MERGED
+film-doms,FILMDOMS #142 검색 구현,https://github.com/FILMDOM-s/film-doms/pull/145,2023-07-02T15:07:05Z,2023-07-02T15:07:13Z,1,1,MERGED
+film-doms," FILMDOMS #142 댓글 좋아요, 아티클 좋아요, 에디터 이미지 삽입, 클립 보드 복사",https://github.com/FILMDOM-s/film-doms/pull/144,2023-07-02T04:04:19Z,2023-07-02T04:04:26Z,1,2,MERGED
+film-doms,"FILMDOMS #142 Search Form, 기타 수정 사항",https://github.com/FILMDOM-s/film-doms/pull/143,2023-07-01T15:35:59Z,2023-07-01T15:36:17Z,1,2,MERGED
+film-doms,"FILMDOMS #140 비로그인 시, 헤더 유저 아이콘 렌더링 이슈를 해결합니다",https://github.com/FILMDOM-s/film-doms/pull/141,2023-06-27T14:00:29Z,2023-06-27T14:00:54Z,1,1,MERGED
+film-doms,FILMDOMS #135 메인페이지 연결 링크를 최신화합니다,https://github.com/FILMDOM-s/film-doms/pull/138,2023-06-24T16:11:37Z,2023-06-24T16:11:48Z,1,3,MERGED
+film-doms,FILMDOMS #134 Critic 상세 게시글 하단 UI 이슈를 해결합니다,https://github.com/FILMDOM-s/film-doms/pull/137,2023-06-24T15:57:07Z,2023-06-24T15:58:14Z,1,1,MERGED
+film-doms,FILMDOMS #132 Tag를 영어로 변경합니다,https://github.com/FILMDOM-s/film-doms/pull/136,2023-06-24T15:38:03Z,2023-06-24T15:57:52Z,1,1,MERGED
+film-doms,FILMDOMS #88 마이페이지를 기능을 구현합니다,https://github.com/FILMDOM-s/film-doms/pull/133,2023-06-24T15:22:54Z,2023-06-24T15:30:56Z,1,10,MERGED
+film-doms,FILMDOMS #125 Google OAUTH Login,https://github.com/FILMDOM-s/film-doms/pull/131,2023-06-18T05:27:03Z,2023-06-18T05:27:18Z,1,1,MERGED
+film-doms,FILMDOMS #129 About Title을 수정합니다,https://github.com/FILMDOM-s/film-doms/pull/130,2023-06-17T02:50:07Z,2023-06-17T02:50:28Z,1,1,MERGED
+film-doms,"FILMDOMS #127 메인, 어바웃 페이지의 UI를 수정합니다",https://github.com/FILMDOM-s/film-doms/pull/128,2023-06-11T05:45:10Z,2023-06-11T05:45:27Z,1,4,MERGED
+film-doms,"FILMDOMS #125 이미지 업로드, 아티클 생성, 댓글 생성",https://github.com/FILMDOM-s/film-doms/pull/126,2023-06-05T08:45:42Z,2023-06-05T08:47:08Z,1,1,MERGED
+film-doms,FILMDOMS fix: all,https://github.com/FILMDOM-s/film-doms/pull/186,2023-09-07T15:41:51Z,2023-09-07T15:42:15Z,1,1,MERGED
+film-doms,feat: seo,https://github.com/FILMDOM-s/film-doms/pull/185,2023-09-05T13:49:08Z,2023-09-05T13:49:15Z,1,1,MERGED
+film-doms,feat: title 추가,https://github.com/FILMDOM-s/film-doms/pull/184,2023-09-05T13:24:31Z,2023-09-05T13:24:39Z,1,1,MERGED
+film-doms,FILMDOMS fix: filmdoms issue resolve,https://github.com/FILMDOM-s/film-doms/pull/183,2023-09-04T14:25:09Z,2023-09-04T14:25:18Z,1,2,MERGED
+film-doms,FILMDOMS fix: og,https://github.com/FILMDOM-s/film-doms/pull/182,2023-09-03T12:39:57Z,2023-09-03T12:40:08Z,1,1,MERGED
+film-doms,FILMDOMS chore: seo 설정,https://github.com/FILMDOM-s/film-doms/pull/181,2023-09-03T09:45:36Z,2023-09-03T09:45:43Z,1,1,MERGED
+film-doms,FILMDOMS #179을 머지합니다,https://github.com/FILMDOM-s/film-doms/pull/180,2023-08-31T10:48:41Z,2023-08-31T10:49:07Z,1,2,MERGED
+film-doms,"FILMDOMS #178 구글, 네이버 메타 태그를 추가합니다",https://github.com/FILMDOM-s/film-doms/pull/179,2023-08-29T13:03:59Z,2023-08-29T13:04:07Z,1,1,MERGED
+film-doms,FILMDOMES #168 소셜 로그인 관련 이슈들을 처리합니다,https://github.com/FILMDOM-s/film-doms/pull/177,2023-08-28T22:36:49Z,2023-08-28T22:37:03Z,1,2,MERGED
+film-doms,hotfix: 유저 프로필 조회 쿼리를 수정하고 사용하지 않는 쿼리를 제거합니다,https://github.com/FILMDOM-s/film-doms/pull/176,2023-08-28T12:11:55Z,2023-08-28T15:19:32Z,1,1,MERGED
+film-doms,"FILMDOMS 최종 빌드 테스트, 에러 수정",https://github.com/FILMDOM-s/film-doms/pull/175,2023-08-27T14:05:36Z,2023-08-27T14:09:09Z,1,3,MERGED
+film-doms,hotfix: 변경되지 않은 파일을 변경합니다,https://github.com/FILMDOM-s/film-doms/pull/174,2023-08-27T12:57:56Z,2023-08-27T14:04:06Z,1,2,MERGED
+film-doms,FILMDOMS #169 소셜 로그인 오류 수정,https://github.com/FILMDOM-s/film-doms/pull/173,2023-08-27T12:21:09Z,2023-08-27T12:24:17Z,1,5,MERGED
+film-doms,Fix/kiwon #169,https://github.com/FILMDOM-s/film-doms/pull/172,2023-08-27T10:08:21Z,2023-08-27T12:19:59Z,1,13,MERGED
+film-doms,#168 이슈를 적용합니다,https://github.com/FILMDOM-s/film-doms/pull/171,2023-08-27T09:41:54Z,2023-08-27T10:06:04Z,1,2,CLOSED
+film-doms,"FILMDOMS #168 소셜로그인, 일반로그인 profile 조회를 동시에 수행합니다",https://github.com/FILMDOM-s/film-doms/pull/170,2023-08-27T09:40:21Z,2023-08-27T09:40:35Z,1,4,MERGED
+film-doms,FILMDOMS #168 소셜 로그인 관련 이슈들을 처리합니다,https://github.com/FILMDOM-s/film-doms/pull/169,2023-08-27T04:11:12Z,2023-08-27T07:34:40Z,1,3,MERGED
+film-doms,"FILMDOMS fix: 전반적인 수정사항 반영, 정기 병합",https://github.com/FILMDOM-s/film-doms/pull/167,2023-08-26T08:10:40Z,2023-08-26T08:10:52Z,1,1,MERGED
+film-doms,"FILMDOMS 대댓글 수정 삭제, 세부 디자인 수정 사항",https://github.com/FILMDOM-s/film-doms/pull/166,2023-08-20T16:13:14Z,2023-08-20T16:13:24Z,1,2,MERGED
+film-doms,"FILMDOMS final - 구글 로그인 오류 수정, fallback loading, handler, banner link",https://github.com/FILMDOM-s/film-doms/pull/165,2023-08-18T13:07:46Z,2023-08-18T13:07:54Z,1,2,MERGED
+film-doms,"fix: editor, template",https://github.com/FILMDOM-s/film-doms/pull/164,2023-08-16T11:47:14Z,2023-08-16T11:47:23Z,1,1,MERGED
+film-doms,FILMDOMS wide editor,https://github.com/FILMDOM-s/film-doms/pull/163,2023-08-15T09:43:35Z,2023-08-15T09:43:53Z,1,2,MERGED
+film-doms, FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/162,2023-08-14T15:07:05Z,2023-08-14T15:07:15Z,1,2,MERGED
+film-doms,"FILMDOMS feat: 컨텍스트 메뉴 프로필 박스, film universe align, critic content",https://github.com/FILMDOM-s/film-doms/pull/161,2023-08-11T15:48:17Z,2023-08-11T15:48:33Z,1,1,MERGED
+film-doms, FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/160,2023-08-10T10:54:14Z,2023-08-10T10:54:21Z,1,1,MERGED
+film-doms,"FILMDOMS refactor, fix, feat",https://github.com/FILMDOM-s/film-doms/pull/159,2023-08-09T15:07:30Z,2023-08-09T15:07:43Z,1,1,MERGED
+film-doms,FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/158,2023-08-08T12:26:57Z,2023-08-08T12:27:07Z,1,1,MERGED
+film-doms,FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/157,2023-08-08T12:02:41Z,2023-08-08T12:02:55Z,1,2,MERGED
+film-doms,FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/156,2023-08-07T12:29:42Z,2023-08-07T12:29:53Z,1,2,MERGED
+film-doms,FILMDOMS fix 도메인 수정,https://github.com/FILMDOM-s/film-doms/pull/155,2023-08-06T15:54:25Z,2023-08-06T15:54:58Z,1,1,MERGED
+film-doms,FILMDOMS 정기 병합 작업,https://github.com/FILMDOM-s/film-doms/pull/154,2023-08-06T09:34:02Z,2023-08-06T09:34:16Z,1,102,MERGED
+film-doms,FILMDOMS #152 7월 4주차 회의의 이슈들을 수정합니다,https://github.com/FILMDOM-s/film-doms/pull/153,2023-08-01T14:25:23Z,2023-08-03T08:58:48Z,3,15,MERGED

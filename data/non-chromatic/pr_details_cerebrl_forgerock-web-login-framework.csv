@@ -1,0 +1,68 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+forgerock-web-login-framework,docs(readme): add relevant readme instructions; fix npm commands,https://github.com/cerebrl/forgerock-web-login-framework/pull/2,2022-05-26T00:05:54Z,2022-05-26T16:56:55Z,3,2,MERGED
+forgerock-web-login-framework,ci: initial-ci-setup,https://github.com/cerebrl/forgerock-web-login-framework/pull/1,2022-05-25T17:12:37Z,2022-05-25T18:35:01Z,1,1,MERGED
+forgerock-web-login-framework,"feat(login-logout): complete login, oauth flow and logout",https://github.com/cerebrl/forgerock-web-login-framework/pull/9,2022-07-31T19:23:29Z,2022-08-04T16:00:12Z,37,4,MERGED
+forgerock-web-login-framework,ci: update-workflows,https://github.com/cerebrl/forgerock-web-login-framework/pull/8,2022-07-18T18:41:18Z,2022-07-18T21:42:54Z,1,1,CLOSED
+forgerock-web-login-framework,feat(docs): add docs site internally to project,https://github.com/cerebrl/forgerock-web-login-framework/pull/7,2022-07-18T17:18:45Z,2022-11-09T16:28:20Z,5,1,MERGED
+forgerock-web-login-framework,"feat(theme): full completion of theme, both light and dark",https://github.com/cerebrl/forgerock-web-login-framework/pull/5,2022-07-11T16:36:44Z,2022-07-13T22:18:46Z,1,14,MERGED
+forgerock-web-login-framework,feat(theme): create default theme,https://github.com/cerebrl/forgerock-web-login-framework/pull/4,2022-06-03T15:17:03Z,2022-06-22T23:49:25Z,1,7,MERGED
+forgerock-web-login-framework,feat(widget-callbacks): add inline widget and callbacks from sample apps,https://github.com/cerebrl/forgerock-web-login-framework/pull/3,2022-06-01T04:09:19Z,2022-06-01T20:53:08Z,3,1,MERGED
+forgerock-web-login-framework,ci: add-lighthouse-to-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/28,2022-10-27T15:26:23Z,2022-11-15T22:25:42Z,20,1,MERGED
+forgerock-web-login-framework,test(sdks-2051/storybook UI tests): Add more storybook tests,https://github.com/cerebrl/forgerock-web-login-framework/pull/27,2022-10-19T21:50:24Z,2022-10-26T22:49:03Z,13,1,MERGED
+forgerock-web-login-framework,feat(callbacks): add hidden-value callback and radio option for choice,https://github.com/cerebrl/forgerock-web-login-framework/pull/26,2022-10-19T17:47:19Z,2022-10-19T23:03:18Z,1,1,MERGED
+forgerock-web-login-framework,feat(self-submitting): add self-submitting form and pollingwait support,https://github.com/cerebrl/forgerock-web-login-framework/pull/25,2022-10-18T22:46:18Z,2022-10-25T23:25:22Z,17,2,MERGED
+forgerock-web-login-framework,feat(callbacks): display link to terms and conditions,https://github.com/cerebrl/forgerock-web-login-framework/pull/24,2022-10-18T18:34:51Z,2022-10-26T22:45:52Z,12,2,MERGED
+forgerock-web-login-framework,test: refactored tests for better async resilience and patterns,https://github.com/cerebrl/forgerock-web-login-framework/pull/23,2022-10-10T21:10:48Z,2023-01-06T21:02:20Z,9,1,MERGED
+forgerock-web-login-framework,feat(Sdks 2001): add hidden value callback and radio display type for choice callbacks,https://github.com/cerebrl/forgerock-web-login-framework/pull/22,2022-10-05T17:42:22Z,2022-10-19T17:49:42Z,18,18,CLOSED
+forgerock-web-login-framework,fix(readme): address feedback from SDKS-2070,https://github.com/cerebrl/forgerock-web-login-framework/pull/21,2022-10-04T22:47:56Z,2022-10-05T15:06:03Z,1,1,MERGED
+forgerock-web-login-framework,feat(logo): add logo support,https://github.com/cerebrl/forgerock-web-login-framework/pull/20,2022-09-29T22:56:47Z,2022-10-04T17:38:14Z,13,1,MERGED
+forgerock-web-login-framework,feat(Sdks/2006):add text output and suspend text output support,https://github.com/cerebrl/forgerock-web-login-framework/pull/19,2022-09-26T20:00:50Z,2022-10-05T15:10:39Z,11,3,MERGED
+forgerock-web-login-framework,feat(i18n): improve internationalization and refactor code,https://github.com/cerebrl/forgerock-web-login-framework/pull/18,2022-09-23T00:18:07Z,2022-10-02T19:08:47Z,19,2,MERGED
+forgerock-web-login-framework,feat: text-output-support,https://github.com/cerebrl/forgerock-web-login-framework/pull/17,2022-09-20T22:10:06Z,2022-09-26T20:05:54Z,17,2,CLOSED
+forgerock-web-login-framework,fix(readme): improve README.md for beta testing,https://github.com/cerebrl/forgerock-web-login-framework/pull/16,2022-09-19T19:38:55Z,2022-09-23T21:54:08Z,4,1,MERGED
+forgerock-web-login-framework,feat(theme): improve variable uses for better customization,https://github.com/cerebrl/forgerock-web-login-framework/pull/15,2022-09-14T23:21:18Z,2022-09-15T15:22:09Z,1,1,MERGED
+forgerock-web-login-framework,ci: ci-automatic-cors-config,https://github.com/cerebrl/forgerock-web-login-framework/pull/14,2022-09-08T17:20:59Z,2023-01-12T15:54:34Z,2,1,CLOSED
+forgerock-web-login-framework,feat(registration): complete registration flow and validation,https://github.com/cerebrl/forgerock-web-login-framework/pull/13,2022-09-07T22:23:15Z,2022-09-13T20:37:47Z,22,9,MERGED
+forgerock-web-login-framework,feat(registration): complete registration flow and validation,https://github.com/cerebrl/forgerock-web-login-framework/pull/12,2022-09-01T22:41:40Z,2022-09-07T22:22:45Z,1,5,CLOSED
+forgerock-web-login-framework,update: updated all dependencies to latest version,https://github.com/cerebrl/forgerock-web-login-framework/pull/11,2022-08-18T20:55:43Z,2022-08-24T02:37:43Z,17,9,MERGED
+forgerock-web-login-framework,"task(docs-feedback): improve documentation, add use testing, fix bugs",https://github.com/cerebrl/forgerock-web-login-framework/pull/10,2022-08-15T18:58:35Z,2022-08-19T21:05:20Z,2,5,MERGED
+forgerock-web-login-framework,build(tsup and packaging for npm): this changes the build system to t…,https://github.com/cerebrl/forgerock-web-login-framework/pull/54,2022-12-14T19:00:04Z,2022-12-15T21:54:55Z,11,2,CLOSED
+forgerock-web-login-framework,feat(callbacks): add social login providers,https://github.com/cerebrl/forgerock-web-login-framework/pull/53,2022-12-12T15:46:12Z,2022-12-16T00:03:18Z,16,2,MERGED
+forgerock-web-login-framework,fix(fixing release): commit the correct assets hopefully,https://github.com/cerebrl/forgerock-web-login-framework/pull/52,2022-12-11T00:13:25Z,2022-12-11T00:13:52Z,3,1,MERGED
+forgerock-web-login-framework,fix(move-readme-with-sh): move the readme file in exec prepare step,https://github.com/cerebrl/forgerock-web-login-framework/pull/51,2022-12-10T23:31:54Z,2022-12-10T23:44:44Z,4,1,MERGED
+forgerock-web-login-framework,fix-semantic-release-github,https://github.com/cerebrl/forgerock-web-login-framework/pull/50,2022-12-10T19:34:33Z,2022-12-10T20:37:28Z,4,1,MERGED
+forgerock-web-login-framework,Sdks 2111/improve local and ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/49,2022-12-10T18:23:43Z,2022-12-10T19:00:15Z,3,2,MERGED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/48,2022-12-10T15:50:38Z,2022-12-10T18:23:12Z,3,2,CLOSED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/47,2022-12-10T03:50:57Z,2022-12-10T04:10:11Z,3,1,MERGED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/46,2022-12-10T03:09:26Z,2022-12-10T03:30:32Z,3,1,MERGED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/44,2022-12-10T02:20:36Z,2022-12-10T02:59:53Z,3,1,MERGED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/43,2022-12-10T01:17:10Z,2022-12-10T01:55:23Z,2,1,MERGED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/42,2022-12-10T01:16:36Z,2022-12-10T01:16:51Z,1,1,CLOSED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/41,2022-12-10T00:05:29Z,2022-12-10T00:15:30Z,4,1,MERGED
+forgerock-web-login-framework,feat(semantic-release): semantic-release-and-ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/40,2022-12-09T21:45:21Z,2022-12-10T00:02:08Z,3,1,MERGED
+forgerock-web-login-framework,"Revert ""SDKS 2111/improve local and ci""",https://github.com/cerebrl/forgerock-web-login-framework/pull/39,2022-12-09T21:43:37Z,2022-12-09T21:43:45Z,1,1,MERGED
+forgerock-web-login-framework,ci: chromatic-on-non-draft-only,https://github.com/cerebrl/forgerock-web-login-framework/pull/38,2022-12-08T22:46:14Z,2022-12-09T18:14:52Z,3,1,MERGED
+forgerock-web-login-framework,SDKS 2111/improve local and ci,https://github.com/cerebrl/forgerock-web-login-framework/pull/37,2022-12-08T19:43:31Z,2022-12-09T21:41:30Z,6,1,MERGED
+forgerock-web-login-framework,"fix(build): fix build, type and test issues",https://github.com/cerebrl/forgerock-web-login-framework/pull/36,2022-12-07T22:41:14Z,2022-12-08T00:04:08Z,3,1,MERGED
+forgerock-web-login-framework,feat(journey): add configurable journeys,https://github.com/cerebrl/forgerock-web-login-framework/pull/35,2022-12-06T23:59:20Z,2022-12-13T21:47:58Z,29,4,MERGED
+forgerock-web-login-framework,feat(callbacks): add social login callbacks,https://github.com/cerebrl/forgerock-web-login-framework/pull/34,2022-11-25T18:37:11Z,2022-12-07T16:08:11Z,26,1,MERGED
+forgerock-web-login-framework,task(docs): add more information to docs,https://github.com/cerebrl/forgerock-web-login-framework/pull/33,2022-11-17T17:23:46Z,2023-01-05T17:12:03Z,5,1,MERGED
+forgerock-web-login-framework,SDKS-2112 First pass at login widget strings,https://github.com/cerebrl/forgerock-web-login-framework/pull/32,2022-11-17T16:24:19Z,2022-11-29T15:07:21Z,3,1,MERGED
+forgerock-web-login-framework,update-infra,https://github.com/cerebrl/forgerock-web-login-framework/pull/31,2022-11-16T20:31:32Z,2022-12-05T16:54:12Z,23,4,MERGED
+forgerock-web-login-framework,ci: use-playwright-sharding,https://github.com/cerebrl/forgerock-web-login-framework/pull/30,2022-11-15T21:22:48Z,2023-01-12T15:54:40Z,3,1,CLOSED
+forgerock-web-login-framework,feat(suspended-id): add support for suspended id,https://github.com/cerebrl/forgerock-web-login-framework/pull/29,2022-11-09T23:27:15Z,2022-11-14T21:29:26Z,16,1,MERGED
+forgerock-web-login-framework,ci: fix-dependabot-label,https://github.com/cerebrl/forgerock-web-login-framework/pull/70,2023-02-06T17:02:17Z,2023-02-06T17:03:54Z,1,8,CLOSED
+forgerock-web-login-framework,"fix(update-rollup): es only locally, cjs in CI for release",https://github.com/cerebrl/forgerock-web-login-framework/pull/69,2023-01-30T21:36:37Z,2023-01-30T22:04:27Z,3,1,MERGED
+forgerock-web-login-framework,Fix release,https://github.com/cerebrl/forgerock-web-login-framework/pull/68,2023-01-30T20:57:10Z,2023-01-30T21:12:35Z,4,1,MERGED
+forgerock-web-login-framework,sdks 2057/checkmarx compiled code,https://github.com/cerebrl/forgerock-web-login-framework/pull/66,2023-01-30T17:10:24Z,2023-01-30T20:48:59Z,6,1,MERGED
+forgerock-web-login-framework,feat(notify-slack): slack notification on semantic-version-release,https://github.com/cerebrl/forgerock-web-login-framework/pull/65,2023-01-26T17:24:52Z,2023-01-26T17:58:10Z,4,1,MERGED
+forgerock-web-login-framework,SDKS-2337/link-bug-requirement,https://github.com/cerebrl/forgerock-web-login-framework/pull/64,2023-01-24T23:27:26Z,2023-01-25T23:40:19Z,5,2,MERGED
+forgerock-web-login-framework,fix(release-process): husky breaks ci commits so we should disable it,https://github.com/cerebrl/forgerock-web-login-framework/pull/63,2023-01-17T22:44:38Z,2023-01-19T18:07:35Z,4,1,MERGED
+forgerock-web-login-framework,SDKS 2268/textoutput button render,https://github.com/cerebrl/forgerock-web-login-framework/pull/62,2023-01-17T21:42:53Z,2023-01-24T19:54:00Z,7,3,CLOSED
+forgerock-web-login-framework,refactor(journey): moved step metadata related work into the journey store,https://github.com/cerebrl/forgerock-web-login-framework/pull/61,2023-01-13T20:59:49Z,2023-01-25T23:36:01Z,29,4,MERGED
+forgerock-web-login-framework,fix(root): update publishing to add readme and changelog,https://github.com/cerebrl/forgerock-web-login-framework/pull/60,2023-01-12T17:20:03Z,2023-01-17T22:28:56Z,4,1,MERGED
+forgerock-web-login-framework,ci env in release,https://github.com/cerebrl/forgerock-web-login-framework/pull/59,2023-01-12T16:24:29Z,2023-01-12T16:43:52Z,4,1,MERGED
+forgerock-web-login-framework,fix(add env in release): we need to pass env var in release,https://github.com/cerebrl/forgerock-web-login-framework/pull/58,2023-01-12T15:54:50Z,2023-01-12T16:13:49Z,4,1,MERGED
+forgerock-web-login-framework,fix semantic release,https://github.com/cerebrl/forgerock-web-login-framework/pull/57,2023-01-12T01:03:09Z,2023-01-12T15:34:20Z,6,2,MERGED
+forgerock-web-login-framework,fix semantic release,https://github.com/cerebrl/forgerock-web-login-framework/pull/56,2023-01-11T23:26:42Z,2023-01-11T23:42:40Z,4,1,MERGED
+forgerock-web-login-framework,feat(root): update-package-publishing,https://github.com/cerebrl/forgerock-web-login-framework/pull/55,2023-01-03T21:47:17Z,2023-01-11T22:53:12Z,24,1,MERGED

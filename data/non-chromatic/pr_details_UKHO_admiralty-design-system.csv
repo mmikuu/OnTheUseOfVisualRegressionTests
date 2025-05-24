@@ -1,0 +1,152 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+admiralty-design-system,fix: devcontainers,https://github.com/UKHO/admiralty-design-system/pull/36,2023-05-24T16:14:50Z,2023-05-24T16:18:25Z,1,1,MERGED
+admiralty-design-system,Adding a focus outline to the checkbox to show focus state,https://github.com/UKHO/admiralty-design-system/pull/35,2023-05-24T10:45:42Z,2023-11-11T01:48:06Z,2,3,CLOSED
+admiralty-design-system,New Tabgroup web component,https://github.com/UKHO/admiralty-design-system/pull/33,2023-05-19T15:38:11Z,2023-06-06T08:33:33Z,6,18,MERGED
+admiralty-design-system,Remove dependabot updates,https://github.com/UKHO/admiralty-design-system/pull/32,2023-05-18T08:46:31Z,2023-05-18T11:00:46Z,1,1,MERGED
+admiralty-design-system,Add in a dependabot.yml to scan all the directories,https://github.com/UKHO/admiralty-design-system/pull/9,2023-05-17T08:34:49Z,2023-05-17T09:01:52Z,1,3,MERGED
+admiralty-design-system,Update README.md,https://github.com/UKHO/admiralty-design-system/pull/8,2023-05-16T16:57:47Z,2023-05-16T17:02:50Z,1,1,MERGED
+admiralty-design-system,Update packages,https://github.com/UKHO/admiralty-design-system/pull/7,2023-05-16T16:00:39Z,2023-05-17T08:31:24Z,1,1,MERGED
+admiralty-design-system,Improve READMEs,https://github.com/UKHO/admiralty-design-system/pull/6,2023-05-16T15:00:21Z,2023-05-16T15:16:57Z,1,2,MERGED
+admiralty-design-system,Fixing the stylesheets and webfonts missing from the NPM package,https://github.com/UKHO/admiralty-design-system/pull/5,2023-05-16T14:30:51Z,2023-05-16T14:47:52Z,1,2,MERGED
+admiralty-design-system,Made header component responsive,https://github.com/UKHO/admiralty-design-system/pull/3,2023-05-15T16:39:02Z,2023-05-16T13:50:15Z,2,5,MERGED
+admiralty-design-system,Fixing Auto admin access to the repo,https://github.com/UKHO/admiralty-design-system/pull/2,2023-05-12T16:48:58Z,2023-05-12T17:02:39Z,1,2,MERGED
+admiralty-design-system,Fix release workflow,https://github.com/UKHO/admiralty-design-system/pull/1,2023-05-12T16:01:26Z,2023-05-12T16:32:58Z,1,3,MERGED
+admiralty-design-system,fix: Make Progress Bar progressvalue reactive,https://github.com/UKHO/admiralty-design-system/pull/94,2023-07-26T10:26:10Z,2023-07-26T13:01:57Z,2,2,MERGED
+admiralty-design-system,chore: Upgrade packages,https://github.com/UKHO/admiralty-design-system/pull/93,2023-07-25T16:19:20Z,2023-07-26T10:39:45Z,1,1,MERGED
+admiralty-design-system,fix: admiralty select admiralty input styling alignment,https://github.com/UKHO/admiralty-design-system/pull/90,2023-07-20T10:37:56Z,2023-07-20T12:57:40Z,3,5,MERGED
+admiralty-design-system,chore: Add -Component suffix to all Table related components,https://github.com/UKHO/admiralty-design-system/pull/89,2023-07-19T09:41:01Z,2023-07-19T09:55:54Z,1,1,MERGED
+admiralty-design-system,fix: Typeahead drawer positioning,https://github.com/UKHO/admiralty-design-system/pull/85,2023-07-11T12:16:11Z,2023-07-11T12:29:39Z,1,2,MERGED
+admiralty-design-system,fix: progress bar colours in Firefox,https://github.com/UKHO/admiralty-design-system/pull/83,2023-07-11T10:08:47Z,2023-07-11T13:23:34Z,1,2,MERGED
+admiralty-design-system,fix: input component invalid error message layout space not reserved when not displayed,https://github.com/UKHO/admiralty-design-system/pull/82,2023-07-10T13:56:45Z,2023-07-11T09:27:52Z,1,2,MERGED
+admiralty-design-system,fix: admiralty type ahead item fails to append value on dynamic data,https://github.com/UKHO/admiralty-design-system/pull/80,2023-07-07T14:16:12Z,2023-07-10T09:39:05Z,1,5,MERGED
+admiralty-design-system,Fix textarea so that it works with the Angular form controls,https://github.com/UKHO/admiralty-design-system/pull/79,2023-07-07T09:39:49Z,2023-07-07T11:25:33Z,1,4,MERGED
+admiralty-design-system,Adding a custom file input event,https://github.com/UKHO/admiralty-design-system/pull/75,2023-07-07T08:48:33Z,2023-07-07T10:22:26Z,1,3,MERGED
+admiralty-design-system,Removing whitespace from package.json,https://github.com/UKHO/admiralty-design-system/pull/73,2023-07-06T12:45:01Z,2023-07-06T13:17:43Z,1,2,MERGED
+admiralty-design-system,Add Max length to text area,https://github.com/UKHO/admiralty-design-system/pull/72,2023-07-06T10:18:49Z,2023-07-06T13:06:53Z,0,2,CLOSED
+admiralty-design-system,Add maxlength to textarea,https://github.com/UKHO/admiralty-design-system/pull/71,2023-07-06T09:26:17Z,2023-07-06T09:57:11Z,0,3,CLOSED
+admiralty-design-system,Remove protected branch plugin,https://github.com/UKHO/admiralty-design-system/pull/70,2023-07-06T08:40:03Z,2023-07-06T09:03:39Z,1,1,MERGED
+admiralty-design-system,Adding required checks to protect branch,https://github.com/UKHO/admiralty-design-system/pull/69,2023-07-05T08:45:51Z,2023-07-05T09:55:45Z,0,3,CLOSED
+admiralty-design-system,adding required status checks to the protected branch config,https://github.com/UKHO/admiralty-design-system/pull/67,2023-07-04T17:03:15Z,2023-07-04T17:08:43Z,1,1,MERGED
+admiralty-design-system,fix: admiralty textarea does not support maxlength,https://github.com/UKHO/admiralty-design-system/pull/65,2023-07-03T16:24:40Z,2023-07-06T10:40:55Z,1,5,MERGED
+admiralty-design-system,adding an exports field to the package.json in the angular package,https://github.com/UKHO/admiralty-design-system/pull/63,2023-06-28T15:44:12Z,2023-07-04T16:08:31Z,2,55,MERGED
+admiralty-design-system,feat: Header Components - tab through navigation using keyboard,https://github.com/UKHO/admiralty-design-system/pull/62,2023-06-28T11:32:51Z,2023-07-26T13:52:48Z,8,15,MERGED
+admiralty-design-system,Fixing the package version desync,https://github.com/UKHO/admiralty-design-system/pull/60,2023-06-27T13:09:15Z,2023-06-28T10:45:59Z,1,6,MERGED
+admiralty-design-system,"Setting the core dependency as a ""link:""",https://github.com/UKHO/admiralty-design-system/pull/59,2023-06-27T08:44:10Z,2023-06-27T09:57:49Z,0,3,CLOSED
+admiralty-design-system,Making sure that the release action uses an immutable lock file,https://github.com/UKHO/admiralty-design-system/pull/58,2023-06-23T13:34:14Z,2023-06-23T13:40:59Z,1,1,MERGED
+admiralty-design-system,Readmore web component,https://github.com/UKHO/admiralty-design-system/pull/47,2023-06-15T17:37:10Z,2023-06-21T14:42:42Z,2,36,MERGED
+admiralty-design-system,Attempting to support angular 12+ by building with angular 12,https://github.com/UKHO/admiralty-design-system/pull/46,2023-06-15T10:56:15Z,2023-07-06T17:08:37Z,1,5,MERGED
+admiralty-design-system,chore: Make prettier format by default in dev environment using vscode,https://github.com/UKHO/admiralty-design-system/pull/44,2023-06-14T13:56:10Z,2023-06-14T14:45:58Z,1,2,MERGED
+admiralty-design-system,Fix angular form control value accessors not being available,https://github.com/UKHO/admiralty-design-system/pull/41,2023-06-13T09:15:01Z,2023-06-23T11:18:00Z,1,9,MERGED
+admiralty-design-system,Typeahead web component fixes,https://github.com/UKHO/admiralty-design-system/pull/40,2023-06-09T17:33:48Z,2023-06-22T15:01:58Z,2,37,MERGED
+admiralty-design-system,Scoped components,https://github.com/UKHO/admiralty-design-system/pull/39,2023-06-01T11:24:36Z,2023-06-14T14:03:11Z,13,32,MERGED
+admiralty-design-system,adding in the principles as static pages,https://github.com/UKHO/admiralty-design-system/pull/125,2023-10-19T14:44:08Z,2023-11-28T14:35:36Z,8,12,MERGED
+admiralty-design-system,Create doc site,https://github.com/UKHO/admiralty-design-system/pull/124,2023-10-18T09:55:02Z,2023-10-19T12:10:54Z,2,18,MERGED
+admiralty-design-system,fix: Add missing border style for invalid file input,https://github.com/UKHO/admiralty-design-system/pull/123,2023-10-17T16:59:55Z,2023-10-18T08:08:26Z,1,1,MERGED
+admiralty-design-system,feat: Add invalid and invalidMessage to File Input and remove layout bottom margin,https://github.com/UKHO/admiralty-design-system/pull/121,2023-10-17T14:00:37Z,2023-10-17T14:46:22Z,1,1,MERGED
+admiralty-design-system,feat: Remove admiralty-file-input label update behaviour when files are selected,https://github.com/UKHO/admiralty-design-system/pull/120,2023-10-17T12:26:45Z,2023-10-17T13:10:50Z,1,2,MERGED
+admiralty-design-system,fix: Input Invalid consistency,https://github.com/UKHO/admiralty-design-system/pull/110,2023-09-06T19:45:17Z,2023-09-13T08:32:09Z,3,4,MERGED
+admiralty-design-system,chore: Upgrade packages,https://github.com/UKHO/admiralty-design-system/pull/108,2023-09-05T10:26:25Z,2023-09-05T10:43:50Z,1,2,MERGED
+admiralty-design-system,Adding in invalid props to the radio group ,https://github.com/UKHO/admiralty-design-system/pull/107,2023-08-31T10:02:15Z,2023-08-31T13:26:52Z,1,3,MERGED
+admiralty-design-system,Fixing the radio component hit detection,https://github.com/UKHO/admiralty-design-system/pull/105,2023-08-25T10:33:40Z,2023-08-29T09:17:49Z,1,1,MERGED
+admiralty-design-system,Fixing the text area event name change that was forgotten,https://github.com/UKHO/admiralty-design-system/pull/104,2023-08-24T14:28:44Z,2023-08-24T14:39:58Z,1,1,MERGED
+admiralty-design-system,Fix: Input and Radio Group event names clashing,https://github.com/UKHO/admiralty-design-system/pull/103,2023-08-24T12:16:18Z,2023-08-24T12:59:06Z,1,1,MERGED
+admiralty-design-system,fix: admiralty input validation displays exclamation mark when invalid message is not provided,https://github.com/UKHO/admiralty-design-system/pull/101,2023-08-17T14:46:43Z,2023-08-17T14:59:07Z,1,2,MERGED
+admiralty-design-system, feat: Add maxLength property to Textarea,https://github.com/UKHO/admiralty-design-system/pull/100,2023-08-16T13:19:36Z,2023-08-16T13:43:59Z,1,1,MERGED
+admiralty-design-system,chore: Update storybook,https://github.com/UKHO/admiralty-design-system/pull/96,2023-08-14T09:19:34Z,2023-08-14T14:36:15Z,1,1,MERGED
+admiralty-design-system,Add react and website packages to labeler,https://github.com/UKHO/admiralty-design-system/pull/140,2023-11-30T11:03:09Z,2023-11-30T11:57:37Z,1,1,MERGED
+admiralty-design-system,fix: Replace colour block click action with colourBlockLinkClicked event,https://github.com/UKHO/admiralty-design-system/pull/139,2023-11-28T17:00:25Z,2023-11-30T10:20:10Z,1,3,MERGED
+admiralty-design-system,Add brand guide to website,https://github.com/UKHO/admiralty-design-system/pull/138,2023-11-28T16:29:32Z,2023-11-30T13:31:27Z,4,19,MERGED
+admiralty-design-system,Adding a custom copy code component,https://github.com/UKHO/admiralty-design-system/pull/135,2023-11-14T16:46:18Z,2023-11-27T14:31:51Z,3,4,MERGED
+admiralty-design-system,Make LF,https://github.com/UKHO/admiralty-design-system/pull/133,2023-11-10T13:57:18Z,2024-04-30T10:02:46Z,2,2,CLOSED
+admiralty-design-system,Add website component examples,https://github.com/UKHO/admiralty-design-system/pull/132,2023-11-10T12:36:09Z,2023-12-06T10:24:42Z,55,71,MERGED
+admiralty-design-system,Fixing the website close PR job,https://github.com/UKHO/admiralty-design-system/pull/129,2023-11-07T16:50:34Z,2023-11-08T09:32:52Z,2,1,MERGED
+admiralty-design-system,Design system homepage,https://github.com/UKHO/admiralty-design-system/pull/128,2023-11-07T16:42:22Z,2023-11-08T15:44:50Z,7,12,MERGED
+admiralty-design-system,feat: Add Modal Dialog,https://github.com/UKHO/admiralty-design-system/pull/176,2024-03-19T17:36:08Z,2024-05-23T11:58:58Z,27,23,MERGED
+admiralty-design-system,Resize Admiralty Button,https://github.com/UKHO/admiralty-design-system/pull/175,2024-03-18T10:54:09Z,2024-04-08T14:23:53Z,3,2,MERGED
+admiralty-design-system,Properly describe form validation errors,https://github.com/UKHO/admiralty-design-system/pull/166,2024-03-01T10:50:05Z,2024-07-29T08:20:17Z,13,13,MERGED
+admiralty-design-system,Refactor styling to use CSS variables instead of SCSS,https://github.com/UKHO/admiralty-design-system/pull/165,2024-02-28T09:37:44Z,2024-09-20T13:23:58Z,20,41,MERGED
+admiralty-design-system,Add skip link component,https://github.com/UKHO/admiralty-design-system/pull/164,2024-02-21T10:55:35Z,2024-02-22T09:21:59Z,3,3,MERGED
+admiralty-design-system,Finish component examples,https://github.com/UKHO/admiralty-design-system/pull/156,2024-02-05T10:28:46Z,2024-02-27T09:15:34Z,15,36,MERGED
+admiralty-design-system,Update packages,https://github.com/UKHO/admiralty-design-system/pull/154,2024-01-09T17:57:39Z,2024-01-10T09:36:01Z,1,4,MERGED
+admiralty-design-system,Removing the snowfall easter egg,https://github.com/UKHO/admiralty-design-system/pull/152,2024-01-09T09:04:53Z,2024-01-09T09:15:31Z,1,1,MERGED
+admiralty-design-system,Fix deployment,https://github.com/UKHO/admiralty-design-system/pull/151,2024-01-05T11:33:10Z,2024-01-05T11:38:19Z,1,2,MERGED
+admiralty-design-system,Adding the ability to turn off the signout and account button on the header profile,https://github.com/UKHO/admiralty-design-system/pull/150,2024-01-05T08:43:33Z,2024-01-05T10:24:25Z,1,1,MERGED
+admiralty-design-system,feat: Add Pill component,https://github.com/UKHO/admiralty-design-system/pull/206,2024-05-23T17:34:08Z,2024-11-04T15:55:17Z,6,18,CLOSED
+admiralty-design-system,fix: Make disabled colours pass AA colour contrast,https://github.com/UKHO/admiralty-design-system/pull/205,2024-05-23T15:49:10Z,2024-11-04T13:05:41Z,1,1,CLOSED
+admiralty-design-system,fix: Fix logo alt text so that it matches the image,https://github.com/UKHO/admiralty-design-system/pull/204,2024-05-23T15:20:33Z,2024-09-06T09:52:41Z,3,2,MERGED
+admiralty-design-system,Autocomplete dropdown,https://github.com/UKHO/admiralty-design-system/pull/197,2024-05-21T13:12:31Z,2024-08-02T09:06:18Z,45,99,MERGED
+admiralty-design-system,Update Admiralty Stacked Logo,https://github.com/UKHO/admiralty-design-system/pull/196,2024-05-20T15:39:15Z,2024-05-21T14:24:14Z,2,1,MERGED
+admiralty-design-system,Fix storybook auto refresh bug,https://github.com/UKHO/admiralty-design-system/pull/193,2024-05-13T09:46:15Z,2024-05-14T07:56:45Z,6,5,MERGED
+admiralty-design-system,chore: Upgrade Packages,https://github.com/UKHO/admiralty-design-system/pull/190,2024-04-30T17:16:51Z,2024-05-07T13:01:47Z,10,9,MERGED
+admiralty-design-system,fix: input error spacing,https://github.com/UKHO/admiralty-design-system/pull/229,2024-07-30T15:39:43Z,2024-08-02T10:05:12Z,4,7,MERGED
+admiralty-design-system,fix: page width on design system website,https://github.com/UKHO/admiralty-design-system/pull/228,2024-07-29T16:27:28Z,2024-07-31T10:36:04Z,4,4,MERGED
+admiralty-design-system,Change Header Component to H2,https://github.com/UKHO/admiralty-design-system/pull/225,2024-07-08T08:44:21Z,2024-09-05T12:56:49Z,7,11,MERGED
+admiralty-design-system,Feat: New Pill style component,https://github.com/UKHO/admiralty-design-system/pull/287,2024-10-31T12:22:19Z,2025-01-06T13:07:29Z,20,30,MERGED
+admiralty-design-system,Feat: Remake typographic scale,https://github.com/UKHO/admiralty-design-system/pull/286,2024-10-29T10:35:31Z,2024-11-22T13:58:50Z,16,56,MERGED
+admiralty-design-system,Feat: New Minified Footer component,https://github.com/UKHO/admiralty-design-system/pull/284,2024-10-11T12:51:08Z,2024-12-20T14:53:09Z,17,16,MERGED
+admiralty-design-system,Feat: Add accessibility statement to the DS website,https://github.com/UKHO/admiralty-design-system/pull/283,2024-10-07T14:47:41Z,2024-10-11T13:08:58Z,3,2,MERGED
+admiralty-design-system,Fixing missing release,https://github.com/UKHO/admiralty-design-system/pull/282,2024-10-04T13:33:29Z,2024-10-04T14:19:12Z,2,3,MERGED
+admiralty-design-system,Adding missing release content,https://github.com/UKHO/admiralty-design-system/pull/281,2024-10-04T12:34:56Z,2024-10-04T13:33:17Z,0,3,CLOSED
+admiralty-design-system,Merge Next Into Main,https://github.com/UKHO/admiralty-design-system/pull/280,2024-10-04T09:56:38Z,2024-10-04T10:43:03Z,2,17,MERGED
+admiralty-design-system,Revert 2.0.0 release,https://github.com/UKHO/admiralty-design-system/pull/279,2024-10-04T09:29:03Z,2024-10-04T09:52:31Z,2,4,MERGED
+admiralty-design-system,Release 2.0.0,https://github.com/UKHO/admiralty-design-system/pull/278,2024-10-04T08:57:30Z,2024-10-04T09:09:15Z,2,16,CLOSED
+admiralty-design-system,Release 2.0.0,https://github.com/UKHO/admiralty-design-system/pull/277,2024-10-04T07:46:07Z,2024-10-04T08:49:36Z,1,15,MERGED
+admiralty-design-system,fix: rename id to be internalId,https://github.com/UKHO/admiralty-design-system/pull/276,2024-10-03T14:02:43Z,2024-10-03T15:56:03Z,2,1,MERGED
+admiralty-design-system,Create migration guide for v2.0,https://github.com/UKHO/admiralty-design-system/pull/275,2024-10-02T10:30:19Z,2024-10-03T13:25:04Z,6,4,MERGED
+admiralty-design-system,Feat: updated documentation for content design,https://github.com/UKHO/admiralty-design-system/pull/272,2024-10-01T12:52:23Z,2024-10-11T14:35:26Z,5,5,MERGED
+admiralty-design-system,Feat: Include documentation to demonstrate a placeholder option,https://github.com/UKHO/admiralty-design-system/pull/271,2024-10-01T12:35:16Z,2024-10-11T13:09:57Z,3,3,MERGED
+admiralty-design-system,fix: Header sub menu items should be links,https://github.com/UKHO/admiralty-design-system/pull/270,2024-09-27T15:08:07Z,2024-10-02T10:26:41Z,2,3,MERGED
+admiralty-design-system,Fix: cannot hide admiralty-checkbox label to be accessible ,https://github.com/UKHO/admiralty-design-system/pull/269,2024-09-27T09:50:41Z,2024-10-01T13:33:35Z,7,6,MERGED
+admiralty-design-system,Create getting started page,https://github.com/UKHO/admiralty-design-system/pull/268,2024-09-26T09:06:08Z,2024-09-27T12:34:59Z,5,7,MERGED
+admiralty-design-system,Make React Package Public,https://github.com/UKHO/admiralty-design-system/pull/267,2024-09-23T10:38:35Z,2024-09-23T13:58:25Z,3,2,MERGED
+admiralty-design-system,Upgrading dependencies to latest versions,https://github.com/UKHO/admiralty-design-system/pull/266,2024-09-20T14:53:07Z,2024-09-23T08:29:33Z,6,7,MERGED
+admiralty-design-system,Replace incorrect colour definition for info dialogue,https://github.com/UKHO/admiralty-design-system/pull/265,2024-09-20T14:22:46Z,2024-09-20T14:44:29Z,2,1,MERGED
+admiralty-design-system,Update next with latest changes from main,https://github.com/UKHO/admiralty-design-system/pull/260,2024-09-18T14:19:11Z,2024-09-18T14:37:44Z,2,6,MERGED
+admiralty-design-system,Update build.yml to remove website exclude rule,https://github.com/UKHO/admiralty-design-system/pull/259,2024-09-18T13:32:22Z,2024-09-18T14:05:14Z,3,2,MERGED
+admiralty-design-system,Update build.yml to remove website exclude rule,https://github.com/UKHO/admiralty-design-system/pull/258,2024-09-18T13:28:23Z,2024-09-18T13:31:24Z,1,1,CLOSED
+admiralty-design-system,Update profile menu mouse events,https://github.com/UKHO/admiralty-design-system/pull/256,2024-09-17T14:12:39Z,2024-09-18T13:34:00Z,3,2,MERGED
+admiralty-design-system,Header nav structure,https://github.com/UKHO/admiralty-design-system/pull/255,2024-09-17T13:09:06Z,2024-09-18T14:12:42Z,5,7,MERGED
+admiralty-design-system,Update focus highlights for header mobile menus ,https://github.com/UKHO/admiralty-design-system/pull/254,2024-09-16T14:13:57Z,2024-09-18T13:25:10Z,6,5,MERGED
+admiralty-design-system,Error summary component,https://github.com/UKHO/admiralty-design-system/pull/253,2024-09-10T16:27:48Z,2024-09-13T14:22:24Z,11,14,MERGED
+admiralty-design-system,Update angular version to 16,https://github.com/UKHO/admiralty-design-system/pull/252,2024-09-09T16:05:19Z,2024-09-12T09:09:10Z,2,2,MERGED
+admiralty-design-system,Update menu items to be correct colour,https://github.com/UKHO/admiralty-design-system/pull/250,2024-09-05T14:03:00Z,2024-09-05T16:02:37Z,4,3,MERGED
+admiralty-design-system,Unify focus highlight and colours for all components,https://github.com/UKHO/admiralty-design-system/pull/248,2024-09-04T14:09:38Z,2024-09-06T13:07:39Z,10,13,MERGED
+admiralty-design-system,Remove maxinput property from input fields,https://github.com/UKHO/admiralty-design-system/pull/247,2024-08-30T15:20:34Z,2024-09-05T15:20:31Z,2,2,MERGED
+admiralty-design-system,Update radio buttons and radio group,https://github.com/UKHO/admiralty-design-system/pull/246,2024-08-30T13:27:22Z,2024-09-05T14:46:03Z,5,9,MERGED
+admiralty-design-system,Update dialogue text to be a h2,https://github.com/UKHO/admiralty-design-system/pull/245,2024-08-27T14:47:09Z,2024-09-05T13:15:39Z,5,7,MERGED
+admiralty-design-system,Remove aria-hidden attribute from file upload and cater for no files selected,https://github.com/UKHO/admiralty-design-system/pull/244,2024-08-23T14:42:05Z,2024-08-27T10:20:18Z,1,2,MERGED
+admiralty-design-system,chore: Upgrade to Yarn 4.x from 3.x,https://github.com/UKHO/admiralty-design-system/pull/243,2024-08-20T14:19:45Z,2024-11-27T11:50:06Z,1,1,CLOSED
+admiralty-design-system,chore: Update packages,https://github.com/UKHO/admiralty-design-system/pull/242,2024-08-20T12:21:03Z,2024-08-20T13:35:25Z,2,4,MERGED
+admiralty-design-system,"fix: Forward additional attributes name, form and value to button",https://github.com/UKHO/admiralty-design-system/pull/240,2024-08-07T14:23:43Z,2024-08-23T10:04:00Z,3,4,MERGED
+admiralty-design-system,Do not clear autocomplete default value before options have been rendered,https://github.com/UKHO/admiralty-design-system/pull/239,2024-08-07T10:41:26Z,2024-08-07T15:05:31Z,1,1,MERGED
+admiralty-design-system,Improve colour block component accessibility,https://github.com/UKHO/admiralty-design-system/pull/238,2024-08-06T15:29:24Z,2024-09-05T09:50:55Z,8,7,MERGED
+admiralty-design-system,chore: manually update changelog,https://github.com/UKHO/admiralty-design-system/pull/236,2024-08-02T14:57:52Z,2024-08-23T10:20:37Z,6,5,MERGED
+admiralty-design-system,Bump versions and manually update change logs,https://github.com/UKHO/admiralty-design-system/pull/235,2024-08-02T11:43:02Z,2024-08-02T13:04:12Z,1,1,MERGED
+admiralty-design-system,fix: force the header to re-render when the slot contents change,https://github.com/UKHO/admiralty-design-system/pull/234,2024-08-02T09:50:06Z,2024-08-05T09:30:41Z,6,5,MERGED
+admiralty-design-system,feature: header items should be links,https://github.com/UKHO/admiralty-design-system/pull/233,2024-08-01T12:48:11Z,2024-09-05T10:42:19Z,16,13,MERGED
+admiralty-design-system,feature: do not display error component when no error is present,https://github.com/UKHO/admiralty-design-system/pull/232,2024-08-01T12:26:28Z,2024-08-02T13:38:02Z,4,5,MERGED
+admiralty-design-system,Feat: Updated card component stories to display customisable cards using the pill component.,https://github.com/UKHO/admiralty-design-system/pull/328,2024-12-30T13:48:31Z,2025-01-14T14:03:26Z,5,37,MERGED
+admiralty-design-system,Fix: Input to behave correctly with aria-describedby,https://github.com/UKHO/admiralty-design-system/pull/326,2024-12-19T12:51:39Z,2025-01-14T11:25:27Z,3,6,MERGED
+admiralty-design-system,Fix: Cannot use a number type in the admiralty-autocomplete-option value property,https://github.com/UKHO/admiralty-design-system/pull/325,2024-12-16T12:41:06Z,2025-01-06T15:51:32Z,6,3,MERGED
+admiralty-design-system,Fix: Progress bar component not rendering on the documentation website,https://github.com/UKHO/admiralty-design-system/pull/323,2024-12-13T11:22:32Z,2024-12-17T11:16:24Z,3,2,MERGED
+admiralty-design-system,Feat: Create Patterns Page,https://github.com/UKHO/admiralty-design-system/pull/321,2024-12-12T16:16:53Z,2025-01-22T14:11:20Z,15,44,MERGED
+admiralty-design-system,Fix: Update missing typographic sizes,https://github.com/UKHO/admiralty-design-system/pull/315,2024-12-02T12:56:11Z,2024-12-13T09:49:37Z,6,6,MERGED
+admiralty-design-system,Fix theme typo for font-size-7,https://github.com/UKHO/admiralty-design-system/pull/313,2024-11-28T13:18:51Z,2024-11-28T13:26:31Z,2,1,MERGED
+admiralty-design-system,Upgrade yarn to v4,https://github.com/UKHO/admiralty-design-system/pull/311,2024-11-27T11:49:40Z,2024-11-27T13:54:22Z,3,3,MERGED
+admiralty-design-system,Merge: main into next,https://github.com/UKHO/admiralty-design-system/pull/310,2024-11-26T16:25:55Z,2024-11-27T10:46:27Z,2,7,CLOSED
+admiralty-design-system,Updating Nx and lerna to the latest version,https://github.com/UKHO/admiralty-design-system/pull/309,2024-11-26T14:27:38Z,2024-11-26T16:17:31Z,3,2,MERGED
+admiralty-design-system,Fix: theme file missing when packaged,https://github.com/UKHO/admiralty-design-system/pull/308,2024-11-26T13:50:11Z,2024-11-26T14:00:43Z,2,1,MERGED
+admiralty-design-system,Fix: theme styles missing when packaged (DO NOT MERGE),https://github.com/UKHO/admiralty-design-system/pull/307,2024-11-26T11:28:12Z,2024-11-26T13:52:39Z,4,10,CLOSED
+admiralty-design-system,Feat: Create Patterns Page,https://github.com/UKHO/admiralty-design-system/pull/305,2024-11-26T09:29:32Z,2024-12-03T09:48:32Z,1,9,CLOSED
+admiralty-design-system,Fix: missing theme styles when packaged (DO NOT MERGE),https://github.com/UKHO/admiralty-design-system/pull/302,2024-11-22T16:15:50Z,2024-11-26T11:29:36Z,1,6,CLOSED
+admiralty-design-system,Docs: updated documentation for admiralty select,https://github.com/UKHO/admiralty-design-system/pull/295,2024-11-20T14:36:50Z,2024-11-25T09:37:06Z,2,4,MERGED
+admiralty-design-system,Fix: disabled checkbox,https://github.com/UKHO/admiralty-design-system/pull/294,2024-11-18T15:46:55Z,2024-11-22T15:55:51Z,3,2,MERGED
+admiralty-design-system,Feat: Update autocomplete to hide chevron and removed typeahead,https://github.com/UKHO/admiralty-design-system/pull/292,2024-11-13T16:24:30Z,2025-01-14T12:32:06Z,6,7,MERGED
+admiralty-design-system,Fix: Readmore component needs refining,https://github.com/UKHO/admiralty-design-system/pull/289,2024-11-07T14:16:24Z,2024-11-26T14:01:10Z,7,6,MERGED
+admiralty-design-system,Fix: Accessibility Disable Input labels and hint text fail WCAG 1.4.3 ,https://github.com/UKHO/admiralty-design-system/pull/288,2024-11-04T13:03:12Z,2024-11-11T09:19:39Z,2,1,MERGED
+admiralty-design-system,Fix: Button with Text and Icon spacing needs amending,https://github.com/UKHO/admiralty-design-system/pull/341,2025-02-05T16:27:07Z,2025-02-26T09:45:52Z,4,4,MERGED
+admiralty-design-system,Add spacing on button with text and icon,https://github.com/UKHO/admiralty-design-system/pull/339,2025-01-31T09:40:49Z,2025-02-20T09:36:24Z,2,1,CLOSED
+admiralty-design-system,Adding in the ability to pass in a filter function to the autocomplete,https://github.com/UKHO/admiralty-design-system/pull/338,2025-01-30T10:47:06Z,2025-02-21T12:06:40Z,4,4,MERGED
+admiralty-design-system,Fix: option weight,https://github.com/UKHO/admiralty-design-system/pull/337,2025-01-17T13:19:49Z,2025-02-21T11:52:44Z,3,2,MERGED
+admiralty-design-system,Version 4 release,https://github.com/UKHO/admiralty-design-system/pull/335,2025-01-14T15:47:59Z,2025-01-15T13:46:18Z,3,20,MERGED
+admiralty-design-system,332 Add link component to Documentation Website,https://github.com/UKHO/admiralty-design-system/pull/333,2025-01-09T14:26:26Z,2025-01-14T12:33:37Z,3,5,MERGED

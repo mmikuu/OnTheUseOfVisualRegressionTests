@@ -1,0 +1,141 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+chromatic-e2e,Update Documentation.md,https://github.com/chromaui/chromatic-e2e/pull/3,2023-05-05T14:17:31Z,2023-05-07T23:43:31Z,2,1,MERGED
+chromatic-e2e,Continue failed requests too,https://github.com/chromaui/chromatic-e2e/pull/2,2023-04-18T01:38:55Z,2023-04-18T03:22:16Z,1,1,MERGED
+chromatic-e2e,Don't cache resources from external URLs,https://github.com/chromaui/chromatic-e2e/pull/1,2023-04-17T11:38:18Z,2023-04-18T00:25:24Z,2,1,MERGED
+chromatic-e2e,Document how to install archive storybook with peer deps,https://github.com/chromaui/chromatic-e2e/pull/6,2023-07-17T05:20:56Z,2023-08-07T23:35:07Z,2,3,MERGED
+chromatic-e2e,Update docs,https://github.com/chromaui/chromatic-e2e/pull/4,2023-06-02T21:18:18Z,2023-06-04T23:46:24Z,2,1,MERGED
+chromatic-e2e,Publish Archive Storybook to Chromatic,https://github.com/chromaui/chromatic-e2e/pull/30,2023-10-30T21:01:08Z,2023-10-31T15:40:52Z,1,4,MERGED
+chromatic-e2e,Cypress support (basic),https://github.com/chromaui/chromatic-e2e/pull/29,2023-10-27T21:27:34Z,2023-11-08T20:20:07Z,11,35,MERGED
+chromatic-e2e,Consolidate asset path modifications and mappings,https://github.com/chromaui/chromatic-e2e/pull/28,2023-10-26T00:22:03Z,2023-10-30T17:02:37Z,4,9,MERGED
+chromatic-e2e,Add a file extension based on Content-Type header for files that have it,https://github.com/chromaui/chromatic-e2e/pull/27,2023-10-20T19:57:34Z,2023-10-23T18:30:56Z,7,5,MERGED
+chromatic-e2e,:bug: Fix issue where the networkTimeout wasn't renamed everywhere.,https://github.com/chromaui/chromatic-e2e/pull/26,2023-10-20T14:55:55Z,2023-10-20T15:02:25Z,3,1,MERGED
+chromatic-e2e,:goal_net: Make Watcher not throw an exception if network idle times out,https://github.com/chromaui/chromatic-e2e/pull/25,2023-10-19T18:52:25Z,2023-10-20T14:47:20Z,4,2,MERGED
+chromatic-e2e,Truncate and map filenames that are too long in test archiver,https://github.com/chromaui/chromatic-e2e/pull/24,2023-10-10T16:08:09Z,2023-10-16T18:57:27Z,20,3,MERGED
+chromatic-e2e,Exported test function typed,https://github.com/chromaui/chromatic-e2e/pull/23,2023-10-05T23:53:54Z,2023-10-06T17:57:52Z,2,1,MERGED
+chromatic-e2e,Allow Chromatic configuration options,https://github.com/chromaui/chromatic-e2e/pull/22,2023-09-20T19:04:57Z,2023-10-17T23:03:53Z,10,7,MERGED
+chromatic-e2e,Fix repository url,https://github.com/chromaui/chromatic-e2e/pull/20,2023-09-12T23:26:28Z,2023-09-12T23:55:20Z,1,1,MERGED
+chromatic-e2e,Do not archive top level page requests,https://github.com/chromaui/chromatic-e2e/pull/19,2023-09-12T22:23:12Z,2023-09-13T15:53:49Z,1,1,MERGED
+chromatic-e2e,Spelling fix,https://github.com/chromaui/chromatic-e2e/pull/18,2023-09-12T21:50:05Z,2023-09-13T15:55:23Z,1,1,MERGED
+chromatic-e2e,Write archives to Playwright-created folder,https://github.com/chromaui/chromatic-e2e/pull/17,2023-09-12T00:27:18Z,2023-09-12T22:47:39Z,4,6,MERGED
+chromatic-e2e,Wait for all resources to load before indicating Watcher is idle,https://github.com/chromaui/chromatic-e2e/pull/16,2023-09-07T20:56:30Z,2023-09-14T14:17:10Z,10,3,MERGED
+chromatic-e2e,Fix infinite loading for 307 and 308 response statuses,https://github.com/chromaui/chromatic-e2e/pull/15,2023-09-05T14:43:05Z,2023-09-05T21:37:40Z,1,1,MERGED
+chromatic-e2e,Respect viewport set via Playwright,https://github.com/chromaui/chromatic-e2e/pull/10,2023-08-23T23:14:13Z,2023-08-25T14:57:43Z,3,9,MERGED
+chromatic-e2e,Use GH token for releases,https://github.com/chromaui/chromatic-e2e/pull/9,2023-08-09T02:54:29Z,2023-08-09T03:16:08Z,1,1,MERGED
+chromatic-e2e,Add very minimal analytics,https://github.com/chromaui/chromatic-e2e/pull/8,2023-08-04T05:06:43Z,2023-08-09T01:59:37Z,3,1,MERGED
+chromatic-e2e,"Skip over CDP errors, but record to an error log",https://github.com/chromaui/chromatic-e2e/pull/7,2023-08-02T03:18:06Z,2023-08-04T00:00:06Z,2,1,MERGED
+chromatic-e2e,Chrome Devtools Protocol code is framework-agnostic,https://github.com/chromaui/chromatic-e2e/pull/50,2023-12-29T23:10:40Z,2024-01-04T20:05:18Z,3,3,MERGED
+chromatic-e2e,Playwright tests split out by intent,https://github.com/chromaui/chromatic-e2e/pull/49,2023-12-21T18:07:27Z,2023-12-21T19:34:31Z,3,9,MERGED
+chromatic-e2e,Cypress e2e testing added,https://github.com/chromaui/chromatic-e2e/pull/48,2023-12-20T23:11:24Z,2023-12-21T00:06:38Z,5,11,MERGED
+chromatic-e2e,Upgrade to yarn4,https://github.com/chromaui/chromatic-e2e/pull/47,2023-12-20T19:08:46Z,2023-12-21T16:47:40Z,2,3,MERGED
+chromatic-e2e,Monorepo,https://github.com/chromaui/chromatic-e2e/pull/46,2023-12-19T02:03:31Z,2024-01-10T16:59:57Z,1,17,CLOSED
+chromatic-e2e,Use case-insensitive match on header name,https://github.com/chromaui/chromatic-e2e/pull/45,2023-12-15T21:28:08Z,2023-12-15T21:36:37Z,1,1,MERGED
+chromatic-e2e,Remove problematic chars from asset filenames,https://github.com/chromaui/chromatic-e2e/pull/44,2023-12-15T16:51:28Z,2023-12-15T21:28:39Z,1,1,MERGED
+chromatic-e2e,Remove asset caching,https://github.com/chromaui/chromatic-e2e/pull/43,2023-12-14T23:33:42Z,2023-12-15T17:00:44Z,2,2,MERGED
+chromatic-e2e,Upgrade archive-storybook,https://github.com/chromaui/chromatic-e2e/pull/42,2023-12-06T23:19:17Z,2023-12-07T17:19:34Z,1,1,MERGED
+chromatic-e2e,:white_check_mark: Add tests for ignored regions in test archiver.,https://github.com/chromaui/chromatic-e2e/pull/41,2023-11-27T22:35:05Z,2023-11-29T15:31:22Z,4,4,MERGED
+chromatic-e2e,Archive assets from img srcsets,https://github.com/chromaui/chromatic-e2e/pull/40,2023-11-22T00:12:23Z,2023-11-22T17:48:00Z,3,3,MERGED
+chromatic-e2e,Removing duplicate documentation,https://github.com/chromaui/chromatic-e2e/pull/39,2023-11-21T00:51:27Z,2023-11-22T00:27:50Z,1,2,MERGED
+chromatic-e2e,Put Cypress archives in temp directory,https://github.com/chromaui/chromatic-e2e/pull/38,2023-11-17T23:20:58Z,2023-11-20T23:26:04Z,2,4,MERGED
+chromatic-e2e,Allow archiving from specified external domains,https://github.com/chromaui/chromatic-e2e/pull/37,2023-11-16T01:19:41Z,2023-11-17T21:20:32Z,8,21,MERGED
+chromatic-e2e,Fix mapping of CSS URLs,https://github.com/chromaui/chromatic-e2e/pull/33,2023-11-09T03:34:15Z,2023-11-13T17:03:27Z,2,8,MERGED
+chromatic-e2e,Only archive assets fetched via GET,https://github.com/chromaui/chromatic-e2e/pull/32,2023-11-03T20:41:47Z,2023-11-08T00:16:17Z,3,2,MERGED
+chromatic-e2e,Consolidate all asset path Playwright testing into one page,https://github.com/chromaui/chromatic-e2e/pull/31,2023-11-03T16:25:01Z,2023-11-03T22:16:13Z,1,1,MERGED
+chromatic-e2e,Expose `cropToViewport` Chromatic config,https://github.com/chromaui/chromatic-e2e/pull/124,2024-03-19T21:04:48Z,2024-03-19T21:34:08Z,1,3,MERGED
+chromatic-e2e,Bump SB Dependencies,https://github.com/chromaui/chromatic-e2e/pull/122,2024-03-15T17:52:37Z,2024-03-18T15:55:29Z,1,1,MERGED
+chromatic-e2e,Report code coverage to Codacy,https://github.com/chromaui/chromatic-e2e/pull/118,2024-03-11T19:27:16Z,2024-03-12T20:38:02Z,2,2,MERGED
+chromatic-e2e,Fix DTS build,https://github.com/chromaui/chromatic-e2e/pull/117,2024-03-11T16:17:33Z,2024-03-11T21:40:20Z,1,7,MERGED
+chromatic-e2e,Fix ESM build,https://github.com/chromaui/chromatic-e2e/pull/116,2024-03-08T20:13:41Z,2024-03-13T16:28:09Z,3,9,MERGED
+chromatic-e2e,Fix error messaging,https://github.com/chromaui/chromatic-e2e/pull/114,2024-03-05T00:54:44Z,2024-03-11T21:52:32Z,0,2,MERGED
+chromatic-e2e,Test commit,https://github.com/chromaui/chromatic-e2e/pull/113,2024-03-01T00:42:40Z,2024-06-24T17:46:23Z,0,2,CLOSED
+chromatic-e2e,Set default output dir correctly for each test framework,https://github.com/chromaui/chromatic-e2e/pull/110,2024-02-23T21:29:56Z,2024-02-28T20:51:30Z,2,6,MERGED
+chromatic-e2e,Fix delay test,https://github.com/chromaui/chromatic-e2e/pull/108,2024-02-21T20:32:05Z,2024-02-21T23:20:18Z,0,1,MERGED
+chromatic-e2e,Add support for viewports,https://github.com/chromaui/chromatic-e2e/pull/105,2024-02-16T18:13:09Z,2024-02-21T19:13:35Z,4,19,MERGED
+chromatic-e2e,Do not assume where in the DOM tree the HTML element will be,https://github.com/chromaui/chromatic-e2e/pull/103,2024-02-14T00:50:24Z,2024-02-14T17:46:46Z,1,4,MERGED
+chromatic-e2e,Playwright flag instead of build script,https://github.com/chromaui/chromatic-e2e/pull/101,2024-02-07T17:30:59Z,2024-02-12T20:56:51Z,0,5,CLOSED
+chromatic-e2e,Steven/nested titles,https://github.com/chromaui/chromatic-e2e/pull/100,2024-02-07T17:29:21Z,2024-02-07T17:29:26Z,0,2,CLOSED
+chromatic-e2e,"Smart story names (path, filename, describes, test title)",https://github.com/chromaui/chromatic-e2e/pull/98,2024-02-05T20:46:05Z,2024-02-06T20:17:44Z,9,35,MERGED
+chromatic-e2e,Upgrade rrweb changeset,https://github.com/chromaui/chromatic-e2e/pull/96,2024-02-02T20:41:33Z,2024-02-02T20:53:54Z,0,1,MERGED
+chromatic-e2e,Upgrade rrweb,https://github.com/chromaui/chromatic-e2e/pull/95,2024-02-02T00:48:05Z,2024-02-02T20:37:06Z,1,1,MERGED
+chromatic-e2e,Update repository and package names,https://github.com/chromaui/chromatic-e2e/pull/92,2024-01-31T19:56:24Z,2024-02-01T00:54:54Z,4,6,MERGED
+chromatic-e2e,Use correct sha for canary release,https://github.com/chromaui/chromatic-e2e/pull/91,2024-01-31T19:22:08Z,2024-01-31T19:45:02Z,0,1,MERGED
+chromatic-e2e,Archive link assets,https://github.com/chromaui/chromatic-e2e/pull/89,2024-01-31T00:24:16Z,2024-01-31T01:35:56Z,0,2,MERGED
+chromatic-e2e,Update docs,https://github.com/chromaui/chromatic-e2e/pull/87,2024-01-26T22:05:34Z,2024-01-30T00:05:31Z,3,4,MERGED
+chromatic-e2e,Move storybook to direct dependency,https://github.com/chromaui/chromatic-e2e/pull/86,2024-01-26T05:33:58Z,2024-02-01T01:25:50Z,3,12,MERGED
+chromatic-e2e,Fix delay test,https://github.com/chromaui/chromatic-e2e/pull/85,2024-01-26T03:58:02Z,2024-01-29T22:49:12Z,1,2,MERGED
+chromatic-e2e,Update test and release workflows,https://github.com/chromaui/chromatic-e2e/pull/84,2024-01-26T02:17:38Z,2024-01-30T00:13:51Z,5,6,MERGED
+chromatic-e2e,Export the archive storybook scripts,https://github.com/chromaui/chromatic-e2e/pull/80,2024-01-23T01:55:47Z,2024-01-24T00:25:05Z,1,2,MERGED
+chromatic-e2e,Add changeset for previous PR,https://github.com/chromaui/chromatic-e2e/pull/79,2024-01-23T00:32:46Z,2024-01-23T18:24:04Z,0,1,MERGED
+chromatic-e2e,"Cypress: Detecting interactive mode, take 2",https://github.com/chromaui/chromatic-e2e/pull/78,2024-01-22T20:24:07Z,2024-01-23T00:19:03Z,0,4,MERGED
+chromatic-e2e,"Revert ""Cypress: Electron can be used in interactive mode""",https://github.com/chromaui/chromatic-e2e/pull/77,2024-01-20T01:09:09Z,2024-01-20T01:14:54Z,0,1,MERGED
+chromatic-e2e,Added forgotten changeset for Cypress-Electron-interactive-mode change,https://github.com/chromaui/chromatic-e2e/pull/76,2024-01-20T00:24:20Z,2024-01-20T01:07:01Z,1,1,CLOSED
+chromatic-e2e,Cypress: exports support file as well as index file,https://github.com/chromaui/chromatic-e2e/pull/74,2024-01-19T21:41:02Z,2024-01-19T22:33:11Z,0,3,MERGED
+chromatic-e2e,Cypress: Electron can be used in interactive mode,https://github.com/chromaui/chromatic-e2e/pull/72,2024-01-18T19:56:48Z,2024-01-20T00:17:37Z,1,4,MERGED
+chromatic-e2e,Cypress: Manual snapshots,https://github.com/chromaui/chromatic-e2e/pull/70,2024-01-17T23:38:27Z,2024-01-18T23:53:47Z,2,11,MERGED
+chromatic-e2e,Cut first real release,https://github.com/chromaui/chromatic-e2e/pull/68,2024-01-17T19:43:51Z,2024-01-17T20:05:54Z,0,2,MERGED
+chromatic-e2e,Fix release workflow,https://github.com/chromaui/chromatic-e2e/pull/67,2024-01-17T00:46:57Z,2024-01-17T18:08:42Z,0,1,MERGED
+chromatic-e2e,Switch to depend on storybook instead of @storybook/cli,https://github.com/chromaui/chromatic-e2e/pull/66,2024-01-16T23:15:57Z,2024-01-18T01:29:01Z,0,2,MERGED
+chromatic-e2e,Fix shared package dependencies,https://github.com/chromaui/chromatic-e2e/pull/65,2024-01-16T19:37:30Z,2024-01-16T21:16:05Z,0,2,MERGED
+chromatic-e2e,Use fullscreen layout to avoid padding in storybook,https://github.com/chromaui/chromatic-e2e/pull/64,2024-01-16T04:21:31Z,2024-01-16T17:50:07Z,0,1,MERGED
+chromatic-e2e,"Instead of creating an iframe, just render the html part of the snapshot",https://github.com/chromaui/chromatic-e2e/pull/63,2024-01-16T04:14:34Z,2024-01-19T16:59:21Z,3,6,MERGED
+chromatic-e2e,Add changesets for versioning and releasing,https://github.com/chromaui/chromatic-e2e/pull/62,2024-01-13T00:53:41Z,2024-01-16T23:18:48Z,6,12,MERGED
+chromatic-e2e,Rework tsup setup so we only create the files we want,https://github.com/chromaui/chromatic-e2e/pull/61,2024-01-13T00:07:14Z,2024-01-13T00:28:49Z,3,1,MERGED
+chromatic-e2e,Move archive-storybook into monorepo,https://github.com/chromaui/chromatic-e2e/pull/60,2024-01-12T01:01:53Z,2024-01-13T01:45:32Z,5,22,MERGED
+chromatic-e2e,Chromatic options for Cypress,https://github.com/chromaui/chromatic-e2e/pull/59,2024-01-11T23:09:58Z,2024-01-16T23:21:41Z,3,25,MERGED
+chromatic-e2e,Update function/parameter names,https://github.com/chromaui/chromatic-e2e/pull/58,2024-01-11T19:30:21Z,2024-01-16T23:08:41Z,2,4,MERGED
+chromatic-e2e,test archive-sb,https://github.com/chromaui/chromatic-e2e/pull/57,2024-01-10T21:59:21Z,2024-01-17T20:23:31Z,0,1,CLOSED
+chromatic-e2e,Yarn Monorepo,https://github.com/chromaui/chromatic-e2e/pull/56,2024-01-10T00:43:25Z,2024-01-10T22:43:08Z,9,21,MERGED
+chromatic-e2e,Cypress: User-facing API,https://github.com/chromaui/chromatic-e2e/pull/55,2024-01-10T00:15:58Z,2024-01-10T19:56:55Z,1,2,MERGED
+chromatic-e2e,Cypress doesn't wait for idle timeout,https://github.com/chromaui/chromatic-e2e/pull/54,2024-01-09T17:50:23Z,2024-01-09T23:22:45Z,3,9,MERGED
+chromatic-e2e,Cypress uses Chrome Devtools Protocol,https://github.com/chromaui/chromatic-e2e/pull/53,2024-01-05T21:16:15Z,2024-01-09T17:10:39Z,11,17,MERGED
+chromatic-e2e,Project secret rename,https://github.com/chromaui/chromatic-e2e/pull/52,2024-01-03T20:56:56Z,2024-01-03T20:59:45Z,2,1,MERGED
+chromatic-e2e,"Common test fixtures, Cypress now has tests",https://github.com/chromaui/chromatic-e2e/pull/51,2024-01-03T17:44:32Z,2024-01-04T23:21:53Z,7,35,MERGED
+chromatic-e2e,Update Storybook Dependencies,https://github.com/chromaui/chromatic-e2e/pull/150,2024-05-30T18:30:02Z,2024-05-31T02:11:20Z,1,1,MERGED
+chromatic-e2e,Avoid EISDIR errors by always adding a file extension to archived files,https://github.com/chromaui/chromatic-e2e/pull/147,2024-05-29T23:31:26Z,2024-05-30T21:14:43Z,4,2,MERGED
+chromatic-e2e,Remove the runtime~main file to render Storybook correctly,https://github.com/chromaui/chromatic-e2e/pull/146,2024-05-29T22:07:12Z,2024-05-30T17:24:32Z,7,7,MERGED
+chromatic-e2e,Enable manual snapshots without automatic snapshots,https://github.com/chromaui/chromatic-e2e/pull/143,2024-05-28T22:37:19Z,2024-05-29T17:13:29Z,2,11,MERGED
+chromatic-e2e,[cypress]:add types for custom takeSnapshot command,https://github.com/chromaui/chromatic-e2e/pull/141,2024-05-24T01:37:52Z,2024-05-28T15:02:10Z,4,3,MERGED
+chromatic-e2e,Enable manual snapshots for cypress - test non fork,https://github.com/chromaui/chromatic-e2e/pull/139,2024-05-22T18:32:49Z,2024-05-24T17:22:18Z,2,6,CLOSED
+chromatic-e2e,Add Support for running Chromatic E2E against Storybook (s),https://github.com/chromaui/chromatic-e2e/pull/138,2024-05-22T15:43:11Z,2024-05-23T20:49:26Z,11,9,MERGED
+chromatic-e2e,fix: `disableAutoSnapshot` not working as expected,https://github.com/chromaui/chromatic-e2e/pull/134,2024-05-10T15:56:47Z,2024-05-28T22:33:47Z,4,5,MERGED
+chromatic-e2e,Change save function to something less likely to be overridden,https://github.com/chromaui/chromatic-e2e/pull/132,2024-05-09T15:57:53Z,2024-05-10T17:38:09Z,4,4,MERGED
+chromatic-e2e,Callout that Playwright e2e tests may fail if you've never run the playwright install before,https://github.com/chromaui/chromatic-e2e/pull/130,2024-05-08T22:33:09Z,2024-05-10T02:17:42Z,3,3,MERGED
+chromatic-e2e,Docs: Package versioning clarification,https://github.com/chromaui/chromatic-e2e/pull/188,2024-07-31T20:35:59Z,2024-08-02T23:19:45Z,3,4,MERGED
+chromatic-e2e,Fix archive storybook build,https://github.com/chromaui/chromatic-e2e/pull/185,2024-07-22T18:47:07Z,2024-07-22T20:49:57Z,2,4,MERGED
+chromatic-e2e,Fix archive storybook build for storybook8.2,https://github.com/chromaui/chromatic-e2e/pull/181,2024-07-13T09:10:45Z,2024-07-22T18:46:16Z,3,1,MERGED
+chromatic-e2e,Pin storybook dependency to <8.2,https://github.com/chromaui/chromatic-e2e/pull/179,2024-07-11T11:23:41Z,2024-07-13T09:17:03Z,1,1,CLOSED
+chromatic-e2e,Add an extra export to the index,https://github.com/chromaui/chromatic-e2e/pull/178,2024-07-10T06:55:45Z,2024-07-18T12:15:59Z,1,8,CLOSED
+chromatic-e2e,Fix errors creating snapshot and stories files due to long test names,https://github.com/chromaui/chromatic-e2e/pull/175,2024-07-08T20:00:55Z,2024-07-09T22:21:30Z,1,10,MERGED
+chromatic-e2e,Network idle watcher for Cypress,https://github.com/chromaui/chromatic-e2e/pull/173,2024-07-05T17:09:27Z,2024-07-05T20:24:59Z,6,2,MERGED
+chromatic-e2e,Steven/cypress network idle,https://github.com/chromaui/chromatic-e2e/pull/171,2024-07-03T23:52:45Z,2024-07-05T20:44:42Z,1,27,CLOSED
+chromatic-e2e,Cypress: Pass archive along instead of re-bufferizing it,https://github.com/chromaui/chromatic-e2e/pull/168,2024-06-28T16:42:06Z,2024-06-28T23:36:25Z,3,7,MERGED
+chromatic-e2e,Specifically call out that the shared package doesn't get published,https://github.com/chromaui/chromatic-e2e/pull/167,2024-06-26T22:15:31Z,2024-06-27T18:48:26Z,1,1,MERGED
+chromatic-e2e,Steven/cypress one watcher per test,https://github.com/chromaui/chromatic-e2e/pull/166,2024-06-26T21:48:05Z,2024-07-05T20:31:55Z,2,12,CLOSED
+chromatic-e2e,Add failing iframe tests,https://github.com/chromaui/chromatic-e2e/pull/165,2024-06-24T23:11:43Z,2024-06-26T15:55:53Z,10,1,CLOSED
+chromatic-e2e,Use configured `downloadsFolder` for Cypress,https://github.com/chromaui/chromatic-e2e/pull/164,2024-06-21T23:11:36Z,2024-07-05T16:16:37Z,11,10,MERGED
+chromatic-e2e,Remove the  sb-preview/runtime.js file to render Storybook correctly,https://github.com/chromaui/chromatic-e2e/pull/162,2024-06-21T16:05:12Z,2024-06-21T20:01:46Z,1,2,MERGED
+chromatic-e2e,bump @chromatic-com/playwright version,https://github.com/chromaui/chromatic-e2e/pull/158,2024-06-13T22:34:32Z,2024-06-14T00:20:46Z,1,1,MERGED
+chromatic-e2e,pin rrweb-snapshot version to fix import error,https://github.com/chromaui/chromatic-e2e/pull/157,2024-06-13T21:47:45Z,2024-06-13T22:28:20Z,1,1,MERGED
+chromatic-e2e,Playwright: Snapshots stored outside of `testInfo.attachments`,https://github.com/chromaui/chromatic-e2e/pull/156,2024-06-13T19:34:29Z,2024-06-19T23:01:56Z,11,31,MERGED
+chromatic-e2e,"Picture elements are captured, including art direction",https://github.com/chromaui/chromatic-e2e/pull/208,2024-10-18T16:40:11Z,2024-10-21T23:05:47Z,3,21,MERGED
+chromatic-e2e,Rename Chromatic `ignore` parameter to `ignoreSelectors`,https://github.com/chromaui/chromatic-e2e/pull/207,2024-09-26T21:25:02Z,2024-09-30T15:54:29Z,4,3,MERGED
+chromatic-e2e,Changeset docs clarified,https://github.com/chromaui/chromatic-e2e/pull/205,2024-09-26T17:21:21Z,2024-09-26T17:28:46Z,3,2,MERGED
+chromatic-e2e,Add changeset file for #203,https://github.com/chromaui/chromatic-e2e/pull/204,2024-09-26T17:10:01Z,2024-09-26T17:21:50Z,1,1,MERGED
+chromatic-e2e,Add support for Chromatic ignore parameter.,https://github.com/chromaui/chromatic-e2e/pull/203,2024-09-26T15:56:40Z,2024-09-26T17:02:08Z,5,2,MERGED
+chromatic-e2e,Upgrade rrweb-snapshot to support shadow DOM constructed stylesheets,https://github.com/chromaui/chromatic-e2e/pull/200,2024-09-25T20:35:06Z,2024-09-25T22:11:56Z,2,2,MERGED
+chromatic-e2e,Test case added for same shadow DOM web component reused many times,https://github.com/chromaui/chromatic-e2e/pull/199,2024-09-24T17:12:58Z,2024-09-25T18:31:46Z,2,1,CLOSED
+chromatic-e2e,Add second shadow DOM element to shadow DOM test pages,https://github.com/chromaui/chromatic-e2e/pull/198,2024-09-23T18:00:56Z,2024-09-25T00:36:13Z,5,5,MERGED
+chromatic-e2e,Integrate forked @chromaui/rrweb-snapshot package ,https://github.com/chromaui/chromatic-e2e/pull/197,2024-09-13T15:51:13Z,2024-09-13T16:09:30Z,3,2,MERGED
+chromatic-e2e,Create constructable stylesheet reproductions and internal tests,https://github.com/chromaui/chromatic-e2e/pull/196,2024-09-12T03:25:22Z,2024-09-13T00:46:49Z,5,10,MERGED
+chromatic-e2e,Add extra Basic Authentication tests in E2E,https://github.com/chromaui/chromatic-e2e/pull/194,2024-09-04T19:45:15Z,2024-09-04T22:06:23Z,1,2,MERGED
+chromatic-e2e,Support using `httpCredentials` in Playwright global config for basic authentication,https://github.com/chromaui/chromatic-e2e/pull/192,2024-08-27T00:27:59Z,2024-09-04T15:16:30Z,1,11,MERGED
+chromatic-e2e,Testing e2e versions,https://github.com/chromaui/chromatic-e2e/pull/189,2024-08-02T19:49:31Z,2024-08-02T23:18:59Z,1,5,CLOSED
+chromatic-e2e,Replace Codacy code coverage reporting with Codecov,https://github.com/chromaui/chromatic-e2e/pull/221,2024-12-20T19:40:58Z,2025-01-14T19:08:57Z,1,3,MERGED
+chromatic-e2e,add tests for long multibyte test/story names,https://github.com/chromaui/chromatic-e2e/pull/219,2024-12-10T20:41:22Z,2024-12-11T18:19:25Z,2,3,MERGED
+chromatic-e2e,Fix errors creating snapshot and stories files due to multi-bytes test names,https://github.com/chromaui/chromatic-e2e/pull/218,2024-12-03T23:44:03Z,2024-12-10T23:51:28Z,2,1,CLOSED
+chromatic-e2e,Properly load rrweb-snapshot on AMD-based web pages,https://github.com/chromaui/chromatic-e2e/pull/210,2024-11-20T21:49:24Z,2024-11-26T15:14:30Z,4,6,MERGED
+chromatic-e2e,Better QA guidelines,https://github.com/chromaui/chromatic-e2e/pull/230,2025-02-08T03:34:33Z,2025-02-11T00:35:49Z,1,1,MERGED
+chromatic-e2e,Fix playwright evaluate,https://github.com/chromaui/chromatic-e2e/pull/229,2025-02-08T02:44:19Z,2025-02-08T15:32:53Z,2,5,MERGED
+chromatic-e2e,"Blob URL: Cypress support, AMD support",https://github.com/chromaui/chromatic-e2e/pull/225,2025-02-04T21:53:16Z,2025-02-07T23:44:43Z,4,26,MERGED
+chromatic-e2e,Support for Blob URLs,https://github.com/chromaui/chromatic-e2e/pull/224,2025-01-28T19:00:32Z,2025-02-05T19:08:42Z,5,36,MERGED
+chromatic-e2e,Remove unused NPM commands,https://github.com/chromaui/chromatic-e2e/pull/223,2025-01-22T19:17:23Z,2025-01-30T18:20:32Z,6,2,MERGED
+chromatic-e2e,Tests for blob data,https://github.com/chromaui/chromatic-e2e/pull/222,2025-01-10T01:54:56Z,2025-02-05T19:08:44Z,0,1,MERGED

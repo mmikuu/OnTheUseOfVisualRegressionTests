@@ -1,0 +1,214 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+optimistic-oracle-dapp-v2,feat: update oracle data from transaction receipts,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/64,2023-03-31T17:33:29Z,2023-04-03T12:31:33Z,8,1,MERGED
+optimistic-oracle-dapp-v2,feat: project specific metadata,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/63,2023-03-31T13:21:50Z,2023-04-03T07:36:30Z,4,13,MERGED
+optimistic-oracle-dapp-v2,improve: refac request/assertion types to have more partial vals,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/62,2023-03-30T18:25:57Z,2023-03-31T11:21:29Z,5,1,MERGED
+optimistic-oracle-dapp-v2,improve: refac organization to include web3 logic,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/61,2023-03-30T17:12:46Z,2023-03-31T12:10:30Z,3,2,MERGED
+optimistic-oracle-dapp-v2,feat: sort queries by date,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/60,2023-03-30T12:46:25Z,2023-03-31T08:18:29Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: wrong entries and double counting in filters,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/59,2023-03-30T09:49:54Z,2023-03-31T08:18:13Z,8,7,MERGED
+optimistic-oracle-dapp-v2,feat: wire up more information section,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/58,2023-03-29T13:13:47Z,2023-03-29T13:49:15Z,7,8,MERGED
+optimistic-oracle-dapp-v2,fix: switching between different tabs clears filters,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/57,2023-03-28T14:40:18Z,2023-03-29T07:26:47Z,2,5,MERGED
+optimistic-oracle-dapp-v2,fix: compare time as ms,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/56,2023-03-28T13:17:22Z,2023-03-28T16:41:28Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add vote ticker function,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/55,2023-03-28T13:01:02Z,2023-03-31T11:47:55Z,3,2,MERGED
+optimistic-oracle-dapp-v2,fix: use correct timestamp for expiry,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/54,2023-03-27T16:07:37Z,2023-03-28T12:09:29Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: allow action button to connect and switch chains,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/53,2023-03-24T16:10:40Z,2023-03-28T12:07:34Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: pagination odd number of entries,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/52,2023-03-23T12:25:39Z,2023-03-28T06:44:36Z,2,10,MERGED
+optimistic-oracle-dapp-v2,feat: add url query links in navbar,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/51,2023-03-21T18:29:04Z,2023-03-23T13:09:50Z,7,1,MERGED
+optimistic-oracle-dapp-v2,feat: wire in transaction notifications,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/50,2023-03-21T16:11:35Z,2023-03-22T16:02:04Z,4,7,MERGED
+optimistic-oracle-dapp-v2,feat: vote notification system copied in,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/49,2023-03-21T15:19:08Z,2023-03-22T12:18:14Z,2,11,MERGED
+optimistic-oracle-dapp-v2,feat: add skinny oo contract interactions,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/48,2023-03-21T13:37:39Z,2023-03-22T16:25:26Z,3,2,MERGED
+optimistic-oracle-dapp-v2,fix: formatting currency values needs token info,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/47,2023-03-20T08:32:50Z,2023-03-20T11:59:12Z,1,7,MERGED
+optimistic-oracle-dapp-v2,feat: contract interactions,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/46,2023-03-17T10:01:58Z,2023-03-17T14:56:11Z,7,20,MERGED
+optimistic-oracle-dapp-v2,improve: upgrade to typescript 5,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/45,2023-03-17T07:45:49Z,2023-03-17T12:31:35Z,1,1,MERGED
+optimistic-oracle-dapp-v2,feat: wire in actions to table,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/44,2023-03-14T07:06:11Z,2023-03-15T08:02:01Z,22,44,MERGED
+optimistic-oracle-dapp-v2,improve: improve how errors are handled in oracle client,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/43,2023-03-07T18:44:11Z,2023-03-20T14:47:03Z,4,1,MERGED
+optimistic-oracle-dapp-v2,"feat: add skinny oo, fix v2 query",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/42,2023-03-07T13:46:22Z,2023-03-07T13:56:33Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: go through and fix mismatch addresses,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/41,2023-02-28T15:53:17Z,2023-03-01T16:19:50Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add dependency check for provider config,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/40,2023-02-28T15:29:02Z,2023-03-01T16:12:41Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add skinny configs,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/39,2023-02-28T15:12:39Z,2023-03-01T12:58:56Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add oracle v2 gql data,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/38,2023-02-28T14:16:29Z,2023-02-28T14:29:45Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: visual QA,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/37,2023-02-27T13:28:56Z,2023-02-27T15:38:12Z,2,5,MERGED
+optimistic-oracle-dapp-v2,"feat: add full UI interface, page hook",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/36,2023-02-24T18:03:34Z,2023-02-27T12:32:02Z,3,1,MERGED
+optimistic-oracle-dapp-v2,improve: curry reducer in filters hook,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/35,2023-02-24T14:13:52Z,2023-02-27T13:32:29Z,1,3,MERGED
+optimistic-oracle-dapp-v2,feat: filter and search,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/34,2023-02-24T11:23:05Z,2023-02-24T13:32:38Z,4,18,MERGED
+optimistic-oracle-dapp-v2,fix: rename assert to v3 and other improves,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/33,2023-02-23T16:32:44Z,2023-02-24T13:54:47Z,2,1,MERGED
+optimistic-oracle-dapp-v2,improve: linting libs folder,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/32,2023-02-22T17:39:42Z,2023-02-23T13:05:53Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add token approval and interface for actions,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/31,2023-02-22T13:49:51Z,2023-02-23T13:14:22Z,4,1,MERGED
+optimistic-oracle-dapp-v2,fix: add panel context to page stories,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/30,2023-02-21T13:36:34Z,2023-02-22T08:41:05Z,1,1,MERGED
+optimistic-oracle-dapp-v2,fix: undo deterministic date,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/29,2023-02-21T12:54:56Z,2023-02-21T12:58:04Z,1,2,MERGED
+optimistic-oracle-dapp-v2,feat: add page stories for QA,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/28,2023-02-21T09:20:35Z,2023-02-21T12:38:05Z,2,10,MERGED
+optimistic-oracle-dapp-v2,feat: panel mobile styles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/27,2023-02-20T09:41:31Z,2023-02-20T14:07:28Z,2,4,MERGED
+optimistic-oracle-dapp-v2,"feat: add provider envs, adjust token api",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/26,2023-02-17T13:31:21Z,2023-02-20T13:03:29Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: oracle query list (table) mobile styles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/25,2023-02-17T12:31:41Z,2023-02-17T15:02:24Z,3,14,MERGED
+optimistic-oracle-dapp-v2,feat: add various token queries,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/24,2023-02-16T18:38:04Z,2023-02-17T12:32:50Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: filters mobile styles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/23,2023-02-16T14:31:27Z,2023-02-17T12:28:40Z,3,16,MERGED
+optimistic-oracle-dapp-v2,feat: add loading states to query data,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/22,2023-02-16T13:37:45Z,2023-02-16T14:42:47Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: header mobile style,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/21,2023-02-16T12:49:26Z,2023-02-16T14:26:29Z,3,16,MERGED
+optimistic-oracle-dapp-v2,feat: add assertion data to oracle context,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/20,2023-02-15T14:27:59Z,2023-02-16T13:25:54Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: integrate oracle v1 data into pages,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/19,2023-02-14T16:11:41Z,2023-02-15T12:25:26Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: wire up pages,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/18,2023-02-13T08:33:22Z,2023-02-15T16:02:26Z,4,10,MERGED
+optimistic-oracle-dapp-v2,feat: error banner,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/17,2023-02-10T13:06:04Z,2023-02-14T14:16:35Z,3,8,MERGED
+optimistic-oracle-dapp-v2,feat: add gql assertion queries and configs,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/16,2023-02-09T15:01:12Z,2023-02-13T13:24:41Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: add oracle data context,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/15,2023-02-08T13:45:57Z,2023-02-13T12:58:02Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: integrate new gql data and endpoints,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/14,2023-02-07T17:17:28Z,2023-02-08T13:02:50Z,2,1,MERGED
+optimistic-oracle-dapp-v2,improve: add env parsing to app config,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/13,2023-02-07T15:29:14Z,2023-02-08T13:01:20Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add v1 oracle request client and example,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/12,2023-02-06T17:04:04Z,2023-02-07T13:29:32Z,3,1,MERGED
+optimistic-oracle-dapp-v2,improve: fix linting errors,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/11,2023-02-06T14:09:50Z,2023-02-06T14:11:24Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: panels,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/10,2023-02-06T12:40:00Z,2023-02-06T14:43:41Z,8,33,MERGED
+optimistic-oracle-dapp-v2,feat: add basic coms interface for oracle client/server,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/9,2023-02-03T16:25:38Z,2023-02-06T12:38:17Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add web worker project,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/8,2023-01-30T17:22:27Z,2023-02-03T13:01:28Z,3,1,CLOSED
+optimistic-oracle-dapp-v2,feat: statements table,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/7,2023-01-27T07:29:06Z,2023-02-13T13:02:59Z,4,54,MERGED
+optimistic-oracle-dapp-v2,feat: filters,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/6,2023-01-25T13:55:40Z,2023-01-31T13:35:46Z,2,8,MERGED
+optimistic-oracle-dapp-v2,feat: header,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/5,2023-01-25T11:37:27Z,2023-01-25T13:35:31Z,15,56,MERGED
+optimistic-oracle-dapp-v2,feat: added working oracle client example,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/4,2023-01-24T16:25:47Z,2023-01-25T12:18:14Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add oracle client and fix linting build errors,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/3,2023-01-20T19:48:35Z,2023-01-23T13:13:57Z,3,1,MERGED
+optimistic-oracle-dapp-v2,feat: add non fe library package,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/2,2023-01-20T14:34:44Z,2023-01-20T16:11:10Z,3,1,MERGED
+optimistic-oracle-dapp-v2,feat: scaffold,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/1,2023-01-20T09:29:42Z,2023-01-20T12:26:31Z,2,11,MERGED
+optimistic-oracle-dapp-v2,fix: use settlement price instead of proposed price,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/126,2023-05-30T07:12:50Z,2023-05-30T10:29:06Z,1,1,MERGED
+optimistic-oracle-dapp-v2,feat: handle graph failures in queries,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/125,2023-05-18T13:55:32Z,2023-05-19T13:08:33Z,6,6,MERGED
+optimistic-oracle-dapp-v2,feat: include chain icon in table,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/124,2023-05-04T07:24:28Z,2023-05-05T08:56:23Z,2,3,MERGED
+optimistic-oracle-dapp-v2,fix: prioritize in liveness queries on verify page,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/123,2023-05-02T10:25:57Z,2023-05-02T14:48:48Z,2,2,MERGED
+optimistic-oracle-dapp-v2,improve: prevent site locking from search,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/122,2023-04-28T14:40:12Z,2023-04-28T14:42:54Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: fix search terms to match oo ui type,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/121,2023-04-28T13:23:50Z,2023-04-28T14:22:36Z,3,2,MERGED
+optimistic-oracle-dapp-v2,feat: add additional timestamps,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/120,2023-04-28T12:30:29Z,2023-04-28T13:30:59Z,3,2,MERGED
+optimistic-oracle-dapp-v2,feat: fix regex for shortening time units,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/119,2023-04-26T14:55:34Z,2023-04-26T14:59:12Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: add years months weeks and days to time format,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/118,2023-04-26T14:21:21Z,2023-04-26T14:40:50Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: add usePagination hook to avoid wrong initial values,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/117,2023-04-25T10:50:08Z,2023-04-25T12:22:58Z,8,3,MERGED
+optimistic-oracle-dapp-v2,feat: parse descriptions as markdown,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/116,2023-04-20T13:21:04Z,2023-04-20T14:34:29Z,2,6,MERGED
+optimistic-oracle-dapp-v2,feat: show tooltips for disabled buttons,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/115,2023-04-20T11:57:25Z,2023-04-20T12:49:51Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: add ignore location to fuse config,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/113,2023-04-20T11:09:49Z,2023-04-20T13:08:34Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: keep fetching requests until we have them all,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/112,2023-04-20T09:55:04Z,2023-04-20T12:28:14Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: add final fee to bond,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/111,2023-04-19T18:17:47Z,2023-04-20T12:58:47Z,3,1,MERGED
+optimistic-oracle-dapp-v2,fix: add overflow wrap to tooltips,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/110,2023-04-19T14:33:39Z,2023-04-20T12:27:53Z,1,1,MERGED
+optimistic-oracle-dapp-v2,feat: parse results for projects,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/109,2023-04-19T13:49:51Z,2023-04-20T12:27:33Z,2,10,MERGED
+optimistic-oracle-dapp-v2,fix: flash of loader when content is loaded,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/108,2023-04-19T08:11:56Z,2023-04-19T11:38:13Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: svg render on mobile,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/107,2023-04-19T08:08:07Z,2023-04-19T11:37:57Z,1,3,MERGED
+optimistic-oracle-dapp-v2,fix: search missing on mobile,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/106,2023-04-19T07:50:35Z,2023-04-19T11:37:43Z,1,1,MERGED
+optimistic-oracle-dapp-v2,fix: add overflow-wrap to truncated titles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/105,2023-04-18T06:41:54Z,2023-04-18T12:02:09Z,2,2,MERGED
+optimistic-oracle-dapp-v2,"feat: increase gql query size, log errors",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/104,2023-04-17T15:51:39Z,2023-04-17T19:45:43Z,2,1,MERGED
+optimistic-oracle-dapp-v2,"feat: allow url to omit event index, route to first query",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/103,2023-04-17T14:37:58Z,2023-04-17T19:45:18Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add legacy dapp link banner,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/102,2023-04-17T14:36:13Z,2023-04-17T14:47:02Z,1,1,MERGED
+optimistic-oracle-dapp-v2,fix: double gas limit for approvals,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/101,2023-04-17T14:04:21Z,2023-04-17T14:23:06Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: invalid prop passed to fragment error,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/100,2023-04-17T07:34:56Z,2023-04-17T11:53:19Z,1,1,MERGED
+optimistic-oracle-dapp-v2,improve: refactor panel into components,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/99,2023-04-13T11:24:18Z,2023-04-17T11:53:33Z,6,24,MERGED
+optimistic-oracle-dapp-v2,Copy updates,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/98,2023-04-13T11:03:40Z,2023-04-13T12:30:22Z,1,4,MERGED
+optimistic-oracle-dapp-v2,fix: chain icons,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/97,2023-04-12T15:39:17Z,2023-04-14T06:58:15Z,1,2,MERGED
+optimistic-oracle-dapp-v2,feat: toggle show / hide of bytes field,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/96,2023-04-12T12:22:04Z,2023-04-14T06:57:56Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: sherlock icon,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/95,2023-04-12T08:35:16Z,2023-04-12T11:23:35Z,1,1,MERGED
+optimistic-oracle-dapp-v2,feat: add bond for verify table,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/94,2023-04-11T15:22:19Z,2023-04-12T11:09:49Z,3,6,MERGED
+optimistic-oracle-dapp-v2,fix: clicking in panel scrolls page to top,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/93,2023-04-11T13:20:14Z,2023-04-11T14:24:20Z,4,5,MERGED
+optimistic-oracle-dapp-v2,feat: more currency icons,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/92,2023-04-11T12:17:38Z,2023-04-11T13:41:52Z,2,5,MERGED
+optimistic-oracle-dapp-v2,Ryan/uma 1405 need an uma favicon,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/91,2023-04-11T09:57:16Z,2023-04-11T12:21:02Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: truncate long titles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/90,2023-04-11T08:10:59Z,2023-04-11T12:20:49Z,2,5,MERGED
+optimistic-oracle-dapp-v2,fix: close panel on link clicked,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/89,2023-04-11T07:20:41Z,2023-04-11T12:07:53Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add osnap request parsing,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/88,2023-04-10T18:17:37Z,2023-04-11T12:16:15Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: fix time formatting,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/87,2023-04-10T15:23:03Z,2023-04-10T17:49:10Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add skinny oo transaction handlers,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/86,2023-04-10T15:10:37Z,2023-04-11T12:16:38Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: query graph calls by time descending so we see newest,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/85,2023-04-10T13:07:10Z,2023-04-10T15:29:04Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: backwards compatible urls,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/84,2023-04-06T14:42:43Z,2023-04-10T13:00:29Z,3,3,MERGED
+optimistic-oracle-dapp-v2,chore: upgrade non breaking dependencies,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/83,2023-04-06T11:03:59Z,2023-04-06T12:55:31Z,3,7,MERGED
+optimistic-oracle-dapp-v2,feat: add information icons,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/82,2023-04-06T08:49:28Z,2023-04-06T12:55:03Z,2,4,MERGED
+optimistic-oracle-dapp-v2,fix: use primary action title to determine if already settled,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/81,2023-04-06T07:54:47Z,2023-04-06T13:03:30Z,2,3,MERGED
+optimistic-oracle-dapp-v2,feat: add isOptimisticGovernor option to ui query,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/80,2023-04-05T18:34:11Z,2023-04-06T11:54:30Z,2,1,MERGED
+optimistic-oracle-dapp-v2,handle entries number changing,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/79,2023-04-05T16:02:55Z,2023-04-06T12:53:58Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: show disputed in verify table,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/78,2023-04-05T15:58:21Z,2023-04-06T11:54:47Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: empty page design,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/77,2023-04-05T14:54:02Z,2023-04-05T15:28:29Z,2,5,MERGED
+optimistic-oracle-dapp-v2,fix: ensure buttons stay disabled during tx confirm,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/76,2023-04-05T14:36:23Z,2023-04-05T15:12:07Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: remove exists check for value text,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/75,2023-04-05T13:42:17Z,2023-04-05T15:27:58Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: panel infinite loop,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/74,2023-04-05T12:55:59Z,2023-04-05T13:36:15Z,1,3,MERGED
+optimistic-oracle-dapp-v2,feat: add oraclev2 log updates,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/73,2023-04-05T11:55:30Z,2023-04-05T12:38:28Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: update unknown project logo,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/72,2023-04-05T10:03:37Z,2023-04-05T10:47:38Z,2,2,MERGED
+optimistic-oracle-dapp-v2,fix: close panel on pop state,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/71,2023-04-05T08:53:39Z,2023-04-05T10:49:30Z,3,2,MERGED
+optimistic-oracle-dapp-v2,fix: fix settle and other issues,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/70,2023-04-04T18:28:28Z,2023-04-05T11:16:18Z,7,2,MERGED
+optimistic-oracle-dapp-v2,feat: add tooltips component,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/69,2023-04-04T09:52:46Z,2023-04-05T10:43:50Z,3,6,MERGED
+optimistic-oracle-dapp-v2,fix: change home button to link with href,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/68,2023-04-04T06:57:23Z,2023-04-04T12:19:46Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add v3 receipt parsing,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/67,2023-04-04T01:59:29Z,2023-04-04T11:54:12Z,3,1,MERGED
+optimistic-oracle-dapp-v2,feat: views for queries that are already proposed or settled,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/66,2023-04-03T14:30:09Z,2023-04-04T12:19:11Z,6,11,MERGED
+optimistic-oracle-dapp-v2,fix: set all counts for existing filters to zero on change,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/65,2023-04-03T08:00:53Z,2023-04-03T12:05:06Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: allow filters based on query strings,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/140,2023-07-28T08:20:33Z,2023-07-28T13:16:03Z,13,27,MERGED
+optimistic-oracle-dapp-v2,improve: add report number to rated assertions,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/139,2023-07-27T14:35:06Z,2023-07-27T14:36:42Z,1,1,MERGED
+optimistic-oracle-dapp-v2,improve: enrich rated assertions with data from their contract in ui,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/138,2023-07-27T13:55:45Z,2023-07-27T14:09:23Z,1,4,MERGED
+optimistic-oracle-dapp-v2,feat: handle rated assertions,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/137,2023-07-27T10:03:38Z,2023-07-27T11:32:37Z,2,4,MERGED
+optimistic-oracle-dapp-v2,improve: use immer,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/136,2023-07-24T13:13:20Z,2023-07-28T11:48:42Z,1,5,MERGED
+optimistic-oracle-dapp-v2,improve: use tailwind,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/135,2023-07-21T13:06:27Z,2023-07-28T11:31:31Z,5,15,MERGED
+optimistic-oracle-dapp-v2,chore: upgrade deps,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/134,2023-07-21T08:56:15Z,2023-07-27T12:31:04Z,3,24,MERGED
+optimistic-oracle-dapp-v2,chore: upgrade deps and update lint config,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/133,2023-07-20T07:15:06Z,2023-07-20T09:44:18Z,1,0,CLOSED
+optimistic-oracle-dapp-v2,improve: logging and reduce gql query size,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/132,2023-07-19T14:05:45Z,2023-07-19T14:11:56Z,2,1,MERGED
+optimistic-oracle-dapp-v2,improve: immediately open panel in loading state when is url query,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/131,2023-07-19T11:33:55Z,2023-07-28T09:26:24Z,5,22,CLOSED
+optimistic-oracle-dapp-v2,fix: update to walletconnect v2,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/130,2023-07-18T09:41:46Z,2023-07-18T10:19:54Z,2,3,MERGED
+optimistic-oracle-dapp-v2,feat: add web3 fallback for querying data if graph down,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/129,2023-07-14T13:14:23Z,2023-07-14T16:15:01Z,9,1,MERGED
+optimistic-oracle-dapp-v2,Add mumbai compatibility,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/128,2023-06-24T19:57:43Z,2023-07-21T19:34:37Z,1,5,MERGED
+optimistic-oracle-dapp-v2,fix: markdown in assertion claims shows syntax in assertion,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/127,2023-06-09T08:45:51Z,2023-06-19T08:37:09Z,2,3,MERGED
+optimistic-oracle-dapp-v2,improve: rename clarifications to bulletin board,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/151,2023-10-06T16:44:52Z,2023-10-06T16:53:42Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add polymarket bulletin updates,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/150,2023-10-02T16:24:31Z,2023-10-03T14:27:27Z,3,2,MERGED
+optimistic-oracle-dapp-v2,fix: dont show disputed when settle is available,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/149,2023-09-08T15:32:30Z,2023-09-08T15:36:07Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add snapshot space links,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/148,2023-09-05T16:48:18Z,2023-09-06T12:15:17Z,3,2,MERGED
+optimistic-oracle-dapp-v2,"fix: allow dropdowns to end parsing with , or .",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/143,2023-08-08T18:48:35Z,2023-08-08T20:49:53Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: add break words to p tags,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/142,2023-08-02T12:08:03Z,2023-08-02T15:39:30Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: dropdown z index,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/141,2023-08-01T06:28:11Z,2023-08-01T09:44:53Z,5,3,MERGED
+optimistic-oracle-dapp-v2,fix: ensure neg risk markets arent always shown by making it more spe…,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/157,2023-12-27T14:28:31Z,2023-12-28T12:54:54Z,3,1,MERGED
+optimistic-oracle-dapp-v2,feat: allow commas in p0 & p1 res,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/156,2023-12-14T11:28:10Z,2023-12-14T15:16:49Z,1,3,MERGED
+optimistic-oracle-dapp-v2,feat: get block explorer label for each chain,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/155,2023-12-06T15:16:19Z,2023-12-14T11:20:58Z,2,2,MERGED
+optimistic-oracle-dapp-v2,"replace unhelpful ""cannot estimate gas"" error message",https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/154,2023-12-04T11:30:18Z,2023-12-05T15:53:59Z,3,2,MERGED
+optimistic-oracle-dapp-v2,fix: show yes no dropdown for yes no query,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/153,2023-11-16T15:49:06Z,2023-11-16T16:25:22Z,2,1,MERGED
+optimistic-oracle-dapp-v2,improve: remove oracle v2 titles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/152,2023-11-01T13:53:01Z,2023-11-01T14:02:17Z,2,1,MERGED
+optimistic-oracle-dapp-v2,Added polybet's logo for the request and identified the request for polybet,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/166,2024-03-21T13:52:31Z,2024-03-27T11:19:36Z,4,2,MERGED
+optimistic-oracle-dapp-v2,feat: allow simulations to run in oracle dapp,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/165,2024-03-12T10:43:13Z,2024-04-03T15:06:00Z,7,13,MERGED
+optimistic-oracle-dapp-v2,feat: support sepolia,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/164,2024-03-08T14:38:30Z,2024-03-12T16:39:14Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: filter polymarket by requester address,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/163,2024-03-01T17:57:45Z,2024-03-05T12:37:27Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: add skinny query params to allow settle,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/162,2024-03-01T17:29:13Z,2024-03-05T12:35:13Z,3,2,MERGED
+optimistic-oracle-dapp-v2,feat: migrate to wagmi and rainbowkit 1.0 to enable core,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/161,2024-02-27T16:23:07Z,2024-02-28T12:58:48Z,7,1,MERGED
+optimistic-oracle-dapp-v2,fix: show something is not settleable,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/160,2024-02-26T13:00:14Z,2024-02-26T13:18:11Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: allow more than 5k gql queries for oov1/2,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/159,2024-02-21T19:07:45Z,2024-02-21T19:21:05Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add core network,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/158,2024-02-14T10:59:44Z,2024-02-20T21:08:13Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: special case MCQ identifier for parsing values,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/179,2024-05-08T17:36:12Z,2024-05-08T18:02:11Z,2,1,MERGED
+optimistic-oracle-dapp-v2,Fix: Update headers,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/178,2024-05-06T22:38:36Z,2024-05-13T15:35:26Z,1,1,MERGED
+optimistic-oracle-dapp-v2,Fix eslint prettier conflicts,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/177,2024-05-02T11:54:44Z,2024-05-03T09:29:27Z,2,5,MERGED
+optimistic-oracle-dapp-v2,fix,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/176,2024-05-01T12:11:27Z,2024-05-02T11:55:57Z,2,1,MERGED
+optimistic-oracle-dapp-v2,Fix show correct result label,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/175,2024-04-30T06:36:09Z,2024-04-30T07:02:33Z,1,3,MERGED
+optimistic-oracle-dapp-v2,fix: parsing early values incorrectly,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/174,2024-04-29T14:21:05Z,2024-04-29T15:00:13Z,4,6,MERGED
+optimistic-oracle-dapp-v2,fix: prevent unbroken strings from overflowing error container,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/173,2024-04-22T14:35:08Z,2024-04-22T14:56:38Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: fix multiple choice values to be proposed as wei,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/172,2024-04-19T13:48:59Z,2024-04-19T14:36:35Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add multiple_choice_query parsing,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/171,2024-04-16T17:18:42Z,2024-04-18T14:53:56Z,5,2,MERGED
+optimistic-oracle-dapp-v2,feat: show migration banner if using legacy plugin,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/170,2024-04-16T14:37:08Z,2024-04-17T07:03:22Z,2,3,MERGED
+optimistic-oracle-dapp-v2,feat: add blast network,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/169,2024-04-16T09:04:40Z,2024-04-17T13:03:56Z,2,3,MERGED
+optimistic-oracle-dapp-v2,feat: support polygon amoy testnet,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/168,2024-04-08T12:44:23Z,2024-04-09T12:12:45Z,2,2,MERGED
+optimistic-oracle-dapp-v2,feat: add base envs and constants,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/167,2024-04-03T17:49:37Z,2024-04-04T12:19:21Z,6,2,MERGED
+optimistic-oracle-dapp-v2,show bond & reward tokens in block explorer,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/187,2024-07-30T18:40:40Z,2024-07-30T20:08:40Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: whitelist base sepolia,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/186,2024-07-25T14:08:26Z,2024-07-25T16:21:11Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: add condition for unique polymarket formatting,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/185,2024-07-20T22:21:20Z,2024-07-23T18:54:54Z,1,1,MERGED
+optimistic-oracle-dapp-v2,add space name to osnap request titles,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/184,2024-07-19T12:14:14Z,2024-07-22T16:08:34Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: format cryptic errors when proposing an already proposed request,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/183,2024-07-08T15:19:42Z,2024-07-08T18:15:02Z,3,4,MERGED
+optimistic-oracle-dapp-v2,fix: don't disable proposal input if not connected or wrong chain,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/182,2024-07-02T13:38:37Z,2024-07-02T20:19:44Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: update incomplete event data with direct reads from contract,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/181,2024-06-13T00:38:42Z,2024-06-13T10:09:21Z,2,2,MERGED
+optimistic-oracle-dapp-v2,use UTC date-time in polymarket bulletin board,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/180,2024-06-06T10:05:46Z,2024-06-06T17:03:06Z,2,1,MERGED
+optimistic-oracle-dapp-v2,add blast sepolia config,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/197,2024-10-31T11:13:10Z,2024-10-31T14:47:24Z,3,3,MERGED
+optimistic-oracle-dapp-v2,fix: go back to single shot load for gql requests,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/196,2024-10-24T13:05:33Z,2024-10-31T14:39:35Z,2,1,MERGED
+optimistic-oracle-dapp-v2,support infinite games,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/195,2024-10-10T18:06:04Z,2024-10-11T14:44:59Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: hide expiration time if set to 0,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/194,2024-10-01T18:22:46Z,2024-10-02T12:18:04Z,2,1,MERGED
+optimistic-oracle-dapp-v2,defer action simulations until bond is approved,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/193,2024-09-26T12:17:02Z,2024-09-26T14:48:29Z,3,1,MERGED
+optimistic-oracle-dapp-v2,feat: add individual request query for details page,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/192,2024-09-25T18:36:49Z,2024-09-26T15:11:06Z,2,1,MERGED
+optimistic-oracle-dapp-v2,resolve USDC.e for polygon,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/191,2024-09-19T15:51:13Z,2024-09-19T18:59:10Z,3,2,MERGED
+optimistic-oracle-dapp-v2,improve: incremental loading for gql requests,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/190,2024-09-13T16:27:10Z,2024-09-16T17:40:49Z,3,1,MERGED
+optimistic-oracle-dapp-v2,add usdb logo,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/189,2024-09-04T12:30:58Z,2024-09-04T12:50:42Z,1,1,MERGED
+optimistic-oracle-dapp-v2,feat: support predict.fun project,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/188,2024-09-02T12:03:49Z,2024-09-03T14:57:29Z,3,1,MERGED
+optimistic-oracle-dapp-v2,fix: improve weights url search scorer,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/205,2024-12-23T17:48:30Z,2024-12-23T18:44:58Z,3,1,MERGED
+optimistic-oracle-dapp-v2,improve: link to dispute cli tool if no data available,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/204,2024-12-19T17:50:16Z,2024-12-31T18:38:09Z,6,2,MERGED
+optimistic-oracle-dapp-v2,fix: rank transactions if event index does not match exactly,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/203,2024-11-26T16:28:43Z,2024-11-27T14:49:17Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: prioritize transactions found by hash,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/202,2024-11-12T18:55:10Z,2024-11-20T14:49:13Z,3,3,MERGED
+optimistic-oracle-dapp-v2,support story odyssey,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/201,2024-11-11T12:33:37Z,2024-11-12T20:53:41Z,7,2,MERGED
+optimistic-oracle-dapp-v2,fix: fix ethers based loading,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/200,2024-11-06T19:47:14Z,2024-11-11T10:08:12Z,3,5,MERGED
+optimistic-oracle-dapp-v2,HOTFIX: blast sepolia config,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/198,2024-11-04T09:33:47Z,2024-11-04T14:06:18Z,1,1,MERGED
+optimistic-oracle-dapp-v2,fix,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/219,2025-02-19T11:07:23Z,2025-02-25T14:10:31Z,3,4,CLOSED
+optimistic-oracle-dapp-v2,Feat/story mainnet,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/218,2025-02-13T16:50:35Z,2025-03-04T17:03:57Z,2,3,MERGED
+optimistic-oracle-dapp-v2,improve: add link to cli tool during connnection issues,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/217,2025-02-11T17:30:46Z,2025-02-11T17:41:42Z,2,1,MERGED
+optimistic-oracle-dapp-v2,attempt to parse title description from v3 claim,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/216,2025-02-08T10:30:45Z,2025-02-10T14:58:00Z,2,1,MERGED
+optimistic-oracle-dapp-v2,improve: allow multiple subgraph urls to be defined,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/215,2025-01-28T18:35:27Z,2025-01-29T09:29:45Z,2,1,MERGED
+optimistic-oracle-dapp-v2,Multiple values fixes,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/214,2025-01-23T14:31:46Z,2025-01-23T14:39:09Z,3,3,MERGED
+optimistic-oracle-dapp-v2,WIP: UI fixes,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/213,2025-01-22T09:59:09Z,2025-01-23T13:38:12Z,4,12,MERGED
+optimistic-oracle-dapp-v2,fix: various issues with multiple value input,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/212,2025-01-21T19:34:55Z,2025-01-22T09:33:31Z,2,1,MERGED
+optimistic-oracle-dapp-v2,fix: change encoding to match updated umip spec,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/211,2025-01-17T18:38:44Z,2025-01-17T18:58:32Z,2,1,MERGED
+optimistic-oracle-dapp-v2,feat: add mq parsing to the setttled page,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/210,2025-01-16T20:20:01Z,2025-01-17T13:17:23Z,2,1,MERGED
+optimistic-oracle-dapp-v2,Add UI components for multiple values,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/209,2025-01-16T09:16:33Z,2025-01-20T14:42:47Z,1,3,MERGED
+optimistic-oracle-dapp-v2,feat: add mq format and parsing,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/208,2025-01-15T18:36:22Z,2025-01-16T07:33:41Z,2,1,MERGED
+optimistic-oracle-dapp-v2,EPIC: Multiple Values,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/207,2025-01-15T16:33:29Z,2025-02-17T14:05:09Z,3,31,MERGED
+optimistic-oracle-dapp-v2,handle settle reverts,https://github.com/UMAprotocol/optimistic-oracle-dapp-v2/pull/206,2025-01-06T14:40:38Z,2025-01-07T17:20:02Z,2,2,MERGED

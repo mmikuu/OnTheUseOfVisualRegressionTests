@@ -1,0 +1,53 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+forent,User can post rental listing,https://github.com/franthormel/forent/pull/20,2023-11-16T12:06:34Z,2024-02-04T08:55:47Z,1,39,MERGED
+forent,Add Cypress,https://github.com/franthormel/forent/pull/19,2023-11-10T13:02:34Z,2023-11-16T11:51:01Z,1,26,MERGED
+forent,Organize project files,https://github.com/franthormel/forent/pull/17,2023-11-10T11:45:43Z,2023-11-10T12:39:16Z,1,1,MERGED
+forent,Add continuous integration,https://github.com/franthormel/forent/pull/15,2023-11-09T02:12:26Z,2023-11-10T10:55:43Z,1,20,MERGED
+forent,Design theme,https://github.com/franthormel/forent/pull/13,2023-11-08T08:01:57Z,2023-11-08T11:18:35Z,0,2,MERGED
+forent,Improve metadata for homepage,https://github.com/franthormel/forent/pull/11,2023-11-08T01:16:34Z,2023-11-08T06:50:07Z,0,6,MERGED
+forent,Update PR template,https://github.com/franthormel/forent/pull/10,2023-11-07T12:45:48Z,2023-11-07T12:46:27Z,0,1,MERGED
+forent,Authentication for users,https://github.com/franthormel/forent/pull/7,2023-11-05T10:50:29Z,2023-11-07T12:33:24Z,0,21,MERGED
+forent,Add Storybook,https://github.com/franthormel/forent/pull/6,2023-11-03T06:57:07Z,2023-11-03T06:57:23Z,0,2,MERGED
+forent,Add Issue Templates,https://github.com/franthormel/forent/pull/3,2023-11-03T04:29:24Z,2023-11-03T04:29:58Z,0,1,MERGED
+forent,Redesign homepage to be more responsive,https://github.com/franthormel/forent/pull/56,2024-03-20T12:42:08Z,2024-03-31T08:07:27Z,1,17,MERGED
+forent,Make DB seed listing data more realistic,https://github.com/franthormel/forent/pull/55,2024-03-18T10:49:31Z,2024-03-18T11:23:43Z,2,2,CLOSED
+forent,Github Actions cache,https://github.com/franthormel/forent/pull/44,2024-03-17T05:10:35Z,2024-03-17T05:56:23Z,1,1,MERGED
+forent,Flatten all Storybook stories,https://github.com/franthormel/forent/pull/38,2024-02-26T12:47:16Z,2024-02-26T13:02:10Z,1,1,MERGED
+forent,Correct components directory structure,https://github.com/franthormel/forent/pull/36,2024-02-26T11:46:04Z,2024-02-26T11:55:36Z,1,5,MERGED
+forent,Correct components directory structure,https://github.com/franthormel/forent/pull/35,2024-02-26T11:45:13Z,2024-02-26T11:46:29Z,2,7,CLOSED
+forent,Home page implementation,https://github.com/franthormel/forent/pull/33,2024-02-25T05:22:13Z,2024-03-16T10:45:15Z,1,42,MERGED
+forent,Homepage Design,https://github.com/franthormel/forent/pull/30,2024-02-22T11:17:13Z,2024-02-22T11:17:39Z,1,1,MERGED
+forent,Move listing values to env file closes #26,https://github.com/franthormel/forent/pull/29,2024-02-10T07:23:48Z,2024-02-10T07:25:54Z,1,1,MERGED
+forent,Use number type for map coordinates closes #27,https://github.com/franthormel/forent/pull/28,2024-02-10T04:53:49Z,2024-02-10T04:56:47Z,1,1,MERGED
+forent,Set listing rating range values,https://github.com/franthormel/forent/pull/25,2024-02-10T04:33:39Z,2024-02-10T04:36:45Z,1,1,MERGED
+forent,Seed DB with initial data,https://github.com/franthormel/forent/pull/23,2024-02-09T12:31:16Z,2024-02-10T04:08:57Z,1,5,MERGED
+forent,Preview create listing,https://github.com/franthormel/forent/pull/115,2024-05-22T08:52:34Z,2024-06-15T06:05:47Z,0,9,MERGED
+forent,Change session strategy to JWT,https://github.com/franthormel/forent/pull/114,2024-05-21T07:36:44Z,2024-05-21T07:56:58Z,2,1,CLOSED
+forent,Add setup on README.md,https://github.com/franthormel/forent/pull/113,2024-05-21T07:27:29Z,2024-05-21T07:29:15Z,1,1,MERGED
+forent,Hide search bar in homepage,https://github.com/franthormel/forent/pull/112,2024-05-21T02:25:22Z,2024-05-21T02:27:41Z,1,1,MERGED
+forent,Map re-renders for every user input client validation,https://github.com/franthormel/forent/pull/111,2024-05-20T08:23:33Z,2024-05-20T08:25:15Z,1,1,MERGED
+forent,Create listing form reverse geocoding,https://github.com/franthormel/forent/pull/109,2024-05-20T03:20:27Z,2024-05-20T08:08:40Z,1,6,MERGED
+forent,Active validation for create listing form,https://github.com/franthormel/forent/pull/105,2024-05-12T06:39:56Z,2024-05-17T07:34:38Z,1,12,MERGED
+forent,View listing details page,https://github.com/franthormel/forent/pull/88,2024-04-21T09:01:09Z,2024-05-01T09:44:04Z,2,26,MERGED
+forent,Remove listing ratings,https://github.com/franthormel/forent/pull/86,2024-04-21T07:45:57Z,2024-04-21T07:49:23Z,1,2,MERGED
+forent,Implement redesign create listing page,https://github.com/franthormel/forent/pull/82,2024-04-13T05:25:20Z,2024-05-10T12:39:38Z,1,16,MERGED
+forent,Fix available date input,https://github.com/franthormel/forent/pull/81,2024-04-12T09:02:12Z,2024-04-12T09:05:07Z,2,1,MERGED
+forent,Not found page,https://github.com/franthormel/forent/pull/79,2024-04-11T07:50:40Z,2024-04-11T10:10:41Z,1,5,MERGED
+forent,Remove top border from the footer,https://github.com/franthormel/forent/pull/78,2024-04-04T05:33:11Z,2024-04-04T05:34:57Z,1,1,MERGED
+forent,Unauthenticated users must not be able to post listings,https://github.com/franthormel/forent/pull/75,2024-04-04T03:34:03Z,2024-04-10T02:34:13Z,1,5,MERGED
+forent,Unit test coverage,https://github.com/franthormel/forent/pull/73,2024-04-03T11:24:35Z,2024-04-03T11:44:20Z,1,3,MERGED
+forent,Create component tests for all applicable components,https://github.com/franthormel/forent/pull/72,2024-04-02T02:57:27Z,2024-04-02T10:51:35Z,1,6,MERGED
+forent,Create stories for all applicable components,https://github.com/franthormel/forent/pull/71,2024-04-02T02:41:16Z,2024-04-02T02:53:41Z,1,3,MERGED
+forent,Group similar components into a single directory,https://github.com/franthormel/forent/pull/70,2024-04-01T11:55:07Z,2024-04-01T11:56:49Z,1,3,MERGED
+forent,Configure Cypress for Chromatic,https://github.com/franthormel/forent/pull/69,2024-04-01T11:30:47Z,2024-07-05T12:21:32Z,1,1,CLOSED
+forent,Add visual tests addon for Storybook,https://github.com/franthormel/forent/pull/68,2024-04-01T11:10:41Z,2024-04-01T11:13:21Z,1,1,MERGED
+forent,Organize stories,https://github.com/franthormel/forent/pull/62,2024-04-01T09:43:10Z,2024-04-01T09:54:30Z,1,3,MERGED
+forent,Update Storybook to v8,https://github.com/franthormel/forent/pull/61,2024-04-01T08:50:29Z,2024-04-01T09:23:01Z,1,1,MERGED
+forent,Add listing date creation value,https://github.com/franthormel/forent/pull/124,2024-07-13T08:40:11Z,2024-07-13T08:52:05Z,0,2,MERGED
+forent,Create browse listings page,https://github.com/franthormel/forent/pull/123,2024-07-05T12:14:33Z,2024-09-02T06:26:34Z,0,47,MERGED
+forent,Display deposit in details page,https://github.com/franthormel/forent/pull/121,2024-06-17T05:15:47Z,2024-06-18T04:09:33Z,0,3,MERGED
+forent,Remove failing actions,https://github.com/franthormel/forent/pull/120,2024-06-16T05:02:07Z,2024-06-16T05:04:33Z,0,1,MERGED
+forent,Submit create listing,https://github.com/franthormel/forent/pull/118,2024-06-16T04:52:27Z,2024-06-17T05:10:28Z,0,10,MERGED
+forent,Add install instructions,https://github.com/franthormel/forent/pull/129,2024-09-10T06:06:19Z,2024-09-10T06:06:51Z,0,1,MERGED
+forent,Showcase pages,https://github.com/franthormel/forent/pull/128,2024-09-03T14:57:54Z,2024-09-06T11:47:52Z,0,7,MERGED
+forent,Remove search bar in listings page,https://github.com/franthormel/forent/pull/127,2024-09-02T06:30:19Z,2024-09-02T06:30:28Z,0,1,MERGED

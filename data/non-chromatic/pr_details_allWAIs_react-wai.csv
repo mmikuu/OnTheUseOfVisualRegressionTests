@@ -1,0 +1,29 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+react-wai,feat: create stories A11yLink Component,https://github.com/allWAIs/react-wai/pull/39,2022-12-29T07:17:49Z,2023-02-22T11:15:01Z,5,5,MERGED
+react-wai,docs: create CONTRIBUTING.MD & CODE-OF-CONDUCT.MD,https://github.com/allWAIs/react-wai/pull/36,2022-12-29T02:27:40Z,2023-01-04T10:33:25Z,2,1,MERGED
+react-wai,fix: breadcrumb break line & map undefined,https://github.com/allWAIs/react-wai/pull/33,2022-12-21T12:50:10Z,2022-12-23T00:52:08Z,0,1,MERGED
+react-wai,"feat: add Alert, Breadcrumb props",https://github.com/allWAIs/react-wai/pull/31,2022-12-21T06:57:40Z,2022-12-21T06:58:54Z,1,1,MERGED
+react-wai,feat: Switch 컴포넌트 추가 및 emotion으로 변경,https://github.com/allWAIs/react-wai/pull/29,2022-12-21T04:23:00Z,2022-12-21T05:06:34Z,0,5,MERGED
+react-wai,feat: add Breadcrumb component,https://github.com/allWAIs/react-wai/pull/27,2022-12-17T09:16:30Z,2022-12-19T06:16:13Z,1,5,MERGED
+react-wai,fix: Title type,https://github.com/allWAIs/react-wai/pull/25,2022-12-16T05:41:25Z,2022-12-17T08:41:58Z,1,1,MERGED
+react-wai,Update README,https://github.com/allWAIs/react-wai/pull/22,2022-12-09T15:15:47Z,2022-12-09T15:18:05Z,0,1,MERGED
+react-wai,feat: Tab menu 컴포넌트 추가,https://github.com/allWAIs/react-wai/pull/20,2022-11-27T11:53:50Z,2022-12-28T03:01:27Z,0,12,CLOSED
+react-wai,feat: List 컴포넌트 추가,https://github.com/allWAIs/react-wai/pull/19,2022-11-27T11:50:04Z,2022-12-28T03:01:26Z,0,3,CLOSED
+react-wai,feat: Title 컴포넌트 추가,https://github.com/allWAIs/react-wai/pull/18,2022-11-27T11:47:27Z,2022-12-01T11:28:24Z,0,8,MERGED
+react-wai,feat: A11yHidden 컴포넌트 추가,https://github.com/allWAIs/react-wai/pull/17,2022-11-27T09:28:16Z,2022-12-01T11:17:49Z,1,4,MERGED
+react-wai,config: Storybook setting,https://github.com/allWAIs/react-wai/pull/13,2022-11-21T04:01:01Z,2022-11-21T11:10:20Z,1,2,MERGED
+react-wai,feat: Alert 컴포넌트,https://github.com/allWAIs/react-wai/pull/11,2022-11-18T11:50:09Z,2022-11-23T06:22:35Z,3,2,MERGED
+react-wai,feat: Switch 추가,https://github.com/allWAIs/react-wai/pull/10,2022-11-17T12:48:40Z,2022-12-16T05:09:38Z,7,30,CLOSED
+react-wai,docs: PR 템플릿 추가,https://github.com/allWAIs/react-wai/pull/9,2022-11-17T11:31:58Z,2022-11-18T11:25:44Z,0,1,MERGED
+react-wai,feat: 링크 컴포넌트 추가,https://github.com/allWAIs/react-wai/pull/7,2022-11-17T02:02:51Z,2022-12-28T03:03:04Z,6,3,CLOSED
+react-wai,fix: invalid hook call,https://github.com/allWAIs/react-wai/pull/57,2023-03-08T15:33:46Z,2023-03-10T12:12:04Z,0,1,MERGED
+react-wai,feat: Implement Grid component,https://github.com/allWAIs/react-wai/pull/55,2023-03-08T07:44:53Z,2023-03-29T13:21:23Z,5,5,MERGED
+react-wai,config: type combined(2),https://github.com/allWAIs/react-wai/pull/54,2023-03-04T14:02:32Z,2023-03-04T14:27:45Z,0,4,MERGED
+react-wai,"fix: A, link type error",https://github.com/allWAIs/react-wai/pull/52,2023-02-26T07:41:50Z,2023-03-01T07:39:23Z,0,1,MERGED
+react-wai,Improve List component,https://github.com/allWAIs/react-wai/pull/49,2023-02-06T08:59:51Z,2023-02-22T09:28:23Z,4,11,MERGED
+react-wai,feat: Create Tab component,https://github.com/allWAIs/react-wai/pull/46,2023-01-18T07:05:49Z,2023-04-12T13:37:23Z,1,6,CLOSED
+react-wai,config: type combined,https://github.com/allWAIs/react-wai/pull/45,2023-01-08T13:19:53Z,2023-03-04T14:00:33Z,2,0,CLOSED
+react-wai,feat: List 컴포넌트 추가,https://github.com/allWAIs/react-wai/pull/43,2023-01-06T10:14:19Z,2023-01-25T12:03:36Z,10,26,MERGED
+react-wai,Fix: Remove inappropriate aria attribute,https://github.com/allWAIs/react-wai/pull/70,2023-04-21T05:58:50Z,2023-04-26T12:14:10Z,1,1,MERGED
+react-wai,Fix: Validate ways & focus control,https://github.com/allWAIs/react-wai/pull/66,2023-04-08T11:25:33Z,2023-04-08T12:09:25Z,2,2,MERGED
+react-wai,Fix: Type Error & focusable control,https://github.com/allWAIs/react-wai/pull/64,2023-04-08T10:04:08Z,2023-04-08T11:29:04Z,1,1,MERGED

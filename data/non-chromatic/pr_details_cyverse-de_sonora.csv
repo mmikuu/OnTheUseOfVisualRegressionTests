@@ -1,0 +1,557 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+sonora,App listing2,https://github.com/cyverse-de/sonora/pull/79,2020-03-31T14:57:16Z,2020-03-31T14:59:29Z,0,25,CLOSED
+sonora,Update data path routing and data view subcomponent organization,https://github.com/cyverse-de/sonora/pull/78,2020-03-28T02:13:21Z,2020-04-01T18:28:22Z,7,4,MERGED
+sonora,App listing,https://github.com/cyverse-de/sonora/pull/77,2020-03-27T09:12:03Z,2020-04-03T05:26:23Z,24,16,MERGED
+sonora,Misc,https://github.com/cyverse-de/sonora/pull/76,2020-03-26T13:41:56Z,2020-03-31T03:58:00Z,4,7,MERGED
+sonora,Upload tracking,https://github.com/cyverse-de/sonora/pull/75,2020-03-25T15:49:45Z,2020-03-26T07:10:35Z,2,6,MERGED
+sonora,CORE-868: fixed an editing error by completely refactoring buildNavig…,https://github.com/cyverse-de/sonora/pull/74,2020-03-24T23:56:37Z,2020-03-25T00:08:07Z,3,1,MERGED
+sonora,Automatically open upload tracking dialog when an upload is started.,https://github.com/cyverse-de/sonora/pull/73,2020-03-24T16:37:59Z,2020-03-25T13:34:48Z,1,1,CLOSED
+sonora,Dynamic routing for data.,https://github.com/cyverse-de/sonora/pull/72,2020-03-24T15:36:43Z,2020-03-26T07:19:12Z,8,2,MERGED
+sonora,CORE-868: use constants to build the regular expression for URL paths…,https://github.com/cyverse-de/sonora/pull/71,2020-03-23T18:54:57Z,2020-03-24T16:36:41Z,2,1,MERGED
+sonora,CORE-868: optional authentication,https://github.com/cyverse-de/sonora/pull/70,2020-03-19T01:21:13Z,2020-03-19T19:04:28Z,2,2,MERGED
+sonora,CORE-940 User can customize data columns,https://github.com/cyverse-de/sonora/pull/69,2020-03-16T22:35:09Z,2020-03-25T21:58:10Z,6,3,MERGED
+sonora,"CORE-753 Enable sorting on all visible data columns, replace Path with Created date",https://github.com/cyverse-de/sonora/pull/68,2020-03-11T18:35:02Z,2020-03-20T22:46:02Z,2,2,MERGED
+sonora,Data nav,https://github.com/cyverse-de/sonora/pull/67,2020-03-10T18:22:40Z,2020-03-26T08:01:05Z,4,8,CLOSED
+sonora,Dashboard,https://github.com/cyverse-de/sonora/pull/66,2020-03-09T19:46:15Z,2020-04-16T16:13:54Z,13,32,MERGED
+sonora,Data Details Drawer,https://github.com/cyverse-de/sonora/pull/65,2020-03-09T05:39:27Z,2020-03-20T22:35:41Z,19,16,MERGED
+sonora,Customize intercom,https://github.com/cyverse-de/sonora/pull/64,2020-03-03T20:12:47Z,2020-03-04T14:36:59Z,2,12,MERGED
+sonora,CORE-868: switch to keycloak,https://github.com/cyverse-de/sonora/pull/63,2020-02-28T23:23:29Z,2020-03-04T20:58:04Z,5,4,MERGED
+sonora,Data nav,https://github.com/cyverse-de/sonora/pull/62,2020-02-28T21:31:18Z,2020-03-09T14:32:45Z,18,19,MERGED
+sonora,Upload Queue Dialog,https://github.com/cyverse-de/sonora/pull/61,2020-02-27T21:59:14Z,2020-03-03T16:53:39Z,17,8,MERGED
+sonora,WIP : Data Navigation,https://github.com/cyverse-de/sonora/pull/60,2020-02-26T22:26:17Z,2020-02-26T23:27:29Z,0,11,CLOSED
+sonora,CORE-868: trust reverse proxies,https://github.com/cyverse-de/sonora/pull/59,2020-02-24T19:30:20Z,2020-02-24T19:30:56Z,1,1,MERGED
+sonora,WIP: Upload Queue,https://github.com/cyverse-de/sonora/pull/58,2020-02-24T17:36:10Z,2020-02-27T21:59:48Z,0,34,CLOSED
+sonora,Add Dockerfile and files for Skaffold deployment,https://github.com/cyverse-de/sonora/pull/57,2020-02-21T23:08:54Z,2020-02-21T23:29:56Z,1,5,MERGED
+sonora,CORE-868: updated CyVerseAppBar.stories.js to work with the user prof…,https://github.com/cyverse-de/sonora/pull/56,2020-02-20T23:05:09Z,2020-02-20T23:16:08Z,2,1,MERGED
+sonora,CORE-868: allow the client-side code to obtain user profile information.,https://github.com/cyverse-de/sonora/pull/55,2020-02-19T21:42:04Z,2020-02-20T18:03:02Z,4,10,MERGED
+sonora,WIP: Add handlers to upload menu items,https://github.com/cyverse-de/sonora/pull/54,2020-02-19T20:46:56Z,2020-02-28T16:53:36Z,1,1,CLOSED
+sonora,Intercom,https://github.com/cyverse-de/sonora/pull/53,2020-02-19T03:05:40Z,2020-02-24T14:29:50Z,2,5,MERGED
+sonora,"Add listing component story with mocked API, extract fetch usage",https://github.com/cyverse-de/sonora/pull/52,2020-02-18T23:08:07Z,2020-02-19T20:54:03Z,4,2,MERGED
+sonora,Drag-n-drop file uploads,https://github.com/cyverse-de/sonora/pull/51,2020-02-18T21:21:49Z,2020-02-26T16:02:01Z,6,14,MERGED
+sonora,Add intercom widget and config,https://github.com/cyverse-de/sonora/pull/50,2020-02-18T21:13:52Z,2020-02-18T21:50:56Z,0,1,CLOSED
+sonora,Global styles,https://github.com/cyverse-de/sonora/pull/49,2020-02-18T15:35:49Z,2020-02-24T15:30:55Z,11,32,MERGED
+sonora,Upload Status Tracking,https://github.com/cyverse-de/sonora/pull/48,2020-02-17T19:39:52Z,2020-02-20T00:53:26Z,7,14,MERGED
+sonora,"Bump ui-lib version, update table row component, update theme",https://github.com/cyverse-de/sonora/pull/47,2020-02-14T00:16:58Z,2020-02-14T22:46:53Z,1,3,MERGED
+sonora,CORE-868: provide a reasonably easy way for the user to be returned t…,https://github.com/cyverse-de/sonora/pull/46,2020-02-13T00:12:29Z,2020-02-13T20:30:18Z,2,1,MERGED
+sonora,WIP: Add upload tracking,https://github.com/cyverse-de/sonora/pull/45,2020-02-12T20:50:24Z,2020-02-13T17:10:49Z,0,2,CLOSED
+sonora,Data header bar,https://github.com/cyverse-de/sonora/pull/44,2020-02-12T00:22:26Z,2020-02-18T17:20:09Z,1,5,MERGED
+sonora,Move terrain route handling to separate file.,https://github.com/cyverse-de/sonora/pull/43,2020-02-11T19:11:41Z,2020-02-14T18:52:45Z,1,4,MERGED
+sonora,"WIP: Separate API router into new file, add custom handler for paged-directory",https://github.com/cyverse-de/sonora/pull/42,2020-02-11T17:20:34Z,2020-02-11T17:47:54Z,0,1,CLOSED
+sonora,Global styles,https://github.com/cyverse-de/sonora/pull/41,2020-02-11T14:39:01Z,2020-02-13T13:52:23Z,9,15,CLOSED
+sonora,Style fix,https://github.com/cyverse-de/sonora/pull/40,2020-02-11T02:20:51Z,2020-02-11T15:04:31Z,0,3,CLOSED
+sonora,Remove graphql,https://github.com/cyverse-de/sonora/pull/39,2020-02-07T18:36:58Z,2020-02-10T15:08:48Z,1,2,MERGED
+sonora,Remove graphql,https://github.com/cyverse-de/sonora/pull/38,2020-02-07T16:54:19Z,2020-02-07T17:00:39Z,0,2,CLOSED
+sonora,Use winston/express-winston for logging,https://github.com/cyverse-de/sonora/pull/37,2020-02-06T23:59:12Z,2020-02-10T15:17:15Z,0,2,MERGED
+sonora,URL Import Dialog,https://github.com/cyverse-de/sonora/pull/36,2020-02-06T19:21:43Z,2020-02-13T17:47:46Z,20,24,MERGED
+sonora,Configure jsx-a11y plugin for eslint. ,https://github.com/cyverse-de/sonora/pull/35,2020-02-05T20:47:34Z,2020-02-06T21:29:24Z,3,3,MERGED
+sonora,Convert pages/testing/upload to use fetch().,https://github.com/cyverse-de/sonora/pull/34,2020-02-05T17:21:45Z,2020-02-05T19:04:18Z,3,3,MERGED
+sonora,Add a general purpose terrain proxy Express handler,https://github.com/cyverse-de/sonora/pull/33,2020-02-04T21:38:34Z,2020-02-05T15:04:47Z,0,5,MERGED
+sonora,Add handler for paged directory listings on /api/filesystem/paged-directory,https://github.com/cyverse-de/sonora/pull/32,2020-02-04T17:39:44Z,2020-02-04T17:53:51Z,0,1,MERGED
+sonora,CORE-878 Data listing,https://github.com/cyverse-de/sonora/pull/31,2020-02-04T00:47:24Z,2020-02-06T23:07:38Z,11,26,MERGED
+sonora,"Move accessToken checking into middleware, route /api calls through Express Middleware",https://github.com/cyverse-de/sonora/pull/30,2020-02-03T20:30:46Z,2020-02-04T15:05:20Z,1,6,MERGED
+sonora,Wrap app with apollo client,https://github.com/cyverse-de/sonora/pull/29,2020-01-31T00:44:26Z,2020-01-31T15:29:39Z,2,3,MERGED
+sonora,WIP: testing out fetching data from client side,https://github.com/cyverse-de/sonora/pull/28,2020-01-30T20:01:01Z,2020-01-31T00:42:04Z,1,8,CLOSED
+sonora,URL import dialog and drop event processing example,https://github.com/cyverse-de/sonora/pull/27,2020-01-30T19:31:33Z,2020-02-06T16:52:49Z,0,16,CLOSED
+sonora,Add Download Support,https://github.com/cyverse-de/sonora/pull/26,2020-01-28T19:54:10Z,2020-01-29T20:32:04Z,4,5,MERGED
+sonora,Add support for file uploads.,https://github.com/cyverse-de/sonora/pull/25,2020-01-24T22:07:00Z,2020-01-28T17:04:44Z,2,8,MERGED
+sonora,WIP: Support file uploads,https://github.com/cyverse-de/sonora/pull/24,2020-01-24T19:51:55Z,2020-01-24T22:07:46Z,1,3,CLOSED
+sonora, Navigation,https://github.com/cyverse-de/sonora/pull/23,2020-01-24T08:59:14Z,2020-02-12T14:45:44Z,11,10,MERGED
+sonora,Create and use a default MUI theme,https://github.com/cyverse-de/sonora/pull/22,2020-01-22T15:53:22Z,2020-01-22T20:58:45Z,6,4,MERGED
+sonora,WIP: Navigation Tabs,https://github.com/cyverse-de/sonora/pull/21,2020-01-21T22:18:33Z,2020-02-06T21:04:53Z,0,4,CLOSED
+sonora,Add pre-commit hooks using husky and lint-staged,https://github.com/cyverse-de/sonora/pull/20,2020-01-21T19:21:40Z,2020-01-22T15:22:28Z,1,10,MERGED
+sonora,No lodash,https://github.com/cyverse-de/sonora/pull/19,2020-01-21T17:55:42Z,2020-01-21T23:23:33Z,1,2,MERGED
+sonora,"CORE-868: allow the user to click the ""user"" button in the navigation…",https://github.com/cyverse-de/sonora/pull/18,2020-01-16T21:19:42Z,2020-01-16T21:29:45Z,1,1,MERGED
+sonora,Sanitize the filesystem data model and query.,https://github.com/cyverse-de/sonora/pull/17,2020-01-16T17:39:44Z,2020-01-21T14:41:50Z,9,11,MERGED
+sonora,Initial auth implementation using OAuth2,https://github.com/cyverse-de/sonora/pull/16,2020-01-14T01:31:09Z,2020-01-15T16:27:32Z,2,5,MERGED
+sonora,Adding GraphQL support for stat and listing queries,https://github.com/cyverse-de/sonora/pull/15,2020-01-13T17:46:23Z,2020-01-16T16:49:33Z,11,8,MERGED
+sonora,Add eslint check action,https://github.com/cyverse-de/sonora/pull/14,2020-01-10T21:13:16Z,2020-01-10T21:29:30Z,0,3,MERGED
+sonora,Add format check to the action workflow,https://github.com/cyverse-de/sonora/pull/13,2020-01-10T20:40:09Z,2020-01-10T20:42:38Z,0,1,MERGED
+sonora,Create workflow for CI tests.,https://github.com/cyverse-de/sonora/pull/12,2020-01-10T19:41:31Z,2020-01-10T19:50:12Z,0,2,MERGED
+sonora,Add node.js workflow for CI,https://github.com/cyverse-de/sonora/pull/11,2020-01-10T19:30:34Z,2020-01-10T19:34:45Z,1,1,CLOSED
+sonora,Update the apps snapshot,https://github.com/cyverse-de/sonora/pull/10,2020-01-10T19:05:23Z,2020-01-10T19:47:04Z,2,1,MERGED
+sonora,WIP: initial authentication implementation,https://github.com/cyverse-de/sonora/pull/9,2020-01-10T18:42:46Z,2020-01-13T17:30:35Z,1,4,CLOSED
+sonora,Misc. Fixes,https://github.com/cyverse-de/sonora/pull/8,2020-01-10T16:42:40Z,2020-01-10T16:42:53Z,1,9,MERGED
+sonora,Switch to configuration files (and a few other fixes),https://github.com/cyverse-de/sonora/pull/7,2020-01-09T17:59:22Z,2020-01-10T15:40:51Z,5,16,MERGED
+sonora,core-854 Add AppBar with search and user menu.,https://github.com/cyverse-de/sonora/pull/6,2020-01-09T14:27:16Z,2020-01-10T15:49:04Z,4,1,MERGED
+sonora,Add app tile test with snapshot,https://github.com/cyverse-de/sonora/pull/5,2020-01-08T22:05:03Z,2020-01-09T20:12:01Z,2,3,MERGED
+sonora,Add eslint with a config,https://github.com/cyverse-de/sonora/pull/4,2020-01-08T20:09:16Z,2020-01-08T22:37:11Z,9,5,MERGED
+sonora,Add Apollo and JSDoc,https://github.com/cyverse-de/sonora/pull/3,2020-01-08T18:20:26Z,2020-01-08T22:19:17Z,1,10,MERGED
+sonora,Move code into the src/ directory,https://github.com/cyverse-de/sonora/pull/2,2020-01-08T16:12:40Z,2020-01-08T16:41:35Z,0,1,MERGED
+sonora,Add storybook configs and app tile component/story from ui-lib,https://github.com/cyverse-de/sonora/pull/1,2020-01-07T22:40:58Z,2020-01-08T18:50:07Z,4,5,MERGED
+sonora,"Add ""chromatic-ignore"" classname",https://github.com/cyverse-de/sonora/pull/116,2020-05-29T17:32:56Z,2020-05-29T17:41:08Z,1,2,MERGED
+sonora,Connect URL Import Dialog,https://github.com/cyverse-de/sonora/pull/114,2020-05-21T21:15:32Z,2020-05-29T17:08:07Z,5,6,MERGED
+sonora,Analysis2,https://github.com/cyverse-de/sonora/pull/113,2020-05-21T17:20:27Z,2020-06-04T12:43:42Z,21,10,MERGED
+sonora,Dashboard Updates,https://github.com/cyverse-de/sonora/pull/112,2020-05-20T16:07:22Z,2020-06-01T15:14:25Z,4,10,MERGED
+sonora,Chromatic delay,https://github.com/cyverse-de/sonora/pull/111,2020-05-19T01:26:07Z,2020-05-19T21:48:51Z,6,3,MERGED
+sonora,Add @next/bundle-analyzer in a non-ad-hoc way,https://github.com/cyverse-de/sonora/pull/110,2020-05-15T23:04:24Z,2020-05-15T23:14:14Z,1,1,MERGED
+sonora,VICE admin UI,https://github.com/cyverse-de/sonora/pull/109,2020-05-15T17:30:36Z,2020-05-26T15:07:25Z,12,79,MERGED
+sonora,CORE-731 Initial App Launch Wizard view,https://github.com/cyverse-de/sonora/pull/108,2020-05-08T02:31:58Z,2020-05-30T02:56:53Z,52,62,MERGED
+sonora,Integrate Error handler,https://github.com/cyverse-de/sonora/pull/107,2020-05-07T13:53:02Z,2020-05-13T07:00:21Z,7,13,MERGED
+sonora,CORE-994: Add support for tool listing.,https://github.com/cyverse-de/sonora/pull/106,2020-05-05T01:55:08Z,2020-05-11T21:53:03Z,12,20,MERGED
+sonora,New layout,https://github.com/cyverse-de/sonora/pull/105,2020-04-30T15:26:12Z,2020-05-18T07:34:06Z,19,35,MERGED
+sonora,Data view cosmetic changes,https://github.com/cyverse-de/sonora/pull/104,2020-04-29T21:46:38Z,2020-05-13T00:19:59Z,6,11,MERGED
+sonora,Amqp2,https://github.com/cyverse-de/sonora/pull/103,2020-04-29T15:48:57Z,2020-05-07T06:01:28Z,19,12,MERGED
+sonora,Add IDs for the dashboard sections,https://github.com/cyverse-de/sonora/pull/102,2020-04-28T15:35:59Z,2020-04-28T21:58:24Z,3,2,MERGED
+sonora,Switch to using build-time environment variables,https://github.com/cyverse-de/sonora/pull/101,2020-04-24T18:44:22Z,2020-04-24T21:11:45Z,1,1,MERGED
+sonora,Update announcer CustomAction and snapshots.,https://github.com/cyverse-de/sonora/pull/100,2020-04-24T06:11:10Z,2020-04-24T06:19:39Z,0,1,MERGED
+sonora,"Upload, Delete, and Create Folder",https://github.com/cyverse-de/sonora/pull/99,2020-04-23T23:42:45Z,2020-05-04T23:56:25Z,7,8,MERGED
+sonora,Data roots caching,https://github.com/cyverse-de/sonora/pull/98,2020-04-23T10:09:58Z,2020-04-29T06:40:33Z,6,8,MERGED
+sonora,Error handling,https://github.com/cyverse-de/sonora/pull/97,2020-04-22T09:24:00Z,2020-04-28T06:26:17Z,14,6,MERGED
+sonora,Migrate data navigation roots to context,https://github.com/cyverse-de/sonora/pull/96,2020-04-21T22:55:11Z,2020-04-23T17:00:03Z,2,1,CLOSED
+sonora,VICE admin UI,https://github.com/cyverse-de/sonora/pull/95,2020-04-20T17:34:52Z,2020-05-15T16:28:47Z,0,69,CLOSED
+sonora,New layout,https://github.com/cyverse-de/sonora/pull/94,2020-04-20T15:50:42Z,2020-04-30T15:20:19Z,1,4,CLOSED
+sonora,Rename serviceFacade files to remove stutter from imports,https://github.com/cyverse-de/sonora/pull/93,2020-04-17T19:58:14Z,2020-04-20T14:56:36Z,1,2,MERGED
+sonora,Move dashboard services to axios.,https://github.com/cyverse-de/sonora/pull/92,2020-04-17T18:25:23Z,2020-04-19T07:28:18Z,3,2,MERGED
+sonora,Analyses Listing,https://github.com/cyverse-de/sonora/pull/91,2020-04-17T14:06:02Z,2020-04-25T07:25:35Z,35,25,MERGED
+sonora,Data view dynamic routing fix,https://github.com/cyverse-de/sonora/pull/90,2020-04-15T19:08:17Z,2020-04-17T15:51:18Z,3,5,MERGED
+sonora,Add static IDs to loading skeletons,https://github.com/cyverse-de/sonora/pull/89,2020-04-14T22:15:30Z,2020-04-16T18:25:36Z,1,3,MERGED
+sonora,Convert all data view calls to react-query,https://github.com/cyverse-de/sonora/pull/88,2020-04-14T00:36:12Z,2020-04-17T16:05:48Z,7,14,MERGED
+sonora,Amqp,https://github.com/cyverse-de/sonora/pull/87,2020-04-13T15:55:02Z,2020-04-19T06:59:57Z,14,10,MERGED
+sonora,Address PR comments.,https://github.com/cyverse-de/sonora/pull/86,2020-04-10T07:42:24Z,2020-04-10T07:47:24Z,0,1,MERGED
+sonora,Add patch method to callApi,https://github.com/cyverse-de/sonora/pull/85,2020-04-10T00:29:58Z,2020-04-10T00:37:38Z,1,1,MERGED
+sonora,Pagination,https://github.com/cyverse-de/sonora/pull/84,2020-04-08T14:57:35Z,2020-04-14T17:18:41Z,12,10,MERGED
+sonora,App details,https://github.com/cyverse-de/sonora/pull/83,2020-04-06T15:39:42Z,2020-04-10T07:31:46Z,19,20,MERGED
+sonora,Data Selection Drawer,https://github.com/cyverse-de/sonora/pull/82,2020-04-04T00:46:07Z,2020-04-08T23:06:43Z,9,9,MERGED
+sonora,WIP: Add preferences page,https://github.com/cyverse-de/sonora/pull/81,2020-04-01T23:20:14Z,2020-07-08T14:41:46Z,17,19,CLOSED
+sonora,App listing2,https://github.com/cyverse-de/sonora/pull/80,2020-04-01T05:50:09Z,2020-04-08T08:42:55Z,11,20,MERGED
+sonora,Convert Data components to using react-i18next,https://github.com/cyverse-de/sonora/pull/152,2020-07-31T22:19:29Z,2020-08-13T17:11:52Z,2,4,MERGED
+sonora,added some debugging code to try to pinpoint the source of the auth t…,https://github.com/cyverse-de/sonora/pull/151,2020-07-30T21:09:28Z,2020-08-05T23:31:13Z,2,3,MERGED
+sonora,More i18n,https://github.com/cyverse-de/sonora/pull/150,2020-07-30T17:16:14Z,2020-08-04T16:28:25Z,5,10,MERGED
+sonora,Try absolute import.,https://github.com/cyverse-de/sonora/pull/149,2020-07-29T20:35:17Z,2020-07-29T20:56:45Z,2,2,MERGED
+sonora,CORE-1104 Update Sonora for async tasks,https://github.com/cyverse-de/sonora/pull/148,2020-07-29T19:25:19Z,2020-07-31T19:52:33Z,2,3,MERGED
+sonora,Launch improvements,https://github.com/cyverse-de/sonora/pull/147,2020-07-28T16:04:07Z,2020-07-30T14:38:27Z,22,11,MERGED
+sonora,Launch improvements,https://github.com/cyverse-de/sonora/pull/146,2020-07-24T21:02:05Z,2020-07-28T15:27:41Z,5,7,CLOSED
+sonora,Update guildlines for i18next,https://github.com/cyverse-de/sonora/pull/145,2020-07-23T20:10:09Z,2020-07-24T14:05:09Z,4,2,MERGED
+sonora,Use react-i18next in VICE admin,https://github.com/cyverse-de/sonora/pull/144,2020-07-23T17:41:15Z,2020-07-27T21:23:21Z,2,2,MERGED
+sonora,Add url query params for app listing to fix back button.,https://github.com/cyverse-de/sonora/pull/143,2020-07-22T20:58:53Z,2020-07-28T18:28:04Z,11,2,MERGED
+sonora,Admin Ref Genomes using React table,https://github.com/cyverse-de/sonora/pull/142,2020-07-20T20:21:21Z,2020-07-24T15:12:52Z,17,17,MERGED
+sonora,Refactor and redesign dashboard,https://github.com/cyverse-de/sonora/pull/141,2020-07-16T17:12:31Z,2020-08-24T18:45:47Z,22,83,MERGED
+sonora,Add reference genome service call.,https://github.com/cyverse-de/sonora/pull/140,2020-07-16T15:11:45Z,2020-07-16T19:30:18Z,3,2,MERGED
+sonora,Bootstrap without IP address.,https://github.com/cyverse-de/sonora/pull/139,2020-07-15T18:54:52Z,2020-07-21T13:48:02Z,2,4,MERGED
+sonora,I18n,https://github.com/cyverse-de/sonora/pull/138,2020-07-15T16:32:22Z,2020-07-23T01:06:07Z,13,8,MERGED
+sonora,Fix data details permission listing issue.,https://github.com/cyverse-de/sonora/pull/137,2020-07-14T20:26:36Z,2020-07-14T20:34:03Z,2,1,MERGED
+sonora,I18n test,https://github.com/cyverse-de/sonora/pull/136,2020-07-14T16:34:38Z,2020-07-15T16:29:40Z,5,5,CLOSED
+sonora,Add mock bootstrap call to AppBar story.,https://github.com/cyverse-de/sonora/pull/135,2020-07-13T13:57:59Z,2020-07-15T18:53:39Z,2,1,CLOSED
+sonora,Add QL handlers.,https://github.com/cyverse-de/sonora/pull/134,2020-07-13T13:42:58Z,2020-07-13T13:45:35Z,1,1,MERGED
+sonora,CORE-769 Analysis relaunch page,https://github.com/cyverse-de/sonora/pull/133,2020-07-11T01:56:58Z,2020-07-21T00:27:33Z,10,9,MERGED
+sonora,Try out next-i18next for i18N.,https://github.com/cyverse-de/sonora/pull/132,2020-07-10T20:16:21Z,2020-07-15T16:29:13Z,14,4,CLOSED
+sonora,Router,https://github.com/cyverse-de/sonora/pull/131,2020-07-07T18:50:04Z,2020-07-10T15:19:11Z,5,5,MERGED
+sonora,Update material-UI and other libs,https://github.com/cyverse-de/sonora/pull/130,2020-07-06T17:56:05Z,2020-07-09T17:03:20Z,4,8,MERGED
+sonora,Update react-query to 2.x,https://github.com/cyverse-de/sonora/pull/129,2020-07-06T17:55:18Z,2020-07-08T16:25:40Z,6,8,MERGED
+sonora,Apps dot menu,https://github.com/cyverse-de/sonora/pull/128,2020-06-30T19:25:40Z,2020-07-10T15:18:39Z,3,3,MERGED
+sonora,User job limit mgmt in VICE admin UI,https://github.com/cyverse-de/sonora/pull/127,2020-06-30T15:56:20Z,2020-07-06T15:40:35Z,2,13,MERGED
+sonora,Selection drawer updates,https://github.com/cyverse-de/sonora/pull/126,2020-06-30T13:53:51Z,2020-06-30T19:19:39Z,6,3,MERGED
+sonora,Refactor VICE admin UI to use react-table,https://github.com/cyverse-de/sonora/pull/125,2020-06-29T16:22:52Z,2020-07-22T21:22:48Z,5,25,MERGED
+sonora,Analysis and Data hot fix,https://github.com/cyverse-de/sonora/pull/124,2020-06-24T18:51:19Z,2020-06-25T17:39:57Z,3,6,MERGED
+sonora,CORE-1028: allow admins to impersonate other users.,https://github.com/cyverse-de/sonora/pull/123,2020-06-20T02:39:05Z,2020-07-14T17:31:24Z,2,0,CLOSED
+sonora,User Preferences,https://github.com/cyverse-de/sonora/pull/122,2020-06-18T20:34:13Z,2020-07-08T14:40:56Z,24,45,MERGED
+sonora,CORE-984 Initial next.js page for displaying the App Launch view,https://github.com/cyverse-de/sonora/pull/121,2020-06-13T01:03:05Z,2020-06-22T18:30:08Z,13,15,MERGED
+sonora,VICE Admin Reorg and Analysis Mgmt,https://github.com/cyverse-de/sonora/pull/120,2020-06-09T17:30:54Z,2020-06-24T15:27:31Z,7,22,MERGED
+sonora,Add new VICE admin API endpoints,https://github.com/cyverse-de/sonora/pull/119,2020-06-05T21:10:15Z,2020-06-09T22:33:44Z,0,1,MERGED
+sonora,Admin,https://github.com/cyverse-de/sonora/pull/118,2020-06-02T14:11:57Z,2020-06-05T18:11:09Z,0,7,MERGED
+sonora,Add navigation for admin pages.,https://github.com/cyverse-de/sonora/pull/117,2020-06-01T21:58:36Z,2020-06-01T22:00:12Z,0,1,CLOSED
+sonora,Minor sharing updates,https://github.com/cyverse-de/sonora/pull/216,2020-10-30T23:58:31Z,2020-11-05T22:09:15Z,2,3,MERGED
+sonora,Optimize PNG images,https://github.com/cyverse-de/sonora/pull/215,2020-10-29T17:21:47Z,2020-10-29T19:55:17Z,0,1,MERGED
+sonora,CORE-1150 Add Notification message navigation links,https://github.com/cyverse-de/sonora/pull/214,2020-10-28T02:23:07Z,2020-10-31T00:26:11Z,8,6,MERGED
+sonora,CORE-1009 User can view community data without logging in,https://github.com/cyverse-de/sonora/pull/213,2020-10-23T20:22:53Z,2020-10-29T23:02:15Z,4,7,MERGED
+sonora,Terrain fix,https://github.com/cyverse-de/sonora/pull/212,2020-10-23T20:02:59Z,2020-10-28T15:58:16Z,1,3,MERGED
+sonora,Search UX improvements.,https://github.com/cyverse-de/sonora/pull/211,2020-10-21T16:34:58Z,2020-11-04T19:40:36Z,5,6,MERGED
+sonora,CORE-1140 Add range select support to Notifications listing,https://github.com/cyverse-de/sonora/pull/210,2020-10-21T01:48:42Z,2020-10-22T20:11:21Z,1,2,MERGED
+sonora,CORE-1140 Add Notifications listing page,https://github.com/cyverse-de/sonora/pull/209,2020-10-17T00:19:12Z,2020-10-17T02:06:25Z,4,4,MERGED
+sonora,CORE-1143: dashboard app details.,https://github.com/cyverse-de/sonora/pull/208,2020-10-16T19:58:53Z,2020-10-19T16:42:58Z,7,18,MERGED
+sonora,Notification fixes.,https://github.com/cyverse-de/sonora/pull/207,2020-10-16T18:16:18Z,2020-10-16T19:30:36Z,7,6,MERGED
+sonora,Bag Fixes and Improvements,https://github.com/cyverse-de/sonora/pull/206,2020-10-16T18:10:45Z,2021-01-11T14:51:41Z,3,10,CLOSED
+sonora,fix routing error when navigating to data view,https://github.com/cyverse-de/sonora/pull/205,2020-10-16T14:49:55Z,2020-10-16T18:25:40Z,1,1,MERGED
+sonora,CORE-1143: partial wiring of app listings on the dashboard.,https://github.com/cyverse-de/sonora/pull/204,2020-10-15T22:14:31Z,2020-10-16T17:37:06Z,7,5,MERGED
+sonora,Fix when dot menu items are displayed.,https://github.com/cyverse-de/sonora/pull/203,2020-10-15T16:27:23Z,2020-10-15T17:36:10Z,2,1,MERGED
+sonora,Add static IDs for testing,https://github.com/cyverse-de/sonora/pull/202,2020-10-15T00:01:52Z,2020-10-15T00:05:42Z,1,6,MERGED
+sonora,Move default data page ordering to listing,https://github.com/cyverse-de/sonora/pull/201,2020-10-14T20:57:00Z,2020-10-15T18:09:45Z,1,1,MERGED
+sonora,Google analytics,https://github.com/cyverse-de/sonora/pull/200,2020-10-14T16:36:22Z,2020-10-28T15:57:23Z,3,4,MERGED
+sonora,CORE-1140 Add Notifications listing with table view.,https://github.com/cyverse-de/sonora/pull/199,2020-10-14T02:11:49Z,2020-10-16T02:24:29Z,10,14,MERGED
+sonora,"Match only exact matches or prefixes with a slash at the end based on NavigationConstants, to avoid static files",https://github.com/cyverse-de/sonora/pull/198,2020-10-13T19:22:14Z,2020-10-13T20:08:49Z,1,1,MERGED
+sonora,Use next/Link for notification custom action.,https://github.com/cyverse-de/sonora/pull/197,2020-10-13T15:28:29Z,2020-10-14T15:22:11Z,1,1,MERGED
+sonora,Analyses Pagination Bar bug fix,https://github.com/cyverse-de/sonora/pull/196,2020-10-12T20:14:53Z,2020-10-14T15:21:40Z,5,2,MERGED
+sonora,Add query params to data page.,https://github.com/cyverse-de/sonora/pull/195,2020-10-12T17:20:43Z,2020-10-14T15:21:16Z,1,2,MERGED
+sonora,NotificationMenu,https://github.com/cyverse-de/sonora/pull/194,2020-10-10T00:38:08Z,2020-10-16T00:39:07Z,31,31,MERGED
+sonora,Fix when data dot menu shows,https://github.com/cyverse-de/sonora/pull/193,2020-10-07T22:00:39Z,2020-10-14T16:32:36Z,2,3,MERGED
+sonora,Quick launch,https://github.com/cyverse-de/sonora/pull/192,2020-10-07T20:54:14Z,2020-11-04T21:30:01Z,21,20,MERGED
+sonora,Fix type query parameter in data page.,https://github.com/cyverse-de/sonora/pull/191,2020-10-07T20:12:54Z,2020-10-07T20:50:04Z,1,2,MERGED
+sonora,CORE-733 Sharing cosmetic changes,https://github.com/cyverse-de/sonora/pull/190,2020-10-05T22:13:10Z,2020-10-14T16:17:52Z,7,11,MERGED
+sonora,Url import imporvements,https://github.com/cyverse-de/sonora/pull/189,2020-10-05T16:47:13Z,2020-10-07T16:30:46Z,4,2,MERGED
+sonora,Add Documentation and Details button to Launch screen,https://github.com/cyverse-de/sonora/pull/188,2020-10-01T20:55:57Z,2020-10-07T20:50:34Z,25,15,MERGED
+sonora,CORE-1136 Add ShareWithSupportDialog to analyses listing,https://github.com/cyverse-de/sonora/pull/187,2020-09-29T02:24:47Z,2020-10-01T01:05:47Z,12,15,MERGED
+sonora,CORE-733 Add sharing to Sonora,https://github.com/cyverse-de/sonora/pull/186,2020-09-28T18:31:49Z,2020-10-05T16:47:07Z,15,24,MERGED
+sonora,"Core 1134 - Set last folder, default output folder and notify param in app launch from preferences.",https://github.com/cyverse-de/sonora/pull/185,2020-09-24T20:28:08Z,2020-09-25T18:46:02Z,5,6,MERGED
+sonora,Cache page size in local storage,https://github.com/cyverse-de/sonora/pull/184,2020-09-23T19:29:07Z,2020-09-28T15:05:30Z,2,7,MERGED
+sonora,Allow users to copy link to the app from its details.,https://github.com/cyverse-de/sonora/pull/183,2020-09-23T16:04:49Z,2020-09-25T20:56:16Z,1,1,MERGED
+sonora,Route to file viewer from search results.,https://github.com/cyverse-de/sonora/pull/182,2020-09-22T20:49:58Z,2020-10-06T14:25:19Z,1,6,MERGED
+sonora,core-1138 - Path list viewer - 2/n,https://github.com/cyverse-de/sonora/pull/181,2020-09-21T16:15:43Z,2020-09-30T20:48:32Z,13,34,MERGED
+sonora,CORE-733 Add sharing dialog,https://github.com/cyverse-de/sonora/pull/180,2020-09-19T01:06:36Z,2020-09-26T00:57:19Z,37,28,MERGED
+sonora,Fix unnecessary GlobalSearchField rerender,https://github.com/cyverse-de/sonora/pull/179,2020-09-17T14:52:53Z,2020-09-17T21:46:29Z,2,3,MERGED
+sonora,VICE Admin: Searching or setting job limit for a non-existant user displays error,https://github.com/cyverse-de/sonora/pull/178,2020-09-16T21:00:35Z,2020-09-22T16:28:41Z,1,6,MERGED
+sonora,CORE-1139 Only validate non-empty app launch fields when not required.,https://github.com/cyverse-de/sonora/pull/177,2020-09-16T02:01:27Z,2020-09-17T19:48:00Z,1,1,MERGED
+sonora,Remove dividers from the dashboard,https://github.com/cyverse-de/sonora/pull/176,2020-09-15T20:04:46Z,2020-09-22T16:29:08Z,3,1,MERGED
+sonora,Require users to be logged in to view the VICE admin page,https://github.com/cyverse-de/sonora/pull/175,2020-09-15T16:03:23Z,2020-10-01T19:57:16Z,1,2,MERGED
+sonora,Attempt to fix global search disappearing options. Also fixes console…,https://github.com/cyverse-de/sonora/pull/174,2020-09-11T16:28:02Z,2020-09-17T21:46:05Z,4,1,MERGED
+sonora,CORE-1138 - File Viewers 1/ n,https://github.com/cyverse-de/sonora/pull/173,2020-09-10T19:35:32Z,2020-09-17T21:45:40Z,12,24,MERGED
+sonora,"Use absolute imports, without aliasing (for data listing component)",https://github.com/cyverse-de/sonora/pull/172,2020-09-09T00:56:10Z,2020-09-09T14:12:40Z,2,1,MERGED
+sonora,CORE-775 Add Complete and Save Outputs action to analyses listing,https://github.com/cyverse-de/sonora/pull/171,2020-09-03T01:35:03Z,2020-09-04T20:55:45Z,2,3,MERGED
+sonora,"CORE- 724 752 784 - Detailed search results of Data, Apps and Analyses - Part 3 / n - View all results & App Search actions",https://github.com/cyverse-de/sonora/pull/170,2020-09-01T18:09:55Z,2020-09-04T20:36:58Z,14,30,MERGED
+sonora,CORE-776 Add cancel support to analyses listing.,https://github.com/cyverse-de/sonora/pull/169,2020-08-29T01:27:46Z,2020-09-01T01:26:50Z,2,3,MERGED
+sonora,CORE-780 Add AnalysisCommentDialog,https://github.com/cyverse-de/sonora/pull/168,2020-08-26T00:05:33Z,2020-08-27T19:19:38Z,3,4,MERGED
+sonora,CORE-779 Refactor ErrorTypography and usage in RenameAnalysisDialog,https://github.com/cyverse-de/sonora/pull/167,2020-08-22T02:34:37Z,2020-08-24T22:28:32Z,2,2,MERGED
+sonora,"CORE- 724 752 784 - Detailed search results of Data, Apps and Analyses - Part 2 / n - Search actions",https://github.com/cyverse-de/sonora/pull/166,2020-08-21T17:18:28Z,2020-09-03T14:30:28Z,17,25,MERGED
+sonora,Apps i18n,https://github.com/cyverse-de/sonora/pull/165,2020-08-21T14:32:09Z,2020-08-27T19:28:52Z,17,10,MERGED
+sonora,fix 404 immediately after logging in,https://github.com/cyverse-de/sonora/pull/164,2020-08-19T21:25:35Z,2020-08-19T22:27:57Z,4,1,MERGED
+sonora,"CORE- 724 752 784 - Detailed search results of Data, Apps and Analyses - Part 1 / n",https://github.com/cyverse-de/sonora/pull/163,2020-08-18T19:15:37Z,2020-08-31T13:57:37Z,25,29,MERGED
+sonora,Cart Support,https://github.com/cyverse-de/sonora/pull/162,2020-08-17T19:01:25Z,2020-10-15T19:24:10Z,20,82,MERGED
+sonora,CORE-779 Add Analysis Rename support to listing.,https://github.com/cyverse-de/sonora/pull/161,2020-08-15T00:23:46Z,2020-08-21T23:52:49Z,14,3,MERGED
+sonora,NotificationsMenu,https://github.com/cyverse-de/sonora/pull/160,2020-08-14T19:58:08Z,2020-08-27T20:00:29Z,9,1,CLOSED
+sonora,Global Search,https://github.com/cyverse-de/sonora/pull/159,2020-08-11T19:05:07Z,2020-08-18T17:28:24Z,13,30,MERGED
+sonora,CORE-777 Add Delete menu item to Analyses listing,https://github.com/cyverse-de/sonora/pull/158,2020-08-08T00:13:10Z,2020-08-11T18:49:29Z,4,5,MERGED
+sonora,CORE-1116: prevent polling for the user profile until after the confi…,https://github.com/cyverse-de/sonora/pull/157,2020-08-07T22:19:16Z,2020-08-07T22:23:39Z,2,1,MERGED
+sonora,next-i18next fixes,https://github.com/cyverse-de/sonora/pull/156,2020-08-06T00:42:56Z,2020-08-06T16:43:52Z,3,6,MERGED
+sonora,CORE-1116: detect when a user has logged out and update the CyVerseAppBar accordingly.,https://github.com/cyverse-de/sonora/pull/155,2020-08-05T22:00:38Z,2020-08-06T19:15:29Z,5,3,MERGED
+sonora,Analyses urls,https://github.com/cyverse-de/sonora/pull/154,2020-08-03T17:08:30Z,2020-08-10T13:50:16Z,4,5,MERGED
+sonora,Mobile launch,https://github.com/cyverse-de/sonora/pull/153,2020-08-03T14:31:39Z,2020-08-06T14:24:43Z,9,4,MERGED
+sonora,Selection drawer updates,https://github.com/cyverse-de/sonora/pull/259,2020-12-23T16:31:49Z,2021-01-20T18:07:22Z,2,2,MERGED
+sonora,Route to appropriate tab when search is filtered.,https://github.com/cyverse-de/sonora/pull/258,2020-12-18T21:32:28Z,2021-01-20T17:19:35Z,2,2,MERGED
+sonora,Fix browser navigation for data view.,https://github.com/cyverse-de/sonora/pull/257,2020-12-17T21:15:45Z,2020-12-18T19:08:46Z,3,4,MERGED
+sonora,Tools - Part 7,https://github.com/cyverse-de/sonora/pull/256,2020-12-17T17:35:52Z,2021-01-19T21:40:19Z,6,11,MERGED
+sonora,Tools - Part 6,https://github.com/cyverse-de/sonora/pull/255,2020-12-16T20:58:25Z,2021-01-19T14:23:35Z,8,13,MERGED
+sonora,Tools - Part 5,https://github.com/cyverse-de/sonora/pull/254,2020-12-16T15:49:39Z,2021-01-15T14:44:30Z,4,9,MERGED
+sonora, Tools - Part 4,https://github.com/cyverse-de/sonora/pull/253,2020-12-15T16:36:31Z,2021-01-14T14:26:16Z,21,23,MERGED
+sonora,CORE-1165 Integrate Metadata listing in data/ds/item page,https://github.com/cyverse-de/sonora/pull/252,2020-12-15T03:02:46Z,2020-12-18T23:41:36Z,13,6,MERGED
+sonora,Make the dashboard skeletons work again,https://github.com/cyverse-de/sonora/pull/251,2020-12-15T00:32:42Z,2020-12-15T23:44:33Z,1,1,MERGED
+sonora,Enable compression for routes mapped by the custom express server,https://github.com/cyverse-de/sonora/pull/250,2020-12-14T22:26:36Z,2020-12-15T23:44:33Z,1,1,MERGED
+sonora,Tools - Part3,https://github.com/cyverse-de/sonora/pull/249,2020-12-09T19:35:15Z,2020-12-18T15:38:30Z,7,4,MERGED
+sonora,Tools  - Part 2,https://github.com/cyverse-de/sonora/pull/248,2020-12-09T17:32:22Z,2020-12-16T21:04:16Z,9,14,MERGED
+sonora,Tools - Part 1,https://github.com/cyverse-de/sonora/pull/247,2020-12-04T18:19:02Z,2020-12-14T21:44:02Z,4,6,MERGED
+sonora,CyVerseAppBar optimization,https://github.com/cyverse-de/sonora/pull/246,2020-12-04T05:37:42Z,2020-12-05T00:35:23Z,15,11,MERGED
+sonora,"Load showdown.js dynamically, only when app documentation is actually opened",https://github.com/cyverse-de/sonora/pull/245,2020-12-04T05:33:42Z,2020-12-04T18:04:05Z,3,1,MERGED
+sonora,CORE-1158 Allow public apps to be browsable by logged out users,https://github.com/cyverse-de/sonora/pull/244,2020-12-03T21:17:12Z,2020-12-11T19:21:28Z,9,9,MERGED
+sonora,Add table row banding.,https://github.com/cyverse-de/sonora/pull/243,2020-12-03T19:54:24Z,2020-12-04T17:54:41Z,2,2,MERGED
+sonora,fix output folder routing,https://github.com/cyverse-de/sonora/pull/242,2020-12-02T21:48:41Z,2020-12-02T21:50:59Z,1,1,MERGED
+sonora,CORE-1175 Pathlist automation,https://github.com/cyverse-de/sonora/pull/241,2020-12-01T19:55:25Z,2020-12-10T15:54:12Z,38,41,MERGED
+sonora,Fix copy-pasta issue.,https://github.com/cyverse-de/sonora/pull/240,2020-12-01T14:49:27Z,2020-12-01T14:49:35Z,0,1,MERGED
+sonora,core-1177 fix incorrect date formatting in app details.,https://github.com/cyverse-de/sonora/pull/239,2020-11-30T20:11:23Z,2020-12-01T14:37:55Z,3,2,MERGED
+sonora,CORE-1165 Import Metadata listing and AVU forms,https://github.com/cyverse-de/sonora/pull/238,2020-11-25T23:17:04Z,2020-12-11T02:21:36Z,22,13,MERGED
+sonora,CORE-1120: call the `/secured/notifications/messages` endpoint instea…,https://github.com/cyverse-de/sonora/pull/237,2020-11-24T23:39:01Z,2020-11-25T00:10:28Z,1,1,MERGED
+sonora,Allow logged out users to view public data details,https://github.com/cyverse-de/sonora/pull/236,2020-11-23T23:34:11Z,2020-12-03T22:04:01Z,2,4,MERGED
+sonora,Fix card content overflow and analysis status.,https://github.com/cyverse-de/sonora/pull/235,2020-11-20T15:59:47Z,2020-11-25T15:07:48Z,2,2,MERGED
+sonora,Fix errors for logged out users viewing Data,https://github.com/cyverse-de/sonora/pull/234,2020-11-20T00:04:51Z,2020-11-21T00:12:29Z,3,2,MERGED
+sonora,Add Mark All as Seen functionality,https://github.com/cyverse-de/sonora/pull/233,2020-11-19T20:44:09Z,2021-01-20T15:43:31Z,8,8,MERGED
+sonora,Login menu,https://github.com/cyverse-de/sonora/pull/232,2020-11-19T20:41:22Z,2020-11-25T15:07:18Z,5,3,MERGED
+sonora,Sharing improvements.,https://github.com/cyverse-de/sonora/pull/231,2020-11-19T15:56:31Z,2020-11-25T15:06:14Z,4,1,MERGED
+sonora,Sonora - Product Tour,https://github.com/cyverse-de/sonora/pull/230,2020-11-18T20:37:15Z,2020-12-04T14:57:48Z,11,12,MERGED
+sonora,Revert Chromatic CI GitHub workflow changes,https://github.com/cyverse-de/sonora/pull/229,2020-11-17T18:56:38Z,2020-11-18T00:10:58Z,1,3,MERGED
+sonora,Attempt to only build Chromatic CI for PRs and pushes in main repo,https://github.com/cyverse-de/sonora/pull/228,2020-11-16T21:58:40Z,2020-11-16T22:06:33Z,2,1,MERGED
+sonora,Add fetch-mock mocks for noembed.com thumbnail-fetching for dashboard,https://github.com/cyverse-de/sonora/pull/227,2020-11-16T20:59:40Z,2020-11-17T23:37:51Z,3,2,MERGED
+sonora,Fix issue where logged in users still see anonymous's data roots,https://github.com/cyverse-de/sonora/pull/226,2020-11-16T18:49:37Z,2020-11-17T00:23:28Z,7,2,MERGED
+sonora,First load niceties,https://github.com/cyverse-de/sonora/pull/225,2020-11-16T18:17:42Z,2020-11-16T20:17:38Z,1,2,MERGED
+sonora,Remove react-table from initial loading dependencies.,https://github.com/cyverse-de/sonora/pull/224,2020-11-13T03:40:32Z,2020-11-13T16:52:28Z,4,2,MERGED
+sonora,"Make next dynamic imports work with jest, and dynamically load VideoViewer and TextViewer",https://github.com/cyverse-de/sonora/pull/223,2020-11-12T21:47:35Z,2020-11-13T16:52:29Z,0,1,MERGED
+sonora,Reorder dashboard items. Refactor card actions.,https://github.com/cyverse-de/sonora/pull/222,2020-11-12T20:58:54Z,2020-11-18T14:25:09Z,1,1,MERGED
+sonora,Use react-player light mode to improve performance of dashboard page,https://github.com/cyverse-de/sonora/pull/221,2020-11-12T20:54:41Z,2020-11-12T21:39:41Z,2,1,MERGED
+sonora,Public Links (aka Send to Genome Browser),https://github.com/cyverse-de/sonora/pull/220,2020-11-12T16:35:04Z,2020-11-17T19:42:34Z,12,8,MERGED
+sonora,"Update SB, Next, i18next",https://github.com/cyverse-de/sonora/pull/219,2020-11-05T17:11:42Z,2020-11-10T18:30:34Z,7,8,MERGED
+sonora,Fix Chrome crashing while loading data,https://github.com/cyverse-de/sonora/pull/218,2020-11-04T00:39:21Z,2020-11-05T22:00:46Z,2,5,MERGED
+sonora,Instant Launch Proof-of-Concept,https://github.com/cyverse-de/sonora/pull/217,2020-11-02T16:14:19Z,2021-03-31T17:41:30Z,11,29,CLOSED
+sonora,Instant Launch support,https://github.com/cyverse-de/sonora/pull/312,2021-03-30T18:35:03Z,2021-04-27T21:03:25Z,46,75,MERGED
+sonora,CORE-1282: support OAuth authorization callbacks in Sonora,https://github.com/cyverse-de/sonora/pull/311,2021-03-30T01:10:08Z,2021-04-19T19:42:14Z,20,19,MERGED
+sonora,App fix,https://github.com/cyverse-de/sonora/pull/310,2021-03-29T18:49:09Z,2021-03-31T15:45:00Z,1,2,MERGED
+sonora,core-1354 Allow users to rate apps from notification message.,https://github.com/cyverse-de/sonora/pull/309,2021-03-29T18:18:37Z,2021-04-07T21:03:50Z,4,3,MERGED
+sonora,CORE-702 Initial App Editor forms,https://github.com/cyverse-de/sonora/pull/308,2021-03-26T02:49:35Z,2021-04-08T02:50:58Z,39,48,MERGED
+sonora,core-1351 Fix tool add/edit/update tool from admin view.,https://github.com/cyverse-de/sonora/pull/307,2021-03-25T19:11:46Z,2021-03-31T15:44:07Z,1,1,MERGED
+sonora,Add log in link in notifications menu,https://github.com/cyverse-de/sonora/pull/306,2021-03-25T18:51:45Z,2021-04-09T18:50:43Z,12,6,MERGED
+sonora,Core 1350 - CyVerse Blessed Apps.,https://github.com/cyverse-de/sonora/pull/305,2021-03-25T18:22:13Z,2021-04-01T21:05:36Z,5,9,MERGED
+sonora,Core 1346 Move files / Folders,https://github.com/cyverse-de/sonora/pull/304,2021-03-24T14:53:32Z,2021-03-30T20:14:19Z,11,13,MERGED
+sonora,VICE Access Request admin processing,https://github.com/cyverse-de/sonora/pull/303,2021-03-22T12:40:06Z,2021-03-30T20:13:22Z,9,15,MERGED
+sonora,MD5 Copy Button,https://github.com/cyverse-de/sonora/pull/302,2021-03-18T19:02:22Z,2021-03-22T15:57:18Z,0,2,MERGED
+sonora,CORE-1309 Vice Loading page revamp,https://github.com/cyverse-de/sonora/pull/301,2021-03-10T21:15:09Z,2021-04-02T18:49:02Z,7,33,MERGED
+sonora,Vice Access request and errors,https://github.com/cyverse-de/sonora/pull/300,2021-03-10T06:56:52Z,2021-03-16T03:01:04Z,10,27,MERGED
+sonora,"Add new, non-admin VICE API calls for loading page",https://github.com/cyverse-de/sonora/pull/299,2021-03-03T20:13:22Z,2021-03-04T15:46:23Z,1,2,MERGED
+sonora,CORE-1284 Intercom events,https://github.com/cyverse-de/sonora/pull/298,2021-02-22T06:04:14Z,2021-03-08T02:25:30Z,3,16,MERGED
+sonora,Prevent errors when pageProps.namespacesRequired isn't present,https://github.com/cyverse-de/sonora/pull/297,2021-02-19T15:19:12Z,2021-02-19T20:31:26Z,1,1,MERGED
+sonora,"CORE-1250, 1251, 1253 - Team Join Request workflow",https://github.com/cyverse-de/sonora/pull/296,2021-02-18T22:12:26Z,2021-02-26T16:11:22Z,11,15,MERGED
+sonora,Add `rename` to row dot menu.,https://github.com/cyverse-de/sonora/pull/295,2021-02-18T02:15:24Z,2021-02-18T22:58:16Z,1,1,MERGED
+sonora,Merge namespacesRequired into pageProps,https://github.com/cyverse-de/sonora/pull/294,2021-02-13T15:45:28Z,2021-02-18T03:14:14Z,2,1,MERGED
+sonora,Add Glossary card to Help page,https://github.com/cyverse-de/sonora/pull/293,2021-02-12T23:05:50Z,2021-02-12T23:13:26Z,1,1,MERGED
+sonora,Update team icons,https://github.com/cyverse-de/sonora/pull/292,2021-02-12T21:54:00Z,2021-02-12T22:07:27Z,1,1,MERGED
+sonora,Rename and more,https://github.com/cyverse-de/sonora/pull/291,2021-02-12T19:50:02Z,2021-02-12T21:11:14Z,3,7,MERGED
+sonora,Disable news and events in the dashboard.,https://github.com/cyverse-de/sonora/pull/290,2021-02-12T18:37:03Z,2021-02-12T20:34:38Z,0,1,MERGED
+sonora,Low-hanging-fruit syntax highlighting,https://github.com/cyverse-de/sonora/pull/289,2021-02-12T17:08:41Z,2021-02-12T18:02:36Z,1,2,MERGED
+sonora,Request doi,https://github.com/cyverse-de/sonora/pull/288,2021-02-10T19:32:49Z,2021-02-11T21:00:13Z,7,6,MERGED
+sonora,removed the oauth2 settings from config/test.yml,https://github.com/cyverse-de/sonora/pull/287,2021-02-10T16:41:46Z,2021-02-10T16:47:44Z,1,1,MERGED
+sonora,CORE-827 Edit Team form,https://github.com/cyverse-de/sonora/pull/286,2021-02-09T22:28:57Z,2021-02-12T17:06:08Z,17,43,MERGED
+sonora,Add a simple select box that allows selecting the syntax highlighter language,https://github.com/cyverse-de/sonora/pull/285,2021-02-09T21:50:19Z,2021-03-16T23:21:13Z,10,10,MERGED
+sonora,Create doi,https://github.com/cyverse-de/sonora/pull/284,2021-02-09T20:49:09Z,2021-02-10T21:14:39Z,3,2,MERGED
+sonora,View doi metadata,https://github.com/cyverse-de/sonora/pull/283,2021-02-09T16:18:24Z,2021-02-10T20:47:59Z,2,2,MERGED
+sonora,search whitespace issue,https://github.com/cyverse-de/sonora/pull/282,2021-02-08T18:42:07Z,2021-02-08T19:30:14Z,4,3,MERGED
+sonora,CORE-1225 Fix analysis submissions with empty file/folder inputs,https://github.com/cyverse-de/sonora/pull/281,2021-02-06T01:39:54Z,2021-02-06T01:50:54Z,1,1,MERGED
+sonora,Analyses bug,https://github.com/cyverse-de/sonora/pull/280,2021-02-05T16:10:20Z,2021-02-10T14:06:53Z,2,2,MERGED
+sonora,CORE-1212 Add Metadata Template Viewer and Listing,https://github.com/cyverse-de/sonora/pull/279,2021-02-03T03:04:19Z,2021-02-08T23:04:07Z,10,10,MERGED
+sonora,Remove react-intl.,https://github.com/cyverse-de/sonora/pull/278,2021-02-02T18:58:49Z,2021-02-04T17:56:25Z,5,5,MERGED
+sonora,Add mathematica syntax highlighting,https://github.com/cyverse-de/sonora/pull/277,2021-02-02T16:29:36Z,2021-02-03T14:23:47Z,1,1,MERGED
+sonora,Show Manage Tools button in `small` screen.,https://github.com/cyverse-de/sonora/pull/276,2021-02-01T19:59:47Z,2021-02-05T14:53:32Z,2,1,MERGED
+sonora,Admin DOI Requests Listing,https://github.com/cyverse-de/sonora/pull/275,2021-02-01T19:39:08Z,2021-02-10T20:11:11Z,7,19,MERGED
+sonora,Icons and More,https://github.com/cyverse-de/sonora/pull/274,2021-01-28T20:10:17Z,2021-02-09T18:24:31Z,2,4,MERGED
+sonora,Use svgr-generated SVG icons for sidebar analyses and data,https://github.com/cyverse-de/sonora/pull/273,2021-01-28T15:34:22Z,2021-01-28T16:59:49Z,5,2,MERGED
+sonora,Trash & Refresh,https://github.com/cyverse-de/sonora/pull/272,2021-01-27T19:13:52Z,2021-02-12T14:39:03Z,12,10,MERGED
+sonora,Analyses Improvements,https://github.com/cyverse-de/sonora/pull/271,2021-01-26T17:41:33Z,2021-02-05T14:52:54Z,8,11,MERGED
+sonora,Update icons.,https://github.com/cyverse-de/sonora/pull/270,2021-01-22T16:49:04Z,2021-01-25T21:47:45Z,7,9,MERGED
+sonora,CORE-837 User can view all teams or my teams,https://github.com/cyverse-de/sonora/pull/269,2021-01-22T00:43:30Z,2021-02-04T15:56:31Z,8,29,MERGED
+sonora,Help,https://github.com/cyverse-de/sonora/pull/268,2021-01-20T15:44:53Z,2021-01-25T21:34:57Z,16,24,MERGED
+sonora,Add storybook decorator for stories using nextjs Link,https://github.com/cyverse-de/sonora/pull/267,2021-01-20T00:25:51Z,2021-01-20T17:56:48Z,2,1,MERGED
+sonora,Remove unused style.,https://github.com/cyverse-de/sonora/pull/266,2021-01-19T16:09:44Z,2021-01-19T16:11:15Z,1,1,MERGED
+sonora,Move JobLimits outside of the loading mask.,https://github.com/cyverse-de/sonora/pull/265,2021-01-13T21:54:06Z,2021-01-14T17:24:44Z,0,2,MERGED
+sonora,core-720 Allow users to download files.,https://github.com/cyverse-de/sonora/pull/264,2021-01-12T15:25:49Z,2021-01-28T15:42:19Z,4,2,MERGED
+sonora,Admin apps,https://github.com/cyverse-de/sonora/pull/263,2021-01-08T14:57:14Z,2021-01-27T21:23:36Z,21,12,MERGED
+sonora,"  Consistency edits for language, format, punctuation, etc.",https://github.com/cyverse-de/sonora/pull/261,2021-01-04T22:58:33Z,2021-01-22T18:47:53Z,0,1,MERGED
+sonora,Tool admin,https://github.com/cyverse-de/sonora/pull/260,2021-01-04T17:25:27Z,2021-01-22T19:47:38Z,11,18,MERGED
+sonora,"CORE-1431 Update button in App Editor ""Tool Used"" field",https://github.com/cyverse-de/sonora/pull/366,2021-05-26T00:46:28Z,2021-06-01T20:34:01Z,1,1,MERGED
+sonora,CORE-1425 Add drawer for app search results,https://github.com/cyverse-de/sonora/pull/365,2021-05-25T18:40:18Z,2021-06-02T16:26:47Z,13,12,MERGED
+sonora,Update AppBar logo.,https://github.com/cyverse-de/sonora/pull/364,2021-05-19T18:52:57Z,2021-05-19T18:59:18Z,1,1,MERGED
+sonora,core-1428 set up tool types cache.,https://github.com/cyverse-de/sonora/pull/363,2021-05-19T15:49:10Z,2021-05-19T17:54:36Z,1,1,MERGED
+sonora,Fix bugs around Global and Detailed search,https://github.com/cyverse-de/sonora/pull/362,2021-05-18T20:52:39Z,2021-05-19T17:54:17Z,2,7,MERGED
+sonora,core-1424 Remove tabs from path list / multi-input files.,https://github.com/cyverse-de/sonora/pull/361,2021-05-18T15:10:24Z,2021-05-18T18:38:16Z,1,1,MERGED
+sonora,CORE-1411 Display analysis details input params as links,https://github.com/cyverse-de/sonora/pull/360,2021-05-17T20:22:18Z,2021-05-18T00:41:33Z,3,2,MERGED
+sonora,CORE-1422 Add a `/de` page for redirecting legacy links,https://github.com/cyverse-de/sonora/pull/359,2021-05-14T23:42:34Z,2021-05-17T23:19:11Z,3,2,MERGED
+sonora,CORE-1405 Display intercom profile URL in admin vice requests,https://github.com/cyverse-de/sonora/pull/358,2021-05-14T16:28:27Z,2021-05-15T00:10:53Z,1,1,MERGED
+sonora,CORE-1420 Fixes to prevent editing Workflows as regular Apps,https://github.com/cyverse-de/sonora/pull/357,2021-05-13T03:12:03Z,2021-05-13T19:26:14Z,1,3,MERGED
+sonora,CORE-1418 Refactor toolbar dot menus to have text,https://github.com/cyverse-de/sonora/pull/356,2021-05-12T23:57:13Z,2021-05-14T16:49:54Z,2,3,MERGED
+sonora,core-1403 Allow users to copy DE and public link from Details drawer.,https://github.com/cyverse-de/sonora/pull/355,2021-05-12T19:40:15Z,2021-05-17T15:35:02Z,4,2,MERGED
+sonora,CORE-1408 Add last modified and size to default columns,https://github.com/cyverse-de/sonora/pull/354,2021-05-12T00:39:53Z,2021-05-13T00:39:13Z,1,1,MERGED
+sonora,CORE-1409 Add Refresh btn to notifications listing,https://github.com/cyverse-de/sonora/pull/353,2021-05-11T23:47:29Z,2021-05-13T00:31:02Z,1,1,MERGED
+sonora,CORE-1417 Fix pagination in data selection drawer,https://github.com/cyverse-de/sonora/pull/352,2021-05-11T23:08:41Z,2021-05-13T00:15:47Z,1,2,MERGED
+sonora,core-1349 Allow users to extend VICE analysis time limit.,https://github.com/cyverse-de/sonora/pull/351,2021-05-11T18:35:04Z,2021-05-12T14:15:28Z,9,3,MERGED
+sonora,Core 1410 Apply Bulk Metadata.,https://github.com/cyverse-de/sonora/pull/350,2021-05-10T20:51:17Z,2021-05-17T15:30:48Z,4,8,MERGED
+sonora,Core 1166 Allow users to copy metadata,https://github.com/cyverse-de/sonora/pull/349,2021-05-07T18:24:47Z,2021-05-12T22:25:21Z,11,10,MERGED
+sonora,Cancel consumer when websocket is closed.,https://github.com/cyverse-de/sonora/pull/347,2021-05-05T19:19:11Z,2021-05-05T19:29:20Z,3,2,MERGED
+sonora,CORE-843 Users can list all or my communities,https://github.com/cyverse-de/sonora/pull/346,2021-05-05T16:32:42Z,2021-05-11T00:46:40Z,7,7,MERGED
+sonora,CORE-1401 Reference Genome and List parameter improvements in App Editor and Launcher,https://github.com/cyverse-de/sonora/pull/345,2021-05-05T02:39:44Z,2021-05-08T00:12:47Z,4,4,MERGED
+sonora,CORE-1398 Fix display of App Editor Selection param default values,https://github.com/cyverse-de/sonora/pull/344,2021-05-03T20:14:25Z,2021-05-04T00:16:47Z,2,1,MERGED
+sonora,core-1399 Improve Analysis info UX.,https://github.com/cyverse-de/sonora/pull/343,2021-05-03T17:15:29Z,2021-05-03T17:58:49Z,2,2,MERGED
+sonora,Open IL in a new tab.,https://github.com/cyverse-de/sonora/pull/342,2021-04-30T15:41:21Z,2021-04-30T16:11:39Z,2,2,MERGED
+sonora,Switch to the <Formik> tag for consistency,https://github.com/cyverse-de/sonora/pull/341,2021-04-29T16:26:43Z,2021-12-06T15:59:06Z,3,1,CLOSED
+sonora,CORE-1352 Allow App editing for public apps,https://github.com/cyverse-de/sonora/pull/340,2021-04-29T00:59:40Z,2021-04-30T22:19:31Z,1,2,MERGED
+sonora,Switch to a mutation for the instant launch API call.,https://github.com/cyverse-de/sonora/pull/339,2021-04-28T17:16:02Z,2021-04-29T19:58:31Z,0,1,MERGED
+sonora,Core 716 Allow users to submit request to publish their app,https://github.com/cyverse-de/sonora/pull/338,2021-04-28T15:52:42Z,2021-04-29T19:58:50Z,27,17,MERGED
+sonora,CORE-1392 Add legacy DE card to Dashboard,https://github.com/cyverse-de/sonora/pull/337,2021-04-27T23:59:01Z,2021-04-29T20:17:07Z,10,5,MERGED
+sonora,VICE loading page fixes,https://github.com/cyverse-de/sonora/pull/336,2021-04-27T00:30:25Z,2021-04-28T01:12:17Z,1,2,MERGED
+sonora,CORE-1378 and CORE-1379 Completed analysis notifications take you to the output folder,https://github.com/cyverse-de/sonora/pull/335,2021-04-27T00:10:37Z,2021-04-28T01:04:03Z,2,3,MERGED
+sonora,CORE-1363 Add pending termination dlg,https://github.com/cyverse-de/sonora/pull/334,2021-04-23T23:51:32Z,2021-04-28T00:58:03Z,6,4,MERGED
+sonora,Adjust PathListAutomation.js,https://github.com/cyverse-de/sonora/pull/333,2021-04-22T19:06:38Z,2021-05-14T17:27:56Z,13,7,MERGED
+sonora,Pref fix,https://github.com/cyverse-de/sonora/pull/332,2021-04-20T18:33:54Z,2021-04-21T14:38:58Z,10,4,MERGED
+sonora,CORE-1329 Update App Launch file/folder input params to validate with API,https://github.com/cyverse-de/sonora/pull/331,2021-04-20T01:28:53Z,2021-04-21T19:48:39Z,2,3,MERGED
+sonora,CORE-1360 Add terminate dlg for analyses,https://github.com/cyverse-de/sonora/pull/330,2021-04-19T23:04:19Z,2021-04-21T22:59:10Z,2,4,MERGED
+sonora,CORE - 1374 Allow users to copy links and paths,https://github.com/cyverse-de/sonora/pull/329,2021-04-19T18:08:39Z,2021-04-21T14:35:29Z,11,21,MERGED
+sonora,CORE-702 Fix App Editor to fetch File Info Types from API,https://github.com/cyverse-de/sonora/pull/328,2021-04-16T00:57:26Z,2021-04-16T23:13:40Z,1,1,MERGED
+sonora,Amqplib upgrade,https://github.com/cyverse-de/sonora/pull/327,2021-04-15T18:17:36Z,2021-04-15T18:26:22Z,1,2,MERGED
+sonora,Fix logic to reduce webhook topic selection.,https://github.com/cyverse-de/sonora/pull/326,2021-04-14T20:27:11Z,2021-04-15T13:50:35Z,1,1,MERGED
+sonora,CORE-1299 and CORE-1298 Add VICE Urls to nav drawer and notification menu,https://github.com/cyverse-de/sonora/pull/325,2021-04-14T19:47:38Z,2021-04-16T23:51:20Z,11,18,MERGED
+sonora,CORE-702 Update App Editor Param Selector help text display,https://github.com/cyverse-de/sonora/pull/324,2021-04-14T03:30:07Z,2021-04-16T00:37:50Z,1,2,MERGED
+sonora,core-1367 Logout of intercom when user logs out.,https://github.com/cyverse-de/sonora/pull/323,2021-04-13T14:50:02Z,2021-04-16T13:45:15Z,2,1,MERGED
+sonora,Core 1368 Fix Sidebar scrolling,https://github.com/cyverse-de/sonora/pull/322,2021-04-13T14:33:37Z,2021-04-16T19:37:57Z,6,7,MERGED
+sonora,CORE-1369 Fix App Launch form cutoff at page bottom,https://github.com/cyverse-de/sonora/pull/321,2021-04-13T00:33:50Z,2021-04-13T23:15:14Z,1,1,MERGED
+sonora,Core 1366 - Admin App publication Requests,https://github.com/cyverse-de/sonora/pull/320,2021-04-09T16:22:12Z,2021-04-16T13:43:03Z,5,8,MERGED
+sonora,CORE-702 Hide App Editor navigation buttons when editing groups/params,https://github.com/cyverse-de/sonora/pull/319,2021-04-09T01:16:46Z,2021-04-12T22:12:21Z,2,1,MERGED
+sonora,Core 1359 Webhook preferences,https://github.com/cyverse-de/sonora/pull/318,2021-04-07T20:18:30Z,2021-04-14T16:04:23Z,10,12,MERGED
+sonora,"Upgrade amqplib to 0.7.1, which supports nodejs 15",https://github.com/cyverse-de/sonora/pull/317,2021-04-06T15:26:50Z,2021-04-15T18:26:35Z,2,1,CLOSED
+sonora,CORE-1356 Recent Contacts List,https://github.com/cyverse-de/sonora/pull/316,2021-04-05T19:09:57Z,2021-04-13T23:23:58Z,7,8,MERGED
+sonora,Add CSS for table resizing bug,https://github.com/cyverse-de/sonora/pull/315,2021-04-05T17:54:07Z,2021-04-08T16:41:45Z,2,4,MERGED
+sonora,CORE-702 Add apps create and edit pages,https://github.com/cyverse-de/sonora/pull/314,2021-04-02T03:31:07Z,2021-04-08T03:04:59Z,3,2,MERGED
+sonora,CORE-1321 Markdown support for App Info text,https://github.com/cyverse-de/sonora/pull/313,2021-04-02T02:29:35Z,2021-04-08T03:01:45Z,2,1,MERGED
+sonora,CORE-1465 Add `tools.admin.max_*` resource config support,https://github.com/cyverse-de/sonora/pull/390,2021-07-31T01:02:19Z,2021-08-03T21:53:15Z,1,2,MERGED
+sonora,CORE-1400 Add newly designed maintenance page,https://github.com/cyverse-de/sonora/pull/389,2021-07-28T19:07:37Z,2021-07-30T16:57:24Z,6,4,MERGED
+sonora,Remove react-select,https://github.com/cyverse-de/sonora/pull/388,2021-07-26T17:51:31Z,2021-07-29T18:35:42Z,16,12,MERGED
+sonora,CORE-1214 Allow App Editor and Launch steppers to be marked completed,https://github.com/cyverse-de/sonora/pull/387,2021-07-24T02:10:13Z,2021-07-30T00:47:53Z,1,2,MERGED
+sonora,CORE-1436 Enable 0 byte file uploads,https://github.com/cyverse-de/sonora/pull/386,2021-07-21T23:19:03Z,2021-07-23T17:00:02Z,1,1,MERGED
+sonora,CORE-1061 Show error details for uploads,https://github.com/cyverse-de/sonora/pull/385,2021-07-21T21:00:13Z,2021-07-23T22:12:57Z,4,6,MERGED
+sonora,Core 1460 - Merge ui-lib into DE codebase.,https://github.com/cyverse-de/sonora/pull/384,2021-07-19T17:50:34Z,2021-07-22T15:26:51Z,14,22,MERGED
+sonora,CORE-1400 Add method for checking maintenance flag,https://github.com/cyverse-de/sonora/pull/383,2021-07-14T00:12:15Z,2021-07-26T18:25:48Z,1,4,MERGED
+sonora,Admin Tool Requests.,https://github.com/cyverse-de/sonora/pull/382,2021-07-13T15:28:14Z,2021-07-15T15:38:01Z,19,14,MERGED
+sonora,Core 1444 - Allow users to refresh cache of their publicly linked files,https://github.com/cyverse-de/sonora/pull/381,2021-06-29T17:40:18Z,2021-07-07T14:10:54Z,7,9,MERGED
+sonora,CORE-726 Workflow Editor,https://github.com/cyverse-de/sonora/pull/380,2021-06-26T03:07:27Z,2021-07-16T01:18:52Z,11,16,MERGED
+sonora,use svg version of the splash image.,https://github.com/cyverse-de/sonora/pull/379,2021-06-23T18:04:55Z,2021-06-28T14:04:01Z,1,1,MERGED
+sonora,core-1456 Update sidebar menu color.,https://github.com/cyverse-de/sonora/pull/378,2021-06-23T15:23:00Z,2021-07-15T13:34:57Z,2,3,MERGED
+sonora,Viewer bugs,https://github.com/cyverse-de/sonora/pull/377,2021-06-23T15:10:46Z,2021-06-28T14:03:37Z,1,2,MERGED
+sonora,Instant Launches should set the output directory ,https://github.com/cyverse-de/sonora/pull/376,2021-06-22T17:53:03Z,2021-07-15T20:46:20Z,1,3,MERGED
+sonora,CORE-1440 Prompt users to update their user portal account info,https://github.com/cyverse-de/sonora/pull/375,2021-06-19T00:11:32Z,2021-06-21T21:32:56Z,8,9,MERGED
+sonora,CORE-706 Add App Delete item to Listing row dot-menu,https://github.com/cyverse-de/sonora/pull/374,2021-06-11T21:51:34Z,2021-06-15T00:49:52Z,1,1,MERGED
+sonora,CORE-707 Add Copy App/Workflow menu items to Apps Listing,https://github.com/cyverse-de/sonora/pull/373,2021-06-09T03:11:20Z,2021-06-11T20:09:57Z,1,1,MERGED
+sonora,CORE-1438 Fix App Editor init and display of checkbox params,https://github.com/cyverse-de/sonora/pull/372,2021-06-04T01:04:32Z,2021-06-07T21:15:27Z,1,1,MERGED
+sonora,Move forwardRef to inner OptionLink,https://github.com/cyverse-de/sonora/pull/371,2021-06-04T00:03:39Z,2021-06-04T15:56:13Z,1,1,MERGED
+sonora,CORE-1432 Fixes for Add/Edit Tool form,https://github.com/cyverse-de/sonora/pull/370,2021-06-03T19:48:24Z,2021-06-07T21:14:04Z,5,3,MERGED
+sonora,Fix IDs not being set on next/link,https://github.com/cyverse-de/sonora/pull/369,2021-06-03T17:27:16Z,2021-06-03T18:15:05Z,1,1,MERGED
+sonora,core-1437 Editor,https://github.com/cyverse-de/sonora/pull/368,2021-06-02T20:34:02Z,2021-06-11T20:11:07Z,31,29,MERGED
+sonora,CORE-1430: accommodate the new response body format for the analysis …,https://github.com/cyverse-de/sonora/pull/367,2021-06-01T19:35:42Z,2021-06-01T21:44:36Z,3,1,MERGED
+sonora,CORE-1499 Users can see an instant launch listing,https://github.com/cyverse-de/sonora/pull/432,2021-10-28T00:18:20Z,2021-10-28T23:26:01Z,2,6,MERGED
+sonora,CORE-1499 Admins can control instant launch listing,https://github.com/cyverse-de/sonora/pull/431,2021-10-28T00:12:01Z,2021-10-28T23:03:16Z,3,4,MERGED
+sonora,Core-1555 Analysis Landing page.,https://github.com/cyverse-de/sonora/pull/430,2021-10-26T20:46:21Z,2021-11-03T20:17:44Z,29,22,MERGED
+sonora,CORE-1544 Allow admins to set higher app launch resource requirements,https://github.com/cyverse-de/sonora/pull/429,2021-10-21T01:20:21Z,2021-10-21T18:07:30Z,3,1,MERGED
+sonora,CORE-1500 Add check for pending VICE requests,https://github.com/cyverse-de/sonora/pull/428,2021-10-14T23:19:03Z,2021-10-19T17:43:03Z,2,2,MERGED
+sonora,Remove legacy DE card from Dashboard.,https://github.com/cyverse-de/sonora/pull/427,2021-10-14T18:00:13Z,2021-10-15T20:32:16Z,5,2,MERGED
+sonora,core-1552 Update react-highlight,https://github.com/cyverse-de/sonora/pull/426,2021-10-14T14:50:28Z,2021-10-14T16:58:30Z,1,1,MERGED
+sonora,core-1551 Fix App deletion.,https://github.com/cyverse-de/sonora/pull/425,2021-10-14T14:08:04Z,2021-10-14T14:08:25Z,1,1,MERGED
+sonora,Core 1528 Allow users to connect to running vice analysis from dashboard,https://github.com/cyverse-de/sonora/pull/424,2021-10-08T14:19:33Z,2021-10-11T14:56:56Z,2,3,MERGED
+sonora,Core 1527 Allows users to terminate analysis from Dashboard Analysis section,https://github.com/cyverse-de/sonora/pull/423,2021-10-08T13:27:27Z,2021-10-11T14:39:14Z,4,7,MERGED
+sonora,CORE-1481 Add Popular Featured apps row to dashboard,https://github.com/cyverse-de/sonora/pull/422,2021-10-07T23:48:42Z,2021-10-14T00:36:52Z,2,3,MERGED
+sonora,CORE-1484 Allow admins to edit instant launches in nav drawer,https://github.com/cyverse-de/sonora/pull/421,2021-10-01T23:40:37Z,2021-10-08T21:29:53Z,4,3,MERGED
+sonora,"CORE-1484 Add ""first class"" instant launches to navigation drawer",https://github.com/cyverse-de/sonora/pull/420,2021-09-30T00:39:40Z,2021-10-01T17:35:06Z,15,10,MERGED
+sonora,Fix app rating from notifications menu and page.,https://github.com/cyverse-de/sonora/pull/419,2021-09-23T17:05:59Z,2021-09-27T14:13:09Z,1,1,MERGED
+sonora,Fixing misc warnings in the console,https://github.com/cyverse-de/sonora/pull/418,2021-09-23T00:43:12Z,2021-09-23T18:00:41Z,2,3,MERGED
+sonora,Fix unexpected error when refreshing Data page,https://github.com/cyverse-de/sonora/pull/417,2021-09-23T00:41:00Z,2021-09-23T16:36:19Z,2,1,MERGED
+sonora,Core 1498 Fix preferences validation,https://github.com/cyverse-de/sonora/pull/416,2021-09-22T15:31:59Z,2021-09-27T14:12:38Z,12,9,MERGED
+sonora,Core 1494 - Fix data search for logged out users.,https://github.com/cyverse-de/sonora/pull/415,2021-09-21T19:30:58Z,2021-09-23T15:14:28Z,3,6,MERGED
+sonora,core-1497 Fix single app listing.,https://github.com/cyverse-de/sonora/pull/414,2021-09-21T15:01:54Z,2021-09-22T13:25:06Z,1,1,MERGED
+sonora,CORE-1482 Add Featured Apps category to Apps view,https://github.com/cyverse-de/sonora/pull/413,2021-09-13T20:43:51Z,2021-09-22T18:46:52Z,4,4,MERGED
+sonora,Doi bugs,https://github.com/cyverse-de/sonora/pull/412,2021-09-10T16:43:03Z,2021-09-16T15:40:42Z,3,3,MERGED
+sonora,Encode path.,https://github.com/cyverse-de/sonora/pull/411,2021-09-09T15:57:49Z,2021-09-13T15:01:16Z,3,2,MERGED
+sonora,bags,https://github.com/cyverse-de/sonora/pull/410,2021-09-08T17:00:23Z,2021-09-09T14:17:17Z,1,2,MERGED
+sonora,Add notification categories to i18n,https://github.com/cyverse-de/sonora/pull/409,2021-09-03T18:00:52Z,2021-09-03T18:29:45Z,1,1,MERGED
+sonora,Add completed analyses total run time to dashboard,https://github.com/cyverse-de/sonora/pull/408,2021-09-02T17:49:34Z,2021-09-03T15:57:16Z,2,2,MERGED
+sonora,Add collections to apps and update collections icon,https://github.com/cyverse-de/sonora/pull/406,2021-08-31T00:25:30Z,2021-09-03T15:47:01Z,2,4,MERGED
+sonora,Rename communities to collections,https://github.com/cyverse-de/sonora/pull/405,2021-08-24T21:34:49Z,2021-09-01T19:41:21Z,3,1,MERGED
+sonora,CORE-1483 Show running time for analyses in dashboard,https://github.com/cyverse-de/sonora/pull/404,2021-08-18T23:34:27Z,2021-09-01T18:00:21Z,6,5,MERGED
+sonora,CORE-1485 Rename Quick Launch to Saved Launch,https://github.com/cyverse-de/sonora/pull/403,2021-08-17T18:19:59Z,2021-08-20T23:23:18Z,10,6,MERGED
+sonora,CORE-1475: updated the VICE loading page to work when the CSI driver …,https://github.com/cyverse-de/sonora/pull/402,2021-08-14T01:03:44Z,2021-08-16T18:13:00Z,1,1,MERGED
+sonora,Rq3,https://github.com/cyverse-de/sonora/pull/401,2021-08-13T19:51:49Z,2021-09-08T16:05:59Z,51,30,MERGED
+sonora,CORE-845 Users can create/edit a community,https://github.com/cyverse-de/sonora/pull/399,2021-08-13T00:40:58Z,2021-08-18T16:22:52Z,15,35,MERGED
+sonora,CORE-1466 Add a final step in the app and workflow editor forms with suggested next actions for the user,https://github.com/cyverse-de/sonora/pull/398,2021-08-12T02:22:40Z,2021-08-24T22:02:41Z,9,6,MERGED
+sonora,Fix req body parsing,https://github.com/cyverse-de/sonora/pull/397,2021-08-11T16:53:07Z,2021-08-12T16:26:13Z,3,2,MERGED
+sonora,remove unused package,https://github.com/cyverse-de/sonora/pull/396,2021-08-09T15:43:12Z,2021-08-11T14:20:06Z,6,2,MERGED
+sonora,core-781 Add refresh button to analyses view.,https://github.com/cyverse-de/sonora/pull/395,2021-08-06T19:26:05Z,2021-08-06T19:48:29Z,1,1,MERGED
+sonora,core-1472 Fix Routing to tool listing page.,https://github.com/cyverse-de/sonora/pull/394,2021-08-06T17:16:54Z,2021-08-06T19:48:09Z,1,1,MERGED
+sonora,fix image name display in app details,https://github.com/cyverse-de/sonora/pull/393,2021-08-05T19:39:56Z,2021-08-06T13:59:24Z,1,1,MERGED
+sonora,Core 1471 Allow admins to search and filter apps,https://github.com/cyverse-de/sonora/pull/392,2021-08-05T18:41:15Z,2021-08-06T13:58:25Z,2,4,MERGED
+sonora,core-1467 Fix pagination in sub-folders.,https://github.com/cyverse-de/sonora/pull/391,2021-08-02T17:22:13Z,2021-08-03T14:28:08Z,1,1,MERGED
+sonora,CORE-1609 Advanced Data Search Form,https://github.com/cyverse-de/sonora/pull/447,2021-12-10T22:38:05Z,2021-12-15T00:17:17Z,19,37,MERGED
+sonora,core-1636 Go to output folder in dashboard and landing page.,https://github.com/cyverse-de/sonora/pull/446,2021-12-09T16:09:53Z,2021-12-10T21:15:55Z,2,2,MERGED
+sonora,Chart improvements,https://github.com/cyverse-de/sonora/pull/444,2021-12-08T16:52:17Z,2021-12-10T21:16:17Z,2,3,MERGED
+sonora,core-1631 Add data overage foot note.,https://github.com/cyverse-de/sonora/pull/443,2021-12-06T15:27:23Z,2021-12-06T19:41:16Z,1,1,MERGED
+sonora,Refine the ticks on the data consumption graph display,https://github.com/cyverse-de/sonora/pull/442,2021-12-04T01:38:22Z,2021-12-06T19:45:50Z,2,1,MERGED
+sonora,CORE-1627 and CORE-1631,https://github.com/cyverse-de/sonora/pull/441,2021-12-01T20:11:30Z,2021-12-03T21:02:04Z,18,15,MERGED
+sonora,core-1615 Fix move destination folder selection.,https://github.com/cyverse-de/sonora/pull/440,2021-11-18T20:59:22Z,2021-11-24T14:35:56Z,6,4,MERGED
+sonora,Core 1611 Fix Analysis Landing Page infinite loop,https://github.com/cyverse-de/sonora/pull/439,2021-11-18T17:00:11Z,2021-11-22T21:21:05Z,4,2,MERGED
+sonora,CORE-1601: made the username suffix configurable,https://github.com/cyverse-de/sonora/pull/438,2021-11-09T01:13:05Z,2021-11-09T22:06:13Z,10,6,MERGED
+sonora,core-1599 Add ability to view logs for VICE analysis.,https://github.com/cyverse-de/sonora/pull/437,2021-11-08T18:54:09Z,2021-11-10T15:54:03Z,7,2,MERGED
+sonora,core-1598 Allow ht path list file for folder inputs.,https://github.com/cyverse-de/sonora/pull/436,2021-11-05T16:52:35Z,2021-11-08T15:14:19Z,1,1,MERGED
+sonora,core-1597 fix separator for path list files.,https://github.com/cyverse-de/sonora/pull/435,2021-11-05T15:33:39Z,2021-11-08T15:09:11Z,1,1,MERGED
+sonora,Change to using an exclusive and autodeleting queue with a randomized name.,https://github.com/cyverse-de/sonora/pull/434,2021-11-03T18:05:00Z,2021-11-03T18:46:36Z,1,1,MERGED
+sonora,Notification fixes,https://github.com/cyverse-de/sonora/pull/433,2021-11-02T22:54:59Z,2021-11-03T16:06:03Z,1,3,MERGED
+sonora,CORE-1721 Fix new tool submissions in EditTool form,https://github.com/cyverse-de/sonora/pull/462,2022-03-17T02:27:28Z,2022-03-18T00:04:04Z,4,2,MERGED
+sonora,core-1687 Add resource usage summary and plan information to dashboard.,https://github.com/cyverse-de/sonora/pull/460,2022-02-25T21:23:43Z,2022-03-03T19:28:52Z,3,3,MERGED
+sonora,core-1679 Add undefined check before trying to update app search resu…,https://github.com/cyverse-de/sonora/pull/456,2022-02-10T15:13:48Z,2022-02-11T16:32:09Z,1,1,MERGED
+sonora,Core 1671 Add CPU consumption chart,https://github.com/cyverse-de/sonora/pull/455,2022-02-04T16:06:35Z,2022-02-09T14:12:04Z,2,3,MERGED
+sonora,core-1646 Add overwrite warning to public tools with ability to allow…,https://github.com/cyverse-de/sonora/pull/454,2022-01-27T20:18:01Z,2022-01-31T20:42:36Z,7,3,MERGED
+sonora,core-1666 Add max cpu resources to advanced settings in app launch.,https://github.com/cyverse-de/sonora/pull/451,2022-01-21T21:42:42Z,2022-01-27T15:08:16Z,7,4,MERGED
+sonora,Update copyright year on maintenance page,https://github.com/cyverse-de/sonora/pull/450,2022-01-13T20:44:48Z,2022-01-13T20:45:42Z,0,1,MERGED
+sonora,core-1657 Add go to analysis option for submitted VICE analyses and s…,https://github.com/cyverse-de/sonora/pull/449,2022-01-13T16:24:29Z,2022-01-19T20:57:07Z,2,1,MERGED
+sonora,Add user transition survey to dashboard.,https://github.com/cyverse-de/sonora/pull/448,2022-01-10T19:44:48Z,2022-01-10T20:16:21Z,5,2,MERGED
+sonora,CORE-1740 Fix App Launch form Resource Req validation display,https://github.com/cyverse-de/sonora/pull/472,2022-05-19T00:45:39Z,2022-05-19T22:57:05Z,3,1,MERGED
+sonora,CORE-1740 Allow CPU min to equal CPU max in app launch form,https://github.com/cyverse-de/sonora/pull/471,2022-05-18T01:55:39Z,2022-05-18T21:18:31Z,1,2,MERGED
+sonora,CORE-1736 Prevent duplicate completion/canceled stop requests,https://github.com/cyverse-de/sonora/pull/470,2022-05-05T02:40:04Z,2022-05-05T02:56:16Z,1,1,MERGED
+sonora,CORE-1732: updated the DE UI to use the quota values from the resource usage endpoint,https://github.com/cyverse-de/sonora/pull/469,2022-04-27T02:02:14Z,2022-04-27T20:28:52Z,5,4,MERGED
+sonora,CORE-1731: made the user portal URL used by the client side code configurable,https://github.com/cyverse-de/sonora/pull/468,2022-04-20T21:52:12Z,2022-04-21T04:54:06Z,4,5,MERGED
+sonora,"Add opentelemetry tracing, exporting to Jaeger over HTTP",https://github.com/cyverse-de/sonora/pull/466,2022-04-04T19:05:38Z,2022-04-08T19:47:07Z,2,3,MERGED
+sonora,Fix image viewer by adding a wrapping div that doesn't impose flexbox on its children,https://github.com/cyverse-de/sonora/pull/465,2022-04-04T18:21:59Z,2022-04-04T18:31:13Z,1,1,MERGED
+sonora,CORE-1687 Replace Subscription Buy URL with config value,https://github.com/cyverse-de/sonora/pull/464,2022-04-01T01:53:20Z,2022-04-01T23:26:28Z,2,4,MERGED
+sonora,CORE-1754 Add 409 ERR_CONFLICT ErrorHandler message,https://github.com/cyverse-de/sonora/pull/474,2022-07-13T02:13:17Z,2022-07-14T00:54:26Z,4,1,MERGED
+sonora,CORE-1536 Submit version IDs in app/saved/instant launches,https://github.com/cyverse-de/sonora/pull/489,2022-10-26T23:35:18Z,2022-10-27T02:25:43Z,1,2,MERGED
+sonora,CORE-1531 Restrict new public app versions to public tools,https://github.com/cyverse-de/sonora/pull/488,2022-10-21T01:00:20Z,2022-10-21T20:44:50Z,1,2,MERGED
+sonora,CORE-1533 Add admin app sharing support,https://github.com/cyverse-de/sonora/pull/487,2022-10-21T00:26:14Z,2022-10-21T00:37:42Z,1,1,MERGED
+sonora,CORE-1804 Fix app listing navigation bug when apps are selected,https://github.com/cyverse-de/sonora/pull/486,2022-10-19T21:21:30Z,2022-10-21T00:10:02Z,1,1,MERGED
+sonora,CORE-1801 Add unique Resource Query Keys to launch pages,https://github.com/cyverse-de/sonora/pull/485,2022-10-11T23:44:16Z,2022-10-12T00:07:23Z,1,1,MERGED
+sonora,Hide resource usage when subscriptions not enforced,https://github.com/cyverse-de/sonora/pull/484,2022-10-05T23:39:06Z,2022-10-05T23:49:19Z,1,1,MERGED
+sonora,CORE-1534 Update AdminAppDetailsDialog and app listings for versions,https://github.com/cyverse-de/sonora/pull/483,2022-09-30T22:47:11Z,2022-10-21T00:08:57Z,1,3,MERGED
+sonora,CORE-1486 Add Documentation tab to App Details Drawer,https://github.com/cyverse-de/sonora/pull/482,2022-09-22T01:42:03Z,2022-10-20T22:45:44Z,1,1,MERGED
+sonora,"Add Version Selection to App Launch, Editors, and Detail views",https://github.com/cyverse-de/sonora/pull/481,2022-09-22T01:16:01Z,2022-10-20T22:33:00Z,1,4,MERGED
+sonora,CORE-1531 Add Create App Version page and Editor support,https://github.com/cyverse-de/sonora/pull/480,2022-09-22T00:01:33Z,2022-10-20T22:16:12Z,2,3,MERGED
+sonora,CORE-1793: implement compute quota limit enforcement checks,https://github.com/cyverse-de/sonora/pull/479,2022-09-07T22:11:27Z,2022-09-15T17:24:55Z,13,16,MERGED
+sonora,CORE-1762: disable data uploads when the storage limit has been exceeded.,https://github.com/cyverse-de/sonora/pull/478,2022-08-29T20:14:29Z,2022-08-31T00:57:58Z,5,12,MERGED
+sonora,CORE-1763: Admin VICE access request listing improvements.,https://github.com/cyverse-de/sonora/pull/477,2022-08-18T20:55:23Z,2022-08-18T21:38:13Z,1,3,MERGED
+sonora,Fix reporting of URL import submission errors,https://github.com/cyverse-de/sonora/pull/476,2022-08-01T19:47:08Z,2022-08-01T21:12:10Z,2,4,MERGED
+sonora,CORE-1806 Analysis Listing Improvements,https://github.com/cyverse-de/sonora/pull/501,2022-12-16T22:53:57Z,2023-01-06T23:11:48Z,7,9,MERGED
+sonora,CORE-1734 Make analysis termination more prominent,https://github.com/cyverse-de/sonora/pull/497,2022-12-07T21:00:55Z,2022-12-12T23:15:59Z,3,6,MERGED
+sonora,CORE-1808 Update app listings to display app types,https://github.com/cyverse-de/sonora/pull/496,2022-12-03T00:11:40Z,2022-12-05T19:40:17Z,1,2,MERGED
+sonora,CORE-1809 Add app version labels to Admin Instant Launch List,https://github.com/cyverse-de/sonora/pull/495,2022-12-01T02:34:52Z,2022-12-02T22:18:17Z,1,2,MERGED
+sonora,CORE-1809 Add app version labels to Instant Launch Listing,https://github.com/cyverse-de/sonora/pull/494,2022-11-22T03:07:11Z,2022-11-30T03:22:14Z,1,2,MERGED
+sonora,CORE-1536 Update App Launch Version Select helper text,https://github.com/cyverse-de/sonora/pull/490,2022-11-04T01:57:36Z,2022-11-04T02:03:19Z,1,1,MERGED
+sonora,Admins can delete available add-ons,https://github.com/cyverse-de/sonora/pull/525,2023-03-17T18:56:58Z,2023-03-20T16:42:18Z,2,2,MERGED
+sonora,CORE-1876 Replace `express-ws` with `ws`,https://github.com/cyverse-de/sonora/pull/523,2023-03-15T02:53:17Z,2023-03-17T23:18:50Z,1,3,MERGED
+sonora,Update available add-on,https://github.com/cyverse-de/sonora/pull/522,2023-03-14T21:12:02Z,2023-03-15T15:46:12Z,2,2,MERGED
+sonora,"list add-ons on a sub, add an available add-on",https://github.com/cyverse-de/sonora/pull/521,2023-03-09T19:01:38Z,2023-03-10T16:43:09Z,6,5,MERGED
+sonora,Core 1858,https://github.com/cyverse-de/sonora/pull/520,2023-03-03T18:17:59Z,2023-03-06T17:56:18Z,3,3,MERGED
+sonora,"add paid flag, fix user lookup",https://github.com/cyverse-de/sonora/pull/518,2023-03-01T22:42:36Z,2023-03-02T16:16:05Z,1,2,MERGED
+sonora,CORE-1882 Fix duration display for cancelled analyses,https://github.com/cyverse-de/sonora/pull/517,2023-02-22T02:09:37Z,2023-02-23T21:43:59Z,1,1,MERGED
+sonora,Add link from Sub UI details to User Portal,https://github.com/cyverse-de/sonora/pull/516,2023-02-21T22:55:52Z,2023-02-22T17:46:04Z,1,2,MERGED
+sonora,CORE-1876 Upgrade to next.js v12,https://github.com/cyverse-de/sonora/pull/515,2023-02-17T23:46:52Z,2023-02-22T01:05:16Z,8,9,MERGED
+sonora,CORE-1870 Implement feedback from AH ,https://github.com/cyverse-de/sonora/pull/514,2023-02-16T23:48:32Z,2023-02-17T15:34:13Z,3,8,MERGED
+sonora,Core 1870,https://github.com/cyverse-de/sonora/pull/513,2023-02-15T20:40:59Z,2023-02-16T01:32:45Z,7,4,MERGED
+sonora,Add storybooks to Subscriptions UI,https://github.com/cyverse-de/sonora/pull/512,2023-02-09T20:06:45Z,2023-02-10T18:48:45Z,3,3,MERGED
+sonora,fixed a response body field name and renamed some variables,https://github.com/cyverse-de/sonora/pull/511,2023-02-08T01:03:19Z,2023-02-08T01:22:31Z,2,1,MERGED
+sonora,Core 1870,https://github.com/cyverse-de/sonora/pull/509,2023-02-02T20:13:51Z,2023-02-03T17:47:54Z,17,6,MERGED
+sonora,Core 1574,https://github.com/cyverse-de/sonora/pull/507,2023-01-26T00:40:10Z,2023-01-26T00:40:45Z,28,6,MERGED
+sonora,CORE-1867 Migrate to CodeMirror v6,https://github.com/cyverse-de/sonora/pull/506,2023-01-21T02:53:26Z,2023-02-01T21:41:15Z,1,7,MERGED
+sonora,refactor components under errors/,https://github.com/cyverse-de/sonora/pull/537,2023-05-18T02:11:21Z,2023-05-19T23:13:26Z,0,1,MERGED
+sonora,fix hardcoded urls,https://github.com/cyverse-de/sonora/pull/536,2023-05-11T15:28:48Z,2023-05-12T22:00:42Z,5,3,MERGED
+sonora,add subscription jest tests,https://github.com/cyverse-de/sonora/pull/535,2023-05-04T23:29:20Z,2023-05-05T00:40:38Z,0,1,MERGED
+sonora,move SimpleExpansionPanel to common utilities,https://github.com/cyverse-de/sonora/pull/534,2023-05-03T18:08:40Z,2023-05-04T16:51:05Z,1,2,MERGED
+sonora,CORE-1894 disable intercom unless valid subscription,https://github.com/cyverse-de/sonora/pull/533,2023-04-26T21:22:48Z,2023-04-28T01:21:36Z,3,3,MERGED
+sonora,CORE-1893 Update data nav to use paths from data info service,https://github.com/cyverse-de/sonora/pull/532,2023-04-14T03:12:03Z,2023-05-09T22:03:48Z,3,1,MERGED
+sonora,Display info,https://github.com/cyverse-de/sonora/pull/531,2023-04-13T22:40:41Z,2023-04-20T20:10:18Z,2,5,MERGED
+sonora,Addons stories,https://github.com/cyverse-de/sonora/pull/530,2023-04-12T21:59:42Z,2023-04-13T17:31:50Z,0,3,MERGED
+sonora,Enable data sharing,https://github.com/cyverse-de/sonora/pull/529,2023-04-12T19:33:03Z,2023-04-17T23:39:12Z,6,4,MERGED
+sonora,CORE 1854,https://github.com/cyverse-de/sonora/pull/528,2023-04-08T02:36:19Z,2023-04-11T21:12:02Z,0,4,MERGED
+sonora,Core 1853,https://github.com/cyverse-de/sonora/pull/527,2023-04-06T02:04:20Z,2023-04-07T19:55:30Z,6,7,MERGED
+sonora,create add a subscription add-on functionality,https://github.com/cyverse-de/sonora/pull/526,2023-04-01T02:30:29Z,2023-04-04T16:05:01Z,4,2,MERGED
+sonora,CORE-1939 Add usage percentage to Data nav icon,https://github.com/cyverse-de/sonora/pull/545,2023-07-21T01:38:16Z,2023-07-22T01:00:40Z,2,3,MERGED
+sonora,CORE-1913 Add running count to Analyses nav icon,https://github.com/cyverse-de/sonora/pull/542,2023-07-17T22:03:09Z,2023-07-19T00:34:21Z,1,2,MERGED
+sonora,Core 1919 highlight running analyses,https://github.com/cyverse-de/sonora/pull/541,2023-07-14T19:21:12Z,2023-07-14T23:56:37Z,1,2,MERGED
+sonora,Improve some stories for better Chromatic snapshots,https://github.com/cyverse-de/sonora/pull/539,2023-06-17T00:35:53Z,2023-06-17T00:55:15Z,1,1,MERGED
+sonora,CORE-1909: added GitHub actions for creating releases,https://github.com/cyverse-de/sonora/pull/538,2023-06-16T18:44:13Z,2023-06-16T21:42:14Z,1,1,MERGED
+sonora,CORE-1968 Add page titles in each DE page,https://github.com/cyverse-de/sonora/pull/552,2023-10-26T23:10:17Z,2023-10-27T01:21:04Z,2,2,MERGED
+sonora,CORE-1952 Display limit check errors from instant launch actions,https://github.com/cyverse-de/sonora/pull/549,2023-10-14T01:39:54Z,2023-10-17T03:20:03Z,3,1,MERGED
+sonora,CORE 1961,https://github.com/cyverse-de/sonora/pull/547,2023-10-02T23:44:15Z,2023-10-10T00:40:04Z,3,12,MERGED
+sonora,CORE-1950 Pro user cannot see Intercom widget,https://github.com/cyverse-de/sonora/pull/546,2023-08-17T16:42:45Z,2023-08-18T00:24:59Z,0,1,MERGED
+sonora,CORE-1966 Initial Local Contexts support in Metadata Templates,https://github.com/cyverse-de/sonora/pull/560,2023-12-08T01:49:31Z,2023-12-13T02:16:29Z,1,1,MERGED
+sonora,CORE-1936 MUI v5 fixes,https://github.com/cyverse-de/sonora/pull/557,2023-11-22T01:03:17Z,2023-11-22T03:11:56Z,1,6,MERGED
+sonora,MUI V5 Migration,https://github.com/cyverse-de/sonora/pull/554,2023-11-03T21:42:30Z,2023-11-17T00:35:15Z,33,26,MERGED
+sonora,"CORE-1985 Replace the @mui/styles, clsx, and classnames packages with tss-react",https://github.com/cyverse-de/sonora/pull/569,2024-03-19T03:02:49Z,2024-03-19T23:45:46Z,2,2,MERGED
+sonora,CORE-1967 Refactor metadata template form fields,https://github.com/cyverse-de/sonora/pull/568,2024-03-15T02:39:51Z,2024-03-15T02:49:35Z,1,1,MERGED
+sonora,CORE-1967 Allow anonymous access in /filesystem/metadata endpoints,https://github.com/cyverse-de/sonora/pull/567,2024-03-12T02:52:39Z,2024-03-12T22:08:42Z,1,1,MERGED
+sonora,DD-17: added `ephemeral-storage` requests and limits,https://github.com/cyverse-de/sonora/pull/566,2024-03-08T23:37:49Z,2024-03-08T23:38:57Z,1,1,MERGED
+sonora,CORE-1967 Initial Local Contexts label display,https://github.com/cyverse-de/sonora/pull/563,2024-01-27T02:30:50Z,2024-03-05T01:47:41Z,5,10,MERGED
+sonora,CORE-1971: Add the include-defaults flag to the endpoint for 'getToolDetails'.,https://github.com/cyverse-de/sonora/pull/561,2024-01-03T21:04:59Z,2024-01-04T18:19:17Z,0,1,MERGED
+sonora,CORE-1967 Display Local Contexts Labels/Notices for files as well,https://github.com/cyverse-de/sonora/pull/571,2024-04-18T21:25:07Z,2024-04-18T23:58:34Z,1,1,MERGED
+sonora,CORE-1183: async path list creation,https://github.com/cyverse-de/sonora/pull/570,2024-04-08T19:24:14Z,2024-04-12T16:25:59Z,1,3,MERGED
+sonora,Small update to use the _first_ @ rather than the last for username truncation,https://github.com/cyverse-de/sonora/pull/583,2024-07-30T20:10:28Z,2024-07-31T17:09:48Z,0,1,MERGED
+sonora,CORE-1889 Tapis v3 Migration,https://github.com/cyverse-de/sonora/pull/582,2024-07-09T03:07:37Z,2025-01-06T20:39:12Z,7,3,MERGED
+sonora,CORE-1999: fix the matching file count when no matching files are found,https://github.com/cyverse-de/sonora/pull/573,2024-06-05T19:13:23Z,2024-06-05T20:22:17Z,2,1,MERGED
+sonora,CORE-1998 Remove User Survey from Dashboard,https://github.com/cyverse-de/sonora/pull/572,2024-06-04T00:42:31Z,2024-06-04T00:47:25Z,1,1,MERGED
+sonora,"When autolaunching an instant launch, redirect to the analysis landing page",https://github.com/cyverse-de/sonora/pull/603,2024-10-14T18:48:51Z,2024-10-15T00:03:45Z,4,3,MERGED
+sonora,Display information about the app and any files/folders in the instant launch dialog,https://github.com/cyverse-de/sonora/pull/599,2024-10-11T20:37:22Z,2024-10-17T17:48:58Z,2,3,MERGED
+sonora,Support passing a resource path to the instant launch page,https://github.com/cyverse-de/sonora/pull/597,2024-10-10T22:57:56Z,2024-10-11T17:42:29Z,4,3,MERGED
+sonora,Instant Launch badges (WIP),https://github.com/cyverse-de/sonora/pull/596,2024-10-08T21:56:21Z,2024-10-10T22:04:14Z,4,6,MERGED
+sonora,Amend analysis page icons,https://github.com/cyverse-de/sonora/pull/595,2024-10-02T18:30:55Z,2024-10-04T16:26:00Z,5,3,MERGED
+sonora,"Use special text for periodic updates, and try more ways of finding the analysis ID for linking",https://github.com/cyverse-de/sonora/pull/594,2024-10-01T21:45:09Z,2024-10-02T17:15:10Z,0,1,MERGED
+sonora,CORE-2011 Update setting max CPUs in app launch form,https://github.com/cyverse-de/sonora/pull/593,2024-09-30T21:34:07Z,2024-10-01T00:54:20Z,1,2,MERGED
+sonora,Make periodic notifications work properly with instant launches,https://github.com/cyverse-de/sonora/pull/592,2024-09-27T17:19:29Z,2024-09-27T21:59:12Z,5,4,MERGED
+sonora,Set up preference for periodic email notifications & pass to app submissions,https://github.com/cyverse-de/sonora/pull/591,2024-09-23T17:35:24Z,2024-09-26T20:56:53Z,5,4,MERGED
+sonora,Check for null URLs in Notification message links,https://github.com/cyverse-de/sonora/pull/585,2024-08-17T03:09:47Z,2024-08-17T03:15:26Z,0,1,MERGED
+sonora,CORE-2002 VICE Countdown Timers,https://github.com/cyverse-de/sonora/pull/584,2024-08-10T01:34:57Z,2024-08-15T01:04:31Z,4,7,MERGED
+sonora,CORE-2025 Add Data Limits dashboard announcement,https://github.com/cyverse-de/sonora/pull/612,2024-12-18T01:40:38Z,2024-12-18T22:32:39Z,1,2,MERGED
+sonora,Use `await import` for `lottie-web` in LoadingAnimation,https://github.com/cyverse-de/sonora/pull/611,2024-12-07T03:13:46Z,2024-12-09T21:09:54Z,1,1,MERGED
+sonora,Make the standalone instant launch page show errors immediately,https://github.com/cyverse-de/sonora/pull/610,2024-12-04T16:48:33Z,2024-12-09T18:59:42Z,3,3,MERGED
+sonora,Reset hasLaunched after closing the instant launch dialog,https://github.com/cyverse-de/sonora/pull/609,2024-12-03T20:00:48Z,2024-12-05T16:00:48Z,2,2,MERGED
+sonora,Instant launch embed code & user-created instant launches,https://github.com/cyverse-de/sonora/pull/606,2024-11-04T18:58:21Z,2024-11-12T20:00:35Z,14,10,MERGED
+sonora,CORE-1955 App Version Ordering Form,https://github.com/cyverse-de/sonora/pull/605,2024-11-02T02:15:48Z,2024-11-21T02:23:19Z,2,4,MERGED
+sonora,"CORE-1985 Upgrade to React v18, next.js v14, and Storybook v8",https://github.com/cyverse-de/sonora/pull/620,2025-02-19T23:23:44Z,2025-02-22T00:11:28Z,2,26,MERGED
+sonora,"Use the user subscription from the usage summary, rather than making two calls",https://github.com/cyverse-de/sonora/pull/619,2025-02-13T22:40:03Z,2025-02-17T16:31:17Z,1,4,MERGED
+sonora,Enable public data downloads by using new unauthentication-allowed Terrain endpoints,https://github.com/cyverse-de/sonora/pull/618,2025-02-05T23:15:00Z,2025-02-05T23:37:03Z,2,2,MERGED
+sonora,Update file viewer to download binary files instead of displaying them,https://github.com/cyverse-de/sonora/pull/617,2025-01-30T20:58:20Z,2025-01-30T22:24:18Z,10,3,MERGED
+sonora,Replace min/max CPU fields with single CPU cores field,https://github.com/cyverse-de/sonora/pull/616,2025-01-22T22:42:21Z,2025-01-25T19:37:51Z,7,5,MERGED
+sonora,Add automatic SSO redirect for authenticated users,https://github.com/cyverse-de/sonora/pull/615,2025-01-21T21:42:04Z,2025-01-22T20:22:20Z,4,1,MERGED
+sonora,Login table,https://github.com/cyverse-de/sonora/pull/614,2025-01-13T20:05:49Z,2025-01-24T22:29:12Z,10,11,MERGED
+sonora,CORE2016: add support for addon rates.,https://github.com/cyverse-de/sonora/pull/613,2025-01-07T23:24:32Z,2025-02-10T23:58:38Z,18,17,MERGED

@@ -1,0 +1,725 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+owncast,Chat updates,https://github.com/owncast/owncast/pull/92,2020-07-28T06:11:16Z,2020-07-29T04:30:04Z,2,9,MERGED
+owncast,Support separate S3 serving endpoint,https://github.com/owncast/owncast/pull/91,2020-07-28T02:28:19Z,2020-07-28T20:17:40Z,3,8,MERGED
+owncast,Add ACL option to s3 config,https://github.com/owncast/owncast/pull/89,2020-07-26T16:21:19Z,2020-07-28T04:41:52Z,2,1,MERGED
+owncast,Add: Config Key when changing ffmpeg.,https://github.com/owncast/owncast/pull/80,2020-07-21T19:58:00Z,2020-07-21T20:13:01Z,1,1,MERGED
+owncast,Set Content-Type on status endpoint,https://github.com/owncast/owncast/pull/70,2020-07-19T16:11:10Z,2020-07-19T17:26:06Z,1,1,MERGED
+owncast,Show in the UI how long the user has been streaming for.,https://github.com/owncast/owncast/pull/69,2020-07-18T22:09:52Z,2020-07-19T23:15:20Z,4,6,MERGED
+owncast,Plz can we have desktop layout on wide enough tablets?,https://github.com/owncast/owncast/pull/68,2020-07-17T04:05:13Z,2020-07-18T23:52:26Z,1,1,CLOSED
+owncast,Use endpoint for chat history instead of websocket,https://github.com/owncast/owncast/pull/67,2020-07-17T03:46:17Z,2020-07-19T00:27:05Z,1,5,MERGED
+owncast,App Javascript refactor,https://github.com/owncast/owncast/pull/56,2020-07-13T10:22:54Z,2020-07-16T19:17:06Z,7,20,MERGED
+owncast,Correct indenting,https://github.com/owncast/owncast/pull/55,2020-07-12T22:50:21Z,2020-07-12T22:59:00Z,1,1,MERGED
+owncast,Add gcc dependency to build process,https://github.com/owncast/owncast/pull/53,2020-07-12T20:35:45Z,2020-07-12T20:38:56Z,1,1,MERGED
+owncast,New video transcoder,https://github.com/owncast/owncast/pull/27,2020-06-24T07:36:29Z,2020-06-26T00:44:48Z,13,9,MERGED
+owncast,Decouple chat from core and add chat rest api,https://github.com/owncast/owncast/pull/25,2020-06-23T07:29:44Z,2020-06-23T20:11:02Z,2,2,MERGED
+owncast,Add a launch.json to enable vscode debugging,https://github.com/owncast/owncast/pull/24,2020-06-23T07:27:59Z,2020-06-23T07:42:57Z,1,1,MERGED
+owncast,Fix a memory leak with the chat,https://github.com/owncast/owncast/pull/23,2020-06-23T06:29:29Z,2020-06-23T06:52:51Z,1,1,MERGED
+owncast,Project restructure,https://github.com/owncast/owncast/pull/18,2020-06-20T03:33:29Z,2020-06-23T01:11:57Z,11,6,MERGED
+owncast,Update the module path,https://github.com/owncast/owncast/pull/17,2020-06-19T21:40:40Z,2020-06-20T01:05:28Z,1,1,MERGED
+owncast,Reject second stream attempting to overtake existing stream,https://github.com/owncast/owncast/pull/15,2020-06-19T17:01:24Z,2020-06-19T17:29:09Z,2,1,MERGED
+owncast,Fix initial offline state,https://github.com/owncast/owncast/pull/10,2020-06-19T00:40:58Z,2020-06-19T01:08:26Z,2,3,MERGED
+owncast,Add a gitignore file,https://github.com/owncast/owncast/pull/5,2020-06-18T21:45:38Z,2020-06-18T22:00:42Z,2,1,MERGED
+owncast,changed duration format to also represent days,https://github.com/owncast/owncast/pull/309,2020-10-29T11:48:04Z,2020-10-30T01:29:26Z,0,1,MERGED
+owncast,Create a production build of Tailwind at release time,https://github.com/owncast/owncast/pull/292,2020-10-25T19:40:02Z,2020-10-26T15:49:34Z,1,2,MERGED
+owncast,Stop rtmp from reaching back into core,https://github.com/owncast/owncast/pull/290,2020-10-24T22:55:14Z,2020-10-29T21:09:29Z,3,2,MERGED
+owncast,First pass at centralized database reference. Closes #282,https://github.com/owncast/owncast/pull/289,2020-10-24T21:45:37Z,2020-10-26T15:55:31Z,1,8,MERGED
+owncast,Custom thumbnail poster component,https://github.com/owncast/owncast/pull/281,2020-10-22T07:53:46Z,2020-10-22T21:14:45Z,1,8,MERGED
+owncast,Add Javascript update Github Actions workflow,https://github.com/owncast/owncast/pull/275,2020-10-20T22:39:40Z,2020-10-21T01:38:37Z,1,3,MERGED
+owncast,Update chat styling,https://github.com/owncast/owncast/pull/264,2020-10-17T01:26:45Z,2020-10-18T02:22:54Z,0,3,MERGED
+owncast,Variable collisions; Possible use of nil value,https://github.com/owncast/owncast/pull/256,2020-10-15T21:21:40Z,2020-10-16T22:04:31Z,3,3,MERGED
+owncast,Remove Chat Avatars,https://github.com/owncast/owncast/pull/241,2020-10-14T12:00:05Z,2020-10-14T18:16:59Z,0,2,MERGED
+owncast,Update extra page content API,https://github.com/owncast/owncast/pull/240,2020-10-14T00:52:47Z,2020-10-14T16:38:49Z,0,2,MERGED
+owncast,Add Docker-compose,https://github.com/owncast/owncast/pull/238,2020-10-12T20:17:02Z,2020-11-20T07:32:50Z,8,1,MERGED
+owncast,Render and sanitize chat messages server-side.,https://github.com/owncast/owncast/pull/237,2020-10-11T21:27:06Z,2020-10-13T23:45:53Z,0,5,MERGED
+owncast,Add system chat message type,https://github.com/owncast/owncast/pull/233,2020-10-09T04:10:50Z,2020-10-09T21:05:03Z,5,3,CLOSED
+owncast,Remove additional viewer counts from status bar.,https://github.com/owncast/owncast/pull/231,2020-10-08T23:41:09Z,2020-10-09T04:44:28Z,1,1,MERGED
+owncast,ADD: Save volume settings in localstorage,https://github.com/owncast/owncast/pull/228,2020-10-06T20:06:41Z,2020-10-07T05:54:58Z,3,6,MERGED
+owncast,fix: prevents messages ending with spaces to exceed the msg limit,https://github.com/owncast/owncast/pull/226,2020-10-05T05:50:43Z,2020-10-06T20:46:08Z,1,1,MERGED
+owncast,Initial OpenAPIv3 Spec,https://github.com/owncast/owncast/pull/223,2020-10-04T21:12:35Z,2020-10-05T01:59:43Z,1,1,MERGED
+owncast,Fixes #211: Update mod paths,https://github.com/owncast/owncast/pull/221,2020-10-04T16:56:56Z,2020-10-05T17:07:09Z,3,1,MERGED
+owncast,Move all remote dependencies to be local,https://github.com/owncast/owncast/pull/220,2020-10-04T02:11:38Z,2020-10-05T01:43:32Z,6,4,MERGED
+owncast,Fix: Optional socialHandles and tags,https://github.com/owncast/owncast/pull/219,2020-10-02T19:44:54Z,2020-10-07T08:06:58Z,5,5,MERGED
+owncast,Hardware status admin api,https://github.com/owncast/owncast/pull/218,2020-10-02T19:11:19Z,2020-10-02T19:18:09Z,0,3,MERGED
+owncast,Connected clients admin API,https://github.com/owncast/owncast/pull/217,2020-10-02T17:03:59Z,2020-10-07T06:14:34Z,11,10,MERGED
+owncast,"Simplify config, remove custom paths and add constants",https://github.com/owncast/owncast/pull/216,2020-10-02T02:37:19Z,2020-10-03T21:35:04Z,0,1,MERGED
+owncast,Make video segment filename unique,https://github.com/owncast/owncast/pull/214,2020-10-01T10:57:34Z,2020-10-02T06:34:30Z,2,3,MERGED
+owncast,Add timestamp to title chat,https://github.com/owncast/owncast/pull/213,2020-10-01T09:15:07Z,2020-10-04T08:15:46Z,7,7,MERGED
+owncast,First pass at YP registration/configuration,https://github.com/owncast/owncast/pull/209,2020-09-30T17:37:09Z,2020-10-02T06:55:39Z,5,13,MERGED
+owncast,Viewer metrics api,https://github.com/owncast/owncast/pull/208,2020-09-30T01:39:58Z,2020-10-02T07:06:15Z,0,4,MERGED
+owncast,Add server config admin endpoint,https://github.com/owncast/owncast/pull/207,2020-09-30T00:30:02Z,2020-10-02T07:02:43Z,0,3,MERGED
+owncast,Current broadcaster details admin api,https://github.com/owncast/owncast/pull/206,2020-09-29T22:44:10Z,2020-10-02T07:12:48Z,0,6,MERGED
+owncast,Disconnect stream Admin API + HTTP Basic Auth,https://github.com/owncast/owncast/pull/204,2020-09-28T23:30:19Z,2020-10-02T01:16:59Z,3,3,MERGED
+owncast,Create release docker image without shipping source and go toolchain.,https://github.com/owncast/owncast/pull/188,2020-09-25T23:03:39Z,2020-09-26T07:44:44Z,5,4,MERGED
+owncast,Update caching logic/headers,https://github.com/owncast/owncast/pull/184,2020-09-25T05:16:42Z,2020-09-30T21:14:40Z,0,2,MERGED
+owncast,Remove player progress bar.  Closes #159,https://github.com/owncast/owncast/pull/171,2020-09-21T21:30:53Z,2020-09-28T05:03:41Z,1,1,MERGED
+owncast,chat fixes v3 or 5 or 123,https://github.com/owncast/owncast/pull/168,2020-09-21T04:42:10Z,2020-09-22T03:11:10Z,11,19,MERGED
+owncast,Limit the length of pasted text.,https://github.com/owncast/owncast/pull/163,2020-09-19T06:36:45Z,2020-09-19T21:20:26Z,0,1,CLOSED
+owncast,"Preconnect preact, emoji. Defer some js.",https://github.com/owncast/owncast/pull/162,2020-09-19T06:12:07Z,2020-09-20T17:03:55Z,2,1,MERGED
+owncast,Reset the directories when the stream gets disconnected,https://github.com/owncast/owncast/pull/152,2020-09-16T18:20:03Z,2020-09-16T20:31:22Z,9,2,MERGED
+owncast,HLS video handling/storage/state refactor,https://github.com/owncast/owncast/pull/151,2020-09-16T18:09:16Z,2020-10-14T21:07:39Z,7,38,MERGED
+owncast,Misc web updates,https://github.com/owncast/owncast/pull/147,2020-09-13T23:18:36Z,2020-09-14T05:02:05Z,3,7,MERGED
+owncast,Fix chat not coming back after server comes back. ,https://github.com/owncast/owncast/pull/146,2020-09-13T01:49:52Z,2020-09-13T01:57:09Z,0,1,MERGED
+owncast,Player loads path from Config,https://github.com/owncast/owncast/pull/121,2020-08-25T02:36:48Z,2020-10-02T21:25:31Z,5,8,CLOSED
+owncast,frontend refactor with Preact,https://github.com/owncast/owncast/pull/120,2020-08-24T05:01:17Z,2020-08-26T08:03:41Z,15,39,MERGED
+owncast,Remove cache-control header from HLS queries,https://github.com/owncast/owncast/pull/118,2020-08-20T23:48:49Z,2020-08-21T00:49:12Z,1,1,MERGED
+owncast,Simple hardware metrics collection + alerting,https://github.com/owncast/owncast/pull/115,2020-08-18T05:34:13Z,2020-08-27T07:37:32Z,3,4,MERGED
+owncast,Terminal stats and status UI,https://github.com/owncast/owncast/pull/111,2020-08-11T04:39:15Z,2020-08-17T18:24:06Z,10,9,CLOSED
+owncast,Merge of emoji + autolink + embed + etc,https://github.com/owncast/owncast/pull/108,2020-08-06T06:33:04Z,2020-08-13T04:56:42Z,6,33,MERGED
+owncast,Transcoder updates for bitrate validator warnings ,https://github.com/owncast/owncast/pull/106,2020-08-05T06:48:41Z,2020-08-06T19:19:35Z,4,7,MERGED
+owncast,Stop storing messages in memory and pull from db instead. Closes #81,https://github.com/owncast/owncast/pull/105,2020-08-05T06:39:40Z,2020-08-06T04:01:07Z,0,1,MERGED
+owncast,Websocket refactor: Pull it out of the UI and support callbacks,https://github.com/owncast/owncast/pull/104,2020-08-05T01:49:21Z,2020-08-06T17:55:33Z,4,3,MERGED
+owncast,Add username tab completion,https://github.com/owncast/owncast/pull/98,2020-08-03T17:06:11Z,2020-08-08T08:06:54Z,12,3,MERGED
+owncast,Fix handling newlines in messages,https://github.com/owncast/owncast/pull/97,2020-08-02T10:10:42Z,2020-08-03T03:16:44Z,3,1,MERGED
+owncast,"#515 switched to SVG icons, #525 added Ko-Fi platform",https://github.com/owncast/owncast/pull/528,2020-12-27T12:03:30Z,2021-01-09T20:59:44Z,8,3,MERGED
+owncast,Update chat message visibility for moderation,https://github.com/owncast/owncast/pull/524,2020-12-26T09:14:15Z,2020-12-29T21:35:34Z,1,16,MERGED
+owncast,Added new endpoints to modify settings in-memory,https://github.com/owncast/owncast/pull/517,2020-12-23T21:40:41Z,2020-12-29T22:03:58Z,1,2,MERGED
+owncast,wrap tags so they don't extend off the view,https://github.com/owncast/owncast/pull/501,2020-12-22T18:08:28Z,2020-12-22T18:28:07Z,1,1,MERGED
+owncast,misc issue fixes,https://github.com/owncast/owncast/pull/496,2020-12-22T11:21:11Z,2020-12-23T01:43:35Z,1,4,MERGED
+owncast,Auto play when stream is live,https://github.com/owncast/owncast/pull/495,2020-12-22T10:01:54Z,2020-12-30T03:58:25Z,22,1,CLOSED
+owncast,Log and abort when listening on RTMP port fails,https://github.com/owncast/owncast/pull/478,2020-12-20T01:19:21Z,2020-12-20T06:17:10Z,0,1,MERGED
+owncast,Update docker-compose.yaml example,https://github.com/owncast/owncast/pull/476,2020-12-19T20:11:58Z,2020-12-20T20:25:33Z,4,2,MERGED
+owncast,Add webfinger,https://github.com/owncast/owncast/pull/466,2020-12-17T23:08:41Z,2022-01-12T23:52:05Z,1,2,CLOSED
+owncast,Add custom RTMP port number support,https://github.com/owncast/owncast/pull/462,2020-12-16T08:27:03Z,2020-12-17T17:56:05Z,0,2,MERGED
+owncast,Websocket fixes,https://github.com/owncast/owncast/pull/461,2020-12-16T08:08:28Z,2020-12-22T03:42:48Z,0,3,MERGED
+owncast,chat fixes and optimizations,https://github.com/owncast/owncast/pull/431,2020-12-06T08:47:56Z,2020-12-07T05:01:53Z,2,3,MERGED
+owncast,optimize Dockerfile,https://github.com/owncast/owncast/pull/409,2020-12-03T03:17:36Z,2020-12-11T05:57:19Z,1,1,MERGED
+owncast,Support video-only streams if there is no audio in the inbound stream.,https://github.com/owncast/owncast/pull/401,2020-12-01T06:00:23Z,2020-12-02T08:19:55Z,0,1,MERGED
+owncast,End to end automated tests run on Github workflows,https://github.com/owncast/owncast/pull/384,2020-11-19T22:00:38Z,2020-11-24T08:28:55Z,5,10,MERGED
+owncast,Add database schema versioning & migration skeleton,https://github.com/owncast/owncast/pull/382,2020-11-18T10:06:48Z,2020-11-19T00:49:55Z,3,1,MERGED
+owncast,config-example -> config-default,https://github.com/owncast/owncast/pull/375,2020-11-18T01:50:18Z,2020-11-19T16:48:34Z,0,1,MERGED
+owncast,Simplify Logo requirement from users.,https://github.com/owncast/owncast/pull/373,2020-11-17T07:04:51Z,2020-11-17T23:12:54Z,2,2,MERGED
+owncast,a fix for message list not scrolling to bottom when new messages come in,https://github.com/owncast/owncast/pull/369,2020-11-17T05:18:21Z,2020-11-18T00:59:28Z,3,1,MERGED
+owncast,Do not highlight usernames inside links,https://github.com/owncast/owncast/pull/366,2020-11-16T04:12:56Z,2020-11-18T01:29:04Z,7,3,MERGED
+owncast,Check if inbound details properly set before use,https://github.com/owncast/owncast/pull/365,2020-11-16T02:57:23Z,2020-11-17T04:14:23Z,2,3,MERGED
+owncast,Extended config example,https://github.com/owncast/owncast/pull/363,2020-11-15T04:46:32Z,2020-11-15T19:58:49Z,2,1,MERGED
+owncast,Use a multistage Docker build to slim down the image a bit,https://github.com/owncast/owncast/pull/362,2020-11-15T00:44:58Z,2020-11-15T02:32:21Z,2,1,CLOSED
+owncast,Start cleaning up linter errors.,https://github.com/owncast/owncast/pull/358,2020-11-13T02:09:24Z,2020-11-15T02:39:53Z,9,9,MERGED
+owncast,Fix godoc style comments,https://github.com/owncast/owncast/pull/356,2020-11-12T23:10:03Z,2020-11-12T23:14:59Z,0,1,MERGED
+owncast,Fix popular typos,https://github.com/owncast/owncast/pull/355,2020-11-12T22:52:48Z,2020-11-12T22:57:25Z,0,1,MERGED
+owncast,Make sure we close DB statements to release resources,https://github.com/owncast/owncast/pull/354,2020-11-12T22:42:38Z,2020-11-12T22:46:57Z,0,1,MERGED
+owncast,Use a golangci-lint workflow to check for common mistakes & problems,https://github.com/owncast/owncast/pull/353,2020-11-12T22:33:34Z,2020-11-12T22:42:39Z,0,1,MERGED
+owncast,Explicitly ignore io.Copy's return values,https://github.com/owncast/owncast/pull/352,2020-11-12T22:29:38Z,2020-11-12T22:42:01Z,0,1,MERGED
+owncast,Handle filepath.Walk errors,https://github.com/owncast/owncast/pull/351,2020-11-12T22:25:45Z,2020-11-12T22:29:18Z,0,1,MERGED
+owncast,Stick to the documented default bitrate of 1200 in case of config parsing issues,https://github.com/owncast/owncast/pull/350,2020-11-12T22:20:46Z,2020-11-12T22:23:52Z,0,1,MERGED
+owncast,Avoid unnecessary conversion,https://github.com/owncast/owncast/pull/349,2020-11-12T22:17:25Z,2020-11-12T22:18:33Z,0,1,MERGED
+owncast,Add GoReleaser config and GitHub workflow,https://github.com/owncast/owncast/pull/348,2020-11-12T21:48:59Z,2021-06-28T20:46:59Z,2,1,CLOSED
+owncast,Use 'os' instead of the deprecated 'platform' in build matrix,https://github.com/owncast/owncast/pull/347,2020-11-12T21:33:57Z,2020-11-12T21:37:27Z,0,1,MERGED
+owncast,Build & test against Go 1.13 and latest Go,https://github.com/owncast/owncast/pull/346,2020-11-12T21:22:23Z,2020-11-12T21:29:39Z,0,1,MERGED
+owncast,Log potential errors returned by http.ListenAndServe,https://github.com/owncast/owncast/pull/345,2020-11-12T11:13:32Z,2020-11-12T20:42:19Z,1,1,MERGED
+owncast,Support admin directory paths with index.html,https://github.com/owncast/owncast/pull/332,2020-11-09T21:58:54Z,2020-11-10T03:52:44Z,0,1,MERGED
+owncast,[316] HLS playlist and segment desync monitor.,https://github.com/owncast/owncast/pull/329,2020-11-09T05:24:32Z,2021-03-14T18:51:08Z,8,1,CLOSED
+owncast,Bundle and serve admin,https://github.com/owncast/owncast/pull/317,2020-11-03T00:35:33Z,2020-11-06T23:12:36Z,5,7,MERGED
+owncast,Gek/external actions,https://github.com/owncast/owncast/pull/827,2021-03-15T22:03:57Z,2021-03-15T22:32:53Z,0,14,MERGED
+owncast,"Added LiberaPay, LBRY and Odysee to social networks",https://github.com/owncast/owncast/pull/821,2021-03-14T17:37:52Z,2021-03-15T04:48:23Z,0,2,MERGED
+owncast,implement custom welcome message,https://github.com/owncast/owncast/pull/820,2021-03-14T04:55:14Z,2021-03-21T21:10:56Z,2,3,MERGED
+owncast,Allow selection of different stream variants in the player,https://github.com/owncast/owncast/pull/815,2021-03-11T08:43:42Z,2021-03-11T20:51:44Z,0,6,MERGED
+owncast,Support full html in system messages,https://github.com/owncast/owncast/pull/814,2021-03-11T07:27:35Z,2021-03-12T08:43:10Z,0,1,MERGED
+owncast,Added some basic keyboard controls to the owncast frontend,https://github.com/owncast/owncast/pull/804,2021-03-09T19:54:09Z,2021-04-01T21:09:03Z,11,10,MERGED
+owncast,Gek/disable remote images,https://github.com/owncast/owncast/pull/800,2021-03-09T02:55:31Z,2021-03-09T07:20:16Z,0,3,MERGED
+owncast,Add support for disabling chat.,https://github.com/owncast/owncast/pull/799,2021-03-09T02:52:21Z,2021-03-14T18:46:28Z,0,1,MERGED
+owncast,Defensively handle API values,https://github.com/owncast/owncast/pull/783,2021-03-03T02:32:09Z,2021-03-03T02:35:00Z,3,1,CLOSED
+owncast,update logo POST route,https://github.com/owncast/owncast/pull/773,2021-02-28T05:51:46Z,2021-03-21T23:07:10Z,1,1,MERGED
+owncast,Remove peak viewer counts from public status feed,https://github.com/owncast/owncast/pull/771,2021-02-26T20:36:42Z,2021-03-01T07:30:46Z,5,2,MERGED
+owncast,Return the scaled height and width of a stream output variant,https://github.com/owncast/owncast/pull/769,2021-02-26T17:40:33Z,2021-02-26T19:01:53Z,0,1,MERGED
+owncast,Fix the http port used not in sync with what is logged,https://github.com/owncast/owncast/pull/766,2021-02-26T05:50:12Z,2021-02-26T19:23:15Z,1,3,MERGED
+owncast,Banjo/owncast systemd service,https://github.com/owncast/owncast/pull/749,2021-02-21T18:07:06Z,2021-02-21T19:04:20Z,2,8,MERGED
+owncast,"<script type=""module"" ...> tags to reduce round trips under HTTP/2",https://github.com/owncast/owncast/pull/745,2021-02-19T17:01:04Z,2021-02-22T02:09:04Z,3,1,MERGED
+owncast,0.0.6 -> Master,https://github.com/owncast/owncast/pull/731,2021-02-16T06:23:55Z,2021-02-19T07:05:52Z,0,183,MERGED
+owncast,Fix codeblocks in chat,https://github.com/owncast/owncast/pull/676,2021-01-31T22:29:54Z,2021-01-31T22:57:51Z,1,2,MERGED
+owncast,Add ability to pause and play the stream by pressing the spacebar,https://github.com/owncast/owncast/pull/658,2021-01-23T13:38:16Z,2021-01-27T07:03:26Z,4,5,MERGED
+owncast,"Websocket client errors as Warns, broken pipe errors as Trace",https://github.com/owncast/owncast/pull/656,2021-01-22T18:41:39Z,2021-01-22T21:50:24Z,1,2,MERGED
+owncast,Log hardware utilization messages as warnings instead of errors,https://github.com/owncast/owncast/pull/651,2021-01-21T21:58:40Z,2021-01-21T22:14:53Z,1,1,MERGED
+owncast,Only trigger responsive behavior if zoom does not happen on touch screen devices,https://github.com/owncast/owncast/pull/650,2021-01-21T20:52:14Z,2021-01-24T00:02:30Z,2,1,MERGED
+owncast,Add support for running frontend on URL paths other than root,https://github.com/owncast/owncast/pull/631,2021-01-14T19:25:22Z,2021-06-22T06:57:58Z,8,3,CLOSED
+owncast,Add user joined chat event,https://github.com/owncast/owncast/pull/628,2021-01-14T03:42:51Z,2021-01-19T02:09:39Z,1,17,CLOSED
+owncast,Use a dynamic system port for internal HLS writes. Closes #577,https://github.com/owncast/owncast/pull/626,2021-01-13T21:50:48Z,2021-01-13T23:09:24Z,0,2,MERGED
+owncast,emoji picker updates #612,https://github.com/owncast/owncast/pull/614,2021-01-10T00:22:26Z,2021-01-10T02:26:56Z,2,1,MERGED
+owncast,example with TLS wrapper (RTMPS) and traefik,https://github.com/owncast/owncast/pull/608,2021-01-08T12:12:59Z,2021-01-24T21:49:53Z,3,3,MERGED
+owncast,Add documentation section for how to build in admin,https://github.com/owncast/owncast/pull/604,2021-01-08T01:43:56Z,2021-01-08T01:45:40Z,0,2,MERGED
+owncast,align the chat-views position to the bottom of the page to overcome view-height bugs,https://github.com/owncast/owncast/pull/593,2021-01-06T14:23:39Z,2021-01-10T02:17:11Z,10,2,MERGED
+owncast,Pass at migrating webhooks to datastore + management apis,https://github.com/owncast/owncast/pull/589,2021-01-05T09:45:05Z,2021-01-06T22:10:13Z,3,4,MERGED
+owncast,Access tokens + Send system message external API,https://github.com/owncast/owncast/pull/585,2021-01-05T03:10:21Z,2021-01-07T06:21:07Z,5,18,MERGED
+owncast,Make websocket and stream use constants,https://github.com/owncast/owncast/pull/584,2021-01-04T21:40:25Z,2021-01-05T06:30:18Z,0,1,MERGED
+owncast,optimize docker build and image size,https://github.com/owncast/owncast/pull/583,2021-01-04T11:06:58Z,2021-06-15T06:47:48Z,6,1,CLOSED
+owncast,Implement webhook events for external integrations,https://github.com/owncast/owncast/pull/574,2021-01-02T23:13:36Z,2021-01-06T22:13:42Z,6,5,MERGED
+owncast,Manually bust m3u8 caches,https://github.com/owncast/owncast/pull/570,2021-01-02T16:28:29Z,2021-01-02T19:30:30Z,4,1,MERGED
+owncast,Fix rtmp secret validation to allow `/` (#1069),https://github.com/owncast/owncast/pull/1070,2021-05-31T19:54:50Z,2021-06-05T03:09:44Z,5,3,MERGED
+owncast,added emoji focus check to prevent triggering shortcuts,https://github.com/owncast/owncast/pull/1056,2021-05-26T22:31:59Z,2021-05-28T04:39:20Z,1,1,MERGED
+owncast,Separate logo and offline stream image,https://github.com/owncast/owncast/pull/1054,2021-05-25T23:25:14Z,2021-05-26T06:40:57Z,4,2,CLOSED
+owncast,fix: avoid duplicate cache-control header,https://github.com/owncast/owncast/pull/1048,2021-05-23T20:01:23Z,2021-05-23T20:35:06Z,1,1,MERGED
+owncast,Remove config file migrator,https://github.com/owncast/owncast/pull/1045,2021-05-23T10:28:51Z,2021-05-23T20:36:34Z,1,3,MERGED
+owncast,GitHub GO Lint Action: fix git reference,https://github.com/owncast/owncast/pull/1042,2021-05-22T02:33:20Z,2021-05-22T17:36:22Z,1,1,MERGED
+owncast,Add -transcoderlog flag,https://github.com/owncast/owncast/pull/1039,2021-05-22T00:13:24Z,2021-05-22T23:29:49Z,3,1,MERGED
+owncast,Fix #1001 set RTMP port from cli,https://github.com/owncast/owncast/pull/1038,2021-05-22T00:07:59Z,2021-05-22T01:11:15Z,1,1,MERGED
+owncast,Fix #981 Use -webserverip to set http listen address,https://github.com/owncast/owncast/pull/1032,2021-05-21T00:35:52Z,2021-05-24T23:13:50Z,6,7,MERGED
+owncast,Put play button behind the header bar when scrolling,https://github.com/owncast/owncast/pull/1012,2021-05-12T21:37:00Z,2021-05-13T19:02:57Z,1,1,MERGED
+owncast,Use multi-stage-builds for Docker,https://github.com/owncast/owncast/pull/1003,2021-05-10T18:53:21Z,2021-05-22T01:18:42Z,1,1,MERGED
+owncast,Replace using websocket for viewer count with a simple ping,https://github.com/owncast/owncast/pull/990,2021-05-06T05:40:32Z,2021-05-21T03:29:02Z,0,1,MERGED
+owncast,If no logo exists copy a default one into data on launch. ,https://github.com/owncast/owncast/pull/916,2021-04-11T03:07:34Z,2021-04-11T23:44:51Z,0,1,MERGED
+owncast,Closes #910: make transparency of message bubbles overridable via CSS,https://github.com/owncast/owncast/pull/911,2021-04-10T15:56:07Z,2021-04-11T21:08:06Z,2,2,MERGED
+owncast,Codec selection,https://github.com/owncast/owncast/pull/892,2021-04-05T02:03:22Z,2021-04-15T20:55:51Z,0,43,MERGED
+owncast,check the return value of os.Rename,https://github.com/owncast/owncast/pull/1288,2021-07-31T21:07:11Z,2021-07-31T21:59:02Z,0,1,MERGED
+owncast,"Sort after build variants index number, fix broken index for HLS path. ",https://github.com/owncast/owncast/pull/1282,2021-07-28T22:20:40Z,2021-08-04T18:34:02Z,14,9,MERGED
+owncast,safely generate the thumbnail.jpg & preview.gif,https://github.com/owncast/owncast/pull/1279,2021-07-28T20:14:11Z,2021-07-28T21:21:02Z,3,1,MERGED
+owncast,Fix autocomplete bug on username change,https://github.com/owncast/owncast/pull/1276,2021-07-27T22:23:47Z,2021-07-27T23:55:19Z,0,1,MERGED
+owncast,Add standalone chat with ability to send messages,https://github.com/owncast/owncast/pull/1270,2021-07-27T11:14:12Z,2021-07-31T23:21:30Z,14,18,MERGED
+owncast,Reject user messages when stream is offline,https://github.com/owncast/owncast/pull/1269,2021-07-27T09:39:10Z,2021-07-27T17:42:06Z,1,1,MERGED
+owncast,better chat message sanitization,https://github.com/owncast/owncast/pull/1266,2021-07-26T17:13:38Z,2021-07-27T22:26:28Z,3,4,MERGED
+owncast,Prevent sending empty messages,https://github.com/owncast/owncast/pull/1264,2021-07-26T09:21:01Z,2021-07-26T16:21:49Z,2,1,MERGED
+owncast,"Don't specify the linter version, as it's not required any longer",https://github.com/owncast/owncast/pull/1262,2021-07-25T00:52:39Z,2021-07-25T06:19:47Z,0,1,MERGED
+owncast,Improve performance of retrieving chat history by avoiding double-sort,https://github.com/owncast/owncast/pull/1261,2021-07-25T00:47:26Z,2021-07-25T16:54:25Z,1,1,MERGED
+owncast,Remove user's own name from the autocomplete suggestions,https://github.com/owncast/owncast/pull/1258,2021-07-24T22:55:18Z,2021-07-26T05:26:27Z,1,2,MERGED
+owncast,Insert emoji in the caret position,https://github.com/owncast/owncast/pull/1253,2021-07-24T11:00:57Z,2021-07-24T17:25:40Z,1,1,MERGED
+owncast,Autocomplete emoji names,https://github.com/owncast/owncast/pull/1250,2021-07-23T20:30:10Z,2021-07-23T21:15:25Z,1,5,MERGED
+owncast,Fix autocomplete in case there are html elements in the chat,https://github.com/owncast/owncast/pull/1246,2021-07-23T16:42:49Z,2021-07-23T18:20:59Z,1,1,MERGED
+owncast,Prevent remote image injection with /img/emoji/ in url,https://github.com/owncast/owncast/pull/1245,2021-07-23T09:37:19Z,2021-07-23T18:00:05Z,1,2,MERGED
+owncast,Add test for emoji title and alt tag sanitization,https://github.com/owncast/owncast/pull/1244,2021-07-23T09:30:28Z,2021-07-23T18:01:30Z,0,1,MERGED
+owncast,Allow alt and title tags in chat emojis,https://github.com/owncast/owncast/pull/1241,2021-07-22T20:42:53Z,2021-07-23T05:22:33Z,1,2,MERGED
+owncast,Fix exception being thrown while typing in chat,https://github.com/owncast/owncast/pull/1238,2021-07-22T05:30:26Z,2021-07-22T06:19:45Z,2,1,CLOSED
+owncast,In name change notification missing space added,https://github.com/owncast/owncast/pull/1232,2021-07-21T05:29:41Z,2021-07-21T06:27:21Z,3,2,CLOSED
+owncast,Override default protocol if one is set in settings,https://github.com/owncast/owncast/pull/1226,2021-07-20T07:16:10Z,2021-07-20T17:34:59Z,2,2,MERGED
+owncast,use maxSocketPayloadSize to calculate total bytes of message payload,https://github.com/owncast/owncast/pull/1221,2021-07-19T04:09:28Z,2021-07-20T02:14:02Z,1,3,MERGED
+owncast,Support text input of :emoji: in chat,https://github.com/owncast/owncast/pull/1190,2021-07-15T21:43:23Z,2021-07-19T22:52:31Z,20,17,MERGED
+owncast,link assets under the same protocol for bots,https://github.com/owncast/owncast/pull/1187,2021-07-14T13:50:59Z,2021-07-18T03:28:20Z,5,2,MERGED
+owncast,"fix meta description, og:description & twitter:description blank tags",https://github.com/owncast/owncast/pull/1185,2021-07-13T21:05:05Z,2021-07-13T21:44:04Z,1,1,MERGED
+owncast,Fix emoji button on page load,https://github.com/owncast/owncast/pull/1182,2021-07-12T16:36:16Z,2021-07-12T17:24:41Z,0,1,MERGED
+owncast,improve emoji cache timestamping,https://github.com/owncast/owncast/pull/1180,2021-07-12T07:59:12Z,2021-07-12T10:49:06Z,1,1,CLOSED
+owncast,Cache the custom emoji list,https://github.com/owncast/owncast/pull/1175,2021-07-10T16:05:04Z,2021-07-11T22:34:57Z,2,4,MERGED
+owncast,Do not return true from DoesFileExists() on misc. errors,https://github.com/owncast/owncast/pull/1173,2021-07-09T21:32:23Z,2021-07-10T01:31:43Z,1,1,MERGED
+owncast,style fix for error checking,https://github.com/owncast/owncast/pull/1170,2021-07-09T15:31:59Z,2021-07-09T18:16:44Z,1,1,MERGED
+owncast,proper cleanup and permission check for the hls directory,https://github.com/owncast/owncast/pull/1167,2021-07-07T18:08:11Z,2021-07-08T19:35:54Z,3,5,MERGED
+owncast,remove the unnecessary websocket connection from the embed player,https://github.com/owncast/owncast/pull/1165,2021-07-06T05:51:27Z,2021-07-07T00:46:52Z,1,1,MERGED
+owncast,Chat refactor + persistent backing chat users,https://github.com/owncast/owncast/pull/1163,2021-07-05T22:42:13Z,2021-07-20T02:22:29Z,25,112,MERGED
+owncast,fix video variant sorting,https://github.com/owncast/owncast/pull/1150,2021-07-01T22:06:39Z,2021-07-02T01:17:50Z,1,1,MERGED
+owncast,🐛 use currentBroadcast for playlist overwrites,https://github.com/owncast/owncast/pull/1149,2021-07-01T21:20:35Z,2021-07-02T01:27:56Z,1,1,MERGED
+owncast,refactor: use io.Pipe and ffmpeg's stdin,https://github.com/owncast/owncast/pull/1148,2021-07-01T20:58:12Z,2021-07-03T19:28:26Z,1,1,MERGED
+owncast,add a send button on chat for touch screen devices,https://github.com/owncast/owncast/pull/1127,2021-06-20T19:49:38Z,2021-06-21T00:15:52Z,0,2,MERGED
+owncast,display last online time,https://github.com/owncast/owncast/pull/1125,2021-06-20T05:47:50Z,2021-06-20T17:49:17Z,1,2,MERGED
+owncast,Remove empty action buttons container with extra space,https://github.com/owncast/owncast/pull/1124,2021-06-19T07:29:47Z,2021-06-20T01:12:29Z,1,1,MERGED
+owncast,Consolidate Dockerfile into root and consolidate version into config,https://github.com/owncast/owncast/pull/1118,2021-06-18T02:08:00Z,2021-06-18T02:27:18Z,1,2,MERGED
+owncast,Fix + update external modal ,https://github.com/owncast/owncast/pull/1106,2021-06-15T22:16:44Z,2021-06-21T00:23:39Z,0,4,MERGED
+owncast,updates to backups directory,https://github.com/owncast/owncast/pull/1099,2021-06-12T00:04:09Z,2021-06-13T22:29:00Z,5,11,MERGED
+owncast,Hide viewer count when offline,https://github.com/owncast/owncast/pull/1091,2021-06-10T07:40:18Z,2021-06-10T17:59:51Z,2,2,MERGED
+owncast,inject custom style into app-video-only.js,https://github.com/owncast/owncast/pull/1083,2021-06-07T20:04:12Z,2021-06-07T20:53:25Z,1,1,MERGED
+owncast,Remove YouTube embedding in the chat,https://github.com/owncast/owncast/pull/1080,2021-06-06T08:33:03Z,2021-06-07T17:57:14Z,6,3,MERGED
+owncast,Fix build for Windows (#1377),https://github.com/owncast/owncast/pull/1506,2021-10-31T19:21:01Z,2021-10-31T21:01:22Z,3,2,MERGED
+owncast,:zap: execute webhooks in parallel (and :bug: update webhooks.last_used correctly),https://github.com/owncast/owncast/pull/1505,2021-10-30T22:42:28Z,2021-11-02T02:13:20Z,1,2,MERGED
+owncast,:sparkles: add Steam to social platforms,https://github.com/owncast/owncast/pull/1503,2021-10-30T20:59:28Z,2021-10-30T21:47:00Z,1,1,MERGED
+owncast,Optimise regexp usage,https://github.com/owncast/owncast/pull/1502,2021-10-29T14:58:36Z,2021-10-29T19:29:01Z,3,3,MERGED
+owncast,Cleanup old streaming content when using S3,https://github.com/owncast/owncast/pull/1500,2021-10-29T00:58:39Z,2022-01-07T02:04:52Z,8,3,CLOSED
+owncast,Support path-based S3 storage. Closes #1495,https://github.com/owncast/owncast/pull/1496,2021-10-26T21:00:37Z,2021-10-29T00:27:45Z,7,3,MERGED
+owncast,Fix crash that occurs with an invalid inbound stream,https://github.com/owncast/owncast/pull/1483,2021-10-20T17:52:28Z,2021-10-22T00:21:17Z,0,1,MERGED
+owncast,strip any leading hash symbols from admin tag input using strings.TrimLeft,https://github.com/owncast/owncast/pull/1481,2021-10-19T14:04:37Z,2021-10-19T14:28:56Z,1,1,MERGED
+owncast,Fix hashes for standalone video/chat,https://github.com/owncast/owncast/pull/1472,2021-10-13T10:47:29Z,2021-10-25T00:12:56Z,10,2,MERGED
+owncast,Fix FAQ link,https://github.com/owncast/owncast/pull/1471,2021-10-13T09:22:36Z,2021-10-13T11:22:58Z,1,1,MERGED
+owncast,Embed static resources,https://github.com/owncast/owncast/pull/1466,2021-10-11T06:15:15Z,2021-10-11T22:04:17Z,0,14,MERGED
+owncast,Replace pkger with go:embed for bundling the admin. Closes #844,https://github.com/owncast/owncast/pull/1464,2021-10-10T08:40:22Z,2021-10-11T21:56:00Z,0,8,MERGED
+owncast,Fix Dockerfile to be read in Plesk,https://github.com/owncast/owncast/pull/1463,2021-10-10T00:59:47Z,2021-10-12T18:31:58Z,1,1,MERGED
+owncast,HLS tests for local and S3 storage.,https://github.com/owncast/owncast/pull/1460,2021-10-07T03:57:09Z,2021-10-07T04:03:48Z,0,1,MERGED
+owncast,Fix the S3 destination path.,https://github.com/owncast/owncast/pull/1456,2021-10-05T23:01:22Z,2021-10-05T23:45:40Z,0,1,MERGED
+owncast,Replaces redirect of /embed URLs to return content directly.,https://github.com/owncast/owncast/pull/1453,2021-10-05T04:33:44Z,2021-10-05T20:29:18Z,1,1,MERGED
+owncast,:rocket: fix: split EXPOSE into multiple statements,https://github.com/owncast/owncast/pull/1448,2021-10-03T12:59:23Z,2021-10-10T12:57:05Z,1,1,CLOSED
+owncast,WIP: Ginger/fediverse follow  with tabs,https://github.com/owncast/owncast/pull/1431,2021-09-25T22:42:18Z,2021-09-25T23:00:42Z,0,7,MERGED
+owncast,WIP: fediverse follow + UI rearrangements,https://github.com/owncast/owncast/pull/1418,2021-09-21T22:14:01Z,2021-12-30T04:34:15Z,2,101,CLOSED
+owncast,Do not send user joined messages for already active users,https://github.com/owncast/owncast/pull/1416,2021-09-17T23:05:04Z,2021-09-21T21:06:24Z,1,2,MERGED
+owncast,Automated browser testing,https://github.com/owncast/owncast/pull/1415,2021-09-17T18:32:51Z,2021-09-17T21:04:10Z,2,2,MERGED
+owncast,Test PR - Please ignore.,https://github.com/owncast/owncast/pull/1414,2021-09-17T09:25:52Z,2021-09-17T10:24:36Z,0,2,CLOSED
+owncast,Add hashes for standalone video/chat,https://github.com/owncast/owncast/pull/1413,2021-09-16T20:55:10Z,2021-09-17T09:08:19Z,1,1,MERGED
+owncast,Enable CORS in the hls handler,https://github.com/owncast/owncast/pull/1411,2021-09-16T11:08:19Z,2021-09-17T20:54:44Z,1,1,MERGED
+owncast,Adjust allowed bot list to allow for link previews in WhatsApp and Signal,https://github.com/owncast/owncast/pull/1401,2021-09-13T20:59:06Z,2021-09-14T00:14:30Z,3,1,MERGED
+owncast,Adjust error messages to conform to Go best practices,https://github.com/owncast/owncast/pull/1400,2021-09-13T19:55:19Z,2021-09-13T21:08:10Z,2,1,MERGED
+owncast,WIP: Fediverse interaction prototype for #1293,https://github.com/owncast/owncast/pull/1397,2021-09-11T13:46:16Z,2021-11-09T23:33:38Z,2,2,CLOSED
+owncast,Expanded linting + fix warnings,https://github.com/owncast/owncast/pull/1396,2021-09-11T02:25:52Z,2021-09-12T07:18:15Z,0,12,MERGED
+owncast,Create CONTRIBUTING.md,https://github.com/owncast/owncast/pull/1394,2021-09-10T19:15:00Z,2021-09-10T19:36:42Z,1,1,MERGED
+owncast,Simplify HLS storage paths,https://github.com/owncast/owncast/pull/1393,2021-09-10T06:54:32Z,2021-09-12T18:32:42Z,2,2,MERGED
+owncast,Update troubleshooting link given on transcode error,https://github.com/owncast/owncast/pull/1382,2021-09-06T00:29:24Z,2021-09-06T00:29:48Z,1,2,CLOSED
+owncast,fix moved transcoding error links,https://github.com/owncast/owncast/pull/1381,2021-09-06T00:29:23Z,2021-09-06T01:07:03Z,1,1,MERGED
+owncast,Fix Windows tests,https://github.com/owncast/owncast/pull/1376,2021-09-04T15:43:06Z,2021-09-05T04:17:15Z,3,2,MERGED
+owncast,Check for the secret key before nightly builds,https://github.com/owncast/owncast/pull/1375,2021-09-03T10:39:06Z,2021-09-03T18:49:11Z,0,1,MERGED
+owncast,Improve no-JS landing page,https://github.com/owncast/owncast/pull/1367,2021-08-31T21:12:07Z,2021-08-31T21:53:21Z,1,4,MERGED
+owncast,Add support for loading the owncast URL in mpv,https://github.com/owncast/owncast/pull/1356,2021-08-29T13:51:54Z,2021-08-31T21:49:04Z,1,2,MERGED
+owncast,do not exit after successful stream key change,https://github.com/owncast/owncast/pull/1355,2021-08-28T17:11:31Z,2021-08-28T17:39:43Z,1,1,MERGED
+owncast,Feature/oc 1316 add support for system message to single user,https://github.com/owncast/owncast/pull/1351,2021-08-26T19:13:29Z,2021-09-13T08:26:29Z,6,24,MERGED
+owncast,change admin 404 error log level to debug,https://github.com/owncast/owncast/pull/1342,2021-08-21T23:16:25Z,2021-08-22T01:16:28Z,0,1,MERGED
+owncast,Reverse the behaviour of chat/disable api,https://github.com/owncast/owncast/pull/1340,2021-08-19T17:54:17Z,2021-08-23T21:01:36Z,3,2,CLOSED
+owncast,set max 10 retries for videojs playlist,https://github.com/owncast/owncast/pull/1336,2021-08-18T20:27:02Z,2021-08-18T22:19:45Z,1,1,MERGED
+owncast,Inline chat moderation UI,https://github.com/owncast/owncast/pull/1331,2021-08-17T01:29:58Z,2021-11-03T02:27:42Z,5,15,MERGED
+owncast,Move emoji directory definition to config,https://github.com/owncast/owncast/pull/1317,2021-08-14T10:52:57Z,2021-08-14T19:48:05Z,0,2,MERGED
+owncast,keep the chat enabled on timer,https://github.com/owncast/owncast/pull/1313,2021-08-13T14:52:22Z,2021-08-16T01:22:13Z,3,5,MERGED
+owncast,Pass along disconnect time to determine chat disable timer duration,https://github.com/owncast/owncast/pull/1310,2021-08-13T06:10:24Z,2021-08-13T06:24:43Z,0,1,MERGED
+owncast,Fix server ignoring chat messages immediately on disconnect,https://github.com/owncast/owncast/pull/1309,2021-08-13T06:04:40Z,2021-08-13T06:04:58Z,0,2,MERGED
+owncast,Fix missing geoip data,https://github.com/owncast/owncast/pull/1308,2021-08-12T23:54:44Z,2021-08-13T06:52:36Z,0,2,MERGED
+owncast,Fixed bug with not correctly split IP address.,https://github.com/owncast/owncast/pull/1295,2021-08-04T21:33:53Z,2021-08-07T19:37:05Z,6,13,CLOSED
+owncast,Fix status code for options requests,https://github.com/owncast/owncast/pull/1290,2021-08-03T08:19:59Z,2021-08-03T19:23:20Z,1,1,MERGED
+owncast,Derive chat display-name from upstream HTTP user header,https://github.com/owncast/owncast/pull/1633,2021-12-30T22:52:04Z,2021-12-31T05:33:45Z,3,1,MERGED
+owncast,Social features / ActivityPub federation,https://github.com/owncast/owncast/pull/1629,2021-12-30T03:28:36Z,2022-01-12T21:53:11Z,0,203,MERGED
+owncast,feat: add matrix user agents to bot list (#1581),https://github.com/owncast/owncast/pull/1588,2021-12-13T07:43:17Z,2021-12-13T18:33:55Z,1,1,MERGED
+owncast,refactor: move from io/ioutil to io and os packages,https://github.com/owncast/owncast/pull/1546,2021-11-19T06:58:21Z,2021-11-20T06:42:50Z,3,1,MERGED
+owncast,Specify required Go version to compile from source,https://github.com/owncast/owncast/pull/1539,2021-11-17T03:02:14Z,2021-11-17T03:30:05Z,1,1,MERGED
+owncast,use worker pool to limit webhooks to 10 concurrent http executions (#1510),https://github.com/owncast/owncast/pull/1525,2021-11-12T14:55:37Z,2021-11-14T18:02:53Z,5,2,MERGED
+owncast,Auto updater APIs,https://github.com/owncast/owncast/pull/1523,2021-11-12T02:28:37Z,2021-11-30T21:15:19Z,4,5,MERGED
+owncast,Rework how hiding messages works.,https://github.com/owncast/owncast/pull/1509,2021-11-02T00:22:32Z,2021-11-03T01:00:16Z,0,3,MERGED
+owncast,Allow player to reduce latency,https://github.com/owncast/owncast/pull/1786,2022-03-17T01:29:38Z,2022-03-17T01:41:59Z,0,1,MERGED
+owncast,Stream performance metrics,https://github.com/owncast/owncast/pull/1785,2022-03-15T23:49:39Z,2022-03-17T00:34:44Z,1,6,MERGED
+owncast,Add ability to keep the whole stream,https://github.com/owncast/owncast/pull/1784,2022-03-15T09:15:08Z,2022-03-15T16:29:42Z,3,3,CLOSED
+owncast,Fix exception when using emoji input in chrome,https://github.com/owncast/owncast/pull/1782,2022-03-12T01:14:31Z,2022-03-13T22:36:54Z,1,1,MERGED
+owncast,Prevent CSS class injection and directory traversal via custom emojis,https://github.com/owncast/owncast/pull/1772,2022-03-08T19:28:03Z,2022-03-08T21:03:38Z,1,1,MERGED
+owncast,Add videotoolbox codec,https://github.com/owncast/owncast/pull/1771,2022-03-08T11:06:47Z,2022-03-15T07:55:06Z,14,6,MERGED
+owncast,"Fix ""invalid cross-device link"" error when running on a different filesystem",https://github.com/owncast/owncast/pull/1769,2022-03-07T12:25:10Z,2022-03-08T00:30:41Z,7,4,MERGED
+owncast,Implement RTMP TLS,https://github.com/owncast/owncast/pull/1767,2022-03-07T10:28:54Z,2022-07-12T00:04:02Z,5,1,CLOSED
+owncast,Auto-select old username text when changing name.,https://github.com/owncast/owncast/pull/1754,2022-02-28T21:23:39Z,2022-03-06T06:20:23Z,2,1,MERGED
+owncast,Persist time series viewer metrics,https://github.com/owncast/owncast/pull/1752,2022-02-27T21:28:43Z,2022-03-07T03:43:58Z,0,2,MERGED
+owncast,Add support for socket activation,https://github.com/owncast/owncast/pull/1751,2022-02-27T19:29:36Z,2022-07-12T00:03:29Z,1,1,CLOSED
+owncast,Changes to transcoder logging to support log rotation,https://github.com/owncast/owncast/pull/1748,2022-02-27T00:20:42Z,2022-07-25T04:11:25Z,1,2,CLOSED
+owncast,Add active viewer details API,https://github.com/owncast/owncast/pull/1747,2022-02-26T22:20:31Z,2022-03-07T01:31:48Z,0,1,MERGED
+owncast,Add Prometheus for some Owncast metrics,https://github.com/owncast/owncast/pull/1744,2022-02-23T07:21:02Z,2022-03-07T01:26:52Z,0,2,MERGED
+owncast,Add support to disable chat join messages.,https://github.com/owncast/owncast/pull/1743,2022-02-23T03:05:17Z,2022-03-06T06:34:06Z,0,1,MERGED
+owncast,:adhesive_bandage: Chat fed. event: acc name shld truncate (#1730),https://github.com/owncast/owncast/pull/1732,2022-02-12T09:48:44Z,2022-02-13T18:41:01Z,1,1,MERGED
+owncast,Handle pagination for the federated actions & followers responses,https://github.com/owncast/owncast/pull/1731,2022-02-11T21:39:39Z,2022-03-07T01:18:51Z,0,2,MERGED
+owncast,Add an icon for bot messages.,https://github.com/owncast/owncast/pull/1729,2022-02-10T23:12:37Z,2022-03-07T04:09:55Z,0,1,MERGED
+owncast,Add support for IP-based bans,https://github.com/owncast/owncast/pull/1703,2022-01-26T00:58:21Z,2022-03-07T04:34:49Z,0,2,MERGED
+owncast,Sanitize display names. ,https://github.com/owncast/owncast/pull/1683,2022-01-19T08:01:05Z,2022-01-19T13:28:22Z,4,2,CLOSED
+owncast,Add support for and use socket host override.,https://github.com/owncast/owncast/pull/1682,2022-01-19T07:22:25Z,2022-03-07T01:11:51Z,0,2,MERGED
+owncast,Add support for established chat user mode. #1587,https://github.com/owncast/owncast/pull/1681,2022-01-19T03:32:57Z,2022-03-07T07:26:25Z,4,5,MERGED
+owncast,Fixed multiple short variable declaration for 'err' var.,https://github.com/owncast/owncast/pull/1678,2022-01-18T09:20:51Z,2022-07-12T01:33:31Z,2,1,CLOSED
+owncast,Outbound live stream notifications,https://github.com/owncast/owncast/pull/1663,2022-01-13T02:03:24Z,2022-03-18T20:33:24Z,5,21,MERGED
+owncast,(ignore) Outbound live stream notifications,https://github.com/owncast/owncast/pull/1660,2022-01-12T19:01:53Z,2022-01-13T02:03:42Z,0,202,CLOSED
+owncast,feat: add custom username suggestions pool,https://github.com/owncast/owncast/pull/1644,2022-01-04T21:43:40Z,2022-01-12T18:18:08Z,3,2,MERGED
+owncast,Check multiple Accept headers for content-type,https://github.com/owncast/owncast/pull/1935,2022-05-27T15:16:20Z,2022-05-27T17:19:14Z,2,1,MERGED
+owncast,manifest - Add fullscreen mode/change name,https://github.com/owncast/owncast/pull/1934,2022-05-27T09:04:57Z,2022-05-27T17:23:05Z,1,1,MERGED
+owncast,Remove doubled paragraphs around stream title in AP outbox,https://github.com/owncast/owncast/pull/1927,2022-05-25T20:30:06Z,2022-05-25T20:51:36Z,1,1,MERGED
+owncast,Fix services in nodeinfo,https://github.com/owncast/owncast/pull/1924,2022-05-24T09:14:06Z,2022-05-24T16:57:39Z,0,1,MERGED
+owncast,Add “services” and “metadata” to NodeInfo/2.0,https://github.com/owncast/owncast/pull/1922,2022-05-23T09:12:52Z,2022-05-24T02:35:29Z,4,2,MERGED
+owncast,simpler explanation for registering username,https://github.com/owncast/owncast/pull/1910,2022-05-16T20:29:59Z,2022-05-23T07:40:29Z,11,1,CLOSED
+owncast,Clarify the message for registered usernames,https://github.com/owncast/owncast/pull/1909,2022-05-16T19:56:23Z,2022-05-16T20:05:00Z,1,1,MERGED
+owncast,remove FLoC-specific header,https://github.com/owncast/owncast/pull/1908,2022-05-16T08:35:17Z,2022-05-16T18:04:01Z,0,1,MERGED
+owncast,fix the server name in nodeinfo/2.0,https://github.com/owncast/owncast/pull/1907,2022-05-14T17:57:22Z,2022-05-16T03:07:34Z,1,1,MERGED
+owncast,ForAllSecure's Mayhem for API testing,https://github.com/owncast/owncast/pull/1894,2022-05-04T21:56:32Z,2022-07-25T04:11:24Z,1,1,CLOSED
+owncast,Webv2,https://github.com/owncast/owncast/pull/1893,2022-05-03T21:17:44Z,2022-05-03T21:56:17Z,0,16,CLOSED
+owncast,restructured components folders and layout,https://github.com/owncast/owncast/pull/1886,2022-04-28T10:02:48Z,2022-04-28T16:54:33Z,0,1,MERGED
+owncast,Add terminations to error repsonses in API.,https://github.com/owncast/owncast/pull/1872,2022-04-23T19:07:58Z,2022-04-23T20:19:17Z,2,1,MERGED
+owncast,changed followers tab to 24 per page,https://github.com/owncast/owncast/pull/1855,2022-04-22T19:27:34Z,2022-04-22T20:03:06Z,2,2,MERGED
+owncast,Fediverse-based authentication,https://github.com/owncast/owncast/pull/1846,2022-04-22T01:24:04Z,2022-04-23T00:23:15Z,1,25,MERGED
+owncast,fixed chat scroll breaking on single col,https://github.com/owncast/owncast/pull/1845,2022-04-21T06:23:36Z,2022-04-21T17:08:41Z,1,1,MERGED
+owncast,Chat menu restyle,https://github.com/owncast/owncast/pull/1844,2022-04-20T14:44:14Z,2022-04-21T05:21:03Z,8,9,MERGED
+owncast,Follow popup clickable,https://github.com/owncast/owncast/pull/1839,2022-04-17T06:59:49Z,2022-04-17T18:59:05Z,5,4,MERGED
+owncast,Removed check of > 3 visits to show notifications button,https://github.com/owncast/owncast/pull/1836,2022-04-16T20:26:28Z,2022-04-17T06:37:47Z,0,2,CLOSED
+owncast,T1enne contrib,https://github.com/owncast/owncast/pull/1835,2022-04-16T20:15:57Z,2022-04-16T20:17:34Z,0,2,CLOSED
+owncast,Fixed Firefox positioning caret on the right in chat input,https://github.com/owncast/owncast/pull/1834,2022-04-16T17:49:19Z,2022-04-16T18:00:21Z,1,1,MERGED
+owncast,Eliminate client close deadlocks.,https://github.com/owncast/owncast/pull/1833,2022-04-15T23:51:58Z,2022-04-16T02:30:06Z,1,1,MERGED
+owncast,Change CMD to ENTRYPOINT in Dockerfile,https://github.com/owncast/owncast/pull/1831,2022-04-15T20:11:58Z,2022-04-15T20:56:13Z,1,1,MERGED
+owncast,Fixes for IndieAuth client,https://github.com/owncast/owncast/pull/1812,2022-04-02T17:16:22Z,2022-04-10T21:27:29Z,2,18,CLOSED
+owncast,IndieAuth support,https://github.com/owncast/owncast/pull/1811,2022-04-01T21:44:47Z,2022-04-21T21:55:27Z,15,35,MERGED
+owncast,Hufman/earthly builds,https://github.com/owncast/owncast/pull/1962,2022-06-19T01:28:40Z,2022-06-19T01:42:26Z,1,4,MERGED
+owncast,[bugfix] Fix http signatures trying to derive actor,https://github.com/owncast/owncast/pull/1956,2022-06-16T14:30:15Z,2022-06-18T22:29:11Z,4,7,MERGED
+owncast,Link the Docker Pull badge to Dockerhub,https://github.com/owncast/owncast/pull/1948,2022-06-14T22:35:00Z,2022-06-14T22:36:37Z,1,1,MERGED
+owncast,Use a custom http client when connecting to aws,https://github.com/owncast/owncast/pull/1945,2022-06-11T23:14:50Z,2022-06-12T01:21:11Z,3,1,MERGED
+owncast,Change .editorconfig to reflect current state of the code,https://github.com/owncast/owncast/pull/1944,2022-06-11T23:12:19Z,2022-06-12T01:04:51Z,1,1,MERGED
+owncast,"On narrow screens, bump the footer links to a second row. Re #2260.",https://github.com/owncast/owncast/pull/2267,2022-10-26T21:39:24Z,2022-10-26T22:23:50Z,2,2,MERGED
+owncast,Add missing federation action images to webv2,https://github.com/owncast/owncast/pull/2266,2022-10-26T21:23:41Z,2022-10-26T22:22:14Z,1,2,MERGED
+owncast,Fix display of auth modal. Re #2262.,https://github.com/owncast/owncast/pull/2265,2022-10-26T20:00:05Z,2022-10-26T21:35:47Z,2,1,MERGED
+owncast,Using prepared statements for SQL queries.,https://github.com/owncast/owncast/pull/2257,2022-10-24T05:06:35Z,2022-10-28T19:32:43Z,2,3,MERGED
+owncast,Remove follower on delete,https://github.com/owncast/owncast/pull/2256,2022-10-24T02:30:22Z,2023-02-02T02:36:26Z,7,7,CLOSED
+owncast,opengraph image assigned,https://github.com/owncast/owncast/pull/2242,2022-10-21T08:57:19Z,2022-10-21T16:55:18Z,1,1,CLOSED
+owncast,updated README with minimum go version required to compile,https://github.com/owncast/owncast/pull/2239,2022-10-21T03:53:11Z,2022-10-21T03:56:14Z,0,1,MERGED
+owncast,Fix height of Modal content.,https://github.com/owncast/owncast/pull/2229,2022-10-19T19:40:03Z,2022-10-19T22:44:24Z,2,1,MERGED
+owncast,fix purple background color for notification reminder pop up & fix failing build,https://github.com/owncast/owncast/pull/2224,2022-10-18T04:46:17Z,2022-10-18T04:54:26Z,1,5,MERGED
+owncast,Web UI frontend automated browser tests,https://github.com/owncast/owncast/pull/2223,2022-10-18T01:04:37Z,2022-11-05T03:04:13Z,2,7,MERGED
+owncast,fix ui: make navbar cover whole width of page,https://github.com/owncast/owncast/pull/2213,2022-10-15T19:18:03Z,2022-10-15T20:20:39Z,2,1,MERGED
+owncast,improv ui: make footer sit at bottom,https://github.com/owncast/owncast/pull/2212,2022-10-15T18:50:04Z,2022-10-17T06:07:22Z,2,3,MERGED
+owncast,fix followers: align the followers to the left,https://github.com/owncast/owncast/pull/2211,2022-10-15T14:29:11Z,2022-10-17T06:18:06Z,3,2,MERGED
+owncast,fix notification reminder popup -> purple background,https://github.com/owncast/owncast/pull/2209,2022-10-15T07:32:50Z,2022-10-17T05:37:04Z,5,4,MERGED
+owncast,preallocate memory,https://github.com/owncast/owncast/pull/2201,2022-10-12T17:20:20Z,2022-10-12T23:37:26Z,0,1,MERGED
+owncast,React 18,https://github.com/owncast/owncast/pull/2198,2022-10-12T00:09:45Z,2022-10-12T05:53:51Z,2,4,MERGED
+owncast,Antd updates,https://github.com/owncast/owncast/pull/2194,2022-10-10T20:47:00Z,2022-10-11T00:11:29Z,4,6,MERGED
+owncast,chat story controls,https://github.com/owncast/owncast/pull/2181,2022-10-09T17:18:33Z,2022-10-09T18:25:49Z,1,2,MERGED
+owncast,add tests for webhook events,https://github.com/owncast/owncast/pull/2180,2022-10-09T01:13:35Z,2022-10-10T05:55:55Z,2,2,MERGED
+owncast,clarified in README.md about musl compatible compiler,https://github.com/owncast/owncast/pull/2175,2022-10-06T04:10:07Z,2022-10-07T01:27:57Z,3,3,MERGED
+owncast,Add Gitpod config,https://github.com/owncast/owncast/pull/2173,2022-10-05T11:58:38Z,2022-10-05T22:35:13Z,1,1,MERGED
+owncast,Fix slider marks by changing the corresponding labels to non-empty string,https://github.com/owncast/owncast/pull/2171,2022-10-04T19:57:17Z,2022-10-04T20:19:23Z,2,1,MERGED
+owncast,Add ability to move social handles up/down,https://github.com/owncast/owncast/pull/2168,2022-10-03T22:14:56Z,2022-10-04T18:22:01Z,3,1,MERGED
+owncast,Add ffmpeg as required pre-requisite to README.md,https://github.com/owncast/owncast/pull/2166,2022-10-03T20:33:54Z,2022-10-03T21:00:46Z,1,1,MERGED
+owncast,remove extra w.WriteHeader call in fediverse auth,https://github.com/owncast/owncast/pull/2158,2022-10-02T20:26:36Z,2022-10-02T20:47:38Z,3,1,MERGED
+owncast,Change Airplay to SVG and refactor,https://github.com/owncast/owncast/pull/2156,2022-10-02T11:29:03Z,2022-10-07T01:57:49Z,12,5,MERGED
+owncast,Treat fediverse usernames as case-insensitive,https://github.com/owncast/owncast/pull/2155,2022-10-02T01:02:57Z,2022-10-02T18:16:46Z,1,3,MERGED
+owncast,Added Modal to notify user how to disable notifications,https://github.com/owncast/owncast/pull/2154,2022-10-01T22:41:23Z,2022-10-02T16:42:06Z,1,2,MERGED
+owncast,Fix various typos,https://github.com/owncast/owncast/pull/2149,2022-09-30T16:08:00Z,2022-09-30T16:42:55Z,1,2,MERGED
+owncast,IconLink atom + SocialLinks molecule,https://github.com/owncast/owncast/pull/2146,2022-09-29T22:26:34Z,2022-10-17T15:18:03Z,0,1,CLOSED
+owncast,Sanitize user submitted values before logging,https://github.com/owncast/owncast/pull/2134,2022-09-20T01:15:07Z,2022-09-21T17:03:16Z,1,2,MERGED
+owncast,chore(#2119) add new PR template for atomic design refactor PRs,https://github.com/owncast/owncast/pull/2133,2022-09-19T21:57:30Z,2022-09-21T17:04:56Z,2,1,MERGED
+owncast,Recategorize Modal as a molecule. For #2119,https://github.com/owncast/owncast/pull/2129,2022-09-17T05:58:21Z,2022-10-17T15:18:31Z,8,3,CLOSED
+owncast,refactor(#2119): update button and button row to follow atomic design,https://github.com/owncast/owncast/pull/2125,2022-09-16T15:56:34Z,2022-12-20T21:08:20Z,8,12,CLOSED
+owncast,docs: add how-to docs for creating components,https://github.com/owncast/owncast/pull/2124,2022-09-16T12:32:13Z,2022-09-16T16:19:55Z,1,2,MERGED
+owncast,reafctor: normalize component formatting,https://github.com/owncast/owncast/pull/2082,2022-09-04T02:52:39Z,2022-09-07T07:00:28Z,13,40,MERGED
+owncast,refactor(stories): co-locate stories with components,https://github.com/owncast/owncast/pull/2078,2022-09-03T01:20:22Z,2022-09-03T18:38:52Z,2,42,MERGED
+owncast,Add va-api support in docker,https://github.com/owncast/owncast/pull/2072,2022-08-30T21:49:25Z,2022-10-01T16:54:05Z,10,2,MERGED
+owncast,Draft: rough-ish draft of proposed color theme changes,https://github.com/owncast/owncast/pull/2067,2022-08-29T03:10:44Z,2022-08-30T06:17:13Z,0,10,MERGED
+owncast,Change validation in social link modal to URI over URL,https://github.com/owncast/owncast/pull/2047,2022-08-18T15:21:00Z,2022-12-20T07:49:49Z,8,2,CLOSED
+owncast,"Add Fediverse, Matrix and XMPP social links",https://github.com/owncast/owncast/pull/2044,2022-08-17T09:32:32Z,2022-08-17T16:35:45Z,1,1,MERGED
+owncast,Messages table fixes to improve query performance,https://github.com/owncast/owncast/pull/2026,2022-08-02T22:21:05Z,2022-08-03T17:21:56Z,1,7,MERGED
+owncast,Add `initiallyMuted` query parameter to embed player,https://github.com/owncast/owncast/pull/2539,2022-12-31T12:40:31Z,2023-01-01T00:08:54Z,5,3,MERGED
+owncast,Fix twitter save button 2534,https://github.com/owncast/owncast/pull/2538,2022-12-31T10:27:10Z,2022-12-31T22:44:50Z,1,1,MERGED
+owncast,cleanup automated tests for public dir,https://github.com/owncast/owncast/pull/2533,2022-12-30T18:18:45Z,2022-12-31T23:10:32Z,1,1,MERGED
+owncast,wrap promise response in set timeout to keep local state in sync,https://github.com/owncast/owncast/pull/2531,2022-12-29T15:53:29Z,2022-12-29T21:19:23Z,2,1,MERGED
+owncast,fix Notify Reminder Popup Design,https://github.com/owncast/owncast/pull/2529,2022-12-29T12:45:01Z,2022-12-29T20:04:28Z,1,1,MERGED
+owncast,improve stream testing script,https://github.com/owncast/owncast/pull/2525,2022-12-29T00:59:07Z,2023-01-04T22:12:05Z,3,29,MERGED
+owncast,Filesize limit for logoupload,https://github.com/owncast/owncast/pull/2522,2022-12-28T22:14:37Z,2022-12-28T23:41:49Z,5,5,MERGED
+owncast,add Github actions linter to Github actions,https://github.com/owncast/owncast/pull/2521,2022-12-28T15:55:05Z,2022-12-28T21:21:09Z,0,3,MERGED
+owncast,Center followers list 2515,https://github.com/owncast/owncast/pull/2520,2022-12-28T05:03:50Z,2022-12-28T06:49:42Z,5,3,MERGED
+owncast,Migrate to hashed password/key store (#2489),https://github.com/owncast/owncast/pull/2518,2022-12-27T15:53:50Z,2023-01-03T23:40:31Z,21,1,CLOSED
+owncast,set RemoveNotificationForChannel() log level to debug,https://github.com/owncast/owncast/pull/2517,2022-12-27T14:29:13Z,2022-12-27T20:10:42Z,0,1,MERGED
+owncast,updated 'Help' menu item on admin panel to point to '/admin/help'.,https://github.com/owncast/owncast/pull/2516,2022-12-27T06:59:26Z,2022-12-27T19:39:16Z,1,1,MERGED
+owncast,hide user name in user dropdown on mobile,https://github.com/owncast/owncast/pull/2512,2022-12-26T20:56:49Z,2022-12-26T22:09:53Z,3,4,MERGED
+owncast,Use bcrypt hash comparisons for streaming key (#2495),https://github.com/owncast/owncast/pull/2511,2022-12-26T20:10:45Z,2022-12-27T15:51:08Z,6,1,CLOSED
+owncast,do not triger bundle web app on documentaion update,https://github.com/owncast/owncast/pull/2510,2022-12-26T16:23:17Z,2022-12-26T19:30:16Z,0,1,MERGED
+owncast,Double scrollbars,https://github.com/owncast/owncast/pull/2509,2022-12-26T12:49:48Z,2022-12-29T18:14:12Z,17,14,MERGED
+owncast,Footer text wrap solved.,https://github.com/owncast/owncast/pull/2508,2022-12-26T11:11:31Z,2022-12-27T20:08:49Z,5,4,MERGED
+owncast,set a non-root user for containers,https://github.com/owncast/owncast/pull/2496,2022-12-24T13:47:32Z,2023-01-04T22:15:12Z,4,18,MERGED
+owncast,update social link for gabek in docs,https://github.com/owncast/owncast/pull/2483,2022-12-23T14:38:36Z,2022-12-23T17:40:10Z,0,1,MERGED
+owncast,add shellcheck to CI,https://github.com/owncast/owncast/pull/2478,2022-12-21T21:23:40Z,2022-12-26T03:17:13Z,1,12,MERGED
+owncast,fix platform logo width,https://github.com/owncast/owncast/pull/2477,2022-12-21T16:47:26Z,2022-12-23T21:49:09Z,3,1,MERGED
+owncast,Hide disabled features,https://github.com/owncast/owncast/pull/2473,2022-12-21T04:53:32Z,2022-12-30T00:26:04Z,1,5,MERGED
+owncast,Add Level-One Header,https://github.com/owncast/owncast/pull/2466,2022-12-18T04:39:22Z,2022-12-25T00:48:29Z,6,2,CLOSED
+owncast,Add level-one heading,https://github.com/owncast/owncast/pull/2465,2022-12-17T23:08:01Z,2022-12-17T23:13:47Z,0,1,CLOSED
+owncast,Replace FediAuthModal placeholder explainer text,https://github.com/owncast/owncast/pull/2464,2022-12-17T21:33:01Z,2022-12-17T22:05:11Z,1,2,MERGED
+owncast,Fedi auth modal info,https://github.com/owncast/owncast/pull/2456,2022-12-16T00:06:15Z,2022-12-17T21:00:29Z,0,2,CLOSED
+owncast,fix minimum bitrate detection for system health report,https://github.com/owncast/owncast/pull/2455,2022-12-15T21:04:16Z,2022-12-20T07:19:21Z,0,1,MERGED
+owncast,Fix/issue#2441,https://github.com/owncast/owncast/pull/2443,2022-12-13T13:56:56Z,2022-12-27T19:57:44Z,4,5,MERGED
+owncast,fix the random placement of popup,https://github.com/owncast/owncast/pull/2436,2022-12-12T14:17:38Z,2022-12-30T00:27:57Z,6,6,CLOSED
+owncast,use lib/admin.js functions in api tests,https://github.com/owncast/owncast/pull/2419,2022-12-08T18:40:40Z,2022-12-08T21:46:57Z,0,1,MERGED
+owncast,refactor chatuser api tests,https://github.com/owncast/owncast/pull/2416,2022-12-06T23:57:09Z,2022-12-08T18:07:55Z,1,8,MERGED
+owncast,fix chatuser test to handle mixed ipv4 & ipv6 bans,https://github.com/owncast/owncast/pull/2415,2022-12-06T21:48:39Z,2022-12-06T22:29:05Z,0,1,MERGED
+owncast,Fix video config admin modal layout,https://github.com/owncast/owncast/pull/2414,2022-12-06T19:50:25Z,2022-12-08T00:15:39Z,2,5,MERGED
+owncast,bump min golang to v1.18,https://github.com/owncast/owncast/pull/2412,2022-12-06T18:53:34Z,2022-12-06T22:31:08Z,0,1,MERGED
+owncast,Feature: emoji editor,https://github.com/owncast/owncast/pull/2411,2022-12-06T10:08:57Z,2022-12-12T16:40:43Z,5,8,MERGED
+owncast,Fix URL Modal scrolling and size,https://github.com/owncast/owncast/pull/2410,2022-12-06T00:26:38Z,2022-12-06T03:42:08Z,1,2,MERGED
+owncast,validate response of federation APIs,https://github.com/owncast/owncast/pull/2408,2022-12-05T20:53:02Z,2022-12-11T05:10:10Z,2,15,MERGED
+owncast,Update URL to HTTPS,https://github.com/owncast/owncast/pull/2402,2022-12-04T12:42:42Z,2022-12-04T18:05:47Z,0,1,MERGED
+owncast,fix webfinger responses according to the specs,https://github.com/owncast/owncast/pull/2397,2022-12-01T10:50:22Z,2022-12-08T00:26:06Z,0,5,MERGED
+owncast,activate save button on S3 bucket name change in admin,https://github.com/owncast/owncast/pull/2392,2022-11-29T18:37:54Z,2022-11-29T19:12:06Z,1,1,MERGED
+owncast,Edit external actions,https://github.com/owncast/owncast/pull/2391,2022-11-29T13:43:29Z,2022-11-29T22:14:11Z,1,4,MERGED
+owncast,validate Nodeinfo response by schema,https://github.com/owncast/owncast/pull/2390,2022-11-29T12:05:32Z,2022-11-29T23:49:09Z,1,14,MERGED
+owncast,Stream keys / admin password split,https://github.com/owncast/owncast/pull/2388,2022-11-29T04:26:31Z,2022-11-30T00:05:44Z,4,9,MERGED
+owncast,Validate nodeinfo response by schema,https://github.com/owncast/owncast/pull/2369,2022-11-22T15:53:20Z,2022-11-30T17:08:57Z,10,34,CLOSED
+owncast,improve chat input accessibility,https://github.com/owncast/owncast/pull/2353,2022-11-17T17:48:05Z,2022-11-17T18:32:25Z,2,1,MERGED
+owncast,Update example systemd service file to be far more secure.,https://github.com/owncast/owncast/pull/2352,2022-11-17T03:00:50Z,2022-11-17T22:55:09Z,1,1,MERGED
+owncast,Chat name & color modal,https://github.com/owncast/owncast/pull/2347,2022-11-15T09:27:26Z,2022-11-23T18:52:39Z,4,6,MERGED
+owncast,Support color customization from the admin,https://github.com/owncast/owncast/pull/2338,2022-11-13T03:30:10Z,2022-11-13T04:26:55Z,1,5,MERGED
+owncast,activitypub: ensure public messages are public,https://github.com/owncast/owncast/pull/2318,2022-11-08T16:37:52Z,2022-11-15T15:11:56Z,4,1,CLOSED
+owncast,activitypub: ensure Undo request has valid type,https://github.com/owncast/owncast/pull/2317,2022-11-07T17:27:47Z,2022-11-11T19:13:55Z,1,1,MERGED
+owncast,Spelling,https://github.com/owncast/owncast/pull/2314,2022-11-07T05:27:50Z,2023-03-18T17:56:18Z,13,21,CLOSED
+owncast,Always show the 'send chat message' button.,https://github.com/owncast/owncast/pull/2298,2022-11-03T17:23:16Z,2022-11-03T17:36:04Z,1,1,MERGED
+owncast,Larger text box font to prevent iOS Safari's auto zoom.,https://github.com/owncast/owncast/pull/2294,2022-11-02T18:47:33Z,2022-11-02T19:34:57Z,1,1,MERGED
+owncast,More renames from 'visible' to 'open'.,https://github.com/owncast/owncast/pull/2290,2022-11-01T21:41:14Z,2022-11-01T21:50:23Z,1,1,MERGED
+owncast,Sync between clients,https://github.com/owncast/owncast/pull/2289,2022-11-01T01:56:34Z,2022-11-01T16:44:22Z,3,3,CLOSED
+owncast,Update Owncast developer documentation to mention Windows #2864,https://github.com/owncast/owncast/pull/2883,2023-03-30T18:11:01Z,2023-04-04T01:17:32Z,7,13,MERGED
+owncast,improv: use actual webhook events in webhook tests,https://github.com/owncast/owncast/pull/2882,2023-03-30T14:39:33Z,2023-03-31T03:38:57Z,3,1,MERGED
+owncast,Update segment cleanup to support object storage,https://github.com/owncast/owncast/pull/2876,2023-03-27T23:02:03Z,2023-05-31T18:10:04Z,1,2,MERGED
+owncast,feat: add support to dev with nix,https://github.com/owncast/owncast/pull/2860,2023-03-22T20:11:43Z,2023-07-15T00:56:18Z,4,1,CLOSED
+owncast,Tags and social section colors don't match rest of the admin,https://github.com/owncast/owncast/pull/2845,2023-03-18T07:30:36Z,2023-03-18T18:20:28Z,3,1,MERGED
+owncast,Loose div in Utilities > Stream health screen,https://github.com/owncast/owncast/pull/2844,2023-03-18T06:29:52Z,2023-03-21T20:06:17Z,3,1,MERGED
+owncast,S3 headers,https://github.com/owncast/owncast/pull/2830,2023-03-16T10:38:14Z,2023-03-16T18:07:43Z,2,3,MERGED
+owncast,Menu state in admin not saved after page refresh,https://github.com/owncast/owncast/pull/2829,2023-03-16T07:04:58Z,2023-03-16T19:06:01Z,2,5,MERGED
+owncast,Trigger the title updated webhook event whenever a title is changed,https://github.com/owncast/owncast/pull/2823,2023-03-14T15:59:35Z,2023-03-28T18:34:01Z,19,5,MERGED
+owncast,fix: #2755 clicking more details on un-registered chat user throws ex…,https://github.com/owncast/owncast/pull/2809,2023-03-12T15:32:29Z,2023-03-13T02:40:40Z,2,1,MERGED
+owncast,fix: #2751 padding around confirmation mark,https://github.com/owncast/owncast/pull/2808,2023-03-12T15:02:58Z,2023-03-13T05:39:44Z,2,2,MERGED
+owncast,Nitpicky detail: resolution placeholders aren't 16x9,https://github.com/owncast/owncast/pull/2801,2023-03-12T04:53:30Z,2023-03-13T02:44:51Z,2,3,MERGED
+owncast,fix(issue: #2772) change text color white to black,https://github.com/owncast/owncast/pull/2796,2023-03-11T14:20:09Z,2023-03-13T07:35:04Z,2,1,MERGED
+owncast,Typo in disable viewer count toggle #2792,https://github.com/owncast/owncast/pull/2794,2023-03-11T08:21:16Z,2023-03-11T19:53:48Z,1,1,MERGED
+owncast,fix: #1904 CSS Improvements on Admin Page,https://github.com/owncast/owncast/pull/2790,2023-03-11T00:22:38Z,2023-03-11T20:16:35Z,2,2,MERGED
+owncast,fix: #2779 - strip trailing slash on s3 endpoint,https://github.com/owncast/owncast/pull/2788,2023-03-10T16:12:09Z,2023-03-10T22:05:54Z,4,1,MERGED
+owncast,feat: show a friendlier error msg in admin panel when unable to connect to Owncast Service,https://github.com/owncast/owncast/pull/2786,2023-03-09T04:59:47Z,2023-03-11T19:38:30Z,9,2,MERGED
+owncast,Corner radius slider no longer slides,https://github.com/owncast/owncast/pull/2784,2023-03-08T22:07:02Z,2023-03-08T23:00:11Z,2,3,MERGED
+owncast,fix: Prevent color selector from closing on choosing a color,https://github.com/owncast/owncast/pull/2783,2023-03-08T15:13:48Z,2023-03-08T20:13:57Z,3,3,MERGED
+owncast,UI: Make the Admin menu sidebar colors on hover consistent,https://github.com/owncast/owncast/pull/2778,2023-03-05T09:02:55Z,2023-03-06T04:46:31Z,9,3,MERGED
+owncast,commit for testing,https://github.com/owncast/owncast/pull/2777,2023-03-05T04:21:41Z,2023-03-15T02:13:28Z,2,1,CLOSED
+owncast,fixes #1946,https://github.com/owncast/owncast/pull/2776,2023-03-04T14:07:43Z,2023-03-05T23:37:30Z,2,1,MERGED
+owncast,Chat join message for users with moderator flag is misaligned,https://github.com/owncast/owncast/pull/2774,2023-03-04T07:33:50Z,2023-03-05T23:59:31Z,2,1,MERGED
+owncast,removed timers from component in favor of css transition,https://github.com/owncast/owncast/pull/2769,2023-03-03T19:47:39Z,2023-03-03T23:25:22Z,3,3,MERGED
+owncast,Admin chat users list have unreadable white color,https://github.com/owncast/owncast/pull/2765,2023-03-02T16:25:14Z,2023-03-02T16:53:38Z,2,1,MERGED
+owncast,CPU usage description needs additional spacing,https://github.com/owncast/owncast/pull/2757,2023-02-28T04:13:48Z,2023-02-28T05:02:33Z,2,1,MERGED
+owncast,Fix Owncast Avatar URL for discord webhooks,https://github.com/owncast/owncast/pull/2748,2023-02-27T13:08:57Z,2023-02-27T19:12:22Z,1,1,MERGED
+owncast,Fixed #2734,https://github.com/owncast/owncast/pull/2742,2023-02-26T13:09:55Z,2023-02-27T02:09:25Z,2,2,MERGED
+owncast,Chore: update gzipping library to use CAFxX/httpcompression,https://github.com/owncast/owncast/pull/2741,2023-02-26T10:28:33Z,2023-02-26T20:19:17Z,4,2,MERGED
+owncast,Remove usage of the PropTypes dependency,https://github.com/owncast/owncast/pull/2723,2023-02-22T08:03:35Z,2023-02-22T17:21:00Z,1,2,MERGED
+owncast,Create stories for layout testing,https://github.com/owncast/owncast/pull/2722,2023-02-21T15:33:28Z,2023-02-27T00:54:28Z,12,9,MERGED
+owncast,Draft: Change to service instance approach instead of global module state,https://github.com/owncast/owncast/pull/2714,2023-02-18T05:54:32Z,2023-03-23T22:37:13Z,3,1,CLOSED
+owncast,Draft: refactor to common golang project layout,https://github.com/owncast/owncast/pull/2712,2023-02-17T04:27:54Z,2023-03-19T23:04:05Z,5,2,CLOSED
+owncast,fix placeholder styling (fixes #2677),https://github.com/owncast/owncast/pull/2709,2023-02-14T13:32:51Z,2023-02-14T17:24:29Z,2,4,MERGED
+owncast, This commit suggests that if there is no name then the username will…,https://github.com/owncast/owncast/pull/2700,2023-02-12T15:38:00Z,2023-02-20T15:19:28Z,6,5,MERGED
+owncast,Allow embedding HTML for external actions,https://github.com/owncast/owncast/pull/2693,2023-02-08T14:53:27Z,2023-02-14T17:08:54Z,6,9,MERGED
+owncast,Add mention of Browserstack for open source program.,https://github.com/owncast/owncast/pull/2692,2023-02-08T05:48:53Z,2023-02-08T06:11:56Z,0,1,MERGED
+owncast,Random Stream Key Generator,https://github.com/owncast/owncast/pull/2690,2023-02-07T22:18:56Z,2023-02-08T01:17:04Z,3,2,MERGED
+owncast,Issue#2662: Make Followers Content Fit With overflow ending in ellipsis,https://github.com/owncast/owncast/pull/2678,2023-02-05T03:28:33Z,2023-02-05T04:45:32Z,4,4,MERGED
+owncast,Give chat a min-height that other elements yield to on mobile clients,https://github.com/owncast/owncast/pull/2676,2023-02-04T17:08:58Z,2023-02-09T02:50:58Z,8,8,MERGED
+owncast,Un-squish logo,https://github.com/owncast/owncast/pull/2674,2023-02-04T13:27:04Z,2023-02-04T18:52:52Z,3,1,MERGED
+owncast, Fix broken links,https://github.com/owncast/owncast/pull/2660,2023-02-01T09:59:48Z,2023-02-01T18:39:49Z,3,1,MERGED
+owncast,Fix/issue 2649/status bar time info,https://github.com/owncast/owncast/pull/2657,2023-01-31T20:11:43Z,2023-02-01T02:46:20Z,2,2,MERGED
+owncast,[CONTRIB] Example varnish and hitch config,https://github.com/owncast/owncast/pull/2655,2023-01-31T19:13:21Z,2023-01-31T19:19:22Z,1,1,MERGED
+owncast,Remove references to webv2 branch in docs and builds,https://github.com/owncast/owncast/pull/2638,2023-01-28T00:21:20Z,2023-01-31T00:30:45Z,3,4,CLOSED
+owncast,Add the Client-side Input Validators for Stream Keys and the Admin Password,https://github.com/owncast/owncast/pull/2619,2023-01-24T14:10:21Z,2023-03-03T05:20:54Z,36,20,MERGED
+owncast,silence skipped clean-up inside the container,https://github.com/owncast/owncast/pull/2608,2023-01-21T11:49:08Z,2023-01-22T21:56:45Z,0,1,MERGED
+owncast,Remove support for twitter notification,https://github.com/owncast/owncast/pull/2598,2023-01-17T18:12:26Z,2023-01-17T21:20:30Z,3,1,MERGED
+owncast,Add noscript for browsers without JS,https://github.com/owncast/owncast/pull/2592,2023-01-16T16:08:39Z,2023-02-01T19:04:24Z,13,4,MERGED
+owncast,Fix empty query in video embed story,https://github.com/owncast/owncast/pull/2590,2023-01-16T12:02:44Z,2023-03-18T20:15:42Z,12,1,CLOSED
+owncast,fix scroll on mobile,https://github.com/owncast/owncast/pull/2585,2023-01-15T13:56:27Z,2023-01-16T02:37:21Z,5,2,MERGED
+owncast,Fix HLS automatic test,https://github.com/owncast/owncast/pull/2572,2023-01-11T22:49:06Z,2023-01-12T04:11:14Z,2,10,MERGED
+owncast,improve stream testing script,https://github.com/owncast/owncast/pull/2549,2023-01-04T23:23:49Z,2023-01-11T02:50:32Z,3,35,MERGED
+owncast,Move enable save button logic to a use effect hook - 2546,https://github.com/owncast/owncast/pull/2548,2023-01-04T15:14:37Z,2023-01-04T21:54:35Z,1,1,MERGED
+owncast,use random string and number generator from lib in api tests,https://github.com/owncast/owncast/pull/2542,2023-01-01T02:06:52Z,2023-01-04T22:09:52Z,0,1,MERGED
+owncast,Update LICENSE to be current,https://github.com/owncast/owncast/pull/3058,2023-05-31T21:04:11Z,2023-06-01T01:06:23Z,1,1,MERGED
+owncast,Extending webfinger response (issue:2851),https://github.com/owncast/owncast/pull/3053,2023-05-28T07:43:09Z,2023-05-31T18:36:41Z,7,3,MERGED
+owncast,fix: hide latency card for admin if latency is 0,https://github.com/owncast/owncast/pull/3047,2023-05-25T12:04:44Z,2023-05-30T18:33:31Z,1,2,MERGED
+owncast,Address chat modal button issues,https://github.com/owncast/owncast/pull/3042,2023-05-23T07:06:09Z,2023-05-23T23:32:36Z,3,4,MERGED
+owncast,Refactor mobile chat into modal,https://github.com/owncast/owncast/pull/3038,2023-05-22T05:17:01Z,2023-05-23T01:56:45Z,19,12,MERGED
+owncast,address doublescroll #3028,https://github.com/owncast/owncast/pull/3035,2023-05-20T23:36:57Z,2023-05-21T21:11:54Z,4,4,MERGED
+owncast,Do not add extra spacing to every ant row.,https://github.com/owncast/owncast/pull/3033,2023-05-19T21:14:20Z,2023-05-20T00:34:24Z,3,1,MERGED
+owncast,feat: precache web assets. Closes #3030,https://github.com/owncast/owncast/pull/3032,2023-05-19T20:42:55Z,2023-05-19T20:56:46Z,2,1,MERGED
+owncast,Cleanup unused Javascript,https://github.com/owncast/owncast/pull/3027,2023-05-18T16:49:33Z,2023-05-21T04:15:25Z,2,8,MERGED
+owncast,fix : icon-text alignment issue,https://github.com/owncast/owncast/pull/3023,2023-05-17T12:35:01Z,2023-07-15T00:56:15Z,5,4,CLOSED
+owncast,"Address some layout issues with odd content spacing on mobile, and footer position",https://github.com/owncast/owncast/pull/3022,2023-05-17T08:57:25Z,2023-05-18T19:13:26Z,10,8,MERGED
+owncast,feat: floating fading footer,https://github.com/owncast/owncast/pull/3008,2023-05-12T14:52:53Z,2023-05-12T21:52:54Z,3,2,MERGED
+owncast,fix(mobile): toggle tablet content layout based on online state.,https://github.com/owncast/owncast/pull/3007,2023-05-12T04:48:35Z,2023-05-12T14:00:05Z,4,1,MERGED
+owncast,Fix ↠ Mobile: Action menu button should be inline with tabs ,https://github.com/owncast/owncast/pull/3005,2023-05-11T08:22:03Z,2023-05-20T18:33:46Z,11,9,CLOSED
+owncast,Fixes : Admin: Custom emoji page layout ,https://github.com/owncast/owncast/pull/2993,2023-05-06T19:52:34Z,2023-05-07T19:57:15Z,9,11,MERGED
+owncast,fix:#2954-player-gets-cut-off-vertically,https://github.com/owncast/owncast/pull/2987,2023-05-05T11:36:50Z,2023-05-05T18:10:29Z,5,2,MERGED
+owncast,Added margin under the page content #2963,https://github.com/owncast/owncast/pull/2978,2023-05-02T13:16:19Z,2023-05-30T21:00:08Z,2,1,CLOSED
+owncast,feat: add support for markdown in offline message. ,https://github.com/owncast/owncast/pull/2977,2023-05-02T02:12:19Z,2023-05-02T02:45:27Z,2,1,MERGED
+owncast,Use VA-API hardware decoding and scaling,https://github.com/owncast/owncast/pull/2976,2023-05-01T13:57:09Z,2023-06-02T19:15:10Z,7,3,MERGED
+owncast,FIX #2933 Make admin stream title input more visible,https://github.com/owncast/owncast/pull/2974,2023-04-30T23:04:54Z,2023-05-01T03:10:37Z,2,3,MERGED
+owncast,Moved global modifier to fix cascading,https://github.com/owncast/owncast/pull/2968,2023-04-28T11:32:21Z,2023-05-05T01:00:06Z,6,3,CLOSED
+owncast,fix: #2956 Mobile Landscape Fix,https://github.com/owncast/owncast/pull/2966,2023-04-28T09:51:30Z,2023-05-05T11:40:35Z,23,3,CLOSED
+owncast,fix: #2957 Portrait Buttons Make Action Buttons Wrap,https://github.com/owncast/owncast/pull/2965,2023-04-28T09:02:34Z,2023-04-28T19:09:00Z,3,1,MERGED
+owncast,Feat/autoscroll on homepage tabs,https://github.com/owncast/owncast/pull/2958,2023-04-27T02:49:30Z,2023-04-30T17:26:53Z,4,2,CLOSED
+owncast,some webv2 UI polish,https://github.com/owncast/owncast/pull/2940,2023-04-24T09:34:52Z,2023-04-24T17:58:57Z,2,10,MERGED
+owncast,WIP chat user auto complete,https://github.com/owncast/owncast/pull/2935,2023-04-19T22:52:01Z,2023-08-10T00:47:56Z,1,2,CLOSED
+owncast,feat(webhooks): add stream status to webhook,https://github.com/owncast/owncast/pull/2934,2023-04-19T02:05:17Z,2023-05-30T18:32:05Z,1,1,MERGED
+owncast,"Removing % from streamkey generator, and adding unit test for same.",https://github.com/owncast/owncast/pull/2932,2023-04-17T21:38:19Z,2023-04-17T22:33:31Z,2,2,MERGED
+owncast,feat: add support for robots.txt disabling search indexing,https://github.com/owncast/owncast/pull/2929,2023-04-16T17:50:29Z,2023-05-30T18:09:52Z,6,2,MERGED
+owncast,Fix : autogenerated streaming key contains bad characters #2919,https://github.com/owncast/owncast/pull/2928,2023-04-16T11:35:09Z,2023-04-17T21:16:01Z,4,0,CLOSED
+owncast,Update to Go 1.20 + run better align,https://github.com/owncast/owncast/pull/2927,2023-04-16T06:34:51Z,2023-05-30T17:31:43Z,0,4,MERGED
+owncast,Support using the custom video serving endpoint even if you don't use object storage,https://github.com/owncast/owncast/pull/2924,2023-04-15T23:08:47Z,2023-05-30T21:05:24Z,2,2,MERGED
+owncast,Fixed #2758,https://github.com/owncast/owncast/pull/2914,2023-04-13T10:23:37Z,2023-04-15T18:31:21Z,9,11,MERGED
+owncast,fix : Admin appearance page has one differently colored collapsible area #2893,https://github.com/owncast/owncast/pull/2913,2023-04-11T18:58:20Z,2023-04-13T01:33:15Z,2,1,MERGED
+owncast,FIX : Chat: words containing one or more dots are turned into links #2898,https://github.com/owncast/owncast/pull/2903,2023-04-03T22:44:05Z,2023-04-04T01:00:21Z,3,3,MERGED
+owncast,"FIX #2897 Admin: ""Copy"" button for stream keys copy asterisks if key is hidden ",https://github.com/owncast/owncast/pull/2901,2023-04-03T21:52:11Z,2023-04-04T03:49:48Z,1,2,MERGED
+owncast,fix: Prevent storybook from making websocket connections,https://github.com/owncast/owncast/pull/2896,2023-04-03T15:48:13Z,2023-04-14T21:39:05Z,6,2,MERGED
+owncast,FIX : Admin custom CSS area forces entire page to scroll #2886,https://github.com/owncast/owncast/pull/2892,2023-04-01T09:59:06Z,2023-04-04T04:03:45Z,2,6,MERGED
+owncast,Fix typo in actions.tsx,https://github.com/owncast/owncast/pull/3225,2023-07-31T17:32:12Z,2023-07-31T17:44:48Z,1,1,MERGED
+owncast,fix: fix positioning of mobile buttons menu. ,https://github.com/owncast/owncast/pull/3217,2023-07-27T22:02:57Z,2023-07-28T02:20:04Z,3,1,MERGED
+owncast,Embed uses flexbox instead of height: 96vh+4vh,https://github.com/owncast/owncast/pull/3214,2023-07-26T18:06:07Z,2023-10-15T07:52:55Z,4,2,CLOSED
+owncast,s3Storage: fix slice bounds out of range error,https://github.com/owncast/owncast/pull/3208,2023-07-24T22:00:30Z,2023-07-24T22:12:04Z,1,1,MERGED
+owncast,Remove localhost from code,https://github.com/owncast/owncast/pull/3203,2023-07-24T00:08:07Z,2023-10-15T07:52:56Z,16,12,CLOSED
+owncast,Add offline option to bundle web.sh,https://github.com/owncast/owncast/pull/3202,2023-07-23T19:15:30Z,2023-09-22T02:07:41Z,1,2,MERGED
+owncast,Url gets its own paragraph in notification post,https://github.com/owncast/owncast/pull/3196,2023-07-21T21:19:57Z,2023-07-21T21:34:07Z,3,1,MERGED
+owncast,NotifyReminderPopup uses a custom Popover,https://github.com/owncast/owncast/pull/3194,2023-07-21T21:01:07Z,2023-07-21T22:58:15Z,4,3,MERGED
+owncast,add offline option to bundleWeb.sh,https://github.com/owncast/owncast/pull/3193,2023-07-21T19:51:54Z,2023-07-21T23:48:10Z,0,1,MERGED
+owncast,Fixed localhost IP ban,https://github.com/owncast/owncast/pull/3183,2023-07-17T13:20:59Z,2023-07-17T19:06:59Z,3,1,MERGED
+owncast,fix(chat): fix chat not using the correct messages selector. ,https://github.com/owncast/owncast/pull/3180,2023-07-16T23:00:15Z,2023-07-17T20:49:00Z,7,2,MERGED
+owncast,Custom framerate in admin UI,https://github.com/owncast/owncast/pull/3179,2023-07-16T04:51:27Z,2023-10-15T07:52:54Z,6,3,CLOSED
+owncast,Bump next to 13.4.10,https://github.com/owncast/owncast/pull/3177,2023-07-15T18:21:25Z,2023-07-15T18:38:37Z,1,1,MERGED
+owncast,Unhide dropdown in Viewer Info page,https://github.com/owncast/owncast/pull/3173,2023-07-13T21:36:16Z,2023-07-14T16:28:57Z,1,1,MERGED
+owncast,Fix deprecated antd dropdown warnings,https://github.com/owncast/owncast/pull/3171,2023-07-13T00:55:48Z,2023-07-13T20:28:12Z,1,2,MERGED
+owncast,remove excess resize event listeners,https://github.com/owncast/owncast/pull/3169,2023-07-11T23:36:20Z,2023-07-13T19:36:21Z,1,1,MERGED
+owncast,change overflow behaviour in chat input,https://github.com/owncast/owncast/pull/3167,2023-07-11T20:01:01Z,2023-07-11T20:13:04Z,1,1,MERGED
+owncast,replace margins with padding in the chat container,https://github.com/owncast/owncast/pull/3165,2023-07-11T19:08:13Z,2023-07-11T20:07:59Z,2,1,MERGED
+owncast,Name change: better unicode handling,https://github.com/owncast/owncast/pull/3164,2023-07-11T14:01:09Z,2023-07-11T17:44:10Z,3,2,MERGED
+owncast,chat: check that a new username is different before sending out updates,https://github.com/owncast/owncast/pull/3162,2023-07-10T22:43:35Z,2023-07-11T06:16:37Z,1,1,MERGED
+owncast,contenteditable: remove warning about unknown property onContentChange,https://github.com/owncast/owncast/pull/3161,2023-07-10T22:17:45Z,2023-07-11T06:02:08Z,3,1,MERGED
+owncast,replace grapheme-splitter with graphemer (updated fork),https://github.com/owncast/owncast/pull/3160,2023-07-10T21:53:12Z,2023-07-10T23:13:40Z,4,1,MERGED
+owncast,Add resize handle to chat,https://github.com/owncast/owncast/pull/3157,2023-07-10T03:10:49Z,2023-07-11T06:00:29Z,2,5,MERGED
+owncast,Fixes #3122,https://github.com/owncast/owncast/pull/3156,2023-07-09T21:34:15Z,2023-07-10T01:08:02Z,3,1,MERGED
+owncast,Increase width of volume slider to 100px,https://github.com/owncast/owncast/pull/3155,2023-07-09T19:05:56Z,2023-07-09T19:50:04Z,2,1,MERGED
+owncast,emoji: display native emoji simiarly to custom,https://github.com/owncast/owncast/pull/3147,2023-07-06T19:31:56Z,2023-07-06T19:47:38Z,3,1,MERGED
+owncast,simpler chatbox,https://github.com/owncast/owncast/pull/3146,2023-07-06T18:02:31Z,2023-07-09T20:42:03Z,2,1,MERGED
+owncast,fail silently when no codces are found,https://github.com/owncast/owncast/pull/3142,2023-07-06T04:03:24Z,2023-07-06T04:41:50Z,3,1,MERGED
+owncast,"highlighting: make case-insensitive, support unicode",https://github.com/owncast/owncast/pull/3137,2023-07-05T17:10:06Z,2023-07-05T18:23:39Z,7,3,MERGED
+owncast,Fix chat flicker / Usernames collapse in order,https://github.com/owncast/owncast/pull/3135,2023-07-05T08:20:06Z,2023-07-05T18:51:16Z,2,1,MERGED
+owncast,Chat wire protocol,https://github.com/owncast/owncast/pull/3125,2023-07-01T15:54:25Z,2023-07-06T00:25:48Z,18,14,MERGED
+owncast,chat: simplify input handling,https://github.com/owncast/owncast/pull/3124,2023-06-30T16:13:05Z,2023-06-30T19:22:02Z,5,2,MERGED
+owncast,FIX Remove animation of chat sidebar #3089,https://github.com/owncast/owncast/pull/3119,2023-06-28T18:59:49Z,2023-06-28T19:16:10Z,3,1,MERGED
+owncast,change chat from a sidebar to a column,https://github.com/owncast/owncast/pull/3113,2023-06-27T04:00:45Z,2023-07-09T21:07:35Z,9,9,MERGED
+owncast,Fix highlight in video quality selection menu,https://github.com/owncast/owncast/pull/3102,2023-06-25T05:59:11Z,2023-06-26T16:40:29Z,2,1,MERGED
+owncast,username of repeat chat messages is display:none,https://github.com/owncast/owncast/pull/3101,2023-06-24T23:20:19Z,2023-06-28T16:58:08Z,4,1,MERGED
+owncast,fix TitleNotifier crash,https://github.com/owncast/owncast/pull/3100,2023-06-24T01:51:25Z,2023-06-24T02:12:35Z,2,1,MERGED
+owncast,Chat popup,https://github.com/owncast/owncast/pull/3098,2023-06-23T20:26:10Z,2023-06-26T16:00:27Z,6,7,MERGED
+owncast,Fix path for image open meta tag #3075. ,https://github.com/owncast/owncast/pull/3087,2023-06-14T02:05:55Z,2023-06-14T02:28:35Z,5,12,MERGED
+owncast,feat: close modal after name change,https://github.com/owncast/owncast/pull/3084,2023-06-12T11:16:32Z,2023-06-13T05:54:13Z,5,3,MERGED
+owncast,Web server/router/handlers arechitecture,https://github.com/owncast/owncast/pull/3078,2023-06-10T00:32:52Z,2024-03-17T10:38:39Z,4,4,CLOSED
+owncast,Alexsat/fix pix_fmt for multiple ffmpeg versions,https://github.com/owncast/owncast/pull/3071,2023-06-05T19:50:36Z,2023-08-10T00:47:55Z,11,14,CLOSED
+owncast,Fix NotifyReminderPopup warning #3034.,https://github.com/owncast/owncast/pull/3068,2023-06-04T02:14:05Z,2023-06-06T00:39:27Z,5,3,MERGED
+owncast,removed UrlMatcher which was causing the anchor link,https://github.com/owncast/owncast/pull/3067,2023-06-03T10:33:02Z,2023-06-20T18:22:45Z,2,3,CLOSED
+owncast,fix(admin): Broken link to the stream health page,https://github.com/owncast/owncast/pull/3064,2023-06-02T06:24:45Z,2023-06-02T18:15:02Z,4,1,MERGED
+owncast,fix /api/admin/config/streamkeys documentation,https://github.com/owncast/owncast/pull/3409,2023-10-31T10:46:27Z,2023-10-31T18:54:09Z,1,1,MERGED
+owncast,Admin horizontal scroll on narrower screens,https://github.com/owncast/owncast/pull/3406,2023-10-30T03:09:15Z,2023-12-01T02:53:22Z,16,7,MERGED
+owncast,fix: add additional validation before making remote requests,https://github.com/owncast/owncast/pull/3398,2023-10-28T04:36:30Z,2023-10-28T15:15:02Z,0,1,MERGED
+owncast,Ignore static/web for codeql,https://github.com/owncast/owncast/pull/3397,2023-10-26T23:37:44Z,2023-10-28T02:44:09Z,3,3,MERGED
+owncast,fix api/admin/config/pagecontent example,https://github.com/owncast/owncast/pull/3392,2023-10-25T09:30:13Z,2023-10-26T01:04:18Z,1,1,MERGED
+owncast,fix: prevent floating mobile action menu button,https://github.com/owncast/owncast/pull/3383,2023-10-23T03:44:07Z,2023-10-25T04:58:36Z,7,3,MERGED
+owncast,Fix parsing of Authorization Bearer header,https://github.com/owncast/owncast/pull/3376,2023-10-20T19:11:06Z,2023-10-21T17:00:50Z,1,1,MERGED
+owncast,Added a check for the port before calling the splitHostPort function,https://github.com/owncast/owncast/pull/3372,2023-10-18T03:38:22Z,2023-10-19T00:01:03Z,2,1,MERGED
+owncast,fix: issue with lint and prettier during js format build,https://github.com/owncast/owncast/pull/3362,2023-10-16T05:32:27Z,2023-10-16T17:06:01Z,3,1,MERGED
+owncast,"Remove ""Live for XXX"" message from aria-live area",https://github.com/owncast/owncast/pull/3361,2023-10-16T00:51:03Z,2023-10-16T02:45:55Z,2,1,MERGED
+owncast,Fix geo details for viewers not showing on CDN connection,https://github.com/owncast/owncast/pull/3359,2023-10-15T05:25:04Z,2023-10-15T22:43:07Z,5,2,MERGED
+owncast,Fix embedded status bar being cut off,https://github.com/owncast/owncast/pull/3352,2023-10-10T01:48:36Z,2023-10-22T04:46:10Z,11,2,MERGED
+owncast,Stop Firefox from adding mysterious hash,https://github.com/owncast/owncast/pull/3348,2023-10-08T23:32:02Z,2023-10-09T01:58:43Z,3,1,MERGED
+owncast,Update ClientTable.tsx,https://github.com/owncast/owncast/pull/3342,2023-10-06T04:55:20Z,2023-10-07T20:14:07Z,7,3,MERGED
+owncast,Initial core functionality for replays and clips,https://github.com/owncast/owncast/pull/3338,2023-10-05T03:21:53Z,2023-10-26T14:52:04Z,1,27,CLOSED
+owncast,Mute audio in 'this stream is offline' clip,https://github.com/owncast/owncast/pull/3332,2023-09-27T18:23:44Z,2024-02-20T01:50:54Z,5,1,CLOSED
+owncast,Update Design.stories.mdx,https://github.com/owncast/owncast/pull/3315,2023-09-19T07:43:10Z,2023-09-20T04:30:31Z,1,1,CLOSED
+owncast,Renamed rewriteRemotePlaylist,https://github.com/owncast/owncast/pull/3313,2023-09-17T16:10:58Z,2023-09-22T00:58:02Z,4,2,MERGED
+owncast,Add support for remote serving endpoint on local storage,https://github.com/owncast/owncast/pull/3311,2023-09-16T16:25:18Z,2023-09-19T06:41:33Z,2,1,CLOSED
+owncast,Handle error thrown in postConfigUpdateToAPI,https://github.com/owncast/owncast/pull/3299,2023-09-07T07:20:32Z,2023-09-10T18:07:46Z,4,1,MERGED
+owncast,Block Private URLs at `serverurl` API endpoint,https://github.com/owncast/owncast/pull/3295,2023-09-05T19:05:43Z,2023-09-07T03:28:15Z,8,2,MERGED
+owncast,feat(chat): add support for chat part messages. Closes #3201,https://github.com/owncast/owncast/pull/3291,2023-09-04T02:03:37Z,2023-09-10T17:58:11Z,3,1,MERGED
+owncast,Check if proposed name change is an API name,https://github.com/owncast/owncast/pull/3256,2023-08-13T13:09:07Z,2023-08-13T15:57:20Z,1,1,MERGED
+owncast,Gap between user flags is back now.,https://github.com/owncast/owncast/pull/3251,2023-08-10T14:08:28Z,2023-08-14T10:05:29Z,0,2,CLOSED
+owncast,User flag gap is back now.,https://github.com/owncast/owncast/pull/3250,2023-08-10T13:04:48Z,2023-08-10T13:47:24Z,1,4,CLOSED
+owncast,Accidental PR,https://github.com/owncast/owncast/pull/3249,2023-08-09T23:31:00Z,2023-08-09T23:37:24Z,2,4,CLOSED
+owncast,feat(video): add IP address to RTMP logs,https://github.com/owncast/owncast/pull/3233,2023-08-02T19:26:57Z,2023-08-04T03:54:56Z,0,1,MERGED
+owncast,Verify object and actor exists in Like request,https://github.com/owncast/owncast/pull/3232,2023-08-02T19:20:42Z,2023-08-04T03:34:51Z,0,1,MERGED
+owncast,Cleanup object storage files on success or failure,https://github.com/owncast/owncast/pull/3231,2023-08-02T19:13:16Z,2023-08-04T03:33:44Z,4,2,MERGED
+owncast,fix emojis overflowing the chat message,https://github.com/owncast/owncast/pull/3228,2023-08-01T20:10:03Z,2023-08-02T19:29:25Z,4,7,MERGED
+owncast,Refactor Ip address parsing to support ipv4 and ipv6,https://github.com/owncast/owncast/pull/3496,2023-12-23T20:15:19Z,2024-01-03T19:07:11Z,2,1,MERGED
+owncast,Added delay to chromatic config to see if that fixes flakey chat moda…,https://github.com/owncast/owncast/pull/3488,2023-12-19T20:15:23Z,2023-12-20T19:35:48Z,1,3,CLOSED
+owncast,Support versions of ffmpeg greater than 5,https://github.com/owncast/owncast/pull/3476,2023-12-11T00:18:39Z,2025-01-13T04:08:51Z,14,8,CLOSED
+owncast,Ben/remove owncast logo,https://github.com/owncast/owncast/pull/3473,2023-12-08T20:57:09Z,2023-12-08T20:57:26Z,0,36,CLOSED
+owncast,State-changed events modified to be in aria live region,https://github.com/owncast/owncast/pull/3469,2023-12-06T17:21:08Z,2024-03-06T06:02:59Z,11,10,MERGED
+owncast,Updating twitter logo to X using logo from Twitter's website,https://github.com/owncast/owncast/pull/3468,2023-12-05T07:07:50Z,2023-12-05T23:58:47Z,10,3,MERGED
+owncast,feat(api): add server-side caching for requests that could benefit,https://github.com/owncast/owncast/pull/3463,2023-12-04T03:01:08Z,2023-12-10T00:31:50Z,2,13,MERGED
+owncast,Draft: Mark strings for translation.,https://github.com/owncast/owncast/pull/3458,2023-12-01T19:34:58Z,2024-04-23T01:56:02Z,7,6,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3456,2023-11-30T06:01:55Z,2023-11-30T07:44:56Z,2,20,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3453,2023-11-29T07:24:47Z,2023-11-29T07:32:35Z,1,5,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3451,2023-11-29T07:23:57Z,2023-11-29T07:25:26Z,0,1,CLOSED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3450,2023-11-29T07:20:47Z,2023-11-29T07:23:33Z,0,99,CLOSED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3449,2023-11-29T06:40:58Z,2023-11-29T06:54:52Z,2,98,CLOSED
+owncast,Translations update: %locale%,https://github.com/owncast/owncast/pull/3447,2023-11-29T05:59:40Z,2023-11-29T06:18:35Z,0,93,CLOSED
+owncast,Translations update: %locale%,https://github.com/owncast/owncast/pull/3445,2023-11-28T08:11:07Z,2023-11-29T05:54:19Z,2,93,CLOSED
+owncast,Translations update: %two_letters_code%,https://github.com/owncast/owncast/pull/3444,2023-11-28T08:04:58Z,2023-11-28T08:08:44Z,0,31,CLOSED
+owncast,fix(admin): sanitize fediverse username,https://github.com/owncast/owncast/pull/3437,2023-11-25T08:25:44Z,2024-02-06T04:00:51Z,20,9,MERGED
+owncast,Migrated Storybook notation from CSF2 to CSF3,https://github.com/owncast/owncast/pull/3412,2023-11-02T13:30:47Z,2023-11-07T03:35:06Z,2,8,MERGED
+owncast,Spec-based API,https://github.com/owncast/owncast/pull/3653,2024-03-29T18:08:47Z,2024-05-02T01:50:20Z,4,308,MERGED
+owncast,WIP: Backend refactor. This PR is just a way to browse through this code.,https://github.com/owncast/owncast/pull/3646,2024-03-25T16:05:06Z,2024-10-07T15:11:41Z,1,20,CLOSED
+owncast,Mute the 'stream ended' clip's audio,https://github.com/owncast/owncast/pull/3630,2024-03-14T10:18:23Z,2024-04-17T18:44:19Z,4,5,MERGED
+owncast,Hide chat button on mobile when chat is disabled,https://github.com/owncast/owncast/pull/3616,2024-03-05T20:30:48Z,2024-03-06T05:58:17Z,2,1,MERGED
+owncast,set content-type for customjavascript,https://github.com/owncast/owncast/pull/3612,2024-03-02T13:46:33Z,2024-03-05T05:40:57Z,1,2,MERGED
+owncast,New offline embed,https://github.com/owncast/owncast/pull/3599,2024-02-25T02:06:01Z,2024-02-25T20:52:32Z,1,4,MERGED
+owncast,fix: remove autoscroll to readwrite chat embed input field,https://github.com/owncast/owncast/pull/3582,2024-02-16T19:47:22Z,2024-02-19T00:39:24Z,2,2,MERGED
+owncast,Modified rate limit conditions to exclude moderators,https://github.com/owncast/owncast/pull/3534,2024-01-24T04:49:44Z,2024-01-24T18:27:39Z,2,1,MERGED
+owncast,Slight refactor of HLS segment cleanup to fix object storage thumbs/previews,https://github.com/owncast/owncast/pull/3531,2024-01-22T03:40:42Z,2024-01-23T04:26:36Z,0,1,MERGED
+owncast,Gek/cache bot search page,https://github.com/owncast/owncast/pull/3530,2024-01-22T01:09:03Z,2024-01-22T01:18:47Z,0,2,MERGED
+owncast,Fixed page size stale state on LogTable component,https://github.com/owncast/owncast/pull/3516,2024-01-12T05:28:16Z,2024-01-23T04:31:24Z,5,1,MERGED
+owncast,fix(video): add eventType support for touch devices,https://github.com/owncast/owncast/pull/3508,2024-01-05T15:54:42Z,2024-01-10T05:45:57Z,2,1,MERGED
+owncast,Update README.md,https://github.com/owncast/owncast/pull/3756,2024-05-31T17:20:25Z,2024-05-31T18:55:40Z,1,1,MERGED
+owncast,Update Design MD,https://github.com/owncast/owncast/pull/3755,2024-05-31T14:24:06Z,2024-05-31T15:10:46Z,1,2,MERGED
+owncast,Implement admin password hashing with bcrypt,https://github.com/owncast/owncast/pull/3754,2024-05-31T11:33:36Z,2024-06-27T04:20:22Z,5,9,MERGED
+owncast,Rework utils/restendpointhelper to use the new chi router functionality,https://github.com/owncast/owncast/pull/3750,2024-05-30T09:53:15Z,2024-05-30T19:31:07Z,1,5,MERGED
+owncast,Icons branding,https://github.com/owncast/owncast/pull/3740,2024-05-18T02:44:04Z,2024-05-18T02:44:52Z,1,4,CLOSED
+owncast,Rework stream duration string formatting for the status bar,https://github.com/owncast/owncast/pull/3729,2024-05-02T20:26:07Z,2024-05-03T05:03:26Z,2,2,MERGED
+owncast,Increase max video bitrate and slider marks,https://github.com/owncast/owncast/pull/3721,2024-04-24T20:43:29Z,2024-08-19T22:04:33Z,3,3,CLOSED
+owncast,Add effect to set media session metadata,https://github.com/owncast/owncast/pull/3713,2024-04-19T19:05:21Z,2024-04-19T21:01:50Z,2,1,MERGED
+owncast,Improve flakiness of API integration tests,https://github.com/owncast/owncast/pull/3710,2024-04-18T22:05:53Z,2024-04-18T22:11:06Z,0,1,MERGED
+owncast,chore(go): update to go 1.22,https://github.com/owncast/owncast/pull/3708,2024-04-18T20:34:09Z,2024-04-22T20:23:52Z,5,5,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3702,2024-04-18T03:30:50Z,2024-11-13T08:35:44Z,5,29,CLOSED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3700,2024-04-18T02:34:11Z,2024-04-18T02:42:50Z,2,2,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3699,2024-04-18T02:28:57Z,2024-04-18T02:50:03Z,0,9,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/3697,2024-04-18T02:17:31Z,2024-04-18T02:28:19Z,2,7,CLOSED
+owncast,Change fediAuth message to be more succinct,https://github.com/owncast/owncast/pull/3696,2024-04-17T15:26:55Z,2024-04-17T18:01:32Z,2,2,MERGED
+owncast,Fixes for aria-live bugs,https://github.com/owncast/owncast/pull/3694,2024-04-14T21:31:40Z,2024-04-15T01:06:29Z,2,2,MERGED
+owncast,"prevent css-loader v7 renaming default to _default, needed for storybook",https://github.com/owncast/owncast/pull/3692,2024-04-14T17:50:26Z,2024-04-14T19:40:55Z,2,1,MERGED
+owncast,Change tag to self-closing since the linter complains otherwise,https://github.com/owncast/owncast/pull/3690,2024-04-13T16:36:07Z,2024-04-13T20:51:43Z,5,1,MERGED
+owncast,Storybook 8 Update,https://github.com/owncast/owncast/pull/3687,2024-04-12T04:41:02Z,2024-09-27T23:53:24Z,3,4,CLOSED
+owncast,Fix custom runtimeCaching rules and order,https://github.com/owncast/owncast/pull/3685,2024-04-11T13:28:50Z,2024-04-14T22:41:40Z,3,1,MERGED
+owncast,stream offline status embed updated,https://github.com/owncast/owncast/pull/3684,2024-04-11T05:22:18Z,2024-04-12T02:57:26Z,1,1,MERGED
+owncast,Optionally disable chat rate limiter and add optional chat slur/language filter,https://github.com/owncast/owncast/pull/3681,2024-04-10T05:15:35Z,2024-04-10T05:25:42Z,2,3,MERGED
+owncast,Fix for copying stream key without revealing it only copies asterisks,https://github.com/owncast/owncast/pull/3663,2024-04-08T16:16:06Z,2024-04-10T20:15:53Z,2,3,MERGED
+owncast,Fix stream chat bug,https://github.com/owncast/owncast/pull/3661,2024-04-05T09:43:31Z,2024-04-09T17:34:59Z,3,3,CLOSED
+owncast,Kağıt Create devcontainer.json,https://github.com/owncast/owncast/pull/3658,2024-04-01T07:14:36Z,2024-08-19T22:04:50Z,1,1,CLOSED
+owncast,change twitter label to x,https://github.com/owncast/owncast/pull/3846,2024-07-20T09:44:02Z,2024-07-22T02:54:21Z,1,1,MERGED
+owncast,Update config-constants.tsx,https://github.com/owncast/owncast/pull/3835,2024-07-11T19:37:47Z,2024-07-11T20:54:01Z,2,1,MERGED
+owncast,Add css linter step,https://github.com/owncast/owncast/pull/3832,2024-07-11T17:26:24Z,2024-07-11T18:33:07Z,2,8,MERGED
+owncast,little color change in dropdown,https://github.com/owncast/owncast/pull/3828,2024-07-10T18:50:10Z,2024-07-19T18:03:18Z,9,4,MERGED
+owncast,mvdan/xurls 2.x bump fixes,https://github.com/owncast/owncast/pull/3823,2024-07-08T09:15:13Z,2024-07-08T18:19:28Z,1,3,MERGED
+owncast,Disable Social Media Modal submission until Social Platform is selected,https://github.com/owncast/owncast/pull/3819,2024-07-05T01:29:42Z,2024-07-19T19:41:22Z,5,2,MERGED
+owncast,Adjust CleanupDirectory function to support tmpfs mounts.,https://github.com/owncast/owncast/pull/3818,2024-07-05T00:37:56Z,2024-07-19T20:07:45Z,3,5,MERGED
+owncast,Update video passthrough warning banner styling,https://github.com/owncast/owncast/pull/3810,2024-07-03T12:33:12Z,2024-07-03T14:19:46Z,3,1,MERGED
+owncast,Update video passthrough warning banner styling,https://github.com/owncast/owncast/pull/3809,2024-07-03T12:26:16Z,2024-07-03T12:28:48Z,0,1,CLOSED
+owncast,Update patreon logo to blob from website,https://github.com/owncast/owncast/pull/3808,2024-07-03T11:44:23Z,2024-07-03T14:12:01Z,2,1,MERGED
+owncast,fixing grammar,https://github.com/owncast/owncast/pull/3801,2024-07-01T04:05:05Z,2024-07-02T18:55:26Z,4,1,MERGED
+owncast,Override default videojs volume panel width,https://github.com/owncast/owncast/pull/3796,2024-06-27T07:35:28Z,2024-07-01T02:53:27Z,2,1,MERGED
+owncast,User repository,https://github.com/owncast/owncast/pull/3795,2024-06-25T05:35:03Z,2024-07-02T01:58:50Z,3,6,MERGED
+owncast,Fix loading user provided static files,https://github.com/owncast/owncast/pull/3793,2024-06-24T08:32:25Z,2024-06-24T08:34:16Z,0,1,CLOSED
+owncast,Large gap in sentence in modal on Mobile,https://github.com/owncast/owncast/pull/3789,2024-06-18T09:59:16Z,2024-06-26T05:42:22Z,2,2,MERGED
+owncast,"Add previous testRunner jasmine2, add ws dependency explicitly",https://github.com/owncast/owncast/pull/3784,2024-06-14T09:44:09Z,2024-06-14T18:00:55Z,1,1,MERGED
+owncast,Build Flatpak Package,https://github.com/owncast/owncast/pull/3773,2024-06-07T05:22:35Z,2024-10-07T04:37:35Z,11,16,CLOSED
+owncast,Build Flatpak package ,https://github.com/owncast/owncast/pull/3772,2024-06-07T05:15:27Z,2024-06-07T05:15:52Z,0,11,CLOSED
+owncast,Add modal state for browser notifications being denied,https://github.com/owncast/owncast/pull/3771,2024-06-06T09:21:30Z,2024-06-13T04:34:53Z,2,1,MERGED
+owncast,Add CC license in readme,https://github.com/owncast/owncast/pull/3770,2024-06-04T07:40:12Z,2024-06-18T23:51:24Z,4,6,CLOSED
+owncast,Update README.md (add more badges),https://github.com/owncast/owncast/pull/3767,2024-06-04T03:45:43Z,2024-06-18T23:50:45Z,0,5,CLOSED
+owncast,Config repository,https://github.com/owncast/owncast/pull/3988,2024-10-27T22:57:31Z,2024-11-16T03:20:58Z,3,9,MERGED
+owncast,"Update API gen, cleanup, add missing property to status response",https://github.com/owncast/owncast/pull/3987,2024-10-27T22:27:31Z,2024-10-27T22:36:31Z,0,5,MERGED
+owncast,fMP4 proof of concept WIP,https://github.com/owncast/owncast/pull/3986,2024-10-26T21:51:04Z,2025-01-22T04:34:28Z,4,1,CLOSED
+owncast,Initial localization work,https://github.com/owncast/owncast/pull/3980,2024-10-23T22:45:35Z,2025-01-15T04:54:21Z,3,36,MERGED
+owncast,feat: add translations support to admin pages and components,https://github.com/owncast/owncast/pull/3977,2024-10-21T17:02:49Z,2024-10-24T19:28:21Z,7,6,MERGED
+owncast,fix: username wrapping,https://github.com/owncast/owncast/pull/3975,2024-10-20T19:33:38Z,2024-10-31T05:13:29Z,15,3,MERGED
+owncast,fix: fix runtime caching error and adjust rules,https://github.com/owncast/owncast/pull/3970,2024-10-18T01:49:32Z,2024-11-09T22:08:46Z,8,6,MERGED
+owncast,Storybook 8 upgrade,https://github.com/owncast/owncast/pull/3962,2024-10-15T00:16:55Z,2024-10-20T19:43:02Z,3,8,CLOSED
+owncast,Fix websocket reconnection,https://github.com/owncast/owncast/pull/3959,2024-10-12T10:05:02Z,2024-10-22T23:29:46Z,0,1,MERGED
+owncast,Replace `github.com/shirou/gopsutil/v3` with v4,https://github.com/owncast/owncast/pull/3956,2024-10-11T16:52:26Z,2024-10-11T19:13:33Z,1,2,MERGED
+owncast,Fix incorrect timestamp on Eartlhy packaged binary,https://github.com/owncast/owncast/pull/3955,2024-10-11T10:40:46Z,2024-10-11T15:31:44Z,1,1,MERGED
+owncast,Refactor: replace defaultProps with function parameters in given React components .,https://github.com/owncast/owncast/pull/3954,2024-10-11T05:51:51Z,2025-01-16T00:06:35Z,11,3,CLOSED
+owncast,Fix mistyped filter value in the admin's log table,https://github.com/owncast/owncast/pull/3952,2024-10-10T07:12:35Z,2024-10-10T15:05:05Z,1,1,MERGED
+owncast,fix(web): long usernames in chat truncated and added ellipsis,https://github.com/owncast/owncast/pull/3949,2024-10-07T19:12:10Z,2024-10-09T22:15:58Z,2,1,MERGED
+owncast,refactor: update vjs beforeRequest to onRequest,https://github.com/owncast/owncast/pull/3945,2024-10-06T04:13:57Z,2024-11-15T20:55:26Z,6,4,MERGED
+owncast,chore: use correct manager name in Renovate config,https://github.com/owncast/owncast/pull/3943,2024-09-30T09:34:51Z,2024-10-01T16:16:53Z,1,2,MERGED
+owncast,fix: update Alpine base image,https://github.com/owncast/owncast/pull/3938,2024-09-26T13:40:33Z,2024-09-26T15:21:26Z,4,2,MERGED
+owncast,Storybook 8 fixes,https://github.com/owncast/owncast/pull/3937,2024-09-26T07:33:27Z,2024-09-27T21:25:38Z,1,6,MERGED
+owncast,Move title up a level to allow mouse hover to show timestamp,https://github.com/owncast/owncast/pull/3926,2024-09-17T18:52:17Z,2024-09-20T03:15:49Z,3,5,MERGED
+owncast,Updates to resolve linter warnings,https://github.com/owncast/owncast/pull/3913,2024-09-05T20:29:55Z,2024-09-05T20:41:11Z,0,1,MERGED
+owncast,Statusbar-Duration-FallbackValues,https://github.com/owncast/owncast/pull/3912,2024-09-05T19:37:07Z,2025-01-22T04:34:30Z,11,5,CLOSED
+owncast,fix(ci): split up checkout steps for push vs. pull request,https://github.com/owncast/owncast/pull/3911,2024-09-05T19:05:08Z,2024-09-05T20:50:59Z,0,2,MERGED
+owncast,Markdown-Editor-LineWrapping,https://github.com/owncast/owncast/pull/3908,2024-09-04T15:25:45Z,2024-09-05T21:45:09Z,9,5,MERGED
+owncast,Update API tests,https://github.com/owncast/owncast/pull/3894,2024-08-21T21:26:53Z,2024-08-21T21:44:10Z,0,3,MERGED
+owncast,Remove done callback in tests,https://github.com/owncast/owncast/pull/3885,2024-08-19T19:06:40Z,2024-08-19T19:10:46Z,0,1,MERGED
+owncast,embed screen style adjustments,https://github.com/owncast/owncast/pull/4063,2024-12-21T08:10:46Z,2025-01-06T01:28:35Z,14,17,MERGED
+owncast,Make the error alert in OfflineEmbed closable,https://github.com/owncast/owncast/pull/4062,2024-12-20T07:42:33Z,2024-12-20T17:17:35Z,1,1,MERGED
+owncast,fix(js): fix followers table being empty when sorted,https://github.com/owncast/owncast/pull/4054,2024-12-13T05:28:24Z,2024-12-13T05:40:24Z,2,1,MERGED
+owncast,Increase outbound worker pool size to use follower count,https://github.com/owncast/owncast/pull/4049,2024-12-08T23:40:05Z,2024-12-17T16:47:16Z,7,1,MERGED
+owncast,Fix infinite loop when migrating from 0.1.3 -> 0.2.0,https://github.com/owncast/owncast/pull/4039,2024-11-30T21:28:16Z,2024-12-01T07:38:27Z,0,1,MERGED
+owncast,fix(social): set federation enabled state after confirmation  ,https://github.com/owncast/owncast/pull/4038,2024-11-28T03:31:19Z,2024-11-30T20:32:13Z,3,12,MERGED
+owncast,feat(integerations): add route to get user details,https://github.com/owncast/owncast/pull/4030,2024-11-23T02:33:56Z,2024-11-26T19:30:33Z,6,4,MERGED
+owncast,feat: enable Intel Quicksync with support for FFmpeg 4.x to 7.1,https://github.com/owncast/owncast/pull/4028,2024-11-21T19:05:39Z,2025-01-13T04:38:26Z,4,3,MERGED
+owncast,fix: Intel and AMD VA-API accelerated pipeline for all FFmpeg versions,https://github.com/owncast/owncast/pull/4022,2024-11-20T13:18:08Z,2025-01-13T04:10:00Z,5,1,MERGED
+owncast,Communicate and handle apub outgoing updates being delayed,https://github.com/owncast/owncast/pull/4009,2024-11-11T11:17:30Z,2024-11-30T22:38:00Z,9,6,MERGED
+owncast,fix: registerUser request body is invalid,https://github.com/owncast/owncast/pull/4002,2024-11-07T12:31:38Z,2024-11-09T22:18:05Z,6,2,MERGED
+owncast,Replace picmo with emoji-mart,https://github.com/owncast/owncast/pull/4001,2024-11-07T10:12:13Z,2024-11-09T21:58:38Z,1,7,MERGED
+owncast,Change websocket mock from empty function to empty class,https://github.com/owncast/owncast/pull/3998,2024-11-06T07:46:27Z,2024-11-08T19:43:41Z,0,1,MERGED
+owncast,Offline banner i18n formatting,https://github.com/owncast/owncast/pull/3997,2024-11-05T08:43:59Z,2024-11-05T15:58:43Z,1,3,MERGED
+owncast,Introducing Owncast Guru on Gurubase.io,https://github.com/owncast/owncast/pull/3992,2024-11-02T08:20:53Z,2024-11-04T21:40:47Z,1,2,CLOSED
+owncast,Bump Golang version to 1.24,https://github.com/owncast/owncast/pull/4226,2025-02-23T20:35:07Z,2025-02-26T04:42:14Z,1,7,MERGED
+owncast,fix: username wrapping for parting message,https://github.com/owncast/owncast/pull/4209,2025-02-14T19:40:28Z,2025-02-16T01:02:56Z,2,1,MERGED
+owncast,Removes trailing whitespace causing web hydration errors,https://github.com/owncast/owncast/pull/4208,2025-02-14T07:57:18Z,2025-02-15T06:49:08Z,1,1,MERGED
+owncast,set default initialValue to an empty string in TextFieldWithSubmit,https://github.com/owncast/owncast/pull/4207,2025-02-14T05:31:03Z,2025-02-15T06:32:24Z,2,1,MERGED
+owncast,Resolve issue where follows would not work if private federation mode was enabled,https://github.com/owncast/owncast/pull/4202,2025-02-12T02:57:31Z,2025-02-13T07:43:09Z,1,1,MERGED
+owncast,Added changes for Issue 4044,https://github.com/owncast/owncast/pull/4199,2025-02-10T07:02:12Z,2025-02-11T23:40:11Z,5,4,MERGED
+owncast,Update follower cards to have better responsive design,https://github.com/owncast/owncast/pull/4198,2025-02-08T23:37:25Z,2025-02-13T04:46:54Z,2,4,MERGED
+owncast,Add background color and title attribute to social images,https://github.com/owncast/owncast/pull/4192,2025-02-07T01:12:47Z,2025-02-08T02:56:24Z,3,8,MERGED
+owncast,improve social links readability and responsive,https://github.com/owncast/owncast/pull/4191,2025-02-06T20:33:54Z,2025-02-07T05:56:06Z,1,5,CLOSED
+owncast,Update CI jobs to support PR branches,https://github.com/owncast/owncast/pull/4189,2025-02-06T01:28:25Z,2025-02-07T03:48:56Z,0,3,MERGED
+owncast,Addresses superfluous response.WriteHeader call warning in index template rendering,https://github.com/owncast/owncast/pull/4185,2025-01-30T17:51:43Z,2025-01-31T05:21:51Z,3,1,MERGED
+owncast,Fix IndieAuth endpoint requiring incorrectly defined query param,https://github.com/owncast/owncast/pull/4183,2025-01-30T04:20:48Z,2025-01-30T04:23:41Z,0,2,MERGED
+owncast,Chat message repository,https://github.com/owncast/owncast/pull/4161,2025-01-20T23:38:56Z,2025-01-21T00:32:25Z,0,2,MERGED
+owncast,Update translation.json,https://github.com/owncast/owncast/pull/4150,2025-01-19T19:27:51Z,2025-01-19T20:10:59Z,1,1,MERGED
+owncast,Create webhooks repository.,https://github.com/owncast/owncast/pull/4146,2025-01-18T23:33:55Z,2025-01-18T23:40:10Z,0,1,MERGED
+owncast,chore: remove binary blob,https://github.com/owncast/owncast/pull/4130,2025-01-17T16:27:31Z,2025-01-17T18:22:09Z,0,1,MERGED
+owncast,Remove use of default props,https://github.com/owncast/owncast/pull/4118,2025-01-16T00:04:36Z,2025-01-16T00:12:55Z,0,3,MERGED
+owncast,Translations update,https://github.com/owncast/owncast/pull/4115,2025-01-15T22:12:20Z,2025-01-15T22:13:38Z,0,56,CLOSED
+owncast,Translations update,https://github.com/owncast/owncast/pull/4113,2025-01-14T16:35:42Z,2025-01-15T22:14:03Z,0,58,CLOSED
+owncast,Update mastodon.svg for current colors,https://github.com/owncast/owncast/pull/4082,2025-01-05T21:53:28Z,2025-01-06T00:35:17Z,1,1,MERGED
+owncast,Update some platform logos,https://github.com/owncast/owncast/pull/4081,2025-01-05T06:38:05Z,2025-01-05T20:22:21Z,2,3,MERGED
+owncast,improve local css linting scripts,https://github.com/owncast/owncast/pull/4079,2025-01-05T04:39:49Z,2025-01-05T06:21:56Z,3,5,CLOSED
+owncast,fix skip link visibility and it moving logo upon focus,https://github.com/owncast/owncast/pull/4078,2025-01-05T03:59:36Z,2025-01-05T04:24:27Z,3,2,MERGED
+owncast,Fix web project not running under dev,https://github.com/owncast/owncast/pull/4076,2025-01-05T02:07:32Z,2025-01-08T23:10:35Z,2,1,MERGED
+owncast,Add local CSS lint checks,https://github.com/owncast/owncast/pull/4068,2025-01-04T01:26:35Z,2025-01-04T20:59:45Z,2,4,MERGED
+owncast,Update to current Mastodon logo.,https://github.com/owncast/owncast/pull/4067,2025-01-03T18:34:00Z,2025-01-05T21:11:07Z,2,1,CLOSED
+owncast,Update Mastodon logo to current brand colours.,https://github.com/owncast/owncast/pull/4066,2025-01-03T12:11:12Z,2025-01-03T18:29:32Z,2,1,CLOSED

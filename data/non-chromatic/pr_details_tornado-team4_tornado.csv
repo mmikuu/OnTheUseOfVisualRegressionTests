@@ -1,0 +1,41 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+tornado,[FE] ESLint の設定にインポート順のルールの追加,https://github.com/tornado-team4/tornado/pull/103,2023-09-01T09:58:49Z,2023-09-03T14:37:20Z,2,2,MERGED
+tornado,[FE] 完成画面の画像のリサイズ,https://github.com/tornado-team4/tornado/pull/101,2023-08-31T13:12:33Z,2023-08-31T13:14:18Z,1,1,MERGED
+tornado,[FE] モバイルからアクセスした場合に、対応していない旨を表示する,https://github.com/tornado-team4/tornado/pull/100,2023-08-31T12:02:05Z,2023-08-31T13:14:30Z,1,1,MERGED
+tornado,[FE] サービスのタイトルと説明の更新,https://github.com/tornado-team4/tornado/pull/97,2023-08-31T11:20:20Z,2023-08-31T12:09:59Z,1,1,MERGED
+tornado,[FE] アイコンのクレジットの追加 + 他諸々変更,https://github.com/tornado-team4/tornado/pull/96,2023-08-31T11:11:20Z,2023-08-31T13:14:53Z,1,5,MERGED
+tornado,[FE] / から top への遷移の作成,https://github.com/tornado-team4/tornado/pull/94,2023-08-31T09:07:51Z,2023-08-31T09:18:13Z,2,1,CLOSED
+tornado,[FE] Imgame修正,https://github.com/tornado-team4/tornado/pull/93,2023-08-31T09:04:04Z,2023-08-31T09:27:31Z,2,9,MERGED
+tornado,[FE] ロビー画面のバリデーション諸々の修正,https://github.com/tornado-team4/tornado/pull/92,2023-08-31T08:02:46Z,2023-08-31T09:25:07Z,1,9,MERGED
+tornado,[FE] パズル完成,https://github.com/tornado-team4/tornado/pull/85,2023-08-31T06:15:00Z,2023-08-31T06:20:11Z,1,4,MERGED
+tornado,[BE] gameObj に URL を追加する,https://github.com/tornado-team4/tornado/pull/81,2023-08-31T04:04:24Z,2023-08-31T04:29:37Z,1,4,MERGED
+tornado,[FE] ゲーム達成画面に API の組み込み,https://github.com/tornado-team4/tornado/pull/79,2023-08-31T03:37:07Z,2023-08-31T03:42:28Z,1,3,MERGED
+tornado,[FE] Recoil の適用,https://github.com/tornado-team4/tornado/pull/78,2023-08-31T02:56:28Z,2023-08-31T03:08:39Z,1,4,MERGED
+tornado,[FE] Recoil追加,https://github.com/tornado-team4/tornado/pull/76,2023-08-31T01:19:39Z,2023-08-31T02:03:48Z,1,7,MERGED
+tornado,[FE] グローバルステートライブラリ,https://github.com/tornado-team4/tornado/pull/75,2023-08-31T01:10:22Z,2023-08-31T01:14:27Z,1,19,CLOSED
+tornado,[FE]ロビー画面のページの組み立てとBEとの繋ぎこみ,https://github.com/tornado-team4/tornado/pull/72,2023-08-30T17:12:32Z,2023-08-31T05:34:30Z,1,20,MERGED
+tornado,[FE]プレイ内容のコンテンツの更新,https://github.com/tornado-team4/tornado/pull/71,2023-08-30T16:06:50Z,2023-08-31T01:59:49Z,1,3,MERGED
+tornado,[FE] Firebaseとのピース状態共有,https://github.com/tornado-team4/tornado/pull/70,2023-08-30T11:13:23Z,2023-08-30T12:38:36Z,3,9,MERGED
+tornado,[BE] 完成したパズルの画像の URL を取得する API の作成,https://github.com/tornado-team4/tornado/pull/69,2023-08-30T10:43:24Z,2023-08-31T00:28:39Z,1,2,MERGED
+tornado,[FE]ロビー画面の画像アップロードのコンポーネント作成 ,https://github.com/tornado-team4/tornado/pull/66,2023-08-29T17:24:34Z,2023-08-30T16:10:15Z,1,4,MERGED
+tornado,[FE] パズル達成画面の作成,https://github.com/tornado-team4/tornado/pull/63,2023-08-29T08:25:03Z,2023-08-30T09:29:45Z,3,8,MERGED
+tornado,[FE]ロビー画面のプレイヤーのリストのコンポーネントの作成,https://github.com/tornado-team4/tornado/pull/61,2023-08-29T06:45:18Z,2023-08-29T17:25:12Z,2,6,MERGED
+tornado,[FE] ルーム参加の概念の追加,https://github.com/tornado-team4/tornado/pull/60,2023-08-29T06:07:34Z,2023-08-29T11:46:21Z,1,6,MERGED
+tornado,[FE] パズル画面【暫定完成】,https://github.com/tornado-team4/tornado/pull/58,2023-08-28T11:44:48Z,2023-08-28T14:35:28Z,3,24,MERGED
+tornado,[BE] 部屋に紐づくコメントの一覧を取得するための API の作成,https://github.com/tornado-team4/tornado/pull/56,2023-08-28T04:26:49Z,2023-08-28T14:43:09Z,1,3,MERGED
+tornado,[FE]BEのURLの取得方法を変更,https://github.com/tornado-team4/tornado/pull/51,2023-08-27T13:44:14Z,2023-08-27T13:56:39Z,1,3,MERGED
+tornado,[BE] ws でやりとりする内容にゲーム開始の概念を追加,https://github.com/tornado-team4/tornado/pull/49,2023-08-27T07:19:15Z,2023-08-28T01:58:38Z,2,1,MERGED
+tornado,[FE]ルーム作成・参加の API の組み込みとページ全体の組み上げ,https://github.com/tornado-team4/tornado/pull/46,2023-08-25T16:39:47Z,2023-08-27T12:34:58Z,4,14,MERGED
+tornado,[BE] upload されたファイルと room を紐付ける諸々の API の作成,https://github.com/tornado-team4/tornado/pull/45,2023-08-25T14:39:17Z,2023-08-27T04:40:25Z,1,4,MERGED
+tornado,[FE] Firebase Storage を使った画像のやりとりの実装,https://github.com/tornado-team4/tornado/pull/44,2023-08-25T13:54:57Z,2023-08-27T04:40:38Z,4,6,MERGED
+tornado,[DONE] パズルロジック[FE],https://github.com/tornado-team4/tornado/pull/39,2023-08-22T19:21:23Z,2023-08-23T09:50:17Z,7,24,MERGED
+tornado,[BE] 参加者のリストの応答周りの実装,https://github.com/tornado-team4/tornado/pull/38,2023-08-22T15:45:46Z,2023-08-23T09:53:28Z,1,2,MERGED
+tornado,[FE] プレイ方法に関するコンポーネントの作成 ,https://github.com/tornado-team4/tornado/pull/36,2023-08-21T15:42:10Z,2023-08-24T15:19:36Z,2,6,MERGED
+tornado,[BE] デプロイ環境が壊れている問題の解消,https://github.com/tornado-team4/tornado/pull/33,2023-08-21T13:46:26Z,2023-08-22T12:18:37Z,1,4,MERGED
+tornado,[BE] ルーム作成・参加周りの API の作成,https://github.com/tornado-team4/tornado/pull/26,2023-08-18T07:25:43Z,2023-08-21T13:15:18Z,1,10,MERGED
+tornado,[FE]アバターを適当に変更できるコンポーネントの作成,https://github.com/tornado-team4/tornado/pull/25,2023-08-17T13:34:25Z,2023-08-20T15:29:47Z,4,12,MERGED
+tornado,[FE]ChakraUIの導入,https://github.com/tornado-team4/tornado/pull/23,2023-08-16T07:33:09Z,2023-08-16T08:39:31Z,2,4,MERGED
+tornado,[FE] storybook の導入,https://github.com/tornado-team4/tornado/pull/20,2023-08-15T10:35:59Z,2023-08-18T02:26:58Z,5,7,MERGED
+tornado,[BE] デプロイ環境の構築,https://github.com/tornado-team4/tornado/pull/10,2023-08-10T13:59:28Z,2023-08-10T14:24:03Z,1,4,MERGED
+tornado,[FE] 環境構築,https://github.com/tornado-team4/tornado/pull/6,2023-08-07T11:50:44Z,2023-08-14T07:42:27Z,6,19,MERGED
+tornado,[BE] BE の環境構築,https://github.com/tornado-team4/tornado/pull/5,2023-08-05T12:37:45Z,2023-08-08T12:02:51Z,0,10,MERGED

@@ -1,0 +1,49 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+crystal-components,Storybook & Chromatic - Reduce number of snapshots,https://github.com/Crystal-Creations-GbR/crystal-components/pull/71,2024-03-30T19:40:40Z,2024-03-30T23:16:52Z,1,2,MERGED
+crystal-components,feat: add component `CConfirmDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/69,2024-03-28T23:35:53Z,2024-03-29T11:30:22Z,1,2,MERGED
+crystal-components,feat: support `activator` slot and property in `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/68,2024-03-28T18:53:25Z,2024-03-28T23:41:52Z,1,1,MERGED
+crystal-components,feat: add component`CMultiOptionButton`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/67,2024-03-28T14:10:14Z,2024-03-28T18:42:43Z,6,1,MERGED
+crystal-components,fix: fix responsiveness of card actions,https://github.com/Crystal-Creations-GbR/crystal-components/pull/66,2024-03-28T12:28:07Z,2024-03-28T18:08:00Z,1,1,MERGED
+crystal-components,Refactor navigation drawer and support/add various navigation items,https://github.com/Crystal-Creations-GbR/crystal-components/pull/65,2024-03-26T15:28:51Z,2024-03-28T18:06:49Z,6,6,MERGED
+crystal-components,feat: add `color` property to `CCard` and `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/64,2024-03-25T22:05:53Z,2024-03-25T22:32:00Z,4,1,MERGED
+crystal-components,Improve `CSettingsItem`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/63,2024-03-24T19:51:06Z,2024-03-24T20:03:09Z,1,2,MERGED
+crystal-components,Improve `CNavigationDrawer`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/61,2024-03-21T13:06:21Z,2024-03-22T19:16:41Z,5,4,MERGED
+crystal-components,lang: update translations from Crystal Creations weblate,https://github.com/Crystal-Creations-GbR/crystal-components/pull/60,2024-03-18T22:53:51Z,2024-03-18T23:02:57Z,1,1,MERGED
+crystal-components,fix: align subtitle to center in `CSettingsItem`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/59,2024-03-18T18:04:00Z,2024-03-18T18:07:05Z,1,1,MERGED
+crystal-components,fix: allow `undefined` as model-value for `c-password-input`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/58,2024-03-18T17:14:13Z,2024-03-18T18:06:51Z,1,1,MERGED
+crystal-components,fix: remove `maxWidth` from `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/57,2024-03-18T09:41:22Z,2024-03-18T20:57:58Z,1,1,MERGED
+crystal-components,fix: fix scrolling inside a `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/56,2024-03-16T22:58:34Z,2024-03-18T12:34:34Z,3,1,MERGED
+crystal-components,feat: add `CPasswordInput`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/55,2024-03-16T22:15:01Z,2024-03-16T23:11:26Z,1,1,MERGED
+crystal-components,feat: emit `close` event when the dialog is closed,https://github.com/Crystal-Creations-GbR/crystal-components/pull/54,2024-03-16T20:32:17Z,2024-03-16T20:33:28Z,1,1,MERGED
+crystal-components,Improve `CCard` and `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/53,2024-03-14T15:54:36Z,2024-03-14T22:44:42Z,5,3,MERGED
+crystal-components,refactor: add storybook helper functions,https://github.com/Crystal-Creations-GbR/crystal-components/pull/52,2024-03-13T11:26:40Z,2024-03-13T17:03:15Z,1,1,MERGED
+crystal-components,refactor: remove uppercase from buttons as default to fit md3-spec,https://github.com/Crystal-Creations-GbR/crystal-components/pull/51,2024-03-13T09:16:17Z,2024-03-13T17:11:53Z,1,1,MERGED
+crystal-components,"feat: add components `CNavigationSubtitle`, `CPrimaryTabs`, `CSecondaryNavigation`",https://github.com/Crystal-Creations-GbR/crystal-components/pull/50,2024-03-12T17:02:38Z,2024-03-13T23:18:51Z,6,4,MERGED
+crystal-components,feat: add component `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/49,2024-03-12T13:56:21Z,2024-03-13T22:23:23Z,5,1,MERGED
+crystal-components,feat: add component `CSettingsItem`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/48,2024-03-12T13:55:38Z,2024-03-13T22:37:27Z,9,1,MERGED
+crystal-components,feat: add component `CCard`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/47,2024-03-12T13:55:18Z,2024-03-13T17:10:49Z,5,2,MERGED
+crystal-components,test: add `CSnackbar` stories,https://github.com/Crystal-Creations-GbR/crystal-components/pull/46,2024-03-11T20:18:31Z,2024-03-11T20:50:26Z,1,1,MERGED
+crystal-components,build(deps-dev): add `storybook-i18n` as dev-dependency,https://github.com/Crystal-Creations-GbR/crystal-components/pull/43,2024-03-10T19:56:27Z,2024-03-10T20:00:46Z,1,1,MERGED
+crystal-components,feat: add component `CNavigationDrawer`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/42,2024-03-10T17:43:49Z,2024-03-10T18:12:19Z,2,1,MERGED
+crystal-components,ci: remove branch `next`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/41,2024-03-10T16:04:27Z,2024-03-10T17:51:15Z,1,1,MERGED
+crystal-components,refactor: use vuetify blueprint `md3`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/40,2024-03-10T15:54:25Z,2024-03-10T15:56:11Z,1,1,MERGED
+crystal-components,feat: add component `CItemListGroup`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/38,2024-03-09T21:25:44Z,2024-03-10T11:57:13Z,3,1,MERGED
+crystal-components,Add components `CSnackbar` and `CSnackbarManager`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/37,2024-03-03T23:10:02Z,2024-03-10T13:01:49Z,14,3,MERGED
+crystal-components,lang: update translations from Crystal Creations weblate,https://github.com/Crystal-Creations-GbR/crystal-components/pull/21,2024-02-04T19:21:27Z,2024-02-28T21:10:44Z,2,2,MERGED
+crystal-components,test: enable storybook modes,https://github.com/Crystal-Creations-GbR/crystal-components/pull/20,2024-02-04T16:47:46Z,2024-02-04T18:25:50Z,2,2,MERGED
+crystal-components,build(deps-dev): update dev-dependencies,https://github.com/Crystal-Creations-GbR/crystal-components/pull/19,2024-02-04T15:37:46Z,2024-02-28T21:02:15Z,2,13,MERGED
+crystal-components,feat: add component package,https://github.com/Crystal-Creations-GbR/crystal-components/pull/2,2024-01-29T19:04:39Z,2024-02-04T13:27:32Z,15,5,MERGED
+crystal-components,feat: add property `z-index` to `CSnackbar` and `CSnackbarManager`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/106,2024-05-28T10:41:15Z,2024-05-28T16:02:26Z,3,1,MERGED
+crystal-components,feat: add `type` `switch` for `CSettingsItem`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/104,2024-05-23T17:05:38Z,2024-05-23T20:47:15Z,4,1,MERGED
+crystal-components,feat: pass slot `content-full-width` in `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/103,2024-05-22T16:56:13Z,2024-05-22T19:02:18Z,1,1,MERGED
+crystal-components,feat: add slot `title-append` to `CCard`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/102,2024-05-22T16:53:12Z,2024-05-22T22:22:46Z,2,1,MERGED
+crystal-components,feat: add property `disabled` in `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/101,2024-05-05T17:04:28Z,2024-05-05T17:09:27Z,1,1,MERGED
+crystal-components,feat: add fullscreen `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/100,2024-05-02T18:06:26Z,2024-05-02T19:21:28Z,5,1,MERGED
+crystal-components,fix: emit `CCardDialog` `close` event on model-change,https://github.com/Crystal-Creations-GbR/crystal-components/pull/96,2024-04-27T19:45:07Z,2024-04-27T21:06:16Z,1,1,MERGED
+crystal-components,feat: add property `disabled` in `CCard`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/95,2024-04-27T10:53:15Z,2024-04-27T11:03:44Z,1,1,MERGED
+crystal-components,Add properties to `CCard` and `CCardDialog`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/92,2024-04-26T15:44:55Z,2024-04-26T20:40:30Z,2,3,MERGED
+crystal-components,feat: add property `forceScroll` to `CCard`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/90,2024-04-20T21:14:13Z,2024-04-24T20:54:33Z,6,3,MERGED
+crystal-components,Improve `CCard`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/89,2024-04-16T20:05:10Z,2024-04-17T21:32:29Z,11,5,MERGED
+crystal-components,feat: add `CTimeInput`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/122,2024-08-03T18:49:22Z,2024-08-04T09:34:39Z,3,1,MERGED
+crystal-components,feat: add property `height` for `CPrimaryTabs`,https://github.com/Crystal-Creations-GbR/crystal-components/pull/123,2024-12-25T11:42:24Z,2024-12-25T12:45:29Z,2,1,MERGED
+crystal-components,"feat: add properties `subtitle`, `loading` for `CConfirmDialog`",https://github.com/Crystal-Creations-GbR/crystal-components/pull/124,2025-02-16T22:10:49Z,2025-02-17T21:43:22Z,1,1,MERGED

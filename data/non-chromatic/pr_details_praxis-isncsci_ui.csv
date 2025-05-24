@@ -1,0 +1,140 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+ui,Color tokens,https://github.com/praxis-isncsci/ui/pull/10,2023-07-25T15:59:32Z,2023-08-17T16:57:26Z,3,1,MERGED
+ui,Input layout component,https://github.com/praxis-isncsci/ui/pull/8,2023-07-12T18:31:48Z,2023-08-31T18:06:26Z,0,1,MERGED
+ui,Add Storybook,https://github.com/praxis-isncsci/ui/pull/7,2023-07-02T15:21:52Z,2023-07-04T04:48:10Z,0,2,MERGED
+ui,Setup Docker for Ionic development,https://github.com/praxis-isncsci/ui/pull/6,2023-06-30T21:21:12Z,2023-06-30T21:21:54Z,0,1,MERGED
+ui,[Classification dialog] Responsive dialog,https://github.com/praxis-isncsci/ui/pull/82,2023-10-28T06:11:09Z,2023-10-28T06:14:29Z,1,2,MERGED
+ui,Dialog header,https://github.com/praxis-isncsci/ui/pull/81,2023-10-28T05:33:06Z,2023-10-28T05:35:25Z,1,1,MERGED
+ui,Chromatic CI build is failing,https://github.com/praxis-isncsci/ui/pull/80,2023-10-27T06:24:14Z,2023-10-27T16:33:38Z,4,1,MERGED
+ui,App bar,https://github.com/praxis-isncsci/ui/pull/78,2023-10-26T23:41:30Z,2023-10-27T17:30:17Z,2,3,MERGED
+ui,+ Calculator icon,https://github.com/praxis-isncsci/ui/pull/76,2023-10-24T17:05:30Z,2023-10-24T17:07:54Z,1,1,MERGED
+ui,Hamburger menu icon,https://github.com/praxis-isncsci/ui/pull/75,2023-10-23T23:34:23Z,2023-10-23T23:45:33Z,2,1,MERGED
+ui,Classification grid,https://github.com/praxis-isncsci/ui/pull/71,2023-10-21T01:08:02Z,2023-10-21T01:18:06Z,2,3,MERGED
+ui,+ upload artifact,https://github.com/praxis-isncsci/ui/pull/69,2023-10-18T00:24:32Z,2024-01-13T01:00:18Z,2,7,CLOSED
+ui,[bug] App package does not include all files,https://github.com/praxis-isncsci/ui/pull/67,2023-10-17T00:07:18Z,2023-10-17T00:09:39Z,1,1,MERGED
+ui,Added store and provider exports to package,https://github.com/praxis-isncsci/ui/pull/65,2023-10-16T22:10:43Z,2023-10-16T22:14:27Z,1,1,MERGED
+ui,Increased version number to 0.0.2,https://github.com/praxis-isncsci/ui/pull/64,2023-10-16T21:53:01Z,2023-10-16T21:56:24Z,1,1,MERGED
+ui,Export appStore and all providers along with app package,https://github.com/praxis-isncsci/ui/pull/63,2023-10-16T21:23:54Z,2023-10-16T23:43:15Z,2,1,MERGED
+ui,56 icon button,https://github.com/praxis-isncsci/ui/pull/61,2023-10-13T22:36:07Z,2023-10-13T23:11:07Z,4,3,MERGED
+ui,Use icon from SVG sprites,https://github.com/praxis-isncsci/ui/pull/59,2023-10-11T21:27:45Z,2023-10-11T21:58:50Z,2,2,MERGED
+ui,Add all supported icon sizes for `close`,https://github.com/praxis-isncsci/ui/pull/57,2023-10-05T19:00:50Z,2023-10-05T19:03:16Z,1,1,MERGED
+ui,[Classification dialog] Close icon,https://github.com/praxis-isncsci/ui/pull/55,2023-10-05T00:09:54Z,2023-10-05T00:18:32Z,1,1,MERGED
+ui,isncsci-ui publishing pipeline,https://github.com/praxis-isncsci/ui/pull/44,2023-09-30T00:09:19Z,2023-09-30T04:38:41Z,9,1,MERGED
+ui,+ Clinician persona,https://github.com/praxis-isncsci/ui/pull/42,2023-09-27T22:29:00Z,2023-09-27T22:32:18Z,1,1,MERGED
+ui,[Bug] Figma examples not sized for mobile,https://github.com/praxis-isncsci/ui/pull/41,2023-09-27T02:23:57Z,2023-09-27T02:41:07Z,1,1,MERGED
+ui,Documentation for responsive layout milestone,https://github.com/praxis-isncsci/ui/pull/37,2023-09-25T21:29:59Z,2023-09-25T21:38:45Z,1,1,MERGED
+ui,Make color stories more readable,https://github.com/praxis-isncsci/ui/pull/36,2023-09-15T18:46:15Z,2023-09-15T18:52:51Z,1,2,MERGED
+ui,Add use case code to update the values in the totals view,https://github.com/praxis-isncsci/ui/pull/34,2023-09-14T21:36:56Z,2023-09-14T23:10:53Z,2,2,MERGED
+ui,Simple totals view to show raw data,https://github.com/praxis-isncsci/ui/pull/30,2023-09-14T16:57:28Z,2023-09-14T17:42:51Z,3,2,MERGED
+ui,[bug] Stories referencing the design system CSS file have a purple background,https://github.com/praxis-isncsci/ui/pull/29,2023-09-13T00:16:41Z,2023-09-13T00:18:34Z,1,1,MERGED
+ui,Set code formatting rules,https://github.com/praxis-isncsci/ui/pull/27,2023-09-12T23:57:36Z,2023-09-13T00:02:25Z,1,1,MERGED
+ui,Simple grid view to show raw data,https://github.com/praxis-isncsci/ui/pull/18,2023-09-09T00:39:21Z,2023-09-11T23:39:16Z,5,7,MERGED
+ui,11 iframe adapter,https://github.com/praxis-isncsci/ui/pull/12,2023-09-01T23:44:54Z,2023-09-07T21:40:22Z,6,1,MERGED
+ui,[Cell input wire star values] Update elegible cells after setting a star input value,https://github.com/praxis-isncsci/ui/pull/171,2023-12-21T07:10:15Z,2023-12-21T17:49:29Z,1,1,MERGED
+ui,[Cell input wire star values] Update star values when setting initial value,https://github.com/praxis-isncsci/ui/pull/168,2023-12-20T19:58:32Z,2023-12-20T22:54:48Z,1,1,MERGED
+ui,[Cell input] UI controls for extra input for `*` values,https://github.com/praxis-isncsci/ui/pull/165,2023-12-19T19:50:52Z,2023-12-19T20:48:42Z,2,2,MERGED
+ui,Allow the `ExternalMessagePortProvider` to activate the `readonly` application state,https://github.com/praxis-isncsci/ui/pull/164,2023-12-17T06:38:35Z,2023-12-17T06:54:32Z,1,3,MERGED
+ui,Add readonly attributes to web components,https://github.com/praxis-isncsci/ui/pull/162,2023-12-15T20:26:17Z,2023-12-15T21:06:28Z,1,2,MERGED
+ui,[Bug] Classification dialog is not showing,https://github.com/praxis-isncsci/ui/pull/158,2023-12-14T19:00:36Z,2023-12-14T19:28:28Z,2,2,MERGED
+ui,21 calculate,https://github.com/praxis-isncsci/ui/pull/155,2023-12-11T17:33:58Z,2023-12-11T19:51:06Z,1,2,MERGED
+ui,[Bug] Input layout story is missing the extra inputs,https://github.com/praxis-isncsci/ui/pull/151,2023-12-06T21:53:10Z,2023-12-06T21:54:53Z,1,1,MERGED
+ui,Lowest non-key muscles and comments interaction,https://github.com/praxis-isncsci/ui/pull/149,2023-12-06T20:52:49Z,2023-12-06T20:56:54Z,1,3,MERGED
+ui,Lowest non-key muscles and comments UI,https://github.com/praxis-isncsci/ui/pull/148,2023-12-05T23:45:01Z,2023-12-06T20:34:16Z,5,4,MERGED
+ui,Update VAC and DAP use cases,https://github.com/praxis-isncsci/ui/pull/145,2023-12-05T18:19:09Z,2023-12-05T18:24:18Z,1,3,MERGED
+ui,VAC and DAP controls,https://github.com/praxis-isncsci/ui/pull/144,2023-12-03T20:22:11Z,2023-12-03T20:31:08Z,1,1,MERGED
+ui,Set selected value on input button and disable motor buttons when sensory cell is active,https://github.com/praxis-isncsci/ui/pull/141,2023-12-01T18:34:04Z,2023-12-01T19:18:02Z,1,1,MERGED
+ui,Test azure CI build,https://github.com/praxis-isncsci/ui/pull/139,2023-11-30T22:29:40Z,2023-12-01T00:46:45Z,5,2,MERGED
+ui,"Implement states for ISNCSCI input button (e.g. disabled, hover, selected)",https://github.com/praxis-isncsci/ui/pull/137,2023-11-30T18:46:30Z,2023-12-01T00:47:42Z,2,2,MERGED
+ui,Add Storybook stories for shadows,https://github.com/praxis-isncsci/ui/pull/136,2023-11-30T01:37:25Z,2023-11-30T01:40:17Z,1,1,MERGED
+ui,Add instructions for PR review,https://github.com/praxis-isncsci/ui/pull/134,2023-11-29T05:33:57Z,2023-11-29T05:41:08Z,1,1,MERGED
+ui,[Cell input] Input button components,https://github.com/praxis-isncsci/ui/pull/132,2023-11-29T00:44:16Z,2023-11-29T17:55:49Z,1,1,MERGED
+ui,[Cell input] Update cell values use case,https://github.com/praxis-isncsci/ui/pull/130,2023-11-29T00:20:36Z,2023-11-29T00:32:34Z,1,1,MERGED
+ui,Refactored helper methods out of use case,https://github.com/praxis-isncsci/ui/pull/128,2023-11-28T06:47:07Z,2023-11-28T06:51:46Z,1,1,MERGED
+ui,[Cell input] + Regex for motor and sensory values and sensory cell,https://github.com/praxis-isncsci/ui/pull/126,2023-11-28T06:18:21Z,2023-11-28T06:33:35Z,2,1,MERGED
+ui,[Cell input] Update the domain model to support the selection of multiple cells,https://github.com/praxis-isncsci/ui/pull/124,2023-11-26T01:11:40Z,2023-11-26T05:48:18Z,2,2,MERGED
+ui,Button element that supports `*`,https://github.com/praxis-isncsci/ui/pull/121,2023-11-23T01:25:39Z,2023-11-24T00:41:04Z,3,2,MERGED
+ui,Select cell with mouse,https://github.com/praxis-isncsci/ui/pull/112,2023-11-21T05:33:25Z,2023-11-21T06:18:49Z,2,5,MERGED
+ui,[Bug] Grid cells are not populating,https://github.com/praxis-isncsci/ui/pull/109,2023-11-16T21:46:55Z,2023-11-16T21:49:09Z,1,3,MERGED
+ui,Include IsncsciExamProvider in NPM package and publish as v0.0.15,https://github.com/praxis-isncsci/ui/pull/107,2023-11-16T18:20:30Z,2023-11-16T18:22:39Z,1,1,MERGED
+ui,Increase to v0.0.14,https://github.com/praxis-isncsci/ui/pull/103,2023-11-16T01:09:10Z,2023-11-16T01:12:06Z,1,1,MERGED
+ui,Add random exam generation for Connect team to do testing,https://github.com/praxis-isncsci/ui/pull/101,2023-11-16T00:39:42Z,2023-11-16T01:04:02Z,1,2,MERGED
+ui,Bundle and package CSS,https://github.com/praxis-isncsci/ui/pull/93,2023-11-08T23:43:40Z,2023-11-08T23:48:35Z,3,1,MERGED
+ui,Fix package publishing CI,https://github.com/praxis-isncsci/ui/pull/91,2023-11-08T17:48:09Z,2023-11-08T17:55:03Z,2,1,MERGED
+ui,Increas version to v0.0.9,https://github.com/praxis-isncsci/ui/pull/89,2023-11-08T05:56:26Z,2023-11-08T06:00:00Z,1,1,MERGED
+ui,Scaffold web app,https://github.com/praxis-isncsci/ui/pull/88,2023-11-08T05:40:20Z,2023-11-08T05:43:15Z,1,3,MERGED
+ui,Use template in app markup,https://github.com/praxis-isncsci/ui/pull/87,2023-11-07T23:51:47Z,2023-11-07T23:55:51Z,4,1,MERGED
+ui,Classification dialog,https://github.com/praxis-isncsci/ui/pull/85,2023-11-07T00:03:01Z,2023-11-07T00:08:28Z,1,4,MERGED
+ui,"Revert ""Classification dialog""",https://github.com/praxis-isncsci/ui/pull/84,2023-11-06T23:52:35Z,2023-11-06T23:56:14Z,1,1,MERGED
+ui,Classification dialog,https://github.com/praxis-isncsci/ui/pull/83,2023-11-05T06:17:21Z,2023-11-06T19:16:15Z,1,4,MERGED
+ui,Isncsci data input loss when saving partially completed isncsci with missing VAC and DAP or VAC and DAP=UNK,https://github.com/praxis-isncsci/ui/pull/234,2024-03-23T07:47:30Z,2024-03-23T07:54:44Z,1,1,MERGED
+ui,[connect] Expose the calculation function to Praxis Connect,https://github.com/praxis-isncsci/ui/pull/233,2024-03-20T03:23:35Z,2024-03-20T03:27:47Z,1,3,MERGED
+ui,Praxis Connect ISNCSCI control - page freezes when using * as input,https://github.com/praxis-isncsci/ui/pull/231,2024-03-20T01:05:53Z,2024-03-20T01:12:32Z,1,2,MERGED
+ui,[Connect] Make classification style optional,https://github.com/praxis-isncsci/ui/pull/230,2024-03-17T06:47:34Z,2024-03-17T06:50:22Z,1,2,MERGED
+ui,"Praxis Connect ISNCSCI Control - Input values at all levels but leave VAC and DAP blank - once form is saved, all values are missing when form is reopened",https://github.com/praxis-isncsci/ui/pull/222,2024-03-09T01:25:33Z,2024-03-09T01:30:26Z,1,1,MERGED
+ui,[connect] Report the form completion state on change or classification,https://github.com/praxis-isncsci/ui/pull/216,2024-03-03T06:25:12Z,2024-03-03T06:27:16Z,1,2,MERGED
+ui,v1.0.1,https://github.com/praxis-isncsci/ui/pull/215,2024-03-03T05:14:52Z,2024-03-03T05:17:53Z,1,1,MERGED
+ui,[connect] Allow the classification to take place when UNK is present,https://github.com/praxis-isncsci/ui/pull/212,2024-03-01T23:10:57Z,2024-03-03T05:04:17Z,3,3,MERGED
+ui,[connect] Add UNK as input option,https://github.com/praxis-isncsci/ui/pull/210,2024-03-01T20:29:18Z,2024-03-01T22:51:44Z,2,2,MERGED
+ui,[bug] Missing calculated total,https://github.com/praxis-isncsci/ui/pull/206,2024-02-03T02:22:16Z,2024-02-03T02:23:41Z,1,1,MERGED
+ui,Increase version to `v1.0.0`,https://github.com/praxis-isncsci/ui/pull/205,2024-02-03T00:02:17Z,2024-02-03T00:03:05Z,1,1,MERGED
+ui,Fix issue with incoming data,https://github.com/praxis-isncsci/ui/pull/204,2024-02-02T23:45:28Z,2024-02-02T23:49:54Z,1,1,MERGED
+ui,[Bug] Acrylic effect not working in Safari,https://github.com/praxis-isncsci/ui/pull/203,2024-02-02T21:22:39Z,2024-02-02T21:27:18Z,1,1,MERGED
+ui,[connect] Allow loading partial exams,https://github.com/praxis-isncsci/ui/pull/202,2024-02-02T20:21:20Z,2024-03-03T03:58:41Z,4,1,CLOSED
+ui,[bug] Remove duplicate total values `leftTouchTotal` and `rightTouchTotal`,https://github.com/praxis-isncsci/ui/pull/201,2024-02-02T20:07:23Z,2024-02-02T20:13:08Z,1,1,MERGED
+ui,Send back data to external listener on cell change,https://github.com/praxis-isncsci/ui/pull/198,2024-01-25T00:27:10Z,2024-01-26T01:06:26Z,2,7,MERGED
+ui,Dev docs,https://github.com/praxis-isncsci/ui/pull/196,2024-01-23T19:30:33Z,2024-01-24T21:46:28Z,4,3,MERGED
+ui,v0_0_23,https://github.com/praxis-isncsci/ui/pull/194,2024-01-23T01:08:53Z,2024-01-23T01:12:12Z,1,1,MERGED
+ui,"Margins, paddings, and max width",https://github.com/praxis-isncsci/ui/pull/193,2024-01-22T22:45:32Z,2024-01-23T01:01:34Z,2,4,MERGED
+ui,[bug] Input buttons getting cut on pixel phone,https://github.com/praxis-isncsci/ui/pull/191,2024-01-20T23:34:52Z,2024-01-20T23:55:08Z,1,1,MERGED
+ui,[bug] Key point diagram not loading on dev site,https://github.com/praxis-isncsci/ui/pull/189,2024-01-20T22:56:32Z,2024-01-20T22:59:43Z,1,1,MERGED
+ui,Dynamically change the key points diagram colors based on the exam values,https://github.com/praxis-isncsci/ui/pull/187,2024-01-16T20:00:58Z,2024-01-17T05:27:11Z,2,3,MERGED
+ui,Key points diagram,https://github.com/praxis-isncsci/ui/pull/186,2024-01-13T00:58:21Z,2024-01-13T01:01:18Z,1,1,MERGED
+ui,Add controllers to package,https://github.com/praxis-isncsci/ui/pull/182,2024-01-10T21:32:51Z,2024-01-10T21:43:29Z,1,1,MERGED
+ui,Generate typings,https://github.com/praxis-isncsci/ui/pull/181,2024-01-10T19:16:17Z,2024-01-10T19:18:57Z,1,1,MERGED
+ui,Add icons to **NPM** package,https://github.com/praxis-isncsci/ui/pull/180,2024-01-08T19:38:44Z,2024-01-08T19:42:12Z,2,1,MERGED
+ui,Added core/helpers to package,https://github.com/praxis-isncsci/ui/pull/178,2024-01-08T17:55:59Z,2024-01-08T18:12:24Z,1,1,MERGED
+ui,Fixed inputs and imports,https://github.com/praxis-isncsci/ui/pull/176,2024-01-08T01:30:32Z,2024-01-08T17:29:29Z,4,1,MERGED
+ui,Update extra input controls for external incoming exam data,https://github.com/praxis-isncsci/ui/pull/174,2024-01-06T00:20:18Z,2024-01-06T01:46:32Z,1,5,MERGED
+ui,[Cell input wire star values] Refresh the interface,https://github.com/praxis-isncsci/ui/pull/173,2024-01-05T02:53:16Z,2024-01-05T03:08:49Z,2,2,MERGED
+ui,Add error styles to cell,https://github.com/praxis-isncsci/ui/pull/172,2024-01-04T22:38:21Z,2024-01-04T22:50:05Z,2,1,MERGED
+ui,version 1.0.8,https://github.com/praxis-isncsci/ui/pull/248,2024-05-16T23:51:21Z,2024-05-16T23:55:26Z,1,2,MERGED
+ui,[Bug] Consider normal/not normal dropdown is not updating correctly,https://github.com/praxis-isncsci/ui/pull/247,2024-05-13T22:53:16Z,2024-05-13T23:03:04Z,2,3,MERGED
+ui,Add clear form functionality and expose to embedding api,https://github.com/praxis-isncsci/ui/pull/245,2024-04-29T04:58:03Z,2024-04-29T05:35:45Z,2,3,MERGED
+ui,Recreate missing consider normal/not normal error on cell when loading an existing form,https://github.com/praxis-isncsci/ui/pull/242,2024-04-28T06:41:32Z,2024-04-28T06:49:06Z,1,3,MERGED
+ui,[239] Praxis Connect ISNCSCI control - Body diagram is not centred,https://github.com/praxis-isncsci/ui/pull/240,2024-04-25T19:13:21Z,2024-04-28T06:47:17Z,0,1,MERGED
+ui,[227] Overlapping human body image and input data,https://github.com/praxis-isncsci/ui/pull/238,2024-04-17T07:10:36Z,2024-04-17T07:18:26Z,2,2,MERGED
+ui,[228] Expect to get the message for required missing fields while clicking the calculate button.,https://github.com/praxis-isncsci/ui/pull/237,2024-04-17T05:50:06Z,2024-04-17T06:10:49Z,2,2,MERGED
+ui,new version 1.0.14,https://github.com/praxis-isncsci/ui/pull/264,2024-07-18T18:07:23Z,2024-07-18T18:09:27Z,1,1,MERGED
+ui,backspace value reset,https://github.com/praxis-isncsci/ui/pull/263,2024-07-18T16:36:33Z,2024-07-18T17:41:25Z,1,1,MERGED
+ui,remove unknown from lowest key myscle,https://github.com/praxis-isncsci/ui/pull/262,2024-07-18T16:08:28Z,2024-07-18T16:11:14Z,1,1,MERGED
+ui,version 1.0.13,https://github.com/praxis-isncsci/ui/pull/261,2024-07-17T04:46:56Z,2024-07-17T04:49:05Z,1,1,MERGED
+ui,fix text input in textarea,https://github.com/praxis-isncsci/ui/pull/260,2024-07-17T04:18:52Z,2024-07-17T04:22:54Z,1,1,MERGED
+ui,version update to 1.0.12,https://github.com/praxis-isncsci/ui/pull/259,2024-07-16T21:22:55Z,2024-07-16T21:25:21Z,1,1,MERGED
+ui,29371 unk lowest muscle,https://github.com/praxis-isncsci/ui/pull/258,2024-07-15T23:00:44Z,2024-07-15T23:01:32Z,1,2,MERGED
+ui,version update to 1.0.11,https://github.com/praxis-isncsci/ui/pull/256,2024-07-11T21:39:09Z,2024-07-11T21:48:21Z,1,1,MERGED
+ui,updates to keyboard entry,https://github.com/praxis-isncsci/ui/pull/255,2024-07-11T16:41:28Z,2024-07-11T21:29:06Z,3,3,MERGED
+ui,show unk btn while build,https://github.com/praxis-isncsci/ui/pull/254,2024-07-10T23:06:18Z,2024-07-10T23:09:05Z,1,1,MERGED
+ui,fix classification panel,https://github.com/praxis-isncsci/ui/pull/253,2024-07-10T21:36:25Z,2024-07-10T21:38:22Z,1,1,MERGED
+ui,update version to 1.0.10,https://github.com/praxis-isncsci/ui/pull/252,2024-07-10T18:28:30Z,2024-07-10T18:30:46Z,1,1,MERGED
+ui,change to version to 1.0.9,https://github.com/praxis-isncsci/ui/pull/251,2024-07-10T18:04:30Z,2024-07-10T18:24:36Z,1,1,MERGED
+ui,intro style attribute,https://github.com/praxis-isncsci/ui/pull/250,2024-07-10T17:50:00Z,2024-07-10T17:56:42Z,1,6,MERGED
+ui,29232 keyboard entry highlight cells,https://github.com/praxis-isncsci/ui/pull/249,2024-07-08T18:54:04Z,2024-07-09T00:01:04Z,4,8,MERGED
+ui,motor abbreviation fix,https://github.com/praxis-isncsci/ui/pull/275,2024-10-09T22:48:07Z,2024-10-09T22:50:11Z,0,1,MERGED
+ui,29988 deselect input buttons,https://github.com/praxis-isncsci/ui/pull/274,2024-10-07T18:51:44Z,2024-10-07T18:57:16Z,0,3,MERGED
+ui,deselect when value entered into range of cells and version update,https://github.com/praxis-isncsci/ui/pull/273,2024-10-01T20:08:16Z,2024-10-01T20:55:28Z,0,1,MERGED
+ui,slot update and version update,https://github.com/praxis-isncsci/ui/pull/272,2024-09-27T04:48:25Z,2024-09-27T18:12:13Z,0,1,MERGED
+ui,versions update plus fixing accessing cellcommentsdisplay,https://github.com/praxis-isncsci/ui/pull/271,2024-09-26T22:15:55Z,2024-09-26T22:41:45Z,0,1,MERGED
+ui,version update to 16,https://github.com/praxis-isncsci/ui/pull/270,2024-09-26T19:51:47Z,2024-09-26T19:54:40Z,0,1,MERGED
+ui,29234 specify text comment box new,https://github.com/praxis-isncsci/ui/pull/269,2024-09-25T20:45:02Z,2024-09-26T19:14:14Z,2,4,MERGED
+ui,setActiveCell.useCase unit test update,https://github.com/praxis-isncsci/ui/pull/268,2024-09-20T20:33:37Z,2024-09-20T20:37:54Z,1,1,MERGED
+ui,range selection by mouse click,https://github.com/praxis-isncsci/ui/pull/267,2024-09-17T20:50:33Z,2024-09-18T16:41:14Z,1,1,MERGED
+ui,version update to 15_ExamData accessible,https://github.com/praxis-isncsci/ui/pull/266,2024-08-26T16:16:50Z,2024-08-26T18:47:45Z,1,1,MERGED
+ui,examData return to make it accessible,https://github.com/praxis-isncsci/ui/pull/265,2024-08-14T16:36:56Z,2024-08-21T18:40:24Z,1,1,MERGED
+ui,updateCellCommentsDisplay,https://github.com/praxis-isncsci/ui/pull/281,2024-11-29T01:07:49Z,2024-11-29T07:27:03Z,0,1,MERGED
+ui,version update and cellComments added to extra inputs for ionic acces…,https://github.com/praxis-isncsci/ui/pull/280,2024-11-28T23:01:10Z,2024-11-28T23:31:16Z,0,2,MERGED
+ui,fixing cellcomments issue,https://github.com/praxis-isncsci/ui/pull/279,2024-11-28T22:12:18Z,2024-11-28T22:21:49Z,0,1,MERGED
+ui,move multi select toggle to PraxisInsncsciInput,https://github.com/praxis-isncsci/ui/pull/278,2024-11-14T23:05:36Z,2024-11-14T23:06:40Z,0,1,MERGED
+ui,version update to 21,https://github.com/praxis-isncsci/ui/pull/277,2024-11-13T19:32:23Z,2024-11-13T19:33:39Z,0,1,MERGED
+ui,30431 multiple cells selection optional,https://github.com/praxis-isncsci/ui/pull/276,2024-11-13T17:02:03Z,2024-11-13T19:07:18Z,0,3,MERGED
+ui,version update 25,https://github.com/praxis-isncsci/ui/pull/283,2025-02-19T17:47:38Z,2025-02-19T18:37:23Z,0,1,MERGED
+ui,31708 motor sensory impairment,https://github.com/praxis-isncsci/ui/pull/282,2025-02-18T21:25:00Z,2025-02-18T22:52:24Z,0,2,MERGED

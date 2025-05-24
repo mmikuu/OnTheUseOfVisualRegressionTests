@@ -1,0 +1,339 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+visyn_core,Hide dragmode UI option,https://github.com/datavisyn/visyn_core/pull/15,2023-03-30T10:48:27Z,2023-04-05T08:48:58Z,0,1,MERGED
+visyn_core,feat: Add experimental score logic to VisynRanking,https://github.com/datavisyn/visyn_core/pull/14,2023-03-30T07:53:18Z,2023-04-19T14:06:56Z,6,10,MERGED
+visyn_core,Added mantine provider to visyn app provider,https://github.com/datavisyn/visyn_core/pull/13,2023-03-29T07:27:02Z,2023-05-05T08:13:41Z,2,9,MERGED
+visyn_core,feat: new visyn header,https://github.com/datavisyn/visyn_core/pull/11,2023-03-17T11:12:30Z,2023-04-13T12:16:03Z,4,12,MERGED
+visyn_core,Release v1.1.0,https://github.com/datavisyn/visyn_core/pull/10,2023-03-17T09:13:50Z,2023-03-17T09:31:29Z,0,15,MERGED
+visyn_core,"Revert ""Fix VisynApp bug""",https://github.com/datavisyn/visyn_core/pull/9,2023-03-16T12:46:04Z,2023-03-16T13:07:45Z,0,1,MERGED
+visyn_core,Add api/clientConfig to more easily configure the clientConfig,https://github.com/datavisyn/visyn_core/pull/8,2023-03-13T07:09:12Z,2023-03-13T13:31:29Z,0,1,MERGED
+visyn_core,moving chromatic and stories to visyn_core,https://github.com/datavisyn/visyn_core/pull/7,2023-03-13T04:08:58Z,2023-09-27T12:38:18Z,3,16,CLOSED
+visyn_core,Fix VisynApp bug,https://github.com/datavisyn/visyn_core/pull/6,2023-03-08T14:04:16Z,2023-03-08T15:19:57Z,1,1,MERGED
+visyn_core,Make VisynRanking lazy,https://github.com/datavisyn/visyn_core/pull/4,2023-03-02T12:44:22Z,2023-03-02T12:46:50Z,0,1,MERGED
+visyn_core,Release 1.0.0,https://github.com/datavisyn/visyn_core/pull/3,2023-03-01T14:03:29Z,2023-03-01T16:07:04Z,0,1,MERGED
+visyn_core,Add basic telemetry infrastructure,https://github.com/datavisyn/visyn_core/pull/2,2023-02-24T12:32:21Z,2023-07-18T09:02:27Z,7,14,MERGED
+visyn_core,Arrow function migration,https://github.com/datavisyn/visyn_core/pull/1,2023-02-24T10:20:45Z,2023-02-24T10:41:08Z,0,1,MERGED
+visyn_core,"Removing drawer from sidebar, upgrade storybook",https://github.com/datavisyn/visyn_core/pull/40,2023-05-31T13:45:15Z,2023-06-01T08:07:59Z,0,7,MERGED
+visyn_core,feat: vis custom colors and bug fixes,https://github.com/datavisyn/visyn_core/pull/39,2023-05-29T23:14:12Z,2023-06-01T14:23:01Z,1,21,MERGED
+visyn_core,Fix: Pin pyright to version 1.1.308,https://github.com/datavisyn/visyn_core/pull/37,2023-05-22T10:56:13Z,2023-05-22T10:58:48Z,0,1,MERGED
+visyn_core,upgrading storybook to 7,https://github.com/datavisyn/visyn_core/pull/36,2023-05-22T10:52:45Z,2023-06-01T12:38:24Z,2,4,CLOSED
+visyn_core,feat: add derived Taggle for VisynRanking,https://github.com/datavisyn/visyn_core/pull/35,2023-05-17T10:30:31Z,2023-10-25T08:48:49Z,1,301,MERGED
+visyn_core,Release v2.0.0,https://github.com/datavisyn/visyn_core/pull/34,2023-05-16T11:14:56Z,2023-05-16T11:30:27Z,0,44,MERGED
+visyn_core,fix: add context middleware last to ensure it is loaded after init_app,https://github.com/datavisyn/visyn_core/pull/33,2023-05-16T10:11:28Z,2023-05-16T10:12:03Z,0,1,MERGED
+visyn_core,Change order of init_app to ensure every visyn feature is initialized,https://github.com/datavisyn/visyn_core/pull/32,2023-05-16T06:15:17Z,2023-05-16T06:38:54Z,0,1,MERGED
+visyn_core,Vis bugs and improvements,https://github.com/datavisyn/visyn_core/pull/31,2023-05-11T14:10:44Z,2023-05-22T12:01:32Z,0,12,MERGED
+visyn_core,Mantine 6,https://github.com/datavisyn/visyn_core/pull/30,2023-05-11T10:40:52Z,2023-06-01T08:10:54Z,1,14,MERGED
+visyn_core,refactor: migrate clientConfig to /api/v1/visyn/clientConfig,https://github.com/datavisyn/visyn_core/pull/29,2023-05-08T10:19:59Z,2023-05-16T06:42:01Z,1,2,MERGED
+visyn_core,fix: avoid unmount if client config is reloaded,https://github.com/datavisyn/visyn_core/pull/28,2023-05-05T09:04:38Z,2023-05-05T09:06:23Z,0,1,MERGED
+visyn_core,React 18 Migration,https://github.com/datavisyn/visyn_core/pull/27,2023-04-28T06:31:50Z,2023-05-16T07:17:56Z,0,20,MERGED
+visyn_core,Migrate clientConfig to Pydantic models,https://github.com/datavisyn/visyn_core/pull/26,2023-04-27T06:22:41Z,2023-04-27T09:03:45Z,0,3,MERGED
+visyn_core,Release v1.2.0,https://github.com/datavisyn/visyn_core/pull/25,2023-04-26T05:53:07Z,2023-04-26T07:28:03Z,0,53,MERGED
+visyn_core,feat: add build date to about dialog,https://github.com/datavisyn/visyn_core/pull/24,2023-04-25T07:41:02Z,2023-04-25T07:52:23Z,0,3,MERGED
+visyn_core,feat: disable border in visyn header,https://github.com/datavisyn/visyn_core/pull/23,2023-04-25T07:39:03Z,2023-04-25T07:52:34Z,0,2,MERGED
+visyn_core,feat: add `useEvent` hook,https://github.com/datavisyn/visyn_core/pull/22,2023-04-25T06:59:04Z,2023-04-25T07:45:49Z,0,2,MERGED
+visyn_core,Add cypress setting to visyn_core for backend adaptions,https://github.com/datavisyn/visyn_core/pull/21,2023-04-21T10:42:46Z,2023-04-21T10:46:15Z,0,1,MERGED
+visyn_core,Passing data to createScoreColumnFunc in EagerVisynRanking,https://github.com/datavisyn/visyn_core/pull/20,2023-04-18T12:06:40Z,2023-04-18T12:10:02Z,0,5,MERGED
+visyn_core,fix: bar chart issues,https://github.com/datavisyn/visyn_core/pull/19,2023-04-13T09:04:25Z,2023-04-25T07:45:09Z,2,10,MERGED
+visyn_core,Upgrade to Mantine 6 and fixed breaking changes,https://github.com/datavisyn/visyn_core/pull/18,2023-04-05T09:59:36Z,2023-05-31T11:49:11Z,1,2,CLOSED
+visyn_core,Release 1.1.1,https://github.com/datavisyn/visyn_core/pull/17,2023-04-03T14:00:29Z,2023-04-03T14:41:59Z,0,5,MERGED
+visyn_core,"fix: add data-cy to login username, password and submit",https://github.com/datavisyn/visyn_core/pull/16,2023-04-03T13:28:05Z,2023-04-03T13:54:48Z,0,1,MERGED
+visyn_core,Release 3.1.0,https://github.com/datavisyn/visyn_core/pull/71,2023-07-28T06:44:49Z,2023-07-28T08:30:55Z,0,43,MERGED
+visyn_core,deps: update to lineupjs@4.9.0,https://github.com/datavisyn/visyn_core/pull/70,2023-07-27T13:15:20Z,2023-08-08T11:15:04Z,2,3,MERGED
+visyn_core,feat: add `log_level` config value to settings,https://github.com/datavisyn/visyn_core/pull/69,2023-07-24T12:52:06Z,2023-07-24T13:28:09Z,0,2,MERGED
+visyn_core,feat: add oauth2_access_token to User model,https://github.com/datavisyn/visyn_core/pull/68,2023-07-21T14:40:32Z,2023-08-08T11:14:40Z,3,3,MERGED
+visyn_core,deps: Upgrade most python deps to latest,https://github.com/datavisyn/visyn_core/pull/67,2023-07-19T14:15:48Z,2023-08-21T11:00:54Z,7,15,MERGED
+visyn_core,feat: Add OAuth2 Security Store,https://github.com/datavisyn/visyn_core/pull/66,2023-07-19T11:26:22Z,2023-07-19T13:49:14Z,0,3,MERGED
+visyn_core,feat: adding shape to scatterplot tooltip,https://github.com/datavisyn/visyn_core/pull/64,2023-07-14T11:55:45Z,2023-09-28T12:16:41Z,0,1,MERGED
+visyn_core,feat: add notifications and modals providers,https://github.com/datavisyn/visyn_core/pull/63,2023-07-13T12:15:20Z,2023-07-24T13:47:14Z,0,4,MERGED
+visyn_core,feat: add correlation matrix,https://github.com/datavisyn/visyn_core/pull/62,2023-07-12T12:22:40Z,2023-09-27T12:39:07Z,2,60,CLOSED
+visyn_core,feat: add heatmap visualization,https://github.com/datavisyn/visyn_core/pull/60,2023-07-11T12:45:54Z,2023-09-27T12:38:55Z,2,68,CLOSED
+visyn_core,nightly build of main and develop,https://github.com/datavisyn/visyn_core/pull/59,2023-07-06T12:24:58Z,2023-07-06T13:20:55Z,2,3,MERGED
+visyn_core,feat: propagate `bottom` prop to `AboutAppModal`,https://github.com/datavisyn/visyn_core/pull/58,2023-07-05T11:00:02Z,2023-07-05T16:38:17Z,2,2,MERGED
+visyn_core,Release 3.0.1,https://github.com/datavisyn/visyn_core/pull/57,2023-07-03T14:21:44Z,2023-07-03T14:28:07Z,0,7,MERGED
+visyn_core,added utility function to get the time from now to a given date,https://github.com/datavisyn/visyn_core/pull/56,2023-07-03T11:33:58Z,2023-07-04T10:06:15Z,3,5,MERGED
+visyn_core,feat: add Raincloud plot,https://github.com/datavisyn/visyn_core/pull/55,2023-07-02T21:39:45Z,2023-09-27T12:38:44Z,2,31,CLOSED
+visyn_core,feat: replace Plotly bar chart with React version,https://github.com/datavisyn/visyn_core/pull/54,2023-07-02T20:15:57Z,2023-09-27T12:38:30Z,2,62,CLOSED
+visyn_core,feat: allow changing of column order vis,https://github.com/datavisyn/visyn_core/pull/53,2023-06-28T09:15:30Z,2023-06-29T09:04:24Z,0,1,MERGED
+visyn_core,Vis hackathon - Correlation matrix,https://github.com/datavisyn/visyn_core/pull/52,2023-06-27T09:33:08Z,2023-07-12T12:23:00Z,2,21,CLOSED
+visyn_core,Parallel coordinates plot,https://github.com/datavisyn/visyn_core/pull/51,2023-06-26T09:11:25Z,2023-07-11T08:33:31Z,1,31,CLOSED
+visyn_core,Vis hackathon heatmap,https://github.com/datavisyn/visyn_core/pull/50,2023-06-22T12:32:25Z,2023-07-11T12:46:51Z,1,154,CLOSED
+visyn_core,refactor: generalize some code of vis library,https://github.com/datavisyn/visyn_core/pull/49,2023-06-21T14:01:00Z,2023-09-27T12:39:24Z,16,22,CLOSED
+visyn_core,fix: Error in /api/idtypes endpoint,https://github.com/datavisyn/visyn_core/pull/43,2023-06-16T04:29:14Z,2023-06-20T07:06:30Z,0,1,MERGED
+visyn_core,"Adding filter buttons, small quality of life changes",https://github.com/datavisyn/visyn_core/pull/42,2023-06-05T12:13:21Z,2023-06-26T13:46:12Z,1,28,CLOSED
+visyn_core,Release v3.0.0,https://github.com/datavisyn/visyn_core/pull/41,2023-06-02T08:28:26Z,2023-06-02T20:56:48Z,2,36,MERGED
+visyn_core,Release 5.0.0,https://github.com/datavisyn/visyn_core/pull/106,2023-10-31T15:30:49Z,2023-10-31T15:40:12Z,0,310,MERGED
+visyn_core,"Revert ""deps: pin @types/react to 18.2.31""",https://github.com/datavisyn/visyn_core/pull/105,2023-10-27T07:08:46Z,2023-10-27T07:42:38Z,0,2,MERGED
+visyn_core,deps: pin @types/react to 18.2.31,https://github.com/datavisyn/visyn_core/pull/103,2023-10-25T15:38:10Z,2023-10-25T15:48:16Z,0,1,MERGED
+visyn_core,fix: typings causing prepack failure,https://github.com/datavisyn/visyn_core/pull/102,2023-10-25T15:09:19Z,2023-10-27T06:59:59Z,2,1,CLOSED
+visyn_core,fix: fix storybook by wrapping all Vis in VisProvider,https://github.com/datavisyn/visyn_core/pull/101,2023-10-17T12:50:08Z,2023-11-06T18:17:47Z,0,4,MERGED
+visyn_core,Release 4.1.1,https://github.com/datavisyn/visyn_core/pull/98,2023-10-06T15:32:57Z,2023-10-06T15:37:56Z,0,4,MERGED
+visyn_core,deps: pin werkzeug to 2.3.7,https://github.com/datavisyn/visyn_core/pull/96,2023-10-02T07:00:31Z,2023-10-02T07:30:45Z,0,2,MERGED
+visyn_core,Release 4.1.0,https://github.com/datavisyn/visyn_core/pull/95,2023-09-29T07:41:07Z,2023-09-29T09:18:39Z,0,9,MERGED
+visyn_core,Mantine 7,https://github.com/datavisyn/visyn_core/pull/94,2023-09-29T07:11:55Z,2023-11-17T09:20:48Z,4,16,CLOSED
+visyn_core,deps: update to Cypress 13.2,https://github.com/datavisyn/visyn_core/pull/93,2023-09-27T09:10:23Z,2023-09-27T11:40:20Z,0,1,MERGED
+visyn_core,docs: Add oauth2/keycloak test environment,https://github.com/datavisyn/visyn_core/pull/86,2023-09-25T14:26:28Z,2023-09-26T07:41:58Z,0,2,MERGED
+visyn_core,Rspack configuration,https://github.com/datavisyn/visyn_core/pull/84,2023-09-14T08:00:21Z,2024-02-29T12:20:16Z,0,7,MERGED
+visyn_core,Set formatter language to English in fromNow util function,https://github.com/datavisyn/visyn_core/pull/83,2023-09-06T10:45:24Z,2023-09-07T09:21:30Z,0,1,MERGED
+visyn_core,Release 4.0.0,https://github.com/datavisyn/visyn_core/pull/82,2023-08-28T07:29:12Z,2023-08-28T08:04:38Z,0,41,MERGED
+visyn_core,feat: added ability to define multiple email fields in alb and oauth2 stores,https://github.com/datavisyn/visyn_core/pull/81,2023-08-23T12:36:24Z,2023-08-24T13:45:11Z,2,3,MERGED
+visyn_core,fix: typing error for `context` in view plugin,https://github.com/datavisyn/visyn_core/pull/80,2023-08-17T08:19:25Z,2023-08-24T12:28:25Z,1,3,CLOSED
+visyn_core,feat: add context to visyn view components,https://github.com/datavisyn/visyn_core/pull/79,2023-08-16T12:37:21Z,2023-09-26T07:46:20Z,0,7,MERGED
+visyn_core,feat: add changelog component,https://github.com/datavisyn/visyn_core/pull/78,2023-08-14T09:23:29Z,2024-10-24T11:18:31Z,14,47,CLOSED
+visyn_core,deps: change pyjwt to pyjwt[crypto],https://github.com/datavisyn/visyn_core/pull/77,2023-08-14T08:05:28Z,2023-08-14T08:06:34Z,0,1,MERGED
+visyn_core,"feat: add new plots (heatmap, correlation matrix, raincloud) and refactor general vis",https://github.com/datavisyn/visyn_core/pull/76,2023-08-14T06:09:57Z,2023-09-27T12:36:41Z,10,290,MERGED
+visyn_core,Upgrade RDKit to 2023.3.2 and improve tests,https://github.com/datavisyn/visyn_core/pull/75,2023-08-13T08:19:20Z,2023-08-13T08:19:39Z,0,1,MERGED
+visyn_core,deps: Upgrade mantine to ~6.0.19,https://github.com/datavisyn/visyn_core/pull/74,2023-08-12T14:45:59Z,2023-08-12T14:48:26Z,0,1,MERGED
+visyn_core,feat: add functionality to verify token from ALB and add on_user_loaded hook,https://github.com/datavisyn/visyn_core/pull/73,2023-08-11T19:00:57Z,2023-08-14T07:28:00Z,1,8,MERGED
+visyn_core,deps: Pin mantine/* to 6.0.17,https://github.com/datavisyn/visyn_core/pull/72,2023-08-09T10:34:01Z,2023-08-09T10:38:54Z,0,1,MERGED
+visyn_core,fix: violin plot bug,https://github.com/datavisyn/visyn_core/pull/137,2023-12-29T11:21:36Z,2024-01-10T09:32:24Z,2,4,CLOSED
+visyn_core,feat: add get_default_postgres_url utility,https://github.com/datavisyn/visyn_core/pull/136,2023-12-21T12:25:54Z,2023-12-22T12:50:10Z,0,2,MERGED
+visyn_core,Release 7.0.0,https://github.com/datavisyn/visyn_core/pull/134,2023-12-14T14:05:58Z,2023-12-14T14:12:44Z,0,10,MERGED
+visyn_core,Use correct workflow branches,https://github.com/datavisyn/visyn_core/pull/133,2023-12-14T13:55:01Z,2023-12-14T14:00:53Z,0,1,MERGED
+visyn_core,deps: migrate to mantine7 with support for mantine6,https://github.com/datavisyn/visyn_core/pull/131,2023-12-12T07:50:14Z,2024-01-24T09:28:20Z,0,25,MERGED
+visyn_core,Handle null value only columns in raincloud plot,https://github.com/datavisyn/visyn_core/pull/130,2023-12-11T16:49:47Z,2024-01-10T13:26:16Z,0,2,MERGED
+visyn_core,Add possibility to specify which vis types to show in the sidebar,https://github.com/datavisyn/visyn_core/pull/129,2023-12-06T09:52:41Z,2023-12-07T10:17:34Z,1,1,MERGED
+visyn_core,test: add `data-testid` to proxy view iframe,https://github.com/datavisyn/visyn_core/pull/128,2023-12-05T15:39:40Z,2023-12-05T21:03:23Z,0,1,MERGED
+visyn_core,fix: switch to storybook config from visyn_scripts,https://github.com/datavisyn/visyn_core/pull/127,2023-12-01T07:56:51Z,2023-12-01T10:21:09Z,0,1,MERGED
+visyn_core,Release 6.0.0,https://github.com/datavisyn/visyn_core/pull/126,2023-11-21T10:41:54Z,2023-11-21T11:38:19Z,0,45,MERGED
+visyn_core,deps: add @emotion/react,https://github.com/datavisyn/visyn_core/pull/124,2023-11-20T12:20:20Z,2023-11-20T12:36:29Z,0,1,MERGED
+visyn_core,fix: violin plot x-axis labels misalignment,https://github.com/datavisyn/visyn_core/pull/123,2023-11-17T17:17:05Z,2023-11-21T10:55:37Z,2,7,MERGED
+visyn_core,fix: language strings,https://github.com/datavisyn/visyn_core/pull/122,2023-11-17T10:08:08Z,2023-11-20T16:04:32Z,0,4,MERGED
+visyn_core,Mantine 7,https://github.com/datavisyn/visyn_core/pull/121,2023-11-17T09:22:17Z,2023-12-12T07:46:53Z,0,18,CLOSED
+visyn_core,feat: add `withCSSVariables` to default Mantine provider props,https://github.com/datavisyn/visyn_core/pull/120,2023-11-16T13:22:53Z,2024-06-04T10:11:13Z,1,1,CLOSED
+visyn_core,fix: bar chart crash issue in Various bugs vis components #99,https://github.com/datavisyn/visyn_core/pull/119,2023-11-16T13:14:05Z,2023-11-16T14:49:27Z,1,1,MERGED
+visyn_core,Added scoreMeta as property of taggle column descs,https://github.com/datavisyn/visyn_core/pull/118,2023-11-15T14:07:52Z,2024-06-04T10:10:36Z,1,1,CLOSED
+visyn_core,fix: hide filter if no callback is provided,https://github.com/datavisyn/visyn_core/pull/117,2023-11-15T13:36:48Z,2023-11-20T17:19:28Z,2,5,MERGED
+visyn_core,Extended ISingleScoreResult to except column desc directly,https://github.com/datavisyn/visyn_core/pull/113,2023-11-09T09:24:41Z,2023-11-10T16:11:35Z,0,1,MERGED
+visyn_core,refactor: log entire token payload if no email field matched,https://github.com/datavisyn/visyn_core/pull/111,2023-11-06T18:07:22Z,2023-11-20T10:18:03Z,0,1,MERGED
+visyn_core,fix: fix storybook by wrapping all Vis in VisProvider,https://github.com/datavisyn/visyn_core/pull/110,2023-11-06T15:02:40Z,2023-11-06T18:18:01Z,1,1,CLOSED
+visyn_core,feature: prevent csv injection in xlsx export,https://github.com/datavisyn/visyn_core/pull/108,2023-11-06T10:34:17Z,2023-11-07T08:35:06Z,2,3,MERGED
+visyn_core,Node 20 and no_dist,https://github.com/datavisyn/visyn_core/pull/107,2023-11-03T15:56:32Z,2023-11-09T19:02:00Z,0,7,MERGED
+visyn_core,Refactor: change cellline color,https://github.com/datavisyn/visyn_core/pull/242,2024-03-28T17:21:54Z,2024-03-28T17:39:23Z,0,3,MERGED
+visyn_core,Release 9.2.0,https://github.com/datavisyn/visyn_core/pull/241,2024-03-28T13:24:27Z,2024-03-28T13:32:32Z,0,28,MERGED
+visyn_core,fix(scatterplot): use label in selection labels,https://github.com/datavisyn/visyn_core/pull/240,2024-03-28T13:14:15Z,2024-03-28T13:18:58Z,0,2,MERGED
+visyn_core,Feat: Add custom fontawesome icons,https://github.com/datavisyn/visyn_core/pull/239,2024-03-26T16:03:24Z,2024-03-28T07:42:02Z,2,1,MERGED
+visyn_core,Release v9.1.3,https://github.com/datavisyn/visyn_core/pull/235,2024-03-20T12:15:18Z,2024-03-20T12:53:22Z,4,3,MERGED
+visyn_core,refactor: rename data-cy to data-testid,https://github.com/datavisyn/visyn_core/pull/234,2024-03-20T10:54:28Z,2024-03-20T10:58:23Z,0,1,MERGED
+visyn_core,Release 9.1.2,https://github.com/datavisyn/visyn_core/pull/233,2024-03-19T07:27:50Z,2024-03-19T07:59:28Z,0,7,MERGED
+visyn_core,hotfix: scatterplot labels,https://github.com/datavisyn/visyn_core/pull/232,2024-03-18T15:52:06Z,2024-03-18T19:06:17Z,2,3,MERGED
+visyn_core,feat: resize font-sizes in mantine provider,https://github.com/datavisyn/visyn_core/pull/228,2024-03-13T10:02:08Z,2024-11-15T11:01:53Z,4,9,CLOSED
+visyn_core,Release 9.1.1,https://github.com/datavisyn/visyn_core/pull/226,2024-03-12T10:41:24Z,2024-03-12T10:59:49Z,0,8,MERGED
+visyn_core,Release 9.1.0,https://github.com/datavisyn/visyn_core/pull/221,2024-03-08T12:14:03Z,2024-03-08T21:38:36Z,0,9,MERGED
+visyn_core,fix: stale state in vis when changing vis type,https://github.com/datavisyn/visyn_core/pull/220,2024-03-07T16:38:07Z,2024-03-12T10:29:06Z,1,2,MERGED
+visyn_core,feat: Add vis colors as ts constants,https://github.com/datavisyn/visyn_core/pull/218,2024-03-05T13:55:41Z,2024-03-21T07:53:33Z,5,21,MERGED
+visyn_core,feat: extend mantine color types to add autocomplete,https://github.com/datavisyn/visyn_core/pull/217,2024-03-05T13:27:05Z,2024-03-18T11:13:14Z,3,6,CLOSED
+visyn_core,fix(ui): font size of mantine anchors (links),https://github.com/datavisyn/visyn_core/pull/213,2024-03-04T09:43:11Z,2024-03-04T12:04:58Z,0,1,MERGED
+visyn_core,deps(npm): lineupjs@4.10.0,https://github.com/datavisyn/visyn_core/pull/211,2024-03-04T07:37:24Z,2024-03-04T08:53:16Z,0,3,MERGED
+visyn_core,Fix: font sizes (mantine),https://github.com/datavisyn/visyn_core/pull/209,2024-02-29T16:17:31Z,2024-02-29T17:31:32Z,0,1,MERGED
+visyn_core,Release 9.0.0,https://github.com/datavisyn/visyn_core/pull/208,2024-02-29T12:22:54Z,2024-02-29T12:28:44Z,0,24,MERGED
+visyn_core,Release 8.1.3,https://github.com/datavisyn/visyn_core/pull/207,2024-02-29T11:13:04Z,2024-02-29T12:00:36Z,0,6,MERGED
+visyn_core,fix: add HEAD method to health endpoint,https://github.com/datavisyn/visyn_core/pull/206,2024-02-28T12:56:50Z,2024-02-29T12:01:11Z,0,1,MERGED
+visyn_core,fix: fixed bug when textfont has no color,https://github.com/datavisyn/visyn_core/pull/205,2024-02-27T11:16:19Z,2024-02-27T12:10:58Z,0,2,MERGED
+visyn_core,feat: rspack,https://github.com/datavisyn/visyn_core/pull/197,2024-02-24T16:02:57Z,2024-02-29T12:20:14Z,0,18,MERGED
+visyn_core,Release 8.1.2,https://github.com/datavisyn/visyn_core/pull/196,2024-02-23T07:46:32Z,2024-02-23T08:11:34Z,0,5,MERGED
+visyn_core,fix: more specific `data-testid` in VisynApp header for Cypress tests,https://github.com/datavisyn/visyn_core/pull/195,2024-02-23T07:34:53Z,2024-02-23T07:44:58Z,0,2,MERGED
+visyn_core,Release 8.1.1,https://github.com/datavisyn/visyn_core/pull/194,2024-02-22T13:24:07Z,2024-02-22T14:14:31Z,0,5,MERGED
+visyn_core,fix: vertical position of datavisyn logo in visyn header,https://github.com/datavisyn/visyn_core/pull/193,2024-02-22T12:45:24Z,2024-02-22T13:13:49Z,0,2,MERGED
+visyn_core,fix(vis): transparent scatterplot labels ,https://github.com/datavisyn/visyn_core/pull/192,2024-02-22T10:38:26Z,2024-02-22T13:21:02Z,0,1,MERGED
+visyn_core,Release 8.1.0,https://github.com/datavisyn/visyn_core/pull/191,2024-02-21T12:00:33Z,2024-02-21T12:04:02Z,0,3,MERGED
+visyn_core,Release 8.0.1,https://github.com/datavisyn/visyn_core/pull/190,2024-02-21T10:04:28Z,2024-02-21T10:31:17Z,0,12,MERGED
+visyn_core,feat: scatter plot labeling options,https://github.com/datavisyn/visyn_core/pull/183,2024-02-19T11:28:49Z,2024-02-21T11:52:24Z,7,13,MERGED
+visyn_core,feat: add POSTGRES_PORT to get_default_postgres_url,https://github.com/datavisyn/visyn_core/pull/181,2024-02-16T07:39:05Z,2024-02-16T07:52:14Z,0,1,MERGED
+visyn_core,fix: vis is rendered with an invalid config,https://github.com/datavisyn/visyn_core/pull/172,2024-02-07T08:03:59Z,2024-02-16T15:13:22Z,8,7,MERGED
+visyn_core,fix: cypress tests,https://github.com/datavisyn/visyn_core/pull/159,2024-01-24T10:15:13Z,2024-01-24T11:00:39Z,0,1,MERGED
+visyn_core,Release 8.0.0,https://github.com/datavisyn/visyn_core/pull/158,2024-01-24T09:31:29Z,2024-01-24T11:51:46Z,0,35,MERGED
+visyn_core,feat: add debug logging to alb_security_store,https://github.com/datavisyn/visyn_core/pull/157,2024-01-23T10:35:46Z,2024-01-23T12:22:34Z,0,3,MERGED
+visyn_core,Release 7.0.3,https://github.com/datavisyn/visyn_core/pull/156,2024-01-23T10:15:40Z,2024-01-23T10:23:12Z,0,7,MERGED
+visyn_core,feat: add driver option to get_default_postgres_url,https://github.com/datavisyn/visyn_core/pull/155,2024-01-22T10:56:14Z,2024-01-22T15:55:43Z,0,1,MERGED
+visyn_core,added dependabot config,https://github.com/datavisyn/visyn_core/pull/145,2024-01-19T11:08:59Z,2024-01-22T08:36:31Z,0,1,MERGED
+visyn_core,chore: version pinning,https://github.com/datavisyn/visyn_core/pull/144,2024-01-19T08:18:18Z,2024-01-22T07:36:18Z,0,1,MERGED
+visyn_core,Release 7.0.2,https://github.com/datavisyn/visyn_core/pull/143,2024-01-18T08:03:43Z,2024-01-18T08:25:08Z,0,8,MERGED
+visyn_core,Release 7.0.1,https://github.com/datavisyn/visyn_core/pull/142,2024-01-10T13:39:21Z,2024-01-10T13:51:55Z,0,17,MERGED
+visyn_core,feat: use label column in Vis tooltips,https://github.com/datavisyn/visyn_core/pull/141,2024-01-10T10:03:13Z,2024-01-17T07:41:15Z,1,5,MERGED
+visyn_core,Fix: tooltip bug in violin plot,https://github.com/datavisyn/visyn_core/pull/140,2024-01-09T18:23:31Z,2024-01-10T10:05:14Z,1,6,MERGED
+visyn_core,feat: debug log for access_token in oauth security store,https://github.com/datavisyn/visyn_core/pull/139,2024-01-04T13:33:07Z,2024-01-04T13:37:42Z,0,1,MERGED
+visyn_core,feat: MRT implementation,https://github.com/datavisyn/visyn_core/pull/138,2024-01-03T12:31:14Z,2024-06-04T10:12:12Z,1,1,CLOSED
+visyn_core,feat: Sentry integration,https://github.com/datavisyn/visyn_core/pull/319,2024-05-28T11:25:14Z,2024-06-10T11:58:53Z,1,8,MERGED
+visyn_core,Release 10.1.0,https://github.com/datavisyn/visyn_core/pull/312,2024-05-24T10:29:32Z,2024-05-24T11:26:52Z,0,54,MERGED
+visyn_core,Fix scatter vis label mapping,https://github.com/datavisyn/visyn_core/pull/310,2024-05-22T09:01:44Z,2024-05-22T12:06:49Z,0,2,MERGED
+visyn_core,feat(vis-type: violin): separation support for group and facets,https://github.com/datavisyn/visyn_core/pull/309,2024-05-21T09:38:10Z,2024-05-24T10:18:49Z,3,18,MERGED
+visyn_core,fix(vis): XY Labels in scatter vis hovertext,https://github.com/datavisyn/visyn_core/pull/304,2024-05-16T17:23:26Z,2024-05-21T07:57:35Z,0,4,MERGED
+visyn_core,feat: add boxplot vis type,https://github.com/datavisyn/visyn_core/pull/302,2024-05-16T06:29:58Z,2024-06-17T13:25:21Z,1,101,MERGED
+visyn_core,feat: strip plot overlay,https://github.com/datavisyn/visyn_core/pull/301,2024-05-16T06:29:06Z,2024-06-17T06:04:59Z,1,7,CLOSED
+visyn_core,feat(visyn design): add visualization icons,https://github.com/datavisyn/visyn_core/pull/297,2024-05-08T10:44:33Z,2024-05-13T09:59:33Z,0,3,MERGED
+visyn_core,"feat(vis): align visual appearance, rotate bar plot axis labels, add vis hooks, remove raincloud plot",https://github.com/datavisyn/visyn_core/pull/293,2024-05-06T12:33:36Z,2024-06-11T16:32:28Z,23,67,MERGED
+visyn_core,Release 10.0.3,https://github.com/datavisyn/visyn_core/pull/292,2024-05-02T11:14:30Z,2024-05-02T11:17:41Z,0,3,MERGED
+visyn_core,Release 10.0.2,https://github.com/datavisyn/visyn_core/pull/291,2024-04-30T10:36:57Z,2024-04-30T10:58:51Z,0,4,MERGED
+visyn_core,feat: allow passing size param to RDKit endpoints,https://github.com/datavisyn/visyn_core/pull/290,2024-04-30T10:26:58Z,2024-05-02T11:09:45Z,0,6,MERGED
+visyn_core,deps: Updated Mantine to 7.8.1,https://github.com/datavisyn/visyn_core/pull/289,2024-04-30T07:19:31Z,2024-04-30T09:56:44Z,0,1,MERGED
+visyn_core,deps: updated RDKit,https://github.com/datavisyn/visyn_core/pull/288,2024-04-30T07:10:00Z,2024-04-30T09:57:20Z,0,2,MERGED
+visyn_core,Release 10.0.1,https://github.com/datavisyn/visyn_core/pull/280,2024-04-29T12:37:58Z,2024-04-29T12:52:21Z,0,4,MERGED
+visyn_core,feat: capture visualization snapshot,https://github.com/datavisyn/visyn_core/pull/279,2024-04-29T08:56:42Z,2024-05-14T11:04:00Z,10,18,MERGED
+visyn_core,fix: truncate long legend names,https://github.com/datavisyn/visyn_core/pull/278,2024-04-29T08:55:30Z,2024-05-23T10:28:04Z,0,8,MERGED
+visyn_core,feat: add toggle legend switch to scatter plot,https://github.com/datavisyn/visyn_core/pull/277,2024-04-29T08:51:12Z,2024-05-23T11:28:14Z,1,10,MERGED
+visyn_core,deps: bump mantine to 7.7.1,https://github.com/datavisyn/visyn_core/pull/276,2024-04-26T10:25:49Z,2024-05-02T11:10:19Z,1,1,CLOSED
+visyn_core,feat: Scattervis facets and regression line,https://github.com/datavisyn/visyn_core/pull/275,2024-04-26T07:38:27Z,2024-05-14T14:10:02Z,5,53,MERGED
+visyn_core,refactor: replace `.api_route()` with  explicit method functions,https://github.com/datavisyn/visyn_core/pull/273,2024-04-25T11:32:02Z,2024-04-25T12:24:52Z,3,2,MERGED
+visyn_core,feat: add numerical column support to bar plot,https://github.com/datavisyn/visyn_core/pull/272,2024-04-25T11:17:35Z,2024-09-13T10:54:38Z,1,33,CLOSED
+visyn_core,feat: add new sorting icons,https://github.com/datavisyn/visyn_core/pull/271,2024-04-25T09:14:00Z,2024-04-29T10:14:27Z,2,6,MERGED
+visyn_core,Release 10.0.0,https://github.com/datavisyn/visyn_core/pull/270,2024-04-25T06:44:29Z,2024-04-25T06:57:39Z,0,22,MERGED
+visyn_core,fix(vis): violin vis selection events,https://github.com/datavisyn/visyn_core/pull/267,2024-04-23T15:54:28Z,2024-04-24T19:03:17Z,1,11,MERGED
+visyn_core,refactor: rename labels of filter buttons,https://github.com/datavisyn/visyn_core/pull/266,2024-04-23T07:43:19Z,2024-04-23T09:23:11Z,0,1,MERGED
+visyn_core,Release 9.2.2,https://github.com/datavisyn/visyn_core/pull/265,2024-04-23T06:34:11Z,2024-04-23T06:47:03Z,0,14,MERGED
+visyn_core,feat: add possibility to insert score column after given column in ranking,https://github.com/datavisyn/visyn_core/pull/262,2024-04-22T12:49:57Z,2024-04-23T07:19:07Z,1,4,MERGED
+visyn_core,fix(vis): duplicate option values in scatterplot sidebar select,https://github.com/datavisyn/visyn_core/pull/261,2024-04-22T08:10:58Z,2024-04-24T08:33:20Z,3,4,MERGED
+visyn_core,test: use app shell instead of body in cypress test,https://github.com/datavisyn/visyn_core/pull/258,2024-04-12T13:01:33Z,2024-04-12T14:40:06Z,0,1,MERGED
+visyn_core,chore: remove usage of flask,https://github.com/datavisyn/visyn_core/pull/257,2024-04-12T07:15:29Z,2024-04-23T07:26:54Z,5,17,MERGED
+visyn_core,feat: add pathway and protein entity colors,https://github.com/datavisyn/visyn_core/pull/256,2024-04-11T11:10:59Z,2024-04-11T11:48:58Z,0,1,MERGED
+visyn_core,Release 9.2.1,https://github.com/datavisyn/visyn_core/pull/255,2024-04-11T07:21:52Z,2024-04-11T07:27:11Z,0,9,MERGED
+visyn_core,fix: fix viewbox of custom icons,https://github.com/datavisyn/visyn_core/pull/254,2024-04-09T13:31:15Z,2024-04-12T09:37:42Z,2,9,MERGED
+visyn_core,deps: upgrade backend deps to latest versions,https://github.com/datavisyn/visyn_core/pull/247,2024-04-02T13:36:56Z,2024-04-23T07:22:22Z,1,1,CLOSED
+visyn_core,Update gene and chem structure icons,https://github.com/datavisyn/visyn_core/pull/246,2024-04-02T11:26:46Z,2024-04-02T12:07:30Z,0,1,MERGED
+visyn_core,Added useDeep to our core,https://github.com/datavisyn/visyn_core/pull/437,2024-07-30T11:38:03Z,2024-07-30T16:22:40Z,2,2,MERGED
+visyn_core,fix(scatter): Re-enable sequential and divergent color scales,https://github.com/datavisyn/visyn_core/pull/435,2024-07-30T07:17:52Z,2024-07-30T08:29:06Z,0,1,MERGED
+visyn_core,fix(vis): make bar chart interface properties optional,https://github.com/datavisyn/visyn_core/pull/428,2024-07-24T17:41:38Z,2024-07-24T19:28:45Z,0,1,MERGED
+visyn_core,feat(ci): Use automated release workflow,https://github.com/datavisyn/visyn_core/pull/426,2024-07-24T12:09:02Z,2024-07-24T12:27:23Z,0,1,MERGED
+visyn_core,feat: introducing playwright tests,https://github.com/datavisyn/visyn_core/pull/424,2024-07-23T08:55:17Z,2024-09-05T13:14:33Z,6,103,MERGED
+visyn_core,feat(vis): focus facet selector for bar chart,https://github.com/datavisyn/visyn_core/pull/420,2024-07-17T12:36:04Z,2024-07-18T14:03:21Z,1,10,MERGED
+visyn_core,Add skip flag to useBrush,https://github.com/datavisyn/visyn_core/pull/418,2024-07-16T07:44:22Z,2024-07-18T16:33:55Z,0,1,MERGED
+visyn_core,Release 11.3.0,https://github.com/datavisyn/visyn_core/pull/408,2024-07-09T12:49:16Z,2024-07-09T12:52:34Z,0,10,MERGED
+visyn_core,Remove console.log in useInteractions,https://github.com/datavisyn/visyn_core/pull/407,2024-07-09T12:00:45Z,2024-07-11T08:56:18Z,0,1,MERGED
+visyn_core,"Unified vishook interface, moved hooks to setRef",https://github.com/datavisyn/visyn_core/pull/397,2024-07-05T11:47:53Z,2024-07-09T11:39:39Z,0,7,MERGED
+visyn_core,feat(vis): export vishook,https://github.com/datavisyn/visyn_core/pull/396,2024-07-04T17:26:13Z,2024-07-04T22:07:12Z,0,1,MERGED
+visyn_core,Added setRef hook,https://github.com/datavisyn/visyn_core/pull/395,2024-07-04T10:40:06Z,2024-07-04T14:18:43Z,0,1,MERGED
+visyn_core,Fixed refactor issue with extent,https://github.com/datavisyn/visyn_core/pull/394,2024-07-03T11:29:51Z,2024-07-04T07:42:36Z,0,1,MERGED
+visyn_core,Release 11.2.0,https://github.com/datavisyn/visyn_core/pull/393,2024-07-02T18:11:45Z,2024-07-02T18:23:32Z,0,4,MERGED
+visyn_core,fix(vis): histogram selection logic for scatter vis,https://github.com/datavisyn/visyn_core/pull/392,2024-07-02T14:32:19Z,2024-07-02T17:33:24Z,0,1,MERGED
+visyn_core,feat: add custom icon for oncoprint,https://github.com/datavisyn/visyn_core/pull/390,2024-07-02T09:57:07Z,2024-07-02T17:34:11Z,0,1,MERGED
+visyn_core,Release 11.1.2,https://github.com/datavisyn/visyn_core/pull/378,2024-06-27T10:05:49Z,2024-06-27T11:59:22Z,0,7,MERGED
+visyn_core,fix: use id instead of name for selected items,https://github.com/datavisyn/visyn_core/pull/377,2024-06-27T07:04:51Z,2024-06-27T07:47:11Z,0,1,MERGED
+visyn_core,Release 11.1.1,https://github.com/datavisyn/visyn_core/pull/370,2024-06-24T07:51:43Z,2024-06-24T07:58:55Z,0,3,MERGED
+visyn_core,feat: pin arquero to 5.4.0 because of typing issues,https://github.com/datavisyn/visyn_core/pull/369,2024-06-24T07:34:44Z,2024-06-24T07:46:47Z,0,1,MERGED
+visyn_core,Release 11.1.0,https://github.com/datavisyn/visyn_core/pull/368,2024-06-20T11:16:46Z,2024-06-20T11:25:05Z,0,6,MERGED
+visyn_core,fix: Setting Plotly version to ~2.12.0,https://github.com/datavisyn/visyn_core/pull/367,2024-06-20T09:11:53Z,2024-06-20T10:57:09Z,0,1,MERGED
+visyn_core,Fix: use ctrl for priority sort instead of shift,https://github.com/datavisyn/visyn_core/pull/365,2024-06-20T08:50:08Z,2024-06-20T09:05:11Z,0,3,MERGED
+visyn_core,feat: add sentry FastAPI integration,https://github.com/datavisyn/visyn_core/pull/364,2024-06-20T06:57:19Z,2024-06-20T11:10:22Z,0,2,MERGED
+visyn_core,Release 11.0.1,https://github.com/datavisyn/visyn_core/pull/363,2024-06-19T14:10:04Z,2024-06-19T14:24:50Z,0,3,MERGED
+visyn_core,Feat: add property isShiftKeyPressed to sortIcon,https://github.com/datavisyn/visyn_core/pull/362,2024-06-19T13:37:47Z,2024-06-19T14:06:36Z,0,1,MERGED
+visyn_core,Release 11.0.0,https://github.com/datavisyn/visyn_core/pull/361,2024-06-19T08:27:09Z,2024-06-19T09:02:53Z,0,13,MERGED
+visyn_core,Fix: export vis color and fix y-axis label,https://github.com/datavisyn/visyn_core/pull/360,2024-06-19T07:11:49Z,2024-06-19T08:15:12Z,0,10,MERGED
+visyn_core,feat: add BlurredOverlay component,https://github.com/datavisyn/visyn_core/pull/359,2024-06-18T19:06:55Z,2024-06-19T07:06:24Z,1,6,MERGED
+visyn_core,feat(vis): add column description to selects and pills,https://github.com/datavisyn/visyn_core/pull/358,2024-06-17T14:57:51Z,2024-06-18T18:04:29Z,0,3,MERGED
+visyn_core,feat: add console integration for Sentry,https://github.com/datavisyn/visyn_core/pull/347,2024-06-14T09:50:03Z,2024-06-14T10:00:32Z,0,1,MERGED
+visyn_core,feat: lazy load plotly where possible,https://github.com/datavisyn/visyn_core/pull/346,2024-06-14T09:11:13Z,2024-06-19T06:56:11Z,2,3,MERGED
+visyn_core,deps: upgrade deps to latest versions (20240611),https://github.com/datavisyn/visyn_core/pull/344,2024-06-11T06:14:02Z,2024-06-18T16:50:48Z,0,6,MERGED
+visyn_core,Release 10.2.0,https://github.com/datavisyn/visyn_core/pull/335,2024-06-10T12:04:54Z,2024-06-10T12:20:01Z,0,10,MERGED
+visyn_core,feat: initialize chromatic,https://github.com/datavisyn/visyn_core/pull/334,2024-06-07T14:43:35Z,2024-06-10T06:44:11Z,0,2,MERGED
+visyn_core,fix(vis-heatmap): disable deselection of aggregation type,https://github.com/datavisyn/visyn_core/pull/333,2024-06-06T11:25:05Z,2024-06-10T06:52:14Z,0,1,MERGED
+visyn_core,feat(vis-violin): violin vis subcategories and proper facets,https://github.com/datavisyn/visyn_core/pull/331,2024-06-06T10:36:03Z,2024-06-14T09:07:35Z,4,100,MERGED
+visyn_core,Ua/89 remove arquero from bar plot,https://github.com/datavisyn/visyn_core/pull/330,2024-06-06T06:04:46Z,2024-09-13T10:54:24Z,1,35,CLOSED
+visyn_core,feat: add `get_default_redis_url()`,https://github.com/datavisyn/visyn_core/pull/610,2024-10-30T10:04:44Z,2024-11-05T19:59:30Z,0,5,MERGED
+visyn_core,feat(icon): Option for descending sort first + no unsorted state,https://github.com/datavisyn/visyn_core/pull/609,2024-10-29T15:33:19Z,2024-10-31T21:48:15Z,2,5,MERGED
+visyn_core,fix: capturing a screenshot is broken for several visualizations,https://github.com/datavisyn/visyn_core/pull/608,2024-10-29T14:42:56Z,2024-10-30T09:37:10Z,1,4,MERGED
+visyn_core,fix(vis-type: bar): axis labels when sort state is null,https://github.com/datavisyn/visyn_core/pull/607,2024-10-29T13:09:56Z,2024-10-29T15:07:59Z,0,1,MERGED
+visyn_core,feat: use `FastTextMeasure` to get the truncated labels,https://github.com/datavisyn/visyn_core/pull/606,2024-10-29T12:13:16Z,2024-10-29T12:39:18Z,0,2,MERGED
+visyn_core,fix(vis-type: bar): selection is lost when bar plot is sorted,https://github.com/datavisyn/visyn_core/pull/604,2024-10-28T14:51:08Z,2024-10-28T20:37:15Z,1,2,MERGED
+visyn_core,feat(vis-type: scatter): Add log scale option for axes,https://github.com/datavisyn/visyn_core/pull/602,2024-10-28T14:36:42Z,2024-11-05T20:47:24Z,0,11,MERGED
+visyn_core,fix(vis-type: bar): add tooltip to clipped axis labels,https://github.com/datavisyn/visyn_core/pull/599,2024-10-28T12:08:27Z,2024-10-28T14:02:44Z,0,8,MERGED
+visyn_core,fix(vis-type: bar): grouping with zero values,https://github.com/datavisyn/visyn_core/pull/598,2024-10-24T13:32:30Z,2024-10-28T13:54:22Z,3,4,MERGED
+visyn_core,fix: replace `categoricalColors` with `categoricalColors10`,https://github.com/datavisyn/visyn_core/pull/594,2024-10-24T09:38:57Z,2024-10-24T11:20:45Z,0,2,MERGED
+visyn_core,refactor: unify and improve missing column warning message,https://github.com/datavisyn/visyn_core/pull/593,2024-10-23T21:17:32Z,2024-10-24T11:21:20Z,3,59,MERGED
+visyn_core,"feat: `visyn_core/echarts` export + echarts scatter, timeline, funnel",https://github.com/datavisyn/visyn_core/pull/592,2024-10-23T13:07:15Z,2024-10-24T09:25:30Z,3,3,MERGED
+visyn_core,Added description to SPLOM axes,https://github.com/datavisyn/visyn_core/pull/590,2024-10-23T08:46:05Z,2024-10-23T09:00:50Z,0,1,MERGED
+visyn_core,Design: Add protein structure representation icons,https://github.com/datavisyn/visyn_core/pull/589,2024-10-22T15:20:33Z,2024-10-23T08:55:53Z,1,2,MERGED
+visyn_core,chore: update release.yaml for automated release workflow,https://github.com/datavisyn/visyn_core/pull/587,2024-10-22T07:41:16Z,2024-10-24T11:24:29Z,0,2,MERGED
+visyn_core,update release.yaml for automated release workflow,https://github.com/datavisyn/visyn_core/pull/582,2024-10-21T14:12:05Z,2024-10-22T07:26:42Z,2,1,CLOSED
+visyn_core,Make XSmiles available in visyn_core as single component,https://github.com/datavisyn/visyn_core/pull/579,2024-10-21T13:16:24Z,2024-11-18T08:15:48Z,0,7,CLOSED
+visyn_core,fix(vis-type: bar): jump to full width after rendering narrow initially using debounced resize observer,https://github.com/datavisyn/visyn_core/pull/576,2024-10-18T20:17:37Z,2024-10-18T20:21:23Z,0,1,MERGED
+visyn_core,feat(vis-type: bar): introduce workers + fix some bugs,https://github.com/datavisyn/visyn_core/pull/575,2024-10-18T06:49:24Z,2024-10-24T11:04:03Z,9,48,MERGED
+visyn_core,deps: update to yarn@4.5.0,https://github.com/datavisyn/visyn_core/pull/574,2024-10-18T06:46:31Z,2024-10-18T07:23:46Z,0,1,MERGED
+visyn_core,fix(vis-type: scatter): add null check in `useData` hook,https://github.com/datavisyn/visyn_core/pull/573,2024-10-17T14:12:27Z,2024-10-18T07:23:35Z,4,3,MERGED
+visyn_core,fix(vis-type: scatter): Fix SPLOM stats calculation and cleanup,https://github.com/datavisyn/visyn_core/pull/572,2024-10-17T12:44:44Z,2024-10-18T10:46:53Z,0,2,MERGED
+visyn_core,fix: show error message if Vis download fails,https://github.com/datavisyn/visyn_core/pull/569,2024-10-16T20:22:13Z,2024-10-16T20:31:34Z,0,2,MERGED
+visyn_core,Style: Add new palettes for categorical colors,https://github.com/datavisyn/visyn_core/pull/567,2024-10-16T10:28:58Z,2024-10-16T12:39:45Z,2,3,MERGED
+visyn_core,Style: remove gray from categorical color palette,https://github.com/datavisyn/visyn_core/pull/566,2024-10-15T07:42:31Z,2024-10-15T09:30:49Z,0,1,MERGED
+visyn_core,fix: export box plot interfaces,https://github.com/datavisyn/visyn_core/pull/562,2024-10-09T14:47:17Z,2024-10-10T08:05:01Z,0,1,MERGED
+visyn_core,feat(vis-type: bar): download chart is clipped for long charts,https://github.com/datavisyn/visyn_core/pull/561,2024-10-09T06:31:04Z,2024-10-15T12:17:05Z,8,27,MERGED
+visyn_core,feat(vis-type: scatter): add drag state to `useInteraction` hook,https://github.com/datavisyn/visyn_core/pull/560,2024-10-08T10:14:41Z,2024-10-09T08:08:03Z,2,7,MERGED
+visyn_core,feat: Used dimensions from parent to resize plotly,https://github.com/datavisyn/visyn_core/pull/553,2024-10-04T09:48:45Z,2024-10-04T14:51:55Z,0,1,MERGED
+visyn_core,perf: Adjusted imports for echarts,https://github.com/datavisyn/visyn_core/pull/551,2024-10-04T08:00:57Z,2024-10-04T08:51:28Z,0,1,MERGED
+visyn_core,fix(vis-type: sankey): Handle undefined/missing values,https://github.com/datavisyn/visyn_core/pull/550,2024-10-03T14:09:14Z,2024-10-09T08:10:59Z,0,4,MERGED
+visyn_core,feat: Adjusted useCanvas to work with WebGL contextIds and typed it correctly,https://github.com/datavisyn/visyn_core/pull/549,2024-10-03T06:38:53Z,2024-10-03T12:07:27Z,0,2,MERGED
+visyn_core,feat: animated transform hook,https://github.com/datavisyn/visyn_core/pull/541,2024-09-26T18:39:05Z,2024-11-06T10:48:57Z,0,9,CLOSED
+visyn_core,fix: add mantine carousel package to dependencies,https://github.com/datavisyn/visyn_core/pull/540,2024-09-26T11:16:53Z,2024-09-27T06:56:20Z,0,2,MERGED
+visyn_core,feat: add mouse icon,https://github.com/datavisyn/visyn_core/pull/539,2024-09-24T12:47:07Z,2024-09-26T08:09:11Z,0,4,MERGED
+visyn_core,feat: barvis improvements,https://github.com/datavisyn/visyn_core/pull/537,2024-09-23T16:44:44Z,2024-09-24T11:32:43Z,3,7,MERGED
+visyn_core,feat(vis-type: scatter): improve rendering of scatter plot,https://github.com/datavisyn/visyn_core/pull/530,2024-09-19T08:21:20Z,2024-10-16T19:45:59Z,24,59,MERGED
+visyn_core,feat: add virtualization for bar chart facets,https://github.com/datavisyn/visyn_core/pull/520,2024-09-13T07:55:35Z,2024-09-13T10:43:45Z,0,5,MERGED
+visyn_core,fix: ECharts hook,https://github.com/datavisyn/visyn_core/pull/519,2024-09-12T12:26:15Z,2024-09-13T10:51:34Z,6,12,CLOSED
+visyn_core,fix: ECharts performance,https://github.com/datavisyn/visyn_core/pull/518,2024-09-11T11:51:02Z,2024-09-12T11:10:35Z,0,1,MERGED
+visyn_core,Add select / clear selection icons,https://github.com/datavisyn/visyn_core/pull/515,2024-09-10T09:52:52Z,2024-09-10T17:06:28Z,0,1,MERGED
+visyn_core,feat: simplify useUncontrolled in Vis,https://github.com/datavisyn/visyn_core/pull/501,2024-09-04T12:13:48Z,2024-09-05T06:12:27Z,1,5,MERGED
+visyn_core,Release 12.0.0,https://github.com/datavisyn/visyn_core/pull/500,2024-09-04T09:08:35Z,2024-09-05T06:15:14Z,0,20,CLOSED
+visyn_core,feat: Fix release.yaml,https://github.com/datavisyn/visyn_core/pull/499,2024-09-04T08:55:53Z,2024-09-05T06:15:03Z,0,1,MERGED
+visyn_core,feat(vis-type: bar): switch to ECharts bar chart,https://github.com/datavisyn/visyn_core/pull/497,2024-09-03T11:53:14Z,2024-10-16T15:19:37Z,49,231,MERGED
+visyn_core,Adjust usepan hook,https://github.com/datavisyn/visyn_core/pull/496,2024-09-03T11:21:08Z,2024-09-04T14:45:57Z,0,4,MERGED
+visyn_core,deps: upgrade deps to Sep 2024,https://github.com/datavisyn/visyn_core/pull/495,2024-09-03T07:05:04Z,2024-09-05T08:22:22Z,0,5,MERGED
+visyn_core,fix: title of bar plots overlaps with legend when in 5050 view with volcano,https://github.com/datavisyn/visyn_core/pull/486,2024-08-29T12:18:06Z,2024-08-30T07:44:09Z,0,20,MERGED
+visyn_core,Added native event to click/up events so users can query for shift and alt keys,https://github.com/datavisyn/visyn_core/pull/485,2024-08-28T08:52:53Z,2024-08-29T12:09:28Z,0,3,MERGED
+visyn_core,feat: implement bar plot sorting,https://github.com/datavisyn/visyn_core/pull/482,2024-08-26T13:55:58Z,2024-08-29T12:19:25Z,16,15,MERGED
+visyn_core,Feature: Facet sorting,https://github.com/datavisyn/visyn_core/pull/481,2024-08-22T11:48:40Z,2024-08-28T13:24:23Z,5,6,MERGED
+visyn_core,fix: bar chart facets horizontal scrollbar,https://github.com/datavisyn/visyn_core/pull/480,2024-08-21T07:55:32Z,2024-08-29T12:10:08Z,2,7,MERGED
+visyn_core,fix: add null check for the user,https://github.com/datavisyn/visyn_core/pull/474,2024-08-16T10:24:06Z,2024-08-16T10:48:37Z,2,4,MERGED
+visyn_core,refactor: improve time complexity for tooltip labels + minor fixes,https://github.com/datavisyn/visyn_core/pull/472,2024-08-16T09:24:09Z,2024-08-16T09:55:30Z,0,1,MERGED
+visyn_core,feat(vis-type: scatter): selecting points from multiple facets,https://github.com/datavisyn/visyn_core/pull/469,2024-08-14T13:18:35Z,2024-08-16T10:27:10Z,4,2,MERGED
+visyn_core,fix: scatter vis for selected points,https://github.com/datavisyn/visyn_core/pull/468,2024-08-14T12:24:33Z,2024-08-14T12:59:24Z,0,1,MERGED
+visyn_core,feat: return 401 if not logged in for loggedinas,https://github.com/datavisyn/visyn_core/pull/465,2024-08-12T18:08:13Z,2024-08-13T07:50:21Z,0,1,MERGED
+visyn_core,feat: added showLabeLimit option to the general vis configuration,https://github.com/datavisyn/visyn_core/pull/457,2024-08-09T14:37:42Z,2024-08-13T15:02:47Z,3,12,MERGED
+visyn_core,feat: uv,https://github.com/datavisyn/visyn_core/pull/456,2024-08-08T20:23:26Z,2024-08-08T20:31:06Z,0,1,MERGED
+visyn_core,fix(vis-type: scatter): tooltip labels for facets in scatter plot,https://github.com/datavisyn/visyn_core/pull/455,2024-08-07T14:21:02Z,2024-08-07T15:11:05Z,0,1,MERGED
+visyn_core,dependabot: add grouping for npm mantine and github actions,https://github.com/datavisyn/visyn_core/pull/449,2024-08-06T12:15:43Z,2024-08-06T12:42:47Z,0,1,MERGED
+visyn_core,fix(vis-type: scatter): select label columns for tooltip,https://github.com/datavisyn/visyn_core/pull/447,2024-08-06T09:53:30Z,2024-08-06T14:08:25Z,4,5,MERGED
+visyn_core,feat(vis-type: violin): Add YAxis merged option to violin vis,https://github.com/datavisyn/visyn_core/pull/445,2024-08-06T09:12:13Z,2024-08-13T07:52:05Z,3,4,MERGED
+visyn_core,feat: update to visyn_scripts 11,https://github.com/datavisyn/visyn_core/pull/439,2024-08-05T06:56:50Z,2024-09-05T11:47:36Z,0,10,MERGED
+visyn_core,refactor(vis-type: bar): use echarts for bar chart,https://github.com/datavisyn/visyn_core/pull/438,2024-08-01T12:08:38Z,2024-09-13T10:53:38Z,15,33,CLOSED
+visyn_core,feat: storybook 8 + rspack,https://github.com/datavisyn/visyn_core/pull/667,2024-12-18T18:25:52Z,2025-01-21T20:58:46Z,1,15,MERGED
+visyn_core,fix(vis-type: bar): focus facet selector + sort facets alphabetically,https://github.com/datavisyn/visyn_core/pull/665,2024-12-18T05:53:57Z,2024-12-19T13:49:50Z,0,6,MERGED
+visyn_core,fix: scatter plot tweaks,https://github.com/datavisyn/visyn_core/pull/664,2024-12-16T11:20:23Z,2024-12-18T12:29:44Z,6,2,MERGED
+visyn_core,feat: set result_extended to True by default,https://github.com/datavisyn/visyn_core/pull/661,2024-12-06T11:58:08Z,2024-12-06T12:03:54Z,0,1,MERGED
+visyn_core,feat(icons): add dvPROMSApp and dvVCFApp icons,https://github.com/datavisyn/visyn_core/pull/657,2024-12-06T08:27:42Z,2024-12-06T08:33:43Z,0,2,CLOSED
+visyn_core,fix: VariableSizeList typing,https://github.com/datavisyn/visyn_core/pull/656,2024-12-06T08:17:03Z,2024-12-06T08:22:47Z,0,1,MERGED
+visyn_core,feat(icons): add new junction icon,https://github.com/datavisyn/visyn_core/pull/655,2024-12-04T15:15:09Z,2024-12-05T09:49:55Z,0,1,MERGED
+visyn_core,feat: Celery integration,https://github.com/datavisyn/visyn_core/pull/649,2024-11-30T09:50:34Z,2024-12-06T08:28:47Z,0,6,MERGED
+visyn_core,fix: add upgrade to uv install,https://github.com/datavisyn/visyn_core/pull/648,2024-11-29T09:40:42Z,2024-11-29T09:44:06Z,0,1,MERGED
+visyn_core,feat(ci): Finalize Automated Release Workflow,https://github.com/datavisyn/visyn_core/pull/646,2024-11-28T14:14:20Z,2024-11-28T15:00:15Z,0,1,MERGED
+visyn_core,feat: Use pixel content values from resize observer,https://github.com/datavisyn/visyn_core/pull/640,2024-11-25T09:22:59Z,2024-11-28T14:08:28Z,2,8,MERGED
+visyn_core,feat(icons): add new array column icons,https://github.com/datavisyn/visyn_core/pull/639,2024-11-19T16:46:35Z,2024-11-20T07:12:13Z,5,5,MERGED
+visyn_core,Refactored single subplot log scaling,https://github.com/datavisyn/visyn_core/pull/633,2024-11-18T13:33:18Z,2024-11-18T20:32:49Z,0,2,MERGED
+visyn_core,!chore: remove GenomeNavigation,https://github.com/datavisyn/visyn_core/pull/632,2024-11-12T09:06:17Z,2024-11-15T11:00:45Z,1,1,MERGED
+visyn_core,feat: add `GenomeNavigation` class to util package,https://github.com/datavisyn/visyn_core/pull/625,2024-11-07T09:23:40Z,2024-11-08T08:15:54Z,0,6,MERGED
+visyn_core,Added useTriggerFrame hook,https://github.com/datavisyn/visyn_core/pull/624,2024-11-07T08:22:50Z,2024-11-15T11:01:12Z,1,8,MERGED
+visyn_core,Pinned @swc/core to 1.7.42,https://github.com/datavisyn/visyn_core/pull/622,2024-11-06T13:15:12Z,2024-11-06T13:19:18Z,0,1,MERGED
+visyn_core,fix: exports in general vis,https://github.com/datavisyn/visyn_core/pull/621,2024-11-06T08:25:40Z,2024-11-06T08:49:04Z,0,3,MERGED
+visyn_core,Added `useAnimatedTransform` hook,https://github.com/datavisyn/visyn_core/pull/620,2024-11-05T12:21:38Z,2024-11-06T09:00:30Z,1,13,MERGED
+visyn_core,feat: Add `onClick` to `usePan`,https://github.com/datavisyn/visyn_core/pull/619,2024-11-05T11:01:58Z,2024-11-05T14:31:08Z,0,3,MERGED
+visyn_core,fix: bar chart re renders on selection change,https://github.com/datavisyn/visyn_core/pull/733,2025-02-20T21:37:58Z,2025-02-27T08:09:53Z,5,24,MERGED
+visyn_core,"feat: add arbitrary properties to user object, i.e. mapped from the JWT payload",https://github.com/datavisyn/visyn_core/pull/730,2025-02-19T16:01:48Z,2025-02-19T19:11:12Z,0,2,MERGED
+visyn_core,feat: Added fastTextEllipsis function,https://github.com/datavisyn/visyn_core/pull/726,2025-02-17T13:54:03Z,2025-02-21T11:55:58Z,0,2,MERGED
+visyn_core,feat: log plugin version in upon server start,https://github.com/datavisyn/visyn_core/pull/724,2025-02-13T17:39:41Z,2025-02-13T18:39:27Z,0,1,MERGED
+visyn_core,feat: update categorical colors and export muted versions,https://github.com/datavisyn/visyn_core/pull/722,2025-02-12T08:55:52Z,2025-02-12T09:27:06Z,0,3,MERGED
+visyn_core,feat: add waitForClientConfig flag to allow skipping the wait for the clientConfig,https://github.com/datavisyn/visyn_core/pull/717,2025-02-10T14:41:50Z,2025-02-11T17:34:55Z,1,1,MERGED
+visyn_core,"fix: removed use-deep-compare-effect, removed Awaited type",https://github.com/datavisyn/visyn_core/pull/716,2025-02-10T09:12:31Z,2025-02-10T12:09:03Z,0,1,MERGED
+visyn_core,feat: ensure that backend Sentry SDK requests are proxied as well,https://github.com/datavisyn/visyn_core/pull/715,2025-02-07T12:12:08Z,2025-02-19T19:12:33Z,0,4,MERGED
+visyn_core,feat: Added visual map component,https://github.com/datavisyn/visyn_core/pull/711,2025-01-31T10:56:53Z,2025-01-31T17:13:07Z,0,1,MERGED
+visyn_core,deps(pip): ease redis version range,https://github.com/datavisyn/visyn_core/pull/707,2025-01-28T21:39:40Z,2025-01-29T08:30:00Z,0,1,MERGED
+visyn_core,feat: add bundlesize check,https://github.com/datavisyn/visyn_core/pull/695,2025-01-24T19:06:55Z,2025-01-29T15:16:14Z,0,4,MERGED
+visyn_core,fix: typing for custom args in stories,https://github.com/datavisyn/visyn_core/pull/694,2025-01-24T09:23:54Z,2025-01-29T15:15:10Z,2,4,MERGED
+visyn_core,fix(vis-type: bar): label layouting issue in the bar plot,https://github.com/datavisyn/visyn_core/pull/693,2025-01-23T21:16:52Z,2025-01-27T10:14:53Z,1,2,MERGED
+visyn_core,feat: make scatter plot legends clickable,https://github.com/datavisyn/visyn_core/pull/690,2025-01-23T09:53:57Z,2025-02-04T08:20:23Z,15,13,MERGED
+visyn_core,feat: export Vector3 and Matrix4x4,https://github.com/datavisyn/visyn_core/pull/687,2025-01-21T21:32:33Z,2025-01-21T21:33:13Z,0,1,MERGED
+visyn_core,deps: update Mantine to 7.16,https://github.com/datavisyn/visyn_core/pull/685,2025-01-21T20:55:11Z,2025-01-21T21:00:12Z,0,18,MERGED
+visyn_core,Migrating stories to storybook 8,https://github.com/datavisyn/visyn_core/pull/682,2025-01-15T21:23:27Z,2025-01-17T17:32:32Z,0,17,MERGED
+visyn_core,feat: Add skip/preventDefault conditions to useWheel,https://github.com/datavisyn/visyn_core/pull/680,2025-01-15T12:15:40Z,2025-01-15T12:21:42Z,0,2,MERGED
+visyn_core,feat: useTransformScale now supports ranged based transforms,https://github.com/datavisyn/visyn_core/pull/679,2025-01-14T12:51:20Z,2025-01-16T12:06:28Z,0,6,MERGED
+visyn_core,update release.yaml for automated release workflow,https://github.com/datavisyn/visyn_core/pull/678,2025-01-13T13:02:19Z,2025-01-13T13:13:41Z,1,1,CLOSED
+visyn_core,update release.yaml for automated release workflow,https://github.com/datavisyn/visyn_core/pull/677,2025-01-13T12:32:25Z,2025-01-13T12:48:27Z,1,1,CLOSED
+visyn_core,deps: upgrade to fastapi 0.115.6 and ruff 0.9.1,https://github.com/datavisyn/visyn_core/pull/674,2025-01-12T13:11:11Z,2025-01-16T20:45:28Z,0,1,MERGED
+visyn_core,deps(npm): lineupjs@4.12.0,https://github.com/datavisyn/visyn_core/pull/672,2025-01-08T13:18:26Z,2025-01-27T14:16:29Z,2,7,MERGED
+visyn_core,fix: `@use` lineupengine vars to allow overriding them,https://github.com/datavisyn/visyn_core/pull/671,2025-01-08T07:51:31Z,2025-01-08T12:35:29Z,0,1,MERGED
+visyn_core,fix: add back `showLabelLimit` option to scatter visualization,https://github.com/datavisyn/visyn_core/pull/670,2025-01-07T13:24:05Z,2025-01-09T09:39:26Z,4,5,MERGED
+visyn_core,deps: pin lineupengine as 2.5.3 breaks with scss errors,https://github.com/datavisyn/visyn_core/pull/669,2025-01-07T10:22:54Z,2025-01-08T07:51:50Z,1,1,CLOSED

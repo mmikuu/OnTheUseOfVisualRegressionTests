@@ -1,0 +1,869 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+design-system,Remove unused keyframes import,https://github.com/priceline/design-system/pull/545,2019-07-30T21:35:43Z,2019-08-09T16:49:09Z,2,1,MERGED
+design-system,conditional outline style for icons based on focusable and tabIndex p…,https://github.com/priceline/design-system/pull/540,2019-07-16T16:50:12Z,2019-09-27T18:48:39Z,7,1,CLOSED
+design-system,Fix remove outline from icons 2,https://github.com/priceline/design-system/pull/539,2019-07-16T13:13:34Z,2019-07-16T16:06:40Z,1,34,CLOSED
+design-system,fix: Tab index issue prevents focus to be moved around modal,https://github.com/priceline/design-system/pull/537,2019-07-15T17:49:44Z,2019-07-15T18:06:33Z,1,1,MERGED
+design-system,Add borderColor prop to Stamp,https://github.com/priceline/design-system/pull/535,2019-07-12T15:40:37Z,2019-07-12T16:30:56Z,2,2,MERGED
+design-system,remove outline from icons,https://github.com/priceline/design-system/pull/534,2019-07-12T14:41:49Z,2019-07-16T13:16:15Z,2,2,CLOSED
+design-system,fix(popover-dependency): Update dependencies of pcln-popover,https://github.com/priceline/design-system/pull/532,2019-07-10T15:37:44Z,2019-07-10T15:43:15Z,1,1,MERGED
+design-system,Adding Theming Support,https://github.com/priceline/design-system/pull/528,2019-07-03T16:19:14Z,2019-08-23T22:42:28Z,14,32,MERGED
+design-system,fix: clean up console warnings Icon name's casing,https://github.com/priceline/design-system/pull/527,2019-06-28T14:22:53Z,2019-06-28T14:44:04Z,1,1,MERGED
+design-system,fix: correct width prop in Banner,https://github.com/priceline/design-system/pull/526,2019-06-27T23:36:37Z,2019-06-28T14:42:50Z,1,2,MERGED
+design-system,feat(publishing): add documentation about publishing,https://github.com/priceline/design-system/pull/525,2019-06-27T19:13:52Z,2019-08-09T17:00:27Z,3,5,MERGED
+design-system,Feature/no icon tab,https://github.com/priceline/design-system/pull/524,2019-06-27T14:33:51Z,2019-06-27T17:38:17Z,3,5,MERGED
+design-system,fix(banner): fix Banner styling,https://github.com/priceline/design-system/pull/523,2019-06-25T17:06:10Z,2019-06-28T15:11:07Z,1,2,CLOSED
+design-system,fix: add isIcon flag to Icon in pcln-icons to support FormField in core,https://github.com/priceline/design-system/pull/520,2019-06-22T02:23:18Z,2019-06-24T15:03:04Z,1,1,MERGED
+design-system,feat(sr-only-v1): add SrOnly for v1,https://github.com/priceline/design-system/pull/519,2019-06-20T16:59:14Z,2019-06-24T19:07:36Z,2,1,MERGED
+design-system,Fix ScrollLock bug that incorrectly positioned body,https://github.com/priceline/design-system/pull/517,2019-06-10T17:23:47Z,2019-06-11T18:48:56Z,3,2,MERGED
+design-system,Svg accessibility docs,https://github.com/priceline/design-system/pull/515,2019-06-07T15:18:26Z,2019-06-11T16:23:05Z,1,3,MERGED
+design-system,Svg accessibility,https://github.com/priceline/design-system/pull/514,2019-06-07T15:02:03Z,2019-06-07T15:03:46Z,0,3,CLOSED
+design-system,Release: Core 2.6.2,https://github.com/priceline/design-system/pull/636,2019-10-29T20:08:19Z,2019-10-29T20:42:10Z,0,1,MERGED
+design-system,Configure Plop to enable one-touch component scaffolding,https://github.com/priceline/design-system/pull/634,2019-10-25T12:37:42Z,2019-11-07T16:57:24Z,15,3,MERGED
+design-system,Fix broken Popover by changing innerRefs to refs,https://github.com/priceline/design-system/pull/633,2019-10-24T07:59:10Z,2019-11-07T16:12:55Z,6,3,MERGED
+design-system,Fix: Reverting GreenButton and OutlineButton to styled-components,https://github.com/priceline/design-system/pull/632,2019-10-23T17:57:59Z,2019-10-23T20:23:10Z,0,1,MERGED
+design-system,make package-lock use registry.npmjs.org,https://github.com/priceline/design-system/pull/630,2019-10-18T14:20:23Z,2019-10-18T14:34:44Z,2,1,MERGED
+design-system,"clear executable bits on {js,md} files",https://github.com/priceline/design-system/pull/629,2019-10-18T13:43:59Z,2019-10-18T14:35:03Z,1,1,MERGED
+design-system,Update snapshots for current master,https://github.com/priceline/design-system/pull/627,2019-10-17T15:35:53Z,2019-10-17T17:03:58Z,1,1,MERGED
+design-system,[docs]add TextArea section,https://github.com/priceline/design-system/pull/626,2019-10-17T13:28:20Z,2019-10-17T23:28:59Z,3,1,MERGED
+design-system,Fix: Broken Docs Build,https://github.com/priceline/design-system/pull/625,2019-10-16T22:21:35Z,2019-10-17T03:26:27Z,1,1,MERGED
+design-system,Add aria-label attr to Button that mirrors title prop,https://github.com/priceline/design-system/pull/624,2019-10-16T19:49:46Z,2019-10-18T12:24:50Z,4,5,MERGED
+design-system,release 2.6.0,https://github.com/priceline/design-system/pull/623,2019-10-16T19:28:40Z,2019-10-16T19:37:52Z,1,1,MERGED
+design-system,Update deps in core and doc site; version pcln-design-system 2.5.3,https://github.com/priceline/design-system/pull/622,2019-10-15T18:57:25Z,2019-10-15T19:06:56Z,1,1,MERGED
+design-system,Version pcln-icons v2.2.2,https://github.com/priceline/design-system/pull/621,2019-10-15T18:15:24Z,2019-10-15T18:19:18Z,0,1,MERGED
+design-system,Fixed undefined bug on IconName var,https://github.com/priceline/design-system/pull/620,2019-10-15T15:30:49Z,2019-10-15T16:55:02Z,2,2,MERGED
+design-system,v2.2.1 for pcln-icons,https://github.com/priceline/design-system/pull/619,2019-10-14T19:46:00Z,2019-10-14T20:17:18Z,3,1,MERGED
+design-system,add kyle pollock to contributors,https://github.com/priceline/design-system/pull/618,2019-10-13T17:34:13Z,2019-10-15T13:41:55Z,2,1,MERGED
+design-system,Fix input semantic colors,https://github.com/priceline/design-system/pull/617,2019-10-13T15:27:01Z,2019-10-15T16:03:00Z,2,2,MERGED
+design-system,fix Icon references in docsite,https://github.com/priceline/design-system/pull/616,2019-10-13T03:27:34Z,2019-10-14T15:08:01Z,2,1,MERGED
+design-system,Fix unmapped icon handlement,https://github.com/priceline/design-system/pull/615,2019-10-11T21:23:06Z,2019-10-14T19:27:44Z,15,6,MERGED
+design-system,Ecosystem,https://github.com/priceline/design-system/pull/614,2019-10-11T18:42:06Z,2019-10-11T21:08:37Z,11,6,MERGED
+design-system,Ecosystem upgrades rebase 2,https://github.com/priceline/design-system/pull/613,2019-10-11T18:33:26Z,2019-10-11T19:07:48Z,0,4,CLOSED
+design-system,Ecosystem upgrades rebase,https://github.com/priceline/design-system/pull/612,2019-10-11T18:25:54Z,2019-10-11T18:28:17Z,0,113,CLOSED
+design-system,ecosystem upgrades,https://github.com/priceline/design-system/pull/611,2019-10-11T17:46:18Z,2019-10-11T19:08:02Z,2,1,CLOSED
+design-system,add TextArea component,https://github.com/priceline/design-system/pull/609,2019-10-11T03:00:17Z,2019-10-16T14:41:29Z,9,1,MERGED
+design-system,[refactor]make placeholderimage.js not executable,https://github.com/priceline/design-system/pull/608,2019-10-11T01:27:32Z,2019-10-15T13:39:19Z,1,1,MERGED
+design-system,fix automatic scroll on popover open,https://github.com/priceline/design-system/pull/607,2019-10-10T19:19:08Z,2019-10-10T19:24:12Z,1,1,MERGED
+design-system,Feature/521 input font size,https://github.com/priceline/design-system/pull/604,2019-10-07T17:15:11Z,2019-10-11T13:32:58Z,4,1,MERGED
+design-system,Add text to hide2,https://github.com/priceline/design-system/pull/603,2019-10-01T21:19:58Z,2019-10-15T16:56:58Z,3,4,MERGED
+design-system,Fix broken 2.4.x and 2.5.0 builds,https://github.com/priceline/design-system/pull/602,2019-10-01T16:05:02Z,2019-10-01T16:57:09Z,1,1,MERGED
+design-system,icon outline,https://github.com/priceline/design-system/pull/601,2019-09-27T22:01:48Z,2019-09-27T22:21:51Z,3,1,MERGED
+design-system,Icon outline property fix,https://github.com/priceline/design-system/pull/599,2019-09-27T15:26:25Z,2019-09-27T22:03:05Z,2,3,CLOSED
+design-system,Release: Core 2.4.0,https://github.com/priceline/design-system/pull/598,2019-09-26T15:26:16Z,2019-09-26T18:08:47Z,1,1,MERGED
+design-system,Hide with inline,https://github.com/priceline/design-system/pull/597,2019-09-25T17:40:12Z,2019-10-01T19:27:30Z,4,2,CLOSED
+design-system,fix: Remove-h5-from-banner-component,https://github.com/priceline/design-system/pull/596,2019-09-25T15:34:19Z,2019-09-27T16:12:42Z,4,4,MERGED
+design-system,Fix: IconButton Close Hover - #594,https://github.com/priceline/design-system/pull/595,2019-09-25T14:57:22Z,2019-09-25T16:25:26Z,1,1,MERGED
+design-system,fix: adding-image-height-attribute-precedence,https://github.com/priceline/design-system/pull/592,2019-09-20T17:44:05Z,2019-09-20T22:07:07Z,1,2,MERGED
+design-system,Update Layout.md,https://github.com/priceline/design-system/pull/591,2019-09-20T15:06:10Z,2019-09-20T21:11:38Z,1,1,MERGED
+design-system,chore: version core 2.3.2,https://github.com/priceline/design-system/pull/590,2019-09-19T00:23:59Z,2019-09-19T00:28:03Z,1,1,MERGED
+design-system,Fix: fixing palette colors with camel case names,https://github.com/priceline/design-system/pull/589,2019-09-18T17:17:46Z,2019-09-18T19:23:46Z,1,1,MERGED
+design-system,"refactor: update color theme fn per ""text"" color & migration guide",https://github.com/priceline/design-system/pull/588,2019-09-18T15:38:33Z,2019-09-19T00:13:50Z,6,6,MERGED
+design-system,feat(single-handle-slider): Export Slider,https://github.com/priceline/design-system/pull/587,2019-09-13T17:48:10Z,2019-09-18T13:33:31Z,5,3,MERGED
+design-system,fix(slider-build): fix slider build - 498,https://github.com/priceline/design-system/pull/586,2019-09-12T00:58:45Z,2019-09-12T13:47:51Z,1,1,MERGED
+design-system,Added props to Icon element so the PropType check doesn't complain,https://github.com/priceline/design-system/pull/585,2019-09-11T20:36:19Z,2019-10-17T14:25:19Z,2,3,MERGED
+design-system,Stepper,https://github.com/priceline/design-system/pull/584,2019-09-10T22:57:35Z,2019-09-20T21:43:03Z,14,3,MERGED
+design-system,Stepper,https://github.com/priceline/design-system/pull/583,2019-09-09T20:19:55Z,2019-09-10T22:48:34Z,13,0,CLOSED
+design-system,fix: Select arrow in IE11,https://github.com/priceline/design-system/pull/581,2019-09-04T13:49:35Z,2019-09-20T21:34:47Z,2,1,MERGED
+design-system,Core version 2.3.1 with pcln-icons 2.1.0,https://github.com/priceline/design-system/pull/580,2019-09-03T17:40:35Z,2019-09-03T18:08:26Z,1,1,MERGED
+design-system,Icons version 2.1.0,https://github.com/priceline/design-system/pull/579,2019-09-03T15:55:12Z,2019-09-03T16:43:24Z,1,1,MERGED
+design-system,chore(Hide): hide able to handle inline ,https://github.com/priceline/design-system/pull/578,2019-09-03T00:17:52Z,2019-09-25T14:07:40Z,6,1,CLOSED
+design-system,Feature/slider,https://github.com/priceline/design-system/pull/575,2019-08-28T13:32:03Z,2019-09-04T17:43:32Z,11,1,MERGED
+design-system,Add width to label,https://github.com/priceline/design-system/pull/574,2019-08-27T20:53:24Z,2019-09-02T23:27:26Z,0,2,MERGED
+design-system,Add support for palette colors to icons,https://github.com/priceline/design-system/pull/572,2019-08-27T18:30:15Z,2019-08-29T20:20:10Z,2,1,MERGED
+design-system,"width added to src, storybook, spec within Label",https://github.com/priceline/design-system/pull/571,2019-08-26T20:15:33Z,2019-08-27T20:52:21Z,0,1,CLOSED
+design-system,Core Version 2.3.0,https://github.com/priceline/design-system/pull/570,2019-08-26T18:46:13Z,2019-08-26T20:06:56Z,0,1,MERGED
+design-system,Fix: Docs Build,https://github.com/priceline/design-system/pull/569,2019-08-26T16:11:56Z,2019-08-26T16:58:28Z,1,1,MERGED
+design-system,Update focus and hover states for Radio component,https://github.com/priceline/design-system/pull/568,2019-08-22T13:37:44Z,2019-08-23T14:47:10Z,2,3,MERGED
+design-system,Remove Warnings and Update Readme for Theming,https://github.com/priceline/design-system/pull/567,2019-08-21T19:57:05Z,2019-09-03T17:47:49Z,2,1,MERGED
+design-system,WIP - Remove Warnings and Update Readme for Theming,https://github.com/priceline/design-system/pull/566,2019-08-21T19:44:36Z,2019-08-21T19:51:19Z,0,0,CLOSED
+design-system,Remove PCLN internal URLs from package-lock.json,https://github.com/priceline/design-system/pull/564,2019-08-21T17:26:41Z,2019-08-23T14:48:57Z,2,2,CLOSED
+design-system,Fix/#544 modal style chaining,https://github.com/priceline/design-system/pull/563,2019-08-20T14:38:45Z,2019-08-23T14:50:06Z,2,3,MERGED
+design-system,fix: modal style update,https://github.com/priceline/design-system/pull/562,2019-08-19T21:29:02Z,2019-08-19T21:47:53Z,2,2,CLOSED
+design-system,set explicit rules for FormField label and icon,https://github.com/priceline/design-system/pull/561,2019-08-19T14:06:05Z,2019-08-27T15:24:50Z,1,1,MERGED
+design-system,Breadcrumbs,https://github.com/priceline/design-system/pull/559,2019-08-16T21:59:29Z,2019-09-09T20:20:04Z,9,1,CLOSED
+design-system,Checkbox a11y,https://github.com/priceline/design-system/pull/558,2019-08-16T16:49:22Z,2019-08-21T03:25:20Z,2,11,MERGED
+design-system,Creation of a PlaceholderImage component to be used during development,https://github.com/priceline/design-system/pull/554,2019-08-12T20:13:09Z,2019-09-20T21:28:35Z,2,1,MERGED
+design-system,Add note about InputField to migration guide,https://github.com/priceline/design-system/pull/552,2019-08-09T17:06:43Z,2019-08-23T14:50:28Z,0,4,MERGED
+design-system,Add Modal to docs site,https://github.com/priceline/design-system/pull/551,2019-08-09T15:48:48Z,2019-08-23T12:48:40Z,5,5,MERGED
+design-system,feat: add additional props to pcln modal for custom animations,https://github.com/priceline/design-system/pull/548,2019-08-08T21:30:57Z,2019-08-09T16:47:42Z,7,6,MERGED
+design-system,Allow Icon Button in Form Field,https://github.com/priceline/design-system/pull/547,2019-08-01T21:27:14Z,2019-08-09T16:46:45Z,2,1,MERGED
+design-system,feat(deprecated-prop-type-v2): export deprecatedPropType,https://github.com/priceline/design-system/pull/702,2019-12-31T18:04:43Z,2019-12-31T18:07:41Z,0,1,CLOSED
+design-system,pcln-design-system v3.1.0,https://github.com/priceline/design-system/pull/701,2019-12-30T22:16:53Z,2019-12-30T22:24:37Z,1,1,MERGED
+design-system,fix LGTM issues,https://github.com/priceline/design-system/pull/700,2019-12-30T21:57:01Z,2020-01-03T16:01:13Z,4,2,MERGED
+design-system,fix LGTM issues,https://github.com/priceline/design-system/pull/699,2019-12-30T21:51:02Z,2019-12-30T21:56:32Z,1,1,CLOSED
+design-system,Fix Travis builds,https://github.com/priceline/design-system/pull/698,2019-12-30T19:32:47Z,2019-12-30T20:21:05Z,1,1,MERGED
+design-system,Update @reach/dialog in pcln-modal,https://github.com/priceline/design-system/pull/697,2019-12-24T18:32:33Z,2020-01-03T22:45:17Z,5,1,MERGED
+design-system,Update @reach/dialog in pcln-modal for DS v2,https://github.com/priceline/design-system/pull/696,2019-12-24T18:20:37Z,2020-01-03T22:41:53Z,8,1,MERGED
+design-system,Move hoist-non-react-statics from devDependencies to dependencies to …,https://github.com/priceline/design-system/pull/695,2019-12-16T22:49:10Z,2019-12-17T15:33:58Z,1,1,MERGED
+design-system,Storybook v5 enhancements,https://github.com/priceline/design-system/pull/694,2019-12-15T19:57:59Z,2019-12-30T20:29:15Z,2,3,MERGED
+design-system,feat(buttonlink): add link variation to button component,https://github.com/priceline/design-system/pull/692,2019-12-06T22:45:55Z,2019-12-13T21:01:21Z,4,2,MERGED
+design-system,Resolve skipped tests,https://github.com/priceline/design-system/pull/688,2019-12-03T22:38:22Z,2019-12-04T16:03:28Z,1,1,MERGED
+design-system,v3 of all packages,https://github.com/priceline/design-system/pull/687,2019-12-03T15:40:16Z,2019-12-13T20:34:23Z,13,50,MERGED
+design-system,Next v3 icon a11y tests,https://github.com/priceline/design-system/pull/685,2019-12-02T23:06:43Z,2019-12-03T04:55:42Z,2,2,MERGED
+design-system,fix(icon-import): use icon from core,https://github.com/priceline/design-system/pull/684,2019-12-02T20:07:09Z,2019-12-02T20:27:58Z,1,1,MERGED
+design-system,comments on next-v3: addressed duplicate border-color in some snapshots,https://github.com/priceline/design-system/pull/683,2019-12-02T18:48:51Z,2019-12-02T20:02:54Z,0,1,MERGED
+design-system,Improve resiliency of Banner's header,https://github.com/priceline/design-system/pull/681,2019-12-02T17:26:59Z,2019-12-02T20:03:44Z,1,2,MERGED
+design-system,fix(label-width): prevent label width overflow,https://github.com/priceline/design-system/pull/680,2019-12-02T15:00:52Z,2019-12-02T16:36:12Z,2,2,MERGED
+design-system,Link - set rel noopener when target is blank,https://github.com/priceline/design-system/pull/679,2019-11-29T23:15:14Z,2019-12-02T20:56:27Z,4,1,MERGED
+design-system,Avatar v2,https://github.com/priceline/design-system/pull/678,2019-11-22T23:12:30Z,2019-11-26T22:28:06Z,2,1,MERGED
+design-system,Breadcrumbs component (for v2),https://github.com/priceline/design-system/pull/677,2019-11-22T20:02:40Z,2019-11-26T22:29:50Z,1,1,MERGED
+design-system,Fix deprecatedPropType Import,https://github.com/priceline/design-system/pull/676,2019-11-21T18:47:23Z,2019-11-21T19:11:23Z,1,1,MERGED
+design-system,Utilities docs and unit tests,https://github.com/priceline/design-system/pull/675,2019-11-20T14:25:26Z,2019-11-27T17:48:12Z,3,2,MERGED
+design-system,Add get palette color to docs,https://github.com/priceline/design-system/pull/673,2019-11-18T04:27:04Z,2019-11-19T13:41:41Z,2,1,MERGED
+design-system,Text shadows,https://github.com/priceline/design-system/pull/672,2019-11-17T07:46:50Z,2019-11-19T17:46:57Z,1,3,MERGED
+design-system,Breadcrumbs component,https://github.com/priceline/design-system/pull/671,2019-11-17T01:16:47Z,2019-11-18T16:05:27Z,3,1,MERGED
+design-system,Responsive Icon Widths,https://github.com/priceline/design-system/pull/670,2019-11-16T01:55:59Z,2019-11-19T13:37:54Z,3,2,MERGED
+design-system,Remove align from tooltip,https://github.com/priceline/design-system/pull/669,2019-11-16T00:26:36Z,2019-11-16T01:12:54Z,2,1,MERGED
+design-system,Set Engine Config,https://github.com/priceline/design-system/pull/668,2019-11-15T22:25:31Z,2019-11-15T23:36:24Z,2,1,MERGED
+design-system,(#650) Mark bg prop as deprecated,https://github.com/priceline/design-system/pull/666,2019-11-15T22:07:37Z,2019-11-19T17:53:06Z,1,1,MERGED
+design-system,Add contributor tools,https://github.com/priceline/design-system/pull/665,2019-11-15T21:42:15Z,2019-11-15T23:36:40Z,2,1,MERGED
+design-system,Remove deprecated components,https://github.com/priceline/design-system/pull/664,2019-11-15T20:28:16Z,2019-11-19T13:40:24Z,4,4,MERGED
+design-system,"Update Banner docs page, remove use of Icon",https://github.com/priceline/design-system/pull/663,2019-11-15T20:22:48Z,2019-11-19T19:13:49Z,6,3,MERGED
+design-system,External link icon,https://github.com/priceline/design-system/pull/662,2019-11-15T19:35:38Z,2019-11-16T00:04:03Z,2,2,MERGED
+design-system,Chip component,https://github.com/priceline/design-system/pull/660,2019-11-15T17:31:37Z,2020-01-24T19:00:32Z,4,2,CLOSED
+design-system,Swap Input and TextArea to use border over box-shadow (#529),https://github.com/priceline/design-system/pull/659,2019-11-14T23:26:30Z,2019-11-15T19:03:50Z,4,2,MERGED
+design-system,Avatar component,https://github.com/priceline/design-system/pull/658,2019-11-14T22:47:27Z,2019-11-15T20:31:11Z,8,6,MERGED
+design-system,Default icon title is name,https://github.com/priceline/design-system/pull/656,2019-11-14T21:10:03Z,2019-11-15T23:49:21Z,3,4,MERGED
+design-system,Add width support to Image,https://github.com/priceline/design-system/pull/653,2019-11-14T19:59:19Z,2019-11-15T13:12:22Z,3,4,MERGED
+design-system,Add optional focus lock to Popover,https://github.com/priceline/design-system/pull/652,2019-11-14T19:25:10Z,2019-11-15T00:14:55Z,1,1,MERGED
+design-system,Banner accepts node as header prop,https://github.com/priceline/design-system/pull/651,2019-11-14T17:40:31Z,2019-11-15T00:22:08Z,2,4,MERGED
+design-system,"Remove Icon usage from Hug, Select, and Step",https://github.com/priceline/design-system/pull/649,2019-11-14T17:19:34Z,2019-11-15T00:16:18Z,3,1,MERGED
+design-system,Link uses dark shade one hover,https://github.com/priceline/design-system/pull/648,2019-11-14T16:02:17Z,2019-11-14T16:15:00Z,2,2,MERGED
+design-system,WIP v3.0.0 of all packages - with tree-shaking,https://github.com/priceline/design-system/pull/644,2019-11-14T00:11:39Z,2019-12-13T20:34:25Z,15,36,MERGED
+design-system,enable tree-shaking and version bumps:,https://github.com/priceline/design-system/pull/643,2019-11-11T19:38:10Z,2019-11-15T19:27:39Z,8,1,CLOSED
+design-system,Component guidance docs,https://github.com/priceline/design-system/pull/642,2019-11-06T22:49:29Z,2019-11-07T14:43:32Z,15,4,MERGED
+design-system,Standardize the disabled button,https://github.com/priceline/design-system/pull/641,2019-11-06T19:07:45Z,2019-11-06T23:37:05Z,2,2,MERGED
+design-system,version bumps after merge of rollup optimizations:,https://github.com/priceline/design-system/pull/640,2019-11-06T05:47:03Z,2019-11-11T19:38:26Z,1,1,CLOSED
+design-system,apply rollup to all packages except icons,https://github.com/priceline/design-system/pull/639,2019-11-05T18:24:10Z,2019-11-06T05:38:03Z,2,2,MERGED
+design-system,Post Organization Migration Housekeeping,https://github.com/priceline/design-system/pull/638,2019-11-05T05:44:03Z,2019-11-05T16:14:01Z,1,1,MERGED
+design-system,"rename instances of priceline{labs,}",https://github.com/priceline/design-system/pull/637,2019-11-04T14:19:52Z,2019-11-04T17:41:26Z,1,1,MERGED
+design-system,Change checkbox hover color to dark rather than dark blue,https://github.com/priceline/design-system/pull/736,2020-03-26T19:59:41Z,2020-03-31T15:31:39Z,0,1,MERGED
+design-system,More Advice on the xxl breaking change,https://github.com/priceline/design-system/pull/735,2020-03-26T19:42:14Z,2020-03-27T18:37:52Z,0,1,MERGED
+design-system,Bump core version to reflect latest published version,https://github.com/priceline/design-system/pull/734,2020-03-24T18:33:20Z,2020-03-26T09:56:50Z,0,1,MERGED
+design-system,Bump modal version,https://github.com/priceline/design-system/pull/733,2020-03-24T16:12:10Z,2020-03-24T16:20:57Z,0,1,MERGED
+design-system,Version bump for pcln-popover,https://github.com/priceline/design-system/pull/732,2020-03-23T19:11:18Z,2020-03-23T19:16:12Z,0,1,MERGED
+design-system,Fix compatibility with SC3 and SC4,https://github.com/priceline/design-system/pull/731,2020-03-23T16:59:06Z,2020-03-23T19:04:43Z,4,2,MERGED
+design-system,Document breaking changes to `<Hide>`,https://github.com/priceline/design-system/pull/729,2020-03-20T14:39:20Z,2020-03-20T14:45:11Z,1,1,MERGED
+design-system,Fix style bug in ModalHeader,https://github.com/priceline/design-system/pull/727,2020-03-18T15:26:18Z,2020-03-20T05:03:41Z,2,1,MERGED
+design-system,Update the docs site next.js version to 9.3.1,https://github.com/priceline/design-system/pull/726,2020-03-18T00:13:53Z,2020-03-18T15:39:17Z,1,1,MERGED
+design-system,modal header close button focus uses palette color,https://github.com/priceline/design-system/pull/723,2020-03-16T16:27:25Z,2020-03-17T16:51:13Z,1,1,MERGED
+design-system,modal header close button focus uses palette color,https://github.com/priceline/design-system/pull/722,2020-03-13T20:17:41Z,2020-03-16T14:25:46Z,1,1,MERGED
+design-system,added download icon,https://github.com/priceline/design-system/pull/719,2020-02-13T18:57:40Z,2020-03-04T17:43:36Z,1,3,MERGED
+design-system,Slider v2.3.0,https://github.com/priceline/design-system/pull/718,2020-01-31T18:49:01Z,2020-01-31T18:55:29Z,1,2,MERGED
+design-system,v3.1.0 pcln-slider,https://github.com/priceline/design-system/pull/715,2020-01-31T17:23:17Z,2020-01-31T18:55:18Z,1,1,MERGED
+design-system,Chip component,https://github.com/priceline/design-system/pull/713,2020-01-24T18:59:16Z,2020-04-10T17:42:09Z,2,1,CLOSED
+design-system,Add parallax variation to BackgroundImage,https://github.com/priceline/design-system/pull/712,2020-01-21T21:28:59Z,2020-01-22T14:56:34Z,3,1,MERGED
+design-system,Update Lifecycle method in slider,https://github.com/priceline/design-system/pull/709,2020-01-15T14:54:07Z,2020-01-15T15:24:29Z,1,1,MERGED
+design-system,Update Lifecycle method in slider,https://github.com/priceline/design-system/pull/708,2020-01-14T21:46:12Z,2020-01-15T15:24:38Z,2,1,MERGED
+design-system,Replace lifecycle as unsafe,https://github.com/priceline/design-system/pull/707,2020-01-14T21:44:40Z,2020-01-15T14:57:13Z,1,4,CLOSED
+design-system,fix(browser-modal): fix browser specific bugs,https://github.com/priceline/design-system/pull/706,2020-01-08T20:30:07Z,2020-01-24T19:06:24Z,1,1,MERGED
+design-system,feat(tag-beta): explain --tag beta,https://github.com/priceline/design-system/pull/705,2020-01-03T21:08:40Z,2020-01-07T15:23:00Z,2,2,MERGED
+design-system,Add deprecated props to components that already have declarations,https://github.com/priceline/design-system/pull/831,2020-05-29T20:20:57Z,2020-05-29T20:26:58Z,2,1,MERGED
+design-system,Add prop types for badge components,https://github.com/priceline/design-system/pull/829,2020-05-29T19:53:15Z,2020-05-29T20:01:46Z,1,1,MERGED
+design-system,Update prettier hook apply,https://github.com/priceline/design-system/pull/828,2020-05-29T19:18:09Z,2020-05-29T19:31:00Z,1,3,MERGED
+design-system,Fix package vulnerabilities in the next.js docsite,https://github.com/priceline/design-system/pull/827,2020-05-29T18:02:31Z,2020-05-29T18:31:06Z,2,2,MERGED
+design-system,Add Priceline logo to theme,https://github.com/priceline/design-system/pull/826,2020-05-29T18:02:29Z,2020-05-29T18:48:00Z,3,1,MERGED
+design-system,Fix style bug on popover docs page by disabling stories slot,https://github.com/priceline/design-system/pull/824,2020-05-29T17:44:39Z,2020-05-29T19:00:41Z,1,1,MERGED
+design-system,Add prop types for static display components,https://github.com/priceline/design-system/pull/823,2020-05-29T16:42:16Z,2020-05-29T20:39:24Z,10,1,MERGED
+design-system,Add types for Breadcrumbs and Stepper,https://github.com/priceline/design-system/pull/822,2020-05-29T16:04:52Z,2020-05-29T16:21:58Z,1,1,MERGED
+design-system,Add types to exported utility functions,https://github.com/priceline/design-system/pull/820,2020-05-29T15:03:51Z,2020-05-29T15:14:18Z,2,2,MERGED
+design-system,feat(input-prop-types): Add type defs for input related components,https://github.com/priceline/design-system/pull/819,2020-05-29T14:03:25Z,2020-06-01T14:22:14Z,5,3,MERGED
+design-system,Define prop types for icon & buttons,https://github.com/priceline/design-system/pull/818,2020-05-28T21:45:11Z,2020-05-29T15:43:43Z,6,1,MERGED
+design-system,add custom padding to flag (#259),https://github.com/priceline/design-system/pull/817,2020-05-28T20:49:44Z,2020-05-29T15:09:34Z,1,1,MERGED
+design-system,Add aria-label / aria-lablledby props to Modal,https://github.com/priceline/design-system/pull/816,2020-05-28T20:16:34Z,2020-05-28T20:37:25Z,3,1,MERGED
+design-system,Add prop types for image components,https://github.com/priceline/design-system/pull/815,2020-05-28T19:58:27Z,2020-05-29T12:37:19Z,2,1,MERGED
+design-system,Upgrade to styled-system@^4,https://github.com/priceline/design-system/pull/814,2020-05-28T19:01:36Z,2020-05-29T12:37:00Z,1,1,MERGED
+design-system,Prop types for text and a11y components,https://github.com/priceline/design-system/pull/813,2020-05-28T18:18:11Z,2020-05-28T18:18:23Z,0,1,CLOSED
+design-system,"Add prop types for link, typography, and a11y components",https://github.com/priceline/design-system/pull/812,2020-05-28T17:57:48Z,2020-05-28T18:35:07Z,2,2,MERGED
+design-system,Fix a few LGTM alerts (unused imports),https://github.com/priceline/design-system/pull/811,2020-05-28T17:29:47Z,2020-05-28T17:36:33Z,2,1,MERGED
+design-system,Fix Storybook configuration and sub-package stories,https://github.com/priceline/design-system/pull/810,2020-05-28T17:24:19Z,2020-05-28T17:34:34Z,1,1,MERGED
+design-system,Update plop template to use new folder structure,https://github.com/priceline/design-system/pull/808,2020-05-28T17:14:57Z,2020-05-28T17:34:26Z,1,1,MERGED
+design-system,Use version of @types to match styled-system,https://github.com/priceline/design-system/pull/807,2020-05-28T16:05:34Z,2020-05-28T17:34:17Z,1,2,MERGED
+design-system,Enable types for core project,https://github.com/priceline/design-system/pull/805,2020-05-28T15:01:29Z,2020-05-28T15:13:24Z,1,1,MERGED
+design-system,Fix sc migration utility test,https://github.com/priceline/design-system/pull/804,2020-05-28T13:19:36Z,2020-05-28T13:58:24Z,1,8,MERGED
+design-system,Update .travis.yml,https://github.com/priceline/design-system/pull/803,2020-05-28T03:31:24Z,2020-05-28T14:59:55Z,1,1,MERGED
+design-system,Resolve Lerna warnings,https://github.com/priceline/design-system/pull/802,2020-05-28T03:20:58Z,2020-05-28T15:09:34Z,1,1,MERGED
+design-system,Create continuous-integration.yml,https://github.com/priceline/design-system/pull/801,2020-05-28T02:09:04Z,2020-05-28T15:40:06Z,2,4,MERGED
+design-system,Create continuous-integration,https://github.com/priceline/design-system/pull/800,2020-05-28T02:06:03Z,2020-05-28T02:09:20Z,0,1,CLOSED
+design-system,"npm audit fix, delete .github. directory",https://github.com/priceline/design-system/pull/799,2020-05-28T02:00:02Z,2020-05-28T12:57:16Z,0,1,MERGED
+design-system,Create ci-build,https://github.com/priceline/design-system/pull/798,2020-05-28T01:57:00Z,2020-05-28T02:06:51Z,0,2,CLOSED
+design-system,"colocate src, test and stories",https://github.com/priceline/design-system/pull/797,2020-05-27T20:52:46Z,2020-05-28T01:43:12Z,2,1,MERGED
+design-system,Responsive boxshadows card,https://github.com/priceline/design-system/pull/796,2020-05-27T16:44:21Z,2020-06-24T14:56:41Z,2,5,CLOSED
+design-system,Update issue templates,https://github.com/priceline/design-system/pull/783,2020-05-26T20:23:28Z,2020-05-28T13:21:06Z,1,1,MERGED
+design-system,Delete .github. folder,https://github.com/priceline/design-system/pull/780,2020-05-11T20:31:21Z,2020-05-12T16:34:56Z,0,4,MERGED
+design-system,pull,https://github.com/priceline/design-system/pull/779,2020-05-11T20:27:02Z,2020-05-11T20:27:19Z,0,2,CLOSED
+design-system,Fix npm vulnerabilities,https://github.com/priceline/design-system/pull/778,2020-05-11T18:43:04Z,2020-05-12T15:43:43Z,2,2,MERGED
+design-system,Added .github folder,https://github.com/priceline/design-system/pull/777,2020-05-11T14:58:40Z,2020-05-11T19:33:38Z,0,2,MERGED
+design-system,Bump popover to 3.3.1,https://github.com/priceline/design-system/pull/775,2020-05-08T19:44:48Z,2020-05-08T19:51:12Z,1,5,MERGED
+design-system,Create package for type declarations,https://github.com/priceline/design-system/pull/772,2020-05-05T20:06:07Z,2020-05-28T14:23:54Z,11,8,MERGED
+design-system,fix(721): Remove hardcoded popover theme,https://github.com/priceline/design-system/pull/771,2020-05-05T19:56:31Z,2020-05-07T12:33:09Z,7,1,MERGED
+design-system,Lazy Loading by Default,https://github.com/priceline/design-system/pull/770,2020-05-04T18:37:48Z,2020-05-05T19:43:39Z,5,1,CLOSED
+design-system,Fix ref prop type ssr,https://github.com/priceline/design-system/pull/769,2020-05-04T18:13:47Z,2020-05-04T18:25:31Z,0,3,MERGED
+design-system,Responsive boxshadows card,https://github.com/priceline/design-system/pull/764,2020-05-01T14:45:52Z,2020-05-01T14:46:06Z,0,2,CLOSED
+design-system,Bump core to 3.4.0,https://github.com/priceline/design-system/pull/763,2020-04-30T16:24:34Z,2020-05-01T20:11:46Z,0,1,MERGED
+design-system,Fix Link Button Styles,https://github.com/priceline/design-system/pull/762,2020-04-28T20:40:50Z,2020-04-28T21:20:10Z,1,1,MERGED
+design-system,fix(720): Modify popover aria label,https://github.com/priceline/design-system/pull/761,2020-04-28T20:18:19Z,2020-04-30T15:36:51Z,1,1,MERGED
+design-system,fix: Re-add target prop to link,https://github.com/priceline/design-system/pull/760,2020-04-28T18:18:41Z,2020-04-28T20:42:28Z,1,1,CLOSED
+design-system,Bump modal version to 3.3.0,https://github.com/priceline/design-system/pull/759,2020-04-24T19:57:57Z,2020-04-24T20:03:14Z,0,1,MERGED
+design-system,Modal Timeout Prop,https://github.com/priceline/design-system/pull/758,2020-04-21T22:07:14Z,2020-04-24T15:23:02Z,2,2,MERGED
+design-system,Forward refs to DS core components,https://github.com/priceline/design-system/pull/756,2020-04-21T19:36:02Z,2020-04-30T16:10:49Z,22,6,MERGED
+design-system,Fullscreen modal,https://github.com/priceline/design-system/pull/754,2020-04-21T16:04:27Z,2020-04-24T18:50:01Z,4,2,MERGED
+design-system,Add button variations to the link component,https://github.com/priceline/design-system/pull/753,2020-04-20T19:11:19Z,2020-04-24T18:12:31Z,1,1,MERGED
+design-system,Small Badge and Rename Stamp Variations and Size,https://github.com/priceline/design-system/pull/752,2020-04-17T22:16:32Z,2020-04-24T18:13:54Z,3,2,MERGED
+design-system,Bump core version to 3.3.0,https://github.com/priceline/design-system/pull/751,2020-04-17T19:39:09Z,2020-04-17T19:51:15Z,1,1,MERGED
+design-system,Bump popover version,https://github.com/priceline/design-system/pull/750,2020-04-17T17:46:55Z,2020-04-17T17:54:12Z,0,1,MERGED
+design-system,Step propagate props,https://github.com/priceline/design-system/pull/749,2020-04-16T19:01:12Z,2020-04-16T21:17:38Z,0,1,MERGED
+design-system,Stamp: Small Variation,https://github.com/priceline/design-system/pull/748,2020-04-16T18:31:58Z,2020-04-17T18:24:28Z,3,3,MERGED
+design-system,Add props to control popover display,https://github.com/priceline/design-system/pull/746,2020-04-13T18:09:52Z,2020-04-17T17:34:26Z,0,1,MERGED
+design-system,#741 Add props to control popover display,https://github.com/priceline/design-system/pull/745,2020-04-11T20:01:56Z,2020-04-13T18:04:09Z,0,48,CLOSED
+design-system,#741 Add props to control popover display,https://github.com/priceline/design-system/pull/744,2020-04-11T19:58:46Z,2020-04-11T19:59:12Z,0,1,CLOSED
+design-system,Themeable Slider,https://github.com/priceline/design-system/pull/743,2020-04-07T19:08:05Z,2020-04-10T17:41:45Z,3,5,MERGED
+design-system,Themeable Autosuggest,https://github.com/priceline/design-system/pull/742,2020-04-07T18:01:01Z,2020-04-07T21:25:38Z,0,2,MERGED
+design-system,Raise styled-components devDep to 5 for all packages,https://github.com/priceline/design-system/pull/895,2020-07-29T17:52:12Z,2020-09-02T18:21:32Z,1,1,CLOSED
+design-system,Update Label default color to text.light,https://github.com/priceline/design-system/pull/894,2020-07-29T17:46:00Z,2020-07-29T19:21:09Z,1,1,MERGED
+design-system,Add note about ThemeProvider to subpackage readmes,https://github.com/priceline/design-system/pull/893,2020-07-29T17:15:23Z,2020-07-29T17:29:33Z,1,1,MERGED
+design-system,Use div for Checkbox wrapper,https://github.com/priceline/design-system/pull/892,2020-07-27T20:34:43Z,2020-07-28T20:25:41Z,1,1,MERGED
+design-system,Change how we detect Styled Components version,https://github.com/priceline/design-system/pull/891,2020-07-24T15:06:28Z,2020-07-29T16:46:04Z,1,1,MERGED
+design-system,"Fix issue with styled(Button), refactor Button tests",https://github.com/priceline/design-system/pull/890,2020-07-24T04:25:44Z,2020-08-27T18:33:50Z,1,1,CLOSED
+design-system,Chore: popover version 3.3.2,https://github.com/priceline/design-system/pull/889,2020-07-23T21:25:00Z,2020-07-28T16:11:49Z,1,1,MERGED
+design-system,Update Slider.stories.js for a11y violations,https://github.com/priceline/design-system/pull/888,2020-07-23T19:35:14Z,2020-07-29T16:47:08Z,1,1,MERGED
+design-system,Remove unused variables,https://github.com/priceline/design-system/pull/887,2020-07-23T19:32:12Z,2020-07-24T16:03:11Z,1,1,MERGED
+design-system,Add lang attribute to html tag for Accessibility,https://github.com/priceline/design-system/pull/886,2020-07-23T18:12:40Z,2020-07-23T20:24:07Z,1,1,MERGED
+design-system,Combine actions for static storybook and docsite,https://github.com/priceline/design-system/pull/883,2020-07-23T13:18:46Z,2020-07-24T15:24:56Z,3,1,MERGED
+design-system,Enhancement: added additional props to Box to require fewer styled co…,https://github.com/priceline/design-system/pull/882,2020-07-22T15:41:03Z,2020-07-22T20:29:32Z,2,1,MERGED
+design-system,Bugfix - 'themeGet' not found in 'styled-system',https://github.com/priceline/design-system/pull/880,2020-07-20T19:54:17Z,2020-07-22T15:10:55Z,1,1,MERGED
+design-system,Update DS packages in docsite,https://github.com/priceline/design-system/pull/878,2020-07-14T20:50:02Z,2020-07-15T01:22:33Z,1,1,MERGED
+design-system,Fix SVGs to work with pcln-icons build script,https://github.com/priceline/design-system/pull/877,2020-07-14T19:26:53Z,2020-07-14T19:39:51Z,1,1,MERGED
+design-system,Add new SVG icons from design,https://github.com/priceline/design-system/pull/876,2020-07-13T20:29:55Z,2020-07-13T20:46:31Z,1,1,MERGED
+design-system,"Remove deploy step for Travis docsite, change target branch",https://github.com/priceline/design-system/pull/875,2020-07-13T20:23:39Z,2020-07-14T18:47:44Z,1,1,MERGED
+design-system,Remove types field from core package to avoid breaking TSC builds,https://github.com/priceline/design-system/pull/873,2020-07-13T14:47:34Z,2020-07-13T15:45:24Z,1,1,MERGED
+design-system,Establish TS pattern for core DS components,https://github.com/priceline/design-system/pull/871,2020-07-06T12:58:12Z,2020-09-24T19:51:40Z,17,16,CLOSED
+design-system,Establish pattern for writing core components in TypeScript,https://github.com/priceline/design-system/pull/868,2020-07-01T19:38:19Z,2020-07-06T12:56:05Z,12,18,CLOSED
+design-system,Design System v4,https://github.com/priceline/design-system/pull/865,2020-06-30T14:15:02Z,2020-11-18T15:28:35Z,3,7,MERGED
+design-system,Use GH Actions to build docsite and static storybook,https://github.com/priceline/design-system/pull/863,2020-06-29T20:22:18Z,2020-06-30T18:04:24Z,2,1,MERGED
+design-system,Create codemod to assist with pcln-icons upgrade,https://github.com/priceline/design-system/pull/860,2020-06-29T15:38:47Z,2020-06-30T12:45:01Z,1,1,MERGED
+design-system,Add pre-commit hook to screen for internal URLs in lockfiles,https://github.com/priceline/design-system/pull/858,2020-06-25T20:14:15Z,2020-06-30T18:03:38Z,5,1,MERGED
+design-system,Add README to core project,https://github.com/priceline/design-system/pull/857,2020-06-24T20:13:01Z,2020-06-25T13:09:51Z,1,1,MERGED
+design-system,Remove URLs for internal NPM registry,https://github.com/priceline/design-system/pull/854,2020-06-24T14:33:00Z,2020-06-24T15:08:13Z,3,1,MERGED
+design-system,Add HTML prop types to some components' declarations,https://github.com/priceline/design-system/pull/853,2020-06-19T16:33:08Z,2020-06-23T14:37:05Z,2,1,MERGED
+design-system,fix(821): Rename size to iconSize in CloseButton,https://github.com/priceline/design-system/pull/852,2020-06-17T16:07:06Z,2020-06-17T17:09:59Z,3,1,CLOSED
+design-system,Version bump for 3.5 and updating lockfile,https://github.com/priceline/design-system/pull/850,2020-06-16T16:30:49Z,2020-06-16T16:40:27Z,0,1,MERGED
+design-system,feat(sc-version-bump): uptick styled components to v5,https://github.com/priceline/design-system/pull/848,2020-06-08T17:55:35Z,2020-06-17T18:18:55Z,4,1,CLOSED
+design-system,Fix duplicate box-shadow in Card,https://github.com/priceline/design-system/pull/847,2020-06-08T12:46:10Z,2020-06-08T19:44:17Z,1,1,MERGED
+design-system,Add boxShadowSize prop to Box,https://github.com/priceline/design-system/pull/844,2020-06-05T14:45:39Z,2020-06-05T16:16:02Z,3,2,MERGED
+design-system,Typescript bugfixes,https://github.com/priceline/design-system/pull/841,2020-06-02T17:30:28Z,2020-06-02T18:24:01Z,2,3,MERGED
+design-system,Integrate ESLint into Design System,https://github.com/priceline/design-system/pull/832,2020-06-01T13:46:59Z,2020-06-01T16:34:19Z,3,3,MERGED
+design-system,Apply changes for checkbox fix,https://github.com/priceline/design-system/pull/955,2020-10-30T15:59:49Z,2020-11-02T15:18:41Z,0,1,MERGED
+design-system,Commit changes that were published by the WIP action,https://github.com/priceline/design-system/pull/953,2020-10-30T15:09:37Z,2020-10-30T15:32:28Z,1,5,MERGED
+design-system,Remove all usage of getSCMigration ref,https://github.com/priceline/design-system/pull/952,2020-10-28T20:12:51Z,2020-10-30T14:44:10Z,10,1,MERGED
+design-system,Automate release notes,https://github.com/priceline/design-system/pull/950,2020-10-23T16:56:22Z,2020-11-11T14:19:40Z,2,4,MERGED
+design-system,Update onChange of Checkbox to remove isRequired,https://github.com/priceline/design-system/pull/949,2020-10-22T20:13:14Z,2020-10-26T13:28:41Z,3,1,MERGED
+design-system,Fix /docs/out relative path,https://github.com/priceline/design-system/pull/947,2020-10-21T15:24:09Z,2020-12-04T17:27:28Z,0,1,CLOSED
+design-system,Revert change to remove mapProps from Button,https://github.com/priceline/design-system/pull/946,2020-10-21T14:54:34Z,2020-10-22T21:54:28Z,1,1,MERGED
+design-system,Fix Chromatic Baselines,https://github.com/priceline/design-system/pull/945,2020-10-20T17:17:37Z,2020-10-21T15:08:54Z,1,1,MERGED
+design-system,"Add background color fallback, so that browser color is not applied when screen is zoomed in to >125%",https://github.com/priceline/design-system/pull/944,2020-10-19T20:10:39Z,2020-10-22T21:58:48Z,3,1,MERGED
+design-system,fix(939): IconButton background colour transparent when disabled,https://github.com/priceline/design-system/pull/942,2020-10-16T18:09:43Z,2020-10-20T18:58:29Z,0,1,MERGED
+design-system,Remove hard coded font-weight from button / stamp,https://github.com/priceline/design-system/pull/941,2020-10-15T14:44:20Z,2020-10-16T16:24:18Z,1,1,MERGED
+design-system,Update docsite action to create .nojekyll file,https://github.com/priceline/design-system/pull/940,2020-10-12T15:00:56Z,2020-10-12T19:20:30Z,1,1,MERGED
+design-system,V4 styled components,https://github.com/priceline/design-system/pull/938,2020-09-18T18:02:48Z,2020-09-18T19:46:12Z,1,2,MERGED
+design-system,merge docsite and storybook baseline builds,https://github.com/priceline/design-system/pull/937,2020-09-18T16:40:16Z,2020-09-18T17:04:12Z,1,1,MERGED
+design-system,baseline build should not depend on docs/ build folder existing,https://github.com/priceline/design-system/pull/936,2020-09-18T16:17:06Z,2020-09-18T16:25:50Z,1,1,MERGED
+design-system,Update boilerplate to work with Rush,https://github.com/priceline/design-system/pull/935,2020-09-18T13:03:00Z,2020-09-25T18:51:41Z,10,5,MERGED
+design-system,Update CONTRIBUTING.md for Rush workflow,https://github.com/priceline/design-system/pull/934,2020-09-18T04:25:31Z,2020-09-25T18:22:07Z,4,1,MERGED
+design-system,created styled-components-v4 and styled-components-v5 installation variants,https://github.com/priceline/design-system/pull/933,2020-09-18T03:59:54Z,2020-09-18T16:09:30Z,1,1,MERGED
+design-system,Use CHROMATIC_PROJECT_TOKEN secret in docsite build,https://github.com/priceline/design-system/pull/932,2020-09-18T00:40:54Z,2020-09-18T15:25:10Z,1,1,MERGED
+design-system,Use CHROMATIC_PROJECT_TOKEN secret in docsite build,https://github.com/priceline/design-system/pull/931,2020-09-17T20:31:57Z,2020-09-17T20:36:45Z,0,1,MERGED
+design-system,fix Docsite and Storybook Chromatic Baseline workflows,https://github.com/priceline/design-system/pull/930,2020-09-17T19:15:00Z,2020-09-17T20:02:44Z,1,1,MERGED
+design-system,Convert Design System project to Rush monorepo,https://github.com/priceline/design-system/pull/929,2020-09-17T06:44:26Z,2020-09-17T18:54:17Z,1,1,MERGED
+design-system,Fix style bug when styling Button,https://github.com/priceline/design-system/pull/928,2020-09-11T16:41:08Z,2020-09-25T19:07:20Z,2,1,MERGED
+design-system,Improve readability of DS4 announcement,https://github.com/priceline/design-system/pull/927,2020-09-02T20:22:18Z,2020-09-03T12:12:27Z,0,1,MERGED
+design-system,issue(913): Add runtime deprecation for unnamed Icon,https://github.com/priceline/design-system/pull/926,2020-09-02T19:32:09Z,2020-09-02T21:07:02Z,1,1,MERGED
+design-system,issue(913): Add runtime deprecation for unnamed Icon,https://github.com/priceline/design-system/pull/925,2020-09-02T18:24:37Z,2020-09-02T19:30:43Z,1,1,CLOSED
+design-system,Add v4 announcement and migration guide,https://github.com/priceline/design-system/pull/924,2020-09-02T15:30:15Z,2020-09-02T16:06:29Z,2,1,MERGED
+design-system,issue(913): Add runtime deprecation for unnamed Icon,https://github.com/priceline/design-system/pull/923,2020-08-28T20:50:14Z,2020-09-02T18:23:09Z,5,1,CLOSED
+design-system,Popover v3.4.0,https://github.com/priceline/design-system/pull/922,2020-08-28T19:33:36Z,2020-08-31T12:24:55Z,1,1,MERGED
+design-system,Create baseline Chromatic snapshots on master integration,https://github.com/priceline/design-system/pull/921,2020-08-28T13:01:50Z,2020-08-28T15:21:30Z,2,3,MERGED
+design-system,Change button color,https://github.com/priceline/design-system/pull/920,2020-08-28T11:17:30Z,2020-08-28T15:21:57Z,1,3,CLOSED
+design-system,Cause visual regressions,https://github.com/priceline/design-system/pull/919,2020-08-28T06:22:54Z,2020-08-28T12:59:39Z,1,1,CLOSED
+design-system,Remove PlaceHolderImage stories,https://github.com/priceline/design-system/pull/918,2020-08-27T19:29:09Z,2020-08-27T19:52:03Z,1,1,MERGED
+design-system,Build storybook and use built instance,https://github.com/priceline/design-system/pull/917,2020-08-27T02:03:39Z,2020-08-27T14:16:07Z,1,1,MERGED
+design-system,Update all tests and stories to use named icons,https://github.com/priceline/design-system/pull/916,2020-08-26T19:12:12Z,2020-08-28T18:02:13Z,2,1,MERGED
+design-system,Update all tests and stories to use named icons,https://github.com/priceline/design-system/pull/915,2020-08-26T18:37:56Z,2020-08-26T19:13:03Z,4,1,CLOSED
+design-system,Break Box,https://github.com/priceline/design-system/pull/914,2020-08-26T18:34:19Z,2020-08-26T18:36:44Z,1,1,CLOSED
+design-system,version bump,https://github.com/priceline/design-system/pull/912,2020-08-24T15:14:23Z,2020-08-24T15:24:21Z,1,1,MERGED
+design-system,CI Improvements:,https://github.com/priceline/design-system/pull/911,2020-08-22T04:26:25Z,2020-08-24T21:13:35Z,3,2,MERGED
+design-system,"styled-components v4 peer, Button via attrs function signature",https://github.com/priceline/design-system/pull/910,2020-08-22T04:02:44Z,2020-08-24T15:15:03Z,2,1,MERGED
+design-system,"styled-components v4 peer dependency, use attrs in Button instead of mapProps",https://github.com/priceline/design-system/pull/909,2020-08-22T03:57:32Z,2020-08-22T04:02:06Z,0,1,CLOSED
+design-system,"Button test refactor, fix popover in storybook",https://github.com/priceline/design-system/pull/908,2020-08-21T18:05:54Z,2020-08-21T18:19:16Z,2,1,MERGED
+design-system,Hide arrow for popover,https://github.com/priceline/design-system/pull/907,2020-08-20T19:09:01Z,2020-08-20T23:24:10Z,1,1,MERGED
+design-system,add new kitchen icon,https://github.com/priceline/design-system/pull/906,2020-08-19T20:28:58Z,2020-08-24T12:38:40Z,2,3,MERGED
+design-system,Release 3.6.1,https://github.com/priceline/design-system/pull/905,2020-08-18T14:30:43Z,2020-08-18T14:38:24Z,1,1,MERGED
+design-system,Open and close event for popover,https://github.com/priceline/design-system/pull/904,2020-08-14T04:40:39Z,2020-08-20T19:08:07Z,4,4,MERGED
+design-system,fix(missing-box-shadows): provide fallback boxShadows,https://github.com/priceline/design-system/pull/903,2020-08-11T22:00:48Z,2020-08-18T14:22:36Z,1,1,MERGED
+design-system,Release - Core 3.6.0,https://github.com/priceline/design-system/pull/902,2020-08-11T20:19:00Z,2020-08-12T17:34:21Z,1,1,MERGED
+design-system,Fixed Hug Props,https://github.com/priceline/design-system/pull/901,2020-08-11T18:04:17Z,2020-08-11T18:45:31Z,1,1,MERGED
+design-system,Issue(845): Remove deprecated prop type warnings from tests,https://github.com/priceline/design-system/pull/900,2020-08-07T20:35:39Z,2020-08-17T19:38:23Z,7,2,MERGED
+design-system,Update iconography docs,https://github.com/priceline/design-system/pull/899,2020-08-05T21:55:42Z,2020-08-10T15:30:24Z,2,1,MERGED
+design-system,"Add additional styling props to <Text>, and update doc",https://github.com/priceline/design-system/pull/898,2020-08-05T13:25:46Z,2020-08-06T18:05:24Z,1,1,MERGED
+design-system,Update named icons and IconButton docs,https://github.com/priceline/design-system/pull/897,2020-08-04T22:50:05Z,2020-08-06T21:04:07Z,7,1,MERGED
+design-system,Update Text Extension Display Names,https://github.com/priceline/design-system/pull/999,2020-12-29T20:56:02Z,2020-12-29T21:14:47Z,1,1,MERGED
+design-system,Fix bug when using RatingBadge without bg prop,https://github.com/priceline/design-system/pull/998,2020-12-29T15:52:53Z,2020-12-29T17:52:14Z,4,1,MERGED
+design-system,Add Shimmer component to core,https://github.com/priceline/design-system/pull/997,2020-12-29T14:57:51Z,2020-12-29T20:41:07Z,2,2,MERGED
+design-system,Set line-height on Icon,https://github.com/priceline/design-system/pull/996,2020-12-28T20:48:08Z,2020-12-29T18:40:28Z,1,1,MERGED
+design-system,Fix cyclic dependency that will cause pcln-icons tests to fail in future,https://github.com/priceline/design-system/pull/995,2020-12-28T19:45:50Z,2021-01-06T17:37:17Z,3,1,MERGED
+design-system,Add Accessibility SkipMenu component to DS,https://github.com/priceline/design-system/pull/994,2020-12-24T18:23:11Z,2020-12-29T16:47:20Z,7,1,MERGED
+design-system,Resolve storybook warnings and upgrade dep in Modal,https://github.com/priceline/design-system/pull/993,2020-12-22T18:58:45Z,2020-12-29T17:33:41Z,1,1,MERGED
+design-system,Responsive Image Component,https://github.com/priceline/design-system/pull/992,2020-12-22T15:20:50Z,2022-11-03T04:14:50Z,3,2,CLOSED
+design-system,add generic banner,https://github.com/priceline/design-system/pull/991,2020-12-21T21:17:06Z,2020-12-29T17:34:27Z,11,6,MERGED
+design-system,Change withComponent to as prop,https://github.com/priceline/design-system/pull/990,2020-12-19T00:01:35Z,2020-12-29T17:34:43Z,2,3,MERGED
+design-system,Apply changes and create an action to automate this for future use,https://github.com/priceline/design-system/pull/988,2020-12-15T02:04:48Z,2020-12-15T15:10:39Z,1,1,MERGED
+design-system,Create docsite page for breakpoints,https://github.com/priceline/design-system/pull/987,2020-12-11T23:14:21Z,2020-12-14T22:03:28Z,1,1,MERGED
+design-system,Update v4 migration guide,https://github.com/priceline/design-system/pull/986,2020-12-11T17:56:01Z,2020-12-14T16:12:37Z,1,1,MERGED
+design-system,Apply changes for ShadowOverlay,https://github.com/priceline/design-system/pull/984,2020-12-11T01:12:35Z,2020-12-11T16:26:06Z,1,1,MERGED
+design-system,Shadow Overlay,https://github.com/priceline/design-system/pull/983,2020-12-08T20:37:40Z,2020-12-10T18:01:53Z,2,4,MERGED
+design-system,Add helperText prop to Input,https://github.com/priceline/design-system/pull/982,2020-12-06T02:31:27Z,2021-01-01T16:13:12Z,10,2,MERGED
+design-system,Fix error when using Icon in pcln-icons with IconField,https://github.com/priceline/design-system/pull/981,2020-12-06T01:57:41Z,2020-12-14T17:10:16Z,1,1,MERGED
+design-system,Port over media-query-match package,https://github.com/priceline/design-system/pull/980,2020-12-06T00:32:19Z,2020-12-30T15:41:58Z,1,1,CLOSED
+design-system,Pass parent theme to popover content,https://github.com/priceline/design-system/pull/979,2020-12-05T00:35:48Z,2020-12-14T17:55:08Z,2,2,MERGED
+design-system,Fix bug when passing aria-label to Button and related components,https://github.com/priceline/design-system/pull/978,2020-12-04T19:29:17Z,2020-12-04T20:07:52Z,2,1,MERGED
+design-system,Apply changes for 4.1.1,https://github.com/priceline/design-system/pull/977,2020-12-04T01:34:32Z,2020-12-04T15:31:37Z,0,1,MERGED
+design-system,Default Button to Error Color,https://github.com/priceline/design-system/pull/975,2020-12-03T20:47:08Z,2020-12-04T20:57:46Z,0,1,CLOSED
+design-system,fix command to build and publish docsite,https://github.com/priceline/design-system/pull/974,2020-12-03T20:07:25Z,2020-12-03T20:19:40Z,1,1,MERGED
+design-system,Use PNPM workspaces,https://github.com/priceline/design-system/pull/973,2020-12-02T23:02:43Z,2021-01-05T20:50:28Z,3,1,CLOSED
+design-system,Apply changes to publish menu package,https://github.com/priceline/design-system/pull/972,2020-12-02T18:40:56Z,2020-12-02T19:06:04Z,2,1,MERGED
+design-system,Convert all stories to CSF,https://github.com/priceline/design-system/pull/971,2020-11-29T16:08:55Z,2020-11-30T20:14:56Z,3,1,MERGED
+design-system,Add support for Core components written in TypeScript,https://github.com/priceline/design-system/pull/970,2020-11-25T18:56:28Z,2021-01-06T18:13:17Z,26,1,CLOSED
+design-system,Update createTheme to overwrite MQ based on breakpoints + update applyStyles to read theme from context,https://github.com/priceline/design-system/pull/969,2020-11-19T17:31:03Z,2020-12-04T01:32:08Z,5,2,MERGED
+design-system,"Fix link in migration guide, delete unneeded script",https://github.com/priceline/design-system/pull/968,2020-11-19T14:25:10Z,2020-11-19T14:49:28Z,1,1,MERGED
+design-system,New pcln-menu package,https://github.com/priceline/design-system/pull/967,2020-11-13T22:54:33Z,2020-12-02T18:35:36Z,18,5,MERGED
+design-system,Apply changes for 3.7.1,https://github.com/priceline/design-system/pull/966,2020-11-13T20:07:32Z,2020-11-13T20:14:48Z,0,2,MERGED
+design-system,Fix font-weight regression,https://github.com/priceline/design-system/pull/964,2020-11-13T18:04:42Z,2020-11-13T19:29:19Z,1,1,MERGED
+design-system,Release 3.7.0,https://github.com/priceline/design-system/pull/962,2020-11-09T20:26:56Z,2020-11-09T20:32:49Z,0,1,MERGED
+design-system,Fix style bug in popover,https://github.com/priceline/design-system/pull/961,2020-11-06T20:34:30Z,2020-11-06T20:44:35Z,1,1,MERGED
+design-system,Fix style bug in popover,https://github.com/priceline/design-system/pull/960,2020-11-06T20:22:05Z,2020-11-06T20:26:43Z,0,1,CLOSED
+design-system,small size should have a line height of 20px,https://github.com/priceline/design-system/pull/959,2020-11-05T18:08:59Z,2020-11-06T20:38:16Z,1,2,MERGED
+design-system,New Chip Component,https://github.com/priceline/design-system/pull/958,2020-11-05T00:07:30Z,2020-11-09T20:19:39Z,2,8,MERGED
+design-system,V4 core beta,https://github.com/priceline/design-system/pull/956,2020-11-02T19:37:55Z,2020-11-02T19:45:56Z,0,1,CLOSED
+design-system,Create codemods to help with v5 migration,https://github.com/priceline/design-system/pull/1061,2021-03-31T18:52:49Z,2021-06-14T18:39:36Z,5,1,MERGED
+design-system,Design System v5,https://github.com/priceline/design-system/pull/1060,2021-03-31T18:06:17Z,2022-01-18T14:11:29Z,1,3,CLOSED
+design-system,Rename master to main,https://github.com/priceline/design-system/pull/1059,2021-03-31T15:17:06Z,2021-03-31T18:04:48Z,0,1,MERGED
+design-system,Upgrade all projects to Styled System 5,https://github.com/priceline/design-system/pull/1058,2021-03-29T19:01:47Z,2021-03-30T20:31:31Z,3,1,MERGED
+design-system,Upgrade to Styled System 5,https://github.com/priceline/design-system/pull/1056,2021-03-26T17:40:51Z,2021-03-29T19:01:40Z,0,2,CLOSED
+design-system,Chip: update focus style for the Chips,https://github.com/priceline/design-system/pull/1055,2021-03-26T16:24:33Z,2021-03-26T17:10:37Z,0,1,MERGED
+design-system,Upgrade to Styled Components 5,https://github.com/priceline/design-system/pull/1054,2021-03-25T17:29:30Z,2021-03-30T19:35:30Z,4,2,MERGED
+design-system,Remove deprecated props,https://github.com/priceline/design-system/pull/1053,2021-03-23T19:21:49Z,2021-03-31T18:31:14Z,7,4,MERGED
+design-system,Next v5 rebase master,https://github.com/priceline/design-system/pull/1052,2021-03-23T19:09:05Z,2021-03-23T19:15:38Z,1,17,MERGED
+design-system,V5 deprecated cleanup,https://github.com/priceline/design-system/pull/1051,2021-03-23T19:06:42Z,2021-03-23T19:21:36Z,0,15,CLOSED
+design-system,Release 4.7.1,https://github.com/priceline/design-system/pull/1050,2021-03-23T18:59:01Z,2021-03-23T19:07:57Z,0,1,MERGED
+design-system,Update pcln icons dep,https://github.com/priceline/design-system/pull/1049,2021-03-23T18:04:26Z,2021-03-23T18:56:14Z,0,3,MERGED
+design-system,Fix link button variations,https://github.com/priceline/design-system/pull/1047,2021-03-22T21:11:39Z,2021-03-23T13:01:58Z,0,2,MERGED
+design-system,Menu clickable component,https://github.com/priceline/design-system/pull/1046,2021-03-22T20:34:17Z,2021-03-23T17:39:40Z,4,2,MERGED
+design-system,Update default password requirements,https://github.com/priceline/design-system/pull/1045,2021-03-22T16:44:35Z,2021-03-22T17:41:18Z,0,2,MERGED
+design-system,Storybook v6,https://github.com/priceline/design-system/pull/1044,2021-03-20T02:27:53Z,2021-03-30T15:40:03Z,15,7,MERGED
+design-system,Add story for styled(Link),https://github.com/priceline/design-system/pull/1043,2021-03-19T18:20:51Z,2021-03-31T16:26:01Z,2,1,CLOSED
+design-system,Fix default props blown away icon field,https://github.com/priceline/design-system/pull/1042,2021-03-18T18:05:40Z,2021-03-18T18:49:41Z,1,2,MERGED
+design-system,4.7.0 release,https://github.com/priceline/design-system/pull/1041,2021-03-18T17:40:16Z,2021-03-18T19:03:10Z,0,1,MERGED
+design-system,Responsive sizes for avatar,https://github.com/priceline/design-system/pull/1040,2021-03-12T21:15:35Z,2021-03-15T15:01:47Z,2,2,MERGED
+design-system,Filter chip as chip,https://github.com/priceline/design-system/pull/1039,2021-03-11T03:14:03Z,2021-03-11T20:26:53Z,1,2,MERGED
+design-system,4.6.2 core publish,https://github.com/priceline/design-system/pull/1038,2021-03-10T15:11:02Z,2021-03-10T15:37:37Z,0,1,MERGED
+design-system,export chip again,https://github.com/priceline/design-system/pull/1037,2021-03-08T20:22:11Z,2021-03-08T21:26:46Z,0,2,MERGED
+design-system,Uxpt/1162: password input component,https://github.com/priceline/design-system/pull/1036,2021-03-04T21:43:09Z,2021-03-11T14:45:24Z,4,16,MERGED
+design-system,Apply Changes DS Core 4.6.1,https://github.com/priceline/design-system/pull/1035,2021-03-04T20:27:50Z,2021-03-04T20:41:52Z,0,1,MERGED
+design-system,Apply changes for core 4.6.0,https://github.com/priceline/design-system/pull/1034,2021-03-02T15:10:37Z,2021-03-02T15:58:29Z,0,1,MERGED
+design-system,improvement(UXPT-1253): IconField multiple icons,https://github.com/priceline/design-system/pull/1033,2021-03-02T00:17:04Z,2021-03-02T16:24:16Z,0,2,MERGED
+design-system,Add ProgressBar to docsite,https://github.com/priceline/design-system/pull/1032,2021-02-26T21:06:18Z,2021-03-01T14:45:57Z,0,1,MERGED
+design-system,Don't fail other jobs if one CI job fails,https://github.com/priceline/design-system/pull/1031,2021-02-26T20:34:35Z,2021-03-01T14:45:46Z,0,1,MERGED
+design-system,feat(RC-17925): hide popover overlay (#1028),https://github.com/priceline/design-system/pull/1030,2021-02-26T20:18:45Z,2021-02-26T20:34:03Z,2,1,CLOSED
+design-system,Add prop to overlay docs,https://github.com/priceline/design-system/pull/1029,2021-02-26T14:13:15Z,2021-02-26T20:29:31Z,0,1,MERGED
+design-system,feat(RC-17925): hide popover overlay,https://github.com/priceline/design-system/pull/1028,2021-02-23T22:20:44Z,2021-02-24T16:35:00Z,2,1,MERGED
+design-system,Apply changes for core 4.5.0,https://github.com/priceline/design-system/pull/1027,2021-02-23T15:07:23Z,2021-02-23T15:39:01Z,0,1,MERGED
+design-system,Add popover page to docsite,https://github.com/priceline/design-system/pull/1026,2021-02-23T01:31:20Z,2021-02-23T19:00:12Z,2,1,MERGED
+design-system,Improve Variation style ordering,https://github.com/priceline/design-system/pull/1025,2021-02-22T21:08:29Z,2021-02-28T00:33:29Z,4,2,MERGED
+design-system,Menu and Popover buttonProps,https://github.com/priceline/design-system/pull/1024,2021-02-22T18:10:17Z,2021-02-22T20:21:32Z,2,3,MERGED
+design-system,Update theme blue to accessible alternative,https://github.com/priceline/design-system/pull/1023,2021-02-22T16:01:44Z,2021-02-22T19:14:12Z,4,5,MERGED
+design-system,UXPT-1163: progress bar,https://github.com/priceline/design-system/pull/1022,2021-02-19T19:21:04Z,2021-02-22T21:23:29Z,7,14,MERGED
+design-system,Fix backward compatibility issue in RatingBadge,https://github.com/priceline/design-system/pull/1021,2021-02-19T18:21:45Z,2021-02-22T18:46:06Z,2,1,MERGED
+design-system,Apply changes for 4.4.1,https://github.com/priceline/design-system/pull/1020,2021-02-17T16:30:38Z,2021-02-17T17:35:11Z,0,1,MERGED
+design-system,Fix incorrect default color of RatingBadge,https://github.com/priceline/design-system/pull/1019,2021-02-17T15:20:53Z,2021-02-17T16:27:01Z,1,1,MERGED
+design-system,feat(): Update title for mask and no-seat icons,https://github.com/priceline/design-system/pull/1018,2021-02-16T20:53:04Z,2021-02-17T14:20:39Z,2,2,MERGED
+design-system,Apply changes,https://github.com/priceline/design-system/pull/1017,2021-02-16T20:22:49Z,2021-02-16T20:49:43Z,0,1,MERGED
+design-system,Add Covid related flights icons,https://github.com/priceline/design-system/pull/1016,2021-02-16T19:28:51Z,2021-02-16T20:18:52Z,1,1,MERGED
+design-system,Simplify CI workflow triggers and add workflow-dispatch,https://github.com/priceline/design-system/pull/1015,2021-02-16T18:22:43Z,2021-02-16T18:23:32Z,0,1,MERGED
+design-system,Image height and spacing,https://github.com/priceline/design-system/pull/1014,2021-02-10T18:11:19Z,2021-02-10T18:43:16Z,1,2,MERGED
+design-system,Updates to the Chip component to allow more variations,https://github.com/priceline/design-system/pull/1013,2021-02-08T20:09:35Z,2021-03-02T15:08:05Z,13,8,MERGED
+design-system,(Not ready for review) Updates to the Chip component to allow more variations,https://github.com/priceline/design-system/pull/1011,2021-02-05T19:22:26Z,2021-02-08T20:09:23Z,1,1,CLOSED
+design-system,add new button variations,https://github.com/priceline/design-system/pull/1010,2021-02-05T13:56:05Z,2021-02-12T23:07:40Z,3,4,MERGED
+design-system,add check for ctaText,https://github.com/priceline/design-system/pull/1009,2021-02-05T13:51:57Z,2021-02-11T22:27:49Z,4,1,MERGED
+design-system,Update Link docs to include variation prop,https://github.com/priceline/design-system/pull/1008,2021-02-03T20:57:33Z,2021-02-16T18:14:18Z,1,1,MERGED
+design-system,Apply changes for 4.3.2,https://github.com/priceline/design-system/pull/1007,2021-02-03T20:30:13Z,2021-02-03T20:38:43Z,0,1,MERGED
+design-system,Update BackgroundImage to accept height as a number,https://github.com/priceline/design-system/pull/1006,2021-02-01T21:19:12Z,2021-02-03T20:27:05Z,2,2,MERGED
+design-system,Fix ref forwarding for Input component,https://github.com/priceline/design-system/pull/1005,2021-01-21T20:37:36Z,2021-01-21T21:19:31Z,3,2,MERGED
+design-system,Fix create-release-notes command,https://github.com/priceline/design-system/pull/1004,2021-01-12T16:08:41Z,2021-01-12T16:39:54Z,0,1,MERGED
+design-system,Use PNPM workspaces,https://github.com/priceline/design-system/pull/1003,2021-01-06T18:45:18Z,2021-01-08T19:13:32Z,1,1,MERGED
+design-system,Add support for Core components written in TypeScript,https://github.com/priceline/design-system/pull/1002,2021-01-06T18:11:57Z,2021-08-12T17:36:18Z,1,1,CLOSED
+design-system,Apply changes for core 4.3.0,https://github.com/priceline/design-system/pull/1001,2021-01-04T16:18:25Z,2021-01-12T15:21:45Z,9,1,MERGED
+design-system,Fix syntax on GenericBanner page that broke docsite build,https://github.com/priceline/design-system/pull/1000,2021-01-04T14:18:55Z,2021-01-04T15:29:40Z,1,1,MERGED
+design-system,release,https://github.com/priceline/design-system/pull/1076,2021-05-26T18:24:28Z,2021-05-26T18:30:56Z,1,1,MERGED
+design-system,add a small group of new icons,https://github.com/priceline/design-system/pull/1075,2021-05-25T17:37:16Z,2021-05-26T12:48:58Z,1,1,MERGED
+design-system,Create codeql-analysis.yml,https://github.com/priceline/design-system/pull/1074,2021-05-25T17:13:04Z,2021-05-25T17:27:31Z,1,1,MERGED
+design-system,Fixed typo for container storybook,https://github.com/priceline/design-system/pull/1072,2021-05-17T15:36:05Z,2021-05-20T16:28:29Z,0,1,MERGED
+design-system,Font style and text decoration,https://github.com/priceline/design-system/pull/1071,2021-05-13T21:56:31Z,2021-05-14T15:19:07Z,1,2,MERGED
+design-system,4.9.1,https://github.com/priceline/design-system/pull/1069,2021-04-26T20:39:47Z,2021-04-27T15:39:04Z,0,1,MERGED
+design-system,Release 4.9.0,https://github.com/priceline/design-system/pull/1068,2021-04-26T19:31:09Z,2021-04-26T19:42:50Z,1,1,MERGED
+design-system,Created DotLoader component,https://github.com/priceline/design-system/pull/1067,2021-04-21T22:57:06Z,2021-04-26T17:26:42Z,4,6,MERGED
+design-system,Create new spinner component,https://github.com/priceline/design-system/pull/1066,2021-04-15T23:46:22Z,2021-04-21T19:59:42Z,2,4,MERGED
+design-system,Release 4.8.0,https://github.com/priceline/design-system/pull/1065,2021-04-15T21:33:37Z,2021-04-16T17:32:39Z,0,1,MERGED
+design-system,Improve Text Extensions,https://github.com/priceline/design-system/pull/1064,2021-04-15T19:26:05Z,2021-04-15T20:51:38Z,1,2,MERGED
+design-system,PasswordInput is valid without progress bar,https://github.com/priceline/design-system/pull/1063,2021-04-13T00:27:54Z,2021-04-15T21:25:20Z,1,3,MERGED
+design-system,Export PasswordInput,https://github.com/priceline/design-system/pull/1062,2021-04-12T17:59:30Z,2021-04-12T18:26:24Z,1,2,MERGED
+design-system,release pcln-icons v4.3.0,https://github.com/priceline/design-system/pull/1084,2021-07-22T19:31:39Z,2021-07-22T19:42:38Z,0,1,MERGED
+design-system,add priceline favicon to icons,https://github.com/priceline/design-system/pull/1083,2021-07-22T19:02:19Z,2021-07-22T19:21:11Z,1,2,MERGED
+design-system,Apply changes for 4.11.2,https://github.com/priceline/design-system/pull/1082,2021-06-23T16:15:38Z,2021-06-23T16:23:07Z,0,1,MERGED
+design-system,fix(SITE-15387): Added background for choiceChip onFocus,https://github.com/priceline/design-system/pull/1081,2021-06-17T21:18:54Z,2021-06-21T14:46:24Z,1,1,MERGED
+design-system,Create codemods and runner,https://github.com/priceline/design-system/pull/1079,2021-06-14T18:56:00Z,2021-06-16T18:15:47Z,1,1,MERGED
+design-system,release 4.11.0 core,https://github.com/priceline/design-system/pull/1078,2021-06-08T20:50:55Z,2021-06-08T21:01:28Z,1,1,MERGED
+design-system,List component,https://github.com/priceline/design-system/pull/1077,2021-06-07T20:36:25Z,2021-06-08T20:46:18Z,2,3,MERGED
+design-system,Release pcln-design-system 4.12.0,https://github.com/priceline/design-system/pull/1086,2021-10-21T21:12:43Z,2021-10-22T17:26:56Z,0,1,MERGED
+design-system,improve applyVariations to support shades,https://github.com/priceline/design-system/pull/1085,2021-10-14T22:32:50Z,2021-10-19T19:06:30Z,1,6,MERGED
+design-system,Create Carousel package,https://github.com/priceline/design-system/pull/1092,2021-12-22T20:24:38Z,2022-01-06T19:16:06Z,9,1,MERGED
+design-system,Release pcln menu v4.3.0,https://github.com/priceline/design-system/pull/1091,2021-12-21T15:50:26Z,2022-01-04T16:14:06Z,0,1,MERGED
+design-system,fix(): Allow for menu list font to be inherited,https://github.com/priceline/design-system/pull/1090,2021-12-20T21:50:06Z,2021-12-21T15:16:56Z,0,1,MERGED
+design-system,Upgrade dependencies,https://github.com/priceline/design-system/pull/1089,2021-11-12T16:46:29Z,2021-11-16T16:03:10Z,1,1,MERGED
+design-system,Apply changes for popover publish,https://github.com/priceline/design-system/pull/1088,2021-11-04T17:54:48Z,2021-11-04T18:16:22Z,0,1,MERGED
+design-system,Popover - onOpen and onClose pass event object,https://github.com/priceline/design-system/pull/1087,2021-11-04T16:24:41Z,2021-11-04T17:48:22Z,2,1,MERGED
+design-system,chore(bp): replace pr with pl for prev arrow button,https://github.com/priceline/design-system/pull/1146,2022-03-31T16:09:00Z,2022-03-31T17:51:42Z,1,1,MERGED
+design-system,fix DS theme provider to account for existing provider,https://github.com/priceline/design-system/pull/1145,2022-03-29T14:58:58Z,2022-04-15T16:43:56Z,1,2,MERGED
+design-system,Pass zIndex prop to Layout children wrappers,https://github.com/priceline/design-system/pull/1144,2022-03-28T15:01:07Z,2022-03-28T17:50:13Z,3,1,MERGED
+design-system,Possible solution to neste ThemeProvider issue,https://github.com/priceline/design-system/pull/1143,2022-03-25T17:45:00Z,2022-03-31T12:29:55Z,1,1,CLOSED
+design-system,feat(cu): remove buttonColorProps and permit custom ArrowButton using cloneElement,https://github.com/priceline/design-system/pull/1142,2022-03-21T17:36:25Z,2022-03-29T19:18:49Z,5,5,MERGED
+design-system,Add Toggle component to Design System,https://github.com/priceline/design-system/pull/1141,2022-03-17T19:58:11Z,2022-03-18T19:02:27Z,6,3,MERGED
+design-system,Add handler to Carousel when current slide changes,https://github.com/priceline/design-system/pull/1140,2022-03-17T18:45:19Z,2022-03-18T16:09:28Z,2,1,MERGED
+design-system,Update borderRadii.xl to 6px for backward compatibility,https://github.com/priceline/design-system/pull/1139,2022-03-15T19:13:48Z,2022-03-17T16:36:31Z,1,1,MERGED
+design-system,adds textStyle prop to ModalHeader,https://github.com/priceline/design-system/pull/1138,2022-03-14T20:38:20Z,2022-03-16T21:19:55Z,8,1,MERGED
+design-system,feat(cv): allow alternate arrow button colors,https://github.com/priceline/design-system/pull/1137,2022-03-09T21:02:29Z,2022-03-14T17:55:29Z,1,1,MERGED
+design-system,Fix responsive textStyle bug,https://github.com/priceline/design-system/pull/1136,2022-03-08T15:51:17Z,2022-03-11T15:03:03Z,1,1,MERGED
+design-system,Improve styling for popover/filterchip story,https://github.com/priceline/design-system/pull/1135,2022-03-07T23:13:48Z,2022-03-10T17:38:13Z,1,5,MERGED
+design-system,Update hover state in chip label ,https://github.com/priceline/design-system/pull/1134,2022-03-07T20:14:01Z,2022-03-09T14:56:17Z,1,2,MERGED
+design-system,Update rc slider,https://github.com/priceline/design-system/pull/1133,2022-03-07T18:50:39Z,2022-03-07T19:14:36Z,1,2,MERGED
+design-system,Changefile for pcln-slider,https://github.com/priceline/design-system/pull/1132,2022-03-07T13:35:29Z,2022-03-07T17:55:50Z,0,1,MERGED
+design-system,Upgrade to latest rc-slider,https://github.com/priceline/design-system/pull/1131,2022-03-02T21:00:09Z,2022-03-07T13:32:35Z,3,1,MERGED
+design-system,feat(UXPT-2310): additive theme changes for motion,https://github.com/priceline/design-system/pull/1130,2022-02-25T12:08:26Z,2022-03-04T17:04:43Z,2,1,MERGED
+design-system,change ButtonChip focus styling to use outline,https://github.com/priceline/design-system/pull/1129,2022-02-23T16:25:31Z,2022-02-23T21:03:48Z,1,1,MERGED
+design-system,Replace version numbers with workspace:*,https://github.com/priceline/design-system/pull/1128,2022-02-16T19:49:13Z,2022-02-17T13:57:27Z,1,1,MERGED
+design-system,Update focus styling for ButtonChip,https://github.com/priceline/design-system/pull/1127,2022-02-16T15:06:21Z,2022-02-16T15:28:12Z,0,1,MERGED
+design-system,add Share icon,https://github.com/priceline/design-system/pull/1126,2022-02-15T18:50:34Z,2022-02-15T20:54:41Z,2,1,MERGED
+design-system,Add storybook to core project,https://github.com/priceline/design-system/pull/1125,2022-02-15T18:41:51Z,2022-02-16T18:09:09Z,3,1,MERGED
+design-system,Add boxShadow and borderRadius support to styled Card attrs,https://github.com/priceline/design-system/pull/1124,2022-02-14T15:53:17Z,2022-02-15T13:48:05Z,0,2,CLOSED
+design-system,Remove duplicate info from release notes markdown,https://github.com/priceline/design-system/pull/1123,2022-02-14T15:42:14Z,2022-02-15T20:29:29Z,1,1,MERGED
+design-system,Design updates to typography scale,https://github.com/priceline/design-system/pull/1122,2022-02-14T14:25:19Z,2022-02-14T15:24:54Z,6,1,MERGED
+design-system,"Improve Layout stories, make variation required",https://github.com/priceline/design-system/pull/1121,2022-02-10T13:52:07Z,2022-02-14T15:13:37Z,0,1,MERGED
+design-system,Add coverage,https://github.com/priceline/design-system/pull/1120,2022-01-28T20:55:46Z,2022-02-01T22:14:39Z,3,1,MERGED
+design-system,Update MenuList overflow to auto,https://github.com/priceline/design-system/pull/1119,2022-01-28T19:23:30Z,2022-02-01T18:16:07Z,0,1,MERGED
+design-system,Create Layout component,https://github.com/priceline/design-system/pull/1118,2022-01-28T16:59:13Z,2022-01-31T19:24:38Z,2,1,MERGED
+design-system,Fix modal when content overflows,https://github.com/priceline/design-system/pull/1117,2022-01-27T16:56:59Z,2022-01-27T18:03:11Z,0,1,MERGED
+design-system,Replace workspace:<version> with workspace:*,https://github.com/priceline/design-system/pull/1116,2022-01-27T14:42:20Z,2022-01-27T14:48:34Z,0,1,MERGED
+design-system,"Carousel: Add styling to Arrow Buttons, Dot nav, and make visibleSlides responsive",https://github.com/priceline/design-system/pull/1115,2022-01-25T17:11:34Z,2022-02-01T15:47:07Z,11,20,MERGED
+design-system,Convert core project to TS and Heft,https://github.com/priceline/design-system/pull/1113,2022-01-20T17:20:07Z,2022-01-27T13:49:15Z,6,3,MERGED
+design-system,Remove extra polgyon from logout icon,https://github.com/priceline/design-system/pull/1112,2022-01-18T21:18:01Z,2022-01-18T21:39:59Z,0,1,MERGED
+design-system,Add logout to icons,https://github.com/priceline/design-system/pull/1111,2022-01-14T21:30:26Z,2022-01-18T16:05:40Z,0,1,MERGED
+design-system,Rush update,https://github.com/priceline/design-system/pull/1110,2022-01-14T17:49:32Z,2022-01-18T14:04:32Z,1,1,MERGED
+design-system,Remove unneeded workflow input,https://github.com/priceline/design-system/pull/1109,2022-01-14T17:13:08Z,2022-01-14T17:37:59Z,0,1,MERGED
+design-system,Update rush publish apply workflow,https://github.com/priceline/design-system/pull/1108,2022-01-14T16:41:34Z,2022-01-14T17:10:24Z,1,1,MERGED
+design-system,Add support for borderRadius and boxShadow to Image,https://github.com/priceline/design-system/pull/1107,2022-01-13T17:16:47Z,2022-01-13T20:30:27Z,3,1,MERGED
+design-system,fix injectable regex in githook,https://github.com/priceline/design-system/pull/1106,2022-01-12T20:56:18Z,2022-01-12T21:07:35Z,1,1,CLOSED
+design-system,"Rush upgrade to prepare for Phased Builds, pnpm upgrade",https://github.com/priceline/design-system/pull/1105,2022-01-12T20:21:50Z,2022-01-12T20:36:37Z,0,1,MERGED
+design-system,Typography system,https://github.com/priceline/design-system/pull/1104,2022-01-12T17:06:57Z,2022-01-12T17:37:11Z,1,1,MERGED
+design-system,Beta tag to test theme changes,https://github.com/priceline/design-system/pull/1103,2022-01-12T15:38:32Z,2022-01-18T14:05:00Z,1,1,CLOSED
+design-system,Add boxShadowSize and boxShadowColor props to Box,https://github.com/priceline/design-system/pull/1102,2022-01-11T04:27:57Z,2022-01-11T16:01:34Z,2,2,MERGED
+design-system,Use borderRadii from theme in all components,https://github.com/priceline/design-system/pull/1101,2022-01-10T18:57:55Z,2022-01-12T15:33:06Z,5,1,MERGED
+design-system,implement borderRadius and rounded theme/applyBorderRadius mixin,https://github.com/priceline/design-system/pull/1100,2022-01-09T01:19:28Z,2022-01-10T15:42:53Z,4,2,MERGED
+design-system,upgrade storybook versions and use webpack 5,https://github.com/priceline/design-system/pull/1099,2022-01-07T18:38:28Z,2022-01-07T18:46:01Z,1,1,MERGED
+design-system,Add props to Carousel component,https://github.com/priceline/design-system/pull/1098,2022-01-07T16:38:57Z,2022-01-10T19:05:23Z,9,1,MERGED
+design-system,"expand color palette with tint, tone and shade hues",https://github.com/priceline/design-system/pull/1097,2022-01-07T03:32:54Z,2022-01-07T17:19:19Z,1,1,MERGED
+design-system,Monorepo Maintenance,https://github.com/priceline/design-system/pull/1096,2022-01-06T02:48:36Z,2022-01-06T16:01:46Z,1,5,MERGED
+design-system,Upgrade next.js in docs project to fix broken postinstall,https://github.com/priceline/design-system/pull/1095,2022-01-04T18:21:08Z,2022-01-05T19:42:06Z,1,1,MERGED
+design-system,Motion component,https://github.com/priceline/design-system/pull/1094,2022-01-04T17:58:41Z,2022-02-01T17:21:19Z,2,7,MERGED
+design-system,patch pcln-menu for another release,https://github.com/priceline/design-system/pull/1093,2022-01-04T16:48:24Z,2022-01-04T17:21:57Z,0,1,MERGED
+design-system,Add white variation to Button,https://github.com/priceline/design-system/pull/1162,2022-05-31T14:52:52Z,2022-06-02T16:26:53Z,2,1,MERGED
+design-system,Add args table to Button docs page,https://github.com/priceline/design-system/pull/1161,2022-05-27T14:23:13Z,2022-05-27T16:30:52Z,0,1,MERGED
+design-system,fix missing semicolon on ArrowButton styling,https://github.com/priceline/design-system/pull/1160,2022-05-26T17:35:47Z,2022-05-26T18:31:30Z,1,1,MERGED
+design-system,Move Button docs to mdx,https://github.com/priceline/design-system/pull/1159,2022-05-24T19:54:55Z,2022-05-27T13:58:29Z,1,1,MERGED
+design-system,Add name prop to Toggle,https://github.com/priceline/design-system/pull/1158,2022-05-12T16:51:49Z,2022-05-24T17:02:12Z,0,1,MERGED
+design-system,feat(UXPT-1285): update ds popover,https://github.com/priceline/design-system/pull/1157,2022-05-06T16:04:21Z,2022-08-05T17:22:35Z,15,23,CLOSED
+design-system,Layout: add stretchHeight prop that will equalize heights based on ta…,https://github.com/priceline/design-system/pull/1156,2022-05-05T19:23:35Z,2022-05-10T19:34:22Z,1,1,MERGED
+design-system,Feat/uxpt 3027 input sizes,https://github.com/priceline/design-system/pull/1155,2022-05-02T15:22:04Z,2022-05-20T16:26:40Z,3,7,MERGED
+design-system,Carousel: add stretchSlideHeight prop option,https://github.com/priceline/design-system/pull/1154,2022-04-22T18:11:14Z,2022-05-06T19:45:40Z,3,4,MERGED
+design-system,feat(UXPT-2924): add value prop to FilterChip,https://github.com/priceline/design-system/pull/1153,2022-04-22T16:40:07Z,2022-04-26T16:44:03Z,1,2,MERGED
+design-system,fix(ppn-54325): remove id from <g> and <path> tags in new icons,https://github.com/priceline/design-system/pull/1152,2022-04-18T15:16:44Z,2022-05-06T16:53:19Z,1,1,MERGED
+design-system,feat(UXPT-2737): add overrides for borderRadius and boxShadowSize,https://github.com/priceline/design-system/pull/1151,2022-04-14T22:21:48Z,2022-05-02T15:32:12Z,5,9,MERGED
+design-system,"feat(ppn-54325): add new shared icons: group, receipt, store, travelExplore",https://github.com/priceline/design-system/pull/1150,2022-04-14T20:03:00Z,2022-04-15T13:41:08Z,3,3,MERGED
+design-system,Fixes #1148 | Added mandatory name prop to FilterChip component.,https://github.com/priceline/design-system/pull/1149,2022-04-08T11:20:05Z,2022-04-08T14:44:33Z,2,2,MERGED
+design-system,Update form field to accept props,https://github.com/priceline/design-system/pull/1147,2022-04-01T22:37:24Z,2022-04-04T14:35:32Z,1,2,MERGED
+design-system,Add font size and font weight to link,https://github.com/priceline/design-system/pull/1173,2022-07-26T22:40:02Z,2022-07-29T18:01:04Z,1,2,CLOSED
+design-system,Automatically create GH releases after NPM publish,https://github.com/priceline/design-system/pull/1172,2022-07-26T17:36:58Z,2022-08-09T20:45:20Z,24,1,MERGED
+design-system,feat(unselected-checkbox-color): add prop to select checkbox color,https://github.com/priceline/design-system/pull/1171,2022-07-18T19:44:13Z,2022-07-21T14:33:38Z,8,8,MERGED
+design-system,feat(PKG-14737): Add currentSlide prop to Carousel,https://github.com/priceline/design-system/pull/1170,2022-07-08T14:06:15Z,2022-07-08T15:17:53Z,1,1,MERGED
+design-system,fix prerelease resolutions,https://github.com/priceline/design-system/pull/1169,2022-07-07T19:03:44Z,2022-07-08T13:11:43Z,1,1,MERGED
+design-system,feat(PKG-14737): Add currentSlide prop to Carousel,https://github.com/priceline/design-system/pull/1168,2022-07-07T18:24:19Z,2022-07-08T13:52:40Z,0,1,CLOSED
+design-system,feat(indeterminate-checkbox): add support for indeterminate checkboxes,https://github.com/priceline/design-system/pull/1167,2022-07-05T19:41:46Z,2022-07-06T14:15:07Z,2,2,MERGED
+design-system,feat(uxpt-3190): add variations for round button,https://github.com/priceline/design-system/pull/1166,2022-06-27T17:34:52Z,2022-11-16T02:50:37Z,0,2,CLOSED
+design-system,Add new typography values,https://github.com/priceline/design-system/pull/1165,2022-06-06T18:45:01Z,2022-06-07T16:04:52Z,2,1,MERGED
+design-system,add onClick and onKeyDown handlers to Carousel children,https://github.com/priceline/design-system/pull/1164,2022-06-03T20:38:28Z,2022-06-07T19:09:52Z,4,1,MERGED
+design-system,update popover to allow display styling and disabling onClick,https://github.com/priceline/design-system/pull/1163,2022-06-02T18:37:44Z,2022-06-02T19:54:02Z,1,1,MERGED
+design-system,Add props to allow more flexible control for pcln-menu,https://github.com/priceline/design-system/pull/1214,2022-10-20T22:16:14Z,2022-10-27T14:29:22Z,8,5,MERGED
+design-system,Update button valid border radii,https://github.com/priceline/design-system/pull/1213,2022-10-18T15:38:52Z,2022-10-18T21:09:07Z,3,3,MERGED
+design-system,Adding flex wrap to layout,https://github.com/priceline/design-system/pull/1212,2022-10-17T15:09:10Z,2022-10-17T15:35:23Z,1,3,MERGED
+design-system,Adding flex wrap passthrough prop to Layout,https://github.com/priceline/design-system/pull/1211,2022-10-17T15:04:44Z,2022-10-17T15:07:49Z,0,15,CLOSED
+design-system,Create ScaledText component,https://github.com/priceline/design-system/pull/1209,2022-10-13T13:50:00Z,2023-08-09T21:23:25Z,2,5,CLOSED
+design-system,Create SlideBox component and use it for mobile Carousel ,https://github.com/priceline/design-system/pull/1208,2022-10-10T16:49:46Z,2022-11-08T21:31:09Z,6,21,CLOSED
+design-system,Feat/ppn 58101 create swatch component,https://github.com/priceline/design-system/pull/1207,2022-10-06T20:00:28Z,2022-10-13T17:12:28Z,3,4,MERGED
+design-system,bug(RC-21569): removes left from PopoverGuide,https://github.com/priceline/design-system/pull/1206,2022-10-05T14:55:41Z,2022-10-05T15:54:29Z,1,1,MERGED
+design-system,Feature/rc 21569 sort icon,https://github.com/priceline/design-system/pull/1205,2022-09-27T19:46:08Z,2022-09-27T20:14:44Z,1,1,MERGED
+design-system,Fix serialization bug in Layout,https://github.com/priceline/design-system/pull/1204,2022-09-27T17:29:33Z,2022-10-24T16:31:27Z,1,1,MERGED
+design-system,Add default font color for Text component,https://github.com/priceline/design-system/pull/1203,2022-09-22T22:24:03Z,2023-06-29T15:44:43Z,1,3,CLOSED
+design-system,feature(RC-21569): adds new sort icon and updated MenuItem styles,https://github.com/priceline/design-system/pull/1202,2022-09-21T14:21:04Z,2022-09-27T20:12:09Z,3,1,MERGED
+design-system,Adding a new size for the buttons 'xl' or 'extraLarge',https://github.com/priceline/design-system/pull/1201,2022-09-15T19:07:54Z,2022-09-28T15:38:17Z,2,13,MERGED
+design-system,Add react-intersection-observer package for mobile carousel slide cal…,https://github.com/priceline/design-system/pull/1200,2022-09-02T17:58:37Z,2022-09-09T16:40:34Z,4,5,MERGED
+design-system,feat() Add prop loadMoreCallback which will add load more slide for m…,https://github.com/priceline/design-system/pull/1199,2022-09-01T21:28:54Z,2023-06-02T16:29:02Z,2,1,CLOSED
+design-system,Upgrade to @styled-system/theme-get,https://github.com/priceline/design-system/pull/1198,2022-09-01T21:18:56Z,2022-09-01T22:39:21Z,1,2,MERGED
+design-system,Fix NPM publish changes not being merged back to main,https://github.com/priceline/design-system/pull/1197,2022-08-31T14:33:22Z,2022-08-31T14:36:00Z,0,1,MERGED
+design-system,Fix NPM publish changes not being merged back to main,https://github.com/priceline/design-system/pull/1196,2022-08-31T13:53:56Z,2022-08-31T14:05:27Z,0,1,MERGED
+design-system,Feat(site-18674): add additional scale values,https://github.com/priceline/design-system/pull/1195,2022-08-29T18:02:24Z,2022-08-29T20:37:40Z,1,3,MERGED
+design-system,fix(PKG-16093): fix carousel dots overflow,https://github.com/priceline/design-system/pull/1194,2022-08-26T17:54:52Z,2022-08-30T19:13:54Z,1,7,MERGED
+design-system,Prepare for DSv5,https://github.com/priceline/design-system/pull/1193,2022-08-24T14:34:36Z,2022-11-07T16:12:03Z,14,1,MERGED
+design-system,feat(AIR-46287): added sunrise icon,https://github.com/priceline/design-system/pull/1192,2022-08-23T18:22:37Z,2022-08-23T18:56:37Z,1,2,MERGED
+design-system,Fix moize perf issue determining default profile name,https://github.com/priceline/design-system/pull/1191,2022-08-10T20:06:09Z,2022-08-11T13:57:55Z,1,1,MERGED
+design-system,Remove quotes from GH release titles,https://github.com/priceline/design-system/pull/1190,2022-08-10T17:11:06Z,2022-08-10T17:11:17Z,0,1,MERGED
+design-system,Fix the skip condition in create-github-releases,https://github.com/priceline/design-system/pull/1189,2022-08-10T16:20:04Z,2022-08-10T16:59:09Z,6,1,MERGED
+design-system,Fix skip condition for create-github-releases workflow step,https://github.com/priceline/design-system/pull/1188,2022-08-10T16:04:08Z,2022-08-10T16:04:13Z,0,2,MERGED
+design-system,"Test change, please ignore",https://github.com/priceline/design-system/pull/1187,2022-08-10T15:48:01Z,2022-08-10T15:48:24Z,0,1,MERGED
+design-system,"Test change, please disregard",https://github.com/priceline/design-system/pull/1186,2022-08-10T15:34:23Z,2022-08-10T15:34:37Z,0,1,MERGED
+design-system,Fix bug automated release notes,https://github.com/priceline/design-system/pull/1185,2022-08-10T13:57:00Z,2022-08-10T14:02:41Z,1,3,MERGED
+design-system,Support theme swapping in palette story,https://github.com/priceline/design-system/pull/1184,2022-08-09T19:32:22Z,2022-08-09T20:40:31Z,1,1,MERGED
+design-system,Fix popover scroll jumps,https://github.com/priceline/design-system/pull/1183,2022-08-08T20:30:44Z,2022-08-08T20:39:38Z,1,2,MERGED
+design-system,Use Node 14 in on-main workflow,https://github.com/priceline/design-system/pull/1182,2022-08-08T15:23:11Z,2022-08-08T16:06:41Z,1,1,MERGED
+design-system,feat(UXPT-1285): Popover upgrade,https://github.com/priceline/design-system/pull/1181,2022-08-05T17:21:13Z,2022-08-08T15:03:12Z,2,1,MERGED
+design-system,remove types project,https://github.com/priceline/design-system/pull/1180,2022-08-04T21:35:45Z,2022-08-05T16:29:39Z,1,1,MERGED
+design-system,Create Menu link-dropdown storybook example,https://github.com/priceline/design-system/pull/1179,2022-08-04T18:18:13Z,2022-08-04T21:14:00Z,1,1,MERGED
+design-system,Remove --target-branch flag from NPM beta publish workflow,https://github.com/priceline/design-system/pull/1178,2022-08-04T14:31:13Z,2022-08-04T16:25:39Z,1,1,MERGED
+design-system,Remove node 16.x from CI check,https://github.com/priceline/design-system/pull/1177,2022-08-03T20:29:47Z,2022-08-03T20:33:18Z,1,1,CLOSED
+design-system,Make height of each Carousel slide 100%,https://github.com/priceline/design-system/pull/1176,2022-08-03T18:54:51Z,2022-08-04T17:46:32Z,1,1,MERGED
+design-system,Fix bug in 33-33-33 Carousel layout,https://github.com/priceline/design-system/pull/1175,2022-08-03T15:36:48Z,2022-08-03T17:35:13Z,2,1,MERGED
+design-system,Added an example of a Link with text styles,https://github.com/priceline/design-system/pull/1174,2022-08-02T23:31:18Z,2022-08-03T16:21:07Z,1,1,MERGED
+design-system,Button should support Icons from pcln-icons,https://github.com/priceline/design-system/pull/1236,2022-12-30T06:02:43Z,2023-02-05T05:50:31Z,9,2,CLOSED
+design-system,feat(pb-2681): adding experiences icon,https://github.com/priceline/design-system/pull/1235,2022-12-23T15:43:56Z,2023-01-09T17:01:55Z,1,5,MERGED
+design-system,feat(pb-2681): adding experiences icon,https://github.com/priceline/design-system/pull/1234,2022-12-23T15:13:30Z,2022-12-23T15:39:47Z,0,1,CLOSED
+design-system,Add control and story to demo Stamp variations,https://github.com/priceline/design-system/pull/1233,2022-12-14T16:58:05Z,2023-01-31T16:20:42Z,2,1,CLOSED
+design-system,Remove broken badge in README,https://github.com/priceline/design-system/pull/1232,2022-12-12T21:11:02Z,2022-12-12T21:11:45Z,0,1,MERGED
+design-system,Use themeGet consistently,https://github.com/priceline/design-system/pull/1231,2022-12-12T18:47:36Z,2023-02-06T18:19:58Z,2,1,CLOSED
+design-system,Add Popout component,https://github.com/priceline/design-system/pull/1230,2022-11-29T01:42:02Z,2022-12-12T20:56:15Z,11,7,MERGED
+design-system,feat: Add border for Swatch component,https://github.com/priceline/design-system/pull/1229,2022-11-25T20:26:52Z,2022-12-01T15:48:49Z,1,1,MERGED
+design-system,Input text color should always be text.base,https://github.com/priceline/design-system/pull/1228,2022-11-22T22:24:55Z,2022-11-23T16:41:55Z,1,1,MERGED
+design-system,Add animate component,https://github.com/priceline/design-system/pull/1227,2022-11-22T16:16:54Z,2022-12-12T19:54:38Z,3,5,MERGED
+design-system,Button input variation,https://github.com/priceline/design-system/pull/1226,2022-11-22T16:15:10Z,2022-11-23T21:51:19Z,2,3,MERGED
+design-system,Second Approach: Add icon on left and right button second approach,https://github.com/priceline/design-system/pull/1225,2022-11-16T19:51:11Z,2022-11-16T22:01:05Z,1,11,CLOSED
+design-system,Clickable labels and storybook improvements,https://github.com/priceline/design-system/pull/1224,2022-11-16T19:41:07Z,2022-11-17T18:45:41Z,1,2,MERGED
+design-system,First Approach: Add icon to the left and right side of button text,https://github.com/priceline/design-system/pull/1223,2022-11-16T02:49:25Z,2022-11-16T22:00:58Z,1,8,CLOSED
+design-system,Modal udpates: not ready for review,https://github.com/priceline/design-system/pull/1222,2022-11-15T14:39:48Z,2023-06-02T16:26:16Z,1,1,CLOSED
+design-system,Add currentSlideOverride to SlideBox component,https://github.com/priceline/design-system/pull/1221,2022-11-10T23:12:09Z,2022-11-17T16:30:38Z,5,8,MERGED
+design-system,Modify the npm-publish script to work for the V4 branch,https://github.com/priceline/design-system/pull/1220,2022-11-09T17:21:35Z,2022-11-09T17:35:10Z,1,1,MERGED
+design-system,Update link and textColorOn disabled states for v4,https://github.com/priceline/design-system/pull/1219,2022-11-08T21:33:30Z,2022-11-09T18:46:58Z,1,3,MERGED
+design-system,Implement SlideBox and use in mobile Carousel,https://github.com/priceline/design-system/pull/1218,2022-11-08T21:11:42Z,2022-11-09T17:06:09Z,1,7,MERGED
+design-system,fix ChipContentWrapper TS complaint,https://github.com/priceline/design-system/pull/1217,2022-11-07T18:59:39Z,2022-11-08T16:52:29Z,1,2,MERGED
+design-system,Update link and textColorOn disabled states,https://github.com/priceline/design-system/pull/1216,2022-11-07T17:28:36Z,2022-11-09T18:35:57Z,5,5,MERGED
+design-system,Update GHA workflows to run on Node 16,https://github.com/priceline/design-system/pull/1215,2022-11-04T18:34:02Z,2022-11-14T15:17:16Z,3,1,MERGED
+design-system,fix(): Fix subheading2 text styles,https://github.com/priceline/design-system/pull/1289,2023-03-30T22:29:22Z,2023-04-03T15:17:58Z,1,2,MERGED
+design-system,fix(v4): Fix subheading2 text styles,https://github.com/priceline/design-system/pull/1288,2023-03-30T22:27:20Z,2023-04-03T20:21:44Z,1,2,MERGED
+design-system,Carousel main parity,https://github.com/priceline/design-system/pull/1287,2023-03-28T18:56:18Z,2023-03-30T15:28:57Z,1,3,MERGED
+design-system,Fix responsive props on Label,https://github.com/priceline/design-system/pull/1286,2023-03-22T17:46:15Z,2023-03-22T18:10:36Z,0,1,MERGED
+design-system,Storybook redesign 2,https://github.com/priceline/design-system/pull/1285,2023-03-21T18:20:37Z,2023-06-02T16:15:07Z,2,32,CLOSED
+design-system,Convert to new Storybook Documentation style,https://github.com/priceline/design-system/pull/1284,2023-03-21T18:12:22Z,2023-03-27T14:21:42Z,1,1,MERGED
+design-system,Rename docs-utils package to avoid NPM fees,https://github.com/priceline/design-system/pull/1283,2023-03-20T18:37:06Z,2023-03-20T18:53:19Z,2,1,MERGED
+design-system,Fix responsive styles when using custom breakpoints,https://github.com/priceline/design-system/pull/1282,2023-03-17T18:33:10Z,2023-03-21T16:56:17Z,4,1,MERGED
+design-system,Fix bug in change analyzer when comparing against main,https://github.com/priceline/design-system/pull/1281,2023-03-17T16:49:27Z,2023-03-17T17:02:25Z,1,1,MERGED
+design-system,Slidebox rush change fix,https://github.com/priceline/design-system/pull/1280,2023-03-17T15:44:52Z,2023-03-17T15:54:41Z,1,4,MERGED
+design-system,Slidebox: modify to allow visibleSlides less than 1,https://github.com/priceline/design-system/pull/1279,2023-03-16T22:10:54Z,2023-04-26T16:44:14Z,1,1,MERGED
+design-system,SlideBox: update slidebox to allow visibleSlides to be less than 1,https://github.com/priceline/design-system/pull/1278,2023-03-16T21:53:34Z,2023-03-17T13:32:22Z,1,2,MERGED
+design-system,feature(RC-23253): new car transmission icons v4,https://github.com/priceline/design-system/pull/1277,2023-03-16T19:46:15Z,2023-03-22T15:13:29Z,1,1,MERGED
+design-system,feature(RC-23253): new car transmission icons,https://github.com/priceline/design-system/pull/1276,2023-03-16T19:38:50Z,2023-03-16T19:40:00Z,0,37,CLOSED
+design-system,feature(RC-23253): new car transmission icons,https://github.com/priceline/design-system/pull/1275,2023-03-16T19:37:06Z,2023-03-22T15:13:23Z,2,1,MERGED
+design-system,Create core Toast component,https://github.com/priceline/design-system/pull/1274,2023-03-16T16:04:13Z,2023-04-03T20:23:53Z,4,10,MERGED
+design-system,Create Storybook Redesign Docs Utils ,https://github.com/priceline/design-system/pull/1273,2023-03-09T19:14:44Z,2023-03-14T16:06:29Z,3,1,MERGED
+design-system,feature(RC-23131): new license and road icons,https://github.com/priceline/design-system/pull/1272,2023-03-03T19:42:28Z,2023-03-04T14:45:07Z,1,1,MERGED
+design-system,Feature/rc 23131 v4 road license icons,https://github.com/priceline/design-system/pull/1271,2023-03-03T19:06:49Z,2023-03-03T19:08:02Z,0,32,CLOSED
+design-system,feature(RC-23131): adds license and road icons,https://github.com/priceline/design-system/pull/1270,2023-03-03T07:50:09Z,2023-03-03T17:24:23Z,1,1,MERGED
+design-system,Add the textStyle prop to the Label component,https://github.com/priceline/design-system/pull/1269,2023-03-02T20:09:41Z,2023-03-08T18:23:03Z,1,4,MERGED
+design-system,feat(UXPT-4317): Add props to Image for object-fit and object-position,https://github.com/priceline/design-system/pull/1268,2023-02-28T23:06:20Z,2023-07-21T12:13:12Z,19,8,MERGED
+design-system,fix(v4): two prop type warnings,https://github.com/priceline/design-system/pull/1267,2023-02-28T21:27:39Z,2023-03-07T23:07:09Z,1,2,MERGED
+design-system,Fix two prop type warnings,https://github.com/priceline/design-system/pull/1266,2023-02-28T19:24:37Z,2023-03-08T17:36:47Z,2,3,MERGED
+design-system,feat(UXPT-3871): Add variation prop to badge to support semantic colors,https://github.com/priceline/design-system/pull/1265,2023-02-23T20:04:21Z,2023-07-07T16:29:17Z,5,1,CLOSED
+design-system,add buttonChip state,https://github.com/priceline/design-system/pull/1264,2023-02-17T21:32:55Z,2023-06-09T16:16:10Z,1,1,MERGED
+design-system,add buttonChip state,https://github.com/priceline/design-system/pull/1263,2023-02-17T19:39:54Z,2023-02-21T16:56:47Z,1,1,MERGED
+design-system,Feat/pkg 16709 add button chip state,https://github.com/priceline/design-system/pull/1262,2023-02-17T19:32:21Z,2023-02-17T19:32:46Z,0,24,CLOSED
+design-system,Feat/pkg 16709 add state button chip,https://github.com/priceline/design-system/pull/1261,2023-02-17T19:22:04Z,2023-02-17T19:24:32Z,0,25,CLOSED
+design-system,Create z-index map for the theme and supporting utils,https://github.com/priceline/design-system/pull/1260,2023-02-16T22:50:04Z,2023-07-10T19:02:49Z,2,6,MERGED
+design-system,ChoiceChip text should not wrap,https://github.com/priceline/design-system/pull/1259,2023-02-16T15:44:40Z,2023-02-16T16:28:54Z,1,1,MERGED
+design-system,Layout spread props to allow overrides,https://github.com/priceline/design-system/pull/1258,2023-02-10T21:59:07Z,2023-02-16T18:00:33Z,1,2,MERGED
+design-system,Restore fallback in getPaletteColor,https://github.com/priceline/design-system/pull/1257,2023-02-07T16:33:51Z,2023-02-07T17:20:24Z,1,1,MERGED
+design-system,Fix framer-motion import bug,https://github.com/priceline/design-system/pull/1256,2023-02-06T17:51:25Z,2023-02-06T18:19:01Z,0,1,CLOSED
+design-system,Button should support Icons from pcln-icons,https://github.com/priceline/design-system/pull/1255,2023-02-05T04:42:07Z,2023-04-04T18:35:41Z,3,5,MERGED
+design-system,Update @priceline/heft-component-rig to remove problematic node-sass dependency,https://github.com/priceline/design-system/pull/1254,2023-02-04T03:24:36Z,2023-04-04T18:36:53Z,1,1,CLOSED
+design-system,Update to Styled System 5,https://github.com/priceline/design-system/pull/1253,2023-02-02T19:00:38Z,2023-02-06T18:19:17Z,1,1,CLOSED
+design-system,Storybook redesign,https://github.com/priceline/design-system/pull/1252,2023-01-26T18:00:05Z,2023-03-21T17:55:13Z,3,0,CLOSED
+design-system,fix(v4): Check onhover color in getLinkStylesOn,https://github.com/priceline/design-system/pull/1251,2023-01-24T21:09:03Z,2023-01-25T15:35:16Z,1,1,MERGED
+design-system,fix(main): Check onhover color in getLinkStylesOn,https://github.com/priceline/design-system/pull/1250,2023-01-24T21:08:37Z,2023-01-27T16:52:55Z,1,1,MERGED
+design-system,Fix bug with indeterminate Checkbox,https://github.com/priceline/design-system/pull/1249,2023-01-23T15:38:14Z,2023-01-24T17:27:24Z,1,1,MERGED
+design-system,Fix bug in Checkbox when using indeterminate prop,https://github.com/priceline/design-system/pull/1248,2023-01-19T14:14:02Z,2023-01-24T17:28:23Z,2,1,MERGED
+design-system,Fix sustainability svg change for v4,https://github.com/priceline/design-system/pull/1247,2023-01-18T20:34:21Z,2023-01-18T20:42:57Z,1,1,MERGED
+design-system,fix(v4): Make bold optional in getLinkStylesOn,https://github.com/priceline/design-system/pull/1246,2023-01-16T15:57:39Z,2023-01-16T17:17:58Z,1,1,MERGED
+design-system,Feat/htl 86887 v4 sustainable svg,https://github.com/priceline/design-system/pull/1245,2023-01-13T20:47:04Z,2023-01-17T15:11:22Z,1,2,MERGED
+design-system,fix(v4): Update Link and Text colour stories based on feedback,https://github.com/priceline/design-system/pull/1244,2023-01-13T18:33:46Z,2023-01-13T20:01:22Z,1,1,MERGED
+design-system,feat(v5): Add util for getting link styles on color,https://github.com/priceline/design-system/pull/1243,2023-01-12T16:38:56Z,2023-01-18T15:42:30Z,3,5,MERGED
+design-system,V5 add slidebox,https://github.com/priceline/design-system/pull/1242,2023-01-12T14:34:38Z,2023-01-13T17:05:48Z,1,3,MERGED
+design-system,feat(v4): Add util for getting link styles on color,https://github.com/priceline/design-system/pull/1241,2023-01-11T22:49:11Z,2023-01-12T22:09:54Z,3,2,MERGED
+design-system,Feat/pb 2681 experience icon,https://github.com/priceline/design-system/pull/1240,2023-01-09T17:46:00Z,2023-01-09T18:25:41Z,1,5,MERGED
+design-system,Enable TurboSnap for Chromatic,https://github.com/priceline/design-system/pull/1239,2023-01-09T15:34:15Z,2023-01-09T16:29:55Z,1,1,MERGED
+design-system,feat(HTL-86887): add sustainable icon,https://github.com/priceline/design-system/pull/1238,2023-01-05T21:00:06Z,2023-01-09T18:46:50Z,1,3,MERGED
+design-system,ScrollBox modify scrolling to only scroll within parent,https://github.com/priceline/design-system/pull/1237,2023-01-04T19:12:03Z,2023-01-05T18:53:02Z,2,3,MERGED
+design-system,bump(UXPT-4660): Bump pcln-autocomplete dependencies to latest versions,https://github.com/priceline/design-system/pull/1307,2023-05-22T16:24:40Z,2023-05-25T12:46:21Z,1,1,MERGED
+design-system,feat(SITE-20797): Add width Prop,https://github.com/priceline/design-system/pull/1306,2023-05-19T20:52:46Z,2023-05-19T22:21:38Z,1,2,MERGED
+design-system,feat(HTL-XXX): fix outline color,https://github.com/priceline/design-system/pull/1305,2023-05-18T14:43:01Z,2023-05-18T16:08:58Z,3,1,MERGED
+design-system,Air 53696 added checked carryon personal item icons,https://github.com/priceline/design-system/pull/1304,2023-05-15T19:57:47Z,2023-05-15T20:43:10Z,3,4,MERGED
+design-system,Add Grid component to pcln-design-system,https://github.com/priceline/design-system/pull/1303,2023-05-10T14:00:55Z,2023-06-02T19:55:18Z,2,7,MERGED
+design-system,"UXPT-4641: update tsconfig in heft rig, and babel preset, to target modern browsers",https://github.com/priceline/design-system/pull/1302,2023-05-05T18:05:33Z,2023-06-02T20:34:33Z,1,1,MERGED
+design-system,feat(PPN-62357): add userCircle and phoneAgent icons,https://github.com/priceline/design-system/pull/1301,2023-04-27T20:51:44Z,2023-05-02T16:15:33Z,1,3,MERGED
+design-system,"Update Link and Button component with changes to hover state in subtle, plain and white",https://github.com/priceline/design-system/pull/1300,2023-04-27T18:07:57Z,2023-05-02T13:55:05Z,3,6,MERGED
+design-system,"Depedency maintenance, peer range cleanup, install missing dependencies",https://github.com/priceline/design-system/pull/1299,2023-04-26T02:38:34Z,2023-04-26T14:00:00Z,3,1,MERGED
+design-system,Tweak toast border variation design,https://github.com/priceline/design-system/pull/1298,2023-04-25T16:22:33Z,2023-04-25T17:04:31Z,1,2,MERGED
+design-system,Create Toast border variation and fix styles being overwritten,https://github.com/priceline/design-system/pull/1297,2023-04-24T18:13:38Z,2023-04-24T18:40:52Z,1,2,MERGED
+design-system,Use withTheme instead of useTheme in ToastProvider,https://github.com/priceline/design-system/pull/1295,2023-04-11T17:20:54Z,2023-04-11T17:32:55Z,1,1,MERGED
+design-system,Use withTheme instead of useTheme in ToastProvider,https://github.com/priceline/design-system/pull/1294,2023-04-11T16:13:32Z,2023-04-11T17:19:00Z,1,1,MERGED
+design-system,Update icon package peer dependency,https://github.com/priceline/design-system/pull/1293,2023-04-10T20:05:02Z,2023-04-10T20:15:16Z,1,2,MERGED
+design-system,feat/v4 backport toast,https://github.com/priceline/design-system/pull/1292,2023-04-06T18:22:51Z,2023-04-10T15:30:22Z,4,2,MERGED
+design-system,disable next linting for deprecated docsite,https://github.com/priceline/design-system/pull/1291,2023-04-04T19:17:22Z,2023-04-04T19:36:52Z,0,1,MERGED
+design-system,Fix/remove failing Jest tests and add more Storybook coverage,https://github.com/priceline/design-system/pull/1375,2023-07-28T15:58:22Z,2023-08-02T17:01:13Z,2,1,MERGED
+design-system,feat(AIR-56045): add light and dark props to shimmer,https://github.com/priceline/design-system/pull/1374,2023-07-27T17:28:53Z,2023-07-28T15:37:40Z,2,6,MERGED
+design-system,Chore/air 56157 pin icon design system,https://github.com/priceline/design-system/pull/1373,2023-07-27T14:24:57Z,2023-07-28T16:01:12Z,2,5,MERGED
+design-system,Add celebration icon,https://github.com/priceline/design-system/pull/1372,2023-07-26T18:39:56Z,2023-07-28T18:43:47Z,1,1,MERGED
+design-system,feat(UXPT-4967): Create ChatMessageSeparator component,https://github.com/priceline/design-system/pull/1371,2023-07-25T22:26:55Z,2023-07-27T20:47:46Z,1,2,MERGED
+design-system,Fix image unable to be loaded,https://github.com/priceline/design-system/pull/1370,2023-07-25T20:53:45Z,2023-07-26T19:02:26Z,1,2,MERGED
+design-system,Htl 91645/layer svg add,https://github.com/priceline/design-system/pull/1369,2023-07-25T16:39:19Z,2023-07-25T18:23:12Z,1,5,MERGED
+design-system,feat(HTL-93742): add emoji to reviews,https://github.com/priceline/design-system/pull/1368,2023-07-24T19:54:47Z,2023-07-25T15:21:47Z,2,6,MERGED
+design-system,feat(UXPT-4812): update Card stories and docs,https://github.com/priceline/design-system/pull/1367,2023-07-24T16:47:19Z,2023-07-28T16:13:24Z,4,1,MERGED
+design-system,"feat(UXPT-4815) Add shadow variation to ButtonChip, FilterChip and ChoiceChip",https://github.com/priceline/design-system/pull/1366,2023-07-21T17:24:05Z,2023-08-24T13:25:35Z,7,5,MERGED
+design-system,Update continuous-integration.yml,https://github.com/priceline/design-system/pull/1365,2023-07-21T16:05:46Z,2023-07-25T18:49:17Z,1,1,MERGED
+design-system,Migration to Vite,https://github.com/priceline/design-system/pull/1364,2023-07-20T15:31:14Z,2024-01-23T05:14:49Z,3,1,CLOSED
+design-system,[UXPT-4816] Add close button to banner,https://github.com/priceline/design-system/pull/1362,2023-07-20T13:25:17Z,2023-07-20T13:39:21Z,1,5,CLOSED
+design-system,add variations and sizes to link,https://github.com/priceline/design-system/pull/1361,2023-07-18T22:33:59Z,2023-07-19T16:03:50Z,1,1,MERGED
+design-system,feat(UXPT-4812): style when card as button,https://github.com/priceline/design-system/pull/1360,2023-07-17T19:51:20Z,2023-07-17T19:52:17Z,0,1,CLOSED
+design-system,feat(UXPT-4813): style when card as button,https://github.com/priceline/design-system/pull/1359,2023-07-17T18:45:55Z,2023-07-17T20:12:15Z,1,1,MERGED
+design-system,feat(UXPT-4881): accordion,https://github.com/priceline/design-system/pull/1357,2023-07-17T17:18:25Z,2023-07-21T16:14:26Z,2,1,MERGED
+design-system,Run prettier again,https://github.com/priceline/design-system/pull/1356,2023-07-17T15:13:19Z,2023-07-17T15:15:29Z,0,1,CLOSED
+design-system,Add colorScheme to remaining supported components,https://github.com/priceline/design-system/pull/1355,2023-07-17T15:03:32Z,2023-07-19T16:25:58Z,3,2,MERGED
+design-system,feature(UXPT-3818): create story with radio buttons using bold/medium font weight,https://github.com/priceline/design-system/pull/1354,2023-07-17T13:21:10Z,2023-07-19T16:13:14Z,2,5,MERGED
+design-system,Vite migration phase 1,https://github.com/priceline/design-system/pull/1353,2023-07-15T03:42:23Z,2023-07-17T14:13:41Z,1,1,MERGED
+design-system,uxpt(pb-4814): Updated the list component with indentation and list s…,https://github.com/priceline/design-system/pull/1352,2023-07-14T18:37:35Z,2023-07-17T15:25:59Z,2,1,MERGED
+design-system,"feat(UXPT-4815) Added shadowVariation prop to ButtonChip, FilterChip and ChoiceChip",https://github.com/priceline/design-system/pull/1351,2023-07-14T17:27:43Z,2023-07-21T15:22:05Z,0,1,CLOSED
+design-system,Add more color scheme values to stories,https://github.com/priceline/design-system/pull/1350,2023-07-14T16:33:49Z,2023-07-14T20:10:11Z,1,1,MERGED
+design-system,split chromatic ci into separate workflow,https://github.com/priceline/design-system/pull/1349,2023-07-14T16:18:04Z,2023-07-15T01:59:57Z,1,2,MERGED
+design-system,UXPT-4880: Add chromatic interaction test to popover,https://github.com/priceline/design-system/pull/1348,2023-07-14T14:35:18Z,2023-07-17T19:53:27Z,4,9,MERGED
+design-system,[UXPT-4944] Create RadioCheckToggleCard,https://github.com/priceline/design-system/pull/1347,2023-07-14T05:08:42Z,2023-07-20T14:53:53Z,10,22,MERGED
+design-system,Add support for text-transform to badge,https://github.com/priceline/design-system/pull/1346,2023-07-13T20:37:12Z,2023-07-14T17:49:31Z,4,1,MERGED
+design-system,feat(UXPT-5009): Add PricelineSparkle icon and use it on ChatMessage,https://github.com/priceline/design-system/pull/1345,2023-07-13T20:22:31Z,2023-07-19T14:58:50Z,2,4,MERGED
+design-system,Fix hug color scheme,https://github.com/priceline/design-system/pull/1344,2023-07-13T14:48:01Z,2023-07-14T14:55:47Z,6,1,MERGED
+design-system,fix(UXPT-4813): storybook to show how to make card focusbale,https://github.com/priceline/design-system/pull/1343,2023-07-13T14:32:55Z,2023-07-24T16:47:43Z,7,1,CLOSED
+design-system,Add chat action container component,https://github.com/priceline/design-system/pull/1342,2023-07-12T22:13:41Z,2023-07-14T19:28:48Z,1,1,MERGED
+design-system,"feat(UXPT-4815): Added boxShawdowSize prop to ButtonChip, ChoiceChip and FilterChip",https://github.com/priceline/design-system/pull/1341,2023-07-12T20:46:56Z,2023-07-14T12:42:20Z,7,1,CLOSED
+design-system,Uxpt 4810 - Initial creation of the Tabs ,https://github.com/priceline/design-system/pull/1340,2023-07-12T20:09:00Z,2024-03-08T18:17:14Z,53,67,MERGED
+design-system,feature(UXPT-4319): add background-position prop to BackgroundImage component,https://github.com/priceline/design-system/pull/1339,2023-07-12T19:38:56Z,2023-07-17T11:43:39Z,8,11,MERGED
+design-system,feat(UXPT-4965): ChatMessageContainer component,https://github.com/priceline/design-system/pull/1338,2023-07-12T17:42:52Z,2023-07-20T15:05:31Z,7,4,MERGED
+design-system,feat(UXPT-4998): Minimize Icon,https://github.com/priceline/design-system/pull/1337,2023-07-12T17:22:25Z,2023-07-12T18:40:04Z,1,2,MERGED
+design-system,feat() add option to include arrow buttons on SlideBox,https://github.com/priceline/design-system/pull/1336,2023-07-12T14:06:31Z,2023-07-25T19:30:16Z,5,19,MERGED
+design-system,feat(UXPT-4964): Create ChatMessage component,https://github.com/priceline/design-system/pull/1335,2023-07-11T23:01:09Z,2023-07-13T16:48:16Z,2,5,MERGED
+design-system,Input and Select readonly state and styles,https://github.com/priceline/design-system/pull/1334,2023-07-11T21:07:16Z,2023-07-12T15:19:42Z,2,2,MERGED
+design-system,add text-transform support to Text,https://github.com/priceline/design-system/pull/1333,2023-07-11T20:14:50Z,2023-07-12T15:10:40Z,3,1,MERGED
+design-system,Create ChatHeader component,https://github.com/priceline/design-system/pull/1332,2023-07-11T18:39:26Z,2023-07-12T17:12:04Z,1,1,MERGED
+design-system,Fix prettier formatting inconsistencies,https://github.com/priceline/design-system/pull/1331,2023-07-11T17:35:26Z,2023-07-12T14:17:01Z,1,1,MERGED
+design-system,Add colorScheme prop to Hug,https://github.com/priceline/design-system/pull/1330,2023-07-11T17:25:26Z,2023-07-13T13:00:47Z,6,1,MERGED
+design-system,add Dialog component,https://github.com/priceline/design-system/pull/1329,2023-07-11T17:00:04Z,2023-08-16T17:47:47Z,15,3,MERGED
+design-system,feat(uxpt-4952): updated the toggle states,https://github.com/priceline/design-system/pull/1328,2023-07-11T14:36:18Z,2023-07-13T17:30:20Z,3,1,MERGED
+design-system,Update contributing docs and readme,https://github.com/priceline/design-system/pull/1327,2023-07-11T14:20:19Z,2023-07-12T18:25:52Z,1,1,MERGED
+design-system,add support for overflow to Box,https://github.com/priceline/design-system/pull/1326,2023-07-10T22:14:04Z,2023-07-12T14:01:44Z,3,1,MERGED
+design-system,feat(UXPT-4958): Create ChatTrigger component,https://github.com/priceline/design-system/pull/1325,2023-07-10T20:58:15Z,2023-07-27T20:48:08Z,2,7,MERGED
+design-system,feat(UXPT-4804): Add disabled state for Input and Select,https://github.com/priceline/design-system/pull/1324,2023-07-10T20:24:59Z,2023-07-11T21:09:56Z,4,6,MERGED
+design-system,update hug to use same background color as header,https://github.com/priceline/design-system/pull/1323,2023-07-10T16:57:16Z,2023-07-10T18:40:01Z,0,1,MERGED
+design-system,Run prettier on all files tracked by Git,https://github.com/priceline/design-system/pull/1322,2023-07-07T21:16:40Z,2023-07-10T15:10:03Z,3,2,MERGED
+design-system,Change highlightDark to use same HEX as darkGreen,https://github.com/priceline/design-system/pull/1321,2023-07-07T15:14:06Z,2023-07-07T17:30:50Z,2,1,MERGED
+design-system,Add color schemes to theme,https://github.com/priceline/design-system/pull/1320,2023-07-06T20:48:49Z,2023-07-10T17:21:33Z,3,1,MERGED
+design-system,feat(HTL-90706): add borderRadius,https://github.com/priceline/design-system/pull/1319,2023-07-06T14:56:22Z,2023-07-10T19:24:51Z,1,1,MERGED
+design-system,Switch to Vite/vitest,https://github.com/priceline/design-system/pull/1317,2023-07-06T13:00:14Z,2024-01-23T05:14:22Z,3,1,CLOSED
+design-system,[UXPT-3056] Add props for onBeforeOpen and onBeforeClose to Popover,https://github.com/priceline/design-system/pull/1316,2023-06-28T21:03:25Z,2023-07-07T17:05:29Z,2,6,MERGED
+design-system,Remove @storybook/addon-links as peer dep,https://github.com/priceline/design-system/pull/1315,2023-06-27T14:43:24Z,2023-06-27T15:38:40Z,1,3,MERGED
+design-system,Update Hero story image,https://github.com/priceline/design-system/pull/1313,2023-06-16T21:58:35Z,2023-06-20T18:47:57Z,1,1,MERGED
+design-system,Feat/site 20882 carousel props,https://github.com/priceline/design-system/pull/1312,2023-06-16T17:30:45Z,2023-06-20T13:31:41Z,2,3,MERGED
+design-system,remove unused githook code (pre-rush lockfile checks),https://github.com/priceline/design-system/pull/1311,2023-06-16T13:24:30Z,2023-06-16T15:23:35Z,1,1,MERGED
+design-system,fix missing dependency react-element-to-jsx-string for docs-utils,https://github.com/priceline/design-system/pull/1310,2023-06-16T13:00:26Z,2023-06-16T13:15:58Z,1,1,MERGED
+design-system,"Upgrade Storybook to v7, use @storybook/react-vite, move DocsUtils into core to break cyclic dependency",https://github.com/priceline/design-system/pull/1309,2023-06-14T15:29:18Z,2023-06-15T17:36:57Z,4,2,MERGED
+design-system,(AIR-53696):new icons with correct width,https://github.com/priceline/design-system/pull/1308,2023-06-07T21:22:14Z,2023-06-08T15:09:40Z,2,2,MERGED
+design-system,Feat accordion header divider color,https://github.com/priceline/design-system/pull/1409,2023-10-31T18:00:52Z,2023-10-31T20:16:12Z,1,2,MERGED
+design-system,Expand allowed peerDeps versions for framer-motion in core package,https://github.com/priceline/design-system/pull/1408,2023-10-24T19:52:20Z,2023-10-24T20:36:03Z,1,1,CLOSED
+design-system,added side button option to hide in general and reveal on hover carousel,https://github.com/priceline/design-system/pull/1407,2023-10-21T00:50:04Z,2023-10-24T16:36:15Z,5,7,MERGED
+design-system,Caruosel updates to adjust arrow button size,https://github.com/priceline/design-system/pull/1406,2023-10-20T15:19:26Z,2023-10-20T16:28:35Z,2,5,MERGED
+design-system,feat(AIR-58145): give options to a native buttons margin,https://github.com/priceline/design-system/pull/1405,2023-10-18T18:17:12Z,2023-10-18T18:30:12Z,0,2,MERGED
+design-system,Button: add flexProps prop to add any styling overrides needed,https://github.com/priceline/design-system/pull/1404,2023-10-16T15:50:58Z,2023-10-16T17:14:43Z,2,2,MERGED
+design-system,bugfix: Allows elements inside the Modal to overflow on the y axis,https://github.com/priceline/design-system/pull/1403,2023-09-26T17:15:20Z,2023-09-27T13:59:37Z,2,3,MERGED
+design-system,Fix regressions related to readonly in Input and Toggle,https://github.com/priceline/design-system/pull/1402,2023-09-21T16:37:13Z,2023-09-22T18:09:40Z,3,1,MERGED
+design-system,fix(): Remove readonly styles from Select,https://github.com/priceline/design-system/pull/1401,2023-09-20T18:10:18Z,2023-09-25T16:29:54Z,1,1,MERGED
+design-system,Feat(htl-94282): Add Gradient and StrokeWidth to Spinner,https://github.com/priceline/design-system/pull/1399,2023-09-18T13:21:26Z,2023-09-18T17:39:24Z,2,4,MERGED
+design-system,feat(HTL-95755): add attraction svg icon to pcln-icons,https://github.com/priceline/design-system/pull/1398,2023-09-15T19:45:24Z,2023-09-15T20:39:59Z,1,2,MERGED
+design-system,Add value prop to ChoiceChip Input,https://github.com/priceline/design-system/pull/1397,2023-09-13T13:24:48Z,2023-09-15T11:15:01Z,1,1,MERGED
+design-system,Fix broken interaction tests,https://github.com/priceline/design-system/pull/1396,2023-09-11T15:09:55Z,2023-09-12T17:46:26Z,2,2,CLOSED
+design-system,Ecosystem maintenance,https://github.com/priceline/design-system/pull/1395,2023-09-06T20:34:47Z,2023-09-07T15:53:47Z,3,4,MERGED
+design-system,Use Node 18 for all GHA workflows,https://github.com/priceline/design-system/pull/1394,2023-09-05T13:51:30Z,2023-09-05T14:46:55Z,1,1,MERGED
+design-system,Fix broken Storybook build by upgrading Storybook Jest-related deps,https://github.com/priceline/design-system/pull/1393,2023-09-05T13:49:30Z,2023-09-05T16:44:19Z,1,1,MERGED
+design-system,Design System v6 WIP:,https://github.com/priceline/design-system/pull/1392,2023-09-01T15:59:41Z,2024-01-23T05:13:36Z,0,1,CLOSED
+design-system,Remove Carousel interaction test that caused Chromatic CI failures,https://github.com/priceline/design-system/pull/1391,2023-08-31T19:06:55Z,2023-09-11T13:17:55Z,1,1,CLOSED
+design-system,fix(UXPT-nil) Fix invalid semver for UXPT-4815 change,https://github.com/priceline/design-system/pull/1390,2023-08-30T20:22:20Z,2023-09-01T13:45:07Z,1,1,MERGED
+design-system,"Feat() Add ""ladder"" variation to the Accordion component",https://github.com/priceline/design-system/pull/1389,2023-08-30T18:32:28Z,2023-09-20T18:02:09Z,3,10,MERGED
+design-system,Feat accordion ladder,https://github.com/priceline/design-system/pull/1388,2023-08-30T18:17:34Z,2023-08-30T18:32:44Z,0,2,CLOSED
+design-system,Add font-size story for Label,https://github.com/priceline/design-system/pull/1387,2023-08-30T14:53:23Z,2023-08-30T17:06:40Z,1,1,CLOSED
+design-system,feat(HTL-91943): adjust accordion padding,https://github.com/priceline/design-system/pull/1386,2023-08-29T19:19:36Z,2023-09-22T14:10:42Z,4,1,MERGED
+design-system,Accordion types use typescript,https://github.com/priceline/design-system/pull/1385,2023-08-23T16:56:47Z,2023-08-23T18:29:01Z,2,2,MERGED
+design-system,Resolve avatar prop type issue,https://github.com/priceline/design-system/pull/1384,2023-08-22T17:16:59Z,2023-08-23T15:32:43Z,1,2,MERGED
+design-system,Add hover micro-interactions to CloseButton,https://github.com/priceline/design-system/pull/1383,2023-08-18T20:42:58Z,2023-10-31T16:30:47Z,4,2,MERGED
+design-system,Make styled component peers consistent,https://github.com/priceline/design-system/pull/1381,2023-08-10T18:34:07Z,2023-08-22T22:02:43Z,2,1,CLOSED
+design-system,chore(HTL-94989): export accordion,https://github.com/priceline/design-system/pull/1380,2023-08-10T16:00:34Z,2023-08-11T13:56:08Z,1,2,MERGED
+design-system,Replace more Jest tests with Storybook stories and interaction tests,https://github.com/priceline/design-system/pull/1379,2023-08-08T16:32:11Z,2023-08-10T14:24:41Z,3,1,MERGED
+design-system,Add borderStyles to Card component,https://github.com/priceline/design-system/pull/1378,2023-08-03T22:13:04Z,2023-08-09T17:26:08Z,2,3,MERGED
+design-system,SlideBox: set arrowPosition default to hide,https://github.com/priceline/design-system/pull/1377,2023-08-03T21:58:59Z,2023-08-08T19:54:31Z,1,4,MERGED
+design-system,ChoiceChip: Add a topLabel prop and ability to set borderRadius and w…,https://github.com/priceline/design-system/pull/1376,2023-08-02T13:27:06Z,2023-08-09T15:11:21Z,2,5,MERGED
+design-system,adding optional onClose prop,https://github.com/priceline/design-system/pull/1431,2023-12-28T21:06:21Z,2024-01-04T17:19:56Z,1,3,CLOSED
+design-system,Remove prop-types from more core components,https://github.com/priceline/design-system/pull/1430,2023-12-26T15:06:22Z,2024-01-02T17:51:50Z,16,1,MERGED
+design-system,Remove usage of prop-types from more components,https://github.com/priceline/design-system/pull/1429,2023-12-22T15:35:06Z,2023-12-22T19:08:12Z,8,1,MERGED
+design-system,(AIR-59161):fix for loosing focus of menu after selecting menuitem,https://github.com/priceline/design-system/pull/1428,2023-12-14T16:43:35Z,2023-12-14T18:31:05Z,2,3,MERGED
+design-system,feat(AIR-59841): Add cancel icon,https://github.com/priceline/design-system/pull/1427,2023-12-13T19:12:04Z,2023-12-13T21:44:59Z,2,2,MERGED
+design-system,Remove !important from link variation of button,https://github.com/priceline/design-system/pull/1426,2023-12-08T22:12:27Z,2023-12-11T15:31:20Z,1,1,MERGED
+design-system,Design System v6,https://github.com/priceline/design-system/pull/1425,2023-12-07T18:39:24Z,2024-01-12T15:57:40Z,9,1,MERGED
+design-system,feat(SITE-21794): fix the outgoing ChatMessage footer position issue,https://github.com/priceline/design-system/pull/1424,2023-12-05T20:19:49Z,2023-12-07T17:43:34Z,3,1,MERGED
+design-system,Fix/label z index,https://github.com/priceline/design-system/pull/1423,2023-11-29T21:02:23Z,2023-11-30T12:21:26Z,2,3,MERGED
+design-system,Export palette family variation,https://github.com/priceline/design-system/pull/1422,2023-11-27T19:18:58Z,2023-11-27T21:44:27Z,1,2,MERGED
+design-system,Uxpt 3816 radio button improvements,https://github.com/priceline/design-system/pull/1421,2023-11-21T16:17:53Z,2023-11-21T20:38:38Z,4,6,MERGED
+design-system,fix(AIR-59342): update default portal target value as a body,https://github.com/priceline/design-system/pull/1420,2023-11-20T21:17:43Z,2023-11-20T21:49:01Z,1,4,MERGED
+design-system,Checkbox and Label component improvements,https://github.com/priceline/design-system/pull/1419,2023-11-17T20:54:01Z,2024-03-05T19:47:10Z,2,2,CLOSED
+design-system,Bug fix/uxpt 4211 fix important,https://github.com/priceline/design-system/pull/1418,2023-11-17T19:15:23Z,2023-11-20T15:31:33Z,1,4,MERGED
+design-system,Bug fix/uxpt 4211 remove bg for disable button link1,https://github.com/priceline/design-system/pull/1417,2023-11-17T01:17:36Z,2023-11-17T16:11:15Z,1,3,MERGED
+design-system,feat(AIR-59342): add ability to render under certain element,https://github.com/priceline/design-system/pull/1416,2023-11-16T20:34:08Z,2023-11-17T16:07:47Z,1,3,MERGED
+design-system,fix(UXPT-5817): update docs,https://github.com/priceline/design-system/pull/1415,2023-11-15T20:11:59Z,2023-11-16T17:54:30Z,1,1,MERGED
+design-system,add zIndex for Dialog,https://github.com/priceline/design-system/pull/1414,2023-11-15T16:10:36Z,2023-11-15T16:51:45Z,2,1,MERGED
+design-system,Make ChatMessage accept react node as children,https://github.com/priceline/design-system/pull/1413,2023-11-11T16:40:52Z,2023-11-13T18:55:16Z,1,1,MERGED
+design-system,Fix position of Dialog's close button,https://github.com/priceline/design-system/pull/1412,2023-11-07T21:26:24Z,2023-11-07T22:10:58Z,1,1,MERGED
+design-system,Add exports for Chat components to core,https://github.com/priceline/design-system/pull/1410,2023-11-02T18:32:42Z,2023-11-02T19:22:40Z,2,1,MERGED
+design-system,Site 22740 - Fix overflow behavior for next-landing express deal dialog,https://github.com/priceline/design-system/pull/1477,2024-03-28T19:39:38Z,2024-04-02T17:52:48Z,4,7,MERGED
+design-system,feat(HTL-101641): add new folded map icon,https://github.com/priceline/design-system/pull/1476,2024-03-25T15:53:33Z,2024-03-25T17:34:42Z,1,1,MERGED
+design-system,[UXPT]: Update select to use pointer on hover,https://github.com/priceline/design-system/pull/1475,2024-03-25T15:32:10Z,2024-03-26T15:44:01Z,1,1,MERGED
+design-system,feat(RC-25645): Disable floating-ui for popover using a prop.,https://github.com/priceline/design-system/pull/1474,2024-03-15T13:28:21Z,2024-03-18T19:00:17Z,3,1,MERGED
+design-system,Carousel: add new prop arrowButtonZIndex to allow you to set zIndex f…,https://github.com/priceline/design-system/pull/1473,2024-03-12T19:54:40Z,2024-03-13T15:23:25Z,1,2,MERGED
+design-system,fix(AIR-61584): avoid render the hidden children,https://github.com/priceline/design-system/pull/1472,2024-03-08T21:40:23Z,2024-03-11T21:55:35Z,2,3,MERGED
+design-system,DialogInnerContentWrapper full height if footerContent exists,https://github.com/priceline/design-system/pull/1471,2024-03-06T18:15:24Z,2024-03-06T19:49:55Z,2,3,MERGED
+design-system,Fix() revert some changes that caused issues on Dialog,https://github.com/priceline/design-system/pull/1470,2024-03-06T17:40:02Z,2024-03-06T19:38:51Z,1,1,CLOSED
+design-system,(AIR-61698): bug fix for when spinner doesn't spin for mobile view,https://github.com/priceline/design-system/pull/1469,2024-03-05T18:43:56Z,2024-03-07T15:33:35Z,2,4,MERGED
+design-system,transpile lib with babel-plugin-styled-components,https://github.com/priceline/design-system/pull/1468,2024-03-05T15:30:46Z,2024-03-12T15:37:14Z,1,1,MERGED
+design-system,feat(HTL-101124): added gift icon,https://github.com/priceline/design-system/pull/1467,2024-02-29T19:28:18Z,2024-03-06T14:33:10Z,3,1,MERGED
+design-system,feat(HTL-99330): add caption as text style option,https://github.com/priceline/design-system/pull/1466,2024-02-28T22:27:47Z,2024-03-01T21:59:12Z,2,1,MERGED
+design-system,add BoxProps to Container type,https://github.com/priceline/design-system/pull/1465,2024-02-27T19:38:57Z,2024-02-28T16:15:13Z,1,2,MERGED
+design-system,fix(RC-XXXXX): fixes modal close button alignment,https://github.com/priceline/design-system/pull/1464,2024-02-27T05:21:53Z,2024-02-27T17:11:06Z,1,1,MERGED
+design-system,feat: update DS components to match unified search,https://github.com/priceline/design-system/pull/1463,2024-02-27T04:24:30Z,2024-02-29T16:40:53Z,2,8,MERGED
+design-system,Revert changes to Toast closeButton to fix issue with callback,https://github.com/priceline/design-system/pull/1462,2024-02-21T18:53:01Z,2024-02-22T17:00:54Z,1,2,MERGED
+design-system,Carousel: add in arrowsAlignment and nodeBesideArrows props,https://github.com/priceline/design-system/pull/1461,2024-02-20T19:42:17Z,2024-02-21T22:04:14Z,2,4,MERGED
+design-system,feat(UXPT-6139): add drawer component,https://github.com/priceline/design-system/pull/1460,2024-02-16T17:29:27Z,2024-03-13T22:27:22Z,10,1,MERGED
+design-system,Dialog - Add footerContent section,https://github.com/priceline/design-system/pull/1459,2024-02-15T21:19:19Z,2024-02-16T19:38:41Z,1,3,MERGED
+design-system,"Carousel and SlideBox: add in new props to allow overflow on x, y, an…",https://github.com/priceline/design-system/pull/1458,2024-02-15T14:54:38Z,2024-02-21T19:29:30Z,3,5,MERGED
+design-system,Create hook to apply shadow to a container on scroll,https://github.com/priceline/design-system/pull/1457,2024-02-15T14:23:59Z,2024-02-15T18:44:31Z,2,1,MERGED
+design-system,Update Dialog close button and header,https://github.com/priceline/design-system/pull/1456,2024-02-13T15:26:20Z,2024-02-13T18:29:25Z,4,1,MERGED
+design-system,Feat fab provider,https://github.com/priceline/design-system/pull/1455,2024-02-12T21:01:58Z,2024-02-21T21:32:29Z,6,20,MERGED
+design-system,UXPT-3813: update checkbox states,https://github.com/priceline/design-system/pull/1454,2024-02-12T20:54:24Z,2024-02-13T21:57:08Z,1,8,MERGED
+design-system,change color of base orange to dark,https://github.com/priceline/design-system/pull/1453,2024-02-09T17:53:39Z,2024-02-09T19:45:56Z,2,1,MERGED
+design-system,Add more stories for Layout,https://github.com/priceline/design-system/pull/1452,2024-02-08T17:44:05Z,2024-02-08T20:29:37Z,1,1,MERGED
+design-system,Reimplement Layout component using CSS Grid,https://github.com/priceline/design-system/pull/1451,2024-02-08T15:31:47Z,2024-02-09T15:23:51Z,3,1,MERGED
+design-system,ToastProvider: update to allow animations to come in from the top,https://github.com/priceline/design-system/pull/1450,2024-02-07T21:27:59Z,2024-02-08T15:50:15Z,0,4,MERGED
+design-system,Toast provider top animation,https://github.com/priceline/design-system/pull/1449,2024-02-07T21:24:43Z,2024-02-07T21:26:32Z,0,5,CLOSED
+design-system,[UXPT]: create stories for dialog use cases,https://github.com/priceline/design-system/pull/1448,2024-02-07T20:12:45Z,2024-03-05T22:47:07Z,3,7,MERGED
+design-system,fix types exports for api-extractor,https://github.com/priceline/design-system/pull/1446,2024-02-06T21:02:52Z,2024-02-07T15:58:47Z,0,1,MERGED
+design-system,correct path to published types,https://github.com/priceline/design-system/pull/1445,2024-02-05T21:41:44Z,2024-02-05T21:47:45Z,0,1,MERGED
+design-system,Correct peerDeps for v6 packages,https://github.com/priceline/design-system/pull/1444,2024-01-30T19:51:46Z,2024-01-30T20:28:06Z,1,1,MERGED
+design-system,Feat/AIR-60646: Add interactive state to Input and formfield input,https://github.com/priceline/design-system/pull/1443,2024-01-29T17:06:45Z,2024-02-06T18:06:39Z,1,5,MERGED
+design-system,Add color scheme for heading text color,https://github.com/priceline/design-system/pull/1442,2024-01-26T19:55:15Z,2024-01-30T16:10:07Z,1,3,MERGED
+design-system,fix(AIR-60631): update accordion shadow state for open,https://github.com/priceline/design-system/pull/1441,2024-01-24T19:49:18Z,2024-01-30T15:02:14Z,4,9,MERGED
+design-system,Fix some incorrect TS types,https://github.com/priceline/design-system/pull/1439,2024-01-18T17:47:02Z,2024-01-19T19:08:04Z,2,1,MERGED
+design-system,Use webpack to minify output and apply babel-plugin-styled-components,https://github.com/priceline/design-system/pull/1438,2024-01-18T02:33:03Z,2024-01-22T15:44:02Z,1,2,MERGED
+design-system,fix(UXPT-6159): Storybook Build with TurboSnap Disabled,https://github.com/priceline/design-system/pull/1437,2024-01-17T21:17:22Z,2024-01-19T17:11:24Z,2,1,CLOSED
+design-system,Add OverflowX & OverflowY Props to the dialog component,https://github.com/priceline/design-system/pull/1436,2024-01-16T20:32:45Z,2024-01-18T17:30:11Z,7,9,MERGED
+design-system,Task/air 60364 add new refundable icons,https://github.com/priceline/design-system/pull/1435,2024-01-11T20:28:16Z,2024-01-11T21:09:41Z,1,2,MERGED
+design-system,AIR-59977 Passed missing currentSlide prop to SlideBox component in Carousel,https://github.com/priceline/design-system/pull/1434,2024-01-05T16:14:56Z,2024-01-05T19:50:11Z,1,2,MERGED
+design-system,AIR-59977 Passed missing currentSlide prop to SlideBox component in Carousel,https://github.com/priceline/design-system/pull/1433,2024-01-04T20:52:33Z,2024-01-05T15:58:32Z,0,2,CLOSED
+design-system,task(AIR-59826): Icon animation wrapper,https://github.com/priceline/design-system/pull/1432,2024-01-03T16:42:22Z,2024-11-06T19:09:14Z,0,1,CLOSED
+design-system,rush update full for caniuse-light warning,https://github.com/priceline/design-system/pull/1495,2024-05-29T19:40:32Z,2024-05-29T20:33:43Z,0,0,CLOSED
+design-system,ignore browserslist warnings,https://github.com/priceline/design-system/pull/1494,2024-05-22T19:35:43Z,2024-05-30T19:37:32Z,1,1,MERGED
+design-system,force latest browserslist,https://github.com/priceline/design-system/pull/1493,2024-05-22T19:04:01Z,2024-05-30T19:54:33Z,1,1,CLOSED
+design-system,chore(RC-26345): updates shadow effect color,https://github.com/priceline/design-system/pull/1492,2024-05-20T17:31:03Z,2024-06-03T14:50:57Z,1,1,MERGED
+design-system,feat(UXPT-7188): accordion add custom color for header content and hover,https://github.com/priceline/design-system/pull/1491,2024-05-12T22:42:04Z,2024-05-20T13:09:18Z,2,1,MERGED
+design-system,Rename innerContentScroll prop to innerContentOverflow,https://github.com/priceline/design-system/pull/1490,2024-04-29T21:45:37Z,2024-05-06T21:52:25Z,1,2,MERGED
+design-system,Add missing prop to Spinner,https://github.com/priceline/design-system/pull/1489,2024-04-25T16:13:33Z,2024-05-03T16:00:15Z,1,1,MERGED
+design-system,Bump versions [skip ci],https://github.com/priceline/design-system/pull/1488,2024-04-25T16:11:01Z,2024-06-20T11:09:04Z,0,1,CLOSED
+design-system,feat(AIR-61855): Recommended filters icon,https://github.com/priceline/design-system/pull/1487,2024-04-19T14:26:47Z,2024-04-19T14:47:45Z,1,2,MERGED
+design-system,implement heft-styled-components-plugin,https://github.com/priceline/design-system/pull/1486,2024-04-18T17:21:14Z,2024-05-10T19:48:39Z,4,1,MERGED
+design-system,fix(HTL-103087): menu jumps to top of screen,https://github.com/priceline/design-system/pull/1485,2024-04-18T15:42:57Z,2024-04-24T18:23:16Z,2,1,MERGED
+design-system,fix(RC-26177): zindex prop for menu,https://github.com/priceline/design-system/pull/1484,2024-04-16T16:13:11Z,2024-04-17T13:15:55Z,1,1,MERGED
+design-system,Add new Double Chevron (left/right) Icons,https://github.com/priceline/design-system/pull/1483,2024-04-15T17:06:13Z,2024-04-15T19:09:01Z,1,1,MERGED
+design-system,fix(RC-26187): center aligns banner icon,https://github.com/priceline/design-system/pull/1480,2024-04-10T17:22:04Z,2024-04-11T03:59:41Z,1,1,CLOSED
+design-system,fix(UXPT-6139): export drawer component,https://github.com/priceline/design-system/pull/1479,2024-04-09T16:49:09Z,2024-04-10T19:56:05Z,1,1,MERGED
+design-system,build common js with babel-plugin-styled-components in core pcln-desi…,https://github.com/priceline/design-system/pull/1478,2024-04-01T16:28:22Z,2024-04-01T21:11:06Z,1,1,MERGED
+design-system,Slidebox key access,https://github.com/priceline/design-system/pull/1508,2024-07-25T19:41:54Z,2024-07-29T19:23:21Z,2,2,CLOSED
+design-system,Fix close button bug and add max/min width props to Popover,https://github.com/priceline/design-system/pull/1507,2024-07-24T16:44:33Z,2024-07-25T19:32:49Z,3,1,MERGED
+design-system,feat(UXPT-6345): add a new parameter 'shouldDisableTabIndex' to Dialog component,https://github.com/priceline/design-system/pull/1506,2024-07-24T16:37:21Z,2024-07-24T19:23:40Z,1,2,MERGED
+design-system,feat(PPN-76661): Phone agent with card icon,https://github.com/priceline/design-system/pull/1505,2024-07-17T19:19:35Z,2024-07-17T21:10:09Z,1,2,MERGED
+design-system,Refactor Popover using Radix UI,https://github.com/priceline/design-system/pull/1504,2024-07-17T12:50:57Z,2024-07-24T15:23:00Z,13,1,MERGED
+design-system,fix(UXPT-7566): support programatic control of the popover,https://github.com/priceline/design-system/pull/1503,2024-07-09T14:28:31Z,2024-07-11T16:16:16Z,1,2,MERGED
+design-system,chore(): Update typings,https://github.com/priceline/design-system/pull/1502,2024-06-24T22:12:21Z,2024-07-08T20:16:42Z,16,33,MERGED
+design-system,Fix Input.HelperText types,https://github.com/priceline/design-system/pull/1501,2024-06-17T19:26:36Z,2024-06-18T13:17:25Z,2,1,MERGED
+design-system,Add disabled state css for Button component variation=input,https://github.com/priceline/design-system/pull/1500,2024-06-10T19:29:37Z,2024-06-11T18:29:21Z,1,4,MERGED
+design-system,Labels can truncate and FormFields force Label truncation,https://github.com/priceline/design-system/pull/1499,2024-06-05T22:29:30Z,2024-06-07T17:26:06Z,1,2,MERGED
+design-system,feat(addFlagIcons): add new flag icons,https://github.com/priceline/design-system/pull/1524,2024-10-29T13:32:11Z,2024-10-29T13:41:07Z,1,1,CLOSED
+design-system,feat(HTL-109459): multiroom drawer),https://github.com/priceline/design-system/pull/1523,2024-10-23T17:59:35Z,2024-10-24T15:43:30Z,4,1,MERGED
+design-system,fix pause icon,https://github.com/priceline/design-system/pull/1522,2024-10-21T22:08:42Z,2024-10-22T14:08:21Z,1,1,MERGED
+design-system,Update: phone call related icons,https://github.com/priceline/design-system/pull/1521,2024-10-21T17:14:44Z,2024-10-21T19:25:32Z,2,1,MERGED
+design-system,feat(add-dialpad-icon): add new dial pad icon,https://github.com/priceline/design-system/pull/1520,2024-10-17T17:16:08Z,2024-10-17T19:02:18Z,1,5,MERGED
+design-system,feat(PPN-78971): add settings icon,https://github.com/priceline/design-system/pull/1519,2024-10-16T18:37:01Z,2024-10-16T19:12:07Z,1,1,MERGED
+design-system,feat(ppn-78972): add phone icons,https://github.com/priceline/design-system/pull/1518,2024-10-16T16:51:09Z,2024-10-16T19:04:57Z,1,1,MERGED
+design-system,chore(Badge): Add story for Badge about adding Icon to a badge,https://github.com/priceline/design-system/pull/1517,2024-10-15T16:18:11Z,2024-10-28T18:04:11Z,3,3,MERGED
+design-system,Upgrade to framer-motion 11,https://github.com/priceline/design-system/pull/1516,2024-09-18T13:51:37Z,2024-09-19T14:42:00Z,1,1,MERGED
+design-system,Create stories for theming workshop,https://github.com/priceline/design-system/pull/1515,2024-09-17T16:54:43Z,2024-09-19T14:08:26Z,2,1,CLOSED
+design-system,Upgrade to Storybook 8,https://github.com/priceline/design-system/pull/1514,2024-09-12T14:51:17Z,2024-09-17T14:09:19Z,2,1,MERGED
+design-system,Feat(SITE-23486): price watch,https://github.com/priceline/design-system/pull/1513,2024-09-10T17:46:07Z,2024-09-10T18:02:04Z,1,3,MERGED
+design-system,SITE-23502 - resolving SSR issues with carousel. ,https://github.com/priceline/design-system/pull/1512,2024-09-09T14:08:04Z,2024-09-10T17:25:52Z,3,27,MERGED
+design-system,feat(SITE-22977): add product brand icons,https://github.com/priceline/design-system/pull/1511,2024-09-04T20:31:14Z,2024-09-05T14:34:13Z,1,2,MERGED
+design-system,fix(RC-25445): use querySelectorPortal in pcln-menu and pcln-popover only when provided as a prop,https://github.com/priceline/design-system/pull/1510,2024-08-12T15:56:56Z,2024-09-04T07:14:01Z,3,8,MERGED
+design-system,feat(UXPT-7739): Leverage the CloseButton for the ChatHeader,https://github.com/priceline/design-system/pull/1509,2024-08-05T18:21:04Z,2024-08-05T19:10:43Z,1,1,MERGED
+design-system,task(HTL-113265): Pointer fix first commit,https://github.com/priceline/design-system/pull/1542,2024-12-20T15:42:00Z,2024-12-20T16:29:20Z,1,2,MERGED
+design-system,Task/htl 113265 pointer event differentiation,https://github.com/priceline/design-system/pull/1541,2024-12-20T01:29:44Z,2024-12-20T15:59:54Z,1,4,CLOSED
+design-system,task(HTL-112172): Remove old prop,https://github.com/priceline/design-system/pull/1540,2024-12-17T20:57:59Z,2024-12-18T03:46:10Z,2,2,MERGED
+design-system,Task/htl 112172 additional drawer work,https://github.com/priceline/design-system/pull/1539,2024-12-17T15:23:26Z,2024-12-17T20:04:23Z,3,9,MERGED
+design-system,task(): Change fragement to div drawer,https://github.com/priceline/design-system/pull/1538,2024-11-27T20:06:44Z,2024-12-03T22:18:24Z,1,2,MERGED
+design-system,feat: adding toggle text as an option for accordion component,https://github.com/priceline/design-system/pull/1537,2024-11-27T15:54:49Z,2025-03-03T18:46:34Z,2,1,CLOSED
+design-system,Task/htl 111885 Drawer enhancements,https://github.com/priceline/design-system/pull/1536,2024-11-21T19:52:17Z,2024-11-25T18:11:54Z,6,14,MERGED
+design-system,"Add icon for Park, Mountain, Activity",https://github.com/priceline/design-system/pull/1535,2024-11-15T16:15:07Z,2024-11-15T16:40:37Z,1,2,MERGED
+design-system,add z-index to icon button in password input in order to make it clickable,https://github.com/priceline/design-system/pull/1534,2024-11-13T19:20:03Z,2024-11-27T15:00:11Z,1,1,MERGED
+design-system,task(HTL-111586): Add flag to toggle animation,https://github.com/priceline/design-system/pull/1533,2024-11-13T16:28:48Z,2024-11-25T18:31:13Z,1,2,CLOSED
+design-system,feat(AIR-66845): adding snack icon,https://github.com/priceline/design-system/pull/1532,2024-11-12T19:07:44Z,2024-11-13T16:29:52Z,1,1,MERGED
+design-system,add phone icons,https://github.com/priceline/design-system/pull/1531,2024-11-08T19:41:18Z,2024-11-12T15:25:27Z,1,1,MERGED
+design-system,Task/htl 111365 fix props override for collapse and close,https://github.com/priceline/design-system/pull/1530,2024-11-08T16:50:11Z,2024-11-08T18:02:42Z,1,2,MERGED
+design-system,Feat/htl 110511 update drawer divider,https://github.com/priceline/design-system/pull/1529,2024-11-05T21:48:20Z,2024-11-06T18:18:39Z,1,8,MERGED
+design-system,feat(HTL-111103): Enable custom header for drawer component,https://github.com/priceline/design-system/pull/1528,2024-11-05T14:18:49Z,2024-11-05T20:29:05Z,5,9,MERGED
+design-system,feat(PB-3722): update Carousel to allow custom vertical slide padding,https://github.com/priceline/design-system/pull/1527,2024-11-04T20:00:56Z,2024-11-05T22:07:45Z,0,3,CLOSED
+design-system,feat(HTL-114826): add toggleText prop for accordion,https://github.com/priceline/design-system/pull/1550,2025-02-20T15:13:53Z,2025-02-24T16:48:29Z,4,1,MERGED
+design-system,moving react-test-renderer to devdep,https://github.com/priceline/design-system/pull/1549,2025-02-11T20:47:44Z,2025-02-11T21:40:57Z,1,2,MERGED
+design-system,chore(UXPT-9083): Remove Shimmer Component DefaultProps,https://github.com/priceline/design-system/pull/1548,2025-02-03T14:28:37Z,2025-02-03T15:22:16Z,1,1,MERGED
+design-system,feature(PROT-4884): new protection icons,https://github.com/priceline/design-system/pull/1547,2025-01-28T16:22:30Z,2025-01-28T21:50:20Z,1,1,MERGED
+design-system,feature(PROT-4812): adds backgroundColor prop to RadioCheckToggleCard,https://github.com/priceline/design-system/pull/1546,2025-01-22T04:12:56Z,2025-01-22T14:34:50Z,2,1,MERGED
+design-system,Task/htl 113692 limit dragging to header only,https://github.com/priceline/design-system/pull/1545,2025-01-07T14:02:28Z,2025-01-07T16:48:12Z,3,3,MERGED
+design-system,feat(RC-28267): Create LogoImage Component,https://github.com/priceline/design-system/pull/1544,2025-01-06T17:10:46Z,2025-01-08T19:37:07Z,1,4,CLOSED
+design-system,task(HTL-113523): Expose drawer snap states,https://github.com/priceline/design-system/pull/1543,2025-01-02T21:28:16Z,2025-01-03T17:37:17Z,1,8,MERGED

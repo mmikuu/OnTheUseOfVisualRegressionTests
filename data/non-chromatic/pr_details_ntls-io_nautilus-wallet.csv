@@ -1,0 +1,429 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+nautilus-wallet,feat(web-client): add fontawesome,https://github.com/ntls-io/nautilus-wallet/pull/41,2021-07-28T12:40:50Z,2021-07-28T12:59:26Z,4,4,MERGED
+nautilus-wallet,ci(web-client): disable ng e2e's webdriverUpdate behaviour for GitHub Actions,https://github.com/ntls-io/nautilus-wallet/pull/40,2021-07-28T10:41:32Z,2021-07-28T11:27:53Z,3,3,MERGED
+nautilus-wallet,Wallet,https://github.com/ntls-io/nautilus-wallet/pull/39,2021-07-28T09:11:30Z,2021-08-04T12:59:07Z,4,17,MERGED
+nautilus-wallet,font-awesome,https://github.com/ntls-io/nautilus-wallet/pull/38,2021-07-28T08:15:09Z,2021-07-28T12:34:59Z,2,18,CLOSED
+nautilus-wallet,test(web-client): fix coverage reporting,https://github.com/ntls-io/nautilus-wallet/pull/37,2021-07-27T16:55:18Z,2021-07-28T11:33:25Z,4,1,MERGED
+nautilus-wallet,test(web-client): add basic coverage for routes / navigation,https://github.com/ntls-io/nautilus-wallet/pull/36,2021-07-27T15:49:22Z,2021-07-28T12:45:11Z,4,5,MERGED
+nautilus-wallet,test(web-client): add story for the Ionic theme,https://github.com/ntls-io/nautilus-wallet/pull/35,2021-07-26T13:19:00Z,2021-07-27T07:30:57Z,3,1,MERGED
+nautilus-wallet,theme-color-quick-fix,https://github.com/ntls-io/nautilus-wallet/pull/34,2021-07-26T10:06:19Z,2021-07-26T11:04:17Z,4,6,MERGED
+nautilus-wallet,translate 2,https://github.com/ntls-io/nautilus-wallet/pull/32,2021-07-22T08:53:08Z,2021-07-22T11:20:24Z,2,3,MERGED
+nautilus-wallet,feat(web-client): add font families,https://github.com/ntls-io/nautilus-wallet/pull/31,2021-07-21T17:24:05Z,2021-07-23T10:39:00Z,2,5,MERGED
+nautilus-wallet,home,https://github.com/ntls-io/nautilus-wallet/pull/30,2021-07-21T16:08:42Z,2021-07-29T08:56:59Z,5,28,MERGED
+nautilus-wallet,pref(web-color): add logo & title to landing page,https://github.com/ntls-io/nautilus-wallet/pull/29,2021-07-21T14:08:31Z,2021-07-26T10:08:55Z,4,6,MERGED
+nautilus-wallet,header-component,https://github.com/ntls-io/nautilus-wallet/pull/24,2021-07-18T20:17:22Z,2021-07-26T07:49:47Z,6,10,MERGED
+nautilus-wallet,perf(web-client): set global max-width & bg-color,https://github.com/ntls-io/nautilus-wallet/pull/23,2021-07-18T15:21:37Z,2021-07-23T13:03:00Z,5,6,MERGED
+nautilus-wallet,translate,https://github.com/ntls-io/nautilus-wallet/pull/22,2021-07-15T21:33:49Z,2021-07-21T21:06:09Z,7,6,MERGED
+nautilus-wallet,feat(ui): add black & white color,https://github.com/ntls-io/nautilus-wallet/pull/21,2021-07-15T10:00:04Z,2021-07-15T10:00:16Z,1,1,MERGED
+nautilus-wallet,refactor(ui): responsive container,https://github.com/ntls-io/nautilus-wallet/pull/20,2021-07-15T09:59:05Z,2021-07-15T09:59:35Z,3,1,MERGED
+nautilus-wallet,Basic landing page components and layout,https://github.com/ntls-io/nautilus-wallet/pull/19,2021-07-14T22:03:46Z,2021-07-15T08:51:03Z,4,3,MERGED
+nautilus-wallet,Update and extend css colors,https://github.com/ntls-io/nautilus-wallet/pull/18,2021-07-14T22:03:09Z,2021-07-15T08:50:19Z,7,5,MERGED
+nautilus-wallet,"build(web-client): npm updates, legacy-peer-deps",https://github.com/ntls-io/nautilus-wallet/pull/17,2021-07-14T18:33:18Z,2021-07-16T08:21:45Z,5,2,MERGED
+nautilus-wallet,added payment transaction create and sign,https://github.com/ntls-io/nautilus-wallet/pull/16,2021-07-07T19:46:50Z,2021-08-31T09:49:18Z,2,2,CLOSED
+nautilus-wallet,Routes,https://github.com/ntls-io/nautilus-wallet/pull/15,2021-07-06T08:14:46Z,2021-07-13T09:28:16Z,2,6,MERGED
+nautilus-wallet,Display QR-Code,https://github.com/ntls-io/nautilus-wallet/pull/14,2021-07-06T08:13:09Z,2021-07-13T10:13:54Z,2,4,MERGED
+nautilus-wallet,ci(web-client): limit action triggering by path,https://github.com/ntls-io/nautilus-wallet/pull/13,2021-07-06T07:53:47Z,2021-07-06T08:53:04Z,1,1,MERGED
+nautilus-wallet,Add wallet/account creation,https://github.com/ntls-io/nautilus-wallet/pull/12,2021-07-05T17:13:36Z,2021-08-31T09:49:22Z,11,4,CLOSED
+nautilus-wallet,chore(web-client): add Netlify config,https://github.com/ntls-io/nautilus-wallet/pull/11,2021-07-01T11:36:57Z,2021-07-06T07:17:40Z,4,1,MERGED
+nautilus-wallet,build(web-client): add prettier,https://github.com/ntls-io/nautilus-wallet/pull/9,2021-06-29T15:21:46Z,2021-07-06T07:12:25Z,6,9,MERGED
+nautilus-wallet,add Storybook,https://github.com/ntls-io/nautilus-wallet/pull/8,2021-06-29T15:03:43Z,2021-07-06T07:34:04Z,4,13,MERGED
+nautilus-wallet,Import web-client from repo,https://github.com/ntls-io/nautilus-wallet/pull/7,2021-06-28T12:21:23Z,2021-06-29T15:00:52Z,2,6,MERGED
+nautilus-wallet,feat(web-client): support browser autocomplete for wallet address / PIN,https://github.com/ntls-io/nautilus-wallet/pull/132,2021-10-29T17:16:46Z,2022-06-20T12:49:38Z,7,3,CLOSED
+nautilus-wallet,feat(web-client): Algorand ASA support,https://github.com/ntls-io/nautilus-wallet/pull/131,2021-10-28T19:28:30Z,2022-04-27T12:12:36Z,7,20,MERGED
+nautilus-wallet,fix(web-server): pull in Algonaut asset opt-in fix,https://github.com/ntls-io/nautilus-wallet/pull/130,2021-10-28T14:00:47Z,2021-10-28T14:16:21Z,2,2,MERGED
+nautilus-wallet,fix(web-client): WalletAccessPage presentLock crash,https://github.com/ntls-io/nautilus-wallet/pull/129,2021-10-28T09:03:01Z,2021-10-28T16:20:29Z,3,5,MERGED
+nautilus-wallet,"ci(web-client): work around ""npm ci"" being broken",https://github.com/ntls-io/nautilus-wallet/pull/128,2021-10-27T16:48:35Z,2021-10-27T17:06:02Z,4,2,MERGED
+nautilus-wallet,"feat(asset-services,onfido): CORS and tweaks",https://github.com/ntls-io/nautilus-wallet/pull/127,2021-10-12T19:22:55Z,2021-10-25T13:10:40Z,2,3,MERGED
+nautilus-wallet,feat(web-client): add Onfido KYC page,https://github.com/ntls-io/nautilus-wallet/pull/126,2021-10-08T09:32:06Z,2021-10-29T17:50:38Z,2,35,MERGED
+nautilus-wallet,docs: add license: Apache 2.0,https://github.com/ntls-io/nautilus-wallet/pull/125,2021-10-08T07:54:31Z,2021-10-08T16:45:55Z,2,5,MERGED
+nautilus-wallet,feat(asset-services): add Celery worker preflight checks,https://github.com/ntls-io/nautilus-wallet/pull/124,2021-10-07T14:09:29Z,2021-10-12T14:22:54Z,6,3,MERGED
+nautilus-wallet,feat(web-client): add XRP service for signing and submitting transactions,https://github.com/ntls-io/nautilus-wallet/pull/122,2021-10-06T18:53:26Z,2022-04-27T23:28:34Z,5,7,MERGED
+nautilus-wallet,feat(web-client): XRP support for wallet API,https://github.com/ntls-io/nautilus-wallet/pull/121,2021-10-06T18:46:08Z,2022-04-25T00:51:42Z,2,4,CLOSED
+nautilus-wallet,Xrp mask,https://github.com/ntls-io/nautilus-wallet/pull/120,2021-10-06T17:55:27Z,2022-06-20T12:49:23Z,2,8,CLOSED
+nautilus-wallet,feat(web-client): add XRP service for signing and submitting transations,https://github.com/ntls-io/nautilus-wallet/pull/119,2021-10-05T18:51:35Z,2021-10-06T18:41:31Z,2,0,MERGED
+nautilus-wallet,Xrp faucet,https://github.com/ntls-io/nautilus-wallet/pull/118,2021-10-05T13:39:44Z,2022-06-20T12:49:16Z,2,22,CLOSED
+nautilus-wallet,feat(web-server): XRP integration,https://github.com/ntls-io/nautilus-wallet/pull/117,2021-10-04T20:41:26Z,2022-04-25T00:51:56Z,4,8,CLOSED
+nautilus-wallet,Demo branch part 4,https://github.com/ntls-io/nautilus-wallet/pull/114,2021-10-04T01:39:55Z,2021-10-04T12:52:36Z,1,4,MERGED
+nautilus-wallet,Demo branch part 3,https://github.com/ntls-io/nautilus-wallet/pull/113,2021-10-04T01:39:22Z,2021-10-04T12:21:07Z,2,4,MERGED
+nautilus-wallet,Demo branch part 2,https://github.com/ntls-io/nautilus-wallet/pull/112,2021-10-04T01:38:43Z,2021-10-04T11:37:18Z,2,38,MERGED
+nautilus-wallet,Demo branch part 1,https://github.com/ntls-io/nautilus-wallet/pull/111,2021-10-04T01:37:52Z,2021-10-04T09:07:28Z,2,20,MERGED
+nautilus-wallet,ci: make new pushes cancel in-progress builds,https://github.com/ntls-io/nautilus-wallet/pull/110,2021-10-01T15:34:57Z,2021-10-08T13:48:27Z,5,2,MERGED
+nautilus-wallet,Services update,https://github.com/ntls-io/nautilus-wallet/pull/109,2021-09-30T13:47:07Z,2021-09-30T14:21:51Z,3,7,MERGED
+nautilus-wallet,Wallet-access-cleanup,https://github.com/ntls-io/nautilus-wallet/pull/108,2021-09-27T19:22:06Z,2021-09-30T15:43:00Z,2,3,MERGED
+nautilus-wallet,"feat(asset-services,onfido): add Onfido client + service",https://github.com/ntls-io/nautilus-wallet/pull/107,2021-09-27T07:33:57Z,2021-10-07T16:50:40Z,3,3,MERGED
+nautilus-wallet,feat(asset-services): add RedisTaskRecords persistence for Celery,https://github.com/ntls-io/nautilus-wallet/pull/106,2021-09-26T01:56:55Z,2021-10-07T14:40:38Z,4,7,MERGED
+nautilus-wallet,feat(asset-services): add Twilio verification services,https://github.com/ntls-io/nautilus-wallet/pull/105,2021-09-21T15:01:53Z,2021-09-28T00:54:19Z,1,5,MERGED
+nautilus-wallet,"feat(asset-services,twilio-verify): add twilio-verify client",https://github.com/ntls-io/nautilus-wallet/pull/104,2021-09-21T14:57:59Z,2021-09-27T23:17:10Z,1,1,MERGED
+nautilus-wallet,refactor(asset-services-worker): small cleanups,https://github.com/ntls-io/nautilus-wallet/pull/103,2021-09-21T14:34:40Z,2021-09-27T22:29:54Z,1,6,MERGED
+nautilus-wallet,refactor: split out env-var-helpers library,https://github.com/ntls-io/nautilus-wallet/pull/102,2021-09-21T11:10:07Z,2021-09-27T22:03:51Z,2,1,MERGED
+nautilus-wallet,"build(asset-services,web-server): better generate-dockerignore.sh scripts",https://github.com/ntls-io/nautilus-wallet/pull/101,2021-09-21T11:02:08Z,2021-09-27T09:56:31Z,1,1,MERGED
+nautilus-wallet,Added Sentry error tracking on server code,https://github.com/ntls-io/nautilus-wallet/pull/100,2021-09-21T08:29:04Z,2022-06-20T12:48:51Z,1,1,CLOSED
+nautilus-wallet,build(web-server): update Rust nightly toolchain: 2021-03-25 → 2021-05-10,https://github.com/ntls-io/nautilus-wallet/pull/99,2021-09-16T12:39:10Z,2021-09-17T07:32:37Z,1,1,MERGED
+nautilus-wallet,Kyc,https://github.com/ntls-io/nautilus-wallet/pull/98,2021-09-15T17:22:17Z,2022-06-20T12:49:03Z,2,6,CLOSED
+nautilus-wallet,"feat(asset-services): base layout for Celery, worker, and API crates",https://github.com/ntls-io/nautilus-wallet/pull/97,2021-09-14T18:43:28Z,2021-09-16T12:42:11Z,3,5,MERGED
+nautilus-wallet,input-mask-update,https://github.com/ntls-io/nautilus-wallet/pull/95,2021-09-11T20:47:35Z,2021-10-06T08:07:57Z,3,5,MERGED
+nautilus-wallet,feat(web-server): add wallet operation to sign accept asset transactions,https://github.com/ntls-io/nautilus-wallet/pull/94,2021-09-09T12:13:17Z,2023-09-19T09:51:48Z,1,1,CLOSED
+nautilus-wallet,"docs(web-server, README): better instructions for bindgen, cargo make",https://github.com/ntls-io/nautilus-wallet/pull/93,2021-09-08T12:09:49Z,2021-09-09T12:17:20Z,1,2,MERGED
+nautilus-wallet,co-feedback,https://github.com/ntls-io/nautilus-wallet/pull/91,2021-09-08T08:24:11Z,2021-09-08T08:25:51Z,1,2,MERGED
+nautilus-wallet,"test(web-server, sgx-wallet-test): exit with error status if tests failed",https://github.com/ntls-io/nautilus-wallet/pull/90,2021-09-07T20:36:38Z,2021-09-09T13:44:38Z,2,1,MERGED
+nautilus-wallet,ci(web-server): fix HW-mode workflow,https://github.com/ntls-io/nautilus-wallet/pull/89,2021-09-07T14:17:49Z,2021-09-07T15:23:52Z,1,1,MERGED
+nautilus-wallet,logo-update,https://github.com/ntls-io/nautilus-wallet/pull/87,2021-09-06T15:04:10Z,2021-09-06T15:33:53Z,2,1,MERGED
+nautilus-wallet,manual-address,https://github.com/ntls-io/nautilus-wallet/pull/86,2021-09-03T15:01:46Z,2021-09-06T15:34:22Z,3,9,MERGED
+nautilus-wallet,external-link,https://github.com/ntls-io/nautilus-wallet/pull/85,2021-09-03T14:32:37Z,2021-09-03T14:33:31Z,1,1,MERGED
+nautilus-wallet,feat(web-client): add pay from & to,https://github.com/ntls-io/nautilus-wallet/pull/84,2021-09-03T13:49:44Z,2021-09-03T13:50:20Z,1,1,MERGED
+nautilus-wallet,Disable buttons,https://github.com/ntls-io/nautilus-wallet/pull/83,2021-09-03T12:05:03Z,2021-09-03T12:21:12Z,1,2,MERGED
+nautilus-wallet,Disable buttons & open url ,https://github.com/ntls-io/nautilus-wallet/pull/82,2021-09-03T12:01:37Z,2021-09-03T12:01:48Z,0,23,CLOSED
+nautilus-wallet,ui-fix,https://github.com/ntls-io/nautilus-wallet/pull/81,2021-09-03T11:07:17Z,2021-09-03T12:03:53Z,0,1,MERGED
+nautilus-wallet,logout,https://github.com/ntls-io/nautilus-wallet/pull/80,2021-09-03T09:45:51Z,2021-09-03T10:33:02Z,2,1,MERGED
+nautilus-wallet,Follow up for registration page. Added fixed validations,https://github.com/ntls-io/nautilus-wallet/pull/79,2021-09-03T09:06:03Z,2021-09-14T14:46:27Z,3,7,CLOSED
+nautilus-wallet,notifications,https://github.com/ntls-io/nautilus-wallet/pull/78,2021-09-02T19:29:33Z,2021-09-03T08:54:53Z,4,7,MERGED
+nautilus-wallet,sentry,https://github.com/ntls-io/nautilus-wallet/pull/77,2021-09-02T14:28:21Z,2021-12-02T09:29:25Z,2,15,CLOSED
+nautilus-wallet,stores,https://github.com/ntls-io/nautilus-wallet/pull/76,2021-09-02T12:30:11Z,2021-09-02T13:03:18Z,1,5,CLOSED
+nautilus-wallet,"test(web-client, LockscreenPage): default autofocus to false, for Chromatic",https://github.com/ntls-io/nautilus-wallet/pull/73,2021-08-31T14:58:57Z,2021-09-01T09:29:54Z,3,2,MERGED
+nautilus-wallet,ci(web-client): always run GitHub Actions,https://github.com/ntls-io/nautilus-wallet/pull/72,2021-08-31T14:39:59Z,2021-08-31T15:18:58Z,2,1,MERGED
+nautilus-wallet,Demo branch part 5,https://github.com/ntls-io/nautilus-wallet/pull/71,2021-08-31T14:24:18Z,2021-10-04T13:22:32Z,7,9,MERGED
+nautilus-wallet,feat(web-server): add CORS headers,https://github.com/ntls-io/nautilus-wallet/pull/69,2021-08-31T09:13:02Z,2021-09-07T14:35:18Z,1,2,MERGED
+nautilus-wallet,feat(web-server): add wallet operations endpoint,https://github.com/ntls-io/nautilus-wallet/pull/68,2021-08-31T07:17:14Z,2021-09-07T14:12:30Z,2,8,MERGED
+nautilus-wallet,feat(web-server): add enclave attestation report endpoint,https://github.com/ntls-io/nautilus-wallet/pull/67,2021-08-31T07:15:33Z,2021-09-07T13:37:25Z,3,5,MERGED
+nautilus-wallet,fix(web-client): remove clearInput button from lock screen PIN input,https://github.com/ntls-io/nautilus-wallet/pull/66,2021-08-30T23:30:43Z,2021-08-31T14:41:22Z,2,1,MERGED
+nautilus-wallet,chore(web-client): sync package-lock.json,https://github.com/ntls-io/nautilus-wallet/pull/65,2021-08-30T20:19:04Z,2021-08-31T15:01:25Z,2,1,MERGED
+nautilus-wallet,payment-confirmation,https://github.com/ntls-io/nautilus-wallet/pull/64,2021-08-30T18:31:14Z,2021-09-02T08:17:58Z,3,5,MERGED
+nautilus-wallet,feat(web-client): add payment page,https://github.com/ntls-io/nautilus-wallet/pull/63,2021-08-29T17:57:38Z,2021-08-30T08:45:29Z,2,6,MERGED
+nautilus-wallet,akita-example,https://github.com/ntls-io/nautilus-wallet/pull/60,2021-08-24T14:46:48Z,2021-12-13T10:52:58Z,1,5,CLOSED
+nautilus-wallet,feat(web-client): add API schema and service,https://github.com/ntls-io/nautilus-wallet/pull/59,2021-08-24T08:26:21Z,2021-09-01T17:45:09Z,3,12,MERGED
+nautilus-wallet,Print wallet,https://github.com/ntls-io/nautilus-wallet/pull/57,2021-08-20T09:52:23Z,2021-08-30T17:18:13Z,2,18,MERGED
+nautilus-wallet,Header update,https://github.com/ntls-io/nautilus-wallet/pull/56,2021-08-20T07:36:01Z,2021-08-20T10:00:30Z,2,5,MERGED
+nautilus-wallet,feat(web-client): add lock screen,https://github.com/ntls-io/nautilus-wallet/pull/55,2021-08-19T19:35:52Z,2021-08-29T17:51:39Z,2,18,MERGED
+nautilus-wallet,Add registration page,https://github.com/ntls-io/nautilus-wallet/pull/54,2021-08-19T09:18:32Z,2021-08-29T20:01:14Z,7,20,MERGED
+nautilus-wallet,index,https://github.com/ntls-io/nautilus-wallet/pull/53,2021-08-19T08:37:40Z,2021-08-19T10:47:47Z,2,6,MERGED
+nautilus-wallet,refactor(web-client): replace text with logo img,https://github.com/ntls-io/nautilus-wallet/pull/52,2021-08-19T08:23:50Z,2021-08-19T09:30:44Z,3,2,MERGED
+nautilus-wallet,feat(web-client): add back button to header,https://github.com/ntls-io/nautilus-wallet/pull/51,2021-08-16T19:43:59Z,2021-08-19T09:22:37Z,2,3,MERGED
+nautilus-wallet,Scan qrcode,https://github.com/ntls-io/nautilus-wallet/pull/50,2021-08-16T19:19:06Z,2021-08-29T15:27:57Z,7,41,MERGED
+nautilus-wallet,feat(web-server): port SGX KvStore code,https://github.com/ntls-io/nautilus-wallet/pull/49,2021-08-12T23:23:15Z,2021-09-07T12:17:19Z,6,3,MERGED
+nautilus-wallet,feat(web-server): port crypto and attestation code,https://github.com/ntls-io/nautilus-wallet/pull/48,2021-08-12T23:21:15Z,2021-09-07T11:27:49Z,2,4,MERGED
+nautilus-wallet,feat(web-server): base layout,https://github.com/ntls-io/nautilus-wallet/pull/47,2021-08-12T23:17:48Z,2021-09-07T10:54:55Z,4,11,MERGED
+nautilus-wallet,build(web-client): install & setup akita,https://github.com/ntls-io/nautilus-wallet/pull/46,2021-08-12T09:31:10Z,2021-08-16T10:29:04Z,3,2,MERGED
+nautilus-wallet,receive,https://github.com/ntls-io/nautilus-wallet/pull/45,2021-08-04T18:46:22Z,2021-08-19T08:55:48Z,3,14,MERGED
+nautilus-wallet,test(web-client): better page route tests,https://github.com/ntls-io/nautilus-wallet/pull/44,2021-08-04T15:37:37Z,2021-08-05T14:39:58Z,2,4,MERGED
+nautilus-wallet,Send Funds,https://github.com/ntls-io/nautilus-wallet/pull/43,2021-08-04T14:01:25Z,2021-08-16T13:37:47Z,2,7,MERGED
+nautilus-wallet,tailwind-preflight,https://github.com/ntls-io/nautilus-wallet/pull/42,2021-08-03T07:32:29Z,2021-08-03T08:09:09Z,2,2,MERGED
+nautilus-wallet,Scanner-refactor,https://github.com/ntls-io/nautilus-wallet/pull/145,2021-12-09T21:29:27Z,2023-09-19T07:41:18Z,4,11,CLOSED
+nautilus-wallet,fix(web-client): fix lockscreen submission,https://github.com/ntls-io/nautilus-wallet/pull/144,2021-12-03T18:48:17Z,2021-12-15T09:23:35Z,3,5,MERGED
+nautilus-wallet,fix(web-client): validate payment amount,https://github.com/ntls-io/nautilus-wallet/pull/143,2021-12-03T12:39:41Z,2021-12-10T15:06:03Z,4,3,MERGED
+nautilus-wallet,feat(web-client): add sentry,https://github.com/ntls-io/nautilus-wallet/pull/139,2021-12-02T09:37:42Z,2021-12-10T12:38:04Z,7,2,MERGED
+nautilus-wallet,refactor(web-client): add inputs to profile card,https://github.com/ntls-io/nautilus-wallet/pull/138,2021-11-27T09:54:42Z,2022-03-14T15:11:20Z,4,6,MERGED
+nautilus-wallet,chore(web-server): update to Rust SGX SDK 1.1.4,https://github.com/ntls-io/nautilus-wallet/pull/137,2021-11-25T18:09:07Z,2022-03-03T13:22:06Z,5,11,MERGED
+nautilus-wallet,refactor(web-client): extract PayFromToComponent,https://github.com/ntls-io/nautilus-wallet/pull/136,2021-11-22T14:20:44Z,2022-03-22T11:45:05Z,9,10,MERGED
+nautilus-wallet,Dependency update,https://github.com/ntls-io/nautilus-wallet/pull/135,2021-11-22T09:30:17Z,2021-12-13T10:49:57Z,3,30,MERGED
+nautilus-wallet,fix(asset-services): update to tower-http 0.1.2 for CORS support,https://github.com/ntls-io/nautilus-wallet/pull/134,2021-11-12T20:18:35Z,2021-11-15T09:02:23Z,2,1,MERGED
+nautilus-wallet,"docs: add README files, ARCHITECTURE",https://github.com/ntls-io/nautilus-wallet/pull/133,2021-11-12T19:48:57Z,2021-11-15T09:47:39Z,1,3,MERGED
+nautilus-wallet,Toggle between currencies,https://github.com/ntls-io/nautilus-wallet/pull/162,2022-03-18T17:27:49Z,2023-09-19T10:00:11Z,3,65,CLOSED
+nautilus-wallet,test(web-client): fix CI,https://github.com/ntls-io/nautilus-wallet/pull/160,2022-03-14T09:45:44Z,2022-03-14T11:42:46Z,5,5,MERGED
+nautilus-wallet,docs(book): initial version,https://github.com/ntls-io/nautilus-wallet/pull/157,2022-02-24T14:31:50Z,2022-03-07T10:18:58Z,15,7,MERGED
+nautilus-wallet,Release-instructions,https://github.com/ntls-io/nautilus-wallet/pull/156,2022-01-27T13:10:56Z,2023-03-13T12:20:11Z,4,10,CLOSED
+nautilus-wallet,feat(web-client): add country selection page,https://github.com/ntls-io/nautilus-wallet/pull/155,2022-01-25T18:50:51Z,2022-01-25T18:53:04Z,0,1,MERGED
+nautilus-wallet,fix(web-client): constrain tailwindcss package versions,https://github.com/ntls-io/nautilus-wallet/pull/152,2022-01-14T10:30:16Z,2022-01-14T10:45:19Z,2,1,MERGED
+nautilus-wallet,Native-build,https://github.com/ntls-io/nautilus-wallet/pull/151,2022-01-11T15:30:04Z,2022-06-20T12:50:13Z,3,28,CLOSED
+nautilus-wallet,security(web-client): update npm dependencies,https://github.com/ntls-io/nautilus-wallet/pull/149,2022-01-07T16:39:28Z,2022-01-07T18:26:58Z,3,6,MERGED
+nautilus-wallet,"build(web-client): add .node-version file, for Netlify",https://github.com/ntls-io/nautilus-wallet/pull/148,2022-01-07T14:31:14Z,2022-01-07T16:55:03Z,3,1,MERGED
+nautilus-wallet,Pin modal,https://github.com/ntls-io/nautilus-wallet/pull/147,2022-01-06T10:28:20Z,2022-01-06T10:34:22Z,3,6,CLOSED
+nautilus-wallet,build(web-client): upgrade to angular 13,https://github.com/ntls-io/nautilus-wallet/pull/146,2022-01-06T10:04:44Z,2022-03-11T11:57:41Z,5,24,MERGED
+nautilus-wallet,feat(web-client): opt in as a connector,https://github.com/ntls-io/nautilus-wallet/pull/264,2022-05-30T13:35:50Z,2022-06-01T11:29:12Z,4,13,MERGED
+nautilus-wallet,feat(web-client): add delete user account functionality,https://github.com/ntls-io/nautilus-wallet/pull/263,2022-05-30T13:22:17Z,2022-06-13T09:13:43Z,10,28,MERGED
+nautilus-wallet,feat(web-client): implement asset commission calculation,https://github.com/ntls-io/nautilus-wallet/pull/262,2022-05-26T09:37:59Z,2022-06-10T10:04:53Z,4,8,MERGED
+nautilus-wallet,feat(web-client): re-enable receive fund link/page,https://github.com/ntls-io/nautilus-wallet/pull/258,2022-05-24T14:36:03Z,2022-05-30T09:43:43Z,3,2,MERGED
+nautilus-wallet,chore(web-client): Error color contrast is hard to read,https://github.com/ntls-io/nautilus-wallet/pull/257,2022-05-24T08:27:23Z,2022-05-27T10:23:44Z,4,2,MERGED
+nautilus-wallet,fix(web-client): add close button to pin modal,https://github.com/ntls-io/nautilus-wallet/pull/254,2022-05-23T10:45:52Z,2022-05-24T07:09:23Z,4,2,MERGED
+nautilus-wallet,fix(web-client): Remove kyc keyboard offset,https://github.com/ntls-io/nautilus-wallet/pull/252,2022-05-20T10:44:03Z,2022-05-24T06:51:22Z,4,1,MERGED
+nautilus-wallet,fix(web-client): Fix register UI & Pin validation,https://github.com/ntls-io/nautilus-wallet/pull/249,2022-05-17T15:12:25Z,2022-05-18T11:38:29Z,3,4,MERGED
+nautilus-wallet,refactor(web-client): update register page,https://github.com/ntls-io/nautilus-wallet/pull/244,2022-05-16T12:57:10Z,2022-05-17T08:03:31Z,3,7,MERGED
+nautilus-wallet,fix(web-client): remove country prop from form,https://github.com/ntls-io/nautilus-wallet/pull/243,2022-05-16T10:13:57Z,2022-05-16T10:22:52Z,2,1,MERGED
+nautilus-wallet,feat(web-client):  add country code & validation to register page,https://github.com/ntls-io/nautilus-wallet/pull/242,2022-05-13T15:46:53Z,2022-05-16T07:31:40Z,6,7,MERGED
+nautilus-wallet,fix(web-client): fix form validation,https://github.com/ntls-io/nautilus-wallet/pull/239,2022-05-12T07:03:42Z,2022-05-17T08:04:00Z,3,2,CLOSED
+nautilus-wallet,Native print,https://github.com/ntls-io/nautilus-wallet/pull/236,2022-05-11T11:28:41Z,2022-05-11T17:08:50Z,3,8,MERGED
+nautilus-wallet,fix(web-client): update refresh and logout buttons to prevent overlap,https://github.com/ntls-io/nautilus-wallet/pull/235,2022-05-11T11:24:46Z,2022-05-12T13:40:37Z,8,12,MERGED
+nautilus-wallet,Mobile Text Overlap #224,https://github.com/ntls-io/nautilus-wallet/pull/234,2022-05-11T11:04:14Z,2022-05-11T11:20:30Z,5,3,CLOSED
+nautilus-wallet,feat(web-client): add loading indicator on the balance component,https://github.com/ntls-io/nautilus-wallet/pull/233,2022-05-11T09:56:25Z,2022-05-12T06:16:32Z,4,3,MERGED
+nautilus-wallet,fix(web-client): onfido widget styling for phone number input,https://github.com/ntls-io/nautilus-wallet/pull/232,2022-05-11T07:30:26Z,2022-05-11T15:18:01Z,3,1,MERGED
+nautilus-wallet,feat(web-client): use ion-intl-tel-input for mobile number input,https://github.com/ntls-io/nautilus-wallet/pull/231,2022-05-10T18:59:29Z,2022-05-17T08:04:39Z,2,5,CLOSED
+nautilus-wallet,Fix balance alignment,https://github.com/ntls-io/nautilus-wallet/pull/230,2022-05-10T16:01:27Z,2022-05-11T06:26:41Z,2,3,MERGED
+nautilus-wallet,fix(web-client): update balance size,https://github.com/ntls-io/nautilus-wallet/pull/229,2022-05-10T14:48:19Z,2022-05-10T15:13:54Z,8,1,MERGED
+nautilus-wallet,chore(web-client): Enable a message to let user know there are no assets #217,https://github.com/ntls-io/nautilus-wallet/pull/226,2022-05-10T13:03:04Z,2022-05-11T07:13:49Z,4,4,MERGED
+nautilus-wallet,fix(web-client): clear stores on logout action,https://github.com/ntls-io/nautilus-wallet/pull/225,2022-05-10T12:59:08Z,2022-05-10T13:30:16Z,4,1,MERGED
+nautilus-wallet,chore(web-client): enable state persistence for demo deployment,https://github.com/ntls-io/nautilus-wallet/pull/223,2022-05-10T10:33:05Z,2022-05-10T11:36:24Z,3,1,MERGED
+nautilus-wallet,fix(web-client): prevent payments when the user has no balances,https://github.com/ntls-io/nautilus-wallet/pull/221,2022-05-10T07:30:35Z,2022-05-10T12:00:18Z,5,3,MERGED
+nautilus-wallet,Native build,https://github.com/ntls-io/nautilus-wallet/pull/210,2022-05-08T19:18:37Z,2023-01-23T10:21:25Z,6,83,MERGED
+nautilus-wallet,docs(book): add build and deploy documentation,https://github.com/ntls-io/nautilus-wallet/pull/208,2022-05-05T09:07:41Z,2022-05-06T08:27:48Z,2,2,MERGED
+nautilus-wallet,docs(book): add section for the KYC service and config options,https://github.com/ntls-io/nautilus-wallet/pull/207,2022-05-05T07:47:14Z,2022-05-06T08:27:29Z,3,4,MERGED
+nautilus-wallet,feat(web-client): streamline Algorand UI,https://github.com/ntls-io/nautilus-wallet/pull/206,2022-05-04T22:26:24Z,2022-05-05T05:48:43Z,3,3,MERGED
+nautilus-wallet,feat(web-client): better wallet refresh,https://github.com/ntls-io/nautilus-wallet/pull/205,2022-05-04T18:15:27Z,2022-05-04T19:25:38Z,3,4,MERGED
+nautilus-wallet,license: relicense to AGPL-3.0,https://github.com/ntls-io/nautilus-wallet/pull/204,2022-05-04T07:08:54Z,2022-05-04T19:48:49Z,3,1,MERGED
+nautilus-wallet,feat(web-client): add SMS messaging,https://github.com/ntls-io/nautilus-wallet/pull/203,2022-05-04T06:05:30Z,2022-05-04T17:27:07Z,3,6,MERGED
+nautilus-wallet,feat: persist wallet phone number,https://github.com/ntls-io/nautilus-wallet/pull/202,2022-05-04T05:57:17Z,2022-05-04T17:17:52Z,2,3,MERGED
+nautilus-wallet,feat(asset-services): add Twilio messaging endpoint,https://github.com/ntls-io/nautilus-wallet/pull/201,2022-05-03T23:17:46Z,2022-05-04T07:07:25Z,2,6,MERGED
+nautilus-wallet,feat(web-client): handle XRPL `actNotFound`,https://github.com/ntls-io/nautilus-wallet/pull/200,2022-05-03T16:42:48Z,2022-05-03T20:46:52Z,3,4,MERGED
+nautilus-wallet,feat(web-client): better console logging helpers,https://github.com/ntls-io/nautilus-wallet/pull/199,2022-05-03T13:53:49Z,2022-05-03T18:03:30Z,3,3,MERGED
+nautilus-wallet,feat(web-client): add opportunistic XRPL token opt-ins,https://github.com/ntls-io/nautilus-wallet/pull/198,2022-05-03T13:31:16Z,2022-05-03T14:41:09Z,4,9,MERGED
+nautilus-wallet,"feat(web-client,SessionService): invariant: reset session store before open",https://github.com/ntls-io/nautilus-wallet/pull/197,2022-05-03T07:57:54Z,2022-05-03T08:36:28Z,3,1,MERGED
+nautilus-wallet,build: update prod environment file to include testnet xrpl uri,https://github.com/ntls-io/nautilus-wallet/pull/195,2022-05-02T12:28:14Z,2022-05-02T12:49:16Z,3,2,MERGED
+nautilus-wallet,feat(web-client): Onfido-based soft limits,https://github.com/ntls-io/nautilus-wallet/pull/194,2022-04-30T00:30:38Z,2022-05-03T13:24:37Z,3,14,MERGED
+nautilus-wallet,"feat(web-client,KycPage): use Onfido check storage",https://github.com/ntls-io/nautilus-wallet/pull/193,2022-04-30T00:26:21Z,2022-05-03T07:19:36Z,3,8,MERGED
+nautilus-wallet,build(web-client): add storybook:compodoc command,https://github.com/ntls-io/nautilus-wallet/pull/192,2022-04-30T00:20:22Z,2022-05-03T16:26:17Z,3,1,MERGED
+nautilus-wallet,refactor(web-client): extract PureWalletPageComponent,https://github.com/ntls-io/nautilus-wallet/pull/191,2022-04-29T19:34:55Z,2022-05-03T07:10:17Z,3,5,MERGED
+nautilus-wallet,refactor(web-client): use common ActionItem type definition,https://github.com/ntls-io/nautilus-wallet/pull/190,2022-04-29T17:41:26Z,2022-05-03T06:50:38Z,3,1,MERGED
+nautilus-wallet,feat(web-server): add Onfido check storage,https://github.com/ntls-io/nautilus-wallet/pull/189,2022-04-29T02:27:49Z,2022-04-30T00:58:46Z,3,3,MERGED
+nautilus-wallet,"refactor(web-server): add unlock_wallet helper, with constant-time compare",https://github.com/ntls-io/nautilus-wallet/pull/188,2022-04-29T02:25:44Z,2022-04-29T13:29:36Z,3,4,MERGED
+nautilus-wallet,feat(web-client): add XRP & XRPL tokens to Pay & Wallet pages,https://github.com/ntls-io/nautilus-wallet/pull/187,2022-04-28T21:03:48Z,2022-04-29T13:06:05Z,3,11,MERGED
+nautilus-wallet,"test(web-client,PayComponent): bump Storybook load timeout again",https://github.com/ntls-io/nautilus-wallet/pull/186,2022-04-28T20:29:57Z,2022-04-29T07:07:36Z,3,2,MERGED
+nautilus-wallet,feat(web-client): add XRPL session state and SessionXrplService,https://github.com/ntls-io/nautilus-wallet/pull/185,2022-04-27T23:26:25Z,2022-04-29T12:53:15Z,4,12,MERGED
+nautilus-wallet,refactor(web-client): session services transaction signing,https://github.com/ntls-io/nautilus-wallet/pull/184,2022-04-27T22:31:00Z,2022-04-28T20:48:12Z,3,5,MERGED
+nautilus-wallet,test(web-client): disable flaky ScannerPage test,https://github.com/ntls-io/nautilus-wallet/pull/183,2022-04-27T22:20:41Z,2022-04-28T20:39:14Z,3,1,MERGED
+nautilus-wallet,test(web-client): propagate PayAmountFormComponent's autofocus input to parents,https://github.com/ntls-io/nautilus-wallet/pull/182,2022-04-27T20:32:57Z,2022-04-28T19:51:27Z,3,1,MERGED
+nautilus-wallet,"test(web-client,PayPage): increase Storybook load timeout",https://github.com/ntls-io/nautilus-wallet/pull/181,2022-04-27T19:55:44Z,2022-04-28T20:12:46Z,3,1,MERGED
+nautilus-wallet,refactor: widen SignTransaction schema + operations,https://github.com/ntls-io/nautilus-wallet/pull/179,2022-04-26T02:36:22Z,2022-04-26T10:11:57Z,3,6,MERGED
+nautilus-wallet,feat: add enclave XRPL support,https://github.com/ntls-io/nautilus-wallet/pull/176,2022-04-25T00:46:52Z,2022-04-26T17:49:12Z,3,13,MERGED
+nautilus-wallet,"feat(web-client,LandingPage): make resetStores conditional on persistAkitaState",https://github.com/ntls-io/nautilus-wallet/pull/175,2022-04-25T00:03:29Z,2022-04-26T08:56:41Z,3,1,MERGED
+nautilus-wallet,refactor(web-client): remove HttpErrorInterceptor,https://github.com/ntls-io/nautilus-wallet/pull/174,2022-04-24T23:55:24Z,2022-04-25T17:47:32Z,3,1,MERGED
+nautilus-wallet,refactor(web-client): rework and expand asset utils,https://github.com/ntls-io/nautilus-wallet/pull/173,2022-04-24T02:22:25Z,2022-04-26T18:48:02Z,3,2,MERGED
+nautilus-wallet,test(web-client): add karma-mocha-reporter,https://github.com/ntls-io/nautilus-wallet/pull/171,2022-04-19T06:52:02Z,2022-04-19T14:02:08Z,3,2,MERGED
+nautilus-wallet,feat(web-client): support Akita state persistence,https://github.com/ntls-io/nautilus-wallet/pull/170,2022-04-19T06:49:05Z,2022-04-19T12:26:31Z,2,2,MERGED
+nautilus-wallet,refactor(web-client): payment component structure,https://github.com/ntls-io/nautilus-wallet/pull/169,2022-04-19T06:40:58Z,2022-04-26T18:13:21Z,6,36,MERGED
+nautilus-wallet,feat(web-client): balance summary & refresh button,https://github.com/ntls-io/nautilus-wallet/pull/168,2022-04-19T06:37:21Z,2022-04-22T09:38:01Z,4,9,MERGED
+nautilus-wallet,refactor(web-client): PIN entry,https://github.com/ntls-io/nautilus-wallet/pull/167,2022-04-17T22:34:22Z,2022-04-21T07:37:19Z,4,8,MERGED
+nautilus-wallet,refactor(web-client): UI and Storybook improvements,https://github.com/ntls-io/nautilus-wallet/pull/166,2022-04-14T08:08:43Z,2022-04-19T14:18:32Z,5,22,MERGED
+nautilus-wallet,refactor(web-client): renovate session state and services,https://github.com/ntls-io/nautilus-wallet/pull/163,2022-04-11T05:59:05Z,2022-04-12T12:24:24Z,8,21,MERGED
+nautilus-wallet,feat(web-client): add security questions to signup,https://github.com/ntls-io/nautilus-wallet/pull/330,2022-07-28T14:36:58Z,2022-10-10T07:31:52Z,3,15,MERGED
+nautilus-wallet,feat(web-client): add search ui page,https://github.com/ntls-io/nautilus-wallet/pull/329,2022-07-27T16:01:29Z,2023-09-19T10:25:00Z,2,2,CLOSED
+nautilus-wallet,feat(web-client): modify XRP trustline user flow,https://github.com/ntls-io/nautilus-wallet/pull/328,2022-07-26T13:56:45Z,2022-07-28T12:21:56Z,3,6,MERGED
+nautilus-wallet,Deps update,https://github.com/ntls-io/nautilus-wallet/pull/327,2022-07-26T09:14:14Z,2022-08-01T10:09:23Z,2,16,CLOSED
+nautilus-wallet,feat(web-client): OTP UI prompt,https://github.com/ntls-io/nautilus-wallet/pull/326,2022-07-25T18:02:09Z,2023-05-27T12:14:08Z,3,2,CLOSED
+nautilus-wallet,feat(server): initial implementation of PIN reset functionality,https://github.com/ntls-io/nautilus-wallet/pull/324,2022-07-25T06:53:35Z,2022-09-15T12:54:44Z,9,3,MERGED
+nautilus-wallet,docs: fix readme,https://github.com/ntls-io/nautilus-wallet/pull/313,2022-07-13T12:26:35Z,2022-07-13T12:27:59Z,1,1,CLOSED
+nautilus-wallet,Settings page,https://github.com/ntls-io/nautilus-wallet/pull/312,2022-07-07T13:23:38Z,2022-07-13T13:47:28Z,14,21,MERGED
+nautilus-wallet,feat(web-client): add 2fa page,https://github.com/ntls-io/nautilus-wallet/pull/305,2022-06-23T14:19:03Z,2023-06-14T20:42:09Z,1,1,CLOSED
+nautilus-wallet,fix(web-client): update amount to be sent,https://github.com/ntls-io/nautilus-wallet/pull/303,2022-06-21T14:09:11Z,2022-06-21T14:17:37Z,1,1,MERGED
+nautilus-wallet,fix(web-client): revert commision to negative,https://github.com/ntls-io/nautilus-wallet/pull/302,2022-06-21T12:02:24Z,2022-06-21T13:30:36Z,4,1,MERGED
+nautilus-wallet,chore(web-client): Update demo branch with changes to main.,https://github.com/ntls-io/nautilus-wallet/pull/298,2022-06-21T08:24:46Z,2022-06-21T08:27:00Z,2,21,MERGED
+nautilus-wallet,fix(web-client): set old registree endpoints to new staging endpoints…,https://github.com/ntls-io/nautilus-wallet/pull/297,2022-06-20T12:23:57Z,2022-06-20T12:29:47Z,1,1,CLOSED
+nautilus-wallet,feat(web-client): show fees only when connector,https://github.com/ntls-io/nautilus-wallet/pull/296,2022-06-17T12:00:57Z,2022-06-20T10:36:59Z,2,2,MERGED
+nautilus-wallet,fix(web-client): set trustline limit to 0 if limit_peer is 0,https://github.com/ntls-io/nautilus-wallet/pull/292,2022-06-15T13:00:32Z,2022-06-15T13:06:15Z,1,1,MERGED
+nautilus-wallet,perf(web-client): update fee handling,https://github.com/ntls-io/nautilus-wallet/pull/289,2022-06-13T13:19:43Z,2022-06-14T09:14:51Z,1,4,MERGED
+nautilus-wallet,fix(web-client): Copy Change Payment Page,https://github.com/ntls-io/nautilus-wallet/pull/288,2022-06-13T10:25:19Z,2022-06-14T07:47:18Z,2,1,MERGED
+nautilus-wallet,chore(ci): allow sites to configure npm build script to use,https://github.com/ntls-io/nautilus-wallet/pull/282,2022-06-09T12:36:24Z,2022-06-09T12:58:33Z,3,2,MERGED
+nautilus-wallet,perf(web-client): show connector only if KYCed,https://github.com/ntls-io/nautilus-wallet/pull/281,2022-06-09T11:00:52Z,2022-06-09T12:21:33Z,3,2,MERGED
+nautilus-wallet,chore(web-client): update node to 16.15.1 and npm to 8.11.0,https://github.com/ntls-io/nautilus-wallet/pull/280,2022-06-09T10:24:52Z,2022-06-09T10:40:56Z,4,1,MERGED
+nautilus-wallet,feat(web-client): update and add new deploy environments,https://github.com/ntls-io/nautilus-wallet/pull/279,2022-06-09T09:31:40Z,2022-06-09T11:23:08Z,3,2,MERGED
+nautilus-wallet,perf(web-client): set connector walletId,https://github.com/ntls-io/nautilus-wallet/pull/277,2022-06-08T13:21:19Z,2022-06-09T07:37:17Z,3,1,MERGED
+nautilus-wallet,style(web-client): justify connector confirmation checkbox,https://github.com/ntls-io/nautilus-wallet/pull/276,2022-06-07T11:27:51Z,2022-06-07T12:09:16Z,4,1,MERGED
+nautilus-wallet,feat(web-client): add configuration for default ASA,https://github.com/ntls-io/nautilus-wallet/pull/269,2022-06-07T08:57:56Z,2022-06-07T10:03:13Z,3,1,MERGED
+nautilus-wallet,perf(web-client): enhance connector opt-in process,https://github.com/ntls-io/nautilus-wallet/pull/266,2022-06-02T08:28:11Z,2022-06-02T09:45:56Z,4,2,MERGED
+nautilus-wallet,feat(web-client): show transaction fees,https://github.com/ntls-io/nautilus-wallet/pull/265,2022-06-01T13:57:00Z,2022-06-07T15:49:19Z,4,12,MERGED
+nautilus-wallet,chore(environments): zero commission for pilots,https://github.com/ntls-io/nautilus-wallet/pull/399,2022-10-31T07:53:01Z,2022-11-02T06:31:01Z,1,2,MERGED
+nautilus-wallet,feat(web-client): add search service,https://github.com/ntls-io/nautilus-wallet/pull/396,2022-10-27T13:12:33Z,2022-11-07T10:49:25Z,1,2,CLOSED
+nautilus-wallet,fix(web-server): update command 'bindgen' to 'bindgen-cli',https://github.com/ntls-io/nautilus-wallet/pull/395,2022-10-27T10:31:59Z,2022-10-27T11:00:51Z,0,1,MERGED
+nautilus-wallet,build(web-client): update plugins & dependencies,https://github.com/ntls-io/nautilus-wallet/pull/393,2022-10-25T21:04:46Z,2022-10-26T14:27:48Z,1,3,MERGED
+nautilus-wallet,feat(web-client): hide kyc for bhutan,https://github.com/ntls-io/nautilus-wallet/pull/392,2022-10-25T09:58:48Z,2022-10-25T10:09:12Z,1,1,MERGED
+nautilus-wallet,fix(web-client): fix keyboard on kyc,https://github.com/ntls-io/nautilus-wallet/pull/391,2022-10-25T07:32:33Z,2022-10-25T07:54:31Z,1,2,MERGED
+nautilus-wallet,Fix-swiper-overflow,https://github.com/ntls-io/nautilus-wallet/pull/390,2022-10-25T07:17:54Z,2022-10-25T07:43:34Z,0,2,MERGED
+nautilus-wallet,fix(web-client): setting hideXrpBalance to true for palau production,https://github.com/ntls-io/nautilus-wallet/pull/387,2022-10-21T07:40:15Z,2022-10-21T08:12:59Z,1,1,MERGED
+nautilus-wallet,build(web-client): remove stories (WIP),https://github.com/ntls-io/nautilus-wallet/pull/386,2022-10-20T09:51:05Z,2023-02-15T13:16:42Z,0,2,CLOSED
+nautilus-wallet,build(web-client): update angular to 14,https://github.com/ntls-io/nautilus-wallet/pull/385,2022-10-20T08:58:14Z,2023-02-15T13:17:04Z,0,1,CLOSED
+nautilus-wallet,style(web-client): fix typo on security questions,https://github.com/ntls-io/nautilus-wallet/pull/384,2022-10-20T08:24:43Z,2022-10-20T09:09:35Z,0,1,MERGED
+nautilus-wallet,fix(web-client): macth onfido country's bg color,https://github.com/ntls-io/nautilus-wallet/pull/378,2022-10-19T11:30:14Z,2022-10-20T09:22:30Z,3,3,MERGED
+nautilus-wallet,ci(web-client): remove chromatic,https://github.com/ntls-io/nautilus-wallet/pull/376,2022-10-18T09:21:55Z,2022-10-19T08:29:46Z,5,1,MERGED
+nautilus-wallet,Add trapeze for build mgmt (WIP),https://github.com/ntls-io/nautilus-wallet/pull/374,2022-10-15T18:00:57Z,2023-06-14T20:40:29Z,3,2,CLOSED
+nautilus-wallet,fix(web-client): hide opt-in feature after user has opted in,https://github.com/ntls-io/nautilus-wallet/pull/373,2022-10-13T13:49:55Z,2022-10-13T14:06:12Z,2,1,MERGED
+nautilus-wallet,feat(web-client): add build script for new pilot environment files,https://github.com/ntls-io/nautilus-wallet/pull/372,2022-10-13T11:18:09Z,2022-10-13T11:27:25Z,3,1,MERGED
+nautilus-wallet,feat(web-client): add tokenSymbol and tokenIssuer for pilots,https://github.com/ntls-io/nautilus-wallet/pull/371,2022-10-13T09:40:22Z,2022-10-13T11:58:27Z,3,1,MERGED
+nautilus-wallet,feat(web-client): add environment files for both staging and prod for both pilots,https://github.com/ntls-io/nautilus-wallet/pull/370,2022-10-12T10:36:47Z,2022-10-13T08:08:12Z,3,5,MERGED
+nautilus-wallet,feat(web-client): Hide XRP Balance,https://github.com/ntls-io/nautilus-wallet/pull/369,2022-10-11T10:52:01Z,2022-10-19T09:32:14Z,25,23,MERGED
+nautilus-wallet,Layout & theme update (WIP),https://github.com/ntls-io/nautilus-wallet/pull/367,2022-10-06T19:27:43Z,2022-10-14T09:56:39Z,8,30,MERGED
+nautilus-wallet,feat(web-client): add getXrplWallet,https://github.com/ntls-io/nautilus-wallet/pull/361,2022-10-03T08:40:18Z,2022-10-05T07:09:34Z,1,1,MERGED
+nautilus-wallet,feat(web-server): add get_xrpl_wallet operation,https://github.com/ntls-io/nautilus-wallet/pull/360,2022-09-30T07:10:23Z,2022-10-03T06:46:58Z,2,2,MERGED
+nautilus-wallet,build(asset-services): update Rust edition to 2021,https://github.com/ntls-io/nautilus-wallet/pull/359,2022-09-29T11:07:49Z,2022-09-29T11:26:36Z,3,3,MERGED
+nautilus-wallet,"Revert ""build(asset-services): update Rust edition to 2021""",https://github.com/ntls-io/nautilus-wallet/pull/358,2022-09-29T10:09:20Z,2022-09-29T10:34:23Z,2,1,MERGED
+nautilus-wallet,feat(asset-services): add CosmosDB Mongo search endpoint,https://github.com/ntls-io/nautilus-wallet/pull/357,2022-09-28T22:45:54Z,2022-10-27T12:46:26Z,6,7,MERGED
+nautilus-wallet,build(asset-services): update Rust edition to 2021,https://github.com/ntls-io/nautilus-wallet/pull/356,2022-09-22T12:49:17Z,2022-09-29T09:43:54Z,5,3,MERGED
+nautilus-wallet,feat(web-client): add pull payment page,https://github.com/ntls-io/nautilus-wallet/pull/352,2022-09-12T20:37:44Z,2022-12-07T09:01:01Z,6,16,MERGED
+nautilus-wallet,feat: initial wallet enclave sessions,https://github.com/ntls-io/nautilus-wallet/pull/351,2022-09-05T06:56:35Z,2022-09-15T11:59:27Z,4,4,MERGED
+nautilus-wallet,feat: server-side Diffie-Hellman,https://github.com/ntls-io/nautilus-wallet/pull/350,2022-09-02T10:46:30Z,2022-09-15T11:40:09Z,6,4,MERGED
+nautilus-wallet,fix(web-client): Bhutan environment endpoint,https://github.com/ntls-io/nautilus-wallet/pull/349,2022-08-31T15:29:44Z,2022-08-31T16:46:35Z,2,1,MERGED
+nautilus-wallet,fix: typo in Bhutan environment configuration,https://github.com/ntls-io/nautilus-wallet/pull/348,2022-08-31T12:38:26Z,2022-08-31T14:38:49Z,3,1,MERGED
+nautilus-wallet,chore: add configuration for Bhutan demo,https://github.com/ntls-io/nautilus-wallet/pull/347,2022-08-30T12:23:50Z,2022-08-30T16:47:23Z,2,1,MERGED
+nautilus-wallet,feat(web-client): add Diffie-Hellman key agreement,https://github.com/ntls-io/nautilus-wallet/pull/345,2022-08-25T11:11:15Z,2022-09-14T06:29:59Z,13,1,MERGED
+nautilus-wallet,[WIP] feat(web-server): initial wallet enclave sessions,https://github.com/ntls-io/nautilus-wallet/pull/344,2022-08-19T12:09:56Z,2022-09-05T06:53:41Z,1,1,CLOSED
+nautilus-wallet,refactor(web-client): update connector show logic,https://github.com/ntls-io/nautilus-wallet/pull/343,2022-08-16T09:08:53Z,2022-08-16T10:54:11Z,2,2,MERGED
+nautilus-wallet,fix(web-client): optin only if wallet has xrp,https://github.com/ntls-io/nautilus-wallet/pull/342,2022-08-15T14:59:20Z,2022-08-16T10:09:36Z,2,2,MERGED
+nautilus-wallet,fix(web-client): hide verify menu if already done,https://github.com/ntls-io/nautilus-wallet/pull/341,2022-08-11T20:48:12Z,2022-08-12T11:12:16Z,2,1,MERGED
+nautilus-wallet,perf(web-client): update to angular 14,https://github.com/ntls-io/nautilus-wallet/pull/340,2022-08-11T17:32:53Z,2022-10-20T08:49:07Z,2,3,CLOSED
+nautilus-wallet,feat(web-server): Implement OTP functionality.,https://github.com/ntls-io/nautilus-wallet/pull/335,2022-08-05T08:13:25Z,2023-09-19T07:39:32Z,10,19,CLOSED
+nautilus-wallet,feat(web-client): add opt-in feature to balance card,https://github.com/ntls-io/nautilus-wallet/pull/334,2022-08-03T16:00:13Z,2022-08-11T10:55:48Z,5,16,MERGED
+nautilus-wallet,build(web-client): update dependencies,https://github.com/ntls-io/nautilus-wallet/pull/333,2022-08-01T12:26:20Z,2022-08-03T15:02:15Z,4,25,MERGED
+nautilus-wallet,build(web-client): update non breaking dependencies,https://github.com/ntls-io/nautilus-wallet/pull/332,2022-08-01T10:11:48Z,2022-08-01T12:18:03Z,2,11,CLOSED
+nautilus-wallet,fix(web-server): deserialize byte arrays,https://github.com/ntls-io/nautilus-wallet/pull/494,2022-12-21T06:47:43Z,2023-02-07T08:32:08Z,2,1,MERGED
+nautilus-wallet,fix(web-client): display wait message while creating wallet.,https://github.com/ntls-io/nautilus-wallet/pull/493,2022-12-19T18:39:39Z,2023-01-10T14:08:14Z,12,6,MERGED
+nautilus-wallet,fix(cors): allow `localhost:4200` on staging,https://github.com/ntls-io/nautilus-wallet/pull/492,2022-12-19T10:15:08Z,2022-12-20T07:37:15Z,2,1,MERGED
+nautilus-wallet,fix(web-client): pull payment minor text fixes,https://github.com/ntls-io/nautilus-wallet/pull/491,2022-12-19T09:51:26Z,2022-12-19T11:10:01Z,1,1,MERGED
+nautilus-wallet,feat(web-client): Pull payment flag (#486),https://github.com/ntls-io/nautilus-wallet/pull/488,2022-12-14T15:36:24Z,2022-12-14T15:50:36Z,1,1,MERGED
+nautilus-wallet,feat(web-client): Pull payment flag,https://github.com/ntls-io/nautilus-wallet/pull/487,2022-12-14T15:35:07Z,2022-12-14T15:49:55Z,3,4,MERGED
+nautilus-wallet,feat(web-client): Pull payment flag,https://github.com/ntls-io/nautilus-wallet/pull/486,2022-12-14T14:14:10Z,2022-12-14T15:10:26Z,2,4,MERGED
+nautilus-wallet,fix(web-client): Change auth_map type to Object type.,https://github.com/ntls-io/nautilus-wallet/pull/485,2022-12-14T12:06:54Z,2022-12-15T07:16:25Z,3,3,MERGED
+nautilus-wallet,feat(web-client): add auto logout (TEST),https://github.com/ntls-io/nautilus-wallet/pull/484,2022-12-14T09:13:14Z,2022-12-15T07:00:34Z,1,6,CLOSED
+nautilus-wallet,Merge environment details,https://github.com/ntls-io/nautilus-wallet/pull/483,2022-12-13T14:18:47Z,2022-12-13T14:56:49Z,0,3,MERGED
+nautilus-wallet,fix(web-client): add issuers for servers,https://github.com/ntls-io/nautilus-wallet/pull/482,2022-12-12T14:21:51Z,2022-12-13T07:09:29Z,2,3,MERGED
+nautilus-wallet,feat(web-client): add auto logout,https://github.com/ntls-io/nautilus-wallet/pull/481,2022-12-12T12:13:40Z,2022-12-15T09:23:48Z,3,8,MERGED
+nautilus-wallet,refactor(backend): use odmantic engine,https://github.com/ntls-io/nautilus-wallet/pull/479,2022-12-10T06:25:10Z,2022-12-12T13:16:46Z,1,4,MERGED
+nautilus-wallet,fix(web-client): add issuers for sandbox servers all environments,https://github.com/ntls-io/nautilus-wallet/pull/476,2022-12-08T10:46:20Z,2022-12-08T10:58:07Z,1,1,MERGED
+nautilus-wallet,fix(web-client): show opt in message on pull page,https://github.com/ntls-io/nautilus-wallet/pull/475,2022-12-08T08:21:12Z,2022-12-08T08:45:00Z,0,1,MERGED
+nautilus-wallet,refactor(web-client): modify wallet page buttons,https://github.com/ntls-io/nautilus-wallet/pull/474,2022-12-08T07:27:27Z,2022-12-08T08:14:27Z,0,1,MERGED
+nautilus-wallet,refactor(backend/tests): remove superfluous mocks,https://github.com/ntls-io/nautilus-wallet/pull/473,2022-12-08T06:49:16Z,2022-12-08T11:40:56Z,1,1,MERGED
+nautilus-wallet,refactor(backend-services); improve http interface,https://github.com/ntls-io/nautilus-wallet/pull/472,2022-12-08T05:35:46Z,2022-12-08T05:51:18Z,1,2,MERGED
+nautilus-wallet,fix(web-client): remove filter of xrp in session query to show opt in,https://github.com/ntls-io/nautilus-wallet/pull/471,2022-12-07T17:30:22Z,2022-12-07T17:44:39Z,0,1,MERGED
+nautilus-wallet,fix(backend-services): incorrect argument,https://github.com/ntls-io/nautilus-wallet/pull/470,2022-12-07T17:02:33Z,2022-12-08T04:06:30Z,1,1,MERGED
+nautilus-wallet,fix(web-client): add issuers for sandbox servers,https://github.com/ntls-io/nautilus-wallet/pull/469,2022-12-07T12:31:51Z,2022-12-07T13:06:42Z,1,3,MERGED
+nautilus-wallet,feat(web-client): Transaction history ,https://github.com/ntls-io/nautilus-wallet/pull/468,2022-12-06T14:05:46Z,2023-01-10T10:05:00Z,2,14,MERGED
+nautilus-wallet,refactor(client): expose client public key,https://github.com/ntls-io/nautilus-wallet/pull/464,2022-12-05T10:34:57Z,2022-12-05T15:19:14Z,1,2,MERGED
+nautilus-wallet,ci(web-client): turn on autofund for pilot and ntls production,https://github.com/ntls-io/nautilus-wallet/pull/461,2022-12-05T06:15:34Z,2022-12-05T06:24:50Z,1,1,MERGED
+nautilus-wallet,feat(web-client): UI Pin Reset,https://github.com/ntls-io/nautilus-wallet/pull/452,2022-11-28T21:03:16Z,2023-02-09T11:11:24Z,3,31,MERGED
+nautilus-wallet,feat(web-client): bookmark,https://github.com/ntls-io/nautilus-wallet/pull/451,2022-11-28T12:42:12Z,2022-12-22T10:30:54Z,7,22,MERGED
+nautilus-wallet,fix(web-client): hide whole item instead of label,https://github.com/ntls-io/nautilus-wallet/pull/450,2022-11-28T11:43:42Z,2022-11-28T12:02:20Z,1,2,MERGED
+nautilus-wallet,ci(web-client): turn on autofund for pilot staging,https://github.com/ntls-io/nautilus-wallet/pull/449,2022-11-28T11:09:37Z,2022-11-28T11:47:16Z,0,1,MERGED
+nautilus-wallet,refactor(web-client): add retrieving balances text,https://github.com/ntls-io/nautilus-wallet/pull/448,2022-11-28T10:45:14Z,2022-11-28T11:02:01Z,1,1,MERGED
+nautilus-wallet,feat(web-client): add logout button to most pages,https://github.com/ntls-io/nautilus-wallet/pull/447,2022-11-28T09:42:50Z,2022-11-28T10:31:51Z,1,2,MERGED
+nautilus-wallet,refactor(web-client): show receive address on receive page,https://github.com/ntls-io/nautilus-wallet/pull/446,2022-11-28T07:44:24Z,2022-11-28T10:03:07Z,1,1,MERGED
+nautilus-wallet,feat(web-client): Retrieve setup page values,https://github.com/ntls-io/nautilus-wallet/pull/441,2022-11-24T18:25:47Z,2022-11-28T09:23:32Z,1,16,MERGED
+nautilus-wallet,"Revert ""feat(web-client): Retrieve values from setup page""",https://github.com/ntls-io/nautilus-wallet/pull/440,2022-11-24T12:42:53Z,2022-11-24T12:50:30Z,1,1,MERGED
+nautilus-wallet,feat(web-client): Retrieve values from setup page,https://github.com/ntls-io/nautilus-wallet/pull/439,2022-11-24T11:31:45Z,2022-11-24T12:01:27Z,0,12,MERGED
+nautilus-wallet,"Revert ""Firebase Setup values""",https://github.com/ntls-io/nautilus-wallet/pull/438,2022-11-24T11:27:17Z,2022-11-24T11:28:58Z,0,1,MERGED
+nautilus-wallet,feat(web-client): enable rippling for trustlines created,https://github.com/ntls-io/nautilus-wallet/pull/437,2022-11-24T09:04:34Z,2022-11-24T10:21:59Z,0,1,MERGED
+nautilus-wallet,fix(web-client): set autofundXrpAmount to 50,https://github.com/ntls-io/nautilus-wallet/pull/436,2022-11-24T07:36:31Z,2022-11-24T08:03:57Z,1,1,MERGED
+nautilus-wallet,Fix search wallet UI,https://github.com/ntls-io/nautilus-wallet/pull/434,2022-11-21T08:56:52Z,2022-11-21T09:13:08Z,0,5,MERGED
+nautilus-wallet,ci(e2e): disable protractor,https://github.com/ntls-io/nautilus-wallet/pull/433,2022-11-21T07:58:42Z,2022-11-24T11:43:55Z,1,4,MERGED
+nautilus-wallet,feat: initial bookmarking implementation,https://github.com/ntls-io/nautilus-wallet/pull/432,2022-11-21T06:35:20Z,2022-12-07T10:22:41Z,8,5,MERGED
+nautilus-wallet,feat(web-client): add destination tag flag to payments,https://github.com/ntls-io/nautilus-wallet/pull/430,2022-11-17T11:56:24Z,2022-11-17T12:18:05Z,0,1,MERGED
+nautilus-wallet,Firebase Setup values,https://github.com/ntls-io/nautilus-wallet/pull/429,2022-11-15T15:44:54Z,2022-11-24T10:35:56Z,5,4,MERGED
+nautilus-wallet,Search wallet frontend,https://github.com/ntls-io/nautilus-wallet/pull/426,2022-11-10T01:29:59Z,2022-11-15T22:07:51Z,2,8,MERGED
+nautilus-wallet,feat(web-client): add autofund XRP option,https://github.com/ntls-io/nautilus-wallet/pull/425,2022-11-09T18:24:06Z,2022-11-21T06:56:57Z,16,16,MERGED
+nautilus-wallet,fix(web-client): revert onfido dependency update,https://github.com/ntls-io/nautilus-wallet/pull/416,2022-11-04T09:54:54Z,2022-11-04T10:04:00Z,1,1,MERGED
+nautilus-wallet,"Revert ""build(web-client): update plugins & dependencies (#393)""",https://github.com/ntls-io/nautilus-wallet/pull/415,2022-11-04T09:32:41Z,2022-11-04T10:01:52Z,0,1,CLOSED
+nautilus-wallet,feat(web-client): add search service,https://github.com/ntls-io/nautilus-wallet/pull/410,2022-11-02T12:21:50Z,2022-11-09T12:57:47Z,3,2,MERGED
+nautilus-wallet,initiating autofund XRP,https://github.com/ntls-io/nautilus-wallet/pull/403,2022-11-01T19:15:30Z,2022-11-02T07:57:32Z,0,1,CLOSED
+nautilus-wallet,fix(xrpl-client): specify destination port,https://github.com/ntls-io/nautilus-wallet/pull/402,2022-11-01T10:20:21Z,2022-11-01T13:26:05Z,0,1,MERGED
+nautilus-wallet,fix(web-client): Fix Blank payment page,https://github.com/ntls-io/nautilus-wallet/pull/401,2022-11-01T04:50:22Z,2022-11-03T09:20:50Z,2,4,MERGED
+nautilus-wallet,Fix remember address issue & a confirmation dialog box before removing a saved address ,https://github.com/ntls-io/nautilus-wallet/pull/545,2023-03-28T22:01:58Z,2023-04-12T10:06:18Z,1,1,MERGED
+nautilus-wallet,fix(web-client): Error Message on Wrong address,https://github.com/ntls-io/nautilus-wallet/pull/544,2023-03-27T11:33:02Z,2023-03-28T10:20:45Z,2,2,MERGED
+nautilus-wallet,Submit bug fix,https://github.com/ntls-io/nautilus-wallet/pull/543,2023-03-08T12:32:02Z,2023-03-08T13:16:32Z,2,2,MERGED
+nautilus-wallet,fix (backend-services) fix errors for XRPL exception,https://github.com/ntls-io/nautilus-wallet/pull/542,2023-02-28T12:21:41Z,2023-02-28T12:30:15Z,2,1,MERGED
+nautilus-wallet,Demo,https://github.com/ntls-io/nautilus-wallet/pull/541,2023-02-28T09:31:49Z,2023-02-28T09:35:03Z,1,2,MERGED
+nautilus-wallet,Autofund api function,https://github.com/ntls-io/nautilus-wallet/pull/540,2023-02-28T08:55:23Z,2023-02-28T08:55:43Z,1,10,CLOSED
+nautilus-wallet,chore: Autofund API Error handling (#537),https://github.com/ntls-io/nautilus-wallet/pull/539,2023-02-25T11:44:37Z,2023-02-28T09:23:34Z,1,2,MERGED
+nautilus-wallet,chore: Autofund API Error handling (#537),https://github.com/ntls-io/nautilus-wallet/pull/538,2023-02-25T11:26:23Z,2023-02-25T11:26:32Z,1,1,MERGED
+nautilus-wallet,Autofund API Error handling,https://github.com/ntls-io/nautilus-wallet/pull/537,2023-02-24T16:05:25Z,2023-02-24T21:20:56Z,8,25,MERGED
+nautilus-wallet,chore: update fastapi and python,https://github.com/ntls-io/nautilus-wallet/pull/536,2023-02-24T10:10:46Z,2023-02-24T10:31:13Z,1,2,MERGED
+nautilus-wallet,Merge new features (#534),https://github.com/ntls-io/nautilus-wallet/pull/535,2023-02-23T15:16:20Z,2023-02-23T15:17:50Z,1,2,CLOSED
+nautilus-wallet,Merge new features,https://github.com/ntls-io/nautilus-wallet/pull/534,2023-02-23T14:35:29Z,2023-02-23T14:36:15Z,1,6,MERGED
+nautilus-wallet,Fix sender_id bug,https://github.com/ntls-io/nautilus-wallet/pull/533,2023-02-23T10:04:19Z,2023-02-23T10:32:06Z,2,14,MERGED
+nautilus-wallet,Autofund api function,https://github.com/ntls-io/nautilus-wallet/pull/532,2023-02-23T08:23:49Z,2023-02-23T08:49:43Z,2,13,MERGED
+nautilus-wallet,Autofund FastAPI function,https://github.com/ntls-io/nautilus-wallet/pull/531,2023-02-22T17:22:35Z,2023-02-22T19:30:04Z,2,11,MERGED
+nautilus-wallet,chore (web-client): Change autofund amount,https://github.com/ntls-io/nautilus-wallet/pull/530,2023-02-17T09:40:04Z,2023-02-20T09:27:48Z,1,1,MERGED
+nautilus-wallet,refactor(web-client): Enable features on pilot staging.,https://github.com/ntls-io/nautilus-wallet/pull/529,2023-02-15T08:46:41Z,2023-02-15T12:56:25Z,1,1,MERGED
+nautilus-wallet,Merge latest changes from main into demo.,https://github.com/ntls-io/nautilus-wallet/pull/528,2023-02-14T13:18:55Z,2023-02-14T14:20:56Z,1,0,MERGED
+nautilus-wallet,refactor(web-client): Enable features for Bhutan and Palau.,https://github.com/ntls-io/nautilus-wallet/pull/527,2023-02-14T10:39:28Z,2023-02-14T11:10:45Z,1,1,MERGED
+nautilus-wallet,Pull payment fix error,https://github.com/ntls-io/nautilus-wallet/pull/526,2023-02-13T12:39:45Z,2023-02-13T13:02:57Z,1,2,MERGED
+nautilus-wallet,Pull payment fix,https://github.com/ntls-io/nautilus-wallet/pull/525,2023-02-13T11:46:40Z,2023-02-13T13:01:16Z,1,22,CLOSED
+nautilus-wallet,Pin reset rescue,https://github.com/ntls-io/nautilus-wallet/pull/524,2023-02-09T17:29:22Z,2023-02-09T17:43:43Z,1,27,MERGED
+nautilus-wallet,feat(client): pin reset functionality,https://github.com/ntls-io/nautilus-wallet/pull/523,2023-02-09T14:46:28Z,2023-02-09T17:45:40Z,2,32,CLOSED
+nautilus-wallet,"Revert ""feat(web-client): UI Pin Reset""",https://github.com/ntls-io/nautilus-wallet/pull/522,2023-02-09T13:46:32Z,2023-02-09T14:44:24Z,1,1,MERGED
+nautilus-wallet,refactor(web-server): pin reset functionality,https://github.com/ntls-io/nautilus-wallet/pull/520,2023-02-08T16:18:44Z,2023-02-08T16:46:50Z,1,4,MERGED
+nautilus-wallet,Remove-sb,https://github.com/ntls-io/nautilus-wallet/pull/519,2023-02-08T15:15:07Z,2023-02-08T16:49:41Z,1,2,CLOSED
+nautilus-wallet,fix(web-server): calculate public key from secret,https://github.com/ntls-io/nautilus-wallet/pull/518,2023-02-08T11:36:21Z,2023-02-08T16:08:14Z,1,1,CLOSED
+nautilus-wallet,ci(Dockerfile): pin `bindgen-cli` version to 0.63.0,https://github.com/ntls-io/nautilus-wallet/pull/517,2023-02-08T11:25:46Z,2023-02-08T16:16:04Z,1,1,MERGED
+nautilus-wallet,chore(web-server): add pin reset tests,https://github.com/ntls-io/nautilus-wallet/pull/516,2023-02-08T05:58:45Z,2023-02-08T16:44:38Z,1,1,CLOSED
+nautilus-wallet,chore (web-client): remove kyc from palau env,https://github.com/ntls-io/nautilus-wallet/pull/515,2023-02-07T18:31:58Z,2023-02-28T09:15:03Z,2,15,MERGED
+nautilus-wallet,fix(Dockerfile/typo): sed replace command,https://github.com/ntls-io/nautilus-wallet/pull/514,2023-02-07T08:04:38Z,2023-02-07T08:09:22Z,1,1,MERGED
+nautilus-wallet,feat(backend-services): Initial implementation of wallet-operation API.,https://github.com/ntls-io/nautilus-wallet/pull/513,2023-02-03T07:52:09Z,2023-09-19T09:56:27Z,2,17,CLOSED
+nautilus-wallet,Tx update alternative,https://github.com/ntls-io/nautilus-wallet/pull/512,2023-01-31T13:14:56Z,2023-02-15T13:16:28Z,1,16,CLOSED
+nautilus-wallet,refactor(web-client): show XRP transaction history on staging & demo environments.,https://github.com/ntls-io/nautilus-wallet/pull/511,2023-01-27T18:54:57Z,2023-02-16T09:24:38Z,3,9,MERGED
+nautilus-wallet,Native builds,https://github.com/ntls-io/nautilus-wallet/pull/509,2023-01-23T12:40:23Z,2023-09-19T10:30:03Z,2,118,CLOSED
+nautilus-wallet,fix(web-client): Fix spelling error.,https://github.com/ntls-io/nautilus-wallet/pull/508,2023-01-23T12:09:04Z,2023-01-23T13:10:32Z,2,1,MERGED
+nautilus-wallet,Merge new features to demo (#498),https://github.com/ntls-io/nautilus-wallet/pull/506,2023-01-22T17:57:09Z,2023-01-23T10:21:27Z,0,3,CLOSED
+nautilus-wallet,ci(cargo-make): fix runner to ubuntu-20.04,https://github.com/ntls-io/nautilus-wallet/pull/505,2023-01-19T08:34:47Z,2023-09-19T10:31:58Z,3,1,CLOSED
+nautilus-wallet,Setup staging environment,https://github.com/ntls-io/nautilus-wallet/pull/504,2023-01-17T17:45:34Z,2023-01-19T20:05:50Z,2,5,MERGED
+nautilus-wallet,Merge autofund wait message to demo (#501),https://github.com/ntls-io/nautilus-wallet/pull/502,2023-01-14T20:05:34Z,2023-02-14T14:20:56Z,1,0,CLOSED
+nautilus-wallet,Merge autofund wait message to demo,https://github.com/ntls-io/nautilus-wallet/pull/501,2023-01-14T18:18:13Z,2023-01-14T19:56:00Z,2,15,MERGED
+nautilus-wallet,Quick access Functionality.,https://github.com/ntls-io/nautilus-wallet/pull/500,2023-01-12T06:55:13Z,2023-01-20T07:06:10Z,4,9,MERGED
+nautilus-wallet,fix(web-client): update prod feature flags,https://github.com/ntls-io/nautilus-wallet/pull/499,2023-01-06T10:47:03Z,2023-01-06T18:48:34Z,3,3,MERGED
+nautilus-wallet,Merge new features to demo,https://github.com/ntls-io/nautilus-wallet/pull/498,2023-01-05T21:12:02Z,2023-01-06T20:50:39Z,2,12,MERGED
+nautilus-wallet,fix(web-client): Update Pin Entry text for pull payment.,https://github.com/ntls-io/nautilus-wallet/pull/497,2023-01-03T13:45:07Z,2023-01-05T12:10:41Z,2,2,MERGED
+nautilus-wallet,fix(web-client): check wallet id on scan success,https://github.com/ntls-io/nautilus-wallet/pull/581,2023-05-31T15:25:15Z,2023-06-01T11:50:07Z,7,4,MERGED
+nautilus-wallet,Match-transaction-bookmark,https://github.com/ntls-io/nautilus-wallet/pull/580,2023-05-30T18:05:12Z,2023-06-01T08:13:46Z,1,2,MERGED
+nautilus-wallet,feat(web-client): add bookmarked name to transactions,https://github.com/ntls-io/nautilus-wallet/pull/579,2023-05-30T15:44:41Z,2023-06-01T11:11:41Z,4,5,MERGED
+nautilus-wallet,docs(web-server): pin 'bindgen-cli' version to 0.63.0,https://github.com/ntls-io/nautilus-wallet/pull/578,2023-05-30T10:43:56Z,2023-05-30T10:59:49Z,2,1,MERGED
+nautilus-wallet,refactor(web-server): Return auth map within WalletDisplay,https://github.com/ntls-io/nautilus-wallet/pull/577,2023-05-29T20:06:09Z,2023-06-06T11:17:27Z,2,2,MERGED
+nautilus-wallet,refactor(web-client): remove address list if empty,https://github.com/ntls-io/nautilus-wallet/pull/576,2023-05-29T15:50:00Z,2023-05-30T09:56:13Z,2,4,MERGED
+nautilus-wallet,fix(web-client): Fix disable submit button.,https://github.com/ntls-io/nautilus-wallet/pull/575,2023-05-29T12:49:40Z,2023-06-07T12:20:10Z,16,19,MERGED
+nautilus-wallet,fix(backend-services): update create_otp_recipient_trigger function,https://github.com/ntls-io/nautilus-wallet/pull/574,2023-05-25T08:01:05Z,2023-05-25T08:09:43Z,1,1,MERGED
+nautilus-wallet,fix(backend): Update set_otp_limit_trigger() function,https://github.com/ntls-io/nautilus-wallet/pull/573,2023-05-24T18:22:13Z,2023-05-25T07:48:16Z,2,1,MERGED
+nautilus-wallet,Fix otp limit trigger,https://github.com/ntls-io/nautilus-wallet/pull/572,2023-05-24T18:03:12Z,2023-05-24T18:11:54Z,2,9,CLOSED
+nautilus-wallet,Perf/transaction,https://github.com/ntls-io/nautilus-wallet/pull/571,2023-05-24T15:35:09Z,2023-05-24T22:46:59Z,1,2,MERGED
+nautilus-wallet,fix(backend-services): allow put requests for CORS policy,https://github.com/ntls-io/nautilus-wallet/pull/570,2023-05-24T07:41:36Z,2023-05-24T07:50:44Z,1,1,MERGED
+nautilus-wallet,feat(web-client): Initial 2FA Frontend,https://github.com/ntls-io/nautilus-wallet/pull/569,2023-05-24T02:17:48Z,2023-05-25T13:49:29Z,6,10,MERGED
+nautilus-wallet,fix(backend-services): use sync Twilio API call in executor,https://github.com/ntls-io/nautilus-wallet/pull/568,2023-05-23T07:02:40Z,2023-05-23T07:28:18Z,2,1,MERGED
+nautilus-wallet,fix(backend-services): set correct event loop for OTP Twilio async call,https://github.com/ntls-io/nautilus-wallet/pull/567,2023-05-22T16:49:20Z,2023-05-22T19:38:47Z,1,1,MERGED
+nautilus-wallet,Style/ui-update,https://github.com/ntls-io/nautilus-wallet/pull/566,2023-05-20T19:48:14Z,2023-05-21T21:16:01Z,2,2,MERGED
+nautilus-wallet,fix(backend-services): use the async API instead,https://github.com/ntls-io/nautilus-wallet/pull/565,2023-05-19T11:57:05Z,2023-05-19T12:08:23Z,2,1,MERGED
+nautilus-wallet,chore(backend-services): update dependencies,https://github.com/ntls-io/nautilus-wallet/pull/564,2023-05-18T10:42:20Z,2023-05-18T11:27:36Z,2,2,MERGED
+nautilus-wallet,feat(backend-services): add forgotten endpoint,https://github.com/ntls-io/nautilus-wallet/pull/563,2023-05-18T09:48:04Z,2023-05-18T11:13:07Z,2,1,MERGED
+nautilus-wallet,feat(backend-services): initial 2FA implementation,https://github.com/ntls-io/nautilus-wallet/pull/562,2023-05-12T14:37:02Z,2023-05-18T07:01:50Z,6,5,MERGED
+nautilus-wallet,style(web-client): move cancel button to the left.,https://github.com/ntls-io/nautilus-wallet/pull/561,2023-05-04T15:02:49Z,2023-05-04T15:50:27Z,2,2,MERGED
+nautilus-wallet,Invite Code | No exit button on the pop up,https://github.com/ntls-io/nautilus-wallet/pull/560,2023-05-04T10:38:18Z,2023-05-04T11:59:04Z,1,1,MERGED
+nautilus-wallet,refactor(web-client): enable invite code functionality for Bhutan & Palau environments.,https://github.com/ntls-io/nautilus-wallet/pull/559,2023-05-03T12:17:59Z,2023-05-03T12:31:53Z,2,1,MERGED
+nautilus-wallet,refactor(web-client): align remember address,https://github.com/ntls-io/nautilus-wallet/pull/558,2023-05-03T07:37:23Z,2023-05-03T08:43:14Z,2,1,MERGED
+nautilus-wallet,refactor(web-client): nickname prompt before login,https://github.com/ntls-io/nautilus-wallet/pull/557,2023-05-02T18:08:39Z,2023-05-03T10:35:45Z,3,1,MERGED
+nautilus-wallet,fix(backend-service): get rid of conditional variable.,https://github.com/ntls-io/nautilus-wallet/pull/556,2023-05-02T10:17:23Z,2023-05-02T12:00:47Z,2,3,MERGED
+nautilus-wallet,Fix frontend prompt user to save nickname,https://github.com/ntls-io/nautilus-wallet/pull/555,2023-04-28T12:23:59Z,2023-05-02T16:24:45Z,3,11,MERGED
+nautilus-wallet,refactor(backend): Include case where invite code is redeemed.,https://github.com/ntls-io/nautilus-wallet/pull/554,2023-04-28T09:33:15Z,2023-05-02T09:20:39Z,1,2,MERGED
+nautilus-wallet,Fix invite code bug,https://github.com/ntls-io/nautilus-wallet/pull/553,2023-04-28T09:23:47Z,2023-04-28T10:29:09Z,2,2,MERGED
+nautilus-wallet,fix(backend-services): backend invite codes,https://github.com/ntls-io/nautilus-wallet/pull/552,2023-04-25T08:32:37Z,2023-04-25T10:56:53Z,2,2,MERGED
+nautilus-wallet,fix(backend-services): Fix typo,https://github.com/ntls-io/nautilus-wallet/pull/551,2023-04-24T13:26:12Z,2023-04-24T15:46:26Z,1,1,MERGED
+nautilus-wallet,feat(web-client): initial invite codes,https://github.com/ntls-io/nautilus-wallet/pull/550,2023-04-21T11:05:47Z,2023-04-26T08:43:43Z,5,2,MERGED
+nautilus-wallet,fix(web-client): show local time on history txs.,https://github.com/ntls-io/nautilus-wallet/pull/549,2023-04-18T14:57:41Z,2023-05-02T14:27:43Z,3,17,MERGED
+nautilus-wallet,feat(backend-services): initial invite codes,https://github.com/ntls-io/nautilus-wallet/pull/548,2023-04-14T05:56:39Z,2023-04-18T14:35:13Z,2,3,MERGED
+nautilus-wallet,refactor(web-client): user logging in using quick access.,https://github.com/ntls-io/nautilus-wallet/pull/547,2023-04-12T23:05:14Z,2023-04-28T11:10:59Z,2,4,MERGED
+nautilus-wallet,fix(web-client): wallet nickname pop up,https://github.com/ntls-io/nautilus-wallet/pull/546,2023-04-06T03:19:10Z,2023-04-12T12:53:44Z,2,5,MERGED
+nautilus-wallet,fix(web-client): diasble autologout in send & pull pay,https://github.com/ntls-io/nautilus-wallet/pull/611,2023-07-31T21:03:41Z,2023-08-03T08:25:36Z,5,1,MERGED
+nautilus-wallet,fix(web-client): Fix phone input colors.,https://github.com/ntls-io/nautilus-wallet/pull/610,2023-07-31T11:14:41Z,2023-07-31T13:41:07Z,2,1,MERGED
+nautilus-wallet,feat(web-server): initial implementation for account lock,https://github.com/ntls-io/nautilus-wallet/pull/609,2023-07-27T14:40:08Z,2023-08-01T15:14:37Z,2,1,MERGED
+nautilus-wallet,fix(web-client): QR failure sending money.,https://github.com/ntls-io/nautilus-wallet/pull/608,2023-07-24T19:36:36Z,2023-08-03T07:26:26Z,4,1,MERGED
+nautilus-wallet,refactor(web-client): improve error messages.,https://github.com/ntls-io/nautilus-wallet/pull/607,2023-07-24T10:34:45Z,2023-07-27T07:11:51Z,1,1,MERGED
+nautilus-wallet,fix-recurring-pay,https://github.com/ntls-io/nautilus-wallet/pull/606,2023-07-18T13:08:58Z,2023-07-19T03:53:42Z,5,2,MERGED
+nautilus-wallet,refactor(web-client): payments via bookmark.,https://github.com/ntls-io/nautilus-wallet/pull/605,2023-07-18T06:48:09Z,2023-07-18T09:13:36Z,2,1,MERGED
+nautilus-wallet,chore: change palau prod port to 443,https://github.com/ntls-io/nautilus-wallet/pull/604,2023-07-13T07:14:41Z,2023-07-13T07:56:58Z,3,1,MERGED
+nautilus-wallet,fix(web-client): add search functionality to transfer-funds page,https://github.com/ntls-io/nautilus-wallet/pull/603,2023-07-12T10:46:37Z,2023-07-13T07:25:16Z,1,1,MERGED
+nautilus-wallet,fix-recurring-pay-frontend,https://github.com/ntls-io/nautilus-wallet/pull/602,2023-07-07T06:05:49Z,2023-07-07T08:57:26Z,1,1,MERGED
+nautilus-wallet,fix(web-client): Improve error msg for pull pay,https://github.com/ntls-io/nautilus-wallet/pull/601,2023-07-06T03:54:50Z,2023-07-17T14:38:18Z,4,1,MERGED
+nautilus-wallet,docs: update README with ruff command,https://github.com/ntls-io/nautilus-wallet/pull/600,2023-07-05T09:23:57Z,2023-07-05T11:14:16Z,1,1,MERGED
+nautilus-wallet,fix(backend-services): change date values to be calculated from unix timestamps for recurring payments,https://github.com/ntls-io/nautilus-wallet/pull/599,2023-07-04T07:42:46Z,2023-07-04T08:14:00Z,3,1,CLOSED
+nautilus-wallet,feat(web-client): Recurring payments feature.,https://github.com/ntls-io/nautilus-wallet/pull/598,2023-07-02T22:06:54Z,2023-07-04T12:31:26Z,2,4,MERGED
+nautilus-wallet,feat(web-server): add sign_transaction_recurring_payment operation,https://github.com/ntls-io/nautilus-wallet/pull/597,2023-06-27T11:41:26Z,2023-07-03T10:44:09Z,2,1,MERGED
+nautilus-wallet,fix(web-server): check for empty store in auth method.,https://github.com/ntls-io/nautilus-wallet/pull/596,2023-06-22T10:24:20Z,2023-06-23T07:17:38Z,3,4,MERGED
+nautilus-wallet,"Revert ""fix(web-server): Fix backend Pin Reset accepting any security answers.""",https://github.com/ntls-io/nautilus-wallet/pull/595,2023-06-21T09:31:36Z,2023-06-22T09:19:35Z,2,1,MERGED
+nautilus-wallet,fix(web-server): add --locked flag to bindgen-cli install command,https://github.com/ntls-io/nautilus-wallet/pull/594,2023-06-19T13:24:39Z,2023-06-20T09:04:53Z,2,1,MERGED
+nautilus-wallet,feat(web-client): add privacy policy to settings,https://github.com/ntls-io/nautilus-wallet/pull/593,2023-06-14T14:44:34Z,2023-06-14T15:09:08Z,1,1,MERGED
+nautilus-wallet,fix(web-client): wallet address validator for bookmark.,https://github.com/ntls-io/nautilus-wallet/pull/592,2023-06-14T13:04:04Z,2023-06-20T09:51:51Z,2,1,MERGED
+nautilus-wallet,fix(web-client): Pull Payment - Enter Wallet Address Textbox Naming,https://github.com/ntls-io/nautilus-wallet/pull/591,2023-06-14T12:07:40Z,2023-06-14T20:46:58Z,2,1,MERGED
+nautilus-wallet,fix(web-client): Prevent auto-logout,https://github.com/ntls-io/nautilus-wallet/pull/590,2023-06-13T10:20:51Z,2023-06-13T12:51:35Z,5,2,MERGED
+nautilus-wallet,fix(web-server): Fix backend Pin Reset accepting any security answers.,https://github.com/ntls-io/nautilus-wallet/pull/589,2023-06-12T15:19:36Z,2023-06-20T11:01:58Z,5,1,MERGED
+nautilus-wallet,fix(web-client): pull bookmarks when wallet opens,https://github.com/ntls-io/nautilus-wallet/pull/588,2023-06-09T15:45:03Z,2023-06-10T10:47:48Z,3,1,MERGED
+nautilus-wallet,feat(backend-services): add recurring payments implementation,https://github.com/ntls-io/nautilus-wallet/pull/587,2023-06-09T09:33:43Z,2023-06-27T11:13:01Z,3,2,MERGED
+nautilus-wallet,docs(backend-services): add code format section for black and isort,https://github.com/ntls-io/nautilus-wallet/pull/586,2023-06-09T09:29:32Z,2023-06-21T08:47:45Z,3,1,MERGED
+nautilus-wallet,"Revert ""refactor(web-server): Return auth map within WalletDisplay""",https://github.com/ntls-io/nautilus-wallet/pull/585,2023-06-08T06:50:21Z,2023-06-08T07:01:45Z,2,1,MERGED
+nautilus-wallet,feat(web-client): check & prompt user for update,https://github.com/ntls-io/nautilus-wallet/pull/584,2023-06-06T20:50:46Z,2023-06-07T18:04:11Z,3,2,MERGED
+nautilus-wallet,fix(web-client): Fix 2FA bugs,https://github.com/ntls-io/nautilus-wallet/pull/583,2023-06-02T02:24:56Z,2023-06-07T12:44:13Z,12,18,MERGED
+nautilus-wallet,refactor(web-client): check if device has camera,https://github.com/ntls-io/nautilus-wallet/pull/582,2023-06-01T10:28:25Z,2023-06-01T18:45:54Z,3,4,MERGED
+nautilus-wallet,updated documentation,https://github.com/ntls-io/nautilus-wallet/pull/617,2023-09-26T14:16:09Z,2023-09-26T14:41:48Z,1,1,MERGED
+nautilus-wallet,fix(book): Fix minor typos,https://github.com/ntls-io/nautilus-wallet/pull/616,2023-09-21T13:11:40Z,2023-09-21T13:29:37Z,1,1,MERGED
+nautilus-wallet,refactor(book): update documentation,https://github.com/ntls-io/nautilus-wallet/pull/615,2023-09-21T12:06:36Z,2023-09-21T12:22:43Z,1,1,MERGED
+nautilus-wallet,refactor: change autofund_amount from int to float,https://github.com/ntls-io/nautilus-wallet/pull/614,2023-09-14T10:11:03Z,2023-09-18T13:44:26Z,3,1,MERGED
+nautilus-wallet,feat(web-client): add error handling for account locked,https://github.com/ntls-io/nautilus-wallet/pull/613,2023-08-03T08:27:04Z,2023-08-03T09:44:12Z,1,1,MERGED
+nautilus-wallet,fix(web-server): change account_attempts to an Option<u32>,https://github.com/ntls-io/nautilus-wallet/pull/612,2023-08-02T13:48:15Z,2023-08-02T14:02:38Z,1,1,MERGED

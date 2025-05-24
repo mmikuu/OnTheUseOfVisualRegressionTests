@@ -1,0 +1,722 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+single-cell-explorer,remove h5ad & user annotations code,https://github.com/chanzuckerberg/single-cell-explorer/pull/180,2021-10-31T14:58:22Z,2022-01-21T19:01:31Z,23,25,MERGED
+single-cell-explorer,fix: e2e base url,https://github.com/chanzuckerberg/single-cell-explorer/pull/179,2021-10-28T23:17:34Z,2021-10-28T23:23:09Z,2,1,MERGED
+single-cell-explorer,fix: dont cache dataset metadata,https://github.com/chanzuckerberg/single-cell-explorer/pull/177,2021-10-28T18:17:43Z,2021-11-03T19:35:18Z,2,3,MERGED
+single-cell-explorer,feat: api v3 uses s3_uri ,https://github.com/chanzuckerberg/single-cell-explorer/pull/175,2021-10-28T18:03:24Z,2021-11-22T18:38:52Z,6,49,CLOSED
+single-cell-explorer,[WIP] Dunitz/166 dataset metadata cache,https://github.com/chanzuckerberg/single-cell-explorer/pull/174,2021-10-27T21:41:16Z,2021-10-28T19:19:18Z,1,19,CLOSED
+single-cell-explorer,Always show scrollbar on dataset menu if scrollable. (#138),https://github.com/chanzuckerberg/single-cell-explorer/pull/173,2021-10-27T02:56:55Z,2021-10-29T03:23:30Z,2,3,MERGED
+single-cell-explorer,Update requirements,https://github.com/chanzuckerberg/single-cell-explorer/pull/172,2021-10-26T02:53:35Z,2021-10-26T03:22:57Z,1,1,MERGED
+single-cell-explorer,Updated load indicator to match skeleton. (#139),https://github.com/chanzuckerberg/single-cell-explorer/pull/171,2021-10-22T05:44:01Z,2021-11-01T17:03:12Z,2,4,MERGED
+single-cell-explorer,Prevented toast for 404's from /dataset-metadata. (#161),https://github.com/chanzuckerberg/single-cell-explorer/pull/170,2021-10-21T22:32:08Z,2021-10-22T04:16:59Z,2,1,MERGED
+single-cell-explorer,Updated truncating breadcrumbs overflow. (#153),https://github.com/chanzuckerberg/single-cell-explorer/pull/169,2021-10-20T20:10:45Z,2021-10-21T17:27:16Z,1,3,MERGED
+single-cell-explorer,Removed ontology ID tooltip from drawer. (#147),https://github.com/chanzuckerberg/single-cell-explorer/pull/163,2021-10-20T04:32:22Z,2021-10-21T16:57:58Z,2,1,MERGED
+single-cell-explorer,Added selected dataset to dataset selector. (#137),https://github.com/chanzuckerberg/single-cell-explorer/pull/162,2021-10-20T03:52:46Z,2021-10-21T17:16:27Z,1,3,MERGED
+single-cell-explorer,fix: 156 obsolete browsers,https://github.com/chanzuckerberg/single-cell-explorer/pull/159,2021-10-19T10:46:53Z,2021-10-21T18:36:55Z,5,2,MERGED
+single-cell-explorer,Hid super categories if empty. (#136),https://github.com/chanzuckerberg/single-cell-explorer/pull/158,2021-10-19T06:02:45Z,2021-10-19T06:26:37Z,1,1,MERGED
+single-cell-explorer,chore: back merge hotfix,https://github.com/chanzuckerberg/single-cell-explorer/pull/157,2021-10-15T23:40:37Z,2021-10-15T23:41:51Z,0,3,MERGED
+single-cell-explorer,Hotfix Oct 14th to staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/155,2021-10-15T21:17:40Z,2021-10-15T21:22:04Z,0,3,MERGED
+single-cell-explorer,Hotfix/oct 14th,https://github.com/chanzuckerberg/single-cell-explorer/pull/152,2021-10-15T02:13:57Z,2021-10-21T16:45:02Z,2,4,CLOSED
+single-cell-explorer,fix: Full fix QuickGene,https://github.com/chanzuckerberg/single-cell-explorer/pull/151,2021-10-15T01:54:25Z,2021-10-15T02:13:34Z,3,1,MERGED
+single-cell-explorer,fix: Revert quickGene partially,https://github.com/chanzuckerberg/single-cell-explorer/pull/149,2021-10-15T01:39:34Z,2021-10-15T01:44:59Z,0,1,MERGED
+single-cell-explorer,Updated help and documentation links. (#145),https://github.com/chanzuckerberg/single-cell-explorer/pull/146,2021-10-14T19:37:53Z,2021-10-14T19:49:05Z,0,1,MERGED
+single-cell-explorer,explorer rdev,https://github.com/chanzuckerberg/single-cell-explorer/pull/144,2021-10-13T21:47:15Z,2021-11-02T15:53:24Z,2,25,MERGED
+single-cell-explorer,Added param to Portal links if WIP. (#135),https://github.com/chanzuckerberg/single-cell-explorer/pull/143,2021-10-13T05:37:25Z,2021-10-15T21:10:16Z,1,1,MERGED
+single-cell-explorer,Filtered out large datasets. (#141),https://github.com/chanzuckerberg/single-cell-explorer/pull/142,2021-10-13T04:23:05Z,2021-10-13T16:25:34Z,2,3,MERGED
+single-cell-explorer,fix: collection_url prefix in dataset-metadata,https://github.com/chanzuckerberg/single-cell-explorer/pull/140,2021-10-12T22:01:02Z,2021-10-13T15:43:27Z,4,3,MERGED
+single-cell-explorer,Added WIP check for home and collection links. (#124),https://github.com/chanzuckerberg/single-cell-explorer/pull/134,2021-10-08T19:29:01Z,2021-10-08T21:32:25Z,3,2,MERGED
+single-cell-explorer,Disable seamless dataset drawer. (#132),https://github.com/chanzuckerberg/single-cell-explorer/pull/133,2021-10-08T17:32:12Z,2021-10-08T18:20:15Z,1,1,MERGED
+single-cell-explorer,Delete schema_guide.md,https://github.com/chanzuckerberg/single-cell-explorer/pull/131,2021-10-08T14:59:48Z,2021-11-04T15:14:15Z,1,2,MERGED
+single-cell-explorer,Removed data portal props from drawer. (#89),https://github.com/chanzuckerberg/single-cell-explorer/pull/130,2021-10-08T04:58:43Z,2021-10-12T18:39:50Z,2,2,MERGED
+single-cell-explorer,Update positioning of autosave and floating button. (#125),https://github.com/chanzuckerberg/single-cell-explorer/pull/129,2021-10-08T01:03:56Z,2021-10-08T01:53:06Z,1,2,MERGED
+single-cell-explorer,Added hide of selector on narrow viewports. #126,https://github.com/chanzuckerberg/single-cell-explorer/pull/128,2021-10-07T23:22:41Z,2021-10-08T00:45:18Z,1,2,MERGED
+single-cell-explorer,fix: dataset-metadata private collections call,https://github.com/chanzuckerberg/single-cell-explorer/pull/127,2021-10-07T22:44:49Z,2021-10-07T22:55:04Z,1,1,MERGED
+single-cell-explorer,test: fix seamless stubbed dataset-metadata response,https://github.com/chanzuckerberg/single-cell-explorer/pull/123,2021-10-07T19:34:18Z,2021-10-07T19:42:10Z,1,1,MERGED
+single-cell-explorer,"Add standard categories, author categories and continuous accordions to left sidebar. (#118)",https://github.com/chanzuckerberg/single-cell-explorer/pull/122,2021-10-07T05:05:23Z,2021-10-08T01:34:30Z,1,3,MERGED
+single-cell-explorer,minor cxg spec update,https://github.com/chanzuckerberg/single-cell-explorer/pull/117,2021-10-06T17:25:03Z,2021-10-07T13:21:47Z,3,2,MERGED
+single-cell-explorer,Fix #104 dataframe histogram memoization,https://github.com/chanzuckerberg/single-cell-explorer/pull/116,2021-10-06T17:07:50Z,2021-10-06T20:36:50Z,3,1,MERGED
+single-cell-explorer,Add FAB containing links to documentation and roadmap. Added tutorials. (#95),https://github.com/chanzuckerberg/single-cell-explorer/pull/115,2021-10-06T06:40:43Z,2021-10-07T00:31:50Z,1,1,MERGED
+single-cell-explorer,Thuang feedback seamless,https://github.com/chanzuckerberg/single-cell-explorer/pull/114,2021-10-05T20:58:04Z,2021-10-07T01:43:22Z,9,1,MERGED
+single-cell-explorer,Centroid hover fix,https://github.com/chanzuckerberg/single-cell-explorer/pull/113,2021-10-05T16:59:13Z,2021-12-17T18:44:37Z,3,5,MERGED
+single-cell-explorer,Dan/remove cli 2,https://github.com/chanzuckerberg/single-cell-explorer/pull/112,2021-10-05T16:53:42Z,2021-10-25T09:37:04Z,9,36,MERGED
+single-cell-explorer,"Seamless (#22, #23, #24, #25, #68, #90, #95)",https://github.com/chanzuckerberg/single-cell-explorer/pull/111,2021-10-05T15:49:17Z,2021-10-07T17:44:46Z,11,8,MERGED
+single-cell-explorer,Add FAB containing links to documentation and roadmap. (#95),https://github.com/chanzuckerberg/single-cell-explorer/pull/109,2021-10-04T23:24:03Z,2021-10-05T04:37:58Z,1,1,MERGED
+single-cell-explorer,Diffexp tooltip text,https://github.com/chanzuckerberg/single-cell-explorer/pull/108,2021-10-04T18:26:52Z,2021-10-04T22:35:49Z,1,2,MERGED
+single-cell-explorer,Added dataset selector. (#24),https://github.com/chanzuckerberg/single-cell-explorer/pull/107,2021-10-04T16:47:35Z,2021-10-05T06:59:17Z,1,4,MERGED
+single-cell-explorer,refactor: 2235 remove cookie banner,https://github.com/chanzuckerberg/single-cell-explorer/pull/102,2021-10-01T17:37:09Z,2021-10-04T18:26:12Z,3,1,MERGED
+single-cell-explorer,Update info menu items. (#90),https://github.com/chanzuckerberg/single-cell-explorer/pull/101,2021-10-01T00:00:11Z,2021-10-01T17:02:03Z,1,1,MERGED
+single-cell-explorer,Delete Sastisfaction Action,https://github.com/chanzuckerberg/single-cell-explorer/pull/99,2021-09-30T16:07:48Z,2021-09-30T16:17:38Z,1,1,MERGED
+single-cell-explorer,Update info menu items. (#90),https://github.com/chanzuckerberg/single-cell-explorer/pull/98,2021-09-30T05:36:31Z,2021-09-30T05:46:59Z,1,1,MERGED
+single-cell-explorer,Updating binding of dataset-metadata response. Added graceful degrade…,https://github.com/chanzuckerberg/single-cell-explorer/pull/97,2021-09-29T22:08:09Z,2021-09-30T06:11:48Z,1,1,MERGED
+single-cell-explorer,Fix flaky EB test,https://github.com/chanzuckerberg/single-cell-explorer/pull/96,2021-09-29T21:03:03Z,2021-09-30T13:41:00Z,1,1,MERGED
+single-cell-explorer,Dan/1279 remove cli,https://github.com/chanzuckerberg/single-cell-explorer/pull/94,2021-09-29T09:34:53Z,2021-10-05T17:02:06Z,19,10,CLOSED
+single-cell-explorer,feat: 88 add dataset_id to the metadata endpoint,https://github.com/chanzuckerberg/single-cell-explorer/pull/93,2021-09-28T16:50:27Z,2021-09-30T17:08:26Z,3,3,MERGED
+single-cell-explorer,Warn/educate users about loss of work on change of dataset. (#68),https://github.com/chanzuckerberg/single-cell-explorer/pull/92,2021-09-28T02:24:02Z,2021-09-30T05:19:59Z,1,2,MERGED
+single-cell-explorer,chore: 1210 Add Plausible,https://github.com/chanzuckerberg/single-cell-explorer/pull/91,2021-09-28T01:54:08Z,2021-09-28T20:07:42Z,2,1,MERGED
+single-cell-explorer,fix: invalidate metadata cache when dataset fails to load,https://github.com/chanzuckerberg/single-cell-explorer/pull/87,2021-09-27T17:25:49Z,2021-09-30T17:58:29Z,7,7,MERGED
+single-cell-explorer,fix: 84 Do not cache index.html,https://github.com/chanzuckerberg/single-cell-explorer/pull/86,2021-09-24T17:11:44Z,2021-09-24T18:12:50Z,1,2,MERGED
+single-cell-explorer,Selecting individual gene breaks truncating breadcrumbs UI. (#220),https://github.com/chanzuckerberg/single-cell-explorer/pull/85,2021-09-24T05:44:35Z,2021-09-24T05:53:52Z,1,1,MERGED
+single-cell-explorer,feat: 70 add portal collection homepage to /config,https://github.com/chanzuckerberg/single-cell-explorer/pull/83,2021-09-23T15:51:38Z,2021-09-30T17:14:23Z,2,5,MERGED
+single-cell-explorer,Update metadata drawer toggle and layout. (#23),https://github.com/chanzuckerberg/single-cell-explorer/pull/82,2021-09-23T02:59:28Z,2021-09-24T05:49:21Z,1,1,MERGED
+single-cell-explorer,chore: Add types for recognized version commit,https://github.com/chanzuckerberg/single-cell-explorer/pull/81,2021-09-22T20:25:41Z,2021-09-23T23:09:04Z,1,3,MERGED
+single-cell-explorer,"Added typings, error handling. Simplified menu, truncated output. (#24)",https://github.com/chanzuckerberg/single-cell-explorer/pull/79,2021-09-21T21:37:05Z,2021-09-22T05:50:09Z,1,4,MERGED
+single-cell-explorer,chore: disable e2e debugging code,https://github.com/chanzuckerberg/single-cell-explorer/pull/77,2021-09-21T17:30:11Z,2021-09-22T20:31:58Z,1,2,MERGED
+single-cell-explorer,fix: disable portion of noisy env screenshots,https://github.com/chanzuckerberg/single-cell-explorer/pull/75,2021-09-21T17:07:39Z,2021-09-21T17:23:46Z,1,1,MERGED
+single-cell-explorer,fix: 73 - add 2.0.0 to the recognized FE versions,https://github.com/chanzuckerberg/single-cell-explorer/pull/74,2021-09-21T16:05:29Z,2021-09-21T18:55:02Z,10,4,MERGED
+single-cell-explorer,Display skeleton during data load. Typed skeleton. Right side bar skeleton updates. (#25),https://github.com/chanzuckerberg/single-cell-explorer/pull/72,2021-09-21T03:32:34Z,2021-09-21T17:01:24Z,1,1,MERGED
+single-cell-explorer,feat: include localhost and canary env as allowed origins for staging backend,https://github.com/chanzuckerberg/single-cell-explorer/pull/71,2021-09-17T03:18:30Z,2021-09-20T23:46:45Z,3,4,MERGED
+single-cell-explorer,Re-enabled lasso test. Removed auth-related ack's. (#38),https://github.com/chanzuckerberg/single-cell-explorer/pull/69,2021-09-16T19:14:54Z,2021-09-16T19:21:12Z,1,1,MERGED
+single-cell-explorer,sp,https://github.com/chanzuckerberg/single-cell-explorer/pull/67,2021-09-16T17:38:06Z,2021-09-17T03:20:44Z,0,1,CLOSED
+single-cell-explorer,fix: upgraded tiledb and reverted workaround (#61),https://github.com/chanzuckerberg/single-cell-explorer/pull/66,2021-09-16T17:19:08Z,2021-09-17T14:44:00Z,3,2,MERGED
+single-cell-explorer,chore: Ignore build files from linting,https://github.com/chanzuckerberg/single-cell-explorer/pull/65,2021-09-16T16:25:05Z,2021-09-17T15:40:39Z,1,3,MERGED
+single-cell-explorer,feat: dataset metadata endpoint,https://github.com/chanzuckerberg/single-cell-explorer/pull/64,2021-09-15T19:33:17Z,2021-09-23T15:12:39Z,7,17,MERGED
+single-cell-explorer,chore: Add jest test environment,https://github.com/chanzuckerberg/single-cell-explorer/pull/62,2021-09-14T18:16:01Z,2021-09-15T16:57:48Z,2,1,CLOSED
+single-cell-explorer,tiledb issue work-around: reload X array in each thread,https://github.com/chanzuckerberg/single-cell-explorer/pull/60,2021-09-14T02:44:32Z,2021-09-14T14:34:24Z,4,3,MERGED
+single-cell-explorer,fix: implemented temporary workaround suggested by TileDB. (#2251),https://github.com/chanzuckerberg/single-cell-explorer/pull/58,2021-09-13T15:06:36Z,2021-09-13T23:22:07Z,5,3,MERGED
+single-cell-explorer,Remove auth code [zh1278],https://github.com/chanzuckerberg/single-cell-explorer/pull/57,2021-09-11T00:18:30Z,2021-09-14T21:24:13Z,4,4,MERGED
+single-cell-explorer,Update information menu layout and UI. (#22),https://github.com/chanzuckerberg/single-cell-explorer/pull/55,2021-09-10T00:45:26Z,2021-09-13T17:41:53Z,2,1,MERGED
+single-cell-explorer,Display custom icons outside of Blueprint icon set. (#21),https://github.com/chanzuckerberg/single-cell-explorer/pull/54,2021-09-10T00:41:19Z,2021-09-10T16:28:47Z,1,2,MERGED
+single-cell-explorer,Dunitz/tombstone redirect,https://github.com/chanzuckerberg/single-cell-explorer/pull/52,2021-09-09T21:46:12Z,2021-09-17T21:55:46Z,6,19,MERGED
+single-cell-explorer,Added bind of dataset_identification. (#20),https://github.com/chanzuckerberg/single-cell-explorer/pull/50,2021-09-09T19:16:53Z,2021-09-09T19:32:20Z,1,1,MERGED
+single-cell-explorer,CXG spec doc updates for Corpora 2.0.0 schema (#2326),https://github.com/chanzuckerberg/single-cell-explorer/pull/49,2021-09-09T16:00:06Z,2021-10-01T17:06:21Z,22,17,MERGED
+single-cell-explorer,[1275] Renames for post-desktop world,https://github.com/chanzuckerberg/single-cell-explorer/pull/48,2021-09-09T00:57:45Z,2021-09-09T23:07:46Z,8,7,MERGED
+single-cell-explorer,fix: upgraded tiledb (#2251),https://github.com/chanzuckerberg/single-cell-explorer/pull/44,2021-09-08T16:12:36Z,2021-09-08T19:02:26Z,2,1,MERGED
+single-cell-explorer,fix: dataset metadata response parsing,https://github.com/chanzuckerberg/single-cell-explorer/pull/43,2021-09-08T02:52:00Z,2021-09-08T14:21:18Z,1,4,MERGED
+single-cell-explorer,fix local dist,https://github.com/chanzuckerberg/single-cell-explorer/pull/42,2021-09-07T20:22:29Z,2021-09-07T21:16:25Z,1,3,MERGED
+single-cell-explorer,Dunitz/update config,https://github.com/chanzuckerberg/single-cell-explorer/pull/40,2021-09-07T19:27:00Z,2021-09-07T21:25:15Z,1,6,MERGED
+single-cell-explorer,Dunitz/cache deletion error,https://github.com/chanzuckerberg/single-cell-explorer/pull/39,2021-09-07T18:15:25Z,2021-09-07T18:41:34Z,1,2,MERGED
+single-cell-explorer,Dunitz/1280 remove annotations code,https://github.com/chanzuckerberg/single-cell-explorer/pull/37,2021-09-02T16:08:43Z,2021-09-02T18:59:11Z,4,4,MERGED
+single-cell-explorer,chore: type centroid util,https://github.com/chanzuckerberg/single-cell-explorer/pull/36,2021-09-02T00:54:59Z,2021-09-15T18:16:13Z,6,17,MERGED
+single-cell-explorer,Dunitz/cache error test,https://github.com/chanzuckerberg/single-cell-explorer/pull/34,2021-09-01T18:20:22Z,2021-09-01T21:11:31Z,1,3,MERGED
+single-cell-explorer,Fixed failing smoke-tests for seamless menubar updates. (#38),https://github.com/chanzuckerberg/single-cell-explorer/pull/33,2021-09-01T16:47:08Z,2021-09-03T19:47:01Z,1,4,MERGED
+single-cell-explorer,Temporarily disabled dataset drawer. (#30),https://github.com/chanzuckerberg/single-cell-explorer/pull/31,2021-08-31T22:46:14Z,2021-09-07T21:04:36Z,1,2,MERGED
+single-cell-explorer,Typed dataset drawer. (#23),https://github.com/chanzuckerberg/single-cell-explorer/pull/29,2021-08-31T22:18:25Z,2021-08-31T22:18:47Z,0,1,MERGED
+single-cell-explorer,Typed action creators. (#20),https://github.com/chanzuckerberg/single-cell-explorer/pull/28,2021-08-31T22:13:43Z,2021-08-31T22:14:16Z,0,1,MERGED
+single-cell-explorer,basic cleanup,https://github.com/chanzuckerberg/single-cell-explorer/pull/27,2021-08-27T19:35:17Z,2021-09-01T22:09:30Z,1,4,MERGED
+single-cell-explorer,Thuang 10 type state manager,https://github.com/chanzuckerberg/single-cell-explorer/pull/19,2021-08-26T16:44:44Z,2021-09-16T18:48:50Z,20,3,MERGED
+single-cell-explorer,"Reducer typing, pass #1",https://github.com/chanzuckerberg/single-cell-explorer/pull/18,2021-08-20T18:10:39Z,2021-10-14T17:55:33Z,2,1,CLOSED
+single-cell-explorer,feedback: thuang-2366-feedback,https://github.com/chanzuckerberg/single-cell-explorer/pull/17,2021-08-19T17:36:18Z,2021-08-19T18:36:57Z,4,2,MERGED
+single-cell-explorer,TS typing of crossfilter,https://github.com/chanzuckerberg/single-cell-explorer/pull/4,2021-08-19T00:07:44Z,2021-08-19T21:06:04Z,9,5,MERGED
+single-cell-explorer,Dunitz/data adaptor metadata api,https://github.com/chanzuckerberg/single-cell-explorer/pull/3,2021-08-18T23:43:17Z,2021-08-27T18:40:22Z,15,24,MERGED
+single-cell-explorer,chore: PR runs npm run lint,https://github.com/chanzuckerberg/single-cell-explorer/pull/1,2021-08-18T21:55:00Z,2021-08-18T22:28:12Z,1,1,MERGED
+single-cell-explorer,fix rdev non-GHA builds,https://github.com/chanzuckerberg/single-cell-explorer/pull/207,2021-12-22T19:42:45Z,2022-01-12T21:15:45Z,5,3,MERGED
+single-cell-explorer,fix: add max_age to immutable caches,https://github.com/chanzuckerberg/single-cell-explorer/pull/205,2021-12-13T18:13:02Z,2021-12-13T21:44:07Z,1,1,MERGED
+single-cell-explorer,fix: verify caching headers for dataset-metadata,https://github.com/chanzuckerberg/single-cell-explorer/pull/204,2021-12-03T23:04:47Z,2021-12-17T22:26:46Z,8,7,MERGED
+single-cell-explorer,fix: tombstoned datatset index page redirect,https://github.com/chanzuckerberg/single-cell-explorer/pull/202,2021-12-03T15:53:23Z,2021-12-03T17:54:51Z,2,1,MERGED
+single-cell-explorer,Fix: return response caching,https://github.com/chanzuckerberg/single-cell-explorer/pull/199,2021-11-30T17:43:10Z,2021-11-30T18:00:21Z,1,1,MERGED
+single-cell-explorer,fix: remove trailing slash from s3_uri,https://github.com/chanzuckerberg/single-cell-explorer/pull/198,2021-11-29T20:26:49Z,2021-11-30T01:42:08Z,3,2,MERGED
+single-cell-explorer,revert tiledb ver to 0.10.1,https://github.com/chanzuckerberg/single-cell-explorer/pull/197,2021-11-24T15:25:27Z,2021-11-24T15:41:32Z,1,1,MERGED
+single-cell-explorer,feat: client uses v0.3 api,https://github.com/chanzuckerberg/single-cell-explorer/pull/195,2021-11-23T00:03:27Z,2021-11-23T19:59:35Z,8,9,MERGED
+single-cell-explorer,cache redesign: api v3,https://github.com/chanzuckerberg/single-cell-explorer/pull/194,2021-11-19T22:25:09Z,2021-11-22T16:08:55Z,8,77,MERGED
+single-cell-explorer,Updated author supercategory partitioning. (#136),https://github.com/chanzuckerberg/single-cell-explorer/pull/193,2021-11-09T17:44:04Z,2021-11-18T18:14:25Z,3,3,MERGED
+single-cell-explorer,cache redesign epic,https://github.com/chanzuckerberg/single-cell-explorer/pull/192,2021-11-08T19:22:35Z,2021-11-23T22:55:56Z,2,6,MERGED
+single-cell-explorer,fix seamless caching,https://github.com/chanzuckerberg/single-cell-explorer/pull/191,2021-11-05T20:57:54Z,2021-11-09T14:43:06Z,1,3,MERGED
+single-cell-explorer,Add mkdir step in dockerfile,https://github.com/chanzuckerberg/single-cell-explorer/pull/190,2021-11-05T15:59:12Z,2021-11-05T18:29:09Z,2,4,MERGED
+single-cell-explorer,[experimental] rdev build image only test,https://github.com/chanzuckerberg/single-cell-explorer/pull/189,2021-11-02T19:52:03Z,2021-11-10T15:13:07Z,1,3,CLOSED
+single-cell-explorer,rdev build image only,https://github.com/chanzuckerberg/single-cell-explorer/pull/188,2021-11-02T17:47:47Z,2021-11-19T22:19:54Z,4,17,MERGED
+single-cell-explorer,rm matrix cache mgr [#183],https://github.com/chanzuckerberg/single-cell-explorer/pull/187,2021-11-02T16:18:34Z,2021-11-08T19:39:46Z,5,3,MERGED
+single-cell-explorer,rm dataset metadata cache manager [#168],https://github.com/chanzuckerberg/single-cell-explorer/pull/184,2021-11-01T22:11:55Z,2021-11-08T19:18:18Z,5,1,MERGED
+single-cell-explorer,fix: Docker-compose specify platform to get around arm vs amd arch mismatches,https://github.com/chanzuckerberg/single-cell-explorer/pull/241,2022-03-30T19:37:43Z,2022-03-30T21:25:24Z,6,4,MERGED
+single-cell-explorer,chore: dev->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/240,2022-03-28T18:53:27Z,2022-03-28T19:33:57Z,1,1,MERGED
+single-cell-explorer,"bump tiledb to 0.13.1, add work-around for dense read bug",https://github.com/chanzuckerberg/single-cell-explorer/pull/237,2022-03-24T19:04:17Z,2022-03-25T16:47:39Z,1,2,MERGED
+single-cell-explorer,chore: replaced deprecated method to open TileDB array (#56),https://github.com/chanzuckerberg/single-cell-explorer/pull/236,2022-03-21T19:14:59Z,2022-03-28T23:10:20Z,2,3,MERGED
+single-cell-explorer,Differential expression performance improvements,https://github.com/chanzuckerberg/single-cell-explorer/pull/234,2022-03-11T22:05:05Z,2022-05-12T17:18:54Z,18,26,MERGED
+single-cell-explorer,Update breaking jinja dependency,https://github.com/chanzuckerberg/single-cell-explorer/pull/232,2022-03-01T03:25:50Z,2022-03-01T17:02:00Z,2,1,MERGED
+single-cell-explorer,diffex PDU support,https://github.com/chanzuckerberg/single-cell-explorer/pull/228,2022-02-18T00:48:43Z,2022-03-02T15:29:02Z,15,13,MERGED
+single-cell-explorer,Added summary citation to dataset drawer. #211,https://github.com/chanzuckerberg/single-cell-explorer/pull/226,2022-02-16T18:52:42Z,2022-02-16T19:56:24Z,1,1,MERGED
+single-cell-explorer,feat: add publisher_metadata to the dataset metadata endpoint,https://github.com/chanzuckerberg/single-cell-explorer/pull/224,2022-02-04T20:18:14Z,2022-02-08T19:22:23Z,2,1,MERGED
+single-cell-explorer,chore: pin black version to avoid breaking compatibility with click 8,https://github.com/chanzuckerberg/single-cell-explorer/pull/220,2022-02-03T18:39:16Z,2022-02-03T20:08:06Z,1,1,MERGED
+single-cell-explorer,Atolopko/m1 updates,https://github.com/chanzuckerberg/single-cell-explorer/pull/217,2022-02-02T20:57:22Z,2022-07-18T17:55:50Z,3,6,CLOSED
+single-cell-explorer,chore: dev->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/215,2022-01-24T19:05:01Z,2022-01-24T20:17:51Z,0,3,MERGED
+single-cell-explorer,Update license to 2022.,https://github.com/chanzuckerberg/single-cell-explorer/pull/210,2022-01-13T20:06:05Z,2022-01-13T21:19:54Z,1,1,MERGED
+single-cell-explorer,chore: promote staging to prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/273,2022-05-19T18:38:58Z,2022-05-19T18:53:59Z,1,21,MERGED
+single-cell-explorer,chore: interpolated config,https://github.com/chanzuckerberg/single-cell-explorer/pull/272,2022-05-19T13:40:20Z,2022-07-06T18:48:10Z,2,8,CLOSED
+single-cell-explorer,fix: 270 analytics expand events,https://github.com/chanzuckerberg/single-cell-explorer/pull/271,2022-05-17T19:57:00Z,2022-05-17T20:13:27Z,1,1,MERGED
+single-cell-explorer,chore: deploy staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/269,2022-05-17T17:59:16Z,2022-05-17T18:00:15Z,0,1,MERGED
+single-cell-explorer,chore: beanstalk cleanup,https://github.com/chanzuckerberg/single-cell-explorer/pull/268,2022-05-17T14:37:30Z,2022-05-17T17:57:56Z,4,4,MERGED
+single-cell-explorer,"staging release, may 16th (take 2)",https://github.com/chanzuckerberg/single-cell-explorer/pull/267,2022-05-16T19:23:45Z,2022-05-16T19:24:00Z,0,1,MERGED
+single-cell-explorer,chore: stage -> staging in the config generation file,https://github.com/chanzuckerberg/single-cell-explorer/pull/266,2022-05-16T18:51:52Z,2022-05-16T19:13:44Z,1,1,MERGED
+single-cell-explorer,"staging release, may 16th",https://github.com/chanzuckerberg/single-cell-explorer/pull/265,2022-05-16T17:32:51Z,2022-05-16T17:53:10Z,1,4,MERGED
+single-cell-explorer,fix(analytics): #262 adds event payloads,https://github.com/chanzuckerberg/single-cell-explorer/pull/264,2022-05-14T00:11:22Z,2022-05-16T17:33:49Z,2,3,MERGED
+single-cell-explorer,chore: bump happy to 0.19.1,https://github.com/chanzuckerberg/single-cell-explorer/pull/263,2022-05-13T21:05:16Z,2022-05-16T11:55:06Z,1,2,MERGED
+single-cell-explorer,"staging release, may 13th",https://github.com/chanzuckerberg/single-cell-explorer/pull/261,2022-05-13T19:36:47Z,2022-05-13T19:40:56Z,1,5,MERGED
+single-cell-explorer,chore: set DEPLOYMENT_STAGE in Dockerfile,https://github.com/chanzuckerberg/single-cell-explorer/pull/260,2022-05-13T19:05:12Z,2022-05-13T19:22:09Z,1,1,MERGED
+single-cell-explorer,chore: set explorer instance count to 3,https://github.com/chanzuckerberg/single-cell-explorer/pull/259,2022-05-13T15:06:06Z,2022-05-13T15:40:26Z,1,1,MERGED
+single-cell-explorer,chore: happy terraform staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/256,2022-05-10T16:59:49Z,2022-05-11T19:10:02Z,1,2,MERGED
+single-cell-explorer,chore: staging deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/255,2022-05-10T16:13:21Z,2022-05-10T17:40:40Z,1,9,MERGED
+single-cell-explorer,chore: Clean up development guidelines.,https://github.com/chanzuckerberg/single-cell-explorer/pull/253,2022-05-07T02:49:36Z,2022-05-10T02:16:11Z,2,3,MERGED
+single-cell-explorer,chore: clean up documentation and fix broken links.,https://github.com/chanzuckerberg/single-cell-explorer/pull/252,2022-05-06T20:46:06Z,2022-05-13T19:50:42Z,3,6,MERGED
+single-cell-explorer,chore: ECS ci/cd,https://github.com/chanzuckerberg/single-cell-explorer/pull/251,2022-05-06T15:34:39Z,2022-05-13T19:30:03Z,3,11,MERGED
+single-cell-explorer,chore: use gunicorn for ecs,https://github.com/chanzuckerberg/single-cell-explorer/pull/250,2022-05-06T14:15:45Z,2022-05-06T15:35:06Z,1,3,MERGED
+single-cell-explorer,feat(analytics): 1631 Add analytics,https://github.com/chanzuckerberg/single-cell-explorer/pull/249,2022-05-04T21:38:04Z,2022-05-06T16:46:28Z,2,3,MERGED
+single-cell-explorer,Removed filter flag. #1718,https://github.com/chanzuckerberg/single-cell-explorer/pull/247,2022-04-27T23:19:49Z,2022-04-28T16:10:17Z,1,1,MERGED
+single-cell-explorer,Add terraform code for happy deployments,https://github.com/chanzuckerberg/single-cell-explorer/pull/246,2022-04-22T15:19:02Z,2022-05-05T13:25:44Z,6,13,MERGED
+single-cell-explorer,Add high performance diffex routes,https://github.com/chanzuckerberg/single-cell-explorer/pull/244,2022-04-04T20:14:04Z,2022-05-02T13:10:56Z,7,12,MERGED
+single-cell-explorer,"bump tiledb ver, to stay on par with portal (tiledb writer)",https://github.com/chanzuckerberg/single-cell-explorer/pull/242,2022-04-01T16:38:06Z,2022-04-04T13:02:19Z,1,1,MERGED
+single-cell-explorer,chore: upgrade aws provider,https://github.com/chanzuckerberg/single-cell-explorer/pull/364,2022-07-29T12:46:51Z,2022-07-29T12:59:28Z,1,1,MERGED
+single-cell-explorer,chore: gene info analytics,https://github.com/chanzuckerberg/single-cell-explorer/pull/363,2022-07-29T00:07:07Z,2022-07-29T21:25:23Z,1,2,MERGED
+single-cell-explorer,chore: restore logs - duplicate?,https://github.com/chanzuckerberg/single-cell-explorer/pull/361,2022-07-28T21:02:54Z,2022-07-28T21:21:53Z,2,3,CLOSED
+single-cell-explorer,chore: deploy prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/360,2022-07-28T20:58:51Z,2022-07-28T21:53:57Z,1,2,MERGED
+single-cell-explorer,chore: restore logs,https://github.com/chanzuckerberg/single-cell-explorer/pull/359,2022-07-28T20:13:21Z,2022-07-28T22:21:49Z,1,2,MERGED
+single-cell-explorer,feat: gene info api callback,https://github.com/chanzuckerberg/single-cell-explorer/pull/358,2022-07-28T16:47:35Z,2022-07-28T23:56:08Z,1,2,MERGED
+single-cell-explorer,feat: gene info api callback,https://github.com/chanzuckerberg/single-cell-explorer/pull/356,2022-07-27T22:40:23Z,2022-07-28T16:46:08Z,0,50,CLOSED
+single-cell-explorer,fresh branch for e2e tests update,https://github.com/chanzuckerberg/single-cell-explorer/pull/355,2022-07-27T20:27:07Z,2022-07-27T20:59:19Z,1,2,CLOSED
+single-cell-explorer,chore: update documentation links,https://github.com/chanzuckerberg/single-cell-explorer/pull/353,2022-07-27T18:19:25Z,2022-08-08T20:10:04Z,3,5,MERGED
+single-cell-explorer,fix: gene info QA changes,https://github.com/chanzuckerberg/single-cell-explorer/pull/351,2022-07-27T16:37:25Z,2022-08-01T23:12:13Z,10,25,MERGED
+single-cell-explorer,feat: Enable permissions to support happy shell,https://github.com/chanzuckerberg/single-cell-explorer/pull/349,2022-07-27T13:22:20Z,2022-07-27T13:30:18Z,1,1,MERGED
+single-cell-explorer,Added gzip compression to outgoing responses via an nginx reverse proxy,https://github.com/chanzuckerberg/single-cell-explorer/pull/348,2022-07-26T19:07:03Z,2022-07-26T19:43:12Z,1,7,MERGED
+single-cell-explorer,Add an nginx reverse proxy to the docker container for enabling gzip compression of outgoing responses ,https://github.com/chanzuckerberg/single-cell-explorer/pull/344,2022-07-26T00:48:46Z,2022-07-26T17:23:15Z,1,15,CLOSED
+single-cell-explorer,Add an nginx reverse proxy to the docker container for enabling Brotli compression of outgoing responses ,https://github.com/chanzuckerberg/single-cell-explorer/pull/343,2022-07-25T21:16:51Z,2022-07-26T19:07:14Z,6,5,CLOSED
+single-cell-explorer,Add an nginx reverse proxy to the docker container for enabling Brotli compression of outgoing responses,https://github.com/chanzuckerberg/single-cell-explorer/pull/340,2022-07-22T20:53:33Z,2022-07-25T21:17:11Z,1,30,CLOSED
+single-cell-explorer,Atar/nginx rproxy,https://github.com/chanzuckerberg/single-cell-explorer/pull/339,2022-07-22T20:07:18Z,2022-07-22T20:53:26Z,1,4,CLOSED
+single-cell-explorer,chore(deploy): prod <- staging (#324),https://github.com/chanzuckerberg/single-cell-explorer/pull/338,2022-07-22T17:12:19Z,2022-07-22T17:23:06Z,1,1,MERGED
+single-cell-explorer,Updating the flatbuffer scheme with dictionary-encoded and sparse data types,https://github.com/chanzuckerberg/single-cell-explorer/pull/337,2022-07-22T16:12:40Z,2022-09-02T19:21:18Z,57,75,MERGED
+single-cell-explorer,fix: make push rdev use happy go client,https://github.com/chanzuckerberg/single-cell-explorer/pull/336,2022-07-22T14:59:20Z,2022-07-24T17:00:48Z,3,2,MERGED
+single-cell-explorer,Atar/better fbs,https://github.com/chanzuckerberg/single-cell-explorer/pull/330,2022-07-21T16:12:43Z,2022-07-22T16:27:21Z,2,24,CLOSED
+single-cell-explorer,fix: update colorTable code so linear scan only happens once,https://github.com/chanzuckerberg/single-cell-explorer/pull/328,2022-07-21T00:00:37Z,2022-07-21T02:39:19Z,2,3,MERGED
+single-cell-explorer,fix: added flag to avoid calculating centroid if overlay isn't displayed,https://github.com/chanzuckerberg/single-cell-explorer/pull/326,2022-07-20T23:42:22Z,2022-07-21T02:27:46Z,4,1,MERGED
+single-cell-explorer,fix: request gene info with name if no ensembl ID,https://github.com/chanzuckerberg/single-cell-explorer/pull/325,2022-07-20T22:24:44Z,2022-07-25T22:57:56Z,2,6,MERGED
+single-cell-explorer,chore(deploy): staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/324,2022-07-19T23:05:46Z,2022-07-19T23:17:30Z,1,6,MERGED
+single-cell-explorer,feat: gene info card backend changes,https://github.com/chanzuckerberg/single-cell-explorer/pull/323,2022-07-19T20:11:32Z,2022-07-20T16:53:16Z,2,4,MERGED
+single-cell-explorer,feat: Fargate support,https://github.com/chanzuckerberg/single-cell-explorer/pull/321,2022-07-15T18:17:42Z,2022-07-27T14:26:14Z,1,1,CLOSED
+single-cell-explorer,chore: gene info icon and minor design changes,https://github.com/chanzuckerberg/single-cell-explorer/pull/320,2022-07-15T17:28:37Z,2022-07-20T21:16:57Z,1,2,MERGED
+single-cell-explorer,chore: fix gene info to pass smoke tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/319,2022-07-15T16:08:35Z,2022-07-21T17:36:35Z,1,3,MERGED
+single-cell-explorer,chore: add happy locking,https://github.com/chanzuckerberg/single-cell-explorer/pull/318,2022-07-13T15:23:44Z,2022-07-13T15:30:21Z,0,1,MERGED
+single-cell-explorer,chore: dev->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/316,2022-07-12T20:37:52Z,2022-07-19T16:01:34Z,1,6,CLOSED
+single-cell-explorer,chore: Remove python happy and references to it,https://github.com/chanzuckerberg/single-cell-explorer/pull/315,2022-07-12T20:19:20Z,2022-07-27T14:44:55Z,1,2,MERGED
+single-cell-explorer,fix: combine run statements into one layer,https://github.com/chanzuckerberg/single-cell-explorer/pull/314,2022-07-12T17:18:43Z,2022-07-12T17:31:07Z,0,1,MERGED
+single-cell-explorer,chore: increase staging container count to 2,https://github.com/chanzuckerberg/single-cell-explorer/pull/313,2022-07-08T17:35:03Z,2022-07-08T18:57:05Z,2,1,MERGED
+single-cell-explorer,chore: add missing config.yaml file,https://github.com/chanzuckerberg/single-cell-explorer/pull/312,2022-07-08T13:50:11Z,2022-07-08T14:01:35Z,1,1,MERGED
+single-cell-explorer,chore: deploy prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/311,2022-07-07T18:06:49Z,2022-07-07T18:14:40Z,1,6,MERGED
+single-cell-explorer,chore: runtime config,https://github.com/chanzuckerberg/single-cell-explorer/pull/310,2022-07-06T16:48:53Z,2022-07-08T13:48:04Z,3,7,MERGED
+single-cell-explorer,chore: deploy staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/309,2022-07-05T21:59:16Z,2022-07-05T22:44:58Z,1,5,MERGED
+single-cell-explorer,fix(docker): fix script url,https://github.com/chanzuckerberg/single-cell-explorer/pull/308,2022-06-29T20:34:01Z,2022-06-29T20:34:13Z,0,1,MERGED
+single-cell-explorer,fix(docker): explicitly install node,https://github.com/chanzuckerberg/single-cell-explorer/pull/307,2022-06-29T20:04:55Z,2022-06-29T20:22:06Z,1,1,MERGED
+single-cell-explorer,chore: migrate sds theme to explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/305,2022-06-28T22:50:54Z,2022-06-29T17:50:14Z,1,7,MERGED
+single-cell-explorer,staging deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/304,2022-06-28T20:11:15Z,2022-06-28T20:13:45Z,0,13,CLOSED
+single-cell-explorer,revert prs 300 301,https://github.com/chanzuckerberg/single-cell-explorer/pull/303,2022-06-28T18:20:22Z,2022-06-28T18:24:49Z,1,2,MERGED
+single-cell-explorer,"Revert ""fix: regen package-lock.json file to solve dependency issue in dev""",https://github.com/chanzuckerberg/single-cell-explorer/pull/302,2022-06-28T18:09:21Z,2022-06-28T18:36:56Z,1,1,CLOSED
+single-cell-explorer,fix: regen package-lock.json file to solve dependency issue in dev,https://github.com/chanzuckerberg/single-cell-explorer/pull/301,2022-06-28T00:13:20Z,2022-06-28T16:45:06Z,1,7,MERGED
+single-cell-explorer,chore: migrate sds to explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/300,2022-06-27T17:34:39Z,2022-06-27T23:05:11Z,2,5,MERGED
+single-cell-explorer,fix: enable deployment on rdev,https://github.com/chanzuckerberg/single-cell-explorer/pull/299,2022-06-27T17:06:30Z,2022-07-08T20:19:52Z,5,21,MERGED
+single-cell-explorer,feat: gene info cards,https://github.com/chanzuckerberg/single-cell-explorer/pull/298,2022-06-24T16:42:33Z,2022-07-26T23:47:26Z,12,50,MERGED
+single-cell-explorer,fix: update Slack logo in menu bar,https://github.com/chanzuckerberg/single-cell-explorer/pull/297,2022-06-24T16:02:17Z,2022-07-05T18:58:29Z,1,2,MERGED
+single-cell-explorer,chore: staging -> prod deployment,https://github.com/chanzuckerberg/single-cell-explorer/pull/291,2022-06-24T04:40:13Z,2022-06-24T21:35:34Z,1,1,MERGED
+single-cell-explorer,Update issue templates,https://github.com/chanzuckerberg/single-cell-explorer/pull/290,2022-06-23T17:14:06Z,2022-06-30T23:39:02Z,6,4,MERGED
+single-cell-explorer,chore(deploy): staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/289,2022-06-22T18:28:14Z,2022-06-22T18:31:48Z,0,9,MERGED
+single-cell-explorer,[DO NOT MERGE] SOMA support,https://github.com/chanzuckerberg/single-cell-explorer/pull/287,2022-06-17T15:24:32Z,2022-07-28T01:32:58Z,0,9,CLOSED
+single-cell-explorer,"chore: prod deployment, jun 16th",https://github.com/chanzuckerberg/single-cell-explorer/pull/286,2022-06-16T15:34:47Z,2022-06-16T18:06:56Z,0,1,MERGED
+single-cell-explorer,chore: fix package specs #282,https://github.com/chanzuckerberg/single-cell-explorer/pull/285,2022-06-15T17:30:34Z,2022-06-15T23:21:27Z,8,8,MERGED
+single-cell-explorer,chore: fix package specification issue noted in #282,https://github.com/chanzuckerberg/single-cell-explorer/pull/284,2022-06-15T17:26:46Z,2022-06-15T17:26:58Z,0,7,CLOSED
+single-cell-explorer,feat: added add-gene-and-* analytics for issue 275,https://github.com/chanzuckerberg/single-cell-explorer/pull/283,2022-06-14T18:10:57Z,2022-06-28T18:55:41Z,3,5,MERGED
+single-cell-explorer,chore: clean up e2eAnnotations.test.ts #213,https://github.com/chanzuckerberg/single-cell-explorer/pull/281,2022-06-11T15:59:22Z,2022-07-27T21:42:00Z,5,21,MERGED
+single-cell-explorer,chore(clean up e2eAnnotations.test.ts #213),https://github.com/chanzuckerberg/single-cell-explorer/pull/280,2022-06-11T15:53:08Z,2022-06-11T15:54:03Z,1,6,CLOSED
+single-cell-explorer,Added embedding switch animations,https://github.com/chanzuckerberg/single-cell-explorer/pull/278,2022-06-10T04:40:51Z,2022-06-10T20:57:51Z,0,2,CLOSED
+single-cell-explorer,fix: same category and gene name coloring issues,https://github.com/chanzuckerberg/single-cell-explorer/pull/276,2022-06-03T21:12:51Z,2022-06-07T23:36:24Z,2,6,MERGED
+single-cell-explorer,fix: add missing ECS folder,https://github.com/chanzuckerberg/single-cell-explorer/pull/526,2022-10-28T18:43:02Z,2022-10-28T19:26:40Z,1,2,MERGED
+single-cell-explorer,fix: add missing ECS folder,https://github.com/chanzuckerberg/single-cell-explorer/pull/525,2022-10-28T18:40:28Z,2022-10-28T18:41:00Z,0,1,CLOSED
+single-cell-explorer,fix: eb dir -> ecs dir,https://github.com/chanzuckerberg/single-cell-explorer/pull/524,2022-10-27T21:21:59Z,2022-10-28T18:06:49Z,2,4,MERGED
+single-cell-explorer,"chore: prod deployment, oct 27th",https://github.com/chanzuckerberg/single-cell-explorer/pull/523,2022-10-27T19:06:12Z,2022-10-27T19:32:59Z,0,5,MERGED
+single-cell-explorer,fix: wrong path in start.sh,https://github.com/chanzuckerberg/single-cell-explorer/pull/522,2022-10-27T12:45:21Z,2022-10-27T19:03:19Z,2,1,MERGED
+single-cell-explorer,refactor: Don't Populate __init__.py,https://github.com/chanzuckerberg/single-cell-explorer/pull/520,2022-10-25T19:58:57Z,2022-11-01T19:38:07Z,3,5,MERGED
+single-cell-explorer,"chore: staging release, oct 25th",https://github.com/chanzuckerberg/single-cell-explorer/pull/519,2022-10-25T18:12:07Z,2022-10-25T18:48:57Z,1,4,MERGED
+single-cell-explorer,refactor: remove eb files,https://github.com/chanzuckerberg/single-cell-explorer/pull/518,2022-10-24T23:39:16Z,2022-10-26T22:36:16Z,1,6,MERGED
+single-cell-explorer,fix: Assume navbar present by default and only remove padding if dataset metadata errors,https://github.com/chanzuckerberg/single-cell-explorer/pull/517,2022-10-24T16:51:20Z,2022-10-25T17:13:16Z,1,5,MERGED
+single-cell-explorer,chore: deploy prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/515,2022-10-20T22:11:54Z,2022-10-20T22:16:55Z,0,6,MERGED
+single-cell-explorer,fix: Continuous legend properly disappears after coloring by continuous metadata and subsequently coloring by anything else,https://github.com/chanzuckerberg/single-cell-explorer/pull/513,2022-10-19T23:36:08Z,2022-10-21T23:32:51Z,2,4,MERGED
+single-cell-explorer,issue: 510,https://github.com/chanzuckerberg/single-cell-explorer/pull/511,2022-10-19T16:39:01Z,2022-10-19T17:10:59Z,1,1,CLOSED
+single-cell-explorer,"Revert ""refactor: Remove elastic bean stock path""",https://github.com/chanzuckerberg/single-cell-explorer/pull/509,2022-10-19T16:17:31Z,2022-10-19T16:32:02Z,1,1,MERGED
+single-cell-explorer,fix: remove eb from Dockerfile,https://github.com/chanzuckerberg/single-cell-explorer/pull/508,2022-10-19T00:14:42Z,2022-10-19T19:22:58Z,3,2,CLOSED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/507,2022-10-18T21:45:50Z,2022-10-19T19:30:02Z,1,5,MERGED
+single-cell-explorer,fix: Force viewport resize when seamless property changes (501),https://github.com/chanzuckerberg/single-cell-explorer/pull/506,2022-10-18T15:44:57Z,2022-10-24T16:46:05Z,0,1,CLOSED
+single-cell-explorer,"unfix: Revert ""fix: Assume NavBar is present when calculating height of explorer initially.""",https://github.com/chanzuckerberg/single-cell-explorer/pull/505,2022-10-18T15:35:35Z,2022-10-18T15:43:40Z,1,1,MERGED
+single-cell-explorer,refactor: Remove elastic bean stock path,https://github.com/chanzuckerberg/single-cell-explorer/pull/503,2022-10-17T21:13:14Z,2022-10-18T17:38:51Z,1,2,MERGED
+single-cell-explorer,fix: Assume NavBar is present when calculating height of explorer initially.,https://github.com/chanzuckerberg/single-cell-explorer/pull/502,2022-10-17T17:18:08Z,2022-10-18T14:44:44Z,2,5,MERGED
+single-cell-explorer,Simplify Config,https://github.com/chanzuckerberg/single-cell-explorer/pull/500,2022-10-13T23:29:02Z,2022-11-23T20:44:34Z,3,45,MERGED
+single-cell-explorer,refactor: Remove User Annotations,https://github.com/chanzuckerberg/single-cell-explorer/pull/499,2022-10-13T19:03:46Z,2022-11-04T18:45:00Z,11,14,MERGED
+single-cell-explorer,remove Get genesets call,https://github.com/chanzuckerberg/single-cell-explorer/pull/498,2022-10-13T18:58:29Z,2022-10-24T23:46:44Z,1,5,MERGED
+single-cell-explorer,chore: prod deploy; 10/13/22,https://github.com/chanzuckerberg/single-cell-explorer/pull/497,2022-10-13T14:13:48Z,2022-10-13T15:05:05Z,1,6,MERGED
+single-cell-explorer,refactor: Change type checking to isinstance check.,https://github.com/chanzuckerberg/single-cell-explorer/pull/496,2022-10-12T22:43:16Z,2022-10-21T19:12:31Z,1,2,MERGED
+single-cell-explorer,refactor: single dataset mode,https://github.com/chanzuckerberg/single-cell-explorer/pull/495,2022-10-12T16:59:21Z,2022-10-27T22:17:47Z,8,7,MERGED
+single-cell-explorer,chore: Added analytics to collections and datasets to unified navbar,https://github.com/chanzuckerberg/single-cell-explorer/pull/493,2022-10-10T16:25:10Z,2022-10-10T20:20:50Z,1,2,MERGED
+single-cell-explorer,fix: Fixed issue where config was not generating properly due to CXG version upgrade,https://github.com/chanzuckerberg/single-cell-explorer/pull/492,2022-10-07T01:51:07Z,2022-10-07T18:26:51Z,1,2,MERGED
+single-cell-explorer,chore: staging->prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/490,2022-10-06T20:41:55Z,2022-10-06T22:24:07Z,1,1,MERGED
+single-cell-explorer,refactor: remove v2,https://github.com/chanzuckerberg/single-cell-explorer/pull/489,2022-10-06T20:27:12Z,2022-10-11T20:02:26Z,2,7,MERGED
+single-cell-explorer,fix: Fixes the continuous legend so it doesn't clear whenever the genesets change,https://github.com/chanzuckerberg/single-cell-explorer/pull/488,2022-10-06T01:17:23Z,2022-10-07T01:43:29Z,1,2,MERGED
+single-cell-explorer,fix: Gene info cards no longer break undo/redo,https://github.com/chanzuckerberg/single-cell-explorer/pull/487,2022-10-06T01:05:03Z,2022-10-10T20:20:32Z,1,2,MERGED
+single-cell-explorer,feat: add cellxgene schema 3.0.0 fields to Standard Categories (#412),https://github.com/chanzuckerberg/single-cell-explorer/pull/486,2022-10-05T13:45:43Z,2022-10-06T20:06:38Z,1,2,MERGED
+single-cell-explorer,chore: dev->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/484,2022-10-04T20:50:14Z,2022-10-04T21:40:44Z,1,1,MERGED
+single-cell-explorer,fix: hide navbar when seamless not enabled,https://github.com/chanzuckerberg/single-cell-explorer/pull/482,2022-09-30T16:20:40Z,2022-10-04T16:23:49Z,2,3,MERGED
+single-cell-explorer,chore: 9/29 prod deployment,https://github.com/chanzuckerberg/single-cell-explorer/pull/477,2022-09-29T15:46:05Z,2022-09-29T16:59:18Z,1,8,MERGED
+single-cell-explorer,"chore: 9/28 staging deploy, rebase",https://github.com/chanzuckerberg/single-cell-explorer/pull/471,2022-09-28T15:41:18Z,2022-09-28T15:41:34Z,0,7,MERGED
+single-cell-explorer,chore: 9/28 staging deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/470,2022-09-28T14:41:02Z,2022-09-28T15:37:30Z,1,7,MERGED
+single-cell-explorer,fix: remove platform spec from docker compose yaml to unblock deployments,https://github.com/chanzuckerberg/single-cell-explorer/pull/469,2022-09-27T20:39:39Z,2022-09-27T20:56:55Z,1,2,MERGED
+single-cell-explorer,feat: add hotkeys for undo redo and remove buttons,https://github.com/chanzuckerberg/single-cell-explorer/pull/467,2022-09-27T14:59:22Z,2022-09-27T17:02:37Z,2,5,MERGED
+single-cell-explorer,"fix: Fix menubar overflow by removing undo redo, some letters, and umap icon",https://github.com/chanzuckerberg/single-cell-explorer/pull/466,2022-09-26T20:08:38Z,2022-09-27T18:05:42Z,1,6,MERGED
+single-cell-explorer,fix: Fixes missing breadcrumbs introduced in unified navbar update.,https://github.com/chanzuckerberg/single-cell-explorer/pull/465,2022-09-26T18:04:06Z,2022-09-27T18:21:53Z,1,7,MERGED
+single-cell-explorer,fix: fixing a bug that occurs when there are more than 1000 categories,https://github.com/chanzuckerberg/single-cell-explorer/pull/462,2022-09-24T02:06:36Z,2022-09-27T18:26:50Z,3,9,MERGED
+single-cell-explorer,chore: Prod deploy; 9/22/22,https://github.com/chanzuckerberg/single-cell-explorer/pull/459,2022-09-22T16:40:59Z,2022-09-22T17:13:06Z,1,13,MERGED
+single-cell-explorer,chore: staging 9/22 rebase,https://github.com/chanzuckerberg/single-cell-explorer/pull/458,2022-09-22T15:06:35Z,2022-09-22T15:16:17Z,1,11,MERGED
+single-cell-explorer,chore: staging deploy; 9/20/22,https://github.com/chanzuckerberg/single-cell-explorer/pull/457,2022-09-20T17:34:42Z,2022-09-20T17:58:30Z,1,11,MERGED
+single-cell-explorer,chore: Update clipping smoke test to ensure categorical data appears properly when clipping,https://github.com/chanzuckerberg/single-cell-explorer/pull/456,2022-09-20T16:26:09Z,2022-09-23T15:22:39Z,1,2,MERGED
+single-cell-explorer,fix: Fix behavior of annotation labels when continuous clipping is active.,https://github.com/chanzuckerberg/single-cell-explorer/pull/454,2022-09-20T14:44:30Z,2022-09-20T15:28:33Z,1,1,MERGED
+single-cell-explorer,fix: Fix summarize API call timing typo,https://github.com/chanzuckerberg/single-cell-explorer/pull/452,2022-09-19T16:58:59Z,2022-09-19T17:06:53Z,1,1,MERGED
+single-cell-explorer,chore: Add server timings to gene expression API routes,https://github.com/chanzuckerberg/single-cell-explorer/pull/451,2022-09-19T15:59:50Z,2022-09-19T16:40:30Z,1,4,MERGED
+single-cell-explorer,fix: fix edge case where categories dont exist for categoricals,https://github.com/chanzuckerberg/single-cell-explorer/pull/450,2022-09-17T21:23:32Z,2022-09-17T21:25:27Z,0,2,MERGED
+single-cell-explorer,fix(navbar): WMG link,https://github.com/chanzuckerberg/single-cell-explorer/pull/449,2022-09-16T21:51:02Z,2022-09-16T23:35:05Z,2,1,MERGED
+single-cell-explorer,chore(node): Upgrade to 16 in Dockerfile,https://github.com/chanzuckerberg/single-cell-explorer/pull/448,2022-09-16T20:59:54Z,2022-09-16T21:01:57Z,2,1,MERGED
+single-cell-explorer,Update cxg version to 0.3.0 in the docs,https://github.com/chanzuckerberg/single-cell-explorer/pull/447,2022-09-16T17:51:20Z,2022-09-16T21:49:21Z,1,2,MERGED
+single-cell-explorer,Add CXG version 0.3.0 to list of allowed versions.,https://github.com/chanzuckerberg/single-cell-explorer/pull/446,2022-09-16T16:43:57Z,2022-09-16T16:55:48Z,1,1,MERGED
+single-cell-explorer,chore: prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/445,2022-09-15T17:23:14Z,2022-09-15T17:24:12Z,0,3,MERGED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/441,2022-09-13T21:12:10Z,2022-09-13T21:12:57Z,0,2,MERGED
+single-cell-explorer,fix: Fixed bug where continuous legend is appearing for categorical color-bys,https://github.com/chanzuckerberg/single-cell-explorer/pull/440,2022-09-12T20:43:31Z,2022-09-12T20:57:40Z,1,3,MERGED
+single-cell-explorer,Upgrade Flask and other server python dependencies,https://github.com/chanzuckerberg/single-cell-explorer/pull/438,2022-09-12T10:43:23Z,2022-09-15T15:15:41Z,6,7,MERGED
+single-cell-explorer,Replace float arrays over the wire with integer coded arrays,https://github.com/chanzuckerberg/single-cell-explorer/pull/437,2022-09-07T19:14:36Z,2022-09-09T23:13:43Z,18,12,MERGED
+single-cell-explorer,(delete),https://github.com/chanzuckerberg/single-cell-explorer/pull/436,2022-09-07T19:13:05Z,2022-09-07T19:13:37Z,0,2,CLOSED
+single-cell-explorer,Atar/fb int genes,https://github.com/chanzuckerberg/single-cell-explorer/pull/435,2022-09-07T18:30:54Z,2022-09-07T19:14:04Z,0,16,CLOSED
+single-cell-explorer,chore: deploy prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/434,2022-09-01T17:26:49Z,2022-09-01T17:45:35Z,1,1,MERGED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/433,2022-08-30T18:42:27Z,2022-08-30T19:04:15Z,1,14,MERGED
+single-cell-explorer,Updating explorer to appropriately handle upgraded CXGs,https://github.com/chanzuckerberg/single-cell-explorer/pull/431,2022-08-30T16:03:42Z,2022-09-15T15:01:06Z,10,39,MERGED
+single-cell-explorer,refactor(cascadeReducer): Quick feedback 2,https://github.com/chanzuckerberg/single-cell-explorer/pull/430,2022-08-26T21:58:24Z,2022-08-26T23:38:47Z,2,1,MERGED
+single-cell-explorer,prod -> main hotfix: revert schema 3.0.0 updates,https://github.com/chanzuckerberg/single-cell-explorer/pull/429,2022-08-26T17:25:02Z,2022-08-26T17:36:51Z,1,14,CLOSED
+single-cell-explorer,"Revert ""feat: add cellxgene schema 3.0.0 fields to Standard Categories (#412)",https://github.com/chanzuckerberg/single-cell-explorer/pull/428,2022-08-26T17:08:37Z,2022-08-26T17:20:49Z,1,1,MERGED
+single-cell-explorer,refactor(cascadeReducer): Quick feedback,https://github.com/chanzuckerberg/single-cell-explorer/pull/427,2022-08-26T16:26:33Z,2022-08-26T17:54:00Z,1,1,MERGED
+single-cell-explorer,chore: typed cascade reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/426,2022-08-25T21:32:50Z,2022-08-27T03:34:05Z,9,10,MERGED
+single-cell-explorer,chore: purge autosave from codebase,https://github.com/chanzuckerberg/single-cell-explorer/pull/425,2022-08-25T21:07:48Z,2022-08-25T21:43:43Z,2,10,MERGED
+single-cell-explorer,chore: typed config reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/424,2022-08-25T20:55:06Z,2022-08-29T18:39:07Z,2,5,MERGED
+single-cell-explorer,chore: typed genesetsUI reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/423,2022-08-25T20:46:20Z,2022-08-29T18:32:59Z,2,7,MERGED
+single-cell-explorer,chore: typed graph selection reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/422,2022-08-25T20:37:38Z,2022-08-26T20:37:22Z,1,3,MERGED
+single-cell-explorer,chore: typed point dilation,https://github.com/chanzuckerberg/single-cell-explorer/pull/421,2022-08-25T20:33:04Z,2022-08-25T22:10:38Z,1,5,MERGED
+single-cell-explorer,chore: typed obs crossfilter,https://github.com/chanzuckerberg/single-cell-explorer/pull/420,2022-08-25T20:27:41Z,2022-08-25T20:38:34Z,1,1,MERGED
+single-cell-explorer,chore: typed differential reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/419,2022-08-25T20:25:25Z,2022-08-25T21:14:19Z,1,2,MERGED
+single-cell-explorer,chore: typed controls reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/418,2022-08-25T20:21:38Z,2022-08-25T21:59:02Z,5,7,MERGED
+single-cell-explorer,chore: typed categorical selection reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/417,2022-08-25T20:11:04Z,2022-08-25T20:47:03Z,1,2,MERGED
+single-cell-explorer,chore: type the annoMatrix reducer,https://github.com/chanzuckerberg/single-cell-explorer/pull/416,2022-08-25T20:03:02Z,2022-08-25T21:30:59Z,1,4,MERGED
+single-cell-explorer,chore(deploy): staging->prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/415,2022-08-25T18:13:52Z,2022-08-25T18:18:04Z,0,3,MERGED
+single-cell-explorer,chore(deploy): main->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/413,2022-08-23T19:30:44Z,2022-08-23T19:32:53Z,0,2,MERGED
+single-cell-explorer,feat: add cellxgene schema 3.0.0 fields to Standard Categories,https://github.com/chanzuckerberg/single-cell-explorer/pull/412,2022-08-22T21:49:16Z,2022-08-23T17:16:10Z,1,1,MERGED
+single-cell-explorer,fix: Add services to happy config,https://github.com/chanzuckerberg/single-cell-explorer/pull/409,2022-08-19T19:48:38Z,2022-08-19T20:29:35Z,1,2,MERGED
+single-cell-explorer,chore: merge main into staging hotfix #404 pt2,https://github.com/chanzuckerberg/single-cell-explorer/pull/408,2022-08-19T19:46:36Z,2022-08-19T19:52:49Z,1,2,MERGED
+single-cell-explorer,chore: upgrade tiledb to 0.16.5 part 2,https://github.com/chanzuckerberg/single-cell-explorer/pull/407,2022-08-19T19:24:55Z,2022-08-19T19:30:31Z,1,1,MERGED
+single-cell-explorer,merge staging into prod (hotfix #404),https://github.com/chanzuckerberg/single-cell-explorer/pull/406,2022-08-19T19:13:11Z,2022-08-19T19:53:51Z,1,5,MERGED
+single-cell-explorer,chore: merge main into staging (hotfix #404),https://github.com/chanzuckerberg/single-cell-explorer/pull/405,2022-08-19T19:03:02Z,2022-08-19T19:12:39Z,0,1,MERGED
+single-cell-explorer,chore: upgrade tiledb to 0.16.5,https://github.com/chanzuckerberg/single-cell-explorer/pull/404,2022-08-19T18:36:10Z,2022-08-19T18:56:13Z,2,1,MERGED
+single-cell-explorer,chore: merge staging into prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/403,2022-08-18T17:31:03Z,2022-08-18T18:03:54Z,1,5,MERGED
+single-cell-explorer,"Revert ""chore: merge main into staging""",https://github.com/chanzuckerberg/single-cell-explorer/pull/402,2022-08-17T18:53:34Z,2022-08-17T18:54:40Z,0,1,CLOSED
+single-cell-explorer,"chore: merge main into staging, hotfixing #397",https://github.com/chanzuckerberg/single-cell-explorer/pull/401,2022-08-17T18:31:13Z,2022-08-17T19:01:08Z,1,0,MERGED
+single-cell-explorer,chore: merge main into staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/400,2022-08-16T18:55:19Z,2022-08-16T19:40:48Z,1,4,MERGED
+single-cell-explorer,chore: gene info warning banner response,https://github.com/chanzuckerberg/single-cell-explorer/pull/397,2022-08-12T18:58:56Z,2022-08-17T17:49:29Z,1,2,MERGED
+single-cell-explorer,chore: revert font to roboto condensed,https://github.com/chanzuckerberg/single-cell-explorer/pull/394,2022-08-12T00:47:10Z,2022-08-12T15:02:51Z,1,2,MERGED
+single-cell-explorer,fix: SVG import,https://github.com/chanzuckerberg/single-cell-explorer/pull/391,2022-08-11T21:17:41Z,2022-08-12T14:59:56Z,5,1,MERGED
+single-cell-explorer,Linting with black and prettier - round 2 (forgot `scripts/`),https://github.com/chanzuckerberg/single-cell-explorer/pull/390,2022-08-11T18:02:37Z,2022-08-15T19:19:51Z,1,2,MERGED
+single-cell-explorer,chore: updating logo,https://github.com/chanzuckerberg/single-cell-explorer/pull/389,2022-08-11T17:25:26Z,2022-08-24T17:43:04Z,8,6,MERGED
+single-cell-explorer,chore: prod release; aug 11th 2022,https://github.com/chanzuckerberg/single-cell-explorer/pull/388,2022-08-11T15:55:21Z,2022-08-11T18:02:46Z,0,9,MERGED
+single-cell-explorer,chore: lint everything with black and prettier,https://github.com/chanzuckerberg/single-cell-explorer/pull/387,2022-08-11T14:06:19Z,2022-08-11T16:57:53Z,1,1,MERGED
+single-cell-explorer,fix(navbar): font display,https://github.com/chanzuckerberg/single-cell-explorer/pull/386,2022-08-10T21:59:30Z,2022-08-11T14:00:34Z,3,1,MERGED
+single-cell-explorer,feature: Added loading spinner to geneset average color-by and fixed a continuous legend bug,https://github.com/chanzuckerberg/single-cell-explorer/pull/384,2022-08-10T17:08:03Z,2022-08-24T21:54:30Z,3,7,MERGED
+single-cell-explorer,Added the data portal navigation bar to explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/382,2022-08-10T15:01:38Z,2022-09-16T20:53:26Z,26,15,MERGED
+single-cell-explorer,test(smoketest): Update diff exp test snapshot,https://github.com/chanzuckerberg/single-cell-explorer/pull/380,2022-08-09T22:00:53Z,2022-08-10T13:20:59Z,1,1,MERGED
+single-cell-explorer,test(smoketest): Update diff exp test,https://github.com/chanzuckerberg/single-cell-explorer/pull/379,2022-08-09T20:33:09Z,2022-08-09T20:42:47Z,1,1,MERGED
+single-cell-explorer,staging release; aug 9th 2022,https://github.com/chanzuckerberg/single-cell-explorer/pull/378,2022-08-09T18:28:49Z,2022-08-10T13:37:39Z,1,8,MERGED
+single-cell-explorer,"prod release, aug 4th",https://github.com/chanzuckerberg/single-cell-explorer/pull/374,2022-08-04T13:20:19Z,2022-08-04T13:21:59Z,0,9,MERGED
+single-cell-explorer,Adjust lint check to also ensure that the formatting matches black format expectations. Also format some files that weren't formatted properly.,https://github.com/chanzuckerberg/single-cell-explorer/pull/373,2022-08-03T14:40:18Z,2022-08-03T17:56:45Z,1,2,MERGED
+single-cell-explorer,chore: increase rdev memory,https://github.com/chanzuckerberg/single-cell-explorer/pull/372,2022-08-03T14:01:39Z,2022-08-03T14:21:52Z,1,1,MERGED
+single-cell-explorer,fix: change path for static font files,https://github.com/chanzuckerberg/single-cell-explorer/pull/370,2022-08-02T20:20:37Z,2022-08-02T20:27:45Z,0,1,MERGED
+single-cell-explorer,"chore: staging release, aug 2nd",https://github.com/chanzuckerberg/single-cell-explorer/pull/369,2022-08-02T19:51:26Z,2022-08-02T20:00:41Z,1,8,MERGED
+single-cell-explorer,Atar test branch,https://github.com/chanzuckerberg/single-cell-explorer/pull/367,2022-08-02T16:16:42Z,2022-08-02T16:17:03Z,0,14,CLOSED
+single-cell-explorer,docs: updating readme and version for rebranding,https://github.com/chanzuckerberg/single-cell-explorer/pull/366,2022-08-02T14:45:24Z,2022-08-11T17:33:16Z,18,9,MERGED
+single-cell-explorer,chore: gene info e2e testing,https://github.com/chanzuckerberg/single-cell-explorer/pull/365,2022-08-01T22:15:42Z,2022-08-03T21:31:20Z,2,13,MERGED
+single-cell-explorer,fix(FB): update tooltip to properly display label name and delete unused file,https://github.com/chanzuckerberg/single-cell-explorer/pull/551,2022-12-24T16:06:23Z,2023-01-05T14:12:17Z,1,2,MERGED
+single-cell-explorer,issue: 549,https://github.com/chanzuckerberg/single-cell-explorer/pull/550,2022-12-24T15:47:37Z,2022-12-24T15:48:28Z,0,0,CLOSED
+single-cell-explorer,chore: deploy prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/548,2022-12-15T18:47:30Z,2022-12-15T19:07:32Z,1,4,MERGED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/547,2022-12-14T19:11:27Z,2022-12-14T19:31:13Z,1,3,MERGED
+single-cell-explorer,feat: add DOCUMENTATION_CLICK_NAV for Documentation click,https://github.com/chanzuckerberg/single-cell-explorer/pull/546,2022-12-13T17:54:39Z,2022-12-14T01:42:14Z,1,1,MERGED
+single-cell-explorer,feat(wmg): 3701 Remove beta tag,https://github.com/chanzuckerberg/single-cell-explorer/pull/545,2022-12-13T00:05:29Z,2022-12-13T06:48:34Z,2,2,MERGED
+single-cell-explorer,chore: prod deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/542,2022-12-01T18:57:16Z,2022-12-01T19:13:18Z,1,2,MERGED
+single-cell-explorer,chore: staging deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/541,2022-11-29T20:52:01Z,2022-11-29T21:10:36Z,1,1,MERGED
+single-cell-explorer,chore: prod deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/537,2022-11-17T21:43:15Z,2022-11-17T22:08:39Z,1,2,MERGED
+single-cell-explorer,chore: staging deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/535,2022-11-15T19:58:30Z,2022-11-15T20:52:48Z,1,1,MERGED
+single-cell-explorer,chore: remove terms deprecated in schema 3.0.0 from standard categories,https://github.com/chanzuckerberg/single-cell-explorer/pull/533,2022-11-10T16:54:15Z,2022-11-10T17:24:37Z,1,2,MERGED
+single-cell-explorer,chore: add SECURITY.md file at top level,https://github.com/chanzuckerberg/single-cell-explorer/pull/531,2022-11-09T02:17:36Z,2022-11-09T02:35:24Z,1,3,MERGED
+single-cell-explorer,chore: Staging deploy 2022-11-1,https://github.com/chanzuckerberg/single-cell-explorer/pull/529,2022-11-01T18:34:07Z,2022-11-01T18:34:59Z,0,5,MERGED
+single-cell-explorer,refactor: Remove unused files,https://github.com/chanzuckerberg/single-cell-explorer/pull/528,2022-11-01T16:43:47Z,2022-11-07T17:39:39Z,2,5,MERGED
+single-cell-explorer,Log failed responses from data portal,https://github.com/chanzuckerberg/single-cell-explorer/pull/578,2023-03-30T17:16:17Z,2023-03-30T18:04:05Z,1,2,MERGED
+single-cell-explorer,feat: increase zoom limits by a factor of 4,https://github.com/chanzuckerberg/single-cell-explorer/pull/577,2023-03-23T19:11:45Z,2023-04-19T20:13:56Z,6,7,MERGED
+single-cell-explorer,chore: prod<-staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/576,2023-03-23T17:14:59Z,2023-03-23T17:33:39Z,1,2,MERGED
+single-cell-explorer,chore: main->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/574,2023-03-21T20:23:27Z,2023-03-21T20:23:39Z,0,2,MERGED
+single-cell-explorer,chore: update happy actions to latest,https://github.com/chanzuckerberg/single-cell-explorer/pull/573,2023-03-21T18:18:42Z,2023-03-21T18:50:41Z,1,2,MERGED
+single-cell-explorer,chore: main->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/572,2023-03-21T17:45:55Z,2023-03-21T17:48:36Z,0,1,MERGED
+single-cell-explorer,chore: update BE dependencies,https://github.com/chanzuckerberg/single-cell-explorer/pull/571,2023-03-19T14:27:47Z,2023-03-23T16:35:56Z,3,11,MERGED
+single-cell-explorer,Fix broken link to cellxgene documentation,https://github.com/chanzuckerberg/single-cell-explorer/pull/570,2023-03-16T17:36:12Z,2023-03-16T18:24:20Z,1,1,MERGED
+single-cell-explorer,chore: deploy prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/563,2023-02-09T19:13:29Z,2023-02-09T19:30:37Z,1,9,MERGED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/561,2023-02-07T18:08:11Z,2023-02-07T18:39:22Z,1,5,MERGED
+single-cell-explorer,chore: Added tech issue template,https://github.com/chanzuckerberg/single-cell-explorer/pull/560,2023-02-06T23:51:24Z,2023-02-07T18:20:45Z,2,2,MERGED
+single-cell-explorer,fix: linting,https://github.com/chanzuckerberg/single-cell-explorer/pull/559,2023-02-06T21:43:05Z,2023-02-07T15:00:47Z,1,3,MERGED
+single-cell-explorer,chore: Update license copyright year,https://github.com/chanzuckerberg/single-cell-explorer/pull/557,2023-02-03T20:48:49Z,2023-02-03T21:03:54Z,1,1,MERGED
+single-cell-explorer,chore: staging deploy 1/24/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/556,2023-01-24T19:12:14Z,2023-01-24T21:14:46Z,1,2,CLOSED
+single-cell-explorer,"Revert ""chore(deps): bump loader-utils from 2.0.2 to 2.0.4 in /client""",https://github.com/chanzuckerberg/single-cell-explorer/pull/555,2023-01-20T22:29:54Z,2023-02-06T19:34:38Z,1,1,CLOSED
+single-cell-explorer,chore: main->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/554,2023-01-20T17:58:14Z,2023-01-20T17:58:33Z,0,2,CLOSED
+single-cell-explorer,staging deploy 1/5/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/553,2023-01-05T14:15:07Z,2023-01-05T14:57:11Z,1,2,MERGED
+single-cell-explorer,chore: prod <- staging (#609),https://github.com/chanzuckerberg/single-cell-explorer/pull/613,2023-05-18T18:16:43Z,2023-05-18T18:37:51Z,1,1,MERGED
+single-cell-explorer,fix: envfile in deploy-happy-stack,https://github.com/chanzuckerberg/single-cell-explorer/pull/612,2023-05-16T18:43:06Z,2023-05-17T19:41:31Z,1,12,MERGED
+single-cell-explorer,chore: staging<-main,https://github.com/chanzuckerberg/single-cell-explorer/pull/611,2023-05-16T18:37:11Z,2023-05-30T19:51:56Z,0,4,MERGED
+single-cell-explorer,chore: staging<-main,https://github.com/chanzuckerberg/single-cell-explorer/pull/610,2023-05-16T18:28:52Z,2023-05-16T18:35:19Z,0,2,CLOSED
+single-cell-explorer,chore: staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/609,2023-05-16T17:25:55Z,2023-05-16T17:39:28Z,0,2,MERGED
+single-cell-explorer,add log message type,https://github.com/chanzuckerberg/single-cell-explorer/pull/608,2023-05-12T16:48:17Z,2023-06-12T23:03:02Z,1,2,MERGED
+single-cell-explorer,feat: Add correlation ids to logs to improve debugging,https://github.com/chanzuckerberg/single-cell-explorer/pull/606,2023-05-11T23:30:02Z,2023-05-12T16:30:52Z,1,3,MERGED
+single-cell-explorer,chore: prod deployment 5/11,https://github.com/chanzuckerberg/single-cell-explorer/pull/605,2023-05-11T18:45:48Z,2023-05-11T20:16:04Z,1,2,MERGED
+single-cell-explorer,feat: arm tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/604,2023-05-11T18:35:48Z,2023-06-12T16:31:57Z,1,3,CLOSED
+single-cell-explorer,chore: staging 5/9/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/603,2023-05-09T17:47:35Z,2023-05-09T19:30:11Z,1,1,MERGED
+single-cell-explorer,fix: set strict_slashes to false so suffix / is not required,https://github.com/chanzuckerberg/single-cell-explorer/pull/602,2023-05-08T14:21:06Z,2023-09-10T01:45:49Z,3,4,CLOSED
+single-cell-explorer,feat: Newsletter Banner,https://github.com/chanzuckerberg/single-cell-explorer/pull/601,2023-05-03T17:53:32Z,2023-07-06T22:20:32Z,16,9,MERGED
+single-cell-explorer,fix: upgrade github actions,https://github.com/chanzuckerberg/single-cell-explorer/pull/598,2023-04-27T22:55:39Z,2023-05-08T16:32:40Z,1,3,MERGED
+single-cell-explorer,chore: prod deploy; 4/27/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/596,2023-04-27T19:49:52Z,2023-04-27T20:00:56Z,1,2,MERGED
+single-cell-explorer,fix: pin Wekzeug to 2.2.3,https://github.com/chanzuckerberg/single-cell-explorer/pull/595,2023-04-26T15:31:31Z,2023-04-26T15:44:24Z,0,1,MERGED
+single-cell-explorer,staging deploy; 4/25/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/594,2023-04-25T17:38:59Z,2023-04-25T18:17:03Z,1,1,MERGED
+single-cell-explorer,chore: Prod deploy 4-20-2023,https://github.com/chanzuckerberg/single-cell-explorer/pull/593,2023-04-20T19:09:38Z,2023-04-20T19:09:56Z,0,3,MERGED
+single-cell-explorer,chore: Staging deployment 4-18-2023,https://github.com/chanzuckerberg/single-cell-explorer/pull/592,2023-04-18T17:04:45Z,2023-04-18T17:34:04Z,1,2,MERGED
+single-cell-explorer,"chore: prod deployment, apr 13th",https://github.com/chanzuckerberg/single-cell-explorer/pull/591,2023-04-13T16:55:03Z,2023-04-13T17:11:34Z,1,3,MERGED
+single-cell-explorer,apply pre-commit,https://github.com/chanzuckerberg/single-cell-explorer/pull/590,2023-04-12T22:10:31Z,2023-05-12T16:10:22Z,1,4,MERGED
+single-cell-explorer,chore: rename codecov to coverage,https://github.com/chanzuckerberg/single-cell-explorer/pull/589,2023-04-12T16:54:30Z,2023-04-12T18:24:15Z,1,1,MERGED
+single-cell-explorer,feat: add deployed_version endpoint,https://github.com/chanzuckerberg/single-cell-explorer/pull/588,2023-04-12T16:04:07Z,2023-05-16T18:28:26Z,3,8,MERGED
+single-cell-explorer,"chore: staging release, apr 11th",https://github.com/chanzuckerberg/single-cell-explorer/pull/587,2023-04-11T19:56:59Z,2023-04-11T19:57:13Z,0,1,MERGED
+single-cell-explorer,chore: update Docker base image to ubuntu 22,https://github.com/chanzuckerberg/single-cell-explorer/pull/586,2023-04-11T14:41:30Z,2023-04-12T18:56:01Z,2,2,MERGED
+single-cell-explorer,chore: fix local development,https://github.com/chanzuckerberg/single-cell-explorer/pull/584,2023-04-10T16:47:17Z,2023-04-10T17:02:37Z,1,2,MERGED
+single-cell-explorer,chore: add cellguide to navbar in explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/645,2023-07-28T15:59:06Z,2023-07-28T18:10:07Z,1,3,MERGED
+single-cell-explorer,chore:prod <--staging(#637),https://github.com/chanzuckerberg/single-cell-explorer/pull/642,2023-07-20T17:42:55Z,2023-07-20T18:00:20Z,1,1,MERGED
+single-cell-explorer,"Revert ""feat: Newsletter Banner""",https://github.com/chanzuckerberg/single-cell-explorer/pull/641,2023-07-19T13:39:50Z,2023-07-19T17:35:15Z,1,1,MERGED
+single-cell-explorer,chore:prod<-staging (#637),https://github.com/chanzuckerberg/single-cell-explorer/pull/639,2023-07-13T20:35:43Z,2023-07-13T20:55:44Z,1,1,MERGED
+single-cell-explorer,chore:staging<-main,https://github.com/chanzuckerberg/single-cell-explorer/pull/637,2023-07-11T21:28:43Z,2023-07-11T21:28:55Z,0,3,MERGED
+single-cell-explorer,fix: Modify CSP to Allow Hubspot,https://github.com/chanzuckerberg/single-cell-explorer/pull/634,2023-07-07T00:04:23Z,2023-07-07T17:07:23Z,0,1,MERGED
+single-cell-explorer,fix: Allow Connection to Hubspot,https://github.com/chanzuckerberg/single-cell-explorer/pull/633,2023-07-06T22:54:17Z,2023-07-06T23:34:44Z,3,3,MERGED
+single-cell-explorer,"chore: prod release, jun 29",https://github.com/chanzuckerberg/single-cell-explorer/pull/630,2023-06-29T18:22:10Z,2023-06-29T18:37:23Z,1,4,MERGED
+single-cell-explorer,"chore: staging release, june 27",https://github.com/chanzuckerberg/single-cell-explorer/pull/629,2023-06-27T18:12:51Z,2023-06-27T18:36:08Z,1,1,MERGED
+single-cell-explorer,chore: prod deploy; 06/22/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/628,2023-06-22T18:00:37Z,2023-06-22T18:08:18Z,2,2,CLOSED
+single-cell-explorer,chore: staging deploy; 06/20/23,https://github.com/chanzuckerberg/single-cell-explorer/pull/627,2023-06-20T18:20:18Z,2023-06-20T19:25:48Z,1,1,MERGED
+single-cell-explorer,chore: update dev guidelines for M1/M2 machines,https://github.com/chanzuckerberg/single-cell-explorer/pull/626,2023-06-16T18:49:54Z,2023-06-16T19:30:25Z,1,1,MERGED
+single-cell-explorer,fix: add census link in explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/625,2023-06-16T18:30:03Z,2023-06-21T16:15:13Z,6,6,MERGED
+single-cell-explorer,chore: Prod deploy 6-15-2023,https://github.com/chanzuckerberg/single-cell-explorer/pull/624,2023-06-15T17:52:54Z,2023-06-15T17:53:11Z,0,3,MERGED
+single-cell-explorer,chore: Staging Deploy 6-13-2023,https://github.com/chanzuckerberg/single-cell-explorer/pull/623,2023-06-13T19:58:23Z,2023-06-13T20:48:45Z,1,2,MERGED
+single-cell-explorer,chore: downsize dev explorer to 14G,https://github.com/chanzuckerberg/single-cell-explorer/pull/620,2023-06-09T16:51:48Z,2023-06-09T17:01:43Z,1,1,MERGED
+single-cell-explorer,"chore: prod deployment, jun 8th",https://github.com/chanzuckerberg/single-cell-explorer/pull/619,2023-06-08T18:37:09Z,2023-06-08T19:20:40Z,1,2,MERGED
+single-cell-explorer,"chore: staging release, jun 6th",https://github.com/chanzuckerberg/single-cell-explorer/pull/618,2023-06-06T19:55:05Z,2023-06-06T19:55:21Z,0,1,MERGED
+single-cell-explorer,chore: upgrade tiledb to 0.21.4,https://github.com/chanzuckerberg/single-cell-explorer/pull/617,2023-06-05T20:30:37Z,2023-06-05T20:40:49Z,0,1,MERGED
+single-cell-explorer,feat: exclude observation join id from standard and author categories,https://github.com/chanzuckerberg/single-cell-explorer/pull/674,2023-10-30T20:13:29Z,2023-10-31T17:06:15Z,4,5,MERGED
+single-cell-explorer,feat: add mypy to the server/common/utils directory,https://github.com/chanzuckerberg/single-cell-explorer/pull/672,2023-10-20T17:09:41Z,2023-12-18T20:56:44Z,7,12,MERGED
+single-cell-explorer,chore: add script to patch explorer to find portal rdev stack,https://github.com/chanzuckerberg/single-cell-explorer/pull/671,2023-10-19T14:03:30Z,2023-11-06T15:15:37Z,2,4,MERGED
+single-cell-explorer,chore: Deploy to Prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/665,2023-09-28T19:16:07Z,2023-09-28T19:34:09Z,1,19,MERGED
+single-cell-explorer,chore: Deploy to staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/664,2023-09-26T20:32:04Z,2023-09-26T20:45:10Z,1,17,MERGED
+single-cell-explorer,fix: fail happy deploy if service does not start successfully,https://github.com/chanzuckerberg/single-cell-explorer/pull/663,2023-09-26T17:42:27Z,2023-09-26T17:57:13Z,1,1,MERGED
+single-cell-explorer,chore: decrease memory usage in staging explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/661,2023-09-22T22:05:38Z,2023-09-23T00:09:28Z,1,2,MERGED
+single-cell-explorer,"Revert ""chore: update happy config task launch type (#651)""",https://github.com/chanzuckerberg/single-cell-explorer/pull/660,2023-09-20T17:29:00Z,2023-09-20T18:01:21Z,1,1,MERGED
+single-cell-explorer,tech: update frontend dependencies,https://github.com/chanzuckerberg/single-cell-explorer/pull/659,2023-09-19T18:58:30Z,2023-09-19T19:30:28Z,1,2,MERGED
+single-cell-explorer,(ignore),https://github.com/chanzuckerberg/single-cell-explorer/pull/658,2023-09-19T18:45:11Z,2023-09-19T18:57:20Z,1,1,CLOSED
+single-cell-explorer,tech: update backend dependencies,https://github.com/chanzuckerberg/single-cell-explorer/pull/657,2023-09-19T18:05:19Z,2023-09-19T22:23:55Z,1,11,MERGED
+single-cell-explorer,fix: treat boolean types as categoricals,https://github.com/chanzuckerberg/single-cell-explorer/pull/656,2023-09-19T17:22:06Z,2023-09-19T20:46:17Z,2,3,MERGED
+single-cell-explorer,fix: wrong integration secret in the rdev environment,https://github.com/chanzuckerberg/single-cell-explorer/pull/655,2023-09-14T23:36:31Z,2023-09-14T23:48:30Z,1,1,MERGED
+single-cell-explorer,chore:prod<-staging (#652),https://github.com/chanzuckerberg/single-cell-explorer/pull/654,2023-09-14T18:47:27Z,2023-09-14T18:47:34Z,0,1,MERGED
+single-cell-explorer,feat: drop int64 fields from cxg_schema in the obs array,https://github.com/chanzuckerberg/single-cell-explorer/pull/653,2023-09-13T17:18:05Z,2023-09-22T17:02:06Z,4,6,MERGED
+single-cell-explorer,chore:staging<-main,https://github.com/chanzuckerberg/single-cell-explorer/pull/652,2023-09-12T19:57:01Z,2023-09-12T19:57:14Z,0,4,MERGED
+single-cell-explorer,chore: update happy config task launch type,https://github.com/chanzuckerberg/single-cell-explorer/pull/651,2023-09-12T18:00:20Z,2023-09-12T18:11:23Z,2,1,MERGED
+single-cell-explorer,fix: override default so that issues are not marked as stale,https://github.com/chanzuckerberg/single-cell-explorer/pull/650,2023-08-23T20:13:54Z,2023-08-23T21:03:20Z,0,1,MERGED
+single-cell-explorer,chore: add to software catalog,https://github.com/chanzuckerberg/single-cell-explorer/pull/649,2023-08-23T14:56:07Z,2023-08-23T14:57:20Z,0,1,MERGED
+single-cell-explorer,feat: Add a Github Action that automatically closes stale PRs.,https://github.com/chanzuckerberg/single-cell-explorer/pull/647,2023-08-20T18:48:49Z,2023-08-21T20:37:10Z,1,1,MERGED
+single-cell-explorer,feat: update breadcrumbs to be truncated to include Collection,https://github.com/chanzuckerberg/single-cell-explorer/pull/692,2023-12-21T19:20:45Z,2023-12-22T14:33:16Z,1,1,MERGED
+single-cell-explorer,feat: add some structured support for mocking the dataset-metadata endpoint,https://github.com/chanzuckerberg/single-cell-explorer/pull/691,2023-12-21T18:15:18Z,2023-12-21T19:12:54Z,1,3,MERGED
+single-cell-explorer,"chore: prod deployment, dec 19th",https://github.com/chanzuckerberg/single-cell-explorer/pull/690,2023-12-19T18:09:40Z,2023-12-19T18:21:09Z,0,4,MERGED
+single-cell-explorer,"chore: staging deployment, dec 19th",https://github.com/chanzuckerberg/single-cell-explorer/pull/689,2023-12-19T17:26:32Z,2023-12-19T17:26:42Z,0,3,MERGED
+single-cell-explorer,Use canonical collection id for creating collection_url,https://github.com/chanzuckerberg/single-cell-explorer/pull/687,2023-12-18T18:29:22Z,2023-12-18T21:10:51Z,2,3,MERGED
+single-cell-explorer,chore: deploy prod <- staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/686,2023-12-14T21:42:06Z,2023-12-14T22:09:38Z,1,4,MERGED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/685,2023-12-13T21:08:39Z,2023-12-14T00:40:19Z,1,3,MERGED
+single-cell-explorer,fix(explorer): filter out where feature_is_filtered is true,https://github.com/chanzuckerberg/single-cell-explorer/pull/684,2023-12-12T20:22:59Z,2023-12-12T22:45:43Z,3,5,MERGED
+single-cell-explorer,chore: deploy prod <- staging (#681),https://github.com/chanzuckerberg/single-cell-explorer/pull/683,2023-12-08T00:04:12Z,2023-12-08T00:05:23Z,0,1,MERGED
+single-cell-explorer,chore: deploy staging <- main (#681),https://github.com/chanzuckerberg/single-cell-explorer/pull/682,2023-12-07T23:51:00Z,2023-12-07T23:51:09Z,0,1,CLOSED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/681,2023-12-07T18:58:01Z,2023-12-07T23:50:25Z,1,2,MERGED
+single-cell-explorer,feat(census-spotlight): update navbar to new layout,https://github.com/chanzuckerberg/single-cell-explorer/pull/677,2023-11-03T23:12:20Z,2023-12-19T16:24:57Z,7,10,MERGED
+single-cell-explorer,test: FSM error,https://github.com/chanzuckerberg/single-cell-explorer/pull/866,2024-03-30T19:05:50Z,2024-04-01T14:08:39Z,1,1,CLOSED
+single-cell-explorer,Seve/new test dataset,https://github.com/chanzuckerberg/single-cell-explorer/pull/865,2024-03-30T16:10:22Z,2024-04-15T14:53:37Z,3,10,CLOSED
+single-cell-explorer,"Revert ""chore: update spatial test dataset""",https://github.com/chanzuckerberg/single-cell-explorer/pull/864,2024-03-30T16:09:46Z,2024-03-30T16:10:01Z,0,1,MERGED
+single-cell-explorer,test: Fix e2e tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/863,2024-03-30T15:27:37Z,2024-04-15T14:53:53Z,2,2,CLOSED
+single-cell-explorer,chore: update spatial test dataset,https://github.com/chanzuckerberg/single-cell-explorer/pull/862,2024-03-29T19:53:12Z,2024-03-30T15:04:41Z,1,4,MERGED
+single-cell-explorer,chore: staging deployment 3/28,https://github.com/chanzuckerberg/single-cell-explorer/pull/860,2024-03-28T19:48:19Z,2024-03-28T20:36:27Z,1,4,MERGED
+single-cell-explorer,fix: Correctly load image underlay when initial layout is spatial,https://github.com/chanzuckerberg/single-cell-explorer/pull/859,2024-03-28T19:20:06Z,2024-03-29T17:26:58Z,1,2,MERGED
+single-cell-explorer,test: Add chromatic screenshots for all tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/856,2024-03-27T21:02:32Z,2024-03-30T16:10:49Z,2,9,MERGED
+single-cell-explorer,test: 799 spatial e2e test parity,https://github.com/chanzuckerberg/single-cell-explorer/pull/854,2024-03-27T14:59:58Z,2024-03-28T18:15:08Z,45,5,MERGED
+single-cell-explorer,feat: spatial refactor,https://github.com/chanzuckerberg/single-cell-explorer/pull/852,2024-03-26T20:13:28Z,2024-04-03T19:35:59Z,17,34,MERGED
+single-cell-explorer,chore: fix latent lint errors,https://github.com/chanzuckerberg/single-cell-explorer/pull/851,2024-03-26T20:01:34Z,2024-03-26T20:41:17Z,1,1,MERGED
+single-cell-explorer,chore: misc typing,https://github.com/chanzuckerberg/single-cell-explorer/pull/849,2024-03-25T18:00:17Z,2024-03-25T19:39:41Z,3,4,MERGED
+single-cell-explorer,fix: fix lasso canceling by removing definition checking,https://github.com/chanzuckerberg/single-cell-explorer/pull/848,2024-03-25T17:54:33Z,2024-03-25T18:02:10Z,3,1,MERGED
+single-cell-explorer,chore: prod deploy 3/28/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/846,2024-03-22T18:28:29Z,2024-03-28T22:19:03Z,1,13,MERGED
+single-cell-explorer,staging promotion,https://github.com/chanzuckerberg/single-cell-explorer/pull/842,2024-03-20T17:45:05Z,2024-03-20T18:06:41Z,1,7,MERGED
+single-cell-explorer,fix: 823 double image download,https://github.com/chanzuckerberg/single-cell-explorer/pull/837,2024-03-19T20:44:11Z,2024-03-19T20:44:20Z,0,1,MERGED
+single-cell-explorer,fix: add screenCap to cached props for diffing during render check,https://github.com/chanzuckerberg/single-cell-explorer/pull/835,2024-03-18T19:30:41Z,2024-03-19T20:50:59Z,5,4,MERGED
+single-cell-explorer,docs: change link to the CZI science community Slack,https://github.com/chanzuckerberg/single-cell-explorer/pull/834,2024-03-15T22:42:13Z,2024-03-19T17:24:24Z,1,2,MERGED
+single-cell-explorer,test: fix e2e test,https://github.com/chanzuckerberg/single-cell-explorer/pull/833,2024-03-15T17:54:38Z,2024-03-18T16:50:14Z,1,1,MERGED
+single-cell-explorer,fix: missing uns array returns error instead of None,https://github.com/chanzuckerberg/single-cell-explorer/pull/832,2024-03-15T15:59:19Z,2024-03-15T16:19:50Z,1,2,MERGED
+single-cell-explorer,"Revert ""fix: missing uns array returns error instead of None""",https://github.com/chanzuckerberg/single-cell-explorer/pull/831,2024-03-15T15:38:38Z,2024-03-15T15:45:38Z,0,1,MERGED
+single-cell-explorer,Wait for ECS deployment,https://github.com/chanzuckerberg/single-cell-explorer/pull/830,2024-03-15T13:44:15Z,2024-04-02T01:46:09Z,4,1,CLOSED
+single-cell-explorer,test: fix e2e test,https://github.com/chanzuckerberg/single-cell-explorer/pull/829,2024-03-14T19:31:08Z,2024-03-14T20:15:53Z,1,1,MERGED
+single-cell-explorer,chore: deploy prod 3/14/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/828,2024-03-14T19:25:23Z,2024-03-14T20:14:44Z,1,7,MERGED
+single-cell-explorer,chore: staging deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/827,2024-03-14T18:58:39Z,2024-03-14T19:06:53Z,1,6,MERGED
+single-cell-explorer,fix(spatial): use global api prefix for /spatial/meta calls,https://github.com/chanzuckerberg/single-cell-explorer/pull/822,2024-03-12T17:29:53Z,2024-03-12T17:48:44Z,1,2,MERGED
+single-cell-explorer,fix: remove empty attribute from config,https://github.com/chanzuckerberg/single-cell-explorer/pull/821,2024-03-11T20:48:56Z,2024-03-11T20:49:11Z,0,1,MERGED
+single-cell-explorer,fix: update CSP to allow for image fetching from backend,https://github.com/chanzuckerberg/single-cell-explorer/pull/819,2024-03-11T18:00:31Z,2024-03-11T19:01:42Z,1,1,MERGED
+single-cell-explorer,feat: enable image capture and download of graph,https://github.com/chanzuckerberg/single-cell-explorer/pull/817,2024-03-08T19:49:44Z,2024-03-08T22:28:24Z,2,3,MERGED
+single-cell-explorer,"chore: Prod Deploy March 7, 2024",https://github.com/chanzuckerberg/single-cell-explorer/pull/816,2024-03-07T21:52:19Z,2024-03-07T21:52:28Z,0,4,MERGED
+single-cell-explorer,"chore: Staging Deploy Part 2 - March 7, 2024",https://github.com/chanzuckerberg/single-cell-explorer/pull/815,2024-03-07T17:34:10Z,2024-03-07T17:34:19Z,0,1,MERGED
+single-cell-explorer,chore: add analytics to cg marker gene sets,https://github.com/chanzuckerberg/single-cell-explorer/pull/814,2024-03-07T17:14:40Z,2024-03-07T17:32:27Z,2,2,MERGED
+single-cell-explorer,"chore: Staging Deploy March 7, 2024",https://github.com/chanzuckerberg/single-cell-explorer/pull/813,2024-03-07T16:59:56Z,2024-03-07T17:00:41Z,0,1,MERGED
+single-cell-explorer,TEST DO NOT MERGE,https://github.com/chanzuckerberg/single-cell-explorer/pull/812,2024-03-05T23:28:14Z,2024-03-06T20:17:32Z,1,1,CLOSED
+single-cell-explorer,"chore: HOTFIX prod deployment March 4, 2024",https://github.com/chanzuckerberg/single-cell-explorer/pull/810,2024-03-04T23:20:10Z,2024-03-04T23:21:19Z,0,2,MERGED
+single-cell-explorer,chore: Staging deploy Match 4 2024,https://github.com/chanzuckerberg/single-cell-explorer/pull/809,2024-03-04T23:02:06Z,2024-03-04T23:02:27Z,0,1,MERGED
+single-cell-explorer,fix: fix regex API prefix substitution for dataset selection,https://github.com/chanzuckerberg/single-cell-explorer/pull/807,2024-03-04T21:49:28Z,2024-03-04T22:41:11Z,3,3,MERGED
+single-cell-explorer,feat: Spatial Mode User Story 1,https://github.com/chanzuckerberg/single-cell-explorer/pull/805,2024-03-04T18:58:29Z,2024-03-08T21:50:14Z,26,22,MERGED
+single-cell-explorer,feat: add geneset initialization,https://github.com/chanzuckerberg/single-cell-explorer/pull/803,2024-03-03T03:36:01Z,2024-03-07T00:09:36Z,12,15,MERGED
+single-cell-explorer,test: add snapshots to graph related tests also disable chromatic on geneset names and tooltips,https://github.com/chanzuckerberg/single-cell-explorer/pull/802,2024-02-29T20:30:08Z,2024-03-08T19:42:24Z,8,9,MERGED
+single-cell-explorer,"staging deployment, feb 29th",https://github.com/chanzuckerberg/single-cell-explorer/pull/801,2024-02-29T18:52:20Z,2024-02-29T19:03:02Z,1,4,MERGED
+single-cell-explorer,feat(img): capture graph as a image for testing and user download,https://github.com/chanzuckerberg/single-cell-explorer/pull/796,2024-02-28T00:41:54Z,2024-02-28T16:26:04Z,8,1,MERGED
+single-cell-explorer,feat: remove author and standard categories for cellguide cxgs and add singletons back,https://github.com/chanzuckerberg/single-cell-explorer/pull/795,2024-02-26T22:56:11Z,2024-02-26T23:39:28Z,1,1,MERGED
+single-cell-explorer,chore: deploy prod 2/26,https://github.com/chanzuckerberg/single-cell-explorer/pull/794,2024-02-26T19:24:31Z,2024-02-26T19:48:05Z,1,27,MERGED
+single-cell-explorer,feat: deploy to staging 2/26,https://github.com/chanzuckerberg/single-cell-explorer/pull/793,2024-02-26T19:22:39Z,2024-02-26T19:23:50Z,0,0,MERGED
+single-cell-explorer,feat: fix explorer API for handling subpaths in S3,https://github.com/chanzuckerberg/single-cell-explorer/pull/792,2024-02-26T18:43:26Z,2024-02-26T19:21:53Z,6,1,MERGED
+single-cell-explorer,"Revert ""chore: deploy staging (TEST) 2/24""",https://github.com/chanzuckerberg/single-cell-explorer/pull/791,2024-02-25T02:09:14Z,2024-02-25T02:09:21Z,0,1,MERGED
+single-cell-explorer,chore: deploy staging (TEST) 2/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/790,2024-02-24T19:15:58Z,2024-02-24T19:16:15Z,0,5,MERGED
+single-cell-explorer,fix: reactivate strict slashes,https://github.com/chanzuckerberg/single-cell-explorer/pull/789,2024-02-23T23:25:18Z,2024-02-23T23:25:35Z,0,1,MERGED
+single-cell-explorer,"chore(ts): Type the graph, lasso, and some rendering code",https://github.com/chanzuckerberg/single-cell-explorer/pull/788,2024-02-23T22:14:16Z,2024-02-27T21:53:28Z,6,4,MERGED
+single-cell-explorer,"Revert ""feat: split new cellguide cxg regex into another constant""",https://github.com/chanzuckerberg/single-cell-explorer/pull/787,2024-02-23T19:30:00Z,2024-02-23T19:30:07Z,0,1,MERGED
+single-cell-explorer,feat: split new cellguide cxg regex into another constant,https://github.com/chanzuckerberg/single-cell-explorer/pull/786,2024-02-23T19:17:04Z,2024-02-23T19:20:10Z,1,6,MERGED
+single-cell-explorer,chore: deploy staging <- main,https://github.com/chanzuckerberg/single-cell-explorer/pull/785,2024-02-22T23:01:20Z,2024-02-22T23:31:36Z,1,15,MERGED
+single-cell-explorer,test: Enable trucate test,https://github.com/chanzuckerberg/single-cell-explorer/pull/783,2024-02-22T16:27:33Z,2024-02-23T15:20:05Z,1,1,MERGED
+single-cell-explorer,chore: update chromatic project dir,https://github.com/chanzuckerberg/single-cell-explorer/pull/782,2024-02-22T00:05:09Z,2024-02-22T00:05:16Z,0,1,MERGED
+single-cell-explorer,chore: restore path,https://github.com/chanzuckerberg/single-cell-explorer/pull/781,2024-02-21T23:49:57Z,2024-02-21T23:50:03Z,0,1,MERGED
+single-cell-explorer,test: Update GHA working dir (#779),https://github.com/chanzuckerberg/single-cell-explorer/pull/780,2024-02-21T23:48:22Z,2024-02-21T23:48:35Z,0,0,CLOSED
+single-cell-explorer,test: Update GHA working dir,https://github.com/chanzuckerberg/single-cell-explorer/pull/779,2024-02-21T23:19:10Z,2024-02-21T23:19:17Z,0,1,MERGED
+single-cell-explorer,test: Use ubuntu instead of macos,https://github.com/chanzuckerberg/single-cell-explorer/pull/778,2024-02-21T22:44:48Z,2024-02-21T23:01:40Z,1,1,MERGED
+single-cell-explorer,feat: add new api rule for cellguide cxgs,https://github.com/chanzuckerberg/single-cell-explorer/pull/777,2024-02-21T22:17:45Z,2024-02-23T18:56:48Z,1,5,MERGED
+single-cell-explorer,test: assertGenesetExists fail fast,https://github.com/chanzuckerberg/single-cell-explorer/pull/776,2024-02-21T22:09:03Z,2024-02-21T22:09:09Z,0,1,MERGED
+single-cell-explorer,test: MOAR tryUntil,https://github.com/chanzuckerberg/single-cell-explorer/pull/775,2024-02-21T21:40:50Z,2024-02-21T21:40:59Z,0,1,MERGED
+single-cell-explorer,test: Add try until again,https://github.com/chanzuckerberg/single-cell-explorer/pull/774,2024-02-21T19:44:16Z,2024-02-21T19:44:22Z,0,1,MERGED
+single-cell-explorer,test: Try 5 mins per test timeout,https://github.com/chanzuckerberg/single-cell-explorer/pull/773,2024-02-21T19:20:15Z,2024-02-21T19:20:22Z,0,1,MERGED
+single-cell-explorer,test: Add try until,https://github.com/chanzuckerberg/single-cell-explorer/pull/772,2024-02-21T18:48:17Z,2024-02-21T18:48:25Z,0,1,MERGED
+single-cell-explorer,chore: Update e2e test timeout to prevent flaky tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/770,2024-02-20T22:51:22Z,2024-02-21T01:13:27Z,1,1,MERGED
+single-cell-explorer,feat: add feature flags to explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/769,2024-02-20T22:30:43Z,2024-02-21T20:23:51Z,5,4,MERGED
+single-cell-explorer,chore: remove debug code,https://github.com/chanzuckerberg/single-cell-explorer/pull/768,2024-02-20T17:40:34Z,2024-02-20T17:40:41Z,0,1,MERGED
+single-cell-explorer,chore: fix GHA upload syntax,https://github.com/chanzuckerberg/single-cell-explorer/pull/767,2024-02-20T16:50:26Z,2024-02-20T16:50:33Z,0,1,MERGED
+single-cell-explorer,chore: test artifact upload again,https://github.com/chanzuckerberg/single-cell-explorer/pull/766,2024-02-20T16:47:01Z,2024-02-20T16:47:10Z,0,1,MERGED
+single-cell-explorer,chore: Update deploy GHA artifact upload paths,https://github.com/chanzuckerberg/single-cell-explorer/pull/765,2024-02-20T16:17:44Z,2024-02-20T16:17:58Z,0,1,MERGED
+single-cell-explorer,feat: spatial poc WIP,https://github.com/chanzuckerberg/single-cell-explorer/pull/764,2024-02-16T00:14:28Z,2024-03-04T18:58:07Z,4,17,CLOSED
+single-cell-explorer,chore: prod deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/763,2024-02-14T23:14:52Z,2024-02-14T23:31:26Z,1,9,MERGED
+single-cell-explorer,chore: deploy to stage,https://github.com/chanzuckerberg/single-cell-explorer/pull/762,2024-02-14T21:48:41Z,2024-02-14T22:03:30Z,1,4,MERGED
+single-cell-explorer,chore: bump tiledb to 0.25.0,https://github.com/chanzuckerberg/single-cell-explorer/pull/761,2024-02-14T21:17:31Z,2024-02-14T21:26:45Z,1,1,MERGED
+single-cell-explorer,test: Add linux snapshots,https://github.com/chanzuckerberg/single-cell-explorer/pull/759,2024-02-14T19:36:47Z,2024-02-14T20:35:19Z,1,1,MERGED
+single-cell-explorer,ci: correctly locate package-lock,https://github.com/chanzuckerberg/single-cell-explorer/pull/758,2024-02-14T17:41:59Z,2024-02-14T17:52:13Z,1,1,MERGED
+single-cell-explorer,ci: fix indentation in file,https://github.com/chanzuckerberg/single-cell-explorer/pull/757,2024-02-14T00:12:29Z,2024-02-14T00:22:53Z,1,1,MERGED
+single-cell-explorer,chore: deploy to staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/756,2024-02-13T23:46:02Z,2024-02-13T23:57:21Z,1,3,MERGED
+single-cell-explorer,ci: add e2e tests on deployments,https://github.com/chanzuckerberg/single-cell-explorer/pull/752,2024-02-13T21:50:21Z,2024-02-13T23:40:00Z,1,6,MERGED
+single-cell-explorer,feat: spatial poc,https://github.com/chanzuckerberg/single-cell-explorer/pull/751,2024-02-13T20:47:32Z,2024-02-14T15:43:21Z,0,2,CLOSED
+single-cell-explorer,test: add methods to fail tests on error logs and uncaught errors,https://github.com/chanzuckerberg/single-cell-explorer/pull/750,2024-02-12T21:59:57Z,2024-02-13T17:17:20Z,1,2,MERGED
+single-cell-explorer,"Revert ""chore: staging->prod (#722)""",https://github.com/chanzuckerberg/single-cell-explorer/pull/748,2024-02-06T23:49:31Z,2024-02-07T00:18:41Z,2,1,MERGED
+single-cell-explorer,refactor: Chromatic GHA config,https://github.com/chanzuckerberg/single-cell-explorer/pull/747,2024-02-06T23:33:17Z,2024-04-17T16:13:01Z,1,2,CLOSED
+single-cell-explorer,fix: logging,https://github.com/chanzuckerberg/single-cell-explorer/pull/743,2024-02-05T23:31:19Z,2024-02-05T23:48:09Z,1,1,CLOSED
+single-cell-explorer,test: fix test failures related to undo/redo,https://github.com/chanzuckerberg/single-cell-explorer/pull/740,2024-02-02T00:28:26Z,2024-02-13T16:33:02Z,10,16,MERGED
+single-cell-explorer,chore: deploy to prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/739,2024-02-01T21:47:26Z,2024-02-01T21:57:50Z,1,1,MERGED
+single-cell-explorer,chore: 717 Add Chromatic and Storybook,https://github.com/chanzuckerberg/single-cell-explorer/pull/723,2024-01-31T23:58:23Z,2024-02-06T15:23:57Z,2,3,MERGED
+single-cell-explorer,chore: staging->prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/722,2024-01-25T21:09:12Z,2024-01-25T21:23:34Z,1,7,MERGED
+single-cell-explorer,chore: main->staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/721,2024-01-25T21:08:38Z,2024-01-25T21:08:46Z,0,6,MERGED
+single-cell-explorer,fix: use AppConfig to configure logging for server,https://github.com/chanzuckerberg/single-cell-explorer/pull/720,2024-01-24T23:46:49Z,2024-02-02T23:07:16Z,7,9,MERGED
+single-cell-explorer,feat(playwright): migrate tests and e2e utils,https://github.com/chanzuckerberg/single-cell-explorer/pull/709,2024-01-18T21:59:47Z,2024-01-23T18:06:41Z,15,26,MERGED
+single-cell-explorer,fix(explorer): enable Safari and fix bundled image path,https://github.com/chanzuckerberg/single-cell-explorer/pull/708,2024-01-17T22:16:43Z,2024-01-17T22:39:11Z,1,4,MERGED
+single-cell-explorer,fix(explorer): bundle images,https://github.com/chanzuckerberg/single-cell-explorer/pull/707,2024-01-17T21:29:26Z,2024-01-17T21:40:55Z,0,3,MERGED
+single-cell-explorer,fix(explorer): fix image path,https://github.com/chanzuckerberg/single-cell-explorer/pull/706,2024-01-17T19:12:37Z,2024-01-17T19:29:43Z,1,1,MERGED
+single-cell-explorer,fix(explorer): update image path,https://github.com/chanzuckerberg/single-cell-explorer/pull/705,2024-01-17T19:09:51Z,2024-01-17T19:11:52Z,0,3,CLOSED
+single-cell-explorer,chore(explorer): enable safari fix browser page,https://github.com/chanzuckerberg/single-cell-explorer/pull/704,2024-01-17T16:27:02Z,2024-01-17T18:42:09Z,4,2,MERGED
+single-cell-explorer,chore: enable safari,https://github.com/chanzuckerberg/single-cell-explorer/pull/703,2024-01-16T19:28:43Z,2024-01-17T16:24:55Z,1,1,CLOSED
+single-cell-explorer,"Install and setup playwright, successfully run example test",https://github.com/chanzuckerberg/single-cell-explorer/pull/701,2024-01-09T18:14:39Z,2024-01-18T22:05:12Z,9,3,MERGED
+single-cell-explorer,chore: prod deploy 1/4/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/700,2024-01-04T18:32:10Z,2024-01-04T18:42:56Z,1,3,MERGED
+single-cell-explorer,chore: staging deploy 1/4/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/699,2024-01-04T18:31:42Z,2024-01-04T18:31:51Z,0,2,MERGED
+single-cell-explorer,test: Add deep zoom e2e tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/959,2024-05-30T20:58:39Z,2024-06-03T20:14:35Z,13,2,MERGED
+single-cell-explorer,chore: set up GH actions for staging & prod Argus stacks,https://github.com/chanzuckerberg/single-cell-explorer/pull/958,2024-05-30T20:56:20Z,2024-06-07T19:22:17Z,7,18,MERGED
+single-cell-explorer,feat(side-by-side): Initial panel for side by side embedding,https://github.com/chanzuckerberg/single-cell-explorer/pull/957,2024-05-30T19:22:40Z,2024-06-04T22:34:22Z,17,10,MERGED
+single-cell-explorer,fix: updated super-cool-spatial,https://github.com/chanzuckerberg/single-cell-explorer/pull/954,2024-05-28T19:19:07Z,2024-05-28T19:50:07Z,0,1,MERGED
+single-cell-explorer,fix: exclude specific ontology term id keys,https://github.com/chanzuckerberg/single-cell-explorer/pull/953,2024-05-28T18:27:56Z,2024-06-07T17:17:21Z,1,4,MERGED
+single-cell-explorer,fix: updated super cool spatial,https://github.com/chanzuckerberg/single-cell-explorer/pull/952,2024-05-28T18:19:38Z,2024-05-28T19:12:57Z,0,1,CLOSED
+single-cell-explorer,feat: Deep zoom,https://github.com/chanzuckerberg/single-cell-explorer/pull/951,2024-05-28T17:33:14Z,2024-05-29T15:07:17Z,0,2,CLOSED
+single-cell-explorer,fix: 858 jason bug 2,https://github.com/chanzuckerberg/single-cell-explorer/pull/948,2024-05-25T15:37:23Z,2024-05-28T22:25:21Z,0,1,MERGED
+single-cell-explorer,fix: no floating promises,https://github.com/chanzuckerberg/single-cell-explorer/pull/946,2024-05-23T20:44:04Z,2024-05-23T21:28:18Z,0,1,MERGED
+single-cell-explorer,pr review,https://github.com/chanzuckerberg/single-cell-explorer/pull/944,2024-05-23T18:34:09Z,2024-05-23T23:24:18Z,7,3,CLOSED
+single-cell-explorer,fix: 936 embedding cell count,https://github.com/chanzuckerberg/single-cell-explorer/pull/942,2024-05-22T16:12:36Z,2024-05-23T21:59:51Z,8,1,MERGED
+single-cell-explorer,fix: 940 hide image toggle,https://github.com/chanzuckerberg/single-cell-explorer/pull/941,2024-05-21T22:37:02Z,2024-05-22T22:08:13Z,1,2,MERGED
+single-cell-explorer,fix: 936 embedding cell count,https://github.com/chanzuckerberg/single-cell-explorer/pull/939,2024-05-21T20:44:16Z,2024-05-21T22:42:42Z,2,1,CLOSED
+single-cell-explorer,fix: Export image update,https://github.com/chanzuckerberg/single-cell-explorer/pull/935,2024-05-17T21:50:52Z,2024-05-22T21:26:35Z,3,1,MERGED
+single-cell-explorer,prod deploy 5/16/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/933,2024-05-16T17:31:38Z,2024-05-17T12:42:41Z,0,3,MERGED
+single-cell-explorer,staging deploy 5/16/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/932,2024-05-16T17:14:46Z,2024-05-16T17:31:20Z,0,2,MERGED
+single-cell-explorer,chore: Unblock PR tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/931,2024-05-15T18:27:47Z,2024-05-24T20:49:41Z,4,7,MERGED
+single-cell-explorer,feat: Home button,https://github.com/chanzuckerberg/single-cell-explorer/pull/930,2024-05-15T16:21:50Z,2024-05-15T20:01:05Z,9,2,MERGED
+single-cell-explorer,feat: Deep zoom,https://github.com/chanzuckerberg/single-cell-explorer/pull/929,2024-05-10T20:03:29Z,2024-05-29T17:21:28Z,49,3,MERGED
+single-cell-explorer,chore: prevent subset when 0 cells are selected,https://github.com/chanzuckerberg/single-cell-explorer/pull/921,2024-05-10T17:38:36Z,2024-05-10T18:01:27Z,0,2,MERGED
+single-cell-explorer,chore: Prod deployment 5/9/2024,https://github.com/chanzuckerberg/single-cell-explorer/pull/919,2024-05-09T18:14:38Z,2024-05-09T18:15:16Z,0,21,MERGED
+single-cell-explorer,feat: move continuous fields to the dataset drawer if there is a single value for all cells,https://github.com/chanzuckerberg/single-cell-explorer/pull/918,2024-05-08T22:26:38Z,2024-05-10T19:04:23Z,5,9,MERGED
+single-cell-explorer,chore: Deploy staging 5/8/2024,https://github.com/chanzuckerberg/single-cell-explorer/pull/917,2024-05-08T21:50:05Z,2024-05-08T21:50:17Z,0,3,MERGED
+single-cell-explorer,test: Add await for skeleton before assertions,https://github.com/chanzuckerberg/single-cell-explorer/pull/916,2024-05-08T20:29:20Z,2024-05-08T20:50:22Z,0,1,MERGED
+single-cell-explorer,test: Update cell guide test name,https://github.com/chanzuckerberg/single-cell-explorer/pull/914,2024-05-08T18:16:45Z,2024-05-08T18:31:51Z,0,1,MERGED
+single-cell-explorer,"chore: staging deployment, may 3rd",https://github.com/chanzuckerberg/single-cell-explorer/pull/911,2024-05-03T19:14:58Z,2024-05-03T22:10:17Z,0,16,MERGED
+single-cell-explorer,chore: Add timeout to unit test,https://github.com/chanzuckerberg/single-cell-explorer/pull/908,2024-05-02T20:34:21Z,2024-05-02T20:34:37Z,0,1,MERGED
+single-cell-explorer,Heathj/demo2,https://github.com/chanzuckerberg/single-cell-explorer/pull/906,2024-04-30T18:15:58Z,2024-05-01T16:55:55Z,1,60,CLOSED
+single-cell-explorer,Heathj/demo,https://github.com/chanzuckerberg/single-cell-explorer/pull/905,2024-04-30T16:50:41Z,2024-05-01T16:55:43Z,1,2,CLOSED
+single-cell-explorer,ci: speed up publish to chromatic step,https://github.com/chanzuckerberg/single-cell-explorer/pull/904,2024-04-29T17:55:41Z,2024-05-02T18:21:30Z,0,2,MERGED
+single-cell-explorer,chore: add e2e tests for cellguide cxgs and related features,https://github.com/chanzuckerberg/single-cell-explorer/pull/902,2024-04-26T19:04:18Z,2024-04-29T22:31:57Z,8,13,MERGED
+single-cell-explorer,feat: allow argus throught he CORS policy,https://github.com/chanzuckerberg/single-cell-explorer/pull/900,2024-04-25T22:26:45Z,2024-04-25T22:31:32Z,0,2,CLOSED
+single-cell-explorer,test: Create chromatic snapshot testing for image downloads,https://github.com/chanzuckerberg/single-cell-explorer/pull/889,2024-04-17T20:58:50Z,2024-05-07T20:45:10Z,10,22,MERGED
+single-cell-explorer,chore: configure stack management actions,https://github.com/chanzuckerberg/single-cell-explorer/pull/888,2024-04-17T20:05:40Z,2024-04-24T00:20:36Z,4,11,MERGED
+single-cell-explorer,feat: setup explorer on argus,https://github.com/chanzuckerberg/single-cell-explorer/pull/886,2024-04-17T15:56:56Z,2024-06-20T14:46:50Z,16,86,MERGED
+single-cell-explorer,feat: include a legend image for categorical colorby,https://github.com/chanzuckerberg/single-cell-explorer/pull/884,2024-04-12T20:36:53Z,2024-04-15T16:43:16Z,5,4,MERGED
+single-cell-explorer,feat: add back navbar to all cellguide instances,https://github.com/chanzuckerberg/single-cell-explorer/pull/883,2024-04-11T16:47:17Z,2024-04-17T16:39:19Z,0,2,MERGED
+single-cell-explorer,chore: update CXG docs,https://github.com/chanzuckerberg/single-cell-explorer/pull/882,2024-04-10T11:42:25Z,2024-04-10T17:23:26Z,5,4,MERGED
+single-cell-explorer,fix: spatial test and dataset,https://github.com/chanzuckerberg/single-cell-explorer/pull/881,2024-04-08T14:24:03Z,2024-04-09T09:25:08Z,1,4,MERGED
+single-cell-explorer,unit tests and slight refactor,https://github.com/chanzuckerberg/single-cell-explorer/pull/880,2024-04-08T14:12:22Z,2024-04-08T14:15:04Z,0,12,CLOSED
+single-cell-explorer,[DO NOT MERGE] spike: deep zoom,https://github.com/chanzuckerberg/single-cell-explorer/pull/879,2024-04-05T22:07:20Z,2024-05-14T16:05:46Z,3,2,CLOSED
+single-cell-explorer,feat(download): include a continuous legend in image downloads,https://github.com/chanzuckerberg/single-cell-explorer/pull/878,2024-04-05T18:20:46Z,2024-04-09T18:01:44Z,10,4,MERGED
+single-cell-explorer,fix: unit tests and slight refactor,https://github.com/chanzuckerberg/single-cell-explorer/pull/877,2024-04-04T12:15:00Z,2024-04-04T19:02:27Z,3,9,MERGED
+single-cell-explorer,fix: remove implicit state toggling for spatial underlay in favor of explicit state setting,https://github.com/chanzuckerberg/single-cell-explorer/pull/876,2024-04-03T22:13:03Z,2024-04-04T22:51:36Z,2,3,MERGED
+single-cell-explorer,feat: info panel search for gene and cell type,https://github.com/chanzuckerberg/single-cell-explorer/pull/1061,2024-07-29T21:27:24Z,2024-08-01T21:04:04Z,1,10,MERGED
+single-cell-explorer,fix: Add tissue_type to standard categories,https://github.com/chanzuckerberg/single-cell-explorer/pull/1060,2024-07-29T17:41:07Z,2024-07-31T15:26:47Z,0,5,MERGED
+single-cell-explorer,fix: Make menu bar responsive,https://github.com/chanzuckerberg/single-cell-explorer/pull/1059,2024-07-25T19:20:37Z,2024-07-30T18:16:14Z,11,27,MERGED
+single-cell-explorer,fix: Make Menubar responsive,https://github.com/chanzuckerberg/single-cell-explorer/pull/1056,2024-07-25T17:28:55Z,2024-07-25T18:49:11Z,0,6,CLOSED
+single-cell-explorer,chore: Turn off logging comments,https://github.com/chanzuckerberg/single-cell-explorer/pull/1055,2024-07-25T14:41:04Z,2024-07-25T18:50:33Z,0,2,MERGED
+single-cell-explorer,fix: 1053 Truncate histogram and dataset info panel,https://github.com/chanzuckerberg/single-cell-explorer/pull/1054,2024-07-24T21:54:18Z,2024-07-25T20:23:26Z,4,2,MERGED
+single-cell-explorer,chore: remove .happy directory and happy-related GH Actions,https://github.com/chanzuckerberg/single-cell-explorer/pull/1052,2024-07-24T14:56:35Z,2024-07-29T15:38:43Z,0,9,MERGED
+single-cell-explorer,chore: Changes to analytics names and timing,https://github.com/chanzuckerberg/single-cell-explorer/pull/1051,2024-07-23T17:44:56Z,2024-07-23T20:19:58Z,4,6,MERGED
+single-cell-explorer,test: Make test more robust,https://github.com/chanzuckerberg/single-cell-explorer/pull/1049,2024-07-19T21:21:07Z,2024-07-22T17:44:37Z,0,2,MERGED
+single-cell-explorer,fix: Conditionally apply opacity to the dots,https://github.com/chanzuckerberg/single-cell-explorer/pull/1047,2024-07-19T16:35:07Z,2024-07-23T18:51:29Z,2,6,MERGED
+single-cell-explorer,chore: DP#7155 Update analytics part 2,https://github.com/chanzuckerberg/single-cell-explorer/pull/1045,2024-07-19T15:34:32Z,2024-07-23T16:40:57Z,3,2,MERGED
+single-cell-explorer,feat: cell type info and info panel refactor,https://github.com/chanzuckerberg/single-cell-explorer/pull/1043,2024-07-18T21:06:33Z,2024-07-23T22:44:58Z,12,29,MERGED
+single-cell-explorer,fix: Add mix blend mode to canvas,https://github.com/chanzuckerberg/single-cell-explorer/pull/1042,2024-07-18T17:35:53Z,2024-07-19T14:32:34Z,3,2,MERGED
+single-cell-explorer,chore: DP#7155 Update analytics Part 1,https://github.com/chanzuckerberg/single-cell-explorer/pull/1041,2024-07-18T15:33:11Z,2024-07-19T20:31:00Z,15,3,MERGED
+single-cell-explorer,fix: Prod analytics,https://github.com/chanzuckerberg/single-cell-explorer/pull/1039,2024-07-15T19:36:20Z,2024-07-15T19:36:47Z,0,1,MERGED
+single-cell-explorer,chore: invoke smoke tests against every prod deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/1037,2024-07-15T18:39:18Z,2024-07-15T18:40:15Z,0,1,MERGED
+single-cell-explorer,chore: use cloudfront domains in Argus config,https://github.com/chanzuckerberg/single-cell-explorer/pull/1036,2024-07-15T17:41:25Z,2024-07-15T17:46:46Z,0,1,MERGED
+single-cell-explorer,fix: Remove the wrong lasso in the other panel,https://github.com/chanzuckerberg/single-cell-explorer/pull/1035,2024-07-12T18:58:50Z,2024-07-12T20:15:44Z,1,5,MERGED
+single-cell-explorer,fix: local console errors,https://github.com/chanzuckerberg/single-cell-explorer/pull/1033,2024-07-10T21:55:43Z,2024-07-11T21:47:59Z,3,2,MERGED
+single-cell-explorer,fix: padding of info panel content,https://github.com/chanzuckerberg/single-cell-explorer/pull/1032,2024-07-10T20:49:25Z,2024-07-10T21:19:51Z,0,2,MERGED
+single-cell-explorer,fix: diffexp notif,https://github.com/chanzuckerberg/single-cell-explorer/pull/1031,2024-07-10T15:11:39Z,2024-07-10T16:28:34Z,0,4,MERGED
+single-cell-explorer,fix: info panel tabs,https://github.com/chanzuckerberg/single-cell-explorer/pull/1030,2024-07-09T20:04:16Z,2024-07-10T15:42:52Z,0,6,MERGED
+single-cell-explorer,feat: 6867 6868 image and dot opacity,https://github.com/chanzuckerberg/single-cell-explorer/pull/1029,2024-07-09T17:29:14Z,2024-07-11T22:24:37Z,14,5,MERGED
+single-cell-explorer,feat(de): add diffex notice,https://github.com/chanzuckerberg/single-cell-explorer/pull/1028,2024-07-09T16:38:05Z,2024-07-09T17:48:05Z,3,9,MERGED
+single-cell-explorer,fix: hide side panel toggle for single embedding,https://github.com/chanzuckerberg/single-cell-explorer/pull/1027,2024-07-09T15:22:48Z,2024-07-09T16:02:18Z,1,2,MERGED
+single-cell-explorer,feat: limit zoom level for hires,https://github.com/chanzuckerberg/single-cell-explorer/pull/1026,2024-07-08T17:30:58Z,2024-07-08T20:39:51Z,0,9,MERGED
+single-cell-explorer,chore: Update conventional commit GHA,https://github.com/chanzuckerberg/single-cell-explorer/pull/1025,2024-07-08T16:24:15Z,2024-07-08T17:16:19Z,0,1,MERGED
+single-cell-explorer,chore: Add test for bug #1022 color by category,https://github.com/chanzuckerberg/single-cell-explorer/pull/1024,2024-07-08T15:18:15Z,2024-07-09T17:34:52Z,1,3,MERGED
+single-cell-explorer,fix: 1022 Fix color by category bug,https://github.com/chanzuckerberg/single-cell-explorer/pull/1023,2024-07-05T20:52:28Z,2024-07-05T21:15:48Z,1,1,MERGED
+single-cell-explorer,feat: accurate and dynamic dot size for spatial,https://github.com/chanzuckerberg/single-cell-explorer/pull/1021,2024-07-05T18:14:42Z,2024-07-08T17:11:32Z,0,6,MERGED
+single-cell-explorer,Rdev gogo,https://github.com/chanzuckerberg/single-cell-explorer/pull/1019,2024-07-02T22:48:41Z,2024-07-02T22:58:52Z,0,3,CLOSED
+single-cell-explorer,feat: add docker login line for core platform,https://github.com/chanzuckerberg/single-cell-explorer/pull/1018,2024-07-02T22:45:39Z,2024-07-03T16:00:58Z,0,5,MERGED
+single-cell-explorer,chore: tune smoke test invocation,https://github.com/chanzuckerberg/single-cell-explorer/pull/1017,2024-07-02T20:31:19Z,2024-07-02T21:33:12Z,0,8,MERGED
+single-cell-explorer,chore: test required checks,https://github.com/chanzuckerberg/single-cell-explorer/pull/1016,2024-07-02T18:24:30Z,2024-07-02T19:08:10Z,1,5,MERGED
+single-cell-explorer,feat: Remove spatial feature flag,https://github.com/chanzuckerberg/single-cell-explorer/pull/1015,2024-07-02T18:21:16Z,2024-08-07T15:47:13Z,2,2,MERGED
+single-cell-explorer,chore: bump staging memory,https://github.com/chanzuckerberg/single-cell-explorer/pull/1014,2024-07-02T17:25:57Z,2024-07-02T17:30:03Z,0,2,MERGED
+single-cell-explorer,chore: configure e2e tests to run against staging before prod can deploy,https://github.com/chanzuckerberg/single-cell-explorer/pull/1012,2024-07-01T21:50:32Z,2024-07-02T15:11:43Z,6,7,MERGED
+single-cell-explorer,fix: GE scroll and overflow,https://github.com/chanzuckerberg/single-cell-explorer/pull/1011,2024-06-28T17:05:03Z,2024-07-02T16:46:15Z,1,6,MERGED
+single-cell-explorer,fix: GE scroll and overflow,https://github.com/chanzuckerberg/single-cell-explorer/pull/1010,2024-06-27T18:54:09Z,2024-06-28T16:59:35Z,0,7,CLOSED
+single-cell-explorer,chore: bump chart to 1.3.0,https://github.com/chanzuckerberg/single-cell-explorer/pull/1009,2024-06-27T17:18:57Z,2024-06-27T17:42:38Z,0,1,MERGED
+single-cell-explorer,chore: nest common yaml values,https://github.com/chanzuckerberg/single-cell-explorer/pull/1008,2024-06-27T16:22:39Z,2024-06-27T16:22:47Z,0,1,MERGED
+single-cell-explorer,chore: update env vars and set up additional ingress rules,https://github.com/chanzuckerberg/single-cell-explorer/pull/1007,2024-06-27T15:51:59Z,2024-06-27T16:02:06Z,0,5,MERGED
+single-cell-explorer,fix: Fix squished side panel after download,https://github.com/chanzuckerberg/single-cell-explorer/pull/1006,2024-06-25T21:55:56Z,2024-06-26T06:55:37Z,0,1,MERGED
+single-cell-explorer,chore: update env vars to use cloudfront domains,https://github.com/chanzuckerberg/single-cell-explorer/pull/1005,2024-06-25T21:54:18Z,2024-06-25T23:10:26Z,1,1,MERGED
+single-cell-explorer,fix: 1001 No download image for minimized panel,https://github.com/chanzuckerberg/single-cell-explorer/pull/1004,2024-06-24T21:50:40Z,2024-06-24T23:10:45Z,1,1,MERGED
+single-cell-explorer,chore: tune Argus configuration,https://github.com/chanzuckerberg/single-cell-explorer/pull/1003,2024-06-21T18:03:15Z,2024-06-21T18:15:19Z,0,5,MERGED
+single-cell-explorer,chore: use correct roles for staging & prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/1002,2024-06-20T23:23:48Z,2024-06-20T23:24:41Z,0,1,MERGED
+single-cell-explorer,chore: Analytics - embedding mode selection event only tracks open event,https://github.com/chanzuckerberg/single-cell-explorer/pull/1000,2024-06-20T21:24:34Z,2024-06-20T21:24:41Z,0,1,MERGED
+single-cell-explorer,chore: Fix double image download analytics event,https://github.com/chanzuckerberg/single-cell-explorer/pull/999,2024-06-20T20:39:51Z,2024-06-20T20:40:03Z,0,1,MERGED
+single-cell-explorer,chore: side by side analytics,https://github.com/chanzuckerberg/single-cell-explorer/pull/998,2024-06-20T19:12:18Z,2024-06-20T20:17:06Z,0,2,MERGED
+single-cell-explorer,chore: update Argus values,https://github.com/chanzuckerberg/single-cell-explorer/pull/997,2024-06-20T16:25:38Z,2024-06-20T20:45:29Z,1,15,MERGED
+single-cell-explorer,chore: enforce conventional commits,https://github.com/chanzuckerberg/single-cell-explorer/pull/996,2024-06-20T14:52:58Z,2024-06-20T15:24:36Z,0,2,MERGED
+single-cell-explorer,test: Update flaky test,https://github.com/chanzuckerberg/single-cell-explorer/pull/994,2024-06-19T04:40:49Z,2024-06-19T05:17:11Z,0,1,MERGED
+single-cell-explorer,chore: 991 Add pan and zoom analytics events,https://github.com/chanzuckerberg/single-cell-explorer/pull/992,2024-06-18T19:01:31Z,2024-06-18T19:52:11Z,0,1,MERGED
+single-cell-explorer,chore: Update spaital analytics,https://github.com/chanzuckerberg/single-cell-explorer/pull/990,2024-06-18T17:04:04Z,2024-06-18T17:20:22Z,4,1,MERGED
+single-cell-explorer,test: side by side test fixes,https://github.com/chanzuckerberg/single-cell-explorer/pull/989,2024-06-18T00:09:04Z,2024-06-18T23:13:06Z,5,7,MERGED
+single-cell-explorer,chore: Prod deploy 6/17/2024,https://github.com/chanzuckerberg/single-cell-explorer/pull/988,2024-06-17T15:06:25Z,2024-06-17T15:09:14Z,0,3,MERGED
+single-cell-explorer,Staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/986,2024-06-14T19:52:43Z,2024-06-14T19:56:11Z,0,2,MERGED
+single-cell-explorer,main to staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/985,2024-06-14T19:18:46Z,2024-06-14T19:58:45Z,0,4,MERGED
+single-cell-explorer,feat(side-by-side): responsive menubar and fix use imageUnderlay as source of truth,https://github.com/chanzuckerberg/single-cell-explorer/pull/980,2024-06-13T23:58:15Z,2024-06-14T16:26:08Z,21,4,MERGED
+single-cell-explorer,fix(right-side-bar): lock GE height,https://github.com/chanzuckerberg/single-cell-explorer/pull/978,2024-06-13T19:31:07Z,2024-06-27T17:17:01Z,1,5,CLOSED
+single-cell-explorer,feat: side by side,https://github.com/chanzuckerberg/single-cell-explorer/pull/977,2024-06-13T00:57:11Z,2024-06-18T23:38:04Z,2,2,MERGED
+single-cell-explorer,chore: prod deploy; 06/12/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/976,2024-06-12T15:48:26Z,2024-06-12T16:12:13Z,0,2,MERGED
+single-cell-explorer,chore: staging deploy; 06/12/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/975,2024-06-12T15:07:05Z,2024-06-12T15:46:46Z,0,3,MERGED
+single-cell-explorer,feat(spatial): analytics,https://github.com/chanzuckerberg/single-cell-explorer/pull/974,2024-06-12T13:54:20Z,2024-06-12T22:42:05Z,1,7,MERGED
+single-cell-explorer,fix: empty object triggers spatial normalization,https://github.com/chanzuckerberg/single-cell-explorer/pull/973,2024-06-12T01:27:56Z,2024-06-12T14:30:51Z,0,1,MERGED
+single-cell-explorer,feat: new info panel,https://github.com/chanzuckerberg/single-cell-explorer/pull/972,2024-06-10T21:28:57Z,2024-06-11T15:28:34Z,1,11,MERGED
+single-cell-explorer,"feat(side-by-side): add buttons for collapse, remove, open, also revamp embedding selector",https://github.com/chanzuckerberg/single-cell-explorer/pull/970,2024-06-07T21:41:09Z,2024-06-12T22:03:54Z,2,4,MERGED
+single-cell-explorer,prod ,https://github.com/chanzuckerberg/single-cell-explorer/pull/969,2024-06-07T21:15:01Z,2024-06-07T21:42:18Z,1,1,MERGED
+single-cell-explorer,staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/968,2024-06-07T20:58:19Z,2024-06-07T21:14:25Z,0,2,MERGED
+single-cell-explorer,fix: update spatial url condition,https://github.com/chanzuckerberg/single-cell-explorer/pull/967,2024-06-07T20:08:09Z,2024-06-07T20:57:29Z,1,3,MERGED
+single-cell-explorer,prod deploy 06/07/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/966,2024-06-07T16:54:19Z,2024-06-07T19:05:16Z,0,8,MERGED
+single-cell-explorer,staging deploy 06/07/24,https://github.com/chanzuckerberg/single-cell-explorer/pull/965,2024-06-07T16:53:25Z,2024-06-07T16:53:52Z,0,7,MERGED
+single-cell-explorer,feat(side-by-side): add redux state for panel embedding selection and type the entire redux store,https://github.com/chanzuckerberg/single-cell-explorer/pull/964,2024-06-04T23:38:16Z,2024-06-10T19:11:18Z,30,4,MERGED
+single-cell-explorer,feat: new info panel,https://github.com/chanzuckerberg/single-cell-explorer/pull/963,2024-06-04T20:49:20Z,2024-06-11T20:00:38Z,14,11,CLOSED
+single-cell-explorer,chore: update super-cool-spatial,https://github.com/chanzuckerberg/single-cell-explorer/pull/962,2024-06-04T19:41:55Z,2024-06-04T19:57:19Z,0,1,MERGED
+single-cell-explorer,feat: Bump max zoom from 12 to 80,https://github.com/chanzuckerberg/single-cell-explorer/pull/961,2024-06-03T19:20:17Z,2024-06-03T19:56:30Z,1,1,MERGED
+single-cell-explorer,chore: sort observations by highest gene expression,https://github.com/chanzuckerberg/single-cell-explorer/pull/1142,2024-10-29T16:53:28Z,2024-10-30T17:14:35Z,0,3,CLOSED
+single-cell-explorer,refactor: DiffExpButtons (SCE-34),https://github.com/chanzuckerberg/single-cell-explorer/pull/1140,2024-10-23T15:52:24Z,2024-10-24T21:21:51Z,1,3,MERGED
+single-cell-explorer,refactor: AnnoDialog (SCE-34),https://github.com/chanzuckerberg/single-cell-explorer/pull/1138,2024-10-22T20:28:24Z,2024-10-23T14:41:51Z,0,2,MERGED
+single-cell-explorer,chore: update scale bar position,https://github.com/chanzuckerberg/single-cell-explorer/pull/1136,2024-10-10T16:54:03Z,2024-10-10T17:12:53Z,0,2,MERGED
+single-cell-explorer,chore: add codecov github action to unit tests,https://github.com/chanzuckerberg/single-cell-explorer/pull/1134,2024-10-10T13:57:19Z,2024-10-10T14:35:45Z,0,3,MERGED
+single-cell-explorer,chore: update playwright to pause animation,https://github.com/chanzuckerberg/single-cell-explorer/pull/1128,2024-10-09T16:44:59Z,2024-10-09T18:30:33Z,1,2,MERGED
+single-cell-explorer,chore: upgrade argus helm stack chart,https://github.com/chanzuckerberg/single-cell-explorer/pull/1127,2024-10-07T23:16:53Z,2024-11-08T21:21:47Z,5,11,MERGED
+single-cell-explorer,"feat: scale bar for zoom (SCE-26, SCE-25, SCE-27)",https://github.com/chanzuckerberg/single-cell-explorer/pull/1125,2024-09-26T20:52:30Z,2024-10-08T20:58:31Z,4,7,MERGED
+single-cell-explorer,chore: default dot opacity 50% (SCE-27),https://github.com/chanzuckerberg/single-cell-explorer/pull/1124,2024-09-26T15:34:14Z,2024-09-26T15:52:52Z,1,2,MERGED
+single-cell-explorer,chore: Upgrade codecov,https://github.com/chanzuckerberg/single-cell-explorer/pull/1119,2024-09-24T15:23:48Z,2024-09-24T19:49:57Z,1,2,MERGED
+single-cell-explorer,chore: bump chart version for prod,https://github.com/chanzuckerberg/single-cell-explorer/pull/1118,2024-09-23T21:58:52Z,2024-09-23T22:05:40Z,0,1,MERGED
+single-cell-explorer,chore: bump chart versions,https://github.com/chanzuckerberg/single-cell-explorer/pull/1117,2024-09-23T21:02:19Z,2024-09-23T21:57:42Z,1,1,MERGED
+single-cell-explorer,chore: Add newsletter signup to bottom banner (SCE-29),https://github.com/chanzuckerberg/single-cell-explorer/pull/1116,2024-09-23T20:52:07Z,2024-10-01T14:50:48Z,2,14,MERGED
+single-cell-explorer,fix: SCE-20 Navbar use font Inter,https://github.com/chanzuckerberg/single-cell-explorer/pull/1115,2024-09-20T17:20:15Z,2024-09-24T20:19:32Z,2,2,MERGED
+single-cell-explorer,"chore: Rename NavBar, MenuBar, Hotkeys",https://github.com/chanzuckerberg/single-cell-explorer/pull/1114,2024-09-19T19:59:23Z,2024-09-20T15:11:27Z,1,9,MERGED
+single-cell-explorer,chore: Rename Left Sidebar,https://github.com/chanzuckerberg/single-cell-explorer/pull/1113,2024-09-19T16:53:55Z,2024-09-20T14:06:48Z,4,11,MERGED
+single-cell-explorer,chore: Rename - Right Sidebar,https://github.com/chanzuckerberg/single-cell-explorer/pull/1112,2024-09-19T14:20:14Z,2024-09-20T15:33:54Z,1,6,MERGED
+single-cell-explorer,chore: Fractal renaming - Graph,https://github.com/chanzuckerberg/single-cell-explorer/pull/1111,2024-09-18T22:43:47Z,2024-09-19T16:19:27Z,1,4,MERGED
+single-cell-explorer,chore: Fractal renaming - Graph,https://github.com/chanzuckerberg/single-cell-explorer/pull/1110,2024-09-18T21:59:22Z,2024-09-18T22:15:17Z,0,1,CLOSED
+single-cell-explorer,chore: Move `src/components/utils` into `src/utils`,https://github.com/chanzuckerberg/single-cell-explorer/pull/1109,2024-09-18T19:20:06Z,2024-09-19T14:49:03Z,3,8,MERGED
+single-cell-explorer,chore: Fractal renaming - Graph,https://github.com/chanzuckerberg/single-cell-explorer/pull/1108,2024-09-18T18:56:21Z,2024-09-18T21:53:33Z,1,17,CLOSED
+single-cell-explorer,chore: Add aliases and shared folders for renaming,https://github.com/chanzuckerberg/single-cell-explorer/pull/1107,2024-09-18T15:33:49Z,2024-09-18T18:28:21Z,1,13,MERGED
+single-cell-explorer,chore: Fractal Naming for Left and Right Sidebar,https://github.com/chanzuckerberg/single-cell-explorer/pull/1106,2024-09-17T19:38:31Z,2024-09-19T19:26:43Z,0,2,CLOSED
+single-cell-explorer,chore: Add newsletter signup to bottom banner,https://github.com/chanzuckerberg/single-cell-explorer/pull/1105,2024-09-17T17:16:48Z,2024-09-20T17:15:13Z,1,2,CLOSED
+single-cell-explorer,chore: Update Dev Docs,https://github.com/chanzuckerberg/single-cell-explorer/pull/1104,2024-09-16T17:14:05Z,2024-09-23T20:28:44Z,3,26,MERGED
+single-cell-explorer,chore: Use staging env deep zoom assets for localhost,https://github.com/chanzuckerberg/single-cell-explorer/pull/1103,2024-09-12T21:56:08Z,2024-09-13T19:52:57Z,1,4,MERGED
+single-cell-explorer,chore: Add new readme section and dev_doc file,https://github.com/chanzuckerberg/single-cell-explorer/pull/1101,2024-09-11T18:53:56Z,2024-09-16T16:16:33Z,7,18,MERGED
+single-cell-explorer,chore: Python 3.12 (SCE-16),https://github.com/chanzuckerberg/single-cell-explorer/pull/1100,2024-09-11T16:29:13Z,2024-09-12T16:12:55Z,5,2,MERGED
+single-cell-explorer,chore: Add parallelism (SCE-14),https://github.com/chanzuckerberg/single-cell-explorer/pull/1095,2024-09-06T16:44:29Z,2024-09-06T18:37:56Z,0,2,MERGED
+single-cell-explorer,chore: add Parallelization to GHA,https://github.com/chanzuckerberg/single-cell-explorer/pull/1094,2024-09-06T15:22:49Z,2024-09-06T16:46:12Z,1,124,CLOSED
+single-cell-explorer,chore: Add Playwright Parallelization in GHA,https://github.com/chanzuckerberg/single-cell-explorer/pull/1093,2024-09-05T18:33:38Z,2024-09-06T16:46:26Z,1,124,CLOSED
+single-cell-explorer,chore: Upgrade BE deps (SCE-18),https://github.com/chanzuckerberg/single-cell-explorer/pull/1092,2024-09-05T18:06:31Z,2024-09-06T21:33:22Z,0,10,MERGED
+single-cell-explorer,chore: update snapshots [DO NO MERGE],https://github.com/chanzuckerberg/single-cell-explorer/pull/1091,2024-09-04T17:16:30Z,2024-09-05T14:16:20Z,0,2,CLOSED
+single-cell-explorer,chore - Parallelize GHA Tests [DO NOT MERGE],https://github.com/chanzuckerberg/single-cell-explorer/pull/1090,2024-09-04T14:41:24Z,2024-09-05T19:08:41Z,0,30,CLOSED
+single-cell-explorer,fix: category label,https://github.com/chanzuckerberg/single-cell-explorer/pull/1087,2024-08-28T15:00:29Z,2024-08-28T17:24:34Z,3,4,MERGED
+single-cell-explorer,test: SCE-6 e2e tests tabilize snapshots,https://github.com/chanzuckerberg/single-cell-explorer/pull/1086,2024-08-27T21:32:18Z,2024-09-10T21:09:52Z,27,2,MERGED
+single-cell-explorer,Heathj/test OIDC,https://github.com/chanzuckerberg/single-cell-explorer/pull/1085,2024-08-27T21:18:25Z,2024-09-06T22:37:05Z,1,25,CLOSED
+single-cell-explorer,chore: Upgrade React 18,https://github.com/chanzuckerberg/single-cell-explorer/pull/1084,2024-08-27T17:25:06Z,2024-08-27T18:10:04Z,1,15,CLOSED
+single-cell-explorer,fix: og:title/image and fontFamily,https://github.com/chanzuckerberg/single-cell-explorer/pull/1082,2024-08-26T20:56:54Z,2024-08-27T15:47:27Z,2,4,MERGED
+single-cell-explorer,fix: skeleton loader,https://github.com/chanzuckerberg/single-cell-explorer/pull/1080,2024-08-22T20:43:41Z,2024-08-22T20:59:32Z,0,1,MERGED
+single-cell-explorer,chore: Upgrade React 18 (SCE-1) ,https://github.com/chanzuckerberg/single-cell-explorer/pull/1079,2024-08-21T16:03:13Z,2024-08-28T20:46:58Z,9,18,MERGED
+single-cell-explorer,feat: Add og:image and og:title,https://github.com/chanzuckerberg/single-cell-explorer/pull/1078,2024-08-21T00:48:58Z,2024-08-23T00:14:44Z,1,2,MERGED
+single-cell-explorer,chore: Upgrade MUI and SDS - SCE-3 SCE-2,https://github.com/chanzuckerberg/single-cell-explorer/pull/1075,2024-08-16T16:52:25Z,2024-08-20T22:27:10Z,16,7,MERGED
+single-cell-explorer,fix: Spatial mode dot size on highlight,https://github.com/chanzuckerberg/single-cell-explorer/pull/1074,2024-08-15T17:37:22Z,2024-08-15T19:21:25Z,0,2,MERGED
+single-cell-explorer,feat: SCE-9 NavBar Update,https://github.com/chanzuckerberg/single-cell-explorer/pull/1072,2024-08-15T15:10:29Z,2024-08-16T16:40:49Z,2,6,MERGED
+single-cell-explorer,fix: Check for slide-seq,https://github.com/chanzuckerberg/single-cell-explorer/pull/1071,2024-08-09T16:19:47Z,2024-08-12T15:20:08Z,0,5,MERGED
+single-cell-explorer,test: Fix e2e test cellCount diff by 1,https://github.com/chanzuckerberg/single-cell-explorer/pull/1069,2024-08-08T20:58:03Z,2024-08-08T22:08:10Z,0,2,MERGED
+single-cell-explorer,chore: Upgrade to BlueprintJS 5 - SCE-4,https://github.com/chanzuckerberg/single-cell-explorer/pull/1068,2024-08-08T16:49:42Z,2024-08-15T15:29:17Z,8,5,MERGED
+single-cell-explorer,fix: add spatial to default layout list,https://github.com/chanzuckerberg/single-cell-explorer/pull/1067,2024-08-06T21:11:51Z,2024-08-06T21:40:57Z,0,2,MERGED
+single-cell-explorer,chore: bump argus builder version,https://github.com/chanzuckerberg/single-cell-explorer/pull/1065,2024-08-02T20:54:09Z,2024-08-05T13:59:07Z,0,2,MERGED
+single-cell-explorer,feat: Add survey banner to Explorer,https://github.com/chanzuckerberg/single-cell-explorer/pull/1063,2024-08-02T16:44:29Z,2024-08-06T19:24:45Z,1,18,MERGED
+single-cell-explorer,chore: merge main to staging,https://github.com/chanzuckerberg/single-cell-explorer/pull/1062,2024-08-01T18:44:30Z,2024-08-01T18:51:04Z,0,31,MERGED
+single-cell-explorer,chore: Upgrade GHA actions,https://github.com/chanzuckerberg/single-cell-explorer/pull/1155,2024-12-24T19:28:41Z,2024-12-24T20:07:54Z,1,2,MERGED
+single-cell-explorer,DO NOT MERGE: more logs,https://github.com/chanzuckerberg/single-cell-explorer/pull/1154,2024-12-23T19:28:16Z,2025-01-07T16:07:32Z,2,2,CLOSED
+single-cell-explorer,DO NOT MERGE: Debug gene info endpoint returning null,https://github.com/chanzuckerberg/single-cell-explorer/pull/1153,2024-12-18T22:35:45Z,2025-01-06T15:50:49Z,4,10,CLOSED
+single-cell-explorer,empty,https://github.com/chanzuckerberg/single-cell-explorer/pull/1152,2024-12-18T20:22:49Z,2024-12-19T02:08:16Z,1,1,CLOSED
+single-cell-explorer,chore: tweak prompts,https://github.com/chanzuckerberg/single-cell-explorer/pull/1151,2024-12-13T00:12:18Z,2024-12-19T02:08:02Z,1,10,MERGED
+single-cell-explorer,empty,https://github.com/chanzuckerberg/single-cell-explorer/pull/1149,2024-12-12T20:09:20Z,2024-12-12T22:58:01Z,1,1,CLOSED
+single-cell-explorer,feat: agent,https://github.com/chanzuckerberg/single-cell-explorer/pull/1148,2024-12-12T17:15:43Z,2024-12-12T23:18:58Z,0,29,MERGED
+single-cell-explorer,[DO NOT MERGE - Chromatic DEMO] feat: Add bad commit,https://github.com/chanzuckerberg/single-cell-explorer/pull/1147,2024-11-18T16:43:14Z,2024-11-18T20:04:09Z,1,3,CLOSED
+single-cell-explorer,Atar agent,https://github.com/chanzuckerberg/single-cell-explorer/pull/1145,2024-11-13T17:26:24Z,2024-12-07T02:04:37Z,2,37,CLOSED
+single-cell-explorer,fix: upload artifact v4,https://github.com/chanzuckerberg/single-cell-explorer/pull/1164,2025-02-19T22:35:18Z,2025-02-19T22:45:59Z,1,1,MERGED
+single-cell-explorer,chore: upgrade docker builder,https://github.com/chanzuckerberg/single-cell-explorer/pull/1163,2025-02-15T01:21:23Z,2025-02-18T20:07:23Z,2,6,MERGED
+single-cell-explorer,chore: update for CytAssist,https://github.com/chanzuckerberg/single-cell-explorer/pull/1162,2025-02-11T16:36:44Z,2025-02-12T16:05:36Z,1,2,MERGED
+single-cell-explorer,fix: Update runs-on labels in GitHub Actions workflows,https://github.com/chanzuckerberg/single-cell-explorer/pull/1161,2025-02-06T20:42:20Z,2025-02-07T19:25:31Z,1,2,MERGED
+single-cell-explorer,chore: remove deprecated tags,https://github.com/chanzuckerberg/single-cell-explorer/pull/1158,2025-01-17T19:24:43Z,2025-02-03T19:15:12Z,1,2,MERGED

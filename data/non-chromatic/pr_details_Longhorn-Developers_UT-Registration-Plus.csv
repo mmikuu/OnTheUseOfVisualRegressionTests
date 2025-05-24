@@ -1,0 +1,363 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+UT-Registration-Plus,Update todo.md,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/9,2019-07-28T16:49:18Z,2019-08-04T21:07:51Z,0,3,MERGED
+UT-Registration-Plus,fixed manifest naming issue,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/13,2019-10-22T00:55:37Z,2019-10-22T00:57:57Z,0,1,MERGED
+UT-Registration-Plus,third time is a charm... fixing footer positioning on popup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/12,2019-08-14T04:00:26Z,2019-08-14T15:14:06Z,0,3,MERGED
+UT-Registration-Plus,Popup autocloses if user clicks outside the element. Cleaned up some styling.,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/11,2019-08-13T23:57:26Z,2019-08-13T23:59:25Z,0,4,MERGED
+UT-Registration-Plus,"Positioning of footer bar fixed to stay at the bottom. Updated import-export UI. If user opens one popup (import/export or search), other open popups close to prevent overlap.",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/10,2019-08-06T02:12:42Z,2019-08-09T20:04:20Z,0,2,MERGED
+UT-Registration-Plus,Update todo list,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/14,2019-11-28T23:20:39Z,2019-11-30T21:34:14Z,0,1,MERGED
+UT-Registration-Plus,Added feature to search by course code,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/15,2020-04-22T23:23:46Z,2020-08-24T01:53:34Z,0,1,MERGED
+UT-Registration-Plus,Adding push notification support for UT Registration Plus,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/16,2020-08-08T06:46:43Z,2024-02-02T20:09:20Z,0,22,CLOSED
+UT-Registration-Plus,Multi-semester courses' hours are now correctly calculated,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/19,2021-10-17T01:29:36Z,2021-10-17T20:16:41Z,1,2,MERGED
+UT-Registration-Plus,Fix Syllabi link url,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/17,2021-10-17T00:13:27Z,2021-10-17T00:15:10Z,0,1,MERGED
+UT-Registration-Plus,typo in infinite scroll,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/27,2021-12-16T17:27:30Z,2021-12-17T04:03:06Z,0,1,MERGED
+UT-Registration-Plus,use #30 instead -- this pr was formerly [updated grade distributions],https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/26,2021-12-16T04:56:49Z,2022-04-12T15:31:16Z,0,1,CLOSED
+UT-Registration-Plus,fixes #23 - next page prefetching,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/24,2021-11-12T08:26:42Z,2021-11-12T13:42:09Z,0,1,MERGED
+UT-Registration-Plus,"fixed ""Add to UT R+"" button",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/22,2021-11-12T05:24:10Z,2021-11-12T13:43:51Z,0,3,MERGED
+UT-Registration-Plus,Utrp links update (solves #28 and #29),https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/31,2022-04-12T16:32:52Z,2024-02-02T20:08:39Z,1,5,CLOSED
+UT-Registration-Plus,Utrp ece grade distributions,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/30,2022-04-12T15:30:24Z,2024-02-02T20:09:03Z,0,3,CLOSED
+UT-Registration-Plus,Names are now displayed correctly in options page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/35,2022-07-26T20:53:41Z,2022-08-24T18:25:54Z,0,1,MERGED
+UT-Registration-Plus,Move up and move down buttons,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/32,2022-07-10T19:20:08Z,2022-10-27T16:49:25Z,1,8,CLOSED
+UT-Registration-Plus,feat: manifest v3,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/39,2022-08-27T20:56:50Z,2024-09-29T02:20:12Z,9,43,CLOSED
+UT-Registration-Plus,Fixes cutoff PNGs. Exporting as PNG accounts for device DPI. ,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/36,2022-08-22T16:39:44Z,2022-08-28T17:02:41Z,0,1,MERGED
+UT-Registration-Plus,Similar schedule fix,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/41,2022-12-23T23:44:39Z,2022-12-23T23:46:42Z,0,4,MERGED
+UT-Registration-Plus,fix: #44 Module Not Found Error,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/45,2023-03-30T15:36:06Z,2023-03-30T18:12:01Z,2,1,MERGED
+UT-Registration-Plus,feat: CS Banner,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/43,2023-03-13T02:13:30Z,2023-03-13T04:48:17Z,2,2,CLOSED
+UT-Registration-Plus,feat: parallelize initializeDB.ts promises,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/47,2023-04-18T15:31:04Z,2023-12-29T16:14:37Z,1,2,MERGED
+UT-Registration-Plus,A few more funny comments,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/46,2023-04-03T04:51:40Z,2023-09-17T19:31:01Z,6,2,MERGED
+UT-Registration-Plus,feat: Add Storybook,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/49,2023-07-30T21:34:33Z,2024-02-03T05:28:36Z,4,4,CLOSED
+UT-Registration-Plus,refactor: Replacing Vite with Webpack (wip),https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/51,2023-09-17T19:36:34Z,2024-01-11T03:17:19Z,2,14,CLOSED
+UT-Registration-Plus,feat: Storybook for Vite,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/52,2023-12-31T09:39:52Z,2024-01-30T22:43:31Z,2,20,MERGED
+UT-Registration-Plus,feat: added Saturday class to CalendarGrid,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/206,2024-03-29T21:36:58Z,2024-11-17T22:24:39Z,3,1,CLOSED
+UT-Registration-Plus,feat: better discord icon,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/205,2024-03-29T07:02:46Z,2024-03-29T18:02:39Z,1,1,MERGED
+UT-Registration-Plus,feat: show async courses in the bottom bar,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/204,2024-03-29T03:13:23Z,2024-03-29T05:01:23Z,1,4,MERGED
+UT-Registration-Plus,feat(docs): add beta tester agreement form and nda,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/203,2024-03-27T02:35:51Z,2024-05-19T23:23:12Z,1,2,CLOSED
+UT-Registration-Plus,fix: Sum courses for same semester but different unique,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/202,2024-03-26T00:11:48Z,2024-03-26T00:41:33Z,0,1,MERGED
+UT-Registration-Plus,feat: some small changes for colors and font,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/201,2024-03-25T20:51:37Z,2024-03-30T16:44:16Z,7,6,MERGED
+UT-Registration-Plus,fix: remove course name from the syllabi lookup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/200,2024-03-25T19:10:41Z,2024-04-17T15:33:48Z,7,3,MERGED
+UT-Registration-Plus,feat: DialogProvider component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/198,2024-03-24T07:34:03Z,2024-05-20T20:00:00Z,0,5,MERGED
+UT-Registration-Plus,feat: add Options/Settings menu,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/197,2024-03-23T17:27:49Z,2024-10-08T04:07:35Z,4,2,CLOSED
+UT-Registration-Plus,fix: don't crash on cultural diversity flag,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/196,2024-03-22T22:58:34Z,2024-03-22T23:52:08Z,1,1,MERGED
+UT-Registration-Plus,feat: added flag ;-;,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/195,2024-03-22T22:34:03Z,2024-03-23T00:12:06Z,0,2,MERGED
+UT-Registration-Plus,feat: boilerplate options menu,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/194,2024-03-22T21:25:05Z,2024-03-22T21:25:18Z,0,1,MERGED
+UT-Registration-Plus,Draft: Options Page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/193,2024-03-22T21:19:33Z,2024-03-22T21:23:09Z,2,1,CLOSED
+UT-Registration-Plus,feat: listed versioning for beta builds,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/192,2024-03-22T16:55:39Z,2024-03-22T17:15:44Z,1,1,MERGED
+UT-Registration-Plus,feat: update db handlers,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/191,2024-03-22T07:09:38Z,2024-03-22T15:05:49Z,3,33,CLOSED
+UT-Registration-Plus,refactor: updated styling of conflict component to match figma,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/190,2024-03-22T04:02:28Z,2024-03-22T16:34:25Z,1,3,MERGED
+UT-Registration-Plus,refactor: updated injected popup to match figma,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/189,2024-03-22T03:37:08Z,2024-03-24T00:22:50Z,9,6,MERGED
+UT-Registration-Plus,fix: reactivity,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/188,2024-03-22T00:34:27Z,2024-03-22T00:43:56Z,0,1,MERGED
+UT-Registration-Plus,feat: beta builds,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/187,2024-03-21T22:49:35Z,2024-03-22T00:21:33Z,0,2,MERGED
+UT-Registration-Plus,feat: use downloadBlob util,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/186,2024-03-21T20:23:02Z,2024-03-21T21:25:38Z,2,7,MERGED
+UT-Registration-Plus,refactor: move getTabInfo to calendar only,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/185,2024-03-21T19:51:13Z,2024-03-21T21:19:44Z,0,1,MERGED
+UT-Registration-Plus,refactor: remove component subfolders,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/184,2024-03-21T18:43:18Z,2024-03-21T18:47:59Z,0,1,MERGED
+UT-Registration-Plus,fix: prompt font family,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/183,2024-03-21T01:25:31Z,2024-03-28T07:34:54Z,1,3,CLOSED
+UT-Registration-Plus,feat: Seamless calendar schedules,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/182,2024-03-21T01:03:33Z,2024-04-01T00:53:31Z,10,51,CLOSED
+UT-Registration-Plus,fix: async course display size,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/181,2024-03-20T07:53:12Z,2024-03-20T16:03:23Z,0,1,MERGED
+UT-Registration-Plus,"feat: screenshot whole page, hide certain elements, screenshot fixed size",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/180,2024-03-20T05:25:33Z,2024-03-22T00:20:03Z,2,10,MERGED
+UT-Registration-Plus,feat: course color generation,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/179,2024-03-19T01:05:41Z,2024-03-19T23:54:12Z,4,10,MERGED
+UT-Registration-Plus,feat: Course Flag Tooltips,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/178,2024-03-18T05:13:25Z,2024-03-18T22:15:02Z,1,6,MERGED
+UT-Registration-Plus,fix: idk why that comment was there,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/177,2024-03-18T04:57:16Z,2024-03-19T23:52:14Z,1,3,MERGED
+UT-Registration-Plus,feat: match calendar designs & add functionality,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/176,2024-03-18T04:41:31Z,2024-03-18T15:06:23Z,0,2,MERGED
+UT-Registration-Plus,feat: course colors,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/175,2024-03-17T06:59:48Z,2024-03-17T07:05:59Z,0,2,MERGED
+UT-Registration-Plus,fix: clean up #173,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/174,2024-03-17T06:44:41Z,2024-03-17T06:48:09Z,0,1,MERGED
+UT-Registration-Plus,feat: calendar matchings,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/173,2024-03-17T04:55:22Z,2024-03-17T05:32:51Z,6,4,MERGED
+UT-Registration-Plus,refactor: ccpopup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/172,2024-03-16T04:43:12Z,2024-03-16T04:49:26Z,1,2,MERGED
+UT-Registration-Plus,refactor: update text and link components to be polymorphic,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/171,2024-03-16T01:44:21Z,2024-03-16T03:06:36Z,1,1,MERGED
+UT-Registration-Plus,feat: pad unique ids to 5 digits,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/170,2024-03-15T21:45:43Z,2024-03-16T00:23:28Z,0,2,MERGED
+UT-Registration-Plus,chore: ignore storybook build,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/169,2024-03-15T21:20:33Z,2024-03-16T01:36:36Z,1,2,MERGED
+UT-Registration-Plus,feat: enable TS strict mode,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/168,2024-03-15T05:43:31Z,2024-03-21T18:19:40Z,2,58,MERGED
+UT-Registration-Plus,build: allow unocss to run through dev mode,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/167,2024-03-15T05:11:37Z,2024-03-15T21:30:42Z,0,6,MERGED
+UT-Registration-Plus,refactor(UserSchedule): index by a unique id rather than name,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/166,2024-03-14T09:03:17Z,2024-03-15T04:09:04Z,5,7,MERGED
+UT-Registration-Plus,feat: A lil UUID for everyone's favorite course schedule,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/165,2024-03-14T06:24:42Z,2024-03-14T20:31:50Z,8,6,CLOSED
+UT-Registration-Plus,feat: proper injected styles,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/164,2024-03-14T05:07:12Z,2024-03-14T05:10:41Z,0,1,MERGED
+UT-Registration-Plus,feat: add new db powered by UT_Grade_Parser,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/163,2024-03-14T04:58:51Z,2024-03-24T05:21:18Z,2,9,MERGED
+UT-Registration-Plus,fix: list component fixed,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/162,2024-03-14T04:58:32Z,2024-03-14T05:17:47Z,1,5,MERGED
+UT-Registration-Plus,fix: Fixed typescript error,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/161,2024-03-14T03:39:53Z,2024-03-14T04:03:22Z,0,6,MERGED
+UT-Registration-Plus,feat: calendar header formatting and data displaying,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/160,2024-03-14T02:23:48Z,2024-03-14T02:38:40Z,0,1,MERGED
+UT-Registration-Plus,feat: update dialog component to headlessui,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/159,2024-03-14T02:12:41Z,2024-03-14T04:09:44Z,1,2,MERGED
+UT-Registration-Plus,fix: fixed bug where activeSchedule doesn't update correctly,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/158,2024-03-14T01:49:57Z,2024-03-14T03:15:03Z,1,3,MERGED
+UT-Registration-Plus,feat: calendar-course-cell-color-picker,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/157,2024-03-13T22:35:11Z,2024-03-16T21:08:29Z,18,14,MERGED
+UT-Registration-Plus,style: fix centering of radio item,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/156,2024-03-13T21:33:49Z,2024-03-13T22:29:11Z,0,1,MERGED
+UT-Registration-Plus,fix: correct parsing of noon,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/155,2024-03-13T20:59:11Z,2024-03-13T21:09:32Z,2,1,MERGED
+UT-Registration-Plus,feat: list reordering,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/154,2024-03-13T20:57:40Z,2024-03-13T21:45:32Z,0,1,MERGED
+UT-Registration-Plus,feat: fix save as button dividers,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/153,2024-03-13T20:42:51Z,2024-03-13T21:08:58Z,1,2,MERGED
+UT-Registration-Plus,feat: async text hiding on Calendar's Bottom Bar when there are no async courses,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/152,2024-03-13T02:38:20Z,2024-03-13T04:13:28Z,0,6,MERGED
+UT-Registration-Plus,feat: calendar schedules functionality,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/151,2024-03-13T01:24:03Z,2024-03-18T22:04:58Z,0,0,CLOSED
+UT-Registration-Plus,feat: update badge count when schedule changes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/150,2024-03-12T05:50:52Z,2024-03-12T05:59:14Z,2,2,MERGED
+UT-Registration-Plus,feat: added scrapedAt property,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/149,2024-03-12T05:13:51Z,2024-03-12T05:57:00Z,3,2,MERGED
+UT-Registration-Plus,feat: abhinavchadaga/reusable-popup-prompt,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/148,2024-03-12T00:48:24Z,2024-03-12T05:01:56Z,3,5,MERGED
+UT-Registration-Plus,feat: calendar schedules list functionality,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/147,2024-03-12T00:32:13Z,2024-03-13T00:46:03Z,0,6,CLOSED
+UT-Registration-Plus,feat: open an injected course page on course block click in popup main,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/146,2024-03-11T22:23:39Z,2024-03-16T20:57:50Z,22,29,MERGED
+UT-Registration-Plus,fix: injection not working from som/elie commit,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/145,2024-03-11T20:50:41Z,2024-03-11T20:53:45Z,0,1,MERGED
+UT-Registration-Plus,fix: Calendar View/Scaling Issues,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/144,2024-03-11T19:57:50Z,2024-03-12T04:34:38Z,0,5,MERGED
+UT-Registration-Plus,"refactor: doesn't crash tab, and doesn't cause errors",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/143,2024-03-11T04:54:06Z,2024-03-12T04:59:16Z,0,5,MERGED
+UT-Registration-Plus,refactor: match dropdown to figma & fix issues,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/142,2024-03-10T05:12:57Z,2024-03-10T05:16:57Z,1,1,MERGED
+UT-Registration-Plus,feat: add chrome.storage api mocks for storybook use,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/141,2024-03-10T05:11:35Z,2024-03-10T05:15:50Z,1,1,MERGED
+UT-Registration-Plus,fix: chromatic builds on PRs,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/140,2024-03-10T02:39:03Z,2024-03-10T03:20:41Z,0,1,MERGED
+UT-Registration-Plus,fix: cannot use tailwind on course schedule page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/139,2024-03-10T00:17:42Z,2024-03-16T05:01:10Z,1,1,CLOSED
+UT-Registration-Plus,fix: Schedule Switching Bugs,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/138,2024-03-09T21:47:17Z,2024-03-10T01:54:52Z,2,5,MERGED
+UT-Registration-Plus,fix: non-determinstic options page generation,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/137,2024-03-09T20:42:26Z,2024-03-09T21:01:37Z,0,2,MERGED
+UT-Registration-Plus,refactor(popup): match styles/reduce paint flicker,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/136,2024-03-09T06:57:17Z,2024-03-13T17:33:54Z,1,7,MERGED
+UT-Registration-Plus,refactor: remove hardcoded list component sizings,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/135,2024-03-09T06:11:12Z,2024-03-09T06:37:31Z,0,1,MERGED
+UT-Registration-Plus,refactor: replace logo image imports with LogoIcon component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/134,2024-03-09T05:29:02Z,2024-03-09T06:36:52Z,0,1,MERGED
+UT-Registration-Plus,fix: fixed CalendarGrid styling,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/133,2024-03-09T01:56:33Z,2024-03-12T05:00:36Z,9,11,CLOSED
+UT-Registration-Plus,fix: fixed issues involving course meeting objects not being recognized as course meeting objects,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/132,2024-03-09T00:55:06Z,2024-03-10T02:21:38Z,0,8,MERGED
+UT-Registration-Plus,fix: options page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/131,2024-03-08T07:02:38Z,2024-03-09T02:58:53Z,0,2,MERGED
+UT-Registration-Plus,fix: conflict row bug,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/130,2024-03-08T06:08:27Z,2024-03-12T04:41:21Z,2,8,MERGED
+UT-Registration-Plus,Feat: schedule list actions,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/129,2024-03-05T20:03:06Z,2024-03-07T05:44:42Z,2,236,CLOSED
+UT-Registration-Plus,feat: abhinavchadaga/course-catalog-popup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/128,2024-03-04T04:44:34Z,2024-03-04T16:05:10Z,0,48,MERGED
+UT-Registration-Plus,feat: hackathon,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/127,2024-03-03T21:33:35Z,2024-03-08T01:43:29Z,28,190,MERGED
+UT-Registration-Plus,feat: popup schedule select,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/126,2024-03-02T21:12:17Z,2024-03-02T23:06:25Z,0,9,MERGED
+UT-Registration-Plus,fix: calendar storybook issue,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/125,2024-03-02T18:33:13Z,2024-03-02T18:40:31Z,0,2,MERGED
+UT-Registration-Plus,feat: check-path-alias autofix,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/124,2024-03-02T18:28:15Z,2024-03-02T18:28:29Z,0,2,MERGED
+UT-Registration-Plus,feat: add check-path-alias custom ESLint rule,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/123,2024-03-02T18:03:53Z,2024-03-02T18:04:36Z,0,1,MERGED
+UT-Registration-Plus,fix: fixed bug with course cells after 12 PM extending past midnight,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/122,2024-03-02T01:50:29Z,2024-03-03T21:30:18Z,10,32,MERGED
+UT-Registration-Plus,fix: remove extra spacing on CalendarHeader,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/121,2024-03-01T22:56:09Z,2024-03-02T15:37:10Z,0,1,MERGED
+UT-Registration-Plus,feat: dividers in calendar bottom bar,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/120,2024-03-01T20:39:37Z,2024-03-01T21:17:23Z,0,2,MERGED
+UT-Registration-Plus,feat: working PNG and CAL downloads,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/119,2024-03-01T18:38:58Z,2024-03-01T20:06:06Z,3,4,MERGED
+UT-Registration-Plus,feat: color palette for calendar,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/118,2024-03-01T08:01:42Z,2024-03-04T04:00:59Z,10,9,MERGED
+UT-Registration-Plus,"feat: Calendar Schedule component finished, fix: list didn't allow updates when adding a new schedule",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/115,2024-02-29T00:14:30Z,2024-03-01T02:15:45Z,22,25,MERGED
+UT-Registration-Plus,fix: remote react-window fully (from List component),https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/114,2024-02-27T17:30:21Z,2024-02-28T06:05:13Z,0,3,MERGED
+UT-Registration-Plus,fix: divider usage in HeaderAndActions,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/113,2024-02-27T05:38:47Z,2024-02-28T16:08:05Z,3,23,MERGED
+UT-Registration-Plus,fix: cleanup imports,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/112,2024-02-27T05:21:42Z,2024-02-28T05:57:36Z,1,6,MERGED
+UT-Registration-Plus,fix: type issues by using correct import,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/111,2024-02-27T02:17:34Z,2024-02-28T05:55:35Z,9,8,MERGED
+UT-Registration-Plus,feat: Custom ESLint Rules,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/110,2024-02-26T07:11:34Z,2024-02-28T05:52:46Z,0,1,MERGED
+UT-Registration-Plus,feat: alignment on calendar and header,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/109,2024-02-25T22:31:19Z,2024-02-26T01:12:46Z,5,5,MERGED
+UT-Registration-Plus,feat: fix icons on PopupMain and convert to tailwind,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/108,2024-02-25T02:56:05Z,2024-02-26T22:19:21Z,10,8,MERGED
+UT-Registration-Plus,fix popup main icons,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/107,2024-02-25T02:54:12Z,2024-02-25T02:54:51Z,2,194,CLOSED
+UT-Registration-Plus,fix: chromatic storybook - CourseCatalogInjectedPopup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/106,2024-02-23T06:13:56Z,2024-02-28T16:17:36Z,2,3,MERGED
+UT-Registration-Plus,chore: lint-format-docs-tests-bugfixes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/105,2024-02-22T16:39:04Z,2024-02-23T04:42:58Z,0,7,MERGED
+UT-Registration-Plus,feat: Conventional Commits,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/103,2024-02-21T15:40:41Z,2024-02-21T19:36:25Z,1,2,MERGED
+UT-Registration-Plus,feat: Best Practices,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/102,2024-02-21T14:31:34Z,2024-02-21T21:54:21Z,0,4,MERGED
+UT-Registration-Plus,fix: Chromatic action to build from correct branch,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/101,2024-02-20T23:05:28Z,2024-02-20T23:12:22Z,0,182,CLOSED
+UT-Registration-Plus,fix: Chromatic action to build from correct branch,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/100,2024-02-20T22:57:23Z,2024-02-20T23:20:28Z,0,1,MERGED
+UT-Registration-Plus,feat: updated divider component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/99,2024-02-20T22:43:54Z,2024-02-23T03:24:41Z,5,7,MERGED
+UT-Registration-Plus,feat: course-catalog-injected-popup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/98,2024-02-18T23:26:23Z,2024-03-02T20:04:01Z,22,43,MERGED
+UT-Registration-Plus,"feat: WIP - Course cells now being rendered in. Need to make Coursecells more responsive, and account for edge cases.",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/97,2024-02-18T20:12:08Z,2024-03-12T05:07:33Z,5,199,CLOSED
+UT-Registration-Plus,feat: Best Practices,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/96,2024-02-18T02:14:44Z,2024-02-21T03:22:45Z,1,6,CLOSED
+UT-Registration-Plus,feat: Derek/export png,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/95,2024-02-18T00:59:56Z,2024-02-18T01:09:41Z,1,7,MERGED
+UT-Registration-Plus,feat: Derek vinson/calendar header,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/94,2024-02-17T23:01:23Z,2024-02-17T23:02:36Z,1,16,MERGED
+UT-Registration-Plus,fix: sort the flattened course schedule,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/93,2024-02-17T22:45:19Z,2024-02-17T22:57:51Z,1,1,MERGED
+UT-Registration-Plus,Using React-icons. Probably need to take out later,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/92,2024-02-17T22:06:11Z,2024-02-19T17:52:56Z,1,1,MERGED
+UT-Registration-Plus,feat: bottom bar for the calendar page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/91,2024-02-17T21:36:30Z,2024-02-17T22:25:50Z,0,3,MERGED
+UT-Registration-Plus,feat: WIP Non-virtual list,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/90,2024-02-14T23:55:51Z,2024-03-10T03:40:57Z,2,14,CLOSED
+UT-Registration-Plus,WIP: Storybook working for vivek,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/89,2024-02-14T16:41:55Z,2024-03-12T05:07:42Z,5,2,CLOSED
+UT-Registration-Plus,WIP,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/88,2024-02-13T19:02:46Z,2024-03-12T05:08:10Z,9,2,CLOSED
+UT-Registration-Plus,feat: Dropdown component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/87,2024-02-10T08:10:43Z,2024-03-10T05:08:47Z,3,14,CLOSED
+UT-Registration-Plus,ci: update pnpm action,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/86,2024-02-09T23:34:21Z,2024-02-10T00:39:21Z,0,2,MERGED
+UT-Registration-Plus,feat: Epic Calendar Overhaul,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/85,2024-02-09T23:27:53Z,2024-02-28T22:27:11Z,5,58,CLOSED
+UT-Registration-Plus,ci: chromatic builds,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/84,2024-02-09T23:09:36Z,2024-02-09T23:30:12Z,0,3,MERGED
+UT-Registration-Plus,feat: CourseStatus Component implemented,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/83,2024-02-09T17:30:05Z,2024-02-11T03:26:21Z,0,6,MERGED
+UT-Registration-Plus,feat: Implemented ConflictsWithWarning,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/82,2024-02-09T16:54:45Z,2024-03-10T03:40:47Z,1,2,CLOSED
+UT-Registration-Plus,feat: Calendar Grid and Grid Cells,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/81,2024-02-06T04:54:40Z,2024-02-06T05:04:24Z,1,30,MERGED
+UT-Registration-Plus,feat: Calendar Grid Progress,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/80,2024-02-06T04:12:25Z,2024-02-06T04:12:39Z,0,24,CLOSED
+UT-Registration-Plus,feat: PopupCourseBlock Component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/79,2024-02-06T02:05:19Z,2024-02-08T17:52:29Z,1,25,MERGED
+UT-Registration-Plus,refactor: replace classnames with clsx,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/78,2024-02-06T00:46:38Z,2024-02-06T03:27:23Z,0,1,MERGED
+UT-Registration-Plus,feat: Create icon helper,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/77,2024-02-05T22:09:07Z,2024-02-06T00:24:02Z,1,2,MERGED
+UT-Registration-Plus,feat: InfoCard implemented,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/76,2024-02-03T21:14:48Z,2024-03-10T03:40:38Z,2,1,CLOSED
+UT-Registration-Plus,feat: calendar course block component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/75,2024-02-03T20:55:46Z,2024-02-03T22:44:00Z,4,8,MERGED
+UT-Registration-Plus,hotfix: icon library resolution,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/74,2024-02-03T20:16:45Z,2024-02-03T20:21:25Z,2,1,MERGED
+UT-Registration-Plus,feat: Chip Implemented,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/73,2024-02-03T20:16:22Z,2024-03-10T03:40:28Z,3,3,CLOSED
+UT-Registration-Plus,feat: WIP PR for the Calendar Sidebar component.,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/72,2024-02-03T19:43:48Z,2024-02-28T22:37:40Z,2,1,CLOSED
+UT-Registration-Plus,hotfix: change material icons to material symbols,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/71,2024-02-03T19:41:19Z,2024-02-03T19:42:32Z,1,1,MERGED
+UT-Registration-Plus,feat: updated Text component to latest design specification,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/70,2024-02-03T07:54:38Z,2024-02-03T16:20:58Z,2,2,MERGED
+UT-Registration-Plus,feat: 69,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/69,2024-02-02T23:35:55Z,2024-02-02T23:59:45Z,0,1,CLOSED
+UT-Registration-Plus,feat: updated Button to v2 design,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/68,2024-02-02T22:34:57Z,2024-02-28T19:48:18Z,10,12,CLOSED
+UT-Registration-Plus,chore: update dependencies,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/67,2024-02-02T22:13:56Z,2024-02-03T02:12:56Z,0,1,MERGED
+UT-Registration-Plus,feat: List Component implemented,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/66,2024-02-02T19:11:52Z,2024-02-17T04:13:02Z,7,12,CLOSED
+UT-Registration-Plus,feat: start calendar course block component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/64,2024-02-02T03:00:50Z,2024-02-03T20:52:25Z,5,3,CLOSED
+UT-Registration-Plus,Starting calendar course meeting component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/63,2024-01-31T19:11:24Z,2024-01-31T19:56:19Z,1,2,CLOSED
+UT-Registration-Plus,feat: Icon library integration,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/62,2024-01-31T07:11:59Z,2024-02-02T17:55:33Z,1,1,MERGED
+UT-Registration-Plus,feat: UnoCSS (TailwindCSS) (Storybook only),https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/61,2024-01-31T07:07:34Z,2024-02-03T21:21:19Z,1,5,MERGED
+UT-Registration-Plus,feat: Calendar Components 3rd Attempt at Merging,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/60,2024-01-31T03:17:40Z,2024-02-03T16:20:30Z,8,12,MERGED
+UT-Registration-Plus,feat: Calendar Page Construction Begun,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/58,2024-01-28T00:36:47Z,2024-01-31T03:12:47Z,1,0,CLOSED
+UT-Registration-Plus,refactor: merging utrp-v2 into main,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/55,2024-01-25T01:45:36Z,2024-01-25T01:49:16Z,0,78,MERGED
+UT-Registration-Plus,refactor: Replace Webpack with Vite,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/53,2024-01-11T03:19:02Z,2024-01-25T01:40:30Z,12,15,MERGED
+UT-Registration-Plus,feat: fall 2023 grades,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/226,2024-05-30T02:37:09Z,2024-06-03T05:25:27Z,1,1,MERGED
+UT-Registration-Plus,feat: grades by professor,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/225,2024-05-27T03:30:28Z,2024-05-27T21:36:42Z,6,2,MERGED
+UT-Registration-Plus,feat: additional changes to #201,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/224,2024-05-22T03:14:00Z,2024-05-27T14:32:31Z,12,14,MERGED
+UT-Registration-Plus,refactor: Update spinner design,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/223,2024-05-22T01:56:52Z,2024-05-22T04:07:41Z,1,1,MERGED
+UT-Registration-Plus,refactor: Update getCreditHours function to handle additional cases,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/222,2024-05-22T00:16:08Z,2024-05-22T01:59:08Z,0,2,MERGED
+UT-Registration-Plus,feat: popout icon for ccip in calendar,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/221,2024-05-21T05:19:00Z,2024-05-21T15:50:31Z,0,2,MERGED
+UT-Registration-Plus,feat: bold red refresh error,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/220,2024-05-21T03:46:15Z,2024-05-22T02:04:26Z,1,2,MERGED
+UT-Registration-Plus,feat: updated calendar page and recruitment banner links,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/219,2024-05-21T03:27:07Z,2024-05-21T03:31:10Z,0,1,MERGED
+UT-Registration-Plus,style: fix injected popup top/bottom padding,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/218,2024-05-21T01:11:13Z,2024-05-21T02:49:18Z,0,2,MERGED
+UT-Registration-Plus,style: add slight shadow on hover to calendar course cells,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/217,2024-05-21T00:57:51Z,2024-05-22T04:08:04Z,2,2,MERGED
+UT-Registration-Plus,fix: Fix popup drag hitbox,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/216,2024-05-21T00:51:33Z,2024-05-21T02:24:00Z,3,3,MERGED
+UT-Registration-Plus,style: always show scrollbar,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/215,2024-05-21T00:20:28Z,2024-05-21T02:56:36Z,0,6,MERGED
+UT-Registration-Plus,build: update storybook,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/214,2024-05-20T22:01:31Z,2024-05-20T22:08:37Z,0,3,MERGED
+UT-Registration-Plus,build: update pnpm version to 9,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/213,2024-05-20T20:53:43Z,2024-05-20T20:59:29Z,0,2,MERGED
+UT-Registration-Plus,chore: update headlessui,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/212,2024-05-20T20:35:24Z,2024-05-20T21:18:34Z,0,1,MERGED
+UT-Registration-Plus,feat: rerouted directory to syllabus when click on professor name,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/211,2024-05-17T23:08:48Z,2024-05-23T20:08:54Z,4,4,MERGED
+UT-Registration-Plus,feat: Initial Splash Text Commit,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/208,2024-04-10T23:48:02Z,2024-04-16T15:14:09Z,3,18,MERGED
+UT-Registration-Plus,feat: functional schedule options,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/207,2024-04-01T00:53:02Z,2024-09-28T19:54:19Z,2,26,CLOSED
+UT-Registration-Plus,fix: dialog movement,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/227,2024-06-03T05:30:46Z,2024-06-04T01:53:39Z,0,2,MERGED
+UT-Registration-Plus,feat: add CacheStore for GitHub stats and use names instead of usernames,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/405,2024-10-30T08:12:23Z,2024-11-13T18:01:20Z,7,13,MERGED
+UT-Registration-Plus,"fix(ui): multiple instructors are formatted properly, displays last name only, and are capitalized in all course blocks (#342)",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/403,2024-10-29T16:25:23Z,2024-10-29T21:07:26Z,7,10,MERGED
+UT-Registration-Plus,fix(ui): placeholder text for no instructor course #400,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/402,2024-10-28T23:56:19Z,2024-10-29T17:12:51Z,2,2,MERGED
+UT-Registration-Plus,"feat: use ""copy of"" for duplicated schedules and place them under the original schedule #358",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/397,2024-10-28T20:15:18Z,2024-10-28T22:56:02Z,2,2,MERGED
+UT-Registration-Plus,feat: add no-restricted-syntax for arbitrary style values,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/396,2024-10-26T20:18:17Z,2025-01-21T00:25:18Z,2,4,CLOSED
+UT-Registration-Plus,fix(ui): main popup now shows 0 for empty schedule,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/395,2024-10-25T21:50:12Z,2024-10-27T22:11:51Z,0,1,MERGED
+UT-Registration-Plus,feat(ui): changed popup close icon to #333F48,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/394,2024-10-25T03:46:17Z,2024-10-29T17:06:57Z,3,5,MERGED
+UT-Registration-Plus,feat: unique number into button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/393,2024-10-24T16:55:45Z,2025-01-21T03:25:32Z,29,22,CLOSED
+UT-Registration-Plus,feat: map page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/390,2024-10-23T19:58:06Z,2025-02-28T01:44:03Z,28,45,MERGED
+UT-Registration-Plus,fix(build): sentry sourcemap issues,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/389,2024-10-23T18:52:18Z,2024-10-23T19:15:47Z,0,1,MERGED
+UT-Registration-Plus,fix: place hours and courses under schedule name,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/388,2024-10-23T05:40:55Z,2024-11-22T02:56:57Z,12,20,MERGED
+UT-Registration-Plus,fix: cancel drag on scheduling page when item moves beyond container y bounds #320,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/387,2024-10-23T04:26:11Z,2025-01-24T19:36:10Z,0,0,CLOSED
+UT-Registration-Plus,fix: typo in settings page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/386,2024-10-23T04:22:35Z,2024-10-23T04:23:07Z,3,1,MERGED
+UT-Registration-Plus,chore: fix lint warnings,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/385,2024-10-23T02:44:37Z,2024-10-23T02:47:36Z,1,1,MERGED
+UT-Registration-Plus,feat(ui): course color picker,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/382,2024-10-23T00:39:32Z,2025-01-20T23:48:52Z,28,51,MERGED
+UT-Registration-Plus,fix: modify shadow on-hover and animation for CC Popup filled buttons,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/381,2024-10-22T20:16:23Z,2024-11-17T01:37:43Z,14,1,MERGED
+UT-Registration-Plus,feat: add more relevant links to the From the Team section,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/380,2024-10-22T18:27:05Z,2024-10-22T22:17:12Z,1,3,MERGED
+UT-Registration-Plus,"chore: Revert ""chore: Change color UTRP Red to #d10000""",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/379,2024-10-22T04:34:38Z,2024-10-22T06:11:47Z,56,1,CLOSED
+UT-Registration-Plus,feat(ui): added shadows to popup buttons and course blocks,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/378,2024-10-22T03:41:12Z,2025-01-08T08:20:10Z,7,13,MERGED
+UT-Registration-Plus,chore: One red color of #D10000,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/377,2024-10-22T03:41:04Z,2024-10-22T21:00:14Z,79,5,MERGED
+UT-Registration-Plus,fix: remove screenshot padding class for png download for #344,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/376,2024-10-22T03:17:33Z,2024-10-22T05:11:29Z,3,1,MERGED
+UT-Registration-Plus,fix: remove screenshot padding class for png download for #344,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/375,2024-10-22T02:46:52Z,2024-10-22T03:16:26Z,1,5,CLOSED
+UT-Registration-Plus,feat(popup): popup transparent fill,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/374,2024-10-22T00:29:12Z,2024-10-22T21:46:18Z,6,2,CLOSED
+UT-Registration-Plus,chore: Change color UTRP Red to #d10000,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/373,2024-10-22T00:18:40Z,2024-10-22T03:23:10Z,0,1,MERGED
+UT-Registration-Plus,feat: add core curriculum chips to injected popup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/372,2024-10-22T00:15:56Z,2024-10-22T21:15:27Z,11,11,MERGED
+UT-Registration-Plus,fix(ui): changed flipYs value to 0.4 in pickFontColor function,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/371,2024-10-22T00:08:54Z,2024-10-23T19:15:10Z,0,1,CLOSED
+UT-Registration-Plus,fix: changed the font-weight from 600 to 550,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/370,2024-10-22T00:07:25Z,2024-10-22T03:20:21Z,0,1,MERGED
+UT-Registration-Plus,fix: change schedule total courses text color to UTRP black,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/369,2024-10-22T00:07:11Z,2024-10-23T03:11:48Z,1,3,MERGED
+UT-Registration-Plus,feat: Add linkedin social to calendar,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/368,2024-10-22T00:02:12Z,2024-10-22T03:16:55Z,4,3,MERGED
+UT-Registration-Plus,feat: update useful links,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/367,2024-10-21T23:51:44Z,2024-10-22T00:13:12Z,0,1,MERGED
+UT-Registration-Plus,"fix(ui): add space before/after forward slash in ""ASYNC/OTHER"" text",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/366,2024-10-21T23:45:54Z,2024-10-22T00:01:09Z,0,2,MERGED
+UT-Registration-Plus,fix: added descending sort for commits on contributor section in settings page #363,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/365,2024-10-21T18:57:59Z,2024-10-21T21:24:10Z,3,4,MERGED
+UT-Registration-Plus,fix: width of feedback input fields,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/364,2024-10-21T17:23:06Z,2024-10-21T19:35:34Z,0,2,MERGED
+UT-Registration-Plus,chore: update issue templates,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/327,2024-10-19T16:39:49Z,2024-11-06T00:32:58Z,5,2,MERGED
+UT-Registration-Plus,feat: update senior swe admins,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/326,2024-10-19T03:07:03Z,2024-10-19T03:17:48Z,0,1,MERGED
+UT-Registration-Plus,feat: add explanation to grade distribution,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/325,2024-10-18T14:21:02Z,2024-11-15T20:54:20Z,8,2,MERGED
+UT-Registration-Plus,feat(build): refactor gulpfile to use gulp-execa,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/323,2024-10-18T01:29:23Z,2024-11-11T01:23:19Z,1,4,MERGED
+UT-Registration-Plus,feat(build): add Docker support,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/322,2024-10-18T00:29:47Z,2024-11-22T04:41:53Z,2,9,MERGED
+UT-Registration-Plus,feat: disable/some actions when no instructor,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/319,2024-10-17T16:45:46Z,2024-10-17T17:03:57Z,0,1,MERGED
+UT-Registration-Plus,feat: utrp stats,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/318,2024-10-17T07:54:03Z,2025-01-30T03:32:02Z,6,5,CLOSED
+UT-Registration-Plus,feat: spring 2024 instructors db,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/317,2024-10-17T02:11:01Z,2024-10-17T04:47:04Z,0,1,MERGED
+UT-Registration-Plus,build: sentry instrumentation,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/316,2024-10-16T23:51:07Z,2024-10-17T03:18:18Z,0,1,MERGED
+UT-Registration-Plus,fix: add a little error checking to settings,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/315,2024-10-16T22:34:38Z,2024-10-17T03:16:17Z,0,2,MERGED
+UT-Registration-Plus,fix(build): gulp zip,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/314,2024-10-16T21:53:59Z,2024-10-16T22:13:44Z,0,1,MERGED
+UT-Registration-Plus,style: remove ugly period after async,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/313,2024-10-16T21:26:45Z,2024-10-16T22:13:34Z,0,1,MERGED
+UT-Registration-Plus,fix: show calendar in active window,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/312,2024-10-16T18:16:20Z,2024-10-16T22:14:03Z,1,2,MERGED
+UT-Registration-Plus,feat: swe title updates,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/310,2024-10-15T05:44:16Z,2024-10-15T05:46:01Z,0,1,MERGED
+UT-Registration-Plus,chore: remove some debug statements,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/309,2024-10-15T04:28:16Z,2024-10-23T02:14:47Z,3,2,CLOSED
+UT-Registration-Plus,chore: get ready for release,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/308,2024-10-15T02:33:30Z,2024-10-15T03:08:45Z,1,4,MERGED
+UT-Registration-Plus,feat: silly changes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/307,2024-10-15T00:48:40Z,2024-10-15T03:14:19Z,0,1,CLOSED
+UT-Registration-Plus,feat: fun changes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/306,2024-10-15T00:40:31Z,2024-10-15T03:14:18Z,0,1,CLOSED
+UT-Registration-Plus,feat(ui): ut-registration-minus-rishit-aditya,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/305,2024-10-15T00:38:27Z,2024-10-15T03:14:18Z,0,1,CLOSED
+UT-Registration-Plus,make project BETTER,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/304,2024-10-15T00:37:24Z,2024-10-15T00:51:02Z,77,1,CLOSED
+UT-Registration-Plus,feat: fun intro branch,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/303,2024-10-15T00:32:40Z,2024-10-15T03:14:17Z,0,1,CLOSED
+UT-Registration-Plus,feat: fun branch,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/302,2024-10-15T00:31:39Z,2024-10-15T03:14:17Z,0,1,CLOSED
+UT-Registration-Plus,feat: fun changes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/301,2024-10-15T00:25:50Z,2024-10-15T03:14:16Z,0,1,CLOSED
+UT-Registration-Plus,feat: fun changes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/300,2024-10-15T00:23:39Z,2024-10-15T03:14:16Z,0,1,CLOSED
+UT-Registration-Plus,feat: add future qb1 to jokes list,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/299,2024-10-15T00:15:15Z,2024-10-15T03:14:16Z,0,1,CLOSED
+UT-Registration-Plus,feat: fun stuff,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/298,2024-10-15T00:14:18Z,2024-10-15T03:14:15Z,0,8,CLOSED
+UT-Registration-Plus,fix(everything): idk anymore,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/297,2024-10-15T00:08:33Z,2024-10-15T03:14:15Z,1,1,CLOSED
+UT-Registration-Plus,feat: splash text additions before v2 release,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/296,2024-10-14T09:47:37Z,2024-10-14T19:19:16Z,1,5,MERGED
+UT-Registration-Plus,fix(ui): duplicate schedule warning,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/295,2024-10-14T03:46:58Z,2024-10-23T04:10:54Z,9,11,MERGED
+UT-Registration-Plus,feat: migration update showing,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/293,2024-10-12T05:22:34Z,2024-10-12T20:21:43Z,5,9,MERGED
+UT-Registration-Plus,feat: UTRP v2 migration,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/292,2024-10-12T04:48:57Z,2024-10-15T02:30:38Z,24,18,MERGED
+UT-Registration-Plus,feat: injected button - add all courses from MyUT AND passing URL to handler,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/291,2024-10-08T23:03:52Z,2024-11-16T01:07:37Z,13,33,MERGED
+UT-Registration-Plus,feat: injected button to add all courses on official UT schedule ,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/290,2024-10-08T22:12:46Z,2024-10-08T23:04:29Z,1,1,CLOSED
+UT-Registration-Plus,fix: updated text when time/location not provided,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/289,2024-10-08T18:01:14Z,2024-11-16T21:11:30Z,20,23,MERGED
+UT-Registration-Plus,fix(ui): unhid settings button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/288,2024-10-08T04:50:59Z,2024-10-11T03:13:35Z,2,1,MERGED
+UT-Registration-Plus,fix: duplicate schedule name regex no longer grabs trailing white space,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/286,2024-10-08T00:24:00Z,2024-10-10T01:21:27Z,0,1,MERGED
+UT-Registration-Plus,feat: add collapsible sidebar animation,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/285,2024-10-08T00:22:17Z,2024-12-31T22:49:57Z,2,13,CLOSED
+UT-Registration-Plus,fix: disabled [object Object] hover message on dialog popups,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/284,2024-10-07T21:57:24Z,2024-10-08T22:18:48Z,1,3,MERGED
+UT-Registration-Plus,feat: release notes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/283,2024-10-07T19:46:12Z,2024-10-12T22:05:37Z,7,13,MERGED
+UT-Registration-Plus,docs: social media shield.io,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/282,2024-10-07T09:32:41Z,2024-11-15T02:10:00Z,4,2,CLOSED
+UT-Registration-Plus,feat: readme animation,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/281,2024-10-06T21:01:30Z,2024-10-06T21:37:05Z,2,1,MERGED
+UT-Registration-Plus,build: add pnpm run build:watch,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/280,2024-10-06T03:41:17Z,2024-10-06T03:50:59Z,0,1,MERGED
+UT-Registration-Plus,feat: wip add course by url,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/279,2024-10-06T03:17:51Z,2024-10-17T17:52:43Z,1,1,CLOSED
+UT-Registration-Plus,feat: sam's jokes,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/278,2024-10-06T03:06:53Z,2024-10-06T03:18:30Z,1,2,MERGED
+UT-Registration-Plus,feat: updating joke styling and updating jokes array,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/277,2024-10-05T22:34:00Z,2024-10-05T22:35:12Z,0,1,MERGED
+UT-Registration-Plus,chore: add js-doc,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/275,2024-10-05T16:01:04Z,2024-10-08T04:06:35Z,0,1,MERGED
+UT-Registration-Plus,docs: Create CONTRIBUTING.md,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/274,2024-10-05T11:44:00Z,2024-10-05T14:50:40Z,2,1,CLOSED
+UT-Registration-Plus,feat: async course adding and async/other course block adjustments,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/273,2024-10-05T11:25:00Z,2024-10-07T01:15:19Z,7,14,MERGED
+UT-Registration-Plus,feat: limit schedules to 10,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/272,2024-10-05T06:39:01Z,2024-10-05T18:27:44Z,0,1,MERGED
+UT-Registration-Plus,chore: remove unused imports and args,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/271,2024-10-05T05:13:51Z,2024-10-05T05:20:59Z,0,1,MERGED
+UT-Registration-Plus,fix: doesn't autoload on pages that don't have pages to load,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/270,2024-10-05T03:10:23Z,2024-10-05T03:20:28Z,2,2,MERGED
+UT-Registration-Plus,fix: grade dist when no instructor,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/269,2024-10-05T02:38:15Z,2024-10-05T02:39:30Z,0,1,MERGED
+UT-Registration-Plus,feat: lowercase instructor! ,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/268,2024-10-05T02:35:31Z,2024-10-05T03:44:58Z,0,5,MERGED
+UT-Registration-Plus,feat: add skeleton loader for course description + distribution,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/267,2024-10-05T02:20:03Z,2024-10-05T02:22:20Z,0,2,MERGED
+UT-Registration-Plus,feat: lowercase instructor!,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/265,2024-10-05T01:08:37Z,2024-10-05T02:35:16Z,1,3,CLOSED
+UT-Registration-Plus,feat: confirmation prompt,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/262,2024-10-04T11:11:36Z,2024-10-04T21:11:17Z,3,10,CLOSED
+UT-Registration-Plus,feat: report issue popup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/261,2024-10-04T04:55:10Z,2024-10-13T01:31:26Z,2,8,MERGED
+UT-Registration-Plus,feat: settings page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/260,2024-10-03T17:45:00Z,2024-10-10T23:05:19Z,9,24,MERGED
+UT-Registration-Plus,docs: add improved dev get started info,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/259,2024-10-03T03:22:02Z,2024-10-11T03:08:55Z,0,6,MERGED
+UT-Registration-Plus,fix: improve dialog handling and error management in list items,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/257,2024-10-02T16:01:39Z,2024-10-02T16:19:16Z,0,2,MERGED
+UT-Registration-Plus,feat: DONATIONSSSS,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/256,2024-10-02T09:54:56Z,2024-10-02T16:20:14Z,0,12,CLOSED
+UT-Registration-Plus,style: getting our minecraft splash text the way we need,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/255,2024-10-02T09:52:09Z,2024-10-02T14:31:31Z,2,1,MERGED
+UT-Registration-Plus,chore: update packages,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/254,2024-10-02T04:29:38Z,2024-10-03T18:49:10Z,2,1,MERGED
+UT-Registration-Plus,fix: disappearing dialog error message,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/253,2024-10-02T01:48:14Z,2024-10-02T16:05:05Z,3,1,CLOSED
+UT-Registration-Plus,fix: visual overflow bug when editing schedule name,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/251,2024-10-01T22:41:35Z,2024-10-02T04:08:31Z,3,4,MERGED
+UT-Registration-Plus,chore: update course schedules,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/249,2024-10-01T20:52:29Z,2024-10-02T03:59:28Z,0,1,MERGED
+UT-Registration-Plus,fix: fix broken UI when grade distributions fail to load,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/248,2024-10-01T19:50:24Z,2024-10-06T04:20:56Z,1,1,CLOSED
+UT-Registration-Plus,docs: update README.md,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/247,2024-10-01T14:18:00Z,2024-10-05T16:10:43Z,3,1,CLOSED
+UT-Registration-Plus,feat: splash text has arrived!,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/246,2024-10-01T10:18:56Z,2024-10-02T03:17:59Z,4,10,MERGED
+UT-Registration-Plus,feat: missed one chip toggle there,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/245,2024-10-01T09:23:54Z,2024-10-01T15:41:22Z,0,2,MERGED
+UT-Registration-Plus,feat: add react-loading-skeleton package,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/244,2024-10-01T09:04:43Z,2024-10-01T15:44:10Z,3,2,MERGED
+UT-Registration-Plus,refactor: improve error message and handle active schedule deletion,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/243,2024-10-01T08:50:15Z,2024-10-01T15:42:36Z,0,1,MERGED
+UT-Registration-Plus,fix: support classes with no location,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/242,2024-10-01T03:16:03Z,2024-10-01T03:43:09Z,0,1,MERGED
+UT-Registration-Plus,docs: update readme for UTRP v2 prod release,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/241,2024-10-01T01:23:09Z,2024-10-01T02:41:50Z,3,7,MERGED
+UT-Registration-Plus,fix: improper list data propagation,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/240,2024-10-01T00:16:23Z,2024-10-01T00:16:47Z,0,1,MERGED
+UT-Registration-Plus,feat: Derek/disable updating,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/239,2024-09-30T23:38:43Z,2024-10-01T00:15:25Z,1,3,MERGED
+UT-Registration-Plus,feat: newer grades and parameterized queries,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/238,2024-09-30T02:07:19Z,2024-09-30T02:15:30Z,0,1,MERGED
+UT-Registration-Plus,"feat: experimental toggle for icons, left off for now",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/237,2024-09-29T06:30:02Z,2024-09-29T20:11:27Z,6,10,MERGED
+UT-Registration-Plus,feat: temporary removal of icon,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/236,2024-09-29T03:47:38Z,2024-09-29T04:05:52Z,0,1,MERGED
+UT-Registration-Plus,feat: one single exclamation mark did all that,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/235,2024-09-29T02:54:44Z,2024-09-29T03:21:17Z,2,1,MERGED
+UT-Registration-Plus,feat: exclamation mark,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/234,2024-09-29T02:49:52Z,2024-09-29T02:50:25Z,0,16,CLOSED
+UT-Registration-Plus,feat: aesthetically pleasing squishier course blocks when compressed,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/232,2024-09-29T01:48:39Z,2024-09-29T02:19:34Z,1,15,MERGED
+UT-Registration-Plus,fix: added room number to course popup,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/231,2024-09-29T01:16:06Z,2024-09-30T14:47:40Z,2,1,MERGED
+UT-Registration-Plus,feat: schedule list item action menu,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/230,2024-09-28T20:05:53Z,2024-10-05T04:15:51Z,13,17,MERGED
+UT-Registration-Plus,feat: switch button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/229,2024-09-04T17:45:07Z,2024-10-01T00:50:34Z,5,20,MERGED
+UT-Registration-Plus,feat: link to your registered courses,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/228,2024-08-22T22:05:02Z,2024-08-25T00:34:10Z,3,13,MERGED
+UT-Registration-Plus,chore: migrate to new scss import syntax,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/478,2024-12-31T22:45:57Z,2025-01-01T02:43:40Z,0,1,MERGED
+UT-Registration-Plus,chore: remove typo,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/476,2024-12-31T21:16:49Z,2024-12-31T21:17:00Z,0,1,MERGED
+UT-Registration-Plus,feat: add spacing system,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/474,2024-12-31T05:34:55Z,2025-01-02T04:12:01Z,2,8,MERGED
+UT-Registration-Plus,feat(ui): update theme colors #466,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/473,2024-12-31T04:08:13Z,2025-01-03T02:23:41Z,2,7,MERGED
+UT-Registration-Plus,feat(ui): change icons to phosphor-icons #467,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/469,2024-12-30T02:41:34Z,2024-12-31T19:36:08Z,5,5,MERGED
+UT-Registration-Plus,feat: Modify text styles in Text.module.scss,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/468,2024-12-28T07:13:49Z,2024-12-28T20:21:58Z,1,4,MERGED
+UT-Registration-Plus,feat(ui): calendar sidebar redesign,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/464,2024-12-23T01:03:11Z,2025-01-20T00:34:21Z,12,44,MERGED
+UT-Registration-Plus,Update sidebar redesign,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/463,2024-12-23T00:46:47Z,2024-12-23T00:47:07Z,2,4,CLOSED
+UT-Registration-Plus,feat: add open calendar button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/457,2024-12-02T20:50:59Z,2025-01-25T03:27:53Z,8,7,MERGED
+UT-Registration-Plus,feat(ui): add new search link,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/456,2024-12-02T03:34:55Z,2024-12-31T19:44:16Z,0,2,MERGED
+UT-Registration-Plus,refactor: change a file name,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/447,2024-11-23T05:32:16Z,2024-11-23T06:14:50Z,1,2,MERGED
+UT-Registration-Plus,feat: implement Course Statuses feature,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/444,2024-11-20T19:59:38Z,2025-01-20T00:28:01Z,24,2,CLOSED
+UT-Registration-Plus,feat: validate login passed to background and implemented into add all injected button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/443,2024-11-20T06:10:25Z,2025-01-21T00:42:16Z,5,16,MERGED
+UT-Registration-Plus,feat: opacity in calendargridcell,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/441,2024-11-19T00:51:14Z,2024-11-19T02:44:33Z,0,3,CLOSED
+UT-Registration-Plus,style(ui): changed tick marks to match x-axis,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/440,2024-11-18T14:39:32Z,2024-11-19T17:28:38Z,0,1,MERGED
+UT-Registration-Plus,docs: remove redundant sentence in readme,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/439,2024-11-18T04:55:10Z,2024-11-18T05:02:44Z,1,2,MERGED
+UT-Registration-Plus,"feat(ui): Accommodate early morning, late night, and Saturday classes (Resolves #399)",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/438,2024-11-18T02:24:59Z,2025-03-15T19:01:08Z,1,5,CLOSED
+UT-Registration-Plus,fix: 4th attempt for: now able to delete schedule even if active,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/435,2024-11-17T10:31:19Z,2025-01-02T18:31:41Z,3,7,MERGED
+UT-Registration-Plus,fix: 2nd attempt for: now able to delete schedule even if active,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/434,2024-11-17T09:20:25Z,2024-11-17T10:27:59Z,1,3,CLOSED
+UT-Registration-Plus,feat: export/import functionality (backup/restore/share with friends) + a new input component,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/433,2024-11-17T01:40:57Z,2024-11-21T18:55:49Z,25,19,MERGED
+UT-Registration-Plus,feat: add eslint-plugin-tsdoc,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/430,2024-11-15T22:21:25Z,2024-11-16T06:20:36Z,0,6,MERGED
+UT-Registration-Plus,feat(build): add Corepack,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/429,2024-11-15T06:01:03Z,2024-11-15T06:36:45Z,1,1,CLOSED
+UT-Registration-Plus,feat: add graphql,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/428,2024-11-14T01:14:01Z,2025-01-30T03:21:49Z,2,2,CLOSED
+UT-Registration-Plus,fix(ui): reduce left side grade distribution margin/padding,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/427,2024-11-13T07:55:36Z,2024-11-15T19:13:37Z,2,2,MERGED
+UT-Registration-Plus,feat: add 404 page,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/426,2024-11-13T02:13:33Z,2024-11-13T03:58:00Z,0,3,MERGED
+UT-Registration-Plus,fix: now able to delete schedule even if active,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/415,2024-11-11T23:40:56Z,2024-11-17T09:17:42Z,1,3,CLOSED
+UT-Registration-Plus,feat: proxy request message + adding a course by URL,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/414,2024-11-11T23:36:08Z,2024-11-14T06:57:30Z,3,1,CLOSED
+UT-Registration-Plus,feat: modify Course Block text style and time and location text,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/409,2024-11-03T04:40:23Z,2024-11-15T19:43:42Z,4,1,MERGED
+UT-Registration-Plus,chore: ignore me -- sgunter/clone/nikshitak/feature/unique number into button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/407,2024-11-02T04:06:17Z,2024-11-02T04:29:08Z,0,10,CLOSED
+UT-Registration-Plus,"feat: bold course number in grade distribution chart, change text to ut-black",https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/406,2024-11-01T04:46:11Z,2024-11-04T21:38:51Z,2,3,MERGED
+UT-Registration-Plus,chore: update grades as of fall 2024,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/508,2025-02-21T06:48:11Z,2025-02-21T22:09:53Z,0,1,MERGED
+UT-Registration-Plus,feat(build): add vite-build-logger,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/507,2025-02-15T04:04:45Z,2025-02-15T06:05:56Z,0,3,MERGED
+UT-Registration-Plus,feat(ui): update popup and course blocks,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/506,2025-02-13T03:03:56Z,2025-02-14T00:07:05Z,0,13,MERGED
+UT-Registration-Plus,Update Popup and Course Blocks with New Figma Design,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/505,2025-02-13T02:49:54Z,2025-02-13T02:54:33Z,2,5,CLOSED
+UT-Registration-Plus,fix(ui): stop export button dropdown from squishing,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/504,2025-02-07T19:51:06Z,2025-02-08T02:52:04Z,3,1,MERGED
+UT-Registration-Plus,feat(ui): Modify Calendar Footer design and Unscheduled courses,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/503,2025-01-30T05:05:18Z,2025-02-13T19:09:40Z,1,12,MERGED
+UT-Registration-Plus,fix(ui): fix longstanding drag-and-drop duplication issue,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/502,2025-01-28T05:18:08Z,2025-02-04T23:28:54Z,11,30,MERGED
+UT-Registration-Plus,feat(ui): add schedule list icons,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/500,2025-01-25T22:49:23Z,2025-01-26T02:10:40Z,0,1,MERGED
+UT-Registration-Plus,fix(ui): fixed color switching on quick list reordering,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/495,2025-01-24T20:23:55Z,2025-01-28T05:14:15Z,2,4,CLOSED
+UT-Registration-Plus,Fix(ui): fixed color switching on quick list reordering,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/494,2025-01-24T20:19:04Z,2025-01-24T20:23:03Z,3,2,CLOSED
+UT-Registration-Plus,feat: firefox support,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/492,2025-01-21T06:10:01Z,2025-02-22T23:37:42Z,2,36,CLOSED
+UT-Registration-Plus,feat(ui): color picker final touches,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/491,2025-01-21T05:25:41Z,2025-01-30T02:32:06Z,0,61,MERGED
+UT-Registration-Plus,feat(ui): course unique number copy button,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/490,2025-01-21T03:14:57Z,2025-01-21T06:02:01Z,2,16,MERGED
+UT-Registration-Plus,feat(settings): allow disabling of auto-loading courses,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/489,2025-01-21T02:50:50Z,2025-01-21T05:04:14Z,0,1,MERGED
+UT-Registration-Plus,feat(settings): add option to always open calendar in new tab,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/488,2025-01-21T00:47:53Z,2025-01-21T05:18:00Z,2,4,MERGED
+UT-Registration-Plus,docs: add repobeats and star history,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/487,2025-01-21T00:10:21Z,2025-01-21T00:21:33Z,1,2,MERGED
+UT-Registration-Plus,feat(ui): made top day labels sticky,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/486,2025-01-19T21:42:14Z,2025-03-15T19:03:07Z,1,10,CLOSED
+UT-Registration-Plus,feat(ui): redesign grade distribution tooltip,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/485,2025-01-14T19:29:42Z,2025-01-20T19:03:06Z,2,5,MERGED
+UT-Registration-Plus,feat(ui): change red text when instructor not found,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/483,2025-01-05T02:33:27Z,2025-01-19T04:58:30Z,0,7,MERGED
+UT-Registration-Plus,feat(ui): update button variants following figma,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/482,2025-01-03T00:44:35Z,2025-01-07T20:59:15Z,2,12,MERGED
+UT-Registration-Plus,feat(ui): calendar header redesign,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/479,2025-01-01T21:00:30Z,2025-02-06T05:53:17Z,15,62,MERGED

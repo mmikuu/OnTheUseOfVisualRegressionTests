@@ -1,0 +1,36 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+gitgraph.js,Fix commit display without message,https://github.com/nicoespeon/gitgraph.js/pull/315,2019-07-27T17:21:23Z,2019-07-29T00:12:20Z,6,4,MERGED
+gitgraph.js,Pass graph as a prop to react component,https://github.com/nicoespeon/gitgraph.js/pull/306,2019-07-26T17:05:37Z,2019-07-27T12:28:13Z,2,1,MERGED
+gitgraph.js,Fix compact mode with import,https://github.com/nicoespeon/gitgraph.js/pull/305,2019-07-21T15:00:33Z,2019-07-21T15:07:34Z,0,3,MERGED
+gitgraph.js,Add options to render branch label on every commit,https://github.com/nicoespeon/gitgraph.js/pull/299,2019-06-06T18:00:57Z,2019-06-06T22:26:33Z,0,2,MERGED
+gitgraph.js,Upgrade to TypeScript v3.5,https://github.com/nicoespeon/gitgraph.js/pull/298,2019-06-06T17:21:32Z,2019-06-06T17:59:31Z,0,4,MERGED
+gitgraph.js,Fix ineffective merge when fastForward is set to false,https://github.com/nicoespeon/gitgraph.js/pull/330,2019-10-18T10:23:44Z,2019-10-18T23:24:29Z,1,1,MERGED
+gitgraph.js,Allow padding to be changed in template options (gitgraph-js),https://github.com/nicoespeon/gitgraph.js/pull/320,2019-08-13T16:18:47Z,2020-03-22T13:20:05Z,5,3,CLOSED
+gitgraph.js,Change Tag SVG radius value,https://github.com/nicoespeon/gitgraph.js/pull/340,2019-12-16T09:57:36Z,2019-12-16T16:02:20Z,1,1,MERGED
+gitgraph.js,Gitter chat badge added to README,https://github.com/nicoespeon/gitgraph.js/pull/338,2019-11-30T04:56:05Z,2019-11-30T06:09:22Z,0,1,MERGED
+gitgraph.js,Fixing graph when the same branch is merged multiple times in a row,https://github.com/nicoespeon/gitgraph.js/pull/335,2019-11-17T18:24:48Z,2019-11-19T01:01:23Z,2,3,MERGED
+gitgraph.js,Fix the issue that HEAD is not updated when calling checkout,https://github.com/nicoespeon/gitgraph.js/pull/349,2020-03-15T18:28:02Z,2020-03-22T13:19:14Z,0,1,MERGED
+gitgraph.js,Reference the new lerna site,https://github.com/nicoespeon/gitgraph.js/pull/343,2020-01-08T10:17:31Z,2020-01-08T10:44:26Z,0,1,MERGED
+gitgraph.js,Fixing the parent branch name in readme,https://github.com/nicoespeon/gitgraph.js/pull/355,2020-04-24T23:12:48Z,2020-04-25T13:17:57Z,0,1,MERGED
+gitgraph.js,fix undefined current when importing parent branches,https://github.com/nicoespeon/gitgraph.js/pull/352,2020-04-03T11:01:43Z,2020-04-04T21:35:22Z,3,1,MERGED
+gitgraph.js,fix: replace 'transparent' with 'none',https://github.com/nicoespeon/gitgraph.js/pull/366,2020-06-17T05:44:47Z,2020-06-27T13:32:00Z,2,1,MERGED
+gitgraph.js,Abstracting out the layout rendering algorithms,https://github.com/nicoespeon/gitgraph.js/pull/364,2020-06-11T14:07:26Z,2024-07-13T11:44:07Z,7,11,CLOSED
+gitgraph.js,Fix body of last commit not visible,https://github.com/nicoespeon/gitgraph.js/pull/386,2020-09-25T13:23:03Z,2020-09-25T15:22:03Z,0,1,MERGED
+gitgraph.js,Fix infrastractural problems,https://github.com/nicoespeon/gitgraph.js/pull/385,2020-09-25T12:48:47Z,2020-09-25T15:15:48Z,4,1,MERGED
+gitgraph.js,Fix failing TravisCI,https://github.com/nicoespeon/gitgraph.js/pull/383,2020-09-21T17:17:29Z,2020-09-22T01:07:30Z,3,1,MERGED
+gitgraph.js,feat: update address about Usage Demo & Documentation,https://github.com/nicoespeon/gitgraph.js/pull/382,2020-09-16T07:42:22Z,2020-09-21T14:34:49Z,6,2,MERGED
+gitgraph.js,Updated computeGraphMap import,https://github.com/nicoespeon/gitgraph.js/pull/376,2020-08-25T15:48:40Z,2020-08-26T18:10:00Z,2,1,CLOSED
+gitgraph.js,Refactor graph rendering from closures into a class,https://github.com/nicoespeon/gitgraph.js/pull/398,2020-12-29T11:04:55Z,2024-07-13T11:44:07Z,20,1,CLOSED
+gitgraph.js,Migrate linting to eslint,https://github.com/nicoespeon/gitgraph.js/pull/395,2020-11-24T04:07:12Z,2020-11-27T03:08:15Z,3,2,MERGED
+gitgraph.js,Fix linting glob,https://github.com/nicoespeon/gitgraph.js/pull/394,2020-11-24T02:55:11Z,2020-11-26T02:10:48Z,0,1,MERGED
+gitgraph.js,[React] Individual file breakout,https://github.com/nicoespeon/gitgraph.js/pull/391,2020-11-21T02:54:07Z,2020-11-24T01:15:51Z,3,5,MERGED
+gitgraph.js,(@gitgraph/js) Add option to make graph responsive,https://github.com/nicoespeon/gitgraph.js/pull/401,2021-03-06T13:45:14Z,2021-03-06T14:28:54Z,0,4,MERGED
+gitgraph.js,Branch Deletion,https://github.com/nicoespeon/gitgraph.js/pull/399,2021-03-05T11:26:08Z,2021-03-06T13:58:35Z,7,1,MERGED
+gitgraph.js,Fix merge example,https://github.com/nicoespeon/gitgraph.js/pull/413,2021-09-22T11:43:25Z,2021-09-22T11:48:31Z,0,2,MERGED
+gitgraph.js,feat: add events with import,https://github.com/nicoespeon/gitgraph.js/pull/419,2022-05-13T10:40:45Z,2024-07-13T11:44:08Z,0,3,CLOSED
+gitgraph.js,Fix yarn install,https://github.com/nicoespeon/gitgraph.js/pull/421,2022-09-25T15:19:10Z,2022-09-26T17:28:10Z,8,1,MERGED
+gitgraph.js,Added multiple branches pointing to the same commit,https://github.com/nicoespeon/gitgraph.js/pull/420,2022-09-25T01:57:59Z,2022-09-25T14:19:57Z,1,13,CLOSED
+gitgraph.js,Change package name,https://github.com/nicoespeon/gitgraph.js/pull/433,2023-03-07T20:24:35Z,2023-03-07T20:24:38Z,0,24,CLOSED
+gitgraph.js,Change package name,https://github.com/nicoespeon/gitgraph.js/pull/432,2023-03-07T20:20:38Z,2023-03-07T20:20:52Z,0,24,CLOSED
+gitgraph.js,Draw less curvey,https://github.com/nicoespeon/gitgraph.js/pull/431,2023-03-06T20:27:39Z,2023-03-06T20:28:20Z,0,886,CLOSED
+gitgraph.js,Liuliu/branch shadow and curve,https://github.com/nicoespeon/gitgraph.js/pull/437,2023-05-03T18:28:01Z,2023-05-03T18:29:00Z,0,39,CLOSED

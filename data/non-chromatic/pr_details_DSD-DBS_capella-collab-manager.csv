@@ -1,0 +1,1021 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+capella-collab-manager,Update repoName,https://github.com/DSD-DBS/capella-collab-manager/pull/37,2022-03-14T19:38:22Z,2022-03-14T19:38:32Z,0,1,MERGED
+capella-collab-manager,Add IMPORTER_IMAGE in backend environment,https://github.com/DSD-DBS/capella-collab-manager/pull/35,2022-03-14T18:06:51Z,2022-03-14T18:06:58Z,0,1,MERGED
+capella-collab-manager,Use seperate importer image for backups,https://github.com/DSD-DBS/capella-collab-manager/pull/34,2022-03-14T17:29:48Z,2022-03-14T17:29:53Z,0,1,MERGED
+capella-collab-manager,Ease debug,https://github.com/DSD-DBS/capella-collab-manager/pull/33,2022-03-14T10:30:55Z,2022-03-14T16:26:45Z,0,4,MERGED
+capella-collab-manager,Deploy nginx mock only in local environment,https://github.com/DSD-DBS/capella-collab-manager/pull/32,2022-03-10T10:26:53Z,2022-03-10T10:26:59Z,0,1,MERGED
+capella-collab-manager,Mock,https://github.com/DSD-DBS/capella-collab-manager/pull/31,2022-03-10T10:13:41Z,2022-03-10T10:14:01Z,0,2,MERGED
+capella-collab-manager,Mock,https://github.com/DSD-DBS/capella-collab-manager/pull/30,2022-03-10T09:35:09Z,2022-03-10T09:35:37Z,0,5,MERGED
+capella-collab-manager,Feature/git backup,https://github.com/DSD-DBS/capella-collab-manager/pull/27,2022-03-07T14:14:50Z,2022-03-07T14:15:42Z,0,34,MERGED
+capella-collab-manager,Fix/k8s,https://github.com/DSD-DBS/capella-collab-manager/pull/26,2022-03-01T17:23:53Z,2022-03-01T17:23:58Z,0,2,MERGED
+capella-collab-manager,Fix/k8s,https://github.com/DSD-DBS/capella-collab-manager/pull/25,2022-03-01T16:14:29Z,2022-03-01T16:14:37Z,1,10,MERGED
+capella-collab-manager,K8s status,https://github.com/DSD-DBS/capella-collab-manager/pull/20,2022-02-18T18:53:39Z,2022-02-18T19:03:28Z,1,16,MERGED
+capella-collab-manager,Create repository from the frontend,https://github.com/DSD-DBS/capella-collab-manager/pull/16,2022-02-17T10:34:10Z,2022-02-17T14:57:29Z,0,39,MERGED
+capella-collab-manager,Readonly containers,https://github.com/DSD-DBS/capella-collab-manager/pull/13,2022-02-16T17:00:50Z,2022-02-17T14:57:10Z,0,20,MERGED
+capella-collab-manager,Resign of active sessions and login screen,https://github.com/DSD-DBS/capella-collab-manager/pull/5,2022-02-15T14:22:58Z,2022-02-15T14:23:05Z,0,15,MERGED
+capella-collab-manager,Add footer with Terms and Conditions,https://github.com/DSD-DBS/capella-collab-manager/pull/3,2022-02-14T17:59:05Z,2022-02-14T17:59:12Z,0,2,MERGED
+capella-collab-manager,Small redesign & unbranding,https://github.com/DSD-DBS/capella-collab-manager/pull/2,2022-02-14T16:57:54Z,2022-02-14T16:58:04Z,0,11,MERGED
+capella-collab-manager,Fix/azure,https://github.com/DSD-DBS/capella-collab-manager/pull/101,2022-05-27T15:59:16Z,2022-05-27T18:09:30Z,0,4,MERGED
+capella-collab-manager,Fix/azure,https://github.com/DSD-DBS/capella-collab-manager/pull/100,2022-05-27T15:59:07Z,2022-05-27T18:07:21Z,0,5,CLOSED
+capella-collab-manager,Monitor inactivity in project sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/99,2022-05-23T16:26:25Z,2022-06-03T14:02:12Z,1,65,MERGED
+capella-collab-manager,Set admins by default as t4c-repository-admins during project creation,https://github.com/DSD-DBS/capella-collab-manager/pull/91,2022-05-16T10:28:13Z,2022-07-15T15:52:43Z,6,10,MERGED
+capella-collab-manager,Disable reconnect button as long as session has not started,https://github.com/DSD-DBS/capella-collab-manager/pull/87,2022-05-13T10:30:17Z,2022-05-23T16:29:36Z,3,3,MERGED
+capella-collab-manager,Allow deletions of projects,https://github.com/DSD-DBS/capella-collab-manager/pull/86,2022-05-12T12:55:45Z,2022-11-11T06:50:26Z,10,49,CLOSED
+capella-collab-manager,Rework modelloading,https://github.com/DSD-DBS/capella-collab-manager/pull/81,2022-05-06T14:32:17Z,2022-05-06T14:32:39Z,0,1,MERGED
+capella-collab-manager,Add configuration diff,https://github.com/DSD-DBS/capella-collab-manager/pull/80,2022-05-06T11:39:02Z,2022-05-06T11:40:35Z,0,2,MERGED
+capella-collab-manager,Dev/config diff,https://github.com/DSD-DBS/capella-collab-manager/pull/79,2022-05-06T11:38:53Z,2022-05-06T11:39:16Z,0,14,CLOSED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/64,2022-05-02T14:15:40Z,2022-05-02T16:01:47Z,0,152,MERGED
+capella-collab-manager,Local deployment experience,https://github.com/DSD-DBS/capella-collab-manager/pull/63,2022-04-22T07:01:26Z,2022-04-29T13:53:31Z,6,14,MERGED
+capella-collab-manager,frontend-settings: improve user search,https://github.com/DSD-DBS/capella-collab-manager/pull/62,2022-04-21T14:06:14Z,2022-04-25T15:31:09Z,0,1,MERGED
+capella-collab-manager,License headers,https://github.com/DSD-DBS/capella-collab-manager/pull/61,2022-04-21T11:25:22Z,2022-04-21T11:25:30Z,0,2,MERGED
+capella-collab-manager,Fix/sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/58,2022-04-14T11:00:06Z,2022-04-14T11:01:23Z,0,4,MERGED
+capella-collab-manager,Mock oauth,https://github.com/DSD-DBS/capella-collab-manager/pull/57,2022-04-11T16:00:28Z,2022-04-14T10:58:25Z,0,21,MERGED
+capella-collab-manager,Validate in backend that an user is not added twice ,https://github.com/DSD-DBS/capella-collab-manager/pull/55,2022-04-11T13:05:12Z,2022-04-29T13:15:23Z,2,4,MERGED
+capella-collab-manager,Contribution,https://github.com/DSD-DBS/capella-collab-manager/pull/54,2022-04-11T13:03:46Z,2022-04-14T08:56:21Z,0,11,MERGED
+capella-collab-manager,Deployment improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/51,2022-04-08T11:54:06Z,2022-04-08T11:54:44Z,0,14,MERGED
+capella-collab-manager,Accelerate loading of readonly sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/138,2022-07-26T16:11:12Z,2022-08-16T13:32:28Z,3,64,MERGED
+capella-collab-manager,"Add isort, black and prettier to pre-commit hook",https://github.com/DSD-DBS/capella-collab-manager/pull/126,2022-07-15T16:42:41Z,2022-07-15T16:43:16Z,0,2,MERGED
+capella-collab-manager,Merge staging into upload-files,https://github.com/DSD-DBS/capella-collab-manager/pull/123,2022-06-24T12:33:54Z,2022-06-24T12:34:17Z,0,4,MERGED
+capella-collab-manager,Fix/monitoring,https://github.com/DSD-DBS/capella-collab-manager/pull/120,2022-06-17T15:03:05Z,2022-06-17T15:03:21Z,0,3,MERGED
+capella-collab-manager,Rework session overview,https://github.com/DSD-DBS/capella-collab-manager/pull/119,2022-06-17T09:55:33Z,2022-07-15T14:07:25Z,2,2,MERGED
+capella-collab-manager,Add t4c server mock in documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/116,2022-06-14T13:31:56Z,2022-06-16T12:41:36Z,2,2,MERGED
+capella-collab-manager,Upload files,https://github.com/DSD-DBS/capella-collab-manager/pull/115,2022-06-14T10:42:45Z,2022-08-09T14:15:59Z,12,81,MERGED
+capella-collab-manager,Replace ngx simplebar,https://github.com/DSD-DBS/capella-collab-manager/pull/111,2022-06-09T09:23:46Z,2022-06-10T10:05:07Z,1,4,MERGED
+capella-collab-manager,Consolidate Session manager code,https://github.com/DSD-DBS/capella-collab-manager/pull/110,2022-06-09T07:30:20Z,2022-06-13T11:26:22Z,0,8,MERGED
+capella-collab-manager,handling oauth errors,https://github.com/DSD-DBS/capella-collab-manager/pull/106,2022-06-08T09:29:36Z,2022-07-14T09:27:54Z,2,2,MERGED
+capella-collab-manager,Update documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/105,2022-06-07T12:04:02Z,2022-08-08T14:03:51Z,5,6,CLOSED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/104,2022-06-03T15:18:00Z,2022-06-03T15:30:06Z,0,97,MERGED
+capella-collab-manager,Remove push images feature,https://github.com/DSD-DBS/capella-collab-manager/pull/355,2022-10-31T15:38:45Z,2022-11-08T12:30:09Z,2,3,MERGED
+capella-collab-manager,Fix nature and working mode,https://github.com/DSD-DBS/capella-collab-manager/pull/354,2022-10-28T13:13:05Z,2022-10-31T13:02:10Z,10,5,MERGED
+capella-collab-manager,Add ESlint deprecation rule,https://github.com/DSD-DBS/capella-collab-manager/pull/352,2022-10-27T15:40:40Z,2022-10-28T14:00:49Z,0,3,MERGED
+capella-collab-manager,Show instance status in instance details.,https://github.com/DSD-DBS/capella-collab-manager/pull/351,2022-10-27T13:16:38Z,2022-11-09T10:16:12Z,17,20,MERGED
+capella-collab-manager,Make model tool required,https://github.com/DSD-DBS/capella-collab-manager/pull/350,2022-10-27T11:37:34Z,2022-10-27T15:02:48Z,1,2,MERGED
+capella-collab-manager,Reintegrate backup functionality,https://github.com/DSD-DBS/capella-collab-manager/pull/349,2022-10-27T10:56:21Z,2022-11-14T12:50:45Z,11,70,MERGED
+capella-collab-manager,Update all frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/348,2022-10-27T10:07:45Z,2022-10-28T08:47:26Z,0,1,MERGED
+capella-collab-manager,Fix project creation and verification problems,https://github.com/DSD-DBS/capella-collab-manager/pull/347,2022-10-27T10:00:38Z,2022-10-27T10:25:35Z,2,5,MERGED
+capella-collab-manager,Styling for active sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/346,2022-10-27T08:38:43Z,2022-10-28T13:32:22Z,0,1,MERGED
+capella-collab-manager,Improve deploy experience,https://github.com/DSD-DBS/capella-collab-manager/pull/337,2022-10-26T16:34:08Z,2022-10-31T15:58:48Z,3,5,MERGED
+capella-collab-manager,Refactor role verification and routes,https://github.com/DSD-DBS/capella-collab-manager/pull/330,2022-10-24T16:49:44Z,2022-10-27T08:24:16Z,8,18,MERGED
+capella-collab-manager,Update CODEOWNERS file,https://github.com/DSD-DBS/capella-collab-manager/pull/329,2022-10-24T13:12:39Z,2022-10-26T05:50:29Z,0,1,MERGED
+capella-collab-manager,Edit T4C modelsource,https://github.com/DSD-DBS/capella-collab-manager/pull/328,2022-10-21T11:30:00Z,2022-10-28T08:47:10Z,46,36,MERGED
+capella-collab-manager,Add no-console lint rule,https://github.com/DSD-DBS/capella-collab-manager/pull/327,2022-10-20T13:15:36Z,2022-10-20T15:41:13Z,0,2,MERGED
+capella-collab-manager,fix: Use user ID for project creation,https://github.com/DSD-DBS/capella-collab-manager/pull/326,2022-10-20T09:15:49Z,2022-10-20T09:21:41Z,0,1,MERGED
+capella-collab-manager,Small fix for PR #323,https://github.com/DSD-DBS/capella-collab-manager/pull/325,2022-10-20T08:58:42Z,2022-10-20T09:17:40Z,0,2,MERGED
+capella-collab-manager,Fix isort pre-commit hook,https://github.com/DSD-DBS/capella-collab-manager/pull/324,2022-10-19T12:05:11Z,2022-10-19T12:24:26Z,0,4,MERGED
+capella-collab-manager,Use userId for general users route,https://github.com/DSD-DBS/capella-collab-manager/pull/323,2022-10-19T05:41:34Z,2022-10-20T06:28:33Z,13,8,MERGED
+capella-collab-manager,Remove unused vars and imports (frontend),https://github.com/DSD-DBS/capella-collab-manager/pull/321,2022-10-18T09:51:49Z,2022-10-18T09:57:09Z,0,1,MERGED
+capella-collab-manager,Merge `staging` into `v2/staging`,https://github.com/DSD-DBS/capella-collab-manager/pull/318,2022-10-18T05:48:39Z,2022-10-18T06:03:35Z,0,77,MERGED
+capella-collab-manager,Use dependency injection for authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/312,2022-10-17T12:01:05Z,2022-10-20T07:25:17Z,13,23,MERGED
+capella-collab-manager,Edit Linked Git Models,https://github.com/DSD-DBS/capella-collab-manager/pull/311,2022-10-14T16:03:10Z,2022-10-21T11:28:02Z,16,114,MERGED
+capella-collab-manager,Disable proxy buffering for ingress,https://github.com/DSD-DBS/capella-collab-manager/pull/309,2022-10-14T09:05:14Z,2022-10-17T13:50:35Z,0,3,MERGED
+capella-collab-manager,Linked Git Models Overview,https://github.com/DSD-DBS/capella-collab-manager/pull/308,2022-10-13T13:34:52Z,2022-10-18T06:51:11Z,2,6,CLOSED
+capella-collab-manager,T4C Model source for Capella model,https://github.com/DSD-DBS/capella-collab-manager/pull/305,2022-10-12T14:57:33Z,2022-10-21T11:36:58Z,0,8,CLOSED
+capella-collab-manager,Review for #286,https://github.com/DSD-DBS/capella-collab-manager/pull/304,2022-10-12T13:51:56Z,2022-10-19T13:56:46Z,9,52,MERGED
+capella-collab-manager,Introduce ESLint,https://github.com/DSD-DBS/capella-collab-manager/pull/303,2022-10-11T18:44:49Z,2022-10-18T09:39:25Z,2,20,MERGED
+capella-collab-manager,Add skeleton loader,https://github.com/DSD-DBS/capella-collab-manager/pull/302,2022-10-11T17:44:41Z,2022-10-19T10:23:59Z,2,5,MERGED
+capella-collab-manager,Manage tools in the settings as administrator,https://github.com/DSD-DBS/capella-collab-manager/pull/301,2022-10-11T16:22:10Z,2022-10-24T15:24:25Z,44,71,MERGED
+capella-collab-manager,Fix unknown state in sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/300,2022-10-11T14:47:32Z,2022-10-19T14:30:40Z,1,4,MERGED
+capella-collab-manager,Fix URL construction,https://github.com/DSD-DBS/capella-collab-manager/pull/299,2022-10-11T13:57:44Z,2022-10-13T11:45:34Z,0,1,MERGED
+capella-collab-manager,Support read-only sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/297,2022-10-11T12:44:03Z,2022-11-11T10:50:01Z,34,37,MERGED
+capella-collab-manager,Make git instance deletion button clickable (not just the icon),https://github.com/DSD-DBS/capella-collab-manager/pull/290,2022-10-10T14:02:38Z,2022-10-11T10:31:10Z,0,1,MERGED
+capella-collab-manager,Rename repository to project,https://github.com/DSD-DBS/capella-collab-manager/pull/289,2022-10-10T09:59:45Z,2022-10-10T13:40:30Z,5,5,MERGED
+capella-collab-manager,Release notes improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/288,2022-10-10T07:28:56Z,2022-10-11T11:01:45Z,1,3,MERGED
+capella-collab-manager,Run frontend tests in Github Actions,https://github.com/DSD-DBS/capella-collab-manager/pull/287,2022-10-07T14:37:18Z,2022-10-11T05:58:50Z,0,4,MERGED
+capella-collab-manager,Add management for TeamForCapella repositories,https://github.com/DSD-DBS/capella-collab-manager/pull/286,2022-10-07T13:48:12Z,2022-10-19T13:59:09Z,2,66,MERGED
+capella-collab-manager,Fix alembic migration history,https://github.com/DSD-DBS/capella-collab-manager/pull/285,2022-10-07T09:15:24Z,2022-10-13T11:10:06Z,1,17,MERGED
+capella-collab-manager,Make tools endpoints REST conform,https://github.com/DSD-DBS/capella-collab-manager/pull/284,2022-10-06T06:59:03Z,2022-10-10T08:53:02Z,0,30,MERGED
+capella-collab-manager,Link Git models with general models,https://github.com/DSD-DBS/capella-collab-manager/pull/283,2022-10-05T14:06:00Z,2022-10-21T08:59:04Z,48,49,CLOSED
+capella-collab-manager,Remove outdated git utils,https://github.com/DSD-DBS/capella-collab-manager/pull/282,2022-10-05T11:55:37Z,2022-10-06T09:25:04Z,0,1,MERGED
+capella-collab-manager,T4C instances improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/281,2022-10-05T07:10:26Z,2022-10-05T14:14:06Z,4,27,MERGED
+capella-collab-manager,Remove unused components,https://github.com/DSD-DBS/capella-collab-manager/pull/280,2022-10-05T06:10:59Z,2022-10-05T11:20:55Z,0,2,MERGED
+capella-collab-manager,Unique style for t4c instances,https://github.com/DSD-DBS/capella-collab-manager/pull/279,2022-10-04T16:29:56Z,2022-10-05T11:29:48Z,2,8,MERGED
+capella-collab-manager,Tools settings,https://github.com/DSD-DBS/capella-collab-manager/pull/278,2022-10-04T14:11:48Z,2022-10-11T17:12:45Z,1,20,CLOSED
+capella-collab-manager,TeamForCapella instances integration,https://github.com/DSD-DBS/capella-collab-manager/pull/277,2022-10-04T14:02:11Z,2022-10-10T09:28:48Z,1,71,MERGED
+capella-collab-manager,Add frontend testing,https://github.com/DSD-DBS/capella-collab-manager/pull/275,2022-10-04T12:55:18Z,2022-10-24T11:59:27Z,11,47,MERGED
+capella-collab-manager,Download files,https://github.com/DSD-DBS/capella-collab-manager/pull/274,2022-10-04T10:10:41Z,2022-12-13T15:44:50Z,11,27,MERGED
+capella-collab-manager,Update resources in services instead of components,https://github.com/DSD-DBS/capella-collab-manager/pull/268,2022-09-29T14:04:02Z,2022-10-20T07:42:06Z,1,3,MERGED
+capella-collab-manager,Test alembic upgrade and downgrade,https://github.com/DSD-DBS/capella-collab-manager/pull/267,2022-09-29T10:02:11Z,2022-10-10T11:33:06Z,4,20,MERGED
+capella-collab-manager,Allow to abort a running model creation,https://github.com/DSD-DBS/capella-collab-manager/pull/266,2022-09-29T09:53:04Z,2022-10-04T13:14:41Z,2,6,MERGED
+capella-collab-manager,Small changes to notices behavior and refactoring,https://github.com/DSD-DBS/capella-collab-manager/pull/265,2022-09-29T07:19:22Z,2022-10-04T14:13:35Z,0,4,MERGED
+capella-collab-manager,Some model stepper improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/264,2022-09-27T14:30:06Z,2022-09-29T15:34:46Z,6,51,MERGED
+capella-collab-manager,Rename helm chart,https://github.com/DSD-DBS/capella-collab-manager/pull/263,2022-09-27T09:54:16Z,2022-10-05T07:07:13Z,2,1,MERGED
+capella-collab-manager,Add Backend tests,https://github.com/DSD-DBS/capella-collab-manager/pull/262,2022-09-27T09:46:37Z,2022-09-29T14:32:26Z,7,18,MERGED
+capella-collab-manager,Remove outdated backend configuration,https://github.com/DSD-DBS/capella-collab-manager/pull/261,2022-09-27T09:34:58Z,2022-09-29T10:06:41Z,0,4,MERGED
+capella-collab-manager,chore: Add license for conventional commits file,https://github.com/DSD-DBS/capella-collab-manager/pull/257,2022-09-23T13:31:24Z,2022-09-23T13:38:29Z,0,1,MERGED
+capella-collab-manager,Fix request of persistent sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/256,2022-09-23T10:41:41Z,2022-10-18T13:02:38Z,29,32,MERGED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/255,2022-09-23T08:25:43Z,2022-09-27T08:33:37Z,1,56,MERGED
+capella-collab-manager,dics: Fix broken hyperlink to license file,https://github.com/DSD-DBS/capella-collab-manager/pull/254,2022-09-22T08:46:14Z,2022-09-22T08:50:50Z,0,1,MERGED
+capella-collab-manager,V1/docs getting started with t4c project,https://github.com/DSD-DBS/capella-collab-manager/pull/253,2022-09-21T20:36:50Z,2022-09-27T08:44:08Z,2,12,MERGED
+capella-collab-manager,K3d deployment and workflow improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/252,2022-09-20T09:55:57Z,2022-09-27T09:36:14Z,2,6,MERGED
+capella-collab-manager,fix: update kubernetes dashboard token generation,https://github.com/DSD-DBS/capella-collab-manager/pull/248,2022-09-15T16:19:24Z,2022-09-16T12:29:52Z,1,1,MERGED
+capella-collab-manager,Do not set cookie as HTTP only,https://github.com/DSD-DBS/capella-collab-manager/pull/241,2022-09-13T14:26:23Z,2022-09-13T14:49:31Z,0,1,MERGED
+capella-collab-manager,Automatically add issues and PRs to the project board,https://github.com/DSD-DBS/capella-collab-manager/pull/240,2022-09-13T12:29:28Z,2022-09-16T12:23:58Z,0,2,MERGED
+capella-collab-manager,Automatically add issues and PRs to the project board,https://github.com/DSD-DBS/capella-collab-manager/pull/239,2022-09-13T12:26:49Z,2022-09-13T12:28:59Z,0,2,CLOSED
+capella-collab-manager,Development documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/235,2022-09-12T15:38:17Z,2022-10-05T11:31:01Z,1,5,MERGED
+capella-collab-manager,Improve OAuth2 functionality,https://github.com/DSD-DBS/capella-collab-manager/pull/234,2022-09-12T14:30:05Z,2022-09-13T10:26:43Z,1,4,MERGED
+capella-collab-manager,Update comments and license header,https://github.com/DSD-DBS/capella-collab-manager/pull/230,2022-09-09T16:30:35Z,2022-09-12T12:56:44Z,0,4,MERGED
+capella-collab-manager,Rename legacy repositories to projects,https://github.com/DSD-DBS/capella-collab-manager/pull/229,2022-09-09T16:16:43Z,2022-10-10T09:53:09Z,1,2,MERGED
+capella-collab-manager,Improve error message handling,https://github.com/DSD-DBS/capella-collab-manager/pull/227,2022-09-09T15:34:03Z,2022-09-12T12:56:33Z,0,1,MERGED
+capella-collab-manager,Actions,https://github.com/DSD-DBS/capella-collab-manager/pull/219,2022-09-06T08:41:53Z,2022-09-06T14:49:03Z,1,48,MERGED
+capella-collab-manager,Button to anchors,https://github.com/DSD-DBS/capella-collab-manager/pull/213,2022-09-05T13:22:15Z,2022-10-06T13:05:27Z,0,1,MERGED
+capella-collab-manager,Add model stepper,https://github.com/DSD-DBS/capella-collab-manager/pull/212,2022-09-05T11:36:29Z,2022-09-29T15:08:42Z,1,13,MERGED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/211,2022-09-01T15:04:55Z,2022-09-01T15:05:15Z,0,28,MERGED
+capella-collab-manager,Alembic fix migration history,https://github.com/DSD-DBS/capella-collab-manager/pull/209,2022-08-31T16:07:49Z,2022-10-07T12:01:25Z,4,7,CLOSED
+capella-collab-manager,Feature: download files,https://github.com/DSD-DBS/capella-collab-manager/pull/201,2022-08-29T06:51:55Z,2022-10-04T10:11:22Z,10,19,CLOSED
+capella-collab-manager,Release notes,https://github.com/DSD-DBS/capella-collab-manager/pull/194,2022-08-19T13:40:06Z,2022-09-01T08:20:18Z,0,16,MERGED
+capella-collab-manager,Fully enable project creation stepper,https://github.com/DSD-DBS/capella-collab-manager/pull/189,2022-08-17T13:34:01Z,2022-09-15T15:15:04Z,55,51,MERGED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/186,2022-08-16T13:54:16Z,2022-08-16T14:01:48Z,0,73,MERGED
+capella-collab-manager,Local performance,https://github.com/DSD-DBS/capella-collab-manager/pull/185,2022-08-16T12:21:23Z,2022-08-17T14:08:21Z,0,5,MERGED
+capella-collab-manager,Feat/importer,https://github.com/DSD-DBS/capella-collab-manager/pull/176,2022-08-12T08:39:32Z,2022-08-12T09:52:36Z,0,4,MERGED
+capella-collab-manager,Update feature/project-view,https://github.com/DSD-DBS/capella-collab-manager/pull/175,2022-08-11T12:42:26Z,2022-09-06T13:06:22Z,0,274,MERGED
+capella-collab-manager,Contributing/conv commits,https://github.com/DSD-DBS/capella-collab-manager/pull/173,2022-08-11T09:38:03Z,2022-09-06T08:26:28Z,1,6,MERGED
+capella-collab-manager,test,https://github.com/DSD-DBS/capella-collab-manager/pull/172,2022-08-10T16:01:25Z,2022-08-10T16:02:40Z,0,0,MERGED
+capella-collab-manager,Docs,https://github.com/DSD-DBS/capella-collab-manager/pull/171,2022-08-10T15:38:49Z,2022-08-10T16:13:08Z,0,760,CLOSED
+capella-collab-manager,Fix/prometheus,https://github.com/DSD-DBS/capella-collab-manager/pull/170,2022-08-10T12:58:24Z,2022-08-10T12:58:45Z,0,0,MERGED
+capella-collab-manager,fix: specify targetPort for each service separately,https://github.com/DSD-DBS/capella-collab-manager/pull/169,2022-08-10T10:48:17Z,2022-08-10T10:48:25Z,0,0,MERGED
+capella-collab-manager,Fix/toggle,https://github.com/DSD-DBS/capella-collab-manager/pull/167,2022-08-10T10:20:42Z,2022-08-10T10:20:54Z,0,1,MERGED
+capella-collab-manager,bump: update angular versions,https://github.com/DSD-DBS/capella-collab-manager/pull/166,2022-08-09T16:04:50Z,2022-08-09T16:04:54Z,0,1,MERGED
+capella-collab-manager,Fix/sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/165,2022-08-09T15:27:29Z,2022-08-09T15:28:01Z,0,2,MERGED
+capella-collab-manager,Bump/capella dockerimages,https://github.com/DSD-DBS/capella-collab-manager/pull/164,2022-08-09T14:39:30Z,2022-08-09T14:39:49Z,0,1,MERGED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/163,2022-08-09T14:36:44Z,2022-08-09T14:36:50Z,0,104,MERGED
+capella-collab-manager,Docs,https://github.com/DSD-DBS/capella-collab-manager/pull/157,2022-08-08T13:55:26Z,2022-08-10T10:24:11Z,1,0,MERGED
+capella-collab-manager,#109 drafted mbse team needs,https://github.com/DSD-DBS/capella-collab-manager/pull/156,2022-08-08T13:51:26Z,2022-08-08T13:51:47Z,0,1,MERGED
+capella-collab-manager,Add model handling,https://github.com/DSD-DBS/capella-collab-manager/pull/150,2022-08-04T11:03:07Z,2022-08-16T08:11:17Z,16,32,MERGED
+capella-collab-manager,Staging,https://github.com/DSD-DBS/capella-collab-manager/pull/147,2022-08-02T13:39:05Z,2022-08-02T13:39:39Z,0,77,MERGED
+capella-collab-manager,Build/update,https://github.com/DSD-DBS/capella-collab-manager/pull/145,2022-08-02T11:42:36Z,2022-08-02T11:42:40Z,0,4,MERGED
+capella-collab-manager,Fix pylint issues and apply improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/490,2022-12-29T17:56:41Z,2023-01-20T14:05:30Z,16,33,MERGED
+capella-collab-manager,Remove configuration abstraction and include configuration validation,https://github.com/DSD-DBS/capella-collab-manager/pull/489,2022-12-29T15:20:18Z,2023-01-19T13:53:39Z,9,25,MERGED
+capella-collab-manager,Fix git model creation,https://github.com/DSD-DBS/capella-collab-manager/pull/488,2022-12-29T10:18:35Z,2023-01-03T16:53:17Z,0,2,MERGED
+capella-collab-manager,Remove unused spec files,https://github.com/DSD-DBS/capella-collab-manager/pull/487,2022-12-28T15:18:57Z,2023-01-03T16:51:57Z,0,1,MERGED
+capella-collab-manager,Add connection type for backup containers,https://github.com/DSD-DBS/capella-collab-manager/pull/486,2022-12-28T14:47:50Z,2023-01-05T12:39:59Z,0,2,MERGED
+capella-collab-manager,Restrictions on model level,https://github.com/DSD-DBS/capella-collab-manager/pull/481,2022-12-21T13:49:31Z,2023-01-03T16:20:23Z,4,8,MERGED
+capella-collab-manager,Allow deletion of t4c models from the frontend,https://github.com/DSD-DBS/capella-collab-manager/pull/479,2022-12-20T16:40:02Z,2023-01-06T15:58:49Z,1,7,MERGED
+capella-collab-manager,Delete project,https://github.com/DSD-DBS/capella-collab-manager/pull/478,2022-12-20T16:04:56Z,2023-01-06T14:36:47Z,2,8,MERGED
+capella-collab-manager,Upload `pure::variants` license in integration settings,https://github.com/DSD-DBS/capella-collab-manager/pull/477,2022-12-20T13:23:06Z,2023-01-03T15:19:24Z,1,3,MERGED
+capella-collab-manager,Tool integrations,https://github.com/DSD-DBS/capella-collab-manager/pull/473,2022-12-19T17:35:03Z,2023-01-04T18:05:00Z,5,19,MERGED
+capella-collab-manager,Simplify release notes,https://github.com/DSD-DBS/capella-collab-manager/pull/472,2022-12-19T15:00:25Z,2023-01-05T15:42:27Z,4,8,MERGED
+capella-collab-manager,Fix Github rate limiting during fetching of release notes in the pipeline,https://github.com/DSD-DBS/capella-collab-manager/pull/471,2022-12-16T15:11:39Z,2023-01-03T15:30:24Z,2,2,MERGED
+capella-collab-manager,Use own Docker tagging system,https://github.com/DSD-DBS/capella-collab-manager/pull/468,2022-12-15T16:51:40Z,2022-12-21T13:38:30Z,0,2,MERGED
+capella-collab-manager,Add minimum versions to README,https://github.com/DSD-DBS/capella-collab-manager/pull/467,2022-12-15T16:21:45Z,2022-12-15T18:06:56Z,1,3,MERGED
+capella-collab-manager,Remove pull request template,https://github.com/DSD-DBS/capella-collab-manager/pull/462,2022-12-14T15:22:54Z,2022-12-15T18:04:14Z,0,1,MERGED
+capella-collab-manager,Fix loading of git and t4c models,https://github.com/DSD-DBS/capella-collab-manager/pull/461,2022-12-14T14:15:49Z,2022-12-15T17:59:51Z,4,3,MERGED
+capella-collab-manager,Fix model styling,https://github.com/DSD-DBS/capella-collab-manager/pull/460,2022-12-14T12:41:01Z,2022-12-14T16:49:42Z,0,1,MERGED
+capella-collab-manager,Use routes for session termination,https://github.com/DSD-DBS/capella-collab-manager/pull/459,2022-12-14T10:22:59Z,2022-12-16T12:59:34Z,2,6,MERGED
+capella-collab-manager,Stopping the session loop when exited,https://github.com/DSD-DBS/capella-collab-manager/pull/457,2022-12-13T17:10:50Z,2022-12-14T10:18:35Z,4,2,MERGED
+capella-collab-manager,Access control and auditing,https://github.com/DSD-DBS/capella-collab-manager/pull/455,2022-12-13T10:53:35Z,2023-01-04T13:18:17Z,7,36,MERGED
+capella-collab-manager,Add and apply prettier for markdown,https://github.com/DSD-DBS/capella-collab-manager/pull/454,2022-12-12T17:06:12Z,2022-12-13T10:58:46Z,1,2,MERGED
+capella-collab-manager,Add more documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/453,2022-12-12T16:23:07Z,2022-12-14T09:22:35Z,7,8,MERGED
+capella-collab-manager,Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/450,2022-12-12T13:30:44Z,2023-01-05T11:27:49Z,1,1,CLOSED
+capella-collab-manager,TeamForCapella model update fix,https://github.com/DSD-DBS/capella-collab-manager/pull/449,2022-12-12T13:02:52Z,2022-12-16T15:12:05Z,17,3,MERGED
+capella-collab-manager,refactor: Rename capellamodels to toolmodels,https://github.com/DSD-DBS/capella-collab-manager/pull/448,2022-12-06T15:56:13Z,2022-12-06T15:56:34Z,0,1,MERGED
+capella-collab-manager,Fix backend dockerfile,https://github.com/DSD-DBS/capella-collab-manager/pull/447,2022-12-06T12:51:01Z,2022-12-06T12:55:20Z,0,1,MERGED
+capella-collab-manager,Delete model,https://github.com/DSD-DBS/capella-collab-manager/pull/444,2022-12-02T16:06:12Z,2022-12-14T09:32:39Z,8,5,MERGED
+capella-collab-manager,Delete git model,https://github.com/DSD-DBS/capella-collab-manager/pull/443,2022-12-02T12:34:27Z,2022-12-16T10:16:27Z,8,7,MERGED
+capella-collab-manager,Fix user search,https://github.com/DSD-DBS/capella-collab-manager/pull/442,2022-12-02T11:22:04Z,2022-12-13T11:19:58Z,0,2,MERGED
+capella-collab-manager,Terminate unused sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/441,2022-12-02T07:39:14Z,2022-12-13T11:33:23Z,1,7,MERGED
+capella-collab-manager,Change log format and add log auditing,https://github.com/DSD-DBS/capella-collab-manager/pull/440,2022-12-01T13:41:27Z,2023-01-09T12:26:48Z,25,88,MERGED
+capella-collab-manager,Terminate unused sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/434,2022-11-29T13:58:31Z,2022-12-02T07:36:42Z,0,5,CLOSED
+capella-collab-manager,Adjust git url validation,https://github.com/DSD-DBS/capella-collab-manager/pull/433,2022-11-28T17:22:19Z,2022-12-14T16:52:16Z,3,22,MERGED
+capella-collab-manager,Pure::variants support,https://github.com/DSD-DBS/capella-collab-manager/pull/425,2022-11-28T13:35:34Z,2022-12-20T13:56:08Z,8,23,MERGED
+capella-collab-manager,Introduce project renaming,https://github.com/DSD-DBS/capella-collab-manager/pull/424,2022-11-25T15:39:10Z,2022-12-14T12:41:30Z,2,6,MERGED
+capella-collab-manager,Replace projects_name with project_id for ProjectUserAssociation,https://github.com/DSD-DBS/capella-collab-manager/pull/423,2022-11-25T14:24:45Z,2022-12-13T15:56:56Z,2,3,MERGED
+capella-collab-manager,Select branch and checkout depth for read-only sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/422,2022-11-25T14:03:14Z,2022-12-19T13:59:20Z,10,18,MERGED
+capella-collab-manager,Remove auto adding of pull requests to the Kanban board.,https://github.com/DSD-DBS/capella-collab-manager/pull/420,2022-11-25T10:51:05Z,2022-11-25T10:55:00Z,0,1,MERGED
+capella-collab-manager,Hotfix authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/418,2022-11-23T06:43:04Z,2022-11-23T08:26:08Z,0,1,MERGED
+capella-collab-manager,Support Python 3.11,https://github.com/DSD-DBS/capella-collab-manager/pull/416,2022-11-21T19:01:56Z,2022-11-28T07:02:38Z,0,1,MERGED
+capella-collab-manager,Remove latin-1 validator,https://github.com/DSD-DBS/capella-collab-manager/pull/415,2022-11-21T15:33:59Z,2022-12-06T15:51:49Z,0,2,MERGED
+capella-collab-manager,Manage pure::variants license.,https://github.com/DSD-DBS/capella-collab-manager/pull/412,2022-11-18T11:19:00Z,2022-12-06T14:06:31Z,3,12,CLOSED
+capella-collab-manager,Make deletion of alerts working again,https://github.com/DSD-DBS/capella-collab-manager/pull/410,2022-11-18T07:58:55Z,2022-11-30T15:50:34Z,1,3,MERGED
+capella-collab-manager,Support postgres URLs with special characters,https://github.com/DSD-DBS/capella-collab-manager/pull/409,2022-11-18T07:22:46Z,2022-12-13T15:42:16Z,0,3,MERGED
+capella-collab-manager,Fix login,https://github.com/DSD-DBS/capella-collab-manager/pull/406,2022-11-17T14:40:23Z,2022-12-13T11:34:44Z,1,2,MERGED
+capella-collab-manager,Update capella-intro.md,https://github.com/DSD-DBS/capella-collab-manager/pull/395,2022-11-16T15:39:20Z,2023-01-02T12:37:08Z,0,2,MERGED
+capella-collab-manager,Type and Nature are now editable in details.,https://github.com/DSD-DBS/capella-collab-manager/pull/394,2022-11-16T11:43:26Z,2022-11-16T12:34:19Z,0,1,MERGED
+capella-collab-manager,feat: Display read-only session metadata properly,https://github.com/DSD-DBS/capella-collab-manager/pull/393,2022-11-16T11:24:42Z,2022-11-16T12:53:10Z,0,1,MERGED
+capella-collab-manager,Git types matches now the database structure,https://github.com/DSD-DBS/capella-collab-manager/pull/392,2022-11-16T10:13:25Z,2022-11-16T11:20:39Z,0,1,MERGED
+capella-collab-manager,Set log level to correct one,https://github.com/DSD-DBS/capella-collab-manager/pull/391,2022-11-16T07:50:45Z,2022-11-16T07:58:08Z,0,1,MERGED
+capella-collab-manager,Make readonly image optional,https://github.com/DSD-DBS/capella-collab-manager/pull/389,2022-11-16T07:38:42Z,2022-11-16T07:38:51Z,0,1,MERGED
+capella-collab-manager,Some bugfixes,https://github.com/DSD-DBS/capella-collab-manager/pull/388,2022-11-15T15:27:14Z,2022-11-16T07:12:01Z,0,2,MERGED
+capella-collab-manager,Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/386,2022-11-15T13:29:14Z,2022-11-15T14:09:12Z,0,1,MERGED
+capella-collab-manager,Add permission checking in the frontend,https://github.com/DSD-DBS/capella-collab-manager/pull/385,2022-11-15T13:21:21Z,2022-11-15T14:43:22Z,6,8,MERGED
+capella-collab-manager,Move storageClassName to cluster config,https://github.com/DSD-DBS/capella-collab-manager/pull/384,2022-11-14T16:34:32Z,2022-11-15T11:45:05Z,0,1,MERGED
+capella-collab-manager,Persistent session per tool/version,https://github.com/DSD-DBS/capella-collab-manager/pull/378,2022-11-14T14:32:54Z,2022-11-15T09:08:09Z,1,2,CLOSED
+capella-collab-manager,Create only one model per project during migration,https://github.com/DSD-DBS/capella-collab-manager/pull/377,2022-11-14T14:25:12Z,2022-11-15T13:26:39Z,0,1,MERGED
+capella-collab-manager,Build and use multiple capella versions,https://github.com/DSD-DBS/capella-collab-manager/pull/376,2022-11-14T07:42:08Z,2022-11-30T15:37:07Z,8,8,MERGED
+capella-collab-manager,Fix small migration issues,https://github.com/DSD-DBS/capella-collab-manager/pull/375,2022-11-11T14:14:18Z,2022-11-15T13:37:32Z,1,2,MERGED
+capella-collab-manager,Add no relative import eslint rule,https://github.com/DSD-DBS/capella-collab-manager/pull/374,2022-11-11T14:06:58Z,2022-11-14T13:54:58Z,2,1,MERGED
+capella-collab-manager,Update model description,https://github.com/DSD-DBS/capella-collab-manager/pull/373,2022-11-11T11:51:58Z,2022-11-15T13:35:47Z,4,6,MERGED
+capella-collab-manager,Solve askpass issues,https://github.com/DSD-DBS/capella-collab-manager/pull/372,2022-11-11T09:37:59Z,2022-11-11T10:52:51Z,0,1,MERGED
+capella-collab-manager,Update user documentation for v2,https://github.com/DSD-DBS/capella-collab-manager/pull/370,2022-11-09T16:07:24Z,2022-12-07T07:03:40Z,4,10,MERGED
+capella-collab-manager,Update frontend dependencies,https://github.com/DSD-DBS/capella-collab-manager/pull/368,2022-11-08T06:37:41Z,2022-11-08T14:49:30Z,0,1,MERGED
+capella-collab-manager,Add a default instance for the T4C models,https://github.com/DSD-DBS/capella-collab-manager/pull/363,2022-11-07T15:00:44Z,2022-11-15T11:55:56Z,9,8,MERGED
+capella-collab-manager,Change log format,https://github.com/DSD-DBS/capella-collab-manager/pull/362,2022-11-03T14:09:01Z,2022-12-01T13:38:59Z,0,10,CLOSED
+capella-collab-manager,Add CDO port to T4C instances.,https://github.com/DSD-DBS/capella-collab-manager/pull/361,2022-11-03T09:49:36Z,2022-11-09T09:42:23Z,3,7,MERGED
+capella-collab-manager,Persistent sessions for multiple T4C Instances,https://github.com/DSD-DBS/capella-collab-manager/pull/360,2022-11-01T12:52:30Z,2022-11-09T06:42:50Z,3,13,MERGED
+capella-collab-manager,Session tokens for TeamForCapella authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/359,2022-11-01T07:01:01Z,2022-11-11T11:27:55Z,0,9,MERGED
+capella-collab-manager,Redesign project detail page,https://github.com/DSD-DBS/capella-collab-manager/pull/667,2023-03-31T11:55:55Z,2023-06-01T10:21:13Z,3,8,MERGED
+capella-collab-manager,Improve diagram loading transition,https://github.com/DSD-DBS/capella-collab-manager/pull/666,2023-03-30T16:17:17Z,2023-03-30T16:23:00Z,0,1,MERGED
+capella-collab-manager,Add model complexity badge,https://github.com/DSD-DBS/capella-collab-manager/pull/665,2023-03-30T16:09:39Z,2023-04-03T13:29:44Z,8,9,MERGED
+capella-collab-manager,Add required resources to README,https://github.com/DSD-DBS/capella-collab-manager/pull/664,2023-03-30T13:34:10Z,2023-05-17T10:09:10Z,1,2,MERGED
+capella-collab-manager,Add Gitlab CI template for image builder,https://github.com/DSD-DBS/capella-collab-manager/pull/663,2023-03-30T13:30:54Z,2023-04-03T06:32:59Z,1,1,MERGED
+capella-collab-manager,Blob authentication error handling,https://github.com/DSD-DBS/capella-collab-manager/pull/659,2023-03-30T10:09:38Z,2023-03-31T09:41:13Z,0,1,MERGED
+capella-collab-manager,Some diagram cache improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/658,2023-03-29T08:38:42Z,2023-03-30T16:15:18Z,3,11,MERGED
+capella-collab-manager,Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/657,2023-03-29T08:17:49Z,2023-03-29T08:23:19Z,0,1,MERGED
+capella-collab-manager,Monitor our backend (web) server and deployed sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/652,2023-03-13T15:56:51Z,2023-04-18T13:06:35Z,2,8,MERGED
+capella-collab-manager, Conditionally set the ingress-class-name,https://github.com/DSD-DBS/capella-collab-manager/pull/650,2023-02-28T15:43:30Z,2023-03-31T11:51:08Z,4,3,MERGED
+capella-collab-manager,Add jobs with own status and logs for pipelines,https://github.com/DSD-DBS/capella-collab-manager/pull/647,2023-02-27T07:44:41Z,2023-06-22T13:06:24Z,56,7,MERGED
+capella-collab-manager,Show project skeleton loader inline,https://github.com/DSD-DBS/capella-collab-manager/pull/645,2023-02-24T12:53:39Z,2023-02-24T16:02:21Z,0,1,MERGED
+capella-collab-manager,Make creation of a T4C instance working again,https://github.com/DSD-DBS/capella-collab-manager/pull/644,2023-02-24T12:41:12Z,2023-02-24T12:54:22Z,0,1,MERGED
+capella-collab-manager,Extend project initialization,https://github.com/DSD-DBS/capella-collab-manager/pull/642,2023-02-23T15:37:09Z,2023-02-24T12:45:18Z,0,6,MERGED
+capella-collab-manager,Move start readonly to project scope,https://github.com/DSD-DBS/capella-collab-manager/pull/640,2023-02-23T12:13:31Z,2023-04-04T12:46:30Z,6,18,MERGED
+capella-collab-manager,Set capella as default docker image,https://github.com/DSD-DBS/capella-collab-manager/pull/639,2023-02-22T13:55:26Z,2023-02-22T14:55:54Z,0,1,MERGED
+capella-collab-manager,Change frontend session structure,https://github.com/DSD-DBS/capella-collab-manager/pull/638,2023-02-22T11:26:19Z,2023-02-22T13:00:13Z,1,9,MERGED
+capella-collab-manager,Statically set image tag to 1.4.0,https://github.com/DSD-DBS/capella-collab-manager/pull/637,2023-02-22T10:30:24Z,2023-02-22T10:36:08Z,0,1,MERGED
+capella-collab-manager,Upgrade Guacamole to 1.5.0,https://github.com/DSD-DBS/capella-collab-manager/pull/630,2023-02-20T11:08:36Z,2023-04-21T08:59:55Z,3,1,MERGED
+capella-collab-manager,Disable terminate sessions locally,https://github.com/DSD-DBS/capella-collab-manager/pull/625,2023-02-16T13:42:59Z,2023-02-22T15:01:47Z,1,2,MERGED
+capella-collab-manager,Load kubernetes config before initializing clients,https://github.com/DSD-DBS/capella-collab-manager/pull/617,2023-02-15T07:10:02Z,2023-02-15T07:15:34Z,0,1,MERGED
+capella-collab-manager,Fix sessions not starting due to configuration issue,https://github.com/DSD-DBS/capella-collab-manager/pull/615,2023-02-14T16:54:53Z,2023-02-15T07:23:49Z,2,2,CLOSED
+capella-collab-manager,Add imagePullSecret for backend serviceAccount,https://github.com/DSD-DBS/capella-collab-manager/pull/612,2023-02-14T08:07:01Z,2023-02-14T09:19:11Z,0,1,MERGED
+capella-collab-manager,Remove @vik378 from CODEOWNERS,https://github.com/DSD-DBS/capella-collab-manager/pull/611,2023-02-14T07:56:48Z,2023-02-14T09:18:53Z,0,1,MERGED
+capella-collab-manager,Fix unbound variable if kubectl is already installed,https://github.com/DSD-DBS/capella-collab-manager/pull/606,2023-02-13T11:27:15Z,2023-02-13T14:05:08Z,1,1,MERGED
+capella-collab-manager,Rename legacy git setting to git instance in backend,https://github.com/DSD-DBS/capella-collab-manager/pull/603,2023-02-10T11:06:58Z,2023-02-10T11:25:18Z,0,1,MERGED
+capella-collab-manager,Simplify git settings component,https://github.com/DSD-DBS/capella-collab-manager/pull/600,2023-02-08T14:29:29Z,2023-02-22T15:42:28Z,3,3,MERGED
+capella-collab-manager,Add tool to persistent sessions in session overview,https://github.com/DSD-DBS/capella-collab-manager/pull/597,2023-02-07T13:57:25Z,2023-02-22T13:28:42Z,0,2,MERGED
+capella-collab-manager,Change frontend session structure,https://github.com/DSD-DBS/capella-collab-manager/pull/595,2023-02-07T11:00:28Z,2023-02-22T10:42:14Z,0,12,CLOSED
+capella-collab-manager,Move the fileservice into the Collab Manager base,https://github.com/DSD-DBS/capella-collab-manager/pull/590,2023-02-06T13:21:46Z,2023-02-13T11:13:56Z,5,7,MERGED
+capella-collab-manager,fix assign correct cronjob reference,https://github.com/DSD-DBS/capella-collab-manager/pull/584,2023-02-02T15:18:24Z,2023-02-02T15:27:18Z,0,1,MERGED
+capella-collab-manager,Fix lastrun possible null after backups creation,https://github.com/DSD-DBS/capella-collab-manager/pull/583,2023-02-02T14:16:44Z,2023-02-02T14:50:26Z,0,2,MERGED
+capella-collab-manager,Delete all events associcated with project when deleting it,https://github.com/DSD-DBS/capella-collab-manager/pull/580,2023-02-01T08:28:21Z,2023-02-02T15:06:14Z,0,1,MERGED
+capella-collab-manager,Print errors in `/healthcheck`,https://github.com/DSD-DBS/capella-collab-manager/pull/579,2023-02-01T08:19:00Z,2023-02-02T15:27:52Z,1,2,MERGED
+capella-collab-manager,Restructure project and model service,https://github.com/DSD-DBS/capella-collab-manager/pull/578,2023-01-31T17:19:24Z,2023-02-22T10:42:56Z,4,15,MERGED
+capella-collab-manager,Jupyter notebook support,https://github.com/DSD-DBS/capella-collab-manager/pull/574,2023-01-31T16:04:25Z,2023-02-27T14:24:09Z,33,51,MERGED
+capella-collab-manager,Allow null value for OpenID scopes,https://github.com/DSD-DBS/capella-collab-manager/pull/573,2023-01-31T15:16:08Z,2023-01-31T15:20:23Z,0,1,MERGED
+capella-collab-manager,Move project service into project dir,https://github.com/DSD-DBS/capella-collab-manager/pull/571,2023-01-31T10:23:44Z,2023-02-06T16:40:58Z,0,3,MERGED
+capella-collab-manager,Bump pre-commit versions,https://github.com/DSD-DBS/capella-collab-manager/pull/570,2023-01-31T10:14:45Z,2023-01-31T10:20:27Z,0,1,MERGED
+capella-collab-manager,Use SQLAlchemy v1.4.x,https://github.com/DSD-DBS/capella-collab-manager/pull/563,2023-01-27T08:18:59Z,2023-01-27T09:06:43Z,0,1,MERGED
+capella-collab-manager,Add integration of diagram cache,https://github.com/DSD-DBS/capella-collab-manager/pull/562,2023-01-26T16:46:45Z,2023-02-14T13:36:55Z,26,22,MERGED
+capella-collab-manager,Replace MatLegacyDialog with MatDialog,https://github.com/DSD-DBS/capella-collab-manager/pull/561,2023-01-26T14:50:16Z,2023-02-03T10:23:41Z,8,5,MERGED
+capella-collab-manager,chore: quote capella-version var in makefile,https://github.com/DSD-DBS/capella-collab-manager/pull/560,2023-01-26T13:14:40Z,2023-01-26T13:43:10Z,0,1,MERGED
+capella-collab-manager,Adjust github actions branches,https://github.com/DSD-DBS/capella-collab-manager/pull/559,2023-01-26T13:12:03Z,2023-01-26T14:06:55Z,0,2,MERGED
+capella-collab-manager,Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/558,2023-01-26T10:21:56Z,2023-01-26T13:52:42Z,0,1,MERGED
+capella-collab-manager,Small fixes,https://github.com/DSD-DBS/capella-collab-manager/pull/552,2023-01-25T14:39:32Z,2023-01-26T08:15:46Z,0,7,MERGED
+capella-collab-manager,Restructure and simplify frontend sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/551,2023-01-24T17:25:19Z,2023-02-03T08:14:22Z,16,13,MERGED
+capella-collab-manager,Bump minimum Python version to 3.11,https://github.com/DSD-DBS/capella-collab-manager/pull/550,2023-01-24T17:22:24Z,2023-01-31T11:27:19Z,0,7,MERGED
+capella-collab-manager,Adjust backend log directory permissions,https://github.com/DSD-DBS/capella-collab-manager/pull/547,2023-01-24T09:25:00Z,2023-01-24T09:37:30Z,0,1,MERGED
+capella-collab-manager,Missed review comments,https://github.com/DSD-DBS/capella-collab-manager/pull/545,2023-01-23T15:44:17Z,2023-01-24T12:41:00Z,1,3,MERGED
+capella-collab-manager,Breadcrumbs for page navigation,https://github.com/DSD-DBS/capella-collab-manager/pull/543,2023-01-23T12:15:35Z,2023-02-02T15:14:11Z,11,16,MERGED
+capella-collab-manager,Move role verificator to auth module,https://github.com/DSD-DBS/capella-collab-manager/pull/542,2023-01-23T08:11:04Z,2023-01-26T14:06:36Z,2,2,MERGED
+capella-collab-manager,Change json to yaml schema,https://github.com/DSD-DBS/capella-collab-manager/pull/540,2023-01-20T14:34:07Z,2023-01-20T17:12:16Z,0,1,MERGED
+capella-collab-manager,Fix loading and creation of backups,https://github.com/DSD-DBS/capella-collab-manager/pull/539,2023-01-20T13:36:08Z,2023-01-31T11:12:22Z,19,16,MERGED
+capella-collab-manager,Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/538,2023-01-20T10:48:33Z,2023-01-20T14:18:21Z,0,1,MERGED
+capella-collab-manager,Use username from config instead of `your-username` in tests,https://github.com/DSD-DBS/capella-collab-manager/pull/537,2023-01-20T10:23:51Z,2023-01-20T11:13:17Z,0,1,MERGED
+capella-collab-manager,Allow (context) OR (apiURL + token) OR nothing in config,https://github.com/DSD-DBS/capella-collab-manager/pull/536,2023-01-19T16:05:18Z,2023-01-19T17:02:02Z,0,1,MERGED
+capella-collab-manager,Add slash to make the pipeline successful,https://github.com/DSD-DBS/capella-collab-manager/pull/535,2023-01-18T15:01:53Z,2023-01-18T16:04:30Z,0,1,MERGED
+capella-collab-manager,Rework backend configuration review,https://github.com/DSD-DBS/capella-collab-manager/pull/534,2023-01-18T07:37:10Z,2023-01-19T11:34:44Z,1,11,MERGED
+capella-collab-manager,Show breadcrumb in title bar,https://github.com/DSD-DBS/capella-collab-manager/pull/533,2023-01-17T20:13:33Z,2023-01-26T13:24:05Z,2,5,CLOSED
+capella-collab-manager,Install different psycopg2 library depending on environment,https://github.com/DSD-DBS/capella-collab-manager/pull/532,2023-01-17T16:16:02Z,2023-01-18T15:02:01Z,0,1,MERGED
+capella-collab-manager,Use newer docker images with pod security,https://github.com/DSD-DBS/capella-collab-manager/pull/531,2023-01-17T14:58:19Z,2023-01-17T14:58:53Z,0,1,MERGED
+capella-collab-manager,"Apply new frontend style, make `_gitModels` private",https://github.com/DSD-DBS/capella-collab-manager/pull/524,2023-01-16T14:30:58Z,2023-01-16T14:34:54Z,0,1,MERGED
+capella-collab-manager,Rename namespaces and helm release,https://github.com/DSD-DBS/capella-collab-manager/pull/523,2023-01-16T13:19:40Z,2023-01-20T14:53:28Z,1,2,MERGED
+capella-collab-manager,Fix Guacamole authentication issue,https://github.com/DSD-DBS/capella-collab-manager/pull/522,2023-01-16T12:57:02Z,2023-01-16T13:03:42Z,0,3,MERGED
+capella-collab-manager,Restrict read-only sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/521,2023-01-13T16:18:11Z,2023-01-23T11:22:20Z,5,1,MERGED
+capella-collab-manager,Minor performance & stability improvements,https://github.com/DSD-DBS/capella-collab-manager/pull/519,2023-01-13T12:20:02Z,2023-01-16T12:57:26Z,0,8,MERGED
+capella-collab-manager,Terminate sessions docs,https://github.com/DSD-DBS/capella-collab-manager/pull/518,2023-01-13T11:45:08Z,2023-01-17T17:10:26Z,1,2,MERGED
+capella-collab-manager,Helm version update,https://github.com/DSD-DBS/capella-collab-manager/pull/517,2023-01-13T10:51:21Z,2023-01-13T14:30:30Z,0,2,MERGED
+capella-collab-manager,Add enable loki flag to values.yaml,https://github.com/DSD-DBS/capella-collab-manager/pull/516,2023-01-13T10:14:13Z,2023-01-20T16:36:03Z,3,11,MERGED
+capella-collab-manager,Add automatic login for grafana,https://github.com/DSD-DBS/capella-collab-manager/pull/515,2023-01-13T09:50:51Z,2023-01-13T15:40:46Z,0,1,MERGED
+capella-collab-manager,Remove infinite loop during authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/514,2023-01-11T11:07:17Z,2023-01-11T11:23:08Z,0,1,MERGED
+capella-collab-manager,Reset version when clicking on release notes,https://github.com/DSD-DBS/capella-collab-manager/pull/513,2023-01-11T10:52:17Z,2023-01-11T11:22:59Z,0,2,MERGED
+capella-collab-manager,Specify session container to get its logs,https://github.com/DSD-DBS/capella-collab-manager/pull/512,2023-01-11T10:18:02Z,2023-01-11T11:21:26Z,0,2,MERGED
+capella-collab-manager,Bump frontend versions 2,https://github.com/DSD-DBS/capella-collab-manager/pull/502,2023-01-04T17:36:11Z,2023-01-09T16:27:33Z,0,3,MERGED
+capella-collab-manager,Change base image to python 3.11 image,https://github.com/DSD-DBS/capella-collab-manager/pull/501,2023-01-04T15:51:17Z,2023-01-05T13:38:35Z,0,2,MERGED
+capella-collab-manager,Clarify TeamForCapella success messages,https://github.com/DSD-DBS/capella-collab-manager/pull/499,2023-01-04T13:16:10Z,2023-01-04T19:08:06Z,0,1,MERGED
+capella-collab-manager,Use system environment when running ls-remote,https://github.com/DSD-DBS/capella-collab-manager/pull/498,2023-01-04T11:06:08Z,2023-01-04T11:21:50Z,0,1,MERGED
+capella-collab-manager,Switch Collab Manager session and database session,https://github.com/DSD-DBS/capella-collab-manager/pull/497,2023-01-04T08:33:56Z,2023-01-04T11:21:41Z,0,2,MERGED
+capella-collab-manager,Add style guide documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/491,2023-01-02T11:08:10Z,2023-01-23T11:29:54Z,8,8,MERGED
+capella-collab-manager,Add 2023 to Copyright years in README,https://github.com/DSD-DBS/capella-collab-manager/pull/727,2023-05-31T08:42:17Z,2023-06-02T07:28:56Z,1,1,MERGED
+capella-collab-manager,Fix: Set tool version to null on tool change,https://github.com/DSD-DBS/capella-collab-manager/pull/725,2023-05-30T09:56:02Z,2023-06-01T09:24:02Z,0,1,MERGED
+capella-collab-manager,feat: Enhance breadcrumb functionality,https://github.com/DSD-DBS/capella-collab-manager/pull/724,2023-05-30T09:27:23Z,2023-06-01T09:43:10Z,1,1,CLOSED
+capella-collab-manager,feat: Add support for pipeline plugins,https://github.com/DSD-DBS/capella-collab-manager/pull/722,2023-05-26T12:15:07Z,2024-08-02T10:37:57Z,5,1,CLOSED
+capella-collab-manager,fix: Reenable diagram cache,https://github.com/DSD-DBS/capella-collab-manager/pull/721,2023-05-24T13:47:28Z,2023-05-24T13:50:34Z,1,1,CLOSED
+capella-collab-manager,Migrate to sql alchemy 2.0,https://github.com/DSD-DBS/capella-collab-manager/pull/719,2023-05-23T15:44:17Z,2023-06-13T14:38:34Z,6,10,MERGED
+capella-collab-manager,Add pagination and sorting for pipeline runs,https://github.com/DSD-DBS/capella-collab-manager/pull/718,2023-05-23T12:13:22Z,2023-06-26T15:55:41Z,10,1,MERGED
+capella-collab-manager,Add pipeline monitoring overview,https://github.com/DSD-DBS/capella-collab-manager/pull/717,2023-05-22T21:34:59Z,2023-06-26T16:02:21Z,17,1,MERGED
+capella-collab-manager,Use static version for alembic,https://github.com/DSD-DBS/capella-collab-manager/pull/712,2023-05-16T13:55:09Z,2023-05-16T14:00:32Z,0,1,MERGED
+capella-collab-manager,"Documentation: Update Capella model, import and export T4C based models",https://github.com/DSD-DBS/capella-collab-manager/pull/706,2023-05-02T12:00:57Z,2023-06-13T15:25:59Z,8,1,MERGED
+capella-collab-manager,Add `pure::variants` user documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/695,2023-04-24T10:11:53Z,2023-05-02T11:46:18Z,0,1,MERGED
+capella-collab-manager,fix(frontend): Make docsURL optional in env,https://github.com/DSD-DBS/capella-collab-manager/pull/671,2023-04-03T14:04:30Z,2023-04-06T12:15:53Z,1,1,MERGED
+capella-collab-manager,feat: Add custom branding of Guacamole,https://github.com/DSD-DBS/capella-collab-manager/pull/891,2023-07-31T18:43:50Z,2023-08-01T13:11:40Z,2,1,MERGED
+capella-collab-manager,feat: Get model badge from artifacts,https://github.com/DSD-DBS/capella-collab-manager/pull/884,2023-07-31T13:23:30Z,2023-08-01T13:03:45Z,12,2,MERGED
+capella-collab-manager,feat: Show users interaction possibilities with diagram cache and generate basic auth token,https://github.com/DSD-DBS/capella-collab-manager/pull/882,2023-07-31T08:25:17Z,2023-09-06T16:09:59Z,41,4,CLOSED
+capella-collab-manager,refactor: Adjust legacy import style in session files,https://github.com/DSD-DBS/capella-collab-manager/pull/881,2023-07-31T06:42:11Z,2023-07-31T07:07:42Z,0,1,MERGED
+capella-collab-manager,fix: Use password for retrieving github artifacts,https://github.com/DSD-DBS/capella-collab-manager/pull/878,2023-07-28T09:03:15Z,2023-07-28T09:46:22Z,0,1,MERGED
+capella-collab-manager,feat: [wip] First draft of workspace management,https://github.com/DSD-DBS/capella-collab-manager/pull/875,2023-07-27T14:03:19Z,2023-09-06T14:21:18Z,0,1,CLOSED
+capella-collab-manager,docs: Move release notes from docs to Github release notes,https://github.com/DSD-DBS/capella-collab-manager/pull/874,2023-07-26T14:25:21Z,2023-07-31T15:34:23Z,0,15,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/873,2023-07-25T12:00:33Z,2023-07-25T12:06:51Z,0,2,MERGED
+capella-collab-manager,chore: Suggestions for PR #812,https://github.com/DSD-DBS/capella-collab-manager/pull/872,2023-07-25T10:05:38Z,2023-07-26T12:02:29Z,0,2,MERGED
+capella-collab-manager,build: Add support for non-root base images,https://github.com/DSD-DBS/capella-collab-manager/pull/869,2023-07-24T15:57:51Z,2023-07-26T13:22:47Z,0,5,MERGED
+capella-collab-manager,build: Bump Python image to debian bookworm,https://github.com/DSD-DBS/capella-collab-manager/pull/868,2023-07-24T14:47:10Z,2023-07-24T16:02:52Z,0,1,MERGED
+capella-collab-manager,fix(pure-variants): Handle missing restrictions table,https://github.com/DSD-DBS/capella-collab-manager/pull/867,2023-07-24T14:32:48Z,2023-07-24T14:38:41Z,0,1,MERGED
+capella-collab-manager,"feat: Improve the ""logs"" experience and reduce number of backend calls",https://github.com/DSD-DBS/capella-collab-manager/pull/865,2023-07-24T09:50:39Z,2023-08-01T12:41:23Z,11,10,MERGED
+capella-collab-manager,fix: Show T4C repository name during backup creation,https://github.com/DSD-DBS/capella-collab-manager/pull/862,2023-07-20T11:35:13Z,2023-07-20T12:43:19Z,0,1,MERGED
+capella-collab-manager,fix: current project user endpoint should handle internal projects,https://github.com/DSD-DBS/capella-collab-manager/pull/858,2023-07-18T12:18:49Z,2023-07-18T15:27:58Z,0,3,MERGED
+capella-collab-manager,docs: Add github action documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/853,2023-07-17T16:06:16Z,2023-08-07T12:21:48Z,2,1,MERGED
+capella-collab-manager,fix: Reset audit log on project change and display user,https://github.com/DSD-DBS/capella-collab-manager/pull/851,2023-07-14T13:53:53Z,2023-07-17T06:48:29Z,0,1,MERGED
+capella-collab-manager,feat: Add session viewer,https://github.com/DSD-DBS/capella-collab-manager/pull/849,2023-07-13T09:48:02Z,2023-07-31T15:29:09Z,8,12,MERGED
+capella-collab-manager,feat: Use radio buttons for project visibility,https://github.com/DSD-DBS/capella-collab-manager/pull/846,2023-07-12T14:16:17Z,2023-07-13T08:04:28Z,1,1,MERGED
+capella-collab-manager,Remove more hints for self signed authentication mock,https://github.com/DSD-DBS/capella-collab-manager/pull/845,2023-07-12T11:58:45Z,2023-07-12T12:56:15Z,1,2,MERGED
+capella-collab-manager,Model documentation exposure (OA/SA),https://github.com/DSD-DBS/capella-collab-manager/pull/844,2023-07-12T10:24:50Z,2023-09-06T13:50:12Z,0,2,CLOSED
+capella-collab-manager,Add support for Internal projects,https://github.com/DSD-DBS/capella-collab-manager/pull/842,2023-07-11T11:12:41Z,2023-07-13T13:21:52Z,9,15,MERGED
+capella-collab-manager,"Refactor backend db names for Tool, Version, and Nature",https://github.com/DSD-DBS/capella-collab-manager/pull/835,2023-07-10T07:25:04Z,2023-07-10T10:29:41Z,0,3,MERGED
+capella-collab-manager,Bump grafana version to 10.0.1,https://github.com/DSD-DBS/capella-collab-manager/pull/834,2023-07-10T06:52:34Z,2023-07-10T09:36:39Z,1,1,MERGED
+capella-collab-manager,Fix: Set fastapi version to `<0.100.0`,https://github.com/DSD-DBS/capella-collab-manager/pull/832,2023-07-10T06:43:10Z,2023-07-10T07:19:08Z,0,1,MERGED
+capella-collab-manager,feat: Make loading of monitoring overview async,https://github.com/DSD-DBS/capella-collab-manager/pull/830,2023-07-05T13:13:36Z,2023-07-13T14:48:55Z,3,1,MERGED
+capella-collab-manager,fix: Failing backups for Capella >= 6.0.0 without HTTP port,https://github.com/DSD-DBS/capella-collab-manager/pull/828,2023-07-05T10:30:46Z,2023-07-10T07:18:14Z,0,1,MERGED
+capella-collab-manager,feat: Add caching for model monitoring,https://github.com/DSD-DBS/capella-collab-manager/pull/826,2023-07-04T09:00:02Z,2023-07-05T13:14:21Z,1,1,CLOSED
+capella-collab-manager,Fix: Correctly set loki push url for sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/822,2023-07-03T14:50:31Z,2023-07-03T14:58:01Z,0,1,MERGED
+capella-collab-manager,Fix: Delete restriction during model deletion,https://github.com/DSD-DBS/capella-collab-manager/pull/820,2023-07-03T14:00:25Z,2023-07-03T14:27:24Z,0,1,MERGED
+capella-collab-manager,Fix: Use correct revisions for readonly selection,https://github.com/DSD-DBS/capella-collab-manager/pull/819,2023-07-03T12:50:14Z,2023-07-03T15:54:21Z,2,2,MERGED
+capella-collab-manager,feat: automatically select the recommended tool version,https://github.com/DSD-DBS/capella-collab-manager/pull/818,2023-07-03T12:14:54Z,2023-07-03T12:30:16Z,0,1,MERGED
+capella-collab-manager,chore: Enable remaining k8s tests,https://github.com/DSD-DBS/capella-collab-manager/pull/817,2023-07-03T10:26:10Z,2023-07-03T14:25:36Z,0,1,MERGED
+capella-collab-manager,Fix pipeline job,https://github.com/DSD-DBS/capella-collab-manager/pull/816,2023-07-03T10:14:19Z,2023-07-03T10:23:57Z,0,4,MERGED
+capella-collab-manager,Fix: Properly handle backup creation and deletion errors,https://github.com/DSD-DBS/capella-collab-manager/pull/815,2023-07-03T09:10:08Z,2023-07-10T07:15:51Z,5,4,MERGED
+capella-collab-manager,build(guacamole): Rename postgres to postgresql,https://github.com/DSD-DBS/capella-collab-manager/pull/813,2023-06-29T15:09:10Z,2023-06-29T15:09:21Z,0,1,MERGED
+capella-collab-manager,feat: Add support for github API,https://github.com/DSD-DBS/capella-collab-manager/pull/812,2023-06-29T14:33:13Z,2023-07-26T13:11:12Z,41,15,MERGED
+capella-collab-manager,Guacamole version update,https://github.com/DSD-DBS/capella-collab-manager/pull/811,2023-06-29T14:20:27Z,2023-06-29T15:06:32Z,0,1,MERGED
+capella-collab-manager,fix: Temporarily downgrade Grafana to version 9.5.5,https://github.com/DSD-DBS/capella-collab-manager/pull/805,2023-06-27T14:06:40Z,2023-06-29T07:53:10Z,0,1,MERGED
+capella-collab-manager,feat: add inactive alert for jupyter notebooks,https://github.com/DSD-DBS/capella-collab-manager/pull/803,2023-06-27T13:32:58Z,2023-07-21T14:53:20Z,6,7,MERGED
+capella-collab-manager,Feat add t4c http ws port,https://github.com/DSD-DBS/capella-collab-manager/pull/802,2023-06-27T13:14:07Z,2023-07-03T15:37:30Z,12,5,MERGED
+capella-collab-manager,fix: Remove unneeded back buttons.,https://github.com/DSD-DBS/capella-collab-manager/pull/795,2023-06-26T15:22:40Z,2023-07-03T15:49:32Z,0,2,MERGED
+capella-collab-manager,Use new-style t4c/client backup functionality,https://github.com/DSD-DBS/capella-collab-manager/pull/793,2023-06-26T11:37:28Z,2023-06-29T12:28:42Z,2,4,MERGED
+capella-collab-manager,refactor: Use `$` as suffix for observable variables,https://github.com/DSD-DBS/capella-collab-manager/pull/791,2023-06-23T15:57:15Z,2023-07-25T10:26:01Z,0,1,MERGED
+capella-collab-manager,docs(user): Add missing 'from' in T4C export title,https://github.com/DSD-DBS/capella-collab-manager/pull/790,2023-06-23T08:59:14Z,2023-06-26T10:25:48Z,0,1,MERGED
+capella-collab-manager,Update loki URL and add cluster local to no_proxy,https://github.com/DSD-DBS/capella-collab-manager/pull/787,2023-06-22T14:10:39Z,2023-06-22T14:11:16Z,0,1,MERGED
+capella-collab-manager,Bump OAuth mock version,https://github.com/DSD-DBS/capella-collab-manager/pull/786,2023-06-22T12:22:12Z,2023-06-26T07:16:10Z,0,1,MERGED
+capella-collab-manager,Add missing release notes,https://github.com/DSD-DBS/capella-collab-manager/pull/785,2023-06-22T11:06:09Z,2023-06-26T07:16:33Z,0,2,MERGED
+capella-collab-manager,Update development instructions,https://github.com/DSD-DBS/capella-collab-manager/pull/782,2023-06-21T14:42:09Z,2023-06-21T16:22:26Z,1,1,MERGED
+capella-collab-manager,Refactor: Simplify t4c services and enhance code maintainability,https://github.com/DSD-DBS/capella-collab-manager/pull/779,2023-06-20T16:12:15Z,2023-06-26T08:56:58Z,13,4,MERGED
+capella-collab-manager,Add audit log on project level,https://github.com/DSD-DBS/capella-collab-manager/pull/778,2023-06-20T13:20:00Z,2023-07-14T12:51:47Z,0,1,MERGED
+capella-collab-manager,Allow custom base image for image builder,https://github.com/DSD-DBS/capella-collab-manager/pull/777,2023-06-20T10:01:00Z,2023-06-20T10:01:13Z,0,1,MERGED
+capella-collab-manager,Make all components responsive,https://github.com/DSD-DBS/capella-collab-manager/pull/776,2023-06-20T09:04:51Z,2023-06-20T09:35:50Z,2,1,MERGED
+capella-collab-manager,Add tests for T4C integration,https://github.com/DSD-DBS/capella-collab-manager/pull/769,2023-06-16T10:43:43Z,2023-06-19T17:23:06Z,0,3,MERGED
+capella-collab-manager,Add coverage report for backend,https://github.com/DSD-DBS/capella-collab-manager/pull/768,2023-06-16T10:14:01Z,2023-06-19T16:43:46Z,3,3,MERGED
+capella-collab-manager,Add Tailwind CSS,https://github.com/DSD-DBS/capella-collab-manager/pull/767,2023-06-15T18:56:27Z,2023-06-19T13:12:40Z,0,2,MERGED
+capella-collab-manager,Add responsive design / support for mobile phones,https://github.com/DSD-DBS/capella-collab-manager/pull/766,2023-06-15T14:39:08Z,2023-06-19T15:21:13Z,4,4,MERGED
+capella-collab-manager,Proper loading animations for project detail page,https://github.com/DSD-DBS/capella-collab-manager/pull/764,2023-06-14T16:08:56Z,2023-06-19T16:17:04Z,9,4,MERGED
+capella-collab-manager,Improve onboarding experience,https://github.com/DSD-DBS/capella-collab-manager/pull/763,2023-06-14T12:27:17Z,2023-06-19T12:47:32Z,9,9,MERGED
+capella-collab-manager,Redesign project users and display administrators in list,https://github.com/DSD-DBS/capella-collab-manager/pull/762,2023-06-14T11:23:11Z,2023-06-16T10:19:11Z,2,1,MERGED
+capella-collab-manager,Add recommended typescript eslint rules,https://github.com/DSD-DBS/capella-collab-manager/pull/760,2023-06-14T10:13:32Z,2023-06-16T09:33:33Z,0,1,MERGED
+capella-collab-manager,"Use Angular Material button for ""Open issue on Github""",https://github.com/DSD-DBS/capella-collab-manager/pull/758,2023-06-13T16:34:43Z,2023-06-16T08:41:42Z,1,1,MERGED
+capella-collab-manager,Display project metadata and read-only sessions in one line,https://github.com/DSD-DBS/capella-collab-manager/pull/756,2023-06-13T16:14:26Z,2023-06-13T16:27:32Z,0,1,MERGED
+capella-collab-manager,Fix: Delete invalid `tool_integrations` rows during migration,https://github.com/DSD-DBS/capella-collab-manager/pull/755,2023-06-13T16:00:30Z,2023-06-13T16:02:27Z,0,1,MERGED
+capella-collab-manager,Disable session collection in local environment,https://github.com/DSD-DBS/capella-collab-manager/pull/752,2023-06-13T12:57:50Z,2023-06-13T13:03:29Z,0,1,MERGED
+capella-collab-manager,docs: Add backend import cases to code-style,https://github.com/DSD-DBS/capella-collab-manager/pull/746,2023-06-12T07:09:24Z,2023-06-19T05:41:26Z,1,1,MERGED
+capella-collab-manager,Add release notes process to dev docs,https://github.com/DSD-DBS/capella-collab-manager/pull/744,2023-06-12T06:44:51Z,2023-06-13T15:35:49Z,0,1,MERGED
+capella-collab-manager,Add Gitlab CI template for automatic deployment,https://github.com/DSD-DBS/capella-collab-manager/pull/741,2023-06-06T15:52:51Z,2023-06-13T14:20:50Z,36,5,MERGED
+capella-collab-manager,Adjusting the imports to the Google Style Guide,https://github.com/DSD-DBS/capella-collab-manager/pull/735,2023-06-05T15:47:29Z,2023-06-13T14:21:12Z,0,3,MERGED
+capella-collab-manager,refactor: Use Google style guide import style,https://github.com/DSD-DBS/capella-collab-manager/pull/732,2023-06-01T14:25:07Z,2023-06-06T09:22:19Z,0,7,CLOSED
+capella-collab-manager,fix: Use ingress class name from the config correctly,https://github.com/DSD-DBS/capella-collab-manager/pull/731,2023-06-01T12:16:39Z,2023-06-01T12:20:56Z,0,1,MERGED
+capella-collab-manager,Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/730,2023-06-01T10:08:39Z,2023-06-01T10:18:12Z,0,1,MERGED
+capella-collab-manager,ci: Prohibit use of `print` function,https://github.com/DSD-DBS/capella-collab-manager/pull/1151,2023-10-31T13:46:42Z,2023-11-01T07:47:02Z,2,1,MERGED
+capella-collab-manager,feat: Add tiling window manager for training mode,https://github.com/DSD-DBS/capella-collab-manager/pull/1150,2023-10-31T13:17:44Z,2023-11-27T16:41:02Z,15,2,MERGED
+capella-collab-manager,feat: Add session cost monitoring,https://github.com/DSD-DBS/capella-collab-manager/pull/1149,2023-10-31T12:36:56Z,2024-03-15T10:35:59Z,2,1,CLOSED
+capella-collab-manager,feat: Show code snipped in diagram cache dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1147,2023-10-30T16:59:46Z,2023-12-15T14:04:29Z,13,3,MERGED
+capella-collab-manager,feat: Improve project creation UI,https://github.com/DSD-DBS/capella-collab-manager/pull/1142,2023-10-30T13:39:09Z,2023-11-02T08:13:39Z,9,1,MERGED
+capella-collab-manager,chore: Bump capellambse to 0.5.36,https://github.com/DSD-DBS/capella-collab-manager/pull/1141,2023-10-30T11:00:17Z,2023-10-30T12:28:58Z,1,1,MERGED
+capella-collab-manager,feat: Add coffee machine as default model,https://github.com/DSD-DBS/capella-collab-manager/pull/1140,2023-10-30T10:56:54Z,2023-10-30T16:18:15Z,2,1,MERGED
+capella-collab-manager,docs: Enable prettier for docs again and fix issues,https://github.com/DSD-DBS/capella-collab-manager/pull/1139,2023-10-30T10:31:01Z,2023-10-31T07:34:37Z,2,2,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1138,2023-10-30T07:58:36Z,2023-10-31T07:26:50Z,1,1,MERGED
+capella-collab-manager,feat: Special launcher for training projects,https://github.com/DSD-DBS/capella-collab-manager/pull/1133,2023-10-26T13:36:47Z,2024-08-02T10:41:16Z,29,27,CLOSED
+capella-collab-manager,refactor: Use title case in documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1132,2023-10-25T12:42:16Z,2023-10-25T13:49:10Z,5,1,MERGED
+capella-collab-manager,feat: Allow direct RDP connections,https://github.com/DSD-DBS/capella-collab-manager/pull/1131,2023-10-25T11:11:55Z,2024-03-15T10:32:28Z,2,1,CLOSED
+capella-collab-manager,refactor: Add own display value component,https://github.com/DSD-DBS/capella-collab-manager/pull/1130,2023-10-25T09:36:09Z,2023-10-25T11:06:40Z,3,1,MERGED
+capella-collab-manager,feat: Add custom input dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1127,2023-10-24T15:37:45Z,2023-10-31T12:35:23Z,4,2,MERGED
+capella-collab-manager,feat(k8s): Add Pod disruption budgets,https://github.com/DSD-DBS/capella-collab-manager/pull/1125,2023-10-24T13:38:52Z,2023-10-31T14:25:29Z,3,1,MERGED
+capella-collab-manager,feat: Training mode for projects,https://github.com/DSD-DBS/capella-collab-manager/pull/1123,2023-10-24T12:43:22Z,2023-12-15T14:16:04Z,9,11,MERGED
+capella-collab-manager,feat: Change `window.confirm` to custom dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1122,2023-10-24T07:47:28Z,2023-10-24T12:33:15Z,1,1,MERGED
+capella-collab-manager,fix: Prevent Angular CLI prompts from interrupting app launch,https://github.com/DSD-DBS/capella-collab-manager/pull/1113,2023-10-23T12:45:02Z,2023-10-23T12:49:41Z,1,1,MERGED
+capella-collab-manager,fix: Properly set rbac values and disable sidecar,https://github.com/DSD-DBS/capella-collab-manager/pull/1112,2023-10-23T11:08:16Z,2023-10-23T11:20:26Z,2,1,MERGED
+capella-collab-manager,fix: Update some old references from `docs/user` to `docs`,https://github.com/DSD-DBS/capella-collab-manager/pull/1111,2023-10-23T10:58:07Z,2023-10-23T11:02:00Z,1,1,MERGED
+capella-collab-manager,fix: Fix indentation and admonition in user docs,https://github.com/DSD-DBS/capella-collab-manager/pull/1108,2023-10-19T14:34:36Z,2023-10-23T13:37:06Z,1,1,MERGED
+capella-collab-manager,"refactor: Merge user, admin and developer documentation",https://github.com/DSD-DBS/capella-collab-manager/pull/1107,2023-10-18T10:31:47Z,2023-10-20T16:59:56Z,6,2,MERGED
+capella-collab-manager,build: Let Git ignore dirty `capella-dockerimages` submodule,https://github.com/DSD-DBS/capella-collab-manager/pull/1106,2023-10-18T10:30:43Z,2023-10-20T12:13:39Z,1,1,MERGED
+capella-collab-manager,feat: Add user profile page,https://github.com/DSD-DBS/capella-collab-manager/pull/1105,2023-10-17T09:52:07Z,2023-12-11T10:46:49Z,21,2,MERGED
+capella-collab-manager,fix: Properly set loki header in proxy and bump helm chart to 5.30.0,https://github.com/DSD-DBS/capella-collab-manager/pull/1102,2023-10-16T14:40:45Z,2023-10-16T15:29:32Z,1,3,MERGED
+capella-collab-manager,fix: Ensure that PostgreSQL database uses 'UTC' timezone,https://github.com/DSD-DBS/capella-collab-manager/pull/1098,2023-10-16T11:58:47Z,2023-10-16T12:04:12Z,1,1,MERGED
+capella-collab-manager,fix: nginx internal server error for Prometheus and Grafana,https://github.com/DSD-DBS/capella-collab-manager/pull/1097,2023-10-16T09:16:56Z,2023-10-16T10:19:31Z,1,2,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1096,2023-10-16T09:01:45Z,2023-10-16T13:46:29Z,1,1,MERGED
+capella-collab-manager,docs: Add documentation how to delete a T4C project,https://github.com/DSD-DBS/capella-collab-manager/pull/1091,2023-10-13T10:18:05Z,2023-10-16T14:12:30Z,3,1,MERGED
+capella-collab-manager,fix: Remove file ending in diagram route,https://github.com/DSD-DBS/capella-collab-manager/pull/1090,2023-10-12T09:36:21Z,2023-10-20T15:47:41Z,10,1,MERGED
+capella-collab-manager,Support Python 3.12,https://github.com/DSD-DBS/capella-collab-manager/pull/1087,2023-10-10T09:56:12Z,2023-10-13T11:42:38Z,1,1,MERGED
+capella-collab-manager,build: Add ESLint and prettier tailwind plugins,https://github.com/DSD-DBS/capella-collab-manager/pull/1085,2023-10-10T08:26:09Z,2023-10-13T13:18:00Z,2,4,MERGED
+capella-collab-manager,chore: Move capellambse to dev dependencies,https://github.com/DSD-DBS/capella-collab-manager/pull/1080,2023-10-09T15:00:29Z,2023-10-09T15:49:25Z,1,1,MERGED
+capella-collab-manager,fix: Change `id_token` to `access_token` for oauth,https://github.com/DSD-DBS/capella-collab-manager/pull/1079,2023-10-09T14:46:44Z,2023-10-09T14:48:56Z,1,1,MERGED
+capella-collab-manager,docs: Fix typo in installation guide,https://github.com/DSD-DBS/capella-collab-manager/pull/1078,2023-10-09T14:22:40Z,2023-10-09T14:22:49Z,0,1,MERGED
+capella-collab-manager,Group Angular updates in one PR,https://github.com/DSD-DBS/capella-collab-manager/pull/1074,2023-10-05T15:28:34Z,2023-10-13T11:42:24Z,3,2,MERGED
+capella-collab-manager,Fix readonly session branch selection,https://github.com/DSD-DBS/capella-collab-manager/pull/1073,2023-10-05T15:19:58Z,2023-10-13T11:39:25Z,3,2,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1071,2023-10-05T08:25:01Z,2023-10-09T14:38:48Z,1,1,MERGED
+capella-collab-manager,feat: Add support for wildcard hosts,https://github.com/DSD-DBS/capella-collab-manager/pull/1065,2023-10-02T09:39:00Z,2023-10-09T15:54:30Z,3,1,MERGED
+capella-collab-manager,"feat: Replace `$http_host` in nginx.conf, add support for proxies",https://github.com/DSD-DBS/capella-collab-manager/pull/1064,2023-10-02T06:55:00Z,2023-10-13T12:49:26Z,1,3,MERGED
+capella-collab-manager,feat: Add possibility to update toolmodel name,https://github.com/DSD-DBS/capella-collab-manager/pull/1063,2023-09-29T13:47:17Z,2023-10-23T10:43:33Z,2,2,MERGED
+capella-collab-manager,feat: Add possibility to archive projects,https://github.com/DSD-DBS/capella-collab-manager/pull/1062,2023-09-29T12:31:45Z,2023-10-13T12:48:24Z,12,6,MERGED
+capella-collab-manager,feat: Add hyperlinks in monitoring,https://github.com/DSD-DBS/capella-collab-manager/pull/1061,2023-09-29T10:07:04Z,2023-09-29T10:30:56Z,1,1,MERGED
+capella-collab-manager,feat: Align long user names,https://github.com/DSD-DBS/capella-collab-manager/pull/1060,2023-09-29T08:19:08Z,2023-09-29T09:13:54Z,4,1,MERGED
+capella-collab-manager,refactor: Move frontend configuration to `values.yaml`,https://github.com/DSD-DBS/capella-collab-manager/pull/1059,2023-09-28T16:04:15Z,2023-09-29T09:29:57Z,5,6,MERGED
+capella-collab-manager,feat: Align welcome card with notices,https://github.com/DSD-DBS/capella-collab-manager/pull/1058,2023-09-28T15:29:38Z,2023-09-28T16:10:15Z,1,1,MERGED
+capella-collab-manager,feat: Move model from one project to another,https://github.com/DSD-DBS/capella-collab-manager/pull/1057,2023-09-28T13:51:18Z,2023-10-25T13:46:38Z,12,1,MERGED
+capella-collab-manager,feat: Add network policies,https://github.com/DSD-DBS/capella-collab-manager/pull/1056,2023-09-27T17:01:28Z,2023-09-29T11:35:41Z,5,1,MERGED
+capella-collab-manager,docs: Up-/ Download files from workspace,https://github.com/DSD-DBS/capella-collab-manager/pull/1055,2023-09-27T15:56:43Z,2023-10-13T07:20:21Z,2,2,MERGED
+capella-collab-manager,docs: Add documentation on how to use the diff/merge tool,https://github.com/DSD-DBS/capella-collab-manager/pull/1054,2023-09-27T07:31:06Z,2023-10-23T13:21:29Z,9,3,MERGED
+capella-collab-manager,docs: Add installation guide to mkdocs,https://github.com/DSD-DBS/capella-collab-manager/pull/1053,2023-09-26T12:20:06Z,2023-10-09T14:16:50Z,13,6,MERGED
+capella-collab-manager,docs: Add documentation about using EGit & Capella,https://github.com/DSD-DBS/capella-collab-manager/pull/1049,2023-09-25T13:35:06Z,2023-10-09T15:09:47Z,7,2,MERGED
+capella-collab-manager,feat: Create t4c repository in t4c model creation,https://github.com/DSD-DBS/capella-collab-manager/pull/1048,2023-09-25T12:26:10Z,2023-10-09T08:32:59Z,3,1,MERGED
+capella-collab-manager,refactor: Replace `target` with `development` in `values.yaml`,https://github.com/DSD-DBS/capella-collab-manager/pull/1044,2023-09-25T09:01:48Z,2023-09-26T16:43:12Z,1,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1043,2023-09-25T08:58:55Z,2023-09-25T09:05:07Z,1,1,MERGED
+capella-collab-manager,feat: Make ingressClassName configurable,https://github.com/DSD-DBS/capella-collab-manager/pull/1042,2023-09-25T08:56:54Z,2023-09-26T07:26:06Z,1,1,MERGED
+capella-collab-manager,feat: Make Guacamole database persistent in development mode,https://github.com/DSD-DBS/capella-collab-manager/pull/1041,2023-09-25T08:50:17Z,2023-09-26T07:25:56Z,1,1,MERGED
+capella-collab-manager,Workspace backup CLI tool,https://github.com/DSD-DBS/capella-collab-manager/pull/1039,2023-09-22T15:14:53Z,2023-10-31T14:10:45Z,7,13,MERGED
+capella-collab-manager,docs: Restructure tools and Capella documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1034,2023-09-22T14:22:53Z,2023-10-09T11:24:55Z,5,1,MERGED
+capella-collab-manager,feat: Improve diagram cache margins on mobile phones,https://github.com/DSD-DBS/capella-collab-manager/pull/1032,2023-09-20T17:08:37Z,2023-10-10T06:58:12Z,1,1,MERGED
+capella-collab-manager,feat: Enable mypy in pre-commit,https://github.com/DSD-DBS/capella-collab-manager/pull/1030,2023-09-19T13:20:38Z,2023-10-09T11:21:06Z,16,1,MERGED
+capella-collab-manager,Update read-only session related docs,https://github.com/DSD-DBS/capella-collab-manager/pull/1029,2023-09-19T11:52:08Z,2023-09-19T11:57:12Z,1,2,MERGED
+capella-collab-manager,fix: Update of tool metadata didn't trigger on 'Enter',https://github.com/DSD-DBS/capella-collab-manager/pull/1023,2023-09-15T13:49:52Z,2023-09-18T13:11:10Z,1,1,MERGED
+capella-collab-manager,docs(user): Add quick comparision of Capella co-working methods,https://github.com/DSD-DBS/capella-collab-manager/pull/1022,2023-09-15T13:37:31Z,2023-09-19T12:02:45Z,5,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1017,2023-09-14T07:15:29Z,2023-09-14T08:10:00Z,1,1,MERGED
+capella-collab-manager,fix: Add t4c and pure_variants to ToolIntegration during migration,https://github.com/DSD-DBS/capella-collab-manager/pull/1015,2023-09-12T10:23:03Z,2023-09-18T14:34:38Z,2,1,CLOSED
+capella-collab-manager,docs: Describe how to handle frontend testing,https://github.com/DSD-DBS/capella-collab-manager/pull/1008,2023-09-11T12:10:52Z,2023-09-12T09:44:09Z,1,1,MERGED
+capella-collab-manager,Update pre-commit black,https://github.com/DSD-DBS/capella-collab-manager/pull/1007,2023-09-11T09:21:45Z,2023-09-11T13:17:30Z,1,1,MERGED
+capella-collab-manager,feat: Add basic authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/1005,2023-09-06T16:09:18Z,2023-10-11T16:01:42Z,99,4,MERGED
+capella-collab-manager,docs(model): Bring physical architecture up to date,https://github.com/DSD-DBS/capella-collab-manager/pull/997,2023-09-06T13:50:00Z,2023-09-06T14:22:28Z,1,3,MERGED
+capella-collab-manager,fix: Add permission to delete Jupyter file share PVCs,https://github.com/DSD-DBS/capella-collab-manager/pull/996,2023-09-06T13:13:59Z,2023-09-06T14:22:08Z,1,1,MERGED
+capella-collab-manager,fix: Rename to latest_artifact_metadata in github handler,https://github.com/DSD-DBS/capella-collab-manager/pull/995,2023-09-06T12:27:28Z,2023-09-06T13:00:27Z,1,1,MERGED
+capella-collab-manager,refactor: Make session state text consistent,https://github.com/DSD-DBS/capella-collab-manager/pull/989,2023-09-05T09:00:47Z,2023-09-06T13:01:20Z,1,1,MERGED
+capella-collab-manager,feat: Add possibility to insert colorful background when retrieving diagram,https://github.com/DSD-DBS/capella-collab-manager/pull/978,2023-08-30T15:56:29Z,2023-09-04T12:43:39Z,3,1,CLOSED
+capella-collab-manager,feat: Introduce Fullscreen Mode,https://github.com/DSD-DBS/capella-collab-manager/pull/973,2023-08-28T15:49:10Z,2023-09-11T07:15:50Z,10,1,MERGED
+capella-collab-manager,feat: Add promtail event filter,https://github.com/DSD-DBS/capella-collab-manager/pull/972,2023-08-28T11:45:51Z,2023-09-06T13:03:13Z,2,1,MERGED
+capella-collab-manager,feat: Add possibilities to archive t4c instances,https://github.com/DSD-DBS/capella-collab-manager/pull/969,2023-08-28T09:20:15Z,2023-10-13T11:46:18Z,12,4,MERGED
+capella-collab-manager,build: Add threshold to codecoverage,https://github.com/DSD-DBS/capella-collab-manager/pull/968,2023-08-28T09:15:14Z,2023-09-06T14:21:06Z,1,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/967,2023-08-28T08:53:00Z,2023-09-04T16:10:40Z,2,1,MERGED
+capella-collab-manager,feat: Conditional display of skip or continue during user creation in the project creation,https://github.com/DSD-DBS/capella-collab-manager/pull/966,2023-08-28T06:35:29Z,2023-09-05T07:06:21Z,3,2,MERGED
+capella-collab-manager,feat: Redesign NavBar and Breadcrumbs,https://github.com/DSD-DBS/capella-collab-manager/pull/964,2023-08-23T14:00:34Z,2023-09-12T10:25:49Z,7,3,MERGED
+capella-collab-manager,fix: Add asterisc to entry point when editiing the model sources,https://github.com/DSD-DBS/capella-collab-manager/pull/963,2023-08-23T10:43:26Z,2023-09-05T12:51:24Z,2,1,MERGED
+capella-collab-manager,fix: Fix Setting Model Restrictions,https://github.com/DSD-DBS/capella-collab-manager/pull/957,2023-08-21T14:11:26Z,2023-09-06T14:19:44Z,1,2,MERGED
+capella-collab-manager,Migrate to pydantic v2,https://github.com/DSD-DBS/capella-collab-manager/pull/956,2023-08-21T12:36:13Z,2023-08-22T20:51:01Z,7,9,MERGED
+capella-collab-manager,"docs: Add ""Read the docs"" configuration",https://github.com/DSD-DBS/capella-collab-manager/pull/955,2023-08-18T09:52:21Z,2023-08-21T10:09:20Z,1,1,MERGED
+capella-collab-manager,fix: Replace '@' character in k8s labels,https://github.com/DSD-DBS/capella-collab-manager/pull/954,2023-08-18T08:25:11Z,2023-08-18T08:36:08Z,1,1,MERGED
+capella-collab-manager,fix: Disable Docker Buildkit,https://github.com/DSD-DBS/capella-collab-manager/pull/952,2023-08-17T19:59:21Z,2023-08-17T21:09:12Z,1,1,MERGED
+capella-collab-manager,"feat: Add handling for OpenShift event ""AddedInterface""",https://github.com/DSD-DBS/capella-collab-manager/pull/944,2023-08-15T14:56:46Z,2023-08-22T11:28:42Z,1,1,MERGED
+capella-collab-manager,refactor: Consolidate derivation of docker_image,https://github.com/DSD-DBS/capella-collab-manager/pull/937,2023-08-14T18:43:14Z,2023-08-22T10:10:39Z,3,1,MERGED
+capella-collab-manager,refactor: Add custom `UnsupportedSessionTypeError`,https://github.com/DSD-DBS/capella-collab-manager/pull/936,2023-08-14T18:38:30Z,2023-08-22T10:09:45Z,2,1,MERGED
+capella-collab-manager,refactor: Redesign session connection dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/929,2023-08-14T13:05:02Z,2023-08-22T20:54:18Z,2,1,MERGED
+capella-collab-manager,feat: Add volumes to configuration session hook,https://github.com/DSD-DBS/capella-collab-manager/pull/928,2023-08-14T12:28:27Z,2023-09-04T15:47:42Z,10,3,MERGED
+capella-collab-manager,ci: Add Codecov upload after pytest in GH action,https://github.com/DSD-DBS/capella-collab-manager/pull/927,2023-08-11T09:43:19Z,2023-08-14T07:22:51Z,1,2,MERGED
+capella-collab-manager,Clean up status codes,https://github.com/DSD-DBS/capella-collab-manager/pull/926,2023-08-11T08:07:44Z,2023-08-14T10:38:37Z,11,11,MERGED
+capella-collab-manager,refactor: Remove unnecessary T4C integration check,https://github.com/DSD-DBS/capella-collab-manager/pull/925,2023-08-11T06:46:34Z,2023-08-14T10:35:54Z,1,1,MERGED
+capella-collab-manager,fix: Delete public route in Jupyter hook instead T4C hooks,https://github.com/DSD-DBS/capella-collab-manager/pull/924,2023-08-11T06:39:39Z,2023-08-11T07:23:05Z,0,1,MERGED
+capella-collab-manager,refactor: Cleanup model sources,https://github.com/DSD-DBS/capella-collab-manager/pull/923,2023-08-10T12:16:25Z,2023-08-14T10:36:38Z,0,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/922,2023-08-10T10:50:47Z,2023-08-11T13:05:37Z,2,1,MERGED
+capella-collab-manager,refactor(sessions): Replace `auth_helper` with DatabaseUser,https://github.com/DSD-DBS/capella-collab-manager/pull/921,2023-08-10T10:27:36Z,2023-08-10T13:01:44Z,0,1,MERGED
+capella-collab-manager,refactor: Rename `request_session` to `request_readonly_session`,https://github.com/DSD-DBS/capella-collab-manager/pull/920,2023-08-10T10:20:36Z,2023-08-10T13:00:23Z,0,1,MERGED
+capella-collab-manager,refactor: Move conflicting persistent session check to method,https://github.com/DSD-DBS/capella-collab-manager/pull/919,2023-08-10T10:13:14Z,2023-08-10T12:52:34Z,1,1,MERGED
+capella-collab-manager,feat: Add mounting for project-level Jupyter file-shares,https://github.com/DSD-DBS/capella-collab-manager/pull/918,2023-08-09T09:57:05Z,2023-09-04T15:15:33Z,8,2,MERGED
+capella-collab-manager,fix: Add timezone awareness in frontend and backend,https://github.com/DSD-DBS/capella-collab-manager/pull/917,2023-08-08T15:18:32Z,2023-08-09T14:14:05Z,1,1,MERGED
+capella-collab-manager,fix: Remove trailing '/' from fastapi routes,https://github.com/DSD-DBS/capella-collab-manager/pull/916,2023-08-08T12:40:02Z,2023-08-08T13:26:52Z,0,1,MERGED
+capella-collab-manager,refactor: Rename Capella models to tool models,https://github.com/DSD-DBS/capella-collab-manager/pull/915,2023-08-08T11:59:15Z,2023-08-08T15:23:54Z,0,1,MERGED
+capella-collab-manager,refactor: Change method and class import to module imports,https://github.com/DSD-DBS/capella-collab-manager/pull/914,2023-08-08T11:52:33Z,2023-08-08T15:36:14Z,1,1,MERGED
+capella-collab-manager,feat: Introduce session hooks,https://github.com/DSD-DBS/capella-collab-manager/pull/912,2023-08-08T08:22:11Z,2023-08-10T12:49:38Z,4,1,MERGED
+capella-collab-manager,refactor: Add `UserNotFoundError` exception,https://github.com/DSD-DBS/capella-collab-manager/pull/905,2023-08-07T15:22:48Z,2023-08-08T09:22:44Z,1,1,MERGED
+capella-collab-manager,fix: Add backend validation for deps during model deletion,https://github.com/DSD-DBS/capella-collab-manager/pull/904,2023-08-07T15:20:52Z,2023-08-08T09:06:21Z,0,1,MERGED
+capella-collab-manager,fix: Only display model badge for Capella models,https://github.com/DSD-DBS/capella-collab-manager/pull/903,2023-08-07T15:20:03Z,2023-08-08T09:15:54Z,0,1,MERGED
+capella-collab-manager,refactor: Add custom ExistingDependenciesError,https://github.com/DSD-DBS/capella-collab-manager/pull/902,2023-08-07T15:18:47Z,2023-08-08T09:06:11Z,0,1,MERGED
+capella-collab-manager,feat: Add option to skip source linking,https://github.com/DSD-DBS/capella-collab-manager/pull/901,2023-08-07T15:17:20Z,2023-08-08T09:05:58Z,0,1,MERGED
+capella-collab-manager,fix: Display log out button in mobile view,https://github.com/DSD-DBS/capella-collab-manager/pull/900,2023-08-07T15:16:16Z,2023-08-08T09:03:54Z,0,1,MERGED
+capella-collab-manager,fix: Properly pass `INCLUDE_COMMIT_HISTORY` to backup container,https://github.com/DSD-DBS/capella-collab-manager/pull/899,2023-08-07T14:36:01Z,2023-08-07T15:06:49Z,0,1,MERGED
+capella-collab-manager,fix: Remove '/' from files routes,https://github.com/DSD-DBS/capella-collab-manager/pull/898,2023-08-07T13:59:28Z,2023-08-07T15:06:39Z,0,2,MERGED
+capella-collab-manager,fix(docs): Get adminition working,https://github.com/DSD-DBS/capella-collab-manager/pull/897,2023-08-07T10:52:41Z,2023-08-07T12:24:14Z,0,1,MERGED
+capella-collab-manager,feat: Get diagram cache from repository,https://github.com/DSD-DBS/capella-collab-manager/pull/896,2023-08-04T14:09:56Z,2023-09-06T12:54:03Z,35,1,MERGED
+capella-collab-manager,"feat: Add project-wide Jupyter notebook ""share"" for collaboration",https://github.com/DSD-DBS/capella-collab-manager/pull/894,2023-08-04T09:41:26Z,2023-08-09T14:34:13Z,3,5,MERGED
+capella-collab-manager,fix: Support custom debian slim base image for guacamole builder,https://github.com/DSD-DBS/capella-collab-manager/pull/892,2023-08-01T13:29:16Z,2023-08-01T13:52:00Z,0,1,MERGED
+capella-collab-manager,fix: Use wider input fields in project metadata dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1241,2023-12-18T10:27:17Z,2024-01-29T13:15:16Z,4,2,MERGED
+capella-collab-manager,fix: Distribute content in diagram diagram evenly,https://github.com/DSD-DBS/capella-collab-manager/pull/1239,2023-12-15T15:10:42Z,2023-12-15T15:10:53Z,1,1,MERGED
+capella-collab-manager,fix: Rebase alembic history to resolve multiple HEADs,https://github.com/DSD-DBS/capella-collab-manager/pull/1238,2023-12-15T14:19:18Z,2023-12-15T14:19:54Z,1,1,MERGED
+capella-collab-manager,feat: Add T4C instance name validation,https://github.com/DSD-DBS/capella-collab-manager/pull/1237,2023-12-12T15:55:51Z,2023-12-15T15:44:37Z,2,3,MERGED
+capella-collab-manager,chore: Remove unused T4C setting wrapper component,https://github.com/DSD-DBS/capella-collab-manager/pull/1235,2023-12-12T13:34:26Z,2023-12-12T14:07:09Z,2,0,CLOSED
+capella-collab-manager,fix: Properly set API url when editing Git instance settings,https://github.com/DSD-DBS/capella-collab-manager/pull/1234,2023-12-12T13:08:36Z,2023-12-12T13:12:51Z,2,1,MERGED
+capella-collab-manager,fix: Properly show T4C repo deletion warnings,https://github.com/DSD-DBS/capella-collab-manager/pull/1232,2023-12-12T12:33:36Z,2023-12-12T12:59:48Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1227,2023-12-11T09:25:42Z,2023-12-11T20:37:59Z,2,1,MERGED
+capella-collab-manager,fix: Ensure that loki labels are strings,https://github.com/DSD-DBS/capella-collab-manager/pull/1224,2023-12-05T13:09:16Z,2023-12-11T08:23:27Z,2,1,MERGED
+capella-collab-manager,feat: Add git commits to project details page,https://github.com/DSD-DBS/capella-collab-manager/pull/1215,2023-11-30T13:18:18Z,2024-04-30T07:04:15Z,3,3,CLOSED
+capella-collab-manager,fix(session-viewer): Disable pointer event while resizing sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/1212,2023-11-28T07:59:29Z,2023-11-28T08:27:23Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1207,2023-11-27T10:55:45Z,2023-11-28T08:09:12Z,2,1,MERGED
+capella-collab-manager,docs: Fix documentation according to user feedback,https://github.com/DSD-DBS/capella-collab-manager/pull/1206,2023-11-27T10:14:34Z,2024-01-29T11:23:54Z,14,2,MERGED
+capella-collab-manager,build: Update Angular Material,https://github.com/DSD-DBS/capella-collab-manager/pull/1195,2023-11-20T11:02:09Z,2024-02-02T16:24:31Z,29,2,MERGED
+capella-collab-manager,docs(user): Add instructions for secondary click on macOS,https://github.com/DSD-DBS/capella-collab-manager/pull/1194,2023-11-15T10:06:42Z,2023-11-24T10:16:03Z,3,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1193,2023-11-14T10:03:03Z,2023-11-14T11:09:01Z,2,1,MERGED
+capella-collab-manager,chore: Update to Angular 17,https://github.com/DSD-DBS/capella-collab-manager/pull/1185,2023-11-13T10:04:00Z,2023-11-14T08:17:32Z,2,1,MERGED
+capella-collab-manager,build(frontend): Skip creation of `.css` and `.spec.ts` files,https://github.com/DSD-DBS/capella-collab-manager/pull/1183,2023-11-09T14:43:42Z,2023-11-10T13:49:25Z,2,1,MERGED
+capella-collab-manager,fix: Enable default link behaviors on nav bar and side nav links,https://github.com/DSD-DBS/capella-collab-manager/pull/1182,2023-11-09T10:48:33Z,2023-11-10T15:47:58Z,5,1,MERGED
+capella-collab-manager,fix: Properly validate repository name in frontend and backend,https://github.com/DSD-DBS/capella-collab-manager/pull/1178,2023-11-07T17:12:02Z,2023-11-13T13:21:04Z,3,3,MERGED
+capella-collab-manager,build: No longer require `-j4` in `make dev`,https://github.com/DSD-DBS/capella-collab-manager/pull/1169,2023-11-06T14:04:23Z,2023-11-13T14:57:00Z,2,1,MERGED
+capella-collab-manager,feat: Set global configuration via YAML editor in frontend,https://github.com/DSD-DBS/capella-collab-manager/pull/1168,2023-11-06T12:28:57Z,2024-02-02T14:51:09Z,9,1,MERGED
+capella-collab-manager,feat: Increase resources for Jupyter sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/1162,2023-11-02T14:51:11Z,2023-11-13T14:56:24Z,2,1,MERGED
+capella-collab-manager,feat: Add ability to reorder models in project overview,https://github.com/DSD-DBS/capella-collab-manager/pull/1161,2023-11-02T14:33:42Z,2023-12-12T10:58:43Z,13,3,MERGED
+capella-collab-manager,"ci: Tag Docker images with Git tag, not `HEAD`",https://github.com/DSD-DBS/capella-collab-manager/pull/1159,2023-11-02T13:18:42Z,2023-11-13T16:00:50Z,2,1,MERGED
+capella-collab-manager,fix: Restrict clickable area on mat-card overviews,https://github.com/DSD-DBS/capella-collab-manager/pull/1155,2023-11-02T08:23:18Z,2023-11-02T12:37:03Z,3,2,MERGED
+capella-collab-manager,ci: Ignore `print`-statements in workspace CLI,https://github.com/DSD-DBS/capella-collab-manager/pull/1153,2023-11-01T12:56:24Z,2023-11-01T13:02:08Z,2,1,MERGED
+capella-collab-manager,docs(dev): Add requirements for responsive design,https://github.com/DSD-DBS/capella-collab-manager/pull/1152,2023-11-01T09:50:58Z,2023-11-02T11:14:47Z,4,1,MERGED
+capella-collab-manager,fix: Remove line-break in error message of model badge,https://github.com/DSD-DBS/capella-collab-manager/pull/1479,2024-03-28T22:32:05Z,2024-04-04T13:58:23Z,3,8,CLOSED
+capella-collab-manager,ci: Automatically publish storybook to Chromatic,https://github.com/DSD-DBS/capella-collab-manager/pull/1478,2024-03-28T22:16:05Z,2024-04-10T10:20:52Z,2,2,MERGED
+capella-collab-manager,feat: Add Story for model-complexity-badge,https://github.com/DSD-DBS/capella-collab-manager/pull/1477,2024-03-28T14:56:39Z,2024-04-04T12:29:11Z,3,1,CLOSED
+capella-collab-manager,feat: Add Storybook with Compodoc integration,https://github.com/DSD-DBS/capella-collab-manager/pull/1476,2024-03-28T14:19:11Z,2024-04-05T11:51:07Z,3,3,MERGED
+capella-collab-manager,build: Switch to ESBuild as builder and Vite as dev-server,https://github.com/DSD-DBS/capella-collab-manager/pull/1475,2024-03-28T09:27:36Z,2024-04-05T11:46:59Z,2,1,MERGED
+capella-collab-manager,"Revert ""feat: Enable pylints' invalid name rule C0103""",https://github.com/DSD-DBS/capella-collab-manager/pull/1474,2024-03-28T08:24:10Z,2024-03-28T08:28:43Z,2,1,MERGED
+capella-collab-manager,refactor: Enable pylints' invalid name rule C0103,https://github.com/DSD-DBS/capella-collab-manager/pull/1471,2024-03-27T15:08:34Z,2024-03-27T15:19:55Z,2,1,MERGED
+capella-collab-manager,docs: Shorten URLs with duplicate names in path,https://github.com/DSD-DBS/capella-collab-manager/pull/1470,2024-03-27T14:32:44Z,2024-04-05T11:19:51Z,3,1,MERGED
+capella-collab-manager,feat: Add support for model-loading,https://github.com/DSD-DBS/capella-collab-manager/pull/1469,2024-03-27T13:32:35Z,2024-04-22T15:37:14Z,9,1,MERGED
+capella-collab-manager,docs: Add acceptance criteria for pull requests,https://github.com/DSD-DBS/capella-collab-manager/pull/1468,2024-03-27T10:06:31Z,2024-03-27T10:58:14Z,2,1,MERGED
+capella-collab-manager,feat: Standardize Message model and update messages to match,https://github.com/DSD-DBS/capella-collab-manager/pull/1467,2024-03-27T08:11:54Z,2024-05-27T13:03:43Z,8,1,MERGED
+capella-collab-manager,refactor: Apply new Angular control flow,https://github.com/DSD-DBS/capella-collab-manager/pull/1465,2024-03-26T16:43:46Z,2024-05-27T13:20:42Z,7,1,CLOSED
+capella-collab-manager,chore: Remove pyease debug helm chart,https://github.com/DSD-DBS/capella-collab-manager/pull/1463,2024-03-26T15:01:40Z,2024-03-26T15:12:43Z,2,1,MERGED
+capella-collab-manager,fix: Automount service token to prometheus,https://github.com/DSD-DBS/capella-collab-manager/pull/1462,2024-03-26T14:59:41Z,2024-03-26T16:23:00Z,2,2,MERGED
+capella-collab-manager,feat: Enable pylints' invalid name rule C0103,https://github.com/DSD-DBS/capella-collab-manager/pull/1461,2024-03-26T13:20:41Z,2024-03-26T16:38:43Z,2,1,MERGED
+capella-collab-manager,feat: Introduce McCabe complexity check,https://github.com/DSD-DBS/capella-collab-manager/pull/1460,2024-03-26T12:48:48Z,2024-05-27T13:03:13Z,7,2,MERGED
+capella-collab-manager,docs(capella): Add description editor workaround via expert view,https://github.com/DSD-DBS/capella-collab-manager/pull/1457,2024-03-25T10:37:24Z,2024-03-27T13:55:29Z,5,1,MERGED
+capella-collab-manager,feat: Skip loading of Jupyter file-shares if they don't exist,https://github.com/DSD-DBS/capella-collab-manager/pull/1456,2024-03-22T13:56:14Z,2024-03-26T16:41:52Z,3,1,MERGED
+capella-collab-manager,feat: Improve readability of log messages,https://github.com/DSD-DBS/capella-collab-manager/pull/1455,2024-03-22T10:52:20Z,2024-03-22T13:20:13Z,5,1,MERGED
+capella-collab-manager,docs: Remove extensions entrypoints from documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1453,2024-03-21T15:47:11Z,2024-03-22T14:54:45Z,2,1,MERGED
+capella-collab-manager,"feat: Add new volume type ""SecretReferenceVolume""",https://github.com/DSD-DBS/capella-collab-manager/pull/1451,2024-03-20T16:37:55Z,2024-03-22T14:33:54Z,12,1,MERGED
+capella-collab-manager,test: Add tests for HTTP session hook and GET session routes,https://github.com/DSD-DBS/capella-collab-manager/pull/1449,2024-03-20T13:24:34Z,2024-03-21T15:47:34Z,3,1,MERGED
+capella-collab-manager,feat: Add tool info to session deletion dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1448,2024-03-20T10:21:42Z,2024-03-20T11:10:37Z,2,1,MERGED
+capella-collab-manager,feat: Add support for session pre-authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/1447,2024-03-19T16:31:34Z,2024-03-21T15:17:50Z,2,1,MERGED
+capella-collab-manager,docs: Add troubleshooting section for Capella,https://github.com/DSD-DBS/capella-collab-manager/pull/1440,2024-03-19T14:15:09Z,2024-03-21T15:25:57Z,3,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1439,2024-03-19T11:21:46Z,2024-03-19T14:49:42Z,2,1,MERGED
+capella-collab-manager,fix: Update user test to eliminate deprecation warning in request,https://github.com/DSD-DBS/capella-collab-manager/pull/1438,2024-03-19T10:29:13Z,2024-03-21T15:26:36Z,2,1,MERGED
+capella-collab-manager,fix: Remove deprecated interface in authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/1437,2024-03-19T10:11:25Z,2024-03-21T15:32:18Z,3,1,MERGED
+capella-collab-manager,feat: Add colored log messages,https://github.com/DSD-DBS/capella-collab-manager/pull/1432,2024-03-18T14:08:55Z,2024-03-20T17:09:41Z,2,1,MERGED
+capella-collab-manager,fix: Pass resources to manually schedules jobs,https://github.com/DSD-DBS/capella-collab-manager/pull/1431,2024-03-18T08:28:08Z,2024-03-18T08:28:19Z,1,1,MERGED
+capella-collab-manager,"feat: Add base error model, remove dupe error handlers and registration",https://github.com/DSD-DBS/capella-collab-manager/pull/1430,2024-03-15T16:49:22Z,2024-03-25T12:39:55Z,12,1,MERGED
+capella-collab-manager,fix(frontend): Remove trailing `/` from backend API requests,https://github.com/DSD-DBS/capella-collab-manager/pull/1429,2024-03-15T16:38:02Z,2024-03-15T16:46:49Z,2,1,MERGED
+capella-collab-manager,feat: Remember last requested sessions locally,https://github.com/DSD-DBS/capella-collab-manager/pull/1428,2024-03-15T15:45:09Z,2024-04-29T09:48:30Z,9,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1424,2024-03-13T11:09:23Z,2024-03-13T15:29:25Z,3,1,MERGED
+capella-collab-manager,fix: Allow downgrading from administrator to user,https://github.com/DSD-DBS/capella-collab-manager/pull/1422,2024-03-12T16:43:44Z,2024-03-15T11:40:16Z,2,1,MERGED
+capella-collab-manager,feat: Disable automatic service account mounting,https://github.com/DSD-DBS/capella-collab-manager/pull/1414,2024-03-11T15:44:06Z,2024-03-21T15:43:34Z,2,1,MERGED
+capella-collab-manager,feat(backup): Remove connection method specific variables,https://github.com/DSD-DBS/capella-collab-manager/pull/1410,2024-03-05T14:15:55Z,2024-03-15T10:58:35Z,2,1,MERGED
+capella-collab-manager,build: Bump `fastapi-pagination` to version v0.12.19,https://github.com/DSD-DBS/capella-collab-manager/pull/1409,2024-03-05T12:42:17Z,2024-03-05T12:47:06Z,2,1,MERGED
+capella-collab-manager,build(dev): Increase backend memory limits,https://github.com/DSD-DBS/capella-collab-manager/pull/1408,2024-03-05T10:35:30Z,2024-03-05T10:55:33Z,2,1,MERGED
+capella-collab-manager,build(dev): Wait for rollout to finish,https://github.com/DSD-DBS/capella-collab-manager/pull/1407,2024-03-05T10:07:58Z,2024-03-05T10:36:04Z,2,1,MERGED
+capella-collab-manager,fix: Downgrade `fastapi-pagination` dependency,https://github.com/DSD-DBS/capella-collab-manager/pull/1406,2024-03-05T09:32:02Z,2024-03-05T09:41:38Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1405,2024-03-05T08:06:22Z,2024-03-05T09:52:26Z,2,1,MERGED
+capella-collab-manager,"ci: Scan whole directory with mypy, not single files",https://github.com/DSD-DBS/capella-collab-manager/pull/1401,2024-03-04T15:00:19Z,2024-03-05T08:21:29Z,2,1,CLOSED
+capella-collab-manager,fix: Change kubectl package location,https://github.com/DSD-DBS/capella-collab-manager/pull/1400,2024-03-04T13:54:13Z,2024-03-04T14:15:12Z,2,1,MERGED
+capella-collab-manager,docs: Add showcase video to README,https://github.com/DSD-DBS/capella-collab-manager/pull/1399,2024-03-01T11:39:48Z,2024-03-05T09:45:35Z,2,1,MERGED
+capella-collab-manager,docs: Add troubleshooting for long session request times,https://github.com/DSD-DBS/capella-collab-manager/pull/1397,2024-03-01T10:57:07Z,2024-03-06T15:54:03Z,2,1,MERGED
+capella-collab-manager,feat: Automatically provision dashboards in Grafana,https://github.com/DSD-DBS/capella-collab-manager/pull/1395,2024-02-29T16:20:57Z,2024-03-05T14:32:28Z,3,4,MERGED
+capella-collab-manager,feat: Make Prometheus persistent,https://github.com/DSD-DBS/capella-collab-manager/pull/1394,2024-02-29T13:53:01Z,2024-03-05T09:49:30Z,2,2,MERGED
+capella-collab-manager,feat: Make external links available in development mode,https://github.com/DSD-DBS/capella-collab-manager/pull/1393,2024-02-29T13:29:33Z,2024-02-29T13:34:10Z,2,1,MERGED
+capella-collab-manager,chore: Remove PodDisruptionBudgets for Grafana & Prometheus,https://github.com/DSD-DBS/capella-collab-manager/pull/1392,2024-02-29T10:58:15Z,2024-03-05T08:21:50Z,2,1,MERGED
+capella-collab-manager,feat: Expose `/metrics` endpoint,https://github.com/DSD-DBS/capella-collab-manager/pull/1391,2024-02-29T10:50:51Z,2024-03-05T09:56:14Z,2,1,MERGED
+capella-collab-manager,"refactor: Remove OpenShift specific code, use Ingress instead",https://github.com/DSD-DBS/capella-collab-manager/pull/1390,2024-02-28T18:51:41Z,2024-03-05T09:53:56Z,4,1,MERGED
+capella-collab-manager,refactor: Remove usage of bare-except,https://github.com/DSD-DBS/capella-collab-manager/pull/1388,2024-02-28T16:02:15Z,2024-02-28T18:44:09Z,2,1,MERGED
+capella-collab-manager,feat: Expose metrics about used TeamForCapella license usage,https://github.com/DSD-DBS/capella-collab-manager/pull/1387,2024-02-28T15:12:02Z,2024-03-05T14:32:01Z,2,1,MERGED
+capella-collab-manager,fix: Reenable uvicorn error logger,https://github.com/DSD-DBS/capella-collab-manager/pull/1386,2024-02-28T15:05:55Z,2024-03-04T13:14:36Z,2,1,MERGED
+capella-collab-manager,"ci: Install commitlint locally, not globally",https://github.com/DSD-DBS/capella-collab-manager/pull/1382,2024-02-27T15:27:23Z,2024-02-27T15:32:38Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1371,2024-02-26T12:50:15Z,2024-02-26T21:12:00Z,2,1,MERGED
+capella-collab-manager,build: Remove `environment.prod.ts`,https://github.com/DSD-DBS/capella-collab-manager/pull/1368,2024-02-23T08:54:38Z,2024-02-27T15:42:57Z,2,1,MERGED
+capella-collab-manager,fix: Cut too long tool names,https://github.com/DSD-DBS/capella-collab-manager/pull/1367,2024-02-23T08:28:41Z,2024-02-28T15:15:17Z,2,1,MERGED
+capella-collab-manager,feat: Convert config template to pydantic model,https://github.com/DSD-DBS/capella-collab-manager/pull/1364,2024-02-22T12:59:28Z,2024-03-22T10:34:29Z,35,1,MERGED
+capella-collab-manager,ci: Remove old Jenkins related exclude rule in `pre-commit-config.yml`,https://github.com/DSD-DBS/capella-collab-manager/pull/1363,2024-02-22T08:25:47Z,2024-02-22T08:33:34Z,2,1,MERGED
+capella-collab-manager,feat: Make external links available in development mode,https://github.com/DSD-DBS/capella-collab-manager/pull/1356,2024-02-19T10:49:00Z,2024-02-22T14:40:19Z,3,1,MERGED
+capella-collab-manager,feat: Add connection method option for sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/1355,2024-02-19T10:10:27Z,2024-03-14T15:21:29Z,46,1,MERGED
+capella-collab-manager,fix: Add gap between active sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/1350,2024-02-16T17:24:18Z,2024-02-21T08:55:04Z,3,1,MERGED
+capella-collab-manager,docs: Describe options for YAML-based tool configuration,https://github.com/DSD-DBS/capella-collab-manager/pull/1347,2024-02-16T15:59:54Z,2024-02-22T10:29:20Z,3,3,CLOSED
+capella-collab-manager,build: Update pre-commit versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1345,2024-02-16T11:09:34Z,2024-02-16T11:14:38Z,2,1,MERGED
+capella-collab-manager,feat: Make resources configurable per tool,https://github.com/DSD-DBS/capella-collab-manager/pull/1344,2024-02-16T09:40:43Z,2024-03-05T08:22:56Z,5,1,MERGED
+capella-collab-manager,fix: Align projects title in monitoring overview,https://github.com/DSD-DBS/capella-collab-manager/pull/1343,2024-02-14T14:56:12Z,2024-02-15T09:56:43Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1342,2024-02-13T15:37:50Z,2024-02-14T09:04:57Z,2,1,MERGED
+capella-collab-manager,"feat: Add descriptions, examples, and validations to pydantic fields",https://github.com/DSD-DBS/capella-collab-manager/pull/1335,2024-02-12T06:30:06Z,2024-05-13T12:44:59Z,3,1,CLOSED
+capella-collab-manager,fix: Remove button touch target to prevent scrollbars,https://github.com/DSD-DBS/capella-collab-manager/pull/1334,2024-02-09T12:56:53Z,2024-02-09T13:25:03Z,2,2,MERGED
+capella-collab-manager,fix: Update styling to minimize changes from Angular upgrade,https://github.com/DSD-DBS/capella-collab-manager/pull/1333,2024-02-08T16:16:24Z,2024-02-09T13:23:35Z,8,1,MERGED
+capella-collab-manager,"fix: Add loading case for ""Common projects""",https://github.com/DSD-DBS/capella-collab-manager/pull/1332,2024-02-08T14:08:57Z,2024-02-09T10:49:41Z,2,1,MERGED
+capella-collab-manager,chore: Remove debug message for job scheduling,https://github.com/DSD-DBS/capella-collab-manager/pull/1331,2024-02-08T11:58:02Z,2024-02-08T11:58:13Z,1,1,MERGED
+capella-collab-manager,ci: Reenable deprecation ESLint rule,https://github.com/DSD-DBS/capella-collab-manager/pull/1330,2024-02-07T15:31:17Z,2024-02-14T09:23:31Z,2,1,MERGED
+capella-collab-manager,refactor: Enforce mentioning of lifecycle hook interfaces,https://github.com/DSD-DBS/capella-collab-manager/pull/1329,2024-02-07T14:47:37Z,2024-02-09T10:25:45Z,3,1,MERGED
+capella-collab-manager,refactor: Use dataclasses for all SQLAlchemy database classes,https://github.com/DSD-DBS/capella-collab-manager/pull/1328,2024-02-07T11:42:55Z,2024-02-14T14:05:25Z,3,1,MERGED
+capella-collab-manager,fix: Add missing word in Git error message,https://github.com/DSD-DBS/capella-collab-manager/pull/1325,2024-02-07T09:54:22Z,2024-02-07T09:54:36Z,1,1,MERGED
+capella-collab-manager,chore: Apply prettier layout globally,https://github.com/DSD-DBS/capella-collab-manager/pull/1323,2024-02-06T13:39:54Z,2024-02-07T07:32:00Z,3,1,MERGED
+capella-collab-manager,docs: Fix broken links in README,https://github.com/DSD-DBS/capella-collab-manager/pull/1322,2024-02-06T08:16:27Z,2024-02-06T13:21:16Z,2,1,MERGED
+capella-collab-manager,refactor: Optimize some error messages,https://github.com/DSD-DBS/capella-collab-manager/pull/1321,2024-02-05T17:10:42Z,2024-02-06T15:04:26Z,4,1,MERGED
+capella-collab-manager,fix: Minimize styling changes affected by Angular upgrade,https://github.com/DSD-DBS/capella-collab-manager/pull/1317,2024-02-05T15:32:38Z,2024-02-06T10:08:32Z,10,1,MERGED
+capella-collab-manager,"docs: Expose ""API documentation"" and restructure users docs",https://github.com/DSD-DBS/capella-collab-manager/pull/1316,2024-02-05T14:48:10Z,2024-02-07T07:55:20Z,39,1,MERGED
+capella-collab-manager,feat: Set tool configuration with YAML,https://github.com/DSD-DBS/capella-collab-manager/pull/1311,2024-01-31T16:30:28Z,2024-02-22T16:19:51Z,6,1,MERGED
+capella-collab-manager,refactor: Make YAML editor reusable,https://github.com/DSD-DBS/capella-collab-manager/pull/1310,2024-01-31T13:25:55Z,2024-02-02T16:24:47Z,2,1,MERGED
+capella-collab-manager,feat: Add polarion as model source,https://github.com/DSD-DBS/capella-collab-manager/pull/1304,2024-01-30T14:09:30Z,2024-03-15T11:04:29Z,3,1,CLOSED
+capella-collab-manager,ci: Extend `commitlint` configuration with conventional commits,https://github.com/DSD-DBS/capella-collab-manager/pull/1297,2024-01-29T16:02:02Z,2024-01-29T16:07:17Z,2,2,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1293,2024-01-29T07:56:26Z,2024-01-29T08:03:29Z,2,1,MERGED
+capella-collab-manager,docs: Enable strict mode,https://github.com/DSD-DBS/capella-collab-manager/pull/1292,2024-01-25T15:27:35Z,2024-01-29T10:00:37Z,2,1,MERGED
+capella-collab-manager,build: Use `commitlint` to enfore conventional commits,https://github.com/DSD-DBS/capella-collab-manager/pull/1291,2024-01-25T10:56:17Z,2024-01-26T08:10:00Z,2,1,MERGED
+capella-collab-manager,build: Use `commitlint` to enfore conventional commits,https://github.com/DSD-DBS/capella-collab-manager/pull/1290,2024-01-24T16:37:33Z,2024-01-25T10:56:00Z,3,2,CLOSED
+capella-collab-manager,build: Auto-update Github Action versions with dependabot,https://github.com/DSD-DBS/capella-collab-manager/pull/1289,2024-01-24T15:57:02Z,2024-01-29T16:08:21Z,2,1,MERGED
+capella-collab-manager,build: Update `pre-commit` versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1288,2024-01-24T15:39:40Z,2024-01-24T15:52:40Z,2,1,MERGED
+capella-collab-manager,build: Update `pre-commit` versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1279,2024-01-22T16:09:12Z,2024-01-22T16:27:36Z,3,1,CLOSED
+capella-collab-manager,fix: Bump pre-commit version and fix pre-commit issues,https://github.com/DSD-DBS/capella-collab-manager/pull/1278,2024-01-22T16:05:28Z,2024-01-24T15:50:45Z,5,2,CLOSED
+capella-collab-manager,docs: Update documentation about T4C token and flow,https://github.com/DSD-DBS/capella-collab-manager/pull/1275,2024-01-16T18:10:22Z,2024-01-29T15:46:08Z,3,1,MERGED
+capella-collab-manager,fix: Correctly call `psql` in probes,https://github.com/DSD-DBS/capella-collab-manager/pull/1274,2024-01-16T16:29:24Z,2024-01-29T14:29:29Z,2,1,MERGED
+capella-collab-manager,build: Update copyright string on docs,https://github.com/DSD-DBS/capella-collab-manager/pull/1273,2024-01-16T16:17:19Z,2024-01-22T16:32:20Z,2,1,MERGED
+capella-collab-manager,feat: Change DB Netz ASCII logo to DB InfraGO,https://github.com/DSD-DBS/capella-collab-manager/pull/1262,2024-01-08T11:37:24Z,2024-01-08T15:21:15Z,2,1,MERGED
+capella-collab-manager,fix: Increase requests timeout,https://github.com/DSD-DBS/capella-collab-manager/pull/1261,2024-01-08T09:47:43Z,2024-01-08T10:02:31Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1259,2024-01-08T07:58:29Z,2024-01-23T07:44:12Z,3,1,MERGED
+capella-collab-manager,feat: Improve test runtime by only calling `migrate_db` once,https://github.com/DSD-DBS/capella-collab-manager/pull/1258,2024-01-02T17:11:14Z,2024-02-27T14:50:52Z,5,1,MERGED
+capella-collab-manager,docs: Update licences and instances of DB Netz AG to DB InfraGO AG,https://github.com/DSD-DBS/capella-collab-manager/pull/1254,2024-01-02T10:11:48Z,2024-01-02T13:54:10Z,6,1,MERGED
+capella-collab-manager,feat: Never restart session containers,https://github.com/DSD-DBS/capella-collab-manager/pull/1594,2024-05-29T08:36:19Z,2024-06-03T07:10:20Z,3,1,MERGED
+capella-collab-manager,feat: Overwrite individual images in `values.yaml`,https://github.com/DSD-DBS/capella-collab-manager/pull/1591,2024-05-28T14:10:32Z,2024-05-28T14:33:47Z,3,1,MERGED
+capella-collab-manager,"fix(monitoring): Don't refresh ""Active sessions"" dashboard automatically",https://github.com/DSD-DBS/capella-collab-manager/pull/1590,2024-05-28T13:46:25Z,2024-05-28T14:33:57Z,3,1,MERGED
+capella-collab-manager,"fix(monitoring): Fetching of variables in ""Active Sessions"" dashboard",https://github.com/DSD-DBS/capella-collab-manager/pull/1589,2024-05-28T12:00:02Z,2024-05-28T12:59:01Z,3,1,MERGED
+capella-collab-manager,fix: Termination of sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/1588,2024-05-28T08:03:25Z,2024-05-28T08:12:12Z,4,1,MERGED
+capella-collab-manager,feat!: Replace bearer with cookie-based authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/1587,2024-05-27T16:43:29Z,2024-07-31T10:10:03Z,41,8,MERGED
+capella-collab-manager,fix: NullInjectionError in Git instance settings,https://github.com/DSD-DBS/capella-collab-manager/pull/1586,2024-05-27T14:36:18Z,2024-05-27T14:52:10Z,3,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1585,2024-05-27T13:54:37Z,2024-05-27T14:36:08Z,3,1,MERGED
+capella-collab-manager,feat: Share sessions with other users,https://github.com/DSD-DBS/capella-collab-manager/pull/1584,2024-05-23T13:55:47Z,2024-06-11T12:07:37Z,13,1,MERGED
+capella-collab-manager,build: Bump minor frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1582,2024-05-23T13:31:09Z,2024-05-23T13:35:01Z,3,1,MERGED
+capella-collab-manager,docs: Users have to log in before project assignment,https://github.com/DSD-DBS/capella-collab-manager/pull/1581,2024-05-23T13:07:50Z,2024-05-23T13:53:14Z,3,1,MERGED
+capella-collab-manager,feat(monitoring): Filter active sessions by session variables,https://github.com/DSD-DBS/capella-collab-manager/pull/1573,2024-05-17T20:41:30Z,2024-05-27T09:41:07Z,3,1,MERGED
+capella-collab-manager,feat: Improve styling of footer & header,https://github.com/DSD-DBS/capella-collab-manager/pull/1572,2024-05-16T15:41:18Z,2024-05-23T13:25:14Z,3,1,MERGED
+capella-collab-manager,fix: Trust proxy headers to avoid https -> http redirects,https://github.com/DSD-DBS/capella-collab-manager/pull/1571,2024-05-16T09:10:33Z,2024-05-16T11:45:32Z,3,1,MERGED
+capella-collab-manager,docs: Add possible exceptions to API documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1569,2024-05-15T10:52:36Z,2024-05-27T13:11:02Z,7,1,MERGED
+capella-collab-manager,feat: Show revision in pipelines error message,https://github.com/DSD-DBS/capella-collab-manager/pull/1568,2024-05-14T13:54:20Z,2024-05-27T13:18:51Z,3,1,MERGED
+capella-collab-manager,feat: Self-host Roboto and Material Icons font,https://github.com/DSD-DBS/capella-collab-manager/pull/1563,2024-05-10T09:08:43Z,2024-05-10T09:18:26Z,3,1,MERGED
+capella-collab-manager,test: Add Stories for file browser and trigger pipeline dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1562,2024-05-08T13:09:32Z,2024-05-08T13:43:56Z,3,1,MERGED
+capella-collab-manager,build: Reenable 'no-unused-imports' eslint rule,https://github.com/DSD-DBS/capella-collab-manager/pull/1559,2024-05-07T12:24:51Z,2024-05-07T12:30:40Z,3,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1558,2024-05-07T12:22:12Z,2024-05-07T12:26:11Z,3,1,MERGED
+capella-collab-manager,chore: Improve accessibility for some buttons,https://github.com/DSD-DBS/capella-collab-manager/pull/1557,2024-05-07T11:49:07Z,2024-05-10T09:22:11Z,3,1,MERGED
+capella-collab-manager,refactor: Apply new angular control flow to diagram cache component,https://github.com/DSD-DBS/capella-collab-manager/pull/1550,2024-05-06T15:33:52Z,2024-05-07T14:29:52Z,3,1,MERGED
+capella-collab-manager,feat: Add diagram cache stories and combine story objects,https://github.com/DSD-DBS/capella-collab-manager/pull/1549,2024-05-06T15:05:09Z,2024-05-07T14:28:53Z,7,2,MERGED
+capella-collab-manager,build: Auto-generate frontend API client,https://github.com/DSD-DBS/capella-collab-manager/pull/1547,2024-05-02T12:41:13Z,2024-05-14T10:38:26Z,17,1,MERGED
+capella-collab-manager,build: Fetch missing helm dependencies automatically,https://github.com/DSD-DBS/capella-collab-manager/pull/1546,2024-04-30T12:15:47Z,2024-05-07T09:31:09Z,6,1,MERGED
+capella-collab-manager,docs: Add make target to add grafana helm repo and build dependencies,https://github.com/DSD-DBS/capella-collab-manager/pull/1545,2024-04-30T11:08:26Z,2024-04-30T12:21:37Z,2,1,CLOSED
+capella-collab-manager,ci: Disable some Actions for dependabot PRs,https://github.com/DSD-DBS/capella-collab-manager/pull/1543,2024-04-30T10:14:00Z,2024-04-30T10:18:51Z,3,1,MERGED
+capella-collab-manager,ci: Remove version pinning of capellambse,https://github.com/DSD-DBS/capella-collab-manager/pull/1542,2024-04-30T10:13:41Z,2024-04-30T10:17:37Z,3,1,MERGED
+capella-collab-manager,chore: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1541,2024-04-30T09:15:53Z,2024-04-30T09:45:02Z,3,2,MERGED
+capella-collab-manager,test: Use a fixed date for session history,https://github.com/DSD-DBS/capella-collab-manager/pull/1540,2024-04-30T07:09:43Z,2024-04-30T07:27:36Z,3,1,MERGED
+capella-collab-manager,fix(front): Reload active session in DOM only on change or modification,https://github.com/DSD-DBS/capella-collab-manager/pull/1539,2024-04-29T16:37:30Z,2024-04-30T09:59:54Z,3,3,MERGED
+capella-collab-manager,fix: List files in file browser works again,https://github.com/DSD-DBS/capella-collab-manager/pull/1535,2024-04-29T15:16:08Z,2024-04-29T15:19:45Z,3,1,MERGED
+capella-collab-manager,chore: Migrate to Angular standalone components,https://github.com/DSD-DBS/capella-collab-manager/pull/1534,2024-04-29T14:04:34Z,2024-04-30T07:36:54Z,3,1,MERGED
+capella-collab-manager,fix: Add two stages for environment variable resolution,https://github.com/DSD-DBS/capella-collab-manager/pull/1533,2024-04-27T17:52:15Z,2024-04-29T11:56:12Z,3,1,MERGED
+capella-collab-manager,build: Create `.env` file if it doesn't exist in Makefile,https://github.com/DSD-DBS/capella-collab-manager/pull/1530,2024-04-26T15:35:40Z,2024-04-26T15:44:50Z,3,1,MERGED
+capella-collab-manager,build: Load environment from .env in Makefile,https://github.com/DSD-DBS/capella-collab-manager/pull/1529,2024-04-26T14:41:09Z,2024-04-26T14:45:08Z,3,1,MERGED
+capella-collab-manager,feat: Add cascading deletion of tool natures & versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1528,2024-04-25T09:09:45Z,2024-04-29T09:27:25Z,3,1,MERGED
+capella-collab-manager,feat: Add provisioning of compatible tool versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1526,2024-04-23T09:11:21Z,2024-04-29T11:49:23Z,12,1,MERGED
+capella-collab-manager,feat: Disable persistent workspace sessions for specific tools,https://github.com/DSD-DBS/capella-collab-manager/pull/1522,2024-04-22T16:09:55Z,2024-04-29T11:57:04Z,5,1,MERGED
+capella-collab-manager,ci: Run Chromatic on 'main' branch,https://github.com/DSD-DBS/capella-collab-manager/pull/1521,2024-04-19T13:49:27Z,2024-04-19T13:59:35Z,3,1,MERGED
+capella-collab-manager,"feat(frontend): Add ""404 - Not found"" page",https://github.com/DSD-DBS/capella-collab-manager/pull/1520,2024-04-19T09:08:18Z,2024-04-29T09:40:40Z,4,1,MERGED
+capella-collab-manager,ci: Add license headers to `.mdx` files automatically,https://github.com/DSD-DBS/capella-collab-manager/pull/1519,2024-04-18T13:07:28Z,2024-04-24T06:21:38Z,3,1,MERGED
+capella-collab-manager,docs(dev): Describe how to add `*.stories.ts` and `*.docs.mdx` files,https://github.com/DSD-DBS/capella-collab-manager/pull/1516,2024-04-15T21:03:09Z,2024-04-16T12:33:21Z,3,1,MERGED
+capella-collab-manager,fix: Correctly handle disabling version selection,https://github.com/DSD-DBS/capella-collab-manager/pull/1512,2024-04-15T14:40:34Z,2024-04-15T15:25:55Z,3,1,MERGED
+capella-collab-manager,feat: Limit the number of models requested,https://github.com/DSD-DBS/capella-collab-manager/pull/1511,2024-04-15T13:38:09Z,2024-04-23T06:31:19Z,8,3,MERGED
+capella-collab-manager,"docs: Add ""How to see users connected to the same TeamForCapella repo""",https://github.com/DSD-DBS/capella-collab-manager/pull/1510,2024-04-15T11:51:11Z,2024-04-15T16:00:26Z,3,1,MERGED
+capella-collab-manager,ci: Fix duplicated creation of Storybook comment,https://github.com/DSD-DBS/capella-collab-manager/pull/1508,2024-04-11T07:27:40Z,2024-04-15T12:06:37Z,3,1,MERGED
+capella-collab-manager,ci: Fix detection of Storybook PR,https://github.com/DSD-DBS/capella-collab-manager/pull/1507,2024-04-11T07:22:15Z,2024-04-11T07:26:59Z,4,1,CLOSED
+capella-collab-manager,feat(storybook): Add Angular environment for Storybook,https://github.com/DSD-DBS/capella-collab-manager/pull/1506,2024-04-10T13:59:59Z,2024-04-15T12:08:42Z,3,1,MERGED
+capella-collab-manager,fix(storybook): Remove styling from stories in documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1505,2024-04-10T12:48:04Z,2024-04-10T13:09:23Z,4,1,MERGED
+capella-collab-manager,docs: Rename `Profile` to `Menu`,https://github.com/DSD-DBS/capella-collab-manager/pull/1504,2024-04-10T10:04:05Z,2024-04-10T10:08:53Z,2,1,MERGED
+capella-collab-manager,fix: Don't mount service account token to session containers,https://github.com/DSD-DBS/capella-collab-manager/pull/1503,2024-04-10T10:03:57Z,2024-04-10T10:07:41Z,2,1,MERGED
+capella-collab-manager,fix(sessions): Don't resolve encodings in sessions proxy,https://github.com/DSD-DBS/capella-collab-manager/pull/1502,2024-04-10T08:54:27Z,2024-04-10T10:07:12Z,2,1,MERGED
+capella-collab-manager,ci: Add PR comment with Storybook preview,https://github.com/DSD-DBS/capella-collab-manager/pull/1497,2024-04-08T08:58:52Z,2024-04-10T13:04:43Z,3,1,MERGED
+capella-collab-manager,feat: Show warning for archived projects,https://github.com/DSD-DBS/capella-collab-manager/pull/1495,2024-04-05T15:49:29Z,2024-04-10T12:58:46Z,4,1,MERGED
+capella-collab-manager,ci: Add Storybook to PR acceptance criteria,https://github.com/DSD-DBS/capella-collab-manager/pull/1494,2024-04-05T13:39:44Z,2024-04-15T10:06:05Z,3,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1493,2024-04-05T12:11:53Z,2024-04-05T13:19:57Z,2,1,MERGED
+capella-collab-manager,test: Add stories for ProjectMetadata component,https://github.com/DSD-DBS/capella-collab-manager/pull/1490,2024-04-04T15:25:35Z,2024-04-10T12:54:23Z,2,1,MERGED
+capella-collab-manager,test: Add Story for model-complexity-badge,https://github.com/DSD-DBS/capella-collab-manager/pull/1489,2024-04-04T12:28:09Z,2024-04-10T10:08:16Z,2,1,MERGED
+capella-collab-manager,refactor: Enable more pylint and mypy rules,https://github.com/DSD-DBS/capella-collab-manager/pull/1487,2024-04-03T14:58:50Z,2024-04-30T10:16:19Z,2,1,CLOSED
+capella-collab-manager,docs: Describe TeamForCapella commit and commit description options,https://github.com/DSD-DBS/capella-collab-manager/pull/1485,2024-04-02T13:55:25Z,2024-04-05T11:39:55Z,4,1,MERGED
+capella-collab-manager,docs: Add missing line-break between text & image,https://github.com/DSD-DBS/capella-collab-manager/pull/1484,2024-04-02T09:43:47Z,2024-04-04T13:31:13Z,2,1,MERGED
+capella-collab-manager,docs: Disable font loading from Google fonts,https://github.com/DSD-DBS/capella-collab-manager/pull/1483,2024-04-02T09:42:42Z,2024-04-05T11:22:01Z,2,1,MERGED
+capella-collab-manager,refactor!: Restructure SOPS files in Gitlab CI/CD templates,https://github.com/DSD-DBS/capella-collab-manager/pull/1680,2024-07-31T12:57:38Z,2024-07-31T15:20:00Z,2,1,MERGED
+capella-collab-manager,docs: Rewrite Keycloak documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1674,2024-07-29T14:24:34Z,2024-07-31T10:19:19Z,2,1,MERGED
+capella-collab-manager,chore(docs): Remove `prettier-ignore` where unnecessary,https://github.com/DSD-DBS/capella-collab-manager/pull/1673,2024-07-29T12:12:26Z,2024-07-29T12:16:40Z,2,1,MERGED
+capella-collab-manager,ci: Add Gitleaks to pre-commit configuration,https://github.com/DSD-DBS/capella-collab-manager/pull/1672,2024-07-25T13:54:00Z,2024-07-25T13:58:01Z,2,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1671,2024-07-24T10:35:30Z,2024-07-24T11:40:54Z,3,1,MERGED
+capella-collab-manager,docs: How-to disable grouping and resolution of alerts,https://github.com/DSD-DBS/capella-collab-manager/pull/1670,2024-07-24T10:27:52Z,2024-07-24T10:31:53Z,2,1,MERGED
+capella-collab-manager,feat: Add alerts for system administrators in Grafana,https://github.com/DSD-DBS/capella-collab-manager/pull/1661,2024-07-19T05:42:46Z,2024-07-23T19:17:01Z,2,1,MERGED
+capella-collab-manager,fix: Tolerate Pods without labels in metrics,https://github.com/DSD-DBS/capella-collab-manager/pull/1660,2024-07-18T16:01:26Z,2024-07-19T05:28:35Z,2,1,MERGED
+capella-collab-manager,docs: Improve help message for ws restore command,https://github.com/DSD-DBS/capella-collab-manager/pull/1659,2024-07-18T10:50:27Z,2025-01-27T13:04:38Z,3,1,CLOSED
+capella-collab-manager,build: Update generated frontend API client,https://github.com/DSD-DBS/capella-collab-manager/pull/1657,2024-07-18T06:34:19Z,2024-07-18T06:38:30Z,3,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1656,2024-07-18T06:30:37Z,2024-07-18T06:36:02Z,3,1,MERGED
+capella-collab-manager,refactor: Improve error msg for missing status in T4C lic-server,https://github.com/DSD-DBS/capella-collab-manager/pull/1655,2024-07-17T14:36:59Z,2024-07-18T06:30:00Z,2,1,MERGED
+capella-collab-manager,feat: Add abstraction for OIDCProvider and add identification field,https://github.com/DSD-DBS/capella-collab-manager/pull/1653,2024-07-15T17:17:04Z,2024-07-29T09:15:34Z,2,2,MERGED
+capella-collab-manager,feat: Add workspace management for admins,https://github.com/DSD-DBS/capella-collab-manager/pull/1652,2024-07-15T16:37:19Z,2024-07-25T18:29:22Z,3,1,MERGED
+capella-collab-manager,feat: Increase size of Prometheus volume,https://github.com/DSD-DBS/capella-collab-manager/pull/1638,2024-06-28T16:13:32Z,2024-07-04T14:29:58Z,2,1,MERGED
+capella-collab-manager,build: Skip initialization of Guacamole if not needed,https://github.com/DSD-DBS/capella-collab-manager/pull/1636,2024-06-25T09:02:41Z,2024-06-27T09:28:49Z,2,1,MERGED
+capella-collab-manager,build: Derive helm version from Git tags,https://github.com/DSD-DBS/capella-collab-manager/pull/1635,2024-06-25T07:25:59Z,2024-07-16T15:12:12Z,2,1,MERGED
+capella-collab-manager,"refactor: Add stories, use generated frontend client and Angular control flow",https://github.com/DSD-DBS/capella-collab-manager/pull/1623,2024-06-17T16:02:29Z,2024-06-20T16:28:38Z,3,1,MERGED
+capella-collab-manager,fix: Infinite authentication loop,https://github.com/DSD-DBS/capella-collab-manager/pull/1622,2024-06-11T15:15:19Z,2024-06-11T15:25:28Z,2,1,MERGED
+capella-collab-manager,perf: Improve CLI speed and display options,https://github.com/DSD-DBS/capella-collab-manager/pull/1621,2024-06-11T14:45:32Z,2024-06-11T15:31:55Z,2,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1620,2024-06-11T14:43:12Z,2024-06-11T14:47:34Z,3,1,MERGED
+capella-collab-manager,fix: Apply executable flag to askpass.py,https://github.com/DSD-DBS/capella-collab-manager/pull/1619,2024-06-11T13:41:38Z,2024-06-11T13:45:32Z,2,1,MERGED
+capella-collab-manager,feat(routing): Add redundancy and 401 error handling to session routing,https://github.com/DSD-DBS/capella-collab-manager/pull/1612,2024-06-07T07:24:48Z,2024-06-11T12:29:16Z,2,1,MERGED
+capella-collab-manager,ci: Run Storybook only on frontend changes,https://github.com/DSD-DBS/capella-collab-manager/pull/1611,2024-06-06T09:27:03Z,2024-06-06T10:23:15Z,3,1,MERGED
+capella-collab-manager,fix(monitoring): Filter out negative values,https://github.com/DSD-DBS/capella-collab-manager/pull/1610,2024-06-06T09:18:56Z,2024-06-11T12:29:33Z,3,1,MERGED
+capella-collab-manager,build: Listen to all hosts when running dev mode,https://github.com/DSD-DBS/capella-collab-manager/pull/1608,2024-06-05T12:25:05Z,2024-06-05T13:44:46Z,3,1,MERGED
+capella-collab-manager,fix: Reduce Storybook log level and fix warnings,https://github.com/DSD-DBS/capella-collab-manager/pull/1607,2024-06-05T10:02:40Z,2024-06-05T10:06:35Z,3,1,MERGED
+capella-collab-manager,docs: Update tool examples to latest configuration,https://github.com/DSD-DBS/capella-collab-manager/pull/1605,2024-06-04T15:01:40Z,2024-06-06T07:22:08Z,8,1,MERGED
+capella-collab-manager,chore: Remove unused certificate generation for OAuth mock,https://github.com/DSD-DBS/capella-collab-manager/pull/1604,2024-06-04T14:45:56Z,2024-06-05T13:49:11Z,3,1,MERGED
+capella-collab-manager,fix: Remove special handling of Jupyter idletime,https://github.com/DSD-DBS/capella-collab-manager/pull/1603,2024-06-04T13:32:43Z,2024-06-11T14:32:46Z,3,1,MERGED
+capella-collab-manager,build: Update Guacamole to 1.5.5,https://github.com/DSD-DBS/capella-collab-manager/pull/1602,2024-06-04T09:24:12Z,2024-06-06T11:00:54Z,3,1,MERGED
+capella-collab-manager,docs: Add new deployment strategy by pulling images from GitHub,https://github.com/DSD-DBS/capella-collab-manager/pull/1601,2024-06-04T09:22:43Z,2024-06-11T12:30:16Z,3,1,MERGED
+capella-collab-manager,docs(dev): Make setup of development environment clearer,https://github.com/DSD-DBS/capella-collab-manager/pull/1600,2024-06-03T13:14:38Z,2024-06-11T12:36:23Z,3,1,MERGED
+capella-collab-manager,fix: Create backend venv if not existing,https://github.com/DSD-DBS/capella-collab-manager/pull/1599,2024-06-03T11:39:27Z,2024-06-03T13:15:37Z,4,1,MERGED
+capella-collab-manager,build: Enforce HTTPS while installing `kubectl` in Docker,https://github.com/DSD-DBS/capella-collab-manager/pull/1598,2024-06-03T10:23:54Z,2024-06-03T10:32:12Z,3,1,MERGED
+capella-collab-manager,build(frontend): Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1597,2024-06-03T10:21:12Z,2024-06-03T12:55:23Z,3,1,MERGED
+capella-collab-manager,feat: Allow setting support project types for tools,https://github.com/DSD-DBS/capella-collab-manager/pull/1944,2024-10-31T10:44:21Z,2024-11-01T13:58:23Z,11,1,MERGED
+capella-collab-manager,feat: Add the ability to filter project privacy in project view,https://github.com/DSD-DBS/capella-collab-manager/pull/1941,2024-10-31T08:48:11Z,2024-11-01T13:57:20Z,7,1,MERGED
+capella-collab-manager,fix: Add correct default for redirect_url when adding a new tool,https://github.com/DSD-DBS/capella-collab-manager/pull/1940,2024-10-31T08:19:15Z,2024-11-01T13:57:41Z,4,1,MERGED
+capella-collab-manager,feat: Add the ability to filter trainings in project view,https://github.com/DSD-DBS/capella-collab-manager/pull/1937,2024-10-30T15:57:10Z,2024-10-31T08:20:26Z,7,1,MERGED
+capella-collab-manager,feat: Add the ability to set a company logo and show environment badge,https://github.com/DSD-DBS/capella-collab-manager/pull/1936,2024-10-29T18:17:58Z,2024-12-09T15:14:45Z,27,1,MERGED
+capella-collab-manager,chore: Enable pylint in tests folder,https://github.com/DSD-DBS/capella-collab-manager/pull/1933,2024-10-29T11:44:19Z,2024-10-29T16:13:15Z,13,1,MERGED
+capella-collab-manager,feat(grafana): Always use 7d range for user happiness index chart,https://github.com/DSD-DBS/capella-collab-manager/pull/1932,2024-10-29T09:32:16Z,2024-10-29T09:40:19Z,4,1,MERGED
+capella-collab-manager,docs: Fix link to DB InfraGO website,https://github.com/DSD-DBS/capella-collab-manager/pull/1929,2024-10-28T16:00:58Z,2024-10-28T16:47:05Z,4,1,MERGED
+capella-collab-manager,fix(helm): Get storage information for backend-data from same source,https://github.com/DSD-DBS/capella-collab-manager/pull/1928,2024-10-28T15:48:30Z,2024-10-28T16:01:24Z,4,1,MERGED
+capella-collab-manager,feat!: Issue JWT for session pre-authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/1927,2024-10-25T15:44:09Z,2024-10-28T14:08:14Z,12,1,MERGED
+capella-collab-manager,feat: Add metrics about the SQLAlchemy database pool,https://github.com/DSD-DBS/capella-collab-manager/pull/1925,2024-10-24T10:14:44Z,2024-10-24T12:32:26Z,5,1,MERGED
+capella-collab-manager,fix: Increase connection pool to 20 concurrent database connections,https://github.com/DSD-DBS/capella-collab-manager/pull/1924,2024-10-24T09:09:55Z,2024-10-24T10:16:47Z,5,1,MERGED
+capella-collab-manager,docs: Add instructions how to upload images to T4C repository,https://github.com/DSD-DBS/capella-collab-manager/pull/1922,2024-10-22T13:00:39Z,2024-11-12T12:13:59Z,4,1,MERGED
+capella-collab-manager,feat(grafana): Increase width of feedback dashboard,https://github.com/DSD-DBS/capella-collab-manager/pull/1912,2024-10-16T10:10:00Z,2024-10-16T13:16:02Z,3,1,MERGED
+capella-collab-manager,fix: Bring cluster deployment up-to-date with latest changes,https://github.com/DSD-DBS/capella-collab-manager/pull/1911,2024-10-16T09:58:58Z,2024-10-16T10:10:27Z,5,4,MERGED
+capella-collab-manager,fix(grafana): Add fallback if all feedback values have anonymous label,https://github.com/DSD-DBS/capella-collab-manager/pull/1910,2024-10-15T15:35:27Z,2024-10-16T07:24:21Z,4,1,MERGED
+capella-collab-manager,fix: Fix an issue where feedback that shared contact info was not sent,https://github.com/DSD-DBS/capella-collab-manager/pull/1909,2024-10-15T10:10:01Z,2024-10-15T11:47:34Z,5,2,MERGED
+capella-collab-manager,"test(storybook): Capture ""Create project"" story snapshots with delay",https://github.com/DSD-DBS/capella-collab-manager/pull/1908,2024-10-15T08:11:41Z,2024-10-15T11:48:07Z,4,1,MERGED
+capella-collab-manager,fix(grafana): Remove data without anonymity label from anonymity gauge,https://github.com/DSD-DBS/capella-collab-manager/pull/1907,2024-10-15T07:50:22Z,2024-10-15T12:08:45Z,5,1,MERGED
+capella-collab-manager,feat: Add support for provisioning of tool models,https://github.com/DSD-DBS/capella-collab-manager/pull/1901,2024-10-11T16:07:06Z,2024-11-19T11:24:07Z,43,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1900,2024-10-11T08:52:42Z,2024-10-15T14:42:59Z,5,1,MERGED
+capella-collab-manager,feat: Add indicator to warn when most T4C licenses are being used,https://github.com/DSD-DBS/capella-collab-manager/pull/1899,2024-10-11T06:33:25Z,2024-10-24T12:45:40Z,25,1,MERGED
+capella-collab-manager,test: Remove `playwright` and `karma` as frontend testing frameworks,https://github.com/DSD-DBS/capella-collab-manager/pull/1897,2024-10-10T12:16:50Z,2024-10-10T12:22:43Z,4,1,MERGED
+capella-collab-manager,refactor: Disable OpenAPI options via CLI arguments,https://github.com/DSD-DBS/capella-collab-manager/pull/1896,2024-10-10T11:57:47Z,2024-10-10T12:11:17Z,5,1,MERGED
+capella-collab-manager,ci: Auto-generate changelog for API changes,https://github.com/DSD-DBS/capella-collab-manager/pull/1895,2024-10-10T10:36:23Z,2024-10-10T12:37:35Z,12,1,MERGED
+capella-collab-manager,feat: Add feedback anonymity metric to Grafana dashboard,https://github.com/DSD-DBS/capella-collab-manager/pull/1894,2024-10-10T10:25:18Z,2024-10-10T15:01:43Z,16,1,MERGED
+capella-collab-manager,feat: Update feedback dialog to encourage actionable feedback,https://github.com/DSD-DBS/capella-collab-manager/pull/1893,2024-10-10T09:02:41Z,2024-10-10T09:21:02Z,4,1,MERGED
+capella-collab-manager,feat(grafana): Show user happiness over time,https://github.com/DSD-DBS/capella-collab-manager/pull/1892,2024-10-09T16:03:22Z,2024-10-09T17:22:46Z,3,1,MERGED
+capella-collab-manager,ci: Add `codespell` pre-commit hook,https://github.com/DSD-DBS/capella-collab-manager/pull/1891,2024-10-09T12:28:42Z,2024-10-09T13:54:41Z,5,1,MERGED
+capella-collab-manager,docs: Fix a bunch of minor grammar issues and typos,https://github.com/DSD-DBS/capella-collab-manager/pull/1889,2024-10-09T08:24:32Z,2024-10-09T09:07:53Z,4,1,MERGED
+capella-collab-manager,build: Update frontend and `pre-commit` versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1887,2024-10-08T09:51:53Z,2024-10-08T09:56:57Z,4,1,MERGED
+capella-collab-manager,fix: Don't loop-redirect to `/auth` or `/logout`,https://github.com/DSD-DBS/capella-collab-manager/pull/1886,2024-10-08T09:23:18Z,2024-10-08T09:28:39Z,4,1,MERGED
+capella-collab-manager,fix: Minor frontend fixes for T4C instance components,https://github.com/DSD-DBS/capella-collab-manager/pull/1881,2024-10-07T16:37:01Z,2024-10-07T16:42:42Z,3,1,MERGED
+capella-collab-manager,chore: Disable filtering for license servers in Grafana dashboard,https://github.com/DSD-DBS/capella-collab-manager/pull/1880,2024-10-07T15:50:51Z,2024-10-07T15:55:25Z,3,1,MERGED
+capella-collab-manager,test: Make loading of session file browser stories deterministic,https://github.com/DSD-DBS/capella-collab-manager/pull/1879,2024-10-07T12:57:40Z,2024-10-07T15:01:09Z,4,1,MERGED
+capella-collab-manager,docs: Update links from angular.io to angular.dev,https://github.com/DSD-DBS/capella-collab-manager/pull/1878,2024-10-07T09:50:10Z,2024-10-07T15:01:21Z,4,1,MERGED
+capella-collab-manager,fix: Git component form fields aren't activated properly,https://github.com/DSD-DBS/capella-collab-manager/pull/1877,2024-10-04T13:39:08Z,2024-10-04T13:43:17Z,4,1,MERGED
+capella-collab-manager,build: Create sessions namespace in cluster creation target,https://github.com/DSD-DBS/capella-collab-manager/pull/1875,2024-10-04T08:06:27Z,2024-10-04T08:46:49Z,3,1,MERGED
+capella-collab-manager,"feat: Add ""Session container not found"" session status",https://github.com/DSD-DBS/capella-collab-manager/pull/1874,2024-10-04T07:55:59Z,2024-10-04T08:00:18Z,4,1,MERGED
+capella-collab-manager,feat!: Rewrite major parts of the file browser,https://github.com/DSD-DBS/capella-collab-manager/pull/1873,2024-10-02T21:09:18Z,2024-10-04T12:44:28Z,10,1,MERGED
+capella-collab-manager,feat: Display total number of users and project users,https://github.com/DSD-DBS/capella-collab-manager/pull/1871,2024-10-02T13:54:54Z,2024-10-02T14:00:20Z,4,1,MERGED
+capella-collab-manager,feat: Add better edge case handling in session overview,https://github.com/DSD-DBS/capella-collab-manager/pull/1870,2024-10-02T12:39:54Z,2024-10-02T13:58:16Z,5,1,MERGED
+capella-collab-manager,feat: Redirect to open page after login again,https://github.com/DSD-DBS/capella-collab-manager/pull/1869,2024-10-02T09:16:19Z,2024-10-02T12:39:44Z,4,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1868,2024-10-01T16:07:04Z,2024-10-01T16:12:27Z,4,1,MERGED
+capella-collab-manager,refactor: Tune log levels,https://github.com/DSD-DBS/capella-collab-manager/pull/1867,2024-10-01T15:10:47Z,2024-10-01T16:06:54Z,3,1,MERGED
+capella-collab-manager,feat!: Separate t4c license server and instance,https://github.com/DSD-DBS/capella-collab-manager/pull/1866,2024-10-01T14:58:59Z,2024-10-07T15:41:26Z,24,2,MERGED
+capella-collab-manager,refactor: Apply some SonarCloud recommendations,https://github.com/DSD-DBS/capella-collab-manager/pull/1865,2024-10-01T14:43:59Z,2024-10-01T14:56:29Z,4,1,MERGED
+capella-collab-manager,build: Add `ephemeral-storage` requests and limits to all containers,https://github.com/DSD-DBS/capella-collab-manager/pull/1864,2024-10-01T14:07:04Z,2024-10-01T14:18:35Z,3,1,MERGED
+capella-collab-manager,feat: Add support for nodeSelector,https://github.com/DSD-DBS/capella-collab-manager/pull/1863,2024-10-01T13:51:09Z,2024-10-01T14:18:21Z,3,1,MERGED
+capella-collab-manager,docs: Change order of TeamForCapella model migration steps,https://github.com/DSD-DBS/capella-collab-manager/pull/1861,2024-10-01T11:43:10Z,2024-10-01T11:47:55Z,3,1,MERGED
+capella-collab-manager,test: Increase delay of InvalidURL Story,https://github.com/DSD-DBS/capella-collab-manager/pull/1860,2024-10-01T08:17:50Z,2024-10-01T10:07:07Z,4,1,MERGED
+capella-collab-manager,fix: Close all dialogs on logout,https://github.com/DSD-DBS/capella-collab-manager/pull/1859,2024-10-01T08:03:47Z,2024-10-01T08:18:29Z,4,1,MERGED
+capella-collab-manager,feat(monitoring): Add Grafana dashboard for feedback,https://github.com/DSD-DBS/capella-collab-manager/pull/1858,2024-09-30T19:44:33Z,2024-10-01T10:24:27Z,5,1,MERGED
+capella-collab-manager,"docs: Remove reference to ""API documentation"" from navbar",https://github.com/DSD-DBS/capella-collab-manager/pull/1852,2024-09-30T16:17:35Z,2024-09-30T16:22:24Z,3,1,MERGED
+capella-collab-manager,feat: Let session proxy handle timeouts,https://github.com/DSD-DBS/capella-collab-manager/pull/1851,2024-09-30T15:47:28Z,2024-09-30T16:13:26Z,5,1,MERGED
+capella-collab-manager,feat: Make nginx error pages more user-friendly,https://github.com/DSD-DBS/capella-collab-manager/pull/1850,2024-09-27T15:22:23Z,2024-09-30T15:39:37Z,10,1,MERGED
+capella-collab-manager,docs: Remove old references to 'Bearer' authentication,https://github.com/DSD-DBS/capella-collab-manager/pull/1849,2024-09-27T08:54:06Z,2024-09-27T15:22:40Z,3,1,MERGED
+capella-collab-manager,"feat(grafana): Show all active sessions by default, disable filters",https://github.com/DSD-DBS/capella-collab-manager/pull/1848,2024-09-26T19:05:57Z,2024-09-26T19:15:08Z,3,1,MERGED
+capella-collab-manager,"feat(grafana): Set fixed color for ""Total licenses"" in T4C dashboard",https://github.com/DSD-DBS/capella-collab-manager/pull/1847,2024-09-26T18:41:03Z,2024-09-26T18:45:18Z,3,1,MERGED
+capella-collab-manager,build: Fix a bug that Storybook couldn't recognize npm,https://github.com/DSD-DBS/capella-collab-manager/pull/1846,2024-09-26T15:22:54Z,2024-09-26T15:26:44Z,4,1,MERGED
+capella-collab-manager,ci: Update `pre-commit` versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1845,2024-09-26T10:31:16Z,2024-09-26T10:37:55Z,3,1,MERGED
+capella-collab-manager,ci: Add `actionlint` pre-commit hook,https://github.com/DSD-DBS/capella-collab-manager/pull/1844,2024-09-26T08:12:09Z,2024-09-26T10:36:42Z,5,1,MERGED
+capella-collab-manager,fix: Add CORS Headers to HTTP error 500 responses,https://github.com/DSD-DBS/capella-collab-manager/pull/1843,2024-09-26T07:46:11Z,2024-09-26T07:50:00Z,3,1,MERGED
+capella-collab-manager,test: Add delay to let mat-error animation complete,https://github.com/DSD-DBS/capella-collab-manager/pull/1842,2024-09-25T08:54:03Z,2024-09-25T11:16:38Z,5,2,MERGED
+capella-collab-manager,fix(frontend): Make project deletion working again,https://github.com/DSD-DBS/capella-collab-manager/pull/1841,2024-09-25T08:33:56Z,2024-09-25T08:37:53Z,4,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1839,2024-09-24T16:10:29Z,2024-09-24T16:29:23Z,4,1,MERGED
+capella-collab-manager,refactor: Apply new code style and write Stories for Git components,https://github.com/DSD-DBS/capella-collab-manager/pull/1838,2024-09-24T15:52:20Z,2024-09-24T17:06:59Z,4,1,MERGED
+capella-collab-manager,docs: Add index page for Storybook,https://github.com/DSD-DBS/capella-collab-manager/pull/1837,2024-09-24T09:11:04Z,2024-09-24T09:17:44Z,4,1,MERGED
+capella-collab-manager,ci: Disable Chromatic UI review,https://github.com/DSD-DBS/capella-collab-manager/pull/1836,2024-09-24T08:57:29Z,2024-09-24T09:08:42Z,4,1,MERGED
+capella-collab-manager,feat: Trigger feedback dialog after login,https://github.com/DSD-DBS/capella-collab-manager/pull/1829,2024-09-23T12:50:31Z,2024-09-23T13:06:51Z,5,1,MERGED
+capella-collab-manager,"fix: Disable Feedback Prompt when logged out, Change order of buttons",https://github.com/DSD-DBS/capella-collab-manager/pull/1828,2024-09-23T12:18:38Z,2024-09-23T12:52:13Z,4,1,MERGED
+capella-collab-manager,fix: Display long usernames correctly in user overview,https://github.com/DSD-DBS/capella-collab-manager/pull/1820,2024-09-21T16:14:14Z,2024-09-23T09:10:59Z,7,1,MERGED
+capella-collab-manager,docs: Add comparision between local Capella and Collaboration Manager,https://github.com/DSD-DBS/capella-collab-manager/pull/1819,2024-09-21T11:13:32Z,2024-09-23T13:07:03Z,10,1,MERGED
+capella-collab-manager,build: Fail `helm upgrade` if secrets are not set in `values.yaml`,https://github.com/DSD-DBS/capella-collab-manager/pull/1818,2024-09-20T15:58:47Z,2024-09-23T07:23:50Z,6,1,MERGED
+capella-collab-manager,"feat: Hide ""Sessions"" part from feedback email if no sessions",https://github.com/DSD-DBS/capella-collab-manager/pull/1817,2024-09-20T12:59:16Z,2024-09-21T11:28:57Z,3,1,MERGED
+capella-collab-manager,fix: Incorrect mapping of SMTP username,https://github.com/DSD-DBS/capella-collab-manager/pull/1816,2024-09-20T11:41:00Z,2024-09-20T11:45:02Z,3,1,MERGED
+capella-collab-manager,test: Add authentication provider to Auth component stories,https://github.com/DSD-DBS/capella-collab-manager/pull/1813,2024-09-18T08:39:49Z,2024-09-18T08:55:56Z,4,1,MERGED
+capella-collab-manager,build: Update frontend and pre-commit versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1812,2024-09-17T15:57:08Z,2024-09-17T16:19:09Z,6,1,MERGED
+capella-collab-manager,ci: Only consider staged files for license check,https://github.com/DSD-DBS/capella-collab-manager/pull/1811,2024-09-17T15:39:41Z,2024-09-17T15:46:10Z,3,1,MERGED
+capella-collab-manager,docs: Describe how to use Grafana to query logs,https://github.com/DSD-DBS/capella-collab-manager/pull/1809,2024-09-16T18:02:56Z,2024-09-18T08:58:34Z,9,1,MERGED
+capella-collab-manager,chore: More migration to new Angular control flow,https://github.com/DSD-DBS/capella-collab-manager/pull/1804,2024-09-16T15:24:15Z,2024-10-09T13:58:40Z,24,2,MERGED
+capella-collab-manager,ci: Use `reg-actions` for visual regression testing,https://github.com/DSD-DBS/capella-collab-manager/pull/1803,2024-09-14T08:46:09Z,2024-09-17T15:30:22Z,16,1,MERGED
+capella-collab-manager,fix: Remove small pixel differences in diagram cache dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1802,2024-09-13T12:47:59Z,2024-09-17T15:56:56Z,11,1,MERGED
+capella-collab-manager,"fix: Disable ""Connect to session"" button when missing session info",https://github.com/DSD-DBS/capella-collab-manager/pull/1799,2024-09-12T12:24:25Z,2024-09-12T14:05:57Z,3,1,MERGED
+capella-collab-manager,chore: Update font stack,https://github.com/DSD-DBS/capella-collab-manager/pull/1798,2024-09-12T11:36:54Z,2024-09-12T15:20:14Z,3,1,MERGED
+capella-collab-manager,fix: Hide welcome banner on small screens,https://github.com/DSD-DBS/capella-collab-manager/pull/1797,2024-09-12T10:03:51Z,2024-09-12T15:08:42Z,3,1,MERGED
+capella-collab-manager,feat: Animate load-in of notices,https://github.com/DSD-DBS/capella-collab-manager/pull/1796,2024-09-12T09:33:53Z,2024-09-12T15:21:26Z,3,1,MERGED
+capella-collab-manager,feat: Redesign the pipeline overview,https://github.com/DSD-DBS/capella-collab-manager/pull/1793,2024-09-12T08:48:14Z,2024-09-13T08:23:56Z,8,1,MERGED
+capella-collab-manager,feat: Verify compatibility of TeamForCapella model links at all times,https://github.com/DSD-DBS/capella-collab-manager/pull/1791,2024-09-11T18:33:27Z,2024-09-26T19:27:28Z,9,1,MERGED
+capella-collab-manager,fix: Remove `WWW-Authenticate` header from responses,https://github.com/DSD-DBS/capella-collab-manager/pull/1790,2024-09-11T15:06:00Z,2024-09-11T15:43:21Z,2,1,MERGED
+capella-collab-manager,build(dev): Run frontend on `localhost` instead of `127.0.0.1`,https://github.com/DSD-DBS/capella-collab-manager/pull/1787,2024-09-11T09:19:52Z,2024-09-11T09:54:34Z,3,1,MERGED
+capella-collab-manager,build: Bump fastapi and fastapi-pagination,https://github.com/DSD-DBS/capella-collab-manager/pull/1782,2024-09-11T08:16:49Z,2024-09-11T08:36:21Z,2,1,MERGED
+capella-collab-manager,build: Expose development environment on localhost only,https://github.com/DSD-DBS/capella-collab-manager/pull/1781,2024-09-11T08:14:09Z,2024-09-11T08:36:11Z,3,1,MERGED
+capella-collab-manager,feat: Redesign T4C Instance administrator view,https://github.com/DSD-DBS/capella-collab-manager/pull/1779,2024-09-10T14:48:30Z,2024-09-10T14:59:26Z,3,1,MERGED
+capella-collab-manager,feat: Delete TeamForCapella server instances,https://github.com/DSD-DBS/capella-collab-manager/pull/1778,2024-09-10T14:48:01Z,2024-09-11T13:51:54Z,3,1,MERGED
+capella-collab-manager,feat: Allow renaming of T4C instances in the frontend,https://github.com/DSD-DBS/capella-collab-manager/pull/1777,2024-09-10T14:01:40Z,2024-09-10T14:14:31Z,3,1,MERGED
+capella-collab-manager,fix: Broken loading animation of model sources,https://github.com/DSD-DBS/capella-collab-manager/pull/1776,2024-09-10T13:26:28Z,2024-09-10T14:47:53Z,3,1,MERGED
+capella-collab-manager,ci: Skip Storybook build on draft PRs,https://github.com/DSD-DBS/capella-collab-manager/pull/1775,2024-09-10T09:58:28Z,2024-09-10T11:48:05Z,3,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1773,2024-09-10T09:16:06Z,2024-09-10T09:20:25Z,2,1,MERGED
+capella-collab-manager,fix: Use T4C repository in multiple projects / models,https://github.com/DSD-DBS/capella-collab-manager/pull/1772,2024-09-10T09:00:19Z,2024-09-10T09:05:07Z,2,1,MERGED
+capella-collab-manager,fix: Destroy session history subscription,https://github.com/DSD-DBS/capella-collab-manager/pull/1764,2024-09-09T14:37:29Z,2024-09-10T09:19:32Z,3,1,MERGED
+capella-collab-manager,docs: Fix wrong link to connected users docs,https://github.com/DSD-DBS/capella-collab-manager/pull/1763,2024-09-09T06:35:59Z,2024-09-09T06:39:49Z,2,1,MERGED
+capella-collab-manager,feat: Make frontend available as PWA,https://github.com/DSD-DBS/capella-collab-manager/pull/1761,2024-09-06T15:26:42Z,2024-10-10T14:12:34Z,4,1,CLOSED
+capella-collab-manager,ci: Activate Chromatic TurboSnap,https://github.com/DSD-DBS/capella-collab-manager/pull/1760,2024-09-06T10:53:23Z,2024-09-06T12:04:42Z,3,1,MERGED
+capella-collab-manager,build: Update OpenAPI Generator,https://github.com/DSD-DBS/capella-collab-manager/pull/1759,2024-09-06T09:31:53Z,2024-09-06T11:53:56Z,4,1,MERGED
+capella-collab-manager,ci: Temporarily set fastapi to `<0.112.4` due to incompatility,https://github.com/DSD-DBS/capella-collab-manager/pull/1758,2024-09-06T08:49:37Z,2024-09-06T08:53:41Z,3,1,MERGED
+capella-collab-manager,fix: Redirect to login page when authentication validation fails,https://github.com/DSD-DBS/capella-collab-manager/pull/1757,2024-09-06T08:36:40Z,2024-09-06T12:10:43Z,3,1,MERGED
+capella-collab-manager,feat: Name project roles consistently,https://github.com/DSD-DBS/capella-collab-manager/pull/1755,2024-09-05T13:29:23Z,2024-09-10T09:28:19Z,5,1,MERGED
+capella-collab-manager,chore: Migrate more code to @if,https://github.com/DSD-DBS/capella-collab-manager/pull/1754,2024-09-05T13:00:16Z,2024-09-06T12:24:54Z,6,1,MERGED
+capella-collab-manager,feat: Display usage of T4C repositories in projects,https://github.com/DSD-DBS/capella-collab-manager/pull/1752,2024-09-04T16:13:29Z,2024-10-10T13:22:12Z,14,2,MERGED
+capella-collab-manager,feat: Add a feedback form,https://github.com/DSD-DBS/capella-collab-manager/pull/1751,2024-09-04T15:04:30Z,2024-09-20T09:09:11Z,26,2,MERGED
+capella-collab-manager,docs: Add troubleshooting for slow Capella and unresponsive Xpra,https://github.com/DSD-DBS/capella-collab-manager/pull/1750,2024-09-04T13:38:46Z,2024-09-06T12:39:42Z,9,1,MERGED
+capella-collab-manager,ci: Replace existing commitlint PR comments,https://github.com/DSD-DBS/capella-collab-manager/pull/1747,2024-09-04T09:15:31Z,2024-09-04T09:19:24Z,2,1,MERGED
+capella-collab-manager,ci: Add Storybook visual testing results to PR comment,https://github.com/DSD-DBS/capella-collab-manager/pull/1746,2024-09-04T08:53:54Z,2024-09-04T10:12:23Z,2,1,MERGED
+capella-collab-manager,fix: Update proxy buffering options on Ingress,https://github.com/DSD-DBS/capella-collab-manager/pull/1745,2024-09-04T08:17:06Z,2024-09-04T09:18:22Z,2,1,MERGED
+capella-collab-manager,feat: Add fine-grained global permissions/roles,https://github.com/DSD-DBS/capella-collab-manager/pull/1740,2024-09-03T06:34:02Z,2025-01-27T08:15:25Z,2,1,CLOSED
+capella-collab-manager,ci: Mark `package-lock.json` as generated,https://github.com/DSD-DBS/capella-collab-manager/pull/1734,2024-09-02T15:44:21Z,2024-09-02T15:48:19Z,2,1,MERGED
+capella-collab-manager,fix: Update styling and deprecated `highlight.js`-method,https://github.com/DSD-DBS/capella-collab-manager/pull/1733,2024-09-02T14:46:16Z,2024-09-02T14:50:24Z,3,1,MERGED
+capella-collab-manager,ci: Add support for ESLint 9,https://github.com/DSD-DBS/capella-collab-manager/pull/1725,2024-08-29T15:23:02Z,2024-09-03T11:48:17Z,3,5,MERGED
+capella-collab-manager,feat: Add icons to session indicator for a11y,https://github.com/DSD-DBS/capella-collab-manager/pull/1712,2024-08-16T10:31:41Z,2024-09-04T10:20:52Z,3,1,MERGED
+capella-collab-manager,docs: Improve TeamForCapella model migration docs,https://github.com/DSD-DBS/capella-collab-manager/pull/1711,2024-08-16T09:42:11Z,2024-09-04T13:42:22Z,13,1,MERGED
+capella-collab-manager,feat: Issue session token for usage with API,https://github.com/DSD-DBS/capella-collab-manager/pull/1710,2024-08-16T07:20:01Z,2025-02-04T17:21:31Z,14,1,MERGED
+capella-collab-manager,feat: Allow communication between sessions of same user,https://github.com/DSD-DBS/capella-collab-manager/pull/1708,2024-08-15T08:15:29Z,2024-08-15T11:25:47Z,2,1,MERGED
+capella-collab-manager,"fix: Hide ""Unauthenticated"" error in the frontend",https://github.com/DSD-DBS/capella-collab-manager/pull/1707,2024-08-14T13:05:55Z,2024-08-14T13:09:35Z,3,1,MERGED
+capella-collab-manager,docs: Add ArtifactHub badge to README,https://github.com/DSD-DBS/capella-collab-manager/pull/1706,2024-08-13T12:46:05Z,2024-08-14T12:59:47Z,1,1,MERGED
+capella-collab-manager,refactor: Calculate min-height centrally in the app component,https://github.com/DSD-DBS/capella-collab-manager/pull/1705,2024-08-13T12:27:52Z,2024-08-13T12:31:59Z,3,1,MERGED
+capella-collab-manager,fix: Unify buttons in authentication components,https://github.com/DSD-DBS/capella-collab-manager/pull/1704,2024-08-13T12:27:34Z,2024-08-13T12:31:32Z,2,1,MERGED
+capella-collab-manager,feat: Align projects with announcements,https://github.com/DSD-DBS/capella-collab-manager/pull/1703,2024-08-13T11:57:53Z,2024-08-13T12:03:43Z,3,1,MERGED
+capella-collab-manager,feat: Redesign login component,https://github.com/DSD-DBS/capella-collab-manager/pull/1702,2024-08-13T09:12:49Z,2024-08-13T09:26:53Z,3,1,MERGED
+capella-collab-manager,refactor(docs): Use indentation of 4 instead of 2,https://github.com/DSD-DBS/capella-collab-manager/pull/1697,2024-08-12T14:02:36Z,2024-08-12T14:08:00Z,2,1,MERGED
+capella-collab-manager,feat: Make project view searchable and sorted,https://github.com/DSD-DBS/capella-collab-manager/pull/1695,2024-08-06T14:40:19Z,2024-08-12T15:00:24Z,3,1,MERGED
+capella-collab-manager,fix(docs): Fix markdown list issues,https://github.com/DSD-DBS/capella-collab-manager/pull/1694,2024-08-06T12:23:15Z,2024-08-12T14:05:14Z,2,1,CLOSED
+capella-collab-manager,feat: Improve Git handler and introduce caching,https://github.com/DSD-DBS/capella-collab-manager/pull/1689,2024-08-05T15:37:01Z,2024-09-20T21:32:18Z,24,5,MERGED
+capella-collab-manager,feat: Cancel previous sessions requests,https://github.com/DSD-DBS/capella-collab-manager/pull/1688,2024-08-05T10:17:21Z,2024-08-12T16:19:45Z,3,1,MERGED
+capella-collab-manager,refactor: Wait for database container to start for database init test,https://github.com/DSD-DBS/capella-collab-manager/pull/1687,2024-08-05T09:28:49Z,2024-08-12T15:07:10Z,2,1,MERGED
+capella-collab-manager,refactor: Remove unused `audience` configuration field,https://github.com/DSD-DBS/capella-collab-manager/pull/1686,2024-08-05T09:09:37Z,2024-08-12T15:32:55Z,2,1,MERGED
+capella-collab-manager,ci: Push Helm charts to GH Pages Helm registry,https://github.com/DSD-DBS/capella-collab-manager/pull/1684,2024-08-02T15:21:42Z,2024-08-12T07:16:15Z,2,1,MERGED
+capella-collab-manager,feat: Auto-select recommended version for read-only sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/1683,2024-08-02T13:40:30Z,2024-08-02T15:29:29Z,4,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1682,2024-08-02T10:57:22Z,2024-08-02T11:47:13Z,3,1,MERGED
+capella-collab-manager,feat: Attach helm chart to Github releases,https://github.com/DSD-DBS/capella-collab-manager/pull/1681,2024-08-01T15:29:33Z,2024-08-02T10:27:02Z,2,1,MERGED
+capella-collab-manager,feat(grafana): Use gradient for feedback time series,https://github.com/DSD-DBS/capella-collab-manager/pull/2100,2024-12-18T15:25:40Z,2024-12-18T16:49:49Z,3,1,MERGED
+capella-collab-manager,chore: Use pnpm instead of npm,https://github.com/DSD-DBS/capella-collab-manager/pull/2098,2024-12-18T12:33:55Z,2025-02-07T14:53:06Z,12,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/2097,2024-12-17T15:00:19Z,2024-12-17T15:43:48Z,5,1,MERGED
+capella-collab-manager,build!: Update to python 3.12,https://github.com/DSD-DBS/capella-collab-manager/pull/2091,2024-12-16T15:16:23Z,2025-02-06T13:45:01Z,10,1,MERGED
+capella-collab-manager,feat: Add communication with training mode to auto-fullscreen windows,https://github.com/DSD-DBS/capella-collab-manager/pull/2090,2024-12-16T15:06:25Z,2025-02-06T14:17:09Z,6,1,MERGED
+capella-collab-manager,feat: Filter users by beta status,https://github.com/DSD-DBS/capella-collab-manager/pull/2088,2024-12-16T10:11:46Z,2025-02-05T14:31:04Z,6,1,MERGED
+capella-collab-manager,feat: Add fine-grained permission system using scopes,https://github.com/DSD-DBS/capella-collab-manager/pull/2087,2024-12-12T16:16:49Z,2025-02-04T17:09:27Z,41,1,MERGED
+capella-collab-manager,refactor: Remove usage of deprecated `get_username` injectable,https://github.com/DSD-DBS/capella-collab-manager/pull/2086,2024-12-12T13:26:33Z,2024-12-13T12:08:25Z,7,1,MERGED
+capella-collab-manager,feat: Expose additional ports for sessions internally,https://github.com/DSD-DBS/capella-collab-manager/pull/2084,2024-12-11T15:02:47Z,2024-12-17T16:30:04Z,6,1,MERGED
+capella-collab-manager,feat: Add internal endpoints for sessions and expose backend,https://github.com/DSD-DBS/capella-collab-manager/pull/2083,2024-12-11T13:39:26Z,2024-12-13T11:50:26Z,11,1,MERGED
+capella-collab-manager,fix: Add CORS for local Jupyter setup,https://github.com/DSD-DBS/capella-collab-manager/pull/2081,2024-12-11T08:28:10Z,2024-12-17T16:29:35Z,4,1,MERGED
+capella-collab-manager,feat: Add `preparation_state` to feedback email,https://github.com/DSD-DBS/capella-collab-manager/pull/2079,2024-12-10T15:07:08Z,2024-12-11T09:17:05Z,7,1,MERGED
+capella-collab-manager,docs: Fix broken TeamForCapella project page,https://github.com/DSD-DBS/capella-collab-manager/pull/2077,2024-12-10T12:49:28Z,2024-12-10T12:55:24Z,3,1,MERGED
+capella-collab-manager,feat: Add Capella Model Explorer as default tool,https://github.com/DSD-DBS/capella-collab-manager/pull/2076,2024-12-10T10:29:41Z,2024-12-10T10:49:16Z,4,1,MERGED
+capella-collab-manager,docs: Improve language a bit,https://github.com/DSD-DBS/capella-collab-manager/pull/2075,2024-12-10T10:18:25Z,2024-12-10T10:56:46Z,4,1,MERGED
+capella-collab-manager,"ci: Use ruff to replace black, pyupgrade, and isort",https://github.com/DSD-DBS/capella-collab-manager/pull/2069,2024-12-09T16:58:22Z,2024-12-10T13:26:38Z,4,1,MERGED
+capella-collab-manager,refactor: Group configuration-related API routes below `/configurations`,https://github.com/DSD-DBS/capella-collab-manager/pull/2067,2024-12-09T13:48:58Z,2024-12-09T14:16:51Z,5,1,MERGED
+capella-collab-manager,feat(metrics): Count all sessions and session minutes over time range,https://github.com/DSD-DBS/capella-collab-manager/pull/2066,2024-12-04T17:24:42Z,2024-12-05T09:48:33Z,5,1,MERGED
+capella-collab-manager,Storybook lazy loading,https://github.com/DSD-DBS/capella-collab-manager/pull/2063,2024-12-03T13:26:00Z,2024-12-03T13:28:56Z,4,2,CLOSED
+capella-collab-manager,perf: Speed up Storybook start time,https://github.com/DSD-DBS/capella-collab-manager/pull/2062,2024-12-03T12:36:10Z,2024-12-03T13:34:23Z,4,1,MERGED
+capella-collab-manager,refactor: Migrate App Component to TailwindCSS,https://github.com/DSD-DBS/capella-collab-manager/pull/2061,2024-12-03T11:10:15Z,2024-12-03T13:33:14Z,4,1,MERGED
+capella-collab-manager,chore: Improve word wrapping of common projects,https://github.com/DSD-DBS/capella-collab-manager/pull/2059,2024-12-02T17:31:00Z,2024-12-02T17:39:39Z,4,1,MERGED
+capella-collab-manager,"chore(storybook): Use ""In-Flight Entertainment"" as default mockProject",https://github.com/DSD-DBS/capella-collab-manager/pull/2058,2024-12-02T17:16:25Z,2024-12-03T10:29:59Z,8,1,MERGED
+capella-collab-manager,feat: Auto-select sessions in active session overview,https://github.com/DSD-DBS/capella-collab-manager/pull/2057,2024-12-02T16:46:07Z,2024-12-02T17:39:49Z,5,1,MERGED
+capella-collab-manager,feat: Group sessions by projects,https://github.com/DSD-DBS/capella-collab-manager/pull/2055,2024-12-02T15:57:40Z,2024-12-05T09:36:07Z,8,1,MERGED
+capella-collab-manager,feat: Auto-connect to provisioned sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/2054,2024-12-02T14:07:19Z,2024-12-02T14:54:05Z,4,1,MERGED
+capella-collab-manager,build(frontend): Add support for analog.js framework,https://github.com/DSD-DBS/capella-collab-manager/pull/2051,2024-11-30T18:04:31Z,2024-12-09T13:54:03Z,11,1,MERGED
+capella-collab-manager,build(frontend): Bump version of OpenAPI Generator,https://github.com/DSD-DBS/capella-collab-manager/pull/2049,2024-11-29T15:31:50Z,2024-11-29T16:32:26Z,5,1,MERGED
+capella-collab-manager,fix: Handle long filenames in file browser on mobile devices,https://github.com/DSD-DBS/capella-collab-manager/pull/2048,2024-11-29T15:31:48Z,2024-12-02T09:45:52Z,7,1,MERGED
+capella-collab-manager,fix: No longer block uploads of larger files in Ingress nginx,https://github.com/DSD-DBS/capella-collab-manager/pull/2047,2024-11-29T11:44:21Z,2024-11-29T13:22:03Z,3,1,MERGED
+capella-collab-manager,fix: Convert invariant List to Sequence,https://github.com/DSD-DBS/capella-collab-manager/pull/2046,2024-11-29T11:27:05Z,2024-11-29T15:58:03Z,13,1,MERGED
+capella-collab-manager,Update to Angular 19,https://github.com/DSD-DBS/capella-collab-manager/pull/2044,2024-11-29T09:09:26Z,2024-12-02T15:54:35Z,19,1,MERGED
+capella-collab-manager,feat: Change feedback prompt for trainings,https://github.com/DSD-DBS/capella-collab-manager/pull/2042,2024-11-28T12:01:49Z,2024-12-09T14:39:27Z,5,1,MERGED
+capella-collab-manager,feat: Allow users to copy t4c token from session viewer,https://github.com/DSD-DBS/capella-collab-manager/pull/2040,2024-11-26T14:16:36Z,2024-11-29T16:27:40Z,4,1,MERGED
+capella-collab-manager,feat: Unify various API endpoints related to config,https://github.com/DSD-DBS/capella-collab-manager/pull/2034,2024-11-25T14:28:29Z,2024-12-06T12:23:23Z,32,1,MERGED
+capella-collab-manager,chore: Change idle time unavailable message if metrics not found,https://github.com/DSD-DBS/capella-collab-manager/pull/2032,2024-11-21T12:12:01Z,2024-12-02T07:18:22Z,6,1,MERGED
+capella-collab-manager,feat: Don't show seconds on last seen and make creation time relative,https://github.com/DSD-DBS/capella-collab-manager/pull/2031,2024-11-20T14:36:52Z,2024-11-21T12:11:50Z,4,1,MERGED
+capella-collab-manager,feat: Move terminate button to end of session card,https://github.com/DSD-DBS/capella-collab-manager/pull/2030,2024-11-20T11:54:18Z,2024-11-20T13:24:40Z,4,1,MERGED
+capella-collab-manager,test: Update idle status test to return float,https://github.com/DSD-DBS/capella-collab-manager/pull/2029,2024-11-20T11:11:10Z,2024-11-20T11:25:52Z,4,1,MERGED
+capella-collab-manager,fix: Convert Prometheus floating point numbers correctly to int,https://github.com/DSD-DBS/capella-collab-manager/pull/2028,2024-11-20T10:25:26Z,2024-11-20T10:38:58Z,4,1,MERGED
+capella-collab-manager,fix: Enable view encapsulation for notice component,https://github.com/DSD-DBS/capella-collab-manager/pull/2027,2024-11-20T08:02:17Z,2024-11-20T08:09:49Z,4,1,MERGED
+capella-collab-manager,build: Update Angular build container to node 22,https://github.com/DSD-DBS/capella-collab-manager/pull/2026,2024-11-19T11:22:42Z,2024-11-19T11:33:12Z,5,1,MERGED
+capella-collab-manager,ci: Use Node 22 for Storybook diffing,https://github.com/DSD-DBS/capella-collab-manager/pull/2024,2024-11-19T10:56:49Z,2024-11-19T11:01:34Z,3,1,MERGED
+capella-collab-manager,test: Add some more tests to increase coverage,https://github.com/DSD-DBS/capella-collab-manager/pull/2022,2024-11-18T18:02:09Z,2024-11-19T09:58:44Z,5,1,MERGED
+capella-collab-manager,feat: Remove floating window manager,https://github.com/DSD-DBS/capella-collab-manager/pull/2020,2024-11-18T16:50:38Z,2024-11-19T10:01:12Z,6,1,MERGED
+capella-collab-manager,feat: Add dark mode and lightbox for docs,https://github.com/DSD-DBS/capella-collab-manager/pull/2015,2024-11-18T15:28:42Z,2024-11-19T09:57:03Z,6,1,MERGED
+capella-collab-manager,feat: Add IFE model as default model,https://github.com/DSD-DBS/capella-collab-manager/pull/2014,2024-11-18T15:12:58Z,2024-11-19T10:33:02Z,6,1,MERGED
+capella-collab-manager,chore: Update `aiohttp` to latest version,https://github.com/DSD-DBS/capella-collab-manager/pull/2009,2024-11-17T13:21:00Z,2024-11-18T10:10:42Z,4,1,MERGED
+capella-collab-manager,fix: Show session state in session viewer again,https://github.com/DSD-DBS/capella-collab-manager/pull/2008,2024-11-17T13:08:46Z,2024-11-19T10:58:56Z,8,1,MERGED
+capella-collab-manager,feat: Redesign the active sessions view and rework idletime,https://github.com/DSD-DBS/capella-collab-manager/pull/2006,2024-11-15T15:35:34Z,2024-11-19T10:43:29Z,24,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/2004,2024-11-14T15:30:56Z,2024-11-19T07:45:22Z,8,1,MERGED
+capella-collab-manager,chore: Always use the latest alembic version,https://github.com/DSD-DBS/capella-collab-manager/pull/2003,2024-11-14T14:49:15Z,2024-11-14T14:57:35Z,4,1,MERGED
+capella-collab-manager,chore: Limit version of `aiohttp`,https://github.com/DSD-DBS/capella-collab-manager/pull/2002,2024-11-14T14:14:54Z,2024-11-14T14:20:21Z,3,1,MERGED
+capella-collab-manager,fix: Connect to shared sessions via internal session viewer,https://github.com/DSD-DBS/capella-collab-manager/pull/2001,2024-11-14T13:27:37Z,2024-11-14T14:38:53Z,5,1,MERGED
+capella-collab-manager,chore: Add TeamForCapella cluster instance by default,https://github.com/DSD-DBS/capella-collab-manager/pull/1999,2024-11-14T11:21:45Z,2024-11-14T14:50:31Z,5,1,MERGED
+capella-collab-manager,feat: Allow customizing feedback hint and update dialog,https://github.com/DSD-DBS/capella-collab-manager/pull/1998,2024-11-14T10:03:26Z,2024-11-18T10:52:10Z,7,1,MERGED
+capella-collab-manager,feat: Add custom promtail / logging configuration for tools,https://github.com/DSD-DBS/capella-collab-manager/pull/1997,2024-11-13T20:54:26Z,2024-11-14T14:43:28Z,6,1,MERGED
+capella-collab-manager,feat: Auto-focus first session in the session viewer,https://github.com/DSD-DBS/capella-collab-manager/pull/1996,2024-11-13T20:25:15Z,2024-11-14T14:37:08Z,4,1,MERGED
+capella-collab-manager,feat: Improve mobile view of project overview,https://github.com/DSD-DBS/capella-collab-manager/pull/1993,2024-11-13T15:14:40Z,2024-11-13T15:25:22Z,5,1,MERGED
+capella-collab-manager,feat: Use full-width for active sessions on mobile devices,https://github.com/DSD-DBS/capella-collab-manager/pull/1992,2024-11-13T13:21:34Z,2024-11-13T13:26:16Z,4,1,MERGED
+capella-collab-manager,refactor: Consolidate session hook request arguments into one,https://github.com/DSD-DBS/capella-collab-manager/pull/1991,2024-11-13T12:30:08Z,2024-11-13T12:34:48Z,4,1,MERGED
+capella-collab-manager,fix: Update wrong model badge error message,https://github.com/DSD-DBS/capella-collab-manager/pull/1990,2024-11-13T11:39:09Z,2024-11-13T11:45:39Z,4,1,MERGED
+capella-collab-manager,"chore: Remove unused ""token"" cookie from default tool configuration",https://github.com/DSD-DBS/capella-collab-manager/pull/1989,2024-11-13T11:34:00Z,2024-11-13T11:38:47Z,4,1,MERGED
+capella-collab-manager,ci: Auto-format inline CSS classes with prettier,https://github.com/DSD-DBS/capella-collab-manager/pull/1988,2024-11-13T11:26:19Z,2024-11-13T11:35:18Z,5,1,MERGED
+capella-collab-manager,test: Improve Storybook mock names and services,https://github.com/DSD-DBS/capella-collab-manager/pull/1987,2024-11-13T10:49:02Z,2024-11-13T11:14:09Z,5,1,MERGED
+capella-collab-manager,ci: Add `require_serial` to pylint pre-commit,https://github.com/DSD-DBS/capella-collab-manager/pull/1986,2024-11-13T09:17:31Z,2024-11-13T09:22:21Z,4,1,MERGED
+capella-collab-manager,fix: Improve regex for API changelog generation,https://github.com/DSD-DBS/capella-collab-manager/pull/1985,2024-11-13T09:06:49Z,2024-11-13T09:11:16Z,4,1,MERGED
+capella-collab-manager,fix: Optimize feedback dialog for small mobile devices,https://github.com/DSD-DBS/capella-collab-manager/pull/1984,2024-11-13T08:51:36Z,2024-11-13T09:01:10Z,4,1,MERGED
+capella-collab-manager,fix: Replace 'default' with 'regular' image in alebmic migration,https://github.com/DSD-DBS/capella-collab-manager/pull/1983,2024-11-12T21:22:42Z,2024-11-12T21:50:55Z,5,1,MERGED
+capella-collab-manager,fix: Move promtail container to external Pod,https://github.com/DSD-DBS/capella-collab-manager/pull/1982,2024-11-12T16:45:10Z,2024-11-12T22:19:27Z,8,1,MERGED
+capella-collab-manager,chore: Remove Storybook MDX documentation,https://github.com/DSD-DBS/capella-collab-manager/pull/1979,2024-11-12T13:45:30Z,2024-11-12T13:49:42Z,4,1,MERGED
+capella-collab-manager,feat: Handle unready sessions in session viewer,https://github.com/DSD-DBS/capella-collab-manager/pull/1978,2024-11-12T12:15:42Z,2024-11-12T17:01:36Z,7,1,MERGED
+capella-collab-manager,fix: Handle case where container_statuses is `None`,https://github.com/DSD-DBS/capella-collab-manager/pull/1973,2024-11-11T10:23:47Z,2024-11-11T10:36:51Z,4,1,MERGED
+capella-collab-manager,chore: Add small margin to main page on small screens,https://github.com/DSD-DBS/capella-collab-manager/pull/1972,2024-11-11T06:46:22Z,2024-11-11T06:53:09Z,4,1,MERGED
+capella-collab-manager,feat!: Improve session state reliability,https://github.com/DSD-DBS/capella-collab-manager/pull/1971,2024-11-08T14:18:36Z,2024-11-09T10:47:23Z,12,1,MERGED
+capella-collab-manager,chore: Improve error message for failed pipeline operation,https://github.com/DSD-DBS/capella-collab-manager/pull/1970,2024-11-08T10:19:54Z,2024-11-08T16:40:58Z,4,1,MERGED
+capella-collab-manager,refactor(backend): Replace deprecated `on_startup` and `on_shutdown`,https://github.com/DSD-DBS/capella-collab-manager/pull/1969,2024-11-08T10:16:30Z,2024-11-08T16:40:10Z,4,1,MERGED
+capella-collab-manager,feat: Allow setting project type during creation,https://github.com/DSD-DBS/capella-collab-manager/pull/1967,2024-11-07T09:45:15Z,2024-11-07T13:11:53Z,12,1,MERGED
+capella-collab-manager,perf: Add profiling option for backend routes,https://github.com/DSD-DBS/capella-collab-manager/pull/1966,2024-11-07T09:35:38Z,2024-11-07T11:17:04Z,5,1,MERGED
+capella-collab-manager,docs: Remove references to nightly run at 3am UTC,https://github.com/DSD-DBS/capella-collab-manager/pull/1965,2024-11-06T13:52:31Z,2024-11-06T16:29:39Z,4,1,MERGED
+capella-collab-manager,feat: Allow users to sign up as beta-testers,https://github.com/DSD-DBS/capella-collab-manager/pull/1959,2024-11-05T09:03:20Z,2024-11-12T12:43:41Z,20,1,MERGED
+capella-collab-manager,fix: Allow longer feedback and warn users if their feedback is too long,https://github.com/DSD-DBS/capella-collab-manager/pull/1949,2024-11-01T15:05:26Z,2024-11-04T07:57:18Z,7,1,MERGED
+capella-collab-manager,feat: Customize schedule and tz of nightly pipelines via global config,https://github.com/DSD-DBS/capella-collab-manager/pull/1948,2024-11-01T11:11:30Z,2024-11-01T13:43:54Z,7,1,MERGED
+capella-collab-manager,build: Bump frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/1947,2024-11-01T08:21:07Z,2024-11-01T11:37:32Z,6,1,MERGED
+capella-collab-manager,perf: Replace custom timezone validation with official one,https://github.com/DSD-DBS/capella-collab-manager/pull/2234,2025-02-24T15:35:04Z,2025-02-25T15:44:42Z,13,1,MERGED
+capella-collab-manager,fix: Clean up overview table to prevent overflows,https://github.com/DSD-DBS/capella-collab-manager/pull/2233,2025-02-24T14:23:01Z,2025-02-25T13:54:31Z,9,1,MERGED
+capella-collab-manager,fix: Support digest in tool version images,https://github.com/DSD-DBS/capella-collab-manager/pull/2231,2025-02-21T16:07:40Z,2025-02-24T10:47:21Z,6,1,MERGED
+capella-collab-manager,feat!: Replace Jupyter file-shares with generic project level volumes,https://github.com/DSD-DBS/capella-collab-manager/pull/2230,2025-02-21T15:54:21Z,2025-03-10T15:40:30Z,21,1,MERGED
+capella-collab-manager,fix: Disable fullscreen when leaving session viewer,https://github.com/DSD-DBS/capella-collab-manager/pull/2229,2025-02-21T13:06:58Z,2025-02-24T10:46:44Z,5,1,MERGED
+capella-collab-manager,feat: Use the relative time component in more places,https://github.com/DSD-DBS/capella-collab-manager/pull/2228,2025-02-21T10:00:43Z,2025-02-21T10:47:56Z,7,1,MERGED
+capella-collab-manager,chore: Enable pep8-naming ruff rule (N),https://github.com/DSD-DBS/capella-collab-manager/pull/2227,2025-02-21T09:26:32Z,2025-02-21T10:45:10Z,7,1,MERGED
+capella-collab-manager,feat: Provide diagram cache to sessions,https://github.com/DSD-DBS/capella-collab-manager/pull/2226,2025-02-20T13:36:48Z,2025-02-26T15:50:30Z,20,1,MERGED
+capella-collab-manager,feat!: Collect logs per session individually,https://github.com/DSD-DBS/capella-collab-manager/pull/2225,2025-02-20T09:08:29Z,2025-02-24T10:53:01Z,9,1,MERGED
+capella-collab-manager,feat: Add various action buttons to the session overview table,https://github.com/DSD-DBS/capella-collab-manager/pull/2223,2025-02-18T16:44:02Z,2025-02-20T13:58:20Z,7,1,MERGED
+capella-collab-manager,feat!: Collect logs per session individually,https://github.com/DSD-DBS/capella-collab-manager/pull/2222,2025-02-18T15:34:58Z,2025-02-20T09:09:17Z,11,1,CLOSED
+capella-collab-manager,build: Bump Grafana Loki to latest Helm Chart,https://github.com/DSD-DBS/capella-collab-manager/pull/2219,2025-02-18T14:19:44Z,2025-02-21T08:23:18Z,7,1,MERGED
+capella-collab-manager,feat: Include Grafana time range in feedback emails,https://github.com/DSD-DBS/capella-collab-manager/pull/2218,2025-02-18T11:46:03Z,2025-02-18T14:21:36Z,7,1,MERGED
+capella-collab-manager,build: Only push relevant tags to Docker registry,https://github.com/DSD-DBS/capella-collab-manager/pull/2217,2025-02-18T08:20:48Z,2025-02-18T14:21:49Z,5,1,MERGED
+capella-collab-manager,"fix(monitoring): Look at Xpra type ""cur"" only",https://github.com/DSD-DBS/capella-collab-manager/pull/2216,2025-02-17T15:00:00Z,2025-02-17T16:01:04Z,4,1,MERGED
+capella-collab-manager,build: Bump Grafana to latest version,https://github.com/DSD-DBS/capella-collab-manager/pull/2215,2025-02-17T14:18:02Z,2025-02-18T10:58:45Z,4,1,MERGED
+capella-collab-manager,ci: Run Codecov on pull requests only,https://github.com/DSD-DBS/capella-collab-manager/pull/2214,2025-02-17T10:20:11Z,2025-02-17T11:19:18Z,4,1,MERGED
+capella-collab-manager,chore: Replace pylint with ruff,https://github.com/DSD-DBS/capella-collab-manager/pull/2213,2025-02-17T10:17:45Z,2025-02-17T11:19:05Z,6,23,MERGED
+capella-collab-manager,feat: Optimize resources according to recommendations,https://github.com/DSD-DBS/capella-collab-manager/pull/2212,2025-02-17T08:40:57Z,2025-02-21T10:48:10Z,5,1,MERGED
+capella-collab-manager,fix(monitoring): Tolerate unavailable data sources,https://github.com/DSD-DBS/capella-collab-manager/pull/2211,2025-02-17T06:32:07Z,2025-02-17T11:19:31Z,4,1,MERGED
+capella-collab-manager,fix: Encode query parameters in Grafana & Prometheus auth redirects,https://github.com/DSD-DBS/capella-collab-manager/pull/2209,2025-02-14T13:16:55Z,2025-02-17T09:55:34Z,5,1,MERGED
+capella-collab-manager,chore: Update Delete Repo Dialog to use modern Angular Control Flow,https://github.com/DSD-DBS/capella-collab-manager/pull/2206,2025-02-13T15:19:13Z,2025-02-14T13:37:27Z,5,1,MERGED
+capella-collab-manager,chore: Replace usages of executor_name fixture with user/admin fixture,https://github.com/DSD-DBS/capella-collab-manager/pull/2205,2025-02-13T13:55:58Z,2025-02-14T13:50:17Z,5,1,MERGED
+capella-collab-manager,feat(monitoring): Show session logs in individual session dashboard,https://github.com/DSD-DBS/capella-collab-manager/pull/2204,2025-02-13T10:03:45Z,2025-02-13T10:53:16Z,4,1,MERGED
+capella-collab-manager,feat: Pre-compress frontend with brotli,https://github.com/DSD-DBS/capella-collab-manager/pull/2203,2025-02-13T09:58:31Z,2025-03-06T14:21:19Z,15,1,MERGED
+capella-collab-manager,fix: Handle unauthorized requests to Grafana or Prometheus,https://github.com/DSD-DBS/capella-collab-manager/pull/2202,2025-02-13T09:30:50Z,2025-02-13T11:26:38Z,6,1,MERGED
+capella-collab-manager,feat: Add session_id as label to session logs,https://github.com/DSD-DBS/capella-collab-manager/pull/2201,2025-02-13T07:55:11Z,2025-02-13T08:16:03Z,5,1,MERGED
+capella-collab-manager,ci: Disable caching of pip-dependencies,https://github.com/DSD-DBS/capella-collab-manager/pull/2200,2025-02-12T16:50:23Z,2025-02-12T16:55:49Z,4,1,MERGED
+capella-collab-manager,feat: Add new dashboard to see metrics for a specific session,https://github.com/DSD-DBS/capella-collab-manager/pull/2199,2025-02-12T16:46:43Z,2025-02-13T10:52:49Z,7,1,MERGED
+capella-collab-manager,feat: Add bundle size analysis powered by codecov,https://github.com/DSD-DBS/capella-collab-manager/pull/2196,2025-02-12T15:10:54Z,2025-02-12T17:12:34Z,4,1,MERGED
+capella-collab-manager,fix(session-preparation): Remove backup path instead of origin path,https://github.com/DSD-DBS/capella-collab-manager/pull/2195,2025-02-12T13:28:42Z,2025-02-12T16:41:44Z,3,1,MERGED
+capella-collab-manager,ci: Downgrade reg-actions to v2 (again),https://github.com/DSD-DBS/capella-collab-manager/pull/2194,2025-02-12T09:21:50Z,2025-02-12T10:10:40Z,3,1,MERGED
+capella-collab-manager,fix: Always show at least one skeleton loader,https://github.com/DSD-DBS/capella-collab-manager/pull/2193,2025-02-11T14:44:50Z,2025-02-12T17:09:57Z,7,1,MERGED
+capella-collab-manager,fix: Revoke T4C session tokens for initial repositories,https://github.com/DSD-DBS/capella-collab-manager/pull/2191,2025-02-11T13:42:57Z,2025-02-21T08:23:07Z,7,1,MERGED
+capella-collab-manager,fix: Fix issue with copyright in docs when navigating,https://github.com/DSD-DBS/capella-collab-manager/pull/2190,2025-02-11T11:11:39Z,2025-02-11T13:42:35Z,3,1,MERGED
+capella-collab-manager,feat: Allow enabling performance profiling in production,https://github.com/DSD-DBS/capella-collab-manager/pull/2189,2025-02-11T11:04:00Z,2025-02-12T10:27:40Z,4,1,MERGED
+capella-collab-manager,feat(monitoring): Show Xpra latency in Grafana,https://github.com/DSD-DBS/capella-collab-manager/pull/2187,2025-02-10T15:43:31Z,2025-02-10T17:22:35Z,3,1,MERGED
+capella-collab-manager,fix: Add uniqueness constraint for project users,https://github.com/DSD-DBS/capella-collab-manager/pull/2186,2025-02-10T15:25:22Z,2025-02-11T10:59:21Z,9,1,MERGED
+capella-collab-manager,feat: Add resource recommendations for all deployments,https://github.com/DSD-DBS/capella-collab-manager/pull/2185,2025-02-10T14:31:39Z,2025-02-11T08:12:44Z,8,1,MERGED
+capella-collab-manager,build: Downgrade pnpm,https://github.com/DSD-DBS/capella-collab-manager/pull/2184,2025-02-10T12:40:56Z,2025-02-10T13:23:29Z,7,1,MERGED
+capella-collab-manager,fix: Don't show seconds for estimated session termination,https://github.com/DSD-DBS/capella-collab-manager/pull/2183,2025-02-10T11:35:05Z,2025-02-10T13:34:43Z,4,1,MERGED
+capella-collab-manager,feat!: Rework announcement integration,https://github.com/DSD-DBS/capella-collab-manager/pull/2181,2025-02-07T19:19:46Z,2025-02-14T13:48:29Z,31,1,MERGED
+capella-collab-manager,build: Update frontend and pre-commit versions,https://github.com/DSD-DBS/capella-collab-manager/pull/2177,2025-02-07T15:10:37Z,2025-02-07T15:22:51Z,3,1,MERGED
+capella-collab-manager,ci: Change `pnpm` to `npm` in dependabot configuration,https://github.com/DSD-DBS/capella-collab-manager/pull/2176,2025-02-07T15:02:45Z,2025-02-07T15:09:37Z,3,1,MERGED
+capella-collab-manager,build: Update openapi-generator to `v7.11.0`,https://github.com/DSD-DBS/capella-collab-manager/pull/2175,2025-02-07T15:02:31Z,2025-02-07T15:08:11Z,4,1,MERGED
+capella-collab-manager,fix: Make sure gzip is applied to js files,https://github.com/DSD-DBS/capella-collab-manager/pull/2173,2025-02-07T13:09:02Z,2025-02-07T13:26:46Z,5,1,MERGED
+capella-collab-manager,feat: Use gzip,https://github.com/DSD-DBS/capella-collab-manager/pull/2172,2025-02-07T11:29:26Z,2025-02-07T11:48:34Z,5,1,MERGED
+capella-collab-manager,build: Use `uv` for Python installation in backend Docker image,https://github.com/DSD-DBS/capella-collab-manager/pull/2171,2025-02-07T08:30:55Z,2025-02-07T11:23:48Z,8,1,MERGED
+capella-collab-manager,build: Use uv as package manager,https://github.com/DSD-DBS/capella-collab-manager/pull/2168,2025-02-05T16:54:43Z,2025-02-07T11:27:35Z,11,1,MERGED
+capella-collab-manager,fix: Fix loading of project users on project change,https://github.com/DSD-DBS/capella-collab-manager/pull/2166,2025-02-05T09:45:50Z,2025-02-05T09:51:23Z,4,1,MERGED
+capella-collab-manager,chore: Update copyright year,https://github.com/DSD-DBS/capella-collab-manager/pull/2165,2025-02-04T16:05:17Z,2025-02-04T16:13:41Z,3,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/2163,2025-02-03T17:09:21Z,2025-02-07T14:19:04Z,6,1,MERGED
+capella-collab-manager,build: Use gzip,https://github.com/DSD-DBS/capella-collab-manager/pull/2158,2025-01-31T17:02:09Z,2025-02-07T11:25:51Z,7,2,MERGED
+capella-collab-manager,feat: Underline relative-times to indicate possibility of hovering,https://github.com/DSD-DBS/capella-collab-manager/pull/2155,2025-01-30T10:56:29Z,2025-01-30T11:08:48Z,4,1,MERGED
+capella-collab-manager,ci: Build storybook for diffing,https://github.com/DSD-DBS/capella-collab-manager/pull/2151,2025-01-28T11:03:21Z,2025-01-30T13:59:50Z,4,1,MERGED
+capella-collab-manager,build: Remove useless dependencies,https://github.com/DSD-DBS/capella-collab-manager/pull/2150,2025-01-28T10:44:21Z,2025-02-07T12:40:50Z,6,1,MERGED
+capella-collab-manager,feat: Set Cache-Control header on static assets,https://github.com/DSD-DBS/capella-collab-manager/pull/2144,2025-01-27T13:40:03Z,2025-02-07T11:48:13Z,13,1,MERGED
+capella-collab-manager,"feat: Improve clarity of ""Deep clone"" button for read-only sessions",https://github.com/DSD-DBS/capella-collab-manager/pull/2143,2025-01-27T12:59:35Z,2025-01-27T13:31:04Z,4,1,MERGED
+capella-collab-manager,ci: Downgrade to reg-actions v2,https://github.com/DSD-DBS/capella-collab-manager/pull/2138,2025-01-24T17:00:28Z,2025-01-27T07:38:19Z,2,1,MERGED
+capella-collab-manager,build: Update frontend versions,https://github.com/DSD-DBS/capella-collab-manager/pull/2135,2025-01-22T09:47:47Z,2025-01-30T11:13:29Z,7,1,MERGED
+capella-collab-manager,refactor: Use Zod for Session History,https://github.com/DSD-DBS/capella-collab-manager/pull/2129,2025-01-20T11:31:29Z,2025-02-07T14:00:06Z,4,1,MERGED
+capella-collab-manager,fix: Limit project card title lines to 1,https://github.com/DSD-DBS/capella-collab-manager/pull/2127,2025-01-17T10:34:34Z,2025-02-07T13:22:01Z,8,1,MERGED
+capella-collab-manager,feat: Rework Monaco editor integration,https://github.com/DSD-DBS/capella-collab-manager/pull/2124,2025-01-14T17:01:05Z,2025-02-07T13:50:21Z,9,1,MERGED
+capella-collab-manager,feat: Move from highlight.js to shiki,https://github.com/DSD-DBS/capella-collab-manager/pull/2122,2025-01-13T17:24:56Z,2025-02-06T16:22:58Z,11,1,MERGED
+capella-collab-manager,feat: Redesign Model Card,https://github.com/DSD-DBS/capella-collab-manager/pull/2117,2025-01-13T15:24:03Z,2025-02-07T13:51:27Z,7,1,MERGED
+capella-collab-manager,chore: Rename GitSettings to GitInstances,https://github.com/DSD-DBS/capella-collab-manager/pull/2116,2025-01-13T10:24:52Z,2025-02-06T14:53:35Z,5,1,MERGED
+capella-collab-manager,fix: Make some subviews consistent and use new Angular Syntax,https://github.com/DSD-DBS/capella-collab-manager/pull/2115,2025-01-13T09:23:28Z,2025-02-05T15:48:25Z,4,1,MERGED
+capella-collab-manager,feat: Add a connection pool dashboard,https://github.com/DSD-DBS/capella-collab-manager/pull/2111,2025-01-09T11:02:15Z,2025-02-06T14:14:56Z,4,1,MERGED
+capella-collab-manager,feat: Add a dashboard to show users to grafana,https://github.com/DSD-DBS/capella-collab-manager/pull/2110,2025-01-08T12:57:13Z,2025-02-07T12:51:45Z,6,1,MERGED
+capella-collab-manager,feat: Delete files in file browser,https://github.com/DSD-DBS/capella-collab-manager/pull/2107,2025-01-03T12:14:28Z,2025-02-06T15:36:23Z,18,1,MERGED

@@ -1,0 +1,814 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+octuple,fix: asset swap: updates highlight rectangle making it symmetrical,https://github.com/EightfoldAI/octuple/pull/23,2022-03-31T16:26:41Z,2022-03-31T16:29:07Z,0,1,MERGED
+octuple,Adds octuples pills component,https://github.com/EightfoldAI/octuple/pull/22,2022-03-31T13:06:15Z,2022-04-01T19:17:25Z,1,5,MERGED
+octuple,Adds octuples list component,https://github.com/EightfoldAI/octuple/pull/21,2022-03-31T10:19:38Z,2022-04-04T15:48:28Z,3,2,CLOSED
+octuple,fix: user agent border in tabs: overrides ua style,https://github.com/EightfoldAI/octuple/pull/20,2022-03-29T23:51:08Z,2022-03-30T04:05:56Z,0,1,MERGED
+octuple,fix: button: refines button prop and adds form type support,https://github.com/EightfoldAI/octuple/pull/19,2022-03-29T20:53:16Z,2022-03-30T22:31:46Z,3,3,MERGED
+octuple,"feat: changelog and commit linting: adds changelog scripts, commit message linter and updates readmes",https://github.com/EightfoldAI/octuple/pull/18,2022-03-29T18:27:45Z,2022-03-31T16:13:27Z,0,9,MERGED
+octuple,fix: Button: There was a missing selector,https://github.com/EightfoldAI/octuple/pull/17,2022-03-29T16:52:59Z,2022-03-29T18:42:45Z,0,1,MERGED
+octuple,Adds octuple config provider for theming,https://github.com/EightfoldAI/octuple/pull/16,2022-03-29T15:26:20Z,2022-03-31T07:13:39Z,8,9,MERGED
+octuple,Fixes missing d.ts SASS module files for prod build using latest Node 16.14.2,https://github.com/EightfoldAI/octuple/pull/15,2022-03-29T03:36:03Z,2022-03-29T15:53:35Z,1,3,MERGED
+octuple,Add tabs scss module,https://github.com/EightfoldAI/octuple/pull/14,2022-03-28T16:07:15Z,2022-03-28T16:11:56Z,0,2,MERGED
+octuple,Add component guidelines,https://github.com/EightfoldAI/octuple/pull/12,2022-03-23T07:07:41Z,2022-03-24T05:17:31Z,1,1,MERGED
+octuple,Updates Button Components,https://github.com/EightfoldAI/octuple/pull/11,2022-03-22T01:32:28Z,2022-03-29T15:43:41Z,11,15,MERGED
+octuple,Add Octuple tooltip component,https://github.com/EightfoldAI/octuple/pull/10,2022-03-21T13:13:14Z,2022-03-23T11:04:05Z,2,6,MERGED
+octuple,Adds Octuple Icon Component,https://github.com/EightfoldAI/octuple/pull/9,2022-03-18T02:00:30Z,2022-03-23T19:15:54Z,18,13,MERGED
+octuple,Add support for typescript css modules,https://github.com/EightfoldAI/octuple/pull/8,2022-03-17T19:40:43Z,2022-03-17T19:46:32Z,0,3,MERGED
+octuple,Rename prettier config file,https://github.com/EightfoldAI/octuple/pull/7,2022-03-17T17:48:49Z,2022-03-17T19:18:00Z,0,1,MERGED
+octuple,Setup prettier and husky pre commit hook,https://github.com/EightfoldAI/octuple/pull/6,2022-03-17T07:09:13Z,2022-03-17T17:27:19Z,0,4,MERGED
+octuple,"Add support for scss,css modules",https://github.com/EightfoldAI/octuple/pull/5,2022-03-17T06:29:08Z,2022-03-17T19:18:54Z,0,1,MERGED
+octuple,Tabs component,https://github.com/EightfoldAI/octuple/pull/4,2022-03-16T17:40:00Z,2022-03-26T04:23:17Z,16,6,MERGED
+octuple,fix: forward classNames to tab component,https://github.com/EightfoldAI/octuple/pull/157,2022-05-31T11:23:37Z,2022-05-31T11:31:37Z,1,1,MERGED
+octuple,"fix: improve usability of checkbox, checkbox group, radio and radio group component",https://github.com/EightfoldAI/octuple/pull/156,2022-05-31T08:49:43Z,2022-05-31T17:45:54Z,3,10,MERGED
+octuple,feat: adds select component,https://github.com/EightfoldAI/octuple/pull/155,2022-05-31T04:23:26Z,2022-06-13T06:20:47Z,43,25,MERGED
+octuple,chore: accordion and icon changes,https://github.com/EightfoldAI/octuple/pull/154,2022-05-30T11:38:54Z,2022-05-30T16:10:36Z,0,1,MERGED
+octuple,"fix: improve usability of checkbox, checkbox group component",https://github.com/EightfoldAI/octuple/pull/153,2022-05-30T10:28:26Z,2022-05-31T08:49:54Z,0,5,CLOSED
+octuple,chore: accordion body classnames placement,https://github.com/EightfoldAI/octuple/pull/152,2022-05-30T09:41:13Z,2022-05-30T09:42:49Z,0,1,MERGED
+octuple,chore: added classanmes to accordion summary and body,https://github.com/EightfoldAI/octuple/pull/151,2022-05-30T06:49:43Z,2022-05-30T08:24:31Z,4,4,MERGED
+octuple,"feat: config provider: move css variables to root selector, make base font size configurable",https://github.com/EightfoldAI/octuple/pull/150,2022-05-27T05:58:15Z,2022-05-27T19:10:47Z,2,4,MERGED
+octuple,fix: modal: fix styling of modal header,https://github.com/EightfoldAI/octuple/pull/149,2022-05-27T05:16:32Z,2022-05-27T05:36:37Z,1,1,MERGED
+octuple,chore: added classnames to wrapper,https://github.com/EightfoldAI/octuple/pull/148,2022-05-26T18:08:42Z,2022-05-27T06:35:45Z,1,5,MERGED
+octuple,feat: storybook: adds storybook controls and documentation,https://github.com/EightfoldAI/octuple/pull/147,2022-05-26T16:03:56Z,2022-05-26T16:37:56Z,1,11,MERGED
+octuple,chore: added more icons,https://github.com/EightfoldAI/octuple/pull/146,2022-05-26T08:10:01Z,2022-05-26T08:22:01Z,0,1,MERGED
+octuple,fix: selectors: adds null check to radio button onchange event,https://github.com/EightfoldAI/octuple/pull/145,2022-05-26T05:02:10Z,2022-05-26T06:06:28Z,1,1,MERGED
+octuple,fix: remove classname prop from CheckBoxProps,https://github.com/EightfoldAI/octuple/pull/144,2022-05-25T01:34:22Z,2022-05-25T01:45:05Z,1,1,MERGED
+octuple,fix: extend RadioButtonProps and CheckBoxProps to OcBaseProps,https://github.com/EightfoldAI/octuple/pull/143,2022-05-25T01:02:40Z,2022-05-25T01:18:18Z,1,2,MERGED
+octuple,Update Selectors to inherit from OcBaseProps,https://github.com/EightfoldAI/octuple/pull/142,2022-05-25T00:58:10Z,2022-05-25T00:58:30Z,0,28,CLOSED
+octuple,Update Selectors to inherit from new OcBaseProp types,https://github.com/EightfoldAI/octuple/pull/141,2022-05-25T00:55:56Z,2022-05-25T00:56:28Z,0,28,CLOSED
+octuple,chore: release: remove package lock from project,https://github.com/EightfoldAI/octuple/pull/140,2022-05-24T23:25:26Z,2022-05-24T23:32:53Z,0,1,MERGED
+octuple,fix: exports: adds stack and selectors to exports,https://github.com/EightfoldAI/octuple/pull/139,2022-05-24T23:01:58Z,2022-05-24T23:08:41Z,0,1,MERGED
+octuple,chore: pagination: adjusts text layout of dot buttons,https://github.com/EightfoldAI/octuple/pull/138,2022-05-24T21:23:34Z,2022-05-24T22:03:55Z,0,1,MERGED
+octuple,chore: jest: add link snapshot,https://github.com/EightfoldAI/octuple/pull/137,2022-05-24T20:49:15Z,2022-05-24T21:09:39Z,0,1,MERGED
+octuple,feat: added link component,https://github.com/EightfoldAI/octuple/pull/135,2022-05-24T17:02:53Z,2022-05-24T17:21:09Z,1,2,MERGED
+octuple,feat: added link component,https://github.com/EightfoldAI/octuple/pull/134,2022-05-24T06:53:11Z,2022-05-24T17:30:45Z,7,3,CLOSED
+octuple,fix: button: fixes bugs in split and toggle buttons,https://github.com/EightfoldAI/octuple/pull/133,2022-05-24T01:01:24Z,2022-05-24T19:07:24Z,1,4,MERGED
+octuple,feat: stack,https://github.com/EightfoldAI/octuple/pull/132,2022-05-23T15:11:00Z,2022-05-24T16:40:58Z,2,9,MERGED
+octuple,feat: added avatar component,https://github.com/EightfoldAI/octuple/pull/131,2022-05-23T06:00:27Z,2022-05-24T07:48:51Z,18,6,MERGED
+octuple,chore: added enhancements to dropdown to support icon and improved accessibilty,https://github.com/EightfoldAI/octuple/pull/130,2022-05-22T18:22:29Z,2022-05-24T14:53:05Z,5,8,MERGED
+octuple,feat: added support for icomoon icons,https://github.com/EightfoldAI/octuple/pull/129,2022-05-22T16:51:40Z,2022-05-23T12:09:51Z,7,7,MERGED
+octuple,fix: click on menu item not working intermittently,https://github.com/EightfoldAI/octuple/pull/128,2022-05-20T20:24:45Z,2022-05-23T18:31:35Z,0,1,MERGED
+octuple,feat: added support for icomoon icons,https://github.com/EightfoldAI/octuple/pull/127,2022-05-20T16:36:57Z,2022-05-23T05:50:34Z,8,1,CLOSED
+octuple,feat: add Accordion component,https://github.com/EightfoldAI/octuple/pull/126,2022-05-20T09:05:35Z,2022-05-24T15:51:40Z,28,7,MERGED
+octuple,fix: pixel baseline: removes rem calculations,https://github.com/EightfoldAI/octuple/pull/124,2022-05-19T00:15:17Z,2022-05-19T05:12:55Z,0,3,MERGED
+octuple,fix: pixel baseline: removes global pixel base,https://github.com/EightfoldAI/octuple/pull/123,2022-05-18T19:03:43Z,2022-05-19T00:10:36Z,1,2,CLOSED
+octuple,chore: github: adds pr template,https://github.com/EightfoldAI/octuple/pull/122,2022-05-17T21:57:53Z,2022-05-19T16:03:23Z,2,1,MERGED
+octuple,feat: pagination: adds pagination component,https://github.com/EightfoldAI/octuple/pull/121,2022-05-17T01:29:06Z,2022-05-18T16:41:06Z,17,7,MERGED
+octuple,fix: input: fixes onchange handler of inputs,https://github.com/EightfoldAI/octuple/pull/120,2022-05-16T22:40:57Z,2022-05-16T23:47:37Z,0,3,MERGED
+octuple,fix: button: use root inverse text color instead of local variable,https://github.com/EightfoldAI/octuple/pull/119,2022-05-14T01:06:41Z,2022-05-16T17:21:10Z,1,1,MERGED
+octuple,fix: text input: hides clear button for number inputs,https://github.com/EightfoldAI/octuple/pull/118,2022-05-13T22:35:17Z,2022-05-16T17:21:21Z,1,1,MERGED
+octuple,style: icons: Added new icons,https://github.com/EightfoldAI/octuple/pull/117,2022-05-13T08:57:10Z,2022-05-13T09:39:30Z,0,1,MERGED
+octuple,fix: snackbar: handle snackbar width on different screen sizes,https://github.com/EightfoldAI/octuple/pull/116,2022-05-13T06:11:02Z,2022-05-13T16:58:43Z,1,1,MERGED
+octuple,chore: pill: ensure button height is determined by pill,https://github.com/EightfoldAI/octuple/pull/115,2022-05-12T18:24:34Z,2022-05-12T18:31:32Z,0,1,MERGED
+octuple,feat: adds octuple spinner component,https://github.com/EightfoldAI/octuple/pull/114,2022-05-12T09:23:45Z,2022-05-12T18:28:07Z,0,2,MERGED
+octuple,fix: text input: adds line height to text input to prevent descenders from clipping,https://github.com/EightfoldAI/octuple/pull/113,2022-05-11T23:28:21Z,2022-05-12T05:32:12Z,1,1,MERGED
+octuple,fix: button: ensures the height of buttons and clarifies class names,https://github.com/EightfoldAI/octuple/pull/112,2022-05-11T16:43:02Z,2022-05-11T17:50:19Z,0,2,MERGED
+octuple,chore: hooks: adds ut and optimizes match media hook,https://github.com/EightfoldAI/octuple/pull/111,2022-05-10T00:38:35Z,2022-05-10T04:46:26Z,3,3,MERGED
+octuple,chore: config provider: fix annotation typo,https://github.com/EightfoldAI/octuple/pull/110,2022-05-09T19:26:50Z,2022-05-10T04:49:27Z,1,1,MERGED
+octuple,"feat: accessibility and i18n: adds keyboard focus, canvas direction support",https://github.com/EightfoldAI/octuple/pull/109,2022-05-06T02:05:33Z,2022-05-09T18:13:51Z,12,5,MERGED
+octuple,chore: add atom,https://github.com/EightfoldAI/octuple/pull/108,2022-05-05T12:30:27Z,2022-06-14T17:59:05Z,8,14,MERGED
+octuple,chore: set correct node version in ci,https://github.com/EightfoldAI/octuple/pull/107,2022-05-05T10:57:25Z,2022-05-05T11:02:54Z,0,1,MERGED
+octuple,"feat: abstract out common component props as oc base props, add ability to forward ref",https://github.com/EightfoldAI/octuple/pull/106,2022-05-04T14:18:35Z,2022-05-05T11:32:10Z,3,5,MERGED
+octuple,chore: export button icon align,https://github.com/EightfoldAI/octuple/pull/105,2022-05-04T12:47:44Z,2022-05-04T15:44:51Z,0,1,MERGED
+octuple,chore: post release updates to slack channel,https://github.com/EightfoldAI/octuple/pull/104,2022-05-04T08:41:23Z,2022-05-04T15:44:40Z,0,38,MERGED
+octuple,chore: label: add label and its size to exports,https://github.com/EightfoldAI/octuple/pull/103,2022-05-03T18:16:44Z,2022-05-03T18:22:51Z,0,1,MERGED
+octuple,chore: post release updates to slack channel [DO NOT MERGE YET],https://github.com/EightfoldAI/octuple/pull/102,2022-05-03T07:35:46Z,2022-05-04T09:38:04Z,1,23,CLOSED
+octuple,feat: add Slider component,https://github.com/EightfoldAI/octuple/pull/101,2022-05-03T05:09:08Z,2022-06-16T16:55:22Z,4,1,CLOSED
+octuple,fix: tabs: update tabs based on change in activeTab prop,https://github.com/EightfoldAI/octuple/pull/100,2022-05-03T04:23:17Z,2022-05-03T18:01:08Z,3,5,MERGED
+octuple,"chore: add editconfig, vscode extension recommendations",https://github.com/EightfoldAI/octuple/pull/99,2022-05-03T00:26:58Z,2022-05-03T18:53:31Z,4,1,CLOSED
+octuple,Update COMPONENTS.md,https://github.com/EightfoldAI/octuple/pull/98,2022-05-02T23:52:05Z,2022-05-03T02:40:56Z,0,1,MERGED
+octuple,"feat: props: normalize label, classnames, button alignment and iconprops",https://github.com/EightfoldAI/octuple/pull/97,2022-05-02T22:55:26Z,2022-05-03T17:20:44Z,4,5,MERGED
+octuple,chore: update npmignore,https://github.com/EightfoldAI/octuple/pull/96,2022-05-02T18:57:42Z,2022-05-02T19:19:20Z,0,1,MERGED
+octuple,fix: button: fixes button height and min width in flex layouts,https://github.com/EightfoldAI/octuple/pull/95,2022-05-02T17:06:25Z,2022-05-02T18:13:50Z,1,1,MERGED
+octuple,fix: tooltip: dont show tooltip if no content,https://github.com/EightfoldAI/octuple/pull/94,2022-05-02T13:48:14Z,2022-05-02T18:03:18Z,0,1,MERGED
+octuple,feat: change menu item value to type any,https://github.com/EightfoldAI/octuple/pull/93,2022-05-02T12:08:22Z,2022-05-02T18:20:12Z,2,1,MERGED
+octuple,feat: add match score component 🟢 🟢 🟢 ⚪️ ⚪️,https://github.com/EightfoldAI/octuple/pull/92,2022-05-02T12:05:44Z,2022-05-02T23:26:06Z,10,8,MERGED
+octuple,chore: update coverage command,https://github.com/EightfoldAI/octuple/pull/91,2022-05-02T11:54:34Z,2022-05-02T11:57:40Z,1,1,CLOSED
+octuple,"fix: dropdown: fix memory leak in dropdowns, change position strategy to absolute",https://github.com/EightfoldAI/octuple/pull/90,2022-05-02T04:40:21Z,2022-05-02T18:03:00Z,1,5,MERGED
+octuple,"feat: adds octuple badge, use badge in tabs",https://github.com/EightfoldAI/octuple/pull/89,2022-05-02T03:39:09Z,2022-05-02T18:49:30Z,4,6,MERGED
+octuple,Slider component rough first pass. Additional commit for dev cleanliness.,https://github.com/EightfoldAI/octuple/pull/88,2022-05-01T15:45:17Z,2022-05-03T04:51:51Z,10,2,CLOSED
+octuple,feat: configprovider: updates the config provider to accept custom styles,https://github.com/EightfoldAI/octuple/pull/87,2022-04-29T01:29:18Z,2022-06-15T20:04:04Z,3,1,CLOSED
+octuple,fix: tabs: remove background from tabs,https://github.com/EightfoldAI/octuple/pull/85,2022-04-28T17:46:12Z,2022-04-28T17:52:07Z,0,1,MERGED
+octuple,feat: adds octuple info bars,https://github.com/EightfoldAI/octuple/pull/84,2022-04-28T13:06:47Z,2022-04-28T17:42:09Z,2,6,MERGED
+octuple,fix: panel: footer not sticking to the bottom,https://github.com/EightfoldAI/octuple/pull/83,2022-04-28T09:44:52Z,2022-04-28T14:04:56Z,0,1,MERGED
+octuple,fix: panel: updates panel close icon button to use neutral button,https://github.com/EightfoldAI/octuple/pull/82,2022-04-27T21:36:14Z,2022-04-28T09:46:21Z,1,1,CLOSED
+octuple,feat: adds octuple snackbar component,https://github.com/EightfoldAI/octuple/pull/81,2022-04-26T14:02:17Z,2022-04-28T09:44:42Z,5,6,MERGED
+octuple,feat: button: adds two state button component,https://github.com/EightfoldAI/octuple/pull/80,2022-04-26T00:11:08Z,2022-04-26T15:28:41Z,4,5,MERGED
+octuple,chore: mdi: adds tune variant icon,https://github.com/EightfoldAI/octuple/pull/79,2022-04-25T19:36:37Z,2022-04-25T19:45:05Z,0,1,MERGED
+octuple,fix: show modal scrollbar only if content is scrollable,https://github.com/EightfoldAI/octuple/pull/78,2022-04-20T19:02:58Z,2022-04-20T19:56:04Z,1,1,MERGED
+octuple,"chore: update readme with usage, and fix codecov url",https://github.com/EightfoldAI/octuple/pull/77,2022-04-20T05:20:53Z,2022-04-20T15:21:55Z,1,4,MERGED
+octuple,chore: fix chromatic workflow file,https://github.com/EightfoldAI/octuple/pull/76,2022-04-19T17:23:59Z,2022-04-19T17:34:22Z,0,1,MERGED
+octuple,feat: some faulty styling [don't merge],https://github.com/EightfoldAI/octuple/pull/75,2022-04-19T17:22:10Z,2022-05-02T14:35:43Z,1,4,CLOSED
+octuple,fix: button: move unreferenced global style into the module,https://github.com/EightfoldAI/octuple/pull/74,2022-04-19T17:18:54Z,2022-04-19T17:44:18Z,0,2,MERGED
+octuple,chore: fix octuple logo url,https://github.com/EightfoldAI/octuple/pull/73,2022-04-19T15:20:17Z,2022-04-19T15:25:55Z,0,1,MERGED
+octuple,"chore: add bundle sizes badges, octuple logo to readme",https://github.com/EightfoldAI/octuple/pull/71,2022-04-19T09:40:35Z,2022-04-19T14:55:19Z,0,1,MERGED
+octuple,chore: add badge for node and license,https://github.com/EightfoldAI/octuple/pull/70,2022-04-19T09:09:22Z,2022-04-19T09:13:21Z,0,1,MERGED
+octuple,chore: setup engines for node and npm version,https://github.com/EightfoldAI/octuple/pull/69,2022-04-19T08:15:35Z,2022-04-19T08:57:08Z,1,1,MERGED
+octuple,chore: add snapshot testing,https://github.com/EightfoldAI/octuple/pull/68,2022-04-19T07:24:44Z,2022-04-19T08:38:49Z,3,1,MERGED
+octuple,feat: handle inverse themes in config provider ,https://github.com/EightfoldAI/octuple/pull/67,2022-04-18T11:19:45Z,2022-04-19T11:32:38Z,1,8,MERGED
+octuple,chore: optimize build size,https://github.com/EightfoldAI/octuple/pull/66,2022-04-18T07:50:35Z,2022-04-18T15:23:30Z,1,6,MERGED
+octuple,feat: adds octuples modal component,https://github.com/EightfoldAI/octuple/pull/65,2022-04-18T04:59:39Z,2022-04-20T15:22:24Z,4,5,MERGED
+octuple,chore: exports: export components ahead of 0.0.12 release,https://github.com/EightfoldAI/octuple/pull/64,2022-04-13T18:46:59Z,2022-04-13T18:53:47Z,1,1,MERGED
+octuple,fix: input: ensures there is no visible outline on clear button hover,https://github.com/EightfoldAI/octuple/pull/63,2022-04-13T18:31:53Z,2022-04-13T19:16:05Z,1,1,MERGED
+octuple,chore: fix build badge,https://github.com/EightfoldAI/octuple/pull/62,2022-04-13T17:02:57Z,2022-04-13T17:07:26Z,0,2,MERGED
+octuple,chore: ignore types files from code coverage,https://github.com/EightfoldAI/octuple/pull/61,2022-04-13T16:47:07Z,2022-04-13T16:56:00Z,1,1,MERGED
+octuple,chore: deploy to octuple.github.io repo,https://github.com/EightfoldAI/octuple/pull/60,2022-04-13T13:01:04Z,2022-06-17T07:43:07Z,1,3,CLOSED
+octuple,chore: ut: add unit tests for panel and tabs,https://github.com/EightfoldAI/octuple/pull/59,2022-04-13T12:30:15Z,2022-04-13T16:29:49Z,0,1,MERGED
+octuple,feat: adds octuples dialog component,https://github.com/EightfoldAI/octuple/pull/58,2022-04-13T10:34:33Z,2022-04-13T16:49:44Z,4,4,MERGED
+octuple,feat: button: add split button component,https://github.com/EightfoldAI/octuple/pull/57,2022-04-13T01:29:03Z,2022-04-13T17:24:52Z,3,6,MERGED
+octuple,feat: add checkbox and radio button components,https://github.com/EightfoldAI/octuple/pull/56,2022-04-12T20:21:21Z,2022-05-24T20:38:48Z,45,27,MERGED
+octuple,"feat: adds octuple panel component, add portal component",https://github.com/EightfoldAI/octuple/pull/55,2022-04-12T12:44:34Z,2022-04-12T15:29:14Z,2,4,MERGED
+octuple,fix: button: fixes disruptive button foreground color state css variable reference,https://github.com/EightfoldAI/octuple/pull/54,2022-04-11T22:44:42Z,2022-04-12T04:16:47Z,1,1,MERGED
+octuple,chore: fix: github badge action name,https://github.com/EightfoldAI/octuple/pull/53,2022-04-11T15:41:58Z,2022-04-11T15:43:05Z,0,1,MERGED
+octuple,"chore: readme: add codecov support and add build, npm and codecov badges to readme",https://github.com/EightfoldAI/octuple/pull/52,2022-04-11T11:32:30Z,2022-04-11T15:39:30Z,0,5,MERGED
+octuple,chore(release): 0.0.8,https://github.com/EightfoldAI/octuple/pull/51,2022-04-09T00:17:44Z,2022-04-09T00:17:49Z,0,1,MERGED
+octuple,"feat: baseline font size: add use font size hook, update config provider using font size css var",https://github.com/EightfoldAI/octuple/pull/50,2022-04-08T18:55:33Z,2022-04-09T00:12:58Z,0,6,MERGED
+octuple,chore: rem: tidy up rem usage,https://github.com/EightfoldAI/octuple/pull/49,2022-04-08T05:07:00Z,2022-04-08T05:16:40Z,0,1,MERGED
+octuple,"feat: button and input: adds neutral button, exports components, renames enum to better match others",https://github.com/EightfoldAI/octuple/pull/48,2022-04-08T01:32:26Z,2022-04-08T04:33:30Z,0,2,MERGED
+octuple,chore(release): 0.0.7,https://github.com/EightfoldAI/octuple/pull/47,2022-04-07T16:52:37Z,2022-04-07T16:53:28Z,0,1,MERGED
+octuple,fix: textarea: pixel push resize icon,https://github.com/EightfoldAI/octuple/pull/46,2022-04-07T16:13:10Z,2022-04-07T16:43:13Z,0,1,MERGED
+octuple,fix: pill button: updates hover state to match latest button styles,https://github.com/EightfoldAI/octuple/pull/45,2022-04-07T16:10:39Z,2022-04-07T16:43:30Z,0,1,MERGED
+octuple,fix: handle menu item value type,https://github.com/EightfoldAI/octuple/pull/44,2022-04-07T15:36:37Z,2022-04-07T16:00:30Z,0,1,MERGED
+octuple,"feat: toggle button: adds toggle button and its hooks, updates scss",https://github.com/EightfoldAI/octuple/pull/43,2022-04-06T23:33:28Z,2022-04-07T04:57:24Z,1,3,MERGED
+octuple,chore: css variables: removes non variable colors and unused files,https://github.com/EightfoldAI/octuple/pull/42,2022-04-06T17:20:27Z,2022-04-06T17:42:59Z,0,1,MERGED
+octuple,chore(release): 0.0.6,https://github.com/EightfoldAI/octuple/pull/41,2022-04-06T00:20:55Z,2022-04-06T00:21:14Z,0,1,MERGED
+octuple,"feat: input component: adds searchbox, textarea and textinput components",https://github.com/EightfoldAI/octuple/pull/40,2022-04-05T23:27:40Z,2022-04-06T17:43:09Z,14,29,MERGED
+octuple,chore: npm publish action,https://github.com/EightfoldAI/octuple/pull/39,2022-04-05T05:11:16Z,2022-04-11T06:29:19Z,1,4,MERGED
+octuple,chore: export all ready components,https://github.com/EightfoldAI/octuple/pull/38,2022-04-05T04:37:02Z,2022-04-05T15:32:45Z,0,1,MERGED
+octuple,chore: install peers: moves install peers to dev dependencies,https://github.com/EightfoldAI/octuple/pull/37,2022-04-05T03:51:36Z,2022-04-05T04:38:47Z,0,1,MERGED
+octuple,fix: pills: removes unused selectors,https://github.com/EightfoldAI/octuple/pull/36,2022-04-05T03:48:14Z,2022-04-05T03:48:44Z,0,1,MERGED
+octuple,chore(release): 0.0.5,https://github.com/EightfoldAI/octuple/pull/35,2022-04-04T23:38:55Z,2022-04-04T23:41:10Z,0,1,MERGED
+octuple,fix: html base pixel unit: changes the base from 16 to 10,https://github.com/EightfoldAI/octuple/pull/34,2022-04-04T22:09:21Z,2022-04-04T23:35:22Z,0,1,MERGED
+octuple,chore(release): 0.0.4,https://github.com/EightfoldAI/octuple/pull/33,2022-04-04T17:48:36Z,2022-04-04T17:50:24Z,0,1,MERGED
+octuple,fix: peer dependencies: ensure react is installed as a peer dependency,https://github.com/EightfoldAI/octuple/pull/32,2022-04-04T17:26:59Z,2022-04-04T17:45:15Z,0,1,MERGED
+octuple,chore(release): 0.0.3,https://github.com/EightfoldAI/octuple/pull/31,2022-04-04T16:02:15Z,2022-04-04T16:04:12Z,0,1,MERGED
+octuple,"feat: Adds octuple list, menu, dropdown components",https://github.com/EightfoldAI/octuple/pull/30,2022-04-04T15:47:48Z,2022-04-07T15:25:54Z,1,10,MERGED
+octuple,fix: react: ignore react in production build to avoid conflicts,https://github.com/EightfoldAI/octuple/pull/29,2022-04-02T00:59:50Z,2022-04-04T15:52:55Z,0,3,MERGED
+octuple,chore(release): 0.0.2,https://github.com/EightfoldAI/octuple/pull/28,2022-04-01T23:56:08Z,2022-04-01T23:59:02Z,0,1,MERGED
+octuple,fix: readme: fixes asset and documentation urls,https://github.com/EightfoldAI/octuple/pull/27,2022-04-01T23:14:59Z,2022-04-01T23:40:38Z,0,2,MERGED
+octuple,chore(release): 0.0.1,https://github.com/EightfoldAI/octuple/pull/26,2022-04-01T22:51:04Z,2022-04-01T22:55:50Z,0,1,MERGED
+octuple,fix: commitlint: adds custom commitlint config,https://github.com/EightfoldAI/octuple/pull/25,2022-04-01T19:58:41Z,2022-04-04T16:13:31Z,0,1,MERGED
+octuple,chore: scss: import common scss with webpack and readable scss module classnames,https://github.com/EightfoldAI/octuple/pull/24,2022-04-01T09:07:06Z,2022-04-01T17:26:21Z,0,1,MERGED
+octuple,fix: snackbar: increase snackbar z-index to be more than surface elements,https://github.com/EightfoldAI/octuple/pull/277,2022-07-29T12:10:57Z,2022-07-29T13:46:26Z,2,1,MERGED
+octuple,chore: change package cleanup to pre and post publish,https://github.com/EightfoldAI/octuple/pull/276,2022-07-29T08:00:59Z,2022-07-29T08:11:28Z,0,1,MERGED
+octuple,"fix: selectors: adds size prop, fixes styles to match the latest",https://github.com/EightfoldAI/octuple/pull/275,2022-07-29T01:01:51Z,2022-07-29T20:03:25Z,6,4,MERGED
+octuple,fix: slider: fixes slider onchange event hang in react 16,https://github.com/EightfoldAI/octuple/pull/274,2022-07-28T17:47:20Z,2022-07-28T18:04:47Z,0,2,MERGED
+octuple,fix: tooltip: fixes tooltip visibility upon on mouse leave,https://github.com/EightfoldAI/octuple/pull/273,2022-07-28T06:27:52Z,2022-07-28T08:21:52Z,1,2,MERGED
+octuple,"fix: button: fixes secondary button border in safari, cleans up focus visible styles",https://github.com/EightfoldAI/octuple/pull/272,2022-07-28T01:26:28Z,2022-07-28T16:19:46Z,4,2,MERGED
+octuple,fix: tooltip: fixes tooltip visibility upon on mouse leave,https://github.com/EightfoldAI/octuple/pull/271,2022-07-27T15:53:02Z,2022-07-28T06:26:18Z,2,1,CLOSED
+octuple,chore: remove development configuration before publishing package,https://github.com/EightfoldAI/octuple/pull/270,2022-07-27T11:06:51Z,2022-07-27T15:21:13Z,2,2,MERGED
+octuple,feat: toggle: add toggle switch,https://github.com/EightfoldAI/octuple/pull/269,2022-07-26T22:46:01Z,2022-07-27T17:30:27Z,6,8,MERGED
+octuple,fix: slider: fixes slider onresize event hang in react 16,https://github.com/EightfoldAI/octuple/pull/268,2022-07-26T17:39:12Z,2022-07-26T19:38:30Z,1,1,MERGED
+octuple,fix: dependabot: removes and upgrades developer dependencies,https://github.com/EightfoldAI/octuple/pull/267,2022-07-26T17:12:15Z,2022-07-26T17:35:11Z,1,1,MERGED
+octuple,"feat: theme 2 menu with headers, subheaders, footers and links",https://github.com/EightfoldAI/octuple/pull/266,2022-07-26T10:01:32Z,2022-08-18T11:26:51Z,4,9,MERGED
+octuple,feat: octuple theme 2,https://github.com/EightfoldAI/octuple/pull/265,2022-07-26T08:18:32Z,2022-07-26T09:34:31Z,0,15,MERGED
+octuple,feat: tooltip: allow passing custom class and style to tooltip wrapper,https://github.com/EightfoldAI/octuple/pull/264,2022-07-26T07:49:51Z,2022-07-26T08:01:59Z,0,1,MERGED
+octuple,chore: cherry pick latest main no lfs snaps into main-next,https://github.com/EightfoldAI/octuple/pull/263,2022-07-25T21:33:56Z,2022-07-25T22:49:06Z,0,4,MERGED
+octuple,chore: cherry pick latest main no lfs snaps into main-next,https://github.com/EightfoldAI/octuple/pull/262,2022-07-25T21:31:39Z,2022-07-25T21:32:44Z,0,4,CLOSED
+octuple,chore: removes cached lfs files and adds them back,https://github.com/EightfoldAI/octuple/pull/261,2022-07-25T21:13:11Z,2022-07-25T21:21:56Z,0,2,MERGED
+octuple,chore: cherry pick latest main into main-next,https://github.com/EightfoldAI/octuple/pull/260,2022-07-25T20:42:02Z,2022-07-25T21:09:58Z,0,3,CLOSED
+octuple,chore: uninstall git lfs,https://github.com/EightfoldAI/octuple/pull/259,2022-07-25T20:21:58Z,2022-07-25T20:30:54Z,0,1,MERGED
+octuple,chore: lfs file rewrite,https://github.com/EightfoldAI/octuple/pull/258,2022-07-25T18:30:59Z,2022-07-25T20:03:56Z,0,265,MERGED
+octuple,chore: merge latest into main next,https://github.com/EightfoldAI/octuple/pull/257,2022-07-25T17:41:18Z,2022-07-25T18:02:01Z,0,2,MERGED
+octuple,Dkilgore eightfold/merge main into main next,https://github.com/EightfoldAI/octuple/pull/256,2022-07-25T16:51:35Z,2022-07-25T16:52:12Z,0,270,CLOSED
+octuple,"feat: table: update table hover color, fix accordion hover overflow",https://github.com/EightfoldAI/octuple/pull/255,2022-07-25T11:30:01Z,2022-07-25T11:54:42Z,1,1,MERGED
+octuple,fix: export TextInputSize,https://github.com/EightfoldAI/octuple/pull/254,2022-07-25T09:55:58Z,2022-07-25T10:09:52Z,1,1,MERGED
+octuple,fix: radiobutton: multiple radio buttons on the same page doesnt work as intended,https://github.com/EightfoldAI/octuple/pull/253,2022-07-23T02:54:15Z,2022-07-25T15:50:31Z,1,2,MERGED
+octuple,ENG-22418 | feat: added filter options,https://github.com/EightfoldAI/octuple/pull/252,2022-07-22T06:01:43Z,2022-07-22T15:14:12Z,1,1,MERGED
+octuple,chore: jest: optimise local snapshots,https://github.com/EightfoldAI/octuple/pull/251,2022-07-22T05:18:27Z,2022-07-22T17:30:05Z,1,2,MERGED
+octuple,chore: optimise snapshot for storyshots,https://github.com/EightfoldAI/octuple/pull/250,2022-07-21T18:40:24Z,2022-07-21T19:11:16Z,0,2,MERGED
+octuple,chore: optimise storyshots,https://github.com/EightfoldAI/octuple/pull/249,2022-07-21T16:34:56Z,2022-07-21T18:10:59Z,0,270,CLOSED
+octuple,chore: test: resolve conflicts,https://github.com/EightfoldAI/octuple/pull/248,2022-07-21T16:04:48Z,2022-07-21T16:29:02Z,0,1,MERGED
+octuple,lfs file rewrite - removes *.snap files from commit history,https://github.com/EightfoldAI/octuple/pull/246,2022-07-20T22:02:17Z,2022-07-21T15:48:14Z,1,257,CLOSED
+octuple,chore: change class name hash for theme2,https://github.com/EightfoldAI/octuple/pull/245,2022-07-20T08:59:06Z,2022-07-20T09:12:30Z,0,1,MERGED
+octuple,feat: modal: add three additional header action button props,https://github.com/EightfoldAI/octuple/pull/244,2022-07-20T00:46:03Z,2022-07-20T05:30:12Z,1,3,MERGED
+octuple,"fix: select: fixes pills, filtering, empty text, and spinner position",https://github.com/EightfoldAI/octuple/pull/243,2022-07-19T23:31:22Z,2022-07-20T16:29:49Z,4,9,MERGED
+octuple,chore: test: update snapshots,https://github.com/EightfoldAI/octuple/pull/242,2022-07-19T17:14:49Z,2022-07-19T22:23:31Z,0,3,MERGED
+octuple,fix: usematchmedia: implement addlistener fallback for older browsers,https://github.com/EightfoldAI/octuple/pull/241,2022-07-19T15:56:51Z,2022-07-19T17:03:46Z,1,1,MERGED
+octuple,fix: select: Move chevron indicator to the right side,https://github.com/EightfoldAI/octuple/pull/240,2022-07-18T23:38:16Z,2022-07-19T15:45:22Z,3,2,MERGED
+octuple,feat: input: add inline prop,https://github.com/EightfoldAI/octuple/pull/239,2022-07-18T18:22:36Z,2022-07-18T20:29:23Z,3,5,MERGED
+octuple,"fix: toggle hover dropdown on click, fixed dropdown flicker on close",https://github.com/EightfoldAI/octuple/pull/238,2022-07-17T19:03:53Z,2022-07-18T15:53:31Z,1,1,MERGED
+octuple,feat: input: add underline variant,https://github.com/EightfoldAI/octuple/pull/237,2022-07-15T00:23:06Z,2022-07-15T03:57:13Z,2,2,MERGED
+octuple,"feat: icon: adds mdi ""auto-fix"" icon",https://github.com/EightfoldAI/octuple/pull/236,2022-07-14T15:58:19Z,2022-07-14T16:33:47Z,0,1,MERGED
+octuple,fix: datepicker: adds missing module selector,https://github.com/EightfoldAI/octuple/pull/235,2022-07-14T05:36:49Z,2022-07-14T05:45:51Z,0,1,MERGED
+octuple,chore: datetimepicker: export date and time picker,https://github.com/EightfoldAI/octuple/pull/234,2022-07-14T04:49:10Z,2022-07-14T05:11:33Z,0,1,MERGED
+octuple,feat: datepicker: adds date and time picker components,https://github.com/EightfoldAI/octuple/pull/233,2022-07-13T02:27:17Z,2022-07-14T04:28:24Z,25,17,MERGED
+octuple,fix: prevent slider from firing onChange during init,https://github.com/EightfoldAI/octuple/pull/232,2022-07-11T22:35:30Z,2022-07-13T01:46:50Z,2,1,MERGED
+octuple,"feat: menu: add support for multiple menu item types, add header and footer",https://github.com/EightfoldAI/octuple/pull/231,2022-07-10T06:17:44Z,2022-07-26T10:01:25Z,2,16,CLOSED
+octuple,fix: Update checkbox colors to the correct values,https://github.com/EightfoldAI/octuple/pull/230,2022-07-09T19:49:53Z,2022-07-10T04:44:20Z,1,7,MERGED
+octuple,feat: add persistent bar,https://github.com/EightfoldAI/octuple/pull/229,2022-07-08T19:22:22Z,2022-07-08T19:30:24Z,1,1,MERGED
+octuple,Publish persistent bar,https://github.com/EightfoldAI/octuple/pull/228,2022-07-08T19:11:19Z,2022-07-08T19:12:31Z,0,1,CLOSED
+octuple,feat: add persistent bar component,https://github.com/EightfoldAI/octuple/pull/227,2022-07-08T16:52:36Z,2022-07-08T17:07:33Z,1,5,MERGED
+octuple,fix: update two state button to theme 2,https://github.com/EightfoldAI/octuple/pull/226,2022-07-08T07:23:39Z,2022-07-08T14:44:22Z,1,2,MERGED
+octuple,Export persistent bar in octuple.ts,https://github.com/EightfoldAI/octuple/pull/225,2022-07-07T17:21:53Z,2022-07-07T17:41:43Z,0,1,MERGED
+octuple,feat: add ability to pass custom class to table header,https://github.com/EightfoldAI/octuple/pull/224,2022-07-07T15:49:06Z,2022-07-11T12:29:22Z,0,2,MERGED
+octuple,chore: fix npm publish command,https://github.com/EightfoldAI/octuple/pull/223,2022-07-07T13:24:56Z,2022-07-07T13:33:42Z,0,1,MERGED
+octuple,chore: scoped CSS to octuple modules,https://github.com/EightfoldAI/octuple/pull/222,2022-07-07T09:39:06Z,2022-07-18T07:17:06Z,4,1,CLOSED
+octuple,fix: slider component not exported,https://github.com/EightfoldAI/octuple/pull/221,2022-07-07T06:07:52Z,2022-07-07T06:14:18Z,0,1,MERGED
+octuple,Exporting slider,https://github.com/EightfoldAI/octuple/pull/220,2022-07-07T05:43:55Z,2022-07-07T05:52:07Z,2,4,CLOSED
+octuple,chore: publish only on a release,https://github.com/EightfoldAI/octuple/pull/219,2022-07-06T12:01:47Z,2022-07-06T12:30:58Z,0,1,MERGED
+octuple,chore: publish only on a release,https://github.com/EightfoldAI/octuple/pull/218,2022-07-06T12:00:07Z,2022-07-06T12:01:31Z,0,1,CLOSED
+octuple,chore: setup prerelease workflow,https://github.com/EightfoldAI/octuple/pull/217,2022-07-06T10:09:41Z,2022-07-06T11:35:18Z,0,1,MERGED
+octuple,chore: setup prerelease workflow,https://github.com/EightfoldAI/octuple/pull/216,2022-07-06T09:32:59Z,2022-07-06T11:35:28Z,0,1,CLOSED
+octuple,[Persistent Bar] As a developer I should be able to use the Octuple Persistent Bar component in my project,https://github.com/EightfoldAI/octuple/pull/215,2022-07-06T04:28:40Z,2022-07-06T23:29:12Z,7,5,MERGED
+octuple,feat: Update incorrect colors for Tabs and Buttons in theme 2,https://github.com/EightfoldAI/octuple/pull/214,2022-07-04T09:24:13Z,2022-07-04T09:36:05Z,1,2,MERGED
+octuple,"feat: update menu item, pagination and inputs to theme 2",https://github.com/EightfoldAI/octuple/pull/213,2022-07-01T08:02:57Z,2022-07-04T09:31:12Z,0,2,MERGED
+octuple,feat: eng-22373: enable floating buttons,https://github.com/EightfoldAI/octuple/pull/212,2022-06-29T20:29:12Z,2022-06-30T23:44:21Z,6,3,MERGED
+octuple,chore: tidy: renames types and fix console warnings in svg components,https://github.com/EightfoldAI/octuple/pull/211,2022-06-29T15:31:29Z,2022-06-29T19:35:40Z,0,1,MERGED
+octuple,feat: dropdown: add ability to portal,https://github.com/EightfoldAI/octuple/pull/210,2022-06-29T09:30:18Z,2022-06-29T15:10:23Z,1,1,MERGED
+octuple,"fix: table: increase selection column size, add border bottom header prop",https://github.com/EightfoldAI/octuple/pull/209,2022-06-29T06:01:29Z,2022-06-29T15:10:06Z,1,1,MERGED
+octuple,fix: tabs: allign first item to the left,https://github.com/EightfoldAI/octuple/pull/208,2022-06-28T05:52:01Z,2022-06-28T15:41:12Z,0,1,MERGED
+octuple,"feat: add layout type for radiogroup, checkboxgroup",https://github.com/EightfoldAI/octuple/pull/207,2022-06-28T04:48:18Z,2022-06-28T16:24:57Z,1,3,MERGED
+octuple,fix: update button font sizes and outline colors,https://github.com/EightfoldAI/octuple/pull/206,2022-06-28T04:15:55Z,2022-06-28T15:40:31Z,1,1,MERGED
+octuple,fix: button: removes focus outline and border style when not in keyboard mode,https://github.com/EightfoldAI/octuple/pull/205,2022-06-23T23:38:31Z,2022-06-24T04:22:56Z,2,4,MERGED
+octuple,Fixing value prop for text input & text area,https://github.com/EightfoldAI/octuple/pull/204,2022-06-23T09:48:38Z,2022-06-23T17:30:09Z,1,2,MERGED
+octuple,chore: added support for avatar hashing function,https://github.com/EightfoldAI/octuple/pull/203,2022-06-23T09:27:01Z,2022-06-23T09:54:23Z,2,9,MERGED
+octuple,fix: remove buttons from menu item,https://github.com/EightfoldAI/octuple/pull/202,2022-06-23T09:15:12Z,2022-07-01T05:28:17Z,2,10,MERGED
+octuple,feat: added navbar component,https://github.com/EightfoldAI/octuple/pull/201,2022-06-23T04:53:47Z,2022-06-23T14:06:35Z,10,11,MERGED
+octuple,chore: added support for avatar hashing function,https://github.com/EightfoldAI/octuple/pull/200,2022-06-22T11:23:34Z,2022-06-23T09:49:26Z,6,45,CLOSED
+octuple,fix: textarea: event persist issue in react 16,https://github.com/EightfoldAI/octuple/pull/199,2022-06-22T10:43:50Z,2022-06-22T10:54:00Z,0,1,MERGED
+octuple,"fix: interaction bugs in input, accordion and buttons",https://github.com/EightfoldAI/octuple/pull/198,2022-06-22T08:15:11Z,2022-06-22T15:25:14Z,0,2,MERGED
+octuple,feat: add ability to define theme at a component level,https://github.com/EightfoldAI/octuple/pull/197,2022-06-21T09:53:46Z,2022-06-21T17:46:50Z,0,1,MERGED
+octuple,"feat: icon: adds two mdi icons, account eye and its outline variant",https://github.com/EightfoldAI/octuple/pull/196,2022-06-20T17:57:16Z,2022-06-20T21:00:59Z,1,3,MERGED
+octuple,fix: add total in dependencies to pickup latest changes,https://github.com/EightfoldAI/octuple/pull/195,2022-06-17T08:43:16Z,2022-06-21T04:47:42Z,0,1,MERGED
+octuple,chore: update github pages on octuple release,https://github.com/EightfoldAI/octuple/pull/194,2022-06-17T07:42:35Z,2022-06-20T16:58:42Z,0,2,MERGED
+octuple,feat: table: add table component,https://github.com/EightfoldAI/octuple/pull/193,2022-06-17T01:26:08Z,2022-06-23T20:04:20Z,31,46,MERGED
+octuple,chore: add indicator to distinguish octuple components,https://github.com/EightfoldAI/octuple/pull/192,2022-06-16T19:50:58Z,2022-06-20T14:05:56Z,1,3,MERGED
+octuple,chore: update snackbar tests to use fake timers,https://github.com/EightfoldAI/octuple/pull/191,2022-06-16T17:14:09Z,2022-06-22T10:58:32Z,1,2,MERGED
+octuple,feat: add Slider component,https://github.com/EightfoldAI/octuple/pull/190,2022-06-16T16:57:36Z,2022-06-22T15:33:08Z,10,8,MERGED
+octuple,"feat: add neutral menu type, add default dropdown offset",https://github.com/EightfoldAI/octuple/pull/189,2022-06-16T12:36:50Z,2022-06-16T15:42:44Z,1,2,MERGED
+octuple,feat: add all theme2 colors to avatar and pill component,https://github.com/EightfoldAI/octuple/pull/188,2022-06-16T09:21:33Z,2022-06-16T17:23:58Z,0,2,MERGED
+octuple,feat: button: adds counter badge support to all buttons,https://github.com/EightfoldAI/octuple/pull/187,2022-06-15T16:52:13Z,2022-06-15T17:24:38Z,4,2,MERGED
+octuple,chore: reduce indentation rule to 2 spaces,https://github.com/EightfoldAI/octuple/pull/186,2022-06-15T16:00:28Z,2022-06-16T17:29:15Z,2,2,CLOSED
+octuple,"chore: reorganize utilities, add visuallyHidden util",https://github.com/EightfoldAI/octuple/pull/185,2022-06-15T15:52:44Z,2022-06-15T18:16:05Z,2,3,MERGED
+octuple,"chore: reorganize utilities, add visuallyHidden util",https://github.com/EightfoldAI/octuple/pull/184,2022-06-15T15:24:47Z,2022-06-15T15:48:40Z,0,1,CLOSED
+octuple,feat: add ability to theme individual components,https://github.com/EightfoldAI/octuple/pull/183,2022-06-15T11:24:44Z,2022-06-21T09:54:08Z,2,1,CLOSED
+octuple,fix: pagination: ensure jumper applies current page,https://github.com/EightfoldAI/octuple/pull/182,2022-06-14T20:56:14Z,2022-06-15T04:17:15Z,1,1,MERGED
+octuple,feat: empty: adds empty state component,https://github.com/EightfoldAI/octuple/pull/180,2022-06-14T00:47:26Z,2022-06-14T05:33:54Z,6,2,MERGED
+octuple,feat: tooltip: adds portal prop to tooltips,https://github.com/EightfoldAI/octuple/pull/179,2022-06-13T22:30:51Z,2022-06-14T05:37:35Z,0,1,MERGED
+octuple,fix: pagination: enables page size and jumper controls and hides elements via total,https://github.com/EightfoldAI/octuple/pull/178,2022-06-13T18:21:17Z,2022-06-14T05:35:15Z,0,3,MERGED
+octuple,"fix: inputs: adds forward ref support, adjusts default wait interval",https://github.com/EightfoldAI/octuple/pull/177,2022-06-13T17:46:05Z,2022-06-13T18:01:24Z,1,1,MERGED
+octuple,fix: radio button: add classnames prop to radio button,https://github.com/EightfoldAI/octuple/pull/176,2022-06-13T17:31:34Z,2022-06-13T18:01:10Z,2,2,MERGED
+octuple,chore: remove unused var,https://github.com/EightfoldAI/octuple/pull/175,2022-06-13T15:08:34Z,2022-06-14T06:22:33Z,0,1,MERGED
+octuple,"feat: theme 2 color palette, default button & input shape to pull, styles for selectors, tabs & primary button",https://github.com/EightfoldAI/octuple/pull/174,2022-06-13T11:46:03Z,2022-06-15T17:18:18Z,3,12,MERGED
+octuple,fix: modal: disable scroll in body on x axis,https://github.com/EightfoldAI/octuple/pull/173,2022-06-13T07:23:34Z,2022-06-13T07:37:36Z,0,2,MERGED
+octuple,fix: tooltip: allow pointer events when tooltip is disabled,https://github.com/EightfoldAI/octuple/pull/172,2022-06-10T08:53:18Z,2022-06-13T06:20:23Z,0,1,MERGED
+octuple,fix: modal: make position strategy fixed by default,https://github.com/EightfoldAI/octuple/pull/171,2022-06-10T06:48:23Z,2022-06-10T07:00:56Z,1,1,MERGED
+octuple,chores: fix types for content prop,https://github.com/EightfoldAI/octuple/pull/170,2022-06-08T11:04:44Z,2022-06-09T05:36:43Z,0,2,MERGED
+octuple,fix: fixed search event persist issue,https://github.com/EightfoldAI/octuple/pull/169,2022-06-08T06:55:49Z,2022-06-08T07:44:41Z,4,4,MERGED
+octuple,"fix: handle onScrollLock cleanly, dialog to render inside parent element",https://github.com/EightfoldAI/octuple/pull/168,2022-06-06T06:59:32Z,2022-06-06T10:50:08Z,2,3,MERGED
+octuple,chore: add test ID to link,https://github.com/EightfoldAI/octuple/pull/167,2022-06-03T05:36:05Z,2022-06-03T05:44:47Z,1,2,MERGED
+octuple,chore: sycn main-next with main ,https://github.com/EightfoldAI/octuple/pull/166,2022-06-02T11:03:40Z,2022-06-02T11:08:06Z,0,2,CLOSED
+octuple,chore: do not toggle dropdown on body click,https://github.com/EightfoldAI/octuple/pull/165,2022-06-02T08:28:35Z,2022-06-02T10:28:05Z,4,5,MERGED
+octuple,chore: make ci builds run on main next,https://github.com/EightfoldAI/octuple/pull/164,2022-06-01T17:56:56Z,2022-06-01T18:13:38Z,0,1,MERGED
+octuple,chore: make ci builds run on main next,https://github.com/EightfoldAI/octuple/pull/163,2022-06-01T17:56:21Z,2022-06-13T13:01:12Z,0,1,MERGED
+octuple,"feat: theme 2 for dialog, modal, infobar, snackbar and dropdown",https://github.com/EightfoldAI/octuple/pull/162,2022-06-01T15:25:22Z,2022-06-01T15:25:44Z,0,1,MERGED
+octuple,"feat: theme 2 for dialog, modal, infobar, snackbar and dropdown",https://github.com/EightfoldAI/octuple/pull/161,2022-06-01T14:08:07Z,2022-06-01T17:59:09Z,1,1,CLOSED
+octuple,"feat: theme 2 for dialog, modal, infobar, snackbar and dropdown",https://github.com/EightfoldAI/octuple/pull/160,2022-06-01T14:07:34Z,2022-06-01T14:07:48Z,0,1,CLOSED
+octuple,fix: pass classnames to icons in base button,https://github.com/EightfoldAI/octuple/pull/159,2022-06-01T13:45:16Z,2022-06-01T15:22:12Z,0,2,MERGED
+octuple,fix: button: update default color scheme to use primary,https://github.com/EightfoldAI/octuple/pull/158,2022-06-01T00:04:06Z,2022-06-01T05:44:04Z,0,1,MERGED
+octuple,fix: slider: fixes collision detection in grid layouts,https://github.com/EightfoldAI/octuple/pull/429,2022-10-31T20:23:14Z,2022-11-01T16:12:16Z,2,3,MERGED
+octuple,feat: stat tabs: Add stat tabs component,https://github.com/EightfoldAI/octuple/pull/428,2022-10-28T22:45:46Z,2022-11-08T20:24:39Z,11,8,MERGED
+octuple,fix: search box: pressing enter key clears text when clearable is true,https://github.com/EightfoldAI/octuple/pull/427,2022-10-27T16:55:46Z,2022-10-27T22:14:10Z,4,4,MERGED
+octuple,feat: upload: add upload component,https://github.com/EightfoldAI/octuple/pull/426,2022-10-27T01:45:14Z,2022-10-27T17:34:10Z,1,7,MERGED
+octuple,fix: exports: adds progress size and avatar group to exports,https://github.com/EightfoldAI/octuple/pull/425,2022-10-19T18:46:41Z,2022-10-19T19:16:46Z,3,2,MERGED
+octuple,fix: form: add portal prop to tooltip to fix tooltip in modal,https://github.com/EightfoldAI/octuple/pull/424,2022-10-19T16:00:46Z,2022-10-19T16:45:04Z,1,4,MERGED
+octuple,fix: dropdown: remove force focus on portaled dropdown,https://github.com/EightfoldAI/octuple/pull/423,2022-10-19T15:45:09Z,2022-10-19T15:59:47Z,2,1,MERGED
+octuple,feat: avatar group: add the avatar group component,https://github.com/EightfoldAI/octuple/pull/422,2022-10-18T23:04:53Z,2022-10-19T17:42:32Z,5,6,MERGED
+octuple,fix: dropdown: remove inputRef from dropdown and use update method to fix position,https://github.com/EightfoldAI/octuple/pull/421,2022-10-13T11:41:36Z,2022-10-18T08:02:37Z,4,2,MERGED
+octuple,feat: progress: add progress component to octuple,https://github.com/EightfoldAI/octuple/pull/420,2022-10-13T01:37:36Z,2022-10-17T15:56:44Z,20,8,MERGED
+octuple,fix: select: adds html type to chevron button,https://github.com/EightfoldAI/octuple/pull/419,2022-10-12T21:11:37Z,2022-10-12T21:16:21Z,1,1,MERGED
+octuple,feat: adding rtl addon,https://github.com/EightfoldAI/octuple/pull/418,2022-10-12T19:04:49Z,2022-10-13T13:07:00Z,2,4,MERGED
+octuple,fix(dropdown): modify flip behavior for filterable Select,https://github.com/EightfoldAI/octuple/pull/417,2022-10-12T18:06:51Z,2022-10-12T19:36:35Z,4,2,MERGED
+octuple,fix: accordion: remove body top border on borderd false,https://github.com/EightfoldAI/octuple/pull/416,2022-10-11T09:56:19Z,2022-10-11T10:01:57Z,1,1,MERGED
+octuple,fix: overflow fix in the panel,https://github.com/EightfoldAI/octuple/pull/415,2022-10-11T09:12:02Z,2022-10-11T10:27:19Z,2,3,MERGED
+octuple,fix: panel: fix panel animation while closing,https://github.com/EightfoldAI/octuple/pull/414,2022-10-11T08:45:49Z,2022-10-11T09:09:02Z,2,2,MERGED
+octuple,Allow custom classNames for Card Octuple component,https://github.com/EightfoldAI/octuple/pull/413,2022-10-10T05:23:20Z,2022-10-18T23:42:39Z,4,6,MERGED
+octuple,fix: dialog focus trap and restore,https://github.com/EightfoldAI/octuple/pull/412,2022-10-07T09:31:40Z,2022-10-11T08:49:51Z,6,5,MERGED
+octuple,fix: card: custom card story ui polish,https://github.com/EightfoldAI/octuple/pull/411,2022-10-06T15:30:33Z,2022-10-06T15:43:54Z,1,1,MERGED
+octuple,"fix: picker: fix flicker on resize, update buttons, and font weight to match latest design",https://github.com/EightfoldAI/octuple/pull/410,2022-10-05T01:16:30Z,2022-10-05T15:04:29Z,2,2,MERGED
+octuple,chore: added useFocusTrap hook to focus inputs inside panel.,https://github.com/EightfoldAI/octuple/pull/409,2022-10-03T21:29:01Z,2022-10-05T17:53:45Z,15,10,MERGED
+octuple,feat: implementation of search box expandable,https://github.com/EightfoldAI/octuple/pull/408,2022-10-03T19:36:57Z,2022-10-13T20:27:12Z,19,15,MERGED
+octuple,"feat: panel: add localization support to Panel, InfoBar",https://github.com/EightfoldAI/octuple/pull/407,2022-10-03T19:22:43Z,2022-10-03T20:28:55Z,1,1,MERGED
+octuple,Initial implementation of the Card component for Octuple,https://github.com/EightfoldAI/octuple/pull/406,2022-10-03T15:28:39Z,2022-10-04T22:50:20Z,44,15,MERGED
+octuple,fix: a11y fixes in cases of portal dropdown,https://github.com/EightfoldAI/octuple/pull/405,2022-10-03T12:07:54Z,2022-10-07T18:58:49Z,5,4,MERGED
+octuple,feat: expandable text input implementation,https://github.com/EightfoldAI/octuple/pull/404,2022-10-02T20:48:36Z,2022-10-03T19:30:32Z,2,2,CLOSED
+octuple,fix: select: update when options change,https://github.com/EightfoldAI/octuple/pull/403,2022-10-01T00:04:59Z,2022-10-01T04:26:44Z,1,3,MERGED
+octuple,feat: dialog: add localization support to dialog,https://github.com/EightfoldAI/octuple/pull/402,2022-09-30T18:44:20Z,2022-09-30T18:59:56Z,1,3,MERGED
+octuple,feat(tabs): add underlined option to tabs,https://github.com/EightfoldAI/octuple/pull/401,2022-09-30T15:35:42Z,2022-09-30T17:33:42Z,2,1,MERGED
+octuple,feat: picker: add localization support to date and time pickers,https://github.com/EightfoldAI/octuple/pull/400,2022-09-30T00:54:46Z,2022-09-30T01:36:21Z,2,4,MERGED
+octuple,feat: pagination: add localization support to pagination,https://github.com/EightfoldAI/octuple/pull/399,2022-09-29T18:27:19Z,2022-09-30T01:11:35Z,1,2,MERGED
+octuple,fix: table: revert overflow css and update frCA strings,https://github.com/EightfoldAI/octuple/pull/398,2022-09-29T17:09:10Z,2022-09-29T17:16:12Z,1,2,MERGED
+octuple,feat: add shape and size prop for accordion,https://github.com/EightfoldAI/octuple/pull/397,2022-09-29T15:49:02Z,2022-09-29T16:52:51Z,4,2,MERGED
+octuple,feat: Enable readOnly for pills without buttons,https://github.com/EightfoldAI/octuple/pull/396,2022-09-28T23:40:21Z,2022-09-29T21:39:19Z,3,5,MERGED
+octuple,Pill component readOnly prop,https://github.com/EightfoldAI/octuple/pull/395,2022-09-28T23:03:09Z,2022-09-28T23:06:58Z,2,6,CLOSED
+octuple,"feat: table: Add loc support and column, cell css vertical alignment prop",https://github.com/EightfoldAI/octuple/pull/394,2022-09-28T19:26:38Z,2022-09-28T23:47:11Z,2,7,MERGED
+octuple,fix: table: add page sizes prop to table pagination,https://github.com/EightfoldAI/octuple/pull/393,2022-09-27T16:07:46Z,2022-09-27T16:48:18Z,1,10,MERGED
+octuple,fix: update snaps to fix broken build,https://github.com/EightfoldAI/octuple/pull/392,2022-09-27T06:43:31Z,2022-09-27T10:46:07Z,2,3,MERGED
+octuple,fix: table: add page sizes prop to table pagination,https://github.com/EightfoldAI/octuple/pull/391,2022-09-27T05:18:26Z,2022-09-27T15:44:08Z,3,0,CLOSED
+octuple,fix: panel add scrollLock prop and select handle 0 value,https://github.com/EightfoldAI/octuple/pull/390,2022-09-26T13:21:04Z,2022-09-27T06:25:40Z,3,5,MERGED
+octuple,fix: theme: fixes navbar and tabs configprovider theme,https://github.com/EightfoldAI/octuple/pull/389,2022-09-23T23:17:25Z,2022-09-24T03:56:54Z,2,1,MERGED
+octuple,fix: rtl: rtl ui polish,https://github.com/EightfoldAI/octuple/pull/387,2022-09-23T01:36:57Z,2022-09-23T16:54:46Z,2,3,MERGED
+octuple,fix: link: updates link story layout to account for link style flex removal,https://github.com/EightfoldAI/octuple/pull/385,2022-09-21T15:52:36Z,2022-09-21T16:10:58Z,2,1,MERGED
+octuple,Dkilgore eightfold/select improvements,https://github.com/EightfoldAI/octuple/pull/384,2022-09-21T00:31:49Z,2022-09-21T15:07:10Z,4,6,MERGED
+octuple,"feat: slider: update to theme two, adds custom labels, and update value on click",https://github.com/EightfoldAI/octuple/pull/383,2022-09-19T23:05:02Z,2022-09-20T17:51:10Z,6,2,MERGED
+octuple,fix: tooltip: adds two props to improve configuration of portal mode,https://github.com/EightfoldAI/octuple/pull/382,2022-09-16T20:11:30Z,2022-09-16T21:10:29Z,1,3,MERGED
+octuple,fix: remove flex style from link,https://github.com/EightfoldAI/octuple/pull/380,2022-09-15T08:51:40Z,2022-09-15T12:53:39Z,2,1,MERGED
+octuple,chore: co locate storyshots with the respective components,https://github.com/EightfoldAI/octuple/pull/379,2022-09-15T06:03:54Z,2022-09-15T15:41:29Z,2,2,MERGED
+octuple,feat: picker: add time picker story and loc string support to pickers,https://github.com/EightfoldAI/octuple/pull/378,2022-09-14T18:45:28Z,2022-09-15T04:18:32Z,2,4,MERGED
+octuple,fix: button: fixes floating icon button distortion in some versions of safari,https://github.com/EightfoldAI/octuple/pull/377,2022-09-13T23:18:10Z,2022-09-14T15:11:17Z,1,2,MERGED
+octuple,chore: type annotation cleanup,https://github.com/EightfoldAI/octuple/pull/376,2022-09-13T22:57:45Z,2022-09-14T15:11:05Z,2,3,MERGED
+octuple,fix: persistent bar: export buttontype and type cleanup,https://github.com/EightfoldAI/octuple/pull/373,2022-09-13T03:52:28Z,2022-09-13T16:25:57Z,2,2,MERGED
+octuple,fix: type annotation cleanup,https://github.com/EightfoldAI/octuple/pull/372,2022-09-13T00:04:49Z,2022-09-28T15:32:31Z,2,4,MERGED
+octuple,fix: panel: update the default shape of the header buttons to be round,https://github.com/EightfoldAI/octuple/pull/371,2022-09-12T23:55:55Z,2022-09-14T15:22:36Z,2,1,MERGED
+octuple,fix: pagination: update base props type from HTMLElement to HTMLDivElement,https://github.com/EightfoldAI/octuple/pull/370,2022-09-12T23:05:54Z,2022-09-12T23:58:30Z,1,1,CLOSED
+octuple,fix: config provider: export children prop type,https://github.com/EightfoldAI/octuple/pull/369,2022-09-12T20:44:45Z,2022-09-12T20:50:25Z,2,1,MERGED
+octuple,fix: config provider: export children prop type,https://github.com/EightfoldAI/octuple/pull/368,2022-09-12T20:42:04Z,2022-09-12T20:42:33Z,1,8,CLOSED
+octuple,feat: match score: add support for custom label,https://github.com/EightfoldAI/octuple/pull/367,2022-09-12T19:48:30Z,2022-09-22T15:22:35Z,3,7,MERGED
+octuple,feat: label: add support for custom buttons and type clean up,https://github.com/EightfoldAI/octuple/pull/366,2022-09-12T16:42:00Z,2022-09-12T18:22:16Z,3,3,MERGED
+octuple,feat: dialog: add dialog helper method to render dialogs with ease,https://github.com/EightfoldAI/octuple/pull/365,2022-09-12T14:30:00Z,2022-09-12T15:10:30Z,2,3,MERGED
+octuple,fix: selectors: add minor paddding in start align,https://github.com/EightfoldAI/octuple/pull/364,2022-09-12T09:11:39Z,2022-09-12T09:46:38Z,1,1,MERGED
+octuple,fix: table: adds type annotations and omits private transformColumns property,https://github.com/EightfoldAI/octuple/pull/363,2022-09-09T22:58:08Z,2022-09-12T08:02:47Z,2,2,MERGED
+octuple,fix: text input: removes unused interface omits a prop from text area and alphabetizes types,https://github.com/EightfoldAI/octuple/pull/362,2022-09-09T17:32:16Z,2022-09-09T19:36:23Z,2,16,MERGED
+octuple,fix: remove table data text overflow,https://github.com/EightfoldAI/octuple/pull/361,2022-09-09T13:07:58Z,2022-09-09T13:20:49Z,1,1,MERGED
+octuple,feat: adding support for 3 more icons,https://github.com/EightfoldAI/octuple/pull/360,2022-09-09T07:14:30Z,2022-09-09T08:40:14Z,2,3,MERGED
+octuple,feat: add Banner component,https://github.com/EightfoldAI/octuple/pull/358,2022-09-09T05:04:04Z,2022-09-24T00:38:41Z,2,1,CLOSED
+octuple,feat: add skeleton component,https://github.com/EightfoldAI/octuple/pull/357,2022-09-09T03:58:07Z,2022-09-12T07:56:14Z,5,3,MERGED
+octuple,fix: search box: icon button default htmltype should be button path should have a default,https://github.com/EightfoldAI/octuple/pull/356,2022-09-09T00:11:56Z,2022-09-09T16:19:47Z,3,14,MERGED
+octuple,fix: form: adds type annotations and sorts them renames one internal type,https://github.com/EightfoldAI/octuple/pull/355,2022-09-08T20:02:56Z,2022-09-08T20:40:16Z,1,7,MERGED
+octuple,fix: table: clip long table header text,https://github.com/EightfoldAI/octuple/pull/354,2022-09-08T17:09:51Z,2022-09-09T04:01:20Z,1,1,MERGED
+octuple,feat: selectors: add ability to vertically align label,https://github.com/EightfoldAI/octuple/pull/353,2022-09-08T16:35:41Z,2022-09-08T16:47:22Z,3,1,MERGED
+octuple,chore: remove peer dependencies,https://github.com/EightfoldAI/octuple/pull/351,2022-09-08T01:32:09Z,2022-09-08T15:09:39Z,8,7,MERGED
+octuple,chore: update browserlist,https://github.com/EightfoldAI/octuple/pull/350,2022-09-07T23:32:54Z,2022-09-08T14:18:00Z,2,1,MERGED
+octuple,fix: adjust peer dependencies,https://github.com/EightfoldAI/octuple/pull/349,2022-09-07T20:25:49Z,2022-09-07T23:27:45Z,2,2,CLOSED
+octuple,fix: date picker: adds type annotations and alphabetizes types,https://github.com/EightfoldAI/octuple/pull/348,2022-09-07T17:59:39Z,2022-09-07T19:52:42Z,1,4,MERGED
+octuple,fix: check box sizes,https://github.com/EightfoldAI/octuple/pull/347,2022-09-06T16:12:58Z,2022-09-06T16:28:43Z,1,1,MERGED
+octuple,fix: radio button size,https://github.com/EightfoldAI/octuple/pull/346,2022-09-06T12:59:02Z,2022-09-06T13:14:43Z,1,1,MERGED
+octuple,fix: update styles for table header and empty component,https://github.com/EightfoldAI/octuple/pull/345,2022-09-06T12:02:25Z,2022-09-06T15:52:33Z,1,1,MERGED
+octuple,fix: searchbox: set default shape to pill,https://github.com/EightfoldAI/octuple/pull/344,2022-09-03T08:33:45Z,2022-09-05T04:56:49Z,1,1,MERGED
+octuple,fix: dropdown: fix on click outside getting triggered on portaled dropdowns,https://github.com/EightfoldAI/octuple/pull/343,2022-09-03T08:30:14Z,2022-09-05T04:57:05Z,1,1,MERGED
+octuple,fix: dropdown: refactor and fix dropdown closing without triggering,https://github.com/EightfoldAI/octuple/pull/342,2022-09-03T07:47:20Z,2022-10-22T06:27:33Z,4,1,CLOSED
+octuple,fix: table: remove box shadow from bordered table,https://github.com/EightfoldAI/octuple/pull/341,2022-09-02T11:59:36Z,2022-09-03T03:58:18Z,1,1,MERGED
+octuple,"feat: dialog: add box shadows on scrollable content for modals, dialogs",https://github.com/EightfoldAI/octuple/pull/339,2022-09-01T13:51:29Z,2022-09-12T08:02:21Z,4,4,MERGED
+octuple,fix: stack: add ml size,https://github.com/EightfoldAI/octuple/pull/338,2022-09-01T10:06:05Z,2022-09-01T16:40:07Z,1,1,MERGED
+octuple,fix: dialog: update padding according to design guidelines,https://github.com/EightfoldAI/octuple/pull/337,2022-09-01T10:05:05Z,2022-09-01T16:40:20Z,1,1,MERGED
+octuple,fix: pills: fix allignment of text,https://github.com/EightfoldAI/octuple/pull/336,2022-09-01T10:04:41Z,2022-09-02T05:36:30Z,1,1,MERGED
+octuple,fix: select: removes portal property from tooltip and replace with position,https://github.com/EightfoldAI/octuple/pull/335,2022-08-31T23:24:59Z,2022-09-01T16:31:48Z,3,1,MERGED
+octuple,feat: select: add resizeobserver usemaxvisiblesections hook and dynamic pills,https://github.com/EightfoldAI/octuple/pull/334,2022-08-30T23:24:57Z,2022-08-31T02:12:12Z,2,14,MERGED
+octuple,"fix: modal: fix modal header to correct font size and weight, update icons to round",https://github.com/EightfoldAI/octuple/pull/333,2022-08-29T13:09:07Z,2022-08-30T13:59:49Z,3,1,MERGED
+octuple,feat: Add Loc support and Form component,https://github.com/EightfoldAI/octuple/pull/332,2022-08-27T02:02:07Z,2022-09-02T21:18:36Z,44,30,MERGED
+octuple,fix: menuitem: add no wrap so long text doesnt wrap to next line,https://github.com/EightfoldAI/octuple/pull/331,2022-08-26T07:58:13Z,2022-08-26T08:13:10Z,2,1,MERGED
+octuple,feat: add selfControlled prop to Pagination for indication of outside page control,https://github.com/EightfoldAI/octuple/pull/330,2022-08-25T18:56:26Z,2022-08-25T19:15:50Z,2,3,MERGED
+octuple,fix: table: increase border radius,https://github.com/EightfoldAI/octuple/pull/329,2022-08-25T12:07:32Z,2022-08-25T12:17:11Z,1,1,MERGED
+octuple,fix: text input color,https://github.com/EightfoldAI/octuple/pull/328,2022-08-25T10:50:07Z,2022-08-25T11:58:54Z,2,2,MERGED
+octuple,fix: menu: update menu min width and reduce font weight of menu item,https://github.com/EightfoldAI/octuple/pull/327,2022-08-25T09:20:50Z,2022-08-25T09:33:41Z,1,1,MERGED
+octuple,feat: add loading state in button and tabs,https://github.com/EightfoldAI/octuple/pull/326,2022-08-24T15:28:52Z,2022-08-24T19:24:18Z,3,6,MERGED
+octuple,fix: system ui button transparency fix,https://github.com/EightfoldAI/octuple/pull/325,2022-08-24T13:32:28Z,2022-08-24T15:04:34Z,1,1,MERGED
+octuple,fix: exporting header,https://github.com/EightfoldAI/octuple/pull/324,2022-08-24T10:02:31Z,2022-08-24T10:14:37Z,2,1,MERGED
+octuple,fix: select: fixes pills layout and removes redundant options change,https://github.com/EightfoldAI/octuple/pull/323,2022-08-23T01:53:29Z,2022-08-23T03:36:46Z,2,1,MERGED
+octuple,fix: update page as currentPage prop value updates,https://github.com/EightfoldAI/octuple/pull/322,2022-08-22T22:39:29Z,2022-08-23T23:36:04Z,1,1,MERGED
+octuple,fix: badge: fix font size,https://github.com/EightfoldAI/octuple/pull/321,2022-08-22T12:10:42Z,2022-08-22T14:44:13Z,1,2,MERGED
+octuple,feat: dropdown: add prop to disable closing on clicking outside,https://github.com/EightfoldAI/octuple/pull/320,2022-08-22T11:20:22Z,2022-08-22T11:30:08Z,1,1,MERGED
+octuple,chore: add a11y plugin to storybook,https://github.com/EightfoldAI/octuple/pull/319,2022-08-22T06:03:30Z,2022-08-22T14:22:50Z,2,1,MERGED
+octuple,feat: panel custom header,https://github.com/EightfoldAI/octuple/pull/318,2022-08-22T03:36:06Z,2022-08-24T07:10:31Z,13,17,MERGED
+octuple,fix: selectors: increase radio and checkbox paddings,https://github.com/EightfoldAI/octuple/pull/317,2022-08-19T16:11:43Z,2022-08-19T16:25:42Z,1,1,MERGED
+octuple,fix: table: remove left border from last fixed cell,https://github.com/EightfoldAI/octuple/pull/316,2022-08-19T13:53:30Z,2022-08-19T14:42:13Z,2,2,MERGED
+octuple,fix: menu: remove octuple chrome from menu and menu item,https://github.com/EightfoldAI/octuple/pull/315,2022-08-19T13:45:08Z,2022-08-19T14:38:50Z,1,3,MERGED
+octuple,fix: added fix for split btn icon,https://github.com/EightfoldAI/octuple/pull/314,2022-08-19T11:54:24Z,2022-08-19T12:23:17Z,2,2,MERGED
+octuple,fix: added transparency prop to system ui button,https://github.com/EightfoldAI/octuple/pull/313,2022-08-19T10:33:27Z,2022-08-19T13:26:29Z,6,6,MERGED
+octuple,fix: badge: fix badge font size,https://github.com/EightfoldAI/octuple/pull/312,2022-08-18T17:21:13Z,2022-08-22T12:15:12Z,2,1,CLOSED
+octuple,fix: table: remove background from a sorted row,https://github.com/EightfoldAI/octuple/pull/311,2022-08-18T17:15:22Z,2022-08-18T17:28:26Z,1,1,MERGED
+octuple,chore: fix storybook build static directory,https://github.com/EightfoldAI/octuple/pull/310,2022-08-17T13:39:42Z,2022-08-17T13:49:38Z,1,1,MERGED
+octuple,fix: safari tooltip disabled element fixes,https://github.com/EightfoldAI/octuple/pull/309,2022-08-16T13:52:13Z,2022-08-16T18:36:20Z,4,4,MERGED
+octuple,fix: selectors: fix selectors getting squished in certain scenarios part two,https://github.com/EightfoldAI/octuple/pull/308,2022-08-12T21:33:21Z,2022-08-12T22:40:10Z,2,2,MERGED
+octuple,fix: toggle: fix toggles getting squished in certain scenarios,https://github.com/EightfoldAI/octuple/pull/307,2022-08-12T20:59:26Z,2022-08-12T21:13:58Z,2,1,MERGED
+octuple,feat: tooltip: add sizes to tooltip,https://github.com/EightfoldAI/octuple/pull/306,2022-08-12T10:11:46Z,2022-08-12T16:36:25Z,4,3,MERGED
+octuple,fix: change default input and textarea shape to rectangle,https://github.com/EightfoldAI/octuple/pull/305,2022-08-12T10:04:44Z,2022-08-17T11:22:25Z,3,2,MERGED
+octuple,fix: select: export SelectShape and SelectSize,https://github.com/EightfoldAI/octuple/pull/304,2022-08-12T10:01:59Z,2022-08-12T16:27:27Z,1,1,MERGED
+octuple,fix: selectors: fix selectors getting squished in certain scenarios,https://github.com/EightfoldAI/octuple/pull/303,2022-08-12T08:03:50Z,2022-08-12T16:23:39Z,1,1,MERGED
+octuple,fix: select: cherry-pick fixes select clear when items are toggled from main,https://github.com/EightfoldAI/octuple/pull/302,2022-08-11T19:25:50Z,2022-08-11T19:32:35Z,1,1,MERGED
+octuple,fix: button: use configprovider focus visible styles,https://github.com/EightfoldAI/octuple/pull/301,2022-08-11T16:20:00Z,2022-08-11T16:36:36Z,2,2,MERGED
+octuple,fix: select: fixes select clear when items are toggled,https://github.com/EightfoldAI/octuple/pull/300,2022-08-11T02:43:10Z,2022-08-11T02:55:43Z,2,2,MERGED
+octuple,chore: add link to github clone documentation,https://github.com/EightfoldAI/octuple/pull/299,2022-08-10T22:00:24Z,2022-08-10T22:00:45Z,1,3,MERGED
+octuple,fix: node version adjustment,https://github.com/EightfoldAI/octuple/pull/298,2022-08-10T20:40:30Z,2022-08-10T20:45:07Z,1,2,MERGED
+octuple,chore: node version adjustment,https://github.com/EightfoldAI/octuple/pull/297,2022-08-10T18:54:02Z,2022-08-10T19:53:12Z,2,2,MERGED
+octuple,fix: searchbox: added form onSubmit prop,https://github.com/EightfoldAI/octuple/pull/296,2022-08-10T07:14:31Z,2022-08-10T07:51:51Z,3,3,MERGED
+octuple,fix: input: fixes rectangle shape for theme 2 input and textarea,https://github.com/EightfoldAI/octuple/pull/295,2022-08-10T03:46:02Z,2022-08-10T04:34:15Z,2,1,MERGED
+octuple,chore: configure codesandbox to build storybook,https://github.com/EightfoldAI/octuple/pull/294,2022-08-08T16:40:15Z,2022-08-09T12:13:55Z,4,7,CLOSED
+octuple,chore: configure codesandbox to buidl storybook,https://github.com/EightfoldAI/octuple/pull/293,2022-08-08T14:20:20Z,2022-08-08T15:12:52Z,2,5,CLOSED
+octuple,fix: navbar: revert scoped css resets to navbar component,https://github.com/EightfoldAI/octuple/pull/292,2022-08-07T07:37:35Z,2022-08-07T07:47:16Z,2,1,MERGED
+octuple,feat: add 12 column grid and layout components,https://github.com/EightfoldAI/octuple/pull/291,2022-08-07T01:55:13Z,2022-08-10T15:00:20Z,20,9,MERGED
+octuple,"feat: adds headerbuttonprops, headericon, bodypadding, and overlay props to surface ui",https://github.com/EightfoldAI/octuple/pull/290,2022-08-04T17:46:31Z,2022-08-11T08:39:56Z,7,5,MERGED
+octuple,fix: navbar: apply scoped css resets to navbar component (#288),https://github.com/EightfoldAI/octuple/pull/289,2022-08-04T05:02:28Z,2022-08-04T05:07:56Z,1,1,MERGED
+octuple,fix: navbar: apply scoped css resets to navbar component,https://github.com/EightfoldAI/octuple/pull/288,2022-08-04T04:37:19Z,2022-08-04T04:47:09Z,1,1,MERGED
+octuple,fix: package: fixes package install by cherry picking from main,https://github.com/EightfoldAI/octuple/pull/287,2022-08-03T22:47:55Z,2022-08-03T22:48:12Z,1,1,MERGED
+octuple,chore: cherry pick and port bug fixes from main,https://github.com/EightfoldAI/octuple/pull/286,2022-08-03T22:00:08Z,2022-08-03T22:09:08Z,0,3,MERGED
+octuple,fix: pagination: fix onCurrentChange event getting fired on change of total,https://github.com/EightfoldAI/octuple/pull/285,2022-08-03T07:35:46Z,2022-08-03T07:48:42Z,2,1,MERGED
+octuple,chore: cherry pick and port bug fixes from main,https://github.com/EightfoldAI/octuple/pull/284,2022-08-02T23:52:51Z,2022-08-03T00:05:26Z,1,12,MERGED
+octuple,fix: css: scope normalize css reset to octuple components,https://github.com/EightfoldAI/octuple/pull/283,2022-08-02T21:10:39Z,2022-08-02T22:11:14Z,4,3,MERGED
+octuple,fix: radio group: updates story implementation to scope selection states,https://github.com/EightfoldAI/octuple/pull/282,2022-08-02T19:00:45Z,2022-08-02T19:26:51Z,1,1,MERGED
+octuple,fix: match score: update logic for filled and half filled scores,https://github.com/EightfoldAI/octuple/pull/281,2022-08-02T09:16:59Z,2022-08-02T09:38:14Z,1,1,MERGED
+octuple,feat: system ui button: add system ui button,https://github.com/EightfoldAI/octuple/pull/280,2022-08-01T20:37:40Z,2022-08-01T22:11:01Z,2,2,MERGED
+octuple,fix: radiobutton: fixes width of radio element in flex when layout is constrained,https://github.com/EightfoldAI/octuple/pull/279,2022-08-01T18:48:02Z,2022-08-01T20:00:01Z,2,1,MERGED
+octuple,feat: codesandbox: adds basic codesandbox ci pr build config,https://github.com/EightfoldAI/octuple/pull/278,2022-08-01T17:19:18Z,2022-08-01T18:09:34Z,1,3,MERGED
+octuple,feat: Adding new MDI icons ,https://github.com/EightfoldAI/octuple/pull/481,2022-12-28T16:56:39Z,2022-12-28T18:01:54Z,3,1,MERGED
+octuple,fix: logical fixes in Pagination component,https://github.com/EightfoldAI/octuple/pull/479,2022-12-26T10:43:50Z,2023-01-06T18:15:53Z,3,5,MERGED
+octuple,fix: skeleton: use lighter colors in skeleton,https://github.com/EightfoldAI/octuple/pull/478,2022-12-26T10:21:23Z,2022-12-28T14:18:03Z,2,1,MERGED
+octuple,fix: twoStateButton: vertical align counter,https://github.com/EightfoldAI/octuple/pull/477,2022-12-26T09:53:18Z,2022-12-28T14:18:19Z,2,1,MERGED
+octuple,chore(release): 2.20.3,https://github.com/EightfoldAI/octuple/pull/476,2022-12-22T16:43:08Z,2022-12-22T16:50:39Z,1,1,MERGED
+octuple,feat: second icon on button,https://github.com/EightfoldAI/octuple/pull/475,2022-12-20T09:53:19Z,2023-01-03T17:23:53Z,8,6,MERGED
+octuple,feat: make focus highlighting varTheme friendly,https://github.com/EightfoldAI/octuple/pull/474,2022-12-19T22:01:03Z,2022-12-20T01:17:26Z,2,2,MERGED
+octuple,fix: only generate a unique id once,https://github.com/EightfoldAI/octuple/pull/472,2022-12-19T09:34:57Z,2022-12-19T14:55:39Z,4,2,MERGED
+octuple,feat: stepper: adds stepper component,https://github.com/EightfoldAI/octuple/pull/471,2022-12-17T01:26:06Z,2023-01-09T18:47:42Z,8,5,MERGED
+octuple,"fix: remove padding from borderless stat-tabs, extend varTheme",https://github.com/EightfoldAI/octuple/pull/470,2022-12-16T14:53:47Z,2022-12-19T13:48:59Z,4,4,MERGED
+octuple,fix: update git-blame-ignore-revs to correct commit hash,https://github.com/EightfoldAI/octuple/pull/469,2022-12-15T22:47:28Z,2022-12-15T22:53:34Z,1,1,MERGED
+octuple,fix: switch to two space indent,https://github.com/EightfoldAI/octuple/pull/468,2022-12-15T20:49:50Z,2022-12-15T22:23:49Z,1,4,MERGED
+octuple,feat: add support for autocomplete attribute to TextInput and SearchBox,https://github.com/EightfoldAI/octuple/pull/467,2022-12-15T17:23:33Z,2022-12-15T17:58:00Z,1,1,MERGED
+octuple,feat: extend var theming implementation,https://github.com/EightfoldAI/octuple/pull/465,2022-12-15T04:13:09Z,2022-12-15T04:43:55Z,3,4,MERGED
+octuple,fix: added position left on expandable search,https://github.com/EightfoldAI/octuple/pull/463,2022-12-12T17:31:46Z,2022-12-13T06:24:27Z,1,1,MERGED
+octuple,Expd search pos fix,https://github.com/EightfoldAI/octuple/pull/462,2022-12-12T17:26:31Z,2022-12-12T17:26:36Z,1,8,CLOSED
+octuple,Expandable search fix,https://github.com/EightfoldAI/octuple/pull/461,2022-12-12T17:08:37Z,2022-12-12T17:09:10Z,1,8,CLOSED
+octuple,fix: carousel and tabs: exports carousel slide and tab size,https://github.com/EightfoldAI/octuple/pull/460,2022-12-12T15:48:20Z,2022-12-12T16:02:24Z,1,1,MERGED
+octuple,fix: export stats tab,https://github.com/EightfoldAI/octuple/pull/459,2022-12-12T08:18:25Z,2022-12-12T08:34:30Z,1,1,MERGED
+octuple,feat: add new material design icons,https://github.com/EightfoldAI/octuple/pull/458,2022-12-12T06:57:42Z,2022-12-12T07:39:37Z,2,1,MERGED
+octuple,fix: pill: fixes pill button hover and active styles to inherit from pill,https://github.com/EightfoldAI/octuple/pull/457,2022-12-10T00:05:19Z,2022-12-10T00:19:58Z,2,1,MERGED
+octuple,feat: extend navbar theming,https://github.com/EightfoldAI/octuple/pull/456,2022-12-09T19:54:28Z,2022-12-09T20:23:40Z,2,1,MERGED
+octuple,feat: tabs: Add support for large medium and small sizes to pill variant,https://github.com/EightfoldAI/octuple/pull/455,2022-12-09T00:45:36Z,2022-12-09T22:43:31Z,3,4,MERGED
+octuple,fix: table: updates large size insets so they are not the same as medium,https://github.com/EightfoldAI/octuple/pull/454,2022-12-08T22:41:52Z,2022-12-09T22:53:39Z,2,2,MERGED
+octuple,"fix: datepicker: refine animations, updates icon buttons to round and  fixes today and week styles",https://github.com/EightfoldAI/octuple/pull/453,2022-12-08T19:38:05Z,2022-12-08T21:48:56Z,3,1,MERGED
+octuple,fix: input border color,https://github.com/EightfoldAI/octuple/pull/452,2022-12-08T04:33:02Z,2022-12-14T02:51:16Z,5,8,MERGED
+octuple,fix: slider: slider track width when isrange and showmarkers false and values intersect,https://github.com/EightfoldAI/octuple/pull/449,2022-12-07T00:44:30Z,2022-12-07T15:58:30Z,2,1,MERGED
+octuple,feat: carousel: add carousel component,https://github.com/EightfoldAI/octuple/pull/448,2022-12-06T19:42:31Z,2022-12-09T22:35:34Z,14,6,MERGED
+octuple,feat: varTheme based theming,https://github.com/EightfoldAI/octuple/pull/446,2022-12-02T20:16:21Z,2022-12-05T19:48:59Z,6,5,MERGED
+octuple,Adding MDI icons,https://github.com/EightfoldAI/octuple/pull/445,2022-11-21T16:32:18Z,2022-11-21T16:48:38Z,2,1,MERGED
+octuple,feat: add menu subtext,https://github.com/EightfoldAI/octuple/pull/444,2022-11-21T14:50:00Z,2022-11-23T12:57:03Z,3,5,MERGED
+octuple,fix: changed mouse event on table row hover,https://github.com/EightfoldAI/octuple/pull/443,2022-11-18T10:15:16Z,2022-11-21T09:10:51Z,2,4,MERGED
+octuple,Added Checkbox on header column,https://github.com/EightfoldAI/octuple/pull/442,2022-11-17T19:11:52Z,2022-11-18T06:37:25Z,2,4,CLOSED
+octuple,fix: added row key,https://github.com/EightfoldAI/octuple/pull/441,2022-11-17T13:10:58Z,2022-11-17T16:55:13Z,2,1,MERGED
+octuple,fix: security: dependabot audit deps fixup and upgrade vulnerable packages part two,https://github.com/EightfoldAI/octuple/pull/440,2022-11-16T04:41:46Z,2022-11-16T16:48:57Z,2,2,MERGED
+octuple,fix: table: updates use selection hook selectors to have ids by row key,https://github.com/EightfoldAI/octuple/pull/439,2022-11-15T21:51:13Z,2022-11-16T23:42:10Z,1,2,MERGED
+octuple,fix: security: dependabot audit deps fixup and upgrade vulnerable packages,https://github.com/EightfoldAI/octuple/pull/437,2022-11-15T20:23:47Z,2022-11-15T21:16:40Z,2,2,MERGED
+octuple,feat: table: add on row hover event,https://github.com/EightfoldAI/octuple/pull/436,2022-11-15T10:41:36Z,2022-11-15T16:30:00Z,2,3,MERGED
+octuple,feat: using React.ReactNode as content type in InfoBar and Snackbar,https://github.com/EightfoldAI/octuple/pull/435,2022-11-15T01:02:31Z,2022-11-16T04:43:05Z,1,3,MERGED
+octuple,fix: pagination: fixes pagination aria attributes,https://github.com/EightfoldAI/octuple/pull/433,2022-11-07T21:28:30Z,2022-11-07T21:38:36Z,1,1,MERGED
+octuple,feat: slider: Add inline extremity label position option,https://github.com/EightfoldAI/octuple/pull/432,2022-11-07T19:58:40Z,2022-11-07T22:15:04Z,3,3,MERGED
+octuple,"feat: slider: add custom marker, dots, hide thumb, tooltip, read only support",https://github.com/EightfoldAI/octuple/pull/431,2022-11-03T18:45:10Z,2022-11-03T21:04:18Z,2,2,MERGED
+octuple,feat: pagination: add ability to hide last page,https://github.com/EightfoldAI/octuple/pull/430,2022-11-03T11:21:02Z,2022-11-03T16:19:00Z,2,1,MERGED
+octuple,fix: storybook: fixes null ref error on var theme,https://github.com/EightfoldAI/octuple/pull/578,2023-03-30T22:08:47Z,2023-03-30T23:51:19Z,1,1,MERGED
+octuple,fix: slider: pixel push extremity labels to better match thumb label position,https://github.com/EightfoldAI/octuple/pull/577,2023-03-28T21:47:07Z,2023-04-04T15:52:16Z,2,2,MERGED
+octuple,fix: usescrolllock: adds getscrollbarwidth and padding by direction to avoid shake,https://github.com/EightfoldAI/octuple/pull/576,2023-03-28T17:44:10Z,2023-03-30T22:55:22Z,2,1,CLOSED
+octuple,feat: avatar: add avatar popup and fix group tooltips,https://github.com/EightfoldAI/octuple/pull/575,2023-03-28T01:34:07Z,2023-03-31T16:56:43Z,5,13,MERGED
+octuple,Add new alarm icon.,https://github.com/EightfoldAI/octuple/pull/573,2023-03-27T05:01:14Z,2023-03-28T09:36:24Z,2,1,MERGED
+octuple,fix: tooltip: fixes pixel position rounding error,https://github.com/EightfoldAI/octuple/pull/572,2023-03-21T17:17:25Z,2023-03-21T23:24:57Z,2,3,MERGED
+octuple,fix: no scolling buttons,https://github.com/EightfoldAI/octuple/pull/571,2023-03-21T13:17:14Z,2023-03-21T14:27:13Z,2,2,MERGED
+octuple,fix: select: options change not reacting properly when value is an object,https://github.com/EightfoldAI/octuple/pull/570,2023-03-21T01:14:30Z,2023-03-21T22:08:10Z,2,3,MERGED
+octuple,fix: panel: body padding prop on panel does not work,https://github.com/EightfoldAI/octuple/pull/569,2023-03-20T22:28:56Z,2023-03-22T15:20:06Z,2,5,MERGED
+octuple,fix: carousel: only handle wheel event when not using touchpad,https://github.com/EightfoldAI/octuple/pull/568,2023-03-20T22:03:18Z,2023-03-21T00:21:08Z,1,2,MERGED
+octuple,"fix: status item styles, add option to place status icon before status text",https://github.com/EightfoldAI/octuple/pull/567,2023-03-20T04:54:08Z,2023-03-23T08:18:09Z,6,11,MERGED
+octuple,feat: cascadingmenu: add cascading menu component,https://github.com/EightfoldAI/octuple/pull/566,2023-03-16T19:19:39Z,2023-03-21T23:37:49Z,2,4,MERGED
+octuple,feat: menuitem: adds align icon prop and fixes list item rendering bug,https://github.com/EightfoldAI/octuple/pull/563,2023-03-11T03:50:10Z,2023-03-16T16:55:31Z,11,12,MERGED
+octuple,fix: adjust navbar colors to match design system,https://github.com/EightfoldAI/octuple/pull/561,2023-03-08T22:10:58Z,2023-03-08T22:47:12Z,3,4,MERGED
+octuple,Avatar status item text and tooltip support,https://github.com/EightfoldAI/octuple/pull/560,2023-03-07T05:24:52Z,2023-03-14T05:35:47Z,12,13,MERGED
+octuple,fix: upload: adds deferred api story and exports type,https://github.com/EightfoldAI/octuple/pull/559,2023-03-06T23:46:58Z,2023-03-08T00:00:20Z,3,4,MERGED
+octuple,feat: setup dark theme,https://github.com/EightfoldAI/octuple/pull/558,2023-03-06T05:10:56Z,2024-06-17T22:23:36Z,11,24,CLOSED
+octuple,fix: carousel: update wheel handler,https://github.com/EightfoldAI/octuple/pull/557,2023-03-01T17:50:43Z,2023-03-01T22:42:28Z,1,2,MERGED
+octuple,feat: table: show scroller on table rows,https://github.com/EightfoldAI/octuple/pull/556,2023-02-27T13:37:12Z,2023-02-28T16:23:49Z,3,5,MERGED
+octuple,feat: configprovider: update context then add locale story and unit tests,https://github.com/EightfoldAI/octuple/pull/555,2023-02-25T02:22:30Z,2023-02-27T18:32:49Z,2,4,MERGED
+octuple,chore: actions: update how the tag version is defined using workflow run,https://github.com/EightfoldAI/octuple/pull/554,2023-02-24T21:34:29Z,2023-02-24T22:44:14Z,2,1,MERGED
+octuple,fix: popup: do not toggle when no content or disabled,https://github.com/EightfoldAI/octuple/pull/553,2023-02-24T20:07:46Z,2023-02-24T20:15:32Z,1,1,MERGED
+octuple,chore: actions: update node env for publish alerts,https://github.com/EightfoldAI/octuple/pull/552,2023-02-24T01:53:40Z,2023-02-24T18:32:34Z,1,1,MERGED
+octuple,fix: menulinks: fix font weight,https://github.com/EightfoldAI/octuple/pull/551,2023-02-23T06:10:51Z,2023-02-23T06:29:07Z,2,1,MERGED
+octuple,feat: Spaced avatar group style,https://github.com/EightfoldAI/octuple/pull/550,2023-02-23T05:57:55Z,2023-03-02T05:37:45Z,10,10,MERGED
+octuple,chore: icon: adds unit tests,https://github.com/EightfoldAI/octuple/pull/549,2023-02-23T00:34:55Z,2023-02-24T01:41:55Z,2,4,MERGED
+octuple,fix: infobar: buttons should have transparent background and inherit color,https://github.com/EightfoldAI/octuple/pull/548,2023-02-22T23:40:48Z,2023-02-24T01:09:10Z,2,3,MERGED
+octuple,fix: nudge: removes unnecessary border calculations in css,https://github.com/EightfoldAI/octuple/pull/547,2023-02-22T22:19:09Z,2023-02-22T22:49:03Z,3,1,MERGED
+octuple,fix: stepper: Handle decimal scrollLeft value for scroll buttons,https://github.com/EightfoldAI/octuple/pull/546,2023-02-22T19:32:14Z,2023-02-23T08:18:52Z,4,5,MERGED
+octuple,fix: select: improves select by adding props and enabling default value array,https://github.com/EightfoldAI/octuple/pull/545,2023-02-22T01:46:51Z,2023-02-23T16:29:39Z,3,8,MERGED
+octuple,fix: skeleton: ensure wave overflow is hidden in safari browser,https://github.com/EightfoldAI/octuple/pull/544,2023-02-21T21:32:50Z,2023-02-22T17:08:23Z,1,1,MERGED
+octuple,feat: popup: adds popup component,https://github.com/EightfoldAI/octuple/pull/543,2023-02-21T18:38:19Z,2023-02-23T16:40:29Z,3,5,MERGED
+octuple,chore: actions: including prerelease checkout and run steps in slack workflow,https://github.com/EightfoldAI/octuple/pull/542,2023-02-14T19:44:44Z,2023-02-22T23:36:02Z,1,3,MERGED
+octuple,fix: link: isolate css display inline block to variants other than default,https://github.com/EightfoldAI/octuple/pull/541,2023-02-14T17:11:40Z,2023-02-14T18:36:32Z,3,1,MERGED
+octuple,feat: add secondary button in menu item,https://github.com/EightfoldAI/octuple/pull/540,2023-02-13T13:08:21Z,2023-02-14T10:16:35Z,5,3,MERGED
+octuple,feat: Avatar status icons,https://github.com/EightfoldAI/octuple/pull/539,2023-02-13T06:08:57Z,2023-02-23T06:36:01Z,28,12,MERGED
+octuple,fix: do not provide default colors for ConfigProvider,https://github.com/EightfoldAI/octuple/pull/538,2023-02-08T20:45:59Z,2023-02-09T17:29:33Z,2,1,MERGED
+octuple,feat: carousel: add single prop and update api to support single item scroll,https://github.com/EightfoldAI/octuple/pull/537,2023-02-07T23:51:05Z,2023-02-18T00:30:30Z,4,4,MERGED
+octuple,feat: link: adds variants with var theme styles and improves api,https://github.com/EightfoldAI/octuple/pull/535,2023-02-03T18:23:45Z,2023-02-13T16:06:33Z,2,9,MERGED
+octuple,"Revert ""feat: link: adds variants with var theme styles and improves api (#531)",https://github.com/EightfoldAI/octuple/pull/534,2023-02-03T14:01:30Z,2023-02-03T14:23:19Z,2,1,MERGED
+octuple,chore: fix publish alert workflow,https://github.com/EightfoldAI/octuple/pull/533,2023-02-03T11:59:04Z,2023-02-03T14:23:31Z,2,1,MERGED
+octuple,fix: input: ensure id passed from props does not append uuid,https://github.com/EightfoldAI/octuple/pull/532,2023-02-02T20:15:07Z,2023-02-07T17:17:02Z,1,4,MERGED
+octuple,feat: link: adds variants with var theme styles and improves api,https://github.com/EightfoldAI/octuple/pull/531,2023-02-02T19:04:00Z,2023-02-02T22:55:18Z,5,3,MERGED
+octuple,feat: add subtext in link menu item,https://github.com/EightfoldAI/octuple/pull/530,2023-02-02T05:26:12Z,2023-02-02T16:37:41Z,2,2,MERGED
+octuple,feat: slider: enable basic data comparison slider implementations,https://github.com/EightfoldAI/octuple/pull/529,2023-02-02T00:50:24Z,2023-02-08T01:58:25Z,4,7,MERGED
+octuple,chore: actions: adds build job to octuple publish alerts,https://github.com/EightfoldAI/octuple/pull/528,2023-02-01T19:37:45Z,2023-02-01T21:06:51Z,2,1,MERGED
+octuple,chore: button: ensure inner z index are scoped to button only,https://github.com/EightfoldAI/octuple/pull/527,2023-02-01T17:59:24Z,2023-02-01T18:17:21Z,1,1,MERGED
+octuple,feat: extend css var implementation ,https://github.com/EightfoldAI/octuple/pull/526,2023-02-01T17:01:38Z,2023-02-01T17:29:11Z,2,3,MERGED
+octuple,fix: button: update button loader z index to map to updated layout with nudge option,https://github.com/EightfoldAI/octuple/pull/525,2023-02-01T16:30:25Z,2023-02-01T16:48:25Z,1,2,MERGED
+octuple,fix: css modules: moves keyframes into modules reducing dupes and compiled css size,https://github.com/EightfoldAI/octuple/pull/524,2023-01-31T19:59:44Z,2023-01-31T21:38:35Z,1,1,MERGED
+octuple,fix: picker: ensure keyboard navigation selected styles are implemented in year mode,https://github.com/EightfoldAI/octuple/pull/523,2023-01-31T18:36:09Z,2023-02-01T16:56:16Z,2,2,MERGED
+octuple,"Revert ""chore(release): 2.24.0""",https://github.com/EightfoldAI/octuple/pull/522,2023-01-31T16:19:50Z,2023-01-31T16:22:04Z,1,1,CLOSED
+octuple,chore: fix publish workflow,https://github.com/EightfoldAI/octuple/pull/521,2023-01-31T16:07:27Z,2023-01-31T16:25:09Z,1,3,MERGED
+octuple,fix: slider: update state when value changes externally,https://github.com/EightfoldAI/octuple/pull/520,2023-01-30T17:47:13Z,2023-01-30T20:06:59Z,1,3,MERGED
+octuple,fix: preserve case in Select,https://github.com/EightfoldAI/octuple/pull/519,2023-01-30T04:39:53Z,2023-02-03T04:28:06Z,3,6,MERGED
+octuple,fix: badge: updates color palette to match the latest design and improves accessibility,https://github.com/EightfoldAI/octuple/pull/518,2023-01-27T20:09:52Z,2023-01-30T19:30:24Z,2,2,MERGED
+octuple,feat: optionally show empty dropdown,https://github.com/EightfoldAI/octuple/pull/517,2023-01-27T12:53:53Z,2023-02-02T08:11:15Z,5,4,MERGED
+octuple,fix: infobar: updates the default role prop value to alert,https://github.com/EightfoldAI/octuple/pull/516,2023-01-26T19:06:37Z,2023-01-26T19:56:25Z,2,2,MERGED
+octuple,fix: pill: handle jsx when lineclamp is null or zero,https://github.com/EightfoldAI/octuple/pull/515,2023-01-26T18:29:06Z,2023-01-26T18:39:52Z,2,1,MERGED
+octuple,feat: button: adds button nudge animation,https://github.com/EightfoldAI/octuple/pull/513,2023-01-26T00:43:12Z,2023-01-27T03:57:33Z,6,7,MERGED
+octuple,fix: dropdown now stays within the viewport,https://github.com/EightfoldAI/octuple/pull/512,2023-01-25T09:00:53Z,2023-01-26T17:40:23Z,2,1,MERGED
+octuple,feat: pill text ellipse,https://github.com/EightfoldAI/octuple/pull/511,2023-01-25T08:41:28Z,2023-01-26T17:47:26Z,2,3,MERGED
+octuple,feat: pill: enable white theme and custom close icon,https://github.com/EightfoldAI/octuple/pull/510,2023-01-23T20:20:56Z,2023-01-23T21:16:06Z,1,3,MERGED
+octuple,fix: pagination: disable next button only when current page is equal to total page count,https://github.com/EightfoldAI/octuple/pull/509,2023-01-23T19:24:14Z,2023-01-23T19:37:46Z,2,2,MERGED
+octuple,chore: table: normalize aria label property name and add locs,https://github.com/EightfoldAI/octuple/pull/508,2023-01-19T19:00:21Z,2023-01-19T19:17:39Z,3,1,MERGED
+octuple,feat: scroller for horizontally scrollable table,https://github.com/EightfoldAI/octuple/pull/507,2023-01-18T16:32:17Z,2023-01-19T16:24:54Z,11,4,MERGED
+octuple,feat: Add new icons,https://github.com/EightfoldAI/octuple/pull/506,2023-01-18T09:00:49Z,2023-01-18T15:52:01Z,3,1,MERGED
+octuple,feat: stepper: adds show active step index prop,https://github.com/EightfoldAI/octuple/pull/505,2023-01-18T00:16:10Z,2023-01-18T16:11:05Z,2,2,MERGED
+octuple,feat: stepper: adds timeline variant,https://github.com/EightfoldAI/octuple/pull/504,2023-01-13T23:03:37Z,2023-01-17T17:02:17Z,6,5,MERGED
+octuple,chore: actions: make codecov optional and move publish alerts to separate action,https://github.com/EightfoldAI/octuple/pull/502,2023-01-11T18:19:48Z,2023-01-27T17:57:08Z,2,3,MERGED
+octuple,fix: infobar: close icon button should be round,https://github.com/EightfoldAI/octuple/pull/500,2023-01-11T16:54:26Z,2023-01-11T17:25:08Z,2,2,MERGED
+octuple,fix: inputs: border color used for inputs is not a11y friendly,https://github.com/EightfoldAI/octuple/pull/499,2023-01-11T02:02:53Z,2023-01-11T02:18:47Z,3,3,MERGED
+octuple,fix: selectors: adds null value check to checkbox group onchange,https://github.com/EightfoldAI/octuple/pull/497,2023-01-09T23:10:49Z,2023-01-10T16:56:20Z,3,3,MERGED
+octuple,"fix: configprovider: export OcThemeNames from a better location, rename to OcThemeName",https://github.com/EightfoldAI/octuple/pull/495,2023-01-05T19:00:42Z,2023-01-05T21:21:19Z,2,1,MERGED
+octuple,fix: carousel: arrow blinks when its edge meets window edge,https://github.com/EightfoldAI/octuple/pull/494,2023-01-05T18:08:45Z,2023-01-05T21:40:14Z,1,2,MERGED
+octuple,fix: table: groups header right border on last element in n+1 rows is 0 when bordered prop is true,https://github.com/EightfoldAI/octuple/pull/492,2023-01-05T00:54:08Z,2023-01-09T18:34:08Z,5,5,MERGED
+octuple,"fix: watch extra item width, padding and line to show for useMaxVisibleSections hook",https://github.com/EightfoldAI/octuple/pull/491,2023-01-04T08:42:35Z,2023-01-04T15:53:13Z,3,2,MERGED
+octuple,fix: carousel: limit auto scroll to x axis only,https://github.com/EightfoldAI/octuple/pull/490,2023-01-04T02:44:26Z,2023-01-04T02:51:13Z,1,1,MERGED
+octuple,fix: upload: fixes rendering error caused by hooks in class component uid utility regression,https://github.com/EightfoldAI/octuple/pull/488,2023-01-04T00:50:49Z,2023-01-04T00:57:27Z,1,2,MERGED
+octuple,"fix: pagination: updates border css property to outline, fixing pixel shift regression",https://github.com/EightfoldAI/octuple/pull/487,2023-01-04T00:18:43Z,2023-01-04T00:47:40Z,1,1,MERGED
+octuple,feat: stat tabs: enable stat themes by validation status,https://github.com/EightfoldAI/octuple/pull/486,2023-01-03T23:49:17Z,2023-01-03T23:56:39Z,3,1,MERGED
+octuple,fix: picker: fixes trigger hide animation curves and updates slide out animations,https://github.com/EightfoldAI/octuple/pull/485,2023-01-03T20:09:15Z,2023-01-03T22:04:35Z,1,1,MERGED
+octuple,fix: label: exposes all tooltip props and fixes hover pixel shift,https://github.com/EightfoldAI/octuple/pull/484,2023-01-03T19:36:05Z,2023-01-03T22:21:36Z,3,3,MERGED
+octuple,feat: stack: use flex gap instead of margins,https://github.com/EightfoldAI/octuple/pull/483,2023-01-03T16:38:15Z,2023-01-03T17:27:20Z,2,2,MERGED
+octuple,fix: input: expandable search overlay zindex,https://github.com/EightfoldAI/octuple/pull/482,2023-01-03T10:14:21Z,2023-01-03T10:24:59Z,1,1,MERGED
+octuple,feat: rename background-color to background,https://github.com/EightfoldAI/octuple/pull/628,2023-05-25T20:24:59Z,2023-05-30T14:34:46Z,1,3,MERGED
+octuple,fix: table: fix loading compare and updates default spinner size and position,https://github.com/EightfoldAI/octuple/pull/627,2023-05-24T21:52:10Z,2023-05-31T15:29:30Z,2,4,MERGED
+octuple,fix: pill: ensure pill heights match latest design specification,https://github.com/EightfoldAI/octuple/pull/626,2023-05-24T17:43:02Z,2023-05-31T16:36:52Z,4,4,MERGED
+octuple,fix: css: global css variable name alignment with design specification,https://github.com/EightfoldAI/octuple/pull/625,2023-05-23T23:10:01Z,2023-05-25T21:10:28Z,5,2,MERGED
+octuple,feat: table: adds column border and disable row bg hover color props,https://github.com/EightfoldAI/octuple/pull/624,2023-05-22T23:58:00Z,2023-06-01T16:43:59Z,5,4,MERGED
+octuple,feat: messagebar: add message bar component,https://github.com/EightfoldAI/octuple/pull/622,2023-05-18T22:18:37Z,2023-05-24T16:49:35Z,3,6,MERGED
+octuple,chore: css: organize and annotate global variables,https://github.com/EightfoldAI/octuple/pull/621,2023-05-18T00:02:59Z,2023-05-22T17:53:45Z,2,2,MERGED
+octuple,feat: empty: enable themes and adds two additional modes,https://github.com/EightfoldAI/octuple/pull/619,2023-05-16T23:00:01Z,2023-05-17T15:54:36Z,1,2,MERGED
+octuple,fix: dropdown: tweak css slideupin animation,https://github.com/EightfoldAI/octuple/pull/618,2023-05-15T21:18:14Z,2023-05-16T16:10:28Z,1,2,MERGED
+octuple,fix: dropdown: fix visible prop,https://github.com/EightfoldAI/octuple/pull/616,2023-05-11T22:18:29Z,2023-05-17T15:03:07Z,2,4,MERGED
+octuple,Merge main into dev,https://github.com/EightfoldAI/octuple/pull/615,2023-05-10T00:53:53Z,2023-05-10T14:59:17Z,1,8,MERGED
+octuple,fix: button: pass disruptive down from props to button from defaultbutton,https://github.com/EightfoldAI/octuple/pull/614,2023-05-10T00:16:18Z,2023-05-10T00:34:40Z,2,2,MERGED
+octuple,fix: stepper: prevent vertical scrollIntoView on mount,https://github.com/EightfoldAI/octuple/pull/613,2023-05-09T09:19:21Z,2023-05-09T09:34:22Z,1,2,MERGED
+octuple,fix: select: ensure aria attributes target the intended element,https://github.com/EightfoldAI/octuple/pull/612,2023-05-04T20:33:30Z,2023-05-04T22:01:19Z,1,3,MERGED
+octuple,chore: systemuibutton: pass transparent down via props,https://github.com/EightfoldAI/octuple/pull/611,2023-05-03T18:30:28Z,2023-05-03T18:38:50Z,1,2,MERGED
+octuple,fix: pagination: Issues with VisiblePagerCountSize,https://github.com/EightfoldAI/octuple/pull/610,2023-05-02T13:05:06Z,2023-05-03T18:04:21Z,5,1,MERGED
+octuple,fix: pagination: Issues with visiblePagerCountSize,https://github.com/EightfoldAI/octuple/pull/609,2023-05-02T12:47:33Z,2023-05-02T13:01:53Z,2,0,CLOSED
+octuple,fix: dropdown: use id from clone element props if present,https://github.com/EightfoldAI/octuple/pull/608,2023-05-01T22:11:05Z,2023-05-03T15:03:19Z,4,5,MERGED
+octuple,feat: linkbutton: add link button component,https://github.com/EightfoldAI/octuple/pull/607,2023-04-27T23:40:11Z,2023-05-01T20:01:40Z,4,6,MERGED
+octuple,feat: adding style option for Empty description,https://github.com/EightfoldAI/octuple/pull/606,2023-04-26T14:55:12Z,2023-04-26T16:19:41Z,2,3,MERGED
+octuple,fix: accordion: custom theme support,https://github.com/EightfoldAI/octuple/pull/605,2023-04-24T21:43:58Z,2023-04-24T22:23:39Z,1,2,MERGED
+octuple,"fix(avatar group): avatar group count, maxProps fixes",https://github.com/EightfoldAI/octuple/pull/604,2023-04-24T19:31:56Z,2023-04-24T20:25:58Z,4,3,MERGED
+octuple,fix: locale: add support for hi locale,https://github.com/EightfoldAI/octuple/pull/602,2023-04-20T22:32:03Z,2023-05-16T16:45:38Z,2,5,MERGED
+octuple,chore: tooltip: add disabled unit test verifying clickable element,https://github.com/EightfoldAI/octuple/pull/601,2023-04-20T17:18:21Z,2023-04-20T17:31:19Z,2,1,MERGED
+octuple,fix: tooltip: remove pointer events property of disabled styling,https://github.com/EightfoldAI/octuple/pull/600,2023-04-17T17:03:49Z,2023-04-17T17:11:14Z,1,1,MERGED
+octuple,Adding Icons for Extension Refresh,https://github.com/EightfoldAI/octuple/pull/598,2023-04-14T12:59:24Z,2023-04-14T13:03:08Z,1,2,CLOSED
+octuple,chore: icons: Add new icons,https://github.com/EightfoldAI/octuple/pull/597,2023-04-14T12:45:41Z,2023-04-17T06:22:28Z,3,2,MERGED
+octuple,fix: upload: adds button type props to show list item interface,https://github.com/EightfoldAI/octuple/pull/596,2023-04-13T22:00:43Z,2023-04-13T22:24:17Z,2,2,MERGED
+octuple,feat: pill: add align icon prop,https://github.com/EightfoldAI/octuple/pull/595,2023-04-12T23:12:55Z,2023-04-13T19:23:58Z,3,5,MERGED
+octuple,fix: panel: fixes panel to fit small screens,https://github.com/EightfoldAI/octuple/pull/594,2023-04-12T22:18:33Z,2023-04-12T22:45:13Z,1,3,MERGED
+octuple,fix: button: move three more button palettes to global css vars,https://github.com/EightfoldAI/octuple/pull/593,2023-04-11T22:40:55Z,2023-04-12T21:26:18Z,4,2,MERGED
+octuple,feat: popup: add more props to style and global css vars,https://github.com/EightfoldAI/octuple/pull/592,2023-04-11T18:27:35Z,2023-04-12T21:44:49Z,3,4,MERGED
+octuple,feat: stepper: Add scroll to active step support,https://github.com/EightfoldAI/octuple/pull/591,2023-04-11T04:32:53Z,2023-04-11T15:35:45Z,4,3,MERGED
+octuple,fix: popup: fixes pseudo element so it doesn't block cursor,https://github.com/EightfoldAI/octuple/pull/590,2023-04-07T21:39:56Z,2023-04-10T15:19:51Z,2,2,MERGED
+octuple,chore: test: deprecate prop and fix flaky button unit tests,https://github.com/EightfoldAI/octuple/pull/589,2023-04-07T20:30:54Z,2023-04-10T15:09:00Z,2,1,MERGED
+octuple,chore: pagination: exports paginationvisiblepagercountsizeoptions,https://github.com/EightfoldAI/octuple/pull/588,2023-04-07T18:47:53Z,2023-04-07T19:04:42Z,2,1,MERGED
+octuple,fix: mdi icons not correctly ordered,https://github.com/EightfoldAI/octuple/pull/587,2023-04-07T00:54:14Z,2023-04-07T01:01:20Z,1,1,MERGED
+octuple,chore: slider: pixel push inline extremity labels and remove unreferenced types,https://github.com/EightfoldAI/octuple/pull/586,2023-04-07T00:13:24Z,2023-04-07T00:21:32Z,2,2,MERGED
+octuple,feat: adding mdi trend icons,https://github.com/EightfoldAI/octuple/pull/585,2023-04-06T23:49:05Z,2023-04-07T00:28:59Z,2,3,MERGED
+octuple,fix: select: clear input value on dismiss when not selected and other fixes,https://github.com/EightfoldAI/octuple/pull/584,2023-04-06T22:38:04Z,2023-04-12T22:21:05Z,2,14,MERGED
+octuple,feat: inline svg component,https://github.com/EightfoldAI/octuple/pull/583,2023-04-06T14:20:29Z,2023-04-06T18:05:14Z,6,3,MERGED
+octuple,feat: add new icon mdiClipboardAlert,https://github.com/EightfoldAI/octuple/pull/582,2023-04-06T07:51:37Z,2023-04-11T03:37:51Z,3,1,MERGED
+octuple,fix: pagination: bug fixes for simplified pagination,https://github.com/EightfoldAI/octuple/pull/581,2023-04-03T22:39:47Z,2023-04-05T22:56:33Z,8,13,MERGED
+octuple,fix: dropdown: handle event propagation and disabled,https://github.com/EightfoldAI/octuple/pull/580,2023-04-03T19:30:46Z,2023-04-03T20:01:26Z,1,1,MERGED
+octuple,fix: menu: fixes keyboard focus and screen reader functionality,https://github.com/EightfoldAI/octuple/pull/579,2023-04-01T00:29:35Z,2023-04-03T15:02:14Z,2,1,MERGED
+octuple,fix: accordion: fixes scroll bar animation flicker,https://github.com/EightfoldAI/octuple/pull/680,2023-07-26T21:49:32Z,2023-08-03T23:07:07Z,2,2,MERGED
+octuple,chore: codescan: move sonar properties file to root,https://github.com/EightfoldAI/octuple/pull/679,2023-07-26T17:20:29Z,2023-07-26T17:26:42Z,2,1,MERGED
+octuple,fix: table: adds default overflow back to latest scroll bars mixin,https://github.com/EightfoldAI/octuple/pull/678,2023-07-25T17:28:27Z,2023-07-25T18:22:25Z,4,1,MERGED
+octuple,chore: documentation: updates readme and contributing markdown files,https://github.com/EightfoldAI/octuple/pull/677,2023-07-25T16:22:19Z,2023-07-25T17:05:40Z,2,1,MERGED
+octuple,feat: infobar: adds bordered prop,https://github.com/EightfoldAI/octuple/pull/676,2023-07-24T18:26:51Z,2023-07-24T18:50:30Z,1,2,MERGED
+octuple,fix: popup: fixes style inheritance of reference element,https://github.com/EightfoldAI/octuple/pull/675,2023-07-24T18:01:39Z,2023-08-09T16:00:46Z,2,13,MERGED
+octuple,feat: slider and progress: add ability to visually hide borders,https://github.com/EightfoldAI/octuple/pull/673,2023-07-19T23:46:35Z,2023-07-21T16:22:21Z,2,3,MERGED
+octuple,feat: badge: add badge size and update button and tab custom css,https://github.com/EightfoldAI/octuple/pull/672,2023-07-19T21:41:22Z,2023-08-09T17:24:24Z,2,9,MERGED
+octuple,chore: coverage: adds unit tests to components that need them,https://github.com/EightfoldAI/octuple/pull/670,2023-07-18T22:06:20Z,2023-07-19T16:55:00Z,2,2,MERGED
+octuple,fix: select: adds fall back and optional chaining to avoid null reference errors at runtime,https://github.com/EightfoldAI/octuple/pull/669,2023-07-17T23:08:27Z,2023-07-20T15:02:04Z,8,3,MERGED
+octuple,fix: tooltip: fixes tooltip toggle on mobile devices,https://github.com/EightfoldAI/octuple/pull/668,2023-07-17T22:11:43Z,2023-08-17T04:01:24Z,7,14,MERGED
+octuple,feat: persistentbar: support small screens and themes plus custom render,https://github.com/EightfoldAI/octuple/pull/667,2023-07-13T23:47:46Z,2023-07-14T20:34:24Z,2,2,MERGED
+octuple,chore: dropdown: adds advanced visibility story and unit tests,https://github.com/EightfoldAI/octuple/pull/661,2023-06-29T20:57:50Z,2023-06-29T21:23:31Z,1,1,MERGED
+octuple,chore: css: remove redundant font stack sass and use semantic variable,https://github.com/EightfoldAI/octuple/pull/660,2023-06-29T16:58:08Z,2023-07-10T15:15:01Z,2,2,MERGED
+octuple,feat: selectors: add var theme support to check box radio and toggle,https://github.com/EightfoldAI/octuple/pull/659,2023-06-28T23:42:38Z,2023-06-29T16:38:36Z,5,3,MERGED
+octuple,chore: dev: merge latest main into dev,https://github.com/EightfoldAI/octuple/pull/657,2023-06-27T17:45:35Z,2023-06-27T20:18:33Z,1,4,MERGED
+octuple,fix: slider: fixes hidetrack and hiderail props typos and ommissions,https://github.com/EightfoldAI/octuple/pull/656,2023-06-27T16:44:58Z,2023-06-27T18:30:24Z,1,3,MERGED
+octuple,fix: table: updates scrollable div by removing deprecated css property,https://github.com/EightfoldAI/octuple/pull/655,2023-06-26T23:33:40Z,2023-06-27T21:47:19Z,5,6,MERGED
+octuple,fix: menu: add htmltype prop to menu item button,https://github.com/EightfoldAI/octuple/pull/654,2023-06-23T20:30:04Z,2023-06-26T16:07:09Z,2,2,MERGED
+octuple,fix: slider: ensure tooltip is visually hidden when slider is disabled,https://github.com/EightfoldAI/octuple/pull/651,2023-06-23T16:57:36Z,2023-06-23T17:49:50Z,1,1,MERGED
+octuple,chore: storybook: update named export order to be more consistent using babel,https://github.com/EightfoldAI/octuple/pull/649,2023-06-23T00:40:12Z,2023-06-23T15:45:35Z,3,2,MERGED
+octuple,fix: picker: color contrast ratio fixes,https://github.com/EightfoldAI/octuple/pull/647,2023-06-21T21:11:18Z,2023-06-22T01:00:19Z,10,3,MERGED
+octuple,fix: select: Update selected option based on defaultValue when isLoading changes,https://github.com/EightfoldAI/octuple/pull/646,2023-06-21T06:00:21Z,2023-06-21T17:31:12Z,2,1,MERGED
+octuple,fix: table: various accessibility improvements,https://github.com/EightfoldAI/octuple/pull/644,2023-06-15T00:12:59Z,2023-06-20T15:51:16Z,2,3,MERGED
+octuple,fix: select: revert update selected option based on defaultValue when isLoading,https://github.com/EightfoldAI/octuple/pull/643,2023-06-13T22:59:53Z,2023-06-14T00:03:52Z,3,1,MERGED
+octuple,fix: tabs: pill variant color contrast fix up,https://github.com/EightfoldAI/octuple/pull/642,2023-06-13T18:43:14Z,2023-06-20T15:42:18Z,3,2,MERGED
+octuple,fix: matchscore: color contrast and vertical alignment fix up,https://github.com/EightfoldAI/octuple/pull/641,2023-06-13T18:19:28Z,2023-06-20T15:35:54Z,1,2,MERGED
+octuple,fix: linkbutton: ensure default width matches min and max width,https://github.com/EightfoldAI/octuple/pull/640,2023-06-13T16:44:36Z,2023-06-20T15:28:16Z,2,3,MERGED
+octuple,chore: dev: merge latest main into dev,https://github.com/EightfoldAI/octuple/pull/639,2023-06-12T23:25:40Z,2023-06-14T23:48:40Z,1,1,MERGED
+octuple,chore: v2.38.2 hotfix fi to main,https://github.com/EightfoldAI/octuple/pull/638,2023-06-08T22:40:59Z,2023-06-09T16:30:13Z,1,7,MERGED
+octuple,feat: icon: add collapse icon for kanban,https://github.com/EightfoldAI/octuple/pull/637,2023-06-08T07:18:35Z,2023-06-08T07:43:19Z,1,1,MERGED
+octuple,fix: button: ensure loading dots use text color and enable two state loader,https://github.com/EightfoldAI/octuple/pull/636,2023-06-06T20:59:12Z,2023-06-12T15:07:55Z,5,4,MERGED
+octuple,fix: slider: increase vertical hit target and handle segmented gap clicks,https://github.com/EightfoldAI/octuple/pull/635,2023-06-06T18:10:07Z,2023-06-06T20:03:45Z,2,2,MERGED
+octuple,feat: icon: add icons to support integration system simplification,https://github.com/EightfoldAI/octuple/pull/634,2023-06-06T10:33:22Z,2023-06-06T10:48:44Z,1,1,MERGED
+octuple,feat: icon: add icons to support kanban view,https://github.com/EightfoldAI/octuple/pull/632,2023-06-05T08:24:51Z,2023-06-05T08:43:31Z,1,1,MERGED
+octuple,fix: select: Update selected option based on defaultValue when isLoading changes.,https://github.com/EightfoldAI/octuple/pull/631,2023-06-02T20:34:16Z,2023-06-07T06:19:41Z,1,3,MERGED
+octuple,fix: select: ensure medium and large pills fit inside inputs of same size,https://github.com/EightfoldAI/octuple/pull/630,2023-06-02T18:19:56Z,2023-06-02T18:29:43Z,3,1,MERGED
+octuple,feat: breadcrumb: add breadcrumb component,https://github.com/EightfoldAI/octuple/pull/629,2023-06-01T22:26:31Z,2023-06-27T15:50:53Z,2,10,MERGED
+octuple,feat: focustrap: export focus trap and add new hook props,https://github.com/EightfoldAI/octuple/pull/743,2023-10-31T19:15:32Z,2023-10-31T21:33:29Z,3,2,MERGED
+octuple,feat: pickers: add readonly mode,https://github.com/EightfoldAI/octuple/pull/741,2023-10-26T19:06:44Z,2023-10-31T04:07:54Z,2,2,MERGED
+octuple,chore: inlinesvg: handle undefined url and previous url fallback to empty,https://github.com/EightfoldAI/octuple/pull/740,2023-10-24T18:51:57Z,2023-10-24T19:11:43Z,2,1,MERGED
+octuple,feat: extend breadcrumb for custom divider and crumb,https://github.com/EightfoldAI/octuple/pull/739,2023-10-23T22:38:22Z,2023-10-24T19:38:18Z,3,4,MERGED
+octuple,feat: fadein: add fadein component,https://github.com/EightfoldAI/octuple/pull/737,2023-10-20T22:49:50Z,2023-10-21T00:09:31Z,2,1,MERGED
+octuple,fix: tooltip: escape to dismiss default tooltip on hover only,https://github.com/EightfoldAI/octuple/pull/736,2023-10-20T22:38:23Z,2023-10-21T00:50:38Z,3,2,MERGED
+octuple,fix: focustrap: improve reliability of use focus trap hook,https://github.com/EightfoldAI/octuple/pull/735,2023-10-19T23:54:50Z,2023-10-20T17:59:28Z,2,1,MERGED
+octuple,fix: inlinesvg: memoized fetch and compare with previous url,https://github.com/EightfoldAI/octuple/pull/734,2023-10-19T23:28:49Z,2023-10-24T18:04:24Z,2,3,MERGED
+octuple,fix: avatar: update background theme colors from tertiary to secondary,https://github.com/EightfoldAI/octuple/pull/732,2023-10-18T21:54:09Z,2023-10-18T22:03:03Z,2,1,MERGED
+octuple,feat: table: add rowExpandDisabled prop,https://github.com/EightfoldAI/octuple/pull/731,2023-10-17T23:45:52Z,2023-10-19T17:06:59Z,2,2,MERGED
+octuple,feat: upload: add fullwidth prop for small and medium dropzone responsiveness,https://github.com/EightfoldAI/octuple/pull/730,2023-10-17T21:08:43Z,2023-10-19T05:05:50Z,7,6,MERGED
+octuple,fix: panel: ensures there is no element when footer is not implemented,https://github.com/EightfoldAI/octuple/pull/728,2023-10-17T17:04:31Z,2023-10-17T18:22:23Z,2,1,MERGED
+octuple,fix: dropzone: ensures tab key event is not prevented,https://github.com/EightfoldAI/octuple/pull/727,2023-10-17T01:10:32Z,2023-10-17T04:17:37Z,3,2,MERGED
+octuple,fix: sass: moves scroll bars mixin to global scope and adds it to dropdown,https://github.com/EightfoldAI/octuple/pull/726,2023-10-17T00:31:56Z,2024-01-05T19:20:04Z,3,12,MERGED
+octuple,fix: list: add listclassnames prop and unit tests,https://github.com/EightfoldAI/octuple/pull/724,2023-10-10T22:03:55Z,2023-10-26T19:07:48Z,3,5,MERGED
+octuple,fix: focustrap: fixes typo in selector string,https://github.com/EightfoldAI/octuple/pull/722,2023-10-06T16:34:24Z,2023-10-06T16:47:52Z,2,2,MERGED
+octuple,Add support for more material design icons,https://github.com/EightfoldAI/octuple/pull/721,2023-10-05T20:35:35Z,2023-10-06T16:39:01Z,3,1,MERGED
+octuple,fix: link: align two hover colors with the latest design spec,https://github.com/EightfoldAI/octuple/pull/719,2023-10-03T21:02:22Z,2023-10-04T00:16:08Z,2,1,MERGED
+octuple,feat: skill: add skill component,https://github.com/EightfoldAI/octuple/pull/717,2023-10-03T00:26:39Z,2023-10-19T04:22:02Z,8,19,MERGED
+octuple,feat: slider: support discreet segments or dots with improved labels,https://github.com/EightfoldAI/octuple/pull/716,2023-09-29T01:40:24Z,2023-09-29T20:34:11Z,4,7,MERGED
+octuple,fix: use semantic card border color for cards,https://github.com/EightfoldAI/octuple/pull/715,2023-09-25T15:15:41Z,2023-09-25T16:53:32Z,1,1,MERGED
+octuple,fix: linkbutton: fixes counter position when button only contains an icon,https://github.com/EightfoldAI/octuple/pull/714,2023-09-21T18:37:56Z,2023-09-21T18:47:06Z,1,1,MERGED
+octuple,fix: button: fixes counter position when button only contains an icon,https://github.com/EightfoldAI/octuple/pull/713,2023-09-21T17:06:51Z,2023-09-21T17:21:19Z,2,1,MERGED
+octuple,chore: carousel: export visibilitycontext to support custom controls,https://github.com/EightfoldAI/octuple/pull/712,2023-09-20T22:15:53Z,2023-09-20T22:22:47Z,1,1,MERGED
+octuple,chore: tooltip: moves internal class to the end of each clone element class array,https://github.com/EightfoldAI/octuple/pull/710,2023-09-14T18:39:17Z,2023-09-14T18:49:04Z,2,1,MERGED
+octuple,feat: progress: add pill variant,https://github.com/EightfoldAI/octuple/pull/709,2023-09-13T21:51:23Z,2023-09-21T16:33:16Z,2,5,MERGED
+octuple,Merge main into dev,https://github.com/EightfoldAI/octuple/pull/707,2023-09-06T15:44:09Z,2023-09-06T15:53:56Z,1,91,MERGED
+octuple,feat: inputs: add readonly support and its styles,https://github.com/EightfoldAI/octuple/pull/706,2023-09-06T00:33:24Z,2023-09-20T18:50:35Z,8,4,MERGED
+octuple,fix: carousel: add controls prop to scroll menu,https://github.com/EightfoldAI/octuple/pull/705,2023-08-31T21:09:43Z,2023-08-31T21:18:49Z,2,1,MERGED
+octuple,fix: tooltip: fixes default clone element class names,https://github.com/EightfoldAI/octuple/pull/699,2023-08-28T18:34:24Z,2023-08-28T19:57:45Z,2,1,MERGED
+octuple,fix: textarea: ensure grip icon doesn't block mouse drag,https://github.com/EightfoldAI/octuple/pull/698,2023-08-24T16:44:32Z,2023-08-25T17:29:15Z,2,1,MERGED
+octuple,Add new icon mdiAccountMultiplePlusOutline to Octuple,https://github.com/EightfoldAI/octuple/pull/697,2023-08-24T10:01:41Z,2023-08-24T15:11:11Z,2,1,MERGED
+octuple,feat: pickers: changeonblur and button props with option to hide buttons,https://github.com/EightfoldAI/octuple/pull/696,2023-08-23T18:53:37Z,2023-08-25T20:48:38Z,8,5,MERGED
+octuple,fix: button: moves button transition to global semantic variables,https://github.com/EightfoldAI/octuple/pull/695,2023-08-19T00:43:43Z,2023-08-21T15:02:57Z,2,1,MERGED
+octuple,feat: selectors: adds checkbox indeterminate state and selector pill variants,https://github.com/EightfoldAI/octuple/pull/694,2023-08-18T23:13:41Z,2023-08-24T15:54:42Z,7,4,MERGED
+octuple,Merge main into dev,https://github.com/EightfoldAI/octuple/pull/690,2023-08-17T18:07:04Z,2023-08-17T18:26:38Z,1,83,MERGED
+octuple,chore: governance: add security policy,https://github.com/EightfoldAI/octuple/pull/689,2023-08-16T18:30:32Z,2023-08-16T20:59:49Z,2,1,MERGED
+octuple,Test Codesandbox-CI 2,https://github.com/EightfoldAI/octuple/pull/686,2023-08-10T17:10:06Z,2023-08-10T17:16:26Z,1,3,CLOSED
+octuple,Test Codesandbox-CI,https://github.com/EightfoldAI/octuple/pull/685,2023-08-10T16:40:02Z,2023-08-10T16:46:03Z,1,2,CLOSED
+octuple,chore: i18n: exports octuple locales and locale type,https://github.com/EightfoldAI/octuple/pull/684,2023-08-09T21:25:11Z,2023-08-10T17:43:35Z,3,3,MERGED
+octuple,feat: card: update card size prop and remove bunko story,https://github.com/EightfoldAI/octuple/pull/682,2023-08-07T22:25:06Z,2023-08-08T20:30:10Z,4,1,MERGED
+octuple,"feat: icon: add domain, circle slices and arrow head icons",https://github.com/EightfoldAI/octuple/pull/761,2023-12-14T12:42:24Z,2023-12-18T04:51:16Z,4,6,MERGED
+octuple,chore: link: make title optional and inherit type from base,https://github.com/EightfoldAI/octuple/pull/760,2023-12-14T01:04:53Z,2023-12-14T17:30:41Z,1,2,MERGED
+octuple,feat: a11y: arrow key navigation support for list menu dropdown and select,https://github.com/EightfoldAI/octuple/pull/759,2023-12-14T00:40:37Z,2023-12-15T22:52:43Z,5,6,MERGED
+octuple,feat: skill: adds svg and suffix support with assessments status and required props,https://github.com/EightfoldAI/octuple/pull/758,2023-12-06T19:33:01Z,2023-12-08T19:30:50Z,2,4,MERGED
+octuple,feat: carousel: exports autoscrollapi and updates story to include custom buttons example,https://github.com/EightfoldAI/octuple/pull/756,2023-11-30T00:53:31Z,2023-11-30T23:27:03Z,4,1,MERGED
+octuple,chore: tooltip: removes no longer existing disabled class name references,https://github.com/EightfoldAI/octuple/pull/755,2023-11-28T21:14:53Z,2023-11-28T22:01:04Z,2,1,MERGED
+octuple,fix: tooltip: defer cursor style to implementation in host app,https://github.com/EightfoldAI/octuple/pull/754,2023-11-28T18:22:33Z,2023-11-28T20:41:18Z,0,1,MERGED
+octuple,chore: usegestures: test for touch start positions in onmousemove,https://github.com/EightfoldAI/octuple/pull/753,2023-11-27T20:50:16Z,2023-11-27T21:10:29Z,2,1,MERGED
+octuple,chore: usegestures: wrap event listeners with useCallback,https://github.com/EightfoldAI/octuple/pull/752,2023-11-20T08:17:56Z,2023-11-27T18:31:03Z,9,5,MERGED
+octuple,chore: usegesture: avoid unnecessary mousemove events,https://github.com/EightfoldAI/octuple/pull/751,2023-11-18T00:45:05Z,2023-11-18T00:55:44Z,2,1,CLOSED
+octuple,IGNORE Dkilgore eightfold/add touch api support regen,https://github.com/EightfoldAI/octuple/pull/750,2023-11-17T01:35:20Z,2023-11-17T01:39:43Z,1,3,CLOSED
+octuple,feat: tooltip: adds touch api support with hover a11y fixup,https://github.com/EightfoldAI/octuple/pull/749,2023-11-17T01:12:24Z,2023-11-17T19:54:58Z,3,3,MERGED
+octuple,fix: button: fixes round icon only secondary buttons padding to consider its border,https://github.com/EightfoldAI/octuple/pull/748,2023-11-15T00:31:56Z,2023-11-16T05:03:42Z,2,1,MERGED
+octuple,fix: form: fixes required and optional marks so they display inline with the label text,https://github.com/EightfoldAI/octuple/pull/747,2023-11-14T19:46:18Z,2023-12-12T22:29:10Z,3,6,MERGED
+octuple,chore: icon: adds mdi send icons to octuple for potential use in copilot scenarios,https://github.com/EightfoldAI/octuple/pull/746,2023-11-13T23:48:52Z,2023-11-14T00:56:34Z,2,1,MERGED
+octuple,feat: navbar: adds navbar height semantic variable and update the height to 80 pixels,https://github.com/EightfoldAI/octuple/pull/745,2023-11-13T22:22:14Z,2024-02-01T17:53:10Z,3,8,MERGED
+octuple,chore: skill: revert custom menu item and replace with scoped change,https://github.com/EightfoldAI/octuple/pull/744,2023-11-03T19:16:00Z,2023-11-03T19:22:48Z,1,1,MERGED
+octuple,fix: select: address selector scoping bugs when portal and right icon and export type,https://github.com/EightfoldAI/octuple/pull/802,2024-03-20T22:59:58Z,2024-03-25T16:42:40Z,2,1,MERGED
+octuple,fix: grid: omit some attributes to avoid upstream linter errors when node lts,https://github.com/EightfoldAI/octuple/pull/801,2024-03-20T21:27:21Z,2024-04-08T18:31:26Z,3,5,MERGED
+octuple,fix: card: types file cleanup and enable string dimension types via string union,https://github.com/EightfoldAI/octuple/pull/800,2024-03-20T21:11:29Z,2024-04-04T00:38:56Z,2,3,MERGED
+octuple,feat: accordion: enable custom summary layout using full width,https://github.com/EightfoldAI/octuple/pull/799,2024-03-18T23:28:09Z,2024-04-16T19:39:40Z,1,6,MERGED
+octuple,feat: infobar: reflow to support small screens according to latest design spec,https://github.com/EightfoldAI/octuple/pull/798,2024-03-18T19:55:08Z,2024-04-16T19:22:26Z,2,4,MERGED
+octuple,feat: drawer: add drawer component,https://github.com/EightfoldAI/octuple/pull/795,2024-03-15T00:41:40Z,2024-04-16T17:18:53Z,3,6,MERGED
+octuple,feat: add new icon mdiMicrosoftTeams,https://github.com/EightfoldAI/octuple/pull/794,2024-03-13T07:01:40Z,2024-03-13T16:37:44Z,3,1,MERGED
+octuple,chore: list: some code cleanup,https://github.com/EightfoldAI/octuple/pull/793,2024-03-09T04:03:01Z,2024-04-04T00:15:57Z,2,3,MERGED
+octuple,fix: list: move external item into its own function component to address hook bug,https://github.com/EightfoldAI/octuple/pull/792,2024-03-09T01:53:26Z,2024-03-09T02:34:54Z,2,1,MERGED
+octuple,Added Icons,https://github.com/EightfoldAI/octuple/pull/791,2024-02-28T05:14:41Z,2024-03-04T22:54:47Z,2,2,MERGED
+octuple,chore: sanity: pre release checklist sanity test fixups,https://github.com/EightfoldAI/octuple/pull/790,2024-02-26T18:59:51Z,2024-02-26T19:43:15Z,2,1,MERGED
+octuple,fix: a11y: numerous screen reader fixes,https://github.com/EightfoldAI/octuple/pull/789,2024-02-23T01:44:16Z,2024-02-26T16:17:39Z,3,4,MERGED
+octuple,fix: [Menu]: Add role = 'presentation' to MenuItem for accessibility issue,https://github.com/EightfoldAI/octuple/pull/788,2024-02-22T21:01:26Z,2024-02-22T22:48:56Z,3,1,CLOSED
+octuple,fix: form: ensure form item label custom node content display is inline,https://github.com/EightfoldAI/octuple/pull/786,2024-02-17T03:50:11Z,2024-02-17T03:55:20Z,2,1,MERGED
+octuple,chore: upload: ensure remove icon button change is backward compatible,https://github.com/EightfoldAI/octuple/pull/785,2024-02-17T03:28:53Z,2024-02-17T03:36:21Z,2,1,MERGED
+octuple,feat: configprovider: add support for gradient and individual component theme containers,https://github.com/EightfoldAI/octuple/pull/783,2024-02-13T02:18:20Z,2024-02-23T18:17:33Z,6,10,MERGED
+octuple,feat: stat: adds direction lineclamp fullwidth and maxwidth props,https://github.com/EightfoldAI/octuple/pull/781,2024-02-02T01:26:39Z,2024-02-02T19:14:34Z,2,1,MERGED
+octuple,feat: tabs: alignIcon for default and pill and updates stat to add xsmall and optional button,https://github.com/EightfoldAI/octuple/pull/780,2024-01-31T19:18:38Z,2024-02-01T17:47:53Z,2,2,MERGED
+octuple,fix: upstream: ensures upstream snaps do not minify function component names,https://github.com/EightfoldAI/octuple/pull/779,2024-01-30T20:40:35Z,2024-01-30T20:45:20Z,2,1,MERGED
+octuple,chore: readme: updates markdown content,https://github.com/EightfoldAI/octuple/pull/778,2024-01-27T00:15:07Z,2024-01-30T20:54:02Z,2,2,MERGED
+octuple,feat: table: expandable config improvements,https://github.com/EightfoldAI/octuple/pull/777,2024-01-26T00:58:44Z,2024-01-31T16:34:51Z,2,4,MERGED
+octuple,fix: linkbutton: adjust anchor specificity to ignore bootstrap styles,https://github.com/EightfoldAI/octuple/pull/776,2024-01-24T22:58:38Z,2024-01-24T23:02:47Z,1,1,MERGED
+octuple,feat: upload: adds delete button to single dropzones and other updates,https://github.com/EightfoldAI/octuple/pull/775,2024-01-23T23:09:32Z,2024-01-24T00:35:44Z,2,3,MERGED
+octuple,feat: carousel: adds size overlaycontrols and button props,https://github.com/EightfoldAI/octuple/pull/774,2024-01-22T19:01:10Z,2024-01-24T00:30:45Z,6,3,MERGED
+octuple,chore: icon: adds official x logo lockup from its brand kit,https://github.com/EightfoldAI/octuple/pull/773,2024-01-18T01:07:26Z,2024-01-18T05:01:40Z,2,2,MERGED
+octuple,fix: table: adds indeterminate state to check all box if only some rows are selected,https://github.com/EightfoldAI/octuple/pull/772,2024-01-13T00:20:49Z,2024-01-18T01:03:41Z,2,1,MERGED
+octuple,fix: input: updates validation status font color to latest specification,https://github.com/EightfoldAI/octuple/pull/771,2024-01-09T22:28:06Z,2024-01-09T22:35:28Z,2,1,MERGED
+octuple,fix: slider: ensure touchmove is not prevented to enable default touch on mobile,https://github.com/EightfoldAI/octuple/pull/769,2024-01-08T23:01:38Z,2024-01-09T19:18:04Z,2,2,MERGED
+octuple,fix: tooltip: dedupes tooltip id and updates story for screen readers,https://github.com/EightfoldAI/octuple/pull/768,2024-01-05T01:18:16Z,2024-01-09T21:05:19Z,2,3,MERGED
+octuple,"feat: add warning styles to Button (Primary, Secondary, Default, SystemUI)",https://github.com/EightfoldAI/octuple/pull/767,2024-01-04T23:30:58Z,2024-06-17T22:23:48Z,13,10,CLOSED
+octuple,chore: i18n: additional eightfold supported locales,https://github.com/EightfoldAI/octuple/pull/766,2024-01-04T23:00:36Z,2024-01-05T17:44:04Z,2,1,MERGED
+octuple,feat: add more icons,https://github.com/EightfoldAI/octuple/pull/765,2024-01-04T06:49:58Z,2024-01-04T08:50:32Z,3,3,MERGED
+octuple,fix: table: showscroller rtl support,https://github.com/EightfoldAI/octuple/pull/764,2024-01-04T00:09:07Z,2024-01-05T18:33:48Z,2,4,MERGED
+octuple,feat: grid: adds xl breakpoint,https://github.com/EightfoldAI/octuple/pull/762,2024-01-03T01:17:15Z,2024-01-09T19:12:57Z,20,8,MERGED
+octuple,fix: inlinesvg: adds cross fetch dep to avoid fetch api reference errors,https://github.com/EightfoldAI/octuple/pull/842,2024-05-29T17:12:26Z,2024-05-30T23:00:11Z,1,2,MERGED
+octuple,chore: tooltip: revert width css change,https://github.com/EightfoldAI/octuple/pull/840,2024-05-22T18:16:02Z,2024-05-22T18:29:47Z,1,2,MERGED
+octuple,chore: progress: update story,https://github.com/EightfoldAI/octuple/pull/839,2024-05-22T17:50:31Z,2024-05-22T17:56:12Z,1,2,MERGED
+octuple,feat: menu: adds semantic css variables,https://github.com/EightfoldAI/octuple/pull/836,2024-05-21T22:08:10Z,2024-05-22T16:56:20Z,1,2,MERGED
+octuple,chore: hooks: improve overall unit test coverage and remove unused hooks,https://github.com/EightfoldAI/octuple/pull/835,2024-05-21T21:05:04Z,2024-05-21T21:16:08Z,1,1,MERGED
+octuple,fix: table: ensure boolean types in react render when expandable row,https://github.com/EightfoldAI/octuple/pull/834,2024-05-17T00:15:23Z,2024-05-17T00:22:42Z,1,2,MERGED
+octuple,fix: isequal: remove dep and replace with utility function derivation,https://github.com/EightfoldAI/octuple/pull/833,2024-05-15T23:17:34Z,2024-05-16T22:28:47Z,1,2,MERGED
+octuple,fix: accordion: reverts fit content change in sass,https://github.com/EightfoldAI/octuple/pull/831,2024-05-13T15:15:08Z,2024-05-13T15:22:54Z,1,1,MERGED
+octuple,[Do Not Merge]: Verify CodeSandbox node upgrade,https://github.com/EightfoldAI/octuple/pull/830,2024-05-10T01:00:45Z,2024-05-10T20:32:16Z,3,22,CLOSED
+octuple,feat: support tree shaking,https://github.com/EightfoldAI/octuple/pull/829,2024-05-10T00:27:46Z,2024-06-24T21:07:20Z,14,40,MERGED
+octuple,fix: tab: fixes stat tabs word wrap and spacing when border is false,https://github.com/EightfoldAI/octuple/pull/826,2024-04-30T18:59:42Z,2024-04-30T19:11:56Z,1,2,MERGED
+octuple,fix: carousel and tooltip: preventTouchMoveDefault false for tooltips inside carousels ,https://github.com/EightfoldAI/octuple/pull/825,2024-04-29T22:08:29Z,2024-04-30T05:06:40Z,6,10,MERGED
+octuple,chore: readme: updates size badges,https://github.com/EightfoldAI/octuple/pull/824,2024-04-25T23:46:06Z,2024-04-25T23:53:34Z,1,1,MERGED
+octuple,feat: accordion: deep accessibility updates,https://github.com/EightfoldAI/octuple/pull/823,2024-04-24T17:45:54Z,2024-05-21T18:15:12Z,2,8,MERGED
+octuple,chore: drawer: makes overlay configurable for all variants,https://github.com/EightfoldAI/octuple/pull/822,2024-04-23T21:50:19Z,2024-04-24T21:46:15Z,2,1,MERGED
+octuple,chore: locale: exports uselocalereceiver hook,https://github.com/EightfoldAI/octuple/pull/821,2024-04-23T20:48:45Z,2024-04-24T21:51:25Z,2,2,MERGED
+octuple,feat: truncate: adds truncate hook and component with overflow utils,https://github.com/EightfoldAI/octuple/pull/820,2024-04-23T19:07:21Z,2024-04-24T21:58:35Z,4,3,MERGED
+octuple,feat: accordion: adds rendercontentalways prop managed by expanded,https://github.com/EightfoldAI/octuple/pull/816,2024-04-17T00:23:09Z,2024-04-17T17:09:26Z,4,2,MERGED
+octuple,feat: select: performance optimizations and features,https://github.com/EightfoldAI/octuple/pull/815,2024-04-16T22:44:23Z,2024-04-19T23:17:34Z,1,5,MERGED
+octuple,fix: menu: adds onclick handler back to main button when secondarybuttonprops fixing menu onchange,https://github.com/EightfoldAI/octuple/pull/813,2024-04-11T19:03:56Z,2024-04-11T23:52:56Z,1,3,MERGED
+octuple,fix: ssr: remove memoizeone dep and replace it with local function in locale,https://github.com/EightfoldAI/octuple/pull/811,2024-04-09T22:04:20Z,2024-04-09T22:28:03Z,1,2,MERGED
+octuple,feat: ssr: improve ssr support via globalobject this and use client strings,https://github.com/EightfoldAI/octuple/pull/810,2024-04-09T01:06:52Z,2024-04-09T15:40:24Z,1,1,MERGED
+octuple,fix: accordion: ensure expand button props are passed down to the button,https://github.com/EightfoldAI/octuple/pull/808,2024-04-05T23:13:36Z,2024-04-05T23:18:21Z,1,1,MERGED
+octuple,fix: a11y: card focus visible styles and aria label placeholders with additional code cleanup,https://github.com/EightfoldAI/octuple/pull/806,2024-04-05T19:16:36Z,2024-04-05T22:26:25Z,4,3,MERGED
+octuple,feat: typescript improvements,https://github.com/EightfoldAI/octuple/pull/863,2024-07-26T02:28:57Z,2024-07-29T19:40:58Z,3,2,MERGED
+octuple,"chore: Revert ""feat: select: performance optimizations and features",https://github.com/EightfoldAI/octuple/pull/860,2024-07-24T17:22:04Z,2024-07-24T17:43:53Z,1,2,MERGED
+octuple,fix: hotfix: reset accordion z-index,https://github.com/EightfoldAI/octuple/pull/859,2024-07-24T11:26:32Z,2024-07-24T17:15:56Z,3,1,CLOSED
+octuple,feat: restore previous onOptionsChange behavior for Select,https://github.com/EightfoldAI/octuple/pull/858,2024-07-24T03:06:42Z,2024-07-24T17:19:22Z,2,1,CLOSED
+octuple,fix: reset accordion z-index,https://github.com/EightfoldAI/octuple/pull/857,2024-07-23T20:28:38Z,2024-07-24T17:15:21Z,3,3,MERGED
+octuple,fix: selectors: add aria attributes,https://github.com/EightfoldAI/octuple/pull/848,2024-06-11T19:57:19Z,2024-06-12T18:01:38Z,2,2,MERGED
+octuple,fix: svg: updates empty profile lock illustration colors to match design specification,https://github.com/EightfoldAI/octuple/pull/845,2024-06-03T23:25:14Z,2024-06-03T23:33:02Z,1,1,MERGED
+octuple,chore: form: reduce legend element reset opinionated styling,https://github.com/EightfoldAI/octuple/pull/844,2024-06-03T22:17:52Z,2024-06-17T22:23:25Z,1,3,MERGED
+octuple,feat: datepicker: focus trap to datepicker components to enhance keyboard accessibility.,https://github.com/EightfoldAI/octuple/pull/901,2024-10-25T15:00:55Z,2024-11-10T03:11:59Z,4,8,MERGED
+octuple,a11y: Accessibility fix for floating dropdown,https://github.com/EightfoldAI/octuple/pull/899,2024-10-24T10:57:21Z,2024-10-28T05:35:30Z,2,3,MERGED
+octuple,feat: [Select] make dropdown role=group and pass correct id to options list for a11y,https://github.com/EightfoldAI/octuple/pull/897,2024-10-23T10:23:55Z,2024-10-25T05:13:25Z,2,3,MERGED
+octuple,feat: add dropDownRole and listAriaLabel in Select component,https://github.com/EightfoldAI/octuple/pull/896,2024-10-18T12:36:02Z,2024-10-23T10:24:04Z,2,1,CLOSED
+octuple,fix: pills: Remove pointer-events: none from readonly pill,https://github.com/EightfoldAI/octuple/pull/895,2024-10-08T22:46:31Z,2024-10-08T23:48:41Z,2,1,MERGED
+octuple,fix: snack: Use ID from SnackBarProps and return a close callback fn,https://github.com/EightfoldAI/octuple/pull/894,2024-10-07T22:14:14Z,2024-10-08T07:16:14Z,2,2,MERGED
+octuple,feat: allow generating css sourcemaps,https://github.com/EightfoldAI/octuple/pull/891,2024-09-12T05:51:11Z,2025-02-14T03:51:33Z,2,1,CLOSED
+octuple,fix: formError: fixed focus not moving to 1st required input on error,https://github.com/EightfoldAI/octuple/pull/889,2024-09-06T14:14:37Z,2024-09-09T14:05:48Z,2,4,MERGED
+octuple,ENG-103344: Fixed tabIndex issue from Avatar component,https://github.com/EightfoldAI/octuple/pull/888,2024-09-06T12:45:26Z,2024-09-06T14:56:12Z,7,4,MERGED
+octuple,fix: accordion: remove role presentation and add default aria-label on expand toggle button for a11y,https://github.com/EightfoldAI/octuple/pull/887,2024-09-04T11:13:26Z,2024-09-06T15:40:06Z,4,5,MERGED
+octuple,chore: add new SVGs to Icons,https://github.com/EightfoldAI/octuple/pull/886,2024-08-31T21:02:41Z,2024-09-05T06:14:58Z,1,1,MERGED
+octuple,fix: accordionButton: changed role,https://github.com/EightfoldAI/octuple/pull/885,2024-08-29T10:44:55Z,2024-08-29T14:02:50Z,1,1,CLOSED
+octuple,fix: select: remove toggle button from tab order,https://github.com/EightfoldAI/octuple/pull/883,2024-08-27T20:20:31Z,2024-08-27T20:38:13Z,1,3,MERGED
+octuple,fix: accordion: typo in button role,https://github.com/EightfoldAI/octuple/pull/882,2024-08-26T22:36:00Z,2024-08-27T13:53:14Z,1,1,MERGED
+octuple,fix: select: address selected items getting unselected when expanded.,https://github.com/EightfoldAI/octuple/pull/881,2024-08-26T18:13:58Z,2024-08-27T20:33:59Z,4,5,MERGED
+octuple,fix: menuItem: Add wrap for long text in menu items,https://github.com/EightfoldAI/octuple/pull/879,2024-08-23T16:07:52Z,2024-08-23T17:26:52Z,2,7,MERGED
+octuple,fix: make stepper region focusable if scrollable,https://github.com/EightfoldAI/octuple/pull/876,2024-08-21T11:31:07Z,2024-08-23T19:15:58Z,4,6,MERGED
+octuple,feat: feature flags: Add feature flag config for Octuple,https://github.com/EightfoldAI/octuple/pull/875,2024-08-20T15:39:15Z,2024-08-22T03:51:43Z,5,5,MERGED
+octuple,fix: improve basic snackbar and infobar layouts,https://github.com/EightfoldAI/octuple/pull/874,2024-08-20T15:12:09Z,2024-08-20T16:43:37Z,1,1,MERGED
+octuple,a11y: Fixed nested interactive element issue by removing role button from drag and drop zone,https://github.com/EightfoldAI/octuple/pull/873,2024-08-20T13:13:16Z,2024-08-20T17:59:07Z,2,5,MERGED
+octuple,feat: textInput: adds aria-invalid and aria-describedby for a11y error message announcement,https://github.com/EightfoldAI/octuple/pull/872,2024-08-16T15:56:31Z,2024-08-16T20:37:25Z,1,3,MERGED
+octuple,Added a hidden section for announcing zoom/rotate values,https://github.com/EightfoldAI/octuple/pull/871,2024-08-16T10:20:15Z,2024-08-16T20:27:44Z,4,3,MERGED
+octuple,fix: type errors & storybook,https://github.com/EightfoldAI/octuple/pull/870,2024-08-13T20:36:20Z,2024-08-13T21:10:45Z,2,3,MERGED
+octuple,fix: pagination: Added aria label to pager according to guideline,https://github.com/EightfoldAI/octuple/pull/869,2024-08-13T18:30:50Z,2024-08-13T23:37:30Z,1,3,MERGED
+octuple,fix: checkbox with toggle true: Added role switch for checkbox with t…,https://github.com/EightfoldAI/octuple/pull/868,2024-08-13T14:43:39Z,2024-08-13T23:41:04Z,3,4,MERGED
+octuple,fix: stop screenreaders from reading duplicate accordion toggle btns,https://github.com/EightfoldAI/octuple/pull/867,2024-08-07T03:06:54Z,2024-08-08T02:34:35Z,2,2,MERGED
+octuple,a11y: Added aria hidden to expandable button,https://github.com/EightfoldAI/octuple/pull/929,2024-12-30T09:16:05Z,2025-01-08T05:30:57Z,1,4,MERGED
+octuple,Cpatil/added rest props for checkbox and radio components,https://github.com/EightfoldAI/octuple/pull/928,2024-12-27T08:49:06Z,2025-01-06T05:04:10Z,4,3,MERGED
+octuple,fix: added aria-label to the date range picker,https://github.com/EightfoldAI/octuple/pull/927,2024-12-24T11:22:29Z,2025-01-05T05:02:16Z,2,4,MERGED
+octuple,feat: add startDate and endDate translations to all locales,https://github.com/EightfoldAI/octuple/pull/925,2024-12-19T06:02:11Z,2024-12-24T01:40:34Z,1,1,CLOSED
+octuple,fix: eng-120721 : added role to date picker span tag,https://github.com/EightfoldAI/octuple/pull/924,2024-12-16T08:56:23Z,2025-01-14T06:36:29Z,2,5,MERGED
+octuple,ENG-120699: Added default role:'combobox' for Searchbox component,https://github.com/EightfoldAI/octuple/pull/923,2024-12-13T06:11:58Z,2024-12-23T16:24:13Z,2,1,MERGED
+octuple,Adding mdiTransfer for tags icon in Resource Management,https://github.com/EightfoldAI/octuple/pull/922,2024-12-12T09:04:50Z,2024-12-12T18:07:59Z,3,2,MERGED
+octuple,[fix] [two state button] loader background color inconsistent when checked,https://github.com/EightfoldAI/octuple/pull/921,2024-12-12T03:50:03Z,2024-12-12T06:24:54Z,3,1,MERGED
+octuple,fix: scroller is interrupting with the mouse events even when it is not visible,https://github.com/EightfoldAI/octuple/pull/920,2024-12-11T07:45:05Z,2024-12-12T09:38:02Z,3,3,MERGED
+octuple,[fix] Add a default scrollable width to Table scroller,https://github.com/EightfoldAI/octuple/pull/919,2024-12-09T10:32:17Z,2025-02-13T09:44:48Z,4,6,MERGED
+octuple,fix: panelHeader: Added prop to the close button,https://github.com/EightfoldAI/octuple/pull/917,2024-12-05T07:34:15Z,2025-01-08T05:03:58Z,2,3,MERGED
+octuple,a11y: Added focus border on Tabs.,https://github.com/EightfoldAI/octuple/pull/916,2024-12-02T11:39:39Z,2025-01-08T04:51:09Z,2,3,MERGED
+octuple,Add mdiBullhornVariantOutline to icons,https://github.com/EightfoldAI/octuple/pull/915,2024-11-29T10:14:51Z,2024-12-02T10:01:20Z,2,2,MERGED
+octuple,fix: dropdown: fixed dropdown container focus issue,https://github.com/EightfoldAI/octuple/pull/914,2024-11-29T07:09:54Z,2025-01-08T05:03:18Z,1,1,MERGED
+octuple,fix: dropdown: fixed dropdown container focus issue,https://github.com/EightfoldAI/octuple/pull/913,2024-11-29T06:21:36Z,2024-11-29T06:59:14Z,1,1,CLOSED
+octuple,fix: dropdown items are not moving to the next tab index due to stopPropagation,https://github.com/EightfoldAI/octuple/pull/911,2024-11-13T17:53:03Z,2024-11-13T18:25:05Z,2,2,MERGED
+octuple,[fix] revert InlineSvg changes,https://github.com/EightfoldAI/octuple/pull/910,2024-11-13T07:50:02Z,2024-11-13T16:42:25Z,2,1,MERGED
+octuple,fix: dropdown auto click the element when TAB operation is invoked,https://github.com/EightfoldAI/octuple/pull/909,2024-11-12T22:20:07Z,2024-11-12T23:06:15Z,3,2,MERGED
+octuple,chore(release): 2.52.16,https://github.com/EightfoldAI/octuple/pull/908,2024-11-11T18:16:40Z,2024-11-11T18:24:26Z,2,1,MERGED
+octuple,fix: auto close date picker after selection,https://github.com/EightfoldAI/octuple/pull/907,2024-11-11T16:04:19Z,2024-11-11T17:47:27Z,2,1,MERGED
+octuple,feat: remove focus visible,https://github.com/EightfoldAI/octuple/pull/906,2024-11-11T03:13:46Z,2024-11-11T03:54:44Z,3,1,MERGED
+octuple,feat: change version in package.json,https://github.com/EightfoldAI/octuple/pull/905,2024-11-10T22:39:47Z,2024-11-11T01:41:13Z,2,1,MERGED
+octuple,fix: select: populate selected options text on component render,https://github.com/EightfoldAI/octuple/pull/904,2024-11-08T12:53:20Z,2024-12-19T05:10:29Z,2,1,CLOSED
+octuple,"Revert ""a11y: Accessibility fix for floating dropdown""",https://github.com/EightfoldAI/octuple/pull/903,2024-11-08T11:40:06Z,2024-11-11T03:16:00Z,2,1,CLOSED
+octuple,"fix(ui): remove aria properties from arrow button , added role presentation",https://github.com/EightfoldAI/octuple/pull/951,2025-02-24T10:58:07Z,2025-03-07T00:08:03Z,2,6,MERGED
+octuple,fix: build warning,https://github.com/EightfoldAI/octuple/pull/950,2025-02-20T18:38:09Z,2025-02-20T23:52:21Z,2,10,MERGED
+octuple,fix: avatar: tooltip accessibility fix,https://github.com/EightfoldAI/octuple/pull/949,2025-02-20T11:28:40Z,2025-03-06T23:53:56Z,4,9,MERGED
+octuple,Show background color of the selected option to its full width,https://github.com/EightfoldAI/octuple/pull/948,2025-02-19T00:16:01Z,2025-02-19T11:14:34Z,3,1,CLOSED
+octuple,fix: radio group prop name fixed,https://github.com/EightfoldAI/octuple/pull/946,2025-02-06T09:05:53Z,2025-03-05T20:41:13Z,3,5,MERGED
+octuple,fix: a11y: Fix role inheritance for select options,https://github.com/EightfoldAI/octuple/pull/943,2025-02-05T10:10:30Z,2025-02-06T06:35:13Z,2,1,MERGED
+octuple,a11y: Added keyDown events and column header role to th,https://github.com/EightfoldAI/octuple/pull/941,2025-02-05T10:03:18Z,2025-03-17T15:08:20Z,4,12,MERGED
+octuple,Fix: Close dropdown on Shift + Tab and enable cyclic navigation for menu items.,https://github.com/EightfoldAI/octuple/pull/940,2025-02-04T11:47:14Z,2025-03-10T21:13:49Z,4,4,MERGED
+octuple,[Fix][TM-oncall]: Upload container max width 100%,https://github.com/EightfoldAI/octuple/pull/939,2025-02-03T15:22:10Z,2025-02-04T03:24:32Z,3,1,MERGED
+octuple,fix: Heading heirarchy fix,https://github.com/EightfoldAI/octuple/pull/938,2025-02-02T07:03:40Z,2025-03-10T21:19:27Z,2,6,MERGED
+octuple,fix: added role presentation to hr tag,https://github.com/EightfoldAI/octuple/pull/937,2025-01-21T09:49:06Z,2025-03-10T21:24:46Z,2,8,MERGED
+octuple,fix: remove unused event parameter from Table sorter onClick handler,https://github.com/EightfoldAI/octuple/pull/935,2025-01-15T21:55:40Z,2025-01-15T22:01:44Z,2,1,MERGED
+octuple,fix: table cells access using shortcut key,https://github.com/EightfoldAI/octuple/pull/934,2025-01-15T12:11:06Z,2025-01-15T21:47:08Z,3,3,MERGED
+octuple,"fix: when options change externally and dropdown is open, update the …",https://github.com/EightfoldAI/octuple/pull/933,2025-01-15T10:24:44Z,2025-01-16T14:41:30Z,2,2,CLOSED
+octuple,fix: added keyboard accesibility to the easy cropper component,https://github.com/EightfoldAI/octuple/pull/932,2025-01-09T05:54:09Z,2025-01-09T06:29:38Z,1,3,MERGED
+octuple,fix: menuitem: added containerRole prop to menu item components,https://github.com/EightfoldAI/octuple/pull/931,2025-01-07T11:12:58Z,2025-02-10T11:16:18Z,3,2,CLOSED
+octuple,fix: dropdown: removed outer container tabindex,https://github.com/EightfoldAI/octuple/pull/930,2025-01-06T10:43:28Z,2025-01-15T07:08:12Z,3,6,MERGED

@@ -1,0 +1,831 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+tegel,feat(docs) prefix info in migration docs,https://github.com/scania-digital-design-system/tegel/pull/130,2023-05-31T09:22:34Z,2023-06-01T06:59:23Z,13,21,CLOSED
+tegel,docs(tabs): use Tab instead of tab,https://github.com/scania-digital-design-system/tegel/pull/129,2023-05-30T14:38:46Z,2023-05-31T07:52:29Z,2,2,MERGED
+tegel,docs(icon size): updated icon size control to be select instead of range,https://github.com/scania-digital-design-system/tegel/pull/128,2023-05-30T14:26:10Z,2023-05-31T08:25:56Z,2,2,MERGED
+tegel,feat(logotype): package structure,https://github.com/scania-digital-design-system/tegel/pull/127,2023-05-30T14:13:49Z,2023-05-31T08:09:15Z,2,1,MERGED
+tegel,feat(header): brand link,https://github.com/scania-digital-design-system/tegel/pull/126,2023-05-30T13:27:58Z,2023-05-31T11:19:49Z,9,3,MERGED
+tegel,docs(table): fix last uses of table lowercase,https://github.com/scania-digital-design-system/tegel/pull/125,2023-05-30T10:00:50Z,2023-05-30T14:12:59Z,2,1,MERGED
+tegel,docs(prefix change): announce prefix change,https://github.com/scania-digital-design-system/tegel/pull/124,2023-05-30T08:21:13Z,2023-06-01T06:05:36Z,18,25,MERGED
+tegel,chore(readme): restructure readmes,https://github.com/scania-digital-design-system/tegel/pull/123,2023-05-29T13:59:37Z,2023-05-29T15:11:58Z,3,3,MERGED
+tegel,fix(toggle): browser support,https://github.com/scania-digital-design-system/tegel/pull/122,2023-05-29T12:37:36Z,2023-05-29T12:47:50Z,4,2,MERGED
+tegel,fix(prefix change): cleanup,https://github.com/scania-digital-design-system/tegel/pull/118,2023-05-26T14:12:57Z,2023-05-26T14:24:32Z,2,1,MERGED
+tegel,docs(textarea): singular capital case,https://github.com/scania-digital-design-system/tegel/pull/117,2023-05-26T14:10:49Z,2023-05-26T14:16:42Z,2,2,MERGED
+tegel,feat(textarea): prefix change,https://github.com/scania-digital-design-system/tegel/pull/116,2023-05-26T13:28:34Z,2023-05-26T14:06:24Z,2,1,MERGED
+tegel,feat(dropdown): prefix change,https://github.com/scania-digital-design-system/tegel/pull/114,2023-05-26T11:07:50Z,2023-05-26T14:15:48Z,5,7,MERGED
+tegel,feat(stepper): prefix change + singular capital case,https://github.com/scania-digital-design-system/tegel/pull/113,2023-05-26T10:25:49Z,2023-05-26T13:08:58Z,4,5,MERGED
+tegel,feat(tooltip): prefix change,https://github.com/scania-digital-design-system/tegel/pull/112,2023-05-26T08:23:55Z,2023-05-26T11:39:06Z,5,3,MERGED
+tegel,feat(radiobutton): prefix change,https://github.com/scania-digital-design-system/tegel/pull/111,2023-05-26T07:21:45Z,2023-05-26T09:15:38Z,2,1,MERGED
+tegel,fix(:root) css selector,https://github.com/scania-digital-design-system/tegel/pull/110,2023-05-26T07:13:39Z,2023-05-26T07:15:24Z,2,1,MERGED
+tegel,feat(toast): prefix change,https://github.com/scania-digital-design-system/tegel/pull/109,2023-05-25T13:49:05Z,2023-05-26T07:54:39Z,2,2,MERGED
+tegel,feat(text field): prefix and component name change,https://github.com/scania-digital-design-system/tegel/pull/108,2023-05-25T13:47:56Z,2023-05-26T09:11:09Z,2,3,MERGED
+tegel,feat(link): prefix change,https://github.com/scania-digital-design-system/tegel/pull/107,2023-05-25T12:55:14Z,2023-05-26T07:53:58Z,2,1,MERGED
+tegel,feat(modal): prefix change,https://github.com/scania-digital-design-system/tegel/pull/106,2023-05-25T12:32:28Z,2023-05-26T06:46:47Z,3,2,MERGED
+tegel,docs: readme update,https://github.com/scania-digital-design-system/tegel/pull/105,2023-05-25T12:17:40Z,2023-05-25T12:29:02Z,2,1,MERGED
+tegel,fix(breadcrumbs): class naming,https://github.com/scania-digital-design-system/tegel/pull/104,2023-05-25T12:15:37Z,2023-05-25T12:16:10Z,1,1,MERGED
+tegel,feat(header/side-menu): prefix change,https://github.com/scania-digital-design-system/tegel/pull/103,2023-05-25T11:37:28Z,2023-05-26T09:10:35Z,5,7,MERGED
+tegel,feat(spinner): prefix change,https://github.com/scania-digital-design-system/tegel/pull/102,2023-05-24T20:15:15Z,2023-05-26T06:45:12Z,3,4,MERGED
+tegel,build: adding build command to root,https://github.com/scania-digital-design-system/tegel/pull/101,2023-05-24T13:36:55Z,2023-05-24T13:52:54Z,2,1,MERGED
+tegel,"build(stecil version): stencil v 3.3.0, node and enableImportInjection",https://github.com/scania-digital-design-system/tegel/pull/100,2023-05-24T13:00:58Z,2023-05-24T13:41:25Z,3,1,MERGED
+tegel,chore: move storybook to core folder,https://github.com/scania-digital-design-system/tegel/pull/99,2023-05-24T12:05:55Z,2023-05-24T12:22:55Z,2,2,MERGED
+tegel,docs(repo): updated link to correct repo and teams channel,https://github.com/scania-digital-design-system/tegel/pull/98,2023-05-24T11:05:44Z,2023-05-24T13:28:21Z,2,1,MERGED
+tegel,feat(divider): prefix change,https://github.com/scania-digital-design-system/tegel/pull/96,2023-05-24T06:59:03Z,2023-05-25T11:59:52Z,6,9,MERGED
+tegel,feat(chip): prefix change,https://github.com/scania-digital-design-system/tegel/pull/95,2023-05-23T15:15:56Z,2023-05-24T11:29:32Z,3,4,MERGED
+tegel,feat(button): prefix change,https://github.com/scania-digital-design-system/tegel/pull/94,2023-05-23T14:15:14Z,2023-05-25T11:16:20Z,5,9,MERGED
+tegel,fix(toggle/toast/textarea/message/dropdown-v2): added root selector to get light mode by default,https://github.com/scania-digital-design-system/tegel/pull/93,2023-05-23T11:04:20Z,2023-05-24T06:45:20Z,2,5,MERGED
+tegel,docs(web links): updated web links pointing to digitaldesign -> tegel,https://github.com/scania-digital-design-system/tegel/pull/92,2023-05-23T10:20:44Z,2023-05-24T06:45:51Z,2,1,MERGED
+tegel,feat(popover): prefix change,https://github.com/scania-digital-design-system/tegel/pull/91,2023-05-23T10:14:15Z,2023-05-24T08:03:02Z,5,12,MERGED
+tegel,feat(table): prefix change,https://github.com/scania-digital-design-system/tegel/pull/90,2023-05-23T10:03:58Z,2023-05-23T12:46:51Z,2,3,MERGED
+tegel,feat(tabs): prefix change,https://github.com/scania-digital-design-system/tegel/pull/89,2023-05-23T08:58:30Z,2023-05-23T12:25:49Z,2,3,MERGED
+tegel,fix(table): renaming data-table to table,https://github.com/scania-digital-design-system/tegel/pull/88,2023-05-23T07:54:51Z,2023-05-23T09:29:39Z,5,7,MERGED
+tegel,feat(toggle): prefix change,https://github.com/scania-digital-design-system/tegel/pull/87,2023-05-23T07:44:28Z,2023-05-24T06:44:43Z,2,1,MERGED
+tegel,docs(storybook): sort stories alpabetically,https://github.com/scania-digital-design-system/tegel/pull/86,2023-05-23T07:27:25Z,2023-05-31T07:34:37Z,8,2,CLOSED
+tegel,feat(slider): prefix change,https://github.com/scania-digital-design-system/tegel/pull/85,2023-05-22T13:47:19Z,2023-05-23T07:07:41Z,2,1,MERGED
+tegel,feat(card): prefix change,https://github.com/scania-digital-design-system/tegel/pull/84,2023-05-22T13:37:36Z,2023-05-22T15:16:39Z,4,4,MERGED
+tegel,feat(message): prefix change,https://github.com/scania-digital-design-system/tegel/pull/83,2023-05-22T13:03:24Z,2023-05-23T07:02:04Z,2,2,MERGED
+tegel,feat(footer): prefix change,https://github.com/scania-digital-design-system/tegel/pull/82,2023-05-22T12:21:33Z,2023-05-22T14:30:02Z,2,1,MERGED
+tegel,feat(datepicker): prefix change,https://github.com/scania-digital-design-system/tegel/pull/81,2023-05-22T11:49:18Z,2023-05-23T07:23:14Z,3,3,MERGED
+tegel,feat(checkbox): prefix change,https://github.com/scania-digital-design-system/tegel/pull/80,2023-05-22T11:36:02Z,2023-05-22T13:20:33Z,2,1,MERGED
+tegel,docs(readme): added readme to the core package,https://github.com/scania-digital-design-system/tegel/pull/79,2023-05-22T10:59:37Z,2023-05-22T13:20:52Z,2,1,MERGED
+tegel,fix(storybook-colors): radio controls over dropdown,https://github.com/scania-digital-design-system/tegel/pull/78,2023-05-22T10:07:27Z,2023-05-22T11:47:41Z,2,2,MERGED
+tegel,feat(breadcrumbs): prefix change,https://github.com/scania-digital-design-system/tegel/pull/77,2023-05-22T06:28:41Z,2023-05-22T08:02:55Z,3,2,MERGED
+tegel,"feat(block): prefix change, sdds -> tds",https://github.com/scania-digital-design-system/tegel/pull/76,2023-05-19T15:26:53Z,2023-05-22T07:33:23Z,4,3,MERGED
+tegel,feat(banner): prefix change,https://github.com/scania-digital-design-system/tegel/pull/75,2023-05-17T15:26:36Z,2023-05-22T14:06:05Z,7,5,MERGED
+tegel,chore(badge): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/74,2023-05-17T15:04:00Z,2023-05-22T07:40:07Z,2,2,MERGED
+tegel,chore(datetime): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/73,2023-05-17T14:31:12Z,2023-05-22T07:34:50Z,2,2,MERGED
+tegel, chore(popover): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/72,2023-05-17T14:26:16Z,2023-05-22T07:34:13Z,3,1,MERGED
+tegel,chore(modal): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/71,2023-05-15T16:05:22Z,2023-05-16T14:51:07Z,3,4,MERGED
+tegel,chore(message): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/70,2023-05-15T15:01:52Z,2023-05-16T14:41:27Z,2,4,MERGED
+tegel,chore(header): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/69,2023-05-15T14:55:59Z,2023-05-16T14:40:30Z,2,3,MERGED
+tegel,release: tegel 0.0.8,https://github.com/scania-digital-design-system/tegel/pull/68,2023-05-15T14:51:23Z,2023-05-15T15:12:45Z,2,2,MERGED
+tegel,chore(footer): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/67,2023-05-15T14:32:44Z,2023-05-16T14:39:23Z,2,3,MERGED
+tegel,chore(dropdown): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/66,2023-05-15T14:27:53Z,2023-05-17T12:23:44Z,3,6,MERGED
+tegel,chore(chip): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/65,2023-05-15T14:14:36Z,2023-05-16T14:16:27Z,2,3,MERGED
+tegel,chore(checkbox): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/64,2023-05-12T16:14:03Z,2023-05-15T13:24:11Z,2,2,MERGED
+tegel,chore(card): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/63,2023-05-12T16:10:24Z,2023-05-15T13:21:47Z,3,3,MERGED
+tegel,chore(button): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/62,2023-05-12T16:05:12Z,2023-05-15T13:23:39Z,3,5,MERGED
+tegel,chore(popover): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/61,2023-05-12T13:27:16Z,2023-05-15T11:51:54Z,2,2,MERGED
+tegel,chore(link): use singular Capital case where possible,https://github.com/scania-digital-design-system/tegel/pull/60,2023-05-12T13:20:53Z,2023-05-16T06:04:15Z,4,3,MERGED
+tegel,chore(radio button): use singular Capital Case where possible & file renaming,https://github.com/scania-digital-design-system/tegel/pull/59,2023-05-12T13:20:47Z,2023-05-15T11:36:08Z,2,1,MERGED
+tegel,chore(divider): use singular Capital case where possible,https://github.com/scania-digital-design-system/tegel/pull/58,2023-05-12T12:33:05Z,2023-05-12T13:11:38Z,2,1,MERGED
+tegel,chore(side menu): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/57,2023-05-12T09:59:14Z,2023-05-12T12:10:21Z,2,1,MERGED
+tegel,chore(banner): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/56,2023-05-12T09:10:26Z,2023-05-12T15:32:46Z,2,2,MERGED
+tegel,chore(badge): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/55,2023-05-12T09:03:27Z,2023-05-12T10:59:03Z,3,1,MERGED
+tegel,chore(spinner): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/54,2023-05-12T08:52:48Z,2023-05-12T12:09:58Z,2,2,MERGED
+tegel,chore(toast): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/53,2023-05-12T08:41:39Z,2023-05-12T12:09:43Z,2,1,MERGED
+tegel,chore(toggle): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/52,2023-05-12T08:36:11Z,2023-05-12T12:16:49Z,3,2,MERGED
+tegel,chore(tooltip): use singular Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/51,2023-05-12T08:24:46Z,2023-05-12T12:09:25Z,2,1,MERGED
+tegel,feat(badge) prefix change,https://github.com/scania-digital-design-system/tegel/pull/50,2023-05-12T07:36:54Z,2023-05-12T08:13:13Z,2,2,MERGED
+tegel,chore(accordion): use Capital Case where possible,https://github.com/scania-digital-design-system/tegel/pull/49,2023-05-11T15:38:32Z,2023-05-12T09:04:58Z,2,2,MERGED
+tegel,docs(events): prefix change,https://github.com/scania-digital-design-system/tegel/pull/48,2023-05-11T14:40:08Z,2023-05-11T15:16:15Z,2,1,MERGED
+tegel,docs(prefix change): changed prefix for the mode change in storybook,https://github.com/scania-digital-design-system/tegel/pull/47,2023-05-11T13:47:37Z,2023-05-11T15:03:44Z,1,1,MERGED
+tegel,docs(storybook) mode prefix update,https://github.com/scania-digital-design-system/tegel/pull/46,2023-05-11T13:19:26Z,2023-05-11T13:46:44Z,2,1,CLOSED
+tegel,feat(icons): icons prefix change,https://github.com/scania-digital-design-system/tegel/pull/45,2023-05-11T08:52:51Z,2023-05-11T13:27:03Z,5,10,MERGED
+tegel,feat(utility classes): prefix change,https://github.com/scania-digital-design-system/tegel/pull/44,2023-05-11T07:27:28Z,2023-05-11T08:35:17Z,2,2,MERGED
+tegel,docs(code-style): branching section,https://github.com/scania-digital-design-system/tegel/pull/43,2023-05-10T15:28:24Z,2023-05-11T08:46:31Z,2,1,MERGED
+tegel,feat(mixins): prefix change,https://github.com/scania-digital-design-system/tegel/pull/42,2023-05-10T14:37:38Z,2023-05-11T06:19:23Z,2,2,MERGED
+tegel,feat(icons): add new document icons,https://github.com/scania-digital-design-system/tegel/pull/41,2023-05-10T14:11:54Z,2023-05-15T12:51:44Z,6,4,MERGED
+tegel,feat(mixins): prefix change,https://github.com/scania-digital-design-system/tegel/pull/40,2023-05-10T13:25:48Z,2023-05-10T14:36:43Z,4,1,CLOSED
+tegel,feat(accordion): prefix change,https://github.com/scania-digital-design-system/tegel/pull/39,2023-05-10T13:03:01Z,2023-05-12T08:12:52Z,2,3,MERGED
+tegel,fix(core): removing storybook,https://github.com/scania-digital-design-system/tegel/pull/38,2023-05-10T10:13:58Z,2023-05-10T14:15:24Z,5,7,MERGED
+tegel,fix(slider): keyboard nav snapping ,https://github.com/scania-digital-design-system/tegel/pull/37,2023-05-10T10:09:30Z,2023-05-11T08:03:39Z,5,5,MERGED
+tegel,feat(logotype): used prefix const,https://github.com/scania-digital-design-system/tegel/pull/36,2023-05-10T09:41:01Z,2023-05-10T11:49:20Z,2,1,MERGED
+tegel,feat(grid): prefix change,https://github.com/scania-digital-design-system/tegel/pull/35,2023-05-10T09:40:48Z,2023-05-10T11:49:54Z,2,1,MERGED
+tegel,feat(color): prefix change,https://github.com/scania-digital-design-system/tegel/pull/34,2023-05-10T07:55:55Z,2023-05-10T09:06:00Z,2,2,MERGED
+tegel,fix(button): made disabled button non-clickable,https://github.com/scania-digital-design-system/tegel/pull/33,2023-05-09T13:40:19Z,2023-05-10T09:41:37Z,4,3,MERGED
+tegel,chore: test netlify on separate branch,https://github.com/scania-digital-design-system/tegel/pull/32,2023-05-09T13:01:03Z,2023-05-09T14:47:02Z,3,1,CLOSED
+tegel,docs(github-template): removing request help template,https://github.com/scania-digital-design-system/tegel/pull/31,2023-05-09T12:51:02Z,2023-05-10T07:22:44Z,2,1,MERGED
+tegel,feat(prefix): changing prefix from sdds to tds,https://github.com/scania-digital-design-system/tegel/pull/30,2023-05-09T10:05:50Z,2023-06-05T11:42:57Z,3,75,MERGED
+tegel,feat(typography): prefix change,https://github.com/scania-digital-design-system/tegel/pull/29,2023-05-09T07:58:26Z,2023-05-09T10:04:14Z,3,2,MERGED
+tegel,build(core): removing concurrently and tegel script,https://github.com/scania-digital-design-system/tegel/pull/28,2023-05-09T07:55:08Z,2023-05-09T10:02:07Z,3,1,MERGED
+tegel,docs(github-templates): typos correction,https://github.com/scania-digital-design-system/tegel/pull/27,2023-05-09T07:33:54Z,2023-05-09T10:01:15Z,2,1,MERGED
+tegel,"fix(button): updated margin-left on sdds-icon inside btn, removed rules for fullbleed",https://github.com/scania-digital-design-system/tegel/pull/22,2023-05-08T11:19:16Z,2023-05-09T07:06:33Z,2,1,MERGED
+tegel,chore(readme): moved readme to be in root folder,https://github.com/scania-digital-design-system/tegel/pull/21,2023-05-08T06:21:24Z,2023-05-08T06:25:01Z,1,1,MERGED
+tegel,Release/0.0.72,https://github.com/scania-digital-design-system/tegel/pull/20,2023-05-05T15:02:53Z,2023-05-08T13:01:02Z,3,2,MERGED
+tegel,fix(button): made the button non-clickable when disabled,https://github.com/scania-digital-design-system/tegel/pull/19,2023-05-05T09:09:15Z,2023-05-06T07:02:02Z,1,1,MERGED
+tegel,build(release): 0.0.71-beta,https://github.com/scania-digital-design-system/tegel/pull/18,2023-05-04T14:45:58Z,2023-05-04T14:49:54Z,1,1,MERGED
+tegel,fix(components): changed from hostelement to htmlelement,https://github.com/scania-digital-design-system/tegel/pull/17,2023-05-04T14:36:13Z,2023-05-04T14:39:01Z,1,1,MERGED
+tegel,Fix/eslint installation,https://github.com/scania-digital-design-system/tegel/pull/16,2023-05-04T14:22:39Z,2023-05-04T14:24:30Z,1,2,MERGED
+tegel,docs(readme): remove tegel readme,https://github.com/scania-digital-design-system/tegel/pull/15,2023-05-04T13:20:22Z,2023-05-04T14:38:29Z,1,2,MERGED
+tegel,fix(popover-menu-item): updated import to include popover-menu-item,https://github.com/scania-digital-design-system/tegel/pull/14,2023-05-04T09:26:21Z,2023-05-04T13:21:27Z,1,1,MERGED
+tegel,Fix/update typography import,https://github.com/scania-digital-design-system/tegel/pull/13,2023-05-04T08:58:35Z,2023-05-04T09:23:01Z,1,3,MERGED
+tegel,chore(repo): repository cleanup,https://github.com/scania-digital-design-system/tegel/pull/12,2023-05-04T08:19:34Z,2023-05-04T08:20:43Z,1,5,MERGED
+tegel,fix: storybook build,https://github.com/scania-digital-design-system/tegel/pull/11,2023-05-03T14:29:55Z,2023-05-04T06:42:28Z,1,5,MERGED
+tegel,chore(storybook): added netflify config and public dir,https://github.com/scania-digital-design-system/tegel/pull/10,2023-05-03T14:16:58Z,2023-05-03T14:17:49Z,0,1,MERGED
+tegel,chore(docs): added docs and notes to storybook,https://github.com/scania-digital-design-system/tegel/pull/9,2023-05-03T13:02:45Z,2023-05-03T13:04:31Z,0,1,MERGED
+tegel,chore: created script for starting,https://github.com/scania-digital-design-system/tegel/pull/8,2023-05-03T12:24:18Z,2023-05-03T12:25:34Z,0,1,MERGED
+tegel,refactor: story directory structure for foundations and patterns,https://github.com/scania-digital-design-system/tegel/pull/7,2023-05-03T11:51:20Z,2023-05-03T11:51:55Z,0,1,MERGED
+tegel,fix: update color and grid path,https://github.com/scania-digital-design-system/tegel/pull/6,2023-05-03T11:32:29Z,2023-05-03T11:32:52Z,0,1,MERGED
+tegel,chore(core): added all component and updated storybook config,https://github.com/scania-digital-design-system/tegel/pull/5,2023-05-02T14:32:30Z,2023-05-02T14:34:18Z,0,1,MERGED
+tegel,chore(icons): moved icons package,https://github.com/scania-digital-design-system/tegel/pull/4,2023-05-02T13:53:14Z,2023-05-02T13:54:51Z,0,2,MERGED
+tegel,chore(grid & spacing): move grid and spacing package,https://github.com/scania-digital-design-system/tegel/pull/3,2023-05-02T13:27:13Z,2023-05-02T13:27:40Z,0,3,MERGED
+tegel,chore(typography): move typography files,https://github.com/scania-digital-design-system/tegel/pull/2,2023-05-02T12:45:19Z,2023-05-02T12:45:59Z,0,1,MERGED
+tegel,chore(color & storybook): moved color package and inited storybook,https://github.com/scania-digital-design-system/tegel/pull/1,2023-05-02T12:35:05Z,2023-05-02T12:36:52Z,0,4,MERGED
+tegel,fix: rename variant option none to default,https://github.com/scania-digital-design-system/tegel/pull/236,2023-07-31T14:58:01Z,2023-08-02T14:10:35Z,2,2,MERGED
+tegel,tds table built-in filtering did not work with expandable rows,https://github.com/scania-digital-design-system/tegel/pull/235,2023-07-28T14:36:40Z,2023-08-02T14:09:21Z,2,2,MERGED
+tegel,Release/release 0.0.11,https://github.com/scania-digital-design-system/tegel/pull/234,2023-07-24T14:30:34Z,2023-07-24T14:38:44Z,2,2,MERGED
+tegel,fix(dropdown): remove emit on setting default value,https://github.com/scania-digital-design-system/tegel/pull/233,2023-07-24T10:49:21Z,2023-07-24T13:20:26Z,2,1,MERGED
+tegel,refactor(header): size instead of type prop,https://github.com/scania-digital-design-system/tegel/pull/232,2023-07-20T12:46:40Z,2023-07-20T13:32:52Z,2,1,MERGED
+tegel,refactor(banner): variant instead of type prop,https://github.com/scania-digital-design-system/tegel/pull/230,2023-07-20T10:02:07Z,2023-07-20T12:11:01Z,2,1,MERGED
+tegel,refactor(toast): variant instead of type prop,https://github.com/scania-digital-design-system/tegel/pull/229,2023-07-20T08:23:54Z,2023-07-20T08:56:25Z,2,1,MERGED
+tegel,refactor(message): variant instead of type prop,https://github.com/scania-digital-design-system/tegel/pull/228,2023-07-20T07:35:37Z,2023-07-20T07:59:15Z,2,1,MERGED
+tegel,fix(link): span instead of div for inline alignment,https://github.com/scania-digital-design-system/tegel/pull/227,2023-07-19T16:05:12Z,2023-07-19T16:12:14Z,2,1,MERGED
+tegel,refactor(popover-core): rename and move,https://github.com/scania-digital-design-system/tegel/pull/226,2023-07-19T09:10:11Z,2023-07-19T09:14:15Z,2,1,MERGED
+tegel,fix(popover-canvas): use tds link component,https://github.com/scania-digital-design-system/tegel/pull/225,2023-07-19T08:23:43Z,2023-07-19T08:54:13Z,2,3,MERGED
+tegel,fix(footer): horizontal scroll issue,https://github.com/scania-digital-design-system/tegel/pull/224,2023-07-18T14:43:44Z,2023-07-18T14:46:41Z,2,1,MERGED
+tegel,fix(card): class and rule for body image,https://github.com/scania-digital-design-system/tegel/pull/223,2023-07-18T13:48:54Z,2023-07-18T14:45:19Z,2,1,MERGED
+tegel,fix(button): disabled state and pointer events,https://github.com/scania-digital-design-system/tegel/pull/222,2023-07-18T11:13:12Z,2023-07-18T11:49:16Z,3,1,MERGED
+tegel,feat(storybook): show package version,https://github.com/scania-digital-design-system/tegel/pull/221,2023-07-17T16:52:29Z,2023-07-17T16:55:04Z,2,1,MERGED
+tegel,ci: update of pr template,https://github.com/scania-digital-design-system/tegel/pull/220,2023-07-17T13:11:29Z,2023-07-17T13:11:45Z,2,1,MERGED
+tegel,build: additional shields,https://github.com/scania-digital-design-system/tegel/pull/219,2023-07-17T13:06:40Z,2023-07-17T13:07:21Z,2,1,MERGED
+tegel,build: node shield correction,https://github.com/scania-digital-design-system/tegel/pull/218,2023-07-17T11:03:23Z,2023-07-17T11:03:31Z,2,1,MERGED
+tegel,ci: extended list of commitlint & commitizen tags,https://github.com/scania-digital-design-system/tegel/pull/217,2023-07-17T10:10:25Z,2023-07-17T10:13:32Z,2,1,MERGED
+tegel,fix: prefix change banner slot name,https://github.com/scania-digital-design-system/tegel/pull/216,2023-07-14T08:17:01Z,2023-07-17T07:48:54Z,2,1,MERGED
+tegel,fix(popover): refactor faulty left-start option for popover positioning,https://github.com/scania-digital-design-system/tegel/pull/215,2023-07-13T12:30:12Z,2023-07-17T07:45:04Z,2,1,MERGED
+tegel,chore: release 0.0.10,https://github.com/scania-digital-design-system/tegel/pull/214,2023-07-13T12:19:50Z,2023-07-14T07:12:07Z,2,1,MERGED
+tegel,fix(chip): spacing & slots,https://github.com/scania-digital-design-system/tegel/pull/213,2023-07-12T14:10:08Z,2023-07-13T08:34:04Z,4,7,MERGED
+tegel,docs: document unnamed slots,https://github.com/scania-digital-design-system/tegel/pull/212,2023-07-11T15:26:25Z,2023-07-13T08:21:03Z,2,1,MERGED
+tegel,fix(slider): disabled state update in runtime,https://github.com/scania-digital-design-system/tegel/pull/211,2023-07-11T14:27:11Z,2023-07-12T13:29:31Z,2,2,MERGED
+tegel,"refactor(popover, tooltip): share code instead of duplicating",https://github.com/scania-digital-design-system/tegel/pull/210,2023-07-11T13:27:28Z,2023-07-13T12:07:44Z,4,6,MERGED
+tegel,fix(chip): focus background color,https://github.com/scania-digital-design-system/tegel/pull/209,2023-07-10T14:58:16Z,2023-07-11T11:27:48Z,2,1,MERGED
+tegel,build: update dependencies,https://github.com/scania-digital-design-system/tegel/pull/208,2023-07-10T14:23:31Z,2023-07-11T11:27:18Z,2,1,MERGED
+tegel,feat: use custom uid utility fn instead of crypto fn,https://github.com/scania-digital-design-system/tegel/pull/207,2023-07-10T11:58:29Z,2023-07-11T13:28:03Z,2,2,MERGED
+tegel,fix(popover): reference el prop accept null,https://github.com/scania-digital-design-system/tegel/pull/206,2023-07-10T07:50:43Z,2023-07-10T14:56:53Z,4,3,MERGED
+tegel,feat: adding .npmignore ,https://github.com/scania-digital-design-system/tegel/pull/205,2023-07-07T14:29:04Z,2023-07-10T09:16:25Z,2,2,MERGED
+tegel,feat(button): submit | reset | button types,https://github.com/scania-digital-design-system/tegel/pull/204,2023-07-06T14:32:01Z,2023-07-19T15:38:16Z,3,4,MERGED
+tegel,fix(table:sorting): fixed width on icon to prevent content jump,https://github.com/scania-digital-design-system/tegel/pull/203,2023-07-06T13:36:06Z,2023-07-07T11:11:46Z,3,1,MERGED
+tegel,feat(table): remove internal logic,https://github.com/scania-digital-design-system/tegel/pull/202,2023-07-06T13:19:07Z,2023-09-05T07:03:48Z,31,41,MERGED
+tegel,feat(table-footer): refactored pagination logic and implementation,https://github.com/scania-digital-design-system/tegel/pull/201,2023-07-06T11:44:26Z,2023-07-07T07:54:43Z,4,5,MERGED
+tegel,fix(stepper): adjust Stepper layout to not force space between Steps,https://github.com/scania-digital-design-system/tegel/pull/200,2023-07-06T07:21:22Z,2023-07-10T08:15:40Z,2,1,MERGED
+tegel,fix(button): padding for button with icon,https://github.com/scania-digital-design-system/tegel/pull/199,2023-07-06T06:51:06Z,2023-07-06T14:50:30Z,2,1,MERGED
+tegel,fix(dropdown): move open dir calc to render,https://github.com/scania-digital-design-system/tegel/pull/198,2023-07-05T14:11:48Z,2023-07-06T11:53:54Z,2,1,MERGED
+tegel,docs(storybook): stories sorting and hierarchy,https://github.com/scania-digital-design-system/tegel/pull/197,2023-07-05T14:05:09Z,2023-07-07T12:53:42Z,2,1,MERGED
+tegel,fix(table): removed dummy-data prop,https://github.com/scania-digital-design-system/tegel/pull/196,2023-07-05T08:25:20Z,2023-07-05T13:43:34Z,3,3,MERGED
+tegel,feat(message): align slots,https://github.com/scania-digital-design-system/tegel/pull/195,2023-07-04T07:13:42Z,2023-07-05T08:51:45Z,2,3,MERGED
+tegel,feat(table): fixed logic for showing/hiding no result message,https://github.com/scania-digital-design-system/tegel/pull/194,2023-07-03T15:24:35Z,2023-07-05T09:50:20Z,6,5,MERGED
+tegel,fix(tabs): correct the text color of disabled tabs,https://github.com/scania-digital-design-system/tegel/pull/193,2023-07-03T14:48:09Z,2023-07-05T10:06:19Z,2,5,MERGED
+tegel,fix(side menu): corrected background color of collapsed dropdown,https://github.com/scania-digital-design-system/tegel/pull/192,2023-07-03T14:16:58Z,2023-07-05T08:48:07Z,2,1,MERGED
+tegel,docs(dropdown): standardise order of controls,https://github.com/scania-digital-design-system/tegel/pull/191,2023-07-03T11:45:06Z,2023-07-05T08:46:57Z,3,2,MERGED
+tegel,fix(toast): closing programatically without emitting event,https://github.com/scania-digital-design-system/tegel/pull/190,2023-07-03T11:26:33Z,2023-07-05T08:17:49Z,2,1,MERGED
+tegel,fix(banner): closing programatically without emitting event,https://github.com/scania-digital-design-system/tegel/pull/189,2023-07-03T11:21:07Z,2023-07-05T08:17:22Z,2,1,MERGED
+tegel,fix(banner): closing programatically without emitting event,https://github.com/scania-digital-design-system/tegel/pull/188,2023-07-03T11:18:24Z,2023-07-03T11:20:55Z,2,1,CLOSED
+tegel,fix(tabs): set transition on hover,https://github.com/scania-digital-design-system/tegel/pull/187,2023-07-03T11:02:04Z,2023-07-03T14:18:43Z,4,2,MERGED
+tegel,fix(radio button): wrong color disabled state,https://github.com/scania-digital-design-system/tegel/pull/186,2023-07-03T10:39:17Z,2023-07-03T12:42:02Z,3,3,MERGED
+tegel,fix(side-menu): z-index,https://github.com/scania-digital-design-system/tegel/pull/185,2023-07-03T10:25:34Z,2023-07-03T14:49:13Z,4,4,MERGED
+tegel,fix(message): corrected text color on minimal message in error state,https://github.com/scania-digital-design-system/tegel/pull/184,2023-07-03T10:01:22Z,2023-07-03T13:38:23Z,2,1,MERGED
+tegel,fix(footer): apply styling only to links/buttons,https://github.com/scania-digital-design-system/tegel/pull/183,2023-07-03T09:55:23Z,2023-07-03T12:26:01Z,2,1,MERGED
+tegel,fix(modal): closing programatically without emitting event,https://github.com/scania-digital-design-system/tegel/pull/182,2023-07-03T09:44:50Z,2023-07-03T13:38:05Z,2,1,MERGED
+tegel,feat(table): refactor pagination,https://github.com/scania-digital-design-system/tegel/pull/181,2023-06-30T13:25:38Z,2023-07-17T07:49:17Z,11,1,CLOSED
+tegel,docs(card): updated slot docs,https://github.com/scania-digital-design-system/tegel/pull/180,2023-06-30T08:02:30Z,2023-06-30T12:46:11Z,2,1,MERGED
+tegel,fix(side-menu): slots,https://github.com/scania-digital-design-system/tegel/pull/179,2023-06-29T13:16:24Z,2023-07-05T11:22:34Z,7,24,MERGED
+tegel,fix(chip): css selector for gap,https://github.com/scania-digital-design-system/tegel/pull/178,2023-06-29T09:16:01Z,2023-07-03T08:52:19Z,5,1,MERGED
+tegel,fix(dropdown): corrected font,https://github.com/scania-digital-design-system/tegel/pull/177,2023-06-28T13:15:11Z,2023-06-28T14:34:24Z,2,1,MERGED
+tegel,fix(tabs): no event emitted on disabled tabs,https://github.com/scania-digital-design-system/tegel/pull/176,2023-06-28T11:25:05Z,2023-06-28T14:32:41Z,2,1,MERGED
+tegel,fix(modal): slot alignment,https://github.com/scania-digital-design-system/tegel/pull/175,2023-06-28T09:03:14Z,2023-06-28T14:34:03Z,10,13,MERGED
+tegel,fix(breadcrumbs): last element and disabled corrections,https://github.com/scania-digital-design-system/tegel/pull/174,2023-06-28T08:31:49Z,2023-06-28T14:33:06Z,3,2,MERGED
+tegel,feat(table): slot alignment,https://github.com/scania-digital-design-system/tegel/pull/173,2023-06-28T08:19:11Z,2023-06-30T06:56:50Z,8,7,MERGED
+tegel,feat(accordion): align slot naming,https://github.com/scania-digital-design-system/tegel/pull/172,2023-06-28T07:35:10Z,2023-06-30T07:59:46Z,2,1,MERGED
+tegel,feat(footer): slot alignment,https://github.com/scania-digital-design-system/tegel/pull/171,2023-06-27T11:30:30Z,2023-06-28T12:33:09Z,9,4,MERGED
+tegel,fix(globals): corrected rules for global background and color,https://github.com/scania-digital-design-system/tegel/pull/170,2023-06-27T07:36:34Z,2023-06-27T14:50:26Z,2,1,MERGED
+tegel,fix(text-field): align slots,https://github.com/scania-digital-design-system/tegel/pull/169,2023-06-27T06:39:31Z,2023-06-27T08:46:48Z,2,1,MERGED
+tegel,docs(slots): documentation for slot naming convention,https://github.com/scania-digital-design-system/tegel/pull/168,2023-06-22T07:14:53Z,2023-06-27T12:42:53Z,7,6,MERGED
+tegel,docs(button): docs for icon slot,https://github.com/scania-digital-design-system/tegel/pull/167,2023-06-21T14:26:18Z,2023-06-22T11:11:26Z,2,1,MERGED
+tegel,docs(chip): docs for label slot,https://github.com/scania-digital-design-system/tegel/pull/166,2023-06-21T14:21:19Z,2023-06-26T05:54:00Z,2,1,MERGED
+tegel,docs(stepper): docs for label slot,https://github.com/scania-digital-design-system/tegel/pull/165,2023-06-21T14:17:02Z,2023-06-26T05:54:20Z,2,2,MERGED
+tegel,docs(radio button): docs for label slot,https://github.com/scania-digital-design-system/tegel/pull/164,2023-06-21T14:14:21Z,2023-06-26T05:53:32Z,2,1,MERGED
+tegel,docs(events): document removal of event listener in react example,https://github.com/scania-digital-design-system/tegel/pull/163,2023-06-21T13:40:38Z,2023-06-26T05:54:43Z,2,1,MERGED
+tegel,docs(toggle): docs for the label slot,https://github.com/scania-digital-design-system/tegel/pull/162,2023-06-21T13:39:02Z,2023-06-22T11:11:52Z,2,1,MERGED
+tegel,docs(checkbox): docs for the label slot,https://github.com/scania-digital-design-system/tegel/pull/161,2023-06-21T13:36:24Z,2023-06-22T11:12:29Z,4,1,MERGED
+tegel,fix(header): align slots,https://github.com/scania-digital-design-system/tegel/pull/160,2023-06-21T13:12:01Z,2023-06-26T12:50:02Z,4,4,MERGED
+tegel,feat(dropdown): removed old dropdown,https://github.com/scania-digital-design-system/tegel/pull/159,2023-06-20T13:42:53Z,2023-06-27T12:42:31Z,5,2,MERGED
+tegel,feat(card): align slots,https://github.com/scania-digital-design-system/tegel/pull/158,2023-06-20T11:44:48Z,2023-06-27T14:33:04Z,12,12,MERGED
+tegel,fix(slider): disabled state and code hygiene ,https://github.com/scania-digital-design-system/tegel/pull/157,2023-06-20T10:04:31Z,2023-06-26T14:26:07Z,2,4,MERGED
+tegel,feat(toast): align slots,https://github.com/scania-digital-design-system/tegel/pull/156,2023-06-20T09:44:19Z,2023-06-27T14:31:20Z,4,8,MERGED
+tegel,fix(banner): align slots,https://github.com/scania-digital-design-system/tegel/pull/155,2023-06-20T08:29:34Z,2023-06-27T12:38:12Z,5,6,MERGED
+tegel,feat(link): display:inline and updated component to use shadowDOM,https://github.com/scania-digital-design-system/tegel/pull/154,2023-06-19T13:38:47Z,2023-06-26T13:58:52Z,2,1,MERGED
+tegel,fix(textarea): corrected root selector,https://github.com/scania-digital-design-system/tegel/pull/153,2023-06-15T15:20:34Z,2023-06-20T06:51:46Z,2,1,MERGED
+tegel,fix(badge): fixing reported issue in Sonarcloud,https://github.com/scania-digital-design-system/tegel/pull/152,2023-06-13T11:42:29Z,2023-06-19T09:10:20Z,3,2,MERGED
+tegel,fix(button): locked in disabled state,https://github.com/scania-digital-design-system/tegel/pull/148,2023-06-12T15:59:34Z,2023-06-14T15:46:29Z,6,2,MERGED
+tegel,fix(banner/badge/toast): reflect hidden prop,https://github.com/scania-digital-design-system/tegel/pull/147,2023-06-08T13:26:25Z,2023-06-12T06:09:21Z,2,1,MERGED
+tegel,feat(tooltip): update method for tooltip,https://github.com/scania-digital-design-system/tegel/pull/146,2023-06-07T13:33:20Z,2023-06-07T14:34:14Z,4,2,MERGED
+tegel,docs(icons): updated icons story name,https://github.com/scania-digital-design-system/tegel/pull/145,2023-06-07T13:09:22Z,2023-06-07T13:40:30Z,2,1,MERGED
+tegel,fix(card/banner/toast): align components,https://github.com/scania-digital-design-system/tegel/pull/144,2023-06-07T12:49:35Z,2023-06-12T12:22:02Z,12,13,CLOSED
+tegel,build: update to node 18,https://github.com/scania-digital-design-system/tegel/pull/143,2023-06-07T12:05:53Z,2023-07-07T07:46:52Z,14,4,MERGED
+tegel,Release/59,https://github.com/scania-digital-design-system/tegel/pull/142,2023-06-05T11:49:42Z,2023-06-05T11:59:13Z,2,2,MERGED
+tegel,fix(card): thumbnail slot,https://github.com/scania-digital-design-system/tegel/pull/141,2023-06-05T07:57:40Z,2023-06-07T12:10:18Z,4,2,CLOSED
+tegel,feat(checkbox): indeterminate state,https://github.com/scania-digital-design-system/tegel/pull/140,2023-06-02T16:57:05Z,2023-08-31T08:15:08Z,8,1,CLOSED
+tegel,docs: tegel regression ,https://github.com/scania-digital-design-system/tegel/pull/139,2023-06-02T16:01:33Z,2023-06-05T07:44:31Z,6,28,MERGED
+tegel,feat(readme): adding missing prefix to spinner and dropdown,https://github.com/scania-digital-design-system/tegel/pull/138,2023-06-02T13:17:19Z,2023-06-02T14:48:00Z,2,1,MERGED
+tegel,feat(card): remove max width,https://github.com/scania-digital-design-system/tegel/pull/137,2023-06-02T11:54:40Z,2023-06-05T06:47:12Z,3,1,MERGED
+tegel,docs(installation): tegel design installation page,https://github.com/scania-digital-design-system/tegel/pull/136,2023-06-01T15:09:26Z,2023-06-07T15:12:34Z,6,8,MERGED
+tegel,chore: test commit,https://github.com/scania-digital-design-system/tegel/pull/135,2023-06-01T14:44:50Z,2023-06-01T14:48:32Z,2,1,CLOSED
+tegel,fix: prettier under devDepenencies,https://github.com/scania-digital-design-system/tegel/pull/134,2023-06-01T14:29:31Z,2023-06-01T18:09:37Z,2,2,MERGED
+tegel,feat: indeterminate checkbox state feature,https://github.com/scania-digital-design-system/tegel/pull/133,2023-06-01T14:19:05Z,2023-06-05T07:28:43Z,5,1,CLOSED
+tegel,docs: CSS reset,https://github.com/scania-digital-design-system/tegel/pull/132,2023-06-01T11:31:30Z,2023-06-07T07:50:09Z,12,9,MERGED
+tegel,docs(prefix info): add prefix info in migration docs,https://github.com/scania-digital-design-system/tegel/pull/131,2023-06-01T07:12:41Z,2023-06-01T08:54:35Z,3,2,MERGED
+tegel,build(gh actions): updated github actions to be default use node version 20.9.0,https://github.com/scania-digital-design-system/tegel/pull/404,2023-10-31T10:58:41Z,2023-10-31T10:58:59Z,1,1,MERGED
+tegel,chore: syncing main and develop branch,https://github.com/scania-digital-design-system/tegel/pull/403,2023-10-31T09:59:51Z,2023-10-31T10:04:06Z,2,5,MERGED
+tegel,chore: update react package version,https://github.com/scania-digital-design-system/tegel/pull/401,2023-10-31T09:49:42Z,2023-10-31T09:50:36Z,1,1,MERGED
+tegel,fix(dropdown): error focus state style alignment,https://github.com/scania-digital-design-system/tegel/pull/400,2023-10-30T11:03:04Z,2023-10-31T09:31:10Z,2,3,MERGED
+tegel,fix: stepper hideLabels in runtime,https://github.com/scania-digital-design-system/tegel/pull/398,2023-10-27T13:16:22Z,2023-10-27T15:20:47Z,3,3,MERGED
+tegel,build: stencil@4.7.0,https://github.com/scania-digital-design-system/tegel/pull/397,2023-10-27T09:29:12Z,2023-11-06T16:12:33Z,5,47,CLOSED
+tegel,fix(button): correct font-size for icon button,https://github.com/scania-digital-design-system/tegel/pull/396,2023-10-27T06:20:57Z,2023-10-30T13:24:03Z,3,1,MERGED
+tegel,build(node): version 20,https://github.com/scania-digital-design-system/tegel/pull/395,2023-10-26T09:09:59Z,2023-10-31T10:50:55Z,3,1,MERGED
+tegel,chore: update angular package description,https://github.com/scania-digital-design-system/tegel/pull/394,2023-10-26T07:30:49Z,2023-10-30T13:10:09Z,1,1,MERGED
+tegel,docs(datetime): correct the setting of max prop,https://github.com/scania-digital-design-system/tegel/pull/393,2023-10-25T12:32:26Z,2023-10-25T12:33:02Z,1,5,MERGED
+tegel,fix(plausible): domain update,https://github.com/scania-digital-design-system/tegel/pull/392,2023-10-25T12:24:40Z,2023-10-25T12:28:51Z,2,3,MERGED
+tegel,fix(plausible): storybook domain update,https://github.com/scania-digital-design-system/tegel/pull/391,2023-10-25T12:08:41Z,2023-10-25T12:31:38Z,4,4,CLOSED
+tegel,build(release actions): cleanup of release gh actions,https://github.com/scania-digital-design-system/tegel/pull/390,2023-10-25T09:23:43Z,2023-10-31T09:22:58Z,10,5,MERGED
+tegel,build: removed checkout step in gh action,https://github.com/scania-digital-design-system/tegel/pull/388,2023-10-25T09:03:26Z,2023-10-25T09:03:58Z,1,1,MERGED
+tegel,build: corrected install step in gh action,https://github.com/scania-digital-design-system/tegel/pull/387,2023-10-25T08:54:56Z,2023-10-25T08:56:21Z,1,1,MERGED
+tegel,build: tegel build and then wrapper build,https://github.com/scania-digital-design-system/tegel/pull/386,2023-10-25T08:51:34Z,2023-10-25T08:52:33Z,1,1,MERGED
+tegel,Build/specify working dir,https://github.com/scania-digital-design-system/tegel/pull/385,2023-10-25T08:40:40Z,2023-10-25T08:41:27Z,1,1,MERGED
+tegel,build(react-wrapper): specify working-dir,https://github.com/scania-digital-design-system/tegel/pull/384,2023-10-25T08:36:49Z,2023-10-25T08:38:31Z,1,1,MERGED
+tegel,build: react wrapper pipeline fix 1,https://github.com/scania-digital-design-system/tegel/pull/383,2023-10-25T08:26:13Z,2023-10-25T08:26:31Z,1,1,MERGED
+tegel,docs(datetime): correct the setting of max prop,https://github.com/scania-digital-design-system/tegel/pull/382,2023-10-25T08:11:50Z,2023-10-25T12:31:27Z,2,2,MERGED
+tegel,"docs: ""native"" components -> css class components",https://github.com/scania-digital-design-system/tegel/pull/381,2023-10-24T15:10:53Z,2023-10-30T12:51:33Z,3,2,MERGED
+tegel,fix(plausible): domain update,https://github.com/scania-digital-design-system/tegel/pull/380,2023-10-24T13:13:53Z,2023-10-25T08:01:13Z,3,1,CLOSED
+tegel,fix(plausible): domain update,https://github.com/scania-digital-design-system/tegel/pull/379,2023-10-24T13:11:02Z,2023-10-25T12:06:12Z,1,1,MERGED
+tegel,docs(datetime): updated the max prop to use correct prop,https://github.com/scania-digital-design-system/tegel/pull/378,2023-10-24T13:00:54Z,2023-10-25T08:01:01Z,2,1,CLOSED
+tegel,chore: update package readmes,https://github.com/scania-digital-design-system/tegel/pull/377,2023-10-24T11:25:15Z,2023-10-30T12:52:01Z,2,1,MERGED
+tegel,fix(tabs): unset z index,https://github.com/scania-digital-design-system/tegel/pull/376,2023-10-23T16:00:59Z,2023-11-16T09:57:49Z,15,1,MERGED
+tegel,feat(date-picker): inital date-picker development,https://github.com/scania-digital-design-system/tegel/pull/375,2023-10-23T09:52:59Z,2024-02-26T08:23:08Z,18,38,MERGED
+tegel,test: playwright setup & remove jest/puppeteer,https://github.com/scania-digital-design-system/tegel/pull/374,2023-10-20T10:58:30Z,2023-11-06T08:59:49Z,22,53,MERGED
+tegel,feat(table): add inderminate state & updated selected prop,https://github.com/scania-digital-design-system/tegel/pull/372,2023-10-19T08:46:37Z,2023-10-24T12:06:41Z,4,5,MERGED
+tegel,fix(footer): link/title correct font,https://github.com/scania-digital-design-system/tegel/pull/370,2023-10-18T08:58:34Z,2023-10-24T08:56:35Z,4,2,MERGED
+tegel,feat(slider): update value onblur,https://github.com/scania-digital-design-system/tegel/pull/369,2023-10-17T08:06:28Z,2023-10-23T12:59:48Z,6,8,MERGED
+tegel,docs(datetime): updated default value and max properties,https://github.com/scania-digital-design-system/tegel/pull/368,2023-10-13T13:44:55Z,2023-10-16T08:01:02Z,2,1,MERGED
+tegel,fix(toast): enable for runtime updates of the hidden prop,https://github.com/scania-digital-design-system/tegel/pull/367,2023-10-13T12:48:40Z,2023-10-24T07:07:59Z,4,2,MERGED
+tegel,fix(breadcrumb): correct focus state,https://github.com/scania-digital-design-system/tegel/pull/366,2023-10-13T09:40:33Z,2023-10-24T06:51:58Z,5,2,MERGED
+tegel,docs(text-field): type prop to lower case,https://github.com/scania-digital-design-system/tegel/pull/365,2023-10-11T09:58:11Z,2023-10-16T07:57:59Z,6,1,MERGED
+tegel,docs(installation): updated installation/usage guides,https://github.com/scania-digital-design-system/tegel/pull/364,2023-10-11T09:52:07Z,2023-10-17T09:09:59Z,18,7,MERGED
+tegel,build(core/react/angular): added release actions for all packages,https://github.com/scania-digital-design-system/tegel/pull/363,2023-10-10T13:07:12Z,2023-10-25T08:11:30Z,15,9,MERGED
+tegel,"docs(tooltip,modal,popover): referenceEl usage in Angular/React",https://github.com/scania-digital-design-system/tegel/pull/362,2023-10-10T11:05:38Z,2023-10-12T14:13:53Z,3,3,MERGED
+tegel,"fix(dropdown): fix multiselect & filter getting value ""undefined""",https://github.com/scania-digital-design-system/tegel/pull/361,2023-10-09T14:04:26Z,2023-10-10T07:24:51Z,3,2,MERGED
+tegel,release: 1.1.0,https://github.com/scania-digital-design-system/tegel/pull/360,2023-10-09T12:14:20Z,2023-10-09T12:22:23Z,2,50,MERGED
+tegel,release: 1.1.0,https://github.com/scania-digital-design-system/tegel/pull/359,2023-10-09T12:11:00Z,2023-10-09T12:12:24Z,2,3,MERGED
+tegel,fix(dropdown): text overflow in dropdown-option,https://github.com/scania-digital-design-system/tegel/pull/358,2023-10-09T10:08:06Z,2023-10-10T07:49:35Z,13,5,MERGED
+tegel,fix(stepper): change internal event to not be documented in readme file,https://github.com/scania-digital-design-system/tegel/pull/357,2023-10-09T06:13:30Z,2023-10-09T07:35:55Z,3,2,MERGED
+tegel,fix(dropdown): use setAttribute,https://github.com/scania-digital-design-system/tegel/pull/356,2023-10-06T12:17:46Z,2023-10-09T11:43:17Z,2,9,MERGED
+tegel,fix(chromatic): added --exit-once-uploaded flag,https://github.com/scania-digital-design-system/tegel/pull/355,2023-10-05T11:26:10Z,2023-10-05T11:26:39Z,2,1,MERGED
+tegel,build: config,https://github.com/scania-digital-design-system/tegel/pull/354,2023-10-05T07:28:09Z,2023-10-05T09:15:44Z,2,11,MERGED
+tegel,fix(modal): prevent text selection when toggling modal,https://github.com/scania-digital-design-system/tegel/pull/353,2023-10-04T14:48:01Z,2023-10-05T12:59:58Z,4,3,MERGED
+tegel,feat(checkbox): indeterminate state,https://github.com/scania-digital-design-system/tegel/pull/352,2023-10-04T12:36:12Z,2023-10-10T10:36:22Z,12,10,MERGED
+tegel,build(tsconfig): eliminate conflicts,https://github.com/scania-digital-design-system/tegel/pull/351,2023-10-04T11:44:20Z,2023-10-04T12:03:14Z,2,1,MERGED
+tegel,fix(button): icon color correction,https://github.com/scania-digital-design-system/tegel/pull/349,2023-10-03T13:52:29Z,2023-10-04T07:48:49Z,3,1,MERGED
+tegel,build(stencil): bumped stencil version,https://github.com/scania-digital-design-system/tegel/pull/348,2023-10-03T12:30:58Z,2023-10-04T06:45:30Z,2,1,MERGED
+tegel,feat: create react wrappers,https://github.com/scania-digital-design-system/tegel/pull/347,2023-10-03T11:26:56Z,2023-10-04T11:16:23Z,8,9,MERGED
+tegel,fix: add ESLint rule to prevent importing from Stencils internal package,https://github.com/scania-digital-design-system/tegel/pull/346,2023-10-02T20:09:43Z,2023-10-03T13:06:12Z,3,1,MERGED
+tegel,fix(modal): leaked CSS,https://github.com/scania-digital-design-system/tegel/pull/345,2023-10-02T19:28:06Z,2023-10-04T06:46:26Z,7,1,MERGED
+tegel,fix(side menu): collapsed by default,https://github.com/scania-digital-design-system/tegel/pull/344,2023-10-02T12:37:04Z,2023-10-03T13:05:33Z,5,6,MERGED
+tegel,docs(popover): angular workarounds,https://github.com/scania-digital-design-system/tegel/pull/343,2023-10-02T10:45:55Z,2023-10-04T13:04:37Z,2,2,MERGED
+tegel,fix(css reset/components): added important for slotted(*) targeted elements font styles,https://github.com/scania-digital-design-system/tegel/pull/341,2023-09-28T12:00:16Z,2023-10-04T06:45:47Z,3,3,MERGED
+tegel,docs(dropdown): removed TODOs and added link to future issue,https://github.com/scania-digital-design-system/tegel/pull/340,2023-09-28T09:03:01Z,2023-10-02T06:39:39Z,2,1,MERGED
+tegel,release(@scania/tegel-angular): 0.0.2,https://github.com/scania-digital-design-system/tegel/pull/339,2023-09-27T13:04:39Z,2023-09-27T13:05:01Z,2,1,MERGED
+tegel,Merge pull request #301 from scania-digital-design-system/develop,https://github.com/scania-digital-design-system/tegel/pull/338,2023-09-27T12:53:31Z,2023-09-27T12:54:04Z,2,1,CLOSED
+tegel, Release: 1.0.3,https://github.com/scania-digital-design-system/tegel/pull/337,2023-09-27T12:52:22Z,2023-09-27T12:55:31Z,2,31,MERGED
+tegel,Merge pull request #301 from scania-digital-design-system/develop,https://github.com/scania-digital-design-system/tegel/pull/336,2023-09-27T12:50:57Z,2023-09-27T12:51:35Z,2,1,MERGED
+tegel,Release: 1.0.3,https://github.com/scania-digital-design-system/tegel/pull/335,2023-09-27T12:35:54Z,2023-09-27T12:51:51Z,2,32,CLOSED
+tegel,fix(icon): switched title for svgTitle since title is a reserved attribute name,https://github.com/scania-digital-design-system/tegel/pull/334,2023-09-27T07:15:59Z,2023-09-27T07:16:17Z,2,1,MERGED
+tegel,release(1.0.3): updated package.json,https://github.com/scania-digital-design-system/tegel/pull/333,2023-09-26T13:47:30Z,2023-09-27T12:35:19Z,2,1,MERGED
+tegel,fix: remove extra margin under inputs without helper text,https://github.com/scania-digital-design-system/tegel/pull/332,2023-09-26T13:25:40Z,2023-09-27T09:13:56Z,3,1,MERGED
+tegel,refactor(dropdown): cleanup and enhancement setValue & removeValue,https://github.com/scania-digital-design-system/tegel/pull/331,2023-09-26T13:15:31Z,2023-09-27T12:15:10Z,4,13,MERGED
+tegel,feat(icon): enable for override of default title,https://github.com/scania-digital-design-system/tegel/pull/330,2023-09-26T11:51:51Z,2023-09-27T06:30:24Z,3,2,MERGED
+tegel,fix: indentation on installation page in storybook,https://github.com/scania-digital-design-system/tegel/pull/329,2023-09-26T10:08:48Z,2023-09-27T06:29:41Z,2,1,MERGED
+tegel,build(angular): switched angular version to 14,https://github.com/scania-digital-design-system/tegel/pull/328,2023-09-26T09:35:42Z,2023-09-27T12:14:29Z,2,2,MERGED
+tegel,fix: typo in Storybook,https://github.com/scania-digital-design-system/tegel/pull/327,2023-09-25T12:26:36Z,2023-09-26T10:10:46Z,3,1,MERGED
+tegel,fix(dropdown): use getChildren over fetching children in connectedCallback,https://github.com/scania-digital-design-system/tegel/pull/326,2023-09-22T12:50:29Z,2023-09-26T12:22:07Z,4,3,MERGED
+tegel,fix(block): updating block modeVariant in runtime,https://github.com/scania-digital-design-system/tegel/pull/325,2023-09-22T11:01:06Z,2023-09-26T08:21:18Z,2,2,MERGED
+tegel,docs(table): removed obsolete control,https://github.com/scania-digital-design-system/tegel/pull/324,2023-09-22T10:47:10Z,2023-09-22T12:17:37Z,2,1,MERGED
+tegel,docs(table): removed obsolete control from story,https://github.com/scania-digital-design-system/tegel/pull/323,2023-09-22T10:44:59Z,2023-09-25T13:48:40Z,2,1,MERGED
+tegel,fix(tabs): multiple events firing,https://github.com/scania-digital-design-system/tegel/pull/322,2023-09-22T08:16:38Z,2023-09-22T12:19:23Z,2,1,MERGED
+tegel,fix(card): clickable card not full width,https://github.com/scania-digital-design-system/tegel/pull/321,2023-09-22T07:08:43Z,2023-09-22T07:38:23Z,3,1,MERGED
+tegel,chromatic: added chromatic workflow,https://github.com/scania-digital-design-system/tegel/pull/320,2023-09-21T13:17:04Z,2023-10-05T11:18:08Z,5,7,MERGED
+tegel,fix(workflow): remove old workflow,https://github.com/scania-digital-design-system/tegel/pull/319,2023-09-21T13:01:40Z,2023-09-21T13:01:46Z,2,1,MERGED
+tegel,fix(cromatic): setup of github action,https://github.com/scania-digital-design-system/tegel/pull/318,2023-09-21T11:51:30Z,2023-09-21T13:16:35Z,2,14,CLOSED
+tegel,feat/create chromatic.yml,https://github.com/scania-digital-design-system/tegel/pull/317,2023-09-21T11:43:16Z,2023-09-21T11:44:47Z,2,1,MERGED
+tegel,fix(dropdown): setValue method,https://github.com/scania-digital-design-system/tegel/pull/316,2023-09-21T09:18:08Z,2023-09-27T06:30:51Z,12,12,MERGED
+tegel,fix(utils): seperate utils ,https://github.com/scania-digital-design-system/tegel/pull/315,2023-09-20T09:08:29Z,2023-09-22T11:06:24Z,10,4,MERGED
+tegel,docs(button): remove unused class from button icon,https://github.com/scania-digital-design-system/tegel/pull/314,2023-09-20T06:56:54Z,2023-09-20T13:34:46Z,2,1,MERGED
+tegel,fix(slider): enable for runtime updates of value/readOnly,https://github.com/scania-digital-design-system/tegel/pull/313,2023-09-19T18:24:10Z,2023-09-21T10:56:07Z,2,5,MERGED
+tegel,fix(dropdown): override line-height to avoid overflow:hidden,https://github.com/scania-digital-design-system/tegel/pull/312,2023-09-19T18:06:25Z,2023-09-20T07:02:23Z,4,3,MERGED
+tegel,feat(icon): switch title to text element in svg,https://github.com/scania-digital-design-system/tegel/pull/311,2023-09-19T17:29:09Z,2023-09-20T13:34:05Z,6,1,CLOSED
+tegel,docs(banner): no undefined icon in error and info variant,https://github.com/scania-digital-design-system/tegel/pull/310,2023-09-19T17:04:42Z,2023-09-20T07:34:00Z,2,1,MERGED
+tegel,docs(popover/tooltip): used selector over referenceEl,https://github.com/scania-digital-design-system/tegel/pull/309,2023-09-19T12:40:51Z,2023-09-20T06:46:50Z,3,2,MERGED
+tegel,docs(tegel-angular): updated README,https://github.com/scania-digital-design-system/tegel/pull/308,2023-09-19T10:48:15Z,2023-09-20T06:46:21Z,2,1,MERGED
+tegel,fix(dropdown): stopPropogation on checkbox change event in dropdown-option,https://github.com/scania-digital-design-system/tegel/pull/307,2023-09-19T08:30:02Z,2023-09-20T06:47:17Z,2,1,MERGED
+tegel,fix(dropdown): fixed missplacement issue of the dropdowns focus state,https://github.com/scania-digital-design-system/tegel/pull/306,2023-09-19T07:22:27Z,2023-09-19T12:49:19Z,3,1,MERGED
+tegel,fix: removed the privacy flag in package.json,https://github.com/scania-digital-design-system/tegel/pull/305,2023-09-15T12:46:08Z,2023-09-18T06:37:31Z,2,1,MERGED
+tegel,build(1.0.1): revert npm version to 1.0.1,https://github.com/scania-digital-design-system/tegel/pull/304,2023-09-15T08:07:15Z,2023-09-15T08:07:39Z,2,1,MERGED
+tegel,release: 1.0.2,https://github.com/scania-digital-design-system/tegel/pull/303,2023-09-14T13:54:47Z,2023-09-14T14:05:01Z,2,1,MERGED
+tegel,build(stencil.config): updated stencil config,https://github.com/scania-digital-design-system/tegel/pull/302,2023-09-14T11:58:02Z,2023-09-14T12:11:11Z,2,1,MERGED
+tegel,release: 1.0.1,https://github.com/scania-digital-design-system/tegel/pull/301,2023-09-14T11:04:35Z,2023-09-14T11:59:00Z,2,11,MERGED
+tegel,release 1.0.1-beta,https://github.com/scania-digital-design-system/tegel/pull/300,2023-09-14T10:52:58Z,2023-09-14T11:00:32Z,2,10,CLOSED
+tegel,release: 1.0.1,https://github.com/scania-digital-design-system/tegel/pull/299,2023-09-14T09:40:12Z,2023-09-14T09:47:29Z,4,2,MERGED
+tegel,chore: update deps minor version,https://github.com/scania-digital-design-system/tegel/pull/298,2023-09-13T14:52:53Z,2023-09-14T14:52:55Z,6,2,CLOSED
+tegel,fix(text field): update description for no-min-width prop,https://github.com/scania-digital-design-system/tegel/pull/297,2023-09-13T14:05:12Z,2023-09-14T09:11:54Z,2,1,MERGED
+tegel,docs: switched all instances of pre-beta to beta,https://github.com/scania-digital-design-system/tegel/pull/296,2023-09-13T13:59:52Z,2023-09-14T09:35:05Z,2,3,MERGED
+tegel,testing,https://github.com/scania-digital-design-system/tegel/pull/295,2023-09-13T13:53:42Z,2023-09-13T13:54:15Z,2,7,CLOSED
+tegel,build(stencil.config): prepare stencil build for wrappers,https://github.com/scania-digital-design-system/tegel/pull/294,2023-09-13T13:15:39Z,2023-09-13T13:52:46Z,4,4,MERGED
+tegel,fix(banner): removed docs and implementation of unused event,https://github.com/scania-digital-design-system/tegel/pull/293,2023-09-12T13:05:08Z,2023-09-13T07:36:01Z,2,2,MERGED
+tegel,feat: angular wrappers,https://github.com/scania-digital-design-system/tegel/pull/292,2023-09-12T10:19:31Z,2023-09-15T12:37:11Z,13,29,MERGED
+tegel,docs(installation): corrected spelling in HTML installation guide,https://github.com/scania-digital-design-system/tegel/pull/291,2023-09-11T09:44:45Z,2023-09-13T07:35:42Z,3,1,MERGED
+tegel,"feat(dropdown, checkbox): make multiselect items clickable everywhere",https://github.com/scania-digital-design-system/tegel/pull/290,2023-09-08T12:45:09Z,2023-09-08T12:47:32Z,2,1,CLOSED
+tegel,feat(table-footer): correct color of pagination button icons for both modes,https://github.com/scania-digital-design-system/tegel/pull/289,2023-09-08T12:26:38Z,2023-09-13T07:35:09Z,3,1,MERGED
+tegel,docs(side-menu): slots comment structure update,https://github.com/scania-digital-design-system/tegel/pull/288,2023-09-08T07:22:38Z,2023-09-18T17:20:19Z,4,1,CLOSED
+tegel,fix(utility classes): update title for gap story to display in Storybook,https://github.com/scania-digital-design-system/tegel/pull/287,2023-09-08T06:49:30Z,2023-09-08T12:51:51Z,2,1,MERGED
+tegel,release: tegel 1.0.0-beta,https://github.com/scania-digital-design-system/tegel/pull/286,2023-09-07T12:29:55Z,2023-09-07T12:31:19Z,2,1,MERGED
+tegel,fix(z-index): side-menu over banner,https://github.com/scania-digital-design-system/tegel/pull/285,2023-09-07T08:38:03Z,2023-09-07T09:36:16Z,2,1,MERGED
+tegel,fix(table): reflect all-selected attribute,https://github.com/scania-digital-design-system/tegel/pull/284,2023-09-06T13:59:43Z,2023-09-07T06:57:59Z,2,1,MERGED
+tegel,feat: utility classes,https://github.com/scania-digital-design-system/tegel/pull/283,2023-09-06T13:08:22Z,2023-09-06T13:21:48Z,3,3,MERGED
+tegel,fix(step): corrected css selector,https://github.com/scania-digital-design-system/tegel/pull/282,2023-09-06T12:50:01Z,2023-09-06T13:12:51Z,2,1,MERGED
+tegel,fix(stepper): corrected role,https://github.com/scania-digital-design-system/tegel/pull/281,2023-09-05T15:11:47Z,2023-09-06T09:09:50Z,2,1,MERGED
+tegel,feat:popover menu item,https://github.com/scania-digital-design-system/tegel/pull/280,2023-09-05T12:02:33Z,2023-09-06T12:12:09Z,7,19,MERGED
+tegel,feat(popover menu): design aligement,https://github.com/scania-digital-design-system/tegel/pull/279,2023-09-05T10:09:51Z,2023-09-06T11:15:11Z,9,6,CLOSED
+tegel,build(tagNameTransform): enable tagNameTransform,https://github.com/scania-digital-design-system/tegel/pull/278,2023-09-05T08:35:49Z,2023-09-05T09:51:07Z,2,1,MERGED
+tegel,docs(tabs): update naming of Tab sub components in notes tab,https://github.com/scania-digital-design-system/tegel/pull/277,2023-09-05T07:54:45Z,2023-09-05T08:32:28Z,2,1,MERGED
+tegel,docs(inline tabs): add description to tdsChange event,https://github.com/scania-digital-design-system/tegel/pull/276,2023-09-05T07:40:33Z,2023-09-05T08:31:23Z,2,1,MERGED
+tegel,fix(chip): updated tdsChange to include the updated checked value,https://github.com/scania-digital-design-system/tegel/pull/275,2023-09-04T12:59:25Z,2023-09-04T14:15:15Z,2,1,MERGED
+tegel,refactor(slider): rename scrubber to thumb,https://github.com/scania-digital-design-system/tegel/pull/274,2023-09-04T11:55:10Z,2023-09-05T06:13:30Z,3,2,MERGED
+tegel,docs(storybook): prod and develop versions,https://github.com/scania-digital-design-system/tegel/pull/273,2023-09-04T07:25:02Z,2023-09-04T14:25:55Z,4,2,MERGED
+tegel,fix(tabs): watcher for selectedIndex & defaultSelectedIndex,https://github.com/scania-digital-design-system/tegel/pull/272,2023-09-01T06:45:39Z,2023-09-05T06:53:25Z,4,3,MERGED
+tegel,fix(modal/toast/banner/card): align slot names,https://github.com/scania-digital-design-system/tegel/pull/271,2023-08-31T14:45:32Z,2023-09-04T14:12:59Z,7,10,MERGED
+tegel,fix(tabs): default-value-index watcher,https://github.com/scania-digital-design-system/tegel/pull/270,2023-08-31T12:12:23Z,2023-08-31T12:41:03Z,2,1,CLOSED
+tegel,fix(modal): slot alignment,https://github.com/scania-digital-design-system/tegel/pull/269,2023-08-31T10:47:37Z,2023-09-01T09:29:01Z,3,1,CLOSED
+tegel,fix(dropdown): default selected not getting selected & removing options prop,https://github.com/scania-digital-design-system/tegel/pull/268,2023-08-31T08:15:10Z,2023-09-04T14:28:01Z,5,6,MERGED
+tegel,"feat(dropdown, checkbox): fix multiselect clickable area",https://github.com/scania-digital-design-system/tegel/pull/267,2023-08-30T15:34:33Z,2023-08-31T13:35:15Z,4,1,MERGED
+tegel,fix(textarea): aligned autofocus prop with other components,https://github.com/scania-digital-design-system/tegel/pull/266,2023-08-30T13:30:25Z,2023-08-31T06:46:55Z,3,1,MERGED
+tegel,docs: update migration docs,https://github.com/scania-digital-design-system/tegel/pull/265,2023-08-30T13:03:17Z,2023-09-06T12:04:57Z,28,28,MERGED
+tegel,fix(side menu): slot name,https://github.com/scania-digital-design-system/tegel/pull/264,2023-08-30T10:30:15Z,2023-08-31T06:46:20Z,2,4,MERGED
+tegel,fix(side menu): collapsed scroll,https://github.com/scania-digital-design-system/tegel/pull/263,2023-08-30T09:53:26Z,2023-08-30T13:47:53Z,3,1,MERGED
+tegel,build(stencil): v4,https://github.com/scania-digital-design-system/tegel/pull/262,2023-08-30T09:20:57Z,2023-08-30T14:37:57Z,4,1,MERGED
+tegel,fix(icon): set height/width of svg based on size prop,https://github.com/scania-digital-design-system/tegel/pull/261,2023-08-30T08:49:36Z,2023-08-30T13:04:29Z,4,2,MERGED
+tegel,feat(banner): removal of persistent prop,https://github.com/scania-digital-design-system/tegel/pull/260,2023-08-29T14:36:46Z,2023-08-30T10:57:10Z,4,1,MERGED
+tegel,feat: react test environment in Netlify,https://github.com/scania-digital-design-system/tegel/pull/259,2023-08-28T14:50:21Z,2023-09-21T06:53:13Z,4,17,CLOSED
+tegel,fix(datetime): corrected secondary mode variant,https://github.com/scania-digital-design-system/tegel/pull/258,2023-08-28T12:14:46Z,2023-08-29T08:00:08Z,7,2,MERGED
+tegel,docs(code_style): branching update,https://github.com/scania-digital-design-system/tegel/pull/257,2023-08-24T14:19:04Z,2023-08-25T13:56:35Z,3,2,MERGED
+tegel,fix(side-menu): removed open/close animation,https://github.com/scania-digital-design-system/tegel/pull/256,2023-08-23T14:15:42Z,2023-08-25T09:06:12Z,2,1,MERGED
+tegel,fix(tabs): clickarea should cover entire tab,https://github.com/scania-digital-design-system/tegel/pull/255,2023-08-23T07:22:56Z,2023-08-28T06:44:08Z,3,5,MERGED
+tegel,release: tegel 0.0.12,https://github.com/scania-digital-design-system/tegel/pull/254,2023-08-22T12:15:42Z,2023-08-22T12:38:48Z,1,3,MERGED
+tegel,release: tegel 0.0.12,https://github.com/scania-digital-design-system/tegel/pull/253,2023-08-22T12:13:45Z,2023-08-22T12:38:33Z,2,2,MERGED
+tegel,fix(dropdown): z index,https://github.com/scania-digital-design-system/tegel/pull/252,2023-08-22T11:23:20Z,2023-08-23T07:30:57Z,10,7,MERGED
+tegel,fix(toast): link component colors,https://github.com/scania-digital-design-system/tegel/pull/251,2023-08-22T09:04:40Z,2023-08-25T12:41:22Z,6,2,MERGED
+tegel,fix(button): added variable for active state on slotted icon,https://github.com/scania-digital-design-system/tegel/pull/250,2023-08-18T10:53:02Z,2023-08-21T05:56:51Z,3,1,MERGED
+tegel,fix(button): fixed usage of label slot,https://github.com/scania-digital-design-system/tegel/pull/249,2023-08-16T13:59:35Z,2023-08-18T12:10:45Z,5,2,MERGED
+tegel,fix(table): hover on rows,https://github.com/scania-digital-design-system/tegel/pull/248,2023-08-16T09:36:23Z,2023-08-18T09:37:41Z,3,4,MERGED
+tegel,fix(dropdown): select issues,https://github.com/scania-digital-design-system/tegel/pull/247,2023-08-11T11:09:48Z,2023-08-22T11:16:57Z,9,8,MERGED
+tegel,Feat/header filter,https://github.com/scania-digital-design-system/tegel/pull/246,2023-08-10T14:04:12Z,2023-08-22T11:39:39Z,4,4,CLOSED
+tegel,feat(utility-classes): flex section,https://github.com/scania-digital-design-system/tegel/pull/245,2023-08-10T07:31:57Z,2023-08-18T09:39:03Z,6,4,MERGED
+tegel,chore(code styles and pr template): changed DTS- to CDEP-,https://github.com/scania-digital-design-system/tegel/pull/244,2023-08-09T09:29:25Z,2023-08-10T13:01:03Z,2,1,MERGED
+tegel,"fix(side-menu): pointer-events, css classes instead of attributes, z-index",https://github.com/scania-digital-design-system/tegel/pull/243,2023-08-09T06:08:48Z,2023-08-11T13:11:45Z,5,4,MERGED
+tegel,feat(datetime): min & max props,https://github.com/scania-digital-design-system/tegel/pull/242,2023-08-07T13:35:56Z,2023-08-08T07:56:53Z,2,2,MERGED
+tegel,fix(chip): double events firing,https://github.com/scania-digital-design-system/tegel/pull/241,2023-08-07T13:22:14Z,2023-08-08T07:50:52Z,2,3,MERGED
+tegel,docs(css reset): slimmed down css reset,https://github.com/scania-digital-design-system/tegel/pull/240,2023-08-07T10:43:07Z,2023-08-08T07:50:32Z,5,1,MERGED
+tegel,docs(popover-menu): not closing on click outside if show is set.,https://github.com/scania-digital-design-system/tegel/pull/239,2023-08-07T10:06:38Z,2023-08-08T07:50:07Z,3,2,MERGED
+tegel,Fix/side menu overlay,https://github.com/scania-digital-design-system/tegel/pull/238,2023-08-02T14:45:26Z,2023-08-03T07:22:52Z,2,2,CLOSED
+tegel,feat(textfield): correct colors. ,https://github.com/scania-digital-design-system/tegel/pull/237,2023-08-02T06:04:57Z,2023-08-04T17:09:15Z,7,7,MERGED
+tegel,"fix(dropdown, text-field, textarea): global css bleeding in label and helper text",https://github.com/scania-digital-design-system/tegel/pull/476,2023-12-29T14:56:12Z,2024-01-09T08:08:53Z,4,4,MERGED
+tegel,feat(footer): copyright slot,https://github.com/scania-digital-design-system/tegel/pull/475,2023-12-28T13:19:38Z,2024-01-08T14:04:57Z,5,4,MERGED
+tegel,build(stencil): upgrade to 4.9.0,https://github.com/scania-digital-design-system/tegel/pull/474,2023-12-27T16:50:22Z,2024-01-08T08:16:33Z,2,2,MERGED
+tegel,fix(side-menu): collapsed state on mobile view,https://github.com/scania-digital-design-system/tegel/pull/473,2023-12-27T16:32:22Z,2024-01-08T08:16:02Z,3,2,MERGED
+tegel,test(side-menu): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/472,2023-12-19T09:34:35Z,2024-01-09T08:08:19Z,4,1,MERGED
+tegel,test(modal): adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/471,2023-12-18T08:16:49Z,2024-01-11T14:32:34Z,19,11,MERGED
+tegel,test(breadcrumbs): adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/470,2023-12-13T13:03:35Z,2023-12-19T08:22:28Z,2,2,MERGED
+tegel,test(popover-menu): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/468,2023-12-13T12:03:49Z,2023-12-19T08:40:52Z,3,4,MERGED
+tegel,test(popover-canvas): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/467,2023-12-12T08:48:07Z,2023-12-18T14:28:59Z,4,3,MERGED
+tegel,fix(message): refactor unit tests,https://github.com/scania-digital-design-system/tegel/pull/466,2023-12-12T08:19:39Z,2023-12-18T14:35:31Z,5,2,MERGED
+tegel,feat: dropdown fixes,https://github.com/scania-digital-design-system/tegel/pull/465,2023-12-11T16:11:10Z,2024-05-15T07:37:33Z,4,7,CLOSED
+tegel,test(card): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/464,2023-12-11T15:34:36Z,2023-12-18T08:25:06Z,2,2,MERGED
+tegel,test(banner): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/463,2023-12-11T14:19:09Z,2023-12-18T08:19:55Z,2,2,MERGED
+tegel,test(footer): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/462,2023-12-11T13:48:40Z,2023-12-18T14:20:24Z,5,5,MERGED
+tegel,test(header): Adding unit tests,https://github.com/scania-digital-design-system/tegel/pull/461,2023-12-11T13:01:22Z,2023-12-18T14:06:28Z,5,6,MERGED
+tegel,fix(button): colors update,https://github.com/scania-digital-design-system/tegel/pull/460,2023-12-08T16:12:14Z,2024-01-09T08:10:09Z,8,5,MERGED
+tegel,fix(release-angular): added working directory,https://github.com/scania-digital-design-system/tegel/pull/459,2023-12-08T13:18:51Z,2023-12-13T07:48:33Z,2,1,MERGED
+tegel,release: @scania/tegel@1.3.3,https://github.com/scania-digital-design-system/tegel/pull/458,2023-12-08T10:45:12Z,2023-12-08T10:46:09Z,1,1,MERGED
+tegel,fix(release): run build two times due to bug in stencil,https://github.com/scania-digital-design-system/tegel/pull/455,2023-12-08T10:29:51Z,2023-12-08T10:30:22Z,1,1,MERGED
+tegel,fix(slider): update on value should not send a tdsChange event,https://github.com/scania-digital-design-system/tegel/pull/454,2023-12-07T16:01:45Z,2023-12-18T11:14:30Z,3,3,MERGED
+tegel,release: tegel@1.3.2,https://github.com/scania-digital-design-system/tegel/pull/453,2023-12-07T13:21:53Z,2023-12-07T13:25:44Z,2,2,MERGED
+tegel,Hotfix/release script update,https://github.com/scania-digital-design-system/tegel/pull/451,2023-12-07T12:56:30Z,2023-12-07T13:26:10Z,2,16,CLOSED
+tegel,HOTFIX: release scripts update,https://github.com/scania-digital-design-system/tegel/pull/450,2023-12-07T12:51:31Z,2023-12-07T12:55:36Z,1,1,MERGED
+tegel,fix(header-cell): changed sorting arrow direction in header cell,https://github.com/scania-digital-design-system/tegel/pull/449,2023-12-06T19:25:47Z,2024-02-09T14:14:43Z,9,1,CLOSED
+tegel,feat(css): update from rem to px on utility classes,https://github.com/scania-digital-design-system/tegel/pull/448,2023-12-05T15:35:02Z,2023-12-06T14:29:40Z,3,3,MERGED
+tegel,docs(table): added tds-table-body to the filtering and pagination,https://github.com/scania-digital-design-system/tegel/pull/447,2023-12-05T13:17:43Z,2023-12-06T14:25:49Z,2,2,MERGED
+tegel,fix(message): updated storybook mode-variant default,https://github.com/scania-digital-design-system/tegel/pull/446,2023-12-05T09:19:31Z,2023-12-06T14:16:36Z,2,3,MERGED
+tegel,fix(css): headline-05 updated to correct value,https://github.com/scania-digital-design-system/tegel/pull/445,2023-12-04T15:49:39Z,2023-12-06T11:18:35Z,8,3,MERGED
+tegel,feat(dropdown): added support for normalized text when searching,https://github.com/scania-digital-design-system/tegel/pull/444,2023-12-04T14:45:25Z,2023-12-06T14:21:31Z,9,5,MERGED
+tegel,fix(textarea): remove `only` on tests read-only textarea,https://github.com/scania-digital-design-system/tegel/pull/443,2023-12-04T08:39:46Z,2023-12-04T10:54:28Z,2,2,MERGED
+tegel,fix(chip): double click for radio type,https://github.com/scania-digital-design-system/tegel/pull/441,2023-11-30T08:30:29Z,2023-12-01T13:58:37Z,7,3,MERGED
+tegel,test(button): refactor unit tests,https://github.com/scania-digital-design-system/tegel/pull/440,2023-11-28T15:29:33Z,2023-12-01T10:53:49Z,5,3,MERGED
+tegel,fix(popover-core): show prop read on an initial load,https://github.com/scania-digital-design-system/tegel/pull/439,2023-11-27T15:41:42Z,2023-12-04T09:07:11Z,4,1,MERGED
+tegel,test(table): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/438,2023-11-27T14:02:49Z,2023-12-05T08:52:04Z,5,12,MERGED
+tegel,test(message): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/437,2023-11-21T15:34:50Z,2023-11-27T12:34:58Z,11,2,MERGED
+tegel,test(textarea): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/436,2023-11-21T15:21:23Z,2023-12-01T15:55:29Z,13,14,MERGED
+tegel,test(dropdown): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/435,2023-11-21T14:02:11Z,2023-12-01T13:52:53Z,10,15,MERGED
+tegel,fix(chip): no double click when switching to active for type radio,https://github.com/scania-digital-design-system/tegel/pull/434,2023-11-17T09:30:47Z,2023-11-30T08:32:31Z,21,24,CLOSED
+tegel,test(button): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/433,2023-11-17T08:44:02Z,2023-11-24T14:51:39Z,9,11,MERGED
+tegel,release:@scania/tegel@1.3.1,https://github.com/scania-digital-design-system/tegel/pull/432,2023-11-16T14:18:43Z,2023-11-16T14:23:46Z,2,1,MERGED
+tegel,test merge main to develop,https://github.com/scania-digital-design-system/tegel/pull/431,2023-11-16T14:17:29Z,2023-11-16T14:25:07Z,2,15,CLOSED
+tegel,chore(release pipe): change how release from main is forced,https://github.com/scania-digital-design-system/tegel/pull/429,2023-11-15T15:53:14Z,2023-11-15T16:07:45Z,2,1,MERGED
+tegel,chore(pipeline fixes): try again,https://github.com/scania-digital-design-system/tegel/pull/427,2023-11-15T15:31:14Z,2023-11-15T15:34:28Z,2,1,MERGED
+tegel,chore(release pipe): fix release branch,https://github.com/scania-digital-design-system/tegel/pull/425,2023-11-15T14:52:06Z,2023-11-15T14:53:12Z,1,1,MERGED
+tegel,Chore/pipeline fixes 01,https://github.com/scania-digital-design-system/tegel/pull/423,2023-11-15T14:11:14Z,2023-11-15T14:12:48Z,2,2,MERGED
+tegel,fix(modal): button variant and spacing correction,https://github.com/scania-digital-design-system/tegel/pull/421,2023-11-14T10:51:31Z,2023-11-14T16:07:43Z,3,1,MERGED
+tegel,chore: update create-release-pr job,https://github.com/scania-digital-design-system/tegel/pull/420,2023-11-13T13:03:37Z,2023-11-15T13:17:02Z,5,10,MERGED
+tegel,Test/playwright config test,https://github.com/scania-digital-design-system/tegel/pull/418,2023-11-10T08:41:22Z,2023-12-01T06:36:21Z,3,6,CLOSED
+tegel,build(stencil): upgrade to 4.7.1,https://github.com/scania-digital-design-system/tegel/pull/417,2023-11-07T08:08:02Z,2023-11-07T10:45:58Z,2,1,MERGED
+tegel,fix: sync main with develop,https://github.com/scania-digital-design-system/tegel/pull/416,2023-11-06T16:04:13Z,2023-11-06T16:07:41Z,1,42,MERGED
+tegel,release: 1.3.0,https://github.com/scania-digital-design-system/tegel/pull/415,2023-11-06T15:49:07Z,2023-11-06T15:51:11Z,1,2,MERGED
+tegel,release: 1.2.0,https://github.com/scania-digital-design-system/tegel/pull/414,2023-11-06T14:09:15Z,2023-11-06T15:25:11Z,2,3,CLOSED
+tegel,release: 1.2.0,https://github.com/scania-digital-design-system/tegel/pull/413,2023-11-06T14:07:28Z,2023-11-06T14:08:12Z,0,2,MERGED
+tegel,chore: fix Windows test script,https://github.com/scania-digital-design-system/tegel/pull/411,2023-11-06T12:43:28Z,2023-11-07T14:05:31Z,6,4,MERGED
+tegel,build(release-script): removed old release script,https://github.com/scania-digital-design-system/tegel/pull/409,2023-11-02T12:45:13Z,2023-11-03T07:33:54Z,2,1,MERGED
+tegel,build: removed dotenv dependency,https://github.com/scania-digital-design-system/tegel/pull/408,2023-11-02T12:37:46Z,2023-11-07T10:49:34Z,4,2,MERGED
+tegel,docs(tegel): update readme to start development enviroment,https://github.com/scania-digital-design-system/tegel/pull/406,2023-11-01T11:32:32Z,2023-11-01T13:53:21Z,2,1,MERGED
+tegel,docs(readme): amplify links updates,https://github.com/scania-digital-design-system/tegel/pull/405,2023-11-01T10:57:15Z,2023-11-01T13:18:01Z,2,3,MERGED
+tegel,test: optimisation of tests execution ,https://github.com/scania-digital-design-system/tegel/pull/572,2024-03-27T20:06:09Z,2024-04-03T09:55:48Z,6,6,MERGED
+tegel,test(text-field): read-only and success state,https://github.com/scania-digital-design-system/tegel/pull/571,2024-03-27T11:51:34Z,2024-04-11T06:43:50Z,2,3,MERGED
+tegel,text(text-field): password error unit test,https://github.com/scania-digital-design-system/tegel/pull/569,2024-03-26T09:25:10Z,2024-04-11T06:43:25Z,2,2,MERGED
+tegel,test(text-field): disabled unit test,https://github.com/scania-digital-design-system/tegel/pull/565,2024-03-25T08:33:42Z,2024-03-27T07:43:13Z,2,2,MERGED
+tegel,fix(table-body-cell): map text-align prop in lifecycle,https://github.com/scania-digital-design-system/tegel/pull/564,2024-03-22T15:07:55Z,2024-03-27T20:06:49Z,2,2,MERGED
+tegel,feat(tds-dropdown): added a clear filter button,https://github.com/scania-digital-design-system/tegel/pull/563,2024-03-22T13:07:13Z,2024-04-03T10:05:20Z,14,11,MERGED
+tegel,fix: create branch based on upcoming release,https://github.com/scania-digital-design-system/tegel/pull/562,2024-03-22T09:21:28Z,2024-03-25T14:25:00Z,2,2,MERGED
+tegel,release 1.7.0,https://github.com/scania-digital-design-system/tegel/pull/561,2024-03-21T14:54:54Z,2024-03-21T15:12:57Z,1,22,MERGED
+tegel,test(table): add text-align attribute to table body cells,https://github.com/scania-digital-design-system/tegel/pull/559,2024-03-21T13:28:21Z,2024-03-27T07:09:54Z,3,2,MERGED
+tegel,test(text-field): default test case,https://github.com/scania-digital-design-system/tegel/pull/558,2024-03-20T16:48:09Z,2024-03-21T10:22:13Z,4,3,MERGED
+tegel,fix(table-body-cell): Behavior and additional `text-align` values in `tds-header-cell` and `tds-body-cell`,https://github.com/scania-digital-design-system/tegel/pull/555,2024-03-19T12:24:21Z,2024-03-20T13:46:57Z,14,12,MERGED
+tegel,fix(text-field): read-only hides suffix icon,https://github.com/scania-digital-design-system/tegel/pull/554,2024-03-18T17:59:58Z,2024-03-19T14:42:50Z,6,4,MERGED
+tegel,build(stencil): v4.12.6,https://github.com/scania-digital-design-system/tegel/pull/553,2024-03-18T09:13:24Z,2024-03-18T11:59:16Z,2,1,MERGED
+tegel,feat(modal): re-initilize selector and clean-up method,https://github.com/scania-digital-design-system/tegel/pull/552,2024-03-15T13:52:52Z,2024-03-18T10:12:45Z,3,1,MERGED
+tegel,feat(toast): make close button optional,https://github.com/scania-digital-design-system/tegel/pull/550,2024-03-14T13:45:05Z,2024-03-15T08:31:26Z,5,2,MERGED
+tegel,fix(tds-dropdown): improved scrollbar styling,https://github.com/scania-digital-design-system/tegel/pull/545,2024-03-12T14:12:54Z,2024-05-14T14:34:55Z,14,22,MERGED
+tegel,ci: release all script improvement,https://github.com/scania-digital-design-system/tegel/pull/544,2024-03-12T11:06:04Z,2024-03-15T09:15:25Z,5,1,MERGED
+tegel,ci: use release branch,https://github.com/scania-digital-design-system/tegel/pull/542,2024-03-12T10:30:28Z,2024-03-12T10:32:31Z,1,2,MERGED
+tegel,ci: main as reference,https://github.com/scania-digital-design-system/tegel/pull/540,2024-03-12T10:12:43Z,2024-03-12T10:13:08Z,1,1,MERGED
+tegel,fix(toast): content width and close button margins,https://github.com/scania-digital-design-system/tegel/pull/538,2024-03-11T13:46:28Z,2024-03-13T10:43:46Z,4,1,MERGED
+tegel,test(chip): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/537,2024-03-11T06:45:43Z,2024-03-13T10:40:17Z,4,10,MERGED
+tegel,Test ,https://github.com/scania-digital-design-system/tegel/pull/534,2024-02-29T13:21:14Z,2024-03-05T12:07:58Z,1,8,CLOSED
+tegel,docs: update to conventions and contribution,https://github.com/scania-digital-design-system/tegel/pull/532,2024-02-28T13:38:33Z,2024-03-01T10:32:02Z,4,3,MERGED
+tegel,release: 1.6.1,https://github.com/scania-digital-design-system/tegel/pull/527,2024-02-22T15:08:23Z,2024-02-22T15:18:05Z,1,49,MERGED
+tegel,fix(modal): align with figma,https://github.com/scania-digital-design-system/tegel/pull/521,2024-02-21T08:02:57Z,2024-04-03T12:53:48Z,8,6,MERGED
+tegel,fix(storybook): added missing comma to controls,https://github.com/scania-digital-design-system/tegel/pull/518,2024-02-20T21:46:43Z,2024-02-21T10:27:00Z,2,1,MERGED
+tegel,fix(header-launcher): null check,https://github.com/scania-digital-design-system/tegel/pull/517,2024-02-20T09:13:58Z,2024-04-09T08:08:40Z,10,2,MERGED
+tegel,feat(tooltip): Adds offsetSkidding and offsetDistance props for the tooltip,https://github.com/scania-digital-design-system/tegel/pull/516,2024-02-19T15:51:24Z,2024-02-20T15:05:43Z,5,1,MERGED
+tegel,docs: remove netlify links in readmes and stories,https://github.com/scania-digital-design-system/tegel/pull/515,2024-02-19T15:15:00Z,2024-02-21T10:21:47Z,3,2,MERGED
+tegel,fix(datetime): corrected custom event,https://github.com/scania-digital-design-system/tegel/pull/514,2024-02-19T14:41:30Z,2024-02-21T10:19:25Z,2,2,MERGED
+tegel,fix(slider): emit tdsChange on mouse-up and touch-end events,https://github.com/scania-digital-design-system/tegel/pull/513,2024-02-19T12:41:12Z,2024-03-01T08:44:21Z,13,6,MERGED
+tegel,test(checkbox): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/512,2024-02-19T12:17:43Z,2024-02-28T08:51:49Z,8,10,MERGED
+tegel,fix(header): flash of dropdown on page reload,https://github.com/scania-digital-design-system/tegel/pull/508,2024-02-14T20:48:16Z,2024-02-15T13:44:54Z,2,2,MERGED
+tegel,test(radio-button): added unit test,https://github.com/scania-digital-design-system/tegel/pull/507,2024-02-14T14:23:15Z,2024-02-15T15:26:50Z,5,4,MERGED
+tegel,ci: pr template update,https://github.com/scania-digital-design-system/tegel/pull/506,2024-02-12T08:33:42Z,2024-02-13T14:41:19Z,3,3,MERGED
+tegel,ci(release-scripts): run on develop and release all,https://github.com/scania-digital-design-system/tegel/pull/505,2024-02-09T16:34:21Z,2024-02-13T14:40:40Z,3,2,MERGED
+tegel,fix(icon): a11y,https://github.com/scania-digital-design-system/tegel/pull/504,2024-02-09T14:35:26Z,2024-02-13T09:04:47Z,4,4,MERGED
+tegel,fix: release sync,https://github.com/scania-digital-design-system/tegel/pull/503,2024-02-09T07:58:58Z,2024-02-09T08:45:43Z,2,7,MERGED
+tegel,Release/tegel@1.6.0,https://github.com/scania-digital-design-system/tegel/pull/502,2024-02-08T14:42:51Z,2024-02-08T14:44:05Z,1,10,CLOSED
+tegel,feat(datetime): setValue method,https://github.com/scania-digital-design-system/tegel/pull/500,2024-02-05T16:36:30Z,2024-02-06T18:29:36Z,3,2,MERGED
+tegel,feat(table): disabled state of checkbox in multiselect rows,https://github.com/scania-digital-design-system/tegel/pull/499,2024-02-05T10:15:02Z,2024-02-08T14:17:47Z,2,2,MERGED
+tegel,feat: number input,https://github.com/scania-digital-design-system/tegel/pull/498,2024-02-01T09:32:43Z,2024-02-05T10:17:19Z,2,3,CLOSED
+tegel,build(stencil): 4.12.0,https://github.com/scania-digital-design-system/tegel/pull/497,2024-01-30T16:02:23Z,2024-02-01T15:07:03Z,2,1,MERGED
+tegel,feat(text-field): adding number type and min-max attributes,https://github.com/scania-digital-design-system/tegel/pull/496,2024-01-30T13:15:00Z,2024-02-05T10:17:44Z,11,2,MERGED
+tegel,release: tegel@1.5.0,https://github.com/scania-digital-design-system/tegel/pull/495,2024-01-30T13:14:17Z,2024-01-30T13:43:08Z,2,5,MERGED
+tegel,build: test files and stories removed from shipping,https://github.com/scania-digital-design-system/tegel/pull/493,2024-01-29T15:44:31Z,2024-01-30T08:37:34Z,3,1,MERGED
+tegel,fix(dropdown): adding check for value,https://github.com/scania-digital-design-system/tegel/pull/492,2024-01-26T09:08:17Z,2024-01-30T08:08:57Z,3,6,MERGED
+tegel,fix(modal): medium screen and xs size,https://github.com/scania-digital-design-system/tegel/pull/490,2024-01-19T12:30:37Z,2024-01-24T09:59:11Z,3,1,MERGED
+tegel,test(slider): added unit tests,https://github.com/scania-digital-design-system/tegel/pull/489,2024-01-18T15:29:27Z,2024-01-30T08:37:05Z,4,9,MERGED
+tegel,fix(dropdown-filter): disabled can be opened,https://github.com/scania-digital-design-system/tegel/pull/487,2024-01-18T08:26:29Z,2024-01-24T12:58:30Z,6,8,MERGED
+tegel,feat(table-header-cell): added slot,https://github.com/scania-digital-design-system/tegel/pull/485,2024-01-17T10:08:01Z,2024-01-24T09:37:05Z,3,1,MERGED
+tegel,test(link): added unit test,https://github.com/scania-digital-design-system/tegel/pull/484,2024-01-16T15:02:04Z,2024-01-24T09:36:08Z,5,5,MERGED
+tegel,release: 1.4.0.,https://github.com/scania-digital-design-system/tegel/pull/483,2024-01-12T15:06:57Z,2024-01-12T15:15:36Z,2,4,MERGED
+tegel,test(dropdown): test for capturing erasing of text in input,https://github.com/scania-digital-design-system/tegel/pull/482,2024-01-12T08:20:07Z,2024-01-16T08:51:01Z,2,2,MERGED
+tegel,fix(dropdown): fix selected value when erased,https://github.com/scania-digital-design-system/tegel/pull/480,2024-01-11T08:44:16Z,2024-01-11T15:09:49Z,3,5,MERGED
+tegel,fix(dropdown): empty no-result-text prop,https://github.com/scania-digital-design-system/tegel/pull/478,2024-01-09T15:21:57Z,2024-01-11T14:26:28Z,6,6,MERGED
+tegel,feat(icon): enable Storybook change of title and description,https://github.com/scania-digital-design-system/tegel/pull/477,2024-01-09T13:31:59Z,2024-01-15T16:11:21Z,8,7,MERGED
+tegel,release: tegel 1.9.1,https://github.com/scania-digital-design-system/tegel/pull/641,2024-05-31T13:57:26Z,2024-06-03T13:18:36Z,2,1,MERGED
+tegel,Release @scania/tegel@1.9.0,https://github.com/scania-digital-design-system/tegel/pull/637,2024-05-30T13:49:01Z,2024-05-30T14:12:46Z,1,39,MERGED
+tegel,closable modal & expandable table row tests,https://github.com/scania-digital-design-system/tegel/pull/635,2024-05-30T12:19:48Z,2024-05-30T13:16:18Z,2,6,MERGED
+tegel,fix(stepper): correct first and last item padding,https://github.com/scania-digital-design-system/tegel/pull/634,2024-05-30T07:30:16Z,2024-05-30T12:21:34Z,21,2,MERGED
+tegel,docs: creating a component & docs update,https://github.com/scania-digital-design-system/tegel/pull/633,2024-05-29T14:15:16Z,2024-06-25T08:20:51Z,14,11,MERGED
+tegel,ci(angular-17): correct angular-17 release script,https://github.com/scania-digital-design-system/tegel/pull/629,2024-05-28T13:10:28Z,2024-05-28T13:12:13Z,1,1,MERGED
+tegel,ci(angular-17): correct angular-17 release script,https://github.com/scania-digital-design-system/tegel/pull/628,2024-05-28T13:03:37Z,2024-05-28T13:05:15Z,1,1,MERGED
+tegel,ci(angular-17): add angular-17 release script,https://github.com/scania-digital-design-system/tegel/pull/627,2024-05-28T12:50:32Z,2024-05-28T12:52:42Z,1,1,MERGED
+tegel,feat (accordion): add prop for removing the last accordion item bottom border,https://github.com/scania-digital-design-system/tegel/pull/626,2024-05-27T05:42:14Z,2024-05-29T10:06:24Z,9,14,MERGED
+tegel,ci(test): unit test to run on push commit instead of commit,https://github.com/scania-digital-design-system/tegel/pull/624,2024-05-23T13:32:27Z,2024-05-27T07:01:46Z,2,2,MERGED
+tegel,feat(angular-17): new wrapper package for angular 17+,https://github.com/scania-digital-design-system/tegel/pull/623,2024-05-22T14:45:42Z,2024-05-28T12:11:39Z,9,11,MERGED
+tegel,feat(icons): add new icons,https://github.com/scania-digital-design-system/tegel/pull/622,2024-05-22T07:08:55Z,2024-05-22T12:39:46Z,2,3,MERGED
+tegel,fix(side-menu) remove extra space to the right of a collapsed side menu item in desktop,https://github.com/scania-digital-design-system/tegel/pull/621,2024-05-21T08:54:00Z,2024-05-23T12:21:29Z,5,3,MERGED
+tegel,feat(modal): Expose a closable property to be able to hide x icon,https://github.com/scania-digital-design-system/tegel/pull/619,2024-05-20T11:00:39Z,2024-05-29T14:54:19Z,8,8,MERGED
+tegel,feat(side-menu): :sparkles: programatically toggle side menu dropdown,https://github.com/scania-digital-design-system/tegel/pull/618,2024-05-17T09:19:36Z,2024-05-20T11:06:09Z,5,4,MERGED
+tegel,Release @scania/tegel@1.8.2,https://github.com/scania-digital-design-system/tegel/pull/617,2024-05-16T13:50:22Z,2024-05-16T14:18:33Z,1,24,MERGED
+tegel,test(playwright): updating failing screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/615,2024-05-16T10:35:25Z,2024-05-16T10:53:11Z,2,1,MERGED
+tegel,feat(chip): disabled state for chip,https://github.com/scania-digital-design-system/tegel/pull/613,2024-05-16T08:03:17Z,2024-05-20T11:07:11Z,5,11,MERGED
+tegel,"feat(table): default expanded row, expand/collapse methods, tdsChange event",https://github.com/scania-digital-design-system/tegel/pull/612,2024-05-15T14:39:39Z,2024-05-28T13:24:46Z,10,12,MERGED
+tegel,docs(contribution): link correction,https://github.com/scania-digital-design-system/tegel/pull/611,2024-05-14T07:14:29Z,2024-05-14T07:15:46Z,1,1,MERGED
+tegel,test(tabs): unit test for tabs added,https://github.com/scania-digital-design-system/tegel/pull/610,2024-04-26T14:21:52Z,2024-04-30T12:59:35Z,18,14,MERGED
+tegel,test(accordion): update unit tests,https://github.com/scania-digital-design-system/tegel/pull/608,2024-04-22T11:58:02Z,2024-04-29T12:52:36Z,5,10,MERGED
+tegel,fix(vars): removing duplicate vars imports,https://github.com/scania-digital-design-system/tegel/pull/607,2024-04-19T11:45:53Z,2024-04-23T13:49:29Z,2,1,MERGED
+tegel,Release @scania/tegel@1.8.1,https://github.com/scania-digital-design-system/tegel/pull/606,2024-04-18T13:26:52Z,2024-04-18T13:29:40Z,1,14,MERGED
+tegel,docs(contribution): post feedback update,https://github.com/scania-digital-design-system/tegel/pull/603,2024-04-17T19:34:32Z,2024-04-24T13:00:44Z,16,15,MERGED
+tegel,fix(datetime): arrow down fix for chromium,https://github.com/scania-digital-design-system/tegel/pull/602,2024-04-17T08:34:40Z,2024-06-25T12:26:02Z,6,5,CLOSED
+tegel,fix(dropdown): monitor slot changes to assigning defaultValue on dropdown menu update,https://github.com/scania-digital-design-system/tegel/pull/599,2024-04-12T13:20:02Z,2024-04-18T09:51:06Z,3,3,MERGED
+tegel,feat(tegel-angular): reactive forms integration,https://github.com/scania-digital-design-system/tegel/pull/598,2024-04-12T11:49:10Z,2024-08-01T12:11:15Z,25,10,MERGED
+tegel,"fix(toast): update default header, subheader and link text",https://github.com/scania-digital-design-system/tegel/pull/597,2024-04-12T06:37:38Z,2024-04-15T05:59:57Z,2,1,MERGED
+tegel,fix(popover-core): close instances of component when another opens,https://github.com/scania-digital-design-system/tegel/pull/595,2024-04-10T09:03:25Z,2024-04-12T14:12:05Z,3,2,MERGED
+tegel,fix(table): disable-padding with compact design,https://github.com/scania-digital-design-system/tegel/pull/594,2024-04-09T09:28:00Z,2024-04-16T05:54:26Z,7,3,MERGED
+tegel,fix(header-dropdown): close on slotted items click,https://github.com/scania-digital-design-system/tegel/pull/593,2024-04-09T07:35:10Z,2024-04-17T09:46:49Z,12,7,MERGED
+tegel,test(table): regenerating new screenshots,https://github.com/scania-digital-design-system/tegel/pull/591,2024-04-05T11:23:07Z,2024-04-05T18:32:47Z,3,1,MERGED
+tegel,Release 1.8.0,https://github.com/scania-digital-design-system/tegel/pull/588,2024-04-04T14:13:00Z,2024-04-04T14:30:36Z,1,39,MERGED
+tegel,fix: adjust create pr part of release script,https://github.com/scania-digital-design-system/tegel/pull/586,2024-04-04T13:43:15Z,2024-04-04T13:43:59Z,1,1,MERGED
+tegel,test(tooltip): test cases for tooltip added,https://github.com/scania-digital-design-system/tegel/pull/583,2024-04-04T06:49:45Z,2024-04-12T08:41:38Z,3,10,MERGED
+tegel,test(dropdown): adding test case for filter reset button,https://github.com/scania-digital-design-system/tegel/pull/582,2024-04-03T14:48:13Z,2024-04-09T06:34:20Z,2,4,MERGED
+tegel,test(table): screenshot update,https://github.com/scania-digital-design-system/tegel/pull/581,2024-04-03T12:36:40Z,2024-04-04T11:29:48Z,2,1,MERGED
+tegel,test(dropdown): update test screenshots,https://github.com/scania-digital-design-system/tegel/pull/580,2024-04-03T12:02:57Z,2024-04-03T12:09:15Z,2,1,MERGED
+tegel,fix: move the border of the expanded table row to the bottom of the expanded section,https://github.com/scania-digital-design-system/tegel/pull/578,2024-04-03T07:44:32Z,2024-04-03T12:13:55Z,10,1,MERGED
+tegel,test(datetime): unittest for datetime,https://github.com/scania-digital-design-system/tegel/pull/577,2024-04-02T14:42:38Z,2024-04-12T08:17:24Z,10,14,MERGED
+tegel,test(stepper): added unit test,https://github.com/scania-digital-design-system/tegel/pull/704,2024-07-31T09:55:15Z,2024-08-01T06:34:07Z,3,1,MERGED
+tegel,feat(table-expandable-row): added part selector,https://github.com/scania-digital-design-system/tegel/pull/703,2024-07-29T14:31:56Z,2024-07-30T13:54:28Z,7,5,MERGED
+tegel,fix(button): fullbleed 100% rule,https://github.com/scania-digital-design-system/tegel/pull/702,2024-07-26T14:17:04Z,2024-07-29T08:19:06Z,3,2,MERGED
+tegel,test(toast): added unit test cases,https://github.com/scania-digital-design-system/tegel/pull/701,2024-07-26T14:06:40Z,2024-08-01T06:34:57Z,3,6,MERGED
+tegel,ci(release-script): merge to main step improvement,https://github.com/scania-digital-design-system/tegel/pull/700,2024-07-26T07:50:47Z,2024-07-26T13:50:56Z,3,2,MERGED
+tegel,fix(textarea): scroll in readonly mode,https://github.com/scania-digital-design-system/tegel/pull/697,2024-07-24T12:55:34Z,2024-07-25T07:58:10Z,5,1,MERGED
+tegel,fix(dropdown): duplicate value in multiselect,https://github.com/scania-digital-design-system/tegel/pull/696,2024-07-24T07:31:36Z,2024-07-25T09:20:16Z,7,9,MERGED
+tegel,ci(playwright): report as comment on pr,https://github.com/scania-digital-design-system/tegel/pull/692,2024-07-19T13:53:23Z,2024-07-19T15:02:59Z,3,5,MERGED
+tegel,test(toggle): added tests for toggle component,https://github.com/scania-digital-design-system/tegel/pull/691,2024-07-18T09:27:01Z,2024-07-19T13:26:46Z,3,2,MERGED
+tegel,fix(button): simplify styling logic for icon option,https://github.com/scania-digital-design-system/tegel/pull/690,2024-07-17T15:05:04Z,2024-07-19T13:26:02Z,2,2,MERGED
+tegel,"feat(tegel-styles): migration in monorepo, connection to foundations",https://github.com/scania-digital-design-system/tegel/pull/689,2024-07-17T14:14:30Z,2024-07-29T08:32:07Z,6,11,MERGED
+tegel,fix(angular-17): dependency on version 17 or higher,https://github.com/scania-digital-design-system/tegel/pull/688,2024-07-12T09:36:01Z,2024-07-12T12:03:59Z,2,1,MERGED
+tegel,ci(release-script): commit and merge improvement,https://github.com/scania-digital-design-system/tegel/pull/687,2024-07-12T09:22:45Z,2024-07-12T12:03:07Z,2,2,MERGED
+tegel,fix(stepper): items not aligned,https://github.com/scania-digital-design-system/tegel/pull/686,2024-07-11T14:03:11Z,2024-07-12T11:29:03Z,2,3,MERGED
+tegel,"build: stencil upgrade, playwright image upgrade, tooltip test improvement",https://github.com/scania-digital-design-system/tegel/pull/682,2024-07-10T13:28:08Z,2024-07-12T16:03:41Z,2,4,MERGED
+tegel,fix: use correct font family in headline 01 variable,https://github.com/scania-digital-design-system/tegel/pull/681,2024-07-10T11:24:18Z,2024-07-11T09:18:43Z,1,2,MERGED
+tegel,test(table:sorting): added waitFor to improve screenshot stability,https://github.com/scania-digital-design-system/tegel/pull/680,2024-07-10T09:37:23Z,2024-07-11T09:19:45Z,2,1,MERGED
+tegel,feat(table-header-cell): added disable padding prop,https://github.com/scania-digital-design-system/tegel/pull/679,2024-07-09T12:53:07Z,2024-07-10T12:53:45Z,2,1,MERGED
+tegel,ci(release-scripts): no-verify flag and release-all script update,https://github.com/scania-digital-design-system/tegel/pull/678,2024-07-05T14:45:38Z,2024-07-11T07:34:14Z,2,1,MERGED
+tegel,feat(tagnametransform): trying out simple setup for versioning of Tegel,https://github.com/scania-digital-design-system/tegel/pull/677,2024-07-05T10:54:26Z,2024-10-24T06:47:28Z,6,38,CLOSED
+tegel,fix(dropdown): reset scroll,https://github.com/scania-digital-design-system/tegel/pull/676,2024-07-04T10:20:21Z,2024-07-10T07:00:32Z,2,3,MERGED
+tegel,feat:text field wrapper component,https://github.com/scania-digital-design-system/tegel/pull/673,2024-06-28T16:15:06Z,2024-11-14T09:51:37Z,9,4,CLOSED
+tegel,release: 1.11.0,https://github.com/scania-digital-design-system/tegel/pull/671,2024-06-27T13:43:44Z,2024-06-27T14:01:39Z,1,11,MERGED
+tegel,fix(table): sorting arrow default and direction correction,https://github.com/scania-digital-design-system/tegel/pull/669,2024-06-27T12:06:48Z,2024-07-03T08:23:11Z,2,4,MERGED
+tegel,feat(grid): new grid,https://github.com/scania-digital-design-system/tegel/pull/663,2024-06-19T12:54:24Z,2024-06-27T12:20:46Z,10,19,MERGED
+tegel,fix: add missing type definitions,https://github.com/scania-digital-design-system/tegel/pull/659,2024-06-14T17:53:34Z,2024-06-19T07:32:43Z,3,1,MERGED
+tegel,feat(tds-table): added horizontal scroll,https://github.com/scania-digital-design-system/tegel/pull/657,2024-06-14T13:21:14Z,2024-07-02T07:56:29Z,11,5,MERGED
+tegel,Release @scania/tegel@1.10.0,https://github.com/scania-digital-design-system/tegel/pull/656,2024-06-13T13:24:19Z,2024-06-13T13:29:59Z,1,4,MERGED
+tegel,feat(tds-tooltip): show on click,https://github.com/scania-digital-design-system/tegel/pull/653,2024-06-12T14:39:00Z,2024-07-02T07:58:42Z,6,3,MERGED
+tegel,feat(footer): add compact footer property,https://github.com/scania-digital-design-system/tegel/pull/651,2024-06-11T13:09:25Z,2024-06-25T08:05:16Z,13,8,MERGED
+tegel,fix(tds-modal): don't close when show prop is provided,https://github.com/scania-digital-design-system/tegel/pull/648,2024-06-07T07:34:41Z,2024-07-15T14:21:38Z,8,2,CLOSED
+tegel,docs: added angular-17 installation guide,https://github.com/scania-digital-design-system/tegel/pull/644,2024-06-04T07:47:38Z,2024-06-13T11:36:37Z,3,2,MERGED
+tegel,Feat/cdep 3325 types for icon names,https://github.com/scania-digital-design-system/tegel/pull/642,2024-06-03T11:09:20Z,2024-06-05T07:02:54Z,3,3,MERGED
+tegel,build: bump wrapper versions,https://github.com/scania-digital-design-system/tegel/pull/824,2024-10-31T15:43:58Z,2024-11-04T10:31:40Z,3,1,MERGED
+tegel,fix: align input text colors,https://github.com/scania-digital-design-system/tegel/pull/823,2024-10-31T15:31:16Z,2024-11-08T10:04:59Z,4,22,CLOSED
+tegel,chore: enabling default reviewers via CODEOWNERS file,https://github.com/scania-digital-design-system/tegel/pull/822,2024-10-31T08:45:16Z,2024-10-31T20:14:16Z,3,3,MERGED
+tegel,feat: tegel ssr,https://github.com/scania-digital-design-system/tegel/pull/820,2024-10-30T15:35:08Z,2025-02-25T16:08:10Z,5,3,CLOSED
+tegel,fix(wrappers): wrong versions,https://github.com/scania-digital-design-system/tegel/pull/819,2024-10-30T14:20:07Z,2024-10-30T14:30:47Z,3,1,MERGED
+tegel,fix: update to right versions,https://github.com/scania-digital-design-system/tegel/pull/818,2024-10-30T13:41:33Z,2024-10-30T14:16:17Z,3,1,MERGED
+tegel,ci: automate beta release workflow,https://github.com/scania-digital-design-system/tegel/pull/817,2024-10-30T12:51:59Z,2024-11-04T12:47:56Z,8,26,MERGED
+tegel,chore: manually trigger + name change,https://github.com/scania-digital-design-system/tegel/pull/816,2024-10-30T09:40:27Z,2024-10-30T11:46:00Z,3,1,MERGED
+tegel,script/smoke test,https://github.com/scania-digital-design-system/tegel/pull/815,2024-10-30T09:28:12Z,2024-10-30T09:33:25Z,2,7,CLOSED
+tegel,Ci/beta release workflow,https://github.com/scania-digital-design-system/tegel/pull/814,2024-10-29T12:45:42Z,2024-10-29T13:06:32Z,3,3,MERGED
+tegel,docs(storybook-table): controls for overflow,https://github.com/scania-digital-design-system/tegel/pull/811,2024-10-25T13:20:22Z,2024-10-25T15:27:51Z,4,1,MERGED
+tegel,fix(table-footer): added styling according to designer feedback,https://github.com/scania-digital-design-system/tegel/pull/810,2024-10-25T13:14:58Z,2024-10-29T13:40:42Z,6,9,MERGED
+tegel,fix(ag-grid): started on the setup for ag-grid tegel theme,https://github.com/scania-digital-design-system/tegel/pull/809,2024-10-25T07:24:54Z,2025-01-28T13:12:46Z,3,1,CLOSED
+tegel,ci: release script improvements,https://github.com/scania-digital-design-system/tegel/pull/808,2024-10-24T13:19:51Z,2024-10-29T09:13:40Z,3,2,MERGED
+tegel,test(table): auto collapse rows,https://github.com/scania-digital-design-system/tegel/pull/807,2024-10-24T11:38:31Z,2025-01-17T15:47:30Z,7,7,CLOSED
+tegel,"ci(release-script): token authentication, all in one, merge test",https://github.com/scania-digital-design-system/tegel/pull/806,2024-10-22T14:36:30Z,2024-10-22T14:45:04Z,2,4,MERGED
+tegel,fix(table-component-expandable-rows): format args for default value,https://github.com/scania-digital-design-system/tegel/pull/805,2024-10-22T12:56:17Z,2024-10-22T13:56:56Z,2,0,CLOSED
+tegel,fix: install core in all wrappers,https://github.com/scania-digital-design-system/tegel/pull/803,2024-10-18T08:51:35Z,2024-10-18T12:23:49Z,2,1,MERGED
+tegel,script/smoke test,https://github.com/scania-digital-design-system/tegel/pull/802,2024-10-18T08:27:15Z,2024-10-18T11:32:07Z,1,6,CLOSED
+tegel,fix: added package-lock files,https://github.com/scania-digital-design-system/tegel/pull/800,2024-10-17T12:36:34Z,2024-10-17T12:47:18Z,3,1,MERGED
+tegel,fix(table-body-row): moved comment that caused stencil build error,https://github.com/scania-digital-design-system/tegel/pull/799,2024-10-17T11:25:11Z,2024-10-17T12:28:12Z,4,2,MERGED
+tegel,fix(utility-stories): convert to TS and bring 'em back,https://github.com/scania-digital-design-system/tegel/pull/798,2024-10-15T16:54:14Z,2024-10-16T09:04:16Z,3,1,MERGED
+tegel,feat(typography & logos): locally hosted files,https://github.com/scania-digital-design-system/tegel/pull/797,2024-10-15T14:54:18Z,2024-11-11T08:27:32Z,13,19,MERGED
+tegel,fix(breadbrumbs): update CSS selector to .current since .current is always last.,https://github.com/scania-digital-design-system/tegel/pull/796,2024-10-14T14:50:50Z,2024-10-16T11:59:12Z,8,1,MERGED
+tegel,fix(dropdown): tds dropdown reset method,https://github.com/scania-digital-design-system/tegel/pull/795,2024-10-14T07:43:44Z,2024-10-17T11:04:20Z,9,42,MERGED
+tegel,feat(table): adding tdsClick event to table rows,https://github.com/scania-digital-design-system/tegel/pull/794,2024-10-10T11:39:45Z,2024-10-16T20:39:03Z,9,14,MERGED
+tegel,fix(table): auto-collapse expanded row upon clicking another expandable row,https://github.com/scania-digital-design-system/tegel/pull/793,2024-10-10T11:32:28Z,2024-10-28T07:45:53Z,10,31,MERGED
+tegel,build: reinstall packages script,https://github.com/scania-digital-design-system/tegel/pull/792,2024-10-09T10:10:41Z,2024-10-17T09:15:21Z,10,2,MERGED
+tegel,build: smoke test,https://github.com/scania-digital-design-system/tegel/pull/791,2024-10-09T08:21:58Z,2024-10-17T09:16:55Z,11,5,MERGED
+tegel,feat(table): add part for the cell in the expanded row of the table. add visible for overflow.,https://github.com/scania-digital-design-system/tegel/pull/789,2024-10-08T08:45:59Z,2024-10-16T13:56:10Z,7,4,MERGED
+tegel,fix: reseting pagination if number of pages changes,https://github.com/scania-digital-design-system/tegel/pull/788,2024-10-08T06:49:21Z,2024-10-10T13:09:55Z,5,3,MERGED
+tegel,Feat/table: Add a property to control whether padding is applied to the expanded area of an expanded table row,https://github.com/scania-digital-design-system/tegel/pull/787,2024-10-07T20:56:32Z,2024-10-08T08:48:10Z,4,6,CLOSED
+tegel,Got unwanted code changes. Delete this pull request please.,https://github.com/scania-digital-design-system/tegel/pull/786,2024-10-07T20:34:55Z,2024-10-07T20:58:36Z,3,12,CLOSED
+tegel,chore: update tegel dependencies in wrapper packages,https://github.com/scania-digital-design-system/tegel/pull/784,2024-10-03T11:44:02Z,2024-10-07T07:18:06Z,3,1,MERGED
+tegel,fix(table-footer): look and storybook improvements ,https://github.com/scania-digital-design-system/tegel/pull/782,2024-10-02T13:06:38Z,2024-10-03T08:43:25Z,3,1,MERGED
+tegel,fix: pr template improvements,https://github.com/scania-digital-design-system/tegel/pull/780,2024-10-02T08:39:07Z,2024-10-03T08:43:42Z,3,2,MERGED
+tegel,feat(dropdown): filtering and multi select improvements in dropdown ,https://github.com/scania-digital-design-system/tegel/pull/779,2024-10-01T13:05:23Z,2024-10-16T20:42:03Z,10,9,MERGED
+tegel,feat(table): pagination improvements,https://github.com/scania-digital-design-system/tegel/pull/775,2024-09-27T13:25:42Z,2024-10-01T13:15:00Z,8,4,MERGED
+tegel,feat(table): zebra rows & columns,https://github.com/scania-digital-design-system/tegel/pull/774,2024-09-26T15:10:57Z,2024-10-03T08:29:02Z,4,8,MERGED
+tegel,fix(table): auto-collapse expanded row upon clicking another expandable row,https://github.com/scania-digital-design-system/tegel/pull/773,2024-09-26T14:11:02Z,2024-10-10T11:30:56Z,8,15,CLOSED
+tegel,chore: update package-lock files for version bump 1.15.0,https://github.com/scania-digital-design-system/tegel/pull/772,2024-09-25T11:55:13Z,2024-09-25T12:04:56Z,3,1,MERGED
+tegel,chore: bump versions,https://github.com/scania-digital-design-system/tegel/pull/770,2024-09-23T14:16:43Z,2024-09-25T11:14:19Z,3,1,MERGED
+tegel,Main,https://github.com/scania-digital-design-system/tegel/pull/769,2024-09-23T13:34:43Z,2024-09-23T13:35:34Z,1,8,CLOSED
+tegel,release: @scania/tegel@1.15.0,https://github.com/scania-digital-design-system/tegel/pull/768,2024-09-23T13:19:04Z,2024-09-23T13:43:52Z,1,72,CLOSED
+tegel,feat: add the possibility to flex expanded row in table,https://github.com/scania-digital-design-system/tegel/pull/765,2024-09-20T13:54:38Z,2024-10-02T13:52:32Z,10,9,MERGED
+tegel,revert(table): passing on unit value with horizontalscroll (#736),https://github.com/scania-digital-design-system/tegel/pull/764,2024-09-19T13:18:44Z,2024-09-19T13:26:06Z,3,1,MERGED
+tegel,fix(table): horizontal scroll broken,https://github.com/scania-digital-design-system/tegel/pull/763,2024-09-19T12:56:23Z,2024-09-23T06:23:09Z,3,5,MERGED
+tegel,feat: add tdsClick event to table rows,https://github.com/scania-digital-design-system/tegel/pull/760,2024-09-17T12:16:34Z,2024-10-10T11:35:02Z,10,31,CLOSED
+tegel,feat: auto collapse row upon clicking other expandable row in table,https://github.com/scania-digital-design-system/tegel/pull/758,2024-09-12T10:21:27Z,2024-09-13T08:28:55Z,6,1,CLOSED
+tegel,feat: auto collapse row upon clicking other expandable row in table,https://github.com/scania-digital-design-system/tegel/pull/757,2024-09-12T10:13:57Z,2024-09-13T08:37:26Z,0,66,CLOSED
+tegel,fix(card): toggle stretch mode,https://github.com/scania-digital-design-system/tegel/pull/753,2024-09-11T13:47:44Z,2024-09-18T14:39:49Z,5,5,MERGED
+tegel,chore: update tegel dependencies in wrapper packages,https://github.com/scania-digital-design-system/tegel/pull/752,2024-09-11T12:33:39Z,2024-09-11T12:49:35Z,3,1,MERGED
+tegel,test(divider): added tests,https://github.com/scania-digital-design-system/tegel/pull/743,2024-09-06T12:12:53Z,2024-09-17T09:30:19Z,11,4,MERGED
+tegel,build: release script and wrappers improvement,https://github.com/scania-digital-design-system/tegel/pull/737,2024-09-02T13:01:37Z,2024-09-05T09:17:44Z,4,4,MERGED
+tegel,fix(table): passing on unit value with horizontalscroll,https://github.com/scania-digital-design-system/tegel/pull/736,2024-08-28T09:45:31Z,2024-09-12T09:50:03Z,4,3,MERGED
+tegel,fix(tegel-styles): renaming files and folder,https://github.com/scania-digital-design-system/tegel/pull/735,2024-08-28T08:23:54Z,2024-08-28T08:42:55Z,3,2,MERGED
+tegel,test(spinner): added unit test,https://github.com/scania-digital-design-system/tegel/pull/734,2024-08-27T13:39:52Z,2024-08-29T08:01:29Z,3,1,MERGED
+tegel,feat(tabs): allow custom left padding,https://github.com/scania-digital-design-system/tegel/pull/733,2024-08-27T13:25:23Z,2024-09-11T13:38:20Z,19,19,MERGED
+tegel,test(block): added unit test,https://github.com/scania-digital-design-system/tegel/pull/732,2024-08-27T12:56:42Z,2024-09-04T12:19:42Z,3,1,MERGED
+tegel,docs(tegel-styles): readme update,https://github.com/scania-digital-design-system/tegel/pull/731,2024-08-26T14:46:26Z,2024-08-27T14:37:04Z,3,1,MERGED
+tegel,"docs(table-libraries): added basic info about tegel, tanstack and ag-grid",https://github.com/scania-digital-design-system/tegel/pull/730,2024-08-26T14:13:13Z,2024-09-11T12:36:39Z,12,8,MERGED
+tegel,test(table): testing input wrapper interactions,https://github.com/scania-digital-design-system/tegel/pull/729,2024-08-26T13:00:55Z,2024-09-02T05:51:38Z,11,7,MERGED
+tegel,feat(popover): close menu programmatically,https://github.com/scania-digital-design-system/tegel/pull/726,2024-08-23T05:28:22Z,2024-08-29T08:02:33Z,5,6,MERGED
+tegel,fix(table-input-wrappers): dark mode color update,https://github.com/scania-digital-design-system/tegel/pull/725,2024-08-22T13:53:05Z,2024-08-23T13:18:26Z,3,4,MERGED
+tegel,fix(storybook): locking dependencies ,https://github.com/scania-digital-design-system/tegel/pull/723,2024-08-19T13:54:54Z,2024-08-19T15:04:23Z,3,3,MERGED
+tegel,docs(table): column filtering & data editing stories,https://github.com/scania-digital-design-system/tegel/pull/722,2024-08-16T13:51:16Z,2024-08-22T11:43:37Z,3,1,MERGED
+tegel,fix(table): scroll instead of expanding parent,https://github.com/scania-digital-design-system/tegel/pull/721,2024-08-15T11:37:31Z,2024-08-26T10:41:51Z,5,3,MERGED
+tegel,feat: added new component tds-table-input-wrapper,https://github.com/scania-digital-design-system/tegel/pull/720,2024-08-14T11:54:11Z,2024-08-22T11:26:09Z,6,1,MERGED
+tegel,Feat/cdep 3438 table input wrapper,https://github.com/scania-digital-design-system/tegel/pull/719,2024-08-14T11:37:15Z,2024-08-14T11:51:05Z,1,7,CLOSED
+tegel,fix(tegel-styles): ag-grid-overwrites clean up,https://github.com/scania-digital-design-system/tegel/pull/717,2024-08-13T12:56:28Z,2024-08-20T06:03:59Z,3,3,MERGED
+tegel,ci(release-all): setup github user,https://github.com/scania-digital-design-system/tegel/pull/715,2024-08-08T14:13:33Z,2024-08-08T14:13:52Z,2,1,MERGED
+tegel,refactor(header-title): code clean-up and improvement,https://github.com/scania-digital-design-system/tegel/pull/713,2024-08-07T07:52:26Z,2024-08-07T08:00:53Z,3,1,MERGED
+tegel,fix(slider): runtime issue,https://github.com/scania-digital-design-system/tegel/pull/712,2024-08-06T15:29:01Z,2024-08-07T07:32:11Z,3,1,MERGED
+tegel,fix(slider): runtime issues,https://github.com/scania-digital-design-system/tegel/pull/711,2024-08-06T15:17:39Z,2024-08-06T15:29:33Z,2,5,CLOSED
+tegel,fix(tabs): enabled runtime updates,https://github.com/scania-digital-design-system/tegel/pull/710,2024-08-05T13:36:38Z,2024-08-07T07:19:12Z,3,7,MERGED
+tegel,fix(dropdown): scrollbar background color,https://github.com/scania-digital-design-system/tegel/pull/708,2024-08-02T08:28:49Z,2024-08-02T09:34:16Z,3,1,MERGED
+tegel,fix(dropdown): async data source handling,https://github.com/scania-digital-design-system/tegel/pull/707,2024-08-01T14:54:48Z,2024-08-02T13:01:06Z,3,1,MERGED
+tegel,fix(banner): padding left in no icon variation,https://github.com/scania-digital-design-system/tegel/pull/706,2024-08-01T12:03:19Z,2024-08-02T09:34:56Z,3,1,MERGED
+tegel,fix(table): removing unused files and slots,https://github.com/scania-digital-design-system/tegel/pull/705,2024-08-01T08:35:36Z,2024-08-01T14:07:07Z,5,2,MERGED
+tegel,test(tooltip): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/960,2024-12-20T14:45:51Z,2025-01-15T13:24:14Z,3,2,MERGED
+tegel,test(toggle): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/959,2024-12-20T14:33:03Z,2025-01-15T13:25:41Z,1,3,MERGED
+tegel,test(toast): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/958,2024-12-20T14:24:19Z,2025-01-15T13:35:16Z,3,3,MERGED
+tegel,test(textarea): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/957,2024-12-20T13:22:54Z,2025-01-15T13:38:27Z,3,4,MERGED
+tegel,test(text-field): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/956,2024-12-20T12:57:07Z,2025-01-15T13:39:51Z,3,4,MERGED
+tegel,test(tabs): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/955,2024-12-20T12:29:27Z,2025-01-15T14:01:09Z,3,4,MERGED
+tegel,test(table): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/954,2024-12-20T10:22:29Z,2025-01-15T14:04:19Z,3,4,MERGED
+tegel,test(slider): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/953,2024-12-19T17:22:50Z,2025-01-15T13:27:20Z,3,3,MERGED
+tegel,test(side-menu): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/952,2024-12-19T17:10:37Z,2025-01-15T13:42:14Z,1,3,MERGED
+tegel,test(radio-button): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/951,2024-12-19T16:56:22Z,2025-01-15T13:42:48Z,3,2,MERGED
+tegel,test(popover menu): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/950,2024-12-19T16:44:20Z,2025-01-15T13:43:44Z,1,3,MERGED
+tegel,test(popover-canvas): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/949,2024-12-19T16:19:33Z,2025-01-15T13:48:33Z,3,3,MERGED
+tegel,test(message): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/948,2024-12-19T15:34:23Z,2025-01-15T13:49:16Z,3,3,MERGED
+tegel,test(chip): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/947,2024-12-19T15:20:56Z,2025-01-15T13:50:43Z,3,3,MERGED
+tegel,test(link): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/946,2024-12-19T14:52:02Z,2025-01-15T13:51:22Z,1,3,MERGED
+tegel,test(header): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/945,2024-12-19T14:41:15Z,2025-01-15T13:51:57Z,3,3,MERGED
+tegel,test(footer): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/944,2024-12-19T14:31:23Z,2025-01-15T13:52:29Z,3,3,MERGED
+tegel,test(dropdown): improved and added more screenshot tests with reusable test code,https://github.com/scania-digital-design-system/tegel/pull/943,2024-12-19T14:21:28Z,2025-01-15T13:54:13Z,3,4,MERGED
+tegel,"test(datetime): update and improve lightmode and darkmode screenshot tests, with reusable test code",https://github.com/scania-digital-design-system/tegel/pull/942,2024-12-19T14:16:55Z,2025-01-15T13:54:50Z,3,3,MERGED
+tegel,test(checkbox): more and improved screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/941,2024-12-19T12:22:53Z,2025-01-15T13:56:17Z,1,4,MERGED
+tegel,test(card): use reusable test code for lightmode and darkmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/940,2024-12-19T09:16:29Z,2025-01-15T13:56:46Z,1,3,MERGED
+tegel,test(button): new and improved screenshot tests with reusable test code,https://github.com/scania-digital-design-system/tegel/pull/938,2024-12-19T08:23:32Z,2025-01-15T13:57:23Z,3,4,MERGED
+tegel,test(breadcrumbs): improved screenshot tests with reusable code,https://github.com/scania-digital-design-system/tegel/pull/937,2024-12-18T17:17:37Z,2025-01-15T13:57:55Z,3,4,MERGED
+tegel,test(banner): improved and more screenshot tests with reusable code,https://github.com/scania-digital-design-system/tegel/pull/936,2024-12-18T16:41:30Z,2025-01-15T13:58:54Z,2,4,MERGED
+tegel,test(accordion): more screenshot tests with reusable code,https://github.com/scania-digital-design-system/tegel/pull/935,2024-12-18T16:38:49Z,2025-01-15T13:59:22Z,3,3,MERGED
+tegel,test(dark-light-modes): reusable test code,https://github.com/scania-digital-design-system/tegel/pull/934,2024-12-18T15:15:46Z,2025-01-28T08:19:50Z,7,37,MERGED
+tegel,feature: adding motion to button component,https://github.com/scania-digital-design-system/tegel/pull/933,2024-12-18T15:13:41Z,2025-01-20T14:21:14Z,5,8,MERGED
+tegel,feature: add motion for dropdown component,https://github.com/scania-digital-design-system/tegel/pull/932,2024-12-18T14:13:36Z,2025-01-09T15:58:59Z,3,5,CLOSED
+tegel,feature: add motion to popover component,https://github.com/scania-digital-design-system/tegel/pull/931,2024-12-18T13:07:52Z,2025-01-20T15:00:47Z,4,24,CLOSED
+tegel,feature: add motion to accordion component,https://github.com/scania-digital-design-system/tegel/pull/930,2024-12-17T15:05:11Z,2025-01-28T12:11:52Z,9,7,CLOSED
+tegel,test(table): expanded row lightmode and darkmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/929,2024-12-17T14:41:56Z,2024-12-17T16:39:33Z,3,2,CLOSED
+tegel,test(table): editable table hover cell lightmode and darkmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/928,2024-12-17T14:09:34Z,2024-12-17T16:39:49Z,3,3,CLOSED
+tegel,test(table): table with tds-table-toolbar lightmode and darkmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/927,2024-12-17T13:31:52Z,2024-12-17T16:39:53Z,3,3,CLOSED
+tegel,test(table): basic table lightmode and darkmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/926,2024-12-17T10:56:49Z,2024-12-17T16:39:57Z,3,3,CLOSED
+tegel,test(stepper): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/925,2024-12-17T09:49:21Z,2024-12-17T16:40:01Z,3,1,CLOSED
+tegel,test(spinner): add darkmode and lightmode screenshot tests and modify existing tests,https://github.com/scania-digital-design-system/tegel/pull/924,2024-12-17T08:57:56Z,2024-12-17T16:40:05Z,3,2,CLOSED
+tegel,test(slider): add darkmode screenshot tests and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/923,2024-12-17T08:37:44Z,2024-12-17T16:40:08Z,3,2,CLOSED
+tegel,test(side-menu): add darkmode screenshot tests and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/922,2024-12-16T16:49:34Z,2024-12-17T16:40:12Z,3,2,CLOSED
+tegel,test(radio-button): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/921,2024-12-16T16:34:40Z,2024-12-17T16:40:16Z,3,1,CLOSED
+tegel,test(popover-menu): add darkmode screenshot tests and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/920,2024-12-16T15:44:24Z,2024-12-17T16:40:20Z,3,2,CLOSED
+tegel,test(popover-canvas): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/919,2024-12-16T15:06:37Z,2024-12-17T16:40:24Z,3,2,CLOSED
+tegel,test(modal): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/918,2024-12-16T14:33:42Z,2024-12-17T16:40:27Z,3,3,CLOSED
+tegel,test(message): add darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/917,2024-12-16T14:10:46Z,2024-12-17T16:40:31Z,3,3,CLOSED
+tegel,test(link): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/916,2024-12-16T13:42:12Z,2024-12-17T16:40:34Z,3,3,CLOSED
+tegel,test(header): add darkmode screenshot tests and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/915,2024-12-16T13:24:29Z,2024-12-17T16:40:41Z,3,3,CLOSED
+tegel,test(footer): add darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/914,2024-12-16T12:50:29Z,2024-12-17T16:40:46Z,3,4,CLOSED
+tegel,test(dropdown): add darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/913,2024-12-16T12:19:27Z,2024-12-16T15:06:32Z,3,3,MERGED
+tegel,test(divider): refactor and update horizontal screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/912,2024-12-16T10:41:39Z,2024-12-16T15:06:55Z,3,2,MERGED
+tegel,test(datetime): add darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/911,2024-12-16T10:12:39Z,2024-12-17T16:40:51Z,3,2,CLOSED
+tegel,test(chip): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/910,2024-12-16T09:24:30Z,2024-12-17T16:40:56Z,3,2,CLOSED
+tegel,test(checkbox): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/909,2024-12-16T08:46:03Z,2024-12-16T13:51:15Z,3,3,MERGED
+tegel,feat(text-field): expose focusElement() method,https://github.com/scania-digital-design-system/tegel/pull/908,2024-12-16T08:36:44Z,2025-01-16T15:24:44Z,8,19,MERGED
+tegel,chore: update beta release action to use colon,https://github.com/scania-digital-design-system/tegel/pull/907,2024-12-13T15:16:32Z,2024-12-20T08:48:42Z,3,2,MERGED
+tegel,test(accordion): screenshot tests - using filesystem,https://github.com/scania-digital-design-system/tegel/pull/905,2024-12-13T11:41:44Z,2024-12-13T16:52:19Z,2,4,CLOSED
+tegel,test(card): add darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/903,2024-12-12T16:56:02Z,2024-12-17T16:41:00Z,3,5,CLOSED
+tegel,test(button): add danger variant darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/902,2024-12-12T15:56:40Z,2024-12-17T16:41:04Z,3,6,CLOSED
+tegel,test(button): add ghost variant darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/901,2024-12-12T15:26:44Z,2024-12-17T16:41:09Z,3,6,CLOSED
+tegel,test(button): add secondary variant darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/900,2024-12-12T14:54:25Z,2024-12-16T15:07:23Z,3,6,MERGED
+tegel,fix: beta release correct run scripts,https://github.com/scania-digital-design-system/tegel/pull/899,2024-12-12T14:28:58Z,2025-01-13T15:54:42Z,3,1,MERGED
+tegel,fix: tegel core version number,https://github.com/scania-digital-design-system/tegel/pull/898,2024-12-12T14:11:52Z,2024-12-12T14:18:00Z,3,1,MERGED
+tegel,test(block): add darkmode screenshot tests and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/897,2024-12-12T14:02:51Z,2024-12-17T16:41:20Z,3,4,CLOSED
+tegel,test(accordion): add darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/895,2024-12-12T13:12:40Z,2024-12-17T16:41:25Z,3,5,CLOSED
+tegel,release: version 1.21.0 for wrappers,https://github.com/scania-digital-design-system/tegel/pull/894,2024-12-12T12:51:48Z,2024-12-12T13:03:49Z,3,1,MERGED
+tegel,ci: update holy grail script with new npm script syntax,https://github.com/scania-digital-design-system/tegel/pull/893,2024-12-12T10:44:07Z,2024-12-12T10:45:47Z,2,1,MERGED
+tegel,test(button): add primary variant darkmode and lightmode screenshot tests,https://github.com/scania-digital-design-system/tegel/pull/892,2024-12-12T10:13:46Z,2024-12-17T16:41:28Z,5,5,CLOSED
+tegel,fix: changing build scripts to new colon:based,https://github.com/scania-digital-design-system/tegel/pull/891,2024-12-12T09:49:24Z,2024-12-12T10:05:44Z,2,1,MERGED
+tegel,test(breadcrumbs): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/890,2024-12-12T08:43:49Z,2024-12-16T12:57:56Z,4,3,MERGED
+tegel,test(block): add screenshot tests (outdated),https://github.com/scania-digital-design-system/tegel/pull/889,2024-12-11T16:51:27Z,2024-12-12T14:03:24Z,5,2,CLOSED
+tegel,test(accordion): add screenshot tests (outdated),https://github.com/scania-digital-design-system/tegel/pull/888,2024-12-11T15:58:55Z,2024-12-12T13:14:05Z,5,4,CLOSED
+tegel,test: reusable tests,https://github.com/scania-digital-design-system/tegel/pull/886,2024-12-11T09:50:23Z,2024-12-16T12:56:03Z,3,2,CLOSED
+tegel,feat(slider): make track clickable to update slider value,https://github.com/scania-digital-design-system/tegel/pull/885,2024-12-10T14:20:22Z,2024-12-12T15:12:54Z,8,2,MERGED
+tegel,feat(slider): Added slider track click (second take on implementation) ,https://github.com/scania-digital-design-system/tegel/pull/883,2024-12-10T10:45:58Z,2024-12-10T15:37:18Z,3,1,CLOSED
+tegel,test: refactor tests to use beforeEach for setup,https://github.com/scania-digital-design-system/tegel/pull/881,2024-12-10T09:43:01Z,2024-12-11T10:44:46Z,4,1,CLOSED
+tegel,test(banner): add darkmode screenshot test and refactor folder structure,https://github.com/scania-digital-design-system/tegel/pull/880,2024-12-09T13:40:29Z,2024-12-16T12:58:14Z,7,7,MERGED
+tegel,feature: add motion to popover component,https://github.com/scania-digital-design-system/tegel/pull/879,2024-12-09T11:14:56Z,2024-12-18T12:57:04Z,3,21,CLOSED
+tegel,feature: add motion to dropdown component,https://github.com/scania-digital-design-system/tegel/pull/878,2024-12-09T09:32:05Z,2024-12-18T13:14:12Z,2,17,CLOSED
+tegel,feature: add motion to accordion component,https://github.com/scania-digital-design-system/tegel/pull/877,2024-12-09T09:28:13Z,2024-12-17T14:57:21Z,3,18,CLOSED
+tegel,feat(slider): enable click on track to update value,https://github.com/scania-digital-design-system/tegel/pull/876,2024-12-08T17:49:28Z,2024-12-10T14:22:29Z,7,12,CLOSED
+tegel,test: add end-to-end tests for dark mode across components,https://github.com/scania-digital-design-system/tegel/pull/875,2024-12-06T13:21:47Z,2024-12-12T09:24:42Z,5,1,CLOSED
+tegel,test(banner): darkmode coverage,https://github.com/scania-digital-design-system/tegel/pull/874,2024-12-05T16:26:15Z,2024-12-09T14:51:07Z,7,3,CLOSED
+tegel,test: added icons,https://github.com/scania-digital-design-system/tegel/pull/873,2024-12-02T10:25:30Z,2025-01-17T15:47:04Z,3,17,CLOSED
+tegel,fix: popover test accepting a pixel diff ratio,https://github.com/scania-digital-design-system/tegel/pull/872,2024-11-29T12:32:52Z,2024-12-02T08:19:19Z,4,2,MERGED
+tegel,ci: smoke test improvement,https://github.com/scania-digital-design-system/tegel/pull/871,2024-11-28T15:56:53Z,2024-12-04T15:37:31Z,4,1,MERGED
+tegel,fix: colons in scripts,https://github.com/scania-digital-design-system/tegel/pull/870,2024-11-28T13:02:01Z,2024-12-11T14:51:20Z,4,3,MERGED
+tegel,feat: adding motion variables,https://github.com/scania-digital-design-system/tegel/pull/869,2024-11-28T08:49:25Z,2024-12-05T14:46:43Z,5,12,MERGED
+tegel,fix: disabled text colors for text field and textarea,https://github.com/scania-digital-design-system/tegel/pull/868,2024-11-28T08:47:24Z,2024-11-28T13:28:58Z,3,3,MERGED
+tegel,feat: add a method to programatically focus and open the dropdown element,https://github.com/scania-digital-design-system/tegel/pull/867,2024-11-26T20:31:59Z,2024-12-05T13:13:35Z,5,4,MERGED
+tegel,docs: add a guide to test changes locally,https://github.com/scania-digital-design-system/tegel/pull/866,2024-11-26T16:47:06Z,2024-11-27T09:21:43Z,4,1,MERGED
+tegel,fix(icon): cart and image_inactive update,https://github.com/scania-digital-design-system/tegel/pull/865,2024-11-26T16:03:26Z,2024-11-27T15:36:39Z,3,1,MERGED
+tegel,ci: smoke test improvement,https://github.com/scania-digital-design-system/tegel/pull/864,2024-11-26T13:16:52Z,2024-11-28T15:37:30Z,8,8,MERGED
+tegel,feat(popover): added motion ,https://github.com/scania-digital-design-system/tegel/pull/863,2024-11-26T13:06:15Z,2024-11-29T10:42:22Z,15,37,CLOSED
+tegel,build(node) bumped to 22.11.0 lts/jod,https://github.com/scania-digital-design-system/tegel/pull/862,2024-11-26T12:51:45Z,2025-01-17T15:23:41Z,5,4,MERGED
+tegel,feat: add a method to reset datetime value,https://github.com/scania-digital-design-system/tegel/pull/861,2024-11-26T03:20:58Z,2024-11-26T11:20:47Z,4,1,MERGED
+tegel,fix(textarea): updating disable label color,https://github.com/scania-digital-design-system/tegel/pull/860,2024-11-25T13:01:32Z,2024-11-27T11:43:59Z,5,9,CLOSED
+tegel,docs: update incorrect link,https://github.com/scania-digital-design-system/tegel/pull/859,2024-11-22T07:41:40Z,2024-11-25T10:46:41Z,3,2,MERGED
+tegel,build: upgrade to stencil 4.22.2,https://github.com/scania-digital-design-system/tegel/pull/858,2024-11-19T16:29:02Z,2024-11-21T14:31:48Z,3,1,MERGED
+tegel,ci: pipelines improvement & clean-up,https://github.com/scania-digital-design-system/tegel/pull/857,2024-11-19T15:57:00Z,2024-11-20T15:05:44Z,3,9,MERGED
+tegel,ci: smoke test improvements,https://github.com/scania-digital-design-system/tegel/pull/856,2024-11-19T11:51:01Z,2024-11-21T15:39:58Z,5,7,MERGED
+tegel,fix(button): host in disabled state,https://github.com/scania-digital-design-system/tegel/pull/855,2024-11-19T11:01:06Z,2024-11-25T10:47:39Z,7,4,MERGED
+tegel,docs: add testing guide for Tegel and link in README,https://github.com/scania-digital-design-system/tegel/pull/854,2024-11-18T12:15:56Z,2024-11-26T14:31:33Z,8,6,MERGED
+tegel,feat(issue-template): update bug report template and remove markdown …,https://github.com/scania-digital-design-system/tegel/pull/853,2024-11-15T14:29:37Z,2024-11-15T15:10:40Z,3,2,MERGED
+tegel,docs: adding link to static assets copy command,https://github.com/scania-digital-design-system/tegel/pull/851,2024-11-15T07:20:14Z,2024-11-15T09:18:54Z,3,1,MERGED
+tegel,release: tegel@1.19.0,https://github.com/scania-digital-design-system/tegel/pull/849,2024-11-14T10:31:44Z,2024-11-14T10:33:28Z,2,5,MERGED
+tegel,fix(package): restore prettier as a dev dependency,https://github.com/scania-digital-design-system/tegel/pull/848,2024-11-13T11:15:33Z,2024-11-13T13:40:25Z,3,1,MERGED
+tegel,fix(text-field): label inside,https://github.com/scania-digital-design-system/tegel/pull/847,2024-11-13T10:34:40Z,2024-11-14T08:43:32Z,3,1,MERGED
+tegel,fix(table): adjust pagination textbox for three digit issue,https://github.com/scania-digital-design-system/tegel/pull/846,2024-11-12T14:55:29Z,2024-11-13T09:03:41Z,3,2,MERGED
+tegel,fix(text-field): counter label color in disabled state,https://github.com/scania-digital-design-system/tegel/pull/845,2024-11-12T14:13:34Z,2024-11-13T09:50:10Z,3,2,MERGED
+tegel,Fix: add prettier as dev-dependancies,https://github.com/scania-digital-design-system/tegel/pull/844,2024-11-12T13:23:27Z,2024-11-13T11:04:50Z,5,4,CLOSED
+tegel,fix: added new screenshot for table pagination dropdown list,https://github.com/scania-digital-design-system/tegel/pull/843,2024-11-12T08:58:00Z,2024-11-12T13:39:32Z,3,1,MERGED
+tegel,fix(tds-slider): removed preventDefault for touchMove,https://github.com/scania-digital-design-system/tegel/pull/842,2024-11-11T13:28:07Z,2024-11-12T08:10:15Z,4,1,MERGED
+tegel,feat: Component versioning,https://github.com/scania-digital-design-system/tegel/pull/841,2024-11-11T13:23:25Z,2024-11-19T08:44:17Z,4,8,CLOSED
+tegel,feat(popover-core):  prevent internal logic,https://github.com/scania-digital-design-system/tegel/pull/839,2024-11-08T16:22:33Z,2024-11-14T09:47:13Z,15,12,MERGED
+tegel,feat(dependabot): add dependabot PR checklist,https://github.com/scania-digital-design-system/tegel/pull/838,2024-11-08T12:12:48Z,2024-11-12T08:33:54Z,4,5,MERGED
+tegel,fix: align input text colors,https://github.com/scania-digital-design-system/tegel/pull/837,2024-11-08T10:04:17Z,2024-11-12T13:50:38Z,3,2,MERGED
+tegel,fix: update bug template,https://github.com/scania-digital-design-system/tegel/pull/836,2024-11-08T09:08:52Z,2024-11-11T16:38:03Z,5,2,MERGED
+tegel,Fix: update bug templates,https://github.com/scania-digital-design-system/tegel/pull/835,2024-11-08T09:00:23Z,2024-11-08T09:10:19Z,3,1,CLOSED
+tegel,fix: pagination dropdown all rounded corners,https://github.com/scania-digital-design-system/tegel/pull/834,2024-11-07T15:33:30Z,2024-11-12T08:10:48Z,3,2,MERGED
+tegel,chore: testign icons,https://github.com/scania-digital-design-system/tegel/pull/832,2024-11-06T16:16:09Z,2025-01-13T15:31:55Z,4,1,CLOSED
+tegel,Enable Shadow DOM for tds-header Component to Improve Slot Behavior and Encapsulation,https://github.com/scania-digital-design-system/tegel/pull/831,2024-11-06T13:54:37Z,2024-11-08T09:10:52Z,3,18,CLOSED
+tegel,build: smoke test webhook,https://github.com/scania-digital-design-system/tegel/pull/830,2024-11-06T08:14:51Z,2024-11-12T14:19:08Z,3,4,MERGED
+tegel,"feat(icons): added history, flash, trailor",https://github.com/scania-digital-design-system/tegel/pull/829,2024-11-05T15:53:02Z,2024-11-06T15:58:45Z,3,2,MERGED
+tegel,ci(holy-grail): improvements,https://github.com/scania-digital-design-system/tegel/pull/828,2024-11-04T16:11:07Z,2024-11-11T15:35:17Z,3,1,MERGED
+tegel,build/bump versions 1.18.0,https://github.com/scania-digital-design-system/tegel/pull/826,2024-11-04T12:47:19Z,2024-11-04T13:01:26Z,3,1,MERGED
+tegel,feat: icon gallery,https://github.com/scania-digital-design-system/tegel/pull/825,2024-11-01T10:52:30Z,2024-11-01T16:20:32Z,4,5,MERGED
+tegel,fix(slider): increase clickable area of slider,https://github.com/scania-digital-design-system/tegel/pull/1022,2025-02-24T14:00:26Z,2025-02-25T13:03:17Z,5,2,MERGED
+tegel,docs: update to PR template,https://github.com/scania-digital-design-system/tegel/pull/1021,2025-02-21T13:56:48Z,2025-02-24T10:06:07Z,3,1,MERGED
+tegel,chore: npm commands for packing core and wrappers,https://github.com/scania-digital-design-system/tegel/pull/1020,2025-02-21T13:27:30Z,2025-02-24T12:59:10Z,5,2,MERGED
+tegel,fix(datetime): update readme with info about known issues,https://github.com/scania-digital-design-system/tegel/pull/1019,2025-02-20T16:33:55Z,2025-02-25T13:21:40Z,3,1,MERGED
+tegel,feat(accordion): accessibility improvement ,https://github.com/scania-digital-design-system/tegel/pull/1018,2025-02-19T15:00:00Z,2025-02-26T08:46:37Z,11,16,MERGED
+tegel,fix(popover-menu): disabled option cursor,https://github.com/scania-digital-design-system/tegel/pull/1017,2025-02-19T13:48:07Z,2025-02-21T11:58:02Z,3,1,MERGED
+tegel,test(link): updating failing snapshots for standalone link component,https://github.com/scania-digital-design-system/tegel/pull/1016,2025-02-19T13:08:24Z,2025-02-19T13:50:44Z,3,1,MERGED
+tegel,fix(toggle): add hover effect,https://github.com/scania-digital-design-system/tegel/pull/1014,2025-02-18T13:09:43Z,2025-02-19T14:05:48Z,3,1,MERGED
+tegel,fix(icons): naming convention update,https://github.com/scania-digital-design-system/tegel/pull/1013,2025-02-18T10:08:58Z,2025-02-19T14:11:14Z,4,5,MERGED
+tegel,test(form): unit test form components,https://github.com/scania-digital-design-system/tegel/pull/1012,2025-02-17T15:41:32Z,2025-02-18T12:40:38Z,1,2,MERGED
+tegel,feat(dropdown): value prop for two way data binding,https://github.com/scania-digital-design-system/tegel/pull/1011,2025-02-17T15:03:40Z,2025-03-12T12:44:38Z,9,19,MERGED
+tegel,fix(block): nesting coloring issue,https://github.com/scania-digital-design-system/tegel/pull/1010,2025-02-17T12:35:06Z,2025-02-19T09:07:38Z,6,2,MERGED
+tegel,feat: added auto assign author action,https://github.com/scania-digital-design-system/tegel/pull/1009,2025-02-17T10:50:27Z,2025-02-24T08:57:31Z,3,2,MERGED
+tegel,test(form): native style submit and reset of form components,https://github.com/scania-digital-design-system/tegel/pull/1007,2025-02-13T14:17:39Z,2025-02-21T10:41:04Z,5,4,MERGED
+tegel,fix(dropdown): reset natively,https://github.com/scania-digital-design-system/tegel/pull/1006,2025-02-12T13:32:04Z,2025-02-17T15:49:54Z,5,4,MERGED
+tegel,fix(slider): native style form reset handling,https://github.com/scania-digital-design-system/tegel/pull/1005,2025-02-11T17:16:57Z,2025-02-17T15:34:48Z,4,3,MERGED
+tegel,feat(checkbox): added event listener,https://github.com/scania-digital-design-system/tegel/pull/1004,2025-02-10T13:34:55Z,2025-02-14T12:22:40Z,11,1,MERGED
+tegel,feat(dropdown): allow number in value,https://github.com/scania-digital-design-system/tegel/pull/1003,2025-02-08T18:50:28Z,2025-03-06T14:42:25Z,13,6,MERGED
+tegel,ci(holy-grail): sync develop and main,https://github.com/scania-digital-design-system/tegel/pull/1000,2025-02-06T16:23:31Z,2025-02-10T08:21:10Z,3,1,MERGED
+tegel,ci(codeowners): additional members,https://github.com/scania-digital-design-system/tegel/pull/999,2025-02-06T16:01:06Z,2025-02-10T08:20:24Z,3,1,MERGED
+tegel,Draft PR for debugging,https://github.com/scania-digital-design-system/tegel/pull/998,2025-02-06T15:49:45Z,2025-02-07T12:44:09Z,3,3,CLOSED
+tegel,test: accessibility,https://github.com/scania-digital-design-system/tegel/pull/997,2025-02-06T13:46:29Z,2025-02-10T10:26:17Z,4,5,MERGED
+tegel,Draft PR for new demo of modal in storybook,https://github.com/scania-digital-design-system/tegel/pull/996,2025-02-03T11:00:51Z,2025-02-17T12:39:51Z,3,2,CLOSED
+tegel,fix(tooltip): space claim and text wrapping,https://github.com/scania-digital-design-system/tegel/pull/995,2025-01-31T16:04:34Z,2025-02-11T14:24:36Z,4,2,MERGED
+tegel,fix/smoke test node version,https://github.com/scania-digital-design-system/tegel/pull/994,2025-01-31T12:30:14Z,2025-01-31T15:42:38Z,3,3,MERGED
+tegel,Draft PR for demo of modal in storybook,https://github.com/scania-digital-design-system/tegel/pull/993,2025-01-31T10:56:18Z,2025-02-17T12:39:54Z,3,1,CLOSED
+tegel,feat(icons): add industry icons batch one,https://github.com/scania-digital-design-system/tegel/pull/992,2025-01-31T10:31:23Z,2025-02-03T09:09:26Z,3,1,MERGED
+tegel,fix: name change webhook file and print node version,https://github.com/scania-digital-design-system/tegel/pull/991,2025-01-31T10:03:07Z,2025-01-31T11:38:55Z,3,2,MERGED
+tegel,fix: highlight language warning in browser console,https://github.com/scania-digital-design-system/tegel/pull/990,2025-01-29T14:52:26Z,2025-01-30T09:38:16Z,3,1,MERGED
+tegel,fix(dropdown): separate selected values with space,https://github.com/scania-digital-design-system/tegel/pull/989,2025-01-28T16:08:51Z,2025-01-29T08:43:44Z,3,1,MERGED
+tegel,fix(chip): Internal event for radio button,https://github.com/scania-digital-design-system/tegel/pull/988,2025-01-28T13:22:00Z,2025-02-06T14:45:08Z,6,2,MERGED
+tegel,test,https://github.com/scania-digital-design-system/tegel/pull/987,2025-01-28T10:45:11Z,2025-01-28T12:10:53Z,3,2,CLOSED
+tegel,fix(slider): improve value snapping and calculation logic,https://github.com/scania-digital-design-system/tegel/pull/986,2025-01-28T10:17:54Z,2025-01-30T08:01:38Z,3,1,MERGED
+tegel,fix(table): zebra mode background color,https://github.com/scania-digital-design-system/tegel/pull/985,2025-01-28T08:42:17Z,2025-01-30T13:34:04Z,3,1,MERGED
+tegel,fix(block): nested blocks background color,https://github.com/scania-digital-design-system/tegel/pull/984,2025-01-26T18:36:11Z,2025-02-11T15:25:26Z,5,2,CLOSED
+tegel,feat(link): optional icon component,https://github.com/scania-digital-design-system/tegel/pull/982,2025-01-24T10:31:50Z,2025-02-19T06:42:58Z,12,5,MERGED
+tegel,fix: added accessibility checks for PRs,https://github.com/scania-digital-design-system/tegel/pull/981,2025-01-22T13:14:49Z,2025-01-27T12:21:49Z,3,1,MERGED
+tegel,feat(storybook): a11y addon,https://github.com/scania-digital-design-system/tegel/pull/980,2025-01-22T10:02:40Z,2025-01-22T10:09:28Z,3,2,CLOSED
+tegel,feature(toggle): update transition properties to use motion variables,https://github.com/scania-digital-design-system/tegel/pull/977,2025-01-21T12:40:04Z,2025-01-21T13:48:11Z,3,3,MERGED
+tegel,feat(icons): add pie-chart icon,https://github.com/scania-digital-design-system/tegel/pull/976,2025-01-21T09:56:09Z,2025-01-21T12:33:26Z,4,1,MERGED
+tegel,feature: Add animation to dropdown component,https://github.com/scania-digital-design-system/tegel/pull/975,2025-01-20T16:35:26Z,2025-01-21T16:56:41Z,6,7,MERGED
+tegel,feature: add animation to popover components,https://github.com/scania-digital-design-system/tegel/pull/974,2025-01-20T15:01:47Z,2025-01-21T13:55:45Z,3,7,MERGED
+tegel,fix(header-dropdown): click list item to close,https://github.com/scania-digital-design-system/tegel/pull/973,2025-01-20T14:08:58Z,2025-01-31T14:20:16Z,11,6,MERGED
+tegel,test(spinner): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/972,2025-01-20T13:40:14Z,2025-01-27T11:52:17Z,4,1,MERGED
+tegel,test(stepper): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/971,2025-01-20T13:21:00Z,2025-01-21T12:43:26Z,1,1,MERGED
+tegel,test(modal): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/970,2025-01-20T13:06:48Z,2025-01-21T12:45:09Z,1,2,MERGED
+tegel,test(divider): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/969,2025-01-20T12:43:23Z,2025-01-21T12:45:54Z,1,2,MERGED
+tegel,test(block): add screenshot tests using reusable test code,https://github.com/scania-digital-design-system/tegel/pull/968,2025-01-20T12:25:54Z,2025-01-22T07:49:20Z,1,1,MERGED
+tegel,"fix(icons): update trailer icon svg, now centered",https://github.com/scania-digital-design-system/tegel/pull/967,2025-01-17T15:24:34Z,2025-01-20T13:12:58Z,3,1,MERGED
+tegel,feature(motion): Storybook variable documentation,https://github.com/scania-digital-design-system/tegel/pull/966,2025-01-16T10:58:16Z,2025-01-17T20:23:58Z,10,24,MERGED
+tegel,fix(header-dropdown):  chevron icon rotation,https://github.com/scania-digital-design-system/tegel/pull/965,2025-01-15T15:01:24Z,2025-01-21T12:38:55Z,4,1,MERGED
+tegel,ci: saving screenshots of failing tests,https://github.com/scania-digital-design-system/tegel/pull/964,2025-01-15T09:17:44Z,2025-01-16T12:36:15Z,3,6,MERGED
+tegel,IGNORE - Running playwright tests,https://github.com/scania-digital-design-system/tegel/pull/963,2025-01-10T13:37:19Z,2025-01-10T13:44:16Z,3,1,CLOSED
+tegel,feat(dropdown): added animation,https://github.com/scania-digital-design-system/tegel/pull/962,2025-01-09T15:59:25Z,2025-01-20T16:00:20Z,4,28,CLOSED

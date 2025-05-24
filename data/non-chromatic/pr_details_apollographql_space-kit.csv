@@ -1,0 +1,313 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+space-kit,Card component,https://github.com/apollographql/space-kit/pull/40,2019-07-31T20:54:02Z,2019-08-06T17:45:44Z,24,9,MERGED
+space-kit,Fix storybook,https://github.com/apollographql/space-kit/pull/39,2019-07-31T17:26:36Z,2019-07-31T18:29:27Z,0,5,MERGED
+space-kit,"Move from ""Space Kit"" to top-level namespacing",https://github.com/apollographql/space-kit/pull/38,2019-07-31T13:06:00Z,2019-07-31T21:57:30Z,0,2,MERGED
+space-kit,[WIP] Working on fixing netlify,https://github.com/apollographql/space-kit/pull/37,2019-07-30T21:13:05Z,2019-08-02T19:00:23Z,0,1,CLOSED
+space-kit,[WIP] Fix storybook builds in Netlify,https://github.com/apollographql/space-kit/pull/36,2019-07-30T18:50:54Z,2019-08-02T19:00:11Z,0,19,CLOSED
+space-kit,Export `colors` as a constant,https://github.com/apollographql/space-kit/pull/35,2019-07-30T15:47:15Z,2019-08-02T19:24:30Z,1,2,MERGED
+space-kit,AP-703: Write integration tests (AP-780),https://github.com/apollographql/space-kit/pull/34,2019-07-29T20:10:21Z,2019-09-04T17:59:49Z,3,6,MERGED
+space-kit,Make Icon weight configurable,https://github.com/apollographql/space-kit/pull/33,2019-07-29T19:56:21Z,2019-08-01T15:45:16Z,1,3,MERGED
+space-kit,[AP-539] Table Additions,https://github.com/apollographql/space-kit/pull/32,2019-07-29T18:35:48Z,2019-08-05T20:45:19Z,9,4,MERGED
+space-kit,Move all the files to live under paths,https://github.com/apollographql/space-kit/pull/31,2019-07-26T19:55:46Z,2019-07-30T16:49:00Z,1,3,MERGED
+space-kit,Remove tsconfig.tsbuildinfo from build,https://github.com/apollographql/space-kit/pull/30,2019-07-26T18:05:58Z,2019-07-26T18:07:31Z,0,2,MERGED
+space-kit,RFC: Set up CI,https://github.com/apollographql/space-kit/pull/29,2019-07-26T16:08:14Z,2019-07-30T15:30:00Z,1,4,MERGED
+space-kit,[WIP] Set up CI,https://github.com/apollographql/space-kit/pull/28,2019-07-26T16:07:45Z,2019-07-26T16:07:57Z,0,3,CLOSED
+space-kit,Convert all remaining files to TypeScript,https://github.com/apollographql/space-kit/pull/27,2019-07-26T15:49:51Z,2019-07-26T19:45:06Z,0,4,MERGED
+space-kit,AP-543 Refactor button implementation,https://github.com/apollographql/space-kit/pull/26,2019-07-25T17:08:19Z,2019-07-26T17:52:43Z,7,14,MERGED
+space-kit,Correct buttons being consumed externally,https://github.com/apollographql/space-kit/pull/25,2019-07-24T17:23:14Z,2019-07-24T19:23:25Z,0,6,MERGED
+space-kit,remove EmotionWrapper from Button,https://github.com/apollographql/space-kit/pull/24,2019-07-24T14:41:32Z,2019-07-24T16:01:33Z,2,1,MERGED
+space-kit,AP-543 Allow custom emotion css injection point,https://github.com/apollographql/space-kit/pull/23,2019-07-23T19:03:38Z,2019-07-23T19:15:20Z,2,2,MERGED
+space-kit,AP-545: Modals,https://github.com/apollographql/space-kit/pull/22,2019-07-22T19:27:02Z,2019-07-26T17:36:00Z,3,6,MERGED
+space-kit,Edit to Table Component,https://github.com/apollographql/space-kit/pull/21,2019-07-19T18:46:34Z,2019-07-22T20:05:47Z,4,6,MERGED
+space-kit,Update Icons.story.jsx,https://github.com/apollographql/space-kit/pull/20,2019-07-19T17:19:31Z,2019-07-19T17:23:37Z,0,1,MERGED
+space-kit,Update Icon story to use util components for consistency across stories in Storybook,https://github.com/apollographql/space-kit/pull/19,2019-07-19T01:34:58Z,2019-07-19T01:35:16Z,0,3,MERGED
+space-kit,Partial proposed changes to AP-543: Create buttons,https://github.com/apollographql/space-kit/pull/18,2019-07-18T18:33:22Z,2019-07-22T13:48:20Z,1,3,MERGED
+space-kit,docs: fix typo,https://github.com/apollographql/space-kit/pull/17,2019-07-03T08:51:43Z,2019-07-08T23:53:07Z,1,1,MERGED
+space-kit,AP-546: Tables POC,https://github.com/apollographql/space-kit/pull/16,2019-07-02T19:55:24Z,2019-07-17T21:36:07Z,1,2,MERGED
+space-kit,Release v0.2.0,https://github.com/apollographql/space-kit/pull/15,2019-07-02T15:16:25Z,2019-07-02T15:16:48Z,0,1,MERGED
+space-kit,AP-543: Create buttons,https://github.com/apollographql/space-kit/pull/14,2019-07-01T20:18:34Z,2019-07-23T16:37:26Z,25,13,MERGED
+space-kit,AP-542 Fix icon transpilation,https://github.com/apollographql/space-kit/pull/13,2019-06-29T14:37:30Z,2019-07-01T19:25:19Z,0,2,MERGED
+space-kit,AP-542 Clean up directories and refactor to TypeScript,https://github.com/apollographql/space-kit/pull/12,2019-06-28T15:11:39Z,2019-06-29T12:33:20Z,0,3,MERGED
+space-kit,Add apollo logo,https://github.com/apollographql/space-kit/pull/11,2019-06-27T17:29:26Z,2019-06-27T21:46:18Z,1,5,MERGED
+space-kit,Use TypeScript for colors,https://github.com/apollographql/space-kit/pull/10,2019-06-27T14:43:59Z,2019-06-27T14:58:02Z,1,1,CLOSED
+space-kit,AP-542: Implement Typography,https://github.com/apollographql/space-kit/pull/8,2019-06-27T11:50:44Z,2019-07-02T15:11:56Z,3,6,MERGED
+space-kit,AP-567 Add Space Kit Icons,https://github.com/apollographql/space-kit/pull/7,2019-06-20T15:50:46Z,2019-06-27T14:28:54Z,12,31,MERGED
+space-kit,AP-786 ✨ add illustrations,https://github.com/apollographql/space-kit/pull/131,2019-10-15T19:04:31Z,2019-11-18T16:44:28Z,1,2,MERGED
+space-kit,AP-786 ✨ add illustrations,https://github.com/apollographql/space-kit/pull/130,2019-10-15T19:03:00Z,2019-10-15T19:05:02Z,1,1,CLOSED
+space-kit,AP-815 📚 improve documentation for `as` prop in `Button`,https://github.com/apollographql/space-kit/pull/129,2019-10-11T15:22:21Z,2019-10-11T15:35:34Z,1,1,MERGED
+space-kit,AP-1071 Write docs on how to use `npm link` with consuming libraries,https://github.com/apollographql/space-kit/pull/128,2019-10-03T16:24:26Z,2019-10-03T16:54:38Z,1,2,MERGED
+space-kit,Fix changelog configuration for adding jira links,https://github.com/apollographql/space-kit/pull/127,2019-10-03T16:22:56Z,2019-10-03T16:32:29Z,1,1,MERGED
+space-kit,Add framer-motion as peer-dep; animate modal AP-812,https://github.com/apollographql/space-kit/pull/126,2019-10-03T16:06:44Z,2019-10-03T16:35:51Z,2,2,MERGED
+space-kit,AP-1011 Stop wrapping long text in Buttons,https://github.com/apollographql/space-kit/pull/125,2019-10-02T18:53:02Z,2019-10-02T23:14:26Z,1,2,MERGED
+space-kit,Update auto to add Jira links,https://github.com/apollographql/space-kit/pull/124,2019-10-02T18:49:48Z,2019-10-02T18:55:10Z,2,1,MERGED
+space-kit,Upgrade storybook to production v5.2.1,https://github.com/apollographql/space-kit/pull/123,2019-10-02T17:34:03Z,2019-10-02T18:39:52Z,1,1,MERGED
+space-kit,AP-919 Stop propagation of clicks when disabled using input as,https://github.com/apollographql/space-kit/pull/122,2019-10-02T00:10:20Z,2019-10-03T00:18:20Z,2,3,MERGED
+space-kit,Add copy icon,https://github.com/apollographql/space-kit/pull/121,2019-09-24T04:18:21Z,2019-09-24T18:15:16Z,1,1,MERGED
+space-kit,Increase modal max height and center contents,https://github.com/apollographql/space-kit/pull/120,2019-09-18T23:31:54Z,2019-09-18T23:39:11Z,1,1,MERGED
+space-kit,Remove renovate,https://github.com/apollographql/space-kit/pull/119,2019-09-18T17:27:12Z,2019-09-18T18:03:34Z,1,2,MERGED
+space-kit,AP-829 converted main.workflow to Actions V2 yml files,https://github.com/apollographql/space-kit/pull/106,2019-09-17T15:14:08Z,2019-09-18T11:44:59Z,2,3,MERGED
+space-kit,AP-704 Setup and configure renovate,https://github.com/apollographql/space-kit/pull/105,2019-09-17T14:42:12Z,2019-09-18T11:50:39Z,2,3,MERGED
+space-kit,Add the layout-module icon,https://github.com/apollographql/space-kit/pull/104,2019-09-11T22:47:19Z,2019-09-11T23:16:53Z,1,2,MERGED
+space-kit,Add `className` prop to Modals,https://github.com/apollographql/space-kit/pull/103,2019-09-11T16:49:54Z,2019-09-12T17:04:13Z,1,1,MERGED
+space-kit,test: update chromatic ci run settings,https://github.com/apollographql/space-kit/pull/102,2019-09-11T15:37:10Z,2019-09-11T17:28:26Z,2,1,MERGED
+space-kit,[WIP] fix(modal): Stop modal from closing unexpectedly,https://github.com/apollographql/space-kit/pull/100,2019-09-10T19:56:29Z,2020-02-13T15:48:13Z,2,1,CLOSED
+space-kit,Add Chromatic visual testing,https://github.com/apollographql/space-kit/pull/99,2019-09-10T19:03:49Z,2019-09-10T20:57:33Z,1,2,MERGED
+space-kit,Document `Button as={}`,https://github.com/apollographql/space-kit/pull/98,2019-09-10T18:42:13Z,2019-09-11T19:58:59Z,3,2,MERGED
+space-kit,AP-801 Show appropriate cursor for `Button`'s `loading` and `disabled` states,https://github.com/apollographql/space-kit/pull/97,2019-09-09T17:27:41Z,2019-09-09T18:06:49Z,4,2,MERGED
+space-kit,AP-808 Add `as` prop to `Modal`,https://github.com/apollographql/space-kit/pull/96,2019-09-07T21:47:48Z,2019-09-08T13:37:35Z,2,1,MERGED
+space-kit,AP-808: passthrough `autoFocus` prop to underlying `input` in `TextField`,https://github.com/apollographql/space-kit/pull/95,2019-09-06T18:43:04Z,2019-09-06T19:06:31Z,4,1,MERGED
+space-kit,Add `align` property to `Table`'s `columns`,https://github.com/apollographql/space-kit/pull/94,2019-09-06T15:45:08Z,2019-09-06T16:29:42Z,3,1,CLOSED
+space-kit,Add `will-change` to `LoadingSpinner`'s animation,https://github.com/apollographql/space-kit/pull/93,2019-09-06T13:30:00Z,2019-09-07T21:46:42Z,1,1,MERGED
+space-kit,AP-809 Add loading state to button,https://github.com/apollographql/space-kit/pull/92,2019-09-06T00:36:01Z,2019-09-06T02:22:42Z,3,3,MERGED
+space-kit,AP-714 Move emotion export docs to storybook,https://github.com/apollographql/space-kit/pull/90,2019-09-03T14:16:51Z,2019-09-03T14:36:33Z,1,1,MERGED
+space-kit,AP-783 set modal `max-height` to 60%,https://github.com/apollographql/space-kit/pull/89,2019-08-30T18:34:35Z,2019-08-30T19:19:31Z,1,1,MERGED
+space-kit,modal: center instead of top:20%,https://github.com/apollographql/space-kit/pull/88,2019-08-30T17:59:38Z,2019-08-30T18:04:52Z,0,1,CLOSED
+space-kit,Remove font weight from smaller fonts,https://github.com/apollographql/space-kit/pull/87,2019-08-28T22:42:29Z,2019-08-28T23:29:27Z,3,1,MERGED
+space-kit,fix(Card): Change font size for large card heading,https://github.com/apollographql/space-kit/pull/86,2019-08-28T19:47:24Z,2019-08-28T19:58:10Z,1,1,MERGED
+space-kit,Add vs code settings to repo,https://github.com/apollographql/space-kit/pull/85,2019-08-28T19:39:03Z,2019-08-28T19:45:54Z,1,1,MERGED
+space-kit,Add onFocus prop to TextField type,https://github.com/apollographql/space-kit/pull/84,2019-08-27T18:50:38Z,2019-08-27T20:03:19Z,2,2,MERGED
+space-kit,fix(button): fix broken button clicks,https://github.com/apollographql/space-kit/pull/83,2019-08-26T18:34:53Z,2019-08-26T18:38:36Z,1,1,MERGED
+space-kit,Add `Loaders/` to .gitignore and clean scripts,https://github.com/apollographql/space-kit/pull/82,2019-08-26T13:26:44Z,2019-08-26T18:30:52Z,1,2,MERGED
+space-kit,AP-714 Use storybook docs,https://github.com/apollographql/space-kit/pull/81,2019-08-26T13:20:32Z,2019-09-03T11:52:19Z,2,15,MERGED
+space-kit,Change `Button` `as` prop to only accept `React.ReactElement`,https://github.com/apollographql/space-kit/pull/80,2019-08-23T19:44:51Z,2019-08-23T20:29:01Z,1,2,MERGED
+space-kit,Button: add 12px padding and expanded content example,https://github.com/apollographql/space-kit/pull/79,2019-08-22T22:30:28Z,2019-08-28T12:03:08Z,2,1,MERGED
+space-kit,medium modals should have 32 px above actions,https://github.com/apollographql/space-kit/pull/78,2019-08-22T22:23:36Z,2019-08-23T21:03:21Z,5,1,MERGED
+space-kit,feat(Button): change light theme button shadow per @torres,https://github.com/apollographql/space-kit/pull/77,2019-08-22T15:43:55Z,2019-08-22T16:49:40Z,1,1,MERGED
+space-kit,fix(TextField): Pass `name` and `type` to `<input>`,https://github.com/apollographql/space-kit/pull/76,2019-08-22T15:40:45Z,2019-08-22T17:03:31Z,2,2,MERGED
+space-kit,Add loading spinner,https://github.com/apollographql/space-kit/pull/75,2019-08-21T18:24:44Z,2019-08-23T20:18:30Z,13,10,MERGED
+space-kit,build: update ssh fingerprint to release through `apollo-bot2`,https://github.com/apollographql/space-kit/pull/74,2019-08-20T16:21:57Z,2019-08-20T16:26:16Z,1,1,MERGED
+space-kit,fix(button): fix disabled button style,https://github.com/apollographql/space-kit/pull/73,2019-08-20T15:26:41Z,2019-08-20T15:54:43Z,1,2,MERGED
+space-kit,Add `inputAs` prop to `TextField` to customize how the underlying `input` is rendered,https://github.com/apollographql/space-kit/pull/72,2019-08-19T20:36:15Z,2019-08-22T13:58:25Z,13,3,MERGED
+space-kit,update SSH fingerprint to use apollo-bot2 instead of justinanastos,https://github.com/apollographql/space-kit/pull/71,2019-08-16T15:36:29Z,2019-08-16T15:41:06Z,3,1,MERGED
+space-kit,Add `as` prop to `Button`,https://github.com/apollographql/space-kit/pull/70,2019-08-15T00:07:28Z,2019-08-20T17:18:34Z,13,4,MERGED
+space-kit,"Correct npm script for cleaning TextField, make labels optional",https://github.com/apollographql/space-kit/pull/69,2019-08-14T22:04:37Z,2019-08-15T00:27:10Z,4,1,MERGED
+space-kit,Add White to Palette Colors,https://github.com/apollographql/space-kit/pull/68,2019-08-14T18:14:36Z,2019-08-14T18:24:30Z,0,1,CLOSED
+space-kit,Small text field fixes,https://github.com/apollographql/space-kit/pull/67,2019-08-13T23:19:08Z,2019-08-15T00:17:53Z,5,4,MERGED
+space-kit,Table Margin Fix,https://github.com/apollographql/space-kit/pull/66,2019-08-12T17:49:47Z,2019-08-12T18:03:33Z,1,1,MERGED
+space-kit,"feat(button): Replace feel=""secondary"" with color={colors.white}",https://github.com/apollographql/space-kit/pull/65,2019-08-12T15:58:26Z,2019-08-12T16:23:12Z,2,1,MERGED
+space-kit,Automatically calculate button text color,https://github.com/apollographql/space-kit/pull/64,2019-08-12T15:24:26Z,2019-08-12T15:34:33Z,1,2,MERGED
+space-kit,fix(button): center icons,https://github.com/apollographql/space-kit/pull/63,2019-08-11T18:32:39Z,2019-08-11T21:21:59Z,1,1,MERGED
+space-kit,install emotion dependencies in dependencies,https://github.com/apollographql/space-kit/pull/62,2019-08-11T18:32:18Z,2019-08-12T15:01:23Z,2,1,MERGED
+space-kit,fix `watch:typescript` script,https://github.com/apollographql/space-kit/pull/61,2019-08-11T13:56:47Z,2019-08-11T14:36:03Z,1,1,MERGED
+space-kit,Fix `npm watch` script,https://github.com/apollographql/space-kit/pull/60,2019-08-09T20:24:18Z,2019-08-09T20:27:10Z,1,1,MERGED
+space-kit,Change `Icon` to have `thin` and `normal` weights,https://github.com/apollographql/space-kit/pull/59,2019-08-09T15:54:04Z,2019-08-09T15:56:03Z,1,1,MERGED
+space-kit,remove default size on icons,https://github.com/apollographql/space-kit/pull/58,2019-08-09T15:27:42Z,2019-08-09T15:42:15Z,1,1,MERGED
+space-kit,Refactor icon generation,https://github.com/apollographql/space-kit/pull/57,2019-08-08T19:59:48Z,2019-08-08T20:27:15Z,1,5,MERGED
+space-kit,Test automatic releases,https://github.com/apollographql/space-kit/pull/56,2019-08-08T14:17:20Z,2019-08-08T14:17:43Z,1,1,MERGED
+space-kit,Fix release script,https://github.com/apollographql/space-kit/pull/55,2019-08-07T21:17:56Z,2019-08-07T21:23:18Z,1,2,MERGED
+space-kit,Add workflow to re-run the `check-label` CircleCI job when labels are changed,https://github.com/apollographql/space-kit/pull/54,2019-08-07T19:55:14Z,2019-08-07T20:50:52Z,1,1,MERGED
+space-kit,Speed up `check-labels` task by not installing dependencies,https://github.com/apollographql/space-kit/pull/53,2019-08-07T14:48:46Z,2019-08-07T21:00:22Z,1,1,MERGED
+space-kit,Fix modals sizes in Safari,https://github.com/apollographql/space-kit/pull/52,2019-08-07T14:43:05Z,2019-08-07T14:47:46Z,1,1,MERGED
+space-kit,Add name and email to `auto` config,https://github.com/apollographql/space-kit/pull/51,2019-08-06T21:38:54Z,2019-08-06T21:42:00Z,1,1,MERGED
+space-kit,Make release.sh executable,https://github.com/apollographql/space-kit/pull/50,2019-08-06T21:28:41Z,2019-08-06T21:32:05Z,1,1,MERGED
+space-kit,0.8.0,https://github.com/apollographql/space-kit/pull/49,2019-08-06T17:49:28Z,2019-08-06T17:53:25Z,0,1,MERGED
+space-kit,Set up automatic npm releases using `auto`,https://github.com/apollographql/space-kit/pull/48,2019-08-06T16:23:57Z,2019-08-06T21:23:42Z,1,4,MERGED
+space-kit,0.7.4 Update Version,https://github.com/apollographql/space-kit/pull/47,2019-08-06T00:38:08Z,2019-08-06T00:50:41Z,0,1,MERGED
+space-kit,AP-700 Export `emotionCacheProviderFactory` so allow consumers to override classes,https://github.com/apollographql/space-kit/pull/46,2019-08-05T18:39:14Z,2019-08-11T14:40:20Z,11,2,MERGED
+space-kit,AP-544 Implement Text Inputs,https://github.com/apollographql/space-kit/pull/45,2019-08-03T00:34:21Z,2019-08-13T18:40:03Z,23,3,MERGED
+space-kit,chore: prepare for v0.7.1,https://github.com/apollographql/space-kit/pull/44,2019-08-02T19:38:00Z,2019-08-02T19:38:07Z,0,1,MERGED
+space-kit,fix: remove awcache from builds,https://github.com/apollographql/space-kit/pull/43,2019-08-02T19:35:05Z,2019-08-02T19:36:06Z,0,1,MERGED
+space-kit,Prepare for release v0.7.0,https://github.com/apollographql/space-kit/pull/42,2019-08-02T19:29:19Z,2019-08-02T19:31:47Z,0,1,MERGED
+space-kit,Tiny Modal Edits,https://github.com/apollographql/space-kit/pull/41,2019-08-01T21:36:48Z,2019-08-02T19:00:23Z,0,2,MERGED
+space-kit,feat(LoadingSpinner): Add `progressbar` role,https://github.com/apollographql/space-kit/pull/151,2019-12-20T15:54:08Z,2019-12-20T16:11:04Z,1,1,MERGED
+space-kit,AP-1023 AP-1312 Implement `Tooltip` and `ConfirmationTooltip`,https://github.com/apollographql/space-kit/pull/150,2019-12-17T21:00:10Z,2020-01-17T22:01:00Z,15,18,MERGED
+space-kit,AP-1023 Use rollup to bundle library,https://github.com/apollographql/space-kit/pull/149,2019-12-17T20:48:41Z,2019-12-20T15:42:48Z,3,3,MERGED
+space-kit,WIP: Use rollup for builds,https://github.com/apollographql/space-kit/pull/148,2019-12-16T17:45:28Z,2019-12-17T20:38:42Z,0,2,CLOSED
+space-kit,Make tslib a proper dep,https://github.com/apollographql/space-kit/pull/147,2019-12-05T01:15:23Z,2019-12-05T15:08:32Z,1,1,MERGED
+space-kit,AP-1215 Add `as` prop to `Modal`,https://github.com/apollographql/space-kit/pull/146,2019-12-03T19:53:47Z,2019-12-04T21:11:07Z,14,4,MERGED
+space-kit,Fix: avoid descriptions pushing actions off-screen - AP-1138,https://github.com/apollographql/space-kit/pull/145,2019-11-25T20:47:28Z,2019-11-25T21:27:54Z,1,2,MERGED
+space-kit,AP-1215 Make modal as prop replace inner div,https://github.com/apollographql/space-kit/pull/144,2019-11-22T22:47:44Z,2019-12-04T21:11:37Z,2,1,CLOSED
+space-kit,Stop stripping comments from TypeScript builds,https://github.com/apollographql/space-kit/pull/143,2019-11-21T18:26:56Z,2019-11-21T18:31:58Z,1,1,MERGED
+space-kit,AP-1222 Add option to disable Modal animations,https://github.com/apollographql/space-kit/pull/142,2019-11-21T16:39:14Z,2019-11-21T19:20:37Z,3,4,MERGED
+space-kit,Turn off syncAnimationRestarts for chromatic and buttons,https://github.com/apollographql/space-kit/pull/141,2019-11-19T23:23:18Z,2019-11-22T16:38:44Z,4,4,MERGED
+space-kit,Change loader spin duration to 750ms,https://github.com/apollographql/space-kit/pull/140,2019-11-18T23:30:13Z,2019-11-19T22:14:30Z,2,2,MERGED
+space-kit,remove unnecessary scrollbar,https://github.com/apollographql/space-kit/pull/139,2019-11-18T14:46:18Z,2019-11-18T14:57:02Z,1,1,MERGED
+space-kit,Stop CI trying to run `check-label`,https://github.com/apollographql/space-kit/pull/138,2019-11-15T15:15:01Z,2019-11-15T15:22:16Z,1,1,MERGED
+space-kit,AP-1075 Fix spinner remounting restarts,https://github.com/apollographql/space-kit/pull/137,2019-11-15T01:43:53Z,2019-11-18T20:17:12Z,6,2,MERGED
+space-kit,AP-1165 Disable label checks for PRs,https://github.com/apollographql/space-kit/pull/136,2019-11-11T17:46:13Z,2019-11-11T17:54:41Z,1,2,MERGED
+space-kit,WIP: Test icon height PR,https://github.com/apollographql/space-kit/pull/135,2019-11-07T15:42:01Z,2019-11-07T15:57:49Z,0,3,CLOSED
+space-kit,AP-1099 Remove default width on icons,https://github.com/apollographql/space-kit/pull/134,2019-11-06T22:31:53Z,2019-11-07T16:05:00Z,1,3,MERGED
+space-kit,Improve `TextField` tests,https://github.com/apollographql/space-kit/pull/133,2019-11-06T20:37:37Z,2019-11-06T21:36:07Z,1,2,MERGED
+space-kit,AP-1099 Set default size of icons to be 20px by 20px,https://github.com/apollographql/space-kit/pull/132,2019-11-06T20:15:12Z,2019-11-06T21:09:04Z,1,1,MERGED
+space-kit,Fix: Minor typo in Emotion description,https://github.com/apollographql/space-kit/pull/161,2020-03-30T14:41:03Z,2020-03-30T14:59:19Z,1,1,MERGED
+space-kit,📚 Table: expand `colProps` docs to explain applicable styles,https://github.com/apollographql/space-kit/pull/160,2020-03-11T16:08:40Z,2020-03-11T16:37:42Z,1,1,MERGED
+space-kit,AP-1393 Add `endIcon` prop to `Button`,https://github.com/apollographql/space-kit/pull/159,2020-02-27T15:53:31Z,2020-03-10T18:44:06Z,2,3,MERGED
+space-kit,AP-1335 Fix `MenuItem`s not being truncated properly,https://github.com/apollographql/space-kit/pull/158,2020-02-13T21:31:45Z,2020-02-14T14:34:07Z,3,4,MERGED
+space-kit,AP-1335 Fix broken animations again,https://github.com/apollographql/space-kit/pull/157,2020-02-07T20:21:58Z,2020-02-11T19:32:35Z,2,1,MERGED
+space-kit,AP-1335 Remove `Menu` `instanceRef` prop and add `closeOnMenuItemClick`,https://github.com/apollographql/space-kit/pull/156,2020-02-07T15:12:49Z,2020-02-13T15:47:53Z,4,4,MERGED
+space-kit,AP-1335 Fix animations not being disabled by `SpaceKitProvider`,https://github.com/apollographql/space-kit/pull/155,2020-02-06T19:27:33Z,2020-02-07T15:04:25Z,2,2,MERGED
+space-kit,Add more font weights,https://github.com/apollographql/space-kit/pull/154,2020-01-29T22:12:50Z,2020-01-30T01:45:04Z,2,1,CLOSED
+space-kit,AP-1335 Implement Menus,https://github.com/apollographql/space-kit/pull/153,2020-01-24T19:36:37Z,2020-02-04T16:33:29Z,2,3,MERGED
+space-kit,Add address icon,https://github.com/apollographql/space-kit/pull/152,2020-01-14T18:13:34Z,2020-01-14T19:04:42Z,2,2,MERGED
+space-kit,"Apply hover states to `MenuItem` and `Button` when `aria-expanded=""true""`",https://github.com/apollographql/space-kit/pull/177,2020-05-29T14:41:34Z,2020-06-03T21:01:44Z,1,2,MERGED
+space-kit,AR-1634: Remove focus from Buttons when you mouseout with a mouse button pressed,https://github.com/apollographql/space-kit/pull/176,2020-05-15T19:02:19Z,2020-06-18T00:32:18Z,3,2,MERGED
+space-kit,Update testing dependencies,https://github.com/apollographql/space-kit/pull/175,2020-05-15T17:28:28Z,2020-05-20T17:49:55Z,2,5,MERGED
+space-kit,AR-572 Create Alert component,https://github.com/apollographql/space-kit/pull/174,2020-05-11T05:47:57Z,2020-06-12T18:19:24Z,29,20,MERGED
+space-kit,Add space-kit svg as favicon,https://github.com/apollographql/space-kit/pull/173,2020-05-08T20:27:30Z,2020-05-12T17:25:12Z,1,1,MERGED
+space-kit,Align icons with upcoming alert designs,https://github.com/apollographql/space-kit/pull/172,2020-05-08T16:14:11Z,2020-05-08T21:02:21Z,3,4,MERGED
+space-kit,Add className to Tooltip prop types,https://github.com/apollographql/space-kit/pull/171,2020-05-01T15:31:47Z,2020-06-17T13:27:08Z,3,2,MERGED
+space-kit,Add success solid icon,https://github.com/apollographql/space-kit/pull/170,2020-04-22T00:30:02Z,2020-04-22T00:36:27Z,2,1,MERGED
+space-kit,Fix broken release process,https://github.com/apollographql/space-kit/pull/169,2020-04-20T15:37:26Z,2020-04-20T15:42:29Z,1,2,MERGED
+space-kit,adds another operations icon ,https://github.com/apollographql/space-kit/pull/168,2020-04-17T00:07:20Z,2020-04-20T17:59:37Z,2,5,MERGED
+space-kit,AR-1541 Upgrade underlying dependencies and logic in menus and tooltips,https://github.com/apollographql/space-kit/pull/167,2020-04-15T16:59:39Z,2020-04-15T17:28:46Z,0,2,CLOSED
+space-kit,AR-1541 Upgrade underlying dependencies and logic in menus and tooltips,https://github.com/apollographql/space-kit/pull/166,2020-04-15T16:59:38Z,2020-04-20T15:13:16Z,19,4,MERGED
+space-kit,Restore CI check to require a label be applied before merging a PR,https://github.com/apollographql/space-kit/pull/165,2020-04-07T18:35:54Z,2020-04-07T20:08:20Z,2,4,MERGED
+space-kit,Add warning and book icons,https://github.com/apollographql/space-kit/pull/164,2020-04-07T00:26:54Z,2020-04-07T02:22:05Z,2,4,MERGED
+space-kit,Add run icon,https://github.com/apollographql/space-kit/pull/163,2020-04-04T00:29:17Z,2020-04-04T19:06:19Z,1,1,MERGED
+space-kit,Add `containerAs` prop to Modal,https://github.com/apollographql/space-kit/pull/162,2020-04-01T15:06:34Z,2020-04-01T16:51:54Z,6,1,MERGED
+space-kit,AR-748 Add `Switch` component,https://github.com/apollographql/space-kit/pull/212,2020-07-24T16:37:29Z,2020-08-13T19:17:13Z,12,5,MERGED
+space-kit,"AR-1781 Don't render `Tooltip`, `ConfirmationTooltip`, or `Popover` if `content` prop is `undefined`",https://github.com/apollographql/space-kit/pull/211,2020-07-23T14:38:08Z,2020-07-24T14:31:25Z,6,2,MERGED
+space-kit,AR-1779 AR-1758 Refactor `Button` to use `react-spectrum`,https://github.com/apollographql/space-kit/pull/210,2020-07-21T19:55:53Z,2020-10-19T18:13:29Z,8,6,CLOSED
+space-kit,Add whitespace to readme just to trigger builds,https://github.com/apollographql/space-kit/pull/209,2020-07-20T19:27:44Z,2020-07-20T19:28:27Z,1,1,MERGED
+space-kit,Update references to default branch of `main`,https://github.com/apollographql/space-kit/pull/208,2020-07-20T19:06:04Z,2020-07-20T19:10:50Z,1,1,MERGED
+space-kit,🚧 add debugging to Tooltip/Confirmation stories,https://github.com/apollographql/space-kit/pull/207,2020-07-20T18:57:57Z,2020-11-30T16:50:55Z,1,1,MERGED
+space-kit,Modal: add verticalScrollMode property to limit overflow to children,https://github.com/apollographql/space-kit/pull/206,2020-07-17T03:35:48Z,2020-07-20T12:18:06Z,3,1,MERGED
+space-kit,Popover: add interactive property,https://github.com/apollographql/space-kit/pull/204,2020-07-15T04:15:55Z,2020-07-17T01:54:38Z,1,2,MERGED
+space-kit,Update share icon,https://github.com/apollographql/space-kit/pull/203,2020-07-14T20:10:12Z,2020-07-14T21:31:30Z,1,1,MERGED
+space-kit,Update overflow icon,https://github.com/apollographql/space-kit/pull/202,2020-07-14T19:04:59Z,2020-07-14T19:44:21Z,5,5,MERGED
+space-kit,Remove drop shadow from AlertBanner,https://github.com/apollographql/space-kit/pull/201,2020-07-13T23:26:26Z,2020-07-13T23:34:30Z,2,2,MERGED
+space-kit,AR-1681 Create AlertBanner component ,https://github.com/apollographql/space-kit/pull/200,2020-07-11T04:06:34Z,2020-07-13T16:55:07Z,7,2,MERGED
+space-kit,Adding new icons to support navigation update,https://github.com/apollographql/space-kit/pull/198,2020-07-07T19:25:18Z,2020-07-07T20:43:09Z,11,2,MERGED
+space-kit,darken spinner trail by 1 shade,https://github.com/apollographql/space-kit/pull/197,2020-06-26T00:07:54Z,2020-06-26T15:34:21Z,1,1,MERGED
+space-kit,Update Edit icon,https://github.com/apollographql/space-kit/pull/196,2020-06-23T20:29:27Z,2020-06-23T20:41:48Z,2,1,MERGED
+space-kit,Adds unavailable icon,https://github.com/apollographql/space-kit/pull/195,2020-06-22T16:36:11Z,2020-06-22T16:46:54Z,1,1,MERGED
+space-kit,✨ add new Fields icon,https://github.com/apollographql/space-kit/pull/194,2020-06-22T15:25:30Z,2020-06-22T15:50:38Z,1,1,MERGED
+space-kit,Add xlarge icon size for list items,https://github.com/apollographql/space-kit/pull/193,2020-06-19T21:26:57Z,2020-06-19T21:54:46Z,1,1,CLOSED
+space-kit,Update AlertCard dark theme to use midnight tones,https://github.com/apollographql/space-kit/pull/192,2020-06-18T05:42:37Z,2020-06-18T16:09:09Z,1,2,MERGED
+space-kit,Replace old explorer icon with fields icon,https://github.com/apollographql/space-kit/pull/191,2020-06-18T01:12:23Z,2020-06-18T01:12:49Z,1,1,MERGED
+space-kit,Adds new Explorer icon,https://github.com/apollographql/space-kit/pull/190,2020-06-18T00:53:36Z,2020-06-18T01:07:24Z,3,1,MERGED
+space-kit,✨ add `placement` prop to `Tooltip`,https://github.com/apollographql/space-kit/pull/189,2020-06-17T19:21:57Z,2020-06-17T19:30:37Z,1,1,MERGED
+space-kit,add viewbox to sun/moon icons,https://github.com/apollographql/space-kit/pull/188,2020-06-17T17:53:41Z,2020-06-17T18:00:13Z,1,1,MERGED
+space-kit,add icons for light/dark toggle,https://github.com/apollographql/space-kit/pull/187,2020-06-17T14:51:53Z,2020-06-17T15:09:49Z,4,2,MERGED
+space-kit,AR-1658 Fix bug where `className` isn't passed through to `ListItem`,https://github.com/apollographql/space-kit/pull/186,2020-06-16T21:11:43Z,2020-06-16T21:20:37Z,1,2,MERGED
+space-kit,Adds keyboard control icon,https://github.com/apollographql/space-kit/pull/185,2020-06-11T18:02:52Z,2020-06-11T18:36:52Z,1,1,MERGED
+space-kit,Fix history icon,https://github.com/apollographql/space-kit/pull/184,2020-06-10T02:41:47Z,2020-06-10T16:07:21Z,1,1,MERGED
+space-kit,link npm badge to npm page in readme,https://github.com/apollographql/space-kit/pull/183,2020-06-09T14:27:53Z,2020-06-09T16:49:54Z,1,1,MERGED
+space-kit,AP-1658 Create `Popup` and `List` components,https://github.com/apollographql/space-kit/pull/182,2020-06-05T17:08:55Z,2020-06-16T20:31:03Z,7,22,MERGED
+space-kit,Add history and left/right/down/up double arrow icons,https://github.com/apollographql/space-kit/pull/181,2020-06-05T15:35:30Z,2020-06-05T15:45:54Z,1,1,MERGED
+space-kit,Add Midnight color palette to SpaceKit,https://github.com/apollographql/space-kit/pull/180,2020-06-04T21:31:54Z,2020-06-05T17:14:19Z,4,2,MERGED
+space-kit,AR-1689 Fix crashing chromatic builds,https://github.com/apollographql/space-kit/pull/179,2020-06-04T17:07:45Z,2020-06-04T17:29:42Z,3,1,MERGED
+space-kit,Add color configurability to `Menu`,https://github.com/apollographql/space-kit/pull/178,2020-06-03T21:05:31Z,2020-06-04T18:26:47Z,1,4,MERGED
+space-kit,Roll back: Remove extra top margin for TextField error,https://github.com/apollographql/space-kit/pull/254,2020-10-29T19:00:26Z,2020-10-29T19:11:55Z,0,1,CLOSED
+space-kit,CI: cache `~/.npm` to speed up `npm ci`,https://github.com/apollographql/space-kit/pull/253,2020-10-29T17:56:48Z,2021-01-26T17:14:15Z,1,3,MERGED
+space-kit,fix flakey test in `Popover`,https://github.com/apollographql/space-kit/pull/252,2020-10-29T16:59:50Z,2020-10-29T17:43:20Z,1,1,MERGED
+space-kit,Move `@emotion` to `peerDependencies`,https://github.com/apollographql/space-kit/pull/251,2020-10-29T14:32:05Z,2020-10-29T17:52:26Z,1,3,MERGED
+space-kit,fix icon button spacing,https://github.com/apollographql/space-kit/pull/250,2020-10-28T20:34:06Z,2020-10-28T20:47:02Z,1,4,MERGED
+space-kit,AR-1917: Icons: use overridable props for `fill` and `stroke`,https://github.com/apollographql/space-kit/pull/249,2020-10-27T19:30:37Z,2020-10-29T14:33:43Z,6,2,MERGED
+space-kit,Stop checking TypeScript in `rollup` script,https://github.com/apollographql/space-kit/pull/248,2020-10-27T19:27:35Z,2020-10-27T19:27:49Z,1,1,MERGED
+space-kit,"AR-1672, AR-1909 Add `tr` and column-level `th`/`td` customization to `Table`",https://github.com/apollographql/space-kit/pull/247,2020-10-21T18:08:48Z,2020-10-23T15:37:56Z,2,5,MERGED
+space-kit,Remove extra top margin for TextField error,https://github.com/apollographql/space-kit/pull/246,2020-10-20T20:42:38Z,2020-10-29T17:50:47Z,1,1,MERGED
+space-kit,"Update tippy, react, jest, and testing dependencies",https://github.com/apollographql/space-kit/pull/245,2020-10-16T18:07:57Z,2020-10-19T17:57:48Z,1,1,MERGED
+space-kit,Show focus on `Button` when interacting with keyboard,https://github.com/apollographql/space-kit/pull/244,2020-10-14T15:02:56Z,2020-10-19T18:14:38Z,4,5,MERGED
+space-kit,Create `Select` component,https://github.com/apollographql/space-kit/pull/243,2020-10-13T19:44:08Z,2020-10-28T19:18:07Z,7,3,MERGED
+space-kit,Fix: Set children wrapper to flex,https://github.com/apollographql/space-kit/pull/242,2020-10-01T20:58:00Z,2021-01-04T16:18:54Z,2,1,CLOSED
+space-kit,Add headset icon,https://github.com/apollographql/space-kit/pull/241,2020-10-01T16:18:49Z,2020-10-01T20:26:46Z,1,1,MERGED
+space-kit,Sort storybook stories,https://github.com/apollographql/space-kit/pull/240,2020-09-30T17:14:34Z,2020-09-30T17:23:51Z,1,1,MERGED
+space-kit,Add Pictograms,https://github.com/apollographql/space-kit/pull/239,2020-09-23T15:29:50Z,2020-09-24T17:56:40Z,4,15,MERGED
+space-kit,`AlertBanner`: wrap `children` in customizable `childrenContainerAs` element,https://github.com/apollographql/space-kit/pull/238,2020-09-18T17:35:41Z,2020-09-21T13:10:31Z,3,1,MERGED
+space-kit,Restore Color storybook story,https://github.com/apollographql/space-kit/pull/237,2020-09-15T18:49:48Z,2020-09-15T19:02:29Z,1,1,MERGED
+space-kit,Icon storybook - grid,https://github.com/apollographql/space-kit/pull/236,2020-09-11T20:26:04Z,2020-09-14T13:23:31Z,1,6,CLOSED
+space-kit,AR-1850 FTD-35 Upgrade `Icon` docspage and storybook stories,https://github.com/apollographql/space-kit/pull/235,2020-09-11T18:59:46Z,2020-09-14T14:01:56Z,3,1,MERGED
+space-kit,AR-1848 Add CI check for icons that will generate the same filename,https://github.com/apollographql/space-kit/pull/234,2020-09-11T16:49:43Z,2020-09-14T13:19:53Z,4,2,MERGED
+space-kit,Fix icon alignment in storybook,https://github.com/apollographql/space-kit/pull/232,2020-09-10T23:29:00Z,2020-09-12T00:27:33Z,1,3,CLOSED
+space-kit,"Add new icons (Clipboard, Codeblock, Sync, Table)",https://github.com/apollographql/space-kit/pull/231,2020-09-10T23:06:47Z,2020-09-11T15:04:47Z,1,4,MERGED
+space-kit,Sort types in `AbstractTooltip`,https://github.com/apollographql/space-kit/pull/230,2020-09-10T19:40:51Z,2020-09-10T19:41:07Z,1,1,MERGED
+space-kit,WIP: Fixing releases,https://github.com/apollographql/space-kit/pull/229,2020-09-10T18:43:25Z,2020-09-10T19:13:56Z,1,1,MERGED
+space-kit,Update SSH key to try to fix automatic releases,https://github.com/apollographql/space-kit/pull/228,2020-09-10T18:07:15Z,2020-09-10T18:07:44Z,1,1,MERGED
+space-kit,Test automatic releases,https://github.com/apollographql/space-kit/pull/227,2020-09-09T20:42:10Z,2020-09-09T21:06:05Z,1,1,MERGED
+space-kit,Try to fix releases,https://github.com/apollographql/space-kit/pull/226,2020-09-09T20:09:16Z,2020-09-09T20:30:24Z,2,5,MERGED
+space-kit,Upgrade eslint and TypeScript dependencies,https://github.com/apollographql/space-kit/pull/225,2020-09-09T19:19:22Z,2020-09-11T17:21:06Z,1,12,MERGED
+space-kit,adds icon-break to essentials category,https://github.com/apollographql/space-kit/pull/224,2020-09-08T19:37:44Z,2020-09-08T21:37:44Z,2,2,MERGED
+space-kit,Add changelog icon,https://github.com/apollographql/space-kit/pull/222,2020-09-03T17:26:29Z,2020-09-03T17:50:08Z,1,1,MERGED
+space-kit,Bump version to: 7.11.1,https://github.com/apollographql/space-kit/pull/221,2020-09-02T14:26:40Z,2020-09-02T14:55:35Z,1,1,MERGED
+space-kit,Add relative to label so VisuallyHidden is inside instead of under it,https://github.com/apollographql/space-kit/pull/220,2020-09-01T21:12:08Z,2020-09-01T21:17:20Z,1,1,MERGED
+space-kit,Fix Card bottom margin with falsey children,https://github.com/apollographql/space-kit/pull/218,2020-08-19T07:10:59Z,2020-08-19T21:41:10Z,2,3,MERGED
+space-kit,AR-1818 Modal: Make `as` prop propogate `ref`,https://github.com/apollographql/space-kit/pull/217,2020-08-14T18:39:09Z,2020-08-20T18:55:05Z,3,1,MERGED
+space-kit,Update tests to wrap `act` calls and modernize `Button` tests,https://github.com/apollographql/space-kit/pull/215,2020-08-12T21:36:09Z,2020-08-13T15:30:57Z,1,2,MERGED
+space-kit,Upgrade storybook to v6,https://github.com/apollographql/space-kit/pull/214,2020-08-04T20:42:13Z,2020-08-05T15:17:20Z,1,4,MERGED
+space-kit,Card: don't apply margin without a header,https://github.com/apollographql/space-kit/pull/291,2020-12-16T17:24:40Z,2020-12-16T21:29:16Z,1,1,MERGED
+space-kit,Tweak `Select` and sync input heights,https://github.com/apollographql/space-kit/pull/290,2020-12-16T16:37:43Z,2020-12-16T16:42:40Z,1,2,MERGED
+space-kit,Create `FormControl` component,https://github.com/apollographql/space-kit/pull/287,2020-12-10T17:47:52Z,2021-01-05T22:42:54Z,7,7,MERGED
+space-kit,Update GitHub icon,https://github.com/apollographql/space-kit/pull/286,2020-12-10T02:06:30Z,2020-12-10T14:16:53Z,3,2,MERGED
+space-kit,add trailing commas for all transpiled code,https://github.com/apollographql/space-kit/pull/285,2020-12-09T19:29:26Z,2020-12-09T19:43:54Z,1,1,MERGED
+space-kit,Dont warn whenever using controlled version of component,https://github.com/apollographql/space-kit/pull/284,2020-12-08T22:53:22Z,2020-12-09T17:26:16Z,1,2,MERGED
+space-kit,"Add custom rendering, edge-to-edge option, and optional checkboxes to `Select`",https://github.com/apollographql/space-kit/pull/283,2020-12-08T22:36:54Z,2021-01-08T16:57:29Z,0,3,CLOSED
+space-kit,docs(Select): Add a write-up on how to add label props,https://github.com/apollographql/space-kit/pull/282,2020-12-08T21:29:50Z,2020-12-08T21:39:23Z,1,1,MERGED
+space-kit,Fix controlled/uncontrolled switch,https://github.com/apollographql/space-kit/pull/281,2020-12-08T19:03:02Z,2020-12-08T23:39:44Z,1,3,MERGED
+space-kit,Add opensource icon,https://github.com/apollographql/space-kit/pull/280,2020-12-03T16:54:05Z,2020-12-03T18:21:40Z,1,1,MERGED
+space-kit,Fix events fired by `Select`,https://github.com/apollographql/space-kit/pull/279,2020-11-24T19:39:46Z,2020-12-07T14:42:33Z,5,12,MERGED
+space-kit,fix(Popover): Fix resizing of `Popover`,https://github.com/apollographql/space-kit/pull/278,2020-11-23T17:34:16Z,2020-11-24T16:38:57Z,1,1,MERGED
+space-kit,Add test for dynamically resizing content,https://github.com/apollographql/space-kit/pull/277,2020-11-23T10:04:17Z,2020-11-24T03:31:46Z,1,1,CLOSED
+space-kit,Button: Remove min-width,https://github.com/apollographql/space-kit/pull/274,2020-11-16T19:26:30Z,2021-04-08T17:26:27Z,3,2,CLOSED
+space-kit,fix(`Select`): include `currentTarget.value` in change event,https://github.com/apollographql/space-kit/pull/273,2020-11-12T16:21:42Z,2020-11-12T16:34:15Z,1,1,MERGED
+space-kit,Use Space Kit `Button` for `AlertCard` close button,https://github.com/apollographql/space-kit/pull/272,2020-11-12T15:46:43Z,2020-11-12T16:33:32Z,1,1,MERGED
+space-kit,Update buttons for dark mode and use button for AlertCard `x`,https://github.com/apollographql/space-kit/pull/271,2020-11-10T19:58:42Z,2021-04-08T17:26:15Z,0,4,CLOSED
+space-kit,Add support for React 17,https://github.com/apollographql/space-kit/pull/270,2020-11-10T17:28:46Z,2020-11-12T15:45:14Z,3,2,MERGED
+space-kit,update `watch` script configuration to watch pictograms,https://github.com/apollographql/space-kit/pull/269,2020-11-10T17:14:57Z,2020-11-10T17:15:13Z,1,1,MERGED
+space-kit,Upgrade eslint and TypeScript packages,https://github.com/apollographql/space-kit/pull/258,2020-11-09T15:57:04Z,2020-11-09T16:01:17Z,1,2,MERGED
+space-kit,Button: Add 4 more pixels of padding to the right of icons,https://github.com/apollographql/space-kit/pull/257,2020-11-06T19:53:39Z,2020-11-16T19:24:15Z,2,1,MERGED
+space-kit,Add `as` prop to `AlertCard`,https://github.com/apollographql/space-kit/pull/256,2020-11-06T17:20:49Z,2020-11-06T19:40:58Z,1,1,MERGED
+space-kit,AR-1935 Reset `Button` css outline,https://github.com/apollographql/space-kit/pull/255,2020-11-06T15:21:49Z,2020-11-06T15:31:04Z,1,1,MERGED
+space-kit,Pass maxWidth to Popover in Select,https://github.com/apollographql/space-kit/pull/334,2021-03-23T20:06:40Z,2021-03-23T20:22:52Z,1,1,MERGED
+space-kit,AR-2162 Add `as` prop to `Table` component,https://github.com/apollographql/space-kit/pull/333,2021-03-16T20:22:38Z,2021-03-16T20:49:16Z,1,1,MERGED
+space-kit,add className prop on Table,https://github.com/apollographql/space-kit/pull/332,2021-03-16T00:04:05Z,2021-03-16T21:32:27Z,0,3,CLOSED
+space-kit,AR-2148 Fix repeated rendering of global styles for tooltip-like components,https://github.com/apollographql/space-kit/pull/330,2021-03-10T15:53:33Z,2021-03-10T16:53:05Z,1,3,MERGED
+space-kit,remove debugging in Button test,https://github.com/apollographql/space-kit/pull/329,2021-03-10T15:49:13Z,2021-03-10T15:49:37Z,1,1,MERGED
+space-kit,Add guide for icon development,https://github.com/apollographql/space-kit/pull/328,2021-03-05T23:18:32Z,2021-03-08T23:43:55Z,6,3,MERGED
+space-kit,AR-2135 Fix `Select` closing when interactive children receive focus,https://github.com/apollographql/space-kit/pull/327,2021-03-05T20:38:54Z,2021-03-08T16:11:56Z,1,2,MERGED
+space-kit,Expose color prop for elect trigger,https://github.com/apollographql/space-kit/pull/326,2021-03-05T03:03:04Z,2021-03-17T20:31:47Z,3,3,MERGED
+space-kit,AR-2129 Allow all form control children to be removed on subsequent renders,https://github.com/apollographql/space-kit/pull/325,2021-03-02T18:56:24Z,2021-03-02T21:35:25Z,1,2,MERGED
+space-kit,AR-2127 fix `FormErrorMessage` not being removed when errors disappear,https://github.com/apollographql/space-kit/pull/324,2021-03-01T20:16:09Z,2021-03-01T20:40:39Z,1,5,MERGED
+space-kit,Add feature intro to git ignore,https://github.com/apollographql/space-kit/pull/323,2021-02-25T19:39:20Z,2021-02-25T20:03:00Z,1,1,CLOSED
+space-kit,fix docs referencing non-existent `FormElement`,https://github.com/apollographql/space-kit/pull/322,2021-02-25T17:32:00Z,2021-02-25T17:54:11Z,1,1,MERGED
+space-kit,add `FeatureIntro*` built folders to `.gitignore`,https://github.com/apollographql/space-kit/pull/321,2021-02-25T16:52:41Z,2021-02-25T16:52:54Z,1,1,MERGED
+space-kit,AR-2118 add prestorybook script to build all svgs to tsx,https://github.com/apollographql/space-kit/pull/320,2021-02-25T16:47:12Z,2021-02-25T16:55:21Z,3,1,MERGED
+space-kit,"Add missing icons (Person, Team, Error outline version)",https://github.com/apollographql/space-kit/pull/319,2021-02-25T01:23:51Z,2021-02-25T18:56:56Z,3,5,MERGED
+space-kit,FeatureIntro: add padding to increase click target,https://github.com/apollographql/space-kit/pull/316,2021-02-17T01:11:53Z,2021-02-17T18:01:23Z,2,1,MERGED
+space-kit,Pass `disabled` prop from options to downshift in `Select`,https://github.com/apollographql/space-kit/pull/315,2021-02-16T21:15:16Z,2021-02-16T21:23:48Z,1,1,MERGED
+space-kit,Remove `publishishOnly` only script and run `build` in `prepare`,https://github.com/apollographql/space-kit/pull/314,2021-02-11T23:16:52Z,2021-02-22T15:25:16Z,1,2,MERGED
+space-kit,Add Odyssey icon,https://github.com/apollographql/space-kit/pull/313,2021-02-11T15:46:34Z,2021-02-11T17:26:24Z,1,3,MERGED
+space-kit,AR-2064 Resolve issue where `ListDivider` overflows container,https://github.com/apollographql/space-kit/pull/312,2021-02-11T15:15:02Z,2021-02-11T17:49:40Z,2,1,MERGED
+space-kit,Upgrade storybook to `^6.1.17`,https://github.com/apollographql/space-kit/pull/311,2021-02-11T14:14:46Z,2021-02-11T14:30:46Z,1,1,MERGED
+space-kit,[minor] Feature Intro Component,https://github.com/apollographql/space-kit/pull/310,2021-02-09T01:45:13Z,2021-02-15T23:11:21Z,17,3,MERGED
+space-kit,Tweak modal page background color,https://github.com/apollographql/space-kit/pull/309,2021-02-08T20:52:02Z,2021-02-08T20:55:55Z,1,1,MERGED
+space-kit,fix(Modal): Fix repeating animations with custom components,https://github.com/apollographql/space-kit/pull/308,2021-02-03T18:18:32Z,2021-02-03T19:51:10Z,2,1,MERGED
+space-kit,Add support for custom `as` components in modals,https://github.com/apollographql/space-kit/pull/306,2021-01-29T19:15:31Z,2021-01-29T19:39:44Z,1,3,MERGED
+space-kit,add `DebugTooltip` to select story,https://github.com/apollographql/space-kit/pull/305,2021-01-26T20:23:10Z,2021-01-27T15:36:11Z,1,5,MERGED
+space-kit,add size debugging to tooltip stories,https://github.com/apollographql/space-kit/pull/304,2021-01-26T20:05:48Z,2021-01-26T20:08:03Z,1,1,MERGED
+space-kit,add more to tooltip debugging,https://github.com/apollographql/space-kit/pull/303,2021-01-26T18:02:44Z,2021-01-26T18:03:00Z,1,1,MERGED
+space-kit,"Try to remove post-animation pixel shift in Tooltip, ConfirmationTooltip, and Menu stories",https://github.com/apollographql/space-kit/pull/302,2021-01-25T20:41:13Z,2021-01-25T20:46:20Z,1,1,MERGED
+space-kit,Finally fix Tooltip pixel shifting,https://github.com/apollographql/space-kit/pull/301,2021-01-25T20:24:31Z,2021-01-25T20:29:51Z,2,1,MERGED
+space-kit,AP-1948 Add `renderListItem` prop to `Select`,https://github.com/apollographql/space-kit/pull/300,2021-01-22T14:21:23Z,2021-01-26T22:35:08Z,4,1,MERGED
+space-kit,"CI: show only lint errors, not warnings, when Ci fails for linting er…",https://github.com/apollographql/space-kit/pull/299,2021-01-21T19:34:41Z,2021-01-21T20:23:33Z,1,1,MERGED
+space-kit,AR-2016 Allow `Tooltip` to wrap a `Button` that is `disabled`,https://github.com/apollographql/space-kit/pull/298,2021-01-21T17:45:10Z,2021-01-27T15:56:54Z,3,2,MERGED
+space-kit,AR-1993 Replace `Select` custom blue highlighting with silver,https://github.com/apollographql/space-kit/pull/297,2021-01-19T22:29:17Z,2021-01-22T14:22:59Z,1,2,MERGED
+space-kit,Input component forward ref to HTML input element,https://github.com/apollographql/space-kit/pull/296,2021-01-11T20:17:17Z,2021-01-11T20:29:51Z,1,1,MERGED
+space-kit,Tighten up card drop shadow,https://github.com/apollographql/space-kit/pull/295,2021-01-08T01:06:25Z,2021-01-08T14:10:24Z,1,3,MERGED
+space-kit,Add GraphQL icon,https://github.com/apollographql/space-kit/pull/294,2021-01-08T00:48:14Z,2021-01-08T14:04:04Z,1,1,MERGED
+space-kit,Enhance `Select`,https://github.com/apollographql/space-kit/pull/293,2021-01-07T17:38:53Z,2021-01-08T20:08:24Z,1,9,MERGED
+space-kit,Only remove ConfirmationTooltip timeout when unmounting,https://github.com/apollographql/space-kit/pull/348,2021-05-20T09:12:35Z,2021-05-21T19:20:41Z,1,1,MERGED
+space-kit,Use onMouseDown instead of onClick for auto closing modals,https://github.com/apollographql/space-kit/pull/342,2021-04-22T13:37:12Z,2021-04-23T20:48:37Z,2,3,MERGED
+space-kit,update peer dependencies versions,https://github.com/apollographql/space-kit/pull/340,2021-04-16T00:30:42Z,2021-04-19T13:08:51Z,3,1,MERGED
+space-kit,Add streamline megaphone icon,https://github.com/apollographql/space-kit/pull/339,2021-04-15T09:07:38Z,2021-04-15T14:42:36Z,1,1,MERGED
+space-kit,make dismissable optional:,https://github.com/apollographql/space-kit/pull/361,2021-06-15T20:19:05Z,2021-06-15T20:23:17Z,1,1,MERGED
+space-kit,make alert card x optional,https://github.com/apollographql/space-kit/pull/360,2021-06-15T19:59:22Z,2021-06-15T20:09:49Z,2,2,MERGED
+space-kit,Fix Popover component not being able to render >800 times without taking a dump on the main thread,https://github.com/apollographql/space-kit/pull/357,2021-06-11T06:17:54Z,2021-06-11T15:48:00Z,4,1,MERGED
+space-kit,Add icon for Sandbox,https://github.com/apollographql/space-kit/pull/356,2021-06-08T00:12:45Z,2021-06-08T00:44:44Z,1,1,MERGED
+space-kit,Add warning circle icon,https://github.com/apollographql/space-kit/pull/354,2021-06-07T17:24:47Z,2021-06-08T18:04:31Z,1,1,CLOSED
+space-kit,Add solid time icon,https://github.com/apollographql/space-kit/pull/353,2021-06-02T20:51:58Z,2021-06-02T21:19:01Z,5,2,MERGED
+space-kit,Update themed components to respect theme from `SpaceKitProvider`,https://github.com/apollographql/space-kit/pull/352,2021-06-02T04:43:37Z,2021-06-02T23:19:10Z,4,10,MERGED
+space-kit,"Enable versionBranches, document backport releases",https://github.com/apollographql/space-kit/pull/351,2021-06-02T00:08:31Z,2021-06-02T00:10:49Z,1,2,MERGED
+space-kit,Backport of PR #340 update peer dependencies versions,https://github.com/apollographql/space-kit/pull/350,2021-06-01T23:49:41Z,2021-06-01T23:51:55Z,0,1,MERGED
+space-kit,Source code icon,https://github.com/apollographql/space-kit/pull/380,2021-10-25T22:08:08Z,2021-10-25T22:15:00Z,2,1,MERGED
+space-kit,Update tooltips to support controlled visibility,https://github.com/apollographql/space-kit/pull/379,2021-09-22T13:58:03Z,2021-09-22T14:10:00Z,1,1,MERGED
+space-kit,Add a red asterisk to required FormLabels,https://github.com/apollographql/space-kit/pull/377,2021-09-15T19:09:34Z,2021-09-15T19:13:24Z,2,1,MERGED
+space-kit,Modal: add xlarge size,https://github.com/apollographql/space-kit/pull/376,2021-09-10T19:59:15Z,2021-09-10T20:35:34Z,1,1,MERGED
+space-kit,allow ConfirmationTooltip to have an initial tip,https://github.com/apollographql/space-kit/pull/375,2021-08-30T16:42:40Z,2021-08-30T17:20:54Z,3,1,CLOSED
+space-kit,modal - should be no title OR description on top margin,https://github.com/apollographql/space-kit/pull/374,2021-08-24T21:17:26Z,2021-08-24T21:52:18Z,2,1,MERGED
+space-kit,"Modal: no title, no description dont render extra margin-top",https://github.com/apollographql/space-kit/pull/373,2021-08-23T20:51:17Z,2021-08-24T14:57:33Z,3,1,MERGED
+space-kit,Fix border color in dark mode for AlertCard,https://github.com/apollographql/space-kit/pull/372,2021-08-16T04:30:11Z,2021-08-16T16:36:19Z,1,2,MERGED
+space-kit,Handle no table header specified case,https://github.com/apollographql/space-kit/pull/371,2021-08-13T18:32:40Z,2021-08-13T18:49:51Z,1,1,MERGED
+space-kit,Add dark theming to Card & Table components,https://github.com/apollographql/space-kit/pull/370,2021-08-13T01:44:05Z,2021-08-13T17:34:31Z,2,4,MERGED
+space-kit,Pass through `className` on `option` element as child of select,https://github.com/apollographql/space-kit/pull/381,2021-11-04T15:47:55Z,2021-11-04T19:45:57Z,2,3,MERGED
+space-kit,Add deprecated message to readme,https://github.com/apollographql/space-kit/pull/385,2022-01-19T14:14:21Z,2022-01-19T16:34:42Z,1,1,MERGED
