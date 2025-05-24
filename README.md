@@ -9,7 +9,7 @@ Our main source code is located in 'vrt_comment' directory.
 Please execute the following description
 
 Analytics data
-1. You need to obtain GitHub tokens
+1. You can run it with the following commands:
 ```
 python3 calculate-data.py
 ```
