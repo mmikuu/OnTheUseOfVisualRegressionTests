@@ -1,0 +1,17 @@
+Statistic,Count
+"Total Unique PR Numbers (All States, (Repo,PR#) unique)",283
+Total Unique Projects (Repositories),98
+"Total Unique PR Numbers (merge and closed, Sum of per-repo uniques)",276
+Total Projects with Merged OR Closed PRs,94
+--- Merged PRs ---,---
+Total Projects with Merged PRs,86
+Total Unique Merged PRs (Sum of per-repo uniques),253
+Total Comments on Merged PRs (Input Rows),308
+--- Closed PRs (Not Merged) ---,---
+Total Projects with Closed PRs,19
+Total Unique Closed PRs (Sum of per-repo uniques),23
+Total Comments on Closed PRs (Input Rows),27
+--- Open PRs ---,---
+Total Projects with Open PRs,6
+Total Unique Open PRs (Sum of per-repo uniques),7
+Total Comments on Open PRs (Input Rows),11
