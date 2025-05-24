@@ -1,0 +1,37 @@
+Metric,Statistic,VRT Used,VRT Not Used
+Time to Merge (hours),mean,288.79227711901626,140.77843434343433
+Time to Merge (hours),median,114.53277777777778,27.8425
+Time to Merge (hours),std,514.7754042427955,338.313450736426
+Time to Merge (hours),min,0.05694444444444444,0.014722222222222222
+Time to Merge (hours),max,4157.811388888889,3138.465833333333
+Time to Merge (hours),count,253.0,253.0
+Added Lines,mean,1146.2608695652175,883.7707509881423
+Added Lines,median,145.0,30.0
+Added Lines,std,9488.553102935799,7064.44467444876
+Added Lines,min,0.0,0.0
+Added Lines,max,140357.0,103362.0
+Added Lines,count,253.0,253.0
+Deleted Lines,mean,651.1581027667984,506.4861660079051
+Deleted Lines,median,40.0,10.0
+Deleted Lines,std,4692.70059218785,2683.2168262207606
+Deleted Lines,min,0.0,0.0
+Deleted Lines,max,63433.0,25035.0
+Deleted Lines,count,253.0,253.0
+Total Comments,mean,16.16600790513834,3.66403162055336
+Total Comments,median,10.0,2.0
+Total Comments,std,17.303434339815844,6.45695229097173
+Total Comments,min,1.0,0.0
+Total Comments,max,91.0,58.0
+Total Comments,count,253.0,253.0
+Total Commits,mean,12.067193675889328,5.624505928853755
+Total Commits,median,7.0,2.0
+Total Commits,std,15.022979449421399,10.14289337246737
+Total Commits,min,1.0,1.0
+Total Commits,max,100.0,80.0
+Total Commits,count,253.0,253.0
+Changed Files,mean,14.201581027667984,10.66798418972332
+Changed Files,median,7.0,3.0
+Changed Files,std,21.919832232694663,29.074078256686658
+Changed Files,min,1.0,1.0
+Changed Files,max,150.0,273.0
+Changed Files,count,253.0,253.0

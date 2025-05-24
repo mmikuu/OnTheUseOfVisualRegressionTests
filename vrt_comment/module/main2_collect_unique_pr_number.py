@@ -8,7 +8,7 @@ output_file_path_merged = "../../data/unique-vrt-comments-merged.csv"
 output_file_path_closed = "../../data/unique-vrt-comments-closed.csv"
 output_file_path_open = "../../data/unique-vrt-comments-open.csv"
 
-comment_output_file = "../../data/calculate-pr.csv"
+comment_output_file = "../../results/analytics/calculate-pr.csv"
 
 
 merged_repo_comment_prs = collections.defaultdict(list)
