@@ -1,0 +1,895 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+component-library,Select 508 enchancement,https://github.com/department-of-veterans-affairs/component-library/pull/25,2021-01-29T16:08:39Z,2021-02-03T20:19:32Z,3,5,MERGED
+component-library,Remove non-helpful done criteria,https://github.com/department-of-veterans-affairs/component-library/pull/24,2021-01-26T23:07:11Z,2021-01-26T23:10:01Z,0,1,MERGED
+component-library,Link to issue template & fix storybook section,https://github.com/department-of-veterans-affairs/component-library/pull/23,2021-01-26T22:54:09Z,2021-01-26T23:15:23Z,0,1,MERGED
+component-library,Fix LoadingIndicator a11y error,https://github.com/department-of-veterans-affairs/component-library/pull/18,2021-01-22T17:40:18Z,2021-02-15T19:39:22Z,1,1,CLOSED
+component-library,Call out designer docs instead of usage docs,https://github.com/department-of-veterans-affairs/component-library/pull/9,2021-01-13T21:17:07Z,2021-01-18T17:55:23Z,0,3,MERGED
+component-library,Fix accordion after staging review,https://github.com/department-of-veterans-affairs/component-library/pull/50,2021-02-25T23:26:42Z,2021-03-01T17:49:41Z,6,6,MERGED
+component-library,Add testing to CI processes,https://github.com/department-of-veterans-affairs/component-library/pull/44,2021-02-19T15:36:38Z,2021-02-19T16:44:06Z,3,9,MERGED
+component-library,Add an axeCheck helper & use it,https://github.com/department-of-veterans-affairs/component-library/pull/43,2021-02-19T02:17:47Z,2021-02-22T20:53:49Z,4,11,MERGED
+component-library,Remove moment,https://github.com/department-of-veterans-affairs/component-library/pull/39,2021-02-16T00:53:30Z,2021-12-13T23:04:59Z,13,28,MERGED
+component-library,Add mocha to eslint,https://github.com/department-of-veterans-affairs/component-library/pull/38,2021-02-15T19:04:32Z,2021-02-15T19:59:09Z,1,4,MERGED
+component-library,Add year value to fix storybook error,https://github.com/department-of-veterans-affairs/component-library/pull/37,2021-02-12T22:51:37Z,2021-02-15T19:34:44Z,2,2,MERGED
+component-library,Add error class to Date fieldset,https://github.com/department-of-veterans-affairs/component-library/pull/34,2021-02-11T22:12:34Z,2021-02-12T17:25:26Z,0,1,MERGED
+component-library,Update date display & storybook args for banner,https://github.com/department-of-veterans-affairs/component-library/pull/33,2021-02-10T20:51:33Z,2021-02-12T21:21:57Z,5,6,MERGED
+component-library,Add ESLint and Prettier,https://github.com/department-of-veterans-affairs/component-library/pull/32,2021-02-09T17:30:09Z,2021-02-10T18:16:27Z,7,5,MERGED
+component-library,Add accordion web component to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/31,2021-02-05T23:04:38Z,2021-03-10T19:42:01Z,8,33,MERGED
+component-library,Add Accordion Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/30,2021-02-04T22:20:23Z,2021-02-18T23:41:16Z,28,43,MERGED
+component-library,Add a storybook+stencil setup,https://github.com/department-of-veterans-affairs/component-library/pull/29,2021-02-04T19:18:45Z,2021-02-04T19:34:46Z,0,2,MERGED
+component-library,Show out of range year error messages,https://github.com/department-of-veterans-affairs/component-library/pull/26,2021-02-01T19:31:54Z,2021-02-02T16:53:50Z,2,3,MERGED
+component-library,refactor: use react-focus-on to manage focus trap for modals,https://github.com/department-of-veterans-affairs/component-library/pull/66,2021-03-22T15:14:40Z,2021-03-23T17:13:17Z,9,2,MERGED
+component-library,"Add ""On this page"" component",https://github.com/department-of-veterans-affairs/component-library/pull/59,2021-03-15T21:42:55Z,2021-04-02T19:17:32Z,4,28,MERGED
+component-library,Apply same CSS fix to :hover state,https://github.com/department-of-veterans-affairs/component-library/pull/58,2021-03-13T00:06:33Z,2021-03-13T00:22:00Z,0,2,MERGED
+component-library,Telephone doc fixes,https://github.com/department-of-veterans-affairs/component-library/pull/55,2021-03-09T17:51:29Z,2021-03-10T14:43:45Z,4,5,MERGED
+component-library,Add full month names to date select,https://github.com/department-of-veterans-affairs/component-library/pull/54,2021-03-09T15:48:51Z,2021-03-09T19:49:04Z,1,2,MERGED
+component-library,Build for es5 by default & fix IE issues,https://github.com/department-of-veterans-affairs/component-library/pull/53,2021-03-05T18:09:31Z,2021-03-09T17:17:49Z,1,9,MERGED
+component-library,Add action link story,https://github.com/department-of-veterans-affairs/component-library/pull/51,2021-03-03T00:07:35Z,2021-03-04T23:52:03Z,1,5,MERGED
+component-library,Update web-components dependency,https://github.com/department-of-veterans-affairs/component-library/pull/83,2021-04-28T19:22:27Z,2021-04-28T19:37:03Z,0,1,MERGED
+component-library,Fix the spacing around the subheader,https://github.com/department-of-veterans-affairs/component-library/pull/82,2021-04-28T18:44:30Z,2021-04-28T19:09:21Z,1,2,MERGED
+component-library,update action link classes,https://github.com/department-of-veterans-affairs/component-library/pull/77,2021-04-14T20:35:03Z,2021-04-14T21:00:48Z,0,1,MERGED
+component-library,add optional accordion subheader to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/75,2021-04-12T14:51:31Z,2021-04-13T14:29:36Z,0,1,MERGED
+component-library,Add an alert component,https://github.com/department-of-veterans-affairs/component-library/pull/74,2021-04-07T22:34:36Z,2021-04-30T16:19:24Z,24,44,MERGED
+component-library,Add optional accordion subheading,https://github.com/department-of-veterans-affairs/component-library/pull/73,2021-04-05T20:13:19Z,2021-04-09T16:44:16Z,3,5,MERGED
+component-library,Add white action link to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/71,2021-04-01T18:01:34Z,2021-04-05T20:42:46Z,1,3,MERGED
+component-library,Remove the Template pattern,https://github.com/department-of-veterans-affairs/component-library/pull/98,2021-05-17T17:54:49Z,2021-05-17T19:08:07Z,0,1,MERGED
+component-library,feat(TextInput): Add new ariaDescribedBy prop,https://github.com/department-of-veterans-affairs/component-library/pull/96,2021-05-13T21:07:17Z,2021-05-20T17:06:51Z,4,7,MERGED
+component-library,Accordion color fix,https://github.com/department-of-veterans-affairs/component-library/pull/94,2021-05-13T17:49:01Z,2021-05-13T18:26:41Z,0,4,MERGED
+component-library,Remove designer documentation & add stories,https://github.com/department-of-veterans-affairs/component-library/pull/93,2021-05-11T23:00:44Z,2021-05-11T23:24:55Z,1,1,MERGED
+component-library,Add crisis line modal story,https://github.com/department-of-veterans-affairs/component-library/pull/90,2021-05-10T23:17:55Z,2021-05-10T23:46:55Z,6,3,MERGED
+component-library,Wrap sidenav in a story so we can use the iframe,https://github.com/department-of-veterans-affairs/component-library/pull/89,2021-05-07T18:48:16Z,2021-05-07T20:55:07Z,2,4,MERGED
+component-library,Issue with RadioButtons tests on vets-website,https://github.com/department-of-veterans-affairs/component-library/pull/88,2021-05-07T03:11:57Z,2021-05-07T17:42:32Z,0,1,MERGED
+component-library,Make the address block a story,https://github.com/department-of-veterans-affairs/component-library/pull/86,2021-05-05T20:30:27Z,2021-05-06T21:26:47Z,0,1,MERGED
+component-library,Split the action links up into stories,https://github.com/department-of-veterans-affairs/component-library/pull/85,2021-05-05T19:51:45Z,2021-05-07T18:47:42Z,0,4,MERGED
+component-library,Add Pagination web component,https://github.com/department-of-veterans-affairs/component-library/pull/84,2021-05-05T13:07:53Z,2022-02-11T13:34:11Z,13,7,CLOSED
+component-library,Checkbox wc cv,https://github.com/department-of-veterans-affairs/component-library/pull/113,2021-06-24T22:27:49Z,2021-06-25T15:50:41Z,6,21,MERGED
+component-library,Use light DOM font size for non-headline slot,https://github.com/department-of-veterans-affairs/component-library/pull/112,2021-06-24T18:09:05Z,2021-07-02T20:52:14Z,2,3,MERGED
+component-library,va-text-input stories,https://github.com/department-of-veterans-affairs/component-library/pull/111,2021-06-23T05:23:06Z,2021-06-25T21:15:25Z,1,6,MERGED
+component-library,Va text input cv,https://github.com/department-of-veterans-affairs/component-library/pull/108,2021-06-17T20:44:22Z,2021-06-17T23:27:55Z,8,26,MERGED
+component-library,Va alert box content,https://github.com/department-of-veterans-affairs/component-library/pull/107,2021-06-16T14:50:39Z,2021-06-21T13:21:03Z,4,8,MERGED
+component-library,Add aria-describedby to RadioButtons,https://github.com/department-of-veterans-affairs/component-library/pull/103,2021-06-03T16:29:44Z,2021-06-04T17:59:53Z,1,1,MERGED
+component-library,Add section heading to va-accordion web component,https://github.com/department-of-veterans-affairs/component-library/pull/129,2021-07-27T22:23:51Z,2021-09-08T01:35:50Z,2,8,MERGED
+component-library,Rename events in va-select,https://github.com/department-of-veterans-affairs/component-library/pull/126,2021-07-23T17:33:40Z,2021-07-23T23:36:48Z,0,1,MERGED
+component-library,Build during the prepare script,https://github.com/department-of-veterans-affairs/component-library/pull/121,2021-07-15T00:18:03Z,2021-07-15T00:25:14Z,1,1,MERGED
+component-library,va-checkbox stories,https://github.com/department-of-veterans-affairs/component-library/pull/116,2021-07-02T18:52:44Z,2021-07-02T21:28:57Z,1,2,MERGED
+component-library,Support new <Banner /> component,https://github.com/department-of-veterans-affairs/component-library/pull/147,2021-08-27T19:02:38Z,2021-09-02T15:35:22Z,14,10,MERGED
+component-library,wc-checkbox - add checked state to analytics,https://github.com/department-of-veterans-affairs/component-library/pull/133,2021-08-10T13:16:24Z,2021-09-03T18:12:15Z,0,3,MERGED
+component-library,Create react bindings,https://github.com/department-of-veterans-affairs/component-library/pull/131,2021-08-06T18:26:36Z,2021-08-16T17:26:58Z,11,12,MERGED
+component-library,Bring the icon in closer to the body,https://github.com/department-of-veterans-affairs/component-library/pull/189,2021-09-30T17:13:45Z,2021-09-30T18:49:25Z,1,2,MERGED
+component-library,Allow setting input type & inputmode attributes on va-text-input fields,https://github.com/department-of-veterans-affairs/component-library/pull/188,2021-09-29T21:50:54Z,2021-10-06T15:49:28Z,9,11,MERGED
+component-library,Fix Banner styling & close button,https://github.com/department-of-veterans-affairs/component-library/pull/187,2021-09-29T21:41:45Z,2021-09-30T21:25:24Z,3,11,MERGED
+component-library,Limit the body width to 1000px on full-width,https://github.com/department-of-veterans-affairs/component-library/pull/186,2021-09-29T15:36:48Z,2021-09-30T15:16:58Z,9,9,MERGED
+component-library,Add sidebar styles to va-accordion,https://github.com/department-of-veterans-affairs/component-library/pull/185,2021-09-27T19:22:05Z,2021-09-30T18:56:35Z,3,1,CLOSED
+component-library,Add full-width variant for `<va-alert>`,https://github.com/department-of-veterans-affairs/component-library/pull/181,2021-09-22T19:14:05Z,2021-09-23T18:15:11Z,6,4,MERGED
+component-library,Added an override for the aria label,https://github.com/department-of-veterans-affairs/component-library/pull/176,2021-09-21T15:49:34Z,2021-09-28T13:57:39Z,9,16,MERGED
+component-library,Create featured content web component,https://github.com/department-of-veterans-affairs/component-library/pull/173,2021-09-17T18:46:20Z,2021-09-27T22:10:33Z,3,31,MERGED
+component-library,Improve pagination accessibility,https://github.com/department-of-veterans-affairs/component-library/pull/172,2021-09-16T20:05:38Z,2021-09-23T11:43:24Z,1,5,MERGED
+component-library,Add back-to-top component to Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/171,2021-09-16T18:14:46Z,2021-10-08T00:54:08Z,1,16,MERGED
+component-library,Add third accordion item to Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/168,2021-09-14T16:04:28Z,2021-09-15T16:23:34Z,0,2,MERGED
+component-library,Create FeaturedContent component,https://github.com/department-of-veterans-affairs/component-library/pull/164,2021-09-13T16:11:30Z,2021-10-19T21:56:50Z,2,9,CLOSED
+component-library,Increase distance between stacked accordions,https://github.com/department-of-veterans-affairs/component-library/pull/154,2021-09-03T21:56:33Z,2021-10-28T22:26:01Z,21,58,CLOSED
+component-library,29551: Update error message placement for <Checkbox /> component,https://github.com/department-of-veterans-affairs/component-library/pull/153,2021-09-03T17:18:53Z,2021-09-03T17:23:50Z,1,3,MERGED
+component-library,Kelsonic 29069 banner refactor,https://github.com/department-of-veterans-affairs/component-library/pull/149,2021-09-02T18:32:54Z,2021-09-02T18:54:13Z,0,2,MERGED
+component-library,29551: Update error message placement for <Checkbox /> component,https://github.com/department-of-veterans-affairs/component-library/pull/148,2021-09-01T22:07:56Z,2021-09-03T16:19:29Z,8,292,CLOSED
+component-library,Increase accordion item margin,https://github.com/department-of-veterans-affairs/component-library/pull/208,2021-10-28T22:42:47Z,2021-11-11T00:25:35Z,0,5,MERGED
+component-library,Add loading indicator web component,https://github.com/department-of-veterans-affairs/component-library/pull/207,2021-10-27T23:25:54Z,2021-11-16T19:54:25Z,12,23,MERGED
+component-library,Add action for auto publishing packages,https://github.com/department-of-veterans-affairs/component-library/pull/204,2021-10-26T23:06:02Z,2021-10-29T16:55:04Z,5,10,MERGED
+component-library,"Integrate web-components branch, Pt. 3",https://github.com/department-of-veterans-affairs/component-library/pull/199,2021-10-20T00:42:11Z,2021-10-22T00:28:55Z,17,23,MERGED
+component-library,Update formation version for table styles,https://github.com/department-of-veterans-affairs/component-library/pull/194,2021-10-08T20:58:39Z,2021-10-12T16:56:46Z,0,1,MERGED
+component-library,ProgressButton a11y updates,https://github.com/department-of-veterans-affairs/component-library/pull/193,2021-10-01T21:21:56Z,2021-10-05T16:45:12Z,3,5,MERGED
+component-library,32763 storybook height issues gitignore update,https://github.com/department-of-veterans-affairs/component-library/pull/231,2021-11-30T16:58:46Z,2021-11-30T20:53:52Z,1,3,MERGED
+component-library,32860 Segmented Progress Bar Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/230,2021-11-30T13:53:28Z,2021-12-09T18:04:29Z,7,17,MERGED
+component-library,Add option to show icon in background-only alert for <va-alert>,https://github.com/department-of-veterans-affairs/component-library/pull/229,2021-11-29T16:29:15Z,2021-12-01T22:18:46Z,3,9,MERGED
+component-library,Auto-expand va-accordion-item with matching hash,https://github.com/department-of-veterans-affairs/component-library/pull/228,2021-11-24T22:32:15Z,2021-11-30T20:24:22Z,5,5,MERGED
+component-library,Add progress bar web component,https://github.com/department-of-veterans-affairs/component-library/pull/227,2021-11-24T17:48:46Z,2021-12-09T19:56:44Z,6,23,MERGED
+component-library,32229 accordion header api slot,https://github.com/department-of-veterans-affairs/component-library/pull/226,2021-11-23T16:26:42Z,2021-11-23T21:13:21Z,9,11,MERGED
+component-library,fix: update radio option name values,https://github.com/department-of-veterans-affairs/component-library/pull/225,2021-11-22T21:09:28Z,2021-11-23T14:59:47Z,0,1,MERGED
+component-library,fix: add missing enableAnalytics arg,https://github.com/department-of-veterans-affairs/component-library/pull/224,2021-11-19T15:58:40Z,2021-11-24T17:03:45Z,7,7,MERGED
+component-library,"Isolate host styling in ""Back to top""",https://github.com/department-of-veterans-affairs/component-library/pull/223,2021-11-17T21:58:02Z,2021-11-18T19:02:32Z,5,6,MERGED
+component-library,Add initial release notes config file,https://github.com/department-of-veterans-affairs/component-library/pull/222,2021-11-17T16:18:44Z,2021-11-17T17:20:46Z,0,1,MERGED
+component-library,Add additional info web component,https://github.com/department-of-veterans-affairs/component-library/pull/221,2021-11-12T00:10:54Z,2021-12-07T21:57:52Z,5,27,MERGED
+component-library,add space to featured content text,https://github.com/department-of-veterans-affairs/component-library/pull/220,2021-11-11T20:06:14Z,2021-11-12T21:48:02Z,0,3,MERGED
+component-library,Only export applyPolyfills from the loader,https://github.com/department-of-veterans-affairs/component-library/pull/218,2021-11-11T18:19:17Z,2021-11-11T20:18:36Z,0,3,MERGED
+component-library,Add story for va-featured-content,https://github.com/department-of-veterans-affairs/component-library/pull/217,2021-11-10T21:11:33Z,2021-11-10T23:48:50Z,1,2,MERGED
+component-library,split text prop in promo banner and add icon to last word in nowrap s…,https://github.com/department-of-veterans-affairs/component-library/pull/215,2021-11-05T20:25:18Z,2022-04-08T14:42:46Z,5,1,CLOSED
+component-library,Fix padding for background-only alert web component,https://github.com/department-of-veterans-affairs/component-library/pull/212,2021-11-04T12:14:24Z,2021-11-04T16:18:06Z,5,4,MERGED
+component-library,Build bindings for autopublish,https://github.com/department-of-veterans-affairs/component-library/pull/211,2021-11-03T15:18:22Z,2021-11-04T13:45:37Z,0,2,MERGED
+component-library,34126 Update Accordion Story Default Args,https://github.com/department-of-veterans-affairs/component-library/pull/255,2021-12-30T14:58:12Z,2022-01-04T14:10:47Z,1,2,MERGED
+component-library,Remove link buttons from design system,https://github.com/department-of-veterans-affairs/component-library/pull/253,2021-12-29T16:14:06Z,2022-01-04T16:46:21Z,1,2,MERGED
+component-library,Fix children overflowing parent container in va-accordion-item,https://github.com/department-of-veterans-affairs/component-library/pull/252,2021-12-28T21:42:45Z,2022-01-04T16:24:58Z,0,2,MERGED
+component-library,Add missing props and not visible story for va-alert in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/251,2021-12-28T17:40:11Z,2022-01-04T16:31:15Z,2,4,MERGED
+component-library,WIP: 33479 va accordion item e2e test,https://github.com/department-of-veterans-affairs/component-library/pull/246,2021-12-17T22:45:00Z,2023-10-09T21:49:26Z,3,10,CLOSED
+component-library,34239 Segmented Progress Bar WC Aria Label displays incorrect default text,https://github.com/department-of-veterans-affairs/component-library/pull/245,2021-12-16T01:22:58Z,2021-12-16T15:59:33Z,0,2,MERGED
+component-library,33252 getSlottedNodes Unit Tests,https://github.com/department-of-veterans-affairs/component-library/pull/244,2021-12-15T16:02:19Z,2022-01-06T19:30:19Z,5,16,MERGED
+component-library,Skip Flaky Test in va-accordion-item,https://github.com/department-of-veterans-affairs/component-library/pull/242,2021-12-08T21:50:56Z,2021-12-08T21:53:53Z,0,1,MERGED
+component-library,33479 va accordion item test,https://github.com/department-of-veterans-affairs/component-library/pull/241,2021-12-08T19:32:06Z,2021-12-08T21:46:01Z,0,3,CLOSED
+component-library,33479 Location hash matches the accordion id test fix,https://github.com/department-of-veterans-affairs/component-library/pull/240,2021-12-08T18:51:04Z,2021-12-08T19:01:34Z,0,1,MERGED
+component-library,Add va-breadcrumbs web component,https://github.com/department-of-veterans-affairs/component-library/pull/239,2021-12-08T15:22:56Z,2022-01-18T18:03:17Z,17,38,MERGED
+component-library,Increase minor version of core & web-components to 3.8,https://github.com/department-of-veterans-affairs/component-library/pull/237,2021-12-07T17:22:28Z,2021-12-07T17:25:55Z,0,1,MERGED
+component-library,33144 checkbox radio button spacing,https://github.com/department-of-veterans-affairs/component-library/pull/236,2021-12-07T14:09:09Z,2022-01-24T15:01:24Z,9,33,MERGED
+component-library,Update stories to use kebab case for props,https://github.com/department-of-veterans-affairs/component-library/pull/235,2021-12-03T22:43:18Z,2021-12-09T15:24:23Z,2,6,MERGED
+component-library,33177 checkbox group web component,https://github.com/department-of-veterans-affairs/component-library/pull/234,2021-12-02T19:38:50Z,2022-01-21T23:36:30Z,12,16,MERGED
+component-library,Add telephone Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/233,2021-12-01T22:18:59Z,2021-12-16T19:23:55Z,4,30,MERGED
+component-library,Add aria-labelledby to on-this-page web component,https://github.com/department-of-veterans-affairs/component-library/pull/232,2021-12-01T21:23:57Z,2021-12-02T14:53:11Z,1,4,MERGED
+component-library,601 Radio Option Unique Id Prop,https://github.com/department-of-veterans-affairs/component-library/pull/276,2022-01-28T17:35:23Z,2022-02-03T18:26:34Z,8,12,MERGED
+component-library,Add va-pagination component,https://github.com/department-of-veterans-affairs/component-library/pull/275,2022-01-28T16:39:56Z,2022-02-19T00:02:17Z,16,35,MERGED
+component-library,Require label on PRs,https://github.com/department-of-veterans-affairs/component-library/pull/274,2022-01-27T00:25:08Z,2022-01-27T19:38:50Z,1,1,MERGED
+component-library,34439 Remove date-fns dependency from component library,https://github.com/department-of-veterans-affairs/component-library/pull/272,2022-01-25T17:55:07Z,2022-01-28T13:12:05Z,2,6,MERGED
+component-library,Fix va-alert close event dispatch,https://github.com/department-of-veterans-affairs/component-library/pull/271,2022-01-24T20:57:24Z,2022-01-26T14:34:12Z,9,11,MERGED
+component-library,Add web component events documentation on Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/270,2022-01-22T03:45:33Z,2022-02-01T21:36:20Z,16,21,MERGED
+component-library,35373 Radio and Checkbox Styles Bump Version of New Formation Package,https://github.com/department-of-veterans-affairs/component-library/pull/269,2022-01-20T19:49:36Z,2022-01-20T21:39:10Z,0,1,MERGED
+component-library,Prevent text overflowing container in va-accordion-item,https://github.com/department-of-veterans-affairs/component-library/pull/268,2022-01-20T01:53:35Z,2022-01-20T16:27:58Z,1,2,MERGED
+component-library,Update va-accordion-item paragraphs to wrap,https://github.com/department-of-veterans-affairs/component-library/pull/267,2022-01-19T16:02:14Z,2022-01-19T23:21:21Z,0,2,MERGED
+component-library,Update story breadcrumb segments to sentence casing,https://github.com/department-of-veterans-affairs/component-library/pull/266,2022-01-19T02:43:51Z,2022-01-19T02:47:58Z,0,1,MERGED
+component-library,Add process list web component,https://github.com/department-of-veterans-affairs/component-library/pull/265,2022-01-17T23:58:38Z,2022-02-07T17:15:01Z,10,30,MERGED
+component-library,BREAKING CHANGE: removed REACT progress bar and segmented progress bar,https://github.com/department-of-veterans-affairs/component-library/pull/263,2022-01-13T21:28:11Z,2022-01-14T15:34:43Z,1,2,MERGED
+component-library,Add prop for res burden feature name,https://github.com/department-of-veterans-affairs/component-library/pull/262,2022-01-10T15:41:34Z,2022-01-13T16:38:37Z,4,10,MERGED
+component-library,Update Modal aria-label close button,https://github.com/department-of-veterans-affairs/component-library/pull/261,2022-01-07T23:52:21Z,2022-01-11T14:59:14Z,1,5,MERGED
+component-library,34419 Remove Lodash and convert to Native JS,https://github.com/department-of-veterans-affairs/component-library/pull/260,2022-01-07T19:22:11Z,2022-01-17T19:56:01Z,9,17,MERGED
+component-library,Update OMBInfo property description,https://github.com/department-of-veterans-affairs/component-library/pull/259,2022-01-07T00:03:16Z,2022-01-13T16:22:31Z,6,8,MERGED
+component-library,Fix NumberInput styling,https://github.com/department-of-veterans-affairs/component-library/pull/258,2022-01-06T20:43:49Z,2022-01-07T19:50:49Z,2,5,MERGED
+component-library,34418 Removing core-js dependency in react components,https://github.com/department-of-veterans-affairs/component-library/pull/257,2022-01-06T18:17:40Z,2022-01-07T17:02:14Z,2,2,MERGED
+component-library,Change modal header to h1,https://github.com/department-of-veterans-affairs/component-library/pull/256,2022-01-04T23:33:48Z,2022-01-11T19:52:50Z,1,5,MERGED
+component-library,Relatively position full-width alert close above 1024px only,https://github.com/department-of-veterans-affairs/component-library/pull/307,2022-02-28T21:20:45Z,2022-02-28T23:34:31Z,1,2,MERGED
+component-library,632/remove process list react component,https://github.com/department-of-veterans-affairs/component-library/pull/304,2022-02-25T15:33:20Z,2022-02-25T20:14:54Z,0,2,MERGED
+component-library,Update npm token for publishing,https://github.com/department-of-veterans-affairs/component-library/pull/302,2022-02-25T00:16:57Z,2022-03-02T22:55:01Z,2,7,MERGED
+component-library,35769 Fix Analytics Component Name,https://github.com/department-of-veterans-affairs/component-library/pull/301,2022-02-24T14:53:55Z,2022-02-24T14:59:09Z,0,2,MERGED
+component-library,Adjust peer dependencies to remove warnings,https://github.com/department-of-veterans-affairs/component-library/pull/300,2022-02-23T19:18:09Z,2022-02-23T23:16:21Z,3,12,MERGED
+component-library,Fix Table axe check aria-label,https://github.com/department-of-veterans-affairs/component-library/pull/299,2022-02-23T17:21:19Z,2022-02-24T17:28:04Z,0,2,MERGED
+component-library,35255 va modal dev,https://github.com/department-of-veterans-affairs/component-library/pull/298,2022-02-22T22:02:52Z,2022-03-10T20:14:45Z,25,47,MERGED
+component-library,35152 Promo Banner Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/297,2022-02-21T23:59:52Z,2022-03-08T19:21:19Z,15,38,MERGED
+component-library,Move CONTACTS table to telephone web component story,https://github.com/department-of-veterans-affairs/component-library/pull/295,2022-02-17T18:30:46Z,2022-02-17T22:36:23Z,2,7,MERGED
+component-library,36826/Upgrade Storybook from 6.3 to 6.4,https://github.com/department-of-veterans-affairs/component-library/pull/293,2022-02-15T18:29:15Z,2022-02-15T23:09:43Z,0,2,MERGED
+component-library,Resolutions for Security Vulnerability Dependencies,https://github.com/department-of-veterans-affairs/component-library/pull/292,2022-02-15T16:38:47Z,2022-02-16T16:50:56Z,1,2,MERGED
+component-library,Add responsive table web component,https://github.com/department-of-veterans-affairs/component-library/pull/291,2022-02-14T20:14:14Z,2022-03-02T23:26:34Z,11,54,MERGED
+component-library,36826/Sass-Loader-Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/290,2022-02-11T20:31:51Z,2022-02-11T22:01:40Z,0,1,MERGED
+component-library,533 Storybook React RadioButtons Error Message Display,https://github.com/department-of-veterans-affairs/component-library/pull/288,2022-02-11T13:27:37Z,2022-02-11T17:07:46Z,0,1,MERGED
+component-library,Fix CSS in Stencil dev server for IE11,https://github.com/department-of-veterans-affairs/component-library/pull/285,2022-02-10T16:18:03Z,2022-02-11T17:15:16Z,1,3,MERGED
+component-library,35102/Banner Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/284,2022-02-09T19:26:38Z,2022-03-01T16:39:22Z,10,35,MERGED
+component-library,Fix Storybook stories render,https://github.com/department-of-veterans-affairs/component-library/pull/282,2022-02-08T16:28:04Z,2022-02-09T00:29:14Z,0,2,MERGED
+component-library,36046 va-accordion IE11 bugs,https://github.com/department-of-veterans-affairs/component-library/pull/278,2022-02-01T16:13:08Z,2022-02-03T20:31:00Z,7,13,MERGED
+component-library,va-on-this-page hide link to h2 without id,https://github.com/department-of-veterans-affairs/component-library/pull/341,2022-03-31T18:08:25Z,2022-04-01T16:19:25Z,5,6,MERGED
+component-library,39117 Update Minimist Resolution,https://github.com/department-of-veterans-affairs/component-library/pull/340,2022-03-31T14:11:17Z,2022-03-31T18:41:28Z,0,1,MERGED
+component-library,37935 Remove React Components from Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/339,2022-03-30T16:16:40Z,2022-03-31T19:05:57Z,1,4,MERGED
+component-library,Added a prop for the required label to the the va-text-input...,https://github.com/department-of-veterans-affairs/component-library/pull/337,2022-03-29T21:11:50Z,2022-04-28T12:11:17Z,1,2,CLOSED
+component-library,Copy dashboard-cli package into monorepo,https://github.com/department-of-veterans-affairs/component-library/pull/336,2022-03-26T00:16:06Z,2022-03-28T16:49:33Z,1,4,MERGED
+component-library,Add helper function for va-table migration,https://github.com/department-of-veterans-affairs/component-library/pull/332,2022-03-21T21:29:00Z,2022-03-24T22:07:32Z,4,17,MERGED
+component-library,Additional Info Disable Blue Line Prop,https://github.com/department-of-veterans-affairs/component-library/pull/331,2022-03-21T13:21:55Z,2022-03-24T17:17:31Z,7,8,MERGED
+component-library,38305 Remove SearchMenu React Component,https://github.com/department-of-veterans-affairs/component-library/pull/326,2022-03-17T19:22:51Z,2022-03-18T15:14:54Z,1,2,MERGED
+component-library,Add slot to va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/322,2022-03-16T21:33:53Z,2022-04-01T14:13:50Z,23,17,MERGED
+component-library,34435 Remove React Focus Lock Dependency,https://github.com/department-of-veterans-affairs/component-library/pull/321,2022-03-16T20:40:37Z,2022-03-17T16:03:13Z,0,4,MERGED
+component-library,Add Chromatic link to PR,https://github.com/department-of-veterans-affairs/component-library/pull/319,2022-03-15T21:51:05Z,2022-03-16T21:27:46Z,2,12,MERGED
+component-library,Add sorting functionality to va-table component,https://github.com/department-of-veterans-affairs/component-library/pull/318,2022-03-15T20:33:57Z,2022-04-04T18:54:18Z,16,43,MERGED
+component-library,20488 Accordions Expand Collapse All,https://github.com/department-of-veterans-affairs/component-library/pull/317,2022-03-09T16:29:25Z,2022-03-15T20:47:36Z,8,16,MERGED
+component-library,36385 Checkbox Group axe check test in error state,https://github.com/department-of-veterans-affairs/component-library/pull/315,2022-03-08T19:17:22Z,2022-03-08T20:46:50Z,0,3,MERGED
+component-library,Replace breadcrumb item break with font awesome icons,https://github.com/department-of-veterans-affairs/component-library/pull/314,2022-03-07T16:03:02Z,2022-03-08T14:13:45Z,3,3,MERGED
+component-library,36964 Va Telephone Vanity Numbers,https://github.com/department-of-veterans-affairs/component-library/pull/313,2022-03-04T20:45:58Z,2022-03-15T19:29:16Z,12,20,MERGED
+component-library,36950 Storybook Upgrade Webpack 5,https://github.com/department-of-veterans-affairs/component-library/pull/310,2022-03-02T19:59:10Z,2022-03-04T17:39:41Z,6,5,MERGED
+component-library,Update axe-core and axe-core/puppeteer dependencies to latest,https://github.com/department-of-veterans-affairs/component-library/pull/309,2022-03-02T16:44:13Z,2022-03-02T16:57:26Z,1,2,MERGED
+component-library,Add subtitle and link to DS for va-progress-bar and va-segmented-progress-bar,https://github.com/department-of-veterans-affairs/component-library/pull/401,2022-04-29T21:08:05Z,2022-05-05T02:23:09Z,1,6,MERGED
+component-library,Add subtitle and link to DS for va-back-to-top,https://github.com/department-of-veterans-affairs/component-library/pull/400,2022-04-29T17:05:43Z,2022-04-29T19:07:13Z,0,1,MERGED
+component-library,Replace vaBlur with native blur event for va-checkbox,https://github.com/department-of-veterans-affairs/component-library/pull/399,2022-04-29T15:17:08Z,2022-04-29T20:24:28Z,1,3,MERGED
+component-library,Translate text input,https://github.com/department-of-veterans-affairs/component-library/pull/398,2022-04-28T22:55:25Z,2022-05-10T19:05:06Z,5,7,CLOSED
+component-library,Updates va-additional-info to use primary alt darkest to pass WCAG ,https://github.com/department-of-veterans-affairs/component-library/pull/397,2022-04-28T15:36:51Z,2022-04-28T17:22:43Z,0,1,MERGED
+component-library,Fix for JSDoc usage of <input> in docs,https://github.com/department-of-veterans-affairs/component-library/pull/396,2022-04-27T13:42:09Z,2022-04-27T13:55:34Z,3,2,MERGED
+component-library,39738 Number Input Docs Link Fix and Input El fix,https://github.com/department-of-veterans-affairs/component-library/pull/395,2022-04-26T17:08:12Z,2022-04-26T17:58:14Z,0,2,MERGED
+component-library,Translate date React component,https://github.com/department-of-veterans-affairs/component-library/pull/394,2022-04-25T19:49:16Z,2022-05-09T21:49:03Z,4,14,MERGED
+component-library,Update success status for va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/393,2022-04-25T15:36:14Z,2022-05-06T19:14:34Z,3,7,MERGED
+component-library,Add i18next to Select and va-select,https://github.com/department-of-veterans-affairs/component-library/pull/389,2022-04-22T16:14:46Z,2022-05-11T18:24:27Z,9,35,MERGED
+component-library,39738 Number Input Documentation SB,https://github.com/department-of-veterans-affairs/component-library/pull/386,2022-04-22T12:48:12Z,2022-04-22T13:15:46Z,1,4,MERGED
+component-library,39860 Accordion Documentation Update SB,https://github.com/department-of-veterans-affairs/component-library/pull/383,2022-04-21T17:39:38Z,2022-04-22T12:39:58Z,0,2,MERGED
+component-library,Add subtitle and link for Select Box,https://github.com/department-of-veterans-affairs/component-library/pull/382,2022-04-21T14:52:09Z,2022-04-22T14:25:34Z,0,3,MERGED
+component-library,39862 Additional Info SB Documentation,https://github.com/department-of-veterans-affairs/component-library/pull/381,2022-04-21T14:11:41Z,2022-04-21T17:17:41Z,0,1,MERGED
+component-library,39967 Loading Indicator Storybook Documentation,https://github.com/department-of-veterans-affairs/component-library/pull/380,2022-04-21T13:14:20Z,2022-04-21T13:20:04Z,0,1,MERGED
+component-library,39969 Storybook Pagination Link Documentation,https://github.com/department-of-veterans-affairs/component-library/pull/379,2022-04-21T12:46:46Z,2022-04-21T13:03:44Z,0,1,MERGED
+component-library,"Add subtitle, link and success state example for va-text-input",https://github.com/department-of-veterans-affairs/component-library/pull/378,2022-04-20T20:24:45Z,2022-04-22T13:09:24Z,0,5,MERGED
+component-library,Internationalize the number input component,https://github.com/department-of-veterans-affairs/component-library/pull/376,2022-04-20T17:35:26Z,2022-05-11T17:47:41Z,3,12,MERGED
+component-library,"Add subtitle, link and story for CheckboxGroup and Checkbox",https://github.com/department-of-veterans-affairs/component-library/pull/374,2022-04-19T00:13:13Z,2022-04-20T01:47:31Z,0,4,MERGED
+component-library,Change storybook imports for React components,https://github.com/department-of-veterans-affairs/component-library/pull/373,2022-04-18T18:13:35Z,2022-04-19T16:09:59Z,0,8,MERGED
+component-library,Translate select,https://github.com/department-of-veterans-affairs/component-library/pull/372,2022-04-18T17:42:35Z,2022-04-22T15:15:55Z,2,5,CLOSED
+component-library,Add subtitle and link for Radio buttons in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/371,2022-04-18T15:07:34Z,2022-04-20T01:30:19Z,0,2,MERGED
+component-library,39872 Alert Documentation SB,https://github.com/department-of-veterans-affairs/component-library/pull/370,2022-04-15T16:21:30Z,2022-04-19T01:22:34Z,2,3,MERGED
+component-library,Add subtitle and action link for Modal in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/369,2022-04-15T15:30:49Z,2022-04-18T13:20:22Z,0,2,MERGED
+component-library,Translate accordion,https://github.com/department-of-veterans-affairs/component-library/pull/367,2022-04-14T20:16:11Z,2022-05-09T21:20:09Z,9,11,MERGED
+component-library,Add input datalist to `va-text-input`,https://github.com/department-of-veterans-affairs/component-library/pull/364,2022-04-12T15:23:48Z,2022-04-25T18:02:04Z,2,4,CLOSED
+component-library,Add initial tests for dashboard-cli,https://github.com/department-of-veterans-affairs/component-library/pull/357,2022-04-09T00:26:47Z,2022-04-12T15:17:18Z,6,20,MERGED
+component-library,Add typeahead functionality to va-search-input,https://github.com/department-of-veterans-affairs/component-library/pull/354,2022-04-07T22:23:56Z,2022-05-02T19:54:23Z,25,107,MERGED
+component-library,Updates yarn to 3.2 to pickup a fix to a stream closure issue. [Fixes #352],https://github.com/department-of-veterans-affairs/component-library/pull/353,2022-04-07T20:19:59Z,2022-04-09T01:13:06Z,0,2,MERGED
+component-library,Update va-select events,https://github.com/department-of-veterans-affairs/component-library/pull/351,2022-04-07T18:08:24Z,2023-07-28T17:18:34Z,5,6,CLOSED
+component-library,Show the total in the search results,https://github.com/department-of-veterans-affairs/component-library/pull/350,2022-04-06T23:48:57Z,2022-04-07T14:57:37Z,0,1,MERGED
+component-library,39550 va-number-input Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/349,2022-04-06T15:59:19Z,2022-04-21T17:47:53Z,11,28,MERGED
+component-library,Add comment to prop doc about IE11 support,https://github.com/department-of-veterans-affairs/component-library/pull/348,2022-04-05T23:16:08Z,2022-04-05T23:31:20Z,0,1,MERGED
+component-library,39046 va-date Web Component,https://github.com/department-of-veterans-affairs/component-library/pull/347,2022-04-04T19:16:57Z,2022-04-28T19:29:43Z,35,118,MERGED
+component-library,Add infrastructure for internationalization,https://github.com/department-of-veterans-affairs/component-library/pull/346,2022-04-01T23:44:28Z,2022-04-14T18:27:10Z,15,34,MERGED
+component-library,Add button web component,https://github.com/department-of-veterans-affairs/component-library/pull/447,2022-05-31T23:18:19Z,2022-06-07T19:03:29Z,10,26,MERGED
+component-library,Update usage report regex for bindings import,https://github.com/department-of-veterans-affairs/component-library/pull/446,2022-05-27T21:41:38Z,2022-05-27T23:39:34Z,0,2,MERGED
+component-library,Use custom docsTags for showing native handlers,https://github.com/department-of-veterans-affairs/component-library/pull/444,2022-05-26T14:48:23Z,2022-05-27T18:56:22Z,0,6,CLOSED
+component-library,add padding to alert for close button,https://github.com/department-of-veterans-affairs/component-library/pull/443,2022-05-25T19:40:06Z,2023-08-11T19:37:41Z,5,1,CLOSED
+component-library,Link to canvas tab in docs page,https://github.com/department-of-veterans-affairs/component-library/pull/441,2022-05-24T22:48:19Z,2022-06-02T15:41:05Z,5,55,MERGED
+component-library,843 va-date Text Inputs,https://github.com/department-of-veterans-affairs/component-library/pull/438,2022-05-23T19:57:02Z,2022-06-07T17:17:19Z,39,39,MERGED
+component-library,Add maturity scale to Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/437,2022-05-23T15:26:05Z,2022-05-27T17:02:52Z,11,35,MERGED
+component-library,38913 Storybook Native Events in Docs,https://github.com/department-of-veterans-affairs/component-library/pull/436,2022-05-23T14:44:06Z,2022-05-23T19:39:20Z,5,7,MERGED
+component-library,Add subtitle and link to DS for va-featured-content,https://github.com/department-of-veterans-affairs/component-library/pull/435,2022-05-20T14:53:18Z,2022-05-20T22:30:26Z,0,2,MERGED
+component-library,Va alert/no headline spacing issue,https://github.com/department-of-veterans-affairs/component-library/pull/434,2022-05-19T15:25:08Z,2023-08-11T19:53:38Z,12,2,CLOSED
+component-library,Update focus halo color,https://github.com/department-of-veterans-affairs/component-library/pull/433,2022-05-18T20:37:46Z,2024-04-08T22:15:34Z,1,19,CLOSED
+component-library,791 Storybook Dismissable Background,https://github.com/department-of-veterans-affairs/component-library/pull/431,2022-05-18T16:07:34Z,2022-05-18T19:39:17Z,0,2,MERGED
+component-library,40187 Storybook Banners Documentation,https://github.com/department-of-veterans-affairs/component-library/pull/430,2022-05-18T14:11:15Z,2022-05-18T15:38:09Z,0,1,MERGED
+component-library,Update padding and border width for va-alert,https://github.com/department-of-veterans-affairs/component-library/pull/429,2022-05-17T18:02:08Z,2022-05-20T17:53:03Z,2,12,MERGED
+component-library,Focus only radio button for va-radio ,https://github.com/department-of-veterans-affairs/component-library/pull/428,2022-05-17T14:40:08Z,2022-05-17T19:58:45Z,0,2,MERGED
+component-library,40076 aria describedby remove from va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/427,2022-05-13T17:16:52Z,2022-05-19T11:12:02Z,2,16,MERGED
+component-library,39980 Form Fields Required Attribute,https://github.com/department-of-veterans-affairs/component-library/pull/426,2022-05-13T00:34:29Z,2022-05-16T14:34:06Z,0,2,MERGED
+component-library,Focus only radio button for va-radio,https://github.com/department-of-veterans-affairs/component-library/pull/425,2022-05-12T22:46:29Z,2022-05-17T19:58:31Z,7,9,CLOSED
+component-library,Fix monthyear months,https://github.com/department-of-veterans-affairs/component-library/pull/424,2022-05-12T16:33:53Z,2022-05-12T18:31:08Z,0,3,MERGED
+component-library,Translate text input,https://github.com/department-of-veterans-affairs/component-library/pull/420,2022-05-10T21:11:58Z,2022-05-11T21:50:18Z,8,13,MERGED
+component-library,Update stories for Button,https://github.com/department-of-veterans-affairs/component-library/pull/419,2022-05-10T20:19:29Z,2022-05-16T18:36:43Z,10,18,MERGED
+component-library,Add textarea web component,https://github.com/department-of-veterans-affairs/component-library/pull/417,2022-05-10T17:35:49Z,2022-05-17T20:37:44Z,2,24,MERGED
+component-library,773 Fix Form Control links from Storybook to design.va,https://github.com/department-of-veterans-affairs/component-library/pull/415,2022-05-09T17:08:47Z,2022-05-09T18:19:18Z,0,1,MERGED
+component-library,39872 va-alert storybook story name updates,https://github.com/department-of-veterans-affairs/component-library/pull/414,2022-05-09T16:44:09Z,2022-05-10T14:40:34Z,0,2,MERGED
+component-library,Fix for va-table not handling data updates properly,https://github.com/department-of-veterans-affairs/component-library/pull/408,2022-05-05T20:44:45Z,2023-09-13T13:33:04Z,3,7,CLOSED
+component-library,Improve glob pattern to exclude test files,https://github.com/department-of-veterans-affairs/component-library/pull/407,2022-05-05T19:46:55Z,2022-05-06T15:34:44Z,2,4,MERGED
+component-library,Reuse error prop for internal date validation,https://github.com/department-of-veterans-affairs/component-library/pull/406,2022-05-04T16:52:35Z,2022-05-20T01:30:41Z,0,2,CLOSED
+component-library,Add subtitle and link to DS for va-process-list,https://github.com/department-of-veterans-affairs/component-library/pull/405,2022-05-03T15:58:21Z,2022-05-05T19:38:23Z,3,7,MERGED
+component-library,Add va-alert-expandable component,https://github.com/department-of-veterans-affairs/component-library/pull/404,2022-05-03T13:45:46Z,2022-05-09T16:30:43Z,10,11,MERGED
+component-library,40575 va-date convert to use va-text-input for year field,https://github.com/department-of-veterans-affairs/component-library/pull/403,2022-05-02T17:00:53Z,2022-05-04T23:25:31Z,10,10,MERGED
+component-library,40575/va date year input,https://github.com/department-of-veterans-affairs/component-library/pull/402,2022-05-02T16:57:09Z,2022-05-02T16:57:39Z,1,3,CLOSED
+component-library,Display default value and type in Storybook args table,https://github.com/department-of-veterans-affairs/component-library/pull/475,2022-06-29T19:14:10Z,2022-07-01T16:31:28Z,2,10,MERGED
+component-library,Add va-button-pair component,https://github.com/department-of-veterans-affairs/component-library/pull/472,2022-06-28T15:07:09Z,2022-07-06T20:27:47Z,6,28,MERGED
+component-library,Inherit resize property from parent,https://github.com/department-of-veterans-affairs/component-library/pull/471,2022-06-27T15:04:18Z,2022-06-27T17:58:30Z,0,2,MERGED
+component-library,Prevent breadcrumb line break on mobile,https://github.com/department-of-veterans-affairs/component-library/pull/470,2022-06-24T15:40:59Z,2022-06-24T21:16:14Z,0,3,MERGED
+component-library,Remove unnecessary margin on va-alert-expandable,https://github.com/department-of-veterans-affairs/component-library/pull/469,2022-06-24T14:23:03Z,2022-06-24T15:57:32Z,2,2,MERGED
+component-library,Fix styling for va-select and va-text-input when required is true,https://github.com/department-of-veterans-affairs/component-library/pull/466,2022-06-16T22:14:34Z,2022-06-21T13:58:14Z,2,12,MERGED
+component-library,41381 Storybook Side Navigation Groupings,https://github.com/department-of-veterans-affairs/component-library/pull/464,2022-06-15T12:17:44Z,2022-06-29T20:29:49Z,13,3,CLOSED
+component-library,Remove redundant textarea attribute & validate maxlength,https://github.com/department-of-veterans-affairs/component-library/pull/463,2022-06-14T23:41:09Z,2022-06-27T04:34:13Z,2,5,MERGED
+component-library,Add web component native events docs link,https://github.com/department-of-veterans-affairs/component-library/pull/461,2022-06-13T23:55:12Z,2022-06-14T15:42:48Z,1,1,MERGED
+component-library,918 form controls,https://github.com/department-of-veterans-affairs/component-library/pull/460,2022-06-13T17:01:08Z,2022-06-14T17:17:36Z,1,10,MERGED
+component-library,Update Storybook canvas documentation,https://github.com/department-of-veterans-affairs/component-library/pull/459,2022-06-10T20:05:42Z,2022-06-13T21:05:26Z,0,3,MERGED
+component-library,41424 Storybook Introduction Page Links,https://github.com/department-of-veterans-affairs/component-library/pull/458,2022-06-10T15:56:29Z,2022-06-13T19:25:35Z,6,6,MERGED
+component-library,Add monthyear date variant,https://github.com/department-of-veterans-affairs/component-library/pull/457,2022-06-09T20:18:38Z,2022-06-14T22:43:24Z,9,23,MERGED
+component-library,Add disabled styling and story for va-button,https://github.com/department-of-veterans-affairs/component-library/pull/456,2022-06-07T22:15:03Z,2022-06-08T14:18:35Z,2,4,MERGED
+component-library,change sign in alert button color to green,https://github.com/department-of-veterans-affairs/component-library/pull/455,2022-06-06T20:38:00Z,2022-06-07T15:55:29Z,0,1,MERGED
+component-library,Add Storybook a11y and storysource addons ,https://github.com/department-of-veterans-affairs/component-library/pull/454,2022-06-03T21:33:08Z,2022-06-07T04:27:59Z,6,8,MERGED
+component-library,Add Storybook addons,https://github.com/department-of-veterans-affairs/component-library/pull/453,2022-06-03T15:31:00Z,2022-06-03T21:33:45Z,4,2,CLOSED
+component-library,Ensure i18next is initialized in TextInput & Select,https://github.com/department-of-veterans-affairs/component-library/pull/451,2022-06-02T20:54:35Z,2022-06-03T19:05:26Z,1,7,MERGED
+component-library,add function to find named React component imports,https://github.com/department-of-veterans-affairs/component-library/pull/449,2022-06-02T15:45:02Z,2023-08-11T19:23:44Z,1,1,CLOSED
+component-library,877 va-date Web Component Enhancements,https://github.com/department-of-veterans-affairs/component-library/pull/448,2022-06-02T13:48:28Z,2022-06-09T15:52:44Z,8,22,MERGED
+component-library,Updating form web component error styles to align with USWDS.,https://github.com/department-of-veterans-affairs/component-library/pull/501,2022-07-28T21:10:18Z,2022-08-02T17:12:20Z,2,7,MERGED
+component-library,Add nowrap to telephone component CSS,https://github.com/department-of-veterans-affairs/component-library/pull/499,2022-07-28T17:30:10Z,2022-07-28T19:38:57Z,0,2,MERGED
+component-library,style: update va-breadcrumbs padding,https://github.com/department-of-veterans-affairs/component-library/pull/496,2022-07-27T14:56:14Z,2022-07-27T17:44:52Z,0,2,MERGED
+component-library,fix: text does not overlap icon in alerts,https://github.com/department-of-veterans-affairs/component-library/pull/495,2022-07-27T13:58:29Z,2022-07-28T20:20:20Z,2,5,MERGED
+component-library,Add tty prop to telephone component,https://github.com/department-of-veterans-affairs/component-library/pull/492,2022-07-21T20:23:56Z,2022-07-26T22:54:16Z,2,7,MERGED
+component-library,Add va-omb-info web component,https://github.com/department-of-veterans-affairs/component-library/pull/491,2022-07-20T19:42:03Z,2022-08-01T16:20:46Z,4,21,MERGED
+component-library,Bump puppeteer version,https://github.com/department-of-veterans-affairs/component-library/pull/488,2022-07-14T23:27:06Z,2022-07-15T18:39:15Z,3,2,MERGED
+component-library,Token library outputs CSS variables,https://github.com/department-of-veterans-affairs/component-library/pull/487,2022-07-14T17:24:56Z,2022-07-15T14:15:34Z,0,1,MERGED
+component-library,Remove unneeded aria-live when errors occur,https://github.com/department-of-veterans-affairs/component-library/pull/485,2022-07-12T17:54:31Z,2022-07-13T16:39:23Z,2,3,MERGED
+component-library,Remove aria-labelledby in form controls,https://github.com/department-of-veterans-affairs/component-library/pull/484,2022-07-12T17:32:06Z,2022-07-13T16:43:51Z,0,5,MERGED
+component-library,Update Storybook sidenav,https://github.com/department-of-veterans-affairs/component-library/pull/482,2022-07-11T13:19:10Z,2022-08-31T12:32:22Z,22,20,MERGED
+component-library,Add I18n linting,https://github.com/department-of-veterans-affairs/component-library/pull/480,2022-07-07T01:45:09Z,2022-07-12T16:04:00Z,1,16,MERGED
+component-library,"Translate ""On this page"" component",https://github.com/department-of-veterans-affairs/component-library/pull/523,2022-08-31T16:58:10Z,2022-08-31T21:59:30Z,5,8,MERGED
+component-library,Fix va-modal styling,https://github.com/department-of-veterans-affairs/component-library/pull/522,2022-08-31T03:38:30Z,2022-08-31T15:20:23Z,0,3,MERGED
+component-library,Fix visual defect in Safari for the va-alert component,https://github.com/department-of-veterans-affairs/component-library/pull/521,2022-08-26T19:33:42Z,2022-08-29T18:42:21Z,1,2,MERGED
+component-library,Remove fullwidth alert story & update banner stories,https://github.com/department-of-veterans-affairs/component-library/pull/520,2022-08-26T18:52:38Z,2022-08-30T17:58:45Z,3,12,MERGED
+component-library,Fix alert expandable component calc-max-height,https://github.com/department-of-veterans-affairs/component-library/pull/518,2022-08-25T16:06:43Z,2022-09-07T13:43:12Z,4,12,MERGED
+component-library,Fixes for va-alert-expandable,https://github.com/department-of-veterans-affairs/component-library/pull/510,2022-08-09T15:09:48Z,2022-08-11T21:04:57Z,12,7,MERGED
+component-library,Create a File Input web component,https://github.com/department-of-veterans-affairs/component-library/pull/507,2022-08-04T21:15:48Z,2022-08-18T18:10:02Z,19,37,MERGED
+component-library,"Replace the ""Date of Birth"" label with a real one",https://github.com/department-of-veterans-affairs/component-library/pull/505,2022-08-03T18:56:01Z,2022-08-03T19:43:43Z,0,1,MERGED
+component-library,Fix font family for input elements,https://github.com/department-of-veterans-affairs/component-library/pull/541,2022-09-26T18:26:52Z,2022-09-27T20:24:43Z,2,2,MERGED
+component-library,Icon discovery,https://github.com/department-of-veterans-affairs/component-library/pull/540,2022-09-26T17:50:25Z,2024-04-08T22:17:26Z,2,3,CLOSED
+component-library,Discovery for adding font files,https://github.com/department-of-veterans-affairs/component-library/pull/539,2022-09-21T20:16:49Z,2024-04-08T22:15:54Z,2,8,CLOSED
+component-library,Move margin from error-message to label in va-checkbox.,https://github.com/department-of-veterans-affairs/component-library/pull/537,2022-09-20T21:39:33Z,2022-09-20T22:25:59Z,0,1,MERGED
+component-library,Moving file input web component and React component in Storybook sidebar,https://github.com/department-of-veterans-affairs/component-library/pull/536,2022-09-20T19:00:22Z,2022-09-20T20:25:31Z,1,2,MERGED
+component-library,Add radio hint prop & tweak aria label,https://github.com/department-of-veterans-affairs/component-library/pull/535,2022-09-19T19:43:45Z,2022-10-28T20:35:49Z,15,24,MERGED
+component-library,Fix month validation,https://github.com/department-of-veterans-affairs/component-library/pull/533,2022-09-14T22:04:24Z,2022-09-16T17:22:10Z,3,6,MERGED
+component-library,"Align web component labels, descriptions, and error message font weights.",https://github.com/department-of-veterans-affairs/component-library/pull/532,2022-09-14T18:21:57Z,2022-09-19T13:40:40Z,11,9,MERGED
+component-library,Fix va-checkbox label alignment.,https://github.com/department-of-veterans-affairs/component-library/pull/530,2022-09-13T20:14:17Z,2022-09-14T12:05:35Z,0,3,MERGED
+component-library,Add translation custom doc tags,https://github.com/department-of-veterans-affairs/component-library/pull/526,2022-09-07T18:25:39Z,2022-09-07T21:37:27Z,2,8,MERGED
+component-library,Privacy Agreement Web Component ,https://github.com/department-of-veterans-affairs/component-library/pull/524,2022-09-06T21:28:30Z,2022-09-21T16:19:17Z,15,36,MERGED
+component-library,Storybook example updates for va-radio,https://github.com/department-of-veterans-affairs/component-library/pull/558,2022-10-27T15:00:48Z,2023-08-11T19:25:03Z,0,1,CLOSED
+component-library,Fix screenreader not reading va-modal content in va-omb-info,https://github.com/department-of-veterans-affairs/component-library/pull/557,2022-10-20T21:45:11Z,2022-11-01T13:57:14Z,6,9,MERGED
+component-library,Add SMS option to va-telephone component,https://github.com/department-of-veterans-affairs/component-library/pull/556,2022-10-19T20:59:37Z,2022-11-02T19:32:59Z,6,6,MERGED
+component-library,va-alert background-only layout issue,https://github.com/department-of-veterans-affairs/component-library/pull/555,2022-10-13T21:32:30Z,2022-10-18T16:11:26Z,1,2,MERGED
+component-library,Add Tagalog translation to va-text-input and va-accordion,https://github.com/department-of-veterans-affairs/component-library/pull/554,2022-10-13T20:10:16Z,2022-10-17T18:24:00Z,5,10,MERGED
+component-library,Remove RadioButtons React component from Storybook.,https://github.com/department-of-veterans-affairs/component-library/pull/545,2022-10-05T18:07:02Z,2022-10-07T16:22:01Z,5,5,MERGED
+component-library,Update va-privacy-agreement maturity and location in Storybook.,https://github.com/department-of-veterans-affairs/component-library/pull/544,2022-10-04T18:08:43Z,2022-10-05T14:46:30Z,0,1,MERGED
+component-library,Updating va-button Storybook example to React binding,https://github.com/department-of-veterans-affairs/component-library/pull/543,2022-10-03T18:14:38Z,2022-10-04T15:14:16Z,1,3,MERGED
+component-library,Remove left padding and adjust option spacing in va-radio and va-radio-option,https://github.com/department-of-veterans-affairs/component-library/pull/584,2022-11-30T21:40:10Z,2022-12-01T20:51:38Z,2,2,MERGED
+component-library,Add add to calendar variation to va-link,https://github.com/department-of-veterans-affairs/component-library/pull/583,2022-11-30T16:13:57Z,2022-12-02T17:10:10Z,2,5,MERGED
+component-library,va-radio: add part attr to legend,https://github.com/department-of-veterans-affairs/component-library/pull/582,2022-11-29T15:03:04Z,2022-11-29T17:19:26Z,0,2,MERGED
+component-library,Determine how a USWDS3-based web component will get its color,https://github.com/department-of-veterans-affairs/component-library/pull/581,2022-11-25T19:08:40Z,2022-12-02T14:08:16Z,6,1,CLOSED
+component-library,Add va-radio USWDS v3 version,https://github.com/department-of-veterans-affairs/component-library/pull/579,2022-11-21T19:16:46Z,2022-12-05T16:20:44Z,13,37,MERGED
+component-library,Add Storybook style overrides for USWDS v3 components,https://github.com/department-of-veterans-affairs/component-library/pull/577,2022-11-16T20:00:37Z,2022-11-21T18:28:49Z,2,6,MERGED
+component-library,Added autocomplete prop to va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/574,2022-11-14T16:05:26Z,2022-11-15T16:27:07Z,2,4,MERGED
+component-library,add aria-label to va-pagination navigation landmark,https://github.com/department-of-veterans-affairs/component-library/pull/570,2022-11-10T19:57:45Z,2022-11-18T14:52:05Z,3,3,MERGED
+component-library,Update va-omb-info maturity and location in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/568,2022-11-09T18:22:42Z,2022-11-09T21:51:18Z,0,1,MERGED
+component-library,Update contact prop documentation,https://github.com/department-of-veterans-affairs/component-library/pull/566,2022-11-07T18:18:52Z,2022-11-08T17:03:39Z,0,1,MERGED
+component-library,Spanish translation for va-memorable-date & va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/565,2022-11-07T15:33:13Z,2022-11-08T18:30:48Z,0,2,MERGED
+component-library,Add radio option description,https://github.com/department-of-veterans-affairs/component-library/pull/564,2022-11-04T18:10:04Z,2023-05-30T15:31:50Z,3,4,CLOSED
+component-library,Add va-radio USWDS version,https://github.com/department-of-veterans-affairs/component-library/pull/563,2022-11-03T18:35:53Z,2022-11-21T19:14:39Z,0,23,CLOSED
+component-library,Add USWDS & Stencil Sass packages ,https://github.com/department-of-veterans-affairs/component-library/pull/562,2022-11-02T21:49:17Z,2022-11-07T22:22:04Z,1,2,CLOSED
+component-library,"Translate ""va-checkbox"", ""va-checkbox-group"", ""va-number-input"" and ""va-radio"" component",https://github.com/department-of-veterans-affairs/component-library/pull/559,2022-11-01T15:08:09Z,2022-11-02T19:50:16Z,2,9,MERGED
+component-library,Add variables.scss file to obtain USWDS v3 colors,https://github.com/department-of-veterans-affairs/component-library/pull/594,2022-12-22T19:32:43Z,2023-01-05T13:35:17Z,5,2,MERGED
+component-library,Add variables.scss file to obtain colors,https://github.com/department-of-veterans-affairs/component-library/pull/593,2022-12-22T19:20:07Z,2022-12-22T19:32:12Z,0,1,CLOSED
+component-library,Add hint text prop to form web components,https://github.com/department-of-veterans-affairs/component-library/pull/592,2022-12-20T17:30:25Z,2022-12-21T17:30:26Z,8,17,MERGED
+component-library,Bug: Increase z-index in vaModel component,https://github.com/department-of-veterans-affairs/component-library/pull/589,2022-12-14T20:34:03Z,2022-12-15T14:16:01Z,1,1,MERGED
+component-library,va-radio: add part attr to all elements,https://github.com/department-of-veterans-affairs/component-library/pull/588,2022-12-13T15:19:28Z,2022-12-13T17:26:28Z,6,5,MERGED
+component-library,Add va-text-input USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/587,2022-12-08T20:27:01Z,2022-12-22T18:23:10Z,6,14,MERGED
+component-library,va-textarea: Add a11y css import and font styles.,https://github.com/department-of-veterans-affairs/component-library/pull/585,2022-12-01T16:02:42Z,2022-12-01T20:34:46Z,2,2,MERGED
+component-library,Add va-select USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/610,2023-01-27T17:03:36Z,2023-02-01T16:50:29Z,9,7,MERGED
+component-library,"Add the ""Banner - Official Gov"" web component",https://github.com/department-of-veterans-affairs/component-library/pull/608,2023-01-23T21:30:36Z,2023-02-07T15:42:23Z,10,17,MERGED
+component-library,Add VA favicons to Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/606,2023-01-19T22:53:37Z,2023-01-20T15:46:57Z,0,2,MERGED
+component-library,Add main element to storybook pages for i18next,https://github.com/department-of-veterans-affairs/component-library/pull/605,2023-01-19T22:17:44Z,2023-01-20T15:53:41Z,0,4,MERGED
+component-library,Add USWDS v3 Error color to css-library,https://github.com/department-of-veterans-affairs/component-library/pull/604,2023-01-17T16:37:57Z,2023-01-19T14:56:11Z,5,5,MERGED
+component-library,Accessibility updates to va-pagination to support Voice Control,https://github.com/department-of-veterans-affairs/component-library/pull/602,2023-01-13T19:44:07Z,2023-01-20T16:39:31Z,6,12,MERGED
+component-library,Tagalog translation for va-memorable-date & va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/601,2023-01-13T15:03:02Z,2023-01-13T16:28:38Z,1,2,MERGED
+component-library,Tagalog translation for va-memorable-date & va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/600,2023-01-12T18:08:33Z,2023-01-13T15:00:46Z,0,1,CLOSED
+component-library,Add customEvent for manually updating i18next in Storybook.,https://github.com/department-of-veterans-affairs/component-library/pull/599,2023-01-10T19:05:16Z,2023-01-19T22:35:26Z,0,7,CLOSED
+component-library,Add focus style to va-alert close button,https://github.com/department-of-veterans-affairs/component-library/pull/598,2023-01-09T20:28:28Z,2023-01-10T19:03:23Z,0,1,MERGED
+component-library,va-breadcrumbs: Add handling of dynamic slot changes of breadcrumb items.,https://github.com/department-of-veterans-affairs/component-library/pull/596,2023-01-05T20:40:37Z,2023-01-09T15:53:14Z,1,10,MERGED
+component-library,Add description and tile display to va-radio-option,https://github.com/department-of-veterans-affairs/component-library/pull/595,2023-01-03T20:24:39Z,2023-01-05T21:25:55Z,8,6,MERGED
+component-library,Adding additional checklist items to pull request template,https://github.com/department-of-veterans-affairs/component-library/pull/635,2023-02-28T22:17:41Z,2023-03-01T15:44:15Z,0,2,MERGED
+component-library,Mitigate Radio and Radio Option Formation Problems,https://github.com/department-of-veterans-affairs/component-library/pull/634,2023-02-28T19:20:53Z,2023-03-01T18:01:17Z,9,17,MERGED
+component-library, va-radio-option: Fix long label wrapping,https://github.com/department-of-veterans-affairs/component-library/pull/633,2023-02-28T16:04:34Z,2023-02-28T18:25:41Z,3,4,MERGED
+component-library,va-radio: Add Bitter font to wrapping header,https://github.com/department-of-veterans-affairs/component-library/pull/632,2023-02-27T22:35:04Z,2023-02-28T20:33:24Z,2,4,MERGED
+component-library,1568-mitigate-select-component,https://github.com/department-of-veterans-affairs/component-library/pull/631,2023-02-27T22:00:26Z,2023-02-28T18:14:43Z,1,13,CLOSED
+component-library,va-memorable-date: add hint property,https://github.com/department-of-veterans-affairs/component-library/pull/630,2023-02-27T17:13:25Z,2023-02-27T20:18:31Z,0,5,MERGED
+component-library,1567 & 1566 mitigate radio and radio option,https://github.com/department-of-veterans-affairs/component-library/pull/629,2023-02-24T22:07:35Z,2023-02-28T18:14:08Z,2,13,CLOSED
+component-library,Add PR configuration checklist to PULL_REQUEST_TEMPLATE.md,https://github.com/department-of-veterans-affairs/component-library/pull/627,2023-02-24T14:59:18Z,2023-02-27T16:50:33Z,0,3,MERGED
+component-library,"Add ""Source Sans Pro"" to the USWDS v3 font-family stack",https://github.com/department-of-veterans-affairs/component-library/pull/626,2023-02-23T23:41:36Z,2023-02-28T16:23:46Z,0,10,MERGED
+component-library,Add va-checkbox and va-checkbox-group USWDS v3 variations,https://github.com/department-of-veterans-affairs/component-library/pull/624,2023-02-21T18:33:39Z,2023-02-28T16:13:43Z,10,14,MERGED
+component-library,Move ExpandingGroup React component to deprecated section in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/623,2023-02-16T21:31:52Z,2023-02-20T14:57:40Z,0,2,MERGED
+component-library,Formation overrides for va-text-input component,https://github.com/department-of-veterans-affairs/component-library/pull/622,2023-02-16T17:22:25Z,2023-02-27T14:54:10Z,17,10,MERGED
+component-library,Formation overrides for va-text-input component,https://github.com/department-of-veterans-affairs/component-library/pull/621,2023-02-16T16:01:17Z,2023-02-16T17:04:29Z,2,1,CLOSED
+component-library,va-text-input: Update aria message prop name,https://github.com/department-of-veterans-affairs/component-library/pull/620,2023-02-14T20:33:17Z,2023-02-15T15:04:29Z,0,1,MERGED
+component-library,va-official-gov-banner: Update mobile close icon so it matches USWDS,https://github.com/department-of-veterans-affairs/component-library/pull/619,2023-02-14T19:49:34Z,2023-02-15T18:05:45Z,0,3,MERGED
+component-library,Fix va-text-input error message style,https://github.com/department-of-veterans-affairs/component-library/pull/616,2023-02-09T22:33:32Z,2023-02-10T20:00:50Z,0,4,MERGED
+component-library,Add aria-describedby-message prop to va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/615,2023-02-06T22:08:06Z,2023-02-08T19:47:38Z,1,6,MERGED
+component-library,va-radio | Add property to include header inside legend,https://github.com/department-of-veterans-affairs/component-library/pull/613,2023-02-03T21:39:05Z,2023-02-08T18:29:49Z,9,7,MERGED
+component-library,Fix maturity scale icons for deprecated React components,https://github.com/department-of-veterans-affairs/component-library/pull/667,2023-03-31T17:58:12Z,2023-03-31T20:05:38Z,1,3,MERGED
+component-library,1606 va-memorable-date update styles,https://github.com/department-of-veterans-affairs/component-library/pull/666,2023-03-31T04:17:02Z,2023-04-14T15:26:53Z,13,19,MERGED
+component-library,Move all react components to deprecated section,https://github.com/department-of-veterans-affairs/component-library/pull/663,2023-03-29T14:18:02Z,2023-03-30T14:26:12Z,1,5,MERGED
+component-library,Fixes code example for need help component. [Amends #1467],https://github.com/department-of-veterans-affairs/component-library/pull/660,2023-03-24T19:19:19Z,2023-03-24T19:26:46Z,0,3,MERGED
+component-library,Fixed the missing code in Featured content,https://github.com/department-of-veterans-affairs/component-library/pull/659,2023-03-24T17:07:51Z,2023-03-24T18:02:58Z,0,1,MERGED
+component-library,Add va-button-pair USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/658,2023-03-23T20:30:56Z,2023-03-27T20:28:31Z,7,12,MERGED
+component-library,Adds a Need help? component. [Amends #1467],https://github.com/department-of-veterans-affairs/component-library/pull/657,2023-03-23T15:02:25Z,2023-03-24T12:24:39Z,7,5,MERGED
+component-library,Add va-textarea USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/654,2023-03-17T15:24:56Z,2023-03-22T14:52:17Z,9,13,MERGED
+component-library,fix: font size formation override for memorable date,https://github.com/department-of-veterans-affairs/component-library/pull/652,2023-03-16T19:52:31Z,2023-03-20T15:42:30Z,2,3,CLOSED
+component-library,Add option for currency to va-number-input,https://github.com/department-of-veterans-affairs/component-library/pull/651,2023-03-16T17:24:19Z,2023-03-27T20:21:43Z,7,8,MERGED
+component-library,Testing vets-website focus utilities with va-radio,https://github.com/department-of-veterans-affairs/component-library/pull/646,2023-03-10T20:00:46Z,2023-08-17T21:13:47Z,0,1,CLOSED
+component-library,va-button: Add USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/645,2023-03-08T23:14:09Z,2023-03-16T14:26:52Z,7,12,MERGED
+component-library,va-button: Update the secondary hover color,https://github.com/department-of-veterans-affairs/component-library/pull/643,2023-03-08T20:08:00Z,2023-03-09T19:53:10Z,1,4,MERGED
+component-library,Update va-button states to match Sketch ,https://github.com/department-of-veterans-affairs/component-library/pull/642,2023-03-03T20:35:34Z,2023-03-08T17:17:42Z,2,7,MERGED
+component-library,Adding Storybook v3 override styles,https://github.com/department-of-veterans-affairs/component-library/pull/641,2023-03-03T18:05:05Z,2023-03-03T19:31:07Z,0,1,MERGED
+component-library,Mitigate Select component Formation problems,https://github.com/department-of-veterans-affairs/component-library/pull/636,2023-03-01T18:04:28Z,2023-03-03T16:50:42Z,4,21,MERGED
+component-library,Add va-segmented-progress-bar USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/689,2023-04-27T15:42:41Z,2023-05-04T14:45:38Z,11,15,MERGED
+component-library,Add icon support to va-accordion-item subheader,https://github.com/department-of-veterans-affairs/component-library/pull/688,2023-04-26T19:32:15Z,2023-05-08T20:36:55Z,5,6,MERGED
+component-library,Remove DropDownPanel,https://github.com/department-of-veterans-affairs/component-library/pull/686,2023-04-25T20:09:54Z,2023-04-28T16:03:23Z,1,4,MERGED
+component-library,(bug) fixed styling issue for sub header,https://github.com/department-of-veterans-affairs/component-library/pull/684,2023-04-25T17:41:47Z,2023-04-25T20:32:25Z,1,2,MERGED
+component-library,add tile variation of checkbox to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/682,2023-04-20T19:05:04Z,2023-04-27T15:19:58Z,4,15,MERGED
+component-library,1679 Add icon support to va-accordion-item,https://github.com/department-of-veterans-affairs/component-library/pull/679,2023-04-19T21:07:29Z,2023-04-24T17:24:18Z,9,13,MERGED
+component-library, Add va-privacy-agreement USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/678,2023-04-19T19:30:50Z,2023-04-24T18:25:54Z,15,16,MERGED
+component-library,Add va-alert USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/676,2023-04-13T18:22:47Z,2023-04-24T14:48:04Z,7,20,MERGED
+component-library,Add va-modal USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/675,2023-04-13T16:14:52Z,2023-04-14T20:58:46Z,9,13,MERGED
+component-library,1679 accordion header icon,https://github.com/department-of-veterans-affairs/component-library/pull/674,2023-04-12T19:46:09Z,2023-04-19T21:13:31Z,5,11,CLOSED
+component-library,Va-accordion/feature/1679/header-update,https://github.com/department-of-veterans-affairs/component-library/pull/673,2023-04-12T19:10:37Z,2023-04-12T19:46:31Z,3,11,CLOSED
+component-library,1673 button pair responsive bug,https://github.com/department-of-veterans-affairs/component-library/pull/671,2023-04-11T17:22:48Z,2023-04-12T15:36:37Z,1,5,MERGED
+component-library,1673 button pair responsive bug for continue variation,https://github.com/department-of-veterans-affairs/component-library/pull/670,2023-04-11T15:36:47Z,2023-04-11T17:16:47Z,2,2,CLOSED
+component-library, Add va-number-input USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/669,2023-04-06T15:14:13Z,2023-04-10T21:27:20Z,2,4,MERGED
+component-library,Add width option to va-text-input,https://github.com/department-of-veterans-affairs/component-library/pull/707,2023-05-31T18:01:32Z,2023-06-01T17:02:10Z,6,5,MERGED
+component-library,Formation - 7.0.7,https://github.com/department-of-veterans-affairs/component-library/pull/705,2023-05-22T17:31:30Z,2023-05-22T17:58:25Z,0,2,MERGED
+component-library,Button icon font size override,https://github.com/department-of-veterans-affairs/component-library/pull/704,2023-05-19T16:00:36Z,2023-05-22T14:07:08Z,0,2,MERGED
+component-library,feat: Additional info v3,https://github.com/department-of-veterans-affairs/component-library/pull/703,2023-05-18T19:56:52Z,2023-05-23T17:25:49Z,8,7,MERGED
+component-library,Add va-notification web component,https://github.com/department-of-veterans-affairs/component-library/pull/702,2023-05-16T19:19:51Z,2023-06-07T18:41:06Z,12,43,MERGED
+component-library,Adds a Sign in to start your application story to Alert.,https://github.com/department-of-veterans-affairs/component-library/pull/698,2023-05-09T14:40:34Z,2023-05-09T18:50:38Z,0,1,MERGED
+component-library,Fix va-banner displaying left border,https://github.com/department-of-veterans-affairs/component-library/pull/697,2023-05-08T19:44:56Z,2023-05-08T21:29:31Z,3,7,MERGED
+component-library,Add va-card component,https://github.com/department-of-veterans-affairs/component-library/pull/695,2023-05-08T18:03:28Z,2023-05-17T21:04:43Z,4,15,MERGED
+component-library,Add va-card web component,https://github.com/department-of-veterans-affairs/component-library/pull/693,2023-05-04T21:12:14Z,2023-05-08T15:11:01Z,1,7,CLOSED
+component-library,va-textinput add inline hint to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/692,2023-05-04T19:53:35Z,2023-05-05T22:54:38Z,1,1,MERGED
+component-library,va-date: Align year input with month and day inputs,https://github.com/department-of-veterans-affairs/component-library/pull/691,2023-05-02T14:03:55Z,2023-05-04T16:17:08Z,1,4,MERGED
+component-library,va-alert: Update background-only functionality and examples,https://github.com/department-of-veterans-affairs/component-library/pull/733,2023-06-29T20:23:09Z,2023-07-03T15:53:43Z,1,9,MERGED
+component-library,va-memorable-date: Change two and four to 2 and 4,https://github.com/department-of-veterans-affairs/component-library/pull/732,2023-06-28T21:41:27Z,2023-06-30T20:30:04Z,1,6,MERGED
+component-library,va-table: Update MutationObserver for pagination,https://github.com/department-of-veterans-affairs/component-library/pull/729,2023-06-28T15:42:20Z,2023-06-29T19:20:10Z,0,2,MERGED
+component-library,Add va-accordion USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/728,2023-06-26T17:43:38Z,2023-06-30T21:36:40Z,12,14,MERGED
+component-library,Accessibility fix for va-radio-option width when zoomed,https://github.com/department-of-veterans-affairs/component-library/pull/726,2023-06-22T23:40:19Z,2023-06-23T21:19:44Z,2,2,MERGED
+component-library,va-notification: align CLOSE text with card padding,https://github.com/department-of-veterans-affairs/component-library/pull/724,2023-06-22T14:36:51Z,2023-06-22T19:55:43Z,1,3,MERGED
+component-library,Update for Chromatic Publish Action,https://github.com/department-of-veterans-affairs/component-library/pull/721,2023-06-15T20:28:20Z,2023-06-16T12:47:28Z,0,4,MERGED
+component-library,va-memorable-date: Allow month to be selected using 'month-select',https://github.com/department-of-veterans-affairs/component-library/pull/719,2023-06-14T17:15:53Z,2023-06-14T20:00:14Z,1,3,MERGED
+component-library,va-memorable-date & va-date: Allow date field copy/paste with keyboard shortcut,https://github.com/department-of-veterans-affairs/component-library/pull/718,2023-06-14T14:36:24Z,2023-06-16T13:44:37Z,2,9,MERGED
+component-library,Update va-table to support pagination,https://github.com/department-of-veterans-affairs/component-library/pull/717,2023-06-12T20:19:49Z,2023-06-20T17:01:28Z,4,13,MERGED
+component-library,va-select: Add read-only state with inert,https://github.com/department-of-veterans-affairs/component-library/pull/716,2023-06-12T17:00:10Z,2023-06-14T20:13:19Z,6,9,MERGED
+component-library,Upgrade @department-of-veterans-affairs/formation version to ^7.0.8,https://github.com/department-of-veterans-affairs/component-library/pull/714,2023-06-08T19:42:25Z,2023-06-08T20:20:34Z,0,2,MERGED
+component-library,Add va-maintenance-banner web component,https://github.com/department-of-veterans-affairs/component-library/pull/713,2023-06-07T21:57:28Z,2023-06-13T15:33:44Z,10,13,MERGED
+component-library,Add va-breadcrumb USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/711,2023-06-05T14:59:14Z,2023-07-31T19:08:19Z,25,30,MERGED
+component-library,Action Required: Configure CodeQL,https://github.com/department-of-veterans-affairs/component-library/pull/710,2023-06-04T13:41:54Z,2024-01-26T07:19:54Z,0,4,CLOSED
+component-library,va-checkbox: Fix hover cursor display and checkbox background color,https://github.com/department-of-veterans-affairs/component-library/pull/709,2023-06-01T19:38:55Z,2023-06-02T14:39:21Z,1,5,MERGED
+component-library,Add width option to va-number-input,https://github.com/department-of-veterans-affairs/component-library/pull/708,2023-06-01T17:19:39Z,2023-06-05T13:48:36Z,0,2,MERGED
+component-library,v3 memorable-date: fix bugs with responsiveness,https://github.com/department-of-veterans-affairs/component-library/pull/780,2023-07-31T21:10:51Z,2023-08-01T17:09:41Z,4,8,MERGED
+component-library,add formation overrides import to icon sass,https://github.com/department-of-veterans-affairs/component-library/pull/779,2023-07-31T19:04:15Z,2023-08-01T15:04:18Z,0,5,MERGED
+component-library,va-memorable-date: Fix hint text not reading for screen readers (uswds variation),https://github.com/department-of-veterans-affairs/component-library/pull/774,2023-07-28T16:57:19Z,2023-08-01T13:40:23Z,1,8,MERGED
+component-library,add va-icon component to library,https://github.com/department-of-veterans-affairs/component-library/pull/772,2023-07-26T21:02:24Z,2023-07-31T18:39:21Z,9,13,MERGED
+component-library,va-button - add alternate (green) version to primary button,https://github.com/department-of-veterans-affairs/component-library/pull/771,2023-07-26T19:56:06Z,2023-07-27T21:51:43Z,4,4,MERGED
+component-library,Add uswds va-process-list,https://github.com/department-of-veterans-affairs/component-library/pull/770,2023-07-26T19:53:53Z,2023-08-01T19:45:49Z,19,34,MERGED
+component-library,"va-checkbox, va-radio - override .usa white background color to be transparent",https://github.com/department-of-veterans-affairs/component-library/pull/767,2023-07-24T21:32:28Z,2023-07-25T18:57:48Z,1,2,MERGED
+component-library,Add charcount prop to va-text-input and va-textarea USWDS variations,https://github.com/department-of-veterans-affairs/component-library/pull/763,2023-07-21T14:31:29Z,2023-07-28T21:30:15Z,9,14,MERGED
+component-library,va-modal: Add button click analytics,https://github.com/department-of-veterans-affairs/component-library/pull/760,2023-07-20T18:12:54Z,2023-07-21T20:05:43Z,0,6,MERGED
+component-library,Update core to v17.0.1 for release,https://github.com/department-of-veterans-affairs/component-library/pull/758,2023-07-19T15:41:14Z,2023-07-19T16:21:31Z,0,1,MERGED
+component-library,feat: added v3 breadcrumb variation,https://github.com/department-of-veterans-affairs/component-library/pull/757,2023-07-18T23:01:10Z,2023-08-11T19:10:35Z,4,5,CLOSED
+component-library,va-notification - add dateTime prop,https://github.com/department-of-veterans-affairs/component-library/pull/755,2023-07-18T15:57:16Z,2023-07-18T22:47:05Z,1,8,MERGED
+component-library,va-memorable-date: Fix days of month calculation,https://github.com/department-of-veterans-affairs/component-library/pull/750,2023-07-13T17:47:40Z,2023-07-17T15:26:17Z,1,3,MERGED
+component-library,va-memorable-date: Fix clearing error message bug,https://github.com/department-of-veterans-affairs/component-library/pull/749,2023-07-13T16:18:31Z,2023-07-17T20:14:44Z,3,8,MERGED
+component-library,[POC] va-breadcrumb uswds shadow dom false example,https://github.com/department-of-veterans-affairs/component-library/pull/748,2023-07-12T20:01:28Z,2023-08-17T21:11:45Z,0,2,CLOSED
+component-library,va-back-to-top: Change button to anchor link,https://github.com/department-of-veterans-affairs/component-library/pull/746,2023-07-11T19:21:53Z,2023-07-18T13:57:44Z,4,12,MERGED
+component-library,Update styles to fix buttons from overflowing on modals (non-uswds),https://github.com/department-of-veterans-affairs/component-library/pull/743,2023-07-07T21:35:22Z,2023-07-14T20:15:22Z,2,7,MERGED
+component-library,Maint. Banner staging review changes,https://github.com/department-of-veterans-affairs/component-library/pull/742,2023-07-07T19:38:51Z,2023-07-13T17:52:18Z,1,5,MERGED
+component-library,va-alert Storybook: Remove action link and add button for sign-in prompt,https://github.com/department-of-veterans-affairs/component-library/pull/739,2023-07-06T17:28:25Z,2023-07-06T20:32:28Z,0,2,MERGED
+component-library,sync margin top of checkbox-group with uswds,https://github.com/department-of-veterans-affairs/component-library/pull/737,2023-07-05T17:30:34Z,2023-07-05T18:33:22Z,0,2,MERGED
+component-library,sync va-radio margin top with uswds,https://github.com/department-of-veterans-affairs/component-library/pull/736,2023-07-03T22:05:49Z,2023-07-05T18:22:59Z,0,2,MERGED
+component-library,sync va-memorable-date top margin with uswds,https://github.com/department-of-veterans-affairs/component-library/pull/735,2023-07-03T21:18:58Z,2023-07-05T18:15:35Z,0,2,MERGED
+component-library,va-accordion: Load correct font family for expand/collapse,https://github.com/department-of-veterans-affairs/component-library/pull/827,2023-08-31T14:56:46Z,2023-08-31T17:43:02Z,0,4,MERGED
+component-library,1788 modals not sizing,https://github.com/department-of-veterans-affairs/component-library/pull/824,2023-08-30T20:33:05Z,2023-08-31T15:48:28Z,0,3,MERGED
+component-library,Update Colors based on feedback,https://github.com/department-of-veterans-affairs/component-library/pull/818,2023-08-25T21:25:05Z,2023-08-29T20:26:20Z,2,4,MERGED
+component-library,va-checkbox | Add description id to aria-describedby,https://github.com/department-of-veterans-affairs/component-library/pull/817,2023-08-25T20:35:12Z,2023-08-29T21:18:10Z,1,5,MERGED
+component-library,va-memorable-date: Update month input width,https://github.com/department-of-veterans-affairs/component-library/pull/816,2023-08-25T16:44:42Z,2023-08-29T20:51:55Z,3,11,MERGED
+component-library,va-accordion: change line-height to 1.15,https://github.com/department-of-veterans-affairs/component-library/pull/815,2023-08-25T16:44:19Z,2023-08-25T17:40:20Z,0,2,MERGED
+component-library,harmonize size of va-memorable-date  v3 month input to sketch design ,https://github.com/department-of-veterans-affairs/component-library/pull/813,2023-08-25T14:40:05Z,2023-08-25T16:27:43Z,2,5,CLOSED
+component-library,Removed IconUser React component,https://github.com/department-of-veterans-affairs/component-library/pull/812,2023-08-25T13:29:53Z,2023-08-29T17:36:31Z,2,6,MERGED
+component-library,add back inputmode prop to va-number-input and adjust tests and stories,https://github.com/department-of-veterans-affairs/component-library/pull/811,2023-08-23T20:09:08Z,2023-08-23T20:38:23Z,0,2,MERGED
+component-library,Introducing a new script to copy USWDS tokens,https://github.com/department-of-veterans-affairs/component-library/pull/810,2023-08-23T15:10:18Z,2023-08-28T15:42:54Z,3,4,MERGED
+component-library,va-memorable-date & va-text-input: Remove unnecessary input message ,https://github.com/department-of-veterans-affairs/component-library/pull/806,2023-08-18T16:38:27Z,2023-08-22T18:10:34Z,3,5,MERGED
+component-library,Figma colors token,https://github.com/department-of-veterans-affairs/component-library/pull/802,2023-08-17T18:31:02Z,2023-08-21T15:23:45Z,3,13,MERGED
+component-library,Fix spelling in README,https://github.com/department-of-veterans-affairs/component-library/pull/800,2023-08-17T12:04:58Z,2023-08-17T15:11:10Z,0,1,MERGED
+component-library,va-textarea | Fix error span id & add tests,https://github.com/department-of-veterans-affairs/component-library/pull/799,2023-08-16T17:12:44Z,2023-08-17T19:22:46Z,3,4,MERGED
+component-library,memorable-date: storybook story custom validation safari bug,https://github.com/department-of-veterans-affairs/component-library/pull/797,2023-08-15T15:19:00Z,2023-08-15T20:02:54Z,1,3,MERGED
+component-library,add va-pagination uswds,https://github.com/department-of-veterans-affairs/component-library/pull/794,2023-08-14T18:32:17Z,2023-08-22T15:06:57Z,15,20,MERGED
+component-library,"memorable-date - Fix date validation messages, focus invalid fields (NVDA/screen reader bug)",https://github.com/department-of-veterans-affairs/component-library/pull/791,2023-08-08T20:27:52Z,2023-08-10T14:32:48Z,1,6,MERGED
+component-library,va-pagination: Add optional chaining to activeElement blur,https://github.com/department-of-veterans-affairs/component-library/pull/790,2023-08-08T15:25:45Z,2023-08-09T19:28:11Z,1,2,MERGED
+component-library,fix: only add margin for when additional info is open,https://github.com/department-of-veterans-affairs/component-library/pull/789,2023-08-07T18:16:43Z,2023-08-07T20:46:21Z,0,2,MERGED
+component-library,"va-text-input, va-number-input, va-textarea: Hint text a11y updates and add message-aria-describedby",https://github.com/department-of-veterans-affairs/component-library/pull/788,2023-08-07T14:07:43Z,2023-08-15T19:19:38Z,5,11,MERGED
+component-library,(bug): make html header tag lowercase,https://github.com/department-of-veterans-affairs/component-library/pull/785,2023-08-04T16:13:44Z,2023-08-04T17:46:42Z,0,3,MERGED
+component-library,va-notification (bug): make html header tag lowercase,https://github.com/department-of-veterans-affairs/component-library/pull/784,2023-08-03T21:52:12Z,2023-08-04T16:10:28Z,0,2,CLOSED
+component-library,va-memorable-date: Fix input alignment ,https://github.com/department-of-veterans-affairs/component-library/pull/783,2023-08-02T20:05:13Z,2023-08-03T15:24:19Z,0,3,MERGED
+component-library,va-modal: require modalTitle,https://github.com/department-of-veterans-affairs/component-library/pull/880,2023-09-29T20:06:24Z,2023-10-05T15:14:56Z,3,2,CLOSED
+component-library,va-memorable-date: Update error message,https://github.com/department-of-veterans-affairs/component-library/pull/878,2023-09-28T16:35:05Z,2023-10-05T16:20:48Z,4,3,MERGED
+component-library,"va-modal: button widths, margin bug fix, storybook copy, title font family",https://github.com/department-of-veterans-affairs/component-library/pull/877,2023-09-28T15:43:22Z,2023-09-28T21:17:56Z,3,4,MERGED
+component-library,Github action to disallow zenhub links in PR descriptions,https://github.com/department-of-veterans-affairs/component-library/pull/875,2023-09-27T15:26:47Z,2023-09-28T13:53:37Z,1,8,MERGED
+component-library,Remove Telephone React folder from package,https://github.com/department-of-veterans-affairs/component-library/pull/873,2023-09-26T20:06:34Z,2023-09-27T14:57:07Z,1,2,MERGED
+component-library,Remove Telephone React folder from package,https://github.com/department-of-veterans-affairs/component-library/pull/872,2023-09-26T19:59:00Z,2023-09-26T20:05:06Z,0,3,CLOSED
+component-library,va-memorable-date: Default version set to month select,https://github.com/department-of-veterans-affairs/component-library/pull/869,2023-09-26T14:23:21Z,2023-09-26T20:58:48Z,10,8,MERGED
+component-library,va-radio: Add aria-describedby to header,https://github.com/department-of-veterans-affairs/component-library/pull/866,2023-09-25T16:48:29Z,2023-09-27T21:17:25Z,2,7,MERGED
+component-library,Breadcrumb component - fixed left padding for v1,https://github.com/department-of-veterans-affairs/component-library/pull/861,2023-09-21T21:59:03Z,2023-09-25T19:28:37Z,3,4,MERGED
+component-library,"va-radio, va-radio-option: Screen reader and keyboard navigation updates",https://github.com/department-of-veterans-affairs/component-library/pull/860,2023-09-20T21:11:46Z,2023-09-22T15:07:42Z,2,5,MERGED
+component-library,2011 - Memorable Date monthSelect prop true by default,https://github.com/department-of-veterans-affairs/component-library/pull/857,2023-09-19T18:30:15Z,2023-09-26T14:21:12Z,2,8,CLOSED
+component-library,va-number-input: 2052 default number validation message,https://github.com/department-of-veterans-affairs/component-library/pull/856,2023-09-19T17:09:59Z,2023-09-22T16:11:09Z,5,9,MERGED
+component-library,Remove empty mobile github workflows,https://github.com/department-of-veterans-affairs/component-library/pull/852,2023-09-15T14:42:31Z,2023-09-15T16:57:39Z,1,2,MERGED
+component-library,va-telephone: Change extension prop from number to string type,https://github.com/department-of-veterans-affairs/component-library/pull/851,2023-09-14T21:38:52Z,2023-09-19T15:33:13Z,4,4,MERGED
+component-library,va-statment-of-truth: add component to Design System,https://github.com/department-of-veterans-affairs/component-library/pull/850,2023-09-14T19:46:34Z,2023-09-22T20:16:01Z,11,10,MERGED
+component-library,1884 continue back button bug fix,https://github.com/department-of-veterans-affairs/component-library/pull/848,2023-09-14T15:24:22Z,2023-09-20T15:35:27Z,6,7,MERGED
+component-library,fix: reordered dom button order on mobile view,https://github.com/department-of-veterans-affairs/component-library/pull/847,2023-09-14T14:51:29Z,2023-09-14T15:24:34Z,1,2,CLOSED
+component-library,Add Minimal header component,https://github.com/department-of-veterans-affairs/component-library/pull/846,2023-09-14T14:20:24Z,2023-10-20T20:03:23Z,45,36,MERGED
+component-library,Add label-header-level to number input,https://github.com/department-of-veterans-affairs/component-library/pull/845,2023-09-13T20:45:25Z,2023-09-14T15:32:50Z,2,1,CLOSED
+component-library,Add label-header-level to textarea,https://github.com/department-of-veterans-affairs/component-library/pull/844,2023-09-13T15:25:59Z,2023-09-14T15:32:41Z,1,1,CLOSED
+component-library,Add label-header-level to text input,https://github.com/department-of-veterans-affairs/component-library/pull/843,2023-09-13T13:23:29Z,2023-09-14T15:32:35Z,1,5,CLOSED
+component-library,Add label-header-level to checkbox group,https://github.com/department-of-veterans-affairs/component-library/pull/842,2023-09-12T19:35:46Z,2023-09-13T00:11:54Z,0,2,MERGED
+component-library,storybook - update buttons in uswds stories to use uswds va-button,https://github.com/department-of-veterans-affairs/component-library/pull/841,2023-09-12T17:19:56Z,2023-09-13T15:49:02Z,1,5,MERGED
+component-library,61627 mem date selective errors,https://github.com/department-of-veterans-affairs/component-library/pull/840,2023-09-12T15:01:59Z,2023-09-12T19:00:22Z,1,4,MERGED
+component-library,va-radio: increase legend width to 480px,https://github.com/department-of-veterans-affairs/component-library/pull/830,2023-09-05T21:57:47Z,2023-09-06T21:10:37Z,0,3,MERGED
+component-library,va-alert: force status to be defined,https://github.com/department-of-veterans-affairs/component-library/pull/932,2023-10-30T17:20:40Z,2023-10-31T15:15:41Z,3,5,MERGED
+component-library,Mc 2517 sql query update,https://github.com/department-of-veterans-affairs/component-library/pull/927,2023-10-27T17:07:40Z,2023-10-30T16:16:04Z,4,5,MERGED
+component-library,va-process-list: accessibility updates (staging review),https://github.com/department-of-veterans-affairs/component-library/pull/924,2023-10-25T15:58:53Z,2023-10-27T16:18:13Z,2,4,MERGED
+component-library,2195 - Update memorable-date validation,https://github.com/department-of-veterans-affairs/component-library/pull/922,2023-10-19T20:51:43Z,2023-11-01T15:21:00Z,2,4,MERGED
+component-library,Build index.d.ts files,https://github.com/department-of-veterans-affairs/component-library/pull/921,2023-10-18T20:31:03Z,2023-10-23T16:09:47Z,7,8,MERGED
+component-library,va-pagination: add box-sizing to pagination items and overflow,https://github.com/department-of-veterans-affairs/component-library/pull/912,2023-10-17T14:49:00Z,2023-10-18T15:07:25Z,0,6,MERGED
+component-library,update search script to support uswds query,https://github.com/department-of-veterans-affairs/component-library/pull/910,2023-10-13T18:47:35Z,2023-10-18T22:31:39Z,4,4,MERGED
+component-library,va-pagination: Change 3 period characters to ellipses character,https://github.com/department-of-veterans-affairs/component-library/pull/909,2023-10-12T20:44:03Z,2023-10-17T20:53:49Z,0,5,MERGED
+component-library,Add back the contacts file to the React components package,https://github.com/department-of-veterans-affairs/component-library/pull/907,2023-10-12T15:09:23Z,2023-10-12T16:14:07Z,1,2,MERGED
+component-library,Rollback memorable date,https://github.com/department-of-veterans-affairs/component-library/pull/904,2023-10-11T18:41:38Z,2023-10-11T19:48:34Z,1,2,MERGED
+component-library,va-icon: Remove assetsDirs setting,https://github.com/department-of-veterans-affairs/component-library/pull/896,2023-10-10T15:12:48Z,2023-10-10T18:50:48Z,1,4,MERGED
+component-library,va-progress-list: Forward the USWDS settings to load Source Sans Pro,https://github.com/department-of-veterans-affairs/component-library/pull/895,2023-10-09T21:03:44Z,2023-10-09T22:02:43Z,0,3,MERGED
+component-library,va-button-pair: remove css that changes the order of the buttons in mobile,https://github.com/department-of-veterans-affairs/component-library/pull/893,2023-10-09T16:17:09Z,2023-10-09T20:52:27Z,0,3,MERGED
+component-library,va-memorable-date: Conditionally display name prop value,https://github.com/department-of-veterans-affairs/component-library/pull/892,2023-10-09T15:55:17Z,2023-10-10T17:52:32Z,0,4,MERGED
+component-library,va-memorable-date: update validation behavior,https://github.com/department-of-veterans-affairs/component-library/pull/885,2023-10-03T20:19:34Z,2023-10-10T19:12:43Z,2,6,MERGED
+component-library,va-breadcrumb: make current page a link to #content,https://github.com/department-of-veterans-affairs/component-library/pull/884,2023-10-02T21:01:16Z,2023-10-05T15:00:16Z,3,10,MERGED
+component-library,va-radio: Fix alignment & add Datadog privacy class to description,https://github.com/department-of-veterans-affairs/component-library/pull/883,2023-10-02T18:38:17Z,2023-10-03T14:14:36Z,2,6,MERGED
+component-library,va-checkbox-group: make legend font match design spec,https://github.com/department-of-veterans-affairs/component-library/pull/969,2023-11-30T22:16:22Z,2023-12-01T16:06:22Z,0,2,MERGED
+component-library,Button-Pair: spacing issue,https://github.com/department-of-veterans-affairs/component-library/pull/965,2023-11-28T20:13:24Z,2023-12-01T16:25:08Z,3,5,MERGED
+component-library,va-on-this-page: Fix left margin alignment,https://github.com/department-of-veterans-affairs/component-library/pull/957,2023-11-21T17:29:06Z,2023-11-21T18:45:44Z,0,2,MERGED
+component-library,Add v3 va-featured-content component,https://github.com/department-of-veterans-affairs/component-library/pull/956,2023-11-21T16:25:25Z,2023-12-05T20:36:01Z,7,9,MERGED
+component-library,va-statement-of-truth: update storybook width display,https://github.com/department-of-veterans-affairs/component-library/pull/955,2023-11-20T20:01:32Z,2023-11-21T15:16:01Z,0,1,MERGED
+component-library,va-minimal-footer: add focus outline to logo,https://github.com/department-of-veterans-affairs/component-library/pull/954,2023-11-20T17:22:24Z,2023-11-21T19:36:16Z,0,4,MERGED
+component-library,#2239 remove banner landmark from promo banner,https://github.com/department-of-veterans-affairs/component-library/pull/949,2023-11-15T19:11:04Z,2023-11-16T17:31:00Z,2,7,MERGED
+component-library,va-search-input: add USWDS v3 variation,https://github.com/department-of-veterans-affairs/component-library/pull/947,2023-11-13T21:00:56Z,2023-11-16T15:13:11Z,9,10,MERGED
+component-library,update web-components to use variables from css-library,https://github.com/department-of-veterans-affairs/component-library/pull/945,2023-11-13T00:46:22Z,2023-11-15T21:44:47Z,6,8,MERGED
+component-library,"va-modal - font, icon, and responsiveness updates for USWDS v3 variation",https://github.com/department-of-veterans-affairs/component-library/pull/943,2023-11-10T17:20:03Z,2023-11-13T14:44:20Z,2,4,MERGED
+component-library,va-notification: mark component for deprecation,https://github.com/department-of-veterans-affairs/component-library/pull/941,2023-11-09T19:39:23Z,2023-11-09T20:11:04Z,0,2,MERGED
+component-library,"A11y improvements for va-crisis-line-modal, va-minimal-header, va-modal",https://github.com/department-of-veterans-affairs/component-library/pull/940,2023-11-08T20:17:45Z,2023-11-15T19:10:41Z,2,5,MERGED
+component-library,va-minimal-header: add alt attribute to img,https://github.com/department-of-veterans-affairs/component-library/pull/938,2023-11-07T16:34:31Z,2023-11-08T21:46:49Z,1,2,MERGED
+component-library,Va-minimal-footer: add component,https://github.com/department-of-veterans-affairs/component-library/pull/937,2023-11-06T16:17:06Z,2023-11-15T13:29:18Z,12,17,MERGED
+component-library,va-radio-option: Add datadog action name,https://github.com/department-of-veterans-affairs/component-library/pull/936,2023-11-06T13:22:31Z,2023-11-06T21:55:55Z,0,1,MERGED
+component-library,va-minimal-header: Add banner role,https://github.com/department-of-veterans-affairs/component-library/pull/934,2023-11-03T14:13:01Z,2023-11-03T14:59:17Z,0,2,MERGED
+component-library,va-alert: update uswds background and border colors,https://github.com/department-of-veterans-affairs/component-library/pull/1004,2023-12-21T15:36:37Z,2023-12-21T19:35:20Z,2,3,MERGED
+component-library,2324 - component-library: update colors to USWDS v3,https://github.com/department-of-veterans-affairs/component-library/pull/1002,2023-12-20T18:36:36Z,2024-01-08T17:37:54Z,4,15,MERGED
+component-library,va-text-input & va-number-input: add new form pattern support to USWDS variations,https://github.com/department-of-veterans-affairs/component-library/pull/985,2023-12-15T18:06:23Z,2023-12-22T16:19:45Z,5,14,MERGED
+component-library,va-breadcrumbs: add support for React Router via custom event,https://github.com/department-of-veterans-affairs/component-library/pull/979,2023-12-08T21:06:53Z,2023-12-18T23:19:32Z,7,7,MERGED
+component-library,va-pagination: fix USWDS variation not showing next/previous page in list,https://github.com/department-of-veterans-affairs/component-library/pull/977,2023-12-07T16:18:58Z,2023-12-18T16:33:23Z,3,3,MERGED
+component-library,va-breadcrumbs: make uswds version support React Router links,https://github.com/department-of-veterans-affairs/component-library/pull/976,2023-12-06T16:45:15Z,2023-12-12T19:41:11Z,5,1,CLOSED
+component-library,Update primary blues in CSS Library,https://github.com/department-of-veterans-affairs/component-library/pull/974,2023-12-04T22:02:22Z,2023-12-05T20:16:23Z,13,12,MERGED
+component-library,va-official-gov-banner: Fix for medium screens wrapping wrongly,https://github.com/department-of-veterans-affairs/component-library/pull/973,2023-12-04T16:33:50Z,2023-12-05T19:10:52Z,0,3,MERGED
+component-library,va-telephone: add prop for passing a string to aria-describedby,https://github.com/department-of-veterans-affairs/component-library/pull/970,2023-12-01T18:00:42Z,2023-12-04T20:15:39Z,2,9,MERGED
+component-library,CSS Library: Add breakpoints,https://github.com/department-of-veterans-affairs/component-library/pull/1042,2024-01-30T18:05:12Z,2024-02-01T20:41:49Z,1,6,MERGED
+component-library,va-radio: set display to block for .usa-hint class,https://github.com/department-of-veterans-affairs/component-library/pull/1040,2024-01-30T17:53:09Z,2024-01-30T20:42:05Z,1,4,MERGED
+component-library,V3 Colors: add missing colors to css variable exports,https://github.com/department-of-veterans-affairs/component-library/pull/1039,2024-01-29T20:58:24Z,2024-01-30T21:01:33Z,1,11,MERGED
+component-library,va-header-minimal: Update Storybook Link and Rename va-header-minimal Component,https://github.com/department-of-veterans-affairs/component-library/pull/1037,2024-01-24T20:47:07Z,2024-01-30T16:16:20Z,1,3,MERGED
+component-library,va-alert: remove background only variation for USWDS v3,https://github.com/department-of-veterans-affairs/component-library/pull/1035,2024-01-19T22:49:41Z,2024-01-23T20:52:27Z,0,8,MERGED
+component-library,va-checkbox-group: add new form pattern support,https://github.com/department-of-veterans-affairs/component-library/pull/1034,2024-01-19T22:25:31Z,2024-01-23T00:24:37Z,0,5,MERGED
+component-library,va-alert: fix close button position on full-width,https://github.com/department-of-veterans-affairs/component-library/pull/1033,2024-01-19T20:29:25Z,2024-01-23T16:35:09Z,0,3,MERGED
+component-library,va-card: add prop to display a gray background,https://github.com/department-of-veterans-affairs/component-library/pull/1029,2024-01-18T18:42:25Z,2024-01-19T17:09:50Z,6,6,MERGED
+component-library,Update references for testing single components in readme,https://github.com/department-of-veterans-affairs/component-library/pull/1026,2024-01-17T16:45:18Z,2024-01-17T20:34:38Z,0,2,MERGED
+component-library,update formation@10.1.2,https://github.com/department-of-veterans-affairs/component-library/pull/1023,2024-01-16T18:15:21Z,2024-01-16T20:38:55Z,0,2,MERGED
+component-library,va-banner: Set data-role to 'region' and create property data-label to set aria-label on first div child of nested va-alert,https://github.com/department-of-veterans-affairs/component-library/pull/1020,2024-01-13T00:17:35Z,2024-01-17T19:24:46Z,11,17,MERGED
+component-library,va-file-input: Adding a V3-compatible (USWDS) version,https://github.com/department-of-veterans-affairs/component-library/pull/1017,2024-01-11T19:14:10Z,2024-01-24T15:37:05Z,19,27,MERGED
+component-library,va-memorable-date: make month default to input instead of select,https://github.com/department-of-veterans-affairs/component-library/pull/1014,2024-01-10T23:21:46Z,2024-01-12T21:02:58Z,2,7,MERGED
+component-library,va-memorable-date: add new form pattern support,https://github.com/department-of-veterans-affairs/component-library/pull/1013,2024-01-10T18:40:42Z,2024-01-12T14:52:12Z,1,5,MERGED
+component-library,va-featured-content: Add ARIA label to featured content region,https://github.com/department-of-veterans-affairs/component-library/pull/1011,2024-01-09T16:27:25Z,2024-01-11T16:37:34Z,2,6,MERGED
+component-library,va-radio: add new form pattern support,https://github.com/department-of-veterans-affairs/component-library/pull/1009,2024-01-05T16:35:24Z,2024-01-24T16:34:38Z,6,15,MERGED
+component-library,va-textarea: add new form pattern support,https://github.com/department-of-veterans-affairs/component-library/pull/1008,2024-01-04T18:38:15Z,2024-01-09T19:09:32Z,3,5,MERGED
+component-library,va-checkbox: Add error message styling,https://github.com/department-of-veterans-affairs/component-library/pull/1007,2024-01-03T16:01:32Z,2024-01-03T16:28:58Z,5,1,MERGED
+component-library,Upgrade USWDS@3.7.1,https://github.com/department-of-veterans-affairs/component-library/pull/1070,2024-02-27T21:09:06Z,2024-03-05T17:01:41Z,5,3,MERGED
+component-library,va-icon & va-pagination: updates image resource path,https://github.com/department-of-veterans-affairs/component-library/pull/1067,2024-02-23T18:05:32Z,2024-02-28T15:46:04Z,2,7,MERGED
+component-library,"va-breadcrumbs: first breadcrumb label defaults to ""VA.gov home""",https://github.com/department-of-veterans-affairs/component-library/pull/1066,2024-02-22T15:49:47Z,2024-02-27T15:35:49Z,3,6,MERGED
+component-library,Forms Pattern - update to make headings serif font,https://github.com/department-of-veterans-affairs/component-library/pull/1064,2024-02-21T18:52:02Z,2024-02-22T22:44:26Z,4,4,MERGED
+component-library,"va-pagination: remove active button background color, override overflow opacity",https://github.com/department-of-veterans-affairs/component-library/pull/1060,2024-02-16T21:06:13Z,2024-02-20T15:50:09Z,1,3,MERGED
+component-library,"va-file-input: Add focus border, fix input alignment, and update error state",https://github.com/department-of-veterans-affairs/component-library/pull/1059,2024-02-16T20:37:46Z,2024-02-20T20:41:03Z,7,7,MERGED
+component-library,va-button: adding independent chevron icon prop [WIP],https://github.com/department-of-veterans-affairs/component-library/pull/1058,2024-02-15T17:32:11Z,2024-09-12T22:47:20Z,2,2,CLOSED
+component-library,va-modal: fix icon positioning bug,https://github.com/department-of-veterans-affairs/component-library/pull/1057,2024-02-14T15:58:24Z,2024-02-15T18:07:08Z,1,5,MERGED
+component-library,va-radio: Show label and required for all forms pattern options,https://github.com/department-of-veterans-affairs/component-library/pull/1056,2024-02-14T15:47:30Z,2024-02-15T17:57:23Z,1,6,MERGED
+component-library,Rename va-featured-content to va-summary-box,https://github.com/department-of-veterans-affairs/component-library/pull/1054,2024-02-12T20:09:49Z,2024-02-13T16:25:28Z,0,2,MERGED
+component-library,Fix va-radio uswds v3 overlap,https://github.com/department-of-veterans-affairs/component-library/pull/1053,2024-02-12T15:24:02Z,2024-02-14T17:25:19Z,0,4,MERGED
+component-library,va-text-input: require  prop to enable character count,https://github.com/department-of-veterans-affairs/component-library/pull/1049,2024-02-05T19:56:01Z,2024-02-08T20:56:26Z,5,4,MERGED
+component-library,Update core version for release - v36.0.0,https://github.com/department-of-veterans-affairs/component-library/pull/1048,2024-02-05T17:11:54Z,2024-02-05T18:27:01Z,1,1,MERGED
+component-library,Storybook: fix sidebar maturity indicators,https://github.com/department-of-veterans-affairs/component-library/pull/1103,2024-03-29T15:40:52Z,2024-03-29T18:20:23Z,0,2,MERGED
+component-library,Storybook: Move VA specific components in the sidebar,https://github.com/department-of-veterans-affairs/component-library/pull/1099,2024-03-28T17:14:40Z,2024-03-28T22:27:47Z,0,2,MERGED
+component-library,va-accordion: add part attribute to header and content,https://github.com/department-of-veterans-affairs/component-library/pull/1098,2024-03-28T16:32:29Z,2024-03-28T19:43:49Z,2,4,MERGED
+component-library,Adjustments for Formation base font-size change,https://github.com/department-of-veterans-affairs/component-library/pull/1096,2024-03-27T19:49:20Z,2024-05-17T14:44:05Z,9,80,MERGED
+component-library,Multiple Components: Removing Font Awesome icons in favor of va-icon,https://github.com/department-of-veterans-affairs/component-library/pull/1095,2024-03-26T15:12:57Z,2024-04-10T15:57:14Z,3,20,CLOSED
+component-library,Add css-library label to release notes,https://github.com/department-of-veterans-affairs/component-library/pull/1091,2024-03-19T14:56:38Z,2024-03-19T16:15:39Z,0,1,MERGED
+component-library,2564 - Updating comp-usage script to account for V3 as default,https://github.com/department-of-veterans-affairs/component-library/pull/1090,2024-03-19T14:55:37Z,2024-03-20T16:07:41Z,0,2,MERGED
+component-library,va-header-minimal: add optional headings,https://github.com/department-of-veterans-affairs/component-library/pull/1084,2024-03-12T15:30:14Z,2024-03-12T18:17:12Z,1,4,MERGED
+component-library,va-accordion: remove Font Awesome icon override,https://github.com/department-of-veterans-affairs/component-library/pull/1083,2024-03-12T14:56:57Z,2024-03-12T17:19:39Z,3,2,MERGED
+component-library,va-radio-option: revert z-index and add Formation style overrides for USWDS,https://github.com/department-of-veterans-affairs/component-library/pull/1075,2024-03-06T15:15:28Z,2024-03-06T16:01:47Z,2,3,MERGED
+component-library,va-icon & va-button: fix alignment issue generally and in buttons that use icons specifically,https://github.com/department-of-veterans-affairs/component-library/pull/1140,2024-04-30T18:57:34Z,2024-05-01T17:00:44Z,8,6,MERGED
+component-library,Add disable prop to va-select,https://github.com/department-of-veterans-affairs/component-library/pull/1138,2024-04-26T18:19:51Z,2024-04-26T19:27:18Z,1,1,CLOSED
+component-library,"Fix to va-icon position for va-alert ""continue"" status",https://github.com/department-of-veterans-affairs/component-library/pull/1133,2024-04-25T17:41:28Z,2024-04-25T20:00:34Z,0,8,MERGED
+component-library,va-button-icon: Adding new va-button-icon component,https://github.com/department-of-veterans-affairs/component-library/pull/1131,2024-04-22T18:48:05Z,2024-04-23T15:50:23Z,9,9,MERGED
+component-library,CSS Library: Fix build issues,https://github.com/department-of-veterans-affairs/component-library/pull/1123,2024-04-18T16:54:08Z,2024-04-18T17:18:53Z,1,3,MERGED
+component-library,va-table: add uswds borderless table variant,https://github.com/department-of-veterans-affairs/component-library/pull/1115,2024-04-11T20:13:22Z,2024-04-29T17:48:11Z,10,9,CLOSED
+component-library,Multiple Components: Removing Font Awesome icons in favor of va-icon in V3 Components,https://github.com/department-of-veterans-affairs/component-library/pull/1112,2024-04-10T16:11:22Z,2024-04-24T15:36:27Z,3,27,MERGED
+component-library,Multiple Components: Removing Font Awesome icons in favor of va-icon in USWDS V3 components,https://github.com/department-of-veterans-affairs/component-library/pull/1111,2024-04-10T15:59:17Z,2024-04-10T16:11:47Z,1,20,CLOSED
+component-library,Add pre-commit script for checking branch name,https://github.com/department-of-veterans-affairs/component-library/pull/1106,2024-04-03T21:47:30Z,2024-04-05T14:55:10Z,1,5,MERGED
+component-library,va-select: Add aria-describedby-message for screen readers,https://github.com/department-of-veterans-affairs/component-library/pull/1105,2024-04-02T18:58:33Z,2024-04-03T19:42:27Z,5,3,MERGED
+component-library,add yarn install to publish workflow for css-library,https://github.com/department-of-veterans-affairs/component-library/pull/1171,2024-05-31T12:16:59Z,2024-05-31T17:36:39Z,1,3,MERGED
+component-library,va-file-input: handle drag-and-drop restricting files,https://github.com/department-of-veterans-affairs/component-library/pull/1168,2024-05-28T21:34:49Z,2024-05-31T15:05:09Z,2,9,MERGED
+component-library,CSS Library: add USWDS typography stylesheet for Source Sans Pro content,https://github.com/department-of-veterans-affairs/component-library/pull/1166,2024-05-28T18:58:25Z,2024-05-30T18:14:12Z,7,13,MERGED
+component-library,CSS Library: move headings to own stylesheet,https://github.com/department-of-veterans-affairs/component-library/pull/1164,2024-05-24T22:14:13Z,2024-05-28T14:57:53Z,0,9,MERGED
+component-library,va-file-input: text wrapping,https://github.com/department-of-veterans-affairs/component-library/pull/1162,2024-05-23T20:15:13Z,2024-05-30T18:07:16Z,0,3,MERGED
+component-library,va-text-input: address validation bug for currency / valid range,https://github.com/department-of-veterans-affairs/component-library/pull/1158,2024-05-22T20:07:39Z,2024-05-22T21:02:43Z,0,1,MERGED
+component-library,va-button-icon: color contrast updates for destructive button,https://github.com/department-of-veterans-affairs/component-library/pull/1156,2024-05-22T15:07:30Z,2024-05-23T17:31:03Z,1,5,MERGED
+component-library,va-icon: Adding Pill icon to sprite sheet,https://github.com/department-of-veterans-affairs/component-library/pull/1155,2024-05-22T13:54:47Z,2024-05-22T15:48:32Z,0,2,MERGED
+component-library,va-accordion: add duplicate print media to unhide print content,https://github.com/department-of-veterans-affairs/component-library/pull/1153,2024-05-20T17:15:22Z,2024-05-20T17:28:37Z,0,1,MERGED
+component-library,Remove non-USWDS Storybook stories,https://github.com/department-of-veterans-affairs/component-library/pull/1150,2024-05-16T16:16:52Z,2024-05-16T18:53:16Z,0,4,MERGED
+component-library,va-text-input: Prevent adding invalid ID to aria-describedby,https://github.com/department-of-veterans-affairs/component-library/pull/1148,2024-05-16T15:40:19Z,2024-05-17T17:56:36Z,2,2,MERGED
+component-library,va-statment-of-truth: make event payloads easier to use,https://github.com/department-of-veterans-affairs/component-library/pull/1147,2024-05-14T20:29:58Z,2024-05-15T20:51:06Z,2,6,MERGED
+component-library,va-accordion: unhide content in print media,https://github.com/department-of-veterans-affairs/component-library/pull/1146,2024-05-14T20:08:41Z,2024-05-15T12:58:12Z,1,2,MERGED
+component-library,va-link: Add destination and origin to analytics details,https://github.com/department-of-veterans-affairs/component-library/pull/1145,2024-05-14T16:11:46Z,2024-05-15T20:01:24Z,1,6,MERGED
+component-library,2198 - switch fa for va icon,https://github.com/department-of-veterans-affairs/component-library/pull/1144,2024-05-09T17:31:08Z,2024-05-17T15:55:32Z,15,27,MERGED
+component-library,va-file-input: new design variation,https://github.com/department-of-veterans-affairs/component-library/pull/1142,2024-05-06T20:22:01Z,2024-05-23T15:18:26Z,27,26,MERGED
+component-library,va-link: add reverse color,https://github.com/department-of-veterans-affairs/component-library/pull/1141,2024-05-01T18:18:12Z,2024-05-02T18:13:18Z,0,3,MERGED
+component-library,Add override to header margin on adjacent selector,https://github.com/department-of-veterans-affairs/component-library/pull/1213,2024-06-28T17:28:37Z,2024-07-01T19:50:11Z,1,5,MERGED
+component-library,"va-memorable-date: add props to support custom error messages for day, month, or year",https://github.com/department-of-veterans-affairs/component-library/pull/1208,2024-06-26T21:19:34Z,2024-06-27T15:05:10Z,0,9,MERGED
+component-library,Dashboard-CLI: Modifying how we tabulate icons,https://github.com/department-of-veterans-affairs/component-library/pull/1207,2024-06-26T15:23:31Z,2024-06-27T14:03:29Z,0,2,MERGED
+component-library,CSS Library: Update to _core-variables.scss to change $image-path to /img,https://github.com/department-of-veterans-affairs/component-library/pull/1205,2024-06-25T16:14:49Z,2024-06-25T20:02:35Z,1,3,MERGED
+component-library,va-table: add stacked table variant,https://github.com/department-of-veterans-affairs/component-library/pull/1204,2024-06-25T14:11:57Z,2024-07-01T18:08:51Z,4,7,MERGED
+component-library,CSS Library: add linked header style,https://github.com/department-of-veterans-affairs/component-library/pull/1198,2024-06-20T19:38:05Z,2024-06-25T16:16:27Z,0,7,MERGED
+component-library,va-file-input: show modal to confirm file delete,https://github.com/department-of-veterans-affairs/component-library/pull/1192,2024-06-14T19:33:45Z,2024-06-18T18:34:03Z,3,4,MERGED
+component-library,va-additional-info: update expanding test,https://github.com/department-of-veterans-affairs/component-library/pull/1189,2024-06-12T13:46:14Z,2024-06-12T15:02:44Z,0,2,MERGED
+component-library,2643 - va-file-input-multiple,https://github.com/department-of-veterans-affairs/component-library/pull/1184,2024-06-10T19:28:54Z,2024-06-18T22:20:18Z,4,29,MERGED
+component-library,va-link: new icon variant,https://github.com/department-of-veterans-affairs/component-library/pull/1183,2024-06-10T14:20:43Z,2024-06-14T14:25:12Z,5,12,MERGED
+component-library,va-link-action: add new web component,https://github.com/department-of-veterans-affairs/component-library/pull/1177,2024-06-03T20:03:40Z,2024-06-05T21:30:26Z,6,10,MERGED
+component-library,va-date: Fix for date inputs not wrapping on smaller screen sizes,https://github.com/department-of-veterans-affairs/component-library/pull/1176,2024-06-03T18:55:38Z,2024-06-05T16:16:37Z,0,3,MERGED
+component-library,va-official-gov-banner: Remove banner landmarks,https://github.com/department-of-veterans-affairs/component-library/pull/1248,2024-07-31T13:38:11Z,2024-07-31T19:17:45Z,0,2,MERGED
+component-library,va-text-input: remove v1 code,https://github.com/department-of-veterans-affairs/component-library/pull/1247,2024-07-30T16:24:23Z,2024-08-01T17:38:58Z,1,3,MERGED
+component-library,va-breadcrumbs: padding updates,https://github.com/department-of-veterans-affairs/component-library/pull/1244,2024-07-29T20:05:51Z,2024-07-30T20:48:49Z,0,4,MERGED
+component-library,va-button | use white background on secondary hover,https://github.com/department-of-veterans-affairs/component-library/pull/1241,2024-07-26T19:00:58Z,2024-07-29T18:40:08Z,0,2,MERGED
+component-library,va-textarea: remove v1,https://github.com/department-of-veterans-affairs/component-library/pull/1240,2024-07-26T17:17:32Z,2024-08-01T17:27:54Z,4,6,MERGED
+component-library,va-text-input: add icon and suffix story,https://github.com/department-of-veterans-affairs/component-library/pull/1239,2024-07-26T15:18:12Z,2024-07-26T20:47:40Z,0,1,MERGED
+component-library,Chromatic Turbosnap: turn back on the onlyChanged flag,https://github.com/department-of-veterans-affairs/component-library/pull/1238,2024-07-25T19:15:18Z,2024-07-25T19:49:11Z,0,3,MERGED
+component-library,Update USWDS package to v3.8.1,https://github.com/department-of-veterans-affairs/component-library/pull/1237,2024-07-25T17:15:46Z,2024-07-29T14:39:45Z,1,8,MERGED
+component-library,va-accordion: replace icon with va-icon in storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1235,2024-07-23T17:36:18Z,2024-07-24T19:34:17Z,2,5,MERGED
+component-library,Storybook example improvements,https://github.com/department-of-veterans-affairs/component-library/pull/1234,2024-07-22T20:40:45Z,2024-07-22T21:30:55Z,0,4,MERGED
+component-library,va-textarea: add support for formHeadingLevel prop,https://github.com/department-of-veterans-affairs/component-library/pull/1232,2024-07-18T21:58:19Z,2024-07-24T15:09:16Z,2,7,MERGED
+component-library,"va-memorable-date: remove ""Please"" from hint text",https://github.com/department-of-veterans-affairs/component-library/pull/1230,2024-07-18T15:18:46Z,2024-07-18T16:40:40Z,2,3,MERGED
+component-library,va-file-input: add class to input labels to fix text resizing,https://github.com/department-of-veterans-affairs/component-library/pull/1229,2024-07-18T14:51:53Z,2024-07-18T16:12:18Z,0,2,MERGED
+component-library,va-file-input: update screen reader message when file is uploaded or removed,https://github.com/department-of-veterans-affairs/component-library/pull/1228,2024-07-16T20:48:37Z,2024-07-24T15:47:34Z,1,7,MERGED
+component-library,Update readme with more versioning examples ,https://github.com/department-of-veterans-affairs/component-library/pull/1224,2024-07-12T13:54:12Z,2024-07-15T14:17:25Z,0,5,MERGED
+component-library,va-link: add style inheritance to anchor element,https://github.com/department-of-veterans-affairs/component-library/pull/1222,2024-07-11T21:28:28Z,2024-07-11T21:57:33Z,1,3,MERGED
+component-library,va-alert: align error alert with other statuses,https://github.com/department-of-veterans-affairs/component-library/pull/1221,2024-07-11T13:31:36Z,2024-07-12T17:06:10Z,1,5,MERGED
+component-library,va-select: add width prop,https://github.com/department-of-veterans-affairs/component-library/pull/1308,2024-08-29T16:50:14Z,2024-08-30T15:41:17Z,4,5,MERGED
+component-library,va-link: re-add font inherit,https://github.com/department-of-veterans-affairs/component-library/pull/1307,2024-08-29T03:37:02Z,2024-08-29T15:10:40Z,0,3,MERGED
+component-library,web-components: focus outline color fixes,https://github.com/department-of-veterans-affairs/component-library/pull/1305,2024-08-27T23:08:08Z,2024-09-10T16:30:02Z,10,11,MERGED
+component-library,va-radio: add messageAriaDescribedby prop,https://github.com/department-of-veterans-affairs/component-library/pull/1303,2024-08-27T19:37:07Z,2024-08-28T17:31:08Z,1,4,MERGED
+component-library,web-components: update stencil config for custom elements,https://github.com/department-of-veterans-affairs/component-library/pull/1302,2024-08-27T04:10:07Z,2024-08-27T15:19:25Z,0,2,MERGED
+component-library,web-components: adjust i18n config,https://github.com/department-of-veterans-affairs/component-library/pull/1297,2024-08-23T22:08:40Z,2024-08-26T18:27:11Z,2,6,MERGED
+component-library,va-button-pair: add support for custom button text,https://github.com/department-of-veterans-affairs/component-library/pull/1294,2024-08-22T21:26:25Z,2024-08-26T15:51:41Z,1,8,MERGED
+component-library,va-file-input-multiple: Filter out empty file from emitted files,https://github.com/department-of-veterans-affairs/component-library/pull/1292,2024-08-21T17:41:55Z,2024-08-22T16:58:17Z,0,3,MERGED
+component-library,update web-components to always use configured instance of i18n,https://github.com/department-of-veterans-affairs/component-library/pull/1290,2024-08-21T01:26:39Z,2024-08-22T15:22:09Z,0,3,MERGED
+component-library,"va-link: add ""Back"" variant",https://github.com/department-of-veterans-affairs/component-library/pull/1288,2024-08-20T17:28:08Z,2024-08-23T12:52:18Z,0,8,MERGED
+component-library,va-icon: Adding arrow_circle_right sprite,https://github.com/department-of-veterans-affairs/component-library/pull/1285,2024-08-19T17:20:59Z,2024-08-20T14:57:27Z,0,2,MERGED
+component-library,va-link: Adding a 'back' variant,https://github.com/department-of-veterans-affairs/component-library/pull/1282,2024-08-16T13:58:34Z,2024-08-20T16:55:37Z,7,4,CLOSED
+component-library,va-text-input: add suffix icon support,https://github.com/department-of-veterans-affairs/component-library/pull/1280,2024-08-15T18:43:13Z,2024-08-15T20:48:11Z,1,3,MERGED
+component-library,va-date and va-memorable-date: fix error state display,https://github.com/department-of-veterans-affairs/component-library/pull/1279,2024-08-14T15:37:49Z,2024-08-22T20:32:28Z,1,12,MERGED
+component-library,va-file-input/va-file-input-multiple: v1 variation removal,https://github.com/department-of-veterans-affairs/component-library/pull/1277,2024-08-13T20:38:37Z,2024-08-14T17:13:41Z,1,2,MERGED
+component-library,va-process-list: v1 variation removal,https://github.com/department-of-veterans-affairs/component-library/pull/1276,2024-08-13T16:31:53Z,2024-08-13T19:31:11Z,0,2,MERGED
+component-library,va-summary-box: v1 variation code removal,https://github.com/department-of-veterans-affairs/component-library/pull/1274,2024-08-12T16:37:34Z,2024-08-13T15:08:24Z,2,3,MERGED
+component-library,va-additional-info: v1 variation removal,https://github.com/department-of-veterans-affairs/component-library/pull/1272,2024-08-09T19:47:02Z,2024-08-12T16:05:46Z,0,1,MERGED
+component-library,va-segmented-progress-bar: v1 variation code removal,https://github.com/department-of-veterans-affairs/component-library/pull/1270,2024-08-09T16:14:06Z,2024-08-09T16:36:49Z,1,3,MERGED
+component-library,va-link: add external link variation,https://github.com/department-of-veterans-affairs/component-library/pull/1269,2024-08-09T15:04:30Z,2024-08-16T19:38:40Z,13,19,MERGED
+component-library,"va-checkbox, va-checkbox-group, va-privacy-agreement: v1 variation code removal",https://github.com/department-of-veterans-affairs/component-library/pull/1264,2024-08-07T17:28:27Z,2024-08-08T19:32:05Z,0,2,MERGED
+component-library,va-date: v1 code cleanup,https://github.com/department-of-veterans-affairs/component-library/pull/1262,2024-08-06T20:27:18Z,2024-08-06T21:18:13Z,1,2,MERGED
+component-library,va-file-input: improve action button accessibility,https://github.com/department-of-veterans-affairs/component-library/pull/1261,2024-08-06T19:58:10Z,2024-08-07T15:50:54Z,0,2,MERGED
+component-library,"va-radio, va-radio-option: v1 variation code removal",https://github.com/department-of-veterans-affairs/component-library/pull/1260,2024-08-06T17:37:51Z,2024-08-06T21:10:14Z,0,1,MERGED
+component-library,va-file-input-multiple: add deleted file info to event payload,https://github.com/department-of-veterans-affairs/component-library/pull/1259,2024-08-05T22:39:02Z,2024-08-05T22:48:29Z,0,1,CLOSED
+component-library,va-select: remove v1 variation,https://github.com/department-of-veterans-affairs/component-library/pull/1258,2024-08-05T20:52:59Z,2024-08-06T16:55:38Z,1,3,MERGED
+component-library,va-text-input: add autofill Safari documentation to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1256,2024-08-05T20:37:04Z,2024-08-05T22:45:12Z,0,1,MERGED
+component-library,va-statement-of-truth: reflect error prop in va-text-input for styling,https://github.com/department-of-veterans-affairs/component-library/pull/1255,2024-08-05T18:49:32Z,2024-08-06T15:57:42Z,2,2,MERGED
+component-library,va-file-input | story: replace 'Label Header' with 'Header label',https://github.com/department-of-veterans-affairs/component-library/pull/1252,2024-08-02T19:16:13Z,2024-08-05T14:35:21Z,0,2,MERGED
+component-library,va-breadcrumb: mobile view padding fix,https://github.com/department-of-veterans-affairs/component-library/pull/1251,2024-08-02T18:01:15Z,2024-08-02T19:46:57Z,2,1,MERGED
+component-library,va-on-this-page: Rewrite to use ul instead of dl for list of links,https://github.com/department-of-veterans-affairs/component-library/pull/1346,2024-09-27T16:42:54Z,2024-10-03T16:14:22Z,4,12,MERGED
+component-library,va-textarea: Fixing it so textarea components are resizable again,https://github.com/department-of-veterans-affairs/component-library/pull/1345,2024-09-27T13:40:16Z,2024-09-30T15:44:19Z,0,1,MERGED
+component-library,va-accordion: check for open accordion items on load,https://github.com/department-of-veterans-affairs/component-library/pull/1341,2024-09-20T16:22:07Z,2024-09-20T20:00:40Z,1,2,MERGED
+component-library,va-select: add support for optgroup markup ,https://github.com/department-of-veterans-affairs/component-library/pull/1340,2024-09-19T18:39:24Z,2024-09-23T15:38:10Z,2,5,MERGED
+component-library,Issue 3286 va select support for optgroup - NEW,https://github.com/department-of-veterans-affairs/component-library/pull/1339,2024-09-19T17:55:10Z,2024-09-19T18:37:53Z,0,4,CLOSED
+component-library,Issue 3286 va select support for optgroup,https://github.com/department-of-veterans-affairs/component-library/pull/1337,2024-09-19T13:42:05Z,2024-09-19T17:52:47Z,3,4,CLOSED
+component-library,CSS Library: Add semantic color tokens,https://github.com/department-of-veterans-affairs/component-library/pull/1334,2024-09-16T18:46:19Z,2024-09-16T20:50:47Z,1,3,MERGED
+component-library,va-checkbox: Fix description slot,https://github.com/department-of-veterans-affairs/component-library/pull/1331,2024-09-11T21:00:02Z,2024-09-12T15:54:15Z,2,4,MERGED
+component-library,va-checkbox & va-radio-option: Remove option-label,https://github.com/department-of-veterans-affairs/component-library/pull/1329,2024-09-11T19:22:13Z,2024-09-12T14:52:18Z,0,3,MERGED
+component-library,va-checkbox-group: add message-aria-describedby prop,https://github.com/department-of-veterans-affairs/component-library/pull/1327,2024-09-11T18:27:28Z,2024-09-12T13:51:49Z,1,2,MERGED
+component-library,va-file-input: Focus on delete after closing modal,https://github.com/department-of-veterans-affairs/component-library/pull/1326,2024-09-11T15:55:12Z,2024-09-12T15:34:09Z,0,3,MERGED
+component-library,CSS Library: Remove progress-box padding,https://github.com/department-of-veterans-affairs/component-library/pull/1324,2024-09-10T19:21:36Z,2024-09-11T14:18:10Z,0,3,MERGED
+component-library,va-link: fix double outline on focus,https://github.com/department-of-veterans-affairs/component-library/pull/1323,2024-09-10T17:00:15Z,2024-09-11T16:39:14Z,2,4,MERGED
+component-library,va-search-input: add back type ahead dropdown style,https://github.com/department-of-veterans-affairs/component-library/pull/1316,2024-09-06T19:50:50Z,2024-09-09T15:25:08Z,0,4,MERGED
+component-library,compose va mobile team's storybook with dst storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1314,2024-09-06T15:17:06Z,2024-09-12T20:03:30Z,0,3,MERGED
+component-library,va-date/va-memorable-date: fix style issues with error state,https://github.com/department-of-veterans-affairs/component-library/pull/1313,2024-09-05T15:11:57Z,2024-09-05T20:47:09Z,0,3,MERGED
+component-library,focusable: add tabindex selector,https://github.com/department-of-veterans-affairs/component-library/pull/1380,2024-10-25T15:14:56Z,2024-10-28T17:01:32Z,0,4,MERGED
+component-library,CSS Library: style and image path updates for alert and action link modules,https://github.com/department-of-veterans-affairs/component-library/pull/1378,2024-10-25T14:13:19Z,2024-10-25T15:01:37Z,2,2,MERGED
+component-library,va-select: add import for focusable mixin,https://github.com/department-of-veterans-affairs/component-library/pull/1376,2024-10-24T19:22:56Z,2024-10-24T21:57:06Z,0,2,MERGED
+component-library,va-modal: set overflow-wrap:anywhere on modal content,https://github.com/department-of-veterans-affairs/component-library/pull/1372,2024-10-23T21:51:19Z,2024-10-25T14:24:53Z,0,6,MERGED
+component-library,CSS Library: replace FA icons for action link and alert classes,https://github.com/department-of-veterans-affairs/component-library/pull/1371,2024-10-22T16:29:02Z,2024-10-23T20:05:48Z,12,24,MERGED
+component-library,va-table: update va-table-inner to properly scope table header row to columns,https://github.com/department-of-veterans-affairs/component-library/pull/1370,2024-10-18T14:08:24Z,2024-10-24T13:17:36Z,4,4,MERGED
+component-library,Add custom message to va-file-input and update message in va-file-input-multiple,https://github.com/department-of-veterans-affairs/component-library/pull/1367,2024-10-15T20:22:00Z,2024-10-16T18:28:20Z,3,5,MERGED
+component-library,va-process-list: update status eyebrow text to uppercase,https://github.com/department-of-veterans-affairs/component-library/pull/1365,2024-10-15T19:24:24Z,2024-10-15T19:33:31Z,1,9,MERGED
+component-library,va-table: show table header for non-stacked & stacked small screen,https://github.com/department-of-veterans-affairs/component-library/pull/1364,2024-10-14T20:00:48Z,2024-10-17T19:47:01Z,2,5,MERGED
+component-library,va-accordion: open accordion when media is print,https://github.com/department-of-veterans-affairs/component-library/pull/1363,2024-10-10T15:15:04Z,2024-10-10T19:38:18Z,1,7,MERGED
+component-library,va-process-list-item: Add text to describe status,https://github.com/department-of-veterans-affairs/component-library/pull/1362,2024-10-09T19:50:31Z,2024-10-15T17:58:25Z,2,7,MERGED
+component-library,Add Prefill Pattern Components to Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1361,2024-10-08T21:42:08Z,2024-10-22T21:06:24Z,12,8,MERGED
+component-library,va-table: add sorting variation,https://github.com/department-of-veterans-affairs/component-library/pull/1358,2024-10-07T23:06:19Z,2024-10-23T14:30:09Z,20,17,MERGED
+component-library,va-modal: set box-sizing to border-box to prevent text overflow,https://github.com/department-of-veterans-affairs/component-library/pull/1357,2024-10-07T19:34:06Z,2024-10-08T17:41:27Z,0,1,MERGED
+component-library,Add Prefill Pattern Components to Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1356,2024-10-07T19:02:59Z,2024-10-08T21:39:05Z,2,4,CLOSED
+component-library,CSS Library: update font-family utility map base name,https://github.com/department-of-veterans-affairs/component-library/pull/1354,2024-10-04T19:23:52Z,2024-10-04T20:14:42Z,1,3,MERGED
+component-library,css-library: update margin auto value,https://github.com/department-of-veterans-affairs/component-library/pull/1352,2024-10-04T16:59:04Z,2024-10-04T18:58:12Z,1,1,MERGED
+component-library,va-radio: update legend color and font weight,https://github.com/department-of-veterans-affairs/component-library/pull/1350,2024-10-02T15:43:58Z,2024-10-02T20:14:34Z,0,4,CLOSED
+component-library,css-library: add functions file,https://github.com/department-of-veterans-affairs/component-library/pull/1348,2024-10-01T21:43:09Z,2024-10-02T14:42:53Z,7,3,MERGED
+component-library,va-header-minimal: default to headingless,https://github.com/department-of-veterans-affairs/component-library/pull/1347,2024-10-01T21:13:34Z,2024-10-03T14:57:13Z,1,2,MERGED
+component-library,va-alert: add full width functionality,https://github.com/department-of-veterans-affairs/component-library/pull/1421,2024-11-26T21:44:22Z,2024-12-02T20:29:35Z,3,5,MERGED
+component-library,va-table: add horizontal overflow scrolling and update screen reader button text,https://github.com/department-of-veterans-affairs/component-library/pull/1416,2024-11-20T15:23:11Z,2024-11-25T18:42:56Z,0,4,MERGED
+component-library,va-alert: Align container text to the left on large screens,https://github.com/department-of-veterans-affairs/component-library/pull/1412,2024-11-19T16:24:29Z,2024-12-18T22:21:41Z,1,1,CLOSED
+component-library,va-table: update loading lifecycle and fix Stencil axe error,https://github.com/department-of-veterans-affairs/component-library/pull/1410,2024-11-19T15:40:17Z,2024-11-19T19:27:32Z,1,3,MERGED
+component-library,va-banner: fix analytics Stencil test warnings,https://github.com/department-of-veterans-affairs/component-library/pull/1408,2024-11-18T22:35:12Z,2024-11-19T19:49:41Z,3,3,MERGED
+component-library,va-link & va-link-action: update analytics tests and lifecycle,https://github.com/department-of-veterans-affairs/component-library/pull/1407,2024-11-18T20:52:28Z,2024-11-19T19:08:39Z,1,3,MERGED
+component-library,va-additional-info & va-alert-expandable: remove slot content from Stencil axe test,https://github.com/department-of-veterans-affairs/component-library/pull/1406,2024-11-18T20:25:00Z,2024-11-19T18:49:16Z,0,3,MERGED
+component-library,va-accordion: fix Stencil test re-render warning,https://github.com/department-of-veterans-affairs/component-library/pull/1403,2024-11-18T17:24:57Z,2024-11-19T17:12:47Z,2,4,MERGED
+component-library,Add sprite svg to web-components package to resolve Stencil test loading errors,https://github.com/department-of-veterans-affairs/component-library/pull/1402,2024-11-18T17:02:13Z,2024-11-19T16:53:41Z,0,2,MERGED
+component-library,va-accordion: remove aria-controls and aria-expanded from expand all button,https://github.com/department-of-veterans-affairs/component-library/pull/1400,2024-11-14T14:56:44Z,2024-12-10T15:06:07Z,7,5,MERGED
+component-library,Update to USWDS v3.9.0,https://github.com/department-of-veterans-affairs/component-library/pull/1397,2024-11-11T21:00:55Z,2024-11-14T20:30:35Z,3,8,MERGED
+component-library,va-link: Replacing external icon with text,https://github.com/department-of-veterans-affairs/component-library/pull/1396,2024-11-11T16:40:33Z,2024-11-14T18:34:46Z,4,6,MERGED
+component-library,DOCS: Update README `Contributing` entry with Verdaccio instructions,https://github.com/department-of-veterans-affairs/component-library/pull/1395,2024-11-08T22:20:22Z,2024-11-12T21:19:54Z,5,6,MERGED
+component-library,va-telephone: Allow non-US phone numbers,https://github.com/department-of-veterans-affairs/component-library/pull/1389,2024-11-05T21:28:59Z,2024-11-07T16:17:24Z,1,5,MERGED
+component-library,"va-pagination: update list item, next, and previous link accessible labels for screen reader consistency",https://github.com/department-of-veterans-affairs/component-library/pull/1388,2024-11-04T22:17:14Z,2024-11-07T15:07:49Z,0,3,MERGED
+component-library,va-language-toggle: add component,https://github.com/department-of-veterans-affairs/component-library/pull/1386,2024-11-01T22:24:12Z,2024-11-19T16:15:33Z,7,17,MERGED
+component-library,va-file-input-multiple: update info sent back from vaMultipleChange,https://github.com/department-of-veterans-affairs/component-library/pull/1385,2024-11-01T19:15:37Z,2024-11-06T15:55:14Z,4,4,MERGED
+component-library,va-checkbox and va-radio-option: Improved a11y ,https://github.com/department-of-veterans-affairs/component-library/pull/1442,2024-12-19T16:38:07Z,2025-01-28T20:40:55Z,17,23,MERGED
+component-library,va-table: add striped variation,https://github.com/department-of-veterans-affairs/component-library/pull/1439,2024-12-16T16:16:57Z,2024-12-17T19:28:08Z,2,7,MERGED
+component-library,va-alert-sign-in: Modifying headline to use rems,https://github.com/department-of-veterans-affairs/component-library/pull/1438,2024-12-16T14:23:06Z,2024-12-16T17:58:53Z,0,1,MERGED
+component-library,va-process-list-item: move status eyebrow into header so that it gets read by screen readers,https://github.com/department-of-veterans-affairs/component-library/pull/1437,2024-12-13T17:46:51Z,2024-12-17T15:22:43Z,1,5,MERGED
+component-library,va-table: fix screen reader not announcing sort,https://github.com/department-of-veterans-affairs/component-library/pull/1433,2024-12-11T19:09:50Z,2024-12-17T20:26:05Z,2,6,MERGED
+component-library,va-table: Parse html to plain string before setting it to CSS content,https://github.com/department-of-veterans-affairs/component-library/pull/1431,2024-12-10T16:47:07Z,2024-12-11T16:44:12Z,0,3,MERGED
+component-library,va-table: add scrollable prop,https://github.com/department-of-veterans-affairs/component-library/pull/1428,2024-12-06T20:18:15Z,2024-12-12T16:14:56Z,9,12,MERGED
+component-library,va-checkbox: add indeterminate prop,https://github.com/department-of-veterans-affairs/component-library/pull/1426,2024-12-05T19:57:21Z,2024-12-10T22:37:27Z,5,11,MERGED
+component-library,va-alert-sign-in: add new component,https://github.com/department-of-veterans-affairs/component-library/pull/1424,2024-12-03T22:27:57Z,2024-12-12T14:00:04Z,15,8,MERGED
+component-library,va-process-list: add ability to customize eyebrow status text,https://github.com/department-of-veterans-affairs/component-library/pull/1422,2024-12-02T21:55:07Z,2024-12-03T21:17:39Z,0,4,MERGED
+component-library,va-service-list-item: add web component,https://github.com/department-of-veterans-affairs/component-library/pull/1475,2025-01-31T19:08:27Z,2025-02-24T19:51:28Z,27,34,MERGED
+component-library,va-file-input: Fix for required label when inside a header,https://github.com/department-of-veterans-affairs/component-library/pull/1474,2025-01-30T18:20:35Z,2025-02-04T15:02:21Z,1,4,MERGED
+component-library,"va-table: Adding optional ""full-width"" prop for shorter-form content",https://github.com/department-of-veterans-affairs/component-library/pull/1473,2025-01-30T15:59:44Z,2025-01-31T14:56:56Z,0,2,MERGED
+component-library,css-library: Moving fonts loading to core,https://github.com/department-of-veterans-affairs/component-library/pull/1469,2025-01-28T17:58:46Z,2025-01-29T17:05:56Z,2,3,MERGED
+component-library,CSS-Library: add primitive and semantic spacing tokens,https://github.com/department-of-veterans-affairs/component-library/pull/1468,2025-01-27T22:54:18Z,2025-01-29T18:32:28Z,4,4,MERGED
+component-library,va-alert: Fixing it so close button on slim alerts doesn't overflow,https://github.com/department-of-veterans-affairs/component-library/pull/1467,2025-01-27T19:34:14Z,2025-01-28T20:59:22Z,0,4,MERGED
+component-library,va-alert-sign-in: update story time-limit to 60 days,https://github.com/department-of-veterans-affairs/component-library/pull/1464,2025-01-24T21:31:12Z,2025-01-24T22:06:43Z,0,1,MERGED
+component-library,va-file-input: add statusText prop,https://github.com/department-of-veterans-affairs/component-library/pull/1463,2025-01-24T20:39:23Z,2025-01-29T20:30:51Z,3,8,MERGED
+component-library,"Updated unauthenticated prefill alert, uneditable card components & usage example under Prefill pattern",https://github.com/department-of-veterans-affairs/component-library/pull/1462,2025-01-24T18:55:21Z,2025-02-06T17:28:39Z,1,6,MERGED
+component-library,va-file-input: display previously uploaded file,https://github.com/department-of-veterans-affairs/component-library/pull/1461,2025-01-23T16:35:34Z,2025-01-28T18:22:36Z,0,4,MERGED
+component-library,va-file-input-multiple: allow for slots to be conditionally rendered on file inputs,https://github.com/department-of-veterans-affairs/component-library/pull/1458,2025-01-15T21:08:57Z,2025-01-16T21:53:38Z,1,3,MERGED
+component-library,va-file-input-multiple: allow for slots to be conditionally rendered on file inputs,https://github.com/department-of-veterans-affairs/component-library/pull/1457,2025-01-15T20:58:58Z,2025-01-15T21:07:27Z,0,1,CLOSED
+component-library,Updated prefill pattern components in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1456,2025-01-15T19:19:58Z,2025-01-23T22:32:18Z,0,3,MERGED
+component-library,va-search-input: add clear search button,https://github.com/department-of-veterans-affairs/component-library/pull/1450,2025-01-10T14:08:38Z,2025-01-13T19:26:18Z,2,11,MERGED
+component-library,va-alert-expandable & va-alert-sign-in: fix Storybook link to guidance,https://github.com/department-of-veterans-affairs/component-library/pull/1449,2025-01-09T22:08:30Z,2025-01-09T22:43:16Z,0,1,MERGED
+component-library,va-link: add aria-label to all variations,https://github.com/department-of-veterans-affairs/component-library/pull/1448,2025-01-09T21:43:43Z,2025-01-14T17:41:49Z,0,4,MERGED
+component-library,va-button: add loading variation,https://github.com/department-of-veterans-affairs/component-library/pull/1446,2025-01-07T16:03:02Z,2025-01-09T17:35:45Z,6,8,MERGED
+component-library,va-accordion: add custom event to expand/collapse all button,https://github.com/department-of-veterans-affairs/component-library/pull/1445,2025-01-02T19:16:06Z,2025-01-08T18:59:07Z,0,5,MERGED
+component-library,CSS-Library: Addition of vads-c-eyebrow class,https://github.com/department-of-veterans-affairs/component-library/pull/1503,2025-02-25T15:02:46Z,2025-02-26T20:39:26Z,0,6,MERGED
+component-library,Adjust va-language-toggle font size and padding,https://github.com/department-of-veterans-affairs/component-library/pull/1502,2025-02-21T15:28:32Z,2025-02-28T16:19:34Z,6,5,MERGED
+component-library,va-table: Enabling stacked tables to always be full-width,https://github.com/department-of-veterans-affairs/component-library/pull/1501,2025-02-21T15:19:36Z,2025-02-24T14:38:40Z,1,1,MERGED
+component-library,Add sign in alert no prefill variation,https://github.com/department-of-veterans-affairs/component-library/pull/1497,2025-02-18T14:25:07Z,2025-02-18T16:58:07Z,0,2,MERGED
+component-library,Add a static files server script to Storybook for design.va.gov local development,https://github.com/department-of-veterans-affairs/component-library/pull/1495,2025-02-14T20:40:02Z,2025-02-18T17:23:42Z,0,6,MERGED
+component-library,va-file-input: add support restricting the size of the file added,https://github.com/department-of-veterans-affairs/component-library/pull/1490,2025-02-10T19:55:47Z,2025-02-13T17:10:57Z,0,6,MERGED
+component-library,va-checkbox | Add internal description slot,https://github.com/department-of-veterans-affairs/component-library/pull/1487,2025-02-07T22:21:54Z,2025-02-19T21:23:53Z,9,12,MERGED
+component-library,va-table: Adds ability to arbitrarily right-align columns,https://github.com/department-of-veterans-affairs/component-library/pull/1486,2025-02-07T14:58:46Z,2025-02-14T17:53:34Z,7,7,MERGED
+component-library,va-button & va-button-pair: allow custom text for continue variation,https://github.com/department-of-veterans-affairs/component-library/pull/1485,2025-02-06T23:01:40Z,2025-02-11T17:33:52Z,2,9,MERGED
+component-library,va-language-toggle: Address accessibility issues,https://github.com/department-of-veterans-affairs/component-library/pull/1484,2025-02-06T14:39:10Z,2025-02-11T15:41:34Z,1,2,MERGED
+component-library,va-button-pair: add support for submitting form,https://github.com/department-of-veterans-affairs/component-library/pull/1482,2025-02-04T21:23:02Z,2025-02-06T19:10:03Z,4,9,MERGED
+component-library,va-radio-option: Hotfix to restore focus styles,https://github.com/department-of-veterans-affairs/component-library/pull/1480,2025-02-04T18:50:19Z,2025-02-04T19:53:09Z,0,1,MERGED
+component-library,va-combo-box: add option groups functionality,https://github.com/department-of-veterans-affairs/component-library/pull/1478,2025-02-04T14:03:24Z,2025-02-20T20:54:44Z,13,15,MERGED
+component-library,va-pagination: update for maximum of seven slots,https://github.com/department-of-veterans-affairs/component-library/pull/1476,2025-02-03T20:46:46Z,2025-03-25T16:26:42Z,29,44,MERGED
+component-library,Storybook: Dark mode support,https://github.com/department-of-veterans-affairs/component-library/pull/1507,2025-02-26T18:03:51Z,2025-02-27T16:21:34Z,0,3,MERGED
+component-library,CSS-Library: Addition of vads-c-eyebrow class,https://github.com/department-of-veterans-affairs/component-library/pull/1503,2025-02-25T15:02:46Z,2025-02-26T20:39:26Z,0,6,MERGED
+component-library,Adjust va-language-toggle font size and padding,https://github.com/department-of-veterans-affairs/component-library/pull/1502,2025-02-21T15:28:32Z,2025-02-28T16:19:34Z,6,5,MERGED
+component-library,va-table: Enabling stacked tables to always be full-width,https://github.com/department-of-veterans-affairs/component-library/pull/1501,2025-02-21T15:19:36Z,2025-02-24T14:38:40Z,1,1,MERGED
+component-library,Add sign in alert no prefill variation,https://github.com/department-of-veterans-affairs/component-library/pull/1497,2025-02-18T14:25:07Z,2025-02-18T16:58:07Z,0,2,MERGED
+component-library,Add a static files server script to Storybook for design.va.gov local development,https://github.com/department-of-veterans-affairs/component-library/pull/1495,2025-02-14T20:40:02Z,2025-02-18T17:23:42Z,0,6,MERGED
+component-library,va-file-input: add support restricting the size of the file added,https://github.com/department-of-veterans-affairs/component-library/pull/1490,2025-02-10T19:55:47Z,2025-02-13T17:10:57Z,0,6,MERGED
+component-library,va-checkbox | Add internal description slot,https://github.com/department-of-veterans-affairs/component-library/pull/1487,2025-02-07T22:21:54Z,2025-02-19T21:23:53Z,9,12,MERGED
+component-library,va-table: Adds ability to arbitrarily right-align columns,https://github.com/department-of-veterans-affairs/component-library/pull/1486,2025-02-07T14:58:46Z,2025-02-14T17:53:34Z,7,7,MERGED
+component-library,va-button & va-button-pair: allow custom text for continue variation,https://github.com/department-of-veterans-affairs/component-library/pull/1485,2025-02-06T23:01:40Z,2025-02-11T17:33:52Z,2,9,MERGED
+component-library,va-language-toggle: Address accessibility issues,https://github.com/department-of-veterans-affairs/component-library/pull/1484,2025-02-06T14:39:10Z,2025-02-11T15:41:34Z,1,2,MERGED
+component-library,va-button-pair: add support for submitting form,https://github.com/department-of-veterans-affairs/component-library/pull/1482,2025-02-04T21:23:02Z,2025-02-06T19:10:03Z,4,9,MERGED
+component-library,va-radio-option: Hotfix to restore focus styles,https://github.com/department-of-veterans-affairs/component-library/pull/1480,2025-02-04T18:50:19Z,2025-02-04T19:53:09Z,0,1,MERGED
+component-library,va-combo-box: add option groups functionality,https://github.com/department-of-veterans-affairs/component-library/pull/1478,2025-02-04T14:03:24Z,2025-02-20T20:54:44Z,13,15,MERGED
+component-library,va-pagination: update for maximum of seven slots,https://github.com/department-of-veterans-affairs/component-library/pull/1476,2025-02-03T20:46:46Z,2025-03-25T16:26:42Z,29,44,MERGED
+component-library,Storybook Form Patterns: add bottom margin to slot list content,https://github.com/department-of-veterans-affairs/component-library/pull/1554,2025-03-31T18:55:58Z,2025-04-10T15:49:21Z,0,5,MERGED
+component-library,va-critical-action: focus state styling updates and rename component,https://github.com/department-of-veterans-affairs/component-library/pull/1553,2025-03-31T18:24:38Z,2025-04-02T20:14:22Z,2,15,MERGED
+component-library,va-link: remove duplicate screen reader content,https://github.com/department-of-veterans-affairs/component-library/pull/1552,2025-03-31T17:22:11Z,2025-03-31T19:02:12Z,0,1,MERGED
+component-library,va-date: show default days with no month selected,https://github.com/department-of-veterans-affairs/component-library/pull/1551,2025-03-31T15:34:12Z,2025-03-31T19:16:21Z,0,3,MERGED
+component-library,va-combo-box: aria status to include opt group count,https://github.com/department-of-veterans-affairs/component-library/pull/1550,2025-03-31T14:24:05Z,2025-04-08T16:38:43Z,0,8,MERGED
+component-library,va-telephone: vanity to allow full replacement,https://github.com/department-of-veterans-affairs/component-library/pull/1549,2025-03-28T15:52:13Z,2025-03-31T19:28:53Z,0,3,MERGED
+component-library,va-file-input and va-file-input-multiple: add password input field,https://github.com/department-of-veterans-affairs/component-library/pull/1548,2025-03-27T20:53:59Z,2025-03-28T19:31:54Z,4,2,MERGED
+component-library,va-button: increase line-height,https://github.com/department-of-veterans-affairs/component-library/pull/1545,2025-03-27T19:37:57Z,2025-04-02T15:19:08Z,3,6,MERGED
+component-library,"Storybook: default va-process-list-item now ""controllable""",https://github.com/department-of-veterans-affairs/component-library/pull/1541,2025-03-25T17:01:05Z,2025-03-26T13:54:38Z,0,2,MERGED
+component-library,va-date: remove empty options,https://github.com/department-of-veterans-affairs/component-library/pull/1540,2025-03-24T20:35:06Z,2025-03-28T17:09:52Z,1,6,MERGED
+component-library,Form Components: add message-aria-describedby checks,https://github.com/department-of-veterans-affairs/component-library/pull/1538,2025-03-21T20:01:56Z,2025-03-25T18:05:16Z,0,10,MERGED
+component-library,va-memorable-date: Replace date processing,https://github.com/department-of-veterans-affairs/component-library/pull/1536,2025-03-21T13:14:20Z,2025-03-28T17:31:23Z,1,11,MERGED
+component-library,va-alert: use headline text for alert close button ARIA label,https://github.com/department-of-veterans-affairs/component-library/pull/1535,2025-03-18T14:48:00Z,2025-03-19T13:35:23Z,0,5,MERGED
+component-library,va-official-gov-banner: swap icons,https://github.com/department-of-veterans-affairs/component-library/pull/1534,2025-03-17T16:19:26Z,2025-03-18T23:03:11Z,0,3,MERGED
+component-library,va-alert-critical: add new component,https://github.com/department-of-veterans-affairs/component-library/pull/1533,2025-03-14T18:23:40Z,2025-03-25T18:34:06Z,18,15,MERGED
+component-library,"va-combo-box: when clicking into input, if no text is selected, select all of it",https://github.com/department-of-veterans-affairs/component-library/pull/1532,2025-03-14T14:39:33Z,2025-03-21T13:43:09Z,3,6,MERGED
+component-library,va-checkbox: fix interactive elements in description,https://github.com/department-of-veterans-affairs/component-library/pull/1531,2025-03-13T20:47:31Z,2025-03-20T17:48:23Z,1,6,MERGED
+component-library,Storybook: replace deprecated action link class with web component,https://github.com/department-of-veterans-affairs/component-library/pull/1528,2025-03-12T18:34:00Z,2025-03-12T22:24:22Z,0,3,MERGED
+component-library,Storybook: remove formation imports,https://github.com/department-of-veterans-affairs/component-library/pull/1524,2025-03-11T19:45:29Z,2025-03-19T14:55:20Z,2,30,MERGED
+component-library,va-service-list-item: adjust styling from design feedback,https://github.com/department-of-veterans-affairs/component-library/pull/1522,2025-03-11T16:12:45Z,2025-03-12T19:21:55Z,2,5,MERGED
+component-library,Storybook: update background color for the use with caution label,https://github.com/department-of-veterans-affairs/component-library/pull/1521,2025-03-11T14:51:44Z,2025-03-11T22:01:24Z,0,3,MERGED
+component-library,va-need-help: align header font-size with Figma,https://github.com/department-of-veterans-affairs/component-library/pull/1520,2025-03-10T21:46:05Z,2025-03-11T18:36:58Z,0,2,MERGED
+component-library,"CSS-Library - update asset paths to reference css-library and uswds packages, add missing files to css-library",https://github.com/department-of-veterans-affairs/component-library/pull/1519,2025-03-10T16:17:12Z,2025-03-11T16:49:44Z,3,4,MERGED
+component-library,Storybook: Capitalize first letter in focus button labels,https://github.com/department-of-veterans-affairs/component-library/pull/1518,2025-03-10T15:58:25Z,2025-03-10T17:44:37Z,0,2,MERGED
+component-library,va-select: Adding a full-width prop,https://github.com/department-of-veterans-affairs/component-library/pull/1517,2025-03-10T12:49:09Z,2025-03-12T15:53:34Z,0,2,MERGED
+component-library,va-file-input: Add back default args for storybook example,https://github.com/department-of-veterans-affairs/component-library/pull/1516,2025-03-07T18:32:38Z,2025-03-07T20:12:21Z,0,1,MERGED
+component-library,va-checkbox | Fix interactive elements in description,https://github.com/department-of-veterans-affairs/component-library/pull/1515,2025-03-07T18:13:27Z,2025-03-11T20:24:59Z,0,5,MERGED
+component-library,va-checkbox: fix aria checked assignment,https://github.com/department-of-veterans-affairs/component-library/pull/1514,2025-03-07T16:50:44Z,2025-03-10T16:30:24Z,0,5,MERGED
+component-library,va-checkbox: add normalized font size token to label,https://github.com/department-of-veterans-affairs/component-library/pull/1513,2025-03-07T14:54:41Z,2025-03-07T20:41:36Z,2,3,MERGED
+component-library,va-button: Adding a fullWidth prop,https://github.com/department-of-veterans-affairs/component-library/pull/1512,2025-03-05T18:32:19Z,2025-03-06T19:17:13Z,3,4,MERGED
+component-library,va-select: add forms patterns support,https://github.com/department-of-veterans-affairs/component-library/pull/1510,2025-03-04T16:04:35Z,2025-03-06T16:18:16Z,4,4,MERGED
+component-library,Prevent nested va-accordion-items from propagating up,https://github.com/department-of-veterans-affairs/component-library/pull/1509,2025-03-03T21:47:45Z,2025-03-04T19:27:19Z,0,1,MERGED
+component-library,CSS-Library: align list styles to uswds,https://github.com/department-of-veterans-affairs/component-library/pull/1508,2025-03-03T15:51:55Z,2025-03-26T19:19:27Z,6,5,MERGED
+component-library,va-modal: Fix TypeError on render,https://github.com/department-of-veterans-affairs/component-library/pull/1587,2025-04-30T21:09:42Z,2025-05-01T14:45:41Z,1,2,MERGED
+component-library,va-additional-info: Fix TypeError on render,https://github.com/department-of-veterans-affairs/component-library/pull/1586,2025-04-30T18:48:36Z,2025-05-01T15:04:51Z,1,4,MERGED
+component-library,va-service-list-item: update focus & active state style,https://github.com/department-of-veterans-affairs/component-library/pull/1584,2025-04-25T20:05:08Z,2025-04-28T15:33:49Z,1,13,MERGED
+component-library,va-alert: fix TypeError for close button aria label,https://github.com/department-of-veterans-affairs/component-library/pull/1582,2025-04-22T17:34:08Z,2025-04-22T20:12:38Z,0,4,MERGED
+component-library,va-file-input and va-file-input-multiple: Add link to platform documentation for encrypted PDFs,https://github.com/department-of-veterans-affairs/component-library/pull/1581,2025-04-22T14:50:44Z,2025-04-22T15:23:32Z,0,1,MERGED
+component-library,va-combo-box: prevent clear input button from being hidden,https://github.com/department-of-veterans-affairs/component-library/pull/1579,2025-04-17T19:33:30Z,2025-04-21T15:20:58Z,2,2,MERGED
+component-library,va-critical-action: update padding,https://github.com/department-of-veterans-affairs/component-library/pull/1576,2025-04-16T19:52:35Z,2025-04-17T20:17:26Z,0,11,MERGED
+component-library,va-alert-expandable: align content with title,https://github.com/department-of-veterans-affairs/component-library/pull/1574,2025-04-15T21:42:01Z,2025-04-18T16:15:12Z,2,5,MERGED
+component-library,Expand story when modal is open,https://github.com/department-of-veterans-affairs/component-library/pull/1573,2025-04-14T17:50:18Z,2025-04-14T20:39:51Z,0,1,MERGED
+component-library,va-link-action: add primary-entry variation,https://github.com/department-of-veterans-affairs/component-library/pull/1570,2025-04-10T20:55:17Z,2025-04-15T20:32:39Z,8,6,MERGED
+component-library,va-service-list-item: support all va-link props via shared interface,https://github.com/department-of-veterans-affairs/component-library/pull/1569,2025-04-10T19:17:00Z,2025-04-14T16:30:38Z,2,9,MERGED
+component-library,va-search-filter: add component,https://github.com/department-of-veterans-affairs/component-library/pull/1568,2025-04-10T18:12:00Z,2025-04-23T20:20:59Z,10,21,MERGED
+component-library,CSS-Library: add block display to eyebrow styling class,https://github.com/department-of-veterans-affairs/component-library/pull/1566,2025-04-09T12:57:51Z,2025-04-09T14:23:26Z,1,3,MERGED
+component-library,va-breadcrumb: add prop to conditionally use #content or a custom href for the current page,https://github.com/department-of-veterans-affairs/component-library/pull/1565,2025-04-08T15:27:09Z,2025-04-08T19:15:42Z,0,5,MERGED
+component-library,va-critical-action: staging review updates,https://github.com/department-of-veterans-affairs/component-library/pull/1563,2025-04-07T17:13:05Z,2025-04-08T15:28:46Z,1,17,MERGED
+component-library,va-alert: add action link Storybook example & adjust header alignment,https://github.com/department-of-veterans-affairs/component-library/pull/1560,2025-04-02T14:55:45Z,2025-04-02T21:16:23Z,3,8,MERGED
+component-library,"va-alert, va-maintenance-banner, va-modal, va-promo-banner: close icon",https://github.com/department-of-veterans-affairs/component-library/pull/1557,2025-04-01T15:13:46Z,2025-04-08T14:45:56Z,6,12,MERGED
+component-library,CSS-Library: remove custom list styles,https://github.com/department-of-veterans-affairs/component-library/pull/1556,2025-04-01T14:56:28Z,2025-04-01T19:20:11Z,2,15,MERGED
+component-library,va-memorable-date: change lifecycle method for handling dash,https://github.com/department-of-veterans-affairs/component-library/pull/1555,2025-04-01T13:16:09Z,2025-04-08T21:31:52Z,0,9,MERGED
+component-library,va-button-segmented: add component,https://github.com/department-of-veterans-affairs/component-library/pull/1620,2025-05-30T15:18:58Z,2025-09-23T14:07:37Z,22,55,CLOSED
+component-library,va-alert-sign-in: replace straight apostrophes with curly ones,https://github.com/department-of-veterans-affairs/component-library/pull/1613,2025-05-23T18:37:29Z,2025-05-28T13:48:07Z,1,5,MERGED
+component-library,va-search-filter: make headings consistent across breakpoints,https://github.com/department-of-veterans-affairs/component-library/pull/1611,2025-05-21T20:19:11Z,2025-05-23T14:23:38Z,4,5,MERGED
+component-library,va-search-filter: update accordion-items to be heading level 3,https://github.com/department-of-veterans-affairs/component-library/pull/1609,2025-05-21T19:44:47Z,2025-05-27T20:03:29Z,0,4,MERGED
+component-library,va-table: add data-sort-value attribute for raw number value sorting,https://github.com/department-of-veterans-affairs/component-library/pull/1604,2025-05-16T18:33:44Z,2025-05-20T20:48:25Z,1,5,MERGED
+component-library,va-combo-box: make all options persist in dropdown after selection,https://github.com/department-of-veterans-affairs/component-library/pull/1602,2025-05-15T19:10:31Z,2025-05-16T11:59:54Z,3,3,MERGED
+component-library,va-text-input & va-statement-of-truth: add prop for adding Datadog privacy class on error message,https://github.com/department-of-veterans-affairs/component-library/pull/1600,2025-05-15T15:04:40Z,2025-05-16T15:43:28Z,4,4,MERGED
+component-library,Set va-modal visual to true by default in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1596,2025-05-13T13:49:59Z,2025-05-13T15:49:08Z,1,3,MERGED
+component-library,va-input-telephone: add component,https://github.com/department-of-veterans-affairs/component-library/pull/1595,2025-05-11T09:03:12Z,2025-05-22T20:09:23Z,21,33,MERGED
+component-library,Add examples for integrating VA Design System into projects outside of vets-website,https://github.com/department-of-veterans-affairs/component-library/pull/1592,2025-05-08T18:15:57Z,2025-07-02T19:45:32Z,8,15,MERGED
+component-library,Add icon filtering to storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1589,2025-05-05T14:10:24Z,2025-05-05T17:44:23Z,2,4,MERGED
+component-library,va-checkbox: add normalized font size to description text,https://github.com/department-of-veterans-affairs/component-library/pull/1588,2025-05-02T21:00:11Z,2025-05-05T13:35:02Z,1,5,MERGED
+component-library,Fix link generated in CanvasLink storybook helper,https://github.com/department-of-veterans-affairs/component-library/pull/1668,2025-06-26T19:06:50Z,2025-06-27T14:55:14Z,0,1,MERGED
+component-library,va-button-icon - Update spacing between icon and label text,https://github.com/department-of-veterans-affairs/component-library/pull/1667,2025-06-26T17:07:07Z,2025-07-07T16:08:55Z,3,7,MERGED
+component-library,va-telephone-input: reset errors if error prop changes to empty string,https://github.com/department-of-veterans-affairs/component-library/pull/1663,2025-06-24T11:08:48Z,2025-06-25T15:40:58Z,0,2,MERGED
+component-library,va-icon: allow for custom sprite path,https://github.com/department-of-veterans-affairs/component-library/pull/1660,2025-06-20T16:32:37Z,2025-06-25T16:28:44Z,13,16,MERGED
+component-library,va-breadcrumbs: storybook home-veterans-affairs prop not working,https://github.com/department-of-veterans-affairs/component-library/pull/1659,2025-06-18T20:03:53Z,2025-06-24T21:53:33Z,5,7,MERGED
+component-library,va-sidenav: add component,https://github.com/department-of-veterans-affairs/component-library/pull/1658,2025-06-18T14:46:44Z,2025-07-16T18:16:44Z,21,64,MERGED
+component-library,va-statement-of-truth: add prop to hide legal note,https://github.com/department-of-veterans-affairs/component-library/pull/1654,2025-06-17T14:52:51Z,2025-06-23T20:43:09Z,4,6,MERGED
+component-library,va-promo-banner: update maturity level to deprecated,https://github.com/department-of-veterans-affairs/component-library/pull/1653,2025-06-17T14:19:05Z,2025-06-24T14:35:42Z,0,4,MERGED
+component-library,va-input-telephone: add margin to top of component,https://github.com/department-of-veterans-affairs/component-library/pull/1652,2025-06-17T14:17:16Z,2025-06-18T01:20:58Z,0,2,MERGED
+component-library,va-alert-sign-in: Update storybook button examples,https://github.com/department-of-veterans-affairs/component-library/pull/1650,2025-06-13T19:47:12Z,2025-06-17T14:27:49Z,2,4,MERGED
+component-library,va-checkbox-group & va-radio - Fix font-weight of hint when both hint and error are set,https://github.com/department-of-veterans-affairs/component-library/pull/1648,2025-06-12T22:07:10Z,2025-06-16T16:12:22Z,0,5,MERGED
+component-library,va-checkbox-group & va-radio - Add Storybook variations for tile hint and error,https://github.com/department-of-veterans-affairs/component-library/pull/1645,2025-06-12T15:46:41Z,2025-06-12T20:42:33Z,1,3,MERGED
+component-library,Dependency update: Upgrade to Storybook 9,https://github.com/department-of-veterans-affairs/component-library/pull/1642,2025-06-10T14:45:54Z,2025-07-03T18:37:58Z,10,24,MERGED
+component-library,"va-card: Add variation which adds an icon at the top, center",https://github.com/department-of-veterans-affairs/component-library/pull/1640,2025-06-06T19:56:29Z,2025-06-10T20:10:06Z,3,5,MERGED
+component-library,va-segmented-progress-bar - Fix text wrap bug,https://github.com/department-of-veterans-affairs/component-library/pull/1639,2025-06-06T19:35:11Z,2025-06-11T17:30:56Z,7,4,MERGED
+component-library,va-additional-info: Updated the vertical bar width from 7px to 4px,https://github.com/department-of-veterans-affairs/component-library/pull/1638,2025-06-06T17:43:06Z,2025-06-11T19:15:39Z,0,2,MERGED
+component-library,Update workflow to limit Chromatic runs only on main and when a PR is ready for review,https://github.com/department-of-veterans-affairs/component-library/pull/1637,2025-06-06T13:43:09Z,2025-06-06T16:22:28Z,2,3,MERGED
+component-library,va-need-help: update header font-weight,https://github.com/department-of-veterans-affairs/component-library/pull/1636,2025-06-06T13:31:05Z,2025-06-06T15:16:23Z,0,2,CLOSED
+component-library,`<va-link-action>` - Show icons in print preview,https://github.com/department-of-veterans-affairs/component-library/pull/1634,2025-06-05T19:37:50Z,2025-06-09T15:58:47Z,0,4,MERGED
+component-library,va-search-filter: add additional sr-only text to facet titles,https://github.com/department-of-veterans-affairs/component-library/pull/1632,2025-06-05T13:21:08Z,2025-06-12T17:55:34Z,3,8,MERGED
+component-library,va-textarea: Fix hint to ensure font-weight is normal,https://github.com/department-of-veterans-affairs/component-library/pull/1629,2025-06-04T16:56:58Z,2025-06-05T19:46:43Z,3,7,MERGED
+component-library,va-input-telephone: improve grammar of error message,https://github.com/department-of-veterans-affairs/component-library/pull/1627,2025-06-03T12:47:15Z,2025-06-04T22:08:18Z,1,3,MERGED
+component-library,va-input-telephone: Improve screen reader experience and fix re-selection display error,https://github.com/department-of-veterans-affairs/component-library/pull/1626,2025-06-02T21:54:15Z,2025-06-05T17:26:17Z,7,9,MERGED
+component-library,va-link: Fix external link text wrapping,https://github.com/department-of-veterans-affairs/component-library/pull/1625,2025-06-02T21:01:15Z,2025-06-04T16:24:42Z,2,4,MERGED
+component-library,va-input-telephone: update event payload,https://github.com/department-of-veterans-affairs/component-library/pull/1622,2025-06-02T15:44:16Z,2025-06-02T16:22:46Z,0,2,MERGED
+component-library,Chromatic Deployment: remove skip for dependabot,https://github.com/department-of-veterans-affairs/component-library/pull/1621,2025-06-02T14:31:53Z,2025-07-21T15:17:44Z,1,6,MERGED
+component-library,CSS-Library: import the usa-media-block styles from USWDS v3 package,https://github.com/department-of-veterans-affairs/component-library/pull/1716,2025-07-31T13:40:39Z,2025-07-31T21:19:56Z,0,5,MERGED
+component-library,va-alert-expandable: remove error variation,https://github.com/department-of-veterans-affairs/component-library/pull/1709,2025-07-29T18:35:04Z,2025-07-31T16:55:39Z,1,10,MERGED
+component-library,va-omb-info: Add accessible description to OMB button ,https://github.com/department-of-veterans-affairs/component-library/pull/1707,2025-07-28T23:03:23Z,2025-08-01T18:46:46Z,2,7,MERGED
+component-library,va-sidenav: update desktop header from `h2` to `span`,https://github.com/department-of-veterans-affairs/component-library/pull/1701,2025-07-23T15:14:32Z,2025-07-23T17:56:38Z,0,6,MERGED
+component-library,CSS-Library: remove external link module,https://github.com/department-of-veterans-affairs/component-library/pull/1698,2025-07-22T16:48:41Z,2025-07-23T20:24:50Z,0,4,MERGED
+component-library,va-telephone: format phone number if country code defined,https://github.com/department-of-veterans-affairs/component-library/pull/1695,2025-07-17T21:37:54Z,2025-07-18T15:03:18Z,3,3,MERGED
+component-library,va-segmented-progress-bar: ensure focus outline shows,https://github.com/department-of-veterans-affairs/component-library/pull/1692,2025-07-16T19:59:37Z,2025-07-17T16:09:04Z,2,2,MERGED
+component-library,va-file-input: add checks for empty files and min file size,https://github.com/department-of-veterans-affairs/component-library/pull/1689,2025-07-15T16:02:14Z,2025-07-15T22:56:16Z,0,1,MERGED
+component-library,va-file-input: add more docs to encrypted prop,https://github.com/department-of-veterans-affairs/component-library/pull/1688,2025-07-15T15:07:34Z,2025-07-17T15:17:28Z,1,4,MERGED
+component-library,"Storybook: remove deprecated Sidenav ""component""",https://github.com/department-of-veterans-affairs/component-library/pull/1687,2025-07-14T19:39:51Z,2025-07-17T16:53:43Z,0,4,MERGED
+component-library,va-alert-expandable: Fix TypeError on render,https://github.com/department-of-veterans-affairs/component-library/pull/1683,2025-07-09T18:56:06Z,2025-07-09T21:02:51Z,3,2,MERGED
+component-library,va-combo-box: Prevent long option text from overlapping clear button,https://github.com/department-of-veterans-affairs/component-library/pull/1680,2025-07-08T20:47:27Z,2025-07-14T17:46:51Z,0,5,MERGED
+component-library,va-icon: add threads icon,https://github.com/department-of-veterans-affairs/component-library/pull/1679,2025-07-08T15:40:43Z,2025-07-10T20:22:12Z,3,9,MERGED
+component-library,va-button-segmented: update focus state style to use default yellow outline,https://github.com/department-of-veterans-affairs/component-library/pull/1678,2025-07-07T19:56:02Z,2025-07-14T13:07:45Z,2,9,MERGED
+component-library,"va-button, va-button-icon: fix for focus outline getting covered up",https://github.com/department-of-veterans-affairs/component-library/pull/1676,2025-07-07T16:22:01Z,2025-07-08T21:52:48Z,3,3,MERGED
+component-library,va-table: prevent table slot attributes from being added to nested spans,https://github.com/department-of-veterans-affairs/component-library/pull/1675,2025-07-03T22:05:56Z,2025-07-07T15:22:30Z,2,4,MERGED
+component-library,va-file-input: add password-error prop to set error on password input for encrypted files,https://github.com/department-of-veterans-affairs/component-library/pull/1673,2025-07-03T15:56:06Z,2025-07-07T17:27:05Z,1,3,MERGED
+component-library,va-alert: remove green lock alert from storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1671,2025-07-02T17:49:46Z,2025-07-07T14:53:08Z,0,6,MERGED
+component-library,va-icon: Added mark_email_read icon,https://github.com/department-of-veterans-affairs/component-library/pull/1670,2025-07-01T17:53:05Z,2025-07-02T18:01:49Z,0,2,MERGED
+component-library,va-file-input: only show password field and additional info slot if progress bar not visible,https://github.com/department-of-veterans-affairs/component-library/pull/1749,2025-08-29T21:33:18Z,2025-09-02T19:09:32Z,1,6,MERGED
+component-library,va-memorable-date: Add support for custom hint slot,https://github.com/department-of-veterans-affairs/component-library/pull/1748,2025-08-29T21:26:30Z,2025-09-08T19:12:49Z,1,9,CLOSED
+component-library,va-date: add spacing when fields wrap,https://github.com/department-of-veterans-affairs/component-library/pull/1747,2025-08-29T15:27:20Z,2025-09-02T15:46:25Z,2,3,MERGED
+component-library,"va-additional-info, va-alert-expandable, va-memorable-date: adjust slot styles",https://github.com/department-of-veterans-affairs/component-library/pull/1746,2025-08-28T14:16:59Z,2025-08-28T16:45:38Z,1,3,MERGED
+component-library,va-telephone-input: Correct width/media query breakpoint,https://github.com/department-of-veterans-affairs/component-library/pull/1744,2025-08-26T15:59:42Z,2025-08-27T16:03:59Z,0,3,MERGED
+component-library,va-accordion-item: Update headline slot approach to resolve unescaped HTML entities,https://github.com/department-of-veterans-affairs/component-library/pull/1741,2025-08-21T19:40:37Z,2025-08-26T18:17:28Z,4,6,MERGED
+component-library,"va-omb-info: Remove ""View"" from privacy act statement button",https://github.com/department-of-veterans-affairs/component-library/pull/1740,2025-08-20T20:58:57Z,2025-08-25T16:15:18Z,0,3,MERGED
+component-library,"va-link: Fix icon line breaking issue for ""active"" variant",https://github.com/department-of-veterans-affairs/component-library/pull/1733,2025-08-15T17:15:44Z,2025-08-15T20:13:35Z,0,6,MERGED
+component-library,VA-button: Feedback variant,https://github.com/department-of-veterans-affairs/component-library/pull/1732,2025-08-15T16:30:21Z,2025-08-18T15:18:51Z,2,2,CLOSED
+component-library,va-modal: add story for initialFocusSelector prop,https://github.com/department-of-veterans-affairs/component-library/pull/1728,2025-08-13T19:35:08Z,2025-08-28T16:34:17Z,8,5,MERGED
+component-library,va-file-input: update “remove” to “delete”,https://github.com/department-of-veterans-affairs/component-library/pull/1727,2025-08-13T14:12:36Z,2025-08-15T20:24:11Z,0,5,MERGED
+component-library,va-telephone-input: improve error message accuracy,https://github.com/department-of-veterans-affairs/component-library/pull/1726,2025-08-12T19:51:58Z,2025-08-25T21:43:03Z,5,10,MERGED
+component-library,va-accordion-item: update styles for header and subheader to prevent icon alignment issues on Chrome,https://github.com/department-of-veterans-affairs/component-library/pull/1723,2025-08-08T18:14:33Z,2025-08-13T18:18:45Z,6,8,MERGED
+component-library,va-sidenav: use medium-screen breakpoint for mobile view,https://github.com/department-of-veterans-affairs/component-library/pull/1722,2025-08-08T16:56:07Z,2025-08-08T17:37:38Z,1,1,MERGED
+component-library,Display the correct React binding name for va-telephone-input in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1721,2025-08-08T14:51:00Z,2025-08-08T15:14:49Z,0,1,MERGED
+component-library,[Test] Create Test story to toggle error state in form elements,https://github.com/department-of-veterans-affairs/component-library/pull/1720,2025-08-05T23:25:39Z,2025-08-12T20:28:52Z,2,5,CLOSED
+component-library,va-sidenav: enhance current-page handling for truthy and false values ,https://github.com/department-of-veterans-affairs/component-library/pull/1719,2025-08-05T21:57:02Z,2025-08-08T13:05:27Z,1,5,MERGED
+component-library,va-alert: add the slim prop if no headline is provided,https://github.com/department-of-veterans-affairs/component-library/pull/1718,2025-08-04T20:46:48Z,2025-08-11T17:01:20Z,4,5,MERGED
+component-library,va-file-input-multiple: changes for forms system integration,https://github.com/department-of-veterans-affairs/component-library/pull/1717,2025-08-01T22:42:55Z,2025-08-22T19:59:06Z,0,9,MERGED
+component-library,Tabs: Update va-tabs stories with new tab labels and content,https://github.com/department-of-veterans-affairs/component-library/pull/1797,2025-09-26T16:48:50Z,2025-10-01T16:09:54Z,0,3,MERGED
+component-library,Font resize component fixes: Phase 1 ,https://github.com/department-of-veterans-affairs/component-library/pull/1795,2025-09-24T23:22:49Z,2025-10-06T19:21:19Z,9,12,MERGED
+component-library,va-memorable-date: Add translations for date hint and pass hint portions to child input components,https://github.com/department-of-veterans-affairs/component-library/pull/1793,2025-09-23T17:00:20Z,2025-09-29T21:59:36Z,4,13,MERGED
+component-library,Storybook: Disable unused chromatic snapshots,https://github.com/department-of-veterans-affairs/component-library/pull/1791,2025-09-18T22:50:11Z,2025-09-19T19:36:21Z,6,3,MERGED
+component-library,va-text-input: Add password type variation / va-file-input: Use new password variation to mask file password.,https://github.com/department-of-veterans-affairs/component-library/pull/1787,2025-09-17T20:44:09Z,2025-09-19T18:53:50Z,0,4,MERGED
+component-library,Storybook: add month-select to the form pattern month dropdown story,https://github.com/department-of-veterans-affairs/component-library/pull/1776,2025-09-12T21:56:10Z,2025-09-15T19:43:29Z,0,3,MERGED
+component-library,va-memorable-date: add labelHeaderLevel prop,https://github.com/department-of-veterans-affairs/component-library/pull/1775,2025-09-12T16:52:04Z,2025-09-16T14:16:12Z,4,6,MERGED
+component-library,"va-accordion: Create separate buttons for ""expand all"" and ""collapse all""",https://github.com/department-of-veterans-affairs/component-library/pull/1772,2025-09-10T22:00:51Z,2025-09-15T19:14:21Z,10,6,MERGED
+component-library,[va-date]: Fix alignment of year label,https://github.com/department-of-veterans-affairs/component-library/pull/1771,2025-09-10T21:00:56Z,2025-09-12T18:57:29Z,0,2,CLOSED
+component-library,va-memorable-date: add watch decorator to the value prop,https://github.com/department-of-veterans-affairs/component-library/pull/1770,2025-09-10T14:26:58Z,2025-09-12T16:54:29Z,0,3,MERGED
+component-library,va-textarea: Fix horizontal overflow at high zoom,https://github.com/department-of-veterans-affairs/component-library/pull/1768,2025-09-09T18:19:22Z,2025-09-10T17:05:26Z,3,2,MERGED
+component-library,Fix spelling of Sojourner in Storybook,https://github.com/department-of-veterans-affairs/component-library/pull/1766,2025-09-05T20:00:33Z,2025-09-05T20:13:58Z,0,1,MERGED
+component-library,va-memorable-date: add prop to remove the default date hint,https://github.com/department-of-veterans-affairs/component-library/pull/1763,2025-09-05T16:46:03Z,2025-09-09T15:01:56Z,0,5,MERGED
+component-library,va-button-segmented: Update styles for two/three buttons,https://github.com/department-of-veterans-affairs/component-library/pull/1762,2025-09-05T13:33:09Z,2025-09-05T18:17:16Z,1,4,MERGED
+component-library,"va-date, va-memorable-date, va-telephone-input, va-text-input: update onblur validation",https://github.com/department-of-veterans-affairs/component-library/pull/1760,2025-09-04T20:59:46Z,2025-09-11T17:50:33Z,4,10,MERGED
+component-library,Storybook: add customYearErrorMessage to va-memorable-date date of birth stories,https://github.com/department-of-veterans-affairs/component-library/pull/1751,2025-09-02T20:08:39Z,2025-09-05T16:47:39Z,2,3,MERGED

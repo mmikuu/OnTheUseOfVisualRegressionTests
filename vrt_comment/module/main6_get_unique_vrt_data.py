@@ -94,7 +94,7 @@ def extract_repo_specific_unique_pr_rows_to_csv(input_filename, output_filename,
             os.makedirs(output_dir, exist_ok=True)
 
         with open(output_filename, mode='w', encoding='utf-8', newline='') as outfile:
-            writer = csv.DictWriter(outfile, fieldnames=unique_output_columns)  # Use the unique list for fieldnames
+            writer = csv.DictWriter(outfile, fieldnames=unique_output_columns)  
             writer.writeheader()
             writer.writerows(unique_rows_to_write)
         print(

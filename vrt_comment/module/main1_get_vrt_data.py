@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import re 
 
 
-GITHUB_TOKEN = 'your_token'  
+GITHUB_TOKEN = 'xxx'  
 
 GRAPHQL_URL = 'https://api.github.com/graphql'
 REQUEST_TIMEOUT_SECONDS = 300
@@ -14,7 +14,7 @@ PR_DETAILS_API_CALL_DELAY_SECONDS = 1
 OUTPUT_CSV_FILENAME = '../../data/list-vrt-comments.csv' 
 SEARCH_KEYWORD_IN_COMMENTS = "www.chromatic.com/test?"  
 MAX_ITEMS_PER_FETCH_CYCLE = 1000
-DATE_SETTINGS_FILE = 'settings.txt'
+DATE_SETTINGS_FILE = '../settings.txt'
 
 
 MAIN_SEARCH_QUERY_TEMPLATE = '''

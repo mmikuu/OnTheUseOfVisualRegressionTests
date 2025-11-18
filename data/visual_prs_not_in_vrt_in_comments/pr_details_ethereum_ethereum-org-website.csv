@@ -1,0 +1,491 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+ethereum-org-website,Update theme.styl,https://github.com/ethereum/ethereum-org-website/pull/8,2019-04-30T18:19:15Z,2019-05-01T01:30:26Z,1,1,CLOSED
+ethereum-org-website,Color and type changes,https://github.com/ethereum/ethereum-org-website/pull/68,2019-05-10T20:25:00Z,2019-09-13T21:09:50Z,8,4,CLOSED
+ethereum-org-website,Replace WorkSans with system font for readability. Remove link alike underline header's decoration,https://github.com/ethereum/ethereum-org-website/pull/166,2019-08-11T11:08:55Z,2019-09-17T19:16:02Z,1,2,CLOSED
+ethereum-org-website,Update dark mode menu color [Fixes #252],https://github.com/ethereum/ethereum-org-website/pull/264,2019-09-29T18:37:03Z,2019-09-29T18:37:42Z,0,1,MERGED
+ethereum-org-website,Establish consistent font hierarchy,https://github.com/ethereum/ethereum-org-website/pull/247,2019-09-19T11:58:42Z,2019-09-24T13:33:44Z,0,5,MERGED
+ethereum-org-website,Only display artwork announcement on homepage [Fixes #186],https://github.com/ethereum/ethereum-org-website/pull/243,2019-09-19T04:29:25Z,2019-09-19T12:11:35Z,0,1,MERGED
+ethereum-org-website,Support explicit heading IDs [Fixes #272],https://github.com/ethereum/ethereum-org-website/pull/369,2019-10-30T18:55:00Z,2019-11-06T04:07:40Z,10,15,MERGED
+ethereum-org-website,Programming Language Specific Page: Golang  [Fixes #265],https://github.com/ethereum/ethereum-org-website/pull/365,2019-10-30T04:52:14Z,2019-11-10T19:36:17Z,3,3,MERGED
+ethereum-org-website,Add Unit Test Suite [Fixes #350],https://github.com/ethereum/ethereum-org-website/pull/364,2019-10-29T20:00:06Z,2019-11-05T19:33:29Z,13,18,MERGED
+ethereum-org-website,Add unit test suite,https://github.com/ethereum/ethereum-org-website/pull/359,2019-10-29T03:32:44Z,2019-11-04T17:14:41Z,11,8,MERGED
+ethereum-org-website,"Add ""Last Updated"" To The Website",https://github.com/ethereum/ethereum-org-website/pull/356,2019-10-28T21:37:09Z,2019-11-04T17:43:08Z,7,2,MERGED
+ethereum-org-website,Language page v2,https://github.com/ethereum/ethereum-org-website/pull/333,2019-10-23T05:27:33Z,2019-10-29T17:37:28Z,1,8,MERGED
+ethereum-org-website,First swing at persona page re-org,https://github.com/ethereum/ethereum-org-website/pull/329,2019-10-21T18:34:22Z,2019-11-08T16:47:36Z,6,23,MERGED
+ethereum-org-website,Ethereum studio v2,https://github.com/ethereum/ethereum-org-website/pull/322,2019-10-17T02:49:44Z,2019-11-08T16:43:37Z,5,18,MERGED
+ethereum-org-website,"Using a simple, translatable 404 page that uses the sites global theme",https://github.com/ethereum/ethereum-org-website/pull/310,2019-10-09T14:37:05Z,2019-10-31T19:22:52Z,12,10,MERGED
+ethereum-org-website,Scaled Logo Image Added,https://github.com/ethereum/ethereum-org-website/pull/309,2019-10-09T09:40:26Z,2019-10-09T10:00:05Z,2,2,MERGED
+ethereum-org-website,Fix header overlaps in-page anchors [Resolves #292],https://github.com/ethereum/ethereum-org-website/pull/301,2019-10-07T06:10:45Z,2019-10-09T10:02:29Z,1,1,MERGED
+ethereum-org-website,Add asssets page,https://github.com/ethereum/ethereum-org-website/pull/295,2019-10-05T00:13:20Z,2019-10-21T19:24:00Z,5,6,MERGED
+ethereum-org-website,Update body font-size to 1rem [Fixes #290],https://github.com/ethereum/ethereum-org-website/pull/293,2019-10-04T10:21:27Z,2019-10-06T12:30:38Z,0,1,MERGED
+ethereum-org-website,"Add ""Languages"" page [Resolves #258]",https://github.com/ethereum/ethereum-org-website/pull/291,2019-10-04T08:45:41Z,2019-10-06T13:10:13Z,6,8,MERGED
+ethereum-org-website,Add active state styles for sidebars,https://github.com/ethereum/ethereum-org-website/pull/273,2019-10-01T19:53:15Z,2019-10-02T02:23:09Z,0,1,MERGED
+ethereum-org-website,Add Persian translations [Resolves #220],https://github.com/ethereum/ethereum-org-website/pull/270,2019-10-01T01:59:19Z,2019-10-17T03:17:00Z,12,10,MERGED
+ethereum-org-website,Add blurb on community translations [Fixes #576],https://github.com/ethereum/ethereum-org-website/pull/577,2019-11-27T01:20:16Z,2019-11-27T01:32:18Z,1,1,MERGED
+ethereum-org-website,Update Hero.vue,https://github.com/ethereum/ethereum-org-website/pull/533,2019-11-19T12:33:43Z,2019-11-19T19:45:06Z,4,1,MERGED
+ethereum-org-website,Update index.md to include Solidity & Vyper cheat sheet,https://github.com/ethereum/ethereum-org-website/pull/666,2019-12-27T15:22:31Z,2020-01-08T17:05:55Z,5,1,MERGED
+ethereum-org-website,Add Ethereum Foundation YouTube to Footer,https://github.com/ethereum/ethereum-org-website/pull/665,2019-12-26T17:58:11Z,2020-01-07T23:49:36Z,4,4,MERGED
+ethereum-org-website,"Add XL-friendly, configurable layout.",https://github.com/ethereum/ethereum-org-website/pull/636,2019-12-11T00:00:53Z,2019-12-11T15:45:23Z,2,23,MERGED
+ethereum-org-website,Add XL-friendly layout.,https://github.com/ethereum/ethereum-org-website/pull/624,2019-12-05T03:00:13Z,2019-12-10T02:23:12Z,11,7,MERGED
+ethereum-org-website,Adding 3Box  - [Fixes #620],https://github.com/ethereum/ethereum-org-website/pull/621,2019-12-04T13:48:45Z,2019-12-11T14:48:38Z,2,2,MERGED
+ethereum-org-website,Adding the Status DApp Integration Center,https://github.com/ethereum/ethereum-org-website/pull/594,2019-12-02T17:53:03Z,2020-01-21T13:14:44Z,4,3,CLOSED
+ethereum-org-website,add Status to the Developer Resources page,https://github.com/ethereum/ethereum-org-website/pull/694,2020-01-21T13:24:28Z,2020-01-21T16:51:48Z,5,1,MERGED
+ethereum-org-website,Add Community page [Resolves #269],https://github.com/ethereum/ethereum-org-website/pull/692,2020-01-20T19:06:44Z,2020-01-23T17:18:43Z,2,2,MERGED
+ethereum-org-website,Update colors,https://github.com/ethereum/ethereum-org-website/pull/784,2020-02-28T02:34:45Z,2020-02-28T13:11:04Z,0,4,MERGED
+ethereum-org-website,Updated all icons to reference a single component [fixes #758],https://github.com/ethereum/ethereum-org-website/pull/770,2020-02-20T03:53:23Z,2020-02-21T22:40:22Z,9,9,MERGED
+ethereum-org-website,updated to system font stack [fixes #756],https://github.com/ethereum/ethereum-org-website/pull/768,2020-02-19T21:29:18Z,2020-02-20T23:36:42Z,4,2,MERGED
+ethereum-org-website,"Update what is ethereum content structure, remove videos",https://github.com/ethereum/ethereum-org-website/pull/884,2020-03-26T17:43:09Z,2020-05-18T16:45:33Z,3,1,CLOSED
+ethereum-org-website,updated build page (wip),https://github.com/ethereum/ethereum-org-website/pull/881,2020-03-26T16:47:13Z,2020-05-18T16:44:49Z,2,1,CLOSED
+ethereum-org-website,Added icon fills [fixes #876],https://github.com/ethereum/ethereum-org-website/pull/877,2020-03-25T23:15:57Z,2020-03-26T01:47:54Z,0,1,MERGED
+ethereum-org-website,Add dapp explanation,https://github.com/ethereum/ethereum-org-website/pull/854,2020-03-20T17:30:03Z,2020-04-11T20:31:53Z,7,6,MERGED
+ethereum-org-website,Card components [fixes #765],https://github.com/ethereum/ethereum-org-website/pull/843,2020-03-18T13:31:04Z,2020-03-19T17:27:54Z,3,3,MERGED
+ethereum-org-website,updated outline styline styling [fixes #766],https://github.com/ethereum/ethereum-org-website/pull/840,2020-03-18T02:30:47Z,2020-03-18T17:02:25Z,0,1,MERGED
+ethereum-org-website,Lists [fixes #767],https://github.com/ethereum/ethereum-org-website/pull/839,2020-03-18T01:20:00Z,2020-03-19T17:59:36Z,12,4,MERGED
+ethereum-org-website,Update community events [Fixes #828],https://github.com/ethereum/ethereum-org-website/pull/829,2020-03-17T16:34:25Z,2020-03-17T16:35:31Z,0,1,MERGED
+ethereum-org-website,Link styling,https://github.com/ethereum/ethereum-org-website/pull/813,2020-03-10T08:27:44Z,2020-03-16T20:58:16Z,3,4,MERGED
+ethereum-org-website,Add ESP's wishlist as a way to get involved [Fixes #802],https://github.com/ethereum/ethereum-org-website/pull/803,2020-03-07T01:08:14Z,2020-03-09T12:40:59Z,0,1,MERGED
+ethereum-org-website,Update Navigation & Search,https://github.com/ethereum/ethereum-org-website/pull/794,2020-03-04T22:45:36Z,2020-03-17T17:51:18Z,31,34,MERGED
+ethereum-org-website,Add Status to the Ethereum Wallets page,https://github.com/ethereum/ethereum-org-website/pull/792,2020-03-03T15:42:19Z,2020-03-03T20:08:19Z,4,1,CLOSED
+ethereum-org-website,"Update meetups, update twemoji to latest, add parsing to lists",https://github.com/ethereum/ethereum-org-website/pull/990,2020-04-29T22:16:30Z,2020-04-30T22:02:30Z,5,3,MERGED
+ethereum-org-website,Add Ethereum Foundation page,https://github.com/ethereum/ethereum-org-website/pull/989,2020-04-28T22:04:52Z,2020-05-01T19:20:12Z,12,6,MERGED
+ethereum-org-website,Algolia search,https://github.com/ethereum/ethereum-org-website/pull/977,2020-04-21T21:34:36Z,2020-04-22T19:49:09Z,1,12,MERGED
+ethereum-org-website,Add intro to EIPS page [Fixes #831],https://github.com/ethereum/ethereum-org-website/pull/950,2020-04-11T18:44:12Z,2020-04-14T18:12:22Z,11,6,MERGED
+ethereum-org-website,Explain translation version management [Fixes #921],https://github.com/ethereum/ethereum-org-website/pull/922,2020-04-07T16:14:35Z,2020-04-08T16:54:32Z,4,5,MERGED
+ethereum-org-website,Fix pre tag overflow [fixes #860],https://github.com/ethereum/ethereum-org-website/pull/907,2020-04-01T14:35:52Z,2020-04-01T17:09:50Z,0,1,MERGED
+ethereum-org-website,Added twemoji [fixes #776],https://github.com/ethereum/ethereum-org-website/pull/906,2020-04-01T14:24:41Z,2020-04-03T21:35:58Z,1,4,MERGED
+ethereum-org-website,Add Gitcoin hackathon - GitxChange [Fixes #1071],https://github.com/ethereum/ethereum-org-website/pull/1072,2020-05-29T09:39:35Z,2020-05-29T18:11:53Z,1,2,MERGED
+ethereum-org-website,Limit img width styles to whitepaper [Fixes #1048],https://github.com/ethereum/ethereum-org-website/pull/1049,2020-05-27T17:22:59Z,2020-05-27T18:08:56Z,2,1,MERGED
+ethereum-org-website,Remove footer glyph,https://github.com/ethereum/ethereum-org-website/pull/1023,2020-05-18T17:02:26Z,2020-05-18T17:13:34Z,0,1,MERGED
+ethereum-org-website,Update what is ethereum page,https://github.com/ethereum/ethereum-org-website/pull/1018,2020-05-11T15:18:48Z,2020-07-01T15:58:57Z,8,1,CLOSED
+ethereum-org-website,Update homepage,https://github.com/ethereum/ethereum-org-website/pull/1017,2020-05-11T12:15:38Z,2020-06-11T17:39:10Z,12,2,CLOSED
+ethereum-org-website,Remove Matomo tracking pixel,https://github.com/ethereum/ethereum-org-website/pull/1015,2020-05-08T17:55:03Z,2020-05-08T18:02:58Z,0,1,MERGED
+ethereum-org-website,Whitepaper,https://github.com/ethereum/ethereum-org-website/pull/1012,2020-05-07T20:23:53Z,2020-05-18T20:53:17Z,9,5,MERGED
+ethereum-org-website,Fix EF Logo for dark mode,https://github.com/ethereum/ethereum-org-website/pull/1003,2020-05-02T21:36:41Z,2020-05-02T21:44:34Z,0,2,MERGED
+ethereum-org-website,Corrected chinese traditional characters,https://github.com/ethereum/ethereum-org-website/pull/1130,2020-06-19T15:57:49Z,2020-06-19T16:33:59Z,0,1,MERGED
+ethereum-org-website,Sort available languages [Fixes #1121],https://github.com/ethereum/ethereum-org-website/pull/1122,2020-06-16T17:05:13Z,2020-06-16T17:06:41Z,0,1,MERGED
+ethereum-org-website,Homepage finishing touches,https://github.com/ethereum/ethereum-org-website/pull/1115,2020-06-11T10:37:20Z,2020-06-16T16:48:38Z,5,13,MERGED
+ethereum-org-website,What is Ethereum page content,https://github.com/ethereum/ethereum-org-website/pull/1112,2020-06-10T16:38:22Z,2020-07-01T15:59:16Z,2,11,CLOSED
+ethereum-org-website,Add protect privacy hackathon [Fixes #1077],https://github.com/ethereum/ethereum-org-website/pull/1078,2020-06-01T08:02:47Z,2020-06-01T16:03:32Z,0,1,MERGED
+ethereum-org-website,feat: Randomise contributor list ,https://github.com/ethereum/ethereum-org-website/pull/1288,2020-07-29T18:23:25Z,2020-08-11T18:38:49Z,4,1,MERGED
+ethereum-org-website,chore: Adding references to exchanges for the UAE #1283,https://github.com/ethereum/ethereum-org-website/pull/1286,2020-07-28T23:06:53Z,2020-10-08T20:26:44Z,4,1,CLOSED
+ethereum-org-website,Fix dharma,https://github.com/ethereum/ethereum-org-website/pull/1267,2020-07-26T18:43:28Z,2020-07-26T18:44:18Z,0,2,MERGED
+ethereum-org-website,Get ETH US State exceptions updated [Fixes #1264],https://github.com/ethereum/ethereum-org-website/pull/1265,2020-07-25T05:34:19Z,2020-07-25T20:26:14Z,0,4,MERGED
+ethereum-org-website,Updating other tutorials on /build [Fixes #1010],https://github.com/ethereum/ethereum-org-website/pull/1260,2020-07-24T14:14:26Z,2020-07-24T16:11:18Z,0,2,MERGED
+ethereum-org-website,fix: Arrow icon wraps with the last word of the link,https://github.com/ethereum/ethereum-org-website/pull/1235,2020-07-21T11:31:20Z,2020-07-22T17:57:53Z,2,1,CLOSED
+ethereum-org-website,import locales on moment.js #1231,https://github.com/ethereum/ethereum-org-website/pull/1234,2020-07-20T21:59:31Z,2020-07-21T14:46:57Z,3,1,MERGED
+ethereum-org-website,add: RFC2822 Date on moment ,https://github.com/ethereum/ethereum-org-website/pull/1228,2020-07-18T00:30:50Z,2020-07-20T18:35:19Z,2,1,MERGED
+ethereum-org-website,Fix callout cutoff,https://github.com/ethereum/ethereum-org-website/pull/1194,2020-07-11T00:13:49Z,2020-07-11T00:27:57Z,0,1,MERGED
+ethereum-org-website,Fixed #1149,https://github.com/ethereum/ethereum-org-website/pull/1161,2020-07-06T09:46:18Z,2020-07-07T00:41:29Z,5,2,MERGED
+ethereum-org-website,Always show wallet filter tags,https://github.com/ethereum/ethereum-org-website/pull/1386,2020-08-31T03:09:48Z,2020-08-31T14:34:29Z,0,2,MERGED
+ethereum-org-website,Phil/wallets translations,https://github.com/ethereum/ethereum-org-website/pull/1434,2020-09-11T22:58:40Z,2020-09-16T16:25:34Z,8,3,MERGED
+ethereum-org-website,Phil/eth translations,https://github.com/ethereum/ethereum-org-website/pull/1430,2020-09-10T22:56:54Z,2020-09-16T16:19:27Z,4,2,MERGED
+ethereum-org-website,Translate find-wallet page [Fixes #1399],https://github.com/ethereum/ethereum-org-website/pull/1428,2020-09-09T18:15:25Z,2020-09-16T16:06:42Z,2,4,MERGED
+ethereum-org-website,Adds list item styling [alternative fix to #1714],https://github.com/ethereum/ethereum-org-website/pull/1716,2020-10-31T22:43:04Z,2020-11-02T15:58:03Z,0,1,MERGED
+ethereum-org-website,Added mobile ToC component to static template [Fixed #1705],https://github.com/ethereum/ethereum-org-website/pull/1713,2020-10-31T00:07:28Z,2020-10-31T19:31:12Z,1,3,MERGED
+ethereum-org-website,Added border-right to docs SideNav [Fixes #1710],https://github.com/ethereum/ethereum-org-website/pull/1712,2020-10-30T22:21:43Z,2020-10-31T19:33:28Z,0,1,MERGED
+ethereum-org-website,Adjusts mobile docs navbar and content position [Fixes #1677],https://github.com/ethereum/ethereum-org-website/pull/1682,2020-10-26T02:17:19Z,2020-10-26T18:28:20Z,0,1,MERGED
+ethereum-org-website,React-icons-FontAwesome,https://github.com/ethereum/ethereum-org-website/pull/1674,2020-10-25T11:30:16Z,2020-10-28T16:32:05Z,6,1,MERGED
+ethereum-org-website,[WIP] Glossary Page #1127,https://github.com/ethereum/ethereum-org-website/pull/1673,2020-10-24T06:16:04Z,2020-11-02T14:47:21Z,24,28,MERGED
+ethereum-org-website,"Adds ""Previous"" & ""Next"" links to Developer Docs pages [Addresses #1650]",https://github.com/ethereum/ethereum-org-website/pull/1670,2020-10-23T02:29:39Z,2020-10-27T18:13:48Z,3,24,MERGED
+ethereum-org-website,Update /learning-tools metadata,https://github.com/ethereum/ethereum-org-website/pull/1659,2020-10-21T17:13:11Z,2020-10-21T17:13:24Z,0,1,MERGED
+ethereum-org-website,Added HomeLogoNavLink component [Fixes #1655],https://github.com/ethereum/ethereum-org-website/pull/1656,2020-10-20T20:29:38Z,2020-10-21T16:20:32Z,0,2,MERGED
+ethereum-org-website,Add new exchanges,https://github.com/ethereum/ethereum-org-website/pull/1595,2020-10-08T19:46:05Z,2020-10-08T20:13:30Z,3,2,MERGED
+ethereum-org-website,Removes trailing underlined space on internal links,https://github.com/ethereum/ethereum-org-website/pull/2002,2020-11-30T23:15:45Z,2020-12-01T02:21:21Z,0,2,MERGED
+ethereum-org-website,"Fixes links within mdx h2/h3, adjusts `code` css [Fixes #1843]",https://github.com/ethereum/ethereum-org-website/pull/1917,2020-11-22T20:58:51Z,2020-11-25T03:07:47Z,5,5,MERGED
+ethereum-org-website,More header tag fixes,https://github.com/ethereum/ethereum-org-website/pull/1914,2020-11-22T03:41:19Z,2020-11-23T11:44:19Z,0,6,MERGED
+ethereum-org-website,Make docs links full width on mobile,https://github.com/ethereum/ethereum-org-website/pull/1838,2020-11-15T00:03:48Z,2020-11-16T15:54:13Z,1,2,MERGED
+ethereum-org-website,Updated Buidler to Hardhat (rebranded),https://github.com/ethereum/ethereum-org-website/pull/1819,2020-11-13T18:12:31Z,2020-11-13T19:23:25Z,9,4,MERGED
+ethereum-org-website,"Upgrades ProductCard component (adds subjects / GitHub info) [Closes #1782, Closes #1783]",https://github.com/ethereum/ethereum-org-website/pull/1808,2020-11-13T07:56:02Z,2020-11-30T22:06:01Z,21,50,MERGED
+ethereum-org-website,About page bug fix (Missing custom ID on header),https://github.com/ethereum/ethereum-org-website/pull/1802,2020-11-12T20:29:59Z,2020-11-12T20:39:50Z,0,1,MERGED
+ethereum-org-website,Removes color styling override of external links [Fixes #1788],https://github.com/ethereum/ethereum-org-website/pull/1794,2020-11-11T19:48:16Z,2020-11-11T20:27:55Z,0,1,MERGED
+ethereum-org-website,Eth2 bug fixes (nesting/margin),https://github.com/ethereum/ethereum-org-website/pull/1771,2020-11-11T05:45:41Z,2020-11-11T17:17:50Z,0,2,MERGED
+ethereum-org-website,Adds component import/exports to templates [Fixes #1768],https://github.com/ethereum/ethereum-org-website/pull/1770,2020-11-11T05:31:20Z,2020-11-11T20:24:12Z,6,4,MERGED
+ethereum-org-website,[WIP] UI/UX Community upgrade [Issue #1762],https://github.com/ethereum/ethereum-org-website/pull/1763,2020-11-09T19:47:19Z,2021-01-23T17:29:10Z,7,50,CLOSED
+ethereum-org-website,Internal link component [Issue #1737],https://github.com/ethereum/ethereum-org-website/pull/1753,2020-11-06T03:15:54Z,2020-11-12T20:49:09Z,13,12,MERGED
+ethereum-org-website,Increase top to account for Nav,https://github.com/ethereum/ethereum-org-website/pull/1733,2020-11-03T15:26:26Z,2020-11-03T15:46:12Z,0,1,MERGED
+ethereum-org-website,Refactoring Codeblock component [Issue#2158],https://github.com/ethereum/ethereum-org-website/pull/2188,2020-12-29T15:01:16Z,2021-01-19T19:28:04Z,9,1,MERGED
+ethereum-org-website,Fix broken translation ID,https://github.com/ethereum/ethereum-org-website/pull/2163,2020-12-21T18:47:52Z,2020-12-21T18:48:06Z,0,1,MERGED
+ethereum-org-website,Switch wallet results to grid `auto-fill`,https://github.com/ethereum/ethereum-org-website/pull/2119,2020-12-15T01:44:34Z,2020-12-15T08:58:22Z,0,1,MERGED
+ethereum-org-website,"Adds translation ""Loading"" text for get-eth page",https://github.com/ethereum/ethereum-org-website/pull/2109,2020-12-12T19:51:35Z,2020-12-14T15:12:03Z,1,1,CLOSED
+ethereum-org-website,Light mode for code [Fixes 2096],https://github.com/ethereum/ethereum-org-website/pull/2098,2020-12-10T06:42:38Z,2020-12-14T15:08:30Z,1,4,MERGED
+ethereum-org-website,Moves layout of Hero image to below HeroContent on mobile,https://github.com/ethereum/ethereum-org-website/pull/2089,2020-12-09T03:44:03Z,2020-12-09T17:47:54Z,0,1,MERGED
+ethereum-org-website,Added transparent logo.,https://github.com/ethereum/ethereum-org-website/pull/2051,2020-12-04T09:22:39Z,2020-12-04T19:43:59Z,6,13,MERGED
+ethereum-org-website,Update Trust Wallet logo,https://github.com/ethereum/ethereum-org-website/pull/2036,2020-12-03T07:09:20Z,2020-12-03T09:59:06Z,3,1,MERGED
+ethereum-org-website,Refactored whitepaper images for dark mode [Fixes #2013],https://github.com/ethereum/ethereum-org-website/pull/2030,2020-12-02T17:57:18Z,2020-12-02T19:11:13Z,0,3,MERGED
+ethereum-org-website,Fix layout of ExampleDapp,https://github.com/ethereum/ethereum-org-website/pull/2243,2021-01-13T13:43:28Z,2021-01-20T00:34:28Z,2,1,MERGED
+ethereum-org-website,Intro to dapps docs: Fix Turing completeness,https://github.com/ethereum/ethereum-org-website/pull/2239,2021-01-12T12:39:32Z,2021-01-14T10:03:51Z,2,1,MERGED
+ethereum-org-website,Add Gemini to USA exchanges [Fixes #2487],https://github.com/ethereum/ethereum-org-website/pull/2488,2021-02-25T15:39:32Z,2021-02-25T15:45:50Z,0,1,MERGED
+ethereum-org-website,Sidechain glossary link bug fix,https://github.com/ethereum/ethereum-org-website/pull/2415,2021-02-11T07:13:19Z,2021-02-11T18:00:52Z,0,1,MERGED
+ethereum-org-website,Accessibility improvements,https://github.com/ethereum/ethereum-org-website/pull/2389,2021-02-05T05:43:56Z,2021-02-22T21:58:11Z,2,2,MERGED
+ethereum-org-website,Change Dapps Features to use Shared Styled Card Component,https://github.com/ethereum/ethereum-org-website/pull/2365,2021-02-02T07:53:21Z,2021-02-12T09:08:41Z,5,5,CLOSED
+ethereum-org-website,add conditional logic to onCreatePage hook to address TranslationBanner bug #2757,https://github.com/ethereum/ethereum-org-website/pull/2765,2021-03-31T17:06:28Z,2021-04-07T00:31:35Z,1,3,MERGED
+ethereum-org-website,Add JetBrains to IDEs [Fixes #2743],https://github.com/ethereum/ethereum-org-website/pull/2761,2021-03-30T12:56:48Z,2021-03-31T00:24:56Z,4,1,MERGED
+ethereum-org-website,Update deploying-your-first-smart-contract tutorial,https://github.com/ethereum/ethereum-org-website/pull/2693,2021-03-20T18:12:40Z,2021-03-22T21:45:36Z,3,2,MERGED
+ethereum-org-website,Fix dev section mobile display [Fixes #2566],https://github.com/ethereum/ethereum-org-website/pull/2570,2021-03-08T19:55:05Z,2021-03-09T00:31:42Z,2,1,MERGED
+ethereum-org-website,Fix mobile side navigation rendering issue [Fixes #2301],https://github.com/ethereum/ethereum-org-website/pull/2565,2021-03-08T14:29:42Z,2021-03-09T01:19:09Z,1,1,MERGED
+ethereum-org-website,Bounty patch [Fixes #2895],https://github.com/ethereum/ethereum-org-website/pull/2921,2021-04-23T18:23:09Z,2021-04-26T20:03:51Z,1,2,MERGED
+ethereum-org-website,Update StatBoxGrid development fallback figures ,https://github.com/ethereum/ethereum-org-website/pull/3159,2021-05-29T20:55:08Z,2021-06-01T04:35:36Z,0,1,MERGED
+ethereum-org-website,Add missing assets,https://github.com/ethereum/ethereum-org-website/pull/3158,2021-05-29T17:27:11Z,2021-06-02T02:16:16Z,2,18,MERGED
+ethereum-org-website,Fix markup in gas/index.md,https://github.com/ethereum/ethereum-org-website/pull/3087,2021-05-21T07:04:05Z,2021-05-21T20:43:45Z,2,3,MERGED
+ethereum-org-website,Typo correction,https://github.com/ethereum/ethereum-org-website/pull/3015,2021-05-10T21:30:21Z,2021-05-10T21:30:30Z,0,1,MERGED
+ethereum-org-website,Fix translated What is Ethereum page mobile layouts [Fixes #3316],https://github.com/ethereum/ethereum-org-website/pull/3328,2021-06-22T05:57:26Z,2021-06-23T23:22:59Z,2,1,MERGED
+ethereum-org-website,Fix Translation Banner Logic,https://github.com/ethereum/ethereum-org-website/pull/3227,2021-06-08T20:37:58Z,2021-08-05T20:18:16Z,1,1,CLOSED
+ethereum-org-website,contributors modal shows duplicates [Fixes #3468],https://github.com/ethereum/ethereum-org-website/pull/3473,2021-07-25T21:38:07Z,2021-07-30T04:15:09Z,3,1,MERGED
+ethereum-org-website,Distinguish production-ready Eth2 clients [Fixes #3422],https://github.com/ethereum/ethereum-org-website/pull/3432,2021-07-15T17:42:17Z,2021-07-25T18:05:53Z,0,1,MERGED
+ethereum-org-website,Adds POAP to collectibles category of dapps [Fixes #3377],https://github.com/ethereum/ethereum-org-website/pull/3401,2021-07-08T00:05:39Z,2021-07-10T19:21:58Z,2,1,MERGED
+ethereum-org-website,Align energy calculations with Carl´s article [Fixes #3072],https://github.com/ethereum/ethereum-org-website/pull/3777,2021-08-31T19:46:59Z,2021-09-01T10:25:03Z,7,4,MERGED
+ethereum-org-website,Remove fullstops from link list on NFT page,https://github.com/ethereum/ethereum-org-website/pull/3772,2021-08-31T13:33:09Z,2021-09-07T20:14:52Z,0,1,MERGED
+ethereum-org-website,Increase Trilemma viewBox width to fit text on Linux,https://github.com/ethereum/ethereum-org-website/pull/3761,2021-08-30T21:42:09Z,2021-08-31T09:01:01Z,3,1,MERGED
+ethereum-org-website,add component for developer docs readme page,https://github.com/ethereum/ethereum-org-website/pull/3737,2021-08-27T13:49:10Z,2021-09-14T22:09:41Z,12,6,MERGED
+ethereum-org-website,feat: lambda school added in the developer bootcamps,https://github.com/ethereum/ethereum-org-website/pull/3692,2021-08-21T11:30:05Z,2021-08-25T10:29:44Z,6,1,MERGED
+ethereum-org-website,Add dates to tutorials missing dates,https://github.com/ethereum/ethereum-org-website/pull/3679,2021-08-20T10:39:11Z,2021-08-23T16:56:37Z,0,2,MERGED
+ethereum-org-website,Update README developer doc,https://github.com/ethereum/ethereum-org-website/pull/4095,2021-09-30T14:37:48Z,2021-09-30T23:43:24Z,1,2,MERGED
+ethereum-org-website,Fix GitHub typos,https://github.com/ethereum/ethereum-org-website/pull/4080,2021-09-29T11:53:23Z,2021-09-29T20:36:04Z,0,1,MERGED
+ethereum-org-website,Add missing breadcrumbs for Translation program pages,https://github.com/ethereum/ethereum-org-website/pull/4039,2021-09-27T09:56:18Z,2021-09-27T13:43:46Z,1,1,MERGED
+ethereum-org-website,Add missing breadcrumbs for Governance page,https://github.com/ethereum/ethereum-org-website/pull/4038,2021-09-27T09:43:51Z,2021-09-27T13:41:02Z,1,1,MERGED
+ethereum-org-website,Fix Fallback Language Direction #4028,https://github.com/ethereum/ethereum-org-website/pull/4035,2021-09-26T15:13:52Z,2021-09-29T00:21:19Z,6,1,MERGED
+ethereum-org-website,Shortcut to Focus Search #4027,https://github.com/ethereum/ethereum-org-website/pull/4031,2021-09-25T10:11:27Z,2021-10-28T23:56:25Z,21,8,MERGED
+ethereum-org-website,Add more explicit font families for monospace fonts,https://github.com/ethereum/ethereum-org-website/pull/3918,2021-09-16T11:34:27Z,2021-09-22T20:04:05Z,6,4,MERGED
+ethereum-org-website,Fix all-contributors badge to autoupdate,https://github.com/ethereum/ethereum-org-website/pull/3875,2021-09-11T12:20:37Z,2021-09-11T13:10:55Z,1,3,MERGED
+ethereum-org-website,Update ETH2 dates for some translated pages,https://github.com/ethereum/ethereum-org-website/pull/3832,2021-09-06T15:25:05Z,2021-09-07T20:48:08Z,0,2,MERGED
+ethereum-org-website,Filter Spam/Abandoned issues from Implemented section of the Roadmap on About page,https://github.com/ethereum/ethereum-org-website/pull/3822,2021-09-05T21:59:58Z,2021-09-09T15:32:19Z,3,2,MERGED
+ethereum-org-website,"Fix emoji rendering on history page for es, ro, hu and zh",https://github.com/ethereum/ethereum-org-website/pull/3821,2021-09-05T21:01:08Z,2021-09-07T20:36:49Z,0,1,MERGED
+ethereum-org-website,Fix Emoji on design-principles page,https://github.com/ethereum/ethereum-org-website/pull/3820,2021-09-05T20:22:52Z,2021-09-07T20:35:26Z,0,1,MERGED
+ethereum-org-website,Remove the word 'dapp' from intro to ether description,https://github.com/ethereum/ethereum-org-website/pull/3781,2021-09-01T08:58:30Z,2021-09-07T20:15:59Z,1,1,MERGED
+ethereum-org-website,Feature: Zen Mode Toggle for Documentation Pages,https://github.com/ethereum/ethereum-org-website/pull/4131,2021-10-04T15:19:47Z,2021-10-29T00:02:44Z,16,24,MERGED
+ethereum-org-website,"Add links to ""More on Tokens and their uses""",https://github.com/ethereum/ethereum-org-website/pull/4554,2021-11-26T15:38:14Z,2021-11-27T16:27:16Z,7,2,MERGED
+ethereum-org-website,Show header ID chain on hover for docs/static templates,https://github.com/ethereum/ethereum-org-website/pull/4546,2021-11-26T11:28:02Z,2021-11-29T14:52:29Z,1,1,MERGED
+ethereum-org-website,Color update to increase accessibility [Fix #4426],https://github.com/ethereum/ethereum-org-website/pull/4456,2021-11-13T11:01:35Z,2021-11-15T12:24:35Z,3,1,MERGED
+ethereum-org-website,Update link to geth installation instructions,https://github.com/ethereum/ethereum-org-website/pull/4367,2021-11-01T19:42:03Z,2021-11-02T11:43:47Z,1,1,MERGED
+ethereum-org-website,Resolve 'BugBountyCards.js' todo. Fixes #4303,https://github.com/ethereum/ethereum-org-website/pull/4905,2021-12-27T02:07:40Z,2022-01-05T11:51:34Z,11,2,MERGED
+ethereum-org-website,Fix buggy markdown link syntax,https://github.com/ethereum/ethereum-org-website/pull/4819,2021-12-17T19:44:45Z,2021-12-20T14:37:11Z,1,1,MERGED
+ethereum-org-website,Crowdin export formatting fixes ,https://github.com/ethereum/ethereum-org-website/pull/4806,2021-12-16T20:58:02Z,2021-12-17T00:30:57Z,3,5,MERGED
+ethereum-org-website,Update eth price granularity,https://github.com/ethereum/ethereum-org-website/pull/4797,2021-12-16T05:22:16Z,2021-12-19T16:47:36Z,2,2,MERGED
+ethereum-org-website,Render StatsBoxGrid as a span [Fixes #4757],https://github.com/ethereum/ethereum-org-website/pull/4779,2021-12-14T18:59:09Z,2021-12-15T11:31:21Z,2,2,MERGED
+ethereum-org-website,Adjust `relativePathStart` logic [Fixes #4710],https://github.com/ethereum/ethereum-org-website/pull/4763,2021-12-14T00:40:18Z,2021-12-14T04:45:55Z,2,1,MERGED
+ethereum-org-website,Design: Redesign `TableOfContents`,https://github.com/ethereum/ethereum-org-website/pull/4722,2021-12-10T20:36:46Z,2021-12-20T20:12:42Z,6,5,MERGED
+ethereum-org-website,Fixed a typo on the developers page [fixes #4608],https://github.com/ethereum/ethereum-org-website/pull/4635,2021-12-03T18:51:25Z,2021-12-06T14:35:11Z,3,1,MERGED
+ethereum-org-website,Fix intl string bug,https://github.com/ethereum/ethereum-org-website/pull/5256,2022-01-28T02:28:09Z,2022-01-28T12:00:36Z,1,1,MERGED
+ethereum-org-website,Fix: svg hover bug on WalletCard,https://github.com/ethereum/ethereum-org-website/pull/5158,2022-01-19T22:22:18Z,2022-01-20T09:51:10Z,1,1,MERGED
+ethereum-org-website,Setup upgrade pages for full translation,https://github.com/ethereum/ethereum-org-website/pull/5054,2022-01-11T16:41:26Z,2022-01-12T12:04:07Z,3,1,MERGED
+ethereum-org-website,Display contributor count,https://github.com/ethereum/ethereum-org-website/pull/5024,2022-01-08T01:56:50Z,2022-01-18T15:56:18Z,4,2,MERGED
+ethereum-org-website,Simplify cpubenchmark link,https://github.com/ethereum/ethereum-org-website/pull/5413,2022-02-13T18:41:31Z,2022-02-14T15:45:53Z,1,1,MERGED
+ethereum-org-website,SVG upgrade using gatsby-plugin-react-svg,https://github.com/ethereum/ethereum-org-website/pull/5864,2022-03-31T20:10:01Z,2022-04-05T00:09:17Z,5,4,MERGED
+ethereum-org-website,Add missing header IDs in NFT minter tutorial,https://github.com/ethereum/ethereum-org-website/pull/5808,2022-03-29T13:19:28Z,2022-03-29T14:46:15Z,1,1,MERGED
+ethereum-org-website,Fix small typo on EthExchanges,https://github.com/ethereum/ethereum-org-website/pull/5732,2022-03-23T12:42:16Z,2022-03-23T15:09:13Z,1,1,MERGED
+ethereum-org-website,Refactor to avoid using ids in the search inputs,https://github.com/ethereum/ethereum-org-website/pull/5727,2022-03-22T21:41:21Z,2022-03-23T15:10:46Z,2,1,MERGED
+ethereum-org-website,Fix inconsistent spellings of JavaScript ,https://github.com/ethereum/ethereum-org-website/pull/5659,2022-03-12T07:14:42Z,2022-03-14T14:12:47Z,19,104,MERGED
+ethereum-org-website,New color for the theme (mostly seen on safari),https://github.com/ethereum/ethereum-org-website/pull/6029,2022-04-14T11:20:41Z,2022-04-15T13:17:17Z,4,1,MERGED
+ethereum-org-website,[DO NOT MERGE] Design Proposal [Issue #5904],https://github.com/ethereum/ethereum-org-website/pull/5977,2022-04-08T13:14:05Z,2022-04-08T13:50:31Z,2,1,CLOSED
+ethereum-org-website,Remove legacy meetup (they are now BSV maxis),https://github.com/ethereum/ethereum-org-website/pull/5931,2022-04-07T06:40:27Z,2022-04-07T10:56:28Z,1,1,MERGED
+ethereum-org-website,Anchor div space,https://github.com/ethereum/ethereum-org-website/pull/5929,2022-04-06T20:22:27Z,2022-04-11T13:02:53Z,1,1,MERGED
+ethereum-org-website,Add `hyphens` settings to tables [Fixes #6268],https://github.com/ethereum/ethereum-org-website/pull/6495,2022-05-29T13:27:21Z,2022-05-30T10:53:09Z,3,1,MERGED
+ethereum-org-website,404 redirect bug,https://github.com/ethereum/ethereum-org-website/pull/6356,2022-05-17T00:27:57Z,2022-07-21T16:31:29Z,5,5,CLOSED
+ethereum-org-website,Fix broken emojis on History page,https://github.com/ethereum/ethereum-org-website/pull/6219,2022-05-05T09:02:39Z,2022-05-06T08:36:44Z,1,1,MERGED
+ethereum-org-website,docs: Fix outdated links for UniswapV2Router documentation,https://github.com/ethereum/ethereum-org-website/pull/6181,2022-05-01T17:43:17Z,2022-05-02T08:56:54Z,4,2,MERGED
+ethereum-org-website,[Do not merge] - Sort wallet features,https://github.com/ethereum/ethereum-org-website/pull/6870,2022-06-30T11:12:43Z,2022-06-30T18:24:15Z,0,3,MERGED
+ethereum-org-website,Fix typo in execution-bounty-hunters.csv,https://github.com/ethereum/ethereum-org-website/pull/6802,2022-06-22T23:15:54Z,2022-06-30T17:06:09Z,1,1,MERGED
+ethereum-org-website,Upgrade home icon to svg,https://github.com/ethereum/ethereum-org-website/pull/6765,2022-06-22T01:44:57Z,2022-06-22T19:00:36Z,1,1,MERGED
+ethereum-org-website,Remove eth2 card,https://github.com/ethereum/ethereum-org-website/pull/6731,2022-06-17T15:12:19Z,2022-06-22T19:07:09Z,1,2,MERGED
+ethereum-org-website,Revert string removal,https://github.com/ethereum/ethereum-org-website/pull/6719,2022-06-17T01:20:00Z,2022-06-17T12:41:19Z,1,1,MERGED
+ethereum-org-website,Merge infographic,https://github.com/ethereum/ethereum-org-website/pull/6697,2022-06-15T00:45:22Z,2022-06-20T16:40:03Z,3,7,MERGED
+ethereum-org-website,Optimistic feedback dot,https://github.com/ethereum/ethereum-org-website/pull/6624,2022-06-09T19:58:12Z,2022-06-13T17:14:57Z,3,4,MERGED
+ethereum-org-website,Example: Using a mapping to give langs to markdown links,https://github.com/ethereum/ethereum-org-website/pull/7238,2022-07-29T08:25:32Z,2022-07-29T08:25:48Z,0,2,CLOSED
+ethereum-org-website,Move data availability markdown file to proper folder,https://github.com/ethereum/ethereum-org-website/pull/7200,2022-07-27T01:06:05Z,2022-07-27T13:16:55Z,5,1,MERGED
+ethereum-org-website,Remove wallet data and elements from /wallets/ page,https://github.com/ethereum/ethereum-org-website/pull/7185,2022-07-26T00:04:20Z,2022-08-02T03:24:32Z,3,1,MERGED
+ethereum-org-website,Create page for the Merge Data Challenge,https://github.com/ethereum/ethereum-org-website/pull/7182,2022-07-25T20:20:09Z,2022-08-05T19:33:43Z,13,14,CLOSED
+ethereum-org-website,Update Bloxstaking SaaS entry [Fixes #7144],https://github.com/ethereum/ethereum-org-website/pull/7177,2022-07-25T17:15:39Z,2022-07-27T14:16:59Z,1,2,MERGED
+ethereum-org-website,Change the checkbox to radio on the profile chooser box,https://github.com/ethereum/ethereum-org-website/pull/7159,2022-07-21T20:43:55Z,2022-08-15T08:58:32Z,7,3,MERGED
+ethereum-org-website,Remove extra H1 from upgrading smart contracts,https://github.com/ethereum/ethereum-org-website/pull/7106,2022-07-18T09:19:41Z,2022-07-18T10:12:43Z,2,1,MERGED
+ethereum-org-website,Update tokenpocket wallet info,https://github.com/ethereum/ethereum-org-website/pull/7100,2022-07-18T04:21:00Z,2022-07-18T08:40:06Z,5,2,MERGED
+ethereum-org-website,Add Stablecoins.wtf reference [Fixes #7093],https://github.com/ethereum/ethereum-org-website/pull/7094,2022-07-16T20:59:17Z,2022-08-03T23:04:28Z,6,3,MERGED
+ethereum-org-website,Mark consensus mechanism page as complete,https://github.com/ethereum/ethereum-org-website/pull/7068,2022-07-14T20:07:08Z,2022-07-14T20:23:55Z,2,1,MERGED
+ethereum-org-website,Remove italic tags from SocialListItem markdown,https://github.com/ethereum/ethereum-org-website/pull/7037,2022-07-13T11:52:48Z,2022-07-13T18:03:17Z,1,1,MERGED
+ethereum-org-website,Refactor how we hide table of contents and edit on GitHub button,https://github.com/ethereum/ethereum-org-website/pull/7036,2022-07-13T10:44:44Z,2022-09-29T13:56:44Z,7,2,CLOSED
+ethereum-org-website,changed the max-page-width to 1280px for comfort testing,https://github.com/ethereum/ethereum-org-website/pull/7019,2022-07-12T10:57:01Z,2022-07-13T10:24:51Z,3,1,CLOSED
+ethereum-org-website,Fix broken 'author' frontmatter prop on run a light node tutorial,https://github.com/ethereum/ethereum-org-website/pull/6966,2022-07-06T20:53:10Z,2022-07-06T21:45:52Z,0,1,MERGED
+ethereum-org-website,Fix broken tutorial dates,https://github.com/ethereum/ethereum-org-website/pull/6962,2022-07-06T20:24:44Z,2022-07-06T21:42:44Z,0,1,MERGED
+ethereum-org-website,"Remove ""shard chains"" from use cases table of contents",https://github.com/ethereum/ethereum-org-website/pull/6959,2022-07-06T17:27:29Z,2022-07-06T21:49:15Z,1,3,MERGED
+ethereum-org-website,Add missing sharding breadcrumbs,https://github.com/ethereum/ethereum-org-website/pull/6958,2022-07-06T17:15:19Z,2022-07-06T21:41:07Z,2,3,MERGED
+ethereum-org-website,Remove Gatsby warning on jobs.tsx,https://github.com/ethereum/ethereum-org-website/pull/6956,2022-07-06T16:57:24Z,2022-07-06T20:05:03Z,2,2,MERGED
+ethereum-org-website,Fix use-cases template list item styling bug,https://github.com/ethereum/ethereum-org-website/pull/6954,2022-07-06T16:48:05Z,2022-07-06T19:30:54Z,0,1,MERGED
+ethereum-org-website,Hook to check Language Attribute in a Markdown file,https://github.com/ethereum/ethereum-org-website/pull/6899,2022-07-02T11:09:55Z,2022-09-05T12:44:11Z,20,14,CLOSED
+ethereum-org-website,Fix broken header on Blog translation page,https://github.com/ethereum/ethereum-org-website/pull/7560,2022-08-24T18:25:16Z,2022-08-25T08:29:02Z,2,1,MERGED
+ethereum-org-website,Update DAppNode multi-client status,https://github.com/ethereum/ethereum-org-website/pull/7517,2022-08-21T15:31:25Z,2022-08-22T22:12:36Z,1,1,MERGED
+ethereum-org-website,Update Dapps.tsx and SharedStyledComponents.tsx,https://github.com/ethereum/ethereum-org-website/pull/7507,2022-08-20T12:38:32Z,2022-08-29T11:20:28Z,1,4,CLOSED
+ethereum-org-website,Fix: height of homeIcon svg,https://github.com/ethereum/ethereum-org-website/pull/7426,2022-08-13T00:30:48Z,2022-08-13T16:43:20Z,1,1,MERGED
+ethereum-org-website,Add ECH Discord to Get Involved page,https://github.com/ethereum/ethereum-org-website/pull/7398,2022-08-11T13:13:02Z,2022-08-11T15:56:15Z,1,1,MERGED
+ethereum-org-website,Put wallet hero image below hero content on mobile screens,https://github.com/ethereum/ethereum-org-website/pull/7315,2022-08-05T15:54:56Z,2022-08-05T19:40:33Z,1,1,MERGED
+ethereum-org-website,Migrate release banner component to chakra UI,https://github.com/ethereum/ethereum-org-website/pull/8081,2022-09-29T10:26:38Z,2022-10-25T13:01:27Z,10,8,MERGED
+ethereum-org-website,Replace codeblocks with tables on blocks page,https://github.com/ethereum/ethereum-org-website/pull/8073,2022-09-29T04:12:47Z,2022-10-27T20:04:06Z,4,2,MERGED
+ethereum-org-website,refactor: TitleCardList to chakra,https://github.com/ethereum/ethereum-org-website/pull/8067,2022-09-28T16:57:59Z,2023-03-28T15:44:44Z,25,12,MERGED
+ethereum-org-website,Refactor of DataProductCard to Chakra,https://github.com/ethereum/ethereum-org-website/pull/8015,2022-09-25T13:02:16Z,2022-10-10T19:19:52Z,15,9,MERGED
+ethereum-org-website,Add missing header ID on zk page,https://github.com/ethereum/ethereum-org-website/pull/7999,2022-09-23T12:10:10Z,2022-09-23T18:45:33Z,1,1,MERGED
+ethereum-org-website,Fix typo on The Merge,https://github.com/ethereum/ethereum-org-website/pull/7871,2022-09-16T03:12:41Z,2022-09-16T13:14:33Z,5,1,MERGED
+ethereum-org-website,add classes to selectors_exclude to ignore new chakra way of doing links,https://github.com/ethereum/ethereum-org-website/pull/7824,2022-09-13T11:12:00Z,2022-09-14T08:54:43Z,1,4,MERGED
+ethereum-org-website,[UI] Banner Notification: migrate component to chakra ui,https://github.com/ethereum/ethereum-org-website/pull/7778,2022-09-09T19:17:20Z,2022-09-12T14:17:42Z,1,1,MERGED
+ethereum-org-website,"fixing typos, inconsistent spellings and padding",https://github.com/ethereum/ethereum-org-website/pull/8396,2022-10-28T13:44:56Z,2022-10-31T09:07:12Z,4,1,MERGED
+ethereum-org-website,fix table out of size issue,https://github.com/ethereum/ethereum-org-website/pull/8332,2022-10-23T17:43:03Z,2022-10-25T02:03:29Z,3,2,MERGED
+ethereum-org-website,Migrate slider component to chakra UI,https://github.com/ethereum/ethereum-org-website/pull/8266,2022-10-15T18:37:40Z,2022-10-27T19:44:15Z,7,17,MERGED
+ethereum-org-website,Disable text selection of example ETH address,https://github.com/ethereum/ethereum-org-website/pull/8260,2022-10-15T04:29:38Z,2022-10-15T04:34:31Z,1,1,MERGED
+ethereum-org-website,[UI] Stablecoin Box Grid: migrate component to chakra UI,https://github.com/ethereum/ethereum-org-website/pull/8201,2022-10-07T14:45:14Z,2022-10-31T16:36:49Z,17,10,MERGED
+ethereum-org-website,Migrate `UpgradeStatus.tsx` to Chakra UI,https://github.com/ethereum/ethereum-org-website/pull/8195,2022-10-06T21:15:21Z,2022-10-21T01:14:10Z,8,6,MERGED
+ethereum-org-website,added animation to Find Wallet filter panel in mobile [Fixes #8172],https://github.com/ethereum/ethereum-org-website/pull/8193,2022-10-06T14:45:48Z,2023-01-05T16:27:58Z,4,1,CLOSED
+ethereum-org-website,Update page-what-is-ethereum.json,https://github.com/ethereum/ethereum-org-website/pull/8186,2022-10-06T02:38:45Z,2022-10-27T22:17:05Z,4,3,MERGED
+ethereum-org-website,Improve CSS of StyledCard in developers page,https://github.com/ethereum/ethereum-org-website/pull/8132,2022-10-01T19:07:27Z,2022-10-05T14:27:04Z,9,4,MERGED
+ethereum-org-website,Fix markdown link display,https://github.com/ethereum/ethereum-org-website/pull/8130,2022-10-01T16:00:50Z,2022-10-04T08:55:04Z,1,1,MERGED
+ethereum-org-website,Migrate BugBountyCards component to chakra UI [Relates to #6374],https://github.com/ethereum/ethereum-org-website/pull/8739,2022-11-25T19:12:29Z,2022-12-22T19:22:08Z,9,26,MERGED
+ethereum-org-website,Remove unwanted tutorial tags,https://github.com/ethereum/ethereum-org-website/pull/8631,2022-11-17T14:37:13Z,2022-12-22T20:00:45Z,1,1,MERGED
+ethereum-org-website,Update the Coinbase Wallet data to correctly represent the state as of 11/15/2022,https://github.com/ethereum/ethereum-org-website/pull/8600,2022-11-15T18:27:42Z,2022-11-17T18:31:26Z,5,2,MERGED
+ethereum-org-website,Update `TranslationChartImage` (Post Chakra Migration),https://github.com/ethereum/ethereum-org-website/pull/8582,2022-11-14T05:21:12Z,2022-11-17T19:14:21Z,2,3,MERGED
+ethereum-org-website,refactor: migrate expandable card to chakra,https://github.com/ethereum/ethereum-org-website/pull/8572,2022-11-11T07:58:49Z,2022-11-28T16:58:46Z,15,20,MERGED
+ethereum-org-website,Adds source info for staking metrics,https://github.com/ethereum/ethereum-org-website/pull/8527,2022-11-07T18:48:24Z,2022-11-10T20:29:48Z,1,2,MERGED
+ethereum-org-website,Patch: UAE flag emoji name,https://github.com/ethereum/ethereum-org-website/pull/8482,2022-11-03T18:03:29Z,2022-11-03T18:52:30Z,1,1,MERGED
+ethereum-org-website,Updated button colour in theme.ts for better accessibility (light mode),https://github.com/ethereum/ethereum-org-website/pull/8451,2022-11-02T12:56:25Z,2022-11-16T11:51:47Z,2,1,CLOSED
+ethereum-org-website,Refactor: Use `AspectRatio` in `Youtube` component,https://github.com/ethereum/ethereum-org-website/pull/8445,2022-11-02T04:20:26Z,2022-11-18T22:14:35Z,3,1,MERGED
+ethereum-org-website,migrate `TranslationBannerLegal` to Chakra,https://github.com/ethereum/ethereum-org-website/pull/8962,2022-12-21T07:22:27Z,2023-01-05T19:34:35Z,5,4,MERGED
+ethereum-org-website,Fix: Replace `div` with fragment in `tutorial` template,https://github.com/ethereum/ethereum-org-website/pull/8959,2022-12-20T16:36:52Z,2023-01-19T18:51:25Z,1,1,MERGED
+ethereum-org-website,Remove dangling code block,https://github.com/ethereum/ethereum-org-website/pull/8953,2022-12-19T20:36:29Z,2023-01-19T18:07:57Z,2,1,MERGED
+ethereum-org-website,fix: Markdown does not work in infobanner,https://github.com/ethereum/ethereum-org-website/pull/8944,2022-12-18T14:26:08Z,2023-01-19T17:56:04Z,2,1,MERGED
+ethereum-org-website,fix the checbox static white color check on all themes,https://github.com/ethereum/ethereum-org-website/pull/9357,2023-01-31T02:06:29Z,2023-02-14T05:28:03Z,1,1,MERGED
+ethereum-org-website,Fix link to staking issue template,https://github.com/ethereum/ethereum-org-website/pull/9289,2023-01-25T00:29:39Z,2023-02-10T05:50:51Z,3,2,MERGED
+ethereum-org-website,"Polygon Hermez no longer exists and link is non-functional, should be renamed to Polygon zkEVM ",https://github.com/ethereum/ethereum-org-website/pull/9266,2023-01-23T04:03:34Z,2023-02-10T00:28:03Z,5,3,MERGED
+ethereum-org-website,Added `from` key to transaction information,https://github.com/ethereum/ethereum-org-website/pull/9206,2023-01-17T16:43:12Z,2023-02-09T15:53:46Z,3,2,MERGED
+ethereum-org-website,Fix the random selection title in block proposal page,https://github.com/ethereum/ethereum-org-website/pull/9184,2023-01-15T23:31:49Z,2023-01-26T20:27:55Z,1,1,MERGED
+ethereum-org-website,Fix improper tag nesting - causing SSR hydration issue,https://github.com/ethereum/ethereum-org-website/pull/9092,2023-01-06T16:34:04Z,2023-01-19T16:44:14Z,2,1,MERGED
+ethereum-org-website,Fetch validatorscount from latest epoch endpoint,https://github.com/ethereum/ethereum-org-website/pull/9458,2023-02-09T20:11:11Z,2023-03-17T16:50:30Z,4,4,MERGED
+ethereum-org-website,chore(.storybook): customize storybook dashboard ui,https://github.com/ethereum/ethereum-org-website/pull/9454,2023-02-09T14:23:18Z,2023-03-16T16:05:54Z,1,1,MERGED
+ethereum-org-website,Add missing translation,https://github.com/ethereum/ethereum-org-website/pull/9826,2023-03-28T22:44:15Z,2023-03-30T15:03:46Z,1,1,MERGED
+ethereum-org-website,fix extra margin in `languages.tsx`,https://github.com/ethereum/ethereum-org-website/pull/9744,2023-03-18T04:05:48Z,2023-04-20T11:08:34Z,1,1,CLOSED
+ethereum-org-website,[feat] Add video explainer to staking withdrawals,https://github.com/ethereum/ethereum-org-website/pull/9720,2023-03-14T10:42:49Z,2023-03-14T15:34:38Z,1,1,MERGED
+ethereum-org-website,Patch intl key-value namespace,https://github.com/ethereum/ethereum-org-website/pull/9690,2023-03-10T06:01:56Z,2023-03-10T13:08:42Z,1,1,MERGED
+ethereum-org-website,Fix InfoBanner color,https://github.com/ethereum/ethereum-org-website/pull/9642,2023-03-06T14:40:54Z,2023-03-06T15:48:42Z,1,1,MERGED
+ethereum-org-website,fix: broken PageHero buttons on the Layer2 page,https://github.com/ethereum/ethereum-org-website/pull/9980,2023-04-17T18:38:57Z,2023-05-04T22:44:57Z,3,3,MERGED
+ethereum-org-website,[patch] ethpool icon key name,https://github.com/ethereum/ethereum-org-website/pull/9931,2023-04-07T22:38:29Z,2023-04-09T09:30:27Z,1,1,MERGED
+ethereum-org-website,Ethpool icon fix [Closes #9882,https://github.com/ethereum/ethereum-org-website/pull/9915,2023-04-06T20:26:43Z,2023-04-06T20:38:32Z,0,2,MERGED
+ethereum-org-website,Fix json file,https://github.com/ethereum/ethereum-org-website/pull/9902,2023-04-06T14:54:11Z,2023-04-06T17:11:17Z,1,1,MERGED
+ethereum-org-website,ChakraUI: Migrate FileContributors.tsx [#8636],https://github.com/ethereum/ethereum-org-website/pull/9878,2023-04-04T01:50:43Z,2023-05-02T14:08:46Z,3,9,MERGED
+ethereum-org-website,Patch contributing page,https://github.com/ethereum/ethereum-org-website/pull/10354,2023-05-30T21:18:44Z,2023-05-30T22:09:39Z,1,2,MERGED
+ethereum-org-website,Fix staking product icon color,https://github.com/ethereum/ethereum-org-website/pull/10294,2023-05-22T23:49:48Z,2023-05-23T21:33:42Z,1,3,MERGED
+ethereum-org-website,add page: Portal Network to developers/docs/networking-layer,https://github.com/ethereum/ethereum-org-website/pull/10289,2023-05-22T13:09:46Z,2023-06-29T12:51:07Z,52,16,MERGED
+ethereum-org-website,chore: update example network IDs,https://github.com/ethereum/ethereum-org-website/pull/10279,2023-05-20T07:58:34Z,2023-05-22T06:30:09Z,1,1,MERGED
+ethereum-org-website,fixes typo in whitepaper,https://github.com/ethereum/ethereum-org-website/pull/10239,2023-05-17T19:44:28Z,2023-05-19T00:03:08Z,1,1,MERGED
+ethereum-org-website,fixes whitepaper typo,https://github.com/ethereum/ethereum-org-website/pull/10238,2023-05-17T18:37:47Z,2023-05-19T00:03:49Z,1,1,MERGED
+ethereum-org-website,fix: Fixed padding in What is Ethereum section,https://github.com/ethereum/ethereum-org-website/pull/10230,2023-05-16T21:37:41Z,2023-05-26T18:07:45Z,5,1,MERGED
+ethereum-org-website,refactor(MarkdownTable): apply `TableContainer` and header padding,https://github.com/ethereum/ethereum-org-website/pull/10188,2023-05-11T16:56:38Z,2023-05-19T02:09:16Z,2,2,CLOSED
+ethereum-org-website,fix(learn-links): footer links order changed,https://github.com/ethereum/ethereum-org-website/pull/10175,2023-05-10T19:54:13Z,2023-05-11T02:06:39Z,1,1,MERGED
+ethereum-org-website,Make Buttons in InfoBanner inherit color from theme,https://github.com/ethereum/ethereum-org-website/pull/10132,2023-05-05T09:46:43Z,2023-05-05T13:00:51Z,1,1,MERGED
+ethereum-org-website,Add EnvWarningBanner PoC,https://github.com/ethereum/ethereum-org-website/pull/10127,2023-05-04T13:31:48Z,2023-05-09T16:28:33Z,4,2,MERGED
+ethereum-org-website,fix: code flag for emoji visualization in the community events sectio…,https://github.com/ethereum/ethereum-org-website/pull/10110,2023-05-02T14:24:19Z,2023-05-02T16:49:28Z,2,1,MERGED
+ethereum-org-website,Fix `ButtonLink` styles,https://github.com/ethereum/ethereum-org-website/pull/10590,2023-06-30T16:53:47Z,2023-06-30T17:15:38Z,0,1,MERGED
+ethereum-org-website,"Update Japanese (ja) Use Ethereum, Docs Proof-of-work, and Docs Proof-of-stake, and add translated images",https://github.com/ethereum/ethereum-org-website/pull/10570,2023-06-28T08:51:00Z,2023-06-28T20:00:32Z,1,3,MERGED
+ethereum-org-website,Change button style to Ethreum Website's default main button. Issue #10553,https://github.com/ethereum/ethereum-org-website/pull/10568,2023-06-28T02:24:40Z,2023-06-28T17:47:58Z,2,1,CLOSED
+ethereum-org-website,Update Italian (it) buckets and adds Italian images,https://github.com/ethereum/ethereum-org-website/pull/10560,2023-06-27T14:50:08Z,2023-06-27T23:05:12Z,2,3,MERGED
+ethereum-org-website,fix discord invite link on translation program resources page,https://github.com/ethereum/ethereum-org-website/pull/10531,2023-06-23T07:24:36Z,2023-06-27T03:16:23Z,3,2,MERGED
+ethereum-org-website,Update energy consumption estimates [Fixes #10371],https://github.com/ethereum/ethereum-org-website/pull/10433,2023-06-09T22:53:23Z,2023-10-16T14:27:36Z,3,4,MERGED
+ethereum-org-website,fix(theme/tag): increase label line-height for multi-line,https://github.com/ethereum/ethereum-org-website/pull/10411,2023-06-08T16:02:34Z,2023-06-08T18:36:29Z,1,1,MERGED
+ethereum-org-website,Improve QuizSummary copy,https://github.com/ethereum/ethereum-org-website/pull/10377,2023-06-05T14:57:22Z,2023-06-05T17:07:47Z,1,2,MERGED
+ethereum-org-website,Correct heading level on `eth_chainId`,https://github.com/ethereum/ethereum-org-website/pull/10360,2023-06-01T01:45:13Z,2023-06-08T10:57:08Z,4,1,MERGED
+ethereum-org-website,Fix icon of the edit button,https://github.com/ethereum/ethereum-org-website/pull/10808,2023-07-28T14:09:48Z,2023-08-09T06:11:02Z,3,2,MERGED
+ethereum-org-website,date format to match ethernodes.org,https://github.com/ethereum/ethereum-org-website/pull/10784,2023-07-26T00:04:29Z,2023-07-26T03:14:47Z,2,1,MERGED
+ethereum-org-website,Fix learn hub layout,https://github.com/ethereum/ethereum-org-website/pull/10736,2023-07-20T07:11:44Z,2023-07-20T16:43:55Z,3,1,MERGED
+ethereum-org-website,add Phantom to wallets section [closes #10733],https://github.com/ethereum/ethereum-org-website/pull/10734,2023-07-20T02:59:58Z,2023-09-26T01:59:09Z,3,2,MERGED
+ethereum-org-website,Home page: fix icon color inside outline button,https://github.com/ethereum/ethereum-org-website/pull/10726,2023-07-19T14:14:23Z,2023-07-31T15:59:15Z,2,1,MERGED
+ethereum-org-website,Adjust QuizWidget block margins [Fixes #10693],https://github.com/ethereum/ethereum-org-website/pull/10704,2023-07-18T02:10:31Z,2023-07-18T15:32:19Z,1,1,MERGED
+ethereum-org-website,Update Bedrock product glyph,https://github.com/ethereum/ethereum-org-website/pull/10703,2023-07-18T00:23:57Z,2023-07-18T15:31:24Z,1,1,MERGED
+ethereum-org-website,fix formatting in eth_getTransaction output bullets,https://github.com/ethereum/ethereum-org-website/pull/10661,2023-07-11T22:43:56Z,2023-07-11T23:47:04Z,1,1,MERGED
+ethereum-org-website,"Update Chinese Simplified (zh) Learn pages, Learn hub and Guides, Foundational Docs, and PoS docs buckets",https://github.com/ethereum/ethereum-org-website/pull/10639,2023-07-10T14:10:25Z,2023-07-11T18:57:02Z,5,5,MERGED
+ethereum-org-website,"Update Italian (it) Foundational docs, Smart contract docs (advanced) and Research docs buckets",https://github.com/ethereum/ethereum-org-website/pull/10635,2023-07-10T09:56:08Z,2023-07-11T18:57:28Z,4,4,MERGED
+ethereum-org-website,Update Spanish (es) Learn pages bucket,https://github.com/ethereum/ethereum-org-website/pull/10634,2023-07-10T09:28:12Z,2023-07-11T19:15:17Z,3,3,MERGED
+ethereum-org-website,"Interactive simulator widget + ""How to use a wallet"" series",https://github.com/ethereum/ethereum-org-website/pull/10978,2023-08-22T12:41:55Z,2023-09-12T22:16:38Z,26,212,MERGED
+ethereum-org-website,Fix #10924 : Side Navigation UX,https://github.com/ethereum/ethereum-org-website/pull/10951,2023-08-16T19:09:56Z,2023-08-27T12:40:21Z,2,0,CLOSED
+ethereum-org-website,fix: inappropriate spacing on mobile menu,https://github.com/ethereum/ethereum-org-website/pull/10909,2023-08-10T08:56:59Z,2023-10-10T07:33:07Z,2,1,MERGED
+ethereum-org-website,Fix for issue #10905,https://github.com/ethereum/ethereum-org-website/pull/10907,2023-08-09T19:58:22Z,2023-10-19T12:52:30Z,3,1,CLOSED
+ethereum-org-website,Fix quiz modal bg color,https://github.com/ethereum/ethereum-org-website/pull/10860,2023-08-03T06:56:41Z,2023-08-03T16:55:31Z,1,1,MERGED
+ethereum-org-website,Added banner on community page,https://github.com/ethereum/ethereum-org-website/pull/11319,2023-09-30T09:24:28Z,2023-10-03T21:55:48Z,3,4,MERGED
+ethereum-org-website,Retouched the primary Colours,https://github.com/ethereum/ethereum-org-website/pull/11236,2023-09-21T13:27:24Z,2023-09-22T14:35:04Z,1,4,MERGED
+ethereum-org-website,Fix alignment of staking product name and icon,https://github.com/ethereum/ethereum-org-website/pull/11229,2023-09-21T00:05:39Z,2023-09-21T07:45:41Z,1,3,MERGED
+ethereum-org-website,twitter icon to X - [Fixes #11221],https://github.com/ethereum/ethereum-org-website/pull/11224,2023-09-20T17:46:40Z,2023-09-20T21:11:45Z,3,1,CLOSED
+ethereum-org-website,Fix heading and spacing in roadmap cards,https://github.com/ethereum/ethereum-org-website/pull/11158,2023-09-15T13:22:50Z,2023-09-18T18:04:37Z,1,1,MERGED
+ethereum-org-website,Fix paths to translation progress images,https://github.com/ethereum/ethereum-org-website/pull/11128,2023-09-11T19:03:57Z,2023-09-11T19:04:28Z,1,1,CLOSED
+ethereum-org-website,Patch broken header syntax,https://github.com/ethereum/ethereum-org-website/pull/11472,2023-10-18T22:26:42Z,2023-10-23T17:58:26Z,1,1,MERGED
+ethereum-org-website,Move divider to end of numerical h2 (/glossary),https://github.com/ethereum/ethereum-org-website/pull/11393,2023-10-07T18:21:36Z,2023-10-09T15:26:06Z,1,1,MERGED
+ethereum-org-website,Fix ts warning on CardList,https://github.com/ethereum/ethereum-org-website/pull/11377,2023-10-04T22:31:54Z,2023-10-16T05:00:03Z,3,1,CLOSED
+ethereum-org-website,Patch i18n string key,https://github.com/ethereum/ethereum-org-website/pull/11733,2023-11-28T22:26:14Z,2023-11-28T23:31:57Z,1,1,MERGED
+ethereum-org-website,"Fix: padding of ""What can Ethereum do?"" section",https://github.com/ethereum/ethereum-org-website/pull/11687,2023-11-18T05:39:32Z,2024-02-12T23:18:55Z,3,6,MERGED
+ethereum-org-website,fix: hidden menu list item,https://github.com/ethereum/ethereum-org-website/pull/11676,2023-11-16T22:14:31Z,2023-11-17T10:09:05Z,4,2,MERGED
+ethereum-org-website,Fixed the File Not Found problem upon clicking on link in README.md #12068,https://github.com/ethereum/ethereum-org-website/pull/12070,2024-01-31T10:02:50Z,2024-02-01T15:42:56Z,3,2,CLOSED
+ethereum-org-website,fixed POAP logo render,https://github.com/ethereum/ethereum-org-website/pull/12069,2024-01-31T09:42:08Z,2024-02-01T15:44:29Z,3,1,MERGED
+ethereum-org-website,fix: Internal transaction term visibility in glossary list,https://github.com/ethereum/ethereum-org-website/pull/12009,2024-01-24T13:19:02Z,2024-01-24T22:14:08Z,1,1,MERGED
+ethereum-org-website,Language picker,https://github.com/ethereum/ethereum-org-website/pull/12006,2024-01-23T21:04:03Z,2024-02-07T17:44:02Z,24,55,MERGED
+ethereum-org-website,style: align toc item indicator with start border,https://github.com/ethereum/ethereum-org-website/pull/11957,2024-01-17T22:17:44Z,2024-06-13T14:45:17Z,10,10,CLOSED
+ethereum-org-website,Fix canonical English URLs to fix Algolia search crawling,https://github.com/ethereum/ethereum-org-website/pull/11925,2024-01-13T00:55:23Z,2024-01-15T18:14:37Z,1,2,MERGED
+ethereum-org-website,LTR/RTL fixes,https://github.com/ethereum/ethereum-org-website/pull/11905,2024-01-11T00:48:12Z,2024-01-23T15:50:13Z,18,14,MERGED
+ethereum-org-website,Remove View in English button from Translation Banner,https://github.com/ethereum/ethereum-org-website/pull/12293,2024-02-26T09:23:47Z,2024-02-26T16:53:31Z,1,1,MERGED
+ethereum-org-website,Use `header` as H1 if `title` is missing in HubHero,https://github.com/ethereum/ethereum-org-website/pull/12254,2024-02-21T13:53:43Z,2024-02-21T22:58:07Z,4,2,MERGED
+ethereum-org-website,Add ethereum-ecosystem.com to tools on layer 2 page [Fixes #11700],https://github.com/ethereum/ethereum-org-website/pull/12181,2024-02-14T12:15:36Z,2024-05-07T19:11:58Z,3,2,MERGED
+ethereum-org-website,add banner to community events page [fixes #11838],https://github.com/ethereum/ethereum-org-website/pull/12174,2024-02-13T20:29:10Z,2024-02-14T19:56:10Z,4,7,MERGED
+ethereum-org-website,fix: README logo image src path,https://github.com/ethereum/ethereum-org-website/pull/12149,2024-02-11T21:15:07Z,2024-02-12T17:36:55Z,1,1,MERGED
+ethereum-org-website,Update eth2book link,https://github.com/ethereum/ethereum-org-website/pull/12145,2024-02-10T13:38:37Z,2024-02-14T17:23:42Z,1,1,MERGED
+ethereum-org-website,Fix feedback widget positioning + refactor to use popover,https://github.com/ethereum/ethereum-org-website/pull/12135,2024-02-08T12:52:02Z,2024-02-15T17:58:57Z,7,4,CLOSED
+ethereum-org-website,Added ETHSaafri event info for 2024,https://github.com/ethereum/ethereum-org-website/pull/12113,2024-02-05T06:46:53Z,2024-02-13T23:10:46Z,3,2,MERGED
+ethereum-org-website,"Remove, replace, and update links on desci page",https://github.com/ethereum/ethereum-org-website/pull/12082,2024-02-01T00:43:26Z,2024-02-12T17:51:44Z,3,2,MERGED
+ethereum-org-website,fix: hero column order,https://github.com/ethereum/ethereum-org-website/pull/12588,2024-03-27T14:03:29Z,2024-03-27T19:35:37Z,1,2,MERGED
+ethereum-org-website,fix: hero column order,https://github.com/ethereum/ethereum-org-website/pull/12587,2024-03-27T14:00:16Z,2024-03-27T14:02:31Z,1,3,CLOSED
+ethereum-org-website,Fix typo in dev docs /smart-contracts/testing/,https://github.com/ethereum/ethereum-org-website/pull/12517,2024-03-20T16:20:34Z,2024-03-20T17:06:04Z,6,1,MERGED
+ethereum-org-website,fix: popup layer close button z-index issueShow error,https://github.com/ethereum/ethereum-org-website/pull/12485,2024-03-18T21:41:34Z,2024-03-20T08:55:00Z,3,3,MERGED
+ethereum-org-website,Performance: lazy load the `Emoji` & `SearchModal` components,https://github.com/ethereum/ethereum-org-website/pull/12479,2024-03-18T10:42:25Z,2024-03-20T18:00:58Z,3,2,MERGED
+ethereum-org-website,Replit tutorials,https://github.com/ethereum/ethereum-org-website/pull/12472,2024-03-15T20:30:30Z,2024-03-22T13:26:52Z,2,3,MERGED
+ethereum-org-website,feat: run-a-node page content alignItems,https://github.com/ethereum/ethereum-org-website/pull/12467,2024-03-15T16:47:09Z,2024-03-20T16:51:43Z,7,2,MERGED
+ethereum-org-website,fix: adds missing namespace prefix for quizzes title,https://github.com/ethereum/ethereum-org-website/pull/12384,2024-03-06T13:21:51Z,2024-03-07T00:04:08Z,1,1,MERGED
+ethereum-org-website,fix: upgrate new twitter logo #12379,https://github.com/ethereum/ethereum-org-website/pull/12382,2024-03-06T11:52:08Z,2024-03-08T06:09:57Z,7,6,CLOSED
+ethereum-org-website,Add 'Ethereum Ecosystem' CTA to ethereum.org,https://github.com/ethereum/ethereum-org-website/pull/12373,2024-03-05T14:37:09Z,2024-06-24T23:59:08Z,12,10,MERGED
+ethereum-org-website,fix:  Align #12344 with the design style of ETH #12150,https://github.com/ethereum/ethereum-org-website/pull/12345,2024-03-04T00:28:25Z,2024-03-04T10:11:29Z,1,2,CLOSED
+ethereum-org-website,fix: Enable night mode support for images #12150,https://github.com/ethereum/ethereum-org-website/pull/12344,2024-03-04T00:09:58Z,2024-03-04T10:11:11Z,2,1,CLOSED
+ethereum-org-website,fix: latest contributor for dev docs,https://github.com/ethereum/ethereum-org-website/pull/12867,2024-04-30T02:51:32Z,2024-04-30T03:46:29Z,1,1,MERGED
+ethereum-org-website,Performance - enable NEXT_FORCE_EDGE_IMAGES,https://github.com/ethereum/ethereum-org-website/pull/12861,2024-04-29T14:16:01Z,2024-05-07T13:33:49Z,1,1,MERGED
+ethereum-org-website,add updated tutorials from speedrunethereum.com,https://github.com/ethereum/ethereum-org-website/pull/12836,2024-04-24T18:15:20Z,2024-05-07T21:48:36Z,4,1,MERGED
+ethereum-org-website,feat: add year and banner to translathathon page [FIXES #12756],https://github.com/ethereum/ethereum-org-website/pull/12780,2024-04-19T08:14:01Z,2024-04-24T00:17:02Z,1,6,MERGED
+ethereum-org-website,multiple personas clickable [Fixes #12645],https://github.com/ethereum/ethereum-org-website/pull/12753,2024-04-17T06:54:04Z,2024-09-02T16:52:54Z,17,12,MERGED
+ethereum-org-website,Fix list item color in layouts,https://github.com/ethereum/ethereum-org-website/pull/12718,2024-04-11T18:44:15Z,2024-04-24T00:01:31Z,4,2,MERGED
+ethereum-org-website,fix: StablecoinsTable components dark mode text color not see#12648,https://github.com/ethereum/ethereum-org-website/pull/12666,2024-04-04T18:07:15Z,2024-04-16T20:04:19Z,12,9,MERGED
+ethereum-org-website,Performance: fix hydration issues on find wallets page,https://github.com/ethereum/ethereum-org-website/pull/13066,2024-05-29T16:14:35Z,2024-06-10T22:23:37Z,4,4,MERGED
+ethereum-org-website,adds back to top button [Fixes #12194],https://github.com/ethereum/ethereum-org-website/pull/13058,2024-05-28T07:41:22Z,2024-05-30T18:19:23Z,6,3,MERGED
+ethereum-org-website,Performance: select styles optimization,https://github.com/ethereum/ethereum-org-website/pull/13006,2024-05-21T07:56:50Z,2024-05-21T13:01:28Z,5,1,MERGED
+ethereum-org-website,performance: replace recharts charting lib with Chart.js,https://github.com/ethereum/ethereum-org-website/pull/12952,2024-05-13T06:56:15Z,2024-06-25T14:58:05Z,22,57,MERGED
+ethereum-org-website,fix: ButtonLink onClick handler,https://github.com/ethereum/ethereum-org-website/pull/12935,2024-05-08T20:08:25Z,2024-05-18T21:16:37Z,3,4,MERGED
+ethereum-org-website,feat: add DAppWorld to learning tools,https://github.com/ethereum/ethereum-org-website/pull/13267,2024-06-27T23:12:32Z,2024-06-30T03:24:48Z,1,2,MERGED
+ethereum-org-website,fix: remove outdated subtext,https://github.com/ethereum/ethereum-org-website/pull/13255,2024-06-26T20:49:33Z,2024-06-26T21:39:23Z,1,1,MERGED
+ethereum-org-website,replaced unaccesible link from intro to ethereum page,https://github.com/ethereum/ethereum-org-website/pull/13217,2024-06-20T19:52:45Z,2024-06-24T23:58:01Z,4,1,MERGED
+ethereum-org-website,Meetup list improvements,https://github.com/ethereum/ethereum-org-website/pull/13216,2024-06-20T19:08:53Z,2024-06-24T18:57:56Z,1,4,MERGED
+ethereum-org-website,fix: overlapping elements in LanguagePicker for RTL langs,https://github.com/ethereum/ethereum-org-website/pull/13137,2024-06-11T05:41:11Z,2024-06-25T00:18:06Z,5,3,MERGED
+ethereum-org-website,chore: update Japanese translation for developers docs navigation,https://github.com/ethereum/ethereum-org-website/pull/13129,2024-06-09T10:58:36Z,2024-06-10T19:02:28Z,2,1,MERGED
+ethereum-org-website,Implement Updated Button Component from Design System also Fixes Text Overflow Issues,https://github.com/ethereum/ethereum-org-website/pull/13523,2024-07-28T15:38:21Z,2025-02-26T18:48:01Z,8,1,CLOSED
+ethereum-org-website,Fix: button spacing,https://github.com/ethereum/ethereum-org-website/pull/13509,2024-07-26T20:42:23Z,2024-08-06T19:51:49Z,5,1,MERGED
+ethereum-org-website,Fix Chakra buttons font-weight,https://github.com/ethereum/ethereum-org-website/pull/13478,2024-07-24T14:30:13Z,2024-07-24T15:22:28Z,1,1,MERGED
+ethereum-org-website,Sentry,https://github.com/ethereum/ethereum-org-website/pull/13464,2024-07-24T07:06:27Z,2024-08-06T21:57:31Z,6,10,MERGED
+ethereum-org-website,fix: padding between navbar and dapps page hero,https://github.com/ethereum/ethereum-org-website/pull/13436,2024-07-20T04:08:24Z,2024-08-27T15:36:01Z,4,1,MERGED
+ethereum-org-website,fixed ui on find-wallet [Fixes #13421],https://github.com/ethereum/ethereum-org-website/pull/13426,2024-07-18T19:14:57Z,2024-09-16T16:46:18Z,7,1,MERGED
+ethereum-org-website,Fix error on the Verkle trees page,https://github.com/ethereum/ethereum-org-website/pull/13379,2024-07-11T14:58:26Z,2024-07-15T11:17:09Z,1,1,MERGED
+ethereum-org-website,Add NodeGuardians in the Interactive games tutorial list,https://github.com/ethereum/ethereum-org-website/pull/13370,2024-07-10T13:33:46Z,2024-07-14T09:41:45Z,5,1,MERGED
+ethereum-org-website,fix: spacing on /security InfoBanner,https://github.com/ethereum/ethereum-org-website/pull/13345,2024-07-06T23:07:43Z,2024-07-08T23:53:52Z,1,1,MERGED
+ethereum-org-website,Adds bottom padding to code block [Fixes #13299],https://github.com/ethereum/ethereum-org-website/pull/13303,2024-07-02T07:03:01Z,2024-07-14T07:09:39Z,6,2,MERGED
+ethereum-org-website,fix: convert js example to ts string export,https://github.com/ethereum/ethereum-org-website/pull/13756,2024-08-31T00:28:16Z,2024-09-04T04:43:11Z,1,1,MERGED
+ethereum-org-website,fix:The bold item in the menu of mobile devices,https://github.com/ethereum/ethereum-org-website/pull/13585,2024-08-05T19:21:50Z,2024-09-04T18:30:19Z,1,1,CLOSED
+ethereum-org-website,add: event tracking on edit_page [Fixes: #13422],https://github.com/ethereum/ethereum-org-website/pull/13577,2024-08-04T12:20:31Z,2025-07-17T14:16:45Z,7,2,MERGED
+ethereum-org-website,fix event tracking: wallet page [Fixes #13420],https://github.com/ethereum/ethereum-org-website/pull/13576,2024-08-04T11:21:23Z,2024-08-27T15:37:42Z,3,1,MERGED
+ethereum-org-website,Added latest Twitter icon,https://github.com/ethereum/ethereum-org-website/pull/13574,2024-08-04T09:14:00Z,2024-08-06T17:46:59Z,3,1,CLOSED
+ethereum-org-website,Migrate Contributors component to shadcn,https://github.com/ethereum/ethereum-org-website/pull/13989,2024-09-27T16:53:41Z,2024-10-08T18:59:52Z,4,13,MERGED
+ethereum-org-website,Migrate MatomoOptOut to Shadcn,https://github.com/ethereum/ethereum-org-website/pull/13961,2024-09-25T13:59:28Z,2024-09-26T10:03:56Z,2,2,MERGED
+ethereum-org-website,fix: consensus clients table formatting,https://github.com/ethereum/ethereum-org-website/pull/13956,2024-09-25T04:57:07Z,2025-02-07T00:15:33Z,5,1,MERGED
+ethereum-org-website,theme: use 16px font for alert descriptions,https://github.com/ethereum/ethereum-org-website/pull/13953,2024-09-24T20:01:01Z,2024-09-27T07:40:08Z,5,1,MERGED
+ethereum-org-website,fix: LanguagePicker max height,https://github.com/ethereum/ethereum-org-website/pull/13942,2024-09-23T22:37:01Z,2024-09-25T09:11:30Z,1,1,MERGED
+ethereum-org-website,refactor: menu color tokens,https://github.com/ethereum/ethereum-org-website/pull/13926,2024-09-21T02:52:44Z,2024-09-23T21:54:34Z,3,2,MERGED
+ethereum-org-website,"Migrate: WithdrawalCredentials, feat: add ui/spinner, deprecate: old Input",https://github.com/ethereum/ethereum-org-website/pull/13924,2024-09-21T00:09:27Z,2024-09-23T09:19:55Z,1,3,MERGED
+ethereum-org-website,chore: add/fix imageUrl for upcoming events,https://github.com/ethereum/ethereum-org-website/pull/13910,2024-09-19T07:11:44Z,2024-09-19T14:52:23Z,2,1,MERGED
+ethereum-org-website,Patch search button,https://github.com/ethereum/ethereum-org-website/pull/13887,2024-09-17T16:22:45Z,2024-09-18T06:03:04Z,1,2,MERGED
+ethereum-org-website,Migrate `ExpandableInfo` and `runNodeGradient2`,https://github.com/ethereum/ethereum-org-website/pull/13827,2024-09-08T20:33:14Z,2024-09-09T13:03:50Z,1,3,MERGED
+ethereum-org-website,Design system: nav bar/button theming,https://github.com/ethereum/ethereum-org-website/pull/13825,2024-09-08T02:37:19Z,2024-09-10T08:15:41Z,1,3,MERGED
+ethereum-org-website,Design system: button theming,https://github.com/ethereum/ethereum-org-website/pull/13822,2024-09-08T00:01:45Z,2024-09-10T07:58:01Z,3,8,MERGED
+ethereum-org-website,ui: round inner meter in ui/progress,https://github.com/ethereum/ethereum-org-website/pull/13817,2024-09-07T00:18:14Z,2024-09-09T12:41:05Z,1,1,MERGED
+ethereum-org-website,Update homepage bento arrangement,https://github.com/ethereum/ethereum-org-website/pull/13816,2024-09-06T22:33:39Z,2024-09-13T08:14:11Z,1,2,MERGED
+ethereum-org-website,Homepage: enable atom feeds,https://github.com/ethereum/ethereum-org-website/pull/13806,2024-09-05T19:50:01Z,2024-09-06T09:00:47Z,1,3,MERGED
+ethereum-org-website,"migrate Codeblock component to tailwind, update colors",https://github.com/ethereum/ethereum-org-website/pull/13801,2024-09-04T22:44:05Z,2024-09-06T09:01:54Z,1,2,MERGED
+ethereum-org-website,Implements skipnav link to match new design [#12929],https://github.com/ethereum/ethereum-org-website/pull/13797,2024-09-04T13:51:23Z,2024-10-21T16:52:13Z,1,4,MERGED
+ethereum-org-website,refactor: Codeblock to tailwind,https://github.com/ethereum/ethereum-org-website/pull/13788,2024-09-03T23:23:35Z,2024-09-05T00:21:02Z,1,1,CLOSED
+ethereum-org-website,migration-RollupProductDevDoc.tsx-to-tailwind,https://github.com/ethereum/ethereum-org-website/pull/14268,2024-10-31T03:14:40Z,2024-11-07T12:14:41Z,7,4,MERGED
+ethereum-org-website,feat: address overflow resolved [Fixes #14092],https://github.com/ethereum/ethereum-org-website/pull/14256,2024-10-29T21:08:52Z,2024-10-31T02:56:08Z,1,1,MERGED
+ethereum-org-website,Feat: Fixed Address Overflow on 'Reverse Engineering a Contract' Tutorial Page ,https://github.com/ethereum/ethereum-org-website/pull/14254,2024-10-29T15:02:24Z,2024-10-29T20:44:57Z,1,2,CLOSED
+ethereum-org-website,"Fixed typo in BE version of ""what is ethereum"" page",https://github.com/ethereum/ethereum-org-website/pull/14245,2024-10-26T18:36:39Z,2025-02-07T22:30:36Z,4,1,MERGED
+ethereum-org-website,Migrate ActionCard.tsx to tailwind,https://github.com/ethereum/ethereum-org-website/pull/14244,2024-10-25T19:14:52Z,2024-12-27T12:46:13Z,8,7,MERGED
+ethereum-org-website,Migrate ActionCard.tsx to tailwind,https://github.com/ethereum/ethereum-org-website/pull/14243,2024-10-25T19:13:14Z,2024-10-25T19:14:44Z,1,1,CLOSED
+ethereum-org-website,docs[zh]: fix link format public/content/translations/zh/roadmap/index.md,https://github.com/ethereum/ethereum-org-website/pull/14232,2024-10-25T09:28:25Z,2025-02-07T22:18:35Z,3,1,MERGED
+ethereum-org-website,Fix: wallet attributes icon alignments,https://github.com/ethereum/ethereum-org-website/pull/14207,2024-10-21T19:17:53Z,2024-10-21T21:16:11Z,2,1,MERGED
+ethereum-org-website,chore: update CODEOWNERS,https://github.com/ethereum/ethereum-org-website/pull/14186,2024-10-17T21:11:41Z,2024-10-18T07:42:29Z,1,1,MERGED
+ethereum-org-website,fix: dir-responsive margin,https://github.com/ethereum/ethereum-org-website/pull/14184,2024-10-17T19:16:13Z,2024-10-18T07:48:04Z,1,1,MERGED
+ethereum-org-website,"fix: add missing ""events"" breadcrumb",https://github.com/ethereum/ethereum-org-website/pull/14183,2024-10-17T19:11:51Z,2024-10-18T07:45:16Z,2,1,MERGED
+ethereum-org-website,Migrate SocialListItem.tsx to tailwind,https://github.com/ethereum/ethereum-org-website/pull/14167,2024-10-15T13:34:51Z,2024-10-22T23:21:30Z,4,2,MERGED
+ethereum-org-website,fix: re-entrancy attack definition link formatting in glossary,https://github.com/ethereum/ethereum-org-website/pull/14164,2024-10-14T13:18:21Z,2025-02-07T21:53:24Z,2,2,MERGED
+ethereum-org-website,Deprecate _buildspace,https://github.com/ethereum/ethereum-org-website/pull/14075,2024-10-05T20:31:30Z,2024-10-09T18:03:14Z,4,2,MERGED
+ethereum-org-website,fix: price card arrangement,https://github.com/ethereum/ethereum-org-website/pull/14033,2024-10-02T16:34:56Z,2024-10-04T05:50:46Z,1,1,MERGED
+ethereum-org-website,fix: RTL styling for ValuesMarquee,https://github.com/ethereum/ethereum-org-website/pull/14020,2024-10-02T09:55:49Z,2024-10-02T15:42:02Z,1,1,MERGED
+ethereum-org-website,Updated the Matcha.xyz logo [Fixes #14402],https://github.com/ethereum/ethereum-org-website/pull/14403,2024-11-26T18:13:42Z,2025-07-21T03:50:52Z,8,1,MERGED
+ethereum-org-website,Adjust the position of numbers in the OrderedList component,https://github.com/ethereum/ethereum-org-website/pull/14313,2024-11-02T15:28:35Z,2025-02-03T06:18:29Z,5,1,CLOSED
+ethereum-org-website,Fix double locale urls,https://github.com/ethereum/ethereum-org-website/pull/14564,2024-12-31T10:14:49Z,2025-01-08T01:46:53Z,1,2,MERGED
+ethereum-org-website,add JSON-RPC endpoint playground links,https://github.com/ethereum/ethereum-org-website/pull/14541,2024-12-23T12:13:31Z,2025-07-18T01:01:30Z,9,5,MERGED
+ethereum-org-website,fix: add missing wallet image for Taiko Mainnet,https://github.com/ethereum/ethereum-org-website/pull/14532,2024-12-19T16:23:34Z,2025-01-08T07:11:45Z,3,4,MERGED
+ethereum-org-website,Add explorer to explorer list,https://github.com/ethereum/ethereum-org-website/pull/14505,2024-12-13T19:53:42Z,2025-07-18T00:29:31Z,7,1,CLOSED
+ethereum-org-website,Fix formatting in `client-diversity/index.md`,https://github.com/ethereum/ethereum-org-website/pull/14476,2024-12-10T03:14:29Z,2025-07-21T04:15:15Z,6,1,MERGED
+ethereum-org-website,Update what-is-ethereum.tsx,https://github.com/ethereum/ethereum-org-website/pull/14462,2024-12-06T11:45:09Z,2025-02-05T22:54:33Z,4,1,CLOSED
+ethereum-org-website,workflow: updates to actions/upload-artifact@v4,https://github.com/ethereum/ethereum-org-website/pull/14447,2024-12-02T09:06:39Z,2024-12-18T05:19:16Z,2,1,MERGED
+ethereum-org-website,patch: rm old/geoblocked links,https://github.com/ethereum/ethereum-org-website/pull/14786,2025-01-31T16:50:20Z,2025-01-31T19:38:39Z,1,1,MERGED
+ethereum-org-website,fix: asset page svg download url,https://github.com/ethereum/ethereum-org-website/pull/14770,2025-01-29T14:52:29Z,2025-02-12T05:36:56Z,3,1,MERGED
+ethereum-org-website,Fixed invisible solidity logo image,https://github.com/ethereum/ethereum-org-website/pull/14748,2025-01-26T11:59:25Z,2025-02-05T22:41:18Z,1,2,MERGED
+ethereum-org-website,Added the free or paid badge to each developer bootcamp card,https://github.com/ethereum/ethereum-org-website/pull/14717,2025-01-20T21:26:09Z,2025-09-14T09:19:40Z,7,5,MERGED
+ethereum-org-website,Fix ProductCard,https://github.com/ethereum/ethereum-org-website/pull/14714,2025-01-20T09:36:00Z,2025-05-29T00:07:58Z,2,4,MERGED
+ethereum-org-website,feat: added frankencoin dapp and crypto stablecoin project,https://github.com/ethereum/ethereum-org-website/pull/14695,2025-01-16T13:05:24Z,2025-02-06T04:08:12Z,2,2,CLOSED
+ethereum-org-website,Fix typos on homepage,https://github.com/ethereum/ethereum-org-website/pull/14652,2025-01-13T03:55:17Z,2025-01-13T22:36:15Z,1,1,MERGED
+ethereum-org-website,docs: Fixed Duplicate,https://github.com/ethereum/ethereum-org-website/pull/14637,2025-01-10T06:56:15Z,2025-01-13T22:35:17Z,2,1,MERGED
+ethereum-org-website,fix rss parsing logic,https://github.com/ethereum/ethereum-org-website/pull/14631,2025-01-09T03:37:34Z,2025-01-21T02:47:09Z,1,1,MERGED
+ethereum-org-website,Add dAppBooster info,https://github.com/ethereum/ethereum-org-website/pull/14629,2025-01-08T22:18:21Z,2025-10-01T15:18:40Z,12,11,MERGED
+ethereum-org-website,0xPARC rss removal,https://github.com/ethereum/ethereum-org-website/pull/14627,2025-01-08T17:31:13Z,2025-01-08T19:04:22Z,1,2,MERGED
+ethereum-org-website,fix: full width BannerNotification,https://github.com/ethereum/ethereum-org-website/pull/14933,2025-02-18T18:52:44Z,2025-02-25T22:49:01Z,1,1,MERGED
+ethereum-org-website,fix: fix ActionCard image display issue on mobile,https://github.com/ethereum/ethereum-org-website/pull/14921,2025-02-17T07:24:10Z,2025-05-21T06:41:07Z,2,1,CLOSED
+ethereum-org-website,issue:14910 added functionality to highlight robust and maturing networks,https://github.com/ethereum/ethereum-org-website/pull/14917,2025-02-15T15:20:17Z,2025-02-17T20:33:54Z,3,2,MERGED
+ethereum-org-website,fix: dapp category buttons,https://github.com/ethereum/ethereum-org-website/pull/14891,2025-02-12T23:39:03Z,2025-02-25T22:10:45Z,1,2,MERGED
+ethereum-org-website,Standardizing Dapps page logos,https://github.com/ethereum/ethereum-org-website/pull/14845,2025-02-08T19:40:36Z,2025-09-30T03:09:51Z,3,2,CLOSED
+ethereum-org-website,fix: fix menu display on tablets,https://github.com/ethereum/ethereum-org-website/pull/14838,2025-02-07T20:00:45Z,2025-10-22T00:07:07Z,10,1,CLOSED
+ethereum-org-website,Fix: rss image parsing logic,https://github.com/ethereum/ethereum-org-website/pull/14830,2025-02-06T09:49:28Z,2025-05-29T00:19:20Z,2,1,MERGED
+ethereum-org-website,[ShadCN]: Fix #13405 and end #13523 use shadcn,https://github.com/ethereum/ethereum-org-website/pull/14811,2025-02-02T06:34:21Z,2025-02-26T18:48:00Z,5,11,MERGED
+ethereum-org-website,fix: Adjust z-index for CentralizedExchanges Select component,https://github.com/ethereum/ethereum-org-website/pull/14982,2025-02-26T17:35:00Z,2025-02-26T18:20:01Z,1,1,MERGED
+ethereum-org-website,fix: full width BannerNotification,https://github.com/ethereum/ethereum-org-website/pull/14933,2025-02-18T18:52:44Z,2025-02-25T22:49:01Z,1,1,MERGED
+ethereum-org-website,fix: fix ActionCard image display issue on mobile,https://github.com/ethereum/ethereum-org-website/pull/14921,2025-02-17T07:24:10Z,2025-05-21T06:41:07Z,2,1,CLOSED
+ethereum-org-website,issue:14910 added functionality to highlight robust and maturing networks,https://github.com/ethereum/ethereum-org-website/pull/14917,2025-02-15T15:20:17Z,2025-02-17T20:33:54Z,3,2,MERGED
+ethereum-org-website,fix: dapp category buttons,https://github.com/ethereum/ethereum-org-website/pull/14891,2025-02-12T23:39:03Z,2025-02-25T22:10:45Z,1,2,MERGED
+ethereum-org-website,Standardizing Dapps page logos,https://github.com/ethereum/ethereum-org-website/pull/14845,2025-02-08T19:40:36Z,2025-09-30T03:09:51Z,3,2,CLOSED
+ethereum-org-website,fix: fix menu display on tablets,https://github.com/ethereum/ethereum-org-website/pull/14838,2025-02-07T20:00:45Z,2025-10-22T00:07:07Z,10,1,CLOSED
+ethereum-org-website,Fix: rss image parsing logic,https://github.com/ethereum/ethereum-org-website/pull/14830,2025-02-06T09:49:28Z,2025-05-29T00:19:20Z,2,1,MERGED
+ethereum-org-website,[ShadCN]: Fix #13405 and end #13523 use shadcn,https://github.com/ethereum/ethereum-org-website/pull/14811,2025-02-02T06:34:21Z,2025-02-26T18:48:00Z,5,11,MERGED
+ethereum-org-website,"build: skip ""Cache hit gfissues"" log output",https://github.com/ethereum/ethereum-org-website/pull/15197,2025-03-28T04:15:08Z,2025-03-28T15:34:23Z,1,1,MERGED
+ethereum-org-website,refactor(ui): chunk deposit address spacing by 4,https://github.com/ethereum/ethereum-org-website/pull/15192,2025-03-27T20:10:30Z,2025-05-13T15:50:58Z,2,2,MERGED
+ethereum-org-website,Tech debt,https://github.com/ethereum/ethereum-org-website/pull/15160,2025-03-25T01:14:09Z,2025-03-25T22:10:31Z,1,7,MERGED
+ethereum-org-website,Correctly set HTML lang attribute,https://github.com/ethereum/ethereum-org-website/pull/15058,2025-03-11T22:42:23Z,2025-03-12T09:49:07Z,2,1,MERGED
+ethereum-org-website,Remove non braking space character visible in french version,https://github.com/ethereum/ethereum-org-website/pull/15036,2025-03-08T13:42:37Z,2025-03-09T15:43:40Z,2,1,MERGED
+ethereum-org-website,fix: Fix unexpected translation keys on gas page [Fixes #15021],https://github.com/ethereum/ethereum-org-website/pull/15022,2025-03-03T12:07:55Z,2025-03-09T15:59:23Z,2,1,MERGED
+ethereum-org-website,fix: Fix wrong translation keys on stablecoins page,https://github.com/ethereum/ethereum-org-website/pull/15020,2025-03-03T02:52:08Z,2025-03-09T16:00:04Z,1,2,MERGED
+ethereum-org-website,fix: DocLink routing; use internal link component,https://github.com/ethereum/ethereum-org-website/pull/15327,2025-04-22T09:05:14Z,2025-04-25T16:20:05Z,6,1,MERGED
+ethereum-org-website,cosmetic:Fixed mobile view for action card,https://github.com/ethereum/ethereum-org-website/pull/15237,2025-04-03T18:55:58Z,2025-05-21T02:45:05Z,4,2,MERGED
+ethereum-org-website,fix: developer docs back-to-top link translation id (close: #15231),https://github.com/ethereum/ethereum-org-website/pull/15236,2025-04-03T16:27:47Z,2025-09-17T23:58:55Z,3,1,CLOSED
+ethereum-org-website,fix: markdown table format in developers docs,https://github.com/ethereum/ethereum-org-website/pull/15520,2025-05-28T15:39:04Z,2025-05-29T00:50:20Z,1,1,MERGED
+ethereum-org-website,fix: prevent cookie transfers during external data loads,https://github.com/ethereum/ethereum-org-website/pull/15504,2025-05-23T23:56:50Z,2025-05-28T17:20:54Z,2,3,MERGED
+ethereum-org-website,fix: /dapps page patches,https://github.com/ethereum/ethereum-org-website/pull/15502,2025-05-23T18:47:34Z,2025-05-28T09:15:44Z,1,2,MERGED
+ethereum-org-website,Fix: Text overflow in DApp category buttons,https://github.com/ethereum/ethereum-org-website/pull/15497,2025-05-22T12:49:16Z,2025-07-16T23:34:50Z,3,3,CLOSED
+ethereum-org-website,remove innacurated content from the roadmap page,https://github.com/ethereum/ethereum-org-website/pull/15449,2025-05-15T10:58:30Z,2025-07-15T23:08:18Z,2,2,MERGED
+ethereum-org-website,feat: add geodework blog to homepage feeds,https://github.com/ethereum/ethereum-org-website/pull/15404,2025-05-05T17:28:37Z,2025-05-13T16:05:55Z,1,1,MERGED
+ethereum-org-website,"feat: Icon updates, Lucide icon alignment",https://github.com/ethereum/ethereum-org-website/pull/15741,2025-06-28T18:42:16Z,2025-07-07T08:13:38Z,2,15,MERGED
+ethereum-org-website,feat: add enterprise cta to home activity,https://github.com/ethereum/ethereum-org-website/pull/15707,2025-06-23T15:45:42Z,2025-06-25T13:51:22Z,1,2,MERGED
+ethereum-org-website,"Typo fix: ""returns `true` of the client is mining"" → ""returns `true` if the client is mining""",https://github.com/ethereum/ethereum-org-website/pull/15703,2025-06-21T11:13:31Z,2025-06-24T02:07:27Z,1,1,MERGED
+ethereum-org-website,fix: dark mode staking color tokens,https://github.com/ethereum/ethereum-org-website/pull/15698,2025-06-20T01:32:38Z,2025-06-25T13:51:42Z,1,1,MERGED
+ethereum-org-website,hot-fix: homepage recent posts images,https://github.com/ethereum/ethereum-org-website/pull/15674,2025-06-17T00:52:12Z,2025-06-17T03:23:47Z,1,1,MERGED
+ethereum-org-website,Patch low contrast text in banner,https://github.com/ethereum/ethereum-org-website/pull/15662,2025-06-12T16:35:03Z,2025-06-25T13:54:18Z,2,1,MERGED
+ethereum-org-website,fix: noreferrer for all links; block cookies,https://github.com/ethereum/ethereum-org-website/pull/15620,2025-06-05T16:04:46Z,2025-06-06T17:39:02Z,1,1,MERGED
+ethereum-org-website,feat: use 7d growthepie endpoint,https://github.com/ethereum/ethereum-org-website/pull/15611,2025-06-04T19:34:28Z,2025-06-05T12:02:16Z,1,1,MERGED
+ethereum-org-website,[poc] implement og/route custom OG image responses,https://github.com/ethereum/ethereum-org-website/pull/15594,2025-06-03T02:56:26Z,2025-09-09T09:25:48Z,3,20,CLOSED
+ethereum-org-website,communities - empty hive group removed,https://github.com/ethereum/ethereum-org-website/pull/15590,2025-06-02T14:01:45Z,2025-06-05T16:13:24Z,4,1,MERGED
+ethereum-org-website,Text consistency fix,https://github.com/ethereum/ethereum-org-website/pull/15912,2025-07-23T09:47:53Z,2025-07-23T16:46:59Z,4,1,MERGED
+ethereum-org-website,feat: add playwright test for start page [fixes #15896],https://github.com/ethereum/ethereum-org-website/pull/15897,2025-07-21T10:10:00Z,2025-11-14T03:38:29Z,13,6,MERGED
+ethereum-org-website,fix: subnav z-index [Fixes #15712],https://github.com/ethereum/ethereum-org-website/pull/15889,2025-07-20T20:51:01Z,2025-07-30T18:03:41Z,1,1,MERGED
+ethereum-org-website,Fix torch history card date display and placeholder messaging,https://github.com/ethereum/ethereum-org-website/pull/15886,2025-07-20T13:44:45Z,2025-07-21T13:19:07Z,5,3,CLOSED
+ethereum-org-website,fix: /assets metadata string key,https://github.com/ethereum/ethereum-org-website/pull/15822,2025-07-14T23:09:45Z,2025-07-14T23:19:44Z,1,1,MERGED
+ethereum-org-website,change link to chainlink docs,https://github.com/ethereum/ethereum-org-website/pull/15812,2025-07-12T15:03:24Z,2025-07-16T00:03:25Z,4,1,MERGED
+ethereum-org-website,perf: use Next image for avatars,https://github.com/ethereum/ethereum-org-website/pull/15784,2025-07-03T20:27:25Z,2025-07-07T08:15:17Z,1,1,MERGED
+ethereum-org-website,patch: common string namespace,https://github.com/ethereum/ethereum-org-website/pull/15777,2025-07-02T18:01:06Z,2025-07-03T11:57:39Z,1,1,MERGED
+ethereum-org-website,seo: use descriptive link label,https://github.com/ethereum/ethereum-org-website/pull/16122,2025-08-24T18:42:50Z,2025-08-25T14:49:05Z,1,1,MERGED
+ethereum-org-website,"docs: Update JS APIs, add Drift",https://github.com/ethereum/ethereum-org-website/pull/16070,2025-08-15T02:23:15Z,2025-09-11T14:09:49Z,8,4,MERGED
+ethereum-org-website,docs: fix wrong anchor ID in PoS section,https://github.com/ethereum/ethereum-org-website/pull/16033,2025-08-08T06:41:59Z,2025-09-10T16:06:18Z,4,1,MERGED
+ethereum-org-website,Fix feedback button animation,https://github.com/ethereum/ethereum-org-website/pull/16023,2025-08-05T14:32:40Z,2025-08-05T20:18:40Z,1,1,MERGED
+ethereum-org-website,patch: markdown syntax,https://github.com/ethereum/ethereum-org-website/pull/16368,2025-09-25T16:35:27Z,2025-09-27T05:08:49Z,1,1,MERGED
+ethereum-org-website,[hot-fix]: use canonical test assignment for poly-instantiated AB tests,https://github.com/ethereum/ethereum-org-website/pull/16342,2025-09-23T17:37:58Z,2025-09-23T19:05:53Z,1,1,MERGED
+ethereum-org-website,Update SIWE links & references,https://github.com/ethereum/ethereum-org-website/pull/16251,2025-09-12T13:44:51Z,2025-09-23T02:37:14Z,8,10,MERGED
+ethereum-org-website,feat(DS): add Blockquote markdown component,https://github.com/ethereum/ethereum-org-website/pull/16234,2025-09-11T14:18:42Z,2025-09-16T07:53:38Z,4,3,MERGED
+ethereum-org-website,Minor text corrections/improvements,https://github.com/ethereum/ethereum-org-website/pull/16165,2025-09-01T11:52:21Z,2025-09-09T08:51:04Z,4,3,MERGED

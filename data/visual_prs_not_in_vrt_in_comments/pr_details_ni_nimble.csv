@@ -1,0 +1,94 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+nimble,Update example app for NI Tech Demo + extend text-field to support password mode,https://github.com/ni/nimble/pull/42,2021-07-26T14:56:42Z,2021-07-28T18:58:14Z,7,7,MERGED
+nimble,Storybook arg support,https://github.com/ni/nimble/pull/39,2021-07-22T20:52:51Z,2021-07-25T03:44:11Z,3,9,MERGED
+nimble,Accessibility storybook addon,https://github.com/ni/nimble/pull/37,2021-07-21T22:00:37Z,2021-07-21T23:05:04Z,0,3,MERGED
+nimble,Component test matrices,https://github.com/ni/nimble/pull/76,2021-08-16T19:47:34Z,2021-08-18T16:11:15Z,6,15,MERGED
+nimble,New nimble tree item component,https://github.com/ni/nimble/pull/129,2021-09-23T21:27:42Z,2021-09-24T19:00:56Z,8,47,MERGED
+nimble,Add karma reporter to list all tests run during CI,https://github.com/ni/nimble/pull/111,2021-09-10T16:42:05Z,2021-09-13T15:01:52Z,0,9,MERGED
+nimble,Style text-fields in matrix for visual readability ,https://github.com/ni/nimble/pull/106,2021-09-08T19:18:43Z,2021-09-09T15:18:03Z,1,3,MERGED
+nimble,nimble tree view and item with rough styling,https://github.com/ni/nimble/pull/101,2021-09-03T19:56:08Z,2021-09-23T19:22:31Z,16,36,MERGED
+nimble,Storybook component doc templates,https://github.com/ni/nimble/pull/96,2021-09-03T14:59:16Z,2021-09-03T20:59:17Z,7,9,MERGED
+nimble,Add basic component docs,https://github.com/ni/nimble/pull/193,2021-10-29T21:36:03Z,2021-11-02T14:39:10Z,6,9,MERGED
+nimble,nimble-drawer Angular integration,https://github.com/ni/nimble/pull/187,2021-10-25T22:36:01Z,2021-10-27T16:22:56Z,5,13,MERGED
+nimble,Render storybook as string from html tagged template,https://github.com/ni/nimble/pull/181,2021-10-21T18:42:26Z,2021-10-25T17:59:30Z,5,8,MERGED
+nimble,nimble-drawer (sidenav) component,https://github.com/ni/nimble/pull/165,2021-10-12T22:13:01Z,2021-10-20T23:31:25Z,35,34,MERGED
+nimble,Fix minor matrix issues,https://github.com/ni/nimble/pull/161,2021-10-11T20:26:03Z,2021-10-11T21:21:49Z,0,5,MERGED
+nimble,Fix naming of tabs theme matrix storybook,https://github.com/ni/nimble/pull/151,2021-10-07T18:43:24Z,2021-10-07T20:19:24Z,0,6,MERGED
+nimble,Fixed contents of disabled fields shifting on hover ,https://github.com/ni/nimble/pull/150,2021-10-07T17:44:46Z,2021-10-07T22:05:45Z,2,10,MERGED
+nimble,Routine DSP update from XD - and updated logo,https://github.com/ni/nimble/pull/196,2021-11-03T15:37:42Z,2021-11-10T17:24:45Z,3,11,MERGED
+nimble,Theme stylesheet behavior,https://github.com/ni/nimble/pull/316,2022-01-29T22:03:24Z,2022-02-04T23:36:56Z,10,25,MERGED
+nimble,Storybook color docs,https://github.com/ni/nimble/pull/261,2022-01-14T15:54:49Z,2022-01-18T16:04:17Z,6,7,MERGED
+nimble,Beachball update lock support wildcard dependencies,https://github.com/ni/nimble/pull/252,2022-01-12T00:56:25Z,2022-01-12T17:26:46Z,2,5,MERGED
+nimble,Update readonly text field style,https://github.com/ni/nimble/pull/359,2022-02-15T21:41:22Z,2022-02-17T17:24:44Z,1,4,MERGED
+nimble,Nimble Blazor example projects,https://github.com/ni/nimble/pull/459,2022-03-24T22:25:42Z,2022-03-30T20:59:48Z,9,7,MERGED
+nimble,Enable start slot of text field,https://github.com/ni/nimble/pull/518,2022-04-26T17:04:07Z,2022-04-29T19:19:19Z,4,12,MERGED
+nimble,Add frameless appearance for text field,https://github.com/ni/nimble/pull/509,2022-04-20T22:03:33Z,2022-04-22T12:34:17Z,0,4,MERGED
+nimble,Fix blazor select option,https://github.com/ni/nimble/pull/501,2022-04-14T16:12:44Z,2022-04-14T16:56:20Z,0,2,MERGED
+nimble,Update version of caniuse-lite to fix warning during npm run build,https://github.com/ni/nimble/pull/541,2022-05-04T21:44:38Z,2022-05-09T13:56:48Z,1,2,CLOSED
+nimble,Support clear-inline-padding on text field to align label and value,https://github.com/ni/nimble/pull/532,2022-05-03T20:13:45Z,2022-05-09T16:19:09Z,8,22,MERGED
+nimble,Background Contrast Color Design Token addition,https://github.com/ni/nimble/pull/613,2022-06-22T15:43:51Z,2022-06-27T17:07:03Z,4,7,MERGED
+nimble,Keyboard focus styling for nimble-select,https://github.com/ni/nimble/pull/593,2022-06-08T21:40:37Z,2022-06-15T19:02:37Z,3,9,MERGED
+nimble,Change colors for selected text,https://github.com/ni/nimble/pull/645,2022-07-22T20:38:57Z,2022-08-08T19:32:31Z,6,5,CLOSED
+nimble,Update icons,https://github.com/ni/nimble/pull/701,2022-08-25T21:41:32Z,2022-08-26T13:51:04Z,2,5,MERGED
+nimble,Fix favicon,https://github.com/ni/nimble/pull/713,2022-09-07T14:05:17Z,2022-09-08T22:53:04Z,3,7,MERGED
+nimble,Adding favicon to Storybook,https://github.com/ni/nimble/pull/707,2022-09-01T13:25:22Z,2022-09-06T16:05:44Z,8,9,MERGED
+nimble,Add index to static build site,https://github.com/ni/nimble/pull/780,2022-10-13T19:54:24Z,2022-10-13T20:30:24Z,1,5,MERGED
+nimble,Updates to address landing page lighthouse,https://github.com/ni/nimble/pull/904,2022-12-07T21:21:23Z,2022-12-07T22:52:17Z,0,2,MERGED
+nimble,Table styling update: Headers should appear to overhang above the scrollbar,https://github.com/ni/nimble/pull/1050,2023-02-13T20:38:23Z,2023-02-13T22:52:37Z,3,4,MERGED
+nimble,Fix background color of dropdown listbox in color theme,https://github.com/ni/nimble/pull/1029,2023-02-06T19:18:26Z,2023-02-10T20:00:04Z,2,8,MERGED
+nimble,Fix bug with BlazorTabPanel event handling,https://github.com/ni/nimble/pull/1148,2023-03-31T16:42:11Z,2023-04-03T16:54:32Z,4,5,MERGED
+nimble,Explicitly capture IxD specs and requirements within repo,https://github.com/ni/nimble/pull/1128,2023-03-16T21:05:50Z,2023-04-28T15:55:53Z,20,17,MERGED
+nimble,Add invalid styling and update focus styling for text area component,https://github.com/ni/nimble/pull/1119,2023-03-14T17:40:12Z,2023-04-04T19:25:22Z,20,27,MERGED
+nimble,Adding file-export icon,https://github.com/ni/nimble/pull/1177,2023-04-10T21:30:53Z,2023-04-11T01:42:29Z,0,4,MERGED
+nimble,Adding 3 table icons,https://github.com/ni/nimble/pull/1174,2023-04-10T17:34:04Z,2023-04-10T18:32:48Z,0,3,MERGED
+nimble,Anchor tree item selection should set group selection state,https://github.com/ni/nimble/pull/1169,2023-04-07T18:32:53Z,2023-04-21T15:56:15Z,11,25,MERGED
+nimble,Replace Storybook icon docs with icon table (including metadata),https://github.com/ni/nimble/pull/1260,2023-05-19T20:25:20Z,2023-09-21T20:12:45Z,4,7,CLOSED
+nimble,"Add icons down-right-from-square, up-right-from-square, and file-arrow-curved-right and remove some",https://github.com/ni/nimble/pull/1242,2023-05-11T19:44:29Z,2023-05-12T17:44:48Z,6,9,MERGED
+nimble,POC Generic update tracker prototype,https://github.com/ni/nimble/pull/1232,2023-05-09T14:52:04Z,2023-05-24T19:00:10Z,3,16,CLOSED
+nimble,Rich text editor | Fix nested list highlighting,https://github.com/ni/nimble/pull/1462,2023-08-29T04:25:27Z,2023-09-01T05:35:31Z,9,11,MERGED
+nimble,Minor Nimble home page improvements,https://github.com/ni/nimble/pull/1443,2023-08-18T18:57:01Z,2023-08-18T23:09:34Z,0,5,MERGED
+nimble,Changed quadrant to originLocation and updated defaults,https://github.com/ni/nimble/pull/1440,2023-08-18T07:40:20Z,2023-09-01T07:05:53Z,3,10,MERGED
+nimble,Improved the prerendering of dies to bucket them based on colors,https://github.com/ni/nimble/pull/1435,2023-08-16T13:26:56Z,2023-12-12T08:21:17Z,1,9,CLOSED
+nimble,Improved rendering performance,https://github.com/ni/nimble/pull/1426,2023-08-10T21:36:18Z,2023-08-12T08:15:33Z,7,12,MERGED
+nimble,Rich text viewer | Updated the default minimum height and an example string,https://github.com/ni/nimble/pull/1420,2023-08-08T06:55:26Z,2023-08-14T14:18:40Z,4,11,MERGED
+nimble,Rich Text Editor | Bring up of editor component with toolbar support,https://github.com/ni/nimble/pull/1416,2023-08-03T04:50:16Z,2023-08-18T11:16:04Z,61,79,MERGED
+nimble,Rich Text Editor | Add listkeymap extension for Nested list backspace and delete behavior update.,https://github.com/ni/nimble/pull/1534,2023-09-14T13:37:14Z,2024-02-28T20:36:33Z,5,5,CLOSED
+nimble,Rich text editor | Update dependency on prosemirror-markdown,https://github.com/ni/nimble/pull/1526,2023-09-13T08:40:15Z,2023-09-14T13:01:51Z,3,7,MERGED
+nimble,Rich text viewer | Fix for escape characters parsing in markdown,https://github.com/ni/nimble/pull/1514,2023-09-12T04:57:23Z,2023-09-13T09:58:59Z,7,11,MERGED
+nimble,Update Storybook dependencies and hide unwanted stories from sidebar,https://github.com/ni/nimble/pull/1490,2023-09-05T18:27:52Z,2023-09-06T16:53:54Z,2,12,MERGED
+nimble,Update nimble-card styling to match visual design,https://github.com/ni/nimble/pull/1695,2023-11-29T23:02:09Z,2023-12-04T21:40:38Z,4,9,MERGED
+nimble,Replace deprecated vscode mdx extension recommendation,https://github.com/ni/nimble/pull/1681,2023-11-21T22:20:35Z,2023-11-27T16:57:28Z,0,2,MERGED
+nimble,Update Renovate Nuget config to group bunit dependencies,https://github.com/ni/nimble/pull/1676,2023-11-20T17:10:58Z,2023-11-20T20:12:05Z,1,1,MERGED
+nimble,[Snyk] Security upgrade Microsoft.AspNetCore.Components.Web from 6.0.1 to 6.0.25,https://github.com/ni/nimble/pull/1671,2023-11-16T02:06:16Z,2023-11-17T20:36:22Z,1,1,CLOSED
+nimble,[Snyk] Security upgrade Microsoft.AspNetCore.Components.WebAssembly from 6.0.3 to 6.0.25,https://github.com/ni/nimble/pull/1670,2023-11-16T01:36:44Z,2023-11-17T20:36:07Z,1,1,CLOSED
+nimble,Add Blazor support for the nimble-card,https://github.com/ni/nimble/pull/1647,2023-11-02T18:46:44Z,2023-11-06T22:39:46Z,3,6,MERGED
+nimble,Add Angular support for the nimble-card,https://github.com/ni/nimble/pull/1646,2023-11-02T18:07:39Z,2023-11-08T15:49:47Z,8,15,MERGED
+nimble,Add a title slot to the Card component,https://github.com/ni/nimble/pull/1638,2023-11-01T16:44:08Z,2023-11-02T17:02:54Z,10,7,MERGED
+nimble,Storybook doc formatting improvements,https://github.com/ni/nimble/pull/1637,2023-11-01T16:34:40Z,2023-12-11T22:05:03Z,26,25,MERGED
+nimble,Rich text editor | Fix mention listbox opening at the wrong position when mention dynamically loads,https://github.com/ni/nimble/pull/1709,2023-12-14T19:13:02Z,2023-12-15T13:51:15Z,5,7,MERGED
+nimble,Update Microsoft.AspNetCore.Components.Web reference to 6.0.26,https://github.com/ni/nimble/pull/1752,2024-01-11T19:35:01Z,2024-01-23T23:50:39Z,2,1,CLOSED
+nimble,Try to address label provider storybook instability,https://github.com/ni/nimble/pull/1859,2024-02-22T19:16:15Z,2024-02-22T21:11:09Z,0,3,MERGED
+nimble,Update lighthouse url path and categories,https://github.com/ni/nimble/pull/1808,2024-02-07T17:37:37Z,2024-02-07T19:53:43Z,1,2,MERGED
+nimble,Disable ts deprecation warnings,https://github.com/ni/nimble/pull/1980,2024-03-28T18:01:25Z,2024-03-28T18:32:12Z,1,2,MERGED
+nimble,Remove dotnet caching,https://github.com/ni/nimble/pull/1969,2024-03-27T20:44:32Z,2024-03-27T22:54:57Z,0,2,MERGED
+nimble,added text on dies and color scaling,https://github.com/ni/nimble/pull/1935,2024-03-15T08:54:03Z,2024-06-12T16:34:04Z,2,29,CLOSED
+nimble,Support primary and accent variants for toggle and menu buttons,https://github.com/ni/nimble/pull/1934,2024-03-14T23:45:38Z,2024-03-26T20:27:25Z,11,18,MERGED
+nimble,Improve the Wafer Map web worker class to support offscreen rendering,https://github.com/ni/nimble/pull/1929,2024-03-13T12:30:32Z,2024-04-26T07:55:36Z,53,229,MERGED
+nimble,Add chip/tag background color token,https://github.com/ni/nimble/pull/2040,2024-04-26T18:18:06Z,2024-05-01T14:18:41Z,5,7,MERGED
+nimble,Control Minimum Width token applied to Select and Combobox,https://github.com/ni/nimble/pull/2073,2024-05-06T20:14:55Z,2024-05-07T13:00:55Z,3,6,MERGED
+nimble,Remove extra whitespace from mapping docs,https://github.com/ni/nimble/pull/2196,2024-06-17T14:27:06Z,2024-06-17T18:08:22Z,1,4,MERGED
+nimble,Update jasmine parameterized docs,https://github.com/ni/nimble/pull/2295,2024-07-19T21:47:05Z,2024-07-22T20:05:42Z,2,5,MERGED
+nimble,Update all dependencies and pin tanstack to avoid bug,https://github.com/ni/nimble/pull/2288,2024-07-18T22:00:20Z,2024-07-19T15:39:21Z,2,9,MERGED
+nimble,Link to table colum configuration docs from each column,https://github.com/ni/nimble/pull/2231,2024-07-02T16:08:27Z,2024-07-02T16:33:22Z,0,1,MERGED
+nimble,Add additional theme aware tokens for calendar,https://github.com/ni/nimble/pull/2352,2024-08-20T14:55:21Z,2024-08-21T14:54:13Z,2,5,MERGED
+nimble,Remove unnecessary font size precision,https://github.com/ni/nimble/pull/2342,2024-08-09T23:11:40Z,2024-08-09T23:55:59Z,2,4,MERGED
+nimble,Listbox padding,https://github.com/ni/nimble/pull/2341,2024-08-09T20:39:13Z,2024-08-15T19:21:16Z,2,8,CLOSED
+nimble,TreeView left margin override support,https://github.com/ni/nimble/pull/2338,2024-08-08T14:51:05Z,2024-12-03T18:02:03Z,5,10,CLOSED
+nimble,Add usage guidance for select vs combobox vs radio,https://github.com/ni/nimble/pull/2391,2024-09-11T16:25:39Z,2024-09-11T20:04:06Z,1,7,MERGED
+nimble,Button label nowrap,https://github.com/ni/nimble/pull/2385,2024-09-05T15:44:54Z,2024-09-11T11:43:00Z,4,5,MERGED
+nimble,Update base color to avoid transparency,https://github.com/ni/nimble/pull/2369,2024-09-03T06:31:36Z,2024-09-03T15:19:37Z,1,3,MERGED
+nimble,Add nimble token for toolbar height,https://github.com/ni/nimble/pull/2493,2024-12-11T10:47:02Z,2025-01-07T21:08:55Z,3,4,CLOSED
+nimble,"Add icons for automate, dock, chat and spec",https://github.com/ni/nimble/pull/2609,2025-05-20T09:25:46Z,2025-05-20T22:50:46Z,12,11,MERGED
+nimble,Revert divider background color token change,https://github.com/ni/nimble/pull/2651,2025-07-07T23:31:46Z,2025-07-08T00:04:20Z,2,2,MERGED
+nimble,[Snyk] Upgrade zone.js from 0.14.10 to 0.15.1,https://github.com/ni/nimble/pull/2649,2025-07-03T09:13:35Z,2025-07-16T16:38:26Z,1,1,CLOSED
+nimble,"Icon updates for panes, chat, and collapse",https://github.com/ni/nimble/pull/2683,2025-08-06T17:28:25Z,2025-08-13T22:23:47Z,2,13,MERGED

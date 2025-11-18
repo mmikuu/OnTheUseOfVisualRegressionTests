@@ -1,0 +1,1174 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+coder,feat: Add Create Workspace Form,https://github.com/coder/coder/pull/73,2022-01-26T05:21:30Z,2022-01-31T18:22:35Z,1,11,MERGED
+coder,fix: Use /projects as the landing page,https://github.com/coder/coder/pull/72,2022-01-26T04:15:00Z,2022-01-26T17:16:56Z,1,2,MERGED
+coder,feat: Implement simple Project Summary page,https://github.com/coder/coder/pull/71,2022-01-26T01:09:30Z,2022-01-26T03:50:31Z,2,5,MERGED
+coder,feat: Initial Project Create Form ('/projects/create'),https://github.com/coder/coder/pull/60,2022-01-25T06:25:24Z,2022-01-26T00:36:27Z,2,16,MERGED
+coder,feat: Initial Projects listing page,https://github.com/coder/coder/pull/58,2022-01-25T03:31:30Z,2022-01-25T15:42:00Z,3,10,MERGED
+coder,fix: Login - fix /api/v2/user cache race condition,https://github.com/coder/coder/pull/47,2022-01-22T03:56:20Z,2022-01-22T20:48:38Z,2,3,MERGED
+coder,feat: Add Sign-out functionality,https://github.com/coder/coder/pull/46,2022-01-22T02:11:47Z,2022-01-25T01:09:40Z,4,16,MERGED
+coder,feat: Initial Login flow,https://github.com/coder/coder/pull/42,2022-01-20T20:39:45Z,2022-01-21T19:34:27Z,8,38,MERGED
+coder,feat: UX - Initial create form flow,https://github.com/coder/coder/pull/33,2022-01-20T05:10:12Z,2022-01-26T00:39:26Z,14,45,CLOSED
+coder,fix: Hydration warnings / mismatched styles due to SSR,https://github.com/coder/coder/pull/31,2022-01-19T05:53:08Z,2022-01-19T21:24:31Z,3,5,MERGED
+coder,feat: Prototype - Stub APIs for /projects and /workspaces endpoints,https://github.com/coder/coder/pull/30,2022-01-19T05:10:25Z,2022-01-26T00:39:46Z,2,3,CLOSED
+coder,feat: Bundle UI into coderd; add ./develop.sh script,https://github.com/coder/coder/pull/28,2022-01-15T01:35:30Z,2022-01-18T21:13:20Z,25,36,MERGED
+coder,chore: Add XState machines to model flows,https://github.com/coder/coder/pull/16,2022-01-12T03:40:33Z,2022-02-05T10:09:40Z,5,3,CLOSED
+coder,feat(cdr): Approach 3 - Initial UI (port over cdr/m components),https://github.com/coder/coder/pull/8,2022-01-06T03:37:57Z,2022-01-12T22:25:12Z,20,33,MERGED
+coder,chore: Add golangci-lint and codecov,https://github.com/coder/coder/pull/3,2022-01-04T15:56:50Z,2022-01-05T14:48:56Z,0,6,MERGED
+coder,refactor: Migrate from Next.js to pure webpack config,https://github.com/coder/coder/pull/360,2022-02-25T05:24:24Z,2022-03-12T20:51:06Z,25,72,MERGED
+coder,refactor: Add terraform example of project with resource,https://github.com/coder/coder/pull/346,2022-02-21T22:33:43Z,2022-02-23T02:55:45Z,1,3,MERGED
+coder,refactor: Workspace Page - Add section components,https://github.com/coder/coder/pull/345,2022-02-21T22:28:36Z,2022-02-22T19:10:18Z,3,2,MERGED
+coder,refactor: Add a minimal example of a project with parameters,https://github.com/coder/coder/pull/331,2022-02-19T03:57:32Z,2022-02-21T17:36:31Z,2,4,MERGED
+coder,feat: add caching headers for Next.js static assets,https://github.com/coder/coder/pull/330,2022-02-19T02:59:13Z,2022-02-19T03:34:56Z,3,1,MERGED
+coder,feat: Login via CLI,https://github.com/coder/coder/pull/298,2022-02-16T04:16:14Z,2022-02-18T04:09:33Z,4,19,MERGED
+coder,feat: Initial E2E test framework for v2,https://github.com/coder/coder/pull/288,2022-02-15T04:46:36Z,2022-03-02T17:26:54Z,13,38,MERGED
+coder,"fix: Remove 'Create Project' button, replace with CLI prompt",https://github.com/coder/coder/pull/245,2022-02-11T03:42:14Z,2022-02-11T05:37:58Z,1,4,MERGED
+coder,fix: Forms - Add 'escape' button / key handler in forms,https://github.com/coder/coder/pull/240,2022-02-10T01:50:10Z,2022-02-16T00:43:27Z,2,5,MERGED
+coder,fix: Login - Add padding between username / password,https://github.com/coder/coder/pull/239,2022-02-10T00:16:39Z,2022-02-10T04:18:30Z,1,2,MERGED
+coder,"feat: Add ""coder"" CLI",https://github.com/coder/coder/pull/221,2022-02-09T19:01:50Z,2022-02-10T14:33:27Z,19,8,MERGED
+coder,feat: Initial workspaces page route + skeleton,https://github.com/coder/coder/pull/220,2022-02-09T19:01:40Z,2022-02-16T04:49:56Z,3,14,MERGED
+coder,do not merge: prototyping of v2 workspaces of page,https://github.com/coder/coder/pull/219,2022-02-09T17:38:43Z,2022-02-28T19:54:10Z,2,14,CLOSED
+coder,refactor: Add <CodeBlock /> component,https://github.com/coder/coder/pull/168,2022-02-05T18:45:22Z,2022-02-07T17:17:01Z,1,9,MERGED
+coder,fix: Re-enable parallel run of Postgres-backed tests,https://github.com/coder/coder/pull/119,2022-02-01T04:36:31Z,2022-02-01T17:22:03Z,3,6,MERGED
+coder,refactor: Add storybook + initial story,https://github.com/coder/coder/pull/118,2022-02-01T03:25:18Z,2022-02-04T16:36:58Z,2,7,MERGED
+coder,fix: cancel button on create-workspace page wasn't redirecting correctly,https://github.com/coder/coder/pull/117,2022-02-01T01:43:55Z,2022-02-01T03:08:11Z,1,1,MERGED
+coder,feat: Add stage to build logs,https://github.com/coder/coder/pull/577,2022-03-26T19:24:57Z,2022-03-28T18:43:22Z,10,2,MERGED
+coder,feat: Add TLS support,https://github.com/coder/coder/pull/556,2022-03-24T18:29:03Z,2022-03-24T19:21:05Z,5,4,MERGED
+coder,feat(site): add TimeCell component,https://github.com/coder/coder/pull/502,2022-03-20T00:36:55Z,2022-03-23T01:33:12Z,2,1,CLOSED
+coder,feat(site): add ActionCell component,https://github.com/coder/coder/pull/500,2022-03-19T00:09:16Z,2022-03-23T01:33:39Z,2,4,CLOSED
+coder,fix: Fix storybook blockers,https://github.com/coder/coder/pull/443,2022-03-15T18:17:01Z,2022-03-15T18:29:33Z,4,1,MERGED
+coder,"fix: Update routes for project page, workspace creation page, and workspace page",https://github.com/coder/coder/pull/415,2022-03-08T22:56:23Z,2022-03-09T21:22:44Z,3,5,MERGED
+coder,fix: Typo on Projects page,https://github.com/coder/coder/pull/390,2022-03-02T01:32:10Z,2022-03-02T02:08:36Z,2,1,MERGED
+coder,feat: Add web terminal with reconnecting TTYs,https://github.com/coder/coder/pull/1186,2022-04-26T20:25:14Z,2022-04-29T22:30:11Z,31,8,MERGED
+coder,feat: Add helper output on failed gitssh,https://github.com/coder/coder/pull/1127,2022-04-25T05:07:31Z,2022-04-25T05:29:15Z,1,1,MERGED
+coder,feat: Add links for registering git key,https://github.com/coder/coder/pull/1125,2022-04-25T04:12:05Z,2022-04-25T04:27:45Z,1,1,MERGED
+coder,feat: web console logo,https://github.com/coder/coder/pull/1085,2022-04-19T16:42:26Z,2022-04-19T16:48:51Z,0,1,MERGED
+coder,feat: Add GitHub OAuth,https://github.com/coder/coder/pull/1050,2022-04-17T20:44:43Z,2022-04-23T22:58:57Z,17,14,MERGED
+coder,feat: add footer to the login page,https://github.com/coder/coder/pull/1012,2022-04-14T19:28:20Z,2022-04-15T12:38:19Z,1,1,MERGED
+coder,feat: Improve resource preview and first-time experience,https://github.com/coder/coder/pull/946,2022-04-10T21:12:51Z,2022-04-11T23:54:30Z,10,21,MERGED
+coder,chore: add GitHub issue templates,https://github.com/coder/coder/pull/889,2022-04-06T16:37:46Z,2022-04-06T17:59:23Z,2,1,MERGED
+coder,feat: add version to footer,https://github.com/coder/coder/pull/882,2022-04-05T23:43:34Z,2022-04-07T17:18:59Z,16,24,MERGED
+coder,feat: Workspaces Page Query Filter,https://github.com/coder/coder/pull/1936,2022-05-31T23:01:47Z,2022-06-01T17:37:43Z,8,2,CLOSED
+coder,feat: Prevent role changing on yourself.,https://github.com/coder/coder/pull/1931,2022-05-31T20:15:49Z,2022-05-31T20:50:38Z,1,3,MERGED
+coder,feat: add a divider after Account menu item,https://github.com/coder/coder/pull/1927,2022-05-31T17:13:22Z,2022-06-02T15:09:20Z,9,8,MERGED
+coder,fix: change color of time icon for dark mode,https://github.com/coder/coder/pull/1923,2022-05-31T16:20:19Z,2022-05-31T16:33:16Z,0,1,MERGED
+coder,refactor: Make login headline one line and add auth method section,https://github.com/coder/coder/pull/1922,2022-05-31T15:59:39Z,2022-05-31T16:40:57Z,2,3,MERGED
+coder,feat: Add selected template link at the template select field,https://github.com/coder/coder/pull/1918,2022-05-31T14:58:45Z,2022-05-31T18:28:22Z,6,6,MERGED
+coder,feat: Implied 'member' roles for site and organization,https://github.com/coder/coder/pull/1917,2022-05-31T14:41:31Z,2022-06-01T14:07:51Z,5,9,MERGED
+coder,chore: remove react imports,https://github.com/coder/coder/pull/1867,2022-05-27T20:39:20Z,2022-05-31T14:01:38Z,2,3,MERGED
+coder,feat: add user roles to menu,https://github.com/coder/coder/pull/1862,2022-05-27T18:38:29Z,2022-05-27T19:27:51Z,7,4,MERGED
+coder,refactor: Update users page to looks like others,https://github.com/coder/coder/pull/1850,2022-05-27T16:10:33Z,2022-05-27T16:47:11Z,4,4,MERGED
+coder,fix: Suspended users cannot authenticate ,https://github.com/coder/coder/pull/1849,2022-05-27T16:00:02Z,2022-05-31T13:06:42Z,4,18,MERGED
+coder,fix: Open csp-images to allow external,https://github.com/coder/coder/pull/1835,2022-05-27T14:35:31Z,2022-05-27T14:59:13Z,0,2,MERGED
+coder,feat: ui alert <= 30mins from deadline,https://github.com/coder/coder/pull/1825,2022-05-27T06:32:39Z,2022-05-27T19:23:57Z,12,4,MERGED
+coder,chore: remove admin dropdown,https://github.com/coder/coder/pull/1802,2022-05-26T19:17:14Z,2022-05-26T20:04:52Z,0,2,MERGED
+coder,chore: add users link to nav bar,https://github.com/coder/coder/pull/1797,2022-05-26T18:43:47Z,2022-05-26T19:25:13Z,4,3,MERGED
+coder,feat: Add the template page,https://github.com/coder/coder/pull/1754,2022-05-25T18:51:34Z,2022-05-26T16:19:12Z,9,11,MERGED
+coder,feat: run a terraform plan before creating workspaces with the given template parameters,https://github.com/coder/coder/pull/1732,2022-05-25T08:46:07Z,2022-06-01T14:44:54Z,17,11,MERGED
+coder,feat: Add resource type and restyle terminal link,https://github.com/coder/coder/pull/1722,2022-05-24T18:52:36Z,2022-05-25T13:32:01Z,3,2,MERGED
+coder,feat: edit workspace schedule page,https://github.com/coder/coder/pull/1701,2022-05-24T06:00:00Z,2022-05-26T16:11:30Z,45,29,MERGED
+coder,chore: propose coder dotfiles command,https://github.com/coder/coder/pull/1696,2022-05-23T22:01:45Z,2022-05-26T01:16:59Z,16,8,CLOSED
+coder,refactor: Move schedule info to the sidebar,https://github.com/coder/coder/pull/1665,2022-05-23T14:22:03Z,2022-05-23T14:41:04Z,9,1,MERGED
+coder,refactor: Increase navbar height,https://github.com/coder/coder/pull/1662,2022-05-23T13:30:05Z,2022-05-23T14:22:48Z,0,1,MERGED
+coder,feat: add terminal links,https://github.com/coder/coder/pull/1636,2022-05-20T19:25:43Z,2022-05-23T20:49:03Z,5,2,MERGED
+coder,feat: Redesign the workspace page,https://github.com/coder/coder/pull/1620,2022-05-20T14:27:20Z,2022-05-20T17:05:00Z,1,7,MERGED
+coder,feat: add tracing for sql,https://github.com/coder/coder/pull/1610,2022-05-19T22:54:57Z,2022-05-20T15:51:06Z,4,17,MERGED
+coder,feat: added error boundary,https://github.com/coder/coder/pull/1602,2022-05-19T20:08:10Z,2022-05-20T14:48:40Z,7,9,MERGED
+coder,feat: Add workspace build logs page,https://github.com/coder/coder/pull/1598,2022-05-19T18:12:30Z,2022-05-19T20:34:43Z,6,14,MERGED
+coder,chore: remove docker host from docker-compose,https://github.com/coder/coder/pull/1596,2022-05-19T17:19:42Z,2022-05-19T20:38:07Z,2,3,MERGED
+coder,feat: skip terraform destroy if there is no state when deleting,https://github.com/coder/coder/pull/1594,2022-05-19T16:57:31Z,2022-05-20T04:07:24Z,3,2,MERGED
+coder,feat: use and display default template values when creating wkspc.,https://github.com/coder/coder/pull/1584,2022-05-19T08:13:52Z,2022-05-19T12:49:41Z,0,1,MERGED
+coder,chore: add container image to footer of releases,https://github.com/coder/coder/pull/1579,2022-05-18T21:19:16Z,2022-05-19T13:38:05Z,1,2,MERGED
+coder,example: add docker-image-builds + docker docs,https://github.com/coder/coder/pull/1526,2022-05-17T16:02:30Z,2022-05-18T21:03:21Z,41,23,MERGED
+coder,feat: Add templates page,https://github.com/coder/coder/pull/1510,2022-05-17T14:24:08Z,2022-05-18T14:05:18Z,20,10,MERGED
+coder,feat: add README parsing to template versions,https://github.com/coder/coder/pull/1500,2022-05-17T00:34:32Z,2022-05-17T20:00:49Z,5,4,MERGED
+coder,fix: Update cli usage template for cobra feature parity,https://github.com/coder/coder/pull/1463,2022-05-16T08:32:50Z,2022-05-16T17:01:43Z,2,5,MERGED
+coder,fix: CreateWorkspaceForm name validation,https://github.com/coder/coder/pull/1453,2022-05-14T15:42:06Z,2022-05-16T19:30:00Z,0,2,MERGED
+coder,feat: Redesign workspaces page,https://github.com/coder/coder/pull/1450,2022-05-14T03:07:15Z,2022-05-16T21:52:55Z,36,24,MERGED
+coder,refactor: Add vertical space to the footer,https://github.com/coder/coder/pull/1410,2022-05-12T17:13:51Z,2022-05-12T17:28:20Z,1,1,MERGED
+coder,chore: add eslint extension recommendation,https://github.com/coder/coder/pull/1400,2022-05-11T21:40:00Z,2022-05-11T23:01:22Z,1,1,MERGED
+coder,fix: Match kubectl table style for simpler scripting,https://github.com/coder/coder/pull/1363,2022-05-10T16:31:31Z,2022-05-10T20:57:08Z,3,1,MERGED
+coder,fix: Group subcommands for cognitive ease,https://github.com/coder/coder/pull/1351,2022-05-09T20:43:11Z,2022-05-09T22:42:03Z,3,1,MERGED
+coder,fix: Always show clear API error in CLI,https://github.com/coder/coder/pull/1307,2022-05-05T05:54:02Z,2022-05-06T15:47:36Z,5,1,CLOSED
+coder,fix: reprompt for matching passwords on mismatch,https://github.com/coder/coder/pull/2758,2022-06-30T17:23:25Z,2022-07-01T16:49:40Z,0,1,MERGED
+coder,feat: adding active and hover states to search input,https://github.com/coder/coder/pull/2741,2022-06-29T21:12:13Z,2022-06-30T15:57:39Z,6,4,MERGED
+coder,fix: Allow spaces in searches,https://github.com/coder/coder/pull/2723,2022-06-29T16:28:19Z,2022-06-29T16:59:39Z,1,4,MERGED
+coder,docs: improve providers illustration,https://github.com/coder/coder/pull/2713,2022-06-29T02:56:47Z,2022-06-29T03:11:44Z,0,2,MERGED
+coder,add debounced search on type to the search bar,https://github.com/coder/coder/pull/2703,2022-06-28T14:42:46Z,2022-06-29T17:43:42Z,3,7,MERGED
+coder,fix: restrict edit schedule access,https://github.com/coder/coder/pull/2698,2022-06-28T07:12:57Z,2022-07-01T20:43:52Z,5,6,MERGED
+coder,feat: Add filter on Users page,https://github.com/coder/coder/pull/2653,2022-06-25T21:51:15Z,2022-06-28T23:12:16Z,13,6,MERGED
+coder,feat: add version checking to CLI,https://github.com/coder/coder/pull/2643,2022-06-24T21:52:46Z,2022-06-29T01:55:35Z,6,18,MERGED
+coder,feat: Add success messages for CLI commands,https://github.com/coder/coder/pull/2634,2022-06-24T15:38:33Z,2022-06-24T16:30:23Z,0,1,MERGED
+coder,fix: simplify terminal link,https://github.com/coder/coder/pull/2597,2022-06-22T21:24:22Z,2022-06-22T22:10:59Z,4,2,MERGED
+coder,added a default app icon,https://github.com/coder/coder/pull/2595,2022-06-22T20:25:20Z,2022-06-22T21:05:23Z,2,1,MERGED
+coder,feat: Move agent status,https://github.com/coder/coder/pull/2593,2022-06-22T19:26:24Z,2022-06-23T14:18:57Z,0,2,MERGED
+coder,fix: Parse 24h time format from schedule cron in CLI,https://github.com/coder/coder/pull/2586,2022-06-22T17:05:13Z,2022-06-22T17:45:01Z,0,2,MERGED
+coder,Wrap code text in readme files on template page,https://github.com/coder/coder/pull/2562,2022-06-21T19:58:33Z,2022-06-22T15:01:44Z,1,1,MERGED
+coder,Condense footer,https://github.com/coder/coder/pull/2555,2022-06-21T16:43:06Z,2022-06-21T19:46:44Z,2,1,MERGED
+coder,Update template users language,https://github.com/coder/coder/pull/2523,2022-06-20T14:37:20Z,2022-06-21T13:38:04Z,0,1,MERGED
+coder,alias users as user,https://github.com/coder/coder/pull/2522,2022-06-20T14:15:18Z,2022-06-20T14:40:08Z,0,1,MERGED
+coder,fix: adjusting language and icon for feedback link,https://github.com/coder/coder/pull/2483,2022-06-17T19:30:42Z,2022-06-21T13:56:08Z,0,2,MERGED
+coder,feat: add feedback link to footer,https://github.com/coder/coder/pull/2447,2022-06-16T23:27:16Z,2022-06-17T17:26:13Z,1,14,MERGED
+coder,Show build initiator on Workspace Build page,https://github.com/coder/coder/pull/2446,2022-06-16T23:21:13Z,2022-06-20T14:38:58Z,8,2,MERGED
+coder,feat: Add built-in PostgreSQL for simple production setup,https://github.com/coder/coder/pull/2345,2022-06-15T15:28:17Z,2022-06-15T21:02:19Z,11,5,MERGED
+coder,feat: ability to activate suspended users,https://github.com/coder/coder/pull/2344,2022-06-15T15:28:06Z,2022-06-15T17:29:38Z,4,4,MERGED
+coder,feat: improve terraform template parsing errors,https://github.com/coder/coder/pull/2331,2022-06-14T22:58:37Z,2022-06-15T18:12:18Z,1,3,MERGED
+coder,"fix: break word to wrap long strings in stats, add media query",https://github.com/coder/coder/pull/2310,2022-06-13T23:44:33Z,2022-06-15T15:16:04Z,4,2,MERGED
+coder,Add template tooltips/kira pilot,https://github.com/coder/coder/pull/2308,2022-06-13T21:22:02Z,2022-06-14T11:48:54Z,0,17,MERGED
+coder,refactor: Replace PageHeaderText by PageHeaderSubtitle,https://github.com/coder/coder/pull/2287,2022-06-13T16:47:24Z,2022-06-13T20:12:47Z,1,1,MERGED
+coder,chore: add hero image to OSS docs homepage,https://github.com/coder/coder/pull/2241,2022-06-10T15:13:14Z,2022-06-13T14:16:27Z,0,1,MERGED
+coder,feat: Show template description in `coder template init`,https://github.com/coder/coder/pull/2238,2022-06-10T13:06:31Z,2022-06-10T16:54:29Z,3,2,MERGED
+coder,feat: update build url to @username/workspace/builds/buildnumber,https://github.com/coder/coder/pull/2234,2022-06-10T05:49:35Z,2022-06-10T16:08:51Z,8,5,MERGED
+coder,feat: store and display template owner,https://github.com/coder/coder/pull/2228,2022-06-10T03:08:13Z,2022-06-10T19:24:21Z,4,7,MERGED
+coder,feat: update language on workspace page,https://github.com/coder/coder/pull/2220,2022-06-09T22:04:26Z,2022-06-10T20:42:21Z,1,1,MERGED
+coder,feat: show deleted workspace after delete action,https://github.com/coder/coder/pull/2208,2022-06-09T15:27:10Z,2022-06-09T15:43:50Z,0,8,MERGED
+coder,fix: show explicit schedule stop time,https://github.com/coder/coder/pull/2171,2022-06-08T15:34:22Z,2022-06-08T16:00:22Z,2,2,MERGED
+coder,fix: push create workspace UX to templates page,https://github.com/coder/coder/pull/2142,2022-06-07T21:00:58Z,2022-06-09T23:43:50Z,16,12,MERGED
+coder,test: Pagination api query param parsing,https://github.com/coder/coder/pull/2127,2022-06-07T14:35:34Z,2022-06-07T15:48:08Z,1,3,MERGED
+coder,feat: Allow admins to access member workspace terminals,https://github.com/coder/coder/pull/2114,2022-06-07T05:34:03Z,2022-06-10T14:46:49Z,21,5,MERGED
+coder,fix: Show correct 'no results' message on workspace filters,https://github.com/coder/coder/pull/2103,2022-06-06T20:47:39Z,2022-06-07T18:55:00Z,5,7,MERGED
+coder,fix: Make the workspace URL pretty,https://github.com/coder/coder/pull/2101,2022-06-06T19:17:34Z,2022-06-06T22:53:39Z,9,1,MERGED
+coder,feat: Add helpful tooltips for the key features,https://github.com/coder/coder/pull/2097,2022-06-06T18:12:41Z,2022-06-07T13:43:47Z,7,7,MERGED
+coder,feat: Add links to the resource card for workspace applications ,https://github.com/coder/coder/pull/2067,2022-06-06T01:57:55Z,2022-06-06T14:50:07Z,1,3,MERGED
+coder,feat: Make workspace timeline rows obviously clickable,https://github.com/coder/coder/pull/2047,2022-06-03T20:19:59Z,2022-06-07T19:11:57Z,4,3,MERGED
+coder,feat: (idea) link to templates page from workspaces page,https://github.com/coder/coder/pull/2040,2022-06-03T18:26:07Z,2022-06-03T19:20:36Z,1,1,CLOSED
+coder,feat: use ConfirmDialog for ResetPasswordDialog,https://github.com/coder/coder/pull/2035,2022-06-03T16:40:04Z,2022-06-03T17:35:10Z,1,5,MERGED
+coder,some styling ideas,https://github.com/coder/coder/pull/2010,2022-06-03T01:17:23Z,2022-06-03T01:48:08Z,0,1,MERGED
+coder,Styling pass at filter/kira pilot,https://github.com/coder/coder/pull/2009,2022-06-03T01:07:08Z,2022-06-03T01:17:56Z,2,11,CLOSED
+coder,feat: Update success confirmation dialog and snackbar,https://github.com/coder/coder/pull/2005,2022-06-02T20:58:19Z,2022-06-03T15:42:47Z,1,4,MERGED
+coder,chore: More UI friendly errors,https://github.com/coder/coder/pull/1994,2022-06-02T17:20:34Z,2022-06-03T21:48:10Z,48,23,MERGED
+coder,feat: Use consistent colors for links and highlighting,https://github.com/coder/coder/pull/1989,2022-06-02T15:54:50Z,2022-06-03T14:16:51Z,3,3,MERGED
+coder,feat: ui autostop extension,https://github.com/coder/coder/pull/1987,2022-06-02T15:47:40Z,2022-06-02T19:44:11Z,4,5,MERGED
+coder,feat: Workspaces filtering,https://github.com/coder/coder/pull/1972,2022-06-01T23:39:43Z,2022-06-03T17:20:28Z,29,23,MERGED
+coder,feat: Update UI for error dialog and snackbar,https://github.com/coder/coder/pull/1971,2022-06-01T23:36:13Z,2022-06-02T15:23:52Z,7,2,MERGED
+coder,fix: Show error message from backend on create existing user,https://github.com/coder/coder/pull/1964,2022-06-01T19:15:39Z,2022-06-01T19:52:55Z,0,2,MERGED
+coder,feat: flexbox updates on workspace page,https://github.com/coder/coder/pull/1963,2022-06-01T19:14:26Z,2022-06-02T13:57:37Z,6,7,MERGED
+coder,feat: Update TTL language to Time until shutdown,https://github.com/coder/coder/pull/1948,2022-06-01T15:02:17Z,2022-06-02T14:15:36Z,3,3,MERGED
+coder,feat: add pagination component to components directory,https://github.com/coder/coder/pull/3295,2022-07-29T16:42:14Z,2022-07-29T18:37:54Z,1,5,MERGED
+coder,fix: Update CLI Placeholder color to have a dark theme alternative,https://github.com/coder/coder/pull/3294,2022-07-29T13:47:05Z,2022-07-31T18:44:05Z,2,1,MERGED
+coder,fix: handle `getUser` error,https://github.com/coder/coder/pull/3285,2022-07-29T02:55:09Z,2022-07-29T17:10:22Z,5,6,MERGED
+coder,Fix: surface error when over-extending workspace,https://github.com/coder/coder/pull/3275,2022-07-28T20:07:06Z,2022-07-28T21:13:46Z,0,1,MERGED
+coder,fix: Workspace schedule button on responsive,https://github.com/coder/coder/pull/3264,2022-07-28T14:26:47Z,2022-07-28T16:17:50Z,3,4,MERGED
+coder,chore: Replace stop icon to use pause icon,https://github.com/coder/coder/pull/3261,2022-07-28T13:50:55Z,2022-07-28T14:02:14Z,0,1,MERGED
+coder,fix: error messages from workspaceScheduleXService,https://github.com/coder/coder/pull/3255,2022-07-27T20:17:57Z,2022-07-28T17:18:51Z,1,14,MERGED
+coder,fix: make text colors legible,https://github.com/coder/coder/pull/3250,2022-07-27T15:02:19Z,2022-07-27T17:49:04Z,5,6,MERGED
+coder,fix: handle all auth API errors,https://github.com/coder/coder/pull/3241,2022-07-26T23:59:22Z,2022-07-28T21:14:05Z,8,7,MERGED
+coder,chore: add Discord link to footer,https://github.com/coder/coder/pull/3239,2022-07-26T22:37:22Z,2022-08-01T15:03:52Z,0,1,MERGED
+coder,feat: make template pages responsive,https://github.com/coder/coder/pull/3232,2022-07-26T20:17:05Z,2022-07-26T20:31:58Z,0,1,MERGED
+coder,feat: Make users page responsive,https://github.com/coder/coder/pull/3229,2022-07-26T19:38:39Z,2022-07-26T19:46:43Z,0,1,MERGED
+coder,feat: Make settings page responsive,https://github.com/coder/coder/pull/3228,2022-07-26T19:31:15Z,2022-07-26T19:48:42Z,3,2,MERGED
+coder,fix: remove flaking test,https://github.com/coder/coder/pull/3207,2022-07-26T14:20:41Z,2022-07-26T14:35:13Z,3,1,MERGED
+coder,fix: manage backend authXService errors,https://github.com/coder/coder/pull/3190,2022-07-25T20:51:26Z,2022-07-26T19:39:45Z,9,5,MERGED
+coder,fix: Fix responsive for workspaces and workspace page,https://github.com/coder/coder/pull/3189,2022-07-25T19:30:50Z,2022-07-26T18:05:00Z,6,7,MERGED
+coder,feat: Add mobile navbar,https://github.com/coder/coder/pull/3186,2022-07-25T16:45:30Z,2022-07-25T17:54:11Z,5,3,MERGED
+coder,"feat: improve coder users show output, add json format",https://github.com/coder/coder/pull/3176,2022-07-25T15:55:34Z,2022-07-26T20:47:13Z,0,1,MERGED
+coder,Implement basic `templates versions` CLI,https://github.com/coder/coder/pull/3145,2022-07-23T15:14:14Z,2022-07-26T22:31:18Z,5,8,MERGED
+coder,feat: showcase workspace state in actions dropdown,https://github.com/coder/coder/pull/3133,2022-07-22T22:36:09Z,2022-07-25T22:13:00Z,5,7,MERGED
+coder,fix: Add resource icons into template page,https://github.com/coder/coder/pull/3124,2022-07-22T15:57:20Z,2022-07-22T16:46:51Z,0,1,MERGED
+coder,feat: Add resource icons,https://github.com/coder/coder/pull/3118,2022-07-22T14:28:04Z,2022-07-22T14:38:39Z,0,3,MERGED
+coder,feat: improve update button visibility,https://github.com/coder/coder/pull/3115,2022-07-22T14:02:18Z,2022-07-22T18:28:52Z,3,6,MERGED
+coder,feat: New static error summary component,https://github.com/coder/coder/pull/3107,2022-07-22T05:04:13Z,2022-07-22T19:10:40Z,4,6,MERGED
+coder,refactor: Initial color palette changes,https://github.com/coder/coder/pull/3087,2022-07-21T13:07:52Z,2022-07-21T17:56:16Z,12,4,MERGED
+coder,feat: add verbose error messaging,https://github.com/coder/coder/pull/3053,2022-07-20T00:05:02Z,2022-07-20T20:17:51Z,2,6,MERGED
+coder,feat: amend schedule form validation string,https://github.com/coder/coder/pull/3043,2022-07-19T15:39:32Z,2022-07-19T16:04:07Z,0,1,MERGED
+coder,chore: configure absolute paths with webpack,https://github.com/coder/coder/pull/3011,2022-07-15T21:03:12Z,2022-07-18T14:43:12Z,1,2,MERGED
+coder,fix: border fixes for workspace schedule button,https://github.com/coder/coder/pull/3010,2022-07-15T19:35:46Z,2022-07-15T22:04:34Z,0,4,MERGED
+coder,refactor: Remove avatar from workspace name,https://github.com/coder/coder/pull/3006,2022-07-15T14:39:49Z,2022-07-15T15:49:18Z,2,2,MERGED
+coder,feat: show template versions,https://github.com/coder/coder/pull/3003,2022-07-15T01:38:56Z,2022-07-15T22:25:48Z,5,2,MERGED
+coder,feat: consolidate workspace buttons/kira pilot,https://github.com/coder/coder/pull/2996,2022-07-14T18:31:55Z,2022-07-14T20:47:10Z,2,5,MERGED
+coder,refactor: Make the workspace panels more light,https://github.com/coder/coder/pull/2984,2022-07-14T14:33:39Z,2022-07-14T18:09:08Z,4,2,MERGED
+coder,feat: Add status badge to the favicon,https://github.com/coder/coder/pull/2978,2022-07-13T19:49:10Z,2022-07-14T14:45:04Z,1,2,MERGED
+coder,fix: remove access column header,https://github.com/coder/coder/pull/2976,2022-07-13T19:23:37Z,2022-07-14T00:59:10Z,4,2,MERGED
+coder,fix: remove system user highlighting,https://github.com/coder/coder/pull/2973,2022-07-13T18:26:56Z,2022-07-13T18:48:27Z,0,1,MERGED
+coder,refactor: Refactor last built by column,https://github.com/coder/coder/pull/2968,2022-07-13T14:39:50Z,2022-07-13T15:37:12Z,4,2,MERGED
+coder,feature: Add SSH button in the agent access column,https://github.com/coder/coder/pull/2931,2022-07-12T14:22:07Z,2022-07-12T16:10:38Z,5,4,MERGED
+coder,feat: show last build initiator for workspaces,https://github.com/coder/coder/pull/2921,2022-07-12T01:10:28Z,2022-07-12T17:14:36Z,2,3,MERGED
+coder,feat: default confirm to no for safety,https://github.com/coder/coder/pull/2919,2022-07-11T21:23:52Z,2022-07-12T17:36:08Z,2,2,MERGED
+coder,fix: removing noisy shutdown snapshots,https://github.com/coder/coder/pull/2899,2022-07-11T14:31:11Z,2022-07-11T15:34:59Z,1,2,MERGED
+coder,refactor: Downsize the search bar a bit,https://github.com/coder/coder/pull/2789,2022-07-01T18:52:26Z,2022-07-01T20:37:08Z,3,4,MERGED
+coder,refactor: Move schedule to the header,https://github.com/coder/coder/pull/2775,2022-07-01T13:26:07Z,2022-07-01T18:26:27Z,9,9,MERGED
+coder,refactor: Make the applications more notable in the resources table,https://github.com/coder/coder/pull/2774,2022-07-01T11:53:37Z,2022-07-01T13:48:48Z,2,1,MERGED
+coder,chore: Add Audit Log components and service to load from the API,https://github.com/coder/coder/pull/3782,2022-08-31T18:40:56Z,2022-09-07T20:26:13Z,20,31,MERGED
+coder,Feat: delete template button,https://github.com/coder/coder/pull/3781,2022-08-31T18:29:40Z,2022-09-01T18:24:15Z,2,19,MERGED
+coder,fix: Use a select when parameter input has many options,https://github.com/coder/coder/pull/3762,2022-08-30T18:55:25Z,2022-08-30T22:56:37Z,1,1,MERGED
+coder,feat: Add dedicated labels to agent status and OS,https://github.com/coder/coder/pull/3759,2022-08-30T18:25:11Z,2022-08-30T19:18:11Z,5,2,MERGED
+coder,draft: workspace quota mock,https://github.com/coder/coder/pull/3758,2022-08-30T17:26:23Z,2022-09-18T00:13:07Z,1,4,CLOSED
+coder,refactor: use WidgetsIcon for null resources,https://github.com/coder/coder/pull/3754,2022-08-30T15:00:51Z,2022-08-31T14:44:21Z,6,3,MERGED
+coder,refactor: Redesign auth cli page and add workspaces link,https://github.com/coder/coder/pull/3737,2022-08-29T19:16:33Z,2022-08-29T19:57:55Z,3,1,MERGED
+coder,Daily Active User Metrics,https://github.com/coder/coder/pull/3735,2022-08-29T18:56:27Z,2022-09-01T19:58:23Z,39,28,MERGED
+coder,fix: Templates table columns width,https://github.com/coder/coder/pull/3731,2022-08-29T16:10:20Z,2022-08-29T17:49:05Z,1,1,MERGED
+coder,feat: show agent version in UI and CLI,https://github.com/coder/coder/pull/3709,2022-08-26T16:28:46Z,2022-08-31T15:33:50Z,9,5,MERGED
+coder,chore: enable react/no-array-index-key eslint,https://github.com/coder/coder/pull/3696,2022-08-25T17:30:34Z,2022-08-25T18:20:25Z,1,2,MERGED
+coder,fix: match term color,https://github.com/coder/coder/pull/3694,2022-08-25T16:23:46Z,2022-08-25T16:34:37Z,1,2,MERGED
+coder,feat: add panic recovery middleware,https://github.com/coder/coder/pull/3687,2022-08-24T21:57:31Z,2022-08-29T22:00:53Z,6,7,MERGED
+coder,fix: stop tracing static file server,https://github.com/coder/coder/pull/3683,2022-08-24T19:44:10Z,2022-08-25T13:37:59Z,1,1,MERGED
+coder,fix: end long lived connection traces,https://github.com/coder/coder/pull/3679,2022-08-24T18:46:09Z,2022-08-24T18:57:32Z,0,1,MERGED
+coder,make agent 'connecting' visually different from 'connected',https://github.com/coder/coder/pull/3675,2022-08-24T17:48:16Z,2022-08-24T17:54:45Z,0,1,MERGED
+coder,Template settings fixes/kira pilot,https://github.com/coder/coder/pull/3668,2022-08-24T15:18:54Z,2022-08-24T18:07:56Z,8,13,MERGED
+coder,fix scrollbar on ssh key view,https://github.com/coder/coder/pull/3647,2022-08-23T19:03:51Z,2022-08-23T19:22:43Z,1,1,MERGED
+coder,feat: Add icon to the template page,https://github.com/coder/coder/pull/3604,2022-08-19T17:53:03Z,2022-08-19T18:37:17Z,0,2,MERGED
+coder,feat: Display and edit template icons in the UI,https://github.com/coder/coder/pull/3598,2022-08-19T15:52:08Z,2022-08-19T16:09:07Z,0,2,MERGED
+coder,feat: Add LicenseBanner,https://github.com/coder/coder/pull/3568,2022-08-18T21:21:08Z,2022-08-23T15:26:22Z,8,22,MERGED
+coder,fix(ui): decrease WorkspaceActions popover padding,https://github.com/coder/coder/pull/3555,2022-08-18T16:49:02Z,2022-08-19T16:58:31Z,8,1,MERGED
+coder,fix: Role assign ui fixes,https://github.com/coder/coder/pull/3521,2022-08-15T21:10:10Z,2022-08-16T15:39:43Z,10,14,MERGED
+coder,fix: hiding agent status on stopped workspaces,https://github.com/coder/coder/pull/3512,2022-08-15T17:29:14Z,2022-08-17T18:37:54Z,3,4,MERGED
+coder,chore: Rename 'admin' to 'owner',https://github.com/coder/coder/pull/3498,2022-08-12T21:18:18Z,2022-08-15T19:40:19Z,3,11,MERGED
+coder,chore: Minor table design changes,https://github.com/coder/coder/pull/3494,2022-08-12T17:57:44Z,2022-08-12T19:18:03Z,0,2,MERGED
+coder,chore: Increase border radius,https://github.com/coder/coder/pull/3493,2022-08-12T17:11:10Z,2022-08-12T17:58:15Z,0,1,MERGED
+coder,feat: Add template-admin + user-admin role for managing templates + users,https://github.com/coder/coder/pull/3490,2022-08-12T16:32:59Z,2022-08-12T22:27:49Z,6,11,MERGED
+coder,feat: Add setup page,https://github.com/coder/coder/pull/3476,2022-08-11T14:51:13Z,2022-08-11T17:22:46Z,13,19,MERGED
+coder,docs: remove configuring prefix from IDEs,https://github.com/coder/coder/pull/3446,2022-08-10T00:04:10Z,2022-08-10T01:10:09Z,0,2,MERGED
+coder,docs: fix IDE icon,https://github.com/coder/coder/pull/3445,2022-08-09T23:37:52Z,2022-08-10T01:07:52Z,0,1,MERGED
+coder,add metadata to dogfood template,https://github.com/coder/coder/pull/3444,2022-08-09T23:31:14Z,2022-08-09T23:40:12Z,0,4,MERGED
+coder,feat: Support booleans for parameters input,https://github.com/coder/coder/pull/3437,2022-08-09T19:39:03Z,2022-08-10T13:41:27Z,8,2,MERGED
+coder,feat: Add metadata support to the UI,https://github.com/coder/coder/pull/3431,2022-08-09T16:28:28Z,2022-08-09T16:49:07Z,4,1,MERGED
+coder,"feat: add audit page title, subtitle, and CLI snippet",https://github.com/coder/coder/pull/3419,2022-08-08T20:58:36Z,2022-08-09T01:08:37Z,4,5,MERGED
+coder,add a new and hidden audit route for audit epic,https://github.com/coder/coder/pull/3408,2022-08-08T15:33:44Z,2022-08-08T16:23:01Z,0,1,MERGED
+coder,chore: improve contrast for terminal overlay,https://github.com/coder/coder/pull/3375,2022-08-03T19:58:25Z,2022-08-03T20:39:39Z,0,1,MERGED
+coder,fix: handle create workspace errors,https://github.com/coder/coder/pull/3346,2022-08-01T20:12:26Z,2022-08-02T17:19:01Z,1,6,MERGED
+coder,fix: handle workspace errors,https://github.com/coder/coder/pull/3341,2022-08-01T16:33:09Z,2022-08-05T15:38:08Z,4,13,MERGED
+coder,feat: Add static error page,https://github.com/coder/coder/pull/4276,2022-09-30T16:45:28Z,2022-10-03T14:42:12Z,3,3,MERGED
+coder,Feat: add showAvatar option to User Autocomplete,https://github.com/coder/coder/pull/4269,2022-09-29T20:03:00Z,2022-09-30T13:50:36Z,2,2,MERGED
+coder,chore: Add flusher to make implement http.Flusher interface,https://github.com/coder/coder/pull/4255,2022-09-29T01:06:49Z,2022-09-29T01:16:11Z,0,1,MERGED
+coder,feat: allow admins to create workspaces for other users in UI,https://github.com/coder/coder/pull/4247,2022-09-28T18:54:21Z,2022-09-29T18:32:39Z,4,12,MERGED
+coder,docs: add missing icons to Administration section,https://github.com/coder/coder/pull/4233,2022-09-27T21:57:03Z,2022-09-28T15:12:32Z,0,1,MERGED
+coder,Add Users Last Seen At,https://github.com/coder/coder/pull/4192,2022-09-24T19:15:34Z,2022-09-26T15:31:03Z,0,5,MERGED
+coder,feat: workspace quotas,https://github.com/coder/coder/pull/4184,2022-09-23T20:59:37Z,2022-09-30T18:01:21Z,8,46,MERGED
+coder,refactor: Improve DAU chart view,https://github.com/coder/coder/pull/4172,2022-09-23T16:37:53Z,2022-09-23T16:58:01Z,3,1,MERGED
+coder,feat: filter for running workspaces,https://github.com/coder/coder/pull/4157,2022-09-22T18:31:05Z,2022-10-11T17:50:42Z,5,19,MERGED
+coder,chore: revert open in coder docs for now,https://github.com/coder/coder/pull/4154,2022-09-22T16:31:41Z,2022-09-22T18:02:11Z,1,2,MERGED
+coder,chore: minor changes to SSH dialog,https://github.com/coder/coder/pull/4142,2022-09-21T03:25:20Z,2022-09-21T04:02:51Z,0,1,MERGED
+coder,fix: inline code blocks in template README,https://github.com/coder/coder/pull/4141,2022-09-21T03:10:37Z,2022-09-27T12:54:30Z,0,2,MERGED
+coder,feat: Add deployment settings to the UI,https://github.com/coder/coder/pull/4138,2022-09-20T19:05:49Z,2022-10-07T00:19:44Z,4,5,CLOSED
+coder,feat: secure and cross-domain subdomain-based proxying,https://github.com/coder/coder/pull/4136,2022-09-20T18:17:25Z,2022-09-22T22:30:33Z,9,24,MERGED
+coder,fix: ignore context canceled error on server,https://github.com/coder/coder/pull/4128,2022-09-20T03:44:33Z,2022-09-20T04:56:51Z,0,4,MERGED
+coder,"feat: add open in coder docs, fix missing templates",https://github.com/coder/coder/pull/4124,2022-09-19T20:44:03Z,2022-09-22T15:48:04Z,15,9,MERGED
+coder,feat: use sse for workspace page,https://github.com/coder/coder/pull/4122,2022-09-19T20:22:42Z,2022-09-21T18:32:00Z,12,7,MERGED
+coder,feat: Add audit logs filtering to the UI,https://github.com/coder/coder/pull/4120,2022-09-19T19:08:51Z,2022-09-20T00:28:23Z,2,7,MERGED
+coder,feat: add health check monitoring to workspace apps,https://github.com/coder/coder/pull/4114,2022-09-19T16:44:06Z,2022-09-23T19:51:05Z,21,64,MERGED
+coder,fix: Improve consistency on CLI help,https://github.com/coder/coder/pull/4112,2022-09-19T16:01:48Z,2022-09-19T16:36:19Z,2,1,MERGED
+coder,"refactor: Typography, action hover and table head colors",https://github.com/coder/coder/pull/4046,2022-09-13T19:50:35Z,2022-09-14T18:09:06Z,0,2,MERGED
+coder,refactor: Minor improvements and fixes for the page headers,https://github.com/coder/coder/pull/4045,2022-09-13T19:10:11Z,2022-09-14T14:04:02Z,1,1,MERGED
+coder,feat: Allow deleting users,https://github.com/coder/coder/pull/4028,2022-09-12T17:59:56Z,2022-09-12T23:24:21Z,0,5,MERGED
+coder,docs: fix docker-compose up command,https://github.com/coder/coder/pull/4019,2022-09-12T16:57:45Z,2022-09-14T17:29:20Z,1,1,CLOSED
+coder,fix: Audit log human parse message and nullable diffs,https://github.com/coder/coder/pull/3978,2022-09-09T15:33:28Z,2022-09-09T16:53:38Z,1,2,MERGED
+coder,fix: Show the users workspaces by default on `coder ls`,https://github.com/coder/coder/pull/3947,2022-09-07T21:13:30Z,2022-09-07T22:30:49Z,0,1,MERGED
+coder,feat: Add table support and syntax highlights for markdowns,https://github.com/coder/coder/pull/3910,2022-09-06T18:50:14Z,2022-09-06T22:20:23Z,4,4,MERGED
+coder,"Change the primary UI font, darken the background, and show template icons for workspaces",https://github.com/coder/coder/pull/3863,2022-09-04T18:37:12Z,2022-09-06T18:26:36Z,8,5,MERGED
+coder,chore: separate install docs,https://github.com/coder/coder/pull/3859,2022-09-03T22:31:52Z,2022-09-08T19:41:00Z,7,13,MERGED
+coder,fix:  Switch primary font to Inter,https://github.com/coder/coder/pull/3857,2022-09-03T17:14:54Z,2022-09-04T18:37:27Z,1,1,CLOSED
+coder,feat: add orphan support,https://github.com/coder/coder/pull/3849,2022-09-02T20:32:54Z,2022-09-06T17:07:00Z,5,17,MERGED
+coder,feat: Add latency indicator to the UI,https://github.com/coder/coder/pull/3846,2022-09-02T17:55:44Z,2022-09-02T20:09:05Z,2,2,MERGED
+coder,Make color usage more consistent,https://github.com/coder/coder/pull/3842,2022-09-02T16:42:49Z,2022-09-06T14:58:13Z,0,17,MERGED
+coder,feat: improve formatting of last used,https://github.com/coder/coder/pull/3824,2022-09-02T01:19:48Z,2022-09-02T04:03:02Z,0,1,MERGED
+coder,feat: add loaders to ssh and terminal buttons,https://github.com/coder/coder/pull/3820,2022-09-01T22:59:14Z,2022-09-01T23:58:44Z,0,3,MERGED
+coder,feat: add workspace last used,https://github.com/coder/coder/pull/3816,2022-09-01T20:40:33Z,2022-09-02T00:08:52Z,1,7,MERGED
+coder,feat: Add portforward to the UI,https://github.com/coder/coder/pull/3812,2022-09-01T18:52:27Z,2022-09-13T20:41:40Z,8,8,MERGED
+coder,feat: make scrollbars match color scheme,https://github.com/coder/coder/pull/3807,2022-09-01T17:15:23Z,2022-09-01T18:28:18Z,2,1,MERGED
+coder,refactor: Refactor build page,https://github.com/coder/coder/pull/4815,2022-10-31T19:32:25Z,2022-11-01T14:49:33Z,0,4,MERGED
+coder,feat: Add support for update checks and notifications,https://github.com/coder/coder/pull/4810,2022-10-31T15:46:56Z,2022-12-01T17:43:29Z,28,14,MERGED
+coder,refactor: Fix list styles in markdown,https://github.com/coder/coder/pull/4802,2022-10-28T20:29:57Z,2022-10-31T15:56:27Z,0,1,MERGED
+coder,refactor: Show template versions as timeline,https://github.com/coder/coder/pull/4800,2022-10-28T18:44:45Z,2022-10-31T16:38:07Z,4,18,MERGED
+coder,refactor: Align values when there are more than one row in agent preview,https://github.com/coder/coder/pull/4795,2022-10-28T16:44:45Z,2022-10-28T19:09:06Z,0,2,MERGED
+coder,refactor: Improve template README section,https://github.com/coder/coder/pull/4794,2022-10-28T14:46:43Z,2022-10-28T19:40:41Z,1,6,MERGED
+coder,feat: paginating Users page,https://github.com/coder/coder/pull/4792,2022-10-27T18:15:26Z,2022-10-28T19:43:11Z,11,34,MERGED
+coder,refactor: Refactor template resources,https://github.com/coder/coder/pull/4789,2022-10-27T16:35:19Z,2022-10-27T20:27:15Z,9,14,MERGED
+coder,fix: Fix audit log collapse,https://github.com/coder/coder/pull/4781,2022-10-27T00:50:56Z,2022-10-27T01:02:53Z,0,1,MERGED
+coder,refactor: Inline workspace badge,https://github.com/coder/coder/pull/4774,2022-10-26T18:37:09Z,2022-10-26T19:30:03Z,0,1,MERGED
+coder,refactor: Make the audit log looks like a timeline,https://github.com/coder/coder/pull/4765,2022-10-26T16:47:58Z,2022-10-26T19:20:26Z,3,7,MERGED
+coder,chore: add audit log tests,https://github.com/coder/coder/pull/4764,2022-10-26T15:53:26Z,2022-10-27T19:57:42Z,7,10,MERGED
+coder,"refactor: Refactor resources colors, avatars and buttons",https://github.com/coder/coder/pull/4751,2022-10-25T18:35:02Z,2022-10-25T19:41:39Z,0,1,MERGED
+coder,refactor: Refactor page header spacing and stats,https://github.com/coder/coder/pull/4750,2022-10-25T17:10:42Z,2022-10-25T17:51:59Z,0,1,MERGED
+coder,feat: add workspace build start/stop to audit log,https://github.com/coder/coder/pull/4744,2022-10-25T14:37:55Z,2022-10-25T19:34:49Z,5,14,MERGED
+coder,feat: Redesign build logs,https://github.com/coder/coder/pull/4734,2022-10-24T20:02:25Z,2022-10-25T03:44:14Z,8,9,MERGED
+coder,set correct case for env,https://github.com/coder/coder/pull/4713,2022-10-23T22:27:08Z,2022-10-26T17:09:06Z,1,1,MERGED
+coder,"feat: Add Git auth for GitHub, GitLab, Azure DevOps, and BitBucket",https://github.com/coder/coder/pull/4670,2022-10-20T18:13:32Z,2022-10-25T00:46:25Z,9,22,MERGED
+coder,adding workspace_build resource,https://github.com/coder/coder/pull/4636,2022-10-18T21:42:21Z,2022-10-25T13:27:51Z,9,13,MERGED
+coder,refactor: Update resources to look as a stack,https://github.com/coder/coder/pull/4631,2022-10-18T19:02:21Z,2022-10-18T19:52:47Z,1,1,MERGED
+coder,feat: support wildcard apps over tunnel,https://github.com/coder/coder/pull/4602,2022-10-17T20:15:43Z,2022-10-20T22:09:45Z,2,1,MERGED
+coder,feat: Add deployment settings page,https://github.com/coder/coder/pull/4590,2022-10-17T16:35:02Z,2022-10-17T17:23:00Z,1,17,MERGED
+coder,"feat: add slug property to app, use in URLs",https://github.com/coder/coder/pull/4573,2022-10-16T19:30:50Z,2022-10-28T17:41:32Z,11,18,MERGED
+coder,Add template build time stats,https://github.com/coder/coder/pull/4557,2022-10-14T20:18:11Z,2022-10-15T20:36:50Z,2,9,MERGED
+coder,feat: add app sharing icon and tooltip,https://github.com/coder/coder/pull/4556,2022-10-14T20:06:02Z,2022-10-14T21:49:24Z,1,2,MERGED
+coder,fix: ensure deleting workspace creates audit log,https://github.com/coder/coder/pull/4537,2022-10-13T18:34:42Z,2022-10-14T13:47:38Z,2,5,MERGED
+coder,fix: redesign schedule bumper to handle multiple hours of change at once,https://github.com/coder/coder/pull/4535,2022-10-13T16:49:23Z,2022-10-14T17:23:01Z,3,15,MERGED
+coder,feat: add auditing for groups,https://github.com/coder/coder/pull/4527,2022-10-13T01:38:39Z,2022-10-19T07:00:45Z,3,15,MERGED
+coder,feat: add avatar urls to groups,https://github.com/coder/coder/pull/4525,2022-10-13T00:00:07Z,2022-10-17T22:46:02Z,6,16,MERGED
+coder,fix: duplicate workspace update entries,https://github.com/coder/coder/pull/4513,2022-10-12T14:19:30Z,2022-10-14T18:39:21Z,5,6,MERGED
+coder,chore: change view perm to use,https://github.com/coder/coder/pull/4496,2022-10-11T20:13:44Z,2022-10-12T19:33:21Z,2,4,MERGED
+coder,refactor: Add description to the roles options,https://github.com/coder/coder/pull/4480,2022-10-11T14:56:44Z,2022-10-11T17:08:14Z,0,1,MERGED
+coder,refactor: Add group badge to diff groups from users,https://github.com/coder/coder/pull/4478,2022-10-11T13:26:51Z,2022-10-11T14:39:05Z,3,2,MERGED
+coder,refactor: Add enterprise badge to paywalls,https://github.com/coder/coder/pull/4477,2022-10-11T13:05:03Z,2022-10-11T14:27:34Z,3,1,MERGED
+coder,docs: use enterprise badges,https://github.com/coder/coder/pull/4428,2022-10-08T03:06:48Z,2022-10-08T04:44:41Z,0,1,MERGED
+coder,fix(ci): use correct `retention-days` in e2e,https://github.com/coder/coder/pull/4424,2022-10-07T18:30:14Z,2022-10-07T18:46:17Z,0,1,MERGED
+coder,refactor: Display tooltip on cancel action,https://github.com/coder/coder/pull/4421,2022-10-07T17:28:43Z,2022-10-10T15:34:09Z,0,1,MERGED
+coder,refactor: Remove user roles from dropdown,https://github.com/coder/coder/pull/4419,2022-10-07T16:47:29Z,2022-10-07T17:17:56Z,0,4,MERGED
+coder,feat: redesign error alert,https://github.com/coder/coder/pull/4403,2022-10-06T20:22:17Z,2022-10-07T14:39:28Z,1,14,MERGED
+coder,feat: show listening ports in port forward popup,https://github.com/coder/coder/pull/4389,2022-10-06T13:44:08Z,2022-10-11T15:10:03Z,7,7,MERGED
+coder,chore: add icons to quickstart docs,https://github.com/coder/coder/pull/4379,2022-10-05T19:44:51Z,2022-10-06T14:56:46Z,0,1,MERGED
+coder,feat: add warning if workspace page becomes stale,https://github.com/coder/coder/pull/4375,2022-10-05T15:10:12Z,2022-10-05T22:46:46Z,1,6,MERGED
+coder,chore(cla): implement coder.com/cla,https://github.com/coder/coder/pull/4354,2022-10-04T02:22:17Z,2022-10-10T22:49:03Z,0,1,MERGED
+coder,feat: add rich parameters,https://github.com/coder/coder/pull/4311,2022-10-02T16:01:25Z,2023-01-22T00:11:20Z,15,18,CLOSED
+coder,feat: add debouncing to provisionerd rpc calls,https://github.com/coder/coder/pull/5198,2022-11-29T21:36:10Z,2022-12-01T22:54:53Z,2,2,MERGED
+coder,refactor: Add coder tip pill on sign in page,https://github.com/coder/coder/pull/5196,2022-11-29T19:59:37Z,2022-11-30T16:38:13Z,0,1,MERGED
+coder,Add audit links/kira pilot,https://github.com/coder/coder/pull/5156,2022-11-23T18:26:51Z,2022-12-02T20:14:46Z,7,13,MERGED
+coder,refactor: Refactor login page,https://github.com/coder/coder/pull/5148,2022-11-22T17:05:27Z,2022-11-23T14:53:42Z,4,4,MERGED
+coder,feat: Add support for MOTD file in coder agents,https://github.com/coder/coder/pull/5147,2022-11-22T15:11:47Z,2022-11-24T12:22:20Z,4,12,MERGED
+coder,feat: tweak timeline design,https://github.com/coder/coder/pull/5144,2022-11-22T00:02:38Z,2022-11-22T22:30:46Z,0,2,MERGED
+coder,Audit build outcomes/kira pilot,https://github.com/coder/coder/pull/5143,2022-11-21T17:15:19Z,2022-11-22T18:22:56Z,6,10,MERGED
+coder,"fix: don't use yamux for in-memory provisioner{,d} streams",https://github.com/coder/coder/pull/5136,2022-11-19T00:12:47Z,2022-11-22T18:19:32Z,0,4,MERGED
+coder,refactor: Improve empty views,https://github.com/coder/coder/pull/5134,2022-11-18T19:47:21Z,2022-11-19T01:46:12Z,0,1,MERGED
+coder,refactor: Minor build bar UI improvement,https://github.com/coder/coder/pull/5132,2022-11-18T18:05:45Z,2022-11-21T15:04:24Z,0,1,MERGED
+coder,feat: Allow user to cancel workspace jobs,https://github.com/coder/coder/pull/5115,2022-11-17T11:13:36Z,2022-11-21T10:43:53Z,5,19,MERGED
+coder,"feat: Allow hiding password auth, changing OpenID Connect text and OpenID Connect icon",https://github.com/coder/coder/pull/5101,2022-11-16T02:48:37Z,2023-01-31T18:33:26Z,30,24,MERGED
+coder,fix: Syntax highlighting with long lines and untar content with emojis,https://github.com/coder/coder/pull/5098,2022-11-15T19:28:51Z,2022-11-15T20:09:55Z,1,3,MERGED
+coder,feat: Add version page,https://github.com/coder/coder/pull/5071,2022-11-14T16:53:19Z,2022-11-15T16:24:13Z,10,15,MERGED
+coder,feat(footer): apply appropriate GitHub labels,https://github.com/coder/coder/pull/5027,2022-11-11T05:03:18Z,2022-11-27T00:12:35Z,2,6,CLOSED
+coder,housekeeping: structure GitHub issues via templates,https://github.com/coder/coder/pull/5025,2022-11-11T04:18:27Z,2022-11-14T15:32:54Z,1,4,MERGED
+coder,fix: index `GetWorkspaceAgentsByResourceIDs` query,https://github.com/coder/coder/pull/5021,2022-11-10T23:34:36Z,2022-11-16T20:40:58Z,0,3,MERGED
+coder,fix: add index for `GetProvisionerLogsByIDBetween`,https://github.com/coder/coder/pull/5020,2022-11-10T23:19:26Z,2022-11-16T20:32:29Z,0,3,MERGED
+coder,fix: template permissions page never loads,https://github.com/coder/coder/pull/5014,2022-11-10T21:15:12Z,2022-11-14T17:33:18Z,3,2,MERGED
+coder,fix: add index for `workspace_resource.job_id` column,https://github.com/coder/coder/pull/5009,2022-11-10T20:01:34Z,2022-11-10T20:09:45Z,0,1,MERGED
+coder,fix: Improve agent waiting/timeout message behavior in ssh,https://github.com/coder/coder/pull/4999,2022-11-10T15:32:55Z,2022-11-10T15:41:23Z,0,1,MERGED
+coder,fix: Misc improvements to `scripts/develop.sh`,https://github.com/coder/coder/pull/4995,2022-11-10T11:39:50Z,2022-11-10T18:47:42Z,6,4,MERGED
+coder,Template delete button/kira pilot,https://github.com/coder/coder/pull/4992,2022-11-09T22:47:49Z,2022-11-10T15:41:36Z,3,6,MERGED
+coder,feat: Display warning on agent connection timeout,https://github.com/coder/coder/pull/4983,2022-11-09T17:38:51Z,2022-11-09T20:40:35Z,4,3,MERGED
+coder,Support high build time variation in progress bar,https://github.com/coder/coder/pull/4941,2022-11-07T22:11:51Z,2022-11-17T16:56:56Z,4,12,MERGED
+coder,fix: Long audit log string overflowing table,https://github.com/coder/coder/pull/4931,2022-11-07T16:41:04Z,2022-11-07T17:39:38Z,0,1,MERGED
+coder,docs: 1. fix closing ) on projector examples 2.update jupyter section…,https://github.com/coder/coder/pull/4920,2022-11-06T21:21:58Z,2022-11-07T18:41:04Z,0,1,MERGED
+coder,refactor: Improve long rows in audit log,https://github.com/coder/coder/pull/4904,2022-11-04T17:11:17Z,2022-11-04T18:24:50Z,0,2,MERGED
+coder,"chore: update port forward dashboard docs for coder_app, sharing, and showing running processes",https://github.com/coder/coder/pull/4876,2022-11-03T14:50:52Z,2022-11-03T15:44:56Z,1,2,MERGED
+coder,chore: 🦈 😎 👀 1. add psql URL for the built-in db 2. repair workspace with coder update CLI command ,https://github.com/coder/coder/pull/4864,2022-11-02T22:39:33Z,2022-11-02T23:56:24Z,2,2,MERGED
+coder,refactor: Refactor create workspace page,https://github.com/coder/coder/pull/4862,2022-11-02T17:06:03Z,2022-11-02T20:44:42Z,0,7,MERGED
+coder,"feat: add count endpoint for users, enabling better pagination",https://github.com/coder/coder/pull/4848,2022-11-01T20:59:12Z,2022-11-08T15:58:44Z,5,18,MERGED
+coder,Audit date filter/kira pilot,https://github.com/coder/coder/pull/4845,2022-11-01T19:49:21Z,2022-11-03T15:04:36Z,2,11,MERGED
+coder,feat: change template max_ttl to default_ttl,https://github.com/coder/coder/pull/4843,2022-11-01T19:42:27Z,2022-11-09T19:36:26Z,2,18,MERGED
+coder,Kiras attempt at redirect/kira pilot,https://github.com/coder/coder/pull/5454,2022-12-16T19:58:44Z,2023-01-03T15:24:53Z,0,5,CLOSED
+coder,feat: Manage tokens in dashboard,https://github.com/coder/coder/pull/5444,2022-12-15T21:56:16Z,2023-01-13T17:20:04Z,3,11,MERGED
+coder,feat: amending audit string to show workspace owner ,https://github.com/coder/coder/pull/5364,2022-12-09T16:32:51Z,2022-12-09T17:19:30Z,0,3,MERGED
+coder,clean up,https://github.com/coder/coder/pull/5357,2022-12-08T17:30:01Z,2023-01-03T15:27:29Z,4,2,CLOSED
+coder,"feat(usermgmt): allow usernames with ""_"", "".""",https://github.com/coder/coder/pull/5347,2022-12-08T11:34:01Z,2023-01-29T00:11:04Z,15,5,CLOSED
+coder,chore: collect gotestsum TestEvents as workflow artifacts,https://github.com/coder/coder/pull/5336,2022-12-07T13:47:41Z,2022-12-07T14:04:40Z,0,1,MERGED
+coder,Fix: Timeline Date Bug,https://github.com/coder/coder/pull/5329,2022-12-06T19:01:05Z,2022-12-06T21:58:32Z,0,1,MERGED
+coder,fix: Add avatar when template has no icon on create workspace,https://github.com/coder/coder/pull/5294,2022-12-05T17:06:10Z,2022-12-05T17:50:51Z,0,1,MERGED
+coder,fix: Fix resource avatar when icon is empty string,https://github.com/coder/coder/pull/5291,2022-12-05T16:27:29Z,2022-12-05T17:37:14Z,0,1,MERGED
+coder,Add build number to workspace_build audit logs,https://github.com/coder/coder/pull/5267,2022-12-02T21:04:47Z,2022-12-06T18:33:22Z,1,15,MERGED
+coder,fix: add index to `provisioner_jobs.started_at`,https://github.com/coder/coder/pull/5245,2022-12-02T01:17:04Z,2022-12-02T01:29:15Z,0,1,MERGED
+coder,fix: add index on `workspace_agents.auth_token`,https://github.com/coder/coder/pull/5244,2022-12-02T01:08:16Z,2022-12-02T01:29:06Z,0,1,MERGED
+coder,refactor: Remove login banner,https://github.com/coder/coder/pull/5239,2022-12-01T19:41:42Z,2022-12-05T14:24:53Z,3,1,MERGED
+coder,feat: audit login,https://github.com/coder/coder/pull/5925,2023-01-30T21:33:41Z,2023-02-06T20:12:51Z,13,21,MERGED
+coder,fix: ensure fields show up for group resource  in docs,https://github.com/coder/coder/pull/5918,2023-01-30T15:11:01Z,2023-01-30T15:54:59Z,0,2,MERGED
+coder,docs: added alpha jetbrains gateway coder plugin | remove code-server version parameter,https://github.com/coder/coder/pull/5900,2023-01-28T16:42:54Z,2023-01-29T01:09:41Z,3,1,MERGED
+coder,fix: audit log broken build links,https://github.com/coder/coder/pull/5895,2023-01-27T20:14:51Z,2023-01-30T18:43:29Z,4,7,MERGED
+coder,feat: add debug server for tailnet coordinators,https://github.com/coder/coder/pull/5861,2023-01-25T20:25:23Z,2023-01-25T21:27:37Z,2,7,MERGED
+coder,feat: Adjust forms to include Rich Parameters,https://github.com/coder/coder/pull/5856,2023-01-25T16:54:33Z,2023-02-01T17:13:12Z,4,48,MERGED
+coder,feat: adding template version id to workspace build diff,https://github.com/coder/coder/pull/5841,2023-01-24T15:23:23Z,2023-01-24T15:53:05Z,0,2,MERGED
+coder,feat: add audit log filter for autostarted and autostopped workspace builds,https://github.com/coder/coder/pull/5830,2023-01-23T23:16:01Z,2023-01-24T20:34:30Z,1,9,MERGED
+coder,feat: indicate when workspace builds are stopped/started by Coder,https://github.com/coder/coder/pull/5813,2023-01-20T21:47:43Z,2023-01-23T20:47:59Z,1,4,MERGED
+coder,fix: filter workspace_build resource on start/stop action,https://github.com/coder/coder/pull/5809,2023-01-20T15:25:58Z,2023-01-20T18:23:14Z,1,3,MERGED
+coder,fix(helm): revert use correct antiaffinity label,https://github.com/coder/coder/pull/5805,2023-01-20T04:22:14Z,2023-01-23T16:01:30Z,0,1,CLOSED
+coder,feat: better display secret audit values,https://github.com/coder/coder/pull/5801,2023-01-19T21:49:45Z,2023-01-19T22:47:53Z,0,1,MERGED
+coder,refactor: Refactor tokens layout a bit,https://github.com/coder/coder/pull/5771,2023-01-18T17:52:44Z,2023-01-19T13:01:00Z,0,1,MERGED
+coder,chore: Improve bundle size,https://github.com/coder/coder/pull/5761,2023-01-17T22:46:45Z,2023-01-18T17:31:32Z,0,6,MERGED
+coder,feat: PGP sign the checksum file in releases,https://github.com/coder/coder/pull/5757,2023-01-17T18:23:12Z,2023-01-17T18:45:28Z,4,2,MERGED
+coder,feat: Enable users to download the Coder CLI from the SSH button,https://github.com/coder/coder/pull/5738,2023-01-17T05:16:20Z,2023-02-21T00:11:26Z,26,1,CLOSED
+coder,feat: Auditing group members as part of group resource,https://github.com/coder/coder/pull/5730,2023-01-16T17:49:50Z,2023-01-18T20:13:40Z,11,12,MERGED
+coder,refactor: Wrap forms into dashboard layout,https://github.com/coder/coder/pull/5697,2023-01-12T19:43:02Z,2023-01-12T20:08:32Z,0,2,MERGED
+coder,refactor: Make the navbar wider,https://github.com/coder/coder/pull/5689,2023-01-12T13:46:42Z,2023-01-12T16:34:56Z,0,3,MERGED
+coder,fix: audit log workspace build URL should form with the correct workspace owner,https://github.com/coder/coder/pull/5674,2023-01-11T17:47:19Z,2023-01-12T14:51:31Z,3,3,MERGED
+coder,refactor: User settings page,https://github.com/coder/coder/pull/5661,2023-01-10T19:21:08Z,2023-01-10T20:57:08Z,0,4,MERGED
+coder,chore: forbid direct react import,https://github.com/coder/coder/pull/5658,2023-01-10T17:30:03Z,2023-01-10T18:30:48Z,0,1,MERGED
+coder,feat: add experimental button to open vscode locally,https://github.com/coder/coder/pull/5654,2023-01-10T15:25:36Z,2023-01-10T16:07:41Z,4,3,MERGED
+coder,ci: Do release tagging in CI and add --draft support,https://github.com/coder/coder/pull/5652,2023-01-10T13:15:24Z,2023-01-11T16:38:02Z,7,17,MERGED
+coder,feat: add storybook for /deployment/security,https://github.com/coder/coder/pull/5610,2023-01-06T22:12:38Z,2023-01-09T20:44:44Z,1,4,MERGED
+coder,feat: add storybook for /deployment/userauth,https://github.com/coder/coder/pull/5609,2023-01-06T21:44:58Z,2023-01-09T16:01:23Z,2,4,MERGED
+coder,feat: add storybook for /deployment/network,https://github.com/coder/coder/pull/5603,2023-01-06T16:41:49Z,2023-01-06T17:14:02Z,0,3,MERGED
+coder,feat: add storybook for /deployment/gitauth,https://github.com/coder/coder/pull/5596,2023-01-05T23:18:58Z,2023-01-06T16:58:20Z,1,6,MERGED
+coder,feat: add storybook for /deployments/general,https://github.com/coder/coder/pull/5595,2023-01-05T19:33:50Z,2023-01-05T23:06:17Z,1,3,MERGED
+coder,refactor: Refactor user menu,https://github.com/coder/coder/pull/5591,2023-01-05T14:43:23Z,2023-01-05T17:06:58Z,1,2,MERGED
+coder,fix: styles for <AlertBanner />,https://github.com/coder/coder/pull/5579,2023-01-04T20:12:23Z,2023-01-04T21:46:42Z,0,3,MERGED
+coder,refactor: Improve roles UI,https://github.com/coder/coder/pull/5576,2023-01-04T18:22:31Z,2023-01-04T21:30:36Z,7,11,MERGED
+coder,feat: enable enterprise users to specify a custom logo,https://github.com/coder/coder/pull/5566,2023-01-04T06:18:41Z,2023-01-04T21:31:46Z,0,3,MERGED
+coder,refactor: move footer items into the user dropdown,https://github.com/coder/coder/pull/5562,2023-01-03T22:04:46Z,2023-01-04T18:36:25Z,4,3,MERGED
+coder,refactor: Improve users table view for non admins,https://github.com/coder/coder/pull/5547,2023-01-03T13:51:47Z,2023-01-03T16:21:59Z,0,1,MERGED
+coder,feat: add ability to name tokens,https://github.com/coder/coder/pull/6365,2023-02-27T21:33:49Z,2023-03-02T17:39:39Z,4,26,MERGED
+coder,feat: add 'Show all tokens' toggle for owners,https://github.com/coder/coder/pull/6325,2023-02-23T18:36:50Z,2023-03-01T16:35:56Z,7,12,MERGED
+coder,fix(site): Fix cancel button borders,https://github.com/coder/coder/pull/6315,2023-02-23T00:25:59Z,2023-02-23T15:47:10Z,0,2,MERGED
+coder,feat: Enable custom support links,https://github.com/coder/coder/pull/6313,2023-02-22T23:01:17Z,2023-02-27T08:25:05Z,2,13,MERGED
+coder,feat: rework CLI docs,https://github.com/coder/coder/pull/6312,2023-02-22T21:24:14Z,2023-02-23T01:53:21Z,0,21,MERGED
+coder,feat: Add form to modify managed Template variables,https://github.com/coder/coder/pull/6257,2023-02-17T16:04:02Z,2023-03-02T13:11:17Z,9,26,MERGED
+coder,refactor(site): Refactor template settings,https://github.com/coder/coder/pull/6239,2023-02-16T16:58:00Z,2023-02-17T13:27:36Z,3,10,MERGED
+coder,refactor(site): Redesign dialogs,https://github.com/coder/coder/pull/6237,2023-02-16T15:21:19Z,2023-02-16T17:03:08Z,1,1,MERGED
+coder,feat: add flag to see all tokens if owner,https://github.com/coder/coder/pull/6227,2023-02-15T21:47:39Z,2023-02-23T15:00:28Z,9,16,MERGED
+coder,fix: token rm should successfully remove token,https://github.com/coder/coder/pull/6203,2023-02-14T15:36:33Z,2023-02-14T21:34:32Z,1,2,CLOSED
+coder,feat: audit addition and removal of licenses,https://github.com/coder/coder/pull/6125,2023-02-08T22:18:05Z,2023-02-14T21:34:14Z,3,11,MERGED
+coder,feat: render Markdown in rich parameter descriptions,https://github.com/coder/coder/pull/6098,2023-02-08T10:47:25Z,2023-02-08T11:57:13Z,1,10,MERGED
+coder,chore: fix status color for redirects on audit page,https://github.com/coder/coder/pull/6096,2023-02-07T23:10:19Z,2023-02-08T14:40:52Z,0,2,MERGED
+coder,chore: change build audit log string to be clearer,https://github.com/coder/coder/pull/6093,2023-02-07T21:59:28Z,2023-02-08T18:06:58Z,3,10,MERGED
+coder,feat!: Validate monotonic numbers for rich parameters,https://github.com/coder/coder/pull/6046,2023-02-06T13:17:04Z,2023-02-07T08:36:13Z,0,10,MERGED
+coder,chore: add alias helper to develop.sh,https://github.com/coder/coder/pull/6031,2023-02-04T11:22:41Z,2023-02-06T05:02:35Z,0,3,MERGED
+coder,chore: ignore trend line in storybook,https://github.com/coder/coder/pull/6003,2023-02-02T21:44:05Z,2023-02-03T14:05:39Z,0,1,MERGED
+coder,feat: add preset filter for audit logins,https://github.com/coder/coder/pull/6001,2023-02-02T21:22:22Z,2023-02-06T20:25:41Z,2,13,CLOSED
+coder,feat: audit logout,https://github.com/coder/coder/pull/5998,2023-02-02T20:23:04Z,2023-02-03T23:48:28Z,0,2,MERGED
+coder,fix: hide IP on workspace build logs,https://github.com/coder/coder/pull/5997,2023-02-02T19:59:00Z,2023-02-02T20:22:37Z,0,1,MERGED
+coder,feat: Group immutable and mutable rich parameters,https://github.com/coder/coder/pull/5975,2023-02-02T13:40:28Z,2023-02-02T17:01:19Z,4,1,MERGED
+coder,refactor(site): Add press any key option to reconnect,https://github.com/coder/coder/pull/5969,2023-02-01T21:42:52Z,2023-02-02T18:19:18Z,0,1,MERGED
+coder,refactor(site): Add more info on agent outdated tooltip and update action,https://github.com/coder/coder/pull/5967,2023-02-01T21:13:47Z,2023-02-02T18:19:00Z,3,3,MERGED
+coder,feat: rich parameters: introduce display_name ,https://github.com/coder/coder/pull/6919,2023-03-31T10:13:50Z,2023-04-03T12:37:48Z,0,26,MERGED
+coder,fix: FE show correct config-ssh prefix,https://github.com/coder/coder/pull/6904,2023-03-30T20:35:08Z,2023-03-31T13:48:45Z,0,3,MERGED
+coder,chore: Make deployment admin page show better durations,https://github.com/coder/coder/pull/6856,2023-03-28T19:40:20Z,2023-03-29T21:26:20Z,4,7,MERGED
+coder,fix(UI): redirect if user is not permissioned to see workspace,https://github.com/coder/coder/pull/6786,2023-03-24T19:06:10Z,2023-03-27T13:25:32Z,0,4,MERGED
+coder,feat: improve CLI error messages,https://github.com/coder/coder/pull/6778,2023-03-24T17:38:41Z,2023-03-28T16:03:35Z,6,11,MERGED
+coder,feat: Fine-tune logs presentation,https://github.com/coder/coder/pull/6771,2023-03-24T11:38:00Z,2023-03-24T12:29:19Z,0,3,MERGED
+coder,chore: bump `github.com/u-root/u-root`,https://github.com/coder/coder/pull/6738,2023-03-22T18:38:15Z,2023-03-22T18:52:51Z,0,1,MERGED
+coder,chore: update terraform-provider-coder to v0.6.21,https://github.com/coder/coder/pull/6736,2023-03-22T17:48:30Z,2023-03-22T18:04:56Z,0,1,MERGED
+coder,chore(UI): update autocomplete no options text,https://github.com/coder/coder/pull/6735,2023-03-22T17:35:37Z,2023-03-22T18:14:07Z,0,1,MERGED
+coder,fix(audit): audit login/logout for new 3rd-party auth,https://github.com/coder/coder/pull/6733,2023-03-22T15:27:53Z,2023-03-22T19:52:14Z,0,2,MERGED
+coder,feat(audit): auditing token addition and removal,https://github.com/coder/coder/pull/6649,2023-03-17T14:52:57Z,2023-03-17T17:41:45Z,0,5,MERGED
+coder,feat: show Terraform error details,https://github.com/coder/coder/pull/6643,2023-03-17T11:46:14Z,2023-03-20T13:23:41Z,3,3,MERGED
+coder,fix(site): Do not require immutable parameters,https://github.com/coder/coder/pull/6637,2023-03-16T17:02:09Z,2023-03-17T13:09:11Z,0,2,MERGED
+coder,feat: CLI use multiselect for list(string),https://github.com/coder/coder/pull/6631,2023-03-16T12:11:16Z,2023-03-16T16:17:49Z,2,6,MERGED
+coder,fix(site): Fix filter hover,https://github.com/coder/coder/pull/6624,2023-03-15T18:08:33Z,2023-03-16T13:31:42Z,0,1,MERGED
+coder,feat: add agent metadata,https://github.com/coder/coder/pull/6614,2023-03-15T15:29:08Z,2023-03-31T20:26:20Z,21,85,MERGED
+coder,feat(site): Add workspace settings page,https://github.com/coder/coder/pull/6612,2023-03-15T15:16:59Z,2023-03-16T14:00:19Z,1,9,MERGED
+coder,feat(site): add ability to create tokens from account tokens page,https://github.com/coder/coder/pull/6608,2023-03-14T21:16:44Z,2023-03-16T15:25:09Z,3,12,MERGED
+coder,docs: Add more info about slow tests in the FE,https://github.com/coder/coder/pull/6584,2023-03-13T17:03:48Z,2023-03-14T13:54:17Z,2,1,MERGED
+coder,feat: Ignore agent pprof port in listening ports,https://github.com/coder/coder/pull/6515,2023-03-08T20:26:52Z,2023-03-09T16:53:01Z,0,4,MERGED
+coder,fix: remove create first user from the cli message,https://github.com/coder/coder/pull/6493,2023-03-07T20:20:34Z,2023-03-09T02:54:47Z,0,2,MERGED
+coder,refactor(site): Highlight immutable parameters and do a few tweaks,https://github.com/coder/coder/pull/6490,2023-03-07T18:23:48Z,2023-03-08T13:52:43Z,5,2,MERGED
+coder,feat: add connection statistics for workspace agents,https://github.com/coder/coder/pull/6469,2023-03-07T01:42:23Z,2023-03-09T03:05:46Z,11,29,MERGED
+coder,fix: 404 template shows error page,https://github.com/coder/coder/pull/6441,2023-03-03T21:36:47Z,2023-03-06T13:58:36Z,0,1,MERGED
+coder,refactor(site): Suport template version variables on template creation,https://github.com/coder/coder/pull/6434,2023-03-03T12:53:20Z,2023-03-06T18:36:20Z,10,10,MERGED
+coder,docs: clarify requirements for offline deployments,https://github.com/coder/coder/pull/6418,2023-03-02T15:45:35Z,2023-03-02T20:59:31Z,0,5,MERGED
+coder,feat: Guard search queries against common mistakes,https://github.com/coder/coder/pull/6404,2023-03-01T18:05:52Z,2023-03-02T05:28:57Z,8,16,MERGED
+coder,fix(site): Fix long template descriptions on template header,https://github.com/coder/coder/pull/6403,2023-03-01T17:43:37Z,2023-03-01T17:54:00Z,0,1,MERGED
+coder,feat(site): Show warning if startup script is running,https://github.com/coder/coder/pull/7326,2023-04-28T18:56:24Z,2023-05-02T17:49:17Z,4,6,MERGED
+coder,chore: minor tweaks to license ui,https://github.com/coder/coder/pull/7314,2023-04-27T20:13:55Z,2023-04-28T21:49:54Z,5,3,MERGED
+coder,refactor(site): Refactor error state,https://github.com/coder/coder/pull/7313,2023-04-27T19:14:08Z,2023-04-28T13:03:02Z,3,6,MERGED
+coder,feat(agent): add http debug routes for magicsock,https://github.com/coder/coder/pull/7287,2023-04-25T19:20:51Z,2023-04-26T18:01:49Z,1,3,MERGED
+coder,feat: UI/UX for regions,https://github.com/coder/coder/pull/7283,2023-04-25T14:47:35Z,2023-04-28T21:04:52Z,37,54,MERGED
+coder,refactor(site): Group app and agent actions together,https://github.com/coder/coder/pull/7267,2023-04-24T19:22:52Z,2023-04-24T19:59:52Z,0,4,MERGED
+coder,feat: add expiration warning,https://github.com/coder/coder/pull/7264,2023-04-24T14:57:43Z,2023-04-26T19:39:40Z,3,6,MERGED
+coder,ci: disable caching in setup/go action,https://github.com/coder/coder/pull/7251,2023-04-21T17:26:36Z,2023-04-21T18:01:43Z,0,2,MERGED
+coder,refactor(site): Redesign the agent row,https://github.com/coder/coder/pull/7226,2023-04-20T16:43:28Z,2023-04-20T18:37:10Z,3,8,MERGED
+coder,feat: add license settings UI,https://github.com/coder/coder/pull/7210,2023-04-19T20:14:50Z,2023-04-26T20:47:47Z,27,22,MERGED
+coder,feat: add success modal with token value to create token page,https://github.com/coder/coder/pull/7170,2023-04-17T17:33:12Z,2023-04-17T18:54:44Z,0,2,MERGED
+coder,feat(UI): add workspace restart button,https://github.com/coder/coder/pull/7137,2023-04-14T15:02:54Z,2023-04-14T15:48:06Z,1,11,MERGED
+coder,fix(site): Fix button text overflow,https://github.com/coder/coder/pull/7132,2023-04-14T12:35:43Z,2023-04-14T13:13:55Z,0,1,MERGED
+coder,refactor(site): Refactor workspace actions,https://github.com/coder/coder/pull/7124,2023-04-13T16:42:20Z,2023-04-14T15:28:52Z,3,8,MERGED
+coder,fix(provisionerd): only heartbeat when logs aren't being flushed,https://github.com/coder/coder/pull/7110,2023-04-12T22:13:06Z,2023-04-13T19:02:11Z,1,3,MERGED
+coder,feat: differentiate new user registration from user login in the audit log,https://github.com/coder/coder/pull/7096,2023-04-11T21:56:19Z,2023-04-12T18:46:17Z,1,5,MERGED
+coder,refactor(site): Refactor the schedule controls in the workspace page,https://github.com/coder/coder/pull/7083,2023-04-11T13:13:56Z,2023-04-11T16:33:25Z,0,11,MERGED
+coder,refactor(site): Refactor workspace schedule page,https://github.com/coder/coder/pull/7069,2023-04-10T18:04:41Z,2023-04-11T16:27:52Z,3,12,MERGED
+coder,feat: add advanced schedule settings,https://github.com/coder/coder/pull/7061,2023-04-10T13:15:49Z,2023-04-12T17:47:49Z,4,4,MERGED
+coder,feat: support ansi colors in startup script logs,https://github.com/coder/coder/pull/7037,2023-04-06T17:20:43Z,2023-04-06T17:39:09Z,1,1,MERGED
+coder,fix: reduce idle workspace queries,https://github.com/coder/coder/pull/7022,2023-04-05T20:16:06Z,2023-04-06T01:58:55Z,1,2,MERGED
+coder,docs: rename quickstart to platforms + Kubernetes guide,https://github.com/coder/coder/pull/6972,2023-04-03T14:12:54Z,2023-04-03T14:51:08Z,1,2,MERGED
+coder,chore: Revert to only using 1 timezone support for template DAUs,https://github.com/coder/coder/pull/7721,2023-05-30T19:16:59Z,2023-05-30T19:37:07Z,0,2,MERGED
+coder,feat(licenses): show license_expires time as rfc3339 date,https://github.com/coder/coder/pull/7687,2023-05-25T21:02:10Z,2023-05-26T14:36:27Z,8,2,MERGED
+coder,refactor(site): Refactor build error warning,https://github.com/coder/coder/pull/7686,2023-05-25T18:39:25Z,2023-05-25T20:22:58Z,0,1,MERGED
+coder,feat: add expiration indicators to license card,https://github.com/coder/coder/pull/7684,2023-05-25T17:36:50Z,2023-05-25T18:37:51Z,0,2,MERGED
+coder,feat!: drop support for legacy parameters,https://github.com/coder/coder/pull/7663,2023-05-24T11:07:38Z,2023-06-02T09:16:46Z,20,47,MERGED
+coder,feat: add impending deletion banner to workspace page,https://github.com/coder/coder/pull/7634,2023-05-22T19:38:20Z,2023-05-25T17:55:42Z,5,5,MERGED
+coder,feat: add impending deletion indicators to the workspace page,https://github.com/coder/coder/pull/7588,2023-05-17T19:41:41Z,2023-05-18T18:08:56Z,5,9,MERGED
+coder,refactor(site): Refactor alerts,https://github.com/coder/coder/pull/7587,2023-05-17T18:42:38Z,2023-05-18T16:17:17Z,9,13,MERGED
+coder,refactor(site): Show update notification as snackbar,https://github.com/coder/coder/pull/7546,2023-05-16T17:21:25Z,2023-05-17T16:56:27Z,0,3,MERGED
+coder,feat: add workspaces banner for impending deletion,https://github.com/coder/coder/pull/7538,2023-05-15T21:05:54Z,2023-05-16T14:01:23Z,2,3,MERGED
+coder,feat(site): Show confirmation dialog on restart,https://github.com/coder/coder/pull/7531,2023-05-15T13:32:08Z,2023-05-15T17:43:52Z,3,4,MERGED
+coder,feat: add 'impending deletion' badges to workspaces page,https://github.com/coder/coder/pull/7530,2023-05-15T13:24:10Z,2023-05-15T14:59:17Z,3,8,MERGED
+coder,fix(site): Fix terminal elements size,https://github.com/coder/coder/pull/7527,2023-05-15T12:27:47Z,2023-05-15T13:48:41Z,1,1,MERGED
+coder,fix: add mui to vite exclude array,https://github.com/coder/coder/pull/7502,2023-05-11T19:03:13Z,2023-05-11T19:22:29Z,0,1,CLOSED
+coder,feat(site): Add template embed page,https://github.com/coder/coder/pull/7501,2023-05-11T18:04:57Z,2023-05-15T16:07:39Z,4,5,MERGED
+coder,feat: Workspace Proxy picker show latency to each proxy,https://github.com/coder/coder/pull/7486,2023-05-10T18:58:03Z,2023-05-11T20:42:31Z,6,23,MERGED
+coder,feat: Add template version warnings,https://github.com/coder/coder/pull/7483,2023-05-10T12:56:50Z,2023-05-12T09:21:50Z,1,15,MERGED
+coder,feat: update slog to use logfmt,https://github.com/coder/coder/pull/7477,2023-05-10T00:34:03Z,2023-05-14T20:23:13Z,0,9,MERGED
+coder,feat: add deleted_at field to workspace model,https://github.com/coder/coder/pull/7475,2023-05-09T22:13:29Z,2023-05-11T15:47:54Z,2,5,MERGED
+coder,chore: remove alpha label from max lifetime template schedule field,https://github.com/coder/coder/pull/7455,2023-05-08T18:52:01Z,2023-05-08T19:13:14Z,0,1,MERGED
+coder,feat: add workspace actions cleanup configuration flags to CLI template create and edit,https://github.com/coder/coder/pull/7453,2023-05-08T17:19:41Z,2023-05-10T19:57:11Z,1,4,MERGED
+coder,feat: make urls relative,https://github.com/coder/coder/pull/7434,2023-05-05T15:01:20Z,2023-05-21T00:11:02Z,6,1,CLOSED
+coder,refactor(site): Update workspace header,https://github.com/coder/coder/pull/7433,2023-05-05T14:03:58Z,2023-05-05T15:02:21Z,1,3,MERGED
+coder,chore: fix proxy 404 page,https://github.com/coder/coder/pull/7421,2023-05-04T18:51:00Z,2023-05-05T18:53:20Z,5,6,MERGED
+coder,feat(site): Show update confirmation dialog,https://github.com/coder/coder/pull/7420,2023-05-04T18:15:37Z,2023-05-04T18:40:41Z,1,1,MERGED
+coder,feat: add inactivity cleanup and failure cleanup configuration fields to Template Schedule Form,https://github.com/coder/coder/pull/7402,2023-05-04T00:27:47Z,2023-05-05T15:19:26Z,6,24,MERGED
+coder,chore: adjust the style and wording of the license page,https://github.com/coder/coder/pull/7396,2023-05-03T19:55:09Z,2023-05-14T20:31:55Z,1,2,MERGED
+coder,refactor(site): Show immutable parameters in the settings,https://github.com/coder/coder/pull/7383,2023-05-02T17:48:39Z,2023-05-03T17:40:48Z,0,5,MERGED
+coder,feat: Add documentation for workspace proxy creation,https://github.com/coder/coder/pull/7377,2023-05-02T15:51:28Z,2023-05-04T18:30:07Z,8,13,MERGED
+coder,chore: add workspace actions entitlement and experiment,https://github.com/coder/coder/pull/7361,2023-05-01T19:52:30Z,2023-05-03T18:34:43Z,0,2,MERGED
+coder,chore: 404 Requests to workspace proxy direct back to the primary,https://github.com/coder/coder/pull/7353,2023-05-01T16:36:32Z,2023-05-01T18:58:36Z,0,2,MERGED
+coder,feat: enable Terraform debug mode via deployment configuration,https://github.com/coder/coder/pull/8260,2023-06-29T07:52:04Z,2023-06-29T13:22:21Z,9,12,MERGED
+coder,feat: move proxy settings page to deployment options,https://github.com/coder/coder/pull/8246,2023-06-28T13:17:56Z,2023-06-30T15:32:35Z,11,30,MERGED
+coder,feat: show queue position of pending workspace build,https://github.com/coder/coder/pull/8244,2023-06-28T11:38:41Z,2023-06-28T12:48:59Z,5,4,MERGED
+coder,feat: add github device flow for authentication,https://github.com/coder/coder/pull/8232,2023-06-27T15:54:44Z,2023-06-29T18:58:01Z,3,17,MERGED
+coder,feat(site): add change OIDC UI,https://github.com/coder/coder/pull/8182,2023-06-23T15:05:23Z,2023-06-28T16:26:58Z,2,10,MERGED
+coder,feat: add agent log streaming and follow provisioner format,https://github.com/coder/coder/pull/8170,2023-06-22T19:56:23Z,2023-06-28T08:54:14Z,4,11,MERGED
+coder,fix(site): show error when parameter is invalid,https://github.com/coder/coder/pull/8125,2023-06-21T14:22:00Z,2023-06-21T14:39:28Z,0,2,MERGED
+coder,feat: add ability for users to convert their password login type to oauth/github login,https://github.com/coder/coder/pull/8105,2023-06-20T14:47:08Z,2023-06-30T12:38:49Z,27,64,MERGED
+coder,fix: avoid missed logs when streaming startup logs,https://github.com/coder/coder/pull/8029,2023-06-14T15:39:01Z,2023-06-16T14:14:22Z,6,12,MERGED
+coder,feat(site): add documentation links to webterminal notifications,https://github.com/coder/coder/pull/8019,2023-06-13T21:56:18Z,2023-06-14T00:27:40Z,2,2,MERGED
+coder,feat(cli): add `coder stat` command,https://github.com/coder/coder/pull/8005,2023-06-13T16:34:56Z,2023-06-20T09:16:57Z,33,48,MERGED
+coder,feat: add disabling of default 'everyone' group access to template,https://github.com/coder/coder/pull/7982,2023-06-12T18:17:15Z,2023-06-14T16:08:59Z,4,16,MERGED
+coder,fix(site): format numbers in pagination text,https://github.com/coder/coder/pull/7900,2023-06-07T14:55:38Z,2023-06-07T15:25:04Z,0,1,MERGED
+coder,fix: improve filter on smaller screens,https://github.com/coder/coder/pull/7899,2023-06-07T14:45:20Z,2023-06-07T15:01:50Z,0,1,MERGED
+coder,fix: validate that parameter names are unique,https://github.com/coder/coder/pull/7882,2023-06-06T21:23:21Z,2023-06-07T17:44:51Z,0,1,MERGED
+coder,fix: respect uppercase letters in username filter for audit,https://github.com/coder/coder/pull/7880,2023-06-06T19:21:28Z,2023-06-07T12:48:09Z,0,2,MERGED
+coder,fix: ignore case while sorting usernames,https://github.com/coder/coder/pull/7870,2023-06-06T08:57:03Z,2023-06-06T10:37:42Z,1,1,MERGED
+coder,feat: add impending deletion filter to workspaces page,https://github.com/coder/coder/pull/7860,2023-06-05T21:44:16Z,2023-06-12T18:55:51Z,10,18,MERGED
+coder,refactor(site): give default error message when description is missing,https://github.com/coder/coder/pull/7846,2023-06-05T13:18:32Z,2023-06-05T20:43:25Z,1,5,MERGED
+coder,docs: clarify that resetting a user password must run on the coderd host,https://github.com/coder/coder/pull/7845,2023-06-05T12:52:01Z,2023-06-05T13:37:13Z,2,1,MERGED
+coder,feat: sort users by username,https://github.com/coder/coder/pull/7838,2023-06-05T11:11:05Z,2023-06-06T06:48:00Z,2,4,MERGED
+coder,feat(site): add new filter to the users page,https://github.com/coder/coder/pull/7818,2023-06-02T18:12:55Z,2023-06-06T12:59:16Z,3,7,MERGED
+coder,refactor(site): make vscode dropdown button thiner,https://github.com/coder/coder/pull/7773,2023-06-01T14:47:44Z,2023-06-01T16:17:57Z,0,1,MERGED
+coder,chore: add function to refetch latencies to ProxyContext,https://github.com/coder/coder/pull/7769,2023-06-01T13:02:59Z,2023-06-01T13:37:21Z,1,6,MERGED
+coder,ci: use a wildcard subdomain for PR deployments,https://github.com/coder/coder/pull/8801,2023-07-30T05:28:00Z,2023-08-01T11:02:43Z,6,27,MERGED
+coder,fix: fix coder stat mem,https://github.com/coder/coder/pull/8762,2023-07-27T04:44:00Z,2023-07-27T08:33:43Z,0,1,MERGED
+coder,chore(tailnet): rewrite coordinator debug using `html/template`,https://github.com/coder/coder/pull/8752,2023-07-26T22:34:29Z,2023-07-26T22:54:21Z,0,1,MERGED
+coder,feat!: drop reading other 'user' permission,https://github.com/coder/coder/pull/8650,2023-07-21T15:24:21Z,2023-07-26T14:33:48Z,1,16,MERGED
+coder,"feat: add ""dormant"" user state ",https://github.com/coder/coder/pull/8644,2023-07-21T11:49:50Z,2023-08-02T14:31:25Z,20,80,MERGED
+coder,feat: synchronize oidc user roles,https://github.com/coder/coder/pull/8595,2023-07-19T14:55:40Z,2023-07-24T12:34:24Z,3,22,MERGED
+coder,feat(cli): check if dotfiles install script is executable,https://github.com/coder/coder/pull/8588,2023-07-19T08:44:43Z,2023-07-21T18:39:51Z,20,15,MERGED
+coder,chore: add `template_with_user` view to include user contextual data,https://github.com/coder/coder/pull/8568,2023-07-17T19:19:20Z,2023-07-19T20:07:33Z,24,17,MERGED
+coder,feat(cli): show workspace health in show-command,https://github.com/coder/coder/pull/8548,2023-07-17T12:24:07Z,2023-07-18T08:28:47Z,0,1,MERGED
+coder,chore: add filebrowser to dogfood,https://github.com/coder/coder/pull/8535,2023-07-16T08:52:34Z,2023-07-18T14:04:01Z,5,9,MERGED
+coder,feat: add offline docs,https://github.com/coder/coder/pull/8527,2023-07-14T18:49:46Z,2023-07-19T16:57:58Z,14,13,MERGED
+coder,feat(site): add build parameters option when starting or restarting a workspace,https://github.com/coder/coder/pull/8524,2023-07-14T17:57:04Z,2023-07-18T17:53:26Z,13,15,MERGED
+coder,chore: upgrade sqlc to 1.19.1,https://github.com/coder/coder/pull/8511,2023-07-13T21:16:56Z,2023-07-15T06:07:19Z,3,7,MERGED
+coder,fix(site): log deletion of workspace in audit log,https://github.com/coder/coder/pull/8494,2023-07-13T12:30:13Z,2023-07-13T12:43:10Z,0,1,MERGED
+coder,chore: update pqtype in go.mod,https://github.com/coder/coder/pull/8491,2023-07-13T09:02:49Z,2023-07-13T21:35:11Z,4,9,CLOSED
+coder,ci(scripts): add support for `--force` in `release.sh`,https://github.com/coder/coder/pull/8469,2023-07-12T15:45:36Z,2023-07-12T16:31:14Z,0,1,MERGED
+coder,feat(site): display version message,https://github.com/coder/coder/pull/8435,2023-07-11T19:29:58Z,2023-07-13T13:36:11Z,6,14,MERGED
+coder,chore: change workspace proxy badge names,https://github.com/coder/coder/pull/8429,2023-07-11T16:47:24Z,2023-07-11T17:05:42Z,1,2,MERGED
+coder,feat(site): add warning for unhealthy workspace,https://github.com/coder/coder/pull/8422,2023-07-11T13:42:43Z,2023-07-12T13:27:26Z,1,3,MERGED
+coder,feat(cli): support ephemeral parameters,https://github.com/coder/coder/pull/8415,2023-07-11T10:51:26Z,2023-07-13T10:56:03Z,6,14,MERGED
+coder,feat(site): add workspace health badge to workspace list,https://github.com/coder/coder/pull/8387,2023-07-10T10:54:06Z,2023-07-10T15:21:49Z,7,1,CLOSED
+coder,feat: add cli first class validation,https://github.com/coder/coder/pull/8374,2023-07-07T14:41:52Z,2023-07-11T13:59:55Z,6,9,MERGED
+coder,fix(cli/clistat): improve handling of cgroups with no limits,https://github.com/coder/coder/pull/8373,2023-07-07T14:37:14Z,2023-07-07T14:49:37Z,0,1,MERGED
+coder,chore: touch ups to wsproxy UX,https://github.com/coder/coder/pull/8350,2023-07-06T18:31:03Z,2023-07-07T14:06:11Z,4,15,MERGED
+coder,chore: improve error message for incorrect login type,https://github.com/coder/coder/pull/8349,2023-07-06T18:06:48Z,2023-07-07T15:33:31Z,1,2,MERGED
+coder,feat: log out and redirect user when converting to oidc,https://github.com/coder/coder/pull/8347,2023-07-06T16:37:16Z,2023-07-10T14:25:42Z,0,3,MERGED
+coder,fix: hide OIDC and Github auth settings when they are disabled,https://github.com/coder/coder/pull/9447,2023-08-30T19:36:07Z,2023-08-30T21:56:18Z,0,3,MERGED
+coder,docs: add macOS installation page,https://github.com/coder/coder/pull/9443,2023-08-30T18:20:44Z,2023-08-30T20:37:51Z,6,6,MERGED
+coder,test(site): improve E2E framework,https://github.com/coder/coder/pull/9438,2023-08-30T14:35:21Z,2023-08-30T15:34:45Z,2,6,MERGED
+coder,fix: fix aws_linux template,https://github.com/coder/coder/pull/9349,2023-08-25T22:14:53Z,2023-08-31T01:24:10Z,2,2,MERGED
+coder,feat(site): improve template publishing flow,https://github.com/coder/coder/pull/9346,2023-08-25T21:05:45Z,2023-08-28T17:27:52Z,0,6,MERGED
+coder,refactor(site): improve the overall user table design,https://github.com/coder/coder/pull/9342,2023-08-25T16:57:48Z,2023-08-25T17:59:41Z,0,6,MERGED
+coder,fix(site): only show workspace actions if user has permission,https://github.com/coder/coder/pull/9303,2023-08-24T13:36:34Z,2023-08-24T14:28:59Z,3,1,MERGED
+coder,refactor(site): improve how string values are displayed,https://github.com/coder/coder/pull/9273,2023-08-23T14:03:53Z,2023-08-23T14:32:55Z,0,1,MERGED
+coder,ci: fix chocolatey manifest,https://github.com/coder/coder/pull/9267,2023-08-23T11:49:29Z,2023-12-16T13:14:14Z,16,10,CLOSED
+coder,feat(site): add descriptions for each auth method to the selection menu,https://github.com/coder/coder/pull/9252,2023-08-22T17:58:36Z,2023-08-23T14:58:49Z,2,7,MERGED
+coder,fix: add workspace_proxy type to auditlog friendly strings,https://github.com/coder/coder/pull/9194,2023-08-18T17:27:36Z,2023-08-21T15:53:41Z,0,7,MERGED
+coder,fix: make `displayName` primary in `ParameterLabel` component,https://github.com/coder/coder/pull/9158,2023-08-17T21:07:37Z,2023-08-18T01:07:58Z,2,2,MERGED
+coder,chore: update storybook build script,https://github.com/coder/coder/pull/9140,2023-08-16T20:47:01Z,2023-08-17T12:58:52Z,2,1,MERGED
+coder,refactor(site): use bar chart for DAUs,https://github.com/coder/coder/pull/9127,2023-08-16T13:26:37Z,2023-08-16T13:59:15Z,0,2,MERGED
+coder,feat: allow configuring display apps from template,https://github.com/coder/coder/pull/9100,2023-08-15T02:11:31Z,2023-08-30T19:53:42Z,8,7,MERGED
+coder,docs: add missing `last_seen_before` and `last_seen_after` search parameter,https://github.com/coder/coder/pull/9096,2023-08-15T00:37:23Z,2023-08-16T23:20:04Z,2,1,MERGED
+coder,chore: add oidc sequence diagram image to docs,https://github.com/coder/coder/pull/9089,2023-08-14T15:39:56Z,2023-08-14T22:35:44Z,5,3,MERGED
+coder,chore: sort DERP regions by latencies on workspace page,https://github.com/coder/coder/pull/9063,2023-08-12T14:31:43Z,2023-08-13T15:52:15Z,1,2,MERGED
+coder,chore: reword some workspace actions stuff,https://github.com/coder/coder/pull/9061,2023-08-12T00:36:36Z,2023-08-14T19:04:05Z,2,2,MERGED
+coder,feat(site): add tooltip showing the error in the failure badge,https://github.com/coder/coder/pull/9029,2023-08-10T18:14:33Z,2023-08-10T18:23:31Z,0,1,MERGED
+coder,refactor(site): add minor improvements to the port button,https://github.com/coder/coder/pull/9028,2023-08-10T17:35:38Z,2023-08-10T17:47:57Z,0,1,MERGED
+coder,feat: add example template using rich parameters,https://github.com/coder/coder/pull/9020,2023-08-10T13:51:52Z,2023-08-10T14:36:18Z,0,2,MERGED
+coder,feat: allow creating manual oidc/github based users,https://github.com/coder/coder/pull/9000,2023-08-09T14:57:28Z,2023-08-11T01:04:35Z,3,15,MERGED
+coder,chore: show basic experiment set value,https://github.com/coder/coder/pull/8984,2023-08-08T18:53:25Z,2023-08-08T20:33:09Z,1,1,MERGED
+coder,feat: add 'derp only' text to proxy list in dashboard,https://github.com/coder/coder/pull/8932,2023-08-07T06:03:52Z,2023-08-07T15:52:06Z,0,1,MERGED
+coder,perf(coderd/util/slice): refactor unique method for large lists,https://github.com/coder/coder/pull/8925,2023-08-06T12:21:49Z,2023-08-08T15:02:53Z,2,1,MERGED
+coder,fix(site): prevent OOM when building,https://github.com/coder/coder/pull/8920,2023-08-05T21:05:14Z,2023-08-07T13:53:54Z,2,2,CLOSED
+coder,docs: fix broken templates_init table,https://github.com/coder/coder/pull/8915,2023-08-04T18:54:47Z,2023-08-05T17:46:51Z,5,1,CLOSED
+coder,feat: add login type to users page,https://github.com/coder/coder/pull/8912,2023-08-04T16:32:01Z,2023-08-07T14:34:40Z,2,1,MERGED
+coder,feat(site): add parameters usage to insights,https://github.com/coder/coder/pull/8886,2023-08-03T18:30:53Z,2023-08-08T16:09:32Z,13,10,MERGED
+coder,refactor(site): refactor the ports button design,https://github.com/coder/coder/pull/8879,2023-08-03T14:48:54Z,2023-08-04T14:55:34Z,17,8,MERGED
+coder,feat(site): add health warning and a health monitor page,https://github.com/coder/coder/pull/8844,2023-08-01T16:55:50Z,2023-08-02T17:49:24Z,17,20,MERGED
+coder,feat(site): add white coder icon,https://github.com/coder/coder/pull/9955,2023-09-29T20:06:42Z,2023-09-29T20:25:44Z,0,3,MERGED
+coder,chore: change cli error message handling,https://github.com/coder/coder/pull/9952,2023-09-29T19:24:30Z,2023-09-29T21:50:23Z,2,9,MERGED
+coder,chore: use emotion for styling (pt. 2),https://github.com/coder/coder/pull/9951,2023-09-29T19:09:33Z,2023-10-02T16:48:12Z,2,19,MERGED
+coder,chore: color `value_source` for deployment values,https://github.com/coder/coder/pull/9922,2023-09-28T21:25:08Z,2023-09-29T17:04:28Z,10,21,MERGED
+coder,chore: show yaml option in deployment page,https://github.com/coder/coder/pull/9912,2023-09-28T19:57:55Z,2023-09-28T20:10:07Z,1,1,MERGED
+coder,refactor: start using emotion for styling,https://github.com/coder/coder/pull/9909,2023-09-28T18:48:21Z,2023-09-29T19:08:17Z,2,17,MERGED
+coder,feat(site): use custom application name,https://github.com/coder/coder/pull/9902,2023-09-28T13:40:24Z,2023-09-28T16:23:28Z,3,4,MERGED
+coder,fix(coderd/insights_internal_test.go): remove troublesome test case,https://github.com/coder/coder/pull/9874,2023-09-26T10:00:37Z,2023-09-26T10:33:22Z,1,1,MERGED
+coder,chore(site): make name bold in delete dialog,https://github.com/coder/coder/pull/9839,2023-09-24T00:26:07Z,2023-10-02T10:57:21Z,4,7,MERGED
+coder,fix: give more room to lonely resource metadata items,https://github.com/coder/coder/pull/9832,2023-09-22T21:01:18Z,2023-09-25T15:40:52Z,4,5,MERGED
+coder,chore: add alpha badges to workspace cleanup fields,https://github.com/coder/coder/pull/9802,2023-09-20T21:33:17Z,2023-09-22T15:41:18Z,0,3,MERGED
+coder,chore: display warnings on app share failure,https://github.com/coder/coder/pull/9783,2023-09-19T17:25:21Z,2023-09-19T21:54:51Z,6,6,MERGED
+coder,refactor: use a line graph for `DAUChart`,https://github.com/coder/coder/pull/9758,2023-09-18T18:05:07Z,2023-09-18T18:28:30Z,0,1,MERGED
+coder,feat(site): show CLI flags and env variables for the options,https://github.com/coder/coder/pull/9757,2023-09-18T17:59:25Z,2023-09-19T12:34:04Z,1,4,MERGED
+coder,docs: document `display_apps` feature to hide/show built-in `coder_app` resources,https://github.com/coder/coder/pull/9714,2023-09-16T22:00:17Z,2023-09-17T15:13:57Z,2,4,MERGED
+coder,feat: show version messages in version lists,https://github.com/coder/coder/pull/9708,2023-09-15T21:06:45Z,2023-09-18T17:17:07Z,2,4,MERGED
+coder,feat: show update messages on workspace page,https://github.com/coder/coder/pull/9705,2023-09-15T18:22:38Z,2023-09-15T19:09:29Z,5,4,MERGED
+coder,chore: add debug information to wsproxy errors,https://github.com/coder/coder/pull/9683,2023-09-14T15:17:03Z,2023-09-20T15:05:14Z,1,2,MERGED
+coder,feat: add quiet hours settings page,https://github.com/coder/coder/pull/9676,2023-09-13T19:30:33Z,2023-09-15T17:14:34Z,11,19,MERGED
+coder,feat(scaletest): add scaletest-runner template,https://github.com/coder/coder/pull/9662,2023-09-13T13:03:39Z,2023-09-15T13:23:37Z,16,36,MERGED
+coder,refactor(site): update versions table design,https://github.com/coder/coder/pull/9540,2023-09-06T00:16:22Z,2023-09-06T14:31:08Z,0,2,MERGED
+coder,chore: use emotion for styling (pt. 8),https://github.com/coder/coder/pull/10447,2023-10-31T18:54:22Z,2023-11-01T18:43:42Z,1,23,MERGED
+coder,chore(site): add remote playwright support and script,https://github.com/coder/coder/pull/10445,2023-10-31T14:44:12Z,2023-11-09T11:26:27Z,8,6,MERGED
+coder,chore: use emotion for styling (pt. 7),https://github.com/coder/coder/pull/10431,2023-10-30T17:26:07Z,2023-11-01T15:28:27Z,0,27,MERGED
+coder,fix: prevent infinite redirect oauth auth flow,https://github.com/coder/coder/pull/10430,2023-10-30T16:22:17Z,2023-10-30T19:45:07Z,2,4,MERGED
+coder,fix(agent/agentscripts): display informative error for ErrWaitDelay,https://github.com/coder/coder/pull/10407,2023-10-27T12:00:48Z,2023-10-27T16:07:26Z,2,3,MERGED
+coder,feat: add frontend support for enabling automatic workspace updates,https://github.com/coder/coder/pull/10375,2023-10-21T22:21:10Z,2023-10-31T22:06:36Z,10,11,MERGED
+coder,feat(cli): prompt for misspelled parameter names,https://github.com/coder/coder/pull/10350,2023-10-19T16:08:23Z,2023-11-06T13:44:39Z,2,6,MERGED
+coder,fix: resolve User is not unauthenticated error seen on logout,https://github.com/coder/coder/pull/10349,2023-10-19T15:52:48Z,2023-10-19T18:50:53Z,3,3,MERGED
+coder,feat: add frontend support for mandating active template version,https://github.com/coder/coder/pull/10338,2023-10-19T01:36:21Z,2023-10-19T23:21:53Z,1,3,MERGED
+coder,fix: show dormant and suspended users in groups,https://github.com/coder/coder/pull/10333,2023-10-18T19:06:08Z,2023-10-20T15:36:00Z,6,4,MERGED
+coder,refactor: improve e2e test reporting,https://github.com/coder/coder/pull/10304,2023-10-16T18:15:35Z,2023-10-17T22:11:42Z,6,9,MERGED
+coder,refactor(site): refactor create workspace button,https://github.com/coder/coder/pull/10303,2023-10-16T18:14:13Z,2023-10-17T16:31:52Z,5,1,MERGED
+coder,chore: use emotion for styling (pt. 6),https://github.com/coder/coder/pull/10298,2023-10-16T16:58:45Z,2023-10-17T15:14:13Z,0,5,MERGED
+coder,fix(site): display empty component when workspace has no parameters,https://github.com/coder/coder/pull/10286,2023-10-16T12:42:24Z,2023-10-16T12:49:53Z,0,1,MERGED
+coder,feat: add all safe experiments to the deployment page,https://github.com/coder/coder/pull/10276,2023-10-15T22:03:11Z,2023-10-17T18:49:20Z,11,15,MERGED
+coder,feat: add UI for autostart workspace days,https://github.com/coder/coder/pull/10263,2023-10-13T20:12:12Z,2023-10-16T14:29:43Z,0,8,MERGED
+coder,chore: use emotion for styling (pt. 5),https://github.com/coder/coder/pull/10261,2023-10-13T17:30:33Z,2023-10-16T18:41:15Z,2,37,MERGED
+coder,docs: mention /icons in the template documentation,https://github.com/coder/coder/pull/10230,2023-10-11T22:18:39Z,2023-10-12T21:32:24Z,2,6,MERGED
+coder,fix(site): ensure empty string error shows default message,https://github.com/coder/coder/pull/10196,2023-10-10T21:14:02Z,2023-10-11T17:54:58Z,9,5,MERGED
+coder,fix: display health alert in `DeploymentBannerView`,https://github.com/coder/coder/pull/10193,2023-10-10T20:30:57Z,2023-10-13T16:39:20Z,8,9,MERGED
+coder,feat: archive template versions to hide them from the ui,https://github.com/coder/coder/pull/10179,2023-10-10T15:11:41Z,2023-10-11T14:26:23Z,9,17,MERGED
+coder,chore: use emotion for styling (pt. 4),https://github.com/coder/coder/pull/10149,2023-10-09T21:15:34Z,2023-10-10T16:46:45Z,0,25,MERGED
+coder,chore: reorganize storybook,https://github.com/coder/coder/pull/10144,2023-10-09T18:21:19Z,2023-10-09T19:26:38Z,2,2,MERGED
+coder,chore: add icons for popular programming languages,https://github.com/coder/coder/pull/10141,2023-10-09T17:08:18Z,2023-10-09T19:52:07Z,0,2,MERGED
+coder,feat: select icons from emoji picker,https://github.com/coder/coder/pull/10119,2023-10-06T23:12:58Z,2023-10-09T15:50:24Z,0,2,MERGED
+coder,feat(site): disable rich parameters when using open in coder,https://github.com/coder/coder/pull/10114,2023-10-06T19:25:35Z,2023-10-09T13:47:22Z,0,4,MERGED
+coder,feat: show user limit on active users chart,https://github.com/coder/coder/pull/10101,2023-10-06T10:10:37Z,2023-10-09T11:38:41Z,1,7,MERGED
+coder,feat: add /icons page,https://github.com/coder/coder/pull/10093,2023-10-05T23:02:46Z,2023-10-09T15:49:26Z,0,2,MERGED
+coder,feat: archive template versions to hide them from the ui,https://github.com/coder/coder/pull/10086,2023-10-05T20:56:34Z,2023-10-10T15:16:42Z,4,40,CLOSED
+coder,feat: make the dashboard darker,https://github.com/coder/coder/pull/10084,2023-10-05T20:39:16Z,2023-10-05T21:46:39Z,5,5,MERGED
+coder,feat: show descriptions for parameter options,https://github.com/coder/coder/pull/10068,2023-10-04T22:55:25Z,2023-10-05T19:14:29Z,0,9,MERGED
+coder,fix: change alpha badge color to violet,https://github.com/coder/coder/pull/10029,2023-10-03T23:09:43Z,2023-10-04T20:20:13Z,7,2,MERGED
+coder,chore: use emotion for styling (pt. 3),https://github.com/coder/coder/pull/10026,2023-10-03T20:48:47Z,2023-10-05T16:49:44Z,0,16,MERGED
+coder,feat: warn users when renaming workspaces,https://github.com/coder/coder/pull/10023,2023-10-03T18:53:08Z,2023-10-03T21:04:35Z,1,2,MERGED
+coder,fix(site): disable auto fields when they are disabled in the template settings,https://github.com/coder/coder/pull/10022,2023-10-03T17:21:42Z,2023-10-04T18:00:09Z,5,4,MERGED
+coder,feat: allow external services to be authable,https://github.com/coder/coder/pull/9996,2023-10-02T15:08:11Z,2023-10-03T14:04:40Z,5,21,MERGED
+coder,"revert: ""chore: bump remark-gfm from 3.0.1 to 4.0.0 in /site (#9965)""",https://github.com/coder/coder/pull/9981,2023-10-02T07:32:55Z,2023-10-02T07:56:36Z,0,1,MERGED
+coder,fix: handle 404 on unknown top level routes,https://github.com/coder/coder/pull/10964,2023-11-30T21:46:06Z,2023-12-01T17:35:44Z,0,4,MERGED
+coder,refactor(site): improve health check page sidebar,https://github.com/coder/coder/pull/10960,2023-11-30T18:23:30Z,2023-12-01T15:43:51Z,2,3,MERGED
+coder,feat: add deletion scheduled column for dormant workspaces table,https://github.com/coder/coder/pull/10933,2023-11-29T01:22:08Z,2023-12-10T00:11:44Z,0,2,CLOSED
+coder,feat: disable start/restart if active version required,https://github.com/coder/coder/pull/10809,2023-11-21T00:14:06Z,2023-11-22T00:06:30Z,4,4,MERGED
+coder,refactor(site): refactor login screen,https://github.com/coder/coder/pull/10768,2023-11-17T18:10:02Z,2023-11-20T14:19:50Z,5,2,MERGED
+coder,fix: clarify language in orphan section of delete modal,https://github.com/coder/coder/pull/10764,2023-11-17T16:23:08Z,2023-11-20T20:04:51Z,6,5,MERGED
+coder,refactor(site): add minor tweaks to the workspace delete dialog,https://github.com/coder/coder/pull/10758,2023-11-17T14:32:33Z,2023-11-17T15:01:57Z,0,2,MERGED
+coder,feat: implement deprecated flag for templates to prevent new workspaces,https://github.com/coder/coder/pull/10745,2023-11-16T22:50:43Z,2023-11-20T19:16:18Z,12,16,MERGED
+coder,fix: display explicit 'retry' button(s) when a workspace fails,https://github.com/coder/coder/pull/10720,2023-11-15T21:51:58Z,2023-11-22T21:03:09Z,8,16,MERGED
+coder,feat(site): add refresh button on health page,https://github.com/coder/coder/pull/10719,2023-11-15T17:45:39Z,2023-11-17T15:26:25Z,1,5,MERGED
+coder,feat: do not fail DERP healthcheck if WebSocket is used,https://github.com/coder/coder/pull/10714,2023-11-15T14:08:58Z,2023-11-17T15:00:50Z,1,12,MERGED
+coder,fix: disable autoupdate workspace setting when template setting enabled,https://github.com/coder/coder/pull/10662,2023-11-13T23:59:51Z,2023-11-15T22:58:55Z,0,2,MERGED
+coder,feat: show health check warnings,https://github.com/coder/coder/pull/10620,2023-11-10T11:19:10Z,2023-11-15T12:47:07Z,8,13,CLOSED
+coder,fix: remove accidental scrollbar from deployment banner,https://github.com/coder/coder/pull/10616,2023-11-09T20:35:13Z,2023-11-09T20:52:24Z,1,3,MERGED
+coder,fix: add missing focus state styling to buttons and checkboxes,https://github.com/coder/coder/pull/10614,2023-11-09T19:12:48Z,2023-11-13T13:08:18Z,2,4,MERGED
+coder,feat: parse resource metadata values as markdown,https://github.com/coder/coder/pull/10521,2023-11-03T20:49:00Z,2023-11-07T17:34:25Z,3,11,MERGED
+coder,refactor(site): add minor design improvements on the setup page,https://github.com/coder/coder/pull/10511,2023-11-03T14:06:23Z,2023-11-03T16:53:12Z,0,2,MERGED
+coder,refactor(site): improve first workspace creation time,https://github.com/coder/coder/pull/10510,2023-11-03T13:19:46Z,2023-11-03T14:03:22Z,0,2,MERGED
+coder,feat: add frontend warning when autostart disabled due to automatic updates,https://github.com/coder/coder/pull/10508,2023-11-03T04:45:16Z,2023-11-09T23:01:13Z,4,2,MERGED
+coder,refactor(site): simplify proxy menu,https://github.com/coder/coder/pull/10496,2023-11-02T16:54:18Z,2023-11-02T19:39:47Z,0,1,MERGED
+coder,refactor(site): make minor design tweaks and fix issues on more options menus,https://github.com/coder/coder/pull/10493,2023-11-02T13:32:10Z,2023-11-03T00:32:04Z,1,13,MERGED
+coder,chore: use emotion for styling (pt. 9),https://github.com/coder/coder/pull/10474,2023-11-01T17:00:29Z,2023-11-02T17:51:23Z,0,28,MERGED
+coder,feat: add observability configuration values to deployment page ,https://github.com/coder/coder/pull/10471,2023-11-01T14:38:11Z,2023-11-01T20:56:02Z,0,3,MERGED
+coder,feat(site): refactor workspace header to be more slim,https://github.com/coder/coder/pull/11327,2023-12-22T13:37:42Z,2024-01-02T15:42:51Z,2,21,MERGED
+coder,feat: add light theme,https://github.com/coder/coder/pull/11266,2023-12-18T16:47:01Z,2023-12-20T00:03:01Z,7,21,MERGED
+coder,docs: add guides section,https://github.com/coder/coder/pull/11199,2023-12-14T03:31:04Z,2023-12-15T17:10:42Z,1,7,MERGED
+coder,"feat!: move workspace renames behind flag, disable by default",https://github.com/coder/coder/pull/11189,2023-12-13T14:37:08Z,2023-12-15T18:38:47Z,22,24,MERGED
+coder,feat: add a theme picker,https://github.com/coder/coder/pull/11140,2023-12-11T23:15:14Z,2023-12-14T17:38:45Z,9,21,MERGED
+coder,feat: add server flag to disable user custom quiet hours,https://github.com/coder/coder/pull/11124,2023-12-11T13:00:52Z,2023-12-15T09:33:51Z,0,2,MERGED
+coder,fix: prevent editing build parameters if template requires active version,https://github.com/coder/coder/pull/11117,2023-12-10T22:58:37Z,2023-12-11T22:54:17Z,2,6,MERGED
+coder,test(site/e2e): catch missing agent defaults in `fillResource`,https://github.com/coder/coder/pull/11105,2023-12-08T15:57:43Z,2023-12-23T11:52:28Z,2,6,MERGED
+coder,feat: add group allowlist for oidc,https://github.com/coder/coder/pull/11070,2023-12-06T18:53:18Z,2023-12-08T16:14:20Z,5,12,MERGED
+coder,refactor(site): improve minor queries and visuals on external auth,https://github.com/coder/coder/pull/11066,2023-12-06T16:42:14Z,2023-12-06T19:17:32Z,2,3,MERGED
+coder,chore(site): refactor pagination text,https://github.com/coder/coder/pull/11061,2023-12-06T13:44:51Z,2023-12-06T15:19:29Z,0,2,MERGED
+coder,feat: show dormant workspaces by default,https://github.com/coder/coder/pull/11053,2023-12-06T01:17:20Z,2023-12-08T00:09:35Z,7,8,MERGED
+coder,refactor(site): make pill colors more soft and change stopped status color,https://github.com/coder/coder/pull/11966,2024-01-31T20:33:40Z,2024-01-31T22:15:38Z,0,1,CLOSED
+coder,feat(site): change stopped status color,https://github.com/coder/coder/pull/11960,2024-01-31T16:15:24Z,2024-01-31T20:04:23Z,1,1,CLOSED
+coder,feat: add custom error message on signups disabled page,https://github.com/coder/coder/pull/11959,2024-01-31T15:25:09Z,2024-02-01T17:01:25Z,5,17,MERGED
+coder,feat(site): display xray scan result in the agent,https://github.com/coder/coder/pull/11955,2024-01-31T12:55:25Z,2024-01-31T22:16:01Z,0,3,MERGED
+coder,docs: simplify install docs,https://github.com/coder/coder/pull/11946,2024-01-30T22:20:16Z,2024-03-08T15:15:59Z,6,5,MERGED
+coder,feat: move agent v2 API connection monitoring to yamux layer,https://github.com/coder/coder/pull/11910,2024-01-30T08:05:27Z,2024-02-01T04:18:35Z,1,1,MERGED
+coder,refactor: redesign `Paywall` component,https://github.com/coder/coder/pull/11907,2024-01-29T23:26:28Z,2024-01-30T17:26:20Z,1,4,MERGED
+coder,fix: fix cliui prompt styling,https://github.com/coder/coder/pull/11899,2024-01-29T18:19:43Z,2024-01-29T20:56:43Z,0,1,MERGED
+coder,feat(site): display user avatar,https://github.com/coder/coder/pull/11893,2024-01-29T14:25:17Z,2024-01-30T17:07:06Z,5,9,MERGED
+coder,feat(site): show favorite workspaces in ui,https://github.com/coder/coder/pull/11875,2024-01-29T09:15:11Z,2024-01-29T13:39:31Z,5,9,MERGED
+coder,chore: instrument additional github api calls,https://github.com/coder/coder/pull/11824,2024-01-25T17:36:56Z,2024-01-26T00:34:47Z,0,3,MERGED
+coder,refactor(site): add minor workspace improvements,https://github.com/coder/coder/pull/11822,2024-01-25T16:16:57Z,2024-01-26T00:05:30Z,0,1,MERGED
+coder,fix(site): disable autostart and autostop according to template settings,https://github.com/coder/coder/pull/11809,2024-01-24T19:06:05Z,2024-01-26T14:06:01Z,5,5,MERGED
+coder,feat: create frontend for shared ports,https://github.com/coder/coder/pull/11805,2024-01-24T17:25:33Z,2024-02-13T15:04:53Z,2,82,CLOSED
+coder,refactor(site): improve parameters field,https://github.com/coder/coder/pull/11802,2024-01-24T16:13:08Z,2024-01-26T14:31:52Z,3,5,MERGED
+coder,refactor(site): verify external auth before display ws form,https://github.com/coder/coder/pull/11777,2024-01-23T18:39:05Z,2024-01-24T12:45:22Z,5,7,MERGED
+coder,refactor(site): simplify create workspace form,https://github.com/coder/coder/pull/11771,2024-01-23T13:25:42Z,2024-01-23T18:39:23Z,1,1,MERGED
+coder,fix: delegate path based forwarding to code-server,https://github.com/coder/coder/pull/11759,2024-01-22T20:27:06Z,2024-01-23T17:36:44Z,0,1,MERGED
+coder,refactor(site): refactor external auth component,https://github.com/coder/coder/pull/11758,2024-01-22T19:13:23Z,2024-01-23T15:26:13Z,3,3,MERGED
+coder,refactor(site): apply cosmetic changes and remove ExternalAuth from settings page,https://github.com/coder/coder/pull/11756,2024-01-22T17:24:59Z,2024-01-22T19:07:43Z,1,2,MERGED
+coder,feat: add user-level parameter autofill,https://github.com/coder/coder/pull/11731,2024-01-21T19:59:14Z,2024-01-30T22:02:21Z,34,24,MERGED
+coder,chore: add a story for `WorkspaceOutdatedTooltip`,https://github.com/coder/coder/pull/11695,2024-01-18T23:21:17Z,2024-01-19T18:41:18Z,1,2,MERGED
+coder,feat: change owner name using account form,https://github.com/coder/coder/pull/11683,2024-01-18T10:44:02Z,2024-01-18T11:32:02Z,0,2,MERGED
+coder,fix(site): fix search menu for creating workspace and templates filter,https://github.com/coder/coder/pull/11674,2024-01-17T17:26:14Z,2024-01-17T17:54:56Z,2,2,MERGED
+coder,fix: avoid returning 500 on apps when workspace stopped,https://github.com/coder/coder/pull/11656,2024-01-17T00:53:06Z,2024-01-17T18:07:00Z,0,2,MERGED
+coder,refactor(site): refactor resource and agents,https://github.com/coder/coder/pull/11647,2024-01-16T17:10:30Z,2024-01-19T12:06:34Z,15,28,MERGED
+coder,feat: support links with custom icons,https://github.com/coder/coder/pull/11629,2024-01-15T15:39:37Z,2024-01-15T15:56:01Z,0,2,MERGED
+coder,refactor(site): make cosmetic changes on agent logs,https://github.com/coder/coder/pull/11601,2024-01-12T19:55:59Z,2024-01-12T20:09:36Z,0,1,MERGED
+coder,feat: manage provisioner tags in template editor,https://github.com/coder/coder/pull/11600,2024-01-12T19:45:05Z,2024-01-18T22:35:20Z,17,11,MERGED
+coder,fix(site): fix workspace resource width on ultra wide screens,https://github.com/coder/coder/pull/11596,2024-01-12T19:02:28Z,2024-01-12T19:09:12Z,0,1,MERGED
+coder,feat: add customizable upgrade message on client/server version mismatch,https://github.com/coder/coder/pull/11587,2024-01-12T00:17:27Z,2024-01-30T23:11:38Z,6,19,MERGED
+coder,fix: improve wsproxy error when proxyurl is set to a primary,https://github.com/coder/coder/pull/11586,2024-01-11T22:52:10Z,2024-01-12T20:32:02Z,2,4,MERGED
+coder,chore: convert faq headers to dropdowns,https://github.com/coder/coder/pull/11585,2024-01-11T22:09:23Z,2024-01-12T18:49:42Z,0,3,MERGED
+coder,feat(site): add docs links on health page,https://github.com/coder/coder/pull/11582,2024-01-11T18:00:18Z,2024-01-11T20:32:25Z,2,2,MERGED
+coder,fix(site): improve rendering of provisioner tags,https://github.com/coder/coder/pull/11575,2024-01-11T13:55:52Z,2024-01-11T17:42:21Z,3,4,MERGED
+coder,feat: treat deprecation messages as markdown,https://github.com/coder/coder/pull/11562,2024-01-10T22:23:26Z,2024-01-11T21:15:30Z,0,1,MERGED
+coder,fix: show error when creating a new group fails,https://github.com/coder/coder/pull/11560,2024-01-10T22:06:25Z,2024-01-12T23:06:02Z,1,3,MERGED
+coder,fix: publish workspace update on quota failure,https://github.com/coder/coder/pull/11559,2024-01-10T21:58:12Z,2024-01-11T19:59:40Z,0,1,MERGED
+coder,fix(site): show wsproxy errors in context in WorkspaceProxyPage,https://github.com/coder/coder/pull/11556,2024-01-10T17:36:30Z,2024-01-11T10:47:03Z,3,3,MERGED
+coder,chore: allow running fake idp with coderd dev,https://github.com/coder/coder/pull/11555,2024-01-10T16:52:21Z,2024-01-11T18:10:57Z,2,6,MERGED
+coder,fix: remove cancel button if user cannot cancel job,https://github.com/coder/coder/pull/11553,2024-01-10T15:58:25Z,2024-01-11T18:48:45Z,1,6,MERGED
+coder,chore: update language about autostop on templates page,https://github.com/coder/coder/pull/11552,2024-01-10T15:56:04Z,2024-01-11T18:01:08Z,4,2,MERGED
+coder,chore(docs): remove provider logos from 1-click install,https://github.com/coder/coder/pull/11548,2024-01-10T13:21:04Z,2024-01-10T13:28:40Z,0,8,MERGED
+coder,feat: add additional fields to first time setup trial flow,https://github.com/coder/coder/pull/11533,2024-01-09T22:08:25Z,2024-01-17T00:19:16Z,3,2,MERGED
+coder,feat: display application name over sign in form,https://github.com/coder/coder/pull/11500,2024-01-08T18:04:56Z,2024-01-09T17:51:16Z,1,1,MERGED
+coder,feat(site): add healthcheck page for provisioner daemons,https://github.com/coder/coder/pull/11494,2024-01-08T15:17:30Z,2024-01-08T17:14:10Z,5,4,MERGED
+coder,refactor(site): improve settings option,https://github.com/coder/coder/pull/11489,2024-01-08T13:22:12Z,2024-01-08T16:16:16Z,2,2,MERGED
+coder,feat: allow users to select a provisioner based on tags,https://github.com/coder/coder/pull/11416,2024-01-04T19:09:43Z,2024-01-28T00:05:08Z,2,3,CLOSED
+coder,refactor(site): simplify workspace topbar,https://github.com/coder/coder/pull/11370,2024-01-02T17:51:56Z,2024-01-02T18:17:43Z,2,4,MERGED
+coder,fix(site): fix form layout for tablet viewports,https://github.com/coder/coder/pull/12369,2024-02-29T19:10:55Z,2024-02-29T19:24:06Z,0,1,MERGED
+coder,"fix: external auth device flow, check both queries for errors",https://github.com/coder/coder/pull/12367,2024-02-29T15:30:54Z,2024-02-29T19:00:16Z,1,6,MERGED
+coder,refactor: show parameter suggestions from user history below field,https://github.com/coder/coder/pull/12340,2024-02-28T00:22:36Z,2024-02-28T22:29:48Z,2,6,MERGED
+coder,chore(docs): fix quiet hours docs heading,https://github.com/coder/coder/pull/12338,2024-02-27T22:55:46Z,2024-02-29T20:50:01Z,0,1,MERGED
+coder,feat(site): display client errors in DERP Region health page,https://github.com/coder/coder/pull/12318,2024-02-27T13:35:19Z,2024-02-28T13:30:38Z,2,3,MERGED
+coder,feat: implement create org commands from cli,https://github.com/coder/coder/pull/12308,2024-02-26T18:23:05Z,2024-02-27T16:13:09Z,2,3,MERGED
+coder,feat: audit oauth2 app management,https://github.com/coder/coder/pull/12275,2024-02-22T21:29:34Z,2024-02-26T23:52:08Z,1,3,MERGED
+coder,feat(site): allow creating a workspace without connecting optional external auth providers,https://github.com/coder/coder/pull/12251,2024-02-21T18:44:09Z,2024-02-22T17:27:36Z,2,5,MERGED
+coder,fix(site): fix web terminal bottom overflow,https://github.com/coder/coder/pull/12228,2024-02-20T14:11:20Z,2024-02-21T14:02:53Z,3,1,MERGED
+coder,docs: fix header font,https://github.com/coder/coder/pull/12193,2024-02-16T13:29:03Z,2024-02-16T13:32:46Z,0,1,MERGED
+coder,chore: reimplement activity status and autostop improvements,https://github.com/coder/coder/pull/12175,2024-02-15T19:23:04Z,2024-02-27T18:06:27Z,5,3,MERGED
+coder,fix(site): ignore fileInfo if file is missing,https://github.com/coder/coder/pull/12154,2024-02-15T09:08:33Z,2024-02-15T09:15:23Z,0,1,MERGED
+coder,feat: support `order` property of `coder_agent`,https://github.com/coder/coder/pull/12121,2024-02-13T15:21:36Z,2024-02-15T12:33:13Z,0,19,MERGED
+coder,feat: add port sharing frontend,https://github.com/coder/coder/pull/12119,2024-02-13T15:04:20Z,2024-02-20T18:26:34Z,6,16,MERGED
+coder,feat: support `order` property of `coder_app` resource,https://github.com/coder/coder/pull/12077,2024-02-09T11:12:33Z,2024-02-12T14:11:31Z,3,16,MERGED
+coder,feat: add support for optional external auth providers,https://github.com/coder/coder/pull/12021,2024-02-05T17:47:55Z,2024-02-21T18:18:39Z,12,35,MERGED
+coder,feat: show workspace name suggestions below the name field,https://github.com/coder/coder/pull/12001,2024-02-02T20:03:51Z,2024-02-05T17:40:15Z,0,5,MERGED
+coder,feat(site): show deprecation message on template page,https://github.com/coder/coder/pull/11996,2024-02-02T13:58:22Z,2024-02-02T14:13:36Z,2,3,MERGED
+coder,feat: add activity status and autostop reason to workspace overview,https://github.com/coder/coder/pull/11987,2024-02-01T22:00:29Z,2024-02-13T17:50:17Z,5,17,MERGED
+coder,fix(site): fix text overflow on batch ws deletion,https://github.com/coder/coder/pull/11981,2024-02-01T16:50:08Z,2024-02-01T17:02:09Z,1,1,MERGED
+coder,refactor(site): add table chosmetic changes,https://github.com/coder/coder/pull/11977,2024-02-01T13:28:22Z,2024-02-01T13:41:15Z,1,1,MERGED
+coder,chore: add validation errors to the cli output,https://github.com/coder/coder/pull/12814,2024-03-28T19:56:01Z,2024-04-02T15:02:31Z,4,4,MERGED
+coder,chore(codersdk): move all tailscale imports out of `codersdk`,https://github.com/coder/coder/pull/12735,2024-03-24T21:53:01Z,2024-03-26T17:44:32Z,5,13,MERGED
+coder,feat: allow number options with monotonic validation,https://github.com/coder/coder/pull/12726,2024-03-22T14:49:05Z,2024-03-27T08:54:43Z,8,8,MERGED
+coder,chore: support multiple key:value search query params ,https://github.com/coder/coder/pull/12690,2024-03-20T17:07:19Z,2024-03-21T13:37:20Z,3,3,MERGED
+coder,feat(site): make listening ports scrollable,https://github.com/coder/coder/pull/12660,2024-03-19T13:14:12Z,2024-03-20T12:34:30Z,0,1,MERGED
+coder,fix(site): display not found page when pagination page is invalid,https://github.com/coder/coder/pull/12611,2024-03-15T14:30:16Z,2024-03-18T13:35:59Z,8,5,MERGED
+coder,feat(cli): show queue position during workspace builds,https://github.com/coder/coder/pull/12606,2024-03-15T12:51:11Z,2024-03-18T10:05:05Z,7,6,MERGED
+coder,fix: display tooltip when selection is disabled,https://github.com/coder/coder/pull/12439,2024-03-06T14:03:12Z,2024-03-07T15:43:25Z,2,5,MERGED
+coder,feat: add hide/show icon in cli access page/component,https://github.com/coder/coder/pull/12391,2024-03-02T16:29:15Z,2024-03-23T00:04:19Z,13,1,CLOSED
+coder,fix(site): retry and debug passing build parameters options,https://github.com/coder/coder/pull/12384,2024-03-01T17:53:02Z,2024-03-04T13:25:53Z,3,9,MERGED
+coder,feat: allow setting port share protocol,https://github.com/coder/coder/pull/12383,2024-03-01T15:08:02Z,2024-03-06T14:23:57Z,8,12,MERGED
+coder,chore: cover deadline crossing autostart border,https://github.com/coder/coder/pull/13115,2024-04-30T20:41:32Z,2024-05-01T15:43:04Z,3,5,MERGED
+coder,fix(site): fix template schedule update overriding other settings,https://github.com/coder/coder/pull/13114,2024-04-30T19:38:51Z,2024-05-01T13:25:40Z,1,4,MERGED
+coder,feat: add `deployment_id` to the ui and licenses,https://github.com/coder/coder/pull/13096,2024-04-29T16:21:32Z,2024-04-29T20:50:11Z,6,3,MERGED
+coder,feat: add support for multiple banners,https://github.com/coder/coder/pull/13081,2024-04-25T22:30:19Z,2024-05-08T21:40:43Z,4,7,MERGED
+coder,chore(docs): remove max_ttl docs,https://github.com/coder/coder/pull/13077,2024-04-25T17:38:27Z,2024-04-25T21:13:43Z,0,2,MERGED
+coder,chore(scripts): auto create autoversion PR from release script,https://github.com/coder/coder/pull/13074,2024-04-25T10:26:05Z,2024-04-26T09:53:22Z,7,6,MERGED
+coder,"feat: specify a custom ""terms of service"" link",https://github.com/coder/coder/pull/13068,2024-04-24T18:53:57Z,2024-04-25T22:36:51Z,5,9,MERGED
+coder,chore(scripts): add script to promote mainline to stable,https://github.com/coder/coder/pull/13054,2024-04-23T17:59:16Z,2024-04-24T19:59:22Z,10,4,MERGED
+coder,feat: show version on login page,https://github.com/coder/coder/pull/13033,2024-04-22T17:48:27Z,2024-04-23T17:18:57Z,3,6,MERGED
+coder,refactor(site): reorganize template schedule settings form,https://github.com/coder/coder/pull/13031,2024-04-22T17:03:28Z,2024-04-23T11:59:19Z,1,2,MERGED
+coder,chore: fix broken mainline link,https://github.com/coder/coder/pull/13015,2024-04-20T02:45:48Z,2024-04-22T15:57:59Z,3,5,MERGED
+coder,feat: add warning about use of old/removed/invalid experiments,https://github.com/coder/coder/pull/12962,2024-04-15T14:04:52Z,2024-04-17T14:59:31Z,14,14,MERGED
+coder,test(site): add e2e tests for experiments,https://github.com/coder/coder/pull/12940,2024-04-11T11:41:43Z,2024-04-12T08:42:27Z,1,20,MERGED
+coder,feat: add listening ports protocol selector,https://github.com/coder/coder/pull/12915,2024-04-09T15:20:02Z,2024-04-15T19:00:25Z,4,6,MERGED
+coder,fix(examples): copy /etc/skel on init in docker template,https://github.com/coder/coder/pull/12913,2024-04-09T11:35:43Z,2024-04-09T11:54:18Z,2,1,MERGED
+coder,chore: add date information to windows startup logs,https://github.com/coder/coder/pull/12905,2024-04-08T17:01:58Z,2024-04-10T14:41:06Z,0,1,MERGED
+coder,feat: add owner groups to workspace data,https://github.com/coder/coder/pull/12841,2024-04-01T20:45:46Z,2024-04-05T19:06:17Z,2,19,MERGED
+coder,chore: improve clarity and consistency of doc descriptions,https://github.com/coder/coder/pull/13420,2024-05-30T21:40:31Z,2024-06-10T00:05:05Z,3,1,CLOSED
+coder,feat(site): add deployment menu to navbar,https://github.com/coder/coder/pull/13401,2024-05-29T21:14:36Z,2024-06-03T21:05:49Z,2,7,MERGED
+coder,chore: add refresh token and error to user's external auth page ,https://github.com/coder/coder/pull/13380,2024-05-28T13:41:01Z,2024-05-28T19:07:22Z,2,7,MERGED
+coder,feat(site): show number of times coder_app is opened,https://github.com/coder/coder/pull/13335,2024-05-21T17:19:14Z,2024-05-21T19:04:41Z,0,2,MERGED
+coder,"feat(site): show ""update and start"" button when update is forced",https://github.com/coder/coder/pull/13334,2024-05-21T16:45:10Z,2024-05-21T19:29:55Z,4,3,MERGED
+coder,feat(site): add basic organization management ui,https://github.com/coder/coder/pull/13288,2024-05-15T20:03:07Z,2024-06-17T17:02:39Z,17,24,MERGED
+coder,"chore: remove rbac psuedo resources, add custom verbs",https://github.com/coder/coder/pull/13276,2024-05-14T20:17:47Z,2024-05-15T16:09:42Z,10,24,MERGED
+coder,feat(site): add an organization switcher to the user menu,https://github.com/coder/coder/pull/13269,2024-05-13T22:06:56Z,2024-05-15T19:14:34Z,3,7,MERGED
+coder,feat: add a popover paywall in appearance settings,https://github.com/coder/coder/pull/13217,2024-05-09T22:23:26Z,2024-05-10T17:21:22Z,0,1,MERGED
+coder,refactor(site): refactor the workspace settings form,https://github.com/coder/coder/pull/13198,2024-05-07T13:29:12Z,2024-05-08T16:12:49Z,2,3,MERGED
+coder,chore: remove codecov,https://github.com/coder/coder/pull/13124,2024-05-01T21:37:58Z,2024-05-01T21:47:25Z,0,2,MERGED
+coder,chore: allow terraform & echo built-in provisioners,https://github.com/coder/coder/pull/13121,2024-05-01T20:55:03Z,2024-05-03T15:14:26Z,6,17,MERGED
+coder,feat: move shared ports out of experiment,https://github.com/coder/coder/pull/13120,2024-05-01T20:21:15Z,2024-05-02T18:11:33Z,2,8,MERGED
+coder,chore: add command to render all existing cli prompts,https://github.com/coder/coder/pull/13689,2024-06-27T14:41:59Z,2024-06-27T15:20:15Z,1,1,MERGED
+coder,chore: audit organization member add/delete/edit,https://github.com/coder/coder/pull/13620,2024-06-20T21:53:20Z,2024-06-24T19:19:32Z,0,6,MERGED
+coder,feat: unify organization and deployment management settings,https://github.com/coder/coder/pull/13602,2024-06-18T21:41:07Z,2024-07-01T17:15:01Z,14,17,MERGED
+coder,refactor(site): hide select helper when only one proxy exists,https://github.com/coder/coder/pull/13496,2024-06-06T17:13:39Z,2024-06-06T18:17:43Z,0,3,MERGED
+coder,chore: implement audit log for custom role edits,https://github.com/coder/coder/pull/13494,2024-06-06T16:45:19Z,2024-06-07T19:11:57Z,1,6,MERGED
+coder,fix(site): show workspace start button when require active version is enabled,https://github.com/coder/coder/pull/13482,2024-06-05T21:35:57Z,2024-06-05T21:50:52Z,1,1,MERGED
+coder,feat(coderd): set full name from IDP name claim,https://github.com/coder/coder/pull/13468,2024-06-04T16:30:04Z,2024-06-06T12:37:09Z,1,11,MERGED
+coder,fix: correct swagger description for Insights API,https://github.com/coder/coder/pull/13442,2024-06-03T13:35:17Z,2024-06-03T13:48:31Z,1,1,MERGED
+coder,feat: add custom roles,https://github.com/coder/coder/pull/14069,2024-07-31T17:52:49Z,2024-08-09T01:05:20Z,19,28,MERGED
+coder,feat(site): allow selecting an organization when creating a template,https://github.com/coder/coder/pull/14061,2024-07-30T19:56:04Z,2024-08-02T00:04:21Z,7,65,MERGED
+coder,chore: fixup permission story with multi-org on the UI ,https://github.com/coder/coder/pull/14049,2024-07-30T01:36:15Z,2024-07-30T14:00:37Z,2,7,CLOSED
+coder,chore: embed audit log in deployment settings page,https://github.com/coder/coder/pull/14023,2024-07-26T00:22:36Z,2024-07-26T22:12:24Z,3,6,MERGED
+coder,feat: manage groups from deployment settings for single-org deployments,https://github.com/coder/coder/pull/14016,2024-07-25T18:31:07Z,2024-07-26T19:10:14Z,6,8,MERGED
+coder,fix: resolve text overflow issues for workspace empty state,https://github.com/coder/coder/pull/14015,2024-07-25T18:11:51Z,2024-07-25T18:19:58Z,0,1,MERGED
+coder,chore: indicate premium vs enterprise on license page,https://github.com/coder/coder/pull/14008,2024-07-25T00:01:03Z,2024-07-25T19:04:33Z,0,4,MERGED
+coder,feat(site): embed users page in management settings,https://github.com/coder/coder/pull/14006,2024-07-24T20:48:55Z,2024-07-25T16:50:07Z,3,6,MERGED
+coder,feat: add organizations filter to audit table,https://github.com/coder/coder/pull/13978,2024-07-23T00:02:24Z,2024-07-24T22:28:23Z,6,6,MERGED
+coder,feat(site): edit organization member roles,https://github.com/coder/coder/pull/13977,2024-07-22T21:47:20Z,2024-07-24T17:36:45Z,2,13,MERGED
+coder,chore: handle cases where users belong to no organizations,https://github.com/coder/coder/pull/13956,2024-07-19T21:25:45Z,2024-07-22T15:39:50Z,0,1,MERGED
+coder,revert: update pnpm to v9,https://github.com/coder/coder/pull/13946,2024-07-19T12:54:53Z,2024-07-22T07:39:35Z,7,1,CLOSED
+coder,feat: create and modify organization groups,https://github.com/coder/coder/pull/13887,2024-07-12T19:07:26Z,2024-07-22T15:47:14Z,9,14,MERGED
+coder,chore: create workspaces and templates for multiple orgs,https://github.com/coder/coder/pull/13866,2024-07-10T15:48:53Z,2024-07-12T20:47:28Z,1,11,MERGED
+coder,fix: remove license warning for customers,https://github.com/coder/coder/pull/13865,2024-07-10T14:50:01Z,2024-07-29T00:05:18Z,1,1,CLOSED
+coder,feat(site): display tooltip in bars for app usage chart,https://github.com/coder/coder/pull/13854,2024-07-09T16:28:18Z,2024-07-09T17:02:45Z,0,1,MERGED
+coder,fix(cli): prevent asynchronous print of version mismatch in config-ssh,https://github.com/coder/coder/pull/13845,2024-07-09T07:36:25Z,2024-07-09T11:32:08Z,1,2,MERGED
+coder,feat: added whomai cmd to coder cli,https://github.com/coder/coder/pull/13814,2024-07-08T14:00:44Z,2024-07-09T18:23:11Z,11,5,MERGED
+coder,feat: implement multi-org template gallery,https://github.com/coder/coder/pull/13784,2024-07-03T19:56:52Z,2024-07-19T14:33:08Z,10,25,MERGED
+coder,refactor(site): use a pie chart instead of linear chart for app usage,https://github.com/coder/coder/pull/13748,2024-07-01T18:26:58Z,2024-07-03T17:12:18Z,5,4,CLOSED
+coder,fix: use negative deadline to ensure timeout in `TestWebhook/timeout`,https://github.com/coder/coder/pull/14498,2024-08-30T14:13:11Z,2024-08-30T14:46:13Z,0,2,MERGED
+coder,fix: fix light mode styles for organization delete button,https://github.com/coder/coder/pull/14485,2024-08-29T21:26:19Z,2024-08-29T22:10:31Z,0,2,MERGED
+coder,chore: add more stories and use new groups query for user settings page,https://github.com/coder/coder/pull/14481,2024-08-29T17:45:05Z,2024-08-29T23:00:12Z,0,2,MERGED
+coder,feat: improve custom roles create/edit page,https://github.com/coder/coder/pull/14456,2024-08-27T16:28:14Z,2024-08-28T22:13:33Z,4,5,MERGED
+coder,chore: update secondary and disabled text colors,https://github.com/coder/coder/pull/14355,2024-08-19T18:21:22Z,2024-08-26T16:22:32Z,1,1,MERGED
+coder,feat: add resource-action pills to custom roles table,https://github.com/coder/coder/pull/14354,2024-08-19T18:02:52Z,2024-09-03T20:39:18Z,9,11,MERGED
+coder,chore: improve forbidden error on create workspace without permissions,https://github.com/coder/coder/pull/14347,2024-08-19T13:46:34Z,2024-08-19T18:28:27Z,0,1,MERGED
+coder,fix: re-add original create template context menu,https://github.com/coder/coder/pull/14326,2024-08-16T14:40:16Z,2024-08-16T21:16:13Z,2,4,MERGED
+coder,feat: add provisioning timings to understand slow build times,https://github.com/coder/coder/pull/14274,2024-08-15T12:56:28Z,2024-08-21T12:18:58Z,33,24,MERGED
+coder,feat: notify template owner on manual build failures,https://github.com/coder/coder/pull/14262,2024-08-13T18:52:56Z,2024-08-26T12:48:17Z,21,8,CLOSED
+coder,chore: update envbox template image,https://github.com/coder/coder/pull/14256,2024-08-13T06:45:13Z,2024-08-14T13:39:43Z,4,3,MERGED
+coder,feat: filter templates by organization,https://github.com/coder/coder/pull/14254,2024-08-12T23:22:05Z,2024-08-14T21:01:45Z,6,9,MERGED
+coder,feat: add template delete notification,https://github.com/coder/coder/pull/14250,2024-08-12T18:56:09Z,2024-08-14T17:22:43Z,13,13,MERGED
+coder,chore: rename 'Deployment' button to 'Administration',https://github.com/coder/coder/pull/14240,2024-08-12T14:35:04Z,2024-08-13T16:21:03Z,2,5,MERGED
+coder,feat: add delete custom role context menu button and modal,https://github.com/coder/coder/pull/14228,2024-08-09T19:19:32Z,2024-08-09T20:59:44Z,3,2,MERGED
+coder,feat: show organization information on templates page,https://github.com/coder/coder/pull/14224,2024-08-09T17:05:18Z,2024-08-12T15:15:13Z,1,3,MERGED
+coder,feat: show summary if unable to edit org,https://github.com/coder/coder/pull/14214,2024-08-07T22:09:28Z,2024-08-09T21:31:04Z,8,3,MERGED
+coder,refactor: refactor notification email templates,https://github.com/coder/coder/pull/14208,2024-08-07T17:09:44Z,2024-08-09T14:25:20Z,2,8,MERGED
+coder,feat(site): implement notification ui,https://github.com/coder/coder/pull/14175,2024-08-05T19:54:09Z,2024-08-09T16:43:09Z,32,34,MERGED
+coder,feat: show a warning when an organization has no provisioners,https://github.com/coder/coder/pull/14136,2024-08-02T20:22:54Z,2024-08-05T16:44:39Z,3,5,MERGED
+coder,fix: add additional styling to experimental org-scoped template gallery,https://github.com/coder/coder/pull/14104,2024-08-01T23:32:41Z,2024-08-02T17:34:55Z,7,7,CLOSED
+coder,feat: show user-auth provisioners,https://github.com/coder/coder/pull/14883,2024-09-30T17:33:48Z,2024-10-01T17:12:30Z,5,9,MERGED
+coder,feat: display legacy idp mappings in idp sync settings,https://github.com/coder/coder/pull/14866,2024-09-27T20:35:31Z,2024-09-27T20:57:24Z,1,2,MERGED
+coder,feat: display builtin roles alongside custom roles,https://github.com/coder/coder/pull/14843,2024-09-27T01:21:48Z,2024-09-27T18:07:57Z,1,3,MERGED
+coder,docs: enable Slack notifications,https://github.com/coder/coder/pull/14830,2024-09-26T14:30:59Z,2024-09-27T08:08:42Z,8,4,MERGED
+coder,fix: update presentation of beta badges for organizations UI,https://github.com/coder/coder/pull/14806,2024-09-25T19:12:17Z,2024-09-25T21:48:33Z,1,2,MERGED
+coder,chore: add paywall to provisioners page,https://github.com/coder/coder/pull/14803,2024-09-25T17:49:09Z,2024-09-25T22:54:49Z,2,6,MERGED
+coder,fix: show paywall and correctly display auto create groups for IDP sync,https://github.com/coder/coder/pull/14800,2024-09-25T15:40:01Z,2024-09-26T16:12:04Z,4,5,MERGED
+coder,docs: enable Microsoft Teams Notifications,https://github.com/coder/coder/pull/14781,2024-09-24T13:56:16Z,2024-09-24T15:18:02Z,1,3,MERGED
+coder,chore: improve `coder server` ux,https://github.com/coder/coder/pull/14761,2024-09-23T04:46:22Z,2024-09-24T03:16:37Z,5,1,MERGED
+coder,feat: integrate backend with idp sync page,https://github.com/coder/coder/pull/14755,2024-09-20T21:07:31Z,2024-09-24T02:07:47Z,22,13,MERGED
+coder,feat(site): add agent connection timings,https://github.com/coder/coder/pull/15276,2024-10-29T20:04:13Z,2024-11-01T16:29:00Z,22,20,MERGED
+coder,fix(site): update workspace timings to use theme colors,https://github.com/coder/coder/pull/15269,2024-10-29T12:38:02Z,2024-10-29T16:02:24Z,0,2,MERGED
+coder,feat: notify users on template deprecation,https://github.com/coder/coder/pull/15195,2024-10-23T12:32:29Z,2024-10-24T12:12:13Z,6,11,MERGED
+coder,fix: show audit logs for forgot password flow,https://github.com/coder/coder/pull/15181,2024-10-22T08:54:19Z,2024-10-22T12:47:30Z,1,7,MERGED
+coder,fix(site): fix validation server error on change password form,https://github.com/coder/coder/pull/15170,2024-10-21T16:08:00Z,2024-10-21T16:22:30Z,0,2,MERGED
+coder,chore: apply security best practices,https://github.com/coder/coder/pull/15097,2024-10-15T22:02:42Z,2024-10-16T13:48:09Z,1,2,CLOSED
+coder,feat: implement Premium features page using shadcn/ui and Tailwind,https://github.com/coder/coder/pull/15094,2024-10-15T17:39:28Z,2024-11-06T17:53:00Z,24,27,MERGED
+coder,chore: fix docs/admin links and upgrade notice,https://github.com/coder/coder/pull/15043,2024-10-11T16:38:57Z,2024-11-01T19:43:51Z,2,3,MERGED
+coder,chore: add OpenSSF badge,https://github.com/coder/coder/pull/15012,2024-10-07T12:11:44Z,2024-10-08T03:05:33Z,0,4,MERGED
+coder,"feat: implement api for ""forgot password?"" flow",https://github.com/coder/coder/pull/14915,2024-10-01T14:12:33Z,2024-10-04T10:53:25Z,50,25,MERGED
+coder,feat(site): add a provisioner warning to workspace builds,https://github.com/coder/coder/pull/15686,2024-11-29T15:38:39Z,2024-12-11T11:38:13Z,10,32,MERGED
+coder,feat: bypass built-in CORS handling for shared ports,https://github.com/coder/coder/pull/15684,2024-11-29T14:13:48Z,2024-12-10T00:06:20Z,0,3,CLOSED
+coder,feat(site): show license utilization in general settings,https://github.com/coder/coder/pull/15683,2024-11-29T09:20:22Z,2024-12-02T19:27:43Z,6,5,MERGED
+coder,feat(site): add numbers to SSHButton content for clarity,https://github.com/coder/coder/pull/15661,2024-11-26T10:24:39Z,2024-12-12T05:39:34Z,11,8,MERGED
+coder,docs: create a markdown code snippet file to make it easier for contributors,https://github.com/coder/coder/pull/15611,2024-11-20T20:58:34Z,2024-11-21T22:09:56Z,1,2,MERGED
+coder,chore: add deployment config option to append custom csp directives,https://github.com/coder/coder/pull/15596,2024-11-19T17:23:44Z,2024-11-21T17:53:53Z,4,6,MERGED
+coder,feat(site): warn on provisioner health during builds,https://github.com/coder/coder/pull/15589,2024-11-19T09:34:23Z,2024-11-28T14:58:33Z,27,18,MERGED
+coder,fix(site): remove hard-coded activity bump label,https://github.com/coder/coder/pull/15583,2024-11-19T04:03:39Z,2024-11-22T12:48:24Z,1,1,MERGED
+coder,feat: implement  CRUD UI for IDP organization sync settings,https://github.com/coder/coder/pull/15503,2024-11-13T20:30:44Z,2024-12-04T19:23:19Z,96,71,MERGED
+coder,fix: support windows specific zip mime type for template uploads,https://github.com/coder/coder/pull/15442,2024-11-08T06:53:17Z,2024-11-08T07:24:12Z,1,1,MERGED
+coder,feat: split management settings sidebar into deployment/organization sidebars,https://github.com/coder/coder/pull/15388,2024-11-05T22:29:33Z,2024-12-18T22:18:47Z,2,19,MERGED
+coder,fix(site): show error on duplicate template rename attempt,https://github.com/coder/coder/pull/15348,2024-11-04T05:48:06Z,2024-11-05T14:18:38Z,4,2,MERGED
+coder,fix(site): ensure Error Boundary catches render errors correctly,https://github.com/coder/coder/pull/15963,2024-12-26T22:52:28Z,2025-01-03T17:26:15Z,5,11,MERGED
+coder,chore: apply design changes to the admin settings menu dropdown,https://github.com/coder/coder/pull/15947,2024-12-20T17:45:14Z,2024-12-20T22:55:19Z,2,6,MERGED
+coder,feat: add redesigned organization settings sidebar,https://github.com/coder/coder/pull/15932,2024-12-18T21:51:47Z,2025-01-08T13:01:01Z,1,38,MERGED
+coder,chore: audit entries for all idp sync changes,https://github.com/coder/coder/pull/15919,2024-12-18T16:18:08Z,2025-01-02T21:02:04Z,1,5,MERGED
+coder,chore: record and raise problematic http protocols for each proxy,https://github.com/coder/coder/pull/15917,2024-12-18T13:49:41Z,2024-12-20T15:11:45Z,3,10,MERGED
+coder,feat: add breadcrumbs to admin settings pages,https://github.com/coder/coder/pull/15865,2024-12-13T21:39:22Z,2024-12-18T22:35:31Z,2,19,MERGED
+coder,feat: show warning dialog if user switches off assign default org,https://github.com/coder/coder/pull/15848,2024-12-12T15:54:56Z,2024-12-13T11:24:41Z,0,2,MERGED
+coder,fix(site): avoid constructing invalid apps url,https://github.com/coder/coder/pull/15711,2024-12-02T08:26:32Z,2024-12-02T08:45:38Z,1,1,MERGED
+coder,feat: orgs IDP sync - add combobox to select claim field value when sync field is set,https://github.com/coder/coder/pull/16335,2025-01-29T22:52:42Z,2025-02-05T13:40:07Z,4,9,MERGED
+coder,docs: add a screenshot of the admin settings to doc,https://github.com/coder/coder/pull/16333,2025-01-29T18:52:40Z,2025-01-30T04:39:00Z,0,1,MERGED
+coder,fix: fix UI bugs for orgs,https://github.com/coder/coder/pull/16302,2025-01-27T18:34:41Z,2025-01-28T20:47:05Z,0,4,MERGED
+coder,chore: add workspace reached resource threshold notification,https://github.com/coder/coder/pull/16250,2025-01-24T09:12:59Z,2025-02-04T19:25:18Z,9,10,MERGED
+coder,chore: notify on auto merged dependabot PRs,https://github.com/coder/coder/pull/16234,2025-01-22T18:47:51Z,2025-01-23T10:38:54Z,0,4,MERGED
+coder,fix: display error when a build fails on template editor,https://github.com/coder/coder/pull/16210,2025-01-21T13:02:41Z,2025-01-21T13:38:07Z,1,1,MERGED
+coder,chore: add cherry picks for v2.18.3,https://github.com/coder/coder/pull/16187,2025-01-18T01:58:25Z,2025-01-18T16:21:57Z,0,4,MERGED
+coder,chore: add cherry-picks for patch 2.17.4,https://github.com/coder/coder/pull/16186,2025-01-18T01:47:10Z,2025-01-18T16:21:45Z,0,3,MERGED
+coder,fix: add groups to deployment settings,https://github.com/coder/coder/pull/16185,2025-01-17T23:19:39Z,2025-01-18T00:46:28Z,0,3,MERGED
+coder,chore: improve CI reliability,https://github.com/coder/coder/pull/16169,2025-01-17T09:34:46Z,2025-01-20T07:06:34Z,9,9,MERGED
+coder,chore: improve announcement banner color picker,https://github.com/coder/coder/pull/16158,2025-01-15T23:30:32Z,2025-01-16T23:55:17Z,2,2,MERGED
+coder,fix: make announcement editor multiline,https://github.com/coder/coder/pull/16157,2025-01-15T21:28:58Z,2025-01-16T19:38:09Z,0,1,MERGED
+coder,refactor: update border-radius to match the new designs,https://github.com/coder/coder/pull/16147,2025-01-15T13:39:24Z,2025-01-16T19:58:14Z,2,1,CLOSED
+coder,refactor: set min width as 80px for buttons,https://github.com/coder/coder/pull/16145,2025-01-15T10:54:17Z,2025-01-15T13:03:01Z,0,1,MERGED
+coder,feat: improve metrics and UI for user engagement on the platform,https://github.com/coder/coder/pull/16134,2025-01-14T17:13:28Z,2025-01-17T15:37:54Z,8,18,MERGED
+coder,feat: add a page to showcase the local installation script,https://github.com/coder/coder/pull/16122,2025-01-13T18:35:02Z,2025-01-15T17:42:14Z,1,11,MERGED
+coder,feat: enable editing of IDP sync configuration for groups and roles in the UI,https://github.com/coder/coder/pull/16098,2025-01-12T19:05:44Z,2025-01-27T18:31:48Z,39,40,MERGED
+coder,fix: ensure active Deployment Page nav links are highlighted,https://github.com/coder/coder/pull/16092,2025-01-10T14:49:02Z,2025-01-10T14:58:42Z,1,1,MERGED
+coder,fix: adjust template row alignment when missing description,https://github.com/coder/coder/pull/16056,2025-01-07T12:32:10Z,2025-01-07T12:41:26Z,0,1,MERGED
+coder,chore: add spinner component,https://github.com/coder/coder/pull/16014,2025-01-02T17:39:58Z,2025-01-02T19:10:38Z,4,10,MERGED
+coder,feat: support session audit log,https://github.com/coder/coder/pull/16703,2025-02-25T19:31:08Z,2025-02-26T17:13:11Z,5,3,MERGED
+coder,fix: update create template button styling,https://github.com/coder/coder/pull/16701,2025-02-25T17:36:38Z,2025-02-25T18:03:10Z,0,1,MERGED
+coder,refactor: rollback provisioners page to its previous version,https://github.com/coder/coder/pull/16699,2025-02-25T16:48:36Z,2025-02-25T17:21:38Z,1,1,MERGED
+coder,fix: display banner when no matching templates found,https://github.com/coder/coder/pull/16696,2025-02-25T13:22:10Z,2025-02-25T13:30:50Z,0,1,MERGED
+coder,feat: implement WorkspaceCreationBan org role,https://github.com/coder/coder/pull/16686,2025-02-24T19:54:58Z,2025-02-27T11:23:19Z,5,11,MERGED
+coder,fix: hide app icon if not found,https://github.com/coder/coder/pull/16684,2025-02-24T16:10:41Z,2025-02-25T10:30:18Z,3,4,MERGED
+coder,fix: display notification on schedule update,https://github.com/coder/coder/pull/16672,2025-02-24T13:08:45Z,2025-02-24T13:27:16Z,0,2,MERGED
+coder,fix: ensure the web UI doesn't break when license telemetry required check fails,https://github.com/coder/coder/pull/16667,2025-02-23T19:30:31Z,2025-02-24T15:02:36Z,0,3,MERGED
+coder,chore: reduce prominence of Scratch starter and emphasize Docker in UI,https://github.com/coder/coder/pull/16665,2025-02-23T14:30:08Z,2025-02-24T19:59:22Z,0,1,MERGED
+coder,feat: show dialog with a redirect if permissions are required,https://github.com/coder/coder/pull/16661,2025-02-21T22:00:42Z,2025-02-21T22:43:33Z,1,2,MERGED
+coder,feat: add notifications troubleshooting tab,https://github.com/coder/coder/pull/16650,2025-02-21T11:45:30Z,2025-02-21T13:34:48Z,0,5,MERGED
+coder,feat(cli): add local and UTC time options to `ping` cmd,https://github.com/coder/coder/pull/16648,2025-02-21T07:53:47Z,2025-02-24T05:38:17Z,1,4,MERGED
+coder,fix: include a link and more useful error details for 403 response codes,https://github.com/coder/coder/pull/16644,2025-02-20T16:13:47Z,2025-02-21T21:26:07Z,4,8,MERGED
+coder,fix: change validation error for workspace name,https://github.com/coder/coder/pull/16643,2025-02-20T10:38:28Z,2025-02-20T13:34:31Z,0,2,MERGED
+coder,fix: select default org in template form if only one exists,https://github.com/coder/coder/pull/16639,2025-02-20T02:07:03Z,2025-03-10T15:56:09Z,2,10,MERGED
+coder,feat: implement sign up with GitHub for the first user,https://github.com/coder/coder/pull/16629,2025-02-19T18:42:28Z,2025-02-25T14:54:41Z,8,4,MERGED
+coder,fix: center proxy spinner,https://github.com/coder/coder/pull/16621,2025-02-19T15:11:29Z,2025-02-19T18:07:10Z,0,1,MERGED
+coder,chore: reduce log volume on server startup,https://github.com/coder/coder/pull/16608,2025-02-18T15:06:24Z,2025-02-20T15:33:14Z,10,7,MERGED
+coder,fix: add link to troubleshooting,https://github.com/coder/coder/pull/16592,2025-02-17T12:24:33Z,2025-02-17T13:00:51Z,1,1,MERGED
+coder,fix: sort orgs alphabetically in dropdown,https://github.com/coder/coder/pull/16583,2025-02-14T22:50:01Z,2025-02-19T15:20:15Z,0,8,MERGED
+coder,fix: switch engagement chart to linear,https://github.com/coder/coder/pull/16576,2025-02-14T13:05:10Z,2025-02-14T13:13:33Z,0,1,MERGED
+coder,fix: change resource icon colors in the delete modal based on the set theme,https://github.com/coder/coder/pull/16550,2025-02-13T00:04:07Z,2025-02-13T22:41:03Z,1,3,MERGED
+coder,fix: stop text from overflowing on delete org button,https://github.com/coder/coder/pull/16549,2025-02-12T22:04:56Z,2025-02-14T16:13:29Z,1,7,MERGED
+coder,fix: display error on deleted workspace build,https://github.com/coder/coder/pull/16536,2025-02-12T11:02:22Z,2025-02-12T15:43:06Z,0,1,MERGED
+coder,feat: display provisioner jobs and daemons for an organization,https://github.com/coder/coder/pull/16532,2025-02-11T20:02:46Z,2025-02-18T14:27:51Z,28,22,MERGED
+coder,feat(cli): display devcontainers in show command,https://github.com/coder/coder/pull/16515,2025-02-10T18:01:27Z,2025-02-11T09:20:55Z,0,2,MERGED
+coder,feat: show warning on unrecognized idp group and role mapping claims,https://github.com/coder/coder/pull/16485,2025-02-06T22:20:44Z,2025-02-07T18:41:22Z,0,25,MERGED
+coder,feat: show warning on unrecognized idp org mapping claims,https://github.com/coder/coder/pull/16478,2025-02-06T18:38:53Z,2025-02-06T23:45:03Z,5,15,MERGED
+coder,feat(cli): add display of open ports in coder show,https://github.com/coder/coder/pull/16464,2025-02-05T22:22:16Z,2025-02-10T13:25:35Z,1,2,MERGED
+coder,feat: add combobox for selecting claim field value for group/role idp sync,https://github.com/coder/coder/pull/16459,2025-02-05T20:51:37Z,2025-02-07T21:31:03Z,5,6,MERGED
+coder,chore: add Tooltip component,https://github.com/coder/coder/pull/16444,2025-02-05T13:45:50Z,2025-02-05T19:53:46Z,1,3,MERGED
+coder,chore: add overlay color for background behind dialogs,https://github.com/coder/coder/pull/16442,2025-02-05T12:27:00Z,2025-02-05T12:55:03Z,0,1,MERGED
+coder,fix: style table component to figma design,https://github.com/coder/coder/pull/16417,2025-02-04T12:42:42Z,2025-02-04T15:39:44Z,0,2,MERGED
+coder,chore: add Table component,https://github.com/coder/coder/pull/16410,2025-02-03T18:18:31Z,2025-02-03T23:24:47Z,3,5,MERGED
+coder,chore: warn user without permissions to view org members,https://github.com/coder/coder/pull/16721,2025-02-26T18:40:27Z,2025-02-26T22:03:23Z,1,1,MERGED
+coder,feat: include winres metadata in Windows binaries,https://github.com/coder/coder/pull/16706,2025-02-26T01:23:29Z,2025-02-28T05:03:10Z,6,6,MERGED
+coder,feat: support session audit log,https://github.com/coder/coder/pull/16703,2025-02-25T19:31:08Z,2025-02-26T17:13:11Z,5,3,MERGED
+coder,fix: update create template button styling,https://github.com/coder/coder/pull/16701,2025-02-25T17:36:38Z,2025-02-25T18:03:10Z,0,1,MERGED
+coder,refactor: rollback provisioners page to its previous version,https://github.com/coder/coder/pull/16699,2025-02-25T16:48:36Z,2025-02-25T17:21:38Z,1,1,MERGED
+coder,fix: display banner when no matching templates found,https://github.com/coder/coder/pull/16696,2025-02-25T13:22:10Z,2025-02-25T13:30:50Z,0,1,MERGED
+coder,feat: implement WorkspaceCreationBan org role,https://github.com/coder/coder/pull/16686,2025-02-24T19:54:58Z,2025-02-27T11:23:19Z,5,11,MERGED
+coder,fix: hide app icon if not found,https://github.com/coder/coder/pull/16684,2025-02-24T16:10:41Z,2025-02-25T10:30:18Z,3,4,MERGED
+coder,fix: display notification on schedule update,https://github.com/coder/coder/pull/16672,2025-02-24T13:08:45Z,2025-02-24T13:27:16Z,0,2,MERGED
+coder,fix: ensure the web UI doesn't break when license telemetry required check fails,https://github.com/coder/coder/pull/16667,2025-02-23T19:30:31Z,2025-02-24T15:02:36Z,0,3,MERGED
+coder,chore: reduce prominence of Scratch starter and emphasize Docker in UI,https://github.com/coder/coder/pull/16665,2025-02-23T14:30:08Z,2025-02-24T19:59:22Z,0,1,MERGED
+coder,feat: show dialog with a redirect if permissions are required,https://github.com/coder/coder/pull/16661,2025-02-21T22:00:42Z,2025-02-21T22:43:33Z,1,2,MERGED
+coder,feat: add notifications troubleshooting tab,https://github.com/coder/coder/pull/16650,2025-02-21T11:45:30Z,2025-02-21T13:34:48Z,0,5,MERGED
+coder,feat(cli): add local and UTC time options to `ping` cmd,https://github.com/coder/coder/pull/16648,2025-02-21T07:53:47Z,2025-02-24T05:38:17Z,1,4,MERGED
+coder,fix: include a link and more useful error details for 403 response codes,https://github.com/coder/coder/pull/16644,2025-02-20T16:13:47Z,2025-02-21T21:26:07Z,4,8,MERGED
+coder,fix: change validation error for workspace name,https://github.com/coder/coder/pull/16643,2025-02-20T10:38:28Z,2025-02-20T13:34:31Z,0,2,MERGED
+coder,fix: select default org in template form if only one exists,https://github.com/coder/coder/pull/16639,2025-02-20T02:07:03Z,2025-03-10T15:56:09Z,2,10,MERGED
+coder,feat: implement sign up with GitHub for the first user,https://github.com/coder/coder/pull/16629,2025-02-19T18:42:28Z,2025-02-25T14:54:41Z,8,4,MERGED
+coder,fix: center proxy spinner,https://github.com/coder/coder/pull/16621,2025-02-19T15:11:29Z,2025-02-19T18:07:10Z,0,1,MERGED
+coder,chore: reduce log volume on server startup,https://github.com/coder/coder/pull/16608,2025-02-18T15:06:24Z,2025-02-20T15:33:14Z,10,7,MERGED
+coder,fix: add link to troubleshooting,https://github.com/coder/coder/pull/16592,2025-02-17T12:24:33Z,2025-02-17T13:00:51Z,1,1,MERGED
+coder,fix: sort orgs alphabetically in dropdown,https://github.com/coder/coder/pull/16583,2025-02-14T22:50:01Z,2025-02-19T15:20:15Z,0,8,MERGED
+coder,fix: switch engagement chart to linear,https://github.com/coder/coder/pull/16576,2025-02-14T13:05:10Z,2025-02-14T13:13:33Z,0,1,MERGED
+coder,fix: change resource icon colors in the delete modal based on the set theme,https://github.com/coder/coder/pull/16550,2025-02-13T00:04:07Z,2025-02-13T22:41:03Z,1,3,MERGED
+coder,fix: stop text from overflowing on delete org button,https://github.com/coder/coder/pull/16549,2025-02-12T22:04:56Z,2025-02-14T16:13:29Z,1,7,MERGED
+coder,fix: display error on deleted workspace build,https://github.com/coder/coder/pull/16536,2025-02-12T11:02:22Z,2025-02-12T15:43:06Z,0,1,MERGED
+coder,feat: display provisioner jobs and daemons for an organization,https://github.com/coder/coder/pull/16532,2025-02-11T20:02:46Z,2025-02-18T14:27:51Z,28,22,MERGED
+coder,feat(cli): display devcontainers in show command,https://github.com/coder/coder/pull/16515,2025-02-10T18:01:27Z,2025-02-11T09:20:55Z,0,2,MERGED
+coder,feat: show warning on unrecognized idp group and role mapping claims,https://github.com/coder/coder/pull/16485,2025-02-06T22:20:44Z,2025-02-07T18:41:22Z,0,25,MERGED
+coder,feat: show warning on unrecognized idp org mapping claims,https://github.com/coder/coder/pull/16478,2025-02-06T18:38:53Z,2025-02-06T23:45:03Z,5,15,MERGED
+coder,feat(cli): add display of open ports in coder show,https://github.com/coder/coder/pull/16464,2025-02-05T22:22:16Z,2025-02-10T13:25:35Z,1,2,MERGED
+coder,feat: add combobox for selecting claim field value for group/role idp sync,https://github.com/coder/coder/pull/16459,2025-02-05T20:51:37Z,2025-02-07T21:31:03Z,5,6,MERGED
+coder,chore: add Tooltip component,https://github.com/coder/coder/pull/16444,2025-02-05T13:45:50Z,2025-02-05T19:53:46Z,1,3,MERGED
+coder,chore: add overlay color for background behind dialogs,https://github.com/coder/coder/pull/16442,2025-02-05T12:27:00Z,2025-02-05T12:55:03Z,0,1,MERGED
+coder,fix: style table component to figma design,https://github.com/coder/coder/pull/16417,2025-02-04T12:42:42Z,2025-02-04T15:39:44Z,0,2,MERGED
+coder,chore: add Table component,https://github.com/coder/coder/pull/16410,2025-02-03T18:18:31Z,2025-02-03T23:24:47Z,3,5,MERGED
+coder,feat: add the ability to hide preset parameters,https://github.com/coder/coder/pull/17168,2025-03-31T09:41:09Z,2025-04-01T20:51:42Z,2,9,MERGED
+coder,fix: improve workspace and template icon display in lists,https://github.com/coder/coder/pull/17133,2025-03-27T12:23:44Z,2025-04-07T00:07:26Z,1,2,CLOSED
+coder,fix: improve workspace and template icon display in lists,https://github.com/coder/coder/pull/17131,2025-03-27T11:39:57Z,2025-03-27T12:23:35Z,1,1,CLOSED
+coder,feat: set icons for each type of notification,https://github.com/coder/coder/pull/17115,2025-03-26T16:46:12Z,2025-03-31T12:40:24Z,5,9,MERGED
+coder,refactor: improve markdown rendering on notifications,https://github.com/coder/coder/pull/17112,2025-03-26T14:12:26Z,2025-03-26T14:24:57Z,1,1,MERGED
+coder,feat(agent): add devcontainer autostart support,https://github.com/coder/coder/pull/17076,2025-03-24T16:32:42Z,2025-03-27T10:31:30Z,6,15,MERGED
+coder,fix: improve error message when deleting organization with resources,https://github.com/coder/coder/pull/17049,2025-03-21T19:37:23Z,2025-03-25T19:31:24Z,10,13,MERGED
+coder,fix(Makefile): fix dcspec gen dependencies and hide error output,https://github.com/coder/coder/pull/17043,2025-03-21T15:51:40Z,2025-03-24T11:41:45Z,2,3,MERGED
+coder,fix: improve error message when deleting organization with resources,https://github.com/coder/coder/pull/17028,2025-03-20T16:44:47Z,2025-03-21T20:09:30Z,0,15,CLOSED
+coder,feat: display quiet hours using 24-hour time format,https://github.com/coder/coder/pull/17016,2025-03-20T09:08:52Z,2025-03-20T09:40:43Z,0,1,MERGED
+coder,fix: show notifications on mobile,https://github.com/coder/coder/pull/17008,2025-03-19T18:10:42Z,2025-03-19T18:20:00Z,0,1,MERGED
+coder,fix: fix overflowing text in inbox notifications,https://github.com/coder/coder/pull/17000,2025-03-19T13:11:36Z,2025-03-19T13:39:38Z,1,3,MERGED
+coder,feat: add notifications widget in the navbar,https://github.com/coder/coder/pull/16983,2025-03-18T13:37:04Z,2025-03-18T18:21:23Z,6,5,MERGED
+coder,feat: display error if app is not installed,https://github.com/coder/coder/pull/16980,2025-03-18T12:35:12Z,2025-03-18T13:24:03Z,0,2,MERGED
+coder,fix(site): standardize headers for Admin Settings page,https://github.com/coder/coder/pull/16911,2025-03-13T16:36:26Z,2025-04-01T14:13:56Z,12,20,MERGED
+coder,fix: apply autofocus to workspace button search,https://github.com/coder/coder/pull/16905,2025-03-13T12:41:35Z,2025-03-13T13:31:18Z,1,2,MERGED
+coder,docs: remove broken gfm alert,https://github.com/coder/coder/pull/16902,2025-03-13T05:05:51Z,2025-03-13T05:13:03Z,2,1,MERGED
+coder,chore: migrate settings page tables from mui to shadcn,https://github.com/coder/coder/pull/16896,2025-03-12T21:03:22Z,2025-03-13T21:34:00Z,1,8,MERGED
+coder,fix: update `WorkspacesEmpty.tsx` from material ui to tailwind,https://github.com/coder/coder/pull/16886,2025-03-12T01:24:51Z,2025-03-17T16:51:31Z,8,7,MERGED
+coder,chore: enable SBOM attestation for image builds,https://github.com/coder/coder/pull/16852,2025-03-07T22:08:07Z,2025-03-10T19:24:14Z,1,3,MERGED
+coder,feat: allow selecting the initial organization for new users,https://github.com/coder/coder/pull/16829,2025-03-06T17:57:18Z,2025-03-07T15:42:11Z,1,5,MERGED
+coder,chore: add notification UI components,https://github.com/coder/coder/pull/16818,2025-03-05T20:19:04Z,2025-03-12T17:36:33Z,19,6,MERGED
+coder,"fix: hide ""last seen"" when user is suspended",https://github.com/coder/coder/pull/16813,2025-03-05T12:02:14Z,2025-03-05T13:02:13Z,0,1,MERGED
+coder,feat: add support for workspace app audit,https://github.com/coder/coder/pull/16801,2025-03-04T14:33:00Z,2025-03-18T11:50:52Z,16,40,MERGED
+coder,feat: add devcontainer in the UI,https://github.com/coder/coder/pull/16800,2025-03-04T13:53:49Z,2025-03-04T17:29:03Z,12,10,MERGED
+coder,fix: display all available settings,https://github.com/coder/coder/pull/16798,2025-03-04T12:01:14Z,2025-03-04T14:46:26Z,2,2,MERGED
+coder,feat: update default audit log avatar,https://github.com/coder/coder/pull/16774,2025-03-03T14:31:54Z,2025-03-03T14:53:59Z,1,2,MERGED
+coder,docs: fix formatting of note callouts,https://github.com/coder/coder/pull/16761,2025-03-02T20:01:12Z,2025-03-07T15:35:14Z,13,4,MERGED
+coder,chore: replace MoreMenu with DropdownMenu,https://github.com/coder/coder/pull/17615,2025-04-30T12:11:55Z,2025-05-01T17:14:11Z,0,18,MERGED
+coder,chore: make the template docs view the default,https://github.com/coder/coder/pull/17606,2025-04-29T17:52:01Z,2025-04-29T22:12:39Z,0,2,MERGED
+coder,feat: track resource replacements when claiming a prebuilt workspace,https://github.com/coder/coder/pull/17571,2025-04-25T16:49:04Z,2025-05-14T12:52:25Z,27,38,MERGED
+coder,fix(examples/templates/docker-devcontainer): update folder path and provider version constraint,https://github.com/coder/coder/pull/17553,2025-04-24T06:44:02Z,2025-04-24T07:21:36Z,4,3,MERGED
+coder,chore: mark parameters as required,https://github.com/coder/coder/pull/17551,2025-04-23T22:56:15Z,2025-04-24T21:14:21Z,1,2,MERGED
+coder,fix: add websocket close handling,https://github.com/coder/coder/pull/17548,2025-04-23T16:57:33Z,2025-04-23T23:19:26Z,2,3,MERGED
+coder,chore: set timezone on all golden file make targets,https://github.com/coder/coder/pull/17533,2025-04-23T11:15:20Z,2025-04-23T11:26:47Z,0,1,MERGED
+coder,chore: use new table design for markdown rendering,https://github.com/coder/coder/pull/17530,2025-04-23T10:26:35Z,2025-04-23T17:02:14Z,0,1,MERGED
+coder,fix: fix broken img layout,https://github.com/coder/coder/pull/17525,2025-04-23T10:04:22Z,2025-04-23T17:01:37Z,0,1,MERGED
+coder,fix: fix empty workspaces result,https://github.com/coder/coder/pull/17484,2025-04-21T13:38:33Z,2025-04-21T13:45:26Z,0,1,MERGED
+coder,feat: add textarea component,https://github.com/coder/coder/pull/17465,2025-04-18T11:16:08Z,2025-04-18T14:43:07Z,0,1,MERGED
+coder,feat: add opt-out option to new parameters form,https://github.com/coder/coder/pull/17456,2025-04-17T17:45:08Z,2025-04-21T16:44:46Z,1,11,MERGED
+coder,feat: add slider to dynamic parameters,https://github.com/coder/coder/pull/17453,2025-04-17T15:53:26Z,2025-04-17T16:40:38Z,0,1,MERGED
+coder,chore: typescript to accept `null` golang maps,https://github.com/coder/coder/pull/17435,2025-04-16T21:08:36Z,2025-06-18T15:52:53Z,5,2,CLOSED
+coder,feat: add slider component,https://github.com/coder/coder/pull/17431,2025-04-16T18:24:06Z,2025-04-17T10:27:18Z,1,2,MERGED
+coder,chore: prevent null loading sync settings,https://github.com/coder/coder/pull/17430,2025-04-16T17:19:46Z,2025-04-16T19:39:57Z,5,1,MERGED
+coder,refactor: redesign workspace status on workspaces table,https://github.com/coder/coder/pull/17425,2025-04-16T14:55:29Z,2025-04-17T13:57:03Z,7,7,MERGED
+coder,refactor: update the workspace table design,https://github.com/coder/coder/pull/17404,2025-04-15T14:39:12Z,2025-04-15T16:52:32Z,6,3,MERGED
+coder,feat: implement UI for top level dynamic parameters diagnostics,https://github.com/coder/coder/pull/17394,2025-04-14T20:34:09Z,2025-04-16T17:00:56Z,2,49,MERGED
+coder,feat: add support for icons and warning variant in Badge component,https://github.com/coder/coder/pull/17350,2025-04-10T22:11:58Z,2025-04-11T14:16:38Z,0,5,MERGED
+coder,feat(coderd/notifications): group workspace build failure report,https://github.com/coder/coder/pull/17306,2025-04-09T13:42:50Z,2025-04-10T12:32:19Z,7,8,MERGED
+coder,feat: install more terminal fonts,https://github.com/coder/coder/pull/17289,2025-04-08T09:55:10Z,2025-04-08T12:36:15Z,0,4,MERGED
+coder,feat: add release channel tag to image,https://github.com/coder/coder/pull/17287,2025-04-08T01:31:12Z,2025-04-11T05:54:48Z,8,10,CLOSED
+coder,feat: add shadcn radio-group component,https://github.com/coder/coder/pull/17264,2025-04-04T15:38:23Z,2025-04-04T18:00:13Z,0,1,MERGED
+coder,feat: support multiple terminal fonts,https://github.com/coder/coder/pull/17257,2025-04-04T08:13:30Z,2025-04-07T12:30:10Z,3,22,MERGED
+coder,feat: add shadcn checkbox component,https://github.com/coder/coder/pull/17248,2025-04-03T20:16:43Z,2025-04-04T14:05:23Z,1,4,MERGED
+coder,docs: add zed as coder_app to open from workspace with a hotlink,https://github.com/coder/coder/pull/17236,2025-04-02T23:25:42Z,2025-04-07T13:43:19Z,3,4,MERGED
+coder,chore: cherry picks for release 2.21,https://github.com/coder/coder/pull/17206,2025-04-01T23:04:35Z,2025-04-02T00:54:25Z,1,19,MERGED
+coder,feat: set icons for each type of notification (#17115),https://github.com/coder/coder/pull/17203,2025-04-01T19:28:42Z,2025-04-02T12:50:24Z,0,1,CLOSED
+coder,refactor: increase workspace and template avatar size,https://github.com/coder/coder/pull/17200,2025-04-01T17:47:54Z,2025-04-02T00:29:36Z,0,2,MERGED
+coder,feat: add frontend for app statuses,https://github.com/coder/coder/pull/17178,2025-04-01T01:39:54Z,2025-04-01T16:35:58Z,5,10,MERGED
+coder,refactor: improve app status and statuses,https://github.com/coder/coder/pull/18121,2025-05-30T00:40:18Z,2025-05-30T01:39:19Z,0,1,MERGED
+coder,feat: add early access badges for dynamic parameters,https://github.com/coder/coder/pull/18114,2025-05-29T17:05:07Z,2025-05-30T17:17:17Z,2,3,MERGED
+coder,feat: add view workspace button in task page,https://github.com/coder/coder/pull/18105,2025-05-29T15:57:58Z,2025-05-29T16:12:59Z,0,1,MERGED
+coder,fix: use owner username instead of owner name in tasks list links,https://github.com/coder/coder/pull/18098,2025-05-29T09:25:16Z,2025-05-29T09:31:42Z,0,1,MERGED
+coder,fix: handle `workspace.agent` and `agent.workspace.owner` in `coder ssh`,https://github.com/coder/coder/pull/18093,2025-05-29T01:41:12Z,2025-05-29T07:26:27Z,5,1,MERGED
+coder,docs: update SSH command format to use suffix,https://github.com/coder/coder/pull/18085,2025-05-28T16:41:32Z,2025-06-03T03:13:08Z,4,1,MERGED
+coder,refactor: replace MUI components and refactor styles,https://github.com/coder/coder/pull/18082,2025-05-28T16:26:43Z,2025-05-29T11:27:52Z,0,2,MERGED
+coder,feat: add task page,https://github.com/coder/coder/pull/18076,2025-05-28T14:47:26Z,2025-05-28T18:19:05Z,4,4,MERGED
+coder,fix(site): remove trailing comment from cursor.svg,https://github.com/coder/coder/pull/18072,2025-05-28T04:27:22Z,2025-05-28T07:17:38Z,2,2,MERGED
+coder,feat: add form_type error,https://github.com/coder/coder/pull/18067,2025-05-27T17:39:09Z,2025-05-27T19:35:11Z,0,1,MERGED
+coder,feat(site): allow recreating devcontainers and showing dirty status,https://github.com/coder/coder/pull/18049,2025-05-27T08:54:54Z,2025-05-27T16:42:25Z,0,7,MERGED
+coder,feat: add AI Tasks page,https://github.com/coder/coder/pull/18047,2025-05-27T00:25:26Z,2025-05-27T14:34:08Z,2,14,MERGED
+coder,feat: group apps together on workspace page,https://github.com/coder/coder/pull/18018,2025-05-23T20:23:08Z,2025-05-29T18:01:51Z,9,2,MERGED
+coder,chore: remove chartjs,https://github.com/coder/coder/pull/18016,2025-05-23T18:11:12Z,2025-05-24T14:33:16Z,0,4,MERGED
+coder,feat: display required badge instead of diagnostic text when extra code = required,https://github.com/coder/coder/pull/18006,2025-05-23T12:29:26Z,2025-05-23T14:43:17Z,0,2,MERGED
+coder,feat: add beta labels for dynamic params,https://github.com/coder/coder/pull/17985,2025-05-22T10:52:34Z,2025-05-23T19:51:31Z,0,2,MERGED
+coder,refactor: refactor activity in workspace page,https://github.com/coder/coder/pull/17980,2025-05-21T22:16:42Z,2025-05-22T16:05:52Z,2,4,MERGED
+coder,refactor: refactor activity column in the workspaces table,https://github.com/coder/coder/pull/17976,2025-05-21T20:41:33Z,2025-05-23T00:03:13Z,0,2,MERGED
+coder,refactor: show unhealthy status on workspace status indicator,https://github.com/coder/coder/pull/17956,2025-05-20T21:14:48Z,2025-05-21T18:57:32Z,0,2,MERGED
+coder,fix(site): center `/cli-auth` on firefox,https://github.com/coder/coder/pull/17929,2025-05-20T03:09:07Z,2025-05-20T04:25:13Z,2,1,MERGED
+coder,feat: make all parts of a `CodeExample` copy inner code upon click,https://github.com/coder/coder/pull/17918,2025-05-19T15:13:45Z,2025-05-19T17:41:54Z,0,4,CLOSED
+coder,refactor: update cli auth page design,https://github.com/coder/coder/pull/17915,2025-05-19T12:22:07Z,2025-05-19T16:27:58Z,1,2,MERGED
+coder,feat: fail CI when `pubsub.Publish` calls are found in db transactions,https://github.com/coder/coder/pull/17903,2025-05-19T09:17:49Z,2025-05-19T14:52:51Z,4,8,MERGED
+coder,docs: add provisioner job state transition diagram,https://github.com/coder/coder/pull/17882,2025-05-16T12:26:38Z,2025-05-19T21:23:36Z,0,5,MERGED
+coder,feat: add provisioner daemon name to provisioner jobs responses,https://github.com/coder/coder/pull/17877,2025-05-16T10:13:09Z,2025-05-19T15:05:39Z,10,8,MERGED
+coder,feat: make database connection settings configurable,https://github.com/coder/coder/pull/17876,2025-05-16T09:56:26Z,2025-05-20T12:35:42Z,8,5,CLOSED
+coder,chore: improve style of dynamic parameters diagnostics,https://github.com/coder/coder/pull/17863,2025-05-15T18:13:11Z,2025-05-15T22:02:25Z,0,1,MERGED
+coder,feat: add experimental workspace parameters page for dynamic params,https://github.com/coder/coder/pull/17841,2025-05-14T22:52:43Z,2025-05-21T17:48:35Z,3,7,MERGED
+coder,refactor: use the new Table component for the Templates table,https://github.com/coder/coder/pull/17838,2025-05-14T18:13:11Z,2025-05-14T20:11:32Z,1,1,MERGED
+coder,fix: show no provisioners warning,https://github.com/coder/coder/pull/17835,2025-05-14T17:56:04Z,2025-05-15T14:37:20Z,0,2,MERGED
+coder,chore: add 'classic_parameter_flow' column setting to templates,https://github.com/coder/coder/pull/17828,2025-05-14T14:55:01Z,2025-05-15T22:55:17Z,4,20,MERGED
+coder,fix: don't open a window for external apps,https://github.com/coder/coder/pull/17813,2025-05-13T22:29:44Z,2025-05-14T11:41:33Z,1,1,MERGED
+coder,refactor: replace badge by status indicator,https://github.com/coder/coder/pull/17811,2025-05-13T22:24:52Z,2025-05-14T12:11:25Z,1,2,MERGED
+coder,fix: replace wrong emoji reference,https://github.com/coder/coder/pull/17810,2025-05-13T22:02:55Z,2025-05-14T12:03:01Z,0,2,MERGED
+coder,chore: add dynamic parameter warning if missing metadata,https://github.com/coder/coder/pull/17809,2025-05-13T21:40:42Z,2025-05-14T17:21:36Z,5,9,MERGED
+coder,"chore: rename ""Test Notification"" to ""Troubleshooting Notification""",https://github.com/coder/coder/pull/17790,2025-05-13T11:37:29Z,2025-05-13T12:52:56Z,1,2,MERGED
+coder,feat: add extra workspace actions in the workspaces table,https://github.com/coder/coder/pull/17775,2025-05-12T19:55:01Z,2025-05-13T21:53:43Z,19,15,MERGED
+coder,feat: display user apps in the workspaces table,https://github.com/coder/coder/pull/17744,2025-05-09T14:48:14Z,2025-05-09T20:01:57Z,1,3,MERGED
+coder,feat: add TagInput component for dynamic parameters,https://github.com/coder/coder/pull/17719,2025-05-08T11:58:47Z,2025-05-08T16:59:33Z,0,4,MERGED
+coder,fix: reduce cost of prebuild failure,https://github.com/coder/coder/pull/17697,2025-05-06T20:45:09Z,2025-05-21T19:16:38Z,28,51,MERGED
+coder,feat: display builtin apps on workspaces table,https://github.com/coder/coder/pull/17695,2025-05-06T19:22:31Z,2025-05-07T17:26:21Z,8,4,MERGED
+coder,refactor: update app buttons to use the new button component,https://github.com/coder/coder/pull/17684,2025-05-05T21:13:48Z,2025-05-06T16:26:40Z,2,9,MERGED
+coder,chore: update design of External auth section of CreateWorkspacePage,https://github.com/coder/coder/pull/17683,2025-05-05T17:04:05Z,2025-05-05T21:13:40Z,1,3,MERGED
+coder,fix: fix size for non-squared app icons,https://github.com/coder/coder/pull/17663,2025-05-02T17:36:37Z,2025-05-02T17:44:14Z,2,1,MERGED
+coder,feat: support GFM alerts in markdown,https://github.com/coder/coder/pull/17662,2025-05-02T17:28:07Z,2025-05-02T17:44:01Z,0,2,MERGED
+coder,chore: improve the design of the create workspace page for dynamic parameters,https://github.com/coder/coder/pull/17654,2025-05-01T22:33:28Z,2025-05-02T15:14:32Z,0,3,MERGED
+coder,fix: extract checkbox label from dynamic parameter styling prop,https://github.com/coder/coder/pull/17651,2025-05-01T20:35:06Z,2025-05-08T12:02:27Z,2,4,MERGED
+coder,feat: add Coder registry links to template creation and editing,https://github.com/coder/coder/pull/18680,2025-06-30T20:05:05Z,2025-07-01T17:18:27Z,6,15,MERGED
+coder,fix: handle health status when displaying task apps,https://github.com/coder/coder/pull/18675,2025-06-30T18:36:34Z,2025-06-30T18:46:28Z,0,1,MERGED
+coder,fix(agent/agentcontainers): always derive devcontainer name from workspace folder,https://github.com/coder/coder/pull/18666,2025-06-30T15:37:02Z,2025-06-30T17:56:39Z,0,1,MERGED
+coder,chore: add beta badge to tasks,https://github.com/coder/coder/pull/18656,2025-06-30T08:44:14Z,2025-06-30T08:51:42Z,0,1,MERGED
+coder,fix: display error message on delete workspace error,https://github.com/coder/coder/pull/18654,2025-06-28T09:07:32Z,2025-06-30T19:09:52Z,0,1,MERGED
+coder,fix(.devcontainer): add home volume and fix code-server and filebrowser,https://github.com/coder/coder/pull/18648,2025-06-27T16:44:39Z,2025-06-30T08:32:17Z,1,5,MERGED
+coder,fix(.devcontainer): remove double slash from zed path,https://github.com/coder/coder/pull/18639,2025-06-27T15:10:27Z,2025-06-27T15:34:08Z,0,1,MERGED
+coder,feat(site): display devcontainer start error,https://github.com/coder/coder/pull/18637,2025-06-27T14:57:04Z,2025-06-30T20:34:30Z,4,11,MERGED
+coder,feat: allow masking workspace parameter inputs,https://github.com/coder/coder/pull/18595,2025-06-25T23:20:06Z,2025-07-01T22:27:43Z,8,18,MERGED
+coder,feat: add task link when workspace is running a task,https://github.com/coder/coder/pull/18591,2025-06-25T19:01:41Z,2025-06-27T13:32:57Z,3,3,MERGED
+coder,feat(.devcontainer): add code-server feature to `devcontainer.json`,https://github.com/coder/coder/pull/18589,2025-06-25T18:29:46Z,2025-06-25T18:35:44Z,0,1,MERGED
+coder,refactor: move required external auth buttons to the submit side,https://github.com/coder/coder/pull/18586,2025-06-25T17:55:55Z,2025-06-27T13:44:40Z,7,6,MERGED
+coder,fix: hide the preset parameter visibility switch when it has no effect,https://github.com/coder/coder/pull/18574,2025-06-25T13:50:47Z,2025-06-26T09:23:10Z,1,5,MERGED
+coder,"fix(agent/agentcontainers): filter out ""is test run"" devcontainers",https://github.com/coder/coder/pull/18568,2025-06-25T10:29:23Z,2025-06-25T11:06:20Z,2,3,MERGED
+coder,chore: fix idle state icon when disabled,https://github.com/coder/coder/pull/18554,2025-06-24T21:57:07Z,2025-06-25T18:06:57Z,0,1,MERGED
+coder,chore: use pause icon for app idle state,https://github.com/coder/coder/pull/18546,2025-06-24T17:57:59Z,2025-06-24T19:04:28Z,0,1,MERGED
+coder,fix(agent/agentcontainers): remove deleted devcontainers,https://github.com/coder/coder/pull/18545,2025-06-24T17:57:00Z,2025-07-18T00:07:49Z,0,1,CLOSED
+coder,fix: only override img size for direct button children,https://github.com/coder/coder/pull/18540,2025-06-24T16:20:02Z,2025-06-24T16:28:58Z,0,1,MERGED
+coder,chore: improve visuals of dynamic parameters,https://github.com/coder/coder/pull/18537,2025-06-24T15:44:36Z,2025-06-24T16:57:41Z,0,1,MERGED
+coder,fix: update workspace table icons in WorkspacesTable ,https://github.com/coder/coder/pull/18525,2025-06-24T10:46:05Z,2025-06-24T18:23:59Z,6,3,MERGED
+coder,feat: add better error display for workspace builds,https://github.com/coder/coder/pull/18518,2025-06-23T23:00:05Z,2025-06-24T13:03:41Z,1,2,MERGED
+coder,chore: update Coder icons to reflect new branding,https://github.com/coder/coder/pull/18517,2025-06-23T22:25:56Z,2025-06-24T21:15:05Z,4,7,MERGED
+coder,feat(agent/agentcontainers): retry with longer name on failure,https://github.com/coder/coder/pull/18513,2025-06-23T18:44:20Z,2025-06-24T18:04:16Z,9,15,MERGED
+coder,chore: ignore splunk.com in linkspector,https://github.com/coder/coder/pull/18502,2025-06-23T14:52:54Z,2025-06-24T05:19:47Z,0,1,MERGED
+coder,chore: improve dynamic parameter validation errors,https://github.com/coder/coder/pull/18501,2025-06-23T14:23:33Z,2025-06-23T20:08:18Z,4,2,MERGED
+coder,chore: update template opt-in checkbox,https://github.com/coder/coder/pull/18481,2025-06-20T19:02:50Z,2025-06-20T21:18:07Z,2,3,MERGED
+coder,chore: assume template versions without tf values to be empty,https://github.com/coder/coder/pull/18479,2025-06-20T18:55:32Z,2025-06-20T20:05:23Z,0,2,MERGED
+coder,fix: add bottom padding back,https://github.com/coder/coder/pull/18476,2025-06-20T17:06:21Z,2025-06-24T13:04:03Z,0,1,MERGED
+coder,fix(agent): start devcontainers through agentcontainers package,https://github.com/coder/coder/pull/18471,2025-06-20T14:49:54Z,2025-06-25T10:52:51Z,16,25,MERGED
+coder,feat: add the /aitasks/prompts endpoint,https://github.com/coder/coder/pull/18464,2025-06-19T19:44:42Z,2025-06-24T11:06:02Z,12,8,MERGED
+coder,feat: allow for default presets,https://github.com/coder/coder/pull/18445,2025-06-19T08:16:42Z,2025-06-24T10:19:20Z,11,13,MERGED
+coder,test(testutil): improve chan.go error visibility,https://github.com/coder/coder/pull/18406,2025-06-17T14:24:52Z,2025-06-17T14:39:31Z,0,1,MERGED
+coder,fix: show error message for incompatible parameters,https://github.com/coder/coder/pull/18365,2025-06-13T17:07:09Z,2025-06-13T18:52:30Z,2,1,MERGED
+coder,feat: log resource drift warnings in all workspace builds,https://github.com/coder/coder/pull/18355,2025-06-13T08:17:14Z,2025-07-07T00:08:03Z,3,7,CLOSED
+coder,feat: support devcontainer agents in ui and unify backend,https://github.com/coder/coder/pull/18332,2025-06-11T17:41:39Z,2025-06-17T13:06:48Z,19,29,MERGED
+coder,fix(enterprise/coderd): skip org membership check for prebuilds user on group patch,https://github.com/coder/coder/pull/18329,2025-06-11T16:38:00Z,2025-06-23T09:32:30Z,1,3,MERGED
+coder,feat: use proto streams to increase maximum module files payload,https://github.com/coder/coder/pull/18268,2025-06-06T13:42:37Z,2025-06-13T17:46:27Z,7,52,MERGED
+coder,fix: embed agentapi chat in the sidebar iframe,https://github.com/coder/coder/pull/18230,2025-06-04T13:37:05Z,2025-06-04T14:52:47Z,0,1,MERGED
+coder,feat: embed chat ui in the task sidebar,https://github.com/coder/coder/pull/18216,2025-06-03T17:46:04Z,2025-06-03T20:00:59Z,5,3,MERGED
+coder,docs: add link for Coder Desktop docs on workspace page,https://github.com/coder/coder/pull/18202,2025-06-03T10:00:37Z,2025-06-03T13:39:02Z,1,1,MERGED
+coder,chore(vpn): send ping results over tunnel,https://github.com/coder/coder/pull/18200,2025-06-03T06:23:07Z,2025-06-06T04:18:58Z,11,13,MERGED
+coder,refactor: minor task page design adjustments,https://github.com/coder/coder/pull/18187,2025-06-02T16:40:41Z,2025-06-02T17:52:55Z,5,4,MERGED
+coder,feat: add MCP tools for ChatGPT,https://github.com/coder/coder/pull/19102,2025-07-30T14:29:01Z,2025-08-04T12:11:22Z,9,11,MERGED
+coder,chore(site): add preset combobox to dynamic parameters page,https://github.com/coder/coder/pull/19100,2025-07-30T12:14:21Z,2025-07-30T17:02:59Z,1,1,MERGED
+coder,feat(site): support icon and description in preset,https://github.com/coder/coder/pull/19063,2025-07-28T15:34:55Z,2025-07-29T16:45:33Z,3,12,MERGED
+coder,chore: clarify wording for managed AI usage in settings,https://github.com/coder/coder/pull/19057,2025-07-28T10:08:00Z,2025-07-28T12:16:30Z,0,2,CLOSED
+coder,fix: use system context for managed agent count query,https://github.com/coder/coder/pull/18985,2025-07-22T05:41:56Z,2025-07-22T06:03:35Z,0,2,MERGED
+coder,chore: add managed ai usage consumption to license view,https://github.com/coder/coder/pull/18934,2025-07-21T12:40:21Z,2025-07-28T18:27:50Z,11,12,MERGED
+coder,fix(site): revamp UI for batch-updating workspaces,https://github.com/coder/coder/pull/18895,2025-07-16T02:34:48Z,2025-09-18T00:46:39Z,30,38,MERGED
+coder,chore: add image styles for kiro.svg,https://github.com/coder/coder/pull/18889,2025-07-15T19:55:13Z,2025-07-15T20:09:00Z,1,1,MERGED
+coder,feat: validate presets on template import,https://github.com/coder/coder/pull/18844,2025-07-14T10:29:28Z,2025-07-30T13:28:56Z,15,5,MERGED
+coder,feat: extend workspace build reasons to track connection types,https://github.com/coder/coder/pull/18827,2025-07-10T14:38:20Z,2025-07-22T11:11:27Z,2,15,MERGED
+coder,fix(site): exclude workspace schedule settings for prebuilt workspaces,https://github.com/coder/coder/pull/18826,2025-07-10T12:16:44Z,2025-07-15T13:11:04Z,6,11,MERGED
+coder,feat(cli): improve devcontainer support for `coder show`,https://github.com/coder/coder/pull/18793,2025-07-08T14:21:49Z,2025-07-08T16:16:01Z,4,8,MERGED
+coder,feat: display descriptions in multi-select component,https://github.com/coder/coder/pull/18730,2025-07-02T22:09:33Z,2025-07-03T09:55:20Z,0,1,MERGED
+coder,feat!: add ability to cancel pending workspace build,https://github.com/coder/coder/pull/18713,2025-07-02T12:51:13Z,2025-07-08T09:02:58Z,31,22,MERGED
+coder,feat(site): add connection log page,https://github.com/coder/coder/pull/18708,2025-07-02T05:52:42Z,2025-07-15T05:11:31Z,9,1,MERGED
+coder,docs: add warning about prebuilds incompatibility with certain features,https://github.com/coder/coder/pull/18689,2025-07-01T11:45:47Z,2025-07-01T12:59:07Z,0,2,MERGED
+coder,feat: add tooltip field to workspace app that renders as markdown,https://github.com/coder/coder/pull/19651,2025-08-29T22:04:02Z,2025-09-10T16:01:54Z,9,21,MERGED
+coder,feat(cli): add coder exp task delete,https://github.com/coder/coder/pull/19644,2025-08-29T15:41:06Z,2025-09-01T08:14:13Z,0,1,MERGED
+coder,fix: add bottom padding to workspace page,https://github.com/coder/coder/pull/19643,2025-08-29T14:50:23Z,2025-09-03T00:16:51Z,1,1,MERGED
+coder,fix: don't show prebuild workspaces as tasks,https://github.com/coder/coder/pull/19572,2025-08-27T12:16:43Z,2025-08-28T15:14:53Z,1,2,MERGED
+coder,chore(dogfood): update workspace lifecycle ignore_changes with env and entrypoint,https://github.com/coder/coder/pull/19571,2025-08-27T12:14:46Z,2025-08-27T13:23:44Z,2,2,MERGED
+coder,feat: add user filter to templates page to filter by template author,https://github.com/coder/coder/pull/19561,2025-08-26T22:29:55Z,2025-08-28T18:59:29Z,10,10,MERGED
+coder,refactor: replace task prompt by workspace name in the topbar,https://github.com/coder/coder/pull/19531,2025-08-25T18:04:01Z,2025-08-26T15:24:52Z,3,3,MERGED
+coder,feat: display startup script logs while agent is starting,https://github.com/coder/coder/pull/19530,2025-08-25T14:02:59Z,2025-08-26T15:45:07Z,5,8,MERGED
+coder,feat: show warning in AppLink if hostname is long enough to break port forwarding,https://github.com/coder/coder/pull/19506,2025-08-23T01:04:27Z,2025-08-27T18:51:42Z,0,5,MERGED
+coder,chore(scaletest): add deployment name to all metrics,https://github.com/coder/coder/pull/19479,2025-08-22T00:52:09Z,2025-08-25T02:45:32Z,2,1,MERGED
+coder,feat: display the number of idle tasks in the navbar,https://github.com/coder/coder/pull/19471,2025-08-21T15:05:19Z,2025-08-22T18:24:32Z,12,7,MERGED
+coder,chore: preload inter font,https://github.com/coder/coder/pull/19455,2025-08-20T19:18:17Z,2025-08-25T13:41:16Z,11,2,MERGED
+coder,chore: improve performance of 'GetLatestWorkspaceBuildsByWorkspaceIDs',https://github.com/coder/coder/pull/19452,2025-08-20T17:31:38Z,2025-08-26T14:26:11Z,3,3,MERGED
+coder,feat: show workspace build logs during tasks creation,https://github.com/coder/coder/pull/19413,2025-08-19T15:35:32Z,2025-08-21T18:01:03Z,9,5,MERGED
+coder,feat: show workspace health error alert above agents in WorkspacePage,https://github.com/coder/coder/pull/19400,2025-08-18T20:25:14Z,2025-08-22T00:22:26Z,3,6,MERGED
+coder,chore: improve scroll behavior of DashboardLayout wrapped pages,https://github.com/coder/coder/pull/19396,2025-08-18T17:32:54Z,2025-08-26T18:14:44Z,4,12,MERGED
+coder,fix: avoid error when AI usage is zero,https://github.com/coder/coder/pull/19388,2025-08-18T06:27:27Z,2025-08-20T07:22:42Z,3,4,MERGED
+coder,feat: add filtering options to provisioners list,https://github.com/coder/coder/pull/19378,2025-08-15T20:07:03Z,2025-08-21T20:03:35Z,8,13,MERGED
+coder,feat: filter tasks that are waiting for user input,https://github.com/coder/coder/pull/19377,2025-08-15T17:56:27Z,2025-08-21T18:06:11Z,21,20,MERGED
+coder,feat: keep original token refresh error in external auth,https://github.com/coder/coder/pull/19339,2025-08-13T15:32:57Z,2025-08-14T14:50:32Z,2,5,MERGED
+coder,feat(site): add support for external agents in the UI and extend CodeExample,https://github.com/coder/coder/pull/19288,2025-08-11T15:19:41Z,2025-08-19T09:00:33Z,5,7,MERGED
+coder,"chore: rename `service` -> `coder_service`, remove `agent_id` label",https://github.com/coder/coder/pull/19241,2025-08-07T17:49:36Z,2025-08-07T18:58:39Z,2,3,MERGED
+coder,fix(site): fix render crash when no embedded apps are defined for task,https://github.com/coder/coder/pull/19215,2025-08-07T09:27:39Z,2025-08-07T13:24:23Z,0,1,MERGED
+coder,chore(site): add postgres icon,https://github.com/coder/coder/pull/19210,2025-08-07T02:39:01Z,2025-08-13T14:22:56Z,11,7,MERGED
+coder,chore: add quick filter option for authored templates,https://github.com/coder/coder/pull/19206,2025-08-06T16:48:21Z,2025-08-06T22:26:17Z,0,2,MERGED
+coder,feat: implement rich multi-selector,https://github.com/coder/coder/pull/19201,2025-08-06T13:21:34Z,2025-08-06T21:03:51Z,2,6,MERGED
+coder,feat: coder-attach: add support for external workspaces,https://github.com/coder/coder/pull/19178,2025-08-05T11:07:30Z,2025-08-11T15:25:03Z,41,34,CLOSED
+coder,fix(docs): add missing div to fix formatting,https://github.com/coder/coder/pull/20047,2025-09-30T18:30:10Z,2025-09-30T18:51:16Z,2,1,MERGED
+coder,feat: minor prompt redesign,https://github.com/coder/coder/pull/20045,2025-09-30T18:15:35Z,2025-09-30T21:20:45Z,4,2,MERGED
+coder,feat: add workspace status on tasks,https://github.com/coder/coder/pull/20037,2025-09-30T14:33:00Z,2025-10-01T18:49:52Z,1,6,MERGED
+coder,fix: add heartbeat to keep dynamic params websocket open,https://github.com/coder/coder/pull/20026,2025-09-29T20:52:39Z,2025-10-02T14:32:40Z,0,1,MERGED
+coder,feat(site): add task notifications to user settings,https://github.com/coder/coder/pull/20006,2025-09-29T11:12:30Z,2025-09-30T17:37:25Z,9,5,MERGED
+coder,feat: redesign tasks page to match AI tools,https://github.com/coder/coder/pull/19962,2025-09-25T14:00:25Z,2025-09-26T16:30:44Z,5,5,MERGED
+coder,fix: handle chat app not found,https://github.com/coder/coder/pull/19947,2025-09-24T17:15:04Z,2025-09-26T15:36:46Z,8,11,MERGED
+coder,feat(site): add custom notification settings,https://github.com/coder/coder/pull/19938,2025-09-24T11:54:50Z,2025-09-25T08:48:13Z,1,4,MERGED
+coder,[DNM & DNR] Find and fix a simple coder bug,https://github.com/coder/coder/pull/19932,2025-09-24T07:06:03Z,2025-09-24T07:55:55Z,2,1,CLOSED
+coder,fix: ensure template gallery cards take up full container width,https://github.com/coder/coder/pull/19834,2025-09-16T05:34:38Z,2025-09-28T00:07:31Z,3,6,CLOSED
+coder,fix: introduce dedicated queries for workspaces and workspace agents metrics,https://github.com/coder/coder/pull/19786,2025-09-12T02:20:14Z,2025-10-17T20:40:10Z,10,8,MERGED
+coder,chore(dogfood): add tooltip to jetbrains module,https://github.com/coder/coder/pull/19781,2025-09-11T18:44:34Z,2025-09-23T15:44:04Z,2,4,MERGED
+coder,feat(site): display warnings in tasks page when wildcard is not configured,https://github.com/coder/coder/pull/19780,2025-09-11T15:37:49Z,2025-09-19T13:49:34Z,7,5,MERGED
+coder,docs: update Tasks Template Code,https://github.com/coder/coder/pull/19770,2025-09-10T20:05:17Z,2025-09-16T20:27:58Z,0,6,MERGED
+coder,perf(coderd/database): optimize GetAPIKeysLastUsedAfter,https://github.com/coder/coder/pull/19725,2025-09-08T08:50:40Z,2025-09-08T10:13:12Z,0,1,MERGED
+coder,feat: add default workspace name to Template Embed form,https://github.com/coder/coder/pull/19688,2025-09-03T11:24:26Z,2025-09-08T11:58:24Z,13,8,MERGED
+coder,fix(coderd): add audit log on creating a new session key (#19672),https://github.com/coder/coder/pull/19685,2025-09-03T08:28:07Z,2025-09-03T13:33:37Z,0,1,MERGED
+coder,fix(coderd): add audit log on creating a new session key (#19672),https://github.com/coder/coder/pull/19684,2025-09-03T08:27:54Z,2025-09-03T13:33:46Z,0,1,MERGED
+coder,fix: show popup on successful template build,https://github.com/coder/coder/pull/19674,2025-09-02T12:41:19Z,2025-09-03T07:23:38Z,0,4,MERGED
+coder,fix: show popup on successful template build,https://github.com/coder/coder/pull/19673,2025-09-02T12:36:45Z,2025-09-02T12:40:06Z,1,2,CLOSED
+coder,fix(coderd): add audit log on creating a new session key,https://github.com/coder/coder/pull/19672,2025-09-02T12:28:31Z,2025-09-02T13:21:56Z,1,2,MERGED
+coder,feat(site): display warning messages when wildcard is not configured,https://github.com/coder/coder/pull/19660,2025-09-01T14:15:13Z,2025-09-15T08:26:48Z,17,13,MERGED

@@ -1,0 +1,18 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+nautilus-wallet,chore(web-client): Error color contrast is hard to read,https://github.com/ntls-io/nautilus-wallet/pull/257,2022-05-24T08:27:23Z,2022-05-27T10:23:44Z,4,2,MERGED
+nautilus-wallet,fix(web-client): add close button to pin modal,https://github.com/ntls-io/nautilus-wallet/pull/254,2022-05-23T10:45:52Z,2022-05-24T07:09:23Z,4,2,MERGED
+nautilus-wallet,fix(web-client): fix form validation,https://github.com/ntls-io/nautilus-wallet/pull/239,2022-05-12T07:03:42Z,2022-05-17T08:04:00Z,3,2,CLOSED
+nautilus-wallet,fix(web-client): update refresh and logout buttons to prevent overlap,https://github.com/ntls-io/nautilus-wallet/pull/235,2022-05-11T11:24:46Z,2022-05-12T13:40:37Z,8,12,MERGED
+nautilus-wallet,Mobile Text Overlap #224,https://github.com/ntls-io/nautilus-wallet/pull/234,2022-05-11T11:04:14Z,2022-05-11T11:20:30Z,5,3,CLOSED
+nautilus-wallet,feat(web-client): use ion-intl-tel-input for mobile number input,https://github.com/ntls-io/nautilus-wallet/pull/231,2022-05-10T18:59:29Z,2022-05-17T08:04:39Z,2,5,CLOSED
+nautilus-wallet,feat(web-client): modify XRP trustline user flow,https://github.com/ntls-io/nautilus-wallet/pull/328,2022-07-26T13:56:45Z,2022-07-28T12:21:56Z,3,6,MERGED
+nautilus-wallet,refactor(web-client): show receive address on receive page,https://github.com/ntls-io/nautilus-wallet/pull/446,2022-11-28T07:44:24Z,2022-11-28T10:03:07Z,1,1,MERGED
+nautilus-wallet,fix(web-client): pull payment minor text fixes,https://github.com/ntls-io/nautilus-wallet/pull/491,2022-12-19T09:51:26Z,2022-12-19T11:10:01Z,1,1,MERGED
+nautilus-wallet,feat(web-client): add auto logout,https://github.com/ntls-io/nautilus-wallet/pull/481,2022-12-12T12:13:40Z,2022-12-15T09:23:48Z,3,8,MERGED
+nautilus-wallet,fix(web-client): show opt in message on pull page,https://github.com/ntls-io/nautilus-wallet/pull/475,2022-12-08T08:21:12Z,2022-12-08T08:45:00Z,0,1,MERGED
+nautilus-wallet,refactor(web-client): modify wallet page buttons,https://github.com/ntls-io/nautilus-wallet/pull/474,2022-12-08T07:27:27Z,2022-12-08T08:14:27Z,0,1,MERGED
+nautilus-wallet,fix(web-client): Update Pin Entry text for pull payment.,https://github.com/ntls-io/nautilus-wallet/pull/497,2023-01-03T13:45:07Z,2023-01-05T12:10:41Z,2,2,MERGED
+nautilus-wallet,fix(web-client): Error Message on Wrong address,https://github.com/ntls-io/nautilus-wallet/pull/544,2023-03-27T11:33:02Z,2023-03-28T10:20:45Z,2,2,MERGED
+nautilus-wallet,Fix frontend prompt user to save nickname,https://github.com/ntls-io/nautilus-wallet/pull/555,2023-04-28T12:23:59Z,2023-05-02T16:24:45Z,3,11,MERGED
+nautilus-wallet,refactor(web-client): align remember address,https://github.com/ntls-io/nautilus-wallet/pull/558,2023-05-03T07:37:23Z,2023-05-03T08:43:14Z,2,1,MERGED
+nautilus-wallet,feat(web-client): check & prompt user for update,https://github.com/ntls-io/nautilus-wallet/pull/584,2023-06-06T20:50:46Z,2023-06-07T18:04:11Z,3,2,MERGED

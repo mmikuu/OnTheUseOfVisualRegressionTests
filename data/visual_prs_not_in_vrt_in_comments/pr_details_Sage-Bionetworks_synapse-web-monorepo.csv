@@ -1,0 +1,301 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+synapse-web-monorepo,SWC-6392 - Ability to enroll in 2FA,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/48,2023-02-24T22:00:19Z,2023-03-03T20:59:13Z,5,4,MERGED
+synapse-web-monorepo,SWC-6375 - Add `overflow-wrap: break-word` to the expandable table data expanded state,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/24,2023-02-09T20:17:55Z,2023-02-10T13:36:40Z,2,2,MERGED
+synapse-web-monorepo,PORTALS-2518: Always show filtered facets,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/21,2023-02-09T16:42:30Z,2023-02-09T19:14:08Z,12,2,MERGED
+synapse-web-monorepo,PORTALS-2566: Polish Items for Verification Step 3 (Pledge),https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/110,2023-03-30T21:51:17Z,2023-03-31T19:40:40Z,5,5,MERGED
+synapse-web-monorepo,PORTALS-2558: polish Account Settings page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/103,2023-03-29T21:20:30Z,2023-03-29T22:44:37Z,8,2,MERGED
+synapse-web-monorepo,PORTALS-2565: polish items for certification quiz page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/101,2023-03-27T23:14:08Z,2023-03-29T22:43:35Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-2608: update reset password page design,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/100,2023-03-27T21:14:19Z,2023-03-27T22:54:04Z,4,1,MERGED
+synapse-web-monorepo,PORTALS-2563: polish T&C page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/97,2023-03-24T21:33:34Z,2023-03-27T20:22:18Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2560: polish items for login and registration workflow steps,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/92,2023-03-24T17:14:52Z,2023-03-24T20:38:23Z,5,1,MERGED
+synapse-web-monorepo,PORTALS-2559: polish items for sign in page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/86,2023-03-21T17:07:08Z,2023-03-22T22:53:19Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2562: polish items on email address verified page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/84,2023-03-20T23:11:37Z,2023-03-22T22:51:26Z,0,1,MERGED
+synapse-web-monorepo,Remove comma adding undesirable space after footer,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/76,2023-03-17T14:10:18Z,2023-03-17T16:33:41Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2580 - refactor for synapse-oauth-signin + misc fixes,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/70,2023-03-15T15:13:55Z,2023-03-15T19:10:37Z,5,3,MERGED
+synapse-web-monorepo,SWC-6393 - Add 2FA panel for settings page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/62,2023-03-08T15:39:39Z,2023-03-09T22:12:08Z,7,1,MERGED
+synapse-web-monorepo,SWC-6394 - Add 2FA recovery code generation,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/59,2023-03-07T16:21:19Z,2023-03-08T14:48:36Z,3,1,MERGED
+synapse-web-monorepo,PORTALS-2649,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/171,2023-04-28T17:27:59Z,2023-04-28T18:41:21Z,4,4,MERGED
+synapse-web-monorepo,"PORTALS-2624: CreateAccessTokenModal, OAuthManagement modals, CopyToClipboardInput",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/169,2023-04-27T18:12:02Z,2023-04-28T16:00:05Z,24,4,MERGED
+synapse-web-monorepo,SWC-5637,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/166,2023-04-26T21:51:40Z,2023-04-27T11:51:23Z,3,3,MERGED
+synapse-web-monorepo,PORTALS-2624: remove bootstrap-4-backport class from CreateProjectModal,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/158,2023-04-25T18:03:55Z,2023-04-26T17:23:14Z,5,4,MERGED
+synapse-web-monorepo,PORTALS-2624: remove bootstrap-4-backport class from ProgrammaticInstructionsModal,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/150,2023-04-20T00:46:53Z,2023-04-25T16:51:42Z,10,2,MERGED
+synapse-web-monorepo,PORTALS-2624: remove bootstrap-4-backport from WarningModal,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/149,2023-04-19T20:39:00Z,2023-04-24T19:26:06Z,11,4,MERGED
+synapse-web-monorepo,"SWC-6412, PORTALS-2623, PORTALS-2644, PORTALS-2646 - Data access request flow rewrite",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/144,2023-04-19T15:43:31Z,2023-05-04T15:14:32Z,74,4,MERGED
+synapse-web-monorepo,"SWC-6412 - Input, Dialog component theme changes",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/139,2023-04-18T13:47:12Z,2023-04-18T18:30:44Z,13,4,MERGED
+synapse-web-monorepo,PORTALS-2507: all '-' within cells should be left aligned just like the content,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/138,2023-04-17T23:40:50Z,2023-04-18T15:49:52Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2508: adjust margin to prevent tables from running off edge of screens,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/136,2023-04-17T22:03:24Z,2023-04-18T16:46:25Z,4,1,MERGED
+synapse-web-monorepo,PORTALS-2626,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/130,2023-04-13T21:00:14Z,2023-04-13T21:31:16Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2475: fix Storybook demo of toast without button or link text,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/129,2023-04-12T19:35:17Z,2023-04-14T16:59:26Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-2597: buttons radius and text need to be consistent,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/126,2023-04-11T23:16:37Z,2023-04-14T15:56:02Z,30,6,MERGED
+synapse-web-monorepo,"PORTALS-2614: standardize back button position, color, and hover effect",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/118,2023-04-05T20:16:00Z,2023-04-06T20:52:29Z,11,3,MERGED
+synapse-web-monorepo,PORTALS-2617: remove background fill color in sage pledge icons,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/116,2023-04-04T20:23:51Z,2023-04-04T21:33:08Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2616: border radius on account settings table of contents,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/115,2023-04-04T13:47:30Z,2023-04-04T20:45:30Z,7,3,MERGED
+synapse-web-monorepo,PORTALS-2567: Polish Items for Verification Step 4 (Upload),https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/113,2023-04-03T15:16:58Z,2023-04-04T13:52:21Z,3,5,MERGED
+synapse-web-monorepo,EC-123: append another wiki page to the Data Access route,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/261,2023-05-23T22:18:51Z,2023-05-23T22:23:52Z,0,1,MERGED
+synapse-web-monorepo,trivial fix for 2fa verification code input,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/255,2023-05-22T17:59:21Z,2023-05-22T18:08:47Z,0,1,MERGED
+synapse-web-monorepo,"PORTALS-2624: refactor FullWidthAlert to use MUI components, PORTALS-2661: update MUI theme to align Alert style with SDS",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/253,2023-05-22T16:16:40Z,2023-05-24T15:09:44Z,30,5,MERGED
+synapse-web-monorepo,EC-122,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/251,2023-05-20T01:00:34Z,2023-05-22T16:50:27Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2652 - Integrate with Chromatic,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/241,2023-05-17T14:21:27Z,2023-05-18T19:18:35Z,3,1,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor SubscribersModal and ProfileAvatar to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/237,2023-05-16T18:42:59Z,2023-05-16T20:53:30Z,6,2,MERGED
+synapse-web-monorepo,GenUI-ADO-2621: Extended MUI button to be aware of Synapse context login state,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/232,2023-05-15T16:42:35Z,2023-05-16T19:54:05Z,1,7,MERGED
+synapse-web-monorepo,GenUI-ADO-2627: Data access request updates for Challenge Participants,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/225,2023-05-12T18:20:42Z,2023-05-16T13:37:07Z,7,10,MERGED
+synapse-web-monorepo,PORTALS-2446: create challenge portal with placeholders,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/222,2023-05-11T22:47:46Z,2023-05-12T21:14:43Z,4,4,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor BlockingLoader to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/220,2023-05-11T18:08:14Z,2023-05-12T17:06:01Z,10,2,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor SynapseTable modal view to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/219,2023-05-10T23:44:31Z,2023-05-12T19:53:38Z,6,2,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor ModalDownload to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/216,2023-05-09T21:18:28Z,2023-05-10T15:22:21Z,4,1,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor CreateOAuthClient to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/212,2023-05-09T18:03:37Z,2023-05-11T15:47:20Z,29,3,MERGED
+synapse-web-monorepo,PORTALS-2656: fix secondary color contrast color,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/211,2023-05-09T16:53:24Z,2023-05-09T16:54:41Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-2594 - Replace react-compound-slider with MUI,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/205,2023-05-08T18:40:17Z,2023-05-08T21:44:33Z,5,6,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor FacetNavPanel modal to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/203,2023-05-08T16:46:23Z,2023-05-09T15:23:54Z,4,2,MERGED
+synapse-web-monorepo,SWC-6410 - Support ARs with 2FA in Download Cart,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/201,2023-05-08T13:31:51Z,2023-05-12T18:04:09Z,6,4,MERGED
+synapse-web-monorepo,GenUI-ADO-2618: Stepper component - Challenge Terms and Conditions,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/194,2023-05-05T19:14:24Z,2023-05-09T21:41:22Z,0,13,CLOSED
+synapse-web-monorepo,SWC-6430: add system use notification and integrate into apps,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/190,2023-05-04T20:28:27Z,2023-05-04T21:16:14Z,0,4,MERGED
+synapse-web-monorepo,PORTALS-2624: refactor DownloadLoginModal to use MUI components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/185,2023-05-03T18:44:24Z,2023-05-04T17:21:07Z,6,2,MERGED
+synapse-web-monorepo,"PORTALS-2624: remove bootstrap-4-backport from MarkdownPopover, convert to MUI components",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/183,2023-05-02T22:33:01Z,2023-05-12T19:04:35Z,18,2,MERGED
+synapse-web-monorepo,PORTALS-2600: rebranding as NF Research Tools Central,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/181,2023-05-02T20:50:18Z,2023-05-05T20:49:03Z,4,1,MERGED
+synapse-web-monorepo,Add storybook-addon-designs which allows embedding links to Figma in stories,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/333,2023-06-26T20:17:07Z,2023-06-27T02:23:55Z,3,3,MERGED
+synapse-web-monorepo,SWC-6466: Validation for AccessRequirementDashboard project input,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/310,2023-06-15T14:25:56Z,2023-06-15T17:29:21Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2690 - OrientationBanner for Cohort Builder,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/302,2023-06-13T15:23:28Z,2023-06-14T14:44:27Z,7,4,MERGED
+synapse-web-monorepo,SWC-6432: Show wiki instructions with forms for ManagedACTAccessRequirement,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/280,2023-06-05T21:44:12Z,2023-06-06T19:14:44Z,9,4,MERGED
+synapse-web-monorepo,PORTALS-2671: Add Send To Cavatica confirmation dialog,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/276,2023-06-02T18:45:42Z,2023-06-02T19:54:28Z,0,2,MERGED
+synapse-web-monorepo,"PORTALS-2634, PORTALS-2636 - SDS for FullTextSearch, SqlEditor, Explore alignment fixes",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/395,2023-07-31T19:26:26Z,2023-08-01T21:54:03Z,5,1,MERGED
+synapse-web-monorepo,PORTALS-2742: another try,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/385,2023-07-26T17:54:21Z,2023-07-26T21:04:16Z,1,4,MERGED
+synapse-web-monorepo,PORTALS-2663: add UI to teach users they can reuse their sage account,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/369,2023-07-14T00:41:52Z,2023-07-18T16:44:08Z,27,6,MERGED
+synapse-web-monorepo,[bug fix] Aligned headers in synapse table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/366,2023-07-13T21:33:43Z,2023-07-28T12:58:06Z,4,15,MERGED
+synapse-web-monorepo,"CPO-690: add new module called ""Educational Resources""",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/364,2023-07-12T23:41:36Z,2023-07-13T18:01:27Z,3,4,MERGED
+synapse-web-monorepo,PORTALS-2701: Refactor download confirmation in synapse-react-client,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/347,2023-07-03T14:13:19Z,2023-07-06T12:43:05Z,7,2,MERGED
+synapse-web-monorepo,PORTALS-2734,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/454,2023-08-30T20:52:56Z,2023-09-05T16:58:22Z,0,1,MERGED
+synapse-web-monorepo,"SWC-6510 - Fix ProjectViewCard styling, use MUI",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/451,2023-08-29T18:53:55Z,2023-08-30T19:09:29Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-2638 - FacetNav visual updates,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/401,2023-08-02T18:16:23Z,2023-08-03T20:22:55Z,2,1,MERGED
+synapse-web-monorepo,"PORTALS-2634, PORTALS-2636: TopLevelControls/TotalQueryResults appears to be full width in portals",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/400,2023-08-02T18:02:12Z,2023-08-03T20:23:53Z,2,1,MERGED
+synapse-web-monorepo,"PORTALS-2722 - Fix box shadow, remove dead code",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/397,2023-08-01T18:24:05Z,2023-08-01T21:02:33Z,2,1,MERGED
+synapse-web-monorepo,"PORTALS-2634, PORTALS-2635, PORTALS-2636 - Explore bar redesign",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/396,2023-08-01T16:03:03Z,2023-08-02T18:13:23Z,17,17,MERGED
+synapse-web-monorepo,remove esbuild-plugin-node-polyfill,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/537,2023-10-31T21:00:24Z,2023-10-31T22:48:55Z,1,1,CLOSED
+synapse-web-monorepo,"PORTALS-2513: restyle MarkdownCollapse, move to mui (remove bootstrap)",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/520,2023-10-24T19:12:21Z,2023-10-24T20:11:44Z,0,1,MERGED
+synapse-web-monorepo,SWC-6594 - Fix grid blowout on review submission page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/518,2023-10-24T02:25:15Z,2023-10-24T16:22:22Z,1,1,MERGED
+synapse-web-monorepo,"SWC-6548, PORTALS-2814 - Add JSONArrayEditor",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/510,2023-10-19T16:35:24Z,2023-10-19T22:48:44Z,10,4,MERGED
+synapse-web-monorepo,"PORTALS-2806, add a DOI link if available",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/490,2023-10-02T19:51:53Z,2023-10-03T22:54:52Z,2,1,MERGED
+synapse-web-monorepo,SWC-6607: fix synapse homepage visual issues,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/592,2023-11-30T22:11:50Z,2023-12-01T21:22:26Z,2,1,MERGED
+synapse-web-monorepo,SWC-6612 - Improve datetime input + display,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/589,2023-11-27T16:06:05Z,2023-11-27T19:28:23Z,16,5,MERGED
+synapse-web-monorepo,SWC-6617: add AR type column to AR table in ACT dashboard,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/620,2023-12-22T19:16:02Z,2024-01-02T19:55:06Z,3,1,MERGED
+synapse-web-monorepo,"PORTALS-2768: only show icon, no text in SynapseTable access column",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/681,2024-01-31T22:05:09Z,2024-02-01T21:32:41Z,9,3,MERGED
+synapse-web-monorepo,SWC-6634,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/679,2024-01-31T00:48:24Z,2024-02-01T19:48:25Z,18,10,MERGED
+synapse-web-monorepo,SWC-6660,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/676,2024-01-29T20:03:09Z,2024-01-31T18:28:07Z,9,6,MERGED
+synapse-web-monorepo,PORTALS-2880: increase size of data icons in generic card,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/668,2024-01-24T23:51:22Z,2024-01-29T19:21:55Z,5,4,MERGED
+synapse-web-monorepo,"SWC-6627 - Add WizardChoiceButton, TableTypeSelection, ViewTypeSelection, SqlDefinedTableEditor",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/650,2024-01-11T17:32:18Z,2024-01-11T21:33:38Z,5,3,MERGED
+synapse-web-monorepo,SWC-6638: separate certification and validation badges,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/649,2024-01-11T01:07:44Z,2024-01-11T21:31:08Z,7,3,MERGED
+synapse-web-monorepo,SWC-6627 - Add EntityViewMaskEditor and EntityViewScopeEditor,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/647,2024-01-09T21:02:40Z,2024-01-11T14:50:00Z,6,4,MERGED
+synapse-web-monorepo,SWC-6627 - EntityHeaderTable style updates + small fixes,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/632,2024-01-04T16:34:16Z,2024-01-04T18:36:59Z,12,2,MERGED
+synapse-web-monorepo,SWC-6628: left align ProjectViewCarousel text on home page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/628,2024-01-03T21:11:58Z,2024-01-03T23:25:27Z,0,1,MERGED
+synapse-web-monorepo,make the color palette demo less overwhelming,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/761,2024-02-29T14:37:41Z,2024-03-04T18:45:07Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2940 - Allow accepting a team invitation from ChallengeTeamWizard,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/760,2024-02-29T13:39:28Z,2024-03-04T13:30:37Z,21,1,MERGED
+synapse-web-monorepo,PORTALS-2915: set max width for observation cards and left align View More button,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/752,2024-02-27T20:53:46Z,2024-02-27T22:20:09Z,2,1,MERGED
+synapse-web-monorepo,PORTALS-2893 - Fix vertical alignment of radio buttons in Challenge portal table components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/747,2024-02-26T19:05:10Z,2024-02-27T13:22:44Z,0,1,MERGED
+synapse-web-monorepo,SWC-6541 - Fix issues with UserCardContextMenu,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/702,2024-02-08T16:25:54Z,2024-02-09T20:50:55Z,5,2,MERGED
+synapse-web-monorepo,"PORTALS-2670 - Restyle personal access tokens page/cards to use MUI components, refactor to use `react-query`",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/695,2024-02-07T13:52:17Z,2024-02-07T19:17:59Z,12,3,MERGED
+synapse-web-monorepo,SageAccountWeb - Remove excessive `InputLabel` components,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/693,2024-02-06T19:09:28Z,2024-02-06T22:02:36Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-2916 - Facet plot colors contrast within each plot,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/692,2024-02-06T18:28:48Z,2024-02-06T22:03:21Z,3,1,MERGED
+synapse-web-monorepo,PORTALS-2912 - Add helpConfiguration for table columns,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/691,2024-02-06T17:28:26Z,2024-02-06T22:02:48Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-3014,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/844,2024-03-20T17:59:26Z,2024-03-22T15:43:57Z,15,7,MERGED
+synapse-web-monorepo,PORTALS-2651 - Replace a few Bootstrap tables with custom styling + TanStack React Table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/840,2024-03-20T17:05:45Z,2024-05-08T13:14:50Z,17,5,MERGED
+synapse-web-monorepo,SWC-6702: fix text overflow in name column of EntityFinder,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/818,2024-03-14T18:12:42Z,2024-03-14T21:45:21Z,0,1,MERGED
+synapse-web-monorepo,SWC-6602: Validate ColumnModel maxSize for annotations,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/790,2024-03-07T20:39:59Z,2024-03-11T20:23:14Z,18,5,MERGED
+synapse-web-monorepo,SWC-6730c: add step to set common AR fields,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/899,2024-04-19T23:37:26Z,2024-04-23T16:19:22Z,26,7,MERGED
+synapse-web-monorepo,SWC-6730b: add components for setting fields specific to basic and managed ARs,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/885,2024-04-17T20:53:25Z,2024-04-19T20:30:38Z,35,5,MERGED
+synapse-web-monorepo,SWC-6730a: add WikiMarkdownEditor,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/879,2024-04-15T23:54:20Z,2024-04-17T16:14:32Z,22,4,MERGED
+synapse-web-monorepo,SWC-6753: prevent Available Evaluation Lists from collapsing twice,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/870,2024-04-05T19:42:40Z,2024-04-09T15:59:12Z,4,4,MERGED
+synapse-web-monorepo,PORTALS-3026: update GENIE portal palette,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/859,2024-04-01T16:38:07Z,2024-04-01T17:21:21Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3089 - Show error if param(s) are missing,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/955,2024-05-24T15:52:27Z,2024-05-24T16:15:29Z,3,1,MERGED
+synapse-web-monorepo,SWC-6841 - Show confirmation dialog before deactivating 2FA,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/943,2024-05-15T20:08:41Z,2024-05-15T20:32:53Z,0,1,MERGED
+synapse-web-monorepo,SWC-6836 - enable certification revocation via API,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/942,2024-05-15T19:23:06Z,2024-05-16T01:25:23Z,16,2,MERGED
+synapse-web-monorepo,SWC-6637 - prompt logged in user to sign out when registering,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/935,2024-05-13T19:58:08Z,2024-05-14T13:41:07Z,4,1,MERGED
+synapse-web-monorepo,PORTALS-3073 - do not parse state during OAuth sign in,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/928,2024-05-07T18:58:50Z,2024-05-07T20:22:47Z,2,1,MERGED
+synapse-web-monorepo,SWC-6827,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/924,2024-05-06T18:46:16Z,2024-05-06T19:58:17Z,0,4,MERGED
+synapse-web-monorepo,SWC-6737,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/923,2024-05-06T17:34:19Z,2024-05-06T21:29:15Z,19,2,MERGED
+synapse-web-monorepo,PORTALS-3175,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1033,2024-06-26T16:55:15Z,2024-06-26T17:35:24Z,0,1,MERGED
+synapse-web-monorepo,SWC-6876,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1024,2024-06-19T21:17:36Z,2024-06-20T22:19:53Z,19,3,MERGED
+synapse-web-monorepo,CPO-943: Update Grant card + details page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/998,2024-06-11T00:41:15Z,2024-06-11T19:52:22Z,2,2,MERGED
+synapse-web-monorepo,CPO-fix: configure `doi` column as a link,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1100,2024-07-23T21:52:00Z,2024-07-24T11:52:12Z,0,1,MERGED
+synapse-web-monorepo,CPO-1271: Link to listed educational resources,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1089,2024-07-22T17:15:30Z,2024-07-23T00:57:27Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3021 - Fix error handling & style issue in SynapseFormWrapper,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1053,2024-07-05T18:55:10Z,2024-07-08T20:31:47Z,3,1,MERGED
+synapse-web-monorepo,SWC-6763: fix mobile experience,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1162,2024-08-28T19:34:11Z,2024-08-28T20:12:07Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3242,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1238,2024-09-25T23:28:06Z,2024-09-26T17:26:09Z,0,1,MERGED
+synapse-web-monorepo,SWC-7087: add Synapse Plans Page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1232,2024-09-23T23:00:50Z,2024-09-24T15:59:05Z,0,5,MERGED
+synapse-web-monorepo,SWC-6923 - Fix formatting of validation rejection reasons,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1220,2024-09-20T16:13:35Z,2024-09-20T16:29:27Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3246,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1199,2024-09-13T18:34:49Z,2024-09-13T20:19:02Z,0,3,MERGED
+synapse-web-monorepo,only show the Synapse specific dialog (refering to Data) if redirecti…,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1325,2024-10-28T22:00:56Z,2024-10-28T23:05:28Z,0,1,MERGED
+synapse-web-monorepo,"PORTALS-3269: staging only: ""submit an observation"" at bottom of tool detail pages needs changing ",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1307,2024-10-22T17:55:35Z,2024-10-30T16:37:09Z,2,4,MERGED
+synapse-web-monorepo,"PORTALS-3267: Investigator, Development Publication, and Funding Agency should all be subhearders of the TOOL ORIGIN header",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1303,2024-10-21T18:25:58Z,2024-10-22T22:03:43Z,0,5,MERGED
+synapse-web-monorepo,PORTALS-3277: vertically center text in homepage buttons,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1283,2024-10-16T17:44:57Z,2024-10-17T19:51:47Z,0,6,MERGED
+synapse-web-monorepo,Portals-3265: Search bar on tools database homepage is undersized and difficult to see,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1279,2024-10-15T00:10:33Z,2024-10-15T23:07:35Z,5,6,MERGED
+synapse-web-monorepo,SWC-7114: make the charts real,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1277,2024-10-14T22:32:42Z,2024-10-15T15:37:06Z,3,2,MERGED
+synapse-web-monorepo,SWC-7137 - ResearchProjectForm improvements,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1408,2024-11-25T20:29:11Z,2024-11-25T21:42:35Z,4,3,MERGED
+synapse-web-monorepo,PORTALS-3304: New What We Do Component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1405,2024-11-22T21:15:54Z,2024-12-04T19:30:11Z,9,20,MERGED
+synapse-web-monorepo,PORTALS-3306: New Publications Component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1400,2024-11-21T00:37:19Z,2024-11-26T23:39:41Z,17,15,MERGED
+synapse-web-monorepo,SWC-7064 - Entity Upload: add Link to URL tab,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1377,2024-11-14T16:34:13Z,2024-11-14T18:31:29Z,3,2,MERGED
+synapse-web-monorepo,PORTALS-3278: fix uneven spacing in metadata fields on cards,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1346,2024-11-01T21:24:58Z,2024-11-07T20:07:27Z,0,4,MERGED
+synapse-web-monorepo,SWC-7170: SRC UserCard updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1475,2024-12-26T20:10:31Z,2025-01-02T23:09:25Z,1,3,MERGED
+synapse-web-monorepo,"PORTALS-3363: ""Access"" column heading not showing",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1472,2024-12-18T19:49:25Z,2025-01-02T19:10:24Z,4,6,MERGED
+synapse-web-monorepo,Links to Titles on RecentPublicationsGrid Component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1471,2024-12-18T00:53:56Z,2025-01-03T00:16:01Z,5,7,MERGED
+synapse-web-monorepo,SWC-7187: SRC CreatedByModifiedBy updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1470,2024-12-18T00:51:20Z,2024-12-20T20:26:35Z,1,2,MERGED
+synapse-web-monorepo,SWC-7172: SRC UserProfileLinks updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1468,2024-12-17T19:14:05Z,2024-12-17T21:33:46Z,1,2,MERGED
+synapse-web-monorepo,SWC-7169: SRC ConfirmationDialog updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1465,2024-12-16T20:00:36Z,2024-12-16T23:18:08Z,0,6,MERGED
+synapse-web-monorepo,PORTALS-3360: New Publications Component V2,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1456,2024-12-10T07:50:23Z,2024-12-12T22:02:47Z,16,15,MERGED
+synapse-web-monorepo,SWC-7164: SRC FullWidthAlert updates,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1448,2024-12-06T17:47:15Z,2024-12-12T17:48:16Z,6,7,MERGED
+synapse-web-monorepo,PORTALS-3312: New Portal feature highlights component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1437,2024-12-04T22:48:52Z,2024-12-13T22:39:47Z,10,17,MERGED
+synapse-web-monorepo,"PORTALS-3396: New Destination Pages for ""What We Do""",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1522,2025-01-27T21:18:41Z,2025-01-28T17:40:15Z,4,1,MERGED
+synapse-web-monorepo,SWC-7178: SageAccountWeb: LeftRightPanel left panel updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1521,2025-01-27T21:12:02Z,2025-01-28T17:40:13Z,0,3,MERGED
+synapse-web-monorepo,SWC-7228,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1511,2025-01-22T21:15:19Z,2025-01-23T18:52:00Z,11,3,MERGED
+synapse-web-monorepo,"PORTALS-3383: New ""Our Partners"" component",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1510,2025-01-22T20:05:05Z,2025-01-24T17:08:10Z,6,12,MERGED
+synapse-web-monorepo,PORTALS-3303: New header component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1504,2025-01-17T20:47:47Z,2025-01-22T00:04:58Z,10,16,MERGED
+synapse-web-monorepo,SWC-7186: SRC EntityPageTitleBar updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1503,2025-01-16T18:41:52Z,2025-01-17T18:48:23Z,3,7,MERGED
+synapse-web-monorepo,PORTALS-3312 (followup): add a fade and slide to portal feature highlight image,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1502,2025-01-15T20:41:44Z,2025-01-15T22:04:35Z,1,2,MERGED
+synapse-web-monorepo,SWC-7225,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1501,2025-01-15T19:06:42Z,2025-01-15T19:59:14Z,1,1,MERGED
+synapse-web-monorepo,FeaturedResearch Component Update: Removing Tags and Affiliation,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1499,2025-01-13T23:33:31Z,2025-01-14T18:52:39Z,0,1,MERGED
+synapse-web-monorepo,SWC-7221: SRC UserCards don't stretch for 2-column grid layout on some devices,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1498,2025-01-13T17:58:07Z,2025-01-14T17:36:22Z,0,3,MERGED
+synapse-web-monorepo,PORTALS-3373: Unlinked prototype of Portal FTS search in CCKP,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1496,2025-01-10T21:04:07Z,2025-01-13T18:17:00Z,11,13,MERGED
+synapse-web-monorepo,PORTALS-3177: Minor improvements to UI of Explore Slats in Portals,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1490,2025-01-09T01:00:16Z,2025-03-08T00:54:12Z,0,4,CLOSED
+synapse-web-monorepo,"PORTALS-3305: New Featured Research (""What's New"") component",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1489,2025-01-08T21:00:30Z,2025-01-10T17:53:20Z,11,11,MERGED
+synapse-web-monorepo,PORTALS-2795 - Replace react-base-table usage with TanStack table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1486,2025-01-07T14:32:17Z,2025-01-09T14:45:00Z,48,7,MERGED
+synapse-web-monorepo,PORTALS-3441: update copy for ELITE portal cohort builder,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1599,2025-02-25T22:38:14Z,2025-02-25T23:00:17Z,0,1,MERGED
+synapse-web-monorepo,IT-3849: show a warning iff the source table is not found on the stac…,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1597,2025-02-25T20:43:53Z,2025-02-25T21:40:51Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-3376: [CCKP Homepage_V1] New Portal home page search component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1593,2025-02-24T18:15:40Z,2025-02-27T00:25:26Z,2,5,MERGED
+synapse-web-monorepo,SWC-7192: SRC ForumSearch updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1583,2025-02-19T00:57:50Z,2025-02-19T17:35:13Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-3390: Fix missing radio buttons,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1581,2025-02-18T19:15:07Z,2025-02-19T18:37:40Z,2,4,MERGED
+synapse-web-monorepo,PORTALS-3426,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1579,2025-02-18T15:29:15Z,2025-02-18T18:21:02Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3423,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1576,2025-02-17T17:28:57Z,2025-02-18T14:21:19Z,10,4,MERGED
+synapse-web-monorepo,SWC-7180: SageAccountWeb: PersonalAccessTokensPage updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1572,2025-02-14T00:58:43Z,2025-02-14T17:27:03Z,0,1,MERGED
+synapse-web-monorepo,SWC-7179: SageAccountWeb: TwoFactorEnrollmentForm updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1571,2025-02-14T00:20:11Z,2025-02-14T17:58:34Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3417: (Mobile view) Adjust placement of 'Featured Research' heading,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1569,2025-02-13T20:28:25Z,2025-02-14T18:24:52Z,2,6,MERGED
+synapse-web-monorepo,PORTALS-3405: Consistent styling and mobile responsiveness review,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1564,2025-02-12T04:28:28Z,2025-02-13T01:19:21Z,7,14,MERGED
+synapse-web-monorepo,SWC-7241,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1563,2025-02-11T21:30:00Z,2025-02-12T13:28:54Z,3,1,MERGED
+synapse-web-monorepo,PORTALS-3399: add video animation to the background ,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1558,2025-02-06T21:58:38Z,2025-02-06T22:51:00Z,0,2,MERGED
+synapse-web-monorepo,"PORTALS-3209: ""Cite As"" button for cards",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1552,2025-02-05T00:30:11Z,2025-02-11T00:57:44Z,35,20,MERGED
+synapse-web-monorepo,PORTALS-3376: small styling updates for HeaderSearchBox.tsx,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1607,2025-02-28T20:03:42Z,2025-02-28T22:05:07Z,1,1,MERGED
+synapse-web-monorepo,SWC-7182: SageAccountWeb: LoginPage updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1606,2025-02-28T17:24:47Z,2025-02-28T20:13:27Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3441: update copy for ELITE portal cohort builder,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1599,2025-02-25T22:38:14Z,2025-02-25T23:00:17Z,0,1,MERGED
+synapse-web-monorepo,IT-3849: show a warning iff the source table is not found on the stac…,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1597,2025-02-25T20:43:53Z,2025-02-25T21:40:51Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-3376: [CCKP Homepage_V1] New Portal home page search component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1593,2025-02-24T18:15:40Z,2025-02-27T00:25:26Z,2,5,MERGED
+synapse-web-monorepo,SWC-7192: SRC ForumSearch updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1583,2025-02-19T00:57:50Z,2025-02-19T17:35:13Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-3390: Fix missing radio buttons,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1581,2025-02-18T19:15:07Z,2025-02-19T18:37:40Z,2,4,MERGED
+synapse-web-monorepo,PORTALS-3426,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1579,2025-02-18T15:29:15Z,2025-02-18T18:21:02Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3423,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1576,2025-02-17T17:28:57Z,2025-02-18T14:21:19Z,10,4,MERGED
+synapse-web-monorepo,SWC-7180: SageAccountWeb: PersonalAccessTokensPage updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1572,2025-02-14T00:58:43Z,2025-02-14T17:27:03Z,0,1,MERGED
+synapse-web-monorepo,SWC-7179: SageAccountWeb: TwoFactorEnrollmentForm updates on mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1571,2025-02-14T00:20:11Z,2025-02-14T17:58:34Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3417: (Mobile view) Adjust placement of 'Featured Research' heading,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1569,2025-02-13T20:28:25Z,2025-02-14T18:24:52Z,2,6,MERGED
+synapse-web-monorepo,PORTALS-3405: Consistent styling and mobile responsiveness review,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1564,2025-02-12T04:28:28Z,2025-02-13T01:19:21Z,7,14,MERGED
+synapse-web-monorepo,SWC-7241,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1563,2025-02-11T21:30:00Z,2025-02-12T13:28:54Z,3,1,MERGED
+synapse-web-monorepo,PORTALS-3399: add video animation to the background ,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1558,2025-02-06T21:58:38Z,2025-02-06T22:51:00Z,0,2,MERGED
+synapse-web-monorepo,"PORTALS-3209: ""Cite As"" button for cards",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1552,2025-02-05T00:30:11Z,2025-02-11T00:57:44Z,35,20,MERGED
+synapse-web-monorepo,SWC-7182-V2: SageAccountWeb: LoginPage Xs Screen Update,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1676,2025-03-28T04:34:35Z,2025-03-28T19:29:04Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3481: Standards Explorer Home Page: Contribute to the Registry,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1675,2025-03-28T03:48:43Z,2025-03-28T23:33:10Z,0,4,MERGED
+synapse-web-monorepo,CCKP Search Role Mapping Update,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1664,2025-03-24T20:50:11Z,2025-03-25T00:17:23Z,0,1,MERGED
+synapse-web-monorepo,CTASection Component Update: Fix Black Blobs on Firefox,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1662,2025-03-24T20:04:06Z,2025-03-24T22:42:52Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3466: ELITE Portal: Newsletter signup slat on Home Page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1653,2025-03-19T21:31:56Z,2025-03-20T23:01:45Z,2,5,MERGED
+synapse-web-monorepo,"PORTALS-3432: Standards Explorer: Standalone component to surface key/value data, similar to CardFooter",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1649,2025-03-18T17:38:18Z,2025-03-21T15:48:26Z,20,11,MERGED
+synapse-web-monorepo,PORTALS-3474: Add CiteAs button to publications on NF Data Portal,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1637,2025-03-13T17:32:49Z,2025-03-13T23:45:56Z,0,2,MERGED
+synapse-web-monorepo,SWC-7269,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1632,2025-03-11T20:07:25Z,2025-03-11T22:31:34Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3432: [CCKP Homepage_V1] Select a role dropdown for new portal home page search component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1628,2025-03-07T22:27:09Z,2025-03-13T22:52:49Z,10,12,MERGED
+synapse-web-monorepo,PORTALS-3388: [CCKP Homepage_V1]: Hard coded conditional secondary label value,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1621,2025-03-06T19:26:15Z,2025-03-12T17:14:51Z,4,7,MERGED
+synapse-web-monorepo,PORTALS-3385: [CCKP Homepage_V1] Add icons to CCKP cards for data types,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1620,2025-03-05T22:43:00Z,2025-03-06T21:18:05Z,2,6,MERGED
+synapse-web-monorepo,SWC-7265: SRC DiscussionThread mobile,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1616,2025-03-05T17:41:02Z,2025-03-05T19:12:54Z,1,3,MERGED
+synapse-web-monorepo,Portals 3411 header card,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1612,2025-03-03T19:32:30Z,2025-04-04T21:20:28Z,13,34,MERGED
+synapse-web-monorepo,PORTALS-3538: Elite portal links to external site,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1825,2025-04-30T23:47:44Z,2025-05-06T18:05:45Z,4,11,MERGED
+synapse-web-monorepo,PORTALS-3562: AMP-ALS Update Publishing Requirements Slat,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1824,2025-04-30T19:42:09Z,2025-05-01T19:50:23Z,0,1,MERGED
+synapse-web-monorepo,SWC-7315: Fix missing 'moderator' tag on Discussion Board,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1823,2025-04-30T16:48:18Z,2025-04-30T18:32:33Z,2,3,MERGED
+synapse-web-monorepo,PORTALS-3560 Add config for dataType buttons on dataset cards.,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1820,2025-04-29T22:06:18Z,2025-04-29T22:32:21Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3563: AMP-ALS: Upset Plot,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1815,2025-04-28T19:34:50Z,2025-05-01T23:14:12Z,12,15,MERGED
+synapse-web-monorepo,Decouple card UI for case where we don't want to use a table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1803,2025-04-25T17:11:33Z,2025-04-28T15:08:52Z,11,4,MERGED
+synapse-web-monorepo,PORTALS-3549 - Add DOI to portal cards,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1794,2025-04-24T14:09:32Z,2025-05-02T15:02:32Z,11,5,MERGED
+synapse-web-monorepo,AMP ALS: Center Our ALS Resources Content on XL screens,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1788,2025-04-23T18:44:20Z,2025-04-23T20:51:32Z,0,1,MERGED
+synapse-web-monorepo,"SWC-7232, SWC-7245",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1779,2025-04-22T18:04:14Z,2025-04-23T12:59:42Z,27,2,MERGED
+synapse-web-monorepo,"CCKP: Remove ""Data Available"" text in icon tooltip for explore pages",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1774,2025-04-21T20:32:28Z,2025-04-21T23:21:30Z,0,1,MERGED
+synapse-web-monorepo,AMP-ALS: Goals Update,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1772,2025-04-21T18:55:24Z,2025-04-22T00:02:28Z,2,6,MERGED
+synapse-web-monorepo,SWC-6895 - Use ROR for suggestions for UserProfile.company,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1760,2025-04-16T19:47:14Z,2025-04-18T20:41:12Z,8,3,MERGED
+synapse-web-monorepo,PORTALS-3451: AMP ALS: Access column in Explore Files table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1759,2025-04-16T19:33:52Z,2025-04-18T22:53:04Z,24,19,MERGED
+synapse-web-monorepo,PORTALS-3527: AMP-ALS: Publishing Requirements Slat,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1753,2025-04-15T19:00:28Z,2025-04-22T22:47:32Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-3547,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1748,2025-04-14T23:25:37Z,2025-04-15T13:35:37Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-3446: AMP-ALS How to Access Data component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1747,2025-04-14T23:18:55Z,2025-04-23T00:28:41Z,0,7,MERGED
+synapse-web-monorepo,PORTALS-3445: AMP-ALS Goals v3 component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1736,2025-04-11T19:55:15Z,2025-04-12T00:09:03Z,3,7,MERGED
+synapse-web-monorepo,"Standards Registry: Katie suggested using ""relevantOrgName"" (organizations) rather than responsibleOrgName",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1735,2025-04-11T17:15:44Z,2025-04-11T17:16:03Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3448: AMP-ALS - More Resources component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1729,2025-04-09T19:03:13Z,2025-04-10T19:47:07Z,13,10,MERGED
+synapse-web-monorepo,PORTALS-3407 - Add CreateOrUpdateDoiModal,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1727,2025-04-09T16:43:14Z,2025-04-10T17:06:29Z,16,6,MERGED
+synapse-web-monorepo,PORTALS-3526: AMP-ALS: ALLALS Slat,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1718,2025-04-08T17:14:19Z,2025-04-08T23:02:33Z,2,7,MERGED
+synapse-web-monorepo,PORTALS-3385-V2: Add icons to CCKP cards for data types,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1715,2025-04-07T23:01:03Z,2025-04-08T18:16:58Z,0,9,MERGED
+synapse-web-monorepo,PORTALS-3489,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1704,2025-04-03T21:38:23Z,2025-04-07T19:09:28Z,3,7,MERGED
+synapse-web-monorepo,PORTALS-3497: add educational resources item,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1703,2025-04-03T19:36:24Z,2025-04-04T16:30:25Z,1,3,MERGED
+synapse-web-monorepo,"CCKP: include citation for publications, add citation boilerplate texts",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1701,2025-04-03T18:22:40Z,2025-04-04T01:55:00Z,1,2,MERGED
+synapse-web-monorepo,Small styling tweaks and include DiscussionThread component in SynapseComponents,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1696,2025-04-01T22:54:46Z,2025-04-02T22:27:34Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-2705: Add accessibility addon to Storybook,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1920,2025-05-30T23:19:48Z,2025-06-02T18:09:35Z,2,1,MERGED
+synapse-web-monorepo,PORTALS-3607: Update STOP-AD Portal to use new logo,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1918,2025-05-30T18:50:37Z,2025-05-30T21:25:13Z,0,1,MERGED
+synapse-web-monorepo,Fix minor UI bug with assigned reviewer display,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1915,2025-05-30T15:22:54Z,2025-05-30T16:53:44Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3613,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1914,2025-05-30T14:19:57Z,2025-05-30T20:14:27Z,1,2,MERGED
+synapse-web-monorepo,SWC-6874: Edit Annotations Modal/Flow ,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1910,2025-05-28T21:32:30Z,2025-05-29T22:30:49Z,12,16,MERGED
+synapse-web-monorepo,PORTALS-3617: Add Cite As button to ADKP publications,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1906,2025-05-28T00:06:27Z,2025-05-28T23:51:00Z,0,1,MERGED
+synapse-web-monorepo,SWC-7230 - Improvements in forum components for e2e,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1904,2025-05-27T16:45:05Z,2025-05-28T14:26:51Z,13,2,MERGED
+synapse-web-monorepo,SWC-7338: initial checkin,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1896,2025-05-22T20:40:58Z,2025-05-23T16:09:17Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3470: Use package.json `engines` to suggest node/pnpm versions,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1895,2025-05-21T23:27:52Z,2025-05-22T23:02:59Z,0,3,MERGED
+synapse-web-monorepo,PORTALS-3188 - Evaluation Round Info tooltip,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1892,2025-05-21T14:22:52Z,2025-05-21T19:45:54Z,5,3,MERGED
+synapse-web-monorepo,"PORTALS-3598: Add ""cite as"" button to dataset cards on NF Portal",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1882,2025-05-19T19:45:19Z,2025-05-20T18:02:49Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3556 - Croissant button on portals cards,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1879,2025-05-19T18:21:53Z,2025-05-20T16:21:53Z,9,2,MERGED
+synapse-web-monorepo,PORTALS-3599: add alpha version alert,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1874,2025-05-16T21:07:04Z,2025-05-16T21:28:11Z,0,1,MERGED
+synapse-web-monorepo,SWC-7327: Fix 'link to thread' button in Discussions,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1864,2025-05-13T18:28:08Z,2025-05-20T22:57:53Z,14,10,MERGED
+synapse-web-monorepo,[fix] Update the SQL operator for Related Grants,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1862,2025-05-09T23:54:30Z,2025-05-13T15:07:04Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-3133: Reset password descriptive content should be body copy style ,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1847,2025-05-08T16:56:06Z,2025-05-15T19:58:44Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-3433: OneSage settings page: Background changes on small screens,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1844,2025-05-07T18:05:33Z,2025-05-07T20:38:45Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3233: stopadportal: Increase usable screen area for form input,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1837,2025-05-06T00:10:07Z,2025-05-07T17:26:24Z,3,8,MERGED
+synapse-web-monorepo,PORTALS-3245: stopadportal: Text wrapping oddly on Full Application > Submit screen,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1834,2025-05-02T17:04:42Z,2025-05-05T17:07:36Z,0,1,MERGED
+synapse-web-monorepo,SWC-7321 - Fix whitespace issue,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1829,2025-05-02T12:18:00Z,2025-05-02T20:02:52Z,1,1,MERGED
+synapse-web-monorepo,PORTALS-3657: NF Data Portal: Text wrapping issue in study card secondary labels,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2004,2025-06-27T19:30:44Z,2025-06-27T21:50:17Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3634: Toast shown when copying citation has text that is too large,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2001,2025-06-26T21:09:58Z,2025-06-27T16:44:18Z,0,1,MERGED
+synapse-web-monorepo,SWC-7384,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2000,2025-06-26T15:42:04Z,2025-06-26T17:24:30Z,9,4,MERGED
+synapse-web-monorepo,PORTALS-3646: For CCKP - create a Sustainability Scorecard component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1997,2025-06-25T17:45:58Z,2025-07-09T23:37:41Z,22,25,MERGED
+synapse-web-monorepo,SWC-6748 - Support AR Exempt state in submission UI,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1979,2025-06-19T15:14:00Z,2025-06-19T17:12:47Z,17,2,MERGED
+synapse-web-monorepo,SWC-7358: Add Cite As button in Synapse Entity Page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1967,2025-06-13T20:40:26Z,2025-06-19T19:39:35Z,45,28,MERGED
+synapse-web-monorepo,SWC-7360,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1943,2025-06-06T21:22:13Z,2025-06-09T15:45:34Z,5,29,CLOSED
+synapse-web-monorepo,SWC-7337: File UI: duplicate 'storage location',https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1928,2025-06-05T00:38:46Z,2025-06-17T22:50:12Z,3,5,MERGED
+synapse-web-monorepo,"SWC-7256: ""We partner with scientific leaders"" needs more space at the top",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/1923,2025-06-03T00:07:00Z,2025-06-04T16:38:40Z,0,2,MERGED
+synapse-web-monorepo,PORTALS-3669 - Custom access column for ALS portal,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2077,2025-07-29T14:38:20Z,2025-07-29T20:07:33Z,2,2,MERGED
+synapse-web-monorepo,PORTALS-3705: Portals FileEntity Page: Make Entire View FileEntity on Synapse.org component clickable,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2068,2025-07-25T19:47:24Z,2025-07-25T22:42:47Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3702: Portals FileEntity Page: Cleanup Properties and Provenance Node Click,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2063,2025-07-24T20:55:23Z,2025-07-24T23:01:50Z,2,3,MERGED
+synapse-web-monorepo,PORTALS-3652: Portals FileEntity Page: File properties component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2055,2025-07-22T17:01:54Z,2025-07-23T18:06:56Z,4,9,MERGED
+synapse-web-monorepo,B2AI catchup with PR 363,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2052,2025-07-21T20:16:49Z,2025-08-04T15:12:18Z,0,22,MERGED
+synapse-web-monorepo,PORTALS-3697,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2045,2025-07-18T01:31:20Z,2025-07-21T18:49:30Z,3,1,MERGED
+synapse-web-monorepo,PORTALS-3677: Sustainability Scorecard Component Follow-Up,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2043,2025-07-17T19:25:16Z,2025-07-21T19:20:20Z,8,14,MERGED
+synapse-web-monorepo,PORTALS-3693,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2040,2025-07-16T20:28:12Z,2025-07-16T21:46:31Z,0,4,MERGED
+synapse-web-monorepo,PORTALS-3653: Portals FileEntity Page: View FileEntity on Synapse.org component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2037,2025-07-15T00:12:23Z,2025-07-15T18:01:04Z,3,4,MERGED
+synapse-web-monorepo,PORTALS-3412 - DOI tombstone for Portals,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2036,2025-07-14T16:53:13Z,2025-07-15T17:20:06Z,12,3,MERGED
+synapse-web-monorepo,SWC-7355,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2027,2025-07-10T20:26:59Z,2025-07-11T16:52:45Z,9,3,MERGED
+synapse-web-monorepo,PORTALS-3647: add Pluto Dev to NF for testing,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2025,2025-07-09T19:16:44Z,2025-07-09T20:52:36Z,2,5,MERGED
+synapse-web-monorepo,PORTALS-3651: Portals FileEntity Page: Header card,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2024,2025-07-08T19:18:01Z,2025-07-17T17:14:32Z,10,12,MERGED
+synapse-web-monorepo,PORTALS-3638,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2018,2025-07-03T13:51:20Z,2025-07-09T20:29:25Z,14,10,MERGED
+synapse-web-monorepo,PORTALS-3650: Portals FileEntity Page: New shared route for all portals,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2015,2025-07-02T19:54:35Z,2025-07-03T23:55:54Z,9,6,MERGED
+synapse-web-monorepo,PORTALS-3762 - Acknowledgements page,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2160,2025-08-29T21:28:02Z,2025-09-02T17:54:28Z,2,5,MERGED
+synapse-web-monorepo,PORTALS-3776,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2156,2025-08-28T21:18:08Z,2025-08-28T21:19:03Z,0,1,MERGED
+synapse-web-monorepo,SWC-7443: Undo in data grid,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2154,2025-08-28T19:18:27Z,2025-09-05T00:09:24Z,30,27,MERGED
+synapse-web-monorepo,SWC-7450,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2153,2025-08-28T17:54:56Z,2025-08-28T19:19:43Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3746: Flaky test in synapse-react-client,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2133,2025-08-21T22:20:09Z,2025-08-22T14:25:42Z,1,1,MERGED
+synapse-web-monorepo,SWC-7409 - Display validation messages in grid,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2124,2025-08-20T19:02:12Z,2025-08-26T12:25:30Z,20,23,MERGED
+synapse-web-monorepo,"fix amp als dataset detail page - add icon, add keywords, and link to…",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2112,2025-08-19T17:12:11Z,2025-08-19T17:27:04Z,1,2,MERGED
+synapse-web-monorepo,PORTALS-3711: Explore custom cell renderers and MUI autocomplete for DataGrid,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2107,2025-08-16T03:33:08Z,2025-08-18T23:55:32Z,3,9,MERGED
+synapse-web-monorepo,[fix] Remove `nihReporterLink` from grant card,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2100,2025-08-14T18:16:50Z,2025-08-15T17:10:44Z,0,1,MERGED
+synapse-web-monorepo,SWC-7424,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2098,2025-08-13T18:11:32Z,2025-08-13T19:51:30Z,0,1,MERGED
+synapse-web-monorepo,"PORTALS-3727: show Synapse Project link, and update label",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2097,2025-08-12T23:15:29Z,2025-08-13T19:51:35Z,4,2,MERGED
+synapse-web-monorepo,PORTALS-3709: Create a Storybook for a Synapse Grid,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2087,2025-08-01T18:47:58Z,2025-08-15T02:25:01Z,3,11,MERGED
+synapse-web-monorepo,Quick style pass of the Data Grid buttons & chat,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2242,2025-09-30T16:48:49Z,2025-09-30T18:02:52Z,7,1,MERGED
+synapse-web-monorepo,PORTALS-3743: Prevent text content from showing behind title bar and input box when SynapseChat is inserted into the draggable dialog box component,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2224,2025-09-22T18:18:05Z,2025-09-24T18:24:28Z,3,7,MERGED
+synapse-web-monorepo,SWC-7473: Add multi-select columns to grid,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2222,2025-09-22T17:05:26Z,2025-09-30T19:25:26Z,46,52,MERGED
+synapse-web-monorepo,SWC-7468 - Metadata task table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2219,2025-09-22T13:38:58Z,2025-09-24T19:24:55Z,5,8,MERGED
+synapse-web-monorepo,SWC-7452: UI for grid agent session,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2208,2025-09-17T00:38:21Z,2025-09-19T18:27:32Z,12,15,MERGED
+synapse-web-monorepo,PORTALS-3744: Update SynapseChat layout when it is rendered in the draggable dialog component ,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2204,2025-09-15T19:53:57Z,2025-09-16T17:11:05Z,0,1,MERGED
+synapse-web-monorepo,SWC-7470,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2202,2025-09-12T22:12:29Z,2025-09-15T17:09:52Z,5,6,MERGED
+synapse-web-monorepo,PORTALS-3811,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2198,2025-09-11T21:36:23Z,2025-09-12T20:08:39Z,0,1,MERGED
+synapse-web-monorepo,SWC-7457 - allow filtering to view submissions with no reviewer,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2197,2025-09-11T20:28:13Z,2025-09-11T21:10:46Z,1,1,MERGED
+synapse-web-monorepo,AMPALS-59: update WP rss feed URL,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2188,2025-09-09T20:29:05Z,2025-09-09T22:04:37Z,0,1,MERGED
+synapse-web-monorepo,SWC-7451: Redo in data grid,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2184,2025-09-08T23:33:09Z,2025-09-09T19:57:05Z,8,4,MERGED
+synapse-web-monorepo,B2ai issue 377 trying to remove empty sections in org detail,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2183,2025-09-08T14:55:01Z,2025-10-03T20:33:08Z,11,23,MERGED
+synapse-web-monorepo,SWC-7295,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2182,2025-09-06T00:24:46Z,2025-09-08T17:58:59Z,2,13,MERGED
+synapse-web-monorepo,Changed sections to Relevant Standards and Governed Standards,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2175,2025-09-04T13:58:02Z,2025-09-04T14:09:37Z,0,1,MERGED
+synapse-web-monorepo,PORTALS-3764,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2167,2025-09-03T18:13:26Z,2025-09-04T19:57:42Z,6,12,MERGED
+synapse-web-monorepo,"PORTALS-3778, PORTALS-3763",https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2165,2025-09-02T20:14:49Z,2025-09-03T15:55:29Z,3,8,MERGED
+synapse-web-monorepo,PORTALS-3778,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2163,2025-09-02T18:13:35Z,2025-09-02T20:15:01Z,1,4,CLOSED

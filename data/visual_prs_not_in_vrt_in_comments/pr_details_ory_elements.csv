@@ -1,0 +1,20 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+elements,fix: checkbox helper text and label,https://github.com/ory/elements/pull/20,2022-10-12T09:13:01Z,2022-10-12T09:22:07Z,0,1,MERGED
+elements,fix: respect classname in card components,https://github.com/ory/elements/pull/49,2022-11-13T04:37:13Z,2022-11-14T11:47:50Z,1,1,MERGED
+elements,fix: hr and img tags shouldn't break with global css overrides,https://github.com/ory/elements/pull/102,2023-03-15T13:27:39Z,2023-03-16T09:33:06Z,0,2,MERGED
+elements,Fix signup message url check,https://github.com/ory/elements/pull/108,2023-04-15T11:56:30Z,2023-06-26T10:29:26Z,2,3,CLOSED
+elements,chore: make error card wider and fix display logic,https://github.com/ory/elements/pull/126,2023-08-14T15:55:56Z,2023-08-22T11:27:13Z,3,2,MERGED
+elements,fix: oidc should show pre-filled traits and missing traits,https://github.com/ory/elements/pull/123,2023-08-09T17:08:50Z,2023-08-10T06:46:51Z,1,2,MERGED
+elements,fix: useIdWithFallback for react 17 and lower,https://github.com/ory/elements/pull/122,2023-08-08T15:27:47Z,2023-08-09T10:18:01Z,6,2,MERGED
+elements,fix: compile error useId only available in react18,https://github.com/ory/elements/pull/120,2023-08-04T18:27:14Z,2023-08-08T09:45:46Z,8,1,MERGED
+elements,feat: password with visibility toggle,https://github.com/ory/elements/pull/119,2023-08-04T14:14:25Z,2023-08-28T11:26:52Z,8,10,MERGED
+elements,fix: registration via code and verification/recovery card stretches,https://github.com/ory/elements/pull/145,2023-09-20T14:42:14Z,2023-09-22T12:05:16Z,6,10,MERGED
+elements,chore: suppress react-intl warnings,https://github.com/ory/elements/pull/164,2023-10-19T15:36:52Z,2023-10-24T09:17:14Z,1,1,MERGED
+elements,feat: prefix the css class names,https://github.com/ory/elements/pull/163,2023-10-16T13:22:30Z,2023-10-17T15:06:12Z,1,3,MERGED
+elements,feat: do not show two-step selector if only one method exists,https://github.com/ory/elements/pull/319,2024-12-18T10:34:36Z,2025-01-09T09:33:49Z,4,1,CLOSED
+elements,feat: show social sign in on credentials select,https://github.com/ory/elements/pull/343,2025-01-28T09:53:00Z,2025-02-17T13:48:48Z,4,2,CLOSED
+elements,fix: handle error messages for selected methods,https://github.com/ory/elements/pull/385,2025-03-12T11:33:18Z,2025-03-12T15:42:48Z,1,3,MERGED
+elements,feat: use method selector in 2fa login,https://github.com/ory/elements/pull/377,2025-03-05T12:15:47Z,2025-03-06T10:53:43Z,3,24,MERGED
+elements,feat: add back button to settings page,https://github.com/ory/elements/pull/464,2025-04-17T11:04:21Z,2025-04-22T11:48:57Z,6,6,MERGED
+elements,fix: update base hostname to be used from the header instead of using nextUrl host,https://github.com/ory/elements/pull/556,2025-06-11T16:21:25Z,2025-06-17T14:16:18Z,10,2,CLOSED
+elements,feat(theme): add prefixed CSS,https://github.com/ory/elements/pull/567,2025-08-27T23:48:57Z,2025-09-09T16:39:17Z,8,3,CLOSED

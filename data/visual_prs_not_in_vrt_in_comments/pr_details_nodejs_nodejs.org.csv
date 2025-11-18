@@ -1,0 +1,373 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+nodejs.org,Improve rendering of foundation link on small devices,https://github.com/nodejs/nodejs.org/pull/1752,2018-07-26T14:48:44Z,2018-07-28T05:22:48Z,4,1,MERGED
+nodejs.org,Improve display of list in privacy policy,https://github.com/nodejs/nodejs.org/pull/1725,2018-07-09T18:07:07Z,2018-07-09T20:51:29Z,1,1,MERGED
+nodejs.org,Update Node+JS Interactive banner,https://github.com/nodejs/nodejs.org/pull/1781,2018-08-27T04:47:07Z,2018-08-27T14:30:24Z,2,1,MERGED
+nodejs.org,Fix link to rubyeventmachine.com,https://github.com/nodejs/nodejs.org/pull/1780,2018-08-27T03:11:24Z,2018-08-27T05:45:39Z,0,1,MERGED
+nodejs.org,Fix HTML rendering on Docs index page,https://github.com/nodejs/nodejs.org/pull/1820,2018-09-24T13:43:18Z,2018-09-24T13:52:17Z,3,1,MERGED
+nodejs.org,translate `includes`,https://github.com/nodejs/nodejs.org/pull/1818,2018-09-23T05:45:37Z,2018-09-29T01:37:23Z,11,4,MERGED
+nodejs.org,server: highlight server url,https://github.com/nodejs/nodejs.org/pull/1790,2018-09-02T08:52:50Z,2018-09-03T14:10:04Z,0,1,MERGED
+nodejs.org,fix Edit on GitHub,https://github.com/nodejs/nodejs.org/pull/1853,2018-10-25T02:40:59Z,2018-10-26T08:40:39Z,4,2,MERGED
+nodejs.org,improve seo,https://github.com/nodejs/nodejs.org/pull/1840,2018-10-15T04:23:17Z,2018-10-15T10:12:42Z,0,1,MERGED
+nodejs.org,add Gitpod as an inspector client,https://github.com/nodejs/nodejs.org/pull/1917,2018-11-29T09:28:15Z,2018-12-18T05:52:46Z,2,1,MERGED
+nodejs.org,add Edit on GitHub to releases.md for consistency,https://github.com/nodejs/nodejs.org/pull/1902,2018-11-18T03:59:55Z,2018-11-22T01:43:46Z,0,1,MERGED
+nodejs.org,fixed link parsing error in Chinese,https://github.com/nodejs/nodejs.org/pull/1896,2018-11-12T03:41:40Z,2018-11-12T08:02:28Z,2,1,CLOSED
+nodejs.org,Add Release Schedule,https://github.com/nodejs/nodejs.org/pull/1890,2018-11-07T08:19:44Z,2018-11-11T07:00:07Z,9,6,MERGED
+nodejs.org,remove several questionable links from get-involved,https://github.com/nodejs/nodejs.org/pull/1964,2018-12-27T17:28:36Z,2019-01-01T05:59:15Z,3,9,MERGED
+nodejs.org,Build default language with locale (adds preserveLocale flag),https://github.com/nodejs/nodejs.org/pull/1940,2018-12-15T04:38:24Z,2019-01-20T16:17:45Z,10,6,MERGED
+nodejs.org,add entry for node-meetups,https://github.com/nodejs/nodejs.org/pull/1995,2019-01-21T16:35:52Z,2019-01-24T20:28:53Z,0,1,MERGED
+nodejs.org,feat(events): use table for listing of events,https://github.com/nodejs/nodejs.org/pull/2117,2019-02-27T09:29:07Z,2019-03-02T02:01:07Z,4,3,MERGED
+nodejs.org,Fix list item in event-loop-timers-and-nexttick.md,https://github.com/nodejs/nodejs.org/pull/2111,2019-02-22T17:40:58Z,2019-02-23T07:48:23Z,0,1,MERGED
+nodejs.org,chore: node => Node.js & remove `local` for consistency,https://github.com/nodejs/nodejs.org/pull/2068,2019-02-13T07:42:57Z,2019-02-13T08:29:49Z,1,1,MERGED
+nodejs.org,Remove links to 3rd-party tools with Privacy issues.,https://github.com/nodejs/nodejs.org/pull/2270,2019-06-19T04:31:21Z,2021-11-20T22:42:30Z,17,1,CLOSED
+nodejs.org,fixture: change hbs rules to allow template class name formation without dashes and some typos,https://github.com/nodejs/nodejs.org/pull/2481,2019-08-30T06:28:49Z,2019-09-03T02:01:39Z,8,1,MERGED
+nodejs.org,Specify `word-break: break-word` for article links.,https://github.com/nodejs/nodejs.org/pull/2476,2019-08-27T14:45:31Z,2019-09-23T22:54:26Z,3,1,MERGED
+nodejs.org,Feature: Multi-Language Switcher Improvements,https://github.com/nodejs/nodejs.org/pull/2403,2019-08-15T04:18:06Z,2019-08-16T01:07:07Z,5,1,MERGED
+nodejs.org,Fix IE and minor tweaks,https://github.com/nodejs/nodejs.org/pull/2392,2019-08-12T16:35:22Z,2019-08-21T08:33:02Z,8,3,MERGED
+nodejs.org,Fix font-display for Google Fonts,https://github.com/nodejs/nodejs.org/pull/2588,2019-09-18T14:15:33Z,2019-09-20T01:08:34Z,14,1,MERGED
+nodejs.org,ru: fixture of anchor links for Russian,https://github.com/nodejs/nodejs.org/pull/2581,2019-09-16T07:43:18Z,2019-09-16T07:45:44Z,0,1,MERGED
+nodejs.org,feat: thanking contributor (#2632),https://github.com/nodejs/nodejs.org/pull/2635,2019-10-01T19:58:14Z,2020-01-31T06:01:41Z,112,10,MERGED
+nodejs.org,Fix broken link in docs to «How to publish N-API package» article,https://github.com/nodejs/nodejs.org/pull/2769,2019-11-13T08:12:26Z,2019-11-13T10:51:40Z,1,1,MERGED
+nodejs.org,Add gitconnected.com crowd-sourced tutorials to learning,https://github.com/nodejs/nodejs.org/pull/2819,2019-12-09T13:27:31Z,2020-10-15T23:34:34Z,5,8,CLOSED
+nodejs.org,add openjsf logo to footer and remove linux foundation references,https://github.com/nodejs/nodejs.org/pull/2810,2019-12-03T00:06:41Z,2019-12-05T18:47:39Z,9,3,MERGED
+nodejs.org,guide index added in Spanish,https://github.com/nodejs/nodejs.org/pull/3009,2020-03-05T19:17:05Z,2020-03-07T12:27:15Z,1,1,CLOSED
+nodejs.org,feat: Statuspage,https://github.com/nodejs/nodejs.org/pull/3126,2020-04-20T21:43:17Z,2022-08-24T01:20:23Z,5,3,CLOSED
+nodejs.org,Feature/git hook i18n translate,https://github.com/nodejs/nodejs.org/pull/3172,2020-05-13T16:47:54Z,2021-07-16T10:49:16Z,28,17,CLOSED
+nodejs.org,ja: Translate Black Lives Matter page,https://github.com/nodejs/nodejs.org/pull/3279,2020-06-24T07:40:58Z,2022-08-25T02:16:14Z,15,11,CLOSED
+nodejs.org,"zh-cn, zh-TW: Add the new menu item for ""Certification""",https://github.com/nodejs/nodejs.org/pull/3266,2020-06-20T03:08:37Z,2020-06-21T22:45:06Z,1,2,MERGED
+nodejs.org,blm: convert to banner,https://github.com/nodejs/nodejs.org/pull/3246,2020-06-12T01:01:55Z,2020-06-15T16:33:38Z,14,1,MERGED
+nodejs.org,"Mobile fixes, small style updates",https://github.com/nodejs/nodejs.org/pull/3210,2020-06-04T21:55:36Z,2020-06-04T23:15:14Z,9,13,MERGED
+nodejs.org,Update language-picker icon,https://github.com/nodejs/nodejs.org/pull/3382,2020-09-16T09:33:27Z,2021-09-22T15:41:24Z,1,1,CLOSED
+nodejs.org,feat: update release schedule,https://github.com/nodejs/nodejs.org/pull/3482,2020-10-27T18:17:29Z,2020-10-27T19:19:14Z,4,2,CLOSED
+nodejs.org,Add missing property for `small`,https://github.com/nodejs/nodejs.org/pull/3478,2020-10-27T15:24:58Z,2020-10-29T07:12:54Z,0,2,MERGED
+nodejs.org,Fix: language menu cover style to show at the top,https://github.com/nodejs/nodejs.org/pull/3538,2020-11-20T08:06:12Z,2020-11-20T17:55:18Z,0,3,MERGED
+nodejs.org,Updated the Language selector icon,https://github.com/nodejs/nodejs.org/pull/3503,2020-11-09T05:15:59Z,2022-09-02T00:20:19Z,7,10,CLOSED
+nodejs.org,docs: previous releases list update,https://github.com/nodejs/nodejs.org/pull/3579,2020-12-16T16:28:32Z,2021-02-05T19:04:11Z,4,6,MERGED
+nodejs.org,fixture of the error when rendering with Prism,https://github.com/nodejs/nodejs.org/pull/3698,2021-02-14T10:27:28Z,2021-02-14T12:37:33Z,2,1,CLOSED
+nodejs.org,fixture of warnings in standard check of js,https://github.com/nodejs/nodejs.org/pull/3697,2021-02-14T09:21:30Z,2021-02-17T10:11:17Z,10,8,MERGED
+nodejs.org,v15.1.0.md: fix wrong syntax highlighting,https://github.com/nodejs/nodejs.org/pull/3695,2021-02-14T06:43:12Z,2021-02-14T18:16:52Z,5,3,MERGED
+nodejs.org,package.json: require Node.js >= 12,https://github.com/nodejs/nodejs.org/pull/3685,2021-02-12T13:25:25Z,2021-02-14T05:47:27Z,2,9,MERGED
+nodejs.org,downloads: add macOS ARM64 link for current version.,https://github.com/nodejs/nodejs.org/pull/3836,2021-04-30T15:20:25Z,2021-05-01T04:14:54Z,4,2,MERGED
+nodejs.org,fix null check for invalid lang,https://github.com/nodejs/nodejs.org/pull/3823,2021-04-27T19:47:53Z,2021-05-06T04:26:16Z,12,1,MERGED
+nodejs.org,docs: add nvs docs,https://github.com/nodejs/nodejs.org/pull/3874,2021-05-16T14:27:45Z,2021-05-18T03:20:40Z,13,12,MERGED
+nodejs.org,feat: add metalsmith-one-replace plugin for dynamic contents,https://github.com/nodejs/nodejs.org/pull/3857,2021-05-04T19:00:58Z,2021-07-02T20:32:41Z,12,1,MERGED
+nodejs.org,"improve: add ""EditOnGitHub"" on every necessary page",https://github.com/nodejs/nodejs.org/pull/3971,2021-07-11T12:15:43Z,2021-07-16T10:30:17Z,16,3,MERGED
+nodejs.org,fix: Only Nodejs's logo visible part can be clicked,https://github.com/nodejs/nodejs.org/pull/3959,2021-07-06T01:09:59Z,2021-07-10T23:56:01Z,4,3,MERGED
+nodejs.org,de: typo fix,https://github.com/nodejs/nodejs.org/pull/4054,2021-08-17T02:16:58Z,2021-08-17T13:35:42Z,1,1,MERGED
+nodejs.org,ja-JP: add the missing link for Node.js 15.x,https://github.com/nodejs/nodejs.org/pull/4049,2021-08-15T08:55:32Z,2021-08-15T08:58:52Z,0,1,MERGED
+nodejs.org,"feat: remove the ""Contributors"" list and re-arrange the ""Help"" info",https://github.com/nodejs/nodejs.org/pull/4044,2021-08-14T02:26:51Z,2021-08-15T08:45:51Z,4,4,MERGED
+nodejs.org,fix: make highlight-box text visible in dark mode,https://github.com/nodejs/nodejs.org/pull/4215,2021-10-28T20:46:09Z,2021-10-29T00:45:41Z,1,1,MERGED
+nodejs.org,improve Dark Mode,https://github.com/nodejs/nodejs.org/pull/4159,2021-10-09T05:03:29Z,2021-10-10T04:20:52Z,6,2,MERGED
+nodejs.org,meta: use logo-hexagon instead of card,https://github.com/nodejs/nodejs.org/pull/4256,2021-11-16T06:43:25Z,2023-03-14T10:14:01Z,14,6,CLOSED
+nodejs.org,Feature/UI small improvements,https://github.com/nodejs/nodejs.org/pull/4245,2021-11-11T16:49:03Z,2023-02-17T18:17:05Z,7,9,CLOSED
+nodejs.org,Fix constrast issue in code highlighting upto WCAG AA standards,https://github.com/nodejs/nodejs.org/pull/4230,2021-11-08T07:44:00Z,2021-11-10T05:39:25Z,1,2,MERGED
+nodejs.org,fix position of language picker and dark/light mode switch buttons,https://github.com/nodejs/nodejs.org/pull/4338,2021-12-30T11:36:18Z,2022-01-09T09:45:11Z,1,7,CLOSED
+nodejs.org,fix: icons positions in mobile,https://github.com/nodejs/nodejs.org/pull/4350,2022-01-09T10:05:35Z,2022-01-14T19:52:12Z,1,4,MERGED
+nodejs.org,UI/small fixes mobile,https://github.com/nodejs/nodejs.org/pull/4348,2022-01-05T23:51:58Z,2022-01-14T03:26:57Z,1,7,MERGED
+nodejs.org,🇺🇦 Support Ukraine,https://github.com/nodejs/nodejs.org/pull/4449,2022-02-28T22:44:25Z,2022-03-01T19:46:22Z,12,20,CLOSED
+nodejs.org,🇺🇦 Support Ukraine,https://github.com/nodejs/nodejs.org/pull/4446,2022-02-28T18:16:45Z,2022-02-28T20:17:43Z,20,9,MERGED
+nodejs.org,Change language picker icon,https://github.com/nodejs/nodejs.org/pull/4503,2022-03-18T17:51:10Z,2022-03-28T16:41:46Z,16,25,MERGED
+nodejs.org,add a note for RHEL when install nodejs > 12,https://github.com/nodejs/nodejs.org/pull/4566,2022-04-25T18:35:27Z,2022-05-02T20:36:17Z,2,3,CLOSED
+nodejs.org,fix: add Node.js 16.x and 17.x to generated version link list,https://github.com/nodejs/nodejs.org/pull/4545,2022-04-16T20:22:56Z,2022-04-19T16:26:36Z,9,3,MERGED
+nodejs.org,fix: allowing release schedule table to be responsive,https://github.com/nodejs/nodejs.org/pull/4649,2022-06-10T19:25:51Z,2022-06-10T22:19:16Z,0,1,MERGED
+nodejs.org,fix: remove the recursive link of Node.js API docs,https://github.com/nodejs/nodejs.org/pull/4752,2022-07-30T09:54:48Z,2022-07-31T04:03:59Z,3,1,MERGED
+nodejs.org,feat: Use yaml files to create new issue templates,https://github.com/nodejs/nodejs.org/pull/4751,2022-07-29T04:14:24Z,2022-07-30T01:55:00Z,5,4,MERGED
+nodejs.org,fix: Letters cut due to the width,https://github.com/nodejs/nodejs.org/pull/4748,2022-07-27T06:11:07Z,2022-07-27T21:19:16Z,0,1,MERGED
+nodejs.org,Jump to the related 404 page file for the local server when running,https://github.com/nodejs/nodejs.org/pull/4719,2022-07-14T09:00:08Z,2022-07-26T09:43:55Z,0,8,MERGED
+nodejs.org,feat: Use native test instead of 'tape',https://github.com/nodejs/nodejs.org/pull/4792,2022-08-23T09:04:02Z,2023-03-12T07:49:36Z,6,6,CLOSED
+nodejs.org,feat: Beauty of Node.js previous versions list,https://github.com/nodejs/nodejs.org/pull/4757,2022-08-04T05:40:20Z,2022-08-05T02:17:14Z,0,1,MERGED
+nodejs.org,chore: use more clear language to describe release schedule,https://github.com/nodejs/nodejs.org/pull/4865,2022-10-07T16:45:08Z,2022-10-07T17:19:17Z,0,1,MERGED
+nodejs.org,updated scroll-to-top button,https://github.com/nodejs/nodejs.org/pull/4955,2022-11-29T03:22:47Z,2022-12-18T01:45:42Z,7,4,MERGED
+nodejs.org,add Cyber Monday banner for OpenJS training,https://github.com/nodejs/nodejs.org/pull/4954,2022-11-28T23:12:45Z,2022-11-28T23:31:22Z,0,2,MERGED
+nodejs.org,feat(header) udpate size,https://github.com/nodejs/nodejs.org/pull/4964,2022-12-11T18:21:36Z,2022-12-18T01:48:09Z,17,5,MERGED
+nodejs.org,ui: add padding to nav bar,https://github.com/nodejs/nodejs.org/pull/5034,2023-01-30T08:59:33Z,2023-01-30T20:13:17Z,6,3,CLOSED
+nodejs.org,Fix language picker height,https://github.com/nodejs/nodejs.org/pull/5030,2023-01-23T18:07:58Z,2023-01-24T15:30:42Z,2,1,CLOSED
+nodejs.org,The back to top button at the bottom of the page does not appear properly in mobile responsive,https://github.com/nodejs/nodejs.org/pull/5008,2023-01-10T20:42:55Z,2023-03-14T10:02:29Z,3,3,CLOSED
+nodejs.org,update website navigation alignment ,https://github.com/nodejs/nodejs.org/pull/5057,2023-02-17T18:04:45Z,2023-02-17T18:15:30Z,1,1,CLOSED
+nodejs.org,Fix header layout on small screen size,https://github.com/nodejs/nodejs.org/pull/5192,2023-03-27T17:03:16Z,2023-03-28T09:37:46Z,4,2,MERGED
+nodejs.org,"fix: ""Home"" menu item misses the arrow when selected",https://github.com/nodejs/nodejs.org/pull/5171,2023-03-21T02:18:55Z,2023-03-22T02:41:02Z,6,2,MERGED
+nodejs.org,feat: support content on RSS Feeds,https://github.com/nodejs/nodejs.org/pull/5144,2023-03-15T14:28:30Z,2023-03-21T14:51:10Z,10,2,CLOSED
+nodejs.org,fix(download): formatMessage,https://github.com/nodejs/nodejs.org/pull/5121,2023-03-13T21:05:05Z,2023-03-13T21:10:49Z,0,1,MERGED
+nodejs.org,fix: download links cannot be refreshed through js,https://github.com/nodejs/nodejs.org/pull/5105,2023-03-12T06:42:21Z,2023-03-13T01:17:19Z,9,3,CLOSED
+nodejs.org,fix: AnchorLinks don't work properly,https://github.com/nodejs/nodejs.org/pull/5100,2023-03-10T12:41:21Z,2023-03-11T02:07:13Z,2,2,MERGED
+nodejs.org,fix: broken ci badge on readme,https://github.com/nodejs/nodejs.org/pull/5099,2023-03-10T09:59:53Z,2023-03-15T02:45:24Z,4,1,MERGED
+nodejs.org,fix broken links,https://github.com/nodejs/nodejs.org/pull/5087,2023-03-09T11:02:04Z,2023-03-12T12:36:08Z,0,4,MERGED
+nodejs.org,chore: fix storybook local development mode,https://github.com/nodejs/nodejs.org/pull/5335,2023-04-27T14:05:05Z,2023-04-27T15:54:39Z,2,1,MERGED
+nodejs.org,Redsign/new header,https://github.com/nodejs/nodejs.org/pull/5328,2023-04-24T22:01:20Z,2023-05-08T21:48:44Z,40,59,CLOSED
+nodejs.org,Add Windows ARM64 download buttons,https://github.com/nodejs/nodejs.org/pull/5264,2023-04-12T15:28:30Z,2023-04-14T09:43:29Z,3,1,MERGED
+nodejs.org,docs: fixed the order of sections in CONTRIBUTING.md,https://github.com/nodejs/nodejs.org/pull/5394,2023-05-23T13:47:48Z,2023-05-23T15:06:52Z,4,1,MERGED
+nodejs.org,feat(nextra): Add Webpack Cache,https://github.com/nodejs/nodejs.org/pull/5371,2023-05-11T05:40:08Z,2023-05-11T06:17:08Z,2,5,CLOSED
+nodejs.org,fix: Uncomfortable border radius of download links,https://github.com/nodejs/nodejs.org/pull/5346,2023-05-02T01:23:17Z,2023-05-03T09:30:45Z,1,2,MERGED
+nodejs.org,fix: lang box radius,https://github.com/nodejs/nodejs.org/pull/5535,2023-07-19T20:09:52Z,2023-07-20T12:59:28Z,2,2,MERGED
+nodejs.org,chore: add eslint:recommended rules,https://github.com/nodejs/nodejs.org/pull/5531,2023-07-17T22:00:05Z,2023-07-21T21:14:36Z,24,6,MERGED
+nodejs.org,docs: remove dependencies page and link to existing resource,https://github.com/nodejs/nodejs.org/pull/5480,2023-07-08T04:03:16Z,2023-07-10T09:44:11Z,7,5,MERGED
+nodejs.org,fix: Windows-rendering of content,https://github.com/nodejs/nodejs.org/pull/5476,2023-07-06T11:03:42Z,2023-07-07T16:50:28Z,3,5,MERGED
+nodejs.org,chore: delete block quote component,https://github.com/nodejs/nodejs.org/pull/5729,2023-08-31T16:09:28Z,2023-08-31T20:35:04Z,2,8,MERGED
+nodejs.org,chore: delete DownloadToggle component,https://github.com/nodejs/nodejs.org/pull/5727,2023-08-31T15:00:22Z,2023-08-31T16:02:53Z,6,3,MERGED
+nodejs.org,chore: delete NewHeader component,https://github.com/nodejs/nodejs.org/pull/5720,2023-08-30T15:16:23Z,2023-08-31T08:45:34Z,4,4,MERGED
+nodejs.org,chore: delete Author and AuthorList components,https://github.com/nodejs/nodejs.org/pull/5717,2023-08-30T10:21:23Z,2023-08-31T08:40:06Z,4,1,MERGED
+nodejs.org,fix: fix bad merge,https://github.com/nodejs/nodejs.org/pull/5716,2023-08-30T09:53:59Z,2023-08-30T09:56:26Z,3,1,MERGED
+nodejs.org,chore: deleted Darkmode Toggle component,https://github.com/nodejs/nodejs.org/pull/5712,2023-08-29T18:47:39Z,2023-08-31T18:32:46Z,11,6,CLOSED
+nodejs.org,refactor: remove BlogCard component,https://github.com/nodejs/nodejs.org/pull/5710,2023-08-29T14:48:40Z,2023-08-29T15:14:47Z,4,3,MERGED
+nodejs.org,chore: delete PreviousNextLink component,https://github.com/nodejs/nodejs.org/pull/5709,2023-08-29T14:15:16Z,2023-08-29T15:14:47Z,4,1,MERGED
+nodejs.org,chore: delete Stability component,https://github.com/nodejs/nodejs.org/pull/5708,2023-08-29T13:44:22Z,2023-08-29T15:28:02Z,4,2,MERGED
+nodejs.org,chore: delete AnimatedPlaceholder component,https://github.com/nodejs/nodejs.org/pull/5691,2023-08-27T15:46:26Z,2023-08-29T10:06:07Z,5,1,MERGED
+nodejs.org,fix css front end,https://github.com/nodejs/nodejs.org/pull/5636,2023-08-12T19:54:32Z,2023-08-12T22:30:44Z,2,5,CLOSED
+nodejs.org,fix: sitemap url for production deployments,https://github.com/nodejs/nodejs.org/pull/5599,2023-08-01T18:54:29Z,2023-08-02T08:15:45Z,20,3,MERGED
+nodejs.org,Added X logo to site assets for Node.js website redesign (#5894),https://github.com/nodejs/nodejs.org/pull/5920,2023-09-29T19:00:47Z,2023-10-01T11:19:02Z,4,2,MERGED
+nodejs.org,Added Mastadon logo to site assets for Node.js website redesign (#5896),https://github.com/nodejs/nodejs.org/pull/5919,2023-09-29T18:40:00Z,2023-09-29T21:04:54Z,3,1,MERGED
+nodejs.org,Added Microsoft logo to site assets for Node.js website redesign (#5897),https://github.com/nodejs/nodejs.org/pull/5918,2023-09-29T18:19:39Z,2023-09-29T21:06:39Z,3,1,MERGED
+nodejs.org,Adding Platform icon apple,https://github.com/nodejs/nodejs.org/pull/5906,2023-09-27T18:04:12Z,2023-09-28T06:45:04Z,3,1,MERGED
+nodejs.org,Add stacked logo white,https://github.com/nodejs/nodejs.org/pull/5905,2023-09-27T16:29:10Z,2023-09-28T15:32:44Z,2,2,MERGED
+nodejs.org,Add stacked logo light,https://github.com/nodejs/nodejs.org/pull/5904,2023-09-27T16:16:21Z,2023-09-29T02:16:30Z,3,4,MERGED
+nodejs.org,feat: added white hex svg logo,https://github.com/nodejs/nodejs.org/pull/5903,2023-09-27T16:16:02Z,2023-09-28T15:34:51Z,6,1,MERGED
+nodejs.org,feat: Blockquote component,https://github.com/nodejs/nodejs.org/pull/5891,2023-09-24T21:29:09Z,2023-09-25T12:35:51Z,9,3,MERGED
+nodejs.org,added stacked-dark logo and storybook,https://github.com/nodejs/nodejs.org/pull/5884,2023-09-22T22:27:49Z,2023-09-26T11:32:17Z,4,3,MERGED
+nodejs.org,Added platform placeholder,https://github.com/nodejs/nodejs.org/pull/5881,2023-09-22T22:12:48Z,2023-09-26T11:13:25Z,4,2,MERGED
+nodejs.org,feat: Blockquote component,https://github.com/nodejs/nodejs.org/pull/5860,2023-09-22T20:15:51Z,2023-09-24T21:28:18Z,7,29,CLOSED
+nodejs.org,refactor(stylelint): Enfore camelCase for CSS Selectors.,https://github.com/nodejs/nodejs.org/pull/5814,2023-09-20T11:08:19Z,2023-09-22T08:55:11Z,3,7,MERGED
+nodejs.org,chore: install Storybook addon themes,https://github.com/nodejs/nodejs.org/pull/5785,2023-09-12T12:27:47Z,2023-09-13T15:00:13Z,12,2,MERGED
+nodejs.org,Fix typo in Japanese download page,https://github.com/nodejs/nodejs.org/pull/5784,2023-09-11T15:29:45Z,2023-09-12T08:32:32Z,5,1,CLOSED
+nodejs.org,feat: add CrossLink component,https://github.com/nodejs/nodejs.org/pull/5781,2023-09-10T09:03:12Z,2023-09-26T16:31:47Z,25,3,MERGED
+nodejs.org,feat: add Badge component,https://github.com/nodejs/nodejs.org/pull/5776,2023-09-08T22:08:05Z,2023-09-17T08:57:38Z,23,18,MERGED
+nodejs.org,fix: Improved News Section Formatting,https://github.com/nodejs/nodejs.org/pull/5775,2023-09-08T21:04:08Z,2023-09-08T21:21:36Z,4,1,CLOSED
+nodejs.org,feat(banner): introduce new design,https://github.com/nodejs/nodejs.org/pull/5762,2023-09-08T14:41:09Z,2023-09-14T12:48:50Z,17,8,MERGED
+nodejs.org,feat: Added Navbar component,https://github.com/nodejs/nodejs.org/pull/6072,2023-10-31T17:49:42Z,2023-11-15T17:52:41Z,70,22,MERGED
+nodejs.org,fix: Main layout container flex direction,https://github.com/nodejs/nodejs.org/pull/6069,2023-10-30T22:02:02Z,2023-10-30T22:07:47Z,4,1,MERGED
+nodejs.org,"feat: Add SidebarItem, sideBarGroup and sideBar components",https://github.com/nodejs/nodejs.org/pull/6065,2023-10-29T02:51:20Z,2023-11-15T01:31:37Z,56,27,MERGED
+nodejs.org,feat: add learn content to the node.js website,https://github.com/nodejs/nodejs.org/pull/6064,2023-10-28T14:00:24Z,2023-10-30T11:52:05Z,15,14,MERGED
+nodejs.org,add openssf badge to new security page,https://github.com/nodejs/nodejs.org/pull/6057,2023-10-27T12:23:44Z,2023-10-28T09:31:45Z,5,2,MERGED
+nodejs.org,fix: Syntax highlighter empty line,https://github.com/nodejs/nodejs.org/pull/6055,2023-10-27T11:20:30Z,2023-10-27T12:07:28Z,3,2,MERGED
+nodejs.org,refactor: Content scaling for `Preview` component,https://github.com/nodejs/nodejs.org/pull/6049,2023-10-26T16:23:47Z,2023-11-25T20:00:50Z,4,5,CLOSED
+nodejs.org,Add Lighthouse CI ,https://github.com/nodejs/nodejs.org/pull/6047,2023-10-25T04:34:51Z,2023-10-28T09:31:12Z,13,59,MERGED
+nodejs.org,chore: formatting release post,https://github.com/nodejs/nodejs.org/pull/6044,2023-10-24T15:50:55Z,2023-10-26T08:36:30Z,4,3,MERGED
+nodejs.org,feat: add CodeBox component and code tabs plugin,https://github.com/nodejs/nodejs.org/pull/6038,2023-10-21T04:21:18Z,2024-01-04T11:04:40Z,62,12,MERGED
+nodejs.org,feat: Create Table styling,https://github.com/nodejs/nodejs.org/pull/6035,2023-10-20T15:35:09Z,2023-10-24T17:31:21Z,1,1,CLOSED
+nodejs.org,Added Table Styling Based on Figma Design for Node.js Website,https://github.com/nodejs/nodejs.org/pull/6034,2023-10-20T12:16:22Z,2023-10-24T23:58:55Z,10,6,MERGED
+nodejs.org,feat: add OpenSSF badge to current footer,https://github.com/nodejs/nodejs.org/pull/6030,2023-10-19T13:41:22Z,2023-10-20T02:26:16Z,17,1,CLOSED
+nodejs.org,Fix: render HTML tables in md files (#6002),https://github.com/nodejs/nodejs.org/pull/6027,2023-10-19T05:55:20Z,2023-10-24T11:37:59Z,9,1,CLOSED
+nodejs.org,feat: create CodeBox component which fixes issue #5819,https://github.com/nodejs/nodejs.org/pull/6019,2023-10-17T12:38:38Z,2024-01-04T11:05:01Z,3,1,CLOSED
+nodejs.org,feat(Preview): add Preview component,https://github.com/nodejs/nodejs.org/pull/6014,2023-10-16T10:11:47Z,2023-10-17T20:42:14Z,6,5,MERGED
+nodejs.org,feat(common): develop initial ui and logic for metabar,https://github.com/nodejs/nodejs.org/pull/6012,2023-10-16T06:30:28Z,2023-10-17T09:37:38Z,2,1,CLOSED
+nodejs.org,feat: MetaBar Component,https://github.com/nodejs/nodejs.org/pull/6010,2023-10-15T21:07:03Z,2023-10-17T09:39:36Z,11,11,MERGED
+nodejs.org,Fix: use MDX format to render tables,https://github.com/nodejs/nodejs.org/pull/6009,2023-10-15T19:12:48Z,2023-10-19T08:47:08Z,6,1,CLOSED
+nodejs.org,Fix debugging guide header,https://github.com/nodejs/nodejs.org/pull/6000,2023-10-14T18:41:02Z,2023-10-15T00:40:51Z,2,1,MERGED
+nodejs.org,Create Footer Component,https://github.com/nodejs/nodejs.org/pull/5983,2023-10-11T18:28:56Z,2023-10-15T10:01:41Z,19,1,MERGED
+nodejs.org,Component/language drop down,https://github.com/nodejs/nodejs.org/pull/5982,2023-10-11T18:25:47Z,2023-10-17T03:32:16Z,30,4,MERGED
+nodejs.org,rename list and logos stories,https://github.com/nodejs/nodejs.org/pull/5979,2023-10-11T03:29:47Z,2023-10-11T18:10:54Z,3,1,MERGED
+nodejs.org,fix: Fedora/RHEL section for installing via Package Manager,https://github.com/nodejs/nodejs.org/pull/5974,2023-10-09T00:44:55Z,2023-10-21T02:36:52Z,11,2,CLOSED
+nodejs.org,Adding NavItem,https://github.com/nodejs/nodejs.org/pull/5973,2023-10-07T14:22:37Z,2023-10-08T19:09:17Z,8,1,CLOSED
+nodejs.org,Create NavItem component,https://github.com/nodejs/nodejs.org/pull/5972,2023-10-07T12:45:02Z,2023-10-09T11:53:59Z,11,1,MERGED
+nodejs.org,feat: create tabs component,https://github.com/nodejs/nodejs.org/pull/5964,2023-10-04T15:01:22Z,2023-10-15T09:59:18Z,21,18,MERGED
+nodejs.org,feat: InlineSelect ability,https://github.com/nodejs/nodejs.org/pull/5963,2023-10-04T09:15:05Z,2023-10-06T00:01:08Z,10,11,MERGED
+nodejs.org,Style: Add unordered and ordered list styling,https://github.com/nodejs/nodejs.org/pull/5957,2023-10-03T04:04:59Z,2023-10-05T07:29:07Z,16,16,MERGED
+nodejs.org,fix: Banner component text color and spacing,https://github.com/nodejs/nodejs.org/pull/5956,2023-10-02T22:14:39Z,2023-10-02T22:28:57Z,3,1,MERGED
+nodejs.org,Create Notification Component,https://github.com/nodejs/nodejs.org/pull/5955,2023-10-02T21:06:19Z,2023-10-06T19:48:27Z,20,1,MERGED
+nodejs.org,style: Added `Anchor` styling,https://github.com/nodejs/nodejs.org/pull/5954,2023-10-02T17:18:34Z,2023-10-03T08:06:59Z,7,4,MERGED
+nodejs.org,fix: use twitter icon,https://github.com/nodejs/nodejs.org/pull/5953,2023-10-02T15:38:43Z,2023-10-02T16:02:39Z,3,1,MERGED
+nodejs.org,Document inclusion of `.vscode` files,https://github.com/nodejs/nodejs.org/pull/5947,2023-10-01T19:50:01Z,2023-10-03T07:51:12Z,7,8,MERGED
+nodejs.org,feat(components): add `Breadcrumbs` component,https://github.com/nodejs/nodejs.org/pull/5928,2023-10-01T08:26:40Z,2023-10-09T19:10:37Z,46,21,MERGED
+nodejs.org,feat: Select component,https://github.com/nodejs/nodejs.org/pull/5927,2023-10-01T01:10:43Z,2023-10-02T09:55:54Z,14,14,MERGED
+nodejs.org,fix: make headers on the website bold,https://github.com/nodejs/nodejs.org/pull/6146,2023-11-29T14:29:41Z,2023-11-29T15:03:26Z,5,2,MERGED
+nodejs.org,feat: introduced base website redesign layouts,https://github.com/nodejs/nodejs.org/pull/6145,2023-11-28T22:13:56Z,2023-12-01T21:59:44Z,25,26,MERGED
+nodejs.org,Add SPDX identifier to  LICENSE,https://github.com/nodejs/nodejs.org/pull/6141,2023-11-24T14:19:10Z,2023-11-24T16:10:27Z,4,1,MERGED
+nodejs.org,fix(theme): Conform theme logic with OS theme preference,https://github.com/nodejs/nodejs.org/pull/6138,2023-11-23T16:03:41Z,2023-11-23T18:25:19Z,9,1,MERGED
+nodejs.org,feat(components): Create sidebar component family,https://github.com/nodejs/nodejs.org/pull/6109,2023-11-11T17:54:11Z,2023-11-15T00:33:47Z,4,6,CLOSED
+nodejs.org,feat: ProgressionSidebar component,https://github.com/nodejs/nodejs.org/pull/6104,2023-11-09T16:34:35Z,2023-11-15T22:11:32Z,14,9,MERGED
+nodejs.org,fix: render openssf badge by parsing as mdx,https://github.com/nodejs/nodejs.org/pull/6093,2023-11-03T03:02:59Z,2023-11-05T02:30:35Z,2,1,MERGED
+nodejs.org,Updation of Nodejs package available for OpenSUSE TumbleWeed,https://github.com/nodejs/nodejs.org/pull/6187,2023-12-22T14:41:04Z,2023-12-23T16:33:25Z,5,2,MERGED
+nodejs.org,"[i18n-Improvement] Added german translation + ide extension for previewing, and extracting translations ",https://github.com/nodejs/nodejs.org/pull/6184,2023-12-13T16:38:46Z,2023-12-19T10:35:45Z,2,2,CLOSED
+nodejs.org,fix: blog pagination,https://github.com/nodejs/nodejs.org/pull/6179,2023-12-06T03:47:02Z,2023-12-06T05:47:24Z,5,3,MERGED
+nodejs.org,fix: Layout max width,https://github.com/nodejs/nodejs.org/pull/6174,2023-12-02T17:12:43Z,2023-12-02T21:22:08Z,4,1,MERGED
+nodejs.org,docs(learn): migrate 'Working with Different Filesystems' to learn section ,https://github.com/nodejs/nodejs.org/pull/6267,2024-01-25T22:38:11Z,2024-02-04T03:48:39Z,10,5,MERGED
+nodejs.org,"docs(learn): Migrate the legacy guide ""Debugging - Getting Started"" to the learn section",https://github.com/nodejs/nodejs.org/pull/6265,2024-01-24T05:00:42Z,2024-02-04T20:47:29Z,9,2,MERGED
+nodejs.org,Migrated the legacy guide Backpressuring in Streams to the learn section,https://github.com/nodejs/nodejs.org/pull/6261,2024-01-23T08:57:22Z,2024-02-21T09:25:02Z,11,2,CLOSED
+nodejs.org,"docs(learn): Migrate ""Anatomy of an http transaction"" guide to the learn section",https://github.com/nodejs/nodejs.org/pull/6256,2024-01-19T11:16:57Z,2024-02-02T02:15:19Z,10,2,MERGED
+nodejs.org,"docs(learn): Migrate ""Anatomy of an http transaction"" guide to the learn section",https://github.com/nodejs/nodejs.org/pull/6254,2024-01-19T10:47:07Z,2024-01-19T10:47:34Z,1,8,CLOSED
+nodejs.org,feat: introduced not found / error layout,https://github.com/nodejs/nodejs.org/pull/6247,2024-01-15T12:55:23Z,2024-01-17T18:29:49Z,23,11,MERGED
+nodejs.org,fix: de-emphasize copy to clipboard button,https://github.com/nodejs/nodejs.org/pull/6246,2024-01-14T21:12:57Z,2024-01-20T03:07:03Z,13,3,MERGED
+nodejs.org,"docs(learn): migrate ""How to publish N-API package"" guide to the learn section",https://github.com/nodejs/nodejs.org/pull/6232,2024-01-13T21:07:49Z,2024-01-18T22:28:43Z,17,7,MERGED
+nodejs.org,"feat: new home page, blog engine, blog layouts and routing engine",https://github.com/nodejs/nodejs.org/pull/6215,2024-01-07T19:06:36Z,2024-01-14T15:17:21Z,24,39,MERGED
+nodejs.org,feat: introduced home layout,https://github.com/nodejs/nodejs.org/pull/6214,2024-01-05T19:40:11Z,2024-01-07T13:15:12Z,22,36,MERGED
+nodejs.org,Open graph dynamic image generation,https://github.com/nodejs/nodejs.org/pull/6357,2024-02-24T13:59:28Z,2024-03-01T18:28:27Z,18,9,MERGED
+nodejs.org,Events tweaks,https://github.com/nodejs/nodejs.org/pull/6356,2024-02-23T21:43:43Z,2024-02-29T16:31:25Z,15,7,MERGED
+nodejs.org,fix: Use Tux mascot for Linux icon,https://github.com/nodejs/nodejs.org/pull/6355,2024-02-22T11:16:00Z,2024-02-23T22:10:20Z,13,2,MERGED
+nodejs.org,doc(learn): migrate the backpressuring-in-streams from guide to learn section,https://github.com/nodejs/nodejs.org/pull/6352,2024-02-19T02:25:15Z,2024-02-21T09:27:19Z,16,3,MERGED
+nodejs.org,docs(learn): Migrate the Don't Block the Event Loop (or the Worker Pool) to the learn ,https://github.com/nodejs/nodejs.org/pull/6351,2024-02-18T16:58:41Z,2024-02-23T21:21:54Z,9,10,MERGED
+nodejs.org,feat(blog): add visible RSS feed,https://github.com/nodejs/nodejs.org/pull/6350,2024-02-17T17:19:59Z,2024-02-19T20:28:48Z,16,14,MERGED
+nodejs.org,"docs(learn): Migrate the node.js event-loop, timers and process.nextTick() to the learn ",https://github.com/nodejs/nodejs.org/pull/6348,2024-02-17T05:38:02Z,2024-02-17T23:09:02Z,10,3,MERGED
+nodejs.org,"docs(learn): Migrate the legacy guide ""Security Best Practices"" to the learn section",https://github.com/nodejs/nodejs.org/pull/6345,2024-02-15T03:52:30Z,2024-02-16T21:10:16Z,5,3,MERGED
+nodejs.org,"docs(learn): Migrate the legacy guide ""Easy profiling for Node.js Applications"" to the learn section ",https://github.com/nodejs/nodejs.org/pull/6336,2024-02-11T05:58:51Z,2024-02-14T11:02:02Z,9,11,MERGED
+nodejs.org,"docs(learn): Migrate ""ABI Stability"" guide to the learn section",https://github.com/nodejs/nodejs.org/pull/6335,2024-02-11T04:51:57Z,2024-02-14T11:01:46Z,13,7,MERGED
+nodejs.org,docs(learn): Migrate diagnostics user journey from guide to learn section,https://github.com/nodejs/nodejs.org/pull/6291,2024-02-07T02:07:27Z,2024-02-12T10:26:48Z,11,7,MERGED
+nodejs.org,docs(learn): Migrates guide Flame Graphs to learn section,https://github.com/nodejs/nodejs.org/pull/6285,2024-02-02T02:45:27Z,2024-02-05T23:21:58Z,4,2,MERGED
+nodejs.org,meta: add banner for 6 February 2024 security releases,https://github.com/nodejs/nodejs.org/pull/6270,2024-02-01T16:15:16Z,2024-02-03T13:25:24Z,8,1,MERGED
+nodejs.org,Add author image to blog posts,https://github.com/nodejs/nodejs.org/pull/6581,2024-03-28T19:01:54Z,2024-04-06T20:15:51Z,15,10,MERGED
+nodejs.org,Enables Hindi language #6570,https://github.com/nodejs/nodejs.org/pull/6571,2024-03-27T13:07:23Z,2024-03-27T13:52:41Z,4,2,CLOSED
+nodejs.org,fix: Made RouterSelect inline (#6560),https://github.com/nodejs/nodejs.org/pull/6568,2024-03-27T09:06:30Z,2024-04-06T20:23:13Z,8,1,MERGED
+nodejs.org,fix: Changelog trigger and minor visual bugs,https://github.com/nodejs/nodejs.org/pull/6567,2024-03-27T08:53:19Z,2024-03-28T23:28:24Z,4,1,MERGED
+nodejs.org,fix: RSS alternate link tag does not expose release/vuln feeds,https://github.com/nodejs/nodejs.org/pull/6562,2024-03-26T20:50:27Z,2024-03-28T09:01:19Z,7,3,MERGED
+nodejs.org,fix: progression sidebar active color,https://github.com/nodejs/nodejs.org/pull/6552,2024-03-25T21:16:03Z,2024-03-27T01:57:13Z,3,2,CLOSED
+nodejs.org,Chore: add searchbar shortcut indicator,https://github.com/nodejs/nodejs.org/pull/6548,2024-03-25T16:35:08Z,2024-03-25T21:07:21Z,7,5,MERGED
+nodejs.org,Fixes search page with no query should not throw,https://github.com/nodejs/nodejs.org/pull/6547,2024-03-25T16:03:42Z,2024-03-25T19:18:10Z,4,1,MERGED
+nodejs.org,fix(og): use the resolved page title,https://github.com/nodejs/nodejs.org/pull/6545,2024-03-25T11:49:49Z,2024-03-25T12:16:37Z,4,1,MERGED
+nodejs.org,feat: Add PowerShell support to Shiki,https://github.com/nodejs/nodejs.org/pull/6538,2024-03-24T23:59:47Z,2024-03-26T16:38:50Z,12,2,MERGED
+nodejs.org,feat: Make MD headers clickable,https://github.com/nodejs/nodejs.org/pull/6529,2024-03-24T15:01:23Z,2024-03-25T19:00:07Z,5,3,MERGED
+nodejs.org,fix: Maximum scale and initial scale,https://github.com/nodejs/nodejs.org/pull/6526,2024-03-24T14:00:17Z,2024-03-26T11:18:51Z,5,1,MERGED
+nodejs.org,Adds redesign blog post,https://github.com/nodejs/nodejs.org/pull/6524,2024-03-24T13:10:21Z,2024-03-25T19:33:29Z,19,17,MERGED
+nodejs.org,feat: Mark external links in the sidebar,https://github.com/nodejs/nodejs.org/pull/6523,2024-03-24T12:40:17Z,2024-03-25T19:12:42Z,4,1,MERGED
+nodejs.org,fix: legacy - use Buffer.from() instead of btoa(),https://github.com/nodejs/nodejs.org/pull/6521,2024-03-24T12:14:52Z,2024-05-28T17:46:46Z,5,1,CLOSED
+nodejs.org,fix: Update understanding-processnexttick example,https://github.com/nodejs/nodejs.org/pull/6499,2024-03-21T00:04:15Z,2024-03-24T12:16:19Z,3,1,MERGED
+nodejs.org,"chore: Rename ""Read streams"" example to ""Streams Pipeline""",https://github.com/nodejs/nodejs.org/pull/6495,2024-03-20T08:12:26Z,2024-03-23T12:16:32Z,4,2,MERGED
+nodejs.org,Replace occurrences of `MacOS` with `macOS`,https://github.com/nodejs/nodejs.org/pull/6494,2024-03-20T07:04:01Z,2024-03-20T15:40:48Z,3,1,MERGED
+nodejs.org,fix: update progression item spacing,https://github.com/nodejs/nodejs.org/pull/6489,2024-03-19T22:44:38Z,2024-03-25T00:18:09Z,3,1,CLOSED
+nodejs.org,fix: update progression item spacing,https://github.com/nodejs/nodejs.org/pull/6488,2024-03-19T22:31:48Z,2024-03-19T22:33:29Z,1,1,CLOSED
+nodejs.org,fix: Change link to point to npm release notes,https://github.com/nodejs/nodejs.org/pull/6484,2024-03-19T21:28:25Z,2024-03-24T12:23:25Z,6,2,MERGED
+nodejs.org,add mascot to 404,https://github.com/nodejs/nodejs.org/pull/6481,2024-03-19T19:20:51Z,2024-03-21T21:06:43Z,13,3,MERGED
+nodejs.org,fix: input debounce,https://github.com/nodejs/nodejs.org/pull/6478,2024-03-19T16:11:32Z,2024-03-19T16:39:21Z,11,2,MERGED
+nodejs.org,Experiment: use millionjs react compiler,https://github.com/nodejs/nodejs.org/pull/6476,2024-03-17T13:08:00Z,2024-03-17T13:35:35Z,2,6,CLOSED
+nodejs.org,feat: npm link to npm version,https://github.com/nodejs/nodejs.org/pull/6472,2024-03-12T15:42:42Z,2024-03-14T04:02:29Z,6,5,MERGED
+nodejs.org,feat: Using Next.js Image component in markdown files,https://github.com/nodejs/nodejs.org/pull/6454,2024-03-05T22:57:46Z,2024-03-12T10:25:12Z,10,7,MERGED
+nodejs.org,feat(download):color link on botton in dark and light mode,https://github.com/nodejs/nodejs.org/pull/6450,2024-03-05T15:55:42Z,2024-03-05T17:28:22Z,9,2,MERGED
+nodejs.org,fix: bg on `LanguageDropDown`,https://github.com/nodejs/nodejs.org/pull/6449,2024-03-05T15:51:27Z,2024-03-05T16:05:06Z,4,1,MERGED
+nodejs.org,fix: select arm64 by default,https://github.com/nodejs/nodejs.org/pull/6439,2024-03-04T20:27:35Z,2024-03-06T12:01:02Z,13,7,MERGED
+nodejs.org,Fix breadcrumbs not updating,https://github.com/nodejs/nodejs.org/pull/6431,2024-03-04T12:02:09Z,2024-03-06T12:03:36Z,11,9,MERGED
+nodejs.org,Fix #6404 : Version dropdown on download page doesn't scroll on overflow,https://github.com/nodejs/nodejs.org/pull/6411,2024-03-03T08:19:55Z,2024-03-04T12:36:29Z,11,6,MERGED
+nodejs.org,"fix: remove select item flex to enable truncation, add left spacing for items",https://github.com/nodejs/nodejs.org/pull/6410,2024-03-03T00:46:32Z,2024-03-03T10:50:58Z,7,2,MERGED
+nodejs.org,feat(accent color): use color of `navBar`,https://github.com/nodejs/nodejs.org/pull/6391,2024-03-02T09:30:32Z,2024-03-02T14:47:59Z,8,3,MERGED
+nodejs.org,fix: overflow issue on mobile GlowingBackdrop,https://github.com/nodejs/nodejs.org/pull/6683,2024-04-30T22:19:19Z,2024-05-03T18:15:55Z,10,2,MERGED
+nodejs.org,fix: correct headings levels for Previous Releases page,https://github.com/nodejs/nodejs.org/pull/6682,2024-04-30T18:05:43Z,2024-05-03T12:40:57Z,3,1,MERGED
+nodejs.org,fix: horizontal scrollbar appearing on small screen,https://github.com/nodejs/nodejs.org/pull/6680,2024-04-30T17:58:35Z,2024-05-03T18:53:57Z,8,5,MERGED
+nodejs.org,Added border bottom to Sideabar of about page,https://github.com/nodejs/nodejs.org/pull/6678,2024-04-28T15:30:58Z,2024-05-11T22:10:43Z,16,5,MERGED
+nodejs.org,fix(rtl): add static dir to CodeBox,https://github.com/nodejs/nodejs.org/pull/6668,2024-04-23T12:16:58Z,2024-04-24T13:05:00Z,4,1,MERGED
+nodejs.org,Fix scrollbar display,https://github.com/nodejs/nodejs.org/pull/6663,2024-04-18T00:22:59Z,2024-04-20T02:01:11Z,5,1,MERGED
+nodejs.org,Fix: transfered misplaced blog pages that caused broken links,https://github.com/nodejs/nodejs.org/pull/6644,2024-04-10T23:54:47Z,2024-05-13T12:54:09Z,18,3,MERGED
+nodejs.org,refactor/fix: Move sidebar from article to base layout,https://github.com/nodejs/nodejs.org/pull/6623,2024-04-08T08:57:17Z,2024-04-26T11:34:49Z,18,6,CLOSED
+nodejs.org,fix: Search box button accessibility,https://github.com/nodejs/nodejs.org/pull/6619,2024-04-04T17:29:40Z,2024-04-06T16:57:08Z,5,3,MERGED
+nodejs.org,fix: Banner type,https://github.com/nodejs/nodejs.org/pull/6607,2024-04-03T11:32:20Z,2024-04-03T12:10:30Z,4,1,MERGED
+nodejs.org,fix: fix example code,https://github.com/nodejs/nodejs.org/pull/6606,2024-04-03T10:25:54Z,2024-04-03T14:42:36Z,8,1,CLOSED
+nodejs.org,Update h1 so that it is visible,https://github.com/nodejs/nodejs.org/pull/6605,2024-04-03T01:06:20Z,2024-04-03T20:49:02Z,9,2,CLOSED
+nodejs.org,Update tsx example,https://github.com/nodejs/nodejs.org/pull/6750,2024-05-30T03:59:19Z,2024-06-02T16:24:44Z,9,1,MERGED
+nodejs.org,feat(copy): inline copy/paste for clipboard,https://github.com/nodejs/nodejs.org/pull/6747,2024-05-29T00:25:06Z,2024-05-29T08:16:57Z,4,1,CLOSED
+nodejs.org,fix: Layout shift in download page / CodeBox,https://github.com/nodejs/nodejs.org/pull/6740,2024-05-26T14:04:55Z,2024-05-27T15:21:36Z,3,1,MERGED
+nodejs.org,Fix(test): TypeError in useBottomScrollListener Test Due to Incorrect act Import,https://github.com/nodejs/nodejs.org/pull/6736,2024-05-25T15:34:12Z,2024-05-26T10:45:03Z,3,1,MERGED
+nodejs.org,feat(pride logo): introduce,https://github.com/nodejs/nodejs.org/pull/6734,2024-05-24T21:26:24Z,2024-06-01T21:43:44Z,13,3,MERGED
+nodejs.org,fix: learn page breadcrumbs where label !== path slug,https://github.com/nodejs/nodejs.org/pull/6729,2024-05-21T09:23:04Z,2024-05-25T14:37:55Z,25,3,MERGED
+nodejs.org,fix: added digit regex,https://github.com/nodejs/nodejs.org/pull/6728,2024-05-21T05:40:35Z,2024-05-22T08:14:50Z,13,2,CLOSED
+nodejs.org,fix: correct the execution order in esm,https://github.com/nodejs/nodejs.org/pull/6725,2024-05-16T03:21:21Z,2024-05-22T10:14:40Z,4,1,MERGED
+nodejs.org,"feat: package-managers as default, redirects and more info",https://github.com/nodejs/nodejs.org/pull/6720,2024-05-13T14:50:23Z,2024-05-16T13:32:26Z,29,4,MERGED
+nodejs.org,refactor(searchbox): Remove unnecessary useEffect hook,https://github.com/nodejs/nodejs.org/pull/6718,2024-05-11T08:29:17Z,2024-06-19T14:06:20Z,16,2,CLOSED
+nodejs.org,fix: improve readability by avoiding breaking words,https://github.com/nodejs/nodejs.org/pull/6715,2024-05-08T05:56:11Z,2024-05-08T10:58:29Z,2,1,CLOSED
+nodejs.org,fix: layout word break,https://github.com/nodejs/nodejs.org/pull/6712,2024-05-05T16:50:34Z,2024-05-17T15:53:06Z,11,2,MERGED
+nodejs.org,fix: correct same level side navigation on breadcrumbs,https://github.com/nodejs/nodejs.org/pull/6710,2024-05-04T17:09:40Z,2024-05-21T03:27:17Z,4,2,MERGED
+nodejs.org,feat: Navigation state provider and hook,https://github.com/nodejs/nodejs.org/pull/6709,2024-05-04T03:15:39Z,2024-05-18T18:00:39Z,17,3,MERGED
+nodejs.org,Fixed: fixed the breadcrumb inconsistency,https://github.com/nodejs/nodejs.org/pull/6705,2024-05-02T09:37:32Z,2024-05-04T17:23:15Z,8,5,CLOSED
+nodejs.org,Fix: change the copy to clipboard behavior,https://github.com/nodejs/nodejs.org/pull/6686,2024-05-01T10:54:26Z,2024-05-01T11:17:39Z,3,1,CLOSED
+nodejs.org,Update reading-files-with-nodejs.md,https://github.com/nodejs/nodejs.org/pull/6684,2024-05-01T08:50:52Z,2024-05-03T19:22:11Z,3,1,MERGED
+nodejs.org,feat(mastodon.tsx): replace old mastodon icon with new icon,https://github.com/nodejs/nodejs.org/pull/6860,2024-06-23T13:54:26Z,2024-07-17T03:17:44Z,5,1,MERGED
+nodejs.org,fix: Removed misleading info,https://github.com/nodejs/nodejs.org/pull/6855,2024-06-21T13:36:19Z,2024-07-07T04:28:14Z,8,0,CLOSED
+nodejs.org,[automated]: crowdin sync - Enables Simplified Chinese,https://github.com/nodejs/nodejs.org/pull/6843,2024-06-18T09:16:14Z,2024-06-19T12:45:26Z,2,72,MERGED
+nodejs.org,fix: Certain languages break the max height of the search bar #6841,https://github.com/nodejs/nodejs.org/pull/6842,2024-06-18T02:42:26Z,2024-07-22T08:32:30Z,14,3,CLOSED
+nodejs.org,[automated]: crowdin sync - enables Portuguese,https://github.com/nodejs/nodejs.org/pull/6839,2024-06-14T23:04:27Z,2024-06-17T11:17:46Z,2,50,MERGED
+nodejs.org,Fix layout bug on hidden page,https://github.com/nodejs/nodejs.org/pull/6834,2024-06-11T18:01:33Z,2024-06-11T18:47:23Z,5,1,MERGED
+nodejs.org,fix: Footer  added,https://github.com/nodejs/nodejs.org/pull/6830,2024-06-11T06:33:21Z,2024-07-09T05:43:18Z,16,7,CLOSED
+nodejs.org,Enhancement: New header and footer links design on hover and on active,https://github.com/nodejs/nodejs.org/pull/6828,2024-06-10T23:08:22Z,2024-06-14T13:39:42Z,6,17,CLOSED
+nodejs.org,fix: Content visibility in dropdown,https://github.com/nodejs/nodejs.org/pull/6827,2024-06-10T07:45:04Z,2024-06-10T08:58:44Z,1,1,CLOSED
+nodejs.org,fix: added ellipsis for long content in breadcrumb,https://github.com/nodejs/nodejs.org/pull/6794,2024-06-03T05:36:25Z,2024-07-22T18:57:14Z,19,8,MERGED
+nodejs.org,Enhancement: added navItem hover,https://github.com/nodejs/nodejs.org/pull/6775,2024-06-02T23:23:46Z,2024-06-14T13:40:59Z,36,9,MERGED
+nodejs.org,fix: Break long words only in blog posts,https://github.com/nodejs/nodejs.org/pull/6944,2024-07-24T14:23:45Z,2024-07-31T13:06:17Z,6,5,MERGED
+nodejs.org,"fix(blog): update ""Coming soon"" links",https://github.com/nodejs/nodejs.org/pull/6941,2024-07-24T12:47:56Z,2024-07-24T13:32:00Z,2,1,MERGED
+nodejs.org,Removed broken link,https://github.com/nodejs/nodejs.org/pull/6938,2024-07-20T17:47:40Z,2024-07-22T08:44:16Z,2,1,MERGED
+nodejs.org,CI: fix coverage summary path,https://github.com/nodejs/nodejs.org/pull/6934,2024-07-19T13:23:17Z,2024-07-20T15:31:14Z,3,1,MERGED
+nodejs.org,Fix: Removed misleading information,https://github.com/nodejs/nodejs.org/pull/6924,2024-07-12T14:16:21Z,2024-07-16T04:07:37Z,2,1,MERGED
+nodejs.org,[automated]: crowdin sync - enabled indonesian,https://github.com/nodejs/nodejs.org/pull/6918,2024-07-09T14:15:45Z,2024-07-16T16:00:06Z,2,84,MERGED
+nodejs.org,"""Backpressuring in Streams"" doc: Update pipeline examples",https://github.com/nodejs/nodejs.org/pull/6905,2024-07-05T21:00:09Z,2024-07-07T10:53:40Z,3,2,MERGED
+nodejs.org,fix: make the `searchButton` width dynamic to fit the content,https://github.com/nodejs/nodejs.org/pull/6904,2024-07-05T05:24:55Z,2024-07-21T20:52:10Z,11,4,MERGED
+nodejs.org,[automated]: crowdin sync - enables Ukrainian,https://github.com/nodejs/nodejs.org/pull/6993,2024-08-19T21:28:18Z,2024-08-22T04:01:51Z,1,100,MERGED
+nodejs.org,Changed 10E7 to numeric for better readability,https://github.com/nodejs/nodejs.org/pull/6990,2024-08-16T08:56:27Z,2024-08-18T00:48:47Z,2,1,MERGED
+nodejs.org,[automated]: crowdin sync,https://github.com/nodejs/nodejs.org/pull/6988,2024-08-15T13:15:16Z,2024-08-18T09:02:00Z,1,111,MERGED
+nodejs.org,docs: add docs for Proto package manager,https://github.com/nodejs/nodejs.org/pull/6978,2024-08-04T05:37:30Z,2024-12-29T04:40:59Z,3,1,CLOSED
+nodejs.org,6492 surfin 404,https://github.com/nodejs/nodejs.org/pull/7056,2024-09-23T11:52:17Z,2024-09-25T18:57:27Z,20,9,MERGED
+nodejs.org,fix: Use default messages from `en` as fallback if messages are missing in another locale,https://github.com/nodejs/nodejs.org/pull/7054,2024-09-18T13:25:22Z,2024-09-21T02:37:25Z,4,3,MERGED
+nodejs.org,fixed the text cutoff issue,https://github.com/nodejs/nodejs.org/pull/7046,2024-09-16T18:33:57Z,2024-09-20T02:00:25Z,5,3,MERGED
+nodejs.org,TypeScript article: Add experimental-strip-types note,https://github.com/nodejs/nodejs.org/pull/7030,2024-09-04T14:05:12Z,2024-09-05T03:24:21Z,3,1,CLOSED
+nodejs.org,Add additional information for running mjs code example,https://github.com/nodejs/nodejs.org/pull/7026,2024-09-02T21:15:03Z,2024-09-05T01:40:37Z,3,1,MERGED
+nodejs.org,fix(zh-cn): translation missing some text,https://github.com/nodejs/nodejs.org/pull/7149,2024-10-28T09:25:32Z,2024-10-28T11:16:43Z,2,1,CLOSED
+nodejs.org,feat: Introducing avatar tooltip,https://github.com/nodejs/nodejs.org/pull/7143,2024-10-25T22:07:48Z,2024-11-18T16:37:29Z,46,24,MERGED
+nodejs.org,feat(blog): enable events,https://github.com/nodejs/nodejs.org/pull/7137,2024-10-24T13:21:26Z,2024-10-25T22:24:34Z,3,1,MERGED
+nodejs.org,fix: 404 on the 'package managers' link on home page,https://github.com/nodejs/nodejs.org/pull/7134,2024-10-22T00:58:52Z,2024-10-22T04:01:06Z,6,1,MERGED
+nodejs.org,style: make sidebars sticky,https://github.com/nodejs/nodejs.org/pull/7132,2024-10-18T06:49:46Z,2024-10-31T23:18:14Z,7,2,MERGED
+nodejs.org,Add `brew install corepack` for current / pending releases,https://github.com/nodejs/nodejs.org/pull/7120,2024-10-12T16:12:15Z,2024-10-12T19:42:04Z,5,2,CLOSED
+nodejs.org,Fix: select box overflow on download pages,https://github.com/nodejs/nodejs.org/pull/7119,2024-10-11T20:44:06Z,2024-10-12T19:33:47Z,3,2,MERGED
+nodejs.org,Optimize CI during crowdin sync,https://github.com/nodejs/nodejs.org/pull/7114,2024-10-09T14:43:24Z,2024-10-11T19:11:15Z,4,2,MERGED
+nodejs.org,"[automated]: crowdin sync, enables turkish",https://github.com/nodejs/nodejs.org/pull/7089,2024-10-04T22:06:45Z,2024-10-15T12:13:48Z,13,307,MERGED
+nodejs.org,add changes to MetaBar index.modul.css,https://github.com/nodejs/nodejs.org/pull/7286,2024-11-28T09:27:21Z,2024-11-28T19:07:53Z,4,1,CLOSED
+nodejs.org,Add contribute link to navbar,https://github.com/nodejs/nodejs.org/pull/7274,2024-11-22T03:09:06Z,2024-12-04T13:12:43Z,8,2,MERGED
+nodejs.org,Fix: whitespace between the main content and progressive sidebar,https://github.com/nodejs/nodejs.org/pull/7271,2024-11-21T15:43:14Z,2024-12-13T22:46:14Z,12,4,MERGED
+nodejs.org,fix: Links for changelog and blog post do not meet accessibility criterion ,https://github.com/nodejs/nodejs.org/pull/7250,2024-11-20T10:33:46Z,2024-11-20T12:54:31Z,4,1,MERGED
+nodejs.org,fix: download button pointing to an incorrect binary on Windows arm64,https://github.com/nodejs/nodejs.org/pull/7240,2024-11-19T12:06:24Z,2024-11-19T20:49:00Z,7,2,MERGED
+nodejs.org,fix: Credit link changes from X to LinkedIn for Angela Angelini,https://github.com/nodejs/nodejs.org/pull/7236,2024-11-18T09:22:19Z,2024-11-19T01:25:11Z,7,2,MERGED
+nodejs.org,feat: add skip-to-content button,https://github.com/nodejs/nodejs.org/pull/7235,2024-11-16T17:02:56Z,2024-11-16T19:39:27Z,4,1,CLOSED
+nodejs.org,fix: add the missing “/” in the link.,https://github.com/nodejs/nodejs.org/pull/7226,2024-11-13T14:08:37Z,2024-11-13T16:23:24Z,4,1,CLOSED
+nodejs.org,feat: add Bluesky social icon and update footer navigation,https://github.com/nodejs/nodejs.org/pull/7218,2024-11-12T16:11:04Z,2024-11-16T01:14:08Z,6,3,MERGED
+nodejs.org,Increase font size of headings in metabar table of contents,https://github.com/nodejs/nodejs.org/pull/7374,2024-12-31T05:46:42Z,2025-01-02T20:01:39Z,2,1,CLOSED
+nodejs.org,docs: add Devbox as commumity download option,https://github.com/nodejs/nodejs.org/pull/7370,2024-12-29T03:44:58Z,2025-01-13T09:16:04Z,12,6,MERGED
+nodejs.org,feat(button): introduce `size` variant,https://github.com/nodejs/nodejs.org/pull/7348,2024-12-22T10:59:59Z,2024-12-24T19:03:02Z,4,1,MERGED
+nodejs.org,feat: use localName in dropdown,https://github.com/nodejs/nodejs.org/pull/7337,2024-12-18T15:34:53Z,2024-12-20T16:04:54Z,3,1,MERGED
+nodejs.org,docs: fix typos in wasm mjs example,https://github.com/nodejs/nodejs.org/pull/7333,2024-12-17T12:01:13Z,2024-12-19T00:13:45Z,2,1,MERGED
+nodejs.org,docs: #7416 - Removes winget from documentation because of unreliability,https://github.com/nodejs/nodejs.org/pull/7419,2025-01-24T08:15:42Z,2025-01-24T09:08:02Z,6,2,CLOSED
+nodejs.org,docs: Updated a string in array of code example,https://github.com/nodejs/nodejs.org/pull/7402,2025-01-11T11:22:41Z,2025-01-14T03:23:01Z,4,1,MERGED
+nodejs.org,7342 edit this translation,https://github.com/nodejs/nodejs.org/pull/7389,2025-01-06T23:17:36Z,2025-01-08T20:55:04Z,7,2,MERGED
+nodejs.org,fix: ensure code elements within links display correct link styling (#7339),https://github.com/nodejs/nodejs.org/pull/7386,2025-01-04T06:29:59Z,2025-01-06T15:13:29Z,3,1,MERGED
+nodejs.org,Visually differentiate table of content heading levels,https://github.com/nodejs/nodejs.org/pull/7385,2025-01-03T13:54:46Z,2025-01-06T15:05:32Z,4,2,MERGED
+nodejs.org,Make site work with the Cloudflare OpenNext adapter,https://github.com/nodejs/nodejs.org/pull/7383,2025-01-02T18:50:56Z,2025-05-12T15:52:11Z,98,1,MERGED
+nodejs.org,Docs: change createReadStream to fs.createReadStream,https://github.com/nodejs/nodejs.org/pull/7511,2025-02-25T08:44:52Z,2025-02-25T09:30:26Z,4,1,MERGED
+nodejs.org,fix: Replace broken links with correct ones,https://github.com/nodejs/nodejs.org/pull/7505,2025-02-19T07:26:46Z,2025-02-19T07:45:10Z,3,1,CLOSED
+nodejs.org,Add thin scrollbar styling to CodeBox and Tabs components,https://github.com/nodejs/nodejs.org/pull/7489,2025-02-11T16:37:02Z,2025-02-24T02:43:12Z,4,2,MERGED
+nodejs.org,style: code fallback font,https://github.com/nodejs/nodejs.org/pull/7480,2025-02-08T07:34:55Z,2025-02-10T22:02:06Z,3,2,MERGED
+nodejs.org,fix(diagnostics): Updated flamegraph tutorial to use better tools,https://github.com/nodejs/nodejs.org/pull/7474,2025-02-04T04:10:56Z,2025-02-11T22:38:53Z,3,1,MERGED
+nodejs.org,Docs: change createReadStream to fs.createReadStream,https://github.com/nodejs/nodejs.org/pull/7511,2025-02-25T08:44:52Z,2025-02-25T09:30:26Z,4,1,MERGED
+nodejs.org,fix: Replace broken links with correct ones,https://github.com/nodejs/nodejs.org/pull/7505,2025-02-19T07:26:46Z,2025-02-19T07:45:10Z,3,1,CLOSED
+nodejs.org,Add thin scrollbar styling to CodeBox and Tabs components,https://github.com/nodejs/nodejs.org/pull/7489,2025-02-11T16:37:02Z,2025-02-24T02:43:12Z,4,2,MERGED
+nodejs.org,style: code fallback font,https://github.com/nodejs/nodejs.org/pull/7480,2025-02-08T07:34:55Z,2025-02-10T22:02:06Z,3,2,MERGED
+nodejs.org,fix(diagnostics): Updated flamegraph tutorial to use better tools,https://github.com/nodejs/nodejs.org/pull/7474,2025-02-04T04:10:56Z,2025-02-11T22:38:53Z,3,1,MERGED
+nodejs.org,fix(header): set `tabIndex` to `-1`,https://github.com/nodejs/nodejs.org/pull/7586,2025-03-30T16:07:04Z,2025-04-01T09:23:16Z,5,1,MERGED
+nodejs.org,"feat(scroll btn): Add SelectScrollButton for scrolling dropdown, visual overflow indication",https://github.com/nodejs/nodejs.org/pull/7579,2025-03-28T04:10:03Z,2025-04-14T22:14:07Z,16,1,CLOSED
+nodejs.org,adds llm.txt file to docs,https://github.com/nodejs/nodejs.org/pull/7574,2025-03-26T13:24:29Z,2025-03-28T13:28:34Z,2,1,CLOSED
+nodejs.org,fix: modified css module,https://github.com/nodejs/nodejs.org/pull/7570,2025-03-25T09:02:47Z,2025-03-25T10:18:42Z,12,3,MERGED
+nodejs.org,feat: supporter page and updated home page,https://github.com/nodejs/nodejs.org/pull/7552,2025-03-14T17:23:09Z,2025-07-16T23:07:44Z,12,2,CLOSED
+nodejs.org,docs(websocket): Add guide on using the native WebSocket client.,https://github.com/nodejs/nodejs.org/pull/7535,2025-03-03T16:09:21Z,2025-03-05T16:38:32Z,10,3,MERGED
+nodejs.org,fix(rss): add timestamp to guid,https://github.com/nodejs/nodejs.org/pull/7648,2025-04-13T13:59:52Z,2025-04-16T00:33:54Z,12,3,MERGED
+nodejs.org,feat: introduce stylelint plugin,https://github.com/nodejs/nodejs.org/pull/7644,2025-04-11T17:38:56Z,2025-04-13T14:14:34Z,13,5,MERGED
+nodejs.org,fix: convert incorrect breadcrumb links to opaque spans,https://github.com/nodejs/nodejs.org/pull/7626,2025-04-06T23:39:16Z,2025-05-09T21:50:48Z,19,3,MERGED
+nodejs.org,chore(blog): add and normalize authors,https://github.com/nodejs/nodejs.org/pull/7619,2025-04-04T08:01:02Z,2025-04-07T12:48:28Z,6,6,MERGED
+nodejs.org,chore: refactor the `generateBlogData` function (again) (#7607),https://github.com/nodejs/nodejs.org/pull/7618,2025-04-03T22:38:11Z,2025-04-24T12:20:36Z,27,5,MERGED
+nodejs.org,fix(ui): Fix tabs component overflow issue,https://github.com/nodejs/nodejs.org/pull/7798,2025-05-31T18:59:34Z,2025-05-31T23:12:14Z,4,2,MERGED
+nodejs.org,feat(ui): add `DataTag`,https://github.com/nodejs/nodejs.org/pull/7797,2025-05-31T17:26:50Z,2025-06-01T13:49:08Z,16,7,MERGED
+nodejs.org,fix(ui): skeleton animation,https://github.com/nodejs/nodejs.org/pull/7795,2025-05-31T13:44:43Z,2025-05-31T15:07:31Z,3,1,MERGED
+nodejs.org,feat: Introduce Downloads Archive page,https://github.com/nodejs/nodejs.org/pull/7794,2025-05-31T12:02:05Z,2025-08-27T01:03:55Z,146,91,MERGED
+nodejs.org,fix: Ensure links maintain green color within bold text,https://github.com/nodejs/nodejs.org/pull/7744,2025-05-13T20:39:39Z,2025-05-15T10:41:02Z,7,3,MERGED
+nodejs.org,fix(table): only apply border to immediate `td` children,https://github.com/nodejs/nodejs.org/pull/7911,2025-06-30T00:51:32Z,2025-07-01T15:19:37Z,6,3,MERGED
+nodejs.org,fix(site): close release modal on eol link click,https://github.com/nodejs/nodejs.org/pull/7903,2025-06-27T18:45:50Z,2025-06-28T17:33:33Z,8,3,MERGED
+nodejs.org,docs: improve wording,https://github.com/nodejs/nodejs.org/pull/7898,2025-06-26T18:24:39Z,2025-06-28T08:25:45Z,5,2,MERGED
+nodejs.org,fix(AlertBox): override code styles in a markdown context,https://github.com/nodejs/nodejs.org/pull/7890,2025-06-24T15:54:55Z,2025-06-26T12:09:59Z,9,2,MERGED
+nodejs.org,fix(sidebar): use placeholders in select menu,https://github.com/nodejs/nodejs.org/pull/7871,2025-06-17T15:44:47Z,2025-06-19T15:20:36Z,10,3,MERGED
+nodejs.org,feat(ui-components): add `ChangeHistory`,https://github.com/nodejs/nodejs.org/pull/7869,2025-06-15T21:31:19Z,2025-06-17T05:23:53Z,35,11,MERGED
+nodejs.org,fix(sidebar): use RegExp for outgoing link detection,https://github.com/nodejs/nodejs.org/pull/7844,2025-06-07T13:36:59Z,2025-06-07T21:06:39Z,6,2,MERGED
+nodejs.org,fix(ui): avatar overlap,https://github.com/nodejs/nodejs.org/pull/7834,2025-06-04T19:53:09Z,2025-06-06T13:28:24Z,3,1,MERGED
+nodejs.org,chore: re-enable open-next build check,https://github.com/nodejs/nodejs.org/pull/8039,2025-07-28T18:48:48Z,2025-07-30T15:16:42Z,12,2,MERGED
+nodejs.org,feat(docs): add dual ESM/CJS tabs to fetch documentation,https://github.com/nodejs/nodejs.org/pull/8035,2025-07-26T01:20:38Z,2025-07-29T02:22:24Z,1,8,CLOSED
+nodejs.org,"[automated]: crowdin sync, enables Romanian",https://github.com/nodejs/nodejs.org/pull/8008,2025-07-22T11:56:52Z,2025-07-25T14:42:55Z,4,2,MERGED
+nodejs.org,fix the position of the footer links,https://github.com/nodejs/nodejs.org/pull/8003,2025-07-21T01:55:11Z,2025-07-22T18:27:46Z,10,5,MERGED
+nodejs.org,"fix(CodeTabs): name overrides, duplicate name titles",https://github.com/nodejs/nodejs.org/pull/7994,2025-07-19T18:55:32Z,2025-07-21T12:46:20Z,5,2,MERGED
+nodejs.org,feat: add eol page,https://github.com/nodejs/nodejs.org/pull/7990,2025-07-16T23:31:03Z,2025-08-15T12:01:29Z,164,69,MERGED
+nodejs.org,fix: tr cannot be a child of table,https://github.com/nodejs/nodejs.org/pull/7968,2025-07-09T00:18:13Z,2025-07-09T01:16:36Z,4,1,CLOSED
+nodejs.org,fix(downloads/choco): use current name/version,https://github.com/nodejs/nodejs.org/pull/7944,2025-07-03T21:21:47Z,2025-07-05T12:29:00Z,6,1,MERGED
+nodejs.org,fix(learn): current sendMail typo,https://github.com/nodejs/nodejs.org/pull/7940,2025-07-03T13:02:57Z,2025-07-03T14:36:09Z,4,1,MERGED
+nodejs.org,Patch 2,https://github.com/nodejs/nodejs.org/pull/7936,2025-07-02T22:37:53Z,2025-07-03T14:27:37Z,4,2,CLOSED
+nodejs.org,feat: create css-only responsive table,https://github.com/nodejs/nodejs.org/pull/8098,2025-08-21T02:06:12Z,2025-09-14T01:37:34Z,29,20,MERGED
+nodejs.org,fix: Remove unnecessary margin from sidebar item,https://github.com/nodejs/nodejs.org/pull/8084,2025-08-17T08:47:48Z,2025-08-24T20:59:14Z,6,2,MERGED
+nodejs.org,feat: create responsive table,https://github.com/nodejs/nodejs.org/pull/8079,2025-08-15T21:32:16Z,2025-08-21T02:07:05Z,17,10,CLOSED
+nodejs.org,AGS Drama,https://github.com/nodejs/nodejs.org/pull/8074,2025-08-13T19:38:06Z,2025-08-13T20:06:46Z,1,1,CLOSED
+nodejs.org,hotfix(css): reference index in Turtle css,https://github.com/nodejs/nodejs.org/pull/8066,2025-08-06T20:10:23Z,2025-08-06T20:22:05Z,4,1,MERGED
+nodejs.org,style: update sidebar item spacing and scrollbar styles,https://github.com/nodejs/nodejs.org/pull/8166,2025-09-12T19:45:21Z,2025-10-20T13:41:27Z,10,3,CLOSED
+nodejs.org,style(sidebar): make hover full-width and add clearer item spacing,https://github.com/nodejs/nodejs.org/pull/8158,2025-09-09T19:21:00Z,2025-09-10T21:04:34Z,4,1,MERGED

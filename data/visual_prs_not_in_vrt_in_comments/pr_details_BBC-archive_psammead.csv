@@ -1,0 +1,173 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+psammead,Migrate ws-social-slice,https://github.com/BBC-archive/psammead/pull/6,2018-09-28T11:56:49Z,2018-09-29T11:44:26Z,0,1,CLOSED
+psammead,Add Psammead-Styles utility package,https://github.com/BBC-archive/psammead/pull/44,2018-11-26T12:40:42Z,2018-11-26T16:14:15Z,9,19,MERGED
+psammead,Update Image to include AmpImg & add srcset prop,https://github.com/BBC-archive/psammead/pull/241,2018-12-20T14:09:28Z,2019-01-10T13:26:01Z,19,35,MERGED
+psammead,Image stretching fix,https://github.com/BBC-archive/psammead/pull/234,2018-12-19T12:44:25Z,2018-12-20T11:16:24Z,3,6,MERGED
+psammead,Re-home Simorgh Figure in Psammead,https://github.com/BBC-archive/psammead/pull/220,2018-12-17T14:18:27Z,2018-12-20T11:42:06Z,16,30,MERGED
+psammead,Add image placeholder to Psammead,https://github.com/BBC-archive/psammead/pull/213,2018-12-17T09:28:41Z,2018-12-18T09:22:03Z,8,12,MERGED
+psammead,Verify NPM and Node versions,https://github.com/BBC-archive/psammead/pull/196,2018-12-13T10:13:55Z,2018-12-13T16:59:47Z,2,8,MERGED
+psammead,Add script to publish packages,https://github.com/BBC-archive/psammead/pull/180,2018-12-10T16:22:32Z,2018-12-13T17:04:00Z,14,41,MERGED
+psammead,Do not collect coverage from dist,https://github.com/BBC-archive/psammead/pull/176,2018-12-10T11:35:52Z,2018-12-11T15:05:46Z,0,3,MERGED
+psammead,Bump Psammead Paragraph,https://github.com/BBC-archive/psammead/pull/164,2018-12-09T14:40:49Z,2018-12-10T12:09:48Z,2,4,MERGED
+psammead,Adds Brand component to Psammead,https://github.com/BBC-archive/psammead/pull/105,2018-12-04T15:23:03Z,2018-12-11T11:06:45Z,25,31,MERGED
+psammead,Fix deprecated usage of styled-components attrs function,https://github.com/BBC-archive/psammead/pull/101,2018-12-04T14:38:22Z,2018-12-04T16:07:07Z,0,2,MERGED
+psammead,Bump psammead-test-helpers version,https://github.com/BBC-archive/psammead/pull/255,2019-01-03T15:46:34Z,2019-01-04T11:38:21Z,1,6,MERGED
+psammead, Add support for high contrast mode and print and no css,https://github.com/BBC-archive/psammead/pull/253,2019-01-03T14:23:27Z,2019-01-08T11:21:07Z,6,7,MERGED
+psammead,Fix Storybook badge in READMEs,https://github.com/BBC-archive/psammead/pull/251,2019-01-03T13:37:19Z,2019-01-04T10:30:17Z,1,4,MERGED
+psammead,Remove padding top and bottom from inline links,https://github.com/BBC-archive/psammead/pull/248,2019-01-02T13:27:15Z,2019-01-09T16:21:06Z,3,8,MERGED
+psammead,Update InlineLink styling,https://github.com/BBC-archive/psammead/pull/309,2019-02-25T15:35:56Z,2019-02-27T10:29:13Z,3,6,MERGED
+psammead,Update Sitewide Links colours,https://github.com/BBC-archive/psammead/pull/306,2019-02-25T09:57:56Z,2019-03-01T08:19:46Z,3,5,MERGED
+psammead,Update Headline & Subheading colour to Shadow,https://github.com/BBC-archive/psammead/pull/305,2019-02-25T09:19:51Z,2019-02-27T10:26:50Z,5,7,MERGED
+psammead,Update caption padding to match article,https://github.com/BBC-archive/psammead/pull/410,2019-03-29T17:08:33Z,2019-04-01T15:11:41Z,3,7,MERGED
+psammead,Caption styles update,https://github.com/BBC-archive/psammead/pull/365,2019-03-18T14:26:53Z,2019-03-19T15:49:55Z,3,5,MERGED
+psammead,Constrain content width for SiteWideLinks,https://github.com/BBC-archive/psammead/pull/347,2019-03-11T15:55:35Z,2019-03-12T09:55:02Z,2,2,MERGED
+psammead,Fix readme storybook badge,https://github.com/BBC-archive/psammead/pull/324,2019-03-05T21:43:23Z,2019-03-06T12:08:46Z,1,3,MERGED
+psammead,Fix dependancies,https://github.com/BBC-archive/psammead/pull/319,2019-03-04T21:38:34Z,2019-03-05T11:04:39Z,3,5,MERGED
+psammead,Use new font face and font family in psammead packages,https://github.com/BBC-archive/psammead/pull/318,2019-03-04T17:36:35Z,2019-03-06T15:37:30Z,6,9,MERGED
+psammead,Create Story promo component (ws frontpage card),https://github.com/BBC-archive/psammead/pull/453,2019-04-18T07:08:03Z,2019-04-25T07:39:09Z,11,20,MERGED
+psammead,De-italicise italics in caption,https://github.com/BBC-archive/psammead/pull/446,2019-04-16T07:33:07Z,2019-04-23T13:48:59Z,7,12,MERGED
+psammead,Storybook stories cleanup,https://github.com/BBC-archive/psammead/pull/554,2019-05-24T12:29:08Z,2019-05-28T08:46:13Z,2,2,MERGED
+psammead,Display Psammead-styles colours in Storybook,https://github.com/BBC-archive/psammead/pull/537,2019-05-21T07:50:39Z,2019-05-22T09:48:46Z,5,11,MERGED
+psammead,Fix broken story,https://github.com/BBC-archive/psammead/pull/535,2019-05-17T15:42:27Z,2019-05-21T08:42:24Z,2,6,MERGED
+psammead,A11y storybook addon,https://github.com/BBC-archive/psammead/pull/530,2019-05-16T10:12:18Z,2019-06-04T12:37:27Z,10,8,MERGED
+psammead,Update caption,https://github.com/BBC-archive/psammead/pull/524,2019-05-14T21:58:52Z,2019-05-15T14:56:00Z,2,6,MERGED
+psammead,colours: update pebble; add metal,https://github.com/BBC-archive/psammead/pull/505,2019-05-08T10:35:42Z,2019-05-09T08:44:31Z,2,3,MERGED
+psammead,Caption paragraph padding,https://github.com/BBC-archive/psammead/pull/491,2019-05-02T09:44:03Z,2019-05-09T12:34:24Z,7,16,MERGED
+psammead,Hover gap below media indicator ,https://github.com/BBC-archive/psammead/pull/722,2019-06-27T20:49:29Z,2019-07-01T14:53:29Z,1,3,MERGED
+psammead,Add margin to top of story promo list,https://github.com/BBC-archive/psammead/pull/672,2019-06-21T07:19:33Z,2019-06-24T08:37:40Z,2,6,MERGED
+psammead,Create Navigation Component,https://github.com/BBC-archive/psammead/pull/637,2019-06-14T13:09:28Z,2019-06-25T14:40:25Z,26,74,MERGED
+psammead,Option to fade images in,https://github.com/BBC-archive/psammead/pull/618,2019-06-13T09:18:02Z,2019-06-19T10:09:39Z,12,27,MERGED
+psammead,Update all SVGs & add remaining services,https://github.com/BBC-archive/psammead/pull/1523,2019-07-30T08:41:14Z,2019-08-06T08:42:33Z,6,18,MERGED
+psammead,Add Numerals to Psammead Locale,https://github.com/BBC-archive/psammead/pull/1477,2019-07-24T11:58:13Z,2019-07-30T11:02:03Z,12,20,MERGED
+psammead,Consent banner stories for all services,https://github.com/BBC-archive/psammead/pull/1366,2019-07-18T15:30:06Z,2019-07-23T10:30:45Z,4,8,MERGED
+psammead,fix vulnerabilities,https://github.com/BBC-archive/psammead/pull/1237,2019-07-16T10:00:53Z,2019-07-16T10:05:48Z,1,1,MERGED
+psammead,CSS tree validator with custom processor,https://github.com/BBC-archive/psammead/pull/1184,2019-07-12T15:21:43Z,2019-07-22T14:01:12Z,4,19,MERGED
+psammead,Npm deprecate branch,https://github.com/BBC-archive/psammead/pull/1036,2019-07-10T12:52:42Z,2019-07-10T13:11:04Z,3,6,CLOSED
+psammead,CLI for bumping packages and changelogs,https://github.com/BBC-archive/psammead/pull/890,2019-07-08T09:49:03Z,2019-07-18T08:25:19Z,7,33,MERGED
+psammead,Use rem for the Brand SVG height,https://github.com/BBC-archive/psammead/pull/789,2019-07-05T15:05:29Z,2019-07-08T13:20:20Z,1,3,MERGED
+psammead,Use rem instead of px in the Media Indicator SVGs,https://github.com/BBC-archive/psammead/pull/788,2019-07-05T12:31:57Z,2019-07-08T14:12:43Z,2,7,MERGED
+psammead,Brand - High contrast colour in Firefox,https://github.com/BBC-archive/psammead/pull/787,2019-07-05T12:12:47Z,2019-07-08T15:18:44Z,4,5,MERGED
+psammead,Create storybook stories to show different font types,https://github.com/BBC-archive/psammead/pull/1948,2019-08-30T12:55:24Z,2019-09-03T15:09:32Z,1,7,MERGED
+psammead,"Changes to Timestamp Container stories, Moment locales stories",https://github.com/BBC-archive/psammead/pull/1933,2019-08-28T17:15:42Z,2019-09-11T12:36:54Z,5,26,MERGED
+psammead,Fix broken readme links,https://github.com/BBC-archive/psammead/pull/1925,2019-08-27T16:35:46Z,2019-08-28T10:35:24Z,2,5,MERGED
+psammead,update package-lock with audit fix,https://github.com/BBC-archive/psammead/pull/1924,2019-08-27T16:04:19Z,2019-08-28T14:24:37Z,3,7,MERGED
+psammead,"PoC moving locales, services, and removing Moment.js",https://github.com/BBC-archive/psammead/pull/1839,2019-08-20T16:59:57Z,2019-10-08T19:46:51Z,4,2,CLOSED
+psammead,David badges for deps,https://github.com/BBC-archive/psammead/pull/1794,2019-08-17T01:07:00Z,2019-08-18T14:10:14Z,0,9,MERGED
+psammead,Add SVG names & add Uzbek SVG,https://github.com/BBC-archive/psammead/pull/1759,2019-08-14T11:14:08Z,2019-08-15T15:25:22Z,0,7,MERGED
+psammead,Add space to copyright text,https://github.com/BBC-archive/psammead/pull/1731,2019-08-13T13:37:10Z,2019-08-14T13:27:09Z,0,5,MERGED
+psammead,More WS SVGs,https://github.com/BBC-archive/psammead/pull/1646,2019-08-06T16:19:47Z,2019-08-07T17:18:30Z,7,14,MERGED
+psammead,Consent banner - RTL,https://github.com/BBC-archive/psammead/pull/1594,2019-08-05T11:54:02Z,2019-08-07T16:39:45Z,4,18,MERGED
+psammead,Create psammead-play-button for use in Media Player placeholder,https://github.com/BBC-archive/psammead/pull/2253,2019-09-27T16:08:39Z,2019-10-07T07:46:44Z,18,35,MERGED
+psammead,BBC Scotland SVG,https://github.com/BBC-archive/psammead/pull/2192,2019-09-19T16:20:48Z,2019-09-20T08:15:33Z,4,6,MERGED
+psammead,Add moment calendar conversion utility,https://github.com/BBC-archive/psammead/pull/2190,2019-09-19T14:51:53Z,2019-10-01T13:12:06Z,22,53,MERGED
+psammead,Add stories in storybook for media icons in psammead-assets,https://github.com/BBC-archive/psammead/pull/2189,2019-09-19T14:09:20Z,2019-09-23T10:34:51Z,1,9,MERGED
+psammead,Brand - new backgroundColour & logoColour props,https://github.com/BBC-archive/psammead/pull/2127,2019-09-13T16:34:14Z,2019-09-16T11:37:25Z,2,9,MERGED
+psammead,Remove Punjabi numerals in Moment,https://github.com/BBC-archive/psammead/pull/2001,2019-09-04T16:34:08Z,2019-09-06T10:02:39Z,9,21,MERGED
+psammead,Add guidance to Media player,https://github.com/BBC-archive/psammead/pull/2517,2019-10-29T08:50:07Z,2019-11-06T15:51:30Z,43,52,MERGED
+psammead,Fix caniuse lite errors,https://github.com/BBC-archive/psammead/pull/2498,2019-10-25T13:59:21Z,2019-10-28T10:58:12Z,0,6,MERGED
+psammead,Swap out constructor name from if block,https://github.com/BBC-archive/psammead/pull/2495,2019-10-25T11:03:21Z,2019-10-25T12:39:28Z,3,9,MERGED
+psammead,Bump @bbc/psammead-timestamp,https://github.com/BBC-archive/psammead/pull/2461,2019-10-22T14:24:40Z,2019-10-22T15:59:14Z,0,2,CLOSED
+psammead,Fix storybook bug for Sitewide Links,https://github.com/BBC-archive/psammead/pull/2457,2019-10-22T11:25:59Z,2019-10-23T10:09:08Z,2,5,MERGED
+psammead,Ability to create RTL variants of specific/all stories of a kind as substories,https://github.com/BBC-archive/psammead/pull/2453,2019-10-21T16:11:26Z,2019-10-23T09:54:16Z,3,14,MERGED
+psammead,Remove import storybook-chromatic,https://github.com/BBC-archive/psammead/pull/2437,2019-10-18T15:07:17Z,2019-10-18T16:07:42Z,1,4,MERGED
+psammead,Generate rtl variants of all stories,https://github.com/BBC-archive/psammead/pull/2419,2019-10-17T08:40:39Z,2019-10-21T07:31:35Z,3,7,CLOSED
+psammead,add buildRTLSubstories,https://github.com/BBC-archive/psammead/pull/2407,2019-10-15T14:53:02Z,2019-10-17T08:56:42Z,1,10,MERGED
+psammead,WIP - create a RTL variant of each story,https://github.com/BBC-archive/psammead/pull/2366,2019-10-10T11:18:43Z,2019-10-16T10:15:00Z,0,4,CLOSED
+psammead,Sitewide Links fix for IE11,https://github.com/BBC-archive/psammead/pull/2351,2019-10-08T10:32:11Z,2019-10-10T14:45:24Z,6,21,MERGED
+psammead,"Add brand assets for CF, Naidheachdan and Weather",https://github.com/BBC-archive/psammead/pull/2309,2019-10-04T12:45:50Z,2019-10-07T10:59:18Z,3,10,MERGED
+psammead,Fix styling for IE for useful links,https://github.com/BBC-archive/psammead/pull/2308,2019-10-04T10:08:52Z,2019-10-04T14:55:54Z,1,4,MERGED
+psammead,Add AV audio skin story - AMP player,https://github.com/BBC-archive/psammead/pull/2284,2019-10-01T14:50:05Z,2019-10-02T11:48:13Z,3,7,MERGED
+psammead,Add section label with role and aria-labelledby,https://github.com/BBC-archive/psammead/pull/2719,2019-11-29T10:13:45Z,2019-12-02T11:31:47Z,4,13,MERGED
+psammead,Fix vulnerability,https://github.com/BBC-archive/psammead/pull/2718,2019-11-28T17:28:10Z,2019-11-29T10:12:03Z,1,3,MERGED
+psammead,Integrate Most Read components,https://github.com/BBC-archive/psammead/pull/2702,2019-11-27T12:17:00Z,2019-11-28T15:19:38Z,6,24,MERGED
+psammead,Add a brand and colour for archive,https://github.com/BBC-archive/psammead/pull/2686,2019-11-25T16:31:46Z,2019-11-27T09:46:09Z,4,11,MERGED
+psammead,Fix layout on most read list,https://github.com/BBC-archive/psammead/pull/2682,2019-11-25T11:58:58Z,2019-11-25T16:33:53Z,2,5,MERGED
+psammead,Fix skip to content link position,https://github.com/BBC-archive/psammead/pull/2680,2019-11-25T11:04:46Z,2019-11-27T12:08:08Z,4,18,MERGED
+psammead,add ContentAnchor component,https://github.com/BBC-archive/psammead/pull/2582,2019-11-07T15:25:41Z,2020-01-30T10:35:12Z,23,82,MERGED
+psammead,Grid negative margins,https://github.com/BBC-archive/psammead/pull/2568,2019-11-05T15:30:35Z,2019-11-13T11:50:09Z,1,7,MERGED
+psammead,Export Nepali numerals,https://github.com/BBC-archive/psammead/pull/2855,2019-12-30T10:58:37Z,2019-12-30T11:17:22Z,0,2,MERGED
+psammead,Fix for AV caption indentation on mobile,https://github.com/BBC-archive/psammead/pull/2803,2019-12-10T09:09:03Z,2019-12-11T10:11:06Z,3,4,CLOSED
+psammead,Fix nav menu border in High Contrast,https://github.com/BBC-archive/psammead/pull/2778,2019-12-05T14:43:24Z,2019-12-05T15:36:07Z,1,6,MERGED
+psammead,Bulletin - add padding right above 600px,https://github.com/BBC-archive/psammead/pull/2755,2019-12-03T13:23:06Z,2019-12-03T13:37:03Z,1,5,MERGED
+psammead,Fix MenuButton not acting as block element.,https://github.com/BBC-archive/psammead/pull/2747,2019-12-02T16:22:08Z,2019-12-03T08:54:12Z,0,2,MERGED
+psammead,Add transparent border around the PlayCTA,https://github.com/BBC-archive/psammead/pull/2744,2019-12-02T11:25:23Z,2019-12-02T12:07:22Z,0,4,MERGED
+psammead,Inline Media Indicator,https://github.com/BBC-archive/psammead/pull/3029,2020-01-29T15:38:46Z,2020-02-04T15:58:40Z,10,26,MERGED
+psammead,"Add brand, colour and fonts for Learning English",https://github.com/BBC-archive/psammead/pull/3020,2020-01-28T12:23:59Z,2020-01-29T16:11:56Z,7,10,MERGED
+psammead,Update Bulletin promo to match desktop layout,https://github.com/BBC-archive/psammead/pull/3018,2020-01-27T14:20:34Z,2020-01-30T12:51:22Z,4,26,MERGED
+psammead,Update Story Promo List border-bottom,https://github.com/BBC-archive/psammead/pull/3014,2020-01-27T11:13:26Z,2020-01-27T12:25:25Z,1,3,MERGED
+psammead,Add aria label to item,https://github.com/BBC-archive/psammead/pull/2981,2020-01-20T13:09:10Z,2020-01-20T14:44:14Z,3,4,CLOSED
+psammead,Add program card component to radio-schedule,https://github.com/BBC-archive/psammead/pull/2938,2020-01-15T12:21:17Z,2020-01-30T14:16:56Z,52,76,MERGED
+psammead,Update leading story styling,https://github.com/BBC-archive/psammead/pull/2929,2020-01-13T16:56:38Z,2020-01-16T10:29:07Z,5,16,CLOSED
+psammead,Add border only to script link on hover,https://github.com/BBC-archive/psammead/pull/2896,2020-01-10T09:58:46Z,2020-01-13T11:08:58Z,1,7,MERGED
+psammead,Increase spacing between columns in MostRead,https://github.com/BBC-archive/psammead/pull/2885,2020-01-08T16:40:52Z,2020-01-16T10:54:11Z,2,14,CLOSED
+psammead,Change display of program cards in group3 & update stories to include 4 cards,https://github.com/BBC-archive/psammead/pull/3184,2020-02-27T11:38:13Z,2020-03-02T12:18:53Z,3,14,MERGED
+psammead,Alias radio schedule to be a list,https://github.com/BBC-archive/psammead/pull/3181,2020-02-26T10:09:13Z,2020-02-27T11:30:58Z,5,9,MERGED
+psammead,Make radio schedule summary non-required prop,https://github.com/BBC-archive/psammead/pull/3179,2020-02-25T11:06:08Z,2020-03-02T09:56:05Z,5,12,MERGED
+psammead,Story Promo - Fallback spacing for Leading promo,https://github.com/BBC-archive/psammead/pull/3150,2020-02-17T14:31:15Z,2020-02-20T11:54:58Z,3,17,MERGED
+psammead,Update RadioSchedule wrapper to include correct hidden start time,https://github.com/BBC-archive/psammead/pull/3132,2020-02-13T15:36:38Z,2020-02-18T10:40:34Z,3,12,MERGED
+psammead,[DNM] Brand - fix P2 a11y bug limiting iOS Voice Control,https://github.com/BBC-archive/psammead/pull/3131,2020-02-13T15:19:47Z,2020-02-28T11:41:09Z,10,17,CLOSED
+psammead,Render max item two columns for most-read,https://github.com/BBC-archive/psammead/pull/3116,2020-02-12T08:59:09Z,2020-02-17T15:03:27Z,6,31,MERGED
+psammead, Media Indicator - Pass dir,https://github.com/BBC-archive/psammead/pull/3109,2020-02-11T08:46:31Z,2020-02-11T09:55:52Z,2,5,MERGED
+psammead,"Update top-level Story-Promo, Grid and Media Indicator",https://github.com/BBC-archive/psammead/pull/3107,2020-02-10T16:43:38Z,2020-02-12T11:35:29Z,4,21,MERGED
+psammead,Format hidden start time in program-card for Radio Schedules,https://github.com/BBC-archive/psammead/pull/3074,2020-02-06T12:24:38Z,2020-02-11T13:48:22Z,2,18,MERGED
+psammead,Use updated media indicator in Story Promo and Index Alsos,https://github.com/BBC-archive/psammead/pull/3073,2020-02-06T12:05:42Z,2020-02-10T15:57:45Z,9,47,MERGED
+psammead,Story Promo List - Padding update,https://github.com/BBC-archive/psammead/pull/3070,2020-02-06T09:48:30Z,2020-02-06T11:30:30Z,2,5,MERGED
+psammead,Media Indicator - remove spacing on the low-level component,https://github.com/BBC-archive/psammead/pull/3062,2020-02-05T11:24:30Z,2020-02-06T11:10:25Z,6,15,MERGED
+psammead,create radio schedules wrapper component,https://github.com/BBC-archive/psammead/pull/3050,2020-02-03T09:18:48Z,2020-02-13T00:33:17Z,10,30,MERGED
+psammead,Fix StartTime styling bugs,https://github.com/BBC-archive/psammead/pull/3318,2020-03-30T14:07:29Z,2020-04-03T10:55:20Z,2,12,MERGED
+psammead,Update most read rank for Persian and Pashto,https://github.com/BBC-archive/psammead/pull/3317,2020-03-30T13:36:37Z,2020-03-31T16:04:00Z,4,10,MERGED
+psammead,Story Promo List - Add border prop,https://github.com/BBC-archive/psammead/pull/3315,2020-03-30T11:46:43Z,2020-03-31T17:12:20Z,3,8,MERGED
+psammead,Fix ProgramCard styling bug in Windows High Contrast Mode,https://github.com/BBC-archive/psammead/pull/3312,2020-03-27T16:04:52Z,2020-03-31T08:33:34Z,1,7,MERGED
+psammead,Fix radio schedules duration formatting,https://github.com/BBC-archive/psammead/pull/3302,2020-03-25T13:47:33Z,2020-03-25T16:28:05Z,1,4,MERGED
+psammead,Use `selectedService` prop in psammead-radio-schedules & psammead-most-read stories,https://github.com/BBC-archive/psammead/pull/3291,2020-03-23T12:30:27Z,2020-03-25T13:28:04Z,7,15,MERGED
+psammead,Fix script link span spacing,https://github.com/BBC-archive/psammead/pull/3245,2020-03-12T09:26:54Z,2020-03-12T16:28:25Z,1,3,MERGED
+psammead,Added fixes for oneColumn layout in IE11,https://github.com/BBC-archive/psammead/pull/3243,2020-03-11T16:53:46Z,2020-03-13T10:29:37Z,3,10,MERGED
+psammead,demo of shadow root,https://github.com/BBC-archive/psammead/pull/3235,2020-03-10T09:52:07Z,2020-05-11T18:34:45Z,2,1,CLOSED
+psammead,Refactor RankWrapper in MostRead,https://github.com/BBC-archive/psammead/pull/3201,2020-03-03T16:09:02Z,2020-03-10T12:06:13Z,9,24,MERGED
+psammead,Update most read numerals,https://github.com/BBC-archive/psammead/pull/3199,2020-03-03T14:48:50Z,2020-03-03T17:32:09Z,6,5,MERGED
+psammead,add data-e2e attribute to radio schedule item,https://github.com/BBC-archive/psammead/pull/3197,2020-03-02T14:38:22Z,2020-03-02T17:28:33Z,0,3,MERGED
+psammead,Define z-index on section-label wrapper,https://github.com/BBC-archive/psammead/pull/3195,2020-03-02T11:49:09Z,2020-03-02T14:41:43Z,3,4,MERGED
+psammead,Update Swahili relative timestamps,https://github.com/BBC-archive/psammead/pull/3412,2020-04-24T10:37:53Z,2020-04-25T20:54:51Z,3,3,MERGED
+psammead,Radio Schedule - ProgramCard - Episode Title & Duration update,https://github.com/BBC-archive/psammead/pull/3377,2020-04-15T06:33:49Z,2020-04-21T14:39:41Z,5,14,MERGED
+psammead,Update Pashto locale date format for LL & LLL,https://github.com/BBC-archive/psammead/pull/3357,2020-04-09T07:02:48Z,2020-04-09T10:59:34Z,4,3,MERGED
+psammead,Remove white border from Program Card,https://github.com/BBC-archive/psammead/pull/3345,2020-04-07T13:42:32Z,2020-04-08T09:41:17Z,2,4,MERGED
+psammead,Invalid HTML bug in section label,https://github.com/BBC-archive/psammead/pull/3328,2020-04-02T17:12:30Z,2020-04-06T10:45:45Z,4,7,MERGED
+psammead,Fix FireFox High Contrast Mode for Radio Schedule,https://github.com/BBC-archive/psammead/pull/3324,2020-04-01T11:02:29Z,2020-04-06T11:03:16Z,3,12,MERGED
+psammead,Most read item padding bottom,https://github.com/BBC-archive/psammead/pull/3502,2020-05-28T16:14:17Z,2020-05-29T09:16:01Z,1,3,MERGED
+psammead,psammead-image: Fix transparency issue,https://github.com/BBC-archive/psammead/pull/3469,2020-05-13T11:03:23Z,2020-05-20T13:00:37Z,5,9,CLOSED
+psammead,Add lunar light colour,https://github.com/BBC-archive/psammead/pull/3466,2020-05-12T11:16:02Z,2020-05-12T14:32:38Z,1,5,MERGED
+psammead,Hide visible pink line below nav element,https://github.com/BBC-archive/psammead/pull/3628,2020-07-22T15:11:07Z,2020-07-22T15:24:47Z,0,3,MERGED
+psammead,Implementing 'dark mode' for psammead-image-placeholder,https://github.com/BBC-archive/psammead/pull/3611,2020-07-16T08:38:32Z,2020-07-20T14:09:31Z,2,22,MERGED
+psammead,Update Thai Canon typography,https://github.com/BBC-archive/psammead/pull/3602,2020-07-14T10:01:43Z,2020-07-14T12:43:45Z,2,3,MERGED
+psammead,Add option to render a link in Psammead Embed Error,https://github.com/BBC-archive/psammead/pull/3573,2020-07-01T15:48:49Z,2020-07-03T12:47:30Z,9,18,MERGED
+psammead,Update C_LUNAR_LIGHT,https://github.com/BBC-archive/psammead/pull/3660,2020-08-11T16:01:50Z,2020-08-12T16:39:32Z,0,3,MERGED
+psammead,Update elliptic to security patched 6.5.3,https://github.com/BBC-archive/psammead/pull/3655,2020-08-05T07:50:29Z,2020-08-05T08:46:07Z,1,3,MERGED
+psammead,Force `prismjs` version again,https://github.com/BBC-archive/psammead/pull/3754,2020-09-10T15:13:57Z,2020-09-10T16:01:34Z,0,2,MERGED
+psammead,Storybook V6 upgrade,https://github.com/BBC-archive/psammead/pull/3728,2020-09-02T09:31:42Z,2020-10-02T11:43:21Z,11,52,MERGED
+psammead,Fix html declaration in fontface global styles,https://github.com/BBC-archive/psammead/pull/3942,2020-10-21T08:58:31Z,2020-10-21T16:25:04Z,1,6,MERGED
+psammead,Un-parallelise Psammead build script,https://github.com/BBC-archive/psammead/pull/3887,2020-10-15T13:46:52Z,2020-10-15T13:52:16Z,1,4,MERGED
+psammead,Migrate visually-hidden-text to Emotion,https://github.com/BBC-archive/psammead/pull/3873,2020-10-14T14:53:42Z,2020-10-14T15:03:39Z,3,2,MERGED
+psammead,Remove package publishing slack notification code,https://github.com/BBC-archive/psammead/pull/3812,2020-10-01T13:29:05Z,2020-10-02T09:01:31Z,0,5,MERGED
+psammead,Add SVGs and colours for Sport and Newsround,https://github.com/BBC-archive/psammead/pull/4160,2020-12-17T16:25:20Z,2021-01-06T15:05:02Z,1,11,MERGED
+psammead,Duration wrapper padding bug,https://github.com/BBC-archive/psammead/pull/4148,2020-12-15T09:29:23Z,2020-12-15T11:06:25Z,4,7,MERGED
+psammead,Fix issue where recent video episodes shows audio icon,https://github.com/BBC-archive/psammead/pull/4129,2020-12-11T12:41:31Z,2020-12-15T09:01:50Z,0,4,MERGED
+psammead,Fix column overflow,https://github.com/BBC-archive/psammead/pull/4107,2020-12-08T09:44:53Z,2020-12-15T10:32:18Z,5,9,CLOSED
+psammead,add flex-basis (min-width) for image when viewport < 400px,https://github.com/BBC-archive/psammead/pull/4292,2021-01-27T12:39:45Z,2021-01-27T13:06:06Z,0,4,MERGED
+psammead,Update pinned dependencies,https://github.com/BBC-archive/psammead/pull/4223,2021-01-14T16:45:22Z,2021-01-15T08:14:22Z,0,10,MERGED
+psammead,[PS AMP] Add colours needed for Navigations,https://github.com/BBC-archive/psammead/pull/4221,2021-01-14T14:59:33Z,2021-01-15T09:16:35Z,0,7,MERGED
+psammead,Update psammead-navigation to require colours as props,https://github.com/BBC-archive/psammead/pull/4187,2021-01-06T13:05:10Z,2021-01-14T16:46:22Z,8,23,MERGED
+psammead,Move duplicated styles from media queries to grid/grid-item root style,https://github.com/BBC-archive/psammead/pull/4179,2021-01-06T09:49:34Z,2021-01-06T11:56:16Z,0,5,MERGED
+psammead,Only run chromatic/change scanner when the packages directory has changed,https://github.com/BBC-archive/psammead/pull/4371,2021-02-23T13:47:04Z,2021-02-24T09:51:21Z,1,10,MERGED
+psammead,Remove lerna package,https://github.com/BBC-archive/psammead/pull/4444,2021-03-24T09:43:07Z,2021-03-24T12:40:51Z,4,7,MERGED
+psammead,add ssri@8.0.1 and to resolutions trim@0.0.3,https://github.com/BBC-archive/psammead/pull/4434,2021-03-15T15:27:47Z,2021-03-15T16:05:40Z,1,2,MERGED
+psammead,Create Psammead CLI for versioning and changelogs,https://github.com/BBC-archive/psammead/pull/4423,2021-03-05T14:41:24Z,2022-01-12T11:18:12Z,2,9,CLOSED
+psammead,Fixes most read rank overlapping the link,https://github.com/BBC-archive/psammead/pull/4471,2021-04-29T15:30:28Z,2021-05-10T13:29:17Z,6,7,MERGED
+psammead,upgrade husky to v6,https://github.com/BBC-archive/psammead/pull/4470,2021-04-29T07:52:32Z,2021-05-07T14:28:38Z,1,5,MERGED
+psammead,remove root package from getPackages,https://github.com/BBC-archive/psammead/pull/4455,2021-04-08T15:12:48Z,2021-04-09T10:25:05Z,1,6,MERGED
+psammead,Adds bottom nav border in high contrast mode,https://github.com/BBC-archive/psammead/pull/4475,2021-05-06T07:46:21Z,2021-05-10T15:13:07Z,7,6,MERGED
+psammead,[Snyk] Security upgrade browserslist from 4.14.6 to 4.16.5,https://github.com/BBC-archive/psammead/pull/4508,2021-07-07T09:08:42Z,2021-09-08T13:55:07Z,0,7,MERGED
+psammead,Conditional aria-labelledby for StoryPromo - IndexAlsos,https://github.com/BBC-archive/psammead/pull/4603,2021-11-25T16:31:17Z,2021-11-25T16:59:23Z,1,5,MERGED
+psammead,added missing id to Psammead-brand,https://github.com/BBC-archive/psammead/pull/4598,2021-11-17T10:54:55Z,2021-11-17T11:46:05Z,1,6,MERGED
+psammead,Bump psammead-live-label to solve merge to Simorgh issue,https://github.com/BBC-archive/psammead/pull/4597,2021-11-16T15:01:59Z,2021-11-16T15:47:31Z,2,4,MERGED
+psammead,Moving image `sizes` attribute to `source` tags,https://github.com/BBC-archive/psammead/pull/4626,2022-02-15T14:19:56Z,2022-02-15T15:23:12Z,0,5,MERGED
+psammead,[Snyk] Upgrade ramda from 0.27.2 to 0.28.0,https://github.com/BBC-archive/psammead/pull/4614,2022-02-06T16:29:59Z,2022-03-10T16:39:09Z,0,8,MERGED

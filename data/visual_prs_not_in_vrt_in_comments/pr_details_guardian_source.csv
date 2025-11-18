@@ -1,0 +1,274 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+source,Add blue radio error,https://github.com/guardian/source/pull/72,2019-10-31T15:52:03Z,2019-10-31T15:52:11Z,0,2,MERGED
+source,Add new error colour,https://github.com/guardian/source/pull/71,2019-10-31T15:46:23Z,2019-10-31T15:49:37Z,0,2,MERGED
+source,Text input widths,https://github.com/guardian/source/pull/69,2019-10-31T10:56:41Z,2019-10-31T11:35:41Z,0,2,MERGED
+source,Improve input text styling,https://github.com/guardian/source/pull/66,2019-10-29T10:38:21Z,2019-10-29T10:38:32Z,0,1,MERGED
+source,Add supporting text prop to text input,https://github.com/guardian/source/pull/64,2019-10-29T09:17:02Z,2019-10-29T09:17:09Z,0,1,MERGED
+source,Optional prop in text input,https://github.com/guardian/source/pull/63,2019-10-29T09:05:07Z,2019-10-29T09:05:27Z,0,2,MERGED
+source,Support InlineError in TextInput,https://github.com/guardian/source/pull/60,2019-10-28T11:53:09Z,2019-10-28T11:53:50Z,0,3,MERGED
+source,Improve styling of default text inputs,https://github.com/guardian/source/pull/58,2019-10-25T14:40:29Z,2019-10-25T14:41:04Z,0,1,MERGED
+source,Use slightly correcter fonts,https://github.com/guardian/source/pull/57,2019-10-25T13:55:45Z,2019-10-25T14:16:48Z,0,2,MERGED
+source,Add a checkbox component,https://github.com/guardian/source/pull/103,2019-11-26T15:56:18Z,2019-11-27T09:57:11Z,0,7,MERGED
+source,Reinstate xlarge text sans size,https://github.com/guardian/source/pull/100,2019-11-26T09:11:00Z,2019-11-26T09:14:07Z,0,1,MERGED
+source,Update inline error,https://github.com/guardian/source/pull/74,2019-11-01T10:42:35Z,2019-11-01T10:44:44Z,0,3,MERGED
+source,Improve colour of inline error on blue background,https://github.com/guardian/source/pull/73,2019-11-01T09:21:20Z,2019-11-01T09:22:01Z,0,3,MERGED
+source,Radio checked and hover colours,https://github.com/guardian/source/pull/139,2019-12-19T16:04:38Z,2019-12-19T16:05:06Z,0,2,MERGED
+source,Radio: rich supporting content,https://github.com/guardian/source/pull/138,2019-12-19T11:32:04Z,2019-12-19T11:34:49Z,0,2,MERGED
+source,Checkbox: rich supporting content,https://github.com/guardian/source/pull/137,2019-12-19T11:21:14Z,2019-12-19T11:34:04Z,0,2,MERGED
+source,"Radio: better styles, better types, better markup",https://github.com/guardian/source/pull/134,2019-12-18T10:47:37Z,2019-12-18T10:47:57Z,0,4,MERGED
+source,Checkbox: indeterminate state,https://github.com/guardian/source/pull/133,2019-12-17T15:51:33Z,2019-12-18T09:23:30Z,0,6,MERGED
+source,Checkbox: error state and message,https://github.com/guardian/source/pull/132,2019-12-17T09:28:34Z,2019-12-17T09:36:15Z,0,2,MERGED
+source,Checkbox: supporting text,https://github.com/guardian/source/pull/130,2019-12-16T14:27:35Z,2019-12-16T14:54:35Z,0,6,MERGED
+source,Add icon nudge animation,https://github.com/guardian/source/pull/127,2019-12-16T11:06:57Z,2019-12-16T11:10:32Z,0,1,MERGED
+source,Centre align button contents,https://github.com/guardian/source/pull/107,2019-12-04T15:00:01Z,2019-12-04T15:00:17Z,0,1,MERGED
+source,Use more functional colours for radio themes,https://github.com/guardian/source/pull/171,2020-01-13T10:20:51Z,2020-01-13T10:21:53Z,0,1,MERGED
+source,Hook up checkbox themes,https://github.com/guardian/source/pull/170,2020-01-10T16:03:53Z,2020-01-10T16:09:35Z,0,1,MERGED
+source,Expose mono theme for links,https://github.com/guardian/source/pull/167,2020-01-10T11:46:30Z,2020-01-10T11:46:46Z,0,1,MERGED
+source,Add subdued link API,https://github.com/guardian/source/pull/160,2020-01-09T15:44:25Z,2020-01-09T15:44:38Z,0,1,MERGED
+source,New SVGs: external and chevron-left-single,https://github.com/guardian/source/pull/158,2020-01-09T15:16:54Z,2020-01-09T15:22:56Z,0,2,MERGED
+source,Add icon styling to links,https://github.com/guardian/source/pull/157,2020-01-09T12:02:27Z,2020-01-09T14:59:55Z,0,2,MERGED
+source,First pass at link component,https://github.com/guardian/source/pull/156,2020-01-09T10:37:03Z,2020-01-09T10:37:34Z,0,1,MERGED
+source,Add story demoing select all mechanism,https://github.com/guardian/source/pull/147,2020-01-03T16:06:47Z,2020-01-06T11:17:54Z,0,5,MERGED
+source,Tighten line-height of checkbox supporting text,https://github.com/guardian/source/pull/144,2020-01-02T13:33:44Z,2020-01-02T13:38:36Z,0,1,MERGED
+source,Loosen up radio button spacing,https://github.com/guardian/source/pull/143,2020-01-02T12:43:20Z,2020-01-02T12:43:51Z,0,1,MERGED
+source,Radio: label to support rich content,https://github.com/guardian/source/pull/142,2020-01-02T11:51:42Z,2020-01-02T11:55:41Z,0,2,MERGED
+source,Checkbox: presentational improvements,https://github.com/guardian/source/pull/141,2020-01-02T11:46:07Z,2020-01-02T11:46:33Z,0,3,MERGED
+source,Add hover colours for choice cards,https://github.com/guardian/source/pull/238,2020-02-27T13:57:26Z,2020-02-27T14:55:43Z,0,2,MERGED
+source,Multi-state choice card,https://github.com/guardian/source/pull/226,2020-02-17T21:22:11Z,2020-02-17T21:27:42Z,0,2,MERGED
+source,First pass at choice cards,https://github.com/guardian/source/pull/221,2020-02-12T15:55:44Z,2020-02-12T16:03:16Z,0,3,MERGED
+source,Apply error styles when invalid,https://github.com/guardian/source/pull/219,2020-02-11T17:07:02Z,2020-02-12T09:53:59Z,0,3,MERGED
+source,Support unlabelled radio buttons,https://github.com/guardian/source/pull/210,2020-02-08T23:14:27Z,2020-02-08T23:16:16Z,0,1,MERGED
+source,Support unlabelled checkboxes,https://github.com/guardian/source/pull/206,2020-02-07T23:36:59Z,2020-02-08T22:17:48Z,0,6,MERGED
+source,Editorial lines,https://github.com/guardian/source/pull/302,2020-03-31T21:20:10Z,2020-04-03T14:03:52Z,12,1,MERGED
+source,Supporting text only,https://github.com/guardian/source/pull/299,2020-03-27T14:37:11Z,2020-03-27T14:48:37Z,0,2,MERGED
+source,add blue border to text input when active,https://github.com/guardian/source/pull/298,2020-03-27T10:30:20Z,2020-03-27T14:03:03Z,1,2,MERGED
+source,make text input label bold by default,https://github.com/guardian/source/pull/296,2020-03-25T17:54:29Z,2020-03-26T10:26:53Z,1,1,MERGED
+source,Choice card tweaks,https://github.com/guardian/source/pull/283,2020-03-19T12:21:14Z,2020-03-19T12:23:40Z,0,3,MERGED
+source,update payment svgs,https://github.com/guardian/source/pull/277,2020-03-18T14:48:23Z,2020-03-18T14:54:12Z,0,1,MERGED
+source,Support 30 x 20 SVGs,https://github.com/guardian/source/pull/273,2020-03-16T10:56:46Z,2020-03-16T11:08:21Z,0,2,MERGED
+source,Choice card icon,https://github.com/guardian/source/pull/268,2020-03-12T15:21:49Z,2020-03-12T21:44:04Z,0,3,MERGED
+source,Choice card error,https://github.com/guardian/source/pull/267,2020-03-11T15:09:44Z,2020-03-11T15:16:47Z,0,3,MERGED
+source,Choice card stacks on mobile viewport,https://github.com/guardian/source/pull/266,2020-03-11T13:27:29Z,2020-03-11T13:57:44Z,0,3,MERGED
+source,Install and configure storybook viewport addon,https://github.com/guardian/source/pull/265,2020-03-11T12:00:34Z,2020-03-11T12:01:51Z,0,7,MERGED
+source,add choice card check animation,https://github.com/guardian/source/pull/263,2020-03-10T14:59:19Z,2020-03-11T09:25:17Z,0,2,MERGED
+source,Add group supporting text,https://github.com/guardian/source/pull/261,2020-03-09T21:00:04Z,2020-03-09T21:03:14Z,0,3,MERGED
+source,change colour,https://github.com/guardian/source/pull/258,2020-03-06T10:20:33Z,2020-03-06T10:21:13Z,0,1,MERGED
+source,Add group label for choice card group,https://github.com/guardian/source/pull/257,2020-03-04T23:40:41Z,2020-03-04T23:42:14Z,0,1,MERGED
+source,Remove right margin from last choice card in group,https://github.com/guardian/source/pull/251,2020-03-02T16:25:02Z,2020-03-02T16:27:23Z,0,1,MERGED
+source,Use box shadow to apply choice card border,https://github.com/guardian/source/pull/250,2020-03-02T12:58:59Z,2020-03-02T13:00:27Z,0,2,MERGED
+source,Change choice card checked colour,https://github.com/guardian/source/pull/248,2020-03-02T11:11:01Z,2020-03-02T11:11:27Z,0,1,MERGED
+source,add focus halo to choice card,https://github.com/guardian/source/pull/247,2020-03-02T10:46:36Z,2020-03-02T10:50:21Z,0,1,MERGED
+source,Thicken border on check and hover,https://github.com/guardian/source/pull/246,2020-03-02T10:32:29Z,2020-03-02T10:39:04Z,0,1,MERGED
+source,Rework tertiary priority buttons,https://github.com/guardian/source/pull/338,2020-04-22T19:47:12Z,2020-04-22T20:00:26Z,0,6,MERGED
+source,Accordion refactors,https://github.com/guardian/source/pull/329,2020-04-16T16:29:55Z,2020-04-17T15:12:42Z,0,1,MERGED
+source,Align icon to center for link,https://github.com/guardian/source/pull/327,2020-04-16T13:38:58Z,2020-04-16T14:50:21Z,3,4,MERGED
+source,GuardianRoundel,https://github.com/guardian/source/pull/323,2020-04-12T15:17:14Z,2020-06-11T22:26:16Z,6,2,CLOSED
+source,Icons Stories,https://github.com/guardian/source/pull/322,2020-04-12T14:58:34Z,2020-04-14T14:54:21Z,5,3,MERGED
+source,Add chevron SVGs,https://github.com/guardian/source/pull/319,2020-04-08T20:59:43Z,2020-04-08T21:03:35Z,0,1,MERGED
+source,Add reader revenue light theme,https://github.com/guardian/source/pull/317,2020-04-08T15:32:33Z,2020-04-08T15:35:46Z,0,3,MERGED
+source,Subdued button,https://github.com/guardian/source/pull/315,2020-04-08T10:10:22Z,2020-04-08T13:40:28Z,0,2,MERGED
+source,update positional properties for unlabelled checkbox tick,https://github.com/guardian/source/pull/314,2020-04-08T09:11:39Z,2020-04-08T09:14:44Z,0,1,MERGED
+source,Transaparent backgrounds for tertiary buttons,https://github.com/guardian/source/pull/313,2020-04-07T14:15:32Z,2020-04-07T16:05:24Z,1,3,MERGED
+source,add aria-required attribute based on optional prop,https://github.com/guardian/source/pull/310,2020-04-07T10:11:12Z,2020-04-07T12:22:39Z,0,1,MERGED
+source,Add indent icon,https://github.com/guardian/source/pull/309,2020-04-06T15:36:08Z,2020-04-06T15:55:11Z,0,1,MERGED
+source,"Hardcode icon width, allow height to scale",https://github.com/guardian/source/pull/308,2020-04-06T15:32:14Z,2020-04-06T15:55:17Z,0,1,MERGED
+source,Resize indent svg to be 30x30,https://github.com/guardian/source/pull/364,2020-05-20T14:47:32Z,2020-05-20T14:58:18Z,0,1,MERGED
+source,IE11 fixes,https://github.com/guardian/source/pull/363,2020-05-20T10:51:04Z,2020-05-20T14:08:44Z,0,5,MERGED
+source,Use ex instead of ch for better browser consistency,https://github.com/guardian/source/pull/362,2020-05-20T10:50:36Z,2020-05-20T14:26:56Z,0,1,MERGED
+source,Bring accordion font usage into line with design,https://github.com/guardian/source/pull/356,2020-05-12T09:15:16Z,2020-05-12T09:28:59Z,0,1,MERGED
+source,Accordion icon size,https://github.com/guardian/source/pull/353,2020-05-07T10:25:45Z,2020-05-07T14:29:57Z,0,1,MERGED
+source,Add nudge animation to toggle icon on hover,https://github.com/guardian/source/pull/352,2020-05-07T09:41:54Z,2020-05-07T09:43:39Z,0,1,MERGED
+source,Add logic to hide or show toggle label text,https://github.com/guardian/source/pull/351,2020-05-06T15:13:32Z,2020-05-06T15:16:10Z,0,1,MERGED
+source,Fix overflow issues with text input at narrow viewports,https://github.com/guardian/source/pull/348,2020-05-04T15:25:17Z,2020-05-04T15:31:02Z,0,2,MERGED
+source,Add xsmall button,https://github.com/guardian/source/pull/347,2020-05-01T16:18:13Z,2020-05-01T16:30:03Z,0,1,MERGED
+source,Reinstate nudge animation in buttons with icons,https://github.com/guardian/source/pull/416,2020-06-26T14:44:23Z,2020-06-26T14:53:22Z,1,1,MERGED
+source,Use spacer div instead of margins for btn icons,https://github.com/guardian/source/pull/415,2020-06-26T13:53:21Z,2020-06-26T14:34:36Z,0,1,MERGED
+source,Update icon widths in buttons,https://github.com/guardian/source/pull/414,2020-06-26T10:34:43Z,2020-06-26T10:44:50Z,0,1,MERGED
+source,Select box component,https://github.com/guardian/source/pull/411,2020-06-25T14:51:15Z,2020-06-25T14:56:11Z,0,2,MERGED
+source,Inline message alignment,https://github.com/guardian/source/pull/404,2020-06-24T15:13:04Z,2020-06-25T10:22:29Z,0,3,MERGED
+source,Added spacing based on global space tokens,https://github.com/guardian/source/pull/403,2020-06-23T15:34:54Z,2020-06-26T10:37:48Z,3,2,CLOSED
+source,Add success prop to text input,https://github.com/guardian/source/pull/399,2020-06-19T12:57:15Z,2020-06-19T15:15:21Z,0,2,MERGED
+source,Add social sharing icons,https://github.com/guardian/source/pull/398,2020-06-18T14:55:17Z,2020-06-18T14:59:54Z,0,2,MERGED
+source,Set radio button background color to transparent,https://github.com/guardian/source/pull/397,2020-06-17T15:39:26Z,2020-06-17T15:51:35Z,0,1,MERGED
+source,Support long inline messages,https://github.com/guardian/source/pull/396,2020-06-17T10:58:42Z,2020-06-17T13:50:13Z,0,2,MERGED
+source,Guardian live logo,https://github.com/guardian/source/pull/394,2020-06-12T15:48:34Z,2020-06-17T16:46:12Z,3,5,MERGED
+source,Restore horizontal space between icon and text,https://github.com/guardian/source/pull/393,2020-06-12T14:04:15Z,2020-06-12T14:07:16Z,0,1,MERGED
+source,Improve spacing in text input and text area components,https://github.com/guardian/source/pull/392,2020-06-12T13:44:50Z,2020-06-12T13:48:41Z,0,2,MERGED
+source,Centre align icon and text at mobile,https://github.com/guardian/source/pull/391,2020-06-12T10:57:59Z,2020-06-12T13:27:32Z,0,1,MERGED
+source,Update payment icon sizes,https://github.com/guardian/source/pull/390,2020-06-12T10:49:38Z,2020-06-12T10:58:57Z,0,4,MERGED
+source,Support UI icons in choice card,https://github.com/guardian/source/pull/389,2020-06-11T15:26:24Z,2020-06-11T15:35:38Z,0,3,MERGED
+source,Text Area Rows/Height support,https://github.com/guardian/source/pull/388,2020-06-11T09:26:21Z,2020-06-11T12:50:53Z,1,6,MERGED
+source,Add Guardian logo,https://github.com/guardian/source/pull/386,2020-06-10T09:58:09Z,2020-06-10T12:59:19Z,0,1,MERGED
+source,Add user feedback components,https://github.com/guardian/source/pull/385,2020-06-09T14:12:31Z,2020-06-09T14:57:16Z,0,2,MERGED
+source,Add round tick icon,https://github.com/guardian/source/pull/383,2020-06-05T09:39:36Z,2020-06-05T09:50:56Z,0,2,MERGED
+source,Adding subdued priority to LinkButton,https://github.com/guardian/source/pull/382,2020-06-04T15:43:34Z,2020-06-05T10:28:11Z,0,1,MERGED
+source,Various button label improvements,https://github.com/guardian/source/pull/375,2020-06-01T15:24:47Z,2020-06-01T15:31:24Z,0,3,MERGED
+source,"Add camera, speech bubble, star icons",https://github.com/guardian/source/pull/374,2020-06-01T10:55:00Z,2020-06-01T13:56:39Z,0,2,MERGED
+source,Add brand package,https://github.com/guardian/source/pull/372,2020-06-01T10:10:45Z,2020-06-01T10:16:40Z,0,2,MERGED
+source,Select box styling,https://github.com/guardian/source/pull/472,2020-07-30T10:57:21Z,2020-07-31T09:41:57Z,0,3,MERGED
+source,Add button link,https://github.com/guardian/source/pull/464,2020-07-29T15:29:35Z,2020-07-29T16:03:19Z,0,3,MERGED
+source,Add leftCol support to grid,https://github.com/guardian/source/pull/456,2020-07-22T14:20:22Z,2020-07-22T14:31:48Z,0,1,MERGED
+source,Add subdued examples to text and icon story,https://github.com/guardian/source/pull/439,2020-07-15T09:51:23Z,2020-07-15T09:57:53Z,0,1,MERGED
+source,Add help and person icons,https://github.com/guardian/source/pull/429,2020-07-09T15:48:08Z,2020-07-09T15:51:26Z,0,2,MERGED
+source,Settings and house icons,https://github.com/guardian/source/pull/428,2020-07-09T15:30:13Z,2020-07-09T15:32:32Z,0,2,MERGED
+source,Add new success and error colours,https://github.com/guardian/source/pull/420,2020-07-06T13:40:55Z,2020-07-06T15:57:50Z,0,4,MERGED
+source,Add legend to radio group,https://github.com/guardian/source/pull/516,2020-08-28T14:35:41Z,2020-08-28T14:38:42Z,0,4,MERGED
+source,Support legend in checkbox group,https://github.com/guardian/source/pull/511,2020-08-26T16:48:56Z,2020-08-28T13:18:25Z,0,4,MERGED
+source,Label brand theme,https://github.com/guardian/source/pull/510,2020-08-26T16:28:09Z,2020-08-26T16:43:57Z,0,2,MERGED
+source,Pull icon to start of row,https://github.com/guardian/source/pull/508,2020-08-26T14:51:51Z,2020-08-26T14:56:07Z,0,1,MERGED
+source,Prevent SVG repetition,https://github.com/guardian/source/pull/505,2020-08-24T08:46:34Z,2020-09-03T12:56:20Z,9,13,MERGED
+source,Label component,https://github.com/guardian/source/pull/504,2020-08-21T16:09:28Z,2020-08-21T16:13:10Z,0,2,MERGED
+source,Remove z-index from checkbox,https://github.com/guardian/source/pull/501,2020-08-19T11:05:02Z,2020-08-19T14:29:37Z,0,1,MERGED
+source,Remove z-index when focus halo is applied,https://github.com/guardian/source/pull/500,2020-08-19T10:49:25Z,2020-08-19T10:54:03Z,0,1,MERGED
+source,Use more accessible colour for opinion.300,https://github.com/guardian/source/pull/496,2020-08-17T16:02:59Z,2020-08-17T16:30:52Z,0,1,MERGED
+source,Footer design tweaks,https://github.com/guardian/source/pull/495,2020-08-14T16:30:02Z,2020-08-14T16:32:46Z,0,2,MERGED
+source,Add support for children in footer,https://github.com/guardian/source/pull/494,2020-08-13T16:15:12Z,2020-08-13T16:25:18Z,0,1,MERGED
+source,Back to top hover styling,https://github.com/guardian/source/pull/493,2020-08-12T16:02:55Z,2020-08-12T16:07:06Z,0,2,MERGED
+source,Add back to top link to footer,https://github.com/guardian/source/pull/491,2020-08-12T10:27:33Z,2020-08-12T15:22:43Z,0,3,MERGED
+source,Add footer component,https://github.com/guardian/source/pull/487,2020-08-07T15:56:24Z,2020-08-07T16:20:41Z,0,3,MERGED
+source,Select style tweaks,https://github.com/guardian/source/pull/479,2020-08-03T10:31:05Z,2020-08-03T10:36:17Z,0,3,MERGED
+source,Add an Inline component,https://github.com/guardian/source/pull/547,2020-09-29T14:11:38Z,2020-10-13T14:25:22Z,3,1,MERGED
+source,Add container component,https://github.com/guardian/source/pull/544,2020-09-28T14:57:58Z,2020-09-29T12:34:19Z,0,1,MERGED
+source,Add layout package with stack component,https://github.com/guardian/source/pull/539,2020-09-23T13:59:13Z,2020-09-25T09:50:15Z,2,1,MERGED
+source,Don't use flexbox inside a fieldset,https://github.com/guardian/source/pull/538,2020-09-22T14:00:59Z,2020-09-23T10:13:30Z,0,1,MERGED
+source,"New icons: play, eyes and alerts",https://github.com/guardian/source/pull/536,2020-09-21T13:33:24Z,2020-09-22T09:01:59Z,1,1,MERGED
+source,Eight lines of anything,https://github.com/guardian/source/pull/523,2020-09-04T13:00:18Z,2020-09-08T09:57:42Z,4,6,MERGED
+source,Add tiles component,https://github.com/guardian/source/pull/582,2020-10-26T11:56:46Z,2020-11-13T13:48:23Z,5,6,MERGED
+source,Filled roundels,https://github.com/guardian/source/pull/579,2020-10-20T13:34:33Z,2020-10-20T14:04:12Z,3,3,MERGED
+source,Update Container component padding at mobile breakpoints,https://github.com/guardian/source/pull/576,2020-10-15T14:04:32Z,2020-10-16T14:22:44Z,0,1,MERGED
+source,Inline link icon story,https://github.com/guardian/source/pull/571,2020-10-13T16:43:52Z,2020-10-19T13:11:26Z,3,5,MERGED
+source,feat(footer): make back to top button not escaping footer,https://github.com/guardian/source/pull/568,2020-10-08T17:07:09Z,2020-10-15T12:26:53Z,2,2,MERGED
+source,Add hide component,https://github.com/guardian/source/pull/565,2020-10-07T09:55:17Z,2020-10-07T10:12:15Z,0,1,MERGED
+source,Add columns component,https://github.com/guardian/source/pull/562,2020-10-05T13:51:14Z,2020-10-06T10:38:17Z,0,1,MERGED
+source,Add columns Prop to ChoiceCardGroup,https://github.com/guardian/source/pull/554,2020-10-02T11:47:32Z,2020-10-05T09:24:07Z,7,6,MERGED
+source,Improve layout docs,https://github.com/guardian/source/pull/607,2020-11-18T15:18:24Z,2020-11-18T15:21:55Z,0,2,MERGED
+source,Choice card updates,https://github.com/guardian/source/pull/597,2020-11-03T10:57:03Z,2020-11-03T12:01:49Z,0,2,MERGED
+source,Update alert icon,https://github.com/guardian/source/pull/652,2020-12-15T13:53:07Z,2020-12-15T13:54:23Z,0,1,MERGED
+source,Make label text block level,https://github.com/guardian/source/pull/647,2020-12-15T10:11:54Z,2020-12-15T10:14:26Z,0,1,MERGED
+source,Make label and supporting text hideable,https://github.com/guardian/source/pull/635,2020-12-04T11:59:01Z,2020-12-04T12:04:36Z,0,1,MERGED
+source,Build an Editorial Storybook,https://github.com/guardian/source/pull/696,2021-01-27T12:23:32Z,2021-01-28T09:24:18Z,0,1,MERGED
+source,Add share SVG icons,https://github.com/guardian/source/pull/693,2021-01-20T12:05:30Z,2021-03-11T10:47:38Z,6,9,MERGED
+source,Checkbox support optional,https://github.com/guardian/source/pull/679,2021-01-04T18:37:39Z,2021-10-08T08:46:19Z,5,6,CLOSED
+source,Add support for optional prop in RadioGroup,https://github.com/guardian/source/pull/678,2021-01-04T18:11:09Z,2022-04-29T14:03:09Z,10,1,CLOSED
+source,Full width labels,https://github.com/guardian/source/pull/675,2021-01-04T09:11:51Z,2021-01-04T09:17:25Z,0,2,MERGED
+source,Supporting hiding above and below breakpoints,https://github.com/guardian/source/pull/729,2021-02-16T09:00:07Z,2021-02-16T11:19:19Z,1,1,MERGED
+source,Support responsive column widths,https://github.com/guardian/source/pull/726,2021-02-15T12:06:48Z,2021-02-26T08:25:38Z,2,7,MERGED
+source,Coloured Lines,https://github.com/guardian/source/pull/786,2021-03-31T08:15:47Z,2021-03-31T10:13:52Z,6,5,MERGED
+source,Dashed lines (for labs),https://github.com/guardian/source/pull/782,2021-03-25T13:22:08Z,2021-03-26T12:32:46Z,6,12,MERGED
+source,Responsive columns based on number of grid columns spanned,https://github.com/guardian/source/pull/760,2021-03-04T12:00:50Z,2021-03-23T15:10:14Z,9,37,MERGED
+source,`src-ed-quote-icon`,https://github.com/guardian/source/pull/804,2021-04-16T14:23:55Z,2021-05-12T14:23:38Z,6,6,MERGED
+source,`StarRating` Component,https://github.com/guardian/source/pull/803,2021-04-16T12:07:36Z,2021-04-29T13:34:10Z,6,9,MERGED
+source,`src ed button`,https://github.com/guardian/source/pull/801,2021-04-15T11:10:54Z,2021-05-06T07:37:21Z,4,8,MERGED
+source,`Editorial` Section Title,https://github.com/guardian/source/pull/799,2021-04-14T13:21:47Z,2021-04-19T08:33:57Z,0,1,MERGED
+source,Add gift icon svg,https://github.com/guardian/source/pull/822,2021-05-19T16:49:05Z,2021-05-25T14:17:42Z,1,2,MERGED
+source,"Icons for Google, Facebook and Apple",https://github.com/guardian/source/pull/821,2021-05-19T08:57:50Z,2021-06-04T09:46:58Z,9,9,MERGED
+source,Add double chevron icons,https://github.com/guardian/source/pull/811,2021-05-07T10:57:04Z,2021-05-17T09:49:35Z,0,2,MERGED
+source,add offline-cloud svg icon,https://github.com/guardian/source/pull/840,2021-06-28T12:38:38Z,2021-07-08T11:01:59Z,4,3,MERGED
+source,623: add JSX.Element type to supporting prop definition,https://github.com/guardian/source/pull/839,2021-06-24T16:07:26Z,2021-07-08T14:23:01Z,5,3,MERGED
+source,Add globe icon,https://github.com/guardian/source/pull/829,2021-06-15T14:28:47Z,2021-06-16T09:02:17Z,0,2,MERGED
+source,Add TextArea docs to storybook,https://github.com/guardian/source/pull/891,2021-07-30T16:05:49Z,2021-08-02T13:30:58Z,2,4,MERGED
+source,Add TextInput docs to storybook,https://github.com/guardian/source/pull/890,2021-07-30T15:47:45Z,2021-08-02T13:19:04Z,3,6,MERGED
+source,User feedback docs,https://github.com/guardian/source/pull/889,2021-07-30T14:51:18Z,2021-08-02T11:48:40Z,0,5,MERGED
+source,Add `@storybook/addon-a11y`,https://github.com/guardian/source/pull/887,2021-07-30T13:37:07Z,2021-08-02T11:07:15Z,0,2,MERGED
+source,Add usage docs to Storybook,https://github.com/guardian/source/pull/886,2021-07-30T11:47:16Z,2021-10-25T13:52:05Z,1,6,MERGED
+source,Show packages in storybook nav,https://github.com/guardian/source/pull/883,2021-07-27T14:16:27Z,2021-07-28T15:48:07Z,1,6,MERGED
+source,Update offline cloud SVG,https://github.com/guardian/source/pull/882,2021-07-27T08:18:21Z,2021-07-27T08:54:59Z,0,2,MERGED
+source,Add clock icon,https://github.com/guardian/source/pull/843,2021-07-02T16:01:04Z,2021-07-08T10:53:35Z,1,2,MERGED
+source,Add playground to icon storybook,https://github.com/guardian/source/pull/945,2021-08-24T16:01:27Z,2021-08-26T10:39:23Z,2,5,MERGED
+source,fix: Ensure focus halo covers svg children,https://github.com/guardian/source/pull/943,2021-08-20T15:05:12Z,2021-08-24T09:12:35Z,2,1,MERGED
+source,organise `editorial` stories by package,https://github.com/guardian/source/pull/938,2021-08-17T22:23:53Z,2021-08-18T09:13:14Z,0,2,MERGED
+source,feat: Added `src-ed-logo`,https://github.com/guardian/source/pull/935,2021-08-17T14:43:25Z,2021-08-20T11:11:52Z,9,15,MERGED
+source,add API docs for `src-layout/Hide`,https://github.com/guardian/source/pull/925,2021-08-13T10:22:59Z,2021-08-17T22:16:49Z,2,11,MERGED
+source,Add api docs for `src-choice-card`,https://github.com/guardian/source/pull/924,2021-08-12T16:07:06Z,2021-08-19T11:54:59Z,7,18,MERGED
+source,story defaults spruce,https://github.com/guardian/source/pull/921,2021-08-12T09:55:27Z,2021-08-12T10:41:07Z,0,4,MERGED
+source,Add story category helpers,https://github.com/guardian/source/pull/919,2021-08-11T10:41:46Z,2021-08-11T14:45:19Z,3,2,MERGED
+source,Add API docs for `src-footer`,https://github.com/guardian/source/pull/917,2021-08-09T15:15:47Z,2021-08-10T14:08:53Z,1,5,MERGED
+source,Change focus halo on text input to a darker shade of blue,https://github.com/guardian/source/pull/916,2021-08-09T15:07:48Z,2021-08-12T10:00:12Z,0,2,MERGED
+source,Move API docs for `label`/`legend`,https://github.com/guardian/source/pull/913,2021-08-06T14:32:37Z,2021-08-09T12:01:53Z,1,18,MERGED
+source,Move Link API docs to storybook,https://github.com/guardian/source/pull/910,2021-08-06T07:04:23Z,2021-08-17T16:14:53Z,3,10,MERGED
+source,Move API docs for `src-brand`,https://github.com/guardian/source/pull/909,2021-08-05T12:40:24Z,2021-08-17T15:37:15Z,3,9,MERGED
+source,Add API docs for `src-radio`,https://github.com/guardian/source/pull/902,2021-08-03T08:11:23Z,2021-08-16T13:33:48Z,7,4,MERGED
+source,Add Select API docs to storybook,https://github.com/guardian/source/pull/899,2021-08-02T12:35:11Z,2021-08-02T13:42:40Z,1,2,MERGED
+source,Spacing in input fields,https://github.com/guardian/source/pull/998,2021-09-30T13:23:39Z,2021-10-01T12:50:57Z,1,6,MERGED
+source,Add vendor prefixes to properties in `@supports` declaration,https://github.com/guardian/source/pull/969,2021-09-10T13:09:42Z,2021-09-29T13:54:08Z,3,6,MERGED
+source,Allow users to set a 'Report this error' link,https://github.com/guardian/source/pull/1111,2021-10-26T16:10:48Z,2021-10-27T11:26:06Z,1,1,MERGED
+source,Source Foundations docs in Storybook,https://github.com/guardian/source/pull/1110,2021-10-26T14:27:22Z,2021-10-28T14:49:00Z,0,11,MERGED
+source,Allow a ReactNode to be passed in as the error summary context,https://github.com/guardian/source/pull/1107,2021-10-26T13:55:11Z,2021-10-27T11:37:56Z,1,4,MERGED
+source,Forward ref to the underlying HTMLInputElement of the TextInput,https://github.com/guardian/source/pull/1106,2021-10-25T17:17:49Z,2021-10-26T11:17:08Z,3,1,CLOSED
+source,Improve documentation for the source space scale mappings.,https://github.com/guardian/source/pull/1101,2021-10-25T12:53:03Z,2021-10-25T13:01:05Z,0,1,MERGED
+source,Automated ESLint Plugin integration tests,https://github.com/guardian/source/pull/1068,2021-10-15T15:25:50Z,2021-10-20T08:13:09Z,3,12,MERGED
+source,create slim version of toggle switch,https://github.com/guardian/source/pull/1029,2021-10-06T15:46:31Z,2021-10-18T09:26:21Z,11,21,MERGED
+source,Optimise best logo SVG,https://github.com/guardian/source/pull/1024,2021-10-06T08:45:54Z,2021-10-19T08:49:18Z,4,12,MERGED
+source,Bump kitchen to 0.0.5,https://github.com/guardian/source/pull/1022,2021-10-05T20:51:00Z,2021-10-06T08:56:22Z,0,3,MERGED
+source,create toggle switch in development kitchen,https://github.com/guardian/source/pull/1013,2021-10-05T09:14:19Z,2021-10-05T16:17:09Z,11,18,MERGED
+source,Add `fit` and `none` as size and spaceAbove options respectively.,https://github.com/guardian/source/pull/1006,2021-10-04T10:09:10Z,2021-10-04T14:36:38Z,7,2,CLOSED
+source,Add ErrorSummary and SuccessSummary components to the kitchen,https://github.com/guardian/source/pull/1000,2021-10-01T11:03:27Z,2021-10-01T13:09:36Z,1,3,MERGED
+source,Refactor theming functions,https://github.com/guardian/source/pull/1195,2021-11-29T21:11:10Z,2021-12-03T16:33:55Z,2,5,MERGED
+source,Replace fill-Rule with fillRule to prevent react dom warning,https://github.com/guardian/source/pull/1194,2021-11-29T19:39:51Z,2021-11-30T11:01:24Z,0,1,MERGED
+source,Kitchen | Summary components: Allow `message` to be passed as `ReactNode`,https://github.com/guardian/source/pull/1163,2021-11-10T16:32:02Z,2021-11-11T09:45:18Z,0,1,MERGED
+source,Retain error/success border size and colour on `:active` state,https://github.com/guardian/source/pull/1156,2021-11-08T12:58:49Z,2021-11-19T09:59:13Z,0,7,MERGED
+source,Use text.inputError for textarea and select,https://github.com/guardian/source/pull/1155,2021-11-08T11:17:21Z,2021-11-08T15:12:51Z,0,2,MERGED
+source,use css overrides in kitchen line styling,https://github.com/guardian/source/pull/1152,2021-11-08T10:10:50Z,2021-11-08T12:25:22Z,1,4,MERGED
+source,fix: Use `as const` hint to help IDE autocomplete,https://github.com/guardian/source/pull/1144,2021-11-05T13:48:18Z,2021-11-08T15:46:56Z,5,11,MERGED
+source,feat: change text colour of input with error to be neutral.7,https://github.com/guardian/source/pull/1136,2021-11-04T11:29:05Z,2021-11-04T13:25:53Z,3,2,MERGED
+source,Improve toggle styling,https://github.com/guardian/source/pull/1134,2021-11-03T13:19:39Z,2021-11-05T11:21:30Z,5,11,MERGED
+source,Add docstrings for typography,https://github.com/guardian/source/pull/1132,2021-11-02T14:28:30Z,2021-11-02T16:03:35Z,0,4,MERGED
+source,Refactor `Summary` components and add `InfoSummary` to kitchen,https://github.com/guardian/source/pull/1130,2021-11-01T16:41:27Z,2021-11-02T10:11:12Z,0,1,MERGED
+source,Reimagine docs information architecture,https://github.com/guardian/source/pull/1223,2021-12-31T12:28:05Z,2022-01-10T22:50:32Z,1,1,CLOSED
+source,Remove v3 stories,https://github.com/guardian/source/pull/1204,2021-12-07T12:44:10Z,2021-12-08T10:56:40Z,0,5,MERGED
+source,Publish packages as discrete modules,https://github.com/guardian/source/pull/1254,2022-01-31T18:52:21Z,2022-02-01T09:39:37Z,1,3,MERGED
+source,feature: Adds paperclip icon,https://github.com/guardian/source/pull/1248,2022-01-25T13:41:49Z,2022-01-26T19:46:05Z,2,1,CLOSED
+source,Change `Colour` to `palette` in Foundations package and add colour tokens to doc,https://github.com/guardian/source/pull/1241,2022-01-24T12:30:58Z,2022-02-08T14:46:32Z,9,10,MERGED
+source,Add box-styles: border box to toggle :before,https://github.com/guardian/source/pull/1237,2022-01-20T15:00:49Z,2022-01-24T11:55:57Z,3,4,MERGED
+source,Add success message to text area,https://github.com/guardian/source/pull/1230,2022-01-11T18:12:11Z,2022-01-12T14:17:28Z,0,3,MERGED
+source,Add colour tokens to Foundations palette,https://github.com/guardian/source/pull/1228,2022-01-10T16:53:06Z,2022-01-24T12:32:14Z,2,1,CLOSED
+source,Reorganise top level docs,https://github.com/guardian/source/pull/1227,2022-01-10T13:37:14Z,2022-01-11T14:57:47Z,0,1,MERGED
+source,Add platform prop and 'web' design to ToggleSwitch,https://github.com/guardian/source/pull/1226,2022-01-05T14:16:54Z,2022-01-12T10:40:52Z,8,5,MERGED
+source,Add alert role to inline user feedback components,https://github.com/guardian/source/pull/1287,2022-02-25T16:21:52Z,2022-02-28T12:26:49Z,1,3,MERGED
+source,Use more representative ChoiceCard label in icon story,https://github.com/guardian/source/pull/1286,2022-02-25T15:45:56Z,2022-02-28T12:33:53Z,1,3,MERGED
+source,Accessible icons,https://github.com/guardian/source/pull/1285,2022-02-25T15:26:16Z,2022-03-09T10:45:16Z,4,45,MERGED
+source,feat(icon): Add `SvgArrowCircleClockwise` (reload icon),https://github.com/guardian/source/pull/1273,2022-02-15T16:23:20Z,2022-02-25T10:21:30Z,4,7,CLOSED
+source,Don't disable docs in Chromatic stories,https://github.com/guardian/source/pull/1269,2022-02-10T22:42:57Z,2022-02-21T09:38:02Z,1,3,MERGED
+source,Add optional LabelPosition prop to Toggle Switch,https://github.com/guardian/source/pull/1264,2022-02-08T12:53:17Z,2022-02-10T09:34:51Z,2,3,MERGED
+source,Downgrade storybook to 6.3 ,https://github.com/guardian/source/pull/1256,2022-02-03T14:56:25Z,2022-02-04T16:33:22Z,2,3,CLOSED
+source,Fix broken links in docs and revamp home page,https://github.com/guardian/source/pull/1314,2022-03-29T06:57:51Z,2022-03-29T12:30:30Z,1,3,MERGED
+source,Use `@deprecated` jsdoc tag,https://github.com/guardian/source/pull/1310,2022-03-17T13:52:22Z,2022-03-24T10:21:27Z,2,4,MERGED
+source,Add pinned SVG icon,https://github.com/guardian/source/pull/1292,2022-03-03T14:40:52Z,2022-03-10T09:42:46Z,2,1,MERGED
+source,Add Guardian Best Website Logo,https://github.com/guardian/source/pull/1400,2022-04-27T14:43:14Z,2022-04-29T09:07:42Z,4,8,MERGED
+source,feat: pure SVG `StarRating` component,https://github.com/guardian/source/pull/1322,2022-04-08T10:56:16Z,2022-04-20T16:21:45Z,2,5,MERGED
+source,Add documentation for `generateSourceId` function,https://github.com/guardian/source/pull/1321,2022-04-07T14:49:54Z,2022-04-19T15:07:39Z,1,1,MERGED
+source,feat(lines): pure SVG patterns,https://github.com/guardian/source/pull/1320,2022-04-06T12:55:28Z,2022-04-20T11:35:55Z,6,13,MERGED
+source,Use correct captialisation for editorial button stories,https://github.com/guardian/source/pull/1443,2022-05-30T15:14:51Z,2022-05-31T21:09:02Z,1,2,MERGED
+source,Increase spacing between choice cards and label,https://github.com/guardian/source/pull/1442,2022-05-30T15:09:46Z,2022-05-31T21:07:27Z,2,2,MERGED
+source,update palette.labs.200,https://github.com/guardian/source/pull/1441,2022-05-30T11:38:22Z,2022-05-31T21:09:31Z,1,2,MERGED
+source,Link/ButtonLink underline changes for a11y,https://github.com/guardian/source/pull/1437,2022-05-19T16:21:31Z,2022-05-24T09:14:56Z,3,6,MERGED
+source,Change underline on subdued (text) Button,https://github.com/guardian/source/pull/1436,2022-05-19T11:55:22Z,2022-05-20T16:58:42Z,1,2,MERGED
+source,Change brand[500] colour token,https://github.com/guardian/source/pull/1435,2022-05-19T09:19:09Z,2022-05-20T15:59:39Z,2,6,MERGED
+source,Update focus colour,https://github.com/guardian/source/pull/1434,2022-05-18T13:56:46Z,2022-05-20T15:58:19Z,3,7,MERGED
+source,Change unselected Checkbox border colour,https://github.com/guardian/source/pull/1433,2022-05-18T11:00:41Z,2022-05-18T13:26:18Z,1,3,MERGED
+source,Change button focus style,https://github.com/guardian/source/pull/1432,2022-05-18T10:53:40Z,2022-05-19T09:22:10Z,3,7,MERGED
+source,Change unselected ChoiceCard border colour,https://github.com/guardian/source/pull/1429,2022-05-17T11:06:48Z,2022-05-18T13:26:44Z,1,3,MERGED
+source,Update `select` border colour,https://github.com/guardian/source/pull/1486,2022-07-25T15:44:21Z,2022-07-28T16:43:52Z,3,3,MERGED
+source,Show palette colours in Chromatic,https://github.com/guardian/source/pull/1482,2022-07-14T14:47:32Z,2022-07-28T16:51:07Z,9,15,MERGED
+source,Add 14px to Body font,https://github.com/guardian/source/pull/1477,2022-07-11T13:45:13Z,2022-07-12T15:29:57Z,1,5,MERGED
+source,Change `TextInput` and `TextArea` default border colours,https://github.com/guardian/source/pull/1476,2022-07-07T15:01:07Z,2022-07-12T13:56:04Z,1,2,MERGED
+source,Create new colour palette wrapper,https://github.com/guardian/source/pull/1498,2022-08-31T09:25:28Z,2022-08-31T11:53:18Z,1,9,MERGED
+source,Use storybook doc-block for color palette story,https://github.com/guardian/source/pull/1496,2022-08-30T11:50:48Z,2022-08-31T10:19:21Z,2,2,CLOSED
+source,Line height storybook documentation,https://github.com/guardian/source/pull/1493,2022-08-23T15:23:35Z,2022-08-30T11:48:32Z,8,9,MERGED
+source,Render fonts in Storybook `typography` docs,https://github.com/guardian/source/pull/1492,2022-08-23T15:20:42Z,2022-08-25T10:51:33Z,8,13,MERGED
+source,Create FooterWithContents and FooterLinks components in dev kitchen,https://github.com/guardian/source/pull/1490,2022-08-19T15:53:02Z,2022-08-25T15:38:26Z,10,3,MERGED
+source,Apply correct loading spinner size on buttons,https://github.com/guardian/source/pull/1558,2022-09-26T13:13:18Z,2022-09-28T09:05:33Z,1,4,MERGED
+source,Set button loading spinner width to 24px,https://github.com/guardian/source/pull/1547,2022-09-15T13:39:29Z,2022-09-21T17:32:50Z,5,6,MERGED
+source,Add special report alt colours,https://github.com/guardian/source/pull/1544,2022-09-15T09:22:23Z,2022-09-15T11:09:11Z,2,3,MERGED
+source,Update changesets config,https://github.com/guardian/source/pull/1521,2022-09-02T13:13:39Z,2022-09-02T13:18:16Z,2,2,MERGED
+source,Fix issue with NumericInput prefixes and suffixes not receiving error or success styling,https://github.com/guardian/source/pull/1610,2022-10-31T11:52:45Z,2022-10-31T15:07:07Z,1,2,MERGED
+source,Storybook upgrade and tidyup in Source,https://github.com/guardian/source/pull/1608,2022-10-25T16:29:36Z,2022-10-27T14:23:25Z,4,25,MERGED
+source,TheGuardian Logo: split letters into their own paths,https://github.com/guardian/source/pull/1600,2022-10-17T14:49:23Z,2022-10-18T10:25:12Z,7,2,MERGED
+source,Add a 'Numeric Input' component to Source dev kitchen,https://github.com/guardian/source/pull/1590,2022-10-11T14:44:23Z,2022-10-12T14:53:07Z,4,7,MERGED
+source,Fix focus-visible on `ToggleSwitch`,https://github.com/guardian/source/pull/1589,2022-10-10T16:09:12Z,2022-10-11T15:38:10Z,2,10,MERGED
+source,Update `ToggleSwitch` component styles,https://github.com/guardian/source/pull/1570,2022-10-05T09:39:13Z,2022-10-10T09:14:50Z,6,12,MERGED
+source,Create `ToggleSwitchApps` component,https://github.com/guardian/source/pull/1569,2022-10-05T08:59:54Z,2022-10-05T11:14:25Z,1,3,MERGED
+source,Fully deprecate `opinion.300` & `culture.350`,https://github.com/guardian/source/pull/1562,2022-10-03T14:47:03Z,2022-10-03T15:21:04Z,2,2,MERGED
+source,Add theming and a dark theme to expanding wrapper,https://github.com/guardian/source/pull/1625,2022-11-29T12:00:15Z,2022-11-29T13:30:57Z,1,2,MERGED
+source,Visually hide `figcaption` in StarRating,https://github.com/guardian/source/pull/1624,2022-11-25T10:21:23Z,2022-12-06T11:39:16Z,6,7,MERGED
+source,Add the SvgShareCallout icon,https://github.com/guardian/source/pull/1617,2022-11-15T15:51:01Z,2022-11-16T15:26:03Z,1,2,MERGED

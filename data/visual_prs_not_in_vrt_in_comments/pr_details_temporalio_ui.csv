@@ -1,0 +1,698 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+ui,Generate camelCase types of API instead of snake case,https://github.com/temporalio/ui/pull/27,2021-07-29T04:36:24Z,2021-07-29T13:18:45Z,0,1,MERGED
+ui,Workflow expand,https://github.com/temporalio/ui/pull/22,2021-07-27T18:00:28Z,2021-07-27T18:07:57Z,0,5,MERGED
+ui,Added close tailwind style button,https://github.com/temporalio/ui/pull/18,2021-07-22T19:51:30Z,2021-07-22T22:39:29Z,1,7,MERGED
+ui,[Styling] Font Change,https://github.com/temporalio/ui/pull/8,2021-07-12T18:11:36Z,2021-07-14T16:51:42Z,1,14,MERGED
+ui,added multiple json view to events,https://github.com/temporalio/ui/pull/65,2021-08-26T20:17:25Z,2021-08-27T17:44:03Z,0,1,MERGED
+ui,Added UTC Time to Time formats,https://github.com/temporalio/ui/pull/62,2021-08-24T18:04:14Z,2021-08-25T16:14:12Z,0,3,MERGED
+ui,Added Tabs for Grid and JSON views for event history,https://github.com/temporalio/ui/pull/58,2021-08-23T16:52:17Z,2021-08-23T23:32:21Z,1,4,MERGED
+ui,added export,https://github.com/temporalio/ui/pull/57,2021-08-18T21:17:32Z,2021-08-24T15:38:09Z,1,7,MERGED
+ui,Relative time,https://github.com/temporalio/ui/pull/54,2021-08-13T20:33:10Z,2021-08-17T16:14:05Z,0,5,MERGED
+ui,Create Header and Auth UI,https://github.com/temporalio/ui/pull/51,2021-08-13T14:26:06Z,2021-08-17T16:14:38Z,3,2,MERGED
+ui,added hightlighting codeblocks,https://github.com/temporalio/ui/pull/49,2021-08-12T19:36:24Z,2021-08-13T18:59:57Z,0,1,MERGED
+ui,Make Header drop downs dismissible,https://github.com/temporalio/ui/pull/122,2021-10-21T20:26:19Z,2021-10-25T18:13:36Z,0,5,MERGED
+ui,Added Codeblock for lastFailure,https://github.com/temporalio/ui/pull/117,2021-10-20T22:58:11Z,2021-10-21T18:21:12Z,0,1,CLOSED
+ui,Add tests and UI for notifications,https://github.com/temporalio/ui/pull/108,2021-10-12T23:01:36Z,2021-10-12T23:14:18Z,1,8,MERGED
+ui,Created Internal component for HeroIcons & Added Doc Links page,https://github.com/temporalio/ui/pull/100,2021-10-11T06:37:35Z,2021-10-20T23:03:00Z,2,1,CLOSED
+ui,Render all the colors in our theme in a nice way so we can iterate on our color scheme,https://github.com/temporalio/ui/pull/142,2021-11-30T00:10:34Z,2021-11-30T20:32:33Z,10,5,CLOSED
+ui,Added Skeleton loader component,https://github.com/temporalio/ui/pull/137,2021-11-18T21:38:17Z,2021-12-08T23:26:33Z,2,9,CLOSED
+ui,Stack trace,https://github.com/temporalio/ui/pull/187,2021-12-30T10:12:19Z,2022-01-07T04:49:09Z,9,25,MERGED
+ui,Implement page for viewing workers,https://github.com/temporalio/ui/pull/184,2021-12-27T18:34:51Z,2022-01-03T18:00:09Z,11,9,MERGED
+ui,"Update workflow header, implement new event history designs",https://github.com/temporalio/ui/pull/181,2021-12-23T18:47:31Z,2021-12-27T17:57:34Z,7,32,MERGED
+ui,Add toolbar buttons,https://github.com/temporalio/ui/pull/180,2021-12-23T17:20:01Z,2021-12-23T17:52:20Z,0,5,MERGED
+ui,Create banner notifying on new Temporal versions,https://github.com/temporalio/ui/pull/177,2021-12-16T06:42:53Z,2022-01-03T18:47:16Z,3,2,MERGED
+ui,Swap out all of the Svelte Heroicons with Font Awesome icons,https://github.com/temporalio/ui/pull/174,2021-12-15T20:36:25Z,2021-12-23T17:23:16Z,3,6,MERGED
+ui,Add correct empty state icon and copy for workflow executions,https://github.com/temporalio/ui/pull/173,2021-12-15T20:07:29Z,2021-12-16T15:52:27Z,1,3,MERGED
+ui,"Add padding to workflow executions, space the filters",https://github.com/temporalio/ui/pull/170,2021-12-14T00:03:36Z,2021-12-14T00:15:57Z,1,2,MERGED
+ui,Changed top bar to a top navigation bar,https://github.com/temporalio/ui/pull/165,2021-12-10T00:27:41Z,2021-12-15T01:24:36Z,6,18,MERGED
+ui,Format event labels with normal capitalization,https://github.com/temporalio/ui/pull/161,2021-12-08T20:40:15Z,2021-12-08T22:12:41Z,0,8,MERGED
+ui,Add colored labels for event types,https://github.com/temporalio/ui/pull/160,2021-12-08T19:43:54Z,2021-12-08T20:09:46Z,0,1,MERGED
+ui,Events tab bar changes,https://github.com/temporalio/ui/pull/153,2021-12-02T23:20:06Z,2021-12-07T03:10:00Z,4,6,MERGED
+ui,reformated workflow details,https://github.com/temporalio/ui/pull/150,2021-12-02T20:09:43Z,2021-12-02T21:50:29Z,0,2,MERGED
+ui,empty workflow state,https://github.com/temporalio/ui/pull/149,2021-12-01T22:12:40Z,2021-12-01T23:02:49Z,1,2,MERGED
+ui,New selects,https://github.com/temporalio/ui/pull/147,2021-12-01T20:37:46Z,2021-12-01T23:14:27Z,0,7,MERGED
+ui,Fix npm build script,https://github.com/temporalio/ui/pull/235,2022-01-17T21:00:06Z,2022-01-18T17:06:57Z,0,1,MERGED
+ui,Fix UI rendering on API call failures,https://github.com/temporalio/ui/pull/234,2022-01-17T17:48:06Z,2022-01-18T17:25:03Z,3,2,MERGED
+ui,Group timer events in compact view,https://github.com/temporalio/ui/pull/233,2022-01-17T02:30:06Z,2022-01-18T17:05:41Z,0,1,MERGED
+ui,Add logout button,https://github.com/temporalio/ui/pull/231,2022-01-14T15:07:38Z,2022-01-14T15:55:41Z,0,1,MERGED
+ui,Make history export work for replay,https://github.com/temporalio/ui/pull/230,2022-01-14T01:48:47Z,2022-01-14T16:10:15Z,2,2,MERGED
+ui,Add child workflows to history compact view,https://github.com/temporalio/ui/pull/228,2022-01-13T04:24:33Z,2022-01-13T16:06:54Z,2,1,MERGED
+ui,Add Signal and Marker events to compact view,https://github.com/temporalio/ui/pull/226,2022-01-12T22:33:23Z,2022-01-13T02:47:39Z,2,2,MERGED
+ui,Show timer event in compact view,https://github.com/temporalio/ui/pull/224,2022-01-12T20:43:22Z,2022-01-12T22:00:21Z,0,3,MERGED
+ui,Adjust spacing below workflow execution header,https://github.com/temporalio/ui/pull/223,2022-01-12T16:39:39Z,2022-01-12T16:41:58Z,0,1,MERGED
+ui,Add event IDs to list,https://github.com/temporalio/ui/pull/219,2022-01-11T22:25:34Z,2022-01-11T23:12:03Z,1,1,MERGED
+ui,added search icon to input,https://github.com/temporalio/ui/pull/196,2022-01-05T00:59:38Z,2022-01-06T15:45:03Z,0,2,MERGED
+ui,Show authenticated user's avatar,https://github.com/temporalio/ui/pull/191,2022-01-03T22:14:28Z,2022-01-04T19:29:28Z,1,3,MERGED
+ui,Show timer timeout value in compact view,https://github.com/temporalio/ui/pull/252,2022-02-01T15:30:51Z,2022-02-07T18:47:07Z,1,2,MERGED
+ui,Add event type to full view,https://github.com/temporalio/ui/pull/391,2022-03-30T00:40:21Z,2022-03-30T01:15:07Z,1,1,MERGED
+ui,"Update history header with state transitions, task queues, parent info",https://github.com/temporalio/ui/pull/388,2022-03-29T19:44:15Z,2022-03-29T20:26:41Z,4,2,MERGED
+ui,/import/events route to import JSON file for event debugging,https://github.com/temporalio/ui/pull/386,2022-03-25T20:45:19Z,2022-03-29T21:33:48Z,5,59,MERGED
+ui,Add refresh button on query page and fix results not showing,https://github.com/temporalio/ui/pull/384,2022-03-25T15:46:35Z,2022-03-25T18:59:47Z,4,2,MERGED
+ui,Add modal with reason input to terminate workflow,https://github.com/temporalio/ui/pull/364,2022-03-22T17:35:37Z,2022-03-22T19:04:39Z,1,2,MERGED
+ui,Fix namespaces not being fetched in local mode,https://github.com/temporalio/ui/pull/361,2022-03-18T22:32:45Z,2022-03-19T12:59:38Z,1,1,MERGED
+ui,Show received signals in history compact view,https://github.com/temporalio/ui/pull/359,2022-03-18T21:04:37Z,2022-03-18T21:09:13Z,1,1,MERGED
+ui,Add full event view,https://github.com/temporalio/ui/pull/356,2022-03-18T16:32:28Z,2022-03-18T17:06:58Z,1,5,MERGED
+ui,Include workflow signaled event under Signals filter,https://github.com/temporalio/ui/pull/355,2022-03-18T04:30:06Z,2022-03-18T04:52:57Z,2,1,MERGED
+ui,Remove gloss from selects in Safari,https://github.com/temporalio/ui/pull/331,2022-03-15T19:50:21Z,2022-03-15T19:54:50Z,1,1,MERGED
+ui,Add Remote Data Encoder support,https://github.com/temporalio/ui/pull/497,2022-04-28T19:09:32Z,2022-05-05T15:16:13Z,10,45,MERGED
+ui,Event History Styling,https://github.com/temporalio/ui/pull/495,2022-04-28T15:02:01Z,2022-04-28T15:31:05Z,4,9,MERGED
+ui,Fix workflow page 404 on special characters in workflow ID,https://github.com/temporalio/ui/pull/491,2022-04-26T21:27:05Z,2022-04-27T00:22:50Z,3,1,MERGED
+ui,Fix archived workflows query and to only show with both archived and visibility enabled,https://github.com/temporalio/ui/pull/486,2022-04-26T15:11:51Z,2022-04-26T16:45:09Z,2,4,MERGED
+ui,Loading state for Results when the workflow is running,https://github.com/temporalio/ui/pull/483,2022-04-25T22:32:35Z,2022-04-26T16:42:33Z,2,4,MERGED
+ui,Remove summary/full view and add feed view with expand all toggle,https://github.com/temporalio/ui/pull/478,2022-04-25T19:43:15Z,2022-04-25T21:20:58Z,2,3,MERGED
+ui,Update link colors,https://github.com/temporalio/ui/pull/472,2022-04-22T15:06:29Z,2022-04-22T15:10:50Z,2,1,MERGED
+ui,Add login button if auth enabled and no user to allow navigation to l…,https://github.com/temporalio/ui/pull/470,2022-04-22T14:26:10Z,2022-04-22T14:56:49Z,1,1,MERGED
+ui,Create indented block from Workflow Task Started to last Command event,https://github.com/temporalio/ui/pull/468,2022-04-21T20:32:54Z,2022-04-21T21:12:59Z,2,7,MERGED
+ui,Change new Version banner link from current to recommended,https://github.com/temporalio/ui/pull/463,2022-04-20T22:59:11Z,2022-04-21T23:57:09Z,1,1,MERGED
+ui,Make event history table fixed so keep code block within column,https://github.com/temporalio/ui/pull/462,2022-04-20T20:41:12Z,2022-04-20T21:09:49Z,2,4,MERGED
+ui,Namespace settings page,https://github.com/temporalio/ui/pull/457,2022-04-20T15:02:01Z,2022-04-20T15:36:58Z,5,7,MERGED
+ui,Truncate workflow id and type and add copyable tooltip,https://github.com/temporalio/ui/pull/456,2022-04-19T19:32:09Z,2022-04-19T20:26:51Z,5,5,MERGED
+ui,Responsive summary and navigation,https://github.com/temporalio/ui/pull/452,2022-04-18T21:25:23Z,2022-04-18T22:02:01Z,3,14,MERGED
+ui,Responsive summary and headers,https://github.com/temporalio/ui/pull/449,2022-04-18T19:36:09Z,2022-04-18T21:21:39Z,2,16,CLOSED
+ui,Load workflows onMount and update loadingRow,https://github.com/temporalio/ui/pull/445,2022-04-15T21:43:39Z,2022-04-18T16:16:09Z,2,4,MERGED
+ui,Lay out pending activities a little bit better,https://github.com/temporalio/ui/pull/443,2022-04-14T19:21:30Z,2022-04-14T19:27:31Z,2,1,MERGED
+ui,Fix named layouts,https://github.com/temporalio/ui/pull/432,2022-04-13T22:06:41Z,2022-04-13T22:25:27Z,2,5,MERGED
+ui,Date & Time filters for event history,https://github.com/temporalio/ui/pull/428,2022-04-13T17:38:34Z,2022-04-14T14:47:52Z,2,8,MERGED
+ui,Show pending activities error message,https://github.com/temporalio/ui/pull/427,2022-04-13T15:00:10Z,2022-04-13T15:08:07Z,2,2,MERGED
+ui,"Decrease row padding, lower line-height, event details as Inter",https://github.com/temporalio/ui/pull/420,2022-04-12T20:37:42Z,2022-04-12T21:25:00Z,2,2,MERGED
+ui,Show temporal-system namespace depending on settings,https://github.com/temporalio/ui/pull/399,2022-04-06T07:17:25Z,2022-04-06T21:41:56Z,2,1,MERGED
+ui,Make RunID keys in History navigate to worklow page,https://github.com/temporalio/ui/pull/398,2022-04-06T06:35:40Z,2022-04-06T21:42:06Z,1,1,MERGED
+ui,Redesigned event views,https://github.com/temporalio/ui/pull/395,2022-04-01T15:36:24Z,2022-04-05T19:43:12Z,8,21,MERGED
+ui,Collapse Input & Result by default,https://github.com/temporalio/ui/pull/554,2022-05-26T15:30:18Z,2022-06-02T18:41:35Z,2,4,CLOSED
+ui,Remove gray text badge on property value text,https://github.com/temporalio/ui/pull/553,2022-05-26T13:51:06Z,2022-06-06T13:48:41Z,2,4,CLOSED
+ui,Holocene integration,https://github.com/temporalio/ui/pull/552,2022-05-24T19:34:30Z,2022-05-25T21:09:02Z,2,46,MERGED
+ui,add bottom border to Tab,https://github.com/temporalio/ui/pull/551,2022-05-24T18:43:50Z,2022-05-24T18:48:59Z,2,1,CLOSED
+ui,remove bottom border from Tab,https://github.com/temporalio/ui/pull/550,2022-05-24T17:46:11Z,2022-05-24T18:21:39Z,3,1,MERGED
+ui,GraphQL POC,https://github.com/temporalio/ui/pull/547,2022-05-22T19:45:14Z,2022-08-10T17:48:10Z,3,2,CLOSED
+ui,Fix lint warning,https://github.com/temporalio/ui/pull/546,2022-05-22T15:16:51Z,2022-05-23T19:23:25Z,3,2,MERGED
+ui,Don't fetch stack trace if workflow isn't running,https://github.com/temporalio/ui/pull/544,2022-05-20T16:36:11Z,2022-05-23T19:48:03Z,2,6,MERGED
+ui,"Show API error message on error page, 404 for non-existent namespace",https://github.com/temporalio/ui/pull/541,2022-05-17T20:17:14Z,2022-05-18T15:59:43Z,3,3,MERGED
+ui,"Failed state colors, fix compact view when sort is descending",https://github.com/temporalio/ui/pull/540,2022-05-17T17:19:59Z,2022-05-17T17:57:48Z,3,6,MERGED
+ui,"Format Max Retries from 0 to Unlimited, consolidate event groupings",https://github.com/temporalio/ui/pull/536,2022-05-16T14:24:46Z,2022-05-16T15:15:52Z,1,1,MERGED
+ui,Resolve unicode codeblocks showing gibberish,https://github.com/temporalio/ui/pull/529,2022-05-09T21:45:41Z,2022-05-10T15:50:00Z,3,2,MERGED
+ui,Highlight timed out activities and event details navigation,https://github.com/temporalio/ui/pull/520,2022-05-05T17:03:19Z,2022-05-05T17:12:51Z,2,13,MERGED
+ui,Format code blocks in pending activities,https://github.com/temporalio/ui/pull/512,2022-05-03T23:22:35Z,2022-05-04T17:04:27Z,2,2,MERGED
+ui,"add onError handler for fetchAllWorkflows, show error in empty state",https://github.com/temporalio/ui/pull/652,2022-06-30T21:13:48Z,2022-06-30T21:18:14Z,2,1,MERGED
+ui,"improve buttons, support button count badge",https://github.com/temporalio/ui/pull/651,2022-06-30T19:57:06Z,2022-06-30T21:05:44Z,2,3,MERGED
+ui,"Fallback to ascending event order on older versions of Temporal Server, show Temporal versions",https://github.com/temporalio/ui/pull/638,2022-06-29T15:10:05Z,2022-06-29T16:42:44Z,2,10,MERGED
+ui,"Fallback to ascending event order on older versions of Temporal Server, show Temporal versions",https://github.com/temporalio/ui/pull/637,2022-06-29T00:26:34Z,2022-06-29T15:07:03Z,2,9,CLOSED
+ui,add Table and Accordion components to holocene,https://github.com/temporalio/ui/pull/635,2022-06-28T19:52:49Z,2022-06-28T20:23:57Z,2,1,MERGED
+ui,add table and accordion,https://github.com/temporalio/ui/pull/631,2022-06-27T23:01:16Z,2022-06-28T19:51:10Z,2,1,CLOSED
+ui,add non-native select input,https://github.com/temporalio/ui/pull/627,2022-06-27T18:29:39Z,2022-06-28T17:38:30Z,3,4,MERGED
+ui,"Make namespace name 12px, truncate and show tooltip above on open nav",https://github.com/temporalio/ui/pull/624,2022-06-24T15:11:36Z,2022-06-24T16:41:41Z,2,1,MERGED
+ui,create a copyable input component,https://github.com/temporalio/ui/pull/615,2022-06-22T18:14:03Z,2022-06-23T14:40:50Z,4,9,MERGED
+ui,"Add Marker event category filter, add parent id, fix input/results on category filter",https://github.com/temporalio/ui/pull/614,2022-06-22T18:08:22Z,2022-06-22T18:23:59Z,2,1,MERGED
+ui,improve pending activities summary and details,https://github.com/temporalio/ui/pull/611,2022-06-21T21:01:24Z,2022-06-22T15:44:54Z,6,9,MERGED
+ui,Workflow Type click filter,https://github.com/temporalio/ui/pull/598,2022-06-15T14:59:10Z,2022-06-15T17:49:49Z,4,9,MERGED
+ui,scaffold fiction and add a few chapters,https://github.com/temporalio/ui/pull/582,2022-06-10T22:38:51Z,2022-06-13T21:34:21Z,2,3,MERGED
+ui,Show single cloud namespace in drawer,https://github.com/temporalio/ui/pull/579,2022-06-10T13:06:08Z,2022-06-10T17:51:53Z,2,3,MERGED
+ui,fix stack trace error case,https://github.com/temporalio/ui/pull/571,2022-06-06T16:58:51Z,2022-06-07T15:07:45Z,2,2,MERGED
+ui,use our colors for code block syntax highlighting,https://github.com/temporalio/ui/pull/565,2022-06-02T14:37:36Z,2022-06-03T13:41:47Z,2,3,MERGED
+ui,Improve event details table layout and styling,https://github.com/temporalio/ui/pull/563,2022-06-01T17:36:04Z,2022-06-03T14:22:25Z,4,5,MERGED
+ui,add maxlength and validation to Input,https://github.com/temporalio/ui/pull/736,2022-07-29T21:52:11Z,2022-07-29T22:06:57Z,3,4,MERGED
+ui,Add error state to Textarea,https://github.com/temporalio/ui/pull/733,2022-07-28T23:24:06Z,2022-07-29T20:57:20Z,5,4,MERGED
+ui,create a Textarea component,https://github.com/temporalio/ui/pull/729,2022-07-27T22:47:50Z,2022-07-28T17:01:05Z,3,3,MERGED
+ui,move existing modal component to holocene,https://github.com/temporalio/ui/pull/726,2022-07-25T14:59:58Z,2022-07-27T17:48:39Z,4,14,MERGED
+ui,v2.1.9,https://github.com/temporalio/ui/pull/724,2022-07-22T17:09:09Z,2022-07-22T17:26:41Z,2,2,MERGED
+ui,Add new task-queues route and link to it on event history,https://github.com/temporalio/ui/pull/717,2022-07-21T18:58:06Z,2022-07-21T19:04:38Z,2,1,MERGED
+ui,Timeline View,https://github.com/temporalio/ui/pull/708,2022-07-19T19:05:01Z,2022-07-21T19:07:15Z,2,24,MERGED
+ui,"Don't fetch stack trace when no workers running, better warning message",https://github.com/temporalio/ui/pull/680,2022-07-11T21:28:06Z,2022-07-11T21:34:20Z,2,2,MERGED
+ui,Rework Code Blocks in Pending Activities,https://github.com/temporalio/ui/pull/678,2022-07-11T15:02:37Z,2022-07-12T19:04:27Z,3,2,MERGED
+ui,Schedules Feature ,https://github.com/temporalio/ui/pull/662,2022-07-05T19:28:39Z,2022-07-06T01:29:01Z,2,50,MERGED
+ui,Add namespace switcher to schedules,https://github.com/temporalio/ui/pull/801,2022-08-31T20:46:55Z,2022-09-01T17:34:39Z,2,2,MERGED
+ui,Add file plus icon,https://github.com/temporalio/ui/pull/797,2022-08-29T23:06:24Z,2022-08-30T20:00:39Z,2,3,MERGED
+ui,Badge overflow fix,https://github.com/temporalio/ui/pull/796,2022-08-29T19:50:23Z,2022-08-29T19:57:08Z,2,2,MERGED
+ui,Add handleError on workflows service to handle bad namespaces in url,https://github.com/temporalio/ui/pull/795,2022-08-29T19:15:17Z,2022-08-29T19:56:54Z,2,1,MERGED
+ui,"add select option group, refactor select component",https://github.com/temporalio/ui/pull/794,2022-08-29T17:00:58Z,2022-08-30T14:57:57Z,4,8,MERGED
+ui,Fix wrapping of workflow statuses,https://github.com/temporalio/ui/pull/790,2022-08-25T16:40:09Z,2022-08-29T17:01:08Z,2,3,MERGED
+ui,Skeleton and SkeletonTable Components,https://github.com/temporalio/ui/pull/787,2022-08-23T16:16:54Z,2022-08-23T16:27:18Z,2,3,MERGED
+ui,add a generic dropdown menu component,https://github.com/temporalio/ui/pull/783,2022-08-22T19:17:21Z,2022-08-22T20:12:20Z,2,4,MERGED
+ui,add disabled state to autocomplete,https://github.com/temporalio/ui/pull/777,2022-08-17T21:10:53Z,2022-08-17T21:18:11Z,2,2,MERGED
+ui,Autocomplete and select updates,https://github.com/temporalio/ui/pull/769,2022-08-15T17:44:20Z,2022-08-15T21:51:11Z,3,8,MERGED
+ui,Disable tab,https://github.com/temporalio/ui/pull/768,2022-08-15T15:27:42Z,2022-08-15T15:39:08Z,2,1,MERGED
+ui,Add inverted check mark icon,https://github.com/temporalio/ui/pull/765,2022-08-11T15:17:18Z,2022-08-11T18:07:21Z,2,2,MERGED
+ui,add disabled state to checkboxes,https://github.com/temporalio/ui/pull/760,2022-08-09T22:37:59Z,2022-08-10T14:42:05Z,2,3,MERGED
+ui,Update integrations icons,https://github.com/temporalio/ui/pull/759,2022-08-09T21:54:29Z,2022-08-10T15:10:32Z,3,3,MERGED
+ui,Locked select menu,https://github.com/temporalio/ui/pull/758,2022-08-08T23:26:00Z,2022-08-09T20:13:37Z,3,2,MERGED
+ui,Locked dropdown button,https://github.com/temporalio/ui/pull/754,2022-08-08T19:32:40Z,2022-08-08T20:53:05Z,2,3,MERGED
+ui,Add action slot to Pagination,https://github.com/temporalio/ui/pull/752,2022-08-05T20:50:14Z,2022-08-08T15:21:55Z,4,3,MERGED
+ui,Add book icon,https://github.com/temporalio/ui/pull/750,2022-08-04T20:46:35Z,2022-08-04T21:39:02Z,4,5,MERGED
+ui,Add locked state to Input,https://github.com/temporalio/ui/pull/745,2022-08-03T18:06:57Z,2022-08-03T20:20:21Z,3,2,MERGED
+ui,Add disabled state to Accordion,https://github.com/temporalio/ui/pull/743,2022-08-02T23:28:51Z,2022-08-03T17:22:53Z,3,2,MERGED
+ui,Update holocene tooltip,https://github.com/temporalio/ui/pull/740,2022-08-02T17:22:48Z,2022-08-02T18:26:21Z,4,5,MERGED
+ui,Decode pending activities,https://github.com/temporalio/ui/pull/853,2022-09-26T17:28:27Z,2022-09-26T19:11:23Z,3,3,MERGED
+ui,"Show parent link in child workflow event history, add Loading spinner to event history",https://github.com/temporalio/ui/pull/852,2022-09-26T15:18:50Z,2022-09-26T16:04:44Z,3,3,MERGED
+ui,Link to child workflows from parent workflow histories,https://github.com/temporalio/ui/pull/851,2022-09-26T11:18:08Z,2022-09-26T16:04:25Z,4,1,CLOSED
+ui,Accordion UI updates,https://github.com/temporalio/ui/pull/848,2022-09-20T23:46:08Z,2022-09-21T19:00:10Z,3,9,MERGED
+ui,"NamespaceSwitcher update, small UI style updates for quality of life",https://github.com/temporalio/ui/pull/847,2022-09-20T18:22:02Z,2022-09-20T19:56:18Z,5,6,MERGED
+ui,Fix pending activity id overflow,https://github.com/temporalio/ui/pull/844,2022-09-20T13:49:02Z,2022-09-20T16:31:22Z,2,1,MERGED
+ui,CoreUser context,https://github.com/temporalio/ui/pull/840,2022-09-19T14:53:12Z,2022-09-20T17:42:28Z,2,8,MERGED
+ui,Add scroll to top button,https://github.com/temporalio/ui/pull/839,2022-09-16T16:22:59Z,2022-09-19T15:29:57Z,3,4,MERGED
+ui,Update feature_request.md,https://github.com/temporalio/ui/pull/837,2022-09-16T03:25:16Z,2022-09-20T17:36:41Z,2,1,MERGED
+ui,Remove event summary group single Pill,https://github.com/temporalio/ui/pull/833,2022-09-14T22:02:37Z,2022-09-14T22:10:12Z,2,2,MERGED
+ui,remove Fiction in favor of Histoire,https://github.com/temporalio/ui/pull/832,2022-09-14T17:24:34Z,2022-09-15T19:13:44Z,3,3,MERGED
+ui,Number input,https://github.com/temporalio/ui/pull/830,2022-09-13T20:31:38Z,2022-09-13T21:08:16Z,4,4,MERGED
+ui,Show auth error message on Login screen,https://github.com/temporalio/ui/pull/828,2022-09-12T23:05:18Z,2022-09-13T17:12:05Z,4,2,MERGED
+ui,Add action locations to Pagination ,https://github.com/temporalio/ui/pull/815,2022-09-08T19:48:21Z,2022-09-12T16:27:34Z,5,7,MERGED
+ui,Recursively find all payloads and decode,https://github.com/temporalio/ui/pull/811,2022-09-07T19:13:33Z,2022-09-09T16:37:22Z,2,11,MERGED
+ui,"Schedules Pages (List, View, Create) and Cypress tests",https://github.com/temporalio/ui/pull/807,2022-09-06T18:52:02Z,2022-09-07T01:38:50Z,2,9,MERGED
+ui,Align icon with title on Alert component,https://github.com/temporalio/ui/pull/908,2022-10-28T23:39:16Z,2022-10-31T19:22:18Z,2,1,MERGED
+ui,Add settings version to bottom of nav,https://github.com/temporalio/ui/pull/906,2022-10-27T21:18:11Z,2022-10-27T21:27:14Z,2,2,MERGED
+ui,API Pagination Holocene component,https://github.com/temporalio/ui/pull/903,2022-10-26T19:27:41Z,2022-11-01T22:58:54Z,5,11,MERGED
+ui,Namespace Selector,https://github.com/temporalio/ui/pull/894,2022-10-20T19:10:38Z,2022-10-26T20:05:26Z,3,4,MERGED
+ui,Add Pagination to Namespaces,https://github.com/temporalio/ui/pull/881,2022-10-13T22:05:15Z,2022-10-14T16:17:02Z,2,1,MERGED
+ui,Auto-refresh of workflow and event history every 15 seconds,https://github.com/temporalio/ui/pull/880,2022-10-13T19:35:58Z,2022-10-17T17:31:30Z,4,9,MERGED
+ui,"Decode queries and stack traces, use json-bigint to support BigInt",https://github.com/temporalio/ui/pull/879,2022-10-13T18:25:21Z,2022-10-17T16:29:45Z,3,8,MERGED
+ui,Fix non-english user name showing as gibberish,https://github.com/temporalio/ui/pull/876,2022-10-11T20:51:55Z,2022-10-11T21:13:53Z,2,1,MERGED
+ui,Improved Search,https://github.com/temporalio/ui/pull/874,2022-10-07T19:37:31Z,2022-10-17T13:35:31Z,23,90,CLOSED
+ui,upgrade histoire and type Hst prop on stories,https://github.com/temporalio/ui/pull/867,2022-10-04T15:57:58Z,2022-10-10T17:38:06Z,2,8,MERGED
+ui,[DT-156] Fix broken breakpoint UI on workflow detail page header,https://github.com/temporalio/ui/pull/960,2022-11-22T18:43:01Z,2022-11-28T21:53:29Z,2,2,MERGED
+ui,Advanced Visibility Guard with New Filters,https://github.com/temporalio/ui/pull/958,2022-11-22T14:53:14Z,2022-11-30T14:46:07Z,2,19,MERGED
+ui,[DT-149] Fix for invite user issue with email addition auto scrolling,https://github.com/temporalio/ui/pull/956,2022-11-21T21:27:23Z,2022-11-28T21:53:19Z,6,8,MERGED
+ui,Add more configuration options to skeleton table,https://github.com/temporalio/ui/pull/933,2022-11-08T19:29:52Z,2022-11-10T16:18:01Z,3,3,MERGED
+ui,Add Local Activity support and show activity type for Local Activities in event history,https://github.com/temporalio/ui/pull/930,2022-11-07T20:43:09Z,2022-11-08T18:16:21Z,2,4,MERGED
+ui,Fix workflow worker only bug and update Cypress workers/task-queues tests,https://github.com/temporalio/ui/pull/924,2022-11-03T20:07:55Z,2022-11-03T20:48:58Z,2,5,MERGED
+ui,Remove all support for websocket port for Data Encoder,https://github.com/temporalio/ui/pull/919,2022-11-02T19:49:00Z,2022-11-03T14:48:52Z,2,4,MERGED
+ui,Schedules UI v2,https://github.com/temporalio/ui/pull/916,2022-11-02T17:22:34Z,2022-11-16T21:04:07Z,33,47,MERGED
+ui,[DT-139] Add link to child workflows for StartChildWorkflowExecutionInitiated,https://github.com/temporalio/ui/pull/1007,2022-12-16T19:31:04Z,2023-01-05T16:46:48Z,4,4,MERGED
+ui,Event History API Pagination and Keyboard Navigation,https://github.com/temporalio/ui/pull/997,2022-12-14T18:26:07Z,2023-01-03T18:22:30Z,28,38,MERGED
+ui,[DT-56] Fix CodeBlock overflow and spacing,https://github.com/temporalio/ui/pull/991,2022-12-12T22:20:28Z,2022-12-13T18:09:01Z,2,6,MERGED
+ui,Fix pagination controls UI on window resize,https://github.com/temporalio/ui/pull/986,2022-12-09T20:25:23Z,2022-12-12T16:32:04Z,2,1,MERGED
+ui,Event summary table updates,https://github.com/temporalio/ui/pull/983,2022-12-08T17:42:52Z,2022-12-08T22:25:52Z,2,16,MERGED
+ui,fix colspan on workflows-with-new-search empty/loading state,https://github.com/temporalio/ui/pull/973,2022-12-05T21:49:07Z,2022-12-05T22:01:58Z,2,2,MERGED
+ui,Improve ux of compact view left side links,https://github.com/temporalio/ui/pull/969,2022-12-02T00:59:04Z,2022-12-02T18:03:52Z,2,8,MERGED
+ui,Dashboard and Live Feed Workflows List Page ,https://github.com/temporalio/ui/pull/1077,2023-01-25T16:07:58Z,2023-03-06T15:47:51Z,2,47,CLOSED
+ui,Fix EmptyState for Workers list,https://github.com/temporalio/ui/pull/1075,2023-01-24T22:22:24Z,2023-01-24T22:45:09Z,2,2,MERGED
+ui,[DT-158] Core UI Scrub Cont.,https://github.com/temporalio/ui/pull/1049,2023-01-18T00:40:41Z,2023-01-19T16:25:17Z,2,1,MERGED
+ui,DT-175 - reset workflow to first land last workflow task in event history,https://github.com/temporalio/ui/pull/1046,2023-01-13T20:52:15Z,2023-01-30T18:31:51Z,13,19,MERGED
+ui,DT-202 - workflow action flags,https://github.com/temporalio/ui/pull/1037,2023-01-09T21:16:38Z,2023-01-12T16:49:41Z,3,10,MERGED
+ui,[DT-153] Display a canceled badge for pending activities that aren't able to run,https://github.com/temporalio/ui/pull/1032,2023-01-09T18:55:40Z,2023-01-10T16:13:08Z,3,29,MERGED
+ui,Don't try to decode a null payloads,https://github.com/temporalio/ui/pull/1017,2023-01-05T17:07:39Z,2023-01-05T21:52:12Z,3,3,MERGED
+ui,implement err handling on Modals,https://github.com/temporalio/ui/pull/1187,2023-02-27T21:37:05Z,2023-03-01T18:24:08Z,5,7,MERGED
+ui,Include Import Page in Navigation,https://github.com/temporalio/ui/pull/1186,2023-02-27T21:08:36Z,2023-03-01T18:06:51Z,1,11,MERGED
+ui,Make workflow ID copyable in header,https://github.com/temporalio/ui/pull/1177,2023-02-23T01:41:37Z,2023-02-24T17:45:31Z,1,1,MERGED
+ui,Hide webkit search cancel button,https://github.com/temporalio/ui/pull/1173,2023-02-21T22:50:57Z,2023-02-22T23:42:54Z,1,2,MERGED
+ui,Add JSON Formatting toggle to queries view,https://github.com/temporalio/ui/pull/1164,2023-02-17T16:05:53Z,2023-02-17T16:55:13Z,1,1,MERGED
+ui,Change Results to Continued as New with Input for Workflows with a Continued As New status,https://github.com/temporalio/ui/pull/1159,2023-02-16T17:48:32Z,2023-02-28T17:25:19Z,2,4,MERGED
+ui,Add error message if response from temporal.download fails,https://github.com/temporalio/ui/pull/1148,2023-02-14T18:39:03Z,2023-02-16T22:33:48Z,1,1,MERGED
+ui,Add toggle to decode JSON on JSON view,https://github.com/temporalio/ui/pull/1138,2023-02-13T20:42:04Z,2023-04-26T15:25:08Z,1,1,CLOSED
+ui,[DT-340] Add stack trace on expanded event details,https://github.com/temporalio/ui/pull/1128,2023-02-09T18:51:01Z,2023-02-28T17:27:13Z,4,3,MERGED
+ui,Provide an option to send cross-origin credentials.,https://github.com/temporalio/ui/pull/1118,2023-02-07T15:19:07Z,2023-03-28T14:40:42Z,6,12,MERGED
+ui,fix position of floating output value,https://github.com/temporalio/ui/pull/1107,2023-02-02T19:22:56Z,2023-02-02T20:25:34Z,2,4,MERGED
+ui,Fix gradient on hover in Safari,https://github.com/temporalio/ui/pull/1098,2023-02-01T01:29:42Z,2023-02-01T19:51:32Z,2,3,MERGED
+ui,Fix a visual bug with configurable table + batch actions,https://github.com/temporalio/ui/pull/1259,2023-03-30T18:15:19Z,2023-03-30T19:36:17Z,2,3,MERGED
+ui,DT-646 - add Reapply Type to Reset,https://github.com/temporalio/ui/pull/1257,2023-03-29T22:01:12Z,2023-04-14T18:25:46Z,3,9,MERGED
+ui,Fix event category filter,https://github.com/temporalio/ui/pull/1244,2023-03-27T18:16:59Z,2023-03-27T20:02:34Z,1,5,MERGED
+ui,Remove key block for event-summary,https://github.com/temporalio/ui/pull/1243,2023-03-27T16:26:21Z,2023-03-27T16:34:01Z,2,1,MERGED
+ui,"Round first and last menu item in menu, keep table border radius at 3px",https://github.com/temporalio/ui/pull/1235,2023-03-23T13:43:51Z,2023-03-23T15:11:14Z,1,1,MERGED
+ui,Show Input and Results payloads individually in JSON,https://github.com/temporalio/ui/pull/1227,2023-03-21T22:36:49Z,2023-03-28T22:50:50Z,1,2,MERGED
+ui,DT-67 - improve reason field on batch operation modal,https://github.com/temporalio/ui/pull/1218,2023-03-16T17:13:52Z,2023-03-16T20:01:59Z,4,3,MERGED
+ui,Sticky Top Navigation with Namespace Selection,https://github.com/temporalio/ui/pull/1210,2023-03-13T20:28:16Z,2023-03-22T16:34:56Z,9,46,MERGED
+ui,Workflow Execution Reimagined,https://github.com/temporalio/ui/pull/1205,2023-03-08T22:07:34Z,2023-05-01T14:37:47Z,1,39,CLOSED
+ui,DT-543 - add side modal with drag & drop interface for customizing workflow table columns,https://github.com/temporalio/ui/pull/1202,2023-03-07T20:49:54Z,2023-03-14T22:00:03Z,5,17,MERGED
+ui,Only set max height for larger breakpoint,https://github.com/temporalio/ui/pull/1199,2023-03-07T14:33:43Z,2023-03-07T16:13:19Z,1,1,MERGED
+ui,make value prop required for <Option /> component,https://github.com/temporalio/ui/pull/1197,2023-03-03T17:45:37Z,2023-03-03T20:20:55Z,1,3,MERGED
+ui,fix checkbox styles and pass data-testid to input,https://github.com/temporalio/ui/pull/1191,2023-03-02T19:11:15Z,2023-03-02T19:23:03Z,1,2,MERGED
+ui,Update PR template,https://github.com/temporalio/ui/pull/1190,2023-03-01T21:41:31Z,2023-03-01T23:02:47Z,1,4,MERGED
+ui,Add CLI link and Create button on Schedules page,https://github.com/temporalio/ui/pull/1323,2023-04-20T23:47:13Z,2023-04-21T15:38:05Z,1,2,MERGED
+ui,fix some small visual bugs with configurable table,https://github.com/temporalio/ui/pull/1321,2023-04-20T21:49:20Z,2023-04-21T14:54:44Z,3,1,MERGED
+ui,Don't show full payload when the activity result is null,https://github.com/temporalio/ui/pull/1312,2023-04-19T19:02:26Z,2023-04-24T21:19:37Z,2,2,MERGED
+ui,DT-517 - fix overflow on select options,https://github.com/temporalio/ui/pull/1310,2023-04-19T14:35:41Z,2023-04-19T16:20:17Z,2,2,MERGED
+ui,Hide HistorySizeBytes when value is 0 and hide SuggestContinueAsNew when value is false,https://github.com/temporalio/ui/pull/1309,2023-04-18T23:36:57Z,2023-04-19T15:31:26Z,1,1,MERGED
+ui,Change format of timer duration,https://github.com/temporalio/ui/pull/1308,2023-04-18T23:01:12Z,2023-04-19T15:31:59Z,1,2,MERGED
+ui,Remove Run ID label in Summary ,https://github.com/temporalio/ui/pull/1307,2023-04-18T21:56:14Z,2023-04-19T15:30:59Z,1,1,MERGED
+ui,Only show support link in Cloud,https://github.com/temporalio/ui/pull/1306,2023-04-18T15:47:35Z,2023-04-19T15:30:35Z,3,1,MERGED
+ui,DT-76 - fix up accordion action styles,https://github.com/temporalio/ui/pull/1304,2023-04-17T20:56:28Z,2023-04-18T15:26:44Z,1,1,MERGED
+ui,Remove check for user picture,https://github.com/temporalio/ui/pull/1293,2023-04-14T17:37:06Z,2023-04-14T17:51:40Z,1,2,MERGED
+ui,Add esm-env and replace browser imports,https://github.com/temporalio/ui/pull/1289,2023-04-13T23:50:55Z,2023-04-18T17:54:49Z,5,4,MERGED
+ui,Add focused state to Checkboxes,https://github.com/temporalio/ui/pull/1286,2023-04-13T20:18:35Z,2023-04-14T19:44:34Z,2,2,MERGED
+ui,Add max height to the CodeBlock on the expanded event details row,https://github.com/temporalio/ui/pull/1271,2023-04-04T23:33:54Z,2023-04-05T17:29:34Z,1,1,MERGED
+ui,Remove duplicate authorization header forwarding,https://github.com/temporalio/ui/pull/1400,2023-05-31T23:45:14Z,2023-06-03T04:01:37Z,4,2,MERGED
+ui,Remove top margin to the top-nav avatar,https://github.com/temporalio/ui/pull/1395,2023-05-31T13:32:33Z,2023-05-31T15:18:24Z,1,1,MERGED
+ui,[DT-6] Add Local Activity to event history filter,https://github.com/temporalio/ui/pull/1390,2023-05-25T23:55:41Z,2023-05-31T16:39:16Z,6,6,MERGED
+ui,[DT-1004] Make title an optional prop in Alert component,https://github.com/temporalio/ui/pull/1377,2023-05-19T16:23:25Z,2023-05-22T16:02:49Z,1,1,MERGED
+ui,[DT-1001] Error not cleared on Schedule,https://github.com/temporalio/ui/pull/1375,2023-05-18T17:44:42Z,2023-05-19T16:28:03Z,2,3,MERGED
+ui,[DT-843] Update and add errors to WorkflowTypedError,https://github.com/temporalio/ui/pull/1370,2023-05-16T16:12:26Z,2023-05-17T15:46:28Z,1,3,MERGED
+ui,Add Schedule to relationships,https://github.com/temporalio/ui/pull/1359,2023-05-11T16:12:05Z,2023-05-12T13:59:50Z,1,1,MERGED
+ui,[DT-707] Update UI to support new Workflow Update events,https://github.com/temporalio/ui/pull/1353,2023-05-09T17:26:34Z,2023-05-23T15:45:50Z,2,3,MERGED
+ui,Allow decoding event history for download and for JSON view,https://github.com/temporalio/ui/pull/1352,2023-05-09T14:42:19Z,2023-05-10T00:58:13Z,2,3,MERGED
+ui,DT-701 - update nav,https://github.com/temporalio/ui/pull/1349,2023-05-05T19:56:55Z,2023-05-09T22:59:22Z,1,4,MERGED
+ui,Show none for next retry for canceled pending activities,https://github.com/temporalio/ui/pull/1343,2023-05-03T01:26:22Z,2023-05-08T19:59:29Z,4,2,MERGED
+ui,Show closed children workflows in Relationships with links,https://github.com/temporalio/ui/pull/1340,2023-05-01T21:04:05Z,2023-05-02T17:57:07Z,3,7,MERGED
+ui,DT-723 - fix visible scrollbars on select's with overflowing options,https://github.com/temporalio/ui/pull/1338,2023-05-01T15:27:44Z,2023-05-02T15:43:55Z,1,1,MERGED
+ui,Fix negative page numbers in Pagination component,https://github.com/temporalio/ui/pull/1462,2023-06-28T23:09:48Z,2023-06-29T15:00:05Z,1,1,MERGED
+ui,Add line height to Badge,https://github.com/temporalio/ui/pull/1459,2023-06-27T16:21:24Z,2023-06-27T16:32:36Z,1,1,MERGED
+ui,Buildable filter search,https://github.com/temporalio/ui/pull/1458,2023-06-27T04:38:58Z,2023-07-24T15:44:30Z,6,26,MERGED
+ui,Add check for WorkflowExecutionUpdateCompletedEvent failure,https://github.com/temporalio/ui/pull/1457,2023-06-22T22:15:37Z,2023-06-23T15:49:46Z,1,1,MERGED
+ui,Remove active row to allow multiple rows to be open at once,https://github.com/temporalio/ui/pull/1451,2023-06-21T18:11:43Z,2023-10-06T16:01:36Z,1,1,CLOSED
+ui,Fix responsive issues and open recent run link in new tab,https://github.com/temporalio/ui/pull/1448,2023-06-21T14:58:27Z,2023-06-21T15:36:02Z,1,2,MERGED
+ui,Add scheduleToFrequency formatting with tests,https://github.com/temporalio/ui/pull/1446,2023-06-20T21:23:47Z,2023-06-21T17:43:32Z,3,4,MERGED
+ui,Add Timeline view with labs guard,https://github.com/temporalio/ui/pull/1445,2023-06-20T15:24:22Z,2023-06-21T16:31:32Z,2,2,MERGED
+ui,Add TEMPORAL_HIDE_WORKFLOW_QUERY_ERRORS env var to hide workflow query errors from server,https://github.com/temporalio/ui/pull/1444,2023-06-20T14:24:18Z,2023-06-21T14:40:45Z,3,2,MERGED
+ui,Add check for statusCode in Error component,https://github.com/temporalio/ui/pull/1436,2023-06-14T17:54:42Z,2023-06-15T15:39:23Z,1,1,MERGED
+ui,Remove use of remote/local codec endpoint,https://github.com/temporalio/ui/pull/1427,2023-06-09T02:03:47Z,2023-06-13T18:07:53Z,3,5,MERGED
+ui,Fix FilterSelect focus outline with tabs,https://github.com/temporalio/ui/pull/1424,2023-06-08T17:30:44Z,2023-06-08T18:33:44Z,1,1,MERGED
+ui,Fix misalignment of table rows when scrolling is always on,https://github.com/temporalio/ui/pull/1423,2023-06-08T16:32:48Z,2023-06-08T17:28:22Z,1,1,MERGED
+ui,Update ToggleButton story,https://github.com/temporalio/ui/pull/1421,2023-06-07T22:13:57Z,2023-06-07T22:58:35Z,1,1,MERGED
+ui,Fix action text on Cancel modal,https://github.com/temporalio/ui/pull/1415,2023-06-06T19:35:58Z,2023-06-07T15:18:11Z,1,2,MERGED
+ui,Relative duration query params,https://github.com/temporalio/ui/pull/1409,2023-06-05T18:38:52Z,2023-06-13T15:55:46Z,4,8,CLOSED
+ui,Remote Codec Settings - UI Update,https://github.com/temporalio/ui/pull/1402,2023-06-01T20:13:55Z,2023-06-07T20:41:21Z,1,30,MERGED
+ui,Show full long event name when event summary row is expanded,https://github.com/temporalio/ui/pull/1517,2023-07-31T16:52:06Z,2023-08-01T17:09:32Z,1,1,MERGED
+ui,DT-1084 - support resetting closed workflows,https://github.com/temporalio/ui/pull/1509,2023-07-26T18:51:28Z,2023-07-27T15:15:47Z,1,5,MERGED
+ui,Add UTC time to last heartbeat time,https://github.com/temporalio/ui/pull/1505,2023-07-25T18:34:04Z,2023-07-25T18:43:39Z,1,1,MERGED
+ui,Improved Elapsed Time & Duration,https://github.com/temporalio/ui/pull/1501,2023-07-25T15:21:48Z,2023-07-25T18:45:26Z,3,6,MERGED
+ui,Versioning UI,https://github.com/temporalio/ui/pull/1491,2023-07-20T00:28:33Z,2023-08-02T17:30:31Z,8,31,MERGED
+ui,DT-841 - data encoder i18n,https://github.com/temporalio/ui/pull/1490,2023-07-19T21:47:58Z,2023-07-21T14:51:25Z,2,14,MERGED
+ui,Download Workflows list,https://github.com/temporalio/ui/pull/1486,2023-07-18T20:27:04Z,2023-07-19T15:54:12Z,4,4,MERGED
+ui,Add link to skip to main content ,https://github.com/temporalio/ui/pull/1611,2023-08-31T20:09:29Z,2023-09-06T16:02:15Z,8,3,MERGED
+ui,Add count of workers,https://github.com/temporalio/ui/pull/1601,2023-08-30T15:47:16Z,2023-08-30T20:42:57Z,2,5,MERGED
+ui,Schedule Frequency as JSON,https://github.com/temporalio/ui/pull/1598,2023-08-29T19:28:48Z,2023-08-30T19:54:16Z,5,9,MERGED
+ui,Add specificity to .vis-item styles,https://github.com/temporalio/ui/pull/1597,2023-08-29T17:16:06Z,2023-08-29T17:38:27Z,1,1,MERGED
+ui,ARIA improvements to errors and alerts,https://github.com/temporalio/ui/pull/1595,2023-08-28T23:49:49Z,2023-08-30T18:00:18Z,7,13,MERGED
+ui,Fixes based on A11y audit ,https://github.com/temporalio/ui/pull/1586,2023-08-24T05:14:58Z,2023-08-28T15:00:48Z,6,11,MERGED
+ui,Button and Select updates for cloud integration,https://github.com/temporalio/ui/pull/1580,2023-08-23T18:10:43Z,2023-08-23T18:22:58Z,1,1,MERGED
+ui,Add timezone to datetime filters,https://github.com/temporalio/ui/pull/1569,2023-08-22T21:38:42Z,2023-08-23T15:40:09Z,3,5,MERGED
+ui,Descriptive link and various fixes,https://github.com/temporalio/ui/pull/1568,2023-08-22T17:30:52Z,2023-08-22T21:54:58Z,2,3,MERGED
+ui,Truncate long IDs in Recent Workflows table,https://github.com/temporalio/ui/pull/1561,2023-08-17T21:38:58Z,2023-08-17T21:57:22Z,1,1,CLOSED
+ui,Add elapsed Workflow time,https://github.com/temporalio/ui/pull/1558,2023-08-16T23:27:41Z,2023-08-17T15:15:09Z,1,2,MERGED
+ui,"Make alert font Inter, add caution intent",https://github.com/temporalio/ui/pull/1554,2023-08-15T21:04:12Z,2023-08-15T21:12:11Z,1,1,MERGED
+ui,Set fixed width for select column,https://github.com/temporalio/ui/pull/1550,2023-08-14T18:14:48Z,2023-08-14T19:05:28Z,1,3,MERGED
+ui,Add timezone select in top nav,https://github.com/temporalio/ui/pull/1548,2023-08-14T17:07:19Z,2023-08-16T19:44:58Z,5,10,MERGED
+ui,Workflow List Empty State,https://github.com/temporalio/ui/pull/1539,2023-08-09T15:31:47Z,2023-08-10T15:27:56Z,7,7,MERGED
+ui,Workflow Counts UI (not added until GroupBy API ready in Temporal v1.22),https://github.com/temporalio/ui/pull/1538,2023-08-08T20:00:06Z,2023-08-09T16:53:01Z,6,3,MERGED
+ui,Alternative text for images,https://github.com/temporalio/ui/pull/1537,2023-08-08T18:25:43Z,2023-08-09T17:16:33Z,6,8,MERGED
+ui,Versioning Warnings -> No Workers or Incompatible Workers,https://github.com/temporalio/ui/pull/1536,2023-08-08T18:24:33Z,2023-08-09T16:51:21Z,3,5,MERGED
+ui,Dt 1183 schedule empty state,https://github.com/temporalio/ui/pull/1531,2023-08-07T16:11:18Z,2023-08-07T21:42:38Z,3,7,MERGED
+ui,DT-1230 - toggle button a11y,https://github.com/temporalio/ui/pull/1520,2023-08-01T18:08:12Z,2023-08-03T15:32:35Z,4,5,MERGED
+ui,Remove timezone for cron schedule comment in UI,https://github.com/temporalio/ui/pull/1519,2023-08-01T15:48:45Z,2023-08-02T15:35:24Z,1,3,MERGED
+ui,Update Copyable UI,https://github.com/temporalio/ui/pull/1656,2023-09-29T22:17:26Z,2023-10-02T20:18:08Z,2,4,MERGED
+ui,DT-1493 and DT-1494 - List/Describe Batch Operations,https://github.com/temporalio/ui/pull/1654,2023-09-29T21:22:18Z,2023-10-06T18:34:21Z,9,11,MERGED
+ui,"Add ""Not equal to"" option to Text filter search",https://github.com/temporalio/ui/pull/1652,2023-09-27T17:52:12Z,2023-09-28T15:17:11Z,1,2,MERGED
+ui,[DT-1360] Updates to ExecutionStatus filter,https://github.com/temporalio/ui/pull/1641,2023-09-16T00:39:49Z,2023-09-20T19:47:12Z,1,2,MERGED
+ui,Remove numbers from `parents_zero` and `parents_one`,https://github.com/temporalio/ui/pull/1639,2023-09-14T17:00:19Z,2023-11-20T17:57:06Z,1,1,CLOSED
+ui,"Add Caller-Type to http headers, allow in ui-server, update tests",https://github.com/temporalio/ui/pull/1634,2023-09-13T16:44:42Z,2023-09-25T13:17:29Z,1,1,MERGED
+ui,Update go.temporal.io/api to v1.24.0 and bump UIVersion to 2.18.1,https://github.com/temporalio/ui/pull/1633,2023-09-12T02:57:54Z,2023-09-12T13:26:05Z,4,3,MERGED
+ui,Lightning icon,https://github.com/temporalio/ui/pull/1632,2023-09-11T17:52:19Z,2023-09-11T17:59:20Z,1,2,MERGED
+ui,Add WorkflowExecutionUpdate group,https://github.com/temporalio/ui/pull/1630,2023-09-11T14:32:39Z,2023-09-11T16:49:11Z,1,5,MERGED
+ui,prevent split button menu button from growing,https://github.com/temporalio/ui/pull/1625,2023-09-08T15:19:22Z,2023-09-08T15:27:51Z,1,1,MERGED
+ui,Fix safari button when href is present,https://github.com/temporalio/ui/pull/1623,2023-09-08T13:41:57Z,2023-09-08T15:01:38Z,1,2,MERGED
+ui,replace overflow-scroll with overflow-auto,https://github.com/temporalio/ui/pull/1619,2023-09-07T16:14:35Z,2023-09-07T16:31:24Z,1,2,MERGED
+ui,DT-1400 - fix scroll-to-top button,https://github.com/temporalio/ui/pull/1615,2023-09-05T18:33:46Z,2023-09-06T14:50:04Z,1,2,MERGED
+ui,UI updates to WorkflowFilterSearch,https://github.com/temporalio/ui/pull/1613,2023-09-01T22:53:50Z,2023-09-07T17:55:29Z,9,14,MERGED
+ui,Sort counts by workflow status,https://github.com/temporalio/ui/pull/1723,2023-10-31T23:43:51Z,2023-11-01T15:06:04Z,1,1,MERGED
+ui,Make Pending Activities section collapsable,https://github.com/temporalio/ui/pull/1719,2023-10-30T16:32:52Z,2023-10-30T17:11:06Z,1,2,MERGED
+ui,Make Batch Operations list and details page responsive,https://github.com/temporalio/ui/pull/1713,2023-10-26T20:07:53Z,2023-10-26T20:21:29Z,1,2,MERGED
+ui,Schedule Workflows Count and View All link,https://github.com/temporalio/ui/pull/1709,2023-10-26T14:28:38Z,2023-10-26T15:40:33Z,4,5,MERGED
+ui,Fix Queries UI when query result is 0,https://github.com/temporalio/ui/pull/1705,2023-10-24T18:15:50Z,2023-10-25T15:28:21Z,1,1,MERGED
+ui,Allow decoding Event History Download through the UI,https://github.com/temporalio/ui/pull/1704,2023-10-23T18:50:42Z,2023-10-24T01:59:39Z,3,7,MERGED
+ui,Add includeMillisecondsForUnderSecond for formatDate to show ms for under a second,https://github.com/temporalio/ui/pull/1695,2023-10-19T01:21:08Z,2023-10-19T15:25:08Z,2,1,MERGED
+ui,Individual Event History page,https://github.com/temporalio/ui/pull/1694,2023-10-16T21:49:17Z,2023-10-17T21:01:19Z,2,9,MERGED
+ui,add workflow type to relationships table,https://github.com/temporalio/ui/pull/1693,2023-10-16T21:34:34Z,2023-10-16T21:43:14Z,1,1,MERGED
+ui,Workflow Counts,https://github.com/temporalio/ui/pull/1686,2023-10-13T16:57:06Z,2023-10-16T19:06:49Z,4,23,MERGED
+ui,Keyboard navigation improvements,https://github.com/temporalio/ui/pull/1685,2023-10-12T22:32:49Z,2023-10-19T16:51:52Z,4,12,MERGED
+ui,DT-1421 - improve workflow reset form,https://github.com/temporalio/ui/pull/1675,2023-10-10T17:57:40Z,2023-10-12T16:42:21Z,1,1,MERGED
+ui,add jobId to batch operation form,https://github.com/temporalio/ui/pull/1674,2023-10-09T21:31:11Z,2023-10-10T16:18:08Z,3,5,MERGED
+ui,DT-1407 - add RadioInput component and replace existing native radio inputs,https://github.com/temporalio/ui/pull/1670,2023-10-05T16:13:31Z,2023-10-10T16:52:25Z,5,8,MERGED
+ui,Center login button,https://github.com/temporalio/ui/pull/1668,2023-10-04T18:33:47Z,2023-10-04T18:57:40Z,1,1,MERGED
+ui,Make TimezoneSelect position responsive based on screen width,https://github.com/temporalio/ui/pull/1664,2023-10-03T23:51:24Z,2023-10-04T15:34:01Z,1,1,MERGED
+ui,Fix Input and Results CodeBlock overflow,https://github.com/temporalio/ui/pull/1663,2023-10-03T22:46:06Z,2023-10-03T23:53:29Z,1,1,MERGED
+ui,Add aria-hidden to Icon component if no title provided,https://github.com/temporalio/ui/pull/1662,2023-10-03T20:10:39Z,2023-10-04T15:37:45Z,1,4,MERGED
+ui,Timeline Improvements,https://github.com/temporalio/ui/pull/1658,2023-10-02T16:22:57Z,2023-10-03T18:49:59Z,6,12,MERGED
+ui,Timeline improvements v2,https://github.com/temporalio/ui/pull/1657,2023-10-02T16:20:22Z,2023-10-02T16:22:15Z,1,5,CLOSED
+ui,Format selected timezone,https://github.com/temporalio/ui/pull/1759,2023-11-20T17:04:41Z,2023-11-20T23:50:09Z,1,1,MERGED
+ui,Add maxLength to Textarea,https://github.com/temporalio/ui/pull/1758,2023-11-17T23:48:55Z,2023-11-20T23:50:44Z,2,2,MERGED
+ui,Fix query statement when removing OR filters,https://github.com/temporalio/ui/pull/1755,2023-11-17T20:13:09Z,2023-11-17T20:27:07Z,1,1,MERGED
+ui,Add search attributes to workflow summary and remove them from event history table,https://github.com/temporalio/ui/pull/1750,2023-11-14T19:43:19Z,2023-11-14T20:08:15Z,1,2,MERGED
+ui,Use basic frequency without CodeBlock for schedules list view,https://github.com/temporalio/ui/pull/1749,2023-11-14T14:36:13Z,2023-11-15T14:32:03Z,2,1,MERGED
+ui,Make View Search Input toggle sticky,https://github.com/temporalio/ui/pull/1738,2023-11-09T00:37:15Z,2023-11-09T16:28:20Z,1,1,MERGED
+ui,Apply selected timezone to datetime filters,https://github.com/temporalio/ui/pull/1736,2023-11-08T16:40:42Z,2023-11-13T20:04:00Z,3,6,MERGED
+ui,Support duration strings for ExecutionDuration queries,https://github.com/temporalio/ui/pull/1734,2023-11-07T19:44:48Z,2023-11-08T23:13:31Z,1,4,MERGED
+ui,Fix for issues with parenthesis in filter search,https://github.com/temporalio/ui/pull/1727,2023-11-03T18:11:44Z,2023-11-06T15:43:03Z,1,2,MERGED
+ui,Better responsive layout for Workflow Summary to keep times visible,https://github.com/temporalio/ui/pull/1726,2023-11-02T17:06:55Z,2023-11-06T21:22:14Z,3,3,MERGED
+ui,Schedules with API Pagination,https://github.com/temporalio/ui/pull/1779,2023-12-19T21:22:46Z,2024-01-04T21:13:47Z,5,4,MERGED
+ui,Rename Stack Trace to Call Stack,https://github.com/temporalio/ui/pull/1770,2023-12-12T02:34:41Z,2023-12-12T16:58:04Z,1,6,MERGED
+ui,Fix Boolean filter search,https://github.com/temporalio/ui/pull/1769,2023-12-08T18:59:16Z,2023-12-11T17:31:21Z,2,6,MERGED
+ui,Add icons,https://github.com/temporalio/ui/pull/1837,2024-01-30T19:20:10Z,2024-01-31T17:53:21Z,1,2,MERGED
+ui,Add dark mode support for Storybook,https://github.com/temporalio/ui/pull/1834,2024-01-30T00:34:10Z,2024-01-30T20:02:50Z,1,1,MERGED
+ui,Small UI fixes for DatetimeFilter,https://github.com/temporalio/ui/pull/1829,2024-01-26T16:30:20Z,2024-01-26T16:38:00Z,1,2,MERGED
+ui,Better timeline labels for localActivity,https://github.com/temporalio/ui/pull/1827,2024-01-26T15:29:01Z,2024-01-26T15:45:04Z,1,1,MERGED
+ui,"clean up checkbox styles, fix some input combobox styles",https://github.com/temporalio/ui/pull/1822,2024-01-24T17:44:39Z,2024-01-24T18:24:56Z,1,1,MERGED
+ui,Workflow Error Page,https://github.com/temporalio/ui/pull/1821,2024-01-24T16:25:13Z,2024-01-24T19:11:54Z,3,4,MERGED
+ui,bump version in package.json to v2.22.2,https://github.com/temporalio/ui/pull/1809,2024-01-19T19:25:07Z,2024-01-19T20:42:18Z,2,2,MERGED
+ui,Fix schedules nav icon,https://github.com/temporalio/ui/pull/1808,2024-01-19T18:25:09Z,2024-01-19T18:55:40Z,1,1,MERGED
+ui,Fix Workflows table overflow,https://github.com/temporalio/ui/pull/1805,2024-01-18T17:15:59Z,2024-01-18T17:41:56Z,1,1,MERGED
+ui,Add back single banner,https://github.com/temporalio/ui/pull/1803,2024-01-18T15:48:48Z,2024-01-18T19:37:52Z,4,4,MERGED
+ui,Update CodeBlock to support shell language,https://github.com/temporalio/ui/pull/1801,2024-01-16T19:48:05Z,2024-01-17T16:13:05Z,1,2,MERGED
+ui,Add DisableWriteMiddleware middleware for ui-server,https://github.com/temporalio/ui/pull/1800,2024-01-16T18:45:41Z,2024-01-17T19:43:46Z,2,23,MERGED
+ui,dark theme input and combobox,https://github.com/temporalio/ui/pull/1797,2024-01-12T19:33:17Z,2024-01-18T16:13:00Z,4,4,MERGED
+ui,Add x-padding for checkbox in workflow table,https://github.com/temporalio/ui/pull/1796,2024-01-12T19:06:12Z,2024-01-12T19:10:47Z,1,1,MERGED
+ui,Show Activity Type for local activities in all SDKs,https://github.com/temporalio/ui/pull/1795,2024-01-12T15:40:55Z,2024-01-23T18:19:46Z,4,10,MERGED
+ui,Timeline UI improvements,https://github.com/temporalio/ui/pull/1790,2024-01-11T00:29:40Z,2024-01-24T20:09:40Z,6,17,MERGED
+ui,DT-1654 - add scheduled by id and scheduled start time to workflow table columns,https://github.com/temporalio/ui/pull/1785,2024-01-04T18:45:23Z,2024-01-05T19:12:52Z,2,2,MERGED
+ui,Add support for decoding non-indexedFields searchAttributes and add back Search Attributes tab,https://github.com/temporalio/ui/pull/1784,2024-01-03T17:24:36Z,2024-01-03T17:34:42Z,1,3,MERGED
+ui,Versioning Rules,https://github.com/temporalio/ui/pull/1896,2024-02-29T19:16:35Z,2024-05-02T16:04:32Z,5,14,MERGED
+ui,Fix ScrollToTop button background,https://github.com/temporalio/ui/pull/1895,2024-02-29T18:39:17Z,2024-02-29T18:48:03Z,1,1,MERGED
+ui,fix select/menu-button and checkbox in light mode on dark bg,https://github.com/temporalio/ui/pull/1885,2024-02-27T18:42:52Z,2024-02-27T23:00:47Z,1,5,MERGED
+ui,Dark mode select combobox menu checkbox,https://github.com/temporalio/ui/pull/1878,2024-02-23T18:06:31Z,2024-02-26T18:02:56Z,5,9,MERGED
+ui,Show error message on Workflow query and call stack,https://github.com/temporalio/ui/pull/1873,2024-02-20T15:54:04Z,2024-02-20T18:30:54Z,1,1,MERGED
+ui,Fix backdrop for Modal component,https://github.com/temporalio/ui/pull/1871,2024-02-15T22:25:32Z,2024-02-16T16:57:44Z,2,2,MERGED
+ui,Include Input for Schedules on Create/Edit and show Input on View,https://github.com/temporalio/ui/pull/1869,2024-02-14T19:33:38Z,2024-03-14T15:20:54Z,4,14,MERGED
+ui,Small tweaks to Holocene components for self serve signup,https://github.com/temporalio/ui/pull/1866,2024-02-14T17:35:20Z,2024-02-14T18:47:00Z,2,1,MERGED
+ui,Fix width of Skeleton components,https://github.com/temporalio/ui/pull/1865,2024-02-13T23:38:58Z,2024-02-14T16:14:25Z,1,1,MERGED
+ui,Add text-inverse for surface-inverse,https://github.com/temporalio/ui/pull/1862,2024-02-13T15:33:08Z,2024-02-13T16:01:58Z,1,1,MERGED
+ui,update code block colors,https://github.com/temporalio/ui/pull/1946,2024-03-28T17:11:20Z,2024-03-28T17:16:08Z,1,1,MERGED
+ui,Responsive/small screen improvements,https://github.com/temporalio/ui/pull/1943,2024-03-27T21:24:29Z,2024-03-28T18:22:56Z,1,1,MERGED
+ui,Handle query args in workflow queries tab,https://github.com/temporalio/ui/pull/1938,2024-03-26T23:18:25Z,2024-05-01T16:56:19Z,2,1,CLOSED
+ui,Add support for STARTS_WITH for prefix searching,https://github.com/temporalio/ui/pull/1936,2024-03-25T21:59:59Z,2024-03-26T19:38:54Z,4,9,MERGED
+ui,add subtle border on dark,https://github.com/temporalio/ui/pull/1934,2024-03-25T19:40:01Z,2024-03-25T19:59:57Z,1,1,MERGED
+ui,Support timezones in timeline,https://github.com/temporalio/ui/pull/1933,2024-03-25T19:35:15Z,2024-03-26T15:47:38Z,1,3,MERGED
+ui,update dark boarder color,https://github.com/temporalio/ui/pull/1931,2024-03-25T19:01:09Z,2024-03-25T19:06:53Z,1,1,MERGED
+ui,change border color on dark,https://github.com/temporalio/ui/pull/1930,2024-03-25T18:54:39Z,2024-03-25T19:06:02Z,1,1,MERGED
+ui,Add backfill option to Schedule page,https://github.com/temporalio/ui/pull/1928,2024-03-22T22:39:31Z,2024-03-27T16:29:48Z,6,9,MERGED
+ui,Update Skeleton Table and Loader components for dark mode support,https://github.com/temporalio/ui/pull/1925,2024-03-21T18:43:11Z,2024-03-27T16:20:03Z,10,22,MERGED
+ui,Fix grouping of events on event group detail page,https://github.com/temporalio/ui/pull/1923,2024-03-20T22:54:26Z,2024-03-21T15:27:57Z,1,1,MERGED
+ui,Lines and Dots,https://github.com/temporalio/ui/pull/1922,2024-03-20T19:20:17Z,2024-04-05T17:42:08Z,4,167,MERGED
+ui,Add support for custom attributes with spaces in filter search,https://github.com/temporalio/ui/pull/1921,2024-03-20T03:23:10Z,2024-03-21T22:55:00Z,2,6,MERGED
+ui,Update Badges and the count Badge component for dark mode support,https://github.com/temporalio/ui/pull/1919,2024-03-19T21:02:58Z,2024-03-22T16:41:24Z,5,14,MERGED
+ui,Update Toaster component for dark mode support - DT-1773,https://github.com/temporalio/ui/pull/1918,2024-03-19T16:42:45Z,2024-03-21T20:04:54Z,1,5,MERGED
+ui,fix dark mode range input,https://github.com/temporalio/ui/pull/1914,2024-03-15T21:07:34Z,2024-03-18T17:26:44Z,1,1,MERGED
+ui,Show timer duration if under a second,https://github.com/temporalio/ui/pull/1911,2024-03-14T02:13:35Z,2024-03-15T16:12:18Z,2,2,MERGED
+ui,Use sanitizeHTML for signal names and configure CSP config for Sveltekit,https://github.com/temporalio/ui/pull/1903,2024-03-12T14:35:45Z,2024-03-12T17:34:02Z,1,7,MERGED
+ui,Add background to ToggleButton,https://github.com/temporalio/ui/pull/2064,2024-04-30T23:19:20Z,2024-05-01T15:31:04Z,1,1,MERGED
+ui,"Padding, border-radius fixes",https://github.com/temporalio/ui/pull/2062,2024-04-30T15:31:17Z,2024-04-30T18:33:51Z,2,5,MERGED
+ui,Don't return WorkflowTaskFailed error if a WorkflowTaskCompleted event occurs after it,https://github.com/temporalio/ui/pull/2055,2024-04-29T14:55:44Z,2024-04-29T18:00:58Z,2,5,MERGED
+ui,Update button wrapping for long labels,https://github.com/temporalio/ui/pull/2047,2024-04-25T18:18:46Z,2024-04-25T19:29:07Z,1,1,MERGED
+ui,Fix alignment on checkbox; address accessibility concerns,https://github.com/temporalio/ui/pull/2045,2024-04-24T20:32:35Z,2024-04-24T21:37:14Z,2,3,MERGED
+ui,Remove colors properties from badges; use semantic colors,https://github.com/temporalio/ui/pull/2042,2024-04-24T16:52:24Z,2024-04-24T20:38:14Z,1,4,MERGED
+ui,Small UI fixes,https://github.com/temporalio/ui/pull/2041,2024-04-23T20:22:36Z,2024-04-24T15:46:09Z,1,4,MERGED
+ui,Add margin to FilterOrCopyButtons component,https://github.com/temporalio/ui/pull/2036,2024-04-22T20:16:25Z,2024-04-22T21:26:51Z,1,2,MERGED
+ui,Fix alignment of relative option in timezone select,https://github.com/temporalio/ui/pull/2031,2024-04-22T15:45:20Z,2024-04-22T15:58:48Z,1,1,MERGED
+ui,Add gap in toggle button and pending activity icon,https://github.com/temporalio/ui/pull/2030,2024-04-22T15:42:28Z,2024-04-22T16:10:03Z,2,3,MERGED
+ui,Add Close tab for Details Row,https://github.com/temporalio/ui/pull/2025,2024-04-19T19:11:42Z,2024-04-19T20:56:46Z,2,5,MERGED
+ui,Update icons to align with Figma UI library,https://github.com/temporalio/ui/pull/2024,2024-04-19T14:27:56Z,2024-04-20T02:11:41Z,13,7,MERGED
+ui,Update loading component to mp4 ,https://github.com/temporalio/ui/pull/2021,2024-04-18T22:49:06Z,2024-04-25T19:57:18Z,5,5,MERGED
+ui,Ability to show/hide Child Workflows on Workflows List page,https://github.com/temporalio/ui/pull/2020,2024-04-18T18:28:38Z,2024-04-19T19:27:28Z,5,13,MERGED
+ui,Remove unnecessary dark classes,https://github.com/temporalio/ui/pull/2018,2024-04-18T14:35:53Z,2024-04-18T17:54:35Z,1,3,MERGED
+ui,Fix Copyable Link styling,https://github.com/temporalio/ui/pull/2017,2024-04-18T05:07:24Z,2024-04-18T15:37:46Z,1,1,MERGED
+ui,Audit filter search for night mode,https://github.com/temporalio/ui/pull/2016,2024-04-18T01:19:58Z,2024-04-18T20:45:29Z,1,3,MERGED
+ui,DT-1740 - update workflow reset UI for new reapply types in 1.24,https://github.com/temporalio/ui/pull/2014,2024-04-17T21:03:18Z,2024-09-30T16:24:37Z,5,12,MERGED
+ui,Fetch child workflows with ParentWorkflowId if Temporal server v1.23+,https://github.com/temporalio/ui/pull/2013,2024-04-17T17:51:51Z,2024-04-18T15:37:30Z,3,2,MERGED
+ui,Update dark mode hover style for copy or filter buttons,https://github.com/temporalio/ui/pull/2011,2024-04-16T20:34:19Z,2024-04-17T15:50:24Z,1,1,MERGED
+ui,Color updates,https://github.com/temporalio/ui/pull/2010,2024-04-16T20:17:25Z,2024-04-16T20:42:40Z,1,5,MERGED
+ui,Text audit,https://github.com/temporalio/ui/pull/2008,2024-04-16T20:00:31Z,2024-04-17T15:48:51Z,1,6,MERGED
+ui,Create GraphWidget for child timeline and to embed Lines and Dots anywhere,https://github.com/temporalio/ui/pull/2002,2024-04-16T15:21:46Z,2024-04-16T15:27:46Z,1,1,MERGED
+ui,Visual style updates to History Graph,https://github.com/temporalio/ui/pull/2000,2024-04-15T20:19:16Z,2024-04-15T21:01:19Z,1,2,MERGED
+ui,Various small Dark Mode fixes,https://github.com/temporalio/ui/pull/1999,2024-04-15T15:24:23Z,2024-04-15T15:33:11Z,1,2,MERGED
+ui,Icon updates,https://github.com/temporalio/ui/pull/1998,2024-04-15T13:38:18Z,2024-04-15T16:14:08Z,2,4,MERGED
+ui,Fix max-height on CodeBlock component,https://github.com/temporalio/ui/pull/1997,2024-04-12T22:02:36Z,2024-04-15T23:39:49Z,1,2,MERGED
+ui,Audit days of week and month,https://github.com/temporalio/ui/pull/1996,2024-04-12T00:18:49Z,2024-04-12T21:08:53Z,2,3,MERGED
+ui,Darkmode/pills,https://github.com/temporalio/ui/pull/1995,2024-04-11T21:31:23Z,2024-04-12T20:32:03Z,5,10,MERGED
+ui,Make history graph visual width dynamic based with max of canvasWidth / 4,https://github.com/temporalio/ui/pull/1994,2024-04-11T18:12:09Z,2024-04-11T18:27:44Z,1,2,MERGED
+ui,update codec bg and border,https://github.com/temporalio/ui/pull/1992,2024-04-11T17:29:22Z,2024-04-12T21:09:39Z,2,3,MERGED
+ui,Responsive design for group details row in Lines and Dots,https://github.com/temporalio/ui/pull/1991,2024-04-11T15:09:53Z,2024-04-11T15:14:28Z,1,1,MERGED
+ui,Show tooltip of relative/local time on workflow start/end times,https://github.com/temporalio/ui/pull/1986,2024-04-10T14:56:02Z,2024-04-10T15:32:31Z,2,1,MERGED
+ui,Fix table-header class in menu-button component,https://github.com/temporalio/ui/pull/1984,2024-04-09T20:27:12Z,2024-04-11T17:26:26Z,3,5,MERGED
+ui,Fix icon in copy button ,https://github.com/temporalio/ui/pull/1981,2024-04-09T15:35:47Z,2024-04-09T18:48:43Z,3,1,MERGED
+ui,Audit archival page,https://github.com/temporalio/ui/pull/1975,2024-04-08T19:56:08Z,2024-04-11T17:32:38Z,1,1,MERGED
+ui,never pass auth for settings requests,https://github.com/temporalio/ui/pull/1973,2024-04-08T17:26:50Z,2024-04-09T17:31:22Z,1,1,MERGED
+ui,"Only show scroll to bottom when there is event history, better lines on Event Details",https://github.com/temporalio/ui/pull/1971,2024-04-08T13:56:51Z,2024-04-08T14:07:36Z,1,1,MERGED
+ui,Fix spacing on Combobox icon,https://github.com/temporalio/ui/pull/1967,2024-04-05T22:00:58Z,2024-04-06T14:09:52Z,1,1,MERGED
+ui,Audit radio input,https://github.com/temporalio/ui/pull/1966,2024-04-05T20:17:01Z,2024-04-09T18:47:54Z,3,4,MERGED
+ui,Fix Top Nav on mobile,https://github.com/temporalio/ui/pull/1965,2024-04-05T18:33:30Z,2024-04-05T18:39:01Z,1,1,MERGED
+ui,update copyable button,https://github.com/temporalio/ui/pull/1963,2024-04-04T19:17:59Z,2024-04-12T17:46:46Z,3,3,MERGED
+ui,Audit pagination,https://github.com/temporalio/ui/pull/1962,2024-04-04T18:43:36Z,2024-04-11T17:24:28Z,8,16,MERGED
+ui,Darkmode toggle,https://github.com/temporalio/ui/pull/1961,2024-04-04T16:39:52Z,2024-04-12T21:13:07Z,2,15,MERGED
+ui,Add dark mode styles to API pagination table,https://github.com/temporalio/ui/pull/1958,2024-04-03T18:00:28Z,2024-04-10T21:34:09Z,4,17,MERGED
+ui,Set border on Radio inputs,https://github.com/temporalio/ui/pull/1955,2024-04-01T17:28:46Z,2024-04-01T18:22:00Z,1,1,MERGED
+ui,Fix gradient on skeleton loader for light mode,https://github.com/temporalio/ui/pull/1954,2024-04-01T17:00:44Z,2024-04-01T17:22:56Z,1,1,MERGED
+ui,Add docs to nav,https://github.com/temporalio/ui/pull/2131,2024-05-31T19:23:12Z,2024-06-03T15:58:30Z,1,2,MERGED
+ui,Add timezoneName to schedule spec with default of UTC,https://github.com/temporalio/ui/pull/2127,2024-05-28T14:11:16Z,2024-06-03T18:29:48Z,1,5,MERGED
+ui,Update SideNavigation component ,https://github.com/temporalio/ui/pull/2124,2024-05-21T20:23:13Z,2024-05-24T18:46:20Z,1,2,MERGED
+ui,Link to namespace in Namespace sticky nav,https://github.com/temporalio/ui/pull/2123,2024-05-21T16:13:44Z,2024-05-28T19:03:29Z,5,2,MERGED
+ui,Night mode audit,https://github.com/temporalio/ui/pull/2118,2024-05-17T15:19:00Z,2024-05-20T15:17:08Z,15,29,MERGED
+ui,Start a Workflow Execution from the UI,https://github.com/temporalio/ui/pull/2116,2024-05-15T19:36:23Z,2024-06-25T14:24:12Z,16,20,MERGED
+ui,Fix issue where close button cannot be seen on dark drawers,https://github.com/temporalio/ui/pull/2115,2024-05-15T19:18:50Z,2024-05-16T21:19:40Z,1,3,MERGED
+ui,Remove csp meta tag if publicPath exists and log warning,https://github.com/temporalio/ui/pull/2103,2024-05-09T20:43:54Z,2024-05-09T20:55:22Z,1,1,MERGED
+ui,Tone down border-primary in dark mode,https://github.com/temporalio/ui/pull/2102,2024-05-09T18:10:10Z,2024-05-09T18:42:36Z,1,2,MERGED
+ui,SideNavigation UI updates,https://github.com/temporalio/ui/pull/2101,2024-05-09T17:45:29Z,2024-05-09T19:08:09Z,1,4,MERGED
+ui,Refactor Versioning apis and UIs,https://github.com/temporalio/ui/pull/2097,2024-05-08T18:51:55Z,2024-05-09T18:00:30Z,2,2,MERGED
+ui,Remove transparent bg on Combobox,https://github.com/temporalio/ui/pull/2093,2024-05-08T01:32:10Z,2024-05-08T15:21:09Z,1,2,MERGED
+ui,Remove hoverable prop from Checkbox,https://github.com/temporalio/ui/pull/2092,2024-05-07T21:13:36Z,2024-05-08T15:20:56Z,1,4,MERGED
+ui,Fix outline around search input; add stories,https://github.com/temporalio/ui/pull/2087,2024-05-03T23:50:13Z,2024-05-06T14:49:46Z,1,5,MERGED
+ui,Add stories for Workflow Status Badges,https://github.com/temporalio/ui/pull/2081,2024-05-03T19:16:36Z,2024-05-03T19:28:21Z,1,3,MERGED
+ui,Fix Pagination in night mode,https://github.com/temporalio/ui/pull/2073,2024-05-02T17:24:12Z,2024-05-02T18:25:02Z,1,1,MERGED
+ui,Fix alignment of navigation items,https://github.com/temporalio/ui/pull/2072,2024-05-02T15:11:23Z,2024-05-02T17:24:55Z,1,1,MERGED
+ui,Redraw old timeline on change of event history,https://github.com/temporalio/ui/pull/2070,2024-05-02T14:08:30Z,2024-05-02T15:55:45Z,1,1,MERGED
+ui,Fix suffix border on Input,https://github.com/temporalio/ui/pull/2068,2024-05-01T22:38:02Z,2024-05-02T15:07:32Z,1,1,MERGED
+ui,Add a filterable link from Summary Workflow Type to WorkflowType filter,https://github.com/temporalio/ui/pull/2065,2024-05-01T01:22:35Z,2024-05-01T16:54:32Z,1,1,MERGED
+ui,Update badge colors,https://github.com/temporalio/ui/pull/2172,2024-06-27T22:48:55Z,2024-07-01T16:41:50Z,1,3,MERGED
+ui,Print raw json,https://github.com/temporalio/ui/pull/2171,2024-06-27T18:23:18Z,2024-06-28T13:22:17Z,6,4,MERGED
+ui,Add table view to Event History in labs mode,https://github.com/temporalio/ui/pull/2170,2024-06-26T21:11:46Z,2024-07-29T15:18:16Z,2,3,CLOSED
+ui,Add PillContainer component,https://github.com/temporalio/ui/pull/2168,2024-06-24T23:44:44Z,2024-07-01T16:39:47Z,1,3,MERGED
+ui,Encoded/Decoded/Readable setting for Download History,https://github.com/temporalio/ui/pull/2167,2024-06-24T16:47:24Z,2024-06-24T20:28:38Z,2,2,MERGED
+ui,Fix overlapping workflow details text,https://github.com/temporalio/ui/pull/2162,2024-06-17T19:35:38Z,2024-06-17T20:55:44Z,2,2,MERGED
+ui,Audit surface color ,https://github.com/temporalio/ui/pull/2161,2024-06-13T23:05:57Z,2024-07-01T19:27:28Z,1,2,CLOSED
+ui,Schedules Count,https://github.com/temporalio/ui/pull/2155,2024-06-11T19:13:19Z,2024-06-12T15:23:59Z,2,6,MERGED
+ui,Dark mode audit style updates,https://github.com/temporalio/ui/pull/2152,2024-06-10T23:46:00Z,2024-06-12T20:14:15Z,3,11,MERGED
+ui,Fix: batch-actions check terminable workflows length,https://github.com/temporalio/ui/pull/2148,2024-06-10T08:10:38Z,2025-04-04T11:48:49Z,1,1,CLOSED
+ui,Fix reset workflow modal bugs,https://github.com/temporalio/ui/pull/2147,2024-06-10T07:25:17Z,2024-10-22T17:50:28Z,2,1,CLOSED
+ui,Filter search a11y updates ,https://github.com/temporalio/ui/pull/2144,2024-06-07T22:33:00Z,2024-06-12T15:54:03Z,2,4,MERGED
+ui,New Versioning UI,https://github.com/temporalio/ui/pull/2142,2024-06-06T14:55:32Z,2024-06-06T20:36:38Z,1,32,MERGED
+ui,"Fix api pagination alignment, add debounce as a prop",https://github.com/temporalio/ui/pull/2139,2024-06-04T19:23:06Z,2024-06-04T20:01:42Z,1,7,MERGED
+ui,DT-2179 - fix wf reset button & other fixes,https://github.com/temporalio/ui/pull/2133,2024-06-03T17:55:38Z,2024-06-03T18:26:22Z,1,4,MERGED
+ui,Update workflow status colors,https://github.com/temporalio/ui/pull/2132,2024-06-03T17:07:08Z,2024-06-04T15:55:28Z,2,4,MERGED
+ui,change min text color,https://github.com/temporalio/ui/pull/2245,2024-07-31T22:04:18Z,2024-08-01T15:53:20Z,1,1,MERGED
+ui,Schedule search attributes,https://github.com/temporalio/ui/pull/2241,2024-07-29T23:27:45Z,2024-08-21T15:07:24Z,6,15,MERGED
+ui,Dark slider,https://github.com/temporalio/ui/pull/2240,2024-07-29T15:43:26Z,2024-07-29T16:11:08Z,2,2,MERGED
+ui,use order names,https://github.com/temporalio/ui/pull/2238,2024-07-26T13:40:18Z,2024-08-27T17:29:14Z,2,1,CLOSED
+ui,Fix WorkflowTaskFailed Alert when Cause is not provided,https://github.com/temporalio/ui/pull/2230,2024-07-24T17:52:38Z,2024-07-24T19:27:56Z,2,6,MERGED
+ui,Error handling improvements for Nexus,https://github.com/temporalio/ui/pull/2224,2024-07-22T13:39:01Z,2024-07-22T14:07:31Z,1,1,MERGED
+ui,Audit spacing and font weight in Alert component,https://github.com/temporalio/ui/pull/2222,2024-07-19T23:33:05Z,2024-07-22T15:48:16Z,1,1,MERGED
+ui,fix navigation badge styles,https://github.com/temporalio/ui/pull/2220,2024-07-19T17:07:13Z,2024-07-19T17:46:13Z,1,1,MERGED
+ui,Add WorkflowPropertiesModified event and group with Marker and SAUpsert into Other group category,https://github.com/temporalio/ui/pull/2219,2024-07-19T14:21:10Z,2024-07-19T15:35:48Z,1,1,MERGED
+ui,New Nexus icon,https://github.com/temporalio/ui/pull/2216,2024-07-18T21:24:01Z,2024-07-18T21:27:49Z,1,1,MERGED
+ui,"Display Local Activity, move Close button to right",https://github.com/temporalio/ui/pull/2215,2024-07-17T20:58:32Z,2024-08-24T05:02:39Z,3,2,CLOSED
+ui,Fix hover background on Namespace selector,https://github.com/temporalio/ui/pull/2214,2024-07-17T20:03:00Z,2024-07-17T20:31:34Z,3,2,MERGED
+ui,DT-2289 - changes/additions to nav to support promotions,https://github.com/temporalio/ui/pull/2210,2024-07-16T17:50:01Z,2024-07-16T18:15:04Z,1,1,MERGED
+ui,Nexus,https://github.com/temporalio/ui/pull/2199,2024-07-11T18:12:30Z,2024-07-11T19:27:17Z,9,48,MERGED
+ui,Mobile Nav,https://github.com/temporalio/ui/pull/2197,2024-07-10T18:41:17Z,2024-07-15T14:56:30Z,3,22,MERGED
+ui,Fix reason input on Pause Schedule modal in night mode,https://github.com/temporalio/ui/pull/2195,2024-07-10T03:50:17Z,2024-07-10T15:44:28Z,1,1,MERGED
+ui,Remove double encoding for API URL parameters,https://github.com/temporalio/ui/pull/2189,2024-07-05T14:39:37Z,2024-07-08T16:55:33Z,1,4,MERGED
+ui,Versioning Updates: Update rules logics and add BuildId to Worker table,https://github.com/temporalio/ui/pull/2183,2024-07-02T20:32:06Z,2024-07-03T13:44:41Z,1,3,MERGED
+ui,Use blue-300 for running,https://github.com/temporalio/ui/pull/2179,2024-07-02T15:12:17Z,2024-07-02T16:34:29Z,1,2,MERGED
+ui,Support IS NULL and IS NOT NULL filter search,https://github.com/temporalio/ui/pull/2298,2024-08-30T17:33:22Z,2024-09-05T18:20:02Z,1,4,MERGED
+ui,Add label for Next Retry on Pending Activities,https://github.com/temporalio/ui/pull/2287,2024-08-29T02:17:27Z,2024-08-29T02:35:52Z,1,3,MERGED
+ui,Add next retry time and refresh workflow every 10 seconds,https://github.com/temporalio/ui/pull/2284,2024-08-28T19:37:49Z,2024-08-28T20:02:36Z,1,1,MERGED
+ui,Add ability to query schedules,https://github.com/temporalio/ui/pull/2272,2024-08-19T15:35:07Z,2024-08-21T15:41:39Z,2,15,MERGED
+ui,Workflow Execution Page - Bring into the Light,https://github.com/temporalio/ui/pull/2269,2024-08-14T20:31:22Z,2024-08-27T17:25:39Z,2,52,MERGED
+ui,Add API PaginatedTable component,https://github.com/temporalio/ui/pull/2261,2024-08-09T19:22:13Z,2024-08-13T21:21:31Z,7,5,MERGED
+ui,Markdown Render - Nexus Description,https://github.com/temporalio/ui/pull/2258,2024-08-08T19:19:54Z,2024-08-12T15:44:05Z,1,20,MERGED
+ui,Nexus Callback Information,https://github.com/temporalio/ui/pull/2256,2024-08-07T18:32:12Z,2024-08-07T20:30:05Z,3,2,MERGED
+ui,fix text styles in navigation badge,https://github.com/temporalio/ui/pull/2253,2024-08-05T19:42:26Z,2024-08-05T20:21:01Z,1,1,MERGED
+ui,Small UI fixes,https://github.com/temporalio/ui/pull/2248,2024-08-01T17:38:59Z,2024-08-01T18:13:26Z,1,2,MERGED
+ui,MenuItem updates,https://github.com/temporalio/ui/pull/2361,2024-09-30T21:35:29Z,2024-10-01T15:47:29Z,1,4,MERGED
+ui,"Refactor event details link, add link support for endpointId",https://github.com/temporalio/ui/pull/2360,2024-09-30T21:34:59Z,2024-10-03T18:52:38Z,5,7,MERGED
+ui,DT-2499 - wf reset ux improvement,https://github.com/temporalio/ui/pull/2359,2024-09-30T20:33:50Z,2024-09-30T21:43:25Z,2,5,MERGED
+ui,Nexus form with searchable combobox,https://github.com/temporalio/ui/pull/2355,2024-09-27T13:54:20Z,2024-09-30T13:40:06Z,1,4,MERGED
+ui,Add empty state for upcoming runs,https://github.com/temporalio/ui/pull/2354,2024-09-26T22:24:14Z,2024-09-27T15:25:55Z,1,1,MERGED
+ui,Fix differences in duration ,https://github.com/temporalio/ui/pull/2353,2024-09-26T21:43:59Z,2024-09-27T15:30:22Z,2,2,MERGED
+ui,Small UI fixes,https://github.com/temporalio/ui/pull/2345,2024-09-24T20:54:50Z,2024-09-24T21:41:49Z,1,4,MERGED
+ui,Event Type multiselect dropdown with All/None options,https://github.com/temporalio/ui/pull/2339,2024-09-20T17:58:12Z,2024-09-24T15:22:40Z,3,7,MERGED
+ui,"Remove Start Workflow input preview, add error alert for invalid input",https://github.com/temporalio/ui/pull/2338,2024-09-20T14:07:21Z,2024-09-20T15:18:27Z,1,3,MERGED
+ui,Update Label spacing,https://github.com/temporalio/ui/pull/2336,2024-09-19T17:43:00Z,2024-09-23T19:37:48Z,1,4,MERGED
+ui,Workflow Electron,https://github.com/temporalio/ui/pull/2335,2024-09-19T16:27:01Z,2024-10-22T17:50:16Z,3,31,CLOSED
+ui,Add new responsive styles to input on api pagination,https://github.com/temporalio/ui/pull/2333,2024-09-18T00:43:09Z,2024-10-22T15:25:12Z,8,8,MERGED
+ui,Show all possible failures for WorkflowTaskError,https://github.com/temporalio/ui/pull/2328,2024-09-13T18:24:14Z,2024-09-17T20:07:32Z,5,5,MERGED
+ui,Highlight active link in nav bar,https://github.com/temporalio/ui/pull/2324,2024-09-12T18:11:25Z,2024-09-12T21:53:16Z,3,3,MERGED
+ui,Allow slots to override text content,https://github.com/temporalio/ui/pull/2321,2024-09-12T17:36:49Z,2024-09-12T17:43:37Z,1,1,MERGED
+ui,Add != operator to ConditionalMenu for filter search,https://github.com/temporalio/ui/pull/2320,2024-09-12T17:25:33Z,2024-09-12T17:34:26Z,1,1,MERGED
+ui,Accordion component updates,https://github.com/temporalio/ui/pull/2316,2024-09-09T22:50:06Z,2024-09-12T21:52:49Z,1,6,MERGED
+ui,Add links to workflow counts on list workflows page,https://github.com/temporalio/ui/pull/2315,2024-09-09T22:21:12Z,2024-09-11T21:09:21Z,1,2,MERGED
+ui,Timer value,https://github.com/temporalio/ui/pull/2313,2024-09-06T15:18:28Z,2024-09-06T15:55:50Z,1,2,MERGED
+ui,Add reason to Cancel Workflow confirmation modal,https://github.com/temporalio/ui/pull/2311,2024-09-04T20:54:25Z,2025-09-02T21:45:53Z,1,1,CLOSED
+ui,Add initial tooltip to badge,https://github.com/temporalio/ui/pull/2310,2024-09-04T19:23:18Z,2024-09-11T21:09:41Z,1,2,MERGED
+ui,reduce hr margin on side nav,https://github.com/temporalio/ui/pull/2304,2024-09-03T20:10:49Z,2024-09-03T20:20:38Z,1,1,MERGED
+ui,Fix copy button styles on CodeBlock,https://github.com/temporalio/ui/pull/2303,2024-09-03T19:57:41Z,2024-09-03T22:46:04Z,2,2,MERGED
+ui,Fix max-height on PaginatedTable component,https://github.com/temporalio/ui/pull/2302,2024-09-03T19:13:52Z,2024-09-03T19:37:38Z,1,1,MERGED
+ui,Bidirectional Links,https://github.com/temporalio/ui/pull/2299,2024-09-03T14:00:02Z,2024-09-03T18:18:11Z,7,6,MERGED
+ui,Use __user_metadata query if it exists,https://github.com/temporalio/ui/pull/2411,2024-10-29T20:35:36Z,2024-10-30T15:56:06Z,1,3,MERGED
+ui,Use attempt versus retry,https://github.com/temporalio/ui/pull/2408,2024-10-24T18:08:14Z,2024-10-24T18:43:39Z,2,2,MERGED
+ui,Add query argument support,https://github.com/temporalio/ui/pull/2407,2024-10-24T15:13:20Z,2024-10-29T18:20:45Z,8,9,MERGED
+ui,Encode header fields if they exist on schedule edit,https://github.com/temporalio/ui/pull/2405,2024-10-23T15:12:58Z,2024-10-23T16:43:32Z,2,2,MERGED
+ui,Add toast instead of redirect on Start Workflow with link to workflow,https://github.com/temporalio/ui/pull/2402,2024-10-22T15:18:46Z,2024-10-22T15:30:22Z,4,2,MERGED
+ui,Make workflow action menu smaller on small screens,https://github.com/temporalio/ui/pull/2401,2024-10-22T13:54:46Z,2024-10-22T13:57:26Z,1,1,MERGED
+ui,Do not lookup initial event for WorkflowUpdateAccepted events,https://github.com/temporalio/ui/pull/2397,2024-10-21T18:44:38Z,2024-10-21T20:25:26Z,1,1,MERGED
+ui,Codec Server error banner,https://github.com/temporalio/ui/pull/2394,2024-10-16T13:41:51Z,2024-10-21T15:19:10Z,1,4,MERGED
+ui,"Input bug in Firefox: Difficult to Set Focus in Input Textarea for ""Start a Workflow""",https://github.com/temporalio/ui/pull/2393,2024-10-15T23:06:13Z,2025-01-08T20:07:02Z,1,6,CLOSED
+ui,Fix pending activity text in timeline,https://github.com/temporalio/ui/pull/2392,2024-10-15T15:31:44Z,2024-10-15T17:59:56Z,3,2,MERGED
+ui,Event Summary row improvements,https://github.com/temporalio/ui/pull/2389,2024-10-14T15:25:24Z,2024-10-14T17:37:13Z,1,1,MERGED
+ui,"Use whitespace-pre-line to wrap links correctly, remove badge on links",https://github.com/temporalio/ui/pull/2386,2024-10-11T15:23:50Z,2024-10-11T15:31:23Z,1,3,MERGED
+ui,Only encode Schedule Input when added or edited,https://github.com/temporalio/ui/pull/2384,2024-10-10T23:01:35Z,2024-11-04T16:57:17Z,1,6,MERGED
+ui,Use encodeUriComponent and decodeUriComponent and add tests,https://github.com/temporalio/ui/pull/2382,2024-10-10T13:52:55Z,2024-10-10T15:54:19Z,3,3,MERGED
+ui,Fix retry attempt text in timeline when textAnchor is end,https://github.com/temporalio/ui/pull/2381,2024-10-09T21:22:58Z,2024-10-11T23:27:07Z,1,1,MERGED
+ui,UserMenu refactoring,https://github.com/temporalio/ui/pull/2374,2024-10-08T19:43:42Z,2024-10-09T16:34:12Z,4,8,MERGED
+ui,DT-1495 - use description instead of tooltip on reset menu item,https://github.com/temporalio/ui/pull/2373,2024-10-08T15:44:48Z,2024-10-08T19:46:49Z,7,2,MERGED
+ui,Add pending activity attempt count to timeline,https://github.com/temporalio/ui/pull/2372,2024-10-07T21:41:34Z,2024-10-09T16:38:36Z,1,7,MERGED
+ui,Don't omit header attribute on event details,https://github.com/temporalio/ui/pull/2371,2024-10-04T21:46:09Z,2024-10-22T15:45:24Z,1,1,MERGED
+ui,Refactor out payload inputs to its own component and add encoding field,https://github.com/temporalio/ui/pull/2370,2024-10-04T19:08:25Z,2024-10-08T16:45:24Z,2,5,MERGED
+ui,Combobox component updates,https://github.com/temporalio/ui/pull/2369,2024-10-04T17:57:15Z,2024-10-04T20:50:33Z,1,5,MERGED
+ui,Comfy / Dense View Mode,https://github.com/temporalio/ui/pull/2367,2024-10-03T21:24:54Z,2024-10-14T13:19:32Z,1,4,CLOSED
+ui,Small responsive UI improvements for EventDetailsRow,https://github.com/temporalio/ui/pull/2366,2024-10-03T19:04:58Z,2024-10-03T19:11:20Z,1,1,MERGED
+ui,DT-2502 - handle WorkflowExecutionUpdateAdmitted events,https://github.com/temporalio/ui/pull/2364,2024-10-02T18:02:02Z,2024-10-04T15:39:20Z,2,4,MERGED
+ui,Add additional conditional support to KeywordList filter,https://github.com/temporalio/ui/pull/2447,2024-11-27T21:24:34Z,2024-12-03T16:48:53Z,3,2,MERGED
+ui,Move Alerts above Tabs,https://github.com/temporalio/ui/pull/2446,2024-11-27T17:02:54Z,2024-11-27T17:09:06Z,1,1,MERGED
+ui,Fix inline styles for CodeBlock component,https://github.com/temporalio/ui/pull/2444,2024-11-27T00:26:58Z,2024-11-27T21:26:46Z,1,2,MERGED
+ui,Add render route in ui-server,https://github.com/temporalio/ui/pull/2430,2024-11-18T19:24:57Z,2024-11-20T16:34:30Z,1,2,MERGED
+ui,User Metadata,https://github.com/temporalio/ui/pull/2423,2024-11-07T19:56:10Z,2024-11-20T16:50:07Z,4,34,MERGED
+ui,Fix CopyButton hover in CodeBlock in Day mode ,https://github.com/temporalio/ui/pull/2421,2024-11-06T19:27:23Z,2024-11-06T19:38:15Z,1,1,MERGED
+ui,KeywordList search attribute support,https://github.com/temporalio/ui/pull/2420,2024-11-06T17:38:18Z,2024-11-20T17:24:15Z,9,9,MERGED
+ui,fix: keep extra row cell when write actions are disabled,https://github.com/temporalio/ui/pull/2416,2024-11-04T15:22:09Z,2024-11-07T16:29:28Z,1,1,MERGED
+ui,Light/Dark mode themes for Codemirror Editor,https://github.com/temporalio/ui/pull/2414,2024-11-01T16:10:36Z,2024-11-01T16:50:09Z,1,2,MERGED
+ui,Detail view responsive improvements,https://github.com/temporalio/ui/pull/2483,2024-12-20T20:43:47Z,2025-01-07T16:39:30Z,2,4,MERGED
+ui,Table component padding updates,https://github.com/temporalio/ui/pull/2482,2024-12-18T20:35:31Z,2024-12-19T16:29:07Z,1,3,MERGED
+ui,Update Nexus empty state text with links and allow slot,https://github.com/temporalio/ui/pull/2478,2024-12-16T20:48:05Z,2024-12-16T21:04:09Z,1,1,MERGED
+ui,"Add Blocked Reason, Link and Link Namespace to Callback UI",https://github.com/temporalio/ui/pull/2476,2024-12-12T19:48:01Z,2024-12-13T19:36:45Z,1,4,MERGED
+ui,Fix overlap of copy button on CodeBlock component,https://github.com/temporalio/ui/pull/2470,2024-12-11T17:02:00Z,2024-12-11T17:09:27Z,1,2,MERGED
+ui,Current Details,https://github.com/temporalio/ui/pull/2466,2024-12-06T19:06:28Z,2024-12-09T18:09:32Z,3,3,MERGED
+ui,Form responsive improvements,https://github.com/temporalio/ui/pull/2465,2024-12-05T22:38:46Z,2024-12-06T22:50:41Z,2,7,MERGED
+ui,Create and edit responsive improvements,https://github.com/temporalio/ui/pull/2457,2024-12-04T21:35:48Z,2024-12-05T16:28:19Z,1,4,MERGED
+ui,Better styles and flex for Workflow Details,https://github.com/temporalio/ui/pull/2454,2024-12-04T15:16:15Z,2024-12-04T17:00:26Z,3,7,MERGED
+ui,User Metadata for Activity and Timers,https://github.com/temporalio/ui/pull/2529,2025-01-30T19:57:25Z,2025-02-05T17:05:25Z,6,18,MERGED
+ui,Fix icon in Combobox with action,https://github.com/temporalio/ui/pull/2528,2025-01-30T17:22:05Z,2025-02-05T16:52:29Z,1,6,MERGED
+ui,"Remove old fork, respond with application/json from APIHandler",https://github.com/temporalio/ui/pull/2527,2025-01-30T16:44:28Z,2025-01-30T18:38:55Z,1,1,MERGED
+ui,Only show NamespacePicker on certain pages,https://github.com/temporalio/ui/pull/2522,2025-01-28T22:54:16Z,2025-01-29T18:15:44Z,1,2,MERGED
+ui,DT-2686 - show last failure stack trace separately in pending activities,https://github.com/temporalio/ui/pull/2521,2025-01-28T21:17:55Z,2025-01-28T21:51:45Z,1,2,MERGED
+ui,DT-2629 - fix multiselect combobox a11y,https://github.com/temporalio/ui/pull/2520,2025-01-27T18:04:20Z,2025-01-27T19:10:57Z,1,3,MERGED
+ui,"Make WorkflowId the link in relationships, add interactive class to Link",https://github.com/temporalio/ui/pull/2511,2025-01-16T16:49:33Z,2025-01-17T17:57:06Z,2,1,MERGED
+ui,Make nav items rounded-sm,https://github.com/temporalio/ui/pull/2509,2025-01-16T15:09:06Z,2025-01-16T15:36:37Z,1,2,MERGED
+ui,Workflow Update,https://github.com/temporalio/ui/pull/2508,2025-01-15T21:08:23Z,2025-01-27T15:52:22Z,3,14,MERGED
+ui,Add back relationship badge count in tab,https://github.com/temporalio/ui/pull/2498,2025-01-13T14:11:53Z,2025-01-13T14:34:31Z,1,3,MERGED
+ui,Small Accordion component fixes,https://github.com/temporalio/ui/pull/2494,2025-01-10T18:06:51Z,2025-01-13T17:37:16Z,1,8,MERGED
+ui,Use tailwind classes for border to fix dark mode on arrows,https://github.com/temporalio/ui/pull/2488,2025-01-07T21:18:22Z,2025-01-07T23:54:43Z,1,1,MERGED
+ui,Workflow Relationship Tree,https://github.com/temporalio/ui/pull/2487,2025-01-07T20:46:31Z,2025-01-09T17:45:12Z,1,72,MERGED
+ui,Small Holocene updates,https://github.com/temporalio/ui/pull/2486,2025-01-07T16:15:56Z,2025-01-08T20:14:18Z,1,4,MERGED
+ui,Worker Versioning,https://github.com/temporalio/ui/pull/2576,2025-02-24T22:07:04Z,2025-02-25T20:29:22Z,8,22,MERGED
+ui,Worker Deployments,https://github.com/temporalio/ui/pull/2575,2025-02-24T22:06:06Z,2025-02-24T22:06:37Z,1,6,CLOSED
+ui,Show multiple callbacks and WorkflowExecutionUpdateOptions attributes,https://github.com/temporalio/ui/pull/2574,2025-02-21T22:06:14Z,2025-02-24T16:14:35Z,2,7,MERGED
+ui,Add lineBreakReplacer extension for CodeBlock,https://github.com/temporalio/ui/pull/2571,2025-02-20T21:31:34Z,2025-02-20T22:39:08Z,2,1,MERGED
+ui,fix/remove imports from svelte/internal,https://github.com/temporalio/ui/pull/2569,2025-02-20T17:59:41Z,2025-02-20T18:12:52Z,2,1,MERGED
+ui,Add bi-directional links to Timeline info,https://github.com/temporalio/ui/pull/2561,2025-02-18T23:05:16Z,2025-02-19T14:59:16Z,1,4,MERGED
+ui,Only query workflow metadata for running workflows,https://github.com/temporalio/ui/pull/2560,2025-02-18T18:36:23Z,2025-02-19T02:29:11Z,4,7,MERGED
+ui,Fix connection icon dimensions ,https://github.com/temporalio/ui/pull/2554,2025-02-12T16:43:01Z,2025-02-12T16:50:04Z,1,1,MERGED
+ui,Fix responsiveness of cron string example,https://github.com/temporalio/ui/pull/2552,2025-02-10T23:36:15Z,2025-02-11T16:00:35Z,1,1,MERGED
+ui,Add Schedules cron string description,https://github.com/temporalio/ui/pull/2549,2025-02-10T18:50:38Z,2025-02-10T22:44:52Z,2,6,MERGED
+ui,Add connection icon,https://github.com/temporalio/ui/pull/2547,2025-02-10T16:53:37Z,2025-02-10T18:52:39Z,1,1,MERGED
+ui,Workflow Filter Options,https://github.com/temporalio/ui/pull/2546,2025-02-07T21:39:32Z,2025-02-10T21:58:07Z,3,5,MERGED
+ui,Add prefix for Metadata to show Activity Type in Timeline,https://github.com/temporalio/ui/pull/2542,2025-02-06T19:32:46Z,2025-02-06T19:42:15Z,1,2,MERGED
+ui,Support messageType metadata on protobuf encoded Payloads,https://github.com/temporalio/ui/pull/2581,2025-02-27T16:24:50Z,2025-03-03T15:11:33Z,2,3,MERGED
+ui,Worker Versioning,https://github.com/temporalio/ui/pull/2576,2025-02-24T22:07:04Z,2025-02-25T20:29:22Z,8,22,MERGED
+ui,Worker Deployments,https://github.com/temporalio/ui/pull/2575,2025-02-24T22:06:06Z,2025-02-24T22:06:37Z,1,6,CLOSED
+ui,Show multiple callbacks and WorkflowExecutionUpdateOptions attributes,https://github.com/temporalio/ui/pull/2574,2025-02-21T22:06:14Z,2025-02-24T16:14:35Z,2,7,MERGED
+ui,Add lineBreakReplacer extension for CodeBlock,https://github.com/temporalio/ui/pull/2571,2025-02-20T21:31:34Z,2025-02-20T22:39:08Z,2,1,MERGED
+ui,fix/remove imports from svelte/internal,https://github.com/temporalio/ui/pull/2569,2025-02-20T17:59:41Z,2025-02-20T18:12:52Z,2,1,MERGED
+ui,Add bi-directional links to Timeline info,https://github.com/temporalio/ui/pull/2561,2025-02-18T23:05:16Z,2025-02-19T14:59:16Z,1,4,MERGED
+ui,Only query workflow metadata for running workflows,https://github.com/temporalio/ui/pull/2560,2025-02-18T18:36:23Z,2025-02-19T02:29:11Z,4,7,MERGED
+ui,Fix connection icon dimensions ,https://github.com/temporalio/ui/pull/2554,2025-02-12T16:43:01Z,2025-02-12T16:50:04Z,1,1,MERGED
+ui,Fix responsiveness of cron string example,https://github.com/temporalio/ui/pull/2552,2025-02-10T23:36:15Z,2025-02-11T16:00:35Z,1,1,MERGED
+ui,Add Schedules cron string description,https://github.com/temporalio/ui/pull/2549,2025-02-10T18:50:38Z,2025-02-10T22:44:52Z,2,6,MERGED
+ui,Add connection icon,https://github.com/temporalio/ui/pull/2547,2025-02-10T16:53:37Z,2025-02-10T18:52:39Z,1,1,MERGED
+ui,Workflow Filter Options,https://github.com/temporalio/ui/pull/2546,2025-02-07T21:39:32Z,2025-02-10T21:58:07Z,3,5,MERGED
+ui,Add prefix for Metadata to show Activity Type in Timeline,https://github.com/temporalio/ui/pull/2542,2025-02-06T19:32:46Z,2025-02-06T19:42:15Z,1,2,MERGED
+ui,Add back state tansitions to workflow details,https://github.com/temporalio/ui/pull/2627,2025-03-31T17:28:35Z,2025-03-31T17:59:27Z,1,1,MERGED
+ui,Make localString for total count,https://github.com/temporalio/ui/pull/2622,2025-03-27T13:45:59Z,2025-03-27T13:52:59Z,1,1,MERGED
+ui,"Revert ""Revert ""ChipInput Updates""""",https://github.com/temporalio/ui/pull/2621,2025-03-26T22:26:08Z,2025-03-27T17:02:11Z,4,4,MERGED
+ui,Limit fetchAllRootWorkflows to 3000,https://github.com/temporalio/ui/pull/2616,2025-03-26T20:41:50Z,2025-03-26T21:04:30Z,1,2,MERGED
+ui,Workflow Search Attributes for Schedule Create/Edit,https://github.com/temporalio/ui/pull/2614,2025-03-25T20:47:54Z,2025-04-15T18:52:35Z,17,36,MERGED
+ui,"Add SDK Name, Logo and Version to Workflow Details",https://github.com/temporalio/ui/pull/2613,2025-03-25T16:47:14Z,2025-03-26T16:33:27Z,2,5,MERGED
+ui,ChipInput Updates,https://github.com/temporalio/ui/pull/2612,2025-03-25T16:05:21Z,2025-03-25T21:42:38Z,1,3,MERGED
+ui,DT-2821 - add invalid/error state to Select,https://github.com/temporalio/ui/pull/2606,2025-03-19T15:45:38Z,2025-03-19T16:36:02Z,1,4,MERGED
+ui,Copy query,https://github.com/temporalio/ui/pull/2604,2025-03-18T21:54:13Z,2025-03-20T18:01:45Z,4,5,MERGED
+ui,Full Height Timeline and Event History,https://github.com/temporalio/ui/pull/2589,2025-03-07T20:17:44Z,2025-03-17T17:26:01Z,5,13,MERGED
+ui,Include Local Activity failure in filter for Pending and Failed Events,https://github.com/temporalio/ui/pull/2588,2025-03-07T17:08:11Z,2025-03-07T18:02:45Z,1,2,MERGED
+ui,Improved UX for Pending Activities page,https://github.com/temporalio/ui/pull/2701,2025-04-30T19:49:31Z,2025-05-01T17:01:44Z,9,10,MERGED
+ui,DT-2884 - updates to Select and Input for quickstart guide,https://github.com/temporalio/ui/pull/2693,2025-04-23T19:20:24Z,2025-04-24T20:03:42Z,2,4,MERGED
+ui,Set position of Toast Notification container,https://github.com/temporalio/ui/pull/2692,2025-04-23T14:25:23Z,2025-04-23T15:51:46Z,2,3,MERGED
+ui,Add optional scrollTo action to ChipInput ,https://github.com/temporalio/ui/pull/2691,2025-04-22T22:22:25Z,2025-04-23T16:43:41Z,3,1,MERGED
+ui,Default Codec Error Message and Link,https://github.com/temporalio/ui/pull/2684,2025-04-21T19:08:39Z,2025-04-22T17:18:08Z,1,9,MERGED
+ui,Fix schedule count to include query,https://github.com/temporalio/ui/pull/2681,2025-04-17T16:55:39Z,2025-04-17T17:16:44Z,1,1,MERGED
+ui,Add SkeletonTable as default loading state in the PaginatedTable,https://github.com/temporalio/ui/pull/2678,2025-04-16T22:57:39Z,2025-04-17T16:30:23Z,1,1,MERGED
+ui,Allow BigInt input for Start Workflow,https://github.com/temporalio/ui/pull/2673,2025-04-14T14:43:57Z,2025-04-14T15:04:30Z,1,2,MERGED
+ui,Table Row density,https://github.com/temporalio/ui/pull/2668,2025-04-10T13:41:01Z,2025-04-10T16:07:48Z,1,4,MERGED
+ui,Progressive Relationships for large Root Workflows,https://github.com/temporalio/ui/pull/2661,2025-04-07T21:19:28Z,2025-04-21T20:39:24Z,3,15,MERGED
+ui,example monorepo using turbo,https://github.com/temporalio/ui/pull/2650,2025-04-05T02:02:47Z,2025-05-01T17:41:28Z,1,8,CLOSED
+ui,Make history event timestamp copyable,https://github.com/temporalio/ui/pull/2647,2025-04-03T23:04:25Z,2025-04-04T16:13:56Z,1,1,MERGED
+ui,Move bg color of header out of custom class,https://github.com/temporalio/ui/pull/2642,2025-04-03T15:04:51Z,2025-04-03T15:10:54Z,1,1,MERGED
+ui,Add min-h-screen to fix scroll gap on nav,https://github.com/temporalio/ui/pull/2636,2025-04-02T19:19:28Z,2025-04-03T15:55:10Z,1,1,MERGED
+ui,Use links attached to callbacks and support requestId links,https://github.com/temporalio/ui/pull/2742,2025-05-28T17:37:39Z,2025-05-28T19:04:53Z,4,4,MERGED
+ui,[DT-2881] info alignment,https://github.com/temporalio/ui/pull/2741,2025-05-28T14:27:45Z,2025-06-06T20:22:13Z,8,19,MERGED
+ui,feat(modal): update slot name to `modalTitle`,https://github.com/temporalio/ui/pull/2735,2025-05-19T18:15:12Z,2025-05-27T21:11:32Z,1,2,CLOSED
+ui,Show Summary on Pending Activities,https://github.com/temporalio/ui/pull/2729,2025-05-15T14:25:16Z,2025-05-15T14:35:34Z,1,2,MERGED
+ui,Allow Terminate for closed workflows with newExecutionRunId,https://github.com/temporalio/ui/pull/2724,2025-05-13T20:50:40Z,2025-05-29T19:37:44Z,3,7,MERGED
+ui,[DT-2854] move dark mode button from side nav to top nav,https://github.com/temporalio/ui/pull/2720,2025-05-12T20:51:36Z,2025-05-28T18:40:43Z,10,14,MERGED
+ui,Sort query list and remove Refetch button on Call Stack,https://github.com/temporalio/ui/pull/2719,2025-05-12T20:20:49Z,2025-05-13T17:21:04Z,2,3,MERGED
+ui,Replace loading spinner with Skeleton Workflow on Workflow Page,https://github.com/temporalio/ui/pull/2710,2025-05-07T14:37:31Z,2025-05-07T15:35:34Z,1,2,MERGED
+ui,API Pagination for Workflows List,https://github.com/temporalio/ui/pull/2708,2025-05-06T15:27:50Z,2025-05-09T14:32:16Z,3,19,MERGED
+ui,Add quick filters for workflows,https://github.com/temporalio/ui/pull/2707,2025-05-05T19:14:09Z,2025-07-22T17:00:33Z,1,3,CLOSED
+ui,Revert Workflow Input array display behavior,https://github.com/temporalio/ui/pull/2706,2025-05-05T14:14:26Z,2025-05-05T14:43:09Z,1,1,MERGED
+ui,DT-3070: Add codec server form component,https://github.com/temporalio/ui/pull/2797,2025-06-30T21:15:39Z,2025-07-21T17:55:29Z,7,13,MERGED
+ui,User metadata,https://github.com/temporalio/ui/pull/2796,2025-06-30T21:02:27Z,2025-08-07T18:29:33Z,13,32,MERGED
+ui,"Activity Commands - Pause, Update Options, Reset",https://github.com/temporalio/ui/pull/2795,2025-06-30T18:09:17Z,2025-07-01T17:32:11Z,8,69,MERGED
+ui,Fix responsive order of Billable Actions label,https://github.com/temporalio/ui/pull/2794,2025-06-30T14:04:36Z,2025-06-30T14:14:26Z,1,1,MERGED
+ui,DT-3069: Add search attributes form component with adapter pattern,https://github.com/temporalio/ui/pull/2793,2025-06-27T19:49:01Z,2025-06-30T18:26:16Z,3,11,MERGED
+ui,"Add link to Billable Actions, don't overcount Marker Recorded, only count first Scheduled run",https://github.com/temporalio/ui/pull/2791,2025-06-26T18:33:13Z,2025-06-26T18:56:37Z,1,3,MERGED
+ui,Show the related activity events on hover/click in timeline,https://github.com/temporalio/ui/pull/2790,2025-06-26T17:56:04Z,2025-06-30T17:11:48Z,6,9,MERGED
+ui,Remove text-off-white on table-header Button variant,https://github.com/temporalio/ui/pull/2789,2025-06-26T16:06:43Z,2025-06-26T17:07:00Z,1,1,MERGED
+ui,Add Change Version as a default SA column you can add,https://github.com/temporalio/ui/pull/2787,2025-06-26T13:11:50Z,2025-06-26T13:17:32Z,1,3,MERGED
+ui,Add note about Corepack to README,https://github.com/temporalio/ui/pull/2784,2025-06-25T15:43:32Z,2025-06-25T17:11:34Z,1,1,MERGED
+ui,Remove Workers/Versioning tab on Task Queue page,https://github.com/temporalio/ui/pull/2783,2025-06-24T21:18:00Z,2025-06-25T15:43:32Z,1,1,MERGED
+ui,hide SDK workflow detail unless there is a value,https://github.com/temporalio/ui/pull/2782,2025-06-24T18:45:57Z,2025-06-24T23:27:04Z,2,1,MERGED
+ui,Fix issue with conditional in query value,https://github.com/temporalio/ui/pull/2781,2025-06-24T13:36:38Z,2025-06-24T13:53:04Z,1,4,MERGED
+ui,Remove worker version if deployment version exists make version behavior readable,https://github.com/temporalio/ui/pull/2780,2025-06-23T19:23:00Z,2025-06-23T19:30:34Z,1,1,MERGED
+ui,Deployment Updates - Pinned Workers and Unversioned current,https://github.com/temporalio/ui/pull/2778,2025-06-20T17:27:07Z,2025-06-23T18:15:51Z,2,7,MERGED
+ui,Add UI_SERVER_HOT_RELOAD environment variable,https://github.com/temporalio/ui/pull/2777,2025-06-18T23:12:20Z,2025-06-20T13:38:06Z,1,1,MERGED
+ui,Upgrade Echo and implement dynamic CORS middleware with Air hot reloading,https://github.com/temporalio/ui/pull/2774,2025-06-17T14:19:12Z,2025-06-17T19:49:41Z,3,2,MERGED
+ui,DT-2971-change-codeblock-expand-to-maximize,https://github.com/temporalio/ui/pull/2771,2025-06-16T20:21:30Z,2025-06-30T14:59:28Z,15,24,MERGED
+ui,DT-3027: Setup Basic Super Form,https://github.com/temporalio/ui/pull/2765,2025-06-13T19:18:27Z,2025-06-27T20:25:51Z,14,2,MERGED
+ui,Deployment Versioning Updates,https://github.com/temporalio/ui/pull/2764,2025-06-11T15:02:36Z,2025-06-16T18:47:45Z,1,14,MERGED
+ui,add user-group icon,https://github.com/temporalio/ui/pull/2761,2025-06-09T15:11:40Z,2025-06-09T18:12:48Z,1,1,MERGED
+ui,Update font size and spacing on Radio Input component,https://github.com/temporalio/ui/pull/2760,2025-06-06T16:10:08Z,2025-06-09T15:50:59Z,1,1,MERGED
+ui,Add activity type to row,https://github.com/temporalio/ui/pull/2755,2025-06-03T14:47:29Z,2025-06-11T18:15:51Z,17,17,MERGED
+ui,DT-2854-5-dark-mode-menu,https://github.com/temporalio/ui/pull/2754,2025-06-02T17:32:08Z,2025-06-02T21:20:35Z,3,11,MERGED
+ui,Set background color for failure/canceled/terminated rows,https://github.com/temporalio/ui/pull/2844,2025-07-30T15:41:57Z,2025-07-30T16:47:40Z,3,4,MERGED
+ui,Limit workflow execution query length to 15k characters,https://github.com/temporalio/ui/pull/2840,2025-07-29T21:39:35Z,2025-08-06T15:49:24Z,8,10,MERGED
+ui,DT-3163: Add tag icon to Holocene icon set,https://github.com/temporalio/ui/pull/2836,2025-07-28T23:10:52Z,2025-07-29T13:49:32Z,1,2,MERGED
+ui,Remove all table-fixed and remove unused table components,https://github.com/temporalio/ui/pull/2834,2025-07-28T21:53:50Z,2025-07-29T13:48:16Z,2,1,CLOSED
+ui,"Update branding, hover states, and padding of side nav",https://github.com/temporalio/ui/pull/2833,2025-07-28T17:10:43Z,2025-07-29T16:48:03Z,3,6,MERGED
+ui,"Link to target Task Queue, show if any active workers, add Nexus Handler column",https://github.com/temporalio/ui/pull/2832,2025-07-25T19:25:28Z,2025-07-28T18:55:04Z,2,4,MERGED
+ui,Fix responsiveness on filter search actions,https://github.com/temporalio/ui/pull/2831,2025-07-25T19:01:10Z,2025-07-25T19:58:01Z,1,1,MERGED
+ui,Add pagination to Archived Workflows,https://github.com/temporalio/ui/pull/2828,2025-07-25T14:41:12Z,2025-07-25T15:08:49Z,1,5,MERGED
+ui,Decode Failures if custom FailureConverter configured,https://github.com/temporalio/ui/pull/2822,2025-07-21T17:41:21Z,2025-07-22T20:25:54Z,2,3,MERGED
+ui,Nexus Links tab,https://github.com/temporalio/ui/pull/2821,2025-07-18T19:33:13Z,2025-07-21T15:07:47Z,3,16,MERGED
+ui,Remove quotes from date value and add tests,https://github.com/temporalio/ui/pull/2819,2025-07-17T18:11:01Z,2025-07-17T19:06:19Z,1,1,MERGED
+ui,Fix dark mode image swap on table empty state,https://github.com/temporalio/ui/pull/2817,2025-07-17T15:36:32Z,2025-07-21T21:03:20Z,2,3,MERGED
+ui,Fix the 2px border on table skeleton loader component,https://github.com/temporalio/ui/pull/2809,2025-07-10T17:02:22Z,2025-07-15T17:01:39Z,1,2,MERGED
+ui,Update to use solid spinner in Button component,https://github.com/temporalio/ui/pull/2808,2025-07-08T20:29:37Z,2025-07-15T16:59:50Z,1,4,MERGED
+ui,Replace virtual list with NamespacePicker on /select-namespace page,https://github.com/temporalio/ui/pull/2806,2025-07-07T17:56:54Z,2025-07-08T15:26:24Z,1,3,MERGED
+ui,Fix bug: image doesn't switch modes on table empty state,https://github.com/temporalio/ui/pull/2801,2025-07-01T19:11:26Z,2025-07-17T15:23:18Z,9,14,CLOSED
+ui,Small UI fixes and improvements,https://github.com/temporalio/ui/pull/2885,2025-08-29T18:34:55Z,2025-09-03T16:44:50Z,12,9,MERGED
+ui,Show running workflow link,https://github.com/temporalio/ui/pull/2883,2025-08-28T04:50:28Z,2025-09-02T20:00:09Z,3,4,MERGED
+ui,DT-3205 - add a slot for additional actions in the header of the workflow list page,https://github.com/temporalio/ui/pull/2882,2025-08-27T15:39:50Z,2025-08-27T17:26:50Z,1,3,MERGED
+ui,Remove subtle text,https://github.com/temporalio/ui/pull/2881,2025-08-26T20:12:05Z,2025-08-26T20:50:30Z,1,3,MERGED
+ui,feat(combobox): add ghost variant and clickable chevron,https://github.com/temporalio/ui/pull/2880,2025-08-25T18:54:35Z,2025-08-27T20:15:48Z,5,6,MERGED
+ui,Use Alert for schedule error,https://github.com/temporalio/ui/pull/2877,2025-08-22T17:12:47Z,2025-08-22T17:19:37Z,1,1,MERGED
+ui,Check if call stack is string before rendering in code-block,https://github.com/temporalio/ui/pull/2871,2025-08-20T13:14:33Z,2025-08-20T13:21:51Z,1,1,MERGED
+ui,DT-3233 - add more language support to codeblock,https://github.com/temporalio/ui/pull/2868,2025-08-19T17:10:49Z,2025-08-26T19:43:55Z,5,5,MERGED
+ui,Update Temporal loading logo,https://github.com/temporalio/ui/pull/2862,2025-08-14T16:08:49Z,2025-08-15T13:51:33Z,2,4,MERGED
+ui,fix start workflow page with null in search attribute,https://github.com/temporalio/ui/pull/2853,2025-08-11T11:08:03Z,2025-08-12T13:37:53Z,4,1,MERGED
+ui,Make workflow actions more discoverable,https://github.com/temporalio/ui/pull/2849,2025-08-07T15:51:32Z,2025-08-08T21:09:48Z,2,4,MERGED
+ui,Add local activity to timeline,https://github.com/temporalio/ui/pull/2848,2025-08-06T22:26:38Z,2025-08-28T17:48:47Z,7,15,MERGED
+ui,Add workflowDetailsAddition snippet support to workflow header,https://github.com/temporalio/ui/pull/2845,2025-08-05T15:14:32Z,2025-08-18T02:11:32Z,2,4,CLOSED
+ui,Saved Workflow Query Views,https://github.com/temporalio/ui/pull/2931,2025-09-29T19:49:43Z,2025-10-08T13:23:30Z,12,127,MERGED
+ui,feat(holocene): add VerticalNav component,https://github.com/temporalio/ui/pull/2924,2025-09-24T16:04:06Z,2025-09-24T19:43:06Z,1,5,MERGED
+ui,Start Delay UI improvements,https://github.com/temporalio/ui/pull/2907,2025-09-12T22:59:35Z,2025-09-17T20:24:25Z,2,10,MERGED
+ui,Show timezone set in Schedule spec in form,https://github.com/temporalio/ui/pull/2904,2025-09-11T23:11:50Z,2025-09-12T13:52:03Z,1,1,MERGED
+ui,Show Workflow and Activity Priority and Fairness in UI,https://github.com/temporalio/ui/pull/2900,2025-09-10T18:12:11Z,2025-09-11T22:24:25Z,1,5,MERGED
+ui,[DT-3285] add switch icon,https://github.com/temporalio/ui/pull/2895,2025-09-05T21:12:14Z,2025-09-19T17:52:52Z,1,1,MERGED
+ui,"Tab cleanup, toggle button icons, padding consistency",https://github.com/temporalio/ui/pull/2894,2025-09-05T17:29:09Z,2025-09-05T17:53:42Z,2,4,MERGED
+ui,Add animation transitions and combobox option styling support,https://github.com/temporalio/ui/pull/2893,2025-09-05T15:32:50Z,2025-09-05T16:31:10Z,2,4,MERGED
+ui,update line height and text color,https://github.com/temporalio/ui/pull/2889,2025-09-03T16:08:43Z,2025-09-03T16:52:33Z,1,1,MERGED

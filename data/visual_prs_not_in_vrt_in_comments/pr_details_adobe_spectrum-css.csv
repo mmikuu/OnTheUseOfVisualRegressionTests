@@ -1,0 +1,499 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+spectrum-css,updated to DNA 5.4.0,https://github.com/adobe/spectrum-css/pull/28,2018-11-26T18:40:23Z,2018-11-29T18:47:39Z,1,1,MERGED
+spectrum-css,⚡️ #6: improve scroll performance a teeny bit,https://github.com/adobe/spectrum-css/pull/24,2018-11-20T22:13:38Z,2018-11-26T17:43:10Z,0,1,MERGED
+spectrum-css,Tabs Overflow Example,https://github.com/adobe/spectrum-css/pull/59,2018-12-14T16:49:39Z,2018-12-17T17:32:11Z,4,4,MERGED
+spectrum-css,✨ RSP-631 InputGroup: add Datepicker range variant,https://github.com/adobe/spectrum-css/pull/53,2018-12-12T23:07:09Z,2019-03-18T18:07:50Z,17,9,MERGED
+spectrum-css,📝 use code tags instead of p tags for code typography example in docs,https://github.com/adobe/spectrum-css/pull/51,2018-12-12T19:41:31Z,2018-12-12T19:43:50Z,0,1,MERGED
+spectrum-css,"Fix circle loader rtl layout issue, fixes #46",https://github.com/adobe/spectrum-css/pull/48,2018-12-11T19:09:34Z,2018-12-11T20:03:23Z,0,1,MERGED
+spectrum-css,[IE11] fix dropdown and menu width,https://github.com/adobe/spectrum-css/pull/73,2019-01-16T19:28:32Z,2019-01-17T17:48:09Z,4,1,MERGED
+spectrum-css,"Fix Toast layout in IE11, fixes #64",https://github.com/adobe/spectrum-css/pull/65,2019-01-07T17:56:23Z,2019-01-07T20:57:16Z,0,1,MERGED
+spectrum-css,"Allow Accordion item titles to wrap, fixes #97",https://github.com/adobe/spectrum-css/pull/104,2019-02-25T20:10:40Z,2019-02-28T17:56:15Z,2,4,MERGED
+spectrum-css,"Use flexbox to position Calendar day of week headings, fixes #99",https://github.com/adobe/spectrum-css/pull/103,2019-02-25T19:33:57Z,2019-02-27T20:07:51Z,0,1,MERGED
+spectrum-css,"Update Rating implementation, Update to DNA 5.9.0",https://github.com/adobe/spectrum-css/pull/94,2019-02-01T21:11:47Z,2019-02-27T20:32:45Z,1,2,MERGED
+spectrum-css, 🐛 disable hover highlight for table header,https://github.com/adobe/spectrum-css/pull/126,2019-03-25T23:08:26Z,2019-04-26T19:52:20Z,2,1,CLOSED
+spectrum-css,WIP: Remove checkbox right margin,https://github.com/adobe/spectrum-css/pull/125,2019-03-19T21:56:48Z,2020-08-31T17:25:24Z,1,1,CLOSED
+spectrum-css,"Fix Dropdown label truncation when text too long, fixes #121",https://github.com/adobe/spectrum-css/pull/122,2019-03-15T00:45:52Z,2019-04-15T17:10:45Z,0,1,MERGED
+spectrum-css,Action Bar and Table with Action Bar,https://github.com/adobe/spectrum-css/pull/118,2019-03-12T20:02:39Z,2019-05-14T17:48:45Z,11,21,MERGED
+spectrum-css,Simplified fill slider with offset,https://github.com/adobe/spectrum-css/pull/116,2019-03-08T02:56:55Z,2019-03-12T20:19:37Z,1,7,MERGED
+spectrum-css,🐛 disable focus ring for td when content inside of td is being focused,https://github.com/adobe/spectrum-css/pull/130,2019-04-10T18:57:40Z,2019-04-25T21:24:22Z,2,2,MERGED
+spectrum-css,Issue117: Fix show markup in toast documentation,https://github.com/adobe/spectrum-css/pull/129,2019-04-08T16:25:22Z,2019-04-15T17:07:33Z,1,1,CLOSED
+spectrum-css,"Separate out Typography examples, speed up docs, and be pretty about it",https://github.com/adobe/spectrum-css/pull/175,2019-05-22T18:01:40Z,2019-05-24T17:17:29Z,0,7,MERGED
+spectrum-css,Breadcrumbs,https://github.com/adobe/spectrum-css/pull/162,2019-05-13T17:06:37Z,2019-05-15T19:21:15Z,2,16,MERGED
+spectrum-css,Fix Button label display for i18n,https://github.com/adobe/spectrum-css/pull/154,2019-05-09T17:39:39Z,2019-05-14T15:59:29Z,1,1,MERGED
+spectrum-css,Fix #147 Replace gulp-sass with gulp-dart-sass and upgrade browser-sync to 2.26.5,https://github.com/adobe/spectrum-css/pull/148,2019-05-07T18:33:20Z,2019-05-07T22:43:36Z,2,3,MERGED
+spectrum-css,"WIP: Halo focus: button, switch, radio, checkbox",https://github.com/adobe/spectrum-css/pull/211,2019-06-25T18:26:20Z,2020-03-03T19:22:11Z,6,6,CLOSED
+spectrum-css,Vertical Rule,https://github.com/adobe/spectrum-css/pull/201,2019-06-06T15:31:24Z,2019-06-06T22:29:07Z,3,5,MERGED
+spectrum-css,Form: labelsAbove,https://github.com/adobe/spectrum-css/pull/200,2019-06-06T15:21:32Z,2019-06-06T21:46:56Z,1,2,MERGED
+spectrum-css,Fix vertical alignment of Button text,https://github.com/adobe/spectrum-css/pull/197,2019-06-04T16:32:26Z,2019-06-05T17:05:29Z,1,1,MERGED
+spectrum-css,updated typography docs to show current Subheading and Detail,https://github.com/adobe/spectrum-css/pull/267,2019-08-28T15:12:04Z,2019-10-01T19:14:13Z,4,4,MERGED
+spectrum-css,Use adobe opensource workflow icons and fix #60,https://github.com/adobe/spectrum-css/pull/261,2019-08-23T20:51:34Z,2019-08-27T17:23:27Z,6,4,CLOSED
+spectrum-css,"docs: don't include unfinished pages, update homepage copy",https://github.com/adobe/spectrum-css/pull/293,2019-09-25T04:10:51Z,2019-09-25T16:45:17Z,1,1,CLOSED
+spectrum-css,docs: make issue report template fields for environment bold,https://github.com/adobe/spectrum-css/pull/291,2019-09-24T17:55:50Z,2019-09-26T00:05:56Z,0,1,MERGED
+spectrum-css,Temporary site design update for 2.14 release,https://github.com/adobe/spectrum-css/pull/285,2019-09-20T01:24:28Z,2019-09-26T22:44:54Z,3,31,MERGED
+spectrum-css,Conventional Commits & Changelogs,https://github.com/adobe/spectrum-css/pull/279,2019-09-16T15:41:56Z,2019-09-19T00:40:55Z,7,32,MERGED
+spectrum-css,"fix: SDS-2298 add correct placeholder opacity for textfields, closes #275",https://github.com/adobe/spectrum-css/pull/277,2019-09-12T23:02:34Z,2019-09-16T19:42:18Z,1,1,MERGED
+spectrum-css,fix: removing section margin and fixing responsive image (SDS-3250),https://github.com/adobe/spectrum-css/pull/380,2019-10-31T23:19:22Z,2019-11-01T16:33:18Z,0,1,MERGED
+spectrum-css,fix: opening View Guielines link in new window (SDS-3251),https://github.com/adobe/spectrum-css/pull/378,2019-10-31T21:46:38Z,2019-11-01T16:34:53Z,0,1,MERGED
+spectrum-css,"docs: add Rating enhancement to show focus, closes #249",https://github.com/adobe/spectrum-css/pull/373,2019-10-30T22:02:20Z,2019-11-06T19:16:53Z,4,1,MERGED
+spectrum-css,docs(readme): fix broken url workflow icons,https://github.com/adobe/spectrum-css/pull/371,2019-10-30T20:26:57Z,2019-10-31T17:38:40Z,3,1,MERGED
+spectrum-css,Fix Github to GitHub,https://github.com/adobe/spectrum-css/pull/369,2019-10-30T05:16:54Z,2019-10-30T14:54:33Z,1,1,MERGED
+spectrum-css,docs: fix dev site Dropdown enhancements in IE 11,https://github.com/adobe/spectrum-css/pull/365,2019-10-28T19:53:06Z,2019-10-28T19:55:16Z,0,1,MERGED
+spectrum-css,docs: fix dialog presentation on docs page,https://github.com/adobe/spectrum-css/pull/361,2019-10-23T20:25:22Z,2019-10-23T20:28:39Z,1,1,MERGED
+spectrum-css,"fix: revert Checkbox/Radio/Switch color change, fixes #355",https://github.com/adobe/spectrum-css/pull/356,2019-10-22T19:10:43Z,2019-10-23T21:50:52Z,2,1,MERGED
+spectrum-css,docs: fix switcher wrapping on small screens,https://github.com/adobe/spectrum-css/pull/352,2019-10-22T16:49:57Z,2019-10-23T19:50:50Z,0,1,MERGED
+spectrum-css,docs: fix detail table styling,https://github.com/adobe/spectrum-css/pull/350,2019-10-21T22:42:21Z,2019-11-01T18:04:51Z,1,1,MERGED
+spectrum-css,Add menu icon class,https://github.com/adobe/spectrum-css/pull/331,2019-10-14T20:45:02Z,2019-10-29T20:46:09Z,3,3,MERGED
+spectrum-css,Rating - Adds container around icons for visible keyboard focus,https://github.com/adobe/spectrum-css/pull/324,2019-10-11T21:52:42Z,2019-10-30T21:31:29Z,4,4,CLOSED
+spectrum-css,test: increase misMatchThreshold to 0.11 for typography and typography-international testing scenarios,https://github.com/adobe/spectrum-css/pull/321,2019-10-09T03:16:50Z,2019-10-09T17:31:29Z,0,3,MERGED
+spectrum-css,docs: update Adobe logo,https://github.com/adobe/spectrum-css/pull/317,2019-10-07T18:48:59Z,2019-10-08T00:21:04Z,2,3,MERGED
+spectrum-css,"fix: fix Calendar title wrapping/alignment, related to #269",https://github.com/adobe/spectrum-css/pull/315,2019-10-07T18:22:58Z,2019-10-08T00:20:25Z,4,4,MERGED
+spectrum-css,Added flex-wrap: wrap to FieldGroup,https://github.com/adobe/spectrum-css/pull/307,2019-10-03T05:53:58Z,2019-10-07T17:27:44Z,1,1,MERGED
+spectrum-css,SDS-2622 adding CSS UI icons to NextJS CSS instance,https://github.com/adobe/spectrum-css/pull/303,2019-10-02T03:38:24Z,2019-10-10T01:08:44Z,3,22,CLOSED
+spectrum-css,chore: refactor Calendar header to use flexbox per issue #269,https://github.com/adobe/spectrum-css/pull/300,2019-10-01T15:36:52Z,2019-10-02T17:44:19Z,8,2,MERGED
+spectrum-css,Fix button height in flex container,https://github.com/adobe/spectrum-css/pull/415,2019-11-22T18:03:41Z,2019-12-10T21:12:33Z,5,2,CLOSED
+spectrum-css,docs: update DNA token update documentation (SDS-4424) #388,https://github.com/adobe/spectrum-css/pull/414,2019-11-22T05:07:14Z,2019-12-02T21:15:36Z,0,1,MERGED
+spectrum-css,"fix: top margin for switch, checkbox & radio button",https://github.com/adobe/spectrum-css/pull/412,2019-11-21T07:40:54Z,2019-12-11T22:03:50Z,9,5,MERGED
+spectrum-css,feat: adding t-shirt sized typography (SDS-2513) #210,https://github.com/adobe/spectrum-css/pull/408,2019-11-15T21:16:18Z,2020-02-07T20:31:02Z,49,24,MERGED
+spectrum-css,"fix: do not convert non-opacity percent values to floats, fixes #395",https://github.com/adobe/spectrum-css/pull/396,2019-11-08T00:16:35Z,2019-11-08T00:59:23Z,2,1,MERGED
+spectrum-css,"fix: correct positioning of children of wrapped Dialogs, closes #389",https://github.com/adobe/spectrum-css/pull/393,2019-11-07T21:48:16Z,2019-11-07T21:58:52Z,0,1,MERGED
+spectrum-css,docs: max the headroom for the headings,https://github.com/adobe/spectrum-css/pull/384,2019-11-01T22:38:56Z,2019-11-01T22:39:58Z,0,1,MERGED
+spectrum-css,fix: normalizing sidebar search input field for Combobox site (SDS-3248),https://github.com/adobe/spectrum-css/pull/382,2019-11-01T19:25:54Z,2019-11-01T19:34:52Z,0,1,MERGED
+spectrum-css,"fix: aligning labels #406, #402, #403, #426",https://github.com/adobe/spectrum-css/pull/458,2019-12-19T13:10:55Z,2020-01-06T20:12:57Z,5,1,MERGED
+spectrum-css,fix: wrapping on long words indropdowns (SDS-4649) #451,https://github.com/adobe/spectrum-css/pull/452,2019-12-13T22:33:03Z,2019-12-13T22:34:56Z,2,1,MERGED
+spectrum-css,"fix: make quiet Text area 1 line tall by default, fixes #442",https://github.com/adobe/spectrum-css/pull/447,2019-12-12T18:36:17Z,2019-12-12T21:47:00Z,0,1,MERGED
+spectrum-css,"fix: disable resize functionality when disabled, fixes #443",https://github.com/adobe/spectrum-css/pull/446,2019-12-12T18:10:50Z,2019-12-12T21:46:28Z,0,1,MERGED
+spectrum-css,"fix: use endash for Date range picker, fixes #440",https://github.com/adobe/spectrum-css/pull/441,2019-12-10T22:49:42Z,2019-12-10T23:42:42Z,0,1,MERGED
+spectrum-css,"fix: text wrapping in Meter/BarLoader, fixes #420",https://github.com/adobe/spectrum-css/pull/437,2019-12-10T21:49:42Z,2019-12-10T22:27:56Z,2,1,MERGED
+spectrum-css,"fix: vertical alignment of Status Light text, fixes #426",https://github.com/adobe/spectrum-css/pull/436,2019-12-10T21:18:46Z,2019-12-11T22:15:09Z,2,2,MERGED
+spectrum-css,"fix: implement local tokens for Well, fixes #422",https://github.com/adobe/spectrum-css/pull/432,2019-12-10T17:07:19Z,2019-12-11T22:09:22Z,0,1,MERGED
+spectrum-css,"fix: fix button width in InputGroup, fix DatePicker example, fixes #399",https://github.com/adobe/spectrum-css/pull/431,2019-12-09T23:17:57Z,2019-12-11T19:30:23Z,0,1,MERGED
+spectrum-css,docs: restore wrapping/truncation studies,https://github.com/adobe/spectrum-css/pull/421,2019-12-02T22:14:04Z,2019-12-10T19:50:40Z,3,2,MERGED
+spectrum-css,fix: [Accessibility] StatusLight dot disappears in High Contrast Mode,https://github.com/adobe/spectrum-css/pull/509,2020-01-30T00:12:35Z,2020-02-05T17:47:50Z,2,1,MERGED
+spectrum-css,fix: adding letter spacing for calendar title (SDS-4421) #407,https://github.com/adobe/spectrum-css/pull/500,2020-01-25T02:25:23Z,2020-02-05T17:25:24Z,9,1,MERGED
+spectrum-css,"fix: alignment of icon in DecoratedTextfield and Textfield, closes #494",https://github.com/adobe/spectrum-css/pull/499,2020-01-24T23:34:32Z,2020-02-03T23:01:46Z,5,1,MERGED
+spectrum-css,fix: Textarea/Textfield alignment,https://github.com/adobe/spectrum-css/pull/490,2020-01-21T20:54:07Z,2020-01-23T03:30:32Z,11,3,MERGED
+spectrum-css,docs: remove success popover example,https://github.com/adobe/spectrum-css/pull/488,2020-01-21T19:19:17Z,2020-01-21T22:25:50Z,1,1,MERGED
+spectrum-css,fix: be explicit about Treeview group indicator box model,https://github.com/adobe/spectrum-css/pull/487,2020-01-21T19:18:07Z,2020-01-21T19:49:14Z,1,1,MERGED
+spectrum-css,fix: large Quiet Dropdown when using multistops,https://github.com/adobe/spectrum-css/pull/486,2020-01-21T19:08:17Z,2020-01-21T21:06:47Z,0,2,MERGED
+spectrum-css,fix: order of psuedo selectors search ,https://github.com/adobe/spectrum-css/pull/483,2020-01-17T23:21:54Z,2020-01-23T18:32:54Z,3,1,MERGED
+spectrum-css,fix: adding overflow-wrap to dropdown #451,https://github.com/adobe/spectrum-css/pull/482,2020-01-17T22:38:59Z,2020-01-23T01:47:30Z,7,6,MERGED
+spectrum-css,fix: vertical rule doesn't render,https://github.com/adobe/spectrum-css/pull/476,2020-01-14T00:43:58Z,2020-01-22T18:39:53Z,14,4,MERGED
+spectrum-css,feat: add Treeview heading (via RSP V3),https://github.com/adobe/spectrum-css/pull/601,2020-02-28T00:48:39Z,2020-03-31T17:54:36Z,13,6,MERGED
+spectrum-css,test: public accessible vr result,https://github.com/adobe/spectrum-css/pull/600,2020-02-26T15:56:00Z,2020-03-02T22:56:09Z,5,5,MERGED
+spectrum-css,feat: Refactor Textfield to be a container with separate icon and input,https://github.com/adobe/spectrum-css/pull/537,2020-02-18T17:52:49Z,2020-03-04T20:28:54Z,3,24,MERGED
+spectrum-css,feat: RTL Support,https://github.com/adobe/spectrum-css/pull/532,2020-02-14T00:16:49Z,2020-03-09T16:13:20Z,14,75,MERGED
+spectrum-css,Typography migration guide,https://github.com/adobe/spectrum-css/pull/526,2020-02-07T20:41:05Z,2020-02-10T17:41:30Z,8,13,MERGED
+spectrum-css,Typography metadata fixes and deprecation bits,https://github.com/adobe/spectrum-css/pull/523,2020-02-06T20:26:09Z,2020-02-07T00:59:01Z,17,7,MERGED
+spectrum-css,Issuse/492 icon in dialog fixed #492 and #464,https://github.com/adobe/spectrum-css/pull/520,2020-02-04T20:02:04Z,2020-02-05T21:12:13Z,6,12,MERGED
+spectrum-css,docs: bring in main site content to dev site,https://github.com/adobe/spectrum-css/pull/646,2020-03-16T17:57:13Z,2020-06-16T17:51:15Z,26,24,MERGED
+spectrum-css,fix: make SearchWithin use new Textfield markup,https://github.com/adobe/spectrum-css/pull/645,2020-03-16T17:48:26Z,2020-04-02T17:14:27Z,5,3,MERGED
+spectrum-css,fix: fix the broken examples introduced by textfield refactor,https://github.com/adobe/spectrum-css/pull/642,2020-03-13T01:48:23Z,2020-04-06T22:30:49Z,7,3,MERGED
+spectrum-css,feat: tags change from RSP@v3,https://github.com/adobe/spectrum-css/pull/639,2020-03-12T15:41:32Z,2020-08-31T19:36:35Z,16,13,MERGED
+spectrum-css,feat: Refactor Textfield to be a container with separate icon and input,https://github.com/adobe/spectrum-css/pull/615,2020-03-04T20:43:21Z,2020-03-12T22:45:29Z,16,7,MERGED
+spectrum-css,feat: RSP V3 Dialog,https://github.com/adobe/spectrum-css/pull/710,2020-04-29T17:36:24Z,2020-07-28T23:03:06Z,19,18,MERGED
+spectrum-css,feat: Color Handle/Slider/Area/Wheel,https://github.com/adobe/spectrum-css/pull/673,2020-04-13T21:59:23Z,2020-05-13T20:58:47Z,24,29,MERGED
+spectrum-css,"feat: fix tabs markup, support anchors for labels",https://github.com/adobe/spectrum-css/pull/672,2020-04-13T20:09:08Z,2020-04-23T15:41:12Z,5,3,MERGED
+spectrum-css,Fix anti-aliasing issue on FF,https://github.com/adobe/spectrum-css/pull/742,2020-05-28T01:13:45Z,2020-05-28T17:50:36Z,0,1,MERGED
+spectrum-css,Quiet radio keyboard focus uses the wrong color,https://github.com/adobe/spectrum-css/pull/738,2020-05-23T00:35:48Z,2022-11-11T21:10:47Z,4,3,CLOSED
+spectrum-css,"fix: correct OverBackground ClearButton focus-ring, fixes #730",https://github.com/adobe/spectrum-css/pull/733,2020-05-19T18:14:05Z,2020-05-19T20:21:40Z,1,1,MERGED
+spectrum-css,"fix: correct focus ring for SplitButton, fixes #731",https://github.com/adobe/spectrum-css/pull/732,2020-05-19T18:04:08Z,2020-05-27T15:23:19Z,5,3,MERGED
+spectrum-css,fix: actionButton focus-ring active state visual,https://github.com/adobe/spectrum-css/pull/759,2020-06-19T19:29:53Z,2020-07-30T21:08:13Z,0,1,MERGED
+spectrum-css,fix: actiongroup wrapping,https://github.com/adobe/spectrum-css/pull/758,2020-06-19T18:05:39Z,2020-07-31T04:31:15Z,1,1,CLOSED
+spectrum-css,fix: actionButton focus-ring active state visual issue #755,https://github.com/adobe/spectrum-css/pull/777,2020-07-29T22:00:12Z,2020-07-30T21:07:38Z,1,1,MERGED
+spectrum-css,"fix: actiongroup wrapping, fixes #749",https://github.com/adobe/spectrum-css/pull/775,2020-07-28T23:53:35Z,2020-07-31T04:30:22Z,3,1,MERGED
+spectrum-css,VRT Update,https://github.com/adobe/spectrum-css/pull/769,2020-07-16T00:33:56Z,2020-07-23T00:58:27Z,23,31,MERGED
+spectrum-css,Spectrum tokens 17 dial,https://github.com/adobe/spectrum-css/pull/879,2020-08-31T18:51:18Z,2020-09-08T18:19:14Z,2,4,MERGED
+spectrum-css,fix: allow high contrast mode for checkboxes,https://github.com/adobe/spectrum-css/pull/791,2020-08-13T23:51:45Z,2020-08-31T20:52:17Z,1,1,MERGED
+spectrum-css,"Action Button t-shirt sizing, separate component",https://github.com/adobe/spectrum-css/pull/1030,2020-09-29T19:56:26Z,2020-10-07T17:34:36Z,49,29,MERGED
+spectrum-css,Slider: add side label variant,https://github.com/adobe/spectrum-css/pull/1006,2020-09-28T09:42:28Z,2023-01-12T15:34:04Z,1,1,CLOSED
+spectrum-css,test: Exclude animation scenario for progresscircle,https://github.com/adobe/spectrum-css/pull/1001,2020-09-25T15:36:53Z,2020-10-20T23:05:49Z,1,1,MERGED
+spectrum-css,Slider: remove cursor: pointer and reenable active style,https://github.com/adobe/spectrum-css/pull/967,2020-09-23T09:06:23Z,2020-09-30T18:29:56Z,4,3,MERGED
+spectrum-css,Spectrum tokens 17 - Tooltip,https://github.com/adobe/spectrum-css/pull/929,2020-09-21T19:06:02Z,2020-09-21T22:18:54Z,2,1,MERGED
+spectrum-css,fix: ramp slider (#829),https://github.com/adobe/spectrum-css/pull/923,2020-09-17T19:39:06Z,2020-09-22T20:58:26Z,7,2,MERGED
+spectrum-css,fix: ramp slider (#829),https://github.com/adobe/spectrum-css/pull/922,2020-09-17T19:32:22Z,2020-09-17T19:44:13Z,3,1,CLOSED
+spectrum-css,Spectrum tokens 17 tabs,https://github.com/adobe/spectrum-css/pull/921,2020-09-16T20:41:33Z,2020-09-17T17:53:20Z,1,2,MERGED
+spectrum-css,Spectrum Tokens 17 Dropzone & IllustratedMessage,https://github.com/adobe/spectrum-css/pull/914,2020-09-15T17:10:24Z,2020-09-16T18:30:37Z,2,2,MERGED
+spectrum-css,Spectrum Tokens 17 Divider,https://github.com/adobe/spectrum-css/pull/910,2020-09-15T16:15:24Z,2020-09-15T16:50:37Z,1,4,MERGED
+spectrum-css,Spectrum tokens 17 Checkbox,https://github.com/adobe/spectrum-css/pull/908,2020-09-15T15:48:39Z,2020-09-16T18:58:18Z,1,2,MERGED
+spectrum-css,Spectrum tokens 17 avatar,https://github.com/adobe/spectrum-css/pull/904,2020-09-11T16:45:19Z,2020-09-15T16:53:11Z,3,5,MERGED
+spectrum-css,Spectrum tokens 17 - Pagination,https://github.com/adobe/spectrum-css/pull/903,2020-09-10T21:16:26Z,2020-09-21T22:29:22Z,4,2,MERGED
+spectrum-css,Spectrum tokens 17 card,https://github.com/adobe/spectrum-css/pull/902,2020-09-10T16:46:01Z,2020-09-16T18:32:27Z,7,6,MERGED
+spectrum-css,"fix: Checkbox and Radio margins, docs, and typography",https://github.com/adobe/spectrum-css/pull/897,2020-09-09T17:49:26Z,2020-09-22T21:15:42Z,8,11,MERGED
+spectrum-css,Fix side nav item with long text cutting off icon,https://github.com/adobe/spectrum-css/pull/896,2020-09-08T21:36:13Z,2020-09-23T18:07:20Z,2,1,MERGED
+spectrum-css,Spectrum tokens 17 for calendar,https://github.com/adobe/spectrum-css/pull/893,2020-09-04T23:12:46Z,2020-09-08T22:50:18Z,0,1,MERGED
+spectrum-css,Spectrum tokens 17 for Action Bar,https://github.com/adobe/spectrum-css/pull/888,2020-09-02T21:20:22Z,2020-09-08T18:09:45Z,4,4,MERGED
+spectrum-css,Spectrum tokens 17 accordion,https://github.com/adobe/spectrum-css/pull/886,2020-09-02T17:52:51Z,2020-09-08T22:52:58Z,3,3,MERGED
+spectrum-css,feat: Checkbox/Radio emphasized variant,https://github.com/adobe/spectrum-css/pull/1057,2020-10-19T19:21:08Z,2020-10-19T21:56:57Z,3,1,MERGED
+spectrum-css,fix: #1045 chevron icon in picker got squeezed,https://github.com/adobe/spectrum-css/pull/1056,2020-10-15T20:46:49Z,2020-10-20T00:47:01Z,6,1,MERGED
+spectrum-css,fix(fieldgroup): support content direction sensitive horizontal spacing,https://github.com/adobe/spectrum-css/pull/1055,2020-10-15T19:54:33Z,2020-10-21T20:44:49Z,3,2,MERGED
+spectrum-css,feat: t-shirt sizing for Button,https://github.com/adobe/spectrum-css/pull/1053,2020-10-14T21:04:00Z,2020-10-20T17:43:53Z,15,12,MERGED
+spectrum-css,fix(calendar): .is-today.is-focused should have blue focus ring #1051,https://github.com/adobe/spectrum-css/pull/1052,2020-10-14T16:38:26Z,2020-10-15T18:59:40Z,3,1,MERGED
+spectrum-css,fix(actionbar): ensure Poppover padding is managed for content direction,https://github.com/adobe/spectrum-css/pull/1049,2020-10-08T19:58:06Z,2020-10-14T21:38:28Z,2,1,MERGED
+spectrum-css,"fix(accordion): simplify header sizing, remove unmanaged custom property",https://github.com/adobe/spectrum-css/pull/1048,2020-10-08T19:56:40Z,2020-11-12T02:24:33Z,10,1,MERGED
+spectrum-css,fix(actionbar): ensure Poppover padding is managed for content direction,https://github.com/adobe/spectrum-css/pull/1043,2020-10-07T12:57:05Z,2020-10-08T19:59:09Z,7,1,CLOSED
+spectrum-css,"fix(accordion): simplify header sizing, remove unmanaged custom property",https://github.com/adobe/spectrum-css/pull/1041,2020-10-06T21:40:47Z,2020-10-08T19:58:47Z,2,1,CLOSED
+spectrum-css,fix: add a border to dialogs in high contrast mode,https://github.com/adobe/spectrum-css/pull/1040,2020-10-05T22:38:22Z,2020-10-20T22:47:44Z,0,1,MERGED
+spectrum-css,fix: support high contrast mode in color components,https://github.com/adobe/spectrum-css/pull/1038,2020-10-05T20:53:31Z,2020-10-20T22:48:51Z,0,1,MERGED
+spectrum-css,ColorLoupe: add checkerboard background,https://github.com/adobe/spectrum-css/pull/1034,2020-10-05T10:15:45Z,2022-03-17T21:11:04Z,3,1,CLOSED
+spectrum-css,fix: high contrast support for actionbutton,https://github.com/adobe/spectrum-css/pull/1076,2020-11-18T06:13:39Z,2021-04-22T00:23:05Z,1,12,CLOSED
+spectrum-css,fix: add border to toast and tooltip in WHCM,https://github.com/adobe/spectrum-css/pull/1074,2020-11-18T05:52:09Z,2022-11-11T19:07:37Z,1,1,CLOSED
+spectrum-css,Text field whcm,https://github.com/adobe/spectrum-css/pull/1072,2020-11-18T05:18:51Z,2022-11-11T19:02:18Z,1,2,CLOSED
+spectrum-css,High contrast radio fixes,https://github.com/adobe/spectrum-css/pull/1122,2021-01-30T02:27:01Z,2021-04-21T23:32:06Z,1,7,CLOSED
+spectrum-css,High contrast button support,https://github.com/adobe/spectrum-css/pull/1120,2021-01-30T00:15:07Z,2021-04-21T23:59:31Z,3,8,CLOSED
+spectrum-css,fix: refine checkboxes for spectrum's High Contrast mode,https://github.com/adobe/spectrum-css/pull/1118,2021-01-29T23:53:19Z,2021-04-22T00:02:47Z,0,3,MERGED
+spectrum-css,High contrast icons,https://github.com/adobe/spectrum-css/pull/1116,2021-01-29T19:19:31Z,2021-04-22T00:12:04Z,1,5,CLOSED
+spectrum-css,fix: truncation picker and tabs examples,https://github.com/adobe/spectrum-css/pull/1135,2021-02-17T23:48:23Z,2022-11-11T21:11:57Z,3,1,CLOSED
+spectrum-css,High contrast links,https://github.com/adobe/spectrum-css/pull/1126,2021-02-01T23:29:22Z,2021-04-21T22:27:14Z,4,10,CLOSED
+spectrum-css,"fix(#1123): placeholder text color alias for search, textarea, textfield",https://github.com/adobe/spectrum-css/pull/1124,2021-02-01T20:21:06Z,2021-02-25T16:09:04Z,3,1,MERGED
+spectrum-css,"fix: slider thumb inner background issue, fixes #1133",https://github.com/adobe/spectrum-css/pull/1154,2021-03-17T17:30:57Z,2023-01-12T14:53:10Z,7,1,CLOSED
+spectrum-css,Range slider #1005,https://github.com/adobe/spectrum-css/pull/1153,2021-03-17T00:58:26Z,2023-01-10T20:54:33Z,4,2,CLOSED
+spectrum-css,"fix: table row dropzone shows extra blue, fix #225",https://github.com/adobe/spectrum-css/pull/1151,2021-03-03T21:26:27Z,2021-03-03T22:46:12Z,2,1,MERGED
+spectrum-css,Adds Windows High contast mode support for tabs,https://github.com/adobe/spectrum-css/pull/1176,2021-04-29T23:58:48Z,2021-11-10T23:25:10Z,2,1,CLOSED
+spectrum-css,Refactor: switched splitbutton to t-shirt button tokens,https://github.com/adobe/spectrum-css/pull/1166,2021-04-14T23:06:31Z,2021-04-14T23:35:20Z,2,1,MERGED
+spectrum-css,Dna 7.0 beta checkbox,https://github.com/adobe/spectrum-css/pull/1194,2021-05-19T18:22:38Z,2021-05-19T18:33:56Z,2,4,MERGED
+spectrum-css,fix(slider): ensure margin-block is correct for range variant,https://github.com/adobe/spectrum-css/pull/1206,2021-06-11T10:10:57Z,2023-01-12T15:36:53Z,4,1,CLOSED
+spectrum-css,fix: mini card broken in docs site,https://github.com/adobe/spectrum-css/pull/1259,2021-08-31T20:32:17Z,2021-09-01T18:07:38Z,5,1,MERGED
+spectrum-css,feat: add ability to toggle between default & express vars,https://github.com/adobe/spectrum-css/pull/1257,2021-08-31T15:14:51Z,2021-09-01T17:32:51Z,3,1,MERGED
+spectrum-css,fix: high contrast mode for actionButton,https://github.com/adobe/spectrum-css/pull/1303,2021-10-27T23:19:13Z,2021-11-08T17:46:37Z,0,1,MERGED
+spectrum-css,"WHCM fixes for button, logicButton, clearButton",https://github.com/adobe/spectrum-css/pull/1302,2021-10-23T00:31:51Z,2021-11-08T17:47:03Z,0,1,MERGED
+spectrum-css,Update tokens aliases,https://github.com/adobe/spectrum-css/pull/1296,2021-10-18T21:27:16Z,2021-10-19T17:27:01Z,0,3,MERGED
+spectrum-css,fix: make tick slider handles align to ticks,https://github.com/adobe/spectrum-css/pull/1289,2021-10-08T17:01:40Z,2023-01-10T21:04:19Z,4,3,CLOSED
+spectrum-css,Express Dialog,https://github.com/adobe/spectrum-css/pull/1333,2021-11-18T18:07:32Z,2022-02-01T00:12:52Z,4,7,MERGED
+spectrum-css,feat(statuslight): use new tokens and update spacing,https://github.com/adobe/spectrum-css/pull/1332,2021-11-18T17:45:24Z,2021-12-06T18:17:31Z,1,4,MERGED
+spectrum-css,feat: ActionButton staticColor,https://github.com/adobe/spectrum-css/pull/1327,2021-11-16T21:28:07Z,2021-12-10T21:00:29Z,7,2,MERGED
+spectrum-css,"fix: add missing classes to Dialog's ActionButton, fixes #1314",https://github.com/adobe/spectrum-css/pull/1320,2021-11-10T05:43:41Z,2021-11-10T23:21:04Z,0,1,MERGED
+spectrum-css,fix: vars switcher issues,https://github.com/adobe/spectrum-css/pull/1319,2021-11-10T05:40:27Z,2021-11-10T18:48:00Z,4,2,MERGED
+spectrum-css,"fix: focus-ring on SideNav, closes #1317",https://github.com/adobe/spectrum-css/pull/1318,2021-11-10T05:33:14Z,2021-11-12T18:51:23Z,0,2,MERGED
+spectrum-css,docs: ensure tables in docs are sized,https://github.com/adobe/spectrum-css/pull/1311,2021-11-08T15:34:40Z,2021-11-08T17:44:21Z,0,1,MERGED
+spectrum-css,feat: add CloseButton,https://github.com/adobe/spectrum-css/pull/1339,2021-12-14T16:48:53Z,2021-12-14T21:12:36Z,3,8,MERGED
+spectrum-css,feat: add InfieldButton component,https://github.com/adobe/spectrum-css/pull/1345,2022-01-10T20:56:24Z,2022-02-07T22:02:45Z,1,3,MERGED
+spectrum-css,"feat: Express ColorLoupe, ColorHandle, ColorSlider",https://github.com/adobe/spectrum-css/pull/1388,2022-02-16T23:33:56Z,2022-02-23T21:26:01Z,2,22,MERGED
+spectrum-css,fix: correct focus-ring on Textarea when resized,https://github.com/adobe/spectrum-css/pull/1384,2022-02-15T18:37:03Z,2022-11-11T21:34:18Z,3,1,CLOSED
+spectrum-css,"fix: correct focus-ring border-radius, fixes #1378",https://github.com/adobe/spectrum-css/pull/1379,2022-02-10T23:22:11Z,2022-02-10T23:24:42Z,1,1,MERGED
+spectrum-css,chore(actiongroup): use gap for express compact horizontal,https://github.com/adobe/spectrum-css/pull/1396,2022-03-01T20:03:35Z,2022-03-03T17:45:44Z,0,3,MERGED
+spectrum-css,feat(helptext)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1447,2022-05-27T20:44:23Z,2022-07-25T21:05:44Z,3,4,MERGED
+spectrum-css,feat(radio)!: Migrate to core tokens (CSS-101),https://github.com/adobe/spectrum-css/pull/1466,2022-06-30T22:19:51Z,2022-07-27T17:53:12Z,13,41,CLOSED
+spectrum-css,feat(checkbox)!: migrate checkbox component to core tokens (CSS-99),https://github.com/adobe/spectrum-css/pull/1465,2022-06-29T23:21:27Z,2022-10-04T17:25:03Z,23,49,MERGED
+spectrum-css,bug: replace fill-available with stretch,https://github.com/adobe/spectrum-css/pull/1449,2022-06-01T12:40:32Z,2022-06-08T17:45:04Z,0,1,MERGED
+spectrum-css,Lunarfusion/css 107 field group core tokens,https://github.com/adobe/spectrum-css/pull/1486,2022-07-28T14:35:00Z,2022-11-10T17:54:40Z,9,22,MERGED
+spectrum-css,feat: adding x-small action-button (CSS-37),https://github.com/adobe/spectrum-css/pull/1481,2022-07-25T20:40:38Z,2022-07-27T20:27:26Z,2,2,MERGED
+spectrum-css,feat(button)!: migrating button to core-tokens (CSS-97),https://github.com/adobe/spectrum-css/pull/1479,2022-07-25T18:36:45Z,2023-01-31T15:24:19Z,28,9,MERGED
+spectrum-css,feat(closebutton)!: migrate closebutton to core tokens (CSS-118),https://github.com/adobe/spectrum-css/pull/1477,2022-07-21T11:47:54Z,2022-08-03T13:55:11Z,3,10,MERGED
+spectrum-css,feat(fieldlabel)!: core-tokens implementation (CSS-102),https://github.com/adobe/spectrum-css/pull/1476,2022-07-13T23:29:23Z,2022-10-11T19:55:26Z,26,22,MERGED
+spectrum-css,refactor(popover)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1509,2022-08-30T15:25:16Z,2022-11-10T18:50:46Z,23,33,MERGED
+spectrum-css,"feat(switch)!: migrating switch to core-tokens (CSS-42, CSS-100)",https://github.com/adobe/spectrum-css/pull/1496,2022-08-10T03:21:46Z,2022-09-16T13:36:27Z,17,9,MERGED
+spectrum-css,feat(statuslight)!: migrate statuslight to core tokens ,https://github.com/adobe/spectrum-css/pull/1495,2022-08-09T22:57:36Z,2022-09-21T19:35:31Z,12,21,MERGED
+spectrum-css,Lunarfusion/css 122 badge migration to core tokens,https://github.com/adobe/spectrum-css/pull/1494,2022-08-08T16:21:42Z,2022-10-25T19:55:01Z,7,14,MERGED
+spectrum-css,"feat(progressbar, meter)!: migrate progressbar to core tokens ",https://github.com/adobe/spectrum-css/pull/1493,2022-08-08T08:26:17Z,2022-11-10T19:59:43Z,23,31,MERGED
+spectrum-css,Lunarfusion/css 116 divider core tokens,https://github.com/adobe/spectrum-css/pull/1490,2022-08-02T14:31:22Z,2022-10-06T18:35:03Z,11,11,MERGED
+spectrum-css,Lunarfusion/css 117 progress circle core tokens,https://github.com/adobe/spectrum-css/pull/1488,2022-08-01T15:09:41Z,2022-10-04T20:06:45Z,11,15,MERGED
+spectrum-css,refactor(tag)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1520,2022-09-20T21:37:11Z,2022-12-08T15:09:13Z,6,52,MERGED
+spectrum-css,refactor(inlinealert)!: migrate core tokens,https://github.com/adobe/spectrum-css/pull/1519,2022-09-13T19:25:41Z,2022-10-12T21:04:29Z,20,17,MERGED
+spectrum-css,refactor(buttongroup)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1514,2022-09-12T13:40:26Z,2022-10-03T21:37:23Z,6,7,MERGED
+spectrum-css,refactor(actionbar)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1512,2022-09-07T18:59:24Z,2022-11-01T14:03:20Z,9,26,MERGED
+spectrum-css,refactor(tray): use spectrum tokens,https://github.com/adobe/spectrum-css/pull/1535,2022-10-24T23:47:09Z,2022-12-09T15:45:21Z,10,10,MERGED
+spectrum-css,Lunarfusion/css 114 migrate tooltip core tokens,https://github.com/adobe/spectrum-css/pull/1533,2022-10-18T18:23:55Z,2022-12-06T14:45:14Z,14,29,MERGED
+spectrum-css,refactor: replace loudness API with quiet for PickerButton and InfieldButton,https://github.com/adobe/spectrum-css/pull/1531,2022-10-18T02:57:07Z,2022-10-25T15:15:10Z,3,10,MERGED
+spectrum-css,Lunarfusion/fix  radio focus,https://github.com/adobe/spectrum-css/pull/1530,2022-10-17T19:53:51Z,2022-10-17T20:58:43Z,1,2,MERGED
+spectrum-css,refactor(picker)!: use spectrum tokens,https://github.com/adobe/spectrum-css/pull/1528,2022-10-12T20:32:05Z,2023-02-06T15:46:12Z,33,49,MERGED
+spectrum-css,fix(checkbox): adjust WHCM focus ring,https://github.com/adobe/spectrum-css/pull/1527,2022-10-12T15:50:41Z,2022-10-12T16:04:23Z,1,1,MERGED
+spectrum-css,feat: minor color token change for accent color (CSS-246),https://github.com/adobe/spectrum-css/pull/1550,2022-11-18T21:04:43Z,2022-11-29T20:04:29Z,2,1,MERGED
+spectrum-css,feat(slider)!: migrating tokens ,https://github.com/adobe/spectrum-css/pull/1547,2022-11-16T05:40:17Z,2023-03-29T16:00:57Z,70,52,CLOSED
+spectrum-css,refactor(textfield): migrate spectrum tokens,https://github.com/adobe/spectrum-css/pull/1544,2022-11-07T19:45:50Z,2023-03-17T14:01:46Z,57,113,MERGED
+spectrum-css,feat: docs updates for Express icons (CSS-241),https://github.com/adobe/spectrum-css/pull/1542,2022-11-03T22:22:31Z,2022-11-07T20:57:14Z,1,1,MERGED
+spectrum-css,refactor(avatar)!: use spectrum tokens,https://github.com/adobe/spectrum-css/pull/1565,2022-12-15T13:22:24Z,2023-02-06T14:58:34Z,20,17,MERGED
+spectrum-css,fix(fieldlabel): add missing color token,https://github.com/adobe/spectrum-css/pull/1563,2022-12-13T18:24:00Z,2022-12-14T15:23:21Z,1,1,MERGED
+spectrum-css,fix(link): correct highcontrast custom properties,https://github.com/adobe/spectrum-css/pull/1562,2022-12-12T21:01:00Z,2022-12-13T21:27:26Z,3,1,MERGED
+spectrum-css,fix(tooltip): update inline padding,https://github.com/adobe/spectrum-css/pull/1561,2022-12-09T19:40:45Z,2022-12-09T22:01:26Z,1,1,MERGED
+spectrum-css,feat: using inline-end for rtl support (CSS-168),https://github.com/adobe/spectrum-css/pull/1560,2022-12-08T18:47:33Z,2022-12-08T19:02:13Z,1,1,MERGED
+spectrum-css,build: fix broken lerna scope,https://github.com/adobe/spectrum-css/pull/1603,2023-01-30T21:31:43Z,2023-01-31T14:33:23Z,2,1,MERGED
+spectrum-css,CSS-294 11ty Configuration Added for new documentation site,https://github.com/adobe/spectrum-css/pull/1595,2023-01-25T10:47:31Z,2023-02-16T23:02:56Z,11,30,CLOSED
+spectrum-css,fix(dialog): adjust padding and margins to avoid focus indicator clip,https://github.com/adobe/spectrum-css/pull/1593,2023-01-23T23:19:47Z,2023-01-30T15:16:13Z,1,1,MERGED
+spectrum-css,CSS-294 Updated Pug Files to NunJucks and Added 11ty Configuration - READY TO MERGE,https://github.com/adobe/spectrum-css/pull/1577,2023-01-10T11:23:29Z,2023-02-07T14:59:26Z,15,1,MERGED
+spectrum-css,chore: component generator [CSS-317],https://github.com/adobe/spectrum-css/pull/1573,2023-01-05T20:26:13Z,2023-01-09T15:27:42Z,8,2,MERGED
+spectrum-css,feat:adds storybook for colorarea and colorhandle,https://github.com/adobe/spectrum-css/pull/1637,2023-02-24T23:39:44Z,2023-02-28T18:24:42Z,13,17,MERGED
+spectrum-css,fix(actionbutton): fix variable used in documentation,https://github.com/adobe/spectrum-css/pull/1630,2023-02-21T21:40:25Z,2023-02-21T22:26:21Z,1,1,MERGED
+spectrum-css,chore: resolve peer dependency errors,https://github.com/adobe/spectrum-css/pull/1626,2023-02-16T22:58:57Z,2023-02-17T19:03:15Z,1,1,MERGED
+spectrum-css,feat(colorarea)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1623,2023-02-14T19:24:21Z,2023-02-28T22:01:47Z,11,6,MERGED
+spectrum-css,CSS-319 - Feature/ build work (MAJOR),https://github.com/adobe/spectrum-css/pull/1620,2023-02-13T12:18:33Z,2023-08-14T15:36:39Z,4,1,CLOSED
+spectrum-css,feat(colorwheel)!: migrate to core tokens,https://github.com/adobe/spectrum-css/pull/1619,2023-02-10T22:39:20Z,2023-03-09T15:04:59Z,30,71,MERGED
+spectrum-css,chore: add support for console output in storybook; suppress autoprefixer,https://github.com/adobe/spectrum-css/pull/1616,2023-02-09T14:52:12Z,2023-02-09T16:20:33Z,2,1,MERGED
+spectrum-css,fix(inlinealert): correct spectrum theme capitalization,https://github.com/adobe/spectrum-css/pull/1615,2023-02-08T15:05:03Z,2023-02-08T15:15:01Z,1,1,MERGED
+spectrum-css,fix: correct RTL issues with SideNav and ActionButton,https://github.com/adobe/spectrum-css/pull/1611,2023-02-03T17:44:41Z,2023-02-03T21:35:51Z,2,1,MERGED
+spectrum-css,refactor(colorwheel)!: migrate to core tokens ,https://github.com/adobe/spectrum-css/pull/1610,2023-02-02T21:41:18Z,2023-02-03T17:19:59Z,0,35,CLOSED
+spectrum-css,fix(fieldlabel): use proper tokens & resolve incorrect gap size,https://github.com/adobe/spectrum-css/pull/1608,2023-02-01T15:40:45Z,2023-02-01T20:11:47Z,2,1,MERGED
+spectrum-css,feat(illustratedmessage)!: core tokens migration,https://github.com/adobe/spectrum-css/pull/1699,2023-03-29T20:13:09Z,2023-04-20T17:50:45Z,2,14,MERGED
+spectrum-css,feat(colorslider)!: Use new tokens for opacity checkerboard,https://github.com/adobe/spectrum-css/pull/1691,2023-03-28T14:38:13Z,2023-03-31T18:14:01Z,1,2,MERGED
+spectrum-css,feat(colorhandle)!: token migration,https://github.com/adobe/spectrum-css/pull/1686,2023-03-22T22:05:27Z,2023-04-05T19:59:37Z,4,24,MERGED
+spectrum-css,fix(textfield): quiet - use underline focus indicator on click,https://github.com/adobe/spectrum-css/pull/1685,2023-03-22T21:34:25Z,2023-03-23T15:21:43Z,1,1,MERGED
+spectrum-css,feat(preview): add figma support to storybook [CSS-284],https://github.com/adobe/spectrum-css/pull/1680,2023-03-21T16:08:12Z,2024-02-12T20:03:28Z,4,2,MERGED
+spectrum-css,chore(steplist): storybook setup,https://github.com/adobe/spectrum-css/pull/1668,2023-03-08T18:19:36Z,2023-03-08T20:38:02Z,2,1,MERGED
+spectrum-css,chore: add modal to storybook,https://github.com/adobe/spectrum-css/pull/1655,2023-03-03T21:11:41Z,2023-03-06T20:10:57Z,6,3,MERGED
+spectrum-css,chore: add storybook for colorslider,https://github.com/adobe/spectrum-css/pull/1650,2023-03-01T23:09:06Z,2023-03-07T17:57:32Z,11,9,MERGED
+spectrum-css,feat: colorwheel storybook,https://github.com/adobe/spectrum-css/pull/1648,2023-03-01T17:54:44Z,2023-03-01T21:04:54Z,1,5,MERGED
+spectrum-css,fix: resolve always black text in docs site,https://github.com/adobe/spectrum-css/pull/1812,2023-04-26T15:04:17Z,2023-04-27T12:29:07Z,1,2,MERGED
+spectrum-css,"fix: textfield and combobox fixes, adjust padding calculations ",https://github.com/adobe/spectrum-css/pull/1803,2023-04-24T19:14:15Z,2023-05-02T18:13:23Z,4,5,MERGED
+spectrum-css,fix(typography): reset margins,https://github.com/adobe/spectrum-css/pull/1802,2023-04-24T18:02:02Z,2023-04-24T19:40:49Z,1,1,MERGED
+spectrum-css,Storybook redirect from Navbar,https://github.com/adobe/spectrum-css/pull/1786,2023-04-18T13:59:17Z,2023-04-20T12:10:58Z,0,6,CLOSED
+spectrum-css,Image and JS path fixes,https://github.com/adobe/spectrum-css/pull/1785,2023-04-17T09:18:26Z,2023-04-20T12:10:36Z,3,11,CLOSED
+spectrum-css,Image path fixes in YML Files,https://github.com/adobe/spectrum-css/pull/1775,2023-04-14T12:27:10Z,2023-04-20T12:10:48Z,2,15,CLOSED
+spectrum-css,chore: Validate pathing to the component pages looks right and is loading from navigation with a single click,https://github.com/adobe/spectrum-css/pull/1774,2023-04-13T13:55:06Z,2023-04-13T20:13:01Z,4,3,MERGED
+spectrum-css,Ensure that all metadata/*.js assets are being loaded on the site into a bundle,https://github.com/adobe/spectrum-css/pull/1770,2023-04-12T15:20:56Z,2023-04-12T17:43:39Z,0,1,MERGED
+spectrum-css,docs(button): only show icons when appropriate in Storybook,https://github.com/adobe/spectrum-css/pull/1769,2023-04-11T19:34:15Z,2023-04-12T18:58:45Z,2,2,MERGED
+spectrum-css,fix(button): icon only spacing,https://github.com/adobe/spectrum-css/pull/1768,2023-04-11T14:06:54Z,2023-04-11T14:54:08Z,1,5,MERGED
+spectrum-css,"fix(textfield, stepper) : textfield and stepper accessibility fixes",https://github.com/adobe/spectrum-css/pull/1752,2023-04-05T19:16:25Z,2023-04-25T18:43:43Z,9,3,MERGED
+spectrum-css,fix(popover): keep nested drop shadows from affecting the other,https://github.com/adobe/spectrum-css/pull/1909,2023-05-30T19:10:05Z,2023-05-31T14:19:00Z,1,2,MERGED
+spectrum-css,fix(textfield): storybook valid icon size and rename mod,https://github.com/adobe/spectrum-css/pull/1898,2023-05-25T16:05:46Z,2023-05-26T15:51:36Z,3,2,MERGED
+spectrum-css,fix(stepper): fix express button width and spacing,https://github.com/adobe/spectrum-css/pull/1891,2023-05-22T18:48:33Z,2023-05-22T19:06:35Z,1,1,MERGED
+spectrum-css,fix(thumbnail): border in high contrast mode,https://github.com/adobe/spectrum-css/pull/1881,2023-05-18T14:45:24Z,2023-05-25T18:34:41Z,4,6,MERGED
+spectrum-css,fix: resolve missing preview destination,https://github.com/adobe/spectrum-css/pull/1841,2023-05-04T17:05:38Z,2023-05-04T22:26:06Z,1,2,MERGED
+spectrum-css,fix(button): add explicit highcontrast variables for disabled color,https://github.com/adobe/spectrum-css/pull/1985,2023-06-30T14:37:34Z,2023-07-11T19:58:16Z,2,5,MERGED
+spectrum-css,fix(actiongroup): focus indicator border radius,https://github.com/adobe/spectrum-css/pull/1976,2023-06-28T13:31:39Z,2023-06-28T15:28:57Z,3,2,MERGED
+spectrum-css,feat: add `withThemesDisplayWrapper` decorator,https://github.com/adobe/spectrum-css/pull/1959,2023-06-21T20:40:39Z,2024-06-23T14:18:17Z,5,10,CLOSED
+spectrum-css,fix(colorloupe): border bug,https://github.com/adobe/spectrum-css/pull/1958,2023-06-21T19:26:20Z,2023-06-28T20:45:03Z,3,8,MERGED
+spectrum-css,Swatch: disabled state is missing border & fill color in WHCM,https://github.com/adobe/spectrum-css/pull/1955,2023-06-21T13:27:55Z,2023-06-21T14:47:46Z,1,1,MERGED
+spectrum-css,feat(tooltip): square tip elements and modified hairline gap fix,https://github.com/adobe/spectrum-css/pull/1939,2023-06-14T18:41:34Z,2023-07-19T21:17:26Z,6,4,MERGED
+spectrum-css,fix(popover): add highcontrast variables and additional height in docs,https://github.com/adobe/spectrum-css/pull/2055,2023-07-27T13:22:29Z,2023-07-27T19:05:18Z,1,1,MERGED
+spectrum-css,feat(checkbox): add new color aliases and focus color fixes,https://github.com/adobe/spectrum-css/pull/2052,2023-07-26T14:33:41Z,2023-08-02T17:38:06Z,4,2,MERGED
+spectrum-css,fix(colorhandle): updates animation,https://github.com/adobe/spectrum-css/pull/2044,2023-07-21T16:44:33Z,2023-08-10T13:58:13Z,5,1,MERGED
+spectrum-css,fix(tag): update whcm focus ring color,https://github.com/adobe/spectrum-css/pull/2043,2023-07-20T21:38:26Z,2023-07-27T21:50:36Z,4,3,MERGED
+spectrum-css,chore(tokens): update custom token for calendar,https://github.com/adobe/spectrum-css/pull/2038,2023-07-18T21:38:43Z,2023-07-19T18:39:56Z,1,1,MERGED
+spectrum-css,feat(coachmark)!: migrate tokens ,https://github.com/adobe/spectrum-css/pull/1992,2023-07-05T16:53:09Z,2023-12-04T18:02:41Z,32,65,CLOSED
+spectrum-css,fix(picker): add side label variant,https://github.com/adobe/spectrum-css/pull/1991,2023-07-05T15:15:10Z,2023-08-03T20:03:08Z,10,9,MERGED
+spectrum-css,fix(textfield): add line-height to prevent missing diacritics,https://github.com/adobe/spectrum-css/pull/2123,2023-08-24T18:19:38Z,2023-08-24T20:38:47Z,3,1,MERGED
+spectrum-css,docs: update usage documentation for invalid radio groups,https://github.com/adobe/spectrum-css/pull/2104,2023-08-18T21:07:04Z,2023-08-23T16:56:05Z,4,1,MERGED
+spectrum-css,fix(meter): update layout tokens,https://github.com/adobe/spectrum-css/pull/2080,2023-08-10T16:00:27Z,2023-08-25T13:43:02Z,9,11,MERGED
+spectrum-css,fix(picker): add separate mod for label font-weight ,https://github.com/adobe/spectrum-css/pull/2079,2023-08-09T19:28:34Z,2023-08-10T13:46:40Z,1,2,MERGED
+spectrum-css,refactor(taggroup)!: core tokens migration,https://github.com/adobe/spectrum-css/pull/2078,2023-08-08T17:28:05Z,2023-08-25T20:10:22Z,11,2,MERGED
+spectrum-css,fix(popover): docs site popover bug fix,https://github.com/adobe/spectrum-css/pull/2068,2023-08-04T20:21:57Z,2023-08-05T14:27:10Z,1,3,MERGED
+spectrum-css,feat(slider): add side label variant,https://github.com/adobe/spectrum-css/pull/2067,2023-08-04T20:20:56Z,2023-08-10T20:23:37Z,1,7,MERGED
+spectrum-css,chore(toast): add max width token,https://github.com/adobe/spectrum-css/pull/2066,2023-08-04T19:48:35Z,2023-08-09T14:07:20Z,2,5,MERGED
+spectrum-css,refactor(pagination)!: migrate to spectrum tokens,https://github.com/adobe/spectrum-css/pull/2188,2023-09-27T20:35:09Z,2023-10-13T16:07:59Z,5,2,MERGED
+spectrum-css,refactor(datepicker)!: diy token migration,https://github.com/adobe/spectrum-css/pull/2185,2023-09-25T22:45:17Z,2023-11-08T20:12:15Z,12,32,MERGED
+spectrum-css,fix(popover): correct use of alert dialog with in popover,https://github.com/adobe/spectrum-css/pull/2179,2023-09-22T20:39:35Z,2023-09-26T19:58:33Z,2,3,MERGED
+spectrum-css,docs(splitbutton): fix spectrum link,https://github.com/adobe/spectrum-css/pull/2178,2023-09-21T21:24:47Z,2023-10-13T19:04:51Z,2,1,MERGED
+spectrum-css,refactor(fieldlabel): spectrum-Form cleanup and fixes,https://github.com/adobe/spectrum-css/pull/2173,2023-09-18T15:07:22Z,2023-10-13T18:03:14Z,2,4,MERGED
+spectrum-css,chore(icon): add Chevron50 UI icon,https://github.com/adobe/spectrum-css/pull/2167,2023-09-13T18:53:31Z,2023-09-13T19:26:53Z,1,3,MERGED
+spectrum-css,fix(fieldlabel): add asterisk tokens,https://github.com/adobe/spectrum-css/pull/2155,2023-09-08T19:48:56Z,2023-09-11T13:00:53Z,1,4,CLOSED
+spectrum-css,docs(closebutton): close button migration guide fix,https://github.com/adobe/spectrum-css/pull/2148,2023-09-05T20:21:45Z,2023-09-06T14:47:03Z,1,1,MERGED
+spectrum-css,fix(button): button text centering on firefox,https://github.com/adobe/spectrum-css/pull/2145,2023-09-05T11:46:20Z,2023-09-28T15:48:23Z,2,8,CLOSED
+spectrum-css,fix(button): support for wrapping text,https://github.com/adobe/spectrum-css/pull/2248,2023-10-31T19:58:07Z,2024-02-20T18:28:24Z,18,6,MERGED
+spectrum-css,quiet picker with other elements,https://github.com/adobe/spectrum-css/pull/2231,2023-10-26T22:18:14Z,2024-01-29T19:26:48Z,2,13,CLOSED
+spectrum-css,docs(picker): update markup for menu ,https://github.com/adobe/spectrum-css/pull/2226,2023-10-23T22:54:09Z,2023-11-08T21:47:03Z,2,2,MERGED
+spectrum-css,refactor(textfield): invalid and valid padding inline end ,https://github.com/adobe/spectrum-css/pull/2220,2023-10-19T16:02:51Z,2023-11-08T18:16:36Z,2,10,MERGED
+spectrum-css,feat(menu): tray submenus,https://github.com/adobe/spectrum-css/pull/2207,2023-10-09T16:56:28Z,2023-11-29T16:12:55Z,7,7,MERGED
+spectrum-css,fix: run mod-extractor on dist and support for multiple files,https://github.com/adobe/spectrum-css/pull/2322,2023-11-28T18:14:43Z,2024-01-08T19:43:14Z,10,3,CLOSED
+spectrum-css,fix(storybook): postcss parsing error for node_modules paths,https://github.com/adobe/spectrum-css/pull/2321,2023-11-28T17:12:01Z,2023-11-28T17:45:07Z,2,1,MERGED
+spectrum-css,fix(picker)!: adjust position of quiet picker with side label ,https://github.com/adobe/spectrum-css/pull/2316,2023-11-22T18:28:44Z,2024-01-26T19:52:10Z,6,9,CLOSED
+spectrum-css,"background layers ""open props"" approach",https://github.com/adobe/spectrum-css/pull/2302,2023-11-14T22:28:50Z,2023-12-12T16:39:53Z,3,21,CLOSED
+spectrum-css,fix(tabs): adds rules for not showing a focus indicator on tap,https://github.com/adobe/spectrum-css/pull/2275,2023-11-09T03:52:07Z,2023-11-30T15:44:34Z,6,1,CLOSED
+spectrum-css,feat(thumbnail): add whcm for layer variants,https://github.com/adobe/spectrum-css/pull/2254,2023-11-02T20:44:20Z,2023-11-08T19:22:07Z,3,6,MERGED
+spectrum-css,fix(stepper): express whcm,https://github.com/adobe/spectrum-css/pull/2384,2023-12-22T20:35:53Z,2024-01-09T18:40:38Z,5,5,MERGED
+spectrum-css,fix(actionbutton): update disabled background color,https://github.com/adobe/spectrum-css/pull/2383,2023-12-20T23:31:39Z,2024-02-08T22:17:23Z,2,1,CLOSED
+spectrum-css,fix(textfield): icon positioning with field label,https://github.com/adobe/spectrum-css/pull/2380,2023-12-19T01:08:36Z,2024-02-16T18:47:31Z,10,15,MERGED
+spectrum-css,feat(storybook): incorporate the new chromatic plugin,https://github.com/adobe/spectrum-css/pull/2376,2023-12-18T17:44:16Z,2023-12-18T20:07:11Z,2,1,MERGED
+spectrum-css,refactor(combobox): use sub component mod properties,https://github.com/adobe/spectrum-css/pull/2375,2023-12-18T17:35:02Z,2024-01-10T20:14:44Z,3,4,MERGED
+spectrum-css,fix(asset): add whcm values for asset background color,https://github.com/adobe/spectrum-css/pull/2369,2023-12-14T20:10:39Z,2023-12-20T20:51:01Z,3,2,MERGED
+spectrum-css,fix(picker): express border width values,https://github.com/adobe/spectrum-css/pull/2367,2023-12-13T17:08:16Z,2023-12-13T19:31:54Z,2,2,MERGED
+spectrum-css,chore(ci): clean file diff output,https://github.com/adobe/spectrum-css/pull/2361,2023-12-12T13:59:23Z,2023-12-12T14:29:52Z,7,1,MERGED
+spectrum-css,fix(storybook): chromatic requires build script,https://github.com/adobe/spectrum-css/pull/2360,2023-12-12T13:49:53Z,2023-12-12T14:09:31Z,4,1,MERGED
+spectrum-css,refactor(icon)!: tokens migration,https://github.com/adobe/spectrum-css/pull/2347,2023-12-06T22:05:17Z,2024-02-05T19:52:58Z,7,16,MERGED
+spectrum-css,chore(ci): correct data formatting for diff comment,https://github.com/adobe/spectrum-css/pull/2345,2023-12-06T17:14:07Z,2023-12-06T19:49:02Z,2,1,MERGED
+spectrum-css,chore(ci): error if uncomitted changes found on build,https://github.com/adobe/spectrum-css/pull/2339,2023-12-05T15:52:23Z,2023-12-05T16:53:02Z,4,2,MERGED
+spectrum-css,fix(picker): quiet side label picker positioning,https://github.com/adobe/spectrum-css/pull/2465,2024-01-25T22:53:09Z,2024-02-12T20:44:12Z,9,9,MERGED
+spectrum-css,ci: separate build matrix from workflow,https://github.com/adobe/spectrum-css/pull/2455,2024-01-22T22:46:05Z,2024-02-12T22:32:48Z,2,1,MERGED
+spectrum-css,fix(card): gap between preview and horizontal card border,https://github.com/adobe/spectrum-css/pull/2447,2024-01-19T18:53:34Z,2024-01-22T15:22:47Z,2,1,MERGED
+spectrum-css,feat(button): pending state,https://github.com/adobe/spectrum-css/pull/2445,2024-01-18T18:30:33Z,2024-02-13T18:37:02Z,12,2,MERGED
+spectrum-css,feat(storybook): migrate global tools to toolbar,https://github.com/adobe/spectrum-css/pull/2443,2024-01-17T21:34:06Z,2024-04-04T18:36:31Z,2,1,CLOSED
+spectrum-css,fix: remove storybook-addon-pseudo-states,https://github.com/adobe/spectrum-css/pull/2401,2024-01-04T21:56:26Z,2024-01-05T15:23:10Z,2,1,MERGED
+spectrum-css,fix(swatch): correct example markup,https://github.com/adobe/spectrum-css/pull/2399,2024-01-02T23:20:14Z,2024-01-03T15:35:54Z,3,1,MERGED
+spectrum-css,feat(fieldlabel)!: s2 migration,https://github.com/adobe/spectrum-css/pull/2569,2024-02-28T15:30:47Z,2024-03-11T17:04:35Z,6,11,MERGED
+spectrum-css,fix(textfield): remove extra padding on nested label and help,https://github.com/adobe/spectrum-css/pull/2519,2024-02-13T20:03:50Z,2024-02-16T20:01:31Z,4,2,MERGED
+spectrum-css,chore: add schema validation to yaml for documentation,https://github.com/adobe/spectrum-css/pull/2518,2024-02-13T03:24:01Z,2024-02-14T19:23:20Z,3,1,MERGED
+spectrum-css,fix(textarea): drag and grow behaviors,https://github.com/adobe/spectrum-css/pull/2506,2024-02-09T16:36:15Z,2024-09-23T16:01:06Z,7,14,CLOSED
+spectrum-css,chore: add documentation resources to storybook,https://github.com/adobe/spectrum-css/pull/2501,2024-02-08T17:37:09Z,2024-02-13T21:45:15Z,3,1,MERGED
+spectrum-css,"ci(actions): bump to v4, resolve outdated node messages",https://github.com/adobe/spectrum-css/pull/2498,2024-02-07T15:58:37Z,2024-02-07T17:18:30Z,3,1,MERGED
+spectrum-css,fix(coachindicator): address issues with coach indicator rings position,https://github.com/adobe/spectrum-css/pull/2483,2024-02-02T17:11:15Z,2024-02-06T19:59:06Z,2,4,MERGED
+spectrum-css,feat(button): migrate to Spectrum 2,https://github.com/adobe/spectrum-css/pull/2600,2024-03-20T22:22:13Z,2024-05-01T18:30:29Z,12,11,MERGED
+spectrum-css,chore: s2 grays migration,https://github.com/adobe/spectrum-css/pull/2583,2024-03-04T20:42:13Z,2024-03-07T14:24:08Z,2,6,MERGED
+spectrum-css,build: move postcss reporting to stylelint,https://github.com/adobe/spectrum-css/pull/2581,2024-03-04T18:23:35Z,2024-03-04T20:37:53Z,2,1,MERGED
+spectrum-css,chore: vrt enhancements for button & actionbutton,https://github.com/adobe/spectrum-css/pull/2578,2024-03-04T16:14:33Z,2024-03-28T23:37:59Z,8,2,MERGED
+spectrum-css,chore: minor accordion story updates,https://github.com/adobe/spectrum-css/pull/2577,2024-03-04T14:14:47Z,2024-03-04T18:37:12Z,2,3,MERGED
+spectrum-css,feat(picker): migrate to spectrum 2,https://github.com/adobe/spectrum-css/pull/2697,2024-04-25T19:16:29Z,2024-06-18T20:26:58Z,31,5,MERGED
+spectrum-css,docs: storybook description format; lit syntax alignment,https://github.com/adobe/spectrum-css/pull/2681,2024-04-19T18:40:58Z,2024-05-02T20:23:54Z,4,2,MERGED
+spectrum-css,feat(card): overflow hidden on cover photo for swc implementation,https://github.com/adobe/spectrum-css/pull/2661,2024-04-12T21:01:46Z,2024-04-16T17:10:54Z,3,1,MERGED
+spectrum-css,feat: add example gradients for static black and white,https://github.com/adobe/spectrum-css/pull/2637,2024-04-02T21:08:13Z,2024-04-11T19:59:32Z,5,4,MERGED
+spectrum-css,ci: ensure the shas used by compare match the current PR,https://github.com/adobe/spectrum-css/pull/2629,2024-04-01T13:29:44Z,2024-04-01T14:36:13Z,2,1,MERGED
+spectrum-css,feat: storybook - disable whats new notification popup,https://github.com/adobe/spectrum-css/pull/2628,2024-04-01T13:26:56Z,2024-04-01T13:33:11Z,2,1,MERGED
+spectrum-css,feat(menu): s2 migration,https://github.com/adobe/spectrum-css/pull/2802,2024-05-30T22:20:05Z,2025-04-30T22:07:35Z,17,64,CLOSED
+spectrum-css,docs(icon): storybook documentation page,https://github.com/adobe/spectrum-css/pull/2799,2024-05-30T18:41:51Z,2024-06-11T14:41:19Z,12,1,MERGED
+spectrum-css,feat(button)!: s2 gradients prototyping,https://github.com/adobe/spectrum-css/pull/2785,2024-05-23T21:02:38Z,2024-06-03T19:31:57Z,4,1,CLOSED
+spectrum-css,refactor(menu): improve chromatic coverage,https://github.com/adobe/spectrum-css/pull/2757,2024-05-14T00:53:15Z,2024-05-23T19:49:43Z,12,1,MERGED
+spectrum-css,"fix(popover): correct left/right tips for RTL, increase VRT coverage",https://github.com/adobe/spectrum-css/pull/2753,2024-05-13T17:09:08Z,2024-05-22T20:13:25Z,7,5,MERGED
+spectrum-css,fix(slider): use high contrast properties and fix ramp handle circle,https://github.com/adobe/spectrum-css/pull/2752,2024-05-13T16:00:18Z,2024-05-30T20:03:33Z,3,1,MERGED
+spectrum-css,feat(tooltip): S2 migration,https://github.com/adobe/spectrum-css/pull/2743,2024-05-09T19:22:41Z,2024-07-19T19:06:05Z,17,1,MERGED
+spectrum-css,build: keep selector list in dist output of not pseudo-class,https://github.com/adobe/spectrum-css/pull/2740,2024-05-08T20:51:44Z,2024-05-10T20:04:13Z,3,1,MERGED
+spectrum-css,chore: add deprecation notes to storybook docs; support mdx assets for components,https://github.com/adobe/spectrum-css/pull/2729,2024-05-03T19:17:35Z,2024-05-08T13:36:18Z,4,1,MERGED
+spectrum-css,fix: update checkbox color to be emphasized even when unchecked,https://github.com/adobe/spectrum-css/pull/2864,2024-06-26T17:21:18Z,2024-07-08T17:42:43Z,3,1,CLOSED
+spectrum-css,"feat(textfield, textarea): migrate to spectrum 2",https://github.com/adobe/spectrum-css/pull/2856,2024-06-21T22:04:15Z,2025-04-01T20:29:09Z,48,26,MERGED
+spectrum-css,"docs(dropzone,fieldgroup,floatingactionbutton,illustratedmessage,infieldbutton): site docs to Storybook",https://github.com/adobe/spectrum-css/pull/2827,2024-06-07T21:25:39Z,2024-06-21T15:25:19Z,16,1,MERGED
+spectrum-css,docs: fix changelog headings missing spaces and make consistent,https://github.com/adobe/spectrum-css/pull/2813,2024-06-03T18:11:16Z,2024-06-03T19:13:45Z,5,2,MERGED
+spectrum-css,fix(breadcrumb): center breadcrumb itemLink,https://github.com/adobe/spectrum-css/pull/2961,2024-07-31T21:15:52Z,2024-08-09T14:41:31Z,4,1,MERGED
+spectrum-css,fix(card)!: change cover photo background color and include mod,https://github.com/adobe/spectrum-css/pull/2955,2024-07-30T17:11:03Z,2024-08-19T19:14:43Z,7,1,MERGED
+spectrum-css,fix(swatch): prepares swatch for new stories,https://github.com/adobe/spectrum-css/pull/2933,2024-07-25T13:25:15Z,2024-07-30T15:15:20Z,5,3,CLOSED
+spectrum-css,fix(progressbar): revert background-color to background,https://github.com/adobe/spectrum-css/pull/2929,2024-07-24T19:27:02Z,2024-08-23T14:40:36Z,16,14,MERGED
+spectrum-css,fix(picker): prevent diacritic text cutoff,https://github.com/adobe/spectrum-css/pull/2914,2024-07-17T17:58:32Z,2024-07-19T18:30:42Z,6,1,MERGED
+spectrum-css,feat: doc block to display component version in storybook,https://github.com/adobe/spectrum-css/pull/2892,2024-07-08T15:01:39Z,2024-07-09T14:31:47Z,5,4,MERGED
+spectrum-css,chore: metadata schema validation,https://github.com/adobe/spectrum-css/pull/3059,2024-08-30T15:30:57Z,2024-09-03T16:44:50Z,3,1,MERGED
+spectrum-css,"fix(card, SWC-343): update preview-background-color for card quiet variant in spectrum-two",https://github.com/adobe/spectrum-css/pull/3057,2024-08-30T12:54:32Z,2024-09-09T16:05:38Z,3,10,MERGED
+spectrum-css,"fix(modal, SWC-344): update background-color for s2 modal",https://github.com/adobe/spectrum-css/pull/3056,2024-08-30T09:52:10Z,2024-09-10T15:13:14Z,3,5,MERGED
+spectrum-css,"fix(button, SWC-342): update content-color for primary s2 button",https://github.com/adobe/spectrum-css/pull/3049,2024-08-29T14:11:07Z,2024-09-10T15:10:13Z,3,5,MERGED
+spectrum-css,chore: set lint action to review PR not just check,https://github.com/adobe/spectrum-css/pull/3020,2024-08-23T15:57:15Z,2024-08-26T13:42:07Z,3,1,MERGED
+spectrum-css,fix(textfield + stepper): allow is-disabled to supersede invalid and focus states,https://github.com/adobe/spectrum-css/pull/3012,2024-08-21T23:54:41Z,2024-09-04T16:10:46Z,12,2,MERGED
+spectrum-css,feat(icons)!: s2 icons - use latest workflow and ui icon sets,https://github.com/adobe/spectrum-css/pull/3001,2024-08-16T20:04:32Z,2025-02-18T20:12:23Z,24,14,MERGED
+spectrum-css,chore(storybook): update ComponentDetails to use theming & fetch data from npm,https://github.com/adobe/spectrum-css/pull/2987,2024-08-11T19:14:08Z,2024-09-03T18:29:22Z,3,1,MERGED
+spectrum-css,chore: color docs for storybook,https://github.com/adobe/spectrum-css/pull/2984,2024-08-09T13:48:37Z,2024-08-27T13:38:53Z,8,3,MERGED
+spectrum-css,fix(menu): do not rely on source order of icon dependency css,https://github.com/adobe/spectrum-css/pull/2980,2024-08-07T20:33:15Z,2024-08-28T18:55:57Z,8,2,MERGED
+spectrum-css,fix(slider): adjust slider's z-index,https://github.com/adobe/spectrum-css/pull/2979,2024-08-07T17:28:01Z,2024-08-12T14:19:25Z,4,1,MERGED
+spectrum-css,chore(storybook): leverage shared types in all existing stories,https://github.com/adobe/spectrum-css/pull/2975,2024-08-06T18:18:59Z,2024-08-29T20:13:01Z,10,1,MERGED
+spectrum-css,**DO NOT MERGE** ci: resolve lint failures by using previous version of reviewdog app,https://github.com/adobe/spectrum-css/pull/2972,2024-08-05T20:01:21Z,2024-08-06T13:45:00Z,3,2,CLOSED
+spectrum-css,fix: static white meter story and corrected fill colors,https://github.com/adobe/spectrum-css/pull/2965,2024-08-02T17:05:03Z,2024-08-13T14:36:40Z,8,4,MERGED
+spectrum-css,chore(storybook): support static color settings in testing grid,https://github.com/adobe/spectrum-css/pull/3172,2024-09-27T13:13:22Z,2024-10-11T14:09:15Z,9,1,MERGED
+spectrum-css,feat(tokens): use @adobe/spectrum-tokens@12.27.0 + apply CJK typography changes,https://github.com/adobe/spectrum-css/pull/3167,2024-09-26T20:20:17Z,2024-10-08T19:55:24Z,5,4,CLOSED
+spectrum-css,feat(storybook): custom properties panel,https://github.com/adobe/spectrum-css/pull/3166,2024-09-26T16:19:53Z,2025-07-21T15:53:19Z,8,12,CLOSED
+spectrum-css,fix: blank field group docs and read-only radio alignment,https://github.com/adobe/spectrum-css/pull/3164,2024-09-24T20:50:47Z,2024-10-03T18:46:27Z,6,2,MERGED
+spectrum-css,fix(slider ramp): correct handle and ramp vertical alignment,https://github.com/adobe/spectrum-css/pull/3154,2024-09-23T19:36:28Z,2024-10-01T22:08:43Z,5,3,MERGED
+spectrum-css,fix(storybook): updates to pass the correct content types to the dialog and popover components,https://github.com/adobe/spectrum-css/pull/3143,2024-09-19T21:57:57Z,2024-09-24T18:55:03Z,5,2,MERGED
+spectrum-css,chore(storybook): align display viewports for stories,https://github.com/adobe/spectrum-css/pull/3131,2024-09-18T15:45:23Z,2024-09-26T23:01:31Z,5,1,MERGED
+spectrum-css,docs(button): increase coverage of outline variants,https://github.com/adobe/spectrum-css/pull/3130,2024-09-18T15:06:55Z,2024-09-18T19:17:45Z,3,1,MERGED
+spectrum-css,feat: ResourceListDetails doc block,https://github.com/adobe/spectrum-css/pull/3129,2024-09-18T14:25:02Z,2024-10-18T13:33:18Z,31,18,MERGED
+spectrum-css,fix: resolve error in typography story template,https://github.com/adobe/spectrum-css/pull/3120,2024-09-16T18:54:21Z,2024-09-16T20:37:18Z,3,4,MERGED
+spectrum-css,fix(slider): adds space between side positioned label and slider,https://github.com/adobe/spectrum-css/pull/3119,2024-09-16T16:48:12Z,2024-09-18T15:58:11Z,4,1,MERGED
+spectrum-css,fix(avatar): remove outline and reduce redundancy,https://github.com/adobe/spectrum-css/pull/3105,2024-09-12T20:17:07Z,2024-09-17T15:12:59Z,3,1,MERGED
+spectrum-css,fix(stepper): corrects invalid button color border to match field in windows high contrast mode,https://github.com/adobe/spectrum-css/pull/3103,2024-09-11T16:50:10Z,2024-09-13T15:18:37Z,5,2,MERGED
+spectrum-css,fix(asset list + miller columns): selected/hover/navigated color contrast,https://github.com/adobe/spectrum-css/pull/3099,2024-09-10T19:36:32Z,2024-09-17T14:54:03Z,4,2,MERGED
+spectrum-css,chore(card): import Divider and remove static hr from card story,https://github.com/adobe/spectrum-css/pull/3098,2024-09-10T15:43:40Z,2024-09-10T21:08:37Z,3,1,MERGED
+spectrum-css,fix(treeview): display corner rounding for detached treeview,https://github.com/adobe/spectrum-css/pull/3089,2024-09-09T16:10:15Z,2024-09-13T17:02:16Z,8,1,MERGED
+spectrum-css,"docs(thumbnail,treeview): testing improvements",https://github.com/adobe/spectrum-css/pull/3087,2024-09-09T16:04:03Z,2024-09-12T19:28:00Z,6,1,MERGED
+spectrum-css,fix(calendar): addresses issue where text that was not selected was illegible in high contrast mode,https://github.com/adobe/spectrum-css/pull/3079,2024-09-06T23:15:19Z,2024-09-17T14:02:34Z,4,2,MERGED
+spectrum-css,fix(button -> negative): corrects interior label background color to align with parent,https://github.com/adobe/spectrum-css/pull/3078,2024-09-06T19:15:41Z,2024-09-17T15:31:39Z,11,7,MERGED
+spectrum-css,chore(card): storybook component fixes,https://github.com/adobe/spectrum-css/pull/3075,2024-09-05T20:12:06Z,2024-09-06T20:31:51Z,6,2,MERGED
+spectrum-css,fix(toast): added overflow css to toast for long words,https://github.com/adobe/spectrum-css/pull/3073,2024-09-05T10:31:06Z,2024-09-10T20:22:15Z,6,3,MERGED
+spectrum-css,fix(card -> action button): corrects the size and alignment of the card action button,https://github.com/adobe/spectrum-css/pull/3072,2024-09-04T23:37:43Z,2024-09-09T22:47:30Z,3,1,MERGED
+spectrum-css,ci: add snapshot release workflow,https://github.com/adobe/spectrum-css/pull/3071,2024-09-04T19:58:05Z,2024-09-05T19:29:44Z,4,2,MERGED
+spectrum-css,fix(ComponentDetails): apply sb-unstyled className to correct version number misalignment,https://github.com/adobe/spectrum-css/pull/3067,2024-09-03T14:11:48Z,2024-09-03T14:36:48Z,3,1,MERGED
+spectrum-css,feat(avatar): migrate s2 avatar,https://github.com/adobe/spectrum-css/pull/3355,2024-10-30T18:35:35Z,2024-11-08T18:50:54Z,6,2,MERGED
+spectrum-css,docs: fix and document use of keyboard focus classes on text fields,https://github.com/adobe/spectrum-css/pull/3354,2024-10-30T17:48:29Z,2024-11-11T18:35:43Z,6,3,MERGED
+spectrum-css,fix(radio): correct display of read-only state,https://github.com/adobe/spectrum-css/pull/3350,2024-10-29T20:20:32Z,2024-11-12T21:55:58Z,8,7,MERGED
+spectrum-css,fix(textarea + textfield): move help text to resolve rendering issue,https://github.com/adobe/spectrum-css/pull/3345,2024-10-28T23:19:52Z,2024-10-28T23:30:49Z,3,1,CLOSED
+spectrum-css,fix: correct the display of checkbox read-only state,https://github.com/adobe/spectrum-css/pull/3328,2024-10-25T20:34:34Z,2024-11-12T15:50:29Z,13,5,MERGED
+spectrum-css,docs(textarea): add figma assets to design tab,https://github.com/adobe/spectrum-css/pull/3327,2024-10-25T14:46:20Z,2024-10-28T13:16:48Z,1,8,MERGED
+spectrum-css,fix(search): update icon sizing calculation in the quiet variant [CSS-1012],https://github.com/adobe/spectrum-css/pull/3297,2024-10-22T13:12:15Z,2024-10-30T21:20:17Z,8,1,MERGED
+spectrum-css,fix(coachmark): correct invalid token pointers in pagination styles [CSS-1011],https://github.com/adobe/spectrum-css/pull/3292,2024-10-21T21:01:43Z,2024-10-28T21:29:38Z,6,2,MERGED
+spectrum-css,fix(actionbutton): static selected actionbutton content colors,https://github.com/adobe/spectrum-css/pull/3268,2024-10-18T20:26:12Z,2024-10-18T20:53:10Z,1,1,MERGED
+spectrum-css,"fix(coachindicator): adds 'static white', deprecates light/dark",https://github.com/adobe/spectrum-css/pull/3266,2024-10-18T14:20:53Z,2024-10-22T16:33:05Z,6,12,MERGED
+spectrum-css,chore(field-group): update field group tests,https://github.com/adobe/spectrum-css/pull/3259,2024-10-15T23:08:30Z,2024-10-17T19:29:30Z,13,2,MERGED
+spectrum-css,fix(clear button): align background color and hover state for disabled variant,https://github.com/adobe/spectrum-css/pull/3258,2024-10-15T17:47:02Z,2024-10-28T18:33:47Z,10,6,MERGED
+spectrum-css,fix(actionbutton): prevent diacritic clipping in thai,https://github.com/adobe/spectrum-css/pull/3256,2024-10-15T14:57:52Z,2024-10-23T17:22:27Z,10,2,MERGED
+spectrum-css,fix(closebutton): t-shirt sizing variable fix,https://github.com/adobe/spectrum-css/pull/3250,2024-10-14T22:02:30Z,2024-10-17T16:55:42Z,4,1,MERGED
+spectrum-css,"chore[actionbutton, actiongroup]: fix application of aria-labels",https://github.com/adobe/spectrum-css/pull/3230,2024-10-10T18:02:49Z,2024-10-14T14:41:08Z,11,3,MERGED
+spectrum-css,fix(field-group): addresses regressions in field groups.,https://github.com/adobe/spectrum-css/pull/3227,2024-10-09T23:29:42Z,2024-10-15T18:59:41Z,10,4,MERGED
+spectrum-css,fix(search): addresses quiet variant clear icon positioning,https://github.com/adobe/spectrum-css/pull/3222,2024-10-08T18:16:52Z,2024-10-09T15:55:25Z,3,1,MERGED
+spectrum-css,fix(picker): update picker display and icon flex properties to resolve layout bugs,https://github.com/adobe/spectrum-css/pull/3220,2024-10-08T16:05:57Z,2024-10-11T17:54:33Z,5,2,MERGED
+spectrum-css,chore: corrects readOnly to isReadOnly arg,https://github.com/adobe/spectrum-css/pull/3210,2024-10-04T19:32:49Z,2024-10-04T20:07:53Z,3,1,MERGED
+spectrum-css,docs: add links to figma assets part 5,https://github.com/adobe/spectrum-css/pull/3207,2024-10-04T14:31:13Z,2024-10-08T17:07:38Z,1,1,MERGED
+spectrum-css,docs: add links to figma assets part 4,https://github.com/adobe/spectrum-css/pull/3206,2024-10-04T13:26:54Z,2024-10-08T17:04:41Z,1,1,MERGED
+spectrum-css,docs: add links to figma assets part 3,https://github.com/adobe/spectrum-css/pull/3205,2024-10-03T21:53:23Z,2024-10-08T17:04:02Z,3,1,MERGED
+spectrum-css,docs: add links to figma assets part 2,https://github.com/adobe/spectrum-css/pull/3203,2024-10-03T21:06:32Z,2024-10-07T17:06:43Z,1,1,MERGED
+spectrum-css,docs: add links to figma assets part 1,https://github.com/adobe/spectrum-css/pull/3202,2024-10-03T20:47:52Z,2024-10-07T16:11:59Z,5,2,MERGED
+spectrum-css,fix(button): use appropriate tokens for radii in buttons,https://github.com/adobe/spectrum-css/pull/3197,2024-10-02T20:17:39Z,2024-10-03T22:26:38Z,5,2,MERGED
+spectrum-css,fix(rating): address inconsistent hover behavior,https://github.com/adobe/spectrum-css/pull/3196,2024-10-02T19:30:42Z,2025-03-17T20:30:03Z,20,11,CLOSED
+spectrum-css,feat(storybook): modifiers table added to docs,https://github.com/adobe/spectrum-css/pull/3195,2024-10-02T17:06:41Z,2024-10-11T19:23:41Z,22,1,MERGED
+spectrum-css,"chore(contextualhelp,datepicker,fieldgroup): remove MDX files",https://github.com/adobe/spectrum-css/pull/3422,2024-11-26T17:26:38Z,2024-12-16T19:24:19Z,6,4,MERGED
+spectrum-css,"chore(accordion,actionbar,asset): remove mdx files",https://github.com/adobe/spectrum-css/pull/3407,2024-11-20T14:16:00Z,2024-12-18T15:22:35Z,4,3,MERGED
+spectrum-css,chore(storybook): add 404 page,https://github.com/adobe/spectrum-css/pull/3386,2024-11-11T15:05:39Z,2024-11-15T19:37:19Z,8,2,MERGED
+spectrum-css,chore(popover): fix alignment of test grid,https://github.com/adobe/spectrum-css/pull/3373,2024-11-06T18:31:04Z,2024-11-06T22:12:01Z,3,1,MERGED
+spectrum-css,fix(search): removes calc and replaces w/fixed value,https://github.com/adobe/spectrum-css/pull/3372,2024-11-05T23:39:22Z,2024-11-07T21:30:10Z,3,1,MERGED
+spectrum-css,feat(popover): migrate s2 popover,https://github.com/adobe/spectrum-css/pull/3365,2024-11-04T18:49:30Z,2025-01-31T16:46:51Z,25,1,MERGED
+spectrum-css,fix(colorloupe): adds correct disabled styles,https://github.com/adobe/spectrum-css/pull/3453,2024-12-18T18:16:46Z,2025-01-08T16:43:11Z,3,1,MERGED
+spectrum-css,chore(coachindicator): correct the title of coachindicator,https://github.com/adobe/spectrum-css/pull/3431,2024-12-06T01:45:47Z,2024-12-06T14:21:32Z,3,1,MERGED
+spectrum-css,"feat(dropzone): migrating new S2 tokens, more spaced out dashed lines, more illustrations",https://github.com/adobe/spectrum-css/pull/3429,2024-12-04T21:31:36Z,2025-03-05T21:04:16Z,35,25,MERGED
+spectrum-css,fix(*): define missing custom properties from theme directory,https://github.com/adobe/spectrum-css/pull/3517,2025-01-21T20:55:30Z,2025-01-21T21:48:21Z,3,14,MERGED
+spectrum-css,chore: spectrum-two fixes,https://github.com/adobe/spectrum-css/pull/3514,2025-01-21T17:49:20Z,2025-01-22T18:40:53Z,6,3,MERGED
+spectrum-css,fix: resolve buggy line numbers display in addon,https://github.com/adobe/spectrum-css/pull/3490,2025-01-10T20:35:46Z,2025-01-10T22:29:39Z,1,1,MERGED
+spectrum-css,"docs(progressbar, tooltip): reimplement default args in template",https://github.com/adobe/spectrum-css/pull/3485,2025-01-08T22:01:59Z,2025-01-22T16:31:12Z,5,93,CLOSED
+spectrum-css,fix(*): define missing custom properties from theme directory,https://github.com/adobe/spectrum-css/pull/3476,2025-01-03T19:41:58Z,2025-01-16T22:49:09Z,20,17,MERGED
+spectrum-css,fix: use new tag to hide storybook foundations stories,https://github.com/adobe/spectrum-css/pull/3474,2025-01-03T17:00:10Z,2025-01-03T21:39:59Z,3,1,MERGED
+spectrum-css,feat: simplify fallback of ui icon size numbers,https://github.com/adobe/spectrum-css/pull/3571,2025-02-20T21:39:14Z,2025-03-04T17:25:06Z,7,11,MERGED
+spectrum-css,"feat(link): new typography tokens, focus color and design, WHCM focus state",https://github.com/adobe/spectrum-css/pull/3570,2025-02-20T19:33:30Z,2025-03-13T21:09:11Z,21,21,MERGED
+spectrum-css,test(combobox): corrects cases where open combobox stories and testing previews could overlap adjacent components,https://github.com/adobe/spectrum-css/pull/3568,2025-02-20T18:10:57Z,2025-02-21T21:25:29Z,4,1,MERGED
+spectrum-css,docs: add more figma assets,https://github.com/adobe/spectrum-css/pull/3563,2025-02-17T19:50:46Z,2025-08-21T16:57:01Z,4,10,MERGED
+spectrum-css,chore(dialog): use isOpen type for open control,https://github.com/adobe/spectrum-css/pull/3562,2025-02-17T14:04:39Z,2025-02-17T21:44:10Z,3,1,MERGED
+spectrum-css,fix(statuslight): remove accent variant tokens,https://github.com/adobe/spectrum-css/pull/3561,2025-02-17T14:04:26Z,2025-02-17T21:55:08Z,6,1,MERGED
+spectrum-css,docs(contextualhelp): adds docs for max-width story,https://github.com/adobe/spectrum-css/pull/3560,2025-02-17T14:03:50Z,2025-02-17T21:43:20Z,4,2,MERGED
+spectrum-css,docs(splitview): add guidelines link,https://github.com/adobe/spectrum-css/pull/3559,2025-02-14T22:38:59Z,2025-02-18T14:56:29Z,3,1,MERGED
+spectrum-css,refactor(stepper): standardize selectors and passthroughs usage,https://github.com/adobe/spectrum-css/pull/3558,2025-02-14T21:18:01Z,2025-05-09T13:09:09Z,12,4,CLOSED
+spectrum-css,"feat(radio): adding new colors, type, and size tokens, invalid state, WHCM",https://github.com/adobe/spectrum-css/pull/3555,2025-02-13T19:45:06Z,2025-03-20T14:08:12Z,26,27,MERGED
+spectrum-css,fix(button): revert primary button content color,https://github.com/adobe/spectrum-css/pull/3550,2025-02-12T02:50:41Z,2025-02-13T19:52:05Z,5,1,MERGED
+spectrum-css,fix(swatch): adjust disabled icon color across themes,https://github.com/adobe/spectrum-css/pull/3547,2025-02-10T16:57:00Z,2025-02-25T20:14:44Z,5,1,MERGED
+spectrum-css,chore(search): add missing size-specific CSS properties,https://github.com/adobe/spectrum-css/pull/3538,2025-02-05T17:14:33Z,2025-03-03T10:38:49Z,7,5,CLOSED
+spectrum-css,"fix(picker,infieldbutton): updates custom properties for background/border colors",https://github.com/adobe/spectrum-css/pull/3536,2025-02-04T21:46:51Z,2025-02-27T15:06:53Z,8,1,MERGED
+spectrum-css,fix: index-theme system mappings bug [CSS-1114],https://github.com/adobe/spectrum-css/pull/3534,2025-02-04T15:41:09Z,2025-02-04T16:11:45Z,4,1,MERGED
+spectrum-css,fix(picker): update S2 border-color [SWC-641],https://github.com/adobe/spectrum-css/pull/3584,2025-02-27T10:53:41Z,2025-03-04T18:48:09Z,7,10,MERGED
+spectrum-css,fix(menu): move s1/express focus indicator to right side for rtl,https://github.com/adobe/spectrum-css/pull/3581,2025-02-26T14:42:52Z,2025-02-27T19:29:49Z,6,1,MERGED
+spectrum-css,feat: simplify fallback of ui icon size numbers,https://github.com/adobe/spectrum-css/pull/3571,2025-02-20T21:39:14Z,2025-03-04T17:25:06Z,7,11,MERGED
+spectrum-css,"feat(link): new typography tokens, focus color and design, WHCM focus state",https://github.com/adobe/spectrum-css/pull/3570,2025-02-20T19:33:30Z,2025-03-13T21:09:11Z,21,21,MERGED
+spectrum-css,test(combobox): corrects cases where open combobox stories and testing previews could overlap adjacent components,https://github.com/adobe/spectrum-css/pull/3568,2025-02-20T18:10:57Z,2025-02-21T21:25:29Z,4,1,MERGED
+spectrum-css,docs: add more figma assets,https://github.com/adobe/spectrum-css/pull/3563,2025-02-17T19:50:46Z,2025-08-21T16:57:01Z,4,10,MERGED
+spectrum-css,chore(dialog): use isOpen type for open control,https://github.com/adobe/spectrum-css/pull/3562,2025-02-17T14:04:39Z,2025-02-17T21:44:10Z,3,1,MERGED
+spectrum-css,fix(statuslight): remove accent variant tokens,https://github.com/adobe/spectrum-css/pull/3561,2025-02-17T14:04:26Z,2025-02-17T21:55:08Z,6,1,MERGED
+spectrum-css,docs(contextualhelp): adds docs for max-width story,https://github.com/adobe/spectrum-css/pull/3560,2025-02-17T14:03:50Z,2025-02-17T21:43:20Z,4,2,MERGED
+spectrum-css,docs(splitview): add guidelines link,https://github.com/adobe/spectrum-css/pull/3559,2025-02-14T22:38:59Z,2025-02-18T14:56:29Z,3,1,MERGED
+spectrum-css,refactor(stepper): standardize selectors and passthroughs usage,https://github.com/adobe/spectrum-css/pull/3558,2025-02-14T21:18:01Z,2025-05-09T13:09:09Z,12,4,CLOSED
+spectrum-css,"feat(radio): adding new colors, type, and size tokens, invalid state, WHCM",https://github.com/adobe/spectrum-css/pull/3555,2025-02-13T19:45:06Z,2025-03-20T14:08:12Z,26,27,MERGED
+spectrum-css,fix(button): revert primary button content color,https://github.com/adobe/spectrum-css/pull/3550,2025-02-12T02:50:41Z,2025-02-13T19:52:05Z,5,1,MERGED
+spectrum-css,fix(swatch): adjust disabled icon color across themes,https://github.com/adobe/spectrum-css/pull/3547,2025-02-10T16:57:00Z,2025-02-25T20:14:44Z,5,1,MERGED
+spectrum-css,chore(search): add missing size-specific CSS properties,https://github.com/adobe/spectrum-css/pull/3538,2025-02-05T17:14:33Z,2025-03-03T10:38:49Z,7,5,CLOSED
+spectrum-css,"fix(picker,infieldbutton): updates custom properties for background/border colors",https://github.com/adobe/spectrum-css/pull/3536,2025-02-04T21:46:51Z,2025-02-27T15:06:53Z,8,1,MERGED
+spectrum-css,fix: index-theme system mappings bug [CSS-1114],https://github.com/adobe/spectrum-css/pull/3534,2025-02-04T15:41:09Z,2025-02-04T16:11:45Z,4,1,MERGED
+spectrum-css,fix(actionbutton): reimplement support for border-radius mod,https://github.com/adobe/spectrum-css/pull/3644,2025-03-27T21:55:05Z,2025-03-28T20:54:07Z,3,2,MERGED
+spectrum-css,feat(toast): S2 migration,https://github.com/adobe/spectrum-css/pull/3643,2025-03-26T22:29:53Z,2025-04-29T21:05:19Z,24,11,MERGED
+spectrum-css,feat(infield-button): new s2 migration,https://github.com/adobe/spectrum-css/pull/3642,2025-03-25T20:24:53Z,2025-04-24T15:58:39Z,35,32,MERGED
+spectrum-css,fix(tooltip): restore negative and informative semantic variants,https://github.com/adobe/spectrum-css/pull/3641,2025-03-25T17:39:25Z,2025-04-02T15:43:41Z,6,3,MERGED
+spectrum-css,test(checkbox): add more coverage for checkbox,https://github.com/adobe/spectrum-css/pull/3625,2025-03-14T18:54:27Z,2025-03-19T16:33:33Z,5,2,MERGED
+spectrum-css,fix(checkbox): corrects invalid+checked+hover background color,https://github.com/adobe/spectrum-css/pull/3617,2025-03-12T14:33:31Z,2025-03-19T17:51:26Z,8,1,MERGED
+spectrum-css,fix(infield-button): updated border color for disabled state,https://github.com/adobe/spectrum-css/pull/3615,2025-03-12T07:17:59Z,2025-04-09T14:30:18Z,7,1,MERGED
+spectrum-css,fix(slider): corrects contrast bug caused by template default arg,https://github.com/adobe/spectrum-css/pull/3614,2025-03-11T13:25:07Z,2025-03-12T22:20:22Z,7,1,MERGED
+spectrum-css,fix(slider): offset variant border radius bug fix,https://github.com/adobe/spectrum-css/pull/3611,2025-03-10T18:45:05Z,2025-03-14T16:16:37Z,4,2,MERGED
+spectrum-css,feat(actionbutton): use closer to s2 colors in spectrum-two theme,https://github.com/adobe/spectrum-css/pull/3606,2025-03-05T22:15:24Z,2025-03-11T20:18:49Z,6,4,MERGED
+spectrum-css,fix(modal): change modal background color to transparent,https://github.com/adobe/spectrum-css/pull/3604,2025-03-05T19:31:00Z,2025-03-11T16:13:31Z,7,4,MERGED
+spectrum-css,fix(button): adjust static primary outline button border colors,https://github.com/adobe/spectrum-css/pull/3600,2025-03-04T20:02:19Z,2025-03-05T16:45:02Z,3,1,MERGED
+spectrum-css,fix(readme): corrects path to css illutration png in readme,https://github.com/adobe/spectrum-css/pull/3597,2025-03-04T15:54:57Z,2025-03-04T16:04:43Z,3,1,MERGED
+spectrum-css,fix(readme): corrects path to css illutration png in readme,https://github.com/adobe/spectrum-css/pull/3596,2025-03-04T00:09:26Z,2025-03-04T15:20:34Z,3,1,MERGED
+spectrum-css,chore(menu): remove keyboard focus outline in spectrum-two,https://github.com/adobe/spectrum-css/pull/3595,2025-03-03T07:01:04Z,2025-03-04T14:29:59Z,7,1,CLOSED
+spectrum-css,fix(search): update disabled state in spectrum two,https://github.com/adobe/spectrum-css/pull/3593,2025-03-03T06:37:24Z,2025-03-12T19:53:28Z,10,3,MERGED
+spectrum-css,feat(menu): spectrum 2 migration,https://github.com/adobe/spectrum-css/pull/3686,2025-04-30T22:07:02Z,2025-05-14T19:48:19Z,20,28,MERGED
+spectrum-css,feat(combobox): adding new s2 migration,https://github.com/adobe/spectrum-css/pull/3683,2025-04-23T16:24:46Z,2025-06-02T12:43:30Z,41,44,MERGED
+spectrum-css,feat(tag): migrate to S2,https://github.com/adobe/spectrum-css/pull/3682,2025-04-22T21:33:53Z,2025-05-12T18:21:52Z,46,18,MERGED
+spectrum-css,feat(stepper): s2 number field/stepper migration,https://github.com/adobe/spectrum-css/pull/3681,2025-04-21T18:20:23Z,2025-05-08T21:12:12Z,34,24,MERGED
+spectrum-css,feat(tokens): integrate light-dark,https://github.com/adobe/spectrum-css/pull/3672,2025-04-16T13:40:55Z,2025-09-16T16:11:39Z,91,2,CLOSED
+spectrum-css,"chore(combobox, datepicker,et all): add displayLabel arg",https://github.com/adobe/spectrum-css/pull/3660,2025-04-08T19:54:54Z,2025-04-28T18:28:53Z,4,3,MERGED
+spectrum-css,feat(in-line-alert): S2 migration,https://github.com/adobe/spectrum-css/pull/3659,2025-04-08T16:12:16Z,2025-05-01T19:04:30Z,37,23,MERGED
+spectrum-css,fix: reduce excess stylelint warnings from bundle module,https://github.com/adobe/spectrum-css/pull/3655,2025-04-03T14:16:02Z,2025-04-15T15:09:24Z,8,4,MERGED
+spectrum-css,chore(storybook): add migrated components list,https://github.com/adobe/spectrum-css/pull/3745,2025-05-15T21:38:36Z,2025-08-21T21:00:36Z,17,9,CLOSED
+spectrum-css,feat(badge): S2 migration,https://github.com/adobe/spectrum-css/pull/3740,2025-05-15T19:33:06Z,2025-05-19T14:53:02Z,4,7,MERGED
+spectrum-css,docs: add storybook migrated badge,https://github.com/adobe/spectrum-css/pull/3690,2025-05-02T18:04:12Z,2025-05-05T20:15:03Z,6,2,MERGED
+spectrum-css,chore(popover): fix dismissible spelling,https://github.com/adobe/spectrum-css/pull/3689,2025-05-02T17:33:39Z,2025-05-05T16:22:58Z,4,1,MERGED
+spectrum-css,refactor(dialog): add more header flexibility,https://github.com/adobe/spectrum-css/pull/4000,2025-06-26T17:59:52Z,2025-07-10T15:01:55Z,8,6,MERGED
+spectrum-css,fix(popover): implement missing border width custom property,https://github.com/adobe/spectrum-css/pull/3995,2025-06-25T19:50:43Z,2025-06-26T17:10:00Z,4,1,MERGED
+spectrum-css,"feat(icon, ui-icons): add missing linkout icon",https://github.com/adobe/spectrum-css/pull/3988,2025-06-24T19:31:57Z,2025-06-27T17:25:48Z,5,3,MERGED
+spectrum-css,"feat(meter): s2 migration, full corner radius, help text",https://github.com/adobe/spectrum-css/pull/3968,2025-06-18T16:08:54Z,2025-06-27T05:27:01Z,33,13,MERGED
+spectrum-css,feat(taggroup): spectrum 2 migration,https://github.com/adobe/spectrum-css/pull/3966,2025-06-18T02:04:25Z,2025-06-26T23:24:22Z,22,5,MERGED
+spectrum-css,fix(popover): restores drop shadow for nested popovers,https://github.com/adobe/spectrum-css/pull/3965,2025-06-17T18:02:37Z,2025-06-25T20:14:31Z,8,4,MERGED
+spectrum-css,"fix(progress-bar + meter): Adjust progressbar styles, story and template to support proper width token and sizes for medium and large variants",https://github.com/adobe/spectrum-css/pull/3908,2025-06-05T23:20:29Z,2025-06-10T21:49:09Z,10,5,MERGED
+spectrum-css,feat(menu): S2 menu fast follows,https://github.com/adobe/spectrum-css/pull/4058,2025-07-24T14:19:06Z,2025-07-31T18:16:03Z,11,13,MERGED
+spectrum-css,feat(accordion): add direct actions,https://github.com/adobe/spectrum-css/pull/4020,2025-07-09T20:47:45Z,2025-07-29T17:54:21Z,13,9,MERGED
+spectrum-css,docs(storybook): add documentation to filter s2 components,https://github.com/adobe/spectrum-css/pull/4155,2025-08-25T15:24:11Z,2025-08-25T19:10:48Z,3,1,MERGED
+spectrum-css,fix(accordion): clean up spacing issues,https://github.com/adobe/spectrum-css/pull/4139,2025-08-18T16:31:29Z,2025-08-28T17:42:47Z,10,7,MERGED
+spectrum-css,fix(card): reimplement correct block size,https://github.com/adobe/spectrum-css/pull/4137,2025-08-18T13:08:42Z,2025-08-18T18:32:17Z,3,2,MERGED
+spectrum-css,feat(search): collapsed search ,https://github.com/adobe/spectrum-css/pull/4115,2025-08-06T20:25:27Z,2025-08-15T16:49:24Z,6,12,MERGED

@@ -1,0 +1,210 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+semi-design,feat(tabs): tabs add closable  function,https://github.com/DouyinFE/semi-design/pull/132,2021-10-29T12:36:50Z,2021-11-08T03:43:52Z,9,8,MERGED
+semi-design,fix(inputnumber): editor api syntax hint error #327,https://github.com/DouyinFE/semi-design/pull/330,2021-11-29T08:39:26Z,2021-11-29T10:16:00Z,2,1,MERGED
+semi-design,docs(table): use function component and add some notice,https://github.com/DouyinFE/semi-design/pull/315,2021-11-24T13:33:52Z,2021-11-26T08:49:44Z,1,2,MERGED
+semi-design,docs(darkmode): add demo and Timeline content add color scss variable,https://github.com/DouyinFE/semi-design/pull/313,2021-11-24T06:59:39Z,2021-11-25T03:30:25Z,3,1,MERGED
+semi-design,fix: 修复collapsible组件展开样式,https://github.com/DouyinFE/semi-design/pull/267,2021-11-14T02:07:34Z,2021-11-25T12:37:21Z,7,1,MERGED
+semi-design,fix(table): resolve align bug when all columns do not have width,https://github.com/DouyinFE/semi-design/pull/247,2021-11-10T07:50:50Z,2021-11-10T09:21:54Z,2,1,MERGED
+semi-design,chore(codesandbox): add codesandbox ci,https://github.com/DouyinFE/semi-design/pull/197,2021-11-04T08:39:33Z,2021-11-29T08:13:43Z,2,1,MERGED
+semi-design,fix: 修复collapsible组件展开样式,https://github.com/DouyinFE/semi-design/pull/176,2021-11-02T13:30:29Z,2021-11-04T07:35:25Z,1,1,CLOSED
+semi-design,docs: 文档底部链接使用新窗口打开方式,https://github.com/DouyinFE/semi-design/pull/175,2021-11-02T13:08:17Z,2021-11-04T02:48:07Z,0,1,MERGED
+semi-design,docs(table): add zebra stripped demo,https://github.com/DouyinFE/semi-design/pull/167,2021-11-02T09:05:35Z,2021-11-04T03:06:39Z,2,2,MERGED
+semi-design,fix(table): remove measure scrollbar column and use overflow scroll t…,https://github.com/DouyinFE/semi-design/pull/164,2021-11-02T08:27:26Z,2021-11-10T06:12:32Z,3,1,MERGED
+semi-design,docs(readme): add cypress badge,https://github.com/DouyinFE/semi-design/pull/468,2021-12-29T03:37:34Z,2021-12-29T11:28:58Z,3,1,MERGED
+semi-design,fix(datepicker): input value is back to confirmed value bug #457,https://github.com/DouyinFE/semi-design/pull/467,2021-12-27T09:17:21Z,2021-12-29T11:20:46Z,5,1,MERGED
+semi-design,test: cypress init,https://github.com/DouyinFE/semi-design/pull/466,2021-12-27T04:06:51Z,2021-12-27T09:34:26Z,6,1,MERGED
+semi-design,fix(datepicker): dateRange triggerRender close panel bug #410,https://github.com/DouyinFE/semi-design/pull/448,2021-12-22T08:07:10Z,2021-12-30T03:42:54Z,3,1,MERGED
+semi-design,"fix: [select] using backspace to delete will cause the option to be invisible, close #444",https://github.com/DouyinFE/semi-design/pull/445,2021-12-21T10:07:20Z,2021-12-21T10:34:33Z,1,1,MERGED
+semi-design,feat: allowCreate时，传入不存在的value时，自动创建option,https://github.com/DouyinFE/semi-design/pull/429,2021-12-16T08:37:57Z,2021-12-17T09:19:50Z,2,1,CLOSED
+semi-design,feat: a11y - improve tooltip、popover aria #205,https://github.com/DouyinFE/semi-design/pull/425,2021-12-15T10:44:31Z,2021-12-27T07:58:23Z,3,3,MERGED
+semi-design,feat(a11y): progress aria #205,https://github.com/DouyinFE/semi-design/pull/414,2021-12-14T08:23:30Z,2021-12-14T08:43:01Z,1,2,MERGED
+semi-design,style: fix timeline custom dot props not align,https://github.com/DouyinFE/semi-design/pull/395,2021-12-11T12:07:58Z,2021-12-14T12:43:20Z,8,2,MERGED
+semi-design,fix(rating): allowhalf ui error when parent element set line-height,https://github.com/DouyinFE/semi-design/pull/355,2021-12-02T12:49:01Z,2021-12-03T05:46:38Z,2,1,MERGED
+semi-design,fix(inputnumber): button right click bug,https://github.com/DouyinFE/semi-design/pull/540,2022-01-17T04:04:30Z,2022-01-25T03:40:25Z,5,1,MERGED
+semi-design,fix: avoid forceUpdate call when batchUpdate by formApi.setValue/setE…,https://github.com/DouyinFE/semi-design/pull/517,2022-01-07T08:43:12Z,2022-01-07T10:59:49Z,3,1,MERGED
+semi-design,feat(datepicker): support inlineInput API #294,https://github.com/DouyinFE/semi-design/pull/672,2022-02-28T08:47:16Z,2022-03-18T09:29:32Z,5,1,MERGED
+semi-design,style: a11y theme update,https://github.com/DouyinFE/semi-design/pull/661,2022-02-24T11:59:58Z,2022-03-04T07:14:51Z,2,1,MERGED
+semi-design,fix: (nav) limitIndent should not work when collapsed,https://github.com/DouyinFE/semi-design/pull/594,2022-02-08T12:22:28Z,2022-02-10T07:17:34Z,3,1,MERGED
+semi-design,fix(datepicker): fixed DatePicker defaultPickerValue given number pan…,https://github.com/DouyinFE/semi-design/pull/739,2022-03-30T04:04:28Z,2022-04-01T07:35:40Z,5,1,MERGED
+semi-design,fix(button): fixed button focus style when clicked,https://github.com/DouyinFE/semi-design/pull/730,2022-03-28T06:11:57Z,2022-03-30T06:41:00Z,3,1,MERGED
+semi-design,fix: (InputNumber) value be formated when precision is set and defaultvalue is empty,https://github.com/DouyinFE/semi-design/pull/728,2022-03-26T13:30:29Z,2022-04-01T08:02:14Z,5,4,CLOSED
+semi-design,feat(a11y): popover keyboard,https://github.com/DouyinFE/semi-design/pull/725,2022-03-25T08:10:27Z,2022-04-01T02:56:19Z,12,2,MERGED
+semi-design,feat: tagGroup add restCount; select renderMultiple use restCount to …,https://github.com/DouyinFE/semi-design/pull/717,2022-03-23T10:19:02Z,2022-03-25T04:20:33Z,2,1,MERGED
+semi-design,Fix button dts,https://github.com/DouyinFE/semi-design/pull/691,2022-03-08T07:59:46Z,2022-03-08T08:13:33Z,3,1,MERGED
+semi-design,fix: issue #780,https://github.com/DouyinFE/semi-design/pull/783,2022-04-21T03:39:55Z,2022-04-21T04:47:16Z,2,1,MERGED
+semi-design,Fix avatar position,https://github.com/DouyinFE/semi-design/pull/774,2022-04-18T06:48:22Z,2022-04-18T07:09:10Z,2,1,MERGED
+semi-design,"fix: update component types define, add children & add contextType, fix ts check error with @types/react v18",https://github.com/DouyinFE/semi-design/pull/771,2022-04-15T09:59:55Z,2022-04-19T07:56:22Z,12,9,MERGED
+semi-design,fix: validateStatus type check lack success,https://github.com/DouyinFE/semi-design/pull/746,2022-04-03T03:16:33Z,2022-04-13T03:56:45Z,2,1,MERGED
+semi-design,feat(datepicker): input range start and show it on panel #294,https://github.com/DouyinFE/semi-design/pull/742,2022-04-02T08:50:40Z,2022-05-17T14:40:00Z,7,3,MERGED
+semi-design,fix: (InputNumber) value be formated when precision is set and defaultvalue is empty,https://github.com/DouyinFE/semi-design/pull/741,2022-04-01T08:07:39Z,2022-04-02T02:12:12Z,4,1,MERGED
+semi-design,Fix react18 strict mode error,https://github.com/DouyinFE/semi-design/pull/843,2022-05-17T13:12:09Z,2022-05-17T14:37:35Z,2,4,MERGED
+semi-design,refactor: simplify some types,https://github.com/DouyinFE/semi-design/pull/838,2022-05-16T18:15:11Z,2022-05-23T02:54:56Z,1,1,MERGED
+semi-design,fix(popover): select in popover close bug #818,https://github.com/DouyinFE/semi-design/pull/822,2022-05-07T14:16:07Z,2022-05-09T09:18:34Z,2,1,MERGED
+semi-design,feat: add faq to tabs doc,https://github.com/DouyinFE/semi-design/pull/816,2022-05-06T04:25:20Z,2022-05-06T08:04:43Z,2,1,MERGED
+semi-design,fix: InputNumber return default value when entry illegal character wi…,https://github.com/DouyinFE/semi-design/pull/810,2022-05-05T02:03:07Z,2022-05-06T11:21:25Z,5,1,MERGED
+semi-design,"style: change large size fontsize 14px -> 16px, effect select,treesel…",https://github.com/DouyinFE/semi-design/pull/932,2022-06-28T08:07:16Z,2022-06-28T08:15:32Z,1,1,MERGED
+semi-design,Combine Test code coverage,https://github.com/DouyinFE/semi-design/pull/931,2022-06-28T03:56:00Z,2022-06-28T06:26:54Z,2,4,MERGED
+semi-design,style: fix TagInput suffix color,https://github.com/DouyinFE/semi-design/pull/928,2022-06-27T10:31:28Z,2022-06-27T10:41:59Z,1,1,MERGED
+semi-design,"style: update --semi-color-secondary global style, Button,Badge,Dropd…",https://github.com/DouyinFE/semi-design/pull/922,2022-06-24T09:50:34Z,2022-06-27T08:54:31Z,1,1,MERGED
+semi-design,"style: update darkmode text color of upload/modal/tabs, update timepi…",https://github.com/DouyinFE/semi-design/pull/911,2022-06-20T07:24:11Z,2022-06-20T08:05:56Z,1,1,MERGED
+semi-design,Feat/a11y input 2,https://github.com/DouyinFE/semi-design/pull/906,2022-06-17T15:02:32Z,2022-06-28T06:55:01Z,3,2,MERGED
+semi-design,chore: add eslint-plugin-semi-design,https://github.com/DouyinFE/semi-design/pull/886,2022-06-05T15:03:05Z,2022-06-06T06:36:04Z,2,2,MERGED
+semi-design,"fix(switch): 解决点击 switch 边缘无法触发 change 的问题, resolve #992",https://github.com/DouyinFE/semi-design/pull/1006,2022-07-31T05:41:10Z,2022-08-01T07:21:03Z,2,1,MERGED
+semi-design,Fix ts error when using ref in Form.Field component,https://github.com/DouyinFE/semi-design/pull/959,2022-07-11T10:35:01Z,2022-07-11T10:43:23Z,1,1,MERGED
+semi-design,fix: [cascader] Fix the display error of single selection,https://github.com/DouyinFE/semi-design/pull/957,2022-07-11T02:58:07Z,2022-07-11T09:49:18Z,2,1,MERGED
+semi-design,fix(list): list empty padding,https://github.com/DouyinFE/semi-design/pull/954,2022-07-08T05:15:39Z,2022-07-11T09:13:42Z,3,1,MERGED
+semi-design,feat: support preventScroll to focus methods,https://github.com/DouyinFE/semi-design/pull/953,2022-07-07T12:53:46Z,2022-07-11T07:47:45Z,1,2,MERGED
+semi-design,fix: TreeSelect and Transfer CheckboxGroup row-gap bug #1073,https://github.com/DouyinFE/semi-design/pull/1084,2022-08-31T10:16:54Z,2022-08-31T11:50:29Z,1,1,MERGED
+semi-design,fix: make collapse icon fixed to avoid the collapse tabs flush in some width,https://github.com/DouyinFE/semi-design/pull/1067,2022-08-25T12:45:19Z,2022-08-26T09:02:29Z,1,3,MERGED
+semi-design,refactor: button group line,https://github.com/DouyinFE/semi-design/pull/1065,2022-08-25T12:38:50Z,2022-08-30T10:41:17Z,3,2,MERGED
+semi-design,"feat: popconfirm onOk,onCancel support promise return, async close, c…",https://github.com/DouyinFE/semi-design/pull/1059,2022-08-24T07:17:49Z,2022-08-29T03:21:29Z,2,5,MERGED
+semi-design,[Feat] Support auto append form label optional text,https://github.com/DouyinFE/semi-design/pull/1049,2022-08-22T07:36:37Z,2022-08-23T08:00:31Z,5,6,MERGED
+semi-design,"fix: tabs collapse will flush in some screen width, close 1039",https://github.com/DouyinFE/semi-design/pull/1042,2022-08-17T08:00:05Z,2022-08-23T07:58:54Z,3,3,CLOSED
+semi-design,fix(input): 修复 windows edge 浏览器 password input 默认 icon 的问题,https://github.com/DouyinFE/semi-design/pull/1011,2022-08-02T16:53:53Z,2022-08-04T09:25:05Z,8,1,MERGED
+semi-design,"fix: ButtonGroup `Each child in a list should have a unique ""key"" prop`",https://github.com/DouyinFE/semi-design/pull/1154,2022-09-27T09:26:40Z,2022-09-27T14:10:25Z,4,3,MERGED
+semi-design,chore: add export type keyword for interface,https://github.com/DouyinFE/semi-design/pull/1143,2022-09-23T06:26:40Z,2022-09-23T06:30:43Z,1,1,MERGED
+semi-design,fix: [Button] Fix ButtonGroup does not support style,https://github.com/DouyinFE/semi-design/pull/1138,2022-09-22T11:29:44Z,2022-09-23T10:11:42Z,3,2,MERGED
+semi-design,fix: [tagGroup] Fix the problem of tagGroup polluting incoming data,https://github.com/DouyinFE/semi-design/pull/1108,2022-09-06T13:27:02Z,2022-09-09T08:29:11Z,2,4,MERGED
+semi-design,feat: [progress] Auto-fill gradient colors & custom colors according to progress,https://github.com/DouyinFE/semi-design/pull/1105,2022-09-06T06:05:13Z,2022-09-14T09:55:40Z,11,9,MERGED
+semi-design,docs: change complex api type show,https://github.com/DouyinFE/semi-design/pull/1089,2022-09-01T11:43:30Z,2022-09-01T11:47:09Z,1,1,MERGED
+semi-design,feat: disabledDate add rangeInputFocus to second params,https://github.com/DouyinFE/semi-design/pull/1198,2022-10-17T13:33:51Z,2022-10-24T08:22:45Z,2,2,MERGED
+semi-design,Style:  Update select option list padding,https://github.com/DouyinFE/semi-design/pull/1178,2022-10-11T08:55:00Z,2022-10-11T10:52:37Z,2,3,MERGED
+semi-design,fix: [AutoComplete] Fix AutoComplete e.target is null in onBlur callback,https://github.com/DouyinFE/semi-design/pull/1171,2022-10-09T13:15:10Z,2022-10-10T03:13:55Z,1,1,MERGED
+semi-design,feat: [Typography] Add <Numeral /> component for number formatting,https://github.com/DouyinFE/semi-design/pull/1168,2022-10-07T12:07:26Z,2022-10-25T08:06:34Z,5,19,MERGED
+semi-design,fix: long content in fixed width tag,https://github.com/DouyinFE/semi-design/pull/1302,2022-11-25T06:15:51Z,2022-12-06T10:11:06Z,3,5,MERGED
+semi-design,fix: fix the problem when trigger be blocked the wrapper did not offset,https://github.com/DouyinFE/semi-design/pull/1297,2022-11-23T07:33:49Z,2022-11-23T08:04:10Z,1,2,MERGED
+semi-design,fix(TimePicker): remove console.log,https://github.com/DouyinFE/semi-design/pull/1283,2022-11-18T17:30:53Z,2022-11-21T06:19:10Z,2,1,MERGED
+semi-design,Fix form token extra,https://github.com/DouyinFE/semi-design/pull/1272,2022-11-15T07:33:45Z,2022-11-15T07:39:43Z,1,2,MERGED
+semi-design,Feat field props name,https://github.com/DouyinFE/semi-design/pull/1266,2022-11-14T11:05:50Z,2022-11-21T06:16:08Z,3,3,MERGED
+semi-design,style: [tagInput] Modify the height of Input in TagInput,https://github.com/DouyinFE/semi-design/pull/1263,2022-11-14T04:02:43Z,2022-11-14T11:34:00Z,2,1,MERGED
+semi-design,fix: [Transfer] Fixed Transfer in Popover causing Popover to close wh…,https://github.com/DouyinFE/semi-design/pull/1247,2022-11-09T07:45:14Z,2022-11-11T05:46:51Z,2,1,MERGED
+semi-design,fix: [Select] Fix the problem that there is still a drop-down box whe…,https://github.com/DouyinFE/semi-design/pull/1340,2022-12-16T04:12:12Z,2022-12-19T04:13:15Z,2,1,MERGED
+semi-design,fix: [TagInput] Fix the wrong style of TagInput when it is draggable,https://github.com/DouyinFE/semi-design/pull/1339,2022-12-15T09:07:58Z,2022-12-19T06:17:21Z,1,2,MERGED
+semi-design,fix: Fix the problem that the same id in multiple svgs causes incorre…,https://github.com/DouyinFE/semi-design/pull/1337,2022-12-14T10:26:11Z,2022-12-15T07:24:58Z,2,1,MERGED
+semi-design,fix: [TreeSelect] Fix TypeError in TreeSelect when checkRelation = un…,https://github.com/DouyinFE/semi-design/pull/1330,2022-12-07T09:27:49Z,2022-12-19T11:21:52Z,3,5,MERGED
+semi-design,fix: [DatePicker] range type ui shift bug #1221,https://github.com/DouyinFE/semi-design/pull/1398,2023-01-31T03:28:22Z,2023-01-31T06:11:41Z,3,1,MERGED
+semi-design,"fix: When the tooltip is blocked on the right side, the floating layer floats to the left side of the viewport",https://github.com/DouyinFE/semi-design/pull/1450,2023-02-23T01:46:49Z,2023-02-23T03:24:02Z,2,1,MERGED
+semi-design,Docs/add d2c,https://github.com/DouyinFE/semi-design/pull/1426,2023-02-13T11:20:28Z,2023-02-17T06:27:12Z,2,3,MERGED
+semi-design,fix: change table bg color to fit dark mode,https://github.com/DouyinFE/semi-design/pull/1418,2023-02-08T07:04:05Z,2023-02-10T02:38:01Z,1,1,MERGED
+semi-design,"Form.InputGroup support extraText, extraTextPosition",https://github.com/DouyinFE/semi-design/pull/1407,2023-02-03T07:19:04Z,2023-02-03T07:26:43Z,1,1,MERGED
+semi-design,fix: [DatePicker] fixed input date not show panel bug #1398,https://github.com/DouyinFE/semi-design/pull/1406,2023-02-02T12:32:49Z,2023-02-03T08:09:02Z,1,1,MERGED
+semi-design,fix: select onSearch add event param to detech operation origin,https://github.com/DouyinFE/semi-design/pull/1485,2023-03-14T12:03:24Z,2023-03-17T06:28:16Z,3,3,MERGED
+semi-design,"feat: DatePicker support onClickOutside, open, close methods",https://github.com/DouyinFE/semi-design/pull/1470,2023-03-07T03:05:28Z,2023-03-20T08:45:56Z,7,4,MERGED
+semi-design,"fix: radioGroup add vertical-align, close #1573",https://github.com/DouyinFE/semi-design/pull/1574,2023-04-25T07:37:48Z,2023-04-25T08:37:03Z,3,2,MERGED
+semi-design,Fix/month calendar,https://github.com/DouyinFE/semi-design/pull/1571,2023-04-24T05:17:05Z,2023-04-24T07:31:36Z,1,4,MERGED
+semi-design,style: Fix the style error when icon and text exist at the same time …,https://github.com/DouyinFE/semi-design/pull/1570,2023-04-24T03:58:33Z,2023-04-24T08:07:26Z,1,2,MERGED
+semi-design,"fix: timepicker rangeType error when select endTime first, close #1563",https://github.com/DouyinFE/semi-design/pull/1565,2023-04-20T12:47:53Z,2023-04-25T08:39:03Z,2,1,MERGED
+semi-design,fix: Table indent bug when hideExpandedColumn is false #1556,https://github.com/DouyinFE/semi-design/pull/1564,2023-04-20T12:21:04Z,2023-04-20T12:51:07Z,1,1,MERGED
+semi-design,fix: add stopPropagation to focus and blur event in tooltip portal,https://github.com/DouyinFE/semi-design/pull/1559,2023-04-19T03:22:12Z,2023-04-21T06:22:35Z,3,1,MERGED
+semi-design,Feat: Table column supports ellipsis and update word-break style,https://github.com/DouyinFE/semi-design/pull/1551,2023-04-14T09:42:00Z,2023-04-25T08:39:10Z,1,1,MERGED
+semi-design,Fix prefixCls not work when using common js lib,https://github.com/DouyinFE/semi-design/pull/1544,2023-04-07T10:47:56Z,2023-04-12T06:13:44Z,2,6,MERGED
+semi-design,fix: fixed disabledDate rangeStart and rangeEnd cached bug #777,https://github.com/DouyinFE/semi-design/pull/1535,2023-04-04T11:47:21Z,2023-04-11T09:38:26Z,1,2,MERGED
+semi-design,fix: calendar range mode,https://github.com/DouyinFE/semi-design/pull/1624,2023-05-23T08:40:40Z,2023-05-25T12:39:41Z,2,2,MERGED
+semi-design,fix: Table onChange filters is empty when onFilter is not passing #1572,https://github.com/DouyinFE/semi-design/pull/1619,2023-05-19T11:06:43Z,2023-05-26T07:48:35Z,1,1,MERGED
+semi-design,feat: Nav add Footer onClick & expandIcon,https://github.com/DouyinFE/semi-design/pull/1618,2023-05-19T09:34:17Z,2023-05-22T10:49:19Z,1,1,MERGED
+semi-design,fix: timepicker under timezone and controll get the wrong time after select in panel in 1.3.8 date-fns-tz,https://github.com/DouyinFE/semi-design/pull/1617,2023-05-19T09:33:16Z,2023-05-22T10:50:03Z,1,1,MERGED
+semi-design,fix: Table column align bug #1599,https://github.com/DouyinFE/semi-design/pull/1614,2023-05-19T06:31:18Z,2023-05-19T09:55:32Z,1,1,MERGED
+semi-design,feat: [Calendar] add allDayEventsRender and renderDateDisplay,https://github.com/DouyinFE/semi-design/pull/1607,2023-05-15T07:26:43Z,2023-05-22T10:48:50Z,1,5,MERGED
+semi-design,Fix search input icon,https://github.com/DouyinFE/semi-design/pull/1598,2023-05-09T03:12:30Z,2023-05-09T03:12:59Z,1,2,MERGED
+semi-design,"fix(auto-complete): Long press the candidate dropdown box to disappear and not select it, and sometimes `onSelect` is not triggered when short press",https://github.com/DouyinFE/semi-design/pull/1666,2023-06-15T19:50:34Z,2023-06-30T08:37:07Z,4,2,CLOSED
+semi-design,fix: refresh thumb pic when beforeUpload update fileInstance,https://github.com/DouyinFE/semi-design/pull/1656,2023-06-09T07:50:34Z,2023-06-09T07:51:34Z,0,1,MERGED
+semi-design,chore: udpate ci lerna version,https://github.com/DouyinFE/semi-design/pull/1654,2023-06-09T04:12:15Z,2023-06-09T07:48:22Z,2,1,MERGED
+semi-design,fix: fixed Cascader disabled tag bg color,https://github.com/DouyinFE/semi-design/pull/1651,2023-06-07T04:08:23Z,2023-06-30T07:23:16Z,2,1,MERGED
+semi-design,feat: DatePicker insetInput support clear icon #1638,https://github.com/DouyinFE/semi-design/pull/1639,2023-06-01T13:52:33Z,2023-06-05T03:24:43Z,2,1,MERGED
+semi-design,style: remove unnessary margin for Button,https://github.com/DouyinFE/semi-design/pull/1732,2023-07-26T08:00:04Z,2023-07-28T06:08:42Z,3,1,MERGED
+semi-design,feat: [Image]  renderPreviewMenu API of Image supports menuItem param…,https://github.com/DouyinFE/semi-design/pull/1718,2023-07-20T09:41:19Z,2023-07-24T07:16:09Z,3,9,MERGED
+semi-design,Fix eslint in file,https://github.com/DouyinFE/semi-design/pull/1706,2023-07-14T09:55:31Z,2023-07-18T08:50:15Z,3,10,MERGED
+semi-design,"fix: some project can't resolve animation.scss with pnpm, lost animat…",https://github.com/DouyinFE/semi-design/pull/1704,2023-07-14T08:03:19Z,2023-07-14T08:12:09Z,1,1,MERGED
+semi-design,fix: remove flex-wrap from Checkbox,https://github.com/DouyinFE/semi-design/pull/1700,2023-07-11T09:06:34Z,2023-07-11T11:19:04Z,2,1,MERGED
+semi-design,feat: update Radio content row-gap from 0 to 4px,https://github.com/DouyinFE/semi-design/pull/1699,2023-07-11T09:03:29Z,2023-07-24T06:41:16Z,4,1,MERGED
+semi-design,Remove switch disable transform x  animation,https://github.com/DouyinFE/semi-design/pull/1697,2023-07-11T08:51:10Z,2023-07-11T08:55:06Z,1,6,MERGED
+semi-design,docs: Add instructions for the ellipsis parameter of typography & add…,https://github.com/DouyinFE/semi-design/pull/1789,2023-08-28T14:40:00Z,2023-09-01T08:33:15Z,1,1,MERGED
+semi-design,"feat: upload add picHeight, picWidth, close #1757",https://github.com/DouyinFE/semi-design/pull/1773,2023-08-18T09:26:45Z,2023-08-18T09:36:28Z,1,2,MERGED
+semi-design,Fix upload preview fallback,https://github.com/DouyinFE/semi-design/pull/1771,2023-08-18T06:28:26Z,2023-08-18T09:47:50Z,3,3,MERGED
+semi-design,feat: upgrade react-resizable from v1 to v3,https://github.com/DouyinFE/semi-design/pull/1768,2023-08-16T09:52:14Z,2023-08-17T02:44:30Z,2,1,MERGED
+semi-design,fix: fixed InputNumber formatter bug in controlled mode #1672,https://github.com/DouyinFE/semi-design/pull/1767,2023-08-16T09:14:15Z,2023-08-21T07:02:11Z,3,1,MERGED
+semi-design,Feat/semi icons lab,https://github.com/DouyinFE/semi-design/pull/1837,2023-09-20T14:09:41Z,2023-09-21T03:58:58Z,5,1,MERGED
+semi-design,Feat tag icon,https://github.com/DouyinFE/semi-design/pull/1832,2023-09-15T03:51:40Z,2023-09-15T07:18:27Z,5,3,MERGED
+semi-design,"style: popconfirm icon=null, remove marginLeft",https://github.com/DouyinFE/semi-design/pull/1828,2023-09-13T10:15:41Z,2023-09-14T03:29:48Z,2,1,MERGED
+semi-design,fix: popover trigger set,https://github.com/DouyinFE/semi-design/pull/1820,2023-09-09T05:25:39Z,2023-09-11T02:40:09Z,2,1,MERGED
+semi-design,fix: fixed Table onMouseLeave callback bug,https://github.com/DouyinFE/semi-design/pull/1794,2023-09-01T03:28:14Z,2023-09-01T03:36:27Z,1,1,MERGED
+semi-design,fix: issues 1560 Wrong number of tags after selection under ellipsisTrigger,https://github.com/DouyinFE/semi-design/pull/1859,2023-10-16T09:32:26Z,2023-10-18T06:38:26Z,1,1,MERGED
+semi-design,"fix: select group option without key, filter error after v2.46",https://github.com/DouyinFE/semi-design/pull/1939,2023-11-28T07:14:21Z,2023-11-28T09:11:07Z,2,3,MERGED
+semi-design,fix: select option never use key in jsx declare usage,https://github.com/DouyinFE/semi-design/pull/1889,2023-11-01T03:29:18Z,2023-11-01T05:58:12Z,6,2,MERGED
+semi-design,feat: Table column support sortIcon,https://github.com/DouyinFE/semi-design/pull/1990,2023-12-22T08:50:16Z,2023-12-25T06:50:26Z,3,1,MERGED
+semi-design,fix: fix vertical basic step style error after setting box-sizing to …,https://github.com/DouyinFE/semi-design/pull/1984,2023-12-20T07:35:46Z,2023-12-25T06:43:12Z,3,1,MERGED
+semi-design,Feat lab icon,https://github.com/DouyinFE/semi-design/pull/1956,2023-12-01T08:40:05Z,2023-12-01T09:23:20Z,3,8,MERGED
+semi-design,Fix/cascader rendertrigger,https://github.com/DouyinFE/semi-design/pull/2051,2024-01-29T03:13:41Z,2024-01-31T12:11:55Z,4,4,MERGED
+semi-design,chore: add type import utility-type,https://github.com/DouyinFE/semi-design/pull/2044,2024-01-25T03:22:45Z,2024-01-25T03:41:22Z,2,1,MERGED
+semi-design,Fix/cascader search,https://github.com/DouyinFE/semi-design/pull/2030,2024-01-19T05:18:12Z,2024-02-06T08:03:08Z,6,3,MERGED
+semi-design,fix: fix onclose/onPreivew call twice when click the edge of closeIcon,https://github.com/DouyinFE/semi-design/pull/2027,2024-01-18T07:33:09Z,2024-01-19T06:04:03Z,4,3,MERGED
+semi-design,Style/image preview z index,https://github.com/DouyinFE/semi-design/pull/2021,2024-01-12T09:37:00Z,2024-01-12T09:56:48Z,2,2,MERGED
+semi-design,fix: Fix the typeError problem in Cascader when autoMerge is false an…,https://github.com/DouyinFE/semi-design/pull/2017,2024-01-10T04:44:08Z,2024-01-12T06:54:39Z,3,1,MERGED
+semi-design,style: Fixed incorrect font-weight of the active item in breadcrumb d…,https://github.com/DouyinFE/semi-design/pull/2008,2024-01-04T03:48:50Z,2024-01-04T06:51:08Z,3,1,MERGED
+semi-design,fix: Badge proptypes define,https://github.com/DouyinFE/semi-design/pull/2091,2024-02-22T17:51:52Z,2024-02-23T10:01:06Z,2,1,MERGED
+semi-design,chore: cleanup vscode launch.json,https://github.com/DouyinFE/semi-design/pull/2069,2024-02-08T02:01:38Z,2024-02-08T03:39:40Z,1,1,MERGED
+semi-design,FIX: 函数式组件下表单验证时默认的error为空对象无法通过验证的问题,https://github.com/DouyinFE/semi-design/pull/2141,2024-03-28T03:37:46Z,2024-04-02T11:45:27Z,3,2,CLOSED
+semi-design,fix: fixed Nav selectedKeys bug in react 17,https://github.com/DouyinFE/semi-design/pull/2115,2024-03-07T08:26:39Z,2024-03-11T08:17:07Z,2,2,MERGED
+semi-design,fix: controled select text will flash after search and select option,https://github.com/DouyinFE/semi-design/pull/2170,2024-04-15T06:53:58Z,2024-04-19T07:55:02Z,3,4,MERGED
+semi-design,Feat/modal content class,https://github.com/DouyinFE/semi-design/pull/2162,2024-04-10T13:13:28Z,2024-04-19T08:36:35Z,5,10,MERGED
+semi-design,"fix: select multiple filter, last line tag padding higher than other",https://github.com/DouyinFE/semi-design/pull/2151,2024-04-03T04:31:43Z,2024-04-03T07:09:34Z,4,7,MERGED
+semi-design,"[WIP] fix: select multiple filter, last line tag padding higher than other",https://github.com/DouyinFE/semi-design/pull/2150,2024-04-03T03:17:02Z,2024-04-03T06:26:13Z,4,2,CLOSED
+semi-design,"fix: fix type = button / card  RadioGroup style, close #1954, #2126",https://github.com/DouyinFE/semi-design/pull/2149,2024-04-02T08:27:35Z,2024-04-02T09:12:35Z,4,6,MERGED
+semi-design,fix: select option didn't pass data-* attribute,https://github.com/DouyinFE/semi-design/pull/2258,2024-05-29T03:56:03Z,2024-05-29T08:55:28Z,3,2,MERGED
+semi-design,chore: remove @douyinfe/semi-theme-default deps declare,https://github.com/DouyinFE/semi-design/pull/2252,2024-05-24T03:05:38Z,2024-05-24T03:48:36Z,3,1,MERGED
+semi-design,fix(tabs): The tab was not fully displayed when scrollIntoView,https://github.com/DouyinFE/semi-design/pull/2247,2024-05-20T13:48:15Z,2024-06-03T09:56:26Z,1,2,MERGED
+semi-design,chore: setValue ts interface support recur path,https://github.com/DouyinFE/semi-design/pull/2245,2024-05-20T10:16:02Z,2024-05-24T10:37:59Z,7,6,MERGED
+semi-design,feat: 显示所有选中节点(包括父节点),https://github.com/DouyinFE/semi-design/pull/2233,2024-05-11T14:51:31Z,2024-06-17T07:33:29Z,5,7,MERGED
+semi-design,fix: fix firfox/safari dark mode style error when use :host-context,https://github.com/DouyinFE/semi-design/pull/2229,2024-05-10T03:58:33Z,2024-05-10T04:00:58Z,1,1,MERGED
+semi-design,fix: Fixed the problem that icon size and size settings are not consi…,https://github.com/DouyinFE/semi-design/pull/2308,2024-06-19T02:53:39Z,2024-06-19T02:57:35Z,1,1,MERGED
+semi-design,Fix(Table): Resolved alignment issues during virtualization (#2267),https://github.com/DouyinFE/semi-design/pull/2300,2024-06-16T11:00:40Z,2024-06-18T02:52:18Z,4,1,MERGED
+semi-design,feat: select search position ,https://github.com/DouyinFE/semi-design/pull/2298,2024-06-14T08:00:32Z,2024-06-18T10:25:25Z,5,8,MERGED
+semi-design,feat: formApi add scrollToError,https://github.com/DouyinFE/semi-design/pull/2294,2024-06-12T11:38:03Z,2024-06-17T09:48:36Z,3,5,MERGED
+semi-design,feat: add tabs and overflowList some api,https://github.com/DouyinFE/semi-design/pull/2288,2024-06-07T10:32:22Z,2024-06-18T11:32:55Z,11,7,MERGED
+semi-design,fix: form labelAlign right not work when label with extra,https://github.com/DouyinFE/semi-design/pull/2281,2024-06-05T13:03:15Z,2024-06-05T13:08:12Z,1,1,MERGED
+semi-design,"fix: When the searchRender of the Tree is false, remove the excess pa…",https://github.com/DouyinFE/semi-design/pull/2386,2024-07-31T07:39:46Z,2024-08-05T07:40:49Z,2,1,MERGED
+semi-design,style: Fixed the problem that when Cascader has no options and the em…,https://github.com/DouyinFE/semi-design/pull/2377,2024-07-26T09:27:08Z,2024-07-26T09:32:22Z,1,1,MERGED
+semi-design,style: Fix the upload error icon of the Upload component. The effecti…,https://github.com/DouyinFE/semi-design/pull/2372,2024-07-26T03:10:08Z,2024-07-26T03:59:49Z,2,1,MERGED
+semi-design,"style: fix sass version >= 1.77.7, this use of declarations after nes…",https://github.com/DouyinFE/semi-design/pull/2370,2024-07-24T02:56:51Z,2024-07-26T04:04:40Z,5,2,MERGED
+semi-design,style: Fix the problem of wrong style of ButtonGroup with theme as ou…,https://github.com/DouyinFE/semi-design/pull/2328,2024-07-03T06:32:39Z,2024-07-05T06:08:30Z,3,2,MERGED
+semi-design,fix: fix markdownRender ui crash with standalone headings,https://github.com/DouyinFE/semi-design/pull/2436,2024-08-22T10:16:08Z,2024-08-23T08:48:49Z,1,1,MERGED
+semi-design,feat: Optimize table sorting hot spots,https://github.com/DouyinFE/semi-design/pull/2413,2024-08-15T07:14:06Z,2024-08-20T11:34:27Z,7,2,MERGED
+semi-design,feat: 日期选择x轴slot,https://github.com/DouyinFE/semi-design/pull/2409,2024-08-14T09:24:39Z,2024-08-20T12:07:57Z,1,3,MERGED
+semi-design,Try to lock vfile version to support @douyinfe/semi-ui > 2.62.0 preview in codesandbox ,https://github.com/DouyinFE/semi-design/pull/2516,2024-09-30T06:50:29Z,2024-09-30T06:50:42Z,3,6,CLOSED
+semi-design,fix: [Chat] Modify the problem that the picture will be deformed when…,https://github.com/DouyinFE/semi-design/pull/2496,2024-09-13T09:02:28Z,2024-09-14T03:33:51Z,3,1,MERGED
+semi-design,"fix: fix Selct, Cascader suffix icon style error",https://github.com/DouyinFE/semi-design/pull/2493,2024-09-12T12:54:27Z,2024-09-13T03:04:16Z,3,1,MERGED
+semi-design,fix: improve translate of datepicker in vi_vn,https://github.com/DouyinFE/semi-design/pull/2486,2024-09-12T03:30:09Z,2024-09-12T08:00:08Z,3,6,MERGED
+semi-design,"fix: upload addOnPasting can't work in Sidesheet, close #2478",https://github.com/DouyinFE/semi-design/pull/2480,2024-09-09T03:45:08Z,2024-09-09T09:06:39Z,2,13,MERGED
+semi-design,"Fix/cascader, TreeSelect emptyContent is null",https://github.com/DouyinFE/semi-design/pull/2476,2024-09-06T07:45:31Z,2024-09-18T13:25:32Z,3,3,MERGED
+semi-design,fix: [Cascader] fix trigger chevron_down icon style error & chevron_r…,https://github.com/DouyinFE/semi-design/pull/2475,2024-09-06T04:39:10Z,2024-09-13T03:39:16Z,4,2,MERGED
+semi-design,Style - select placeholder inactive,https://github.com/DouyinFE/semi-design/pull/2547,2024-10-28T07:59:01Z,2024-11-04T07:32:07Z,4,5,MERGED
+semi-design,fix: [TreeSelect] Fixed option text displays incorrectly when the exp…,https://github.com/DouyinFE/semi-design/pull/2541,2024-10-23T05:02:42Z,2024-10-23T06:10:39Z,3,1,MERGED
+semi-design,fix: fixed Table typings not work bug caused by react-window dependen…,https://github.com/DouyinFE/semi-design/pull/2534,2024-10-16T09:24:22Z,2024-10-16T09:39:19Z,3,1,MERGED
+semi-design,style: Fix select disabled focus style in hi theme,https://github.com/DouyinFE/semi-design/pull/2532,2024-10-16T06:27:00Z,2024-10-16T06:31:11Z,3,3,MERGED
+semi-design,fix: [Cascader] fix icon width error in option list pannel,https://github.com/DouyinFE/semi-design/pull/2529,2024-10-14T03:26:13Z,2024-10-14T07:06:51Z,3,1,MERGED
+semi-design,fix: fixed selected value does not show when value is controlled #2521,https://github.com/DouyinFE/semi-design/pull/2522,2024-10-10T13:52:12Z,2024-10-11T05:59:19Z,3,1,MERGED
+semi-design,feat: highlight searchWords support object props,https://github.com/DouyinFE/semi-design/pull/2600,2024-11-30T10:23:39Z,2024-11-30T11:11:24Z,3,5,MERGED
+semi-design,feat: semi-icons-lab add new icons ,https://github.com/DouyinFE/semi-design/pull/2583,2024-11-20T11:37:17Z,2024-11-28T11:59:03Z,3,4,MERGED
+semi-design,fix: Fixed the unexpected placement area display when dragging elemen…,https://github.com/DouyinFE/semi-design/pull/2580,2024-11-19T05:56:50Z,2024-11-22T04:07:22Z,3,1,MERGED
+semi-design,style: Fixed the style error when hovering the table header that can …,https://github.com/DouyinFE/semi-design/pull/2578,2024-11-18T08:46:13Z,2024-11-19T06:01:50Z,3,1,MERGED
+semi-design,fix: When all items except the disabled item in the left panel of tra…,https://github.com/DouyinFE/semi-design/pull/2574,2024-11-14T11:57:25Z,2024-11-18T07:06:24Z,3,2,MERGED
+semi-design,"style: For Tree/TreeSelect with showLine set to true, when the top no…",https://github.com/DouyinFE/semi-design/pull/2571,2024-11-14T03:39:43Z,2024-11-22T03:50:02Z,3,1,MERGED
+semi-design,fix: Set the max-width of the img node of the image preview to none t…,https://github.com/DouyinFE/semi-design/pull/2624,2024-12-11T11:32:54Z,2024-12-12T02:56:18Z,3,1,MERGED
+semi-design,style: Fixed the issue where the timeline width is set to 100% and pa…,https://github.com/DouyinFE/semi-design/pull/2621,2024-12-10T08:31:23Z,2024-12-13T03:39:29Z,2,1,CLOSED
+semi-design,"Revert ""style: For Tree/TreeSelect with showLine set to true, when the top no…""",https://github.com/DouyinFE/semi-design/pull/2613,2024-12-06T09:36:52Z,2024-12-06T09:40:49Z,3,1,MERGED
+semi-design,chore: Chore illustrations path,https://github.com/DouyinFE/semi-design/pull/2602,2024-12-02T07:27:23Z,2024-12-03T06:32:18Z,3,2,MERGED
+semi-design,"fix: [Select] Fixed the problem that when the search panel is opened,…",https://github.com/DouyinFE/semi-design/pull/2668,2025-01-10T03:57:33Z,2025-01-24T08:10:30Z,3,2,MERGED
+semi-design,fix: [TreeSelect] Fix the typeError when closing the panel when searc…,https://github.com/DouyinFE/semi-design/pull/2694,2025-02-07T03:42:26Z,2025-02-07T07:28:35Z,3,1,MERGED
+semi-design,fix: [TreeSelect] Fix the typeError when closing the panel when searc…,https://github.com/DouyinFE/semi-design/pull/2694,2025-02-07T03:42:26Z,2025-02-07T07:28:35Z,3,1,MERGED
+semi-design,feat: add filename tooltip when the filename is too long,https://github.com/DouyinFE/semi-design/pull/2753,2025-03-10T15:37:44Z,2025-05-06T09:59:47Z,2,1,MERGED
+semi-design,style: Fixed the issue that when the Table component sets the header …,https://github.com/DouyinFE/semi-design/pull/2821,2025-04-30T03:05:37Z,2025-05-08T06:56:39Z,2,1,MERGED
+semi-design,style: [Checkbox] Added disabled and check mark icon color settings i…,https://github.com/DouyinFE/semi-design/pull/2819,2025-04-29T09:03:01Z,2025-05-08T03:49:16Z,3,1,MERGED
+semi-design,style: [ScrollList] add overflow hidden for the outer layer,https://github.com/DouyinFE/semi-design/pull/2818,2025-04-29T07:20:39Z,2025-05-08T03:52:23Z,3,1,MERGED
+semi-design,Fix: fix style of basic step when no title (#2777),https://github.com/DouyinFE/semi-design/pull/2813,2025-04-27T04:57:40Z,2025-05-07T00:20:25Z,4,2,CLOSED
+semi-design,style: Modify the color of Popover arrow to ensure that the configura…,https://github.com/DouyinFE/semi-design/pull/2806,2025-04-15T09:10:56Z,2025-04-18T07:04:15Z,3,1,MERGED
+semi-design,Fix: Fallback operation when targetNode does not exist,https://github.com/DouyinFE/semi-design/pull/2786,2025-04-01T09:43:25Z,2025-04-08T06:57:44Z,3,1,MERGED
+semi-design,"style: In range DatePicker, increase input priority on hover/active s…",https://github.com/DouyinFE/semi-design/pull/2856,2025-06-10T11:52:57Z,2025-06-16T03:12:23Z,3,1,MERGED
+semi-design,style: Adjust the height of the input-wrapper layer in the range type…,https://github.com/DouyinFE/semi-design/pull/2855,2025-06-09T13:01:38Z,2025-06-10T05:49:56Z,3,1,MERGED
+semi-design,fix: inputnumber plus calculate wrong cause by js precision,https://github.com/DouyinFE/semi-design/pull/2937,2025-07-28T12:12:33Z,2025-07-29T03:38:42Z,1,1,MERGED
+semi-design,style: Fixed the closeIcon color error of solid and white tags,https://github.com/DouyinFE/semi-design/pull/2935,2025-07-28T11:25:18Z,2025-07-29T03:21:22Z,1,3,MERGED
+semi-design,fix: fixed the problem that the handle position of Slider is incorrect when clicking or dragging under scrollable conditions,https://github.com/DouyinFE/semi-design/pull/2932,2025-07-25T07:46:48Z,2025-07-25T08:05:32Z,3,1,MERGED

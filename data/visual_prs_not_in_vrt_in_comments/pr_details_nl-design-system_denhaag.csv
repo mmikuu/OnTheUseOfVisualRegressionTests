@@ -1,0 +1,48 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+denhaag,Install accessibility plugin for Storybook,https://github.com/nl-design-system/denhaag/pull/209,2021-05-30T09:50:06Z,2021-06-02T10:33:04Z,0,1,MERGED
+denhaag,Fix button primary action disabled style,https://github.com/nl-design-system/denhaag/pull/208,2021-05-29T13:09:08Z,2021-05-29T14:32:32Z,0,2,MERGED
+denhaag,Storybook theme,https://github.com/nl-design-system/denhaag/pull/202,2021-05-26T16:14:02Z,2021-05-27T14:04:21Z,0,3,MERGED
+denhaag,Documentation for Brand Identity colors,https://github.com/nl-design-system/denhaag/pull/200,2021-05-26T11:56:51Z,2021-06-11T20:39:42Z,3,13,MERGED
+denhaag,Add rollup bundler,https://github.com/nl-design-system/denhaag/pull/241,2021-06-10T07:23:20Z,2021-07-07T10:51:50Z,11,1,MERGED
+denhaag,Fix timeline missing design token,https://github.com/nl-design-system/denhaag/pull/320,2021-07-13T11:37:23Z,2021-07-14T08:48:01Z,0,1,MERGED
+denhaag,fix(breadcrumb): added minor fix for the separator after an icon,https://github.com/nl-design-system/denhaag/pull/614,2021-12-15T14:40:15Z,2021-12-15T14:42:10Z,0,1,MERGED
+denhaag,Feature/596 html modal,https://github.com/nl-design-system/denhaag/pull/601,2021-12-09T14:04:55Z,2022-01-24T14:57:40Z,9,19,MERGED
+denhaag,Feature/575 html pagination,https://github.com/nl-design-system/denhaag/pull/592,2021-12-06T16:30:25Z,2021-12-20T12:55:17Z,24,19,MERGED
+denhaag,Feature/breadcrumbs,https://github.com/nl-design-system/denhaag/pull/586,2021-12-06T10:10:29Z,2021-12-15T14:33:01Z,19,25,MERGED
+denhaag,"fix(button): fix button preview, removing linting exclude message",https://github.com/nl-design-system/denhaag/pull/572,2021-12-02T14:31:16Z,2021-12-02T15:18:14Z,0,1,MERGED
+denhaag,Feature/644 share button,https://github.com/nl-design-system/denhaag/pull/716,2022-01-25T15:41:47Z,2022-02-07T10:54:58Z,21,11,MERGED
+denhaag,fix: removed alert component a11y check disables,https://github.com/nl-design-system/denhaag/pull/707,2022-01-21T14:45:19Z,2022-01-21T15:15:35Z,0,1,MERGED
+denhaag,feat: cta image content component realization,https://github.com/nl-design-system/denhaag/pull/739,2022-02-10T09:45:24Z,2022-02-22T10:06:03Z,12,13,MERGED
+denhaag,Fix/linting windows,https://github.com/nl-design-system/denhaag/pull/730,2022-02-04T08:10:49Z,2022-02-28T14:19:16Z,2,1,MERGED
+denhaag,"fix(note): add text div, fixing style when adding anchor tag",https://github.com/nl-design-system/denhaag/pull/825,2022-03-14T11:43:24Z,2022-03-15T14:29:38Z,0,1,MERGED
+denhaag,style(link-group-extended): additional style,https://github.com/nl-design-system/denhaag/pull/884,2022-04-11T13:50:51Z,2022-04-12T07:02:54Z,0,1,MERGED
+denhaag,feat: added home variant for hero,https://github.com/nl-design-system/denhaag/pull/874,2022-04-04T11:54:56Z,2022-04-06T15:41:08Z,0,5,MERGED
+denhaag,"fix(note-link): added story with link and reduce link styles, inherit…",https://github.com/nl-design-system/denhaag/pull/969,2022-05-23T14:39:48Z,2022-05-24T08:33:45Z,0,2,MERGED
+denhaag,style(link-group): change arrow size,https://github.com/nl-design-system/denhaag/pull/1000,2022-06-23T13:15:53Z,2022-06-23T13:51:23Z,0,1,MERGED
+denhaag,Feature/dynamic content,https://github.com/nl-design-system/denhaag/pull/997,2022-06-20T10:01:20Z,2022-06-20T13:26:37Z,5,6,MERGED
+denhaag,build: add rollup-plugin-summary,https://github.com/nl-design-system/denhaag/pull/994,2022-06-16T08:56:15Z,2022-06-16T11:29:48Z,0,1,MERGED
+denhaag,style(link-with-icon): add arrow alignment link icon in list item,https://github.com/nl-design-system/denhaag/pull/991,2022-06-15T09:05:04Z,2022-06-15T13:31:40Z,1,3,MERGED
+denhaag,Fix/publication date,https://github.com/nl-design-system/denhaag/pull/1037,2022-07-28T12:59:41Z,2022-08-01T09:05:23Z,2,3,CLOSED
+denhaag,Fix/accordion styling,https://github.com/nl-design-system/denhaag/pull/1017,2022-07-06T13:23:34Z,2022-07-06T13:42:45Z,0,2,MERGED
+denhaag,fix(button): style correction btn icon-only,https://github.com/nl-design-system/denhaag/pull/1080,2022-08-31T09:37:59Z,2022-08-31T12:12:17Z,1,1,MERGED
+denhaag,feat(button): add icon only buttons,https://github.com/nl-design-system/denhaag/pull/1078,2022-08-30T13:47:31Z,2022-08-31T07:31:49Z,34,2,MERGED
+denhaag,fix(dynamic-content): fix for text breaking layout,https://github.com/nl-design-system/denhaag/pull/1072,2022-08-29T12:47:44Z,2022-08-29T13:31:31Z,0,1,MERGED
+denhaag,style(button): additional bem,https://github.com/nl-design-system/denhaag/pull/1067,2022-08-24T14:27:37Z,2022-08-25T15:02:19Z,2,2,MERGED
+denhaag,style(dynamic-content): add flex-wrap due grid-breaking issues,https://github.com/nl-design-system/denhaag/pull/1050,2022-08-15T09:17:54Z,2022-08-15T13:09:14Z,0,1,MERGED
+denhaag,Style/article meta change in margins,https://github.com/nl-design-system/denhaag/pull/1042,2022-08-02T07:37:38Z,2022-08-02T08:13:10Z,0,2,MERGED
+denhaag,fix(dynamic-content-title): word-break and hyphens issue,https://github.com/nl-design-system/denhaag/pull/1100,2022-09-15T06:28:10Z,2022-09-15T12:35:46Z,4,2,MERGED
+denhaag,fix: add removed authentication block and mark it deprecated,https://github.com/nl-design-system/denhaag/pull/1099,2022-09-14T15:19:21Z,2022-09-15T16:09:22Z,1,1,MERGED
+denhaag,style(button): prevent full width btn,https://github.com/nl-design-system/denhaag/pull/1086,2022-09-06T10:10:07Z,2022-09-06T14:48:59Z,1,1,CLOSED
+denhaag,Fix/gdh 738 denhaag link external,https://github.com/nl-design-system/denhaag/pull/1148,2022-11-18T13:15:27Z,2022-11-21T13:44:28Z,7,9,MERGED
+denhaag,"fix(hero theme image): add corrections, tokens, css",https://github.com/nl-design-system/denhaag/pull/1215,2023-04-17T17:45:57Z,2023-04-19T07:36:57Z,2,2,MERGED
+denhaag,fix(conditions): fix icon vertical alignment,https://github.com/nl-design-system/denhaag/pull/1204,2023-04-05T15:03:13Z,2023-04-06T11:43:26Z,2,2,MERGED
+denhaag,Feature/gdh 968 readspeaker,https://github.com/nl-design-system/denhaag/pull/1243,2023-05-22T13:46:59Z,2023-05-24T11:21:34Z,6,17,MERGED
+denhaag,Feature/gdh 1092 image banner,https://github.com/nl-design-system/denhaag/pull/1235,2023-05-12T20:30:03Z,2023-05-15T14:23:30Z,3,4,MERGED
+denhaag,fix(procedure): additional link styling + refactor,https://github.com/nl-design-system/denhaag/pull/1234,2023-05-09T19:55:42Z,2023-05-10T07:02:14Z,2,1,MERGED
+denhaag,Feature: Process Steps Procedure,https://github.com/nl-design-system/denhaag/pull/1224,2023-05-01T15:23:37Z,2023-10-16T11:20:29Z,1,6,CLOSED
+denhaag,fix: gdh-1169 | removed gap from card as content already has padding-top,https://github.com/nl-design-system/denhaag/pull/1260,2023-06-19T10:29:14Z,2023-06-20T07:24:28Z,2,1,MERGED
+denhaag,fix(external link): fix inside unordered list,https://github.com/nl-design-system/denhaag/pull/1287,2023-07-25T15:18:06Z,2023-07-26T07:09:03Z,1,1,MERGED
+denhaag,style(dynamic-content): fix broken css token,https://github.com/nl-design-system/denhaag/pull/1294,2023-08-07T12:22:16Z,2023-08-07T14:08:51Z,1,2,MERGED
+denhaag,fix(GDH-1357): fix external link icon alignment,https://github.com/nl-design-system/denhaag/pull/1363,2023-10-30T16:59:06Z,2023-11-01T15:21:19Z,2,3,MERGED
+denhaag,feat: case card web component,https://github.com/nl-design-system/denhaag/pull/1723,2025-04-09T10:04:05Z,2025-04-16T10:11:06Z,12,13,MERGED
+denhaag,chore: refactor card element,https://github.com/nl-design-system/denhaag/pull/1783,2025-06-11T07:30:56Z,2025-06-16T11:45:21Z,2,3,MERGED

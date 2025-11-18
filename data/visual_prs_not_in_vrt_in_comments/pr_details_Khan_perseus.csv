@@ -1,0 +1,452 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+perseus,FEI-3775: Configure wallaby,https://github.com/Khan/perseus/pull/152,2022-04-28T14:38:12Z,2022-04-28T14:51:09Z,4,2,MERGED
+perseus,Provide a more appropriate 'staticUrl' mock for storybook,https://github.com/Khan/perseus/pull/248,2022-05-23T22:25:59Z,2022-05-25T20:19:09Z,4,3,MERGED
+perseus,FEI-4401.1: Port cypress config from webapp,https://github.com/Khan/perseus/pull/247,2022-05-23T22:13:54Z,2022-05-25T18:30:51Z,8,6,MERGED
+perseus,Add storybook!,https://github.com/Khan/perseus/pull/222,2022-05-11T17:28:53Z,2022-05-11T20:48:48Z,8,5,MERGED
+perseus,Wonderblock-ify Definition widget,https://github.com/Khan/perseus/pull/220,2022-05-10T20:23:03Z,2022-05-24T19:07:22Z,8,8,MERGED
+perseus,Package.json cleanup,https://github.com/Khan/perseus/pull/218,2022-05-09T18:22:01Z,2022-05-09T22:47:41Z,8,6,MERGED
+perseus,Fix Storybook so TeX components work,https://github.com/Khan/perseus/pull/274,2022-06-24T18:52:04Z,2022-06-27T17:10:17Z,4,2,MERGED
+perseus,"SvgImage: Bundle spinner.gif properly so it can be resolved with webpack, etc.",https://github.com/Khan/perseus/pull/273,2022-06-23T18:10:32Z,2022-06-24T18:55:03Z,7,10,MERGED
+perseus,Remove old margin from definition body (Popover manages that now),https://github.com/Khan/perseus/pull/266,2022-06-09T00:01:55Z,2022-06-09T15:55:10Z,4,3,MERGED
+perseus,Wonderblockify numeric input,https://github.com/Khan/perseus/pull/278,2022-07-14T19:57:15Z,2022-08-23T20:19:30Z,14,15,MERGED
+perseus,show square options instead of circles when the radio widget is a multiselect,https://github.com/Khan/perseus/pull/289,2022-09-28T19:53:33Z,2022-10-05T19:10:06Z,27,9,MERGED
+perseus,"Replace ""new"" tooltip with wonderblocks",https://github.com/Khan/perseus/pull/285,2022-09-20T03:22:42Z,2022-09-28T18:36:44Z,11,5,MERGED
+perseus,Add test:no-console-mock script to disable console mocking in test-setup.js,https://github.com/Khan/perseus/pull/302,2022-10-07T21:36:48Z,2022-10-10T15:19:00Z,7,5,MERGED
+perseus,Perseus Playground basic site Layout,https://github.com/Khan/perseus/pull/325,2022-11-30T22:32:47Z,2023-02-07T20:03:19Z,6,3,CLOSED
+perseus,Highlight tooltip storybook,https://github.com/Khan/perseus/pull/319,2022-11-18T23:11:16Z,2023-01-03T18:53:17Z,7,3,CLOSED
+perseus,Update perseus fonts to match wonderblocks,https://github.com/Khan/perseus/pull/318,2022-11-16T19:58:32Z,2022-11-22T19:56:13Z,12,3,MERGED
+perseus,nudge the icon to the right and fix icon size,https://github.com/Khan/perseus/pull/342,2022-12-20T19:24:21Z,2022-12-20T21:27:19Z,4,3,MERGED
+perseus,add a story for the hints renderer,https://github.com/Khan/perseus/pull/341,2022-12-19T18:27:03Z,2022-12-20T15:37:41Z,5,2,MERGED
+perseus,add text-indent back to Passage,https://github.com/Khan/perseus/pull/339,2022-12-16T20:36:00Z,2022-12-16T21:17:10Z,4,2,MERGED
+perseus,wip: fixup crossout,https://github.com/Khan/perseus/pull/338,2022-12-14T17:44:10Z,2023-01-03T17:05:00Z,4,1,MERGED
+perseus,Ensure that there is sufficient contrast between the graded-group title and the background.,https://github.com/Khan/perseus/pull/336,2022-12-14T16:36:49Z,2022-12-14T21:09:53Z,5,4,MERGED
+perseus,Restore custom input styles back into the Matrix,https://github.com/Khan/perseus/pull/332,2022-12-12T22:02:20Z,2022-12-13T21:29:22Z,6,5,MERGED
+perseus,Allow numeric-input to change size and text alignment,https://github.com/Khan/perseus/pull/330,2022-12-08T21:28:23Z,2022-12-13T21:35:09Z,8,10,MERGED
+perseus,Add basic interactive story for numeric-input,https://github.com/Khan/perseus/pull/327,2022-12-01T22:31:28Z,2022-12-05T15:44:50Z,5,2,MERGED
+perseus,Create an demo story show how to integrate the on-screen keypad with ItemRenderer,https://github.com/Khan/perseus/pull/371,2023-01-30T23:45:08Z,2023-02-24T17:47:40Z,7,5,MERGED
+perseus,Fix KaTeX rendering in Storybook,https://github.com/Khan/perseus/pull/367,2023-01-25T20:16:40Z,2023-02-24T01:04:29Z,8,7,MERGED
+perseus,"Shape the ""cross out"" ellipsis button",https://github.com/Khan/perseus/pull/363,2023-01-24T23:00:25Z,2023-01-25T14:08:20Z,4,3,MERGED
+perseus,[🔥AUDIT🔥] some style tweaks,https://github.com/Khan/perseus/pull/362,2023-01-24T20:17:54Z,2023-01-24T20:29:00Z,4,2,MERGED
+perseus,"Update categorizer to have no empty ""th"" cells per a11y audit",https://github.com/Khan/perseus/pull/355,2023-01-11T18:55:12Z,2023-02-24T14:48:17Z,6,6,MERGED
+perseus,bugfix: passage numbers stop abruptly,https://github.com/Khan/perseus/pull/354,2023-01-10T16:20:57Z,2023-01-10T23:12:21Z,5,7,MERGED
+perseus,Fix passage text by making it exactly like it was before,https://github.com/Khan/perseus/pull/352,2023-01-09T20:43:12Z,2023-01-10T16:41:14Z,4,3,MERGED
+perseus,Remove gradient background on math,https://github.com/Khan/perseus/pull/345,2023-01-04T18:26:54Z,2023-01-05T17:52:01Z,6,2,MERGED
+perseus,Update fonts from Noto -> Lato,https://github.com/Khan/perseus/pull/344,2023-01-04T18:15:58Z,2023-01-05T21:20:46Z,7,2,MERGED
+perseus,LC-520: Make correctness checks explicit comparisons to true/false,https://github.com/Khan/perseus/pull/386,2023-02-22T23:00:04Z,2023-02-22T23:29:23Z,4,2,MERGED
+perseus,LC-520-4: Fix width and rightAlign options for input-number widget,https://github.com/Khan/perseus/pull/383,2023-02-21T20:09:24Z,2023-02-21T22:58:19Z,7,4,MERGED
+perseus,LC-520-2: Add two more controls to input-number Story,https://github.com/Khan/perseus/pull/381,2023-02-21T19:53:32Z,2023-02-21T21:07:47Z,4,4,MERGED
+perseus,"Fix fonts on ""Choose 1 answer""",https://github.com/Khan/perseus/pull/377,2023-02-15T22:01:45Z,2023-02-24T17:49:22Z,4,2,MERGED
+perseus,PROTOTYPE: Keypad on desktop,https://github.com/Khan/perseus/pull/374,2023-02-09T21:40:12Z,2023-06-06T19:46:57Z,1,1,CLOSED
+perseus,Try v8 coverage provider for jest,https://github.com/Khan/perseus/pull/372,2023-02-03T23:23:12Z,2023-02-08T17:33:30Z,8,7,MERGED
+perseus,FEI-4967.11: Fix Storybook config,https://github.com/Khan/perseus/pull/446,2023-03-29T18:03:02Z,2023-03-29T19:37:11Z,4,1,MERGED
+perseus,[rm-input-number] 5 - Fix Storybook stories,https://github.com/Khan/perseus/pull/434,2023-03-24T18:20:16Z,2024-11-14T05:43:58Z,4,8,CLOSED
+perseus,Publish npm snapshot on pull request create/update,https://github.com/Khan/perseus/pull/413,2023-03-14T23:16:56Z,2023-03-16T22:50:21Z,12,25,MERGED
+perseus,bugfix: add a font-size exception for the definition prompt,https://github.com/Khan/perseus/pull/411,2023-03-13T18:10:23Z,2023-03-13T19:25:54Z,6,5,MERGED
+perseus,bugfix: definition text smaller than surrounding text,https://github.com/Khan/perseus/pull/404,2023-03-08T21:29:20Z,2023-03-10T16:44:17Z,4,7,MERGED
+perseus,bugfix: oversized text in SVG images with Graphie text,https://github.com/Khan/perseus/pull/398,2023-03-07T20:04:16Z,2023-03-10T17:02:00Z,6,5,MERGED
+perseus,[Remove SAT] Remove satStyling from hint-renderer,https://github.com/Khan/perseus/pull/394,2023-03-06T21:31:43Z,2023-03-07T17:39:47Z,6,5,MERGED
+perseus,Enumify many types in math-input,https://github.com/Khan/perseus/pull/501,2023-04-28T19:19:47Z,2023-05-01T18:26:46Z,15,15,MERGED
+perseus,Type and modernize sortable.tsx,https://github.com/Khan/perseus/pull/495,2023-04-24T20:14:44Z,2023-04-25T23:31:30Z,8,4,MERGED
+perseus,Type and modernize tooltip.tsx,https://github.com/Khan/perseus/pull/494,2023-04-24T20:13:36Z,2023-04-25T23:24:56Z,9,3,MERGED
+perseus,Type and modernize math-output.tsx,https://github.com/Khan/perseus/pull/493,2023-04-24T20:12:39Z,2023-04-25T23:05:27Z,6,3,MERGED
+perseus,Type and modernize lint.tsx,https://github.com/Khan/perseus/pull/492,2023-04-24T20:09:19Z,2023-04-25T22:16:48Z,7,2,MERGED
+perseus,Type and modernize hud.tsx,https://github.com/Khan/perseus/pull/490,2023-04-24T20:03:42Z,2023-04-25T22:11:44Z,5,3,MERGED
+perseus,Type and modernize graph.tsx,https://github.com/Khan/perseus/pull/489,2023-04-24T19:59:38Z,2023-04-25T22:11:13Z,8,6,MERGED
+perseus,Type and modernize FixedToResponsive,https://github.com/Khan/perseus/pull/488,2023-04-24T19:54:47Z,2023-04-25T22:05:24Z,8,3,MERGED
+perseus,Remove prop-types from graphie.tsx,https://github.com/Khan/perseus/pull/487,2023-04-24T19:46:54Z,2023-04-25T23:04:23Z,14,9,MERGED
+perseus,Add MathInput story to show how the pieces fit together,https://github.com/Khan/perseus/pull/485,2023-04-19T21:20:46Z,2023-04-20T16:23:36Z,5,4,MERGED
+perseus,TypeScript: Enable project-wide type checking (experimental),https://github.com/Khan/perseus/pull/471,2023-04-13T19:04:23Z,2023-04-14T18:55:18Z,5,2,MERGED
+perseus,Add per-package coverage reporting [work-in-progress],https://github.com/Khan/perseus/pull/465,2023-04-12T14:44:33Z,2023-05-01T15:16:11Z,6,2,CLOSED
+perseus,Feature: Interactive Graph Editor,https://github.com/Khan/perseus/pull/555,2023-05-30T16:35:13Z,2023-06-01T17:39:16Z,9,15,MERGED
+perseus,Tweak formatting of 'correct answer' in interactive-graph-editor,https://github.com/Khan/perseus/pull/552,2023-05-24T19:39:59Z,2023-05-25T22:24:42Z,5,2,MERGED
+perseus,Allow editor to configure 'line segment' graph type,https://github.com/Khan/perseus/pull/551,2023-05-24T18:59:05Z,2023-05-25T22:03:15Z,6,3,MERGED
+perseus,Improve Chanegable's types [prototype],https://github.com/Khan/perseus/pull/545,2023-05-19T20:13:17Z,2024-02-06T16:04:41Z,12,3,CLOSED
+perseus,Allow editor to configure 'polygon' graph type,https://github.com/Khan/perseus/pull/544,2023-05-19T18:24:06Z,2023-05-25T21:27:51Z,5,2,MERGED
+perseus,Allow editor to configure 'points' graph type,https://github.com/Khan/perseus/pull/543,2023-05-19T18:15:58Z,2023-05-25T21:01:41Z,5,3,MERGED
+perseus,Re-introduce graph type selector for interactive graph editor,https://github.com/Khan/perseus/pull/542,2023-05-19T18:01:04Z,2023-05-25T19:13:24Z,7,4,MERGED
+perseus,Add Editor story for interactive-graph,https://github.com/Khan/perseus/pull/536,2023-05-18T22:41:28Z,2023-05-24T20:15:14Z,7,4,MERGED
+perseus,Full key coverage for current pages,https://github.com/Khan/perseus/pull/532,2023-05-16T15:12:23Z,2023-05-16T15:31:02Z,5,1,MERGED
+perseus,Replace icons with Phosphor where possible.,https://github.com/Khan/perseus/pull/529,2023-05-15T15:41:58Z,2023-05-16T13:09:15Z,8,8,MERGED
+perseus,Add division key option to Numbers page on Keypad,https://github.com/Khan/perseus/pull/516,2023-05-08T21:17:52Z,2023-05-10T14:28:54Z,7,6,MERGED
+perseus,"Add Basic Relations buttons, dynamic Keypad and Buttons stories, and use placeholder button instead of throwing an error",https://github.com/Khan/perseus/pull/512,2023-05-08T18:19:59Z,2023-05-08T21:42:40Z,14,6,MERGED
+perseus,Add yarn script to generate type coverage report,https://github.com/Khan/perseus/pull/505,2023-05-01T14:54:23Z,2023-05-01T18:18:41Z,6,2,MERGED
+perseus,[Perseus] [Khanmigo] Adjust the focus styling on the keypad buttons,https://github.com/Khan/perseus/pull/596,2023-06-29T20:18:34Z,2023-06-29T22:26:48Z,6,2,MERGED
+perseus,Convert CursorContext TS enum to POJO,https://github.com/Khan/perseus/pull/593,2023-06-28T19:41:47Z,2023-06-28T20:54:25Z,5,2,MERGED
+perseus,Add optional dismiss button to MathInput tabbar,https://github.com/Khan/perseus/pull/584,2023-06-23T21:14:56Z,2023-06-23T21:39:03Z,7,4,MERGED
+perseus,Fail PR check if there are STOPSHIPs in any code,https://github.com/Khan/perseus/pull/639,2023-07-28T00:27:17Z,2023-07-31T17:59:40Z,6,11,MERGED
+perseus,WIP / Experiment: switch ProvideKeypad to use MobileKeypad,https://github.com/Khan/perseus/pull/628,2023-07-26T13:37:43Z,2023-07-27T15:15:42Z,5,2,CLOSED
+perseus,Add story for ExpressionEditor,https://github.com/Khan/perseus/pull/619,2023-07-21T17:26:59Z,2023-07-24T15:52:52Z,6,3,MERGED
+perseus,Fix: Image widget editor fails to calculate image dimensions,https://github.com/Khan/perseus/pull/618,2023-07-21T01:37:48Z,2023-07-27T21:03:47Z,12,9,MERGED
+perseus,Don't generate a snapshot release for 'Version Packages' PR,https://github.com/Khan/perseus/pull/615,2023-07-17T21:41:41Z,2023-07-18T15:04:11Z,4,3,MERGED
+perseus,Changed radio instruction font from serif to sans serif,https://github.com/Khan/perseus/pull/604,2023-07-05T20:37:02Z,2023-07-07T15:48:32Z,5,4,MERGED
+perseus,Add ArticleRenderer stories (we didn't have any yet),https://github.com/Khan/perseus/pull/602,2023-07-01T00:26:38Z,2023-07-06T17:36:17Z,8,7,MERGED
+perseus,[Analytics] 2. Plumb new DependenciesContext through,https://github.com/Khan/perseus/pull/601,2023-07-01T00:06:33Z,2023-07-06T17:21:02Z,8,5,MERGED
+perseus,Refresh design of image caption,https://github.com/Khan/perseus/pull/693,2023-08-25T18:02:43Z,2023-09-05T17:51:34Z,13,13,MERGED
+perseus,Shift capital letters to better align with other buttons,https://github.com/Khan/perseus/pull/671,2023-08-16T13:41:46Z,2023-08-16T16:21:20Z,5,1,MERGED
+perseus,Add all alphabet icons,https://github.com/Khan/perseus/pull/669,2023-08-15T19:21:46Z,2023-08-15T20:23:53Z,6,2,MERGED
+perseus,Add Fraction Keypad View,https://github.com/Khan/perseus/pull/667,2023-08-15T16:05:13Z,2023-08-17T18:38:44Z,14,16,MERGED
+perseus,Fix image loading in the image editor,https://github.com/Khan/perseus/pull/647,2023-08-04T16:51:44Z,2023-08-04T17:07:35Z,8,5,MERGED
+perseus,Provide each package's version on load,https://github.com/Khan/perseus/pull/745,2023-09-27T23:39:18Z,2023-10-04T20:14:43Z,14,21,MERGED
+perseus,FEI-5160: Publish Storybook to Chromatic for each PR,https://github.com/Khan/perseus/pull/739,2023-09-22T15:42:05Z,2023-09-25T19:20:17Z,5,3,MERGED
+perseus,Exclude stories and test files from coverage Codecov reporting,https://github.com/Khan/perseus/pull/736,2023-09-21T21:27:53Z,2023-09-21T22:55:01Z,6,5,MERGED
+perseus,Add Codecov badge that shows current status and links to global coverage report of the repo,https://github.com/Khan/perseus/pull/734,2023-09-21T16:38:05Z,2023-09-21T21:22:27Z,5,2,MERGED
+perseus,[math-input] Organize storybook stories,https://github.com/Khan/perseus/pull/720,2023-09-12T00:03:11Z,2023-09-25T22:26:27Z,6,3,MERGED
+perseus,Fix problems in image widget's caption,https://github.com/Khan/perseus/pull/715,2023-09-10T16:31:17Z,2023-09-11T16:09:03Z,8,3,MERGED
+perseus,Test Coveralls hanging indefinitely fix,https://github.com/Khan/perseus/pull/712,2023-09-08T15:50:53Z,2023-09-11T16:15:31Z,4,4,MERGED
+perseus,Fix overflow in the y direction on radio choice,https://github.com/Khan/perseus/pull/706,2023-09-07T17:54:00Z,2023-09-07T19:03:36Z,5,7,MERGED
+perseus,Fix interactive graph text overlap,https://github.com/Khan/perseus/pull/773,2023-10-20T01:41:57Z,2023-10-20T18:00:21Z,6,1,MERGED
+perseus,Add label-image stories to see the widget in action,https://github.com/Khan/perseus/pull/772,2023-10-19T20:22:18Z,2023-10-25T18:53:35Z,3,1,MERGED
+perseus,Two column support in Perseus,https://github.com/Khan/perseus/pull/766,2023-10-16T18:52:59Z,2023-12-04T19:45:33Z,3,7,CLOSED
+perseus,Fixup image caption overlap on mobile,https://github.com/Khan/perseus/pull/765,2023-10-16T01:30:42Z,2023-10-18T18:37:30Z,5,3,MERGED
+perseus,Fix dark typography on mobile view,https://github.com/Khan/perseus/pull/828,2023-11-30T15:48:59Z,2023-11-30T17:55:15Z,6,3,MERGED
+perseus,Pill color for correct & incorrect answers,https://github.com/Khan/perseus/pull/824,2023-11-29T15:35:32Z,2023-11-29T21:21:18Z,5,4,MERGED
+perseus,"For wide images, label image popovers go above or below markers to lessen chances of covering markers",https://github.com/Khan/perseus/pull/823,2023-11-28T22:51:03Z,2023-11-29T14:09:43Z,5,2,MERGED
+perseus,In label image content editor add preferred direction,https://github.com/Khan/perseus/pull/818,2023-11-27T03:50:55Z,2023-12-01T21:40:17Z,5,3,MERGED
+perseus,Change KaTeXErrorView to TeXErrorView and use PhosphorIcons,https://github.com/Khan/perseus/pull/814,2023-11-24T16:24:04Z,2023-12-04T17:41:26Z,9,21,MERGED
+perseus,[Storybook] Fix styles in editor stories,https://github.com/Khan/perseus/pull/802,2023-11-15T04:44:28Z,2023-11-15T18:26:31Z,8,9,MERGED
+perseus,Conditionally switch decimal separator based on locale,https://github.com/Khan/perseus/pull/800,2023-11-14T17:32:13Z,2023-11-15T15:28:32Z,5,2,MERGED
+perseus,Upgrade to latest Storybook (v7.5.3),https://github.com/Khan/perseus/pull/790,2023-11-03T19:09:12Z,2023-11-07T00:50:35Z,5,18,MERGED
+perseus,[🔥AUDIT🔥] Move Editor component into its own folder,https://github.com/Khan/perseus/pull/898,2023-12-22T17:56:15Z,2023-12-22T18:22:59Z,3,1,MERGED
+perseus,"ImageEditor improvements: Story, tests, refactor",https://github.com/Khan/perseus/pull/895,2023-12-21T20:24:55Z,2024-01-30T18:37:07Z,4,3,MERGED
+perseus,Editor-Page storybook story,https://github.com/Khan/perseus/pull/887,2023-12-20T18:33:00Z,2023-12-22T18:18:41Z,4,10,MERGED
+perseus,Prevent paragraph class from being added to answer pills,https://github.com/Khan/perseus/pull/873,2023-12-14T05:10:29Z,2023-12-14T19:01:44Z,6,9,MERGED
+perseus,Add standin widget for deprecated widgets,https://github.com/Khan/perseus/pull/870,2023-12-13T17:58:16Z,2024-01-08T18:49:49Z,15,15,MERGED
+perseus,Make WB label into actual label tag,https://github.com/Khan/perseus/pull/865,2023-12-12T17:35:59Z,2023-12-12T20:14:31Z,4,2,MERGED
+perseus,add locale to convertDotToTimes logic,https://github.com/Khan/perseus/pull/863,2023-12-07T22:39:49Z,2023-12-12T19:58:57Z,5,4,MERGED
+perseus,Fix padding on correct pill,https://github.com/Khan/perseus/pull/851,2023-12-05T21:41:04Z,2023-12-06T02:20:50Z,4,2,MERGED
+perseus,Remove TexButtons,https://github.com/Khan/perseus/pull/838,2023-12-04T22:20:20Z,2023-12-06T15:15:29Z,5,4,MERGED
+perseus,Fix pills so they allow for multiline answers,https://github.com/Khan/perseus/pull/940,2024-01-25T21:18:11Z,2024-01-25T22:06:53Z,7,3,MERGED
+perseus,Make the Expression widget treat `sen` as equivalent to `sin`,https://github.com/Khan/perseus/pull/921,2024-01-11T22:24:30Z,2024-01-11T23:05:38Z,5,4,MERGED
+perseus,Update Perseus' Storybook to use MathJax instead of KaTeX,https://github.com/Khan/perseus/pull/917,2024-01-09T22:34:57Z,2024-01-16T15:07:04Z,4,11,MERGED
+perseus,Introduce orderer story that uses images,https://github.com/Khan/perseus/pull/916,2024-01-08T21:57:42Z,2024-01-08T23:45:43Z,4,1,MERGED
+perseus,Change table zebra-stripe color to Wonder Blocks offWhite,https://github.com/Khan/perseus/pull/908,2024-01-03T23:43:44Z,2024-01-04T17:33:47Z,5,3,MERGED
+perseus,Update widget display names to better match their type names,https://github.com/Khan/perseus/pull/907,2024-01-03T23:32:41Z,2024-01-05T20:49:08Z,4,3,MERGED
+perseus,Allow entire line segments to be moved by dragging their midpoints,https://github.com/Khan/perseus/pull/1047,2024-02-29T23:24:51Z,2024-03-04T21:52:17Z,9,31,MERGED
+perseus,Add instructions to the flipbook UI,https://github.com/Khan/perseus/pull/1034,2024-02-27T22:27:54Z,2024-02-27T23:41:23Z,4,1,MERGED
+perseus,Mafs graph foundation with segment,https://github.com/Khan/perseus/pull/1023,2024-02-24T00:35:54Z,2024-02-29T15:00:48Z,20,15,MERGED
+perseus,Add stories for GraphSettings and InteractiveGraphEditor,https://github.com/Khan/perseus/pull/1022,2024-02-23T21:55:11Z,2024-02-27T04:32:54Z,7,4,MERGED
+perseus,"Add an interactive graph ""flipbook"" to preview questions",https://github.com/Khan/perseus/pull/1017,2024-02-23T00:04:14Z,2024-02-26T16:46:56Z,4,15,MERGED
+perseus,Use vite for Storybook,https://github.com/Khan/perseus/pull/1012,2024-02-21T19:10:23Z,2024-02-27T18:59:29Z,12,14,MERGED
+perseus,Update ArticleRenderer to split sections into paragraphs in JIPT context,https://github.com/Khan/perseus/pull/1005,2024-02-16T18:33:45Z,2024-02-26T21:03:52Z,6,3,MERGED
+perseus,Allow movable points to be selected with the tab key,https://github.com/Khan/perseus/pull/1003,2024-02-15T19:24:31Z,2024-02-26T19:19:52Z,7,8,CLOSED
+perseus,Set Expression widget's `accessible` field to true.,https://github.com/Khan/perseus/pull/1001,2024-02-15T01:27:20Z,2024-02-15T19:22:46Z,7,1,MERGED
+perseus,Parse markdown list when rendering in JIPT context,https://github.com/Khan/perseus/pull/996,2024-02-14T18:11:19Z,2024-02-26T20:57:36Z,7,1,MERGED
+perseus,Add python-program widget and editor,https://github.com/Khan/perseus/pull/989,2024-02-09T22:28:32Z,2024-02-13T23:21:40Z,19,7,MERGED
+perseus,Add more graph types to the dev UI,https://github.com/Khan/perseus/pull/988,2024-02-09T22:00:51Z,2024-02-12T17:37:32Z,6,5,MERGED
+perseus,Add a Vite-based dev UI for interactive graphs,https://github.com/Khan/perseus/pull/981,2024-02-08T22:04:39Z,2024-02-09T17:30:06Z,8,12,MERGED
+perseus,Ensure we do yarn install before Khan/changeset-per-package,https://github.com/Khan/perseus/pull/976,2024-02-08T01:10:12Z,2024-02-09T00:50:56Z,5,2,CLOSED
+perseus,"LC-1706: Replace MathQuill's ""Math Input"" label with translated string",https://github.com/Khan/perseus/pull/957,2024-02-01T23:16:14Z,2024-02-02T15:53:47Z,4,2,MERGED
+perseus,Add arrows to graph grid,https://github.com/Khan/perseus/pull/1137,2024-03-29T16:53:47Z,2024-04-01T20:07:46Z,10,12,MERGED
+perseus,Adjust Explanation Widget to Handle Lots of Text in its Button,https://github.com/Khan/perseus/pull/1131,2024-03-27T19:59:56Z,2024-04-01T21:06:23Z,6,5,MERGED
+perseus,Polygon graph: how right angle whether `showAngles` is true or not,https://github.com/Khan/perseus/pull/1119,2024-03-22T20:43:15Z,2024-03-25T15:06:37Z,6,2,MERGED
+perseus,Fix aspect ratio for Mafs graphs with nonsquare bounds,https://github.com/Khan/perseus/pull/1114,2024-03-21T19:26:04Z,2024-03-22T23:18:44Z,4,2,MERGED
+perseus,Storybook - Organize Categories,https://github.com/Khan/perseus/pull/1113,2024-03-21T16:11:29Z,2024-03-25T19:34:37Z,3,5,MERGED
+perseus,Spike: we can render TeX labels with MathJax CHTML,https://github.com/Khan/perseus/pull/1107,2024-03-20T21:30:43Z,2024-03-20T23:31:58Z,6,2,CLOSED
+perseus,Migrate ViewportResizer and DeviceFramer to functional components,https://github.com/Khan/perseus/pull/1104,2024-03-20T19:39:14Z,2024-03-22T01:08:04Z,6,6,MERGED
+perseus,Image widgets: Centre everywhere except hints,https://github.com/Khan/perseus/pull/1103,2024-03-20T18:54:41Z,2024-04-25T19:24:52Z,10,9,MERGED
+perseus,Get the interactive graph flipbook ready for QE testing,https://github.com/Khan/perseus/pull/1100,2024-03-20T16:45:29Z,2024-03-20T19:11:43Z,6,10,MERGED
+perseus,Implement adjusting colors for locked points,https://github.com/Khan/perseus/pull/1077,2024-03-14T22:04:35Z,2024-03-18T18:29:28Z,6,7,MERGED
+perseus,Make Mafs line segment color offBlack64,https://github.com/Khan/perseus/pull/1073,2024-03-13T23:26:34Z,2024-03-14T18:40:07Z,12,5,MERGED
+perseus,Enable inlay hints for VSCode,https://github.com/Khan/perseus/pull/1070,2024-03-13T18:59:45Z,2024-03-14T17:56:26Z,4,2,MERGED
+perseus,View a locked point with mafs,https://github.com/Khan/perseus/pull/1067,2024-03-12T23:03:09Z,2024-03-13T21:14:27Z,12,13,MERGED
+perseus,Dev Tooling: Better mobile support,https://github.com/Khan/perseus/pull/1066,2024-03-12T22:41:20Z,2024-03-13T00:26:39Z,8,5,MERGED
+perseus,Use Wonder Blocks in InteractiveGraphEditor,https://github.com/Khan/perseus/pull/1049,2024-03-01T21:11:36Z,2024-03-12T20:24:56Z,18,12,MERGED
+perseus,Create LockedFigureSettingsAccordion component to reduce redundancy,https://github.com/Khan/perseus/pull/1232,2024-04-27T00:35:49Z,2024-05-06T18:16:38Z,5,3,MERGED
+perseus,Update spacing in locked figure settings,https://github.com/Khan/perseus/pull/1231,2024-04-27T00:03:59Z,2024-05-06T18:04:08Z,6,2,MERGED
+perseus,Show Arrowheads on Locked Lines,https://github.com/Khan/perseus/pull/1229,2024-04-26T20:00:58Z,2024-05-07T16:51:48Z,13,15,MERGED
+perseus,Upgrade to Mafs 0.18.5 (includes consistent dash styles for lines),https://github.com/Khan/perseus/pull/1223,2024-04-25T20:06:11Z,2024-04-25T21:29:13Z,3,2,MERGED
+perseus,[Dev UI] Display info about background image of current question,https://github.com/Khan/perseus/pull/1222,2024-04-25T19:55:11Z,2024-05-06T21:07:14Z,6,8,MERGED
+perseus,[Dev UI] Display correctness in WB Banner,https://github.com/Khan/perseus/pull/1221,2024-04-25T19:44:30Z,2024-04-29T16:00:30Z,6,6,MERGED
+perseus,[Dev UI] Wrap flipbook navigation controls in Toolbar,https://github.com/Khan/perseus/pull/1220,2024-04-25T19:37:19Z,2024-04-26T22:08:01Z,4,3,MERGED
+perseus,Move delete button in locked figure settings,https://github.com/Khan/perseus/pull/1219,2024-04-25T17:53:46Z,2024-04-25T19:07:11Z,5,2,MERGED
+perseus,Use WB Tooltip in InfoTip,https://github.com/Khan/perseus/pull/1218,2024-04-24T23:51:00Z,2024-04-25T17:16:00Z,4,1,MERGED
+perseus,Limit colorset for locked figures,https://github.com/Khan/perseus/pull/1210,2024-04-24T17:40:34Z,2024-04-26T21:01:58Z,11,11,MERGED
+perseus,Implement locked rays in Interactive Graph,https://github.com/Khan/perseus/pull/1208,2024-04-24T01:27:23Z,2024-04-25T20:14:42Z,12,7,MERGED
+perseus,Ensure there's enough contrast on the grid axis lines ,https://github.com/Khan/perseus/pull/1199,2024-04-22T22:28:41Z,2024-05-22T21:23:04Z,5,4,CLOSED
+perseus,Use MathJax colors in locked figures UI,https://github.com/Khan/perseus/pull/1195,2024-04-22T17:48:14Z,2024-04-23T00:22:11Z,5,28,MERGED
+perseus,Add axis labels to Mafs graphs,https://github.com/Khan/perseus/pull/1193,2024-04-19T21:40:56Z,2024-04-25T17:31:52Z,26,53,MERGED
+perseus,Don't extend graphed lines all the way to the graph bounds,https://github.com/Khan/perseus/pull/1187,2024-04-18T17:09:19Z,2024-04-24T23:21:35Z,4,6,MERGED
+perseus,Add locked line,https://github.com/Khan/perseus/pull/1186,2024-04-17T23:38:21Z,2024-04-23T00:01:50Z,7,30,MERGED
+perseus,New logic to handle bug regarding overlapping axis tick labels in Interactive Graph.,https://github.com/Khan/perseus/pull/1183,2024-04-17T17:58:36Z,2024-04-18T16:03:28Z,8,7,MERGED
+perseus,View a locked line,https://github.com/Khan/perseus/pull/1182,2024-04-17T17:21:50Z,2024-04-22T21:30:44Z,13,23,MERGED
+perseus,Update locked points in preparation for locked lines,https://github.com/Khan/perseus/pull/1177,2024-04-16T23:09:43Z,2024-04-18T18:41:42Z,13,10,MERGED
+perseus,Style the arrowheads on Mafs linear graphs,https://github.com/Khan/perseus/pull/1176,2024-04-16T22:53:17Z,2024-04-17T21:32:42Z,12,6,MERGED
+perseus,Update focus style for line segments to match designs,https://github.com/Khan/perseus/pull/1162,2024-04-09T18:29:50Z,2024-04-09T23:17:42Z,5,3,MERGED
+perseus,Adjust Button Styling to Match Intended UI from Content,https://github.com/Khan/perseus/pull/1160,2024-04-08T20:06:09Z,2024-04-08T20:17:39Z,3,3,MERGED
+perseus,New Interactive Graph Axis Tick Labels (rendered with the MathJax font),https://github.com/Khan/perseus/pull/1157,2024-04-05T00:21:46Z,2024-04-15T19:04:07Z,9,21,MERGED
+perseus,math-input: upgrade mathquill to v1.0.1,https://github.com/Khan/perseus/pull/1151,2024-04-03T18:17:42Z,2024-04-03T23:03:59Z,5,3,CLOSED
+perseus,Fix Safari clipping the focus circle on the movable point,https://github.com/Khan/perseus/pull/1146,2024-04-02T23:41:43Z,2024-04-08T18:48:16Z,3,3,MERGED
+perseus,Graph tick marks,https://github.com/Khan/perseus/pull/1143,2024-04-02T18:30:40Z,2024-04-04T23:53:47Z,7,8,MERGED
+perseus,Add mafs flag to editor page storybook demo,https://github.com/Khan/perseus/pull/1140,2024-04-01T20:40:38Z,2024-04-01T20:54:50Z,3,1,MERGED
+perseus,View a Locked Vector in Interactive Graph,https://github.com/Khan/perseus/pull/1321,2024-05-30T19:21:55Z,2024-05-30T22:01:13Z,6,12,MERGED
+perseus,[Interactive Graph] View locked circle,https://github.com/Khan/perseus/pull/1309,2024-05-24T00:05:35Z,2024-05-28T22:32:48Z,10,6,MERGED
+perseus,[Interactive Graph Editor] Move the 'Add locked figure' and 'Collapse/Expand all' buttons to the top,https://github.com/Khan/perseus/pull/1306,2024-05-22T23:46:34Z,2024-05-24T17:14:35Z,5,1,CLOSED
+perseus,[DRAFT] New Perseus Preview component,https://github.com/Khan/perseus/pull/1304,2024-05-22T23:19:01Z,2025-07-15T20:35:33Z,7,45,CLOSED
+perseus,Ensure there's enough contrast on the grid lines by switching to offBlack50,https://github.com/Khan/perseus/pull/1303,2024-05-22T21:22:43Z,2024-05-22T22:11:56Z,6,2,MERGED
+perseus,Ensure axis tick labels render below interactive elements. ,https://github.com/Khan/perseus/pull/1299,2024-05-22T15:58:22Z,2024-05-22T18:26:38Z,5,2,MERGED
+perseus,Use getSaveWarnings to stop 0 length locked line from saving,https://github.com/Khan/perseus/pull/1298,2024-05-22T00:18:01Z,2024-05-23T23:09:49Z,10,5,MERGED
+perseus,Try to force Node v20,https://github.com/Khan/perseus/pull/1296,2024-05-21T21:59:44Z,2024-05-21T22:37:05Z,5,2,MERGED
+perseus,Fill interactive circles with blue on hover,https://github.com/Khan/perseus/pull/1293,2024-05-17T20:07:31Z,2024-05-17T20:57:36Z,5,4,MERGED
+perseus,Github Actions: Provide matrix for upload_coverage job,https://github.com/Khan/perseus/pull/1288,2024-05-16T22:14:42Z,2024-05-16T22:20:02Z,3,1,MERGED
+perseus,Fix low color contrast issues across several widgets,https://github.com/Khan/perseus/pull/1282,2024-05-16T19:30:24Z,2024-09-11T19:12:44Z,14,15,MERGED
+perseus,FOCUSED: Fix low-contrast of line and dot in number-line component,https://github.com/Khan/perseus/pull/1281,2024-05-16T18:56:24Z,2024-09-23T14:42:51Z,4,3,CLOSED
+perseus,Alphabetically order locked line kind dropdown options,https://github.com/Khan/perseus/pull/1278,2024-05-16T17:28:46Z,2024-05-16T19:57:35Z,3,1,MERGED
+perseus,Correct how arrowhead rotation is calculated,https://github.com/Khan/perseus/pull/1271,2024-05-15T18:12:04Z,2024-05-20T21:41:01Z,6,7,MERGED
+perseus,Show line style in locked line summary,https://github.com/Khan/perseus/pull/1265,2024-05-14T19:05:07Z,2024-05-14T21:02:48Z,4,1,MERGED
+perseus,Show images on their own line when included in a radio widget.,https://github.com/Khan/perseus/pull/1264,2024-05-14T18:19:25Z,2024-05-21T20:03:26Z,6,8,MERGED
+perseus,Rename start and end points to point1 and point2 in Interactive Graph locked lines,https://github.com/Khan/perseus/pull/1260,2024-05-13T17:47:57Z,2024-05-13T18:04:43Z,5,2,MERGED
+perseus,Ensure axis lines and arrowheads are 2px thick.,https://github.com/Khan/perseus/pull/1255,2024-05-09T18:57:11Z,2024-05-17T18:45:09Z,5,11,MERGED
+perseus,Update LockedLineSettings to reflect line kind in the summary,https://github.com/Khan/perseus/pull/1254,2024-05-09T18:10:56Z,2024-05-13T17:11:28Z,4,1,MERGED
+perseus,Changed locked figures default color to gray,https://github.com/Khan/perseus/pull/1246,2024-05-06T23:15:48Z,2024-05-07T01:26:23Z,2,1,MERGED
+perseus,[🔥AUDIT🔥] Fix stories that had a separator in the top-level name,https://github.com/Khan/perseus/pull/1245,2024-05-06T21:30:06Z,2024-05-06T21:45:06Z,4,2,MERGED
+perseus,Fix dash style for 'ray' line types that I missed,https://github.com/Khan/perseus/pull/1243,2024-05-06T20:13:59Z,2024-05-06T23:10:58Z,3,2,MERGED
+perseus,Add warning that ruler/protractor are not accessible,https://github.com/Khan/perseus/pull/1242,2024-05-06T19:20:43Z,2024-05-06T23:08:00Z,4,2,MERGED
+perseus,View Locked Function in the Interactive Graph,https://github.com/Khan/perseus/pull/1383,2024-06-28T16:03:56Z,2024-07-02T19:00:39Z,9,8,MERGED
+perseus,[Interactive Graph Editor] Add UI for updating starting coordinates (linear and ray),https://github.com/Khan/perseus/pull/1382,2024-06-27T23:26:16Z,2024-07-15T18:19:39Z,12,19,MERGED
+perseus,WIP: Expression w/ Label POC,https://github.com/Khan/perseus/pull/1378,2024-06-26T21:19:16Z,2024-07-11T16:12:21Z,5,2,CLOSED
+perseus,[Interactive Graph] Update the builder with all currently migrated graph types,https://github.com/Khan/perseus/pull/1373,2024-06-22T00:13:51Z,2024-06-24T18:30:15Z,6,3,MERGED
+perseus,[Storybook: Editor Page] Add a working preview for the editor page in storybook,https://github.com/Khan/perseus/pull/1372,2024-06-21T22:03:37Z,2024-06-21T23:31:07Z,5,2,MERGED
+perseus,fix(LEMS-2082): update expression popover role and remove aria-checked,https://github.com/Khan/perseus/pull/1371,2024-06-21T21:00:50Z,2024-06-25T17:25:46Z,4,4,MERGED
+perseus,[Interactive Graph Editor] Put the action buttons under the m2 flag,https://github.com/Khan/perseus/pull/1365,2024-06-20T21:07:18Z,2024-06-20T21:50:02Z,3,1,MERGED
+perseus,Add polygon stories to interactive graph and the editor,https://github.com/Khan/perseus/pull/1359,2024-06-18T16:55:19Z,2024-06-18T18:03:18Z,4,2,MERGED
+perseus,[Interactive Graph Editor] UI for adding/editing/deleting locked polygon,https://github.com/Khan/perseus/pull/1357,2024-06-18T00:08:35Z,2024-06-20T20:45:28Z,4,2,MERGED
+perseus,[Interactive Graph] View a locked polygon,https://github.com/Khan/perseus/pull/1353,2024-06-14T23:29:36Z,2024-06-17T21:40:48Z,4,8,MERGED
+perseus,[Interactive Graph Editor] Add blue and gold back as colors for locked figures,https://github.com/Khan/perseus/pull/1351,2024-06-13T22:52:44Z,2024-06-17T19:16:33Z,6,7,MERGED
+perseus,[Interactive Graph Editor] Add locked vector to storybook story for all locked figures,https://github.com/Khan/perseus/pull/1350,2024-06-13T22:23:55Z,2024-06-17T19:10:31Z,6,5,MERGED
+perseus,[Interactive Graph Editor] Update the locked ellipse settings so they only take degrees for the angle input,https://github.com/Khan/perseus/pull/1348,2024-06-13T21:52:07Z,2024-06-17T19:03:05Z,7,3,MERGED
+perseus,[Interactive Graph Editor] Show error if a coordinate pair value is out of range.,https://github.com/Khan/perseus/pull/1342,2024-06-12T23:12:32Z,2024-06-13T16:53:07Z,7,7,CLOSED
+perseus,Changing circle graph default radius.,https://github.com/Khan/perseus/pull/1341,2024-06-12T22:22:24Z,2024-06-14T16:57:48Z,4,2,MERGED
+perseus,Removing purple color for second LinearSystem line.,https://github.com/Khan/perseus/pull/1340,2024-06-12T21:25:12Z,2024-06-13T16:17:16Z,5,1,MERGED
+perseus,"Implement the ""sides"" snapTo type for Polygon",https://github.com/Khan/perseus/pull/1338,2024-06-12T20:26:17Z,2024-06-13T21:37:13Z,9,16,MERGED
+perseus,[Interactive Graph] Fixing blue dot in Firefox Line graph,https://github.com/Khan/perseus/pull/1337,2024-06-12T17:34:02Z,2024-06-12T21:38:12Z,5,5,MERGED
+perseus,"[Interactive Graph Editor] Remove m1 flag, hook up m2 flag for locked figures",https://github.com/Khan/perseus/pull/1333,2024-06-11T19:42:40Z,2024-06-11T21:07:33Z,3,2,MERGED
+perseus,[Interactive Graph Editor] Implement ellipse (including angle setting),https://github.com/Khan/perseus/pull/1332,2024-06-07T01:55:04Z,2024-06-11T00:39:22Z,6,6,MERGED
+perseus,"Ensure that Content Editors don't get thrown an ""OOPS"" page when trying to edit Linear or Ray Interactive Graphs",https://github.com/Khan/perseus/pull/1329,2024-06-06T18:07:42Z,2024-06-11T14:33:31Z,11,13,MERGED
+perseus,Add/Edit Locked Vector for Interactive Graph,https://github.com/Khan/perseus/pull/1327,2024-06-04T22:58:57Z,2024-06-05T19:58:41Z,15,6,MERGED
+perseus,Add static mode to interactive graph,https://github.com/Khan/perseus/pull/1457,2024-07-29T20:41:42Z,2024-08-22T17:06:40Z,7,2,CLOSED
+perseus,Remove 'Show ruler' option from interactive graph editor,https://github.com/Khan/perseus/pull/1456,2024-07-29T18:17:14Z,2024-07-29T21:44:30Z,5,5,MERGED
+perseus,Update mathjax-renderer to latest version,https://github.com/Khan/perseus/pull/1454,2024-07-26T13:41:50Z,2024-07-26T20:12:43Z,3,3,MERGED
+perseus,[Interactive Graph Editor] Implement the UI for adding start coords for circle graphs,https://github.com/Khan/perseus/pull/1453,2024-07-25T23:44:39Z,2024-07-30T22:37:31Z,6,3,MERGED
+perseus,Implementation of new nested SVGs and Tick Labels for Interactive Graph to solve Safari rendering issues. ,https://github.com/Khan/perseus/pull/1452,2024-07-25T23:06:08Z,2024-09-11T17:44:48Z,17,27,MERGED
+perseus,Upgrade Mafs to v0.19.0 (Domain-restricted functions),https://github.com/Khan/perseus/pull/1451,2024-07-25T22:20:03Z,2024-07-26T21:05:49Z,5,4,MERGED
+perseus,[Interactive Graph Editor] Refactor and clean up start coords UI implementation,https://github.com/Khan/perseus/pull/1448,2024-07-25T00:36:07Z,2024-07-25T23:27:11Z,5,4,MERGED
+perseus,React 18: fix bundle size bloat,https://github.com/Khan/perseus/pull/1425,2024-07-18T19:40:05Z,2024-07-22T18:14:06Z,4,3,MERGED
+perseus,[Interactive Graph Editor] Segment and Linear System graph start coords UI,https://github.com/Khan/perseus/pull/1422,2024-07-17T22:51:13Z,2024-07-24T22:25:16Z,18,10,MERGED
+perseus,Type configured userEvent field for easier testing DX,https://github.com/Khan/perseus/pull/1421,2024-07-17T17:15:50Z,2024-07-22T20:44:20Z,11,4,MERGED
+perseus,[interactive graph editor] Refactor sections,https://github.com/Khan/perseus/pull/1416,2024-07-15T19:36:41Z,2024-07-22T16:59:53Z,4,8,MERGED
+perseus,[Interactive Graph: Test Utils] Update the interactive graph question builder with all options + update testdata to use builder,https://github.com/Khan/perseus/pull/1409,2024-07-12T22:37:17Z,2024-07-17T17:43:48Z,18,6,MERGED
+perseus,Create section in Storybook for Graph Editor,https://github.com/Khan/perseus/pull/1395,2024-07-08T18:06:21Z,2024-07-09T16:35:13Z,5,2,MERGED
+perseus,Create Angle Mafs Graph ,https://github.com/Khan/perseus/pull/1392,2024-07-03T22:04:51Z,2024-07-05T22:01:08Z,28,23,MERGED
+perseus,[Interactive Graph: Circle] Add a key prop to the circle drag handle,https://github.com/Khan/perseus/pull/1388,2024-07-01T22:10:05Z,2024-07-01T22:19:59Z,4,1,MERGED
+perseus,[Interactive Graph + Editor] Add aria label and description to entire interactive graph and its UI to the editor,https://github.com/Khan/perseus/pull/1568,2024-08-28T00:25:33Z,2024-09-06T21:09:29Z,5,19,MERGED
+perseus,[Locked labels] Bugfix from merge conflict: Add back locked label settings,https://github.com/Khan/perseus/pull/1550,2024-08-23T21:08:20Z,2024-08-23T21:17:11Z,3,1,MERGED
+perseus,[Interactive Graph Storybook] Give Storybook preview a fixed width,https://github.com/Khan/perseus/pull/1545,2024-08-22T19:03:55Z,2024-08-22T19:21:17Z,3,1,MERGED
+perseus,Design updates,https://github.com/Khan/perseus/pull/1542,2024-08-21T23:01:03Z,2024-08-22T00:02:30Z,5,9,MERGED
+perseus,Add a finite point question to gallery,https://github.com/Khan/perseus/pull/1541,2024-08-21T19:25:02Z,2024-08-22T16:43:55Z,4,2,MERGED
+perseus,[Graphie] Adjust Scaling of Text to Render Properly in Mobile,https://github.com/Khan/perseus/pull/1540,2024-08-21T19:05:05Z,2024-09-10T19:29:30Z,9,12,MERGED
+perseus,[Locked Labels] Implement adding/editing/deleting a standalone locked label,https://github.com/Khan/perseus/pull/1539,2024-08-21T18:24:59Z,2024-08-22T19:12:13Z,8,9,MERGED
+perseus,wip: Add tests and rerender when showTooltips changes to update editor preview,https://github.com/Khan/perseus/pull/1535,2024-08-21T14:31:20Z,2024-08-23T15:44:45Z,5,14,CLOSED
+perseus,[Locked labels] View locked labels in an Interactive Graph,https://github.com/Khan/perseus/pull/1533,2024-08-20T23:12:28Z,2024-08-22T18:49:01Z,5,5,MERGED
+perseus,Add PhET simulation content editor,https://github.com/Khan/perseus/pull/1532,2024-08-20T21:55:59Z,2024-08-21T23:49:04Z,7,16,MERGED
+perseus,[Interactive Graph Locked Figures] Add controls to move a whole locked polygon,https://github.com/Khan/perseus/pull/1526,2024-08-15T17:22:07Z,2024-08-19T21:38:59Z,6,2,MERGED
+perseus,Perseus Editor: Add ContentPreview component,https://github.com/Khan/perseus/pull/1521,2024-08-14T21:22:29Z,2024-08-15T17:04:16Z,9,21,MERGED
+perseus,[🔥AUDIT🔥] Fonts: fix path to Lato-Regular.woff2 in Storybook,https://github.com/Khan/perseus/pull/1519,2024-08-14T21:00:51Z,2024-08-14T22:03:18Z,4,1,MERGED
+perseus,Replace the 'Set as static' button with a switch,https://github.com/Khan/perseus/pull/1517,2024-08-14T18:59:37Z,2024-08-14T21:09:41Z,4,3,MERGED
+perseus,[Start Coords] Implement start coords UI for angle graphs,https://github.com/Khan/perseus/pull/1515,2024-08-14T00:20:45Z,2024-08-14T16:46:39Z,2,1,MERGED
+perseus,Create PhET simulation widget,https://github.com/Khan/perseus/pull/1512,2024-08-13T06:22:14Z,2024-08-19T23:38:35Z,13,33,MERGED
+perseus,Lint against static widgets in question stems,https://github.com/Khan/perseus/pull/1511,2024-08-12T23:12:35Z,2024-08-13T21:48:55Z,5,5,MERGED
+perseus,[Interactive Graph: test utils] Do not set the coords field by default in the builder,https://github.com/Khan/perseus/pull/1505,2024-08-08T23:33:55Z,2024-08-09T20:50:47Z,3,1,MERGED
+perseus,make the trig buttons real text so they can be translated,https://github.com/Khan/perseus/pull/1497,2024-08-07T19:31:50Z,2024-08-13T19:17:26Z,4,7,MERGED
+perseus,Frameless Preview - 1: ContentRenderer,https://github.com/Khan/perseus/pull/1494,2024-08-06T22:32:03Z,2024-08-08T19:20:44Z,3,15,CLOSED
+perseus,[Interactive Graph Editor] Add/Edit/Delete Locked Function,https://github.com/Khan/perseus/pull/1493,2024-08-06T21:57:44Z,2024-08-08T19:06:34Z,16,14,MERGED
+perseus,[Hint Mode: Start Coords] Build the foundation for adding start coords UI for angle graphs,https://github.com/Khan/perseus/pull/1492,2024-08-06T21:43:00Z,2024-08-08T17:52:06Z,5,4,MERGED
+perseus,Export compiled CSS in package.json,https://github.com/Khan/perseus/pull/1490,2024-08-06T19:46:19Z,2024-08-13T19:06:20Z,5,4,MERGED
+perseus,[Hint Mode: Start Coords] Add start coords UI for polygon graphs (snap to grid only),https://github.com/Khan/perseus/pull/1488,2024-08-06T00:34:08Z,2024-08-06T16:56:38Z,8,2,MERGED
+perseus,[Hint Mode: Start Coords] Add start coords UI for point graphs (limited only),https://github.com/Khan/perseus/pull/1486,2024-08-05T20:51:20Z,2024-08-05T22:06:36Z,5,1,MERGED
+perseus,[Interactive Graph Editor: Storybook] Add a story for Point graph type start coords,https://github.com/Khan/perseus/pull/1482,2024-08-02T23:03:43Z,2024-08-05T19:59:03Z,7,3,MERGED
+perseus,Migrate ItemExtrasEditor to Wonder-Blocks,https://github.com/Khan/perseus/pull/1477,2024-08-01T23:11:06Z,2024-08-02T23:28:43Z,7,6,MERGED
+perseus,fix(LEMS-2132): add dialog title and description to expression widget,https://github.com/Khan/perseus/pull/1475,2024-08-01T22:47:09Z,2024-08-06T16:11:23Z,6,9,MERGED
+perseus,[Interactive Graph Editor] Fix the dropdowns overlapping labels in locked figures settings,https://github.com/Khan/perseus/pull/1471,2024-08-01T00:15:20Z,2024-08-02T19:01:42Z,3,1,MERGED
+perseus,[Locked Figures Aria] Use TextArea instead of TextField,https://github.com/Khan/perseus/pull/1706,2024-09-30T23:28:33Z,2024-09-30T23:53:39Z,3,20,MERGED
+perseus,BUGFIX - Leftmost number in Number Line widget misaligned,https://github.com/Khan/perseus/pull/1695,2024-09-27T23:08:56Z,2024-10-08T23:28:22Z,4,6,MERGED
+perseus,[Locked Figure Labels] Add color select to locked figure labels settings,https://github.com/Khan/perseus/pull/1693,2024-09-27T22:37:51Z,2024-09-30T23:49:14Z,3,17,MERGED
+perseus,[Locked Figure Aria] Locked polygon aria labels (graph + editor),https://github.com/Khan/perseus/pull/1691,2024-09-27T21:58:32Z,2024-09-30T23:02:15Z,4,17,MERGED
+perseus,[Locked Figure Labels] Add/edit/delete locked polygon labels,https://github.com/Khan/perseus/pull/1690,2024-09-27T21:30:15Z,2024-09-30T22:45:57Z,5,15,MERGED
+perseus,[Locked Figure Labels] View locked polygon labels,https://github.com/Khan/perseus/pull/1689,2024-09-27T20:58:31Z,2024-09-30T22:37:25Z,3,14,MERGED
+perseus,[Locked Figure Aria] Locked function aria labels (graph + editor),https://github.com/Khan/perseus/pull/1687,2024-09-26T23:46:52Z,2024-09-30T22:27:35Z,8,15,MERGED
+perseus,[Locked Figure Aria] Implement locked ellipse aria labels (graph + editor),https://github.com/Khan/perseus/pull/1686,2024-09-26T22:48:18Z,2024-09-30T22:19:56Z,4,12,MERGED
+perseus,[Locked Figure Aria] Implement locked vector aria labels (graph + editor),https://github.com/Khan/perseus/pull/1685,2024-09-26T22:01:09Z,2024-09-30T22:13:35Z,3,11,MERGED
+perseus,[Locked Figure Aria] Locked line aria label editor UI,https://github.com/Khan/perseus/pull/1684,2024-09-26T21:34:30Z,2024-09-30T22:04:41Z,7,10,MERGED
+perseus,[Locked Figure Aria] Locked point aria label editor UI,https://github.com/Khan/perseus/pull/1682,2024-09-26T20:32:02Z,2024-09-30T21:48:37Z,6,8,MERGED
+perseus,Remove code coverage reporting from Github Actions,https://github.com/Khan/perseus/pull/1672,2024-09-25T18:54:09Z,2024-09-25T21:07:30Z,4,3,MERGED
+perseus,Updating protractor to default position.,https://github.com/Khan/perseus/pull/1669,2024-09-25T15:33:56Z,2024-09-25T17:54:17Z,4,2,MERGED
+perseus,[Locked Figure Labels] Add/edit/delete locked function labels,https://github.com/Khan/perseus/pull/1659,2024-09-23T22:26:24Z,2024-09-24T17:54:28Z,4,12,MERGED
+perseus,[Locked Figure Labels] View locked function labels,https://github.com/Khan/perseus/pull/1658,2024-09-23T22:07:46Z,2024-09-24T17:47:31Z,5,11,MERGED
+perseus,[Locked Figure Labels] Add/edit/delete locked ellipse labels,https://github.com/Khan/perseus/pull/1655,2024-09-19T20:52:15Z,2024-09-24T17:30:52Z,5,10,MERGED
+perseus,[Locked Figure Labels] View locked ellipse labels,https://github.com/Khan/perseus/pull/1653,2024-09-19T20:17:21Z,2024-09-24T17:22:02Z,5,8,MERGED
+perseus,[Locked Figure Labels] Add/edit/delete locked vector labels,https://github.com/Khan/perseus/pull/1652,2024-09-19T18:44:16Z,2024-09-24T17:01:19Z,4,5,MERGED
+perseus,[Locked Figure Labels] View locked vector labels,https://github.com/Khan/perseus/pull/1650,2024-09-19T18:12:26Z,2024-09-24T16:52:50Z,5,3,MERGED
+perseus,[Locked Figure Labels] Add labels to locked lines' defining points in the graph and editor,https://github.com/Khan/perseus/pull/1647,2024-09-18T19:37:31Z,2024-09-19T17:46:57Z,8,10,MERGED
+perseus,[SSS] Lint validators for banned imports,https://github.com/Khan/perseus/pull/1645,2024-09-18T18:48:00Z,2024-09-25T19:22:55Z,10,4,MERGED
+perseus,[Locked Figure Labels] Add/edit/delete locked line labels,https://github.com/Khan/perseus/pull/1644,2024-09-18T18:11:42Z,2024-09-19T17:35:11Z,7,5,MERGED
+perseus,[Locked Figure Labels] View locked line labels,https://github.com/Khan/perseus/pull/1642,2024-09-18T16:15:39Z,2024-09-18T20:03:09Z,6,3,MERGED
+perseus,[Locked Figure Labels] Locked points: Add the locked point labels UI to the editor,https://github.com/Khan/perseus/pull/1638,2024-09-17T19:56:46Z,2024-09-18T15:05:50Z,5,4,MERGED
+perseus,[Locked Figure Labels] View locked point labels,https://github.com/Khan/perseus/pull/1637,2024-09-17T19:37:10Z,2024-09-18T14:59:01Z,6,2,MERGED
+perseus,Adding back a nested svg element to fix Interactive Graph regression,https://github.com/Khan/perseus/pull/1632,2024-09-16T23:09:36Z,2024-09-16T23:48:06Z,4,2,MERGED
+perseus,Remove depricated/unrecommneded widgets from perseus editor dropdown.,https://github.com/Khan/perseus/pull/1631,2024-09-16T22:56:22Z,2024-09-18T17:06:02Z,4,3,MERGED
+perseus,PhET a11y updates,https://github.com/Khan/perseus/pull/1619,2024-09-13T17:42:48Z,2024-09-13T18:46:06Z,4,2,MERGED
+perseus,"[Interactive Graph] Refactor the mafs graph so the locked labels layer is between the interactive layer and background layer (""Mafs sandwich"")",https://github.com/Khan/perseus/pull/1617,2024-09-12T21:39:49Z,2024-09-16T15:46:24Z,6,30,MERGED
+perseus,BUGFIX - Some Graphie Labels Were Misaligned,https://github.com/Khan/perseus/pull/1616,2024-09-12T20:54:48Z,2024-09-12T22:26:42Z,5,3,MERGED
+perseus,[Interactive Graph Editor] Use Wonder Blocks TextArea in the graph description settings UI,https://github.com/Khan/perseus/pull/1607,2024-09-10T20:20:00Z,2024-09-10T23:27:02Z,4,1,MERGED
+perseus,[Interactive Graph] Add example function area for locked function settings,https://github.com/Khan/perseus/pull/1600,2024-09-06T19:04:00Z,2024-09-10T20:20:57Z,8,8,MERGED
+perseus,Add remove point button,https://github.com/Khan/perseus/pull/1598,2024-09-06T03:14:38Z,2024-09-12T18:53:36Z,8,11,MERGED
+perseus,PhET widget: responsive iframe sizing,https://github.com/Khan/perseus/pull/1595,2024-09-05T05:29:31Z,2024-09-05T16:01:53Z,5,2,MERGED
+perseus,Adjust sizing,https://github.com/Khan/perseus/pull/1589,2024-09-04T20:41:04Z,2024-09-04T21:56:17Z,5,7,MERGED
+perseus,Tidy up PhET widget,https://github.com/Khan/perseus/pull/1587,2024-09-04T17:48:43Z,2024-09-04T21:18:17Z,5,6,MERGED
+perseus,Add save warnings to PhET widget editor and unhide widget,https://github.com/Khan/perseus/pull/1582,2024-09-03T20:29:15Z,2024-09-04T20:47:10Z,5,5,MERGED
+perseus,Add TeX support to dropdown,https://github.com/Khan/perseus/pull/1810,2024-10-30T15:44:20Z,2024-12-18T15:08:36Z,8,19,MERGED
+perseus,[Unlimited Polygon] Initial Scafolding for Unlimited Polygon,https://github.com/Khan/perseus/pull/1764,2024-10-18T11:40:07Z,2024-10-30T17:00:01Z,15,33,MERGED
+perseus,BUGFIX: [Number Line] - Some exercises with fractions would not render,https://github.com/Khan/perseus/pull/1762,2024-10-17T22:23:37Z,2024-10-17T23:12:36Z,3,1,MERGED
+perseus,BUGFIX: [Number Line] - Tick labels not showing in some exercises,https://github.com/Khan/perseus/pull/1752,2024-10-15T21:15:21Z,2024-10-16T18:13:16Z,8,5,MERGED
+perseus,BUGFIX - [Numeric Input] - Check for wrong answers when scoring,https://github.com/Khan/perseus/pull/1743,2024-10-11T17:21:00Z,2024-10-28T14:48:19Z,6,10,MERGED
+perseus,Input Number Deprecation and Conversion into Numeric Input,https://github.com/Khan/perseus/pull/1731,2024-10-07T22:34:40Z,2024-11-14T20:44:30Z,28,34,MERGED
+perseus,[Storybook] Disable snapshots globally + enable for select few stories,https://github.com/Khan/perseus/pull/1897,2024-11-21T00:06:53Z,2024-11-25T21:01:44Z,3,4,CLOSED
+perseus,[Numeric Input] - Link tooltip content to input field for assistive technologies,https://github.com/Khan/perseus/pull/1891,2024-11-20T17:48:08Z,2024-12-03T21:52:05Z,5,4,MERGED
+perseus,Noticed a regression for Input Number while testing on webapp. Testing this logic fix,https://github.com/Khan/perseus/pull/1866,2024-11-15T00:58:03Z,2024-11-15T21:33:32Z,4,6,MERGED
+perseus,fix(LEMS-2617): Require `$` to display TeX in axis labels,https://github.com/Khan/perseus/pull/1865,2024-11-14T23:23:48Z,2024-11-15T22:17:46Z,4,9,MERGED
+perseus,"[Numeric Input] - Show ""Format Options"" Tooltip as List",https://github.com/Khan/perseus/pull/1861,2024-11-14T22:07:32Z,2024-12-03T21:03:54Z,9,13,MERGED
+perseus,Addition of new alert when json is converted.,https://github.com/Khan/perseus/pull/1859,2024-11-14T20:59:55Z,2024-11-14T22:51:42Z,9,3,MERGED
+perseus,[Locked Figure Aria] Use spoken math in Locked Line settings autogen labels,https://github.com/Khan/perseus/pull/1854,2024-11-14T01:21:41Z,2024-11-15T19:50:40Z,7,19,MERGED
+perseus,[Locked Labels] Make `{$}` show up as regular symbols inside TeX,https://github.com/Khan/perseus/pull/1847,2024-11-13T00:59:46Z,2024-11-13T20:50:14Z,7,2,MERGED
+perseus,Add visible label and ARIA label to Dropdown widget,https://github.com/Khan/perseus/pull/1845,2024-11-12T21:21:27Z,2024-12-02T18:46:34Z,8,23,MERGED
+perseus,[Locked Figure Labels] Util function to generate spoken math + use it within Locked Point aria labels,https://github.com/Khan/perseus/pull/1839,2024-11-08T01:47:53Z,2024-11-14T22:30:20Z,9,13,MERGED
+perseus,[Numeric Input] - Update styling to match modern inputs,https://github.com/Khan/perseus/pull/1832,2024-11-07T00:44:34Z,2024-12-03T20:05:24Z,4,10,MERGED
+perseus,[SR][SR Tree] Add screen reader tree to interactive graph editor,https://github.com/Khan/perseus/pull/2062,2024-12-27T01:29:55Z,2025-01-09T18:46:48Z,9,16,MERGED
+perseus,[Dropdown] Bugfix - Text in dropdown was shifted up after adding TeX support via Renderer,https://github.com/Khan/perseus/pull/2059,2024-12-23T20:36:10Z,2025-01-06T21:57:50Z,4,3,MERGED
+perseus,[Interactive Graph] New Axes type for graph markings.,https://github.com/Khan/perseus/pull/2053,2024-12-20T19:50:00Z,2025-01-13T19:40:12Z,3,12,MERGED
+perseus,[Interactive Graph][Axis labels] Make default x & y axis labels TeX on load,https://github.com/Khan/perseus/pull/2033,2024-12-18T23:17:15Z,2024-12-18T23:46:16Z,3,2,MERGED
+perseus,feat(LEMS-1733): adds aria labels to line segment,https://github.com/Khan/perseus/pull/2032,2024-12-18T22:30:43Z,2025-01-22T22:04:49Z,12,25,MERGED
+perseus,[Numeric Input] Update UI of editor,https://github.com/Khan/perseus/pull/2015,2024-12-16T20:33:27Z,2025-01-27T19:32:41Z,12,37,MERGED
+perseus,[Locked Figure Labels] Update placeholder to include TeX $s,https://github.com/Khan/perseus/pull/1985,2024-12-11T22:10:47Z,2024-12-12T01:20:33Z,2,3,MERGED
+perseus,[Locked Figures Aria] Update the auto-generated text to spell out commas,https://github.com/Khan/perseus/pull/1976,2024-12-10T19:24:32Z,2024-12-10T20:02:19Z,2,1,MERGED
+perseus,[Numeric Input] - BUGFIX - Adjust color contrast for tooltip text,https://github.com/Khan/perseus/pull/1966,2024-12-06T22:31:55Z,2024-12-06T23:48:37Z,6,2,MERGED
+perseus,Reverses PR #1944 (last Version Packages PR),https://github.com/Khan/perseus/pull/1958,2024-12-05T22:21:52Z,2024-12-05T22:38:44Z,2,1,MERGED
+perseus,[Storybook] Update styles to be more accurate to prod,https://github.com/Khan/perseus/pull/1945,2024-12-04T02:01:52Z,2024-12-05T00:01:16Z,9,8,MERGED
+perseus,[editor-pi] [Interactive Graph] Support tick labels that are multiples of pi,https://github.com/Khan/perseus/pull/2167,2025-01-29T00:55:15Z,2025-01-30T00:07:37Z,7,3,MERGED
+perseus,Disable Chromatic snapshots globally,https://github.com/Khan/perseus/pull/2130,2025-01-20T18:27:39Z,2025-01-20T21:03:21Z,3,4,MERGED
+perseus,[SR][SR Tree] Show the descriptions again,https://github.com/Khan/perseus/pull/2096,2025-01-13T18:21:00Z,2025-01-13T20:20:45Z,2,2,MERGED
+perseus,feat(LEMS-2484): add description for sinusoid,https://github.com/Khan/perseus/pull/2094,2025-01-10T22:58:27Z,2025-02-12T18:55:17Z,3,35,CLOSED
+perseus,[Locked Figures Aria] Correct aria autogen for negative coords,https://github.com/Khan/perseus/pull/2081,2025-01-08T00:25:56Z,2025-01-08T22:33:40Z,4,2,MERGED
+perseus,[Interactive Graph] Update protractor to new SVG,https://github.com/Khan/perseus/pull/2263,2025-02-21T20:57:48Z,2025-02-26T00:14:19Z,4,8,MERGED
+perseus,Create new Perseus linter rule to catch markdown images added to content without a URL,https://github.com/Khan/perseus/pull/2262,2025-02-20T22:40:48Z,2025-02-21T19:58:24Z,4,10,MERGED
+perseus,Fix Cypress so it runs properly on Github Actions,https://github.com/Khan/perseus/pull/2260,2025-02-20T05:30:02Z,2025-02-20T16:41:43Z,2,3,MERGED
+perseus,[SR Tree] Add infotip with explanation about SR Tree,https://github.com/Khan/perseus/pull/2256,2025-02-20T00:05:49Z,2025-02-24T22:54:45Z,2,2,MERGED
+perseus,[Linter] Remove Math Font Size rule from editor linter,https://github.com/Khan/perseus/pull/2240,2025-02-13T21:21:48Z,2025-02-14T22:06:10Z,2,2,MERGED
+perseus,[LX] Add hairlines when Circle center has focus,https://github.com/Khan/perseus/pull/2236,2025-02-12T23:40:41Z,2025-02-13T22:49:57Z,3,5,MERGED
+perseus,Enable jsx-a11y eslint rules,https://github.com/Khan/perseus/pull/2232,2025-02-12T20:12:51Z,2025-02-13T22:14:34Z,7,22,MERGED
+perseus,"[SR] Angle - Add the ""interactive elements"" overall graph description",https://github.com/Khan/perseus/pull/2213,2025-02-07T01:27:34Z,2025-02-13T22:17:37Z,3,4,MERGED
+perseus,[LX] Add hairlines when point has focus,https://github.com/Khan/perseus/pull/2212,2025-02-07T00:14:25Z,2025-02-13T22:13:23Z,3,2,MERGED
+perseus,[SR Tree] Handle SR Tree when multiple editors are on the page,https://github.com/Khan/perseus/pull/2208,2025-02-06T20:34:56Z,2025-02-07T22:00:48Z,4,3,MERGED
+perseus,[fool-tips] Tooltip is Dead. Long Live Tooltip.,https://github.com/Khan/perseus/pull/2195,2025-02-05T18:05:20Z,2025-02-05T23:56:52Z,4,3,MERGED
+perseus,[Interactive Graph] Update protractor to new SVG,https://github.com/Khan/perseus/pull/2263,2025-02-21T20:57:48Z,2025-02-26T00:14:19Z,4,8,MERGED
+perseus,Create new Perseus linter rule to catch markdown images added to content without a URL,https://github.com/Khan/perseus/pull/2262,2025-02-20T22:40:48Z,2025-02-21T19:58:24Z,4,10,MERGED
+perseus,Fix Cypress so it runs properly on Github Actions,https://github.com/Khan/perseus/pull/2260,2025-02-20T05:30:02Z,2025-02-20T16:41:43Z,2,3,MERGED
+perseus,[SR Tree] Add infotip with explanation about SR Tree,https://github.com/Khan/perseus/pull/2256,2025-02-20T00:05:49Z,2025-02-24T22:54:45Z,2,2,MERGED
+perseus,[Linter] Remove Math Font Size rule from editor linter,https://github.com/Khan/perseus/pull/2240,2025-02-13T21:21:48Z,2025-02-14T22:06:10Z,2,2,MERGED
+perseus,[LX] Add hairlines when Circle center has focus,https://github.com/Khan/perseus/pull/2236,2025-02-12T23:40:41Z,2025-02-13T22:49:57Z,3,5,MERGED
+perseus,Enable jsx-a11y eslint rules,https://github.com/Khan/perseus/pull/2232,2025-02-12T20:12:51Z,2025-02-13T22:14:34Z,7,22,MERGED
+perseus,"[SR] Angle - Add the ""interactive elements"" overall graph description",https://github.com/Khan/perseus/pull/2213,2025-02-07T01:27:34Z,2025-02-13T22:17:37Z,3,4,MERGED
+perseus,[LX] Add hairlines when point has focus,https://github.com/Khan/perseus/pull/2212,2025-02-07T00:14:25Z,2025-02-13T22:13:23Z,3,2,MERGED
+perseus,[SR Tree] Handle SR Tree when multiple editors are on the page,https://github.com/Khan/perseus/pull/2208,2025-02-06T20:34:56Z,2025-02-07T22:00:48Z,4,3,MERGED
+perseus,[fool-tips] Tooltip is Dead. Long Live Tooltip.,https://github.com/Khan/perseus/pull/2195,2025-02-05T18:05:20Z,2025-02-05T23:56:52Z,4,3,MERGED
+perseus,Fix ios mobile number keypad that hides away when pressing any key or tabs,https://github.com/Khan/perseus/pull/2338,2025-03-28T23:12:44Z,2025-04-11T16:28:06Z,10,17,MERGED
+perseus,Fix MathInput bottom padding to make it consistent with our styling,https://github.com/Khan/perseus/pull/2337,2025-03-28T22:14:50Z,2025-04-02T17:27:27Z,6,3,MERGED
+perseus,Fixing the Shift functions Error by resolving a falsey bug with the Grapher Widget's asymptotes. ,https://github.com/Khan/perseus/pull/2336,2025-03-28T17:53:08Z,2025-03-28T21:05:16Z,2,10,MERGED
+perseus,"[SR] Remove instructions for static graphs, mark interactive elements as disabled",https://github.com/Khan/perseus/pull/2326,2025-03-25T22:30:42Z,2025-03-26T22:50:50Z,10,2,MERGED
+perseus,idocs(changeset): Modified the 'Aligned equations' template content to change the current format as requested in the ticket. ,https://github.com/Khan/perseus/pull/2310,2025-03-19T18:55:21Z,2025-03-27T18:33:01Z,3,5,MERGED
+perseus,Fix number line input outline to meet accessible contrast standards,https://github.com/Khan/perseus/pull/2301,2025-03-13T23:32:41Z,2025-03-26T22:44:39Z,4,7,MERGED
+perseus,[Free Response Widget] Add ability to customize placeholder,https://github.com/Khan/perseus/pull/2297,2025-03-12T12:47:08Z,2025-03-24T11:50:48Z,6,5,MERGED
+perseus,[LEMS-2880] Bugfix the close button focus outline on hover in keypad and other style issues,https://github.com/Khan/perseus/pull/2296,2025-03-11T19:33:51Z,2025-03-26T22:38:31Z,5,12,MERGED
+perseus,[Polygon] Show right angle markers when showAngles is on,https://github.com/Khan/perseus/pull/2294,2025-03-10T23:07:26Z,2025-03-11T00:05:25Z,2,2,MERGED
+perseus,Mark interactive graph widget as accessible!,https://github.com/Khan/perseus/pull/2288,2025-03-07T02:13:12Z,2025-03-07T18:01:55Z,2,2,MERGED
+perseus,[LX] Make static graphs' interactive elements visually disabled,https://github.com/Khan/perseus/pull/2287,2025-03-07T01:53:12Z,2025-03-07T18:22:14Z,7,3,MERGED
+perseus,Add scoring criteria to Free Response Widget,https://github.com/Khan/perseus/pull/2286,2025-03-06T21:23:08Z,2025-03-12T12:37:28Z,13,12,MERGED
+perseus,[CX] Allow option to rotate axis labels on interactive graphs,https://github.com/Khan/perseus/pull/2284,2025-03-05T21:40:35Z,2025-03-12T22:01:26Z,3,11,MERGED
+perseus,Update Wonder Blocks dependencies,https://github.com/Khan/perseus/pull/2430,2025-04-25T15:19:32Z,2025-04-30T14:50:42Z,3,4,MERGED
+perseus,Update Radio Widget docs to include rationales in the test data,https://github.com/Khan/perseus/pull/2416,2025-04-22T22:55:49Z,2025-04-23T16:29:30Z,4,4,MERGED
+perseus,Update Wonder Blocks dependencies: Tokens as CSS variables,https://github.com/Khan/perseus/pull/2413,2025-04-22T16:56:12Z,2025-04-24T16:05:28Z,2,5,MERGED
+perseus,Stop bundling _any_ mathquill styles/fonts - let host app do that!,https://github.com/Khan/perseus/pull/2385,2025-04-11T20:59:59Z,2025-04-21T16:28:54Z,12,17,MERGED
+perseus,Remove RendererWithDebugUI,https://github.com/Khan/perseus/pull/2352,2025-04-03T21:42:42Z,2025-04-10T19:48:20Z,21,20,MERGED
+perseus,[🔥AUDIT🔥] Fix Plotter story: Add plotDimensions to testdata,https://github.com/Khan/perseus/pull/2351,2025-04-03T21:33:38Z,2025-04-03T21:47:58Z,2,2,MERGED
+perseus,Vendor in mathquill release to work around Github issue,https://github.com/Khan/perseus/pull/2346,2025-04-01T23:18:04Z,2025-04-01T23:40:30Z,2,3,MERGED
+perseus,Fix getSaveWarnings in Free Response widget,https://github.com/Khan/perseus/pull/2531,2025-05-28T19:04:33Z,2025-05-28T22:19:32Z,2,4,MERGED
+perseus,Remove preferred popover direction from Label Image editor,https://github.com/Khan/perseus/pull/2512,2025-05-21T20:13:11Z,2025-05-22T17:08:32Z,2,24,MERGED
+perseus,Add tab navigation to new radio widget,https://github.com/Khan/perseus/pull/2510,2025-05-20T23:37:50Z,2025-05-21T22:09:59Z,2,3,MERGED
+perseus,Use LabeledField in FreeResponseEditor,https://github.com/Khan/perseus/pull/2493,2025-05-15T18:47:00Z,2025-05-19T15:10:55Z,3,3,MERGED
+perseus,Update Free Response styles and accessibility,https://github.com/Khan/perseus/pull/2486,2025-05-14T19:56:16Z,2025-05-15T14:52:31Z,5,6,MERGED
+perseus,Use ContentPreview for storybook EditorPage preview,https://github.com/Khan/perseus/pull/2477,2025-05-12T23:09:27Z,2025-05-13T23:50:53Z,3,2,MERGED
+perseus,CS Program Answerless Rendering,https://github.com/Khan/perseus/pull/2471,2025-05-12T16:39:06Z,2025-05-16T16:45:33Z,9,17,CLOSED
+perseus,Render TeX in Free Response Widget questions,https://github.com/Khan/perseus/pull/2453,2025-05-07T20:43:27Z,2025-05-09T15:47:54Z,4,4,MERGED
+perseus,Expression Editor: UI update to clarify how things work,https://github.com/Khan/perseus/pull/2449,2025-05-07T17:48:33Z,2025-05-07T22:04:20Z,8,9,MERGED
+perseus,Remove unused stats tables from item extras,https://github.com/Khan/perseus/pull/2666,2025-06-30T23:22:11Z,2025-07-02T20:27:11Z,3,2,MERGED
+perseus,[Radio] | (CX) | Nicer image editing in radio,https://github.com/Khan/perseus/pull/2647,2025-06-25T18:19:10Z,2025-08-06T23:26:26Z,24,70,MERGED
+perseus,docs(changeset): Interactive Graph code cleaup and bug fix for edge-based label positioning.,https://github.com/Khan/perseus/pull/2635,2025-06-23T22:30:04Z,2025-07-02T23:08:57Z,7,10,MERGED
+perseus,Wonder Blocks: Remove deprecated semanticColor.text and semanticColor.border token instances,https://github.com/Khan/perseus/pull/2627,2025-06-19T19:53:47Z,2025-06-24T11:06:14Z,3,4,MERGED
+perseus,[Radio] | (CX) | Redesign Radio editor UI,https://github.com/Khan/perseus/pull/2626,2025-06-19T00:45:21Z,2025-07-22T22:38:19Z,16,30,MERGED
+perseus,[Radio] | (CX) | Convert editor buttons to use Wonder Blocks equivalents,https://github.com/Khan/perseus/pull/2619,2025-06-17T21:24:07Z,2025-06-18T20:07:09Z,6,14,MERGED
+perseus,[Radio] | (CX) | Resize question box height when a word is too long in the editor,https://github.com/Khan/perseus/pull/2618,2025-06-17T20:00:00Z,2025-06-18T18:02:38Z,2,2,MERGED
+perseus,Update Code Owners for Radio Project ,https://github.com/Khan/perseus/pull/2610,2025-06-16T20:31:49Z,2025-06-16T20:52:29Z,2,2,MERGED
+perseus,Replace custom icons with WB components for consistent styling in Perseus Editor,https://github.com/Khan/perseus/pull/2583,2025-06-11T21:21:40Z,2025-06-16T22:28:27Z,5,5,MERGED
+perseus,Add template prop to EditorPage,https://github.com/Khan/perseus/pull/2580,2025-06-11T19:18:36Z,2025-06-26T22:31:38Z,5,7,MERGED
+perseus,Upgrade to Storybook v9,https://github.com/Khan/perseus/pull/2551,2025-06-03T18:47:39Z,2025-06-03T20:42:47Z,3,4,MERGED
+perseus,Enable react/display-name rule for better React dev tools support,https://github.com/Khan/perseus/pull/2751,2025-07-31T17:54:51Z,2025-07-31T21:56:45Z,5,2,MERGED
+perseus,"Force certain widgets to always be LTR, even in RTL langs",https://github.com/Khan/perseus/pull/2747,2025-07-30T15:20:04Z,2025-07-30T20:44:15Z,6,4,MERGED
+perseus,[Radio] | (DX) | Add null check in radio.ff.tsx,https://github.com/Khan/perseus/pull/2742,2025-07-25T22:19:37Z,2025-07-29T16:57:39Z,4,3,MERGED
+perseus,[Interactive Graph] Show min tick when axis doesn't go through it,https://github.com/Khan/perseus/pull/2730,2025-07-23T23:37:30Z,2025-07-24T20:08:49Z,4,4,MERGED
+perseus,[Radio] | (CX) | Implement choice reordering in the editor,https://github.com/Khan/perseus/pull/2729,2025-07-23T22:10:42Z,2025-07-24T17:43:25Z,8,4,MERGED
+perseus,Schema change detection - change diff format,https://github.com/Khan/perseus/pull/2726,2025-07-22T18:51:00Z,2025-07-25T18:38:55Z,4,5,MERGED
+perseus,Detect item splitting function changes in Github Action,https://github.com/Khan/perseus/pull/2719,2025-07-17T22:07:04Z,2025-07-25T19:33:09Z,16,31,MERGED
+perseus,feat(LEMS-3078): sort key randomization,https://github.com/Khan/perseus/pull/2718,2025-07-17T21:41:33Z,2025-07-25T20:39:00Z,5,6,MERGED
+perseus,[Interactive Graph][Point] Allow points on Point graphs to sit on edge of graph,https://github.com/Khan/perseus/pull/2714,2025-07-16T22:33:12Z,2025-07-21T21:36:36Z,2,2,MERGED
+perseus,[Interactive Graph] Stop alongEdge labels from overflowing out of graph container,https://github.com/Khan/perseus/pull/2710,2025-07-16T20:00:28Z,2025-07-21T21:34:48Z,3,4,MERGED
+perseus,Bugfix: support static mode in Grapher,https://github.com/Khan/perseus/pull/2709,2025-07-16T19:36:10Z,2025-07-16T19:44:54Z,2,2,MERGED
+perseus,Improve Perseus documentation,https://github.com/Khan/perseus/pull/2699,2025-07-11T22:32:12Z,2025-07-24T18:41:53Z,18,24,MERGED
+perseus,POC: Improve Perseus Documentation with Indicator component,https://github.com/Khan/perseus/pull/2696,2025-07-10T22:39:26Z,2025-07-10T23:33:06Z,3,2,CLOSED
+perseus,[Interactive Graph] [Polygon] Fix concave polygon vertex labels jumping between interior and exterior angles,https://github.com/Khan/perseus/pull/2681,2025-07-04T04:40:06Z,2025-07-08T22:01:29Z,6,7,MERGED
+perseus,POC: Improve Perseus Documentation,https://github.com/Khan/perseus/pull/2680,2025-07-04T00:18:12Z,2025-07-10T23:33:24Z,8,19,CLOSED
+perseus,"[Image] | (DX) | Regression stories that include mobile and ""within article"" cases",https://github.com/Khan/perseus/pull/2853,2025-08-28T23:09:25Z,2025-09-02T18:15:43Z,5,2,MERGED
+perseus,[Image] | (UX) | Update Image widget to match new designs,https://github.com/Khan/perseus/pull/2848,2025-08-28T01:01:47Z,2025-09-04T19:16:25Z,15,18,MERGED
+perseus,[Image] | (CX) | Add the Title field back in the Image editor,https://github.com/Khan/perseus/pull/2847,2025-08-27T22:27:42Z,2025-08-28T17:37:30Z,6,7,MERGED
+perseus,[Image] | (DX) | Fix alignment in regression stories,https://github.com/Khan/perseus/pull/2845,2025-08-27T21:55:17Z,2025-08-28T17:28:32Z,4,2,MERGED
+perseus,[Image] | (CX) | Modernize the Image widget editor UI,https://github.com/Khan/perseus/pull/2842,2025-08-27T20:05:36Z,2025-08-27T23:03:49Z,6,4,MERGED
+perseus,[Radio] Bugfix - Correctness indicator was missing in static widget,https://github.com/Khan/perseus/pull/2838,2025-08-26T23:59:54Z,2025-08-27T16:45:50Z,4,2,MERGED
+perseus,[Radio] Bugfix - Choice text not changing color when selected,https://github.com/Khan/perseus/pull/2837,2025-08-26T23:21:02Z,2025-08-27T16:43:10Z,4,5,MERGED
+perseus,Add documentation warning for using Graphie component,https://github.com/Khan/perseus/pull/2836,2025-08-26T21:11:30Z,2025-08-27T20:38:14Z,6,2,MERGED
+perseus,[Radio] Fix to allow users to scroll content after multiple choice is checked,https://github.com/Khan/perseus/pull/2831,2025-08-25T22:35:26Z,2025-08-27T17:42:58Z,8,3,MERGED
+perseus,[Radio] Fix how Graphie text is placed when inside a choice,https://github.com/Khan/perseus/pull/2826,2025-08-22T16:51:05Z,2025-08-25T22:12:29Z,7,5,MERGED
+perseus,[Image] | (DX) | Add regression stories for Image widget,https://github.com/Khan/perseus/pull/2819,2025-08-21T21:45:34Z,2025-08-25T17:13:33Z,7,4,MERGED
+perseus,[Image] (UX) Remove the custom mobile styling for title and caption,https://github.com/Khan/perseus/pull/2810,2025-08-18T23:56:39Z,2025-08-20T18:34:15Z,4,3,MERGED
+perseus,Fix strong styling issue not properly applying to rendered text,https://github.com/Khan/perseus/pull/2788,2025-08-12T19:07:18Z,2025-08-14T21:56:29Z,14,6,MERGED
+perseus,[Interactive Graph] Add `showAxisArrows` field to Interactive Graph editor,https://github.com/Khan/perseus/pull/2786,2025-08-11T23:14:21Z,2025-08-14T21:16:29Z,10,20,MERGED
+perseus,Add Jakarta Sans font for thunder blocks support in Storybook,https://github.com/Khan/perseus/pull/2781,2025-08-11T18:48:40Z,2025-08-11T19:14:53Z,5,2,MERGED
+perseus,Perseus documentation improvements,https://github.com/Khan/perseus/pull/2778,2025-08-08T17:09:58Z,2025-08-08T23:26:33Z,7,6,MERGED
+perseus,[Interactive Graph] Add `showAxisArrows` field to Interactive Graph widget,https://github.com/Khan/perseus/pull/2777,2025-08-07T22:11:05Z,2025-08-12T21:50:49Z,6,8,MERGED
+perseus,[Interactive Graph] | (CX) | Use dynamically resizing textarea for Description field,https://github.com/Khan/perseus/pull/2771,2025-08-06T22:01:47Z,2025-08-06T23:27:38Z,5,2,MERGED
+perseus,[Interactive Graph] | (DX) | Shorten interactive-graph-editor.tsx to avoid 1000+ line lint error,https://github.com/Khan/perseus/pull/2768,2025-08-06T00:26:06Z,2025-08-07T20:52:58Z,9,3,MERGED
+perseus,Add Perseus logo in Storybook,https://github.com/Khan/perseus/pull/2767,2025-08-05T23:47:48Z,2025-08-06T22:42:08Z,5,4,MERGED
+perseus,[Image] Add decorative toggle for Image widget editor and hide it behind a feature flag,https://github.com/Khan/perseus/pull/2930,2025-09-26T22:09:25Z,2025-10-01T19:50:48Z,18,9,MERGED
+perseus,"[Image] | (CX) | Remove ""math in caption"" linter error",https://github.com/Khan/perseus/pull/2927,2025-09-25T23:35:59Z,2025-09-29T22:48:31Z,4,4,MERGED
+perseus,[Radio] Add screen reader announcements to help clarify state to the user,https://github.com/Khan/perseus/pull/2919,2025-09-23T23:58:13Z,2025-09-29T21:26:51Z,5,13,MERGED
+perseus,[Image] | (DX) | Use WB LabeledField within image editor,https://github.com/Khan/perseus/pull/2917,2025-09-23T22:40:44Z,2025-09-24T19:05:53Z,6,3,MERGED
+perseus,[Image][Radio] Fix editor image preview for Graphie images,https://github.com/Khan/perseus/pull/2915,2025-09-23T20:38:10Z,2025-09-23T21:14:52Z,6,3,MERGED
+perseus,[Color - NAW] Refactor Image widget to use semantic fonts and colors,https://github.com/Khan/perseus/pull/2911,2025-09-18T20:10:47Z,2025-09-26T18:30:21Z,12,20,MERGED
+perseus,[Color - NAW] Add visual regression tests for Explanation widget,https://github.com/Khan/perseus/pull/2909,2025-09-17T15:18:22Z,2025-09-25T21:20:23Z,7,11,MERGED
+perseus,[Image] | (CX) (a11y) | Add long description field to Image widget editor,https://github.com/Khan/perseus/pull/2908,2025-09-16T23:26:19Z,2025-09-17T18:25:43Z,5,3,MERGED
+perseus,[Expression] Fix missing border in mobile keypad,https://github.com/Khan/perseus/pull/2907,2025-09-16T19:50:01Z,2025-09-22T18:03:44Z,7,5,MERGED
+perseus,Remove FixedToResponsive from SVGImage,https://github.com/Khan/perseus/pull/2902,2025-09-15T20:21:09Z,2025-09-15T21:33:02Z,6,2,CLOSED
+perseus,[Color - NAW] Refactor Definition widget to use semantic colors,https://github.com/Khan/perseus/pull/2899,2025-09-15T15:47:36Z,2025-09-25T18:53:23Z,15,14,MERGED
+perseus,Fix image widget sizing within grouped questions,https://github.com/Khan/perseus/pull/2897,2025-09-12T22:31:35Z,2025-09-15T22:33:23Z,9,10,MERGED
+perseus,"[Image] | (a11y) | Add `longDescription` to Image widget (""Explore image"" button + modal) for mobile",https://github.com/Khan/perseus/pull/2883,2025-09-10T20:15:24Z,2025-09-15T19:38:55Z,5,66,MERGED
+perseus,[Interactive graph] Fix polygon angles' shape and size,https://github.com/Khan/perseus/pull/2879,2025-09-09T20:45:44Z,2025-09-10T23:18:34Z,5,8,MERGED
+perseus,[Image] | (UX) | Fix extra spacing that got released with image redesign,https://github.com/Khan/perseus/pull/2869,2025-09-05T21:08:50Z,2025-09-05T23:14:11Z,5,2,MERGED
+perseus,"[Image] | (a11y) | Add `longDescription` to Image widget (""Explore image"" button + modal)",https://github.com/Khan/perseus/pull/2863,2025-09-04T00:51:13Z,2025-09-12T20:24:55Z,26,58,MERGED

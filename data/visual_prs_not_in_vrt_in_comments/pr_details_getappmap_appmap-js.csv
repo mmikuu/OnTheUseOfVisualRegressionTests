@@ -1,0 +1,254 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+appmap-js,Fixes nested packages appearing as only the top level package,https://github.com/getappmap/appmap-js/pull/61,2021-01-29T17:55:13Z,2021-01-29T18:39:47Z,1,4,MERGED
+appmap-js,"Don't display ""empty objects"" in the component diagram",https://github.com/getappmap/appmap-js/pull/58,2021-01-28T20:46:50Z,2021-01-29T19:27:07Z,1,5,MERGED
+appmap-js,Display SQL query type in details panel,https://github.com/getappmap/appmap-js/pull/36,2021-01-14T22:50:39Z,2021-01-14T22:59:50Z,1,1,MERGED
+appmap-js,Format SQL code in details panel,https://github.com/getappmap/appmap-js/pull/34,2021-01-14T20:16:33Z,2021-01-14T21:49:43Z,1,1,MERGED
+appmap-js,Styling and instructions,https://github.com/getappmap/appmap-js/pull/5,2021-01-11T22:41:03Z,2021-01-12T15:06:14Z,1,8,MERGED
+appmap-js,Show class/function/event parents in Details panel,https://github.com/getappmap/appmap-js/pull/106,2021-02-19T21:11:39Z,2021-03-23T16:41:17Z,5,6,MERGED
+appmap-js,Show class/function/event parents in Details panel,https://github.com/getappmap/appmap-js/pull/73,2021-02-10T11:17:16Z,2021-02-18T22:22:46Z,1,4,CLOSED
+appmap-js,update Dependency Map & Trace naming in instructions panel,https://github.com/getappmap/appmap-js/pull/72,2021-02-09T20:21:10Z,2021-02-10T23:05:44Z,1,1,MERGED
+appmap-js,Fix Flow View container size when viewing tiny appmap,https://github.com/getappmap/appmap-js/pull/70,2021-02-08T18:48:29Z,2021-02-10T23:08:40Z,1,3,MERGED
+appmap-js,Optimize DOM manipulations to faster render huge amount of node connections,https://github.com/getappmap/appmap-js/pull/68,2021-02-04T19:45:25Z,2021-02-17T21:37:43Z,1,1,MERGED
+appmap-js,Remove 'will-change' rule which causes rendering issue,https://github.com/getappmap/appmap-js/pull/64,2021-02-01T20:03:50Z,2021-02-04T20:17:15Z,1,2,MERGED
+appmap-js,feat: display function's source code in Details panel,https://github.com/getappmap/appmap-js/pull/139,2021-03-25T21:18:54Z,2021-03-26T16:18:03Z,0,2,CLOSED
+appmap-js,feat: show SQL queries as code objects in Details panel,https://github.com/getappmap/appmap-js/pull/132,2021-03-22T20:38:00Z,2021-04-12T22:04:29Z,5,3,MERGED
+appmap-js,feat: Trace instructions are added,https://github.com/getappmap/appmap-js/pull/127,2021-03-17T15:41:38Z,2021-03-22T19:07:54Z,1,9,MERGED
+appmap-js,feat: highlight SQL syntax in Details panel,https://github.com/getappmap/appmap-js/pull/125,2021-03-16T18:34:50Z,2021-03-18T14:38:22Z,2,2,MERGED
+appmap-js,feat: search and filter objects on start screen,https://github.com/getappmap/appmap-js/pull/122,2021-03-05T00:00:26Z,2021-03-05T22:20:40Z,2,12,MERGED
+appmap-js,Labels issues ,https://github.com/getappmap/appmap-js/pull/119,2021-03-01T22:56:19Z,2021-03-02T16:18:27Z,1,6,MERGED
+appmap-js,feat: show labels as cloud tags,https://github.com/getappmap/appmap-js/pull/194,2021-04-30T18:11:49Z,2021-04-30T18:31:11Z,0,1,MERGED
+appmap-js,fix: prevent word wrapping in tab buttons,https://github.com/getappmap/appmap-js/pull/193,2021-04-30T16:29:59Z,2021-04-30T18:27:53Z,0,1,MERGED
+appmap-js,fix: use package color from Dependency Map in search panel packages list,https://github.com/getappmap/appmap-js/pull/192,2021-04-30T16:19:02Z,2021-04-30T18:24:53Z,0,1,MERGED
+appmap-js,fix: display HTTP server response status in 'status' property,https://github.com/getappmap/appmap-js/pull/184,2021-04-26T15:45:16Z,2021-04-26T18:46:25Z,2,2,MERGED
+appmap-js,fix: Use highlight.js instead of sql-highlight,https://github.com/getappmap/appmap-js/pull/181,2021-04-23T15:59:18Z,2021-04-26T18:11:27Z,1,1,MERGED
+appmap-js,feat: Notification bar,https://github.com/getappmap/appmap-js/pull/180,2021-04-23T15:05:25Z,2021-04-23T22:15:16Z,1,2,MERGED
+appmap-js,feat: view event in Trace from function events list,https://github.com/getappmap/appmap-js/pull/168,2021-04-19T10:27:33Z,2021-04-22T18:32:21Z,4,5,MERGED
+appmap-js,feat: show pair of 'from' and 'to' objects when clicking on edge,https://github.com/getappmap/appmap-js/pull/166,2021-04-16T15:52:39Z,2021-04-20T19:47:08Z,1,4,MERGED
+appmap-js,fix: cut long label when package is expanded,https://github.com/getappmap/appmap-js/pull/164,2021-04-15T23:13:47Z,2021-04-22T19:07:37Z,3,3,MERGED
+appmap-js,feat: styles for panel scrollbar,https://github.com/getappmap/appmap-js/pull/163,2021-04-14T21:58:24Z,2021-04-19T17:39:38Z,1,1,MERGED
+appmap-js,Feature/resizable panel,https://github.com/getappmap/appmap-js/pull/158,2021-04-12T22:01:46Z,2021-04-12T22:26:37Z,1,1,MERGED
+appmap-js,feat: expand/collapse packages with single click on icon,https://github.com/getappmap/appmap-js/pull/156,2021-04-09T21:14:18Z,2021-04-12T21:31:19Z,1,2,MERGED
+appmap-js,Edit lists styling in instructions,https://github.com/getappmap/appmap-js/pull/154,2021-04-09T12:50:18Z,2021-04-12T17:48:50Z,1,3,MERGED
+appmap-js,fix: trace lines rendered with CSS,https://github.com/getappmap/appmap-js/pull/228,2021-05-25T21:01:55Z,2021-06-02T21:19:05Z,0,3,MERGED
+appmap-js,feat: global filters,https://github.com/getappmap/appmap-js/pull/217,2021-05-18T21:25:34Z,2021-08-17T18:30:23Z,20,2,MERGED
+appmap-js,feat: HTTP client requests,https://github.com/getappmap/appmap-js/pull/213,2021-05-11T20:29:35Z,2021-06-22T21:53:28Z,5,1,CLOSED
+appmap-js,feat: display only details panel in mobile views,https://github.com/getappmap/appmap-js/pull/210,2021-05-07T15:23:20Z,2021-09-14T03:09:16Z,1,1,CLOSED
+appmap-js,fix: empty lists are not visible in search panel results,https://github.com/getappmap/appmap-js/pull/203,2021-05-04T17:09:08Z,2021-05-13T19:43:43Z,1,1,MERGED
+appmap-js,fix: don't expand class with one function by default,https://github.com/getappmap/appmap-js/pull/196,2021-05-03T18:37:23Z,2021-05-13T19:31:45Z,1,1,MERGED
+appmap-js,Feat/http client requests 2,https://github.com/getappmap/appmap-js/pull/257,2021-06-22T21:46:20Z,2021-06-22T21:54:42Z,3,2,MERGED
+appmap-js,Fix/dangling node connections,https://github.com/getappmap/appmap-js/pull/256,2021-06-21T21:50:05Z,2021-06-22T21:47:32Z,1,2,MERGED
+appmap-js,"feat: styles for AppMap ""View source"" link",https://github.com/getappmap/appmap-js/pull/246,2021-06-07T19:59:10Z,2021-06-30T13:41:35Z,1,1,MERGED
+appmap-js,feat: update Search panel styling,https://github.com/getappmap/appmap-js/pull/245,2021-06-06T20:24:45Z,2021-06-30T13:40:18Z,3,1,MERGED
+appmap-js,feat: show elapsed time in Trace nodes,https://github.com/getappmap/appmap-js/pull/244,2021-06-06T15:36:39Z,2021-06-29T20:28:58Z,1,1,MERGED
+appmap-js,feat: updated logo,https://github.com/getappmap/appmap-js/pull/243,2021-06-05T19:29:32Z,2021-06-29T18:29:01Z,1,1,MERGED
+appmap-js,"fix: ""no data"" screen is rendered inside it's parent",https://github.com/getappmap/appmap-js/pull/241,2021-06-02T19:42:11Z,2021-06-02T21:19:55Z,1,1,MERGED
+appmap-js,feat: quickstart docs pages 'Install AppMap Agent' and 'Open AppMaps',https://github.com/getappmap/appmap-js/pull/297,2021-07-22T21:23:17Z,2021-07-30T16:56:49Z,2,5,MERGED
+appmap-js,feat: update design for quickstart docs pages,https://github.com/getappmap/appmap-js/pull/322,2021-08-30T16:29:15Z,2021-08-30T20:32:11Z,1,1,MERGED
+appmap-js,feat: UI cleanup,https://github.com/getappmap/appmap-js/pull/319,2021-08-25T13:10:31Z,2021-09-01T20:02:32Z,3,3,MERGED
+appmap-js,feat: Add validation step to agent install,https://github.com/getappmap/appmap-js/pull/318,2021-08-25T09:56:52Z,2021-09-09T14:12:35Z,1,1,CLOSED
+appmap-js,Trace node exceptions,https://github.com/getappmap/appmap-js/pull/312,2021-08-17T19:33:24Z,2021-08-19T01:39:11Z,2,2,MERGED
+appmap-js,feat: apply 'Set as root' context menu action globally,https://github.com/getappmap/appmap-js/pull/390,2021-09-30T18:26:56Z,2021-10-06T15:39:58Z,9,5,MERGED
+appmap-js,`install-agent` UX improvements,https://github.com/getappmap/appmap-js/pull/351,2021-09-14T21:34:52Z,2021-09-15T22:11:01Z,9,6,MERGED
+appmap-js,feat: re-styled CodeSnippet component,https://github.com/getappmap/appmap-js/pull/328,2021-09-02T18:28:11Z,2021-09-03T21:58:23Z,4,3,MERGED
+appmap-js,New global filters,https://github.com/getappmap/appmap-js/pull/429,2021-10-19T20:22:50Z,2021-11-30T20:31:30Z,25,31,MERGED
+appmap-js,remove width restriction on qs step,https://github.com/getappmap/appmap-js/pull/428,2021-10-19T18:52:54Z,2021-10-21T02:34:22Z,1,2,MERGED
+appmap-js,Feat/update styling,https://github.com/getappmap/appmap-js/pull/424,2021-10-15T17:32:36Z,2021-10-19T19:24:13Z,1,3,MERGED
+appmap-js,"feat: add ""Set as root"" button to sidebar panel",https://github.com/getappmap/appmap-js/pull/411,2021-10-12T22:38:24Z,2021-10-19T17:10:40Z,0,1,CLOSED
+appmap-js,"fix: ""HTTP response details"" section was already visible in event details",https://github.com/getappmap/appmap-js/pull/408,2021-10-12T18:22:25Z,2021-10-12T19:02:40Z,1,1,MERGED
+appmap-js,feat: show event exceptions in details panel,https://github.com/getappmap/appmap-js/pull/463,2021-11-22T17:46:26Z,2021-12-02T22:20:00Z,2,2,MERGED
+appmap-js,fix: set container max-width to 100%,https://github.com/getappmap/appmap-js/pull/499,2021-12-20T18:08:28Z,2021-12-23T16:47:46Z,1,1,MERGED
+appmap-js,feat: highlight events while looping through filtered events,https://github.com/getappmap/appmap-js/pull/496,2021-12-13T19:59:42Z,2021-12-23T17:22:57Z,3,3,MERGED
+appmap-js,fix: remove bottom margin of Trace view filter input,https://github.com/getappmap/appmap-js/pull/494,2021-12-13T17:55:57Z,2021-12-15T17:42:16Z,1,1,MERGED
+appmap-js,feat: filter events in Trace by label,https://github.com/getappmap/appmap-js/pull/475,2021-12-01T20:46:58Z,2021-12-02T22:50:20Z,3,4,MERGED
+appmap-js,feat: add links for JavaScript docs in Quickstart,https://github.com/getappmap/appmap-js/pull/473,2021-12-01T18:34:35Z,2021-12-02T22:22:21Z,1,1,MERGED
+appmap-js,feat: auto-complete suggestions list for Trace view filter,https://github.com/getappmap/appmap-js/pull/534,2022-01-31T20:35:31Z,2022-03-01T19:00:31Z,21,11,MERGED
+appmap-js,feat: small Trace view filter improvements,https://github.com/getappmap/appmap-js/pull/524,2022-01-25T20:10:03Z,2022-01-25T21:44:47Z,0,2,MERGED
+appmap-js,feat: new design for Details panel,https://github.com/getappmap/appmap-js/pull/550,2022-02-16T20:50:14Z,2022-10-21T16:12:52Z,2,5,CLOSED
+appmap-js,fix: filter out other children of package when one child was set as root,https://github.com/getappmap/appmap-js/pull/538,2022-02-03T17:32:59Z,2022-03-07T18:59:11Z,2,2,MERGED
+appmap-js,feat: find references,https://github.com/getappmap/appmap-js/pull/555,2022-03-04T22:12:19Z,2022-10-21T16:12:33Z,2,5,CLOSED
+appmap-js,"feat: ""View source"" link in details panel",https://github.com/getappmap/appmap-js/pull/569,2022-04-21T18:40:02Z,2022-05-03T03:02:41Z,2,4,MERGED
+appmap-js,style: update background color,https://github.com/getappmap/appmap-js/pull/565,2022-04-12T15:54:14Z,2022-04-22T18:26:22Z,1,3,MERGED
+appmap-js,fix: Use database hints to format SQL,https://github.com/getappmap/appmap-js/pull/564,2022-04-11T20:50:06Z,2022-04-11T21:12:50Z,1,1,MERGED
+appmap-js,Feat/conditional view source,https://github.com/getappmap/appmap-js/pull/561,2022-04-05T02:49:54Z,2022-04-08T14:23:36Z,2,2,MERGED
+appmap-js,Fixes: consistent heading sizes for install-guide,https://github.com/getappmap/appmap-js/pull/655,2022-06-30T16:38:39Z,2022-06-30T17:58:26Z,1,1,MERGED
+appmap-js,node messaging for undetected version,https://github.com/getappmap/appmap-js/pull/654,2022-06-29T16:52:33Z,2022-06-30T21:01:41Z,1,4,MERGED
+appmap-js,Project picker is responsive,https://github.com/getappmap/appmap-js/pull/653,2022-06-29T16:19:07Z,2022-06-29T19:36:19Z,1,3,MERGED
+appmap-js,add margin to subheadings in install steps,https://github.com/getappmap/appmap-js/pull/648,2022-06-28T15:49:49Z,2022-06-28T20:49:51Z,1,2,MERGED
+appmap-js,Map379 investigate findings content,https://github.com/getappmap/appmap-js/pull/634,2022-06-21T03:45:45Z,2022-07-18T21:11:44Z,7,3,MERGED
+appmap-js,fix: Merge succeeds when examples are missing 'items',https://github.com/getappmap/appmap-js/pull/625,2022-06-15T15:12:53Z,2022-06-15T16:59:05Z,1,1,MERGED
+appmap-js,Project table is styled as a table not as a primary action text field,https://github.com/getappmap/appmap-js/pull/621,2022-06-13T18:26:59Z,2022-06-14T15:09:42Z,0,3,CLOSED
+appmap-js,feat: Suggest next step,https://github.com/getappmap/appmap-js/pull/615,2022-06-08T15:49:07Z,2022-06-08T16:11:13Z,1,1,MERGED
+appmap-js,layout updates,https://github.com/getappmap/appmap-js/pull/682,2022-07-26T16:59:30Z,2022-07-27T14:47:20Z,2,4,MERGED
+appmap-js,User can navigate between code and AppMap,https://github.com/getappmap/appmap-js/pull/663,2022-07-05T16:26:44Z,2022-07-19T01:45:12Z,1,2,MERGED
+appmap-js,Offer to open a ticket when a remote recording request fails,https://github.com/getappmap/appmap-js/pull/711,2022-08-26T09:48:40Z,2022-09-14T14:25:18Z,3,4,MERGED
+appmap-js,feat: Scan interactive,https://github.com/getappmap/appmap-js/pull/698,2022-08-08T19:11:01Z,2022-08-19T13:56:33Z,5,5,MERGED
+appmap-js,feat: add video link to runtime analysis instruction page,https://github.com/getappmap/appmap-js/pull/687,2022-08-02T19:15:05Z,2022-08-15T18:20:31Z,3,1,MERGED
+appmap-js,feat: detect architecture mismatch errors in Ruby,https://github.com/getappmap/appmap-js/pull/745,2022-09-26T18:44:48Z,2022-09-27T17:19:08Z,3,1,MERGED
+appmap-js,feat: Manual installation instructions exist for supported languages,https://github.com/getappmap/appmap-js/pull/739,2022-09-21T14:06:08Z,2022-09-27T21:10:20Z,1,2,MERGED
+appmap-js,Remove Unused Components,https://github.com/getappmap/appmap-js/pull/723,2022-09-08T18:00:15Z,2022-09-13T20:17:40Z,3,2,MERGED
+appmap-js,Fix/installer handles invalid project type,https://github.com/getappmap/appmap-js/pull/825,2022-10-27T20:16:11Z,2022-11-01T20:44:33Z,1,2,MERGED
+appmap-js,Modify the condition in which AppMaps are depicted as being successfully recorded,https://github.com/getappmap/appmap-js/pull/824,2022-10-27T14:34:31Z,2022-11-01T20:46:30Z,1,1,MERGED
+appmap-js,feat: Document Java + IntelliJ instructions,https://github.com/getappmap/appmap-js/pull/804,2022-10-20T19:22:38Z,2022-10-21T18:40:56Z,3,2,MERGED
+appmap-js,fix: fix scanner tests in windows,https://github.com/getappmap/appmap-js/pull/779,2022-10-12T18:22:31Z,2022-10-17T21:14:27Z,5,1,MERGED
+appmap-js,feat: handle when bundler ignores test and development,https://github.com/getappmap/appmap-js/pull/764,2022-10-05T17:00:23Z,2022-10-07T15:12:04Z,5,1,MERGED
+appmap-js,feat: update appmap share button,https://github.com/getappmap/appmap-js/pull/760,2022-10-04T19:48:02Z,2022-10-11T14:25:15Z,1,1,MERGED
+appmap-js,fix: Change copy in prompt and commit message used when configuring AppMap for a project.,https://github.com/getappmap/appmap-js/pull/862,2022-11-17T21:44:34Z,2022-11-21T15:42:23Z,3,1,MERGED
+appmap-js,feat: Add Telemetry event scan:started for beginning of analysis.,https://github.com/getappmap/appmap-js/pull/847,2022-11-10T22:26:02Z,2022-11-28T18:33:10Z,29,6,MERGED
+appmap-js,feat: Encourage users to commit their AppMap config.,https://github.com/getappmap/appmap-js/pull/844,2022-11-09T14:40:16Z,2022-11-14T17:30:14Z,12,4,MERGED
+appmap-js,analysis-finding pages are added to extension,https://github.com/getappmap/appmap-js/pull/838,2022-11-04T21:33:47Z,2022-12-05T17:59:59Z,9,16,MERGED
+appmap-js,"feat: When recording tests, don't crash if directory path is invalid.",https://github.com/getappmap/appmap-js/pull/832,2022-11-01T18:01:55Z,2022-11-01T20:24:46Z,5,3,MERGED
+appmap-js,"fix: For pip, prompt user to provide requirements file for dev",https://github.com/getappmap/appmap-js/pull/925,2022-12-22T20:03:10Z,2023-01-04T20:33:40Z,4,1,MERGED
+appmap-js,fix: Don't encourage `git commit` for `pip`,https://github.com/getappmap/appmap-js/pull/922,2022-12-21T21:58:48Z,2023-01-05T18:55:17Z,2,1,CLOSED
+appmap-js,fix: Don't attempt to render external service routes,https://github.com/getappmap/appmap-js/pull/921,2022-12-21T15:50:54Z,2022-12-21T16:31:50Z,1,1,MERGED
+appmap-js,"fix: Don't let indexer crash with `Error: ELOOP: too many symbolic links encountered, stat`",https://github.com/getappmap/appmap-js/pull/917,2022-12-20T13:45:07Z,2022-12-21T15:00:39Z,1,2,MERGED
+appmap-js,responsive edits for findings webview,https://github.com/getappmap/appmap-js/pull/916,2022-12-19T22:03:54Z,2023-01-06T14:35:08Z,3,4,MERGED
+appmap-js,fix: Don't let scanner crash on `EACCES: permission denied` error,https://github.com/getappmap/appmap-js/pull/912,2022-12-15T19:05:25Z,2022-12-16T16:24:13Z,2,2,MERGED
+appmap-js,"fix: Don't let scanner crash on ""ENOSPC: System limit for number of file watchers reached"" error",https://github.com/getappmap/appmap-js/pull/907,2022-12-14T20:11:21Z,2022-12-15T19:28:05Z,2,2,MERGED
+appmap-js,Sharing updates for map-view,https://github.com/getappmap/appmap-js/pull/902,2022-12-13T22:27:37Z,2023-01-11T22:21:02Z,5,2,MERGED
+appmap-js,"fix: Disable file watching on ""ENOSPC: System limit for number of file watchers reached"" error",https://github.com/getappmap/appmap-js/pull/895,2022-12-09T18:14:53Z,2022-12-13T14:32:04Z,3,2,MERGED
+appmap-js,fix: Increase number of open file descriptors limit when indexer starts,https://github.com/getappmap/appmap-js/pull/893,2022-12-08T15:41:46Z,2022-12-13T20:24:24Z,1,3,CLOSED
+appmap-js,feat: Improve sequence diagram diff,https://github.com/getappmap/appmap-js/pull/890,2022-12-07T22:55:42Z,2022-12-13T20:41:27Z,2,5,MERGED
+appmap-js,Feat/finding info in appmap,https://github.com/getappmap/appmap-js/pull/887,2022-12-05T21:49:50Z,2023-01-04T21:48:10Z,11,20,MERGED
+appmap-js,feat: Display timing info on sequence diagram,https://github.com/getappmap/appmap-js/pull/882,2022-12-02T19:26:08Z,2022-12-07T23:07:08Z,1,2,MERGED
+appmap-js,Telemetry to better understand sign in,https://github.com/getappmap/appmap-js/pull/989,2023-01-31T21:07:04Z,2023-02-01T00:52:12Z,3,5,MERGED
+appmap-js,success-message styling for recording appmaps,https://github.com/getappmap/appmap-js/pull/977,2023-01-23T20:24:30Z,2023-01-24T19:31:12Z,2,2,MERGED
+appmap-js,Users must sign in for openapi,https://github.com/getappmap/appmap-js/pull/972,2023-01-23T19:35:27Z,2023-09-05T18:17:25Z,1,2,CLOSED
+appmap-js,fix: run components tests in ci,https://github.com/getappmap/appmap-js/pull/952,2023-01-18T18:00:50Z,2023-01-19T17:48:33Z,1,2,MERGED
+appmap-js,Collapsible sidebar sections,https://github.com/getappmap/appmap-js/pull/951,2023-01-17T16:51:24Z,2023-01-23T20:11:29Z,0,2,MERGED
+appmap-js,Update subheadings on Overview webview,https://github.com/getappmap/appmap-js/pull/948,2023-01-13T19:52:07Z,2023-01-17T19:46:54Z,1,1,MERGED
+appmap-js,Style updates for project picker,https://github.com/getappmap/appmap-js/pull/937,2023-01-10T22:12:27Z,2023-01-12T16:25:13Z,3,4,MERGED
+appmap-js,feat: Detect yarn packages as sub-projects,https://github.com/getappmap/appmap-js/pull/936,2023-01-10T18:19:46Z,2023-02-07T17:31:52Z,26,2,MERGED
+appmap-js,fix inconsistent border-radius for selected diagram elements,https://github.com/getappmap/appmap-js/pull/1071,2023-02-24T15:18:45Z,2023-02-24T15:48:27Z,1,3,MERGED
+appmap-js,Improved arrowhead alignment,https://github.com/getappmap/appmap-js/pull/1060,2023-02-23T15:09:50Z,2023-02-23T15:29:26Z,0,1,MERGED
+appmap-js,Improved highlighting for selected sequence diagram elements,https://github.com/getappmap/appmap-js/pull/1058,2023-02-21T22:44:19Z,2023-02-22T14:46:58Z,0,2,MERGED
+appmap-js,Map controls in header are responsive for small screens,https://github.com/getappmap/appmap-js/pull/1049,2023-02-17T21:39:12Z,2023-02-22T17:58:47Z,3,6,MERGED
+appmap-js,Sidebar sign-in page,https://github.com/getappmap/appmap-js/pull/1047,2023-02-17T17:31:58Z,2023-02-22T14:43:46Z,3,4,MERGED
+appmap-js,fix: Fix how spawn is used,https://github.com/getappmap/appmap-js/pull/1028,2023-02-14T22:54:25Z,2023-02-14T23:06:31Z,1,8,CLOSED
+appmap-js,Actor hide styling,https://github.com/getappmap/appmap-js/pull/1024,2023-02-13T23:15:37Z,2023-02-15T19:04:22Z,0,4,MERGED
+appmap-js,Selected element styling,https://github.com/getappmap/appmap-js/pull/1017,2023-02-10T19:50:00Z,2023-02-15T16:17:28Z,1,1,MERGED
+appmap-js,update wording for analysis CTA in web view,https://github.com/getappmap/appmap-js/pull/1003,2023-02-07T18:04:56Z,2023-02-07T19:01:44Z,1,1,MERGED
+appmap-js,Diff styling,https://github.com/getappmap/appmap-js/pull/997,2023-02-06T21:21:52Z,2023-02-09T16:45:05Z,1,11,CLOSED
+appmap-js,styling for download as SVG button,https://github.com/getappmap/appmap-js/pull/996,2023-02-06T21:17:04Z,2023-02-09T20:40:05Z,0,1,MERGED
+appmap-js,Sequence diagram horizontal scrollbar is visible,https://github.com/getappmap/appmap-js/pull/994,2023-02-03T16:45:22Z,2023-02-06T20:57:50Z,2,3,CLOSED
+appmap-js,update share icon,https://github.com/getappmap/appmap-js/pull/992,2023-02-02T15:50:13Z,2023-02-02T17:50:04Z,1,1,MERGED
+appmap-js,Better handling for large appmaps,https://github.com/getappmap/appmap-js/pull/1122,2023-03-24T15:22:06Z,2023-03-31T17:12:00Z,1,21,MERGED
+appmap-js,Robust appmap locating,https://github.com/getappmap/appmap-js/pull/1121,2023-03-22T00:22:17Z,2023-03-22T15:55:27Z,3,2,MERGED
+appmap-js,Create stats panel in appmap,https://github.com/getappmap/appmap-js/pull/1117,2023-03-21T18:05:10Z,2023-03-23T20:33:54Z,2,10,MERGED
+appmap-js,fix alignment for text hover for export & share buttons,https://github.com/getappmap/appmap-js/pull/1095,2023-03-07T15:51:04Z,2023-03-07T17:39:18Z,1,2,MERGED
+appmap-js,Sequence diagram legend,https://github.com/getappmap/appmap-js/pull/1092,2023-03-06T15:22:04Z,2023-03-07T17:15:45Z,3,5,MERGED
+appmap-js,Prompt user for feedback on sequence diagram,https://github.com/getappmap/appmap-js/pull/1086,2023-03-02T22:16:22Z,2023-03-07T18:04:50Z,1,4,MERGED
+appmap-js,Add feedback button to sidebar,https://github.com/getappmap/appmap-js/pull/1082,2023-03-01T20:18:08Z,2023-03-06T18:35:53Z,0,1,CLOSED
+appmap-js,hide-actor is visible with really long actor names,https://github.com/getappmap/appmap-js/pull/1080,2023-03-01T15:08:44Z,2023-03-03T16:10:23Z,2,2,MERGED
+appmap-js,feat: Remove deprecated fingerprints,https://github.com/getappmap/appmap-js/pull/1161,2023-04-26T14:55:40Z,2023-04-28T19:07:38Z,5,15,MERGED
+appmap-js,define font-family,https://github.com/getappmap/appmap-js/pull/1159,2023-04-25T17:03:02Z,2023-04-25T18:18:08Z,1,1,MERGED
+appmap-js,1144 - Sign-in test flow 1,https://github.com/getappmap/appmap-js/pull/1145,2023-04-14T15:57:42Z,2023-04-28T14:56:09Z,2,11,MERGED
+appmap-js,feat: Consider loop iterations when diffing sequence diagrams,https://github.com/getappmap/appmap-js/pull/1141,2023-04-11T20:05:03Z,2023-09-11T19:43:48Z,3,1,CLOSED
+appmap-js,messaging test 1,https://github.com/getappmap/appmap-js/pull/1140,2023-04-11T15:48:35Z,2023-04-12T21:02:34Z,2,6,MERGED
+appmap-js,tooltip for map controls,https://github.com/getappmap/appmap-js/pull/1139,2023-04-10T21:07:42Z,2023-04-11T16:20:55Z,1,2,MERGED
+appmap-js,Visual updates,https://github.com/getappmap/appmap-js/pull/1137,2023-04-05T19:10:27Z,2023-04-05T21:10:36Z,1,2,MERGED
+appmap-js,Update text on runtime analysis page,https://github.com/getappmap/appmap-js/pull/1202,2023-05-31T20:33:04Z,2023-06-02T21:53:00Z,3,2,MERGED
+appmap-js,Update text on the runtime analysis page,https://github.com/getappmap/appmap-js/pull/1201,2023-05-31T20:01:50Z,2023-05-31T20:30:09Z,0,2,CLOSED
+appmap-js,consistent map color palette,https://github.com/getappmap/appmap-js/pull/1193,2023-05-23T15:41:37Z,2023-06-06T17:16:44Z,3,8,MERGED
+appmap-js,Add button to copy filter state,https://github.com/getappmap/appmap-js/pull/1190,2023-05-18T21:48:30Z,2024-04-30T14:35:01Z,0,1,CLOSED
+appmap-js,User can bookmark filter settings,https://github.com/getappmap/appmap-js/pull/1186,2023-05-16T20:24:22Z,2023-06-02T16:59:47Z,8,6,MERGED
+appmap-js,Users can filter external code,https://github.com/getappmap/appmap-js/pull/1178,2023-05-15T14:10:39Z,2023-05-16T21:58:04Z,1,2,MERGED
+appmap-js,remove accordion and relocate security-faq link,https://github.com/getappmap/appmap-js/pull/1170,2023-05-05T15:00:42Z,2023-05-05T20:35:34Z,1,1,MERGED
+appmap-js,User can expand sequence diagram packages to classes,https://github.com/getappmap/appmap-js/pull/1168,2023-05-02T20:47:20Z,2023-05-10T20:33:51Z,3,7,MERGED
+appmap-js,feat: Update install instructions for AppMap Java in VS Code,https://github.com/getappmap/appmap-js/pull/1243,2023-06-23T21:29:29Z,2023-06-30T20:36:20Z,1,2,MERGED
+appmap-js,feat: Add instructions for Java in VSCode,https://github.com/getappmap/appmap-js/pull/1233,2023-06-16T21:53:07Z,2023-06-17T01:26:18Z,2,1,MERGED
+appmap-js,Text fix for Java instructions,https://github.com/getappmap/appmap-js/pull/1232,2023-06-16T21:12:42Z,2023-08-24T01:57:40Z,1,1,CLOSED
+appmap-js,Minor updates to the onboarding text,https://github.com/getappmap/appmap-js/pull/1230,2023-06-16T17:34:32Z,2023-06-16T17:47:35Z,1,1,MERGED
+appmap-js,formatting for install instructions,https://github.com/getappmap/appmap-js/pull/1227,2023-06-13T15:00:08Z,2023-06-13T15:19:46Z,1,2,MERGED
+appmap-js,feat: Record instructions styling,https://github.com/getappmap/appmap-js/pull/1222,2023-06-09T20:29:57Z,2023-06-13T13:22:14Z,16,9,MERGED
+appmap-js,fix self-call and lane-seperator colors,https://github.com/getappmap/appmap-js/pull/1218,2023-06-09T14:17:20Z,2023-06-09T14:40:56Z,1,1,MERGED
+appmap-js,Status message styling,https://github.com/getappmap/appmap-js/pull/1215,2023-06-07T21:32:04Z,2023-06-22T22:19:46Z,1,11,MERGED
+appmap-js,"feat: Refine ""Record AppMaps"" instructions",https://github.com/getappmap/appmap-js/pull/1214,2023-06-07T19:36:26Z,2023-06-13T13:31:17Z,3,3,MERGED
+appmap-js,scrollfix-flamegraph,https://github.com/getappmap/appmap-js/pull/1297,2023-07-28T19:49:44Z,2023-08-01T14:37:53Z,2,1,CLOSED
+appmap-js,Unsupported projects show helpful information,https://github.com/getappmap/appmap-js/pull/1272,2023-07-13T16:51:50Z,2023-07-13T18:40:22Z,2,1,MERGED
+appmap-js,feat: Manual instructions instruct the user to create appmap.yml,https://github.com/getappmap/appmap-js/pull/1270,2023-07-12T19:17:57Z,2023-07-13T18:21:00Z,2,1,MERGED
+appmap-js,Highlight findings events for N+1 queries,https://github.com/getappmap/appmap-js/pull/1261,2023-07-07T19:50:22Z,2023-07-11T19:08:32Z,8,6,MERGED
+appmap-js,Loop boxes surround calls,https://github.com/getappmap/appmap-js/pull/1254,2023-07-05T20:12:07Z,2023-07-06T19:39:21Z,2,2,MERGED
+appmap-js,External routes are yellow in flame graph,https://github.com/getappmap/appmap-js/pull/1252,2023-07-05T18:25:31Z,2023-07-05T22:31:15Z,1,1,MERGED
+appmap-js,Select finding when map opened from findings webview,https://github.com/getappmap/appmap-js/pull/1341,2023-08-31T22:06:57Z,2023-09-01T19:48:36Z,3,2,MERGED
+appmap-js,feat: Sequence diagram diff in appmap,https://github.com/getappmap/appmap-js/pull/1339,2023-08-31T19:40:13Z,2023-09-06T20:31:01Z,5,8,MERGED
+appmap-js,fix: New root selection,https://github.com/getappmap/appmap-js/pull/1304,2023-08-07T15:42:20Z,2023-08-09T14:25:57Z,1,1,MERGED
+appmap-js,fix: New-root selection color,https://github.com/getappmap/appmap-js/pull/1303,2023-08-04T20:34:14Z,2023-08-23T14:26:47Z,1,0,CLOSED
+appmap-js,feat: Add responsive styling for mobile,https://github.com/getappmap/appmap-js/pull/1392,2023-09-18T18:00:23Z,2023-09-19T21:07:43Z,3,1,MERGED
+appmap-js,fix: The OpenAPI links have been replaced in the sign in page,https://github.com/getappmap/appmap-js/pull/1389,2023-09-18T15:09:08Z,2023-09-18T18:03:34Z,1,1,MERGED
+appmap-js,fix: Box too high on the lifeline,https://github.com/getappmap/appmap-js/pull/1365,2023-09-09T12:05:45Z,2023-09-12T19:31:30Z,2,1,MERGED
+appmap-js,fix: Long call labels are cut off,https://github.com/getappmap/appmap-js/pull/1360,2023-09-08T14:07:54Z,2023-09-12T19:56:47Z,1,2,MERGED
+appmap-js,fix: Long package names are clipped,https://github.com/getappmap/appmap-js/pull/1356,2023-09-06T20:51:00Z,2023-09-08T22:20:56Z,6,1,MERGED
+appmap-js,feat: Hide SQL SHOW from compare,https://github.com/getappmap/appmap-js/pull/1351,2023-09-05T15:04:57Z,2023-09-05T18:17:49Z,1,1,MERGED
+appmap-js,fix: Apply button in filter dialog is confusing,https://github.com/getappmap/appmap-js/pull/1348,2023-09-04T20:15:02Z,2023-09-06T15:43:12Z,2,2,MERGED
+appmap-js,feat: Summary report,https://github.com/getappmap/appmap-js/pull/1448,2023-10-25T15:29:25Z,2023-10-31T18:34:59Z,3,11,MERGED
+appmap-js,Get actors without building a complete diagram,https://github.com/getappmap/appmap-js/pull/1416,2023-10-05T19:51:09Z,2023-10-06T15:45:32Z,1,1,MERGED
+appmap-js,Correctly set initial collapse depth in sequence diagram,https://github.com/getappmap/appmap-js/pull/1472,2023-11-27T18:06:18Z,2023-11-28T18:29:22Z,6,1,MERGED
+appmap-js,feat: Recognize certain labeled functions as roots,https://github.com/getappmap/appmap-js/pull/1462,2023-11-09T19:24:00Z,2023-11-15T21:37:42Z,1,1,MERGED
+appmap-js,AppMap code objects sorting,https://github.com/getappmap/appmap-js/pull/1454,2023-11-02T22:02:23Z,2023-11-13T23:06:31Z,2,4,MERGED
+appmap-js,Style fixes for VS Code,https://github.com/getappmap/appmap-js/pull/1513,2023-12-29T19:36:25Z,2024-01-02T15:45:16Z,1,2,MERGED
+appmap-js,feat: Add 'Ask AppMap' CTAs to install guide,https://github.com/getappmap/appmap-js/pull/1504,2023-12-20T19:24:04Z,2024-01-09T14:24:31Z,1,1,MERGED
+appmap-js,Search bar,https://github.com/getappmap/appmap-js/pull/1501,2023-12-20T15:40:16Z,2024-01-16T14:30:31Z,9,3,MERGED
+appmap-js,Fix control button styling,https://github.com/getappmap/appmap-js/pull/1496,2023-12-13T21:42:16Z,2023-12-13T22:25:36Z,0,1,MERGED
+appmap-js,Collapsible sidebar,https://github.com/getappmap/appmap-js/pull/1495,2023-12-13T21:36:39Z,2023-12-19T15:48:09Z,6,3,MERGED
+appmap-js,Allow users to submit message feedback,https://github.com/getappmap/appmap-js/pull/1494,2023-12-13T18:25:39Z,2023-12-21T20:07:11Z,1,11,MERGED
+appmap-js,Style updates for chat search,https://github.com/getappmap/appmap-js/pull/1488,2023-12-07T22:11:16Z,2023-12-08T08:19:25Z,0,1,MERGED
+appmap-js,feat: Add a fullscreen toggle,https://github.com/getappmap/appmap-js/pull/1486,2023-12-07T13:06:00Z,2023-12-07T15:30:03Z,1,2,MERGED
+appmap-js,Better navigation for selected code objects,https://github.com/getappmap/appmap-js/pull/1480,2023-12-04T16:34:01Z,2023-12-13T14:38:22Z,1,3,MERGED
+appmap-js,Do not auto expand details panel with Navie,https://github.com/getappmap/appmap-js/pull/1579,2024-01-31T21:25:01Z,2024-01-31T21:52:05Z,2,1,MERGED
+appmap-js,Navie instructions link to record appmaps page,https://github.com/getappmap/appmap-js/pull/1576,2024-01-31T19:20:58Z,2024-01-31T19:47:17Z,2,1,MERGED
+appmap-js,Navie instructions page,https://github.com/getappmap/appmap-js/pull/1573,2024-01-29T20:09:39Z,2024-02-07T14:51:42Z,3,2,CLOSED
+appmap-js,feat: Display code selection as a separate field in Navie UI,https://github.com/getappmap/appmap-js/pull/1571,2024-01-26T21:39:42Z,2024-02-08T17:50:04Z,2,12,CLOSED
+appmap-js,feat: Update IDE guide to use appmap-node,https://github.com/getappmap/appmap-js/pull/1564,2024-01-25T14:02:11Z,2024-01-30T03:10:14Z,11,3,MERGED
+appmap-js,feat: Add AppMaps context to Navie,https://github.com/getappmap/appmap-js/pull/1547,2024-01-17T21:56:06Z,2024-01-30T21:58:32Z,6,8,MERGED
+appmap-js,Fix the clipping of long hover labels in sequence diagram,https://github.com/getappmap/appmap-js/pull/1539,2024-01-16T22:15:44Z,2024-01-23T20:06:42Z,3,2,MERGED
+appmap-js,Stop creating multiple default filters in the browser,https://github.com/getappmap/appmap-js/pull/1535,2024-01-12T20:52:35Z,2024-01-13T14:40:43Z,1,1,MERGED
+appmap-js,feat: Export AppMap data as JSON,https://github.com/getappmap/appmap-js/pull/1532,2024-01-11T19:49:44Z,2024-01-31T14:17:13Z,4,4,MERGED
+appmap-js,Removed Scoped Style from the Run Config Icon,https://github.com/getappmap/appmap-js/pull/1530,2024-01-11T17:43:24Z,2024-01-12T00:20:22Z,4,2,MERGED
+appmap-js,Navie Branding,https://github.com/getappmap/appmap-js/pull/1529,2024-01-10T20:36:32Z,2024-01-10T22:26:34Z,1,5,CLOSED
+appmap-js,Map controls are responsive to column width,https://github.com/getappmap/appmap-js/pull/1524,2024-01-05T20:24:55Z,2024-01-22T14:28:37Z,5,1,MERGED
+appmap-js,Remove extra chevron in parents section of details panel,https://github.com/getappmap/appmap-js/pull/1523,2024-01-05T19:25:38Z,2024-01-05T20:22:11Z,1,1,MERGED
+appmap-js,feat: Add a page to notify of invalid license,https://github.com/getappmap/appmap-js/pull/1518,2024-01-04T19:32:46Z,2024-01-09T19:28:42Z,7,5,MERGED
+appmap-js,Explain and list AppMap recordings in Navie guide,https://github.com/getappmap/appmap-js/pull/1610,2024-02-29T20:43:50Z,2024-02-29T21:56:33Z,2,2,MERGED
+appmap-js,Update Navie interface,https://github.com/getappmap/appmap-js/pull/1596,2024-02-20T19:08:32Z,2024-02-20T20:41:33Z,3,2,MERGED
+appmap-js,Nicer chat cursor,https://github.com/getappmap/appmap-js/pull/1595,2024-02-15T19:30:29Z,2024-02-15T19:49:26Z,2,1,MERGED
+appmap-js,Provide quota limit feedback to users,https://github.com/getappmap/appmap-js/pull/1594,2024-02-14T22:25:17Z,2025-01-06T20:01:48Z,6,2,CLOSED
+appmap-js,Navie chat interface style updates,https://github.com/getappmap/appmap-js/pull/1589,2024-02-12T22:43:16Z,2024-02-16T19:25:32Z,2,1,MERGED
+appmap-js,Tweak Navie suggestion language,https://github.com/getappmap/appmap-js/pull/1664,2024-03-27T18:06:10Z,2024-04-02T14:44:20Z,2,1,MERGED
+appmap-js,Update intellij process recording instructions,https://github.com/getappmap/appmap-js/pull/1663,2024-03-27T18:00:41Z,2024-03-27T18:39:56Z,2,1,MERGED
+appmap-js,Open Navie from an appmap,https://github.com/getappmap/appmap-js/pull/1636,2024-03-20T21:00:46Z,2024-03-22T16:13:00Z,3,1,MERGED
+appmap-js,Update filter menu and increase contrast,https://github.com/getappmap/appmap-js/pull/1633,2024-03-19T18:30:19Z,2024-03-21T13:08:35Z,7,4,MERGED
+appmap-js,Copy Navie message,https://github.com/getappmap/appmap-js/pull/1629,2024-03-15T17:55:51Z,2024-03-21T13:05:44Z,2,1,MERGED
+appmap-js,Move Navie context status into chat,https://github.com/getappmap/appmap-js/pull/1627,2024-03-11T19:40:34Z,2024-03-14T17:53:15Z,14,2,MERGED
+appmap-js,Users can activate with an email,https://github.com/getappmap/appmap-js/pull/1620,2024-03-05T22:22:02Z,2024-03-06T19:37:08Z,5,2,MERGED
+appmap-js,feat: Navie may not always search for AppMaps,https://github.com/getappmap/appmap-js/pull/1619,2024-03-04T22:06:12Z,2024-03-05T01:55:04Z,2,1,MERGED
+appmap-js,Update Navie tool status message,https://github.com/getappmap/appmap-js/pull/1760,2024-04-30T18:19:31Z,2024-05-02T16:12:37Z,2,1,MERGED
+appmap-js,Warn users in Navie when they don't have AppMap data,https://github.com/getappmap/appmap-js/pull/1745,2024-04-26T20:44:53Z,2024-04-28T00:40:26Z,3,2,MERGED
+appmap-js,fix: Don't render sequence diagram context content,https://github.com/getappmap/appmap-js/pull/1743,2024-04-25T21:28:00Z,2024-04-26T14:42:59Z,2,1,MERGED
+appmap-js,Replace Navie suggestions with mode explanations,https://github.com/getappmap/appmap-js/pull/1741,2024-04-24T16:32:26Z,2024-04-26T17:26:11Z,4,2,MERGED
+appmap-js,Show Navie Context with code highlighting,https://github.com/getappmap/appmap-js/pull/1732,2024-04-19T21:14:56Z,2024-04-22T19:38:16Z,2,3,MERGED
+appmap-js,"De-emphasize ""No AppMaps"" status in Navie",https://github.com/getappmap/appmap-js/pull/1724,2024-04-15T16:45:26Z,2024-04-16T19:12:41Z,5,2,MERGED
+appmap-js,Implement LLM configuration frontend,https://github.com/getappmap/appmap-js/pull/1722,2024-04-12T22:05:44Z,2024-04-26T23:39:11Z,5,3,MERGED
+appmap-js,Include code editor in context,https://github.com/getappmap/appmap-js/pull/1706,2024-04-05T19:57:07Z,2024-04-29T17:05:21Z,8,4,MERGED
+appmap-js,feat: Improve the readability of LLM configuration,https://github.com/getappmap/appmap-js/pull/1857,2024-06-25T18:46:52Z,2024-06-28T20:43:15Z,2,2,MERGED
+appmap-js,fix: Unsupported language install guide dead end,https://github.com/getappmap/appmap-js/pull/1885,2024-07-17T12:31:22Z,2024-08-20T17:05:30Z,0,1,CLOSED
+appmap-js,feat: Render mermaid diagrams,https://github.com/getappmap/appmap-js/pull/1874,2024-07-09T03:53:37Z,2024-07-10T23:47:52Z,1,2,MERGED
+appmap-js,fix: Agent selection mode,https://github.com/getappmap/appmap-js/pull/1872,2024-07-08T16:58:52Z,2024-07-16T17:46:43Z,1,6,MERGED
+appmap-js,feat: Define new History format and message organization,https://github.com/getappmap/appmap-js/pull/1948,2024-08-16T21:02:05Z,2024-09-02T11:31:19Z,9,8,MERGED
+appmap-js,Visual adjustments to signup form,https://github.com/getappmap/appmap-js/pull/2087,2024-10-23T21:27:11Z,2025-02-03T16:14:03Z,5,1,CLOSED
+appmap-js,fix: Prevent LLM from generating special characters in class names,https://github.com/getappmap/appmap-js/pull/2080,2024-10-21T16:29:35Z,2024-10-22T12:17:14Z,1,3,MERGED
+appmap-js,feat: Navie + Copilot frontend support,https://github.com/getappmap/appmap-js/pull/2059,2024-10-09T16:04:13Z,2024-10-16T15:34:13Z,3,8,MERGED
+appmap-js,fix: Punctuation in RTL text,https://github.com/getappmap/appmap-js/pull/2044,2024-10-04T14:55:39Z,2024-10-04T17:34:40Z,2,2,MERGED
+appmap-js,Show LLM errors,https://github.com/getappmap/appmap-js/pull/2019,2024-10-01T05:10:31Z,2024-10-01T13:13:37Z,1,2,MERGED
+appmap-js,feat: Associate boost factor data with a session id,https://github.com/getappmap/appmap-js/pull/2124,2024-11-25T19:29:13Z,2024-12-01T12:28:14Z,2,2,MERGED
+appmap-js,feat: Add a save button to assistant messages,https://github.com/getappmap/appmap-js/pull/2163,2024-12-17T19:51:43Z,2024-12-18T20:45:21Z,2,1,MERGED
+appmap-js,feat: Welcome message loading indicator,https://github.com/getappmap/appmap-js/pull/2153,2024-12-10T17:15:02Z,2024-12-11T16:54:12Z,4,6,MERGED
+appmap-js,"feat: Welcome message is dynamic, reflecting what the user is working on",https://github.com/getappmap/appmap-js/pull/2139,2024-12-05T20:54:48Z,2024-12-10T15:00:55Z,7,4,MERGED
+appmap-js,feat: Add `@welcome` command,https://github.com/getappmap/appmap-js/pull/2138,2024-12-05T20:43:18Z,2024-12-06T16:55:43Z,2,1,MERGED
+appmap-js,fix: Update the welcome message to include a note about accuracy,https://github.com/getappmap/appmap-js/pull/2134,2024-12-04T15:18:59Z,2025-02-11T02:34:51Z,2,2,CLOSED
+appmap-js,fix: Don't cover the stop button with the tooltip,https://github.com/getappmap/appmap-js/pull/2214,2025-01-22T12:51:12Z,2025-01-22T13:25:30Z,1,1,MERGED
+appmap-js,feat: Display @command in next step suggestions,https://github.com/getappmap/appmap-js/pull/2211,2025-01-19T14:56:40Z,2025-01-22T15:06:24Z,2,1,MERGED
+appmap-js,feat: navie --ui,https://github.com/getappmap/appmap-js/pull/2208,2025-01-19T14:29:19Z,2025-01-23T13:42:19Z,2,1,MERGED
+appmap-js,fix: Hide AppMap subscription status in Copilot indicator,https://github.com/getappmap/appmap-js/pull/2196,2025-01-14T16:00:24Z,2025-01-14T16:22:44Z,1,1,MERGED
+appmap-js,fix: Notify users of termination due to content restrictions,https://github.com/getappmap/appmap-js/pull/2262,2025-03-13T20:37:31Z,2025-03-14T18:02:22Z,2,1,MERGED
+appmap-js,fix: Restore frontend rendering of diff blocks,https://github.com/getappmap/appmap-js/pull/2275,2025-04-11T00:25:40Z,2025-04-11T01:00:37Z,2,1,MERGED
+appmap-js,fix: Surface billing-related errors to the user,https://github.com/getappmap/appmap-js/pull/2324,2025-07-11T16:38:41Z,2025-07-14T20:36:42Z,3,1,MERGED

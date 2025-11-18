@@ -1,0 +1,300 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state,addline,deleteline,changefile,fetch_status
+AmazeeLabs/silverback-template,Per-Project lagoon vector database,https://github.com/AmazeeLabs/silverback-template/pull/475,2025-05-21T14:14:02Z,2025-05-22T12:04:54Z,1,4,MERGED,117,3,9,Success
+BBC-archive/psammead,Fix FireFox High Contrast Mode for Radio Schedule,https://github.com/BBC-archive/psammead/pull/3324,2020-04-01T11:02:29Z,2020-04-06T11:03:16Z,2,12,MERGED,27,2,6,Success
+CruGlobal/mpdx-react,MPDX 7148 Add Task Modal,https://github.com/CruGlobal/mpdx-react/pull/255,2021-11-22T10:49:08Z,2021-12-14T17:00:51Z,5,15,MERGED,1378,29,16,Success
+Crystal-Creations-GbR/crystal-components,lang: update translations from Crystal Creations weblate,https://github.com/Crystal-Creations-GbR/crystal-components/pull/60,2024-03-18T22:53:51Z,2024-03-18T23:02:57Z,1,1,MERGED,6,0,1,Success
+DouyinFE/semi-design,fix(button): fixed button focus style when clicked,https://github.com/DouyinFE/semi-design/pull/730,2022-03-28T06:11:57Z,2022-03-30T06:41:00Z,3,1,MERGED,14,6,1,Success
+DouyinFE/semi-design,"fix: [select] using backspace to delete will cause the option to be invisible, close #444",https://github.com/DouyinFE/semi-design/pull/445,2021-12-21T10:07:20Z,2021-12-21T10:34:33Z,1,1,MERGED,11,9,1,Success
+Esri/calcite-design-system,feat(color-picker): Add component tokens,https://github.com/Esri/calcite-design-system/pull/12862,2025-09-11T04:22:35Z,2025-09-12T22:29:11Z,1,13,MERGED,243,6,6,Success
+Esri/calcite-design-system,fix(table): Fix `bordered` styling in Firefox,https://github.com/Esri/calcite-design-system/pull/11466,2025-02-05T23:14:06Z,2025-02-06T01:36:54Z,0,7,MERGED,165,147,3,Success
+Esri/calcite-design-system,Fix Notice RTL padding,https://github.com/Esri/calcite-design-system/pull/534,2020-04-29T23:32:35Z,2020-04-30T00:45:42Z,0,2,MERGED,68,14,2,Success
+Esri/calcite-design-system,fix(progress): make progress visible in high contrast (#3986),https://github.com/Esri/calcite-design-system/pull/3988,2022-01-24T02:07:56Z,2022-02-08T19:33:09Z,3,4,MERGED,9,0,1,Success
+Esri/calcite-design-system,feat(dropdown): Update styling of dropdown groups,https://github.com/Esri/calcite-design-system/pull/1024,2020-09-23T03:35:44Z,2020-10-01T17:58:06Z,1,5,MERGED,40,6,4,Success
+Esri/calcite-design-system,fix(swatch): Ensure corner radius css property is correctly applied,https://github.com/Esri/calcite-design-system/pull/12855,2025-09-10T20:44:45Z,2025-09-10T22:37:57Z,0,5,MERGED,74,2,6,Success
+Esri/calcite-design-system,"feat(calcite-input): display localized decimals by default, don't display group separator character by default, but allow opt-in.  Deprecates locale-format prop",https://github.com/Esri/calcite-design-system/pull/1995,2021-04-19T18:43:18Z,2021-04-20T18:37:43Z,5,10,MERGED,185,51,7,Success
+Esri/calcite-design-system,feat(notice): allow slotting action,https://github.com/Esri/calcite-design-system/pull/2370,2021-06-23T04:54:34Z,2021-06-23T15:19:26Z,0,2,MERGED,146,37,6,Success
+Esri/calcite-design-system,fix(input): correctly apply placeholder styles,https://github.com/Esri/calcite-design-system/pull/11107,2024-12-18T23:23:45Z,2025-01-06T17:11:24Z,0,2,MERGED,21,6,1,Success
+Esri/calcite-design-system,chore: Update demo toggles to use action-pad and add toggling of document dir and body theme.,https://github.com/Esri/calcite-design-system/pull/2111,2021-05-06T20:13:36Z,2021-05-07T16:12:01Z,1,2,MERGED,3203,3095,74,Success
+Esri/calcite-design-system,test(globalStyles): fix type errors,https://github.com/Esri/calcite-design-system/pull/5987,2022-12-12T05:14:40Z,2022-12-12T19:05:10Z,0,2,MERGED,15,21,1,Success
+Esri/calcite-design-system,test: Replace demo toggles with buttons in nav,https://github.com/Esri/calcite-design-system/pull/2650,2021-07-26T23:29:11Z,2021-08-13T17:00:25Z,34,19,MERGED,108,123,6,Success
+Esri/calcite-design-system,test(heights): adds demo page for manually spot-checking component heights together,https://github.com/Esri/calcite-design-system/pull/2627,2021-07-26T17:52:31Z,2021-08-17T01:45:10Z,5,12,CLOSED,333,0,1,Success
+Esri/calcite-design-system,feat(navigation-logo): Adds `icon` and `iconFlipRtl` properties,https://github.com/Esri/calcite-design-system/pull/8054,2023-10-25T19:21:38Z,2023-10-25T21:11:30Z,1,4,MERGED,79,4,5,Success
+Esri/calcite-design-system,fix(Panel): match header height and border color to Action,https://github.com/Esri/calcite-design-system/pull/3805,2021-12-29T17:19:24Z,2021-12-29T22:17:45Z,0,3,MERGED,2,3,2,Success
+ForgeRock/forgerock-web-login-framework,Add Webauthn support to Login Widget,https://github.com/ForgeRock/forgerock-web-login-framework/pull/123,2023-06-20T19:04:36Z,2023-06-22T00:45:31Z,3,2,MERGED,15567,3483,23,Success
+GCTC-NTGC/gc-digital-talent,[Copy] Removes recruitment type copy from `TrackApplicationsCard`,https://github.com/GCTC-NTGC/gc-digital-talent/pull/8228,2023-10-16T15:32:59Z,2023-10-16T17:14:35Z,0,1,MERGED,1,17,1,Success
+GCTC-NTGC/gc-digital-talent,[Bug] Remove defaulting to personal for experience type select,https://github.com/GCTC-NTGC/gc-digital-talent/pull/12224,2024-12-06T21:09:13Z,2024-12-09T16:24:04Z,0,2,MERGED,3,3,1,Success
+GCTC-NTGC/gc-digital-talent,[Copy] Removes Third paragraph describing the directive on digital talent,https://github.com/GCTC-NTGC/gc-digital-talent/pull/10649,2024-06-12T15:21:18Z,2024-06-12T16:38:31Z,1,1,MERGED,0,24,2,Success
+GCTC-NTGC/gc-digital-talent,[Debt] Talent management index page performance,https://github.com/GCTC-NTGC/gc-digital-talent/pull/13686,2025-05-30T20:28:01Z,2025-06-03T16:10:58Z,2,2,MERGED,20,25,3,Success
+Khan/perseus,Convert CursorContext TS enum to POJO,https://github.com/Khan/perseus/pull/593,2023-06-28T19:41:47Z,2023-06-28T20:54:25Z,5,2,MERGED,30,22,10,Success
+Khan/wonder-blocks,Updates to icon a11y docs and examples,https://github.com/Khan/wonder-blocks/pull/2241,2024-05-30T22:23:46Z,2024-06-03T22:05:27Z,6,6,MERGED,28,6,3,Success
+Khan/wonder-blocks,Implement Badge status kinds,https://github.com/Khan/wonder-blocks/pull/2597,2025-05-13T20:02:23Z,2025-05-14T16:30:05Z,7,24,CLOSED,737,14,8,Success
+Khan/wonder-blocks,FEI-4917: Add useOnMountEffect hook to wonder-blocks-core,https://github.com/Khan/wonder-blocks/pull/1696,2023-01-12T17:00:52Z,2023-01-17T20:24:49Z,6,4,MERGED,113,0,4,Success
+Khan/wonder-blocks,Add RadioGroup to Storybook,https://github.com/Khan/wonder-blocks/pull/1532,2022-06-22T20:50:30Z,2022-06-23T21:28:06Z,6,3,MERGED,211,0,3,Success
+Khan/wonder-blocks,WB-1134.2: Add stories for SingleSelect,https://github.com/Khan/wonder-blocks/pull/1512,2022-06-01T20:51:24Z,2022-06-02T14:32:45Z,5,3,MERGED,453,111,4,Success
+Khan/wonder-blocks,Support theming in Pill,https://github.com/Khan/wonder-blocks/pull/2665,2025-06-11T21:43:53Z,2025-06-30T16:08:13Z,7,22,MERGED,71,57,6,Success
+Khan/wonder-blocks,Update Banner examples to avoid using other typography components,https://github.com/Khan/wonder-blocks/pull/2755,2025-08-13T22:29:56Z,2025-08-19T20:22:18Z,6,2,MERGED,14,9,4,Success
+Khan/wonder-blocks,WB-1636: Announce popover contents correctly to screen readers,https://github.com/Khan/wonder-blocks/pull/2134,2023-12-04T20:02:28Z,2023-12-05T18:56:33Z,6,1,MERGED,250,73,11,Success
+Khan/wonder-blocks,[WB-1644.2] Convert border and sizing tokens to CSS variables,https://github.com/Khan/wonder-blocks/pull/2561,2025-04-16T15:04:40Z,2025-04-16T21:26:05Z,7,8,MERGED,103,50,17,Success
+Khan/wonder-blocks,[WB-1902.4] Update IconButton to match Button styles,https://github.com/Khan/wonder-blocks/pull/2533,2025-04-02T19:05:34Z,2025-04-03T22:49:12Z,6,22,MERGED,267,373,25,Success
+Khan/wonder-blocks,WB-1755: Toolbar - Allow title to also support React nodes,https://github.com/Khan/wonder-blocks/pull/2313,2024-08-30T17:57:23Z,2024-09-09T20:28:09Z,5,1,MERGED,106,69,4,Success
+Khan/wonder-blocks,[fei4370.4.documentation] Fix up all the docs,https://github.com/Khan/wonder-blocks/pull/1453,2022-05-01T17:16:22Z,2022-05-05T14:20:46Z,6,11,MERGED,1295,839,59,Success
+Khan/wonder-blocks,Remove default aria-label from WB Clickable,https://github.com/Khan/wonder-blocks/pull/1633,2022-10-27T21:34:34Z,2022-10-28T19:44:20Z,5,2,MERGED,43,2,3,Success
+Khan/wonder-blocks,Add StreakBadge and StreakIcon components,https://github.com/Khan/wonder-blocks/pull/2620,2025-05-26T23:13:43Z,2025-05-28T16:14:15Z,6,7,MERGED,438,120,14,Success
+Khan/wonder-blocks,Add Storybook controls for TextField,https://github.com/Khan/wonder-blocks/pull/1494,2022-05-24T00:25:42Z,2022-05-24T23:13:44Z,5,3,MERGED,382,12,2,Success
+Longhorn-Developers/UT-Registration-Plus,style: remove ugly period after async,https://github.com/Longhorn-Developers/UT-Registration-Plus/pull/313,2024-10-16T21:26:45Z,2024-10-16T22:13:34Z,0,1,MERGED,1,1,1,Success
+NeurodataWithoutBorders/nwb-guide,Try to left align text of navbar links,https://github.com/NeurodataWithoutBorders/nwb-guide/pull/508,2023-11-12T06:02:51Z,2023-11-15T15:44:17Z,2,4,MERGED,21,28,6,Success
+NeurodataWithoutBorders/nwb-guide,Custom DateTime Selector,https://github.com/NeurodataWithoutBorders/nwb-guide/pull/790,2024-05-20T23:13:41Z,2024-06-01T20:11:30Z,21,9,MERGED,35,9,4,Success
+NeurodataWithoutBorders/nwb-guide,"Add docs version switcher, favicon",https://github.com/NeurodataWithoutBorders/nwb-guide/pull/763,2024-04-24T20:08:24Z,2024-05-15T02:33:38Z,11,17,MERGED,164,18,16,Success
+NeurodataWithoutBorders/nwb-guide,Update headers for search categories,https://github.com/NeurodataWithoutBorders/nwb-guide/pull/472,2023-10-23T16:46:07Z,2023-10-23T18:11:55Z,2,8,MERGED,35,5,4,Success
+NeurodataWithoutBorders/nwb-guide,Add MiniscopeConverter,https://github.com/NeurodataWithoutBorders/nwb-guide/pull/489,2023-10-31T18:01:12Z,2023-10-31T18:11:30Z,2,3,MERGED,2,1,1,Success
+PostHog/posthog,fix: we do need matching events,https://github.com/PostHog/posthog/pull/15923,2023-06-06T17:54:14Z,2023-06-07T08:55:23Z,0,19,MERGED,1025,869,5,Success
+Sage-Bionetworks/synapse-web-monorepo,SWC-7468 - Metadata task table,https://github.com/Sage-Bionetworks/synapse-web-monorepo/pull/2219,2025-09-22T13:38:58Z,2025-09-24T19:24:55Z,0,8,MERGED,750,5,20,Success
+Sage/carbon,fix(search): update icon colour and hover colour in default variant FE-5157,https://github.com/Sage/carbon/pull/5293,2022-07-07T14:52:39Z,2022-07-13T14:43:14Z,3,2,MERGED,102,14,2,Success
+Sage/carbon,"feat(icon): 6 new icons, chevrons, expand and square dot, new glyphs for euro, pound and services",https://github.com/Sage/carbon/pull/3650,2021-02-08T14:10:31Z,2021-02-09T08:48:15Z,2,2,MERGED,38,12,7,Success
+Sage/carbon,feat(badge): modify font design tokens,https://github.com/Sage/carbon/pull/5042,2022-04-11T11:23:49Z,2022-05-16T09:28:28Z,2,1,CLOSED,13,2,2,Success
+Sage/carbon,fix(decimal): replace row-reverse with row when text is right aligned,https://github.com/Sage/carbon/pull/6185,2023-07-11T11:24:26Z,2023-07-20T09:53:13Z,3,2,MERGED,88,1,9,Success
+Trendyol/baklava,fix(radio): radio button flex-shrink problem,https://github.com/Trendyol/baklava/pull/636,2023-06-16T14:22:02Z,2023-06-28T08:49:21Z,4,1,MERGED,4,2,1,Success
+VOICEVOX/voicevox,文章が長い場合に注意を表示する,https://github.com/VOICEVOX/voicevox/pull/85,2021-08-13T18:32:38Z,2021-08-13T18:42:35Z,1,36,CLOSED,9,2,1,Success
+WPMedia/arc-themes-blocks,Tmedia 601 show caption video options,https://github.com/WPMedia/arc-themes-blocks/pull/1286,2022-03-09T19:22:50Z,2022-03-10T14:39:39Z,1,15,MERGED,169,13,8,Success
+WPMedia/arc-themes-blocks,TMEDIA-441: Add link to forgot password and implement block,https://github.com/WPMedia/arc-themes-blocks/pull/1209,2022-01-03T22:48:46Z,2022-01-04T15:43:24Z,0,2,MERGED,4095,3709,16,Success
+WPMedia/arc-themes-blocks,[PEN-1643] Fallback image sizing,https://github.com/WPMedia/arc-themes-blocks/pull/687,2021-01-19T04:36:27Z,2021-01-20T04:27:40Z,0,3,MERGED,2,1,2,Success
+WPMedia/arc-themes-blocks,Tmedia 258 styled theme,https://github.com/WPMedia/arc-themes-blocks/pull/897,2021-06-07T23:07:44Z,2021-07-27T11:29:16Z,0,6,CLOSED,68,106,29,Success
+WPMedia/arc-themes-blocks,"PEN-1631 Support for ""Hide photographer"" and ""Vanity photographer"" in…",https://github.com/WPMedia/arc-themes-blocks/pull/670,2021-01-11T13:05:19Z,2021-01-15T03:36:54Z,2,3,MERGED,290,4,3,Success
+WPMedia/arc-themes-blocks,ASUB-8954 Fixing style,https://github.com/WPMedia/arc-themes-blocks/pull/2282,2024-12-10T13:54:56Z,2024-12-18T21:01:40Z,0,3,MERGED,21,6,5,Success
+WPMedia/arc-themes-blocks,TMEDIA-585: Add feature or content source to feature or content source block,https://github.com/WPMedia/arc-themes-blocks/pull/1269,2022-02-10T21:32:10Z,2022-02-15T20:02:33Z,5,12,MERGED,429,3,26,Success
+WPMedia/arc-themes-blocks,PEN-1651  Manual Promos and Promos have incorrect headline font,https://github.com/WPMedia/arc-themes-blocks/pull/684,2021-01-18T07:08:37Z,2021-01-20T03:52:09Z,0,2,MERGED,18,17,11,Success
+WPMedia/arc-themes-blocks,Fixed Nav Menu scroll behavior,https://github.com/WPMedia/arc-themes-blocks/pull/1731,2023-09-13T21:36:25Z,2023-09-14T18:00:52Z,0,1,MERGED,6,2,2,Success
+WPMedia/arc-themes-blocks,Tmedia 604 sync retag themes release branch,https://github.com/WPMedia/arc-themes-blocks/pull/1226,2022-01-14T16:56:31Z,2022-01-18T15:23:24Z,0,4,MERGED,114,0,2,Success
+WPMedia/arc-themes-blocks,PEN-862 chartbeat integration,https://github.com/WPMedia/arc-themes-blocks/pull/482,2020-10-06T00:40:45Z,2020-10-15T14:33:16Z,0,5,MERGED,93,0,4,Success
+WPMedia/arc-themes-blocks,Hotfix revert pen 814,https://github.com/WPMedia/arc-themes-blocks/pull/522,2020-10-27T22:42:30Z,2020-10-28T15:34:59Z,1,7,MERGED,115,1423,40,Success
+WPMedia/arc-themes-blocks,Tmedia 734 gallery block update,https://github.com/WPMedia/arc-themes-blocks/pull/1491,2022-08-29T22:08:23Z,2022-09-01T16:55:07Z,13,53,MERGED,409,812,14,Success
+WPMedia/arc-themes-blocks,POC: Cross feature Events,https://github.com/WPMedia/arc-themes-blocks/pull/1391,2022-06-24T16:28:09Z,2022-07-25T21:00:10Z,0,6,CLOSED,245,0,8,Success
+WPMedia/arc-themes-blocks,PEN-1763 nav chain links spacing regression,https://github.com/WPMedia/arc-themes-blocks/pull/730,2021-02-09T14:16:24Z,2021-02-09T15:09:49Z,0,3,MERGED,4,4,2,Success
+WPMedia/arc-themes-blocks,"Remove unused scss, clarify purpose of empty scss file",https://github.com/WPMedia/arc-themes-blocks/pull/732,2021-02-09T17:54:34Z,2021-02-09T19:51:30Z,2,3,MERGED,3,246,9,Success
+WPMedia/arc-themes-blocks,PEN-1506 Simple List & Card List has div instead of article tags,https://github.com/WPMedia/arc-themes-blocks/pull/640,2020-12-23T04:04:59Z,2020-12-23T16:38:46Z,0,1,MERGED,11,11,2,Success
+WPMedia/arc-themes-components,Update inline prop on Stack to remove errors,https://github.com/WPMedia/arc-themes-components/pull/31,2022-03-02T09:44:48Z,2022-03-02T14:17:59Z,0,1,MERGED,3,3,2,Success
+WPMedia/arc-themes-components,Tmedia 734 gallery set right html,https://github.com/WPMedia/arc-themes-components/pull/139,2022-08-29T22:54:03Z,2022-08-30T15:24:24Z,0,5,MERGED,33,4,2,Success
+Workday/canvas-kit,docs: Update LoadingSparkle docs,https://github.com/Workday/canvas-kit/pull/2531,2024-01-18T16:30:15Z,2024-01-18T17:29:18Z,2,5,MERGED,169,24,10,Success
+Workday/canvas-kit,fix: fix stuff,https://github.com/Workday/canvas-kit/pull/1612,2022-05-25T21:25:27Z,2022-05-25T22:05:13Z,1,1,CLOSED,1,0,1,Success
+Workday/canvas-kit,feat(button): Update SecondaryButton for v6,https://github.com/Workday/canvas-kit/pull/1332,2021-11-09T12:27:03Z,2021-11-12T19:23:22Z,1,1,MERGED,96,39,3,Success
+adobe/react-spectrum,SearchWithin WIP,https://github.com/adobe/react-spectrum/pull/1366,2020-12-10T17:02:36Z,2021-07-17T01:15:25Z,1,2,CLOSED,511,103,17,Success
+adobe/react-spectrum,issue-1605: use two selectors to avoid css overwrite,https://github.com/adobe/react-spectrum/pull/3705,2022-11-02T22:12:52Z,2022-11-07T18:08:11Z,2,3,MERGED,2,1,1,Success
+adobe/react-spectrum,FIX use early return to VisuallyHidden,https://github.com/adobe/react-spectrum/pull/6293,2024-04-30T03:03:21Z,2024-05-01T19:48:52Z,2,1,CLOSED,10,10,1,Success
+adobe/react-spectrum,Explicit box-sizing of checkmark to avoid clipping in bootsrap envs,https://github.com/adobe/react-spectrum/pull/6470,2024-05-30T16:40:38Z,2024-06-07T22:08:26Z,4,2,MERGED,1,0,1,Success
+adobe/react-spectrum,issue-2216: setting null to value should reset NumberField to blank,https://github.com/adobe/react-spectrum/pull/3709,2022-11-03T18:44:34Z,2022-11-07T18:14:34Z,4,4,MERGED,51,1,3,Success
+adobe/react-spectrum,feat: adding zh-TW to map to traditional chinese,https://github.com/adobe/react-spectrum/pull/4485,2023-05-05T17:57:28Z,2023-05-05T20:19:36Z,2,1,CLOSED,4,0,1,Success
+adobe/react-spectrum,fix: remove min/max limits for all segments in `parseDuration`,https://github.com/adobe/react-spectrum/pull/7064,2024-09-22T07:46:56Z,2024-12-12T04:27:19Z,5,14,MERGED,22,14,2,Success
+adobe/react-spectrum,Allow passing data attributes to FieldError,https://github.com/adobe/react-spectrum/pull/6895,2024-08-16T17:26:33Z,2024-08-21T16:22:08Z,0,3,MERGED,28,3,2,Success
+adobe/react-spectrum,issue-2408: make useButton generic,https://github.com/adobe/react-spectrum/pull/3712,2022-11-03T23:41:11Z,2025-04-12T00:04:38Z,4,3,CLOSED,13,36,2,Success
+adobe/react-spectrum,Whcm fixes,https://github.com/adobe/react-spectrum/pull/2620,2021-12-01T01:13:31Z,2021-12-23T19:24:55Z,3,13,MERGED,222,0,13,Success
+adobe/spectrum-css,fix: adding overflow-wrap to dropdown #451,https://github.com/adobe/spectrum-css/pull/482,2020-01-17T22:38:59Z,2020-01-23T01:47:30Z,6,6,MERGED,23,9,2,Success
+adobe/spectrum-css,"fix: make quiet Text area 1 line tall by default, fixes #442",https://github.com/adobe/spectrum-css/pull/447,2019-12-12T18:36:17Z,2019-12-12T21:47:00Z,0,1,MERGED,5,0,1,Success
+adobe/spectrum-css,feat: t-shirt sizing for Button,https://github.com/adobe/spectrum-css/pull/1053,2020-10-14T21:04:00Z,2020-10-20T17:43:53Z,15,12,MERGED,5693,2093,55,Success
+appsmithorg/appsmith,[Snyk] Security upgrade net.minidev:json-smart from 2.3 to 2.4.5,https://github.com/appsmithorg/appsmith/pull/4882,2021-06-02T21:06:12Z,2021-06-03T12:37:03Z,1,1,CLOSED,1,1,1,Success
+backstage/backstage,add performance tests,https://github.com/backstage/backstage/pull/18261,2023-06-14T17:50:40Z,2023-06-16T07:56:23Z,4,1,MERGED,517,28,8,Success
+bitwarden/clients,[PM-1977] Display passkeys properly on the desktop,https://github.com/bitwarden/clients/pull/5763,2023-07-07T21:28:20Z,2023-07-21T16:39:32Z,0,13,MERGED,209,42,16,Success
+bitwarden/clients,"[PM-11497] If an org has only one collection, check it by default",https://github.com/bitwarden/clients/pull/10806,2024-08-29T23:32:01Z,2024-10-07T14:22:10Z,6,1,MERGED,4,0,1,Success
+cerebrl/forgerock-web-login-framework,feat(docs): add docs site internally to project,https://github.com/cerebrl/forgerock-web-login-framework/pull/7,2022-07-18T17:18:45Z,2022-11-09T16:28:20Z,1,1,MERGED,1385,176,30,Success
+chanzuckerberg/edu-design-system,feat(link): add Link component,https://github.com/chanzuckerberg/edu-design-system/pull/617,2021-08-27T23:02:33Z,2021-09-08T16:32:32Z,2,12,MERGED,377,3,10,Success
+chanzuckerberg/edu-design-system,feat(tag): copy Tag over from traject,https://github.com/chanzuckerberg/edu-design-system/pull/519,2021-07-23T15:18:38Z,2021-07-23T20:25:41Z,1,5,MERGED,421,0,9,Success
+chanzuckerberg/edu-design-system,feat(numbericon): add number icon,https://github.com/chanzuckerberg/edu-design-system/pull/1043,2022-05-06T00:57:12Z,2022-05-10T01:22:44Z,1,5,MERGED,435,47,10,Success
+chanzuckerberg/edu-design-system,"chore(media-block, feature, stacked-block): use image in codebase instead of external url in stories",https://github.com/chanzuckerberg/edu-design-system/pull/1151,2022-06-21T19:32:22Z,2022-11-10T21:00:11Z,4,3,CLOSED,7,15,4,Success
+chanzuckerberg/edu-design-system,chore(button): add dark background stories,https://github.com/chanzuckerberg/edu-design-system/pull/495,2021-07-06T17:17:54Z,2021-07-07T21:46:45Z,1,2,MERGED,68,47,1,Success
+chanzuckerberg/edu-design-system,docs: add guidelines for component comment,https://github.com/chanzuckerberg/edu-design-system/pull/1144,2022-06-16T23:10:44Z,2022-08-26T22:40:53Z,5,1,MERGED,49,2,2,Success
+chanzuckerberg/sci-components,feat: SDS Tailwind Style Dictionary Formatter,https://github.com/chanzuckerberg/sci-components/pull/205,2022-06-16T23:41:23Z,2022-06-30T21:57:56Z,4,9,MERGED,464,30,10,Success
+chromaui/addon-visual-tests,Replace the design system with local source files,https://github.com/chromaui/addon-visual-tests/pull/171,2024-02-01T18:28:38Z,2024-02-02T00:46:16Z,0,10,MERGED,3115,403,27,Success
+chromaui/addon-visual-tests,Fix `first-child` warning in console,https://github.com/chromaui/addon-visual-tests/pull/183,2024-02-08T09:13:36Z,2024-03-13T10:36:35Z,0,3,CLOSED,0,0,0,Success
+chromaui/chromatic-docs,Add position-sticky docs and images,https://github.com/chromaui/chromatic-docs/pull/376,2024-02-20T12:02:40Z,2024-02-20T14:47:13Z,1,2,MERGED,23,2,4,Success
+chromaui/chromatic-e2e,"Picture elements are captured, including art direction",https://github.com/chromaui/chromatic-e2e/pull/208,2024-10-18T16:40:11Z,2024-10-21T23:05:47Z,1,21,MERGED,471,10,8,Success
+chromaui/chromatic-e2e,Fix playwright evaluate,https://github.com/chromaui/chromatic-e2e/pull/229,2025-02-08T02:44:19Z,2025-02-08T15:32:53Z,2,5,MERGED,70,77,4,Success
+cloudblue/connect-ui-toolkit,"Add textarea, alert and radio button",https://github.com/cloudblue/connect-ui-toolkit/pull/84,2024-04-29T14:47:17Z,2024-04-30T14:35:16Z,1,1,MERGED,712,0,10,Success
+coder/coder,refactor(site): Refactor workspace schedule page,https://github.com/coder/coder/pull/7069,2023-04-10T18:04:41Z,2023-04-11T16:27:52Z,0,12,MERGED,582,362,20,Success
+coder/coder,fix: hide IP on workspace build logs,https://github.com/coder/coder/pull/5997,2023-02-02T19:59:00Z,2023-02-02T20:22:37Z,0,1,MERGED,6,9,2,Success
+coder/coder,feat: Add GitHub OAuth,https://github.com/coder/coder/pull/1050,2022-04-17T20:44:43Z,2022-04-23T22:58:57Z,6,14,MERGED,1250,421,41,Success
+coder/coder,feat: render Markdown in rich parameter descriptions,https://github.com/coder/coder/pull/6098,2023-02-08T10:47:25Z,2023-02-08T11:57:13Z,0,10,MERGED,280,71,15,Success
+coder/coder,refactor(site): refactor the workspace settings form,https://github.com/coder/coder/pull/13198,2024-05-07T13:29:12Z,2024-05-08T16:12:49Z,2,3,MERGED,50,36,2,Success
+coder/coder,fix: don't show prebuild workspaces as tasks,https://github.com/coder/coder/pull/19572,2025-08-27T12:16:43Z,2025-08-28T15:14:53Z,0,2,MERGED,7,3,1,Success
+coder/coder,feat(.devcontainer): add code-server feature to `devcontainer.json`,https://github.com/coder/coder/pull/18589,2025-06-25T18:29:46Z,2025-06-25T18:35:44Z,0,1,MERGED,4,0,1,Success
+coder/coder,refactor: redesign workspace status on workspaces table,https://github.com/coder/coder/pull/17425,2025-04-16T14:55:29Z,2025-04-17T13:57:03Z,0,7,MERGED,119,41,6,Success
+coder/coder,chore(dogfood): update workspace lifecycle ignore_changes with env and entrypoint,https://github.com/coder/coder/pull/19571,2025-08-27T12:14:46Z,2025-08-27T13:23:44Z,2,2,MERGED,2,0,1,Success
+coder/coder,refactor: replace MUI components and refactor styles,https://github.com/coder/coder/pull/18082,2025-05-28T16:26:43Z,2025-05-29T11:27:52Z,0,2,MERGED,8,8,1,Success
+coder/coder,feat: use sse for workspace page,https://github.com/coder/coder/pull/4122,2022-09-19T20:22:42Z,2022-09-21T18:32:00Z,4,7,MERGED,141,117,9,Success
+coder/coder,Feat: add showAvatar option to User Autocomplete,https://github.com/coder/coder/pull/4269,2022-09-29T20:03:00Z,2022-09-30T13:50:36Z,0,2,MERGED,52,8,3,Success
+coder/coder,fix: display banner when no matching templates found,https://github.com/coder/coder/pull/16696,2025-02-25T13:22:10Z,2025-02-25T13:30:50Z,0,1,MERGED,23,1,4,Success
+coder/coder,fix: change resource icon colors in the delete modal based on the set theme,https://github.com/coder/coder/pull/16550,2025-02-13T00:04:07Z,2025-02-13T22:41:03Z,0,3,MERGED,6,1,1,Success
+contentful/forma-36,[BAU-489] feat: implement a layout grid for the next js website,https://github.com/contentful/forma-36/pull/1619,2021-12-13T14:53:53Z,2021-12-13T15:59:34Z,3,5,MERGED,92,38,4,Success
+contentful/forma-36,feat(header): only apply margin left if noWrap is not first child,https://github.com/contentful/forma-36/pull/2772,2024-06-03T10:30:55Z,2024-06-04T14:09:40Z,16,8,CLOSED,10,4,5,Success
+contentful/forma-36,Add switch button,https://github.com/contentful/forma-36/pull/158,2019-04-01T15:27:39Z,2019-05-20T11:06:27Z,2,1,MERGED,286,0,8,Success
+contentful/forma-36,feat(checkbox): add indeterminate state,https://github.com/contentful/forma-36/pull/790,2021-01-14T12:55:16Z,2021-01-14T13:23:25Z,0,2,MERGED,52,3,7,Success
+contentful/forma-36,feat(navigation-icon): add new purchase icon to lib,https://github.com/contentful/forma-36/pull/538,2020-08-17T14:44:01Z,2020-08-18T07:59:25Z,5,1,MERGED,31,21,3,Success
+contentful/forma-36,Fix TextInput with CopyButton margins/padding,https://github.com/contentful/forma-36/pull/55,2019-01-23T12:31:54Z,2019-01-24T12:51:23Z,0,1,MERGED,2,1,1,Success
+contentful/forma-36,feat: implement short description in page content header,https://github.com/contentful/forma-36/pull/1822,2022-01-26T11:55:43Z,2022-02-07T14:23:30Z,1,6,MERGED,305,257,19,Success
+cultureamp/kaizen-design-system,fix: remove animation from InlineNotification when persistent,https://github.com/cultureamp/kaizen-design-system/pull/3972,2023-08-09T04:51:07Z,2023-08-10T04:15:46Z,3,16,MERGED,15,114,6,Success
+cultureamp/kaizen-design-system,[KZN-3416] Fix popover regressions,https://github.com/cultureamp/kaizen-design-system/pull/6073,2025-09-11T22:44:28Z,2025-09-16T04:20:14Z,2,4,MERGED,43,19,6,Success
+cultureamp/kaizen-design-system,fix: navigation bar design review,https://github.com/cultureamp/kaizen-design-system/pull/787,2020-09-22T03:04:41Z,2020-09-22T03:24:20Z,0,2,MERGED,23,19,3,Success
+cultureamp/kaizen-design-system,fix(Modal): Focus ring wrap the dialog instead of the title,https://github.com/cultureamp/kaizen-design-system/pull/4877,2024-07-29T04:53:33Z,2024-07-29T06:08:35Z,2,1,MERGED,19,15,3,Success
+cultureamp/kaizen-design-system,feat: Allow custom icons for popovers,https://github.com/cultureamp/kaizen-design-system/pull/857,2020-11-10T02:39:00Z,2020-11-10T22:24:02Z,0,4,MERGED,24,1,2,Success
+curology/radiance-ui,Update dropdown component max-height,https://github.com/curology/radiance-ui/pull/256,2020-07-02T16:05:33Z,2020-07-02T21:49:35Z,0,5,MERGED,49,24,4,Success
+curology/radiance-ui,Add aria-label to dropdown component,https://github.com/curology/radiance-ui/pull/1110,2021-08-06T16:42:36Z,2021-08-09T22:09:56Z,3,1,CLOSED,1,0,1,Success
+danskernesdigitalebibliotek/dpl-design-system,Feature/5387 publizon items styling,https://github.com/danskernesdigitalebibliotek/dpl-design-system/pull/141,2022-09-15T10:54:05Z,2022-09-23T12:03:16Z,0,3,MERGED,11,0,2,Success
+danskernesdigitalebibliotek/dpl-design-system,Class for text truncation,https://github.com/danskernesdigitalebibliotek/dpl-design-system/pull/108,2022-07-25T08:19:03Z,2022-07-26T08:29:24Z,0,1,MERGED,12,0,2,Success
+danskernesdigitalebibliotek/dpl-design-system,Center calendar horizontally on mobile and hide box arrow,https://github.com/danskernesdigitalebibliotek/dpl-design-system/pull/828,2025-01-20T15:16:18Z,2025-01-30T09:07:45Z,0,1,MERGED,11,6,1,Success
+danskernesdigitalebibliotek/dpl-design-system,Ensure second menu level is always full height,https://github.com/danskernesdigitalebibliotek/dpl-design-system/pull/118,2022-08-03T14:36:16Z,2022-08-05T09:40:01Z,0,3,MERGED,14,3,4,Success
+department-of-veterans-affairs/component-library,Va alert/no headline spacing issue,https://github.com/department-of-veterans-affairs/component-library/pull/434,2022-05-19T15:25:08Z,2023-08-11T19:53:38Z,12,2,CLOSED,52,8,4,Success
+department-of-veterans-affairs/component-library,41424 Storybook Introduction Page Links,https://github.com/department-of-veterans-affairs/component-library/pull/458,2022-06-10T15:56:29Z,2022-06-13T19:25:35Z,4,6,MERGED,54,5,2,Success
+department-of-veterans-affairs/component-library,Add Storybook style overrides for USWDS v3 components,https://github.com/department-of-veterans-affairs/component-library/pull/577,2022-11-16T20:00:37Z,2022-11-21T18:28:49Z,0,6,MERGED,60,4,2,Success
+dpc-sdp/ripple,[SDPL-88] Field select letter,https://github.com/dpc-sdp/ripple/pull/565,2019-10-14T06:44:46Z,2019-11-01T03:17:32Z,2,7,MERGED,851,12,5,Success
+dpc-sdp/ripple-framework,[SD-576] - Added RplProgress UI component,https://github.com/dpc-sdp/ripple-framework/pull/1426,2025-01-20T00:02:24Z,2025-01-20T22:54:13Z,1,1,MERGED,503,0,4,Success
+e-gov/cvi,feat(icons): add content-copy icon EBS-360,https://github.com/e-gov/cvi/pull/127,2023-07-24T08:46:53Z,2023-07-24T17:43:41Z,0,2,MERGED,7,0,2,Success
+epicmaxco/vuestic-ui,[#2295] `VaDataTable` scroll events,https://github.com/epicmaxco/vuestic-ui/pull/2389,2022-09-12T12:01:39Z,2022-10-05T09:08:36Z,0,16,MERGED,310,85,17,Success
+epicmaxco/vuestic-ui,[#1701] Fix tab `id` value in the `VaTabs`,https://github.com/epicmaxco/vuestic-ui/pull/1702,2022-04-25T11:09:29Z,2022-04-25T12:15:31Z,0,2,MERGED,8,10,2,Success
+ethereum/ethereum-org-website,fix: DocLink routing; use internal link component,https://github.com/ethereum/ethereum-org-website/pull/15327,2025-04-22T09:05:14Z,2025-04-25T16:20:05Z,6,1,MERGED,7,4,1,Success
+ethereum/ethereum-org-website,Internal link component [Issue #1737],https://github.com/ethereum/ethereum-org-website/pull/1753,2020-11-06T03:15:54Z,2020-11-12T20:49:09Z,12,12,MERGED,116,42,6,Success
+evidence-dev/evidence,DataTable fixes and upgrades,https://github.com/evidence-dev/evidence/pull/1525,2024-01-25T21:02:39Z,2024-01-29T19:16:04Z,3,10,MERGED,153,60,8,Success
+evidence-dev/evidence,"added authenticator env var to listing, and warnings for browser-only auth",https://github.com/evidence-dev/evidence/pull/940,2023-06-09T20:58:42Z,2023-06-09T21:16:20Z,3,2,MERGED,70,47,3,Success
+evidence-dev/evidence,Fix scrollbar appearing when hovering last chart on page,https://github.com/evidence-dev/evidence/pull/1939,2024-04-24T20:09:18Z,2024-04-24T21:18:33Z,5,1,MERGED,6,1,2,Success
+fortanix/baklava,"Implement ""card"" variant for `Button` component",https://github.com/fortanix/baklava/pull/121,2025-02-02T15:59:04Z,2025-02-03T14:43:32Z,0,4,MERGED,120,73,28,Success
+getappmap/appmap-js,update wording for analysis CTA in web view,https://github.com/getappmap/appmap-js/pull/1003,2023-02-07T18:04:56Z,2023-02-07T19:01:44Z,1,1,MERGED,5,0,1,Success
+getappmap/appmap-js,1144 - Sign-in test flow 1,https://github.com/getappmap/appmap-js/pull/1145,2023-04-14T15:57:42Z,2023-04-28T14:56:09Z,2,11,MERGED,134,8,4,Success
+getappmap/appmap-js,Add button to copy filter state,https://github.com/getappmap/appmap-js/pull/1190,2023-05-18T21:48:30Z,2024-04-30T14:35:01Z,0,1,CLOSED,50,1,2,Success
+gradio-app/gradio,UI Design Improvements,https://github.com/gradio-app/gradio/pull/473,2022-01-21T00:09:41Z,2022-01-27T04:07:50Z,1,12,MERGED,27,19,7,Success
+gradio-app/gradio,Add support for altair plots,https://github.com/gradio-app/gradio/pull/2741,2022-11-29T19:21:04Z,2022-12-02T17:53:43Z,8,14,MERGED,922,36,18,Success
+gravitee-io/gravitee-ui-components,fix(gv-policy-studio): use correct icon and name for `try it` tab,https://github.com/gravitee-io/gravitee-ui-components/pull/432,2021-08-16T07:52:55Z,2021-08-16T07:58:44Z,2,1,MERGED,1,1,1,Success
+grommet/grommet,Make Calendar able to scale down responsively,https://github.com/grommet/grommet/pull/7583,2025-04-09T22:13:07Z,2025-04-15T16:29:20Z,0,8,MERGED,9396,6187,8,Success
+guardian/dotcom-rendering,Change vertical gap to 4px in beta containers,https://github.com/guardian/dotcom-rendering/pull/13126,2025-01-13T16:42:39Z,2025-01-22T10:21:14Z,5,3,MERGED,66,34,2,Success
+guardian/dotcom-rendering,Support column split theme,https://github.com/guardian/dotcom-rendering/pull/9349,2023-10-27T10:56:54Z,2023-10-30T09:38:39Z,1,3,MERGED,49,32,2,Success
+guardian/dotcom-rendering,Use headline colour for latest links title text,https://github.com/guardian/dotcom-rendering/pull/12723,2024-10-30T16:46:51Z,2024-10-30T17:05:51Z,3,1,MERGED,1,0,1,Success
+guardian/dotcom-rendering,show 'wide' LeftColumn after leftCol breakpoint for live layouts,https://github.com/guardian/dotcom-rendering/pull/3685,2021-11-24T17:46:24Z,2021-11-30T11:37:03Z,2,8,MERGED,4,4,1,Success
+guardian/dotcom-rendering,Change `sign-in-gate` placeholder to `div`,https://github.com/guardian/dotcom-rendering/pull/4083,2022-02-24T12:48:56Z,2022-02-25T09:30:05Z,1,1,MERGED,2,2,1,Success
+guardian/dotcom-rendering,Use correct layouts when ad-free for `dynamic/slow-mpu`,https://github.com/guardian/dotcom-rendering/pull/8078,2023-06-28T11:55:57Z,2023-07-04T13:01:40Z,1,2,MERGED,333,269,6,Success
+guardian/dotcom-rendering,Use DCR support header component in new TopBar,https://github.com/guardian/dotcom-rendering/pull/11393,2024-05-08T14:02:55Z,2024-05-28T16:23:15Z,5,16,MERGED,576,326,26,Success
+guardian/dotcom-rendering,Add SlotBodyEnd (epic) to interactive layout,https://github.com/guardian/dotcom-rendering/pull/5184,2022-06-14T08:21:38Z,2022-07-06T13:47:10Z,2,15,MERGED,92,46,3,Success
+guardian/dotcom-rendering,refactor: consolidate styles ahead of font scaling adjustment,https://github.com/guardian/dotcom-rendering/pull/9750,2023-12-04T10:28:17Z,2023-12-04T12:08:38Z,2,1,CLOSED,23,37,1,Success
+guardian/dotcom-rendering,Carousels: Align navigation with container title and grid,https://github.com/guardian/dotcom-rendering/pull/12787,2024-11-08T13:31:08Z,2024-11-12T10:18:56Z,5,4,MERGED,85,32,5,Success
+guardian/dotcom-rendering,Update loop video styles,https://github.com/guardian/dotcom-rendering/pull/13942,2025-05-13T13:38:45Z,2025-05-14T14:20:34Z,5,4,MERGED,71,33,5,Success
+guardian/dotcom-rendering,Fix date bug - always format match day date using UTC timezone,https://github.com/guardian/dotcom-rendering/pull/13700,2025-03-28T11:26:51Z,2025-03-31T09:27:03Z,3,1,MERGED,8,11,2,Success
+guardian/dotcom-rendering,"Refactor AR story structure, add more examples",https://github.com/guardian/dotcom-rendering/pull/4090,2022-02-24T18:55:12Z,2022-02-25T15:00:15Z,1,6,MERGED,106,59,3,Success
+guardian/dotcom-rendering,Fix e2e test which fails when in UpdatedHeaderDesign test,https://github.com/guardian/dotcom-rendering/pull/12200,2024-08-23T15:03:43Z,2024-08-23T15:18:35Z,3,1,CLOSED,5,0,1,Success
+guardian/dotcom-rendering,Improve `flexible/general` Storybook stories,https://github.com/guardian/dotcom-rendering/pull/12464,2024-09-26T16:21:52Z,2024-10-01T13:00:07Z,4,7,MERGED,295,51,5,Success
+guardian/dotcom-rendering,Improve accessibility of advertisement labels,https://github.com/guardian/dotcom-rendering/pull/6352,2022-11-03T11:12:03Z,2022-11-04T12:31:16Z,0,5,MERGED,4,4,1,Success
+guardian/dotcom-rendering,Add Print Story,https://github.com/guardian/dotcom-rendering/pull/3289,2021-08-16T09:40:28Z,2021-08-16T10:03:28Z,1,1,MERGED,35,1,1,Success
+guardian/dotcom-rendering,Styling the outbrain widget,https://github.com/guardian/dotcom-rendering/pull/767,2019-09-17T10:39:13Z,2019-09-17T13:33:00Z,2,6,MERGED,64,1,1,Success
+guardian/dotcom-rendering,Update Comments.tsx,https://github.com/guardian/dotcom-rendering/pull/10382,2024-01-29T14:15:03Z,2024-02-06T16:33:08Z,2,1,CLOSED,52,9,1,Success
+guardian/gateway,`Islet`s - Getaway (Gateway) Islands 🏝️,https://github.com/guardian/gateway/pull/1513,2022-02-28T10:03:26Z,2023-02-27T13:42:30Z,3,8,CLOSED,747,183,22,Success
+guardian/gateway,Implement breached password validation on password reset,https://github.com/guardian/gateway/pull/123,2020-12-04T16:27:28Z,2020-12-21T09:34:29Z,2,5,MERGED,857,32,23,Success
+guardian/source,`StarRating` Component,https://github.com/guardian/source/pull/803,2021-04-16T12:07:36Z,2021-04-29T13:34:10Z,0,9,MERGED,316,9,14,Success
+guardian/support-frontend,[Snyk] Upgrade @guardian/src-button from 2.1.0 to 2.5.0,https://github.com/guardian/support-frontend/pull/2846,2020-11-20T23:12:20Z,2020-12-14T14:07:09Z,0,1,CLOSED,19,7,2,Success
+hackworthltd/primer-app,[Snyk] Security upgrade vite-plugin-dts from 3.9.1 to 4.0.0,https://github.com/hackworthltd/primer-app/pull/1240,2024-10-22T04:01:33Z,2025-05-12T16:20:53Z,0,1,CLOSED,1,1,1,Success
+hackworthltd/primer-app,style(components): Switch to circular avatars.,https://github.com/hackworthltd/primer-app/pull/78,2021-10-13T10:08:23Z,2021-10-13T10:30:20Z,3,1,MERGED,15,7,1,Success
+hackworthltd/primer-app,[Snyk] Security upgrade eslint from 8.57.0 to 9.0.0,https://github.com/hackworthltd/primer-app/pull/1128,2024-04-06T00:10:46Z,2024-04-09T12:58:55Z,0,1,CLOSED,1,1,1,Success
+homebound-team/beam,fix: Nested GridTable leaf cards draw their own borders,https://github.com/homebound-team/beam/pull/444,2022-02-04T17:52:25Z,2022-02-08T16:06:58Z,2,2,MERGED,90,162,6,Success
+homebound-team/beam,feat(accordion): clickable title,https://github.com/homebound-team/beam/pull/1033,2024-05-25T02:25:09Z,2024-05-29T19:40:37Z,1,4,MERGED,111,34,3,Success
+homebound-team/beam,feat(bound-select-field): dirty indicator,https://github.com/homebound-team/beam/pull/604,2022-07-21T21:10:19Z,2023-01-06T23:39:02Z,1,1,CLOSED,37,2,2,Success
+homebound-team/beam,fix: scrollshadow chromatic diff issue,https://github.com/homebound-team/beam/pull/1082,2024-10-18T16:47:40Z,2025-04-14T20:12:36Z,1,5,CLOSED,36,1,2,Success
+input-output-hk/daedalus,"[DDW-503] Show stake pool ID on the ""Confirmation"" step of the ""Delegation"" wizard",https://github.com/input-output-hk/daedalus/pull/2281,2020-12-17T00:10:10Z,2020-12-17T19:49:19Z,0,7,MERGED,69,33,8,Success
+input-output-hk/lace,fix: long nft folder names wrapping in nft details,https://github.com/input-output-hk/lace/pull/1146,2024-05-09T21:36:19Z,2024-05-13T15:41:54Z,2,3,MERGED,11,7,2,Success
+isomerpages/isomercms-frontend,ref(formField): adds formInput and refactors formField,https://github.com/isomerpages/isomercms-frontend/pull/774,2022-02-15T09:21:29Z,2022-03-09T03:14:59Z,0,34,MERGED,1022,882,38,Success
+isomerpages/isomercms-frontend,Feat/collections layout,https://github.com/isomerpages/isomercms-frontend/pull/206,2020-11-05T20:34:35Z,2020-11-09T05:07:53Z,1,26,MERGED,502,157,16,Success
+isomerpages/isomercms-frontend,fix(path-traversal): add regex to prevent path traversal attack,https://github.com/isomerpages/isomercms-frontend/pull/1828,2024-03-08T05:41:28Z,2024-03-14T02:45:51Z,2,1,MERGED,19,19,1,Success
+isomerpages/isomercms-frontend,Feat/homepageAnnouncement,https://github.com/isomerpages/isomercms-frontend/pull/1502,2023-09-19T08:28:22Z,2023-09-27T08:56:00Z,2,11,MERGED,143,31,10,Success
+iterative/vscode-dvc,Add ability to color bullets into experiments webview,https://github.com/iterative/vscode-dvc/pull/1010,2021-11-08T04:53:50Z,2021-11-08T21:44:01Z,1,3,MERGED,63,12,7,Success
+ithaka/pharos,Tabs: Remove overflow-y from pharos-tabs' tab__panels class,https://github.com/ithaka/pharos/pull/690,2024-02-21T15:48:43Z,2024-02-27T17:14:19Z,1,2,MERGED,5,1,2,Success
+ithaka/pharos,Dropdown Menu: Add default elevation,https://github.com/ithaka/pharos/pull/684,2024-02-09T14:38:56Z,2024-02-13T16:43:35Z,2,2,MERGED,6,5,2,Success
+ithaka/pharos,Storybook: use Pharos standard colors for background options,https://github.com/ithaka/pharos/pull/464,2022-12-10T00:38:15Z,2022-12-11T16:20:25Z,2,1,MERGED,15,47,3,Success
+ithaka/pharos,Update dependencies to latest compatible versions,https://github.com/ithaka/pharos/pull/716,2024-03-12T21:06:02Z,2024-03-13T12:48:09Z,2,28,MERGED,4225,3543,29,Success
+jpmorganchase/salt-ds,Fix dropdown combo list zindex,https://github.com/jpmorganchase/salt-ds/pull/188,2022-06-13T16:17:43Z,2022-07-20T15:20:16Z,2,4,MERGED,46,19,9,Success
+jpmorganchase/salt-ds,Fix docs content height issue,https://github.com/jpmorganchase/salt-ds/pull/1334,2023-03-21T13:45:55Z,2023-03-24T12:24:57Z,4,15,MERGED,26,4,4,Success
+kiva/kv-ui-elements,feat: comment replies ack 922,https://github.com/kiva/kv-ui-elements/pull/350,2024-02-28T21:49:10Z,2024-02-29T00:27:39Z,0,5,MERGED,186,38,8,Success
+kufu/smarthr-ui,Fix controllable dropdown bug,https://github.com/kufu/smarthr-ui/pull/390,2019-10-17T06:00:08Z,2019-10-17T13:52:11Z,3,4,MERGED,116,121,7,Success
+kufu/smarthr-ui,fix: fix the condition of displaying message of duplicating in MultiComboBox (SHRUI-302),https://github.com/kufu/smarthr-ui/pull/1237,2020-12-17T05:06:39Z,2020-12-21T04:02:16Z,2,3,MERGED,6,5,2,Success
+kufu/smarthr-ui,fix: `SegmentedControl` のフォーカスインジケータが兄弟要素に隠れないように修正 (SHRUI-426),https://github.com/kufu/smarthr-ui/pull/1725,2021-07-06T05:16:12Z,2021-07-06T06:41:43Z,2,1,MERGED,5,1,1,Success
+kufu/smarthr-ui,feat: DatetimeLocalPicker を追加,https://github.com/kufu/smarthr-ui/pull/5138,2024-11-26T10:22:57Z,2024-11-28T02:02:19Z,1,2,MERGED,107,0,5,Success
+kufu/smarthr-ui,feat: fade out Dialog component,https://github.com/kufu/smarthr-ui/pull/776,2020-05-11T03:18:42Z,2020-05-12T07:29:57Z,1,2,MERGED,78,34,8,Success
+kufu/smarthr-ui,feat(icon): Add fa-times-circle,https://github.com/kufu/smarthr-ui/pull/477,2019-11-25T04:32:50Z,2019-11-25T05:09:32Z,2,1,MERGED,3,0,2,Success
+kufu/smarthr-ui,feat: nullable cell option,https://github.com/kufu/smarthr-ui/pull/754,2020-04-28T01:58:56Z,2020-05-08T06:51:38Z,3,3,MERGED,18,1,2,Success
+kufu/smarthr-ui,feat: Tooltip に portalRootElement props を追加,https://github.com/kufu/smarthr-ui/pull/3411,2023-06-02T10:57:33Z,2023-08-29T09:44:08Z,3,1,CLOSED,13,4,1,Success
+launchdarkly/launchpad-ui,feat(snackbar): add optional footer to Snackbar,https://github.com/launchdarkly/launchpad-ui/pull/708,2023-02-28T18:13:46Z,2023-03-02T18:34:57Z,4,4,CLOSED,43,16,4,Success
+livechat/design-system,#440 Change on focus property from box shadow to filter,https://github.com/livechat/design-system/pull/439,2022-09-28T10:15:49Z,2022-10-21T10:50:04Z,1,1,MERGED,1,1,1,Success
+metmuseum/marble,fix package.json export syntax for webpack loading in downstream proj…,https://github.com/metmuseum/marble/pull/92,2020-12-23T16:27:34Z,2020-12-23T17:45:43Z,0,2,MERGED,7,7,2,Success
+microsoft/iot-cardboard-js,Live data support for popover (BehaviorsModal),https://github.com/microsoft/iot-cardboard-js/pull/295,2022-03-30T01:40:29Z,2022-04-05T16:33:47Z,2,4,MERGED,24,27,4,Success
+misskey-dev/misskey,enhance: ノートヘッダーにflex-shrinkを設定し、Acctを優先的に縮小して見栄えをよくするように,https://github.com/misskey-dev/misskey/pull/7752,2021-08-31T15:03:30Z,2021-09-20T13:14:50Z,1,3,MERGED,8,4,1,Success
+misskey-dev/misskey,Improve mobile newer-indicator,https://github.com/misskey-dev/misskey/pull/4610,2019-03-30T10:20:22Z,2019-05-26T17:55:02Z,1,5,CLOSED,55,5,3,Success
+navikt/aksel,[Snyk] Security upgrade chalk from 1.1.3 to 2.0.0,https://github.com/navikt/aksel/pull/1240,2021-09-12T19:28:52Z,2021-09-13T07:28:09Z,0,1,MERGED,1,1,1,Success
+navikt/aksel,:memo: Oppdatert radio-error dokumentasjon,https://github.com/navikt/aksel/pull/2800,2024-03-19T14:08:39Z,2024-03-22T09:42:38Z,1,4,MERGED,10,3,1,Success
+navikt/aksel,Små forbedringer på dev miljø,https://github.com/navikt/aksel/pull/531,2019-08-28T17:33:22Z,2019-08-28T17:42:56Z,0,3,MERGED,23,7,2,Success
+ni/nimble,TreeView left margin override support,https://github.com/ni/nimble/pull/2338,2024-08-08T14:51:05Z,2024-12-03T18:02:03Z,0,10,CLOSED,38,23,10,Success
+ni/nimble,[Snyk] Upgrade zone.js from 0.14.10 to 0.15.1,https://github.com/ni/nimble/pull/2649,2025-07-03T09:13:35Z,2025-07-16T16:38:26Z,0,1,CLOSED,1,1,1,Success
+ni/nimble,Button label nowrap,https://github.com/ni/nimble/pull/2385,2024-09-05T15:44:54Z,2024-09-11T11:43:00Z,1,5,MERGED,8,0,2,Success
+ni/nimble,Update version of caniuse-lite to fix warning during npm run build,https://github.com/ni/nimble/pull/541,2022-05-04T21:44:38Z,2022-05-09T13:56:48Z,1,2,CLOSED,18,12,2,Success
+ni/nimble,Update Storybook dependencies and hide unwanted stories from sidebar,https://github.com/ni/nimble/pull/1490,2023-09-05T18:27:52Z,2023-09-06T16:53:54Z,0,12,MERGED,3299,1863,7,Success
+ni/nimble,Add Blazor support for the nimble-card,https://github.com/ni/nimble/pull/1647,2023-11-02T18:46:44Z,2023-11-06T22:39:46Z,0,6,MERGED,77,2,8,Success
+ni/nimble,Support primary and accent variants for toggle and menu buttons,https://github.com/ni/nimble/pull/1934,2024-03-14T23:45:38Z,2024-03-26T20:27:25Z,1,18,MERGED,449,449,26,Success
+ni/nimble,Update nimble-card styling to match visual design,https://github.com/ni/nimble/pull/1695,2023-11-29T23:02:09Z,2023-12-04T21:40:38Z,0,9,MERGED,39,15,8,Success
+ni/nimble,Storybook component doc templates,https://github.com/ni/nimble/pull/96,2021-09-03T14:59:16Z,2021-09-03T20:59:17Z,2,9,MERGED,12063,2656,8,Success
+ni/nimble,Storybook color docs,https://github.com/ni/nimble/pull/261,2022-01-14T15:54:49Z,2022-01-18T16:04:17Z,0,7,MERGED,109,0,2,Success
+ni/nimble,Rich text viewer | Updated the default minimum height and an example string,https://github.com/ni/nimble/pull/1420,2023-08-08T06:55:26Z,2023-08-14T14:18:40Z,0,11,MERGED,16,6,5,Success
+ni/nimble,Explicitly capture IxD specs and requirements within repo,https://github.com/ni/nimble/pull/1128,2023-03-16T21:05:50Z,2023-04-28T15:55:53Z,3,17,MERGED,125,12,10,Success
+nl-design-system/denhaag,fix: removed alert component a11y check disables,https://github.com/nl-design-system/denhaag/pull/707,2022-01-21T14:45:19Z,2022-01-21T15:15:35Z,0,1,MERGED,4,16,1,Success
+nl-design-system/rijkshuisstijl-community,Feature/alert,https://github.com/nl-design-system/rijkshuisstijl-community/pull/517,2024-08-06T14:09:02Z,2024-08-19T09:20:41Z,1,34,MERGED,291,121,18,Success
+nodejs/nodejs.org,docs: remove dependencies page and link to existing resource,https://github.com/nodejs/nodejs.org/pull/5480,2023-07-08T04:03:16Z,2023-07-10T09:44:11Z,7,5,MERGED,11,1291,14,Success
+nodejs/nodejs.org,"docs(learn): Migrate ""ABI Stability"" guide to the learn section",https://github.com/nodejs/nodejs.org/pull/6335,2024-02-11T04:51:57Z,2024-02-14T11:01:46Z,12,7,MERGED,11,3,5,Success
+ntls-io/nautilus-wallet,refactor(web-client): modify wallet page buttons,https://github.com/ntls-io/nautilus-wallet/pull/474,2022-12-08T07:27:27Z,2022-12-08T08:14:27Z,0,1,MERGED,6,6,1,Success
+ntls-io/nautilus-wallet,feat(web-client): check & prompt user for update,https://github.com/ntls-io/nautilus-wallet/pull/584,2023-06-06T20:50:46Z,2023-06-07T18:04:11Z,2,2,MERGED,65,5,4,Success
+ntls-io/nautilus-wallet,refactor(web-client): show receive address on receive page,https://github.com/ntls-io/nautilus-wallet/pull/446,2022-11-28T07:44:24Z,2022-11-28T10:03:07Z,1,1,MERGED,60,36,2,Success
+ntls-io/nautilus-wallet,refactor(web-client): align remember address,https://github.com/ntls-io/nautilus-wallet/pull/558,2023-05-03T07:37:23Z,2023-05-03T08:43:14Z,2,1,MERGED,9,3,1,Success
+nulogy/design-system,[Snyk] Upgrade core-js from 3.15.1 to 3.17.3,https://github.com/nulogy/design-system/pull/948,2021-10-08T03:40:57Z,2023-05-30T15:55:24Z,0,1,CLOSED,10,5,2,Success
+opendatasoft/ods-dataviz-sdk,[Feature] Stacked charts (for multi-series) + few charts properties changes,https://github.com/opendatasoft/ods-dataviz-sdk/pull/76,2022-04-04T16:05:22Z,2022-07-20T09:39:11Z,7,26,MERGED,71789,68363,24,Success
+opengovsg/isomer,ISOM-1104: Create live preview for editing pages,https://github.com/opengovsg/isomer/pull/158,2024-06-07T18:25:37Z,2024-06-11T06:19:24Z,1,7,MERGED,324,26,12,Success
+opengovsg/isomer,Navbar with CTA should use smaller button to match text sizes,https://github.com/opengovsg/isomer/pull/1467,2025-06-23T08:54:24Z,2025-06-30T01:35:51Z,2,4,MERGED,22,2,6,Success
+openops-cloud/openops,Add Flexera One block,https://github.com/openops-cloud/openops/pull/980,2025-07-17T14:17:18Z,2025-07-17T14:51:16Z,2,6,MERGED,532,10,21,Success
+ory/elements,fix: hr and img tags shouldn't break with global css overrides,https://github.com/ory/elements/pull/102,2023-03-15T13:27:39Z,2023-03-16T09:33:06Z,0,2,MERGED,6,9,3,Success
+proeco/proeco-client,Delete Story,https://github.com/proeco/proeco-client/pull/88,2021-10-18T05:31:31Z,2021-10-20T03:27:20Z,1,14,MERGED,168,40,7,Success
+razorpay/blade,feat: add icon components,https://github.com/razorpay/blade/pull/451,2022-04-22T11:27:37Z,2022-05-05T07:06:09Z,5,47,MERGED,1402,18,79,Success
+recharts/recharts,fix: forwardRef to CategoricalChartWrapper from CategoricalChart,https://github.com/recharts/recharts/pull/5176,2024-10-30T06:28:14Z,2024-10-30T06:31:03Z,0,1,MERGED,7,4,1,Success
+recharts/recharts,"Move resolveDefaultProps to a separate file, add docs and tests",https://github.com/recharts/recharts/pull/5771,2025-04-20T02:01:36Z,2025-04-20T06:30:13Z,1,1,MERGED,149,10,6,Success
+recharts/recharts,Fixes arc angles when `cornerIsExternal` is used.,https://github.com/recharts/recharts/pull/2039,2020-02-27T19:35:04Z,2020-03-10T08:01:17Z,0,1,MERGED,6,2,1,Success
+recharts/recharts,Fix tooltip rendering crash when activeItem is undefined,https://github.com/recharts/recharts/pull/3982,2023-11-20T16:27:41Z,2023-11-20T19:27:00Z,0,1,MERGED,3,3,1,Success
+recharts/recharts,Add storybook-addon-performance,https://github.com/recharts/recharts/pull/3826,2023-10-08T01:34:14Z,2023-10-13T09:18:04Z,8,2,MERGED,125,1,5,Success
+recharts/recharts,fix: merge defaultProps with element props for React 19 compatibility,https://github.com/recharts/recharts/pull/6173,2025-08-02T05:59:08Z,2025-08-03T16:18:33Z,4,2,MERGED,532,2,2,Success
+recharts/recharts,#3735 Add tooltip storybook,https://github.com/recharts/recharts/pull/3759,2023-09-15T12:18:17Z,2023-09-15T23:28:42Z,0,1,MERGED,301,0,2,Success
+recharts/recharts,Backport Line renderDots to include points object in the dotProps,https://github.com/recharts/recharts/pull/5657,2025-03-10T19:36:02Z,2025-03-10T22:04:23Z,2,6,MERGED,24,4,2,Success
+sbb-design-systems/lyne-components,chore: mitigate phishing attacks,https://github.com/sbb-design-systems/lyne-components/pull/2011,2023-09-26T11:50:38Z,2023-09-26T13:36:04Z,2,1,MERGED,169,26,13,Success
+sbb-design-systems/lyne-components,fix: typescript error,https://github.com/sbb-design-systems/lyne-components/pull/1416,2022-10-20T15:46:14Z,2022-10-21T12:40:23Z,3,1,MERGED,1,1,1,Success
+sbb-design-systems/lyne-components,chore(github): update 'is-pr-open' action dep from v6 => v7,https://github.com/sbb-design-systems/lyne-components/pull/2433,2024-02-21T11:43:04Z,2024-02-21T12:58:24Z,0,1,MERGED,1,1,1,Success
+sberdevices/plasma,feat: add es module exports for plasma-ui,https://github.com/sberdevices/plasma/pull/341,2021-04-30T12:18:01Z,2021-05-31T14:22:29Z,20,11,MERGED,535,256,72,Success
+seek-oss/braid-design-system,feat(icons): New icons plus some updated to existing,https://github.com/seek-oss/braid-design-system/pull/501,2020-02-21T04:00:08Z,2020-02-24T23:03:42Z,0,3,MERGED,493,45,23,Success
+serendie/serendie,ChartのCode Connect対応,https://github.com/serendie/serendie/pull/78,2025-07-10T07:05:50Z,2025-07-24T01:27:40Z,3,5,MERGED,86,242,2,Success
+sillsdev/web-xforge,SF-927 - Checkers can answer a question offline and have it synced when online,https://github.com/sillsdev/web-xforge/pull/677,2020-06-02T21:58:56Z,2020-06-04T06:16:16Z,0,3,MERGED,64,5,5,Success
+sl-design-system/components,Refactor breadcrumbs so the links are in an unordered list,https://github.com/sl-design-system/components/pull/1214,2024-04-23T13:02:09Z,2024-04-24T12:41:21Z,3,3,MERGED,185,180,5,Success
+solid-design-system/solid,fix: cherry pick sd-select and sd-combobox,https://github.com/solid-design-system/solid/pull/1805,2025-01-23T12:42:20Z,2025-01-23T14:09:16Z,2,4,MERGED,11,2,5,Success
+storacha/bluesky-backup-webapp-server,feat(ui): use react-aria packages to make the Switch component accessible/controllable via keyboard,https://github.com/storacha/bluesky-backup-webapp-server/pull/26,2025-04-22T21:30:04Z,2025-04-23T07:02:08Z,0,1,MERGED,6610,4861,6,Success
+storybookjs/components-marketing,Add conference and jobs board to header and footer,https://github.com/storybookjs/components-marketing/pull/69,2023-08-22T16:40:12Z,2023-08-22T18:29:02Z,1,1,MERGED,48,1,5,Success
+storybookjs/storybook,fix(Docs): update code snippet link,https://github.com/storybookjs/storybook/pull/22117,2023-04-17T03:12:41Z,2023-04-17T21:23:55Z,0,1,MERGED,1,1,1,Success
+storybookjs/storybook,Essentials: Add highlight addon,https://github.com/storybookjs/storybook/pull/17800,2022-03-25T14:04:21Z,2022-06-29T01:52:24Z,22,41,MERGED,859,36,59,Success
+storybookjs/storybook,Only persist the (single) built sandbox,https://github.com/storybookjs/storybook/pull/19372,2022-10-06T04:52:54Z,2022-10-06T05:14:17Z,1,1,MERGED,1,1,1,Success
+storybookjs/storybook,Core: Fix `modulesCount` cache storage and retrieval,https://github.com/storybookjs/storybook/pull/13431,2020-12-11T10:40:56Z,2020-12-11T13:16:36Z,0,1,MERGED,2,2,1,Success
+storybookjs/storybook,UI: Fix overlapping on the ref button in the sidebar,https://github.com/storybookjs/storybook/pull/25914,2024-02-05T16:49:22Z,2024-02-05T17:10:28Z,0,1,MERGED,1,0,1,Success
+storybookjs/storybook,UI: Fix custom theme hover-color inconsistency,https://github.com/storybookjs/storybook/pull/22262,2023-04-26T14:43:12Z,2023-09-19T15:45:03Z,0,5,MERGED,4,4,4,Success
+storybookjs/storybook,Addon-docs: Fix line-height in Typeset,https://github.com/storybookjs/storybook/pull/12643,2020-10-01T18:02:55Z,2020-10-14T16:02:23Z,4,1,CLOSED,1,1,1,Success
+storybookjs/storybook,UI: Remove `nopreview` and show redbox for any story error,https://github.com/storybookjs/storybook/pull/16669,2021-11-12T09:47:40Z,2021-11-12T13:28:58Z,2,2,MERGED,31,6,4,Success
+storybookjs/storybook,Build: Fix task error message when no key is specified,https://github.com/storybookjs/storybook/pull/30285,2025-01-16T14:34:54Z,2025-01-17T10:32:52Z,1,1,MERGED,5,3,1,Success
+storybookjs/storybook,Fix #5785 - welcome component in dark theme,https://github.com/storybookjs/storybook/pull/5998,2019-03-10T12:18:05Z,2019-03-11T08:19:47Z,1,1,MERGED,141,141,23,Success
+storybookjs/storybook,Build: Fix for 11 vulnerabilities,https://github.com/storybookjs/storybook/pull/28528,2024-07-10T16:29:05Z,2024-07-10T18:26:21Z,1,6,MERGED,1208,1121,6,Success
+storybookjs/storybook,Core: Remove duplicate notification dot on sidebar buttons on mobile,https://github.com/storybookjs/storybook/pull/31485,2025-05-15T07:31:39Z,2025-05-15T09:26:53Z,2,1,MERGED,4,6,1,Success
+storybookjs/storybook,Use Storybook's built-in accessibility icon for VisionDeficiency tab.,https://github.com/storybookjs/storybook/pull/14681,2021-04-21T16:02:32Z,2021-04-22T03:57:23Z,1,1,MERGED,1,1,1,Success
+storybookjs/storybook,Addon-docs: Support for iframeWidth parameter on stories,https://github.com/storybookjs/storybook/pull/9149,2019-12-13T22:19:33Z,2020-12-01T09:37:19Z,10,2,CLOSED,23,11,4,Success
+storybookjs/storybook,Codemod: Add option to have relative path in csf factories codemod,https://github.com/storybookjs/storybook/pull/30463,2025-02-04T15:33:05Z,2025-02-05T13:12:16Z,2,8,MERGED,201,35,6,Success
+storybookjs/storybook,Build: Add visual tests addon to Storybook:ui,https://github.com/storybookjs/storybook/pull/23753,2023-08-08T12:34:43Z,2023-09-05T07:19:11Z,2,1,MERGED,322,8,3,Success
+storybookjs/storybook,Addon-docs: Tweak props table paragraph spacing,https://github.com/storybookjs/storybook/pull/9307,2020-01-03T03:17:29Z,2020-01-03T03:44:19Z,1,1,MERGED,23,2,2,Success
+storybookjs/storybook,Components: Add graphql support to SyntaxHighlighter,https://github.com/storybookjs/storybook/pull/12385,2020-09-04T17:08:54Z,2020-09-10T15:27:14Z,1,2,MERGED,15,0,2,Success
+storybookjs/storybook,Addon-docs: Typescript inherited prop types,https://github.com/storybookjs/storybook/pull/9110,2019-12-10T04:35:07Z,2022-06-30T13:14:57Z,38,21,CLOSED,307,56,15,Success
+storybookjs/storybook,"Update core-common typescript type `StorybookConfig[""stories""]`",https://github.com/storybookjs/storybook/pull/23716,2023-08-03T21:52:01Z,2023-08-07T14:41:00Z,1,1,CLOSED,1,1,1,Success
+storybookjs/storybook,CLI: Show framework name in startup banner,https://github.com/storybookjs/storybook/pull/15966,2021-09-02T15:02:54Z,2021-09-07T01:27:41Z,7,1,MERGED,9,2,2,Success
+storybookjs/storybook,Controls: Remove duplicate control IDs for improved accessibility,https://github.com/storybookjs/storybook/pull/26236,2024-02-28T16:01:55Z,2025-06-23T08:44:00Z,7,5,CLOSED,56,34,13,Success
+storybookjs/storybook,UI: Add support for groups to `TooltipLinkList` and use it in main menu,https://github.com/storybookjs/storybook/pull/29507,2024-11-01T10:30:13Z,2024-11-01T16:24:54Z,1,3,MERGED,156,83,7,Success
+temporalio/ui,Night mode audit,https://github.com/temporalio/ui/pull/2118,2024-05-17T15:19:00Z,2024-05-20T15:17:08Z,1,29,MERGED,460,760,74,Success
+titicacadev/triple-frontend,label 에 green color 를 추가합니다,https://github.com/titicacadev/triple-frontend/pull/211,2019-11-09T12:34:11Z,2019-11-11T04:30:30Z,2,1,MERGED,11,7,3,Success
+titicacadev/triple-frontend,[review] 플레이스 홀더를 개선합니다.,https://github.com/titicacadev/triple-frontend/pull/253,2019-11-21T08:55:22Z,2019-11-21T09:26:51Z,0,9,MERGED,56,7,3,Success
+twilio-labs/paste,fix(a11y): do not assign aria-labelledby attribute to icons unless there is an associated title,https://github.com/twilio-labs/paste/pull/4073,2024-09-17T01:46:04Z,2024-09-20T19:04:55Z,7,3,CLOSED,344,334,333,Success
+wellcomecollection/wellcomecollection.org,Show multiple languages on works pages,https://github.com/wellcomecollection/wellcomecollection.org/pull/5785,2020-11-19T09:55:13Z,2020-11-19T10:50:40Z,0,5,MERGED,57,28,13,Success
+wellcomecollection/wellcomecollection.org,Add hacky fix to make sure reset/ok buttons are visible in filters modal,https://github.com/wellcomecollection/wellcomecollection.org/pull/5492,2020-08-28T10:59:11Z,2020-08-28T11:53:33Z,0,1,MERGED,42,20,1,Success

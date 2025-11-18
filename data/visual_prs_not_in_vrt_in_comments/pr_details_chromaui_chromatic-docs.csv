@@ -1,0 +1,29 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+chromatic-docs,Add note to the review docs about linked project reqs,https://github.com/chromaui/chromatic-docs/pull/8,2020-05-21T22:08:26Z,2020-05-29T17:48:18Z,0,1,MERGED
+chromatic-docs,Make code html tag accessible shade of green,https://github.com/chromaui/chromatic-docs/pull/84,2021-10-05T17:36:06Z,2021-10-08T14:11:22Z,2,3,MERGED
+chromatic-docs,Add CLI entry for new --zip arg - CH-1039,https://github.com/chromaui/chromatic-docs/pull/90,2021-12-06T16:45:45Z,2021-12-07T20:18:27Z,3,2,MERGED
+chromatic-docs,Add section for GitHub Action outputs,https://github.com/chromaui/chromatic-docs/pull/144,2022-07-14T15:06:17Z,2022-07-14T15:08:57Z,2,1,MERGED
+chromatic-docs,Fix broken Storybook repo link,https://github.com/chromaui/chromatic-docs/pull/163,2022-09-23T01:49:15Z,2022-09-23T02:28:49Z,1,1,MERGED
+chromatic-docs,Add doc for supported media features,https://github.com/chromaui/chromatic-docs/pull/220,2023-05-01T21:06:06Z,2023-05-12T21:22:03Z,2,2,MERGED
+chromatic-docs,Add FAQ item for pull request check syncing,https://github.com/chromaui/chromatic-docs/pull/329,2023-11-30T21:35:22Z,2023-12-01T22:16:17Z,1,1,MERGED
+chromatic-docs,Fix code wrap in tables when the column is narrow,https://github.com/chromaui/chromatic-docs/pull/327,2023-11-30T01:19:41Z,2023-11-30T20:20:30Z,1,1,MERGED
+chromatic-docs,"Fix ""permalink"" from appearing on each heading in Algolia & Google",https://github.com/chromaui/chromatic-docs/pull/322,2023-11-27T17:30:28Z,2023-11-27T18:32:17Z,1,1,MERGED
+chromatic-docs,Add beta features to sidebar,https://github.com/chromaui/chromatic-docs/pull/318,2023-11-22T21:36:01Z,2023-11-22T22:52:39Z,1,1,MERGED
+chromatic-docs,Removes duplicate default Astro meta content tag from head,https://github.com/chromaui/chromatic-docs/pull/312,2023-11-15T18:36:35Z,2023-11-15T21:28:53Z,1,1,MERGED
+chromatic-docs,Updates sidebar navigation order/labels,https://github.com/chromaui/chromatic-docs/pull/311,2023-11-15T17:08:40Z,2023-11-15T21:29:51Z,1,1,MERGED
+chromatic-docs,Updates Figma in Chromatic copy,https://github.com/chromaui/chromatic-docs/pull/309,2023-11-08T20:27:41Z,2023-11-08T21:25:34Z,1,1,MERGED
+chromatic-docs,Fix broken links on GH actions page,https://github.com/chromaui/chromatic-docs/pull/341,2023-12-26T20:10:23Z,2023-12-26T20:15:38Z,1,1,MERGED
+chromatic-docs,Adds `allowedArchiveDomains` to E2E Options table,https://github.com/chromaui/chromatic-docs/pull/338,2023-12-21T21:45:47Z,2023-12-21T21:52:57Z,0,1,MERGED
+chromatic-docs,Updated E2E pages,https://github.com/chromaui/chromatic-docs/pull/348,2024-01-17T06:59:34Z,2024-01-22T19:08:28Z,51,28,MERGED
+chromatic-docs,Add position-sticky docs and images,https://github.com/chromaui/chromatic-docs/pull/376,2024-02-20T12:02:40Z,2024-02-20T14:47:13Z,1,2,MERGED
+chromatic-docs,Recategorize snapshot docs under snapshot heading,https://github.com/chromaui/chromatic-docs/pull/388,2024-03-07T16:43:33Z,2024-03-07T16:47:11Z,1,1,MERGED
+chromatic-docs,Remove unused files Playwright and Cypress files & minor polish tweaks,https://github.com/chromaui/chromatic-docs/pull/387,2024-03-06T17:18:23Z,2024-03-06T17:26:38Z,1,2,MERGED
+chromatic-docs,Add design affordance to highlight jump links on the page,https://github.com/chromaui/chromatic-docs/pull/491,2024-07-23T21:31:03Z,2024-07-23T23:17:18Z,1,1,MERGED
+chromatic-docs,Add information about web-safe fonts,https://github.com/chromaui/chromatic-docs/pull/459,2024-07-16T19:37:40Z,2024-07-16T20:28:45Z,0,3,MERGED
+chromatic-docs,Error 404,https://github.com/chromaui/chromatic-docs/pull/569,2024-09-26T14:20:59Z,2024-10-01T18:26:29Z,0,2,MERGED
+chromatic-docs,new faq - invoices,https://github.com/chromaui/chromatic-docs/pull/557,2024-09-05T10:43:33Z,2024-09-05T15:09:33Z,5,1,CLOSED
+chromatic-docs,This faq is to document error: Authentication error,https://github.com/chromaui/chromatic-docs/pull/591,2024-10-30T14:08:25Z,2024-10-30T14:37:49Z,0,2,MERGED
+chromatic-docs,Add `--build-command` flag,https://github.com/chromaui/chromatic-docs/pull/590,2024-10-25T16:10:00Z,2024-10-25T16:12:46Z,0,1,MERGED
+chromatic-docs,Update `exitZeroOnChanges` default value,https://github.com/chromaui/chromatic-docs/pull/599,2024-12-03T16:13:14Z,2024-12-03T16:16:38Z,3,1,MERGED
+chromatic-docs,Faq to explain linked project sync issue,https://github.com/chromaui/chromatic-docs/pull/614,2025-01-09T11:41:36Z,2025-01-09T21:43:18Z,0,2,MERGED
+chromatic-docs,Update A11y message to define free trial period Jul 8 – Sep 8,https://github.com/chromaui/chromatic-docs/pull/687,2025-07-02T20:57:52Z,2025-07-04T17:32:31Z,1,1,MERGED

@@ -1,0 +1,47 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+design-system,DS-14 card component,https://github.com/livechat/design-system/pull/50,2019-03-29T15:09:29Z,2019-06-06T10:27:09Z,20,13,MERGED
+design-system,Fix modal footer shrinking,https://github.com/livechat/design-system/pull/48,2019-03-25T11:22:25Z,2019-03-25T12:21:43Z,1,2,MERGED
+design-system,Dropdown - optional arrow,https://github.com/livechat/design-system/pull/44,2019-03-19T18:59:48Z,2019-03-22T09:50:21Z,1,2,MERGED
+design-system,Remove max-width on buttons,https://github.com/livechat/design-system/pull/39,2019-03-01T10:02:07Z,2019-03-11T14:30:40Z,2,1,MERGED
+design-system,Handling Dropdown content resize,https://github.com/livechat/design-system/pull/70,2019-05-21T19:52:30Z,2019-05-23T12:38:14Z,7,11,MERGED
+design-system,Tab component description fix,https://github.com/livechat/design-system/pull/78,2019-06-11T13:00:27Z,2019-06-11T13:11:50Z,0,2,MERGED
+design-system,Added no wrap to toast action,https://github.com/livechat/design-system/pull/93,2019-07-12T06:54:28Z,2019-07-15T13:57:20Z,0,1,MERGED
+design-system,Fix Card padding,https://github.com/livechat/design-system/pull/113,2019-08-27T09:16:15Z,2019-09-02T07:59:13Z,0,2,MERGED
+design-system,Changing spacing for mobile InApp footer,https://github.com/livechat/design-system/pull/111,2019-08-20T10:04:51Z,2019-08-20T10:13:51Z,0,1,MERGED
+design-system,handle error in field group,https://github.com/livechat/design-system/pull/105,2019-08-05T09:58:48Z,2019-08-08T09:57:04Z,1,3,MERGED
+design-system,"Feature/DS-76 Fixing button line-height, adding svg icon support",https://github.com/livechat/design-system/pull/122,2019-09-10T07:28:24Z,2019-09-16T12:19:00Z,1,8,MERGED
+design-system,Feature/DS-100 Upload components,https://github.com/livechat/design-system/pull/120,2019-09-09T12:52:11Z,2019-09-29T16:18:35Z,3,22,MERGED
+design-system,Fixing chrome 47 issue - upload bar,https://github.com/livechat/design-system/pull/134,2019-10-08T14:04:49Z,2019-10-10T13:11:25Z,1,3,MERGED
+design-system,Controlled button styles,https://github.com/livechat/design-system/pull/150,2019-11-13T15:11:57Z,2019-11-26T06:40:16Z,7,7,MERGED
+design-system,@livechat/design-system-colors setup,https://github.com/livechat/design-system/pull/157,2019-12-11T23:05:29Z,2020-01-10T08:31:31Z,14,28,MERGED
+design-system,Fix inner-shadow appearing on Safari mobile,https://github.com/livechat/design-system/pull/167,2020-02-05T18:36:51Z,2020-02-07T07:30:59Z,2,2,MERGED
+design-system,(DPS-1607) New props in button - loaderLabel,https://github.com/livechat/design-system/pull/179,2020-04-28T06:39:51Z,2020-04-29T11:38:40Z,7,8,MERGED
+design-system,Banners promo,https://github.com/livechat/design-system/pull/190,2020-06-04T13:04:25Z,2020-06-18T08:14:28Z,20,27,MERGED
+design-system,Introducing chars left counter,https://github.com/livechat/design-system/pull/234,2021-04-30T09:55:15Z,2021-05-14T14:11:48Z,9,7,MERGED
+design-system,DS-160: modals,https://github.com/livechat/design-system/pull/281,2021-10-26T11:44:55Z,2021-10-29T07:40:58Z,7,13,MERGED
+design-system,DS-171:  FieldGroup & FormGroup,https://github.com/livechat/design-system/pull/277,2021-10-21T19:51:37Z,2021-10-28T12:07:07Z,6,17,MERGED
+design-system,DS-170 Checkbox,https://github.com/livechat/design-system/pull/274,2021-10-19T09:59:06Z,2021-10-22T08:09:18Z,1,30,MERGED
+design-system,DS-170: RadioButton,https://github.com/livechat/design-system/pull/272,2021-10-18T13:23:15Z,2021-10-20T18:42:40Z,4,15,MERGED
+design-system,moving switch to storybook,https://github.com/livechat/design-system/pull/269,2021-10-15T12:32:52Z,2021-10-20T13:37:32Z,6,7,MERGED
+design-system,DS-00-grouping-input (for AA purposes),https://github.com/livechat/design-system/pull/290,2021-11-16T07:04:17Z,2021-12-03T14:11:42Z,6,21,MERGED
+design-system,Colors palette + adjustments in build styles,https://github.com/livechat/design-system/pull/286,2021-11-12T09:09:19Z,2021-11-23T09:31:32Z,1,3,MERGED
+design-system,Popover,https://github.com/livechat/design-system/pull/298,2022-02-11T11:46:06Z,2022-03-09T09:54:34Z,6,9,MERGED
+design-system,DS-162 tooltip,https://github.com/livechat/design-system/pull/303,2022-03-14T08:03:41Z,2022-04-08T12:34:35Z,1,23,CLOSED
+design-system,Datepicker,https://github.com/livechat/design-system/pull/299,2022-03-04T14:58:02Z,2022-07-11T09:31:26Z,7,16,CLOSED
+design-system,DS-162 vite version of tooltip,https://github.com/livechat/design-system/pull/311,2022-04-08T06:45:15Z,2022-05-25T06:08:00Z,22,20,MERGED
+design-system,"#371 Add loading state, medium size and slightly refresh the UI",https://github.com/livechat/design-system/pull/372,2022-07-29T12:23:15Z,2022-08-09T08:57:59Z,19,13,MERGED
+design-system,#346 Make mdx docs readable for dark theme by applying styles on Canvas wrapper,https://github.com/livechat/design-system/pull/347,2022-07-19T15:47:05Z,2022-07-20T12:30:31Z,0,2,MERGED
+design-system,#440 Change on focus property from box shadow to filter,https://github.com/livechat/design-system/pull/439,2022-09-28T10:15:49Z,2022-10-21T10:50:04Z,2,1,MERGED
+design-system,[Switch] Allow accessible name for switch input element,https://github.com/livechat/design-system/pull/445,2022-10-17T06:36:15Z,2022-10-17T10:01:14Z,2,2,MERGED
+design-system,Chromatic TurboSnap feature,https://github.com/livechat/design-system/pull/609,2023-06-19T10:57:49Z,2023-06-21T14:40:43Z,1,11,MERGED
+design-system,Avatar background color handling based on initials,https://github.com/livechat/design-system/pull/753,2023-08-29T18:44:08Z,2023-08-30T11:24:48Z,1,4,MERGED
+design-system,#792 - Revamp Build Process and Introduce Icon Component,https://github.com/livechat/design-system/pull/801,2023-09-25T13:18:45Z,2023-10-09T07:25:32Z,6,46,CLOSED
+design-system,#792 - Optimize Icon Library Building Process,https://github.com/livechat/design-system/pull/815,2023-10-09T07:24:07Z,2023-10-11T07:37:36Z,0,16,MERGED
+design-system,"build(react-components,icons): Tree-shaking for react-components; icons package build improvements",https://github.com/livechat/design-system/pull/1000,2024-02-12T11:30:18Z,2024-02-16T09:00:29Z,0,20,MERGED
+design-system,fix(ActionMenu/Tooltip): provide floating node for action menu and to…,https://github.com/livechat/design-system/pull/1159,2024-06-11T07:39:40Z,2024-06-11T12:46:17Z,0,2,MERGED
+design-system,fix(Button): fix Button text wrapping,https://github.com/livechat/design-system/pull/1506,2025-01-30T06:55:42Z,2025-02-03T07:00:23Z,1,3,MERGED
+design-system,"feat(FormField, Input, NumericInput, TagInput, Picker, Textarea, Autocomplete): add readonly state",https://github.com/livechat/design-system/pull/1497,2025-01-23T12:45:47Z,2025-01-30T10:28:37Z,4,16,MERGED
+design-system,fix(LegacyModal): fix legacy modal message,https://github.com/livechat/design-system/pull/1494,2025-01-22T13:13:46Z,2025-01-23T10:20:59Z,1,1,MERGED
+design-system,feat(Checkbox): add indeterminate state and update old styles,https://github.com/livechat/design-system/pull/1489,2025-01-20T10:44:54Z,2025-01-21T08:50:03Z,2,2,MERGED
+design-system,feat(Button): remove 'basic' button kind from stories and add depreciation note,https://github.com/livechat/design-system/pull/1516,2025-02-03T12:37:49Z,2025-02-11T09:42:41Z,1,3,MERGED
+design-system,feat(Button): remove 'basic' button kind from stories and add depreciation note,https://github.com/livechat/design-system/pull/1516,2025-02-03T12:37:49Z,2025-02-11T09:42:41Z,1,3,MERGED

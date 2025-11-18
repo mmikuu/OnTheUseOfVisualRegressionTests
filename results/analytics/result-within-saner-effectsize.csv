@@ -1,0 +1,65 @@
+Metric,Statistic,VRT PR,Visual PR
+Merged Percentage,Merged Percentage (%),91.86,86.62
+PR State,Closed Count,25,40
+PR State,Merged Count,282,259
+PR State,Total Count,307,299
+Time to Merge (days),mean,11.23,6.58
+Time to Merge (days),median,4.52,1.10
+Time to Merge (days),std,20.49,15.91
+Time to Merge (days),min,0.0,0.0
+Time to Merge (days),max,173.2,127.1
+Time to Merge (days),count,282,276
+Time to Merge (days),sum,3167,1815
+Time to Merge (days),Log-Rank Test Statistic,24.88,
+Time to Merge (days),Log-Rank Test P-Value,6.11e-07,
+Time to Merge (days),Effect Size (r),-0.313 (M),
+Added Lines,mean,1060.01,260.12
+Added Lines,median,129.50,45.00
+Added Lines,std,8990.64,1026.27
+Added Lines,min,0.0,0.0
+Added Lines,max,140357.0,15567.0
+Added Lines,count,282,276
+Added Lines,sum,298924,71793
+Added Lines,Mann-Whitney U Statistic,50641.00,
+Added Lines,Mann-Whitney U P-Value,7.37e-10,
+Added Lines,Effect Size (r),-0.301 (M),
+Deleted Lines,mean,600.67,113.82
+Deleted Lines,median,40.50,9.00
+Deleted Lines,std,4447.14,588.34
+Deleted Lines,min,0.0,0.0
+Deleted Lines,max,63433.0,8676.0
+Deleted Lines,count,282,276
+Deleted Lines,sum,169389,31415
+Deleted Lines,Mann-Whitney U Statistic,51445.50,
+Deleted Lines,Mann-Whitney U P-Value,4.56e-11,
+Deleted Lines,Effect Size (r),-0.322 (M),
+Total Comments,mean,16.13,2.62
+Total Comments,median,10.00,2.00
+Total Comments,std,17.01,3.90
+Total Comments,min,1.0,0.0
+Total Comments,max,91.0,39.0
+Total Comments,count,282,276
+Total Comments,sum,4550,724
+Total Comments,Mann-Whitney U Statistic,69630.50,
+Total Comments,Mann-Whitney U P-Value,6.21e-59,
+Total Comments,Effect Size (r),-0.789 (L),
+Total Commits,mean,12.11,7.53
+Total Commits,median,7.00,3.00
+Total Commits,std,14.99,18.36
+Total Commits,min,1.0,1.0
+Total Commits,max,100.0,229.0
+Total Commits,count,282,276
+Total Commits,sum,3414,2079
+Total Commits,Mann-Whitney U Statistic,52046.00,
+Total Commits,Mann-Whitney U P-Value,4.10e-12,
+Total Commits,Effect Size (r),-0.337 (M),
+Changed Files,mean,14.27,8.87
+Changed Files,median,7.00,3.00
+Changed Files,std,21.77,19.96
+Changed Files,min,1.0,1.0
+Changed Files,max,150.0,178.0
+Changed Files,count,282,276
+Changed Files,sum,4024,2447
+Changed Files,Mann-Whitney U Statistic,51271.00,
+Changed Files,Mann-Whitney U P-Value,7.15e-11,
+Changed Files,Effect Size (r),-0.317 (M),

@@ -1,0 +1,27 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+baklava,Fix Safari gradient button bug,https://github.com/Trendyol/baklava/pull/40,2021-12-31T07:31:35Z,2021-12-31T09:55:54Z,0,1,MERGED
+baklava,fix(storybook): fix for code sample issues,https://github.com/Trendyol/baklava/pull/106,2022-04-29T22:16:12Z,2022-05-09T10:57:58Z,1,1,MERGED
+baklava,fix(tooltip): use max-content width for tooltip content,https://github.com/Trendyol/baklava/pull/253,2022-09-28T08:25:21Z,2022-09-29T08:52:40Z,4,2,MERGED
+baklava,Tooltip: Add max-content width,https://github.com/Trendyol/baklava/pull/248,2022-09-22T20:22:46Z,2022-09-28T08:25:53Z,2,2,CLOSED
+baklava,chore: improve the ide experience for design tokens,https://github.com/Trendyol/baklava/pull/243,2022-09-20T10:28:42Z,2022-09-20T10:50:19Z,3,3,MERGED
+baklava,chore: deprecated extension removed,https://github.com/Trendyol/baklava/pull/275,2022-10-11T07:34:52Z,2022-10-13T11:35:54Z,2,3,MERGED
+baklava,fix: pagination items per page options,https://github.com/Trendyol/baklava/pull/313,2022-11-07T11:33:10Z,2022-11-11T10:05:32Z,7,4,MERGED
+baklava,docs: adr and figma links have been added to component docs,https://github.com/Trendyol/baklava/pull/384,2023-01-23T15:48:30Z,2023-01-24T16:05:55Z,3,4,MERGED
+baklava,fix(drawer): visual fixes for viewport safe margins,https://github.com/Trendyol/baklava/pull/383,2023-01-21T21:47:22Z,2023-01-24T16:03:44Z,2,3,MERGED
+baklava,feat: switch component,https://github.com/Trendyol/baklava/pull/356,2023-01-05T14:53:58Z,2023-01-19T10:08:58Z,16,4,MERGED
+baklava,fix(input): autofill styling,https://github.com/Trendyol/baklava/pull/459,2023-03-02T07:53:14Z,2023-03-07T13:20:01Z,7,6,MERGED
+baklava,feat(input): set padding-horizontal values with css properties,https://github.com/Trendyol/baklava/pull/643,2023-06-22T11:35:59Z,2023-07-03T12:00:47Z,3,3,MERGED
+baklava,feat(input): add attribute for remove icon,https://github.com/Trendyol/baklava/pull/642,2023-06-22T11:16:37Z,2023-09-28T07:13:36Z,6,1,CLOSED
+baklava,fix(tooltip): remove extra space,https://github.com/Trendyol/baklava/pull/637,2023-06-17T13:08:14Z,2023-06-19T13:14:47Z,2,2,MERGED
+baklava,fix(radio): radio button flex-shrink problem,https://github.com/Trendyol/baklava/pull/636,2023-06-16T14:22:02Z,2023-06-28T08:49:21Z,4,1,MERGED
+baklava,fix(radio): radio button flex-shrink problem fix,https://github.com/Trendyol/baklava/pull/635,2023-06-16T14:11:52Z,2023-06-16T14:17:42Z,0,0,CLOSED
+baklava,feat(input): add readonly attribute,https://github.com/Trendyol/baklava/pull/619,2023-06-05T13:56:19Z,2023-06-07T11:47:00Z,4,2,MERGED
+baklava,fix(checkbox): remove gap if no label,https://github.com/Trendyol/baklava/pull/616,2023-06-03T21:49:55Z,2023-06-07T09:23:34Z,4,3,MERGED
+baklava,feat(tooltip): add css variable for set display of tooltip trigger,https://github.com/Trendyol/baklava/pull/655,2023-07-14T11:05:06Z,2023-07-14T12:31:48Z,2,1,MERGED
+baklava,feat(input): display type icons,https://github.com/Trendyol/baklava/pull/713,2023-09-26T09:04:56Z,2023-09-29T08:02:48Z,7,6,MERGED
+baklava,fix(tab): changing the tooltip button in the tab with help text to an…,https://github.com/Trendyol/baklava/pull/689,2023-09-07T22:47:40Z,2024-01-11T12:25:34Z,3,1,CLOSED
+baklava,docs: update baklava logo for system theme,https://github.com/Trendyol/baklava/pull/790,2024-01-31T13:06:24Z,2024-03-10T04:31:38Z,4,2,CLOSED
+baklava,docs(storybook): add version button in storybook toolbar,https://github.com/Trendyol/baklava/pull/807,2024-03-04T13:52:10Z,2024-03-18T14:49:34Z,9,4,MERGED
+baklava,feat (calendar): add hover tooltip functionality,https://github.com/Trendyol/baklava/pull/1061,2025-04-21T10:16:35Z,2025-05-09T06:03:59Z,2,14,CLOSED
+baklava,fix(dropdown): Dropdown Group Double hr,https://github.com/Trendyol/baklava/pull/1060,2025-04-13T12:42:06Z,2025-05-09T05:55:50Z,1,1,MERGED
+baklava,feat(toggle):  introduce toggle component,https://github.com/Trendyol/baklava/pull/1089,2025-09-19T14:11:07Z,2025-09-24T10:51:24Z,4,2,CLOSED

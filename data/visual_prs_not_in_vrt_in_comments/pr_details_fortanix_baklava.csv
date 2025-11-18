@@ -1,0 +1,42 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+baklava,Implement Switch component,https://github.com/fortanix/baklava/pull/15,2024-11-07T16:01:00Z,2024-11-07T16:08:12Z,0,1,MERGED
+baklava,Banner component update,https://github.com/fortanix/baklava/pull/78,2024-12-25T23:37:01Z,2025-01-02T17:02:44Z,7,18,MERGED
+baklava,Add Storybook test runner for accessibility testing,https://github.com/fortanix/baklava/pull/74,2024-12-23T11:16:30Z,2024-12-25T23:41:02Z,1,11,MERGED
+baklava,Implement Disclosure and Accordion components,https://github.com/fortanix/baklava/pull/49,2024-12-08T00:11:42Z,2024-12-23T13:43:59Z,5,13,MERGED
+baklava,Fix fractional px value rounding issues,https://github.com/fortanix/baklava/pull/86,2025-01-03T21:43:00Z,2025-01-06T16:51:26Z,1,4,MERGED
+baklava,Modal components update,https://github.com/fortanix/baklava/pull/85,2025-01-02T19:52:24Z,2025-01-06T22:52:59Z,4,35,MERGED
+baklava,Update Dialog component,https://github.com/fortanix/baklava/pull/83,2025-01-02T17:59:53Z,2025-01-03T13:38:46Z,3,15,MERGED
+baklava,"Update `Input` component (icon, actions) + implement `InputSearch`, `InputSensitive`, and `InputPassword`",https://github.com/fortanix/baklava/pull/132,2025-02-09T22:25:25Z,2025-02-11T15:14:34Z,0,9,MERGED
+baklava,"Implement ""card"" variant for `Button` component",https://github.com/fortanix/baklava/pull/121,2025-02-02T15:59:04Z,2025-02-03T14:43:32Z,0,4,MERGED
+baklava,Fix tooltip arrow position,https://github.com/fortanix/baklava/pull/164,2025-02-26T23:45:36Z,2025-02-27T16:12:17Z,0,1,MERGED
+baklava,"Update `Input` component (icon, actions) + implement `InputSearch`, `InputSensitive`, and `InputPassword`",https://github.com/fortanix/baklava/pull/132,2025-02-09T22:25:25Z,2025-02-11T15:14:34Z,0,9,MERGED
+baklava,"Implement ""card"" variant for `Button` component",https://github.com/fortanix/baklava/pull/121,2025-02-02T15:59:04Z,2025-02-03T14:43:32Z,0,4,MERGED
+baklava,Add dropdown arrow to user menu,https://github.com/fortanix/baklava/pull/303,2025-05-30T13:31:21Z,2025-05-30T14:01:31Z,0,1,MERGED
+baklava,(#266) Implement Static variant of ListBox item for custom static content,https://github.com/fortanix/baklava/pull/270,2025-05-26T16:54:38Z,2025-05-27T04:46:59Z,0,1,MERGED
+baklava,Implement `MenuMultiProvider` + `SelectMulti` components,https://github.com/fortanix/baklava/pull/256,2025-05-23T22:44:16Z,2025-05-24T13:20:30Z,0,16,MERGED
+baklava,Implement styling for `<hr>` on Card + Dialog full width flex,https://github.com/fortanix/baklava/pull/253,2025-05-22T13:43:12Z,2025-05-22T13:53:54Z,0,2,MERGED
+baklava,Implement `ListBoxMulti` component,https://github.com/fortanix/baklava/pull/248,2025-05-21T21:59:27Z,2025-05-22T10:21:47Z,0,1,MERGED
+baklava,Implement `TextLine` component,https://github.com/fortanix/baklava/pull/242,2025-05-20T20:34:58Z,2025-05-21T04:56:26Z,0,1,MERGED
+baklava,Update the Button font size to match the Figma spec,https://github.com/fortanix/baklava/pull/238,2025-05-20T12:48:58Z,2025-05-20T12:50:43Z,0,1,MERGED
+baklava,Implement `Card.HeadingLink` component,https://github.com/fortanix/baklava/pull/227,2025-05-19T17:21:15Z,2025-05-19T17:30:04Z,0,1,MERGED
+baklava,(#131) Implement `PublicLayout`,https://github.com/fortanix/baklava/pull/212,2025-05-17T21:35:56Z,2025-05-20T12:08:07Z,1,11,MERGED
+baklava,Fix styling of disabled state for Input,https://github.com/fortanix/baklava/pull/206,2025-05-16T13:48:53Z,2025-05-16T13:51:48Z,0,1,MERGED
+baklava,(#142) Implement `ComboBox` component,https://github.com/fortanix/baklava/pull/194,2025-05-14T20:15:03Z,2025-05-19T04:47:04Z,0,8,MERGED
+baklava,Update the Fortanix logo SVG images to be dynamically themable,https://github.com/fortanix/baklava/pull/383,2025-06-24T21:01:34Z,2025-06-25T08:10:23Z,0,1,MERGED
+baklava,(#366) Fix table cell alignment,https://github.com/fortanix/baklava/pull/367,2025-06-16T15:39:29Z,2025-06-16T15:50:05Z,0,1,MERGED
+baklava,Implement disabled styling for `Radio.Labeled` and `Checkbox.Labeled`,https://github.com/fortanix/baklava/pull/352,2025-06-06T15:05:47Z,2025-06-06T15:10:13Z,0,1,MERGED
+baklava,Update `PublicLayout` styling,https://github.com/fortanix/baklava/pull/335,2025-06-04T19:34:15Z,2025-06-04T20:31:22Z,0,1,MERGED
+baklava,Multi Select Empty Footer,https://github.com/fortanix/baklava/pull/311,2025-06-02T13:05:36Z,2025-06-02T14:08:04Z,0,1,MERGED
+baklava,ContextMenuProvider component,https://github.com/fortanix/baklava/pull/439,2025-07-25T12:08:34Z,2025-07-28T11:58:49Z,1,4,MERGED
+baklava,Clean up Sass variables + update font sizes,https://github.com/fortanix/baklava/pull/407,2025-07-08T13:54:54Z,2025-07-08T15:00:26Z,0,4,MERGED
+baklava,Update ListBox sticky action button styling,https://github.com/fortanix/baklava/pull/398,2025-07-07T13:30:23Z,2025-07-07T14:16:03Z,0,1,MERGED
+baklava,(#462) Remove the underline from PageLayout.ScopeSwitcher,https://github.com/fortanix/baklava/pull/471,2025-08-29T15:44:10Z,2025-09-01T09:54:27Z,1,2,MERGED
+baklava,Added new cryptography icon,https://github.com/fortanix/baklava/pull/469,2025-08-28T11:44:00Z,2025-08-28T13:03:18Z,0,1,MERGED
+baklava,`Switch` – Make radial-gradient() antialiasing independent of device pixel ratio,https://github.com/fortanix/baklava/pull/465,2025-08-21T20:01:35Z,2025-08-22T07:55:12Z,0,1,MERGED
+baklava,(#443) Add styling for table to Prose component,https://github.com/fortanix/baklava/pull/451,2025-08-07T14:54:31Z,2025-08-07T15:23:12Z,0,1,MERGED
+baklava,Updated `MultiSearch` error message text color,https://github.com/fortanix/baklava/pull/495,2025-09-17T16:17:05Z,2025-09-18T12:37:57Z,0,2,MERGED
+baklava,PageLayout with edgeless parameter + DataTable stories,https://github.com/fortanix/baklava/pull/494,2025-09-16T14:56:06Z,2025-09-18T07:24:08Z,1,9,MERGED
+baklava,Update color tokens,https://github.com/fortanix/baklava/pull/483,2025-09-08T21:06:05Z,2025-09-09T13:37:52Z,0,2,MERGED
+baklava,Fix styling regression in existing usages of `Card.Heading`,https://github.com/fortanix/baklava/pull/480,2025-09-08T12:42:22Z,2025-09-08T14:11:14Z,0,1,MERGED
+baklava,Implement `CardAction` component,https://github.com/fortanix/baklava/pull/476,2025-09-06T16:54:04Z,2025-09-07T12:09:53Z,0,2,MERGED
+baklava,Upgrade to Storybook 9 and set up vitest addon,https://github.com/fortanix/baklava/pull/473,2025-09-04T10:45:12Z,2025-09-08T11:46:53Z,13,16,MERGED

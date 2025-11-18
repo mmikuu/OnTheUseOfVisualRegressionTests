@@ -1,0 +1,7 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+forgerock-web-login-framework,fix(style): reworking application of headers and footers of widget,https://github.com/ForgeRock/forgerock-web-login-framework/pull/95,2023-03-25T00:52:22Z,2023-03-27T19:59:09Z,5,2,MERGED
+forgerock-web-login-framework,fix: addresses bugs reported in beta testing and doc changes for new api,https://github.com/ForgeRock/forgerock-web-login-framework/pull/75,2023-03-10T00:19:57Z,2023-03-15T21:54:48Z,39,2,MERGED
+forgerock-web-login-framework,Add Webauthn support to Login Widget,https://github.com/ForgeRock/forgerock-web-login-framework/pull/123,2023-06-20T19:04:36Z,2023-06-22T00:45:31Z,3,2,MERGED
+forgerock-web-login-framework,feat(LAW): improve rendering of TextOutputCallback's types,https://github.com/ForgeRock/forgerock-web-login-framework/pull/157,2023-09-01T19:57:32Z,2023-09-12T14:02:36Z,12,1,MERGED
+forgerock-web-login-framework,feat(stage): add new QR Code stage for MFA device registration,https://github.com/ForgeRock/forgerock-web-login-framework/pull/208,2023-10-18T21:48:20Z,2023-10-26T03:00:26Z,19,1,MERGED
+forgerock-web-login-framework,feat(recoverycodes): add-devicename-to-recoverycodes-page,https://github.com/ForgeRock/forgerock-web-login-framework/pull/290,2024-01-24T22:25:32Z,2024-02-21T17:14:15Z,16,3,MERGED

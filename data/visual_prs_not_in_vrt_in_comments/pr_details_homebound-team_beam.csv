@@ -1,0 +1,131 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+beam,feat: SuperDrawer Component,https://github.com/homebound-team/beam/pull/61,2021-04-29T21:47:05Z,2021-05-12T13:18:11Z,51,28,MERGED
+beam,feat: Compact button groups,https://github.com/homebound-team/beam/pull/59,2021-04-26T19:51:43Z,2021-04-27T22:41:36Z,4,5,MERGED
+beam,feat: Switch & SwitchGroup Component,https://github.com/homebound-team/beam/pull/44,2021-04-02T01:37:37Z,2021-04-12T16:58:39Z,22,10,MERGED
+beam,fix: Change certain form components to have a maxWidth of 550px,https://github.com/homebound-team/beam/pull/88,2021-05-27T19:52:14Z,2021-06-01T18:14:46Z,14,9,MERGED
+beam,feat: Add GridStyle.firstCellCss + card style,https://github.com/homebound-team/beam/pull/124,2021-06-19T16:51:25Z,2021-06-22T15:09:00Z,3,10,MERGED
+beam,"feat: Add StaticField, StaticLinkField from procurement.",https://github.com/homebound-team/beam/pull/196,2021-07-28T17:39:10Z,2021-08-03T15:05:45Z,1,2,MERGED
+beam,"fix: Fix date field width, match others.",https://github.com/homebound-team/beam/pull/179,2021-07-16T22:01:05Z,2021-07-19T18:08:15Z,1,1,MERGED
+beam,feat: Add titleRightContent to use SuperDrawer.,https://github.com/homebound-team/beam/pull/156,2021-07-05T14:17:29Z,2021-07-06T17:07:21Z,4,3,MERGED
+beam,feat: Add Pill as a read-only version of chip.,https://github.com/homebound-team/beam/pull/151,2021-07-01T13:00:45Z,2021-07-01T22:15:05Z,6,5,MERGED
+beam,fix: Add Create Portal to Tooltip component,https://github.com/homebound-team/beam/pull/254,2021-08-24T13:31:33Z,2021-08-24T14:50:46Z,7,3,MERGED
+beam,feat: GridTable - Schedules Table Enhancements,https://github.com/homebound-team/beam/pull/314,2021-09-21T17:46:36Z,2021-10-19T14:21:21Z,16,15,MERGED
+beam,feat: Allow non-card kinds in nested cards.,https://github.com/homebound-team/beam/pull/291,2021-09-12T17:54:21Z,2021-09-13T18:20:28Z,5,5,MERGED
+beam,feat: Nested cards,https://github.com/homebound-team/beam/pull/281,2021-09-06T13:57:54Z,2021-09-10T18:52:50Z,19,36,MERGED
+beam,fix: SelectFields should update options when props change,https://github.com/homebound-team/beam/pull/419,2021-12-22T21:24:30Z,2022-01-10T18:47:11Z,23,9,MERGED
+beam,perf: Fix regression caused by style change,https://github.com/homebound-team/beam/pull/412,2021-12-18T00:26:55Z,2021-12-20T14:13:05Z,3,2,MERGED
+beam,perf: [SC-10418] grid row memo fix,https://github.com/homebound-team/beam/pull/403,2021-12-13T14:30:18Z,2021-12-13T15:41:54Z,13,11,MERGED
+beam,fix: Performance improvements for ChipSelectField,https://github.com/homebound-team/beam/pull/397,2021-12-07T20:57:38Z,2021-12-08T15:43:49Z,8,2,MERGED
+beam,perf: no JSX in visitRows => 100x improvement,https://github.com/homebound-team/beam/pull/396,2021-12-07T09:32:28Z,2021-12-07T14:54:41Z,4,6,MERGED
+beam,POC - Unsorted Table,https://github.com/homebound-team/beam/pull/389,2021-12-02T16:01:02Z,2022-09-28T01:35:52Z,1,1,CLOSED
+beam,fix: Remove 'overflow: overlay' as it can sit on top of padding/content,https://github.com/homebound-team/beam/pull/457,2022-02-18T18:08:38Z,2022-02-18T18:57:33Z,1,1,MERGED
+beam,fix: Nested GridTable leaf cards draw their own borders,https://github.com/homebound-team/beam/pull/444,2022-02-04T17:52:25Z,2022-02-08T16:06:58Z,8,2,MERGED
+beam,chore(grid-table): fallback message styling,https://github.com/homebound-team/beam/pull/484,2022-03-25T19:21:23Z,2022-03-28T19:57:21Z,1,1,MERGED
+beam,fix: Restyle 'borderless' textfields so the content of the field vertically aligns with non-textfield content,https://github.com/homebound-team/beam/pull/518,2022-04-28T16:54:01Z,2022-04-28T17:11:59Z,2,1,MERGED
+beam,feat: add NavLink side contrast variant,https://github.com/homebound-team/beam/pull/566,2022-06-22T21:36:11Z,2022-06-28T13:14:04Z,5,1,MERGED
+beam,feat: add buildingHouse icon required for SC-17566,https://github.com/homebound-team/beam/pull/565,2022-06-21T22:39:45Z,2022-06-22T00:46:40Z,2,1,MERGED
+beam,fix: 'Today' bgColor should be overwritten if 'selected',https://github.com/homebound-team/beam/pull/559,2022-06-13T16:44:33Z,2022-06-13T16:47:04Z,1,1,MERGED
+beam,feat: Sc 13020/dev auto save notification component,https://github.com/homebound-team/beam/pull/550,2022-06-03T20:57:11Z,2022-06-09T00:17:20Z,9,11,MERGED
+beam,feat: add type to chip,https://github.com/homebound-team/beam/pull/608,2022-07-26T17:24:07Z,2022-07-27T21:16:12Z,5,4,MERGED
+beam,feat(bound-select-field): dirty indicator,https://github.com/homebound-team/beam/pull/604,2022-07-21T21:10:19Z,2023-01-06T23:39:02Z,4,1,CLOSED
+beam,feat: handle disabled selections,https://github.com/homebound-team/beam/pull/586,2022-07-08T19:41:31Z,2022-07-08T20:28:13Z,2,1,MERGED
+beam,feat: [SC-19452] Chip custom title support,https://github.com/homebound-team/beam/pull/636,2022-08-30T20:09:51Z,2022-08-30T20:34:14Z,2,1,MERGED
+beam,feat: add outline-flag icon,https://github.com/homebound-team/beam/pull/618,2022-08-10T22:20:00Z,2022-08-11T20:29:42Z,3,3,MERGED
+beam,feat: SC-20110 - Add filter and column icons to beam,https://github.com/homebound-team/beam/pull/617,2022-08-09T21:39:31Z,2022-08-15T15:13:22Z,6,10,MERGED
+beam,feat: Added flag icon,https://github.com/homebound-team/beam/pull/615,2022-08-09T15:26:43Z,2022-08-09T16:23:10Z,2,1,MERGED
+beam,feat: Homebound Loading Spinner,https://github.com/homebound-team/beam/pull/666,2022-09-30T02:34:28Z,2022-10-04T18:34:17Z,10,11,MERGED
+beam,feat: (SC-18433) Edit columns button component,https://github.com/homebound-team/beam/pull/665,2022-09-29T21:33:54Z,2022-10-05T14:53:31Z,45,14,MERGED
+beam,feat: create `ToggleButton`,https://github.com/homebound-team/beam/pull/648,2022-09-14T18:01:03Z,2022-09-15T00:49:53Z,10,6,MERGED
+beam,feat: SC-19444 cell highlighting,https://github.com/homebound-team/beam/pull/643,2022-09-07T19:02:46Z,2022-09-14T00:13:09Z,26,4,MERGED
+beam,feat: Sc-19444 active cell,https://github.com/homebound-team/beam/pull/641,2022-09-06T22:12:47Z,2022-09-07T20:03:38Z,3,2,CLOSED
+beam,feat: add Icon to Tags (sc-22870),https://github.com/homebound-team/beam/pull/713,2022-10-31T23:55:22Z,2022-11-01T18:40:14Z,5,5,MERGED
+beam,feat: (SC-22763) Update button modal,https://github.com/homebound-team/beam/pull/712,2022-10-31T19:46:01Z,2022-11-02T19:28:17Z,11,13,MERGED
+beam,"feat: add leaf, floorPlan, chair and bolt icons, variant and hideEndAdornment props on buttonModal",https://github.com/homebound-team/beam/pull/708,2022-10-28T20:55:54Z,2022-10-28T21:17:50Z,4,2,MERGED
+beam,feat: Add omitErrorMessage on textField Base to hide the error message,https://github.com/homebound-team/beam/pull/702,2022-10-25T21:23:58Z,2022-10-26T15:09:49Z,5,7,MERGED
+beam,feat: Add bxArrowIcons,https://github.com/homebound-team/beam/pull/696,2022-10-21T21:46:03Z,2022-10-24T17:52:52Z,4,4,MERGED
+beam,feat: SC-23021 Add Customize icon,https://github.com/homebound-team/beam/pull/693,2022-10-20T22:08:35Z,2022-10-21T14:07:54Z,2,1,MERGED
+beam,feat: New contextual modal,https://github.com/homebound-team/beam/pull/692,2022-10-20T19:56:22Z,2022-10-25T18:20:22Z,18,10,MERGED
+beam,feat: SC-22792 Add menu icon,https://github.com/homebound-team/beam/pull/687,2022-10-17T21:50:14Z,2022-10-18T00:48:49Z,2,1,MERGED
+beam,feat: Add product catalog icons,https://github.com/homebound-team/beam/pull/686,2022-10-17T19:56:07Z,2022-10-17T20:54:14Z,1,1,MERGED
+beam,feat: SC-24131 Expand/Collapse icons,https://github.com/homebound-team/beam/pull/740,2022-11-28T17:50:21Z,2022-11-28T18:05:53Z,2,1,MERGED
+beam,feat: Optional disabled select value tooltips,https://github.com/homebound-team/beam/pull/739,2022-11-23T21:58:24Z,2022-11-29T19:12:36Z,4,7,MERGED
+beam,feat: (SC-25686) Hack Day - new label property to CollapseToggle #715,https://github.com/homebound-team/beam/pull/735,2022-11-18T17:45:06Z,2022-11-30T21:36:09Z,3,3,CLOSED
+beam,fix: position and z-index of a tooltip on a ButtonModal Component,https://github.com/homebound-team/beam/pull/731,2022-11-15T16:24:56Z,2022-11-15T17:23:43Z,3,4,MERGED
+beam,feat: [SC-24998]  Create number range filter type,https://github.com/homebound-team/beam/pull/727,2022-11-12T01:12:44Z,2022-11-14T20:33:21Z,5,12,MERGED
+beam,feat: Add borderless to NumberField,https://github.com/homebound-team/beam/pull/723,2022-11-10T13:28:56Z,2022-11-10T13:42:13Z,2,3,MERGED
+beam,fix: [SC-24684]  Removing error styles on disabled inputs,https://github.com/homebound-team/beam/pull/722,2022-11-09T18:46:45Z,2022-11-09T18:51:07Z,2,3,MERGED
+beam,feat: StaticField Label has the ability to show ReactNode,https://github.com/homebound-team/beam/pull/716,2022-11-02T17:26:01Z,2022-11-02T17:33:10Z,2,1,MERGED
+beam,feat: (SC-24529) Add toggleCollapse to GridTableApi,https://github.com/homebound-team/beam/pull/715,2022-11-02T14:32:54Z,2022-11-02T15:54:36Z,4,2,MERGED
+beam,feat: ReactNode as Button labels,https://github.com/homebound-team/beam/pull/772,2022-12-17T02:12:52Z,2022-12-19T23:30:47Z,1,4,MERGED
+beam,fix: update styles for required/helper text and selectField dropdown,https://github.com/homebound-team/beam/pull/770,2022-12-16T17:58:26Z,2022-12-16T22:27:48Z,2,4,MERGED
+beam,feat: SC-24760 Add checkbox filter,https://github.com/homebound-team/beam/pull/769,2022-12-16T15:03:16Z,2022-12-16T16:25:51Z,3,2,MERGED
+beam,fix: remove maxWidth limit from textFieldBase,https://github.com/homebound-team/beam/pull/768,2022-12-14T18:21:31Z,2022-12-14T19:30:31Z,1,2,MERGED
+beam,feat: changeEvent icon,https://github.com/homebound-team/beam/pull/761,2022-12-07T16:22:33Z,2022-12-07T17:55:43Z,3,3,MERGED
+beam,feat: add horizontal support for FormLines,https://github.com/homebound-team/beam/pull/760,2022-12-07T15:09:25Z,2022-12-14T00:44:37Z,12,14,MERGED
+beam,fix: Avoid inheriting line-height in ButtonGroup,https://github.com/homebound-team/beam/pull/759,2022-12-07T01:30:08Z,2022-12-07T14:34:23Z,1,1,MERGED
+beam,fix: Fix styling of button group when using tooltips,https://github.com/homebound-team/beam/pull/754,2022-12-02T18:16:18Z,2022-12-02T19:20:31Z,2,3,MERGED
+beam,feat: add disabled flag and tooltip to radio group field options (sc-25841),https://github.com/homebound-team/beam/pull/791,2023-01-19T01:44:19Z,2023-01-19T03:19:06Z,4,3,MERGED
+beam,feat: add labelStyle prop to FormLines,https://github.com/homebound-team/beam/pull/785,2023-01-11T15:48:39Z,2023-01-11T16:00:10Z,1,1,MERGED
+beam,fix: [SC-26383] Left label layout for read only fields,https://github.com/homebound-team/beam/pull/783,2023-01-06T21:04:41Z,2023-01-06T21:56:28Z,2,1,MERGED
+beam,fix: [sc-26428] Expose numberFormatOptions prop in NumberRangeFilter;,https://github.com/homebound-team/beam/pull/777,2023-01-03T23:37:15Z,2023-01-04T16:10:33Z,2,1,MERGED
+beam,style: SC-26626 add darkMode type to chip styles,https://github.com/homebound-team/beam/pull/818,2023-02-27T22:26:03Z,2023-03-01T16:20:28Z,2,3,MERGED
+beam,fix: support precise year selection,https://github.com/homebound-team/beam/pull/816,2023-02-21T01:27:10Z,2023-02-21T23:08:11Z,2,1,CLOSED
+beam,feat: Add Pagination component,https://github.com/homebound-team/beam/pull/809,2023-02-10T21:01:57Z,2023-02-22T21:46:18Z,10,6,MERGED
+beam,fix: Prevent Avatar from squishing by setting min-width,https://github.com/homebound-team/beam/pull/833,2023-03-21T14:26:28Z,2023-03-21T14:33:10Z,1,1,MERGED
+beam,feat: support for label style on StaticField,https://github.com/homebound-team/beam/pull/824,2023-03-09T21:03:32Z,2023-03-09T21:30:34Z,3,2,MERGED
+beam,feat: Add checklist icons,https://github.com/homebound-team/beam/pull/852,2023-04-17T15:42:21Z,2023-04-17T17:25:46Z,4,7,MERGED
+beam,SC-31258/ Add checklist icons,https://github.com/homebound-team/beam/pull/851,2023-04-17T15:33:14Z,2023-04-17T15:42:35Z,1,3,CLOSED
+beam,feat: Add secondary borderless button variant,https://github.com/homebound-team/beam/pull/848,2023-04-13T16:25:09Z,2023-04-13T22:28:36Z,6,4,MERGED
+beam,feat: Chips/Chip xss and compact prop,https://github.com/homebound-team/beam/pull/879,2023-05-26T22:04:45Z,2023-05-30T18:49:33Z,5,6,MERGED
+beam,feat(button-group): colors,https://github.com/homebound-team/beam/pull/874,2023-05-18T00:42:40Z,2023-05-18T21:44:40Z,2,3,MERGED
+beam,feat: Add ready home icons,https://github.com/homebound-team/beam/pull/873,2023-05-17T17:02:40Z,2023-05-17T19:45:12Z,6,6,MERGED
+beam,"feat: On MenuItem, react-router NavLink was changed to react-router Link",https://github.com/homebound-team/beam/pull/868,2023-05-11T22:30:45Z,2023-05-16T13:32:18Z,4,2,MERGED
+beam,feat: update color on check icon of the checklist,https://github.com/homebound-team/beam/pull/866,2023-05-09T14:57:04Z,2023-05-09T15:01:03Z,2,1,MERGED
+beam,feat: Add ruler and palette icons,https://github.com/homebound-team/beam/pull/886,2023-06-07T21:00:47Z,2023-06-08T00:16:06Z,2,1,MERGED
+beam,feat(button-group): allow JSX,https://github.com/homebound-team/beam/pull/883,2023-06-02T22:06:47Z,2023-06-03T00:55:03Z,1,4,MERGED
+beam,feat: (SC-35835) Add basement icon,https://github.com/homebound-team/beam/pull/909,2023-07-27T14:10:02Z,2023-07-27T15:49:36Z,2,1,MERGED
+beam,feat: Show plus zero when displayDirection is set.,https://github.com/homebound-team/beam/pull/908,2023-07-26T00:38:19Z,2023-07-26T01:01:02Z,1,1,MERGED
+beam,feat: Add bath and car icons,https://github.com/homebound-team/beam/pull/904,2023-07-20T17:56:22Z,2023-07-20T18:31:25Z,2,2,MERGED
+beam,feat: SC-35829 Elevation details icons,https://github.com/homebound-team/beam/pull/902,2023-07-19T16:18:41Z,2023-07-19T17:07:15Z,4,2,MERGED
+beam,feat: Always allow type-ahead filtering for SelectFields,https://github.com/homebound-team/beam/pull/895,2023-07-06T16:45:03Z,2023-07-10T18:12:01Z,7,6,MERGED
+beam,fix: Update email icon svg,https://github.com/homebound-team/beam/pull/942,2023-08-28T14:54:58Z,2023-08-28T15:09:58Z,1,2,MERGED
+beam,feat: Add subdirectory and cube icons,https://github.com/homebound-team/beam/pull/941,2023-08-28T13:18:08Z,2023-08-28T13:27:38Z,2,1,MERGED
+beam,feat: Add email icon,https://github.com/homebound-team/beam/pull/940,2023-08-25T18:29:47Z,2023-08-25T19:18:41Z,1,1,MERGED
+beam,chore: make react-hooks/exhaustive-deps eslint rule error vs. warn,https://github.com/homebound-team/beam/pull/950,2023-09-13T18:59:02Z,2023-09-13T19:45:46Z,6,7,MERGED
+beam,feat: IconCard & IconCardGroup,https://github.com/homebound-team/beam/pull/957,2023-10-03T17:33:11Z,2023-10-13T14:00:41Z,3,6,MERGED
+beam,feat: add change type icons,https://github.com/homebound-team/beam/pull/975,2023-11-28T16:39:06Z,2023-11-28T16:41:41Z,2,1,MERGED
+beam,fix: TreeSelectField correct number of options selected,https://github.com/homebound-team/beam/pull/996,2024-01-24T21:53:16Z,2024-01-25T14:38:04Z,2,3,MERGED
+beam,feat: add year selection header option to DatePicker;,https://github.com/homebound-team/beam/pull/1012,2024-03-22T00:37:20Z,2024-03-22T16:07:52Z,2,1,MERGED
+beam,fix: Use dvh/dvw instead of vh/vw for mobile,https://github.com/homebound-team/beam/pull/1016,2024-04-22T14:13:06Z,2024-04-22T14:15:48Z,1,1,MERGED
+beam,feat(accordion): clickable title,https://github.com/homebound-team/beam/pull/1033,2024-05-25T02:25:09Z,2024-05-29T19:40:37Z,4,4,MERGED
+beam,feat: hackday multiselect shows selected options in field,https://github.com/homebound-team/beam/pull/1025,2024-05-17T20:10:24Z,2024-05-21T15:12:45Z,11,6,MERGED
+beam,fix: Fallback message for virtual table was exceeding table header width,https://github.com/homebound-team/beam/pull/1020,2024-05-10T20:18:16Z,2024-05-10T20:30:10Z,2,2,MERGED
+beam,"feat: Adding support for multiple levels of nesting on grid tables, to keep adding marging based on the level of nesting index",https://github.com/homebound-team/beam/pull/1048,2024-06-19T20:54:27Z,2024-06-20T15:37:58Z,2,3,MERGED
+beam,fix: Nudge the modal close icon to the middle.,https://github.com/homebound-team/beam/pull/1041,2024-06-05T18:03:02Z,2024-06-05T18:18:47Z,1,1,CLOSED
+beam,feat: Add 'map' icon,https://github.com/homebound-team/beam/pull/1038,2024-06-03T20:51:22Z,2024-06-03T23:25:17Z,1,2,MERGED
+beam,feat: Support disabled tooltips on Tabs,https://github.com/homebound-team/beam/pull/1037,2024-06-03T20:38:41Z,2024-06-03T23:07:42Z,1,1,MERGED
+beam,feat: add divider to menu item,https://github.com/homebound-team/beam/pull/1054,2024-07-31T23:50:11Z,2024-08-01T17:50:08Z,1,3,MERGED
+beam,feat: Add GridTable csv export.,https://github.com/homebound-team/beam/pull/1063,2024-08-31T21:42:22Z,2024-09-03T14:09:01Z,4,7,MERGED
+beam,feat: Add truck and union icon,https://github.com/homebound-team/beam/pull/1060,2024-08-14T21:50:24Z,2024-08-14T22:21:25Z,1,2,CLOSED
+beam,feat: Adding start adornment to Chips,https://github.com/homebound-team/beam/pull/1058,2024-08-06T17:23:56Z,2024-08-06T19:15:48Z,3,2,MERGED
+beam,feat: Add Pin Icon,https://github.com/homebound-team/beam/pull/1056,2024-08-02T17:07:48Z,2024-08-02T18:00:51Z,1,1,MERGED
+beam,fix: update divider line color,https://github.com/homebound-team/beam/pull/1055,2024-08-01T18:02:51Z,2024-08-01T18:28:01Z,1,2,MERGED
+beam,feat: SC-58759: Update Email Icon,https://github.com/homebound-team/beam/pull/1073,2024-09-24T15:00:19Z,2024-09-24T16:57:27Z,1,3,MERGED
+beam,fix: Add required to icon card and icon card group,https://github.com/homebound-team/beam/pull/1065,2024-09-10T17:27:38Z,2024-09-10T17:45:09Z,0,4,CLOSED
+beam,fix: scrollshadow chromatic diff issue,https://github.com/homebound-team/beam/pull/1082,2024-10-18T16:47:40Z,2025-04-14T20:12:36Z,2,5,CLOSED
+beam,fix: email icon to use `clipRule` instead of `clip-rule`;,https://github.com/homebound-team/beam/pull/1077,2024-10-14T17:01:27Z,2024-10-14T17:19:04Z,1,1,MERGED
+beam,chore: [sc-59199] add calendar with X icon;,https://github.com/homebound-team/beam/pull/1076,2024-10-02T17:55:54Z,2024-10-02T17:59:17Z,1,1,MERGED
+beam,fix: Add optional prop to hide icon in Banner component,https://github.com/homebound-team/beam/pull/1089,2024-11-26T16:01:30Z,2024-11-26T17:15:29Z,1,3,MERGED
+beam,feat: [SC-67747] Sidebar nav for `FormPageLayout`,https://github.com/homebound-team/beam/pull/1126,2025-03-21T23:24:12Z,2025-03-25T18:25:13Z,4,32,MERGED
+beam,fix: Don't show asterisk when readonly.,https://github.com/homebound-team/beam/pull/1125,2025-03-19T15:47:54Z,2025-03-19T15:52:21Z,1,1,MERGED
+beam,feat: [SC-67744] FormPageLayout Component,https://github.com/homebound-team/beam/pull/1123,2025-03-12T19:55:07Z,2025-03-24T19:35:24Z,15,27,MERGED
+beam,feat: [SC-67743] BoundForm standardized component,https://github.com/homebound-team/beam/pull/1122,2025-03-10T23:33:45Z,2025-03-19T20:45:33Z,10,16,MERGED
+beam,feat: Add history icon,https://github.com/homebound-team/beam/pull/1139,2025-04-24T17:31:00Z,2025-04-24T20:33:48Z,1,1,MERGED
+beam,feat: Update Chip components,https://github.com/homebound-team/beam/pull/1137,2025-04-16T04:12:56Z,2025-04-18T19:22:53Z,6,13,MERGED
+beam,feat: [SC-68648] Bound Form List Field Support,https://github.com/homebound-team/beam/pull/1135,2025-04-11T21:05:14Z,2025-04-15T19:00:08Z,7,11,MERGED
+beam,feat: Card component,https://github.com/homebound-team/beam/pull/1134,2025-04-11T04:37:13Z,2025-04-15T20:38:25Z,15,10,MERGED
+beam,feat: Add ReactNode support for NavLink labels,https://github.com/homebound-team/beam/pull/1130,2025-04-07T17:45:19Z,2025-04-07T18:58:30Z,1,1,MERGED
+beam,feat: [SC-70480] Enable Banner/Snackbar in FormPageLayout,https://github.com/homebound-team/beam/pull/1143,2025-06-27T15:21:40Z,2025-06-27T18:37:47Z,3,3,MERGED
+beam,feat: Sc 74829/text area field max lines,https://github.com/homebound-team/beam/pull/1153,2025-09-11T21:19:23Z,2025-09-11T21:51:24Z,3,3,MERGED
+beam,chore: [sc-72996] port project hierarchy icons to beam;,https://github.com/homebound-team/beam/pull/1151,2025-09-10T16:20:49Z,2025-09-10T17:19:45Z,1,1,MERGED
+beam,feat: [sc-74848] Checkbox field prop to extend unconstrained;,https://github.com/homebound-team/beam/pull/1150,2025-09-10T15:46:07Z,2025-09-10T17:21:43Z,2,2,MERGED

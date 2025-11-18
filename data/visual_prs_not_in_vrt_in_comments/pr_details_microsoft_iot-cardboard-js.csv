@@ -1,0 +1,259 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+iot-cardboard-js,ADT Hierarchy and Process Graphics Composite Card ,https://github.com/microsoft/iot-cardboard-js/pull/34,2021-03-23T07:23:26Z,2021-04-02T19:43:30Z,36,22,MERGED
+iot-cardboard-js,Optional localeStrings prop for translation,https://github.com/microsoft/iot-cardboard-js/pull/30,2021-03-17T15:34:26Z,2021-03-17T22:05:24Z,1,8,MERGED
+iot-cardboard-js,Tests for useAdapter hook,https://github.com/microsoft/iot-cardboard-js/pull/29,2021-03-16T20:06:02Z,2021-03-17T22:39:21Z,2,6,MERGED
+iot-cardboard-js,ADT Integration,https://github.com/microsoft/iot-cardboard-js/pull/22,2021-03-05T23:12:07Z,2021-03-08T23:48:30Z,7,7,MERGED
+iot-cardboard-js,Board component,https://github.com/microsoft/iot-cardboard-js/pull/54,2021-04-30T18:09:26Z,2021-05-21T17:34:33Z,23,11,MERGED
+iot-cardboard-js,Search in Hierarchy and Cancellable Axios,https://github.com/microsoft/iot-cardboard-js/pull/52,2021-04-28T16:13:20Z,2021-05-04T18:20:15Z,14,21,MERGED
+iot-cardboard-js,Show more for ADT Hierarchy,https://github.com/microsoft/iot-cardboard-js/pull/49,2021-04-12T17:27:20Z,2021-04-15T18:06:54Z,7,7,MERGED
+iot-cardboard-js,Card / Interface / Adapter consumption experience update,https://github.com/microsoft/iot-cardboard-js/pull/58,2021-05-25T17:44:01Z,2021-06-07T22:43:50Z,5,21,MERGED
+iot-cardboard-js,JSON preview panel for DTDL (branched from model-search),https://github.com/microsoft/iot-cardboard-js/pull/69,2021-06-22T21:31:22Z,2021-07-06T18:12:02Z,5,43,MERGED
+iot-cardboard-js,Reverse lookup for Twins in ADT Hierarchy,https://github.com/microsoft/iot-cardboard-js/pull/65,2021-06-15T18:00:41Z,2021-06-23T17:57:52Z,4,17,MERGED
+iot-cardboard-js,Standard model search,https://github.com/microsoft/iot-cardboard-js/pull/64,2021-06-14T21:54:22Z,2021-06-24T20:19:25Z,12,31,MERGED
+iot-cardboard-js,KVP card fix for components,https://github.com/microsoft/iot-cardboard-js/pull/77,2021-07-15T19:50:26Z,2021-07-19T21:58:07Z,1,5,MERGED
+iot-cardboard-js,Data pusher card,https://github.com/microsoft/iot-cardboard-js/pull/76,2021-07-09T19:20:31Z,2021-07-19T18:16:56Z,11,24,MERGED
+iot-cardboard-js,Styling and no twins fix in hierarchy,https://github.com/microsoft/iot-cardboard-js/pull/75,2021-07-09T18:35:28Z,2021-07-09T19:07:32Z,1,1,MERGED
+iot-cardboard-js,File Uploader,https://github.com/microsoft/iot-cardboard-js/pull/90,2021-08-21T00:43:35Z,2021-08-26T18:49:57Z,1,16,MERGED
+iot-cardboard-js,User/niusoff/push assets integration,https://github.com/microsoft/iot-cardboard-js/pull/89,2021-08-18T00:12:43Z,2021-08-26T20:14:02Z,7,11,MERGED
+iot-cardboard-js,Stepper Wizard component,https://github.com/microsoft/iot-cardboard-js/pull/88,2021-08-16T19:01:31Z,2021-08-20T19:10:46Z,4,3,MERGED
+iot-cardboard-js,Error Boundary,https://github.com/microsoft/iot-cardboard-js/pull/85,2021-08-11T20:55:20Z,2021-08-13T18:07:45Z,1,8,MERGED
+iot-cardboard-js,ADX Integration for Data History,https://github.com/microsoft/iot-cardboard-js/pull/106,2021-09-29T18:03:23Z,2021-11-04T18:22:52Z,6,34,MERGED
+iot-cardboard-js,Property inspector via twin board,https://github.com/microsoft/iot-cardboard-js/pull/105,2021-09-28T20:53:15Z,2021-10-08T18:10:08Z,4,9,MERGED
+iot-cardboard-js,Property Inspector V2 Update,https://github.com/microsoft/iot-cardboard-js/pull/98,2021-09-09T23:56:19Z,2021-09-24T19:25:04Z,7,47,MERGED
+iot-cardboard-js,Model authoring - PR1,https://github.com/microsoft/iot-cardboard-js/pull/95,2021-09-07T23:10:48Z,2021-09-14T18:52:27Z,4,30,MERGED
+iot-cardboard-js,Fix for adx connections request fail,https://github.com/microsoft/iot-cardboard-js/pull/129,2021-11-18T23:23:20Z,2021-11-20T00:04:13Z,2,2,MERGED
+iot-cardboard-js,ADT Instances Picker Dropdown,https://github.com/microsoft/iot-cardboard-js/pull/124,2021-11-15T21:58:08Z,2021-11-16T18:55:03Z,3,41,MERGED
+iot-cardboard-js,Blob Adapter,https://github.com/microsoft/iot-cardboard-js/pull/144,2021-12-09T04:35:36Z,2021-12-10T19:41:32Z,6,11,MERGED
+iot-cardboard-js,BaseComponent,https://github.com/microsoft/iot-cardboard-js/pull/143,2021-12-08T23:02:32Z,2021-12-10T20:26:04Z,3,16,MERGED
+iot-cardboard-js,3D Scene Page,https://github.com/microsoft/iot-cardboard-js/pull/138,2021-12-06T23:33:17Z,2021-12-08T00:57:29Z,1,15,MERGED
+iot-cardboard-js,Behavior list updates & addition of ViewerConfigUtility,https://github.com/microsoft/iot-cardboard-js/pull/194,2022-01-31T23:59:52Z,2022-02-02T05:31:34Z,1,15,MERGED
+iot-cardboard-js,Proxy server retry,https://github.com/microsoft/iot-cardboard-js/pull/191,2022-01-24T17:50:17Z,2022-01-24T23:24:47Z,1,3,MERGED
+iot-cardboard-js,Gauge & Link widget configuration forms,https://github.com/microsoft/iot-cardboard-js/pull/186,2022-01-20T06:37:50Z,2022-01-20T23:25:43Z,9,20,MERGED
+iot-cardboard-js,3d Scene Page Revise,https://github.com/microsoft/iot-cardboard-js/pull/174,2022-01-15T00:37:47Z,2022-01-17T02:14:05Z,1,26,MERGED
+iot-cardboard-js,3D Scene Builder Composite Card - Elements,https://github.com/microsoft/iot-cardboard-js/pull/162,2022-01-11T19:02:05Z,2022-01-13T23:59:48Z,4,22,MERGED
+iot-cardboard-js,Svg imports,https://github.com/microsoft/iot-cardboard-js/pull/228,2022-02-28T21:11:38Z,2022-03-01T17:45:25Z,1,11,MERGED
+iot-cardboard-js,Add accessibility checker addin for storybook,https://github.com/microsoft/iot-cardboard-js/pull/223,2022-02-24T18:20:14Z,2022-02-24T21:18:52Z,1,8,MERGED
+iot-cardboard-js,Adding a common list control,https://github.com/microsoft/iot-cardboard-js/pull/221,2022-02-22T20:58:22Z,2022-03-02T00:40:36Z,12,44,MERGED
+iot-cardboard-js,Cardboard lib src structure V2 📂 ,https://github.com/microsoft/iot-cardboard-js/pull/218,2022-02-18T20:25:45Z,2022-02-24T01:22:53Z,3,7,MERGED
+iot-cardboard-js,Environment (and container) picker,https://github.com/microsoft/iot-cardboard-js/pull/213,2022-02-16T19:10:18Z,2022-02-24T22:18:10Z,34,35,MERGED
+iot-cardboard-js,Header refresh & full screen UX,https://github.com/microsoft/iot-cardboard-js/pull/204,2022-02-10T01:06:04Z,2022-02-14T18:32:00Z,20,34,MERGED
+iot-cardboard-js,Element Form Pivots,https://github.com/microsoft/iot-cardboard-js/pull/203,2022-02-10T00:36:05Z,2022-02-11T01:33:06Z,4,8,MERGED
+iot-cardboard-js,Add search box to behaviors tab and align styles with elements tab,https://github.com/microsoft/iot-cardboard-js/pull/202,2022-02-10T00:08:46Z,2022-02-11T19:29:15Z,8,17,MERGED
+iot-cardboard-js,Search twin for scene element,https://github.com/microsoft/iot-cardboard-js/pull/197,2022-02-05T01:25:16Z,2022-02-09T20:42:03Z,6,23,MERGED
+iot-cardboard-js,Add alert badge preview to alerts tab,https://github.com/microsoft/iot-cardboard-js/pull/311,2022-03-31T22:30:49Z,2022-04-06T15:49:23Z,1,27,CLOSED
+iot-cardboard-js,Add border to left panel,https://github.com/microsoft/iot-cardboard-js/pull/310,2022-03-31T21:41:23Z,2022-04-06T15:49:54Z,1,1,CLOSED
+iot-cardboard-js,Create GroupedList component & apply to elements panel,https://github.com/microsoft/iot-cardboard-js/pull/304,2022-03-31T00:28:46Z,2022-04-04T18:07:14Z,2,23,MERGED
+iot-cardboard-js,Create GroupedList component and apply to Elements Panel,https://github.com/microsoft/iot-cardboard-js/pull/303,2022-03-31T00:27:27Z,2022-03-31T00:27:48Z,0,10,CLOSED
+iot-cardboard-js,Add icon button option to end of list item,https://github.com/microsoft/iot-cardboard-js/pull/301,2022-03-30T22:45:55Z,2022-03-31T17:36:25Z,1,9,MERGED
+iot-cardboard-js,Fix nested button error,https://github.com/microsoft/iot-cardboard-js/pull/300,2022-03-30T20:15:40Z,2022-03-30T22:40:37Z,1,3,MERGED
+iot-cardboard-js,Behaviors modal popover preview,https://github.com/microsoft/iot-cardboard-js/pull/297,2022-03-30T17:02:30Z,2022-04-05T19:55:15Z,45,32,MERGED
+iot-cardboard-js,Live data support for popover (BehaviorsModal),https://github.com/microsoft/iot-cardboard-js/pull/295,2022-03-30T01:40:29Z,2022-04-05T16:33:47Z,4,4,MERGED
+iot-cardboard-js,"Make picker control generic, split to Color/Icon picker",https://github.com/microsoft/iot-cardboard-js/pull/293,2022-03-29T19:51:34Z,2022-03-29T23:55:58Z,4,16,MERGED
+iot-cardboard-js,Popover fixes,https://github.com/microsoft/iot-cardboard-js/pull/292,2022-03-29T17:36:34Z,2022-03-29T18:33:34Z,1,2,MERGED
+iot-cardboard-js,Wiring up alerts config tab to new schema,https://github.com/microsoft/iot-cardboard-js/pull/289,2022-03-28T21:31:39Z,2022-03-29T20:21:57Z,6,6,MERGED
+iot-cardboard-js,fix: make the 3D viewer stories use the mock adapter,https://github.com/microsoft/iot-cardboard-js/pull/287,2022-03-28T17:56:05Z,2022-03-28T18:30:02Z,1,1,MERGED
+iot-cardboard-js,Fix rollup SVGs 🖼️,https://github.com/microsoft/iot-cardboard-js/pull/283,2022-03-28T06:27:59Z,2022-03-28T17:35:23Z,1,1,MERGED
+iot-cardboard-js,A very sweet new mock env,https://github.com/microsoft/iot-cardboard-js/pull/280,2022-03-25T21:34:33Z,2022-03-25T23:13:59Z,3,6,MERGED
+iot-cardboard-js,Behaviors popover modal,https://github.com/microsoft/iot-cardboard-js/pull/277,2022-03-24T21:22:56Z,2022-03-25T01:57:54Z,12,38,MERGED
+iot-cardboard-js,Polish styles for range picker,https://github.com/microsoft/iot-cardboard-js/pull/272,2022-03-23T22:52:53Z,2022-03-23T23:14:43Z,1,3,MERGED
+iot-cardboard-js,Elements Panel,https://github.com/microsoft/iot-cardboard-js/pull/269,2022-03-23T17:23:41Z,2022-03-24T01:56:12Z,28,16,MERGED
+iot-cardboard-js,Gauge & Link widget builders,https://github.com/microsoft/iot-cardboard-js/pull/259,2022-03-17T17:47:08Z,2022-03-18T20:55:04Z,14,11,MERGED
+iot-cardboard-js,Adding states tab for behaviors,https://github.com/microsoft/iot-cardboard-js/pull/255,2022-03-16T17:58:35Z,2022-03-25T23:57:09Z,14,58,MERGED
+iot-cardboard-js,Value range builder component,https://github.com/microsoft/iot-cardboard-js/pull/254,2022-03-16T02:14:55Z,2022-03-16T20:37:58Z,21,18,MERGED
+iot-cardboard-js,3D file uploader for scene,https://github.com/microsoft/iot-cardboard-js/pull/244,2022-03-11T03:43:34Z,2022-03-14T16:14:36Z,36,18,MERGED
+iot-cardboard-js,Add kraken theme,https://github.com/microsoft/iot-cardboard-js/pull/240,2022-03-10T17:31:45Z,2022-03-10T18:37:22Z,1,2,MERGED
+iot-cardboard-js,BlobDropdown component,https://github.com/microsoft/iot-cardboard-js/pull/233,2022-03-04T22:17:06Z,2022-03-09T17:25:26Z,29,6,MERGED
+iot-cardboard-js,Value widget (a.k.a. Property widget),https://github.com/microsoft/iot-cardboard-js/pull/368,2022-04-27T18:28:00Z,2022-05-02T18:18:08Z,11,10,MERGED
+iot-cardboard-js,Behaviors modal - smart pivots,https://github.com/microsoft/iot-cardboard-js/pull/357,2022-04-22T01:28:39Z,2022-04-25T23:54:28Z,2,1,MERGED
+iot-cardboard-js,Generic CardboardListCallout component,https://github.com/microsoft/iot-cardboard-js/pull/353,2022-04-20T02:24:50Z,2022-04-25T23:53:12Z,9,20,MERGED
+iot-cardboard-js,Scene layer dropdown,https://github.com/microsoft/iot-cardboard-js/pull/352,2022-04-20T00:11:56Z,2022-04-22T00:36:05Z,17,58,MERGED
+iot-cardboard-js,Twin alias validations,https://github.com/microsoft/iot-cardboard-js/pull/348,2022-04-16T01:06:22Z,2022-04-19T21:17:46Z,2,12,MERGED
+iot-cardboard-js,Scene layer builder,https://github.com/microsoft/iot-cardboard-js/pull/347,2022-04-16T00:01:41Z,2022-04-22T00:01:36Z,13,31,MERGED
+iot-cardboard-js,Fixes for usage in React StrictMode that caused erratic behavior,https://github.com/microsoft/iot-cardboard-js/pull/345,2022-04-15T21:25:20Z,2022-04-15T22:39:31Z,2,5,MERGED
+iot-cardboard-js,Twin alias in Elements,https://github.com/microsoft/iot-cardboard-js/pull/342,2022-04-14T23:55:55Z,2022-04-18T20:25:47Z,5,7,MERGED
+iot-cardboard-js,3D Scenes - Property Inspector,https://github.com/microsoft/iot-cardboard-js/pull/338,2022-04-13T16:46:41Z,2022-04-14T17:46:28Z,4,17,MERGED
+iot-cardboard-js,Fix for recently added twin aliases not showing in twin properties list or intellisense without saving behavior,https://github.com/microsoft/iot-cardboard-js/pull/335,2022-04-12T23:40:24Z,2022-04-14T17:41:26Z,3,4,MERGED
+iot-cardboard-js,Move mode picker to builder container,https://github.com/microsoft/iot-cardboard-js/pull/334,2022-04-12T22:54:08Z,2022-04-26T18:19:51Z,1,1,CLOSED
+iot-cardboard-js,Add automated localization for new keys,https://github.com/microsoft/iot-cardboard-js/pull/331,2022-04-11T19:21:52Z,2022-04-25T20:40:42Z,10,94,MERGED
+iot-cardboard-js,Twin alias in behavior,https://github.com/microsoft/iot-cardboard-js/pull/316,2022-04-01T23:10:20Z,2022-04-11T21:27:25Z,47,37,MERGED
+iot-cardboard-js,Bug fix: Fix resolution of alias twin ids,https://github.com/microsoft/iot-cardboard-js/pull/505,2022-05-31T21:31:34Z,2022-06-01T23:21:39Z,1,1,CLOSED
+iot-cardboard-js,Coryboyle/environment map cleanup,https://github.com/microsoft/iot-cardboard-js/pull/504,2022-05-31T17:51:48Z,2022-06-03T15:39:15Z,1,5,MERGED
+iot-cardboard-js,Icon picker focus state fix,https://github.com/microsoft/iot-cardboard-js/pull/498,2022-05-26T00:07:02Z,2022-06-01T16:56:49Z,2,2,MERGED
+iot-cardboard-js,Added No container and No ADT error cases to Scene page,https://github.com/microsoft/iot-cardboard-js/pull/489,2022-05-23T23:23:41Z,2022-05-24T01:17:12Z,2,9,MERGED
+iot-cardboard-js,Update styles on scene list & no data message for scenes,https://github.com/microsoft/iot-cardboard-js/pull/488,2022-05-23T23:00:43Z,2022-05-23T23:23:08Z,1,3,MERGED
+iot-cardboard-js,Added default theme environment reflections,https://github.com/microsoft/iot-cardboard-js/pull/483,2022-05-23T21:21:46Z,2022-05-24T01:14:33Z,1,2,MERGED
+iot-cardboard-js,Value widget: support for 0 & unset twin values,https://github.com/microsoft/iot-cardboard-js/pull/482,2022-05-23T20:12:18Z,2022-05-23T22:23:51Z,4,2,MERGED
+iot-cardboard-js,Update to layers dropdown behavior and update resource strings & sort behaviors,https://github.com/microsoft/iot-cardboard-js/pull/474,2022-05-20T21:26:57Z,2022-05-23T23:30:24Z,1,32,MERGED
+iot-cardboard-js,Load all models is not appropriately handling continuation token,https://github.com/microsoft/iot-cardboard-js/pull/455,2022-05-19T02:00:13Z,2022-05-19T16:58:06Z,2,1,MERGED
+iot-cardboard-js,First run experience & concepts modal,https://github.com/microsoft/iot-cardboard-js/pull/452,2022-05-18T20:56:26Z,2022-05-19T00:15:34Z,15,41,MERGED
+iot-cardboard-js,Content updates,https://github.com/microsoft/iot-cardboard-js/pull/445,2022-05-17T22:33:58Z,2022-05-20T01:32:45Z,5,63,MERGED
+iot-cardboard-js,Move viewer theme state management to context,https://github.com/microsoft/iot-cardboard-js/pull/444,2022-05-17T19:28:37Z,2022-06-08T16:39:19Z,3,59,MERGED
+iot-cardboard-js,Fix for component property nesting,https://github.com/microsoft/iot-cardboard-js/pull/432,2022-05-13T18:53:31Z,2022-05-13T20:06:41Z,1,1,MERGED
+iot-cardboard-js,Moved status bar position in behavior modals,https://github.com/microsoft/iot-cardboard-js/pull/428,2022-05-12T21:26:04Z,2022-05-17T01:04:40Z,3,5,MERGED
+iot-cardboard-js,Combobox bugfix for onchange logic between value and option,https://github.com/microsoft/iot-cardboard-js/pull/423,2022-05-11T20:31:53Z,2022-05-12T16:47:45Z,1,2,MERGED
+iot-cardboard-js,Align header button styles in viewer,https://github.com/microsoft/iot-cardboard-js/pull/414,2022-05-11T00:29:22Z,2022-05-13T23:50:41Z,1,38,MERGED
+iot-cardboard-js,Modelled property migration ,https://github.com/microsoft/iot-cardboard-js/pull/413,2022-05-10T19:39:32Z,2022-05-11T00:07:56Z,14,87,MERGED
+iot-cardboard-js,Scene Dialog ,https://github.com/microsoft/iot-cardboard-js/pull/412,2022-05-10T18:21:19Z,2022-05-18T19:06:52Z,25,18,MERGED
+iot-cardboard-js,Expose deeplink context for consumers to get notified when deeplinks are generated,https://github.com/microsoft/iot-cardboard-js/pull/411,2022-05-10T18:15:16Z,2022-05-11T00:56:39Z,5,15,MERGED
+iot-cardboard-js,Update component templates to use styled format,https://github.com/microsoft/iot-cardboard-js/pull/410,2022-05-10T16:42:38Z,2022-05-10T17:53:39Z,3,4,MERGED
+iot-cardboard-js,Add deeplink button to scene view page,https://github.com/microsoft/iot-cardboard-js/pull/405,2022-05-09T21:14:41Z,2022-05-10T17:39:15Z,3,6,MERGED
+iot-cardboard-js,Updates to data pusher,https://github.com/microsoft/iot-cardboard-js/pull/404,2022-05-09T18:57:00Z,2022-05-10T01:28:02Z,3,7,MERGED
+iot-cardboard-js,Add new Deeplink control to copy links on the viewer,https://github.com/microsoft/iot-cardboard-js/pull/396,2022-05-05T18:19:50Z,2022-05-09T20:36:22Z,3,91,MERGED
+iot-cardboard-js,Type aware value widget,https://github.com/microsoft/iot-cardboard-js/pull/393,2022-05-05T01:29:33Z,2022-05-06T19:03:09Z,29,25,MERGED
+iot-cardboard-js,Modelled Property Builder,https://github.com/microsoft/iot-cardboard-js/pull/386,2022-05-03T21:54:46Z,2022-05-09T23:23:04Z,9,51,MERGED
+iot-cardboard-js,Element form should prompt anytime you navigate away and there are changes pending,https://github.com/microsoft/iot-cardboard-js/pull/597,2022-06-27T19:59:37Z,2022-08-02T16:28:23Z,14,24,MERGED
+iot-cardboard-js,ResourcePicker component and changes in EnvironmentPicker,https://github.com/microsoft/iot-cardboard-js/pull/585,2022-06-23T05:06:03Z,2022-08-16T19:13:31Z,94,51,MERGED
+iot-cardboard-js,Test for cardboard list callout,https://github.com/microsoft/iot-cardboard-js/pull/562,2022-06-15T17:08:36Z,2022-06-15T21:49:36Z,5,2,MERGED
+iot-cardboard-js,Encapsulate theme object colors inside the context instead of forcing consumers to deal with it,https://github.com/microsoft/iot-cardboard-js/pull/548,2022-06-09T21:11:54Z,2022-06-15T17:55:15Z,4,12,MERGED
+iot-cardboard-js,Bug fix: Fix the materials on default mode,https://github.com/microsoft/iot-cardboard-js/pull/547,2022-06-09T20:45:25Z,2022-06-10T19:31:33Z,1,5,MERGED
+iot-cardboard-js,Auto fill new twin alias or behavior name with searched text in callout,https://github.com/microsoft/iot-cardboard-js/pull/544,2022-06-09T17:16:21Z,2022-06-13T19:15:04Z,10,14,MERGED
+iot-cardboard-js,"Left panel padding, borders & overflow consistency",https://github.com/microsoft/iot-cardboard-js/pull/541,2022-06-08T19:05:59Z,2022-06-13T20:21:52Z,19,23,MERGED
+iot-cardboard-js,fix: Behavior form should prompt anytime you navigate away and there are changes pending,https://github.com/microsoft/iot-cardboard-js/pull/537,2022-06-08T16:55:50Z,2022-06-24T18:06:41Z,12,73,MERGED
+iot-cardboard-js,Scene View better handling for not loading 3D file (including CORS),https://github.com/microsoft/iot-cardboard-js/pull/521,2022-06-03T01:57:16Z,2022-06-16T23:29:54Z,15,22,MERGED
+iot-cardboard-js,Export generated 3D Scenes Studio schema types,https://github.com/microsoft/iot-cardboard-js/pull/519,2022-06-02T21:12:54Z,2022-06-07T16:57:19Z,2,1,MERGED
+iot-cardboard-js,Show elements without behaviors in the elements panel,https://github.com/microsoft/iot-cardboard-js/pull/511,2022-06-01T23:57:57Z,2022-06-03T17:09:12Z,2,14,MERGED
+iot-cardboard-js,"""clear status"" button",https://github.com/microsoft/iot-cardboard-js/pull/510,2022-06-01T23:32:30Z,2022-06-08T15:31:27Z,16,16,MERGED
+iot-cardboard-js,"""clear status"" button",https://github.com/microsoft/iot-cardboard-js/pull/509,2022-06-01T23:27:32Z,2022-06-01T23:30:45Z,0,5,CLOSED
+iot-cardboard-js,"""clear status"" button",https://github.com/microsoft/iot-cardboard-js/pull/508,2022-06-01T23:22:52Z,2022-06-01T23:24:04Z,0,5,CLOSED
+iot-cardboard-js,Fix: Aliased Twin properties,https://github.com/microsoft/iot-cardboard-js/pull/507,2022-06-01T22:26:46Z,2022-06-02T18:09:10Z,3,2,MERGED
+iot-cardboard-js,fixed error where PI could not read fields of properties that were enums,https://github.com/microsoft/iot-cardboard-js/pull/647,2022-07-22T18:18:15Z,2022-08-08T21:06:30Z,3,6,MERGED
+iot-cardboard-js,Logical State Icons for Alerts,https://github.com/microsoft/iot-cardboard-js/pull/630,2022-07-07T11:08:04Z,2022-07-14T19:57:08Z,1,3,MERGED
+iot-cardboard-js,Story demonstrating gizmo action using SceneView,https://github.com/microsoft/iot-cardboard-js/pull/623,2022-07-06T00:08:42Z,2022-08-02T20:19:57Z,21,16,MERGED
+iot-cardboard-js,Clear timeouts on unmount of scene refresh control,https://github.com/microsoft/iot-cardboard-js/pull/675,2022-08-12T17:29:26Z,2022-08-12T18:16:39Z,2,3,MERGED
+iot-cardboard-js,Transforms end to end proof of concept,https://github.com/microsoft/iot-cardboard-js/pull/671,2022-08-09T18:02:58Z,2022-08-16T20:20:28Z,16,91,CLOSED
+iot-cardboard-js,Add ability to configure a dynamic refresh rate to the builder experience,https://github.com/microsoft/iot-cardboard-js/pull/670,2022-08-09T17:46:32Z,2022-08-15T19:52:40Z,10,85,MERGED
+iot-cardboard-js,Fix package lock issues that broke the build,https://github.com/microsoft/iot-cardboard-js/pull/669,2022-08-09T17:15:23Z,2022-08-09T17:32:16Z,1,3,MERGED
+iot-cardboard-js,Add ability to view dynamic refresh frequency for a scene,https://github.com/microsoft/iot-cardboard-js/pull/665,2022-08-03T20:49:56Z,2022-08-09T17:48:56Z,21,34,MERGED
+iot-cardboard-js,Story demonstrating transform using SceneView,https://github.com/microsoft/iot-cardboard-js/pull/664,2022-08-03T16:22:20Z,2022-08-08T21:10:34Z,3,24,MERGED
+iot-cardboard-js,Advanced search boilerplate,https://github.com/microsoft/iot-cardboard-js/pull/663,2022-08-02T23:18:27Z,2022-08-03T18:53:55Z,4,2,MERGED
+iot-cardboard-js,tooltip hover fix,https://github.com/microsoft/iot-cardboard-js/pull/660,2022-08-02T18:20:35Z,2022-08-03T18:49:01Z,3,4,MERGED
+iot-cardboard-js,Creating a generic modal component,https://github.com/microsoft/iot-cardboard-js/pull/707,2022-09-30T16:26:16Z,2022-09-30T21:32:50Z,16,11,MERGED
+iot-cardboard-js,Data History Spike - migrate local storage to new keys for environment data,https://github.com/microsoft/iot-cardboard-js/pull/706,2022-09-26T22:55:02Z,2022-10-04T20:03:48Z,28,28,MERGED
+iot-cardboard-js,Bug Fix: Advanced Search - Fix query builder property search to search the right property,https://github.com/microsoft/iot-cardboard-js/pull/705,2022-09-23T23:46:02Z,2022-09-27T19:28:38Z,5,10,MERGED
+iot-cardboard-js,Bug Fix: Overflow tabs cause react error,https://github.com/microsoft/iot-cardboard-js/pull/704,2022-09-22T21:04:54Z,2022-09-23T16:25:38Z,1,3,MERGED
+iot-cardboard-js,OAT: Refactoring the header components,https://github.com/microsoft/iot-cardboard-js/pull/701,2022-09-14T23:27:36Z,2022-10-07T16:42:13Z,0,89,MERGED
+iot-cardboard-js,Fix null reference in environment picker,https://github.com/microsoft/iot-cardboard-js/pull/697,2022-09-13T19:31:56Z,2022-09-13T19:46:46Z,1,1,MERGED
+iot-cardboard-js,Integrating Advanced search to Element form,https://github.com/microsoft/iot-cardboard-js/pull/696,2022-09-12T22:21:01Z,2022-09-14T18:35:07Z,11,7,MERGED
+iot-cardboard-js,Adding auto complete functionality to the Advanced Search control,https://github.com/microsoft/iot-cardboard-js/pull/694,2022-09-09T19:03:17Z,2022-09-09T19:14:40Z,2,73,MERGED
+iot-cardboard-js,Adding auto complete functionality to the Advanced Search control,https://github.com/microsoft/iot-cardboard-js/pull/693,2022-09-06T23:56:57Z,2022-09-09T18:25:59Z,14,44,MERGED
+iot-cardboard-js,OAT: styling the model list to use the custom color palette,https://github.com/microsoft/iot-cardboard-js/pull/747,2022-10-28T21:55:03Z,2022-11-01T16:35:37Z,0,14,MERGED
+iot-cardboard-js,[Data history]: Fixed data grouping for large data set,https://github.com/microsoft/iot-cardboard-js/pull/742,2022-10-27T19:09:08Z,2022-10-27T20:09:00Z,3,3,MERGED
+iot-cardboard-js,OAT: Restyling Models list,https://github.com/microsoft/iot-cardboard-js/pull/739,2022-10-26T19:19:33Z,2022-10-27T22:45:42Z,0,37,MERGED
+iot-cardboard-js,CardboardList: Add styling for selected list items,https://github.com/microsoft/iot-cardboard-js/pull/738,2022-10-26T19:14:30Z,2022-10-26T20:23:29Z,2,2,MERGED
+iot-cardboard-js,[Data history]: Changed schema config to store adx connection info separately,https://github.com/microsoft/iot-cardboard-js/pull/733,2022-10-21T23:15:01Z,2022-10-26T17:33:41Z,2,1,MERGED
+iot-cardboard-js,[Data History]: Title changes in widget and quick time dropdown,https://github.com/microsoft/iot-cardboard-js/pull/732,2022-10-21T21:26:38Z,2022-10-26T22:29:32Z,12,17,MERGED
+iot-cardboard-js,OAT: Refactor graph controls,https://github.com/microsoft/iot-cardboard-js/pull/731,2022-10-20T21:08:00Z,2022-10-25T18:29:24Z,0,13,MERGED
+iot-cardboard-js,OAT: Refactor legend & auto layout to separate controls,https://github.com/microsoft/iot-cardboard-js/pull/729,2022-10-20T00:01:55Z,2022-10-20T21:20:43Z,0,4,MERGED
+iot-cardboard-js,CardboardList: Add custom icon support to cardboard list,https://github.com/microsoft/iot-cardboard-js/pull/728,2022-10-19T20:02:23Z,2022-10-20T21:48:36Z,3,3,MERGED
+iot-cardboard-js,[Data history] Data history widget viewer,https://github.com/microsoft/iot-cardboard-js/pull/723,2022-10-17T21:09:12Z,2022-10-20T20:05:08Z,42,113,MERGED
+iot-cardboard-js,"Data history widget builder (only authoring experience, not including the view model)",https://github.com/microsoft/iot-cardboard-js/pull/716,2022-10-10T17:40:27Z,2022-10-13T20:25:08Z,36,74,MERGED
+iot-cardboard-js,OAT: Move Add Model from viewer to command bar,https://github.com/microsoft/iot-cardboard-js/pull/715,2022-10-07T18:29:56Z,2022-10-12T17:31:22Z,1,119,MERGED
+iot-cardboard-js,OAT: Handle long file names,https://github.com/microsoft/iot-cardboard-js/pull/713,2022-10-06T23:03:46Z,2022-10-11T18:21:25Z,1,107,MERGED
+iot-cardboard-js,Fetching and Storing (in state) ADX Connection information of the Selected ADT Instance,https://github.com/microsoft/iot-cardboard-js/pull/709,2022-10-04T21:20:44Z,2022-10-05T17:20:27Z,16,43,MERGED
+iot-cardboard-js,OAT: Fix importing models logic,https://github.com/microsoft/iot-cardboard-js/pull/788,2022-11-29T20:31:50Z,2022-11-29T22:35:45Z,0,6,MERGED
+iot-cardboard-js,[React-select for ResourcePicker]: Component refactors,https://github.com/microsoft/iot-cardboard-js/pull/784,2022-11-18T23:28:53Z,2022-12-01T00:02:13Z,15,18,MERGED
+iot-cardboard-js,OAT: refactor property inspector modal to conform to new header and remove extra fields,https://github.com/microsoft/iot-cardboard-js/pull/783,2022-11-17T20:42:20Z,2022-11-30T00:37:15Z,0,51,MERGED
+iot-cardboard-js,OAT: Select untargeted relationship when node is clicked.,https://github.com/microsoft/iot-cardboard-js/pull/782,2022-11-17T19:01:09Z,2022-11-17T19:08:55Z,0,3,MERGED
+iot-cardboard-js,[Azure Resource Graph]: Changes in AzureManamentAdapter and EnvironmentPicker,https://github.com/microsoft/iot-cardboard-js/pull/775,2022-11-12T01:50:46Z,2022-11-15T18:31:03Z,9,11,MERGED
+iot-cardboard-js,Create flighted Visual rule viewer experience,https://github.com/microsoft/iot-cardboard-js/pull/774,2022-11-11T01:25:38Z,2022-11-16T20:59:15Z,44,9,MERGED
+iot-cardboard-js,Array support,https://github.com/microsoft/iot-cardboard-js/pull/773,2022-11-10T19:36:09Z,2022-12-12T17:44:11Z,11,22,MERGED
+iot-cardboard-js,Added string to list of allowed property schemas in timeseries builder ,https://github.com/microsoft/iot-cardboard-js/pull/771,2022-11-09T18:08:47Z,2022-11-14T18:56:42Z,7,10,MERGED
+iot-cardboard-js,added string to list of allowed property schemas in timeseries builder,https://github.com/microsoft/iot-cardboard-js/pull/768,2022-11-08T11:39:13Z,2022-11-09T18:19:34Z,7,6,CLOSED
+iot-cardboard-js,Array support,https://github.com/microsoft/iot-cardboard-js/pull/766,2022-11-07T21:19:27Z,2022-11-10T18:09:06Z,0,12,CLOSED
+iot-cardboard-js,[Data History]: Added telemetry logging,https://github.com/microsoft/iot-cardboard-js/pull/765,2022-11-04T22:28:54Z,2022-11-08T18:29:49Z,1,1,MERGED
+iot-cardboard-js,OAT: Refactoring property editor,https://github.com/microsoft/iot-cardboard-js/pull/764,2022-11-04T20:38:24Z,2022-11-15T00:09:14Z,0,34,MERGED
+iot-cardboard-js,[Data history]: Error handling,https://github.com/microsoft/iot-cardboard-js/pull/763,2022-11-03T22:43:00Z,2022-11-08T18:38:52Z,15,33,MERGED
+iot-cardboard-js,OAT: Restyle property editor,https://github.com/microsoft/iot-cardboard-js/pull/758,2022-11-02T16:57:48Z,2022-11-02T20:41:41Z,0,6,MERGED
+iot-cardboard-js,Fix loc name in form subtitle,https://github.com/microsoft/iot-cardboard-js/pull/753,2022-11-01T19:22:09Z,2022-11-07T18:52:59Z,1,1,MERGED
+iot-cardboard-js,Runtime V2 to check for visual rules instead of badges/alerts,https://github.com/microsoft/iot-cardboard-js/pull/752,2022-11-01T19:09:21Z,2022-11-11T00:06:27Z,11,10,MERGED
+iot-cardboard-js,[Data History Explorer]: Viewer component (with only Chart tab),https://github.com/microsoft/iot-cardboard-js/pull/808,2022-12-17T09:04:45Z,2023-01-10T23:18:40Z,25,34,MERGED
+iot-cardboard-js,[Data History Explorer]: Builder components,https://github.com/microsoft/iot-cardboard-js/pull/807,2022-12-17T08:42:47Z,2023-01-05T22:46:58Z,36,14,MERGED
+iot-cardboard-js,[Resource Picker]: Reverted back to react-select allow input edit on focus and bug fixes,https://github.com/microsoft/iot-cardboard-js/pull/806,2022-12-15T01:27:58Z,2023-01-03T20:51:01Z,2,5,MERGED
+iot-cardboard-js,Add console.warn for missing user keys,https://github.com/microsoft/iot-cardboard-js/pull/804,2022-12-13T16:37:45Z,2022-12-16T17:59:12Z,1,1,MERGED
+iot-cardboard-js,colorPicker theming,https://github.com/microsoft/iot-cardboard-js/pull/803,2022-12-12T23:28:23Z,2023-01-03T20:52:51Z,5,3,MERGED
+iot-cardboard-js,Ocean theme seems resolved. Dark has a regression,https://github.com/microsoft/iot-cardboard-js/pull/802,2022-12-12T19:25:52Z,2022-12-16T17:58:50Z,3,1,MERGED
+iot-cardboard-js,OAT: Refactor property list,https://github.com/microsoft/iot-cardboard-js/pull/801,2022-12-12T18:07:08Z,2023-01-05T20:35:08Z,0,57,MERGED
+iot-cardboard-js,[Environment Picker]: Null check for container url and removed tenant ID from ARG query,https://github.com/microsoft/iot-cardboard-js/pull/796,2022-12-07T00:43:28Z,2022-12-13T21:04:07Z,3,16,MERGED
+iot-cardboard-js,[EnvironmentPicker]: Fixed error message for catastrophic ARM calls and enabled save button,https://github.com/microsoft/iot-cardboard-js/pull/794,2022-12-06T21:28:49Z,2022-12-06T23:49:54Z,6,6,MERGED
+iot-cardboard-js,OAT: Rebuild property list components,https://github.com/microsoft/iot-cardboard-js/pull/792,2022-12-05T17:46:20Z,2022-12-06T23:22:38Z,0,25,MERGED
+iot-cardboard-js,[Environment Picker] Fixed error message disappearing and made filter case insensitive,https://github.com/microsoft/iot-cardboard-js/pull/791,2022-12-03T00:29:44Z,2022-12-05T22:02:45Z,1,1,MERGED
+iot-cardboard-js,OAT: Pull request comments,https://github.com/microsoft/iot-cardboard-js/pull/844,2023-01-30T18:18:47Z,2023-01-30T21:08:25Z,0,9,MERGED
+iot-cardboard-js,[Data History Explorer]: Error Handling,https://github.com/microsoft/iot-cardboard-js/pull/842,2023-01-27T19:24:27Z,2023-02-06T18:39:34Z,19,102,MERGED
+iot-cardboard-js,[Data History Explorer]: Telemetry and Logging,https://github.com/microsoft/iot-cardboard-js/pull/840,2023-01-25T18:35:45Z,2023-01-31T19:30:07Z,3,55,MERGED
+iot-cardboard-js,[Data History Explorer]: Table tab,https://github.com/microsoft/iot-cardboard-js/pull/839,2023-01-20T18:46:28Z,2023-01-25T23:58:09Z,4,52,MERGED
+iot-cardboard-js,OAT: Add ellipsing to long ids and names,https://github.com/microsoft/iot-cardboard-js/pull/838,2023-01-19T01:18:57Z,2023-01-19T01:23:01Z,0,3,MERGED
+iot-cardboard-js,OAT: Revamp property editor styling and expand in JSON mode,https://github.com/microsoft/iot-cardboard-js/pull/837,2023-01-18T22:05:33Z,2023-01-19T00:03:12Z,0,29,MERGED
+iot-cardboard-js,[Data History Explorer]: Revised the TimeSeriesViewer and added internal components,https://github.com/microsoft/iot-cardboard-js/pull/835,2023-01-17T23:21:09Z,2023-01-24T17:40:23Z,14,6,MERGED
+iot-cardboard-js,Iteratively remove models when they fail the parser,https://github.com/microsoft/iot-cardboard-js/pull/832,2023-01-14T00:51:52Z,2023-01-17T19:58:10Z,4,6,MERGED
+iot-cardboard-js,OAT: Fix bug with switching causing crash,https://github.com/microsoft/iot-cardboard-js/pull/831,2023-01-13T23:23:13Z,2023-01-14T01:22:59Z,0,1,MERGED
+iot-cardboard-js,OAT: Polishing graph experience,https://github.com/microsoft/iot-cardboard-js/pull/824,2023-01-12T18:35:27Z,2023-01-12T19:05:31Z,0,3,MERGED
+iot-cardboard-js,OAT: Integrating Ontology Authoring rewrite into main branch,https://github.com/microsoft/iot-cardboard-js/pull/823,2023-01-12T00:13:12Z,2023-01-31T19:57:44Z,58,81,MERGED
+iot-cardboard-js,OAT: Refactor rendering of multiple relationships between 2 nodes to support stacking of references of the same type,https://github.com/microsoft/iot-cardboard-js/pull/822,2023-01-11T21:57:39Z,2023-01-12T00:03:56Z,0,24,MERGED
+iot-cardboard-js,OAT: Ability to draw self referencing relationships,https://github.com/microsoft/iot-cardboard-js/pull/818,2023-01-06T23:13:28Z,2023-01-10T22:35:10Z,0,12,MERGED
+iot-cardboard-js,OAT: Delete relationship,https://github.com/microsoft/iot-cardboard-js/pull/817,2023-01-06T18:05:13Z,2023-01-06T23:00:46Z,1,7,MERGED
+iot-cardboard-js,[Environment Picker]: Hiding ARG and permission related error messages,https://github.com/microsoft/iot-cardboard-js/pull/815,2023-01-05T21:45:26Z,2023-01-06T21:08:26Z,1,6,MERGED
+iot-cardboard-js,[React-select]: Styling fixes,https://github.com/microsoft/iot-cardboard-js/pull/813,2023-01-05T18:33:40Z,2023-01-06T16:58:16Z,1,2,MERGED
+iot-cardboard-js,mockData arg fix for Mock Adapter,https://github.com/microsoft/iot-cardboard-js/pull/892,2023-02-24T17:50:51Z,2023-02-27T21:46:43Z,1,6,MERGED
+iot-cardboard-js,[Data History Explorer]: fix mock data,https://github.com/microsoft/iot-cardboard-js/pull/891,2023-02-23T00:02:52Z,2023-02-23T22:32:02Z,2,1,MERGED
+iot-cardboard-js,ESLint: Add ESLint console rule & fix warnings in PRs,https://github.com/microsoft/iot-cardboard-js/pull/890,2023-02-22T22:50:09Z,2023-02-23T22:25:42Z,1,1,MERGED
+iot-cardboard-js,fix: OAT: block adding self-referencing relationships for Extend or Components,https://github.com/microsoft/iot-cardboard-js/pull/885,2023-02-22T00:05:52Z,2023-02-23T23:20:18Z,5,26,MERGED
+iot-cardboard-js,fix: OAT: Handle targets that are arrays,https://github.com/microsoft/iot-cardboard-js/pull/884,2023-02-21T23:55:10Z,2023-02-22T20:30:35Z,2,21,MERGED
+iot-cardboard-js,fix: OAT: add custom validation for renaming properties to avoid duplicate property names,https://github.com/microsoft/iot-cardboard-js/pull/882,2023-02-21T17:49:16Z,2023-02-22T17:07:52Z,7,18,MERGED
+iot-cardboard-js,feat: Upgrade to ESLint 8 & add custom rules plugin,https://github.com/microsoft/iot-cardboard-js/pull/880,2023-02-17T22:05:40Z,2023-02-21T22:42:27Z,2,2,MERGED
+iot-cardboard-js,Montgomp/bi widget,https://github.com/microsoft/iot-cardboard-js/pull/877,2023-02-16T19:11:54Z,2023-02-28T18:38:02Z,23,14,MERGED
+iot-cardboard-js,[Data History Explorer]: Final pass,https://github.com/microsoft/iot-cardboard-js/pull/876,2023-02-16T01:43:56Z,2023-02-22T01:08:04Z,16,123,MERGED
+iot-cardboard-js,fix: OAT: Small cleanup items,https://github.com/microsoft/iot-cardboard-js/pull/874,2023-02-15T23:56:21Z,2023-02-16T23:49:13Z,1,10,MERGED
+iot-cardboard-js,OAT: Limit reference count to 200 to mitigate perf issues,https://github.com/microsoft/iot-cardboard-js/pull/872,2023-02-15T00:05:16Z,2023-02-15T00:31:41Z,1,16,MERGED
+iot-cardboard-js,OAT: Content pass for Private Preview,https://github.com/microsoft/iot-cardboard-js/pull/871,2023-02-14T21:06:17Z,2023-02-14T22:55:24Z,1,57,MERGED
+iot-cardboard-js,OAT: Enable editing of Maps (previously missed),https://github.com/microsoft/iot-cardboard-js/pull/870,2023-02-14T20:39:09Z,2023-02-14T22:42:37Z,6,39,MERGED
+iot-cardboard-js,OAT: Add max model count limit,https://github.com/microsoft/iot-cardboard-js/pull/869,2023-02-14T19:11:09Z,2023-02-14T22:30:41Z,1,34,MERGED
+iot-cardboard-js,OAT: Add auto layout on import flow,https://github.com/microsoft/iot-cardboard-js/pull/868,2023-02-14T18:33:13Z,2023-02-14T22:00:21Z,3,25,MERGED
+iot-cardboard-js,OAT: Add toggle for default version number,https://github.com/microsoft/iot-cardboard-js/pull/867,2023-02-13T22:36:54Z,2023-02-13T23:49:25Z,4,17,MERGED
+iot-cardboard-js,OAT: Update relationship multiplicity logic by version,https://github.com/microsoft/iot-cardboard-js/pull/865,2023-02-10T19:58:49Z,2023-02-10T23:29:14Z,6,93,MERGED
+iot-cardboard-js,OAT: Add upgrade button for DTDL v3,https://github.com/microsoft/iot-cardboard-js/pull/864,2023-02-10T18:16:51Z,2023-02-10T23:00:26Z,8,48,MERGED
+iot-cardboard-js,OAT: Disable adding arrays for V2 models,https://github.com/microsoft/iot-cardboard-js/pull/863,2023-02-09T17:45:45Z,2023-02-10T22:28:12Z,1,26,MERGED
+iot-cardboard-js,OAT: Add version picker to details modal,https://github.com/microsoft/iot-cardboard-js/pull/862,2023-02-08T23:56:43Z,2023-02-09T23:07:24Z,2,11,MERGED
+iot-cardboard-js,OAT: Add preview badge for V3 models,https://github.com/microsoft/iot-cardboard-js/pull/861,2023-02-08T23:24:28Z,2023-02-09T19:59:15Z,1,5,MERGED
+iot-cardboard-js,Added CORS enabled for ADT adapter,https://github.com/microsoft/iot-cardboard-js/pull/860,2023-02-07T22:26:42Z,2023-02-10T00:12:23Z,4,7,MERGED
+iot-cardboard-js,OAT: Allow uploads of non-json files & fixing co-type handling of relationships,https://github.com/microsoft/iot-cardboard-js/pull/859,2023-02-07T19:47:01Z,2023-02-08T22:11:15Z,2,14,MERGED
+iot-cardboard-js,[Data History Explorer]: Revised data fetching logic and components,https://github.com/microsoft/iot-cardboard-js/pull/858,2023-02-07T08:14:32Z,2023-02-08T17:49:16Z,14,123,MERGED
+iot-cardboard-js,OAT: Various bug fixes for the graph nodes & property setting,https://github.com/microsoft/iot-cardboard-js/pull/857,2023-02-06T23:14:19Z,2023-02-07T19:45:08Z,2,40,MERGED
+iot-cardboard-js,OAT: Strip v3 features on import,https://github.com/microsoft/iot-cardboard-js/pull/854,2023-02-03T22:03:49Z,2023-02-06T23:10:30Z,1,31,MERGED
+iot-cardboard-js,OAT: Bug bash issues #3,https://github.com/microsoft/iot-cardboard-js/pull/852,2023-02-01T23:31:02Z,2023-02-02T19:35:00Z,1,59,MERGED
+iot-cardboard-js,OAT: Add no data experience for models list,https://github.com/microsoft/iot-cardboard-js/pull/851,2023-02-01T21:57:25Z,2023-02-02T18:20:25Z,1,43,MERGED
+iot-cardboard-js,[Data History Explorer]: Property Inspector Integration,https://github.com/microsoft/iot-cardboard-js/pull/850,2023-02-01T21:49:24Z,2023-02-13T22:25:46Z,6,99,MERGED
+iot-cardboard-js,OAT: Bug bash part 2 - regex for model ids & migrate namespace into path,https://github.com/microsoft/iot-cardboard-js/pull/849,2023-02-01T18:38:06Z,2023-02-02T17:41:18Z,1,26,MERGED
+iot-cardboard-js,[Legion: Merge Steps 1-3]: Feeding cooked twin graph into steps,https://github.com/microsoft/iot-cardboard-js/pull/917,2023-03-31T21:41:15Z,2023-04-01T01:04:05Z,0,38,CLOSED
+iot-cardboard-js,[Legion: Data Pusher]: Cook,https://github.com/microsoft/iot-cardboard-js/pull/916,2023-03-31T07:08:59Z,2023-03-31T20:50:33Z,1,27,MERGED
+iot-cardboard-js,[Legion] Model and Twin verification step,https://github.com/microsoft/iot-cardboard-js/pull/915,2023-03-31T04:02:50Z,2023-04-03T19:11:47Z,0,25,MERGED
+iot-cardboard-js,[Legion: Data Pusher]: Added CRUD methods to ADXAdapter and basic ingestion,https://github.com/microsoft/iot-cardboard-js/pull/914,2023-03-29T23:47:32Z,2023-03-31T17:45:08Z,0,23,MERGED
+iot-cardboard-js,Adding graph visualizer component,https://github.com/microsoft/iot-cardboard-js/pull/913,2023-03-29T20:26:01Z,2023-04-04T22:54:18Z,15,38,MERGED
+iot-cardboard-js,[Legion: Adapters and Data Pusher]: Initial adapter implementations and basic database and table fetching in component,https://github.com/microsoft/iot-cardboard-js/pull/911,2023-03-24T16:43:27Z,2023-03-24T23:49:26Z,3,6,MERGED
+iot-cardboard-js,OAT: Update loc string for hover text,https://github.com/microsoft/iot-cardboard-js/pull/897,2023-03-08T19:09:09Z,2023-03-08T19:13:36Z,1,5,MERGED
+iot-cardboard-js,[Data History Explorer]: Remove feature flags,https://github.com/microsoft/iot-cardboard-js/pull/896,2023-03-02T17:56:02Z,2023-03-02T18:37:08Z,1,2,MERGED
+iot-cardboard-js,OAT: Give maps custom icon and remove menu,https://github.com/microsoft/iot-cardboard-js/pull/895,2023-03-01T19:31:46Z,2023-03-01T22:19:51Z,3,5,MERGED
+iot-cardboard-js,Legion: Types tab,https://github.com/microsoft/iot-cardboard-js/pull/940,2023-04-27T18:32:40Z,2023-04-28T19:54:51Z,15,6,MERGED
+iot-cardboard-js,Legion/montgomp/extension client,https://github.com/microsoft/iot-cardboard-js/pull/939,2023-04-25T22:18:35Z,2023-04-26T21:08:40Z,2,4,MERGED
+iot-cardboard-js,[Private Links]: Bugfix for null check if ARG fails,https://github.com/microsoft/iot-cardboard-js/pull/938,2023-04-20T19:53:01Z,2023-04-20T20:11:58Z,1,1,MERGED
+iot-cardboard-js,Modify step: Entities list and style and other Wizard changes,https://github.com/microsoft/iot-cardboard-js/pull/937,2023-04-20T00:04:38Z,2023-04-24T18:58:11Z,8,12,MERGED
+iot-cardboard-js,Create wrapper on react-select with some defaults,https://github.com/microsoft/iot-cardboard-js/pull/935,2023-04-18T23:32:33Z,2023-04-19T18:32:22Z,0,3,MERGED
+iot-cardboard-js,[Legion: Add data source] Refactored cluster and database pickers with useContextAdapter hook,https://github.com/microsoft/iot-cardboard-js/pull/934,2023-04-18T19:41:59Z,2023-04-20T19:54:01Z,21,38,MERGED
+iot-cardboard-js,Legion: Create Parent modal for graph,https://github.com/microsoft/iot-cardboard-js/pull/933,2023-04-18T18:35:24Z,2023-05-01T20:55:24Z,6,103,MERGED
+iot-cardboard-js,Legion: Add hooks & types for accessing new data model,https://github.com/microsoft/iot-cardboard-js/pull/927,2023-04-13T23:30:51Z,2023-04-17T18:22:23Z,8,14,MERGED
+iot-cardboard-js,[Legion: Data pusher changes]: Merged create & ingest and revised,https://github.com/microsoft/iot-cardboard-js/pull/924,2023-04-11T00:09:33Z,2023-04-12T17:50:56Z,2,15,MERGED
+iot-cardboard-js,Adding store list data to local storage,https://github.com/microsoft/iot-cardboard-js/pull/922,2023-04-10T17:52:13Z,2023-04-11T21:11:12Z,5,18,MERGED
+iot-cardboard-js,Add app navigation context & app data context + add skeleton components for store list & flow picker,https://github.com/microsoft/iot-cardboard-js/pull/920,2023-04-07T15:50:33Z,2023-04-07T22:23:15Z,7,19,MERGED
+iot-cardboard-js,[Legion: Merge Steps 1-3]: Feeding cooked twin graph into steps ,https://github.com/microsoft/iot-cardboard-js/pull/918,2023-04-01T01:05:42Z,2023-04-03T19:27:03Z,3,37,MERGED
+iot-cardboard-js,Adding a TreeView component,https://github.com/microsoft/iot-cardboard-js/pull/950,2023-05-16T18:00:52Z,2023-05-17T20:16:54Z,2,10,MERGED
+iot-cardboard-js,[Legion App: Diagram] Added Diagram component and tab to Wizard,https://github.com/microsoft/iot-cardboard-js/pull/948,2023-05-15T18:05:26Z,2023-05-16T18:23:13Z,13,18,MERGED
+iot-cardboard-js,Entities tab with data grid,https://github.com/microsoft/iot-cardboard-js/pull/947,2023-05-10T15:03:55Z,2023-05-10T22:36:48Z,1,3,MERGED
+iot-cardboard-js,Fluent 9 in Cardboard,https://github.com/microsoft/iot-cardboard-js/pull/946,2023-05-03T19:22:42Z,2023-05-04T20:24:08Z,9,2,MERGED
+iot-cardboard-js,[Legion: DataSourceStep with PID] Revised source selection and removed old data context,https://github.com/microsoft/iot-cardboard-js/pull/944,2023-05-03T09:26:41Z,2023-05-04T16:20:57Z,16,20,MERGED
+iot-cardboard-js,Save step,https://github.com/microsoft/iot-cardboard-js/pull/943,2023-05-02T15:27:42Z,2023-05-03T16:32:45Z,8,9,MERGED
+iot-cardboard-js,"[Data History Widget]: Label fix in ""View"" mode",https://github.com/microsoft/iot-cardboard-js/pull/961,2023-07-31T20:19:20Z,2023-07-31T20:46:29Z,1,2,MERGED
+iot-cardboard-js,[Data History Widget]: ADX Cluster url validation fix,https://github.com/microsoft/iot-cardboard-js/pull/960,2023-07-19T08:14:58Z,2023-07-19T17:12:43Z,8,7,MERGED
+iot-cardboard-js,[SceneViewer - Globe]: Public resources link fix,https://github.com/microsoft/iot-cardboard-js/pull/958,2023-07-17T21:04:08Z,2023-07-17T21:14:54Z,1,1,MERGED
+iot-cardboard-js,feat: Build with node 16 + get off of node-sass,https://github.com/microsoft/iot-cardboard-js/pull/974,2024-01-11T20:13:23Z,2024-05-16T22:36:01Z,6,26,MERGED
+iot-cardboard-js,feat: Workaround to generate new release version,https://github.com/microsoft/iot-cardboard-js/pull/991,2024-07-30T22:08:34Z,2024-07-30T22:38:03Z,1,2,MERGED
+iot-cardboard-js,feat: Bump fast-xml-parser from 4.4.0 to 4.4.1,https://github.com/microsoft/iot-cardboard-js/pull/990,2024-07-30T20:19:24Z,2024-07-30T20:59:15Z,1,1,MERGED
+iot-cardboard-js,feat: Bump Axios to 0.28.0 and es5-ext to 0.10.63,https://github.com/microsoft/iot-cardboard-js/pull/988,2024-07-16T21:04:36Z,2024-07-29T23:55:33Z,6,4,MERGED

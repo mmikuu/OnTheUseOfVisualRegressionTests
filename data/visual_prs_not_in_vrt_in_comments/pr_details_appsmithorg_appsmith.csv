@@ -1,0 +1,928 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+appsmith,Improve action pane performance,https://github.com/appsmithorg/appsmith/pull/571,2020-09-18T04:11:52Z,2020-09-18T12:47:33Z,0,1,MERGED
+appsmith,Fix/api URL field twitch,https://github.com/appsmithorg/appsmith/pull/1495,2020-10-31T17:29:26Z,2020-11-03T06:51:03Z,6,6,MERGED
+appsmith,fix\Issues while performing actions on Home Page #749,https://github.com/appsmithorg/appsmith/pull/1291,2020-10-19T15:14:00Z,2020-10-19T16:16:28Z,4,2,MERGED
+appsmith,Add isFromInvite field to create_USER event,https://github.com/appsmithorg/appsmith/pull/1223,2020-10-15T11:30:25Z,2020-10-15T12:12:38Z,0,1,MERGED
+appsmith,Remove extraneous scrollbars in API action pane,https://github.com/appsmithorg/appsmith/pull/1222,2020-10-15T11:01:15Z,2020-10-16T06:58:35Z,0,1,MERGED
+appsmith,Fix/fix input size,https://github.com/appsmithorg/appsmith/pull/1207,2020-10-14T20:00:37Z,2020-10-16T06:26:04Z,3,13,MERGED
+appsmith,Added an WebExceptionHandler,https://github.com/appsmithorg/appsmith/pull/1178,2020-10-13T23:21:08Z,2020-10-15T12:17:14Z,5,1,MERGED
+appsmith,Fix blank scrollbars on Firefox,https://github.com/appsmithorg/appsmith/pull/1171,2020-10-13T11:35:49Z,2020-10-14T05:26:44Z,1,2,MERGED
+appsmith,Allow Download File Type dropdown to be deselected,https://github.com/appsmithorg/appsmith/pull/1169,2020-10-13T10:32:39Z,2020-11-05T10:17:19Z,5,1,MERGED
+appsmith,fix(autocomplete): show selection background on hover for autocomplete,https://github.com/appsmithorg/appsmith/pull/1134,2020-10-11T19:05:32Z,2020-10-12T08:19:30Z,0,1,MERGED
+appsmith,fix\Issues while performing actions on Home Page #749,https://github.com/appsmithorg/appsmith/pull/1072,2020-10-07T21:42:34Z,2020-10-19T15:13:06Z,7,124,CLOSED
+appsmith,Fix the hidden column list is not bounded and overflows in height (#981),https://github.com/appsmithorg/appsmith/pull/1024,2020-10-06T10:48:10Z,2020-10-08T10:03:35Z,0,1,MERGED
+appsmith,Fix Reset password not disabled after successful reset,https://github.com/appsmithorg/appsmith/pull/1021,2020-10-06T09:26:51Z,2020-10-07T07:17:23Z,1,1,MERGED
+appsmith,Fix -  Distorted UI when there are too many characters in email ID #584,https://github.com/appsmithorg/appsmith/pull/1010,2020-10-05T18:46:03Z,2020-10-08T09:49:17Z,3,4,MERGED
+appsmith,Move sql plugin to use R2DBC driver from JDBC driver,https://github.com/appsmithorg/appsmith/pull/1936,2020-11-26T23:37:56Z,2020-11-28T12:34:57Z,14,39,MERGED
+appsmith,Feature: Min and Max date inputs to restrict range in Datepicker Widget,https://github.com/appsmithorg/appsmith/pull/1865,2020-11-23T11:01:39Z,2020-11-27T08:48:39Z,6,21,MERGED
+appsmith,Change Sentry log 'environment' tag value.,https://github.com/appsmithorg/appsmith/pull/1789,2020-11-18T17:47:28Z,2020-11-19T11:59:49Z,1,7,MERGED
+appsmith,Fix mongodb datasource test.,https://github.com/appsmithorg/appsmith/pull/1783,2020-11-18T11:11:16Z,2020-11-18T11:25:40Z,0,1,MERGED
+appsmith,Fix/fix mongodb reactive,https://github.com/appsmithorg/appsmith/pull/1782,2020-11-18T11:00:01Z,2020-11-18T11:13:14Z,1,12,CLOSED
+appsmith,Add support for reactive streams with mongodb.,https://github.com/appsmithorg/appsmith/pull/1720,2020-11-13T08:56:03Z,2020-11-18T05:28:51Z,9,11,MERGED
+appsmith,Redshift plugin ,https://github.com/appsmithorg/appsmith/pull/2112,2020-12-10T05:25:20Z,2020-12-22T10:05:26Z,23,34,MERGED
+appsmith,mysql plugin - check if connection is stale before running query,https://github.com/appsmithorg/appsmith/pull/2080,2020-12-08T09:40:35Z,2020-12-08T15:33:32Z,4,13,MERGED
+appsmith,Fix: Overflow text in button widget,https://github.com/appsmithorg/appsmith/pull/2031,2020-12-04T11:29:27Z,2020-12-07T07:18:54Z,0,11,MERGED
+appsmith,Fix: alignment of response view in API Editor,https://github.com/appsmithorg/appsmith/pull/2002,2020-12-02T12:18:46Z,2020-12-08T09:24:37Z,1,10,MERGED
+appsmith,[Bug] Propagte mysql test datasource failure to UI.,https://github.com/appsmithorg/appsmith/pull/2001,2020-12-02T11:57:51Z,2020-12-02T12:23:39Z,0,3,MERGED
+appsmith,Fix: Modal component's children getting clipped,https://github.com/appsmithorg/appsmith/pull/1999,2020-12-02T09:45:48Z,2020-12-03T06:47:56Z,3,9,CLOSED
+appsmith,Add a TC to mysql plugin to test all regularly used data types in mysql.,https://github.com/appsmithorg/appsmith/pull/1994,2020-12-02T05:03:21Z,2020-12-02T06:19:42Z,0,1,MERGED
+appsmith,Encode req body in Rest API plugin,https://github.com/appsmithorg/appsmith/pull/1988,2020-12-01T17:58:51Z,2020-12-04T06:09:16Z,3,18,MERGED
+appsmith,Cache eslint results,https://github.com/appsmithorg/appsmith/pull/1987,2020-12-01T16:42:26Z,2020-12-02T06:27:57Z,0,1,MERGED
+appsmith,Fix: Fusioncharts Watermark,https://github.com/appsmithorg/appsmith/pull/1978,2020-12-01T07:15:36Z,2020-12-02T10:42:52Z,1,9,MERGED
+appsmith,s3 plugin,https://github.com/appsmithorg/appsmith/pull/2735,2021-01-27T04:04:17Z,2021-02-10T09:56:02Z,39,63,MERGED
+appsmith,OAuth2 auth code flow changes,https://github.com/appsmithorg/appsmith/pull/2709,2021-01-25T13:03:16Z,2021-02-11T13:43:22Z,4,1,CLOSED
+appsmith,Added client credentials grant type for OAuth2,https://github.com/appsmithorg/appsmith/pull/2649,2021-01-20T13:56:30Z,2021-02-11T12:28:07Z,17,45,MERGED
+appsmith,Modified error displayed to user on generic bad request,https://github.com/appsmithorg/appsmith/pull/2583,2021-01-14T18:12:52Z,2021-01-28T06:44:35Z,5,2,MERGED
+appsmith,Disable uninvited signups via environment variable,https://github.com/appsmithorg/appsmith/pull/2512,2021-01-11T08:19:14Z,2021-01-11T14:40:51Z,2,7,MERGED
+appsmith,Added Oauth2 functionality for REST APIs,https://github.com/appsmithorg/appsmith/pull/2509,2021-01-11T04:18:29Z,2021-01-15T11:11:14Z,3,5,MERGED
+appsmith,"Added type parameter for REST API plugin, and changes for no auth",https://github.com/appsmithorg/appsmith/pull/2438,2021-01-05T07:04:30Z,2021-01-05T12:29:51Z,3,3,MERGED
+appsmith,API for forking of public applications,https://github.com/appsmithorg/appsmith/pull/3221,2021-02-25T12:50:32Z,2021-03-03T10:15:48Z,2,6,MERGED
+appsmith,Transform Dynamodb response for easy consumption,https://github.com/appsmithorg/appsmith/pull/3050,2021-02-16T00:27:51Z,2021-02-23T10:54:06Z,4,19,MERGED
+appsmith,Fix order of roles in share modal,https://github.com/appsmithorg/appsmith/pull/3017,2021-02-12T09:31:16Z,2021-02-12T11:07:34Z,0,1,MERGED
+appsmith,"Add chart type: ""Custom FusionChart""",https://github.com/appsmithorg/appsmith/pull/2996,2021-02-11T21:52:37Z,2021-02-16T12:05:48Z,6,3,MERGED
+appsmith,Modify datatsource creation form for AmazonS3,https://github.com/appsmithorg/appsmith/pull/2979,2021-02-11T07:56:33Z,2021-02-11T09:05:11Z,0,1,MERGED
+appsmith,Wrap words in a toast message,https://github.com/appsmithorg/appsmith/pull/2832,2021-02-03T04:08:12Z,2021-02-03T05:13:56Z,0,2,MERGED
+appsmith,Feature: firestore plugin support for multiple where conditions,https://github.com/appsmithorg/appsmith/pull/3740,2021-03-29T10:52:50Z,2021-06-07T05:13:17Z,7,27,MERGED
+appsmith,change default value of s3 file data type on create file action,https://github.com/appsmithorg/appsmith/pull/3685,2021-03-24T06:19:31Z,2021-03-24T09:32:13Z,1,3,MERGED
+appsmith,fix: script to replace local ip in case of apple m1,https://github.com/appsmithorg/appsmith/pull/3579,2021-03-16T09:46:05Z,2021-05-18T13:06:54Z,4,1,CLOSED
+appsmith,fix: script to replace local ip in case of apple m1,https://github.com/appsmithorg/appsmith/pull/3564,2021-03-16T03:29:07Z,2021-03-16T09:44:14Z,1,1,CLOSED
+appsmith,use dynamic input text in plugin editor forms,https://github.com/appsmithorg/appsmith/pull/3470,2021-03-10T05:34:45Z,2021-03-10T06:59:19Z,2,1,MERGED
+appsmith,Render placeholder text in the Key Value form input,https://github.com/appsmithorg/appsmith/pull/3452,2021-03-09T08:16:34Z,2021-03-09T12:05:30Z,2,1,MERGED
+appsmith,Gracefully handle the timeout overflow / out of expected range errors,https://github.com/appsmithorg/appsmith/pull/3411,2021-03-05T04:58:30Z,2021-03-05T11:39:30Z,6,10,MERGED
+appsmith,remove endpoint host and port fields from dynamodb datasource form,https://github.com/appsmithorg/appsmith/pull/3316,2021-03-02T10:51:47Z,2021-03-02T11:55:26Z,0,3,MERGED
+appsmith,Modify hint statement for 'import from curl' form,https://github.com/appsmithorg/appsmith/pull/3285,2021-03-01T06:40:44Z,2021-03-01T17:58:08Z,0,4,MERGED
+appsmith,stop logging datasource argument error externally.,https://github.com/appsmithorg/appsmith/pull/3262,2021-03-01T02:16:01Z,2021-03-01T06:43:32Z,0,3,MERGED
+appsmith,Memoize CurrentValueViewer to prevent expensive rerenders of react JSON viewer,https://github.com/appsmithorg/appsmith/pull/4240,2021-04-30T09:43:52Z,2021-05-05T12:48:06Z,2,1,MERGED
+appsmith,Add isAuthorized check for REST structure information ,https://github.com/appsmithorg/appsmith/pull/4222,2021-04-29T14:25:38Z,2021-04-30T05:40:20Z,0,1,MERGED
+appsmith,Fix: cypress test failing for chart-text binding,https://github.com/appsmithorg/appsmith/pull/4177,2021-04-27T10:37:15Z,2021-04-27T11:43:37Z,1,1,MERGED
+appsmith,Fix ts err: object is possibly undefined,https://github.com/appsmithorg/appsmith/pull/4163,2021-04-26T12:53:01Z,2021-04-26T14:36:11Z,2,1,CLOSED
+appsmith,Feature: return request parameters with type for debug tab,https://github.com/appsmithorg/appsmith/pull/4078,2021-04-21T05:08:17Z,2021-04-30T10:56:51Z,17,26,MERGED
+appsmith,Default counter for new datasource in organization should initiate at 1,https://github.com/appsmithorg/appsmith/pull/4005,2021-04-14T16:57:05Z,2021-04-22T07:16:43Z,3,6,MERGED
+appsmith,Feature: return data types for request body and properties for better display,https://github.com/appsmithorg/appsmith/pull/3948,2021-04-09T10:40:15Z,2021-04-23T04:24:26Z,18,15,CLOSED
+appsmith,Feature: return data types of returned data on query execution for better data display,https://github.com/appsmithorg/appsmith/pull/3914,2021-04-08T05:00:17Z,2021-04-09T05:28:37Z,2,9,MERGED
+appsmith,Feature: add title to action execution errors to improve user experience,https://github.com/appsmithorg/appsmith/pull/3872,2021-04-06T05:23:44Z,2021-04-08T04:19:05Z,2,10,MERGED
+appsmith,Enable smart substitution for widgets,https://github.com/appsmithorg/appsmith/pull/4801,2021-05-31T09:30:23Z,2021-06-01T04:59:45Z,1,2,MERGED
+appsmith,Datasource url overflow bug,https://github.com/appsmithorg/appsmith/pull/4776,2021-05-28T12:05:25Z,2021-05-28T12:16:10Z,0,2,MERGED
+appsmith,[Enhancement] Security upgrade org.springframework:spring-web from 5.1.14.RELEASE to 5.2.15.RELEASE,https://github.com/appsmithorg/appsmith/pull/4704,2021-05-27T03:46:13Z,2021-12-22T08:26:02Z,2,2,CLOSED
+appsmith,[Snyk] Security upgrade org.springframework:spring-webflux from 5.1.13.RELEASE to 5.2.15.RELEASE,https://github.com/appsmithorg/appsmith/pull/4703,2021-05-26T23:48:17Z,2021-12-24T20:10:02Z,2,3,CLOSED
+appsmith,chore: Fixes typo in collab tour,https://github.com/appsmithorg/appsmith/pull/4681,2021-05-25T16:49:25Z,2021-06-08T14:40:10Z,0,1,MERGED
+appsmith,Added optional audience and resource fields for oauth2 datasources,https://github.com/appsmithorg/appsmith/pull/4678,2021-05-25T15:28:37Z,2021-05-27T16:24:00Z,4,3,MERGED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.18.0-alpine,https://github.com/appsmithorg/appsmith/pull/4659,2021-05-25T00:52:55Z,2021-07-08T10:57:13Z,0,1,CLOSED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.18.0-alpine,https://github.com/appsmithorg/appsmith/pull/4658,2021-05-24T23:31:43Z,2021-07-08T10:57:13Z,0,1,CLOSED
+appsmith,[Perf] Patch for bluperint to optimize editable text component,https://github.com/appsmithorg/appsmith/pull/4605,2021-05-20T20:25:32Z,2021-06-07T14:41:55Z,2,5,MERGED
+appsmith,chore: Upgrade org.springframework:spring-webflux from 5.2.3.RELEASE to 5.3.15,https://github.com/appsmithorg/appsmith/pull/4586,2021-05-19T19:15:25Z,2022-02-07T04:19:48Z,4,5,MERGED
+appsmith,[Perf] Remove code causing expensive style recalculation from binding prompt,https://github.com/appsmithorg/appsmith/pull/4563,2021-05-18T12:24:08Z,2021-05-28T05:47:43Z,0,2,MERGED
+appsmith,Optimize resizable component,https://github.com/appsmithorg/appsmith/pull/4554,2021-05-18T06:52:12Z,2021-05-21T14:03:52Z,0,5,MERGED
+appsmith,Fix: postgres plugin: add support for jsonb type,https://github.com/appsmithorg/appsmith/pull/4519,2021-05-17T05:00:34Z,2021-05-17T05:49:19Z,0,2,MERGED
+appsmith,Feature: return prepared stmt / smart substitution params under request params section for debugging,https://github.com/appsmithorg/appsmith/pull/4421,2021-05-11T05:19:15Z,2021-05-17T03:29:17Z,3,11,MERGED
+appsmith,[Snyk] Upgrade com.corundumstudio.socketio:netty-socketio from 1.7.12 to 1.7.18,https://github.com/appsmithorg/appsmith/pull/4420,2021-05-11T00:19:04Z,2021-05-19T06:45:54Z,3,1,CLOSED
+appsmith,[Performance] Collapse all but the first two records in react-json-view,https://github.com/appsmithorg/appsmith/pull/4397,2021-05-10T07:54:49Z,2021-05-21T14:02:53Z,1,3,MERGED
+appsmith,[Snyk] Upgrade flow-bin from 0.91.0 to 0.148.0,https://github.com/appsmithorg/appsmith/pull/4383,2021-05-09T04:59:14Z,2021-06-03T07:33:28Z,0,1,MERGED
+appsmith,chore: [Snyk] Upgrade typescript from 4.1.5 to 4.2.4,https://github.com/appsmithorg/appsmith/pull/4382,2021-05-09T04:59:12Z,2022-02-11T07:54:20Z,6,3,CLOSED
+appsmith,[Snyk] Upgrade com.github.cloudyrock.mongock:mongock-spring from 3.2.5 to 3.3.2,https://github.com/appsmithorg/appsmith/pull/4355,2021-05-07T00:19:08Z,2021-05-10T14:23:59Z,0,1,MERGED
+appsmith,[Snyk] Upgrade org.springframework.boot:spring-boot-starter-actuator from 2.3.4.RELEASE to 2.4.4,https://github.com/appsmithorg/appsmith/pull/4308,2021-05-05T00:19:36Z,2021-05-09T04:17:12Z,0,1,MERGED
+appsmith,[Snyk] Upgrade org.hibernate.validator:hibernate-validator from 6.0.18.Final to 6.2.0.Final,https://github.com/appsmithorg/appsmith/pull/4307,2021-05-05T00:19:34Z,2021-05-06T10:53:37Z,0,1,MERGED
+appsmith,[Snyk] Upgrade com.fasterxml.jackson.core:jackson-databind from 2.9.10.7 to 2.12.4,https://github.com/appsmithorg/appsmith/pull/4306,2021-05-05T00:19:31Z,2022-05-01T09:15:33Z,1,6,CLOSED
+appsmith,[Snyk] Upgrade org.springframework.boot:spring-boot-starter-mail from 2.2.1.RELEASE to 2.4.4,https://github.com/appsmithorg/appsmith/pull/4305,2021-05-05T00:19:28Z,2021-05-09T04:17:45Z,0,1,MERGED
+appsmith,[Snyk] Upgrade org.postgresql:postgresql from 42.2.12 to 42.2.19.jre7,https://github.com/appsmithorg/appsmith/pull/4301,2021-05-04T21:14:09Z,2022-02-06T05:00:16Z,1,1,CLOSED
+appsmith,Optimize table widget,https://github.com/appsmithorg/appsmith/pull/4292,2021-05-04T13:54:59Z,2021-05-17T09:22:49Z,4,8,MERGED
+appsmith,change data-time format 'YYYY-MM-DD hh:mm:ss A' to 'YYYY-MM-DD hh:mm:ss',https://github.com/appsmithorg/appsmith/pull/4285,2021-05-04T11:14:32Z,2021-05-10T05:51:43Z,3,1,MERGED
+appsmith,Show current page entities on top within global search results,https://github.com/appsmithorg/appsmith/pull/5494,2021-06-30T08:57:11Z,2021-06-30T11:45:48Z,0,1,MERGED
+appsmith,Update/bump node version in the doc,https://github.com/appsmithorg/appsmith/pull/5455,2021-06-28T15:50:33Z,2021-06-28T16:28:19Z,0,1,MERGED
+appsmith,Update node version in the client setup doc,https://github.com/appsmithorg/appsmith/pull/5454,2021-06-28T15:08:36Z,2021-06-28T15:51:18Z,1,20,CLOSED
+appsmith,[Snyk] Security upgrade node-sass from 4.14.1 to 6.0.1,https://github.com/appsmithorg/appsmith/pull/5399,2021-06-24T23:33:44Z,2021-06-27T19:34:40Z,0,1,MERGED
+appsmith,[Snyk] Fix for 26 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/5231,2021-06-17T13:27:05Z,2021-06-18T15:12:01Z,0,1,MERGED
+appsmith,[Snyk] Security upgrade net.minidev:json-smart from 2.3 to 2.4.7,https://github.com/appsmithorg/appsmith/pull/5225,2021-06-17T10:58:43Z,2021-06-18T05:24:34Z,0,2,MERGED
+appsmith,[Snyk] Fix for 17 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/5218,2021-06-17T08:31:48Z,2021-07-26T09:43:35Z,2,2,CLOSED
+appsmith,[Snyk] Security upgrade com.fasterxml.jackson.core:jackson-databind from 2.9.10.7 to 2.9.10.8,https://github.com/appsmithorg/appsmith/pull/5205,2021-06-17T07:37:39Z,2021-07-26T09:41:53Z,2,2,CLOSED
+appsmith,[Snyk] Security upgrade com.google.firebase:firebase-admin from 7.0.1 to 7.1.1,https://github.com/appsmithorg/appsmith/pull/5204,2021-06-17T07:37:36Z,2021-06-21T05:38:35Z,1,1,CLOSED
+appsmith,[Snyk] Fix for 4 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/5175,2021-06-16T11:51:14Z,2021-07-26T09:46:57Z,2,2,CLOSED
+appsmith,[Snyk] Security upgrade com.google.firebase:firebase-admin from 7.0.1 to 7.1.1,https://github.com/appsmithorg/appsmith/pull/5174,2021-06-16T11:51:13Z,2021-07-26T11:25:59Z,1,1,CLOSED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/5173,2021-06-16T11:51:10Z,2021-07-26T08:04:10Z,1,1,CLOSED
+appsmith,[Snyk] Security upgrade org.springframework:spring-webflux from 5.1.13.RELEASE to 5.2.15.RELEASE,https://github.com/appsmithorg/appsmith/pull/5172,2021-06-16T11:51:09Z,2021-07-26T09:31:19Z,1,1,CLOSED
+appsmith,[Snyk] Fix for 4 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/5163,2021-06-16T08:03:25Z,2021-07-26T08:39:13Z,1,2,MERGED
+appsmith,[Snyk] Fix for 23 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/5156,2021-06-16T06:02:13Z,2021-07-26T09:44:52Z,1,1,CLOSED
+appsmith,Changes to show multiple messages for a log in the debugger,https://github.com/appsmithorg/appsmith/pull/5144,2021-06-15T13:38:18Z,2021-06-28T04:14:07Z,1,4,MERGED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.18-alpine,https://github.com/appsmithorg/appsmith/pull/5087,2021-06-12T22:53:09Z,2021-07-08T10:56:35Z,0,1,CLOSED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.18-alpine,https://github.com/appsmithorg/appsmith/pull/5086,2021-06-12T22:35:16Z,2021-07-08T10:56:35Z,0,1,CLOSED
+appsmith,[Snyk] Security upgrade net.minidev:json-smart from 2.3 to 2.4.5,https://github.com/appsmithorg/appsmith/pull/4882,2021-06-02T21:06:12Z,2021-06-03T12:37:03Z,1,1,CLOSED
+appsmith,[Perf] Optimize popper component by not triggering layout on every render,https://github.com/appsmithorg/appsmith/pull/4849,2021-06-02T05:56:20Z,2021-06-14T02:59:08Z,4,5,MERGED
+appsmith,feat: show lint errors in code editor,https://github.com/appsmithorg/appsmith/pull/6265,2021-07-30T04:45:17Z,2021-08-26T04:45:17Z,8,39,MERGED
+appsmith,"Fix unnecessary renders of ActionCreator, EntityName, CodeEditor and ActionEntityContextMenu",https://github.com/appsmithorg/appsmith/pull/6242,2021-07-29T10:13:30Z,2021-08-02T16:06:33Z,1,7,MERGED
+appsmith,Fix JS error message showing call stack in firefox,https://github.com/appsmithorg/appsmith/pull/6234,2021-07-29T05:55:22Z,2021-07-29T11:36:49Z,0,1,MERGED
+appsmith,Hotfix/trailing white spaces in mysql datasource configuration,https://github.com/appsmithorg/appsmith/pull/6227,2021-07-28T13:00:24Z,2021-08-13T08:42:30Z,1,131,MERGED
+appsmith,Disable tern in view mode,https://github.com/appsmithorg/appsmith/pull/6203,2021-07-27T14:05:21Z,2021-07-30T10:24:22Z,1,1,MERGED
+appsmith,Hotfix/download png jpeg option,https://github.com/appsmithorg/appsmith/pull/6179,2021-07-27T07:29:46Z,2021-08-06T05:26:28Z,2,2,MERGED
+appsmith,changed texts on datasources page,https://github.com/appsmithorg/appsmith/pull/6130,2021-07-26T09:08:56Z,2021-07-27T06:15:50Z,1,1,MERGED
+appsmith,changed texts on datasources page,https://github.com/appsmithorg/appsmith/pull/6081,2021-07-22T15:15:29Z,2021-07-30T07:34:28Z,1,1,MERGED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/6063,2021-07-22T01:42:34Z,2021-07-26T08:00:28Z,0,1,MERGED
+appsmith,[Snyk] Fix for 1 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/6062,2021-07-21T23:10:11Z,2021-07-22T17:53:46Z,0,1,MERGED
+appsmith,Show lint errors in the debugger,https://github.com/appsmithorg/appsmith/pull/6006,2021-07-20T13:36:18Z,2021-08-12T05:56:29Z,11,7,CLOSED
+appsmith,Show lint errors in the debugger,https://github.com/appsmithorg/appsmith/pull/6005,2021-07-20T13:18:55Z,2021-07-20T13:32:52Z,1,3,CLOSED
+appsmith,Adding Github Action to print PR stats when a new PR is opened,https://github.com/appsmithorg/appsmith/pull/5959,2021-07-19T10:37:53Z,2021-07-19T10:44:44Z,0,1,CLOSED
+appsmith,[Snyk] Security upgrade com.google.firebase:firebase-admin from 7.0.1 to 7.3.0,https://github.com/appsmithorg/appsmith/pull/5864,2021-07-14T21:22:21Z,2021-07-26T08:26:40Z,0,1,MERGED
+appsmith,Fix: fix read only option for postgres connection,https://github.com/appsmithorg/appsmith/pull/5848,2021-07-14T07:31:57Z,2021-07-15T04:25:36Z,1,3,MERGED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to mainline-alpine,https://github.com/appsmithorg/appsmith/pull/5695,2021-07-08T06:19:31Z,2021-09-05T21:18:48Z,1,1,CLOSED
+appsmith,chore: Deleting redundant Dockerfile for Cypress,https://github.com/appsmithorg/appsmith/pull/5683,2021-07-08T01:50:40Z,2021-08-26T07:10:53Z,0,2,MERGED
+appsmith,Feature: return hint message to user if the expected content type is json but the api response is not a valid json.,https://github.com/appsmithorg/appsmith/pull/5666,2021-07-07T10:35:12Z,2021-07-09T17:01:51Z,0,3,MERGED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.21-alpine,https://github.com/appsmithorg/appsmith/pull/5652,2021-07-07T05:09:32Z,2021-07-08T05:27:11Z,1,1,CLOSED
+appsmith,fix: Tabs widget - full height when showTabs is false,https://github.com/appsmithorg/appsmith/pull/6949,2021-08-30T05:52:02Z,2021-09-08T04:43:11Z,4,2,MERGED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1-alpine,https://github.com/appsmithorg/appsmith/pull/6947,2021-08-29T00:57:07Z,2021-09-05T21:18:49Z,1,1,CLOSED
+appsmith,fix: fill dropdown selector UI to avoid text shrink,https://github.com/appsmithorg/appsmith/pull/6910,2021-08-26T15:12:11Z,2021-08-27T06:23:26Z,0,1,MERGED
+appsmith,feat: Show Crud Info Modal data from backend,https://github.com/appsmithorg/appsmith/pull/6882,2021-08-25T12:19:06Z,2021-08-26T07:23:40Z,5,5,MERGED
+appsmith,fix: improving multipart form data body,https://github.com/appsmithorg/appsmith/pull/6755,2021-08-20T07:46:22Z,2021-08-25T10:48:17Z,0,4,MERGED
+appsmith,Enhancement - chart widget x-axis label orientation,https://github.com/appsmithorg/appsmith/pull/6708,2021-08-19T05:06:07Z,2021-08-26T09:58:44Z,4,5,MERGED
+appsmith,"Fix: background rect width of usernames, of other realtime users (pointer sharing)",https://github.com/appsmithorg/appsmith/pull/6703,2021-08-18T17:23:38Z,2021-08-19T05:43:54Z,1,29,MERGED
+appsmith,fix button color style bug,https://github.com/appsmithorg/appsmith/pull/6660,2021-08-17T11:59:36Z,2021-08-17T12:24:50Z,0,1,MERGED
+appsmith,Add Generate CRUD page Info Modal ,https://github.com/appsmithorg/appsmith/pull/6557,2021-08-12T12:28:16Z,2021-08-16T18:04:54Z,1,4,MERGED
+appsmith,Feature/option to upload file or text in multipart form,https://github.com/appsmithorg/appsmith/pull/6534,2021-08-11T11:03:39Z,2021-08-16T12:00:12Z,2,6,MERGED
+appsmith,Adding a max size of approximately 1 MB of data fetched using appsmith,https://github.com/appsmithorg/appsmith/pull/6491,2021-08-09T15:50:48Z,2021-08-10T05:32:19Z,2,4,MERGED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.21-alpine,https://github.com/appsmithorg/appsmith/pull/6449,2021-08-07T23:54:23Z,2021-09-02T02:12:16Z,2,1,CLOSED
+appsmith,[Snyk] Security upgrade nginx from 1.17.9-alpine to 1.21-alpine,https://github.com/appsmithorg/appsmith/pull/6448,2021-08-07T19:59:56Z,2021-09-02T02:11:34Z,2,1,CLOSED
+appsmith,Fix ts error release,https://github.com/appsmithorg/appsmith/pull/6396,2021-08-05T06:30:34Z,2021-08-05T07:27:33Z,0,1,MERGED
+appsmith,Added logic to show form data requests in debugger,https://github.com/appsmithorg/appsmith/pull/6350,2021-08-03T08:16:56Z,2021-08-04T05:17:42Z,0,3,MERGED
+appsmith,feat: Announce that Appsmith is running!,https://github.com/appsmithorg/appsmith/pull/7735,2021-09-22T12:50:56Z,2021-09-23T04:24:05Z,3,1,MERGED
+appsmith,ci: Use separate artifacts for separate services,https://github.com/appsmithorg/appsmith/pull/7707,2021-09-22T05:26:40Z,2021-09-22T12:24:24Z,1,2,MERGED
+appsmith,fix: copy icon in evaluated popup and dot notation jshint error,https://github.com/appsmithorg/appsmith/pull/7639,2021-09-20T12:37:42Z,2021-09-22T07:05:02Z,0,9,MERGED
+appsmith,[Snyk] Security upgrade prismjs from 1.24.0 to 1.25.0,https://github.com/appsmithorg/appsmith/pull/7587,2021-09-18T02:02:57Z,2021-10-03T16:42:22Z,2,1,CLOSED
+appsmith,[Snyk] Security upgrade nginx from 1.20-alpine to 1-alpine,https://github.com/appsmithorg/appsmith/pull/7555,2021-09-17T03:10:52Z,2021-09-17T05:37:59Z,1,1,CLOSED
+appsmith,chore: [Snyk] Security upgrade eslint from 7.12.1 to 7.16.0,https://github.com/appsmithorg/appsmith/pull/7488,2021-09-16T01:03:49Z,2021-10-02T16:42:25Z,2,2,CLOSED
+appsmith,fix: center alignment for profile placeholder,https://github.com/appsmithorg/appsmith/pull/7197,2021-09-07T10:12:18Z,2021-09-07T12:45:04Z,0,1,MERGED
+appsmith,feat: add copy button to evaluated value,https://github.com/appsmithorg/appsmith/pull/7159,2021-09-06T11:42:08Z,2021-09-17T11:02:17Z,1,4,MERGED
+appsmith,fix: persist draft comments on clicking outside,https://github.com/appsmithorg/appsmith/pull/7156,2021-09-06T11:04:30Z,2021-09-07T15:23:40Z,3,5,MERGED
+appsmith,fix: bottom padding at the api editor,https://github.com/appsmithorg/appsmith/pull/7074,2021-09-02T17:33:12Z,2021-09-02T18:26:30Z,1,1,MERGED
+appsmith,feat: Add horizontal tabs in gitSync Modal,https://github.com/appsmithorg/appsmith/pull/7048,2021-09-02T08:04:20Z,2021-09-03T11:56:09Z,1,3,MERGED
+appsmith,chore: [Snyk] Security upgrade immer from 8.0.1 to 9.0.6,https://github.com/appsmithorg/appsmith/pull/7044,2021-09-02T02:52:59Z,2021-09-05T21:17:11Z,0,1,MERGED
+appsmith,feat: [Snyk] Security upgrade nginx from 1.19-alpine to 1.20-alpine,https://github.com/appsmithorg/appsmith/pull/7040,2021-09-01T21:24:31Z,2021-09-02T02:26:41Z,0,1,MERGED
+appsmith,fix: minor spacing issue reaction bubble,https://github.com/appsmithorg/appsmith/pull/7015,2021-09-01T06:05:51Z,2021-09-01T08:54:32Z,0,1,MERGED
+appsmith,feat: unified style for disabled widgets,https://github.com/appsmithorg/appsmith/pull/8731,2021-10-22T11:17:05Z,2021-11-15T06:29:07Z,21,34,MERGED
+appsmith,fix: disabled widgets styling,https://github.com/appsmithorg/appsmith/pull/8632,2021-10-20T06:09:03Z,2021-10-22T11:15:37Z,31,20,CLOSED
+appsmith,chore: [Snyk] Security upgrade nginx from 1.20-alpine to 1.21.3-alpine,https://github.com/appsmithorg/appsmith/pull/8603,2021-10-19T04:59:57Z,2021-11-13T16:43:11Z,2,1,CLOSED
+appsmith,feat: SSH Plugin ,https://github.com/appsmithorg/appsmith/pull/8485,2021-10-13T05:40:18Z,2024-04-08T20:37:52Z,9,22,CLOSED
+appsmith,chore: add box-shadow to onboarding welcome popup,https://github.com/appsmithorg/appsmith/pull/8360,2021-10-09T05:45:56Z,2022-02-06T04:51:28Z,19,5,CLOSED
+appsmith,fix: Added hover state to the black-colored Launch button on Applications Page.,https://github.com/appsmithorg/appsmith/pull/8279,2021-10-07T07:50:24Z,2021-10-20T05:22:17Z,6,3,MERGED
+appsmith,feat: add authentication tab in api editor,https://github.com/appsmithorg/appsmith/pull/8245,2021-10-06T10:10:51Z,2021-10-08T07:52:30Z,10,17,MERGED
+appsmith,fix: border issues in API pane,https://github.com/appsmithorg/appsmith/pull/8224,2021-10-06T03:14:41Z,2021-10-19T11:11:32Z,1,2,CLOSED
+appsmith,fix: Bug in evaluated value for falsy value checks,https://github.com/appsmithorg/appsmith/pull/8194,2021-10-05T08:14:13Z,2021-10-05T14:47:30Z,1,2,MERGED
+appsmith,fix: css issue with new DS changes,https://github.com/appsmithorg/appsmith/pull/8181,2021-10-04T21:22:52Z,2021-10-08T11:26:39Z,1,3,MERGED
+appsmith,fix: empty checkbox removed when errors in select options,https://github.com/appsmithorg/appsmith/pull/8126,2021-10-03T07:07:57Z,2021-11-11T04:29:47Z,17,1,CLOSED
+appsmith,fix: Cursor turning to pointer upon onclick in deployed app,https://github.com/appsmithorg/appsmith/pull/8111,2021-10-02T08:44:21Z,2021-12-09T09:19:25Z,19,4,MERGED
+appsmith,fix: Icon-dropdown overlap in button properties,https://github.com/appsmithorg/appsmith/pull/8110,2021-10-02T08:10:13Z,2022-01-06T05:03:56Z,27,5,CLOSED
+appsmith,[Snyk] Security upgrade nginx from 1.20-alpine to alpine,https://github.com/appsmithorg/appsmith/pull/8103,2021-10-02T03:01:30Z,2021-10-16T16:42:36Z,2,1,CLOSED
+appsmith,chore: [Snyk] Security upgrade @optimizely/optimizely-sdk from 4.3.4 to 4.8.0,https://github.com/appsmithorg/appsmith/pull/9447,2021-11-30T00:16:26Z,2021-12-10T18:11:36Z,5,2,MERGED
+appsmith,fix: Add default props dependency in dependency map,https://github.com/appsmithorg/appsmith/pull/9418,2021-11-28T21:13:24Z,2021-11-29T09:04:41Z,18,4,MERGED
+appsmith,fix: Select widget with filtering on has weird width issue for options ,https://github.com/appsmithorg/appsmith/pull/9376,2021-11-25T10:52:51Z,2021-12-03T08:55:41Z,3,2,CLOSED
+appsmith,[Snyk] Security upgrade com.google.code.gson:gson from 2.8.6 to 2.8.9,https://github.com/appsmithorg/appsmith/pull/8997,2021-11-03T11:47:46Z,2022-01-25T20:51:08Z,3,1,CLOSED
+appsmith,[Snyk] Security upgrade nginx from 1.20-alpine to 1-alpine,https://github.com/appsmithorg/appsmith/pull/8934,2021-11-01T03:06:48Z,2021-11-16T16:41:00Z,3,1,CLOSED
+appsmith,fix: long status code text ellipsized,https://github.com/appsmithorg/appsmith/pull/10021,2021-12-27T20:52:49Z,2022-01-10T16:43:05Z,17,2,MERGED
+appsmith,chore: [Snyk] Security upgrade node-sass from 7.0.0 to 7.0.1,https://github.com/appsmithorg/appsmith/pull/10016,2021-12-27T11:45:21Z,2022-01-14T22:55:27Z,3,3,MERGED
+appsmith,chore: [Snyk] Security upgrade com.fasterxml.jackson.core:jackson-databind from 2.10.5.1 to 2.12.6,https://github.com/appsmithorg/appsmith/pull/10015,2021-12-27T11:38:30Z,2021-12-28T06:38:53Z,3,1,MERGED
+appsmith,chore: [Snyk] Security upgrade com.fasterxml.jackson.core:jackson-databind from 2.10.5.1 to 2.12.6,https://github.com/appsmithorg/appsmith/pull/10014,2021-12-27T11:38:18Z,2021-12-28T06:39:35Z,2,1,MERGED
+appsmith,chore: [Snyk] Security upgrade com.fasterxml.jackson.core:jackson-databind from 2.10.5.1 to 2.12.6,https://github.com/appsmithorg/appsmith/pull/10013,2021-12-27T11:38:16Z,2022-01-19T16:42:56Z,3,1,CLOSED
+appsmith,fix: Toast message on reset password,https://github.com/appsmithorg/appsmith/pull/9957,2021-12-23T06:33:26Z,2021-12-23T14:16:09Z,5,1,MERGED
+appsmith,[Snyk] Security upgrade node from 14 to 16.11.0,https://github.com/appsmithorg/appsmith/pull/9934,2021-12-22T08:35:27Z,2021-12-22T09:49:19Z,4,1,CLOSED
+appsmith,fix: changed the default row size to 4 for the divider widget,https://github.com/appsmithorg/appsmith/pull/9917,2021-12-21T12:19:40Z,2021-12-24T08:19:34Z,12,2,MERGED
+appsmith,fix: changed the editing to false on onFocus in PrimaryColumnsControl,https://github.com/appsmithorg/appsmith/pull/9825,2021-12-16T13:02:28Z,2021-12-24T09:31:26Z,25,6,MERGED
+appsmith,[Snyk] Security upgrade react-scripts from 4.0.1 to 5.0.0,https://github.com/appsmithorg/appsmith/pull/9801,2021-12-15T11:51:20Z,2021-12-29T16:43:44Z,3,1,CLOSED
+appsmith,feat: Feat/uqi sorting component,https://github.com/appsmithorg/appsmith/pull/9775,2021-12-14T22:29:18Z,2022-01-05T18:59:25Z,26,5,MERGED
+appsmith,chore: [Snyk] Security upgrade node-sass from 6.0.1 to 7.0.0,https://github.com/appsmithorg/appsmith/pull/9630,2021-12-08T02:58:17Z,2021-12-08T13:10:08Z,4,1,MERGED
+appsmith,feat: Response view switcher for all action editors,https://github.com/appsmithorg/appsmith/pull/9629,2021-12-07T21:39:02Z,2022-04-08T16:32:35Z,24,16,MERGED
+appsmith,chore: [Snyk] Security upgrade com.h2database:h2 from 1.4.200 to 2.0.202,https://github.com/appsmithorg/appsmith/pull/9500,2021-12-01T11:36:56Z,2022-01-14T22:07:21Z,8,3,MERGED
+appsmith,fix: scroll hides content on the canvas in guided tour,https://github.com/appsmithorg/appsmith/pull/10735,2022-01-31T04:54:18Z,2022-02-24T04:08:44Z,22,5,MERGED
+appsmith,fix: broken list widget,https://github.com/appsmithorg/appsmith/pull/10670,2022-01-27T05:58:24Z,2022-01-27T10:01:25Z,15,1,MERGED
+appsmith,fix: show lint when unused variable is present in code,https://github.com/appsmithorg/appsmith/pull/10599,2022-01-24T15:14:20Z,2022-01-28T08:18:19Z,26,6,MERGED
+appsmith,feat: Add code hints for JS promises in JS Object editor,https://github.com/appsmithorg/appsmith/pull/10570,2022-01-23T15:06:15Z,2022-01-25T14:04:10Z,1,1,MERGED
+appsmith,fix: Signposting intro modal UI issue,https://github.com/appsmithorg/appsmith/pull/10403,2022-01-14T04:42:58Z,2022-01-18T07:12:53Z,4,1,MERGED
+appsmith,fix: Add meta to eval cycle and update it when default changes,https://github.com/appsmithorg/appsmith/pull/10401,2022-01-13T22:58:37Z,2022-01-28T11:10:06Z,66,45,MERGED
+appsmith,feat: projection selector component,https://github.com/appsmithorg/appsmith/pull/10294,2022-01-10T15:57:07Z,2022-01-14T13:53:33Z,20,2,MERGED
+appsmith,fix: added loading state for chart widget,https://github.com/appsmithorg/appsmith/pull/10262,2022-01-10T07:54:42Z,2022-01-18T07:51:29Z,35,7,MERGED
+appsmith,chore: [Snyk] Security upgrade node-forge from 0.10.0 to 1.0.0,https://github.com/appsmithorg/appsmith/pull/10247,2022-01-07T10:01:58Z,2022-01-07T13:18:01Z,3,1,MERGED
+appsmith,[Snyk] Security upgrade node-forge from 0.10.0 to 1.0.0,https://github.com/appsmithorg/appsmith/pull/10226,2022-01-07T00:14:02Z,2022-01-07T13:20:17Z,3,1,CLOSED
+appsmith,[Snyk] Security upgrade org.springframework:spring-webflux from 5.1.13.RELEASE to 5.2.19.RELEASE,https://github.com/appsmithorg/appsmith/pull/10225,2022-01-07T00:08:42Z,2022-01-23T16:42:12Z,4,1,CLOSED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/10134,2022-01-03T16:44:37Z,2022-01-18T16:44:21Z,4,1,CLOSED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/10133,2022-01-03T16:44:17Z,2022-01-18T16:44:23Z,4,1,CLOSED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/10132,2022-01-03T16:44:15Z,2022-01-18T16:44:25Z,4,1,CLOSED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/10131,2022-01-03T16:44:00Z,2022-01-18T16:44:27Z,4,1,CLOSED
+appsmith,[Snyk] Fix for 2 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/10129,2022-01-03T16:43:58Z,2022-01-18T16:44:31Z,4,1,CLOSED
+appsmith,chore: [Snyk] Security upgrade org.springframework.data:spring-data-r2dbc from 1.1.5.RELEASE to 1.3.5,https://github.com/appsmithorg/appsmith/pull/10130,2022-01-03T16:43:58Z,2022-01-18T16:44:30Z,5,1,CLOSED
+appsmith,fix: added min width to wrap long page names,https://github.com/appsmithorg/appsmith/pull/10121,2022-01-03T11:35:24Z,2022-01-06T10:34:37Z,14,6,MERGED
+appsmith,[Snyk] Security upgrade org.springframework:spring-webflux from 5.2.3.RELEASE to 5.2.18.RELEASE,https://github.com/appsmithorg/appsmith/pull/10108,2022-01-03T02:30:13Z,2022-01-19T16:42:47Z,4,1,CLOSED
+appsmith,[Snyk] Security upgrade org.springframework:spring-webflux from 5.2.3.RELEASE to 5.2.18.RELEASE,https://github.com/appsmithorg/appsmith/pull/10107,2022-01-03T02:30:10Z,2022-01-19T16:42:48Z,4,1,CLOSED
+appsmith,[Snyk] Security upgrade org.springframework.data:spring-data-r2dbc from 1.1.5.RELEASE to 1.2.15,https://github.com/appsmithorg/appsmith/pull/10106,2022-01-03T02:30:09Z,2022-01-19T16:42:50Z,4,1,CLOSED
+appsmith,[Snyk] Security upgrade org.springframework:spring-webflux from 5.1.13.RELEASE to 5.2.18.RELEASE,https://github.com/appsmithorg/appsmith/pull/10105,2022-01-03T02:30:04Z,2022-01-19T16:42:52Z,4,1,CLOSED
+appsmith,fix: local ts issue regarding wdyr,https://github.com/appsmithorg/appsmith/pull/11505,2022-02-28T13:23:05Z,2022-02-28T13:28:42Z,3,1,CLOSED
+appsmith,fix: revert #8121,https://github.com/appsmithorg/appsmith/pull/11502,2022-02-28T13:07:19Z,2022-02-28T14:14:57Z,10,2,MERGED
+appsmith,fix: guided tour indicator positioning in explorer,https://github.com/appsmithorg/appsmith/pull/11472,2022-02-28T06:43:48Z,2022-03-21T06:38:43Z,15,5,CLOSED
+appsmith,fix: inconsistency in select and treeselect widgets behaviours,https://github.com/appsmithorg/appsmith/pull/11462,2022-02-26T13:51:42Z,2022-03-11T05:35:06Z,64,29,MERGED
+appsmith,chore: Fix extra space in email placehoder in signup page,https://github.com/appsmithorg/appsmith/pull/11436,2022-02-25T01:05:33Z,2022-03-02T06:24:45Z,4,1,MERGED
+appsmith,feat: Add disconnect button on auth config pages and form login callout banner,https://github.com/appsmithorg/appsmith/pull/11389,2022-02-23T09:52:12Z,2022-03-02T18:18:51Z,32,38,MERGED
+appsmith,feat: Add Array type to MultipartFormDataType variants for REST api,https://github.com/appsmithorg/appsmith/pull/11386,2022-02-23T09:38:30Z,2022-03-26T19:08:56Z,25,15,MERGED
+appsmith,fix: use sentence casing,https://github.com/appsmithorg/appsmith/pull/11376,2022-02-23T06:41:37Z,2022-03-02T13:42:07Z,12,1,MERGED
+appsmith,fix: unrelated widgets in loading state,https://github.com/appsmithorg/appsmith/pull/11370,2022-02-23T06:00:23Z,2022-03-08T13:56:04Z,37,25,MERGED
+appsmith,fix: remove EDIT button,https://github.com/appsmithorg/appsmith/pull/11356,2022-02-22T14:33:09Z,2022-03-05T08:51:26Z,27,5,MERGED
+appsmith,fix: limit commit message area expansion and text spillover,https://github.com/appsmithorg/appsmith/pull/11342,2022-02-22T09:25:35Z,2022-03-10T09:27:28Z,33,2,MERGED
+appsmith,chore: remove second scrollbar from git connect modal,https://github.com/appsmithorg/appsmith/pull/11336,2022-02-22T07:31:41Z,2022-02-23T10:11:59Z,10,1,MERGED
+appsmith,feat: paginate response data,https://github.com/appsmithorg/appsmith/pull/11255,2022-02-18T07:10:13Z,2022-03-05T16:41:31Z,8,2,CLOSED
+appsmith,fix: update git connect modal,https://github.com/appsmithorg/appsmith/pull/11249,2022-02-18T03:48:18Z,2022-02-18T06:43:07Z,11,1,MERGED
+appsmith,fix: end guided tour on exiting editor,https://github.com/appsmithorg/appsmith/pull/11084,2022-02-10T15:45:22Z,2022-03-08T14:55:20Z,40,19,MERGED
+appsmith,fix: date picker uniformity when only Month or year is changed,https://github.com/appsmithorg/appsmith/pull/11077,2022-02-10T11:28:34Z,2022-02-23T23:54:24Z,19,4,MERGED
+appsmith,feat: Self-signed certificates for REST APIs,https://github.com/appsmithorg/appsmith/pull/11043,2022-02-09T11:00:49Z,2022-02-15T06:54:27Z,18,2,MERGED
+appsmith,fix: fixes numbering system for dynamic bindings in evaluated popup text,https://github.com/appsmithorg/appsmith/pull/11005,2022-02-08T15:38:05Z,2022-02-11T10:54:11Z,12,3,MERGED
+appsmith,fix: Adjust status details style in API Response view,https://github.com/appsmithorg/appsmith/pull/10960,2022-02-08T09:08:57Z,2022-05-17T11:18:06Z,17,5,CLOSED
+appsmith,chore: Add brotli compression,https://github.com/appsmithorg/appsmith/pull/10869,2022-02-03T20:51:50Z,2022-02-04T20:22:31Z,14,3,MERGED
+appsmith,feat: adds Headers tab to the Api response view,https://github.com/appsmithorg/appsmith/pull/10807,2022-02-01T17:47:24Z,2022-02-04T11:32:38Z,12,2,MERGED
+appsmith,"fix: updated uqi forms ui, clubbed JS switch button to ads, updated tooltip design",https://github.com/appsmithorg/appsmith/pull/12395,2022-03-30T13:04:56Z,2022-03-31T05:40:29Z,1,2,MERGED
+appsmith,fix: Support evaluated value in nested property paths,https://github.com/appsmithorg/appsmith/pull/12341,2022-03-29T13:21:22Z,2022-03-30T13:28:19Z,9,2,MERGED
+appsmith,fix: Mongodb not accepting valid array update query,https://github.com/appsmithorg/appsmith/pull/12241,2022-03-25T03:19:03Z,2022-11-01T20:00:46Z,10,5,CLOSED
+appsmith,feat: Set mock api as default value and display value,https://github.com/appsmithorg/appsmith/pull/12229,2022-03-24T13:25:52Z,2022-04-25T16:43:10Z,8,3,CLOSED
+appsmith,fix: Fix flickering confirmation modal,https://github.com/appsmithorg/appsmith/pull/12211,2022-03-24T08:59:37Z,2022-03-25T08:22:24Z,5,1,MERGED
+appsmith,fix: capture nginx log with supervisord,https://github.com/appsmithorg/appsmith/pull/12205,2022-03-24T07:58:41Z,2022-03-24T08:17:26Z,1,1,MERGED
+appsmith,fix: Flickering of the run action confirmation for multiple modal confirma…,https://github.com/appsmithorg/appsmith/pull/12175,2022-03-23T12:43:20Z,2022-03-24T08:59:58Z,8,23,CLOSED
+appsmith,fix: introduce new regexp for remote url validation,https://github.com/appsmithorg/appsmith/pull/12004,2022-03-21T06:50:52Z,2022-04-07T16:19:28Z,44,3,MERGED
+appsmith,fix: Design QA changes & form login removed from signup screen if disabled,https://github.com/appsmithorg/appsmith/pull/11958,2022-03-18T06:14:42Z,2022-03-24T07:05:01Z,25,11,MERGED
+appsmith,"fix: Button Group, MenuButton, Tabs undo Redo fixed.",https://github.com/appsmithorg/appsmith/pull/11938,2022-03-17T10:58:43Z,2022-04-02T13:33:42Z,22,11,MERGED
+appsmith,fix: Add script to update MongoDB and Redis supervisor config when changing the URI,https://github.com/appsmithorg/appsmith/pull/11894,2022-03-16T09:00:46Z,2022-03-17T12:28:49Z,5,4,MERGED
+appsmith,fix: do not show errors for private widgets,https://github.com/appsmithorg/appsmith/pull/11883,2022-03-15T20:24:01Z,2022-03-16T14:27:23Z,10,1,MERGED
+appsmith,fix: properly render html responses,https://github.com/appsmithorg/appsmith/pull/11853,2022-03-14T23:25:20Z,2022-03-16T14:25:56Z,8,4,MERGED
+appsmith,feat: add build tools as part of Dockerfile,https://github.com/appsmithorg/appsmith/pull/11819,2022-03-14T04:07:54Z,2022-04-25T13:03:56Z,5,105,CLOSED
+appsmith,fix: 10771 show text widget warning on exceeding line breaks limit,https://github.com/appsmithorg/appsmith/pull/11812,2022-03-12T05:50:30Z,2022-03-30T13:10:53Z,35,13,MERGED
+appsmith,feat: Add action name to confirmation modal,https://github.com/appsmithorg/appsmith/pull/11807,2022-03-11T17:22:28Z,2022-03-16T14:26:20Z,12,2,MERGED
+appsmith,feat: Switch to JSON view functionality for form components,https://github.com/appsmithorg/appsmith/pull/11786,2022-03-11T00:15:43Z,2022-03-21T05:51:51Z,26,18,MERGED
+appsmith,fix: fix embedded url misalignment,https://github.com/appsmithorg/appsmith/pull/11785,2022-03-10T21:19:19Z,2022-03-11T15:46:13Z,14,3,MERGED
+appsmith,fix: polish git-sync feature,https://github.com/appsmithorg/appsmith/pull/11740,2022-03-09T12:15:58Z,2022-03-10T05:38:50Z,4,2,MERGED
+appsmith,fix: Update copy and flag for all toggle buttons on Admin settings page,https://github.com/appsmithorg/appsmith/pull/11703,2022-03-08T08:02:52Z,2022-03-11T11:21:58Z,20,9,MERGED
+appsmith,fix: 11468 select widget performance on a large data set.,https://github.com/appsmithorg/appsmith/pull/11673,2022-03-07T08:16:28Z,2022-03-30T13:12:00Z,68,35,MERGED
+appsmith,fix: mongodb permission issue when checking replica set status,https://github.com/appsmithorg/appsmith/pull/11613,2022-03-04T07:43:14Z,2022-03-10T04:46:17Z,7,4,MERGED
+appsmith,fix: table search text dependency deletion,https://github.com/appsmithorg/appsmith/pull/11608,2022-03-03T20:39:02Z,2022-04-12T13:09:27Z,64,28,MERGED
+appsmith,fix: firestore queries asterisk,https://github.com/appsmithorg/appsmith/pull/11599,2022-03-03T12:38:58Z,2022-03-03T16:38:45Z,9,7,MERGED
+appsmith,feat: Feat/virtualized json editor,https://github.com/appsmithorg/appsmith/pull/11576,2022-03-02T23:55:30Z,2022-03-30T16:59:13Z,33,12,CLOSED
+appsmith,chore: update icons in org menu,https://github.com/appsmithorg/appsmith/pull/11548,2022-03-02T08:17:56Z,2022-03-05T13:20:34Z,12,4,MERGED
+appsmith,feat: file explorer submenu,https://github.com/appsmithorg/appsmith/pull/13425,2022-04-28T17:33:05Z,2022-05-05T10:14:11Z,33,18,MERGED
+appsmith,fix: Better error response for admin API when env file is not found,https://github.com/appsmithorg/appsmith/pull/13373,2022-04-27T10:37:48Z,2022-05-27T11:34:41Z,12,3,MERGED
+appsmith,fix: Fix npe and duplication for JSObject during clone application,https://github.com/appsmithorg/appsmith/pull/13297,2022-04-26T04:57:00Z,2022-04-26T07:43:59Z,7,2,MERGED
+appsmith,feat: add build tools as part of Dockerfile,https://github.com/appsmithorg/appsmith/pull/13278,2022-04-25T13:15:08Z,2023-05-04T04:38:23Z,20,3,CLOSED
+appsmith,fix: [POC] truncated input widget issue,https://github.com/appsmithorg/appsmith/pull/13269,2022-04-25T12:02:31Z,2022-04-29T04:03:58Z,16,3,CLOSED
+appsmith,fix: Input truncation and delay issue,https://github.com/appsmithorg/appsmith/pull/13084,2022-04-19T10:28:52Z,2022-05-25T09:46:15Z,300,117,MERGED
+appsmith,fix: git remote SSH url for Azure | BE,https://github.com/appsmithorg/appsmith/pull/12933,2022-04-14T12:22:40Z,2022-04-20T09:17:03Z,13,3,MERGED
+appsmith,fix: git remote SSH url for Azure | FE,https://github.com/appsmithorg/appsmith/pull/12896,2022-04-13T09:50:30Z,2022-04-23T12:31:43Z,6,1,MERGED
+appsmith,fix: show loading state in JS Editor,https://github.com/appsmithorg/appsmith/pull/12820,2022-04-11T18:36:16Z,2022-04-13T06:17:57Z,12,1,MERGED
+appsmith,fix: Organization name can be empty,https://github.com/appsmithorg/appsmith/pull/12805,2022-04-11T12:00:59Z,2022-04-13T12:06:33Z,7,3,MERGED
+appsmith,feat: remove horizontal rule from git branch list,https://github.com/appsmithorg/appsmith/pull/12614,2022-04-06T07:32:32Z,2022-04-07T16:18:15Z,10,1,MERGED
+appsmith,"chore: Add data property in entity explorer as part of ""show bindings""",https://github.com/appsmithorg/appsmith/pull/12590,2022-04-05T09:54:59Z,2022-04-07T20:37:03Z,21,5,MERGED
+appsmith,chore: Improve the UI for restart banner on admin settings page,https://github.com/appsmithorg/appsmith/pull/12580,2022-04-05T07:38:58Z,2022-04-11T08:42:06Z,28,9,MERGED
+appsmith,fix: replace rfdc with klona,https://github.com/appsmithorg/appsmith/pull/12568,2022-04-04T19:29:52Z,2022-04-14T14:19:14Z,39,17,MERGED
+appsmith,test: Fix failing git sync tests,https://github.com/appsmithorg/appsmith/pull/12488,2022-04-01T07:10:42Z,2022-04-01T11:25:56Z,6,1,MERGED
+appsmith,fix: improve jseditor linting performance,https://github.com/appsmithorg/appsmith/pull/14001,2022-05-21T14:52:37Z,2022-05-25T16:08:36Z,36,9,MERGED
+appsmith,fix: cyclic dependency on array of objects removal,https://github.com/appsmithorg/appsmith/pull/13962,2022-05-19T10:42:18Z,2022-06-15T06:47:58Z,29,16,MERGED
+appsmith,fix: Fix validation check that is blocking input from changing,https://github.com/appsmithorg/appsmith/pull/13943,2022-05-18T13:56:04Z,2022-05-18T17:35:04Z,15,4,MERGED
+appsmith,fix: cyclic dependency in renaming js objects,https://github.com/appsmithorg/appsmith/pull/13914,2022-05-17T18:13:55Z,2022-06-08T07:48:00Z,47,18,MERGED
+appsmith,fix: prioritize parse errors in debugger callout,https://github.com/appsmithorg/appsmith/pull/13765,2022-05-11T20:55:00Z,2022-05-19T10:57:49Z,23,5,MERGED
+appsmith,chore: highlight matching words in JS Editor,https://github.com/appsmithorg/appsmith/pull/13714,2022-05-10T09:40:33Z,2022-05-25T16:44:31Z,19,1,CLOSED
+appsmith,"fix: use ""modified"" instead of ""updated"" in git changes list",https://github.com/appsmithorg/appsmith/pull/13653,2022-05-07T02:49:02Z,2022-05-10T03:25:45Z,13,1,MERGED
+appsmith,fix: add visual cue to SSH key regeneration,https://github.com/appsmithorg/appsmith/pull/13625,2022-05-06T03:31:48Z,2022-05-06T10:00:48Z,17,1,MERGED
+appsmith,fix:prevent execution of js function when jscollection is saving,https://github.com/appsmithorg/appsmith/pull/13592,2022-05-05T08:39:12Z,2022-05-19T13:13:52Z,32,4,MERGED
+appsmith,fix: Throw error when trying to import a cURL command that has a subshell,https://github.com/appsmithorg/appsmith/pull/13558,2022-05-04T10:34:23Z,2022-05-05T05:38:18Z,5,1,MERGED
+appsmith,chore: add overflow to js editor settings,https://github.com/appsmithorg/appsmith/pull/13488,2022-05-02T08:34:52Z,2022-05-02T18:34:56Z,11,1,MERGED
+appsmith,feat: Optimize create uneval tree via memoization,https://github.com/appsmithorg/appsmith/pull/13476,2022-05-02T00:58:46Z,2022-05-18T05:21:53Z,60,22,MERGED
+appsmith,feat: Add postMessage as a global function,https://github.com/appsmithorg/appsmith/pull/14925,2022-06-30T10:39:48Z,2022-10-20T07:09:43Z,35,14,MERGED
+appsmith,feat: Change navigate to UI,https://github.com/appsmithorg/appsmith/pull/14856,2022-06-28T07:13:46Z,2022-09-16T04:30:17Z,104,44,MERGED
+appsmith,fix: JsObject parsing,https://github.com/appsmithorg/appsmith/pull/14842,2022-06-27T14:02:59Z,2022-06-29T04:33:36Z,23,6,MERGED
+appsmith,fix: store value spec as JsObject bug is resolved,https://github.com/appsmithorg/appsmith/pull/14788,2022-06-24T06:24:12Z,2022-06-29T12:17:14Z,15,5,MERGED
+appsmith,feat: Multistage/dockerbuild,https://github.com/appsmithorg/appsmith/pull/14773,2022-06-23T12:30:28Z,2022-07-28T16:44:20Z,9,4,CLOSED
+appsmith,fix: Fix backward compatibility related to v1 git file format,https://github.com/appsmithorg/appsmith/pull/14770,2022-06-23T11:26:49Z,2022-06-24T04:29:18Z,10,3,MERGED
+appsmith,fix: aws market place vulnerabilities,https://github.com/appsmithorg/appsmith/pull/14733,2022-06-22T07:41:08Z,2022-07-05T15:14:23Z,3,11,MERGED
+appsmith,fix: crash due to evalMetaUpdate,https://github.com/appsmithorg/appsmith/pull/14320,2022-06-06T12:39:23Z,2022-06-07T06:36:28Z,24,4,MERGED
+appsmith,fix: AppViewer init and page fetch logic,https://github.com/appsmithorg/appsmith/pull/14294,2022-06-05T09:42:24Z,2022-06-10T18:23:00Z,34,34,MERGED
+appsmith,fix: FailFastApiCalls,https://github.com/appsmithorg/appsmith/pull/14236,2022-06-01T14:24:08Z,2022-06-01T19:08:51Z,2,3,CLOSED
+appsmith,fix: Show table structure when desc table or describe table command is run stand-alone in MySQL (#14054),https://github.com/appsmithorg/appsmith/pull/14233,2022-06-01T13:43:07Z,2022-06-23T13:38:21Z,16,6,MERGED
+appsmith,fix: Added type static hierarchy to allow compatible types,https://github.com/appsmithorg/appsmith/pull/15470,2022-07-26T17:55:48Z,2022-07-29T03:13:24Z,11,2,MERGED
+appsmith,fix: Show lint error when invalid properties are accessed,https://github.com/appsmithorg/appsmith/pull/15452,2022-07-26T10:11:06Z,2022-08-11T16:42:37Z,10,1,CLOSED
+appsmith,chore: Upgrade astring version from v1.7.5 to v1.8.3,https://github.com/appsmithorg/appsmith/pull/15245,2022-07-16T08:53:51Z,2022-07-27T09:18:39Z,19,4,MERGED
+appsmith,"fix: break branch creation text, fix text casing",https://github.com/appsmithorg/appsmith/pull/15241,2022-07-15T19:11:37Z,2022-07-18T05:32:55Z,12,1,MERGED
+appsmith,fix: css cant apply when constant WIDGET_PADDING=0,https://github.com/appsmithorg/appsmith/pull/15227,2022-07-15T03:34:58Z,2022-07-21T13:04:10Z,6,2,MERGED
+appsmith,fix: Modified available scopes for Google Sheets,https://github.com/appsmithorg/appsmith/pull/15169,2022-07-13T09:34:20Z,2022-07-21T11:05:55Z,16,6,MERGED
+appsmith,fix: remove the image binding step in guided tour,https://github.com/appsmithorg/appsmith/pull/15161,2022-07-13T07:20:25Z,2022-07-14T10:51:25Z,10,4,MERGED
+appsmith,fix: Tooltip for long names in Entity Explorer,https://github.com/appsmithorg/appsmith/pull/15068,2022-07-07T08:11:26Z,2022-07-20T06:06:12Z,15,6,MERGED
+appsmith,feat: Code-split for admin setting for toggling appsmith watermark,https://github.com/appsmithorg/appsmith/pull/15036,2022-07-06T05:43:56Z,2022-07-28T08:38:38Z,24,12,MERGED
+appsmith,feat: add hostname to log file,https://github.com/appsmithorg/appsmith/pull/15005,2022-07-05T07:12:06Z,2022-07-21T06:50:15Z,8,2,MERGED
+appsmith,fix: Prevent non populated labels from showing up in datasource page,https://github.com/appsmithorg/appsmith/pull/14979,2022-07-04T10:34:41Z,2022-07-07T05:37:32Z,9,2,MERGED
+appsmith,feat: Support mongodb transactions for import application flow,https://github.com/appsmithorg/appsmith/pull/14939,2022-07-01T04:40:11Z,2023-02-09T09:20:05Z,39,35,MERGED
+appsmith,fix: replacing supabase secrets with performance db secrets.,https://github.com/appsmithorg/appsmith/pull/16423,2022-08-31T07:11:15Z,2022-09-01T09:32:47Z,7,1,MERGED
+appsmith,fix: Hiding the add new button in new workspace created if user has app viewer access,https://github.com/appsmithorg/appsmith/pull/16363,2022-08-29T06:51:18Z,2022-08-29T09:16:25Z,12,3,MERGED
+appsmith,feat: Custom urls & New settings pane,https://github.com/appsmithorg/appsmith/pull/16361,2022-08-29T06:29:21Z,2022-12-02T05:49:51Z,124,203,MERGED
+appsmith,fix: Series Title Custom Charts,https://github.com/appsmithorg/appsmith/pull/16232,2022-08-23T07:06:32Z,2022-08-23T13:32:57Z,7,3,MERGED
+appsmith,feat: Linting in entity properties and methods,https://github.com/appsmithorg/appsmith/pull/16171,2022-08-20T11:34:26Z,2022-09-17T17:40:28Z,112,48,MERGED
+appsmith,feat: Add USA to the Map Chart Widget,https://github.com/appsmithorg/appsmith/pull/16130,2022-08-18T09:54:16Z,2022-08-24T08:19:25Z,16,4,MERGED
+appsmith,fix: Add mongo/redis to helm chart dependencies,https://github.com/appsmithorg/appsmith/pull/16096,2022-08-17T08:18:11Z,2022-10-14T10:45:49Z,26,64,MERGED
+appsmith,fix: show tooltip for members page title,https://github.com/appsmithorg/appsmith/pull/16062,2022-08-16T11:10:03Z,2022-08-16T15:14:05Z,1,7,MERGED
+appsmith,fix: Show invalid page UI for invalid jsobject page,https://github.com/appsmithorg/appsmith/pull/16056,2022-08-16T10:24:08Z,2022-08-17T11:57:54Z,6,3,MERGED
+appsmith,fix: Make default DB compulsory in URI string format,https://github.com/appsmithorg/appsmith/pull/15881,2022-08-10T04:47:58Z,2022-08-11T10:05:27Z,16,6,MERGED
+appsmith,fix: select default value validation,https://github.com/appsmithorg/appsmith/pull/15846,2022-08-08T12:36:18Z,2022-08-11T04:32:55Z,32,20,MERGED
+appsmith,"fix: Allow ""spaces"" in theme names while saving and display a more relevant error message ",https://github.com/appsmithorg/appsmith/pull/15837,2022-08-08T10:53:58Z,2022-08-22T05:22:12Z,28,8,MERGED
+appsmith,feat: added support for loaders / spinners in table component.,https://github.com/appsmithorg/appsmith/pull/15683,2022-08-03T12:54:11Z,2022-08-16T11:18:13Z,34,7,MERGED
+appsmith,feat: Static 404 page for chunk issue,https://github.com/appsmithorg/appsmith/pull/17168,2022-09-29T05:49:51Z,2022-09-30T06:27:29Z,14,15,MERGED
+appsmith,chore: Making the error pages conform to the design system,https://github.com/appsmithorg/appsmith/pull/17109,2022-09-27T17:55:31Z,2022-09-28T19:05:10Z,3,1,MERGED
+appsmith,"fix: For paths with an extension, give 404 if missing",https://github.com/appsmithorg/appsmith/pull/17035,2022-09-26T03:47:32Z,2022-09-26T04:11:38Z,3,1,MERGED
+appsmith,fix: Add collapse icon for bottom bar,https://github.com/appsmithorg/appsmith/pull/16939,2022-09-21T06:58:52Z,2022-10-20T12:08:49Z,97,44,MERGED
+appsmith,fix: Fix NPE in execute API (#16722),https://github.com/appsmithorg/appsmith/pull/16888,2022-09-20T05:54:07Z,2022-09-21T10:06:10Z,9,2,MERGED
+appsmith,fix: updated design for save as datasource button,https://github.com/appsmithorg/appsmith/pull/16700,2022-09-12T13:23:28Z,2022-09-16T10:27:35Z,9,3,MERGED
+appsmith,fix: fixing perf test workflow during merge.,https://github.com/appsmithorg/appsmith/pull/16574,2022-09-06T09:04:36Z,2022-09-06T09:32:34Z,1,1,MERGED
+appsmith,fix: upgrading to react 17 and fixing issues.,https://github.com/appsmithorg/appsmith/pull/16536,2022-09-05T10:32:17Z,2022-09-20T16:44:13Z,4,2,CLOSED
+appsmith,fix: Better autocomplete for fast-xml-parser,https://github.com/appsmithorg/appsmith/pull/16452,2022-09-02T03:07:44Z,2022-09-09T16:37:33Z,15,5,MERGED
+appsmith,feat: Code Scanner Enhancements,https://github.com/appsmithorg/appsmith/pull/17929,2022-10-28T04:17:24Z,2022-11-04T06:15:46Z,33,22,MERGED
+appsmith,feat: Import javascript libraries,https://github.com/appsmithorg/appsmith/pull/17895,2022-10-27T06:33:33Z,2022-12-21T17:14:47Z,105,245,MERGED
+appsmith,chore: template list sidebar consistent with application page sidebar,https://github.com/appsmithorg/appsmith/pull/17882,2022-10-26T08:05:58Z,2022-11-04T04:38:29Z,8,1,MERGED
+appsmith,fix: add connection pool to MySQL plugin and fix issues due to Spring upgrade,https://github.com/appsmithorg/appsmith/pull/17873,2022-10-25T19:01:42Z,2023-01-09T08:34:52Z,34,19,MERGED
+appsmith,[Bug] Incorrect count of users in workspace when adding multiple users,https://github.com/appsmithorg/appsmith/pull/17728,2022-10-19T17:04:15Z,2022-11-14T06:28:21Z,14,3,MERGED
+appsmith,feat: change default position to TOP for widgets with labels,https://github.com/appsmithorg/appsmith/pull/17726,2022-10-19T14:44:38Z,2022-10-27T10:02:12Z,5,4,MERGED
+appsmith,fix: upgrade page for audit logs with correct data,https://github.com/appsmithorg/appsmith/pull/17697,2022-10-19T06:11:37Z,2022-10-21T05:13:00Z,16,3,MERGED
+appsmith,fix: List connected private repos on repo-limit modal in git-import flow | git,https://github.com/appsmithorg/appsmith/pull/17627,2022-10-17T14:33:50Z,2022-10-26T06:48:05Z,12,2,MERGED
+appsmith,chore: create Field group config and refactor ActionCreator,https://github.com/appsmithorg/appsmith/pull/17601,2022-10-17T05:20:01Z,2023-03-24T10:16:59Z,23,25,CLOSED
+appsmith,fix: Fix assets not loading in supervisor UI,https://github.com/appsmithorg/appsmith/pull/17543,2022-10-14T01:48:08Z,2022-10-14T07:53:10Z,5,1,MERGED
+appsmith,Mobile Responsiveness POC,https://github.com/appsmithorg/appsmith/pull/17534,2022-10-13T09:38:03Z,2022-11-02T17:03:14Z,8,196,CLOSED
+appsmith,Mobile/v1/highlight calc,https://github.com/appsmithorg/appsmith/pull/17510,2022-10-12T09:16:09Z,2022-10-13T09:37:38Z,1,168,CLOSED
+appsmith,fix: show pull button when behind X commits | git,https://github.com/appsmithorg/appsmith/pull/17394,2022-10-08T10:48:52Z,2022-10-14T06:44:28Z,26,5,MERGED
+appsmith,feat: Add addMessageHandler as global function (handle window.postMessage from host),https://github.com/appsmithorg/appsmith/pull/17380,2022-10-07T07:45:49Z,2022-12-04T16:38:50Z,10,5,CLOSED
+appsmith,chore: Corrected usage of OR operator,https://github.com/appsmithorg/appsmith/pull/17379,2022-10-07T07:09:15Z,2022-10-07T07:33:11Z,1,1,MERGED
+appsmith,feat: Split evaluation and linting,https://github.com/appsmithorg/appsmith/pull/17287,2022-10-04T04:32:39Z,2022-11-03T09:23:15Z,124,76,MERGED
+appsmith,feat: Adding Embedding Apps Functionality,https://github.com/appsmithorg/appsmith/pull/18566,2022-11-29T19:57:07Z,2022-12-05T10:19:38Z,11,7,MERGED
+appsmith,feat: container split POC,https://github.com/appsmithorg/appsmith/pull/18539,2022-11-29T07:34:47Z,2023-01-07T16:37:43Z,3,4,CLOSED
+appsmith,fix: secret saved indicator on ui for datasource forms,https://github.com/appsmithorg/appsmith/pull/18531,2022-11-28T15:43:52Z,2023-01-20T14:03:42Z,12,5,MERGED
+appsmith,"fix: bring back ""async function in sync field"" error message",https://github.com/appsmithorg/appsmith/pull/18471,2022-11-26T21:02:14Z,2022-12-22T17:47:34Z,61,86,CLOSED
+appsmith,fix: Filtering out empty value env variables from /admin/env API response in backend,https://github.com/appsmithorg/appsmith/pull/18430,2022-11-24T12:28:08Z,2022-12-09T11:47:26Z,21,5,MERGED
+appsmith,fix: treat empty valued env variables as false | FE,https://github.com/appsmithorg/appsmith/pull/18428,2022-11-24T12:00:59Z,2022-12-13T10:08:37Z,19,7,MERGED
+appsmith,fix: Fixing Modal Height updates,https://github.com/appsmithorg/appsmith/pull/18317,2022-11-21T10:14:32Z,2022-11-21T10:22:20Z,2,1,MERGED
+appsmith,fix: Refresh datasource structure on save,https://github.com/appsmithorg/appsmith/pull/18290,2022-11-21T03:40:55Z,2022-11-25T05:05:38Z,9,5,MERGED
+appsmith,fix: fixing auto height in childless containers.,https://github.com/appsmithorg/appsmith/pull/18263,2022-11-18T10:50:36Z,2022-11-18T11:11:06Z,1,1,MERGED
+appsmith,fix: Form message component link issue,https://github.com/appsmithorg/appsmith/pull/18231,2022-11-17T11:15:55Z,2022-11-30T05:10:54Z,12,6,MERGED
+appsmith,fix: Fix NPE if email in admin emails doesn't have a user,https://github.com/appsmithorg/appsmith/pull/18222,2022-11-17T09:15:50Z,2022-11-21T08:44:42Z,3,1,MERGED
+appsmith,fix: Allow country code change text gets wrapped and makes the UI looks ugly,https://github.com/appsmithorg/appsmith/pull/18218,2022-11-17T06:22:14Z,2022-11-17T12:15:06Z,6,2,MERGED
+appsmith,fix: api url z-index to show it above response panel,https://github.com/appsmithorg/appsmith/pull/18200,2022-11-16T12:13:43Z,2022-11-25T08:06:04Z,7,2,MERGED
+appsmith,fix: Log ChunkLoadError on Sentry only after 3rd failure,https://github.com/appsmithorg/appsmith/pull/18196,2022-11-16T11:38:25Z,2022-11-18T09:33:24Z,4,2,MERGED
+appsmith,fix: Login password length upper limit changed from 48 to 256 characters,https://github.com/appsmithorg/appsmith/pull/18176,2022-11-15T13:22:00Z,2022-12-13T11:10:47Z,20,6,MERGED
+appsmith,"fix: Fix NPE on reset password, and message formats",https://github.com/appsmithorg/appsmith/pull/18108,2022-11-04T12:38:23Z,2022-12-06T03:07:42Z,10,1,MERGED
+appsmith,fix: added JS on menu button,https://github.com/appsmithorg/appsmith/pull/18031,2022-11-01T11:27:39Z,2022-11-02T20:46:50Z,8,5,MERGED
+appsmith,feat: Adding Navigation Settings Functionality,https://github.com/appsmithorg/appsmith/pull/19272,2022-12-28T08:48:17Z,2022-12-29T12:39:12Z,12,8,MERGED
+appsmith,feat: Separate the js object code and metadata when used with git sync,https://github.com/appsmithorg/appsmith/pull/19156,2022-12-23T06:27:29Z,2023-01-19T14:42:23Z,16,27,MERGED
+appsmith,[chore]: [Snyk] Security upgrade org.springframework.boot:spring-boot-starter-webflux from 2.7.0 to 2.7.7,https://github.com/appsmithorg/appsmith/pull/19145,2022-12-22T22:08:50Z,2022-12-27T03:58:41Z,4,1,CLOSED
+appsmith,[Snyk] Fix for 1 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/19116,2022-12-21T17:59:57Z,2023-01-02T12:51:49Z,5,1,CLOSED
+appsmith,[Snyk] Security upgrade org.ff4j:ff4j-config-yaml from 1.8.11 to 1.9,https://github.com/appsmithorg/appsmith/pull/19080,2022-12-20T18:52:40Z,2022-12-27T05:26:28Z,3,1,CLOSED
+appsmith,disable resize for 1d widgets.,https://github.com/appsmithorg/appsmith/pull/19069,2022-12-20T10:09:58Z,2023-01-03T16:39:07Z,3,1,CLOSED
+appsmith,[Snyk] Security upgrade software.amazon.awssdk:dynamodb from 2.15.3 to 2.17.200,https://github.com/appsmithorg/appsmith/pull/19021,2022-12-18T21:53:09Z,2022-12-27T05:27:05Z,2,1,CLOSED
+appsmith,[Snyk] Fix for 1 vulnerabilities,https://github.com/appsmithorg/appsmith/pull/19020,2022-12-18T19:31:58Z,2023-01-02T16:38:18Z,3,1,CLOSED
+appsmith,[Snyk] Security upgrade node from 16.14.0 to 16.19,https://github.com/appsmithorg/appsmith/pull/19018,2022-12-18T01:05:52Z,2023-01-02T16:38:21Z,3,1,CLOSED
+appsmith,[chore]: [Snyk] Security upgrade nginx from 1.20-alpine to 1.23.2-alpine,https://github.com/appsmithorg/appsmith/pull/18994,2022-12-16T06:32:48Z,2022-12-27T05:26:57Z,4,1,CLOSED
+appsmith,Mobile/v1/dynamic height,https://github.com/appsmithorg/appsmith/pull/18990,2022-12-16T04:12:29Z,2022-12-16T04:14:49Z,2,216,MERGED
+appsmith,[Snyk] Security upgrade node from 16.14.0 to 16.18.1,https://github.com/appsmithorg/appsmith/pull/18989,2022-12-16T01:54:41Z,2022-12-31T16:37:43Z,3,1,CLOSED
+appsmith,feat: Add placeholder to DatePickerV2,https://github.com/appsmithorg/appsmith/pull/18986,2022-12-15T18:00:08Z,2022-12-31T16:37:45Z,3,1,CLOSED
+appsmith,[Snyk] Security upgrade node from 16.14.0 to 16,https://github.com/appsmithorg/appsmith/pull/18959,2022-12-14T23:58:42Z,2022-12-27T05:27:16Z,2,1,CLOSED
+appsmith,[Snyk] Security upgrade com.google.firebase:firebase-admin from 7.3.0 to 9.1.0,https://github.com/appsmithorg/appsmith/pull/18957,2022-12-14T15:05:47Z,2022-12-27T05:27:25Z,2,1,CLOSED
+appsmith,[Snyk] Upgrade @sentry/tracing from 6.2.4 to 6.19.7,https://github.com/appsmithorg/appsmith/pull/18937,2022-12-14T04:23:57Z,2022-12-27T05:28:12Z,2,1,CLOSED
+appsmith,[Snyk] Upgrade @sentry/react from 6.2.4 to 6.19.7,https://github.com/appsmithorg/appsmith/pull/18936,2022-12-14T04:23:54Z,2022-12-27T05:27:31Z,2,1,CLOSED
+appsmith,[Snyk] Upgrade acorn from 8.8.0 to 8.8.1,https://github.com/appsmithorg/appsmith/pull/18935,2022-12-14T02:57:52Z,2022-12-27T05:28:02Z,2,1,CLOSED
+appsmith,[Snyk] Upgrade rollup from 2.77.0 to 2.79.1,https://github.com/appsmithorg/appsmith/pull/18934,2022-12-14T02:57:49Z,2022-12-27T05:27:55Z,2,1,CLOSED
+appsmith,[Snyk] Upgrade typescript from 4.5.5 to 4.9.3,https://github.com/appsmithorg/appsmith/pull/18933,2022-12-14T02:57:46Z,2022-12-27T05:27:47Z,2,1,CLOSED
+appsmith,fix: Modal opening or closing type error,https://github.com/appsmithorg/appsmith/pull/18913,2022-12-13T06:16:46Z,2022-12-13T10:04:33Z,1,1,MERGED
+appsmith,chore: Updating the text from enterprise to business to maintain consistency,https://github.com/appsmithorg/appsmith/pull/18787,2022-12-08T13:56:09Z,2022-12-08T18:38:43Z,3,4,MERGED
+appsmith,chore: update smartlook client,https://github.com/appsmithorg/appsmith/pull/18784,2022-12-08T12:59:28Z,2022-12-09T06:15:15Z,7,4,MERGED
+appsmith,fix: Remove redundant share CTA from org menu,https://github.com/appsmithorg/appsmith/pull/18718,2022-12-06T08:03:33Z,2022-12-06T12:50:41Z,6,3,MERGED
+appsmith,feat: Branding,https://github.com/appsmithorg/appsmith/pull/18717,2022-12-06T07:50:53Z,2022-12-09T14:43:47Z,30,32,MERGED
+appsmith,chore: use updated table widget in onboarding,https://github.com/appsmithorg/appsmith/pull/18705,2022-12-06T04:46:55Z,2022-12-14T10:32:35Z,5,4,MERGED
+appsmith,fix: Adjust Page Size and Remove Vertical Scroll,https://github.com/appsmithorg/appsmith/pull/18641,2022-12-02T12:49:52Z,2023-01-03T16:39:26Z,11,1,CLOSED
+appsmith,remove evaluatedValues,https://github.com/appsmithorg/appsmith/pull/18632,2022-12-02T09:36:40Z,2022-12-02T19:41:04Z,1,61,CLOSED
+appsmith,"fix: removed old key_val_input, updated keyval_array, show ds info",https://github.com/appsmithorg/appsmith/pull/18626,2022-12-02T07:43:39Z,2022-12-13T14:39:17Z,13,8,MERGED
+appsmith,Test/plugin execution error revamp,https://github.com/appsmithorg/appsmith/pull/20190,2023-01-29T08:40:58Z,2023-02-18T15:12:00Z,93,129,CLOSED
+appsmith,fix: callbacks in appsmith are unable to access variable declared in its parent scopes,https://github.com/appsmithorg/appsmith/pull/20168,2023-01-27T12:47:56Z,2023-02-11T18:33:21Z,136,91,MERGED
+appsmith,fix: Autocomplete needs to show async await keywords instead of showi…,https://github.com/appsmithorg/appsmith/pull/20150,2023-01-27T08:52:06Z,2023-02-02T08:31:15Z,16,7,MERGED
+appsmith,fix: Add batching strategy to segment analytics tracking so that events are sent to segment in batches instead of individual,https://github.com/appsmithorg/appsmith/pull/20087,2023-01-25T12:33:11Z,2023-02-08T08:56:47Z,17,4,MERGED
+appsmith,feat: peek overlay,https://github.com/appsmithorg/appsmith/pull/20053,2023-01-25T02:47:51Z,2023-02-17T16:03:35Z,136,70,MERGED
+appsmith,fix: Objects that start with an underscore `_JSObject1` fail to be navigated from the debugger,https://github.com/appsmithorg/appsmith/pull/20020,2023-01-24T09:42:47Z,2023-02-06T07:38:10Z,63,12,MERGED
+appsmith,fix: Autocomplete does not suggest same function name that belongs to…,https://github.com/appsmithorg/appsmith/pull/19943,2023-01-20T07:37:53Z,2023-01-26T06:51:41Z,15,4,MERGED
+appsmith,fix: show progress bar in git modal when committing library diffs,https://github.com/appsmithorg/appsmith/pull/19929,2023-01-19T16:20:12Z,2023-01-20T08:37:13Z,10,3,MERGED
+appsmith,Bugfix/autocomplete,https://github.com/appsmithorg/appsmith/pull/19858,2023-01-18T05:08:12Z,2023-01-20T06:28:05Z,3,4,CLOSED
+appsmith,fix: Show JS Function data in autocompletion hints,https://github.com/appsmithorg/appsmith/pull/19811,2023-01-16T19:35:01Z,2023-01-17T07:12:16Z,7,2,MERGED
+appsmith,chore: update browser list,https://github.com/appsmithorg/appsmith/pull/19786,2023-01-14T04:30:02Z,2023-01-16T06:01:39Z,4,1,MERGED
+appsmith,fix: code visual changes,https://github.com/appsmithorg/appsmith/pull/19668,2023-01-10T09:41:19Z,2023-05-03T04:30:20Z,13,16,CLOSED
+appsmith,chore: Remove collaboration pointers from the Editor,https://github.com/appsmithorg/appsmith/pull/19660,2023-01-10T08:38:40Z,2023-03-15T16:40:07Z,27,5,MERGED
+appsmith,POC to check new widget border design,https://github.com/appsmithorg/appsmith/pull/19520,2023-01-05T19:42:01Z,2023-01-29T16:37:41Z,3,428,CLOSED
+appsmith,chore: ee clean up,https://github.com/appsmithorg/appsmith/pull/19475,2023-01-04T07:27:52Z,2023-01-06T12:02:08Z,15,10,MERGED
+appsmith,chore: upgrade to prettier v2 + enforce import types (#21013),https://github.com/appsmithorg/appsmith/pull/21013,2023-02-27T19:44:03Z,2023-03-16T11:41:48Z,38,11,MERGED
+appsmith,perf: move worker dependencies to the corresponding workers,https://github.com/appsmithorg/appsmith/pull/20972,2023-02-27T00:31:17Z,2023-03-21T08:44:53Z,12,7,MERGED
+appsmith,chore: remove dependency path-to-regexp and use react-router match fu…,https://github.com/appsmithorg/appsmith/pull/20971,2023-02-26T15:51:33Z,2023-03-13T16:39:28Z,3,1,CLOSED
+appsmith,Chore/remove dependency,https://github.com/appsmithorg/appsmith/pull/20970,2023-02-26T15:31:13Z,2023-02-26T15:42:46Z,1,7,CLOSED
+appsmith,Auto Layout Perf enhancements,https://github.com/appsmithorg/appsmith/pull/20936,2023-02-24T06:27:56Z,2023-03-02T17:24:47Z,32,0,MERGED
+appsmith,fix: Updating profile image API url for members page and invite modal,https://github.com/appsmithorg/appsmith/pull/20915,2023-02-23T12:00:15Z,2023-02-24T06:38:03Z,7,1,MERGED
+appsmith,fix: Auto Layout Bug Fixes and Enhancements.,https://github.com/appsmithorg/appsmith/pull/20836,2023-02-21T11:41:20Z,2023-03-08T07:09:57Z,21,26,MERGED
+appsmith,fix: Remove scrollbars in edit mode,https://github.com/appsmithorg/appsmith/pull/20805,2023-02-20T15:14:27Z,2023-02-24T07:52:53Z,26,7,MERGED
+appsmith,feat: file picker added and access token generation,https://github.com/appsmithorg/appsmith/pull/20778,2023-02-20T08:03:35Z,2023-03-08T05:25:17Z,41,8,MERGED
+appsmith,chore: Move Maps API Key to database,https://github.com/appsmithorg/appsmith/pull/20771,2023-02-20T06:26:11Z,2023-07-24T08:03:54Z,58,51,MERGED
+appsmith,fix:Only show boundaries when siblings are dragged,https://github.com/appsmithorg/appsmith/pull/20752,2023-02-17T13:32:40Z,2023-02-24T13:21:57Z,18,2,MERGED
+appsmith,fix: Remove excess margin from the top of the canvas,https://github.com/appsmithorg/appsmith/pull/20751,2023-02-17T13:15:47Z,2023-04-07T06:35:31Z,33,6,CLOSED
+appsmith,fix: change word truncate behavior in show more modal,https://github.com/appsmithorg/appsmith/pull/20747,2023-02-17T12:09:38Z,2023-02-20T08:50:23Z,12,1,MERGED
+appsmith,chore: fix console warnings,https://github.com/appsmithorg/appsmith/pull/20584,2023-02-13T07:52:15Z,2023-02-19T02:33:52Z,12,2,MERGED
+appsmith,chore: upgrade page changes & license route removed on CE,https://github.com/appsmithorg/appsmith/pull/20412,2023-02-06T22:33:19Z,2023-02-08T07:35:36Z,24,5,MERGED
+appsmith,Gitstream test,https://github.com/appsmithorg/appsmith/pull/20385,2023-02-05T13:07:09Z,2023-02-05T13:07:45Z,1,8,CLOSED
+appsmith,chore: [Usage & billing] change upgrade hook link and refactor upgrade to BE page,https://github.com/appsmithorg/appsmith/pull/20312,2023-02-02T08:57:02Z,2023-02-03T04:18:51Z,11,12,MERGED
+appsmith,fix: change tooltip interactionKind to HOVER and makes viewport bound…,https://github.com/appsmithorg/appsmith/pull/20300,2023-02-01T18:02:32Z,2023-03-24T07:15:24Z,35,4,CLOSED
+appsmith,[DO NOT MERGE ] chore: step 2 split data tree,https://github.com/appsmithorg/appsmith/pull/20282,2023-02-01T08:23:56Z,2023-03-17T14:50:04Z,170,65,CLOSED
+appsmith,perf: preload route chunks for view and edit modes,https://github.com/appsmithorg/appsmith/pull/21933,2023-03-30T20:09:42Z,2023-04-04T06:59:43Z,1,6,MERGED
+appsmith,fix: settings pane close icon hover,https://github.com/appsmithorg/appsmith/pull/21848,2023-03-29T06:50:31Z,2023-03-30T12:11:30Z,8,2,MERGED
+appsmith,chore: Include user-agent in events from backend,https://github.com/appsmithorg/appsmith/pull/21756,2023-03-24T11:51:08Z,2023-03-27T04:41:40Z,9,3,MERGED
+appsmith,perf: code-split codemirror & lottie + optimize the build for modern apps,https://github.com/appsmithorg/appsmith/pull/21602,2023-03-20T13:43:01Z,2023-03-23T07:02:56Z,11,12,MERGED
+appsmith,feat: Action selector,https://github.com/appsmithorg/appsmith/pull/21582,2023-03-20T07:41:04Z,2023-04-06T16:49:13Z,255,494,MERGED
+appsmith,fix: Improving performance of JS evaluations by splitting the data tree,https://github.com/appsmithorg/appsmith/pull/21547,2023-03-17T14:18:20Z,2023-03-20T11:04:03Z,10,65,MERGED
+appsmith,fix: performance improvements for js editor,https://github.com/appsmithorg/appsmith/pull/21492,2023-03-16T15:55:56Z,2023-03-21T05:09:43Z,22,11,MERGED
+appsmith,"perf: code-split svg, remix and blueprint icons away",https://github.com/appsmithorg/appsmith/pull/21438,2023-03-15T12:26:31Z,2023-03-21T08:52:48Z,2,11,MERGED
+appsmith,feat: map of china added with mapchart,https://github.com/appsmithorg/appsmith/pull/21428,2023-03-15T09:48:39Z,2023-03-31T16:36:04Z,18,5,CLOSED
+appsmith,ci: add comments for vercel-deploy-preview,https://github.com/appsmithorg/appsmith/pull/21349,2023-03-13T04:18:13Z,2023-03-16T12:02:33Z,5,3,MERGED
+appsmith,fix: Testing Widget name component perf issues,https://github.com/appsmithorg/appsmith/pull/21240,2023-03-07T13:18:43Z,2023-03-23T16:38:36Z,8,2,CLOSED
+appsmith,feat: show lint errors in async functions bound to sync fields,https://github.com/appsmithorg/appsmith/pull/21187,2023-03-06T09:43:53Z,2023-04-03T10:41:15Z,119,59,MERGED
+appsmith,fix: left hand assignment error,https://github.com/appsmithorg/appsmith/pull/21138,2023-03-03T08:41:20Z,2023-03-06T11:47:16Z,32,9,MERGED
+appsmith,Auto Layout Editor Perf Fixes Draft,https://github.com/appsmithorg/appsmith/pull/21121,2023-03-03T05:17:35Z,2023-03-14T17:54:51Z,81,37,MERGED
+appsmith,ci: build lite version of deploy preview,https://github.com/appsmithorg/appsmith/pull/21078,2023-03-01T10:05:19Z,2023-03-08T09:37:31Z,7,1,MERGED
+appsmith,fix:  ADS 2.0 issue reported by QA & design team.,https://github.com/appsmithorg/appsmith/pull/22851,2023-04-30T10:02:43Z,2023-05-11T05:21:20Z,23,21,MERGED
+appsmith,feat: Autocompletion hints in sql editor,https://github.com/appsmithorg/appsmith/pull/22827,2023-04-28T10:18:28Z,2023-05-12T05:56:54Z,56,25,MERGED
+appsmith,"chore: Minor Tasks for Auto Layout feature, Sentry errors, metrics and Beta tag",https://github.com/appsmithorg/appsmith/pull/22792,2023-04-27T15:34:54Z,2023-05-07T05:10:03Z,60,12,MERGED
+appsmith,feat: Update order of action file operations,https://github.com/appsmithorg/appsmith/pull/22754,2023-04-26T10:03:41Z,2023-05-08T09:13:24Z,35,12,MERGED
+appsmith,"fix: casing for url,Url to URL in restapi pagination tab",https://github.com/appsmithorg/appsmith/pull/22732,2023-04-25T13:27:21Z,2023-04-27T05:28:34Z,9,2,MERGED
+appsmith,chore: WDS Color `bg` and `bgAccent` (light mode),https://github.com/appsmithorg/appsmith/pull/22720,2023-04-25T11:03:24Z,2023-04-25T15:24:57Z,0,1,MERGED
+appsmith,fix: this.params shows error in IIFE,https://github.com/appsmithorg/appsmith/pull/22683,2023-04-24T19:30:27Z,2023-05-03T07:08:40Z,35,9,MERGED
+appsmith,fix: tooltip in gsheets query pagination field,https://github.com/appsmithorg/appsmith/pull/22622,2023-04-21T09:57:59Z,2023-04-21T13:15:08Z,6,1,MERGED
+appsmith,chore: WDS color `bgAccentSubtle` light mode fixes,https://github.com/appsmithorg/appsmith/pull/22593,2023-04-20T09:28:06Z,2023-04-21T13:15:35Z,5,6,MERGED
+appsmith,fix: Changed import icon to have arrow face upwards,https://github.com/appsmithorg/appsmith/pull/22347,2023-04-12T15:50:42Z,2023-05-04T16:40:21Z,5,1,CLOSED
+appsmith,fix: Alphanumeric sorting of options in action selector sub menu,https://github.com/appsmithorg/appsmith/pull/22216,2023-04-10T09:05:35Z,2023-04-11T07:26:50Z,16,4,MERGED
+appsmith,feat: Display loading message in browser when Appsmith is starting,https://github.com/appsmithorg/appsmith/pull/22215,2023-04-10T09:01:40Z,2023-04-19T12:51:00Z,26,28,MERGED
+appsmith,fix: CSS broken after action selector redesign changes,https://github.com/appsmithorg/appsmith/pull/22214,2023-04-10T08:53:34Z,2023-04-11T08:10:16Z,13,2,MERGED
+appsmith,fix: missing rts dependencies,https://github.com/appsmithorg/appsmith/pull/22124,2023-04-05T07:51:09Z,2023-04-06T03:36:49Z,0,1,CLOSED
+appsmith,fix: fix package.json file for ast build,https://github.com/appsmithorg/appsmith/pull/22119,2023-04-05T07:18:56Z,2023-04-05T08:44:37Z,0,1,MERGED
+appsmith,feat: Adds tooltip to reconnect datasources list.,https://github.com/appsmithorg/appsmith/pull/22083,2023-04-04T10:26:28Z,2023-04-18T13:36:39Z,17,9,MERGED
+appsmith,chore: modify getAllPaths utility method to only create child records for native objects,https://github.com/appsmithorg/appsmith/pull/21998,2023-04-03T03:35:07Z,2023-04-03T06:03:03Z,5,5,MERGED
+appsmith,perf: work around the V8 service worker regression,https://github.com/appsmithorg/appsmith/pull/21996,2023-04-02T20:42:22Z,2023-04-05T09:11:28Z,1,4,MERGED
+appsmith,fix: tooltip for the orange deviation dot prevent overflow out of screen fixed,https://github.com/appsmithorg/appsmith/pull/21992,2023-04-02T09:31:45Z,2023-04-06T10:37:34Z,23,4,MERGED
+appsmith,feat: Improve Linting performance ,https://github.com/appsmithorg/appsmith/pull/23865,2023-05-30T09:50:42Z,2023-07-05T13:34:04Z,117,65,MERGED
+appsmith,fix(jsonwidget): Phone Number Default Config,https://github.com/appsmithorg/appsmith/pull/23837,2023-05-29T11:23:41Z,2023-06-06T08:03:03Z,12,2,MERGED
+appsmith,fix(jsonwidget): Phone Number Default Config,https://github.com/appsmithorg/appsmith/pull/23836,2023-05-29T11:17:48Z,2023-05-29T11:23:17Z,1,1,CLOSED
+appsmith,chore: test performance,https://github.com/appsmithorg/appsmith/pull/23799,2023-05-28T09:28:54Z,2023-05-29T12:28:51Z,3,2,MERGED
+appsmith,fix: updated Box shadow UI,https://github.com/appsmithorg/appsmith/pull/23795,2023-05-28T06:07:21Z,2023-06-08T01:23:29Z,32,11,MERGED
+appsmith,chore: Invite modal UI in error state,https://github.com/appsmithorg/appsmith/pull/23772,2023-05-26T10:40:35Z,2023-05-26T17:24:39Z,9,3,MERGED
+appsmith,fix: Update connection mode DropDown by Segmented Control,https://github.com/appsmithorg/appsmith/pull/23730,2023-05-25T11:01:25Z,2023-05-29T11:15:52Z,28,5,MERGED
+appsmith,feat: Adds support for showing navbar in embedded view.,https://github.com/appsmithorg/appsmith/pull/23725,2023-05-25T09:29:23Z,2023-06-05T14:07:40Z,35,21,MERGED
+appsmith,chore: intercom trigger added for gsheets auth failure,https://github.com/appsmithorg/appsmith/pull/23664,2023-05-23T16:17:07Z,2023-05-30T11:49:36Z,20,6,MERGED
+appsmith,fix: adding a back button in git revert modal,https://github.com/appsmithorg/appsmith/pull/23632,2023-05-23T07:44:05Z,2023-05-24T05:50:37Z,8,1,MERGED
+appsmith,fix: action selector popup value for integrations,https://github.com/appsmithorg/appsmith/pull/23614,2023-05-22T18:02:12Z,2023-05-24T03:05:59Z,16,3,MERGED
+appsmith,perf: prioritize the main bundle over `<link rel=preload>`s,https://github.com/appsmithorg/appsmith/pull/23556,2023-05-19T16:10:32Z,2023-06-12T17:13:19Z,41,12,CLOSED
+appsmith,fix: log item error expanding the api editor width ,https://github.com/appsmithorg/appsmith/pull/23545,2023-05-19T13:24:35Z,2023-05-24T12:52:04Z,0,1,MERGED
+appsmith,fix: adding back button for git revoke access,https://github.com/appsmithorg/appsmith/pull/23523,2023-05-19T07:37:06Z,2023-05-23T07:45:11Z,9,2,CLOSED
+appsmith,fix: adding back button to git revoke modal,https://github.com/appsmithorg/appsmith/pull/23505,2023-05-18T20:45:47Z,2023-05-22T07:27:20Z,4,1,CLOSED
+appsmith,feat: Implemented Schema Fetch for MSSQL Plugin (#16014),https://github.com/appsmithorg/appsmith/pull/23498,2023-05-18T12:55:24Z,2023-05-24T06:08:06Z,21,9,MERGED
+appsmith,fix: generate crud spec fix,https://github.com/appsmithorg/appsmith/pull/23464,2023-05-17T17:49:07Z,2023-05-18T07:19:51Z,0,2,MERGED
+appsmith,fix: list v2 pageNo spec,https://github.com/appsmithorg/appsmith/pull/23421,2023-05-16T18:34:42Z,2023-05-16T19:00:04Z,0,1,MERGED
+appsmith,feat: peek overlay nested properties + perf improvements,https://github.com/appsmithorg/appsmith/pull/23414,2023-05-16T15:00:25Z,2023-05-26T11:42:10Z,73,59,MERGED
+appsmith,fix: scrolling spec,https://github.com/appsmithorg/appsmith/pull/23409,2023-05-16T13:02:29Z,2023-05-16T13:10:52Z,0,3,MERGED
+appsmith,"fix: chart widget, generate crud page spec, list etc",https://github.com/appsmithorg/appsmith/pull/23403,2023-05-16T11:53:33Z,2023-05-16T12:13:45Z,2,1,MERGED
+appsmith,fix: Page name cutoff,https://github.com/appsmithorg/appsmith/pull/23394,2023-05-16T10:41:14Z,2023-05-24T06:32:59Z,11,5,MERGED
+appsmith,feat: Updates templates filters section in appsmith platform,https://github.com/appsmithorg/appsmith/pull/23361,2023-05-15T14:25:12Z,2023-06-05T06:16:01Z,24,9,MERGED
+appsmith,fix: misc ads bugs,https://github.com/appsmithorg/appsmith/pull/23259,2023-05-12T07:05:23Z,2023-05-13T13:45:18Z,9,9,MERGED
+appsmith,fix: moustache brackets not showing up in bold,https://github.com/appsmithorg/appsmith/pull/23245,2023-05-11T19:58:32Z,2023-05-22T10:51:57Z,23,5,MERGED
+appsmith,fix: code to UI breaking by disabling JS toggle,https://github.com/appsmithorg/appsmith/pull/23242,2023-05-11T18:28:31Z,2023-05-22T10:53:44Z,39,12,MERGED
+appsmith,chore: Rename long index names,https://github.com/appsmithorg/appsmith/pull/23211,2023-05-11T07:53:51Z,2023-06-05T06:04:42Z,11,9,MERGED
+appsmith,fix: signposting close button color,https://github.com/appsmithorg/appsmith/pull/23177,2023-05-10T11:16:47Z,2023-05-10T14:39:58Z,0,1,MERGED
+appsmith,feat: Adds option to fork an app within the app editor,https://github.com/appsmithorg/appsmith/pull/23158,2023-05-10T04:54:02Z,2023-05-30T09:24:38Z,47,23,MERGED
+appsmith,fix: undo redo toast message (ADS),https://github.com/appsmithorg/appsmith/pull/23147,2023-05-09T15:09:43Z,2023-05-10T04:41:50Z,0,1,MERGED
+appsmith,chore: deduplicate view mode all apps tooltip,https://github.com/appsmithorg/appsmith/pull/23146,2023-05-09T14:54:53Z,2023-05-10T04:42:15Z,0,1,MERGED
+appsmith,fix: country flag emojis not working in chromium browsers on windows for airgapped instances.,https://github.com/appsmithorg/appsmith/pull/23091,2023-05-08T15:07:35Z,2023-05-09T05:14:28Z,8,2,MERGED
+appsmith,fix: Add message prompt on min field,https://github.com/appsmithorg/appsmith/pull/22977,2023-05-04T01:12:46Z,2023-05-08T10:19:23Z,10,4,MERGED
+appsmith,chore: remove unnecessary props from button and improve test color co…,https://github.com/appsmithorg/appsmith/pull/22972,2023-05-03T15:36:16Z,2023-05-04T07:43:06Z,7,1,MERGED
+appsmith,fix: fix favicon not showing up on release,https://github.com/appsmithorg/appsmith/pull/22924,2023-05-02T15:17:50Z,2023-05-02T17:55:33Z,12,1,MERGED
+appsmith,fix: Homepage menu and listItem bug fixes,https://github.com/appsmithorg/appsmith/pull/22858,2023-05-01T04:16:53Z,2023-05-01T05:53:53Z,0,1,MERGED
+appsmith,"perf: reduce the bundle size, vol. 2",https://github.com/appsmithorg/appsmith/pull/24969,2023-06-30T11:25:45Z,2023-07-16T18:49:42Z,63,21,MERGED
+appsmith,feat: binding section UI redesign,https://github.com/appsmithorg/appsmith/pull/24965,2023-06-30T10:58:40Z,2023-07-04T06:52:57Z,15,6,MERGED
+appsmith,chore: Updates message shown for requesting a template,https://github.com/appsmithorg/appsmith/pull/24952,2023-06-30T08:44:10Z,2023-06-30T10:08:52Z,7,1,MERGED
+appsmith,feat: Widget Discoverability,https://github.com/appsmithorg/appsmith/pull/24934,2023-06-29T19:40:55Z,2023-07-22T05:57:19Z,82,36,MERGED
+appsmith,feat: added of walkthrough component to highlight a feature,https://github.com/appsmithorg/appsmith/pull/24915,2023-06-28T18:36:02Z,2023-07-05T12:46:40Z,20,22,MERGED
+appsmith,fix: Enable Sentry logging for Appsmith cloud server,https://github.com/appsmithorg/appsmith/pull/24893,2023-06-28T05:47:21Z,2023-06-29T09:29:48Z,5,2,MERGED
+appsmith,poc: ab testing with flagsmith,https://github.com/appsmithorg/appsmith/pull/24885,2023-06-27T16:07:51Z,2023-06-28T07:29:03Z,1,2,CLOSED
+appsmith,fix: replacing onInteractOutside with onPointerDownOutside,https://github.com/appsmithorg/appsmith/pull/24830,2023-06-26T07:17:33Z,2023-06-27T05:30:34Z,10,2,MERGED
+appsmith,fix: set the min width to allow all content to load with a scroll ,https://github.com/appsmithorg/appsmith/pull/24827,2023-06-26T06:14:46Z,2023-06-28T09:35:30Z,8,1,MERGED
+appsmith,fix: removes error count form widget name component,https://github.com/appsmithorg/appsmith/pull/24653,2023-06-20T05:22:17Z,2023-07-05T06:04:09Z,21,3,MERGED
+appsmith,fix: Datasource edit icon is different from platform,https://github.com/appsmithorg/appsmith/pull/24604,2023-06-19T06:25:26Z,2023-06-22T18:18:30Z,12,3,MERGED
+appsmith,fix: ADS select styles getting overridden by WDS components,https://github.com/appsmithorg/appsmith/pull/24503,2023-06-15T17:47:14Z,2023-06-23T05:59:11Z,19,5,MERGED
+appsmith,fix: fix MySQL stale connection error,https://github.com/appsmithorg/appsmith/pull/24429,2023-06-14T05:48:02Z,2023-06-30T06:10:06Z,33,21,MERGED
+appsmith,fix: fix issue with scrollbar not coming up on welcome screen,https://github.com/appsmithorg/appsmith/pull/24392,2023-06-13T06:57:30Z,2023-06-13T08:22:50Z,3,1,MERGED
+appsmith,perf: merge all icons into three major chunks,https://github.com/appsmithorg/appsmith/pull/24382,2023-06-12T19:12:11Z,2023-06-16T06:08:09Z,12,2,MERGED
+appsmith,perf: prioritize the main bundle over preloads (v2),https://github.com/appsmithorg/appsmith/pull/24374,2023-06-12T14:29:00Z,2023-06-22T05:28:10Z,30,12,MERGED
+appsmith,fix: Modifies Action selector copy in onboarding flow,https://github.com/appsmithorg/appsmith/pull/24367,2023-06-12T10:18:55Z,2023-06-12T12:20:30Z,6,2,MERGED
+appsmith,feat: move `Use this template` to top of iframe,https://github.com/appsmithorg/appsmith/pull/24361,2023-06-12T08:42:50Z,2023-06-15T05:26:43Z,11,5,MERGED
+appsmith,chore: add codeowners file,https://github.com/appsmithorg/appsmith/pull/24317,2023-06-09T14:00:48Z,2023-06-14T06:44:20Z,3,1,MERGED
+appsmith,feat: query creation dumb templates replaced with smart templates,https://github.com/appsmithorg/appsmith/pull/24234,2023-06-08T07:29:56Z,2023-06-19T09:53:34Z,71,24,MERGED
+appsmith,fix: Space between widget name & search input,https://github.com/appsmithorg/appsmith/pull/24233,2023-06-08T06:58:26Z,2023-06-08T07:30:35Z,1,48,MERGED
+appsmith,chore: fix ipv6 nginx startup error,https://github.com/appsmithorg/appsmith/pull/24199,2023-06-07T10:25:17Z,2023-06-09T01:57:59Z,13,2,MERGED
+appsmith,fix: fix alignments with the non super user form,https://github.com/appsmithorg/appsmith/pull/24114,2023-06-06T13:28:22Z,2023-06-06T15:18:27Z,4,2,MERGED
+appsmith,fix: show callback button in action selector cards for chainable actions by default,https://github.com/appsmithorg/appsmith/pull/24071,2023-06-06T07:44:09Z,2023-06-09T09:25:52Z,18,4,MERGED
+appsmith,fix: Empty space at the start of Topstacked navigation page list,https://github.com/appsmithorg/appsmith/pull/24051,2023-06-05T14:58:33Z,2023-06-08T04:56:16Z,11,2,MERGED
+appsmith,fix: adding theme and settings to git status messages,https://github.com/appsmithorg/appsmith/pull/24045,2023-06-05T13:12:32Z,2023-06-28T04:33:20Z,19,7,MERGED
+appsmith,"fix: Added ""children"" to autocomplete list for multiTree and singleTree widgets",https://github.com/appsmithorg/appsmith/pull/24018,2023-06-05T06:10:04Z,2023-06-06T08:37:06Z,13,5,MERGED
+appsmith,fix: all backlog fixes for ads v2,https://github.com/appsmithorg/appsmith/pull/24012,2023-06-05T04:46:49Z,2023-06-12T05:40:54Z,25,9,MERGED
+appsmith,fix: curl import empty headers issue fixed,https://github.com/appsmithorg/appsmith/pull/23982,2023-06-02T08:08:02Z,2023-06-05T09:33:52Z,7,2,MERGED
+appsmith,feat: gsheets schema UI,https://github.com/appsmithorg/appsmith/pull/25768,2023-07-27T06:34:31Z,2023-08-06T11:52:27Z,50,24,MERGED
+appsmith,feat: trigger API extended to fetch sheet data,https://github.com/appsmithorg/appsmith/pull/25681,2023-07-25T09:14:02Z,2023-07-26T11:06:59Z,18,3,MERGED
+appsmith,chore: Instrument JS execution,https://github.com/appsmithorg/appsmith/pull/25613,2023-07-23T12:15:12Z,2023-07-27T11:07:57Z,16,4,MERGED
+appsmith,chore: Add bcryptjs to list of recommended libraries,https://github.com/appsmithorg/appsmith/pull/25456,2023-07-18T13:54:47Z,2023-07-19T13:52:49Z,11,2,MERGED
+appsmith,"feat: For movies mock db, query should be populated with default values",https://github.com/appsmithorg/appsmith/pull/25403,2023-07-17T13:20:19Z,2023-07-24T12:02:51Z,35,8,MERGED
+appsmith,feat: Remove  async/sync differentiation from Appsmith,https://github.com/appsmithorg/appsmith/pull/25399,2023-07-17T12:00:34Z,2023-08-05T05:38:54Z,142,54,MERGED
+appsmith,chore: add color validation + native color picker,https://github.com/appsmithorg/appsmith/pull/25355,2023-07-13T11:52:25Z,2023-08-07T08:55:10Z,41,11,MERGED
+appsmith,perf: remove BaseLinter implementation,https://github.com/appsmithorg/appsmith/pull/25335,2023-07-12T12:50:39Z,2023-07-12T16:57:11Z,7,1,MERGED
+appsmith,fix: vertically stack lint errors in the tooltip (#24974),https://github.com/appsmithorg/appsmith/pull/25172,2023-07-06T17:28:37Z,2023-07-10T07:37:28Z,8,1,MERGED
+appsmith,fix: git discard message,https://github.com/appsmithorg/appsmith/pull/25138,2023-07-05T15:07:27Z,2023-07-07T05:18:54Z,7,3,MERGED
+appsmith,fix: new widget thumbnail added for existing widgets,https://github.com/appsmithorg/appsmith/pull/25135,2023-07-05T12:27:30Z,2023-07-05T12:51:32Z,0,1,MERGED
+appsmith,Fix/widget new thumbnail,https://github.com/appsmithorg/appsmith/pull/25134,2023-07-05T12:24:39Z,2023-07-05T12:25:55Z,0,6,CLOSED
+appsmith,feat: Add fallback height to lazy code editor fallback codemirror component,https://github.com/appsmithorg/appsmith/pull/25047,2023-07-03T20:44:19Z,2023-07-16T20:58:23Z,20,7,MERGED
+appsmith,chore: Improve js execution instrumentation,https://github.com/appsmithorg/appsmith/pull/24994,2023-07-02T22:49:25Z,2023-07-06T08:45:29Z,40,10,MERGED
+appsmith,perf(ee): code-split the Settings page away,https://github.com/appsmithorg/appsmith/pull/24993,2023-07-02T20:48:04Z,2023-07-10T13:51:16Z,14,5,MERGED
+appsmith,fix: gsheet cell range filter format issue fixed,https://github.com/appsmithorg/appsmith/pull/26827,2023-08-31T09:46:02Z,2023-09-01T13:20:22Z,12,1,MERGED
+appsmith,fix: callouts changed from warning to info for db datasources,https://github.com/appsmithorg/appsmith/pull/26747,2023-08-29T10:20:47Z,2023-08-30T07:27:42Z,9,1,MERGED
+appsmith,feat: Update execution flow for git feature based on feature flag  ,https://github.com/appsmithorg/appsmith/pull/26665,2023-08-25T17:35:48Z,2023-08-31T04:39:43Z,8,4,MERGED
+appsmith,feat: preview data api extended for mysql,https://github.com/appsmithorg/appsmith/pull/26573,2023-08-22T13:11:56Z,2023-08-23T08:02:01Z,11,1,MERGED
+appsmith,chore: BaseWidget Restructuring,https://github.com/appsmithorg/appsmith/pull/26562,2023-08-22T10:28:08Z,2023-09-11T15:55:12Z,238,87,MERGED
+appsmith,chore: migrate storybook from webpack to vite,https://github.com/appsmithorg/appsmith/pull/26396,2023-08-16T17:54:47Z,2023-08-17T07:32:16Z,1,2,MERGED
+appsmith,chore: Change SMTP plugin Body Type form dropdown to segmented button #23430,https://github.com/appsmithorg/appsmith/pull/26302,2023-08-13T05:45:10Z,2023-08-30T16:35:23Z,5,1,CLOSED
+appsmith,feat: Added new api to fetch preview data,https://github.com/appsmithorg/appsmith/pull/26298,2023-08-11T13:13:05Z,2023-08-22T12:02:02Z,23,6,MERGED
+appsmith,fix: Adding maximum limit coz of local dev setup JS heap issues,https://github.com/appsmithorg/appsmith/pull/26291,2023-08-11T09:59:37Z,2023-08-16T10:29:17Z,3,1,MERGED
+appsmith,fix: deduct bottom bar height from sidebar's height in preview mode,https://github.com/appsmithorg/appsmith/pull/26266,2023-08-10T20:29:02Z,2023-08-11T09:26:04Z,10,2,MERGED
+appsmith,fix: property pane table binding issue fixed,https://github.com/appsmithorg/appsmith/pull/26124,2023-08-08T08:01:05Z,2023-08-11T13:25:30Z,23,5,MERGED
+appsmith,fix: adding loading state on remote branch switching,https://github.com/appsmithorg/appsmith/pull/26058,2023-08-04T14:13:11Z,2023-08-08T05:12:49Z,7,2,MERGED
+appsmith,fix: Removed learn more link for Aug 6 downtime message,https://github.com/appsmithorg/appsmith/pull/25912,2023-08-01T14:32:50Z,2023-08-01T14:33:52Z,0,1,MERGED
+appsmith,fix: Minor UI fixes to JS Editor,https://github.com/appsmithorg/appsmith/pull/25907,2023-08-01T12:58:45Z,2023-08-16T07:01:07Z,19,4,MERGED
+appsmith,feat: show lint error for imperative store update,https://github.com/appsmithorg/appsmith/pull/27708,2023-09-29T06:45:56Z,2023-09-29T12:30:23Z,10,2,MERGED
+appsmith,fix: spacing issues on action page,https://github.com/appsmithorg/appsmith/pull/27656,2023-09-27T07:14:59Z,2023-09-27T11:31:15Z,9,1,MERGED
+appsmith,fix: adding offline error for git failure,https://github.com/appsmithorg/appsmith/pull/27597,2023-09-25T13:26:23Z,2023-09-26T10:37:26Z,17,3,MERGED
+appsmith,chore: Change the position of the KB Button in the AppViewer and Editor pages,https://github.com/appsmithorg/appsmith/pull/27573,2023-09-22T10:30:48Z,2023-09-26T12:00:16Z,12,4,MERGED
+appsmith,chore: WDS `fgNeutralSubtle` fine-tuning,https://github.com/appsmithorg/appsmith/pull/27510,2023-09-20T12:55:57Z,2023-09-21T09:06:05Z,1,1,MERGED
+appsmith,ci: Remove installs of packages already available,https://github.com/appsmithorg/appsmith/pull/27123,2023-09-09T00:53:56Z,2023-09-11T12:08:20Z,1,1,MERGED
+appsmith,feat: Remove Action/Query/JS data from unevalTree ,https://github.com/appsmithorg/appsmith/pull/27056,2023-09-07T07:26:29Z,2023-09-27T22:03:39Z,94,17,MERGED
+appsmith,feat: branch protection,https://github.com/appsmithorg/appsmith/pull/28526,2023-10-31T12:07:28Z,2023-11-03T17:13:37Z,58,41,MERGED
+appsmith,fix: Feature/iframe dynamic visibility (2nd attempt),https://github.com/appsmithorg/appsmith/pull/28397,2023-10-26T08:55:51Z,2023-10-27T11:35:13Z,10,1,MERGED
+appsmith,feat: [Feature]-[116] Map Widget - Add MapTypeControl (Satellite/Roadmap),https://github.com/appsmithorg/appsmith/pull/28344,2023-10-24T23:30:30Z,2023-11-27T06:59:14Z,35,4,MERGED
+appsmith,[Chore]: App Sidebar Library Pane,https://github.com/appsmithorg/appsmith/pull/28332,2023-10-24T14:01:15Z,2023-11-03T05:24:59Z,49,20,MERGED
+appsmith,feat: branch protection,https://github.com/appsmithorg/appsmith/pull/28311,2023-10-23T16:31:41Z,2023-10-31T12:09:25Z,6,11,CLOSED
+appsmith,fix: empty query response on page load issue fixed,https://github.com/appsmithorg/appsmith/pull/28296,2023-10-23T10:17:46Z,2023-10-26T09:39:00Z,13,2,MERGED
+appsmith,feat: open ai feature request,https://github.com/appsmithorg/appsmith/pull/28295,2023-10-23T09:38:58Z,2023-11-03T04:20:34Z,102,51,MERGED
+appsmith,fix: Feature/iframe dynamic visibility,https://github.com/appsmithorg/appsmith/pull/28243,2023-10-19T21:05:38Z,2023-10-26T09:08:04Z,28,35,CLOSED
+appsmith,fix: `learn more` button on community templates,https://github.com/appsmithorg/appsmith/pull/28216,2023-10-19T07:21:15Z,2023-10-19T09:57:08Z,9,2,MERGED
+appsmith,feat: Added hints for function arguments,https://github.com/appsmithorg/appsmith/pull/28214,2023-10-19T06:13:34Z,2023-11-07T06:00:33Z,68,50,MERGED
+appsmith,fix: MySQL plugin: add check for null column value for JSON column type,https://github.com/appsmithorg/appsmith/pull/28148,2023-10-17T08:59:21Z,2023-10-19T03:29:13Z,9,2,MERGED
+appsmith,fix: debugger spacing issues,https://github.com/appsmithorg/appsmith/pull/27968,2023-10-11T12:07:55Z,2023-10-24T06:15:44Z,24,4,MERGED
+appsmith,fix: remove hardcoded color for upgrade button,https://github.com/appsmithorg/appsmith/pull/27880,2023-10-06T15:48:16Z,2023-10-07T07:31:16Z,4,1,MERGED
+appsmith,chore: replace emotion/sheet to emotion/css,https://github.com/appsmithorg/appsmith/pull/27827,2023-10-04T18:27:24Z,2023-10-06T06:59:02Z,6,1,MERGED
+appsmith,chore: update analytic events to capture SSH tunnel configuration for MySQL,https://github.com/appsmithorg/appsmith/pull/27810,2023-10-04T07:02:35Z,2023-10-05T00:31:56Z,11,2,MERGED
+appsmith,feat: Improve error message for typeErrors,https://github.com/appsmithorg/appsmith/pull/27795,2023-10-03T17:57:23Z,2023-10-22T06:46:31Z,35,16,MERGED
+appsmith,feat: API for search entities ,https://github.com/appsmithorg/appsmith/pull/29203,2023-11-29T08:41:48Z,2023-12-08T05:49:51Z,25,23,MERGED
+appsmith,fix: fixing non blocking calls,https://github.com/appsmithorg/appsmith/pull/29170,2023-11-28T12:02:46Z,2023-11-29T08:48:50Z,3,1,MERGED
+appsmith,"fix: Remove ""No action""  cue in action selector",https://github.com/appsmithorg/appsmith/pull/29017,2023-11-21T22:11:46Z,2023-11-24T04:21:49Z,19,2,MERGED
+appsmith,feat: updated the secure banner,https://github.com/appsmithorg/appsmith/pull/29010,2023-11-21T10:52:04Z,2023-11-28T12:15:47Z,24,7,MERGED
+appsmith,"feat: updated loading, nodata, failed states on preview data screen",https://github.com/appsmithorg/appsmith/pull/28987,2023-11-21T06:12:25Z,2023-11-22T09:50:04Z,18,5,MERGED
+appsmith,test: self-hosted github runner,https://github.com/appsmithorg/appsmith/pull/28976,2023-11-20T14:22:51Z,2023-11-21T06:51:01Z,0,1,MERGED
+appsmith,fix: enable pull when branch is protected,https://github.com/appsmithorg/appsmith/pull/28901,2023-11-16T08:44:41Z,2023-11-16T10:52:27Z,7,2,MERGED
+appsmith,chore: Remove AI sign posting,https://github.com/appsmithorg/appsmith/pull/28861,2023-11-15T05:12:13Z,2023-11-15T11:07:54Z,7,4,MERGED
+appsmith,feat: most popular section added on create new ds page,https://github.com/appsmithorg/appsmith/pull/28850,2023-11-14T12:36:40Z,2023-11-16T12:31:07Z,22,4,MERGED
+appsmith,feat: added ui option for start with data,https://github.com/appsmithorg/appsmith/pull/28760,2023-11-09T08:50:25Z,2023-11-09T13:00:25Z,6,2,MERGED
+appsmith,fix: adding git admin permissions,https://github.com/appsmithorg/appsmith/pull/28719,2023-11-08T07:34:39Z,2023-11-08T09:56:46Z,5,3,MERGED
+appsmith,feat: move SSO to Enterprise plan,https://github.com/appsmithorg/appsmith/pull/28687,2023-11-07T11:32:04Z,2023-11-09T06:33:47Z,4,1,MERGED
+appsmith,feat: Show generate page on Datasource Page,https://github.com/appsmithorg/appsmith/pull/28686,2023-11-07T10:57:13Z,2023-11-08T09:05:53Z,10,2,MERGED
+appsmith,fix: git branch protection fixes,https://github.com/appsmithorg/appsmith/pull/28667,2023-11-06T14:37:59Z,2023-11-07T14:55:03Z,32,16,MERGED
+appsmith,chore: add analytics event for query failure post schema fetch pass,https://github.com/appsmithorg/appsmith/pull/28574,2023-11-02T08:03:00Z,2023-11-07T10:57:20Z,9,34,MERGED
+appsmith,feat: show additional info for autocomplete results,https://github.com/appsmithorg/appsmith/pull/28564,2023-11-02T04:43:01Z,2023-11-10T08:06:11Z,66,73,MERGED
+appsmith,fix: Anvil widget borders,https://github.com/appsmithorg/appsmith/pull/29940,2023-12-29T06:53:38Z,2024-01-03T05:02:14Z,15,9,MERGED
+appsmith,fix: Adjust evaluated popover position based on the target's position in the view port,https://github.com/appsmithorg/appsmith/pull/29912,2023-12-28T05:25:23Z,2023-12-29T07:23:09Z,14,5,MERGED
+appsmith,feat: Anvil themeing and Anvil vertical alignment,https://github.com/appsmithorg/appsmith/pull/29907,2023-12-27T22:16:06Z,2023-12-29T03:11:05Z,32,7,MERGED
+appsmith,chore: Update the build process to refer the Appsmith version from the info.json in all build artifacts,https://github.com/appsmithorg/appsmith/pull/29903,2023-12-27T18:34:52Z,2024-01-12T14:14:58Z,19,20,MERGED
+appsmith,chore: First page load time optimization: Introduce server side changes for consolidated API ,https://github.com/appsmithorg/appsmith/pull/29875,2023-12-26T14:04:57Z,2023-12-29T09:24:38Z,33,21,MERGED
+appsmith,fix: rest api response box is unreachable via scroll,https://github.com/appsmithorg/appsmith/pull/29830,2023-12-24T09:54:06Z,2024-04-09T08:37:55Z,35,4,MERGED
+appsmith,fix: plugins not loaded during onboarding issue fixed,https://github.com/appsmithorg/appsmith/pull/29786,2023-12-21T10:22:46Z,2023-12-22T09:02:25Z,11,2,MERGED
+appsmith,feat: add readonly mode to input,https://github.com/appsmithorg/appsmith/pull/29778,2023-12-21T07:56:19Z,2023-12-21T12:03:29Z,10,2,MERGED
+appsmith,feat: autocommit UI integration,https://github.com/appsmithorg/appsmith/pull/29755,2023-12-20T07:19:02Z,2023-12-22T11:06:55Z,14,5,MERGED
+appsmith,chore: added intercom consent analytics event,https://github.com/appsmithorg/appsmith/pull/29722,2023-12-19T05:53:49Z,2023-12-19T12:38:34Z,25,8,MERGED
+appsmith,fix: updated the design for the admin users,https://github.com/appsmithorg/appsmith/pull/29712,2023-12-18T21:42:58Z,2023-12-25T12:24:46Z,68,14,MERGED
+appsmith,chore: changes the copy of the profiling questions,https://github.com/appsmithorg/appsmith/pull/29707,2023-12-18T12:28:13Z,2023-12-19T12:21:05Z,15,3,MERGED
+appsmith,fix: put wds theme provider under feature flag,https://github.com/appsmithorg/appsmith/pull/29659,2023-12-15T11:43:30Z,2023-12-18T11:16:01Z,17,2,MERGED
+appsmith,fix: copy change for explanation text on start-with-template option,https://github.com/appsmithorg/appsmith/pull/29616,2023-12-14T10:14:40Z,2023-12-14T12:51:19Z,8,1,MERGED
+appsmith,chore: Add `viewMode` param to `generateActionViewDTO` method,https://github.com/appsmithorg/appsmith/pull/29455,2023-12-08T05:07:12Z,2023-12-08T07:05:20Z,3,1,MERGED
+appsmith,fix: add fg and bg colors for inheritance in child components,https://github.com/appsmithorg/appsmith/pull/29447,2023-12-07T15:57:56Z,2023-12-07T17:38:10Z,10,1,MERGED
+appsmith,feat: ui for autocommit,https://github.com/appsmithorg/appsmith/pull/29441,2023-12-07T12:52:53Z,2023-12-11T15:41:44Z,19,8,MERGED
+appsmith,fix: git azure url special char support,https://github.com/appsmithorg/appsmith/pull/29319,2023-12-05T10:16:46Z,2023-12-06T06:12:09Z,8,3,MERGED
+appsmith,feat: Create Query asks for Page,https://github.com/appsmithorg/appsmith/pull/29253,2023-12-01T05:30:08Z,2023-12-05T05:50:37Z,32,7,MERGED
+appsmith,fix: minor improvement to UI controls for updating JS function settings,https://github.com/appsmithorg/appsmith/pull/30760,2024-01-31T05:23:42Z,2024-02-05T06:52:20Z,28,5,MERGED
+appsmith,chore: Fluent interface for queryAll method,https://github.com/appsmithorg/appsmith/pull/30758,2024-01-30T18:46:35Z,2024-02-01T05:49:26Z,1,4,MERGED
+appsmith,chore: Fix `equals` on `TenantConfiguration`,https://github.com/appsmithorg/appsmith/pull/30749,2024-01-30T12:30:40Z,2024-01-31T06:03:16Z,1,1,MERGED
+appsmith,fix: allowing custom username is git url validation,https://github.com/appsmithorg/appsmith/pull/30738,2024-01-30T08:23:43Z,2024-02-01T08:15:29Z,22,3,MERGED
+appsmith,"fix: query/api right pane binding section scroll, schema on expand empty screen",https://github.com/appsmithorg/appsmith/pull/30718,2024-01-29T13:03:31Z,2024-01-30T18:16:31Z,17,5,MERGED
+appsmith,fix: Optimized scrollbar alignment with the divider line,https://github.com/appsmithorg/appsmith/pull/30680,2024-01-29T04:13:33Z,2024-02-12T16:34:53Z,4,1,CLOSED
+appsmith,fix: icon position and placement should be hidden when no icon is selected in icon property.,https://github.com/appsmithorg/appsmith/pull/30676,2024-01-28T16:57:25Z,2024-02-12T16:34:54Z,4,1,CLOSED
+appsmith,chore: Fluent interface for queryAll method,https://github.com/appsmithorg/appsmith/pull/30669,2024-01-27T05:35:08Z,2024-01-30T18:41:39Z,6,38,CLOSED
+appsmith,feat: A/B test | flip primary and secondary CTAs in the datasource form,https://github.com/appsmithorg/appsmith/pull/30622,2024-01-25T07:54:54Z,2024-01-26T07:37:58Z,26,6,MERGED
+appsmith,fix: removing settings from old git sync tab,https://github.com/appsmithorg/appsmith/pull/30516,2024-01-22T12:38:39Z,2024-01-24T07:47:59Z,24,5,MERGED
+appsmith,fix: removing disabled state when loading for git commit button,https://github.com/appsmithorg/appsmith/pull/30514,2024-01-22T12:31:39Z,2024-01-24T07:48:16Z,25,4,MERGED
+appsmith,feat: adding continuous delivery tab in git settings,https://github.com/appsmithorg/appsmith/pull/30512,2024-01-22T11:41:06Z,2024-01-24T07:55:58Z,7,2,MERGED
+appsmith,Feat/git cd tab,https://github.com/appsmithorg/appsmith/pull/30508,2024-01-22T11:05:47Z,2024-01-22T11:41:29Z,2,14,CLOSED
+appsmith,fix: Align the 'Editable' checkbox on first linking data to a table widget,https://github.com/appsmithorg/appsmith/pull/30436,2024-01-18T11:25:57Z,2024-01-30T07:56:11Z,21,2,MERGED
+appsmith,fix: typo in new query dropdown in datasource preview,https://github.com/appsmithorg/appsmith/pull/30434,2024-01-18T10:37:52Z,2024-01-19T04:36:20Z,15,2,MERGED
+appsmith,fix: Sets the font smoothing to auto for better font rendering,https://github.com/appsmithorg/appsmith/pull/30345,2024-01-16T13:11:07Z,2024-02-02T16:34:01Z,6,1,CLOSED
+appsmith,chore: fix TypeError during dev,https://github.com/appsmithorg/appsmith/pull/30317,2024-01-16T05:42:54Z,2024-01-16T06:29:37Z,1,1,MERGED
+appsmith,chore: add NewRelic trace log to measure plugin execution time,https://github.com/appsmithorg/appsmith/pull/30312,2024-01-15T14:34:50Z,2024-02-05T13:21:44Z,8,4,CLOSED
+appsmith,fix: Include loopback by default in NO_PROXY,https://github.com/appsmithorg/appsmith/pull/30284,2024-01-12T15:36:01Z,2024-01-13T00:54:03Z,2,1,MERGED
+appsmith,chore: consolidated API: add NewRelic OTLP trace,https://github.com/appsmithorg/appsmith/pull/30241,2024-01-11T11:24:51Z,2024-01-11T12:53:27Z,10,6,MERGED
+appsmith,fix: delete multiple apps feature ui updated,https://github.com/appsmithorg/appsmith/pull/30112,2024-01-08T20:28:27Z,2024-01-22T11:52:02Z,39,20,MERGED
+appsmith,chore: remove beta tag from git feature,https://github.com/appsmithorg/appsmith/pull/30111,2024-01-08T17:29:39Z,2024-01-23T16:37:21Z,7,1,CLOSED
+appsmith,fix: fixing loader color issue,https://github.com/appsmithorg/appsmith/pull/30109,2024-01-08T17:16:55Z,2024-01-09T11:26:06Z,6,1,MERGED
+appsmith,chore: consolidated API: add anonymous user check,https://github.com/appsmithorg/appsmith/pull/30080,2024-01-08T02:55:04Z,2024-01-08T08:29:12Z,5,22,CLOSED
+appsmith,fix: changes ds section headers to sentence case,https://github.com/appsmithorg/appsmith/pull/31371,2024-02-29T04:43:09Z,2024-02-29T06:21:00Z,7,1,MERGED
+appsmith,fix: Add as a query param for workspace invite email as per updated format after homepage revamp,https://github.com/appsmithorg/appsmith/pull/31295,2024-02-27T05:57:05Z,2024-02-28T08:22:08Z,8,3,MERGED
+appsmith,fix: wds modal resizer,https://github.com/appsmithorg/appsmith/pull/31232,2024-02-21T15:01:59Z,2024-02-27T18:38:45Z,28,4,MERGED
+appsmith,chore: Refine WDS dimension tokens,https://github.com/appsmithorg/appsmith/pull/31158,2024-02-15T14:12:05Z,2024-02-19T14:58:33Z,1,5,MERGED
+appsmith,fix: Request referer shouldn't influence redirect URL,https://github.com/appsmithorg/appsmith/pull/31155,2024-02-15T11:09:09Z,2024-02-15T13:54:34Z,1,1,MERGED
+appsmith,chore: Don't expect .save() to return given object,https://github.com/appsmithorg/appsmith/pull/31049,2024-02-12T07:27:06Z,2024-02-13T04:17:05Z,3,1,MERGED
+appsmith,chore: WDS elevation adjustments,https://github.com/appsmithorg/appsmith/pull/31003,2024-02-08T10:50:22Z,2024-02-08T13:17:18Z,3,3,MERGED
+appsmith,fix: implicit voids in return types,https://github.com/appsmithorg/appsmith/pull/30982,2024-02-08T01:06:07Z,2024-02-08T07:45:00Z,1,2,CLOSED
+appsmith,feat: Asymmetric padding in Anvil,https://github.com/appsmithorg/appsmith/pull/30964,2024-02-07T11:11:02Z,2024-02-16T11:43:38Z,54,15,MERGED
+appsmith,chore: link Micrometer traces and metrics with NewRelic,https://github.com/appsmithorg/appsmith/pull/30957,2024-02-07T09:34:02Z,2024-02-12T18:51:42Z,19,8,MERGED
+appsmith,fix: broken line in page settings,https://github.com/appsmithorg/appsmith/pull/30951,2024-02-07T08:03:52Z,2024-02-12T07:42:19Z,21,8,MERGED
+appsmith,fix: autocommit ui issues,https://github.com/appsmithorg/appsmith/pull/30887,2024-02-05T07:05:10Z,2024-02-12T05:23:48Z,10,5,MERGED
+appsmith,chore: Show commit SHA instead of SNAPSHOT version,https://github.com/appsmithorg/appsmith/pull/30850,2024-02-02T01:17:03Z,2024-02-02T04:22:35Z,10,2,MERGED
+appsmith,fix: display of group option popup inside Form Widget Container,https://github.com/appsmithorg/appsmith/pull/30813,2024-02-01T04:21:20Z,2024-02-20T04:02:10Z,59,14,MERGED
+appsmith,feat: Vision models support in Anthropic,https://github.com/appsmithorg/appsmith/pull/32103,2024-03-27T10:33:11Z,2024-04-16T13:41:28Z,45,13,MERGED
+appsmith,fix: property pane collapse expand icon issue fixed,https://github.com/appsmithorg/appsmith/pull/32094,2024-03-27T08:35:22Z,2024-03-27T09:42:15Z,5,1,MERGED
+appsmith,feat: add edit option in suggested queries in hint commands,https://github.com/appsmithorg/appsmith/pull/32076,2024-03-26T12:55:37Z,2024-03-28T13:54:34Z,11,7,MERGED
+appsmith,"fix: show bind preview on slash command hint, edit queries from there",https://github.com/appsmithorg/appsmith/pull/31994,2024-03-21T14:46:43Z,2024-03-25T16:36:51Z,21,10,CLOSED
+appsmith,feat: show slash command prompt on focus in property pane,https://github.com/appsmithorg/appsmith/pull/31920,2024-03-19T12:24:46Z,2024-03-22T09:44:08Z,14,7,MERGED
+appsmith,fix: Table and JSON Widgets columns max height adjusted,https://github.com/appsmithorg/appsmith/pull/31882,2024-03-18T10:52:22Z,2024-03-20T08:50:46Z,9,3,MERGED
+appsmith,fix: Moved expires_in field after scope in OAuth2 DatasourceForm #31059,https://github.com/appsmithorg/appsmith/pull/31863,2024-03-18T07:09:41Z,2024-05-18T16:34:42Z,25,8,CLOSED
+appsmith,feat: add support for sectionStyles in datasource editor form,https://github.com/appsmithorg/appsmith/pull/31817,2024-03-14T21:16:09Z,2024-03-18T10:32:02Z,2,1,MERGED
+appsmith,fix: NPE in LoginRateLimitFilter,https://github.com/appsmithorg/appsmith/pull/31687,2024-03-12T09:30:43Z,2024-03-13T05:38:44Z,3,1,MERGED
+appsmith,"fix: Updated the label for the ""Auto play"" property in the Audio Widget to ""Autoplay""",https://github.com/appsmithorg/appsmith/pull/31668,2024-03-11T18:28:39Z,2024-03-19T06:26:45Z,5,1,MERGED
+appsmith,fix: Zones and Sections elevation token update,https://github.com/appsmithorg/appsmith/pull/31655,2024-03-11T09:26:54Z,2024-03-11T13:35:52Z,9,3,MERGED
+appsmith,fix: resulting in text garbled characters of type restapiplugin MULTI…,https://github.com/appsmithorg/appsmith/pull/31647,2024-03-11T06:03:25Z,2024-04-04T16:34:54Z,10,2,CLOSED
+appsmith,chore: Fix double-brace-initialization,https://github.com/appsmithorg/appsmith/pull/31643,2024-03-11T04:42:53Z,2024-03-11T06:24:26Z,2,1,MERGED
+appsmith,ci: Demonstrate ok-to-test usage,https://github.com/appsmithorg/appsmith/pull/31627,2024-03-08T21:02:15Z,2024-03-28T16:34:54Z,5,1,CLOSED
+appsmith,fix: Removed box-shadow for the active tab that is causing a visual artefact.,https://github.com/appsmithorg/appsmith/pull/31608,2024-03-08T07:54:14Z,2024-03-11T07:10:43Z,1,1,MERGED
+appsmith,chore: WDS color refinement,https://github.com/appsmithorg/appsmith/pull/31499,2024-03-05T13:34:02Z,2024-03-06T08:51:43Z,4,5,MERGED
+appsmith,fix: added margin top to the onboarding flow if banner visible,https://github.com/appsmithorg/appsmith/pull/31497,2024-03-05T13:13:25Z,2024-03-07T00:19:42Z,13,4,MERGED
+appsmith,fix: slash menu command show all available queries and datasources fixed,https://github.com/appsmithorg/appsmith/pull/33076,2024-04-30T16:16:51Z,2024-05-08T06:13:09Z,17,10,MERGED
+appsmith,fix: Reverting Anvil currently open modal state implementation,https://github.com/appsmithorg/appsmith/pull/33067,2024-04-30T12:41:36Z,2024-04-30T13:57:18Z,1,3,MERGED
+appsmith,fix: render only the currently open detached widgets.,https://github.com/appsmithorg/appsmith/pull/33040,2024-04-29T14:10:22Z,2024-04-30T09:27:05Z,7,2,MERGED
+appsmith,fix: WDS widgets not showing up in Air gapped instances.,https://github.com/appsmithorg/appsmith/pull/33035,2024-04-29T10:27:10Z,2024-04-29T13:00:15Z,1,1,MERGED
+appsmith,fix: git auto generate header issue fixed,https://github.com/appsmithorg/appsmith/pull/33016,2024-04-29T07:28:31Z,2024-04-30T10:50:36Z,5,1,MERGED
+appsmith,fix: getting outer spacing tokens from theme context.,https://github.com/appsmithorg/appsmith/pull/33015,2024-04-29T07:14:43Z,2024-04-29T07:41:21Z,4,1,MERGED
+appsmith,fix: theme based outer spacing tokens for DnD compensators.,https://github.com/appsmithorg/appsmith/pull/33011,2024-04-29T06:17:48Z,2024-04-29T07:19:09Z,6,4,CLOSED
+appsmith,fix: WDS color algo for very light seeds (light mode),https://github.com/appsmithorg/appsmith/pull/32964,2024-04-25T10:55:28Z,2024-04-25T14:33:23Z,1,1,MERGED
+appsmith,[Do not merge]: Widget Editing UI features build,https://github.com/appsmithorg/appsmith/pull/32868,2024-04-23T05:36:54Z,2024-05-06T12:58:24Z,33,113,CLOSED
+appsmith,feat: Anvil DnD Polish(Refactor),https://github.com/appsmithorg/appsmith/pull/32839,2024-04-22T06:20:59Z,2024-04-29T06:02:09Z,56,71,MERGED
+appsmith,chore: Add mysql plugin tinyInt1isBit configuration,https://github.com/appsmithorg/appsmith/pull/32804,2024-04-19T07:01:37Z,2024-04-24T13:35:05Z,3,2,CLOSED
+appsmith,fix: graphQL bindings issue resolved (#32760),https://github.com/appsmithorg/appsmith/pull/32785,2024-04-18T13:00:29Z,2024-04-18T14:13:06Z,0,1,MERGED
+appsmith,fix: graphQL bindings issue resolved,https://github.com/appsmithorg/appsmith/pull/32760,2024-04-18T06:59:40Z,2024-04-18T12:06:54Z,10,4,MERGED
+appsmith,fix: add Auto Layout hover functions,https://github.com/appsmithorg/appsmith/pull/32754,2024-04-18T04:55:17Z,2024-04-18T06:09:09Z,1,1,MERGED
+appsmith,fix: show linting errors on browser API added,https://github.com/appsmithorg/appsmith/pull/32732,2024-04-17T10:12:54Z,2024-04-18T13:19:16Z,5,2,MERGED
+appsmith,fix: move useFeatureFlagOverride to routes instead of app router,https://github.com/appsmithorg/appsmith/pull/32685,2024-04-15T12:55:50Z,2024-04-15T14:30:12Z,1,1,MERGED
+appsmith,fix: jest test failures coz of getIsAnvilLayout,https://github.com/appsmithorg/appsmith/pull/32664,2024-04-13T02:19:29Z,2024-04-15T03:47:23Z,3,2,MERGED
+appsmith,test pr: simple commit to test cypress.,https://github.com/appsmithorg/appsmith/pull/32628,2024-04-12T00:43:42Z,2024-04-22T06:23:06Z,0,3,CLOSED
+appsmith,chore: fix ee type checks issue.,https://github.com/appsmithorg/appsmith/pull/32612,2024-04-11T13:05:25Z,2024-04-11T13:33:39Z,1,1,MERGED
+appsmith,chore: Merge wds and anvil feature flags,https://github.com/appsmithorg/appsmith/pull/32609,2024-04-11T12:08:53Z,2024-04-12T17:24:04Z,9,23,MERGED
+appsmith,"chore: WDS, adjusted border of text inputs to avoid ""disabled"" visual style",https://github.com/appsmithorg/appsmith/pull/32547,2024-04-10T09:29:49Z,2024-04-11T10:01:26Z,1,1,MERGED
+appsmith,chore: Remove stack trace in logs for action timeouts,https://github.com/appsmithorg/appsmith/pull/32523,2024-04-09T11:30:49Z,2024-04-09T13:39:43Z,1,1,MERGED
+appsmith,fix: NPE in SegmentConfig,https://github.com/appsmithorg/appsmith/pull/32498,2024-04-08T14:14:51Z,2024-04-08T14:34:24Z,1,1,MERGED
+appsmith,feat: Move conversion flow under feature flag.,https://github.com/appsmithorg/appsmith/pull/32490,2024-04-08T10:21:35Z,2024-04-11T11:51:14Z,29,11,MERGED
+appsmith,fix: label for data type in s3 create file action,https://github.com/appsmithorg/appsmith/pull/32484,2024-04-08T07:53:36Z,2024-04-08T17:28:56Z,5,3,MERGED
+appsmith,fix: safari user select,https://github.com/appsmithorg/appsmith/pull/32464,2024-04-05T13:49:36Z,2024-04-08T09:25:09Z,8,1,MERGED
+appsmith,fix: ds form required checkboxes issue fixed,https://github.com/appsmithorg/appsmith/pull/32449,2024-04-05T08:08:28Z,2024-04-05T13:19:43Z,6,1,MERGED
+appsmith,fix: gsheet query UI doesnt load on change of command fixed,https://github.com/appsmithorg/appsmith/pull/32427,2024-04-04T15:08:20Z,2024-04-05T08:26:45Z,4,1,MERGED
+appsmith,chore: fixing auto layout specs.,https://github.com/appsmithorg/appsmith/pull/32415,2024-04-04T09:06:43Z,2024-04-15T06:30:04Z,1,1,CLOSED
+appsmith,chore: Added trace and span info to context,https://github.com/appsmithorg/appsmith/pull/32399,2024-04-04T04:13:30Z,2024-04-04T06:32:06Z,2,2,MERGED
+appsmith,chore: Get control over what stack traces show up in logs,https://github.com/appsmithorg/appsmith/pull/32352,2024-04-03T04:52:50Z,2024-04-03T06:03:29Z,3,2,MERGED
+appsmith,chore: Fix NPE in Segment exception logging,https://github.com/appsmithorg/appsmith/pull/32351,2024-04-03T04:27:20Z,2024-04-03T05:08:56Z,4,1,MERGED
+appsmith,chore: WDS inner spacing scale adjustments,https://github.com/appsmithorg/appsmith/pull/32342,2024-04-02T13:06:50Z,2024-04-02T14:22:12Z,0,1,MERGED
+appsmith,fix:Unpredictable movements of the dates in the date picker included …,https://github.com/appsmithorg/appsmith/pull/33891,2024-05-31T12:24:31Z,2024-07-02T09:21:58Z,47,11,CLOSED
+appsmith,perf: make text selectable,https://github.com/appsmithorg/appsmith/pull/33863,2024-05-30T17:33:45Z,2024-05-31T14:53:32Z,6,1,MERGED
+appsmith,feat: Preliminary set of test cases and test utils for Anvil DnD and Space distribution.,https://github.com/appsmithorg/appsmith/pull/33827,2024-05-29T10:07:20Z,2024-05-30T07:16:56Z,4,13,MERGED
+appsmith,feat: tooltip message change of git pull button,https://github.com/appsmithorg/appsmith/pull/33820,2024-05-29T08:47:47Z,2024-06-04T09:55:30Z,5,2,MERGED
+appsmith,chore: WDS inputs in dark mode with better visibility,https://github.com/appsmithorg/appsmith/pull/33796,2024-05-28T10:18:41Z,2024-05-28T10:58:10Z,1,1,MERGED
+appsmith,fix: checkbox horizontal alignment on table widget #21790,https://github.com/appsmithorg/appsmith/pull/33791,2024-05-28T09:11:37Z,2024-06-11T07:53:48Z,14,4,CLOSED
+appsmith,"feat: Extend character limit for API, query, and datasource names",https://github.com/appsmithorg/appsmith/pull/33784,2024-05-28T07:16:54Z,2024-06-01T12:06:37Z,4,2,CLOSED
+appsmith,chore: Remove `@JsonView` on `hasExpired` method,https://github.com/appsmithorg/appsmith/pull/33765,2024-05-27T13:21:30Z,2024-05-28T02:01:25Z,1,2,MERGED
+appsmith,chore: Move widget deprecation messages from propertyPaneView to individual Widget configurations,https://github.com/appsmithorg/appsmith/pull/33759,2024-05-27T10:58:53Z,2024-06-04T06:25:55Z,10,3,MERGED
+appsmith,"ci: Support for ""all"" tag in /test and allow bold",https://github.com/appsmithorg/appsmith/pull/33733,2024-05-26T12:12:07Z,2024-05-27T04:19:27Z,2,2,MERGED
+appsmith,chore: Don't hit the database when permission is non-null but permission groups is empty,https://github.com/appsmithorg/appsmith/pull/33732,2024-05-26T10:35:07Z,2024-06-04T08:15:46Z,1,2,MERGED
+appsmith,chore: Remove unused `eventData`,https://github.com/appsmithorg/appsmith/pull/33730,2024-05-26T07:00:54Z,2024-05-28T04:20:12Z,1,3,MERGED
+appsmith,chore: Fail on unknown fields in request body,https://github.com/appsmithorg/appsmith/pull/33724,2024-05-25T10:27:02Z,2024-06-27T06:16:31Z,8,36,MERGED
+appsmith,chore: Refine WDS icon stroke width values,https://github.com/appsmithorg/appsmith/pull/33615,2024-05-21T09:44:52Z,2024-05-23T09:28:35Z,0,1,MERGED
+appsmith,feat: enable DnD for entire modal widget(including header and footer).,https://github.com/appsmithorg/appsmith/pull/33580,2024-05-20T09:39:40Z,2024-05-21T09:24:07Z,7,4,MERGED
+appsmith,ci: Add sloppy /test command,https://github.com/appsmithorg/appsmith/pull/33558,2024-05-18T03:41:33Z,2024-05-20T09:56:12Z,4,3,MERGED
+appsmith,feat: use zone elevatedBackground evaluated values and upgrade space distribution ux of borderless zones.,https://github.com/appsmithorg/appsmith/pull/33527,2024-05-16T13:39:52Z,2024-05-21T10:09:09Z,21,10,MERGED
+appsmith,chore: Fix blank lines in logs,https://github.com/appsmithorg/appsmith/pull/33515,2024-05-16T08:31:51Z,2024-05-16T11:23:42Z,5,1,MERGED
+appsmith,fix: Modal Accessibility and copy paste.,https://github.com/appsmithorg/appsmith/pull/33509,2024-05-16T05:30:48Z,2024-05-17T10:02:22Z,7,8,MERGED
+appsmith,fix: Peek overlay position flickering issue,https://github.com/appsmithorg/appsmith/pull/33499,2024-05-15T19:06:33Z,2024-05-16T06:03:13Z,1,1,MERGED
+appsmith,fix: Adjust WDS button font weight,https://github.com/appsmithorg/appsmith/pull/33489,2024-05-15T14:44:06Z,2024-05-16T08:41:25Z,1,1,MERGED
+appsmith,"fix: WDS, increase perceived darkness of modal overlay",https://github.com/appsmithorg/appsmith/pull/33476,2024-05-15T09:03:40Z,2024-05-15T10:04:36Z,1,2,MERGED
+appsmith,chore: use overflow: auto instead of scroll in widget explorer,https://github.com/appsmithorg/appsmith/pull/33342,2024-05-10T05:05:37Z,2024-05-14T05:42:32Z,7,1,MERGED
+appsmith,fix: rest api body binary tab placeholder updated,https://github.com/appsmithorg/appsmith/pull/33272,2024-05-08T08:23:34Z,2024-05-08T13:07:50Z,5,2,MERGED
+appsmith,fix: Anvil drag preview for section widget,https://github.com/appsmithorg/appsmith/pull/33198,2024-05-06T09:57:22Z,2024-05-07T11:05:38Z,10,7,MERGED
+appsmith,fix: Anvil Modal rendering issues when added via property pane.,https://github.com/appsmithorg/appsmith/pull/33161,2024-05-03T09:39:23Z,2024-05-07T11:00:02Z,5,10,MERGED
+appsmith,fix: Safari space distribution glitch,https://github.com/appsmithorg/appsmith/pull/33152,2024-05-03T05:23:01Z,2024-05-03T10:31:56Z,8,4,MERGED
+appsmith,fix: WDS bgNeutralOpacity ,https://github.com/appsmithorg/appsmith/pull/33147,2024-05-02T15:20:18Z,2024-05-03T08:41:22Z,1,1,MERGED
+appsmith,feat: Anvil Drag Preview,https://github.com/appsmithorg/appsmith/pull/33133,2024-05-02T08:51:59Z,2024-05-03T15:45:25Z,4,18,MERGED
+appsmith,fix: Modal auto scroll and check box not being able to be interacted in preview mode in modal,https://github.com/appsmithorg/appsmith/pull/33122,2024-05-02T06:53:24Z,2024-05-02T07:17:27Z,1,3,MERGED
+appsmith,chore: Turn off Allow filtering property on Table widget,https://github.com/appsmithorg/appsmith/pull/34593,2024-06-28T16:29:49Z,2024-07-05T07:46:11Z,9,8,MERGED
+appsmith,fix: replaced all  edit name with Rename,https://github.com/appsmithorg/appsmith/pull/34570,2024-06-28T06:06:32Z,2024-07-17T03:19:44Z,22,6,MERGED
+appsmith,fix:ensure save row button is disabled when date column is required,https://github.com/appsmithorg/appsmith/pull/34525,2024-06-27T05:00:43Z,2024-07-11T16:36:04Z,5,1,CLOSED
+appsmith,test: Use `deep.eq` for comparing DSLs,https://github.com/appsmithorg/appsmith/pull/34523,2024-06-27T04:08:52Z,2024-06-27T07:47:50Z,4,2,MERGED
+appsmith,chore: Don't rely on key order in objects,https://github.com/appsmithorg/appsmith/pull/34522,2024-06-27T02:53:52Z,2024-06-27T05:23:55Z,1,2,MERGED
+appsmith,test: Extract `pageId` with regex to cover more cases,https://github.com/appsmithorg/appsmith/pull/34521,2024-06-27T02:20:04Z,2024-07-02T01:01:59Z,1,8,MERGED
+appsmith,chore: Adjust outer spacing ratios for WDS spacing scale,https://github.com/appsmithorg/appsmith/pull/34511,2024-06-26T13:43:11Z,2024-07-09T09:11:53Z,5,1,CLOSED
+appsmith,chore: Introducing ReactorDebugAgent to improve the stack traces and make them easier to debug,https://github.com/appsmithorg/appsmith/pull/34485,2024-06-26T08:28:42Z,2024-06-26T11:05:17Z,1,1,MERGED
+appsmith,chore: added classes for ce and ee spans,https://github.com/appsmithorg/appsmith/pull/34484,2024-06-26T08:26:22Z,2024-06-26T09:26:37Z,2,1,MERGED
+appsmith,test: Anvil tests 1,https://github.com/appsmithorg/appsmith/pull/34424,2024-06-24T07:11:19Z,2024-06-24T11:45:19Z,1,7,CLOSED
+appsmith,"chore: Revert ""chore: bump tinymce from 7.0.0 to 7.2.0 in /app/client""",https://github.com/appsmithorg/appsmith/pull/34421,2024-06-24T06:53:44Z,2024-06-24T07:55:05Z,1,1,MERGED
+appsmith,Improved signup and login pages performance,https://github.com/appsmithorg/appsmith/pull/34409,2024-06-24T05:36:17Z,2024-07-08T16:38:34Z,7,1,CLOSED
+appsmith,feat: Anvil dnd sagas unit tests,https://github.com/appsmithorg/appsmith/pull/34407,2024-06-24T05:06:08Z,2024-06-24T06:17:26Z,3,3,MERGED
+appsmith,feat: Added onHoverValue event property for table widget 33470,https://github.com/appsmithorg/appsmith/pull/34370,2024-06-21T05:10:21Z,2024-07-21T16:37:01Z,11,1,CLOSED
+appsmith,"feat: Extend character limit for API, query, and datasource names",https://github.com/appsmithorg/appsmith/pull/34358,2024-06-20T09:26:49Z,2024-07-05T16:35:54Z,3,1,CLOSED
+appsmith,Bug (Fix): Fixes duplicate workspace name issue on client side,https://github.com/appsmithorg/appsmith/pull/34352,2024-06-20T06:25:54Z,2024-07-05T16:35:56Z,4,1,CLOSED
+appsmith,chore: add tests for anvil modal.,https://github.com/appsmithorg/appsmith/pull/34347,2024-06-19T13:38:42Z,2024-06-24T10:58:34Z,8,6,MERGED
+appsmith,chore: Add script to upgrade Postgres 13 data to 14,https://github.com/appsmithorg/appsmith/pull/34317,2024-06-19T03:37:12Z,2024-06-21T14:04:09Z,16,10,MERGED
+appsmith,fix:Unpredictable movements of the dates in the date picker included,https://github.com/appsmithorg/appsmith/pull/34314,2024-06-18T17:34:49Z,2024-09-24T07:14:39Z,21,19,CLOSED
+appsmith,refactor: move apps link out of menu & refactor nav menu data,https://github.com/appsmithorg/appsmith/pull/34313,2024-06-18T15:17:35Z,2024-06-20T07:13:35Z,7,1,MERGED
+appsmith,chore: Remove mockdb as it isn't working anyway,https://github.com/appsmithorg/appsmith/pull/34266,2024-06-17T04:01:12Z,2024-06-17T07:15:49Z,4,1,MERGED
+appsmith,fix:allow users to identify search is enabled in country dropdown,https://github.com/appsmithorg/appsmith/pull/34241,2024-06-14T05:44:19Z,2024-07-03T16:36:39Z,7,2,CLOSED
+appsmith,fix: display label instead of value in select column of table widget,https://github.com/appsmithorg/appsmith/pull/34224,2024-06-13T06:12:45Z,2024-06-20T07:23:57Z,16,1,CLOSED
+appsmith,fix: checkbox column misalignment on table widget,https://github.com/appsmithorg/appsmith/pull/34222,2024-06-13T05:31:29Z,2024-06-20T06:20:38Z,19,3,MERGED
+appsmith,fix: Changes for Anvil Alpha release,https://github.com/appsmithorg/appsmith/pull/34211,2024-06-12T11:42:38Z,2024-07-05T08:28:00Z,16,20,MERGED
+appsmith,"chore: WDS, adjust inner spacing of buttons with icons",https://github.com/appsmithorg/appsmith/pull/34210,2024-06-12T11:16:36Z,2024-06-13T12:21:45Z,1,1,MERGED
+appsmith,fix: visually tag anvil application card,https://github.com/appsmithorg/appsmith/pull/34209,2024-06-12T11:15:16Z,2024-07-03T16:36:40Z,7,1,CLOSED
+appsmith,chore: Remove duplicate default field in JSON,https://github.com/appsmithorg/appsmith/pull/34192,2024-06-12T01:36:24Z,2024-06-12T07:07:21Z,1,1,MERGED
+appsmith,fix: unit test fix for pastesagas after regex update of pageid,https://github.com/appsmithorg/appsmith/pull/34179,2024-06-11T12:01:58Z,2024-06-11T12:04:17Z,1,1,CLOSED
+appsmith,chore: added index for application,https://github.com/appsmithorg/appsmith/pull/34175,2024-06-11T10:34:43Z,2024-06-11T12:10:19Z,3,2,MERGED
+appsmith,fix: removed change country code,https://github.com/appsmithorg/appsmith/pull/34104,2024-06-07T17:20:35Z,2024-06-10T12:18:59Z,5,1,CLOSED
+appsmith,fix: display label instead of value in select column in table widget #26188,https://github.com/appsmithorg/appsmith/pull/34089,2024-06-07T12:07:41Z,2024-06-10T06:15:07Z,9,2,CLOSED
+appsmith,chore: Adding specs/tests for space distribution and copy paste sagas,https://github.com/appsmithorg/appsmith/pull/34063,2024-06-07T05:30:49Z,2024-06-10T11:07:50Z,1,9,MERGED
+appsmith,feat: added method to identify the data types from json and parse to …,https://github.com/appsmithorg/appsmith/pull/33977,2024-06-05T03:04:55Z,2024-06-30T16:36:07Z,4,1,CLOSED
+appsmith,fix: datasource form footer ui fix,https://github.com/appsmithorg/appsmith/pull/33957,2024-06-04T08:52:24Z,2024-06-04T18:01:57Z,14,3,MERGED
+appsmith,feat: Tab duplication feature.,https://github.com/appsmithorg/appsmith/pull/33951,2024-06-04T07:20:40Z,2024-06-18T08:37:13Z,24,2,CLOSED
+appsmith,feat: add errors to wrong mssql configuration,https://github.com/appsmithorg/appsmith/pull/33950,2024-06-04T07:18:07Z,2024-07-11T11:51:47Z,7,1,CLOSED
+appsmith,feat: add support for Google Cloud Storage in S3 plugin,https://github.com/appsmithorg/appsmith/pull/33938,2024-06-04T03:18:27Z,2024-06-12T07:18:54Z,41,7,MERGED
+appsmith,fix: make individual words in label selectable #22110,https://github.com/appsmithorg/appsmith/pull/33922,2024-06-03T09:26:50Z,2024-06-04T18:03:16Z,4,1,MERGED
+appsmith,"feat: Extend character limit for API, query, and datasource names",https://github.com/appsmithorg/appsmith/pull/33904,2024-06-02T06:35:26Z,2024-06-16T16:35:39Z,7,1,CLOSED
+appsmith,fix: ensure selected row index is correctly maintained across pages,https://github.com/appsmithorg/appsmith/pull/33902,2024-06-01T12:15:01Z,2024-06-20T16:36:58Z,4,1,CLOSED
+appsmith,feat: added differentiation between indian numeral system and international numeral system in currency input widget #28862,https://github.com/appsmithorg/appsmith/pull/35260,2024-07-29T11:12:15Z,2025-03-10T16:38:36Z,23,2,CLOSED
+appsmith,fix: Currency Input widget issues to truncate decimals on changing decimals allowed input,https://github.com/appsmithorg/appsmith/pull/35243,2024-07-29T05:49:45Z,2025-03-10T16:38:38Z,15,3,CLOSED
+appsmith,fix:inconsistent behavior of widget color across widgets,https://github.com/appsmithorg/appsmith/pull/35239,2024-07-28T08:53:44Z,2024-08-11T16:35:38Z,3,1,CLOSED
+appsmith,fix: updated the propertpaneview file to hide the copy and delete ico…,https://github.com/appsmithorg/appsmith/pull/35227,2024-07-26T16:00:41Z,2025-03-22T16:37:25Z,10,2,CLOSED
+appsmith,"fix: added min-width to the label component, it will be in it's posit…",https://github.com/appsmithorg/appsmith/pull/35226,2024-07-26T15:42:40Z,2024-08-10T16:37:55Z,4,1,CLOSED
+appsmith,feat: Improved-error-messages-for-postgres-connection,https://github.com/appsmithorg/appsmith/pull/35167,2024-07-25T05:38:10Z,2024-09-09T14:22:59Z,31,7,MERGED
+appsmith,fix:included + sign in email for forgot password link 30195,https://github.com/appsmithorg/appsmith/pull/35159,2024-07-24T12:04:47Z,2024-08-12T16:36:42Z,5,4,CLOSED
+appsmith,fix:updated css to align checkbox and label to center in checkbox-widget,https://github.com/appsmithorg/appsmith/pull/35133,2024-07-24T08:16:12Z,2024-09-01T16:37:34Z,7,3,CLOSED
+appsmith,fix:inconsistent behavior of widget color across widgets,https://github.com/appsmithorg/appsmith/pull/35132,2024-07-24T08:11:53Z,2024-07-28T08:46:02Z,3,13,CLOSED
+appsmith,chore: add failureThreshold for anvil tests,https://github.com/appsmithorg/appsmith/pull/35122,2024-07-23T16:50:40Z,2024-07-24T07:49:59Z,1,2,MERGED
+appsmith,fix:Incorrect font color for titles in T&C page,https://github.com/appsmithorg/appsmith/pull/35116,2024-07-23T11:58:41Z,2024-09-01T16:37:35Z,8,2,CLOSED
+appsmith,feat: remove-clear-option-for-required-select-widget,https://github.com/appsmithorg/appsmith/pull/35060,2024-07-22T06:25:16Z,2024-08-28T10:33:16Z,32,9,MERGED
+appsmith,fix:34329-fixed upload svg logo in the workspace api,https://github.com/appsmithorg/appsmith/pull/34977,2024-07-17T02:22:44Z,2025-08-21T16:39:56Z,10,1,CLOSED
+appsmith,feat: support supabase storage,https://github.com/appsmithorg/appsmith/pull/34970,2024-07-16T12:12:02Z,2024-07-29T11:52:55Z,5,1,CLOSED
+appsmith,fix:widget name validation,https://github.com/appsmithorg/appsmith/pull/34963,2024-07-16T08:10:40Z,2025-08-21T16:39:57Z,26,5,CLOSED
+appsmith,fix: WDS TextArea inner spacing,https://github.com/appsmithorg/appsmith/pull/34901,2024-07-12T09:21:25Z,2024-07-22T08:15:17Z,1,2,MERGED
+appsmith,"fix: updated docker file to use lock file if it's present, if it's no…",https://github.com/appsmithorg/appsmith/pull/34833,2024-07-10T04:14:54Z,2025-08-21T16:40:01Z,10,2,CLOSED
+appsmith,fix: Update datasource deletion message for clarity,https://github.com/appsmithorg/appsmith/pull/34822,2024-07-09T11:22:00Z,2024-07-11T14:12:28Z,10,2,MERGED
+appsmith,fix:Ensure alert message triggers only once when onDropdownClose in select widget,https://github.com/appsmithorg/appsmith/pull/34812,2024-07-09T08:21:15Z,2024-10-04T08:02:48Z,36,12,MERGED
+appsmith,fix: update Select All Checkbox on selection of all widgets,https://github.com/appsmithorg/appsmith/pull/34811,2024-07-09T08:20:05Z,2024-11-21T06:16:11Z,5,1,CLOSED
+appsmith,fix:ButtonGroupWidget shows warn when there is a duplicate label.,https://github.com/appsmithorg/appsmith/pull/34781,2024-07-08T09:12:17Z,2024-07-25T10:36:52Z,7,3,CLOSED
+appsmith,fix:default value for PhoneInput set to text which is invalid(#34594),https://github.com/appsmithorg/appsmith/pull/34742,2024-07-05T07:01:54Z,2024-07-19T16:36:45Z,5,2,CLOSED
+appsmith,chore: Adjust prominence of icon and main text in StatBox,https://github.com/appsmithorg/appsmith/pull/34729,2024-07-04T15:03:48Z,2024-07-09T09:11:36Z,3,1,CLOSED
+appsmith,ci: Add UTC time to Cypress messages,https://github.com/appsmithorg/appsmith/pull/34727,2024-07-04T14:54:36Z,2024-07-04T22:56:07Z,1,1,MERGED
+appsmith,fix: Resolved incomplete error message for rating widget.,https://github.com/appsmithorg/appsmith/pull/34721,2024-07-04T11:02:45Z,2025-08-21T16:40:04Z,8,1,CLOSED
+appsmith,fix:ensure save row button is disabled when date column is required,https://github.com/appsmithorg/appsmith/pull/34711,2024-07-04T08:44:49Z,2024-08-23T09:27:24Z,30,5,CLOSED
+appsmith,"fix: Extend character limit for API, query, and datasource names",https://github.com/appsmithorg/appsmith/pull/34710,2024-07-04T08:39:38Z,2024-07-23T07:20:06Z,9,3,CLOSED
+appsmith,fix:allow users to identify search is enabled in country dropdown,https://github.com/appsmithorg/appsmith/pull/34706,2024-07-04T08:25:33Z,2024-07-04T08:42:22Z,1,1,CLOSED
+appsmith,fix: Ensured no errors pops up when a space is given infront of export default,https://github.com/appsmithorg/appsmith/pull/34703,2024-07-04T06:23:53Z,2025-08-21T16:40:05Z,8,1,CLOSED
+appsmith,"fix: commit icon of github on airgapped, the app crashes. #33812",https://github.com/appsmithorg/appsmith/pull/34673,2024-07-03T09:31:51Z,2024-08-06T12:13:29Z,9,1,MERGED
+appsmith,Task #7176/feat: added method to identify the data types from json and parse to …,https://github.com/appsmithorg/appsmith/pull/34657,2024-07-03T05:51:03Z,2024-07-15T06:35:18Z,4,2,CLOSED
+appsmith,fix:several components have label display issues (#34433),https://github.com/appsmithorg/appsmith/pull/34626,2024-07-02T07:10:28Z,2024-07-16T16:37:35Z,3,1,CLOSED
+appsmith,feat: add clear all option to columns field in google sheets plugin,https://github.com/appsmithorg/appsmith/pull/34620,2024-07-02T05:07:15Z,2024-07-17T10:44:37Z,25,3,MERGED
+appsmith,chore: WDS outline buttons color adjustment,https://github.com/appsmithorg/appsmith/pull/34615,2024-07-01T12:32:05Z,2024-07-22T08:14:44Z,3,4,MERGED
+appsmith,ci: Use latest version of helm chart for DPs,https://github.com/appsmithorg/appsmith/pull/34608,2024-07-01T09:52:20Z,2024-07-01T09:56:02Z,1,1,MERGED
+appsmith,fix:icon align when  datatype is of image,https://github.com/appsmithorg/appsmith/pull/35992,2024-08-30T04:51:59Z,2024-09-26T14:18:29Z,9,6,MERGED
+appsmith,fix: bug invalid button label on the button in table widget #17940,https://github.com/appsmithorg/appsmith/pull/35991,2024-08-30T04:04:01Z,2025-02-02T16:36:17Z,10,1,CLOSED
+appsmith,chore:remove space b/w form and CTA onboarding page,https://github.com/appsmithorg/appsmith/pull/35985,2024-08-29T11:47:54Z,2024-10-09T04:27:45Z,27,10,MERGED
+appsmith,chore: Added details for running local setup,https://github.com/appsmithorg/appsmith/pull/35968,2024-08-29T06:44:26Z,2024-09-09T05:31:39Z,3,1,MERGED
+appsmith,fix:updated mustache method correctly identify the query properly whe…,https://github.com/appsmithorg/appsmith/pull/35960,2024-08-29T03:22:13Z,2025-02-02T16:36:18Z,9,1,CLOSED
+appsmith,Do not merge : Fix/testprcomment,https://github.com/appsmithorg/appsmith/pull/35924,2024-08-28T06:32:12Z,2024-09-09T05:04:33Z,10,3,CLOSED
+appsmith,ci: Added code for PR comment results with repeat command,https://github.com/appsmithorg/appsmith/pull/35921,2024-08-28T05:39:55Z,2024-08-28T06:22:37Z,6,2,MERGED
+appsmith,fix: fixed back button to redirect to applications page,https://github.com/appsmithorg/appsmith/pull/35900,2024-08-27T08:25:38Z,2024-09-04T07:05:24Z,10,3,MERGED
+appsmith,fix: filteredTableData property in autocomplete suggestions,https://github.com/appsmithorg/appsmith/pull/35856,2024-08-23T06:17:48Z,2025-02-02T16:36:20Z,19,8,CLOSED
+appsmith,fix: moved js filter to mongoDB,https://github.com/appsmithorg/appsmith/pull/35826,2024-08-21T15:30:34Z,2024-08-23T09:28:32Z,6,2,MERGED
+appsmith,chore: fix zone dotted highlight is not showing up on new anvil apps ,https://github.com/appsmithorg/appsmith/pull/35787,2024-08-20T11:23:08Z,2024-08-22T09:46:49Z,21,6,MERGED
+appsmith,fix: width of tooltip box is larger than text on the property panel,https://github.com/appsmithorg/appsmith/pull/35734,2024-08-16T22:13:52Z,2024-09-03T06:58:07Z,4,1,MERGED
+appsmith,chore: Fix table columns when hidden are not greyed out in preview mode,https://github.com/appsmithorg/appsmith/pull/35729,2024-08-16T10:58:52Z,2024-08-17T05:05:01Z,1,2,MERGED
+appsmith,chore: restructure stories,https://github.com/appsmithorg/appsmith/pull/35725,2024-08-16T08:19:38Z,2024-08-17T05:05:11Z,3,1,MERGED
+appsmith,chore: Add metrics to pages sub-components,https://github.com/appsmithorg/appsmith/pull/35723,2024-08-16T06:44:44Z,2024-08-21T10:30:05Z,3,2,MERGED
+appsmith,chore: ce - remove sentry performance tracker,https://github.com/appsmithorg/appsmith/pull/35710,2024-08-15T07:12:54Z,2024-08-15T14:10:53Z,5,3,MERGED
+appsmith,chore: use translate to center the resize handle,https://github.com/appsmithorg/appsmith/pull/35665,2024-08-13T11:23:53Z,2024-08-14T07:39:14Z,6,2,MERGED
+appsmith,chore: Run a local server with docker compose while running from yarn setup,https://github.com/appsmithorg/appsmith/pull/35636,2024-08-12T17:08:21Z,2024-08-20T11:19:13Z,7,12,MERGED
+appsmith,chore: WDS text inputs visual refinements,https://github.com/appsmithorg/appsmith/pull/35581,2024-08-09T12:12:55Z,2024-08-09T13:41:26Z,1,3,MERGED
+appsmith,feat: Added SSH Tunnel for Postgres,https://github.com/appsmithorg/appsmith/pull/35449,2024-08-06T10:40:55Z,2024-08-29T10:09:09Z,54,6,MERGED
+appsmith,chore: added prettier spotless plugin for json files,https://github.com/appsmithorg/appsmith/pull/35447,2024-08-06T09:56:01Z,2024-08-08T03:46:03Z,1,1,MERGED
+appsmith,fix:snowflake-key-pair-auth-private-key-does-not-get-removed-upon-rem…,https://github.com/appsmithorg/appsmith/pull/35430,2024-08-06T04:34:47Z,2024-09-12T07:10:48Z,11,117,CLOSED
+appsmith,feat: added the code to sort the collection in the proper order.,https://github.com/appsmithorg/appsmith/pull/35413,2024-08-05T10:58:51Z,2024-08-29T10:04:58Z,14,2,MERGED
+appsmith,fix: updated code to show renamed app name in toast message,https://github.com/appsmithorg/appsmith/pull/35404,2024-08-05T08:30:14Z,2024-08-19T16:36:51Z,6,1,CLOSED
+appsmith,feat:sort workspaces on homepage in fixed alphabetical order,https://github.com/appsmithorg/appsmith/pull/35403,2024-08-05T08:27:22Z,2024-08-21T16:37:38Z,4,1,CLOSED
+appsmith,chore: added JSON files linting check,https://github.com/appsmithorg/appsmith/pull/35395,2024-08-05T05:28:12Z,2024-08-05T06:26:50Z,3,1,MERGED
+appsmith,fix:added a method to identify the data types properly and show in th…,https://github.com/appsmithorg/appsmith/pull/35394,2024-08-05T05:26:23Z,2025-02-25T16:39:21Z,16,4,CLOSED
+appsmith,chore: added JSON files linting check,https://github.com/appsmithorg/appsmith/pull/35393,2024-08-05T05:24:22Z,2024-08-05T05:25:15Z,1,2,CLOSED
+appsmith,chore: WDS adjust `bgNeutral`,https://github.com/appsmithorg/appsmith/pull/35382,2024-08-02T13:15:59Z,2024-08-05T08:33:47Z,1,1,MERGED
+appsmith,chore: added JSON files linting check,https://github.com/appsmithorg/appsmith/pull/35379,2024-08-02T10:53:12Z,2024-08-05T05:29:34Z,4,5,CLOSED
+appsmith,fix: updated the regex expression to correctly identify the table nam…,https://github.com/appsmithorg/appsmith/pull/35361,2024-08-02T09:43:13Z,2024-08-27T10:51:12Z,26,4,MERGED
+appsmith,fix: bug added placeholder text for the select column type's option property,https://github.com/appsmithorg/appsmith/pull/36536,2024-09-25T11:14:37Z,2024-10-18T16:38:22Z,5,1,CLOSED
+appsmith,fix:Long console statement is truncated on the debugger,https://github.com/appsmithorg/appsmith/pull/36525,2024-09-25T03:12:24Z,2024-11-29T05:19:20Z,10,1,CLOSED
+appsmith,chore: WDS Refinement inner spacing,https://github.com/appsmithorg/appsmith/pull/36505,2024-09-24T11:28:02Z,2024-10-02T07:58:32Z,2,1,MERGED
+appsmith,fix: App title drop down close on interaction with other components.,https://github.com/appsmithorg/appsmith/pull/36504,2024-09-24T10:23:10Z,2024-10-09T15:08:03Z,10,3,MERGED
+appsmith,feat: added LRU cache for mockDB connections,https://github.com/appsmithorg/appsmith/pull/36480,2024-09-23T10:02:48Z,2024-09-27T08:30:01Z,19,9,MERGED
+appsmith,fix:updated searchbar component to return result with client side sea…,https://github.com/appsmithorg/appsmith/pull/36360,2024-09-17T07:59:44Z,2025-02-01T16:35:31Z,14,3,CLOSED
+appsmith,fix: Date picker shouldn't appear on top of the date field,https://github.com/appsmithorg/appsmith/pull/36359,2024-09-17T07:51:54Z,2024-10-04T16:38:49Z,4,1,CLOSED
+appsmith,feat:sort apps in a workspace in alphabetical order,https://github.com/appsmithorg/appsmith/pull/36312,2024-09-13T11:00:42Z,2024-10-17T16:39:07Z,6,3,CLOSED
+appsmith,fix: bug toast message for when export default is not present in js object.,https://github.com/appsmithorg/appsmith/pull/36296,2024-09-13T04:51:13Z,2024-10-17T10:18:14Z,22,6,CLOSED
+appsmith,feat: set title of the tab dynamically.,https://github.com/appsmithorg/appsmith/pull/36275,2024-09-12T09:14:18Z,2024-10-17T16:39:09Z,6,1,CLOSED
+appsmith,fix/bug-snowflake-key-pair-auth-private-key-does-not-get-removed-upon…,https://github.com/appsmithorg/appsmith/pull/36270,2024-09-12T07:29:28Z,2024-10-02T07:08:56Z,14,1,CLOSED
+appsmith,fix:retained input reference on x icon click,https://github.com/appsmithorg/appsmith/pull/36268,2024-09-12T06:23:33Z,2024-10-27T16:37:42Z,14,11,CLOSED
+appsmith,fix:inconsistent behavior of widget color across checkbox widgets 24621,https://github.com/appsmithorg/appsmith/pull/36242,2024-09-11T06:48:37Z,2024-09-27T16:38:30Z,4,2,CLOSED
+appsmith,fix:included + sign in email for forgot password link 30195,https://github.com/appsmithorg/appsmith/pull/36241,2024-09-11T06:42:18Z,2024-09-27T16:38:32Z,4,6,CLOSED
+appsmith,fix: logger-not-working-in-plugins,https://github.com/appsmithorg/appsmith/pull/36231,2024-09-10T12:42:30Z,2024-09-17T09:47:59Z,21,7,MERGED
+appsmith,fix: added the method to sort the workspace after fetching them.,https://github.com/appsmithorg/appsmith/pull/36226,2024-09-10T10:02:38Z,2025-01-11T16:36:45Z,9,2,CLOSED
+appsmith,fix: bug when editing a row the selected row doesn't change UI accordingly,https://github.com/appsmithorg/appsmith/pull/36212,2024-09-10T05:01:36Z,2024-11-03T16:37:00Z,8,1,CLOSED
+appsmith,Move Expires-in in Oauth2 and make Second open source contribution,https://github.com/appsmithorg/appsmith/pull/36174,2024-09-08T13:25:35Z,2024-09-23T16:38:19Z,3,1,CLOSED
+appsmith,fix:Sort issue for action column in table.,https://github.com/appsmithorg/appsmith/pull/36151,2024-09-06T08:32:57Z,2025-01-12T16:36:33Z,10,1,CLOSED
+appsmith,feat: allow multiple lines in alert component,https://github.com/appsmithorg/appsmith/pull/36126,2024-09-05T08:26:13Z,2024-09-30T10:15:52Z,26,10,MERGED
+appsmith,chore: introduce caching and projection to optimise FPL,https://github.com/appsmithorg/appsmith/pull/36118,2024-09-04T11:50:49Z,2024-09-09T18:04:22Z,21,9,MERGED
+appsmith,fix: mongo schema collections order of mongo plugin,https://github.com/appsmithorg/appsmith/pull/36062,2024-09-03T04:14:32Z,2024-09-25T14:15:59Z,11,1,MERGED
+appsmith,chore: update inline code styles,https://github.com/appsmithorg/appsmith/pull/37136,2024-10-30T10:04:08Z,2024-10-30T10:58:55Z,3,2,MERGED
+appsmith,feat: Added TLS support for Redis Datasource,https://github.com/appsmithorg/appsmith/pull/37106,2024-10-25T12:45:30Z,2024-12-08T16:38:10Z,60,9,CLOSED
+appsmith,chore: Add JSObject creation flow metrics,https://github.com/appsmithorg/appsmith/pull/37064,2024-10-24T10:40:37Z,2024-10-28T09:42:28Z,5,3,MERGED
+appsmith,fix: toggle leave and delete workspace states,https://github.com/appsmithorg/appsmith/pull/37049,2024-10-24T03:27:18Z,2024-11-08T16:38:08Z,3,1,CLOSED
+appsmith,chore: Create query selector,https://github.com/appsmithorg/appsmith/pull/37018,2024-10-23T06:54:20Z,2024-10-24T07:49:30Z,15,6,MERGED
+appsmith,chore: fix errors related to service worker in dev mode,https://github.com/appsmithorg/appsmith/pull/37012,2024-10-22T15:03:31Z,2024-10-23T09:18:29Z,4,2,MERGED
+appsmith,fix: empty space is clickable when user edits app name or organisatio…,https://github.com/appsmithorg/appsmith/pull/36882,2024-10-15T12:43:48Z,2024-10-18T13:34:29Z,10,1,CLOSED
+appsmith,fix:- added elipsis and tooltip to the button content in table widget component,https://github.com/appsmithorg/appsmith/pull/36865,2024-10-14T11:10:44Z,2024-10-30T11:59:59Z,24,8,MERGED
+appsmith,fix: bug run button not disabled in response pane,https://github.com/appsmithorg/appsmith/pull/36864,2024-10-14T11:09:10Z,2025-02-08T16:35:52Z,12,1,CLOSED
+appsmith,feat: add initial assistant message,https://github.com/appsmithorg/appsmith/pull/36798,2024-10-10T08:36:05Z,2024-10-10T14:29:26Z,30,2,MERGED
+appsmith,fix: updated the max connection pool size and datasourceDestroy method,https://github.com/appsmithorg/appsmith/pull/36631,2024-10-01T09:54:17Z,2024-10-02T04:51:53Z,15,2,MERGED
+appsmith,chore: Strict request JSON check,https://github.com/appsmithorg/appsmith/pull/37773,2024-11-27T07:12:49Z,2025-03-15T16:37:06Z,9,2,CLOSED
+appsmith,chore: add wds datepicker widget,https://github.com/appsmithorg/appsmith/pull/37711,2024-11-26T10:25:54Z,2024-11-29T10:50:58Z,22,6,MERGED
+appsmith,chore: Update for workflow name,https://github.com/appsmithorg/appsmith/pull/37696,2024-11-26T05:51:09Z,2024-11-26T06:18:32Z,1,1,MERGED
+appsmith,chore: add datepicker component,https://github.com/appsmithorg/appsmith/pull/37563,2024-11-19T11:38:22Z,2024-11-22T10:20:44Z,20,8,MERGED
+appsmith,chore: Rename app-viewers to widgets-blocks,https://github.com/appsmithorg/appsmith/pull/37553,2024-11-19T08:08:40Z,2024-11-20T05:03:01Z,2,1,MERGED
+appsmith,chore: Adding no access state for Datasource tab based on permissions given via GAC,https://github.com/appsmithorg/appsmith/pull/38268,2024-12-20T03:56:25Z,2024-12-23T14:57:36Z,11,11,MERGED
+appsmith,chore: Allow currency and phone dial code change,https://github.com/appsmithorg/appsmith/pull/38141,2024-12-13T05:31:43Z,2024-12-19T05:42:23Z,27,19,MERGED
+appsmith,feat: requesting new integration ui to accept users preferences about the new integrations,https://github.com/appsmithorg/appsmith/pull/38012,2024-12-06T09:59:57Z,2024-12-09T11:58:25Z,18,9,MERGED
+appsmith,fix: [ADS] Entity Tree node overflow,https://github.com/appsmithorg/appsmith/pull/38651,2025-01-14T10:53:45Z,2025-01-14T11:33:32Z,1,1,MERGED
+appsmith,ci: Fix re-runs in server suite,https://github.com/appsmithorg/appsmith/pull/39429,2025-02-25T08:25:26Z,2025-02-25T09:11:36Z,1,1,MERGED
+appsmith,chore: add hybrid search control,https://github.com/appsmithorg/appsmith/pull/39258,2025-02-13T18:12:25Z,2025-02-14T08:05:41Z,1,2,MERGED
+appsmith,chore: add slider control,https://github.com/appsmithorg/appsmith/pull/39058,2025-02-06T07:08:26Z,2025-02-06T08:27:21Z,2,1,MERGED
+appsmith,fix: Env for disabling Keycloak is set incorrect,https://github.com/appsmithorg/appsmith/pull/39052,2025-02-06T05:46:01Z,2025-02-06T05:52:43Z,1,1,MERGED
+appsmith,ci: Include build information in Docker image labels,https://github.com/appsmithorg/appsmith/pull/39047,2025-02-06T05:17:25Z,2025-02-06T05:52:19Z,1,1,MERGED
+appsmith,chore: update select component,https://github.com/appsmithorg/appsmith/pull/38954,2025-02-03T07:16:05Z,2025-02-06T07:40:25Z,21,25,MERGED
+appsmith,fix: Array Field width css,https://github.com/appsmithorg/appsmith/pull/39463,2025-02-27T05:44:13Z,2025-02-27T08:32:46Z,7,2,MERGED
+appsmith,ci: Fix re-runs in server suite,https://github.com/appsmithorg/appsmith/pull/39429,2025-02-25T08:25:26Z,2025-02-25T09:11:36Z,1,1,MERGED
+appsmith,chore: add hybrid search control,https://github.com/appsmithorg/appsmith/pull/39258,2025-02-13T18:12:25Z,2025-02-14T08:05:41Z,1,2,MERGED
+appsmith,chore: add slider control,https://github.com/appsmithorg/appsmith/pull/39058,2025-02-06T07:08:26Z,2025-02-06T08:27:21Z,2,1,MERGED
+appsmith,fix: Env for disabling Keycloak is set incorrect,https://github.com/appsmithorg/appsmith/pull/39052,2025-02-06T05:46:01Z,2025-02-06T05:52:43Z,1,1,MERGED
+appsmith,ci: Include build information in Docker image labels,https://github.com/appsmithorg/appsmith/pull/39047,2025-02-06T05:17:25Z,2025-02-06T05:52:19Z,1,1,MERGED
+appsmith,chore: update select component,https://github.com/appsmithorg/appsmith/pull/38954,2025-02-03T07:16:05Z,2025-02-06T07:40:25Z,21,25,MERGED
+appsmith,chore: Adjust agent chat citation paddings (WDS small button with icon paddings),https://github.com/appsmithorg/appsmith/pull/39984,2025-03-31T11:50:37Z,2025-04-01T11:47:44Z,1,1,MERGED
+appsmith,chore: Adjust WDS buttons,https://github.com/appsmithorg/appsmith/pull/39967,2025-03-28T10:57:34Z,2025-03-28T11:42:20Z,1,2,MERGED
+appsmith,chore: Fix button position and left padding of WDS modal,https://github.com/appsmithorg/appsmith/pull/39941,2025-03-26T14:21:19Z,2025-03-26T15:48:09Z,1,1,MERGED
+appsmith,chore: Adjust WDS icon stroke,https://github.com/appsmithorg/appsmith/pull/39881,2025-03-24T11:47:44Z,2025-03-24T13:20:01Z,2,1,MERGED
+appsmith,feat: Implement Infinite Scroll while Maintaining Selection Features,https://github.com/appsmithorg/appsmith/pull/39820,2025-03-20T08:51:17Z,2025-04-03T16:39:50Z,10,1,CLOSED
+appsmith,chore: Adjust WDS small button size,https://github.com/appsmithorg/appsmith/pull/39723,2025-03-13T13:04:48Z,2025-03-14T06:10:52Z,1,1,MERGED
+appsmith,chore: skip long tests,https://github.com/appsmithorg/appsmith/pull/39702,2025-03-12T21:06:31Z,2025-03-12T21:18:46Z,1,1,MERGED
+appsmith,feat: add jsfunction resp viz,https://github.com/appsmithorg/appsmith/pull/39697,2025-03-12T14:49:43Z,2025-03-12T15:43:23Z,1,1,MERGED
+appsmith,chore: Update WDS outline buttons subtlety,https://github.com/appsmithorg/appsmith/pull/39696,2025-03-12T14:20:06Z,2025-03-13T08:30:18Z,1,2,MERGED
+appsmith,fix: WDS Storybook previews,https://github.com/appsmithorg/appsmith/pull/39545,2025-03-04T09:55:16Z,2025-03-04T11:18:13Z,1,1,MERGED
+appsmith,chore: Temporarily skip useTableOrSpreadsheet unit test,https://github.com/appsmithorg/appsmith/pull/40403,2025-04-26T14:12:42Z,2025-04-26T14:31:42Z,1,1,MERGED
+appsmith,[Snyk] Upgrade software.amazon.awssdk:dynamodb from 2.15.3 to 2.31.12,https://github.com/appsmithorg/appsmith/pull/40333,2025-04-22T05:27:05Z,2025-05-07T16:40:35Z,4,1,CLOSED
+appsmith,[Snyk] Upgrade software.amazon.awssdk:apache-client from 2.15.3 to 2.31.12,https://github.com/appsmithorg/appsmith/pull/40332,2025-04-22T05:27:02Z,2025-05-07T16:40:37Z,4,1,CLOSED
+appsmith,[Snyk] Upgrade org.pf4j:pf4j-spring from 0.8.0 to 0.9.0,https://github.com/appsmithorg/appsmith/pull/40331,2025-04-22T05:07:08Z,2025-05-07T16:40:38Z,3,1,CLOSED
+appsmith,[Snyk] Upgrade org.pf4j:pf4j from 3.10.0 to 3.13.0,https://github.com/appsmithorg/appsmith/pull/40330,2025-04-22T05:07:00Z,2025-05-07T16:40:40Z,3,1,CLOSED
+appsmith,[Snyk] Upgrade org.mockito:mockito-inline from 4.4.0 to 4.11.0,https://github.com/appsmithorg/appsmith/pull/40329,2025-04-22T05:06:56Z,2025-05-07T16:40:42Z,3,1,CLOSED
+appsmith,chore: login metric added,https://github.com/appsmithorg/appsmith/pull/40325,2025-04-21T12:52:42Z,2025-04-24T08:46:26Z,8,4,MERGED
+appsmith,chore: Adjust WDS fg negative,https://github.com/appsmithorg/appsmith/pull/40297,2025-04-17T10:07:22Z,2025-04-17T12:46:02Z,1,1,MERGED
+appsmith,chore: Update embed tab to hide private embed settings,https://github.com/appsmithorg/appsmith/pull/40266,2025-04-16T07:14:14Z,2025-04-16T10:30:46Z,8,4,MERGED
+appsmith,chore: Agent chat annotated label in query pane,https://github.com/appsmithorg/appsmith/pull/40237,2025-04-14T10:06:18Z,2025-04-14T13:28:29Z,1,1,MERGED
+appsmith,chore: Adjust agent chat code elements,https://github.com/appsmithorg/appsmith/pull/40230,2025-04-11T14:59:18Z,2025-04-14T13:29:11Z,2,4,MERGED
+appsmith,chore: Adjust codeblock in markdown inner padding,https://github.com/appsmithorg/appsmith/pull/40140,2025-04-07T13:51:33Z,2025-04-07T14:06:57Z,1,1,MERGED
+appsmith,chore: fix height issue,https://github.com/appsmithorg/appsmith/pull/40107,2025-04-07T09:05:30Z,2025-04-07T11:03:40Z,1,1,MERGED
+appsmith,chore: remove auth subtitle for agents,https://github.com/appsmithorg/appsmith/pull/40095,2025-04-04T12:10:27Z,2025-04-04T12:30:52Z,1,1,MERGED
+appsmith,chore: Adjust default Anvil/WDS border radius,https://github.com/appsmithorg/appsmith/pull/40088,2025-04-04T10:53:10Z,2025-04-04T12:08:58Z,2,4,MERGED
+appsmith,chore: Adjust WDS typography (add letter-spacing to text),https://github.com/appsmithorg/appsmith/pull/40084,2025-04-04T08:36:51Z,2025-04-04T10:39:49Z,1,3,MERGED
+appsmith,chore: Adjust WDS text colors,https://github.com/appsmithorg/appsmith/pull/40034,2025-04-02T10:25:38Z,2025-04-02T12:34:18Z,1,1,MERGED
+appsmith,chore: Module editor Remove page tab from navigate to action selector,https://github.com/appsmithorg/appsmith/pull/40743,2025-05-23T06:03:15Z,2025-05-23T09:11:28Z,4,1,MERGED
+appsmith,fix: improve full name input styling to match radio buttons,https://github.com/appsmithorg/appsmith/pull/40727,2025-05-22T05:51:36Z,2025-05-26T08:02:18Z,2,8,MERGED
+appsmith,chore: WDS adjust neutral subtle colors,https://github.com/appsmithorg/appsmith/pull/40595,2025-05-07T08:46:43Z,2025-05-07T10:06:41Z,1,1,MERGED
+appsmith,[Snyk] Security upgrade com.amazonaws:aws-java-sdk-lambda from 1.12.622 to 1.12.783,https://github.com/appsmithorg/appsmith/pull/40582,2025-05-06T05:21:44Z,2025-05-08T01:28:07Z,1,1,CLOSED
+appsmith,[Snyk] Security upgrade tinymce from 6.8.3 to 7.0.0,https://github.com/appsmithorg/appsmith/pull/40560,2025-05-05T06:03:55Z,2025-05-08T01:27:20Z,1,1,CLOSED
+appsmith,feat: add form login enablement command and enhance Redis URL handling,https://github.com/appsmithorg/appsmith/pull/41078,2025-07-03T07:10:52Z,2025-07-07T11:47:57Z,22,7,MERGED
+appsmith,fix: added docx types to binary,https://github.com/appsmithorg/appsmith/pull/41200,2025-08-31T13:48:29Z,2025-09-03T05:17:30Z,6,1,MERGED
+appsmith,fix: CVE-2024-38821,https://github.com/appsmithorg/appsmith/pull/41221,2025-09-12T05:37:06Z,2025-09-15T11:14:17Z,9,1,MERGED

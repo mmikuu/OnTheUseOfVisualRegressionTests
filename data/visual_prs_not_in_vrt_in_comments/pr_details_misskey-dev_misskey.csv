@@ -1,0 +1,570 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+misskey,Fix margin in visibleUsers (mobile),https://github.com/misskey-dev/misskey/pull/2016,2018-07-28T04:10:49Z,2018-07-28T04:17:33Z,1,1,MERGED
+misskey,プロフィール上ボタンの表示の問題を修正,https://github.com/misskey-dev/misskey/pull/1996,2018-07-26T12:42:05Z,2018-07-26T12:47:03Z,1,1,MERGED
+misskey,プレビューで自分のアカウントの場合はフォローボタンを表示しないように修正,https://github.com/misskey-dev/misskey/pull/1995,2018-07-26T12:13:36Z,2018-07-26T12:45:44Z,1,1,MERGED
+misskey,公開範囲を変更したらボタンのアイコンを変更する,https://github.com/misskey-dev/misskey/pull/1993,2018-07-26T11:51:08Z,2018-07-26T12:44:22Z,1,1,MERGED
+misskey,タグサジェストが重複しないようにする,https://github.com/misskey-dev/misskey/pull/1933,2018-07-20T10:28:40Z,2018-07-20T12:12:30Z,1,1,MERGED
+misskey,Fix darkmode on followers-you-may-know,https://github.com/misskey-dev/misskey/pull/2557,2018-08-31T19:45:53Z,2018-08-31T22:15:23Z,1,1,MERGED
+misskey,Fix various darkmode elements on user pages,https://github.com/misskey-dev/misskey/pull/2507,2018-08-27T15:12:58Z,2018-08-27T22:38:50Z,1,7,MERGED
+misskey,起動時のDB接続チェックでエラーを検出できないのを修正,https://github.com/misskey-dev/misskey/pull/2388,2018-08-21T23:58:33Z,2018-08-22T00:12:59Z,1,1,MERGED
+misskey,Add 猫耳,https://github.com/misskey-dev/misskey/pull/2182,2018-08-12T18:44:01Z,2018-08-13T20:25:31Z,2,7,MERGED
+misskey,Fix Powered by <b>Misskey</b>.,https://github.com/misskey-dev/misskey/pull/2140,2018-08-10T11:11:36Z,2018-08-10T11:11:55Z,1,1,MERGED
+misskey,プロフィールバナーがやけに赤いのを修正,https://github.com/misskey-dev/misskey/pull/2783,2018-09-29T07:51:21Z,2018-09-29T07:52:59Z,1,1,MERGED
+misskey,ActivityPub Outboxの修正とactivity idのURLを実装 ,https://github.com/misskey-dev/misskey/pull/2662,2018-09-07T20:00:05Z,2018-09-07T20:24:56Z,3,4,MERGED
+misskey,fix #2346,https://github.com/misskey-dev/misskey/pull/2830,2018-10-06T08:57:20Z,2018-10-08T15:55:48Z,7,3,MERGED
+misskey,管理画面UIの改善,https://github.com/misskey-dev/misskey/pull/2802,2018-10-02T14:40:12Z,2018-10-02T14:42:47Z,1,1,MERGED
+misskey,非承認制アカウントのリモートフォローではフォロー許可待ちと表示しない,https://github.com/misskey-dev/misskey/pull/2796,2018-10-01T09:54:55Z,2018-10-01T10:28:25Z,3,1,MERGED
+misskey,Trim notifications text,https://github.com/misskey-dev/misskey/pull/3438,2018-11-29T20:48:53Z,2018-11-30T00:34:38Z,1,4,MERGED
+misskey,Show current selected language,https://github.com/misskey-dev/misskey/pull/3429,2018-11-29T12:27:56Z,2018-11-29T12:56:53Z,1,1,MERGED
+misskey,Quote between Misskey,https://github.com/misskey-dev/misskey/pull/3384,2018-11-22T16:27:06Z,2018-11-22T17:10:08Z,2,1,MERGED
+misskey,Show visibility in note-detail,https://github.com/misskey-dev/misskey/pull/3308,2018-11-18T11:28:49Z,2018-11-18T13:47:22Z,1,2,MERGED
+misskey,メニューの「お気に入り」「ピン留め」でする/解除がリロードしなくても切り替わるように修正,https://github.com/misskey-dev/misskey/pull/3197,2018-11-10T13:43:55Z,2018-11-12T07:04:51Z,3,1,CLOSED
+misskey,via の表示を改善 (issue/3075),https://github.com/misskey-dev/misskey/pull/3161,2018-11-08T04:53:27Z,2018-11-08T04:55:00Z,1,1,MERGED
+misskey,Twemojiで合字に対応,https://github.com/misskey-dev/misskey/pull/3140,2018-11-06T03:48:09Z,2018-11-06T05:09:40Z,3,2,MERGED
+misskey,Update CI configuration,https://github.com/misskey-dev/misskey/pull/3120,2018-11-05T08:19:29Z,2018-11-05T08:38:58Z,1,3,MERGED
+misskey,Resolve #3813,https://github.com/misskey-dev/misskey/pull/3814,2018-12-31T07:20:57Z,2019-01-01T18:35:43Z,2,1,MERGED
+misskey,Undo reaction with clicking minus,https://github.com/misskey-dev/misskey/pull/3773,2018-12-27T15:38:20Z,2018-12-27T16:01:59Z,4,2,MERGED
+misskey,Mention to user,https://github.com/misskey-dev/misskey/pull/3771,2018-12-27T13:23:13Z,2018-12-27T14:14:30Z,1,1,MERGED
+misskey, Feature to show only my posts in the user page ,https://github.com/misskey-dev/misskey/pull/3753,2018-12-25T22:08:04Z,2018-12-26T14:11:52Z,1,2,MERGED
+misskey,Update translation placeholder,https://github.com/misskey-dev/misskey/pull/3735,2018-12-23T16:56:54Z,2018-12-23T20:36:03Z,1,1,MERGED
+misskey,Fix tag not found,https://github.com/misskey-dev/misskey/pull/3710,2018-12-21T12:43:23Z,2018-12-21T12:46:50Z,1,1,MERGED
+misskey,Fix follow processing icon,https://github.com/misskey-dev/misskey/pull/3705,2018-12-20T17:23:42Z,2018-12-20T17:30:49Z,1,1,MERGED
+misskey,Fix overlap of birthday label on datepicker,https://github.com/misskey-dev/misskey/pull/3697,2018-12-20T08:00:02Z,2018-12-20T08:01:30Z,1,1,MERGED
+misskey,Format uptimes,https://github.com/misskey-dev/misskey/pull/3629,2018-12-15T21:31:50Z,2018-12-15T22:06:43Z,1,5,MERGED
+misskey, Scroll tall contents option,https://github.com/misskey-dev/misskey/pull/3628,2018-12-15T17:47:42Z,2019-05-07T09:51:21Z,1,4,CLOSED
+misskey,Fix reversi settings bot switch,https://github.com/misskey-dev/misskey/pull/3609,2018-12-13T04:39:24Z,2018-12-13T04:40:10Z,1,1,MERGED
+misskey,Fix fields,https://github.com/misskey-dev/misskey/pull/3596,2018-12-11T17:43:21Z,2018-12-11T17:46:40Z,7,1,MERGED
+misskey,improve user-integration display in the user page,https://github.com/misskey-dev/misskey/pull/3541,2018-12-08T05:58:45Z,2018-12-08T07:59:30Z,1,2,MERGED
+misskey,Fix bug caused by Chrome 71,https://github.com/misskey-dev/misskey/pull/3535,2018-12-07T03:42:40Z,2018-12-07T08:21:35Z,9,5,MERGED
+misskey,Hide unavailable admin menus,https://github.com/misskey-dev/misskey/pull/3530,2018-12-06T18:49:48Z,2018-12-07T08:47:55Z,4,3,CLOSED
+misskey,Do not show Renote button when inhibited,https://github.com/misskey-dev/misskey/pull/3488,2018-12-03T18:12:08Z,2018-12-03T18:22:08Z,1,1,MERGED
+misskey,Improve widget paging looks,https://github.com/misskey-dev/misskey/pull/3482,2018-12-03T14:10:34Z,2018-12-03T14:14:11Z,1,2,MERGED
+misskey,Suggest in CW,https://github.com/misskey-dev/misskey/pull/3467,2018-12-01T22:32:25Z,2018-12-01T22:33:04Z,1,1,MERGED
+misskey,Better alert for the update alerts,https://github.com/misskey-dev/misskey/pull/3459,2018-12-01T05:25:43Z,2018-12-03T03:55:14Z,2,8,CLOSED
+misskey,テーマによってコードが見づらいのを少し改善,https://github.com/misskey-dev/misskey/pull/3993,2019-01-26T12:08:28Z,2019-01-26T12:10:26Z,1,1,MERGED
+misskey,Improve moderation UI,https://github.com/misskey-dev/misskey/pull/3989,2019-01-26T05:50:31Z,2019-01-26T08:14:11Z,1,2,MERGED
+misskey,Supports Twemoji / CustomEmoji in poll,https://github.com/misskey-dev/misskey/pull/3960,2019-01-22T19:47:56Z,2019-01-22T19:49:17Z,1,2,MERGED
+misskey,投票未対応インスタンス向けメッセージをわかりやすくする,https://github.com/misskey-dev/misskey/pull/3944,2019-01-21T07:32:55Z,2019-01-21T07:34:18Z,4,6,MERGED
+misskey,Better 2FA input on sign in form,https://github.com/misskey-dev/misskey/pull/3910,2019-01-17T14:37:01Z,2019-01-18T04:20:32Z,0,5,MERGED
+misskey,Fix: time tooltip overlaps with others,https://github.com/misskey-dev/misskey/pull/3901,2019-01-16T17:00:26Z,2019-01-16T21:40:12Z,1,1,MERGED
+misskey,管理画面でユーザーを状態でフィルタできるように,https://github.com/misskey-dev/misskey/pull/3873,2019-01-10T17:19:46Z,2019-01-10T23:09:45Z,1,1,MERGED
+misskey,Toggle show/hide password,https://github.com/misskey-dev/misskey/pull/3865,2019-01-09T17:00:00Z,2019-01-10T01:22:45Z,1,3,MERGED
+misskey,Compact URL preview,https://github.com/misskey-dev/misskey/pull/3835,2019-01-05T09:52:24Z,2019-01-06T03:56:13Z,2,6,MERGED
+misskey,Add missing translation - ホームのカスタマイズ,https://github.com/misskey-dev/misskey/pull/4360,2019-02-23T13:25:13Z,2019-02-23T18:34:41Z,1,1,MERGED
+misskey,デッキからホームに行くメニューをホームと表記する,https://github.com/misskey-dev/misskey/pull/4359,2019-02-23T10:17:27Z,2019-02-23T18:34:10Z,1,1,MERGED
+misskey,Introduce OpenAPI specs,https://github.com/misskey-dev/misskey/pull/4351,2019-02-22T16:52:56Z,2019-02-23T02:20:59Z,1,14,MERGED
+misskey,Supports scrollbar width in Firefox,https://github.com/misskey-dev/misskey/pull/4319,2019-02-19T05:27:18Z,2019-02-19T11:12:19Z,2,2,MERGED
+misskey,developにキャッシュFlushリンクを追加,https://github.com/misskey-dev/misskey/pull/4313,2019-02-18T11:52:49Z,2019-02-18T11:55:52Z,1,1,MERGED
+misskey,Fix #4308,https://github.com/misskey-dev/misskey/pull/4310,2019-02-18T05:55:32Z,2019-02-18T18:48:22Z,1,1,MERGED
+misskey,Add i18n when timelines are empty,https://github.com/misskey-dev/misskey/pull/4261,2019-02-14T15:05:36Z,2019-02-14T20:59:07Z,1,1,MERGED
+misskey,Emojify friends username of desktop user page,https://github.com/misskey-dev/misskey/pull/4249,2019-02-13T19:48:17Z,2019-02-14T04:42:14Z,1,1,MERGED
+misskey,Fix huge close icon of friends-maker,https://github.com/misskey-dev/misskey/pull/4245,2019-02-13T18:45:11Z,2019-02-14T04:41:48Z,1,1,MERGED
+misskey,Increase slightly the font size of replies,https://github.com/misskey-dev/misskey/pull/4237,2019-02-12T21:56:22Z,2019-02-28T08:19:08Z,0,3,CLOSED
+misskey,Sort ISSUE_TEMPLATE,https://github.com/misskey-dev/misskey/pull/4236,2019-02-12T21:16:24Z,2019-02-13T06:59:52Z,0,1,MERGED
+misskey,"Docker: Remove unnecessary workaround for BusyBox's ""free"" (#4199)",https://github.com/misskey-dev/misskey/pull/4213,2019-02-10T06:05:31Z,2019-02-13T14:45:59Z,0,3,MERGED
+misskey,deckにフォローされていますマークを追加,https://github.com/misskey-dev/misskey/pull/4207,2019-02-09T19:52:47Z,2019-02-09T20:26:50Z,1,2,MERGED
+misskey,"Docker: Remove unnecessary workaround for BusyBox's ""free""",https://github.com/misskey-dev/misskey/pull/4199,2019-02-09T04:06:47Z,2019-02-10T06:04:47Z,9,1,MERGED
+misskey,余計なマージンを削除,https://github.com/misskey-dev/misskey/pull/4168,2019-02-06T09:29:15Z,2019-02-06T09:29:39Z,3,1,MERGED
+misskey,リアクション一覧のマージンを調整,https://github.com/misskey-dev/misskey/pull/4160,2019-02-05T16:38:54Z,2019-02-06T08:04:01Z,6,1,CLOSED
+misskey,Improve mobile newer-indicator,https://github.com/misskey-dev/misskey/pull/4610,2019-03-30T10:20:22Z,2019-05-26T17:55:02Z,4,5,CLOSED
+misskey,ユーザーリストでフォローボタンを表示するように,https://github.com/misskey-dev/misskey/pull/4603,2019-03-29T22:04:05Z,2019-04-08T08:20:17Z,1,1,MERGED
+misskey,"Fix #97, Fix #2943",https://github.com/misskey-dev/misskey/pull/4533,2019-03-18T23:36:01Z,2019-03-19T08:35:50Z,1,2,MERGED
+misskey,Resolve #1465,https://github.com/misskey-dev/misskey/pull/4532,2019-03-18T20:02:28Z,2019-03-19T08:26:08Z,2,17,MERGED
+misskey,Fix custom emoji validation,https://github.com/misskey-dev/misskey/pull/4528,2019-03-18T09:49:00Z,2019-03-18T11:02:26Z,1,1,MERGED
+misskey,Accepts Article object,https://github.com/misskey-dev/misskey/pull/4499,2019-03-14T15:21:39Z,2019-03-14T15:23:25Z,1,1,MERGED
+misskey,Fix queue charts,https://github.com/misskey-dev/misskey/pull/4482,2019-03-12T12:50:13Z,2019-03-12T12:53:37Z,1,1,MERGED
+misskey,Fix: admin/driveのアイコンがずれてる,https://github.com/misskey-dev/misskey/pull/4710,2019-04-15T17:39:34Z,2019-04-15T17:46:48Z,1,1,MERGED
+misskey,Fix: ObjectStrage利用時にドライブファイルアイコンが表示されない (v10),https://github.com/misskey-dev/misskey/pull/4677,2019-04-14T08:09:03Z,2019-04-14T08:19:25Z,1,1,MERGED
+misskey,"Improve post form attaches; Fix #4673, Resolve #2327, Resolve #2145 [v11]",https://github.com/misskey-dev/misskey/pull/4674,2019-04-14T04:40:38Z,2019-04-14T08:12:05Z,3,4,MERGED
+misskey,Make mobile-post-form flex-grow Resolve #142,https://github.com/misskey-dev/misskey/pull/4657,2019-04-09T12:00:06Z,2019-05-27T11:20:35Z,3,3,CLOSED
+misskey,WIP: Add Heroku Deploy Button,https://github.com/misskey-dev/misskey/pull/4648,2019-04-07T04:39:13Z,2019-04-08T05:49:19Z,17,4,CLOSED
+misskey,i18n: ページ編集のカウンターの増加値 placeholder,https://github.com/misskey-dev/misskey/pull/4995,2019-05-26T14:48:18Z,2019-05-26T15:03:40Z,2,1,MERGED
+misskey,Enable query result cache for meta / stats / hashtags trend,https://github.com/misskey-dev/misskey/pull/4978,2019-05-24T22:25:08Z,2019-05-24T23:35:16Z,1,1,MERGED
+misskey,Add group update / transfer API,https://github.com/misskey-dev/misskey/pull/4957,2019-05-21T20:15:04Z,2019-05-22T04:03:19Z,1,6,MERGED
+misskey,CI,https://github.com/misskey-dev/misskey/pull/4909,2019-05-12T09:08:26Z,2019-09-06T06:43:12Z,8,30,CLOSED
+misskey,Fix: みつけるで人気のタグが表示されない,https://github.com/misskey-dev/misskey/pull/4883,2019-05-08T16:44:58Z,2019-05-09T06:42:57Z,1,1,MERGED
+misskey,2段階認証コードの入力フォームタイプの訂正,https://github.com/misskey-dev/misskey/pull/4869,2019-05-06T19:44:24Z,2019-05-06T23:45:30Z,1,1,MERGED
+misskey,外部サービス連携ログインリンクにアイコン追加,https://github.com/misskey-dev/misskey/pull/4858,2019-05-04T19:07:01Z,2019-05-05T00:28:24Z,1,1,MERGED
+misskey,外部サービス連携後のPackedUserがその情報を持つように,https://github.com/misskey-dev/misskey/pull/4850,2019-05-03T17:48:02Z,2019-05-05T00:28:56Z,4,1,MERGED
+misskey,Implement Webauthn 🎉,https://github.com/misskey-dev/misskey/pull/5088,2019-06-27T02:35:24Z,2019-07-03T11:18:08Z,163,33,MERGED
+misskey,Improve url-preview,https://github.com/misskey-dev/misskey/pull/5077,2019-06-21T05:33:05Z,2019-06-21T06:41:03Z,1,4,MERGED
+misskey,Fix: some post form errors,https://github.com/misskey-dev/misskey/pull/5212,2019-07-22T20:19:41Z,2019-07-23T17:15:40Z,1,2,MERGED
+misskey,投稿のプレビュー機能,https://github.com/misskey-dev/misskey/pull/5207,2019-07-20T19:24:22Z,2019-07-26T11:22:19Z,51,16,CLOSED
+misskey,投稿フォームが画面外にはみ出さないように,https://github.com/misskey-dev/misskey/pull/5203,2019-07-20T07:10:11Z,2019-07-20T08:50:02Z,2,2,MERGED
+misskey,Fix activity calendar for desktop widget,https://github.com/misskey-dev/misskey/pull/5200,2019-07-19T21:40:25Z,2019-07-21T10:12:17Z,6,5,MERGED
+misskey,Improve usability of quote note by pasting url,https://github.com/misskey-dev/misskey/pull/5196,2019-07-19T14:31:03Z,2019-07-19T18:23:17Z,1,1,MERGED
+misskey,ブロードキャストウィジットを他と同じようなページングに,https://github.com/misskey-dev/misskey/pull/5194,2019-07-19T12:04:59Z,2019-09-25T19:22:45Z,11,5,CLOSED
+misskey,特定ホストへのメンションの特別処理をクライアントに追加,https://github.com/misskey-dev/misskey/pull/5185,2019-07-18T09:59:51Z,2019-07-18T18:13:48Z,8,5,MERGED
+misskey,fix #5071,https://github.com/misskey-dev/misskey/pull/5184,2019-07-18T09:10:13Z,2019-07-18T11:56:49Z,1,1,MERGED
+misskey,「削除して編集」機能を追加,https://github.com/misskey-dev/misskey/pull/5182,2019-07-17T19:55:11Z,2019-07-27T20:33:13Z,16,4,MERGED
+misskey,Improve #5176,https://github.com/misskey-dev/misskey/pull/5178,2019-07-17T11:07:38Z,2019-07-17T14:59:21Z,3,3,MERGED
+misskey,Improve usability of users view,https://github.com/misskey-dev/misskey/pull/5176,2019-07-17T07:23:12Z,2019-07-17T09:59:11Z,9,4,MERGED
+misskey,Fix #5172,https://github.com/misskey-dev/misskey/pull/5174,2019-07-17T04:27:05Z,2019-07-17T04:28:28Z,1,1,MERGED
+misskey,Resolve #5117,https://github.com/misskey-dev/misskey/pull/5171,2019-07-16T19:39:39Z,2019-07-17T15:00:04Z,1,2,MERGED
+misskey,Mastodonのリンクの所有者認証に対応,https://github.com/misskey-dev/misskey/pull/5161,2019-07-16T07:12:11Z,2019-07-17T15:11:40Z,2,2,MERGED
+misskey,Improve usability,https://github.com/misskey-dev/misskey/pull/5142,2019-07-12T12:02:47Z,2019-07-12T13:24:30Z,1,1,MERGED
+misskey,Add support for sonic and framework for search engines,https://github.com/misskey-dev/misskey/pull/5138,2019-07-11T11:19:55Z,2022-05-14T06:05:57Z,60,21,CLOSED
+misskey,Implement Support for Sonic,https://github.com/misskey-dev/misskey/pull/5136,2019-07-11T01:30:13Z,2019-07-11T11:19:16Z,3,37,CLOSED
+misskey,Fix drive browser showing false empty,https://github.com/misskey-dev/misskey/pull/5127,2019-07-09T08:34:09Z,2019-07-09T08:38:15Z,1,1,MERGED
+misskey,Tune font,https://github.com/misskey-dev/misskey/pull/5125,2019-07-09T02:37:55Z,2019-07-09T08:01:09Z,1,1,MERGED
+misskey,公開以外へのリプライ時元の公開範囲で指定したユーザー情報を引き継ぐように,https://github.com/misskey-dev/misskey/pull/5119,2019-07-07T07:56:44Z,2019-07-07T08:14:09Z,3,2,MERGED
+misskey,Fix notification wrap,https://github.com/misskey-dev/misskey/pull/5118,2019-07-07T07:23:29Z,2019-07-07T09:59:55Z,1,1,MERGED
+misskey,Support password-less login with WebAuthn,https://github.com/misskey-dev/misskey/pull/5112,2019-07-06T16:26:57Z,2019-07-06T16:38:37Z,2,2,MERGED
+misskey,Fix: ユーザー名等のMFMが折り返されてしまう,https://github.com/misskey-dev/misskey/pull/5109,2019-07-05T12:44:11Z,2019-07-05T12:47:18Z,3,1,MERGED
+misskey,リアクションピッカーに絵文字ピッカーなど,https://github.com/misskey-dev/misskey/pull/5104,2019-07-04T20:58:34Z,2020-01-19T16:47:16Z,5,2,CLOSED
+misskey,Fix WebAuthn login,https://github.com/misskey-dev/misskey/pull/5103,2019-07-04T20:42:03Z,2019-07-04T22:48:12Z,1,1,MERGED
+misskey,Update ESLint :rocket:,https://github.com/misskey-dev/misskey/pull/5097,2019-07-03T11:19:08Z,2019-07-03T11:20:03Z,1,1,MERGED
+misskey,Roomで未保存警告ダイアログなどを追加,https://github.com/misskey-dev/misskey/pull/5332,2019-08-22T08:06:31Z,2019-08-22T09:33:51Z,1,2,MERGED
+misskey,Improve furniture preview,https://github.com/misskey-dev/misskey/pull/5328,2019-08-21T10:55:33Z,2019-08-22T09:34:17Z,6,6,MERGED
+misskey,Improve post form,https://github.com/misskey-dev/misskey/pull/5326,2019-08-20T18:23:48Z,2019-08-25T07:12:02Z,8,2,MERGED
+misskey,ユーザー名の突き抜けの修正,https://github.com/misskey-dev/misskey/pull/5261,2019-08-11T05:28:20Z,2019-08-11T10:48:55Z,2,7,MERGED
+misskey,Better broadcast widget mk2,https://github.com/misskey-dev/misskey/pull/5455,2019-09-24T08:24:16Z,2019-09-25T19:23:49Z,2,7,MERGED
+misskey,絵文字ピッカーの Unicode 12.0 対応など,https://github.com/misskey-dev/misskey/pull/5441,2019-09-20T17:37:31Z,2019-09-21T12:31:39Z,1,9,MERGED
+misskey,Fix: selectコンポーネントに余分な下線が付く,https://github.com/misskey-dev/misskey/pull/5440,2019-09-20T16:46:41Z,2019-09-20T16:47:32Z,1,1,MERGED
+misskey,Follow requests page improvements,https://github.com/misskey-dev/misskey/pull/5429,2019-09-14T13:12:59Z,2019-09-14T17:38:35Z,3,2,MERGED
+misskey,Indicate if input value is invalid,https://github.com/misskey-dev/misskey/pull/5422,2019-09-11T22:57:43Z,2019-10-04T05:18:50Z,17,5,MERGED
+misskey,みつけるの微修正,https://github.com/misskey-dev/misskey/pull/5506,2019-10-15T16:35:44Z,2019-10-15T18:45:10Z,1,2,MERGED
+misskey,みつけるに連合分を表示するように,https://github.com/misskey-dev/misskey/pull/5490,2019-10-04T22:08:06Z,2019-10-13T17:00:29Z,3,2,MERGED
+misskey,ブラウザの戻るボタンで画像ビュアーを閉じれるように,https://github.com/misskey-dev/misskey/pull/5485,2019-10-03T21:03:34Z,2019-10-12T19:31:23Z,45,1,CLOSED
+misskey,Fix: オフライン時に大室櫻子が出てこない,https://github.com/misskey-dev/misskey/pull/5480,2019-10-03T08:31:42Z,2019-10-04T01:27:57Z,4,2,MERGED
+misskey,管理画面のジョブキュー一覧の修正,https://github.com/misskey-dev/misskey/pull/5586,2019-11-06T20:39:31Z,2019-11-06T20:41:44Z,2,3,MERGED
+misskey,APの統計とログの修正と強化,https://github.com/misskey-dev/misskey/pull/5585,2019-11-05T19:56:22Z,2019-11-06T15:02:19Z,1,2,MERGED
+misskey,add line-height,https://github.com/misskey-dev/misskey/pull/5659,2019-12-24T12:17:45Z,2020-01-29T22:38:06Z,18,5,CLOSED
+misskey,Stacked bar chart がおかしいのを修正,https://github.com/misskey-dev/misskey/pull/5654,2019-12-19T23:12:24Z,2019-12-21T07:49:02Z,1,2,MERGED
+misskey,Implement UI to remove renote,https://github.com/misskey-dev/misskey/pull/5629,2019-12-09T11:20:09Z,2020-01-29T22:39:29Z,16,6,CLOSED
+misskey,ミュート/ブロックでページングと解除ができるように,https://github.com/misskey-dev/misskey/pull/5610,2019-12-01T11:54:42Z,2019-12-14T18:42:34Z,1,1,MERGED
+misskey,Stacked bar chart の修正,https://github.com/misskey-dev/misskey/pull/5681,2020-01-05T11:11:56Z,2020-01-05T11:12:37Z,1,2,MERGED
+misskey,引用符内でNyaizeを無効化するように,https://github.com/misskey-dev/misskey/pull/6111,2020-02-28T15:07:18Z,2020-03-02T03:26:58Z,2,1,CLOSED
+misskey,画面が小さいとメニュー項目が隠れてしまう問題の修正,https://github.com/misskey-dev/misskey/pull/6106,2020-02-28T09:22:21Z,2020-03-22T05:58:14Z,2,2,CLOSED
+misskey,リアクション絵文字設定をいい感じに,https://github.com/misskey-dev/misskey/pull/6074,2020-02-23T16:02:27Z,2020-02-26T07:48:24Z,3,3,MERGED
+misskey,下にメッセージ送信欄が付いてくるように,https://github.com/misskey-dev/misskey/pull/6018,2020-02-19T09:56:24Z,2022-05-14T06:06:12Z,8,1,CLOSED
+misskey,切断時ダイアログのタイミングの変更など,https://github.com/misskey-dev/misskey/pull/6014,2020-02-19T06:30:44Z,2020-02-19T18:42:36Z,3,3,MERGED
+misskey,Fix For Messaging Icon,https://github.com/misskey-dev/misskey/pull/5933,2020-02-13T05:36:41Z,2020-02-13T06:53:03Z,1,3,MERGED
+misskey,お知らせの固定表示,https://github.com/misskey-dev/misskey/pull/5887,2020-02-08T19:11:17Z,2020-02-09T12:31:18Z,2,4,MERGED
+misskey,Misskey以外からのトークの返信が受け取れないのを修正,https://github.com/misskey-dev/misskey/pull/5853,2020-02-06T08:06:45Z,2020-02-06T08:11:03Z,1,1,MERGED
+misskey,Fix nyaize 2,https://github.com/misskey-dev/misskey/pull/5841,2020-02-05T20:17:55Z,2020-02-06T00:11:27Z,1,5,MERGED
+misskey,コンポーネントの活性時に再計算するように,https://github.com/misskey-dev/misskey/pull/5829,2020-02-04T14:05:41Z,2020-02-04T22:54:50Z,1,1,MERGED
+misskey,ノートをウォッチした後にメニューが開けなくなるのを修正,https://github.com/misskey-dev/misskey/pull/5797,2020-02-01T03:19:16Z,2020-02-01T03:19:44Z,1,1,MERGED
+misskey,ノートページのタイトルで、名前が空のときIDを使う,https://github.com/misskey-dev/misskey/pull/6166,2020-03-18T02:16:12Z,2020-03-20T04:57:56Z,1,1,MERGED
+misskey,オブジェクトストレージでS3のvirtual-host形式のサポートなど,https://github.com/misskey-dev/misskey/pull/6148,2020-03-08T15:43:59Z,2020-03-14T02:33:20Z,1,4,MERGED
+misskey,"Add range component, 音量設定で使用する",https://github.com/misskey-dev/misskey/pull/6146,2020-03-08T11:59:26Z,2020-03-20T05:30:38Z,1,4,MERGED
+misskey,ダークテーマ利用時にセレクトが使いにくくなる問題を修正,https://github.com/misskey-dev/misskey/pull/6117,2020-03-01T08:05:49Z,2020-03-06T13:54:24Z,3,1,MERGED
+misskey,nginxサンプルでTLSv1.2以外をdropなど,https://github.com/misskey-dev/misskey/pull/6298,2020-04-25T17:40:42Z,2020-04-26T01:36:26Z,1,1,MERGED
+misskey,Local only indicator,https://github.com/misskey-dev/misskey/pull/6291,2020-04-22T07:00:41Z,2020-05-16T13:06:40Z,11,7,MERGED
+misskey,Implement Unrenote Functionality,https://github.com/misskey-dev/misskey/pull/6290,2020-04-22T06:58:47Z,2020-05-14T22:18:21Z,7,2,CLOSED
+misskey,モデレーション周りのv11の機能復元,https://github.com/misskey-dev/misskey/pull/6249,2020-04-12T04:46:36Z,2020-04-13T14:27:13Z,11,5,MERGED
+misskey,オブジェクトストレージとの通信にProxyを使うかを選択できるように,https://github.com/misskey-dev/misskey/pull/6245,2020-04-11T17:10:41Z,2020-04-12T11:34:19Z,5,2,CLOSED
+misskey,APIリファレンスのカテゴリ処理の修正,https://github.com/misskey-dev/misskey/pull/6218,2020-04-02T23:17:55Z,2020-04-03T13:42:30Z,1,2,MERGED
+misskey,APIリファレンスでレスポンスのスキーマを見るのにいちいち2回クリックさせられるのを修正,https://github.com/misskey-dev/misskey/pull/6217,2020-04-02T21:54:21Z,2020-04-03T14:36:14Z,2,1,MERGED
+misskey,ローカルのみボタンを公開範囲ピッカーに統合,https://github.com/misskey-dev/misskey/pull/6428,2020-05-31T13:14:52Z,2020-06-04T13:06:39Z,15,4,MERGED
+misskey,chore(client):🎨 Make font-size of note-preview em,https://github.com/misskey-dev/misskey/pull/6414,2020-05-27T14:22:52Z,2020-05-31T05:46:51Z,2,1,MERGED
+misskey,Add an indicator to make the undo renote button look more interactable,https://github.com/misskey-dev/misskey/pull/6366,2020-05-14T23:33:40Z,2020-05-15T11:39:12Z,1,2,MERGED
+misskey,テーマエディターの実装,https://github.com/misskey-dev/misskey/pull/6482,2020-06-29T12:13:09Z,2020-07-11T03:12:36Z,5,14,MERGED
+misskey,ダークテーマを利用中だとウィジェット編集画面が見づらい問題を修正,https://github.com/misskey-dev/misskey/pull/6497,2020-07-05T06:56:15Z,2020-07-05T14:36:42Z,1,1,MERGED
+misskey,scrollbar-widthを設定するように,https://github.com/misskey-dev/misskey/pull/6495,2020-07-05T02:16:54Z,2020-07-05T02:37:46Z,2,2,MERGED
+misskey,"fix(client): Fix style of input(type=""search"") on macOS Safari",https://github.com/misskey-dev/misskey/pull/6484,2020-07-02T09:22:17Z,2020-07-11T15:43:18Z,3,1,MERGED
+misskey,emoji skin tone,https://github.com/misskey-dev/misskey/pull/6675,2020-08-27T22:33:30Z,2020-10-27T07:54:04Z,0,5,CLOSED
+misskey,Safari で mk-select に光沢がかかるのを修正,https://github.com/misskey-dev/misskey/pull/6668,2020-08-22T01:32:11Z,2020-08-23T02:05:05Z,1,1,MERGED
+misskey,Fix an error on /api-doc,https://github.com/misskey-dev/misskey/pull/6665,2020-08-21T03:07:19Z,2020-08-21T19:25:47Z,1,1,MERGED
+misskey,Option to set public-read ACL when uploading Object Storage,https://github.com/misskey-dev/misskey/pull/6645,2020-08-12T11:14:50Z,2020-08-13T11:05:03Z,2,1,MERGED
+misskey,Channel,https://github.com/misskey-dev/misskey/pull/6621,2020-08-04T14:10:07Z,2020-08-18T13:44:22Z,20,40,MERGED
+misskey,Update modal-window.vue,https://github.com/misskey-dev/misskey/pull/6782,2020-10-29T23:34:00Z,2020-10-31T00:40:38Z,2,1,CLOSED
+misskey,チャンネル一覧でバナーが無いとチャンネル名が出ないのを修正,https://github.com/misskey-dev/misskey/pull/6778,2020-10-28T21:32:36Z,2020-10-30T20:53:03Z,1,1,MERGED
+misskey,Update style.scss,https://github.com/misskey-dev/misskey/pull/6745,2020-10-18T23:54:42Z,2020-11-18T03:40:26Z,1,1,CLOSED
+misskey,Update input.vue,https://github.com/misskey-dev/misskey/pull/6744,2020-10-18T23:24:03Z,2020-11-18T03:36:29Z,1,1,CLOSED
+misskey,Update switch.vue,https://github.com/misskey-dev/misskey/pull/6743,2020-10-18T23:23:40Z,2020-11-18T03:39:20Z,1,1,CLOSED
+misskey,Update settings.vue,https://github.com/misskey-dev/misskey/pull/6742,2020-10-18T23:22:22Z,2020-10-18T23:23:50Z,2,1,MERGED
+misskey,Add line height setting,https://github.com/misskey-dev/misskey/pull/6721,2020-10-01T13:20:06Z,2020-10-08T12:08:32Z,1,1,CLOSED
+misskey,Fix toHtml,https://github.com/misskey-dev/misskey/pull/6824,2020-11-10T03:03:40Z,2020-11-10T12:00:15Z,1,1,MERGED
+misskey,Improve image view by using viewerjs(Need Help About iOS ),https://github.com/misskey-dev/misskey/pull/7221,2021-02-17T12:35:16Z,2021-11-14T06:40:30Z,8,7,CLOSED
+misskey,Use asset/resource and remove url loader; Resolve #7395,https://github.com/misskey-dev/misskey/pull/7396,2021-03-23T18:23:40Z,2021-03-24T02:32:23Z,1,1,MERGED
+misskey,ページエディタの表示を修正,https://github.com/misskey-dev/misskey/pull/7317,2021-03-07T09:55:51Z,2021-03-13T01:56:27Z,1,1,MERGED
+misskey,Fix punycode deprecation warning,https://github.com/misskey-dev/misskey/pull/7426,2021-04-03T08:11:56Z,2021-04-04T04:00:40Z,1,1,MERGED
+misskey,ActivityPub JSON-LD @context をちゃんと付けるように,https://github.com/misskey-dev/misskey/pull/7522,2021-05-17T19:30:14Z,2021-05-19T07:00:09Z,1,1,MERGED
+misskey,Rich welcome content,https://github.com/misskey-dev/misskey/pull/7588,2021-06-27T05:50:30Z,2021-07-09T17:55:12Z,1,2,MERGED
+misskey,enhance: ノートヘッダーにflex-shrinkを設定し、Acctを優先的に縮小して見栄えをよくするように,https://github.com/misskey-dev/misskey/pull/7752,2021-08-31T15:03:30Z,2021-09-20T13:14:50Z,1,3,MERGED
+misskey,refactor: decode punycode domains for the UI,https://github.com/misskey-dev/misskey/pull/7748,2021-08-31T07:38:28Z,2022-05-15T15:31:50Z,5,2,CLOSED
+misskey,feat: user-level instance mute,https://github.com/misskey-dev/misskey/pull/7712,2021-08-26T21:09:55Z,2021-12-09T12:38:57Z,34,82,MERGED
+misskey,fix: truncate image descriptions,https://github.com/misskey-dev/misskey/pull/7699,2021-08-24T19:56:04Z,2021-09-29T16:44:22Z,9,7,MERGED
+misskey,fix missing strings,https://github.com/misskey-dev/misskey/pull/7674,2021-08-20T15:36:03Z,2021-09-04T09:21:45Z,4,3,MERGED
+misskey,perf: Tune AP job queue timings,https://github.com/misskey-dev/misskey/pull/7635,2021-08-15T09:59:35Z,2021-08-20T12:59:03Z,1,4,MERGED
+misskey,Tune mfmToHtml,https://github.com/misskey-dev/misskey/pull/7841,2021-09-25T09:23:45Z,2021-09-25T16:57:38Z,5,3,MERGED
+misskey,enhance: ページロードエラーページにリロードボタンを追加,https://github.com/misskey-dev/misskey/pull/7835,2021-09-24T07:07:18Z,2021-10-02T07:36:25Z,5,6,MERGED
+misskey,feat: 凍結された場合のダイアログを実装,https://github.com/misskey-dev/misskey/pull/7811,2021-09-18T09:48:39Z,2021-09-18T17:23:12Z,3,6,MERGED
+misskey,fix(client): fix #6811 - Fix image height when uses CW to hide it,https://github.com/misskey-dev/misskey/pull/7808,2021-09-18T04:48:05Z,2021-10-24T17:28:20Z,17,4,CLOSED
+misskey,fix(client): reaction viewer layout,https://github.com/misskey-dev/misskey/pull/7942,2021-10-31T18:51:35Z,2021-11-13T02:38:27Z,1,1,MERGED
+misskey,feat: Add Badge Image to Push Notification,https://github.com/misskey-dev/misskey/pull/7925,2021-10-28T11:49:07Z,2021-11-22T11:18:19Z,2,1001,CLOSED
+misskey,Fix #7914,https://github.com/misskey-dev/misskey/pull/7915,2021-10-25T01:11:43Z,2021-10-31T10:22:20Z,1,1,MERGED
+misskey,Update reactions-viewer.reaction.vue,https://github.com/misskey-dev/misskey/pull/7909,2021-10-24T04:25:18Z,2021-10-24T04:28:23Z,1,1,MERGED
+misskey,Fix logs page formatting,https://github.com/misskey-dev/misskey/pull/7879,2021-10-17T04:54:16Z,2021-10-22T11:42:12Z,1,1,CLOSED
+misskey,fix: mentions to remote local user,https://github.com/misskey-dev/misskey/pull/8030,2021-11-30T17:35:39Z,2021-12-02T11:27:42Z,1,1,MERGED
+misskey,feat: Add Badge Image to Push Notification,https://github.com/misskey-dev/misskey/pull/8012,2021-11-22T11:18:10Z,2022-06-19T15:33:47Z,7,578,MERGED
+misskey,Fix Docker build,https://github.com/misskey-dev/misskey/pull/7982,2021-11-13T17:27:43Z,2021-11-14T01:43:19Z,3,1,MERGED
+misskey,feat: Undo Accept,https://github.com/misskey-dev/misskey/pull/7980,2021-11-13T03:58:04Z,2021-12-03T02:14:44Z,4,3,MERGED
+misskey,limit depth of reply posts,https://github.com/misskey-dev/misskey/pull/7979,2021-11-13T00:11:08Z,2021-11-18T13:11:44Z,1,3,MERGED
+misskey,enhance: show renoters,https://github.com/misskey-dev/misskey/pull/7954,2021-11-04T23:12:10Z,2021-11-12T14:15:14Z,8,7,MERGED
+misskey,Fix #8019,https://github.com/misskey-dev/misskey/pull/8040,2021-12-05T02:13:44Z,2021-12-05T03:47:58Z,1,1,MERGED
+misskey,fix: integration links,https://github.com/misskey-dev/misskey/pull/8036,2021-12-04T17:09:53Z,2021-12-10T04:32:55Z,1,1,MERGED
+misskey,enhance: ドライブに画像ファイルをアップロードするときオリジナル画像を破棄してwebpublicのみ保持するオプション,https://github.com/misskey-dev/misskey/pull/8216,2022-01-29T13:15:21Z,2022-04-28T02:14:05Z,28,49,MERGED
+misskey,enhance: Improve poll-editor UI + composition port,https://github.com/misskey-dev/misskey/pull/8186,2022-01-25T03:21:19Z,2022-01-25T18:26:13Z,3,5,MERGED
+misskey,APで添付ファイルの追加メタデータを公開するように,https://github.com/misskey-dev/misskey/pull/8179,2022-01-22T16:52:45Z,2022-02-01T03:13:37Z,3,2,CLOSED
+misskey,Unifying Misskey-specific IRIs in JSON-LD `@context` Resolve #8116 ,https://github.com/misskey-dev/misskey/pull/8178,2022-01-22T16:26:49Z,2022-01-22T16:52:36Z,1,2,MERGED
+misskey,ブルスク風にしてみた,https://github.com/misskey-dev/misskey/pull/8273,2022-02-08T13:51:25Z,2022-02-08T13:53:40Z,3,1,CLOSED
+misskey,fix: v-sizeディレクティブの動作を修正,https://github.com/misskey-dev/misskey/pull/8249,2022-02-03T17:59:42Z,2022-02-06T01:59:36Z,3,8,MERGED
+misskey,Add me (ThatOneCalculator) as patron,https://github.com/misskey-dev/misskey/pull/8369,2022-03-01T19:23:43Z,2022-03-02T16:19:17Z,9,1,MERGED
+misskey,make emoji stand out more on reaction button,https://github.com/misskey-dev/misskey/pull/8521,2022-04-20T05:35:00Z,2022-05-19T14:23:14Z,6,1,CLOSED
+misskey,Add `.yarn` to `.gitignore`,https://github.com/misskey-dev/misskey/pull/8472,2022-04-05T18:27:22Z,2022-05-29T19:43:46Z,4,1,CLOSED
+misskey,fix(doc): correct information for drive upload,https://github.com/misskey-dev/misskey/pull/8736,2022-05-26T11:10:52Z,2022-05-27T13:03:25Z,1,1,MERGED
+misskey,Supports Unicode Emoji 14.0,https://github.com/misskey-dev/misskey/pull/8699,2022-05-17T22:39:58Z,2022-05-25T07:35:30Z,5,4,MERGED
+misskey,enhance: Perform port diagnosis at startup only when Listen fails,https://github.com/misskey-dev/misskey/pull/8698,2022-05-17T20:35:38Z,2022-05-19T02:49:07Z,2,4,MERGED
+misskey,fix: ノートのインスタンス情報の文字に縁を付けて見やすくする,https://github.com/misskey-dev/misskey/pull/8697,2022-05-17T19:31:37Z,2022-05-19T07:17:00Z,7,4,MERGED
+misskey,Add additional background for acrylic popups if backdrop-filter is unsupported,https://github.com/misskey-dev/misskey/pull/8671,2022-05-14T13:08:40Z,2023-01-16T18:03:35Z,1,1,CLOSED
+misskey,Refactor pleaseLogin to show a sign-in dialog,https://github.com/misskey-dev/misskey/pull/8630,2022-05-08T21:02:10Z,2022-05-19T11:28:08Z,10,3,MERGED
+misskey,fix(client): Fix mention avatar (icon) height,https://github.com/misskey-dev/misskey/pull/8615,2022-05-05T11:02:25Z,2022-05-05T11:46:46Z,1,1,MERGED
+misskey,enhance: Redisをioredisに統一してIPv6サポート,https://github.com/misskey-dev/misskey/pull/8869,2022-06-22T20:13:22Z,2022-06-24T10:22:20Z,13,13,MERGED
+misskey,enhance: Improve player detection in URL preview,https://github.com/misskey-dev/misskey/pull/8849,2022-06-18T06:51:55Z,2022-06-18T07:02:31Z,1,2,MERGED
+misskey,feat: auto nsfw detection,https://github.com/misskey-dev/misskey/pull/8840,2022-06-16T09:42:58Z,2022-07-07T12:06:38Z,39,56,MERGED
+misskey,chore: improve ad style,https://github.com/misskey-dev/misskey/pull/8995,2022-07-13T23:41:24Z,2022-07-16T08:50:13Z,2,4,MERGED
+misskey,chore(dev): fix lint errors,https://github.com/misskey-dev/misskey/pull/8981,2022-07-10T09:57:50Z,2022-07-10T10:47:29Z,1,1,MERGED
+misskey,"enhance: Styled Repair Tools (BIOS, CLI, Flush)",https://github.com/misskey-dev/misskey/pull/8956,2022-07-07T04:28:07Z,2023-03-09T14:18:48Z,5,18,CLOSED
+misskey,fix:typo 「有効する必要…」→「有効にする必要…」,https://github.com/misskey-dev/misskey/pull/8936,2022-07-05T02:12:25Z,2022-07-05T02:17:42Z,3,1,MERGED
+misskey,feat: styled error screen,https://github.com/misskey-dev/misskey/pull/8930,2022-07-03T21:27:47Z,2022-07-05T08:44:05Z,7,10,MERGED
+misskey,Add guest button,https://github.com/misskey-dev/misskey/pull/8918,2022-07-01T06:38:36Z,2023-04-14T06:02:18Z,16,9,CLOSED
+misskey,enhance(client): mobile twitter url can be used as widget,https://github.com/misskey-dev/misskey/pull/9057,2022-08-16T10:50:01Z,2022-08-24T12:02:06Z,1,1,MERGED
+misskey,fix padding with `safe-area-inset-bottom`,https://github.com/misskey-dev/misskey/pull/9053,2022-08-14T09:51:22Z,2023-01-09T09:24:44Z,2,3,CLOSED
+misskey,feat: show header with current user avatar on TL,https://github.com/misskey-dev/misskey/pull/9051,2022-08-10T11:23:48Z,2022-08-13T08:41:17Z,4,3,MERGED
+misskey,enhance: Add following badge to user preview popup,https://github.com/misskey-dev/misskey/pull/9048,2022-08-09T17:24:07Z,2022-08-13T05:26:51Z,1,1,MERGED
+misskey,enhance: Alt text in image viewer,https://github.com/misskey-dev/misskey/pull/9109,2022-09-29T18:55:57Z,2023-01-19T00:16:52Z,3,3,MERGED
+misskey,feat: Add groups back,https://github.com/misskey-dev/misskey/pull/9089,2022-09-14T04:12:00Z,2023-03-09T14:09:07Z,2,2,CLOSED
+misskey,Dependency Injection,https://github.com/misskey-dev/misskey/pull/9085,2022-09-06T14:43:30Z,2022-09-16T20:25:21Z,38,185,MERGED
+misskey,enhance: Implement the  toggle to (or not to) close push notifications when notifications or messages are read,https://github.com/misskey-dev/misskey/pull/9219,2022-11-22T19:41:03Z,2022-12-17T16:59:59Z,1,16,MERGED
+misskey,enhance: Implement the button to subscribe push notification,https://github.com/misskey-dev/misskey/pull/9218,2022-11-22T07:57:54Z,2022-12-25T06:08:20Z,4,9,CLOSED
+misskey,Person: support movedTo,https://github.com/misskey-dev/misskey/pull/9192,2022-11-17T16:57:40Z,2023-04-08T13:07:15Z,6,4,CLOSED
+misskey,fix(client): userpage ui,https://github.com/misskey-dev/misskey/pull/9179,2022-11-15T13:18:43Z,2022-12-27T05:19:44Z,1,16,MERGED
+misskey,feat: Add detail link to note menu and note element,https://github.com/misskey-dev/misskey/pull/9165,2022-11-11T16:38:54Z,2022-11-12T22:55:50Z,2,5,CLOSED
+misskey,enhance(client): Add link to copy RSS feed in user profile menu,https://github.com/misskey-dev/misskey/pull/9419,2022-12-27T03:09:41Z,2022-12-27T03:14:42Z,1,3,MERGED
+misskey,enhance(client): Page embed html block,https://github.com/misskey-dev/misskey/pull/9350,2022-12-19T00:37:56Z,2023-02-21T02:48:40Z,6,4,CLOSED
+misskey,enhance: Push notification of Antenna note,https://github.com/misskey-dev/misskey/pull/9338,2022-12-17T18:14:46Z,2022-12-18T10:50:03Z,6,7,MERGED
+misskey,enhance: add tooltips to visibility icons,https://github.com/misskey-dev/misskey/pull/9287,2022-12-05T23:08:14Z,2022-12-08T05:57:23Z,3,1,MERGED
+misskey,fix(client): messaging-room周り,https://github.com/misskey-dev/misskey/pull/9643,2023-01-17T14:14:01Z,2023-01-18T11:26:39Z,3,4,MERGED
+misskey,enhahce(client): :art: 通知のノートサマリーを1行にする,https://github.com/misskey-dev/misskey/pull/9625,2023-01-16T11:40:38Z,2023-01-16T21:22:57Z,2,2,MERGED
+misskey,dbヘルスチェックでFATALの表示が出ないように,https://github.com/misskey-dev/misskey/pull/9593,2023-01-15T09:40:53Z,2023-01-15T11:54:20Z,1,1,MERGED
+misskey,fix `navButtonIcon` not being aligned to center,https://github.com/misskey-dev/misskey/pull/9543,2023-01-13T04:20:21Z,2023-01-13T04:24:39Z,3,2,MERGED
+misskey,画面下部に必要なスペース関連の改善,https://github.com/misskey-dev/misskey/pull/9509,2023-01-09T15:30:38Z,2023-01-10T04:50:35Z,2,4,MERGED
+misskey,enhance(client): Renote した時の表示をリップルエフェクトと toast に,https://github.com/misskey-dev/misskey/pull/10116,2023-02-26T12:45:10Z,2023-03-01T05:55:57Z,25,6,MERGED
+misskey,enhance: Play の「ソースを表示」にシンタックスハイライトを当てる,https://github.com/misskey-dev/misskey/pull/10107,2023-02-26T09:15:13Z,2023-02-28T08:38:44Z,3,2,MERGED
+misskey,feat(frontend): スマホ・タブレットの場合、チャンネルの投稿フォームに自動でフォーカスしないように,https://github.com/misskey-dev/misskey/pull/10051,2023-02-23T15:49:56Z,2023-02-24T01:31:21Z,1,2,MERGED
+misskey,fix: redesign cat ears,https://github.com/misskey-dev/misskey/pull/10039,2023-02-23T08:49:29Z,2023-03-23T09:06:27Z,11,20,MERGED
+misskey,feat: 2つの検索画面の統合 (#9949),https://github.com/misskey-dev/misskey/pull/10038,2023-02-23T08:43:29Z,2023-02-25T00:01:21Z,2,8,MERGED
+misskey,enhance: make pwa icon maskable,https://github.com/misskey-dev/misskey/pull/10033,2023-02-23T06:58:42Z,2023-02-23T06:59:21Z,1,1,MERGED
+misskey,Use turborepo,https://github.com/misskey-dev/misskey/pull/9991,2023-02-19T04:27:42Z,2023-09-07T07:56:57Z,30,74,CLOSED
+misskey,fix : メールのやつが崩れてたのを直した,https://github.com/misskey-dev/misskey/pull/9979,2023-02-18T08:55:49Z,2023-02-23T14:39:43Z,2,1,CLOSED
+misskey,fix: 広告のexpiresAtをLocalTZ分ずらして初期化,https://github.com/misskey-dev/misskey/pull/9876,2023-02-11T04:51:26Z,2023-02-11T23:23:15Z,2,2,MERGED
+misskey,enhance(client): ヘッダー（MkPageHeader）関連,https://github.com/misskey-dev/misskey/pull/9869,2023-02-10T19:24:29Z,2023-02-11T04:08:18Z,13,20,MERGED
+misskey,fix: prevent clipping audio plyr's tooltip,https://github.com/misskey-dev/misskey/pull/9850,2023-02-09T15:54:16Z,2023-02-10T09:29:54Z,1,1,MERGED
+misskey,fix: newNoteReceived indicator causes Layout Shift,https://github.com/misskey-dev/misskey/pull/9843,2023-02-09T09:56:17Z,2023-02-11T01:36:15Z,1,6,MERGED
+misskey,fix: dateの初期値が正常に入らない時がある,https://github.com/misskey-dev/misskey/pull/9827,2023-02-07T11:44:07Z,2023-02-09T08:54:30Z,6,3,MERGED
+misskey,enhance(client): add webhook delete button,https://github.com/misskey-dev/misskey/pull/9806,2023-02-05T07:58:16Z,2023-02-05T11:31:38Z,1,1,MERGED
+misskey,Enhance | Added Vue-plyr to audio tags,https://github.com/misskey-dev/misskey/pull/9797,2023-02-04T20:04:42Z,2023-02-08T08:07:02Z,0,52,CLOSED
+misskey,enhance - Added vue-plyr as the standard video player,https://github.com/misskey-dev/misskey/pull/9766,2023-02-01T20:57:44Z,2023-02-03T08:15:25Z,2,9,MERGED
+misskey,fix(client): cat ears are clipped in MkReactionsViewer,https://github.com/misskey-dev/misskey/pull/10445,2023-03-31T08:23:56Z,2023-04-14T07:00:41Z,4,4,MERGED
+misskey,enhance(client): 投稿フォームをちょっといい感じに,https://github.com/misskey-dev/misskey/pull/10442,2023-03-30T19:30:18Z,2023-04-05T05:30:03Z,32,35,MERGED
+misskey,fix: lookup icon on navbar,https://github.com/misskey-dev/misskey/pull/10434,2023-03-28T22:09:16Z,2023-03-29T01:46:03Z,20,1,CLOSED
+misskey,i18n: Webhook 設定画面に翻訳を追加,https://github.com/misskey-dev/misskey/pull/10379,2023-03-21T11:17:41Z,2023-03-24T06:44:27Z,2,7,MERGED
+misskey,feat(frontend): ナビゲーションバーのカスタマイズをドラッグ&ドロップで行えるようにする,https://github.com/misskey-dev/misskey/pull/10356,2023-03-18T12:53:01Z,2023-03-20T11:21:54Z,15,10,MERGED
+misskey,fix: 非ログイン時に「Misskeyについて」ページから投稿フォームが出ないようにする,https://github.com/misskey-dev/misskey/pull/10345,2023-03-17T15:04:36Z,2023-03-19T08:05:31Z,4,16,MERGED
+misskey,Fix #10261 ページのUIを差し替えるプラグインAPIを追加,https://github.com/misskey-dev/misskey/pull/10323,2023-03-13T18:43:23Z,2023-03-15T01:44:24Z,3,2,MERGED
+misskey,feat(frontend/MkUrlPreview): oEmbedのサポート,https://github.com/misskey-dev/misskey/pull/10306,2023-03-11T17:00:09Z,2023-03-19T07:59:32Z,23,21,MERGED
+misskey,enhance(client): @や#、httpsで始まる検索ワードでもすぐには飛ばないように,https://github.com/misskey-dev/misskey/pull/10232,2023-03-06T07:21:10Z,2023-03-16T02:58:27Z,5,2,CLOSED
+misskey,fix(frontend): ユーザーページのバッジ表示を適切に折り返すように,https://github.com/misskey-dev/misskey/pull/10222,2023-03-05T12:45:53Z,2023-03-05T12:59:42Z,2,2,MERGED
+misskey,fix: #10192 フォント設定をGoogle Fonts中心に切り替え,https://github.com/misskey-dev/misskey/pull/10193,2023-03-04T03:08:26Z,2024-03-03T04:09:42Z,4,1,CLOSED
+misskey,Fix: サーバーでメール配信が無効になっている場合は設定ページにその旨を表示する,https://github.com/misskey-dev/misskey/pull/10191,2023-03-03T22:47:50Z,2023-03-04T10:19:56Z,5,2,MERGED
+misskey,fix(frontend): ロールのタイトルのバグを解決、Reactivity Transformで型エラーを出さないように,https://github.com/misskey-dev/misskey/pull/10729,2023-04-28T04:39:22Z,2023-04-29T14:36:29Z,11,8,MERGED
+misskey,fix(backend): サーバーメトリクスのメモリ使用率が不正確になることがある不具合の修正,https://github.com/misskey-dev/misskey/pull/10728,2023-04-28T01:06:04Z,2023-04-29T21:47:00Z,5,2,MERGED
+misskey,fix #10706 メール送信テスト時に宛先が空のときは送れないようにする,https://github.com/misskey-dev/misskey/pull/10719,2023-04-26T02:16:54Z,2023-04-27T10:43:00Z,2,1,MERGED
+misskey,fix(client): 「新しいノートがあります」背後のリンク・ボタンが押せない問題を修正,https://github.com/misskey-dev/misskey/pull/10697,2023-04-23T06:29:09Z,2024-07-20T10:15:07Z,9,2,CLOSED
+misskey,fix: ドライブのファイルアップロードでサーバーが413を返した場合にエラーメッセージを表示,https://github.com/misskey-dev/misskey/pull/10680,2023-04-21T04:44:33Z,2023-04-22T08:18:58Z,2,2,MERGED
+misskey,fix: Return null from Mk:dialog,https://github.com/misskey-dev/misskey/pull/10676,2023-04-19T15:11:08Z,2023-05-02T00:56:20Z,3,1,MERGED
+misskey,feat(client): Renoteした人の一覧を表示するダイアログを追加,https://github.com/misskey-dev/misskey/pull/10647,2023-04-16T05:13:20Z,2023-04-29T06:48:07Z,8,22,MERGED
+misskey,feat: サーバールール,https://github.com/misskey-dev/misskey/pull/10633,2023-04-14T06:30:52Z,2023-04-17T07:19:39Z,13,8,CLOSED
+misskey,feat(server): Misskey Webでユーザーフレンドリーなエラーページを出す,https://github.com/misskey-dev/misskey/pull/10590,2023-04-11T15:40:47Z,2023-04-12T03:52:15Z,17,13,MERGED
+misskey,fix issue #10195 設定のバックアップ の「削除」の文字がない,https://github.com/misskey-dev/misskey/pull/10559,2023-04-09T12:44:37Z,2023-04-10T01:23:56Z,2,1,MERGED
+misskey,fix #10554 チャンネルの検索用ページとAPIの追加,https://github.com/misskey-dev/misskey/pull/10555,2023-04-09T11:04:04Z,2023-04-10T22:42:28Z,6,17,MERGED
+misskey,fix(client): リスト、クリップが無限ロードされる現象の解決,https://github.com/misskey-dev/misskey/pull/10538,2023-04-08T21:08:36Z,2023-04-08T23:03:30Z,2,3,MERGED
+misskey,fix(client): PWA時の絵文字ピッカーの位置をホームバーに重ならないように調整,https://github.com/misskey-dev/misskey/pull/10534,2023-04-08T16:25:17Z,2023-04-08T16:37:45Z,9,2,MERGED
+misskey,feat: 自分用メモ機能,https://github.com/misskey-dev/misskey/pull/10516,2023-04-08T06:35:50Z,2023-04-13T04:17:32Z,31,8,MERGED
+misskey,feat: add minimize/Fold button for windows,https://github.com/misskey-dev/misskey/pull/10508,2023-04-07T12:35:55Z,2023-04-08T03:55:05Z,5,3,MERGED
+misskey,feat: account migration,https://github.com/misskey-dev/misskey/pull/10507,2023-04-07T11:58:52Z,2023-04-08T05:16:27Z,46,28,MERGED
+misskey,[WIP] ノート埋め込み機能,https://github.com/misskey-dev/misskey/pull/10491,2023-04-06T01:49:39Z,2024-09-09T11:57:37Z,11,43,CLOSED
+misskey,feat(client): データセーバーモードの追加,https://github.com/misskey-dev/misskey/pull/10478,2023-04-04T15:07:52Z,2023-04-15T06:29:57Z,20,30,MERGED
+misskey,迷惑になる可能性のある投稿について、設定中の公開範囲を考慮するように,https://github.com/misskey-dev/misskey/pull/10457,2023-04-03T01:47:34Z,2023-04-04T17:15:10Z,4,4,MERGED
+misskey,feat: NSFWコンテンツをタイムラインに表示しない機能の追加、ユーザーページからPlay一覧を見れるように,https://github.com/misskey-dev/misskey/pull/10915,2023-05-29T05:38:10Z,2023-06-01T11:33:19Z,2,13,CLOSED
+misskey,fix(frontend): Zen UIで、デッキ設定で直接/以外を表示したときデッキに戻るボタンを表示,https://github.com/misskey-dev/misskey/pull/10909,2023-05-28T08:35:13Z,2023-05-28T11:58:39Z,6,3,MERGED
+misskey,feat: アカウント初期設定ウィザードにぼかし効果設定とMFMとアニメーション画像設定を追加,https://github.com/misskey-dev/misskey/pull/10900,2023-05-26T07:09:44Z,2023-05-29T04:57:34Z,6,6,CLOSED
+misskey,feat: アカウント初期設定ウィザードに戻るボタンと、後で進むボタンを追加,https://github.com/misskey-dev/misskey/pull/10893,2023-05-25T05:47:55Z,2023-05-26T05:40:44Z,5,5,MERGED
+misskey,enhance(frontend): improve signup complete ui,https://github.com/misskey-dev/misskey/pull/10876,2023-05-20T14:51:23Z,2023-05-24T00:43:38Z,2,5,MERGED
+misskey,chore: use `color-mix()` on widgets/server-metric/cpu-mem,https://github.com/misskey-dev/misskey/pull/10875,2023-05-20T13:33:10Z,2023-05-29T08:02:34Z,2,4,CLOSED
+misskey,fix:Firefoxでサインアップする時、メールアドレスがユーザー名として認識される#10523,https://github.com/misskey-dev/misskey/pull/10869,2023-05-19T02:32:49Z,2023-05-19T02:35:46Z,1,3,MERGED
+misskey,[WIP] client(a11y): フロントエンドのアクセシビリティ改善,https://github.com/misskey-dev/misskey/pull/10851,2023-05-14T15:00:44Z,2024-07-12T07:25:46Z,3,9,CLOSED
+misskey,feat: 開発者モードを追加,https://github.com/misskey-dev/misskey/pull/10847,2023-05-14T01:40:12Z,2023-05-14T04:02:49Z,2,3,MERGED
+misskey,fix:ロールタイムライン無効に関する修正,https://github.com/misskey-dev/misskey/pull/10843,2023-05-13T02:25:35Z,2023-05-19T08:12:23Z,8,9,MERGED
+misskey,feat: 公開リスト,https://github.com/misskey-dev/misskey/pull/10842,2023-05-13T00:55:12Z,2023-05-19T01:06:13Z,7,11,MERGED
+misskey,chore: 猫耳の先端って本来少し丸まっているものなのではないだろうか,https://github.com/misskey-dev/misskey/pull/10800,2023-05-08T08:45:12Z,2023-05-08T08:51:53Z,2,2,MERGED
+misskey,enhance: プロフィール設定「追加情報」の並び替え・削除に対応,https://github.com/misskey-dev/misskey/pull/10766,2023-05-05T04:57:24Z,2023-05-05T22:06:12Z,23,22,MERGED
+misskey,「このファイルからノートを作成」ボタンを追加,https://github.com/misskey-dev/misskey/pull/10758,2023-05-04T10:57:22Z,2023-05-04T10:58:17Z,1,5,MERGED
+misskey,feat: アンテナのエクスポート・インポート,https://github.com/misskey-dev/misskey/pull/10754,2023-05-02T22:59:26Z,2023-05-05T23:17:55Z,11,9,MERGED
+misskey,feat: 検索でMeiliSearchを使えるようにする,https://github.com/misskey-dev/misskey/pull/10750,2023-05-02T11:26:15Z,2023-05-02T11:33:32Z,2,22,CLOSED
+misskey,fix: 非ログイン時にクレデンシャルが必要なページに行くとエラーが出る問題を修正,https://github.com/misskey-dev/misskey/pull/10973,2023-06-08T08:54:41Z,2023-07-07T23:58:35Z,5,10,MERGED
+misskey,エラー画像URLを設定可能に,https://github.com/misskey-dev/misskey/pull/10959,2023-06-05T15:35:11Z,2023-06-09T05:00:53Z,10,5,MERGED
+misskey,fix:vue-plyr廃止追加対応（Audio要素のコンテキストメニューをブラウザデフォルトに）,https://github.com/misskey-dev/misskey/pull/10940,2023-06-02T07:07:57Z,2023-06-02T07:31:26Z,5,4,MERGED
+misskey,feat:フォロー/フォロワーを非公開としている場合、表示は「0」ではなく鍵アイコンを表示するように,https://github.com/misskey-dev/misskey/pull/10934,2023-06-01T03:25:23Z,2023-07-18T10:50:29Z,15,28,CLOSED
+misskey,enhance(frontend): Twitterアイコンを𝕏に変更,https://github.com/misskey-dev/misskey/pull/11436,2023-07-31T07:33:47Z,2023-07-31T08:05:40Z,2,1,MERGED
+misskey,chore: cacheRemoteFilesのデフォルト値をfalseに,https://github.com/misskey-dev/misskey/pull/11398,2023-07-27T01:08:23Z,2023-08-05T05:03:02Z,7,8,MERGED
+misskey,chore: update vscode environment recommendations,https://github.com/misskey-dev/misskey/pull/11365,2023-07-23T17:57:37Z,2024-02-13T09:51:46Z,9,2,CLOSED
+misskey,fix(frontend): 動きのあるMFM無効時にレインボー文字が出ない問題を修正,https://github.com/misskey-dev/misskey/pull/11361,2023-07-23T07:01:43Z,2023-08-21T11:24:19Z,6,18,MERGED
+misskey,fix(frontend): Hide action buttons on `MkUrlPreviewPopup`,https://github.com/misskey-dev/misskey/pull/11332,2023-07-20T15:56:28Z,2023-07-21T00:57:21Z,2,1,MERGED
+misskey,fix(frontend): ユーザー名が長い場合に、フォローボタンを折り返して表示させる,https://github.com/misskey-dev/misskey/pull/11326,2023-07-19T15:10:30Z,2023-07-19T23:11:16Z,2,1,MERGED
+misskey,fix(frontend): Improve number formatting on `MkUserInfo`,https://github.com/misskey-dev/misskey/pull/11315,2023-07-18T17:41:27Z,2023-07-18T22:10:12Z,2,1,MERGED
+misskey,fix(frontend): Fix cat ears are awkward on reply modal,https://github.com/misskey-dev/misskey/pull/11309,2023-07-18T06:08:24Z,2023-07-19T03:31:38Z,4,3,MERGED
+misskey,fix(sw): アンケート終了時のプッシュ通知が正しく表示されない問題を修正,https://github.com/misskey-dev/misskey/pull/11278,2023-07-14T10:31:04Z,2023-07-15T01:00:38Z,2,2,MERGED
+misskey,fix(frontend): typo in custom emojis manager,https://github.com/misskey-dev/misskey/pull/11250,2023-07-12T06:26:19Z,2023-07-12T07:31:48Z,2,1,MERGED
+misskey,fix(backend): fix fetchInstanceMetadata error,https://github.com/misskey-dev/misskey/pull/11236,2023-07-10T16:17:21Z,2023-07-11T05:40:56Z,2,1,MERGED
+misskey,feat(frontend): ユーザーリスト管理でユーザー数とロールポリシーの登録可能ユーザー数を表示するなど,https://github.com/misskey-dev/misskey/pull/11231,2023-07-10T07:03:19Z,2023-07-15T04:53:10Z,2,8,MERGED
+misskey,fix(frontend): fix notifications are not formatted,https://github.com/misskey-dev/misskey/pull/11215,2023-07-09T12:53:12Z,2023-07-10T05:48:29Z,5,3,CLOSED
+misskey,feat: ユーザーをcontextmenuからアンテナに追加できるようになど,https://github.com/misskey-dev/misskey/pull/11206,2023-07-09T04:18:58Z,2023-07-10T06:55:10Z,4,9,MERGED
+misskey,feat: プロフィールURLをコピー ボタンを追加,https://github.com/misskey-dev/misskey/pull/11205,2023-07-09T03:31:32Z,2023-07-09T08:20:50Z,2,1,MERGED
+misskey,enhance: 招待機能の改善,https://github.com/misskey-dev/misskey/pull/11195,2023-07-08T13:08:41Z,2023-07-15T00:57:58Z,20,52,MERGED
+misskey,feat: フォルダーやファイルでもIDをコピーできるように,https://github.com/misskey-dev/misskey/pull/11189,2023-07-08T09:14:15Z,2023-07-08T09:45:41Z,2,3,MERGED
+misskey,feat(frontend): 「照会」ダイアログに説明文を追加,https://github.com/misskey-dev/misskey/pull/11137,2023-07-06T11:18:27Z,2023-07-06T11:24:49Z,10,2,CLOSED
+misskey,feat(frontend): 画像を動画と同様に簡単に隠せるように,https://github.com/misskey-dev/misskey/pull/11127,2023-07-05T16:39:59Z,2023-07-05T23:49:07Z,3,2,MERGED
+misskey,fix(frontend): sparkle内にリンクを入れるとクリック不能になる問題の修正,https://github.com/misskey-dev/misskey/pull/11075,2023-07-03T02:27:02Z,2023-07-03T02:27:56Z,1,2,MERGED
+misskey,feat: Refine 2fa,https://github.com/misskey-dev/misskey/pull/11766,2023-08-27T09:54:54Z,2023-08-28T09:25:32Z,6,6,MERGED
+misskey,Fix: DB CONSTRAINT of RenoteMuting,https://github.com/misskey-dev/misskey/pull/11724,2023-08-15T01:45:11Z,2023-08-20T04:22:37Z,7,2,MERGED
+misskey,fix(frontend/MkUrlPreview): allow fullscreen from tweets,https://github.com/misskey-dev/misskey/pull/11712,2023-08-12T20:06:55Z,2023-08-13T03:29:13Z,2,2,MERGED
+misskey,fix: word mute is not applied to sub note,https://github.com/misskey-dev/misskey/pull/11711,2023-08-12T15:16:50Z,2023-08-14T04:03:00Z,2,4,MERGED
+misskey,feat: Removing stack trace info in production env,https://github.com/misskey-dev/misskey/pull/11657,2023-08-10T16:33:35Z,2023-08-21T08:21:58Z,35,22,MERGED
+misskey,feat: Add option to expand wide emojis,https://github.com/misskey-dev/misskey/pull/11483,2023-08-07T13:35:17Z,2025-06-18T05:54:38Z,4,2,CLOSED
+misskey,feat: ローカルのみノート検索,https://github.com/misskey-dev/misskey/pull/11451,2023-08-03T02:23:30Z,2023-08-20T04:39:37Z,3,7,MERGED
+misskey,プロフィールにその人が作ったPlayの一覧出せるように,https://github.com/misskey-dev/misskey/pull/11445,2023-08-01T13:19:21Z,2023-08-21T11:23:09Z,10,13,MERGED
+misskey,enhance: 編集したノートの履歴を確認できるように,https://github.com/misskey-dev/misskey/pull/11938,2023-09-30T10:02:59Z,2023-10-04T03:06:03Z,5,13,CLOSED
+misskey,プライバシーポリシー・運営者情報のリンクを追加,https://github.com/misskey-dev/misskey/pull/11925,2023-09-29T17:17:28Z,2023-10-07T04:13:13Z,10,15,MERGED
+misskey,fix(frontend): クライアント設定から13.7.0で削除されたチャット機能に関するサウンド設定を削除,https://github.com/misskey-dev/misskey/pull/11912,2023-09-28T08:11:10Z,2023-10-04T11:17:05Z,8,2,MERGED
+misskey,fix: ノート通知で絵文字が使われている名前が絵文字で表示されない ,https://github.com/misskey-dev/misskey/pull/11878,2023-09-23T18:22:16Z,2023-09-23T22:54:59Z,2,1,MERGED
+misskey,enhance(frontend): プラグインのソースコードを確認・コピーできるように,https://github.com/misskey-dev/misskey/pull/11873,2023-09-22T17:15:15Z,2023-09-23T00:08:14Z,2,3,MERGED
+misskey,feat(frontend): センシティブなメディアを目立たせる設定を追加,https://github.com/misskey-dev/misskey/pull/11851,2023-09-19T12:08:46Z,2023-09-22T07:03:10Z,10,17,MERGED
+misskey,新しい実績を追加,https://github.com/misskey-dev/misskey/pull/11817,2023-09-11T11:18:27Z,2023-09-12T06:48:19Z,3,6,MERGED
+misskey,feat: テスト通知を送信できるようにする,https://github.com/misskey-dev/misskey/pull/11810,2023-09-10T08:43:21Z,2023-09-11T05:31:50Z,4,10,MERGED
+misskey,enhance(frontend): データセーバーモードで隠れる画像を増やす等,https://github.com/misskey-dev/misskey/pull/11806,2023-09-09T10:48:51Z,2023-09-10T09:40:21Z,3,13,MERGED
+misskey,fix(backend): timeout when querying mentions,https://github.com/misskey-dev/misskey/pull/11799,2023-09-07T12:16:14Z,2023-09-07T23:44:47Z,3,1,MERGED
+misskey,enhance(frontend): データセーバーモードで隠れる画像を増やす等,https://github.com/misskey-dev/misskey/pull/11779,2023-09-03T10:07:03Z,2023-09-06T08:36:15Z,8,8,MERGED
+misskey,i18n(frontend): デッキの「カラムの設定」に翻訳を追加,https://github.com/misskey-dev/misskey/pull/11778,2023-09-03T08:32:32Z,2023-09-04T04:59:21Z,2,2,MERGED
+misskey,fix: headerActionにPC以外で空のボタンが出てしまうバグの修正,https://github.com/misskey-dev/misskey/pull/12202,2023-10-31T04:22:02Z,2023-10-31T08:27:00Z,5,3,MERGED
+misskey,Feat: リモートユーザーの更新をできるように,https://github.com/misskey-dev/misskey/pull/12172,2023-10-28T16:06:10Z,2023-10-29T07:14:48Z,6,3,MERGED
+misskey,feat: チャンネルの作成・更新時にapiWithDialogを使うように,https://github.com/misskey-dev/misskey/pull/12142,2023-10-25T04:00:29Z,2023-10-29T02:10:02Z,6,7,MERGED
+misskey,feat(AiScript): Mk:nyaize() を追加,https://github.com/misskey-dev/misskey/pull/12136,2023-10-24T14:44:29Z,2023-10-25T08:46:04Z,3,3,MERGED
+misskey,feat(frontend): 絵文字ピッカーのカテゴリを多階層フォルダで分類できるように,https://github.com/misskey-dev/misskey/pull/12132,2023-10-24T10:40:13Z,2023-12-02T06:26:46Z,30,57,MERGED
+misskey,feat: ノート詳細画面で引用一覧をリプライタブではなく引用タブで表示されるように,https://github.com/misskey-dev/misskey/pull/12125,2023-10-23T07:56:02Z,2023-12-24T07:19:30Z,9,21,CLOSED
+misskey,feat(frontend): スワイプやボタンでタイムラインを再読込する機能,https://github.com/misskey-dev/misskey/pull/12113,2023-10-22T10:52:08Z,2023-10-30T00:12:20Z,37,29,MERGED
+misskey,MkCodeのパースエンジンをShikiに変更,https://github.com/misskey-dev/misskey/pull/12102,2023-10-21T09:27:26Z,2023-10-29T05:12:41Z,10,21,MERGED
+misskey,feat: Avatar decoration,https://github.com/misskey-dev/misskey/pull/12096,2023-10-21T04:18:27Z,2023-10-21T09:38:07Z,2,6,MERGED
+misskey,feat: 絵文字の申請機能の追加,https://github.com/misskey-dev/misskey/pull/12085,2023-10-20T07:13:53Z,2024-06-21T15:12:25Z,32,45,CLOSED
+misskey,fix(frontend): Use opening quote in notifications,https://github.com/misskey-dev/misskey/pull/12082,2023-10-19T15:20:01Z,2023-10-20T22:54:28Z,2,1,MERGED
+misskey,UserLite.nameにnullが入りうるのを型で明示,https://github.com/misskey-dev/misskey/pull/12073,2023-10-19T01:57:28Z,2023-10-19T10:33:45Z,2,2,MERGED
+misskey,Feat: 外部サイトからテーマ・プラグインのインストールができるように,https://github.com/misskey-dev/misskey/pull/12034,2023-10-14T07:00:40Z,2023-10-21T09:41:12Z,6,30,MERGED
+misskey,feat: 絵文字の申請機能の追加,https://github.com/misskey-dev/misskey/pull/12032,2023-10-14T05:10:30Z,2023-10-16T13:02:18Z,1,22,CLOSED
+misskey,feat: サーバーサイレンス機能を追加,https://github.com/misskey-dev/misskey/pull/12031,2023-10-14T02:58:24Z,2023-10-16T11:11:27Z,25,23,MERGED
+misskey,Feat:「ファイルの詳細」ページを追加,https://github.com/misskey-dev/misskey/pull/11995,2023-10-09T10:10:09Z,2023-10-10T01:43:43Z,8,12,MERGED
+misskey,Feat: タイムライン更新中に広告を挿入,https://github.com/misskey-dev/misskey/pull/11989,2023-10-08T06:09:16Z,2023-10-08T08:56:44Z,6,10,MERGED
+misskey,Feat: 未読通知数を表示できるように,https://github.com/misskey-dev/misskey/pull/11982,2023-10-07T09:53:58Z,2023-11-01T04:34:05Z,10,31,MERGED
+misskey,2段階認証のバックアップコード一覧をテキストファイルでダウンロード可能に,https://github.com/misskey-dev/misskey/pull/11957,2023-10-03T11:17:12Z,2023-10-03T11:27:37Z,2,1,MERGED
+misskey,enhance/feat(frontend): データセーバーの改良・強化,https://github.com/misskey-dev/misskey/pull/12526,2023-11-30T11:32:31Z,2023-12-03T01:58:43Z,6,13,MERGED
+misskey,fix(frontend): 長い名前のチャンネルにおける投稿フォームの表示が崩れる問題を修正,https://github.com/misskey-dev/misskey/pull/12524,2023-11-30T09:46:00Z,2023-12-02T03:04:11Z,2,2,MERGED
+misskey,enhance(dev): 開発モード時にlocaleと型定義が自動的に再生成されるように,https://github.com/misskey-dev/misskey/pull/12481,2023-11-27T11:53:15Z,2023-11-30T05:48:02Z,6,11,MERGED
+misskey,Fix: word mute did not apply to quote notes,https://github.com/misskey-dev/misskey/pull/12465,2023-11-26T12:58:45Z,2023-11-26T14:07:35Z,1,1,CLOSED
+misskey,enhance(frontend): ウィジェットを非表示にできるPageMetaを追加,https://github.com/misskey-dev/misskey/pull/12456,2023-11-25T15:13:25Z,2023-12-08T04:06:43Z,3,5,MERGED
+misskey,feat(frontend): 今日誕生日のフォロー中のユーザーを一覧表示できるウィジェットを追加,https://github.com/misskey-dev/misskey/pull/12450,2023-11-25T09:40:40Z,2023-11-30T05:49:27Z,11,10,MERGED
+misskey,enhance(frontend): 通知音にドライブのファイルを使用できるように,https://github.com/misskey-dev/misskey/pull/12447,2023-11-25T05:47:19Z,2023-11-27T08:33:42Z,8,23,MERGED
+misskey,enhance(frontend): ユーザーのRawデータを読めるページを復活させる,https://github.com/misskey-dev/misskey/pull/12436,2023-11-24T11:33:53Z,2023-11-24T12:11:18Z,2,5,MERGED
+misskey,Feat(frontend): コントロールパネル「通報」において、通報者にもリンクで飛べるように修正,https://github.com/misskey-dev/misskey/pull/12427,2023-11-24T02:15:30Z,2023-11-24T07:19:37Z,2,1,MERGED
+misskey,fix(frontend): プロフィールの「ファイル」にセンシティブな画像がある際のデザインを修正,https://github.com/misskey-dev/misskey/pull/12424,2023-11-23T12:10:46Z,2023-11-23T12:18:25Z,2,6,MERGED
+misskey,enhance/fix(AP/frontend): 最近追加されたMFMのもろもろを修正,https://github.com/misskey-dev/misskey/pull/12420,2023-11-23T09:42:13Z,2023-11-23T10:49:45Z,4,9,MERGED
+misskey,絵文字詳細ページに記載する情報を追加,https://github.com/misskey-dev/misskey/pull/12417,2023-11-23T07:31:11Z,2023-11-30T05:59:42Z,5,3,MERGED
+misskey,swagger-cli validateがvalidとなるapi.jsonを作れるようにする,https://github.com/misskey-dev/misskey/pull/12403,2023-11-21T23:18:27Z,2023-11-22T08:08:56Z,6,11,MERGED
+misskey,広告掲載ページにてfilterをわかりやすく,https://github.com/misskey-dev/misskey/pull/12385,2023-11-20T08:44:39Z,2023-11-21T10:50:06Z,4,1,MERGED
+misskey,Hard mute,https://github.com/misskey-dev/misskey/pull/12376,2023-11-19T09:55:47Z,2023-11-23T09:56:20Z,7,12,MERGED
+misskey,DeepL TranslationのPro accountトグルスイッチが表示されていなかったのを修正,https://github.com/misskey-dev/misskey/pull/12355,2023-11-17T13:26:09Z,2023-11-17T13:26:54Z,2,1,MERGED
+misskey,ページ一覧ページの表示がモバイル環境において崩れているのを修正,https://github.com/misskey-dev/misskey/pull/12354,2023-11-17T13:00:18Z,2023-11-19T02:43:04Z,4,2,MERGED
+misskey,fix: aiscript-vscodeのバージョンを更新,https://github.com/misskey-dev/misskey/pull/12299,2023-11-10T08:18:00Z,2023-11-10T08:18:24Z,2,1,MERGED
+misskey,Fix: latestRequestReceivedAt,https://github.com/misskey-dev/misskey/pull/12270,2023-11-06T11:39:04Z,2023-11-11T05:51:29Z,3,1,MERGED
+misskey,fix: 投稿通知がオンでもダイレクト投稿はユーザーに通知されないように,https://github.com/misskey-dev/misskey/pull/12263,2023-11-06T06:42:16Z,2023-11-09T12:35:08Z,3,3,MERGED
+misskey,fix(backend): isBot not being set on `Application` type,https://github.com/misskey-dev/misskey/pull/12248,2023-11-05T00:00:53Z,2023-11-05T01:22:10Z,3,3,MERGED
+misskey,fix(frontend): アイコンデコレーションが見切れる問題を修正,https://github.com/misskey-dev/misskey/pull/12239,2023-11-04T09:34:22Z,2023-11-11T07:07:07Z,11,8,MERGED
+misskey,feat: チャンネル内→チャンネル外へのリノート制限機能追加,https://github.com/misskey-dev/misskey/pull/12230,2023-11-03T02:16:39Z,2023-11-03T08:34:23Z,6,10,MERGED
+misskey, fix(frontend): サイレンス状態で公開範囲のパブリックを選択できてしまう問題を修正 (#12224),https://github.com/misskey-dev/misskey/pull/12225,2023-11-02T15:36:35Z,2023-11-03T08:52:31Z,3,3,MERGED
+misskey,fix(frontend): /about#federation のレイアウトが一部崩れているのを修正,https://github.com/misskey-dev/misskey/pull/12215,2023-11-01T23:15:39Z,2023-11-02T00:12:09Z,3,1,MERGED
+misskey,enhance(frontend): federated instance icon with proxy (welcome entrance),https://github.com/misskey-dev/misskey/pull/12213,2023-11-01T18:27:16Z,2023-11-03T08:38:33Z,3,2,MERGED
+misskey,enhance(frontend): ノート作成画面の添付メニューから直接ファイルを消せるように,https://github.com/misskey-dev/misskey/pull/12858,2023-12-30T13:51:31Z,2024-01-20T20:26:13Z,2,5,MERGED
+misskey,enhance(frontend) 日本語の拡張絵文字辞書を追加,https://github.com/misskey-dev/misskey/pull/12855,2023-12-30T10:26:37Z,2024-01-14T07:04:48Z,18,15,MERGED
+misskey,enhance(frontend): ハッシュタグ入力時に、本文の末尾の行に何も書かれていない場合は新たにスペースを追加しないように,https://github.com/misskey-dev/misskey/pull/12851,2023-12-29T06:45:15Z,2023-12-29T09:22:40Z,2,2,MERGED
+misskey,fix(frontend): MkButtonがリンクのときホバー時にunderlineが出る問題を修正,https://github.com/misskey-dev/misskey/pull/12849,2023-12-29T05:13:55Z,2024-01-02T08:48:12Z,3,2,MERGED
+misskey,enhance(frontend): タイムラインフィルターの設定を保持＋センシティブなノートを隠せるように,https://github.com/misskey-dev/misskey/pull/12848,2023-12-29T04:20:16Z,2024-01-21T09:29:18Z,13,17,MERGED
+misskey,enhance(frontend): 季節に応じた画面の演出を南半球に対応させる,https://github.com/misskey-dev/misskey/pull/12838,2023-12-28T09:48:48Z,2024-01-21T10:08:07Z,8,8,MERGED
+misskey,fix(frontend): 「今日誕生日のフォロー中ユーザー」ウィジェットが正しく動作しない問題を修正,https://github.com/misskey-dev/misskey/pull/12835,2023-12-28T08:08:26Z,2024-03-25T09:31:30Z,17,21,MERGED
+misskey,refactor: misskey-assetsサブモジュールを削除,https://github.com/misskey-dev/misskey/pull/12818,2023-12-27T09:03:23Z,2024-07-17T16:47:13Z,7,4,MERGED
+misskey,feat(frontend): 投稿ウインドウにMFM要素を追加するボタンの追加,https://github.com/misskey-dev/misskey/pull/12788,2023-12-24T15:47:35Z,2023-12-27T11:57:43Z,11,12,MERGED
+misskey,enhance: “つながりの公開範囲”がフォロー・フォロワー個別設定できるように,https://github.com/misskey-dev/misskey/pull/12702,2023-12-17T18:49:29Z,2023-12-18T11:59:21Z,8,5,MERGED
+misskey,リアクションの絵文字詳細ビューアでよみがなとかライセンスとか確認したい,https://github.com/misskey-dev/misskey/pull/12695,2023-12-17T02:27:56Z,2024-01-12T02:02:59Z,6,4,CLOSED
+misskey,enhance: チャンネルに新規の投稿がある場合にバッジを表示させる,https://github.com/misskey-dev/misskey/pull/12690,2023-12-16T09:42:35Z,2023-12-22T11:41:43Z,27,28,MERGED
+misskey,enhance(frontend): コードブロックのハイライト機能を利用するには言語を明示的に指定させるように,https://github.com/misskey-dev/misskey/pull/12681,2023-12-16T01:27:34Z,2023-12-16T03:34:36Z,2,4,MERGED
+misskey,Fix(frontend): ほとんどのMkTextareaでMFMプレビューが表示されてしまっている問題を修正,https://github.com/misskey-dev/misskey/pull/12672,2023-12-15T08:55:56Z,2023-12-15T08:57:31Z,1,3,MERGED
+misskey,feat(frontend): MFM のアニメーション要素に delay オプションを追加,https://github.com/misskey-dev/misskey/pull/12659,2023-12-14T07:30:56Z,2023-12-14T08:57:58Z,2,2,MERGED
+misskey,fix: devモードの特定条件下でページが表示されなくなる問題を修正,https://github.com/misskey-dev/misskey/pull/12653,2023-12-14T06:54:21Z,2023-12-14T11:21:57Z,2,2,MERGED
+misskey,Enhance(frontend): リスト/アンテナ/チャンネルをタイムラインから新規作成できるように,https://github.com/misskey-dev/misskey/pull/12629,2023-12-11T13:27:00Z,2023-12-12T03:19:49Z,6,9,MERGED
+misskey,Update style.scss,https://github.com/misskey-dev/misskey/pull/12619,2023-12-10T09:46:42Z,2023-12-24T04:10:13Z,3,1,CLOSED
+misskey,Feat: 複数ノートの通報機能,https://github.com/misskey-dev/misskey/pull/12616,2023-12-10T00:25:34Z,2024-06-21T15:12:59Z,10,45,CLOSED
+misskey,Fix/vue import error on intellij,https://github.com/misskey-dev/misskey/pull/12612,2023-12-09T02:25:17Z,2023-12-09T04:13:32Z,3,4,MERGED
+misskey,[fix](frontend)Safariでもルビを均等割付にする,https://github.com/misskey-dev/misskey/pull/12551,2023-12-03T02:21:14Z,2023-12-03T03:08:40Z,2,1,MERGED
+misskey,enhance: 非ログイン時には別サーバーに遷移できるように,https://github.com/misskey-dev/misskey/pull/13089,2024-01-26T16:28:08Z,2024-07-14T06:27:52Z,81,21,MERGED
+misskey,enhance(frontend): リモートのユーザーはメニューから直接リモートで表示できるように,https://github.com/misskey-dev/misskey/pull/13087,2024-01-26T12:49:15Z,2024-01-27T09:25:15Z,5,4,MERGED
+misskey,enhance(sw): オフライン表示のデザインを改善,https://github.com/misskey-dev/misskey/pull/13052,2024-01-20T14:44:06Z,2024-01-21T02:50:05Z,20,9,MERGED
+misskey,enhance(frontend): チャンネルノートの場合はその前後を見れるように,https://github.com/misskey-dev/misskey/pull/13019,2024-01-17T06:13:02Z,2024-01-17T06:22:08Z,3,2,MERGED
+misskey,enhance(frontend): ページ遷移時にPlayerを閉じるように,https://github.com/misskey-dev/misskey/pull/13013,2024-01-16T12:49:42Z,2024-01-17T04:26:36Z,4,3,MERGED
+misskey,enhance(drop-and-fusion): ランキングに載せるかを自分で選べるように,https://github.com/misskey-dev/misskey/pull/12989,2024-01-14T07:51:10Z,2024-01-18T05:53:05Z,14,3,CLOSED
+misskey,Feat(frontend): リアクション・ノート内絵文字・/about#emojisで絵文字詳細が見られるように,https://github.com/misskey-dev/misskey/pull/12984,2024-01-13T06:05:32Z,2024-01-13T06:25:11Z,2,8,MERGED
+misskey,feat(CI): misskey-jsの自動生成コード更新要否を検知するCI,https://github.com/misskey-dev/misskey/pull/12980,2024-01-12T14:30:12Z,2024-01-14T06:30:21Z,1,1,MERGED
+misskey,enhance(drop-and-fusion): プレイ時間を表示・制限できるように,https://github.com/misskey-dev/misskey/pull/12976,2024-01-12T09:31:49Z,2024-01-21T09:24:20Z,6,6,CLOSED
+misskey,feat(ci): api.jsonのバリデーションチェックCIを追加,https://github.com/misskey-dev/misskey/pull/12950,2024-01-08T23:24:31Z,2024-01-08T23:34:24Z,1,2,MERGED
+misskey,Enhance(frontend): もっと！ボタンでリアクション一覧が開けるように,https://github.com/misskey-dev/misskey/pull/12935,2024-01-07T04:34:53Z,2024-03-30T11:30:22Z,9,20,MERGED
+misskey,enhance: 動画・音声周りのUIと動作改良,https://github.com/misskey-dev/misskey/pull/12925,2024-01-06T09:43:36Z,2024-01-15T09:17:01Z,17,37,MERGED
+misskey,feat: Add support for mCaptcha,https://github.com/misskey-dev/misskey/pull/12905,2024-01-05T02:08:04Z,2024-01-06T11:14:33Z,4,11,MERGED
+misskey,enhance(frontend): Playの説明欄にMFMを使えるように,https://github.com/misskey-dev/misskey/pull/12899,2024-01-04T09:31:50Z,2024-01-14T06:31:12Z,6,8,MERGED
+misskey,"enhance: Use SI prefixes for job queue widget, extends bytes",https://github.com/misskey-dev/misskey/pull/12896,2024-01-03T17:13:38Z,2024-01-04T04:04:01Z,4,4,MERGED
+misskey,fix(frontend): モデレーターがユーザーのアバターバナーを未設定状態に出来る機能が表示されていなかった問題を修正,https://github.com/misskey-dev/misskey/pull/12889,2024-01-02T15:23:40Z,2024-01-03T07:41:38Z,2,2,MERGED
+misskey,enhance(frontend): カスタム絵文字追加画面の「タグ」の説明を追加,https://github.com/misskey-dev/misskey/pull/12888,2024-01-02T14:27:47Z,2024-01-02T23:07:05Z,2,1,MERGED
+misskey,feat: 緊急事態お知らせ機能・外部情報との連動機能,https://github.com/misskey-dev/misskey/pull/12880,2024-01-01T18:02:41Z,2024-01-02T03:53:56Z,3,1,CLOSED
+misskey,Enhance: コンディショナルロールの条件に「マニュアルロールへのアサイン」を追加,https://github.com/misskey-dev/misskey/pull/13463,2024-02-26T17:49:52Z,2024-02-27T09:45:46Z,3,2,MERGED
+misskey,enhance(games): 抜けている翻訳を追加・スタイル共通化,https://github.com/misskey-dev/misskey/pull/13434,2024-02-22T09:22:29Z,2024-02-23T09:07:41Z,9,13,MERGED
+misskey,Fix(frontend): 絵文字オートコンプリートの優先順位がおかしいのを修正,https://github.com/misskey-dev/misskey/pull/13423,2024-02-21T07:34:52Z,2024-02-23T08:01:42Z,4,4,MERGED
+misskey,"enhance(frontend): ノート作成画面の添付メニューのdividerの位置を""添付取り消し""の上にする",https://github.com/misskey-dev/misskey/pull/13409,2024-02-19T14:48:48Z,2024-02-20T02:59:50Z,2,2,MERGED
+misskey,fix: syuilo/misskey時代から使用してるサーバーが改変したバージョンだと誤判定される問題,https://github.com/misskey-dev/misskey/pull/13386,2024-02-18T14:11:07Z,2024-02-19T02:08:35Z,3,1,CLOSED
+misskey,Complete unicode emoji after last colon,https://github.com/misskey-dev/misskey/pull/13384,2024-02-18T13:46:05Z,2025-04-16T02:25:21Z,19,22,MERGED
+misskey,feat: 同じインスタンスのユーザーまたはフォローしているユーザーからのみ通知を受け取る設定,https://github.com/misskey-dev/misskey/pull/13366,2024-02-17T11:56:52Z,2024-04-09T02:26:44Z,5,3,CLOSED
+misskey,Enhance(frontend): リアクションピッカーを調整,https://github.com/misskey-dev/misskey/pull/13354,2024-02-16T23:41:30Z,2024-02-24T01:22:23Z,5,7,MERGED
+misskey,fix: 照会まわりの修正,https://github.com/misskey-dev/misskey/pull/13342,2024-02-16T12:55:44Z,2024-07-31T10:48:40Z,24,15,CLOSED
+misskey,fix(frontend): aiscriptのコードブロックでのハイライト指定を修正,https://github.com/misskey-dev/misskey/pull/13208,2024-02-08T09:43:13Z,2024-02-08T15:08:34Z,2,1,MERGED
+misskey,fix/enhance(frontend): 映像・音声周りの改修,https://github.com/misskey-dev/misskey/pull/13206,2024-02-08T08:54:28Z,2024-03-30T07:02:03Z,8,23,MERGED
+misskey,fix(bubble-game): 共有用画像のコメントにnullが入る問題を修正,https://github.com/misskey-dev/misskey/pull/13183,2024-02-06T10:24:34Z,2024-02-06T10:24:52Z,1,1,MERGED
+misskey,enhance(frontend): shiki v1に移行,https://github.com/misskey-dev/misskey/pull/13138,2024-02-02T03:32:19Z,2024-02-02T06:05:18Z,16,8,MERGED
+misskey,Enhance(frontend): フロント側でもリアクション権限のチェックをするように,https://github.com/misskey-dev/misskey/pull/13134,2024-02-01T17:51:52Z,2024-02-06T07:45:21Z,9,14,MERGED
+misskey,fix(frontend): ページデザインの修正,https://github.com/misskey-dev/misskey/pull/13642,2024-03-31T05:06:45Z,2024-03-31T05:16:42Z,2,2,MERGED
+misskey,enhance(frontend): 2要素認証セットアップウィザードにアプリを起動するボタンを新設,https://github.com/misskey-dev/misskey/pull/13636,2024-03-30T06:21:39Z,2024-03-30T06:34:06Z,6,3,MERGED
+misskey,fix: report progress out of 100% in CleanRemoteFilesProcessorService,https://github.com/misskey-dev/misskey/pull/13633,2024-03-29T15:26:24Z,2024-03-30T01:28:47Z,3,2,MERGED
+misskey,enhance(frontend): リアクション受け入れがいいねのみの場合はボタンホバーでツールチップが出るように,https://github.com/misskey-dev/misskey/pull/13613,2024-03-22T06:43:17Z,2024-03-22T09:21:14Z,2,1,MERGED
+misskey,enhance(frontend): TOTPの入力ダイアログを改良,https://github.com/misskey-dev/misskey/pull/13607,2024-03-21T03:29:16Z,2024-03-22T06:03:21Z,5,3,MERGED
+misskey,fix(frontend): shikiの言語・テーマの定義ファイルをCDN(esm.sh)から取るようにする,https://github.com/misskey-dev/misskey/pull/13598,2024-03-19T23:16:17Z,2024-03-20T01:30:45Z,5,3,MERGED
+misskey,fix(frontend): woodenPanelの配色を修正,https://github.com/misskey-dev/misskey/pull/13561,2024-03-12T08:04:15Z,2024-03-20T04:10:09Z,2,3,MERGED
+misskey,enhance(frontend): 各サーバーはMisskeyを利用したサービスであることを強調,https://github.com/misskey-dev/misskey/pull/13559,2024-03-12T02:36:38Z,2024-03-12T04:48:15Z,2,3,MERGED
+misskey,fix: URL preview popup for local URL appears in the upper left corner,https://github.com/misskey-dev/misskey/pull/13555,2024-03-10T16:11:32Z,2024-03-12T04:50:25Z,2,1,MERGED
+misskey,enhance(frontend): リプライ・リノート・リアクションの総数を表示するか設定で選べるようにするなど,https://github.com/misskey-dev/misskey/pull/13538,2024-03-07T02:02:08Z,2024-03-07T02:06:16Z,1,3,CLOSED
+misskey,enhance(frontend): リアクションの総数を表示するように,https://github.com/misskey-dev/misskey/pull/13532,2024-03-06T05:19:24Z,2024-03-06T12:08:42Z,7,3,MERGED
+misskey,fix: 設定とコンパネでPageMetadataが切り替わらない問題など (taiyme/misskey#186),https://github.com/misskey-dev/misskey/pull/13530,2024-03-05T17:12:16Z,2024-08-12T10:10:08Z,11,3,CLOSED
+misskey,enhance(backend): ログ最適化,https://github.com/misskey-dev/misskey/pull/13515,2024-03-04T11:35:35Z,2024-06-11T05:39:26Z,30,23,CLOSED
+misskey,fix(frontend): グループ通知の人数をちゃんと数えるように,https://github.com/misskey-dev/misskey/pull/13751,2024-04-27T10:15:17Z,2024-04-27T10:59:30Z,2,3,MERGED
+misskey,pureimageの代わりに@napi-rs/canvasを使う,https://github.com/misskey-dev/misskey/pull/13748,2024-04-27T08:05:43Z,2024-04-27T09:24:10Z,6,3,MERGED
+misskey,fix(frontend): PlayのAiScriptランタイムが停止したときに画面が初期化されていない問題を修正,https://github.com/misskey-dev/misskey/pull/13747,2024-04-27T07:44:33Z,2024-04-27T07:48:04Z,2,5,MERGED
+misskey,enhance(frontend): ページの表示部上部に編集リンクを追加,https://github.com/misskey-dev/misskey/pull/13724,2024-04-16T23:26:31Z,2024-04-17T01:48:42Z,3,1,MERGED
+misskey,enhance: クリップのノート数を表示するように,https://github.com/misskey-dev/misskey/pull/13686,2024-04-11T08:49:31Z,2024-04-14T12:30:24Z,8,4,MERGED
+misskey,enhance(frontend): 通報の管理UIを改善,https://github.com/misskey-dev/misskey/pull/13898,2024-05-28T06:28:26Z,2025-04-29T08:28:04Z,12,19,CLOSED
+misskey,enhance(frontend): 通常のノートでも、お気に入りに登録したチャンネルにリノートできるように,https://github.com/misskey-dev/misskey/pull/13855,2024-05-21T07:48:05Z,2024-05-21T08:23:20Z,2,3,MERGED
+misskey,enhance(frontend): 時刻のミリ秒表示ができるように,https://github.com/misskey-dev/misskey/pull/13853,2024-05-21T06:46:12Z,2024-05-21T08:30:53Z,6,8,CLOSED
+misskey,enhance(frontend): デッキのアンテナ・リスト選択画面からそれぞれを新規作成できるように,https://github.com/misskey-dev/misskey/pull/14104,2024-06-30T10:09:10Z,2024-07-30T04:11:06Z,9,14,MERGED
+misskey,fix(frontend): テーマプレビューが見れない問題を修正,https://github.com/misskey-dev/misskey/pull/14097,2024-06-26T20:14:31Z,2024-06-27T01:40:46Z,3,2,MERGED
+misskey,fix(frontend): アンテナの編集画面のボタンにgapを追加,https://github.com/misskey-dev/misskey/pull/14091,2024-06-26T01:23:23Z,2024-06-26T01:25:18Z,1,1,MERGED
+misskey,enhance(frontend): ブラウザのコンテキストメニューを使用できるように,https://github.com/misskey-dev/misskey/pull/14076,2024-06-23T09:58:47Z,2024-07-30T05:45:53Z,10,20,MERGED
+misskey,fix(frontend): ドライブの音声が再生できない場合の処理を追加,https://github.com/misskey-dev/misskey/pull/14073,2024-06-23T06:40:51Z,2024-07-30T11:30:41Z,9,17,MERGED
+misskey,fix(frontend): 子メニューの最大長調整が行われていない問題を修正,https://github.com/misskey-dev/misskey/pull/14003,2024-06-15T07:39:32Z,2024-07-18T06:44:18Z,18,18,MERGED
+misskey,Bump release actions to v2 (develop-stable(master) branches system),https://github.com/misskey-dev/misskey/pull/13941,2024-06-03T06:48:05Z,2024-07-09T07:08:49Z,21,1,MERGED
+misskey,fix(misskey-js): モデログのフィルタに追加漏れがあったのを修正,https://github.com/misskey-dev/misskey/pull/14328,2024-07-30T09:35:53Z,2024-07-30T09:37:07Z,1,1,MERGED
+misskey,fix(frontend): リアクションしたユーザー一覧のユーザー名がはみ出る問題を修正,https://github.com/misskey-dev/misskey/pull/14294,2024-07-23T06:34:20Z,2024-07-25T08:03:00Z,4,5,MERGED
+misskey,fix(backend): api.jsonに`i`を公開するように,https://github.com/misskey-dev/misskey/pull/14288,2024-07-21T08:46:08Z,2024-07-30T10:38:10Z,5,1,CLOSED
+misskey,enhance: 管理画面でアーカイブにしたお知らせを表示・編集できるように,https://github.com/misskey-dev/misskey/pull/14286,2024-07-21T06:51:27Z,2024-07-30T04:02:03Z,8,5,MERGED
+misskey,feat: add the option to override cat ear colors,https://github.com/misskey-dev/misskey/pull/14269,2024-07-19T15:01:18Z,2025-07-14T07:42:56Z,3,4,CLOSED
+misskey,fix(frontend): blurhashが無い場合に何も出力されないのを修正,https://github.com/misskey-dev/misskey/pull/14250,2024-07-18T08:54:18Z,2024-07-19T01:11:44Z,8,9,MERGED
+misskey,enhance(frontend): ウェルカムタイムラインのデザインを調整,https://github.com/misskey-dev/misskey/pull/14156,2024-07-09T07:52:16Z,2024-07-11T09:41:05Z,5,7,MERGED
+misskey,fix(backend): api-docをScalarに変更,https://github.com/misskey-dev/misskey/pull/14152,2024-07-08T10:49:45Z,2024-07-09T12:57:19Z,4,2,MERGED
+misskey,feat(frontend): GTL上でのサーバー表示をインスタンスのロゴのみに切り替えできるように,https://github.com/misskey-dev/misskey/pull/14141,2024-07-06T12:03:56Z,2024-07-06T16:33:52Z,1,3,CLOSED
+misskey,"feat: このユーザーのノートを検索, クエリに基づく検索の初期値 & ノート検索のUI改善",https://github.com/misskey-dev/misskey/pull/14128,2024-07-04T02:09:31Z,2024-07-30T06:51:09Z,31,28,MERGED
+misskey,fix(frontend): disposeされないmodalがあるのを修正,https://github.com/misskey-dev/misskey/pull/14122,2024-07-02T12:12:00Z,2024-07-04T04:14:52Z,4,1,CLOSED
+misskey,enhance(frontend): センシティブなメディアを開く際に確認ダイアログを出せるように,https://github.com/misskey-dev/misskey/pull/14115,2024-07-02T08:17:53Z,2024-07-19T00:57:01Z,7,6,MERGED
+misskey,enhance(frontend): フォロワーへのメッセージ欄を改良,https://github.com/misskey-dev/misskey/pull/14656,2024-09-30T09:37:29Z,2024-09-30T11:05:34Z,2,2,MERGED
+misskey,fix: EmailServiceでインラインスタイルを適用するように,https://github.com/misskey-dev/misskey/pull/14600,2024-09-21T07:43:15Z,2024-09-21T09:18:52Z,5,1,MERGED
+misskey,refactor(frontend): scss deprecated 警告に対応,https://github.com/misskey-dev/misskey/pull/14513,2024-09-06T07:09:13Z,2024-09-06T07:12:14Z,2,1,MERGED
+misskey,enhance(frontend): アイコンデコレーション管理画面にプレビューを追加,https://github.com/misskey-dev/misskey/pull/14511,2024-09-06T06:30:52Z,2024-09-06T06:37:03Z,4,3,MERGED
+misskey,enhance(frontend): adminのファイルリストでセンシティブファイルに枠線を追加,https://github.com/misskey-dev/misskey/pull/14510,2024-09-06T06:07:25Z,2024-09-15T08:50:25Z,3,3,MERGED
+misskey,feat: 送信したフォローリクエストを確認できるように,https://github.com/misskey-dev/misskey/pull/14856,2024-10-28T07:09:14Z,2024-11-15T08:30:54Z,7,17,MERGED
+misskey,enhance(frontend): Self-XSS防止用のメッセージを追加,https://github.com/misskey-dev/misskey/pull/14839,2024-10-26T07:23:03Z,2024-10-26T13:07:26Z,2,3,MERGED
+misskey,enhance(frontend): 外部アプリ認証画面の改良,https://github.com/misskey-dev/misskey/pull/14828,2024-10-24T10:42:29Z,2024-10-25T05:20:34Z,2,10,MERGED
+misskey,feat(frontend): サーバーの表示をアイコンのみに切り替えられるように,https://github.com/misskey-dev/misskey/pull/14822,2024-10-23T12:56:29Z,2025-03-19T01:24:25Z,11,18,CLOSED
+misskey,enhance(frontend): 投稿フォームの設定メニューを改良,https://github.com/misskey-dev/misskey/pull/14804,2024-10-20T07:33:21Z,2025-03-16T05:05:58Z,43,43,MERGED
+misskey,Enhance: ドライブでソートができるように ,https://github.com/misskey-dev/misskey/pull/14801,2024-10-20T05:54:06Z,2024-10-20T07:17:16Z,2,2,MERGED
+misskey,enhance(frontend): ノート検索ページのデザイン調整,https://github.com/misskey-dev/misskey/pull/14780,2024-10-19T08:28:20Z,2025-02-27T02:56:17Z,16,20,MERGED
+misskey,fix(frontend): タイムラインで、表示する広告がない際にも広告のwrapperが出てしまうのを修正,https://github.com/misskey-dev/misskey/pull/14763,2024-10-13T16:13:30Z,2024-10-13T18:06:10Z,2,1,MERGED
+misskey,enhance: introduce testCaptcha,https://github.com/misskey-dev/misskey/pull/14745,2024-10-10T09:42:59Z,2024-10-11T12:05:53Z,9,1,MERGED
+misskey,fix(frontend): サーバードキュメントとMisskey関連リソースとの間にdividerが入らないことがある問題を修正,https://github.com/misskey-dev/misskey/pull/15044,2024-11-23T06:23:41Z,2024-11-24T06:23:21Z,2,4,MERGED
+misskey,リノートメニューに「リノートの詳細」を追加,https://github.com/misskey-dev/misskey/pull/14985,2024-11-17T11:19:24Z,2024-11-19T01:34:33Z,6,5,MERGED
+misskey,enhance(frontend): デッキ表示時にサイドバーを展開・折りたたみできるように,https://github.com/misskey-dev/misskey/pull/14983,2024-11-17T09:00:36Z,2024-11-18T01:36:51Z,12,7,MERGED
+misskey,feat(backend): pgroongaに対応（configの構成変更あり）,https://github.com/misskey-dev/misskey/pull/14978,2024-11-17T01:27:39Z,2025-01-14T12:01:01Z,9,11,MERGED
+misskey,リノートの〇時間前を押した時にリノートの詳細に飛ぶようにする,https://github.com/misskey-dev/misskey/pull/14958,2024-11-14T13:23:44Z,2024-11-19T01:47:36Z,10,3,CLOSED
+misskey,Enhance(frontend): ノート詳細画面にロールのバッジを表示,https://github.com/misskey-dev/misskey/pull/14946,2024-11-12T14:50:52Z,2024-11-13T02:19:55Z,2,3,MERGED
+misskey,enhance(frontend): ワードミュートで引っかかったワードを表示可能にする,https://github.com/misskey-dev/misskey/pull/15195,2024-12-31T03:52:41Z,2025-01-14T13:49:59Z,19,11,MERGED
+misskey,fix(frontend): アカウント一覧画面で、ユーザー情報の取得に失敗したアカウントが表示されない問題を修正,https://github.com/misskey-dev/misskey/pull/15183,2024-12-28T04:49:26Z,2025-01-04T06:44:31Z,3,4,MERGED
+misskey,feat(frontend): ドライブアップロード時に画像にウォーターマークを適用する機能,https://github.com/misskey-dev/misskey/pull/15136,2024-12-16T01:17:53Z,2025-06-03T10:18:30Z,22,58,CLOSED
+misskey,enhance(frontend): ユーザーページに「ファイル」タブを新設,https://github.com/misskey-dev/misskey/pull/15130,2024-12-14T11:14:44Z,2025-01-14T12:05:35Z,6,27,MERGED
+misskey,enhance(frontend): PC画面でチャンネルが複数列で表示されるように,https://github.com/misskey-dev/misskey/pull/15129,2024-12-14T09:50:57Z,2024-12-15T23:57:38Z,3,10,MERGED
+misskey,fix(frontend): MiAuth認可画面のデザイン修正,https://github.com/misskey-dev/misskey/pull/15106,2024-12-09T08:52:42Z,2024-12-10T01:29:40Z,2,1,MERGED
+misskey,fix(backend): Fix an issue where notes are still visible over Feed even if the user required login | ノートの閲覧にログイン必須にしてもFeedでノートが表示されてしまう問題を修正,https://github.com/misskey-dev/misskey/pull/15083,2024-12-02T03:00:14Z,2025-01-26T06:03:43Z,3,2,MERGED
+misskey,enhance(frontend): 絵文字管理画面β（ローカル）のUI・UX改善,https://github.com/misskey-dev/misskey/pull/15349,2025-01-26T06:48:58Z,2025-01-26T11:10:23Z,5,8,MERGED
+misskey,feat(frontend): リモート絵文字のインポート時に詳細を確認できるように,https://github.com/misskey-dev/misskey/pull/15344,2025-01-25T12:15:36Z,2025-01-26T05:59:03Z,7,3,MERGED
+misskey,feat(frontend): 画像を投稿前にプレビュー可能に,https://github.com/misskey-dev/misskey/pull/15341,2025-01-25T07:39:32Z,2025-02-08T08:33:10Z,6,8,MERGED
+misskey,[BE]よくわからないリアクションに関するログが流れっぱなしなのを修正,https://github.com/misskey-dev/misskey/pull/15303,2025-01-17T10:20:07Z,2025-01-17T10:27:48Z,4,1,MERGED
+misskey,feat: ノートの下書き(draft of note),https://github.com/misskey-dev/misskey/pull/15298,2025-01-16T09:33:21Z,2025-06-25T08:09:24Z,52,77,MERGED
+misskey,fix(frontend-shared): nodemonをdevDependenciesに追加,https://github.com/misskey-dev/misskey/pull/15225,2025-01-07T06:04:30Z,2025-01-07T12:21:06Z,1,1,MERGED
+misskey,enhance(frontend): サーバーエラー画面の多言語対応,https://github.com/misskey-dev/misskey/pull/15549,2025-02-24T04:52:19Z,2025-02-24T05:23:20Z,3,2,MERGED
+misskey,enhance(frontend): 開発者モードでメニューからファイルIDをコピー出来るようにする,https://github.com/misskey-dev/misskey/pull/15444,2025-02-09T23:39:07Z,2025-02-10T08:20:38Z,2,1,MERGED
+misskey,feat: アクセストークン発行時に通知するように,https://github.com/misskey-dev/misskey/pull/15422,2025-02-07T23:24:09Z,2025-02-11T01:15:34Z,7,4,MERGED
+misskey,fix(frontend): リノート経由でノートの詳細情報を見るとき、クリップ一覧がappearNoteのものになるように,https://github.com/misskey-dev/misskey/pull/15417,2025-02-07T10:42:14Z,2025-02-26T06:51:28Z,2,4,MERGED
+misskey,enhance(frontend): クライアントエラー画面の多言語対応,https://github.com/misskey-dev/misskey/pull/15411,2025-02-07T04:58:09Z,2025-02-08T08:31:28Z,3,5,MERGED
+misskey,enhance(frontend): サーバーエラー画面の多言語対応,https://github.com/misskey-dev/misskey/pull/15549,2025-02-24T04:52:19Z,2025-02-24T05:23:20Z,3,2,MERGED
+misskey,enhance(frontend): 開発者モードでメニューからファイルIDをコピー出来るようにする,https://github.com/misskey-dev/misskey/pull/15444,2025-02-09T23:39:07Z,2025-02-10T08:20:38Z,2,1,MERGED
+misskey,feat: アクセストークン発行時に通知するように,https://github.com/misskey-dev/misskey/pull/15422,2025-02-07T23:24:09Z,2025-02-11T01:15:34Z,7,4,MERGED
+misskey,fix(frontend): リノート経由でノートの詳細情報を見るとき、クリップ一覧がappearNoteのものになるように,https://github.com/misskey-dev/misskey/pull/15417,2025-02-07T10:42:14Z,2025-02-26T06:51:28Z,2,4,MERGED
+misskey,enhance(frontend): クライアントエラー画面の多言語対応,https://github.com/misskey-dev/misskey/pull/15411,2025-02-07T04:58:09Z,2025-02-08T08:31:28Z,3,5,MERGED
+misskey,fix(frontend): チャットのデザイン調整,https://github.com/misskey-dev/misskey/pull/15708,2025-03-25T12:38:49Z,2025-03-31T08:33:00Z,7,8,MERGED
+misskey,fix(frontend): コントロールパネルのナビゲーションバーが画面に張り付かない問題を修正,https://github.com/misskey-dev/misskey/pull/15706,2025-03-25T10:22:03Z,2025-03-25T10:50:40Z,2,1,MERGED
+misskey,enhance(frontend): テーマ設定で簡易プレビューを表示するように,https://github.com/misskey-dev/misskey/pull/15643,2025-03-10T07:48:28Z,2025-03-10T09:35:52Z,2,5,MERGED
+misskey,enhance(frontend): CWの注釈テキストが入力されていない場合はPostボタンを非アクティブに,https://github.com/misskey-dev/misskey/pull/15639,2025-03-09T21:12:25Z,2025-03-10T10:35:37Z,4,9,MERGED
+misskey,Refine preferences,https://github.com/misskey-dev/misskey/pull/15597,2025-03-04T12:43:04Z,2025-03-09T03:34:08Z,6,215,MERGED
+misskey,MkTooltipが画面左端を突き抜けないようにする,https://github.com/misskey-dev/misskey/pull/15890,2025-04-25T15:39:58Z,2025-05-23T02:54:35Z,2,1,MERGED
+misskey,fix(frontend): ダイアログのお知らせが画面からはみ出ることがある問題を修正,https://github.com/misskey-dev/misskey/pull/15878,2025-04-23T00:48:44Z,2025-05-04T06:50:05Z,7,8,MERGED
+misskey,enhance(frontend): 通知設定ページにサウンド設定ページへのリンクを追加,https://github.com/misskey-dev/misskey/pull/16072,2025-05-21T04:19:53Z,2025-05-21T12:13:45Z,2,1,MERGED
+misskey,enhance(frontend/aiscript): AiScriptからtoastを発行できるように,https://github.com/misskey-dev/misskey/pull/16071,2025-05-21T01:22:17Z,2025-05-21T01:23:13Z,2,2,MERGED
+misskey,fix(frontend): ドライブファイルのデザイン調整,https://github.com/misskey-dev/misskey/pull/16070,2025-05-21T01:08:35Z,2025-05-21T01:16:30Z,2,1,MERGED
+misskey,enhance(frontend): ファイルのアップロードを中止できるように,https://github.com/misskey-dev/misskey/pull/16069,2025-05-21T00:44:30Z,2025-05-21T12:13:19Z,5,4,MERGED
+misskey,fix(frontend): ユーザー概要ページのファイルの項目のデザイン改良,https://github.com/misskey-dev/misskey/pull/16063,2025-05-19T05:20:14Z,2025-05-19T06:03:52Z,2,1,MERGED
+misskey,enhance: いくつかの設定ファイルの項目をコントロールパネルで設定するように,https://github.com/misskey-dev/misskey/pull/16026,2025-05-11T08:08:58Z,2025-05-12T07:55:01Z,10,6,MERGED
+misskey,enhance(frontend): Instance Tickerのデザイン改善,https://github.com/misskey-dev/misskey/pull/15946,2025-05-04T10:38:21Z,2025-05-09T12:16:21Z,11,17,MERGED
+misskey,fix(frontend): Instance Tickerの文字ストロークをSVG描画で復活させる,https://github.com/misskey-dev/misskey/pull/15939,2025-05-04T05:19:51Z,2025-05-09T12:16:22Z,7,3,CLOSED
+misskey,ノートのサーバー情報(InstanceTicker)のデザイン/パフォーマンス改善(-webkit-text-stroke ver),https://github.com/misskey-dev/misskey/pull/16225,2025-06-27T14:47:14Z,2025-07-05T00:59:49Z,3,5,MERGED
+misskey,chore(CI): cache ffmpeg ,https://github.com/misskey-dev/misskey/pull/16223,2025-06-26T09:25:28Z,2025-06-26T10:08:47Z,5,5,MERGED
+misskey,enhance(frontend): 画像エフェクトのUI改善,https://github.com/misskey-dev/misskey/pull/16191,2025-06-15T02:24:37Z,2025-08-09T05:11:19Z,17,20,MERGED
+misskey,enhance(frontend): 画像エフェクト「色調補正」を追加,https://github.com/misskey-dev/misskey/pull/16170,2025-06-05T11:11:42Z,2025-06-05T11:29:02Z,3,1,MERGED
+misskey,enhance(frontend): リアクションビューワーで使用可能なリアクションを優先して表示するオプション,https://github.com/misskey-dev/misskey/pull/16149,2025-06-03T07:06:20Z,2025-06-03T09:44:01Z,8,7,MERGED
+misskey,fix(frontend): 一部のグリッドのページネーションが正しく表示されない問題を修正,https://github.com/misskey-dev/misskey/pull/16147,2025-06-03T06:17:10Z,2025-06-03T08:20:11Z,5,4,MERGED
+misskey,fix(frontend): MkNotesTimelineの日付dividerのスタイル修正,https://github.com/misskey-dev/misskey/pull/16306,2025-07-19T08:30:27Z,2025-07-31T12:45:35Z,3,1,MERGED
+misskey,chore(test): VS Code上で複数のjestテストを表示できるように,https://github.com/misskey-dev/misskey/pull/16251,2025-07-04T16:08:59Z,2025-07-04T23:18:15Z,2,1,MERGED
+misskey,fix(frontend): 条件により保存できない場合のメッセージを汎用的なものへ,https://github.com/misskey-dev/misskey/pull/16238,2025-07-01T12:51:56Z,2025-07-03T08:59:55Z,2,1,MERGED
+misskey,enhance: verify-emailにフロントエンドUIを実装,https://github.com/misskey-dev/misskey/pull/16431,2025-08-21T07:06:57Z,2025-08-21T07:52:31Z,3,7,MERGED
+misskey,fix(frontend): メンション補完のためのサジェストが正しく表示されない問題を修正,https://github.com/misskey-dev/misskey/pull/16401,2025-08-12T15:24:19Z,2025-08-13T01:51:23Z,2,2,MERGED
+misskey,enhance: 予約投稿機能を利用して投稿されたノートにフラグをつけるように,https://github.com/misskey-dev/misskey/pull/16588,2025-09-28T08:49:04Z,2025-09-29T12:07:00Z,2,2,CLOSED
+misskey,fix(frontend): ビルド成果物のファイル名にlocalesのhashを含めるように,https://github.com/misskey-dev/misskey/pull/16580,2025-09-24T06:33:25Z,2025-09-24T08:01:48Z,2,1,MERGED
+misskey,enhance(frontend): bootでonunhandledrejectionでrenderErrorする場合、PromiseRejectionEvent.reasonを渡すように,https://github.com/misskey-dev/misskey/pull/16563,2025-09-18T10:30:59Z,2025-09-18T10:35:23Z,3,1,MERGED

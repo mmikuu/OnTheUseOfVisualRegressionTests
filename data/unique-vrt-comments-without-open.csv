@@ -1,16 +1,30 @@
-repositoryname,comment_count,unique_pr_count,pull_numbers
-storybookjs/storybook,22,20,"13685, 14172, 14251, 14820, 15059, 15556, 16178, 19029, 19181, 19189, 19952, 20359, 20712, 20995, 22336, 24146, 24395, 25460, 26254, 28739"
-ni/nimble,11,10,"1335, 1791, 2167, 2189, 2315, 406, 609, 834, 927, 966"
+repository_name,comment_count,unique_pr_count,pull_numbers
+mswjs/msw-storybook-addon,1,1,22
+storybookjs/storybook,27,23,"13685, 14172, 14251, 14528, 14820, 15059, 15080, 15556, 16178, 17756, 19029, 19181, 19189, 19952, 20359, 20712, 20995, 22336, 24146, 24395, 25460, 26254, 28739"
+nickooms/learnstorybook-design-system,1,1,1
+adobe/react-spectrum,15,10,"2057, 2515, 3132, 4243, 4972, 5705, 5941, 6965, 7284, 8893"
+ni/nimble,13,12,"1335, 1791, 2167, 2189, 2315, 2341, 260, 406, 609, 834, 927, 966"
+Workday/canvas-kit,3,3,"1396, 1426, 1441"
+guardian/source,1,1,1307
+hackworthltd/primer-app,4,3,"112, 213, 332"
+jpmorganchase/salt-ds,2,2,"154, 3551"
+twilio-labs/paste,2,1,2602
+e-gov/cvi,1,1,113
+ithaka/pharos,4,4,"36, 503, 570, 862"
+homebound-team/beam,5,4,"409, 550, 61, 900"
+backstage/backstage,1,1,21482
+coder/coder,16,14,"10857, 11609, 13031, 1574, 16020, 16134, 17822, 18445, 19753, 2103, 3189, 4810, 7210, 981"
+recharts/recharts,9,8,"3908, 4062, 4441, 4542, 4561, 4795, 6008, 6059"
+4A2RfF5Q5x/learnstorybookfdaydule/frontend-design-system,1,1,2
+nulogy/design-system,1,1,1447
+Esri/calcite-design-system,17,15,"10343, 10621, 10724, 10820, 11215, 11759, 12595, 7568, 8055, 8066, 8561, 8786, 9688, 9912, 9969"
 guardian/dotcom-rendering,24,19,"10864, 12062, 12298, 3519, 3645, 3724, 3823, 3897, 3988, 5128, 5529, 6235, 6258, 6405, 6954, 7128, 8478, 8633, 9792"
 GCTC-NTGC/gc-digital-talent,6,4,"2728, 3865, 5740, 8405"
-ithaka/pharos,3,3,"36, 503, 862"
-adobe/react-spectrum,12,8,"2057, 3132, 4243, 4972, 5705, 5941, 6965, 7284"
 NeurodataWithoutBorders/nwb-guide,6,5,"219, 305, 555, 674, 74"
 seek-oss/braid-design-system,1,1,1240
 contentful/forma-36,10,7,"1093, 2057, 2430, 2436, 2498, 2520, 757"
 sbb-design-systems/lyne-components,3,3,"1461, 1691, 2255"
 livechat/design-system,1,1,518
-coder/coder,11,9,"10857, 13031, 1574, 16134, 2103, 3189, 4810, 7210, 981"
 forkfacts/forkfacts-v2,1,1,26
 ForgeRock/forgerock-web-login-framework,2,1,121
 danskernesdigitalebibliotek/dpl-design-system,5,4,"239, 518, 542, 650"
@@ -18,18 +32,16 @@ input-output-hk/lace,2,1,128
 Sage-Bionetworks/synapse-web-monorepo,1,1,319
 chromaui/addon-visual-tests,2,2,"22, 69"
 isomerpages/isomercms-frontend,4,4,"1396, 1398, 1435, 1620"
-Esri/calcite-design-system,14,12,"10343, 10621, 10820, 11215, 7568, 8055, 8066, 8561, 8786, 9688, 9912, 9969"
 epicmaxco/vuestic-ui,2,2,"3729, 4451"
 solid-design-system/solid,1,1,318
 bitwarden/clients,2,2,"3372, 6225"
-recharts/recharts,6,5,"3908, 4062, 4441, 4542, 4795"
 navikt/aksel,3,3,"2395, 2795, 3081"
 kufu/smarthr-ui,9,8,"3975, 4182, 4302, 4479, 4626, 4821, 5091, 5307"
 guardian/support-frontend,1,1,5429
 daydule/frontend,1,1,71
-adobe/spectrum-css,2,2,"2424, 2929"
+adobe/spectrum-css,3,3,"2424, 2929, 3593"
 AmazeeLabs/silverback-template,2,1,132
-department-of-veterans-affairs/component-library,3,3,"1073, 1096, 1487"
+department-of-veterans-affairs/component-library,4,3,"1073, 1096, 1487"
 ethereum/ethereum-org-website,3,2,"12594, 12639"
 Crystal-Creations-GbR/crystal-components,1,1,70
 chromaui/chromatic-docs,1,1,400
@@ -37,26 +49,24 @@ wellcomecollection/wellcomecollection.org,2,2,"10792, 8945"
 appsmithorg/appsmith,1,1,32857
 misskey-dev/misskey,2,2,"13779, 13830"
 cloudblue/connect-ui-toolkit,2,1,92
-Sage/carbon,3,3,"3498, 6795, 7091"
-jpmorganchase/salt-ds,1,1,3551
+Sage/carbon,4,4,"3498, 6795, 7091, 7507"
 gradio-app/gradio,2,2,"8851, 9260"
 sillsdev/web-xforge,1,1,2557
 DouyinFE/semi-design,2,2,"1317, 2431"
 evidence-dev/evidence,3,3,"2317, 2436, 2511"
 sl-design-system/components,1,1,1454
-Khan/wonder-blocks,5,5,"1257, 1645, 2309, 2363, 2441"
+Khan/wonder-blocks,18,15,"1257, 1645, 2309, 2363, 2441, 2508, 2563, 2600, 2602, 2661, 2689, 2715, 2758, 2766, 2786"
 chromaui/chromatic-e2e,3,2,"203, 207"
 nl-design-system/rijkshuisstijl-community,1,1,620
 VOICEVOX/voicevox,1,1,2287
 Longhorn-Developers/UT-Registration-Plus,1,1,425
 opendatasoft/ods-dataviz-sdk,1,1,266
 fortanix/baklava,2,1,54
-serendie/serendie,1,1,28
+serendie/serendie,2,1,28
 curology/radiance-ui,2,2,"1470, 642"
 getappmap/appmap-js,3,3,"255, 32, 57"
 cultureamp/kaizen-design-system,6,5,"1053, 1218, 1800, 2300, 3051"
 CruGlobal/mpdx-react,1,1,25
-homebound-team/beam,4,3,"409, 550, 61"
 metmuseum/marble,2,2,"121, 185"
 WPMedia/arc-themes-blocks,26,17,"1014, 1019, 1044, 1062, 1092, 1332, 1335, 1345, 1347, 1365, 1373, 1386, 1411, 1462, 1481, 1556, 862"
 grommet/grommet,1,1,5213
@@ -69,11 +79,9 @@ PostHog/posthog,1,1,5736
 eisbuk/EisBuk,2,1,183
 BBC-archive/psammead,1,1,4548
 proeco/proeco-client,1,1,147
-hackworthltd/primer-app,3,2,"112, 213"
 dpc-sdp/ripple,1,1,1111
 input-output-hk/daedalus,1,1,2776
 titicacadev/triple-frontend,3,2,"1754, 1762"
-Workday/canvas-kit,2,2,"1396, 1441"
 chanzuckerberg/edu-design-system,9,6,"1083, 1322, 1346, 1440, 893, 921"
 lena1687/react-game-project,1,1,1
 WPMedia/arc-themes-components,3,2,"116, 121"
@@ -85,22 +93,12 @@ dpc-sdp/ripple-framework,1,1,224
 storybookjs/components-marketing,1,1,35
 Trendyol/baklava,1,1,327
 iterative/vscode-dvc,1,1,2850
-mswjs/msw-storybook-addon,1,1,22
-storybookjs/storybook,5,3,"14528, 15080, 17756"
-nickooms/learnstorybook-design-system,1,1,1
-adobe/react-spectrum,2,1,2515
-ni/nimble,2,2,"2341, 260"
-Workday/canvas-kit,1,1,1426
-guardian/source,1,1,1307
-hackworthltd/primer-app,1,1,332
-jpmorganchase/salt-ds,1,1,154
-twilio-labs/paste,2,1,2602
-e-gov/cvi,1,1,113
-ithaka/pharos,1,1,570
-homebound-team/beam,1,1,900
-backstage/backstage,1,1,21482
-coder/coder,2,2,"11609, 16020"
-recharts/recharts,1,1,4561
-4A2RfF5Q5x/learnstorybook-design-system,1,1,2
-nulogy/design-system,1,1,1447
-Esri/calcite-design-system,1,1,10724
+opengovsg/isomer,2,2,"1144, 1585"
+openops-cloud/openops,1,1,286
+temporalio/ui,1,1,2599
+ory/elements,1,1,371
+nl-design-system/denhaag,1,1,1709
+nodejs/nodejs.org,4,2,"7638, 7754"
+storacha/bluesky-backup-webapp-server,1,1,171
+kiva/kv-ui-elements,1,1,597
+Khan/perseus,1,1,2728

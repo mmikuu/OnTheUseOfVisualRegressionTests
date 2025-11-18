@@ -1,0 +1,845 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+storybook,horizontal display for addon-knobs radios UI,https://github.com/storybookjs/storybook/pull/3922,2018-07-26T12:09:47Z,2018-08-02T20:47:53Z,17,1,MERGED
+storybook,[onDeviceUI] Add ability to render addons in React Native,https://github.com/storybookjs/storybook/pull/3903,2018-07-20T11:26:04Z,2018-10-11T12:35:52Z,40,96,MERGED
+storybook,addon-knobs radio input,https://github.com/storybookjs/storybook/pull/3902,2018-07-20T11:09:35Z,2018-07-24T07:44:20Z,11,4,CLOSED
+storybook,Make addon-options work with story parameters,https://github.com/storybookjs/storybook/pull/3958,2018-08-04T22:51:21Z,2018-08-06T10:03:16Z,4,2,MERGED
+storybook,[framework] add ember support,https://github.com/storybookjs/storybook/pull/4237,2018-09-27T05:24:05Z,2018-10-03T13:33:33Z,29,4,MERGED
+storybook,Log network location of Storybook app on startup,https://github.com/storybookjs/storybook/pull/4232,2018-09-26T03:53:28Z,2018-09-26T17:47:16Z,4,2,MERGED
+storybook,Fix broken colorpicker for knobs,https://github.com/storybookjs/storybook/pull/4222,2018-09-24T13:24:48Z,2018-09-27T06:51:31Z,5,1,MERGED
+storybook,Angular cli - fix prebuild,https://github.com/storybookjs/storybook/pull/4187,2018-09-17T15:07:30Z,2018-09-18T07:04:18Z,0,4,MERGED
+storybook,Cli framework choice,https://github.com/storybookjs/storybook/pull/4184,2018-09-16T13:20:24Z,2018-10-13T07:15:57Z,23,14,MERGED
+storybook,Upgrade bootstrap in docs,https://github.com/storybookjs/storybook/pull/4183,2018-09-16T08:25:22Z,2018-09-18T15:44:23Z,13,5,MERGED
+storybook,Fix: markdown typo,https://github.com/storybookjs/storybook/pull/4638,2018-10-30T08:07:12Z,2018-10-30T08:32:06Z,2,1,MERGED
+storybook,Resources addon to dynamically add/remove css,https://github.com/storybookjs/storybook/pull/4622,2018-10-30T00:51:34Z,2018-11-26T16:23:13Z,5,69,MERGED
+storybook,fix loader config for cursor images,https://github.com/storybookjs/storybook/pull/4498,2018-10-19T10:51:32Z,2018-11-05T19:51:18Z,1,2,MERGED
+storybook,Fix FAQ markdown page in order to get the link to display,https://github.com/storybookjs/storybook/pull/4483,2018-10-18T18:46:55Z,2018-10-18T20:47:50Z,1,1,MERGED
+storybook,chore(core): replace tty-table with cli-table3 for displaying cli message,https://github.com/storybookjs/storybook/pull/4449,2018-10-16T11:28:26Z,2018-10-16T12:01:16Z,1,1,MERGED
+storybook,Expose webpackFinal extension,https://github.com/storybookjs/storybook/pull/4431,2018-10-15T14:46:42Z,2018-10-16T06:48:19Z,3,1,MERGED
+storybook,Support css-modules,https://github.com/storybookjs/storybook/pull/4405,2018-10-13T04:41:29Z,2018-10-22T13:21:16Z,54,27,MERGED
+storybook,[logging] better error logging for when opn fails to opn,https://github.com/storybookjs/storybook/pull/4348,2018-10-11T01:05:55Z,2018-10-12T07:51:09Z,7,2,MERGED
+storybook,Tech/terminal update check,https://github.com/storybookjs/storybook/pull/4334,2018-10-09T23:58:17Z,2018-10-13T08:28:29Z,7,11,MERGED
+storybook,add height and overflow fixes to addon panel styles,https://github.com/storybookjs/storybook/pull/4304,2018-10-05T23:14:48Z,2018-10-13T09:08:08Z,1,3,MERGED
+storybook,Tech/overhaul ui: shortcuts,https://github.com/storybookjs/storybook/pull/4257,2018-10-01T04:01:39Z,2018-10-14T10:16:28Z,9,11,MERGED
+storybook,Reject webpack-related issues,https://github.com/storybookjs/storybook/pull/4883,2018-11-28T23:49:02Z,2018-11-29T07:58:37Z,1,1,MERGED
+storybook,Issue 3972 options knob,https://github.com/storybookjs/storybook/pull/4857,2018-11-26T16:11:20Z,2018-12-20T09:54:32Z,4,12,CLOSED
+storybook,feat(react-native): Add ability to filter story list from React-Native,https://github.com/storybookjs/storybook/pull/4806,2018-11-19T03:58:32Z,2018-11-23T08:53:37Z,7,5,MERGED
+storybook,Add-on actions: Specify sort function that compares number-like strings as number,https://github.com/storybookjs/storybook/pull/4765,2018-11-10T11:10:10Z,2018-11-13T12:54:11Z,8,2,CLOSED
+storybook,added `optionsKnob` to addon-knobs,https://github.com/storybookjs/storybook/pull/4723,2018-11-06T00:12:57Z,2018-11-25T16:42:32Z,11,4,MERGED
+storybook,fix(react-native): prevent the Navigation bar to stay underneath the keyboard,https://github.com/storybookjs/storybook/pull/4710,2018-11-04T05:12:59Z,2018-11-07T03:39:03Z,5,3,CLOSED
+storybook,Add TypeScript CRA example,https://github.com/storybookjs/storybook/pull/5120,2018-12-29T20:21:34Z,2019-01-09T02:49:50Z,9,15,MERGED
+storybook,import utils directly to prevent import cycles,https://github.com/storybookjs/storybook/pull/5107,2018-12-27T12:40:26Z,2019-01-04T19:01:31Z,2,1,MERGED
+storybook,Add TypeScript CRA example,https://github.com/storybookjs/storybook/pull/5011,2018-12-16T21:29:49Z,2018-12-29T20:21:50Z,6,7,CLOSED
+storybook,Fix syntax error in package.json example,https://github.com/storybookjs/storybook/pull/5279,2019-01-17T16:30:01Z,2019-01-18T11:42:22Z,2,1,MERGED
+storybook,Release 5.0,https://github.com/storybookjs/storybook/pull/5222,2019-01-12T05:10:54Z,2019-01-13T06:44:41Z,11,510,MERGED
+storybook,FIX highlightColor,https://github.com/storybookjs/storybook/pull/5150,2019-01-05T11:03:22Z,2019-01-05T18:40:26Z,5,1,MERGED
+storybook,fix: @storybook/addon-info table width,https://github.com/storybookjs/storybook/pull/5735,2019-02-23T22:24:06Z,2019-02-24T13:46:17Z,0,1,MERGED
+storybook,Custom scrollbars #5421,https://github.com/storybookjs/storybook/pull/5714,2019-02-21T21:18:25Z,2019-02-27T23:32:40Z,6,21,MERGED
+storybook,FIX styling of the Addon Info propTables,https://github.com/storybookjs/storybook/pull/5474,2019-02-04T22:13:11Z,2019-02-11T23:31:45Z,4,3,MERGED
+storybook,Fixed Colorblindness Emulation,https://github.com/storybookjs/storybook/pull/6297,2019-03-26T17:36:41Z,2019-03-26T22:46:54Z,5,1,MERGED
+storybook,Set expanded stores to objects instead of arrays,https://github.com/storybookjs/storybook/pull/6290,2019-03-26T13:06:03Z,2019-03-26T21:25:17Z,1,1,MERGED
+storybook,[bug] Fix for `addon-cssresources` till scrollbars are properly addressed,https://github.com/storybookjs/storybook/pull/6263,2019-03-25T20:19:12Z,2019-03-29T01:36:28Z,4,3,MERGED
+storybook,Feature/highlight a11y violation on component,https://github.com/storybookjs/storybook/pull/6218,2019-03-21T17:00:09Z,2019-03-25T22:00:14Z,15,44,MERGED
+storybook,Angular: Disable prod mode for debugging components,https://github.com/storybookjs/storybook/pull/6215,2019-03-21T11:47:39Z,2019-05-06T19:35:36Z,20,5,MERGED
+storybook,fix(knobs): color type button z-index,https://github.com/storybookjs/storybook/pull/6203,2019-03-20T19:31:12Z,2019-03-20T20:13:15Z,1,1,MERGED
+storybook,📜 tech preview of monaco editor + 📦sandpack,https://github.com/storybookjs/storybook/pull/6158,2019-03-18T19:15:12Z,2021-04-15T02:36:47Z,9,108,CLOSED
+storybook,[bug]Error message when removing value from number knob ,https://github.com/storybookjs/storybook/pull/6043,2019-03-12T12:56:13Z,2019-03-12T21:05:37Z,0,1,MERGED
+storybook,fix(a11y): remove bg color from reports,https://github.com/storybookjs/storybook/pull/6026,2019-03-11T21:05:31Z,2019-03-12T09:02:45Z,2,1,MERGED
+storybook,Fix #5785 - welcome component in dark theme,https://github.com/storybookjs/storybook/pull/5998,2019-03-10T12:18:05Z,2019-03-11T08:19:47Z,1,1,MERGED
+storybook,bug fix (addons/viewport): viewport iframe dimensions,https://github.com/storybookjs/storybook/pull/5993,2019-03-09T23:20:08Z,2019-03-10T00:45:35Z,2,1,MERGED
+storybook,bug fix (addons/viewport): viewport iframe dimensions,https://github.com/storybookjs/storybook/pull/5992,2019-03-09T23:10:33Z,2019-03-09T23:19:07Z,1,1,CLOSED
+storybook,Addon-a11y: fix design icons,https://github.com/storybookjs/storybook/pull/5991,2019-03-09T22:40:11Z,2019-03-10T09:28:39Z,1,1,MERGED
+storybook,Allow for theming of the notes addon panel,https://github.com/storybookjs/storybook/pull/5922,2019-03-06T15:32:16Z,2019-03-20T16:39:40Z,11,6,MERGED
+storybook,"Fix imported package for ""dark"" theme",https://github.com/storybookjs/storybook/pull/5884,2019-03-05T19:32:55Z,2019-03-06T02:42:24Z,0,1,MERGED
+storybook,"Fix: SidebarItem feels ""laggy"" when clicked",https://github.com/storybookjs/storybook/pull/5850,2019-03-04T19:41:20Z,2019-03-05T00:31:58Z,3,2,MERGED
+storybook,Toggle Dark Mode,https://github.com/storybookjs/storybook/pull/5841,2019-03-04T05:32:35Z,2019-03-06T00:57:43Z,5,5,CLOSED
+storybook,Use emotion to style react-native ui,https://github.com/storybookjs/storybook/pull/6603,2019-04-24T04:02:49Z,2019-05-01T23:08:34Z,4,9,MERGED
+storybook,Ondevice actions,https://github.com/storybookjs/storybook/pull/6594,2019-04-23T13:23:23Z,2019-05-02T02:23:08Z,14,11,MERGED
+storybook,A11y design enhancements,https://github.com/storybookjs/storybook/pull/6563,2019-04-18T16:15:09Z,2019-04-25T11:31:14Z,17,23,MERGED
+storybook,fix(knobs): add groupId for files knob,https://github.com/storybookjs/storybook/pull/6534,2019-04-16T07:32:02Z,2019-04-16T08:57:43Z,1,1,MERGED
+storybook,Add absolute url for screenshot to show up on npm,https://github.com/storybookjs/storybook/pull/6497,2019-04-12T10:21:29Z,2019-04-12T10:23:57Z,1,169,CLOSED
+storybook,Fix sorting of knobs Panels,https://github.com/storybookjs/storybook/pull/6480,2019-04-10T13:48:57Z,2019-04-11T22:22:14Z,4,3,MERGED
+storybook,🛑yarn prepare errors in the logs,https://github.com/storybookjs/storybook/pull/6415,2019-04-04T09:19:01Z,2019-04-04T12:29:40Z,4,1,CLOSED
+storybook,[addon: A11Y] use 'indeterminate' checkbox state for partial selected group,https://github.com/storybookjs/storybook/pull/6405,2019-04-03T19:15:42Z,2019-04-05T14:33:44Z,7,4,MERGED
+storybook,Add tree view for react native,https://github.com/storybookjs/storybook/pull/6380,2019-04-02T10:44:16Z,2020-02-08T15:04:16Z,18,11,CLOSED
+storybook,Add 'addParameters' to index.d.ts for angular.,https://github.com/storybookjs/storybook/pull/6929,2019-05-31T18:30:11Z,2019-06-03T06:50:43Z,1,1,MERGED
+storybook,Add color inherit to StyledStoryLink,https://github.com/storybookjs/storybook/pull/6876,2019-05-24T14:47:23Z,2019-05-24T22:05:40Z,3,1,MERGED
+storybook,Removed  overflow: 'auto' from addon centered that causes unnecessary scroll bar,https://github.com/storybookjs/storybook/pull/6862,2019-05-23T02:11:51Z,2019-05-24T09:34:45Z,4,3,MERGED
+storybook,add ability to have multiple sections in the notes panel,https://github.com/storybookjs/storybook/pull/6861,2019-05-23T00:34:02Z,2019-06-17T10:56:28Z,2,3,MERGED
+storybook,Feature/jest design changes,https://github.com/storybookjs/storybook/pull/6847,2019-05-21T10:03:01Z,2019-06-04T17:25:46Z,3,3,MERGED
+storybook,Scrollbar supports theming again,https://github.com/storybookjs/storybook/pull/6794,2019-05-16T01:23:03Z,2019-05-16T04:07:19Z,1,2,MERGED
+storybook,Fix the edit docs link in svelte guide,https://github.com/storybookjs/storybook/pull/6746,2019-05-08T13:57:06Z,2019-05-08T14:04:03Z,1,1,MERGED
+storybook,fix: Preserve dimensions on resizing for panel,https://github.com/storybookjs/storybook/pull/6696,2019-05-01T00:52:16Z,2019-05-06T08:35:17Z,5,1,MERGED
+storybook,Fix unstretched preview background wrapper,https://github.com/storybookjs/storybook/pull/7173,2019-06-22T11:47:42Z,2019-06-23T20:02:57Z,1,1,MERGED
+storybook,[Documentation] Point Storybook new version cli changelog link to master,https://github.com/storybookjs/storybook/pull/7166,2019-06-21T18:31:59Z,2019-06-22T00:23:23Z,3,1,CLOSED
+storybook,Tech/improve bootstrap list,https://github.com/storybookjs/storybook/pull/6993,2019-06-06T06:51:31Z,2019-06-16T20:31:30Z,2,6,MERGED
+storybook,"IMPROVE HMR error reporting, no refreshes needed for error recovery",https://github.com/storybookjs/storybook/pull/6972,2019-06-04T19:57:19Z,2019-06-20T11:33:24Z,10,7,MERGED
+storybook,Addon-jest: UI Redesign,https://github.com/storybookjs/storybook/pull/7424,2019-07-16T02:42:13Z,2019-07-20T03:42:53Z,25,47,MERGED
+storybook,Fix #7167 addon-centered causes component to disappear when zooming,https://github.com/storybookjs/storybook/pull/7400,2019-07-12T14:50:25Z,2019-07-22T16:51:23Z,14,1,MERGED
+storybook,Fix 7167 zooming with addon-centered,https://github.com/storybookjs/storybook/pull/7399,2019-07-12T14:43:56Z,2019-07-12T14:45:06Z,2,91,CLOSED
+storybook,Feature/jest redesign,https://github.com/storybookjs/storybook/pull/7395,2019-07-12T10:57:21Z,2019-07-16T02:42:26Z,1,37,CLOSED
+storybook,Fix content of Panel rendered wrong at Docs-page,https://github.com/storybookjs/storybook/pull/7327,2019-07-06T13:13:01Z,2019-07-13T22:58:28Z,8,3,MERGED
+storybook,Addon-docs: Support docs-only MDX && update docs mode nav UI,https://github.com/storybookjs/storybook/pull/7302,2019-07-04T08:29:49Z,2019-07-05T01:25:59Z,5,5,CLOSED
+storybook,Fix placement of notificationistList on docs page,https://github.com/storybookjs/storybook/pull/7290,2019-07-04T04:56:16Z,2019-07-11T10:18:20Z,4,2,MERGED
+storybook,Replace favicon with new Storybook icon.,https://github.com/storybookjs/storybook/pull/7922,2019-08-29T19:02:51Z,2019-08-30T03:07:42Z,2,1,MERGED
+storybook,Bump react-draggable from 3.1.1 to 3.3.2,https://github.com/storybookjs/storybook/pull/7912,2019-08-29T11:14:09Z,2019-08-30T03:22:41Z,4,2,MERGED
+storybook,UI: Fix TooltipLinkList not scrollable,https://github.com/storybookjs/storybook/pull/7865,2019-08-26T14:53:59Z,2019-08-26T15:31:28Z,1,1,MERGED
+storybook,Feature/jest add pending todo,https://github.com/storybookjs/storybook/pull/7793,2019-08-17T15:53:54Z,2019-08-18T02:50:48Z,2,10,MERGED
+storybook,"Addon-docs: Improved ""No docs"" message",https://github.com/storybookjs/storybook/pull/7785,2019-08-17T00:26:01Z,2019-08-19T14:49:07Z,1,2,MERGED
+storybook,fix link to `Intro to Presets page`,https://github.com/storybookjs/storybook/pull/7783,2019-08-16T10:43:24Z,2019-08-16T14:11:28Z,2,1,MERGED
+storybook,Addon-docs: Add toolbar support to Preview,https://github.com/storybookjs/storybook/pull/7778,2019-08-15T12:25:58Z,2019-08-16T08:08:36Z,3,4,MERGED
+storybook,Addon-docs: Docs only MDX and navigation UI,https://github.com/storybookjs/storybook/pull/7719,2019-08-08T08:02:52Z,2019-08-10T12:11:41Z,13,10,MERGED
+storybook,UI: Improved component nav UI,https://github.com/storybookjs/storybook/pull/7716,2019-08-08T04:02:00Z,2019-08-09T02:26:44Z,2,3,MERGED
+storybook,Addon-docs: Render components as leaves in `--docs` mode,https://github.com/storybookjs/storybook/pull/7700,2019-08-07T01:57:36Z,2019-12-14T14:02:29Z,15,13,MERGED
+storybook,Addon-docs: Fix LI styling for dark color theme,https://github.com/storybookjs/storybook/pull/8015,2019-09-06T13:57:06Z,2019-09-06T22:04:59Z,1,1,MERGED
+storybook,Addon-knobs: Add object[] support for select,https://github.com/storybookjs/storybook/pull/7957,2019-09-02T05:29:55Z,2019-11-13T14:01:01Z,8,2,MERGED
+storybook,Add surplus support,https://github.com/storybookjs/storybook/pull/8645,2019-10-30T18:57:56Z,2020-06-09T15:58:39Z,22,5,CLOSED
+storybook,Addon-notes: Add key to render function,https://github.com/storybookjs/storybook/pull/8633,2019-10-30T05:58:13Z,2019-10-30T09:19:39Z,1,1,MERGED
+storybook,Addon-docs: Fix story scroll-to heuristics,https://github.com/storybookjs/storybook/pull/8629,2019-10-29T22:55:44Z,2019-10-30T08:21:24Z,1,1,MERGED
+storybook,Addon-docs: Angular DocsPage props table,https://github.com/storybookjs/storybook/pull/8621,2019-10-29T16:55:47Z,2019-11-01T17:26:51Z,3,15,MERGED
+storybook,Addon-docs/web-components: Add attributes to props table,https://github.com/storybookjs/storybook/pull/8598,2019-10-28T22:19:18Z,2019-10-29T19:37:57Z,6,3,MERGED
+storybook,Addon-docs: Props / Description for web-components,https://github.com/storybookjs/storybook/pull/8585,2019-10-27T12:04:49Z,2019-10-27T19:04:07Z,11,11,MERGED
+storybook,Fix react native style,https://github.com/storybookjs/storybook/pull/8480,2019-10-19T05:28:39Z,2019-10-28T11:52:40Z,1,2,MERGED
+storybook,Stop inserting HTML tags from error messages,https://github.com/storybookjs/storybook/pull/8363,2019-10-09T21:17:27Z,2019-10-30T07:23:18Z,2,2,MERGED
+storybook,Remove duplicate code,https://github.com/storybookjs/storybook/pull/8285,2019-10-03T14:09:00Z,2019-10-03T17:49:55Z,2,1,MERGED
+storybook,UI: Fix inline code styling for dark theme,https://github.com/storybookjs/storybook/pull/8260,2019-10-01T16:39:37Z,2019-10-02T11:39:01Z,7,1,MERGED
+storybook,Core: Use logger in base-webpack.config.js,https://github.com/storybookjs/storybook/pull/8966,2019-11-26T16:09:22Z,2019-11-27T00:02:40Z,1,1,MERGED
+storybook,Addon-docs: Fix Description block when no component provided,https://github.com/storybookjs/storybook/pull/8902,2019-11-21T03:43:24Z,2019-11-21T04:17:45Z,1,1,MERGED
+storybook,Addon-docs: Rich props table UI,https://github.com/storybookjs/storybook/pull/8887,2019-11-19T19:13:33Z,2019-11-21T05:01:17Z,7,23,MERGED
+storybook,Addon-docs: Fix props table props sorting for PropTypes,https://github.com/storybookjs/storybook/pull/8857,2019-11-18T03:57:16Z,2019-11-18T14:02:59Z,1,6,MERGED
+storybook,"Addon-A11y: Show errors, reset config properly",https://github.com/storybookjs/storybook/pull/8779,2019-11-10T20:36:52Z,2019-11-14T00:37:04Z,6,3,MERGED
+storybook,Source-loader: Warn if applied to non-stories file,https://github.com/storybookjs/storybook/pull/8773,2019-11-09T13:52:54Z,2019-11-11T09:55:10Z,4,3,MERGED
+storybook,Addon-docs: Added dark theme option to source component,https://github.com/storybookjs/storybook/pull/8732,2019-11-06T07:54:34Z,2019-11-27T12:48:56Z,1,1,MERGED
+storybook,Addon-docs: Render array of shape properly in props table,https://github.com/storybookjs/storybook/pull/8707,2019-11-05T02:58:33Z,2019-11-06T18:21:52Z,1,17,MERGED
+storybook,Update the PropRow component to Replace line breaks for <br />,https://github.com/storybookjs/storybook/pull/8703,2019-11-04T18:46:38Z,2019-11-05T13:17:49Z,5,1,CLOSED
+storybook,[addon-docs] Add check for multiple stories before rendering Stories component,https://github.com/storybookjs/storybook/pull/9268,2019-12-30T16:29:44Z,2019-12-30T19:31:14Z,3,1,CLOSED
+storybook,"feat(ui, components): style the loader with the design-system",https://github.com/storybookjs/storybook/pull/9249,2019-12-26T10:56:39Z,2020-01-08T18:08:41Z,9,4,MERGED
+storybook,Update README about @storybook/react typescript part,https://github.com/storybookjs/storybook/pull/9227,2019-12-23T15:16:58Z,2019-12-24T03:23:09Z,2,1,MERGED
+storybook,docs: ✏️changed deployment command for zeit now,https://github.com/storybookjs/storybook/pull/9199,2019-12-19T13:03:10Z,2019-12-20T00:23:03Z,1,1,MERGED
+storybook,docs: ✏️Changed deployment command for zeit now cloud deployments,https://github.com/storybookjs/storybook/pull/9198,2019-12-19T12:51:24Z,2019-12-19T12:55:16Z,2,1,CLOSED
+storybook,fix(a11y): fix highlight of selected blindness color filter,https://github.com/storybookjs/storybook/pull/9179,2019-12-18T07:18:00Z,2019-12-18T10:11:21Z,3,1,MERGED
+storybook,Addon-docs: Add fontFamily prop to Typeset component,https://github.com/storybookjs/storybook/pull/9158,2019-12-15T22:07:25Z,2019-12-16T08:10:14Z,1,2,MERGED
+storybook,UI: Docs mode nav with expanded selection,https://github.com/storybookjs/storybook/pull/9153,2019-12-14T09:51:44Z,2019-12-14T13:58:53Z,3,15,CLOSED
+storybook,Addon-docs: Support for iframeWidth parameter on stories,https://github.com/storybookjs/storybook/pull/9149,2019-12-13T22:19:33Z,2020-12-01T09:37:19Z,14,2,CLOSED
+storybook,Addon-viewport: Allow viewports config to be optional,https://github.com/storybookjs/storybook/pull/9137,2019-12-12T09:50:02Z,2019-12-13T03:35:11Z,5,4,MERGED
+storybook,Addon-docs: Typescript inherited prop types,https://github.com/storybookjs/storybook/pull/9110,2019-12-10T04:35:07Z,2022-06-30T13:14:57Z,38,21,CLOSED
+storybook,"configure tabs: title, visibility, order and disable",https://github.com/storybookjs/storybook/pull/9095,2019-12-07T18:38:18Z,2020-01-30T09:49:43Z,15,6,MERGED
+storybook,Addon-docs: Add Props for Ember,https://github.com/storybookjs/storybook/pull/9067,2019-12-05T03:34:13Z,2019-12-06T13:54:59Z,4,13,MERGED
+storybook,Removed the tabindex of 0 from the tab content container.,https://github.com/storybookjs/storybook/pull/9064,2019-12-04T20:30:57Z,2021-11-29T15:18:32Z,17,2,CLOSED
+storybook,Addon-docs: MDX Octicon anchors should not be tabbable,https://github.com/storybookjs/storybook/pull/9063,2019-12-04T20:23:51Z,2019-12-05T06:58:44Z,1,1,MERGED
+storybook,Addon-docs: MDX Linking,https://github.com/storybookjs/storybook/pull/9051,2019-12-03T22:07:33Z,2019-12-04T03:42:35Z,9,14,MERGED
+storybook,fix(addon-storyshots): Remove excess slashes from jest transform warning,https://github.com/storybookjs/storybook/pull/9616,2020-01-23T16:17:29Z,2020-01-23T17:28:07Z,1,1,MERGED
+storybook,feat(addon-docs): named colors with ColorPalette,https://github.com/storybookjs/storybook/pull/9453,2020-01-14T23:23:25Z,2020-01-20T22:08:22Z,12,2,MERGED
+storybook,Remove autoprefixer as peer dependency.,https://github.com/storybookjs/storybook/pull/9409,2020-01-13T13:25:34Z,2020-03-04T14:50:07Z,3,1,CLOSED
+storybook,Remove autoprefixer as peer dependency.,https://github.com/storybookjs/storybook/pull/9408,2020-01-13T13:16:01Z,2020-01-13T13:25:42Z,2,8,CLOSED
+storybook,add toolbar documentation,https://github.com/storybookjs/storybook/pull/9377,2020-01-10T04:35:03Z,2020-01-11T00:05:34Z,4,1,MERGED
+storybook,Official-storybook: Prop table example for multiple named exports,https://github.com/storybookjs/storybook/pull/9364,2020-01-09T04:41:32Z,2020-01-09T05:17:17Z,3,1,MERGED
+storybook,Addon-docs / web-components: Rename 'props' to 'properties' in props table,https://github.com/storybookjs/storybook/pull/9362,2020-01-09T01:58:17Z,2020-01-09T02:41:01Z,1,1,MERGED
+storybook,cssresources-addon: Do not use SyntaxHighlighter with the very long code-content.,https://github.com/storybookjs/storybook/pull/9360,2020-01-08T19:31:22Z,2020-01-09T10:31:16Z,4,1,MERGED
+storybook,Addon-docs: Tweak props table paragraph spacing,https://github.com/storybookjs/storybook/pull/9307,2020-01-03T03:17:29Z,2020-01-03T03:44:19Z,1,1,MERGED
+storybook,Addon-docs: Reset styles in Preview component ,https://github.com/storybookjs/storybook/pull/10274,2020-03-31T19:59:10Z,2020-04-20T21:19:53Z,6,2,MERGED
+storybook,components: format Source code with Prettier,https://github.com/storybookjs/storybook/pull/10245,2020-03-28T14:25:25Z,2022-06-30T13:21:09Z,26,13,CLOSED
+storybook,Addon-docs: Add linear gradient support to ColorPalette block,https://github.com/storybookjs/storybook/pull/10237,2020-03-27T18:00:35Z,2020-03-27T23:47:51Z,2,1,MERGED
+storybook,Fix/addon a11y,https://github.com/storybookjs/storybook/pull/10219,2020-03-26T16:46:27Z,2020-03-30T15:36:56Z,0,3,MERGED
+storybook,Ensure visibility of links within PropRow descriptions,https://github.com/storybookjs/storybook/pull/10210,2020-03-25T13:17:48Z,2020-03-25T16:56:50Z,0,1,MERGED
+storybook,React: Add official cra-template,https://github.com/storybookjs/storybook/pull/10122,2020-03-13T01:46:09Z,2020-12-01T09:33:23Z,12,10,CLOSED
+storybook,Core: Improve support for main.ts/preview.ts files,https://github.com/storybookjs/storybook/pull/10099,2020-03-10T21:06:17Z,2020-03-12T10:10:53Z,1,2,MERGED
+storybook,Addon-Toolbars: Global args support in the toolbar,https://github.com/storybookjs/storybook/pull/10028,2020-03-03T03:39:43Z,2020-03-13T12:20:51Z,3,14,MERGED
+storybook,feat(components): add ids to panels tab and content,https://github.com/storybookjs/storybook/pull/10588,2020-04-29T15:01:24Z,2020-04-30T08:27:08Z,1,1,MERGED
+storybook,Addon-docs: Props controls for Vue,https://github.com/storybookjs/storybook/pull/10559,2020-04-27T13:57:28Z,2020-04-29T07:20:11Z,2,4,MERGED
+storybook,CLI: Automatically detect typescript in `sb init`,https://github.com/storybookjs/storybook/pull/10547,2020-04-25T17:44:20Z,2020-04-27T03:38:10Z,10,12,MERGED
+storybook,Addon-Docs: Fix Ember extractArgTypes,https://github.com/storybookjs/storybook/pull/10525,2020-04-22T20:11:16Z,2020-08-02T11:37:03Z,2,2,MERGED
+storybook,docs: update addon-queryparams docs to use CSF,https://github.com/storybookjs/storybook/pull/10457,2020-04-17T17:01:11Z,2020-04-18T12:41:03Z,2,1,MERGED
+storybook,FIX bad shortcutpage layout,https://github.com/storybookjs/storybook/pull/10445,2020-04-16T12:04:18Z,2020-04-17T07:07:29Z,0,1,MERGED
+storybook,Serve correctly hashed static files with the Cache-Control header,https://github.com/storybookjs/storybook/pull/10390,2020-04-11T19:56:58Z,2020-04-15T21:58:39Z,7,9,MERGED
+storybook,CSF: Warn when there are no exported stories,https://github.com/storybookjs/storybook/pull/10357,2020-04-09T07:36:28Z,2020-04-09T08:51:20Z,1,2,MERGED
+storybook,Dev: Build script for package development,https://github.com/storybookjs/storybook/pull/10343,2020-04-07T18:50:57Z,2020-04-11T07:42:39Z,3,6,MERGED
+storybook,Addon-controls: Add warning to controls tab on no-args story,https://github.com/storybookjs/storybook/pull/10986,2020-05-29T17:50:12Z,2020-05-29T19:17:03Z,1,2,MERGED
+storybook,fix ember double render,https://github.com/storybookjs/storybook/pull/10971,2020-05-28T21:29:41Z,2020-06-04T18:17:19Z,0,2,MERGED
+storybook,Addon-controls: Web-components support,https://github.com/storybookjs/storybook/pull/10953,2020-05-27T20:23:40Z,2020-05-28T04:26:50Z,1,2,MERGED
+storybook,Addon-controls: Angular support,https://github.com/storybookjs/storybook/pull/10946,2020-05-27T15:06:06Z,2020-05-28T04:27:01Z,7,9,MERGED
+storybook,UI: Center toolbar icon buttons ,https://github.com/storybookjs/storybook/pull/10897,2020-05-23T15:29:42Z,2020-05-23T20:44:16Z,1,1,MERGED
+storybook,Addon-Controls: Next-generation knobs,https://github.com/storybookjs/storybook/pull/10834,2020-05-19T10:50:17Z,2020-05-26T22:47:38Z,34,19,MERGED
+storybook,Core: Fix global args initial state for addon-toolbars,https://github.com/storybookjs/storybook/pull/10833,2020-05-19T10:25:29Z,2020-05-19T11:01:23Z,2,1,MERGED
+storybook,Addon-a11y: Add deprecated withA11y,https://github.com/storybookjs/storybook/pull/10814,2020-05-17T20:14:28Z,2020-05-19T10:22:12Z,1,4,MERGED
+storybook,Addon-toolbars: Show tool icons for all viewModes,https://github.com/storybookjs/storybook/pull/10810,2020-05-17T04:10:36Z,2020-05-17T04:49:09Z,1,1,MERGED
+storybook,WIP react-refresh attempt,https://github.com/storybookjs/storybook/pull/10694,2020-05-08T22:09:20Z,2020-09-14T07:52:49Z,5,3,CLOSED
+storybook,UI: Reset layout properties when switching stories,https://github.com/storybookjs/storybook/pull/10643,2020-05-04T20:43:20Z,2020-05-12T08:43:58Z,8,6,MERGED
+storybook,Addon-docs: Dynamic Source rendering for React,https://github.com/storybookjs/storybook/pull/11332,2020-06-27T02:19:24Z,2020-06-30T15:04:48Z,6,21,MERGED
+storybook,Set viewMode to story when calling selectStory from non story pages,https://github.com/storybookjs/storybook/pull/11317,2020-06-25T17:56:17Z,2020-06-25T19:01:24Z,0,1,MERGED
+storybook,ArgsTable: Updated Boolean control,https://github.com/storybookjs/storybook/pull/11263,2020-06-22T23:40:47Z,2020-06-23T07:05:36Z,0,10,MERGED
+storybook,React: Load root tsconfig.json into docgen-typescript if none provided,https://github.com/storybookjs/storybook/pull/11184,2020-06-16T01:28:34Z,2020-06-17T10:06:37Z,5,2,MERGED
+storybook,Addon-docs: Add syntax highlighting to Code and Description blocks,https://github.com/storybookjs/storybook/pull/11183,2020-06-16T00:42:06Z,2020-06-16T05:57:25Z,4,1,MERGED
+storybook,React: Switch react-docgen-typescript-loader to react-docgen-typescript-plugin,https://github.com/storybookjs/storybook/pull/11106,2020-06-09T21:28:23Z,2020-06-11T11:29:46Z,18,3,MERGED
+storybook,Expose addon title as a function in the interface + add number of knobs,https://github.com/storybookjs/storybook/pull/11075,2020-06-07T21:11:37Z,2020-06-08T10:00:05Z,3,8,MERGED
+storybook,Addons: extract ArgTypes consistently,https://github.com/storybookjs/storybook/pull/11068,2020-06-06T20:39:50Z,2021-07-19T13:49:07Z,9,2,CLOSED
+storybook,feat: add skip to content on panel and story iframe,https://github.com/storybookjs/storybook/pull/11066,2020-06-06T15:48:14Z,2020-07-28T09:20:57Z,11,2,MERGED
+storybook,Controls: Fix null entry in options array handling,https://github.com/storybookjs/storybook/pull/11048,2020-06-04T21:35:51Z,2020-06-05T08:59:37Z,0,1,MERGED
+storybook,UI: Improve treestate performance,https://github.com/storybookjs/storybook/pull/11725,2020-07-29T16:31:19Z,2020-07-29T17:09:38Z,0,2,MERGED
+storybook,FIX the color of the menu separator,https://github.com/storybookjs/storybook/pull/11564,2020-07-15T13:11:26Z,2020-07-20T11:12:37Z,5,11,MERGED
+storybook,docs(MIGRATION): update hierarchy separator section,https://github.com/storybookjs/storybook/pull/11557,2020-07-15T10:37:44Z,2020-07-15T10:39:06Z,0,1,MERGED
+storybook,remove z-index on ActionBar,https://github.com/storybookjs/storybook/pull/11502,2020-07-10T18:09:33Z,2020-07-15T09:12:20Z,7,1,MERGED
+storybook,Composition: Don't show versions dropdown if there are no versions,https://github.com/storybookjs/storybook/pull/11497,2020-07-10T14:47:42Z,2020-07-11T08:20:07Z,0,1,MERGED
+storybook,UI: Increase max-height of menu tooltip so scrollbars don't appear,https://github.com/storybookjs/storybook/pull/11471,2020-07-08T19:28:39Z,2020-07-10T02:27:09Z,0,1,MERGED
+storybook,UI: Fix menu alignment regression,https://github.com/storybookjs/storybook/pull/11469,2020-07-08T18:33:39Z,2020-07-10T13:54:00Z,0,1,MERGED
+storybook,Update README.md,https://github.com/storybookjs/storybook/pull/11454,2020-07-07T22:30:44Z,2020-07-07T22:56:10Z,0,1,MERGED
+storybook,UI: Add close button to version update notification,https://github.com/storybookjs/storybook/pull/12320,2020-08-30T10:31:33Z,2020-10-21T17:44:23Z,25,19,MERGED
+storybook,Build: Speed up CI checks,https://github.com/storybookjs/storybook/pull/12315,2020-08-29T19:26:17Z,2020-10-07T03:37:26Z,15,20,MERGED
+storybook,Broken link in documentation about DocsPage,https://github.com/storybookjs/storybook/pull/12309,2020-08-29T14:11:36Z,2020-09-02T09:47:52Z,0,1,MERGED
+storybook,Source-loader: Generate sourcemaps,https://github.com/storybookjs/storybook/pull/12277,2020-08-27T09:38:32Z,2020-10-07T03:08:16Z,6,1,MERGED
+storybook,Fix indents/line breaks in code exmaples,https://github.com/storybookjs/storybook/pull/12197,2020-08-22T20:59:54Z,2020-08-22T21:19:26Z,0,1,MERGED
+storybook,Consistent Link Breaks in Code Examples,https://github.com/storybookjs/storybook/pull/12196,2020-08-22T20:52:29Z,2020-08-22T21:21:05Z,0,1,MERGED
+storybook,Replace slack broken link with community,https://github.com/storybookjs/storybook/pull/12182,2020-08-21T09:02:17Z,2020-08-21T13:39:07Z,0,2,MERGED
+storybook,Addon-docs: Fix missing line-height on TypeSet block,https://github.com/storybookjs/storybook/pull/12134,2020-08-19T13:44:33Z,2020-09-05T01:34:48Z,2,1,MERGED
+storybook,Source-loader: Fix default exports of type TSAsExpression,https://github.com/storybookjs/storybook/pull/12099,2020-08-18T06:06:03Z,2020-08-19T02:50:19Z,2,2,MERGED
+storybook,Updated docs/theming.md to have correct links to Storybook Docs,https://github.com/storybookjs/storybook/pull/12068,2020-08-17T02:38:24Z,2020-08-17T08:47:27Z,0,1,MERGED
+storybook,Fix docs for panelPosition / initialActive options,https://github.com/storybookjs/storybook/pull/12066,2020-08-16T20:35:52Z,2020-08-17T12:23:33Z,0,1,MERGED
+storybook,Vue: Add support for tsx,https://github.com/storybookjs/storybook/pull/11936,2020-08-12T12:38:41Z,2021-07-19T13:44:30Z,2,2,MERGED
+storybook,UI: update upgrade command in about section,https://github.com/storybookjs/storybook/pull/11934,2020-08-12T12:38:27Z,2020-08-14T09:28:22Z,0,1,MERGED
+storybook,Core: Decrease middleware priority to align with webpack-dev-server,https://github.com/storybookjs/storybook/pull/11917,2020-08-12T07:15:08Z,2021-05-28T07:26:37Z,6,1,CLOSED
+storybook,Fix malformed markdown in 6.0 documentation that was causing bugs,https://github.com/storybookjs/storybook/pull/11880,2020-08-11T02:13:42Z,2020-08-11T02:15:10Z,0,1,MERGED
+storybook,ArgsTable: Fix styles to allow long text to wrap,https://github.com/storybookjs/storybook/pull/11818,2020-08-05T21:58:17Z,2020-08-17T13:24:54Z,3,1,MERGED
+storybook,UI: Fullscreen toggle does not work when all panels are collapsed,https://github.com/storybookjs/storybook/pull/11810,2020-08-05T06:17:27Z,2020-10-15T09:14:11Z,10,14,MERGED
+storybook,do not use zoom on docs content,https://github.com/storybookjs/storybook/pull/11795,2020-08-04T13:19:25Z,2020-08-04T17:15:42Z,0,1,MERGED
+storybook,Addon-docs: Fix link font size to inherit,https://github.com/storybookjs/storybook/pull/11770,2020-08-03T12:04:39Z,2020-08-03T13:05:22Z,0,1,MERGED
+storybook,"Addon-docs: Prettier, collapsible values in ArgsTable",https://github.com/storybookjs/storybook/pull/11768,2020-08-03T08:50:48Z,2020-08-05T09:18:58Z,5,3,MERGED
+storybook,Core: Fix babel-loader path resolution,https://github.com/storybookjs/storybook/pull/12536,2020-09-21T19:20:23Z,2020-10-06T18:34:32Z,5,1,MERGED
+storybook,Core: Add `prefix` customization for navigation items,https://github.com/storybookjs/storybook/pull/12521,2020-09-19T20:50:49Z,2020-11-15T13:31:02Z,8,1,CLOSED
+storybook,Addon-controls: Update style of Boolean control,https://github.com/storybookjs/storybook/pull/12515,2020-09-18T15:07:38Z,2020-09-19T15:07:11Z,13,4,MERGED
+storybook,Fix typo in remote storybook example,https://github.com/storybookjs/storybook/pull/12488,2020-09-15T21:31:12Z,2020-09-15T21:45:14Z,1,1,MERGED
+storybook,Addon-controls: Default to radio control for small enums,https://github.com/storybookjs/storybook/pull/12436,2020-09-09T23:01:17Z,2020-09-10T00:07:34Z,0,2,MERGED
+storybook,"Revert ""Addon-docs: Reuse extractSource from source-loader""",https://github.com/storybookjs/storybook/pull/12422,2020-09-08T13:44:04Z,2020-09-09T23:30:08Z,2,1,CLOSED
+storybook,Addon-docs: Add Methods to web components ArgsTable,https://github.com/storybookjs/storybook/pull/12413,2020-09-08T10:14:56Z,2020-09-08T10:44:33Z,0,1,MERGED
+storybook,Compile addons/lib in both CJS/ESM + Enable lazy loading for some larger components,https://github.com/storybookjs/storybook/pull/12406,2020-09-08T01:11:29Z,2021-04-29T15:36:54Z,23,11,CLOSED
+storybook,Components: Add graphql support to SyntaxHighlighter,https://github.com/storybookjs/storybook/pull/12385,2020-09-04T17:08:54Z,2020-09-10T15:27:14Z,1,2,MERGED
+storybook,Addon-backgrounds: Add docs support and extend grid configuration,https://github.com/storybookjs/storybook/pull/12368,2020-09-03T09:23:01Z,2020-09-25T09:05:29Z,13,17,MERGED
+storybook,Addon-docs: Introduce undefined filtering to jsxDecorator,https://github.com/storybookjs/storybook/pull/12365,2020-09-03T01:44:20Z,2020-09-08T09:09:36Z,2,3,MERGED
+storybook,Fix syntax error in docs on DocsPage,https://github.com/storybookjs/storybook/pull/12889,2020-10-23T17:08:49Z,2020-10-24T13:38:25Z,1,1,MERGED
+storybook,fix:snapshots-testing doc's mdx,https://github.com/storybookjs/storybook/pull/12885,2020-10-23T12:54:59Z,2020-10-24T13:38:02Z,1,1,MERGED
+storybook,Addon-docs: Fix newline handling in ArgsTable code blocks,https://github.com/storybookjs/storybook/pull/12882,2020-10-23T10:45:39Z,2021-08-20T05:50:17Z,13,7,MERGED
+storybook,Addon-viewport: Fill entire iframe width with drop shadow,https://github.com/storybookjs/storybook/pull/12870,2020-10-22T20:08:36Z,2020-10-23T10:56:54Z,1,1,MERGED
+storybook,Composition: Filter out disabled refs in getAutoRefs,https://github.com/storybookjs/storybook/pull/12863,2020-10-22T09:05:34Z,2020-12-01T10:03:41Z,4,7,MERGED
+storybook,Addon-docs: Fix Preview scaling with transform instead of zoom,https://github.com/storybookjs/storybook/pull/12845,2020-10-21T10:06:51Z,2020-11-19T01:36:29Z,13,19,MERGED
+storybook,docs: add vue/page-story.js,https://github.com/storybookjs/storybook/pull/12815,2020-10-18T21:13:40Z,2020-10-22T02:52:22Z,2,2,MERGED
+storybook,Addon-a11y: Add blurred vision effect,https://github.com/storybookjs/storybook/pull/12731,2020-10-10T18:25:25Z,2020-10-11T17:48:27Z,3,1,MERGED
+storybook,Enhance the backgrounds addon to support CSS variables.,https://github.com/storybookjs/storybook/pull/12663,2020-10-04T11:12:02Z,2021-08-02T15:08:54Z,11,7,CLOSED
+storybook,Addon-docs: Fix line-height in Typeset,https://github.com/storybookjs/storybook/pull/12643,2020-10-01T18:02:55Z,2020-10-14T16:02:23Z,4,1,CLOSED
+storybook,CLI: Fix not printing managerTotalTime when using cached manager,https://github.com/storybookjs/storybook/pull/13294,2020-11-26T13:16:46Z,2020-11-26T14:50:49Z,3,2,MERGED
+storybook,Core: Clear manager cache on runtime error,https://github.com/storybookjs/storybook/pull/13230,2020-11-23T18:51:56Z,2020-11-23T23:43:38Z,1,4,MERGED
+storybook,CLI: Replace inquirer with prompts,https://github.com/storybookjs/storybook/pull/13225,2020-11-23T14:24:22Z,2020-12-04T06:42:44Z,7,8,MERGED
+storybook,UI: Fix lineheight in typeset component,https://github.com/storybookjs/storybook/pull/13205,2020-11-21T20:21:24Z,2020-11-23T00:27:19Z,0,1,MERGED
+storybook,Fix incorrect component reference in angular-cli example,https://github.com/storybookjs/storybook/pull/13162,2020-11-18T18:17:28Z,2020-11-18T18:45:50Z,0,1,MERGED
+storybook,Build: reduce job parallelism to 4 ,https://github.com/storybookjs/storybook/pull/13140,2020-11-16T19:56:44Z,2020-11-19T14:55:43Z,3,1,MERGED
+storybook,Core: Add `renderLabel` to customize sidebar tree labels,https://github.com/storybookjs/storybook/pull/13121,2020-11-15T13:30:42Z,2021-03-01T14:44:23Z,17,5,MERGED
+storybook,UI: Fix tree highlight performance,https://github.com/storybookjs/storybook/pull/13095,2020-11-12T14:43:51Z,2020-11-12T17:05:53Z,2,7,MERGED
+storybook,UI: Fix kebab-case CSS property error,https://github.com/storybookjs/storybook/pull/13090,2020-11-11T19:29:33Z,2020-11-12T10:06:26Z,0,1,MERGED
+storybook,UI: Fix search field styling in Safari 13,https://github.com/storybookjs/storybook/pull/13070,2020-11-10T10:23:05Z,2020-11-10T23:25:39Z,3,1,MERGED
+storybook,Angular: Fix storyData handling on module update,https://github.com/storybookjs/storybook/pull/13037,2020-11-06T22:25:58Z,2020-11-09T10:29:47Z,1,1,MERGED
+storybook,Search styling tweaks,https://github.com/storybookjs/storybook/pull/13036,2020-11-06T15:41:44Z,2020-11-08T12:45:23Z,2,6,MERGED
+storybook,UI: Fixes for Sidebar and Search,https://github.com/storybookjs/storybook/pull/13027,2020-11-05T20:50:59Z,2020-11-06T13:28:39Z,4,12,MERGED
+storybook,UI: Fix icon for addon panel orientation button,https://github.com/storybookjs/storybook/pull/13026,2020-11-05T20:46:16Z,2020-11-05T23:11:57Z,0,1,MERGED
+storybook,addon-docs: Added a button to refresh component,https://github.com/storybookjs/storybook/pull/13024,2020-11-05T19:18:59Z,2022-06-30T13:58:27Z,7,3,CLOSED
+storybook,"Core: Fix possible ""write after end"" exception for response stream",https://github.com/storybookjs/storybook/pull/13007,2020-11-04T02:10:51Z,2020-11-06T13:24:07Z,4,3,MERGED
+storybook,Core: Add STORYBOOK environment variable,https://github.com/storybookjs/storybook/pull/12997,2020-11-03T11:11:33Z,2020-11-04T23:33:45Z,7,2,MERGED
+storybook,Addon-docs: Use theme text color header anchors,https://github.com/storybookjs/storybook/pull/13533,2020-12-29T04:04:02Z,2020-12-30T05:13:09Z,2,1,MERGED
+storybook,CLI: fix sb init prompt when framework type is undetected,https://github.com/storybookjs/storybook/pull/13520,2020-12-26T23:41:25Z,2021-01-13T20:40:26Z,3,8,MERGED
+storybook,Misc: clean dependencies in apps and addons,https://github.com/storybookjs/storybook/pull/13442,2020-12-13T20:00:54Z,2021-01-21T19:12:54Z,2,2,CLOSED
+storybook,Core: Fix `modulesCount` cache storage and retrieval,https://github.com/storybookjs/storybook/pull/13431,2020-12-11T10:40:56Z,2020-12-11T13:16:36Z,0,1,MERGED
+storybook,Core: Generate bundle size report for prebuilt manager,https://github.com/storybookjs/storybook/pull/13425,2020-12-10T22:50:20Z,2020-12-11T09:30:00Z,3,2,MERGED
+storybook,UI: Fix display of custom brand image,https://github.com/storybookjs/storybook/pull/13355,2020-12-01T21:56:30Z,2020-12-04T01:28:13Z,3,4,MERGED
+storybook,CLI: Add try/catch on readFileAsJson to improve error message,https://github.com/storybookjs/storybook/pull/13730,2021-01-26T13:19:34Z,2021-02-02T00:52:41Z,2,3,MERGED
+storybook,CLI: Add safe check for eslint overrides,https://github.com/storybookjs/storybook/pull/13717,2021-01-23T11:14:23Z,2021-02-15T00:26:28Z,0,1,MERGED
+storybook,Addon-backgrounds: Respect user's reduced motion settings,https://github.com/storybookjs/storybook/pull/13711,2021-01-22T17:33:46Z,2021-07-13T15:11:23Z,2,1,MERGED
+storybook,UI: Fix shortcut button focus border to support high contrast,https://github.com/storybookjs/storybook/pull/13699,2021-01-21T19:44:30Z,2021-02-25T09:33:02Z,7,6,MERGED
+storybook,Addon-controls: Infer color and date controls,https://github.com/storybookjs/storybook/pull/13675,2021-01-19T20:06:21Z,2021-02-14T16:47:18Z,4,5,MERGED
+storybook,Core: Throw an error for invalid story format,https://github.com/storybookjs/storybook/pull/13673,2021-01-19T19:46:31Z,2021-01-22T04:12:28Z,0,1,MERGED
+storybook,Addon-actions: Normalize args,https://github.com/storybookjs/storybook/pull/13624,2021-01-12T23:13:27Z,2021-01-14T13:16:18Z,1,1,MERGED
+storybook,docs (toolbars and globals): fixes an error in the documentation example,https://github.com/storybookjs/storybook/pull/13601,2021-01-11T14:05:57Z,2021-07-13T19:41:25Z,2,1,CLOSED
+storybook,Angular: Properly handle empty tsconfig compilerOptions,https://github.com/storybookjs/storybook/pull/13596,2021-01-10T01:00:40Z,2021-01-21T19:12:00Z,1,1,MERGED
+storybook,"Lower z-index on ""Show code"" button",https://github.com/storybookjs/storybook/pull/14074,2021-02-26T20:57:39Z,2021-08-16T19:13:13Z,6,2,CLOSED
+storybook,Chore: (Docs) Renames the vue snippets file names,https://github.com/storybookjs/storybook/pull/14039,2021-02-24T18:02:51Z,2021-02-24T22:38:16Z,5,1,MERGED
+storybook,Angular: Correctly destroy angular application between each render,https://github.com/storybookjs/storybook/pull/13956,2021-02-18T18:55:14Z,2021-02-20T13:31:12Z,2,1,MERGED
+storybook,Addon-controls: Conditional arg disabling,https://github.com/storybookjs/storybook/pull/13890,2021-02-12T18:50:40Z,2021-07-12T15:23:18Z,10,12,CLOSED
+storybook,Angular: Clean and improve angular-cli examples,https://github.com/storybookjs/storybook/pull/13886,2021-02-12T11:06:28Z,2021-02-15T12:54:20Z,10,25,MERGED
+storybook,Build: Move all the `yarn install` in the `build` CI job,https://github.com/storybookjs/storybook/pull/13872,2021-02-11T08:11:57Z,2021-02-12T07:42:29Z,1,2,MERGED
+storybook,CLI: Add `--build-only` option to `start-storybook` (useful to warm up the cache),https://github.com/storybookjs/storybook/pull/13798,2021-02-03T02:18:31Z,2021-02-17T00:23:51Z,5,1,CLOSED
+storybook,fix(ui): use theme input color for search focus bg,https://github.com/storybookjs/storybook/pull/13792,2021-02-02T17:29:47Z,2021-02-15T10:18:36Z,2,1,CLOSED
+storybook,UI: Boolean control change for UI Fix toggle button,https://github.com/storybookjs/storybook/pull/14408,2021-03-31T07:04:40Z,2021-05-07T08:59:49Z,1,2,MERGED
+storybook,Publish Storybook Docs: Raise warning about overwriting,https://github.com/storybookjs/storybook/pull/14309,2021-03-22T23:22:08Z,2021-07-15T22:08:52Z,1,1,MERGED
+storybook,UI: Element em should not make text content bold,https://github.com/storybookjs/storybook/pull/14290,2021-03-21T03:28:45Z,2021-03-22T01:12:06Z,0,1,MERGED
+storybook,Addon-docs: Fix table dark mode,https://github.com/storybookjs/storybook/pull/14251,2021-03-17T03:29:48Z,2021-03-18T10:23:12Z,6,2,MERGED
+storybook,Docs: Add spaces for snippet,https://github.com/storybookjs/storybook/pull/14250,2021-03-16T20:22:26Z,2021-03-17T01:51:24Z,0,1,MERGED
+storybook,Addon-controls: Improve color picker UI and migrate to react-colorful,https://github.com/storybookjs/storybook/pull/14249,2021-03-16T19:08:50Z,2021-03-20T08:43:06Z,12,10,MERGED
+storybook,Controls: Fix width of Select control,https://github.com/storybookjs/storybook/pull/14154,2021-03-05T18:45:53Z,2021-03-11T10:54:22Z,0,1,MERGED
+storybook,Use Storybook's built-in accessibility icon for VisionDeficiency tab.,https://github.com/storybookjs/storybook/pull/14681,2021-04-21T16:02:32Z,2021-04-22T03:57:23Z,1,1,MERGED
+storybook,Addon-docs: Fix ArgsTable sorting when using of={Component},https://github.com/storybookjs/storybook/pull/14669,2021-04-20T17:39:47Z,2021-04-21T02:30:56Z,1,1,MERGED
+storybook,Examples: Move from placehold.it to place-hold.it for mock images,https://github.com/storybookjs/storybook/pull/14637,2021-04-17T12:29:00Z,2021-04-17T12:52:18Z,1,1,MERGED
+storybook,CLI: Add repro/link commands for creating/running reproductions,https://github.com/storybookjs/storybook/pull/14594,2021-04-14T13:49:56Z,2021-05-11T07:41:53Z,3,34,MERGED
+storybook,Core: Fix URL handling in Firefox,https://github.com/storybookjs/storybook/pull/14556,2021-04-12T09:29:39Z,2021-04-23T00:30:26Z,1,2,MERGED
+storybook,docs: add angular code snippet for using args,https://github.com/storybookjs/storybook/pull/14532,2021-04-09T11:57:05Z,2021-04-13T00:39:03Z,1,1,MERGED
+storybook,Addon-a11y: Fix broken highlight result styles,https://github.com/storybookjs/storybook/pull/14528,2021-04-08T22:29:04Z,2022-06-30T20:07:10Z,8,1,CLOSED
+storybook,Addon-docs: Fix MD code snippet format inside Description,https://github.com/storybookjs/storybook/pull/14495,2021-04-07T01:16:03Z,2021-04-16T16:16:10Z,1,2,MERGED
+storybook,Core: Fix file-loader options for ESM compat,https://github.com/storybookjs/storybook/pull/14480,2021-04-05T11:57:06Z,2021-04-05T14:18:28Z,1,2,MERGED
+storybook,Addon-docs/Angular: Keep inlineStories to false by default,https://github.com/storybookjs/storybook/pull/14447,2021-04-02T07:27:18Z,2021-04-02T09:28:48Z,0,1,MERGED
+storybook,Addon-docs: Add transparency support to color swatch,https://github.com/storybookjs/storybook/pull/14439,2021-04-01T13:39:15Z,2021-07-14T04:11:40Z,9,10,MERGED
+storybook,Core: Add typings for globalTypes,https://github.com/storybookjs/storybook/pull/15088,2021-05-29T06:34:59Z,2023-01-13T11:21:38Z,15,4,CLOSED
+storybook,UI: Align text and icon in sidebar tree nodes,https://github.com/storybookjs/storybook/pull/15080,2021-05-28T17:25:29Z,2022-01-10T17:05:53Z,10,1,CLOSED
+storybook,Addon-docs: Fix source block tree shaking,https://github.com/storybookjs/storybook/pull/15035,2021-05-25T15:53:25Z,2021-05-25T16:26:46Z,4,1,MERGED
+storybook,UI: introduce theme colors for bar icon buttons,https://github.com/storybookjs/storybook/pull/14971,2021-05-18T03:40:31Z,2021-06-17T10:03:23Z,2,3,CLOSED
+storybook,Core: Support modern browser target,https://github.com/storybookjs/storybook/pull/14954,2021-05-17T10:03:25Z,2021-05-17T12:41:12Z,4,4,MERGED
+storybook,Addon-a11y: Highlight all elements correctly,https://github.com/storybookjs/storybook/pull/14935,2021-05-14T14:21:11Z,2021-05-25T12:53:27Z,2,1,MERGED
+storybook,UI: Provide option to hide default toolbar tools,https://github.com/storybookjs/storybook/pull/14897,2021-05-12T01:30:18Z,2021-05-17T14:41:04Z,7,8,MERGED
+storybook,Addon-actions: Display DOM Event/CustomEvent data,https://github.com/storybookjs/storybook/pull/14879,2021-05-10T16:50:42Z,2021-05-11T05:23:09Z,2,1,MERGED
+storybook,Core: Single story option in iframe view ,https://github.com/storybookjs/storybook/pull/14875,2021-05-10T14:09:57Z,2021-05-19T00:51:14Z,4,11,MERGED
+storybook,Accessibility: Adds title to close button on settings page,https://github.com/storybookjs/storybook/pull/14808,2021-05-04T21:22:15Z,2021-05-05T04:14:11Z,3,1,MERGED
+storybook,UI: Fix tab display when there is only one tab,https://github.com/storybookjs/storybook/pull/14790,2021-05-04T03:40:55Z,2021-05-11T05:36:17Z,4,2,MERGED
+storybook,Documentation: change table to list,https://github.com/storybookjs/storybook/pull/15396,2021-06-28T13:03:50Z,2021-06-28T15:26:42Z,2,1,MERGED
+storybook,docs: remove unnecessary character,https://github.com/storybookjs/storybook/pull/15393,2021-06-28T04:47:50Z,2021-06-28T07:31:39Z,1,1,MERGED
+storybook,docs: fix a minor typo,https://github.com/storybookjs/storybook/pull/15361,2021-06-25T10:22:41Z,2021-06-30T07:26:12Z,1,1,MERGED
+storybook,Controls: Fix boolean toggle style to match underlying value,https://github.com/storybookjs/storybook/pull/15676,2021-07-24T22:57:19Z,2021-07-25T07:52:07Z,3,1,MERGED
+storybook,Addon-backgrounds: Add inital color to globals,https://github.com/storybookjs/storybook/pull/15640,2021-07-20T19:19:19Z,2021-07-29T21:47:32Z,4,1,CLOSED
+storybook,#15509: Copy Canvas Link URL Fix - Include Main Base URL,https://github.com/storybookjs/storybook/pull/15604,2021-07-16T09:22:24Z,2022-06-30T10:15:46Z,7,1,CLOSED
+storybook,Build: Fix `publish` step on CircleCI,https://github.com/storybookjs/storybook/pull/15556,2021-07-12T18:53:02Z,2021-07-13T01:49:03Z,4,4,MERGED
+storybook,fix: shortcut for navigating to previous language in official-storybook example,https://github.com/storybookjs/storybook/pull/15489,2021-07-05T23:14:00Z,2021-07-06T15:55:42Z,1,1,MERGED
+storybook,UI: Fix toggle button for custom theming,https://github.com/storybookjs/storybook/pull/15449,2021-07-01T08:27:04Z,2021-07-12T03:49:19Z,6,6,MERGED
+storybook,UI: Add playback icons,https://github.com/storybookjs/storybook/pull/15909,2021-08-24T22:00:26Z,2021-08-25T14:47:06Z,1,1,MERGED
+storybook,Addon-docs: Fix refs support in Docs pages,https://github.com/storybookjs/storybook/pull/15890,2021-08-20T14:00:54Z,2021-08-23T13:36:40Z,1,3,MERGED
+storybook,fix(build): avoid logging an object on compilation errors,https://github.com/storybookjs/storybook/pull/15885,2021-08-20T03:41:47Z,2022-06-30T09:06:10Z,8,3,MERGED
+storybook,Chore: (Docs) Adds the animation for the backgrounds addon,https://github.com/storybookjs/storybook/pull/15837,2021-08-12T17:29:15Z,2021-08-13T22:26:54Z,2,1,MERGED
+storybook,UI: Add skip to canvas/sidebar links,https://github.com/storybookjs/storybook/pull/15740,2021-08-03T04:05:17Z,2021-08-20T16:50:39Z,23,22,MERGED
+storybook,"CLI: Add ""automigrate"" command for configuration issues and migrations",https://github.com/storybookjs/storybook/pull/16193,2021-09-29T18:13:10Z,2021-10-06T13:56:28Z,14,21,MERGED
+storybook,Better scope sample page component styles,https://github.com/storybookjs/storybook/pull/16185,2021-09-28T21:41:38Z,2021-09-30T17:45:15Z,1,1,MERGED
+storybook,Update install docs,https://github.com/storybookjs/storybook/pull/16182,2021-09-28T18:24:03Z,2021-09-28T19:14:28Z,2,1,MERGED
+storybook,Addon-a11y: Fix type of context passed to `axe.run`,https://github.com/storybookjs/storybook/pull/16129,2021-09-22T17:49:31Z,2021-10-04T15:24:41Z,4,1,MERGED
+storybook,feat: add rewind button to interactions subnav,https://github.com/storybookjs/storybook/pull/16042,2021-09-14T11:12:00Z,2021-09-15T12:00:59Z,2,4,MERGED
+storybook,Vue: support @values in args table,https://github.com/storybookjs/storybook/pull/16019,2021-09-12T13:17:42Z,2021-10-05T01:26:15Z,6,5,MERGED
+storybook,Main.js config: Fix Builder type,https://github.com/storybookjs/storybook/pull/16013,2021-09-11T08:08:50Z,2021-09-16T11:08:39Z,7,2,MERGED
+storybook,Core: Add 'staticDirs' config option,https://github.com/storybookjs/storybook/pull/15969,2021-09-02T16:54:39Z,2021-11-04T10:21:34Z,23,25,MERGED
+storybook,CLI: Show framework name in startup banner,https://github.com/storybookjs/storybook/pull/15966,2021-09-02T15:02:54Z,2021-09-07T01:27:41Z,8,1,MERGED
+storybook,Addon-actions: Omit sending window object thru the channel,https://github.com/storybookjs/storybook/pull/16514,2021-10-28T23:47:17Z,2021-11-12T08:52:17Z,2,2,MERGED
+storybook,Core: Improve webpack chunk names,https://github.com/storybookjs/storybook/pull/16513,2021-10-28T22:15:28Z,2021-11-02T03:41:47Z,14,3,MERGED
+storybook,UI: Improve WithTooltip contrast and positioning,https://github.com/storybookjs/storybook/pull/16510,2021-10-28T17:57:48Z,2021-10-28T23:11:39Z,1,2,MERGED
+storybook,Addon-interactions: Add safety check on fileName parameter,https://github.com/storybookjs/storybook/pull/16454,2021-10-22T17:27:15Z,2021-10-23T16:08:41Z,7,1,MERGED
+storybook,CLI: Improve build-storybooks script in the monorepo,https://github.com/storybookjs/storybook/pull/16433,2021-10-21T09:44:20Z,2021-10-21T10:43:07Z,1,3,MERGED
+storybook,UI: Update the toolbar button styles,https://github.com/storybookjs/storybook/pull/16429,2021-10-20T20:10:23Z,2021-10-29T14:11:32Z,8,12,MERGED
+storybook,Chore: (Docs) Writing tests updates,https://github.com/storybookjs/storybook/pull/16425,2021-10-20T15:05:42Z,2021-10-27T17:01:38Z,3,7,MERGED
+storybook,UI: Update mono font stack,https://github.com/storybookjs/storybook/pull/16409,2021-10-19T20:52:01Z,2021-10-21T00:46:14Z,1,2,MERGED
+storybook,UI: Update sidebar hover color to be a refreshing transparent blue,https://github.com/storybookjs/storybook/pull/16408,2021-10-19T20:29:04Z,2021-10-21T00:44:50Z,3,1,MERGED
+storybook,Addon-interactions: Update interaction hover icon,https://github.com/storybookjs/storybook/pull/16388,2021-10-18T11:26:55Z,2021-10-19T13:42:19Z,5,4,MERGED
+storybook,UI: Fix scrollbar color to be visible in dark theme,https://github.com/storybookjs/storybook/pull/16345,2021-10-13T22:13:23Z,2021-10-16T13:57:38Z,7,2,MERGED
+storybook,Core: Add Story Index error handling,https://github.com/storybookjs/storybook/pull/16319,2021-10-12T12:39:18Z,2021-10-13T01:06:42Z,2,4,MERGED
+storybook,Addons: Add webpack-env as dependency,https://github.com/storybookjs/storybook/pull/16302,2021-10-11T14:16:02Z,2021-10-11T14:37:39Z,1,1,MERGED
+storybook,Angular: update addon interactions example,https://github.com/storybookjs/storybook/pull/16698,2021-11-16T11:35:46Z,2021-11-17T15:55:14Z,3,2,MERGED
+storybook,Inherit anchor colour for a > code blocks,https://github.com/storybookjs/storybook/pull/16678,2021-11-13T12:39:15Z,2022-06-06T07:33:35Z,5,1,CLOSED
+storybook,UI: Remove `nopreview` and show redbox for any story error,https://github.com/storybookjs/storybook/pull/16669,2021-11-12T09:47:40Z,2021-11-12T13:28:58Z,2,2,MERGED
+storybook,Core: Change CSF loading problems from warning to error,https://github.com/storybookjs/storybook/pull/16632,2021-11-08T05:26:22Z,2021-11-08T09:56:30Z,2,1,MERGED
+storybook,Remove react from package.json,https://github.com/storybookjs/storybook/pull/16629,2021-11-08T01:04:05Z,2021-11-08T02:56:03Z,3,1,CLOSED
+storybook,Angular 13.0.0 working version,https://github.com/storybookjs/storybook/pull/16619,2021-11-05T22:09:19Z,2021-11-09T10:00:34Z,4,1,CLOSED
+storybook,Core: Update behavior around missing stories to be more clear,https://github.com/storybookjs/storybook/pull/16608,2021-11-05T04:18:41Z,2021-11-05T17:48:59Z,1,1,MERGED
+storybook,Interactions: Use Icon button and add disabled state to IconButton,https://github.com/storybookjs/storybook/pull/16601,2021-11-04T21:34:28Z,2021-11-11T16:56:13Z,2,2,MERGED
+storybook,Interactions: Show exceptions by non-instrumented code in panel,https://github.com/storybookjs/storybook/pull/16592,2021-11-04T14:41:02Z,2022-07-06T09:32:02Z,15,27,MERGED
+storybook,Add handle-release-branches-workflow,https://github.com/storybookjs/storybook/pull/16580,2021-11-03T19:50:18Z,2021-11-11T16:23:07Z,12,1,MERGED
+storybook,Interactions: Fix panel tab icon/count,https://github.com/storybookjs/storybook/pull/16578,2021-11-03T16:36:10Z,2021-11-03T20:14:12Z,5,2,MERGED
+storybook,"Show ""Loading..."" while switching between async stories",https://github.com/storybookjs/storybook/pull/16539,2021-11-01T06:23:52Z,2021-11-09T14:51:35Z,2,1,CLOSED
+storybook,Fix converting enum type for number literal,https://github.com/storybookjs/storybook/pull/17102,2021-12-31T08:07:09Z,2022-07-02T15:27:40Z,4,1,CLOSED
+storybook,Re-arrange docs for the new /sharing section,https://github.com/storybookjs/storybook/pull/17074,2021-12-23T20:44:29Z,2021-12-24T16:27:29Z,1,10,MERGED
+storybook,CLI: Improve `sb repro` directory prompt,https://github.com/storybookjs/storybook/pull/16854,2021-12-01T12:50:08Z,2021-12-01T13:20:06Z,1,1,MERGED
+storybook,Angular: Retrieve version from core package,https://github.com/storybookjs/storybook/pull/17363,2022-01-28T16:43:26Z,2022-01-29T06:23:23Z,1,1,MERGED
+storybook,WIP: Add element highlight to addon interactions,https://github.com/storybookjs/storybook/pull/17324,2022-01-24T16:30:19Z,2022-07-13T10:13:43Z,6,2,CLOSED
+storybook,Web components: add addon-interactions example story,https://github.com/storybookjs/storybook/pull/17303,2022-01-20T16:51:48Z,2022-01-31T14:40:10Z,1,1,MERGED
+storybook,CLI: Force use of NPM during bootstrap of CRA repros,https://github.com/storybookjs/storybook/pull/17284,2022-01-19T11:05:55Z,2022-02-17T21:01:47Z,4,2,CLOSED
+storybook,Misc: Update Storybook repros repository with diff only,https://github.com/storybookjs/storybook/pull/17278,2022-01-18T21:27:21Z,2022-09-13T18:45:01Z,2,1,CLOSED
+storybook,Chore: Updates the how to reproduce docs,https://github.com/storybookjs/storybook/pull/17203,2022-01-11T20:00:57Z,2022-01-11T20:04:01Z,2,1,MERGED
+storybook,Build: Fix package.json warnings in JetBrains IDEs,https://github.com/storybookjs/storybook/pull/17184,2022-01-10T13:13:38Z,2022-01-10T14:57:33Z,1,3,MERGED
+storybook,Controls: Add conditional controls,https://github.com/storybookjs/storybook/pull/17536,2022-02-19T00:39:31Z,2022-03-23T07:21:49Z,24,11,MERGED
+storybook,"UI: Include full URL in the ""Copy Canvas Link"" button",https://github.com/storybookjs/storybook/pull/17498,2022-02-13T14:38:26Z,2022-07-15T07:47:08Z,3,3,MERGED
+storybook,CLI: Add addon-interactions to angular template,https://github.com/storybookjs/storybook/pull/17437,2022-02-07T08:52:44Z,2022-02-09T18:59:50Z,2,3,MERGED
+storybook,Core: Ensure we show an error when `configure()` throws,https://github.com/storybookjs/storybook/pull/17435,2022-02-07T05:32:41Z,2022-02-07T08:00:21Z,2,1,MERGED
+storybook,Addon-links: Fix export statement in react.d.ts,https://github.com/storybookjs/storybook/pull/17434,2022-02-07T03:34:10Z,2022-02-07T15:22:05Z,1,1,MERGED
+storybook,Toolbars: Fall back to name if both title and icon are not specified,https://github.com/storybookjs/storybook/pull/17430,2022-02-06T12:10:38Z,2022-07-14T11:15:56Z,2,3,MERGED
+storybook,CLI: Pin version of `@mdx-js/react` to 1.x.x until we are compatible,https://github.com/storybookjs/storybook/pull/17395,2022-02-02T11:09:14Z,2022-02-02T11:33:09Z,2,1,MERGED
+storybook,Essentials: Add highlight addon,https://github.com/storybookjs/storybook/pull/17800,2022-03-25T14:04:21Z,2022-06-29T01:52:24Z,26,41,MERGED
+storybook,Toolbars: Add dynamicTitle option,https://github.com/storybookjs/storybook/pull/17789,2022-03-24T01:47:31Z,2022-04-28T02:30:46Z,4,3,MERGED
+storybook,Controls: Fix date control width in addons panel,https://github.com/storybookjs/storybook/pull/17780,2022-03-22T15:01:00Z,2022-04-04T15:08:33Z,1,1,MERGED
+storybook,UI: Fix root caret positioning,https://github.com/storybookjs/storybook/pull/17777,2022-03-22T04:17:08Z,2022-07-01T00:03:47Z,3,1,CLOSED
+storybook,Specify vertical positioning of skip link,https://github.com/storybookjs/storybook/pull/17756,2022-03-18T15:00:57Z,2023-01-13T11:17:38Z,7,5,CLOSED
+storybook,Fix nesting issue for refs in sidebar component,https://github.com/storybookjs/storybook/pull/17726,2022-03-16T05:35:12Z,2022-03-21T15:11:51Z,5,11,MERGED
+storybook,Fix: storybook sidebar component list issue,https://github.com/storybookjs/storybook/pull/17710,2022-03-14T19:13:44Z,2022-03-15T15:15:32Z,3,2,CLOSED
+storybook,CI: skip e2e-pnp,https://github.com/storybookjs/storybook/pull/17704,2022-03-14T08:31:59Z,2022-03-14T14:39:19Z,2,1,CLOSED
+storybook,Stop add-on Draggable from overlapping the vertical scrollbar when stories overflow,https://github.com/storybookjs/storybook/pull/17663,2022-03-08T14:56:59Z,2022-06-30T09:24:47Z,6,5,MERGED
+storybook,Interactions: Fix show length of object value on MethodCall,https://github.com/storybookjs/storybook/pull/17649,2022-03-07T16:12:54Z,2022-04-18T01:33:06Z,7,8,MERGED
+storybook,"UI: Move the ""Rerun interactions"" button to Subnav",https://github.com/storybookjs/storybook/pull/17647,2022-03-07T13:56:59Z,2022-04-21T10:01:42Z,20,8,MERGED
+storybook,fix invalid regexp error: added string escaping in interpolate function,https://github.com/storybookjs/storybook/pull/17634,2022-03-05T10:01:46Z,2022-07-02T16:35:26Z,9,1,CLOSED
+storybook,CLI: await generators for proper install,https://github.com/storybookjs/storybook/pull/18053,2022-04-25T15:50:42Z,2022-04-26T09:31:15Z,2,1,MERGED
+storybook,Fix typo in Annotation section,https://github.com/storybookjs/storybook/pull/17955,2022-04-13T19:19:09Z,2022-04-13T19:39:59Z,2,1,MERGED
+storybook,Vue/Vue3: Fix decorators in StoryStoreV7,https://github.com/storybookjs/storybook/pull/18375,2022-05-31T11:28:09Z,2022-06-01T09:39:26Z,5,6,MERGED
+storybook,docs(README): update version badges,https://github.com/storybookjs/storybook/pull/18363,2022-05-30T16:22:40Z,2022-06-06T15:19:58Z,1,1,MERGED
+storybook,UI: Fix sidebar a11y by moving aria-expanded attribute to button,https://github.com/storybookjs/storybook/pull/18354,2022-05-29T06:05:57Z,2022-06-28T21:19:53Z,2,1,MERGED
+storybook,[Fix] Broken code block storybook-main-enable-transcludemarkdown.js.mdx,https://github.com/storybookjs/storybook/pull/18353,2022-05-28T15:26:24Z,2022-05-29T04:08:16Z,2,1,MERGED
+storybook,Core: Fix node 18 ip support,https://github.com/storybookjs/storybook/pull/18330,2022-05-25T20:28:02Z,2022-05-27T03:56:00Z,1,1,MERGED
+storybook,"Revert ""security: update x-default-browser""",https://github.com/storybookjs/storybook/pull/18270,2022-05-19T14:04:28Z,2022-05-19T14:37:13Z,2,1,MERGED
+storybook,ArgsTable: Gracefully handle conditional args failures,https://github.com/storybookjs/storybook/pull/18248,2022-05-18T02:19:12Z,2022-05-18T02:50:39Z,1,1,MERGED
+storybook,Create frameworks & rename renderers,https://github.com/storybookjs/storybook/pull/18201,2022-05-11T16:39:23Z,2022-06-06T16:19:12Z,2,14,MERGED
+storybook,Future - Replace syntax highlighter in lib/components,https://github.com/storybookjs/storybook/pull/18146,2022-05-05T10:49:16Z,2022-08-22T09:46:30Z,5,3,CLOSED
+storybook,Addon-docs: Add docs index configuration via main.js,https://github.com/storybookjs/storybook/pull/18573,2022-06-26T12:07:18Z,2022-07-07T23:38:37Z,5,3,MERGED
+storybook,Interactions: Add `step` function and support multiple levels of nesting,https://github.com/storybookjs/storybook/pull/18555,2022-06-23T21:09:49Z,2022-08-19T14:51:21Z,25,51,MERGED
+storybook,Controls: Add parameter to control visibility of control groups,https://github.com/storybookjs/storybook/pull/18549,2022-06-23T11:07:40Z,2023-04-12T07:50:26Z,10,4,CLOSED
+storybook,upgrade @storybook/testing-library to `0.0.14-next.0`,https://github.com/storybookjs/storybook/pull/18539,2022-06-22T14:13:20Z,2022-06-27T14:47:44Z,1,1,MERGED
+storybook,feat: add dependency install automigration for react and react-dom,https://github.com/storybookjs/storybook/pull/18506,2022-06-17T16:25:47Z,2022-06-27T14:57:32Z,5,2,CLOSED
+storybook,Show warnings if you try and use `.mdx` files with `!storyStoreV7`,https://github.com/storybookjs/storybook/pull/18413,2022-06-06T11:59:53Z,2022-06-07T05:36:02Z,2,6,MERGED
+storybook,Copy example stories over from renderer + addons,https://github.com/storybookjs/storybook/pull/18824,2022-07-31T12:30:30Z,2022-08-02T01:04:52Z,4,8,MERGED
+storybook,feat: add next-repro CLI command,https://github.com/storybookjs/storybook/pull/18787,2022-07-25T16:14:51Z,2022-07-27T14:29:55Z,0,7,MERGED
+storybook,"CLI: add ""storybook scripts 7.0"" automigrate command",https://github.com/storybookjs/storybook/pull/18769,2022-07-22T09:11:28Z,2022-08-09T15:23:45Z,1,1,MERGED
+storybook,Addon docs: Pass remarks plugins to mdx loader,https://github.com/storybookjs/storybook/pull/18740,2022-07-19T15:51:57Z,2022-07-20T16:58:01Z,1,1,MERGED
+storybook,WIP: Add element highlight to addon interactions,https://github.com/storybookjs/storybook/pull/18700,2022-07-13T10:13:31Z,2023-12-01T10:56:52Z,17,4,CLOSED
+storybook,docs: Update SEO documentation for `7.0` features,https://github.com/storybookjs/storybook/pull/18682,2022-07-11T15:04:47Z,2022-07-11T16:40:10Z,2,1,MERGED
+storybook,docs: Add SEO section to Publish docs page,https://github.com/storybookjs/storybook/pull/18678,2022-07-11T13:27:21Z,2022-07-11T14:51:10Z,1,1,MERGED
+storybook,fix(interactions) Blank page when the actions add-on is disabled.,https://github.com/storybookjs/storybook/pull/19069,2022-08-31T19:37:06Z,2022-09-03T10:08:49Z,1,1,CLOSED
+storybook,Core: Add previewHead and previewBody to StorybookConfig interface,https://github.com/storybookjs/storybook/pull/19047,2022-08-29T17:03:13Z,2022-08-30T15:29:46Z,3,2,MERGED
+storybook,Exit sandbox gracefully on cancel,https://github.com/storybookjs/storybook/pull/18936,2022-08-15T08:46:50Z,2022-08-15T09:00:09Z,1,2,MERGED
+storybook,CLI: Automigration for new frameworks,https://github.com/storybookjs/storybook/pull/18919,2022-08-11T13:36:41Z,2022-08-15T11:46:41Z,4,11,MERGED
+storybook,"Output junit xml from smoketest, examples and chromatic",https://github.com/storybookjs/storybook/pull/18874,2022-08-05T02:02:31Z,2022-08-12T07:16:22Z,4,11,CLOSED
+storybook,improve sandbox command error handling and debugging,https://github.com/storybookjs/storybook/pull/18869,2022-08-04T11:19:04Z,2022-08-09T06:42:42Z,2,3,MERGED
+storybook,CLI: add --no-init to repro-next command,https://github.com/storybookjs/storybook/pull/18866,2022-08-04T07:35:39Z,2022-08-04T09:12:56Z,0,1,MERGED
+storybook,CLI: create temporary sb repro-next command that only degits repros,https://github.com/storybookjs/storybook/pull/18834,2022-08-01T15:54:04Z,2022-08-01T15:59:44Z,0,3,MERGED
+storybook,Use a set of test components in addon stories,https://github.com/storybookjs/storybook/pull/18825,2022-08-01T00:43:31Z,2022-08-02T04:00:42Z,3,2,MERGED
+storybook,Fix prepare bundle on Windows,https://github.com/storybookjs/storybook/pull/19243,2022-09-24T13:31:13Z,2022-10-04T18:04:47Z,3,5,MERGED
+storybook,Added some basic interactions stories,https://github.com/storybookjs/storybook/pull/19153,2022-09-09T07:00:00Z,2022-09-13T06:56:50Z,11,12,MERGED
+storybook,Add a new `throwPlayFunctionExceptions` parameter,https://github.com/storybookjs/storybook/pull/19143,2022-09-08T06:32:54Z,2022-09-12T11:12:59Z,7,4,MERGED
+storybook,Ensure we retained prepared-ness when the index HMRs,https://github.com/storybookjs/storybook/pull/19070,2022-09-01T04:05:27Z,2022-09-01T16:35:06Z,0,2,MERGED
+storybook,Move and include `@storybook/blocks` in standalone Storybook,https://github.com/storybookjs/storybook/pull/19615,2022-10-25T05:43:06Z,2022-10-25T09:02:15Z,2,8,MERGED
+storybook,Ensure preview annotations are resolved relative to the cwd,https://github.com/storybookjs/storybook/pull/19594,2022-10-24T05:08:00Z,2022-10-25T04:46:08Z,3,2,MERGED
+storybook,CLI: Add Next.js framework automigration,https://github.com/storybookjs/storybook/pull/19574,2022-10-21T14:52:51Z,2022-12-14T00:16:34Z,4,6,MERGED
+storybook,Add option `--story-filter` in cli to filter stories when starting storybook,https://github.com/storybookjs/storybook/pull/19531,2022-10-19T04:38:12Z,2023-01-13T12:30:27Z,4,3,CLOSED
+storybook,CLI: support .json in eslint-plugin migration,https://github.com/storybookjs/storybook/pull/19511,2022-10-17T12:23:38Z,2022-10-18T07:49:28Z,3,7,MERGED
+storybook,Improve the Readability UI of Readme.md,https://github.com/storybookjs/storybook/pull/19503,2022-10-16T07:01:10Z,2022-10-18T13:00:11Z,3,1,CLOSED
+storybook,Only persist the (single) built sandbox,https://github.com/storybookjs/storybook/pull/19372,2022-10-06T04:52:54Z,2022-10-06T05:14:17Z,1,1,MERGED
+storybook,Remove broken badges from README,https://github.com/storybookjs/storybook/pull/19337,2022-10-03T22:31:00Z,2022-10-05T14:04:12Z,0,1,MERGED
+storybook,CLI: Improve sb-scripts automigration logic,https://github.com/storybookjs/storybook/pull/20035,2022-11-30T19:20:50Z,2022-12-05T08:15:06Z,4,3,MERGED
+storybook,Add YouTube callouts to relevant docs pages,https://github.com/storybookjs/storybook/pull/20014,2022-11-29T16:14:56Z,2022-11-29T19:44:19Z,0,1,MERGED
+storybook,"Docs: using targetted styles, not components to style MDX",https://github.com/storybookjs/storybook/pull/19958,2022-11-25T02:30:35Z,2022-12-02T13:45:58Z,11,13,MERGED
+storybook,"Build: split `lib/addons` into manager & preview part, move code to `manager-api`",https://github.com/storybookjs/storybook/pull/19952,2022-11-24T14:01:04Z,2022-11-25T12:26:53Z,7,21,MERGED
+storybook,Don't set `argType.defaultValue` in angular/compodoc,https://github.com/storybookjs/storybook/pull/19935,2022-11-23T06:17:10Z,2022-12-01T23:05:09Z,19,2,MERGED
+storybook,Maintenance: fix execa import in get-report-message,https://github.com/storybookjs/storybook/pull/19913,2022-11-21T16:10:03Z,2022-11-22T08:50:47Z,0,1,MERGED
+storybook,Vue: Update events binding in Vue render,https://github.com/storybookjs/storybook/pull/19860,2022-11-16T17:57:39Z,2023-01-18T08:00:59Z,4,4,MERGED
+storybook,Core: bail preview builder on failure,https://github.com/storybookjs/storybook/pull/19849,2022-11-16T11:08:34Z,2022-11-17T17:11:53Z,0,2,MERGED
+storybook,CI: report failures on discord,https://github.com/storybookjs/storybook/pull/19801,2022-11-11T10:34:00Z,2022-11-14T12:52:21Z,4,25,MERGED
+storybook,Maintenance: improve error feedback when tasks fail in CI,https://github.com/storybookjs/storybook/pull/19786,2022-11-09T08:49:28Z,2022-11-09T10:46:15Z,1,4,MERGED
+storybook,Fix: addon panel content is invisible for any addon listed after the interactions panel,https://github.com/storybookjs/storybook/pull/19771,2022-11-07T21:03:49Z,2022-11-18T10:51:23Z,4,1,MERGED
+storybook,Tech/introduce-preview-api,https://github.com/storybookjs/storybook/pull/19749,2022-11-03T23:16:58Z,2022-11-24T13:04:39Z,30,63,MERGED
+storybook,Maintenance: Cancel workflow in CI on steps failure,https://github.com/storybookjs/storybook/pull/19748,2022-11-03T22:07:30Z,2022-11-04T10:15:41Z,0,9,MERGED
+storybook,Update README logo for dark mode,https://github.com/storybookjs/storybook/pull/19746,2022-11-03T21:01:32Z,2022-11-15T14:31:02Z,0,1,MERGED
+storybook,Blocks: Redo stories for controls,https://github.com/storybookjs/storybook/pull/19744,2022-11-03T18:58:36Z,2022-11-04T09:39:11Z,6,25,MERGED
+storybook,Set min height relative to the viewport and the zoom level.,https://github.com/storybookjs/storybook/pull/20433,2022-12-29T11:34:39Z,2022-12-29T12:07:00Z,0,1,CLOSED
+storybook,"Core: Show ""booting"" progress until story is specified or errors",https://github.com/storybookjs/storybook/pull/20425,2022-12-28T10:17:24Z,2023-01-18T09:01:56Z,25,34,MERGED
+storybook,Set min-height relative to the viewport and the zoom level.,https://github.com/storybookjs/storybook/pull/20352,2022-12-20T19:39:52Z,2022-12-29T12:07:16Z,1,1,MERGED
+storybook,CLI: add nodejs check in automigrations,https://github.com/storybookjs/storybook/pull/20342,2022-12-20T12:31:24Z,2022-12-20T14:55:56Z,2,3,MERGED
+storybook,CLI: fix automigrate filtering,https://github.com/storybookjs/storybook/pull/20329,2022-12-19T15:09:49Z,2022-12-19T18:04:28Z,1,2,MERGED
+storybook,Vite: Include user config `optimizeDeps` in final `optimizeDeps`,https://github.com/storybookjs/storybook/pull/20313,2022-12-16T22:35:53Z,2022-12-19T14:22:41Z,0,2,MERGED
+storybook,CLI: write into a log file if automigrations fail,https://github.com/storybookjs/storybook/pull/20310,2022-12-16T15:03:10Z,2022-12-20T14:57:19Z,0,4,MERGED
+storybook,Build: remove borders in task error message,https://github.com/storybookjs/storybook/pull/20305,2022-12-16T11:35:13Z,2022-12-19T16:23:05Z,0,2,MERGED
+storybook,CLI: Improve automigration to show prompt-only migrations,https://github.com/storybookjs/storybook/pull/20292,2022-12-15T15:51:44Z,2022-12-16T07:47:02Z,3,3,MERGED
+storybook,CLI: add automigration summary,https://github.com/storybookjs/storybook/pull/20276,2022-12-14T17:54:03Z,2022-12-15T10:33:16Z,7,6,MERGED
+storybook,CLI: Split sb-scripts into two different migrations,https://github.com/storybookjs/storybook/pull/20223,2022-12-13T10:26:34Z,2022-12-13T15:05:53Z,1,1,MERGED
+storybook,Theming: Add `barHoverColor`,https://github.com/storybookjs/storybook/pull/20169,2022-12-08T17:12:47Z,2023-09-11T12:57:29Z,3,2,MERGED
+storybook,Telemetry: Add `chromatic` to addons list,https://github.com/storybookjs/storybook/pull/20143,2022-12-07T23:49:45Z,2022-12-09T04:20:49Z,0,3,MERGED
+storybook,"make managerEntries be loaded as ESM, for improved tree-shaking",https://github.com/storybookjs/storybook/pull/20070,2022-12-02T18:14:36Z,2022-12-03T19:53:15Z,4,5,MERGED
+storybook,Add CSF 2→3 banner to docs code snippets,https://github.com/storybookjs/storybook/pull/20053,2022-12-01T23:20:10Z,2022-12-05T20:53:07Z,2,6,MERGED
+storybook,CLI: only add dependencies on sb init if they do not exist,https://github.com/storybookjs/storybook/pull/20811,2023-01-27T11:40:19Z,2023-01-30T16:17:33Z,0,1,MERGED
+storybook,Fixed paths in generated main.cjs for the default sandbox on Windows,https://github.com/storybookjs/storybook/pull/20724,2023-01-22T13:08:53Z,2023-01-24T09:41:09Z,0,1,MERGED
+storybook,Vue3 ( fix ) implement reactive args + fix many vue app creation issue ,https://github.com/storybookjs/storybook/pull/20712,2023-01-20T11:33:06Z,2023-01-23T20:11:08Z,9,23,MERGED
+storybook,CLI: Make missing-babelrc an automatic migration,https://github.com/storybookjs/storybook/pull/20689,2023-01-19T13:52:13Z,2023-01-19T16:49:28Z,0,1,MERGED
+storybook,Docs: Move validation logic into `context.resolveOf`,https://github.com/storybookjs/storybook/pull/20662,2023-01-18T02:21:44Z,2023-01-19T05:43:15Z,0,5,MERGED
+storybook,Svelte: Remove babel/core peer dep,https://github.com/storybookjs/storybook/pull/20650,2023-01-17T12:31:23Z,2023-01-17T14:09:48Z,0,1,MERGED
+storybook,CLI: Improve monorepo support in `automigrate` and revamp framework-related migrations,https://github.com/storybookjs/storybook/pull/20647,2023-01-17T11:00:28Z,2023-02-20T14:06:23Z,25,34,MERGED
+storybook,Preact: Utilize `@previewjs/type-analyzer` for argType generation,https://github.com/storybookjs/storybook/pull/20631,2023-01-16T11:22:03Z,2025-07-01T18:37:32Z,6,21,CLOSED
+storybook,Docs: Show primary story description and headline in autodocs,https://github.com/storybookjs/storybook/pull/20604,2023-01-13T06:51:14Z,2023-01-19T04:20:46Z,21,16,MERGED
+storybook,Angular: Add multi-project setup for ng workspaces,https://github.com/storybookjs/storybook/pull/20559,2023-01-10T11:15:57Z,2023-01-18T14:03:17Z,4,18,MERGED
+storybook,vue3: rendering slots if are set and passed from controls,https://github.com/storybookjs/storybook/pull/20536,2023-01-08T16:17:51Z,2023-01-11T16:20:38Z,0,4,MERGED
+storybook,Vue3:(feat) add source decorator vue template and setup script + supports of multi slots ,https://github.com/storybookjs/storybook/pull/20498,2023-01-04T17:57:17Z,2023-01-16T09:36:56Z,11,44,MERGED
+storybook,addon-docs: upgrade to React 18 Root API,https://github.com/storybookjs/storybook/pull/20466,2023-01-01T16:35:28Z,2023-02-26T19:05:41Z,5,5,CLOSED
+storybook,Content structure tweaks to Doc Blocks guide,https://github.com/storybookjs/storybook/pull/21307,2023-02-28T19:05:36Z,2023-03-01T20:10:14Z,2,1,MERGED
+storybook,Docs: Show errors when stories throw in docs,https://github.com/storybookjs/storybook/pull/21212,2023-02-23T04:04:59Z,2023-02-27T12:04:38Z,13,21,MERGED
+storybook,CLI: Fix SvelteKit automigration package name,https://github.com/storybookjs/storybook/pull/21210,2023-02-22T22:49:09Z,2023-02-23T10:18:55Z,1,2,MERGED
+storybook,Essentials: Export interface `PresetOptions`,https://github.com/storybookjs/storybook/pull/21195,2023-02-22T00:55:35Z,2023-11-28T12:40:48Z,2,3,MERGED
+storybook,Fix height of App story,https://github.com/storybookjs/storybook/pull/21187,2023-02-21T15:59:37Z,2023-11-28T11:56:48Z,3,1,CLOSED
+storybook,[Snyk] Security upgrade http-server from 0.12.3 to 0.13.0,https://github.com/storybookjs/storybook/pull/21160,2023-02-20T13:46:06Z,2023-02-20T13:47:00Z,1,1,CLOSED
+storybook,Addon-docs: Fix style bleeding,https://github.com/storybookjs/storybook/pull/21150,2023-02-17T23:12:28Z,2023-02-21T08:27:44Z,3,11,MERGED
+storybook,Core: Coalesce multiple indexing errors into one,https://github.com/storybookjs/storybook/pull/21114,2023-02-16T06:24:28Z,2023-02-20T22:58:16Z,0,6,MERGED
+storybook,Add Doc Blocks overview & API reference,https://github.com/storybookjs/storybook/pull/21113,2023-02-16T05:26:48Z,2023-02-22T21:38:04Z,33,11,MERGED
+storybook,Core: Don't crash when there are errors indexing,https://github.com/storybookjs/storybook/pull/21112,2023-02-16T04:52:16Z,2023-02-20T22:20:54Z,1,3,MERGED
+storybook,fix: skip to canvas link style,https://github.com/storybookjs/storybook/pull/21021,2023-02-09T01:31:07Z,2023-02-20T09:01:32Z,1,3,MERGED
+storybook,Vue3: Fix CSF2 support with decorators,https://github.com/storybookjs/storybook/pull/20995,2023-02-07T19:11:43Z,2023-02-13T16:23:07Z,4,18,MERGED
+storybook,docs: qwik install and troubleshooting instructions,https://github.com/storybookjs/storybook/pull/20939,2023-02-05T16:05:15Z,2023-02-08T15:10:21Z,0,1,MERGED
+storybook,Core: Detect mdx2 errors and provide guidance to fix them,https://github.com/storybookjs/storybook/pull/20917,2023-02-03T08:54:51Z,2023-02-09T14:00:34Z,1,1,MERGED
+storybook,Build: Improve task log and error messages for event log,https://github.com/storybookjs/storybook/pull/20902,2023-02-02T15:51:17Z,2023-02-02T18:00:31Z,0,1,MERGED
+storybook,Menu design upgrade,https://github.com/storybookjs/storybook/pull/20898,2023-02-02T14:07:56Z,2023-02-07T16:20:37Z,3,2,MERGED
+storybook,Docs: Turn on autodocs for CSF with attached meta.,https://github.com/storybookjs/storybook/pull/20867,2023-02-01T05:53:44Z,2023-02-01T23:20:24Z,0,7,MERGED
+storybook,CLI: Warn when community addons are incompatible with Storybook 7,https://github.com/storybookjs/storybook/pull/21863,2023-03-31T16:20:02Z,2023-04-03T04:23:35Z,3,1,MERGED
+storybook,CLI: Fix migration summary  message,https://github.com/storybookjs/storybook/pull/21862,2023-03-31T15:39:53Z,2023-03-31T16:19:08Z,0,1,MERGED
+storybook,feat: :sparkles: support rspack as preview builder,https://github.com/storybookjs/storybook/pull/21853,2023-03-31T08:13:29Z,2023-03-31T15:56:06Z,4,1,CLOSED
+storybook,CLI: Update stories glob in mdx codemod and not in mdx automigration,https://github.com/storybookjs/storybook/pull/21809,2023-03-29T10:15:39Z,2023-03-30T12:03:11Z,1,5,MERGED
+storybook,CLI: Warn the user for duplicated versions after automigrate,https://github.com/storybookjs/storybook/pull/21791,2023-03-28T05:34:48Z,2023-03-29T07:01:35Z,3,2,MERGED
+storybook,"Tech: upgrade esbuild, remove watch option from options",https://github.com/storybookjs/storybook/pull/21727,2023-03-22T13:06:27Z,2023-03-23T10:18:54Z,5,4,MERGED
+storybook,Docs: Exclude decorators by default from source,https://github.com/storybookjs/storybook/pull/21722,2023-03-22T01:59:16Z,2023-03-28T04:13:28Z,3,8,MERGED
+storybook,Add Upgrade guide to docs,https://github.com/storybookjs/storybook/pull/21719,2023-03-21T23:19:46Z,2023-03-24T17:34:44Z,10,5,MERGED
+storybook,Update Install page to show sandboxes,https://github.com/storybookjs/storybook/pull/21697,2023-03-20T20:53:22Z,2023-06-16T01:28:41Z,1,1,CLOSED
+storybook,Composition: Fix various CORS issues.,https://github.com/storybookjs/storybook/pull/21682,2023-03-20T09:37:39Z,2023-03-20T13:08:17Z,2,2,MERGED
+storybook,Fix csf-plugin loader,https://github.com/storybookjs/storybook/pull/21629,2023-03-16T11:50:19Z,2023-03-16T16:15:55Z,3,1,MERGED
+storybook,UI: Show current search shortcut in search box sidebar,https://github.com/storybookjs/storybook/pull/21619,2023-03-15T16:26:46Z,2023-05-10T07:50:44Z,1,8,MERGED
+storybook,fix(angular): source preview for angular stories does not show proper props values,https://github.com/storybookjs/storybook/pull/21609,2023-03-14T21:22:17Z,2023-03-17T07:00:52Z,2,4,MERGED
+storybook,Build: Early exit tasks based on Nx affected graph,https://github.com/storybookjs/storybook/pull/21565,2023-03-10T23:58:16Z,2023-11-28T13:03:18Z,1,1,CLOSED
+storybook,Documentation: Updated TS documentation for re-using play functions,https://github.com/storybookjs/storybook/pull/21517,2023-03-09T13:50:08Z,2023-11-28T14:15:57Z,6,3,MERGED
+storybook,CLI: Copy tweaks for automigrations,https://github.com/storybookjs/storybook/pull/21475,2023-03-08T08:56:52Z,2023-03-08T09:36:17Z,1,2,MERGED
+storybook,Docs: Don't allow passing `of={}` with undefined prop,https://github.com/storybookjs/storybook/pull/21452,2023-03-07T11:06:25Z,2023-03-08T20:10:11Z,3,3,MERGED
+storybook,Telemetry: Ensure we report errors even when unexpected things happen,https://github.com/storybookjs/storybook/pull/21416,2023-03-06T09:20:13Z,2023-03-06T12:53:33Z,1,4,MERGED
+storybook,Core: Print errors in `withTelemetry` before prompting,https://github.com/storybookjs/storybook/pull/21407,2023-03-06T06:07:11Z,2023-03-06T14:12:33Z,0,3,MERGED
+storybook,UI: Add remount story shortcut,https://github.com/storybookjs/storybook/pull/21401,2023-03-05T08:12:01Z,2023-04-11T14:34:56Z,5,9,MERGED
+storybook,Remove `/docs/get-started/introduction.md`,https://github.com/storybookjs/storybook/pull/21393,2023-03-03T18:20:12Z,2023-03-07T22:11:46Z,1,2,MERGED
+storybook,CLI: Warn the user when stories glob does not match any file,https://github.com/storybookjs/storybook/pull/21392,2023-03-03T17:20:28Z,2023-03-08T07:07:23Z,0,1,MERGED
+storybook,Convert installation instructions,https://github.com/storybookjs/storybook/pull/21361,2023-03-02T20:23:31Z,2023-03-03T16:45:41Z,2,3,MERGED
+storybook,Vue: Replace vue-docgen-api with Volar vue-component-meta,https://github.com/storybookjs/storybook/pull/22285,2023-04-27T11:30:09Z,2024-02-23T16:16:42Z,112,203,MERGED
+storybook,UI: Fix custom theme hover-color inconsistency,https://github.com/storybookjs/storybook/pull/22262,2023-04-26T14:43:12Z,2023-09-19T15:45:03Z,0,5,MERGED
+storybook,"CLI: Add ""doctor"" command",https://github.com/storybookjs/storybook/pull/22236,2023-04-24T15:51:14Z,2023-11-22T15:54:31Z,3,5,MERGED
+storybook,UI: Fix TreeNode alignment when using a different font,https://github.com/storybookjs/storybook/pull/22221,2023-04-23T21:32:58Z,2023-09-14T12:03:31Z,8,6,MERGED
+storybook,Addon Viewport: Add responsive mode,https://github.com/storybookjs/storybook/pull/22174,2023-04-20T07:02:14Z,2023-10-02T11:01:15Z,6,5,CLOSED
+storybook,Fix some issues related to code snippets in the theming doc,https://github.com/storybookjs/storybook/pull/22145,2023-04-18T14:35:29Z,2023-04-18T15:45:22Z,0,2,MERGED
+storybook,Core: Move `prepareContext` into `store.getStoryContext()`,https://github.com/storybookjs/storybook/pull/22135,2023-04-18T05:43:49Z,2023-04-30T23:41:11Z,4,7,MERGED
+storybook,fix(Docs): update code snippet link,https://github.com/storybookjs/storybook/pull/22117,2023-04-17T03:12:41Z,2023-04-17T21:23:55Z,0,1,MERGED
+storybook,CLI: Do not show a migration summary on sb init,https://github.com/storybookjs/storybook/pull/22109,2023-04-15T14:17:03Z,2023-05-10T13:18:01Z,2,1,MERGED
+storybook,Documentation: Update examples and links,https://github.com/storybookjs/storybook/pull/22089,2023-04-14T10:18:23Z,2023-04-17T08:54:47Z,1,1,MERGED
+storybook,Build: Upgrade Playwright to 1.32.3,https://github.com/storybookjs/storybook/pull/22087,2023-04-14T09:20:54Z,2023-04-18T10:04:53Z,0,1,MERGED
+storybook,fix: removed opacity from list-item color,https://github.com/storybookjs/storybook/pull/22074,2023-04-13T08:45:11Z,2023-05-08T10:03:07Z,1,5,MERGED
+storybook,Core: Restore `useParameter` behaviour for Docs entries,https://github.com/storybookjs/storybook/pull/22071,2023-04-13T05:45:22Z,2023-04-19T03:55:48Z,10,10,CLOSED
+storybook,UI: Fix upgrade command in about page,https://github.com/storybookjs/storybook/pull/22056,2023-04-12T14:30:54Z,2023-04-12T14:57:20Z,1,1,MERGED
+storybook,Update Babel configuration docs for v7,https://github.com/storybookjs/storybook/pull/21997,2023-04-07T21:23:31Z,2023-04-10T19:25:36Z,0,1,MERGED
+storybook,"UI: Add toolbar ""text"" input type",https://github.com/storybookjs/storybook/pull/21959,2023-04-06T06:11:45Z,2023-12-08T00:03:51Z,12,24,CLOSED
+storybook,Add Addon migration guide for Storybook 7.0 page,https://github.com/storybookjs/storybook/pull/21932,2023-04-04T21:55:41Z,2023-04-05T17:57:53Z,5,3,MERGED
+storybook,Build: Fix release badge on repros,https://github.com/storybookjs/storybook/pull/21923,2023-04-04T16:53:38Z,2023-04-04T18:34:03Z,0,1,MERGED
+storybook,React: Don't show decorators in JSX snippets,https://github.com/storybookjs/storybook/pull/21907,2023-04-04T07:33:29Z,2023-04-05T12:55:38Z,3,6,MERGED
+storybook,(#21325) Fix search bar not reflecting custom shortcut when set,https://github.com/storybookjs/storybook/pull/21892,2023-04-03T18:13:31Z,2023-04-10T14:42:26Z,2,1,CLOSED
+storybook,CLI: Improve incompatible addons logic,https://github.com/storybookjs/storybook/pull/21883,2023-04-03T10:27:46Z,2023-04-03T12:17:01Z,1,3,MERGED
+storybook,Vue3: Fix TS 5.0 compat with vue-component-type-helpers,https://github.com/storybookjs/storybook/pull/22814,2023-05-26T12:34:50Z,2023-05-26T14:30:59Z,3,2,MERGED
+storybook,"Vue3: Revert v7 breaking change, restore reactive v6-compat API",https://github.com/storybookjs/storybook/pull/22692,2023-05-23T08:29:03Z,2023-05-26T15:00:46Z,0,3,MERGED
+storybook,Vite: Changed the parent directory of config ,https://github.com/storybookjs/storybook/pull/22658,2023-05-21T20:20:08Z,2023-12-04T12:46:48Z,3,2,CLOSED
+storybook,CLI: Reduce installation noise and improve error handling,https://github.com/storybookjs/storybook/pull/22554,2023-05-15T06:44:27Z,2023-05-19T13:52:41Z,10,7,MERGED
+storybook,Indexer: Escape special characters in storyImport regex,https://github.com/storybookjs/storybook/pull/22545,2023-05-13T12:50:42Z,2024-05-13T07:43:02Z,4,7,MERGED
+storybook,Add main configuration API reference pages,https://github.com/storybookjs/storybook/pull/22539,2023-05-12T17:49:28Z,2023-05-24T14:51:26Z,28,8,MERGED
+storybook,CLI: Detach automigrate command from storybook init,https://github.com/storybookjs/storybook/pull/22523,2023-05-11T18:33:57Z,2023-05-12T14:29:11Z,4,6,MERGED
+storybook,Vue3: Fix source decorator to generate correct story code ,https://github.com/storybookjs/storybook/pull/22518,2023-05-11T15:13:34Z,2023-06-08T09:14:30Z,18,13,MERGED
+storybook,Build: Script to bulk cherry-pick patch PRs,https://github.com/storybookjs/storybook/pull/22506,2023-05-10T15:53:27Z,2023-07-02T19:03:22Z,3,2,CLOSED
+storybook,CLI: Remove random commas in storybook upgrade logs,https://github.com/storybookjs/storybook/pull/22333,2023-05-01T17:47:33Z,2023-08-29T10:55:10Z,0,4,MERGED
+storybook,Core: Support container queries in addon panels,https://github.com/storybookjs/storybook/pull/23261,2023-06-30T10:03:14Z,2025-06-25T08:17:28Z,2,4,MERGED
+storybook,Build: Fix parallelism count,https://github.com/storybookjs/storybook/pull/23203,2023-06-23T17:30:28Z,2023-06-24T14:50:40Z,0,2,MERGED
+storybook,CLI: Exit when user does not select a storybook project type,https://github.com/storybookjs/storybook/pull/23201,2023-06-23T14:04:17Z,2023-07-11T16:59:14Z,2,4,MERGED
+storybook,CLI: Add new Configure page to templates,https://github.com/storybookjs/storybook/pull/23171,2023-06-21T11:13:07Z,2023-06-21T15:21:58Z,2,2,MERGED
+storybook,CLI: Fix storybook package manager command in init,https://github.com/storybookjs/storybook/pull/23169,2023-06-21T09:19:12Z,2023-06-21T13:26:37Z,2,3,MERGED
+storybook,Next.js: Support disableStaticImages setting,https://github.com/storybookjs/storybook/pull/23167,2023-06-21T08:31:46Z,2023-06-27T23:11:32Z,3,5,MERGED
+storybook,Maintenance: Add working Story Explorer config,https://github.com/storybookjs/storybook/pull/23163,2023-06-21T04:06:19Z,2023-07-10T12:14:56Z,0,3,MERGED
+storybook,NextJS: Fix fonts not loading with 3+ words in name,https://github.com/storybookjs/storybook/pull/23121,2023-06-18T07:49:59Z,2023-06-19T08:11:09Z,1,1,MERGED
+storybook,Mdx : Theme `fontCode` not applied consistently when writing MDX,https://github.com/storybookjs/storybook/pull/23110,2023-06-16T15:37:47Z,2023-11-27T09:28:44Z,1,5,MERGED
+storybook,"Docs: Remove ""(deprecated)"" & ""(required)"" from headings",https://github.com/storybookjs/storybook/pull/23060,2023-06-14T03:33:16Z,2023-06-21T14:44:13Z,0,2,MERGED
+storybook,Build: Fix E2E and chromatic inconsistencies,https://github.com/storybookjs/storybook/pull/23051,2023-06-13T14:45:07Z,2023-06-14T08:59:17Z,0,6,MERGED
+storybook,Build: Add template stories to our main storybook,https://github.com/storybookjs/storybook/pull/22982,2023-06-08T14:54:58Z,2023-06-09T20:43:27Z,1,5,MERGED
+storybook,Docs: Add ArgTypes API reference,https://github.com/storybookjs/storybook/pull/22970,2023-06-07T22:08:54Z,2023-06-13T14:33:20Z,12,6,MERGED
+storybook,CSF-tools: Parse stories using typescript keywords 'satisfies' and 'as',https://github.com/storybookjs/storybook/pull/23638,2023-07-27T22:50:33Z,2023-07-28T09:30:31Z,0,3,MERGED
+storybook,Codeowners: Fix codeowner docs glob,https://github.com/storybookjs/storybook/pull/23610,2023-07-26T09:18:14Z,2023-07-26T10:05:28Z,0,1,MERGED
+storybook,Docs: Minor updates to the Environment variables docs,https://github.com/storybookjs/storybook/pull/23605,2023-07-25T16:31:23Z,2023-07-25T20:16:24Z,3,3,MERGED
+storybook,docs: resolve typos in imports on highlight addon docs,https://github.com/storybookjs/storybook/pull/23562,2023-07-21T22:51:58Z,2023-07-24T19:54:17Z,0,2,MERGED
+storybook,Docs: Adds set up wizard information,https://github.com/storybookjs/storybook/pull/23476,2023-07-17T11:52:56Z,2023-07-17T21:53:16Z,2,3,MERGED
+storybook,UI: Hide keyboard shortcuts entry from menu when shortcuts are disabled,https://github.com/storybookjs/storybook/pull/23411,2023-07-11T16:16:23Z,2025-06-25T13:51:33Z,4,4,MERGED
+storybook,Controls: Fix grouped Radio controls to have the same name,https://github.com/storybookjs/storybook/pull/23374,2023-07-08T18:10:15Z,2024-05-15T12:10:29Z,4,3,MERGED
+storybook,Docs: Add indexers API reference,https://github.com/storybookjs/storybook/pull/23947,2023-08-24T23:33:58Z,2023-09-20T17:44:03Z,8,10,MERGED
+storybook,Core: Deprecate `storyStoreV6` (including `storiesOf`) and `storyIndexers`,https://github.com/storybookjs/storybook/pull/23938,2023-08-24T09:11:30Z,2023-10-03T11:55:08Z,1,13,MERGED
+storybook,Build: Fix type checking for 3 unit tests,https://github.com/storybookjs/storybook/pull/23932,2023-08-23T17:08:53Z,2023-09-19T15:59:48Z,3,8,MERGED
+storybook,Logger: Fix double error messages/stack,https://github.com/storybookjs/storybook/pull/23919,2023-08-22T18:18:26Z,2023-08-23T14:43:43Z,3,6,MERGED
+storybook,[Snyk] Fix for 2 vulnerabilities,https://github.com/storybookjs/storybook/pull/23901,2023-08-21T09:27:17Z,2023-08-21T09:27:57Z,1,1,CLOSED
+storybook,CLI: Provide guidance for users who try to initialize Storybook on an empty dir,https://github.com/storybookjs/storybook/pull/23874,2023-08-17T14:52:59Z,2023-08-24T09:45:57Z,3,4,MERGED
+storybook,Build: Add parallelism count check to CI,https://github.com/storybookjs/storybook/pull/23839,2023-08-15T12:29:12Z,2023-08-16T09:09:42Z,1,1,MERGED
+storybook,React: Upgrade `react-docgen` to 6.0.x and improve argTypes,https://github.com/storybookjs/storybook/pull/23825,2023-08-14T05:34:20Z,2023-10-04T04:37:06Z,17,20,MERGED
+storybook,UI: Add an experimental API for adding sidebar top toolbar,https://github.com/storybookjs/storybook/pull/23811,2023-08-11T15:33:22Z,2023-08-24T12:26:56Z,3,11,MERGED
+storybook,UI: Expand sidebar for selected story when using composition,https://github.com/storybookjs/storybook/pull/23781,2023-08-10T03:39:10Z,2023-09-19T11:38:20Z,2,3,MERGED
+storybook,UI: Add an experimental API for adding sidebar bottom toolbar,https://github.com/storybookjs/storybook/pull/23778,2023-08-09T21:56:12Z,2023-08-24T12:24:39Z,6,16,MERGED
+storybook,Build: Add visual tests addon to Storybook:ui,https://github.com/storybookjs/storybook/pull/23753,2023-08-08T12:34:43Z,2023-09-05T07:19:11Z,2,1,MERGED
+storybook,"Update core-common typescript type `StorybookConfig[""stories""]`",https://github.com/storybookjs/storybook/pull/23716,2023-08-03T21:52:01Z,2023-08-07T14:41:00Z,2,1,CLOSED
+storybook,CLI: Fix error logging being swallowed from dev/build failures,https://github.com/storybookjs/storybook/pull/23689,2023-08-02T15:41:52Z,2023-08-02T16:56:46Z,1,1,MERGED
+storybook,UI: Fix ArgsTable empty state on docs,https://github.com/storybookjs/storybook/pull/23688,2023-08-02T15:10:04Z,2023-08-03T10:43:55Z,0,7,MERGED
+storybook,NextJS: Aliases `react` and `react-dom` like `next.js` does,https://github.com/storybookjs/storybook/pull/23671,2023-08-01T14:03:15Z,2023-09-19T12:24:59Z,3,5,MERGED
+storybook,UI: remove ActionBar background style,https://github.com/storybookjs/storybook/pull/24286,2023-09-23T09:33:55Z,2024-05-13T08:26:55Z,3,2,CLOSED
+storybook,remove ActionBar background style,https://github.com/storybookjs/storybook/pull/24285,2023-09-23T09:28:39Z,2023-09-23T09:30:04Z,0,1,CLOSED
+storybook,remove ActionBar bacgkround style,https://github.com/storybookjs/storybook/pull/24284,2023-09-23T09:19:29Z,2023-09-23T09:25:23Z,0,0,CLOSED
+storybook,UI: Fix notifications not appearing in new layout,https://github.com/storybookjs/storybook/pull/24281,2023-09-22T20:18:09Z,2023-10-31T12:49:26Z,1,12,MERGED
+storybook,Core: Fix Promise cycle bug in useSharedState,https://github.com/storybookjs/storybook/pull/24268,2023-09-22T08:36:27Z,2023-09-22T09:29:58Z,0,1,MERGED
+storybook,Core: Print events on both sides of websocket channel,https://github.com/storybookjs/storybook/pull/24202,2023-09-18T00:07:12Z,2025-06-23T08:20:19Z,5,4,CLOSED
+storybook,UI: Fix SVG override fill when path has a fill attribute,https://github.com/storybookjs/storybook/pull/24156,2023-09-12T13:35:54Z,2023-09-14T09:41:43Z,0,3,MERGED
+storybook,Build: Upgrade chromatic bin package,https://github.com/storybookjs/storybook/pull/24133,2023-09-11T08:39:47Z,2023-09-11T09:29:12Z,1,1,MERGED
+storybook,Source-loader: Fix property key validation,https://github.com/storybookjs/storybook/pull/24068,2023-09-04T13:17:34Z,2023-09-05T02:51:52Z,0,1,MERGED
+storybook,Core: Add CJS entrypoints to errors in core events,https://github.com/storybookjs/storybook/pull/24038,2023-09-01T08:56:29Z,2023-09-04T00:40:40Z,6,2,MERGED
+storybook,WIP: Support BigInt for controls,https://github.com/storybookjs/storybook/pull/24555,2023-10-23T13:55:32Z,2025-07-21T08:48:44Z,2,2,CLOSED
+storybook,Builder-Webpack5: Use logger.warn on warnings,https://github.com/storybookjs/storybook/pull/24472,2023-10-13T14:45:47Z,2023-10-16T07:54:23Z,0,1,MERGED
+storybook,Docs:updated Top contributers in readme,https://github.com/storybookjs/storybook/pull/24460,2023-10-12T18:04:53Z,2023-10-19T17:31:45Z,1,1,CLOSED
+storybook,"Addon A11y: Toggle default focus of ""tests completed"" button",https://github.com/storybookjs/storybook/pull/24446,2023-10-11T21:47:42Z,2023-12-18T10:14:14Z,1,2,CLOSED
+storybook,Build: Migrate unit tests from Jest to Vitest,https://github.com/storybookjs/storybook/pull/24415,2023-10-09T13:42:51Z,2023-12-20T00:10:10Z,26,116,MERGED
+storybook,"UI: improve A11Y remove redundant styling rules, update icon color",https://github.com/storybookjs/storybook/pull/24402,2023-10-07T06:32:39Z,2023-11-07T17:41:01Z,1,2,MERGED
+storybook,Core: Add class name to Storybook error name,https://github.com/storybookjs/storybook/pull/24371,2023-10-04T13:21:12Z,2023-10-05T13:49:38Z,0,1,MERGED
+storybook,fix: deprecated import of ApplicationConfig,https://github.com/storybookjs/storybook/pull/24349,2023-10-02T19:07:19Z,2024-05-16T06:47:53Z,3,1,CLOSED
+storybook,SBK-132 - The contrast ratio between foreground and background color of “RAW” button 3.6:1 which is less than required ratio 4.5:1.,https://github.com/storybookjs/storybook/pull/24343,2023-10-02T11:19:37Z,2023-11-07T13:48:26Z,3,1,CLOSED
+storybook,CLI: Improve dependency metadata detection in storybook doctor,https://github.com/storybookjs/storybook/pull/25037,2023-11-29T14:05:35Z,2023-11-29T15:22:54Z,0,2,MERGED
+storybook,Blocks: Render colors in the same order as provided,https://github.com/storybookjs/storybook/pull/25001,2023-11-27T23:11:19Z,2023-12-13T09:52:42Z,1,3,MERGED
+storybook,Next.js: Add next/font/local declarations support,https://github.com/storybookjs/storybook/pull/24983,2023-11-25T15:08:12Z,2023-12-04T07:57:13Z,0,9,MERGED
+storybook,Vite: Update @vitejs/plugin-react to v4.2.0,https://github.com/storybookjs/storybook/pull/24901,2023-11-19T13:41:11Z,2024-01-03T11:36:42Z,8,1,CLOSED
+storybook,Core: Detect no matching export error in storybook start and build,https://github.com/storybookjs/storybook/pull/24877,2023-11-16T16:29:45Z,2023-11-22T08:39:49Z,3,3,MERGED
+storybook,Webpack5: Add export-order-loader and remove babel-plugin-named-exports-order,https://github.com/storybookjs/storybook/pull/24749,2023-11-07T13:58:51Z,2023-11-08T13:16:41Z,1,2,MERGED
+storybook,ReactNative: Fix missing assert dep in docs-tools,https://github.com/storybookjs/storybook/pull/24732,2023-11-06T14:34:03Z,2023-11-06T16:02:40Z,0,2,MERGED
+storybook,[Snyk] Fix for 1 vulnerabilities,https://github.com/storybookjs/storybook/pull/24669,2023-11-02T07:57:59Z,2023-11-02T07:58:26Z,1,1,CLOSED
+storybook,UI: Fix about page layout,https://github.com/storybookjs/storybook/pull/25396,2023-12-31T18:29:00Z,2024-01-02T14:53:54Z,2,9,MERGED
+storybook,CLI: Add Storyshots migration notice,https://github.com/storybookjs/storybook/pull/25327,2023-12-27T14:42:41Z,2024-01-03T15:26:35Z,2,4,MERGED
+storybook,CLI: Never prompt for ESLint plugin,https://github.com/storybookjs/storybook/pull/25289,2023-12-20T16:28:35Z,2024-01-08T15:33:43Z,0,2,MERGED
+storybook,CLI: Fix regex used in upgrade command,https://github.com/storybookjs/storybook/pull/25284,2023-12-20T14:08:47Z,2024-01-03T19:16:36Z,0,2,MERGED
+storybook,Core: Unique outputDir/cacheDir for each configDir,https://github.com/storybookjs/storybook/pull/25264,2023-12-19T11:07:57Z,2023-12-21T13:12:10Z,4,8,MERGED
+storybook,Core: Error on explicit actions while rendering or playing,https://github.com/storybookjs/storybook/pull/25238,2023-12-15T13:30:31Z,2024-01-04T08:38:15Z,11,32,MERGED
+storybook,Blocks: Fix Subtitle block for unattached docs pages,https://github.com/storybookjs/storybook/pull/25157,2023-12-08T15:55:13Z,2023-12-11T15:32:44Z,0,2,MERGED
+storybook,support getImageProps of next/image,https://github.com/storybookjs/storybook/pull/25747,2024-01-24T19:41:44Z,2024-01-24T19:46:28Z,1,1,CLOSED
+storybook,Next.js: Support getImageProps API,https://github.com/storybookjs/storybook/pull/25745,2024-01-24T17:03:30Z,2024-02-16T20:57:55Z,7,15,MERGED
+storybook,CLI: Upgrade boxen library,https://github.com/storybookjs/storybook/pull/25713,2024-01-23T14:21:12Z,2024-02-01T10:38:20Z,3,3,MERGED
+storybook,React: Fix acorn ecma version warning,https://github.com/storybookjs/storybook/pull/25634,2024-01-18T00:33:52Z,2024-01-18T01:17:42Z,0,1,MERGED
+storybook,CLI: Run `doctor` at the end of `upgrade`,https://github.com/storybookjs/storybook/pull/25604,2024-01-15T16:31:51Z,2024-01-15T18:58:04Z,2,1,CLOSED
+storybook,Docs: Add callout pointing to parameters API reference,https://github.com/storybookjs/storybook/pull/25551,2024-01-10T21:04:19Z,2024-01-11T04:27:18Z,0,1,MERGED
+storybook,Docs: Add Next.js framework doc,https://github.com/storybookjs/storybook/pull/25534,2024-01-09T23:34:02Z,2024-01-24T22:36:42Z,32,6,MERGED
+storybook,Docs: Add Parameters API reference,https://github.com/storybookjs/storybook/pull/25489,2024-01-06T00:17:02Z,2024-01-08T21:14:19Z,2,2,MERGED
+storybook,Docs: Add `angular` framework doc,https://github.com/storybookjs/storybook/pull/26269,2024-02-29T23:47:26Z,2024-03-08T17:17:08Z,4,3,MERGED
+storybook,Docs: Add `vue3-webpack5` framework doc,https://github.com/storybookjs/storybook/pull/26266,2024-02-29T18:06:07Z,2024-03-11T19:07:20Z,1,2,MERGED
+storybook,Docs: Add `react-webpack5` framework doc,https://github.com/storybookjs/storybook/pull/26265,2024-02-29T17:50:34Z,2024-03-11T14:25:01Z,2,2,MERGED
+storybook,Docs: Add `react-vite` framework doc,https://github.com/storybookjs/storybook/pull/26264,2024-02-29T17:25:09Z,2024-03-11T14:19:06Z,2,2,MERGED
+storybook,ReactVite: Docgen ignore un-parsable files,https://github.com/storybookjs/storybook/pull/26254,2024-02-29T11:03:25Z,2024-03-01T07:55:24Z,8,14,MERGED
+storybook,Controls: Remove duplicate control IDs for improved accessibility,https://github.com/storybookjs/storybook/pull/26236,2024-02-28T16:01:55Z,2025-06-23T08:44:00Z,7,5,CLOSED
+storybook,Docs: Add docs for `vue3-vite` framework,https://github.com/storybookjs/storybook/pull/26221,2024-02-27T23:11:27Z,2024-03-07T14:17:19Z,11,9,MERGED
+storybook,Doctor: Add dynamic check for incompatible Storybook packages,https://github.com/storybookjs/storybook/pull/26219,2024-02-27T20:05:34Z,2024-02-28T12:57:26Z,10,6,MERGED
+storybook,UI: Improve sidebar performance when switching stories,https://github.com/storybookjs/storybook/pull/26184,2024-02-24T20:35:49Z,2024-02-27T13:28:27Z,0,3,MERGED
+storybook,Docs: Update migration guides,https://github.com/storybookjs/storybook/pull/26182,2024-02-24T05:44:00Z,2024-02-27T19:54:10Z,12,9,MERGED
+storybook,"Vue: Improve types for array, union and intersection when using vue-docgen-api",https://github.com/storybookjs/storybook/pull/26177,2024-02-23T22:27:07Z,2024-02-26T08:12:19Z,0,8,MERGED
+storybook,Extend DocsContainer to accept custom DocsPage.,https://github.com/storybookjs/storybook/pull/26168,2024-02-23T13:21:52Z,2025-06-23T08:37:08Z,6,1,CLOSED
+storybook,Addon-interactions: Only mutate arg keys when writable,https://github.com/storybookjs/storybook/pull/26118,2024-02-20T15:03:12Z,2024-02-22T11:16:53Z,2,2,MERGED
+storybook,Docs: Fix function prop rendering as `noRefCheck` in storybook docs,https://github.com/storybookjs/storybook/pull/26104,2024-02-20T00:24:18Z,2024-02-27T05:57:12Z,2,3,MERGED
+storybook,Addon-actions: Warn when argTypesRegex used with visual test addon,https://github.com/storybookjs/storybook/pull/26094,2024-02-19T11:01:26Z,2024-02-19T15:22:30Z,0,2,MERGED
+storybook,Documentation: API reference for portable stories,https://github.com/storybookjs/storybook/pull/26081,2024-02-18T08:39:05Z,2024-03-05T17:53:08Z,29,14,MERGED
+storybook,Core: Fix fail to load `main.ts` error message,https://github.com/storybookjs/storybook/pull/26035,2024-02-14T17:13:34Z,2024-02-20T15:47:16Z,24,11,MERGED
+storybook,Docs: Contribution guide updates,https://github.com/storybookjs/storybook/pull/26003,2024-02-12T14:37:59Z,2025-07-09T14:09:07Z,20,13,MERGED
+storybook,CLI: Remove argTypesRegex automigration,https://github.com/storybookjs/storybook/pull/26001,2024-02-12T14:29:02Z,2024-02-19T15:51:43Z,5,11,MERGED
+storybook,Doc/contributing to storybook,https://github.com/storybookjs/storybook/pull/25992,2024-02-12T01:32:51Z,2024-02-12T14:32:33Z,0,684,CLOSED
+storybook,DOC: updates `CONTRIBUTING.md` with internal links and ways to contribute,https://github.com/storybookjs/storybook/pull/25991,2024-02-12T00:16:26Z,2024-02-12T00:16:56Z,1,0,CLOSED
+storybook,Release tooling: Fix patch preparation not cancelling when no patches available,https://github.com/storybookjs/storybook/pull/25942,2024-02-07T13:30:29Z,2024-02-09T09:35:16Z,0,2,MERGED
+storybook,UI: Fix overlapping on the ref button in the sidebar,https://github.com/storybookjs/storybook/pull/25914,2024-02-05T16:49:22Z,2024-02-05T17:10:28Z,0,1,MERGED
+storybook,React Native: Fix errors on compose story,https://github.com/storybookjs/storybook/pull/25906,2024-02-05T11:11:58Z,2024-02-05T13:55:50Z,0,1,MERGED
+storybook,React Native: Fix errors on compose story,https://github.com/storybookjs/storybook/pull/25894,2024-02-03T20:50:26Z,2024-02-05T11:12:52Z,3,2,CLOSED
+storybook,Docs: Update example to import a raw markdown file,https://github.com/storybookjs/storybook/pull/25862,2024-02-01T17:28:11Z,2024-02-14T21:35:31Z,1,3,MERGED
+storybook,CLI: Add Visual Tests addon to `init`,https://github.com/storybookjs/storybook/pull/25850,2024-02-01T06:05:53Z,2024-02-01T10:52:45Z,1,7,MERGED
+storybook,Dependency: bump `markdown-to-jsx` to v7.4.5,https://github.com/storybookjs/storybook/pull/26694,2024-03-30T18:03:13Z,2024-05-14T14:06:52Z,2,2,MERGED
+storybook,Automigrations: Add migration note about new react-docgen default,https://github.com/storybookjs/storybook/pull/26620,2024-03-22T14:21:24Z,2024-03-26T13:38:56Z,3,3,MERGED
+storybook,CLI: Throw an error when running upgrade command in incorrect cwd,https://github.com/storybookjs/storybook/pull/26585,2024-03-20T16:12:09Z,2024-03-21T08:25:07Z,2,2,MERGED
+storybook,Args: Add possibility to mark controls as read-only,https://github.com/storybookjs/storybook/pull/26577,2024-03-20T08:50:48Z,2024-03-22T08:47:28Z,9,22,MERGED
+storybook,Angular: Add type support for Angular's output signals,https://github.com/storybookjs/storybook/pull/26546,2024-03-18T07:49:18Z,2024-03-20T09:59:28Z,4,1,MERGED
+storybook,Docs: Fix migration guide scripts,https://github.com/storybookjs/storybook/pull/26541,2024-03-17T14:09:23Z,2024-03-25T16:43:39Z,2,3,MERGED
+storybook,Viewport: Fix missing style,https://github.com/storybookjs/storybook/pull/26530,2024-03-16T16:51:38Z,2024-03-25T14:30:15Z,1,4,MERGED
+storybook,UI: Fix theming of elements inside bars,https://github.com/storybookjs/storybook/pull/26527,2024-03-15T20:37:57Z,2024-03-18T11:00:06Z,2,2,MERGED
+storybook,UI: Improve empty state of addon panel,https://github.com/storybookjs/storybook/pull/26481,2024-03-13T16:20:15Z,2024-03-19T09:23:16Z,14,7,MERGED
+storybook,Dependencies: Upgrade to latest version of VTA,https://github.com/storybookjs/storybook/pull/26476,2024-03-13T15:15:54Z,2024-03-13T15:55:37Z,1,4,MERGED
+storybook,Angular: Add type support for Angular's input signals,https://github.com/storybookjs/storybook/pull/26413,2024-03-11T13:52:03Z,2024-03-20T09:48:58Z,7,12,MERGED
+storybook,Docs: Add get started index page,https://github.com/storybookjs/storybook/pull/26401,2024-03-11T03:50:09Z,2024-03-13T19:05:46Z,10,9,MERGED
+storybook,CLI: Remove duplicated dependency warning,https://github.com/storybookjs/storybook/pull/26385,2024-03-08T12:07:11Z,2024-03-08T14:48:39Z,1,1,MERGED
+storybook,CLI: Automigration for upgrading storybook related dependencies,https://github.com/storybookjs/storybook/pull/26377,2024-03-07T17:36:38Z,2024-03-08T19:50:33Z,9,20,MERGED
+storybook,Controls: Fix number controls do not reset,https://github.com/storybookjs/storybook/pull/26372,2024-03-07T16:13:02Z,2024-03-12T15:10:49Z,3,3,MERGED
+storybook,Docs: Add `svelte-webpack5` framework doc,https://github.com/storybookjs/storybook/pull/26359,2024-03-06T20:21:44Z,2024-03-11T19:00:46Z,4,4,MERGED
+storybook,Docs: Add `svelte-vite` framework doc,https://github.com/storybookjs/storybook/pull/26358,2024-03-06T19:15:58Z,2024-03-11T14:28:38Z,3,1,MERGED
+storybook,Docs: Add `web-components-webpack5` framework doc,https://github.com/storybookjs/storybook/pull/26333,2024-03-05T21:31:23Z,2024-03-11T19:15:41Z,1,1,MERGED
+storybook,Docs: Add `web-components-vite` framework doc,https://github.com/storybookjs/storybook/pull/26331,2024-03-05T20:43:55Z,2024-03-11T19:11:28Z,1,1,MERGED
+storybook,Docs: Add `sveltekit` framework doc,https://github.com/storybookjs/storybook/pull/26329,2024-03-05T18:56:25Z,2024-03-11T20:02:35Z,20,4,MERGED
+storybook,Docs: Fix FAQ,https://github.com/storybookjs/storybook/pull/26326,2024-03-05T17:05:37Z,2024-03-05T17:57:27Z,0,3,MERGED
+storybook,Build: Add build-package invalid package name tips,https://github.com/storybookjs/storybook/pull/26289,2024-03-03T05:34:51Z,2024-12-04T14:41:54Z,2,4,MERGED
+storybook,UI: Fix search result color contrast,https://github.com/storybookjs/storybook/pull/26287,2024-03-02T15:02:31Z,2024-03-12T13:45:21Z,2,4,MERGED
+storybook,Build: Fix flaky e2e tests with auto-retrying assertions,https://github.com/storybookjs/storybook/pull/26950,2024-04-25T10:28:58Z,2024-04-25T23:05:14Z,1,1,MERGED
+storybook,Addon-actions: Fix falsy args printing as object - 22163,https://github.com/storybookjs/storybook/pull/26917,2024-04-22T19:28:18Z,2024-04-29T15:41:16Z,1,3,MERGED
+storybook,Fix : Update meta title error handling ,https://github.com/storybookjs/storybook/pull/26911,2024-04-22T14:21:52Z,2024-07-10T18:13:13Z,4,10,MERGED
+storybook,Controls: Fix crashing when docgen extraction partially fails,https://github.com/storybookjs/storybook/pull/26862,2024-04-17T10:34:34Z,2024-04-18T12:39:03Z,1,2,MERGED
+storybook,UI: Fix Brand anchor width,https://github.com/storybookjs/storybook/pull/26802,2024-04-11T04:01:25Z,2024-11-28T09:19:21Z,5,2,CLOSED
+storybook,Manager: Add 'Create a new story' button to sidebar,https://github.com/storybookjs/storybook/pull/26793,2024-04-10T10:50:56Z,2024-04-15T13:55:27Z,5,13,MERGED
+storybook,Controls: Truncate long arrays in UI,https://github.com/storybookjs/storybook/pull/27370,2024-05-25T20:21:47Z,2025-05-12T13:33:27Z,2,1,CLOSED
+storybook,Feat: Compact folders (smart flatten),https://github.com/storybookjs/storybook/pull/27369,2024-05-25T18:50:22Z,2025-07-01T07:18:40Z,7,5,CLOSED
+storybook,Docs: Fix MSW snippets,https://github.com/storybookjs/storybook/pull/27365,2024-05-24T20:08:39Z,2024-05-24T20:23:02Z,1,1,MERGED
+storybook,Angular: Fix wrong detection of standalone components,https://github.com/storybookjs/storybook/pull/27353,2024-05-24T07:54:43Z,2024-05-31T09:56:28Z,2,6,MERGED
+storybook,UI: Fix sidebar doesn't wrap issue,https://github.com/storybookjs/storybook/pull/27234,2024-05-23T01:10:58Z,2024-09-05T19:16:46Z,1,1,CLOSED
+storybook,Release Tooling: Force push major/minor releases to `main` and `next-release`,https://github.com/storybookjs/storybook/pull/27182,2024-05-17T12:23:08Z,2024-05-19T23:59:46Z,2,1,MERGED
+storybook,Addon Docs: Fix docs-content overflow with TOC,https://github.com/storybookjs/storybook/pull/27167,2024-05-16T06:04:52Z,2025-05-13T14:56:13Z,4,3,MERGED
+storybook,Theming: Fix self-referencing type,https://github.com/storybookjs/storybook/pull/27155,2024-05-15T11:35:20Z,2024-05-27T18:22:05Z,3,3,MERGED
+storybook,Docs: Misc 8.1 updates,https://github.com/storybookjs/storybook/pull/27132,2024-05-14T16:28:46Z,2024-05-15T16:24:50Z,1,4,MERGED
+storybook,Docs: Add new story and save from controls flows,https://github.com/storybookjs/storybook/pull/27113,2024-05-13T19:00:54Z,2024-05-14T08:13:21Z,2,1,MERGED
+storybook,CLI: Fix eslint configuration for string `extends`,https://github.com/storybookjs/storybook/pull/27097,2024-05-12T01:30:48Z,2024-05-12T09:03:34Z,2,1,MERGED
+storybook,Nextjs: Implement next redirect and the RedirectBoundary,https://github.com/storybookjs/storybook/pull/27050,2024-05-07T12:40:17Z,2024-05-07T13:51:01Z,1,2,MERGED
+storybook,CPC: Core Package Consolidation,https://github.com/storybookjs/storybook/pull/27039,2024-05-06T16:49:29Z,2024-07-01T11:14:08Z,42,365,MERGED
+storybook,Docs: API - Index updates,https://github.com/storybookjs/storybook/pull/27019,2024-05-03T15:03:44Z,2024-05-07T15:05:53Z,1,3,MERGED
+storybook,Addon Onboarding: Add icons for dev/test/doc to the splash screen,https://github.com/storybookjs/storybook/pull/28389,2024-06-28T15:27:02Z,2024-07-01T11:39:15Z,2,6,MERGED
+storybook,Core: Add context as a property of the context (self-referencing),https://github.com/storybookjs/storybook/pull/28353,2024-06-26T08:07:53Z,2024-06-28T13:09:07Z,9,25,MERGED
+storybook,CLI: Improve error message when fetching CLI version,https://github.com/storybookjs/storybook/pull/28289,2024-06-19T13:06:22Z,2024-06-24T12:24:43Z,1,1,MERGED
+storybook,CLI: Fix typo in React Docgen migration,https://github.com/storybookjs/storybook/pull/27536,2024-06-04T17:04:00Z,2024-06-09T21:16:58Z,1,2,MERGED
+storybook,Vue: Add missing prop controls when using `vue-component-meta` docgen plugin,https://github.com/storybookjs/storybook/pull/28760,2024-07-31T08:23:11Z,2024-09-11T09:43:09Z,9,4,MERGED
+storybook,Addon Vitest: Scaffold a basic Vitest addon,https://github.com/storybookjs/storybook/pull/28749,2024-07-29T16:00:35Z,2024-08-07T08:40:50Z,26,18,MERGED
+storybook,UI: Update sidebar status indicators and tooltips,https://github.com/storybookjs/storybook/pull/28739,2024-07-29T09:18:45Z,2024-08-01T09:51:45Z,4,7,MERGED
+storybook,Cleanup logs during storybook init,https://github.com/storybookjs/storybook/pull/28727,2024-07-27T23:34:32Z,2025-06-16T08:47:49Z,2,3,CLOSED
+storybook,Theming: Set `themes.normal` according to user preference and export `getPreferredColorScheme`,https://github.com/storybookjs/storybook/pull/28721,2024-07-27T02:56:49Z,2025-11-03T14:52:56Z,8,13,MERGED
+storybook,UI: Set color scheme to sync scrollbar color with user-selected theme,https://github.com/storybookjs/storybook/pull/28666,2024-07-20T15:57:55Z,2025-07-01T07:58:14Z,2,5,MERGED
+storybook,Addon-Interactions: Fix status in panel tab,https://github.com/storybookjs/storybook/pull/28580,2024-07-12T16:22:26Z,2024-07-16T11:38:31Z,5,2,MERGED
+storybook,"CLI: Add ""missing-storybook-dependencies"" automigration",https://github.com/storybookjs/storybook/pull/28579,2024-07-12T15:55:48Z,2024-07-15T08:57:55Z,11,12,MERGED
+storybook,CPC: Add `theming/create` aliases in docs preset,https://github.com/storybookjs/storybook/pull/28570,2024-07-12T13:01:32Z,2024-07-12T14:30:04Z,1,1,MERGED
+storybook,Build: Fix for 11 vulnerabilities,https://github.com/storybookjs/storybook/pull/28528,2024-07-10T16:29:05Z,2024-07-10T18:26:21Z,1,6,MERGED
+storybook,Svelte: Improve argTypes inference with `svelte2tsx` - support runes,https://github.com/storybookjs/storybook/pull/28492,2024-07-09T09:39:00Z,2024-10-24T13:27:29Z,55,21,MERGED
+storybook,Composition: Add source url to ref api,https://github.com/storybookjs/storybook/pull/28491,2024-07-09T09:10:03Z,2024-07-10T18:11:37Z,4,4,MERGED
+storybook,Updated with correct url,https://github.com/storybookjs/storybook/pull/28432,2024-07-03T09:53:32Z,2024-07-09T13:52:00Z,1,1,CLOSED
+storybook,Build: Remove flakiness in Chromatic for error stories,https://github.com/storybookjs/storybook/pull/28429,2024-07-03T08:52:22Z,2024-07-03T10:13:13Z,2,1,MERGED
+storybook,Addon Interactions: Use unique keys when rendering array nodes in panel,https://github.com/storybookjs/storybook/pull/28423,2024-07-02T14:36:05Z,2024-07-03T13:15:36Z,1,1,MERGED
+storybook,A11y: Create a toolbar button that allows users to disable/enable interaction,https://github.com/storybookjs/storybook/pull/29018,2024-08-30T19:43:53Z,2025-08-13T08:49:43Z,11,11,CLOSED
+storybook,Addon Vitest: Fix indentation of 'vitePluginNext' in generated Vitest config file,https://github.com/storybookjs/storybook/pull/29011,2024-08-30T13:48:39Z,2024-09-02T12:48:19Z,1,1,MERGED
+storybook,Core: Replace `lodash` with `es-toolkit`,https://github.com/storybookjs/storybook/pull/28981,2024-08-27T13:49:10Z,2024-09-26T13:38:03Z,9,19,MERGED
+storybook,UI: Fix conditional hooks usage in sidebar,https://github.com/storybookjs/storybook/pull/28979,2024-08-27T12:54:58Z,2024-09-03T11:26:02Z,1,3,MERGED
+storybook,Core: De-duplicate babel use in core,https://github.com/storybookjs/storybook/pull/28972,2024-08-26T10:31:49Z,2024-08-27T14:56:29Z,7,19,MERGED
+storybook,Docs: Rename interaction test -> component test,https://github.com/storybookjs/storybook/pull/28958,2024-08-22T20:56:55Z,2024-08-29T15:02:30Z,10,4,MERGED
+storybook,Addon Vitest: Improve transformation logic to avoid duplicate tests,https://github.com/storybookjs/storybook/pull/28929,2024-08-20T12:11:20Z,2024-08-20T16:12:37Z,2,5,MERGED
+storybook,Fixed: Issue 25818 Preview Area Weird Boarder Accessibility Addon,https://github.com/storybookjs/storybook/pull/28844,2024-08-09T00:01:25Z,2025-10-06T13:33:01Z,2,5,CLOSED
+storybook,Vue: Extend sourceDecorator to support v-bind and nested keys in slots,https://github.com/storybookjs/storybook/pull/28787,2024-08-02T12:50:38Z,2024-12-27T10:30:00Z,3,9,MERGED
+storybook,UI: Add Yarn to About Section,https://github.com/storybookjs/storybook/pull/29225,2024-09-27T02:04:19Z,2024-11-11T14:08:29Z,3,2,MERGED
+storybook,Core: Make `prettier` an optional peer dependency,https://github.com/storybookjs/storybook/pull/29223,2024-09-26T20:49:19Z,2024-09-27T13:03:03Z,6,4,MERGED
+storybook,UI: Use production-mode `react` in manager,https://github.com/storybookjs/storybook/pull/29197,2024-09-24T13:42:21Z,2024-09-25T20:33:59Z,2,3,MERGED
+storybook,Viewport-addon: Add InitialViewportKeys type to viewport addon,https://github.com/storybookjs/storybook/pull/29182,2024-09-23T01:33:23Z,2024-09-24T11:06:01Z,3,3,MERGED
+storybook,Addon-Test: Implement Addon Test TestProvider Backend,https://github.com/storybookjs/storybook/pull/29171,2024-09-20T13:25:23Z,2024-09-26T07:12:23Z,14,24,MERGED
+storybook,Build: Write and store esbuild metafiles,https://github.com/storybookjs/storybook/pull/29117,2024-09-13T09:42:05Z,2024-09-26T13:37:38Z,6,25,MERGED
+storybook,Addon Test: Improve messages and post install script handling,https://github.com/storybookjs/storybook/pull/29036,2024-09-03T06:45:23Z,2024-09-05T10:11:46Z,13,18,MERGED
+storybook,Addon Test: Only render the TestingModule component in development mode,https://github.com/storybookjs/storybook/pull/29501,2024-10-31T12:57:32Z,2024-11-01T13:55:58Z,1,5,MERGED
+storybook,Addon Test: Improve postinstall script,https://github.com/storybookjs/storybook/pull/29479,2024-10-29T17:17:56Z,2024-10-30T11:04:36Z,2,3,MERGED
+storybook,Addon Test: Fix hiding stacktrace for assertion errors in test panel,https://github.com/storybookjs/storybook/pull/29458,2024-10-27T20:03:20Z,2024-10-28T09:12:36Z,3,1,MERGED
+storybook,Core: Open 'Component tests' addon panel when clicking a story status,https://github.com/storybookjs/storybook/pull/29456,2024-10-27T13:16:08Z,2024-10-28T09:35:21Z,2,2,MERGED
+storybook,Core: Close story status menu when selecting an item,https://github.com/storybookjs/storybook/pull/29455,2024-10-27T13:05:47Z,2024-10-28T09:44:50Z,1,2,MERGED
+storybook,Core: Show checkmark icon in story status dropdown and update status label for component tests,https://github.com/storybookjs/storybook/pull/29451,2024-10-25T19:29:42Z,2024-10-28T09:07:21Z,1,2,MERGED
+storybook,Core: Show tooltip on filter toggles to clarify their purpose,https://github.com/storybookjs/storybook/pull/29447,2024-10-25T13:57:07Z,2024-10-28T12:37:12Z,1,5,MERGED
+storybook,Svelte: Improve argTypes inference with `svelte2tsx` - support runes,https://github.com/storybookjs/storybook/pull/29423,2024-10-22T10:49:42Z,2024-10-24T13:27:26Z,5,26,MERGED
+storybook,Interactions: Escape xml of interactions errors,https://github.com/storybookjs/storybook/pull/29414,2024-10-21T09:13:57Z,2024-10-21T11:21:49Z,1,1,MERGED
+storybook,Docs: Fix outdated documentation URLs,https://github.com/storybookjs/storybook/pull/29345,2024-10-14T09:24:08Z,2024-10-14T13:11:11Z,2,1,MERGED
+storybook,ConfigFile: Fix `export { X }` parsing,https://github.com/storybookjs/storybook/pull/29344,2024-10-12T12:00:09Z,2024-10-20T10:30:04Z,4,10,MERGED
+storybook,Manager: Add tags property to ComponentEntry objects,https://github.com/storybookjs/storybook/pull/29343,2024-10-12T11:35:36Z,2024-10-12T20:30:35Z,3,2,MERGED
+storybook,UI: Simple tag filtering,https://github.com/storybookjs/storybook/pull/29333,2024-10-11T10:09:24Z,2024-10-21T12:38:24Z,21,32,MERGED
+storybook,Vite: Cleanup and prebundle dependencies,https://github.com/storybookjs/storybook/pull/29302,2024-10-08T20:22:30Z,2024-10-09T13:20:54Z,3,1,MERGED
+storybook,"Addon-docs, blocks: Prebundle dependencies",https://github.com/storybookjs/storybook/pull/29301,2024-10-08T20:00:13Z,2024-10-09T13:20:06Z,3,6,MERGED
+storybook,Addon Test: Add basic implementation of discrepancy detection,https://github.com/storybookjs/storybook/pull/29294,2024-10-07T15:00:27Z,2024-10-09T14:52:36Z,22,7,MERGED
+storybook,UI: Interactive tag filtering,https://github.com/storybookjs/storybook/pull/29279,2024-10-04T22:51:16Z,2024-10-12T02:01:54Z,3,12,CLOSED
+storybook,Docs: Add code snippet to addons panel,https://github.com/storybookjs/storybook/pull/29253,2024-10-01T10:13:25Z,2024-12-13T13:29:14Z,23,15,MERGED
+storybook,docs: correct file extension,https://github.com/storybookjs/storybook/pull/29758,2024-11-30T19:05:34Z,2024-11-30T21:07:04Z,1,1,MERGED
+storybook,Storysource Addon: Fix source-loader prettier imports,https://github.com/storybookjs/storybook/pull/29669,2024-11-20T09:49:05Z,2024-12-27T10:32:04Z,7,3,MERGED
+storybook,Addon A11y: Create a11y test provider and revamp a11y addon,https://github.com/storybookjs/storybook/pull/29643,2024-11-18T15:31:15Z,2024-12-09T14:36:23Z,119,129,MERGED
+storybook,fix(addon-a11y): Addon-a11y displays visual bug when running the tests,https://github.com/storybookjs/storybook/pull/29552,2024-11-06T02:24:16Z,2024-11-25T08:25:22Z,2,3,MERGED
+storybook,Toolbars: Suppress deprecation warning when using dynamic icons,https://github.com/storybookjs/storybook/pull/29545,2024-11-05T10:27:48Z,2024-11-27T13:33:40Z,1,2,MERGED
+storybook,Core: Implement Story Actions API and story options menu,https://github.com/storybookjs/storybook/pull/29532,2024-11-04T13:58:18Z,2024-12-02T19:52:28Z,17,8,CLOSED
+storybook,Core: Prevent clipping box shadow on file search modal,https://github.com/storybookjs/storybook/pull/29523,2024-11-04T11:17:41Z,2024-11-04T12:21:12Z,1,1,MERGED
+storybook,Vue: Fix `vue-component-meta` docgen HMR not working,https://github.com/storybookjs/storybook/pull/29518,2024-11-03T00:45:37Z,2024-11-26T16:06:11Z,10,2,MERGED
+storybook,UI: Add support for groups to `TooltipLinkList` and use it in main menu,https://github.com/storybookjs/storybook/pull/29507,2024-11-01T10:30:13Z,2024-11-01T16:24:54Z,4,3,MERGED
+storybook,UI: Fix overlapping shadow of testing module on scrollbar,https://github.com/storybookjs/storybook/pull/30132,2024-12-24T09:57:11Z,2024-12-30T09:39:16Z,1,1,MERGED
+storybook,AddonTest: Improve error reporting,https://github.com/storybookjs/storybook/pull/30110,2024-12-19T12:58:44Z,2024-12-29T11:59:49Z,3,7,CLOSED
+storybook,Addon Test: Improve error message on missing coverage package,https://github.com/storybookjs/storybook/pull/30088,2024-12-17T13:15:01Z,2024-12-17T20:33:38Z,3,3,MERGED
+storybook,Core: Float context menu button on top of story titles in sidebar,https://github.com/storybookjs/storybook/pull/30080,2024-12-16T20:21:09Z,2024-12-18T11:28:49Z,5,5,MERGED
+storybook,Addon Test: Fix printing null% for coverage,https://github.com/storybookjs/storybook/pull/30061,2024-12-13T15:20:09Z,2024-12-16T14:59:53Z,3,3,MERGED
+storybook,Build: Add text suggestions for incorrect task names,https://github.com/storybookjs/storybook/pull/30056,2024-12-13T11:21:36Z,2024-12-15T09:49:11Z,3,2,MERGED
+storybook,Addon A11y: Show errors of axe properly,https://github.com/storybookjs/storybook/pull/30050,2024-12-12T15:16:07Z,2024-12-16T14:37:36Z,2,4,MERGED
+storybook,Addon Test: Show sub test provider toggle state in main testing module,https://github.com/storybookjs/storybook/pull/30019,2024-12-11T09:59:09Z,2024-12-11T19:08:51Z,1,2,MERGED
+storybook,Addon A11y: Run the a11y automigration on postInstall,https://github.com/storybookjs/storybook/pull/30004,2024-12-10T14:41:50Z,2024-12-11T14:22:07Z,6,8,MERGED
+storybook,Addon Test: Make component tests status row link to the story's tests panel,https://github.com/storybookjs/storybook/pull/29992,2024-12-09T11:21:52Z,2024-12-10T12:21:57Z,4,7,MERGED
+storybook,Benchmarks: Fix `@storybook/react-native-web` failing to benchmark,https://github.com/storybookjs/storybook/pull/29830,2024-12-06T10:03:25Z,2024-12-06T13:14:22Z,2,4,MERGED
+storybook,Nextjs-Vite: Add TS docgen support,https://github.com/storybookjs/storybook/pull/29824,2024-12-05T13:51:36Z,2024-12-12T11:23:02Z,3,1,MERGED
+storybook,CLI: Fix new-frameworks automigration,https://github.com/storybookjs/storybook/pull/29804,2024-12-04T10:45:54Z,2024-12-04T10:47:49Z,2,1,MERGED
+storybook,Composition: Hide contextMenu on composed storybooks,https://github.com/storybookjs/storybook/pull/29803,2024-12-04T10:23:10Z,2024-12-04T11:55:10Z,2,2,MERGED
+storybook,Build: Added additional react resolutions for next 15 or above sandboxes.,https://github.com/storybookjs/storybook/pull/30372,2025-01-24T12:52:07Z,2025-01-29T16:39:23Z,2,2,MERGED
+storybook,Build: Update CircleCI configuration to remove build-sandboxes job,https://github.com/storybookjs/storybook/pull/30360,2025-01-23T14:38:16Z,2025-01-29T14:22:04Z,7,35,MERGED
+storybook,Docs: Add CSF factory API documentation,https://github.com/storybookjs/storybook/pull/30343,2025-01-22T14:35:49Z,2025-02-13T13:13:50Z,42,9,MERGED
+storybook,CLI: Sync addons between main and preview.js in storybook dev,https://github.com/storybookjs/storybook/pull/30330,2025-01-21T13:46:00Z,2025-01-22T10:43:35Z,12,4,MERGED
+storybook,CLI: Corrected Next.js createScript for pnpm.,https://github.com/storybookjs/storybook/pull/30304,2025-01-18T13:47:09Z,2025-01-23T11:36:11Z,2,1,MERGED
+storybook,Core: Add connection timeout notification,https://github.com/storybookjs/storybook/pull/30288,2025-01-17T09:04:10Z,2025-01-17T14:07:36Z,1,5,MERGED
+storybook,Build: Fix task error message when no key is specified,https://github.com/storybookjs/storybook/pull/30285,2025-01-16T14:34:54Z,2025-01-17T10:32:52Z,1,1,MERGED
+storybook,Docs: Add CSF factory (experimental) snippets,https://github.com/storybookjs/storybook/pull/30269,2025-01-15T20:41:53Z,2025-09-26T15:20:13Z,4,10,CLOSED
+storybook,Build: Fix infinite reloading of internal storybook,https://github.com/storybookjs/storybook/pull/30217,2025-01-08T13:50:25Z,2025-01-09T07:28:08Z,2,1,MERGED
+storybook,Addon-Docs: Consider custom code snippet in story code panel and update styles,https://github.com/storybookjs/storybook/pull/30179,2025-01-03T08:01:19Z,2025-02-12T14:51:18Z,8,3,MERGED
+storybook,CLI: Prompt users for RN vs RNW on init,https://github.com/storybookjs/storybook/pull/30635,2025-02-23T05:03:14Z,2025-02-24T13:16:57Z,1,2,MERGED
+storybook,CLI: Fix printing of selected features,https://github.com/storybookjs/storybook/pull/30605,2025-02-20T16:02:11Z,2025-02-21T11:58:20Z,1,4,MERGED
+storybook,Builder-Vite: Fix defaulting to allowing all hosts,https://github.com/storybookjs/storybook/pull/30523,2025-02-12T14:59:44Z,2025-02-14T09:25:05Z,6,6,MERGED
+storybook,Codemod: Add option to have relative path in csf factories codemod,https://github.com/storybookjs/storybook/pull/30463,2025-02-04T15:33:05Z,2025-02-05T13:12:16Z,6,8,MERGED
+storybook,Core: Add `UniversalStore` API to sync state/events between multiple environments,https://github.com/storybookjs/storybook/pull/30445,2025-02-03T10:11:34Z,2025-02-05T08:51:02Z,28,36,MERGED
+storybook,Build: Include nested files in ESM compilation,https://github.com/storybookjs/storybook/pull/30441,2025-02-02T22:28:12Z,2025-04-29T13:32:13Z,3,2,MERGED
+storybook,CLI: Prompt users for RN vs RNW on init,https://github.com/storybookjs/storybook/pull/30635,2025-02-23T05:03:14Z,2025-02-24T13:16:57Z,1,2,MERGED
+storybook,CLI: Fix printing of selected features,https://github.com/storybookjs/storybook/pull/30605,2025-02-20T16:02:11Z,2025-02-21T11:58:20Z,1,4,MERGED
+storybook,Builder-Vite: Fix defaulting to allowing all hosts,https://github.com/storybookjs/storybook/pull/30523,2025-02-12T14:59:44Z,2025-02-14T09:25:05Z,6,6,MERGED
+storybook,Codemod: Add option to have relative path in csf factories codemod,https://github.com/storybookjs/storybook/pull/30463,2025-02-04T15:33:05Z,2025-02-05T13:12:16Z,6,8,MERGED
+storybook,Core: Add `UniversalStore` API to sync state/events between multiple environments,https://github.com/storybookjs/storybook/pull/30445,2025-02-03T10:11:34Z,2025-02-05T08:51:02Z,28,36,MERGED
+storybook,Build: Include nested files in ESM compilation,https://github.com/storybookjs/storybook/pull/30441,2025-02-02T22:28:12Z,2025-04-29T13:32:13Z,3,2,MERGED
+storybook,Manager: Fix `Uncaught ReferenceError: global is not defined`,https://github.com/storybookjs/storybook/pull/30970,2025-03-28T12:44:06Z,2025-03-28T13:50:36Z,1,1,MERGED
+storybook,UI: Visual tweaks to badges and improved layout for a11y panel,https://github.com/storybookjs/storybook/pull/30955,2025-03-27T23:13:35Z,2025-03-28T08:30:14Z,1,2,MERGED
+storybook,Fix: Updated favicon handling for Storybook,https://github.com/storybookjs/storybook/pull/30898,2025-03-23T13:00:50Z,2025-03-24T14:18:12Z,3,3,CLOSED
+storybook,CLI: Make sure that the add commands logs all output to the console,https://github.com/storybookjs/storybook/pull/30865,2025-03-20T11:01:37Z,2025-03-21T15:55:55Z,4,2,MERGED
+storybook,CLI: Add detection for the storybook package being behind any other core packages,https://github.com/storybookjs/storybook/pull/30861,2025-03-20T10:12:16Z,2025-03-21T16:39:34Z,7,4,MERGED
+storybook,Core: Fix favicon issue on dev server,https://github.com/storybookjs/storybook/pull/30818,2025-03-16T15:06:29Z,2025-04-14T13:55:24Z,3,9,MERGED
+storybook,Fix storybook mock example,https://github.com/storybookjs/storybook/pull/30791,2025-03-11T10:41:06Z,2025-07-02T08:14:52Z,11,1,CLOSED
+storybook,Test: Bump version of @testing-library/user-event,https://github.com/storybookjs/storybook/pull/30758,2025-03-05T17:16:02Z,2025-03-14T10:55:07Z,4,10,CLOSED
+storybook,Addon Test: Improve unhandled error messages,https://github.com/storybookjs/storybook/pull/30755,2025-03-05T12:27:33Z,2025-03-10T15:05:30Z,8,6,MERGED
+storybook,Blocks: IconGallery improvement,https://github.com/storybookjs/storybook/pull/30743,2025-03-03T21:45:42Z,2025-03-13T14:58:36Z,4,4,MERGED
+storybook,Build: Pin typescript to avoid version conflicts with eslint-typescript,https://github.com/storybookjs/storybook/pull/30731,2025-03-01T07:49:51Z,2025-03-01T09:11:21Z,1,1,MERGED
+storybook,[Snyk] Fix for 1 vulnerabilities,https://github.com/storybookjs/storybook/pull/31265,2025-04-28T09:08:26Z,2025-05-03T21:31:41Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/ember from 0.0.0-use.local to 4.0.0,https://github.com/storybookjs/storybook/pull/31264,2025-04-28T09:07:56Z,2025-05-03T21:31:49Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/svelte from 0.0.0-use.local to 4.0.0,https://github.com/storybookjs/storybook/pull/31263,2025-04-28T09:07:52Z,2025-05-03T21:31:57Z,2,1,CLOSED
+storybook,[Snyk] Fix for 1 vulnerabilities,https://github.com/storybookjs/storybook/pull/31262,2025-04-28T09:07:34Z,2025-05-06T06:58:05Z,2,1,CLOSED
+storybook,Addon Controls: Fix loading state UI in addon panel,https://github.com/storybookjs/storybook/pull/31168,2025-04-20T12:19:52Z,2025-04-22T10:27:58Z,6,5,MERGED
+storybook,Core: Rename local tests to interactions,https://github.com/storybookjs/storybook/pull/31141,2025-04-16T11:10:16Z,2025-04-16T22:44:24Z,5,7,MERGED
+storybook,Addon Pseudo States: Move package into monorepo,https://github.com/storybookjs/storybook/pull/31123,2025-04-15T09:26:40Z,2025-04-17T15:25:12Z,14,14,MERGED
+storybook,Core: Add preview navigator and `--preview-only` CLI flag,https://github.com/storybookjs/storybook/pull/31102,2025-04-12T02:39:20Z,2025-04-22T19:06:32Z,7,9,MERGED
+storybook,Autoblock: Add autoblocker for addon-test,https://github.com/storybookjs/storybook/pull/31068,2025-04-04T09:13:41Z,2025-04-04T11:30:19Z,2,3,MERGED
+storybook,UI: Don't include error state in sidebar context menu,https://github.com/storybookjs/storybook/pull/31054,2025-04-03T11:01:41Z,2025-04-14T12:27:50Z,1,5,MERGED
+storybook,Core: Automatically expand testing module on unhandled error,https://github.com/storybookjs/storybook/pull/31028,2025-04-02T08:31:12Z,2025-04-03T08:32:01Z,1,7,MERGED
+storybook,"Core: Show ""Render story"" event explicitly in Component Tests event trace",https://github.com/storybookjs/storybook/pull/31027,2025-04-02T07:04:22Z,2025-04-02T22:00:11Z,1,14,MERGED
+storybook,CLI: Improve support for upgrading Storybook in monorepos,https://github.com/storybookjs/storybook/pull/31557,2025-05-23T13:21:28Z,2025-06-10T14:55:01Z,37,240,MERGED
+storybook,Docs: Add Code panel page,https://github.com/storybookjs/storybook/pull/31538,2025-05-21T22:15:33Z,2025-05-22T01:13:30Z,3,1,MERGED
+storybook,Core: Fix aria-controls attribute on sidebar nodes to include all children,https://github.com/storybookjs/storybook/pull/31491,2025-05-15T16:36:49Z,2025-06-25T15:26:10Z,5,7,MERGED
+storybook,Core: Remove duplicate notification dot on sidebar buttons on mobile,https://github.com/storybookjs/storybook/pull/31485,2025-05-15T07:31:39Z,2025-05-15T09:26:53Z,2,1,MERGED
+storybook,Addon Vitest: Improve error handling for multiple headed mode projects,https://github.com/storybookjs/storybook/pull/31479,2025-05-14T15:16:44Z,2025-05-20T14:17:54Z,2,1,MERGED
+storybook,Provide ability to leverage CSS variables for status values provided by Vitest,https://github.com/storybookjs/storybook/pull/31463,2025-05-12T17:16:41Z,2025-07-15T08:19:46Z,8,2,CLOSED
+storybook,Addon A11y: Improve selector automigration detection,https://github.com/storybookjs/storybook/pull/31392,2025-05-06T15:21:36Z,2025-05-26T12:54:47Z,1,1,MERGED
+storybook,[Snyk] Fix for 1 vulnerabilities,https://github.com/storybookjs/storybook/pull/31366,2025-05-02T12:25:17Z,2025-05-03T21:27:59Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade storybook from 0.0.0-use.local to 0.0.0,https://github.com/storybookjs/storybook/pull/31365,2025-05-02T12:25:14Z,2025-05-03T21:28:13Z,1,1,CLOSED
+storybook,[Snyk] Fix for 1 vulnerabilities,https://github.com/storybookjs/storybook/pull/31364,2025-05-02T12:25:12Z,2025-05-03T21:28:50Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade storybook from 0.0.0-use.local to 0.0.0,https://github.com/storybookjs/storybook/pull/31363,2025-05-02T12:25:11Z,2025-05-03T21:28:34Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/svelte-vite from 0.0.0-use.local to 7.0.0,https://github.com/storybookjs/storybook/pull/31354,2025-05-02T10:14:12Z,2025-05-03T21:29:13Z,2,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/svelte from 0.0.0-use.local to 4.0.0,https://github.com/storybookjs/storybook/pull/31353,2025-05-02T10:14:07Z,2025-05-03T21:27:28Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/builder-vite from 0.0.0-use.local to 0.1.22,https://github.com/storybookjs/storybook/pull/31352,2025-05-02T10:14:07Z,2025-05-03T21:29:24Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/builder-vite from 0.0.0-use.local to 0.1.22,https://github.com/storybookjs/storybook/pull/31349,2025-05-02T10:14:06Z,2025-05-03T21:30:50Z,1,1,CLOSED
+storybook,[Snyk] Fix for 1 vulnerabilities,https://github.com/storybookjs/storybook/pull/31351,2025-05-02T10:14:06Z,2025-05-03T21:30:27Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/react-vite from 0.0.0-use.local to 7.0.0,https://github.com/storybookjs/storybook/pull/31350,2025-05-02T10:14:06Z,2025-05-03T21:30:41Z,2,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/builder-vite from 0.0.0-use.local to 0.1.22,https://github.com/storybookjs/storybook/pull/31348,2025-05-02T10:13:57Z,2025-05-03T21:31:07Z,2,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/builder-vite from 0.0.0-use.local to 0.1.22,https://github.com/storybookjs/storybook/pull/31346,2025-05-02T10:13:55Z,2025-05-03T21:30:05Z,2,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/react-vite from 0.0.0-use.local to 7.0.0,https://github.com/storybookjs/storybook/pull/31347,2025-05-02T10:13:55Z,2025-05-03T21:31:15Z,1,1,CLOSED
+storybook,[Snyk] Security upgrade @storybook/builder-vite from 0.0.0-use.local to 0.1.22,https://github.com/storybookjs/storybook/pull/31345,2025-05-02T10:13:54Z,2025-05-03T21:29:49Z,1,1,CLOSED
+storybook,Svelte: Remove unused `svelte-preprocess` dependency,https://github.com/storybookjs/storybook/pull/31332,2025-05-01T14:24:39Z,2025-05-02T04:47:06Z,1,1,MERGED
+storybook,Core: Fix addon scrollbars and align scrollbar colors with toolbars,https://github.com/storybookjs/storybook/pull/31844,2025-06-23T08:40:45Z,2025-06-25T09:28:43Z,5,1,MERGED
+storybook,Docs: Prevent JSON tree control from swallowing keyboard events when not in focus,https://github.com/storybookjs/storybook/pull/31841,2025-06-23T02:29:24Z,2025-06-30T21:06:27Z,3,6,MERGED
+storybook,"CLI: Add RN/RNW ""both"" init option",https://github.com/storybookjs/storybook/pull/31778,2025-06-14T13:00:06Z,2025-06-15T08:39:21Z,2,3,MERGED
+storybook,CLI: Show Storybook version in the upgrade command,https://github.com/storybookjs/storybook/pull/31774,2025-06-13T13:27:52Z,2025-06-16T07:43:44Z,3,5,MERGED
+storybook,Core: Serve dynamic favicon based on testing module status,https://github.com/storybookjs/storybook/pull/31763,2025-06-12T14:21:51Z,2025-07-01T13:59:45Z,10,13,MERGED
+storybook,Core: Change favicon based on testing module status,https://github.com/storybookjs/storybook/pull/31756,2025-06-11T20:17:16Z,2025-06-12T14:29:02Z,12,1,CLOSED
+storybook,Core: Disable interactions debugger on composed stories to avoid cross-origin error,https://github.com/storybookjs/storybook/pull/31685,2025-06-06T09:00:22Z,2025-06-11T20:24:13Z,8,4,MERGED
+storybook,Docs: Add `afterEach` guidance,https://github.com/storybookjs/storybook/pull/32156,2025-07-30T22:14:21Z,2025-08-05T17:30:11Z,4,3,MERGED
+storybook,CLI: Fixed broken migration guide link,https://github.com/storybookjs/storybook/pull/32148,2025-07-30T01:43:18Z,2025-08-05T16:45:07Z,2,2,MERGED
+storybook,Maintenance: Add flag to toggle default automigrations,https://github.com/storybookjs/storybook/pull/32113,2025-07-23T15:11:19Z,2025-07-24T08:41:30Z,1,1,MERGED
+storybook,Addon Vitest: Simplify coverage reporter CJS workaround,https://github.com/storybookjs/storybook/pull/32066,2025-07-17T09:43:58Z,2025-07-17T15:02:34Z,2,1,MERGED
+storybook,Onboarding: Intent survey,https://github.com/storybookjs/storybook/pull/31944,2025-07-03T11:57:03Z,2025-07-09T06:17:04Z,18,22,MERGED
+storybook,Core: Update tags filter UI,https://github.com/storybookjs/storybook/pull/32343,2025-08-28T09:20:32Z,2025-09-01T07:45:04Z,2,9,MERGED
+storybook,Core: Fix `external-globals-plugin` handle `undefined` cache dir,https://github.com/storybookjs/storybook/pull/32579,2025-09-29T17:58:44Z,2025-09-30T07:19:28Z,2,1,MERGED
+storybook,UI: Fix floating menu button background color,https://github.com/storybookjs/storybook/pull/32554,2025-09-24T17:36:41Z,2025-09-25T12:39:14Z,4,2,MERGED
+storybook,UI: Improve sidebar empty state,https://github.com/storybookjs/storybook/pull/32548,2025-09-24T14:13:33Z,2025-09-25T09:10:56Z,4,5,MERGED
+storybook,Experiment: Inspect and highlight story components,https://github.com/storybookjs/storybook/pull/32545,2025-09-24T13:17:51Z,2025-09-25T08:41:36Z,3,1,CLOSED
+storybook,Add a correct color contrast,https://github.com/storybookjs/storybook/pull/32527,2025-09-22T19:42:17Z,2025-10-13T13:52:47Z,5,1,CLOSED
+storybook,UI: Add proper focus outline to Button,https://github.com/storybookjs/storybook/pull/32515,2025-09-21T13:31:06Z,2025-09-22T16:30:12Z,2,1,MERGED
+storybook,Controls: Fix adding new values to arrays,https://github.com/storybookjs/storybook/pull/32512,2025-09-20T13:19:31Z,2025-09-25T07:19:32Z,3,2,MERGED
+storybook,Core: Special UI for built-in tags,https://github.com/storybookjs/storybook/pull/32481,2025-09-16T15:09:45Z,2025-09-16T17:06:26Z,4,2,MERGED
+storybook,"Core: Add ""open in editor"" feature",https://github.com/storybookjs/storybook/pull/32452,2025-09-15T08:34:53Z,2025-09-18T12:10:53Z,44,56,MERGED
+storybook,UI: Add test numbers to sidebar,https://github.com/storybookjs/storybook/pull/32418,2025-09-05T09:30:54Z,2025-09-05T16:04:03Z,4,2,CLOSED
+storybook,UI: Review FileSearchList tooltip behavior and align style with sidebar,https://github.com/storybookjs/storybook/pull/32395,2025-09-03T19:20:44Z,2025-09-05T12:53:46Z,3,1,MERGED

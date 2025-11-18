@@ -1,0 +1,81 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+gravitee-ui-components,fix(gv-gauge): make background transparent,https://github.com/gravitee-io/gravitee-ui-components/pull/260,2021-01-29T08:36:28Z,2021-01-29T14:24:08Z,1,1,MERGED
+gravitee-ui-components,Add gv modal,https://github.com/gravitee-io/gravitee-ui-components/pull/291,2021-02-25T13:34:13Z,2021-03-01T08:24:33Z,1,1,MERGED
+gravitee-ui-components,Add Chromatic,https://github.com/gravitee-io/gravitee-ui-components/pull/286,2021-02-23T17:43:43Z,2021-02-25T09:35:16Z,4,7,MERGED
+gravitee-ui-components,CI: Rework CircleCI workflow to use simple Node Docker images,https://github.com/gravitee-io/gravitee-ui-components/pull/278,2021-02-12T19:59:21Z,2021-02-15T08:21:50Z,0,2,MERGED
+gravitee-ui-components,fix(gv-link): crop text and add `...` when it is too long to fit,https://github.com/gravitee-io/gravitee-ui-components/pull/277,2021-02-12T13:59:17Z,2021-02-15T07:18:01Z,1,1,MERGED
+gravitee-ui-components,fix(gv-cron-editor): compute mode from the value only for a few specific cases,https://github.com/gravitee-io/gravitee-ui-components/pull/276,2021-02-12T08:29:31Z,2021-02-12T14:08:01Z,0,1,MERGED
+gravitee-ui-components,Cron Editor: Various small enhancements of design and behavior,https://github.com/gravitee-io/gravitee-ui-components/pull/272,2021-02-10T09:33:59Z,2021-02-10T12:54:38Z,0,9,MERGED
+gravitee-ui-components,"Update Storybook, move i18n selection to toolbar, clean config",https://github.com/gravitee-io/gravitee-ui-components/pull/268,2021-02-08T07:32:24Z,2021-02-08T08:51:43Z,0,5,MERGED
+gravitee-ui-components,feat: dashboard of all alerts,https://github.com/gravitee-io/gravitee-ui-components/pull/310,2021-03-19T13:39:35Z,2021-03-23T16:28:45Z,1,1,MERGED
+gravitee-ui-components,gv-row-expandable component,https://github.com/gravitee-io/gravitee-ui-components/pull/307,2021-03-16T08:57:16Z,2021-03-17T14:22:58Z,3,2,MERGED
+gravitee-ui-components,feat(gv-state): handle new state,https://github.com/gravitee-io/gravitee-ui-components/pull/304,2021-03-15T15:19:33Z,2021-03-16T09:44:28Z,1,1,MERGED
+gravitee-ui-components,"Revert ""fix(gv-select): let select go out of parent item""",https://github.com/gravitee-io/gravitee-ui-components/pull/322,2021-04-08T07:04:31Z,2021-04-08T16:15:34Z,1,1,MERGED
+gravitee-ui-components,Update Storybook to display details of DOM Event and Custom Event,https://github.com/gravitee-io/gravitee-ui-components/pull/345,2021-05-14T16:28:31Z,2021-05-14T16:34:21Z,1,1,MERGED
+gravitee-ui-components,feat(gv-chart-histogram): improve histogram chart options usage,https://github.com/gravitee-io/gravitee-ui-components/pull/337,2021-05-06T11:52:51Z,2021-05-07T07:40:48Z,2,1,MERGED
+gravitee-ui-components,feat(gv-chart-histogram): add new component,https://github.com/gravitee-io/gravitee-ui-components/pull/335,2021-05-04T13:07:55Z,2021-05-05T09:24:03Z,4,1,MERGED
+gravitee-ui-components,feat(gv-chart-gauge): update gauge chart options,https://github.com/gravitee-io/gravitee-ui-components/pull/395,2021-06-28T08:04:35Z,2021-06-28T09:54:57Z,2,1,MERGED
+gravitee-ui-components,Format files with Prettier in pre-commit hook,https://github.com/gravitee-io/gravitee-ui-components/pull/386,2021-06-21T12:21:46Z,2021-06-21T12:29:09Z,2,1,MERGED
+gravitee-ui-components,CI: Add Danger JS and check definition.json file modification,https://github.com/gravitee-io/gravitee-ui-components/pull/414,2021-07-26T14:30:07Z,2021-07-27T08:04:53Z,2,3,MERGED
+gravitee-ui-components,Update `jdenticon` to v3,https://github.com/gravitee-io/gravitee-ui-components/pull/408,2021-07-19T06:49:20Z,2021-07-21T13:35:38Z,1,1,MERGED
+gravitee-ui-components,docs(gv-schema-form): add integer form-control sample with min/max validation,https://github.com/gravitee-io/gravitee-ui-components/pull/440,2021-08-30T12:18:33Z,2021-08-31T07:48:48Z,2,2,MERGED
+gravitee-ui-components,Fix story names,https://github.com/gravitee-io/gravitee-ui-components/pull/438,2021-08-26T12:44:45Z,2021-08-26T12:54:30Z,2,1,MERGED
+gravitee-ui-components,fix(gv-policy-studio): use correct icon and name for `try it` tab,https://github.com/gravitee-io/gravitee-ui-components/pull/432,2021-08-16T07:52:55Z,2021-08-16T07:58:44Z,2,1,MERGED
+gravitee-ui-components,feat: handle debug mode,https://github.com/gravitee-io/gravitee-ui-components/pull/419,2021-08-02T07:23:49Z,2021-08-13T14:58:42Z,3,1,MERGED
+gravitee-ui-components,Update dependency `@formatjs/intl-relativetimeformat` to v9,https://github.com/gravitee-io/gravitee-ui-components/pull/460,2021-09-26T18:33:05Z,2021-09-27T06:46:52Z,2,1,MERGED
+gravitee-ui-components,Add new `stop circle` icons,https://github.com/gravitee-io/gravitee-ui-components/pull/459,2021-09-21T09:06:56Z,2021-09-21T14:15:42Z,2,2,MERGED
+gravitee-ui-components,[Snyk] Security upgrade object-path from 0.11.5 to 0.11.8,https://github.com/gravitee-io/gravitee-ui-components/pull/455,2021-09-17T05:28:15Z,2021-09-17T11:56:16Z,2,1,MERGED
+gravitee-ui-components,feat(gv-table): Add cell value as title of a cell,https://github.com/gravitee-io/gravitee-ui-components/pull/454,2021-09-15T16:22:42Z,2021-09-21T07:55:50Z,5,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade jdenticon from 3.1.0 to 3.1.1,https://github.com/gravitee-io/gravitee-ui-components/pull/452,2021-09-15T01:47:08Z,2021-09-26T18:53:19Z,1,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade whatwg-fetch from 3.4.1 to 3.6.2,https://github.com/gravitee-io/gravitee-ui-components/pull/451,2021-09-15T01:47:04Z,2021-09-26T18:53:18Z,1,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade codemirror from 5.59.2 to 5.62.3,https://github.com/gravitee-io/gravitee-ui-components/pull/450,2021-09-15T01:46:58Z,2021-09-26T18:53:18Z,1,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade date-fns from 2.17.0 to 2.23.0,https://github.com/gravitee-io/gravitee-ui-components/pull/449,2021-09-15T01:46:53Z,2021-09-26T18:53:17Z,1,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-relativetimeformat from 4.5.9 to 9.2.3,https://github.com/gravitee-io/gravitee-ui-components/pull/448,2021-09-15T01:46:50Z,2021-09-26T18:53:17Z,1,1,CLOSED
+gravitee-ui-components,fix: do not shrink row content if there are a lot of metadata,https://github.com/gravitee-io/gravitee-ui-components/pull/444,2021-09-08T12:54:51Z,2021-09-16T06:31:36Z,2,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade date-fns from 2.24.0 to 2.25.0,https://github.com/gravitee-io/gravitee-ui-components/pull/488,2021-10-26T23:35:24Z,2021-10-28T08:46:35Z,2,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade codemirror from 5.63.0 to 5.63.1,https://github.com/gravitee-io/gravitee-ui-components/pull/482,2021-10-20T23:50:44Z,2021-10-21T07:45:50Z,3,1,MERGED
+gravitee-ui-components,Improve schema form for SME ,https://github.com/gravitee-io/gravitee-ui-components/pull/479,2021-10-19T14:15:43Z,2021-10-19T19:47:36Z,5,7,MERGED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-relativetimeformat from 9.3.0 to 9.3.1,https://github.com/gravitee-io/gravitee-ui-components/pull/478,2021-10-19T01:06:58Z,2021-10-19T12:08:23Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-locale from 2.4.37 to 2.4.38,https://github.com/gravitee-io/gravitee-ui-components/pull/477,2021-10-19T01:06:54Z,2021-10-19T21:23:22Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-relativetimeformat from 9.2.3 to 9.3.0,https://github.com/gravitee-io/gravitee-ui-components/pull/475,2021-10-17T20:31:27Z,2021-10-18T06:19:49Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade codemirror from 5.59.2 to 5.63.0,https://github.com/gravitee-io/gravitee-ui-components/pull/471,2021-10-12T05:53:26Z,2021-10-12T13:24:25Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade date-fns from 2.17.0 to 2.24.0,https://github.com/gravitee-io/gravitee-ui-components/pull/468,2021-10-09T22:23:26Z,2021-10-12T13:10:18Z,3,1,MERGED
+gravitee-ui-components,Publish a pre-version on GitHub package registry for each PR,https://github.com/gravitee-io/gravitee-ui-components/pull/467,2021-10-07T17:29:43Z,2021-10-12T06:27:13Z,4,1,MERGED
+gravitee-ui-components,Fix icon display in app using AngularJS,https://github.com/gravitee-io/gravitee-ui-components/pull/464,2021-10-07T11:46:57Z,2021-10-07T12:20:54Z,2,1,MERGED
+gravitee-ui-components,6485 display owner,https://github.com/gravitee-io/gravitee-ui-components/pull/507,2021-11-22T10:54:27Z,2021-11-23T08:59:51Z,6,2,MERGED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-locale from 2.4.39 to 2.4.40,https://github.com/gravitee-io/gravitee-ui-components/pull/503,2021-11-12T21:27:40Z,2021-11-15T20:14:51Z,4,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade codemirror from 5.63.2 to 5.63.3,https://github.com/gravitee-io/gravitee-ui-components/pull/502,2021-11-11T02:47:17Z,2021-12-21T07:03:09Z,2,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-relativetimeformat from 9.3.1 to 9.3.2,https://github.com/gravitee-io/gravitee-ui-components/pull/496,2021-11-08T01:38:37Z,2021-11-08T10:59:10Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-locale from 2.4.38 to 2.4.39,https://github.com/gravitee-io/gravitee-ui-components/pull/495,2021-11-08T01:38:32Z,2021-11-08T10:10:07Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade codemirror from 5.63.1 to 5.63.2,https://github.com/gravitee-io/gravitee-ui-components/pull/492,2021-11-02T00:27:49Z,2021-11-02T07:37:08Z,3,1,MERGED
+gravitee-ui-components,feat: improve conditional policy icon style,https://github.com/gravitee-io/gravitee-ui-components/pull/534,2021-12-29T10:12:53Z,2021-12-29T12:53:52Z,4,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-relativetimeformat from 9.3.2 to 9.3.3,https://github.com/gravitee-io/gravitee-ui-components/pull/528,2021-12-22T16:44:32Z,2021-12-27T08:06:06Z,2,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-locale from 2.4.40 to 2.4.41,https://github.com/gravitee-io/gravitee-ui-components/pull/527,2021-12-22T16:44:28Z,2021-12-27T08:05:48Z,3,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade date-fns from 2.26.0 to 2.27.0,https://github.com/gravitee-io/gravitee-ui-components/pull/524,2021-12-21T17:56:00Z,2021-12-27T08:05:26Z,4,3,CLOSED
+gravitee-ui-components,fix: use lit instead lit-html to import classMap,https://github.com/gravitee-io/gravitee-ui-components/pull/523,2021-12-21T12:57:26Z,2021-12-21T13:19:09Z,3,1,MERGED
+gravitee-ui-components,fix: remove unnecessary perform update,https://github.com/gravitee-io/gravitee-ui-components/pull/519,2021-12-16T15:14:55Z,2021-12-16T16:50:57Z,4,1,MERGED
+gravitee-ui-components,Split policy settings into two sections ,https://github.com/gravitee-io/gravitee-ui-components/pull/518,2021-12-16T09:10:56Z,2021-12-21T10:50:02Z,8,4,MERGED
+gravitee-ui-components,"Split policy settings into two sections (Common, Policy) ",https://github.com/gravitee-io/gravitee-ui-components/pull/516,2021-12-14T10:28:49Z,2021-12-16T14:17:12Z,3,6,CLOSED
+gravitee-ui-components,[Snyk] Upgrade date-fns from 2.24.0 to 2.26.0,https://github.com/gravitee-io/gravitee-ui-components/pull/513,2021-12-11T05:35:42Z,2021-12-13T06:41:48Z,4,1,MERGED
+gravitee-ui-components,"fix: revert ""chore(deps): update dependency semantic-release to v19""",https://github.com/gravitee-io/gravitee-ui-components/pull/558,2022-01-25T14:32:23Z,2022-01-25T14:42:14Z,4,1,MERGED
+gravitee-ui-components,fix: explicitly add `.js` ending for each lit import,https://github.com/gravitee-io/gravitee-ui-components/pull/553,2022-01-17T19:06:41Z,2022-01-17T19:35:34Z,3,1,MERGED
+gravitee-ui-components,fix: explicitly add `.js` ending for each lit import,https://github.com/gravitee-io/gravitee-ui-components/pull/552,2022-01-17T10:06:30Z,2022-01-17T12:56:19Z,4,1,MERGED
+gravitee-ui-components,fix(gv-http-client): fix Lit import for repeat directive,https://github.com/gravitee-io/gravitee-ui-components/pull/540,2022-01-07T06:34:51Z,2022-01-07T07:15:46Z,3,1,MERGED
+gravitee-ui-components,"Revert ""ci: remove manual approval to run chromatic job""",https://github.com/gravitee-io/gravitee-ui-components/pull/563,2022-02-07T16:21:36Z,2022-02-07T19:43:52Z,3,1,MERGED
+gravitee-ui-components,feat: add disabled state for gv-cron-editor,https://github.com/gravitee-io/gravitee-ui-components/pull/610,2022-11-10T16:09:25Z,2022-11-14T10:49:05Z,6,1,MERGED
+gravitee-ui-components,fix(gv-select): correctly display and place option list when used in a small container,https://github.com/gravitee-io/gravitee-ui-components/pull/645,2023-03-30T09:50:57Z,2023-03-31T07:31:47Z,8,2,MERGED
+gravitee-ui-components,Handle disabled state on input with x-schema-form condition when loading,https://github.com/gravitee-io/gravitee-ui-components/pull/644,2023-03-28T19:40:16Z,2023-03-29T09:33:56Z,5,2,MERGED
+gravitee-ui-components,fix(gv-chart-line): reduce max number of element in tooltip column,https://github.com/gravitee-io/gravitee-ui-components/pull/636,2023-03-07T08:19:16Z,2023-03-07T08:27:15Z,3,1,MERGED
+gravitee-ui-components,Use `hc-key` ref in map to ensure china is properly identified,https://github.com/gravitee-io/gravitee-ui-components/pull/653,2023-05-05T15:42:24Z,2023-05-09T06:23:37Z,3,1,MERGED
+gravitee-ui-components,fix: keep name text aline left when is long string,https://github.com/gravitee-io/gravitee-ui-components/pull/651,2023-05-04T14:33:26Z,2023-05-04T14:43:44Z,3,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade date-fns from 2.28.0 to 2.30.0,https://github.com/gravitee-io/gravitee-ui-components/pull/665,2023-09-17T06:10:28Z,2025-06-24T12:37:53Z,1,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade @formatjs/intl-locale from 2.4.41 to 2.4.47,https://github.com/gravitee-io/gravitee-ui-components/pull/664,2023-09-17T06:10:23Z,2025-06-24T12:37:52Z,2,1,CLOSED
+gravitee-ui-components,[Snyk] Upgrade @codemirror/stream-parser from 0.19.3 to 0.19.9,https://github.com/gravitee-io/gravitee-ui-components/pull/663,2023-09-17T06:10:20Z,2023-11-30T12:29:12Z,5,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade whatwg-fetch from 3.6.2 to 3.6.17,https://github.com/gravitee-io/gravitee-ui-components/pull/662,2023-09-17T06:10:16Z,2023-11-30T10:39:29Z,5,1,MERGED
+gravitee-ui-components,[Snyk] Upgrade lit from 2.0.2 to 2.8.0,https://github.com/gravitee-io/gravitee-ui-components/pull/661,2023-09-17T06:10:13Z,2025-06-24T12:37:52Z,2,1,CLOSED
+gravitee-ui-components,fix: remove useless space before button,https://github.com/gravitee-io/gravitee-ui-components/pull/669,2023-11-29T08:37:59Z,2023-11-30T09:33:42Z,3,1,MERGED
+gravitee-ui-components,fix: remove nesting of folder arrows,https://github.com/gravitee-io/gravitee-ui-components/pull/668,2023-11-03T14:12:08Z,2023-11-06T09:30:42Z,4,2,MERGED
+gravitee-ui-components,feat: collapse gv-tree by default,https://github.com/gravitee-io/gravitee-ui-components/pull/673,2024-01-29T10:19:00Z,2024-01-29T16:04:06Z,5,1,MERGED
+gravitee-ui-components,fix: render markdown in gv-promote description,https://github.com/gravitee-io/gravitee-ui-components/pull/676,2024-02-27T15:44:46Z,2024-02-27T15:53:14Z,3,1,MERGED
+gravitee-ui-components,feat: render markdown in gv-card-full description,https://github.com/gravitee-io/gravitee-ui-components/pull/675,2024-02-27T09:26:25Z,2024-02-27T11:25:51Z,5,1,MERGED
+gravitee-ui-components,fix: lock dompurify to 3.1.5 to avoid issue with ~3.1.7,https://github.com/gravitee-io/gravitee-ui-components/pull/685,2024-09-27T15:13:17Z,2024-09-27T15:35:57Z,4,1,MERGED

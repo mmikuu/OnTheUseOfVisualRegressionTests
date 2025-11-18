@@ -1,0 +1,112 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+radiance-ui,Configure enzyme and add Icon component,https://github.com/curology/radiance-ui/pull/4,2018-10-31T21:44:58Z,2018-11-02T18:54:25Z,6,6,MERGED
+radiance-ui,move breakpoints into its own constant file,https://github.com/curology/radiance-ui/pull/3,2018-10-30T23:31:11Z,2018-10-31T02:14:27Z,0,1,MERGED
+radiance-ui,Add constant stories and update colors,https://github.com/curology/radiance-ui/pull/1,2018-10-30T04:04:17Z,2018-10-30T22:39:55Z,5,7,MERGED
+radiance-ui,"[RadioButton] Add `<RadioButton />` component, test, story & documentation",https://github.com/curology/radiance-ui/pull/26,2018-11-28T02:53:27Z,2018-11-29T02:06:45Z,1,3,MERGED
+radiance-ui,[Icons] Rename LogoCIcon and add deprecation notice,https://github.com/curology/radiance-ui/pull/23,2018-11-20T20:19:56Z,2018-11-21T00:59:55Z,0,2,MERGED
+radiance-ui,[Icons] Add `NoMakeupGlyph` and `LockGlyph`,https://github.com/curology/radiance-ui/pull/22,2018-11-16T19:06:59Z,2018-11-16T22:50:45Z,0,1,MERGED
+radiance-ui,[Icons] Add emoji icons,https://github.com/curology/radiance-ui/pull/19,2018-11-14T20:21:03Z,2018-11-14T21:52:16Z,2,3,MERGED
+radiance-ui,Add Alert component + story + tests,https://github.com/curology/radiance-ui/pull/5,2018-11-03T05:07:22Z,2018-11-06T20:25:26Z,4,6,MERGED
+radiance-ui,Modal gatsby patch,https://github.com/curology/radiance-ui/pull/46,2019-01-29T18:17:58Z,2019-01-29T18:22:18Z,0,4,MERGED
+radiance-ui,Fix console warning,https://github.com/curology/radiance-ui/pull/37,2019-01-22T19:45:40Z,2019-01-22T20:53:01Z,0,2,MERGED
+radiance-ui,add quinary button,https://github.com/curology/radiance-ui/pull/36,2019-01-11T22:23:33Z,2019-01-15T18:22:39Z,4,5,MERGED
+radiance-ui,Checkbox,https://github.com/curology/radiance-ui/pull/35,2019-01-11T00:39:49Z,2019-01-14T22:01:01Z,6,4,MERGED
+radiance-ui,VerticalDivider component,https://github.com/curology/radiance-ui/pull/59,2019-02-19T23:25:23Z,2019-03-06T01:38:29Z,4,3,CLOSED
+radiance-ui,Added equals icon.,https://github.com/curology/radiance-ui/pull/58,2019-02-16T01:11:49Z,2019-03-06T18:38:22Z,0,2,MERGED
+radiance-ui,Course glyph,https://github.com/curology/radiance-ui/pull/57,2019-02-16T01:02:00Z,2019-03-06T18:07:09Z,1,4,MERGED
+radiance-ui,Added spaceship glyph.,https://github.com/curology/radiance-ui/pull/56,2019-02-16T00:59:48Z,2019-03-06T18:37:56Z,1,3,MERGED
+radiance-ui,Added minus icon,https://github.com/curology/radiance-ui/pull/55,2019-02-16T00:57:06Z,2019-03-06T18:07:39Z,0,2,MERGED
+radiance-ui,Creating Banner that looks like a full width Alert,https://github.com/curology/radiance-ui/pull/49,2019-02-06T21:19:02Z,2019-03-08T00:40:00Z,13,15,MERGED
+radiance-ui,[Icons] Add clipboard,https://github.com/curology/radiance-ui/pull/48,2019-02-06T18:58:26Z,2019-02-06T19:30:29Z,3,2,MERGED
+radiance-ui,Add `<LinkButton>` to Radiance ✨,https://github.com/curology/radiance-ui/pull/71,2019-03-14T01:00:02Z,2019-03-19T22:19:42Z,2,4,MERGED
+radiance-ui,Added optional icon to checkbox and radio button,https://github.com/curology/radiance-ui/pull/70,2019-03-12T19:54:54Z,2019-03-18T22:28:54Z,6,33,MERGED
+radiance-ui,Adjust immersive modal to take width param,https://github.com/curology/radiance-ui/pull/66,2019-03-07T19:34:59Z,2019-03-07T23:53:07Z,1,4,MERGED
+radiance-ui,Severe acne emoji,https://github.com/curology/radiance-ui/pull/65,2019-03-06T18:13:08Z,2019-03-06T18:37:09Z,0,2,MERGED
+radiance-ui,Noticeable acne emoji,https://github.com/curology/radiance-ui/pull/64,2019-03-06T18:11:48Z,2019-04-04T00:00:03Z,0,3,MERGED
+radiance-ui,Mild acne emoji,https://github.com/curology/radiance-ui/pull/63,2019-03-06T18:09:16Z,2019-03-06T18:37:39Z,0,2,MERGED
+radiance-ui,Add glyphs for new treatment page,https://github.com/curology/radiance-ui/pull/60,2019-03-01T18:13:48Z,2019-03-04T17:28:29Z,5,5,MERGED
+radiance-ui,Modal global fix,https://github.com/curology/radiance-ui/pull/95,2019-04-26T19:34:30Z,2019-04-26T20:24:16Z,0,1,MERGED
+radiance-ui,RoundButton Cleanup,https://github.com/curology/radiance-ui/pull/83,2019-04-04T18:40:49Z,2019-04-08T20:14:58Z,0,3,MERGED
+radiance-ui,added `content` prop type to alert component,https://github.com/curology/radiance-ui/pull/106,2019-05-20T18:08:29Z,2019-05-21T19:17:08Z,6,4,MERGED
+radiance-ui,Calendar icon,https://github.com/curology/radiance-ui/pull/104,2019-05-11T01:27:01Z,2019-05-11T01:27:57Z,3,1,MERGED
+radiance-ui,added two icons,https://github.com/curology/radiance-ui/pull/102,2019-05-06T22:30:36Z,2019-05-06T23:30:50Z,0,1,MERGED
+radiance-ui,Add new SPACER constants,https://github.com/curology/radiance-ui/pull/101,2019-05-03T20:15:50Z,2019-05-06T16:24:59Z,0,1,MERGED
+radiance-ui,Feature/add button full width prop,https://github.com/curology/radiance-ui/pull/129,2019-06-28T23:26:59Z,2019-07-08T21:53:32Z,4,15,MERGED
+radiance-ui,Update Shadow Colors,https://github.com/curology/radiance-ui/pull/122,2019-06-21T23:08:50Z,2019-06-22T00:52:17Z,0,3,MERGED
+radiance-ui,Fix option-button bug,https://github.com/curology/radiance-ui/pull/133,2019-07-10T00:00:21Z,2019-07-10T18:05:53Z,1,2,MERGED
+radiance-ui,Add tag ID prop to modal container,https://github.com/curology/radiance-ui/pull/147,2019-10-28T20:44:04Z,2019-10-28T21:55:15Z,0,1,MERGED
+radiance-ui,Add Info circle icon,https://github.com/curology/radiance-ui/pull/146,2019-10-16T18:38:45Z,2019-10-16T18:42:39Z,0,1,CLOSED
+radiance-ui,Allow node proptype for OptionButton subtext,https://github.com/curology/radiance-ui/pull/143,2019-10-08T21:15:25Z,2019-10-16T21:02:29Z,0,1,MERGED
+radiance-ui,[Patch] Sequence onExit callback after setState in Alert component,https://github.com/curology/radiance-ui/pull/149,2019-11-07T21:51:38Z,2019-11-07T23:29:57Z,1,1,MERGED
+radiance-ui,[Icon Updates] Update accordion chevron,https://github.com/curology/radiance-ui/pull/196,2020-02-11T19:58:37Z,2020-02-11T21:34:14Z,0,2,MERGED
+radiance-ui,[Hotfix] - SVG styles leaking outside Field component,https://github.com/curology/radiance-ui/pull/210,2020-03-23T19:20:23Z,2020-03-24T14:25:36Z,0,2,MERGED
+radiance-ui,[Icon Updates] Adds CirclePlusIcon and CircleMinusIcon,https://github.com/curology/radiance-ui/pull/220,2020-04-16T19:42:22Z,2020-04-17T13:00:36Z,5,4,MERGED
+radiance-ui,[Buttons] Add color prop to buttons,https://github.com/curology/radiance-ui/pull/219,2020-04-14T20:59:22Z,2020-04-15T20:12:57Z,11,19,MERGED
+radiance-ui,Update glyphs and emojis,https://github.com/curology/radiance-ui/pull/217,2020-04-07T16:05:34Z,2020-04-07T16:20:11Z,0,16,MERGED
+radiance-ui,[Update-Glyphs-Emojis] Updating all the glyphs and emojis from Figma,https://github.com/curology/radiance-ui/pull/215,2020-04-01T17:51:46Z,2020-04-07T15:45:19Z,12,12,MERGED
+radiance-ui,Use circle icon for selected radio buttons instead of a checkmark,https://github.com/curology/radiance-ui/pull/244,2020-05-29T15:22:31Z,2020-05-29T17:51:01Z,4,2,MERGED
+radiance-ui,Exclude deprecated SPACING constant from story,https://github.com/curology/radiance-ui/pull/239,2020-05-12T19:33:40Z,2020-05-14T19:27:26Z,4,1,CLOSED
+radiance-ui,Update glyphs and icons,https://github.com/curology/radiance-ui/pull/250,2020-06-24T22:56:16Z,2020-06-25T18:14:57Z,1,3,MERGED
+radiance-ui,[a11y] Add box-shadow to TextButton,https://github.com/curology/radiance-ui/pull/284,2020-07-22T20:37:13Z,2020-07-22T20:50:20Z,1,2,MERGED
+radiance-ui,[a11y] Trap keyboard focus in DialogModal,https://github.com/curology/radiance-ui/pull/283,2020-07-22T18:48:30Z,2020-07-22T21:07:45Z,4,3,MERGED
+radiance-ui,[TypeScript] Add CI Check,https://github.com/curology/radiance-ui/pull/271,2020-07-20T15:18:02Z,2020-07-20T16:58:07Z,0,2,MERGED
+radiance-ui,[a11y] Add box-shadow outline to button focus state,https://github.com/curology/radiance-ui/pull/265,2020-07-16T19:48:59Z,2020-07-16T22:11:07Z,1,2,MERGED
+radiance-ui,Update dropdown component max-height,https://github.com/curology/radiance-ui/pull/256,2020-07-02T16:05:33Z,2020-07-02T21:49:35Z,7,5,MERGED
+radiance-ui,Add disabled prop to Checkbox component,https://github.com/curology/radiance-ui/pull/303,2020-08-10T20:16:38Z,2020-08-12T14:47:17Z,3,8,MERGED
+radiance-ui,[Components] Add SegmentedControl,https://github.com/curology/radiance-ui/pull/405,2020-09-28T18:35:09Z,2021-09-28T15:31:53Z,14,39,MERGED
+radiance-ui,[a11y] Other Focus States,https://github.com/curology/radiance-ui/pull/400,2020-09-25T21:04:08Z,2020-09-29T15:21:21Z,7,16,MERGED
+radiance-ui,[a11y] Alert Changes,https://github.com/curology/radiance-ui/pull/397,2020-09-25T19:00:20Z,2020-09-25T19:17:06Z,0,7,MERGED
+radiance-ui,[a11y] Add focus to Toggle,https://github.com/curology/radiance-ui/pull/394,2020-09-24T15:34:27Z,2020-09-24T17:14:09Z,1,8,MERGED
+radiance-ui,[a11y] Update focus states,https://github.com/curology/radiance-ui/pull/390,2020-09-23T21:37:56Z,2020-09-24T17:14:00Z,0,5,MERGED
+radiance-ui,Move Arrow to exported icons directory,https://github.com/curology/radiance-ui/pull/386,2020-09-21T20:37:53Z,2020-09-22T18:27:00Z,1,1,MERGED
+radiance-ui,[Option Button] Add 4px border-radius,https://github.com/curology/radiance-ui/pull/374,2020-09-16T20:22:50Z,2020-09-16T21:40:10Z,0,2,MERGED
+radiance-ui,[Accordion] Update Accordion.Container-based Styling,https://github.com/curology/radiance-ui/pull/371,2020-09-15T22:12:20Z,2020-09-18T15:43:09Z,4,19,MERGED
+radiance-ui,[Dropdown] Apply box-shadow changes ,https://github.com/curology/radiance-ui/pull/338,2020-09-09T19:25:53Z,2020-09-14T20:04:13Z,6,9,MERGED
+radiance-ui,Update Carousel component to have bottom right aligned arrows,https://github.com/curology/radiance-ui/pull/336,2020-09-08T21:57:15Z,2020-09-09T19:51:28Z,3,5,MERGED
+radiance-ui,[Hotfixes] -  Verification messages animation and modal,https://github.com/curology/radiance-ui/pull/437,2020-10-22T19:37:12Z,2020-10-22T20:32:54Z,1,3,MERGED
+radiance-ui,[Storybook] Replace storiesOf API with Component Story Format + MDX,https://github.com/curology/radiance-ui/pull/416,2020-10-05T16:27:51Z,2020-10-20T21:33:54Z,17,98,MERGED
+radiance-ui,Add Chromatic Integration,https://github.com/curology/radiance-ui/pull/409,2020-10-01T19:17:20Z,2020-10-23T14:47:17Z,15,44,MERGED
+radiance-ui,[Theming] Overhaul Icon Generation,https://github.com/curology/radiance-ui/pull/529,2020-11-17T18:07:16Z,2020-11-24T19:01:14Z,17,58,MERGED
+radiance-ui,[Theming] Add TYPOGRAPHY_CONSTANTS,https://github.com/curology/radiance-ui/pull/520,2020-11-11T18:20:03Z,2020-11-11T18:45:09Z,4,4,MERGED
+radiance-ui,[ImmersiveModal] Fix PropTypes,https://github.com/curology/radiance-ui/pull/518,2020-11-11T14:51:37Z,2020-11-11T14:54:15Z,0,1,MERGED
+radiance-ui,[Bugfix] Immersive Modal Focus Handling,https://github.com/curology/radiance-ui/pull/517,2020-11-11T00:04:36Z,2020-11-11T13:00:18Z,0,3,MERGED
+radiance-ui,[Theming] Fix tsc output,https://github.com/curology/radiance-ui/pull/498,2020-11-02T19:28:55Z,2020-11-02T20:22:05Z,4,2,MERGED
+radiance-ui,[POC] Add Bundlewatch to Build Step,https://github.com/curology/radiance-ui/pull/667,2020-12-30T22:34:31Z,2020-12-31T15:43:05Z,0,5,MERGED
+radiance-ui,[Icons] Modify AcneGlyphSecondary,https://github.com/curology/radiance-ui/pull/652,2020-12-16T23:58:40Z,2020-12-17T00:16:33Z,0,1,MERGED
+radiance-ui,[Theme] - Change Primary Buttons colors for Secondary Theme,https://github.com/curology/radiance-ui/pull/651,2020-12-16T19:00:35Z,2020-12-17T16:46:28Z,9,9,MERGED
+radiance-ui,[Theme] - Border Radius,https://github.com/curology/radiance-ui/pull/642,2020-12-15T15:15:38Z,2020-12-15T19:34:25Z,11,11,MERGED
+radiance-ui,"[Theming] Apply distinct secondary Display, Heading, and Title font",https://github.com/curology/radiance-ui/pull/589,2020-12-03T20:24:18Z,2020-12-03T21:44:05Z,1,2,MERGED
+radiance-ui,[Theming] Replace primaryTint3 with textDisabled in Tab,https://github.com/curology/radiance-ui/pull/588,2020-12-03T18:15:32Z,2020-12-03T18:20:52Z,0,1,MERGED
+radiance-ui,[Theme] - Fix field placeholder color for secondary theme,https://github.com/curology/radiance-ui/pull/582,2020-12-02T17:07:35Z,2020-12-02T19:09:41Z,0,1,MERGED
+radiance-ui,[Components] Add background color to Indicator component,https://github.com/curology/radiance-ui/pull/718,2021-01-26T22:21:11Z,2021-01-27T18:29:31Z,4,7,MERGED
+radiance-ui,[Icons] Fix truck-icon-secondary,https://github.com/curology/radiance-ui/pull/681,2021-01-08T21:30:53Z,2021-01-08T21:38:40Z,0,1,MERGED
+radiance-ui,More ingredients icons,https://github.com/curology/radiance-ui/pull/815,2021-02-23T18:00:08Z,2021-02-23T18:24:12Z,0,1,MERGED
+radiance-ui,Add Sun+moon glyph,https://github.com/curology/radiance-ui/pull/801,2021-02-17T22:20:09Z,2021-02-18T18:53:59Z,3,4,MERGED
+radiance-ui,[Chromatic] Add Visual Regression Testing to Secondary Theme,https://github.com/curology/radiance-ui/pull/797,2021-02-15T21:44:02Z,2021-02-17T14:50:46Z,3,23,MERGED
+radiance-ui,[Callout] Adds new 'success' type,https://github.com/curology/radiance-ui/pull/780,2021-02-13T00:13:30Z,2021-02-16T20:04:57Z,0,2,MERGED
+radiance-ui,Change max-height of ModalContainer,https://github.com/curology/radiance-ui/pull/779,2021-02-12T21:42:34Z,2021-02-18T19:15:04Z,7,5,MERGED
+radiance-ui,"[Theme] [Components] Add AnchorLinkButton, update TYPOGRAPHY_STYLE.link",https://github.com/curology/radiance-ui/pull/778,2021-02-12T17:46:44Z,2021-02-16T20:04:41Z,6,10,MERGED
+radiance-ui,[Icons] Add correct Secondary Calendar icon,https://github.com/curology/radiance-ui/pull/772,2021-02-11T22:47:26Z,2021-02-11T23:00:33Z,0,1,MERGED
+radiance-ui,"[Chip] Add Low Contrast Variation, remove Secondary styling",https://github.com/curology/radiance-ui/pull/883,2021-03-25T15:30:48Z,2021-03-29T20:16:57Z,1,3,MERGED
+radiance-ui,[Icons] Add Secondary Logo,https://github.com/curology/radiance-ui/pull/879,2021-03-24T21:53:11Z,2021-03-24T22:04:20Z,0,1,MERGED
+radiance-ui,[OptionButton] Add OptionButton.NotClickable presentational component,https://github.com/curology/radiance-ui/pull/905,2021-04-01T21:27:37Z,2021-04-06T16:27:29Z,5,9,MERGED
+radiance-ui,[TypeScript] Prefer React.FC For Component Typing,https://github.com/curology/radiance-ui/pull/983,2021-05-24T16:15:28Z,2021-05-24T18:29:09Z,5,5,MERGED
+radiance-ui,Update Agency Fonts + Story,https://github.com/curology/radiance-ui/pull/962,2021-05-10T16:47:55Z,2021-05-13T14:41:02Z,0,4,MERGED
+radiance-ui,[Glyphs] Add MelasmaGlyph,https://github.com/curology/radiance-ui/pull/1080,2021-07-19T18:16:23Z,2021-07-19T20:12:36Z,0,5,MERGED
+radiance-ui,Add aria-label to dropdown component,https://github.com/curology/radiance-ui/pull/1110,2021-08-06T16:42:36Z,2021-08-09T22:09:56Z,4,1,CLOSED
+radiance-ui,[SegmentedControl] Refinements,https://github.com/curology/radiance-ui/pull/1177,2021-09-24T03:39:13Z,2021-09-28T03:13:39Z,0,9,MERGED
+radiance-ui,"Add cleanse, hydrate, and protect glyphs [PX-51]",https://github.com/curology/radiance-ui/pull/1175,2021-09-22T23:03:21Z,2021-10-06T19:40:33Z,5,9,MERGED
+radiance-ui,[ImmersiveModal] Add aria-label to CrossIconButton,https://github.com/curology/radiance-ui/pull/1167,2021-09-20T19:35:34Z,2021-09-20T19:50:44Z,1,1,MERGED
+radiance-ui,[Glyphs] Update CleanserGlyphSecondary,https://github.com/curology/radiance-ui/pull/1152,2021-09-10T18:07:51Z,2021-09-14T18:28:46Z,0,1,MERGED
+radiance-ui,[AnchorLinkButton] Remove text-decoration-skip-ink style,https://github.com/curology/radiance-ui/pull/1246,2021-10-28T18:54:22Z,2021-10-29T16:41:43Z,0,1,MERGED
+radiance-ui,Add cleanser moisturizer duo glyph,https://github.com/curology/radiance-ui/pull/1518,2022-04-19T22:06:42Z,2022-04-20T21:19:45Z,2,1,MERGED
+radiance-ui,[a11y] Add aria-checked to OptionButton,https://github.com/curology/radiance-ui/pull/1593,2022-05-31T19:37:36Z,2022-05-31T20:29:59Z,1,1,MERGED
+radiance-ui,[a11y] Add screen reader indicator for invalid input,https://github.com/curology/radiance-ui/pull/1621,2022-06-16T17:43:47Z,2022-06-23T17:38:27Z,1,2,MERGED
+radiance-ui,meron/add border and update border-radius of OptionButton,https://github.com/curology/radiance-ui/pull/1745,2022-09-26T17:00:34Z,2022-09-26T20:48:00Z,1,2,MERGED
+radiance-ui,[SEO-124] Update secondaryTint4 color,https://github.com/curology/radiance-ui/pull/1739,2022-09-20T20:05:01Z,2022-09-21T14:09:17Z,1,1,MERGED
+radiance-ui,meron/[GE-470] enable photo display for designated option buttons,https://github.com/curology/radiance-ui/pull/1735,2022-09-15T22:31:06Z,2022-09-16T18:06:13Z,4,14,MERGED
+radiance-ui,add spironolactone glyph,https://github.com/curology/radiance-ui/pull/1847,2023-01-23T01:11:48Z,2023-01-24T02:33:24Z,2,2,MERGED
+radiance-ui,[money-630] Replace larssiet font with skintype-text,https://github.com/curology/radiance-ui/pull/1875,2023-07-18T01:43:59Z,2023-07-27T20:04:06Z,7,7,MERGED
+radiance-ui,Add glyphs for Eye Formula launch,https://github.com/curology/radiance-ui/pull/1877,2023-12-15T21:53:26Z,2023-12-19T18:06:08Z,3,5,MERGED
+radiance-ui,[AA-806] Add Dark Circles glyph to Radiance UI,https://github.com/curology/radiance-ui/pull/1879,2024-01-08T23:17:01Z,2024-01-10T18:57:38Z,2,1,MERGED
+radiance-ui,Adds required/optional tag option to accordion,https://github.com/curology/radiance-ui/pull/1881,2024-05-17T17:02:40Z,2024-05-17T17:55:01Z,3,6,MERGED

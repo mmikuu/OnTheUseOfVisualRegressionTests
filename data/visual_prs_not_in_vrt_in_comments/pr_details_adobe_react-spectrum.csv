@@ -1,0 +1,142 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+react-spectrum,RSP-1382: ProgressBar valueLabel story,https://github.com/adobe/react-spectrum/pull/96,2019-12-10T16:14:06Z,2019-12-11T01:03:22Z,1,1,MERGED
+react-spectrum,fix: correct Textarea/Textfield padding and alignment,https://github.com/adobe/react-spectrum/pull/162,2020-01-21T23:44:04Z,2021-10-15T23:49:18Z,6,3,CLOSED
+react-spectrum,Support complex menu items in Picker,https://github.com/adobe/react-spectrum/pull/293,2020-03-18T22:32:26Z,2020-03-20T00:38:18Z,1,3,MERGED
+react-spectrum,Add support for DOM heirarchy in CollectionView,https://github.com/adobe/react-spectrum/pull/257,2020-03-07T00:36:47Z,2020-03-09T22:27:11Z,4,3,MERGED
+react-spectrum,RSP-1676: Fix type selection,https://github.com/adobe/react-spectrum/pull/425,2020-04-22T12:50:53Z,2020-05-13T04:28:36Z,8,4,MERGED
+react-spectrum,Initial implementation of v3 Table component,https://github.com/adobe/react-spectrum/pull/411,2020-04-14T20:31:38Z,2020-04-20T17:14:49Z,7,19,MERGED
+react-spectrum,Fix menu item padding in large scale,https://github.com/adobe/react-spectrum/pull/541,2020-05-29T22:53:04Z,2020-05-29T23:06:53Z,1,1,MERGED
+react-spectrum,Tidy up test output and prevent new noise,https://github.com/adobe/react-spectrum/pull/502,2020-05-23T04:32:48Z,2020-07-22T01:13:52Z,7,61,CLOSED
+react-spectrum,Add icon table for workflow icons in docs,https://github.com/adobe/react-spectrum/pull/488,2020-05-21T22:11:22Z,2020-07-10T23:29:21Z,18,17,MERGED
+react-spectrum,"Add rel=""noreferrer"" to external links",https://github.com/adobe/react-spectrum/pull/474,2020-05-19T18:58:10Z,2020-05-20T15:16:42Z,3,3,MERGED
+react-spectrum,Followup Dialog fixes,https://github.com/adobe/react-spectrum/pull/454,2020-05-12T19:29:14Z,2020-05-14T02:22:39Z,6,2,MERGED
+react-spectrum,Wrap toc calculation in a raf to avoid reflow,https://github.com/adobe/react-spectrum/pull/657,2020-06-17T19:28:16Z,2020-06-17T23:31:58Z,1,1,MERGED
+react-spectrum,Fix missing type defs for shared/numberfield/tooltip definitions,https://github.com/adobe/react-spectrum/pull/636,2020-06-12T22:59:08Z,2020-06-23T00:14:31Z,3,4,MERGED
+react-spectrum,Making picker custom width in docs smaller for mobile,https://github.com/adobe/react-spectrum/pull/627,2020-06-11T20:44:05Z,2020-06-15T03:06:00Z,2,2,MERGED
+react-spectrum,Update calculation to accomodate for focus ring gap margin,https://github.com/adobe/react-spectrum/pull/618,2020-06-10T23:56:55Z,2020-06-11T01:19:25Z,3,4,MERGED
+react-spectrum,set modal min width to dialog min width,https://github.com/adobe/react-spectrum/pull/609,2020-06-10T00:16:11Z,2020-06-11T02:01:35Z,2,1,MERGED
+react-spectrum,Fix ListBox typeahead spacebar issue,https://github.com/adobe/react-spectrum/pull/869,2020-07-31T00:29:39Z,2020-08-01T01:19:50Z,2,2,MERGED
+react-spectrum,keep package name for everything except react-spectrum,https://github.com/adobe/react-spectrum/pull/761,2020-07-15T20:24:06Z,2020-07-15T20:35:19Z,1,1,MERGED
+react-spectrum,Add twitter card summary meta tag to docs,https://github.com/adobe/react-spectrum/pull/737,2020-07-13T17:40:44Z,2020-07-13T20:07:33Z,4,4,MERGED
+react-spectrum,Update script to bump versions of packages,https://github.com/adobe/react-spectrum/pull/968,2020-08-15T00:48:34Z,2020-08-17T21:46:37Z,1,1,MERGED
+react-spectrum,use default font-families,https://github.com/adobe/react-spectrum/pull/887,2020-08-05T10:26:26Z,2020-08-06T02:20:28Z,0,1,MERGED
+react-spectrum,Implement table headerless column,https://github.com/adobe/react-spectrum/pull/1081,2020-09-21T19:47:05Z,2020-10-13T23:47:18Z,27,16,MERGED
+react-spectrum,Add act() eslint rule and upgrade eslint,https://github.com/adobe/react-spectrum/pull/1054,2020-09-07T15:45:44Z,2020-10-06T18:44:27Z,18,9,MERGED
+react-spectrum,Fix incorrect positioning of useOverlayPosition,https://github.com/adobe/react-spectrum/pull/1297,2020-11-19T17:34:27Z,2022-12-14T18:22:42Z,6,2,CLOSED
+react-spectrum,Add alpha label component for docs,https://github.com/adobe/react-spectrum/pull/1295,2020-11-19T02:57:50Z,2020-11-25T22:49:27Z,3,3,MERGED
+react-spectrum,Badge,https://github.com/adobe/react-spectrum/pull/1368,2020-12-10T23:36:49Z,2021-12-23T20:50:16Z,1,8,CLOSED
+react-spectrum,SearchWithin WIP,https://github.com/adobe/react-spectrum/pull/1366,2020-12-10T17:02:36Z,2021-07-17T01:15:25Z,10,2,CLOSED
+react-spectrum,WIP: StepList component,https://github.com/adobe/react-spectrum/pull/1362,2020-12-09T05:11:00Z,2022-03-03T01:43:30Z,27,11,CLOSED
+react-spectrum,Disable autocorrect suggestions in combobox,https://github.com/adobe/react-spectrum/pull/1502,2021-01-25T16:09:45Z,2021-01-26T00:40:41Z,1,1,MERGED
+react-spectrum,Add anatomy diagrams to React Aria docs,https://github.com/adobe/react-spectrum/pull/1452,2021-01-08T22:38:40Z,2021-01-13T16:32:14Z,4,8,MERGED
+react-spectrum,Fix textfield arabic placeholder clipping,https://github.com/adobe/react-spectrum/pull/1450,2021-01-08T00:31:02Z,2021-02-01T17:33:39Z,6,8,MERGED
+react-spectrum,Support custom key in getCollectionNode,https://github.com/adobe/react-spectrum/pull/1577,2021-02-12T04:00:44Z,2021-02-25T18:31:30Z,0,1,MERGED
+react-spectrum,Documentation: Collapsed Tab is cutoff by container in docs,https://github.com/adobe/react-spectrum/pull/1656,2021-03-04T11:47:00Z,2021-03-05T23:57:44Z,0,1,MERGED
+react-spectrum,"Implement help text for TextField, TextArea, SearchField, and Picker",https://github.com/adobe/react-spectrum/pull/1846,2021-04-26T19:40:01Z,2021-08-31T22:55:09Z,20,55,MERGED
+react-spectrum,Always show clear button when mobile combobox has validation state,https://github.com/adobe/react-spectrum/pull/1972,2021-05-28T22:28:12Z,2021-05-28T23:53:41Z,2,3,MERGED
+react-spectrum,Integrate DocSearch,https://github.com/adobe/react-spectrum/pull/2016,2021-06-14T08:37:20Z,2023-04-12T14:36:41Z,15,5,CLOSED
+react-spectrum,Implement Avatar component,https://github.com/adobe/react-spectrum/pull/2104,2021-07-13T22:04:38Z,2021-08-25T00:30:21Z,35,6,MERGED
+react-spectrum,Fix SearchWithin picker so that it doesn't overflow the component width,https://github.com/adobe/react-spectrum/pull/2203,2021-08-03T23:30:28Z,2021-10-12T23:33:09Z,8,6,MERGED
+react-spectrum,Contextual Help Component,https://github.com/adobe/react-spectrum/pull/2586,2021-11-22T13:48:59Z,2022-01-12T00:12:58Z,28,18,MERGED
+react-spectrum,Fix SearchWithin input focus/hover state style issue,https://github.com/adobe/react-spectrum/pull/2573,2021-11-19T18:59:49Z,2021-11-22T20:08:09Z,0,1,MERGED
+react-spectrum,fix(#2475): TextArea's input is smaller than the component's height property,https://github.com/adobe/react-spectrum/pull/2515,2021-11-02T16:14:53Z,2022-08-08T20:13:03Z,31,40,CLOSED
+react-spectrum,Add `getModules` function to make transpiling easier with Next.js.,https://github.com/adobe/react-spectrum/pull/2696,2021-12-17T16:39:10Z,2024-03-18T03:13:46Z,2,1,CLOSED
+react-spectrum,Add Support for longPress to MenuTrigger,https://github.com/adobe/react-spectrum/pull/2678,2021-12-11T10:56:30Z,2022-02-01T20:01:57Z,11,26,MERGED
+react-spectrum,Create eslint rule suggesting useLayoutEffect from @react-aria,https://github.com/adobe/react-spectrum/pull/2668,2021-12-09T19:58:33Z,2021-12-23T21:56:14Z,5,9,MERGED
+react-spectrum,Update documentation to use useCollator hook,https://github.com/adobe/react-spectrum/pull/2656,2021-12-08T02:11:56Z,2021-12-10T00:07:46Z,5,5,MERGED
+react-spectrum,Make keys in Picker stories match the values,https://github.com/adobe/react-spectrum/pull/2654,2021-12-08T00:26:14Z,2021-12-09T23:08:25Z,3,3,MERGED
+react-spectrum,Move aria specific props to AriaComboBoxProps,https://github.com/adobe/react-spectrum/pull/2651,2021-12-07T20:05:57Z,2021-12-10T17:16:08Z,8,11,MERGED
+react-spectrum,Whcm   buttons,https://github.com/adobe/react-spectrum/pull/2626,2021-12-02T00:56:05Z,2021-12-22T20:41:44Z,2,10,MERGED
+react-spectrum,Whcm fixes,https://github.com/adobe/react-spectrum/pull/2620,2021-12-01T01:13:31Z,2021-12-23T19:24:55Z,6,13,MERGED
+react-spectrum,[FOR REVIEW ONLY] Column resizing controlled WIP,https://github.com/adobe/react-spectrum/pull/2784,2022-01-28T19:01:14Z,2022-02-23T21:16:23Z,2,12,CLOSED
+react-spectrum,Fix ActionGroup static color,https://github.com/adobe/react-spectrum/pull/2740,2022-01-12T21:27:41Z,2022-01-19T18:40:28Z,1,3,MERGED
+react-spectrum,Add WHCM support for all the form elements,https://github.com/adobe/react-spectrum/pull/2830,2022-02-10T02:48:49Z,2022-07-19T18:38:41Z,38,50,MERGED
+react-spectrum,Add possibility to disable multiple date intervals in `Calendar` and `Datepicker` components,https://github.com/adobe/react-spectrum/pull/2793,2022-02-01T16:22:03Z,2022-03-03T01:20:08Z,16,14,MERGED
+react-spectrum,Add main as a wrapper for story content,https://github.com/adobe/react-spectrum/pull/2988,2022-03-28T22:13:19Z,2022-04-07T00:40:19Z,4,18,MERGED
+react-spectrum,useSelect should call onFocusChange when focus is changed,https://github.com/adobe/react-spectrum/pull/2970,2022-03-22T00:18:27Z,2022-04-04T18:36:51Z,6,12,MERGED
+react-spectrum,Fix Dialog grid iphone,https://github.com/adobe/react-spectrum/pull/3023,2022-04-11T19:01:50Z,2022-04-12T17:56:04Z,2,1,MERGED
+react-spectrum,Calendar and DatePicker fixes,https://github.com/adobe/react-spectrum/pull/3005,2022-04-04T18:46:55Z,2022-04-14T15:43:35Z,22,21,MERGED
+react-spectrum,Update placeholder behavior in DateField and TimeField,https://github.com/adobe/react-spectrum/pull/3167,2022-05-27T00:22:02Z,2022-06-10T00:14:57Z,9,10,MERGED
+react-spectrum,Fix ListView rows above focus ring,https://github.com/adobe/react-spectrum/pull/3141,2022-05-17T22:57:45Z,2022-05-18T19:04:04Z,3,2,MERGED
+react-spectrum,Fix mismatched height between ListView items,https://github.com/adobe/react-spectrum/pull/3132,2022-05-16T19:49:48Z,2022-05-18T19:48:09Z,10,9,MERGED
+react-spectrum,TagGroup: Nest .spectrum-Tag-action class to prioritize over ClearButton css,https://github.com/adobe/react-spectrum/pull/3353,2022-07-27T22:58:41Z,2022-07-28T16:58:44Z,2,2,MERGED
+react-spectrum,Fix ListView thumbnail item height in Safari,https://github.com/adobe/react-spectrum/pull/3301,2022-07-12T20:44:49Z,2022-07-15T16:59:18Z,4,2,MERGED
+react-spectrum,Fix wrapping of field label in Safari,https://github.com/adobe/react-spectrum/pull/3566,2022-09-28T01:51:20Z,2022-09-29T02:03:26Z,3,2,MERGED
+react-spectrum,Improve ListView item drag button icon alignment,https://github.com/adobe/react-spectrum/pull/3550,2022-09-23T22:20:55Z,2022-09-23T23:43:37Z,1,1,MERGED
+react-spectrum,Add contextual help support to all form fields,https://github.com/adobe/react-spectrum/pull/3521,2022-09-15T19:46:10Z,2022-09-22T18:03:06Z,15,13,MERGED
+react-spectrum,refactor(datepicker): add generic for DatePickerStateOptions,https://github.com/adobe/react-spectrum/pull/3682,2022-10-25T10:01:33Z,2022-10-29T00:23:04Z,2,2,MERGED
+react-spectrum,add ClearSlots around contextual help's slot provider for dialog,https://github.com/adobe/react-spectrum/pull/3635,2022-10-13T00:25:36Z,2022-10-13T19:17:55Z,2,2,MERGED
+react-spectrum,Incremental layout for TableView and ListView,https://github.com/adobe/react-spectrum/pull/3795,2022-11-29T00:06:09Z,2022-12-14T00:41:29Z,9,11,MERGED
+react-spectrum,issue-2408: make useButton generic,https://github.com/adobe/react-spectrum/pull/3712,2022-11-03T23:41:11Z,2025-04-12T00:04:38Z,5,3,CLOSED
+react-spectrum,issue-2216: setting null to value should reset NumberField to blank,https://github.com/adobe/react-spectrum/pull/3709,2022-11-03T18:44:34Z,2022-11-07T18:14:34Z,4,4,MERGED
+react-spectrum,issue-1605: use two selectors to avoid css overwrite,https://github.com/adobe/react-spectrum/pull/3705,2022-11-02T22:12:52Z,2022-11-07T18:08:11Z,2,3,MERGED
+react-spectrum,Support template literal types in docs generator,https://github.com/adobe/react-spectrum/pull/3856,2022-12-15T23:13:26Z,2022-12-15T23:30:45Z,0,1,MERGED
+react-spectrum,fix(#2949): TableView/ListView/DnD Windows High Contrast issues,https://github.com/adobe/react-spectrum/pull/3827,2022-12-08T22:40:10Z,2023-01-31T17:01:10Z,50,36,MERGED
+react-spectrum,Formalize column sizing as constrained flex,https://github.com/adobe/react-spectrum/pull/3879,2023-01-03T22:18:32Z,2023-02-03T21:51:56Z,41,17,MERGED
+react-spectrum,Fix docs side nav tag line break,https://github.com/adobe/react-spectrum/pull/4075,2023-02-16T03:03:13Z,2023-03-20T10:02:29Z,0,1,CLOSED
+react-spectrum,fix(#4067): Storybook Provider addon: Express input:checkbox requires id to be labelled by htmlFor prop,https://github.com/adobe/react-spectrum/pull/4068,2023-02-15T18:01:29Z,2023-02-16T00:39:46Z,2,2,MERGED
+react-spectrum,Add React Aria Components + Tailwind CSS examples,https://github.com/adobe/react-spectrum/pull/4282,2023-03-29T15:24:40Z,2023-03-29T23:08:38Z,5,19,MERGED
+react-spectrum,Keep focus on last pressed column header through loading state,https://github.com/adobe/react-spectrum/pull/4249,2023-03-23T16:11:45Z,2023-08-25T16:46:19Z,24,28,MERGED
+react-spectrum,feat(RangeCalendar): Added anchorDate functionality,https://github.com/adobe/react-spectrum/pull/4229,2023-03-20T08:41:21Z,2023-03-20T08:51:39Z,0,2,CLOSED
+react-spectrum,FIX Issue 4082: ComboBox wrong border and background colors for dropdown button with forced-colors: active,https://github.com/adobe/react-spectrum/pull/4453,2023-04-28T20:32:21Z,2023-05-04T21:06:28Z,8,7,MERGED
+react-spectrum,Improving disabled description specificity in menus,https://github.com/adobe/react-spectrum/pull/4530,2023-05-16T00:25:18Z,2023-06-01T22:49:48Z,7,7,MERGED
+react-spectrum,Implement InlineAlert component #1343,https://github.com/adobe/react-spectrum/pull/4497,2023-05-09T16:01:39Z,2023-05-25T17:03:57Z,29,21,MERGED
+react-spectrum,feat: adding zh-TW to map to traditional chinese,https://github.com/adobe/react-spectrum/pull/4485,2023-05-05T17:57:28Z,2023-05-05T20:19:36Z,2,1,CLOSED
+react-spectrum,fix-issues/4725: exported fromDate &  fromEpoch and fixed the documentation,https://github.com/adobe/react-spectrum/pull/4732,2023-06-29T08:45:25Z,2023-07-03T18:18:42Z,20,9,MERGED
+react-spectrum,fix-issues/4725: exported fromDate &  fromEpoch and fixed the documentations,https://github.com/adobe/react-spectrum/pull/4731,2023-06-29T08:27:08Z,2023-06-29T08:44:17Z,2,1,CLOSED
+react-spectrum,feat: adding spectrum provider prop to determine portal container to …,https://github.com/adobe/react-spectrum/pull/4825,2023-07-25T21:16:48Z,2024-06-17T04:56:33Z,2,1,CLOSED
+react-spectrum,RAC Spectrum + Tailwind example,https://github.com/adobe/react-spectrum/pull/4819,2023-07-24T23:03:07Z,2023-08-10T17:40:14Z,25,49,MERGED
+react-spectrum,"Improve small DragPreview offset fallback, from center to proportional",https://github.com/adobe/react-spectrum/pull/4809,2023-07-22T16:04:21Z,2024-08-09T00:47:22Z,4,3,CLOSED
+react-spectrum,HCM: fix Clear button background to be transparent,https://github.com/adobe/react-spectrum/pull/4805,2023-07-20T22:50:53Z,2023-07-21T19:27:45Z,3,2,MERGED
+react-spectrum,Safe triangle for submenus,https://github.com/adobe/react-spectrum/pull/4932,2023-08-17T21:29:13Z,2023-09-15T16:32:28Z,14,17,CLOSED
+react-spectrum,"Revert ""fix(#4313): ariaHideOutside/aria-modal-polyfill: use inert instead of aria-hidden where supported (#4314)",https://github.com/adobe/react-spectrum/pull/4881,2023-08-08T21:51:26Z,2023-08-08T22:44:38Z,2,1,MERGED
+react-spectrum,Fix popover behavior in Firefox,https://github.com/adobe/react-spectrum/pull/4879,2023-08-08T15:13:56Z,2023-08-08T22:59:08Z,6,9,CLOSED
+react-spectrum,[Docs]: Add missing constants in React Aria > Examples > Contact List,https://github.com/adobe/react-spectrum/pull/5301,2023-10-25T13:26:15Z,2025-04-11T19:56:29Z,3,1,CLOSED
+react-spectrum,[RAC] Better error message for required slot.,https://github.com/adobe/react-spectrum/pull/5271,2023-10-18T23:51:40Z,2023-10-19T01:21:46Z,1,3,MERGED
+react-spectrum,add onDrop to DropZone docs FileTrigger example & adjust behavior,https://github.com/adobe/react-spectrum/pull/5270,2023-10-18T23:06:17Z,2023-10-19T15:02:01Z,8,3,MERGED
+react-spectrum,Fix RAC Button prop table description rendering,https://github.com/adobe/react-spectrum/pull/5614,2023-12-21T14:12:55Z,2024-01-02T19:33:00Z,3,4,MERGED
+react-spectrum,fix(#5745): Allow typing in Accordion,https://github.com/adobe/react-spectrum/pull/5752,2024-01-25T22:02:37Z,2024-02-15T20:19:22Z,1,4,CLOSED
+react-spectrum,fix(#5691): [WHCM] ActionButton restore border for isQuiet and isQuiet + isDisabled states,https://github.com/adobe/react-spectrum/pull/5705,2024-01-16T19:54:29Z,2024-01-23T20:53:00Z,17,6,MERGED
+react-spectrum,fix(#5745): Allow typing in Accordion,https://github.com/adobe/react-spectrum/pull/5888,2024-02-15T20:21:32Z,2024-02-16T17:08:45Z,3,6,MERGED
+react-spectrum,combobox: Fix onSelectionChange type declaration,https://github.com/adobe/react-spectrum/pull/5852,2024-02-12T13:20:51Z,2024-02-16T20:06:35Z,1,2,MERGED
+react-spectrum,fix: Make long content in quiet Picker properly truncate when in fixed width container ,https://github.com/adobe/react-spectrum/pull/5813,2024-02-06T12:05:45Z,2024-02-09T00:28:06Z,3,4,MERGED
+react-spectrum,Remove extra closing span tag,https://github.com/adobe/react-spectrum/pull/6097,2024-03-25T22:30:19Z,2024-03-26T18:07:21Z,3,2,MERGED
+react-spectrum,feat: Focus Management within ShadowDOM,https://github.com/adobe/react-spectrum/pull/6046,2024-03-11T21:20:34Z,2025-02-06T02:46:57Z,93,146,MERGED
+react-spectrum,FIX use early return to VisuallyHidden,https://github.com/adobe/react-spectrum/pull/6293,2024-04-30T03:03:21Z,2024-05-01T19:48:52Z,2,1,CLOSED
+react-spectrum,Simplified color naming for accessibility,https://github.com/adobe/react-spectrum/pull/6180,2024-04-10T16:36:37Z,2024-04-12T18:08:30Z,6,14,MERGED
+react-spectrum,Explicit box-sizing of checkmark to avoid clipping in bootsrap envs,https://github.com/adobe/react-spectrum/pull/6470,2024-05-30T16:40:38Z,2024-06-07T22:08:26Z,4,2,MERGED
+react-spectrum,Add missing RAC Checkbox/CheckboxGroup story files,https://github.com/adobe/react-spectrum/pull/6420,2024-05-20T14:39:22Z,2024-05-21T23:13:44Z,3,3,MERGED
+react-spectrum,[SB7] Remove deprecated key prop in descriptionAddon,https://github.com/adobe/react-spectrum/pull/6348,2024-05-08T14:36:11Z,2024-05-09T18:26:21Z,3,1,MERGED
+react-spectrum,Fix useTagGroup set aria-live to 'polite' for better screen reader support,https://github.com/adobe/react-spectrum/pull/6340,2024-05-07T06:43:26Z,2024-07-17T15:14:37Z,10,2,CLOSED
+react-spectrum,Fix typos,https://github.com/adobe/react-spectrum/pull/6334,2024-05-06T12:12:47Z,2024-05-07T18:48:23Z,0,1,MERGED
+react-spectrum,working branch for supporting windows contributors,https://github.com/adobe/react-spectrum/pull/6313,2024-05-02T00:57:29Z,2024-08-22T21:34:59Z,2,12,MERGED
+react-spectrum,Allow passing data attributes to FieldError,https://github.com/adobe/react-spectrum/pull/6895,2024-08-16T17:26:33Z,2024-08-21T16:22:08Z,0,3,MERGED
+react-spectrum,Conditionally render field label only if label is provided,https://github.com/adobe/react-spectrum/pull/6833,2024-08-06T02:55:43Z,2024-08-15T18:04:19Z,17,8,MERGED
+react-spectrum,fix: remove min/max limits for all segments in `parseDuration`,https://github.com/adobe/react-spectrum/pull/7064,2024-09-22T07:46:56Z,2024-12-12T04:27:19Z,5,14,MERGED
+react-spectrum,fix: v3 Accordion borders,https://github.com/adobe/react-spectrum/pull/7284,2024-10-29T17:48:46Z,2024-11-01T18:21:00Z,13,7,MERGED
+react-spectrum,chore: eslint speed up,https://github.com/adobe/react-spectrum/pull/7222,2024-10-22T11:06:53Z,2024-10-23T00:54:39Z,2,2,MERGED
+react-spectrum,Add position: relative to fix the checkbox position.,https://github.com/adobe/react-spectrum/pull/7191,2024-10-14T18:45:24Z,2024-10-20T23:47:24Z,3,2,CLOSED
+react-spectrum,Doc: collections.mdx: Remove `key` prop,https://github.com/adobe/react-spectrum/pull/7177,2024-10-11T12:35:33Z,2024-10-18T12:47:28Z,3,1,CLOSED
+react-spectrum,fix(S2): ContextualHelp in Field wrapping to new line,https://github.com/adobe/react-spectrum/pull/7491,2024-12-06T22:12:45Z,2024-12-18T04:21:25Z,10,6,MERGED
+react-spectrum,fix: S2 examples Popover and add CustomDialog,https://github.com/adobe/react-spectrum/pull/7459,2024-12-03T01:47:00Z,2024-12-04T22:24:27Z,2,3,MERGED
+react-spectrum,feat(RAC): Tree drag and drop,https://github.com/adobe/react-spectrum/pull/7692,2025-01-30T22:59:06Z,2025-04-21T19:22:17Z,26,48,MERGED
+react-spectrum,fix(Select): HiddenSelect Component Auto-Completion Issue,https://github.com/adobe/react-spectrum/pull/7670,2025-01-25T19:42:42Z,2025-01-29T19:58:37Z,6,6,MERGED
+react-spectrum,feat: add autocomplete prop to rac datefield + datepicker,https://github.com/adobe/react-spectrum/pull/7773,2025-02-14T19:54:00Z,2025-07-11T21:25:31Z,22,16,MERGED
+react-spectrum,fix: respect padding and remove cursor in DateRangePicker,https://github.com/adobe/react-spectrum/pull/7712,2025-02-03T23:39:57Z,2025-02-04T17:54:49Z,1,1,MERGED
+react-spectrum,feat: add autocomplete prop to rac datefield + datepicker,https://github.com/adobe/react-spectrum/pull/7773,2025-02-14T19:54:00Z,2025-07-11T21:25:31Z,22,16,MERGED
+react-spectrum,fix: respect padding and remove cursor in DateRangePicker,https://github.com/adobe/react-spectrum/pull/7712,2025-02-03T23:39:57Z,2025-02-04T17:54:49Z,1,1,MERGED
+react-spectrum,"docs: remove BoxAlignmentStyleProps unset ""@default"" from types",https://github.com/adobe/react-spectrum/pull/7982,2025-03-24T18:45:46Z,2025-03-29T00:13:08Z,0,1,MERGED
+react-spectrum,fix: yarn peers,https://github.com/adobe/react-spectrum/pull/7932,2025-03-14T02:34:44Z,2025-03-19T00:36:51Z,1,2,MERGED
+react-spectrum,fix: Uncaught Error: document is not defined for SSR (#7926),https://github.com/adobe/react-spectrum/pull/7927,2025-03-13T14:30:16Z,2025-04-11T19:40:58Z,11,3,MERGED
+react-spectrum,fix: v3 TreeView border overlap,https://github.com/adobe/react-spectrum/pull/7873,2025-03-06T02:45:59Z,2025-03-06T03:31:08Z,1,1,MERGED
+react-spectrum,chore: Optimize table test performance,https://github.com/adobe/react-spectrum/pull/8051,2025-04-08T00:17:40Z,2025-04-08T17:01:28Z,2,1,MERGED
+react-spectrum,fix: Disclosure chevron appearance when title wraps,https://github.com/adobe/react-spectrum/pull/8222,2025-05-12T14:51:06Z,2025-05-12T18:36:21Z,1,1,MERGED
+react-spectrum,fix: Vertical TabList Wrapping,https://github.com/adobe/react-spectrum/pull/8201,2025-05-07T21:42:49Z,2025-07-15T00:37:23Z,1,6,MERGED
+react-spectrum,fix(usePress): add global touch-action style for pressable elements,https://github.com/adobe/react-spectrum/pull/8200,2025-05-07T15:19:24Z,2025-05-08T02:19:19Z,15,12,MERGED
+react-spectrum,fix(focus): add permisison element to focusable elements list,https://github.com/adobe/react-spectrum/pull/8356,2025-06-06T12:59:08Z,2025-07-07T20:44:42Z,3,2,MERGED
+react-spectrum,feat: add maxSpace option to @react-stately/layout GridLayout,https://github.com/adobe/react-spectrum/pull/8654,2025-07-30T12:57:34Z,2025-08-06T23:06:29Z,5,6,MERGED
+react-spectrum,fix: S2 Prevented Tooltip text overflowing by default,https://github.com/adobe/react-spectrum/pull/8527,2025-07-10T20:11:11Z,2025-09-05T23:11:52Z,2,6,MERGED
+react-spectrum,fix: preserve aria labels for cell and column of table,https://github.com/adobe/react-spectrum/pull/8515,2025-07-09T20:22:18Z,2025-10-29T17:52:26Z,2,1,CLOSED
+react-spectrum,feat: add Avatar support for ComboBoxItem and PickerItem,https://github.com/adobe/react-spectrum/pull/8931,2025-09-25T20:35:41Z,2025-09-30T20:51:15Z,14,8,MERGED
+react-spectrum,feat: add Avatar support for ComboBoxItem and PickerItem,https://github.com/adobe/react-spectrum/pull/8926,2025-09-25T00:25:46Z,2025-09-25T20:36:15Z,5,7,CLOSED
+react-spectrum,fix: Improve behavior of modals on iOS 26,https://github.com/adobe/react-spectrum/pull/8888,2025-09-18T04:20:36Z,2025-09-22T17:13:17Z,29,13,MERGED

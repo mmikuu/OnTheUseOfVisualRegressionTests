@@ -1,0 +1,217 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+aksel,Legger til Veilederpanel,https://github.com/navikt/aksel/pull/339,2018-07-23T11:18:04Z,2018-07-31T10:00:27Z,1,7,MERGED
+aksel,Fikser alignment på knapper,https://github.com/navikt/aksel/pull/330,2018-07-02T11:22:02Z,2018-07-24T08:02:08Z,0,3,MERGED
+aksel,"Ny ToggleKnapp, ToggleGruppe, fikser alignment på knapper og inputs",https://github.com/navikt/aksel/pull/378,2018-09-03T14:50:46Z,2019-01-21T13:39:44Z,24,24,MERGED
+aksel,Fikser border-radius på Ekspanderbartpanel innhold,https://github.com/navikt/aksel/pull/394,2018-10-18T11:35:01Z,2018-10-19T07:46:46Z,0,1,MERGED
+aksel,Fikser rar position bug på Checkbox/Radio i flex-kontainere med scroll,https://github.com/navikt/aksel/pull/393,2018-10-17T14:39:33Z,2018-10-18T07:13:26Z,0,1,MERGED
+aksel,Lagt til manglende feilmelding prop til BekreftCheckboksPanel,https://github.com/navikt/aksel/pull/413,2018-12-19T13:33:54Z,2019-01-10T14:37:23Z,7,13,MERGED
+aksel,"Oppdaterer styling på Alertstriper, rydder i nav-frontend-ikoner-assets",https://github.com/navikt/aksel/pull/426,2019-01-18T14:05:03Z,2019-01-22T11:26:31Z,1,4,MERGED
+aksel,"Fikser error styling på Checkbox, label hover style tweak",https://github.com/navikt/aksel/pull/425,2019-01-17T15:13:16Z,2019-01-21T14:20:07Z,0,3,MERGED
+aksel,"Fikser en del kontrast issues, oppdaterer lenke-styling",https://github.com/navikt/aksel/pull/424,2019-01-17T09:29:30Z,2019-01-23T15:06:53Z,3,13,MERGED
+aksel,Legger til 'tabPanel' prop på Panel-komponent,https://github.com/navikt/aksel/pull/422,2019-01-11T08:20:59Z,2019-02-20T12:23:47Z,4,1,CLOSED
+aksel,Fikser Veileder snakkeboble style bug,https://github.com/navikt/aksel/pull/421,2019-01-11T07:19:27Z,2019-01-21T14:45:05Z,0,1,MERGED
+aksel,Autocomplete komponent,https://github.com/navikt/aksel/pull/419,2019-01-07T17:19:12Z,2019-08-06T08:55:48Z,0,4,CLOSED
+aksel,design.nav.no 2.0,https://github.com/navikt/aksel/pull/434,2019-02-11T17:44:43Z,2019-02-11T17:58:53Z,0,62,MERGED
+aksel,Gir lenker i solid Alertstripe @navMorkGra farge,https://github.com/navikt/aksel/pull/471,2019-04-25T08:59:17Z,2019-04-29T10:42:33Z,0,1,MERGED
+aksel,"Endrer fokus farge til @navBlaDarken60, oppretter @fokusFarge i core",https://github.com/navikt/aksel/pull/461,2019-04-23T08:34:53Z,2019-05-03T07:47:06Z,0,6,MERGED
+aksel,Ny komponent: Popover,https://github.com/navikt/aksel/pull/487,2019-05-10T11:01:37Z,2019-10-31T12:22:55Z,17,62,MERGED
+aksel,Animerte lastestriper,https://github.com/navikt/aksel/pull/480,2019-05-02T12:40:02Z,2021-03-01T09:50:10Z,12,15,CLOSED
+aksel,Forbedrer støtte for knapper som lenker,https://github.com/navikt/aksel/pull/532,2019-08-28T18:27:37Z,2019-08-28T18:36:10Z,0,2,MERGED
+aksel,Små forbedringer på dev miljø,https://github.com/navikt/aksel/pull/531,2019-08-28T17:33:22Z,2019-08-28T17:42:56Z,0,3,MERGED
+aksel,Legger til verktøyside for uu-testing,https://github.com/navikt/aksel/pull/522,2019-08-21T08:32:54Z,2019-08-21T08:52:41Z,0,7,MERGED
+aksel,Ny komponent: Ikonknapp,https://github.com/navikt/aksel/pull/520,2019-08-15T08:38:39Z,2019-08-22T13:57:57Z,7,28,MERGED
+aksel,Tabell komponent,https://github.com/navikt/aksel/pull/542,2019-09-06T13:52:20Z,2019-09-11T09:31:32Z,4,1,CLOSED
+aksel,Tabell: endrer farge på valgt rad fra gul til @navBlaLighten80,https://github.com/navikt/aksel/pull/580,2019-10-18T13:42:03Z,2019-10-22T19:12:40Z,0,1,MERGED
+aksel,Ny komponent: Tabell,https://github.com/navikt/aksel/pull/561,2019-10-01T13:28:46Z,2019-10-04T10:13:18Z,1,22,MERGED
+aksel,"Katalog over ""uoffisielle"" komponenter på design.nav.no",https://github.com/navikt/aksel/pull/640,2020-01-18T14:49:41Z,2020-02-11T10:45:59Z,2,6,MERGED
+aksel,Fikser visuell bug på disabled stegindikator-steg,https://github.com/navikt/aksel/pull/702,2020-03-30T08:04:08Z,2020-03-30T08:04:25Z,0,1,MERGED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/717,2020-04-30T23:37:53Z,2020-05-13T07:35:17Z,0,2,CLOSED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/716,2020-04-30T23:36:03Z,2020-05-13T07:35:16Z,0,2,CLOSED
+aksel,[Snyk] Upgrade nav-frontend-paneler from 1.0.8 to 1.0.24,https://github.com/navikt/aksel/pull/729,2020-05-14T01:28:56Z,2020-07-10T12:01:15Z,1,2,CLOSED
+aksel,[Snyk] Upgrade nav-frontend-etiketter from 1.0.12 to 1.0.31,https://github.com/navikt/aksel/pull/728,2020-05-14T01:28:50Z,2020-07-10T12:01:46Z,1,2,CLOSED
+aksel,[Snyk] Upgrade react-docgen-typescript from 1.16.2 to 1.16.3,https://github.com/navikt/aksel/pull/726,2020-05-13T07:49:09Z,2020-07-13T16:20:42Z,0,2,CLOSED
+aksel,[Snyk] Upgrade js-beautify from 1.10.3 to 1.11.0,https://github.com/navikt/aksel/pull/725,2020-05-13T07:49:00Z,2020-07-13T16:20:43Z,0,2,CLOSED
+aksel,Kopiering av imports/npm install til clipboard ved knappetrykk ,https://github.com/navikt/aksel/pull/722,2020-05-05T13:11:08Z,2020-05-08T10:16:49Z,1,3,MERGED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/720,2020-05-01T02:50:11Z,2020-05-13T07:35:18Z,0,2,CLOSED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/719,2020-05-01T02:23:04Z,2020-05-13T07:35:17Z,0,2,CLOSED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/718,2020-05-01T00:23:20Z,2020-05-13T07:35:17Z,0,3,CLOSED
+aksel,Oppdatert dokumentasjon på hvordan Typografi CSS settes i prosjekter  ,https://github.com/navikt/aksel/pull/757,2020-07-15T13:37:12Z,2020-07-16T13:22:23Z,0,2,MERGED
+aksel,[Snyk] Security upgrade react-scripts from 3.4.1 to 3.4.3,https://github.com/navikt/aksel/pull/773,2020-08-12T23:29:07Z,2020-08-18T04:30:23Z,0,1,CLOSED
+aksel,[Snyk] Security upgrade react-scripts from 3.4.1 to 3.4.2,https://github.com/navikt/aksel/pull/771,2020-08-11T23:24:55Z,2020-08-18T04:30:39Z,0,1,CLOSED
+aksel,Enkel animasjon på sidebar og navPage,https://github.com/navikt/aksel/pull/852,2020-10-30T11:01:01Z,2020-10-30T14:19:43Z,0,3,MERGED
+aksel,[Snyk] Security upgrade react-scripts from 3.4.3 to 3.4.4,https://github.com/navikt/aksel/pull/826,2020-10-20T23:21:39Z,2020-10-21T07:42:33Z,0,1,MERGED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/820,2020-10-20T00:22:01Z,2020-10-20T13:08:00Z,0,1,CLOSED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/815,2020-10-19T12:30:19Z,2020-10-20T07:53:30Z,1,1,CLOSED
+aksel,[Snyk] Upgrade react-docgen-typescript from 1.18.0 to 1.20.4,https://github.com/navikt/aksel/pull/802,2020-10-06T08:53:09Z,2020-10-20T13:05:31Z,0,1,CLOSED
+aksel,[Snyk] Upgrade nav-frontend-lenker from 1.0.40 to 1.0.41,https://github.com/navikt/aksel/pull/801,2020-10-06T07:52:14Z,2020-10-20T13:05:42Z,1,1,CLOSED
+aksel,[Snyk] Upgrade nav-frontend-paneler from 2.0.7 to 2.0.10,https://github.com/navikt/aksel/pull/800,2020-10-06T07:52:09Z,2020-10-20T13:05:49Z,1,1,CLOSED
+aksel,[Snyk] Upgrade nav-frontend-typografi from 2.0.23 to 2.0.26,https://github.com/navikt/aksel/pull/799,2020-10-06T07:52:04Z,2020-10-20T13:05:53Z,1,1,CLOSED
+aksel,[Snyk] Upgrade nav-frontend-alertstriper from 3.0.20 to 3.0.23,https://github.com/navikt/aksel/pull/798,2020-10-06T07:51:59Z,2020-10-20T13:06:04Z,2,1,CLOSED
+aksel,Ny header,https://github.com/navikt/aksel/pull/870,2020-11-06T14:24:44Z,2020-11-09T08:19:24Z,0,5,MERGED
+aksel,Gjort proptable litt mer rigid og leselig,https://github.com/navikt/aksel/pull/867,2020-11-05T13:31:11Z,2020-11-06T10:06:41Z,0,2,MERGED
+aksel,"Css justeringerer nettside | Header, Sidebar",https://github.com/navikt/aksel/pull/866,2020-11-05T08:36:43Z,2020-11-06T10:06:50Z,0,5,MERGED
+aksel,Kan nå kopiere kode-eksempel og imports onClick/keyDown,https://github.com/navikt/aksel/pull/865,2020-11-04T15:26:24Z,2020-11-06T09:42:50Z,0,6,MERGED
+aksel,"La til yarn importstatement, kan nå kopieres onClick",https://github.com/navikt/aksel/pull/864,2020-11-04T12:16:33Z,2020-11-04T15:20:33Z,0,3,CLOSED
+aksel,"Hver relevant side har nå en ""rediger side på github"" lenke",https://github.com/navikt/aksel/pull/855,2020-11-02T10:03:40Z,2020-11-02T12:10:30Z,0,4,MERGED
+aksel,[Snyk] Security upgrade husky from 4.3.0 to 5.0.0,https://github.com/navikt/aksel/pull/936,2020-12-30T00:22:53Z,2021-01-04T12:42:03Z,0,1,CLOSED
+aksel,[Snyk] Security upgrade start-server-and-test from 1.11.5 to 1.11.7,https://github.com/navikt/aksel/pull/935,2020-12-28T00:22:22Z,2021-01-04T13:08:04Z,0,1,CLOSED
+aksel,Oppdatert dokumentasjon for typo-komponent,https://github.com/navikt/aksel/pull/926,2020-12-17T10:32:00Z,2020-12-17T10:52:51Z,0,4,MERGED
+aksel,Forsøk fiks fargeside,https://github.com/navikt/aksel/pull/923,2020-12-17T08:47:03Z,2020-12-17T08:56:09Z,0,1,MERGED
+aksel,[Snyk] Security upgrade react-scripts from 3.4.4 to 4.0.0,https://github.com/navikt/aksel/pull/922,2020-12-17T02:27:04Z,2020-12-23T08:57:43Z,1,1,CLOSED
+aksel,Oppdatert kontraster kode-eksempel,https://github.com/navikt/aksel/pull/918,2020-12-14T11:28:53Z,2020-12-16T11:42:47Z,0,1,MERGED
+aksel,Lagt til bakgrunnsfarger i fargepaletten,https://github.com/navikt/aksel/pull/895,2020-12-01T15:06:54Z,2021-01-13T09:17:58Z,1,5,MERGED
+aksel,Nytt utseende for Beta side,https://github.com/navikt/aksel/pull/959,2021-01-27T11:33:25Z,2021-02-11T09:33:48Z,0,16,MERGED
+aksel,Header component (basert på sykepenger),https://github.com/navikt/aksel/pull/948,2021-01-14T14:37:32Z,2021-01-25T11:32:51Z,2,11,MERGED
+aksel,Vnext Ikonsøk,https://github.com/navikt/aksel/pull/945,2021-01-12T10:05:06Z,2021-01-29T10:14:11Z,1,117,MERGED
+aksel,Ny stegindikator(Stepper),https://github.com/navikt/aksel/pull/1005,2021-02-24T11:59:55Z,2021-09-09T07:57:06Z,13,53,CLOSED
+aksel,CopyToClipboard-knapp,https://github.com/navikt/aksel/pull/994,2021-02-12T09:56:32Z,2021-04-18T14:15:29Z,19,14,MERGED
+aksel,Ny code-preview og code-example,https://github.com/navikt/aksel/pull/986,2021-02-10T10:38:56Z,2021-02-19T14:34:44Z,0,22,CLOSED
+aksel,Mulighet til å laste ned ikoner i PNG-format,https://github.com/navikt/aksel/pull/971,2021-02-02T13:18:28Z,2021-02-02T13:36:49Z,1,11,MERGED
+aksel,Nextjs TableOfContents,https://github.com/navikt/aksel/pull/1048,2021-03-19T10:28:39Z,2021-03-19T10:31:59Z,0,4,MERGED
+aksel,"Code-preview, bash og npm ",https://github.com/navikt/aksel/pull/1041,2021-03-15T09:26:15Z,2021-03-16T09:56:06Z,0,3,MERGED
+aksel,[Snyk] Security upgrade lerna from 3.22.1 to 4.0.0,https://github.com/navikt/aksel/pull/1028,2021-03-08T00:21:29Z,2021-03-08T12:45:32Z,0,1,MERGED
+aksel,Oppgradert storybook,https://github.com/navikt/aksel/pull/1027,2021-03-05T16:05:23Z,2021-03-08T12:49:41Z,1,8,MERGED
+aksel,Endret feil-styling og state-handling for skjema-komponenter,https://github.com/navikt/aksel/pull/1018,2021-03-03T15:58:01Z,2021-03-10T08:34:14Z,0,20,MERGED
+aksel,"ds-react/popover: Min-padding, optional arrow",https://github.com/navikt/aksel/pull/1066,2021-04-06T10:25:02Z,2021-04-08T12:05:11Z,4,10,MERGED
+aksel,Vnext: Veilederpanel -> GuidePanel,https://github.com/navikt/aksel/pull/1113,2021-05-31T10:55:57Z,2021-08-25T06:38:21Z,3,139,CLOSED
+aksel,Vnext: Veileder -> Guide komponent,https://github.com/navikt/aksel/pull/1112,2021-05-31T08:19:37Z,2021-08-25T06:30:56Z,2,7,CLOSED
+aksel,"Vnext: ToggleButton, ToggleGroup komponent",https://github.com/navikt/aksel/pull/1111,2021-05-30T13:58:23Z,2021-08-27T08:35:43Z,4,8,CLOSED
+aksel,Spacing between spaced text and title,https://github.com/navikt/aksel/pull/1109,2021-05-28T07:41:56Z,2021-07-14T09:32:27Z,2,25,CLOSED
+aksel,Vnext: paneler komponent,https://github.com/navikt/aksel/pull/1108,2021-05-26T11:37:17Z,2021-05-28T11:08:15Z,0,2,MERGED
+aksel,Vnext: Lenkepanel -> LinkPanel,https://github.com/navikt/aksel/pull/1107,2021-05-26T11:15:34Z,2021-06-02T11:35:30Z,2,6,MERGED
+aksel,Oppdatert styling for vnext komponenter,https://github.com/navikt/aksel/pull/1131,2021-06-24T20:40:13Z,2021-07-14T09:28:01Z,1,4,CLOSED
+aksel,Card + MiniCard,https://github.com/navikt/aksel/pull/1130,2021-06-23T15:18:06Z,2021-08-30T07:56:59Z,2,13,CLOSED
+aksel,MicroCard komponent,https://github.com/navikt/aksel/pull/1129,2021-06-23T12:13:10Z,2021-06-23T13:41:56Z,0,6,MERGED
+aksel,Header for bruk på sider,https://github.com/navikt/aksel/pull/1128,2021-06-23T09:19:55Z,2021-06-23T13:41:46Z,2,4,MERGED
+aksel,La til identitet.nav.no under resources,https://github.com/navikt/aksel/pull/1117,2021-06-08T10:56:40Z,2021-06-09T17:32:28Z,0,2,MERGED
+aksel,[Snyk] Security upgrade jszip from 3.6.0 to 3.7.0,https://github.com/navikt/aksel/pull/1154,2021-07-26T18:10:08Z,2021-08-02T08:51:53Z,0,1,MERGED
+aksel,Oppdaterte search-field,https://github.com/navikt/aksel/pull/1209,2021-08-27T12:56:07Z,2021-08-31T12:52:25Z,1,4,MERGED
+aksel,[Snyk] Security upgrade chalk from 1.1.3 to 2.0.0,https://github.com/navikt/aksel/pull/1240,2021-09-12T19:28:52Z,2021-09-13T07:28:09Z,0,1,MERGED
+aksel,[NEW] Tooltip Component,https://github.com/navikt/aksel/pull/1233,2021-09-09T11:49:53Z,2021-11-08T13:43:13Z,1,53,CLOSED
+aksel,[Snyk] Security upgrade axios from 0.21.1 to 0.21.3,https://github.com/navikt/aksel/pull/1221,2021-09-05T19:56:44Z,2021-09-06T09:03:43Z,0,1,MERGED
+aksel,[FIX] Fjernet tabindex fra ikoner,https://github.com/navikt/aksel/pull/1313,2021-10-29T12:48:56Z,2021-10-29T13:01:07Z,0,1,MERGED
+aksel,"Oppdaterte storybook-docs, Roadmap",https://github.com/navikt/aksel/pull/1288,2021-10-15T20:06:05Z,2021-10-18T12:50:32Z,0,4,MERGED
+aksel,[Snyk] Security upgrade react-scripts from 4.0.1 to 5.0.0,https://github.com/navikt/aksel/pull/1366,2021-12-15T16:12:52Z,2021-12-16T14:47:24Z,1,1,CLOSED
+aksel,[FEATURE] Themed page header,https://github.com/navikt/aksel/pull/1400,2022-01-25T18:32:10Z,2022-11-18T15:19:41Z,1,42,CLOSED
+aksel,[FIX] charset utf-8 i css,https://github.com/navikt/aksel/pull/1433,2022-02-22T13:24:22Z,2022-02-22T13:53:28Z,1,2,MERGED
+aksel,"2/2 Pagination Size=""large""",https://github.com/navikt/aksel/pull/1459,2022-03-16T15:57:34Z,2022-06-10T13:25:09Z,2,14,MERGED
+aksel,[FIX] Script for å gjøre :root mer lesbar,https://github.com/navikt/aksel/pull/1476,2022-04-01T10:11:42Z,2022-04-01T11:37:52Z,6,6,MERGED
+aksel,[Snyk] Security upgrade lerna from 4.0.0 to 5.0.0,https://github.com/navikt/aksel/pull/1523,2022-05-24T20:12:42Z,2022-06-02T11:59:29Z,1,1,MERGED
+aksel,[FIX] Placement på Dropdown.Menu,https://github.com/navikt/aksel/pull/1569,2022-06-16T08:36:50Z,2022-06-16T08:53:38Z,1,2,MERGED
+aksel,[FIX] Fikset Select issue ved bruk i Intern-header,https://github.com/navikt/aksel/pull/1616,2022-08-17T07:00:28Z,2022-08-17T08:12:24Z,2,4,MERGED
+aksel,[FIX] Toggle-group fix for label,https://github.com/navikt/aksel/pull/1635,2022-09-06T13:49:07Z,2022-09-07T06:50:20Z,1,1,MERGED
+aksel,[FIX] Fallback på font-family i body,https://github.com/navikt/aksel/pull/1647,2022-10-06T10:03:14Z,2022-10-10T13:19:22Z,2,3,MERGED
+aksel,[Snyk] Security upgrade node from 16.13.1-alpine3.14 to 18.1-alpine3.14,https://github.com/navikt/aksel/pull/1826,2023-02-28T11:39:13Z,2023-02-28T13:59:29Z,1,5,MERGED
+aksel,[Snyk] Security upgrade node from 16.4-alpine3.14 to 16.13.1-alpine3.14,https://github.com/navikt/aksel/pull/1817,2023-02-22T07:43:54Z,2023-02-22T12:55:55Z,0,1,MERGED
+aksel,Fiksar midtstilling av tekst i Select for Firefox,https://github.com/navikt/aksel/pull/1813,2023-02-20T10:18:10Z,2023-02-21T21:59:06Z,1,2,MERGED
+aksel,✨ Eksempler på aksel.nav.no blir nå lastet i Storybook for dev,https://github.com/navikt/aksel/pull/1803,2023-02-10T12:04:47Z,2023-02-10T15:41:50Z,0,15,MERGED
+aksel,[CDN] Aksel.nav.no bruker static-assets fra NAV CDN,https://github.com/navikt/aksel/pull/1836,2023-03-02T12:13:48Z,2023-03-02T18:05:42Z,1,19,MERGED
+aksel,:bug: Fikset htmlSize-prop for `<Search />`,https://github.com/navikt/aksel/pull/2000,2023-05-24T12:06:40Z,2023-05-24T12:36:35Z,2,1,MERGED
+aksel,Minimal shell component generator,https://github.com/navikt/aksel/pull/1989,2023-05-16T16:33:09Z,2023-09-27T11:47:14Z,5,2,CLOSED
+aksel,Added two new icons,https://github.com/navikt/aksel/pull/2047,2023-06-13T11:16:32Z,2023-06-15T13:06:49Z,3,2,MERGED
+aksel,:coffin: Fjernet kode for gamle pakker,https://github.com/navikt/aksel/pull/2029,2023-06-05T13:29:21Z,2023-06-05T13:58:53Z,2,2,MERGED
+aksel,📝 Noen JSDoc eksempler,https://github.com/navikt/aksel/pull/2025,2023-06-04T13:37:52Z,2023-06-05T07:14:49Z,1,6,MERGED
+aksel,[Snyk] Security upgrade @navikt/aksel-icons from 0.0.0-use.local to 0.1.0,https://github.com/navikt/aksel/pull/2113,2023-07-13T22:46:25Z,2023-07-17T06:37:07Z,3,1,CLOSED
+aksel,[Snyk] Security upgrade @navikt/ds-react from 0.0.0-use.local to 0.1.0,https://github.com/navikt/aksel/pull/2094,2023-07-04T20:50:38Z,2023-07-17T06:37:26Z,2,1,CLOSED
+aksel,🎨 Oppdatert Typo-komponenter,https://github.com/navikt/aksel/pull/2211,2023-08-23T20:03:58Z,2023-08-28T16:38:12Z,2,31,MERGED
+aksel,"Storybook for Aksel-moduler, getting-started artikkel, ikoner",https://github.com/navikt/aksel/pull/2196,2023-08-21T10:43:49Z,2023-08-24T13:32:43Z,10,18,MERGED
+aksel,Add semibold (600) fonts,https://github.com/navikt/aksel/pull/2150,2023-08-10T07:51:25Z,2023-08-11T07:01:59Z,10,6,MERGED
+aksel,[Snyk] Fix for 1 vulnerabilities,https://github.com/navikt/aksel/pull/2131,2023-08-02T23:48:00Z,2023-08-03T09:06:02Z,1,1,CLOSED
+aksel,[Snyk] Security upgrade @navikt/aksel-icons from 0.0.0-use.local to 0.1.0,https://github.com/navikt/aksel/pull/2130,2023-08-02T21:45:21Z,2023-08-03T09:06:25Z,2,1,CLOSED
+aksel,DatePicker - eksponere alle props + layout for klikkbar ukenummer,https://github.com/navikt/aksel/pull/2302,2023-09-19T13:05:32Z,2023-09-28T05:28:34Z,2,4,CLOSED
+aksel,Datepicker expose all props,https://github.com/navikt/aksel/pull/2301,2023-09-19T12:52:28Z,2023-09-19T13:05:46Z,2,2,CLOSED
+aksel,🎨 Skeleton as-prop,https://github.com/navikt/aksel/pull/2239,2023-09-05T08:38:18Z,2023-09-06T09:03:28Z,2,4,MERGED
+aksel,[aksel.nav.no] Sidemaler for Mønster og maler,https://github.com/navikt/aksel/pull/2438,2023-10-30T16:07:00Z,2023-11-02T10:47:58Z,1,12,MERGED
+aksel,[Datepicker/Modal] Datepicker bruker nå Modal på mobil og for nested Modal,https://github.com/navikt/aksel/pull/2419,2023-10-25T10:43:32Z,2023-11-01T14:38:58Z,19,51,MERGED
+aksel,[Aksel.nav.no] Bruker alpha ShowMore lokalt på nettsiden,https://github.com/navikt/aksel/pull/2409,2023-10-20T15:00:36Z,2023-10-30T11:10:17Z,4,5,MERGED
+aksel,[Aksel.nav.no] Fikser bug i `_id`-generering for props-tabeller,https://github.com/navikt/aksel/pull/2361,2023-10-10T15:58:17Z,2023-10-11T11:46:27Z,3,9,MERGED
+aksel,[Snyk] Security upgrade @navikt/ds-css from 0.0.0-use.local to 0.1.0,https://github.com/navikt/aksel/pull/2344,2023-10-04T07:39:42Z,2023-10-05T07:23:29Z,1,1,CLOSED
+aksel,[aksel.nav.no] Lokal eslint-plugin for eksempler/templates,https://github.com/navikt/aksel/pull/2522,2023-11-28T13:22:36Z,2023-11-28T15:43:11Z,3,4,MERGED
+aksel,Valg av år i Datepicker/MonthPicker er reversert,https://github.com/navikt/aksel/pull/2512,2023-11-23T12:50:06Z,2023-11-28T13:51:51Z,4,3,CLOSED
+aksel,:bug: Headings med space førte til wrapping av tekst,https://github.com/navikt/aksel/pull/2490,2023-11-17T13:47:00Z,2023-11-22T08:46:32Z,1,1,MERGED
+aksel,Ikke rendre child som ikke er valid element i ErrorSummary,https://github.com/navikt/aksel/pull/2484,2023-11-16T16:31:53Z,2023-11-17T11:47:09Z,4,1,MERGED
+aksel,[aksel.nav.no] 404 template,https://github.com/navikt/aksel/pull/2455,2023-11-03T16:39:01Z,2023-11-08T14:23:16Z,6,14,MERGED
+aksel,Text-wrap: balance på blog og god-praksis heading,https://github.com/navikt/aksel/pull/2548,2023-12-07T10:37:24Z,2023-12-08T08:53:44Z,1,2,MERGED
+aksel,Bedre kopivisning av designtokens + refererer ikke til nav-red,https://github.com/navikt/aksel/pull/2689,2024-01-31T15:15:21Z,2024-02-01T08:17:22Z,1,1,MERGED
+aksel,:sparkles: createContext-utility,https://github.com/navikt/aksel/pull/2619,2024-01-12T21:03:54Z,2024-01-16T13:05:46Z,4,4,MERGED
+aksel,:bug: Togglegroup på ikonside overlapper ikke lengre,https://github.com/navikt/aksel/pull/2614,2024-01-12T08:40:25Z,2024-01-15T11:34:01Z,1,2,MERGED
+aksel,Darkreader-støtte,https://github.com/navikt/aksel/pull/2588,2024-01-04T09:10:48Z,2024-01-04T14:15:23Z,1,2,MERGED
+aksel,[Aksel.nav.no] Auth på Aksel,https://github.com/navikt/aksel/pull/2757,2024-02-26T08:13:00Z,2024-03-06T10:53:30Z,3,20,MERGED
+aksel,[Aksel.nav.no] Uxtweaks-card på forside,https://github.com/navikt/aksel/pull/2735,2024-02-16T13:55:54Z,2024-02-16T15:38:46Z,1,4,MERGED
+aksel,Deprecate Panel ,https://github.com/navikt/aksel/pull/2712,2024-02-07T11:46:28Z,2024-02-08T10:46:20Z,2,4,MERGED
+aksel,:fire: Fjernet hyphen på blogg-headings,https://github.com/navikt/aksel/pull/2711,2024-02-07T11:32:24Z,2024-02-07T12:42:58Z,1,2,MERGED
+aksel,:memo: Oppdatert radio-error dokumentasjon,https://github.com/navikt/aksel/pull/2800,2024-03-19T14:08:39Z,2024-03-22T09:42:38Z,4,4,MERGED
+aksel,:iphone: Tilpasset aksel-header for 320px,https://github.com/navikt/aksel/pull/2793,2024-03-15T09:59:58Z,2024-03-17T14:27:43Z,1,1,MERGED
+aksel,[aksel.nav.no] :lipstick: Bedre eksempel for logg-ut i dropdown,https://github.com/navikt/aksel/pull/2792,2024-03-15T09:42:53Z,2024-03-17T14:27:33Z,2,1,MERGED
+aksel,Forbedret beskrivelse for ref i prop-tabell,https://github.com/navikt/aksel/pull/2791,2024-03-14T19:38:12Z,2024-03-15T09:04:09Z,4,2,MERGED
+aksel,:lipstick: fix for broken pin style,https://github.com/navikt/aksel/pull/2889,2024-04-29T10:59:35Z,2024-04-29T17:13:57Z,3,3,MERGED
+aksel,design: Fallback/Alle tema piktogram er nå Aksel-logo,https://github.com/navikt/aksel/pull/2877,2024-04-24T11:31:57Z,2024-04-25T09:55:46Z,1,1,MERGED
+aksel,[Aksel.nav.no] Ny Meny for sidebar og TOC,https://github.com/navikt/aksel/pull/2873,2024-04-22T06:19:26Z,2024-04-26T05:58:47Z,3,12,MERGED
+aksel,[Sanity] Temakontakter visning,https://github.com/navikt/aksel/pull/2868,2024-04-19T06:42:00Z,2024-04-19T10:58:14Z,5,10,MERGED
+aksel,[Sanity] Oppdatert deskStructure,https://github.com/navikt/aksel/pull/2844,2024-04-12T07:08:48Z,2024-04-15T09:15:17Z,12,18,MERGED
+aksel,:lipstick: Border-radius på FileUpload.Item illustrasjon har nå radius-full,https://github.com/navikt/aksel/pull/2834,2024-04-09T08:16:04Z,2024-04-09T13:20:40Z,2,1,MERGED
+aksel,⚡ Performance improvements when using spread in reduce,https://github.com/navikt/aksel/pull/2937,2024-05-16T11:55:32Z,2024-05-27T09:14:29Z,7,15,MERGED
+aksel,update: Updated categories for new template-structure,https://github.com/navikt/aksel/pull/2931,2024-05-15T12:14:44Z,2024-05-15T13:30:18Z,1,1,MERGED
+aksel,Link to GH-discussions from template-pages,https://github.com/navikt/aksel/pull/2914,2024-05-10T11:18:23Z,2024-05-13T10:27:49Z,2,4,MERGED
+aksel,[Aksel.nav.no] Mindre justeringer på Søk,https://github.com/navikt/aksel/pull/2899,2024-05-06T08:20:47Z,2024-05-08T08:08:58Z,11,18,MERGED
+aksel,refactor: Fixed no misleading character class biome,https://github.com/navikt/aksel/pull/3001,2024-06-12T10:47:02Z,2024-06-14T08:49:05Z,2,3,MERGED
+aksel,[Aksel.nav.no] Fixed clipping of focus-border in toc,https://github.com/navikt/aksel/pull/3000,2024-06-12T09:32:28Z,2024-06-12T11:51:11Z,1,2,MERGED
+aksel,feat: Added version-tag to tokens,https://github.com/navikt/aksel/pull/2998,2024-06-11T12:42:24Z,2024-06-13T09:27:57Z,8,3,MERGED
+aksel,Feature: Block for download-links in Sanity,https://github.com/navikt/aksel/pull/3108,2024-08-15T13:01:48Z,2024-08-15T13:35:04Z,3,12,MERGED
+aksel,:bug: Combobox: trailing spaces are no longer accepted autocomplete-letters,https://github.com/navikt/aksel/pull/3105,2024-08-15T09:44:24Z,2024-09-04T09:01:29Z,3,3,MERGED
+aksel,Combobox: :label: Better typing for maxSelected prop,https://github.com/navikt/aksel/pull/3169,2024-09-21T20:38:15Z,2024-09-23T08:07:06Z,4,1,MERGED
+aksel,Security token update,https://github.com/navikt/aksel/pull/3128,2024-09-01T20:44:15Z,2024-09-01T21:18:35Z,1,5,MERGED
+aksel,[Darkside] Moved old CSS over to new Darkside dir,https://github.com/navikt/aksel/pull/3284,2024-10-28T12:18:20Z,2024-10-29T10:36:15Z,2,3,MERGED
+aksel,List.Item: Center icon horizontally inside it's container,https://github.com/navikt/aksel/pull/3253,2024-10-18T08:58:44Z,2024-10-18T09:55:46Z,2,2,MERGED
+aksel,[BasePrimitive] Hide className from basePrimitive type,https://github.com/navikt/aksel/pull/3241,2024-10-16T09:37:35Z,2024-10-17T11:04:50Z,2,2,MERGED
+aksel,[Darkside] Added development environment for new CSS,https://github.com/navikt/aksel/pull/3233,2024-10-14T12:29:08Z,2024-10-14T14:12:03Z,11,15,MERGED
+aksel,[Icons] Some icons that should be ignored were fetched and caused exceptions,https://github.com/navikt/aksel/pull/3228,2024-10-11T18:24:15Z,2024-10-14T08:19:21Z,4,5,MERGED
+aksel,JSDoc for translations,https://github.com/navikt/aksel/pull/3227,2024-10-11T12:26:34Z,2024-10-14T07:32:52Z,3,1,CLOSED
+aksel,Collapse empty table cells and headers,https://github.com/navikt/aksel/pull/3221,2024-10-10T12:40:56Z,2024-10-16T11:53:50Z,9,2,CLOSED
+aksel,[Linting] Comment-cleanup in eslint,https://github.com/navikt/aksel/pull/3220,2024-10-10T12:25:59Z,2024-10-10T13:48:48Z,4,6,MERGED
+aksel,[ActionMenu] Fixes overlapping elements for SubMenus,https://github.com/navikt/aksel/pull/3212,2024-10-09T10:02:37Z,2024-10-10T12:47:20Z,5,2,MERGED
+aksel,[Liniting] Updated to biome v1.9,https://github.com/navikt/aksel/pull/3196,2024-10-03T07:44:46Z,2024-10-05T13:41:23Z,9,9,MERGED
+aksel,Modal: Don't add scroll shadow when polyfilled,https://github.com/navikt/aksel/pull/3408,2024-11-26T15:20:47Z,2024-11-26T15:51:32Z,1,1,MERGED
+aksel,[Aksel.nav.no] Image comparison module,https://github.com/navikt/aksel/pull/3473,2024-12-19T10:25:07Z,2024-12-23T10:55:52Z,1,9,MERGED
+aksel,[Select] :bug: Focus-border no longer cancels out error-border.,https://github.com/navikt/aksel/pull/3465,2024-12-17T13:43:41Z,2024-12-19T16:20:11Z,2,3,MERGED
+aksel,:bug: Complete CSS-build was included in `components.css` bundle,https://github.com/navikt/aksel/pull/3427,2024-12-05T09:36:19Z,2024-12-06T15:18:04Z,3,2,MERGED
+aksel,[Aksel.nav.no] Fix #3451 scaling for 400% zoom in site-search,https://github.com/navikt/aksel/pull/3514,2025-01-21T11:01:08Z,2025-01-22T10:19:21Z,1,1,MERGED
+aksel,"[Darkside] Updated Focus design for Checkbox, Radio and Switch ",https://github.com/navikt/aksel/pull/3513,2025-01-21T07:45:26Z,2025-01-28T17:53:48Z,5,7,MERGED
+aksel,[Table] ExpandableRow `contentGutter`-prop,https://github.com/navikt/aksel/pull/3507,2025-01-20T06:17:18Z,2025-01-21T05:00:20Z,7,4,MERGED
+aksel,:recycle: Re-structure order and texts for GP section,https://github.com/navikt/aksel/pull/3492,2025-01-08T10:57:44Z,2025-01-16T09:14:42Z,1,2,MERGED
+aksel,Added script to check version-sync between workspace,https://github.com/navikt/aksel/pull/3486,2025-01-06T12:31:10Z,2025-01-17T11:11:54Z,2,14,MERGED
+aksel,[Aksel.nav.no] :sparkles: Highlights 'darkside' sections in sidebar,https://github.com/navikt/aksel/pull/3582,2025-02-12T20:27:07Z,2025-02-13T14:35:47Z,2,4,MERGED
+aksel,Add more info on how to update an article,https://github.com/navikt/aksel/pull/3579,2025-02-12T13:25:33Z,2025-02-12T13:53:52Z,3,3,MERGED
+aksel,[Darkside] Added role-theming,https://github.com/navikt/aksel/pull/3569,2025-02-09T15:52:23Z,2025-02-11T12:57:31Z,2,5,MERGED
+aksel,[Aksel.nav.no] Added Hello bar under header,https://github.com/navikt/aksel/pull/3561,2025-02-06T11:50:04Z,2025-02-06T12:50:00Z,1,4,MERGED
+aksel,[Aksel.nav.no] :sparkles: Highlights 'darkside' sections in sidebar,https://github.com/navikt/aksel/pull/3582,2025-02-12T20:27:07Z,2025-02-13T14:35:47Z,2,4,MERGED
+aksel,Add more info on how to update an article,https://github.com/navikt/aksel/pull/3579,2025-02-12T13:25:33Z,2025-02-12T13:53:52Z,3,3,MERGED
+aksel,[Darkside] Added role-theming,https://github.com/navikt/aksel/pull/3569,2025-02-09T15:52:23Z,2025-02-11T12:57:31Z,2,5,MERGED
+aksel,[Aksel.nav.no] Added Hello bar under header,https://github.com/navikt/aksel/pull/3561,2025-02-06T11:50:04Z,2025-02-06T12:50:00Z,1,4,MERGED
+aksel,SearchButton💄 Vis forskjellig hurtigtast ut fra brukers OS,https://github.com/navikt/aksel/pull/3710,2025-03-29T20:52:43Z,2025-03-31T10:29:06Z,1,3,MERGED
+aksel,[Aksel.nav.no] KodeEksempel blokk Appdir,https://github.com/navikt/aksel/pull/3699,2025-03-26T15:52:48Z,2025-03-27T08:12:18Z,1,15,MERGED
+aksel,[Aksel.nav.no] Updated MobileMenu for new ds-pages,https://github.com/navikt/aksel/pull/3670,2025-03-18T09:23:06Z,2025-03-18T20:07:08Z,1,6,MERGED
+aksel,[Aksel.nav.no] Ported over global search to app-router,https://github.com/navikt/aksel/pull/3663,2025-03-16T19:25:05Z,2025-03-17T11:29:21Z,3,35,MERGED
+aksel,[Aksel.nav.no] New Sidebar implementation,https://github.com/navikt/aksel/pull/3654,2025-03-12T11:53:27Z,2025-03-13T11:14:43Z,1,25,MERGED
+aksel,[Website] :sparkles: Add shortcut to header search-button,https://github.com/navikt/aksel/pull/3631,2025-03-06T09:35:21Z,2025-03-07T09:36:49Z,1,1,MERGED
+aksel,:bug: Single-select combobox assumed that input needed min-width,https://github.com/navikt/aksel/pull/3734,2025-04-10T12:36:17Z,2025-04-10T12:55:38Z,2,1,MERGED
+aksel,increase deprecation visibility,https://github.com/navikt/aksel/pull/3719,2025-04-02T10:55:02Z,2025-04-07T09:53:21Z,11,17,MERGED
+aksel,[Darkside] Base theming components part 1,https://github.com/navikt/aksel/pull/3812,2025-05-20T10:05:53Z,2025-06-05T07:27:52Z,29,59,MERGED
+aksel,Fix Storybook warning about addon order,https://github.com/navikt/aksel/pull/3808,2025-05-19T11:53:46Z,2025-05-19T12:16:05Z,1,1,MERGED
+aksel,:tada: Allow data-color-role to override Tag variant prop.,https://github.com/navikt/aksel/pull/3795,2025-05-15T18:11:37Z,2025-05-19T12:29:14Z,6,5,MERGED
+aksel,[Appdir] Thumbnail recoloring,https://github.com/navikt/aksel/pull/3776,2025-05-07T12:20:11Z,2025-05-15T12:47:41Z,1,9,MERGED
+aksel,[Table] Selected row highlight,https://github.com/navikt/aksel/pull/3898,2025-06-23T12:02:10Z,2025-06-30T13:06:47Z,4,3,MERGED
+aksel,[Components] LinkCard,https://github.com/navikt/aksel/pull/3883,2025-06-17T09:59:29Z,2025-06-23T07:53:08Z,32,57,MERGED
+aksel,:fire: Redaksjon som forfatter [pending deletion...],https://github.com/navikt/aksel/pull/3881,2025-06-16T13:08:47Z,2025-06-25T14:40:15Z,13,15,CLOSED
+aksel,[website] Fix layout issues in Timeline examples,https://github.com/navikt/aksel/pull/3880,2025-06-16T12:51:13Z,2025-06-16T13:07:15Z,2,1,MERGED
+aksel,[Aksel.nav.no] Overview sidebar icon,https://github.com/navikt/aksel/pull/3853,2025-06-05T20:05:37Z,2025-06-16T07:35:36Z,1,3,MERGED
+aksel,:sparkles: Added new icons for `SquareGrid`,https://github.com/navikt/aksel/pull/3851,2025-06-05T12:28:15Z,2025-06-10T08:05:52Z,2,1,MERGED
+aksel,"[Aksel.nav.no] Added ""Rediger side"" button to footer",https://github.com/navikt/aksel/pull/3845,2025-06-03T11:50:35Z,2025-06-04T14:14:48Z,2,3,MERGED
+aksel,nav menu design tweaks,https://github.com/navikt/aksel/pull/4027,2025-08-22T09:39:06Z,2025-08-22T10:03:46Z,1,1,MERGED
+aksel,Add backlinks to redaksjon (similar to the one for editor),https://github.com/navikt/aksel/pull/4024,2025-08-21T15:00:09Z,2025-08-22T10:06:29Z,1,6,MERGED
+aksel,increase padding under certain width to avoid overlapping,https://github.com/navikt/aksel/pull/3992,2025-08-13T07:41:08Z,2025-08-13T07:48:52Z,1,1,MERGED
+aksel,semver search in changelog entries,https://github.com/navikt/aksel/pull/3989,2025-08-12T10:54:51Z,2025-08-19T09:20:40Z,3,15,MERGED
+aksel,Updated Sanity API-version,https://github.com/navikt/aksel/pull/3984,2025-08-12T07:29:02Z,2025-08-12T08:40:44Z,1,2,MERGED
+aksel,[website] stegaClean in ToC,https://github.com/navikt/aksel/pull/3982,2025-08-11T11:55:25Z,2025-08-11T12:00:44Z,1,1,MERGED
+aksel,[website] Fix image overflow issue in DoDont,https://github.com/navikt/aksel/pull/3971,2025-08-08T09:31:30Z,2025-08-08T10:03:25Z,1,1,MERGED
+aksel,[website] Fix blog heading on mobile,https://github.com/navikt/aksel/pull/4088,2025-09-11T12:43:46Z,2025-09-11T13:08:08Z,2,1,MERGED

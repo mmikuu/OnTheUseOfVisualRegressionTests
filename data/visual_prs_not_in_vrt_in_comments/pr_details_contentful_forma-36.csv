@@ -1,0 +1,314 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+forma-36,feat(List): Added List and List Item Component,https://github.com/contentful/forma-36/pull/18,2018-11-29T15:31:09Z,2018-11-30T08:47:39Z,0,1,MERGED
+forma-36,docs(Forma 36 Components): Changed the title from UI Component Librar…,https://github.com/contentful/forma-36/pull/17,2018-11-29T14:57:32Z,2018-11-30T08:38:13Z,1,1,CLOSED
+forma-36,feat(BoxShadowTokens): Added box shadow tokens,https://github.com/contentful/forma-36/pull/14,2018-11-27T14:29:08Z,2018-11-29T08:43:57Z,0,1,MERGED
+forma-36,Added line-height to Textarea,https://github.com/contentful/forma-36/pull/58,2019-01-28T12:31:33Z,2019-01-29T12:29:03Z,1,1,MERGED
+forma-36,Fix TextInput with CopyButton margins/padding,https://github.com/contentful/forma-36/pull/55,2019-01-23T12:31:54Z,2019-01-24T12:51:23Z,0,1,MERGED
+forma-36,feat(Tabs): Created Tabs component,https://github.com/contentful/forma-36/pull/93,2019-02-14T15:57:59Z,2019-02-18T16:38:29Z,3,1,MERGED
+forma-36,"fix(Select,Input): Fixes a lack of background-color for Select",https://github.com/contentful/forma-36/pull/79,2019-02-11T13:15:08Z,2019-02-11T14:14:18Z,0,3,MERGED
+forma-36,Improve tokens in v3,https://github.com/contentful/forma-36/pull/153,2019-03-27T15:00:19Z,2019-04-02T10:56:12Z,1,2,MERGED
+forma-36,fix: 🐛 Fallback font collection of the sans,https://github.com/contentful/forma-36/pull/128,2019-03-12T16:11:02Z,2019-03-13T10:19:21Z,4,2,MERGED
+forma-36,Upgrade Storybook to V5,https://github.com/contentful/forma-36/pull/120,2019-03-05T17:44:56Z,2019-03-05T19:34:35Z,0,3,MERGED
+forma-36,Add switch button,https://github.com/contentful/forma-36/pull/158,2019-04-01T15:27:39Z,2019-05-20T11:06:27Z,14,1,MERGED
+forma-36,Feat/resources,https://github.com/contentful/forma-36/pull/204,2019-05-22T11:45:49Z,2019-05-22T15:48:55Z,0,1,MERGED
+forma-36,docs(AlphaNote): Alpha note on home splash added,https://github.com/contentful/forma-36/pull/227,2019-06-12T12:39:47Z,2019-06-13T20:31:07Z,2,1,CLOSED
+forma-36,SVG Icon and README update,https://github.com/contentful/forma-36/pull/268,2019-07-24T11:31:31Z,2019-07-25T08:44:57Z,0,2,MERGED
+forma-36,fix(Workbench): Align header icon with title,https://github.com/contentful/forma-36/pull/266,2019-07-23T16:03:52Z,2019-08-01T09:19:59Z,1,2,MERGED
+forma-36,fix(Dropdown): Position DropdownContainer when list of options reduces,https://github.com/contentful/forma-36/pull/262,2019-07-22T14:29:38Z,2019-07-23T09:15:57Z,0,1,MERGED
+forma-36,fix(Tabs): Add withDivider property,https://github.com/contentful/forma-36/pull/284,2019-08-21T13:20:16Z,2019-08-21T14:38:48Z,2,1,MERGED
+forma-36,fix(Icon): Add alternative entry icon,https://github.com/contentful/forma-36/pull/310,2019-09-16T12:27:04Z,2019-09-23T15:05:08Z,1,2,CLOSED
+forma-36,Make Safari's TextInput always look like a text input,https://github.com/contentful/forma-36/pull/324,2019-10-22T06:41:03Z,2019-10-29T10:00:10Z,0,1,MERGED
+forma-36,feat(Button): Add warning button type,https://github.com/contentful/forma-36/pull/341,2019-11-18T15:08:52Z,2019-11-18T15:26:38Z,0,2,MERGED
+forma-36,fix(EntityListItem): Do not render a thumbnail for archived assets,https://github.com/contentful/forma-36/pull/401,2020-01-24T13:46:45Z,2020-01-27T09:45:56Z,0,1,MERGED
+forma-36,[WIP] fix(cardactions): close cardactions on blur,https://github.com/contentful/forma-36/pull/386,2020-01-15T13:00:29Z,2020-01-15T18:13:52Z,3,1,CLOSED
+forma-36,[WIP] feat(RadioButtonChain): Basic implementation and styling,https://github.com/contentful/forma-36/pull/374,2020-01-04T02:45:35Z,2020-01-22T16:27:09Z,3,4,CLOSED
+forma-36,fix: fix gray border issue for buttons with href,https://github.com/contentful/forma-36/pull/427,2020-02-25T14:21:39Z,2020-03-09T17:18:49Z,0,2,MERGED
+forma-36,refactor: single entry point for the components,https://github.com/contentful/forma-36/pull/418,2020-02-17T09:10:49Z,2020-02-21T13:26:11Z,9,3,MERGED
+forma-36,Feat/Documentation improvements (Typography),https://github.com/contentful/forma-36/pull/412,2020-02-05T17:27:42Z,2020-02-12T14:23:43Z,34,15,MERGED
+forma-36,Feat/docs Navigation Links,https://github.com/contentful/forma-36/pull/409,2020-02-03T15:35:57Z,2020-02-03T17:34:03Z,0,2,MERGED
+forma-36,feat(EntityStatusTag): Added Entity Status Tag component,https://github.com/contentful/forma-36/pull/458,2020-04-17T12:25:54Z,2020-04-17T14:24:19Z,1,2,MERGED
+forma-36,Feat/sidemenu nav,https://github.com/contentful/forma-36/pull/456,2020-04-16T09:07:52Z,2020-04-16T14:06:19Z,9,5,MERGED
+forma-36,Remove warnings in Navigation about GatsbyLink,https://github.com/contentful/forma-36/pull/452,2020-04-03T12:39:19Z,2020-04-03T13:49:45Z,1,2,MERGED
+forma-36,Add search on Forma36's website,https://github.com/contentful/forma-36/pull/448,2020-04-01T13:02:42Z,2020-04-03T15:39:34Z,15,11,MERGED
+forma-36,improvement(icon): add tags and references icons,https://github.com/contentful/forma-36/pull/482,2020-05-28T16:50:24Z,2020-05-29T08:56:18Z,1,2,MERGED
+forma-36,fix(ValidationMessage): adjust size and position of icon in validation,https://github.com/contentful/forma-36/pull/481,2020-05-28T15:31:44Z,2020-05-29T07:30:47Z,3,4,MERGED
+forma-36,feat(autocomplete): multiselect,https://github.com/contentful/forma-36/pull/480,2020-05-28T12:13:33Z,2020-07-16T12:22:28Z,6,1,CLOSED
+forma-36,docs/navigation styling of the website,https://github.com/contentful/forma-36/pull/478,2020-05-26T08:22:42Z,2020-05-26T12:38:54Z,1,3,MERGED
+forma-36,Adding missing pages with links,https://github.com/contentful/forma-36/pull/477,2020-05-25T13:00:02Z,2020-06-05T07:51:52Z,4,19,MERGED
+forma-36,feat(Icons): Add releases icon,https://github.com/contentful/forma-36/pull/473,2020-05-19T09:17:59Z,2020-05-19T09:31:12Z,0,1,MERGED
+forma-36,fix(button): make border color the same blue when button is a link,https://github.com/contentful/forma-36/pull/503,2020-06-30T12:46:02Z,2020-06-30T15:25:03Z,1,3,MERGED
+forma-36,Add a little bit more detailed documentation for skeleton components,https://github.com/contentful/forma-36/pull/501,2020-06-26T15:05:53Z,2020-06-29T07:40:03Z,0,5,MERGED
+forma-36,docs: add asset page,https://github.com/contentful/forma-36/pull/489,2020-06-05T15:05:05Z,2020-06-08T07:28:39Z,0,1,MERGED
+forma-36,fix(sidebar): Replace PascalCase,https://github.com/contentful/forma-36/pull/488,2020-06-05T08:05:21Z,2020-06-09T06:39:19Z,0,3,MERGED
+forma-36,docs(asset): add basic documentation for Asset component,https://github.com/contentful/forma-36/pull/483,2020-06-02T12:13:43Z,2020-06-05T13:02:39Z,0,10,CLOSED
+forma-36,feat(calendarIcon): Add Calendar icon,https://github.com/contentful/forma-36/pull/509,2020-07-03T13:03:09Z,2020-07-06T15:26:01Z,1,2,MERGED
+forma-36,feat: new NavigationIcon component,https://github.com/contentful/forma-36/pull/505,2020-07-01T14:48:48Z,2020-07-03T06:07:18Z,5,16,MERGED
+forma-36,Chore: migrate storybook version 6.0.x,https://github.com/contentful/forma-36/pull/550,2020-08-27T08:42:32Z,2020-09-03T07:30:03Z,6,13,MERGED
+forma-36,feat(navigation-icon): add new purchase icon to lib,https://github.com/contentful/forma-36/pull/538,2020-08-17T14:44:01Z,2020-08-18T07:59:25Z,5,1,MERGED
+forma-36,Implement animation in the Accordion component,https://github.com/contentful/forma-36/pull/532,2020-08-03T14:26:16Z,2020-08-12T08:49:16Z,1,5,MERGED
+forma-36,Accordion Component,https://github.com/contentful/forma-36/pull/531,2020-08-03T12:47:10Z,2020-08-11T14:09:15Z,18,16,MERGED
+forma-36,fix(asset): handle overflow in asset title,https://github.com/contentful/forma-36/pull/577,2020-09-30T12:39:38Z,2020-09-30T13:50:00Z,2,2,MERGED
+forma-36,feat(Icons): update Release and Calendar icons [PUL-1143],https://github.com/contentful/forma-36/pull/575,2020-09-28T12:57:21Z,2020-09-28T13:17:39Z,1,1,MERGED
+forma-36,feat(Icon): add Language icon,https://github.com/contentful/forma-36/pull/570,2020-09-22T13:35:11Z,2020-09-23T07:35:37Z,3,2,MERGED
+forma-36,fix: show image only there's src,https://github.com/contentful/forma-36/pull/569,2020-09-21T16:37:39Z,2020-09-22T08:44:51Z,2,2,MERGED
+forma-36,Refactor Tooltip component to use Popper.js,https://github.com/contentful/forma-36/pull/567,2020-09-21T12:57:30Z,2020-09-22T15:42:47Z,6,9,MERGED
+forma-36,feat(Icon): add workflows icon,https://github.com/contentful/forma-36/pull/566,2020-09-18T15:01:09Z,2020-09-21T06:59:44Z,2,1,MERGED
+forma-36,Change Accordion chevron orientation,https://github.com/contentful/forma-36/pull/561,2020-09-11T15:08:03Z,2020-09-14T09:35:01Z,2,2,MERGED
+forma-36,chore: add logo and favicon to storybook,https://github.com/contentful/forma-36/pull/557,2020-09-09T08:21:58Z,2020-09-09T13:13:52Z,6,3,MERGED
+forma-36,fix: Grid shorthand conflicts,https://github.com/contentful/forma-36/pull/607,2020-10-23T15:55:07Z,2020-10-26T10:24:30Z,2,1,MERGED
+forma-36,refactor: return early after all the hooks,https://github.com/contentful/forma-36/pull/603,2020-10-22T12:57:30Z,2020-10-22T14:20:25Z,1,1,MERGED
+forma-36,feat(PUL-1194): add logout icon,https://github.com/contentful/forma-36/pull/600,2020-10-21T10:58:26Z,2020-10-21T11:39:03Z,1,1,MERGED
+forma-36,feat(EntityListItem): Add Release icon to entity type icon,https://github.com/contentful/forma-36/pull/586,2020-10-06T14:32:26Z,2020-10-06T15:56:28Z,1,2,MERGED
+forma-36,fix(card): make it a div even when onClick has a value,https://github.com/contentful/forma-36/pull/655,2020-11-23T15:22:47Z,2020-11-23T15:49:32Z,2,3,MERGED
+forma-36,Feat: change Spinner animation,https://github.com/contentful/forma-36/pull/654,2020-11-23T15:03:59Z,2020-12-01T10:23:45Z,11,14,MERGED
+forma-36,Feat/card selected state,https://github.com/contentful/forma-36/pull/648,2020-11-19T13:54:26Z,2020-11-23T13:51:40Z,8,11,MERGED
+forma-36,fix(grid): GapTypes typos,https://github.com/contentful/forma-36/pull/644,2020-11-18T04:18:48Z,2020-11-20T11:05:12Z,4,4,MERGED
+forma-36,docs: show components in the center of the canvas,https://github.com/contentful/forma-36/pull/639,2020-11-13T16:57:18Z,2020-11-18T11:10:47Z,5,3,MERGED
+forma-36,feat(text-link): remove underline from link and add new story,https://github.com/contentful/forma-36/pull/637,2020-11-13T14:52:28Z,2020-11-16T13:26:27Z,3,6,MERGED
+forma-36,feat(tooltip): make the tooltip stay open when hovering on the content,https://github.com/contentful/forma-36/pull/636,2020-11-12T16:56:09Z,2020-11-17T11:45:28Z,9,2,MERGED
+forma-36,feat: add support for status icon for an asset card,https://github.com/contentful/forma-36/pull/622,2020-11-04T17:19:31Z,2020-11-25T11:21:15Z,7,6,MERGED
+forma-36,fix: modals extend too far vertically,https://github.com/contentful/forma-36/pull/715,2020-12-14T15:20:28Z,2020-12-15T12:39:33Z,3,1,MERGED
+forma-36,feat(MOI-1788): add double arrow icon,https://github.com/contentful/forma-36/pull/705,2020-12-04T12:47:46Z,2020-12-04T14:30:22Z,2,2,MERGED
+forma-36,feat: handle tag change in the List component,https://github.com/contentful/forma-36/pull/809,2021-01-26T08:10:23Z,2021-01-26T11:01:42Z,7,1,MERGED
+forma-36,docs: new release info on the F36 website,https://github.com/contentful/forma-36/pull/799,2021-01-21T13:13:59Z,2021-01-21T15:06:58Z,3,3,MERGED
+forma-36,feat(checkbox): add indeterminate state,https://github.com/contentful/forma-36/pull/790,2021-01-14T12:55:16Z,2021-01-14T13:23:25Z,1,2,MERGED
+forma-36,fix: bugfix for Tag ,https://github.com/contentful/forma-36/pull/787,2021-01-14T09:32:02Z,2021-01-14T09:59:37Z,2,1,MERGED
+forma-36,V3: fix center icon and label in full width button,https://github.com/contentful/forma-36/pull/782,2021-01-13T14:51:57Z,2021-01-13T15:05:59Z,1,1,MERGED
+forma-36,Fix/button icon margin,https://github.com/contentful/forma-36/pull/781,2021-01-13T14:17:23Z,2021-01-13T14:25:25Z,1,1,MERGED
+forma-36,feat(icon-button): new visual styles,https://github.com/contentful/forma-36/pull/778,2021-01-12T17:35:42Z,2021-01-13T10:23:54Z,3,2,MERGED
+forma-36,refactor: make spinner three dots again,https://github.com/contentful/forma-36/pull/757,2021-01-08T10:11:51Z,2021-01-08T11:37:54Z,6,4,MERGED
+forma-36,fix: full width button with centered content,https://github.com/contentful/forma-36/pull/756,2021-01-08T09:55:50Z,2021-01-08T10:07:20Z,0,2,MERGED
+forma-36,fix: aligment in full width buttons,https://github.com/contentful/forma-36/pull/755,2021-01-08T09:35:53Z,2021-01-08T09:40:17Z,0,1,MERGED
+forma-36,refactor: revert spinner to previous animation,https://github.com/contentful/forma-36/pull/735,2021-01-05T09:18:09Z,2021-01-05T10:28:07Z,2,1,MERGED
+forma-36,Feat/button v3 changes,https://github.com/contentful/forma-36/pull/734,2021-01-04T16:49:49Z,2021-01-06T16:52:40Z,13,19,MERGED
+forma-36,fix: fix styles for disable Radio button,https://github.com/contentful/forma-36/pull/842,2021-02-19T13:26:35Z,2021-02-19T13:37:37Z,1,1,MERGED
+forma-36,feat: introducing size property in Tag component,https://github.com/contentful/forma-36/pull/838,2021-02-15T17:11:13Z,2021-02-24T07:47:50Z,7,15,MERGED
+forma-36,fix: update CopyButton to the new styles,https://github.com/contentful/forma-36/pull/835,2021-02-10T15:45:08Z,2021-02-15T14:49:25Z,5,6,MERGED
+forma-36,[WIP]docs: navigation scroll on the website,https://github.com/contentful/forma-36/pull/833,2021-02-10T14:11:33Z,2021-02-22T07:46:44Z,3,7,CLOSED
+forma-36,docs(TextField): fix controls and extend overview stories,https://github.com/contentful/forma-36/pull/826,2021-02-05T14:14:20Z,2021-02-12T09:44:20Z,2,8,MERGED
+forma-36,docs(forms): create section for form components,https://github.com/contentful/forma-36/pull/825,2021-02-05T14:06:16Z,2021-02-08T12:46:27Z,3,2,MERGED
+forma-36,feat/new typography styles,https://github.com/contentful/forma-36/pull/823,2021-02-04T13:17:18Z,2021-02-09T08:58:00Z,8,16,MERGED
+forma-36,fix: equal left & right paddings in a dropdown button,https://github.com/contentful/forma-36/pull/902,2021-03-30T12:47:23Z,2021-04-01T15:35:54Z,3,3,MERGED
+forma-36,feat: add featured variant to Badge,https://github.com/contentful/forma-36/pull/892,2021-03-24T14:41:36Z,2021-03-24T14:55:08Z,1,1,MERGED
+forma-36,feat: add 'featured' tagType to Tag,https://github.com/contentful/forma-36/pull/891,2021-03-24T12:43:32Z,2021-03-24T14:45:24Z,4,3,MERGED
+forma-36,docs: props table generation,https://github.com/contentful/forma-36/pull/888,2021-03-22T17:11:03Z,2021-03-23T11:13:20Z,5,9,MERGED
+forma-36,feat(pill): add pill states,https://github.com/contentful/forma-36/pull/874,2021-03-12T10:48:13Z,2021-03-12T14:48:03Z,3,3,MERGED
+forma-36,style(button spinner): reduce the size of the new spinner in buttons,https://github.com/contentful/forma-36/pull/869,2021-03-10T20:22:19Z,2021-04-21T07:29:41Z,5,2,MERGED
+forma-36,fix: Restore Margins on EmptyState in Product [HOMER-23],https://github.com/contentful/forma-36/pull/939,2021-04-27T12:37:08Z,2021-04-27T12:45:22Z,1,1,MERGED
+forma-36,fix(autocomplete): dropdown button position,https://github.com/contentful/forma-36/pull/934,2021-04-22T12:25:34Z,2021-04-22T13:26:35Z,1,2,MERGED
+forma-36,docs: remove release note from the website,https://github.com/contentful/forma-36/pull/923,2021-04-15T13:49:41Z,2021-04-16T08:32:21Z,1,3,MERGED
+forma-36,feat: add Gift icon,https://github.com/contentful/forma-36/pull/921,2021-04-14T19:52:17Z,2021-04-15T08:43:50Z,4,2,MERGED
+forma-36,fix: add css to break wide list items in the dropdown,https://github.com/contentful/forma-36/pull/910,2021-04-08T11:32:41Z,2021-04-08T14:51:53Z,6,6,MERGED
+forma-36,chore: bump parcel to beta-3,https://github.com/contentful/forma-36/pull/976,2021-05-21T12:38:30Z,2021-05-21T13:35:54Z,1,2,MERGED
+forma-36,docs: update link to F36 documentation website design tokens section,https://github.com/contentful/forma-36/pull/1017,2021-06-28T08:02:22Z,2021-07-01T12:44:58Z,1,4,MERGED
+forma-36,docs: add build step for local development of website and tokens,https://github.com/contentful/forma-36/pull/998,2021-06-23T14:00:34Z,2021-06-23T15:48:38Z,2,2,MERGED
+forma-36,fix(switch.css): adds missing font-family: var(--font-stack-primary) declaration for Switch labels,https://github.com/contentful/forma-36/pull/1128,2021-07-28T17:45:43Z,2021-07-29T08:26:52Z,2,1,MERGED
+forma-36,feat: create ButtonGroup component,https://github.com/contentful/forma-36/pull/1109,2021-07-22T12:16:43Z,2021-07-28T07:54:02Z,8,14,MERGED
+forma-36,docs: Update website with migration note,https://github.com/contentful/forma-36/pull/1106,2021-07-22T08:35:34Z,2021-07-23T09:17:25Z,3,9,MERGED
+forma-36,Fully-automate development setup with Gitpod,https://github.com/contentful/forma-36/pull/1104,2021-07-21T20:52:53Z,2021-07-27T12:10:50Z,4,1,CLOSED
+forma-36,feat: puzzle icon,https://github.com/contentful/forma-36/pull/1103,2021-07-21T18:28:06Z,2021-07-22T10:43:21Z,6,4,MERGED
+forma-36,feat: primitive optimizations,https://github.com/contentful/forma-36/pull/1069,2021-07-15T09:07:47Z,2021-07-15T11:46:06Z,3,5,MERGED
+forma-36,fix: introduce transparent variant of the button component,https://github.com/contentful/forma-36/pull/1048,2021-07-08T13:26:36Z,2021-07-09T12:06:47Z,1,4,MERGED
+forma-36,feat: new colors tokens update,https://github.com/contentful/forma-36/pull/1041,2021-07-05T12:27:26Z,2021-07-22T07:41:09Z,9,35,MERGED
+forma-36,docs: v4 website UI improvements,https://github.com/contentful/forma-36/pull/1249,2021-08-27T14:43:26Z,2021-08-30T09:52:53Z,1,2,MERGED
+forma-36,fix(Autocomplete): add error handling possibility,https://github.com/contentful/forma-36/pull/1245,2021-08-26T15:22:35Z,2021-08-30T07:52:41Z,7,6,MERGED
+forma-36,💡 Proposal: remove build from lint and test jobs,https://github.com/contentful/forma-36/pull/1239,2021-08-26T08:40:13Z,2021-08-27T09:45:25Z,3,2,MERGED
+forma-36,refactor(checkbox): Create BaseCheckbox component,https://github.com/contentful/forma-36/pull/1235,2021-08-25T14:40:58Z,2021-08-30T11:59:37Z,3,13,MERGED
+forma-36,fix: text link semantics and alignment,https://github.com/contentful/forma-36/pull/1213,2021-08-23T11:30:39Z,2021-08-23T13:50:09Z,1,1,MERGED
+forma-36,feat: migrate datetime to v4,https://github.com/contentful/forma-36/pull/1200,2021-08-18T10:21:16Z,2021-08-23T12:11:46Z,27,29,MERGED
+forma-36,docs: provide StaticSource component to solve some issues in docs,https://github.com/contentful/forma-36/pull/1190,2021-08-17T10:47:06Z,2021-08-17T12:53:55Z,1,2,MERGED
+forma-36,docs: add space between buttons in the website,https://github.com/contentful/forma-36/pull/1171,2021-08-09T15:13:48Z,2021-08-10T08:04:37Z,2,2,MERGED
+forma-36,feat: osano banner in storybook,https://github.com/contentful/forma-36/pull/1170,2021-08-09T13:36:22Z,2021-08-11T07:08:39Z,7,20,MERGED
+forma-36,[BAU-61] feat: implement osano in forma 36 website,https://github.com/contentful/forma-36/pull/1152,2021-08-04T14:13:39Z,2021-08-05T14:45:01Z,13,11,MERGED
+forma-36,fix: website footer is getting hidden by promo banner,https://github.com/contentful/forma-36/pull/1147,2021-08-04T10:42:53Z,2021-08-04T10:54:00Z,2,3,MERGED
+forma-36,docs: simplify structure of the components used to render a page in f36 website,https://github.com/contentful/forma-36/pull/1369,2021-09-30T16:39:52Z,2021-10-01T13:58:43Z,1,4,MERGED
+forma-36,docs: fix code preview after changes in Card,https://github.com/contentful/forma-36/pull/1367,2021-09-30T09:47:02Z,2021-09-30T10:00:05Z,1,1,MERGED
+forma-36,docs: v4 website improvements,https://github.com/contentful/forma-36/pull/1346,2021-09-23T08:09:00Z,2021-09-23T12:42:57Z,1,8,MERGED
+forma-36,fix: dropdown container focus styles,https://github.com/contentful/forma-36/pull/1313,2021-09-14T13:05:24Z,2021-09-20T10:39:47Z,4,4,MERGED
+forma-36,fix(radiobutton): wrong style on disabled radiobutton,https://github.com/contentful/forma-36/pull/1312,2021-09-14T09:10:36Z,2021-09-14T10:11:51Z,1,1,MERGED
+forma-36,docs: add embed code sandbox template to website,https://github.com/contentful/forma-36/pull/1311,2021-09-13T14:33:20Z,2021-09-14T14:16:52Z,3,4,MERGED
+forma-36,docs: add Formik examples in storybook ,https://github.com/contentful/forma-36/pull/1304,2021-09-10T11:22:23Z,2021-09-13T11:43:25Z,4,6,MERGED
+forma-36,docs: add react hook form integration page in f36 website,https://github.com/contentful/forma-36/pull/1303,2021-09-10T10:37:01Z,2021-09-10T12:56:39Z,2,11,MERGED
+forma-36,docs: add react-hook-form examples in storybook,https://github.com/contentful/forma-36/pull/1301,2021-09-09T14:11:26Z,2021-09-10T10:37:46Z,6,8,MERGED
+forma-36,fix: FormLabel font weight should be 500,https://github.com/contentful/forma-36/pull/1296,2021-09-08T09:51:50Z,2021-09-08T10:16:46Z,1,1,MERGED
+forma-36,fix(Modal): story improvement & allow scrolling in ModalCofirm [],https://github.com/contentful/forma-36/pull/1291,2021-09-06T13:23:12Z,2021-09-06T15:53:20Z,1,3,MERGED
+forma-36,feat(switch): add sizes to Switch input component,https://github.com/contentful/forma-36/pull/1290,2021-09-06T13:22:02Z,2021-09-07T09:50:45Z,3,2,MERGED
+forma-36,Fix/autocomplete style,https://github.com/contentful/forma-36/pull/1452,2021-10-26T08:27:03Z,2021-10-26T10:01:33Z,3,3,MERGED
+forma-36,Feat/autocomplete enable groups [HOMER-300],https://github.com/contentful/forma-36/pull/1415,2021-10-18T12:37:29Z,2021-10-21T06:42:39Z,14,32,MERGED
+forma-36,fix: text input disappearing when focused,https://github.com/contentful/forma-36/pull/1413,2021-10-18T09:32:06Z,2021-10-18T10:23:42Z,1,1,MERGED
+forma-36,feat(codemod): add EntityList codemod,https://github.com/contentful/forma-36/pull/1385,2021-10-07T12:04:36Z,2021-10-07T14:01:40Z,1,3,MERGED
+forma-36,[BAU-421]: feat: implement new design to the Props visualization component,https://github.com/contentful/forma-36/pull/1579,2021-11-30T14:00:32Z,2021-12-02T15:16:14Z,11,20,MERGED
+forma-36,[BAU-302] docs: update plop template with new format,https://github.com/contentful/forma-36/pull/1566,2021-11-24T16:09:43Z,2021-11-30T09:08:30Z,9,7,MERGED
+forma-36,docs(Button): show example for as property,https://github.com/contentful/forma-36/pull/1555,2021-11-23T08:53:58Z,2021-11-23T11:08:40Z,2,2,MERGED
+forma-36,fix: add whiteSpace breaks in BaseCard content,https://github.com/contentful/forma-36/pull/1517,2021-11-12T13:10:15Z,2021-11-12T14:21:44Z,1,1,MERGED
+forma-36,docs: change contribution guide hierarchy,https://github.com/contentful/forma-36/pull/1515,2021-11-12T11:46:31Z,2021-11-12T13:20:22Z,2,2,MERGED
+forma-36,fix: remove overflow hidden from BaseCard,https://github.com/contentful/forma-36/pull/1513,2021-11-11T17:31:36Z,2021-11-12T09:18:48Z,2,1,MERGED
+forma-36,docs: change migration guide layout,https://github.com/contentful/forma-36/pull/1510,2021-11-11T14:06:51Z,2021-11-11T14:17:14Z,1,1,MERGED
+forma-36,docs: update website with Forma 36 components survey,https://github.com/contentful/forma-36/pull/1473,2021-11-03T05:35:12Z,2021-11-03T09:53:51Z,1,1,MERGED
+forma-36,feat: automatic generation of table of contents,https://github.com/contentful/forma-36/pull/1649,2021-12-21T11:54:08Z,2021-12-21T16:56:11Z,4,6,MERGED
+forma-36,[BAU-486] feat: add links to the new sidebar,https://github.com/contentful/forma-36/pull/1636,2021-12-16T16:55:38Z,2021-12-20T09:23:40Z,5,16,MERGED
+forma-36,[BAU-492] docs: add documentation for spacing and typography tokens,https://github.com/contentful/forma-36/pull/1633,2021-12-15T18:22:55Z,2021-12-16T09:42:55Z,4,6,MERGED
+forma-36,[BAU-492] fix: add transitions documentation page to next js,https://github.com/contentful/forma-36/pull/1630,2021-12-15T10:57:19Z,2021-12-15T13:34:56Z,2,1,MERGED
+forma-36,fix: fix Button to elipsis with longer content,https://github.com/contentful/forma-36/pull/1629,2021-12-15T09:44:00Z,2021-12-17T14:33:16Z,3,4,MERGED
+forma-36,[BAU-492] fix: documentation for shadows and glows in nextjs,https://github.com/contentful/forma-36/pull/1628,2021-12-14T17:39:54Z,2021-12-15T13:36:59Z,3,3,MERGED
+forma-36,[BAU-492]  fix: color documentation in next js website,https://github.com/contentful/forma-36/pull/1627,2021-12-14T17:06:23Z,2021-12-15T13:37:28Z,3,3,MERGED
+forma-36,[BAU-489] feat: implement a layout grid for the next js website,https://github.com/contentful/forma-36/pull/1619,2021-12-13T14:53:53Z,2021-12-13T15:59:34Z,4,5,MERGED
+forma-36,[BAU-482] docs: add documentation page for asset card,https://github.com/contentful/forma-36/pull/1600,2021-12-08T14:31:14Z,2021-12-09T09:41:34Z,2,1,MERGED
+forma-36,[BAU-345] docs: it creates a page for entry card,https://github.com/contentful/forma-36/pull/1598,2021-12-08T09:28:48Z,2021-12-08T09:59:14Z,2,2,MERGED
+forma-36,fix: fix issue with padding for cards,https://github.com/contentful/forma-36/pull/1597,2021-12-07T20:19:08Z,2021-12-08T09:10:22Z,2,1,MERGED
+forma-36,refactor: Improve typing so it shows the props,https://github.com/contentful/forma-36/pull/1591,2021-12-06T15:51:46Z,2021-12-08T17:35:57Z,4,7,MERGED
+forma-36,fix: change collapse url and create animation components section,https://github.com/contentful/forma-36/pull/1823,2022-01-26T13:54:50Z,2022-01-26T14:16:09Z,1,1,MERGED
+forma-36,feat: implement short description in page content header,https://github.com/contentful/forma-36/pull/1822,2022-01-26T11:55:43Z,2022-02-07T14:23:30Z,1,6,MERGED
+forma-36,feat: implement styles to the playground section,https://github.com/contentful/forma-36/pull/1818,2022-01-25T13:36:07Z,2022-01-25T15:49:33Z,2,5,MERGED
+forma-36,fix: add link to submit the idea in GitHub for components,https://github.com/contentful/forma-36/pull/1814,2022-01-24T13:51:21Z,2022-02-02T13:11:27Z,6,8,MERGED
+forma-36,feat: add app framework link and playground link to the sidebar,https://github.com/contentful/forma-36/pull/1795,2022-01-19T16:27:06Z,2022-01-20T10:06:41Z,2,1,MERGED
+forma-36,feat: allow react nodes in title of note,https://github.com/contentful/forma-36/pull/1791,2022-01-19T09:04:16Z,2022-01-20T16:13:03Z,3,1,MERGED
+forma-36,fix: align sidebar links to forma 36's logo,https://github.com/contentful/forma-36/pull/1785,2022-01-17T14:55:30Z,2022-01-17T15:47:48Z,1,2,MERGED
+forma-36,[Proposal] feat: navigation links states,https://github.com/contentful/forma-36/pull/1776,2022-01-17T11:06:51Z,2022-01-17T13:20:20Z,4,4,MERGED
+forma-36,feat: implement website layout grid in the footer,https://github.com/contentful/forma-36/pull/1775,2022-01-14T16:57:44Z,2022-01-17T08:55:42Z,1,2,MERGED
+forma-36,feat: implement props list redesign [BAU-535] ,https://github.com/contentful/forma-36/pull/1756,2022-01-12T15:27:15Z,2022-01-12T16:06:36Z,1,7,MERGED
+forma-36,fix(basecheckbox): update flex direction so helpText appears below input,https://github.com/contentful/forma-36/pull/1755,2022-01-12T14:44:51Z,2022-01-12T15:20:43Z,1,1,MERGED
+forma-36,fix: color demo spacing,https://github.com/contentful/forma-36/pull/1736,2022-01-10T22:02:20Z,2022-01-11T13:26:41Z,1,1,MERGED
+forma-36,Fix/component page structure,https://github.com/contentful/forma-36/pull/1735,2022-01-10T15:33:48Z,2022-01-11T16:14:29Z,5,595,MERGED
+forma-36,fix: sidebar cropping docsearch and footer not sticky to the bottom,https://github.com/contentful/forma-36/pull/1708,2022-01-06T12:40:00Z,2022-01-06T13:40:04Z,1,2,MERGED
+forma-36,fix: double scroll in the sidemenu,https://github.com/contentful/forma-36/pull/1676,2022-01-03T12:53:12Z,2022-01-03T13:00:01Z,1,1,MERGED
+forma-36,Fix/add title attribute to base card [ZEND-1740],https://github.com/contentful/forma-36/pull/1675,2022-01-03T12:28:37Z,2022-01-03T14:11:16Z,1,1,MERGED
+forma-36,fix: close button alignment in Note component,https://github.com/contentful/forma-36/pull/1908,2022-02-25T15:36:54Z,2022-03-01T09:29:21Z,2,2,MERGED
+forma-36,fix: fix badge alignment,https://github.com/contentful/forma-36/pull/1902,2022-02-23T13:35:52Z,2022-02-23T14:06:33Z,3,1,MERGED
+forma-36,fix: remove state from ToggleButton,https://github.com/contentful/forma-36/pull/1897,2022-02-21T17:04:32Z,2022-02-22T09:24:44Z,2,3,MERGED
+forma-36,feat: new property to typography components,https://github.com/contentful/forma-36/pull/1891,2022-02-16T16:31:22Z,2022-02-22T15:39:46Z,3,4,MERGED
+forma-36,fix: allow children to be passed to InlineEntryCard,https://github.com/contentful/forma-36/pull/1884,2022-02-11T14:38:48Z,2022-02-14T16:16:35Z,8,7,MERGED
+forma-36,fix(Badge): disable newlines,https://github.com/contentful/forma-36/pull/1883,2022-02-11T10:30:50Z,2022-02-15T13:27:39Z,6,4,MERGED
+forma-36,feat: implement a custom scrollbar,https://github.com/contentful/forma-36/pull/1882,2022-02-10T16:13:40Z,2022-02-11T10:29:33Z,1,2,MERGED
+forma-36,docs: use correct space character,https://github.com/contentful/forma-36/pull/1881,2022-02-10T15:58:14Z,2022-02-10T16:37:40Z,1,1,MERGED
+forma-36,fix(website): override style so what you select is what you edit,https://github.com/contentful/forma-36/pull/1875,2022-02-09T11:04:52Z,2022-02-09T12:34:18Z,4,1,MERGED
+forma-36,feat: by default render Popover only when it's open,https://github.com/contentful/forma-36/pull/1873,2022-02-08T14:26:56Z,2022-02-09T09:52:33Z,1,3,MERGED
+forma-36,fix: playground top bar,https://github.com/contentful/forma-36/pull/1870,2022-02-08T13:11:55Z,2022-02-08T14:35:32Z,1,1,MERGED
+forma-36,refactor: align github link with ToC,https://github.com/contentful/forma-36/pull/1865,2022-02-07T15:51:55Z,2022-02-07T16:15:33Z,1,2,MERGED
+forma-36,feat: increase sidebar width,https://github.com/contentful/forma-36/pull/1864,2022-02-07T15:19:36Z,2022-02-07T16:07:38Z,1,1,MERGED
+forma-36,feat: align all components to the center of their preview area,https://github.com/contentful/forma-36/pull/1855,2022-02-04T15:25:10Z,2022-02-07T11:42:48Z,1,1,MERGED
+forma-36,fix: fix switch component CSS,https://github.com/contentful/forma-36/pull/1956,2022-03-16T16:36:18Z,2022-03-22T09:35:49Z,7,4,MERGED
+forma-36,fix: align external link icons in website,https://github.com/contentful/forma-36/pull/1952,2022-03-15T14:00:11Z,2022-03-16T08:32:21Z,2,2,MERGED
+forma-36,[WIP] docs: change component overview descriptions,https://github.com/contentful/forma-36/pull/1951,2022-03-15T07:25:47Z,2022-03-21T15:42:55Z,2,1,CLOSED
+forma-36,fix: align logo to the content grid,https://github.com/contentful/forma-36/pull/1950,2022-03-14T18:07:58Z,2022-03-21T12:44:51Z,4,4,MERGED
+forma-36,feat: implement new website homepage,https://github.com/contentful/forma-36/pull/1949,2022-03-14T15:58:49Z,2022-04-11T12:06:33Z,7,8,MERGED
+forma-36,fix: clunky close animation of the modal component,https://github.com/contentful/forma-36/pull/1940,2022-03-09T15:38:01Z,2022-03-09T16:19:47Z,2,1,MERGED
+forma-36,fix: fix entry card description,https://github.com/contentful/forma-36/pull/1930,2022-03-03T18:22:04Z,2022-03-07T09:07:32Z,3,1,MERGED
+forma-36,fix: fix erroneous use of rgb with 4 arguments (rgba),https://github.com/contentful/forma-36/pull/1920,2022-03-02T17:14:38Z,2022-03-03T10:43:54Z,8,6,MERGED
+forma-36,feat: generate links for the sidebar from contentful,https://github.com/contentful/forma-36/pull/2003,2022-04-22T15:02:33Z,2022-04-27T08:24:54Z,5,7,MERGED
+forma-36,fix(modal): force scale,https://github.com/contentful/forma-36/pull/1995,2022-04-13T13:17:58Z,2022-04-13T13:46:48Z,2,1,MERGED
+forma-36,fix: workbench header icon alignments,https://github.com/contentful/forma-36/pull/2051,2022-05-12T14:41:55Z,2022-05-13T13:24:33Z,4,2,MERGED
+forma-36,style: fix autocomplete input with button styling [HOMER-856],https://github.com/contentful/forma-36/pull/2050,2022-05-12T07:10:52Z,2022-05-12T16:28:58Z,3,2,MERGED
+forma-36,Style: Update Background color on hover for td,https://github.com/contentful/forma-36/pull/2139,2022-07-21T07:02:15Z,2022-08-26T06:37:49Z,5,1,CLOSED
+forma-36,fix: update banner for version 3 website,https://github.com/contentful/forma-36/pull/2135,2022-07-19T12:21:47Z,2022-07-20T08:51:15Z,4,2,MERGED
+forma-36,fix: playground datepicker dependency version,https://github.com/contentful/forma-36/pull/2115,2022-07-06T17:15:55Z,2022-07-07T06:52:35Z,2,1,MERGED
+forma-36,fix: update website with the component statuses [BAU-903],https://github.com/contentful/forma-36/pull/2152,2022-08-04T11:18:42Z,2022-08-05T12:31:43Z,8,5,MERGED
+forma-36,feat: neutral variant for Note component,https://github.com/contentful/forma-36/pull/2150,2022-08-03T12:10:33Z,2022-08-04T07:32:46Z,2,2,MERGED
+forma-36,fix: handling of zIndex on TextInput.Group,https://github.com/contentful/forma-36/pull/2243,2022-09-19T14:12:00Z,2022-09-23T13:15:47Z,6,4,MERGED
+forma-36,feat(icons): Add Toggle icon,https://github.com/contentful/forma-36/pull/2233,2022-09-14T15:10:36Z,2022-09-16T14:06:17Z,8,2,MERGED
+forma-36,fix(Notification): break long words into new lines,https://github.com/contentful/forma-36/pull/2232,2022-09-14T14:50:29Z,2022-09-14T15:20:23Z,4,4,MERGED
+forma-36,docs(Calendar): remove beta package install instructions,https://github.com/contentful/forma-36/pull/2228,2022-09-14T12:25:35Z,2022-09-14T12:36:03Z,3,1,MERGED
+forma-36,fix: add button margin reset on GlobalStyles,https://github.com/contentful/forma-36/pull/2227,2022-09-14T11:42:27Z,2022-09-14T13:27:27Z,3,2,MERGED
+forma-36,fix(Text): truncated styles,https://github.com/contentful/forma-36/pull/2216,2022-09-12T14:31:53Z,2022-09-12T14:41:26Z,2,1,MERGED
+forma-36,feat: new component multiselect,https://github.com/contentful/forma-36/pull/2188,2022-09-01T15:17:40Z,2022-10-06T07:27:47Z,44,63,MERGED
+forma-36,fix: avoid shrinking the switch input to not cut if off [HOMER-1216],https://github.com/contentful/forma-36/pull/2186,2022-09-01T10:01:40Z,2022-09-01T10:29:30Z,2,1,MERGED
+forma-36,feat: add entries and pages icon [SPA-823],https://github.com/contentful/forma-36/pull/2272,2022-10-07T09:22:42Z,2022-10-10T16:16:19Z,11,7,MERGED
+forma-36,chore: bump workbench,https://github.com/contentful/forma-36/pull/2334,2022-11-21T12:53:51Z,2022-11-21T15:07:51Z,4,2,MERGED
+forma-36,feat: account for when there is no entity card description,https://github.com/contentful/forma-36/pull/2333,2022-11-18T15:57:22Z,2022-11-21T09:35:38Z,4,2,MERGED
+forma-36,feat: update entity list item to include entity type [SPA-914],https://github.com/contentful/forma-36/pull/2331,2022-11-17T12:51:26Z,2022-11-18T13:37:58Z,8,6,MERGED
+forma-36,feat: Entity list item isSelected prop,https://github.com/contentful/forma-36/pull/2312,2022-11-02T02:45:43Z,2023-07-11T08:18:04Z,4,8,CLOSED
+forma-36,Extend Multiselect: Select All component,https://github.com/contentful/forma-36/pull/2345,2022-12-02T11:26:42Z,2022-12-12T10:56:13Z,19,17,MERGED
+forma-36,feat: add downward icon [SDK-2498],https://github.com/contentful/forma-36/pull/2391,2023-01-27T10:22:10Z,2023-01-27T13:39:54Z,5,1,MERGED
+forma-36,fix(tooltip): normalise letter spacing and text transform on tooltip,https://github.com/contentful/forma-36/pull/2373,2023-01-10T16:19:35Z,2023-01-11T11:12:50Z,3,2,MERGED
+forma-36,fix: badge letter casing,https://github.com/contentful/forma-36/pull/2430,2023-03-14T15:46:05Z,2023-03-15T08:39:17Z,5,2,MERGED
+forma-36,feat: add new MissingContent component,https://github.com/contentful/forma-36/pull/2453,2023-04-20T13:01:36Z,2023-04-24T12:28:23Z,19,19,MERGED
+forma-36,fix(button): retain transparent button focus background,https://github.com/contentful/forma-36/pull/2489,2023-05-24T14:32:54Z,2023-05-24T15:53:48Z,3,2,MERGED
+forma-36,feat: add embedded assets support,https://github.com/contentful/forma-36/pull/2482,2023-05-12T13:00:15Z,2023-05-12T13:30:33Z,4,1,MERGED
+forma-36,feat: add subtitle prop to Modal,https://github.com/contentful/forma-36/pull/2479,2023-05-10T15:41:15Z,2023-05-11T11:06:30Z,5,4,MERGED
+forma-36,fix: small Select padding,https://github.com/contentful/forma-36/pull/2506,2023-06-21T13:58:20Z,2023-06-21T14:19:38Z,4,3,MERGED
+forma-36,feat: update avatar colors [HOMER-2193],https://github.com/contentful/forma-36/pull/2550,2023-07-26T14:36:06Z,2023-07-27T07:22:48Z,3,4,MERGED
+forma-36,feat: add tooltip support for avatar and avatar group components [],https://github.com/contentful/forma-36/pull/2549,2023-07-26T13:02:36Z,2023-07-27T07:41:42Z,3,2,MERGED
+forma-36,"feat(note, icon, textLink): add new premium variant",https://github.com/contentful/forma-36/pull/2544,2023-07-18T13:20:06Z,2023-07-19T13:06:23Z,6,15,MERGED
+forma-36,fix: apply style refresh to multiselect  [HOMER-2159],https://github.com/contentful/forma-36/pull/2535,2023-07-17T07:42:48Z,2023-07-19T08:28:31Z,6,12,MERGED
+forma-36,feat: add appearance icon [PHX-2643],https://github.com/contentful/forma-36/pull/2534,2023-07-14T13:44:24Z,2023-07-17T12:45:59Z,4,3,MERGED
+forma-36,feat(note): add 'icon' prop,https://github.com/contentful/forma-36/pull/2532,2023-07-12T14:54:04Z,2023-07-13T12:23:44Z,7,11,MERGED
+forma-36,Set min-width: 0 for workbench header flexboxes,https://github.com/contentful/forma-36/pull/2520,2023-07-06T12:53:01Z,2023-07-07T10:00:33Z,10,3,MERGED
+forma-36,feat: Introduce new properties for the Avatar component [HOMER-2119],https://github.com/contentful/forma-36/pull/2519,2023-07-04T13:45:46Z,2023-07-05T13:22:07Z,9,11,MERGED
+forma-36,feat: New Component Avatar Group [HOMER-2118],https://github.com/contentful/forma-36/pull/2518,2023-07-04T12:57:54Z,2023-07-07T16:57:15Z,12,26,MERGED
+forma-36,docs: show deprecated prop badge,https://github.com/contentful/forma-36/pull/2568,2023-08-29T16:50:38Z,2023-09-01T10:20:02Z,4,1,MERGED
+forma-36,chore: [F36-893] change Button border color of active and focused states,https://github.com/contentful/forma-36/pull/2558,2023-08-15T14:06:07Z,2023-08-16T15:35:05Z,3,2,MERGED
+forma-36,fix: tooltip position by using portal option ,https://github.com/contentful/forma-36/pull/2557,2023-08-15T11:32:53Z,2023-08-15T12:30:07Z,3,2,MERGED
+forma-36,fix(TextLink): vertical alignment when used within flexbox container,https://github.com/contentful/forma-36/pull/2584,2023-09-28T10:44:32Z,2023-09-29T13:18:01Z,4,1,MERGED
+forma-36,"feat(IconButton): Adjust IconButton size. Deprecate `size=""large""` and `children`",https://github.com/contentful/forma-36/pull/2576,2023-09-11T11:54:09Z,2023-10-11T13:22:25Z,8,1,MERGED
+forma-36,fix(Button): transparent variant loading icon color,https://github.com/contentful/forma-36/pull/2575,2023-09-08T15:09:39Z,2023-09-11T09:20:32Z,3,1,MERGED
+forma-36,fix(TextLink): vertical alignment when used in list,https://github.com/contentful/forma-36/pull/2574,2023-09-08T11:33:59Z,2023-09-08T14:10:19Z,3,1,MERGED
+forma-36,fix: add 'f36-core' to playground dependencies,https://github.com/contentful/forma-36/pull/2569,2023-09-01T10:33:15Z,2023-09-01T10:49:12Z,3,1,MERGED
+forma-36,docs(TextLink): update link,https://github.com/contentful/forma-36/pull/2595,2023-10-23T12:40:32Z,2023-10-23T13:08:15Z,3,1,MERGED
+forma-36,fix: various quirks,https://github.com/contentful/forma-36/pull/2615,2023-11-23T15:58:59Z,2023-11-24T10:48:16Z,4,3,MERGED
+forma-36,fix(story): fix bug in Pill story where user cannot change draggable …,https://github.com/contentful/forma-36/pull/2610,2023-11-14T19:54:34Z,2023-11-17T15:11:19Z,5,2,MERGED
+forma-36,docs(calendar): move calendar stories and rename Basic story,https://github.com/contentful/forma-36/pull/2607,2023-11-09T22:57:21Z,2023-11-10T15:59:40Z,5,1,MERGED
+forma-36,docs(calendar): align naming of Indicator vs Custom Day content examples,https://github.com/contentful/forma-36/pull/2606,2023-11-09T22:54:27Z,2023-11-10T15:17:25Z,5,1,MERGED
+forma-36,fix: IconButton size type,https://github.com/contentful/forma-36/pull/2605,2023-11-08T14:49:47Z,2023-11-08T14:59:31Z,5,2,MERGED
+forma-36,style(formcontrol): adjust spacing and placement of validation message,https://github.com/contentful/forma-36/pull/2636,2023-12-12T21:13:41Z,2024-01-09T15:33:29Z,11,8,MERGED
+forma-36,fix(Button): default padding for small size,https://github.com/contentful/forma-36/pull/2626,2023-12-06T13:47:30Z,2023-12-06T15:00:18Z,3,2,MERGED
+forma-36,feat: make CopyButton visual props less strict,https://github.com/contentful/forma-36/pull/2624,2023-12-05T15:48:35Z,2023-12-05T16:18:59Z,3,2,MERGED
+forma-36,feat(Navbar): update Contentful logo,https://github.com/contentful/forma-36/pull/2663,2024-01-31T14:54:52Z,2024-02-02T08:41:44Z,4,3,MERGED
+forma-36,feat: [CFCX-1237] design system debt border radius tokens make publicly visible,https://github.com/contentful/forma-36/pull/2656,2024-01-18T15:54:14Z,2024-01-19T11:01:52Z,6,2,MERGED
+forma-36,chore: remove alpha `DensityContainer` component,https://github.com/contentful/forma-36/pull/2655,2024-01-17T17:11:08Z,2024-01-18T09:38:25Z,6,15,MERGED
+forma-36,feat: update multiselect [HOMER-2649],https://github.com/contentful/forma-36/pull/2654,2024-01-17T12:52:45Z,2024-01-26T09:46:19Z,8,14,MERGED
+forma-36,feat(forms): add high-density support to Select,https://github.com/contentful/forma-36/pull/2653,2024-01-15T16:31:37Z,2024-01-17T13:02:03Z,7,5,MERGED
+forma-36,feat: add high density typography scale,https://github.com/contentful/forma-36/pull/2646,2024-01-09T16:31:16Z,2024-01-15T09:15:01Z,14,21,MERGED
+forma-36,fix: entry card wrapping [TOL-1721],https://github.com/contentful/forma-36/pull/2643,2024-01-02T14:45:01Z,2024-01-02T16:02:10Z,3,3,MERGED
+forma-36,feat(modal): updates Modal.Header to accept child component,https://github.com/contentful/forma-36/pull/2686,2024-02-28T15:03:52Z,2024-02-29T13:53:18Z,5,3,MERGED
+forma-36,feat: enable Badge option on EntryCard,https://github.com/contentful/forma-36/pull/2671,2024-02-12T17:43:09Z,2024-02-14T09:10:24Z,8,5,MERGED
+forma-36,ModalConfirm - render 'x' in ModalHeader,https://github.com/contentful/forma-36/pull/2669,2024-02-09T18:57:47Z,2024-02-22T09:40:19Z,12,1,MERGED
+forma-36,feat(autocomplete): add prop to control clear button visibility,https://github.com/contentful/forma-36/pull/2709,2024-04-11T09:29:32Z,2024-04-11T12:01:27Z,3,3,MERGED
+forma-36,feat: deprecate Icon Trimmed Variants,https://github.com/contentful/forma-36/pull/2706,2024-04-09T14:55:12Z,2024-04-11T08:10:27Z,6,10,MERGED
+forma-36,feat(entry card): entry card supports custom action button,https://github.com/contentful/forma-36/pull/2694,2024-04-03T09:57:43Z,2024-04-04T14:10:34Z,11,3,MERGED
+forma-36,feat: introduce size variants for light navbar,https://github.com/contentful/forma-36/pull/2760,2024-05-16T13:29:31Z,2024-05-17T09:50:30Z,3,4,MERGED
+forma-36,feat: [CFISO-1472] Implement new Pagecut style to Layout component,https://github.com/contentful/forma-36/pull/2747,2024-05-07T10:45:33Z,2024-06-28T14:08:47Z,15,33,CLOSED
+forma-36,feat: add clear selection button to multiselect,https://github.com/contentful/forma-36/pull/2816,2024-06-28T14:41:29Z,2024-07-04T15:06:23Z,5,14,MERGED
+forma-36,feat: add ProgressStepper component,https://github.com/contentful/forma-36/pull/2813,2024-06-27T17:33:15Z,2024-07-10T20:24:50Z,11,53,MERGED
+forma-36,feat: improve responsiveness for navigation [CFISO-1555],https://github.com/contentful/forma-36/pull/2805,2024-06-24T14:09:26Z,2024-07-08T09:55:24Z,15,14,MERGED
+forma-36,feat: light navbar env switcher [CFISO-1610],https://github.com/contentful/forma-36/pull/2802,2024-06-20T14:31:50Z,2024-06-22T08:46:33Z,4,1,CLOSED
+forma-36,feat: single line navigation,https://github.com/contentful/forma-36/pull/2785,2024-06-10T10:57:49Z,2024-06-10T14:21:53Z,10,13,MERGED
+forma-36,feat: update navigation item style,https://github.com/contentful/forma-36/pull/2783,2024-06-06T13:13:19Z,2024-06-07T15:54:10Z,7,11,MERGED
+forma-36,docs(Typography): remove duplicate line in docs,https://github.com/contentful/forma-36/pull/2781,2024-06-05T15:33:06Z,2024-06-06T09:49:53Z,3,1,MERGED
+forma-36,"Header: Remove unwanted margin from title, release as stable component",https://github.com/contentful/forma-36/pull/2777,2024-06-04T14:19:08Z,2024-06-04T15:17:24Z,3,5,MERGED
+forma-36,feat(header): only apply margin left if noWrap is not first child,https://github.com/contentful/forma-36/pull/2772,2024-06-03T10:30:55Z,2024-06-04T14:09:40Z,17,8,CLOSED
+forma-36,fix(<EntityListItem>): add onMenuClick and as props.,https://github.com/contentful/forma-36/pull/2839,2024-07-30T19:43:50Z,2024-08-07T15:26:07Z,14,1,MERGED
+forma-36,feat(navbar): increase wide variant max-width,https://github.com/contentful/forma-36/pull/2831,2024-07-22T12:20:42Z,2024-07-23T07:49:26Z,2,2,MERGED
+forma-36,fix(sandpackrenderer): add icons-alpha as dependency,https://github.com/contentful/forma-36/pull/2829,2024-07-18T13:11:48Z,2024-07-24T15:23:28Z,5,4,CLOSED
+forma-36,feat: Forma 36 v5,https://github.com/contentful/forma-36/pull/2828,2024-07-17T14:42:50Z,2025-08-29T12:17:51Z,7,251,MERGED
+forma-36,feat(entity-list-item): add support for Experience type entity,https://github.com/contentful/forma-36/pull/2821,2024-07-08T21:06:12Z,2024-07-12T14:29:16Z,4,1,MERGED
+forma-36,feat(paint-brush-icon): add new icon for paint brush,https://github.com/contentful/forma-36/pull/2819,2024-07-05T19:01:29Z,2024-07-22T14:46:48Z,4,4,MERGED
+forma-36,fix(playground): add `f36-progress-stepper` dependency,https://github.com/contentful/forma-36/pull/2854,2024-08-29T12:34:32Z,2024-08-29T12:47:40Z,3,1,MERGED
+forma-36,feat: add tooltip for icon only nav items cfiso 1677,https://github.com/contentful/forma-36/pull/2851,2024-08-26T14:06:26Z,2024-09-03T07:24:57Z,7,8,MERGED
+forma-36,feat: enable built-in tooltip for icon buttons,https://github.com/contentful/forma-36/pull/2850,2024-08-23T13:02:45Z,2024-09-02T12:54:41Z,9,11,MERGED
+forma-36,feat(icons): add `BookOpenIcon`,https://github.com/contentful/forma-36/pull/2849,2024-08-23T11:56:49Z,2024-08-23T12:51:22Z,3,2,MERGED
+forma-36,fix: adjust spacing and button size,https://github.com/contentful/forma-36/pull/2848,2024-08-21T11:58:53Z,2024-08-22T05:58:38Z,3,2,MERGED
+forma-36,chore: update Contentful logo + delete unused assets,https://github.com/contentful/forma-36/pull/2889,2024-09-30T10:51:49Z,2024-09-30T13:11:39Z,3,2,MERGED
+forma-36,refactor: enable children on navbar switcher,https://github.com/contentful/forma-36/pull/2863,2024-09-09T12:23:18Z,2024-09-09T12:50:49Z,5,1,MERGED
+forma-36,fix: avoid necessity for overwriting height and scrolling behavior  [CFISO-1861],https://github.com/contentful/forma-36/pull/2859,2024-09-05T12:54:31Z,2024-09-30T14:45:09Z,20,25,MERGED
+forma-36,feat: updates avatar design and variations,https://github.com/contentful/forma-36/pull/2858,2024-09-03T11:43:05Z,2024-09-12T08:16:00Z,10,27,MERGED
+forma-36,feat: add environment to navbar switcher,https://github.com/contentful/forma-36/pull/2857,2024-09-03T07:56:36Z,2024-09-09T12:06:13Z,8,4,MERGED
+forma-36,refactor(NavbarEnvVariant): update master env logic,https://github.com/contentful/forma-36/pull/2926,2024-10-30T09:53:15Z,2024-10-30T10:43:53Z,2,1,MERGED
+forma-36,docs(progress-stepper): add horizontal width limitation example,https://github.com/contentful/forma-36/pull/2925,2024-10-29T22:24:20Z,2024-10-31T15:44:39Z,3,1,MERGED
+forma-36,fix(Avatar): don't overlap image with color border,https://github.com/contentful/forma-36/pull/2898,2024-10-04T12:56:02Z,2024-10-07T09:12:24Z,4,6,MERGED
+forma-36,feat: improve responsiveness of navbar,https://github.com/contentful/forma-36/pull/2934,2024-11-18T11:33:12Z,2024-11-26T08:49:12Z,4,13,MERGED
+forma-36,fix: use gray500 instead of gray400,https://github.com/contentful/forma-36/pull/2954,2024-12-12T14:03:57Z,2024-12-12T14:17:06Z,3,2,MERGED
+forma-36,"fix(EntityListItem): skeleton loader height, drag handle, and card wrapping",https://github.com/contentful/forma-36/pull/2989,2025-01-31T15:58:39Z,2025-02-03T10:00:21Z,3,4,MERGED
+forma-36,refactor: replace the Storybook asset,https://github.com/contentful/forma-36/pull/2981,2025-01-20T15:54:39Z,2025-01-21T08:20:47Z,3,1,MERGED
+forma-36,feat(navbar): add purple variant to navbar switcher for trial spaces [ALT-1511],https://github.com/contentful/forma-36/pull/2966,2025-01-03T18:53:23Z,2025-01-07T18:42:16Z,2,4,MERGED
+forma-36,fix: unify dropdown styles [UFO-1572],https://github.com/contentful/forma-36/pull/2997,2025-02-17T12:51:20Z,2025-02-25T07:17:48Z,4,10,MERGED
+forma-36,feat(GlobalStyles): improve lowercase L (l) and uppercase i (I) readability,https://github.com/contentful/forma-36/pull/2995,2025-02-14T13:03:36Z,2025-02-14T14:16:14Z,4,4,MERGED
+forma-36,feat(multiselect): allow full control over option label rendering,https://github.com/contentful/forma-36/pull/3006,2025-02-28T17:05:24Z,2025-03-10T08:43:50Z,8,7,MERGED
+forma-36,fix: unify dropdown styles [UFO-1572],https://github.com/contentful/forma-36/pull/2997,2025-02-17T12:51:20Z,2025-02-25T07:17:48Z,4,10,MERGED
+forma-36,feat(GlobalStyles): improve lowercase L (l) and uppercase i (I) readability,https://github.com/contentful/forma-36/pull/2995,2025-02-14T13:03:36Z,2025-02-14T14:16:14Z,4,4,MERGED
+forma-36,fix: set SVG viewport to 24 24 to render correctly [],https://github.com/contentful/forma-36/pull/3108,2025-06-17T12:39:58Z,2025-06-19T07:42:49Z,6,2,MERGED
+forma-36,fix(formatters): handle empty items array,https://github.com/contentful/forma-36/pull/3137,2025-07-31T15:49:35Z,2025-08-01T08:44:29Z,3,1,CLOSED
+forma-36,feat:[MOI-5738] Add UsageCount component,https://github.com/contentful/forma-36/pull/3129,2025-07-04T18:21:24Z,2025-07-10T14:04:09Z,30,9,MERGED
+forma-36,Add UsageCard component,https://github.com/contentful/forma-36/pull/3122,2025-07-01T17:08:47Z,2025-07-11T15:43:31Z,26,23,MERGED
+forma-36,fix(ComponentSource): code block padding,https://github.com/contentful/forma-36/pull/3121,2025-07-01T13:09:19Z,2025-07-01T13:25:30Z,3,2,MERGED
+forma-36,chore: update icon codemod script,https://github.com/contentful/forma-36/pull/3148,2025-08-20T11:20:19Z,2025-08-21T08:36:40Z,4,4,MERGED
+forma-36,"feat:[MOI-5862] Make ""included"" word switcheable in UsageCount",https://github.com/contentful/forma-36/pull/3172,2025-09-05T16:00:16Z,2025-09-11T09:22:00Z,7,4,MERGED

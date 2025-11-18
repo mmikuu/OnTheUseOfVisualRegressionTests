@@ -1,0 +1,22 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+ods-dataviz-sdk,Features/visualisations/storybook + react lib,https://github.com/opendatasoft/ods-dataviz-sdk/pull/7,2021-01-12T16:48:16Z,2021-01-15T15:40:00Z,4,14,MERGED
+ods-dataviz-sdk,Features/visualizations datalabels,https://github.com/opendatasoft/ods-dataviz-sdk/pull/20,2021-04-01T12:15:07Z,2021-04-01T15:07:45Z,1,2,MERGED
+ods-dataviz-sdk,[Feature] Stacked charts (for multi-series) + few charts properties changes,https://github.com/opendatasoft/ods-dataviz-sdk/pull/76,2022-04-04T16:05:22Z,2022-07-20T09:39:11Z,8,26,MERGED
+ods-dataviz-sdk,[sc-37353] Chore: Prevent world copies,https://github.com/opendatasoft/ods-dataviz-sdk/pull/138,2022-12-30T16:52:54Z,2023-01-09T11:10:34Z,0,2,MERGED
+ods-dataviz-sdk,[sc-37353] Feature: Don't render world copies,https://github.com/opendatasoft/ods-dataviz-sdk/pull/133,2022-12-06T10:14:20Z,2022-12-30T15:52:09Z,3,0,CLOSED
+ods-dataviz-sdk,New options for the select filter,https://github.com/opendatasoft/ods-dataviz-sdk/pull/148,2023-01-23T15:14:48Z,2023-02-03T10:43:24Z,10,3,CLOSED
+ods-dataviz-sdk,remove filters,https://github.com/opendatasoft/ods-dataviz-sdk/pull/151,2023-02-24T15:11:12Z,2023-04-06T16:06:03Z,0,1,MERGED
+ods-dataviz-sdk,[FEATURE][SC-42061] Add scatter chart,https://github.com/opendatasoft/ods-dataviz-sdk/pull/182,2023-08-11T13:13:26Z,2023-09-19T07:32:56Z,5,5,MERGED
+ods-dataviz-sdk,[sc-43517] Expose config for Bar and Column charts with groups,https://github.com/opendatasoft/ods-dataviz-sdk/pull/189,2023-09-15T15:53:40Z,2023-09-18T08:39:51Z,1,1,MERGED
+ods-dataviz-sdk,Implement treemap,https://github.com/opendatasoft/ods-dataviz-sdk/pull/188,2023-09-11T13:56:45Z,2023-10-05T13:10:49Z,9,20,MERGED
+ods-dataviz-sdk,Adapt CategoryLegend for poi maps by creating a new circle variant and add title and subtitle to maps,https://github.com/opendatasoft/ods-dataviz-sdk/pull/187,2023-09-08T08:57:41Z,2023-09-22T10:25:51Z,18,26,MERGED
+ods-dataviz-sdk,[FEAT][PoiMap][SC-43161] Show popup on feature click,https://github.com/opendatasoft/ods-dataviz-sdk/pull/186,2023-09-05T16:01:02Z,2023-09-22T08:11:51Z,7,2,MERGED
+ods-dataviz-sdk,[FEATURE][SC-44895][POI MAP] Popup improvements,https://github.com/opendatasoft/ods-dataviz-sdk/pull/205,2023-11-17T16:58:36Z,2023-12-06T14:00:15Z,17,3,MERGED
+ods-dataviz-sdk,[SC-44672][FEAT] Add new legend symbol: `Image`,https://github.com/opendatasoft/ods-dataviz-sdk/pull/204,2023-11-16T10:21:49Z,2023-11-24T15:31:58Z,1,1,MERGED
+ods-dataviz-sdk,[SC-44672][FEAT][Poi Maps] Support 'symbol' layers,https://github.com/opendatasoft/ods-dataviz-sdk/pull/203,2023-11-13T17:15:23Z,2023-11-24T15:21:16Z,4,1,MERGED
+ods-dataviz-sdk,[POI MAPS] Add options for images,https://github.com/opendatasoft/ods-dataviz-sdk/pull/210,2023-12-07T08:45:45Z,2023-12-12T09:50:52Z,1,1,MERGED
+ods-dataviz-sdk,[FEAT][POI Maps] Fullscreen control,https://github.com/opendatasoft/ods-dataviz-sdk/pull/217,2024-01-15T16:26:26Z,2024-01-23T14:29:29Z,0,1,MERGED
+ods-dataviz-sdk,[FEAT][TABLE] Add option to unstyle table component,https://github.com/opendatasoft/ods-dataviz-sdk/pull/224,2024-02-13T11:02:55Z,2024-02-23T15:10:56Z,3,3,MERGED
+ods-dataviz-sdk,[FEAT][SC-46278] Support fill layers,https://github.com/opendatasoft/ods-dataviz-sdk/pull/246,2024-06-12T15:20:20Z,2024-07-08T06:12:24Z,1,3,MERGED
+ods-dataviz-sdk,Chore/update actions,https://github.com/opendatasoft/ods-dataviz-sdk/pull/255,2024-07-08T12:34:15Z,2024-07-12T08:56:40Z,5,8,MERGED
+ods-dataviz-sdk,feat: category legend groups item per variant,https://github.com/opendatasoft/ods-dataviz-sdk/pull/281,2025-09-18T09:27:32Z,2025-11-04T12:52:40Z,0,2,MERGED

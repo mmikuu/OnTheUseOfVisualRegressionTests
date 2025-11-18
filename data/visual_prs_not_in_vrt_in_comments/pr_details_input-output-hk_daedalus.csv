@@ -1,0 +1,618 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+daedalus,[DEVOPS-981] Vary application icon by network,https://github.com/input-output-hk/daedalus/pull/1030,2018-07-31T23:03:01Z,2018-08-13T21:39:18Z,5,4,MERGED
+daedalus,[DDW-370] add antivirus restoration slowdown notification component t…,https://github.com/input-output-hk/daedalus/pull/1020,2018-07-26T11:29:03Z,2018-07-30T09:46:12Z,11,5,MERGED
+daedalus,[DDW-342] fix white screen rendering bug,https://github.com/input-output-hk/daedalus/pull/1019,2018-07-23T12:51:44Z,2018-07-25T14:41:55Z,2,3,MERGED
+daedalus,[DDW-342] fix white screen rendering bug,https://github.com/input-output-hk/daedalus/pull/1007,2018-07-10T20:17:24Z,2018-07-31T15:27:14Z,22,26,MERGED
+daedalus,[DDW-186] Monitor npm dependencies for security using Snyk,https://github.com/input-output-hk/daedalus/pull/1005,2018-07-09T22:55:52Z,2018-07-10T08:39:25Z,1,4,CLOSED
+daedalus,[DDW-349] Open About dialog links in a new browser window,https://github.com/input-output-hk/daedalus/pull/1003,2018-07-09T12:06:33Z,2018-07-09T13:01:22Z,0,2,MERGED
+daedalus,[DDW-347] Fix send form validation and improve restore dialog UX,https://github.com/input-output-hk/daedalus/pull/1002,2018-07-04T22:30:51Z,2018-07-10T08:04:15Z,2,6,MERGED
+daedalus,[DDW-345] Add Cardano version to Daedalus titlebar - Code style improvements,https://github.com/input-output-hk/daedalus/pull/1001,2018-07-03T19:07:30Z,2018-07-03T21:34:44Z,3,1,MERGED
+daedalus,[DDW-345] Add Cardano version to Daedalus titlebar,https://github.com/input-output-hk/daedalus/pull/1000,2018-07-03T11:22:03Z,2018-07-03T17:32:55Z,4,3,MERGED
+daedalus,[DDW-351] Improve transaction details text selection,https://github.com/input-output-hk/daedalus/pull/1073,2018-08-30T18:51:43Z,2018-09-04T20:09:00Z,4,10,MERGED
+daedalus,[DDW-338]  Transaction fees calculation error improvements,https://github.com/input-output-hk/daedalus/pull/1069,2018-08-29T15:51:45Z,2018-09-04T08:22:14Z,3,3,CLOSED
+daedalus,[DDW-396] Debug NODE_ENV issues on CI builds,https://github.com/input-output-hk/daedalus/pull/1062,2018-08-27T17:35:54Z,2018-08-28T08:29:04Z,2,4,MERGED
+daedalus,[DDW-346] Show Testnet label on paper wallet certificate,https://github.com/input-output-hk/daedalus/pull/1055,2018-08-17T12:04:27Z,2018-08-18T09:31:05Z,0,6,MERGED
+daedalus,[DDW-388] Detect if Daedalus was launched using Launcher,https://github.com/input-output-hk/daedalus/pull/1054,2018-08-17T10:59:28Z,2018-08-21T19:31:00Z,7,6,MERGED
+daedalus,[DDW-380] Unable to open Daedalus in safe mode in TestNet,https://github.com/input-output-hk/daedalus/pull/1053,2018-08-17T09:45:23Z,2018-08-21T22:29:44Z,6,11,MERGED
+daedalus,Merges master into release/0.11.1,https://github.com/input-output-hk/daedalus/pull/1049,2018-08-16T14:00:16Z,2018-08-16T19:37:34Z,0,26,MERGED
+daedalus,[DDW-421] Record screenshots of failed acceptance tests,https://github.com/input-output-hk/daedalus/pull/1103,2018-09-28T16:27:28Z,2018-10-02T12:29:28Z,4,6,MERGED
+daedalus,[DDW-418] Improve 'Forbidden mnemonic' error message,https://github.com/input-output-hk/daedalus/pull/1100,2018-09-26T08:40:39Z,2018-10-01T11:50:56Z,0,2,MERGED
+daedalus,[DDW-395] Zendesk web-form direct submissions proof-of-concept,https://github.com/input-output-hk/daedalus/pull/1098,2018-09-25T18:23:33Z,2018-10-25T13:49:01Z,10,56,CLOSED
+daedalus,[DDW-419] Implement Japanese Terms of use for Testnet network,https://github.com/input-output-hk/daedalus/pull/1097,2018-09-24T16:17:42Z,2018-09-25T11:07:53Z,0,2,MERGED
+daedalus,[DDW-417] Implement new data layer migration screen,https://github.com/input-output-hk/daedalus/pull/1096,2018-09-20T18:59:23Z,2018-10-03T20:38:27Z,32,34,MERGED
+daedalus,[DDW-411] Transaction toggle arrow colors,https://github.com/input-output-hk/daedalus/pull/1095,2018-09-20T16:54:53Z,2018-09-20T20:03:45Z,0,2,MERGED
+daedalus,"[DDW-318] Handle forbidden mnemonics Api error, Fix handled error mes…",https://github.com/input-output-hk/daedalus/pull/1093,2018-09-18T12:01:20Z,2018-09-20T16:19:45Z,3,5,MERGED
+daedalus,[DDW-413] Update support request feature node logs handling,https://github.com/input-output-hk/daedalus/pull/1092,2018-09-17T17:32:59Z,2018-10-02T20:05:27Z,24,13,MERGED
+daedalus,[DDW-414] Remove duplicated entry for restarting in safe mode,https://github.com/input-output-hk/daedalus/pull/1091,2018-09-13T18:47:02Z,2018-09-13T20:22:55Z,1,1,MERGED
+daedalus,[DDW-411] Implement design review fixes and improvements,https://github.com/input-output-hk/daedalus/pull/1090,2018-09-11T22:47:41Z,2018-09-20T10:29:27Z,11,25,MERGED
+daedalus,[DDW-275] Improve NTP check handling,https://github.com/input-output-hk/daedalus/pull/1086,2018-09-06T19:39:14Z,2018-09-17T12:44:07Z,16,35,MERGED
+daedalus,[DDW-452] Improve handling of unreachable NTP service state,https://github.com/input-output-hk/daedalus/pull/1149,2018-10-29T13:00:23Z,2018-10-29T18:23:19Z,1,2,MERGED
+daedalus,[DDW-443] Fix Antivirus Notification Close Button Hover Color,https://github.com/input-output-hk/daedalus/pull/1132,2018-10-17T07:31:31Z,2018-10-17T09:20:29Z,1,3,MERGED
+daedalus,[DDW-443] Fix Antivirus Notification Close Button Hover Color,https://github.com/input-output-hk/daedalus/pull/1131,2018-10-17T02:01:38Z,2018-10-17T09:19:17Z,0,3,MERGED
+daedalus,[DDW-433] Expose Cardano Node states to the UI,https://github.com/input-output-hk/daedalus/pull/1118,2018-10-11T13:56:45Z,2018-10-16T12:19:36Z,2,23,MERGED
+daedalus,[DDW-431] Prevent multiple Daedalus instances per state dir,https://github.com/input-output-hk/daedalus/pull/1113,2018-10-05T10:38:21Z,2018-10-05T16:30:34Z,1,13,MERGED
+daedalus,[DDW-427] Handle new transaction fee calculation error messages,https://github.com/input-output-hk/daedalus/pull/1111,2018-10-04T13:22:57Z,2018-10-10T09:30:15Z,3,14,MERGED
+daedalus,[DDW-459] Replace in-app support request with links to support page,https://github.com/input-output-hk/daedalus/pull/1199,2018-11-27T17:07:38Z,2018-12-27T10:02:40Z,26,32,MERGED
+daedalus,[DDW-503] Hide transaction status and number of confirmations during wallet restoration,https://github.com/input-output-hk/daedalus/pull/1189,2018-11-22T15:48:24Z,2018-11-22T18:22:35Z,3,1,MERGED
+daedalus,[DDW-502]  Enable EKG server for non-mainnet networks,https://github.com/input-output-hk/daedalus/pull/1188,2018-11-22T14:36:32Z,2018-11-23T13:53:31Z,7,10,MERGED
+daedalus,[DDW-499] Enable Cardano Wallet API documentation server in development mode,https://github.com/input-output-hk/daedalus/pull/1187,2018-11-22T13:49:16Z,2018-11-22T15:51:19Z,2,2,MERGED
+daedalus,[DDW-498] Use info instead of debug logger for API calls,https://github.com/input-output-hk/daedalus/pull/1183,2018-11-21T11:20:48Z,2018-11-21T12:22:33Z,0,1,MERGED
+daedalus,[DDW-496] Cache Cardano Node status between page reloads,https://github.com/input-output-hk/daedalus/pull/1178,2018-11-18T22:07:36Z,2018-11-19T09:14:12Z,0,1,MERGED
+daedalus,"[DDW-491] Add ""Network"" to Daedalus titlebar",https://github.com/input-output-hk/daedalus/pull/1174,2018-11-14T12:14:18Z,2018-11-14T13:27:01Z,0,1,MERGED
+daedalus,[DDW-489] Fix an edge-case error message when Daedalus is not started…,https://github.com/input-output-hk/daedalus/pull/1169,2018-11-13T13:29:40Z,2018-11-14T10:30:44Z,0,2,MERGED
+daedalus,[DDW-486] Wallet Import & Export functionality is not implemented but UI is exposed in TestNet build.,https://github.com/input-output-hk/daedalus/pull/1168,2018-11-12T18:03:06Z,2018-11-12T20:05:16Z,0,5,MERGED
+daedalus,"[DDW-483, DDW-485] Fix missing launcher config error message and prevent orphan processes after app quit",https://github.com/input-output-hk/daedalus/pull/1166,2018-11-09T11:51:44Z,2018-11-09T15:36:21Z,0,4,MERGED
+daedalus,"[DDW-484] Change Daedalus fullscreen mode to maximize, on Linux, to keep the menus usable",https://github.com/input-output-hk/daedalus/pull/1165,2018-11-09T11:51:31Z,2018-11-12T13:32:22Z,0,10,MERGED
+daedalus,[DDW-464] Removes Antivirus notification,https://github.com/input-output-hk/daedalus/pull/1164,2018-11-08T20:09:51Z,2018-11-12T10:37:20Z,0,2,MERGED
+daedalus,[DDW-453] Inject missing Japanese translations,https://github.com/input-output-hk/daedalus/pull/1159,2018-11-05T11:45:38Z,2018-11-05T12:43:05Z,0,2,MERGED
+daedalus,[DDW-256] No disk space overlay,https://github.com/input-output-hk/daedalus/pull/1157,2018-11-01T20:02:55Z,2019-01-14T14:26:54Z,41,107,MERGED
+daedalus,[DEVOPS-1192] Eval variables in statePath for nix-shell,https://github.com/input-output-hk/daedalus/pull/1235,2018-12-20T19:20:25Z,2018-12-21T21:38:40Z,7,4,MERGED
+daedalus,[DDW-509] Show success message for saving logs,https://github.com/input-output-hk/daedalus/pull/1228,2018-12-17T21:40:51Z,2019-01-18T15:11:36Z,10,32,MERGED
+daedalus,[DDW-523] Ada Redemption page reloading issues,https://github.com/input-output-hk/daedalus/pull/1217,2018-12-11T19:30:09Z,2018-12-12T14:51:24Z,5,6,MERGED
+daedalus,[DDW-461] Fix flickering issue on Network Status screen syncing chart,https://github.com/input-output-hk/daedalus/pull/1206,2018-12-03T17:51:30Z,2018-12-05T12:43:24Z,3,3,MERGED
+daedalus,[DDW-570] Japanese text not being rendered on Linux,https://github.com/input-output-hk/daedalus/pull/1296,2019-01-30T20:29:24Z,2019-01-30T21:31:12Z,0,3,MERGED
+daedalus,[DDW-572] Fix broken Windows launcher config,https://github.com/input-output-hk/daedalus/pull/1294,2019-01-30T15:32:52Z,2019-01-30T19:48:45Z,1,7,MERGED
+daedalus,[DDW-482] Improve Network Status screen closing navigation,https://github.com/input-output-hk/daedalus/pull/1286,2019-01-28T11:52:40Z,2019-01-28T16:44:00Z,1,1,MERGED
+daedalus,"[DDW-407] Update the list of contributors on the ""About"" screen",https://github.com/input-output-hk/daedalus/pull/1282,2019-01-24T09:33:38Z,2019-01-24T10:08:44Z,0,1,MERGED
+daedalus,[DDW-557] Implement block-consolidation status screen,https://github.com/input-output-hk/daedalus/pull/1275,2019-01-17T21:14:40Z,2019-01-29T18:47:51Z,21,65,MERGED
+daedalus,[DEVOPS-1195] Wallet extractor/importer screen,https://github.com/input-output-hk/daedalus/pull/1268,2019-01-16T11:36:05Z,2020-04-29T10:09:52Z,11,87,CLOSED
+daedalus,[DDW-545] Update Electron to version 3.0.14,https://github.com/input-output-hk/daedalus/pull/1265,2019-01-14T12:36:29Z,2019-01-14T16:38:29Z,6,5,MERGED
+daedalus,[DDW-515] Implement translations for the application menu,https://github.com/input-output-hk/daedalus/pull/1262,2019-01-10T21:28:02Z,2019-01-19T13:59:45Z,10,18,MERGED
+daedalus,[DDW-543] Fix getTransactionHistory API endpoint query param name,https://github.com/input-output-hk/daedalus/pull/1255,2019-01-07T11:43:30Z,2019-01-07T14:25:44Z,1,3,MERGED
+daedalus,[DDW-541] Fix blank window rendering issue,https://github.com/input-output-hk/daedalus/pull/1247,2019-01-03T13:34:16Z,2019-01-07T12:06:52Z,6,7,MERGED
+daedalus,[DDW-529] Blocks stalling logic improvement,https://github.com/input-output-hk/daedalus/pull/1246,2019-01-03T08:46:43Z,2019-01-07T09:37:29Z,2,2,MERGED
+daedalus,[DDW-585] Update NTP API response handling,https://github.com/input-output-hk/daedalus/pull/1319,2019-02-27T14:58:42Z,2019-02-28T13:30:27Z,1,2,MERGED
+daedalus,[DDW-581] Replace ada symbol images with unicode character,https://github.com/input-output-hk/daedalus/pull/1317,2019-02-26T14:50:05Z,2019-02-27T12:58:15Z,17,11,MERGED
+daedalus,[DDW-544] Fix 'Daedalus' state directory on 'Staging' and 'Testnet' ,https://github.com/input-output-hk/daedalus/pull/1316,2019-02-25T15:08:01Z,2019-03-06T14:47:33Z,17,3,MERGED
+daedalus,[DDW-579] Implement ellipsis when loading the number of transactions,https://github.com/input-output-hk/daedalus/pull/1313,2019-02-15T16:38:51Z,2019-02-18T13:06:28Z,2,5,MERGED
+daedalus,[DDW-576] Implement extra explanation for Create Paper Wallet Certificate,https://github.com/input-output-hk/daedalus/pull/1309,2019-02-07T16:29:47Z,2019-02-07T18:25:27Z,2,2,MERGED
+daedalus,[DDW-575] Handle 'transaction is too big' transaction error,https://github.com/input-output-hk/daedalus/pull/1308,2019-02-07T15:25:06Z,2019-02-18T11:13:38Z,14,14,MERGED
+daedalus,[DDW-565] Fixes scrollbar over notification ,https://github.com/input-output-hk/daedalus/pull/1306,2019-02-06T15:48:56Z,2019-02-07T03:35:56Z,0,5,MERGED
+daedalus,[DDW-556] Fix Chrome Dev-Tools errors,https://github.com/input-output-hk/daedalus/pull/1302,2019-02-05T19:42:31Z,2019-02-05T20:14:01Z,0,3,MERGED
+daedalus,[DDW-517] Implement Structured Logging for Daedalus Logs,https://github.com/input-output-hk/daedalus/pull/1299,2019-02-05T05:02:58Z,2019-02-09T22:24:46Z,15,49,MERGED
+daedalus,[DDW-604] Unify and Optimize Themeing Colors,https://github.com/input-output-hk/daedalus/pull/1371,2019-03-30T05:33:19Z,2019-06-06T07:58:50Z,3,117,MERGED
+daedalus,[DDW-611] Implement new Network status dialog design,https://github.com/input-output-hk/daedalus/pull/1370,2019-03-29T10:10:08Z,2019-05-21T08:42:05Z,31,80,MERGED
+daedalus,[DDW-608] Implement new About dialog design,https://github.com/input-output-hk/daedalus/pull/1369,2019-03-26T22:23:54Z,2019-04-01T16:13:51Z,10,17,MERGED
+daedalus,[DDW-460] Implement calculating state for the time difference icon,https://github.com/input-output-hk/daedalus/pull/1365,2019-03-22T19:21:46Z,2019-03-27T12:11:26Z,1,6,MERGED
+daedalus,[DDW-606] Improve text on the Support screen,https://github.com/input-output-hk/daedalus/pull/1361,2019-03-21T16:37:53Z,2019-03-21T18:31:33Z,1,3,MERGED
+daedalus,[DDW-582] Implement wallet UTxO statistics screen,https://github.com/input-output-hk/daedalus/pull/1353,2019-03-20T16:16:51Z,2019-05-09T18:43:27Z,44,87,MERGED
+daedalus,[DDW-588] Detect User Locale on Daedalus Start,https://github.com/input-output-hk/daedalus/pull/1348,2019-03-14T06:13:58Z,2019-03-20T13:05:24Z,2,17,MERGED
+daedalus,[DDW-92] Improve error messages on connecting screen,https://github.com/input-output-hk/daedalus/pull/1344,2019-03-11T13:47:18Z,2019-03-18T12:09:58Z,4,14,MERGED
+daedalus,"[DDW-584] Implement ""In progress"" download logs notification",https://github.com/input-output-hk/daedalus/pull/1341,2019-03-08T19:51:19Z,2019-03-27T08:49:12Z,8,27,MERGED
+daedalus,[DDW-589] Refactor consolidation status screen epoch calculation,https://github.com/input-output-hk/daedalus/pull/1339,2019-03-07T18:13:46Z,2019-04-04T06:49:53Z,19,63,MERGED
+daedalus,[DDW-587] Improve support page text,https://github.com/input-output-hk/daedalus/pull/1331,2019-03-05T12:22:10Z,2019-03-05T14:35:06Z,1,2,MERGED
+daedalus,[DDW-460] Add status icons to the connecting screen,https://github.com/input-output-hk/daedalus/pull/1325,2019-03-01T16:32:31Z,2019-03-20T14:22:17Z,25,30,MERGED
+daedalus,[DDW-619] Scroll error message into view,https://github.com/input-output-hk/daedalus/pull/1383,2019-04-11T18:24:56Z,2019-04-26T14:48:53Z,0,8,MERGED
+daedalus,"[DDW-615] Move the GPU Safe Mode under ""Help and Support"" submenu and add a confirmation dialog",https://github.com/input-output-hk/daedalus/pull/1382,2019-04-09T15:44:12Z,2019-06-07T11:20:08Z,15,73,MERGED
+daedalus,[DDW-610] Implement new Block-consolidation status design,https://github.com/input-output-hk/daedalus/pull/1377,2019-04-04T18:18:42Z,2019-04-10T08:47:09Z,8,13,MERGED
+daedalus,[DDW-621] Fix the position in Japanese version of the Support page,https://github.com/input-output-hk/daedalus/pull/1372,2019-04-01T09:58:32Z,2019-04-01T11:44:02Z,2,4,MERGED
+daedalus,[DDW-673] Stake Pool - Tooltip,https://github.com/input-output-hk/daedalus/pull/1412,2019-05-31T13:52:19Z,2019-06-07T12:10:45Z,1,27,MERGED
+daedalus,[DDW-677] Implement alternative update path for manual updates,https://github.com/input-output-hk/daedalus/pull/1410,2019-05-30T08:11:33Z,2019-06-04T11:31:49Z,12,16,MERGED
+daedalus,[DDW-648] Move funds from legacy wallet CTA,https://github.com/input-output-hk/daedalus/pull/1409,2019-05-29T08:36:57Z,2019-06-07T09:58:42Z,26,32,MERGED
+daedalus,[DDW-679] Enable theme and language change in Storybook,https://github.com/input-output-hk/daedalus/pull/1408,2019-05-28T14:37:55Z,2019-05-30T15:15:40Z,4,6,MERGED
+daedalus,[DDW-678] Addresses are not visible on Receive screen,https://github.com/input-output-hk/daedalus/pull/1407,2019-05-28T12:14:31Z,2019-05-30T09:27:00Z,0,2,MERGED
+daedalus,"[DDW-674] Truncated ""Add Wallet"" screen while wallet is restored",https://github.com/input-output-hk/daedalus/pull/1405,2019-05-27T10:38:52Z,2019-05-27T14:11:51Z,1,4,MERGED
+daedalus,[DDW-676] Improve network status dialog,https://github.com/input-output-hk/daedalus/pull/1404,2019-05-23T16:39:29Z,2019-05-27T08:12:21Z,3,8,MERGED
+daedalus,[DDW-650] UI - Staking rewards,https://github.com/input-output-hk/daedalus/pull/1403,2019-05-23T14:23:38Z,2019-05-27T13:20:13Z,2,14,MERGED
+daedalus,[DDW-672] Fix broken Acceptance tests,https://github.com/input-output-hk/daedalus/pull/1400,2019-05-21T13:38:30Z,2019-05-21T15:04:23Z,1,4,MERGED
+daedalus,[DDW-649] UI - Stake pool list,https://github.com/input-output-hk/daedalus/pull/1397,2019-05-20T21:06:21Z,2019-05-31T11:43:18Z,10,40,MERGED
+daedalus,[DDW-667] Staking UI - Navigation,https://github.com/input-output-hk/daedalus/pull/1395,2019-05-17T16:11:25Z,2019-05-20T16:33:03Z,2,7,MERGED
+daedalus,[DDW-647] Decentralization progress,https://github.com/input-output-hk/daedalus/pull/1394,2019-05-16T11:02:09Z,2019-05-27T08:41:13Z,22,26,MERGED
+daedalus,[DDW-643] Spending password is asked when clicking on 'Copy address' link,https://github.com/input-output-hk/daedalus/pull/1392,2019-05-15T19:47:18Z,2019-05-17T08:23:30Z,1,3,MERGED
+daedalus,[DDW-646] Start of decentralisation notification,https://github.com/input-output-hk/daedalus/pull/1390,2019-05-14T13:47:40Z,2019-05-17T11:19:23Z,25,15,MERGED
+daedalus,[DDW-661] Linux Daedalus localtime fix,https://github.com/input-output-hk/daedalus/pull/1388,2019-05-10T21:43:49Z,2019-05-13T12:27:16Z,1,2,MERGED
+daedalus,[DDW-661] Fix wrong date on Linux,https://github.com/input-output-hk/daedalus/pull/1387,2019-05-10T14:02:55Z,2019-05-13T11:13:48Z,1,3,CLOSED
+daedalus,[DDW-637] Add timestamp for Paper wallet,https://github.com/input-output-hk/daedalus/pull/1385,2019-05-06T19:14:05Z,2019-05-20T08:30:07Z,0,27,MERGED
+daedalus,[DDW-658] UI - Delegation setup wizard steps 0 & 1 - Fixes,https://github.com/input-output-hk/daedalus/pull/1442,2019-06-27T13:05:30Z,2019-06-28T13:52:33Z,6,37,MERGED
+daedalus,[DDW-651]: UI - Delegation Center,https://github.com/input-output-hk/daedalus/pull/1440,2019-06-27T01:44:26Z,2019-07-03T11:11:48Z,41,29,MERGED
+daedalus,[DDW-660] UI - Delegation setup wizard steps 3 & 4,https://github.com/input-output-hk/daedalus/pull/1439,2019-06-26T19:32:30Z,2019-07-09T19:09:17Z,14,49,MERGED
+daedalus,[DDW-600] Implement button to open the local database directory,https://github.com/input-output-hk/daedalus/pull/1438,2019-06-26T14:49:07Z,2019-07-09T10:08:34Z,9,27,MERGED
+daedalus,[DDW-694] Improve UTXO screen,https://github.com/input-output-hk/daedalus/pull/1437,2019-06-26T13:52:22Z,2019-07-10T08:57:55Z,18,35,MERGED
+daedalus,[DDW-659] UI - Delegation setup wizard step 2,https://github.com/input-output-hk/daedalus/pull/1430,2019-06-19T17:14:45Z,2019-07-09T10:44:08Z,16,59,MERGED
+daedalus,[DDW-693] Improve Stake Pool tooltip positioning,https://github.com/input-output-hk/daedalus/pull/1429,2019-06-19T00:12:38Z,2019-06-28T08:45:00Z,3,24,MERGED
+daedalus,[DDW-708] Fix Loading Screen icons,https://github.com/input-output-hk/daedalus/pull/1427,2019-06-18T17:53:08Z,2019-06-24T14:33:32Z,4,5,MERGED
+daedalus,[DDW-711] Update Storybook to the latest version,https://github.com/input-output-hk/daedalus/pull/1426,2019-06-17T21:08:37Z,2019-07-30T18:46:52Z,16,24,MERGED
+daedalus,[DDW-696] Update createTheme Definitions,https://github.com/input-output-hk/daedalus/pull/1424,2019-06-12T04:34:34Z,2019-07-11T06:42:44Z,3,33,MERGED
+daedalus,[DDW-685] Stake Pools - Adjustments,https://github.com/input-output-hk/daedalus/pull/1420,2019-06-10T15:28:58Z,2019-06-14T14:24:19Z,17,22,MERGED
+daedalus,[DDW-652]: UI - Current and previous epoch,https://github.com/input-output-hk/daedalus/pull/1418,2019-06-10T08:42:42Z,2019-06-20T16:01:17Z,36,26,MERGED
+daedalus,[DDW-658] UI - Delegation setup wizard steps 0 & 1,https://github.com/input-output-hk/daedalus/pull/1417,2019-06-07T08:58:21Z,2019-06-27T08:04:51Z,29,21,MERGED
+daedalus,[DDW-671] Block consolidation status screen is not fully shown,https://github.com/input-output-hk/daedalus/pull/1416,2019-06-06T19:22:07Z,2019-06-07T05:57:35Z,0,1,MERGED
+daedalus,[DDW-686] Fix vulnerability warning,https://github.com/input-output-hk/daedalus/pull/1414,2019-06-05T10:59:57Z,2019-06-06T11:13:00Z,0,7,MERGED
+daedalus,[DDW-654] Network status screen renaming,https://github.com/input-output-hk/daedalus/pull/1413,2019-06-04T21:26:41Z,2019-06-06T12:25:08Z,8,16,MERGED
+daedalus,[DDW-744]: Delegation setup wizard optimization,https://github.com/input-output-hk/daedalus/pull/1503,2019-07-31T11:12:35Z,2019-08-09T12:00:17Z,0,9,MERGED
+daedalus,[DDW-792] New Wallet Creation - base files,https://github.com/input-output-hk/daedalus/pull/1499,2019-07-30T17:31:24Z,2019-08-07T12:47:08Z,1,11,MERGED
+daedalus,[DDW-765]: Change behavior of system dialogs,https://github.com/input-output-hk/daedalus/pull/1494,2019-07-29T15:56:11Z,2019-08-14T08:28:16Z,10,30,MERGED
+daedalus,[DDW-789] Fix focused button of the 'Blank Screen fix' prompt on Windows,https://github.com/input-output-hk/daedalus/pull/1493,2019-07-28T22:26:14Z,2019-07-29T13:35:30Z,0,1,MERGED
+daedalus,[DDW-680] Unify automated and manual update flows,https://github.com/input-output-hk/daedalus/pull/1491,2019-07-26T10:02:30Z,2019-08-24T10:19:27Z,8,39,MERGED
+daedalus,[DDW-780] Truncated third Loading Dot,https://github.com/input-output-hk/daedalus/pull/1490,2019-07-25T20:03:08Z,2019-07-26T12:56:55Z,0,2,MERGED
+daedalus,[DDW-785] Reverse the order of buttons on Having trouble connecting/syncing notification,https://github.com/input-output-hk/daedalus/pull/1489,2019-07-25T18:05:04Z,2019-07-25T20:15:45Z,0,1,MERGED
+daedalus,[DDW-781] Blank Screen Fix - Default Selection.,https://github.com/input-output-hk/daedalus/pull/1488,2019-07-25T17:42:58Z,2019-07-26T13:20:20Z,1,6,MERGED
+daedalus,[DDW-777] Implement link to feature requests,https://github.com/input-output-hk/daedalus/pull/1487,2019-07-24T15:57:53Z,2019-07-25T12:08:46Z,1,1,MERGED
+daedalus,[DDW-725] Implement Storybook minimum sizes,https://github.com/input-output-hk/daedalus/pull/1486,2019-07-24T11:35:50Z,2019-07-31T15:10:35Z,1,8,CLOSED
+daedalus,[DDW-776] Fix wrong styling of the Stake Pool in the Dark Blue theme,https://github.com/input-output-hk/daedalus/pull/1484,2019-07-23T18:27:24Z,2019-07-24T14:53:08Z,0,5,MERGED
+daedalus,[DDW-687] Implement css automatically sorted,https://github.com/input-output-hk/daedalus/pull/1483,2019-07-23T16:53:46Z,2019-07-31T15:11:14Z,2,11,CLOSED
+daedalus,[DDW-742]: Implement new delegation countdown design,https://github.com/input-output-hk/daedalus/pull/1481,2019-07-19T09:20:36Z,2019-07-31T15:12:08Z,7,13,CLOSED
+daedalus,[DDW-757] Implement new themes,https://github.com/input-output-hk/daedalus/pull/1480,2019-07-18T14:14:38Z,2019-07-22T22:26:05Z,13,108,MERGED
+daedalus,[DDW-762] Fix broken 'Read the Article' button,https://github.com/input-output-hk/daedalus/pull/1479,2019-07-18T12:53:33Z,2019-07-18T13:48:34Z,0,2,MERGED
+daedalus,[DDW-761] Fix 'To addresses' in the same line,https://github.com/input-output-hk/daedalus/pull/1476,2019-07-17T14:15:59Z,2019-07-18T08:30:19Z,2,3,MERGED
+daedalus,[DDW-700]: Improve scrollbar look and feel,https://github.com/input-output-hk/daedalus/pull/1475,2019-07-17T10:23:54Z,2019-07-31T15:07:19Z,11,20,CLOSED
+daedalus,[DDW-726] Add Mobx DevTools along with React DevTools,https://github.com/input-output-hk/daedalus/pull/1474,2019-07-17T01:31:09Z,2021-02-01T19:56:55Z,5,42,CLOSED
+daedalus,[DDW-743] Fix wallets storybook stories,https://github.com/input-output-hk/daedalus/pull/1473,2019-07-16T23:23:33Z,2019-07-31T15:09:41Z,1,4,CLOSED
+daedalus,[DDW-758] Fix app name typos,https://github.com/input-output-hk/daedalus/pull/1471,2019-07-16T14:56:35Z,2019-07-16T15:02:04Z,2,2,MERGED
+daedalus,[DDW-753] Licensing update,https://github.com/input-output-hk/daedalus/pull/1469,2019-07-16T07:49:04Z,2019-07-16T09:19:43Z,0,2,MERGED
+daedalus,[DDW-712] Stake Pools - Search and Filter,https://github.com/input-output-hk/daedalus/pull/1468,2019-07-15T20:48:09Z,2019-07-31T01:07:38Z,12,32,MERGED
+daedalus,[DDW-752] Fix dependency vulnerabilities,https://github.com/input-output-hk/daedalus/pull/1467,2019-07-15T13:04:17Z,2019-07-15T14:57:21Z,0,3,MERGED
+daedalus,[DDW-697] Automate Theme Management,https://github.com/input-output-hk/daedalus/pull/1464,2019-07-12T03:50:07Z,2019-07-17T11:24:29Z,8,31,MERGED
+daedalus,[DDW-747] Handle no-wallets case on the Delegation Center screen,https://github.com/input-output-hk/daedalus/pull/1463,2019-07-11T15:20:17Z,2019-07-12T09:38:07Z,0,4,MERGED
+daedalus,[DDW-745] Staking screen improvements,https://github.com/input-output-hk/daedalus/pull/1461,2019-07-11T13:31:14Z,2019-07-11T16:43:46Z,0,18,MERGED
+daedalus,[DDW-746] Small UI and copy improvements,https://github.com/input-output-hk/daedalus/pull/1459,2019-07-10T20:14:01Z,2019-07-11T15:07:48Z,2,6,MERGED
+daedalus,[DDW-748] Ada redemption application menu item UX,https://github.com/input-output-hk/daedalus/pull/1458,2019-07-10T19:56:54Z,2019-07-11T08:35:43Z,0,3,MERGED
+daedalus,"[DDW-736] Implement animated logo on the ""Loading"" screens",https://github.com/input-output-hk/daedalus/pull/1457,2019-07-10T18:28:42Z,2019-07-10T19:22:45Z,0,5,MERGED
+daedalus,[DDW-656] Log Daedalus state snapshot,https://github.com/input-output-hk/daedalus/pull/1456,2019-07-10T16:49:55Z,2019-07-16T10:52:44Z,12,33,MERGED
+daedalus,[DDW-739] Fix the position of the external link icon,https://github.com/input-output-hk/daedalus/pull/1455,2019-07-10T10:09:18Z,2019-07-10T13:33:26Z,3,6,MERGED
+daedalus,"[DDW-695]: Improve ""having trouble connecting/syncing"" notifications",https://github.com/input-output-hk/daedalus/pull/1453,2019-07-09T11:21:33Z,2019-07-09T14:30:14Z,6,5,MERGED
+daedalus,[DDW-722]: Loading screen icons UX improvement,https://github.com/input-output-hk/daedalus/pull/1452,2019-07-08T07:50:16Z,2019-07-09T07:20:21Z,2,6,MERGED
+daedalus,[DDW-681] Update 'About' screen Daedalus contributors,https://github.com/input-output-hk/daedalus/pull/1450,2019-07-05T13:03:54Z,2019-07-05T13:25:52Z,0,1,MERGED
+daedalus,[DDW-698] Introduce external links icon,https://github.com/input-output-hk/daedalus/pull/1447,2019-07-04T06:20:03Z,2019-07-08T20:30:39Z,13,19,MERGED
+daedalus,[DDW-683] Refactor the Loading screen,https://github.com/input-output-hk/daedalus/pull/1446,2019-07-02T22:45:14Z,2019-07-10T12:49:54Z,4,20,MERGED
+daedalus,[DDW-828] Remove dropdown arrow,https://github.com/input-output-hk/daedalus/pull/1550,2019-08-30T11:19:30Z,2019-09-06T13:08:26Z,16,10,MERGED
+daedalus,[DDW-823] Detect Internet connection status,https://github.com/input-output-hk/daedalus/pull/1546,2019-08-22T14:06:12Z,2021-02-06T12:10:52Z,45,43,CLOSED
+daedalus,[DDW-839] Delegation setup improvements,https://github.com/input-output-hk/daedalus/pull/1545,2019-08-22T11:00:41Z,2019-08-23T15:27:59Z,2,5,MERGED
+daedalus,[DDW-830] Fix dialog content issues in the latest version of Chrome,https://github.com/input-output-hk/daedalus/pull/1536,2019-08-13T13:27:36Z,2019-08-14T07:51:33Z,0,1,MERGED
+daedalus,[DDW-826] Fix 'Feature Request' item menu in Japanese,https://github.com/input-output-hk/daedalus/pull/1533,2019-08-12T19:15:40Z,2019-08-13T05:36:40Z,2,2,MERGED
+daedalus,[DDW-814] White theme styling adjustments,https://github.com/input-output-hk/daedalus/pull/1532,2019-08-12T16:57:42Z,2019-08-14T14:25:01Z,9,13,MERGED
+daedalus,"[DDW-798] ""1 confirmations"" is displayed on Transaction Assurance Level",https://github.com/input-output-hk/daedalus/pull/1531,2019-08-12T11:45:56Z,2019-08-13T09:58:17Z,6,9,MERGED
+daedalus,[DDW-818] Create Wallet Screen missing Japanese translations,https://github.com/input-output-hk/daedalus/pull/1530,2019-08-12T01:20:42Z,2019-08-12T07:34:08Z,5,1,MERGED
+daedalus,[DDW-783] Link to support portal article explaining UTXO distribution,https://github.com/input-output-hk/daedalus/pull/1526,2019-08-09T11:43:34Z,2019-08-09T13:13:24Z,0,1,MERGED
+daedalus,[DDW-805] Create Tutorial Series for Theme Management,https://github.com/input-output-hk/daedalus/pull/1525,2019-08-08T23:57:28Z,2019-08-09T08:30:26Z,1,29,MERGED
+daedalus,"[DDW-810] Replace ""[GPU Safe Mode]"" window titlebar text",https://github.com/input-output-hk/daedalus/pull/1523,2019-08-08T14:44:12Z,2019-08-08T17:19:33Z,0,1,MERGED
+daedalus,[DDW-812] Fix notification z-index issue on Daedalus Diagnostics screen,https://github.com/input-output-hk/daedalus/pull/1521,2019-08-08T10:27:16Z,2019-08-08T11:31:03Z,0,2,MERGED
+daedalus,[DDW-813] Adds a link to the 'Safety Tips' Support portal article,https://github.com/input-output-hk/daedalus/pull/1518,2019-08-07T15:02:49Z,2019-08-07T17:46:29Z,1,6,MERGED
+daedalus,[DDW-812] Fix application dialog close button colour,https://github.com/input-output-hk/daedalus/pull/1517,2019-08-07T14:50:33Z,2019-08-07T16:45:27Z,1,5,MERGED
+daedalus,"[DDW-815] Remove ""Realtime statistics monitor"" link in Testnet builds",https://github.com/input-output-hk/daedalus/pull/1516,2019-08-07T14:33:30Z,2019-08-07T16:32:52Z,1,2,MERGED
+daedalus,[DDW-811] Re-enable the old wallet creation process,https://github.com/input-output-hk/daedalus/pull/1515,2019-08-07T14:19:14Z,2019-08-08T12:53:23Z,0,5,MERGED
+daedalus,[DDW-797]: Fix external and copy icons inconsistencies,https://github.com/input-output-hk/daedalus/pull/1512,2019-08-06T15:39:49Z,2019-08-09T18:47:02Z,9,12,MERGED
+daedalus,[DDW-912] Bump Daedalus version,https://github.com/input-output-hk/daedalus/pull/1573,2019-09-30T08:31:15Z,2019-09-30T10:41:53Z,1,5,MERGED
+daedalus,[DDW-933] Implement Applitools visual regression testing,https://github.com/input-output-hk/daedalus/pull/1571,2019-09-19T17:23:29Z,2021-02-01T19:57:45Z,35,11,CLOSED
+daedalus,[DDW-901] Newsfeed,https://github.com/input-output-hk/daedalus/pull/1570,2019-09-18T19:01:58Z,2019-09-27T10:42:43Z,6,281,MERGED
+daedalus,[DDW-893] Implement wallet recovery phrase verification,https://github.com/input-output-hk/daedalus/pull/1565,2019-09-10T17:42:37Z,2019-09-26T13:03:20Z,34,91,MERGED
+daedalus,[DDW-892] Handle disk space check error gracefully,https://github.com/input-output-hk/daedalus/pull/1562,2019-09-10T10:42:00Z,2019-09-12T10:54:58Z,0,7,MERGED
+daedalus,[DDW-876] Get wallet UTXO statistics v2 api integration,https://github.com/input-output-hk/daedalus/pull/1559,2019-09-05T10:19:01Z,2019-09-13T09:33:15Z,1,47,MERGED
+daedalus,[DDW-870]: Overlay screens displayed on default theme rather than current one for a second,https://github.com/input-output-hk/daedalus/pull/1554,2019-09-03T11:45:01Z,2019-09-05T09:21:44Z,0,3,MERGED
+daedalus,[DDW-895] Spending password should be always required,https://github.com/input-output-hk/daedalus/pull/1631,2019-10-31T09:50:49Z,2019-11-01T19:44:07Z,5,12,MERGED
+daedalus,[DDW-925] Implement restoration of both 12 and 15 mnemonic words phrases,https://github.com/input-output-hk/daedalus/pull/1629,2019-10-30T14:55:52Z,2019-11-05T10:10:21Z,9,21,MERGED
+daedalus,"[DDW-1003]: Decentralization countdown, info, and staking epochs screens removal",https://github.com/input-output-hk/daedalus/pull/1625,2019-10-29T10:01:00Z,2019-10-30T13:42:48Z,3,7,MERGED
+daedalus,[DDW-1022] Fix missing Japanese translation for recovery phrase verification,https://github.com/input-output-hk/daedalus/pull/1623,2019-10-29T04:48:31Z,2019-10-29T07:41:37Z,1,2,MERGED
+daedalus,"[DDW-1007] Replace sidebar ""Bug-report"" icon with a ""Network"" badge",https://github.com/input-output-hk/daedalus/pull/1622,2019-10-28T13:49:31Z,2019-11-04T15:38:34Z,5,9,MERGED
+daedalus,[DDW-1002] Implement Incentivized Testnet Daedalus Theme,https://github.com/input-output-hk/daedalus/pull/1620,2019-10-26T04:43:50Z,2019-10-31T12:38:41Z,14,20,MERGED
+daedalus,[DDW-907] Add internal link support in newsfeed items,https://github.com/input-output-hk/daedalus/pull/1617,2019-10-25T10:10:09Z,2019-10-31T12:43:41Z,11,21,MERGED
+daedalus,"[DDW-922] Change the ""Delete Wallet"" Button Layout",https://github.com/input-output-hk/daedalus/pull/1612,2019-10-21T21:54:02Z,2019-10-24T06:27:23Z,5,19,MERGED
+daedalus,"[DDW-929] Implement date, time and number format user options",https://github.com/input-output-hk/daedalus/pull/1611,2019-10-21T19:44:45Z,2019-10-29T17:56:14Z,13,35,MERGED
+daedalus,[DDW-955] Full Screen Explanation for 0.14.AR Version of Daedalus,https://github.com/input-output-hk/daedalus/pull/1598,2019-10-17T01:29:58Z,2019-10-17T10:42:10Z,5,18,MERGED
+daedalus,[DDW-956] UI Label for 1.6.AR,https://github.com/input-output-hk/daedalus/pull/1597,2019-10-17T00:26:50Z,2019-10-17T10:19:23Z,2,7,MERGED
+daedalus,[DDW-967] Fix broken source maps,https://github.com/input-output-hk/daedalus/pull/1594,2019-10-15T16:10:05Z,2019-10-16T12:34:04Z,0,3,MERGED
+daedalus,[DDW-755] Refactor wallet nav to use new Dropdown,https://github.com/input-output-hk/daedalus/pull/1593,2019-10-15T13:46:21Z,2019-12-03T16:29:45Z,19,45,MERGED
+daedalus,[DDW-930] Add a Note to the UTXO Screen,https://github.com/input-output-hk/daedalus/pull/1589,2019-10-11T22:02:20Z,2019-10-17T09:33:35Z,7,19,MERGED
+daedalus,[DDW-904] Fix Flat button color,https://github.com/input-output-hk/daedalus/pull/1586,2019-10-11T11:08:54Z,2019-10-16T09:16:56Z,4,4,MERGED
+daedalus,[DDW-901] Fix yellow theme newsfeed sidebar message text color,https://github.com/input-output-hk/daedalus/pull/1578,2019-10-03T08:45:27Z,2019-10-03T09:11:41Z,1,1,MERGED
+daedalus,[DDW-1099] Update network name and info,https://github.com/input-output-hk/daedalus/pull/1731,2019-11-29T17:00:21Z,2019-12-03T10:06:25Z,1,15,MERGED
+daedalus,[DDW-1106] Missing hamburger icon,https://github.com/input-output-hk/daedalus/pull/1730,2019-11-29T09:07:16Z,2019-11-29T09:46:51Z,0,1,MERGED
+daedalus,[DDW-1098] Inspect wallet rewards display and remove actively delegated stake info,https://github.com/input-output-hk/daedalus/pull/1729,2019-11-28T18:59:34Z,2019-12-05T10:58:16Z,28,42,MERGED
+daedalus,[DDW-1025] Adds link icon to the 'Safety Tips' menu item,https://github.com/input-output-hk/daedalus/pull/1728,2019-11-27T13:08:41Z,2019-11-27T13:11:28Z,0,1,MERGED
+daedalus,[DDW-1025] External link icon on menu items,https://github.com/input-output-hk/daedalus/pull/1727,2019-11-27T09:13:39Z,2019-11-27T10:50:37Z,6,2,MERGED
+daedalus,[DDW-1026] Add Delegation Status of Wallets in Delegation Setup Wizard,https://github.com/input-output-hk/daedalus/pull/1725,2019-11-26T12:13:17Z,2019-12-03T11:00:00Z,9,15,MERGED
+daedalus,[DDW-841] - Instead of node in status icon tooltips we should say Cardano node,https://github.com/input-output-hk/daedalus/pull/1723,2019-11-25T06:54:45Z,2019-11-25T12:04:38Z,0,4,MERGED
+daedalus,[DDW-1081] Adjust Stake pool logic for ranking color,https://github.com/input-output-hk/daedalus/pull/1719,2019-11-22T13:36:29Z,2019-11-25T10:25:40Z,2,3,MERGED
+daedalus,[DDW-1052] Add new Mainnet and Testnet icons - develop,https://github.com/input-output-hk/daedalus/pull/1717,2019-11-22T11:29:56Z,2019-11-22T11:42:23Z,0,1,MERGED
+daedalus,[DDW-1052] Add new Mainnet and Testnet icons,https://github.com/input-output-hk/daedalus/pull/1716,2019-11-22T11:18:22Z,2019-11-22T11:38:12Z,0,1,MERGED
+daedalus,[DDW-1080] Wallet ada displays in several lines when number format is selected without any separators,https://github.com/input-output-hk/daedalus/pull/1713,2019-11-22T01:34:22Z,2019-11-25T21:30:50Z,21,17,MERGED
+daedalus,[AR release] Update state directories and add new icon,https://github.com/input-output-hk/daedalus/pull/1711,2019-11-21T14:01:29Z,2020-03-09T13:42:27Z,8,7,MERGED
+daedalus,"[DDW-1091] Fix storing duplicated ""Newsfeed"" ID's when marked as read",https://github.com/input-output-hk/daedalus/pull/1710,2019-11-21T09:34:38Z,2019-11-21T14:18:27Z,0,4,MERGED
+daedalus,[DDW-1088] Fix themes:check:createTheme Script,https://github.com/input-output-hk/daedalus/pull/1709,2019-11-21T01:45:17Z,2019-11-21T09:27:04Z,0,4,MERGED
+daedalus,"[DDW-1058] - Apply proper styles to ""network info"" screen's button",https://github.com/input-output-hk/daedalus/pull/1708,2019-11-20T15:34:33Z,2019-11-21T14:37:38Z,3,14,MERGED
+daedalus,[DDW-932] Unconfirmed transactions calculation,https://github.com/input-output-hk/daedalus/pull/1705,2019-11-20T10:15:45Z,2019-11-20T11:25:04Z,1,4,MERGED
+daedalus,[DDW-1086]: Fix incorrect wallet password change issue,https://github.com/input-output-hk/daedalus/pull/1703,2019-11-19T23:46:25Z,2019-11-20T08:44:30Z,2,3,MERGED
+daedalus,[DDW-902] Fix Japanese Translations for TimeAgo in Storybook,https://github.com/input-output-hk/daedalus/pull/1701,2019-11-19T00:13:16Z,2019-11-19T09:20:52Z,0,3,MERGED
+daedalus,[DDW-971] Implement new Wallet Receive screen,https://github.com/input-output-hk/daedalus/pull/1700,2019-11-18T18:52:16Z,2019-11-28T19:37:31Z,3,45,MERGED
+daedalus,[DDW-992] Yellow frame displayed around the Diagnostics Dialog,https://github.com/input-output-hk/daedalus/pull/1699,2019-11-18T15:32:02Z,2019-11-19T10:23:10Z,0,2,MERGED
+daedalus,[DDW-992] Yellow frame displayed around the Diagnostics Dialog,https://github.com/input-output-hk/daedalus/pull/1698,2019-11-18T15:17:06Z,2019-11-18T15:33:14Z,1,1,CLOSED
+daedalus,[DDW-1084] Bump Daedalus version to 1.1.0-ITN0,https://github.com/input-output-hk/daedalus/pull/1695,2019-11-18T11:44:41Z,2019-11-18T12:43:47Z,0,2,MERGED
+daedalus,[DDW-993]: Button text is not well vertically centered,https://github.com/input-output-hk/daedalus/pull/1693,2019-11-17T17:17:59Z,2019-11-18T10:54:32Z,1,4,MERGED
+daedalus,[DDW-1082] On the restore dialog when i click first tab it changes selection to 15 word recovery phrase,https://github.com/input-output-hk/daedalus/pull/1692,2019-11-16T14:32:43Z,2019-11-18T13:32:48Z,3,11,MERGED
+daedalus,[DDW-1079] Add Japanese Terms of Use,https://github.com/input-output-hk/daedalus/pull/1691,2019-11-16T04:58:08Z,2019-11-18T10:35:53Z,0,4,MERGED
+daedalus,[DDW-1076] Wallet name update feature issues,https://github.com/input-output-hk/daedalus/pull/1689,2019-11-15T15:03:06Z,2019-11-18T14:52:21Z,12,21,MERGED
+daedalus,[DDW-1073] Daedalus copy updates for Incentivized Testnet - Balance check,https://github.com/input-output-hk/daedalus/pull/1685,2019-11-14T16:52:36Z,2019-11-15T12:55:31Z,0,111,MERGED
+daedalus,[DDW-1071] Incentivized Testnet Theme Fixes,https://github.com/input-output-hk/daedalus/pull/1684,2019-11-14T14:59:51Z,2019-11-14T15:02:21Z,0,1,MERGED
+daedalus,[DDW-1073] Daedalus copy updates for Incentivized Testnet - Balance check,https://github.com/input-output-hk/daedalus/pull/1680,2019-11-13T18:46:52Z,2019-11-14T13:42:52Z,8,108,MERGED
+daedalus,[DDW-1064]: Implement connecting and syncing screens for incentivized testnet,https://github.com/input-output-hk/daedalus/pull/1673,2019-11-12T03:37:27Z,2019-11-12T16:08:36Z,10,8,MERGED
+daedalus,[DDW-1054] Make links for incentivised testnet theme consistent color,https://github.com/input-output-hk/daedalus/pull/1671,2019-11-11T16:13:49Z,2019-11-11T19:43:25Z,1,6,MERGED
+daedalus,"[DDW-905] Add ""Terms and conditions"" for Incentivized Testnet",https://github.com/input-output-hk/daedalus/pull/1664,2019-11-09T16:51:31Z,2019-11-09T17:11:20Z,0,2,MERGED
+daedalus,[DDW-1042]: Implement network splash screen,https://github.com/input-output-hk/daedalus/pull/1655,2019-11-08T12:58:37Z,2019-11-08T19:48:05Z,1,15,MERGED
+daedalus,[DEVOPS] Daedalus applicationVersion: bump all environments,https://github.com/input-output-hk/daedalus/pull/1654,2019-11-08T12:35:04Z,2019-11-08T12:56:18Z,0,2,MERGED
+daedalus,[DDW-1056] Newsfeed content loading issue,https://github.com/input-output-hk/daedalus/pull/1653,2019-11-08T12:06:10Z,2019-11-08T13:15:33Z,0,3,MERGED
+daedalus,[DDW-1038] Integrate Delete Pending Transaction V2 API Endpoint for Legacy Wallets,https://github.com/input-output-hk/daedalus/pull/1651,2019-11-08T03:37:48Z,2019-11-09T15:07:18Z,0,98,MERGED
+daedalus,[DDW 1039] Incentivized testnet icons,https://github.com/input-output-hk/daedalus/pull/1650,2019-11-08T00:07:03Z,2019-11-08T15:09:52Z,0,6,MERGED
+daedalus,[DDW-1041] Update wallet restoration notification,https://github.com/input-output-hk/daedalus/pull/1644,2019-11-06T12:38:48Z,2019-11-06T22:30:54Z,1,7,MERGED
+daedalus,[DDW-1004]: Rewards screen update for incentivized testnet,https://github.com/input-output-hk/daedalus/pull/1643,2019-11-06T10:28:39Z,2019-11-07T08:52:21Z,24,22,MERGED
+daedalus,[DDW-1000] Integrate legacy wallet transactions list V2 API endpoint,https://github.com/input-output-hk/daedalus/pull/1641,2019-11-05T15:46:21Z,2019-11-07T14:52:07Z,9,20,MERGED
+daedalus,[DDW-998] Introduce Legacy Wallet list API V2 endpoint,https://github.com/input-output-hk/daedalus/pull/1637,2019-11-05T10:54:28Z,2019-11-05T13:08:30Z,2,4,MERGED
+daedalus,[DDW-983] Implement transfer funds wizard for Incentivized Testnet,https://github.com/input-output-hk/daedalus/pull/1634,2019-11-04T21:52:07Z,2019-11-08T23:10:30Z,0,62,MERGED
+daedalus,[DDW-1006] Integrate Delete Pending Transaction V2 API Endpoint,https://github.com/input-output-hk/daedalus/pull/1633,2019-11-01T21:57:54Z,2019-11-09T11:10:24Z,2,85,CLOSED
+daedalus,[DDW-1156] Implement Hardware wallets restoration,https://github.com/input-output-hk/daedalus/pull/1801,2019-12-23T15:26:06Z,2020-01-09T06:14:52Z,10,104,MERGED
+daedalus,[DDW-924] Create link component,https://github.com/input-output-hk/daedalus/pull/1799,2019-12-21T02:56:33Z,2020-01-16T08:33:30Z,14,28,MERGED
+daedalus,[DDW-1155] - Network info screen should be responsive,https://github.com/input-output-hk/daedalus/pull/1797,2019-12-20T14:57:57Z,2019-12-23T08:53:24Z,3,5,MERGED
+daedalus,[DDW-1029] Update switchers to avoid half pixels,https://github.com/input-output-hk/daedalus/pull/1793,2019-12-20T09:07:59Z,2020-01-14T10:04:11Z,6,17,MERGED
+daedalus,[DDW-1105] Introduce newsfeed update,https://github.com/input-output-hk/daedalus/pull/1788,2019-12-17T15:17:13Z,2020-01-16T13:31:20Z,9,17,MERGED
+daedalus,[DDW-1176] Fix typo in the Staking Pools section,https://github.com/input-output-hk/daedalus/pull/1785,2019-12-17T04:08:09Z,2020-01-14T15:40:15Z,4,5,MERGED
+daedalus,Cardano wallet version bump,https://github.com/input-output-hk/daedalus/pull/1781,2019-12-16T16:32:25Z,2019-12-16T18:26:17Z,1,3,MERGED
+daedalus,[DDW-996] Add more hotkeys to the Daedalus,https://github.com/input-output-hk/daedalus/pull/1780,2019-12-16T14:48:39Z,2019-12-18T13:08:09Z,2,6,MERGED
+daedalus,"[DDW-1142, DDW-1144, DDW-1140] Small updates for ITN launch",https://github.com/input-output-hk/daedalus/pull/1779,2019-12-15T05:48:20Z,2019-12-16T14:03:53Z,3,20,MERGED
+daedalus,[DDW-1136] - Add cost and profit margin to stake pool details,https://github.com/input-output-hk/daedalus/pull/1773,2019-12-13T15:32:25Z,2019-12-13T17:12:09Z,0,5,MERGED
+daedalus,[DDW-1131] Enable providing stake pool registry cardano-wallet argument,https://github.com/input-output-hk/daedalus/pull/1771,2019-12-13T12:49:43Z,2019-12-13T16:20:36Z,0,14,MERGED
+daedalus,[DDW-1134] Improve font rendering on Network splash screen,https://github.com/input-output-hk/daedalus/pull/1770,2019-12-13T12:05:01Z,2019-12-13T12:11:31Z,0,1,MERGED
+daedalus,[DDW-1129] Stake pool data presentation,https://github.com/input-output-hk/daedalus/pull/1768,2019-12-12T18:11:13Z,2019-12-13T11:00:29Z,9,18,MERGED
+daedalus,[DDW-1132] Improve spending password error handling,https://github.com/input-output-hk/daedalus/pull/1767,2019-12-12T16:25:08Z,2019-12-13T08:15:32Z,2,8,MERGED
+daedalus,[DDW-1125] Handle list stake pools API endpoint errors,https://github.com/input-output-hk/daedalus/pull/1765,2019-12-12T10:19:18Z,2019-12-12T18:29:21Z,3,9,MERGED
+daedalus,[DDW-1127] Updates cardano-wallet to latest master,https://github.com/input-output-hk/daedalus/pull/1764,2019-12-12T08:38:20Z,2019-12-12T08:58:14Z,0,3,MERGED
+daedalus,[DDW-1121] Update delegation copy,https://github.com/input-output-hk/daedalus/pull/1762,2019-12-11T17:48:04Z,2019-12-12T18:06:09Z,7,16,MERGED
+daedalus,[DDW-1126] Fix legacy wallet migration notification,https://github.com/input-output-hk/daedalus/pull/1761,2019-12-11T16:49:16Z,2019-12-11T17:11:23Z,0,3,MERGED
+daedalus,[DDW-1119]: Update rewards note and learn more button style,https://github.com/input-output-hk/daedalus/pull/1760,2019-12-11T15:44:03Z,2019-12-11T18:27:36Z,1,4,MERGED
+daedalus,[DDW-1122] Implement Support portal articles placeholder links,https://github.com/input-output-hk/daedalus/pull/1759,2019-12-11T13:07:36Z,2019-12-11T13:09:46Z,0,1,MERGED
+daedalus,[DDW-1114] Message for current stake pool being selected again,https://github.com/input-output-hk/daedalus/pull/1758,2019-12-11T11:16:52Z,2019-12-11T13:39:20Z,1,4,MERGED
+daedalus,[DDW-1124] Delegated drop down displayed Truncated in Minimized mode,https://github.com/input-output-hk/daedalus/pull/1754,2019-12-10T20:33:45Z,2019-12-11T14:01:42Z,1,8,MERGED
+daedalus,[DDW-1111] Update minimum amount of ada for delegation to be available,https://github.com/input-output-hk/daedalus/pull/1753,2019-12-10T15:09:06Z,2019-12-10T18:01:55Z,0,2,MERGED
+daedalus,[DDW-1118] Use next epoch info from the Api,https://github.com/input-output-hk/daedalus/pull/1751,2019-12-10T13:41:53Z,2019-12-12T13:47:17Z,8,26,MERGED
+daedalus,[DDW-1123] Enable Delegation UI in Daedalus builds,https://github.com/input-output-hk/daedalus/pull/1750,2019-12-10T11:43:54Z,2019-12-10T13:59:43Z,0,2,MERGED
+daedalus,[DDW-1117] Update cardano-wallet to latest master,https://github.com/input-output-hk/daedalus/pull/1749,2019-12-10T10:35:26Z,2019-12-10T10:54:47Z,0,1,MERGED
+daedalus,[DDW-1092] Make all notification UI/UX the same,https://github.com/input-output-hk/daedalus/pull/1748,2019-12-09T19:57:00Z,2019-12-17T01:49:37Z,9,41,MERGED
+daedalus,[DDW-1108] Fix middle ellipsis for addresses -  Character width calculation version,https://github.com/input-output-hk/daedalus/pull/1746,2019-12-09T14:35:17Z,2019-12-10T19:53:24Z,2,27,MERGED
+daedalus,"[DDW-1095] Integrate stake pool join V2 API endpoint and update ""Delegation"" wizard",https://github.com/input-output-hk/daedalus/pull/1744,2019-12-06T11:18:51Z,2019-12-06T21:46:50Z,23,62,MERGED
+daedalus,"[DDW-1112] Implement new ""Terms of use"" for the ""Rewards"" network",https://github.com/input-output-hk/daedalus/pull/1741,2019-12-06T08:58:04Z,2019-12-12T17:59:40Z,11,33,MERGED
+daedalus,[DDW-1100] Implement Yoroi wallets restoration,https://github.com/input-output-hk/daedalus/pull/1740,2019-12-05T22:44:09Z,2019-12-23T15:16:01Z,33,74,MERGED
+daedalus,[DDW-1096]: Integrate stake pool quit V2 API add confirmation dialog,https://github.com/input-output-hk/daedalus/pull/1737,2019-12-04T15:45:27Z,2019-12-09T11:53:35Z,18,32,MERGED
+daedalus,[DDW-1018] Configure numeric input number formats,https://github.com/input-output-hk/daedalus/pull/1735,2019-12-03T20:35:10Z,2019-12-04T10:49:58Z,0,5,MERGED
+daedalus,[DDW-1185] - Low disk space alert message not displayed for ITN,https://github.com/input-output-hk/daedalus/pull/1833,2020-01-30T21:05:12Z,2020-02-05T13:12:41Z,12,7,MERGED
+daedalus,[DDW-1186] Stake pool descriptions is not fully shown if it is long enough,https://github.com/input-output-hk/daedalus/pull/1832,2020-01-30T19:45:38Z,2020-02-05T13:57:08Z,36,19,MERGED
+daedalus,[DDW-1184] Implement stake pool saturation and desirability attributes,https://github.com/input-output-hk/daedalus/pull/1826,2020-01-21T12:24:32Z,2020-01-21T16:44:12Z,7,5,MERGED
+daedalus,[DDW-1159] Prepare 2.1.0-ITN1 release,https://github.com/input-output-hk/daedalus/pull/1825,2020-01-21T09:59:03Z,2020-01-22T11:19:29Z,0,3,MERGED
+daedalus,[DDW-1180] Resync wallet,https://github.com/input-output-hk/daedalus/pull/1822,2020-01-17T13:29:04Z,2020-01-20T12:03:45Z,14,24,MERGED
+daedalus,[DDW-1179]: Improve delete wallet text copy,https://github.com/input-output-hk/daedalus/pull/1819,2020-01-17T09:53:05Z,2020-01-17T12:14:15Z,1,2,MERGED
+daedalus,[DDW-1178] Improve paper wallet recovery phrase validation,https://github.com/input-output-hk/daedalus/pull/1818,2020-01-16T16:07:52Z,2020-01-17T13:21:43Z,1,8,MERGED
+daedalus,[DDW-926] Transaction filtering,https://github.com/input-output-hk/daedalus/pull/1815,2020-01-10T03:37:33Z,2020-02-19T09:46:25Z,114,107,MERGED
+daedalus,[DDW-1148] Implement acceptance tests for wallet delegation,https://github.com/input-output-hk/daedalus/pull/1814,2020-01-08T21:02:23Z,2020-02-19T10:00:06Z,4,42,MERGED
+daedalus,[DDW-769] Remove locale-specific rules from the CSS files,https://github.com/input-output-hk/daedalus/pull/1871,2020-02-27T23:46:34Z,2020-03-10T18:42:56Z,17,23,MERGED
+daedalus,"[DDW-1152] Implement acceptance tests for custom number, date and time formats",https://github.com/input-output-hk/daedalus/pull/1868,2020-02-26T20:16:57Z,2020-03-05T13:28:07Z,22,24,MERGED
+daedalus,[DDW-1175] Storybook - Decentralization Countdown,https://github.com/input-output-hk/daedalus/pull/1863,2020-02-24T11:48:32Z,2020-02-26T20:06:40Z,0,1,MERGED
+daedalus,[DDW-1210] Error is shown trying to delegate to the same wallet,https://github.com/input-output-hk/daedalus/pull/1862,2020-02-24T09:58:41Z,2020-02-25T10:42:55Z,0,5,MERGED
+daedalus,[DDW-1206] Fix pending delegation preferences handling,https://github.com/input-output-hk/daedalus/pull/1856,2020-02-17T14:25:15Z,2020-02-20T19:11:37Z,1,50,MERGED
+daedalus,[DDW-1204] Experimental data UI copy update,https://github.com/input-output-hk/daedalus/pull/1850,2020-02-13T09:15:00Z,2020-02-13T16:52:56Z,2,3,MERGED
+daedalus,[DDW-1163] Write unit tests for scrambling and unscrambling mnemonics,https://github.com/input-output-hk/daedalus/pull/1849,2020-02-12T15:52:51Z,2020-02-24T09:03:35Z,0,9,MERGED
+daedalus,[DDW-1200] Handle delegation during wallet restoration,https://github.com/input-output-hk/daedalus/pull/1847,2020-02-11T17:32:07Z,2020-02-12T14:17:21Z,5,7,MERGED
+daedalus,[DDW-1197] Implement experimental data UI,https://github.com/input-output-hk/daedalus/pull/1845,2020-02-11T10:11:07Z,2020-02-12T07:57:33Z,2,13,MERGED
+daedalus,[DDW-1198] Improved stake pool loading state,https://github.com/input-output-hk/daedalus/pull/1844,2020-02-06T13:55:52Z,2020-02-07T12:28:49Z,1,1,CLOSED
+daedalus,[DDW-1145] Pending delegation preferences,https://github.com/input-output-hk/daedalus/pull/1842,2020-02-06T11:47:41Z,2020-02-18T14:22:49Z,12,46,MERGED
+daedalus,[DDW-1195] Stake pool tooltip update,https://github.com/input-output-hk/daedalus/pull/1841,2020-02-06T11:46:16Z,2020-02-06T12:05:10Z,0,1,MERGED
+daedalus,[DDW-84] Handle migration of passwordless wallets,https://github.com/input-output-hk/daedalus/pull/1935,2020-03-31T11:45:45Z,2020-03-31T18:21:34Z,1,19,MERGED
+daedalus,[DDW-68] New terms of service,https://github.com/input-output-hk/daedalus/pull/1934,2020-03-31T10:29:55Z,2020-03-31T20:11:59Z,1,7,MERGED
+daedalus,"[DDW-53] Enable ""Wallet recovery phrase verification"" feature",https://github.com/input-output-hk/daedalus/pull/1929,2020-03-30T12:33:10Z,2020-05-04T11:02:23Z,15,85,MERGED
+daedalus,[DDW-83] Update about screen,https://github.com/input-output-hk/daedalus/pull/1928,2020-03-30T10:33:51Z,2020-03-30T13:13:31Z,5,5,MERGED
+daedalus,[DDW-57] Implement NTP checks,https://github.com/input-output-hk/daedalus/pull/1925,2020-03-29T23:38:41Z,2020-03-31T18:53:06Z,0,44,MERGED
+daedalus,[DDW-60] Handle wallet migration errors,https://github.com/input-output-hk/daedalus/pull/1922,2020-03-28T19:32:02Z,2020-03-29T15:38:24Z,0,8,MERGED
+daedalus,[DDW-39] Flight release information window,https://github.com/input-output-hk/daedalus/pull/1917,2020-03-27T19:21:24Z,2020-03-27T21:42:46Z,0,6,MERGED
+daedalus,[DDW-71] Implement new theme - Flight Candidate,https://github.com/input-output-hk/daedalus/pull/1914,2020-03-26T19:25:39Z,2020-03-26T20:03:47Z,0,8,MERGED
+daedalus,[DDW-73] Set new Daedalus name and version,https://github.com/input-output-hk/daedalus/pull/1910,2020-03-26T17:10:20Z,2020-03-28T01:17:11Z,0,47,MERGED
+daedalus,[DDW-72] Implement new icon,https://github.com/input-output-hk/daedalus/pull/1909,2020-03-26T16:49:13Z,2020-03-26T16:51:39Z,0,1,MERGED
+daedalus,[DDW-75] Implement flight candidates changes,https://github.com/input-output-hk/daedalus/pull/1908,2020-03-26T15:13:13Z,2020-03-26T16:40:10Z,3,5,MERGED
+daedalus,[DDW-42] Update UI copy,https://github.com/input-output-hk/daedalus/pull/1907,2020-03-26T13:16:23Z,2020-03-26T15:39:07Z,4,3,MERGED
+daedalus,[DDW-64] Handle non-responding wallets,https://github.com/input-output-hk/daedalus/pull/1901,2020-03-23T20:58:03Z,2020-03-25T15:41:12Z,3,18,MERGED
+daedalus,[DDW-1232] Fix stake pool rank color within the stake pool tooltip,https://github.com/input-output-hk/daedalus/pull/1891,2020-03-17T10:35:23Z,2020-03-17T10:45:39Z,0,1,MERGED
+daedalus,[DDW-1230] Bump cardano wallet revision,https://github.com/input-output-hk/daedalus/pull/1888,2020-03-16T14:55:35Z,2020-03-16T18:25:04Z,1,1,MERGED
+daedalus,[DDW-1202] Daedalus wallet restoration spinner improvement,https://github.com/input-output-hk/daedalus/pull/1885,2020-03-11T14:09:10Z,2020-03-13T13:28:12Z,8,4,MERGED
+daedalus,[DDW-1221] Bump Daedalus version to 2.3.0-ITN1,https://github.com/input-output-hk/daedalus/pull/1875,2020-03-05T12:24:57Z,2020-03-05T12:40:45Z,0,1,MERGED
+daedalus,[DDW-1220] Re-enable theme selection ,https://github.com/input-output-hk/daedalus/pull/1872,2020-03-03T15:48:50Z,2020-03-05T14:01:04Z,1,6,MERGED
+daedalus,[DDW-177] Fixed Daedalus logo animation display on macOS,https://github.com/input-output-hk/daedalus/pull/2005,2020-04-30T14:01:08Z,2020-04-30T15:15:45Z,0,2,MERGED
+daedalus,[DDW-176] Improve delegation fee calculation,https://github.com/input-output-hk/daedalus/pull/2002,2020-04-28T08:37:00Z,2020-04-29T13:00:48Z,0,7,MERGED
+daedalus,[DDW-173] - Button should be disabled when there is nothing to submit,https://github.com/input-output-hk/daedalus/pull/1998,2020-04-23T21:07:40Z,2020-05-07T14:26:53Z,57,35,MERGED
+daedalus,Release/1.0.0,https://github.com/input-output-hk/daedalus/pull/1995,2020-04-23T08:11:31Z,2020-04-23T18:07:42Z,0,668,MERGED
+daedalus,[DDW-172] Improve wallet import,https://github.com/input-output-hk/daedalus/pull/1991,2020-04-22T10:53:36Z,2020-04-22T14:07:18Z,0,7,MERGED
+daedalus,[DDW-172] Handle duplicate wallets in import process,https://github.com/input-output-hk/daedalus/pull/1985,2020-04-21T09:30:23Z,2020-04-21T14:55:54Z,0,6,MERGED
+daedalus,[DDW-171] Treat wallets with 100% syncing progress as synced wallets,https://github.com/input-output-hk/daedalus/pull/1984,2020-04-21T09:11:51Z,2020-04-21T11:40:55Z,0,2,MERGED
+daedalus,"[DDW-158] Update Cardano node / Cardano wallet info shown on the ""Diagnostics"" screen",https://github.com/input-output-hk/daedalus/pull/1980,2020-04-20T21:21:44Z,2020-04-21T09:34:52Z,0,5,MERGED
+daedalus,"[DDW-159] Restore the ""wallet migration"" paragraph on the Daedalus Flight ""Splash"" screen",https://github.com/input-output-hk/daedalus/pull/1967,2020-04-17T10:00:25Z,2020-04-17T10:54:29Z,0,1,MERGED
+daedalus,[DDW-123] Disable address generation for Yoroi wallets,https://github.com/input-output-hk/daedalus/pull/1961,2020-04-14T13:13:26Z,2020-04-15T17:50:34Z,2,11,MERGED
+daedalus,[DDW-105] Force setting password on passwordless wallets,https://github.com/input-output-hk/daedalus/pull/1957,2020-04-07T16:59:23Z,2020-04-15T22:42:27Z,14,51,MERGED
+daedalus,"[DDW-102] Remove ""Syncing"" screen",https://github.com/input-output-hk/daedalus/pull/1952,2020-04-05T18:34:03Z,2020-04-06T14:54:26Z,0,9,MERGED
+daedalus,[DDW-114] Fix restoration validation,https://github.com/input-output-hk/daedalus/pull/1951,2020-04-05T17:41:31Z,2020-04-05T18:34:45Z,0,2,MERGED
+daedalus,[SRE-86] Block installing on anything older than Windows 8.1,https://github.com/input-output-hk/daedalus/pull/1947,2020-04-03T09:51:53Z,2020-04-29T18:07:11Z,2,2,MERGED
+daedalus,[DDW-100] Generate an address after creating a Byron wallet,https://github.com/input-output-hk/daedalus/pull/1943,2020-04-02T15:38:01Z,2020-04-02T16:30:39Z,4,4,MERGED
+daedalus,[DDW-250] - Improve hardware wallets theming,https://github.com/input-output-hk/daedalus/pull/2023,2020-05-27T15:03:04Z,2020-06-01T08:29:31Z,6,6,MERGED
+daedalus,[DDW-131] Connecting a hardware wallet,https://github.com/input-output-hk/daedalus/pull/2016,2020-05-19T06:40:18Z,2020-05-26T10:33:48Z,28,33,MERGED
+daedalus,[DDW-174] Improve wallet import dialogs,https://github.com/input-output-hk/daedalus/pull/2014,2020-05-12T04:49:31Z,2020-05-26T10:31:21Z,33,32,MERGED
+daedalus,[DDW-166] Prevent importing more than maximum number of wallets,https://github.com/input-output-hk/daedalus/pull/2012,2020-05-08T15:45:29Z,2020-05-11T20:13:06Z,7,3,MERGED
+daedalus,Enable the Recovery Phrase Verification feature on ITN,https://github.com/input-output-hk/daedalus/pull/2008,2020-05-05T11:21:24Z,2020-05-18T11:00:29Z,9,23,MERGED
+daedalus,Balance check Daedalus version,https://github.com/input-output-hk/daedalus/pull/2052,2020-06-30T10:36:14Z,2020-07-01T08:00:08Z,1,6,CLOSED
+daedalus,[DDW-283]: Stake pools ranking based on delegated amount,https://github.com/input-output-hk/daedalus/pull/2051,2020-06-30T09:39:44Z,2020-07-14T08:40:41Z,56,51,MERGED
+daedalus,[DDW-197] Ledger and Trezor hardware wallet support,https://github.com/input-output-hk/daedalus/pull/2046,2020-06-26T10:14:43Z,2020-12-04T12:39:22Z,18,286,MERGED
+daedalus,[DDW-287] Splash screen for the balance-check network,https://github.com/input-output-hk/daedalus/pull/2043,2020-06-23T15:29:28Z,2020-06-26T11:02:51Z,1,2,CLOSED
+daedalus,[DDW-178] Redeem Incentivized testnet rewards,https://github.com/input-output-hk/daedalus/pull/2042,2020-06-23T00:16:32Z,2020-07-15T07:02:28Z,36,60,MERGED
+daedalus,[DDW-281] ITN message shown during creation of the wallet,https://github.com/input-output-hk/daedalus/pull/2040,2020-06-17T11:31:02Z,2020-06-17T11:32:57Z,0,1,MERGED
+daedalus,[DDW-170] Password input with strength meter,https://github.com/input-output-hk/daedalus/pull/2038,2020-06-16T18:19:49Z,2020-06-25T12:48:23Z,17,29,MERGED
+daedalus,[DDW-277] Fix Download Manager directory creation error,https://github.com/input-output-hk/daedalus/pull/2035,2020-06-15T13:32:59Z,2020-06-17T08:31:49Z,5,2,MERGED
+daedalus,[DDW-261] Shelley FF features,https://github.com/input-output-hk/daedalus/pull/2034,2020-06-15T11:39:51Z,2020-06-16T14:53:47Z,6,16,MERGED
+daedalus,[DDW-251] Remove resync wallet feature,https://github.com/input-output-hk/daedalus/pull/2024,2020-06-01T11:00:13Z,2020-06-03T06:58:38Z,2,6,MERGED
+daedalus,[DDW-330] Fix wallet delegation minimum Balance logic,https://github.com/input-output-hk/daedalus/pull/2111,2020-07-29T17:49:49Z,2020-08-03T14:11:30Z,1,18,MERGED
+daedalus,[DDW-329] Show block replay progress,https://github.com/input-output-hk/daedalus/pull/2110,2020-07-29T14:37:38Z,2020-07-29T15:39:28Z,3,12,MERGED
+daedalus,[DDW-327] Fix epoch length and slot count info,https://github.com/input-output-hk/daedalus/pull/2108,2020-07-29T11:57:32Z,2020-07-29T12:27:36Z,1,1,MERGED
+daedalus,[DDW-319] Update network-info Api endpoint integration,https://github.com/input-output-hk/daedalus/pull/2103,2020-07-28T08:06:06Z,2020-07-28T10:07:31Z,0,7,MERGED
+daedalus,[DDW-316] Extend incident and alert newsfeed type,https://github.com/input-output-hk/daedalus/pull/2099,2020-07-27T14:04:42Z,2020-07-27T15:59:59Z,0,6,MERGED
+daedalus,[DDW-309] Enable Cardano Explorer links for STN network,https://github.com/input-output-hk/daedalus/pull/2098,2020-07-27T13:28:50Z,2020-07-27T13:32:15Z,0,1,MERGED
+daedalus,"[DDW-313] Update cardano-wallet info shown on the ""About"" screen",https://github.com/input-output-hk/daedalus/pull/2097,2020-07-27T12:54:04Z,2020-07-27T12:56:49Z,0,2,MERGED
+daedalus,"[DDW-318] Revert ""Blocks (current epoch)"" into ""Blocks produced""",https://github.com/input-output-hk/daedalus/pull/2096,2020-07-27T12:40:47Z,2020-07-27T12:49:25Z,0,1,MERGED
+daedalus,[DDW-310] Update ITN rewards redemption to ask for 15-word recovery phrase,https://github.com/input-output-hk/daedalus/pull/2095,2020-07-27T12:29:18Z,2020-07-27T12:31:51Z,0,1,MERGED
+daedalus,Handle new error message codes,https://github.com/input-output-hk/daedalus/pull/2090,2020-07-25T15:01:04Z,2020-07-25T20:32:15Z,1,7,MERGED
+daedalus,[DDW-308] Restoration of legacy Byron hardware wallets,https://github.com/input-output-hk/daedalus/pull/2082,2020-07-24T12:37:11Z,2020-07-24T15:12:06Z,2,10,MERGED
+daedalus,[DDW-301] Implement stake pool ID hover and copy,https://github.com/input-output-hk/daedalus/pull/2074,2020-07-16T20:10:05Z,2020-07-20T09:04:32Z,11,9,MERGED
+daedalus,[DDW-300] Adds stake pool id to the stake pool tooltip,https://github.com/input-output-hk/daedalus/pull/2071,2020-07-16T10:02:22Z,2020-07-16T18:38:05Z,0,8,MERGED
+daedalus,[DDW-295] Show stake pool retirement info,https://github.com/input-output-hk/daedalus/pull/2068,2020-07-16T09:10:21Z,2020-07-16T17:51:43Z,2,7,MERGED
+daedalus,Hide stake pool saturation info,https://github.com/input-output-hk/daedalus/pull/2067,2020-07-16T08:54:37Z,2020-07-16T11:20:08Z,0,3,MERGED
+daedalus,[DDW-298] Display withdrawals in transaction details,https://github.com/input-output-hk/daedalus/pull/2065,2020-07-15T07:37:50Z,2020-07-16T07:18:14Z,4,7,MERGED
+daedalus,[DDW-299] Bump dependencies and enable Byron wallets,https://github.com/input-output-hk/daedalus/pull/2064,2020-07-15T05:50:38Z,2020-07-15T12:44:11Z,0,7,MERGED
+daedalus,[DDW-269] Automatic Daedalus updates,https://github.com/input-output-hk/daedalus/pull/2056,2020-07-06T20:14:20Z,2020-09-24T14:27:35Z,85,153,MERGED
+daedalus,[DDW-370] Remove wallet balance while syncing,https://github.com/input-output-hk/daedalus/pull/2168,2020-08-27T07:36:07Z,2020-09-03T20:42:34Z,12,11,MERGED
+daedalus,[DDW-371] Update team on about screen,https://github.com/input-output-hk/daedalus/pull/2167,2020-08-26T16:50:14Z,2020-08-27T18:55:56Z,0,4,MERGED
+daedalus,Add smashUrl for mainnet,https://github.com/input-output-hk/daedalus/pull/2154,2020-08-12T17:48:00Z,2020-09-29T11:02:09Z,0,9,MERGED
+daedalus,[DDW-320] Text copy fixes,https://github.com/input-output-hk/daedalus/pull/2153,2020-08-12T14:24:43Z,2020-08-13T08:17:43Z,4,2,MERGED
+daedalus,[DDW-350] Fix Japanese translation for Byron wallets,https://github.com/input-output-hk/daedalus/pull/2147,2020-08-11T11:52:48Z,2020-08-12T06:53:48Z,5,5,MERGED
+daedalus,[DDW-349] Disabled ITN redemption before being synced,https://github.com/input-output-hk/daedalus/pull/2146,2020-08-11T11:36:29Z,2020-08-12T06:47:46Z,2,6,MERGED
+daedalus,[DDW-335]: Fix double loading spinner on stake pools list page,https://github.com/input-output-hk/daedalus/pull/2144,2020-08-10T22:55:43Z,2020-08-12T07:12:17Z,4,5,MERGED
+daedalus,[DDW-346] Fix Ada Redemption styling issues - Part 2,https://github.com/input-output-hk/daedalus/pull/2140,2020-08-07T14:17:21Z,2020-08-07T16:20:56Z,0,3,MERGED
+daedalus,[DDW-345] Fix ada redemption styling issues,https://github.com/input-output-hk/daedalus/pull/2138,2020-08-07T11:36:21Z,2020-08-07T12:42:59Z,0,12,MERGED
+daedalus,[DDW-344] Integrate Rewards redemption API endpoint,https://github.com/input-output-hk/daedalus/pull/2133,2020-08-04T23:41:00Z,2020-08-06T21:39:24Z,5,19,MERGED
+daedalus,[DDW-262] Tooltip promoting password managers,https://github.com/input-output-hk/daedalus/pull/2128,2020-08-04T06:59:16Z,2020-08-24T13:45:55Z,8,30,MERGED
+daedalus,[DDW-336] Disabled wallet creation before the Shelley HF,https://github.com/input-output-hk/daedalus/pull/2126,2020-08-03T12:21:24Z,2020-08-03T12:24:28Z,0,1,MERGED
+daedalus,"[DDW-333] Fix text copy on the ""Delegation center"" screen",https://github.com/input-output-hk/daedalus/pull/2125,2020-08-03T11:00:31Z,2020-08-03T11:38:06Z,0,1,MERGED
+daedalus,[DDW-322] Fix Daedalus logo animation,https://github.com/input-output-hk/daedalus/pull/2124,2020-08-03T10:22:27Z,2020-08-03T12:04:33Z,0,3,MERGED
+daedalus,[DDW-373] Syncing animation on wallet dropdown option not showing during redemption process,https://github.com/input-output-hk/daedalus/pull/2191,2020-09-28T13:03:01Z,2020-10-20T08:59:02Z,46,41,MERGED
+daedalus,[DDW-396] The retirement label is too light on yellow theme,https://github.com/input-output-hk/daedalus/pull/2189,2020-09-25T09:37:12Z,2020-09-28T09:40:00Z,2,4,MERGED
+daedalus,[DDW-395] Update WBE and Node dependencies,https://github.com/input-output-hk/daedalus/pull/2187,2020-09-23T11:31:35Z,2020-09-24T08:13:09Z,0,7,MERGED
+daedalus,[DDW-16] Table view for stake pools,https://github.com/input-output-hk/daedalus/pull/2186,2020-09-22T11:33:05Z,2020-10-22T09:26:41Z,89,187,MERGED
+daedalus,"[DDW-378] ""Delegate to this pool"" button styles",https://github.com/input-output-hk/daedalus/pull/2181,2020-09-10T10:32:20Z,2020-09-11T07:53:55Z,0,4,MERGED
+daedalus,[DDW-379] Remove one second delay on ranking stake pools,https://github.com/input-output-hk/daedalus/pull/2180,2020-09-10T08:39:06Z,2020-09-11T07:05:26Z,0,1,MERGED
+daedalus,[DDW-337] Handle wallet migration leftovers,https://github.com/input-output-hk/daedalus/pull/2178,2020-09-04T16:18:47Z,2020-10-05T18:50:55Z,11,21,MERGED
+daedalus,[DDW-355] Improve stake pools rendering performance,https://github.com/input-output-hk/daedalus/pull/2177,2020-09-04T15:01:12Z,2020-09-07T09:48:28Z,6,4,MERGED
+daedalus,[DDW-339] Correct order of receiving addresses,https://github.com/input-output-hk/daedalus/pull/2176,2020-09-04T12:49:38Z,2020-09-07T09:46:38Z,3,2,MERGED
+daedalus,[DDW-291] Fix PopOver Themes,https://github.com/input-output-hk/daedalus/pull/2223,2020-10-29T12:21:35Z,2020-10-29T16:58:10Z,1,5,MERGED
+daedalus,[DDW-427] Issues on redeem rewards screen,https://github.com/input-output-hk/daedalus/pull/2220,2020-10-28T20:32:53Z,2020-12-04T09:37:04Z,41,135,MERGED
+daedalus,[DDW-429] Fix missing space in error message,https://github.com/input-output-hk/daedalus/pull/2219,2020-10-28T20:03:21Z,2020-10-29T09:43:49Z,0,4,MERGED
+daedalus,[DDW-376] Fix address validation on the Shelley QA and Staging networks,https://github.com/input-output-hk/daedalus/pull/2218,2020-10-27T17:05:57Z,2020-10-29T14:10:56Z,8,57,MERGED
+daedalus,[DDW-418] Align vertically the newsfeed empty message,https://github.com/input-output-hk/daedalus/pull/2216,2020-10-27T12:21:44Z,2020-10-29T11:26:52Z,12,56,MERGED
+daedalus,"Fix ""Stake pools"" screen UI/UX issues",https://github.com/input-output-hk/daedalus/pull/2215,2020-10-26T14:41:18Z,2020-10-26T17:16:19Z,0,7,MERGED
+daedalus,[DDW-422]: Add tooltips to stake pools table view headers,https://github.com/input-output-hk/daedalus/pull/2214,2020-10-23T17:28:26Z,2020-10-23T22:25:19Z,2,5,MERGED
+daedalus,[DDW-420] Remove broken feature requests link,https://github.com/input-output-hk/daedalus/pull/2212,2020-10-22T14:48:01Z,2020-10-22T15:33:24Z,1,5,MERGED
+daedalus,[DDW-421] Stake pool details explanation tooltips,https://github.com/input-output-hk/daedalus/pull/2211,2020-10-21T14:35:15Z,2020-10-22T08:01:58Z,5,8,MERGED
+daedalus,[DDW-291] Smart Tooltip MVP integration,https://github.com/input-output-hk/daedalus/pull/2210,2020-10-21T12:17:21Z,2020-10-29T09:38:49Z,19,14,MERGED
+daedalus,[DDW-417] Hide ranking for pools without non myopic member rewards,https://github.com/input-output-hk/daedalus/pull/2209,2020-10-18T13:42:23Z,2020-10-20T15:00:04Z,17,14,MERGED
+daedalus,[DDW-385] Filter and export transactions to a CSV file,https://github.com/input-output-hk/daedalus/pull/2207,2020-10-15T21:05:06Z,2020-11-13T08:00:29Z,19,56,MERGED
+daedalus,[VIT-395] Voting Center,https://github.com/input-output-hk/daedalus/pull/2204,2020-10-13T15:39:07Z,2021-01-22T11:25:40Z,35,64,MERGED
+daedalus,Enable Saturation Indicator,https://github.com/input-output-hk/daedalus/pull/2200,2020-10-07T14:18:48Z,2020-10-08T10:05:33Z,0,5,MERGED
+daedalus,[DDW-369] Implement copy CSS variables,https://github.com/input-output-hk/daedalus/pull/2196,2020-10-01T20:28:00Z,2020-11-13T07:56:40Z,5,20,MERGED
+daedalus,[DDW-455] Fix X Button Overlap in Stake Pools Search,https://github.com/input-output-hk/daedalus/pull/2251,2020-11-26T15:21:36Z,2020-11-27T15:30:47Z,0,3,MERGED
+daedalus,[DDW-486] Close Newsfeed on Blur,https://github.com/input-output-hk/daedalus/pull/2250,2020-11-26T14:59:40Z,2020-12-03T09:20:04Z,10,11,MERGED
+daedalus,[DDW-426] Wrong transaction height when filtering,https://github.com/input-output-hk/daedalus/pull/2249,2020-11-24T13:51:11Z,2020-11-25T11:19:27Z,0,3,MERGED
+daedalus,[DDW-391] Receive screen with address sharing functionality,https://github.com/input-output-hk/daedalus/pull/2245,2020-11-13T14:01:09Z,2020-11-20T16:39:05Z,21,18,MERGED
+daedalus,[DDW-430] Smart tooltips,https://github.com/input-output-hk/daedalus/pull/2243,2020-11-13T10:06:15Z,2020-11-24T14:31:24Z,35,87,MERGED
+daedalus,[DDW-431] Newsfeed shadow,https://github.com/input-output-hk/daedalus/pull/2242,2020-11-13T09:27:07Z,2020-11-24T13:57:52Z,21,88,MERGED
+daedalus,[DDW-192] Improve form fields feedback UX,https://github.com/input-output-hk/daedalus/pull/2241,2020-11-10T15:23:08Z,2020-11-19T08:34:23Z,25,17,MERGED
+daedalus,[DDW-410] Cancel running fee estimation api requests once new request is made,https://github.com/input-output-hk/daedalus/pull/2239,2020-11-08T09:27:03Z,2020-12-21T09:16:31Z,21,39,MERGED
+daedalus,[DDW-433]: Hide hardware wallet restoration support,https://github.com/input-output-hk/daedalus/pull/2237,2020-11-06T00:57:36Z,2020-11-06T10:35:03Z,0,2,MERGED
+daedalus,[DDW-424] Fix prettier/flow linting issue,https://github.com/input-output-hk/daedalus/pull/2232,2020-11-03T20:52:39Z,2020-11-04T08:58:13Z,0,2,MERGED
+daedalus,[DDW-436] Fix leftovers not being displayed correctly,https://github.com/input-output-hk/daedalus/pull/2231,2020-11-03T19:09:23Z,2020-11-04T09:08:07Z,0,2,MERGED
+daedalus,[DDW-432] Stake pool ranking logic update,https://github.com/input-output-hk/daedalus/pull/2227,2020-11-02T13:59:45Z,2020-11-03T12:37:23Z,0,4,MERGED
+daedalus,[DDW-502] Spending password should not be longer than 255 characters,https://github.com/input-output-hk/daedalus/pull/2287,2020-12-28T21:43:56Z,2021-01-11T17:55:37Z,12,16,MERGED
+daedalus,[DDW-496] Scrollable dialogs improvement,https://github.com/input-output-hk/daedalus/pull/2285,2020-12-22T11:32:29Z,2021-01-14T15:31:22Z,12,15,MERGED
+daedalus,[DDW-511] Implement Trezor device passphrase handling,https://github.com/input-output-hk/daedalus/pull/2284,2020-12-18T17:40:15Z,2021-03-22T17:01:41Z,40,29,MERGED
+daedalus,[DDW-491] Verify HW wallet receiving address - Ledger,https://github.com/input-output-hk/daedalus/pull/2282,2020-12-17T09:00:11Z,2021-05-07T08:35:10Z,16,56,MERGED
+daedalus,"[DDW-503] Show stake pool ID on the ""Confirmation"" step of the ""Delegation"" wizard",https://github.com/input-output-hk/daedalus/pull/2281,2020-12-17T00:10:10Z,2020-12-17T19:49:19Z,0,7,MERGED
+daedalus,[DDW-497] Improve Mnemonic Phrase Input UX,https://github.com/input-output-hk/daedalus/pull/2280,2020-12-16T21:12:13Z,2021-01-08T17:39:00Z,21,15,MERGED
+daedalus,[DDW-480] Tile view in the delegation center,https://github.com/input-output-hk/daedalus/pull/2275,2020-12-13T21:24:38Z,2021-01-15T20:51:40Z,36,105,MERGED
+daedalus,Transaction expired status,https://github.com/input-output-hk/daedalus/pull/2272,2020-12-10T17:14:23Z,2020-12-10T18:30:57Z,0,6,MERGED
+daedalus,[DDW-438] View wallet public key,https://github.com/input-output-hk/daedalus/pull/2271,2020-12-10T16:03:50Z,2020-12-22T21:12:32Z,30,30,MERGED
+daedalus,[DDW-492] Add initial loading state to UTXO screen,https://github.com/input-output-hk/daedalus/pull/2265,2020-12-04T18:49:42Z,2020-12-14T18:33:37Z,8,12,MERGED
+daedalus,[DDW-323|DDW-499] Updates maximum delegation amount calculation and cardano-wallet version,https://github.com/input-output-hk/daedalus/pull/2262,2020-12-03T12:47:38Z,2020-12-04T09:43:05Z,0,3,MERGED
+daedalus,[DDW-505] Overlapping Data on Transactions,https://github.com/input-output-hk/daedalus/pull/2261,2020-12-02T21:58:45Z,2020-12-07T15:24:15Z,6,9,MERGED
+daedalus,[DDW-481] Switching SMASH servers,https://github.com/input-output-hk/daedalus/pull/2259,2020-12-01T18:32:48Z,2021-01-29T13:46:08Z,43,116,MERGED
+daedalus,[DDW-557] Update cardano-wallet,https://github.com/input-output-hk/daedalus/pull/2325,2021-01-29T04:31:55Z,2021-02-01T19:30:44Z,4,9,MERGED
+daedalus,"[DDW-539, DDW-541] Fund3 voting registration",https://github.com/input-output-hk/daedalus/pull/2315,2021-01-22T11:08:26Z,2021-02-05T18:50:52Z,35,146,MERGED
+daedalus,[DDW-504] Number format for syncing percentage and stake pools,https://github.com/input-output-hk/daedalus/pull/2313,2021-01-21T09:42:11Z,2021-02-01T19:36:38Z,7,10,MERGED
+daedalus,[DDW-563] Re-enable wallet import feature,https://github.com/input-output-hk/daedalus/pull/2308,2021-01-19T22:23:04Z,2021-02-11T14:42:51Z,4,20,MERGED
+daedalus,[DDW-536] Service agreement can be skipped by accessing to Settings,https://github.com/input-output-hk/daedalus/pull/2304,2021-01-18T08:58:23Z,2021-01-21T11:47:08Z,12,14,MERGED
+daedalus,[DDW-501] Hide copy and paste context menu items on some scenarios,https://github.com/input-output-hk/daedalus/pull/2300,2021-01-12T23:14:38Z,2021-01-14T10:27:53Z,6,5,MERGED
+daedalus,[DDW-500] Implement native tokens,https://github.com/input-output-hk/daedalus/pull/2292,2021-01-06T14:05:45Z,2021-02-27T23:18:25Z,8,423,MERGED
+daedalus,[DDW-452] Show ada amounts in other currencies,https://github.com/input-output-hk/daedalus/pull/2290,2021-01-04T17:42:46Z,2021-02-12T10:26:21Z,18,56,MERGED
+daedalus,[DDW-531] Fix Daedalus development environment issues on OSX Big Sur,https://github.com/input-output-hk/daedalus/pull/2289,2021-01-04T12:09:42Z,2021-01-08T15:49:09Z,0,2,MERGED
+daedalus,"[DDW-560] Red outlining in ""Wallet Name"" input ",https://github.com/input-output-hk/daedalus/pull/2409,2021-02-26T11:45:22Z,2021-02-27T13:43:54Z,2,5,MERGED
+daedalus,"[DDW-579] Undelegated wallet shown as delegated on ""Delegation center"" screen",https://github.com/input-output-hk/daedalus/pull/2404,2021-02-25T14:29:07Z,2021-02-27T13:25:44Z,6,5,MERGED
+daedalus,[DDW-552] Line breaks on the address from exported PDF,https://github.com/input-output-hk/daedalus/pull/2402,2021-02-25T01:53:15Z,2021-03-04T17:07:18Z,14,9,MERGED
+daedalus,[DDW-569] Move ITN redemption to Daedalus application menu,https://github.com/input-output-hk/daedalus/pull/2401,2021-02-24T23:12:02Z,2021-02-27T13:53:36Z,10,8,MERGED
+daedalus,"[DDW-556] The calendar is displayed inside the ""Filter"" modal",https://github.com/input-output-hk/daedalus/pull/2387,2021-02-19T11:17:57Z,2021-02-19T12:43:53Z,0,3,MERGED
+daedalus,[DDW-550] Hover not working properly on the first tile in the delegation center,https://github.com/input-output-hk/daedalus/pull/2386,2021-02-19T10:12:23Z,2021-02-23T13:06:53Z,4,11,MERGED
+daedalus,"[DDW-456] Add missing space for amount + ""ADA"" [Japanese]",https://github.com/input-output-hk/daedalus/pull/2380,2021-02-18T10:50:21Z,2021-02-19T08:13:39Z,0,4,MERGED
+daedalus,[DDW-578] Wallet send form does not work with certain amounts,https://github.com/input-output-hk/daedalus/pull/2379,2021-02-18T09:51:20Z,2021-02-18T22:04:50Z,1,2,MERGED
+daedalus,[DDW-546] Select whole addresses and ids when selecting them to copy,https://github.com/input-output-hk/daedalus/pull/2370,2021-02-17T15:59:42Z,2021-02-19T08:22:48Z,0,5,MERGED
+daedalus,[DDW-555] Improve URL validation on Stake Pools,https://github.com/input-output-hk/daedalus/pull/2355,2021-02-11T10:09:50Z,2021-02-15T13:07:08Z,7,7,MERGED
+daedalus,[DDW-541] Updates voting minimum registration amount,https://github.com/input-output-hk/daedalus/pull/2354,2021-02-11T09:04:05Z,2021-02-11T09:04:13Z,0,1,MERGED
+daedalus,[VIT-895] Fix Catalyst Android app download link,https://github.com/input-output-hk/daedalus/pull/2353,2021-02-11T08:30:43Z,2021-02-11T08:30:58Z,0,1,MERGED
+daedalus,[DDW-149] Undelegating a wallet,https://github.com/input-output-hk/daedalus/pull/2351,2021-02-08T08:15:53Z,2021-02-19T15:48:41Z,43,59,MERGED
+daedalus,[DDW-553] Hardware Wallets - Force Public Key export,https://github.com/input-output-hk/daedalus/pull/2342,2021-02-05T16:26:00Z,2021-02-11T15:55:06Z,12,14,MERGED
+daedalus,[DDW-562] Fix the count of packed cardano-wallet logs,https://github.com/input-output-hk/daedalus/pull/2341,2021-02-05T14:30:18Z,2021-02-05T16:17:51Z,0,2,MERGED
+daedalus,[DDW-522] Display fee and deposit on transaction details and delegation modal,https://github.com/input-output-hk/daedalus/pull/2339,2021-02-04T08:44:17Z,2021-02-05T10:48:44Z,4,8,MERGED
+daedalus,[DDW-521] Display Transaction Metadata,https://github.com/input-output-hk/daedalus/pull/2338,2021-02-03T20:56:13Z,2021-02-05T12:38:45Z,10,16,MERGED
+daedalus,"[DDW-528] Spacing issues with ""i"" icon on ""Set password"" dialog",https://github.com/input-output-hk/daedalus/pull/2337,2021-02-03T14:37:48Z,2021-02-03T15:03:18Z,0,2,MERGED
+daedalus,"[DDW-533] Add ""Fix connection Issues"" link to the hardware wallet pairing dialog",https://github.com/input-output-hk/daedalus/pull/2336,2021-02-03T11:06:35Z,2021-02-03T15:18:12Z,0,10,MERGED
+daedalus,"[DDW-545] Remove step counter from the wallet restoration ""success"" dialog step",https://github.com/input-output-hk/daedalus/pull/2335,2021-02-03T10:01:25Z,2021-02-03T10:14:27Z,0,1,MERGED
+daedalus,[DDW-548] Update recovery phrase input placeholder,https://github.com/input-output-hk/daedalus/pull/2334,2021-02-02T22:00:03Z,2021-02-03T12:46:30Z,1,6,MERGED
+daedalus,[DDW-551] Adjust sorting on rewards screen,https://github.com/input-output-hk/daedalus/pull/2333,2021-02-02T21:13:42Z,2021-02-03T11:47:01Z,4,5,MERGED
+daedalus,[DDW-617][DDW-626] Update Catalyst voting registration text copy and fix registration issues,https://github.com/input-output-hk/daedalus/pull/2482,2021-03-27T12:10:49Z,2021-03-29T12:28:05Z,1,11,MERGED
+daedalus,"[DDW-616] Add ""slot_number"" to Catalyst voting registration transaction metadata",https://github.com/input-output-hk/daedalus/pull/2476,2021-03-24T13:00:18Z,2021-03-25T08:33:01Z,1,2,MERGED
+daedalus,[DDW-605] Display rewards address,https://github.com/input-output-hk/daedalus/pull/2475,2021-03-24T11:28:23Z,2021-03-31T18:55:37Z,5,31,MERGED
+daedalus,[DDW-606] Reveal / hide action improvements,https://github.com/input-output-hk/daedalus/pull/2473,2021-03-23T18:36:10Z,2021-03-26T16:31:18Z,6,13,MERGED
+daedalus,[DDW-618] Fix asset amount validation,https://github.com/input-output-hk/daedalus/pull/2472,2021-03-22T13:32:53Z,2021-06-28T12:57:47Z,9,12,MERGED
+daedalus,"[DDW-604] Improve receive screen's ""show used"" toggle UX",https://github.com/input-output-hk/daedalus/pull/2466,2021-03-18T14:04:58Z,2021-03-23T12:07:19Z,6,14,MERGED
+daedalus,[DDW-257] Set up Shelley cardano-node selfnode environment,https://github.com/input-output-hk/daedalus/pull/2462,2021-03-16T10:23:39Z,2021-03-19T18:55:09Z,5,47,MERGED
+daedalus,[DDW-601] Fix dropdown not appearing in the Stake Pools Settings screen,https://github.com/input-output-hk/daedalus/pull/2460,2021-03-15T21:07:23Z,2021-03-16T09:40:58Z,1,2,MERGED
+daedalus,[DDW-603] Enable pasting of wallet recovery phrase,https://github.com/input-output-hk/daedalus/pull/2459,2021-03-15T16:18:31Z,2021-04-22T14:55:33Z,12,52,MERGED
+daedalus,[DDW-600] Progress bar animation and positioning issues,https://github.com/input-output-hk/daedalus/pull/2458,2021-03-15T16:04:54Z,2021-03-18T18:22:18Z,3,10,MERGED
+daedalus,[DDW-593] Link style missing,https://github.com/input-output-hk/daedalus/pull/2456,2021-03-15T11:06:38Z,2021-03-15T12:28:18Z,1,7,MERGED
+daedalus,[DDW-593] Link style missing,https://github.com/input-output-hk/daedalus/pull/2453,2021-03-15T09:08:21Z,2021-03-15T10:11:53Z,3,4,MERGED
+daedalus,[DDW-580] Improve transactions history CSV export,https://github.com/input-output-hk/daedalus/pull/2451,2021-03-11T21:51:01Z,2021-03-22T19:17:23Z,8,24,MERGED
+daedalus,[DDW-582] Improve transaction error message for rewards only wallets,https://github.com/input-output-hk/daedalus/pull/2450,2021-03-11T16:38:32Z,2021-03-11T18:43:18Z,0,3,MERGED
+daedalus,[DDW-591] Fix delay on loading stake pool list after switching SMASH server,https://github.com/input-output-hk/daedalus/pull/2447,2021-03-10T15:13:40Z,2021-03-15T08:04:41Z,15,9,MERGED
+daedalus,[DDW-594] Enable sending of native tokens for hardware wallets,https://github.com/input-output-hk/daedalus/pull/2446,2021-03-09T13:13:23Z,2021-03-11T09:31:49Z,9,18,MERGED
+daedalus,[DDW-416] Add backdrop blur to some overlays/dialogs,https://github.com/input-output-hk/daedalus/pull/2431,2021-03-03T17:51:39Z,2021-03-09T14:30:39Z,8,16,MERGED
+daedalus,"[DDW-570] Update ""View wallet's public key"" feature",https://github.com/input-output-hk/daedalus/pull/2429,2021-03-03T16:26:52Z,2021-03-10T10:20:19Z,31,38,MERGED
+daedalus,"[DDW-566] Implement ""Voting registration is over"" screen",https://github.com/input-output-hk/daedalus/pull/2428,2021-03-03T12:28:44Z,2021-03-03T15:29:31Z,3,5,MERGED
+daedalus,[DDW-518] Tile view of stake pools ranked by rewards,https://github.com/input-output-hk/daedalus/pull/2426,2021-03-02T18:12:05Z,2021-03-08T17:37:41Z,28,29,MERGED
+daedalus,"[DDW-554] Show ""Loading Stake Pools"" anytime the pools are loading",https://github.com/input-output-hk/daedalus/pull/2424,2021-03-02T16:14:34Z,2021-03-05T13:42:23Z,7,7,MERGED
+daedalus,[DDW-589] Fix native tokens UI/UX issues,https://github.com/input-output-hk/daedalus/pull/2422,2021-03-02T10:43:04Z,2021-03-04T18:35:12Z,5,14,MERGED
+daedalus,[DDW-589] Fixes transaction fee calculation errors,https://github.com/input-output-hk/daedalus/pull/2421,2021-03-02T09:30:49Z,2021-03-02T10:36:16Z,1,2,MERGED
+daedalus,[DDW-558] Display the SMASH settings screen when the app is still syncing,https://github.com/input-output-hk/daedalus/pull/2418,2021-03-01T20:55:46Z,2021-03-04T17:03:22Z,6,13,MERGED
+daedalus,[DDW-665] Make the Wallets Dropdown agnostic,https://github.com/input-output-hk/daedalus/pull/2540,2021-04-29T16:50:15Z,2021-05-14T18:14:09Z,33,53,MERGED
+daedalus,[DDW-639] Fund5 voting registration with Ledger,https://github.com/input-output-hk/daedalus/pull/2538,2021-04-27T15:37:23Z,2021-07-06T12:45:37Z,0,26,MERGED
+daedalus,[DDW-656] Manually configurable decimal places for native tokens,https://github.com/input-output-hk/daedalus/pull/2533,2021-04-21T16:00:06Z,2021-04-29T14:25:36Z,25,52,MERGED
+daedalus,[DDW-657] Fix blank currency selection after updating to 4.0.5,https://github.com/input-output-hk/daedalus/pull/2529,2021-04-20T14:38:53Z,2021-04-20T19:10:15Z,0,3,MERGED
+daedalus,[DDW-651] Implement 'Voting registration unavailable' screen,https://github.com/input-output-hk/daedalus/pull/2518,2021-04-13T14:08:28Z,2021-04-13T14:47:13Z,0,1,MERGED
+daedalus,[DDW-645] Update react-polymorph and implement the search style variables,https://github.com/input-output-hk/daedalus/pull/2512,2021-04-08T15:06:41Z,2021-04-27T08:36:23Z,30,58,MERGED
+daedalus,"[DDW-453] Earned delegation rewards ""export CSV"" button update styles",https://github.com/input-output-hk/daedalus/pull/2509,2021-04-07T10:58:10Z,2021-04-09T12:45:50Z,1,5,MERGED
+daedalus,[DDW-595] Warn user when pasting an address of the same wallet,https://github.com/input-output-hk/daedalus/pull/2506,2021-04-05T06:50:30Z,2021-04-29T07:26:58Z,49,60,MERGED
+daedalus,[DDW-638] Handle empty strings in tx metadata,https://github.com/input-output-hk/daedalus/pull/2503,2021-04-02T14:59:27Z,2021-04-06T20:20:06Z,0,2,MERGED
+daedalus,"[DDW-613] Fix ""Send form"" fee calculation edge-cases",https://github.com/input-output-hk/daedalus/pull/2501,2021-04-02T11:48:33Z,2021-04-09T13:36:37Z,4,7,MERGED
+daedalus,[DDW-621] Improve currency Japanese translations,https://github.com/input-output-hk/daedalus/pull/2497,2021-04-01T12:49:01Z,2021-04-13T12:06:11Z,1,16,MERGED
+daedalus,[DDW-634] Update Catalyst Fund4 dates,https://github.com/input-output-hk/daedalus/pull/2495,2021-04-01T09:29:15Z,2021-04-02T07:56:17Z,0,4,MERGED
+daedalus,[DDW-667] Use token decimal places info from the cardano-wallet Api,https://github.com/input-output-hk/daedalus/pull/2577,2021-05-28T12:23:15Z,2021-05-29T12:23:02Z,4,3,MERGED
+daedalus,[DDW-686] Validate search for native tokens and conversion currency,https://github.com/input-output-hk/daedalus/pull/2570,2021-05-18T16:09:22Z,2021-05-21T16:36:30Z,5,7,MERGED
+daedalus,[DDW-684] Fix stake pools pop over description scrollbar,https://github.com/input-output-hk/daedalus/pull/2568,2021-05-17T12:28:33Z,2021-05-17T18:17:34Z,0,3,MERGED
+daedalus,[DDW-529] Verify HW wallet receiving address - Trezor,https://github.com/input-output-hk/daedalus/pull/2558,2021-05-10T13:01:13Z,2021-05-12T07:12:31Z,2,65,MERGED
+daedalus,[DDW-629] Fix external currencies not appearing when not connected,https://github.com/input-output-hk/daedalus/pull/2556,2021-05-07T17:44:20Z,2021-05-13T13:03:17Z,5,14,MERGED
+daedalus,[DDW-641] Include wallet names in dialog windows,https://github.com/input-output-hk/daedalus/pull/2552,2021-05-06T06:29:52Z,2021-05-14T17:50:00Z,38,40,MERGED
+daedalus,bugfix/WalletSummary story not rendering ,https://github.com/input-output-hk/daedalus/pull/2542,2021-05-01T00:52:51Z,2021-05-07T13:29:57Z,2,1,CLOSED
+daedalus,[DDW-708] Set up Fund5 voting registration,https://github.com/input-output-hk/daedalus/pull/2608,2021-06-29T13:31:21Z,2021-06-30T08:48:00Z,0,3,MERGED
+daedalus,[DDW-704] Updates the Fund5 registration start date,https://github.com/input-output-hk/daedalus/pull/2607,2021-06-29T11:39:05Z,2021-06-29T12:08:53Z,0,1,MERGED
+daedalus,[DDW-700] Share ICO public key,https://github.com/input-output-hk/daedalus/pull/2604,2021-06-22T09:39:12Z,2021-06-30T15:07:05Z,30,42,MERGED
+daedalus,Hide potential rewards from pool tooltip,https://github.com/input-output-hk/daedalus/pull/2598,2021-06-15T07:06:14Z,2021-08-27T07:23:31Z,6,1,CLOSED
+daedalus,[DDW-640] Fund6 voting registration with Trezor,https://github.com/input-output-hk/daedalus/pull/2596,2021-06-09T11:58:37Z,2021-07-06T12:45:40Z,0,9,CLOSED
+daedalus,[DDW-587] Implement expandable Token view,https://github.com/input-output-hk/daedalus/pull/2589,2021-06-04T16:50:05Z,2021-06-21T21:06:01Z,43,43,MERGED
+daedalus,"[DDW-698] Can't insert notes on ""Share Wallet Address"" dialog for software wallets",https://github.com/input-output-hk/daedalus/pull/2582,2021-06-03T09:40:59Z,2021-06-04T06:12:09Z,0,3,MERGED
+daedalus,[DDW-716] Implement static screens for signing dApp interaction transactions,https://github.com/input-output-hk/daedalus/pull/2626,2021-07-20T21:54:54Z,2021-09-13T06:46:00Z,57,76,MERGED
+daedalus,[DDW-706] Emptying wallet - warning,https://github.com/input-output-hk/daedalus/pull/2617,2021-07-08T19:25:55Z,2021-07-29T07:30:14Z,27,29,MERGED
+daedalus,[DDW-640] Fund5 voting registration with Trezor,https://github.com/input-output-hk/daedalus/pull/2615,2021-07-06T13:11:44Z,2021-07-06T13:41:36Z,0,37,MERGED
+daedalus,Fix TypeError: transactionAmount.plus is not a function on Wallets storybook,https://github.com/input-output-hk/daedalus/pull/2654,2021-08-26T02:06:07Z,2021-08-27T08:19:25Z,0,3,MERGED
+daedalus,[DDW-712] Alonzo countdown and fireworks,https://github.com/input-output-hk/daedalus/pull/2653,2021-08-25T14:28:49Z,2021-08-26T08:18:23Z,0,8,MERGED
+daedalus,"Bump cardano-wallet, cardano-node, and iohk-nix",https://github.com/input-output-hk/daedalus/pull/2650,2021-08-20T20:14:07Z,2021-08-27T15:27:36Z,0,8,MERGED
+daedalus,[DDW-728] Stake pool ranking improvements,https://github.com/input-output-hk/daedalus/pull/2649,2021-08-16T20:49:25Z,2022-05-17T12:58:23Z,27,49,CLOSED
+daedalus,Add a new sidebar menu item with the overall wallet total,https://github.com/input-output-hk/daedalus/pull/2644,2021-08-13T08:11:52Z,2021-08-27T09:03:31Z,5,2,CLOSED
+daedalus,[DDW-731] Prepare Catalyst Fund6 voting registration,https://github.com/input-output-hk/daedalus/pull/2640,2021-08-11T07:27:19Z,2021-08-11T09:33:54Z,0,4,MERGED
+daedalus,[DDW-746] Wallet settings screen - no space at the bottom when scrolled down,https://github.com/input-output-hk/daedalus/pull/2686,2021-09-29T07:43:17Z,2021-10-08T06:55:58Z,4,16,MERGED
+daedalus,[DDW-744] Adjust font for Delegation Center info message,https://github.com/input-output-hk/daedalus/pull/2680,2021-09-21T09:54:53Z,2021-09-22T09:20:04Z,1,3,MERGED
+daedalus,[DDW-718] Add unpair wallet for HW,https://github.com/input-output-hk/daedalus/pull/2676,2021-09-16T13:40:53Z,2021-10-01T06:30:05Z,15,13,MERGED
+daedalus,[DDW-694] Implement the Tokens screen,https://github.com/input-output-hk/daedalus/pull/2671,2021-09-13T18:48:00Z,2021-10-08T10:45:16Z,11,66,MERGED
+daedalus,[DDW-786] Discreet mode - Create the TopBar icon,https://github.com/input-output-hk/daedalus/pull/2725,2021-10-27T18:47:50Z,2021-11-16T14:56:04Z,16,17,MERGED
+daedalus,[DDW-754] Update Catalyst links,https://github.com/input-output-hk/daedalus/pull/2721,2021-10-26T08:43:11Z,2021-11-04T08:33:18Z,3,24,MERGED
+daedalus,[DDW-751] Fix issues related to minimum screen size,https://github.com/input-output-hk/daedalus/pull/2719,2021-10-21T10:29:47Z,2021-10-28T15:54:18Z,0,8,MERGED
+daedalus,"[DDW-772] Update ""Trezor Model T"" image",https://github.com/input-output-hk/daedalus/pull/2712,2021-10-18T14:34:31Z,2021-10-21T07:00:38Z,4,6,MERGED
+daedalus,[DDW-749] Remove Alonzo tada icon and countdown screen,https://github.com/input-output-hk/daedalus/pull/2708,2021-10-14T06:50:42Z,2021-10-18T14:55:19Z,5,15,MERGED
+daedalus,[DDW-694] Fix token toggle,https://github.com/input-output-hk/daedalus/pull/2701,2021-10-11T11:13:25Z,2021-10-11T12:54:39Z,0,2,MERGED
+daedalus,[DDW-694] fix token toggle,https://github.com/input-output-hk/daedalus/pull/2700,2021-10-11T10:59:45Z,2021-10-11T11:05:34Z,0,69,CLOSED
+daedalus,[DDE-755] Fix DAPP static screens text,https://github.com/input-output-hk/daedalus/pull/2693,2021-10-06T13:42:11Z,2021-10-07T08:48:02Z,0,3,MERGED
+daedalus,[DDW-862] Enable dynamic RTS flags setting,https://github.com/input-output-hk/daedalus/pull/2758,2021-11-26T16:35:06Z,2022-01-21T10:21:08Z,12,22,MERGED
+daedalus,[DDW-811] [DEBT] - Checkmark alignment on react-polymorph Checkbox.,https://github.com/input-output-hk/daedalus/pull/2751,2021-11-19T19:58:59Z,2021-12-03T10:49:51Z,1,2,MERGED
+daedalus,[DDW-814] Discreet mode - hide sensitive information,https://github.com/input-output-hk/daedalus/pull/2742,2021-11-12T20:04:13Z,2021-11-26T17:35:04Z,27,25,MERGED
+daedalus,[DDW-787] Discreet mode - Implement the Settings option,https://github.com/input-output-hk/daedalus/pull/2740,2021-11-11T17:55:05Z,2021-11-29T11:54:16Z,20,42,MERGED
+daedalus,[DDW-759] Over-saturation warning,https://github.com/input-output-hk/daedalus/pull/2733,2021-11-05T09:24:59Z,2021-11-09T10:57:21Z,4,22,MERGED
+daedalus,[DDW-794] Implement the Catalysts Fund7 screen,https://github.com/input-output-hk/daedalus/pull/2732,2021-11-03T20:22:03Z,2021-11-10T07:52:25Z,40,50,MERGED
+daedalus,[DDW-736] Fix PopOver click behavior,https://github.com/input-output-hk/daedalus/pull/2730,2021-11-01T17:56:39Z,2021-11-03T11:50:41Z,11,3,CLOSED
+daedalus,[DDW-860] Implement new Send screen,https://github.com/input-output-hk/daedalus/pull/2791,2021-12-20T13:45:04Z,2022-01-24T16:36:09Z,25,21,MERGED
+daedalus,[DDW-861] Implement new token picker,https://github.com/input-output-hk/daedalus/pull/2787,2021-12-15T18:55:24Z,2022-01-21T13:56:39Z,56,83,MERGED
+daedalus,[DDW-827] Show helpful message when trying to empty wallet containing native tokens,https://github.com/input-output-hk/daedalus/pull/2783,2021-12-10T13:58:58Z,2022-02-23T11:14:47Z,18,57,MERGED
+daedalus,[DDW-742] Fix receiver address validation (disallow rewards address),https://github.com/input-output-hk/daedalus/pull/2781,2021-12-09T16:46:31Z,2021-12-30T13:45:55Z,1,15,MERGED
+daedalus,[DDW-741] Implement Wallet sorting,https://github.com/input-output-hk/daedalus/pull/2775,2021-12-06T17:58:42Z,2022-01-21T14:27:51Z,47,20,MERGED
+daedalus,[DDW-796] Implement catalyst state snapshot phase,https://github.com/input-output-hk/daedalus/pull/2771,2021-12-03T13:14:56Z,2021-12-08T17:27:11Z,10,22,MERGED
+daedalus,[DDW-854] Improve startup and shutdown messages,https://github.com/input-output-hk/daedalus/pull/2770,2021-12-02T18:59:35Z,2021-12-09T14:04:59Z,12,16,MERGED
+daedalus,[DDW-683] Prevent stake pools list reloading when slide didn't change position,https://github.com/input-output-hk/daedalus/pull/2766,2021-12-01T10:57:43Z,2021-12-03T07:06:19Z,2,4,MERGED
+daedalus,[DDW-920] Reduce the RAM threshold for RTS mode recommendation,https://github.com/input-output-hk/daedalus/pull/2846,2022-01-31T12:48:35Z,2022-01-31T14:37:08Z,0,2,MERGED
+daedalus,[DDW-920] RTS flags UI/UX improvements,https://github.com/input-output-hk/daedalus/pull/2842,2022-01-27T12:19:39Z,2022-01-29T08:40:10Z,17,20,MERGED
+daedalus,[DDW-918] Update blockchain verification progress,https://github.com/input-output-hk/daedalus/pull/2840,2022-01-26T12:47:58Z,2022-01-28T22:23:26Z,0,5,MERGED
+daedalus,[DDW-881] Enhance logic for updating menus,https://github.com/input-output-hk/daedalus/pull/2838,2022-01-25T02:32:13Z,2022-02-08T16:59:47Z,18,41,MERGED
+daedalus,[DDW-592] Stake pool list consistency,https://github.com/input-output-hk/daedalus/pull/2837,2022-01-24T18:42:02Z,2022-02-08T19:10:16Z,2,3,MERGED
+daedalus,[DDW-916] Update second message on the initial screen to in include part regarding the waiting time,https://github.com/input-output-hk/daedalus/pull/2831,2022-01-20T20:29:32Z,2022-01-21T10:09:37Z,2,9,MERGED
+daedalus,[DDW-918] Update blockchain verification progress,https://github.com/input-output-hk/daedalus/pull/2830,2022-01-20T19:53:30Z,2022-01-28T15:29:26Z,5,2,CLOSED
+daedalus,[DDW-916] Change the message for syncing the blockchain,https://github.com/input-output-hk/daedalus/pull/2827,2022-01-20T10:10:27Z,2022-01-20T19:22:33Z,2,4,MERGED
+daedalus,Display ASCII name if no metadata name is available,https://github.com/input-output-hk/daedalus/pull/2821,2022-01-19T06:11:56Z,2023-05-06T16:49:07Z,0,4,CLOSED
+daedalus,[DDW-737] Unify CPU info in diagnostics dialog,https://github.com/input-output-hk/daedalus/pull/2818,2022-01-17T10:35:44Z,2022-01-21T15:54:20Z,5,10,MERGED
+daedalus,[DDW-844] Fix redeem ITN rewards wallet dropdown / introduce disabled state to the Select component,https://github.com/input-output-hk/daedalus/pull/2816,2022-01-14T17:45:42Z,2022-02-10T14:25:18Z,6,9,MERGED
+daedalus,[DDW-892] Use fresh locale while rebuilding the application menu,https://github.com/input-output-hk/daedalus/pull/2813,2022-01-13T13:18:56Z,2022-01-14T13:32:25Z,1,5,MERGED
+daedalus,[DDW-870] Update the team member list,https://github.com/input-output-hk/daedalus/pull/2805,2022-01-07T14:40:24Z,2022-01-21T20:43:26Z,2,7,MERGED
+daedalus,[DDW-614] Show unspent ADA amount in rewards table,https://github.com/input-output-hk/daedalus/pull/2803,2022-01-03T17:28:02Z,2022-02-21T14:30:49Z,32,44,MERGED
+daedalus,[DDW-966] Improve RTS splash message,https://github.com/input-output-hk/daedalus/pull/2901,2022-02-28T15:10:53Z,2022-03-08T13:44:16Z,3,9,MERGED
+daedalus,[DDW-722] Hardware wallet Ledger Nano S - Windows pairing issue,https://github.com/input-output-hk/daedalus/pull/2900,2022-02-25T19:41:58Z,2022-04-28T07:44:42Z,72,36,MERGED
+daedalus,"[DDW-994] [BUG] Fix the ""gap"" between ""Stake Pool View"" options in Mainnet.",https://github.com/input-output-hk/daedalus/pull/2899,2022-02-25T15:13:12Z,2022-02-28T15:56:42Z,0,2,MERGED
+daedalus,[DDW-982] Ensure uppercase stake pool tickers,https://github.com/input-output-hk/daedalus/pull/2898,2022-02-24T21:38:31Z,2022-03-02T08:14:59Z,3,3,MERGED
+daedalus,[DDW-987] Debug the main process,https://github.com/input-output-hk/daedalus/pull/2893,2022-02-22T20:04:01Z,2022-02-23T19:31:22Z,2,8,MERGED
+daedalus,DDW-981 Fix incorrect design of disabled inputs,https://github.com/input-output-hk/daedalus/pull/2891,2022-02-21T14:27:32Z,2022-02-22T10:48:23Z,3,5,MERGED
+daedalus,[DDW-984] Fix storybook Daedalus menu (theme + language selection),https://github.com/input-output-hk/daedalus/pull/2886,2022-02-18T17:41:18Z,2022-02-21T08:13:45Z,1,4,MERGED
+daedalus,[DDW-941] / [DDW-938] Fix reward CSV export issues,https://github.com/input-output-hk/daedalus/pull/2885,2022-02-18T17:10:21Z,2022-03-02T08:16:25Z,10,8,MERGED
+daedalus,[DDW-957] Fix random Buildkite failures and improve CI,https://github.com/input-output-hk/daedalus/pull/2884,2022-02-18T15:22:23Z,2022-03-04T13:57:24Z,5,27,MERGED
+daedalus,[DDW-983][BUG] - Fix the RAM Splash Screen | Main UI overlap,https://github.com/input-output-hk/daedalus/pull/2881,2022-02-17T15:58:25Z,2022-02-18T08:53:06Z,2,2,MERGED
+daedalus,[DDW-902] Add explicit states POC for discreet mode,https://github.com/input-output-hk/daedalus/pull/2878,2022-02-16T18:22:53Z,2023-06-20T12:03:34Z,0,1,CLOSED
+daedalus,[DDW-964] Showing progress of all three sync types at once on loading screen,https://github.com/input-output-hk/daedalus/pull/2877,2022-02-15T00:52:01Z,2022-02-21T11:39:28Z,8,17,MERGED
+daedalus,[DDW-939] Fix Stake Pools tooltip z-index,https://github.com/input-output-hk/daedalus/pull/2863,2022-02-07T18:57:48Z,2022-02-15T20:23:54Z,0,5,MERGED
+daedalus,[DDW-932] Update color of secondary text action in redeem rewards dialogs,https://github.com/input-output-hk/daedalus/pull/2861,2022-02-05T00:05:07Z,2022-02-08T17:09:20Z,2,7,MERGED
+daedalus,[DDW-926] Improve error handling for incorrect passphrase / incorrect hardware wallet device,https://github.com/input-output-hk/daedalus/pull/2860,2022-02-04T13:39:23Z,2022-05-12T17:37:48Z,20,34,MERGED
+daedalus,[DDW-933] Send Screen - part of UI/UX issues,https://github.com/input-output-hk/daedalus/pull/2859,2022-02-04T12:18:42Z,2022-02-09T08:26:14Z,7,9,MERGED
+daedalus,[DDW-675] Catalyst dynamic content,https://github.com/input-output-hk/daedalus/pull/2856,2022-02-03T22:51:32Z,2022-02-15T19:07:18Z,12,29,MERGED
+daedalus,[DDW-844] Override default font-size for all links,https://github.com/input-output-hk/daedalus/pull/2850,2022-02-01T16:50:10Z,2022-02-08T17:14:21Z,1,4,MERGED
+daedalus,[DDW-920] Missing Japanese translations for RTS flags,https://github.com/input-output-hk/daedalus/pull/2848,2022-02-01T13:30:55Z,2022-02-01T14:33:16Z,0,1,MERGED
+daedalus,[DDW-852] Improve Stake Pools list view attention,https://github.com/input-output-hk/daedalus/pull/2847,2022-02-01T12:41:37Z,2022-02-14T17:10:37Z,14,9,MERGED
+daedalus,[DDW-1062] Showcase filtering `Daedalus.json` logs with `jq`,https://github.com/input-output-hk/daedalus/pull/2939,2022-03-30T13:59:49Z,2022-05-18T07:43:19Z,2,2,MERGED
+daedalus,[DDW-1028] Hover tooltips for menu,https://github.com/input-output-hk/daedalus/pull/2938,2022-03-30T11:46:10Z,2022-04-19T15:16:27Z,13,11,MERGED
+daedalus,[DDW-1040] Tooltips on dialogs hidden on hover,https://github.com/input-output-hk/daedalus/pull/2934,2022-03-25T13:47:30Z,2022-04-13T18:30:36Z,9,20,MERGED
+daedalus,"[DDW-809] Analytics - part 1 - analytics opt-in, settings and unique user ID generation",https://github.com/input-output-hk/daedalus/pull/2927,2022-03-21T12:44:03Z,2022-09-21T12:14:12Z,37,96,MERGED
+daedalus,[DDW-985] Missing character when copying address from PDF,https://github.com/input-output-hk/daedalus/pull/2925,2022-03-17T09:06:55Z,2022-03-22T19:23:00Z,0,5,MERGED
+daedalus,[DDW-952] Improve UI regarding the Hardware Wallet public key export error,https://github.com/input-output-hk/daedalus/pull/2922,2022-03-14T13:37:40Z,2022-03-25T16:19:31Z,0,3,MERGED
+daedalus,[DDW-992] Fix position of popup on syncing screen,https://github.com/input-output-hk/daedalus/pull/2921,2022-03-14T11:00:38Z,2022-03-25T16:25:25Z,6,4,MERGED
+daedalus,[DDW-923] Stake pool list table view adjustments,https://github.com/input-output-hk/daedalus/pull/2920,2022-03-10T23:16:21Z,2022-04-22T14:53:11Z,21,14,MERGED
+daedalus,[DDW-1007] [BUG] Fix wrong message when updating min ada required,https://github.com/input-output-hk/daedalus/pull/2918,2022-03-09T20:09:35Z,2022-03-11T15:44:49Z,0,3,MERGED
+daedalus,[DDW-1011] fix stake pool list view overlapping news feed,https://github.com/input-output-hk/daedalus/pull/2917,2022-03-09T15:34:40Z,2022-03-22T08:15:19Z,5,9,MERGED
+daedalus,[DDW-927] Restore opacity for search icon in focus,https://github.com/input-output-hk/daedalus/pull/2909,2022-03-07T17:10:36Z,2022-03-17T08:38:48Z,19,11,MERGED
+daedalus,[DDW-844] Fix redeem ITN rewards wallet dropdown / introduce disabled state to the Select component,https://github.com/input-output-hk/daedalus/pull/2907,2022-03-04T08:43:13Z,2022-03-11T15:15:14Z,6,8,MERGED
+daedalus,[DDW-970] Prevent creation of new wallet during address verification,https://github.com/input-output-hk/daedalus/pull/2906,2022-03-03T21:15:21Z,2022-05-20T08:20:58Z,16,24,MERGED
+daedalus,[DDW-911]: Fix warning sign displayed when recommend decimals is zero,https://github.com/input-output-hk/daedalus/pull/2905,2022-03-03T15:09:23Z,2022-03-11T14:44:22Z,14,9,MERGED
+daedalus,[DDW-942] Design ASCII display for when a token doesn't have a name,https://github.com/input-output-hk/daedalus/pull/2904,2022-03-03T14:35:11Z,2022-03-21T14:48:51Z,9,7,MERGED
+daedalus,[DDW-936] Fixes discreet tooltip appearing behind loading overlay,https://github.com/input-output-hk/daedalus/pull/2902,2022-03-01T14:51:29Z,2022-03-04T14:32:54Z,0,2,MERGED
+daedalus,[DDW-1081] Publish selfnode installers for all 3 platforms,https://github.com/input-output-hk/daedalus/pull/2971,2022-04-27T14:57:13Z,2022-05-18T08:01:17Z,4,11,MERGED
+daedalus,[DDW-1088] Fix no progress shown on loading screen on Windows,https://github.com/input-output-hk/daedalus/pull/2967,2022-04-21T21:45:14Z,2022-04-28T08:05:05Z,14,14,MERGED
+daedalus,[DDW-1086] Fix phrasing of insufficient funds for tokens message,https://github.com/input-output-hk/daedalus/pull/2966,2022-04-20T17:58:02Z,2022-05-17T11:27:54Z,3,11,MERGED
+daedalus,[DDW-1039] Add the `marlowe_pioneers` installers,https://github.com/input-output-hk/daedalus/pull/2949,2022-04-06T11:38:18Z,2023-06-27T10:36:25Z,7,43,CLOSED
+daedalus,[DDW-1014]: fix stake pool search paddings,https://github.com/input-output-hk/daedalus/pull/2945,2022-04-01T18:08:18Z,2022-04-13T18:24:33Z,0,6,MERGED
+daedalus,[DDW-1017] Fix margin for dialogs content and token table header,https://github.com/input-output-hk/daedalus/pull/2944,2022-04-01T11:41:33Z,2022-04-12T15:29:02Z,9,9,MERGED
+daedalus,[DDW-409] New mnemonic input,https://github.com/input-output-hk/daedalus/pull/2979,2022-05-12T15:13:03Z,2022-08-10T13:07:55Z,25,53,MERGED
+daedalus,[DDW-1083] Build Daedalus with Nix flakes,https://github.com/input-output-hk/daedalus/pull/3008,2022-07-06T12:21:59Z,2023-05-11T09:39:48Z,4,105,MERGED
+daedalus,[DDW-1130] Fix blank screen when opening ITN rewards,https://github.com/input-output-hk/daedalus/pull/3030,2022-08-30T13:17:17Z,2022-08-31T09:02:08Z,0,3,MERGED
+daedalus,[DDW-1127] New Yarn scripts to enter `nix-shell`s for new test envs,https://github.com/input-output-hk/daedalus/pull/3027,2022-08-22T11:44:59Z,2022-08-22T12:04:56Z,0,1,MERGED
+daedalus,[DDW-1152] Fix general stories,https://github.com/input-output-hk/daedalus/pull/3064,2022-10-19T11:26:00Z,2022-10-26T12:36:32Z,4,8,MERGED
+daedalus,[DDW-1143] Fix languages stories,https://github.com/input-output-hk/daedalus/pull/3063,2022-10-18T10:11:24Z,2022-10-24T09:17:45Z,7,11,MERGED
+daedalus,[DDW-1142] Fix the locale passed to the stories,https://github.com/input-output-hk/daedalus/pull/3062,2022-10-18T09:58:49Z,2022-10-19T07:34:31Z,1,4,MERGED
+daedalus,[DDW-1145] Fix for props in stories regarding Send component,https://github.com/input-output-hk/daedalus/pull/3047,2022-10-12T22:04:36Z,2022-10-21T12:38:34Z,8,9,MERGED
+daedalus,[DDW-1137] Fix the storybook store to work with Languages components,https://github.com/input-output-hk/daedalus/pull/3043,2022-10-05T12:17:34Z,2022-10-18T12:03:09Z,9,8,CLOSED
+daedalus,[DDW-1142] Fix the locale passed to the stories,https://github.com/input-output-hk/daedalus/pull/3042,2022-10-04T12:32:19Z,2022-10-18T11:48:23Z,9,4,CLOSED
+daedalus,[DDW-1181] Remove date and results details from Catalyst page,https://github.com/input-output-hk/daedalus/pull/3096,2023-01-09T19:53:40Z,2023-06-15T08:28:43Z,1,6,CLOSED
+daedalus,[DDW-1180] Trigger Darwin builds manually,https://github.com/input-output-hk/daedalus/pull/3094,2023-01-03T16:58:17Z,2023-01-12T09:01:48Z,0,2,MERGED
+daedalus,[DDW-1190] Set decimal places to 2 when showing the sync percentage,https://github.com/input-output-hk/daedalus/pull/3106,2023-02-14T18:09:30Z,2023-03-27T14:26:18Z,2,4,MERGED
+daedalus,[DDW-1186] Shows 'To be defined' if date of the next fund is in the past,https://github.com/input-output-hk/daedalus/pull/3105,2023-02-14T15:54:12Z,2023-06-29T18:14:50Z,8,14,MERGED
+daedalus,[DDW-1220] Update cardano-node to 8.1.1 (via cardano-wallet),https://github.com/input-output-hk/daedalus/pull/3133,2023-06-26T10:59:41Z,2024-03-28T18:54:41Z,1,2,CLOSED
+daedalus,[DDW-1222] Catalyst UI improvements,https://github.com/input-output-hk/daedalus/pull/3136,2023-07-06T21:21:42Z,2023-07-11T12:57:17Z,9,12,MERGED
+daedalus,Restrict drep id format to cip 105,https://github.com/input-output-hk/daedalus/pull/3247,2024-11-28T16:16:09Z,2024-11-29T09:53:41Z,0,2,MERGED
+daedalus,fix: catch errors and inform user of the need to register voting rights [LW-11518],https://github.com/input-output-hk/daedalus/pull/3237,2024-11-11T18:00:50Z,2024-11-27T13:40:08Z,4,1,MERGED
+daedalus,fix: skip missing asset data,https://github.com/input-output-hk/daedalus/pull/3254,2024-12-03T13:33:30Z,2024-12-03T15:37:30Z,0,2,MERGED
+daedalus,changes for upgraded Cardano-node and Cardano-wallet to 10.2.1 and v2…,https://github.com/input-output-hk/daedalus/pull/3288,2025-08-06T13:10:22Z,2025-08-18T09:30:22Z,2,3,MERGED
+daedalus, docs: update CHANGELOG.md with URL changes for Project Catalyst ,https://github.com/input-output-hk/daedalus/pull/3287,2025-08-05T18:11:36Z,2025-08-07T11:01:55Z,1,1,MERGED
+daedalus,chore:Daedalus-Catalyst-Links-Update-to-new-Proposal-Platform,https://github.com/input-output-hk/daedalus/pull/3286,2025-08-01T15:08:23Z,2025-08-07T10:48:41Z,3,6,MERGED

@@ -1,0 +1,230 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+recharts,add: find yAxisWithNiceTicks and choose it over getAnyElementOfObject,https://github.com/recharts/recharts/pull/1509,2018-10-09T16:26:27Z,2018-10-10T02:24:32Z,1,1,MERGED
+recharts,Fix tree-shaking for Webpack,https://github.com/recharts/recharts/pull/1504,2018-10-05T16:27:29Z,2018-10-06T08:08:50Z,2,1,MERGED
+recharts,refactor clipPathId of Area,https://github.com/recharts/recharts/pull/1571,2018-11-19T21:34:52Z,2018-12-21T03:26:05Z,1,1,MERGED
+recharts,improve transition into larger datasets,https://github.com/recharts/recharts/pull/1568,2018-11-18T00:41:07Z,2018-12-21T03:22:49Z,0,1,MERGED
+recharts,Add lodash as a peer dependency instead of a dependency,https://github.com/recharts/recharts/pull/1641,2019-02-11T15:43:29Z,2019-02-14T00:44:49Z,2,1,CLOSED
+recharts,Adds cornerIsExternal prop to center rounded corner at radial bar edge,https://github.com/recharts/recharts/pull/1739,2019-05-17T00:52:42Z,2019-05-20T08:45:55Z,0,2,MERGED
+recharts,Fix BarChart's hover rectangle covering up data,https://github.com/recharts/recharts/pull/1811,2019-07-19T03:45:01Z,2019-08-08T12:29:44Z,2,1,CLOSED
+recharts,Add overflow to tooltip styles,https://github.com/recharts/recharts/pull/1844,2019-08-16T15:32:18Z,2019-10-16T03:38:40Z,1,1,CLOSED
+recharts,Adding Composed chart to rescaled charts,https://github.com/recharts/recharts/pull/1916,2019-10-21T18:55:49Z,2019-10-22T02:45:36Z,3,1,MERGED
+recharts,Allow tooltips to explicitly escape the viewBox,https://github.com/recharts/recharts/pull/1908,2019-10-17T18:19:57Z,2019-10-18T06:25:33Z,1,1,MERGED
+recharts,Avoid using lodash.max & lodash.min which doesn't accept number string,https://github.com/recharts/recharts/pull/1936,2019-11-08T15:24:02Z,2019-12-03T04:10:36Z,2,1,CLOSED
+recharts,Fixes arc angles when `cornerIsExternal` is used.,https://github.com/recharts/recharts/pull/2039,2020-02-27T19:35:04Z,2020-03-10T08:01:17Z,0,1,MERGED
+recharts,Invert cartesian label position based on negative values,https://github.com/recharts/recharts/pull/2025,2020-02-10T14:13:42Z,2020-03-10T03:38:15Z,3,1,MERGED
+recharts,"fix usage of hooks in Tooltip, Label, Legend and Customized",https://github.com/recharts/recharts/pull/2013,2020-02-03T09:54:38Z,2020-03-10T03:33:21Z,2,4,MERGED
+recharts,Reverts previous change: now `positionAttrs` is again after `attrs`,https://github.com/recharts/recharts/pull/2074,2020-03-31T23:07:34Z,2020-04-16T03:41:29Z,0,1,MERGED
+recharts,fix: readd sign support for stacks,https://github.com/recharts/recharts/pull/2292,2020-09-29T22:29:57Z,2020-11-16T07:04:53Z,2,2,CLOSED
+recharts,chore: add missing backtick in CHANGELOG.md,https://github.com/recharts/recharts/pull/2364,2020-12-30T17:23:54Z,2020-12-31T15:50:23Z,0,1,MERGED
+recharts,Pass props to custom legend icon,https://github.com/recharts/recharts/pull/2358,2020-12-23T13:43:50Z,2020-12-24T09:15:32Z,1,3,MERGED
+recharts,Visibility of Radial Lines in Radar Charts,https://github.com/recharts/recharts/pull/2352,2020-12-22T08:54:58Z,2020-12-23T01:54:02Z,0,1,MERGED
+recharts,chore: upgrade d3,https://github.com/recharts/recharts/pull/2349,2020-12-21T13:24:49Z,2020-12-22T06:16:24Z,0,1,MERGED
+recharts,add maxLines prop to Text component,https://github.com/recharts/recharts/pull/2387,2021-01-12T17:12:07Z,2021-01-27T02:18:54Z,3,2,MERGED
+recharts,"Feature Request: Allow automated axis padding for ""gap"" and ""no-gap"" for barcharts with continuous axis",https://github.com/recharts/recharts/pull/2457,2021-02-22T09:54:19Z,2021-04-06T06:18:37Z,10,1,MERGED
+recharts,feat: extend clipping behavior for the allowDataOverflow property,https://github.com/recharts/recharts/pull/2488,2021-03-09T17:45:53Z,2023-05-30T03:07:48Z,11,11,CLOSED
+recharts,Fixes #2636 - ResponsiveContainer makes legend overlapping with chart when re-rendering,https://github.com/recharts/recharts/pull/2660,2021-09-19T03:09:02Z,2021-09-19T14:21:52Z,4,2,MERGED
+recharts,fix(build-umd): add webpack output options libraryTarget,https://github.com/recharts/recharts/pull/2684,2021-10-12T07:56:48Z,2021-10-15T03:18:15Z,0,3,MERGED
+recharts,Add ARIA1.2 attributes to the SvgElementPropKeys filter array,https://github.com/recharts/recharts/pull/2814,2022-04-04T19:25:50Z,2022-04-06T06:40:28Z,1,1,MERGED
+recharts,Take letter-spacing and font-size into consideration while rendering ticks,https://github.com/recharts/recharts/pull/2898,2022-07-11T04:25:11Z,2022-08-18T01:49:54Z,8,7,MERGED
+recharts,Add a sample to show how to fill a chart with patterns,https://github.com/recharts/recharts/pull/2955,2022-08-30T21:32:54Z,2022-12-08T02:58:50Z,5,1,MERGED
+recharts,Fix broken views in demo section,https://github.com/recharts/recharts/pull/2957,2022-09-01T06:10:12Z,2022-10-04T18:03:12Z,0,2,CLOSED
+recharts,[Feature] Allow reversing the tooltip direction,https://github.com/recharts/recharts/pull/3056,2022-11-11T17:06:30Z,2022-12-08T02:56:09Z,0,1,MERGED
+recharts,Adjust rounding to avoid hairline cracks in cartesian grid,https://github.com/recharts/recharts/pull/3075,2022-12-01T04:42:36Z,2022-12-08T02:52:02Z,2,1,MERGED
+recharts,fix: error bar overflow chart area,https://github.com/recharts/recharts/pull/3300,2023-01-29T03:04:56Z,2023-01-30T17:23:05Z,3,1,MERGED
+recharts,fix: remove deprecated alwaysShow,https://github.com/recharts/recharts/pull/3277,2023-01-24T13:57:57Z,2023-01-27T19:40:35Z,0,2,CLOSED
+recharts,feat: integrate docs project(WIP),https://github.com/recharts/recharts/pull/3276,2023-01-24T12:21:23Z,2023-01-26T05:15:10Z,17,37,CLOSED
+recharts,test: Fix log errors,https://github.com/recharts/recharts/pull/3269,2023-01-23T21:32:28Z,2023-01-24T17:02:40Z,5,6,MERGED
+recharts,fix: remove points attribute from SVGProps for Radar component for correct typing,https://github.com/recharts/recharts/pull/3265,2023-01-23T17:34:41Z,2023-01-23T18:21:15Z,2,1,MERGED
+recharts,[Jest Migration] add ts-jest as preset,https://github.com/recharts/recharts/pull/3173,2023-01-12T17:46:15Z,2023-01-12T20:51:13Z,0,2,MERGED
+recharts,ReactUtils – find by type – refactor using generic,https://github.com/recharts/recharts/pull/3152,2023-01-06T12:59:41Z,2023-01-09T17:10:10Z,10,3,MERGED
+recharts,test(jest): remove console error and warn from stdout in LogUtils and ReactUtils,https://github.com/recharts/recharts/pull/3142,2023-01-04T20:05:24Z,2023-01-04T20:17:09Z,0,1,MERGED
+recharts,"AreaChart: Respect baseValue of AreaChart, but allow override from Area",https://github.com/recharts/recharts/pull/3140,2023-01-04T14:21:03Z,2023-01-04T22:42:31Z,2,2,MERGED
+recharts,Rename BarChart.spec.jsx to BarChart.spec.tsx,https://github.com/recharts/recharts/pull/3130,2023-01-02T18:41:29Z,2023-01-02T19:29:43Z,0,1,MERGED
+recharts,Storybook: Create a doc for Line with a Table of all args.,https://github.com/recharts/recharts/pull/3404,2023-02-26T21:49:04Z,2023-03-01T21:16:53Z,9,11,MERGED
+recharts,fix: default min-width to 0 to override default auto behavior that breaks flexbox layouts,https://github.com/recharts/recharts/pull/3391,2023-02-22T06:17:12Z,2023-02-22T16:09:28Z,0,1,MERGED
+recharts,fix: originalDomain not set when getting default domain,https://github.com/recharts/recharts/pull/3378,2023-02-16T21:49:40Z,2023-02-16T22:04:06Z,0,1,MERGED
+recharts,docs(storybook): add test runner,https://github.com/recharts/recharts/pull/3374,2023-02-15T06:44:31Z,2023-02-17T00:23:25Z,5,5,MERGED
+recharts,Storybook: Add BarInBar story,https://github.com/recharts/recharts/pull/3371,2023-02-14T21:40:18Z,2023-02-15T02:52:24Z,3,1,MERGED
+recharts,Storybook: Enable docs,https://github.com/recharts/recharts/pull/3366,2023-02-14T08:13:01Z,2023-02-14T17:16:36Z,0,4,MERGED
+recharts,docs(storybook): test interaction using the play function,https://github.com/recharts/recharts/pull/3365,2023-02-14T03:59:29Z,2023-02-14T07:52:14Z,2,3,MERGED
+recharts,feat: add onResize callback fn,https://github.com/recharts/recharts/pull/3361,2023-02-13T19:16:45Z,2023-02-14T07:59:33Z,0,1,MERGED
+recharts,Storybook: Create an example for time series data on the XAxis with d3 Scale,https://github.com/recharts/recharts/pull/3360,2023-02-13T13:55:51Z,2023-02-13T18:21:40Z,0,3,MERGED
+recharts,"storybook: fix needle, add boxplot story",https://github.com/recharts/recharts/pull/3357,2023-02-11T00:51:22Z,2023-02-13T17:57:03Z,4,2,MERGED
+recharts,fix(storybook): remove ResponsiveContainer,https://github.com/recharts/recharts/pull/3350,2023-02-09T09:04:30Z,2023-02-10T16:21:43Z,3,1,CLOSED
+recharts,fix: NaN for Bar y and height attributes if data is null,https://github.com/recharts/recharts/pull/3346,2023-02-08T05:04:31Z,2023-02-08T21:50:24Z,3,3,MERGED
+recharts,Storybook: Fix stories disappearing due to percentage width,https://github.com/recharts/recharts/pull/3343,2023-02-07T18:48:35Z,2023-02-07T18:55:03Z,0,1,MERGED
+recharts,fix(storybook): center component layout,https://github.com/recharts/recharts/pull/3337,2023-02-07T08:20:28Z,2023-02-07T09:40:52Z,0,1,MERGED
+recharts,docs(storybook): add reference area stories,https://github.com/recharts/recharts/pull/3332,2023-02-06T11:06:17Z,2023-02-06T17:56:10Z,0,1,MERGED
+recharts,docs(storybook): Sankey,https://github.com/recharts/recharts/pull/3331,2023-02-06T10:51:05Z,2023-02-06T17:56:57Z,0,1,MERGED
+recharts,Storybook: Add Example section and remove redundant title from each story. ,https://github.com/recharts/recharts/pull/3329,2023-02-05T15:02:32Z,2023-02-06T00:15:57Z,0,9,MERGED
+recharts,"fix: filter out functions in filterProps, remove type from valid SVGElementPropKeys",https://github.com/recharts/recharts/pull/3327,2023-02-03T21:02:54Z,2023-02-06T19:47:10Z,5,6,MERGED
+recharts,fix: `CI` error,https://github.com/recharts/recharts/pull/3487,2023-03-27T06:17:32Z,2023-03-28T23:14:31Z,2,1,MERGED
+recharts,add arg table for ReferenceArea stories,https://github.com/recharts/recharts/pull/3486,2023-03-26T15:59:37Z,2023-04-07T16:22:18Z,4,2,MERGED
+recharts,Storybook Examples: Add all ScatterChart examples from the website to Storybook,https://github.com/recharts/recharts/pull/3456,2023-03-14T20:52:44Z,2023-03-15T00:27:29Z,1,1,MERGED
+recharts,"Revert ""Refactored: added default values in params for ReferenceAreaand ReferenceLine since default props is deprecated ",https://github.com/recharts/recharts/pull/3455,2023-03-14T06:21:36Z,2023-03-14T19:27:08Z,2,1,MERGED
+recharts,feat: Expose verticalAnchor on XAxis (and CartesianAxis),https://github.com/recharts/recharts/pull/3421,2023-03-03T15:04:57Z,2023-11-16T07:36:26Z,4,4,CLOSED
+recharts,Storybook: Create Welcome page,https://github.com/recharts/recharts/pull/3417,2023-03-01T22:59:43Z,2023-03-04T09:07:53Z,13,4,MERGED
+recharts,Storybook: add custom tooltip,https://github.com/recharts/recharts/pull/3561,2023-04-30T18:18:52Z,2023-05-11T23:15:44Z,15,6,MERGED
+recharts,fix(storybook): delay snapshot tests past animation time for consiste…,https://github.com/recharts/recharts/pull/3550,2023-04-24T01:21:03Z,2023-04-24T17:04:26Z,3,1,MERGED
+recharts,Add displayName for ResponsiveContainer,https://github.com/recharts/recharts/pull/3544,2023-04-21T08:46:28Z,2023-04-23T19:55:27Z,6,2,CLOSED
+recharts,Add storybook examples for charts with fill patterns,https://github.com/recharts/recharts/pull/3541,2023-04-17T23:22:05Z,2023-04-18T18:02:29Z,1,2,MERGED
+recharts,Address React syntax error message on Storybook welcome page,https://github.com/recharts/recharts/pull/3540,2023-04-17T21:03:14Z,2023-04-17T21:54:47Z,0,1,MERGED
+recharts,Storybook: add accessibility addon,https://github.com/recharts/recharts/pull/3535,2023-04-17T02:53:05Z,2023-04-17T10:28:57Z,1,2,MERGED
+recharts,Extend clip path configs - new PR,https://github.com/recharts/recharts/pull/3602,2023-05-23T22:41:57Z,2023-05-31T17:57:32Z,5,15,MERGED
+recharts,docs(storybook): add rectangle docs,https://github.com/recharts/recharts/pull/3599,2023-05-23T04:43:01Z,2023-05-23T15:28:32Z,2,1,MERGED
+recharts,fix: propagate className to CartesianAxis,https://github.com/recharts/recharts/pull/3592,2023-05-19T08:09:20Z,2023-05-21T23:56:15Z,1,4,MERGED
+recharts,Storybook: Show code for Area component via StorySource in Examples and via Source in API ,https://github.com/recharts/recharts/pull/3589,2023-05-17T20:57:23Z,2023-05-22T07:20:04Z,6,2,MERGED
+recharts,docs(storybook): add polygon story,https://github.com/recharts/recharts/pull/3586,2023-05-15T15:29:50Z,2023-05-15T16:17:35Z,2,1,MERGED
+recharts,docs(storybook): add dot stories,https://github.com/recharts/recharts/pull/3584,2023-05-13T01:17:18Z,2023-05-13T06:30:07Z,0,1,MERGED
+recharts,fix: sankey types - add expliciy return type for renderTooltip,https://github.com/recharts/recharts/pull/3581,2023-05-10T21:27:19Z,2023-05-10T21:54:04Z,0,2,MERGED
+recharts,Fix treemap tooltip crash,https://github.com/recharts/recharts/pull/3579,2023-05-10T16:19:26Z,2023-05-10T16:55:35Z,2,2,MERGED
+recharts,fix(#3468): fix tick visibility calculation not accounting for angle prop on XAxis,https://github.com/recharts/recharts/pull/3576,2023-05-09T12:42:08Z,2023-05-12T19:08:03Z,8,2,MERGED
+recharts,Storybook: Add Curve API stories and doc,https://github.com/recharts/recharts/pull/3566,2023-05-03T20:45:11Z,2023-05-04T08:45:05Z,0,1,MERGED
+recharts,fix(clipDot): proper defaults for r and strokeWidth when they aren't provided by the user,https://github.com/recharts/recharts/pull/3624,2023-06-15T16:39:14Z,2023-06-15T16:51:13Z,1,1,MERGED
+recharts,Move @storybook/addon-storysource to dev dependencies,https://github.com/recharts/recharts/pull/3623,2023-06-15T13:03:54Z,2023-06-15T14:30:41Z,1,2,MERGED
+recharts,"Support ""bumpX"" and ""bumpY"" curve types",https://github.com/recharts/recharts/pull/3617,2023-06-08T10:56:14Z,2023-06-09T09:36:44Z,2,2,MERGED
+recharts,fix: remove role attribute to bar layout,https://github.com/recharts/recharts/pull/3614,2023-06-06T23:50:23Z,2023-06-09T05:46:45Z,4,2,MERGED
+recharts,fix: check for stacked data in barchart errorbar dataPointFormatter,https://github.com/recharts/recharts/pull/3612,2023-06-04T20:04:09Z,2023-06-05T15:29:56Z,4,1,MERGED
+recharts,feat: add invariant check for when axisIds to not match between chart…,https://github.com/recharts/recharts/pull/3720,2023-08-29T01:11:27Z,2023-08-30T06:39:08Z,1,2,MERGED
+recharts,storybook: add multiple axes example,https://github.com/recharts/recharts/pull/3715,2023-08-22T17:31:13Z,2023-08-22T17:43:44Z,1,1,MERGED
+recharts,Storybook: Add customized `Legend` event for `RadialBar`,https://github.com/recharts/recharts/pull/3707,2023-08-17T03:12:37Z,2023-08-17T05:42:45Z,1,1,MERGED
+recharts,feat(Sankey): add prop to control sankey sorting,https://github.com/recharts/recharts/pull/3690,2023-08-08T07:03:06Z,2023-08-09T13:49:42Z,4,4,MERGED
+recharts,RadialBar: activeShape should work with Tooltip,https://github.com/recharts/recharts/pull/3803,2023-09-29T21:32:42Z,2023-10-05T09:28:03Z,7,7,MERGED
+recharts,"Add category area chart storybook, and tests and types for parseDomainOfCategoryAxis",https://github.com/recharts/recharts/pull/3802,2023-09-29T11:58:43Z,2023-09-30T19:21:22Z,5,2,MERGED
+recharts,"getStackedData - add tests, types, and storybook, and update docs",https://github.com/recharts/recharts/pull/3798,2023-09-28T12:34:21Z,2023-10-06T08:50:21Z,5,5,MERGED
+recharts,Funnel: activeShape should work with Tooltip,https://github.com/recharts/recharts/pull/3772,2023-09-21T12:59:51Z,2023-09-24T14:34:45Z,11,5,MERGED
+recharts,#3735 Add tooltip storybook,https://github.com/recharts/recharts/pull/3759,2023-09-15T12:18:17Z,2023-09-15T23:28:42Z,1,1,MERGED
+recharts,feat: Implement activeBar for Bar component,https://github.com/recharts/recharts/pull/3756,2023-09-13T13:24:21Z,2023-09-15T23:49:12Z,12,3,MERGED
+recharts,Cartesian grid changes,https://github.com/recharts/recharts/pull/3746,2023-09-08T16:24:00Z,2023-09-27T21:43:23Z,12,9,MERGED
+recharts,fix: remove invariant check for zAxisId for now,https://github.com/recharts/recharts/pull/3731,2023-09-06T17:45:06Z,2023-09-06T18:27:25Z,1,1,MERGED
+recharts,fix(Line): onClick for activeDot is incorrectly typed,https://github.com/recharts/recharts/pull/3923,2023-10-31T20:24:53Z,2023-10-31T23:56:26Z,5,1,MERGED
+recharts,Add AccessibilityLater button story with a button,https://github.com/recharts/recharts/pull/3917,2023-10-29T09:01:08Z,2023-10-30T17:16:09Z,3,2,MERGED
+recharts,Remove unit test that was comparing new/old reduce-css-calc,https://github.com/recharts/recharts/pull/3868,2023-10-16T13:15:40Z,2023-10-16T14:30:59Z,1,1,MERGED
+recharts,Tooltip perf test,https://github.com/recharts/recharts/pull/3867,2023-10-16T12:53:36Z,2023-10-16T20:44:59Z,2,2,MERGED
+recharts,removing support for es5,https://github.com/recharts/recharts/pull/3859,2023-10-15T08:37:12Z,2024-02-14T00:06:09Z,1,4,MERGED
+recharts,Remove offset from lines,https://github.com/recharts/recharts/pull/3854,2023-10-13T20:32:55Z,2023-10-13T22:49:59Z,2,1,MERGED
+recharts,Fix: bar width when there is only one data point,https://github.com/recharts/recharts/pull/3853,2023-10-13T19:42:01Z,2024-03-20T18:28:08Z,20,9,CLOSED
+recharts,Scatter: activeShape should work with Tooltip,https://github.com/recharts/recharts/pull/3839,2023-10-10T11:41:04Z,2023-10-13T16:23:54Z,4,2,MERGED
+recharts,Add reassure perf tester,https://github.com/recharts/recharts/pull/3829,2023-10-08T02:23:22Z,2023-10-09T07:46:34Z,3,1,MERGED
+recharts,Add storybook-addon-performance,https://github.com/recharts/recharts/pull/3826,2023-10-08T01:34:14Z,2023-10-13T09:18:04Z,9,2,MERGED
+recharts,Scatter: activeShape should work with Tooltip,https://github.com/recharts/recharts/pull/3821,2023-10-06T14:10:19Z,2023-10-09T21:12:08Z,3,3,CLOSED
+recharts,Pie: activeShape should work with Tooltip,https://github.com/recharts/recharts/pull/3818,2023-10-05T16:27:10Z,2023-10-10T07:54:35Z,7,9,MERGED
+recharts,Add margin to fix AreaChart storybook,https://github.com/recharts/recharts/pull/3805,2023-10-01T12:18:01Z,2023-10-01T13:31:40Z,0,1,MERGED
+recharts,Update Storybook story for Pie Chart with Needle example to accommodate resizable charts,https://github.com/recharts/recharts/pull/4002,2023-11-29T03:08:35Z,2023-11-30T07:09:04Z,0,1,MERGED
+recharts,Fix tooltip rendering crash when activeItem is undefined,https://github.com/recharts/recharts/pull/3982,2023-11-20T16:27:41Z,2023-11-20T19:27:00Z,1,1,MERGED
+recharts,Test funnel utils,https://github.com/recharts/recharts/pull/3977,2023-11-19T15:55:31Z,2023-11-25T18:56:24Z,5,5,MERGED
+recharts,Chore: test Global util + include coverage in test command,https://github.com/recharts/recharts/pull/3974,2023-11-19T12:49:40Z,2023-11-19T13:16:56Z,1,2,MERGED
+recharts,Add synchronised tooltip story,https://github.com/recharts/recharts/pull/3964,2023-11-15T11:08:12Z,2023-11-15T14:17:35Z,0,1,MERGED
+recharts,Reduce calls to `getStringSize` when calculating visible ticks (#2589),https://github.com/recharts/recharts/pull/3953,2023-11-12T16:57:26Z,2023-11-12T21:04:20Z,15,4,MERGED
+recharts,docs: add controlled brush storybook entry,https://github.com/recharts/recharts/pull/4032,2023-12-29T00:02:09Z,2023-12-29T00:21:37Z,0,1,MERGED
+recharts,feat(Bar): determine minPointSize by value via function prop,https://github.com/recharts/recharts/pull/4099,2024-01-30T23:43:48Z,2024-01-31T22:15:48Z,4,1,MERGED
+recharts,"chore: upgrade react smooth, remove translateStyle, remove prop-types as a peerDep",https://github.com/recharts/recharts/pull/4091,2024-01-29T06:31:06Z,2024-01-31T13:36:13Z,2,1,MERGED
+recharts,Add Cell story,https://github.com/recharts/recharts/pull/4088,2024-01-27T21:13:44Z,2024-01-28T08:15:41Z,1,2,MERGED
+recharts,Tooltip: Enable showing hidden graphicalItems in Tooltip,https://github.com/recharts/recharts/pull/4083,2024-01-25T22:41:29Z,2024-01-27T00:25:36Z,1,5,MERGED
+recharts,Storybook: Added Legend component story!,https://github.com/recharts/recharts/pull/4039,2024-01-08T11:31:25Z,2024-01-08T23:27:08Z,2,1,MERGED
+recharts,Sunburst chart,https://github.com/recharts/recharts/pull/4037,2024-01-04T03:00:35Z,2024-01-10T07:12:15Z,26,25,MERGED
+recharts,BrushY: A dummy vertical Brush for scaling/panning the YAxis,https://github.com/recharts/recharts/pull/4036,2024-01-03T06:05:57Z,2024-11-07T07:25:14Z,12,8,CLOSED
+recharts,Fix: allow Brush to be controlled with start and end index,https://github.com/recharts/recharts/pull/4034,2024-01-02T23:14:22Z,2024-01-03T18:22:44Z,3,4,MERGED
+recharts,fix: reference line should not render if its coord is NaN,https://github.com/recharts/recharts/pull/4244,2024-02-29T07:22:46Z,2024-02-29T08:19:00Z,2,2,MERGED
+recharts,Reading Legend payload from context: proof of concept,https://github.com/recharts/recharts/pull/4229,2024-02-23T23:26:33Z,2024-02-28T11:55:14Z,4,1,CLOSED
+recharts,"fix: compact render should read from context, fixes brush panorama",https://github.com/recharts/recharts/pull/4194,2024-02-16T05:00:10Z,2024-02-16T12:05:57Z,1,1,MERGED
+recharts,fix: activeBar shouldn't be true by default,https://github.com/recharts/recharts/pull/4139,2024-02-06T06:33:49Z,2024-02-08T23:04:32Z,4,1,MERGED
+recharts,Legend renders from Context,https://github.com/recharts/recharts/pull/4369,2024-03-31T13:58:48Z,2024-04-01T14:06:30Z,3,5,MERGED
+recharts,refactor: PolarGrid to context,https://github.com/recharts/recharts/pull/4357,2024-03-28T07:06:41Z,2024-03-28T15:10:39Z,1,1,MERGED
+recharts,refactor: PolarRadiusAxis to context,https://github.com/recharts/recharts/pull/4356,2024-03-27T22:04:31Z,2024-03-27T22:21:21Z,3,1,MERGED
+recharts,Refactor PolarAngleAxis to context,https://github.com/recharts/recharts/pull/4353,2024-03-27T07:13:55Z,2024-03-27T14:11:50Z,1,3,MERGED
+recharts,"Sankey renders Tooltip as a regular child, without special clone function",https://github.com/recharts/recharts/pull/4348,2024-03-26T13:08:12Z,2024-03-26T14:10:50Z,2,1,MERGED
+recharts,Legend bounding box update fix,https://github.com/recharts/recharts/pull/4287,2024-03-13T12:17:56Z,2024-03-14T15:57:36Z,4,4,MERGED
+recharts,Add stryker for mutation testing,https://github.com/recharts/recharts/pull/4277,2024-03-10T01:47:41Z,2024-03-10T23:24:04Z,3,1,MERGED
+recharts,Automatically adjust stepRatioScale to fix weired behaviour when calculating yAxis-domain,https://github.com/recharts/recharts/pull/4453,2024-04-24T20:17:47Z,2025-04-18T04:49:49Z,19,4,CLOSED
+recharts,fix(CartesianAxis): render the axis line when there are no ticks,https://github.com/recharts/recharts/pull/4433,2024-04-16T01:02:53Z,2024-04-18T17:02:44Z,2,1,MERGED
+recharts,Remove getItemByActiveIndex function and dependencies,https://github.com/recharts/recharts/pull/4428,2024-04-15T13:04:36Z,2024-04-15T16:11:13Z,4,3,MERGED
+recharts,feat(BarChart): support percentage for barSize. Fixes #3640,https://github.com/recharts/recharts/pull/4407,2024-04-09T07:42:00Z,2024-04-09T17:21:15Z,0,1,MERGED
+recharts,"Add stories to show tooltip, and active dot",https://github.com/recharts/recharts/pull/4402,2024-04-06T13:31:36Z,2024-04-08T00:43:34Z,2,1,MERGED
+recharts,feat(BarChart): support percentage for barSize. Fixes #3640,https://github.com/recharts/recharts/pull/4390,2024-04-04T13:38:22Z,2024-04-08T15:55:36Z,9,4,MERGED
+recharts,Add documents and tests of Treemap,https://github.com/recharts/recharts/pull/4584,2024-05-26T11:47:59Z,2024-05-26T14:07:34Z,2,3,MERGED
+recharts,Change anonymous functions to functions in XAxis and YAxis component,https://github.com/recharts/recharts/pull/4568,2024-05-22T22:44:52Z,2024-05-22T23:21:02Z,8,1,CLOSED
+recharts,getStoryArgsFromArgsTypesObject should allow falsy values as defaults,https://github.com/recharts/recharts/pull/4711,2024-06-29T23:02:47Z,2024-06-30T16:42:57Z,1,1,MERGED
+recharts,fix: clipDot setting fails to take effect if set as the only DotProp (3.x),https://github.com/recharts/recharts/pull/4678,2024-06-20T04:58:47Z,2024-06-20T13:13:45Z,2,1,MERGED
+recharts,fix: clipDot setting fails to take effect if set as the only DotProp,https://github.com/recharts/recharts/pull/4674,2024-06-18T18:36:35Z,2024-06-19T00:19:09Z,2,3,MERGED
+recharts,Consider null as 0 in stacked area chart with connectNulls (v3),https://github.com/recharts/recharts/pull/4663,2024-06-14T07:05:07Z,2024-06-14T08:15:05Z,1,3,MERGED
+recharts,Consider null as 0 in stacked area chart with connectNulls,https://github.com/recharts/recharts/pull/4656,2024-06-13T07:42:34Z,2024-09-02T01:17:59Z,7,2,CLOSED
+recharts,Axis scale selector now sets domain,https://github.com/recharts/recharts/pull/4630,2024-06-05T14:27:57Z,2024-06-05T14:44:49Z,2,4,MERGED
+recharts,Functions for parsing domain from user input and data,https://github.com/recharts/recharts/pull/4616,2024-06-02T01:22:37Z,2024-06-02T04:16:14Z,5,4,MERGED
+recharts,fix: do not clear coordinate on item or chart leave,https://github.com/recharts/recharts/pull/4782,2024-07-18T01:54:17Z,2024-07-18T04:51:19Z,4,2,MERGED
+recharts,refactor: move funnel tooltip coordinate and index to redux,https://github.com/recharts/recharts/pull/4768,2024-07-15T00:50:37Z,2024-07-15T13:03:11Z,3,1,MERGED
+recharts,Refresh axis stories,https://github.com/recharts/recharts/pull/4767,2024-07-14T13:36:34Z,2024-07-14T16:28:04Z,1,1,MERGED
+recharts,Fix: show all series data on tooltip when multiple X-Axis,https://github.com/recharts/recharts/pull/4758,2024-07-11T15:58:56Z,2024-11-07T07:28:29Z,9,2,CLOSED
+recharts,Avoid adding ellipsis if text does not overflow,https://github.com/recharts/recharts/pull/4743,2024-07-09T08:33:24Z,2024-07-12T15:42:41Z,7,2,MERGED
+recharts,Improve `Text` story,https://github.com/recharts/recharts/pull/4742,2024-07-09T08:32:48Z,2024-07-09T08:40:11Z,0,1,CLOSED
+recharts,Move treemap tooltip state to redux,https://github.com/recharts/recharts/pull/4734,2024-07-08T06:55:34Z,2024-07-09T05:24:05Z,6,4,MERGED
+recharts,fix(polar): set paddingAngle 0 when pie data length <= 1,https://github.com/recharts/recharts/pull/4725,2024-07-04T13:13:01Z,2024-07-04T17:58:31Z,9,2,MERGED
+recharts,Legend portal,https://github.com/recharts/recharts/pull/4947,2024-08-30T22:26:00Z,2024-09-03T05:23:16Z,3,2,MERGED
+recharts,docs(Pie): add storybook Pie entry with different stroke/fill cells,https://github.com/recharts/recharts/pull/4933,2024-08-27T22:43:53Z,2024-08-27T22:49:56Z,2,1,MERGED
+recharts,"refactor(Pie): move static functions out of class, add internal props add polargraphical item",https://github.com/recharts/recharts/pull/4899,2024-08-16T04:48:26Z,2024-08-16T05:13:48Z,2,3,MERGED
+recharts,fix(label): add dataKey to implicit label props,https://github.com/recharts/recharts/pull/5034,2024-09-24T00:35:05Z,2024-09-24T14:03:05Z,1,1,MERGED
+recharts,Update RadialBar and RadialBarChart tests and stories,https://github.com/recharts/recharts/pull/5032,2024-09-23T08:56:16Z,2024-09-23T14:08:29Z,1,2,MERGED
+recharts,Legend - Remove absolute when a user defined portal is passed,https://github.com/recharts/recharts/pull/4952,2024-09-03T06:06:04Z,2024-09-03T14:08:16Z,1,4,MERGED
+recharts,Add ranged data stories,https://github.com/recharts/recharts/pull/5187,2024-10-31T23:04:27Z,2024-11-01T00:24:04Z,2,2,MERGED
+recharts,fix: forwardRef to CategoricalChartWrapper from CategoricalChart,https://github.com/recharts/recharts/pull/5176,2024-10-30T06:28:14Z,2024-10-30T06:31:03Z,0,1,MERGED
+recharts,refactor: move sunburst chart tooltip state to redux,https://github.com/recharts/recharts/pull/5165,2024-10-29T06:21:34Z,2024-10-30T11:17:03Z,1,1,MERGED
+recharts,feat(CartesianGrid): add support for ry prop,https://github.com/recharts/recharts/pull/5104,2024-10-10T20:30:33Z,2024-10-11T16:08:21Z,1,1,MERGED
+recharts,feat(CartesianGrid): add support for ry prop,https://github.com/recharts/recharts/pull/5103,2024-10-10T20:23:37Z,2024-10-10T20:42:33Z,1,1,MERGED
+recharts,Preserve JSDoc Comments on 2.x,https://github.com/recharts/recharts/pull/5071,2024-10-02T14:27:03Z,2024-10-02T14:43:14Z,0,1,MERGED
+recharts,Preserve JSDoc Comments,https://github.com/recharts/recharts/pull/5068,2024-10-02T09:59:48Z,2024-10-02T14:08:15Z,7,1,MERGED
+recharts,Adds onContextMenu and onDoubleClick props for categorical chart #5254,https://github.com/recharts/recharts/pull/5255,2024-11-18T16:39:22Z,2024-11-19T15:01:47Z,8,1,MERGED
+recharts,docs: add custom cursor bar chart example,https://github.com/recharts/recharts/pull/5249,2024-11-15T06:19:00Z,2024-11-15T06:27:35Z,2,1,MERGED
+recharts,Add support for customizable radius per sector in Pie Chart,https://github.com/recharts/recharts/pull/5244,2024-11-13T15:08:00Z,2024-11-20T05:54:14Z,18,6,MERGED
+recharts,refactor/fix(ResponsiveContainer): remove display name and isElement checks,https://github.com/recharts/recharts/pull/5217,2024-11-07T07:10:24Z,2024-11-07T14:46:28Z,3,1,MERGED
+recharts,refactor(Sankey): move Sankey tooltip state to redux,https://github.com/recharts/recharts/pull/5214,2024-11-06T08:30:16Z,2024-11-07T14:47:47Z,4,2,MERGED
+recharts,Recharts Hook Inspector,https://github.com/recharts/recharts/pull/5198,2024-11-04T03:59:15Z,2024-11-04T05:41:52Z,2,2,MERGED
+recharts,Fix tooltip coordinate in Bar with shared=false,https://github.com/recharts/recharts/pull/5401,2024-12-28T07:39:02Z,2024-12-28T07:49:00Z,1,1,MERGED
+recharts,bugfix: Prevent classname to be overwritten within cartesian axis ticks,https://github.com/recharts/recharts/pull/5518,2025-01-31T05:39:29Z,2025-01-31T06:00:17Z,4,3,MERGED
+recharts,Add mouse crosshair,https://github.com/recharts/recharts/pull/5417,2025-01-04T07:46:02Z,2025-01-04T16:13:15Z,1,1,MERGED
+recharts,Root container state,https://github.com/recharts/recharts/pull/5416,2025-01-04T06:10:29Z,2025-01-04T06:42:45Z,1,5,MERGED
+recharts,Feat/add brush dy,https://github.com/recharts/recharts/pull/5600,2025-02-21T00:54:30Z,2025-02-24T06:09:11Z,2,3,MERGED
+recharts,#5458 Keep Tooltip within viewBox for negative offsets,https://github.com/recharts/recharts/pull/5571,2025-02-13T15:36:14Z,2025-02-14T15:49:43Z,11,2,MERGED
+recharts,Add new interval type `equidistantPreserveZeroStart`,https://github.com/recharts/recharts/pull/5617,2025-02-27T13:51:28Z,2025-04-02T19:11:42Z,5,1,CLOSED
+recharts,Feat/add brush dy,https://github.com/recharts/recharts/pull/5600,2025-02-21T00:54:30Z,2025-02-24T06:09:11Z,2,3,MERGED
+recharts,#5458 Keep Tooltip within viewBox for negative offsets,https://github.com/recharts/recharts/pull/5571,2025-02-13T15:36:14Z,2025-02-14T15:49:43Z,11,2,MERGED
+recharts,Fix: Update CartesianGrid component,https://github.com/recharts/recharts/pull/5692,2025-03-19T22:56:56Z,2025-03-20T16:17:14Z,1,2,MERGED
+recharts,fix(Area): normalize stackId to a string if a number is passed,https://github.com/recharts/recharts/pull/5688,2025-03-18T17:46:09Z,2025-03-18T22:32:35Z,1,1,MERGED
+recharts,Backport Line renderDots to include points object in the dotProps,https://github.com/recharts/recharts/pull/5657,2025-03-10T19:36:02Z,2025-03-10T22:04:23Z,2,6,MERGED
+recharts,Update bar chart double axis example to properly layout ticks and lines,https://github.com/recharts/recharts/pull/5799,2025-04-28T03:35:29Z,2025-04-28T04:55:42Z,1,1,MERGED
+recharts,"Export and document useChartWidth, useChartHeight",https://github.com/recharts/recharts/pull/5785,2025-04-23T12:56:51Z,2025-04-25T14:13:21Z,2,2,MERGED
+recharts,"Move resolveDefaultProps to a separate file, add docs and tests",https://github.com/recharts/recharts/pull/5771,2025-04-20T02:01:36Z,2025-04-20T06:30:13Z,2,1,MERGED
+recharts,Fix XAxis padding calculation,https://github.com/recharts/recharts/pull/5762,2025-04-16T23:29:24Z,2025-04-18T04:41:25Z,1,3,MERGED
+recharts,Fix XAxis padding calculation,https://github.com/recharts/recharts/pull/5759,2025-04-16T06:44:31Z,2025-04-16T22:08:43Z,4,3,MERGED
+recharts,Add support for responsive y-axis width,https://github.com/recharts/recharts/pull/5880,2025-05-29T18:29:43Z,2025-06-05T14:32:15Z,38,18,MERGED
+recharts,"fix: combine className in CartesianAxis, and edit assertion in xaxis spec test",https://github.com/recharts/recharts/pull/5859,2025-05-25T12:55:45Z,2025-05-26T14:28:22Z,9,2,MERGED
+recharts,fix: combine custom-tick-className and cartesian-axis-tick-value,https://github.com/recharts/recharts/pull/5840,2025-05-13T12:42:21Z,2025-05-15T17:19:37Z,3,1,MERGED
+recharts,"fix: show tooltip when custom content is passed, adjust tests and add storybook",https://github.com/recharts/recharts/pull/5826,2025-05-06T18:18:32Z,2025-05-06T23:34:53Z,2,3,MERGED
+recharts,Don't use categoricalDomain for time scale or custom scale ticks,https://github.com/recharts/recharts/pull/5815,2025-05-05T17:23:53Z,2025-09-09T00:55:07Z,3,1,CLOSED
+recharts,Replace lodash with native methods and es-toolkit,https://github.com/recharts/recharts/pull/5811,2025-05-03T13:51:15Z,2025-05-05T16:25:47Z,7,2,MERGED
+recharts,Add BarChart timeline example,https://github.com/recharts/recharts/pull/6036,2025-06-30T10:38:38Z,2025-06-30T14:25:14Z,2,1,MERGED
+recharts,Update hook inspector,https://github.com/recharts/recharts/pull/6035,2025-06-30T09:05:22Z,2025-06-30T17:31:31Z,7,15,MERGED
+recharts,fix: label not being rendered due to filterProps,https://github.com/recharts/recharts/pull/6018,2025-06-26T04:42:22Z,2025-06-26T17:33:45Z,3,1,MERGED
+recharts,Remove @storybook/addon-storysource plugin and replace with codePanel: true,https://github.com/recharts/recharts/pull/6002,2025-06-24T14:04:52Z,2025-06-24T15:16:58Z,4,1,MERGED
+recharts,Label reads viewBox from context when the parsed coordinates are unavailable in the parent component,https://github.com/recharts/recharts/pull/5987,2025-06-23T11:24:33Z,2025-06-23T14:05:21Z,4,1,MERGED
+recharts,Add null check for Area points type,https://github.com/recharts/recharts/pull/5912,2025-06-05T00:18:12Z,2025-06-05T04:14:07Z,4,2,MERGED
+recharts,feat: add symlog scale type and logarithmic example,https://github.com/recharts/recharts/pull/5911,2025-06-04T21:28:16Z,2025-06-04T22:45:24Z,2,1,MERGED
+recharts,Fix empty chart issue,https://github.com/recharts/recharts/pull/6161,2025-07-31T02:39:23Z,2025-07-31T04:02:17Z,3,3,MERGED
+recharts,Cartesian items use props.id to identify stacks instead of dataKey,https://github.com/recharts/recharts/pull/6124,2025-07-20T06:44:03Z,2025-07-20T14:58:44Z,6,5,MERGED
+recharts,Run test-vr in CI,https://github.com/recharts/recharts/pull/6121,2025-07-19T00:16:34Z,2025-07-19T06:39:39Z,12,25,MERGED
+recharts,#6080: Fix the ranged area chart hovering issue,https://github.com/recharts/recharts/pull/6116,2025-07-17T19:48:20Z,2025-07-18T23:28:36Z,3,1,MERGED
+recharts,"Add hook inspector documentation, put in all stories",https://github.com/recharts/recharts/pull/6059,2025-07-04T12:02:10Z,2025-07-05T14:56:02Z,7,35,MERGED
+recharts,Add useOffset and usePlotArea hooks,https://github.com/recharts/recharts/pull/6057,2025-07-04T07:41:43Z,2025-07-04T14:28:19Z,4,9,MERGED
+recharts,"Add more inspectors, and show offset + and plot area",https://github.com/recharts/recharts/pull/6046,2025-07-01T14:03:57Z,2025-07-01T14:21:51Z,3,10,MERGED
+recharts,fix: bound tooltip coordinates to chart container in index sync method,https://github.com/recharts/recharts/pull/6263,2025-08-30T12:44:36Z,2025-09-05T13:52:46Z,11,5,MERGED
+recharts,Add useMargin hook,https://github.com/recharts/recharts/pull/6224,2025-08-16T02:21:42Z,2025-08-16T04:37:21Z,5,4,MERGED
+recharts,fix: unnecessary line breaks in Bar labels,https://github.com/recharts/recharts/pull/6214,2025-08-14T08:15:06Z,2025-08-14T18:12:54Z,9,2,MERGED
+recharts,Add useXAxisDomain and useYAxisDomain hooks,https://github.com/recharts/recharts/pull/6201,2025-08-12T10:28:08Z,2025-08-12T13:47:26Z,4,4,MERGED
+recharts,docs: Add Trapezoid to Storybook,https://github.com/recharts/recharts/pull/6189,2025-08-06T20:25:52Z,2025-08-07T15:15:21Z,2,1,MERGED
+recharts,fix: merge defaultProps with element props for React 19 compatibility,https://github.com/recharts/recharts/pull/6173,2025-08-02T05:59:08Z,2025-08-03T16:18:33Z,5,2,MERGED
+recharts,"Add unit tests for website examples, update Label docs",https://github.com/recharts/recharts/pull/6389,2025-09-27T10:53:11Z,2025-09-28T03:38:28Z,4,7,MERGED
+recharts,Fix: scale tooltip coordinates during sync between different size charts,https://github.com/recharts/recharts/pull/6387,2025-09-26T15:12:12Z,2025-10-03T15:26:51Z,6,6,MERGED
+recharts,Mobile nav menu,https://github.com/recharts/recharts/pull/6366,2025-09-22T13:08:46Z,2025-09-22T13:57:20Z,5,14,MERGED
+recharts,config: enhance jsx-key ESLint rule for better IDE visibility,https://github.com/recharts/recharts/pull/6354,2025-09-20T06:45:19Z,2025-09-22T13:59:58Z,5,8,MERGED
+recharts,Optimize Bar component rendering when activeBar is falsy,https://github.com/recharts/recharts/pull/6290,2025-09-08T12:26:35Z,2025-09-08T15:50:46Z,5,1,MERGED
+recharts,Fix polar angle axis ticks text positions,https://github.com/recharts/recharts/pull/6276,2025-09-04T12:37:18Z,2025-09-05T06:27:12Z,6,2,MERGED
+recharts,Crosshair helper in storybook,https://github.com/recharts/recharts/pull/6273,2025-09-03T10:48:51Z,2025-09-03T14:27:31Z,4,9,MERGED

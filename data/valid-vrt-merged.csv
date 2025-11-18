@@ -4437,3 +4437,501 @@ ADDED:src/components/Badge/Badge.tsx
 ADDED:src/components/Badge/__snapshots__/Badge.test.tsx.snap
 ADDED:src/components/Badge/index.ts
 MODIFIED:src/index.ts"
+Improve muis prayers banner UI,"oh no, it's only hardcoded for storybook and not the actual thing, because its using the site's `--color-brand-interaction-hover` . Only wanted to overwrite for storybook for visual checks. 
+
+for example in this [storybook](https://www.chromatic.com/test?appId=665439911775ce21bf8b8fb4&id=67c0ecb054808d3cdac3dde1), it's using the site's config color.
+
+<img width=""1161"" alt=""Screenshot 2025-02-28 at 12 00 45 PM"" src=""https://github.com/user-attachments/assets/06f46020-32e7-46ed-a4e9-b0d1ad7443f2"" />
+
+the hardcoded color is the background of the banner, because not sure how other sites will use it. Also wanna avoid adding a new site config color just for this component since theres no foreseable use cases",https://github.com/opengovsg/isomer/pull/1144#discussion_r1974730734,12,1,15,11,1,2025-02-27T11:24:46Z,2025-02-28T06:29:59Z,MERGED,4,94,43,"MODIFIED:apps/studio/public/assets/css/preview-tw.css
+MODIFIED:packages/components/src/templates/next/components/complex/DynamicDataBanner/DynamicDataBanner.stories.tsx
+MODIFIED:packages/components/src/templates/next/components/complex/DynamicDataBanner/DynamicDataBannerClient.tsx
+MODIFIED:packages/components/src/templates/next/components/internal/SearchableTable/SearchableTableClient.tsx"
+feat(input-message): add component tokens and deprecate --calcite-input-message-spacing-value,"> Looking at the Chromatic, this introduces some spacing changes that should be looked at, for example: https://www.chromatic.com/test?appId=6266d45509d7eb004aa254fb&id=67da0165ade786a6a55044d8
+
+@macandcheese I think this was fixed here: [ab42f8b](https://github.com/Esri/calcite-design-system/pull/11759/commits/ab42f8bbd40a9f0737f1381b0182dd3cc18dcae6)
+
+
+
+",https://github.com/Esri/calcite-design-system/pull/11759#issuecomment-2738116384,8,0,11,5,0,2025-03-17T20:45:38Z,2025-03-27T18:34:24Z,MERGED,5,53,9,"MODIFIED:packages/calcite-components/src/components/input-message/input-message.e2e.ts
+MODIFIED:packages/calcite-components/src/components/input-message/input-message.scss
+ADDED:packages/calcite-components/src/components/input-message/resources.ts
+MODIFIED:packages/calcite-components/src/custom-theme.stories.ts
+ADDED:packages/calcite-components/src/custom-theme/input-message.ts"
+Fix readonly canvas & templates canvas glitch,"@cezudas added a ticket for it:
+https://linear.app/openops/issue/OPS-1438/add-story-for-interactive-canvas
+
+> lgtm! I have only one request: let's keep the FlowCanvas story up-to-date with one more story. Now the ""Default"" story showcases the ""readOnly"" FlowCanvas. WDYT?
+> 
+> https://www.chromatic.com/test?appId=67d165c65ae89f986943666d&id=67e184e5b5c0e0a201cbbd1b
+
+",https://github.com/openops-cloud/openops/pull/286#issuecomment-2750462330,1,0,2,3,0,2025-03-24T16:07:58Z,2025-03-25T08:27:34Z,MERGED,7,111,50,"MODIFIED:packages/react-ui/src/app/features/builder/index.tsx
+MODIFIED:packages/ui-components/src/components/flow-canvas/canvas-context.test.tsx
+MODIFIED:packages/ui-components/src/components/flow-canvas/canvas-context.tsx
+MODIFIED:packages/ui-components/src/components/flow-canvas/canvas-controls/canvas-controls.tsx
+MODIFIED:packages/ui-components/src/components/flow-canvas/flow-canvas.tsx
+MODIFIED:packages/ui-components/src/components/flow-template/template-canvas.tsx
+MODIFIED:packages/ui-components/src/stories/flow-canvas/flow-canvas.stories.tsx"
+DT-2818 - add icons and fix some dark styles for quickstart guide,"How do we feel about `<Select />` filling the width of its container?
+
+https://www.chromatic.com/test?appId=667ae160dc0e0dc3f390704c&id=67d8649aed3e70123860c761",https://github.com/temporalio/ui/pull/2599#issuecomment-2730449028,1,0,8,2,0,2025-03-17T18:04:38Z,2025-03-17T20:35:21Z,MERGED,13,95,12,"MODIFIED:src/lib/holocene/icon/paths.ts
+ADDED:src/lib/holocene/icon/svg/apple.svelte
+ADDED:src/lib/holocene/icon/svg/circle-check.svelte
+ADDED:src/lib/holocene/icon/svg/circle-question.svelte
+ADDED:src/lib/holocene/icon/svg/linux.svelte
+ADDED:src/lib/holocene/icon/svg/microsoft.svelte
+MODIFIED:src/lib/holocene/radio-input/radio-input.svelte
+MODIFIED:src/lib/holocene/radio-input/types.ts
+MODIFIED:src/lib/holocene/select/select.svelte
+MODIFIED:src/lib/holocene/select/simple-select.svelte
+MODIFIED:src/lib/holocene/textarea.svelte
+MODIFIED:src/lib/theme/plugin.ts
+MODIFIED:src/lib/types/global.ts"
+NavigationTabs Styling,"I disabled the Zoom stories in Chromatic because the stories would get cropped in the snapshots 😢 here is an [example in Chromatic](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=67dc6d67c5e1fc7d3d894464). I tried some things to address this but couldn't get it working. Let me know if you have other ideas!
+- setting the `viewport` config for Chromatic for that story
+- adding a delay for the snapshot
+- setting width: 100% on the decorator
+
+![image](https://github.com/user-attachments/assets/1e6ef3d8-4a1e-4a47-8b8b-e87e37537fcf)
+",https://github.com/Khan/wonder-blocks/pull/2508#discussion_r2006483914,5,7,43,45,7,2025-03-20T19:02:45Z,2025-03-25T15:19:13Z,MERGED,13,1088,178,"ADDED:.changeset/twenty-actors-tease.md
+MODIFIED:.storybook/preview.tsx
+MODIFIED:__docs__/components/all-variants.tsx
+ADDED:__docs__/components/scenarios-layout.tsx
+ADDED:__docs__/components/text-for-testing.ts
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tab-item-variants.stories.tsx
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tab-item.argtypes.tsx
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tab-item.stories.tsx
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tabs-variants.stories.tsx
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tabs.argtypes.tsx
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tabs.stories.tsx
+MODIFIED:packages/wonder-blocks-tabs/src/components/navigation-tab-item.tsx
+MODIFIED:packages/wonder-blocks-tabs/src/components/navigation-tabs.tsx"
+chore: resolve build issues in legacy elements,https://www.chromatic.com/test?appId=63b58e306cfd32348fa48d50&id=67c59d6f0ab4a111bf0a5b07,https://github.com/ory/elements/pull/371#discussion_r1977424201,7,2,11,2,2,2025-03-03T12:06:17Z,2025-03-03T16:12:51Z,MERGED,5,65,171,"MODIFIED:package-lock.json
+MODIFIED:package.json
+MODIFIED:packages/elements-react/package.json
+MODIFIED:src/locales/en.json
+MODIFIED:src/react-components/provider.tsx"
+GDHS-60 - bugfix after tests outside of storybook + new story,"Please re-review, heb fix geschreven voor ongewenste change ( https://www.chromatic.com/test?appId=62d1558ac36c853a5aaad43f&id=67c988be5c0df68c07b10d82 )",https://github.com/nl-design-system/denhaag/pull/1709#issuecomment-2703653274,1,0,4,7,0,2025-03-06T11:29:03Z,2025-03-06T12:39:49Z,MERGED,6,146,21,"MODIFIED:components/Procedure/src/index.scss
+MODIFIED:components/Procedure/src/stories/bem.stories.mdx
+MODIFIED:components/ProcessSteps/src/Step.scss
+MODIFIED:components/ProcessSteps/src/StepMarker.scss
+MODIFIED:components/ProcessSteps/src/SubStep.scss
+MODIFIED:components/ProcessSteps/src/SubStepMarker.scss"
+fix(search): update disabled state in spectrum two,"https://www.chromatic.com/test?appId=64762974a45b8bc5ca1705a2&id=67c57141bb87b246e02cabfd
+
+The changes that I did ended up affecting express theme for search - quiet and I haven't been able to figure out how to fix that :(",https://github.com/adobe/spectrum-css/pull/3593#issuecomment-2693948041,1,3,12,3,3,2025-03-03T06:37:24Z,2025-03-12T19:53:28Z,MERGED,5,21,3,"ADDED:.changeset/four-phones-agree.md
+MODIFIED:components/search/dist/metadata.json
+MODIFIED:components/search/index.css
+MODIFIED:components/search/themes/spectrum-two.css
+MODIFIED:components/search/themes/spectrum.css"
+feat(modal): re-introduce,"@AugustinMauroy Per the comments above, I've denied the Storybook UI tests because the tests don't accurately display the component.
+
+(https://www.chromatic.com/test?appId=64c7d71358830e9105808652&id=67f83473d3be6c83bf6f4733 is blank, because the modal is closed)",https://github.com/nodejs/nodejs.org/pull/7638#issuecomment-2795597092,5,2,11,5,2,2025-04-10T18:54:59Z,2025-04-11T19:33:43Z,MERGED,5,471,0,"MODIFIED:package-lock.json
+ADDED:packages/ui-components/Common/Modal/index.module.css
+ADDED:packages/ui-components/Common/Modal/index.stories.tsx
+ADDED:packages/ui-components/Common/Modal/index.tsx
+MODIFIED:packages/ui-components/package.json"
+"[WB-1852.2] Remove Button.light variant, modify actionStyles to support Button instances","**note:** This change is to provide a slightly darker bg color when pressed. You'll see it here:
+
+https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=68013f858f1709244ee14785
+
+This change was made so we control a bit more the contrast ratio in the press state.",https://github.com/Khan/wonder-blocks/pull/2563#discussion_r2049478574,8,4,18,10,4,2025-04-17T14:51:02Z,2025-04-24T15:44:00Z,MERGED,15,159,609,"ADDED:.changeset/fluffy-donuts-drop.md
+ADDED:.changeset/grumpy-seas-crash.md
+MODIFIED:__docs__/wonder-blocks-button/button-variants.stories.tsx
+MODIFIED:__docs__/wonder-blocks-button/button.argtypes.ts
+MODIFIED:__docs__/wonder-blocks-button/button.stories.tsx
+MODIFIED:__docs__/wonder-blocks-modal/modal-dialog.stories.tsx
+MODIFIED:__docs__/wonder-blocks-modal/modal-panel.stories.tsx
+MODIFIED:__docs__/wonder-blocks-popover/popover-content.argtypes.tsx
+MODIFIED:__docs__/wonder-blocks-styles/action-styles-variants.stories.tsx
+MODIFIED:__docs__/wonder-blocks-styles/action-styles.stories.tsx
+MODIFIED:__docs__/wonder-blocks-toolbar/toolbar.argtypes.tsx
+MODIFIED:packages/wonder-blocks-button/src/components/button-core.tsx
+MODIFIED:packages/wonder-blocks-button/src/components/button.tsx
+MODIFIED:packages/wonder-blocks-button/src/themes/default.ts
+MODIFIED:packages/wonder-blocks-styles/src/styles/action-styles.ts"
+fix: Allow ToC to scroll independently of page content,Can you please check the visual regression: https://www.chromatic.com/test?appId=64c7d71358830e9105808652&id=6829e0dcf23a597de1aee02b,https://github.com/nodejs/nodejs.org/pull/7754#issuecomment-2888992525,21,5,37,13,5,2025-05-16T18:37:24Z,2025-05-28T11:30:01Z,MERGED,2,15,4,"MODIFIED:packages/ui-components/Containers/MetaBar/index.module.css
+MODIFIED:packages/ui-components/styles/index.css"
+feat: add copy button for workspace name in breadcrumb,"Is this a storybook thing, or has the spacing really changed on the nav bar here?
+The new code looks to have a bit more spacing.
+
+![Screenshot From 2025-05-15 11-53-31](https://github.com/user-attachments/assets/0e1d74d8-3c6a-4da9-8db9-7072a6408ad3)
+
+https://www.chromatic.com/test?appId=624de63c6aacee003aa84340&id=68248278c9d187b52c4ff47f",https://github.com/coder/coder/pull/17822#issuecomment-2884484097,1,0,2,3,0,2025-05-14T08:07:43Z,2025-05-15T17:41:02Z,MERGED,6,95,160,"MODIFIED:site/src/components/CodeExample/CodeExample.tsx
+MODIFIED:site/src/components/CopyButton/CopyButton.tsx
+MODIFIED:site/src/components/GitDeviceAuth/GitDeviceAuth.tsx
+DELETED:site/src/components/Icons/FileCopyIcon.tsx
+MODIFIED:site/src/modules/dashboard/Navbar/UserDropdown/UserDropdownContent.tsx
+MODIFIED:site/src/pages/WorkspacePage/WorkspaceTopbar.tsx"
+feat: list all snapshots,**issue:** [The ellipses look a little wonky.](https://www.chromatic.com/test?appId=6810f7eed73ae95e1f9b2d85&id=682a6ac86a11424cdba6001e) Should those be vertically centered?,https://github.com/storacha/bluesky-backup-webapp-server/pull/171#discussion_r2096028845,9,5,27,11,5,2025-05-18T15:21:21Z,2025-05-21T17:32:32Z,MERGED,14,330,60,"MODIFIED:src/app/api/backups/[id]/snapshots/route.ts
+MODIFIED:src/app/backups/[id]/BackupPage.tsx
+MODIFIED:src/app/backups/[id]/page.stories.tsx
+MODIFIED:src/app/backups/[id]/snapshots/SnapshotPage.tsx
+MODIFIED:src/components/BackButton.tsx
+ADDED:src/components/Pagination.stories.tsx
+ADDED:src/components/Pagination.tsx
+MODIFIED:src/components/ui/Button.tsx
+MODIFIED:src/components/ui/Stack.tsx
+MODIFIED:src/components/ui/style.ts
+MODIFIED:src/lib/constants.ts
+MODIFIED:src/lib/server/db.ts
+MODIFIED:src/lib/swr.tsx
+MODIFIED:src/types.tsx"
+WB-1913: Add Typography Components and theme tokens for Thunderblocks,"I find this story useful for visual regression tests since it has the different combinations! What do you think about enabling snapshots for this story instead of the [New Typography story](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=682b904ba1d77d7bd773cdd6) which only shows one variant of Heading/Body.
+
+Same thing for the `BodyText SizesAndWeights` story! 
+
+It would also be useful to have visual regression tests for both OG and TB themes!",https://github.com/Khan/wonder-blocks/pull/2602#discussion_r2098766914,37,34,69,34,34,2025-05-14T21:26:34Z,2025-05-23T19:43:34Z,MERGED,28,743,368,"ADDED:.changeset/new-foxes-cover.md
+MODIFIED:.storybook/manager-head.html
+MODIFIED:.storybook/preview-head.html
+MODIFIED:__docs__/wonder-blocks-tokens/color-utils-fade.mdx
+MODIFIED:__docs__/wonder-blocks-tokens/tokens-font.mdx
+ADDED:__docs__/wonder-blocks-typography/body-text.stories.tsx
+ADDED:__docs__/wonder-blocks-typography/heading.stories.tsx
+MODIFIED:__docs__/wonder-blocks-typography/typography.argtypes.ts
+MODIFIED:__docs__/wonder-blocks-typography/typography.stories.tsx
+MODIFIED:packages/wonder-blocks-banner/src/components/banner.tsx
+MODIFIED:packages/wonder-blocks-button/src/themes/khanmigo.ts
+MODIFIED:packages/wonder-blocks-dropdown/src/components/combobox-multiple-selection.tsx
+MODIFIED:packages/wonder-blocks-tokens/src/index.ts
+MODIFIED:packages/wonder-blocks-tokens/src/internal/__test__/generate-tokens.test.ts
+MODIFIED:packages/wonder-blocks-tokens/src/internal/generate-tokens.ts
+MODIFIED:packages/wonder-blocks-tokens/src/theme/default.ts
+ADDED:packages/wonder-blocks-tokens/src/theme/primitive/font.ts
+ADDED:packages/wonder-blocks-tokens/src/theme/semantic/internal/primitive-font-thunderblocks.ts
+MODIFIED:packages/wonder-blocks-tokens/src/theme/thunderblocks.ts
+DELETED:packages/wonder-blocks-tokens/src/tokens/font.ts
+ADDED:packages/wonder-blocks-typography/src/components/body-text.tsx
+ADDED:packages/wonder-blocks-typography/src/components/heading.tsx
+MODIFIED:packages/wonder-blocks-typography/src/index.ts
+MODIFIED:packages/wonder-blocks-typography/src/util/styles.ts
+MODIFIED:pnpm-lock.yaml
+ADDED:static/fonts/jakarta-sans/PlusJakartaSans-Italic-VariableFont_wght.woff2
+ADDED:static/fonts/jakarta-sans/PlusJakartaSans-VariableFont_wght.woff2
+ADDED:static/jakarta.css"
+Implement base Badge component,@jandrade I created https://khanacademy.atlassian.net/browse/WB-1949 for investigating Chromatic vertical alignment issues. Related to the thread in the [Chromatic snapshot](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=6824f9d68ce4611579f88ace&activeElementId=comment-thread-6826315863a46bb3ef1e6306) (I'm no longer able to respond to the thread since there was a newer Chromatic build in this branch!),https://github.com/Khan/wonder-blocks/pull/2600#issuecomment-2887722760,26,1,31,13,1,2025-05-14T20:06:07Z,2025-05-20T21:04:24Z,MERGED,9,739,16,"ADDED:.changeset/eighty-items-impress.md
+MODIFIED:__docs__/components/all-variants.tsx
+ADDED:__docs__/components/icons-for-testing.tsx
+ADDED:__docs__/wonder-blocks-badge/badge-testing-snapshots.stories.tsx
+ADDED:__docs__/wonder-blocks-badge/badge.argtypes.ts
+MODIFIED:__docs__/wonder-blocks-badge/badge.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/option-item-variants.stories.tsx
+ADDED:packages/wonder-blocks-badge/src/components/__tests__/badge.test.tsx
+MODIFIED:packages/wonder-blocks-badge/src/components/badge.tsx"
+fix: labelRef being passed to DOM node causing warning,"There is now no label being rendered, can it be related to this PR? https://www.chromatic.com/test?appId=63da8268a0da9970db6992aa&id=685bd07ec377767b042a0408
+
+Edit: false alarm, the labels are still there - but delayed. Looks like a VR snapshot problem.",https://github.com/recharts/recharts/pull/6008#issuecomment-3004356312,2,0,7,1,0,2025-06-25T07:02:02Z,2025-06-25T07:17:26Z,MERGED,1,1,1,MODIFIED:src/component/Label.tsx
+[WB-1959.3] Cell layout refactor,The border radius doesn't seem to get applied to the component! https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=684c8f1e5b6b9675df7fee18,https://github.com/Khan/wonder-blocks/pull/2661#discussion_r2150341785,8,4,17,25,4,2025-06-11T16:00:00Z,2025-06-16T22:01:20Z,MERGED,16,128,189,"ADDED:.changeset/chatty-moons-press.md
+ADDED:.changeset/neat-lizards-teach.md
+ADDED:.changeset/tame-eels-allow.md
+ADDED:.changeset/twenty-eagles-cough.md
+MODIFIED:__docs__/wonder-blocks-cell/compact-cell.argtypes.tsx
+MODIFIED:__docs__/wonder-blocks-cell/detail-cell.stories.tsx
+MODIFIED:packages/wonder-blocks-cell/package.json
+MODIFIED:packages/wonder-blocks-cell/src/components/internal/__tests__/cell-core.test.tsx
+MODIFIED:packages/wonder-blocks-cell/src/components/internal/cell-core.tsx
+MODIFIED:packages/wonder-blocks-cell/src/theme/default.ts
+MODIFIED:packages/wonder-blocks-cell/src/theme/thunderblocks.ts
+MODIFIED:packages/wonder-blocks-cell/src/util/types.ts
+MODIFIED:packages/wonder-blocks-cell/tsconfig-build.json
+MODIFIED:packages/wonder-blocks-dropdown/src/components/action-item.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/option-item.tsx
+MODIFIED:pnpm-lock.yaml"
+feat: allow for default presets,"https://www.chromatic.com/test?appId=624de63c6aacee003aa84340&id=685406cf992466e39d7877ba
+Label still shows preset 1 but the value in the form is that of preset 2.
+Is this expected?",https://github.com/coder/coder/pull/18445#discussion_r2157012512,10,6,18,13,6,2025-06-19T08:16:42Z,2025-06-24T10:19:20Z,MERGED,54,2183,655,"MODIFIED:CLAUDE.md
+MODIFIED:coderd/apidoc/docs.go
+MODIFIED:coderd/apidoc/swagger.json
+MODIFIED:coderd/database/dbfake/dbfake.go
+MODIFIED:coderd/database/dbgen/dbgen.go
+MODIFIED:coderd/database/dbmem/dbmem.go
+MODIFIED:coderd/database/dump.sql
+ADDED:coderd/database/migrations/000341_template_version_preset_default.down.sql
+ADDED:coderd/database/migrations/000341_template_version_preset_default.up.sql
+MODIFIED:coderd/database/models.go
+MODIFIED:coderd/database/queries.sql.go
+MODIFIED:coderd/database/queries/presets.sql
+MODIFIED:coderd/database/unique_constraint.go
+MODIFIED:coderd/presets.go
+MODIFIED:coderd/presets_test.go
+MODIFIED:coderd/provisionerdserver/provisionerdserver.go
+MODIFIED:codersdk/presets.go
+MODIFIED:docs/reference/api/schemas.md
+MODIFIED:docs/reference/api/templates.md
+MODIFIED:go.mod
+MODIFIED:go.sum
+MODIFIED:provisioner/terraform/resources.go
+MODIFIED:provisioner/terraform/resources_test.go
+MODIFIED:provisioner/terraform/testdata/resources/external-auth-providers/external-auth-providers.tfplan.json
+MODIFIED:provisioner/terraform/testdata/resources/external-auth-providers/external-auth-providers.tfstate.json
+ADDED:provisioner/terraform/testdata/resources/presets-multiple-defaults/multiple-defaults.tf
+ADDED:provisioner/terraform/testdata/resources/presets-multiple-defaults/presets-multiple-defaults.tfplan.dot
+ADDED:provisioner/terraform/testdata/resources/presets-multiple-defaults/presets-multiple-defaults.tfplan.json
+ADDED:provisioner/terraform/testdata/resources/presets-multiple-defaults/presets-multiple-defaults.tfstate.dot
+ADDED:provisioner/terraform/testdata/resources/presets-multiple-defaults/presets-multiple-defaults.tfstate.json
+ADDED:provisioner/terraform/testdata/resources/presets-single-default/presets-single-default.tfplan.dot
+ADDED:provisioner/terraform/testdata/resources/presets-single-default/presets-single-default.tfplan.json
+ADDED:provisioner/terraform/testdata/resources/presets-single-default/presets-single-default.tfstate.dot
+ADDED:provisioner/terraform/testdata/resources/presets-single-default/presets-single-default.tfstate.json
+ADDED:provisioner/terraform/testdata/resources/presets-single-default/single-default.tf
+MODIFIED:provisioner/terraform/testdata/resources/presets/external-module/child-external-module/main.tf
+MODIFIED:provisioner/terraform/testdata/resources/presets/external-module/main.tf
+MODIFIED:provisioner/terraform/testdata/resources/presets/presets.tf
+MODIFIED:provisioner/terraform/testdata/resources/presets/presets.tfplan.json
+MODIFIED:provisioner/terraform/testdata/resources/presets/presets.tfstate.json
+MODIFIED:provisioner/terraform/testdata/resources/rich-parameters-order/rich-parameters-order.tfplan.json
+MODIFIED:provisioner/terraform/testdata/resources/rich-parameters-order/rich-parameters-order.tfstate.json
+MODIFIED:provisioner/terraform/testdata/resources/rich-parameters-validation/rich-parameters-validation.tfplan.json
+MODIFIED:provisioner/terraform/testdata/resources/rich-parameters-validation/rich-parameters-validation.tfstate.json
+MODIFIED:provisioner/terraform/testdata/resources/rich-parameters/rich-parameters.tfplan.json
+MODIFIED:provisioner/terraform/testdata/resources/rich-parameters/rich-parameters.tfstate.json
+MODIFIED:provisionerd/proto/version.go
+MODIFIED:provisionersdk/proto/provisioner.pb.go
+MODIFIED:provisionersdk/proto/provisioner.proto
+MODIFIED:site/e2e/provisionerGenerated.ts
+MODIFIED:site/src/api/typesGenerated.ts
+MODIFIED:site/src/pages/CreateWorkspacePage/CreateWorkspacePageView.stories.tsx
+MODIFIED:site/src/pages/CreateWorkspacePage/CreateWorkspacePageView.tsx
+MODIFIED:site/src/pages/CreateWorkspacePage/CreateWorkspacePageViewExperimental.tsx"
+fix(list): added scrim for empty list,"> LGTM! @macandcheese do you see any issue with using `100vh` here?
+
+It does look like that is potentially causing some issues: https://www.chromatic.com/test?appId=6266d45509d7eb004aa254fb&id=688942c247116cef0303eacb",https://github.com/Esri/calcite-design-system/pull/12595#issuecomment-3134461611,5,2,10,11,2,2025-07-28T16:01:08Z,2025-07-30T22:16:08Z,MERGED,3,6,1,"MODIFIED:packages/calcite-components/src/components/list/list.scss
+MODIFIED:packages/calcite-components/src/components/list/list.tsx
+MODIFIED:packages/calcite-components/src/components/list/resources.ts"
+feat: showPill code removal,@tiarascoleman It looks like there is some Story clean up needed as well. There a variation that uses the LendCta pill [as shown here](https://www.chromatic.com/test?appId=608b4cf87f686c00213841b1&id=686d70ab5030535186c8dbf2) that we can remove from the story file too.,https://github.com/kiva/kv-ui-elements/pull/597#issuecomment-3050388713,5,1,5,3,1,2025-07-08T16:15:18Z,2025-07-09T15:45:20Z,MERGED,2,1,62,"MODIFIED:@kiva/kv-components/src/vue/KvLendCta.vue
+MODIFIED:@kiva/kv-components/src/vue/stories/KvLendCta.stories.js"
+docs(changeset): Bugfix to ensure Interactive Graph tooltips display points with the same granularity as the snapStep,"Personally, I don't think this should go in the regression file because [Chromatic only does the visual regression for the first render](https://www.chromatic.com/test?appId=650db21c3f5d1b2f13c02952&id=68813f19d4b586341742779d). This means that it doesn't see the tooltip, which defeats the purpose of this being a visual regression test.
+
+I'd either move this to a different story file or remove this story entirely.",https://github.com/Khan/perseus/pull/2728#discussion_r2226684249,12,2,21,8,2,2025-07-23T17:59:46Z,2025-07-23T22:40:35Z,MERGED,7,68,10,"ADDED:.changeset/clever-melons-sparkle.md
+MODIFIED:packages/perseus/src/widgets/interactive-graphs/backgrounds/axis-ticks.tsx
+MODIFIED:packages/perseus/src/widgets/interactive-graphs/graphs/components/movable-point-view.tsx
+MODIFIED:packages/perseus/src/widgets/interactive-graphs/interactive-graph-question-builder.ts
+MODIFIED:packages/perseus/src/widgets/interactive-graphs/interactive-graph-regression.stories.tsx
+MODIFIED:packages/perseus/src/widgets/interactive-graphs/interactive-graph.stories.tsx
+MODIFIED:packages/perseus/src/widgets/interactive-graphs/interactive-graph.testdata.ts"
+"Add hook inspector documentation, put in all stories","Fixed the conflicts, and fixed the visual diff from https://www.chromatic.com/test?appId=63da8268a0da9970db6992aa&id=6867e6a631c09efc70292032 too",https://github.com/recharts/recharts/pull/6059#issuecomment-3037435884,1,0,7,35,0,2025-07-04T12:02:10Z,2025-07-05T14:56:02Z,MERGED,102,1475,855,"MODIFIED:storybook/ChartSizeDimensions.tsx
+MODIFIED:storybook/stories/API/ResponsiveContainer.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/Area.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/Bar.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/CartesianGrid.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/ErrorBar.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/Funnel.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/Line.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/ReferenceArea.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/ReferenceDot.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/ReferenceLine.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/Scatter.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/XAxis.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/YAxis.stories.tsx
+MODIFIED:storybook/stories/API/cartesian/ZAxis.stories.tsx
+MODIFIED:storybook/stories/API/chart/AreaChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/BarChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/ComposedChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/FunnelChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/LineChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/PieChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/RadarChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/RadialBarChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/Sankey.stories.tsx
+MODIFIED:storybook/stories/API/chart/ScatterChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/SunburstChart.stories.tsx
+MODIFIED:storybook/stories/API/chart/Treemap.stories.tsx
+MODIFIED:storybook/stories/API/component/Cell.stories.tsx
+MODIFIED:storybook/stories/API/component/LabelList.stories.tsx
+MODIFIED:storybook/stories/API/component/Legend.stories.tsx
+MODIFIED:storybook/stories/API/component/Tooltip.stories.tsx
+ADDED:storybook/stories/API/hooks/HookInspector.mdx
+ADDED:storybook/stories/API/hooks/assets/enable-recharts-hook-inspector.png
+ADDED:storybook/stories/API/hooks/assets/inspector-preview.png
+ADDED:storybook/stories/API/hooks/assets/show-toolbar.png
+MODIFIED:storybook/stories/API/polar/Pie.stories.tsx
+MODIFIED:storybook/stories/API/polar/PolarAngleAxis.stories.tsx
+MODIFIED:storybook/stories/API/polar/PolarRadiusAxis.stories.tsx
+MODIFIED:storybook/stories/API/polar/Radar.stories.tsx
+MODIFIED:storybook/stories/API/polar/RadialBar.stories.tsx
+MODIFIED:storybook/stories/API/shapes/Cross.stories.tsx
+MODIFIED:storybook/stories/API/shapes/Curve.stories.tsx
+MODIFIED:storybook/stories/API/shapes/Dot.stories.tsx
+MODIFIED:storybook/stories/API/shapes/Polygon.stories.tsx
+MODIFIED:storybook/stories/Examples/AreaChart.stories.tsx
+MODIFIED:storybook/stories/Examples/BarChart/BarChart.stories.tsx
+MODIFIED:storybook/stories/Examples/ChartLayout.stories.tsx
+MODIFIED:storybook/stories/Examples/ComposedChart/AccessibilityLayer.stories.tsx
+MODIFIED:storybook/stories/Examples/ComposedChart/BoxPlot.stories.tsx
+MODIFIED:storybook/stories/Examples/ComposedChart/StockPrice.stories.tsx
+DELETED:storybook/stories/Examples/DataKey/ToggleBetweenDataKeys.stories.tsx
+RENAMED:storybook/stories/Examples/LineChart/DualLineChart.stories.tsx
+RENAMED:storybook/stories/Examples/LineChart/LineChart.stories.tsx
+ADDED:storybook/stories/Examples/LineChart/ToggleBetweenDataKeys.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/CustomActiveShapePieChart.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/DraggablePie.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/PieWithCells.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/PieWithLegend.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/PieWithNeedle.stories.tsx
+ADDED:storybook/stories/Examples/Pie/PieWithPatterns.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/PieWithStep.stories.tsx
+MODIFIED:storybook/stories/Examples/Pie/PieWithTooltip.stories.tsx
+MODIFIED:storybook/stories/Examples/RadarChart.stories.tsx
+RENAMED:storybook/stories/Examples/RadialBarChart/RadialBarChart.stories.tsx
+RENAMED:storybook/stories/Examples/RadialBarChart/RadialBarChartWithMultipleAxes.stories.tsx
+MODIFIED:storybook/stories/Examples/ResponsiveContainer/MultiChartFlexbox.stories.tsx
+MODIFIED:storybook/stories/Examples/ScatterChart.stories.tsx
+MODIFIED:storybook/stories/Examples/ScatterChartWithTwoErrorBars.stories.tsx
+MODIFIED:storybook/stories/Examples/Synchronised.stories.tsx
+MODIFIED:storybook/stories/Examples/TimeSeries.stories.tsx
+MODIFIED:storybook/stories/Examples/Tooltip.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Area/AreaWithCustomDot.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Area/AreaWithCustomLabel.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Area/AreaWithFillPattern.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Bar/CustomizedEvent.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Bar/CustomizedShape.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Bar/FillPatternOrGradient.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Bar/StackedAndUnstacked.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Bar/WithBrushAndOnDragEnd.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Brush/Brush.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Brush/BrushInSurface.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/CartesianAxis/TickPositioning.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Line/LineWithCustomDot.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/Line/LineWithCustomLabel.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/ReferenceArea/ReferenceAreaIfOverflow.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/ReferenceDot/ReferenceDotIfOverflow.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/ReferenceLine/ReferenceLineIfOverflow.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/ReferenceLine/ReferenceLineSegment.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/XAxis/SolarSystem.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/XAxis/XAxisWithCalculatedPadding.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/XAxis/XAxisWithCustomTicks.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/XAxis/XAxisWithDifferentDataTypes.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/XAxis/XAxisWithMultipleAxes.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/XAxis/XAxisWithTickFormatter.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/YAxis/XAxisIncludeHidden.stories.tsx
+MODIFIED:storybook/stories/Examples/cartesian/YAxis/YAxisMultipleAxes.stories.tsx
+MODIFIED:storybook/storybook-addon-recharts/RechartsHookInspector.tsx
+MODIFIED:storybook/storybook-addon-recharts/RechartsInspectorDecorator.tsx
+MODIFIED:storybook/storybook-addon-recharts/RechartsStoryContext.ts
+MODIFIED:storybook/storybook-addon-recharts/inspectors/CartesianChartInspector.tsx
+ADDED:storybook/storybook-addon-recharts/inspectors/ChartInspector.tsx
+MODIFIED:storybook/storybook-addon-recharts/inspectors/PolarChartInspector.tsx"
+LabeledField: Remove `required` prop,"Thanks for the review @marcysutton !
+
+> I left one question in Chromatic about descriptions for disabled fields. Maybe we should wrap them in a fieldset that can be marked as disabled?
+
+Great suggestion, responded in the [Chromatic thread](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=6876be878deb00f54437297b) 😄 If we prefer using `fieldset` + `legend` for `LabeledField`, I can create a separate ticket for updating the semantics! Let me know what you think!",https://github.com/Khan/wonder-blocks/pull/2715#issuecomment-3104643517,9,6,15,6,6,2025-07-17T17:05:22Z,2025-07-23T16:18:36Z,MERGED,16,50,252,"ADDED:.changeset/fifty-bananas-explode.md
+ADDED:.changeset/strange-squids-try.md
+MODIFIED:__docs__/wonder-blocks-dropdown/multi-select.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/single-select.stories.tsx
+MODIFIED:__docs__/wonder-blocks-form/labeled-text-field.stories.tsx
+MODIFIED:__docs__/wonder-blocks-form/text-area.stories.tsx
+MODIFIED:__docs__/wonder-blocks-form/text-field.stories.tsx
+MODIFIED:__docs__/wonder-blocks-labeled-field/accessibility.mdx
+MODIFIED:__docs__/wonder-blocks-labeled-field/labeled-field-testing-snapshots.stories.tsx
+MODIFIED:__docs__/wonder-blocks-labeled-field/labeled-field.argtypes.ts
+MODIFIED:__docs__/wonder-blocks-labeled-field/labeled-field.stories.tsx
+MODIFIED:__docs__/wonder-blocks-search-field/search-field.stories.tsx
+MODIFIED:packages/wonder-blocks-labeled-field/src/components/__tests__/labeled-field.test.tsx
+MODIFIED:packages/wonder-blocks-labeled-field/src/components/labeled-field.tsx
+MODIFIED:packages/wonder-blocks-labeled-field/src/theme/default.ts
+MODIFIED:packages/wonder-blocks-labeled-field/src/theme/thunderblocks.ts"
+Use new background tokens in WB components,"Removed the additional background color for the color docs! Sharing from the related [Chromatic comment](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=68a8c406fcaa973a83bdd04b):
+
+> I removed the gray box around the color box!
+>
+> I was checking the instances of semanticColor.background.neutral.subtle  since the value will be updated from white to light gray in TB. 
+>
+> I find the colors easier to see without the gray background so I opted to remove the background box color altogether!",https://github.com/Khan/wonder-blocks/pull/2766#discussion_r2294739847,3,9,13,9,9,2025-08-22T19:22:00Z,2025-08-27T19:24:24Z,MERGED,42,98,77,"ADDED:.changeset/flat-pumpkins-provide.md
+MODIFIED:.storybook/preview.tsx
+MODIFIED:__docs__/components/code.tsx
+MODIFIED:__docs__/components/color.tsx
+MODIFIED:__docs__/components/placeholder.tsx
+MODIFIED:__docs__/wonder-blocks-badge/badge-testing-snapshots.stories.tsx
+MODIFIED:__docs__/wonder-blocks-badge/badge.stories.tsx
+MODIFIED:__docs__/wonder-blocks-cell/compact-cell.stories.tsx
+MODIFIED:__docs__/wonder-blocks-cell/detail-cell.stories.tsx
+MODIFIED:__docs__/wonder-blocks-clickable/clickable.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/action-item.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/action-menu.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/combobox.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/listbox.stories.tsx
+MODIFIED:__docs__/wonder-blocks-dropdown/option-item.stories.tsx
+MODIFIED:__docs__/wonder-blocks-icon-button/activity-icon-button-testing-snapshots.stories.tsx
+MODIFIED:__docs__/wonder-blocks-icon/custom-icon-components.stories.tsx
+MODIFIED:__docs__/wonder-blocks-link/link-testing-snapshots.stories.tsx
+MODIFIED:__docs__/wonder-blocks-link/link.stories.tsx
+MODIFIED:__docs__/wonder-blocks-modal/modal-dialog.stories.tsx
+MODIFIED:__docs__/wonder-blocks-pill/pill.stories.tsx
+MODIFIED:__docs__/wonder-blocks-styles/action-styles-variants.stories.tsx
+MODIFIED:__docs__/wonder-blocks-styles/focus-styles.stories.tsx
+MODIFIED:__docs__/wonder-blocks-tabs/navigation-tabs.stories.tsx
+MODIFIED:__docs__/wonder-blocks-tokens/semantic-color.stories.tsx
+MODIFIED:packages/wonder-blocks-accordion/src/components/accordion-section.tsx
+MODIFIED:packages/wonder-blocks-badge/src/components/badge.tsx
+MODIFIED:packages/wonder-blocks-cell/src/components/internal/cell-core.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/combobox.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/dropdown-core.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/listbox.tsx
+MODIFIED:packages/wonder-blocks-form/src/util/styles.ts
+MODIFIED:packages/wonder-blocks-modal/src/components/drawer-backdrop.tsx
+MODIFIED:packages/wonder-blocks-modal/src/components/flexible-panel.tsx
+MODIFIED:packages/wonder-blocks-modal/src/components/modal-backdrop.tsx
+MODIFIED:packages/wonder-blocks-modal/src/components/modal-panel.tsx
+MODIFIED:packages/wonder-blocks-popover/src/components/popover-content-core.tsx
+MODIFIED:packages/wonder-blocks-styles/src/styles/action-styles.ts
+MODIFIED:packages/wonder-blocks-tokens/src/theme/semantic/semantic-color-thunderblocks.ts
+MODIFIED:packages/wonder-blocks-tokens/src/theme/semantic/semantic-color.ts
+MODIFIED:packages/wonder-blocks-toolbar/src/components/toolbar.tsx
+MODIFIED:packages/wonder-blocks-tooltip/src/components/tooltip-bubble.tsx"
+WB-2050(part1): Tokens update - Add knockout tokens and replace `foreground.inverse.*` and `border.inverse.*` usage,"This causes a visual diff, from the comment in the [Chromatic diff](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=689f6be2bac67cac4cb11e34): 
+> The cell divider was using `border.inverse.default (fadedOffBlack8)`. `fadedOffBlack8` isn't used for a semantic border token so as an alternative, `border.neutral.subtle (fadedOffBlack16)` is used instead!
+
+Semantically, it makes sense to be using `border.neutral.subtle` for dividers!",https://github.com/Khan/wonder-blocks/pull/2758#discussion_r2279534507,2,2,17,8,2,2025-08-15T16:07:18Z,2025-08-20T20:40:05Z,MERGED,25,124,84,"ADDED:.changeset/few-carrots-cough.md
+ADDED:.changeset/hungry-bananas-grow.md
+ADDED:.changeset/silent-bikes-cheer.md
+MODIFIED:__docs__/wonder-blocks-badge/badge-testing-snapshots.stories.tsx
+MODIFIED:__docs__/wonder-blocks-badge/badge.stories.tsx
+MODIFIED:__docs__/wonder-blocks-banner/banner.stories.tsx
+MODIFIED:__docs__/wonder-blocks-cell/compact-cell.stories.tsx
+MODIFIED:__docs__/wonder-blocks-clickable/clickable.stories.tsx
+MODIFIED:__docs__/wonder-blocks-link/link.stories.tsx
+MODIFIED:__docs__/wonder-blocks-pill/pill.stories.tsx
+MODIFIED:__docs__/wonder-blocks-popover/popover-content-core.stories.tsx
+MODIFIED:__docs__/wonder-blocks-styles/focus-styles.stories.tsx
+MODIFIED:__docs__/wonder-blocks-tooltip/tooltip.stories.tsx
+MODIFIED:packages/wonder-blocks-cell/src/components/internal/cell-core.tsx
+MODIFIED:packages/wonder-blocks-cell/src/theme/default.ts
+MODIFIED:packages/wonder-blocks-cell/src/theme/thunderblocks.ts
+MODIFIED:packages/wonder-blocks-clickable/src/components/clickable.tsx
+MODIFIED:packages/wonder-blocks-form/src/util/styles.ts
+MODIFIED:packages/wonder-blocks-link/src/components/link-core.tsx
+MODIFIED:packages/wonder-blocks-pill/src/components/pill.tsx
+MODIFIED:packages/wonder-blocks-styles/src/styles/action-styles.ts
+MODIFIED:packages/wonder-blocks-switch/src/components/switch.tsx
+MODIFIED:packages/wonder-blocks-tokens/src/theme/semantic/semantic-color-thunderblocks.ts
+MODIFIED:packages/wonder-blocks-tokens/src/theme/semantic/semantic-color.ts
+MODIFIED:packages/wonder-blocks-toolbar/src/components/toolbar.tsx"
+refactor: replace other deprecated Popovers which open on hover,"This fixes a test flake that occurred when #19709 was merged: https://www.chromatic.com/test?appId=624de63c6aacee003aa84340&id=68d4285c06f5a4e63dfb7a42
+
+This test failed in this branch too: https://www.chromatic.com/test?appId=624de63c6aacee003aa84340&id=68d59529f0a7d3010a53e7f2 but we're good now 👍🏽 ",https://github.com/coder/coder/pull/19753#discussion_r2380229424,1,4,6,66,4,2025-09-09T23:41:34Z,2025-09-26T22:05:09Z,MERGED,17,432,744,"DELETED:site/src/components/deprecated/Popover/Popover.stories.tsx
+DELETED:site/src/components/deprecated/Popover/Popover.tsx
+MODIFIED:site/src/modules/dashboard/Navbar/UserDropdown/UserDropdown.stories.tsx
+MODIFIED:site/src/pages/DeploymentSettingsPage/AppearanceSettingsPage/AppearanceSettingsPageView.tsx
+MODIFIED:site/src/pages/DeploymentSettingsPage/IdpOrgSyncPage/IdpOrgSyncPageView.stories.tsx
+MODIFIED:site/src/pages/DeploymentSettingsPage/IdpOrgSyncPage/OrganizationPills.tsx
+MODIFIED:site/src/pages/DeploymentSettingsPage/ObservabilitySettingsPage/ObservabilitySettingsPageView.stories.tsx
+MODIFIED:site/src/pages/DeploymentSettingsPage/ObservabilitySettingsPage/ObservabilitySettingsPageView.tsx
+MODIFIED:site/src/pages/OrganizationSettingsPage/CreateOrganizationPageView.tsx
+MODIFIED:site/src/pages/OrganizationSettingsPage/CustomRolesPage/PermissionPillsList.tsx
+MODIFIED:site/src/pages/OrganizationSettingsPage/IdpSyncPage/IdpPillList.tsx
+MODIFIED:site/src/pages/OrganizationSettingsPage/IdpSyncPage/IdpSyncPageView.stories.tsx
+MODIFIED:site/src/pages/OrganizationSettingsPage/UserTable/UserRoleCell.tsx
+MODIFIED:site/src/pages/UsersPage/UsersTable/UserGroupsCell.tsx
+MODIFIED:site/src/pages/WorkspacePage/WorkspaceNotifications/Notifications.tsx
+MODIFIED:site/src/pages/WorkspacePage/WorkspaceNotifications/WorkspaceNotifications.stories.tsx
+MODIFIED:site/src/testHelpers/entities.ts"
+fix: Dont display disclosure panel content if isDisabled and isExpanded=false,"https://www.chromatic.com/build?appId=5f0dd5ad2b5fc10022a2e320&number=1034, can see https://www.chromatic.com/test?appId=5f0dd5ad2b5fc10022a2e320&id=68cdbee20eebc9dc00a9b361 for the run that caught this on a different branch",https://github.com/adobe/react-spectrum/pull/8893#issuecomment-3314117225,2,0,4,2,0,2025-09-19T22:37:50Z,2025-09-22T17:35:51Z,MERGED,2,22,3,"MODIFIED:packages/@react-aria/disclosure/src/useDisclosure.ts
+MODIFIED:packages/react-aria-components/test/Disclosure.test.js"
+Fix/mobile collection button text extracted,@seaerchin fyi i deleted the storybook - realized there's an existing story for it https://www.chromatic.com/test?appId=665439911775ce21bf8b8fb4&id=68c14526d28b39f84a019de4 but dont know why we approved it LOL,https://github.com/opengovsg/isomer/pull/1585#issuecomment-3274242189,1,0,1,5,0,2025-09-10T09:27:17Z,2025-09-11T03:49:10Z,MERGED,1,2,2,MODIFIED:packages/components/src/templates/next/components/internal/Filter/FilterDrawer.tsx
+Allow ActionMenu to support any valid popper placement,"Could this story default to being open? That way, the [Chromatic snapshot](https://www.chromatic.com/test?appId=5e1bf4b385e3fb0020b7073c&id=68c33050087979ffca43ee7c) can cover that the popper is placed correctly! ",https://github.com/Khan/wonder-blocks/pull/2786#discussion_r2349918819,2,1,18,2,1,2025-09-11T16:15:22Z,2025-09-16T23:31:58Z,MERGED,6,105,7,"ADDED:.changeset/hungry-carrots-leave.md
+MODIFIED:__docs__/wonder-blocks-dropdown/action-menu.argtypes.ts
+MODIFIED:__docs__/wonder-blocks-dropdown/action-menu.stories.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/action-menu.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/dropdown-core.tsx
+MODIFIED:packages/wonder-blocks-dropdown/src/components/dropdown-popper.tsx"

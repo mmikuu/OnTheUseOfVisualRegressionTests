@@ -1,0 +1,97 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+braid-design-system,chore(storybook): Add initial Storybook,https://github.com/seek-oss/braid-design-system/pull/23,2018-10-24T10:37:27Z,2018-10-24T22:52:22Z,0,1,MERGED
+braid-design-system,"fix: Add initial wireframe theme, hoist propTypes in themed components",https://github.com/seek-oss/braid-design-system/pull/16,2018-10-16T06:15:01Z,2018-10-17T00:00:54Z,9,6,MERGED
+braid-design-system,build: Seperate out and document release configuration,https://github.com/seek-oss/braid-design-system/pull/9,2018-10-02T22:27:25Z,2018-10-02T23:21:30Z,1,1,MERGED
+braid-design-system,fix(Text): Align JobStreet large text with other themes,https://github.com/seek-oss/braid-design-system/pull/69,2018-12-07T00:50:43Z,2018-12-07T03:12:01Z,1,3,MERGED
+braid-design-system,fix(ChecklistCard): Ensure divider doesn’t cover error border,https://github.com/seek-oss/braid-design-system/pull/92,2019-02-13T00:53:01Z,2019-02-13T01:12:06Z,1,1,MERGED
+braid-design-system,fix(ChecklistCard): Show error border on entire row,https://github.com/seek-oss/braid-design-system/pull/90,2019-02-08T02:17:40Z,2019-02-08T05:33:32Z,1,1,MERGED
+braid-design-system,feat(Actions): Add Actions component,https://github.com/seek-oss/braid-design-system/pull/139,2019-03-14T23:11:54Z,2019-03-15T03:23:20Z,3,3,MERGED
+braid-design-system,fix(Checkbox): Fix tick rendering issue in IE11,https://github.com/seek-oss/braid-design-system/pull/129,2019-03-08T00:16:40Z,2019-03-08T00:24:14Z,0,2,MERGED
+braid-design-system,fix: Make field text visible within dark background context,https://github.com/seek-oss/braid-design-system/pull/278,2019-07-29T06:23:45Z,2019-07-31T00:43:21Z,1,2,MERGED
+braid-design-system,feat(Heading): Add level `4`,https://github.com/seek-oss/braid-design-system/pull/260,2019-07-09T03:51:12Z,2019-07-10T01:39:53Z,3,3,MERGED
+braid-design-system,feat(Badge): Add component,https://github.com/seek-oss/braid-design-system/pull/258,2019-07-08T02:13:48Z,2019-07-08T04:09:23Z,0,4,MERGED
+braid-design-system,feat(Toggle): Add component,https://github.com/seek-oss/braid-design-system/pull/256,2019-07-05T02:20:05Z,2019-07-05T05:15:21Z,3,4,MERGED
+braid-design-system,feat(Box): Add ‘brand’ background,https://github.com/seek-oss/braid-design-system/pull/254,2019-07-03T07:06:56Z,2019-07-04T04:56:40Z,0,1,MERGED
+braid-design-system,fix(TextLink): Add support for icons,https://github.com/seek-oss/braid-design-system/pull/303,2019-08-30T04:52:03Z,2019-09-03T05:08:38Z,2,9,MERGED
+braid-design-system,fix: Increase line height for H4 and large text in 'seekAnz',https://github.com/seek-oss/braid-design-system/pull/301,2019-08-28T02:11:19Z,2019-08-28T03:48:31Z,0,1,MERGED
+braid-design-system,fix(Typography): Update header and text tokens,https://github.com/seek-oss/braid-design-system/pull/289,2019-08-19T01:57:03Z,2019-08-22T03:46:16Z,1,6,CLOSED
+braid-design-system,fix(TextLink): Style according to background color of container,https://github.com/seek-oss/braid-design-system/pull/343,2019-09-25T22:52:42Z,2019-09-26T01:28:00Z,0,2,MERGED
+braid-design-system,feat(Autosuggest): Allow suggestions to be cleared,https://github.com/seek-oss/braid-design-system/pull/330,2019-09-16T05:06:05Z,2019-09-16T22:44:41Z,0,7,MERGED
+braid-design-system,"Add warning, notice & promote tone",https://github.com/seek-oss/braid-design-system/pull/371,2019-10-30T07:27:43Z,2019-11-06T04:26:05Z,1,5,CLOSED
+braid-design-system,fix(seekAsiaRebrand): Update colour palette,https://github.com/seek-oss/braid-design-system/pull/366,2019-10-23T02:57:45Z,2019-10-23T03:42:15Z,0,4,MERGED
+braid-design-system,fix(seekAnz): Change selection colour from grey to blue,https://github.com/seek-oss/braid-design-system/pull/365,2019-10-23T00:36:31Z,2019-10-23T01:21:57Z,1,1,MERGED
+braid-design-system,fix(Radio): Fix disabled styles for seekAsia & seekAsiaRebrand,https://github.com/seek-oss/braid-design-system/pull/363,2019-10-22T09:07:31Z,2019-10-22T22:19:16Z,1,4,MERGED
+braid-design-system,feat: Add support for `promote` tone,https://github.com/seek-oss/braid-design-system/pull/348,2019-10-08T21:53:45Z,2019-10-09T23:20:34Z,1,4,CLOSED
+braid-design-system,fix(seekAsiaRebrand): Support theming form hover colour,https://github.com/seek-oss/braid-design-system/pull/399,2019-11-11T23:49:07Z,2019-11-12T03:49:47Z,0,5,MERGED
+braid-design-system,fix(Checkbox): Fix checkbox tick in IE11,https://github.com/seek-oss/braid-design-system/pull/394,2019-11-11T02:35:59Z,2019-11-11T02:49:16Z,0,1,MERGED
+braid-design-system,feat(Icon): Add more components to suite,https://github.com/seek-oss/braid-design-system/pull/391,2019-11-08T03:35:51Z,2019-11-08T05:32:40Z,0,1,MERGED
+braid-design-system,docs: Restructure site to better handle icons,https://github.com/seek-oss/braid-design-system/pull/390,2019-11-08T02:38:49Z,2019-11-08T03:11:22Z,0,3,MERGED
+braid-design-system,feat: Add support for `promote` tone,https://github.com/seek-oss/braid-design-system/pull/380,2019-11-06T04:55:39Z,2019-11-07T02:45:38Z,0,4,MERGED
+braid-design-system,"feat: Add support for icons to TextField, Dropdown & Autosuggest",https://github.com/seek-oss/braid-design-system/pull/378,2019-11-05T23:22:05Z,2019-11-06T01:00:33Z,0,1,MERGED
+braid-design-system,fix: Invert weak buttons and field borders on ‘brand’ background,https://github.com/seek-oss/braid-design-system/pull/377,2019-11-05T22:21:13Z,2019-11-05T22:39:41Z,0,3,MERGED
+braid-design-system,fix(Autosuggest): Fix automatic selection for async suggestions,https://github.com/seek-oss/braid-design-system/pull/376,2019-11-05T22:10:41Z,2019-11-06T03:34:44Z,0,6,MERGED
+braid-design-system,fix(Button): Increase weak hover contrast on dark backgrounds,https://github.com/seek-oss/braid-design-system/pull/426,2019-12-18T22:22:17Z,2019-12-19T03:41:54Z,0,1,MERGED
+braid-design-system,feat(Tag): Add Tag component,https://github.com/seek-oss/braid-design-system/pull/474,2020-01-30T04:07:56Z,2020-01-31T04:10:30Z,6,12,MERGED
+braid-design-system,"fix(Checkbox,Radio,Toggle): Remove space around fields",https://github.com/seek-oss/braid-design-system/pull/468,2020-01-23T23:27:09Z,2020-01-24T03:30:22Z,0,1,MERGED
+braid-design-system,chore(Playroom): Add support for round placeholders,https://github.com/seek-oss/braid-design-system/pull/465,2020-01-20T00:54:58Z,2020-01-20T01:04:47Z,0,1,MERGED
+braid-design-system,fix(seekAnz): Update positive colour to improve contrast,https://github.com/seek-oss/braid-design-system/pull/455,2020-01-15T04:06:20Z,2020-01-15T04:17:29Z,0,1,MERGED
+braid-design-system,fix(Bullet): Use custom bullets to fix cross-browser rendering,https://github.com/seek-oss/braid-design-system/pull/452,2020-01-14T06:34:26Z,2020-01-15T20:24:40Z,0,5,MERGED
+braid-design-system,feat: Add BackgroundProvider for handling custom background colors,https://github.com/seek-oss/braid-design-system/pull/446,2020-01-08T23:35:03Z,2020-01-12T23:56:47Z,0,3,MERGED
+braid-design-system,chore: Only publish relevant files to npm,https://github.com/seek-oss/braid-design-system/pull/442,2020-01-06T00:32:24Z,2020-01-07T01:52:10Z,3,2,MERGED
+braid-design-system,fix(icons): Inherit parent tone when nesting icons inside links,https://github.com/seek-oss/braid-design-system/pull/503,2020-02-24T04:56:57Z,2020-02-25T22:22:44Z,0,9,MERGED
+braid-design-system,fix(Rating): Remove surrounding space,https://github.com/seek-oss/braid-design-system/pull/502,2020-02-23T19:54:10Z,2020-02-23T21:09:32Z,0,1,MERGED
+braid-design-system,feat(icons): New icons plus some updated to existing,https://github.com/seek-oss/braid-design-system/pull/501,2020-02-21T04:00:08Z,2020-02-24T23:03:42Z,1,3,MERGED
+braid-design-system,feat(Rating): Add component,https://github.com/seek-oss/braid-design-system/pull/500,2020-02-20T09:21:04Z,2020-02-21T03:35:41Z,1,6,MERGED
+braid-design-system,"feat: Update Alert design, add Notice and introduce caution tone",https://github.com/seek-oss/braid-design-system/pull/496,2020-02-19T00:59:41Z,2020-02-19T03:55:06Z,0,2,MERGED
+braid-design-system,fix(TextLink): Visually lower underline when permanently visible,https://github.com/seek-oss/braid-design-system/pull/494,2020-02-18T03:13:56Z,2020-02-18T21:39:03Z,0,1,MERGED
+braid-design-system,fix(Text): Support secondary text on dark backgrounds,https://github.com/seek-oss/braid-design-system/pull/478,2020-02-04T00:55:13Z,2020-02-07T02:24:38Z,0,4,MERGED
+braid-design-system,fix(Reset): Hide search cancel button from input,https://github.com/seek-oss/braid-design-system/pull/520,2020-03-10T00:47:26Z,2020-03-10T03:46:29Z,2,3,MERGED
+braid-design-system,Autosuggest: Support suggestion descriptions,https://github.com/seek-oss/braid-design-system/pull/613,2020-05-01T01:59:07Z,2020-05-01T02:20:56Z,1,1,MERGED
+braid-design-system,Highlight new components in Gallery,https://github.com/seek-oss/braid-design-system/pull/774,2020-09-29T02:27:45Z,2020-09-29T03:45:25Z,1,2,MERGED
+braid-design-system,Add jump feature to Gallery,https://github.com/seek-oss/braid-design-system/pull/773,2020-09-29T01:08:16Z,2020-09-29T01:21:36Z,1,3,MERGED
+braid-design-system,Fix clashing ids in Storybook and Playroom,https://github.com/seek-oss/braid-design-system/pull/1135,2022-08-11T00:01:33Z,2022-08-16T03:32:07Z,3,2,MERGED
+braid-design-system,Data prop standardisation and validation,https://github.com/seek-oss/braid-design-system/pull/1168,2022-10-20T23:23:37Z,2022-10-21T03:47:31Z,4,5,MERGED
+braid-design-system,Typography icon slots and increased size,https://github.com/seek-oss/braid-design-system/pull/1160,2022-10-13T05:52:44Z,2022-10-17T02:20:33Z,3,12,MERGED
+braid-design-system,Replace custom copy and play icons with `IconCopy` and `IconVideo` from braid,https://github.com/seek-oss/braid-design-system/pull/1157,2022-10-06T22:10:35Z,2022-10-06T22:45:21Z,1,2,MERGED
+braid-design-system,"Tab, Tabs: Updated visual design",https://github.com/seek-oss/braid-design-system/pull/1180,2022-11-03T02:47:13Z,2022-12-01T23:48:26Z,3,1,MERGED
+braid-design-system,Compiled Braid: Just file moves,https://github.com/seek-oss/braid-design-system/pull/1204,2023-01-23T05:22:23Z,2023-01-24T04:22:25Z,1,1,MERGED
+braid-design-system,Pre-compile with Crackle,https://github.com/seek-oss/braid-design-system/pull/1202,2023-01-10T06:16:20Z,2023-02-09T03:08:14Z,13,30,MERGED
+braid-design-system,Add a script to generate the Playroom snippets index file,https://github.com/seek-oss/braid-design-system/pull/1223,2023-02-16T02:18:23Z,2023-02-20T22:26:17Z,7,12,MERGED
+braid-design-system,Reorganize tasks,https://github.com/seek-oss/braid-design-system/pull/1208,2023-02-01T03:17:51Z,2023-02-03T02:49:37Z,3,5,MERGED
+braid-design-system,Add `small` radius & improve consistency of radius usage,https://github.com/seek-oss/braid-design-system/pull/1253,2023-03-27T22:47:27Z,2023-03-27T23:30:52Z,3,4,MERGED
+braid-design-system,"RadioItem, Toggle: Use formAccent border when selected",https://github.com/seek-oss/braid-design-system/pull/1251,2023-03-27T02:13:01Z,2023-03-27T04:18:33Z,3,2,MERGED
+braid-design-system,Hide field borders in dark containers,https://github.com/seek-oss/braid-design-system/pull/1294,2023-04-26T03:41:44Z,2023-04-26T05:11:40Z,2,1,MERGED
+braid-design-system,"TextLink, TextLinkButton: Improve underline position for wrapping text",https://github.com/seek-oss/braid-design-system/pull/1290,2023-04-20T23:40:33Z,2023-04-21T00:08:02Z,1,2,MERGED
+braid-design-system,Add `seekJobs` theme,https://github.com/seek-oss/braid-design-system/pull/1281,2023-04-11T05:00:29Z,2023-04-25T23:36:44Z,10,8,MERGED
+braid-design-system,"Button, ButtonLink: Align  border width with field border width",https://github.com/seek-oss/braid-design-system/pull/1274,2023-04-05T05:58:47Z,2023-04-05T11:37:52Z,2,2,MERGED
+braid-design-system,Add missing Stack,https://github.com/seek-oss/braid-design-system/pull/1273,2023-04-04T08:33:49Z,2023-04-04T08:44:20Z,2,1,CLOSED
+braid-design-system,Textarea: Add support for `caution` highlightRanges,https://github.com/seek-oss/braid-design-system/pull/1272,2023-04-04T05:21:26Z,2023-04-05T04:58:45Z,18,9,MERGED
+braid-design-system,"Alert, useToast: Design update",https://github.com/seek-oss/braid-design-system/pull/1269,2023-04-03T05:17:35Z,2023-04-03T22:05:44Z,3,2,MERGED
+braid-design-system,Drawer: Prevent close button protruding in left position,https://github.com/seek-oss/braid-design-system/pull/1351,2023-08-28T01:06:18Z,2023-08-28T04:32:27Z,1,3,MERGED
+braid-design-system,TextLink: Underline regular links in non-legacy themes,https://github.com/seek-oss/braid-design-system/pull/1347,2023-08-25T01:08:33Z,2023-09-04T22:44:33Z,6,7,MERGED
+braid-design-system,TabPanel: Align focus outline radius to scale,https://github.com/seek-oss/braid-design-system/pull/1345,2023-08-21T05:46:01Z,2023-08-21T22:40:34Z,1,1,MERGED
+braid-design-system,"apac, seekBusiness: Use `strong` weight instead of `medium` for Thai characters",https://github.com/seek-oss/braid-design-system/pull/1331,2023-08-02T05:31:20Z,2023-08-04T00:12:49Z,6,7,MERGED
+braid-design-system,"Button, ButtonLink: Default to ghost neutral in non-legacy themes",https://github.com/seek-oss/braid-design-system/pull/1363,2023-09-14T04:56:26Z,2023-09-18T00:20:01Z,7,4,MERGED
+braid-design-system,"Button, ButtonLink: Provide `formAccent` as the name for `undefined` tone",https://github.com/seek-oss/braid-design-system/pull/1359,2023-09-11T06:14:27Z,2023-09-12T00:05:25Z,1,1,MERGED
+braid-design-system,Fix Loader clipping,https://github.com/seek-oss/braid-design-system/pull/1370,2023-10-09T22:53:26Z,2023-10-11T02:26:03Z,1,2,MERGED
+braid-design-system,Solve some task dependency issues,https://github.com/seek-oss/braid-design-system/pull/1393,2023-11-14T00:31:15Z,2023-11-14T02:55:22Z,2,4,MERGED
+braid-design-system,seekJobs: Update `formAccent` colour,https://github.com/seek-oss/braid-design-system/pull/1387,2023-11-08T21:47:44Z,2023-11-09T02:17:51Z,1,5,MERGED
+braid-design-system,Don't bundle every syntax highlighter language,https://github.com/seek-oss/braid-design-system/pull/1408,2023-12-04T03:56:37Z,2023-12-04T05:54:22Z,5,4,MERGED
+braid-design-system,Text: Remove descender crop on truncated text,https://github.com/seek-oss/braid-design-system/pull/1451,2024-02-15T23:45:17Z,2024-02-18T22:50:48Z,4,7,MERGED
+braid-design-system,Tab: Remove cropping of the icon slot,https://github.com/seek-oss/braid-design-system/pull/1447,2024-02-09T03:59:35Z,2024-02-09T04:23:32Z,1,3,MERGED
+braid-design-system,"icons: Update socials and money, add sort",https://github.com/seek-oss/braid-design-system/pull/1438,2024-02-02T00:32:28Z,2024-02-02T02:42:51Z,1,3,MERGED
+braid-design-system,site: Fix nx task dependencies,https://github.com/seek-oss/braid-design-system/pull/1472,2024-03-06T03:31:55Z,2024-03-06T03:48:03Z,1,1,MERGED
+braid-design-system,IconPromote: Update semantic icon from sparkles to a megaphone,https://github.com/seek-oss/braid-design-system/pull/1500,2024-05-24T00:44:45Z,2024-05-24T03:49:39Z,1,1,MERGED
+braid-design-system,site: Update example bgs from checkers to dots,https://github.com/seek-oss/braid-design-system/pull/1526,2024-06-28T00:23:31Z,2024-06-28T01:23:35Z,1,3,MERGED
+braid-design-system,site: Apply transparent backgrounds to documentation examples,https://github.com/seek-oss/braid-design-system/pull/1524,2024-06-27T05:14:41Z,2024-06-27T23:18:16Z,1,6,MERGED
+braid-design-system,Tag: Introduce “addable” support,https://github.com/seek-oss/braid-design-system/pull/1521,2024-06-26T22:56:48Z,2024-06-27T02:11:04Z,5,3,MERGED
+braid-design-system,site: Fix previews theme overrides,https://github.com/seek-oss/braid-design-system/pull/1545,2024-07-29T23:39:37Z,2024-07-30T00:22:15Z,1,2,MERGED
+braid-design-system,site: Fix dark canvas for token examples,https://github.com/seek-oss/braid-design-system/pull/1532,2024-07-12T00:44:09Z,2024-07-12T01:33:09Z,1,1,MERGED
+braid-design-system,site: Fix Box & atoms unresponsive prop values,https://github.com/seek-oss/braid-design-system/pull/1555,2024-08-07T04:49:54Z,2024-08-07T05:20:56Z,1,1,MERGED
+braid-design-system,Spread: Add new layout component,https://github.com/seek-oss/braid-design-system/pull/1554,2024-08-07T01:43:16Z,2024-08-09T00:11:29Z,4,7,MERGED
+braid-design-system,Autosuggest group headings,https://github.com/seek-oss/braid-design-system/pull/1581,2024-09-18T00:12:47Z,2024-09-20T01:17:08Z,1,6,MERGED
+braid-design-system,Fix Clear button always being visible in Playroom TextFields,https://github.com/seek-oss/braid-design-system/pull/1725,2025-03-02T23:47:02Z,2025-03-26T06:25:01Z,2,4,MERGED
+braid-design-system,docs: Fix `DocExample` theme in Snippets tabs,https://github.com/seek-oss/braid-design-system/pull/1774,2025-05-07T00:08:05Z,2025-05-07T01:08:14Z,2,3,MERGED
+braid-design-system,Full vitest migration,https://github.com/seek-oss/braid-design-system/pull/1809,2025-06-25T08:15:37Z,2025-06-27T05:13:03Z,5,29,MERGED
+braid-design-system,Turn on turbosnap for Chromatic,https://github.com/seek-oss/braid-design-system/pull/1838,2025-07-15T06:21:25Z,2025-07-15T23:40:52Z,1,7,MERGED
+braid-design-system,Lint changeset codeblocks for unsupported syntax highlighting languages ,https://github.com/seek-oss/braid-design-system/pull/1825,2025-07-03T01:14:54Z,2025-07-07T00:51:37Z,6,4,MERGED

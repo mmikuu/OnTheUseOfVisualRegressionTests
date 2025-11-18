@@ -1,0 +1,21 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+bluesky-backup-webapp-server,Can authenticate with Storacha!,https://github.com/storacha/bluesky-backup-webapp-server/pull/3,2025-03-28T20:54:53Z,2025-04-02T23:35:57Z,0,3,MERGED
+bluesky-backup-webapp-server,Sketch login page,https://github.com/storacha/bluesky-backup-webapp-server/pull/2,2025-03-28T14:45:13Z,2025-03-31T14:32:42Z,0,4,MERGED
+bluesky-backup-webapp-server,Show tunnel status in terminal title,https://github.com/storacha/bluesky-backup-webapp-server/pull/1,2025-03-28T14:45:10Z,2025-04-02T23:35:46Z,0,1,MERGED
+bluesky-backup-webapp-server,fix: add pnpm build to CI,https://github.com/storacha/bluesky-backup-webapp-server/pull/42,2025-04-25T21:51:34Z,2025-04-25T22:37:12Z,1,1,MERGED
+bluesky-backup-webapp-server,feat: add snapshot detail modal,https://github.com/storacha/bluesky-backup-webapp-server/pull/32,2025-04-23T21:35:06Z,2025-04-24T20:02:46Z,3,7,MERGED
+bluesky-backup-webapp-server,feat: use the new Backup component,https://github.com/storacha/bluesky-backup-webapp-server/pull/27,2025-04-22T23:59:55Z,2025-04-23T16:45:14Z,0,3,MERGED
+bluesky-backup-webapp-server,feat(ui): use react-aria packages to make the Switch component accessible/controllable via keyboard,https://github.com/storacha/bluesky-backup-webapp-server/pull/26,2025-04-22T21:30:04Z,2025-04-23T07:02:08Z,0,1,MERGED
+bluesky-backup-webapp-server,feat: Handle delegation expiration,https://github.com/storacha/bluesky-backup-webapp-server/pull/191,2025-05-28T19:27:38Z,2025-05-29T13:43:53Z,1,12,MERGED
+bluesky-backup-webapp-server,fix: add disable switch color,https://github.com/storacha/bluesky-backup-webapp-server/pull/184,2025-05-23T12:20:39Z,2025-05-27T21:01:58Z,0,1,MERGED
+bluesky-backup-webapp-server,feat: Backups can be paused,https://github.com/storacha/bluesky-backup-webapp-server/pull/176,2025-05-20T15:56:19Z,2025-05-23T15:24:55Z,2,15,MERGED
+bluesky-backup-webapp-server,feat: add ability to archive backups,https://github.com/storacha/bluesky-backup-webapp-server/pull/170,2025-05-17T02:11:36Z,2025-05-29T15:45:20Z,7,16,MERGED
+bluesky-backup-webapp-server,fix: Match footer to storacha.network,https://github.com/storacha/bluesky-backup-webapp-server/pull/167,2025-05-16T17:41:58Z,2025-05-19T18:43:40Z,0,5,MERGED
+bluesky-backup-webapp-server,feat: Accounts are required to create a backup,https://github.com/storacha/bluesky-backup-webapp-server/pull/166,2025-05-16T16:02:53Z,2025-05-19T16:09:43Z,0,1,MERGED
+bluesky-backup-webapp-server,feat: add blobs page,https://github.com/storacha/bluesky-backup-webapp-server/pull/130,2025-05-12T11:03:59Z,2025-05-12T19:16:33Z,3,6,MERGED
+bluesky-backup-webapp-server,feat: add atproto identity manager,https://github.com/storacha/bluesky-backup-webapp-server/pull/129,2025-05-10T07:44:23Z,2025-05-14T17:29:32Z,11,11,MERGED
+bluesky-backup-webapp-server,fix: various tweaks and polish,https://github.com/storacha/bluesky-backup-webapp-server/pull/123,2025-05-09T05:42:26Z,2025-05-09T16:07:23Z,2,3,MERGED
+bluesky-backup-webapp-server,chore(ui): give atproto-connect a modal-like appearance,https://github.com/storacha/bluesky-backup-webapp-server/pull/89,2025-05-04T15:51:49Z,2025-05-07T19:29:42Z,4,4,MERGED
+bluesky-backup-webapp-server,feat: explainers and mobile improvements,https://github.com/storacha/bluesky-backup-webapp-server/pull/204,2025-06-04T23:42:07Z,2025-06-05T18:09:48Z,2,1,MERGED
+bluesky-backup-webapp-server,"feat: add a ""copy secret"" button to the new key dialog",https://github.com/storacha/bluesky-backup-webapp-server/pull/203,2025-06-04T19:07:47Z,2025-06-04T22:07:29Z,1,1,MERGED
+bluesky-backup-webapp-server,feat: disable identity transfer for now,https://github.com/storacha/bluesky-backup-webapp-server/pull/202,2025-06-04T17:34:09Z,2025-06-05T18:10:01Z,0,2,MERGED

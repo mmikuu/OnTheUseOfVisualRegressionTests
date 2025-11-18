@@ -1,0 +1,41 @@
+repo_name,pr_title,pr_url,created_at,closed_at,total_comments,total_commits,state
+addon-visual-tests,Implement test screen UI,https://github.com/chromaui/addon-visual-tests/pull/7,2023-06-15T04:06:13Z,2023-07-07T22:15:21Z,7,32,MERGED
+addon-visual-tests,Build: Switch to use pnpm,https://github.com/chromaui/addon-visual-tests/pull/5,2023-06-14T19:57:21Z,2023-06-15T15:08:58Z,2,8,MERGED
+addon-visual-tests,"Story scaffold all screens, linked up to Figma",https://github.com/chromaui/addon-visual-tests/pull/3,2023-06-09T11:10:09Z,2023-06-20T10:07:07Z,2,4,MERGED
+addon-visual-tests,Onboarding UI AP-3252,https://github.com/chromaui/addon-visual-tests/pull/2,2023-06-06T13:15:31Z,2023-06-14T15:29:24Z,6,18,MERGED
+addon-visual-tests,Don't force node@18 for package consumers,https://github.com/chromaui/addon-visual-tests/pull/19,2023-07-25T08:00:53Z,2023-07-25T10:51:29Z,0,2,MERGED
+addon-visual-tests,Set sidebar status from build result,https://github.com/chromaui/addon-visual-tests/pull/11,2023-07-12T13:55:23Z,2023-07-25T01:54:24Z,8,19,MERGED
+addon-visual-tests,Add SidebarBottom to toggle sidebar filtering based on story status,https://github.com/chromaui/addon-visual-tests/pull/45,2023-08-23T14:10:12Z,2023-08-26T09:10:08Z,8,8,MERGED
+addon-visual-tests,Add footer menu to link project screen,https://github.com/chromaui/addon-visual-tests/pull/29,2023-08-09T13:38:48Z,2023-08-14T14:02:39Z,1,1,MERGED
+addon-visual-tests,Show build progress on 'no build' screen,https://github.com/chromaui/addon-visual-tests/pull/107,2023-09-15T13:55:58Z,2023-09-16T05:07:12Z,1,2,MERGED
+addon-visual-tests,Show a loading state in between URQL states,https://github.com/chromaui/addon-visual-tests/pull/104,2023-09-15T06:10:20Z,2023-09-21T01:19:35Z,2,4,MERGED
+addon-visual-tests,Rename variables,https://github.com/chromaui/addon-visual-tests/pull/102,2023-09-15T05:02:15Z,2023-09-15T11:52:21Z,2,6,MERGED
+addon-visual-tests,Open dialog to allow creating a new project,https://github.com/chromaui/addon-visual-tests/pull/91,2023-09-08T04:56:51Z,2023-09-19T23:53:05Z,5,15,MERGED
+addon-visual-tests,Allow setting builds as args rather than parameters,https://github.com/chromaui/addon-visual-tests/pull/90,2023-09-08T03:57:47Z,2023-10-10T02:05:34Z,9,1,CLOSED
+addon-visual-tests,Add a compose `@storybook/components` in our Storybook,https://github.com/chromaui/addon-visual-tests/pull/88,2023-09-08T00:16:19Z,2023-09-12T12:10:23Z,4,2,MERGED
+addon-visual-tests,Show a notification when there is trouble accepting,https://github.com/chromaui/addon-visual-tests/pull/84,2023-09-07T00:46:54Z,2023-09-11T11:09:09Z,2,6,MERGED
+addon-visual-tests,Don't show menu when there's only one viewport or browser,https://github.com/chromaui/addon-visual-tests/pull/72,2023-09-04T14:56:28Z,2023-09-05T11:04:09Z,3,5,MERGED
+addon-visual-tests,Add option to accept entire build,https://github.com/chromaui/addon-visual-tests/pull/71,2023-09-04T11:37:24Z,2023-09-05T10:53:19Z,1,3,MERGED
+addon-visual-tests,Fix z-index to prevent weird rendering bug with Storybook panel,https://github.com/chromaui/addon-visual-tests/pull/129,2023-10-10T19:15:41Z,2023-10-10T19:55:30Z,0,1,MERGED
+addon-visual-tests,Explain the `No Access` error and offer a way out,https://github.com/chromaui/addon-visual-tests/pull/146,2023-11-09T10:40:00Z,2023-11-09T22:27:50Z,1,2,MERGED
+addon-visual-tests,UI to uninstall addon,https://github.com/chromaui/addon-visual-tests/pull/158,2024-01-24T19:37:23Z,2024-01-26T16:22:47Z,4,12,MERGED
+addon-visual-tests,Fix `first-child` warning in console,https://github.com/chromaui/addon-visual-tests/pull/183,2024-02-08T09:13:36Z,2024-03-13T10:36:35Z,0,3,CLOSED
+addon-visual-tests,Fix kebab-case `box-shadow` to proper `boxShadow`,https://github.com/chromaui/addon-visual-tests/pull/181,2024-02-07T22:47:38Z,2024-02-08T08:52:14Z,1,1,MERGED
+addon-visual-tests,Replace the design system with local source files,https://github.com/chromaui/addon-visual-tests/pull/171,2024-02-01T18:28:38Z,2024-02-02T00:46:16Z,1,10,MERGED
+addon-visual-tests,Add link to Visual Tests webpage on Authentication screens,https://github.com/chromaui/addon-visual-tests/pull/276,2024-03-28T11:05:14Z,2024-04-02T13:04:42Z,1,2,MERGED
+addon-visual-tests,Fix misbehaving in rendering when addon is not active,https://github.com/chromaui/addon-visual-tests/pull/272,2024-03-25T09:25:56Z,2024-04-04T12:17:56Z,0,3,MERGED
+addon-visual-tests,Update guided tour tooltip to match Storybook,https://github.com/chromaui/addon-visual-tests/pull/226,2024-03-19T20:25:04Z,2024-03-20T14:26:05Z,1,1,MERGED
+addon-visual-tests,Don't show extra border when no config is available,https://github.com/chromaui/addon-visual-tests/pull/221,2024-03-13T20:47:04Z,2024-03-14T15:12:20Z,0,3,MERGED
+addon-visual-tests,Fix inlineGlow animation,https://github.com/chromaui/addon-visual-tests/pull/207,2024-03-11T12:56:40Z,2024-03-11T13:18:51Z,0,1,MERGED
+addon-visual-tests,Show notification when connection to server is lost,https://github.com/chromaui/addon-visual-tests/pull/196,2024-03-05T14:24:43Z,2024-03-05T14:47:17Z,0,1,MERGED
+addon-visual-tests,Show error when build is limited (account is out of snapshots),https://github.com/chromaui/addon-visual-tests/pull/194,2024-03-05T09:51:16Z,2024-03-07T21:49:22Z,4,7,MERGED
+addon-visual-tests,Fix white background on snapshot image thumbnail with transparent `backgroundColor`,https://github.com/chromaui/addon-visual-tests/pull/283,2024-04-04T18:07:21Z,2024-04-05T09:27:15Z,2,2,MERGED
+addon-visual-tests,Show Errors filter in sidebar when there's component errors,https://github.com/chromaui/addon-visual-tests/pull/308,2024-05-15T12:11:10Z,2024-05-22T13:30:22Z,4,2,MERGED
+addon-visual-tests,"Show ""Visual Tests disabled"" screen when `uiTests` feature is disabled",https://github.com/chromaui/addon-visual-tests/pull/304,2024-05-13T15:34:27Z,2024-05-15T09:39:18Z,0,1,MERGED
+addon-visual-tests,Poll for API connection and show notification when it fails,https://github.com/chromaui/addon-visual-tests/pull/303,2024-05-10T12:29:32Z,2024-05-15T09:39:05Z,4,7,MERGED
+addon-visual-tests,Show message when snapshotting is disabled for story,https://github.com/chromaui/addon-visual-tests/pull/300,2024-05-08T10:45:39Z,2024-05-08T10:56:27Z,0,1,MERGED
+addon-visual-tests,Fix spin animation on build progress eyebrow,https://github.com/chromaui/addon-visual-tests/pull/298,2024-05-07T09:23:05Z,2024-05-07T15:25:55Z,0,1,MERGED
+addon-visual-tests,Update story status reporting for Storybook 8.3 and use new `SET_FILTER` event,https://github.com/chromaui/addon-visual-tests/pull/332,2024-07-31T11:05:47Z,2024-08-20T13:42:38Z,1,3,MERGED
+addon-visual-tests,Prevent running tests from Testing Module while there's a warning,https://github.com/chromaui/addon-visual-tests/pull/345,2024-10-30T10:11:42Z,2024-10-30T10:20:04Z,1,1,MERGED
+addon-visual-tests,Add a prefix to log messages,https://github.com/chromaui/addon-visual-tests/pull/343,2024-10-23T12:36:58Z,2024-10-24T07:19:54Z,1,5,MERGED
+addon-visual-tests,Handle missing git user.email config,https://github.com/chromaui/addon-visual-tests/pull/375,2025-05-21T14:43:01Z,2025-05-23T11:50:54Z,3,5,MERGED
