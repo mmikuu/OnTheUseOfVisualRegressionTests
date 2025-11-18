@@ -5,7 +5,7 @@ import re
 import os
 from datetime import datetime
 
-INPUT_CSV = '../../data/unique-vrt-comments-without.csv'
+INPUT_CSV = '../../data/unique-vrt-comments-without-open.csv'
 PULL_LIST_CSV = '../../data/list-vrt-comments.csv'
 OUTPUT_CSV = '../../data/non_vrt/visual-pr-without-open.csv'
 
@@ -13,11 +13,10 @@ OUTPUT_CSV_IN_RANGE = '../../data/non_vrt/visual-pr-without-open-in-range-saner.
 
 
 CANDIDATE_DIRS = [
-    "../../data/visual_prs_not_in_vrt_in_comments2",
+    "../../data/visual_prs_not_in_vrt_in_comments",
 ]
 
 
-# Regex pattern to extract GitHub repository and PR number
 REPO_PULL_PATTERN = re.compile(r"https://github\.com/([^/]+)/([^/]+)/pull/(\d+)")
 REPO_PATTERN = re.compile(r"https://github\.com/([^/]+)/([^/]+)")
 
@@ -28,7 +27,6 @@ try:
 except ValueError as e:
     print(f"Error defining date filters: {e}")
     exit(1)
-# ---
 
 print("Script start")
 print(f"Step 1: Loading oldest PR creation dates per repository from {PULL_LIST_CSV}...")
@@ -250,7 +248,7 @@ if shortage_repos_list_in_range:
         print(line)
 else:
     print("All repositories met their target selection counts (In date range only).")
-# ---
+
 
 
 print(f"\nStep 5: Writing results to {OUTPUT_CSV} (After oldest_date filter)...")

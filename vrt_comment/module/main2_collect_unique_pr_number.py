@@ -1,22 +1,18 @@
 import csv
 import collections
 import re
-import os  # osモジュールをインポート
+import os  
 
-# --- 入力ファイル ---
 csv_file_path = "../../data/list-vrt-comments.csv"
 
-# --- 出力ファイル ---
 output_file_path_merged = "../../data/unique-vrt-comments-merged.csv"
 output_file_path_closed = "../../data/unique-vrt-comments-closed.csv"
 output_file_path_open = "../../data/unique-vrt-comments-open.csv"
 output_file_path_without_open = "../../data/unique-vrt-comments-without-open.csv" 
 comment_output_file = "../../results/analytics/calculate-pr.csv"
 
-# 確認用の新しいCSVファイルのパス
 output_file_path_merged_pr_urls = "../../data/classification/vrt_merged_comments.csv"
 
-# --- データ格納用の変数 ---
 merged_repo_comment_prs = collections.defaultdict(list)
 closed_repo_comment_prs = collections.defaultdict(list)
 open_repo_comment_prs = collections.defaultdict(list)
@@ -30,17 +26,15 @@ without_open_repo_all_pr_numbers_list = collections.defaultdict(list)
 pull_pattern = re.compile(r"^https://github.com/([^/]+)/([^/]+)/pull/(\d+)")
 all_processed_repo_names = set()
 
-# MERGED PRのURLを格納するため（重複なし）のsetを定義
 merged_pr_urls_set = set()
 
-# 出力先ディレクトリの存在確認と作成
 classification_dir = os.path.dirname(output_file_path_merged_pr_urls)
-if classification_dir: # classification_dirが空でないことを確認
+if classification_dir:
     os.makedirs(classification_dir, exist_ok=True)
     print(f"Ensured directory exists: {classification_dir}")
 
 
-# --- CSVファイルの読み込みとデータ集計 ---
+
 try:
     with open(csv_file_path, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -52,11 +46,9 @@ try:
             url = row.get("url", "").strip()
             pr_state = row.get("state", "").strip().upper()
 
-            # ✨ 変更点: stateがMERGEDなら、URLの形式に関わらずCSV出力対象に追加
             if pr_state == 'MERGED':
                 merged_pr_urls_set.add(url)
 
-            # URLが正しい形式の場合のみ、他の集計処理を行う
             match = pull_pattern.search(url)
             if match:
                 repo_name = f"{match.group(1)}/{match.group(2)}"
@@ -66,16 +58,15 @@ try:
                 if pr_state == 'MERGED':
                     merged_repo_comment_prs[repo_name].append(pr_number)
                     merged_repo_all_pr_numbers_list[repo_name].append(pr_number)
-                    # 合算用のデータにも追加
                     without_open_repo_comment_prs[repo_name].append(pr_number)
                     without_open_repo_all_pr_numbers_list[repo_name].append(pr_number)
                     
-                    # (merged_pr_urls_set.add(url) は上のブロックに移動しました)
+                
                     
                 elif pr_state == 'CLOSED':
                     closed_repo_comment_prs[repo_name].append(pr_number)
                     closed_repo_all_pr_numbers_list[repo_name].append(pr_number)
-                    # 合算用のデータにも追加
+
                     without_open_repo_comment_prs[repo_name].append(pr_number)
                     without_open_repo_all_pr_numbers_list[repo_name].append(pr_number)
                 elif pr_state == 'OPEN':
@@ -89,12 +80,11 @@ except Exception as e:
     print(f"Error: An issue occurred while reading the input file: {e}")
     exit()
 
-# 収集したMERGED PRのURLを新しいCSVファイルに書き出す
 try:
     with open(output_file_path_merged_pr_urls, mode='w', newline='', encoding='utf-8') as outfile:
         writer = csv.writer(outfile)
-        writer.writerow(['pr_url'])  # ヘッダーを書き込む
-        for pr_url in sorted(list(merged_pr_urls_set)): # ソートして書き込む
+        writer.writerow(['pr_url']) 
+        for pr_url in sorted(list(merged_pr_urls_set)): 
             writer.writerow([pr_url])
     print(f"\nSuccessfully wrote {len(merged_pr_urls_set)} unique merged PR URLs (including non-standard URLs) to '{output_file_path_merged_pr_urls}'.")
 except Exception as e:
@@ -134,7 +124,7 @@ def write_output_csv_per_repo(output_path, repo_comment_data, repo_all_prs_list_
     print(f"{state_description} PR data: Outputted data for {written_repo_count} repositories to CSV file '{output_path}'.")
     return written_repo_count
 
-# --- 各CSVファイルの書き出し ---
+
 write_output_csv_per_repo(output_file_path_merged, merged_repo_comment_prs, merged_repo_all_pr_numbers_list,
                           merged_repo_unique_counts_per_repo, "Merged")
 write_output_csv_per_repo(output_file_path_closed, closed_repo_comment_prs, closed_repo_all_pr_numbers_list,
@@ -144,7 +134,7 @@ write_output_csv_per_repo(output_file_path_open, open_repo_comment_prs, open_rep
 write_output_csv_per_repo(output_file_path_without_open, without_open_repo_comment_prs, without_open_repo_all_pr_numbers_list,
                           None, "Merged and Closed (without Open)")
 
-# --- 最終統計の計算と出力 ---
+
 total_unique_merged_prs = sum(merged_repo_unique_counts_per_repo.values())
 total_unique_closed_prs = sum(closed_repo_unique_counts_per_repo.values())
 total_unique_open_prs = sum(open_repo_unique_counts_per_repo.values())
@@ -168,7 +158,6 @@ total_projects_with_open_prs = len(open_repo_unique_counts_per_repo)
 projects_with_merged_or_closed_prs = set(merged_repo_unique_counts_per_repo.keys()) | set(closed_repo_unique_counts_per_repo.keys())
 total_projects_with_merged_or_closed_prs = len(projects_with_merged_or_closed_prs)
 
-# このtotal_merged_commentsは「正しいURL形式の」コメントのみをカウントします
 total_merged_comments = sum(len(pr_list) for pr_list in merged_repo_comment_prs.values())
 total_closed_comments = sum(len(pr_list) for pr_list in closed_repo_comment_prs.values())
 total_open_comments = sum(len(pr_list) for pr_list in open_repo_comment_prs.values())

@@ -304,4 +304,4 @@ except Exception as e:
     exit(1)
 
 
-print("\n✅ Script finished successfully (no GitHub API / no extension filtering)")
+print("\n Script finished successfully (no GitHub API / no extension filtering)")

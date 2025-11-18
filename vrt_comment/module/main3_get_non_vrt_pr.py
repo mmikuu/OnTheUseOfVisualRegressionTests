@@ -5,13 +5,12 @@ import requests
 import csv
 from requests.exceptions import ChunkedEncodingError
 
-# --- 定数 ---
-# ★★★★★ ご自身のGitHubトークンに書き換えてください ★★★★★
+
 GITHUB_TOKEN = 'xxx'
 GRAPHQL_URL = 'https://api.github.com/graphql'
 DATE_SETTINGS_FILE = '../settings.txt'
 
-# --- GraphQLクエリ ---
+
 QUERY_TEMPLATE = '''
 query ($cursor: String, $searchQuery: String!) {
   search(query: $searchQuery, type: ISSUE, first: 30, after: $cursor) {
@@ -51,10 +50,9 @@ query ($cursor: String, $searchQuery: String!) {
 }
 '''
 
-# --- 関数定義 ---
 
 def run_query(query, variables, max_retries=3):
-    """GraphQLクエリを実行し、リトライ処理も行う"""
+
     headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
     attempt = 0
     while attempt < max_retries:
@@ -80,7 +78,7 @@ def run_query(query, variables, max_retries=3):
     raise Exception("Max retries reached. Query failed.")
 
 def fetch_pull_requests_from_repo(repo_name, start_date_str, end_date_str, pull_numbers_to_exclude):
-    """指定されたリポジトリと期間からPRをフェッチし、条件でフィルタリングする"""
+
     all_items = []
     cursor = None
     has_next_page = True
@@ -110,31 +108,28 @@ def fetch_pull_requests_from_repo(repo_name, start_date_str, end_date_str, pull_
                 print(f"Skipping PR #{pr_number_str} by Bot {author_info.get('login')}.")
                 continue
 
-            # --- ★ここからが変更箇所★ ---
 
             def contains_image(text):
-                """テキストに画像マークダウンまたはimgタグが含まれているかチェック"""
                 if not text:
                     return False
-                # マークダウン形式の画像: ![alt](src) または HTML形式の画像: <img
+
                 return ("![" in text and "](" in text) or "<img" in text
 
-            # 1. PRのbody (説明文) をチェック
+
             pr_body = item.get('body') or ""
             has_image_in_body = contains_image(pr_body)
 
-            # 2. PRのコメント (Issue Comments) をチェック
+
             has_image_in_comments = False
             comment_edges = item.get('comments', {}).get('edges', [])
             for comment_edge in comment_edges:
                 comment_body = comment_edge.get('node', {}).get('body')
                 if contains_image(comment_body):
                     has_image_in_comments = True
-                    break  # 1つでも見つかればチェック終了
+                    break 
 
-            # 3. PRのレビューコメント (Review Comments) をチェック
             has_image_in_review_comments = False
-            if not has_image_in_body and not has_image_in_comments: # まだ画像が見つかっていなければ
+            if not has_image_in_body and not has_image_in_comments: 
                 review_thread_edges = item.get('reviewThreads', {}).get('edges', [])
                 for thread_edge in review_thread_edges:
                     thread_comments = thread_edge.get('node', {}).get('comments', {}).get('edges', [])
@@ -142,14 +137,12 @@ def fetch_pull_requests_from_repo(repo_name, start_date_str, end_date_str, pull_
                         review_comment_body = review_comment_edge.get('node', {}).get('body')
                         if contains_image(review_comment_body):
                             has_image_in_review_comments = True
-                            break  # スレッド内のループを終了
+                            break 
                     if has_image_in_review_comments:
-                        break  # 全スレッドのループを終了
+                        break 
 
-            # 最終的な画像有無の判定 (body, comments, reviewComments のいずれか)
             has_image = has_image_in_body or has_image_in_comments or has_image_in_review_comments
             
-            # --- ★変更箇所ここまで★ ---
 
             is_excluded = pr_number_str in pull_numbers_to_exclude
 
@@ -174,7 +167,6 @@ def fetch_pull_requests_from_repo(repo_name, start_date_str, end_date_str, pull_
 
 
 def save_to_csv(items, repo_name):
-    """収集したデータをCSVファイルに保存する"""
     directory = '../../data/visual_prs_not_in_vrt_in_comments'
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -200,7 +192,6 @@ def save_to_csv(items, repo_name):
     print(f"Data for {repo_name} saved to {file_path}")
 
 def get_repositories_from_csv(csv_files):
-    """複数のCSVファイルから除外リストを読み込み、1つの辞書に統合する"""
     repo_info = {}
     for csv_file in csv_files:
         try:
@@ -228,7 +219,6 @@ def get_repositories_from_csv(csv_files):
     return repo_info
 
 def load_date_ranges_from_file(filepath):
-    """settings.txtから期間設定を読み込む"""
     date_ranges = []
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -258,12 +248,10 @@ def load_date_ranges_from_file(filepath):
         exit(1)
     return date_ranges
 
-# --- メイン実行ブロック ---
 
 if __name__ == '__main__':
-    # MergedとClosedの除外リストファイルを指定
     files_to_process = [
-        '../../data/unique-vrt-comments-without-open-saner.csv',
+        '../../data/unique-vrt-comments-without-open.csv',
     ]
     
     repo_info_data = get_repositories_from_csv(files_to_process)
