@@ -1,5 +1,5 @@
 # OnTheUseOfVisualRegressionTests
-This repository includes the replication package and results for EASE2026 (Short Paper). 
+This repository includes the replication package and results for ICSME2026 (Short Paper). 
 If you want to use this tool in your research, please cite our paper:
 
 ## Source code
